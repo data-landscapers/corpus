@@ -1,0 +1,38 @@
+{"slug": "2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The WURI-Benin national coordinator reports more than 15.7 million digital authentications performed by ANIP through X-Road, and lists digital certificates for authentication and signature (PKI) among Benin's reforms.", "as_of": "2025", "date_precision": "year", "system": "ANIP authentication via X-Road", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The WURI-Benin coordinator says 19 national public services are linked to the RNPP system and that the unique personal number (NPI) is required as user identifier in online services.", "as_of": "2025", "date_precision": "year", "system": "RNPP / NPI", "class": "authentication"}
+], "systems": [{"system": "RNPP", "country_label": "Benin", "class": "other", "platform": "", "owner": "ANIP", "tiers": ""}, {"system": "TrustedX platform", "country_label": "Benin", "class": "authentication", "platform": "TrustedX", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck names a law on systematic birth declaration by USSD and X-Road interoperability but does not say records pass between the civil register and the ID system."}}},
+"civilregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck calls civil-status registration little digitised and lists CRVS implementation only as a perspective; no digital civil register is stated in service."}}},
+"dataexchange": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "The WURI-Benin coordinator lists interoperability via X-Road among Benin's reforms and reports more than 15.7 million digital authentications performed by ANIP through X-Road.", "as_of": "2025", "date_precision": "year", "system": "X-Road", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "The deck reports more than 15.7 million digital authentications performed by ANIP via X-Road.", "as_of": "2025", "date_precision": "year", "system": "X-Road", "class": "exchange"}
+], "systems": [{"system": "X-Road", "country_label": "Benin", "class": "exchange", "platform": "X-Road", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck lists personal data protection and consent as themes but names no data protection law, authority or decision."}}},
+"digitalidlaw": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The deck lists a law on the identification of persons among Benin's key reforms, with fraud penalised by 1 to 10 years in prison and fines up to 10 million FCFA.", "as_of": "2025", "date_precision": "year", "system": "Loi sur l'identification des personnes", "class": "law"},
+{"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "The deck lists mandatory encryption of biometric data, an independent audit of the RNPP and the NPI as unique user identifier in online services among the reforms of the identification framework.", "as_of": "2025", "date_precision": "year", "system": "Loi sur l'identification des personnes", "class": "law"}
+], "systems": [], "note": ""}}},
+"ecommercelaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck names an eIDAS-compliant e-signature platform but no electronic transactions or e-commerce law."}}},
+"egovservices": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "gateway", "value": "single", "fact": "The deck says a unique identifier is required before accessing a service on the e-services portal, and that 19 national public services are linked to the RNPP system.", "as_of": "2025", "date_precision": "year", "system": "e-services portal", "class": "eservices"}
+], "systems": [{"system": "e-services portal", "country_label": "Benin", "class": "eservices", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "twothirds", "fact": "The WURI-Benin coordinator reports more than 13.41 million people enrolled, stated as 98% of the 2026 population projection.", "as_of": "2025", "date_precision": "year", "system": "RNPP", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck mentions systematic birth declaration by USSD but no ID number given at birth."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck states nothing on who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck says 19 services are linked to the RNPP but names no public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The WURI-Benin coordinator reports more than 13.41 million people enrolled in the RNPP and more than 9 million fID produced.", "as_of": "2025", "date_precision": "year", "system": "RNPP", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "international", "aspect": "use", "value": "required", "fact": "The deck lists mandatory encryption of biometric data under standard ISO/IEC 19792 among Benin's safeguards in the identification reform.", "as_of": "2025", "date_precision": "year", "system": "ISO/IEC 19792", "class": "adoption"}
+], "systems": [], "note": ""}}},
+"populationregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The deck reports more than 13.41 million people enrolled in the national register of natural persons (RNPP), 98% of the 2026 population projection.", "as_of": "2025", "date_precision": "year", "system": "RNPP", "class": "population"},
+{"sub_indicator": "population", "aspect": "used", "value": "source", "fact": "The deck says 19 national public services are linked to the RNPP system.", "as_of": "2025", "date_precision": "year", "system": "RNPP", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The deck says civil-status registration is little digitised and names USSD birth declaration, which is notification, not entry at the registry office."}}}
+}}

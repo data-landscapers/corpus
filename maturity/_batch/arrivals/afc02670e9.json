@@ -1,0 +1,24 @@
+{"slug": "2026-08-26-egy-masrtimes-mcit-launches-digital-identity-remote-mobile-services", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Masr Times reports that the communications ministry, through NTRA, launched the 'Digital Identity' biometric verification system, which matches a face and biometric data to Civil Status Authority records and is being applied on a pilot, gradual basis.", "as_of": "2026-08", "date_precision": "month", "system": "Digital Identity (electronic biometric verification)", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Masr Times reports the verification infrastructure is open to the four licensed mobile operators and integrates licensed e-signature firms, with services varying by operator during the pilot.", "as_of": "2026-08", "date_precision": "month", "system": "Digital Identity (electronic biometric verification)", "class": "authentication"}
+], "systems": [{"system": "Digital Identity (electronic biometric verification)", "country_label": "Egypt", "class": "authentication", "platform": "", "owner": "MCIT / NTRA", "tiers": "pilot, four mobile operators"}], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"dataexchange": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "Masr Times reports a digital infrastructure, in pilot, links the communications ministry bodies, the Civil Status Authority, mobile operators and e-signature firms to verify identity and exchange data.", "as_of": "2026-08", "date_precision": "month", "system": "Digital Identity infrastructure", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data protection law is named; only a general reference to data protection requirements."}}},
+"ecommercelaw": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Masr Times states that an electronic signature made through the system has legal force under the rules regulating electronic signature, with licensed e-signature companies issuing the certificates.", "as_of": "2026-08", "date_precision": "month", "system": "e-signature rules", "class": "law"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The services are mobile operators' services, not government services."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No count of people holding a national ID."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who operates the national ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only operators' checks against civil status data, which is not a public register keyed on the number."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Civil Status records are matched but the ID system itself is not described."}}},
+"idverification": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "Masr Times reports that mobile line purchase and activation and e-wallet opening are being checked by biometric match against Civil Status Authority records, in a pilot with the four licensed operators.", "as_of": "2026-08", "date_precision": "month", "system": "Digital Identity (electronic biometric verification)", "class": "relying"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

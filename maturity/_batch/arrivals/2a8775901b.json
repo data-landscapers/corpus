@@ -1,0 +1,15 @@
+{"slug": "2025-03-20-zaf-sassa-explains-why-it-paid-grants-to-75-000-dead-people", "studies": {
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document describes SASSA's sync with Home Affairs death records for grants, not a link between the civil register and the ID system."}}},
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing of e-procurement."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing of the central bank."}}},
+"civilregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says death registrations with Home Affairs are delayed but does not say they are digital or name a system."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing of digital financial services rules."}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing of cross-border payments."}}},
+"disabilityaccess": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document mentions disability grants only, with nothing on information or digital access."}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "SOCPEN / BRM", "country_label": "ZAF", "class": "g2p", "platform": "", "owner": "SASSA", "tiers": ""}], "note": "The document does not say grants are paid digitally; its Home Affairs sync is for death records, not stated as a check of payments against the ID."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing of an ID number given at birth."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document gives no survey of adults holding accounts."}}},
+"registry": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document does not describe how local civil registration offices enter events."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing of mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing of tax or fee payment."}}}
+}}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-01-01-caf-meyng-nllb-sango-finetuned-600m",
+  "studies": {
+    "aisystems": {"countries": {"CAF": {
+      "facts": [
+        {
+          "sub_indicator": "localai",
+          "aspect": "build",
+          "value": "inservice",
+          "fact": "The MEYNG model card on Hugging Face describes an openly released Sango-French translation model fine-tuned from NLLB-200-distilled-600M on over 500,000 Sango-French sentence pairs, with benchmark results; the document does not say where it was built.",
+          "as_of": "2026",
+          "date_precision": "year",
+          "system": "MEYNG/nllb-sango-finetuned-600m",
+          "class": "localai"
+        }
+      ],
+      "systems": [
+        {"system": "MEYNG/nllb-sango-finetuned-600m", "country_label": "MEYNG Sango NLLB 600M", "class": "localai", "platform": "Hugging Face", "owner": "MEYNG", "tiers": ""}
+      ],
+      "note": ""
+    }}}
+  }
+}

@@ -1,0 +1,382 @@
+{
+ "slug": "2026-03-24-xaf-smart-africa-cmict8-new-member-states-42",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state anything on this study."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa said on 2026-03-24 that it welcomed this country as one of six recently joined member states, taking the Alliance to 42.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Smart Africa said its 8th CMICT on 2026-03-24 elected Cote d'Ivoire's minister Djibril Ouattara Vice Chair of the Council for a two-year term.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa named the Republic of Congo's minister Leon Juste Ibombo as outgoing Chair of its CMICT in its 2026-03-24 report on the 8th meeting.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa said on 2026-03-24 that it welcomed this country as one of six recently joined member states, taking the Alliance to 42.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa named Ghana's minister Samuel Nartey George as outgoing Vice Chair of its CMICT in its 2026-03-24 report on the 8th meeting.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa said on 2026-03-24 that it welcomed this country as one of six recently joined member states, taking the Alliance to 42.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa said on 2026-03-24 that it welcomed this country as one of six recently joined member states, taking the Alliance to 42.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa said on 2026-03-24 that it welcomed this country as one of six recently joined member states, taking the Alliance to 42.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not name this country in connection with the study."
+    },
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Smart Africa said on 2026-03-24 that it welcomed this country as one of six recently joined member states, taking the Alliance to 42.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Smart Africa said its 8th CMICT on 2026-03-24 elected Zimbabwe's ICT minister Tatenda Mavetera Chair of the Council for a two-year term.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Smart Africa CMICT",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Council of Ministers of ICT (CMICT)",
+       "country_label": "Smart Africa",
+       "class": "cooperation",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

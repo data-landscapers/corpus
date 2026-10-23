@@ -1,0 +1,23 @@
+{
+  "slug": "2025-10-27-cpv-first-steps-towards-the-development-of-an-llm-for-the-cape-verdean-cre",
+  "studies": {
+    "aisystems": {"countries": {"CPV": {
+      "facts": [
+        {
+          "sub_indicator": "localai",
+          "aspect": "build",
+          "value": "underway",
+          "fact": "A Zenodo study reports training from scratch a RoBERTa 83M-based model on crowdsourced and scraped Cape Verdean Creole corpora, which outperformed a fine-tuned Albertina 100M model at fill-mask (accuracy 68.86%), as first steps towards a Creole LLM, with experiments run on the authors' university infrastructure.",
+          "as_of": "2025-10-27",
+          "date_precision": "day",
+          "system": "RoBERTa 83M Cape Verdean Creole model",
+          "class": "localai"
+        }
+      ],
+      "systems": [
+        {"system": "RoBERTa 83M Cape Verdean Creole model", "country_label": "Cape Verdean Creole RoBERTa 83M model", "class": "localai", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": ""
+    }}}
+  }
+}

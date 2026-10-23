@@ -1,0 +1,11 @@
+{"slug": "2026-10-05-tgo-undp-voix-du-togo-infrastructure-gpu-supercalculateur", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Administration use is stated only as a possible future use of the models; no government body is using or testing an AI system."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Sector services are stated only as future possibilities; results of the challenge are still to come."}}},
+"aisystems": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "UNDP Togo says the Ministry of Public Service Efficiency and Digital Transformation launched, through the Togo AI Lab, a national local languages challenge whose pilot phase aims to develop AI models for Kabye, Ewe and Moba.", "as_of": "2026-10", "date_precision": "month", "system": "Challenge national des langues locales (Voix du Togo)", "class": "localai"},
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "UNDP says it is supporting the Togo AI Lab in setting up a GPU-based AI infrastructure, presented as a supercomputer, to train local-language models; no specification, cost or commissioning date is given.", "as_of": "2026-10", "date_precision": "month", "system": "Togo AI Lab GPU infrastructure", "class": "localai"}],
+"systems": [{"system": "Togo AI Lab GPU infrastructure", "country_label": "Togo", "class": "localai", "platform": "GPU", "owner": "Togo AI Lab", "tiers": ""}, {"system": "Challenge national des langues locales", "country_label": "Togo", "class": "localai", "platform": "", "owner": "Ministry of Public Service Efficiency and Digital Transformation / Togo AI Lab", "tiers": ""}], "note": ""}}},
+"startups": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Startups are named only as future users of the resources; no startup law, label or fund stated."}}},
+"techhubs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Togo AI Lab is not stated to host startups or run an incubation programme."}}}
+}}

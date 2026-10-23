@@ -1,0 +1,22 @@
+{"slug": "2025-02-03-civ-koaci-orange-bank-africa-oneci-convention-authentification", "studies": {
+"authentication": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "KOACI reports that on 3 February 2025 ONECI signed a convention with Orange Bank Africa under which ONECI makes APIs available so the bank can integrate ONECI's authentication solutions and verify customer identities instantly.", "as_of": "2025-02-03", "date_precision": "day", "system": "ONECI authentication solutions", "class": "authentication"}
+], "systems": [{"system": "ONECI authentication solutions", "country_label": "Cote d'Ivoire", "class": "authentication", "platform": "API", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and the ID system."}}},
+"civilregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on a digital civil register."}}},
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The ONECI director general says the convention with Orange Bank Africa is legally framed by personal data protection rules, with the authorisation of ARTICI.", "as_of": "2025-02-03", "date_precision": "day", "system": "ARTICI", "class": "authority"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The ONECI director general says the convention with Orange Bank Africa was made with the authorisation of ARTICI, under personal data protection rules.", "as_of": "2025-02-03", "date_precision": "day", "system": "ARTICI", "class": "authority"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A bank's KYC check is not a public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "ONECI's identity records are mentioned only as the API source for the bank; nothing on the system's issuance, biometrics or certification."}}},
+"idverification": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "KOACI reports that on 3 February 2025 Orange Bank Africa and ONECI signed a convention under which the bank will integrate ONECI's authentication solutions through APIs to verify customer identity for KYC.", "as_of": "2025-02-03", "date_precision": "day", "system": "ONECI APIs for Orange Bank Africa", "class": "relying"}
+], "systems": [], "note": ""}}},
+"mobilepenetration": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The only figure is mobile penetration above 85% for the UEMOA region, not for Cote d'Ivoire and not a share of people owning a phone."}}},
+"populationregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article mentions the RNPP only in its catalogue summary line, not in the body; nothing stated on a population register."}}},
+"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on civil registration offices entering events digitally."}}}
+}}

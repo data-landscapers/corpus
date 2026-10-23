@@ -1,0 +1,25 @@
+{"slug": "2024-08-30-mus-digital-identity-card-1-mobile-app-1-id", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "News Moris, citing the Minister of Technology, Communication and Innovation, says the Mobile ID launched on 29 August 2024 and lets people sign documents digitally.", "as_of": "2024-08-29", "date_precision": "day", "system": "Mobile ID", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "News Moris says public organisations and businesses get a separate application to verify identities against the Mobile ID, with the citizen approving each request.", "as_of": "2024-08-29", "date_precision": "day", "system": "Mobile ID", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "News Moris says citizens can download the Mobile Wallet Application, a digital wallet holding their identity card, from Google Play and the Apple App Store, using a Maupass account.", "as_of": "2024-08-29", "date_precision": "day", "system": "Mobile ID (Mobile Wallet Application)", "class": "authentication"}],
+"systems": [{"system": "Mobile ID (Mobile Wallet Application)", "country_label": "Mauritius", "class": "authentication", "platform": "mobile app", "owner": "Ministry of Technology, Communication and Innovation", "tiers": ""}, {"system": "MNIC Portal", "country_label": "Mauritius", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on this question for Mauritius."}}},
+"businesspayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on this question for Mauritius."}}},
+"centralbank": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on this question for Mauritius."}}},
+"consumerprotection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on this question for Mauritius."}}},
+"crossborderpayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on this question for Mauritius."}}},
+"dataprotectionlaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article says the Mobile ID adheres to the Data Protection Act but gives no standing, authority or application."}}},
+"g2ppayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on government payments to people."}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article gives no enrolment count or share."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article names the builders (Thales, Harel Mallac Technologies) but not who operates or owns the system."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article names no public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "News Moris says all holders of a Mauritian identity card are eligible for the Mobile ID, and the cost of the MNIC 3.0 and Mobile ID systems is estimated at Rs 375 million.", "as_of": "2024-08-29", "date_precision": "day", "system": "MNIC identity card", "class": "idsystem"},
+{"sub_indicator": "robustness", "aspect": "assurance", "value": "certified", "fact": "News Moris quotes the Minister saying an independent security audit of the Mobile ID has been conducted and will be repeated every three years.", "as_of": "2024-08-29", "date_precision": "day", "system": "Mobile ID", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article says organisations will have a verifier application, with no service in use stated."}}},
+"paymentsuptake": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article gives no survey of account holding."}}},
+"retailpayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on this question for Mauritius."}}},
+"revenuecollection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The article states nothing on this question for Mauritius."}}}
+}}

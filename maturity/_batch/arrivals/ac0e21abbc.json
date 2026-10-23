@@ -1,0 +1,21 @@
+{"slug": "2024-09-16-ner-celebration-de-la-journee-internationale-de-l-identification-id-day-20", "studies": {
+"addressregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "No addressing system is mentioned."}}},
+"authentication": {"countries": {"NER": {"facts": [], "systems": [], "note": "No authentication service is mentioned."}}},
+"birthidlink": {"countries": {"NER": {"facts": [], "systems": [], "note": "A single authority for personal data and unique numbers, and a future register of civil events, are announced as plans; no link between civil register and ID is stated."}}},
+"businessregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "No business register is mentioned."}}},
+"civilregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "Digitisation of issued birth certificates is announced as future work; nothing is piloted or rolled out."}}},
+"electoralregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "No voters' roll is mentioned."}}},
+"idcoverage": {"countries": {"NER": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given; the 8 million is a target for first birth certificates."}}},
+"idfrombirth": {"countries": {"NER": {"facts": [], "systems": [], "note": "Unique numbers are to be given by a future authority; none at birth is stated."}}},
+"idmaintenance": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing is stated about who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"NER": {"facts": [], "systems": [], "note": "Interoperability with public and private systems is financed for a future system; no register uses an ID number."}}},
+"idrobustness": {"countries": {"NER": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Le Sahel reports that on 16 September 2024 Interior Minister Mohamed Toumba said a new national identification system with unique identification numbers will be built, with World Bank-financed WURI-Niger supporting a single authority to manage all personal data and numbers.", "as_of": "2024-09-16", "date_precision": "day", "system": "WURI-Niger", "class": "idsystem"}
+], "systems": [{"system": "WURI-Niger", "country_label": "Projet d'identification unique en Afrique de l'Ouest pour l'intégration et l'inclusion régionale", "class": "idsystem", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "No land register is mentioned; property transactions are named only as a use of identification."}}},
+"police": {"countries": {"NER": {"facts": [], "systems": [], "note": "Only a file of terror suspects by ordinance and passport and ID card modernisation are mentioned; no station record system."}}},
+"populationregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "A national register of civil events is announced as future work under a 2019 law; no population register is stated as built or new."}}},
+"registry": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing is stated about local civil registration offices entering events digitally."}}},
+"socialregistry": {"countries": {"NER": {"facts": [], "systems": [], "note": "No social registry is mentioned."}}},
+"taxregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "No tax register is mentioned."}}}
+}}

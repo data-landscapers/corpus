@@ -1,0 +1,23 @@
+{
+  "slug": "2026-01-01-eri-desta-1b-dedicated-eritrean-semitic-text-autoregressor",
+  "studies": {
+    "aisystems": {"countries": {"ERI": {
+      "facts": [
+        {
+          "sub_indicator": "localai",
+          "aspect": "build",
+          "value": "inservice",
+          "fact": "A 2026 Hugging Face model card presents DESTA-1B, a roughly 1-billion-parameter Tigrinya text-generation model fine-tuned from TinyLlama-1.1B-Chat on a Tigrinya dataset, published with its tokenizer and training details; the document does not say where it was built.",
+          "as_of": "2026",
+          "date_precision": "year",
+          "system": "DESTA-1B",
+          "class": "localai"
+        }
+      ],
+      "systems": [
+        {"system": "DESTA-1B", "country_label": "DESTA-1B", "class": "localai", "platform": "Hugging Face", "owner": "mewaeltsegay", "tiers": ""}
+      ],
+      "note": ""
+    }}}
+  }
+}

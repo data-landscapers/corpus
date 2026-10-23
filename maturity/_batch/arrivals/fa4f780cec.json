@@ -1,0 +1,18 @@
+{
+  "slug": "2025-06-17-ago-initiative-to-roll-out-ai-infrastructure-and-services-in-angola",
+  "studies": {
+    "aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document says nothing about rules or an authority on AI harms."}}},
+    "aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No government body is said to use an AI system; the Le Chat instance is for Angola Telecom, a telecoms company."}}},
+    "aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Health, agriculture and education are named only as intended applications of the planned AI factory."}}},
+    "aisystems": {"countries": {"AGO": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Angola Telecom and the Digital Africa Development Agency announced an investment programme, backed in its first phase by the Agence Francaise de Developpement, for an AI factory to be hosted in Angola Telecom data centres, with a proof of concept of Mistral AI models launched at ANGOTIC 2025 in Luanda on 12-14 June 2025.", "as_of": "2025-06-14", "date_precision": "day", "system": "Angola AI factory (Angola Telecom data centres)", "class": "localai"}
+      ],
+      "systems": [
+        {"system": "Angola AI factory (Angola Telecom data centres)", "country_label": "Angola", "class": "localai", "platform": "Mistral AI models; Le Chat instance for Angola Telecom", "owner": "Angola Telecom", "tiers": ""}
+      ],
+      "note": "A proof of concept and a programme goal only; no AI computing in service and no users stated."}}},
+    "datacentres": {"countries": {"AGO": {"facts": [], "systems": [{"system": "Angola Telecom data centres", "country_label": "Angola", "class": "other", "platform": "", "owner": "Angola Telecom", "tiers": ""}], "note": "The data centres are named but not said to rent space or computing to others, and no Tier is given."}}},
+    "nationaldatacentres": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No data centre for hire in service is stated, and no ownership or state hosting."}}}
+  }
+}

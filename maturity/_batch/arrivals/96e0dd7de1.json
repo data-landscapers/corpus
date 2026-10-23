@@ -1,0 +1,179 @@
+{
+ "slug": "2026-05-19-nga-kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-read",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Kasi Cloud Datacenters held the flag-off of its Lekki, Lagos campus, whose first building LOS1 is engineered for high-density AI and accelerated computing and moves through phased commissioning toward full commercial operations; no GPU installation is stated.",
+       "as_of": "2026-05-19",
+       "date_precision": "day",
+       "system": "Kasi LOS1 (Kasi Lekki campus)",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Nigeria Sovereign Investment Authority's release says Nigeria's National Cloud Policy 2025 (NCP2025) mandates in-country hosting for sensitive government and financial data.",
+       "as_of": "2026-05-19",
+       "date_precision": "day",
+       "system": "National Cloud Policy 2025 (NCP2025)",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentrepower": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "Kasi lists a direct TCN 132kV power connection and hybrid gas, solar and battery supply with N+1 redundancy for its Lekki campus, which it says is open for business with phased commissioning continuing.",
+       "as_of": "2026-05-19",
+       "date_precision": "day",
+       "system": "Kasi LOS1 (Kasi Lekki campus)",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Kasi Cloud Datacenters says its Lekki campus opens a sovereign cloud and AI infrastructure option to Nigerian enterprises, financial institutions and government agencies, and NSIA's chief executive calls LOS1 AI-ready and open for business, while phased commissioning continues.",
+       "as_of": "2026-05-19",
+       "date_precision": "day",
+       "system": "Kasi LOS1 (Kasi Lekki campus)",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Kasi LOS1 (Kasi Lekki campus)",
+       "country_label": "Nigeria",
+       "class": "datacentre",
+       "platform": "carrier-neutral data centre, Lekki, Lagos",
+       "owner": "Kasi Cloud Datacenters",
+       "tiers": "aligned with TIA 942 Tier III (stated)"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Nigeria Sovereign Investment Authority's release says the National Cloud Policy 2025 mandates in-country hosting for sensitive government and financial data.",
+       "as_of": "2026-05-19",
+       "date_precision": "day",
+       "system": "National Cloud Policy 2025 (NCP2025)",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "inservice",
+       "fact": "The Nigeria Sovereign Investment Authority's release says the National Cloud Policy 2025 mandates in-country hosting for sensitive government and financial data.",
+       "as_of": "2026-05-19",
+       "date_precision": "day",
+       "system": "National Cloud Policy 2025 (NCP2025)",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

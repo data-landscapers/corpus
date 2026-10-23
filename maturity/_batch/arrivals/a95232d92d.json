@@ -1,0 +1,35 @@
+{"slug": "2024-10-27-civ-cni-double-identite-enregistrement-des-naissances-nni-les-clarificatio", "studies": {
+"addressregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No addressing system is mentioned."}}},
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Online pre-registration and document upload are described; no authentication service."}}},
+"birthidlink": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that the national identification number (NNI) is now placed on civil status certificates, and that the number follows each person through civil registration.", "as_of": "2024-10", "date_precision": "month", "system": "NNI", "class": "crvslink"}
+], "systems": [{"system": "NNI", "country_label": "Numéro national d'identification", "class": "idsystem", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"businessregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No business register is mentioned."}}},
+"civilregister": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that the Cityweb software is deployed in 434 civil registration centres (303 sub-prefectures and 131 communes), a deployment rate of 62.89%, and that digitisation of civil status registers was piloted at 100% in the Grand-Bassam town hall.", "as_of": "2024-10", "date_precision": "month", "system": "Cityweb", "class": "civil"}
+], "systems": [{"system": "Cityweb", "country_label": "Cityweb", "class": "civil", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"digitalidlaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A special law on double identities is mentioned; it does not set up the identity number, register or card."}}},
+"electoralregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No voters' roll is mentioned."}}},
+"health": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Midwives declare births at health centres, a notification; no health information system is described."}}},
+"idcoverage": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "below", "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that only 8 million of 29 million inhabitants are registered in ONECI's base.", "as_of": "2024-10", "date_precision": "month", "system": "ONECI base", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Midwives may declare births at health centres, but no ID number given at birth is stated."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing is stated about who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that the NNI is affixed on civil status certificates.", "as_of": "2024-10", "date_precision": "month", "system": "NNI", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that national identity cards are issued under the national register of persons project, with a national number (NNI) that stays unchanged for each person for life, and that 8 million people are in ONECI's base.", "as_of": "2024-10", "date_precision": "month", "system": "NNI", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No land register is mentioned."}}},
+"localgov": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Cityweb in sub-prefectures and communes is a civil registration application, not a connection of local government offices."}}},
+"populationregister": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "underway", "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that identity cards are issued under the project of the national register of natural persons.", "as_of": "2024-10", "date_precision": "month", "system": "Registre national des personnes physiques", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "civil", "aspect": "offices", "value": "equipped:62.89%", "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that the Cityweb software is deployed in 434 civil registration centres, 303 sub-prefectures and 131 communes, a deployment rate of 62.89%.", "as_of": "2024-10", "date_precision": "month", "system": "Cityweb", "class": "civil"}
+], "systems": [], "note": ""}}},
+"socialregistry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No social registry is mentioned."}}},
+"taxregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No tax register is mentioned."}}}
+}}

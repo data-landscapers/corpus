@@ -1,0 +1,7 @@
+{"slug": "2026-02-17-gnq-donacion-de-material-informatico-y-fortalecimiento-tecnologico-en-la-u", "studies": {
+"aiabuse": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No government body is stated to use AI."}}},
+"aisectoral": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"GNQ": {"facts": [], "systems": [{"system": "AI laboratory at UNGE", "country_label": "Equatorial Guinea", "class": "other", "platform": "", "owner": "Universidad Nacional de Guinea Ecuatorial / STEM Power", "tiers": ""}], "note": "An AI laboratory was installed 9-12 February 2026 but no GPUs, model or dataset is named."}}},
+"stemgraduates": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Document gives no STEM graduate figure and names no research and education network."}}}
+}}

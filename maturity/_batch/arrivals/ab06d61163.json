@@ -1,0 +1,6 @@
+{"slug": "2026-10-22-civ-c-te-d-ivoire-promotes-national-languages-in-ai-development", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government body is stated to use an AI system."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sector system using AI is named."}}},
+"aisystems": {"countries": {"CIV": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Led by FuturAfric Artificial Intelligence, the YIRI digital community aims to develop a voice and text language model for Ivorian national languages, backed at its official launch by Minister Djibril Ouattara (Tech Review Africa).", "as_of": "2026-10-22", "date_precision": "day", "system": "YIRI", "class": "localai"}], "systems": [{"system": "YIRI", "country_label": "Côte d'Ivoire", "class": "localai", "platform": "voice and text language model for national languages", "owner": "FuturAfric Artificial Intelligence", "tiers": ""}], "note": ""}}}
+}}

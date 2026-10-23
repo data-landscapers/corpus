@@ -1,0 +1,16 @@
+{"slug": "2025-11-10-bwa-electronic-id-system-aims-to-improve-efficiency", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Minister Pius Mokgware told Parliament the ministry is developing an Electronic Identification (Digital ID) system for secure verification and authentication across public and private services, with digital signatures, a pilot by end-2025 and full rollout targeted by end-2026.", "as_of": "2025-11", "date_precision": "month", "system": "Electronic Identification (Digital ID) system", "class": "authentication"}
+], "systems": [{"system": "Electronic Identification (Digital ID) system", "country_label": "Botswana", "class": "authentication", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}, {"system": "Omang", "country_label": "Botswana", "class": "idsystem", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"egovservices": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Only plans to digitise permit and visa processing; no service stated as launched or piloted."}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is described."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Minister Pius Mokgware told Parliament the ministry is developing an Electronic Identification system as a single source of identity for citizens and residents, integrating the Omang, passports and driver's licences, with a pilot by end-2025 and full rollout by end-2026.", "as_of": "2025-11", "date_precision": "month", "system": "Electronic Identification (Digital ID) system", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idverification": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Only a plan for the digital ID to support eKYC and verification; no specific system linked, contracted or piloted."}}},
+"interoperabilitylaw": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No law or draft on data sharing is mentioned."}}}
+}}

@@ -1,0 +1,23 @@
+{
+  "slug": "2025-12-08-tun-first-open-ai-that-speaks-understands-and-responds-in-tunisian",
+  "studies": {
+    "aisystems": {"countries": {"TUN": {
+      "facts": [
+        {
+          "sub_indicator": "localai",
+          "aspect": "build",
+          "value": "inservice",
+          "fact": "Linagora announced an open speech-to-speech pipeline for Tunisian Derja, made of a wav2vec speech recogniser, the Derja-trained Labess-7B-Chat language model launched about five months earlier, and a Tunisian speech synthesiser, and says it was demonstrated in text and voice; the document does not say where it was built.",
+          "as_of": "2025-12-08",
+          "date_precision": "day",
+          "system": "Labess-7B-Chat Derja pipeline",
+          "class": "localai"
+        }
+      ],
+      "systems": [
+        {"system": "Labess-7B-Chat", "country_label": "Labess-7B-Chat Derja speech-to-speech pipeline", "class": "localai", "platform": "", "owner": "Linagora", "tiers": ""}
+      ],
+      "note": ""
+    }}}
+  }
+}

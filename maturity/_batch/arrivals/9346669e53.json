@@ -1,0 +1,21 @@
+{
+  "slug": "2026-02-18-mwi-malawi-plans-to-launch-micro-data-centre",
+  "studies": {
+    "aiabuse": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document says nothing about rules or an authority on AI harms."}}},
+    "aigovernment": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document names no government body using an AI system."}}},
+    "aisectoral": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document names no AI tool in a public sector's system."}}},
+    "aisystems": {"countries": {"MWI": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "ITWeb Africa reports that Converged Technology Networks (CTN) has announced plans to build Malawi's first Micro Data Centre for AI computing, with NVIDIA A100 GPUs to be installed 'in the coming months' and rented as a service.", "as_of": "2026-02-18", "date_precision": "day", "system": "CTN Micro Data Centre (MDC)", "class": "localai"}
+      ],
+      "systems": [
+        {"system": "CTN Micro Data Centre (MDC)", "country_label": "Malawi", "class": "localai", "platform": "NVIDIA A100 GPUs, GPU-as-a-Service; link to Africa GPU Hub", "owner": "Converged Technology Networks (CTN)", "tiers": ""}
+      ],
+      "note": "Planned only: no AI computing in service or shared with users yet."}}},
+    "datacentres": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The micro data centre is planned, not in service."}}},
+    "digitalsovereignty": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only a company's statement that sensitive government data could be processed in Malawi; no government plan, rule or hosting."}}},
+    "nationaldatacentres": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The planned CTN centre is not in service, and no state hosting is stated."}}},
+    "startups": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document states no startup law, labelling or public fund."}}},
+    "techhubs": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The document names no hub, incubator or park."}}}
+  }
+}

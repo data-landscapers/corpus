@@ -1,0 +1,37 @@
+{"slug": "2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "National ID Ethiopia's deck says Fayda runs online and offline authentication, with 102M authentications at about 2M a day.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "National ID Ethiopia's deck says Fayda has 120+ integrations across banks, telecom, the Ministry of Revenue, education, the railway and land services.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda", "class": "authentication"}],
+"systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "authentication", "platform": "", "owner": "National ID Ethiopia", "tiers": ""}, {"system": "Mesob", "country_label": "Ethiopia", "class": "eservices", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The deck says Fayda is being requested for vital events, which is a request and not a link in service."}}},
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document states nothing on this question for Ethiopia."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The deck says the National Bank of Ethiopia mandated account harmonisation with Fayda, which is not a payments mandate."}}},
+"civilregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document states nothing on digital civil registration for Ethiopia."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document states nothing on this question for Ethiopia."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document states nothing on this question for Ethiopia."}}},
+"digitaldivides": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document states nothing on rural internet programmes or rural and urban use."}}},
+"egovservices": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "eservices", "aspect": "gateway", "value": "single", "fact": "National ID Ethiopia's deck describes Mesob as a Fayda-based digital one-stop shop for e-government services, listed with agriculture and health services.", "as_of": "2026-05", "date_precision": "month", "system": "Mesob", "class": "eservices"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The deck lists G2P payments only as a planned FaydaPass service, launching soon, not as a payment made."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The deck gives 43M registered but no population figure, so no share is stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document states nothing on a number at birth for Ethiopia."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "National ID Ethiopia's deck says the Program Office and the planned Fayda state enterprise will operate in parallel to ensure operational continuity, with home-grown capacity.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idregisters": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "National ID Ethiopia's deck says the Ministry of Revenue has harmonised over 5M existing tax identification numbers with Fayda and made Fayda mandatory for new TINs nationally.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda-TIN harmonisation", "class": "register"},
+{"sub_indicator": "registers", "aspect": "matching", "value": "reported", "fact": "National ID Ethiopia's deck gives over 5M existing TINs harmonised with Fayda.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda-TIN harmonisation", "class": "register"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "National ID Ethiopia's deck says Fayda has 43M people registered and 12M+ printed credentials.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "National ID Ethiopia's deck says banks, telecom (SIM cards, wallets) and the Ministry of Revenue rely on Fayda to verify people.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "National ID Ethiopia's deck says banking, telecom, tax, education, land administration and the railway rely on Fayda.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "National ID Ethiopia's deck gives 102M authentications at about 2M a day and 120+ integrations.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda", "class": "relying"}], "systems": [], "note": ""}}},
+"landregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The deck says Fayda is mandatory for title-deed services but does not say a digital land register is in service."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document states no survey of account holding."}}},
+"registry": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The document says nothing on how local civil offices make records."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "National ID Ethiopia's deck lists Telebirr and M-Pesa mobile wallets among the telecom services that depend on Fayda.", "as_of": "2026-05", "date_precision": "month", "system": "Telebirr and M-Pesa", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The deck covers taxpayer numbers, not payment of taxes."}}},
+"taxregister": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "nationalid", "value": "linked", "fact": "National ID Ethiopia's deck says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs nationally.", "as_of": "2026-05", "date_precision": "month", "system": "Fayda-TIN harmonisation", "class": "tax"}], "systems": [], "note": ""}}}
+}}

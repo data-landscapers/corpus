@@ -1,0 +1,13 @@
+{"slug": "2025-03-17-dza-lancement-du-premier-centre-de-calcul-haute-performance-dedie-a-l-ia-e", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on AI in administration."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Health and other sectors are named only as intended uses of the computing centre."}}},
+"aistrategy": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A national AI strategy is called recently announced; its standing is not stated."}}},
+"aisystems": {"countries": {"DZA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Radio Algerienne reports that Minister of Post and Telecommunications Sid Ali Zerrouki laid the first stone in Oran on 16 March 2025 of Algeria's first AI high-performance computing centre, to be equipped with latest-generation GPUs for researchers, startups and companies.", "as_of": "2025-03-16", "date_precision": "day", "system": "AI high-performance computing centre, Oran", "class": "localai"}], "systems": [{"system": "AI high-performance computing centre, Oran", "country_label": "AI high-performance computing centre", "class": "localai", "platform": "", "owner": "Ministry of Post and Telecommunications", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The computing centre is under construction and no data centre for hire in service is stated."}}},
+"digitalsovereignty": {"countries": {"DZA": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Radio Algerienne reports that the AI computing centre and the cloud launched by the High Commission for Digitalisation are presented as steps toward digital sovereignty by reducing dependence on foreign infrastructure.", "as_of": "2025-03-16", "date_precision": "day", "system": "cloud of the High Commission for Digitalisation", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire in service is stated."}}},
+"police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing stated on police."}}},
+"startups": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Startups are named only as future users of the computing centre."}}},
+"techhubs": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No hub, incubator or park is stated."}}}
+}}

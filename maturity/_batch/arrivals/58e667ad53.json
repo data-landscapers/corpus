@@ -1,0 +1,14 @@
+{"slug": "2025-07-16-gha-institutions-urged-to-use-nia-ivsp-for-authentic-ghana-card-verificati", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The National Identification Authority said its Identity Verification System Platform (NIA IVSP) is the only approved and secure method for real-time Ghana Card identity verification and urged institutions to onboard onto it.", "as_of": "2025-07-16", "date_precision": "day", "system": "NIA IVSP", "class": "authentication"}
+], "systems": [{"system": "NIA Identity Verification System Platform (IVSP)", "country_label": "Ghana", "class": "authentication", "platform": "", "owner": "National Identification Authority", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No civil register link is mentioned."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system beyond the NIA issuing the platform."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No public register keyed on the number is named."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on enrolment, biometric deduplication or certification of the ID system."}}},
+"idverification": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The National Identification Authority said banks, corporate bodies, government agencies and financial service providers should verify Ghana Cards through the NIA IVSP, the only approved method for real-time verification, and not by eye or photocopy.", "as_of": "2025-07-16", "date_precision": "day", "system": "NIA IVSP", "class": "relying"}
+], "systems": [], "note": ""}}}
+}}

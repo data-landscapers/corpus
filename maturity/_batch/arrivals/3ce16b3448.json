@@ -1,0 +1,7 @@
+{"slug": "2024-09-04-zmb-google-to-establish-ai-center-of-excellence-at-university-of-zambia", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No government body is stated to use AI."}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"ZMB": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Zambia Monitor reports the government announced that Google will establish an AI Center of Excellence at ZAMREN within the University of Zambia in Lusaka, following an MoU with the Ministry of Technology and Science signed in June 2024.", "as_of": "2024-09", "date_precision": "month", "system": "Google AI Center of Excellence at ZAMREN", "class": "localai"}], "systems": [{"system": "AI Center of Excellence", "country_label": "Zambia", "class": "localai", "platform": "", "owner": "Google / Ministry of Technology and Science / ZAMREN", "tiers": ""}], "note": ""}}},
+"stemgraduates": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No STEM graduate figure given; ZAMREN is said to connect 150 institutions and educational institutions but public universities are not named as connected."}}}
+}}

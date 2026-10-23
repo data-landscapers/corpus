@@ -1,0 +1,11 @@
+{"slug": "2026-10-22-som-somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-i", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Biometric Update reports that NIRA encourages citizens to use the eAqoonsi mobile application for services.", "as_of": "2026-10-22", "date_precision": "day", "system": "eAqoonsi", "class": "authentication"}], "systems": [{"system": "eAqoonsi", "country_label": "Somalia", "class": "authentication", "platform": "mobile application", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No link between civil register and ID system is mentioned."}}},
+"businessregister": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Business registration appears only as a service planned for the Halmeel platform due by March 2027."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "About two million enrolled is given with no population share, so no share is stated."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Integration with banking, passports and travel is an effort under way, not a public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update reports that Somalia launched its biometric national ID system in 2023 and NIRA says about two million people have been enrolled (October 2026).", "as_of": "2026-10", "date_precision": "month", "system": "National ID system (NIRA)", "class": "idsystem"}], "systems": [{"system": "National ID system (NIRA)", "country_label": "Somalia", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"refugees": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The people enrolled are citizens returning from Yemen, which the study treats as returnees, not refugees or internally displaced people."}}}
+}}

@@ -1,0 +1,38 @@
+{
+  "slug": "2025-08-17-som-somalia-launches-danabeysan-digital-signature-system-to-streamline-gov",
+  "studies": {
+    "aiabuse": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing about AI."}}},
+    "aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing about AI."}}},
+    "authentication": {"countries": {"SOM": {
+      "facts": [
+        {
+          "sub_indicator": "authentication",
+          "aspect": "service",
+          "value": "inservice",
+          "fact": "Somalia's Minister of Finance Biihi Imaan Igeh launched the Danabeysan platform in Mogadishu, which replaces paper-based authorisation of government payments with electronic signatures.",
+          "as_of": "2025-08-17",
+          "date_precision": "day",
+          "system": "Danabeysan",
+          "class": "authentication"
+        }
+      ],
+      "systems": [
+        {"system": "Danabeysan", "country_label": "Danabeysan", "class": "authentication", "platform": "digital signature platform", "owner": "Ministry of Finance", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "civilserviceskills": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No digital-skills programme for civil servants is stated; training on public sector accounting standards is not digital-skills training."}}},
+    "coresystems": {"countries": {"SOM": {
+      "facts": [],
+      "systems": [
+        {"system": "SFMIS", "country_label": "Somalia Financial Management Information System", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+        {"system": "Danabeysan", "country_label": "Danabeysan", "class": "other", "platform": "digital signature platform", "owner": "Ministry of Finance", "tiers": ""}
+      ],
+      "note": "SFMIS is dated only to 2014 and 2015 and the article does not say it is in use across central government now; nothing on tax or payroll systems; Danabeysan is a payment-authorisation signature platform, not a stated renewal of a core system."
+    }}},
+    "ecommercelaw": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing about an electronic transactions or e-commerce law."}}},
+    "egovservices": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Danabeysan is an internal payment-authorisation tool for officials, not a service citizens or businesses complete online."}}},
+    "idverification": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing about checks against a national ID."}}},
+    "refugees": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing about refugees or displaced people."}}}
+  }
+}

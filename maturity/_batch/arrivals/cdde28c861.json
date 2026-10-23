@@ -1,0 +1,18 @@
+{"slug": "2025-06-13-moz-inage-ip-lidera-implementacao-da-plataforma-de-interoperabilidade-cent", "studies": {
+"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The post says the ID card and birth record are key to authenticating citizens but names no authentication service."}}},
+"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The post says interoperability of the DNIC and DNRN systems is a prerequisite but states no link between civil register and ID system under way or in service."}}},
+"civilregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The post names the DNRN as a civil identity data source but says nothing on a digital civil register."}}},
+"dataexchange": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "INAGE, IP says it leads implementation of the Government Interoperability Platform, and its technical group on 12 June 2025 reviewed data mapping between the Bank of Mozambique and the Tax Authority, test-environment preparation and the Security Servers access points of the systems to interoperate.", "as_of": "2025-06-12", "date_precision": "day", "system": "Plataforma de Interoperabilidade do Governo de Moçambique", "class": "exchange"}
+], "systems": [{"system": "Plataforma de Interoperabilidade do Governo de Moçambique", "country_label": "Mozambique", "class": "exchange", "platform": "Security Servers", "owner": "INAGE, IP", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The post mentions data protection only as an aim of standardising identifiers; no law is named."}}},
+"egovservices": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The post describes a future bank-account example, not a service online."}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only a future example of a bank querying the tax number and ID data; no register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on the national ID system's status, biometrics or certification."}}},
+"interoperability": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The post describes an exchange platform, not an interoperability framework."}}},
+"registry": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on civil registration offices entering events digitally."}}},
+"taxregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The post only says a bank system will be able to query the NUIT at the Tax Authority; no register in service is stated."}}}
+}}

@@ -1,0 +1,289 @@
+{
+ "slug": "2026-10-22-xca-afrique-centrale-a-libreville-les-regulateurs-telecoms-de-l-artac-pose",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "TechAfrika reports a delegation from The Central African Republic attended the ARTAC session opened in Libreville on 20 October 2026.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "TechAfrika reports a delegation from The DRC attended the ARTAC session opened in Libreville on 20 October 2026.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "TechAfrika reports a delegation from Congo attended the ARTAC session opened in Libreville on 20 October 2026.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "TechAfrika reports Gabon's ARCEP organised the ARTAC session at Libreville, opened on 20 October 2026 by the minister of digital economy.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The article names no payments, finance or law fact for this country; it covers an ARTAC regulators' session."
+    }
+   }
+  }
+ }
+}

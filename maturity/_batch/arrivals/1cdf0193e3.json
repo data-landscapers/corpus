@@ -1,0 +1,24 @@
+{
+  "slug": "2026-08-14-tza-hostafrica-enters-tanzania-brings-africa-s-first-local-blackwell-gpus",
+  "studies": {
+    "aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No public sector system using AI is named."}}},
+    "aisystems": {"countries": {"TZA": {
+      "facts": [
+        {
+          "sub_indicator": "localai",
+          "aspect": "build",
+          "value": "underway",
+          "fact": "HostAfrica, having completed its acquisition of Zesha, says it is rolling out Nvidia Blackwell GPUs in Tanzania, which it claims are the first of their kind available on the continent.",
+          "as_of": "2026-08-14",
+          "date_precision": "day",
+          "system": "HostAfrica Nvidia Blackwell GPUs",
+          "class": "localai"
+        }
+      ],
+      "systems": [
+        {"system": "HostAfrica Blackwell GPUs", "country_label": "HostAfrica Nvidia Blackwell GPUs", "class": "localai", "platform": "Nvidia Blackwell", "owner": "HostAfrica", "tiers": ""}
+      ],
+      "note": ""
+    }}}
+  }
+}

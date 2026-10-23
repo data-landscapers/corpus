@@ -1,0 +1,8 @@
+{"slug":"2025-07-23-bwa-how-uhuru-sets-to-resist-digital-imperialism","studies":{
+"aisystems":{"countries":{"BWA":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Orion X, whose team first took root in Botswana, offers its Uhuru African language model to users via WhatsApp, SMS, USSD and a web app, with a free tier and a USD 7 (P99) monthly Pro tier, per CEO Mthabisi Bokete and Chief AI Officer Kgengwenyane.","as_of":"2025-07-23","date_precision":"day","system":"Uhuru","class":"localai"}],"systems":[{"system":"Uhuru","country_label":"Botswana","class":"localai","platform":"WhatsApp, SMS, USSD, web app","owner":"Orion X","tiers":"free; Pro"}],"note":""}}},
+"civilserviceskills":{"countries":{"BWA":{"facts":[],"systems":[],"note":"The document states nothing about civil-service digital skills."}}},
+"datacentres":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Mentions country-level data centre deployments in general, none named in Botswana."}}},
+"datalocalisation":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No data-localisation rule is stated for Botswana."}}},
+"idverification":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No check against the national ID is stated for Botswana."}}},
+"nationaldatacentres":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No nationally owned data centre in Botswana is named."}}}
+}}

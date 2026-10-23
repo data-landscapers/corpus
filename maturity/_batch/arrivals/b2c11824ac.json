@@ -1,0 +1,135 @@
+{
+ "slug": "2025-12-14-zaf-question-nw7142-to-the-minister-of-home-affairs",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Minister of Home Affairs replied in Parliament that the Department has developed the architectural foundations of a digital identity framework with enhanced biometric capabilities and is finalising long-term contracts with its biometric partners to build it.",
+       "as_of": "2025-12-14",
+       "date_precision": "day",
+       "system": "Digital Identity programme",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register",
+       "country_label": "National Population Register",
+       "class": "population",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Minister of Home Affairs replied in Parliament that a redesigned, fully digitised National Population Register is being developed, with foundational development and contracts due to conclude by the end of the 2027/2028 financial year.",
+       "as_of": "2025-12-14",
+       "date_precision": "day",
+       "system": "National Population Register",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register",
+       "country_label": "National Population Register",
+       "class": "population",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

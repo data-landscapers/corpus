@@ -1,0 +1,70 @@
+{
+  "slug": "2025-08-04-nga-nigeria-telcos-eligible-to-offer-nin-verification-for-sim-card-service",
+  "studies": {
+    "aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+    "authentication": {"countries": {"NGA": {
+      "facts": [
+        {
+          "sub_indicator": "authentication",
+          "aspect": "service",
+          "value": "inservice",
+          "fact": "NIMC's NINAuth digital ID authentication platform, unveiled in May 2025, is in service; NIMC says its Verification and Authentication Service platforms are accessible to all.",
+          "as_of": "2025-08-04",
+          "date_precision": "day",
+          "system": "NINAuth",
+          "class": "authentication"
+        },
+        {
+          "sub_indicator": "authentication",
+          "aspect": "reach",
+          "value": "several",
+          "fact": "NIMC announced that all telecommunications firms have migrated to NINAuth and are cleared to verify the NIN for registering, swapping or migrating SIM cards.",
+          "as_of": "2025-08-04",
+          "date_precision": "day",
+          "system": "NINAuth",
+          "class": "authentication"
+        }
+      ],
+      "systems": [
+        {"system": "NINAuth", "country_label": "NINAuth", "class": "authentication", "platform": "", "owner": "NIMC", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and the ID system."}}},
+    "businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+    "censuses": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a census or household survey."}}},
+    "centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+    "consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIMC speaks of data protection on its platform; no law is named."}}},
+    "digitalidlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No identity law, bill or regulation is named."}}},
+    "g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No count or share of NIN holders is given."}}},
+    "idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+    "idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who maintains or owns the ID system."}}},
+    "idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on public registers keyed on the NIN."}}},
+    "idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on enrolment, biometric deduplication or certification of the NIN system."}}},
+    "idverification": {"countries": {"NGA": {
+      "facts": [
+        {
+          "sub_indicator": "use",
+          "aspect": "use",
+          "value": "inservice",
+          "fact": "NIMC said telecommunications firms, migrated to NINAuth, provide NIN verification to subscribers for registering, swapping or migrating SIM cards.",
+          "as_of": "2025-08-04",
+          "date_precision": "day",
+          "system": "NINAuth",
+          "class": "relying"
+        }
+      ],
+      "systems": [
+        {"system": "NINAuth", "country_label": "NINAuth", "class": "relying", "platform": "", "owner": "NIMC", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on international standards."}}},
+    "paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+    "retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+    "revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes."}}}
+  }
+}

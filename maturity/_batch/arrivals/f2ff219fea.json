@@ -1,0 +1,24 @@
+{
+  "slug": "2024-10-16-mar-uae-s-ai71-and-morocco-ministry-ink-deal-at-gitex-global-to-support-mo",
+  "studies": {
+    "aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The deal is to explore AI for government services in general; no sector system is named."}}},
+    "digitalstrategy": {"countries": {"MAR": {
+      "facts": [
+        {
+          "sub_indicator": "national",
+          "aspect": "standing",
+          "value": "announced",
+          "fact": "The ATRC release calls Digital Morocco 2030 Morocco's recently announced strategy for digital transformation, which the Ministry of Digital Transition and Administrative Reform and AI71 agreed to support.",
+          "as_of": "2024-10-16",
+          "date_precision": "day",
+          "system": "Digital Morocco 2030",
+          "class": "national"
+        }
+      ],
+      "systems": [],
+      "note": ""
+    }}},
+    "startups": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A ministry and AI71 competition gave compute credit to four startups; no startup law, strategy, labelling or public fund is stated."}}},
+    "techhubs": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No hub, incubator or technology park is named."}}}
+  }
+}

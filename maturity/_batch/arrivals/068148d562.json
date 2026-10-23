@@ -1,0 +1,8 @@
+{"slug": "2025-10-31-sen-un-centre-de-transformation-par-l-intelligence-artificielle-verra-le-j", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states no government body using AI; it describes a planned AI centre."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states no AI tool in a public sector system."}}},
+"aisystems": {"countries": {"SEN": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The higher-education ministry and a KOICA expert delegation met on the project to create an AI transformation centre at Diamniadio, to run 2026 to 2033 with an estimated investment of USD 14.5 million (about CFAF 8.22 billion), per RTS.", "as_of": "2025-10-30", "date_precision": "day", "system": "centre de transformation par l'intelligence artificielle, Diamniadio", "class": "localai"}], "systems": [{"system": "centre de transformation par l'intelligence artificielle", "country_label": "Sénégal", "class": "localai", "platform": "", "owner": "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, with KOICA", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states no training for civil servants."}}},
+"digitalskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document names a digital-skills project only as the frame for the centre; it states no programme teaching the public and no measured share."}}}
+}}

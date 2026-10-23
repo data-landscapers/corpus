@@ -1,0 +1,28 @@
+{"slug": "2025-03-30-tza-tanzania-s-ministry-of-communication-and-information-technology-partne", "studies": {
+"authentication": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "A joint release by the Ministry of Communication and Information Technology and IDEA, posted by Co-Develop, says they will implement Jamii Wallet for citizens, with pilot programmes before nationwide scaling.", "as_of": "2025-03-30", "date_precision": "day", "system": "Jamii Wallet", "class": "authentication"}],
+"systems": [{"system": "Jamii Wallet", "country_label": "Tanzania", "class": "authentication", "platform": "", "owner": "Ministry of Communication and Information Technology", "tiers": ""}, {"system": "Jamii Namba", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "", "tiers": ""}, {"system": "Tanzania Instant Payment System (TIPS)", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Bank of Tanzania", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release states nothing on a link between the civil register and the ID system."}}},
+"businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Tanzania."}}},
+"centralbank": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The release says the Bank of Tanzania launched the Tanzania Instant Payment System (TIPS) in 2019, an interoperable platform across banks and mobile money providers with over 45 institutions taking part.", "as_of": "2019", "date_precision": "year", "system": "Tanzania Instant Payment System (TIPS)", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Tanzania."}}},
+"crossborderpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Tanzania."}}},
+"digitaldivides": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release states nothing on rural internet programmes or rural and urban use."}}},
+"digitalstrategy": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The release says the President launched the 10-year Digital Economy Framework in July 2024, which the Jamii Stack implements; it does not say it was adopted.", "as_of": "2024-07", "date_precision": "month", "system": "10-year Digital Economy Framework", "class": "national"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Social benefits are named only as a planned Jamii Wallet service."}}},
+"idcoverage": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "The release says Jamii Namba has registered over 25 million people, and Co-Develop describes Tanzania as a country of over 60 million people.", "as_of": "2025-03", "date_precision": "month", "system": "Jamii Namba", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release says efforts to register children for Jamii Namba are underway, without a number given at birth registration."}}},
+"idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release does not say who operates or owns Jamii Namba."}}},
+"idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release names no public register keyed on the Jamii Namba number."}}},
+"idrobustness": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The release says Jamii Namba, the digital ID system launched in 2012, has registered over 25 million people.", "as_of": "2025-03", "date_precision": "month", "system": "Jamii Namba", "class": "idsystem"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release gives no survey of account holding."}}},
+"publicconsultation": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The release states no consultation on a digital law or policy."}}},
+"retailpayments": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The release says TIPS, launched by the Bank of Tanzania in 2019, is an interoperable platform across banks, mobile money providers and other financial institutions.", "as_of": "2025-03", "date_precision": "month", "system": "Tanzania Instant Payment System (TIPS)", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The release says over 1.5 million transactions go through TIPS daily, with over 45 financial institutions taking part across banks and mobile money providers.", "as_of": "2025-03", "date_precision": "month", "system": "Tanzania Instant Payment System (TIPS)", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Tax payments are named only as a planned Jamii Wallet service."}}}
+}}

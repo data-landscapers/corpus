@@ -1,0 +1,134 @@
+{
+ "slug": "2024-04-22-syc-wisekey-awarded-project-by-government-of-seychelles-to-deliver-seyid-a",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "WISeKey says in its 22 April 2024 release that SeyID, built on its WISeID platform, supports online KYC onboarding, one-time password authentication, QR-code login and digital signature of documents.",
+       "as_of": "2024-04-22",
+       "date_precision": "day",
+       "system": "SeyID",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "WISeKey says the SeyID app integrates an e-wallet storing the National ID and driver licence, generating a digital ID card with a QR code for third-party verification.",
+       "as_of": "2024-04-22",
+       "date_precision": "day",
+       "system": "SeyID",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SeyID",
+       "country_label": "SeyID",
+       "class": "authentication",
+       "platform": "WISeKey WISeID",
+       "owner": "Government of Seychelles",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "ictproduction": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SeyID",
+       "country_label": "SeyID",
+       "class": "authentication",
+       "platform": "WISeKey WISeID",
+       "owner": "Government of Seychelles",
+       "tiers": ""
+      }
+     ],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{"slug":"2024-07-15-uga-registration-of-persons-amendment-act-2024","studies":{
+"authentication":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No authentication service is stated."}}},
+"birthidlink":{"countries":{"UGA":{"facts":[],"systems":[],"note":"The Act moves marriage and guardianship registration to NIRA; it states no link between birth records and the ID system."}}},
+"civilregister":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No digital civil registration system is stated."}}},
+"digitalidlaw":{"countries":{"UGA":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The Registration of Persons (Amendment) Act, 2024, assented 15 July 2024, amends the Registration of Persons Act, 2015 (Act 4 of 2015) to empower NIRA to administer five civil registration laws, and starts on a date the Minister appoints by statutory instrument.","as_of":"2024-07-15","date_precision":"day","system":"Registration of Persons Act, 2015 (Act 4 of 2015)","class":"law"}],"systems":[{"system":"National Identification and Registration Authority (NIRA)","country_label":"UGA","class":"other","platform":"","owner":"NIRA","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No enrolment count or share is stated."}}},
+"idfrombirth":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No number at birth is stated."}}},
+"idmaintenance":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on the ID system's issuance, biometrics or certification."}}},
+"registry":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No digital entry at local registration offices is stated."}}}
+}}

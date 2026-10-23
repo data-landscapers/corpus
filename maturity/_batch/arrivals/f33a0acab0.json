@@ -1,0 +1,9 @@
+{"slug": "2025-11-12-gha-bog-notice-bg-gov-sec-2025-36-revised-ghana-card-notice", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [{"system": "Ghana Card", "country_label": "Ghana", "class": "idsystem", "platform": "", "owner": "National Identification Authority", "tiers": ""}], "note": "The notice sets duties on banks (biometric verification, liveness checks, multifactor authentication) and names no authentication service of the ID system."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No civil register link is mentioned."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The notice concerns financial institutions, not a public register keyed on the number."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The notice requires banks to verify customers biometrically; it does not state that the ID system checks biometrics at enrolment or is certified."}}}
+}}

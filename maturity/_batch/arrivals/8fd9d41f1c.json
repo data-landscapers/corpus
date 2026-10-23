@@ -1,0 +1,22 @@
+{"slug": "2025-07-29-ssd-indabax-south-sudan-2025-igniting-the-future-of-ai-in-south-sudan", "studies": {
+"aiabuse": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No government body is stated to use an AI system."}}},
+"aisectoral": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Hackathon and exhibited tools are not in a public sector system."}}},
+"aisystems": {"countries": {"SSD": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "Dr Isaac Gang's team collected sentence data for Nuer, Dinka and Acholi, with over 2,600 Nuer sentences on the public Tatoeba database, and the three South Sudanese languages were added to Google Translate in 2023, per the Scenius Hub event report.", "as_of": "2023", "date_precision": "year", "system": "Tatoeba sentence data for Nuer, Dinka and Acholi", "class": "localai"},
+{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "JunubAI, described as a South Sudanese AI platform that helps people put businesses online without coding, was among local projects exhibited at IndabaX South Sudan in Juba on 19 July 2025.", "as_of": "2025-07-19", "date_precision": "day", "system": "JunubAI", "class": "localai"}],
+"systems": [{"system": "JunubAI", "country_label": "South Sudan", "class": "localai", "platform": "AI platform for building businesses online", "owner": "", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "A one-off event and hackathon, not a national programme; training centres are only proposed."}}},
+"g2ppayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"itcapacity": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on government technical staff."}}},
+"paymentsuptake": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"retailpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Mobile money is mentioned only as a target of AI fraud detection; no service described."}}},
+"revenuecollection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"schoolinternet": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on school connectivity."}}},
+"startups": {"countries": {"SSD": {"facts": [], "systems": [], "note": "An AI Innovation Fund is only a proposal; no startup act or public fund stated."}}},
+"techhubs": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Scenius Hub hosted the event but no incubation programme is described."}}}
+}}

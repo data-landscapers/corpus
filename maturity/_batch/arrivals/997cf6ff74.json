@@ -1,0 +1,21 @@
+{
+  "slug": "2025-11-20-cog-le-congo-brazzaville-s-equipe-d-un-data-center-pour-repondre-au-defi-d",
+  "studies": {
+    "aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document says nothing about rules or an authority on AI harms."}}},
+    "aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document names no government body using an AI system."}}},
+    "aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document names no AI tool in a public sector's system."}}},
+    "aisystems": {"countries": {"COG": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "RFI reports that the Congolese state is finishing a data centre in Bacongo, Brazzaville, financed largely by the African Development Bank, which a ministry adviser says can host supercomputers to train AI models for local startups.", "as_of": "2025-11-20", "date_precision": "day", "system": "Brazzaville data center", "class": "localai"}
+      ],
+      "systems": [
+        {"system": "Brazzaville data center", "country_label": "Congo", "class": "localai", "platform": "", "owner": "Congolese state; financed largely by the African Development Bank", "tiers": ""}
+      ],
+      "note": "The centre is under construction, so no AI computing is in service or shared."}}},
+    "datacentres": {"countries": {"COG": {"facts": [], "systems": [{"system": "Brazzaville data center", "country_label": "Congo", "class": "other", "platform": "", "owner": "Congolese state", "tiers": ""}], "note": "The Brazzaville data centre is described as nearly finished, not in service."}}},
+    "digitalsovereignty": {"countries": {"COG": {"facts": [], "systems": [], "note": "Sovereignty is mentioned in general terms; no plan, rule or hosting of state data is stated."}}},
+    "nationaldatacentres": {"countries": {"COG": {"facts": [], "systems": [{"system": "Brazzaville data center", "country_label": "Congo", "class": "other", "platform": "", "owner": "Congolese state", "tiers": ""}], "note": "The state-built data centre is not yet in service and no hosting of state data is stated."}}},
+    "startups": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document states no startup law, labelling or fund."}}},
+    "techhubs": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document names no hub, incubator or park."}}}
+  }
+}

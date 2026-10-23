@@ -1,0 +1,9 @@
+{"slug":"2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in","studies":{
+"aiabuse":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Nothing on rules or authority for AI harms."}}},
+"aigovernment":{"countries":{"RWA":{"facts":[],"systems":[],"note":"The dataset is said to support future automated public services; no government body is stated to use AI."}}},
+"aisectoral":{"countries":{"RWA":{"facts":[],"systems":[],"note":"No AI tool in a public sector system is stated."}}},
+"aisystems":{"countries":{"RWA":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"BMZ Digital.Global states that an open Kinyarwanda speech dataset, developed with Digital Umuganda and the Mozilla Foundation and hosted on Common Voice, holds over 2,400 hours of speech, over 2,000 of them validated.","as_of":"2024-05-24","date_precision":"day","system":"Kinyarwanda voice dataset on Common Voice","class":"localai"}],"systems":[{"system":"Kinyarwanda voice dataset on Common Voice","country_label":"Rwanda","class":"localai","platform":"Mozilla Common Voice","owner":"Digital Umuganda; Mozilla Foundation","tiers":""}],"note":"Users of the dataset are not named or counted."}}},
+"digitaldivides":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Language barrier to voice technology is mentioned; no rural access programme or rural/urban figures."}}},
+"startups":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Nothing on startup law, labelling or funds."}}},
+"techhubs":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Digital Umuganda is not described as a hub or incubator."}}}
+}}

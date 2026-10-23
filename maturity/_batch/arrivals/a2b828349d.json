@@ -1,0 +1,5 @@
+{"slug":"2026-01-01-com-french-shikomori-parallel-dataset-v1-0","studies":{
+"aiabuse":{"countries":{"COM":{"facts":[],"systems":[],"note":"A dataset card; no rule or authority on AI harms is stated."}}},
+"aigovernment":{"countries":{"COM":{"facts":[],"systems":[],"note":"A dataset card; no government use of AI is stated."}}},
+"aisectoral":{"countries":{"COM":{"facts":[],"systems":[],"note":"A dataset card; no sectoral AI tool is stated."}}},
+"aisystems":{"countries":{"COM":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Komor-IA, a Comorian AI initiative, released version 1.0 of the French-shiKomori Parallel Dataset on Hugging Face, with 1,424 French-Shingazidja sentence pairs contributed by Comorian volunteers, under gated access.","as_of":"2026","date_precision":"year","system":"French-shiKomori Parallel Dataset v1.0","class":"localai"}],"systems":[{"system":"French-shiKomori Parallel Dataset v1.0","country_label":"Comoros","class":"localai","platform":"Hugging Face","owner":"Komor-IA","tiers":""}],"note":""}}}}}

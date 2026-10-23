@@ -1,0 +1,18 @@
+{"slug": "2025-03-03-mar-decision-n-2-psco-2025-portant-agrement-de-la-societe-damanesign-en-qu", "studies": {
+"authentication": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "DGSSI, acting as national trust services authority, approved Damanesign on 3 March 2025 to issue qualified electronic signature and electronic seal certificates, the approval valid two years to 3 March 2027.", "as_of": "2025-03-03", "date_precision": "day", "system": "DamaneSign Qualified Signature", "class": "authentication"}
+], "systems": [{"system": "DamaneSign Qualified Signature", "country_label": "Morocco", "class": "authentication", "platform": "", "owner": "Damanesign", "tiers": "qualified e-signature certificates"}, {"system": "DamaneSign Qualified Seal", "country_label": "Morocco", "class": "authentication", "platform": "", "owner": "Damanesign", "tiers": "qualified e-seal certificates"}], "note": ""}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"cybersecurity": {"countries": {"MAR": {"facts": [], "systems": [], "note": "DGSSI appears only as trust services authority; no response, strategy or designation facts."}}},
+"ecommercelaw": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The DGSSI decision applies Law No. 43-20 on trust services for electronic transactions, promulgated by dahir of 31 December 2020.", "as_of": "2020-12-31", "date_precision": "day", "system": "Loi 43-20", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The decision cites Decree No. 2-22-687 of 16 November 2022 as made for the application of Law 43-20.", "as_of": "2022-11-16", "date_precision": "day", "system": "Decret 2-22-687", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "applied", "fact": "DGSSI approved Damanesign as a trust service provider under Law 43-20 on 3 March 2025, after a commission ruling of 13 February 2025.", "as_of": "2025-03-03", "date_precision": "day", "system": "Decision 2/PSCo/2025", "class": "law"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No ID enrolment figure."}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"police": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on police stations."}}}
+}}

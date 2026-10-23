@@ -1,0 +1,9 @@
+{"slug": "2025-10-05-tun-tunisia-s-ooredoo-hosts-inaugural-ai-summit-announcing-nvidia-partners", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document names no government body using AI; Ooredoo's own agentic AI use is a company's."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document names no AI tool in a public sector system."}}},
+"aisystems": {"countries": {"TUN": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Ooredoo Tunisia announced at its first AI Summit, with NVIDIA, that it will acquire high-performance GPUs to build a sovereign AI-as-a-Service platform for government, startups and B2B clients; no amount or capacity is given.", "as_of": "2025-10-05", "date_precision": "day", "system": "Ooredoo sovereign AI-as-a-Service", "class": "localai"}], "systems": [{"system": "Ooredoo sovereign AI-as-a-Service", "country_label": "Tunisia", "class": "localai", "platform": "NVIDIA GPUs", "owner": "Ooredoo Tunisia", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Sovereignty is mentioned in general and for a private operator's platform; no state data policy, rule, hosting or contract terms stated."}}},
+"startups": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states no startup law, label or fund."}}},
+"techhubs": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document names no hub, incubator or technology park."}}}
+}}

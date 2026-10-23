@@ -1,0 +1,19 @@
+{"slug": "2025-09-26-ago-missao-tecnica-reforca-implementacao-da-identidade-digital-e-assinatur", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Study-mission release; a Brazilian AI bill is only mentioned, nothing on Angola."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on Angolan government AI use."}}},
+"ailaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on an Angolan AI law."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on Angolan sector AI."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on AI built in Angola."}}},
+"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "A study mission to Brazil on e-ID and qualified e-signature; no Angolan service is stated as authorised, contracted, piloted or in use."}}},
+"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"dataprotectionauthority": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The APD took part in the mission; nothing stated on its constitution or work."}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on the law."}}},
+"digitalstrategy": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The Agenda de Transicao Digital da Administracao Publica is named but its standing is not stated."}}},
+"ecommercelaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on an e-commerce or e-signature law."}}},
+"egovservices": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No online government service stated for Angola."}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Digital identity is named as a pillar of the Agenda but no national ID system is stated as procured, built or piloted."}}}
+}}

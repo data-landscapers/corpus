@@ -1,0 +1,8 @@
+{"slug": "2025-09-06-com-komor-ia-un-jeune-comorien-lance-une-startup-d-intelligence-artificiel", "studies": {
+"aiabuse": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"COM": {"facts": [], "systems": [], "note": "No government body is stated to use AI; administration is named only as a future benefit."}}},
+"aisectoral": {"countries": {"COM": {"facts": [], "systems": [], "note": "Agro-IA and Health-IA are a private startup's projects in development, with no public body using them."}}},
+"aisystems": {"countries": {"COM": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Comores Infos reports that the startup Komor-IA, founded in August 2025 by Soilahoudine Mohamed Ali, is developing three AI projects: Press-IA, Agro-IA (plant disease detection) and Health-IA (a breast-cancer diagnosis prototype claimed at 85% precision).", "as_of": "2025-09-06", "date_precision": "day", "system": "Komor-IA projects (Press-IA, Agro-IA, Health-IA)", "class": "localai"}], "systems": [{"system": "Press-IA, Agro-IA, Health-IA", "country_label": "Comoros", "class": "localai", "platform": "", "owner": "Komor-IA", "tiers": ""}], "note": ""}}},
+"startups": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states no startup law, label or public fund."}}},
+"techhubs": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document names no hub, incubator or technology park."}}}
+}}

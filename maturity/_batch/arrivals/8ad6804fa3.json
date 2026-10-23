@@ -1,0 +1,7 @@
+{"slug":"2026-02-18-sen-soynade-s-open-source-month","studies":{
+"aisystems":{"countries":{
+"MLI":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Soynade released AfVoices-Translated, an English translation of about 159 hours of human-corrected Bambara audio from the African Next Voices dataset collected and corrected by RobotsMali, on Hugging Face.","as_of":"2026-02-18","date_precision":"day","system":"AfVoices-Translated","class":"localai"}],"systems":[{"system":"AfVoices-Translated","country_label":"Mali","class":"localai","platform":"Hugging Face","owner":"Soynade","tiers":""}],"note":""},
+"SEN":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Soynade released FineWeb-Wolof-50k, 50,000 rows of web text translated into Wolof with its Oolel-v0.1 model, on Hugging Face.","as_of":"2026-02-18","date_precision":"day","system":"FineWeb-Wolof-50k","class":"localai"}],"systems":[{"system":"Oolel-v0.1","country_label":"Senegal","class":"localai","platform":"Hugging Face","owner":"Soynade","tiers":""}],"note":""}}},
+"startups":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No startup law, label or public fund is stated."},"SEN":{"facts":[],"systems":[],"note":"No startup law, label or public fund is stated."}}},
+"techhubs":{"countries":{"MLI":{"facts":[],"systems":[],"note":"No hub, incubator or park is stated."},"SEN":{"facts":[],"systems":[],"note":"No hub, incubator or park is stated."}}}
+}}

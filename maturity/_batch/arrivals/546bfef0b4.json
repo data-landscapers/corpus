@@ -1,0 +1,12 @@
+{"slug": "2025-01-30-mrt-etat-civil-le-ministere-adopte-plus-de-verrous-pour-la-mauritanite", "studies": {
+"authentication": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"birthidlink": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The civil-status law ties issue of the national identification number to a nationality check, but no records passing between the registers are stated."}}},
+"censuses": {"countries": {"MRT": {"facts": [{"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "La Depeche reports that the fifth general population and housing census, organised in 2024, counted the country's population at nearly 5 million inhabitants.", "as_of": "2024", "date_precision": "year", "system": "RGPH-5 2024", "class": "census"}], "systems": [{"system": "RGPH-5 2024", "country_label": "RGPH-5 2024", "class": "census", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"digitalidlaw": {"countries": {"MRT": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "La Depeche reports that the Assemblee nationale adopted a new civil-status law, adoption date not given and promulgation not stated, under which the national identification number is issued only once the applicant's Mauritanian nationality is verified.", "as_of": "2025-01", "date_precision": "month", "system": "Civil-status law", "class": "law"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only the census population of nearly 5 million is given, with no enrolment count."}}},
+"idfrombirth": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Births are declared within 60 days but the number is issued only after a nationality check, not at birth registration."}}},
+"idmaintenance": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idrobustness": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only the issue conditions of the national identification number are described; no system status is stated."}}},
+"registry": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Digitisation of civil-status procedures and correspondence is mentioned without saying births or deaths are entered digitally at local offices."}}}
+}}

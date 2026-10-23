@@ -1,0 +1,33 @@
+{
+  "slug": "2024-05-01-zaf-nicis-service-catalogue",
+  "studies": {
+    "aisystems": {"countries": {"ZAF": {
+      "facts": [
+        {
+          "sub_indicator": "localai",
+          "aspect": "compute",
+          "value": "compute",
+          "fact": "The NICIS CHPC service catalogue lists a Dell peta-scale HPC and GPU cluster with 30 Nvidia V100 GPU nodes and 4 PB of storage as a service, with use cases that include enabling machine learning insights.",
+          "as_of": "2024-05",
+          "date_precision": "month",
+          "system": "CHPC HPC & GPU Cluster",
+          "class": "localai"
+        },
+        {
+          "sub_indicator": "localai",
+          "aspect": "shared",
+          "value": "shared",
+          "fact": "The CHPC GPU cluster is offered free for six-month renewable periods to academic and public-interest users and for a fee to commercial users, with over 2000 users and over a billion core hours used.",
+          "as_of": "2024-05",
+          "date_precision": "month",
+          "system": "CHPC HPC & GPU Cluster",
+          "class": "localai"
+        }
+      ],
+      "systems": [
+        {"system": "CHPC HPC & GPU Cluster", "country_label": "CHPC HPC & GPU Cluster", "class": "localai", "platform": "Dell cluster, 30 Nvidia V100 GPU nodes", "owner": "NICIS CHPC", "tiers": ""}
+      ],
+      "note": ""
+    }}}
+  }
+}

@@ -1,0 +1,25 @@
+{"slug": "2025-12-12-zaf-minister-leon-schreiber-invites-public-comment-on-the-draft-revised-wh", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "AI is named only as a feature of a proposed register; no system tendered, piloted or in service."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI in a sector system."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on locally built AI."}}},
+"authentication": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A digital ID is only a policy under development; no authentication service stated."}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "The Department of Home Affairs' Draft Revised White Paper proposes turning the National Population Register into an Intelligent Population Register as the foundation for a Digital ID system, with births and deaths registered digitally.", "as_of": "2025-12-12", "date_precision": "day", "system": "Intelligent Population Register", "class": "crvslink"}], "systems": [{"system": "Intelligent Population Register", "country_label": "South Africa", "class": "crvslink", "platform": "proposed upgrade of the National Population Register", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Digital birth and death registration is only proposed in a draft white paper."}}},
+"digitalstrategy": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A white paper on citizenship and immigration, not a national digital strategy; a Digital ID policy is only under development."}}},
+"eparticipation": {"countries": {"ZAF": {"facts": [{"sub_indicator": "eparticipation", "aspect": "online", "value": "asked", "fact": "Home Affairs Minister Leon Schreiber published the Draft Revised White Paper on Citizenship, Immigration and Refugee Protection for public comment from 12 December 2025 to 31 January 2026, available on the Department's website with written comments accepted by email.", "as_of": "2025-12-12", "date_precision": "day", "system": "Draft Revised White Paper public comment", "class": "eparticipation"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The Digital ID is a policy under development; no system built or piloted stated."}}},
+"populationregister": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "South Africa's existing National Population Register records basic information including names, births and deaths, per the Department of Home Affairs.", "as_of": "2025-12-12", "date_precision": "day", "system": "National Population Register", "class": "population"},
+{"sub_indicator": "population", "aspect": "vital", "value": "updated", "fact": "The National Population Register records births and deaths, and the white paper would add mandatory birth and death registration through digital channels.", "as_of": "2025-12-12", "date_precision": "day", "system": "National Population Register", "class": "population"}],
+"systems": [{"system": "National Population Register", "country_label": "South Africa", "class": "population", "platform": "population register", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The white paper is on citizenship and immigration; its digital parts are not a named digital law, and sessions were only scheduled."}}},
+"refugees": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Refugee reforms concern asylum eligibility, not registration or digital access."}}},
+"registry": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}},
+"startups": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A start-up visa category is proposed; no startup programme or fund stated."}}},
+"techhubs": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on technology hubs."}}}
+}}

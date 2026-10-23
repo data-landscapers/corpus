@@ -1,0 +1,27 @@
+{"slug": "2026-03-10-tcd-tchad-le-ministere-des-finances-et-l-anats-signent-un-accord-pour-secu", "studies": {
+"addressregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No addressing system is mentioned."}}},
+"authentication": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Tchadinfos reports that on 10 March 2026 the finance ministry and ANATS signed a memorandum for secure consultation of the national biometric population register, to improve identification, verification and authentication in administrative and financial procedures, with banks and mobile money operators present.", "as_of": "2026-03-10", "date_precision": "day", "system": "Registre national biométrique de la population", "class": "authentication"}
+], "systems": [{"system": "Registre national biométrique de la population", "country_label": "Registre national biométrique de la population", "class": "population", "platform": "", "owner": "ANATS", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."}}},
+"businessregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No business register is mentioned."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No central bank role is mentioned."}}},
+"civilregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No civil register is mentioned."}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No consumer protection rule is mentioned."}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No cross-border payment is mentioned."}}},
+"dataprotectionlaw": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No data protection law is mentioned."}}},
+"electoralregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No voters' roll is mentioned."}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No government payment to people is mentioned."}}},
+"idrobustness": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Tchadinfos quotes ANATS director general Youssouf Gorou Tchaby on 10 March 2026 as saying the national biometric population register is an essential tool to guarantee the uniqueness of each citizen's identity and fight identity theft.", "as_of": "2026-03-10", "date_precision": "day", "system": "Registre national biométrique de la population", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No land register is mentioned."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No account survey figure is given."}}},
+"populationregister": {"countries": {"TCD": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "Tchadinfos reports that on 10 March 2026 the finance ministry and ANATS signed a memorandum for consulting data from the national biometric population register, which ANATS's director general described as an essential tool guaranteeing the uniqueness of each citizen's identity.", "as_of": "2026-03-10", "date_precision": "day", "system": "Registre national biométrique de la population", "class": "population"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Mobile money operators attended the signing; no retail payment service is described."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No electronic payment of taxes or fees is mentioned."}}},
+"socialregistry": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No social registry is mentioned."}}},
+"taxregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No tax register is mentioned."}}}
+}}

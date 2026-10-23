@@ -1,0 +1,11 @@
+{"slug":"2026-03-12-ken-servernah-cloud-launch","studies":{
+"aisystems":{"countries":{"KEN":{"facts":[
+{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Atlancis, EverseTech and iXAfrica launched Servernah Cloud, described as Kenya's first sovereign-hosted cloud and AI platform, with locally available GPU capacity for AI inference and model deployment, at iXAfrica's Nairobi facility.","as_of":"2026-03-12","date_precision":"day","system":"Servernah Cloud","class":"localai"},
+{"sub_indicator":"localai","aspect":"compute","value":"compute","fact":"iXAfrica's CEO Snehar Shah said the AI infrastructure deployment is 'now live for the market', and EverseTech demonstrated locally available GPU capacity at the 22.5 MW Nairobi data centre.","as_of":"2026-03-12","date_precision":"day","system":"Servernah Cloud","class":"localai"}],
+"systems":[{"system":"Servernah Cloud","country_label":"Kenya","class":"localai","platform":"Atlancis Servernah cloud with EverseTech AI-as-a-Service","owner":"Atlancis Technologies","tiers":""}],"note":""}}},
+"datacentres":{"countries":{"KEN":{"facts":[
+{"sub_indicator":"datacentre","aspect":"centre","value":"service","fact":"iXAfrica describes its 22.5 MW Nairobi facility on Mombasa Road as a hyperscale, carrier-neutral, AI-ready data centre hosting the Servernah Cloud launch.","as_of":"2026-03-12","date_precision":"day","system":"iXAfrica Nairobi data centre","class":"datacentre"}],
+"systems":[{"system":"iXAfrica Nairobi data centre","country_label":"Kenya","class":"datacentre","platform":"","owner":"iXAfrica Data Centres","tiers":""}],"note":""}}},
+"digitalsovereignty":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Describes a sovereign-hosted private cloud; no government data, rule or contract term is stated."}}},
+"nationaldatacentres":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Ownership of the iXAfrica data centre is not stated."}}}
+}}

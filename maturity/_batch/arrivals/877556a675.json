@@ -1,0 +1,337 @@
+{
+ "slug": "2026-09-01-xaf-ria-datacipation-data-policy-project",
+ "studies": {
+  "datagovernance": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Research ICT Africa says it helped deliver a validated national data policy and strategy for the Comoros.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "the Comoros national data policy and strategy",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "the Comoros national data policy and strategy",
+       "country_label": "the Comoros national data policy and strategy",
+       "class": "policy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Research ICT Africa says it helped deliver a validated national data policy and strategy for The Gambia.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "The Gambia national data policy and strategy",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "The Gambia national data policy and strategy",
+       "country_label": "The Gambia national data policy and strategy",
+       "class": "policy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Research ICT Africa says it helped deliver a validated national data policy and strategy for Somalia.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Somalia national data policy and strategy",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Somalia national data policy and strategy",
+       "country_label": "Somalia national data policy and strategy",
+       "class": "policy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names only an open data policy framework for South Africa, not a national data policy."
+    },
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Research ICT Africa says it supported the drafting of the Zambian National Data Policy.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Zambian National Data Policy",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Zambian National Data Policy",
+       "country_label": "Zambian National Data Policy",
+       "class": "policy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not name an open data policy for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not name an open data policy for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not name an open data policy for this country."
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Research ICT Africa says it developed the Open Data Policy Framework in South Africa; the document does not say it was adopted.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "Open Data Policy Framework",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Open Data Policy Framework",
+       "country_label": "Open Data Policy Framework",
+       "class": "policy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not name an open data policy for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for the country."
+    }
+   }
+  }
+ }
+}

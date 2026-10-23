@@ -1,0 +1,23 @@
+{"slug": "2025-02-24-sen-new-deal-technologique-a-national-ambition-to-make-senegal-a-leader-in", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government AI system tendered, piloted or in service."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The AI & Digital Factory programme is named with no builder, funder or site."}}},
+"authentication": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A biometric digital identity is only promised; no authentication service stated."}}},
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+"digitalsovereignty": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Sovereignty is stated in general terms; no plan or rule on state data or systems named."}}},
+"digitalstrategy": {"countries": {"SEN": {"facts": [{"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "President Bassirou Diomaye Faye officially launched Senegal's new digital strategy, the Technological New Deal, on 24 February 2025, under the Senegal 2050 agenda, with a Digital Master Plan of twelve priority programmes and 50 flagship projects, per the Presidency.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}], "systems": [{"system": "New Deal Technologique", "country_label": "Senegal", "class": "national", "platform": "national digital strategy with Digital Master Plan", "owner": "Presidency; Ministry of Communication, Telecommunications and Digital Affairs", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A single citizen portal is only promised; no service online stated."}}},
+"idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"SEN": {"facts": [], "systems": [], "note": "A unique biometric digital identity is only promised, with no builder or pilot stated."}}},
+"internationalbandwidth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on international bandwidth; only universal internet access is promised."}}},
+"landregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Cadastral and land digitisation is named only as a priority."}}},
+"registry": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Dematerialised civil status is named only as a priority."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Online tax payment is only promised on a future platform."}}},
+"ruralelectrification": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on rural electrification."}}},
+"startups": {"countries": {"SEN": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "President Faye's speech commits to updating and operationalising Senegal's existing Startup Act, including labelling and an incentive framework.", "as_of": "2025-02-24", "date_precision": "day", "system": "Startup Act", "class": "startuppolicy"}], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"SEN": {"facts": [], "systems": [], "note": "An incubation programme is only promised; no hub named."}}}
+}}

@@ -1,0 +1,12 @@
+{"slug": "2026-02-13-mli-signature-electronique-une-etape-cle-vers-letat-numerique", "studies": {
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Acquisition of the national PKI and signing platform and first signatures are stated 2026 priorities, not authorised, contracted or piloted."}}},
+"businesspayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"ecommercelaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Adoption of regulatory texts is a stated priority, but no law is named as in force or in draft."}}},
+"g2ppayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No survey figure given."}}},
+"retailpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

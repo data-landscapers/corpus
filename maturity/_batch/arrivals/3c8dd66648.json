@@ -1,0 +1,25 @@
+{"slug": "2025-10-30-nga-credible-inclusive-national-identity-management-system-fundamental-to", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The State House says President Tinubu launched the NINAuth App, a mobile identity authentication application developed by NIMC, on 30 October 2025, with about 1.3 million verification hits a day.", "as_of": "2025-10-30", "date_precision": "day", "system": "NINAuth", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "The State House says NINAuth is a digital, mobile-based identity authentication app launched on 30 October 2025, for citizens and residents to prove identity to businesses and services.", "as_of": "2025-10-30", "date_precision": "day", "system": "NINAuth", "class": "authentication"}],
+"systems": [{"system": "NINAuth", "country_label": "Nigeria", "class": "authentication", "platform": "mobile app", "owner": "National Identity Management Commission", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Nigeria."}}},
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Nigeria."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Nigeria."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Nigeria."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Nigeria."}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release mentions data protection standards but names no law."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on government payments to people."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release gives 126,717,316 enrolled but no population figure, so no share is stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release does not say who operates or owns the platform."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release says MDAs will soon adopt the app, which is not a register keyed on the NIN."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Director General of NIMC says NIMC had enrolled 126,717,316 individuals, about 25 million of them in the last two years.", "as_of": "2025-10-30", "date_precision": "day", "system": "National Identity Database (NIMC)", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The Director General of NIMC says NINAuth provides real-time identity authentication for businesses and other services.", "as_of": "2025-10-30", "date_precision": "day", "system": "NINAuth", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "The Director General of NIMC gives about 1.3 million verification hits per day.", "as_of": "2025-10-30", "date_precision": "day", "system": "NINAuth", "class": "relying"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release gives no survey of account holding."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Nigeria."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The release states nothing on this question for Nigeria."}}}
+}}

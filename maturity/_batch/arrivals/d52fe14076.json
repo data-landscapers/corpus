@@ -1,0 +1,59 @@
+{"slug": "2026-10-22-xaf-au-member-states-validate-african-continental-health-data-governance-fr", "studies": {
+"aiabuse": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "No Kenyan AI rule or authority stated."}}},
+"aigovernment": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "No AI tool in Kenya's health system stated."}}},
+"aisystems": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "No locally built AI stated."}}},
+"businesspayments": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datagovernance": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "The Digital Health Agency's exchange system is sector-specific; no national data policy stated."}}},
+"dataprotectionlaw": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Africa CDC says Kenya's Data Protection Act, with its Digital Health Act of 2023, provides a legal foundation for managing health information.", "as_of": "2026-10-22", "date_precision": "day", "system": "Data Protection Act", "class": "general"}], "systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "Africa CDC says Kenya's Data Protection Act provides a legal foundation for managing health information.", "as_of": "2026-10-22", "date_precision": "day", "system": "Data Protection Act", "class": "system"}], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "Sovereignty is stated for the continental framework; no Kenyan state data rule or hosting stated."}}},
+"digitalstrategy": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "No Kenyan national digital strategy named."}}},
+"g2ppayments": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "Health insurance payments are not shown to be payments to people by government."}}},
+"paymentsuptake": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"regionallaw": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "No Kenyan signature, ratification or national act tied to a shared text."}}},
+"regionalpolicy": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "A Kenyan official is quoted but no Kenyan act or membership of a digital policy body is stated."}}},
+"retailpayments": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Africa CDC says mobile money is widely used in Kenya, including in faster processing of health insurance payments.", "as_of": "2026-10-22", "date_precision": "day", "system": "mobile money", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Ethiopia is named only as the meeting venue."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

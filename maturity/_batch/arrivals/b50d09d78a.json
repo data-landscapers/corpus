@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-14-cod-ouragan-enquete-arptc-regulateur",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "Ouragan.cd, AfricaNews and Alternance.cd say article 13 of DRC telecommunications law no. 20/017 of 25 November 2020 assigns the regulator ARPTC the regulation and control of personal data protection; the article does not say the ARPTC does this work.",
+       "as_of": "2020-11-25",
+       "date_precision": "day",
+       "system": "ARPTC",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Autorite de regulation de la poste et des telecommunications du Congo (ARPTC)",
+       "country_label": "ARPTC",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Autorite de regulation de la poste et des telecommunications du Congo (ARPTC)",
+       "country_label": "ARPTC",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Article names the regulator's data protection mission under the telecommunications law but states no data protection law, appointment of an authority or action by it."
+    }
+   }
+  }
+ }
+}

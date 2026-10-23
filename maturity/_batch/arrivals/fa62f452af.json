@@ -1,0 +1,28 @@
+{
+  "slug": "2025-11-11-ken-atlancis-technologies-everse-technology-and-ixafrica-unveil-east-centr",
+  "studies": {
+    "aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document says nothing about rules or an authority on AI harms."}}},
+    "aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document names no government body using AI."}}},
+    "aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document names no public sector system using AI."}}},
+    "aisystems": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "Atlancis Technologies (Servernah Cloud) announces it has delivered and deployed a GPU-powered AI factory, built on OCP design principles with NVIDIA GPUs and offered as a cloud service, hosted at iXAfrica's NBOX1 campus in Kenya.", "as_of": "2025-11-11", "date_precision": "day", "system": "Servernah AI-as-a-Service platform", "class": "localai"},
+        {"sub_indicator": "localai", "aspect": "compute", "value": "compute", "fact": "Atlancis Technologies says the NVIDIA GPU-powered Servernah AI factory is delivered and deployed at iXAfrica's NBOX1 data centre in Kenya, making GPUs locally accessible.", "as_of": "2025-11-11", "date_precision": "day", "system": "Servernah AI-as-a-Service platform", "class": "localai"}
+      ],
+      "systems": [
+        {"system": "Servernah AI-as-a-Service platform", "country_label": "Kenya", "class": "localai", "platform": "NVIDIA GPUs, OCP design, hosted at iXAfrica NBOX1", "owner": "Atlancis Technologies (Servernah Cloud)", "tiers": ""}
+      ],
+      "note": "No named users or counts, so nothing on shared access."}}},
+    "datacentres": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "The release describes iXAfrica's NBOX1 campus in Nairobi as a carrier-neutral, colocation and cloud data centre hosting the Servernah AI factory, with 'Tier 3 standards of reliability' (the operators' own statement).", "as_of": "2025-11-11", "date_precision": "day", "system": "iXAfrica NBOX1 (Nairobi One Campus)", "class": "datacentre"}
+      ],
+      "systems": [
+        {"system": "iXAfrica NBOX1 (Nairobi One Campus)", "country_label": "Kenya", "class": "datacentre", "platform": "", "owner": "iXAfrica Data Centres", "tiers": "Tier 3 standards (stated)"}
+      ],
+      "note": "Only one facility; no cloud region of a global provider is named."}}},
+    "digitalsovereignty": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The release uses 'digital sovereignty' for private GPU capacity; no government data, rule or contract is stated."}}},
+    "internationalstandards": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document says nothing about international standards bodies or adopted standards."}}},
+    "nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document does not state who owns iXAfrica, and no government hosting is stated."}}}
+  }
+}

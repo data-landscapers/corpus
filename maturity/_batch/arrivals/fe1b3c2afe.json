@@ -1,0 +1,14 @@
+{"slug": "2025-01-01-mli-agence-nationale-de-securisation-des-actes-d-etat-civil", "studies": {
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on an authentication service."}}},
+"birthidlink": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "The Ministry of Territorial Administration's page gives ANSAEC (and the Civil Status Data Processing Center before it) the mission of building the civil status database of registered persons and assigning each person in it a National Identification Number with the national statistics service.", "as_of": "2025", "date_precision": "year", "system": "ANSAEC civil status database", "class": "crvslink"}
+], "systems": [{"system": "ANSAEC civil status database", "country_label": "Mali", "class": "crvslink", "platform": "", "owner": "ANSAEC / Ministry of Territorial Administration and Decentralisation", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The page states a mission to build a civil status database but not that births or deaths are registered digitally or the system procured or rolled out."}}},
+"dataprotectionlaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The page says only that the agency takes part in drafting personal data protection legislation; no law, bill or standing is stated."}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The number is assigned to persons in the civil status database, with no statement that it is given at birth registration."}}},
+"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The page states a mandate to assign a National Identification Number, not that numbers are issued, biometric or certified."}}},
+"registry": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices entering events digitally."}}}
+}}

@@ -1,0 +1,5 @@
+{"slug":"2024-11-18-tgo-togo-une-ia-de-reconnaissance-vocale-pour-deux-langues-locales-en-lanc","studies":{
+"aiabuse":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No rule or authority on AI harms is stated."}}},
+"aigovernment":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No government body's use of AI is stated; public services are named only as a possible use."}}},
+"aisectoral":{"countries":{"TGO":{"facts":[],"systems":[],"note":"No AI tool in a public sector system is stated."}}},
+"aisystems":{"countries":{"TGO":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Tout Afrique reports that Yodi, a speech recognition, translation and synthesis AI for Ewe and Kabye designed by Togolese data analyst Justin Bakoubolo, was unveiled at the Grand Atelier Digital in Lome, 13-15 November 2024.","as_of":"2024-11","date_precision":"month","system":"Yodi","class":"localai"}],"systems":[{"system":"Yodi","country_label":"Togo","class":"localai","platform":"","owner":"Justin Bakoubolo","tiers":""}],"note":""}}}}}

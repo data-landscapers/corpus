@@ -1,0 +1,15 @@
+{"slug": "2025-07-07-ben-l-asin-signe-plusieurs-accords-de-partenariat-pour-accelerer-la-transf", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "ASIN states it holds the role of National Root Certification Authority, and signed an agreement with Quality Corporate in June 2025 to consolidate that role and widen electronic trust services such as e-signature, digital identity and e-seal.", "as_of": "2025-06", "date_precision": "month", "system": "Autorite de Certification Racine Nationale", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "ASIN signed a memorandum of understanding with Orbus Digital Services in June 2025 on its integration into Benin's national public key infrastructure (PKI).", "as_of": "2025-06", "date_precision": "month", "system": "Infrastructure nationale a Cle Publique (PKI)", "class": "authentication"}
+], "systems": [{"system": "Infrastructure nationale a Cle Publique (PKI)", "country_label": "Benin", "class": "authentication", "platform": "", "owner": "ASIN", "tiers": "national root certification authority"}], "note": ""}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document says nothing about civil register and ID links."}}},
+"cybersecurity": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A forum and partnership deals are stated, with no national response body or strategy facts."}}},
+"ecommercelaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No law or decree is named."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No count of people holding a national ID is stated."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Digital identity appears only as a trust service to be offered; no ID system is described."}}},
+"itcapacity": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document does not say ASIN staff build or run systems for ministries."}}}
+}}

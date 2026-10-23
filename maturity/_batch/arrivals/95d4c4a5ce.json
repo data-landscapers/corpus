@@ -1,0 +1,14 @@
+{"slug":"2024-08-12-lbr-liberianinvestigator-unicef-crvs-day-birth-registration","studies":{
+"admindata":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on published statistics from administrative records."}}},
+"authentication":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on authentication."}}},
+"birthidlink":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Urges digital linkage of civil registration and legal identity systems; states no link planned, contracted or in service."}}},
+"civilregister":{"countries":{"LBR":{"facts":[{"sub_indicator":"civil","aspect":"births","value":"inservice","fact":"UNICEF's Ahmad Shahvez said birth registration services reach all 15 counties and 98% of health districts and are digitised, with tablets, online registration and digital birth certificates.","as_of":"2024-08","date_precision":"month","system":"Birth Registration Information Management System","class":"civil"}],"systems":[{"system":"Birth Registration Information Management System","country_label":"BRIMS","class":"civil","platform":"tablets, online registration, integrated into DHIS2","owner":"","tiers":"health districts"}],"note":""}}},
+"health":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Birth registration integrated into DHIS2 is not stated as HMIS reporting of patients treated, or as an EMR."}}},
+"healthmis":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Names DHIS2 only as the platform birth registration reports into; no national HMIS in service or link to a listed health system stated."}}},
+"idcoverage":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No national ID enrolment figure; the 98% is health districts reached."}}},
+"idfrombirth":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Birth certificates only; no ID number given at birth stated."}}},
+"idmaintenance":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on who runs the national ID system."}}},
+"idregisters":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on registers using the ID number."}}},
+"idrobustness":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on the national ID system itself."}}},
+"registry":{"countries":{"LBR":{"facts":[{"sub_indicator":"civil","aspect":"events","value":"B","fact":"UNICEF's Ahmad Shahvez said birth registration is digitised with tablets and an online registration system issuing digital birth certificates, and services reach all 15 counties and 98% of health districts.","as_of":"2024-08","date_precision":"month","system":"Birth Registration Information Management System","class":"civil"}],"systems":[],"note":""}}}
+}}

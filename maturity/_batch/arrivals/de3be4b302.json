@@ -1,0 +1,220 @@
+{
+ "slug": "2025-05-01-sen-perspectives-du-senegal-sur-les-progres-realises",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The ANEC presentation of May 2025 describes NEKKAL delivering civil-status acts in electronic form authenticated by QR code and electronic signature, and offering online identity verification, with a demonstration of the tools.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "NEKKAL",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The ANEC presentation of May 2025 shows NEKKAL's civil-status information system exchanging with the identity directorate, health (electronic notification of births and deaths), the statistics agency and the electoral file, with online identity verification.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "NEKKAL",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The ANEC presentation cites the fifth general population census (RGPH-5, 2023), carried out by the national statistics agency ANSD.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "RGPH-5",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The ANEC presentation of May 2025 describes the NEKKAL civil-status modernisation as equipping centres with 1,200 computers and a management application, digitising and indexing 20 million acts, and interconnecting 400 centres.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "NEKKAL",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NEKKAL",
+       "country_label": "Senegal",
+       "class": "civil",
+       "platform": "SI ETAT CIVIL",
+       "owner": "Agence nationale de l'Etat civil",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Digitisation of 20 million existing acts is archive work and equipment counts are not office counts; no office registering events digitally is stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Senegal."
+    }
+   }
+  }
+ }
+}

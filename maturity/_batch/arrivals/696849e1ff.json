@@ -1,0 +1,307 @@
+{
+ "slug": "2026-10-22-rwa-rwanda-ghana-benin-test-cross-border-digital-identity-verification",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The New Times reports that Benin completed the first phase of a Smart Africa pilot connecting its national digital identity system through the Smart Africa Data Exchange for cross-border identity verification, using synthetic data in a controlled test; live use is not yet possible.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Smart Africa Data Exchange (SADX)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Data Exchange (SADX)",
+       "country_label": "SADX",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The New Times reports that Ghana completed the first phase of a Smart Africa pilot connecting its national digital identity system through the Smart Africa Data Exchange for cross-border identity verification, using synthetic data in a controlled test; live use is not yet possible.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Smart Africa Data Exchange (SADX)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Data Exchange (SADX)",
+       "country_label": "SADX",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The New Times reports that Rwanda completed the first phase of a Smart Africa pilot connecting its national digital identity system through the Smart Africa Data Exchange for cross-border identity verification, using synthetic data in a controlled test; live use is not yet possible.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Smart Africa Data Exchange (SADX)",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Data Exchange (SADX)",
+       "country_label": "SADX",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Smart Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study for this country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The New Times reports that Benin is one of three countries that completed the first phase of a cross-border digital identity interoperability pilot under Smart Africa, announced 20 October 2026.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Smart Africa Trust Alliance and Smart Africa Data Exchange",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The New Times reports that Ghana is one of three countries that completed the first phase of a cross-border digital identity interoperability pilot under Smart Africa, announced 20 October 2026.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Smart Africa Trust Alliance and Smart Africa Data Exchange",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The New Times reports that Rwanda is one of three countries that completed the first phase of a cross-border digital identity interoperability pilot under Smart Africa, announced 20 October 2026.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "Smart Africa Trust Alliance and Smart Africa Data Exchange",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

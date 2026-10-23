@@ -1,0 +1,13 @@
+{"slug": "2025-03-17-cmr-cameroon-opens-new-id-card-production-centre-as-issuance-gains-tractio", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Augentic's CEO said its contract for Cameroon's new ID card includes 1,000 portable verification kits for law enforcement officers to do instant biometric authentication and verification of identity documents.", "as_of": "2025-03-14", "date_precision": "day", "system": "Augentic portable verification kits", "class": "authentication"}
+], "systems": [{"system": "new national ID card system (Augentic)", "country_label": "Cameroon", "class": "idsystem", "platform": "Augentic", "owner": "DGSN / Government of Cameroon", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No link between civil register and ID is mentioned."}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+"idmaintenance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The contractor is named but no operating, maintenance or ownership arrangement is stated."}}},
+"idregisters": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is mentioned."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update reports Cameroon's new national ID card system went live on 17 February 2025 with online pre-enrolment, biometric capture a week later and the first cards given to applicants on 3 March 2025.", "as_of": "2025-03-03", "date_precision": "day", "system": "new national ID card system", "class": "idsystem"}
+], "systems": [], "note": ""}}}
+}}

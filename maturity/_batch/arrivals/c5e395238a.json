@@ -1,0 +1,15 @@
+{"slug": "2025-12-17-dji-le-ministere-de-l-interieur-accelere-le-virage-de-l-identite-numerique", "studies": {
+"authentication": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "La Nation reports the Interior Ministry launched the Mobile ID project with TO7 Network, giving citizens a secure digital identifier and an electronic certificate, led jointly by the National Cybersecurity Authority and the population directorate, with pilot phases planned before wide rollout.", "as_of": "2025-12", "date_precision": "month", "system": "Mobile ID", "class": "authentication"}
+], "systems": [{"system": "Mobile ID", "country_label": "Djibouti", "class": "authentication", "platform": "mobile phone", "owner": "Ministry of Interior", "tiers": "digital identifier and electronic certificate; legal framework pending"}], "note": ""}}},
+"birthidlink": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"dataprotectionlaw": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Only a ministry assurance on data handling; no law, authority or decision is named."}}},
+"ecommercelaw": {"countries": {"DJI": {"facts": [], "systems": [], "note": "The article says e-signature use awaits a finalised legal framework; no law or draft is named."}}},
+"egovservices": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Online services are described as future, once the legal framework is final."}}},
+"idcoverage": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No count of people holding a national ID."}}},
+"idfrombirth": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on who operates the national ID system."}}},
+"idregisters": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"DJI": {"facts": [], "systems": [], "note": "A dematerialised biometric ID card is only a future aim; no ID system in service is described."}}},
+"publicconsultation": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Public consultations are only planned, none is stated as held."}}}
+}}

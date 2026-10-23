@@ -1,0 +1,21 @@
+{"slug": "2025-12-19-gha-ghana-and-uae-sign-1bn-deal-to-build-africa-s-largest-innovation-and-a", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government body is stated to pilot or use an AI system; the digital ID is not a government administration tool described here."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aisystems": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Ghana and the UAE signed a $1bn agreement for an innovation and AI hub at Ningo-Prampram with construction scheduled for 2026, including $180m for an AI Compute Hub to be developed by G42, with the UAE's PCFC financing it (African Business).", "as_of": "2025-12", "date_precision": "month", "system": "Ghana AI Compute Hub", "class": "localai"},
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The agreement allocates $100m to a national AI-powered digital identity system built on Falcon large language models via AI71, and $120m to a Ghana AI Startup Studio with Hub71.", "as_of": "2025-12", "date_precision": "month", "system": "AI-powered digital identity system on Falcon", "class": "localai"}],
+"systems": [{"system": "Ghana AI Compute Hub", "country_label": "Ghana", "class": "localai", "platform": "AI computing, renewable energy and liquid cooling", "owner": "G42 for the Ghana-UAE hub, financed by PCFC", "tiers": ""}], "note": ""}}},
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The AI-powered digital identity is only a funded plan; no authentication service stated."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+"datacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "A Tier IV hyperscale data centre is only funded and planned; none in service stated."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "A $100m national AI-powered digital identity system built on Falcon large language models via AI71 is funded under the Ghana-UAE agreement, with construction of the wider hub scheduled to begin in 2026.", "as_of": "2025-12", "date_precision": "month", "system": "AI-powered digital identity system", "class": "idsystem"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No nationally owned data centre in service stated."}}},
+"satellitebroadband": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Satellite connectivity for rural hubs is only a plan; no licensed provider or sale stated."}}},
+"startups": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Ghana Startup Fund is backed by ADQ and Chimera Capital with no startup act or public scheme stated."}}},
+"techhubs": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The innovation hub is announced with construction due in 2026; none built or in service."}}}
+}}

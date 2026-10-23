@@ -1,0 +1,118 @@
+{
+ "slug": "2026-03-20-zwe-minister-shava-launches-ai-hub-at-zimbabwe-open-university",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "The Herald reports the government commissioned a US$350,000 National Information Access Centre at Zimbabwe Open University's Hatcliffe campus, equipped with an Nvidia GPU-powered AI server, opened by Minister Frederick Shava.",
+       "as_of": "2026-03-20",
+       "date_precision": "day",
+       "system": "National Information Access Centre (NIAC)",
+       "class": "localai"
+      },
+      {
+       "sub_indicator": "localai",
+       "aspect": "compute",
+       "value": "compute",
+       "fact": "The Herald reports the National Information Access Centre at Zimbabwe Open University, Hatcliffe, opened with an Nvidia GPU-powered AI server that Minister Shava says enables practical AI training and advanced analytics.",
+       "as_of": "2026-03-20",
+       "date_precision": "day",
+       "system": "National Information Access Centre (NIAC)",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Information Access Centre (NIAC)",
+       "country_label": "Zimbabwe",
+       "class": "localai",
+       "platform": "Nvidia GPU-powered AI server",
+       "owner": "Zimbabwe Open University, Hatcliffe campus",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "delivered",
+       "value": "delivered",
+       "fact": "The Herald reports the government-commissioned National Information Access Centre at Zimbabwe Open University includes an inclusive library with assistive technologies, and the vice chancellor says it has smart boards and assistive devices for students with disabilities.",
+       "as_of": "2026-03-20",
+       "date_precision": "day",
+       "system": "National Information Access Centre (NIAC)",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

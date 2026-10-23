@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-28-armp-patnuc-elearning-consultant-selection",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "PATNUC (MINPOSTEL, World Bank-financed) published on 2026-04-28 the ranking of consultants shortlisted to deliver digital-transformation training and capacity building for public agents through an e-learning platform, with the Groupement ITS et Umbrella first on 90/100 and invited to negotiate.",
+       "as_of": "2026-04-28",
+       "date_precision": "day",
+       "system": "PATNUC e-learning training for public agents",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PATNUC e-learning platform for public agents",
+       "country_label": "PATNUC e-learning 2026",
+       "class": "csskills",
+       "platform": "e-learning",
+       "owner": "PATNUC / MINPOSTEL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{"slug": "2025-08-14-mus-maupass-au-service-de-l-inclusion-numerique", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Maurice Info reports MauPass, a national digital identity platform, lets citizens and residents sign in securely using their national identity card or passport to access government e-services.", "as_of": "2025-08-14", "date_precision": "day", "system": "MauPass", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Maurice Info reports MauPass gives access to various government e-services with a single secure login, and the minister says more services will be added soon.", "as_of": "2025-08-14", "date_precision": "day", "system": "MauPass", "class": "authentication"}
+], "systems": [{"system": "MauPass", "country_label": "Mauritius", "class": "authentication", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document does not mention civil register and ID links."}}},
+"egovservices": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Maurice Info reports government e-services are already available online, citing the recent launch of an online driving licence system, with more services to be added soon; no count is given.", "as_of": "2025-08-14", "date_precision": "day", "system": "MauPass", "class": "eservices"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No register keyed on the ID number is described."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "MauPass is described as a digital identity login; no statement on the national ID system's issuance, biometrics or certification."}}}
+}}

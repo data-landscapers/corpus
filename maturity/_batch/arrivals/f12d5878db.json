@@ -1,0 +1,283 @@
+{
+ "slug": "2024-03-14-gha-bawumia-launches-ghana-card-number-at-birth",
+ "studies": {
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "Vice President Bawumia launched the Ghana Card number at birth system on 14 March 2024, in which births notified from health facilities go to the Births and Deaths Registry, then to the National Identification Authority, which generates the baby's Ghana Card number and returns it.",
+       "as_of": "2024-03-14",
+       "date_precision": "day",
+       "system": "Ghana Card number at birth system",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card number at birth system",
+       "country_label": "Ghana",
+       "class": "crvslink",
+       "platform": "DHIS2 e-tracker (as named: district health information system e-tracker)",
+       "owner": "National Identification Authority with Births and Deaths Registry and Ghana Health Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "Vice President Bawumia said the Births and Deaths Registry has moved to an automated platform allowing real-time birth registration across all regions, with certificates issued within two hours.",
+       "as_of": "2024-03-14",
+       "date_precision": "day",
+       "system": "Births and Deaths Registry automated platform",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "District health information system e-tracker",
+       "country_label": "Ghana",
+       "class": "tracker",
+       "platform": "DHIS2",
+       "owner": "Ghana Health Service",
+       "tiers": "CHPS;health centres;hospitals"
+      }
+     ],
+     "note": "E-tracker is a birth-notification tracker, not routine HMIS or EMR."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 17.8 million enrolled but no population figure, so no share is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "Vice President Bawumia launched the Ghana Card number at birth system, in which a Ghana Card number is generated for the baby when a health-facility birth is registered, as stated at the 14 March 2024 launch.",
+       "as_of": "2024-03-14",
+       "date_precision": "day",
+       "system": "Ghana Card number at birth system",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Vice President Bawumia said 17.8 million Ghanaians were enrolled on the Ghana Card system run by the National Identification Authority as of 11 March 2024.",
+       "as_of": "2024-03-11",
+       "date_precision": "day",
+       "system": "Ghana Card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana Card",
+       "country_label": "Ghana",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Registry integration with Ghana.gov payments is named, but no tax or fee payment is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-09-26-com-komor-ia-lance-annotation-studio-la-premiere-plateforme-d-annotation-n", "studies": {
+"aiabuse": {"countries": {"COM": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"COM": {"facts": [], "systems": [], "note": "No government body is stated to use AI; only the state newspaper Al-watwan is mentioned as covering a model."}}},
+"aisectoral": {"countries": {"COM": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"COM": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "Komor-IA published KomoriTTS, a beta text-to-speech model for Shikomori (Shingazidja dialect) trained on its community voice corpus, and Al-watwan wrote about it on 4 August 2026, per Komor-IA's LinkedIn post.", "as_of": "2026-08-04", "date_precision": "day", "system": "KomoriTTS", "class": "localai"}], "systems": [{"system": "KomoriTTS", "country_label": "Comoros", "class": "localai", "platform": "", "owner": "Komor-IA", "tiers": ""}, {"system": "Shikomori Dataset (French-Shingazidja parallel corpus v1.0, 1,568 sentence pairs)", "country_label": "Comoros", "class": "localai", "platform": "", "owner": "Komor-IA", "tiers": ""}], "note": ""}}},
+"opendatause": {"countries": {"COM": {"facts": [], "systems": [], "note": "Datasets are published by Komor-IA, not a public body; none stated for a Comorian public body."}}}
+}}

@@ -1,0 +1,23 @@
+{"slug": "2026-07-24-civ-anssi-pki-racine-nationale-mise-en-service", "studies": {
+"authentication": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "ANSSI CI announced on 24 July 2026 that the national public key infrastructure (PKI) is in service, at the top of the issuing tree for electronic certificates.", "as_of": "2026-07-24", "date_precision": "day", "system": "PKI Racine Nationale", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "ANSSI CI states the national PKI is the trust base for all certification authorities operating in Cote d'Ivoire and supports the national electronic trust service providers.", "as_of": "2026-07-24", "date_precision": "day", "system": "PKI Racine Nationale", "class": "authentication"}
+], "systems": [{"system": "PKI Racine Nationale", "country_label": "Cote d'Ivoire", "class": "authentication", "platform": "", "owner": "ANSSI CI", "tiers": "root above certification authorities"}], "note": ""}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document says nothing about civil register and ID links."}}},
+"cybersecurity": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "ANSSI CI says the national PKI launch is part of implementing the National Cybersecurity Strategy and a 2026-2028 roadmap milestone of the digital ministry (MTNIT).", "as_of": "2026-07-24", "date_precision": "day", "system": "ANSSI CI", "class": "response"}
+], "systems": [{"system": "ANSSI CI", "country_label": "Agence Nationale de Securite des Systemes d'Information", "class": "response", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The PKI is called sovereign but no rule, hosting or contract terms for state data are stated."}}},
+"ecommercelaw": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "ANSSI CI names Law No. 2013-546 of 30 July 2013 on electronic transactions as part of the regulatory framework in force that gives the electronic signature legal value.", "as_of": "2013-07-30", "date_precision": "day", "system": "Loi 2013-546", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "ANSSI CI names Decree No. 2014-106 of 12 March 2014, setting the conditions for written records and electronic signature, and Decree No. 2014-105 on cryptology services, as rules under the framework.", "as_of": "2014-03-12", "date_precision": "day", "system": "Decret 2014-106", "class": "law"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No count of people holding a national ID is stated."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The national digital identity is only mentioned as something the PKI supports; no ID system is described."}}},
+"internationalstandards": {"countries": {"CIV": {"facts": [], "systems": [], "note": "ITU and ISO recognition of ANSSI CI as OID registration authority is neither standards body membership nor an adopted standard."}}},
+"itcapacity": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document does not say who on staff runs or built the PKI."}}},
+"schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

@@ -1,0 +1,7 @@
+{"slug": "2026-04-01-tza-workshop-on-local-generative-ai-for-education-in-tanzania", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No government body is stated to use AI."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "A university workshop on tutoring systems is not an AI tool in a public sector system."}}},
+"aisystems": {"countries": {"TZA": {"facts": [{"sub_indicator": "localai", "aspect": "compute", "value": "compute", "fact": "Ghent University's IDLab-AIRO says it installed a new GPU workstation at Mzumbe University in Morogoro, from which a workshop served LLMs, image generation and speech pipelines, as the university's new Centre for AI Research and Innovation (CAIRI) was inaugurated.", "as_of": "2026-04", "date_precision": "month", "system": "Mzumbe University GPU workstation (CAIRI)", "class": "localai"}], "systems": [{"system": "CAIRI GPU workstation", "country_label": "Tanzania", "class": "localai", "platform": "GPU workstation", "owner": "Mzumbe University", "tiers": ""}], "note": ""}}},
+"stemgraduates": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document gives no STEM graduate figure and names no national research and education network."}}}
+}}

@@ -1,0 +1,24 @@
+{
+  "slug": "2026-06-24-mus-mauritius-telecom-ai-learning-lead-to-national-ai-registry",
+  "studies": {
+    "aisectoral": {"countries": {"MUS": {
+      "facts": [
+        {
+          "sub_indicator": "sectorai",
+          "aspect": "use",
+          "value": "underway",
+          "fact": "Mauritius Telecom's CEO said the operator has piloted an AI learning tool on Rodrigues that lets students learn in Mauritian creole, worked on with the government and education ministry, and refocused it from a student tutor to a tool helping teachers create tests and give feedback.",
+          "as_of": "2026-06-24",
+          "date_precision": "day",
+          "system": "Rodrigues AI learning tool",
+          "class": "sectorai"
+        }
+      ],
+      "systems": [
+        {"system": "Rodrigues AI learning tool", "country_label": "Rodrigues AI learning tool", "class": "sectorai", "platform": "", "owner": "Mauritius Telecom", "tiers": ""},
+        {"system": "Mauritius AI Registry", "country_label": "Mauritius AI Registry", "class": "other", "platform": "open source", "owner": "Mauritius Telecom", "tiers": ""}
+      ],
+      "note": ""
+    }}}
+  }
+}

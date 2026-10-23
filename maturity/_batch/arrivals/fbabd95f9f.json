@@ -1,0 +1,22 @@
+{"slug": "2026-02-10-dji-djibouti-la-plateforme-mobile-id-une-couche-de-securite-des-informatio", "studies": {
+"aiabuse": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aigovernment": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisectoral": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"authentication": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Djibouti's president officially launched the Mobile ID platform on 9 February 2026, whose authentication combines the national ID card number and a digital fingerprint, per Digital Business Africa.", "as_of": "2026-02-09", "date_precision": "day", "system": "Mobile ID", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Digital Business Africa reports Mobile ID launched in Djibouti with three functions: payment authorisation, authentication and electronic signature.", "as_of": "2026-02-09", "date_precision": "day", "system": "Mobile ID", "class": "authentication"}],
+"systems": [{"system": "Mobile ID", "country_label": "Mobile ID", "class": "authentication", "platform": "", "owner": "Government of Djibouti", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No civil register to ID link stated."}}},
+"civilregister": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Civil status is named only in a presidential quote about uses of digital ID; no register system stated."}}},
+"datacentres": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on data centres."}}},
+"digitalsovereignty": {"countries": {"DJI": {"facts": [], "systems": [], "note": "A general remark that cybersecurity is part of sovereignty; no strategy, rule or hosting stated."}}},
+"ecommercelaw": {"countries": {"DJI": {"facts": [], "systems": [], "note": "An e-signature function on a platform is stated, no law."}}},
+"idcoverage": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No count or share of people enrolled stated."}}},
+"idfrombirth": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Mobile ID checks a fingerprint at authentication; no statement of ID issuance, enrolment de-duplication or certification."}}},
+"nationaldatacentres": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on data centres."}}},
+"registry": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

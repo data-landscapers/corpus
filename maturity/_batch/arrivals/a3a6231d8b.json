@@ -1,0 +1,568 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The National Identification Agency's deck says OTP authentication on the unique identification number is fully deployed and actively used, including through the digital one-stop portal for public services.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "The deck says ANID serves as identity service provider to banks and financial institutions for e-KYC and to public services, with verification by QR code, remote API, mobile app and USSD.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-ID Togo",
+       "country_label": "Togo",
+       "class": "authentication",
+       "platform": "MOSIP",
+       "owner": "Agence Nationale d'Identification",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "The deck lists integrating the unique identification number across public services including the civil registry as a planned step of its revenue and adoption model.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Says there is no reliable civil ID system for most people; no civil register system is described."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The deck lists the Cybersecurity Act of 2018 as creating a Cybersecurity Agency.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Cybersecurity Agency",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck lists the Cybersecurity Act of 2018 as part of Togo's legal framework.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Cybersecurity Act 2018",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "The deck describes an API and data-sharing platform with the RSIA secure inter-administration network based on X-Road, linking ANID to ministries, banks and hospitals, with consent, audit logs and e-ID authentication.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "RSIA (X-Road)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RSIA",
+       "country_label": "Togo",
+       "class": "exchange",
+       "platform": "X-Road",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "The deck lists the Data Protection Act of 2019 with a Data Protection Authority.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Data Protection Authority",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck lists the Data Protection Act of 2019 as part of Togo's legal framework.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Data Protection Act 2019",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "The deck lists the Data Protection Act of 2019 alongside a Data Protection Authority.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Data Protection Act 2019",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck lists the Biometric Identification Act of 2020, which created the National ID Agency, as the legal framework for biometric identification.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "Biometric Identification Act 2020",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "cover",
+       "value": "digital",
+       "fact": "The deck says the e-ID Togo system provides unique identification numbers based on fingerprints, iris and photo under the Biometric Identification Act of 2020.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "Biometric Identification Act 2020",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck lists an Electronic Transactions Act giving a legal basis for electronic exchange and contracts and legal validity to e-signatures.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Electronic Transactions Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The deck describes a digital one-stop portal for public services (service-public.gouv.tg) powered by e-ID, with sign-in by unique identification number or email and OTP.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "service-public.gouv.tg",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "gateway",
+       "value": "single",
+       "fact": "The deck describes a fully integrated one-stop portal for public services with secure access through the unique identification number.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "service-public.gouv.tg",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "service-public.gouv.tg",
+       "country_label": "Togo",
+       "class": "eservices",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The deck says the Novissi programme, launched on 8 April 2020, paid more than 600,000 informal workers monthly transfers via mobile money, onboarded by USSD.",
+       "as_of": "2020-04-08",
+       "date_precision": "day",
+       "system": "Novissi",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Registration chart is ambiguous in the text; no clear share of the population is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "ownership",
+       "value": "owned",
+       "fact": "The deck says the e-ID Togo system is based on the open source MOSIP platform, with no vendor lock-in.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The deck lists integrating the unique identification number across health, education, civil registry, social protection, pension and employment services as a step of its adoption model.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The deck says the e-ID Togo system provides unique identification numbers based on fingerprints, iris and photo, with cards printed after deduplication.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "The deck says cards are printed after deduplication of the biometric enrolment.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The deck says the e-ID card is used within microfinance institutions and that the unique identification number is used through verification and authentication across the ecosystem.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "sectors",
+       "value": "several",
+       "fact": "The deck shows the unique identification number used for sign-in to the public services portal and in microfinance institutions.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "e-ID Togo",
+       "class": "relying"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The deck says Novissi paid monthly transfers through mobile money in 2020.",
+       "as_of": "2020-04",
+       "date_precision": "month",
+       "system": "Novissi mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The deck says the Novissi programme onboarded more than 600,000 beneficiaries by USSD, with a real-time dashboard and daily-audited logs of all transactions.",
+       "as_of": "2020-04-08",
+       "date_precision": "day",
+       "system": "Novissi",
+       "class": "socialmis"
+      },
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "payments",
+       "value": "electronic",
+       "fact": "The deck says Novissi made direct monthly transfers to beneficiaries via mobile money.",
+       "as_of": "2020-04-08",
+       "date_precision": "day",
+       "system": "Novissi",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  }
+ }
+}

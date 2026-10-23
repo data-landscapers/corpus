@@ -1,0 +1,4 @@
+{"slug": "2026-09-08-thecitizen-congo-locks-down-geological-data", "studies": {
+"accesstoinformationlaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document concerns access to a geological databank and names no access to information law or draft."}}},
+"opendatapolicy": {"countries": {"COD": {"facts": [], "systems": [{"system": "national geological databank", "country_label": "Congo (DRC)", "class": "other", "platform": "", "owner": "National Geological Survey of Congo (SGNC)", "tiers": "free basic data, fee-based sensitive data"}], "note": "The databank is one sector's data store with no open data policy or government portal named."}}}
+}}

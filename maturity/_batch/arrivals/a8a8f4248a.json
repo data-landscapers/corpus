@@ -1,0 +1,30 @@
+{
+  "slug": "2025-05-27-sen-le-supercalculateur-taouey-un-outil-au-service-de-la-recherche-et-la-s",
+  "studies": {
+    "aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document says nothing about rules or an authority on AI harms."}}},
+    "aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document names no government body using an AI system for administration."}}},
+    "aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document names no AI tool inside a public sector's system."}}},
+    "aisystems": {"countries": {"SEN": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "APS reports that the Taouey supercomputer, bought by the Senegalese state from Atos in December 2019, was officially put into service in March 2024 at the Cite du savoir in Diamniadio, and is described as increasingly needed for training AI models.", "as_of": "2024-03", "date_precision": "month", "system": "Taouey supercalculateur", "class": "localai"},
+        {"sub_indicator": "localai", "aspect": "compute", "value": "compute", "fact": "APS reports the 537.6-teraflop Taouey supercomputer is in service in Diamniadio, run by CINERI, with demand rising because of AI; the document does not name GPUs.", "as_of": "2024-03", "date_precision": "month", "system": "Taouey supercalculateur", "class": "localai"},
+        {"sub_indicator": "localai", "aspect": "shared", "value": "shared", "fact": "CINERI's director general Ousmane Thiare says Taouey has had more than a hundred users since its start, and that public and private users, including scientists of the sub-region, can use its high-performance computing services.", "as_of": "2025-05-27", "date_precision": "day", "system": "Taouey supercalculateur", "class": "localai"}
+      ],
+      "systems": [
+        {"system": "Taouey supercalculateur", "country_label": "Senegal", "class": "localai", "platform": "Atos, 537.6 teraflops, Cite du savoir Diamniadio", "owner": "State of Senegal, administered by CINERI", "tiers": ""}
+      ],
+      "note": ""}}},
+    "datacentres": {"countries": {"SEN": {"facts": [], "systems": [{"system": "Diamniadio datacenter", "country_label": "Senegal", "class": "other", "platform": "", "owner": "Senegal numerique SA (SENUM SA)", "tiers": ""}], "note": "The document names the Diamniadio datacenter but does not say it rents space or computing to others; the CINERI datacentre is only a project."}}},
+    "digitalsovereignty": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Sovereignty is mentioned only in general terms; no rule, hosting of state data or contract term is stated."}}},
+    "itcapacity": {"countries": {"SEN": {
+      "facts": [
+        {"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "APS quotes CINERI's director general saying CINERI, the state body in charge of managing and administering the Taouey supercomputer, also manages the SIGESR higher-education governance system including its CAMPUSEN module.", "as_of": "2025-05-27", "date_precision": "day", "system": "SIGESR / CAMPUSEN", "class": "staff"}
+      ],
+      "systems": [
+        {"system": "SIGESR / CAMPUSEN", "country_label": "Senegal", "class": "staff", "platform": "", "owner": "CINERI", "tiers": ""}
+      ],
+      "note": ""}}},
+    "nationaldatacentres": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is stated; the Diamniadio datacenter is not said to rent space and the CINERI one is a project."}}},
+    "schoolinternet": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document says nothing about internet in schools or the curriculum."}}}
+  }
+}

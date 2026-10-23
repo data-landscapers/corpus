@@ -1,0 +1,29 @@
+{"slug": "2026-01-01-stp-digitising-a-nation-s-public-service-delivery", "studies": {
+"addressregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "No addressing system is mentioned."}}},
+"authentication": {"countries": {"STP": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Ooru Digital, the implementer, says e-Authentication services and digital signatures for São Tomé and Príncipe are in Phase 3 (2026) of a programme in active implementation with DGRN and INIC, to let citizens identify themselves online.", "as_of": "2026", "date_precision": "year", "system": "e-Authentication and digital signatures", "class": "authentication"}
+], "systems": [{"system": "e-Authentication and digital signatures", "country_label": "e-Authentication", "class": "authentication", "platform": "MOSIP-based national identity system", "owner": "DGRN / INIC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"STP": {"facts": [], "systems": [], "note": "SIGA is said to hold civil registration and identity records, but no link or exchange between the two is stated."}}},
+"businessregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "No business register is mentioned."}}},
+"civilregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "DGRN is named responsible for civil registration through SIGA, but no digital civil register for births or deaths is stated."}}},
+"dataexchange": {"countries": {"STP": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "Ooru Digital, the implementer, says a national Data Exchange Layer is introduced in Phase 2 (2026) of a programme in active implementation by DGRN and INIC, to link ministries' systems.", "as_of": "2026", "date_precision": "year", "system": "Data Exchange Layer", "class": "exchange"}
+], "systems": [{"system": "Data Exchange Layer", "country_label": "Data Exchange Layer", "class": "exchange", "platform": "", "owner": "INIC", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"STP": {"facts": [], "systems": [{"system": "Citizen Portal and mobile application", "country_label": "Citizen Portal", "class": "eservices", "platform": "gov.st domain", "owner": "INIC", "tiers": ""}], "note": "The 150+ services portal is described as delivered by Phase 1 and as expected outcomes; the page does not say a service is live or piloted."}}},
+"electoralregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "No voters' roll is mentioned."}}},
+"idcoverage": {"countries": {"STP": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is given."}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "No number given at birth is stated."}}},
+"idmaintenance": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing is stated about who operates, maintains or owns the ID system day to day."}}},
+"idregisters": {"countries": {"STP": {"facts": [], "systems": [], "note": "No public register is said to be keyed on the ID number."}}},
+"idrobustness": {"countries": {"STP": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Ooru Digital, the implementer, says a MOSIP-based national digital identity system anchored in DGRN's SIGA registry is being implemented, with Phase 1 (2025-2026) delivering it.", "as_of": "2026", "date_precision": "year", "system": "MOSIP-based national digital identity system", "class": "idsystem"}
+], "systems": [{"system": "MOSIP-based national digital identity system", "country_label": "National digital identity", "class": "idsystem", "platform": "MOSIP", "owner": "DGRN", "tiers": ""}, {"system": "SIGA", "country_label": "SIGA registry", "class": "other", "platform": "", "owner": "DGRN", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"STP": {"facts": [], "systems": [], "note": "No other system is said to check people against the ID."}}},
+"internetusage": {"countries": {"STP": {"facts": [], "systems": [{"system": "internet penetration", "country_label": "61%", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The 61% internet penetration is given without source or year or a statement that it is a share of people."}}},
+"landregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "No land register is mentioned."}}},
+"mobilepenetration": {"countries": {"STP": {"facts": [], "systems": [{"system": "mobile phone penetration", "country_label": "71%", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The 71% mobile phone penetration is given without source, year or age range, and may count subscriptions."}}},
+"populationregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "SIGA is called the national registry system, but is not said to be a register of the population."}}},
+"registry": {"countries": {"STP": {"facts": [], "systems": [], "note": "No digital entry of births or deaths at local civil registration offices is stated."}}},
+"socialregistry": {"countries": {"STP": {"facts": [], "systems": [], "note": "Social protection is only listed as a service area and a Phase 3 sector; no social registry is named."}}},
+"taxregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "Taxation is only listed as a portal service area; no taxpayer register is named."}}}
+}}

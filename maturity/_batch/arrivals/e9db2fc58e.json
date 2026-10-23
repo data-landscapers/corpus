@@ -1,0 +1,40 @@
+{"slug": "2024-05-09-ken-digital-identity-id-roll-out-on-course-ps", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Kenya News Agency reports the Principal Secretary for Immigration and Citizen Services describing 'Maisha Digital', a virtual version of the third-generation Maisha card for using services from a phone, as part of a digital ID being rolled out.", "as_of": "2024-05-09", "date_precision": "day", "system": "Maisha Digital", "class": "authentication"}
+], "systems": [{"system": "Maisha Digital", "country_label": "Kenya", "class": "authentication", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}, {"system": "e-Citizen", "country_label": "Kenya", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The Principal Secretary says the National Registration Bureau, civil registration and immigration are all connected to the IPRS database through interoperability, as reported by Kenya News Agency.", "as_of": "2024-05-09", "date_precision": "day", "system": "IPRS", "class": "crvslink"}
+], "systems": [{"system": "IPRS", "country_label": "Kenya", "class": "crvslink", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Civil registration is named only as connected to IPRS; nothing on births or deaths being registered digitally."}}},
+"dataprotectionauthority": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Kenya News Agency quotes Data Protection Commissioner Immaculate Kassait saying her office has advised the Ministry of Interior, trained its staff and continues to audit its data custody.", "as_of": "2024-05-09", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Data Protection Commissioner Immaculate Kassait says her office has offered advice and training to the Ministry of Interior and continues to audit its data custody.", "as_of": "2024-05-09", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "authority"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Data Protection Commissioner says her office received a data protection impact assessment from the Ministry of Interior, offered training and continues to audit, and the PS says more than 10 impact assessments were done for the digital ID.", "as_of": "2024-05-09", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "Data Protection Commissioner Immaculate Kassait is quoted as saying her office offers advice and training and audits the Ministry of Interior's data custody.", "as_of": "2024-05-09", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "system"},
+{"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "The Commissioner says her office received a data protection impact assessment from the Ministry of Interior, gave training and continues to audit; the PS says more than 10 such assessments were done for the digital ID.", "as_of": "2024-05-09", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "system"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "The Principal Secretary says the e-Citizen platform has more than 16,000 services online and collects more than Sh700 million a day.", "as_of": "2024-05-09", "date_precision": "day", "system": "e-Citizen", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "gateway", "value": "single", "fact": "The Principal Secretary says e-Citizen, connected to the IPRS database that links the National Registration Bureau, civil registration and immigration, has more than 13 million registered users.", "as_of": "2024-05-09", "date_precision": "day", "system": "e-Citizen", "class": "eservices"},
+{"sub_indicator": "eservices", "aspect": "usage", "value": "published", "fact": "The Principal Secretary says e-Citizen has more than 13 million registered users and about 30,000 people enrol each day.", "as_of": "2024-05-09", "date_precision": "day", "system": "e-Citizen", "class": "eservices"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The 13 million figure counts e-Citizen users, not people holding a national ID."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "The Principal Secretary says the Maisha number is being given to newborns and will run across their lives, used for school, ID, NSSF and NHIF and shown on the death certificate.", "as_of": "2024-05-09", "date_precision": "day", "system": "Maisha number", "class": "birthnumber"}
+], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on who runs, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "The Principal Secretary says the Maisha number will be the same number used for the ID, NSSF and NHIF.", "as_of": "2024-05-09", "date_precision": "day", "system": "Maisha number", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Principal Secretary says the government is rolling out a third-generation digital ID, the Maisha card, moving from the old generation ID.", "as_of": "2024-05-09", "date_precision": "day", "system": "Maisha card", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"regionalpolicy": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Kenya's Principal Secretary for Immigration and Citizen Services and its Data Protection Commissioner spoke at the Network of Africa Data Protection Authorities (NADPA) conference, which brought together more than 20 African countries.", "as_of": "2024-05-09", "date_precision": "day", "system": "NADPA", "class": "cooperation"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices entering events digitally."}}}
+}}

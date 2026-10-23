@@ -1,0 +1,26 @@
+{
+  "slug": "2025-08-18-cpv-iscte-lanca-projeto-internacional-para-o-desenvolvimento-de-modelos-de",
+  "studies": {
+    "aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No government body using or testing an AI system is named."}}},
+    "aisystems": {"countries": {"CPV": {
+      "facts": [
+        {
+          "sub_indicator": "localai",
+          "aspect": "build",
+          "value": "underway",
+          "fact": "Iscte and the University of Cabo Verde, co-funded by the OEI with a total budget of 72,000 US dollars, announced the 15-month ORAL project starting 15 October, to build open Cape Verdean Creole text and speech corpora, a first Creole large language model, translation and speech recognition models, and a chatbot.",
+          "as_of": "2025-08-18",
+          "date_precision": "day",
+          "system": "ORAL - kriOl(u) laRge lAnguage modeLs",
+          "class": "localai"
+        }
+      ],
+      "systems": [
+        {"system": "ORAL", "country_label": "ORAL - kriOl(u) laRge lAnguage modeLs", "class": "localai", "platform": "Hugging Face (planned)", "owner": "Iscte and Universidade de Cabo Verde", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "civilserviceskills": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Capacity-building for public servants is a planned component of a language-model project, not a digital-skills programme for civil servants."}}},
+    "policyresearch": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The project concerns Creole language technology and language policy; no digital policy research or policy input is stated."}}}
+  }
+}

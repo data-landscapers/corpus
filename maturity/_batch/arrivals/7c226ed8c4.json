@@ -1,0 +1,9 @@
+{"slug": "2026-08-02-nga-nigeria-is-adopting-ai-fast-but-foreign-firms-are-winning-report-warns", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a responsible-AI index ranking is mentioned; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The review of AI adoption in Nigeria reports that the Federal Civil Service's Service Wise GPT is improving service delivery.", "as_of": "2026-08-02", "date_precision": "day", "system": "Service Wise GPT", "class": "govai"}], "systems": [{"system": "Service Wise GPT", "country_label": "Nigeria", "class": "govai", "platform": "", "owner": "Federal Civil Service", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"NGA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The review reports AI-powered traffic management pilots in Lagos and Abuja that have reportedly reduced peak-hour travel times by 20%.", "as_of": "2026-08-02", "date_precision": "day", "system": "AI-powered traffic management pilots", "class": "sectorai"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document says Nigeria builds little of its own models, datasets or compute; names none under way or in service."}}},
+"digitalsovereignty": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only a general statement on sovereignty and dependence on foreign AI; no state data policy, rule, hosting or contract terms."}}},
+"startups": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states no startup law, label or fund."}}},
+"techhubs": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A Lagos tech hub is mentioned only in passing, with no programme stated."}}}
+}}

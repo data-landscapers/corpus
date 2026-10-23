@@ -1,0 +1,5 @@
+{"slug":"2024-01-01-eri-tigrinyalargetext","studies":{
+"aiabuse":{"countries":{"ERI":{"facts":[],"systems":[],"note":"A dataset card; no rule or authority on AI harms is stated."}}},
+"aigovernment":{"countries":{"ERI":{"facts":[],"systems":[],"note":"A dataset card; no government use of AI is stated."}}},
+"aisectoral":{"countries":{"ERI":{"facts":[],"systems":[],"note":"A dataset card; no sectoral AI tool is stated."}}},
+"aisystems":{"countries":{"ERI":{"facts":[],"systems":[{"system":"TigrinyaLargeText","country_label":"Eritrea","class":"localai","platform":"Hugging Face","owner":"Mewael Tsegay Desta","tiers":""}],"note":"The card does not say the dataset was built in Eritrea or by whom there; Eritrea is not named."}}}}}

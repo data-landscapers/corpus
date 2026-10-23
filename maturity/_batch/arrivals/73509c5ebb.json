@@ -1,0 +1,23 @@
+{
+  "slug": "2025-11-14-gin-communique-de-presse-conakry-14-novembre-2025",
+  "studies": {
+    "aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document says nothing about rules or an authority on AI harms."}}},
+    "aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No government body is said to use an AI system; the document records an MoU only."}}},
+    "aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Pilot projects in agriculture, livestock, transport and health are listed as next steps, not as under way."}}},
+    "aisystems": {"countries": {"GIN": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "In a communique dated 14 November 2025 (AFRIA, a consortium member), Guinea's higher education and research minister and the GenerIA Inc.-led consortium, which includes Nordik Data Centers, signed an MoU for sovereign green AI, with feasibility studies and pilot projects as next steps.", "as_of": "2025-11-14", "date_precision": "day", "system": "GenerIA consortium MoU", "class": "localai"}
+      ],
+      "systems": [
+        {"system": "GenerIA consortium MoU", "country_label": "Guinea", "class": "localai", "platform": "", "owner": "Ministry of Higher Education, Scientific Research and Innovation; GenerIA Inc. consortium", "tiers": ""}
+      ],
+      "note": "No AI computing in service or shared is stated."}}},
+    "datacentres": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No data centre in Guinea is named; Nordik Data Centers is a consortium member only."}}},
+    "digitalsovereignty": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Sovereign data governance appears as an MoU objective only; no strategy, rule, hosting or contract term for state data is stated."}}},
+    "justice": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document says nothing about courts."}}},
+    "nationaldatacentres": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No data centre in Guinea is named."}}},
+    "schoolinternet": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No figure on school internet or compulsory curriculum; school-level skills are a stated objective only."}}},
+    "startups": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The document says nothing about a startup law, labelling or fund."}}},
+    "techhubs": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No hub in Guinea is named; DigiHub Shawinigan is a Canadian consortium member."}}}
+  }
+}

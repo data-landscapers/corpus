@@ -1,0 +1,99 @@
+{
+  "slug": "2025-01-21-zmb-zambia-issues-general-procurement-notice-for-digital-id-trust-services",
+  "studies": {
+    "aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+    "authentication": {"countries": {"ZMB": {
+      "facts": [
+        {
+          "sub_indicator": "authentication",
+          "aspect": "service",
+          "value": "underway",
+          "fact": "SMART Zambia has been piloting MOSIP's e-Signet tool since mid-2024 under the Digital Zambia Acceleration Project, to connect the country's digital ID to public services with biometric authentication.",
+          "as_of": "2024",
+          "date_precision": "year",
+          "system": "MOSIP e-Signet",
+          "class": "authentication"
+        },
+        {
+          "sub_indicator": "authentication",
+          "aspect": "service",
+          "value": "underway",
+          "fact": "A general procurement notice published in December 2024 lists a consultancy to study existing digital ID elements and suggest a mobile-based digital authentication and digital signatures solution.",
+          "as_of": "2024-12",
+          "date_precision": "month",
+          "system": "mobile-based digital authentication and digital signatures solution",
+          "class": "authentication"
+        }
+      ],
+      "systems": [
+        {"system": "MOSIP e-Signet", "country_label": "e-Signet (MOSIP EET)", "class": "authentication", "platform": "MOSIP", "owner": "SMART Zambia Institute", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and the ID system."}}},
+    "businesspayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+    "censuses": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on a census or household survey."}}},
+    "centralbank": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+    "civilserviceskills": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Training named is for SMART Zambia web architects on MOSIP integration, which is IT staff only."}}},
+    "consumerprotection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "dataprotectionauthority": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The notice names a consultancy for capacity building to operationalise the Data Protection Commission but does not say it is named in law or appointed."}}},
+    "dataprotectionlaw": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No statement on the data protection law's standing, regulations or application."}}},
+    "digitalidlaw": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The digital ID and trust services framework is an intention; no law or bill is stated."}}},
+    "digitalskills": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "A project component on digital skills is named without saying it is a programme for the public."}}},
+    "ecommercelaw": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on an e-commerce or electronic transactions law."}}},
+    "g2ppayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "health": {"countries": {"ZMB": {
+      "facts": [],
+      "systems": [
+        {"system": "SmartCarePro", "country_label": "SmartCarePro Electronic Health Record System", "class": "other", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": "SmartCarePro is named only as a target of MOSIP integration training; no tiers, coverage or ownership stated."
+    }}},
+    "ictstrategy": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Mentions a policy review study for digital government adoption, not an ICT sector policy's standing."}}},
+    "idcoverage": {"countries": {"ZMB": {
+      "facts": [
+        {
+          "sub_indicator": "coverage",
+          "aspect": "share",
+          "value": "twothirds",
+          "fact": "UNDP experts highlighted that Zambia's national ID coverage stands at almost 90 percent.",
+          "as_of": "2024",
+          "date_precision": "year",
+          "system": "national ID",
+          "class": "idsystem"
+        }
+      ],
+      "systems": [],
+      "note": ""
+    }}},
+    "idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+    "idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the national ID system."}}},
+    "idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the national ID number."}}},
+    "idrobustness": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The notice does not say the national ID system issues unique credentials or checks biometrics."}}},
+    "idverification": {"countries": {"ZMB": {
+      "facts": [
+        {
+          "sub_indicator": "use",
+          "aspect": "use",
+          "value": "underway",
+          "fact": "SMART Zambia has been piloting MOSIP's e-Signet tool since mid-2024 to connect the country's digital ID to public services with biometric authentication.",
+          "as_of": "2024",
+          "date_precision": "year",
+          "system": "MOSIP e-Signet",
+          "class": "relying"
+        }
+      ],
+      "systems": [
+        {"system": "MOSIP e-Signet", "country_label": "e-Signet (MOSIP EET)", "class": "relying", "platform": "MOSIP", "owner": "SMART Zambia Institute", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "internationalstandards": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on international standards."}}},
+    "itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stating who runs or builds government systems."}}},
+    "paymentsuptake": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+    "regionallaw": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on regional digital law."}}},
+    "retailpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+    "revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes."}}}
+  }
+}

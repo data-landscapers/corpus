@@ -1,0 +1,30 @@
+{
+  "slug": "2026-04-01-tun-le-premier-cloud-gpu-nvidia-l40s-en-tunisie-dedie-a-l-ia",
+  "studies": {
+    "aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about rules or an authority on AI harms."}}},
+    "aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document names no government body using an AI system."}}},
+    "aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document names no AI tool in a public sector's system."}}},
+    "aisystems": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "DataXion's own product page offers an NVIDIA L40S GPU cloud for AI hosted in its Tier IV datacentre in Tunisia and says it is now selecting first projects because GPU capacity is limited.", "as_of": "2026-04", "date_precision": "month", "system": "DataXion Cloud GPU NVIDIA L40S", "class": "localai"},
+        {"sub_indicator": "localai", "aspect": "compute", "value": "compute", "fact": "DataXion's own page describes NVIDIA L40S GPUs (48 GB VRAM each) for AI training and inference in its datacentre in Tunisia, with limited capacity and first projects being selected.", "as_of": "2026-04", "date_precision": "month", "system": "DataXion Cloud GPU NVIDIA L40S", "class": "localai"}
+      ],
+      "systems": [
+        {"system": "DataXion Cloud GPU NVIDIA L40S", "country_label": "Tunisia", "class": "localai", "platform": "NVIDIA L40S, Tier IV datacentre", "owner": "DataXion", "tiers": "Tier IV (stated)"}
+      ],
+      "note": "Undated product page, month is a proxy; no state role and no named users, so nothing on shared access."}}},
+    "datacentres": {"countries": {"TUN": {
+      "facts": [
+        {"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "DataXion's own page says its cloud for AI rests on a 'Tier IV' datacentre in Tunisia with 99.995% availability, selling GPU cloud capacity to companies.", "as_of": "2026-04", "date_precision": "month", "system": "DataXion datacenter", "class": "datacentre"}
+      ],
+      "systems": [
+        {"system": "DataXion datacenter", "country_label": "Tunisia", "class": "datacentre", "platform": "", "owner": "DataXion", "tiers": "Tier IV (stated by operator)"}
+      ],
+      "note": "No cloud region of a global provider is stated."}}},
+    "gridreliability": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document gives no power outage figure."}}},
+    "idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document says nothing about a national ID system."}}},
+    "internationalstandards": {"countries": {"TUN": {"facts": [], "systems": [{"system": "DataXion ISO 27001 and PCI-DSS certificates", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "DataXion", "tiers": ""}], "note": "Only a company's certificates are named; nothing on the national standards body or public bodies."}}},
+    "nationaldatacentres": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document does not state who owns DataXion or its datacentre, and no state hosting."}}},
+    "qualitystandards": {"countries": {"TUN": {"facts": [], "systems": [{"system": "n-Cloud certification", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "n-Cloud is named only as a certification claimed by DataXion; the certifier and the standard are not stated."}}}
+  }
+}

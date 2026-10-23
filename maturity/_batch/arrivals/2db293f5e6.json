@@ -1,0 +1,12 @@
+{"slug":"2024-12-13-gab-gabon-lancement-de-l-etablissement-des-cartes-nationales-d-identite-el","studies":{
+"authentication":{"countries":{"GAB":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"underway","fact":"A DGDI official said services in development will let people prove their identity without the physical card, and that the chip card could eventually allow a digital derivation on a smartphone.","as_of":"2024-12-13","date_precision":"day","system":"Carte Nationale d'Identité Électronique (CNIE)","class":"authentication"}],"systems":[{"system":"Carte Nationale d'Identité Électronique (CNIE)","country_label":"GAB","class":"authentication","platform":"chip card","owner":"DGDI","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No link between civil register and ID system is stated."}}},
+"civilregister":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Birth certificates are only a required document; no digital civil register is stated."}}},
+"digitalsovereignty":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Only a general mention of strengthening digital sovereignty; no policy, rule, hosting or contract terms."}}},
+"idcoverage":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No enrolment count or share is stated."}}},
+"idfrombirth":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The card is open from age 16 with parents supplying information for minors; no number at birth is stated."}}},
+"idmaintenance":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on who builds, maintains or owns the system."}}},
+"idregisters":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"GAB":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The governor of Ogooué-Maritime launched issuance of the chip-based electronic national identity card (CNIE) in Port-Gentil on 13 December 2024, applications requiring a Personal Identification Number (NIP) attestation, through the DGDI.","as_of":"2024-12-13","date_precision":"day","system":"Carte Nationale d'Identité Électronique (CNIE)","class":"idsystem"}],"systems":[{"system":"Carte Nationale d'Identité Électronique (CNIE)","country_label":"GAB","class":"idsystem","platform":"chip card","owner":"DGDI","tiers":""}],"note":""}}},
+"registry":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No digital entry at civil registration offices is stated."}}}
+}}

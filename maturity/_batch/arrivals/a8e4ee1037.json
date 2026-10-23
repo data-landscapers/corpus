@@ -1,0 +1,9 @@
+{"slug":"2026-10-21-tun-solecrypt-announces-sovereign-ai-campus-in-bizerte-tunisia","studies":{
+"aisystems":{"countries":{"TUN":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"underway","fact":"SoleCrypt announced a planned 40 MW AI campus in Bizerte, with a 7 MW first phase of 1,728 NVIDIA Rubin GPUs, targeted to come online in early 2028.","as_of":"2026-10-21","date_precision":"day","system":"SoleCrypt AI Campus","class":"localai"}],"systems":[{"system":"SoleCrypt AI Campus","country_label":"Tunisia","class":"localai","platform":"NVIDIA HGX Rubin NVL8","owner":"SoleCrypt","tiers":""}],"note":""}}},
+"datacentrepower":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Campus and the 60 MW Tozeur solar and battery project are planned, not in service."}}},
+"datacentres":{"countries":{"TUN":{"facts":[],"systems":[],"note":"The campus is planned for 2028; no data centre in service is stated."}}},
+"internationalbandwidth":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Only says the planned campus is 3.6 km from the Medusa landing; no route in service is stated."}}},
+"nationaldatacentres":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No nationally owned data centre in service is stated."}}},
+"startups":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No startup law, label or fund is stated."}}},
+"techhubs":{"countries":{"TUN":{"facts":[],"systems":[],"note":"No hub, incubator or park is stated."}}}
+}}

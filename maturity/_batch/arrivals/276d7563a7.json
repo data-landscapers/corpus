@@ -1,0 +1,15 @@
+{"slug": "2026-06-03-ago-a-confianca-digital-em-angola-como-a-icp-angola-vai-mudar-o-dia-a-dia", "studies": {
+"authentication": {"countries": {"AGO": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "INFOSI's director-general writes that the ICP-Angola public key infrastructure root is being installed at the Government Cloud in Camama and the first sector certification authorities are being identified and selected, with timestamping described as being launched.", "as_of": "2026-06-03", "date_precision": "day", "system": "ICP-Angola", "class": "authentication"}], "systems": [{"system": "ICP-Angola", "country_label": "Angola", "class": "authentication", "platform": "Cloud do Governo, Camama", "owner": "INFOSI", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The document does not mention a link between civil register and ID system."}}},
+"businesspayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Public tenders appear only as an illustration of timestamping; no e-procurement system is stated."}}},
+"datacentres": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The Government Cloud at Camama is named but not said to rent capacity to outside organisations."}}},
+"digitalsovereignty": {"countries": {"AGO": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "INFOSI's director-general says the national PKI root is being installed in the newly inaugurated Government Cloud at Camama, creating a sovereign base controlled in national territory.", "as_of": "2026-06-03", "date_precision": "day", "system": "Cloud do Governo", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"ecommercelaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No law on electronic transactions, e-commerce or signatures is named."}}},
+"egovservices": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No government online service or portal is stated."}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the national ID system."}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No public register keyed on the national ID number is stated."}}},
+"idrobustness": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only the electronic passport is described, which is not the national ID system."}}},
+"nationaldatacentres": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The Government Cloud is named but state systems are not yet said to be hosted in it, and no for-hire centre is stated."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2026-09-17-cmr-cameroonpress-fichier-solde-5971-agents-non-residents", "studies": {
+"health": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Payroll clean-up story; states nothing on HMIS or EMR."}}},
+"healthexchange": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Payroll story; no health systems exchange stated."}}},
+"interoperability": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Payroll matched against border data; no government interoperability framework stated."}}},
+"interoperabilitylaw": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A ministerial communique on payroll; no law or decree on public bodies sharing data stated."}}},
+"interoperabilitystandards": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No technical standards for government systems stated."}}},
+"socialexchange": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Civil-service payroll, not a social protection system; no link stated."}}}
+}}

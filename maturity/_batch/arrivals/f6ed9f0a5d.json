@@ -1,0 +1,16 @@
+{"slug": "2025-07-31-nga-nimc-begins-migration-of-telcos-to-ninauth-for-identity-verification", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "BusinessDay quotes NIMC saying the NINAuth National Identification Number authentication platform is fully operational, with the migration of telecom operators onto it finished in July 2025.", "as_of": "2025-07", "date_precision": "month", "system": "NINAuth", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIMC says all telecom operators now use NINAuth to verify SIM registration, swap, migration and retrieval requests, and that it offers single sign-on access to services.", "as_of": "2025-07", "date_precision": "month", "system": "NINAuth", "class": "authentication"}
+], "systems": [{"system": "NINAuth", "country_label": "Nigeria", "class": "authentication", "platform": "", "owner": "NIMC", "tiers": "NIN authentication platform with single sign-on"}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Data protection is mentioned in general terms; no law, authority or decision is named."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No count of people holding a NIN."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIMC developed NINAuth, but who runs and owns the national ID system is not stated."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only telecom SIM checks, which are not a public register keyed on the number."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The ID system's issuance and security are not described."}}},
+"idverification": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIMC states that telecom operators verify people against the NIN through NINAuth for SIM registration, SIM swap, migration and retrieval requests, with all operators migrated by July 2025.", "as_of": "2025-07", "date_precision": "month", "system": "NINAuth", "class": "relying"}
+], "systems": [], "note": ""}}}
+}}

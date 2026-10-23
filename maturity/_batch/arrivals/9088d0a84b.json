@@ -1,0 +1,109 @@
+{
+ "slug": "2026-10-22-gha-ghanaian-clinic-stored-patient-records-on-an-unassessed-syst",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "MyJoyOnline reports that Ghana's Data Protection Commission carried out inspections on 12 October 2026, including a clinic and two hospitals, and recorded 2,575 data controller registrations in 2026.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Commission",
+       "country_label": "DPC",
+       "class": "authority",
+       "platform": "",
+       "owner": "Government of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "MyJoyOnline says the Data Protection Commission has started enforcing the Data Protection Act, 2012 (Act 843), whose registration provisions it cites (sections 27, 50 and 56).",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Data Protection Commission is reported at work enforcing Act 843, with an Executive Director, Dr Arnold Kavaarpuo, quoted.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Commission",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "On 12 October 2026 the Commission inspected a clinic, which was directed to give a statement to the police, and two hospitals with expired certificates, and a microfinance company was referred to CID over a lapsed registration; it recorded 2,575 registrations in 2026.",
+       "as_of": "2026-10-12",
+       "date_precision": "day",
+       "system": "Data Protection Act, 2012 (Act 843)",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Commission",
+       "country_label": "DPC",
+       "class": "authority",
+       "platform": "",
+       "owner": "Government of Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Lightwave Health Information Management System (LHIMS)",
+       "country_label": "LHIMS",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health, with vendor Lightwave",
+       "tiers": ""
+      },
+      {
+       "system": "Ghana Health Information Management System (GHIMS)",
+       "country_label": "GHIMS",
+       "class": "other",
+       "platform": "",
+       "owner": "Ghana Health Service",
+       "tiers": ""
+      }
+     ],
+     "note": "GHIMS and LHIMS are described as patient registration, records, billing and claims systems, not routine facility reporting to the ministry."
+    }
+   }
+  }
+ }
+}

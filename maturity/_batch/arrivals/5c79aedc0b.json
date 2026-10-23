@@ -1,0 +1,10 @@
+{"slug":"2026-10-22-zaf-mzansi-mind-sovereign-ai-hpe-infrastructure","studies":{
+"aisystems":{"countries":{"ZAF":{"facts":[
+{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"HPE says Mzansi Mind, a Solcon Capital sovereign enterprise AI platform, runs its Siya language model supporting all official South African languages on HPE servers hosted in Johannesburg.","as_of":"2026-10-22","date_precision":"day","system":"Mzansi Mind (Siya model)","class":"localai"},
+{"sub_indicator":"localai","aspect":"compute","value":"compute","fact":"HPE says Mzansi Mind's inferencing environment uses HPE ProLiant DL380a Gen12 servers with NVIDIA RTX PRO 6000 Blackwell GPUs, hosted at Equinix's Johannesburg colocation data centre.","as_of":"2026-10-22","date_precision":"day","system":"Mzansi Mind AI infrastructure","class":"localai"}],
+"systems":[{"system":"Mzansi Mind","country_label":"South Africa","class":"localai","platform":"HPE servers with NVIDIA GPUs at Equinix Johannesburg","owner":"Solcon Capital","tiers":""}],"note":""}}},
+"datacentres":{"countries":{"ZAF":{"facts":[
+{"sub_indicator":"datacentre","aspect":"centre","value":"service","fact":"HPE and Equinix South Africa state that Mzansi Mind's AI infrastructure is hosted in Equinix's colocation data centre in Johannesburg.","as_of":"2026-10-22","date_precision":"day","system":"Equinix Johannesburg colocation data centre","class":"datacentre"}],
+"systems":[{"system":"Equinix Johannesburg colocation data centre","country_label":"South Africa","class":"datacentre","platform":"","owner":"Equinix","tiers":""}],"note":""}}},
+"nationaldatacentres":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Ownership of the Equinix data centre is not stated."}}}
+}}

@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-mar-al-atlas-moroccan-darija-pretraining",
+  "studies": {
+    "aisystems": {"countries": {"MAR": {
+      "facts": [
+        {
+          "sub_indicator": "localai",
+          "aspect": "build",
+          "value": "inservice",
+          "fact": "AtlasIA's 2025 blog presents Atlaset, a Moroccan darija corpus of 1.17 million rows and about 155.5 million training tokens, and the AlAtlas language model and a masked model for darija, with the dataset on Hugging Face and demos and code published.",
+          "as_of": "2025",
+          "date_precision": "year",
+          "system": "Atlaset and AlAtlas",
+          "class": "localai"
+        }
+      ],
+      "systems": [
+        {"system": "Atlaset", "country_label": "Atlaset / AlAtlas", "class": "localai", "platform": "Hugging Face", "owner": "AtlasIA", "tiers": ""}
+      ],
+      "note": ""
+    }}}
+  }
+}

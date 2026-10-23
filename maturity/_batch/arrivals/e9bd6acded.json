@@ -1,0 +1,24 @@
+{"slug": "2025-08-09-civ-digitalmag-application-cote-divoire-identite-oneci", "studies": {
+"authentication": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Digital Mag says documents generated in the Cote d'Ivoire Identite app are authenticated through a certified ONECI system (CEV), and the app was released on 5 August 2025.", "as_of": "2025-08-05", "date_precision": "day", "system": "Cote d'Ivoire Identite / CEV ONECI", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "Digital Mag says the Cote d'Ivoire Identite app, built with ONECI, Mastercard and Paynah, holds a person's national ID card (CNI) on a phone behind fingerprint or face login, and became available for download on 5 August 2025.", "as_of": "2025-08-05", "date_precision": "day", "system": "Cote d'Ivoire Identite", "class": "authentication"}],
+"systems": [{"system": "Cote d'Ivoire Identite", "country_label": "Cote d'Ivoire", "class": "authentication", "platform": "mobile app", "owner": "ONECI with Mastercard and Paynah", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states no link between the civil register and the ID system."}}},
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on this question for Cote d'Ivoire."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on the central bank."}}},
+"civilregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article says birth, marriage and death certificates will soon be added to the app, which is not a digital register."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on this question for Cote d'Ivoire."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on this question for Cote d'Ivoire."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on government payments to people."}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article gives no enrolment count or share."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article does not say who operates the ID system."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article names no public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article uses the NNI on the new CNI for sign-up but does not describe the ID system itself."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article gives no survey of account holding."}}},
+"police": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on police."}}},
+"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on local civil registration offices."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Digital Mag says the app subscription of FCFA 1,000 a year is paid by mobile money (Orange Money, Wave, Moov Money).", "as_of": "2025-08-05", "date_precision": "day", "system": "Orange Money, Wave, Moov Money", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The article states nothing on paying taxes or fees to the state."}}}
+}}

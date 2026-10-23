@@ -1,0 +1,79 @@
+{
+  "slug": "2024-08-28-zmb-zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital-identity",
+  "studies": {
+    "aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+    "authentication": {"countries": {"ZMB": {
+      "facts": [
+        {
+          "sub_indicator": "authentication",
+          "aspect": "service",
+          "value": "underway",
+          "fact": "The Smart Zambia Institute is piloting MOSIP's EET (e-Signet) as an intermediary layer connecting existing ID systems with digital services for biometric authentication and data sharing, per the SMART Zambia director.",
+          "as_of": "2024-08",
+          "date_precision": "month",
+          "system": "MOSIP e-Signet (EET)",
+          "class": "authentication"
+        }
+      ],
+      "systems": [
+        {"system": "MOSIP e-Signet (EET)", "country_label": "e-Signet (EET)", "class": "authentication", "platform": "MOSIP", "owner": "Smart Zambia Institute", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and the ID system."}}},
+    "businesspayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+    "censuses": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on a census or household survey."}}},
+    "centralbank": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+    "consumerprotection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "dataprotectionlaw": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only a vague reference to legislative developments on data protection; no law, standing or date stated."}}},
+    "digitalidlaw": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No identity law or bill is named; the 2023 Electronic Government (General) Regulations are an e-government rule."}}},
+    "egovservices": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No online government service, portal or count is stated; the e-government regulations require compatible systems only."}}},
+    "g2ppayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on government payments to people; drought relief is named only as a first use of the ID layer."}}},
+    "idcoverage": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "A count of 1.3 million biometric records is given with no population share."}}},
+    "idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+    "idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The ownership aim is for the e-Signet platform, not the national ID system."}}},
+    "idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on public registers keyed on the national ID number."}}},
+    "idrobustness": {"countries": {"ZMB": {
+      "facts": [
+        {
+          "sub_indicator": "robustness",
+          "aspect": "system",
+          "value": "underway",
+          "fact": "Zambia is rolling out the Integrated National Registration Information System, a new biometric digital ID system that aims to issue digital IDs to all citizens aged 16 and over at an estimated cost of $54.8 million, with biometric records collected for 1.3 million people by May 2024, per CSIS.",
+          "as_of": "2024-05",
+          "date_precision": "month",
+          "system": "Integrated National Registration Information System",
+          "class": "idsystem"
+        }
+      ],
+      "systems": [
+        {"system": "Integrated National Registration Information System", "country_label": "Integrated National Registration Information System", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "idverification": {"countries": {"ZMB": {
+      "facts": [
+        {
+          "sub_indicator": "use",
+          "aspect": "use",
+          "value": "underway",
+          "fact": "The Smart Zambia Institute is piloting MOSIP's EET (e-Signet) to connect existing biometric ID databases with digital services for eKYC and authentication, with drought relief management named as its first use.",
+          "as_of": "2024-08",
+          "date_precision": "month",
+          "system": "MOSIP e-Signet (EET)",
+          "class": "relying"
+        }
+      ],
+      "systems": [
+        {"system": "MOSIP e-Signet (EET)", "country_label": "e-Signet (EET)", "class": "relying", "platform": "MOSIP", "owner": "Smart Zambia Institute", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "internationalstandards": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on international standards."}}},
+    "itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stating who runs or builds government systems; the ownership aim is a stated goal for one platform."}}},
+    "paymentsuptake": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+    "retailpayments": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+    "revenuecollection": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes."}}}
+  }
+}

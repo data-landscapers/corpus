@@ -1,0 +1,19 @@
+{
+ "slug": "2026-10-20-btw-media-afrinic-country-export-counts-prefixes-not-operators",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about AFRINIC address-space exports; states nothing on a census or survey."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about AFRINIC address-space exports; states nothing on a census or survey."
+    }
+   }
+  }
+ }
+}

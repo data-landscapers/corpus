@@ -1,0 +1,13 @@
+{"slug":"2024-04-01-uga-report-of-the-committee-on-defence-and-internal-affairs-on-the-registr","studies":{
+"authentication":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No authentication service is stated."}}},
+"birthidlink":{"countries":{"UGA":{"facts":[{"sub_indicator":"link","aspect":"link","value":"underway","fact":"The Parliament of Uganda committee report on the Registration of Persons (Amendment) Bill 2024 backs moving civil registration functions (marriage) from URSB to NIRA so that registration of persons from birth, identification, marriage and death sits under one agency, following a 2021 Cabinet decision.","as_of":"2024-04","date_precision":"month","system":"National Identification and Registration Authority (NIRA)","class":"crvslink"}],"systems":[{"system":"National Identification and Registration Authority (NIRA)","country_label":"UGA","class":"other","platform":"","owner":"NIRA","tiers":""}],"note":""}}},
+"civilregister":{"countries":{"UGA":{"facts":[],"systems":[],"note":"The document states no digital civil registration system; it concerns the transfer of marriage registration."}}},
+"digitalidlaw":{"countries":{"UGA":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The committee report says the Registration of Persons Act was enacted on 26 March 2015 to establish a national identification register and NIRA and to provide for national identification cards, and the 2024 amendment bill would amend it.","as_of":"2015-03-26","date_precision":"day","system":"Registration of Persons Act, 2015","class":"law"}],"systems":[],"note":""}}},
+"idcoverage":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No enrolment count or share is stated."}}},
+"idfrombirth":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No number at birth is stated."}}},
+"idmaintenance":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"UGA":{"facts":[],"systems":[],"note":"The document names a national identification register in law but says nothing of the system issuing credentials, biometrics or certification."}}},
+"localgov":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on local government connection."}}},
+"registry":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No local office digital entry is stated."}}}
+}}

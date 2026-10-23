@@ -1,0 +1,11 @@
+{"slug":"2026-06-05-sen-pr-ousmane-thiare-directeur-general-de-la-cineri-le-niveau-d-utilisati","studies":{
+"aiabuse":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Nothing on rules or authority for AI harms."}}},
+"aigovernment":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The supercomputer serves research; no government body is stated to use AI in administration."}}},
+"aisectoral":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Use cases named are genome sequencing and ocean and weather models, not AI tools in a public sector system."}}},
+"aisystems":{"countries":{"SEN":{"facts":[{"sub_indicator":"localai","aspect":"compute","value":"compute","fact":"CINERI director general Ousmane Thiare says the Taouey supercomputer is operational part-time, its second cell holding the GPU resources and often idled by power instability, while CPU resources are ready at full use.","as_of":"2026-04","date_precision":"month","system":"Taouey supercomputer","class":"localai"},{"sub_indicator":"localai","aspect":"shared","value":"shared","fact":"Thiare says use of Taouey has been free and open to all since its arrival, with a webinar of over 200 online participants on 30 March 2026 and users named from UCAD's faculty of medicine and from environment and meteorology research.","as_of":"2026-04","date_precision":"month","system":"Taouey supercomputer","class":"localai"}],"systems":[{"system":"Taouey supercomputer","country_label":"Senegal","class":"localai","platform":"HPC with GPU cell","owner":"CINERI under MESRI","tiers":""}],"note":""}}},
+"digitalsovereignty":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Sovereignty is discussed in general terms; nothing on state data rules or hosting."}}},
+"gridreliability":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Only power instability at one site; no grid-wide outage count."}}},
+"schoolinternet":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Nothing on schools."}}},
+"startups":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Startups are named as intended users only; no startup law or fund."}}},
+"techhubs":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Nothing on hubs or technology parks."}}}
+}}

@@ -1,0 +1,26 @@
+{"slug": "2025-01-01-bdi-central-bank-of-burundi-presentation-at-id4africa-2025", "studies": {
+"authentication": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The Bank of the Republic of Burundi's Deputy Governor says a contract was signed in November 2024 for a central bank biometric financial ID system, with testing planned on two commercial banks and two mobile money operators.", "as_of": "2025", "date_precision": "year", "system": "Central bank biometric financial ID", "class": "authentication"}],
+"systems": [{"system": "Central bank biometric financial ID", "country_label": "Burundi", "class": "authentication", "platform": "", "owner": "Bank of the Republic of Burundi", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The deck says the civil register and population registry are not digitised but states no link or its absence."}}},
+"businesspayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on e-procurement for Burundi."}}},
+"centralbank": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The switch and regional links are described as under implementation, and no licensing by the central bank is stated."}}},
+"civilregister": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "none", "fact": "The Bank of the Republic of Burundi's Deputy Governor says the civil register is not digitised and not based on biometrics.", "as_of": "2025", "date_precision": "year", "system": "Civil register", "class": "civil"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on this question for Burundi."}}},
+"crossborderpayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Regional integration (EAC, COMESA) is only an intention in the deck."}}},
+"g2ppayments": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The deck names only some P2G bill payments, which are payments to government."}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The deck says there is no biometric national ID and gives no enrolment count."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on a number at birth for Burundi."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on who runs a national ID system for Burundi."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document names no public register keyed on a national ID number."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The Bank of the Republic of Burundi's Deputy Governor says there is no biometric national ID but the process and its preparatory works are underway.", "as_of": "2025", "date_precision": "year", "system": "National ID", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The deck says there is no trusted digitally verifiable ID, so nothing checks against a national ID."}}},
+"paymentsuptake": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The inclusion rates in the deck (27.84% banks and MFIs, 69.54% mobile wallets) name no survey."}}},
+"populationregister": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The deck says the population registry is not digitised and mentions its establishment only as a possibility."}}},
+"registry": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The deck does not say how local civil offices make records."}}},
+"retailpayments": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Bank of the Republic of Burundi's Deputy Governor says banks and licensed non-banks offer digital financial services, with mobile wallets at 69.54% financial inclusion and P2P the main use case.", "as_of": "2025", "date_precision": "year", "system": "Mobile wallets", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The document states nothing on paying taxes electronically for Burundi."}}}
+}}

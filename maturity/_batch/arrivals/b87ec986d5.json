@@ -1,0 +1,33 @@
+{"slug": "2026-04-08-ben-enregistrement-des-naissances-au-benin-le-guichet-unique-de-l-anip-fai", "studies": {
+"addressregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No addressing system is mentioned."}}},
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No authentication service is mentioned."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says births declared and registered at the single desk in ten pilot health facilities since 20 August 2025 give the child a personal identification number (NPI) by SMS within 48 hours and update the RNPP.", "as_of": "2026-02-20", "date_precision": "day", "system": "Guichet unique / RNPP", "class": "crvslink"},
+{"sub_indicator": "link", "aspect": "reported", "value": "reported", "fact": "Triomphe Mag, citing ANIP's report on the pilot (20 August 2025 to 20 February 2026), says the pilot produced 30,160 number updates, 12,182 captured signatures and 798 recorded portraits in the RNPP.", "as_of": "2026-02-20", "date_precision": "day", "system": "Guichet unique / RNPP", "class": "crvslink"}
+], "systems": [{"system": "Guichet unique de déclaration et d'enregistrement des naissances", "country_label": "Guichet unique", "class": "civil", "platform": "", "owner": "ANIP", "tiers": ""}, {"system": "RNPP", "country_label": "Registre National des Personnes Physiques", "class": "population", "platform": "", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"businessregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No business register is mentioned."}}},
+"civilregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says a single desk for declaring and registering births was piloted from 20 August 2025 in ten health facilities, with national scale-up being prepared.", "as_of": "2026-02-20", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"}
+], "systems": [], "note": ""}}},
+"digitalidlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No identity law is mentioned."}}},
+"electoralregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No voters' roll is mentioned."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only birth registration rates are given; no count or share of people holding a national ID."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says that in the ten pilot health facilities running since 20 August 2025 parents can receive the child's NPI by SMS in under 48 hours after the birth is registered.", "as_of": "2026-02-20", "date_precision": "day", "system": "NPI", "class": "birthnumber"}
+], "systems": [{"system": "NPI", "country_label": "Numéro Personnel d'Identification", "class": "birthnumber", "platform": "", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing is stated about who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No other public register is said to use the NPI."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says ANIP issues a personal identification number (NPI) held in the national register of natural persons (RNPP), and that the pilot made 30,160 number updates in it.", "as_of": "2026-02-20", "date_precision": "day", "system": "RNPP / NPI", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No land register is mentioned."}}},
+"populationregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, describes the Registre National des Personnes Physiques (RNPP) as set up by ANIP and gaining data from the birth registration pilot.", "as_of": "2026-02-20", "date_precision": "day", "system": "RNPP", "class": "population"},
+{"sub_indicator": "population", "aspect": "vital", "value": "updated", "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says births registered at the ten pilot health facilities since 20 August 2025 enrich the RNPP, with 30,160 number updates recorded.", "as_of": "2026-02-20", "date_precision": "day", "system": "RNPP", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says births are declared and registered at one desk in ten pilot health facilities since 20 August 2025, where the birth registration rate reached 76.56%.", "as_of": "2026-02-20", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"}
+], "systems": [], "note": ""}}},
+"socialregistry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No social registry is mentioned."}}},
+"taxregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No tax register is mentioned."}}}
+}}

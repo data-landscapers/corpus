@@ -1,0 +1,5 @@
+{"slug":"2025-02-07-bwa-speaks-mokoka-the-brains-behind-setswana-artificial-intelligence","studies":{
+"aiabuse":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No rule or authority on AI harms is stated."}}},
+"aigovernment":{"countries":{"BWA":{"facts":[],"systems":[],"note":"No government body's use of AI is stated; the developers call for government support."}}},
+"aisectoral":{"countries":{"BWA":{"facts":[],"systems":[],"note":"Health and education are named only as possible uses; no public sector system uses it."}}},
+"aisystems":{"countries":{"BWA":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Guardian Sun reports that two Batswana, Kitso Speaks and Glen Mokoka, built a Setswana AI trained on a self-collected dataset of books, newspapers and recorded conversations, self-funded, with mobile apps and dialects still in development.","as_of":"2025-02-07","date_precision":"day","system":"Setswana AI","class":"localai"}],"systems":[{"system":"Setswana AI","country_label":"Botswana","class":"localai","platform":"","owner":"Kitso Speaks and Glen Mokoka","tiers":""}],"note":""}}}}}

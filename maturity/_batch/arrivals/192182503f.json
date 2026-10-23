@@ -1,0 +1,10 @@
+{"slug": "2026-04-04-ago-a-nossa-medida-visa-esclarecer-que-o-cidadao-deve-ter-o-bi-e-nao-e-so", "studies": {
+"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"AGO": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "Aristides Marques, national director of Identification, Registries and Notary, says a death registered through the conservatoria services is sent to the database to deregister (give baixa to) the citizen, which needs the deceased's BI to be reliable.", "as_of": "2026-04-04", "date_precision": "day", "system": "national database (baixa of deceased citizens)", "class": "crvslink"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No count or share of people holding the ID is given."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on issuance, biometrics or certification."}}},
+"registry": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The text does not say whether local offices enter deaths digitally at registration."}}}
+}}

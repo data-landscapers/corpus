@@ -1,0 +1,29 @@
+{"slug": "2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census", "studies": {
+"addressregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No addressing system is mentioned."}}},
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The register is said to serve identification and authentication of data, but no authentication service is described."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Two registers are created under one law and programme and are said to be interoperable with other identification systems; no link between them is stated."}}},
+"businessregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No business register is mentioned."}}},
+"civilregister": {"countries": {"GIN": {"facts": [], "systems": [{"system": "RNEC", "country_label": "Registre National de l'Etat Civil", "class": "civil", "platform": "", "owner": "", "tiers": ""}], "note": "The RNEC is named as being created; the op-ed does not say it is digital or in service."}}},
+"digitalidlaw": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Jurist Sayon Mara writes that the PN-RAVEC enrolment launched on 15 April 2025 is carried out under the Loi portant identification des personnes physiques, which creates the RNEC and RNPP registers.", "as_of": "2025-04-15", "date_precision": "day", "system": "Loi portant identification des personnes physiques", "class": "law"},
+{"sub_indicator": "law", "aspect": "cover", "value": "digital", "fact": "Jurist Sayon Mara writes that, under the Loi portant identification des personnes physiques, the RNPP holds biographic and biometric data for identification and authentication, and biometric data (fingerprint, face, iris) may be collected from age ten.", "as_of": "2025-04-15", "date_precision": "day", "system": "Loi portant identification des personnes physiques", "class": "law"}
+], "systems": [], "note": ""}}},
+"disabilityaccess": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Disability is mentioned only as a topic researchers could study with the census data."}}},
+"electoralregister": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "underway", "fact": "Jurist Sayon Mara writes that the first phase of PN-RAVEC, launched 15 April 2025 with biometric enrolment of people aged 10 and over, consists essentially of building the RNPP in order to extract the electoral file for the referendum and national and local elections.", "as_of": "2025-04-15", "date_precision": "day", "system": "PN-RAVEC", "class": "electoral"}
+], "systems": [{"system": "PN-RAVEC", "country_label": "Programme National de Recensement Administratif à Vocation d'État Civil", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Biometric enrolment is for ages 10 and over; no number at birth is stated."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing is stated about who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The electoral file is to be extracted from the RNPP, a plan; no register is said to use the ID number."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Jurist Sayon Mara writes that PN-RAVEC biometric enrolment of people aged 10 and over was officially launched on 15 April 2025, in a first phase of 45 days, to build the RNPP register of biographic and biometric data.", "as_of": "2025-04-15", "date_precision": "day", "system": "RNPP", "class": "idsystem"}
+], "systems": [{"system": "RNPP", "country_label": "Registre National des Personnes Physiques", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No land register is mentioned."}}},
+"populationregister": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "underway", "fact": "Jurist Sayon Mara writes that PN-RAVEC, launched 15 April 2025, creates under the identification law the RNPP, a database of biographic and biometric data on individuals, with the aim of a clear picture of the population.", "as_of": "2025-04-15", "date_precision": "day", "system": "RNPP", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing is stated about local civil registration offices entering events digitally."}}},
+"socialregistry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No social registry is mentioned."}}},
+"taxregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No tax register is mentioned."}}}
+}}

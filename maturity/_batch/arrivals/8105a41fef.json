@@ -1,0 +1,7 @@
+{"slug": "2026-07-24-tun-tunisie-le-centre-de-calcul-el-khawarizmi-se-dote-d-un-supercalculateu", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No government body is stated to use AI."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"TUN": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Centre de calcul El Khawarizmi began a test period on 23 July 2026 for a new high-performance computing system funded by a Chinese grant of USD 10.6 million (TND 32 million), with service planned in the coming months after more than three months of testing and training; the minister lists artificial intelligence among its uses.", "as_of": "2026-07-23", "date_precision": "day", "system": "Centre de calcul El Khawarizmi high-performance computing system", "class": "localai"}], "systems": [{"system": "Centre de calcul El Khawarizmi (CCK) HPC system", "country_label": "Tunisia", "class": "localai", "platform": "", "owner": "Centre de calcul El Khawarizmi, hosted at the university", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on internet in schools or the secondary curriculum."}}}
+}}

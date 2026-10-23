@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-26-cod-igf-22-millions-financement-etat",
+ "studies": {
+  "domesticfinancing": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "commitment",
+       "value": "stated",
+       "fact": "IGF inspector general Christophe Bitasimwa said, as reported on 2026-08-26, that the US$22 million identified for the IGF's 2026-2028 digitalisation plan (US$39 million in total) will be mobilised from the IGF's own dotations from the Congolese state, not from donors; no appropriation or spending is given.",
+       "as_of": "2026-08-26",
+       "date_precision": "day",
+       "system": "Plan strategique triennal et directeur de digitalisation 2026-2028 (IGF)",
+       "class": "financing"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IGF digitalisation plan 2026-2028",
+       "country_label": "IGF digitalisation plan",
+       "class": "financing",
+       "platform": "",
+       "owner": "Inspection generale des finances",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

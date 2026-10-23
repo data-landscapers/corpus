@@ -1,0 +1,45 @@
+{
+  "slug": "2025-09-16-gha-ghana-brings-in-trust-stamp-to-build-tokenized-digital-id-infrastructu",
+  "studies": {
+    "aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+    "authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "A MoU to develop a contract for tokenised identity services is a plan, not an authentication service authorised, contracted or in use."}}},
+    "birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Tokenised infrastructure for recording births, deaths and identity is a CEO's stated aim, not a link in service or contracted."}}},
+    "businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+    "censuses": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a census or household survey."}}},
+    "centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+    "consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "digitalidlaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No identity law is named."}}},
+    "digitalstrategy": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a national digital strategy."}}},
+    "eparticipation": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-participation."}}},
+    "g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No count of Ghana Card holders; the 35 million is a population estimate."}}},
+    "idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+    "idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The MoU is for tokenisation services; it does not say who operates or owns the ID system."}}},
+    "idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on public registers keyed on the national ID number."}}},
+    "idrobustness": {"countries": {"GHA": {
+      "facts": [
+        {
+          "sub_indicator": "robustness",
+          "aspect": "system",
+          "value": "inservice",
+          "fact": "The article states that the National Identification Authority issues the Ghana Card, a biometric national ID, with the National Identification Registry as the foundation of the planned tokenised services.",
+          "as_of": "2025-09-16",
+          "date_precision": "day",
+          "system": "Ghana Card",
+          "class": "idsystem"
+        }
+      ],
+      "systems": [
+        {"system": "Ghana Card", "country_label": "Ghana Card / National Identification Registry", "class": "idsystem", "platform": "", "owner": "National Identification Authority", "tiers": ""}
+      ],
+      "note": ""
+    }}},
+    "idverification": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Tokenised ID services for ministries and the private sector are the subject of a MoU, with no service stated as built or in use."}}},
+    "internationalstandards": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on international standards."}}},
+    "paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+    "publicconsultation": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on public consultation."}}},
+    "retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+    "revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes; the revenue sharing is between NIA and the vendor."}}}
+  }
+}

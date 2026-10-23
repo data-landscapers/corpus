@@ -1,0 +1,14 @@
+{"slug": "2024-10-01-mus-mokloud-plateforme-en-ligne-pour-vos-demarches-sans-deplacement", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Le Mauricien reports that Maupass is a platform that authenticates users to reach government digital services, with a login and a one-time code by SMS or email to open MoKloud.", "as_of": "2024-10-01", "date_precision": "day", "system": "Maupass", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Le Mauricien reports that Maupass logins give access to MoKloud services from several bodies, including the National Transport Authority, the Registrar, Local Authorities and the Supreme Court.", "as_of": "2024-10-01", "date_precision": "day", "system": "Maupass", "class": "authentication"}
+], "systems": [{"system": "Maupass", "country_label": "Mauritius", "class": "authentication", "platform": "", "owner": "", "tiers": ""}, {"system": "MoKloud", "country_label": "Mauritius", "class": "other", "platform": "web and mobile app", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document states no link between the civil register and the ID system."}}},
+"civilserviceskills": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The document mentions payslips for civil servants but no digital-skills training."}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is stated."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Birth certificates are offered online but no ID number at birth is stated."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the national ID system."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No public register keyed on the national ID number is stated."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The national ID system itself is not described; only ID card appointments are mentioned."}}},
+"localgov": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Local Authorities services are offered online but no office connection is stated."}}}
+}}

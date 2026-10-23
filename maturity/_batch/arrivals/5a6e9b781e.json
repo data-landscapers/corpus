@@ -1,0 +1,27 @@
+{"slug": "2024-11-15-uga-dissemination-of-the-electronic-know-your-customer-evaluation-report", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "FSD Uganda says the e-KYC system lets supervised financial institutions verify customer identity in real time using the National Identification Number.", "as_of": "2024-10", "date_precision": "month", "system": "e-KYC platform", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "FSD Uganda says 31 supervised financial institutions were integrated into the e-KYC system in its first phase, completed in 2021.", "as_of": "2021", "date_precision": "year", "system": "e-KYC platform", "class": "authentication"}],
+"systems": [{"system": "e-KYC platform", "country_label": "Uganda", "class": "authentication", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on this question for Uganda."}}},
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on this question for Uganda."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document says only that the e-KYC project was run with Bank of Uganda, not its payments role."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on this question for Uganda."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on this question for Uganda."}}},
+"datacentres": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on data centres."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Attendees stressed protecting the NIN, but the document names no data protection law."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on government payments to people."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document gives no enrolment count or share."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document does not say who runs the ID system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document names no public register keyed on the NIN."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "FSD Uganda says financial institutions verify customers against the National Identification Number held in the NIRA database.", "as_of": "2024-10", "date_precision": "month", "system": "NIRA national ID database", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "FSD Uganda says supervised financial institutions verify customers against the National Identification Number through the e-KYC system.", "as_of": "2024-10", "date_precision": "month", "system": "e-KYC platform", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "FSD Uganda says 31 supervised financial institutions were integrated into the e-KYC system by 2021.", "as_of": "2021", "date_precision": "year", "system": "e-KYC platform", "class": "relying"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on data centres."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document gives no survey of account holding."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Mobile wallets are mentioned only as a service e-KYC enables, with no status stated."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The document states nothing on this question for Uganda."}}}
+}}

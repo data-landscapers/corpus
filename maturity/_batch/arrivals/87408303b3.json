@@ -1,0 +1,29 @@
+{"slug": "2026-05-01-civ-la-cote-d-ivoire-vers-une-identite-juridique-et-numerique-integree-au", "studies": {
+"addressregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No addressing system is mentioned."}}},
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only 'development of digital identity' is listed; no authentication service is described."}}},
+"birthidlink": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "ONECI's slides for ID4Africa 2026 set out an integrated CRVS-ID path in which a registered birth leads to a unique identifier and later life events, including death, update the same identity, and list supporting the digital transformation of civil registration to feed identity as an aim.", "as_of": "2026-05", "date_precision": "month", "system": "CRVS-ID integration", "class": "crvslink"}
+], "systems": [{"system": "CRVS-ID integration", "country_label": "Parcours d'intégration CRVS-ID", "class": "crvslink", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"businessregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No business register is mentioned."}}},
+"civilregister": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "ONECI's slides for ID4Africa 2026 list under digitalisation the digitisation of civil status registers and a gradual move from paper to digital, with 692 civil registration centres in the country.", "as_of": "2026-05", "date_precision": "month", "system": "Numérisation des registres d'état civil", "class": "civil"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The deck speaks only of strengthening the legal framework of identity and access tracing; no data protection law is named."}}},
+"electoralregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No voters' roll is mentioned."}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No count or share of people enrolled in the ID system is given; the 57.6% is birth registration."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The path from birth registration to a unique identifier is shown as architecture; the deck does not say children receive the number at registration or where."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing is stated about who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Sectors that could use the single identifier are listed as a possibility; no register is said to use it."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ONECI's slides for ID4Africa 2026 report 172 fixed identity enrolment centres plus mobile enrolment units and intensified enrolment campaigns, and call the unique identifier an essential structuring element.", "as_of": "2026-05", "date_precision": "month", "system": "ONECI identity enrolment", "class": "idsystem"}
+], "systems": [{"system": "ONECI identity enrolment", "country_label": "Identité numérique (NNI)", "class": "idsystem", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No land register is mentioned."}}},
+"populationregister": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "underway", "fact": "ONECI's slides for ID4Africa 2026 list the deployment of the RNPP as an operational enabler and name consolidating an integrated national population register as a prospect.", "as_of": "2026-05", "date_precision": "month", "system": "RNPP", "class": "population"}
+], "systems": [{"system": "RNPP", "country_label": "RNPP", "class": "population", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Digitisation of registers is stated without saying whether local offices enter events digitally, which events, or how many offices; the 692 centres are a total only."}}},
+"socialregistry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Social protection is listed only as a sector that could use the identifier."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"taxregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Public finances are listed only as a sector that could use the identifier."}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

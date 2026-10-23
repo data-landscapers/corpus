@@ -1,0 +1,8 @@
+{"slug": "2024-09-19-rwa-risa-pki-service-integration-guidelines-for-developers", "studies": {
+"authentication": {"countries": {"RWA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "RISA's PKI integration guidelines say RISA provides certificate validation and timestamping services, that RISA-GovCA provides the centralised timestamp authority, and that any system using digital signatures must follow them.", "as_of": "2024-09-19", "date_precision": "day", "system": "RISA-GovCA", "class": "authentication"}], "systems": [{"system": "RISA-GovCA", "country_label": "RWA", "class": "authentication", "platform": "PKI", "owner": "RISA", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document is technical PKI guidance and names no digital strategy."}}},
+"ecommercelaw": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document names no electronic transactions or e-commerce law."}}},
+"idverification": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document does not mention checking people against the national ID."}}},
+"itcapacity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document does not say who builds or runs government systems."}}},
+"policyresearch": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The document mentions no research institution."}}}
+}}

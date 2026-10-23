@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-22-xaf-africa-must-own-its-digital-future-or-risk-exploitation-says-luminate",
+  "studies": {
+    "aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Algorithmic bias is cited in a keynote in general; no Nigerian rule, authority or enforcement on AI harms is stated."}}},
+    "aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document names no Nigerian government body using AI."}}},
+    "aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The only AI example given is India's Ministry of Agriculture."}}},
+    "aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document is a keynote opinion and names no AI model, dataset or computing in Nigeria."}}},
+    "datacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No Nigerian data centre is named."}}},
+    "nationaldatacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No Nigerian data centre or state hosting is named."}}}
+  }
+}

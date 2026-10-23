@@ -1,0 +1,7 @@
+{"slug": "2026-09-24-uga-sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-fr", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government body is stated to use AI."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"UGA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "Sunbird AI, a non-profit based in Kampala, released Sunflower v2 on 24 September 2026, a suite of five open models (language models, speech recognition for 51 African languages, text-to-speech for 20), published with their datasets on Hugging Face.", "as_of": "2026-09-24", "date_precision": "day", "system": "Sunflower v2", "class": "localai"}], "systems": [{"system": "Sunflower v2", "country_label": "Uganda", "class": "localai", "platform": "Hugging Face", "owner": "Sunbird AI", "tiers": ""}], "note": ""}}},
+"opendatapolicy": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document states nothing on a government open data policy; the open publication is by a non-profit."}}}
+}}

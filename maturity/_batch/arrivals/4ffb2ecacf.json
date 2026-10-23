@@ -1,0 +1,20 @@
+{"slug": "2026-07-23-mdg-decim-biometric-enrolment-capitalisation-workshop", "studies": {
+"authentication": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on an authentication, e-signature or PKI service."}}},
+"birthidlink": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "The DECIM project page says the modernised identity system being built rests on a single identification base, biometrics and interoperability of civil registration and identification databases through a unique identification number.", "as_of": "2026-07", "date_precision": "month", "system": "Izaho Tokana", "class": "crvslink"}
+], "systems": [{"system": "Izaho Tokana", "country_label": "Madagascar", "class": "idsystem", "platform": "", "owner": "CNECI, Ministry of the Interior and Decentralisation", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The page mentions a 2026 reform for late birth registration but no digital civil register."}}},
+"dataprotectionlaw": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Personal data protection is named as a workshop topic only; no law is stated."}}},
+"feedbackportals": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Complaints handling is a workshop topic for the enrolment operation, not a citizen feedback channel on public services."}}},
+"idcoverage": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The page counts over six million adults registered by 30 June 2026 but gives no total population to make a share."}}},
+"idfrombirth": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on a number given at birth registration."}}},
+"idmaintenance": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "The DECIM project page says the next phase, steered by the CNOS and coordinated by the CCO/ENBIO under the Ministry of the Interior, is to prepare the gradual transfer of responsibilities and ownership by national institutions, with DECIM now financing it.", "as_of": "2026-07", "date_precision": "month", "system": "Izaho Tokana", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idregisters": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on another public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"MDG": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The DECIM project page says the Izaho Tokana mass biometric enrolment, begun in early 2026 by the CNECI with PRODIGY support, had registered over six million people aged 18 and over in the national base by 30 June 2026, within a modernised identity system still being built.", "as_of": "2026-06-30", "date_precision": "day", "system": "Izaho Tokana", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on local government offices' connection."}}},
+"registry": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on civil registration offices entering events digitally."}}}
+}}

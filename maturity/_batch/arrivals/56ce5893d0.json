@@ -1,0 +1,14 @@
+{"slug": "2025-12-09-eth-launch-ceremony-held-for-the-digital-certificate-service-ensuring-fayd", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "INSA announced on 9 December 2025 that it had officially launched the National Country Sign Certificate Authority, a root certificate authority now issuing digital certificates for the security of the Fayda digital ID.", "as_of": "2025-12-09", "date_precision": "day", "system": "National CSCA", "class": "authentication"}
+], "systems": [{"system": "National CSCA", "country_label": "Ethiopia", "class": "authentication", "platform": "", "owner": "INSA", "tiers": "root certificate authority"}, {"system": "Fayda digital ID", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"cybersecurity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "INSA is not described as the national response body; no incident, strategy or designation stated."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the Fayda system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Director of the National ID Program said on 9 December 2025 that each digital ID issued under the Fayda program is verifiable and legally recognised, with INSA now issuing certificates to secure it.", "as_of": "2025-12-09", "date_precision": "day", "system": "Fayda digital ID", "class": "idsystem"}
+], "systems": [], "note": ""}}}
+}}

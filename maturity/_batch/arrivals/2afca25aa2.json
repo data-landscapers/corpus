@@ -1,0 +1,6 @@
+{"slug":"2026-06-18-tgo-l-afrique-n-est-pas-dans-votre-llm-togolm","studies":{
+"aisystems":{"countries":{"TGO":{"facts":[
+{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"An individual developer announced TogoLM, built in Lome, with a published corpus of 62,168 Togolese public documents and a Mistral 7B QLoRA fine-tune (togolm-7b-instruct-v1) on Hugging Face, under an MIT licence.","as_of":"2026-06-18","date_precision":"day","system":"TogoLM","class":"localai"}],
+"systems":[{"system":"TogoLM","country_label":"Togo","class":"localai","platform":"RAG pipeline with pgvector, Gemini generation, Mistral 7B fine-tune","owner":"individual developer","tiers":""}],"note":""}}},
+"opendatause":{"countries":{"TGO":{"facts":[],"systems":[],"note":"The corpus is published by an individual, not a public body."}}}
+}}
