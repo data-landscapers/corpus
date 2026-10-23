@@ -1,12 +1,12 @@
 ---
 title: Sudan: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 165
+sources_cited: 164
 sections_written: 39
 not_established: 7
 acquire_lines: 49
@@ -77,8 +77,6 @@ No digital cooperation agreement, vendor arrangement or bloc-level digital accor
 
 ### New investments
 <!-- finance.new -->
-
-The Sudan Family Support Project [carried over US$350 million in World Bank and IDA financing](https://documents1.worldbank.org/curated/en/410701602468022759/pdf/Sudan-Sudan-Family-Support-Project.pdf) (2020).
 
 Sudan's Public Financial and Macroeconomic Management project [carried US$34.8m from the African Development Bank](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/) (March 2016), delivered through the Bank's Transitional Support Facility. [Online trading opened on the Khartoum Stock Exchange under it on 24 March 2016](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/), and an [integrated financial management and information system was among the complementary systems the project was developing](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/).
 
