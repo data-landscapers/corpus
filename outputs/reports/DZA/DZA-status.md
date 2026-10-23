@@ -1,6 +1,6 @@
 ---
 title: Algeria: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: DZA
 region: XNA
 built_by: STATUS-INIT
@@ -104,7 +104,7 @@ What has produced something is the work with development partners. [MPT-CERT, th
 Algeria approved [USD 1 billion to finance African startups](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups) in October 2025, announced by the Minister of Foreign Trade and Export Promotion at an African ministerial meeting on the sidelines of UNCTAD16 in Geneva — money aimed at the rest of the continent rather than at Algeria's own digital estate, and money approved rather than moved. The vehicle for it is the [African Startup and Young Innovators Financing Fund](https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups), launched by President Tebboune in September 2025 and aimed at technology, education, healthcare and humanitarian projects.
 
 <!-- derived -->
-Algeria's digital-sector financing in 2025 was its own money. The two commitments on the year are a pledge by the Algerian state to a fund the state created, and spectrum licence money paid to the state by three telecoms operators, two of them domestic or state-linked.
+Algeria's digital-sector financing in 2025 was mostly its own money: a pledge by the Algerian state to a fund the state created, and spectrum licence money paid to the state by three telecoms operators, two of them domestic or state-linked. The only privately financed commitment on the year is a US$5 million startup round.
 
 Domestic capital is where the movement is, and it is early. [Algérie Télécom announced an investment fund for startups working in artificial intelligence, cybersecurity and robotics](https://www.telecomreviewafrica.com/articles/telecom-operators/11263-algeria-bets-on-artificial-intelligence-to-boost-its-economy/) at the third CTO Forum Algeria in February 2025 — an announcement rather than capital deployed. At the other end of the year [VOLZ raised DZD 600 million, about USD 5 million at the time](https://techcabal.com/2025/12/16/volz-raises-5-million/), in December 2025, the first exit for the Algerian Startup Fund. The state has also [waived initial public offering fees for startups until 2028](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-waives-ipo-fees-for-startups-until-2028) to draw young technology companies onto the Algiers exchange.
 
