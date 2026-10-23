@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The deck says the Novissi programme onboarded more than 600,000 beneficiaries by USSD, with a real-time dashboard and daily-audited logs of all transactions.",
+   "as_of": "2020-04-08",
+   "date_precision": "day",
+   "system": "Novissi",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The deck says Novissi made direct monthly transfers to beneficiaries via mobile money.",
+   "as_of": "2020-04-08",
+   "date_precision": "day",
+   "system": "Novissi",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,socialmis,system,coverage,underway,2023-09-18,TGO-001,,nothing dated since 2023-10-18
-TGO,socialmis,payments,coverage,,,,,nothing held
+TGO,socialmis,system,coverage,inservice,2020-04-08,TGO-002,TGO-001=underway,nothing dated since 2023-10-23
+TGO,socialmis,payments,coverage,electronic,2020-04-08,TGO-003,,nothing dated since 2023-10-23
 TGO,socialmis,integrated,coverage,,,,,nothing held
