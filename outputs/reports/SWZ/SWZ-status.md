@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 210
+sources_cited: 211
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -51,7 +51,7 @@ Eswatini's payment rails stop at the border. The national switch [carries domest
 
 Personal data crosses more easily than money does. Transfers to other SADC member states run under regional data protection standards while anything beyond the bloc turns on an adequacy assessment — [a regional-bloc adequacy model rather than a purely national one](https://itlawco.com/focus-areas/data-protection-and-privacy/data-protection-act-5-of-2022-eswatini).
 
-Much of the country's own rulebook for that data is being written through continental and European channels. [Smart Africa tendered the national data policy on a US$70,000 budget](https://smartafrica.org/wp-content/uploads/2025/07/RFP-Eswatini-Data-Policy.pdf) (2025), [Smart Africa also developed the draft health-data guidelines and sponsors their validation workshops, with technical and financial support from GIZ](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/), and support for the [National Data Governance Policy runs through the Team Europe Data Governance in Africa Initiative with GIZ and the African Union](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy).
+Much of the country's own rulebook for that data is being written through continental and European channels. Eswatini was [welcomed into the Smart Africa Alliance as one of six recently joined members at its Council of Ministers on 24 March 2026](https://smartafrica.org/zimbabwe-elected-chair-of-cmict-as-smart-africa-welcomes-new-member-states/); the [alliance tendered the national data policy on a US$70,000 budget](https://smartafrica.org/wp-content/uploads/2025/07/RFP-Eswatini-Data-Policy.pdf) (2025), [Smart Africa also developed the draft health-data guidelines and sponsors their validation workshops, with technical and financial support from GIZ](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/), and support for the [National Data Governance Policy runs through the Team Europe Data Governance in Africa Initiative with GIZ and the African Union](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy).
 
 Bilateral reach is mostly prospective. Talks with the Central Bank of Egypt in July 2026 covered [accelerating Eswatini's accession to the Pan-African Payment and Settlement System](https://itweb.africa/article/egypt-eswatini-deepen-banking-cooperation/KWEBb7yL4wbvmRjO), and the pan-African gold bank raised in them rests on [a memorandum of understanding signed between the Central Bank of Egypt and Afreximbank on 29 December 2025](https://www.cbe.org.eg/en/news-publications/news/2025/12/30/08/37/gold-bank-programme-in-egypt) that remains at feasibility-study stage. Where the country has moved early is civil registration: it was the [second African state to launch phase two of the UN Economic Commission for Africa's registration and vital statistics mentorship programme](https://ecastats.uneca.org/asn/en-us/Sections/News-and-events/NE-Eswatini-became-the-2nd-country-to-officially-launch-phase-two), work that includes linking birth and death registration to the national population register (2024). The communications commission and Lesotho's regulator [signed a memorandum providing for cybersecurity cooperation, including coordinated incident response, and exchange of information and resources](https://eswatinipositivenews.online/eswatini-lesotho-join-forces-to-tackle-cyber-threats/) (2026). The Digital Cooperation Organization's secretary-general [met the ICT minister in September 2026 on cooperation to accelerate digital transformation](https://techreviewafrica.com/news/7055/eswatini-and-dco-explore-cooperation-to-accelerate-digital-transformation).
 
