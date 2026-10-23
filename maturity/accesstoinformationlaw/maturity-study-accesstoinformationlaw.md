@@ -51,6 +51,7 @@ Asked in order. Each is answered with a date and a link.
 - **A right of access in the constitution is not a law.** With a source saying no law gives it effect, the country is at stage 1.
 - **A wider law or code counts for the part that does the job**, where a source says it gives a right to ask public bodies for information.
 - **An ordinary decree, a charter, a policy or a circular on access to information is not a law and not a draft of one.** An ordinance or decree with the force of law is a law.
+- **Two readings settled as worded** *(Bill, 2026-10-23)*: a right of access sitting in existing laws is a law in force (question 2), so Benin and Mali stay at 3; a commencement notice is not a rule made under the law (question 3), so Tanzania stays at 3.
 - **An old law still in force is a yes to question 2 and no more**, until a source names rules made under it or its oversight body. A bill to amend or replace it is named in the summary and does not lower the stage.
 - **A law promulgated but not yet in effect is a yes to question 2**, and the summary gives the date it starts. One passed by parliament and not yet promulgated is a yes to question 1 only.
 - **A body that also protects personal data counts only for what a source says it did under the access to information law.** A data protection ruling is not a yes to question 4.
@@ -80,11 +81,7 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 ## 7. Tasks, in order
 
-- [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
-- [x] **D1. Bill's word**: run on it, 2026-10-13.
-- [x] **D2. Read**: 103 calls in two fan-outs, 136 facts.
-- [x] **D3. Staged** as at 2026-09-30: 5: 8, 4: 11, 3: 11, 2: 11, 1: 4, one unplaced, eight without evidence; six rows revalued (`corrections.csv`); agreement 20 of 20.
-- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
+- [x] **D0 to D5 done 2026-10-13**: 103 calls, 136 facts, staged as at 2026-09-30, agreement 20 of 20, reported to Bill.
 
 **Decided in the run**:
 
