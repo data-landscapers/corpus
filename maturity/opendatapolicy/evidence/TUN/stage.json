@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "policy",
-      "stage": "3",
+      "stage": "5",
       "standing": "adopted",
-      "use": "",
+      "use": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-006;TUN-002",
-      "gaps": "No source held says a government open data portal is running under the policy.",
-      "note": "Counted from the four questions by study-ladder-opendatapolicy.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TUN-002;TUN-008;TUN-009",
+      "gaps": "The national strategy for data governance and opening written under the decree was still a draft in March 2026.",
+      "note": "Decree 2021-3 is adopted, the new national portal built to its specifications opened in March 2023, and it carried datasets from 23 producers in April 2024, so all four questions are answered.",
+      "as_at": "2026-10-23"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Open data policy: national open data policy
 
-*As at 2026-09-30.*
+*As at 2026-10-23.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 1 |
 | 4 Operating | 1 |
-| 3 Established | 5 |
+| 3 Established | 4 |
 | 2 Nascent | 11 |
 | 1 Absent | 1 |
 | Unplaced | 8 |
 | No evidence | 28 |
 
 ## Countries
+
+### Tunisia: 5 Leading
+
+Tunisia's 2021 open data decree is in force and its portal carried data from 23 public producers in 2024; the follow-on strategy is not adopted.
+
+- Government decree no. 2021-3 of 6 January 2021, issued by the Head of Government after deliberation of the Council of Ministers, organises the publication of public data under the open-by-default principle for public bodies; the document states no end or replacement ([source, 2021-01-06](https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2021-3-du-6-janvier-2021-relatif-aux-donnees-publiques-ouvertes/)).
+- The IRM 2021-2023 results text says a new version of the national open data portal, built to the decree's specifications, was launched in early March 2023 ([source, 2023-03](https://www.opengovpartnership.org/fr/members/tunisia/commitments/TN0053/)).
+- The IRM text says the portal carried datasets from 23 data producers across 6 themes (consulted April 2024), and that the e-government unit reported about 296 datasets identified by over 40 public entities in the inventory system by end 2023 ([source, 2024-04](https://www.opengovpartnership.org/fr/members/tunisia/commitments/TN0053/)).
 
 ### Nigeria: 4 Operating
 
@@ -61,13 +69,6 @@ Mauritius issued a national open data policy in 2017; whether a portal is runnin
 Rwanda's data sharing policy, in place in 2026, makes government data open by default; whether a portal is running under it is not known.
 
 - Cenfri reports the public sector data sharing policy is in place and positions government data as open by default, subject to classification and access controls; the document gives no adoption date, so this is dated to its publication ([source, 2026-05](https://cenfri.org/articles/what-will-determine-the-success-of-rwandas-data-governance-push/)).
-
-### Tunisia: 3 Established
-
-Tunisia's 2021 decree makes public data open by default and a national data register was built in 2024; whether a portal runs is not known.
-
-- The Presidency of the Government's e-administration unit says it built the national public data register in application of government decree 2021-03 and Circular 4 of 2024 on open public data ([source, 2024-07-01](http://www.ogptunisie.gov.tn/fr/index.php/2024/07/01/developpement-du-registre-national-des-donnees-publiques/)).
-- Government decree no. 2021-3 of 6 January 2021, issued by the Head of Government after deliberation of the Council of Ministers, organises the publication of public data under the open-by-default principle for public bodies; the document states no end or replacement ([source, 2021-01-06](https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2021-3-du-6-janvier-2021-relatif-aux-donnees-publiques-ouvertes/)).
 
 ### Benin: 2 Nascent
 
