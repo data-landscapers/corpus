@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Nationwide | Yes to 3 |
 | 5 Used by services | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `addressing` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `national` (`nationwide`) for 3 and `used` (`used`) for 4.
+A later yes answers the earlier ones (method §3.3). **Settled as worded** *(Bill, 2026-10-23)*: a draft bill or a presented project is *under way*, and a city or regional system in use is *used*. `study.json` holds this as three aspects: `addressing` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `national` (`nationwide`) for 3 and `used` (`used`) for 4.
 
 ## 4. The norm
 
