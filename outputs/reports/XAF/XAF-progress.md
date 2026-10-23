@@ -1,20 +1,20 @@
 ---
 title: Africa — progress report, October 2025 – October 2026
-compiled: 2026-10-22
-period: 2025-10-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2025-10-01 to 2026-10-23
 place: XAF
-ledger_rows: 255
+ledger_rows: 259
 not_held: 3
-record: 08fc5c6fc329
+record: e93236bb03f2
 ---
 
 # Africa: progress report, October 2025 – October 2026
 
-*Compiled 2026-10-22 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-10-23 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 255 bodies, instruments and systems on this place's ledger, 140 changed position between 2025-10-01 and 2026-10-22, 30 did not, 82 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 259 bodies, instruments and systems on this place's ledger, 140 changed position between 2025-10-01 and 2026-10-23, 30 did not, 86 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 1168 sources for this place in the window — 174 in the earlier half (2025-10 to 2026-03), 994 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 1182 sources for this place in the window — 175 in the earlier half (2025-10 to 2026-03), 1007 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -30,7 +30,7 @@ One fact runs underneath the rest. Official development assistance fell sharply 
 
 ### Regional collaboration
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | AfCFTA Digital Trade Corridor | Did not exist | [a joint venture agreement signed in Accra on 31 August 2026 between the AfCFTA Secretariat and a Ghanaian technology company to build a corridor facilitating, tracking and settling cross-border trade transactions in compliance with continental trade rules and reducing reliance on routing payments through third countries](https://mydailynewsonline.com/2026/09/01/afcfta-digital-trade-corridor-to-cut-cost-of-intra-african-commerce-wamkele-mene/) | Movement |
 | AfCFTA Protocol on Digital Trade | State parties committed to expedite ratification and domestication under eight calls to action; no ratification count is published with them; the calls carry no enforcement mechanism, no ratification deadline and no named financing | [Eight annexes to the protocol were approved in February 2025 and the intellectual-property annexes adopted in February 2026, and all of them still await national ratification and incorporation; the July 2026 calls to action to expedite ratification carry no enforcement mechanism, no deadline and no named financing, and no ratification count is published](https://srnnews.com/the-media-line-africa-has-a-free-trade-deal-now-comes-the-hard-part/) | Movement, unratified |
@@ -52,12 +52,14 @@ One fact runs underneath the rest. Official development assistance fell sharply 
 | Association of Regulators of Information and Communications for Eastern and Southern Africa (ARICEA) | Launched in January 2003 under COMESA's auspices as an association of ICT regulators in Eastern and Southern Africa, on its own account to ITU regulators (2003-12) | [A COMESA-linked association of communications regulators across Eastern and Southern Africa, holding its 14th annual general meeting in Livingstone, Zambia, on 9 September 2026, at which COMESA's assistant secretary-general for programmes called for stronger, more predictable and more agile regulatory frameworks to match digital expansion across the region. Membership, mandate and any harmonisation instrument the association issues are not published in this account.](https://www.comesa.int/comesa-calls-for-agile-regulation-to-keep-pace-with-africas-rapid-digital-transformation/) | No change |
 | State parties to the AfCFTA | 49 of 54 signatories had ratified and deposited their instruments with the AU Commission (2025-07) | [49 of 54 signatories had deposited instruments of ratification as at July 2026, and Somalia is to become the 50th state party on depositing its instrument in September 2026, having agreed with the Secretariat a sequence running from ratification through domesticating the electronic tariff book and configuring preferential tariffs in its customs administration to a first shipment (2026-08)](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/) | No change, a fiftieth deposit announced for September 2026 |
 | African common position for the ITU Plenipotentiary Conference 2026 | ***Baseline not held*** | [All 49 African Common Proposals for PP-26 (Doha, 9-27 November 2026) have each secured the more than 15 country endorsements needed for submission, with 23 states endorsing after Ghana's submission; they target affordable connectivity, cybersecurity, equitable access to satellite and orbital resources, artificial intelligence for development and the protection of submarine cables. The final preparatory meeting had closed in Abidjan on 17 September 2026](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference) | ***Baseline not held*** |
-| African Continental Health Data Governance Framework | ***Baseline not held*** | [A draft continental framework put to a multi-stakeholder consultation at the Africa HealthTech Summit in Kigali, with more than 100 stakeholders from 70 organisations and health ministry representatives from 11 states; recommendations go to a validation workshop for all 55 AU member states at Addis Ababa on 21-22 October 2026, ahead of proposed adoption at the AU Summit in early 2027. The continental disease-control agency's head of digital health says the initiative started in 2025 and will guide who may access health data, for what purpose, for how long and under what safeguards](https://transformhealthcoalition.org/foundations-first-transform-health-at-the-africa-healthtech-summit-2026/) | ***Baseline not held*** |
+| African Continental Health Data Governance Framework | ***Baseline not held*** | [Validated by AU member states at Addis Ababa on 22 October 2026 as the first common continental approach to the lawful, secure, ethical and sovereign governance of health data, to guide national legislation and enable data sharing for surveillance and care; finalisation and consideration through AU policy processes still to come](https://africacdc.org/news-item/au-member-states-validate-african-continental-health-data-governance-framework/) | ***Baseline not held*** |
 | African Financial Stability Report | ***Baseline not held*** | [Inaugural 2024-2025 edition endorsed by the Association of African Central Banks' 47th Assembly of Governors at Yaounde on 2025-11-28 and released in July 2026, covering 46 countries on data as at December 2024; a second edition was approved by the Board of Governors at the 48th annual meetings in Nairobi, 13-18 September 2026, with the Central Bank of Egypt chairing the taskforce preparing it and publication to run through the African Financial Stability Committee's portal on the Association's website](https://www.dailynewsegypt.com/2026/09/20/cbe-governor-heads-egypt-delegation-at-48th-annual-aacb-meetings/) | ***Baseline not held*** |
 | African Monetary Institute | ***Baseline not held*** | [The Association of African Central Banks constituted the Institute's board at its 48th annual meetings in Nairobi, 13-18 September 2026, seating Egypt, Tunisia and Morocco for North Africa alongside 12 central banks across the Association's five regions; the account calls it the beginning of the Institute's activation and no mandate, staffing or timetable is published](https://www.dailynewsegypt.com/2026/09/20/cbe-governor-heads-egypt-delegation-at-48th-annual-aacb-meetings/) | ***Baseline not held*** |
 | African Union Archives and Repository Project | ***Baseline not held*** | [A project to establish an African Union archives and repository, dormant and now under reinstatement: the AU Commission received a South African delegation at headquarters in Addis Ababa on 7 September 2026 for an introductory meeting at the Cabinet of the Chairperson, reviewing background and current status and setting out the issues for a working visit. No scope, budget, timetable or hosting arrangement is published.](https://au.int/en/pressreleases/20260907/auc-receives-south-african-delegation-au-archives-and-repository-project) | ***Baseline not held*** |
+| AFRINIC audited accounts for 2025 | ***Baseline not held*** | [Income up 2.8% to US$6.289m while total expenses rose 86.2% to US$5.114m, so the surplus of income over expenditure fell 65.1% to US$1.175m and cash generated from operations fell 75.2%; 2025 election costs of US$1,043,425 and legal fees of US$877,929 account for much of the rise, and the auditor's unmodified opinion separately highlights the note on ongoing proceedings, for which no provision is recognised](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-2025-surplus-income-operating-cash) | ***Baseline not held*** |
 | ATU Strategic Plan 2027-2031 | ***Baseline not held*** | [A draft Strategic Plan for 2027-2031 was circulated to member states for comment ahead of CPL-26; the draft is not published, and no adopted plan, budget or final acts of the conference are held](https://atuuat.africa/wp-content/uploads/2026/06/EN_Invitation-to-CPL-26-Related-Meetings.docx-REV-June-18-2.pdf) | ***Baseline not held*** |
 | COMESA regional AI strategy and model framework | ***Baseline not held*** | [A draft study of AI and emerging technologies across COMESA was put to member states for validation at Mbabane, as the first phase towards a regional AI strategy, model policy guidelines and a model regulatory framework under the World Bank-funded IDEA programme](https://idea.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/) | ***Baseline not held*** |
+| DataCipation data-policy harmonisation project | ***Baseline not held*** | [A research network's project, run as an official implementation partner with GIZ and AUDA-NEPAD, supporting domestication of the AU Data Policy Framework through national data policies and strategies, regulatory peer learning and capacity-building between member states and regional economic communities; no country output count is published](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/) | ***Baseline not held*** |
 | Guidelines on Public Interest Content in the Digital Era | Mandated by Resolution ACHPR/Res.631 (LXXXII) 2025; no earlier draft held | [Draft V3 (August 2026) published by the African Commission on Human and Peoples' Rights through its Special Rapporteur on Freedom of Expression and Access to Information, setting duties for states and responsibilities for technology companies and digital infrastructure services on public interest content; inputs invited from state and non-state actors by 8 January 2027](https://achpr.au.int/en/news/press-releases/2026-10-13/draft-guidelines-public-interest-content-digital-era) | ***Baseline not held*** |
 | Model Law on Access to Information for Africa (2013) | Model law adopted by the African Commission on Human and Peoples' Rights (2013) | [The Commission said on 28 September 2026 that it will review the model law next year to add digital-age provisions, beside Resolution 630 (guidelines for states to monitor technology companies on information integrity) and Resolution 631 (guidelines for platforms operating in Africa to serve the public interest), and that it will consider draft African Guidelines on Access to Data under Resolution 620](https://achpr.au.int/en/news/press-releases/2026-09-28/international-day-universal-access-information-28-september-2026) | ***Baseline not held*** |
 | Primary Health Care Continental Coordination Mechanism (digital health forum) | ***Baseline not held*** | [Member states endorsed the mechanism, convened by the continental health agency in Addis Ababa on 5 June 2026, with a digital health and innovation forum for digital public infrastructure, interoperability and data governance, committing to apply the continental digital health maturity assessment tool, build costed digital health investment cases and strengthen health data governance and sovereign hosting; the outcome statement was posted on 8 October 2026](https://africacdc.org/news-item/primary-health-care-continental-coordination-mechanism-phc-ccm-outcome-statement/) | ***Baseline not held*** |
@@ -75,7 +77,7 @@ In October 2026 [all 49 African common proposals for the ITU plenipotentiary cle
 
 ### Strategies, plans and policies
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Anti-IFFs Policy Tracker | Piloted eighteen months in Cote d'Ivoire, Ghana, Liberia, Namibia, Uganda and Zambia, built by Tax Justice Network Africa with the AU Commission's ETTIM department and the African Tax Administration Forum | [Endorsed for continental roll-out as a standing self-assessment instrument scoring anti-IFF policy, legal, institutional and data-sharing frameworks; no roll-out timetable, country list or governance body named](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) | Movement |
 | AUDA-NEPAD island economies programme | Did not exist | [A country-owned framework for seven island states built around industrialisation, digitalisation, corridors and AI, in partnership with the Republic of Korea; the ministerial communique adopting it is not published](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Movement |
@@ -84,13 +86,13 @@ In October 2026 [all 49 African common proposals for the ITU plenipotentiary cle
 
 ### Legislation and regulation
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Countries taxing non-resident digital services | 21 countries (2024) | [32 of 54 African countries have amended VAT, GST or other indirect-tax law to tax electronic services supplied by non-residents, against 21 in 2024](https://www.pwc.co.za/en/assets/pdf/vat-in-africa-digital-services-2026.pdf) | Movement |
 
 ### Data protection
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Network of African Data Protection Authorities (NADPA-RAPDP) | Constituted under a statute adopted at Ouagadougou in September 2016 and amended at Casablanca on 23 February 2018, setting its mandate, membership, organs and funding from member dues (2018-02) | [The Fifth Board - Cabo Verde, Cote d'Ivoire and Zimbabwe - signed a declaration on 3 September 2026 proclaiming 21 September as Africa Data Protection Day, executing a decision of the network's ninth annual general meeting in May 2026; no membership count, secretariat budget or work programme is held (2026-09)](https://www.linkedin.com/posts/tsitsi-mariwo_dataprotection-togetherwecandomore-activity-7501689491284320257-D6sq) | Movement, a commemorative declaration |
 | Signatures and ratifications of the Malabo Convention | 21 of 55 signed, 20 ratified or acceded and 20 deposited (2026-02-02, the depositary's register) | [The depositary's register of 02/02/2026 records 21 signatures and 20 ratifications or accessions of 55 member states, four more than the most-cited 2025 figure and not the 16 that continues to circulate in commentary; Kenya, Egypt, Ethiopia, Morocco, Algeria, Tanzania, Uganda and Malawi are blank in all three columns. Equatorial Guinea, where the Convention was adopted and after whose then-capital it is named, signed on 2026-07-28 and has not deposited an instrument of ratification](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | Movement, marginal |
@@ -99,7 +101,7 @@ In October 2026 [all 49 African common proposals for the ITU plenipotentiary cle
 
 ### Standards
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Africa PKI Forum harmonisation of digital-trust rules | Did not exist | [Participants called for harmonised African rules so that digital credentials, electronic signatures and documents can be verified across borders; nothing is adopted and no instrument, timetable or signatory list is on file. The call was renewed at a Nigerian technology expo on 2 and 3 September 2026, where the Nigerian identity commission's director-general named public key infrastructure the irreplaceable foundation for cross-border authentication, electronic signatures and accountability and urged national and subnational bodies to align certificate policies, trust-service governance, data-privacy and legal frameworks, and the AfCFTA secretary-general warned that national systems unable to communicate with one another would replace physical fragmentation with digital fragmentation](https://guardian.ng/news/lagos-nimc-afcfta-demand-local-data-sovereignty-at-gitex-2026/) | Movement |
 | African Common Proposals for WRC-27 | Preliminary African Common Proposals for WRC-27 and RA-27 are to be consolidated from the recommendations of the African Telecommunications Union's WRC-27 working groups at the third African Preparatory Meeting, Tunis, 7-11 September 2026, co-organised with Tunisia's Agence Nationale des Frequences; no proposal text is published | [The third African Preparatory Meeting opened in Tunis on 8 September 2026 for four days, hosted by Tunisia's Agence Nationale des Frequences and coordinated by the African Telecommunications Union, working towards common African positions on broadband capacity, rural connectivity and future communications technologies; it follows the 11th Africa Spectrum Management Conference held in Tunis on 7 September 2026, at which the union's secretary-general singled out the mid-band ranges 2.3 to 4.8 GHz and 6 GHz as where alignment is most needed. No proposal text is published.](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/) | Movement |
@@ -117,7 +119,7 @@ In October 2026 [all 49 African common proposals for the ITU plenipotentiary cle
 
 ### AI
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Africa AI Council | Did not exist | [Established under a board of 42 heads of state with the AU Commissioner for Energy and Infrastructure and the ITU Secretary-General; no work programme or output held in the nine months since](https://smartafrica.org/the-smart-africas-board-unveils-the-inaugural-africa-ai-council-to-lead-the-continents-ai-transformation/) | Movement |
 | African Humanitarian AI Citation Index | Did not exist | [an index measuring whose knowledge generative artificial-intelligence answers cite when explaining African humanitarian crises, published by its researcher](https://www.hezroninsights.com/when-ai-explains-african-humanitarian-crises-whose-knowledge-becomes-visible/) | Movement |
@@ -141,13 +143,14 @@ In October 2026 [all 49 African common proposals for the ITU plenipotentiary cle
 | Public capital committed to the AU Continental AI Strategy | ***Baseline not held*** | [About US$150m of public capital committed by African governments against an implementation cost the Strategy itself prices at between US$250bn and US$500bn - a fraction of one per cent - and an ambition to add US$1.5 trillion to Africa's GDP by 2030; independent research over the Strategy's first eighteen months found the funding heavily concentrated in Kenya, Nigeria, South Africa and Egypt, with little reaching the remaining member states](https://thevaultznews.com/2026/08/27/africa-risks-missing-2030-ai-targets-over-500-billion-financing-shortfall/) | ***Baseline not held*** |
 | Smart Africa Blueprint: Artificial Intelligence for Africa | ***Baseline not held*** | [The alliance secretariat's first-edition continental blueprint for artificial intelligence, held in full as published in 2021; no revision or second edition is held](https://www.bmz-digital.global/wp-content/uploads/2022/08/70029-eng_ai-for-africa-blueprint.pdf) | ***Baseline not held*** |
 | State of AI Policy in Africa index | ***Baseline not held*** | [24 African states scored on twelve criteria of AI policy design and delivery, out of 24: Egypt and Ethiopia highest at 20, Botswana lowest at 3 (October 2025)](https://columncontent.com/wp-content/uploads/2025/10/State-of-AI-Policy-in-Africa-2025.pdf) | ***Baseline not held*** |
+| Sunflower open African-language models (Sunbird AI) | ***Baseline not held*** | [An open five-model suite from a Ugandan research organisation, extended in its second release from 31 Ugandan languages to 67 across the continent: a large language model for translation and comprehension, an offline model for mid-range smartphones, speech recognition in 51 African languages and text-to-speech in 20](https://sunbird.ai/sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-from-31-ugandan-languages-to-67-across-the-continent/) | ***Baseline not held*** |
 | Use of AI tools by judicial operators, and training for it | ***Baseline not held*** | [44 per cent of judicial operators use artificial-intelligence tools and 9 per cent have been given training in them, on the survey cited by the continental human rights court and UNESCO at a judicial capacity event; the gap between use and training is the finding, and neither the survey's sample nor its date is given in the account held](https://www.african-court.org/afchpr/african-court-unesco-strengthen-judicial-capacity-on-responsible-use-of-artificial-intelligence-ai/) | ***Baseline not held*** |
 | World Bank Africa Economic Update, October 2026: Building AI Readiness | ***Baseline not held*** | [The lender's twice-yearly regional report urged Sub-Saharan governments to invest in AI for productivity and jobs, pointing to low-cost applications on affordable devices, shared data centres and stronger data-protection laws, and put the region's 2026 growth at 4.3%, 0.3 of a point above its April edition](https://www.cnbcafrica.com/2026/world-bank-raises-africas-2026-growth-forecast-urges-ai-investments) | ***Baseline not held*** |
 | World Bank AI Infrastructure and Readiness Initiative | ***Baseline not held*** | [Shared pay-as-you-go GPU capacity offered to emerging-market governments as an alternative to standalone national data centres, initially focused on Africa and Latin America, announced alongside the group's first digital strategy on connectivity, devices, digital services and AI readiness](https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs) | ***Baseline not held*** |
 
 ### Open data
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Nwulite Obodo Open Data Licence | Version 1.0 published (2024) | [Version 1.0, a tiered licence carrying ShareAlike terms for recipients in developing countries and benefit-sharing from recipients elsewhere, deployed as the licence of a University of Pretoria glossary dataset](https://raw.githubusercontent.com/dsfsi/za-mafoko/master/data/up_glossary/LICENSE) | No change, first record of a licence published in 2024 |
 
@@ -161,7 +164,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 
 ### Connectivity
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | 2026 Abuja Declaration on Meaningful Connectivity for Africa | Did not exist | [Adopted, committing member states to technology-neutral regulation, continental harmonisation, fair access to spectrum and fibre, shared infrastructure and data governance; the text itself is not published](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Movement |
 | Advancing Digital Connectivity in Africa roadmap (GSMA and PDAA) | Did not exist | [Sets three priorities - migrating more than 600 million 2G and 3G connections to 4G and 5G, joint energy and connectivity investment, and cheaper reach to rural areas - on analysis of 11 markets, finding that halving the usage gap in those markets could bring about 245 million more people online](https://www.gsma.com/newsroom/press-release/gsma-and-pdaa-unveil-roadmap-to-close-africas-mobile-internet-usage-gap-and-connect-one-billion-people-by-2030/) | Movement |
@@ -179,7 +182,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 
 ### Data Storage
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Amazon Web Services investment in African cloud infrastructure | ZAR 15.6bn (about US$858m at the study's rate) spent on the Cape Town cloud region in 2018-2022, the first AWS region on the continent, live since April 2020 with three Availability Zones (2023-04) | [More than US$819 million stated as invested in African infrastructure since 2018 and a further US$1.5 billion committed to 2029, with 154 services available in the Cape Town cloud region; the company's general manager for Sub-Saharan Africa told a Johannesburg summit on 10 September 2026 that its Africa strategy is increasingly aimed at local developers building for regional markets, and claimed more than one million Africans trained in cloud and AI skills.](https://www.itweb.co.za/article/aws-puts-23bn-behind-africas-cloud-ai-future/PmxVE7KEYWxqQY85) | Movement |
 | Sovereign AI cloud on edge data centres | Did not exist | [The operator's AI factory is ranked 36th on the global list of the most powerful supercomputers, presented as evidence that African organisations can train and deploy models on infrastructure sited on the continent rather than abroad; the underlying offer remains AI processing units hosted inside an African edge data-centre network and sold as locally-hosted enterprise AI](https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/) | Movement |
@@ -192,24 +195,25 @@ On standards the work is opening rather than closing: common proposals for the 2
 
 ### Energy
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Digitisation priorities in the national energy compacts | Did not exist | [The smart-metering and grid-optimisation priorities set out in the national energy compacts are argued to be constrained across Africa by a fragmented low-power internet-of-things layer: narrowband deployment reaches only markets such as South Africa, Kenya and Nigeria, while the 2G and 3G networks early smart meters rely on are expected to be retired well inside a meter's ten to fifteen year life; the analysis calls for integrated energy and telecom planning, targeted incentives for low-power wide-area network rollout, and energy-telecom co-investment](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/mapping-mission-300-unpacking-digitisation-priorities/) | Movement |
 | Emergent Grid Project (computing load as a mini-grid anchor customer) | Did not exist | [Demonstrations placing flexible computing load at African mini-grids to test whether selling compute improves their economics: five new solar-plus-storage sites in Kenya for about 50,000 people, an under-used solar plant in DR Congo serving more than 30,000, and three rural sites in Sierra Leone, about 85,000 people in all, with community demand given priority over compute and outcomes independently evaluated](https://www.rockefellerfoundation.org/news/rockefeller-foundation-mission-300-launch-test-ai-demand-finance-energy-access-africa/) | Movement |
 
 ### Cybersecurity
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Privileged access management for the African Union Commission's own networks | Did not exist | [A request for bids for the supply and installation of a privileged access management solution for the Commission's own networks (Ref. ET-AUC-560865-GO-RFB), amended on 21 August 2026 to push the bid deadline from 27 August to 10 September 2026 and to restate the licence requirement as 8 administrator, 40 enterprise privileged-user, 25 business-user and 5 external-vendor subscriptions on three-year terms, with training raised from six staff to eight](https://au.int/sites/default/files/Addendum%2001%20PAM.pdf) | Movement, slipped |
 | Reported cybercrime losses across the continent | About US$192m reported (2024) | [About US$484m reported, more than double the 2024 figure, drawn from 36 member countries, with artificial intelligence involved in 55% of surveyed 2025 cybercrime cases and deepfake incidents up sevenfold between the second and fourth quarters of 2024; against that, only 8% of intelligence analysts are recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools, and a single Ugandan deepfake investment scam is put at over US$2m of losses](https://www.gbcghanaonline.com/general/ai-now-enables-55-of-cybercrime-in-africa-as-losses-hit-484m-cid/2026/) | Regressed |
 | Vendor-measured attack volume across the continent | None published | [African organisations averaged 3,237 attacks a week in July 2026 against a global average of 2,336, behind Latin America at 3,561 and Asia-Pacific at 3,316; Angola was highest of the African markets broken out at 5,714, then Nigeria at 4,975, Kenya at 2,915 and South Africa at 2,195. Ransomware victims were up 87% year on year and the continent posted the world's highest phishing rate at 1 in 106 emails](https://techtrends.africa/ransomware-attacks-double-year-over-year/) | Movement |
 | Standing in the global cybersecurity index | Ghana, Kenya, Mauritius, Rwanda and Tanzania in Tier 1 (role-modelling); Benin, South Africa, Togo and Zambia in Tier 2 (advancing); the rest of the Africa region in Tiers 3-5, scored across legal, technical, organisational, capacity-development and cooperation measures (2024) | [Mauritius, Rwanda, Kenya, Tanzania and Ghana in the top tier; Benin, Togo, Zambia and South Africa in the second; the majority of the continent below, scored across legal, technical and organisational measures, capacity building and international cooperation](https://fraudforensics.substack.com/p/africas-standing-in-the-global-cybersecurity) | No change |
 | African Network of Cybersecurity Authorities | ***Baseline not held*** | [The network of national cybersecurity authorities met on the sidelines of a three-day event hosted by Morocco's information systems security directorate, which also carried an ITU cybersecurity exercise with representatives of about thirty countries and a cyberdiplomacy workshop for African embassies; no membership list, decision or work programme is published](https://www.maroc.ma/en/news/morocco-cybersecurity-week-kicks-rabat) | ***Baseline not held*** |
+| INTERPOL-coordinated Operation Serengeti | ***Baseline not held*** | [Serengeti III brought law enforcement from 21 countries together against cyber-enabled fraud, ransomware, business email compromise and extortion: 1,462 arrests, 10,909 malicious networks disrupted, more than US$105m recovered and 65,929 victims identified, against linked losses above US$385m](https://www.interpol.int/en/News-and-Events/News/2026/Cybercrime-crackdown-in-Africa-nets-1-462-arrests-recovers-over-USD-105-million) | ***Baseline not held*** |
 
 ### Data Exchange
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | ADAPT (Africa Digital Access and Public Infrastructure for Trade) | Did not exist | [In pilot in Nigeria, Kenya and Morocco on the Secretary-General's statement to the second Digital Trade Forum; no live exchange, governing instrument or assessment held](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Movement |
 | AfCFTA Customs Modernisation Project | The AfCFTA's customs rules in force with no automated continental customs infrastructure, and a shared customs portal for electronic exchange between State Parties proposed by the IMF (2025-04) | [A public-private partnership under which Bergmans Security Consultants and Supplies Limited mobilises the financing for customs digital solutions, secure electronic exchange of customs information, coordinated border management, One Stop Border Posts, transit systems, electronic cargo tracking, non-intrusive inspection technology, integrated data centres, multilingual customs portals, risk management and data analytics across participating State Parties; the agreement builds on a memorandum of understanding concluded in July 2026 and nothing is recorded as deployed; a US$3.1bn contract was signed with a Nigerian security consultancy to digitise customs across the 50 member states, aiming at real-time cargo tracking and reduced revenue leakage](https://gfmag.com/economics-policy-regulation/africa-shakes-up-customs-but-trade-problems-persist/) | Movement |
@@ -225,7 +229,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 
 ### Digital Identity and CRVS
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | ADLI cohort on the AfCFTA Digital Identity Annex | Did not exist | [Six countries across three trade corridors working on compliance with the annex, on a test-and-learn basis; no assessment or mutual-recognition decision held](https://dial.global/adli-cohort-advances-integration/) | Movement |
 | APAI-CRVS (Africa Programme on Accelerated Improvement of Civil Registration and Vital Statistics) | Running on a costed strategic plan for 2017-2021 of US$25,737,600, the first half of the 2017-2026 decade, which set at least 70% birth and 35% death registration coverage in every African country by 2021 (2017-11) | [The 2017-2026 decade is closing and a 2027-2036 phase is opening; the African eCRVS Shared Asset (ACSA) is named as the shared continental standard intended to cut fragmented digital procurement across country systems, and Equatorial Guinea's Justice Ministry timed a free registration campaign for children aged 0-5 (10-14 August 2026) to the decade's close. No AU statement of the new phase's content, financing or targets is held](https://www.graphic.com.gh/features/opinion/building-africas-architecture-of-visibility-the-next-crvs-decade.html) | No change, a next phase reported opening but not adopted |
@@ -236,7 +240,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 
 ### Digital Payments and Fintech
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | African take-up of China's Cross-Border Interbank Payment System | Standard Bank licensed as the first African bank to transact through China's Cross-Border Interbank Payment System, with CIPS transactions due on its platforms from September 2025 (2025-06) | [A bank operating in 34 African countries said on 9 October 2026 that it would sign an agreement in China the next day to join the Cross-Border Interbank Payment System for yuan transactions and is in talks to offer yuan settlement jointly with a Chinese bank; a Rwandan bank is reported to have joined and an Angolan bank to plan to; a cross-border payments startup launched direct yuan payouts in September 2026](https://www.cnbcafrica.com/2026/ecobank-to-join-chinas-cips-payments-platform-for-yuan-settlement) | Movement |
 | Association of African Central Banks (AACB) | No decision of the Assembly on continental payment harmonisation held | [A list of 54 decisions, of which decision 21 rules that the Payment Systems Directive for Africa is not to be led by an entity external to central banks and directs its own task force to lead the work](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | Movement |
@@ -266,13 +270,13 @@ On standards the work is opening rather than closing: common proposals for the 2
 
 ### Registries
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | OHADA Uniform Act on General Commercial Law (AUDCG) and the RCCM business register | In force since 2011-05-15, creating and governing the Registre du Commerce et du Credit Mobilier, the merchant and entreprenant statuses, the national and regional company-record files and their computerisation (2011-05) | [The founding instrument for the business register across OHADA's seventeen member states: it creates and governs the Registre du Commerce et du Credit Mobilier, defines the merchant and entreprenant statuses, sets the register's organisation and registration rules and the national and regional company-record files, and provides for their computerisation](https://www.ohada.org/droit-commercial-general/) | No change |
 
 ### Sectoral management information systems
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Africa CDC Central Data Repository | Did not exist | [A federated repository integrating national surveillance, laboratory and programme data in which member states retain ownership of their data](https://africacdc.org/news-item/africa-cdc-establishes-central-data-repository-to-strengthen-public-health-surveillance/) | Movement |
 | African Initiative on Transforming Health Financing (ECA) | Did not exist | [A five-year Economic Commission for Africa initiative running 2026 to 2030, launched in Tangier in April 2026, built on seven interlinked outcomes of which digital governance is one, alongside fiscal embedding, innovative financing instruments, primary health care modernisation, regional public goods, institutional capacity and narrative transformation. Its digital component is a shared data and intelligence platform for quantifying national financing gaps, real-time interoperable health and budget data, and what the Commission's chief of staff called a digital twin of the health budget underwriting multi-year compacts between finance and health ministries; the Commission puts fewer than a third of health systems in low-income settings as able to track spending digitally in real time, governments as financing under 41% of total health expenditure on average, and 30 to 40% of health spending as lost to inefficiency](https://www.uneca.org/stories/health-financing-is-africa%27s-next-economic-frontier%2C-eca-tells-health-ministers-at-who) | Movement |
@@ -285,13 +289,13 @@ On standards the work is opening rather than closing: common proposals for the 2
 
 ### National statistics
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Countries completing a census in the 2020 round | ***Baseline not held*** | [22 countries had completed census enumeration by September 2022; 44 of the some 50 originally expected to conduct a census in 2015-2024 were still expected to do so before December 2024 (2022-09)](https://www.uneca.org/sites/default/files/ACS/statcom-VIII/EN-%20Status%20of%20the%202020%20round%20of%20population%20and%20housing%20censuses%20in%20Africa.pdf) | ***Baseline not held*** |
 
 ### Use of satellite data
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | African Meteorological Satellite Application Facility (AMSAF) | Did not exist | [A continental facility inaugurated under the European Union-funded Strengthening Early Warning in Africa project, developing coordinated satellite-derived nowcasting and impact-based forecasting products for African meteorological services on Meteosat Third Generation data; no participating-service count, budget or product schedule is published](https://au.int/en/pressreleases/20260602/au-eu-space-partnership-revolutionises-weather-systems-save-lives) | Movement |
 | West and Central Africa biomass productivity monitoring | Did not exist | [A humanitarian agency's regional biomass yearly production and anomaly tables, computed from Copernicus dry-matter productivity using Sentinel-3 OLCI, PROBA-V and SPOT-VEGETATION data and published to administrative level 3 across West and Central Africa; the held capture is the dataset listing rather than the data](https://data.humdata.org/dataset/acf_biomass_west-africa) | Movement |
@@ -308,7 +312,7 @@ Against that, an African operator's AI factory took a place in the top fifty of 
 
 ### ICT Industry
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Africa Semiconductor Technical Advisory Group (ASTAG) | Did not exist | [An advisory group convened by AUDA-NEPAD with the CSIR, the African Academy of Sciences, South Africa's science ministry and a private partner, given twelve months to produce a refined Africa Semiconductor Roadmap for 2026-2030, a map of existing continental capability and frameworks for pooled regional infrastructure, across seven work streams running from critical minerals to RISC-V chip design](https://www.ninajojer.com/insights/auda-nepad-launches-africa-semiconductor-technical-advisory-group-astag-to-drive-continental-technological-sovereignty) | Movement |
 | Charging for business messages on a dominant messenger | Service messages on the business platform free of charge | [Free service messages to end from 1 October 2026, with businesses charged for every delivered message at rates varying by country and by message type, a cost increase for African companies that rely heavily on the messenger for customer service](https://www.wearetech.africa/fr/fils/breves/breves-simple/whatsapp-va-faire-payer-l-envoi-de-messages-aux-entreprises-des-octobre) | Regressed |
@@ -317,7 +321,7 @@ Against that, an African operator's AI factory took a place in the top fifty of 
 
 ### Innovation ecosystem
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Foundation startup incubation cohort | Did not exist | [A foundation-funded incubation programme opened applications for a second continental cohort of technology startups](https://msmeafricaonline.com/call-for-applications-mastercard-foundation-momentum-cohort-2-for-tech-startups-across-africa/) | Movement |
 | Multi-country mapping of innovation-support organisations | An earlier mapping under the same Europe-Africa programme in 2022, with workshops in Tunis, Kigali and Dakar feeding a planned white paper covering 12 countries (2022-05) | [A EUR120,000 procurement opened by a European development agency for a multi-country mapping of African entrepreneurship- and innovation-support organisations under a Europe-Africa digital innovation programme](https://opportunitiesforyouth.org/2026/08/07/advanced-entrepreneurship-and-innovation-support-organisations-ecosystem-mapping-2026-estdev-invites-bids-for-e120000-africa-europe-digital-innovation-bridge-procurement/) | Movement, a second mapping procured |
@@ -325,14 +329,14 @@ Against that, an African operator's AI factory took a place in the top fifty of 
 
 ### US / hyperscaler activities
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | America First Global Health Strategy data-sharing agreements | Did not exist; no bilateral United States health agreement of this kind on record before December 2025 | [Memorandums worth US$20bn signed with more than 30 countries since December 2025, on a model Data Sharing Agreement giving the United States at-will access to seven classes of national health system for 25 years with a 10-year post-termination tail; Ghana refused in April 2026, Zimbabwe withdrew in February 2026 and Zambia shelved in May 2026, and Kenya's framework is before the Court of Appeal with a final ruling due at the end of October 2026; the State Department's standard-form memorandum, held as a blank template dated 2026-03-11, commits a partner government to name and run its electronic medical record, laboratory, pharmacy, surveillance, commodity-inventory and national data warehouse systems, to load 90 per cent of clinical encounters into the electronic medical record within two years of rollout in a facility, to enter a data sharing agreement expected to run twenty-five years, and to provide specimens and genetic sequence data of pathogens with epidemic potential within five days of detection, with section 4.7 making failure on those commitments grounds for changing or discontinuing the assistance; the signed texts are withheld, the department having published a subset of the memorandums in March 2026 and then removed public access, and a freedom-of-information suit covering sixteen African countries (Public Citizen v. Department of State, No. 1:26-cv-01137, D.D.C.) was unresolved when filed on 2026-04-02; a rights organisation's clause-by-clause assessment of the seven signed memorandums it holds - Ethiopia, Kenya, Mozambique, Nigeria, Rwanda, Liberia and Uganda - reports that the model's terms were not applied uniformly: all seven require broad audit access, three (Liberia, Mozambique and Rwanda) commit to supplying any data requested for that audit with no privacy safeguard stated, two (Liberia and Nigeria) defer the data-sharing arrangement to an unpublished appendix, and the specimen and pathogen-sequencing clause appears in five of the seven, with Liberia and Kenya outside it Eight United States senators wrote to the Secretary of State in the week to 2026-08-19 challenging the demands for direct access to partner governments' own health-data systems as a condition of lifesaving aid, calling them unprecedented and at odds with United States policy on the data of American citizens, and requesting a briefing on the agreements' data requirements and a written answer by the end of August 2026.](https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid) | Movement, refused by three states and challenged in the United States Senate |
 | US-AUC Strategic Investment Working Group | Did not exist | [Agreed to channel US private investment into AU-backed infrastructure including digital transformation, on an investment-in-place-of-aid posture; no membership, meeting or work programme held](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-of-the-united-states-and-african-union-on-the-launch-of-a-strategic-investment-working-group) | Movement |
 
 ### China activities
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | African membership of the World Artificial Intelligence Cooperation Organisation | Did not exist | [Ten African states joined the twenty-nine founding members of a new World Artificial Intelligence Cooperation Organisation agreed at the 2026 World AI Conference in Shanghai, where the body is to be headquartered; Algeria, Cameroon, Ethiopia, Kenya and South Africa are among the African founders. The same announcement carried 5,000 artificial-intelligence training places for developing countries over five years and international application cooperation centres with partners including the African Union](http://www.china.org.cn/2026-09/01/content_118674053.shtml) | Movement |
 | ATU memorandum with the China Academy of Information and Communications Technology | The Union and the Chinese academy partnering on an SME digital-transformation initiative presented at WSIS, with no memorandum between them reported (2025-07) | [A memorandum signed in 2025 between the African Telecommunications Union and the China Academy of Information and Communications Technology on joint research, capacity development, technology transfer and next-generation networks, which the Union names as the foundation for its Secretary-General's participation in an Advanced Seminar on African Digital Development and Transformation that opened in Hangzhou on 24 August 2026, where he carried the priorities of its 52 member states](https://www.linkedin.com/posts/african-telecommunications-union-atu_the-advanced-seminar-on-african-digital-development-activity-7497568544029728768-a-Hc) | Movement, signing date not held |
@@ -343,13 +347,13 @@ Against that, an African operator's AI factory took a place in the top fifty of 
 
 ### EU activities
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | AU-Germany strategic dialogue | No dated session held in the repository | [Reviewed the partnership and named AI governance and cybersecurity among the areas for cooperation, within a dialogue that is principally about peace and security](https://au.int/en/pressrelease/strategic-dialogue-foreign-and-security-policy-between-african-union-commission-and) | Movement, marginal |
 
 ### India activities
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | India-Africa digital public infrastructure cooperation | Did not exist | [Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia completed a two-week mission to India under the UNDP's Africa Accelerator for Digital Public Infrastructure, travelling through Delhi, Pune and Bengaluru to examine India's digital identity, payment and data-exchange systems; no cooperation instrument, financing or country adoption commitment is published as an outcome.](https://www.biometricupdate.com/202609/african-delegations-study-indias-digital-identity-systems-under-undp-mission) | Movement |
 
@@ -363,7 +367,7 @@ None of the three carries a disbursement, a site or a delivery date in the repos
 
 ### Training and skills
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | AI training for African public officials (AfDB, UNDP AI Hub, Google, Apolitical) | Did not exist | [Free self-paced courses on AI fundamentals, AI leadership and AI-assisted procurement, developed by Stanford University Online and SDA Bocconi, open to serving officials in the development bank's regional member countries](https://www.afdb.org/en/news-and-events/press-releases/unga81-african-development-bank-group-and-partners-launch-free-ai-training-african-public-officials-97043) | Movement |
 | AYCE Digital (Advancing Youth Careers and Employment) | Did not exist | [Launched as a five-year foundation-funded digital-skills and employment initiative run by a United States university, targeting foundational digital literacy for more than 50,000 learners, intermediate workforce credentials for 10,000 and advanced technical certifications for 2,500 in fields including artificial intelligence, cloud computing and project management, delivered through universities, refugee-serving organisations and more than 100 local facilitators](https://news.asu.edu/20260827-local-national-and-global-affairs-new-asu-initiative-connects-young-people-across-africa) | Movement |
@@ -375,14 +379,14 @@ None of the three carries a disbursement, a site or a delivery date in the repos
 
 ### Access to services
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Cotonou Declaration on digital transformation in West and Central Africa | Did not exist | [Ministers committed to equipping persons with disabilities, alongside youth and women, with digital and entrepreneurial skills, and to creating two million digital-economy jobs benefiting those groups by 2028; the declaration sets out expected results, partnerships and financial commitments, governance and monitoring, and names no budget figure against the jobs target](https://www.worldbank.org/en/news/statement/2025/11/18/regional-summit-on-digital-transformation-in-western-and-central-africa-cotonou-declaration) | Movement |
 | AU community of practice on technology-facilitated violence against women | ***Baseline not held*** | [The AU Commission's first African community of practice on technology-facilitated violence against women and girls, with a SafeTech HackLab for innovators aged 18 to 35, run through its innovation lab with UN agencies](https://www.spotlightinitiative.org/latest/news/african-union-innofest-26-unveils-continental-coalition-and-youth-hacklab-combat) | ***Baseline not held*** |
 
 ### Digital divides
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Smartphone shipments and entry-level affordability | Three consecutive years of shipment growth to the second quarter of 2025, with aggressive price reductions in that quarter | [Shipments fell 7% year on year in the second quarter of 2026, the first decline in three years, with the sub-$100 segment down 34% - nearly three million units - and the average selling price up $41 to $202; the research house forecasts a 26% decline for 2026, memory now accounts for nearly 60% of the bill of materials for sub-$400 devices and over 64% under $99, and an entry-level handset can cost up to 73% of a low-income adult's monthly income in sub-Saharan Africa; the mobile industry association's 2026 connectivity report puts an entry-level internet-enabled handset at 76% of average monthly income for the poorest fifth in Sub-Saharan Africa at the end of 2025, against 44% across low- and middle-income countries, with memory prices more than doubling between the third quarter of 2025 and the first of 2026](https://www.gsma.com/newsroom/press-release/gsma-warns-of-emerging-global-ai-divide-as-three-billion-people-remain-offline-and-smartphone-component-costs-soar/) | Regressed |
 | Gender gap in internet use | ***Baseline not held*** | [43 per cent of African men used the internet in 2024 against 31 per cent of women, a gap of twelve percentage points, on the regional economic commission's 2019-2024 series](https://www.the-star.co.ke/news/infographics/2026-09-15-internet-users-in-africa-and-globally) | ***Baseline not held*** |
@@ -398,13 +402,13 @@ What is counted is attendance and intent: no completion, certification or employ
 
 ### Domestic budget appropriations and expenditure
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Share of the African Union's budget financed by its own members | About 22 to 25 per cent, a decade after the 2016 Kigali Decision | [Unchanged on the newest figure held; the Union's 2025 programme budget was 77.5 per cent externally funded](https://www.theafricareport.com/419860/afdb-says-africa-must-fund-its-own-growth-as-aid-model-frays/) | No change |
 
 ### MoUs and other agreements
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | Afreximbank Academy and CreditRegistry financial-literacy memorandum | Did not exist | [A three-year memorandum announced from Cairo on 25 August 2026 between the African Export-Import Bank's corporate academy and a credit-information company, integrating the latter's Africa Consumer Credit Academy curriculum into the academy's learning platform and covering digital financial literacy, credit education and trade capacity-building; it also undertakes to drive awareness and take-up of the bank's MANSA due-diligence repository and of PAPSS. A first initiative targets 20,000 to 30,000 learners, against a stated ambition of reaching about three million families and businesses](https://www.afreximbank.com/afreximbank-academy-and-creditregistry-join-forces-to-equip-millions-across-global-africa-with-financial-and-trade-skills/) | Movement |
 | AUC-Google memorandum on AI | Did not exist | [Signed on AI and cloud infrastructure, skills, research and AI policy, with a pledge to train three million students and teachers by 2030](https://cioafrica.co/auc-signs-partnership-with-google-to-advance-africas-ai-digital-capacity/) | Movement |
@@ -420,7 +424,7 @@ What is counted is attendance and intent: no completion, certification or employ
 
 ### New investments
 
-| Body, instrument or system | At 2025-10-01 | At 2026-10-22 | Progress |
+| Body, instrument or system | At 2025-10-01 | At 2026-10-23 | Progress |
 |---|---|---|---|
 | AfDB-AXIAN digital finance programme for women-led businesses | Provided for within a US$160m African Development Bank senior corporate loan to AXIAN Telecom approved on 31 January 2025, of which over US$10m was earmarked for 22,000 women entrepreneurs in Madagascar through the Mvola platform and a US$2.5m grant for financial literacy and credit access for 34,000 women-led businesses in Madagascar, Tanzania and Senegal; nothing launched | [Launched to reach more than 34,000 women-led enterprises in five African countries through the AXIAN Group's Mixx and Mvola digital financial services platforms, combining digital lending, financial literacy training and business development services, with support from the African Development Bank's Affirmative Finance Action for Women in Africa initiative and the Women Entrepreneurs Finance Initiative](https://afdb.africa-newsroom.com/press/african-development-bank-and-axian-launch-digital-finance-programme-to-support-34000-womenled-businesses-in-africa) | Movement |
 | Africa50 Infrastructure Acceleration Fund | A US$222.5m first close of December 2023, with the Development Bank of Southern Africa and Axian signing to invest in December 2024; no second close stated (2024-12) | [Fourth close of about US$330m, joined by British International Investment's US$20m commitment alongside the African Development Bank, the International Finance Corporation and more than 20 African institutional investors; the fund, managed by Africa Infrastructure Investment Partners, directs capital to logistics, power, water and sanitation and social infrastructure as well as digital connectivity; the size and date of the second and third closes are not established](https://von.gov.ng/british-international-investment-backs-africa50-with-20-million/) | Movement |

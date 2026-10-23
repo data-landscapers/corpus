@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: XAF
-ledger_rows: 111
+ledger_rows: 115
 not_held: 3
-record: a4a8e9650ce4
+record: 0d2af2eb7207
 ---
 
 # News, Sep – Oct 2026
@@ -43,6 +43,20 @@ record: a4a8e9650ce4
 **[AfCFTA Digital Trade Corridor to Cut Cost of Intra-African Commerce - Wamkele Mene](https://mydailynewsonline.com/2026/09/01/afcfta-digital-trade-corridor-to-cut-cost-of-intra-african-commerce-wamkele-mene/)** — MyDailyNewsOnline, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 The AfCFTA Secretary-General set out the case for the Digital Trade Corridor: cutting the cost and complexity of intra-African business by ending the routing of African payments through third countries.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DataCipation data-policy harmonisation project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DataCipation: Shaping Harmonised and Inclusive Digital and Data Policies in Africa](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)** — Research ICT Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Validated data policies for Gambia, Comoros, Somalia; Zambia draft; SA open data framework; implementation toolkit next.
 
 </div>
 
@@ -356,6 +370,14 @@ More than 100 stakeholders from 70 organisations, including health ministries fr
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[AU Member States Validate African Continental Health Data Governance Framework](https://africacdc.org/news-item/au-member-states-validate-african-continental-health-data-governance-framework/)** — Africa CDC, 22 October 2026
+
+AU member states validated the African Continental Health Data Governance Framework in Addis Ababa on 22 October 2026, the first common continental approach to governing health data, proposing a federated model for sharing across borders. Africa CDC will finalise it with the agreed amendments and take it through AU policy processes, with consideration expected in 2027.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -423,6 +445,28 @@ The African Commission on Human and Peoples' Rights invited comments by 8 Januar
 **[Primary Health Care Continental Coordination Mechanism (PHC-CCM) Outcome Statement](https://africacdc.org/news-item/primary-health-care-continental-coordination-mechanism-phc-ccm-outcome-statement/)** — Africa CDC, 8 October 2026
 
 African Union member states meeting in Addis Ababa on 4-5 June 2026 endorsed a Primary Health Care Continental Coordination Mechanism convened by Africa CDC, including a digital health forum on interoperability and data governance. They committed to apply the Africa Digital Health Maturity Assessment Tool and build costed digital health investment cases. Africa CDC posted the statement on 8 October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC audited accounts for 2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRINIC’s 2025 Audit Opinion Does Not Decide Its Litigation Risk](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-2025-audit-opinion-litigation-risk)** — btw.media, 21 October 2026
+
+Forvis Mazars unmodified opinion signed 22 May 2026; emphasis on Note 22 litigation, no provision recognised.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRINIC’s 2025 surplus fell 65% while income rose](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-2025-surplus-income-operating-cash)** — btw.media, 21 October 2026
+
+Income up 2.8% to US$6.289m, expenses up 86%; US$1.04m election costs, US$878k legal fees; operating cash down 75%.
 
 </div>
 
@@ -741,6 +785,20 @@ The African Union Commission's AI coordinator said 17 countries have now formall
 **[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI Lab, and an African Disability Data Network were launched at the Global Data Festival in Nairobi with backing from IDRC, the UK FCDO and AI4D. They plan to map disability-related datasets, build three new datasets, assess how national AI strategies treat disability and fund three startups with grants of up to KES 5 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sunflower open African-language models (Sunbird AI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sunbird AI Launches Sunflower v2, Expanding Open African-Language AI From 31 Ugandan Languages to 67 Across the Continent](https://sunbird.ai/sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-from-31-ugandan-languages-to-67-across-the-continent/)** — Sunbird AI, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+Five open models on Hugging Face: 67 African languages, ASR for 51, TTS for 20, an offline on-phone model.
 
 </div>
 
@@ -1103,6 +1161,20 @@ Ghana's police CID put Interpol's 2026 African Cyber Threat Assessment on the re
 **['Morocco CyberSecurity Week' Kicks off in Rabat](https://www.maroc.ma/en/news/morocco-cybersecurity-week-kicks-rabat)** — Maroc.ma (MAP), 12 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
 Morocco's information systems security directorate is hosting a three-day cybersecurity event in Rabat from 12 to 14 October, with an ITU exercise drawing representatives of about thirty countries. The African Network of Cybersecurity Authorities meets on its sidelines.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">INTERPOL-coordinated Operation Serengeti</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybercrime crackdown in Africa nets 1,462 arrests, recovers over USD 105 million](https://www.interpol.int/en/News-and-Events/News/2026/Cybercrime-crackdown-in-Africa-nets-1-462-arrests-recovers-over-USD-105-million)** — INTERPOL, 22 October 2026
+
+INTERPOL's Operation Serengeti III, run by police in 21 countries from 29 June to 31 August 2026, arrested 1,462 suspects, disrupted 10,909 malicious networks and recovered more than USD 105 million, against identified losses above USD 385 million and 65,929 victims. In Uganda alone, 365 foreign nationals were arrested over investment and pension frauds aimed at victims in Asia; the operation was co-funded by the EU-Council of Europe GLACY-e project.
 
 </div>
 
