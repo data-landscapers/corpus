@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-24-ia-et-ducation-le-pari-camerounais-pr-sent-p-kin",
+ "facts": [
+  {
+   "sub_indicator": "graduates",
+   "aspect": "nren",
+   "value": "service",
+   "fact": "Scoop Afrique, citing Minesup communiques, says the China-backed E-National Higher Education Network has equipped Cameroon's state universities with ten digital development centres interconnected by fibre.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "E-National Higher Education Network",
+   "class": "stemgraduates"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-National Higher Education Network",
+   "country_label": "E-National Higher Education Network",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Higher Education",
+   "tiers": ""
+  }
+ ],
+ "note": "No STEM graduate share is stated."
+}
