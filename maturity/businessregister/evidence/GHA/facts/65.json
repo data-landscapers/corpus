@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-08-gha-ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-service",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Vice President Bawumia listed business registration among the services that can be accessed through the CADIS app launched on 7 October 2024.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "CitizenApp Data Interoperability System (CADIS)",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -26,3 +26,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TZA,dpi.registry--business-register,fact,no evidence,3,TZA-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZWE,dpi.registry--business-register,review,no evidence,3,ZWE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-20,SDN,dpi.registry--business-register,fact,no evidence,3,SDN-001,"Sudan Dawn, October 2026: company and business-name transactions at the commercial registry are made through the Baladna platform, stalled for a week by a fault; online registration in service, no evidence to 3."
+2026-10-23,GHA,dpi.registry--business-register,fact,2,2,GHA-001,"CADIS launch story (Oct 2024) lists business registration on the app, but the Registrar-General called online registration a pilot in July 2026; newer stands, stays 2"
