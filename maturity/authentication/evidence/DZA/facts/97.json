@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-29-dza-algeria-reviews-national-ai-strategy-progress-and-approves-launch-of-d",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "iAfrica reports that the Dzair Digital Services portal, which has a digital identity system built in with the Ministry of the Interior, ran citizen pilots in March and April 2026 and was cleared for imminent launch at the government meeting of 25 May 2026.",
+   "as_of": "2026-05-25",
+   "date_precision": "day",
+   "system": "Dzair Digital Services digital identity",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzair Digital Services",
+   "country_label": "Dzair Digital Services",
+   "class": "other",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  },
+  {
+   "system": "Dzair Digital Services digital identity",
+   "country_label": "digital identity and electronic wallet of the portal",
+   "class": "authentication",
+   "platform": "",
+   "owner": "High Commission for Digitalisation; Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

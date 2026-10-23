@@ -1,0 +1,36 @@
+{
+ "slug": "2024-02-02-gha-191-financial-institutions-now-have-seamless-access-to-national-identi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIA Executive Secretary Kenneth Attafuah said in an interview reported on 2 February 2024 that institutions on the NIA personal verification platform verify the identities of people who transact with them in real time.",
+   "as_of": "2024-02-02",
+   "date_precision": "day",
+   "system": "NIA personal verification system platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Attafuah said the Bank of Ghana, all 24 universal banks, 145 rural banks, about eight savings and loans companies and about 14 other centres have been onboarded onto the NIA verification platform, 191 institutions in all.",
+   "as_of": "2024-02-02",
+   "date_precision": "day",
+   "system": "NIA personal verification system platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA personal verification system platform",
+   "country_label": "Ghana",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

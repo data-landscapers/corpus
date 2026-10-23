@@ -1,0 +1,46 @@
+{
+ "slug": "2024-06-18-tun-tunisie-nouvelle-application-e-houwiya-disponible-sur-l-app-store",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tunisia's Ministry of Communication Technologies announced on 18 June 2024 that the E-Houwiya app, which gives citizens aged 18 and over with a national ID card a free digital identity on their phone, with verification codes at each login and electronic signature using personal certificates and keys, is available for download.",
+   "as_of": "2024-06-18",
+   "date_precision": "day",
+   "system": "E-Houwiya",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The Ministry of Communication Technologies says E-Houwiya is designed for remote identification of service applicants and electronic signature across administrative procedures and government portals such as the citizen portal.",
+   "as_of": "2024-06-18",
+   "date_precision": "day",
+   "system": "E-Houwiya",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The Ministry of Communication Technologies says the E-Houwiya mobile digital identity app, available on Apple's App Store from 18 June 2024, enables remote identification, electronic signature of documents and online administrative procedures.",
+   "as_of": "2024-06-18",
+   "date_precision": "day",
+   "system": "E-Houwiya",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Houwiya",
+   "country_label": "E-Houwiya",
+   "class": "authentication",
+   "platform": "mobile app (App Store)",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

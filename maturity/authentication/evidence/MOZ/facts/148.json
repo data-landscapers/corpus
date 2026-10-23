@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-14-moz-sistema-de-certificacao-digital-mocambique-registou-crescimento-na-ade",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "INTIC says the free government digital signature service SCDM, at assinadoravancado.gov.mz, lets accredited users sign and verify electronic documents and is in use.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Sistema de Certificacao Digital de Mocambique (SCDM)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "INTIC says SCDM is in use at more than 10 public institutions, including the Imprensa Nacional, the Supreme Court and the Balcao de Atendimento Unico, between mid-2023 and end-2024.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Sistema de Certificacao Digital de Mocambique (SCDM)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de Certificacao Digital de Mocambique (SCDM)",
+   "country_label": "SCDM",
+   "class": "authentication",
+   "platform": "assinadoravancado.gov.mz; built with Brazil's LabSEC under a 2022 MoU",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

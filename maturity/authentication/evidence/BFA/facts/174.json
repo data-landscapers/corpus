@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-15-bfa-burkina-faso-modernisation-de-l-administration-publique-le-premier-min",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Prime Minister launched the FasoSign national e-signature platform on 15 September 2026; ANSSI's director general says it provides formal authentication of the signer and is already operational.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "FasoSign",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "ANSSI's director general says FasoSign is already operational on three government systems: SIGED (official correspondence), CIMEXT (mission orders) and SYC@D (land cession orders).",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "FasoSign",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FasoSign",
+   "country_label": "FasoSign",
+   "class": "authentication",
+   "platform": "national e-signature platform",
+   "owner": "ANSSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

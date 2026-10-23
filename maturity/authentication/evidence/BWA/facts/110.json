@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-10-bwa-electronic-id-system-aims-to-improve-efficiency",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Minister Pius Mokgware told Parliament the ministry is developing an Electronic Identification (Digital ID) system for secure verification and authentication across public and private services, with digital signatures, a pilot by end-2025 and full rollout targeted by end-2026.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Electronic Identification (Digital ID) system",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Identification (Digital ID) system",
+   "country_label": "Botswana",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Labour and Home Affairs",
+   "tiers": ""
+  },
+  {
+   "system": "Omang",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Labour and Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

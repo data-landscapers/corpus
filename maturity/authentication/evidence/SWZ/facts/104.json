@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-11-swz-felicia-dlamini-kunene-the-nexus-between-aml-cft-and-financial-inclusi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Financial institutions are integrated with the national database centre, the Eswatini Royal Science Technology Park, and verify customers' identification information against the national civil registry, a new development still to be improved, says the Central Bank Deputy Governor.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "digital verification of identification via the national database centre",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digital verification of identification via the national database centre",
+   "country_label": "Eswatini",
+   "class": "authentication",
+   "platform": "national civil registry check",
+   "owner": "Eswatini Royal Science Technology Park",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

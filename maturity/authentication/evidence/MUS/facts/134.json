@@ -1,0 +1,54 @@
+{
+ "slug": "2024-08-30-mus-digital-identity-card-1-mobile-app-1-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "News Moris, citing the Minister of Technology, Communication and Innovation, says the Mobile ID launched on 29 August 2024 and lets people sign documents digitally.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "News Moris says public organisations and businesses get a separate application to verify identities against the Mobile ID, with the citizen approving each request.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "News Moris says citizens can download the Mobile Wallet Application, a digital wallet holding their identity card, from Google Play and the Apple App Store, using a Maupass account.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Mobile ID (Mobile Wallet Application)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID (Mobile Wallet Application)",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "Ministry of Technology, Communication and Innovation",
+   "tiers": ""
+  },
+  {
+   "system": "MNIC Portal",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

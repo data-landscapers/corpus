@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-07-lbr-allafrica-nir-oesd-concession-awaits-legislature",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "A concession agreement signed with OeSD International GmbH would provide digital identity credentials, authentication and identity verification, but implementation awaits legislative ratification, NIR Executive Director Andrew Peters said on 4 September 2026.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "NIR/OeSD digital ID concession",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

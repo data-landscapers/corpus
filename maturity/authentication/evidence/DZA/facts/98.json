@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-16-dza-lancement-des-services-de-certification-et-de-signature-electroniques",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Horizons reports the official launch on 16 February 2025 of electronic certification and signature services for businesses by the AECE, with three certificate types (ThequaSign, Thequa ID, Thequa entreprise), a certification authority operational since 2021 and the first token handed over.",
+   "as_of": "2025-02-16",
+   "date_precision": "day",
+   "system": "Thequa (AECE)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Thequa (ThequaSign, Thequa ID, Thequa entreprise)",
+   "country_label": "DZA",
+   "class": "authentication",
+   "platform": "PKI",
+   "owner": "AECE",
+   "tiers": "economic operators; citizens later"
+  }
+ ],
+ "note": ""
+}

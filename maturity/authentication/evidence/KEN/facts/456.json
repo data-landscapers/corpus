@@ -1,0 +1,34 @@
+{
+ "slug": "2024-05-09-ken-digital-identity-id-roll-out-on-course-ps",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Kenya News Agency reports the Principal Secretary for Immigration and Citizen Services describing 'Maisha Digital', a virtual version of the third-generation Maisha card for using services from a phone, as part of a digital ID being rolled out.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "Maisha Digital",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Digital",
+   "country_label": "Kenya",
+   "class": "authentication",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  },
+  {
+   "system": "e-Citizen",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

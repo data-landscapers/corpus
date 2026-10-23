@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-sen-perspectives-du-senegal-sur-les-progres-realises",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The ANEC presentation of May 2025 describes NEKKAL delivering civil-status acts in electronic form authenticated by QR code and electronic signature, and offering online identity verification, with a demonstration of the tools.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NEKKAL",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

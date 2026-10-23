@@ -1,0 +1,44 @@
+{
+ "slug": "2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs says its digital verification service, in use, lets government departments and financial-sector businesses verify clients' identities by fingerprint and face against the National Population Register, and announced an upgrade rollout on 24 March 2025.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Home Affairs digital verification service",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The Department of Home Affairs says the verification service is used by government departments from National Treasury to SASSA and by financial-sector businesses, public and private.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Home Affairs digital verification service",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "National Population Register",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  },
+  {
+   "system": "Home Affairs digital verification service",
+   "country_label": "Home Affairs verification service",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

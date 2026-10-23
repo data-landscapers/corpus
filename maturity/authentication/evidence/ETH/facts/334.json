@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-09-eth-launch-ceremony-held-for-the-digital-certificate-service-ensuring-fayd",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "INSA announced on 9 December 2025 that it had officially launched the National Country Sign Certificate Authority, a root certificate authority now issuing digital certificates for the security of the Fayda digital ID.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "National CSCA",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National CSCA",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "INSA",
+   "tiers": "root certificate authority"
+  },
+  {
+   "system": "Fayda digital ID",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

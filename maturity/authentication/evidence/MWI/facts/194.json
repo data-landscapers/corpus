@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-20-mwi-making-national-id-work-beyond-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NRB Principal Secretary Mphatso Sambo said a service lets a bank connect to NRB to verify an individual's registration details, using the card's QR code.",
+   "as_of": "2024-07-20",
+   "date_precision": "day",
+   "system": "NRB identity verification service",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Mphatso Sambo said many banks are already integrated with NRB's verification service.",
+   "as_of": "2024-07-20",
+   "date_precision": "day",
+   "system": "NRB identity verification service",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRB identity verification service",
+   "country_label": "Malawi",
+   "class": "authentication",
+   "platform": "national ID card QR code, offline tool, fingerprint reader",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Smart Zambia Institute's general procurement notice for the World Bank-financed Digital Zambia Acceleration Project (US$6 million preparation advance) lists a consultancy to develop technical specifications for a mobile-based digital authentication and e-signatures solution, including PKI requirements.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "mobile-based digital authentication and e-signatures solution",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

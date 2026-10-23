@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-10-tcd-tchad-le-ministere-des-finances-et-l-anats-signent-un-accord-pour-secu",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Tchadinfos reports that on 10 March 2026 the finance ministry and ANATS signed a memorandum for secure consultation of the national biometric population register, to improve identification, verification and authentication in administrative and financial procedures, with banks and mobile money operators present.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Registre national biométrique de la population",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national biométrique de la population",
+   "country_label": "Registre national biométrique de la population",
+   "class": "other",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

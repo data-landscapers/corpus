@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-15-uga-dissemination-of-the-electronic-know-your-customer-evaluation-report",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "FSD Uganda says the e-KYC system lets supervised financial institutions verify customer identity in real time using the National Identification Number.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "e-KYC platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "FSD Uganda says 31 supervised financial institutions were integrated into the e-KYC system in its first phase, completed in 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "e-KYC platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-KYC platform",
+   "country_label": "Uganda",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

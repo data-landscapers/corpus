@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-14-mus-maupass-au-service-de-l-inclusion-numerique",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Maurice Info reports MauPass, a national digital identity platform, lets citizens and residents sign in securely using their national identity card or passport to access government e-services.",
+   "as_of": "2025-08-14",
+   "date_precision": "day",
+   "system": "MauPass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Maurice Info reports MauPass gives access to various government e-services with a single secure login, and the minister says more services will be added soon.",
+   "as_of": "2025-08-14",
+   "date_precision": "day",
+   "system": "MauPass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauPass",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

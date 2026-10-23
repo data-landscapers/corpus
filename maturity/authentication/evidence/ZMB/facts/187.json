@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-28-zmb-zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Smart Zambia Institute is piloting MOSIP's EET (e-Signet) as an intermediary layer connecting existing ID systems with digital services for biometric authentication and data sharing, per the SMART Zambia director.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "MOSIP e-Signet (EET)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP e-Signet (EET)",
+   "country_label": "e-Signet (EET)",
+   "class": "authentication",
+   "platform": "MOSIP",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

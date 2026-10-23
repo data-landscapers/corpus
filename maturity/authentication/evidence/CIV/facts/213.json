@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-24-civ-anssi-pki-racine-nationale-mise-en-service",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ANSSI CI announced on 24 July 2026 that the national public key infrastructure (PKI) is in service, at the top of the issuing tree for electronic certificates.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "PKI Racine Nationale",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "ANSSI CI states the national PKI is the trust base for all certification authorities operating in Cote d'Ivoire and supports the national electronic trust service providers.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "PKI Racine Nationale",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PKI Racine Nationale",
+   "country_label": "Cote d'Ivoire",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ANSSI CI",
+   "tiers": "root above certification authorities"
+  }
+ ],
+ "note": ""
+}

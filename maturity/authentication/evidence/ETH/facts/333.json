@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "National ID Ethiopia's deck says Fayda runs online and offline authentication, with 102M authentications at about 2M a day.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "National ID Ethiopia's deck says Fayda has 120+ integrations across banks, telecom, the Ministry of Revenue, education, the railway and land services.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National ID Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Mesob",
+   "country_label": "Ethiopia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-23-dza-lancement-des-identites-numeriques-des-citoyens-avant-fin-2024",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Interior ministry director general Redouane Mahfoudi announced that digital identity, based on the biometric electronic ID card and accessed by citizens securely from their mobile phone, would start to be handed to citizens before the end of 2024.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "digital identity (identite numerique)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identite numerique",
+   "country_label": "Algeria",
+   "class": "authentication",
+   "platform": "mobile phone, biometric electronic ID card",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

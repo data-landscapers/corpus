@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-10-dji-djibouti-la-plateforme-mobile-id-une-couche-de-securite-des-informatio",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Djibouti's president officially launched the Mobile ID platform on 9 February 2026, whose authentication combines the national ID card number and a digital fingerprint, per Digital Business Africa.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Digital Business Africa reports Mobile ID launched in Djibouti with three functions: payment authorisation, authentication and electronic signature.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Mobile ID",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Government of Djibouti",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-uga-uganda-moves-to-make-national-digital-id-number-its-tax-identifier",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Monitor, cited by Biometric Update, says URA's 80 fingerprint scanners, deployed in selected Kampala and Wakiso sites with a wider rollout from 26 October 2026, are meant to authenticate taxpayers and link their national ID details to tax records.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "URA biometric fingerprint scanners",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

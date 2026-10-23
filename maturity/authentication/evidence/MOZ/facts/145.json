@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-moz-mctd-e-eurocam-celebram-memorando-de-entendimento",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Minister Americo Muchanga said digital and mobile identity (digital wallets), the Mozambique Digital Certification System and wider electronic signatures are measures already under way.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Sistema de Certificacao Digital de Mocambique",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de Certificacao Digital de Mocambique",
+   "country_label": "SCDM",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

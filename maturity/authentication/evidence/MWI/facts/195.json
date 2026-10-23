@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mwi-national-registration-bureau-evolution-of-the-national-registration-bu",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National Registration Bureau's ID4Africa 2025 slides show offline and online authentication of the national ID through an NRB-signed QR code and NRB middleware linking verification agents and relying parties to the NRIS.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRB middleware / NRIS",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Registration Information System",
+   "country_label": "NRIS",
+   "class": "authentication",
+   "platform": "NRB middleware, signed QR code",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

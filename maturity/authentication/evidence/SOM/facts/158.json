@@ -1,0 +1,52 @@
+{
+ "slug": "2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIRA says it launched the HUBIYE Verifier Platform, which enables real-time verification of national ID credentials by public and private institutions.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "HUBIYE Verifier Platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "NIRA says it launched the e-Aqoonsi Digital ID App, which gives citizens a digital ID on their mobile devices for accessing online and offline services.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "e-Aqoonsi Digital ID App",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HUBIYE Verifier Platform",
+   "country_label": "HUBIYE",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "e-Aqoonsi Digital ID App",
+   "country_label": "e-Aqoonsi",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "Certificate Delivery System (CDS)",
+   "country_label": "CDS",
+   "class": "other",
+   "platform": "NIRA website",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

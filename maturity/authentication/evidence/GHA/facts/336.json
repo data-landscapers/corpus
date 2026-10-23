@@ -1,0 +1,46 @@
+{
+ "slug": "2024-10-08-gha-ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-service",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Biometric Update reports that on 7 October 2024 Ghana launched CADIS, which verifies identity by scanning the Ghana Card and entering a phone number, with biometric single sign-on drawing on National Identification Authority data.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "CitizenApp Data Interoperability System (CADIS)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Vice President Bawumia said the CADIS app gives access to several public services in one place through one biometric single sign-on, including civil registration, passports, driver's licences, tax filing, business and vehicle registration and health insurance.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "CitizenApp Data Interoperability System (CADIS)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Biometric Update describes the CADIS mobile app as providing digital ID, with users verifying their identity in the app by Ghana Card scan and phone number to create a digital ID.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "CitizenApp Data Interoperability System (CADIS)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CitizenApp Data Interoperability System (CADIS)",
+   "country_label": "Ghana",
+   "class": "authentication",
+   "platform": "mobile app, described as blockchain-based",
+   "owner": "Office of the President with the Ghana Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

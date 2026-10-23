@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-20-sle-to-fast-track-nin-integration-with-telecom-services-ncra-natca-sign-mo",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NatCA's NIN-SIM project coordinator said a technical committee had integrated NCRA's database with mobile operators' systems, enabling real-time cross-checking of subscriber information.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "NIN-SIM integration (NCRA database link to operators)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-SIM integration",
+   "country_label": "SLE",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NCRA, NatCA and mobile network operators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

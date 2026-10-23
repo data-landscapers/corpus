@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-17-som-somalia-launches-danabeysan-digital-signature-system-to-streamline-gov",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Somalia's Minister of Finance Biihi Imaan Igeh launched the Danabeysan platform in Mogadishu, which replaces paper-based authorisation of government payments with electronic signatures.",
+   "as_of": "2025-08-17",
+   "date_precision": "day",
+   "system": "Danabeysan",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Danabeysan",
+   "country_label": "Danabeysan",
+   "class": "authentication",
+   "platform": "digital signature platform",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

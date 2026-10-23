@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-01-lby-executive-summary-digital-identity-project",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The NESDB executive summary says the General Information Authority is the body authorized to implement the digital identity project, with NESDB supervising, to issue and verify a digital ID wallet for each citizen; it presents a proposed framework and roadmap, not a service in use.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Libya digital identity project (digital identity wallet)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Libya digital identity project (digital identity wallet)",
+   "country_label": "Libya",
+   "class": "authentication",
+   "platform": "mobile wallet app with central issuance and verification system",
+   "owner": "General Information Authority (implementing), NESDB (supervising)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

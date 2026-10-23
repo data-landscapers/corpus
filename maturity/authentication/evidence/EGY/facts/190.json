@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-26-egy-masrtimes-mcit-launches-digital-identity-remote-mobile-services",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Masr Times reports that the communications ministry, through NTRA, launched the 'Digital Identity' biometric verification system, which matches a face and biometric data to Civil Status Authority records and is being applied on a pilot, gradual basis.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Digital Identity (electronic biometric verification)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Masr Times reports the verification infrastructure is open to the four licensed mobile operators and integrates licensed e-signature firms, with services varying by operator during the pilot.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Digital Identity (electronic biometric verification)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Identity (electronic biometric verification)",
+   "country_label": "Egypt",
+   "class": "authentication",
+   "platform": "",
+   "owner": "MCIT / NTRA",
+   "tiers": "pilot, four mobile operators"
+  }
+ ],
+ "note": ""
+}

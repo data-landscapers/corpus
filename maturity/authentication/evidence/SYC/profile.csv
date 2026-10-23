@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SYC,authentication,service,coverage,inservice,2026,SYC-001;SYC-002;SYC-004;SYC-006;SYC-007;SYC-009,SYC-005=underway;SYC-003=underway,
 SYC,authentication,reach,coverage,,,,,nothing held
-SYC,authentication,remote,coverage,,,,,nothing held
+SYC,authentication,remote,coverage,wallet,2024-04-22,SYC-010,,

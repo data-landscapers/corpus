@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-17-dji-le-ministere-de-l-interieur-accelere-le-virage-de-l-identite-numerique",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "La Nation reports the Interior Ministry launched the Mobile ID project with TO7 Network, giving citizens a secure digital identifier and an electronic certificate, led jointly by the National Cybersecurity Authority and the population directorate, with pilot phases planned before wide rollout.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Mobile ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID",
+   "country_label": "Djibouti",
+   "class": "authentication",
+   "platform": "mobile phone",
+   "owner": "Ministry of Interior",
+   "tiers": "digital identifier and electronic certificate; legal framework pending"
+  }
+ ],
+ "note": ""
+}

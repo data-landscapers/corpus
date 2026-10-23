@@ -1,0 +1,52 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The deck says financial institutions integrate by API with the national digital identity system, giving electronic identity verification, through the NRB eKYC database.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRB eKYC APIs",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The deck says banks, payment service providers, social protection programmes (beneficiary verification) and SIM registration with MACRA use the NRB identity system for verification.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRB eKYC APIs",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NRB national digital identity system",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "NRB eKYC database and ID/Account Mapper",
+   "country_label": "Malawi",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  },
+  {
+   "system": "National Switch Limited",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

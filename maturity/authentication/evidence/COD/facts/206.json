@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-21-cod-activites-et-services-numeriques-en-rdc-l-arptc-lance-l-operation-d-id",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANCE (Autorité de Certification Électronique)",
+   "country_label": "COD",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The document names the electronic certification authority as not yet operational and states no authentication service under way or in service."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-tza-tanzania-digital-identity-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIDA's ID4Africa 2026 deck reports ID verification against the national ID in service, earning USD 66.4 million in revenue.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIDA ID verification",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIDA reports that 147+ institutions are integrated with the national ID through its integration layer, including telecoms, banks, health insurance, social security and the tax authority.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIDA integration layer (CIG)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA ID verification",
+   "country_label": "Tanzania",
+   "class": "authentication",
+   "platform": "Integration Layer (CIG)",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

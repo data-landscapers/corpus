@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-30-nga-credible-inclusive-national-identity-management-system-fundamental-to",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The State House says President Tinubu launched the NINAuth App, a mobile identity authentication application developed by NIMC, on 30 October 2025, with about 1.3 million verification hits a day.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "NINAuth",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The State House says NINAuth is a digital, mobile-based identity authentication app launched on 30 October 2025, for citizens and residents to prove identity to businesses and services.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "NINAuth",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "National Identity Management Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

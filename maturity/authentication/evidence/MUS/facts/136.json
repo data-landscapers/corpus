@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-14-mus-maupass-national-campaign",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Information Technology, Communication and Innovation says MauPass, Mauritius's digital ID platform, lets every citizen log in securely to government platforms.",
+   "as_of": "2025-06-14",
+   "date_precision": "day",
+   "system": "MauPass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The ministry says through MauPass citizens can log in to government platforms, apply for online certificates and renew the Motor Vehicle License.",
+   "as_of": "2025-06-14",
+   "date_precision": "day",
+   "system": "MauPass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauPass",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

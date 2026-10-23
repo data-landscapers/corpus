@@ -1,0 +1,46 @@
+{
+ "slug": "2025-05-01-uga-digitally-trusted-uganda",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NITA-U's slides describe UgPass services in use: passwordless strong authentication for e-services, digital signature with PKI certificates, APIs and e-seal.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "UgPass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NITA-U reports UgPass has 10M+ subscribers, 35+ MDAs and hundreds of service providers, including NITA eDOC, electronic government procurement and I&M Bank.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "UgPass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "NITA-U's slides list a UgPass app among UgPass 1.0 components and show a Digital Credential Wallet and mobile digital signing in the enhanced UgPass 2.0.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "UgPass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UgPass",
+   "country_label": "UgPass",
+   "class": "authentication",
+   "platform": "DAES platform (UgPass 1.0)",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

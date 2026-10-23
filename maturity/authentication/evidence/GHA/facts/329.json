@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-12-gha-bog-notice-bg-gov-sec-2025-36-revised-ghana-card-notice",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The notice sets duties on banks (biometric verification, liveness checks, multifactor authentication) and names no authentication service of the ID system."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2025-03-30-tza-tanzania-s-ministry-of-communication-and-information-technology-partne",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "A joint release by the Ministry of Communication and Information Technology and IDEA, posted by Co-Develop, says they will implement Jamii Wallet for citizens, with pilot programmes before nationwide scaling.",
+   "as_of": "2025-03-30",
+   "date_precision": "day",
+   "system": "Jamii Wallet",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jamii Wallet",
+   "country_label": "Tanzania",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Communication and Information Technology",
+   "tiers": ""
+  },
+  {
+   "system": "Jamii Namba",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

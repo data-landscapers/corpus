@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ANIP's ID4Africa 2026 presentation reports 27 million identity verification requests in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ANIP identity verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

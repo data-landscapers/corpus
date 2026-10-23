@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-04-nga-nigeria-telcos-eligible-to-offer-nin-verification-for-sim-card-service",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIMC's NINAuth digital ID authentication platform, unveiled in May 2025, is in service; NIMC says its Verification and Authentication Service platforms are accessible to all.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "NINAuth",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIMC announced that all telecommunications firms have migrated to NINAuth and are cleared to verify the NIN for registering, swapping or migrating SIM cards.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "NINAuth",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth",
+   "country_label": "NINAuth",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

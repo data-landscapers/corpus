@@ -1,0 +1,44 @@
+{
+ "slug": "2025-02-03-ben-wuri-benin-appel-a-manifestation-d-interet-pour-le-recrutement-de-cabi",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The WURI Benin project's call for consultants refers to Benin's existing national PKI (an RSA Root CA, a government issuing CA, OCSP, TSA and CRL servers, and a remote signing engine formerly TrustedX) which it asks the firm to upgrade.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "national PKI (RSA Root CA, Gov CAI)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The WURI Benin project, World Bank financed, is recruiting a firm (six-month mission, submissions due 20 February 2025) to build a new ECC Root CA and an ISO 18013-5 issuing CA and to give Digital ID Wallet users signing and OIDC-federated authentication capabilities.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "national PKI / Digital ID Wallet",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national PKI (Gov CAI, Root CA)",
+   "country_label": "Benin",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Government of Benin (WURI project)",
+   "tiers": ""
+  },
+  {
+   "system": "fID card",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

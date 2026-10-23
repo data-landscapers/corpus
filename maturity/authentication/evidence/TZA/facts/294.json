@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-02-tza-nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Government spokesman Gerson Msigwa said that by August 2026 157 institutions, 72 public and 85 private, were linked to NIDA's registration and identification system, which lets them verify the people they serve.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NIDA registration and identification system",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA national ID system",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

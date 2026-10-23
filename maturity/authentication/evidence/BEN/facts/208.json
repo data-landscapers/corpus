@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The WURI-Benin national coordinator reports more than 15.7 million digital authentications performed by ANIP through X-Road, and lists digital certificates for authentication and signature (PKI) among Benin's reforms.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ANIP authentication via X-Road",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The WURI-Benin coordinator says 19 national public services are linked to the RNPP system and that the unique personal number (NPI) is required as user identifier in online services.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RNPP / NPI",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  },
+  {
+   "system": "TrustedX platform",
+   "country_label": "Benin",
+   "class": "authentication",
+   "platform": "TrustedX",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

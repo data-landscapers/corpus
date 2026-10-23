@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-04-moz-comite-gestor-do-sistema-de-certificacao-digital-de-mocambique-aprova",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "INTIC reports that on 30 June 2025 the SCDM Management Committee approved the State Root CA certificate, opening accreditation of second-level certification entities such as CEDSIF and Movitel, which are still preparing.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "SCDM (Sistema de Certificação Digital de Moçambique)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sistema de Certificação Digital de Moçambique (SCDM)",
+   "country_label": "MOZ",
+   "class": "authentication",
+   "platform": "PKI",
+   "owner": "INTIC",
+   "tiers": "State Root CA; second-level CAs in preparation"
+  }
+ ],
+ "note": ""
+}

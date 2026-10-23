@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-16-rwa-how-to-apply-for-single-digital-id-adult-self-pre-enrollment",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "IremboGov's online Single Digital ID adult self-pre-enrolment verifies an applicant against their National ID or NIDA application number by face scan, with a one-time password sent to the registered phone as fallback.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Irembo Single Digital ID self-pre-enrollment",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Digital ID (SDID)",
+   "country_label": "Single Digital ID",
+   "class": "other",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  },
+  {
+   "system": "Irembo",
+   "country_label": "IremboGov",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

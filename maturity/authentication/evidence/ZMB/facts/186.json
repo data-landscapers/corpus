@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-21-zmb-zambia-issues-general-procurement-notice-for-digital-id-trust-services",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "SMART Zambia has been piloting MOSIP's e-Signet tool since mid-2024 under the Digital Zambia Acceleration Project, to connect the country's digital ID to public services with biometric authentication.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "MOSIP e-Signet",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "A general procurement notice published in December 2024 lists a consultancy to study existing digital ID elements and suggest a mobile-based digital authentication and digital signatures solution.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "mobile-based digital authentication and digital signatures solution",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP e-Signet",
+   "country_label": "e-Signet (MOSIP EET)",
+   "class": "authentication",
+   "platform": "MOSIP",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

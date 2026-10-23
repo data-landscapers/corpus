@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-03-mar-decision-n-2-psco-2025-portant-agrement-de-la-societe-damanesign-en-qu",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "DGSSI, acting as national trust services authority, approved Damanesign on 3 March 2025 to issue qualified electronic signature and electronic seal certificates, the approval valid two years to 3 March 2027.",
+   "as_of": "2025-03-03",
+   "date_precision": "day",
+   "system": "DamaneSign Qualified Signature",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DamaneSign Qualified Signature",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Damanesign",
+   "tiers": "qualified e-signature certificates"
+  },
+  {
+   "system": "DamaneSign Qualified Seal",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Damanesign",
+   "tiers": "qualified e-seal certificates"
+  }
+ ],
+ "note": ""
+}

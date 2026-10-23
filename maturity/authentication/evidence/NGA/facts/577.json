@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-31-nga-nimc-begins-migration-of-telcos-to-ninauth-for-identity-verification",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "BusinessDay quotes NIMC saying the NINAuth National Identification Number authentication platform is fully operational, with the migration of telecom operators onto it finished in July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NINAuth",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIMC says all telecom operators now use NINAuth to verify SIM registration, swap, migration and retrieval requests, and that it offers single sign-on access to services.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NINAuth",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINAuth",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": "NIN authentication platform with single sign-on"
+  }
+ ],
+ "note": ""
+}

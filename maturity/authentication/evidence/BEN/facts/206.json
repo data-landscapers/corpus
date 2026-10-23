@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-07-ben-l-asin-signe-plusieurs-accords-de-partenariat-pour-accelerer-la-transf",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ASIN states it holds the role of National Root Certification Authority, and signed an agreement with Quality Corporate in June 2025 to consolidate that role and widen electronic trust services such as e-signature, digital identity and e-seal.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Autorite de Certification Racine Nationale",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "ASIN signed a memorandum of understanding with Orbus Digital Services in June 2025 on its integration into Benin's national public key infrastructure (PKI).",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Infrastructure nationale a Cle Publique (PKI)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Infrastructure nationale a Cle Publique (PKI)",
+   "country_label": "Benin",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ASIN",
+   "tiers": "national root certification authority"
+  }
+ ],
+ "note": ""
+}

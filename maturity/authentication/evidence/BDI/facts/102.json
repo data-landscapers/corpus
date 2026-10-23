@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-bdi-central-bank-of-burundi-presentation-at-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Bank of the Republic of Burundi's Deputy Governor says a contract was signed in November 2024 for a central bank biometric financial ID system, with testing planned on two commercial banks and two mobile money operators.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Central bank biometric financial ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central bank biometric financial ID",
+   "country_label": "Burundi",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Bank of the Republic of Burundi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

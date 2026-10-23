@@ -1,0 +1,44 @@
+{
+ "slug": "2024-10-01-mus-mokloud-plateforme-en-ligne-pour-vos-demarches-sans-deplacement",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Le Mauricien reports that Maupass is a platform that authenticates users to reach government digital services, with a login and a one-time code by SMS or email to open MoKloud.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "Maupass",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Le Mauricien reports that Maupass logins give access to MoKloud services from several bodies, including the National Transport Authority, the Registrar, Local Authorities and the Supreme Court.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "Maupass",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maupass",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MoKloud",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "web and mobile app",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-01-tgo-certification-electronique",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ARCEP Togo's page describes a certification authority that accredits trust service providers and auditors and publishes an official trust list.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "ARCEP trust list",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "ARCEP Togo's trust list shows three trust service providers (Axendit Togo, Augura Technologies Togo, Chronoservices International) accredited on 19 February 2026 for three years, with no qualified auditor yet.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "ARCEP trust list",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARCEP trust list (liste de confiance)",
+   "country_label": "TGO",
+   "class": "authentication",
+   "platform": "PKI",
+   "owner": "ARCEP Togo",
+   "tiers": "accredited providers; qualified providers; qualified auditors (none yet)"
+  }
+ ],
+ "note": ""
+}

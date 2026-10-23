@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-16-gha-institutions-urged-to-use-nia-ivsp-for-authentic-ghana-card-verificati",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National Identification Authority said its Identity Verification System Platform (NIA IVSP) is the only approved and secure method for real-time Ghana Card identity verification and urged institutions to onboard onto it.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "NIA IVSP",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA Identity Verification System Platform (IVSP)",
+   "country_label": "Ghana",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
