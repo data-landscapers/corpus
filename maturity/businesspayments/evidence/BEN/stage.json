@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BEN-004",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: 757 calls to tender were published on SIGMaP in 2023 (BEN-004), a figure inside the window; a replacement platform is being acquired (BEN-003, BEN-005).",
+      "as_at": "2026-10-23"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "2",
-   "system": "underway",
-   "endtoend": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "4",
+      "system": "inservice",
+      "endtoend": "endtoend",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-004;LBR-002",
+      "gaps": "No source held since October 2023 gives a figure for e-procurement.",
+      "note": "Rebuild, raised from 2: three held stories on Liberia's e-GP, unread in the first pass, were read. The national system was launched in February 2025 and takes bids (LBR-002), with 56 entities onboarded (LBR-003), and runs from advertisement to award (LBR-004); its published counts are of vendors and fees, not tenders.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

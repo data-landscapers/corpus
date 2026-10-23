@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "business",
+  "aspect": "system;reported",
+  "fact": "The MAPS assessment (September 2024) states Cabo Verde is in an ongoing transition to e-GP under Decree-Law 11/2023, that the eCompras portal has inadequacies in the transition, and that procurement statistics are scarce (only 14% of contracts publicly disclosed).",
+  "title": "Assessment of Cabo Verde Public Procurement System 2024",
+  "publisher": "ARAP / African Development Bank",
+  "published": "2024-09",
+  "date_source": "source",
+  "why_not": ""
+}

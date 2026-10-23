@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "5",
+      "stage": "3",
       "system": "inservice",
-      "endtoend": "endtoend",
-      "reported": "reported",
+      "endtoend": "",
+      "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-003",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZAF-002",
+      "gaps": "No source held since October 2023 says e-procurement runs end to end or is required of all public bodies; the 2022 mandate to publish on the e-Tender Portal is outside the window.",
+      "note": "Rebuild, lowered from 5: organs of state publish tenders on eTenders (ZAF-002, 2024). The MAPS figures are shares of organs of state publishing (ZAF-003), not tenders, value or share of purchasing, and the mandate to publish (ZAF-004) dates from 2022, outside the window.",
+      "as_at": "2026-10-23"
     }
   ]
 }

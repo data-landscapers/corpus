@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "2",
-   "system": "underway",
-   "endtoend": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001",
-   "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "unplaced",
+      "system": "",
+      "endtoend": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says an e-procurement or supplier-payment system is procured, being built, piloted or in service.",
+      "note": "Rebuild, lowered from 2: the only row (TCD-001) is a budget orientation that an electronic payment system will launch in 2027; a stated plan is not a system procured, built or piloted.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

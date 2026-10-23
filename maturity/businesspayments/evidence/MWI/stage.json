@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "5",
-   "system": "inservice",
-   "endtoend": "endtoend",
-   "reported": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-businesspayments.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "5",
+      "system": "inservice",
+      "endtoend": "endtoend",
+      "reported": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-002",
+      "gaps": "",
+      "note": "Rebuild: 562 tenders had been published on MANePS by 5 October 2026 (MWI-002). The count of procurement plans uploaded (MWI-004) is not a figure for tenders and no longer sets the stage.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

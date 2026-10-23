@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "business",
+ "aspect": "system;endtoend",
+ "fact": "As of 20 May 2026 the APPEL modules for procurement plans, procedure management, tender-document preparation and publication, automatic bid opening and electronic bid submission are operational, while the evaluation and award, disputes and derogatory-procedure modules were still being presented as complementary modules.",
+ "title": "Dématérialisation et intégration de nouveaux modules : la plateforme APPEL étend ses fonctionnalités",
+ "publisher": "ARCOP",
+ "published": "2026-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

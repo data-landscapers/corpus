@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GNQ-001",
       "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: a firm is mandated to implement an e-GP system and has drawn its outline and roadmap (GNQ-001, 2024); nothing is in service.",
+      "as_at": "2026-10-23"
     }
   ]
 }

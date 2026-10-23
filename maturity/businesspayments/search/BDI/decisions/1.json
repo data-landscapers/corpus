@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "business",
+  "aspect": "system",
+  "fact": "PAFEN published a specific procurement notice for the design, custom development and deployment of an end-to-end e-GP system for Burundi.",
+  "title": "Avis Spécifique de Passation de Marché relatif à « la Conception, le développement sur mesure et le déploiement d'un Système Électronique de Passation des Marchés Publics (e-GP) de bout en bout entièrement personnalisé pour la République du Burundi »",
+  "publisher": "PAFEN",
+  "published": "2026-09-24",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "KEN-002;KEN-004",
       "gaps": "No source held since October 2023 gives a figure for e-procurement.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: all government procurement goes through e-GP from 1 July 2026 (KEN-002), with no exemptions (KEN-004); no figure for its use is held.",
+      "as_at": "2026-10-23"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COD-001;COD-002",
       "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: SIGMAP has not reached production and pilot procurement cells are being equipped (COD-001, COD-002, 2026).",
+      "as_at": "2026-10-23"
     }
   ]
 }

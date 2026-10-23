@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [ZARP](<https://techcabal.com/2026/09/21/is-the-use-case-for-local-stablecoins-big-enough/>); [ZARsc](<https://techcabal.com/2026/09/21/is-the-use-case-for-local-stablecoins-big-enough/>); [MTN MoMo](<https://techcabal.com/2026/09/04/serigne-dioums-mtn-fintech-vision-goes-beyond-mobile-money/>); [PayShap](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [QR+](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [Central Supplier Database](<https://www.gov.za/news/media-statements/treasury-launches-central-supplier-database-and-e-tender-publication-portal>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held since October 2023 says e-procurement runs end to end or is required of all public bodies, or gives the tenders, value or share of purchasing through eTenders.

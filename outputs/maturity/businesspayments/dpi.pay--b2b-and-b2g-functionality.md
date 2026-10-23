@@ -1,6 +1,6 @@
 # B2B and B2G functionality: b2b and b2g functionality
 
-*As at 2026-10-18.*
+*As at 2026-10-23.*
 
 ## The norm
 
@@ -20,12 +20,12 @@ The AfCFTA Digital Trade Protocol asks states to enable electronic transactions,
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 13 |
-| 4 Operating | 2 |
+| 5 Leading | 11 |
+| 4 Operating | 4 |
 | 3 Established | 7 |
-| 2 Nascent | 19 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
+| Unplaced | 11 |
 | No evidence | 5 |
 
 ## Countries
@@ -64,7 +64,7 @@ Figures for government e-procurement were reported in 2025.
 
 Figures for government e-procurement were reported in 2026.
 
-- The PPDA e-Government Procurement Manager says 232 PDEs uploaded their Annual Procurement Plans out of the 250 targeted in the first phase ([source, 2026-03](https://www.ppda.mw/newsdetail/58)).
+- The PPDA reports MANePS had 7,417 registered suppliers, 216 of 250 targeted 2026/27 procurement plans published (86 percent), 560 procurement notices and 562 tenders as of 5 October 2026 ([source, 2026-10-05](https://www.ppda.mw/newsdetail/89)).
 
 ### Mauritius: 5 Leading
 
@@ -72,23 +72,11 @@ Figures for government e-procurement were reported in 2024.
 
 - The Procurement Policy Office reports that in 2023/24 public bodies published 7,681 electronic invitations for bids, received 18,599 electronic bid submissions, and awarded 4,938 contracts above Rs 100,000 through the e-PS against 3,819 paper-based ([source, 2024-06](https://ppo.govmu.org/Documents/Annual%20Reports/Annual%20Report%202023-2024.pdf)).
 
-### Namibia: 5 Leading
-
-Figures for government e-procurement were reported in 2025.
-
-- Mishra gave a figure for use: the existing e-procurement portal is used by less than 5% of public entities ([source, 2025-05](https://www.namibian.com.na/world-bank-recommends-end-to-end-e-government-procurement-system/)).
-
 ### Senegal: 5 Leading
 
 Figures for government e-procurement were reported in 2026.
 
 - ARCOP gives figures for APPEL: nearly 400 registered suppliers, over 80 procurement plans published for 2025 and since January 2026, and 15 procedures launched, nine with electronic opening of bids ([source, 2026-02-12](https://arcop.sn/2026/02/12/premiers-resultats-encourageants-sur-la-plateforme-appel-4-mois-de-mise-en-oeuvre-plus-de-400-fournisseurs-inscrits-80-ppm-publies-et-15-procedures-lancees/)).
-
-### South Africa: 5 Leading
-
-Figures for government e-procurement were reported in 2024.
-
-- The MAPS assessment gives eTenders use figures for 2023-2024: 73% of registered organs of state published tenders, 12% uploaded procurement plans and 3% published contract notices ([source, 2024-08](https://www.treasury.gov.za/comm_media/press/2024/MAPS%20Assessment%20South%20Africa.pdf)).
 
 ### Tanzania: 5 Leading
 
@@ -115,6 +103,19 @@ Government e-procurement ran end to end in 2026; figures for its use are not rep
 - Treasury Cabinet Secretary John Mbadi said in the 2026/27 Budget Statement that all procurement by government entities will go through e-GP from 1 July 2026, a platform covering the whole cycle from tender advertisement to contract management ([source, 2026-06-11](https://www.the-star.co.ke/news/2026-06-11-all-government-procurement-to-go-through-e-gp-from-july-1)).
 - Mbadi says there will be no exemptions in use of the e-GP system across ministries, departments, agencies, counties and state corporations ([source, 2025-08-29](https://www.kenyanews.go.ke/treasury-to-fast-track-rollout-of-electronic-procurement-system/)).
 
+### Liberia: 4 Operating
+
+Government e-procurement ran from advertisement to award in 2026; figures for tenders or value through it are not known.
+
+- Tech Africa News reports the PPCC's e-GP system lets government institutions plan, advertise, evaluate and award procurement contracts digitally, replacing the manual process; more than 1,200 vendors are registered and the platform has raised more than US$400,000 in fees ([source, 2026-08-05](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/)).
+- The Liberian Observer reports the President formally launched the national e-GP system in February 2025, after a six-institution pilot; businesses register, bid and manage contracts on it, and Sierra Leone's procurement authority studied it in August 2026 as a working, deployed system ([source, 2026-08-07](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html)).
+
+### Namibia: 4 Operating
+
+All public entities were required to use the e-procurement portal in 2025; figures for tenders or value through it are not known.
+
+- The Procurement Policy Unit says all public entities are required to upload their procurement documents to the e-GP Portal; an end-to-end platform is planned as phase two ([source, 2025-05-27](https://appn-racop.org/upidrots/2025/05/Mr.-Phineas-Nsundano-PRESENTATION-on-the-Impact-of-MAPS-AND-E-GP-Namibia.pdf)).
+
 ### Rwanda: 4 Operating
 
 Government e-procurement ran end to end in 2024; figures for its use are not reported.
@@ -133,18 +134,11 @@ A government e-procurement system was in service in 2025; end-to-end use is not 
 
 - The SNCP director says public contracting entities publish their procedures and annual plans on the Portal de Compras Públicas, per ANGOP ([source, 2025-06-19](https://angop.ao/noticias/economia/sncp-perspectiva-plataforma-para-facilitar-contratacao-publica/)).
 
-### Gambia: 3 Established
+### Cape Verde: 3 Established
 
-A government e-procurement system was in service in 2025; end-to-end use is not known.
+A government e-procurement portal was in service in 2026; whether it is used end to end is not known.
 
-- GPPA Director General Phoday Jaiteh reports that over the past two years the authority has successfully implemented a new e-procurement portal ([source, 2025-08-18](https://foroyaa.net/procurement-drives-value-in-managing-resources-says-gppa-dg-jaiteh/)).
-
-### Guinea: 3 Established
-
-A government e-procurement system was in service in 2026; end-to-end use is not known.
-
-- The ARMP states that the national e-GP platform Telemo entered a new phase of use in September 2026, with companies registering on it and the system described by its Director General as in place and under way ([source, 2026-09](https://armpguinee.org/commande-publique-larmp-la-dgcmp-et-la-banque-mondiale-font-le-point-sur-levolution-telemo/)).
-- Guinea rolled out TELEMO, a national e-procurement platform from a Guinea-Rwanda South-South partnership, officially launched on 17 November 2025 on behalf of the Head of State, per Smart Africa ([source, 2025-11-17](https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee)).
+- The Government of Cabo Verde states that electronic public procurement has existed since 2020, with Central State Administration procedures progressively carried out through the official public purchasing portal ([source, 2026-03-19](https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/)).
 
 ### Mauritania: 3 Established
 
@@ -158,12 +152,18 @@ A government e-procurement system was in service in 2025; end-to-end use is not 
 
 - The government officially launched the Portal dos Contratos Públicos, described as the country's first electronic platform of its kind, centralising procurement notices, contracts and tender plans ([source, 2025-11-22](https://glebatv.st/todas-noticias/sao-tome-e-principe-lanca-portal-dos-contratos-publicos-para-reforcar-transparencia)).
 
+### South Africa: 3 Established
+
+Government tenders were published online in 2024; whether e-procurement runs end to end is not known.
+
+- The OECD, World Bank and AfDB MAPS assessment says South Africa's organs of state publish tenders on the eTenders e-procurement system, with 73% of registered organs of state publishing tenders in financial year 2023-2024 ([source, 2024-08](https://www.treasury.gov.za/comm_media/press/2024/MAPS%20Assessment%20South%20Africa.pdf)).
+
 ### Zimbabwe: 3 Established
 
 A government e-procurement system was in service in 2024; end-to-end use is not known.
 
+- The Herald reports PRAZ's electronic Government Procurement (e-GP) system became operational on 1 January 2024, with bidders submitting documents online ([source, 2024-01-01](https://www.heraldonline.co.zw/zimbabwes-new-e-government-procurement-system-revolutionises-public-procurement-process/)).
 - The Herald reports the electronic Government Procurement (eGP) system, launched in October 2023, was in use by 31 March 2024, with PRAZ saying it automates bid submission, evaluation and communication ([source, 2024-03-31](https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/)).
-- PRAZ chief executive Clever Ruswa says over 9,900 suppliers and over 380 procuring entities had registered on the eGP platform by 31 March 2024 ([source, 2024-03-31](https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/)).
 
 ### Botswana: 2 Nascent
 
@@ -176,19 +176,7 @@ Government e-procurement was under way in 2025; none in service is on record.
 Government e-procurement was under way in 2026; none in service is on record.
 
 - PAFEN issued on 23 September 2026 a World Bank-financed request for proposals to design, build and deploy an end-to-end electronic public procurement (e-GP) system for Burundi, proposals due 13 November 2026 ([source, 2026-09-23](https://armp.gov.bi/archives/12100)).
-- The finance minister said the e-GP e-procurement platform, set up by the Ministry of Finance, Budget and Digital Economy, is due to enter into force from 2027 ([source, 2026-08-27](https://indundi.com/le-burundi-sachemine-vers-la-digitalisation-des-marches-publics-a-travers-la-plateforme-e-gp/)).
-
-### Cape Verde: 2 Nascent
-
-Government e-procurement was under way in 2026; none in service is on record.
-
-- The Government of Cabo Verde states that a new e-procurement platform was awarded to ACIN-iCloud Solutions for CVE 70,000,000 over four years, to extend the platform to local administration and autonomous services and funds ([source, 2026-03-19](https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/)).
-
-### Chad: 2 Nascent
-
-Government e-procurement was under way in 2026; none in service is on record.
-
-- Chad's 2027 budget orientations say a standardised electronic transfer system will launch early in 2027, with all public entities paying beneficiaries exclusively electronically against standardised electronic invoices ([source, 2026-08](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/)).
+- The public procurement regulator's director general says at least seven of fourteen planned activities for the e-GP system are done and first tests are expected early 2027 ([source, 2026-02-20](https://ejoheza.bi/fr/at193/Burundi_:_Vers_la_digitalisation_des_march%C3%A9s_publics)).
 
 ### Comoros: 2 Nascent
 
@@ -227,11 +215,18 @@ Government e-procurement was under way in 2026; none in service is on record.
 
 - The Ministry of Economy and Finance launched SIGFiP on 15 January 2026, to handle public procurement among all revenue and spending operations; some procurement modules are functional and development of the others continues ([source, 2026-01-15](https://lejmp.com/wp-content/uploads/2026/04/JMP_JanvFev210326.pdf)).
 
-### Liberia: 2 Nascent
+### Gambia: 2 Nascent
 
-Government e-procurement was under way in 2026; none in service is on record.
+Government e-procurement was being rolled out in 2026; no system taking tenders online is known.
 
-- Finance Minister Ngafuan cited reforms involving e-procurement among Liberia's partnerships and reforms, in a speech reported 2026-09-28 ([source, 2026-09-28](https://www.thenewdawnliberia.com/bet-on-liberia/)).
+- The Gambia Public Procurement Authority training of 8-10 October 2026 covers the rollout of the Electronic Government Procurement (E-GP) system, which the GPPA Board Vice Chairperson says will digitise the procurement cycle ([source, 2026-10](https://thepoint.gm/africa/gambia/national-news/gppa-trains-procurement-cadre-on-new-act-regulations-and-standard-documents)).
+
+### Guinea: 2 Nascent
+
+Guinea launched a national e-procurement platform in 2025; whether tenders are published or bid on it is not known.
+
+- Guinea rolled out TELEMO, a national e-procurement platform from a Guinea-Rwanda South-South partnership, officially launched on 17 November 2025 on behalf of the Head of State, per Smart Africa ([source, 2025-11-17](https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee)).
+- The ARMP states that the national e-GP platform Telemo entered a new phase of use in September 2026, with companies registering on it and the system described by its Director General as in place and under way ([source, 2026-09](https://armpguinee.org/commande-publique-larmp-la-dgcmp-et-la-banque-mondiale-font-le-point-sur-levolution-telemo/)).
 
 ### Madagascar: 2 Nascent
 
@@ -243,20 +238,14 @@ Government e-procurement was under way in 2026; none in service is on record.
 
 Government e-procurement was under way in 2025; none in service is on record.
 
-- The Ministry of Economy page of 3 April 2025 says the government launched the e-GP electronic public procurement project, to be delivered in phases ([source, 2025-04-03](https://economia.gov.mz/governo-lanca-projecto-de-contratacao-publica-electronica-e-gp/)).
 - The government launched the project to set up an e-GP platform under the GEPRES project, said to cover planning to payment; Finance Minister Carla Louveira launched it ([source, 2025-04-02](https://clubofmozambique.com/news/mozambique-launches-e-procurement-system/)).
+- The Ministry of Economy page of 3 April 2025 says the government launched the e-GP electronic public procurement project, to be delivered in phases ([source, 2025-04-03](https://economia.gov.mz/governo-lanca-projecto-de-contratacao-publica-electronica-e-gp/)).
 
 ### Nigeria: 2 Nascent
 
 Government e-procurement was under way in 2026; none in service is on record.
 
 - BPP Director-General Adedokun said on 26 February 2026 that from 2 March 2026 the BPP moves fully to e-submission, MDAs are directed to create online submission platforms and must ask contractors to submit bids electronically ([source, 2026-02-26](https://punchng.com/govt-mandates-e-submission-of-bids-from-march-2/)).
-
-### Seychelles: 2 Nascent
-
-Government e-procurement was under way in 2026; none in service is on record.
-
-- The African Development Bank's US$34 million ERGRSP-III loan, approved 22 September 2026, supports reforms including a national e-procurement system for Seychelles ([source, 2026-09-22](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998)).
 
 ### Sierra Leone: 2 Nascent
 
@@ -276,59 +265,71 @@ Government e-procurement was under way in 2026; none in service is on record.
 
 - Minister of State at Finance Mohamed Nour Abdel-Daim announced on 17 March 2026 that design of the national electronic procurement system, including a government tender platform, is complete and preparations are underway to launch it ([source, 2026-03-17](https://sudanhorizon.com/government-announces-imminent-launching-of-national-electronic-procurement-system/)).
 
-### Togo: 2 Nascent
-
-Government e-procurement was under way in 2025; none in service is on record.
-
-- ARCOP reports a World Bank-backed (PMADS) e-GP digitalisation of public procurement, with a preparatory workshop on 30 September-1 October 2025 on the e-GP strategy, phases and action plan ([source, 2025-10-01](https://arcop.tg/le-togo-sengage-dans-la-passation-electronique-des-marches-publics/)).
-
 ### Burkina Faso: Unplaced
 
 Nothing held since 2023 names a government e-procurement system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service.
+Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service. The one row, a World Bank e-GP project (BFA-001), is dated 2022.
+
+### Chad: Unplaced
+
+Electronic payment of suppliers is planned for 2027, but no system is known to be built, so no stage is set.
+
+Not established: Nothing held since October 2023 says an e-procurement or supplier-payment system is procured, being built, piloted or in service.
 
 ### Cote d'Ivoire: Unplaced
 
 Nothing held since 2023 names a government e-procurement system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service.
+Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service. SIGOMAP's launch (CIV-001) is dated July 2023.
 
 ### Djibouti: Unplaced
 
 Nothing held since 2023 names a government e-procurement system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service.
+Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service. The decree instituting the e-portal (DJI-001) is dated February 2023.
 
 ### Mali: Unplaced
 
 Nothing held since 2023 names a government e-procurement system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service.
+Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service. Every row is dated 2021 or earlier.
 
 ### Morocco: Unplaced
 
 Nothing held since 2023 names a government e-procurement system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service.
+Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service. The e-bidding arrêté (MAR-003) took effect 1 September 2023.
 
 ### Niger: Unplaced
 
 Nothing held since 2023 names a government e-procurement system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service.
+Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service. Every row is dated 2022 or earlier.
+
+### Seychelles: Unplaced
+
+A 2026 loan funds e-procurement reform, but no system is known to be built or in service, so no stage is set.
+
+Not established: Nothing held since October 2023 says a Seychelles e-procurement system is procured, being built, piloted or in service.
 
 ### Somalia: Unplaced
 
 Nothing held since 2023 names a government e-procurement system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service.
+Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service. The one row (SOM-001) is dated 2021.
+
+### Togo: Unplaced
+
+An e-procurement strategy was discussed in 2025, but no system is known to be built, so no stage is set.
+
+Not established: Nothing held since October 2023 says a Togolese e-procurement system is procured, being built, piloted or in service.
 
 ### Tunisia: Unplaced
 
 Nothing held since 2023 names a government e-procurement system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service.
+Not established: Nothing held since October 2023 says whether government e-procurement is under way or in service. Every row is dated 2021 or earlier.
 
 ### Central African Republic: No evidence
 

@@ -2,6 +2,7 @@
  "id": "businesspayments",
  "study_file": "maturity-study-businesspayments.md",
  "pass": "first",
+ "searched": "2026-10-23",
  "window_from": "2023-10-01",
  "story_cap": 20,
  "subjects": [

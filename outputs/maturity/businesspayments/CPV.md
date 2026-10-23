@@ -2,12 +2,12 @@
 
 ## B2B and B2G functionality
 
-**E-procurement in service.** [The Government of Cabo Verde states that a new e-procurement platform was awarded to ACIN-iCloud Solutions for CVE 70,000,000 over four years, to extend the platform to local administration and autonomous services and funds](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>). [The Government of Cabo Verde states that electronic public procurement has existed since 2020, with Central State Administration procedures progressively carried out through the official public purchasing portal (2020, before the three-year window)](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>).
+**E-procurement in service.** The government said in March 2026 that [electronic public procurement has existed in Cabo Verde since 2020, with Central State Administration procedures carried out progressively through the official public purchasing portal](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>). In the same note it said that [a new e-procurement platform was awarded to ACIN-iCloud Solutions for CVE 70,000,000 over four years, to extend the platform to local administration and to autonomous services and funds](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>).
 
-**End to end.** No source held since October 2023 says e-procurement runs end to end or is required of all public bodies. The nearest held fact: [the one given above](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>).
+**End to end.** The portal serves the Central State Administration. [The new platform is to carry electronic procurement to local administration and to the autonomous services and funds](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>), which the government gave as the reason for the award.
 
-**Use reported.** No source held since October 2023 gives a figure for e-procurement. The nearest held fact: [the one given above](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>).
+**Use reported.** The government note puts [the contract for the new platform at CVE 70,000,000, spread over four years, with ACIN-iCloud Solutions as the supplier](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>).
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is an e-procurement system in service.
+***Not held***. No source held since October 2023 says e-procurement runs end to end or is required of all public bodies, or gives the tenders, value or share of purchasing through the portal.

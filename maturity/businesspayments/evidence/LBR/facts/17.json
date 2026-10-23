@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-12-liberia-ppcc-egp-phase-ii-training-of-trainers",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "PPCC says 56 government procurement entities are already onboarded onto the e-GP platform, as Phase II of its nationwide rollout began on 11 May 2026, with training on provider registration, annual procurement planning, e-notification, invitations and electronic bidding.",
+   "as_of": "2026-05-12",
+   "date_precision": "day",
+   "system": "e-GP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP",
+   "country_label": "Electronic Government Procurement (e-GP) System",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Public Procurement and Concessions Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Hand-read in the 2026-10-23 rebuild."
+}

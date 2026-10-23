@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SEN-005",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: 15 procedures, nine with electronic bid opening, had run on APPEL by February 2026 (SEN-005); generalisation is targeted for January 2027 (SEN-001).",
+      "as_at": "2026-10-23"
     }
   ]
 }

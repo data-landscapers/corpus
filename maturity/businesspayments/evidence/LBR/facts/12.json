@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-07-liberias-e-gp-system-becomes-regional-model",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Liberian Observer reports the President formally launched the national e-GP system in February 2025, after a six-institution pilot; businesses register, bid and manage contracts on it, and Sierra Leone's procurement authority studied it in August 2026 as a working, deployed system.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "e-GP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP",
+   "country_label": "Electronic Government Procurement (e-GP) System",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Public Procurement and Concessions Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "Hand-read in the 2026-10-23 rebuild."
+}

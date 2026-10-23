@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZMB-003",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: 14,732 tenders from 431 entities were published on E-GP in the third quarter of 2024 (ZMB-003).",
+      "as_at": "2026-10-23"
     }
   ]
 }

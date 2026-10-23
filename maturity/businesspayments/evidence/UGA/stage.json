@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "UGA-006",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the 36 entities on EGP had done more than 38,000 contracts on it by April 2026 (UGA-006); rollout reached 136 entities in July 2026 (UGA-003).",
+      "as_at": "2026-10-23"
     }
   ]
 }

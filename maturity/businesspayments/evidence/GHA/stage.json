@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GHA-002",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: 5,048 contracts had been awarded on GHANEPS from 3,205 tenders by April 2024 (GHA-002), and its use is mandatory for all public entities (GHA-004).",
+      "as_at": "2026-10-23"
     }
   ]
 }

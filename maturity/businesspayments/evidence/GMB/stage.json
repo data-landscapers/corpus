@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "3",
-      "system": "inservice",
+      "stage": "2",
+      "system": "underway",
       "endtoend": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-002",
-      "gaps": "No source held since October 2023 says e-procurement runs end to end or is required of all public bodies.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GMB-001",
+      "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
+      "note": "Rebuild, lowered from 3: the portal GPPA implemented streamlines supplier registration (GMB-002) and no held fact says tenders are published or bid on it; the E-GP system was being rolled out in October 2026 (GMB-001).",
+      "as_at": "2026-10-23"
     }
   ]
 }

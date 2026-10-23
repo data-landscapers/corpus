@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "business",
+ "aspect": "system;endtoend;reported",
+ "fact": "The ARCOP pilot completion report states APPEL, launched officially on 14 October 2025, has phase 1 deployed (tender publication, e-submission, e-opening), phase 2 (evaluation and award) being integrated and phase 3 (audit, contract execution) prepared; 57 contracting authorities enrolled, 400 suppliers registered, 15 electronic procedures launched of which 9 opened.",
+ "title": "Rapport d'achèvement de la phase pilote de la plateforme APPEL (Achats Publics en Procédures Électroniques)",
+ "publisher": "ARCOP",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

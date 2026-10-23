@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether government e-procurement is under way or in service.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "gaps": "Nothing held since October 2023 says whether government e-procurement is under way or in service. The decree instituting the e-portal (DJI-001) is dated February 2023.",
+      "note": "Rebuild: the decree instituting the procurement e-portal (DJI-001) is dated February 2023, outside the window, so it sets no rung.",
+      "as_at": "2026-10-23"
     }
   ]
 }

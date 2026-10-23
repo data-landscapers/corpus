@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held since October 2023 gives the tenders, value or share of purchasing through e-procurement.

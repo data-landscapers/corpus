@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://prea.gov.mg/e-gp/,fetched,,scripts/.workroot/study/businesspayments/cache/MDG/1.txt,800,html,E-GP - PREA
+2,http://www.armp.mg/site/statistiques/Resultats%20des%20marches%202025.php,fetched,,scripts/.workroot/study/businesspayments/cache/MDG/2.txt,82,html,Autorité de Régulation des Marchés Publics
+3,http://app.armp.mg/site/base_ARMP/files/2025/Statistique_Marches_2025.pdf,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+4,https://digital.gov.mg/2025/08/14/avis-demande-propositions-egp/,held,held as raw/2025/2025-08-14-prodigy-egp-redesign-capacity-strengthening.md,,0,,
+5,https://newsmada.com/2025/04/10/analyse-des-marches-publics-2021-2022-seules-150-sur-2-014-entites-ont-fait-leur-declaration/,fetched,,scripts/.workroot/study/businesspayments/cache/MDG/5.txt,334,html,Analyse des marchés publics 2021-2022: seules 150 sur 2.014 entités ont fait leur déclaration
+6,http://www.armp.mg/site/fichiers/MAPS/MG-%20MAPS-Rapport-evaluation-FINAL.pdf,fetched,,scripts/.workroot/study/businesspayments/cache/MDG/6.txt,62513,pdf,EVALUATION DU SYSTEME DE PASSATION DES MARCHES DE MADAGASCAR
+7,http://www.armp.mg/site/A%20la%20une/eGP_Operationnel.php,held,held as raw/2022/2022-10-12-mdg-armp-e-gp-operationnel-exercice-2023.md,,0,,
+8,https://www.undp.org/fr/madagascar/communiques/e-gp-ameliorer-le-processus-de-passation-et-dexecution-des-marches-publics,held,held as raw/2021/2021-09-17-mdg-undp-e-gp-public-procurement-platform.md,,0,,

@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.lesahel.org/tribune-les-enjeux-de-la-digitalisation-dans-le-processus-des-marches-publics-cas-du-niger-suite-et-fin/,held,held as raw/2026/2026-02-25-ner-lesahel-digitalisation-marches-publics.md,,0,,
+2,https://www.marchespublics.ne/plan-passation,fetched,,scripts/.workroot/study/businesspayments/cache/NER/2.txt,6894,html,
+3,https://www.marchespublics.ne/marches-publics/920,fetched,,scripts/.workroot/study/businesspayments/cache/NER/3.txt,9232,html,
+4,https://www.marchespublics.ne/blog/20,held,held as raw/2022/2022-06-09-ner-marchespublics-dematerialisation-modules.md,,0,,
+5,https://www.marchespublics.ne/documentation/arretes,fetched,,scripts/.workroot/study/businesspayments/cache/NER/5.txt,714,html,Portail des Marchés Publics du Niger

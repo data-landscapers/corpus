@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001;BDI-002",
+      "stage_sources": "BDI-001;BDI-003",
       "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: an end-to-end e-GP system is at tender (BDI-001, September 2026) with first tests due early 2027 (BDI-003); nothing is in service.",
+      "as_at": "2026-10-23"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COG-001",
       "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the bidding document to recruit a firm to build a national e-procurement platform was validated in June 2026 (COG-001); nothing is in service.",
+      "as_at": "2026-10-23"
     }
   ]
 }

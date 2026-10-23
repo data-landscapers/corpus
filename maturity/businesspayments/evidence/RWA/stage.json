@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "RWA-003",
       "gaps": "No source held since October 2023 gives a figure for e-procurement.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: Umucyo is used by all national and local agencies for almost all procedures (RWA-003, November 2024); its figures (RWA-006) date from 2021, outside the window.",
+      "as_at": "2026-10-23"
     }
   ]
 }

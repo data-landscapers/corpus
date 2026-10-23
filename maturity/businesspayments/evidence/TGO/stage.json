@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "2",
-      "system": "underway",
+      "stage": "unplaced",
+      "system": "",
       "endtoend": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
-      "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says a Togolese e-procurement system is procured, being built, piloted or in service.",
+      "note": "Rebuild, lowered from 2: the only row (TGO-001) is a workshop on the e-GP strategy and action plan, not a system procured, built or piloted, so it sets no rung.",
+      "as_at": "2026-10-23"
     }
   ]
 }

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.open-contracting.org/en/publication/145,fetched,,scripts/.workroot/study/businesspayments/cache/RWA/1.txt,855,html,Rwanda: Public Procurement Authority (RPPA) | OCP Data Registry
+2,https://ocds.umucyo.gov.rw/,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+3,https://minecofinnew.prod.risa.rw/rw/services/e-procurement-1,fetched,,scripts/.workroot/study/businesspayments/cache/RWA/3.txt,223,html,e-procurement
+4,https://www.rppa.gov.rw/index.php?eID=dumpFile&f=57729&t=f&token=f5b5293da95bb834bf6cc3f6376421b46aee8a3d,fetched,,scripts/.workroot/study/businesspayments/cache/RWA/4.txt,65568,pdf,
+5,https://www.rppa.gov.rw/index.php?eID=dumpFile&f=46779&t=f&token=69636ccb62ad73f7535809b2f0ff2e39ced6ff12,fetched,,scripts/.workroot/study/businesspayments/cache/RWA/5.txt,11122,pdf,
+6,https://www.rppa.gov.rw/index.php?eID=dumpFile&f=35424&t=f&token=eec54479804ff9695b9d7e0cbaea82472358c227,held,held as raw/2021/2021-11-01-rwa-rppa-umucyo-user-satisfaction-survey.md,,0,,
+7,https://appn-racop.org/les-pays-de-la-communaute-de-lafrique-de-lest-obliges-de-faire-avec-la-commande-publique-electronique/,fetched,,scripts/.workroot/study/businesspayments/cache/RWA/7.txt,669,html,Les pays de la communauté de l’Afrique de l’est obligés de faire avec la commande publique électronique
+8,https://www.rppa.gov.rw/index.php?eID=dumpFile&f=48008&t=f&token=e9c45e90d8fb808a8b4d8e99bc201f32b23a4cfd,fetched,,scripts/.workroot/study/businesspayments/cache/RWA/8.txt,11176,pdf,

@@ -9,10 +9,10 @@
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-002;MOZ-001",
+      "stage_sources": "MOZ-001;MOZ-002",
       "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-      "note": "First pass: counted from the four questions by study-ladder-businesspayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the government launched an e-GP project in April 2025, to be delivered in phases (MOZ-001, MOZ-002); nothing held says it is in service.",
+      "as_at": "2026-10-23"
     }
   ]
 }
