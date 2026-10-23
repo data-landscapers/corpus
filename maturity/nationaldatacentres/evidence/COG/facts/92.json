@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-20-cog-le-congo-brazzaville-s-equipe-d-un-data-center-pour-repondre-au-defi-d",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Brazzaville data center",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Congolese state",
+   "tiers": ""
+  }
+ ],
+ "note": "The state-built data centre is not yet in service and no hosting of state data is stated."
+}

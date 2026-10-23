@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-tanzania-digital-identity-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "NIDA's deck says government data centres provide secure hosting of NIDA's national ID systems.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Government data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
