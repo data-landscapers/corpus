@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: STP
-ledger_rows: 2
+ledger_rows: 3
 not_held: 5
-record: c0f5c740bfa4
+record: c082ac73074c
 ---
 
 # News, Sep – Oct 2026
@@ -13,10 +13,34 @@ record: c0f5c740bfa4
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 </nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#regional-collaboration">Regional collaboration</a>
+</nav>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Membership of the Central African telecommunications regulators' assembly (ARTAC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ARTAC : Libreville acte une réforme importante et accueille São Tomé-et-Príncipe](https://www.gabonreview.com/artac-libreville-acte-une-reforme-importante-et-accueille-sao-tome-et-principe/)** — GabonReview, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+A second account of the ARTAC closing session, adding that São Tomé and Príncipe's admission brings membership from seven countries to eight.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
