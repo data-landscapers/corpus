@@ -105,7 +105,7 @@ European money is smaller and keeps the mobile network powered. [Finnfund lent U
 What the state finds from its own hand is approval rather than outlay: [a design budget for the second phase of the national fibre-optic programme was approved in June 2025](https://www.onecitizendaily.com/index.php/2025/06/30/govt-approves-9-million-for-fiber-optic-design/).
 
 <!-- derived -->
-The commitments on the record that name South Sudan are the World Bank's US$162 million regional integration envelope, shared with the other borrowers, two Chinese education grants of about US$29 million and two Finnfund investments of about US$10 million in all in solar-hybrid power for telecom sites (as at October 2026). The World Bank envelope is the largest of them, and China's recorded finance is grant money for teacher training and textbooks.
+The commitments on the record that name South Sudan are the World Bank's US$162 million regional integration envelope, shared with the other borrowers, and two Finnfund investments of about US$10 million in all in solar-hybrid power for telecom sites (as at October 2026). The World Bank envelope is the larger, and no Chinese digital finance is on the record.
 
 ## ICT Infrastructure
 
