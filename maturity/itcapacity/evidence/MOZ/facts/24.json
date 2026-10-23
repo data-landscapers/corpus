@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-14-moz-sistema-de-certificacao-digital-mocambique-registou-crescimento-na-ade",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "INTIC says the SCDM digital signature system is implemented and managed by Mozambican professionals, cutting dependence on external consultants.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "SCDM",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "INTIC offers the SCDM signature service free to government, and more than 10 public institutions use it.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "SCDM",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

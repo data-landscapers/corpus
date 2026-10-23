@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-sen-le-supercalculateur-taouey-un-outil-au-service-de-la-recherche-et-la-s",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "APS quotes CINERI's director general saying CINERI, the state body in charge of managing and administering the Taouey supercomputer, also manages the SIGESR higher-education governance system including its CAMPUSEN module.",
+   "as_of": "2025-05-27",
+   "date_precision": "day",
+   "system": "SIGESR / CAMPUSEN",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGESR / CAMPUSEN",
+   "country_label": "Senegal",
+   "class": "staff",
+   "platform": "",
+   "owner": "CINERI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

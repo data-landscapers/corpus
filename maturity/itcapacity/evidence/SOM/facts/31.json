@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "NIRA says it launched three systems (HUBIYE, e-Aqoonsi, CDS) entirely developed by Somali engineers at NIRA, with World Bank Scaled-UP Project support.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "HUBIYE, e-Aqoonsi and CDS",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,18 +1,19 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "no evidence",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "cadre": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says who builds or runs the government's computer systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "",
+      "agency": "",
+      "built": "live",
+      "cadre": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source held says the government has adopted an ICT cadre or scheme of service for its IT staff, or names a government technology body serving the rest of government.",
+      "note": "NIRA launched three systems in May 2025 that it says Somali engineers at NIRA built entirely, a system built in-house inside three years, which answers the earlier questions. No ICT cadre is held.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

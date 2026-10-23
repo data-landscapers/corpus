@@ -21,12 +21,12 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 8 |
+| 4 Operating | 9 |
 | 3 Established | 23 |
 | 2 Nascent | 4 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
-| No evidence | 14 |
+| No evidence | 13 |
 
 ## Countries
 
@@ -75,6 +75,12 @@ Government staff built a system that went live in 2026; no career structure for 
 - The e-Sénégal single-window platform and mobile app, developed by state company Sénégal Numérique SA, was launched on 24 March 2026 with judicial-record and nationality-certificate procedures ([source, 2026-03-24](https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html)).
 - Sénégal Numérique SA, the state operator, says on its own page that the Diamniadio national Tier 3 datacenter hosts and stores the state's data, and that its Espaces Sénégal Services are connected to all administrations; page undated, published date used ([source, 2026-09-03](https://senegalnumeriquesa.sn/en/projets/smart-s%C3%A9n%C3%A9gal)).
 - Sénégal Numérique SA said its own Cyberdefense, Systems and Networks teams were mobilised to protect its information systems after attempted cyberattacks, per its communique of 9 February 2026 ([source, 2026-02-09](https://www.enqueteplus.com/content/cybersécurité-sénégal-numérique-signale-des-tentatives-de-cyberattaques-et-restreint)).
+
+### Somalia: 4 Operating
+
+The ID agency's own engineers built three identity systems launched in 2025; a career structure for government IT staff is not known.
+
+- NIRA says it launched three systems (HUBIYE, e-Aqoonsi, CDS) entirely developed by Somali engineers at NIRA, with World Bank Scaled-UP Project support ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
 
 ### Tanzania: 4 Operating
 
@@ -187,6 +193,8 @@ A government technology body runs systems for the rest of government by 2024; no
 A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
 
 - INAGE's service catalogue, retrieved 2026-08-08, lists server rental, application hosting, application development and government network connection (GovNET, MoRENet) as services for public bodies; the date is the retrieval date ([source, 2026-08-08](https://www.inage.gov.mz/?p=2697)).
+- INTIC says the SCDM digital signature system is implemented and managed by Mozambican professionals, cutting dependence on external consultants ([source, 2025-01-14](https://intic.gov.mz/sistema-de-certificacao-digital-mocambique-registou-crescimento-na-adesao-de-assinaturas-electronicas-em-2024/)).
+- INTIC offers the SCDM signature service free to government, and more than 10 public institutions use it ([source, 2025-01-14](https://intic.gov.mz/sistema-de-certificacao-digital-mocambique-registou-crescimento-na-adesao-de-assinaturas-electronicas-em-2024/)).
 
 ### Rwanda: 3 Established
 
@@ -363,12 +371,6 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 Not established: Nothing held says who builds or runs the government's computer systems.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
-### Somalia: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
 

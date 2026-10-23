@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-01-uga-terms-of-reference-webtrust-audit-and-aatl-recognition-programme-for-t",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NITA-U's terms of reference state that NITA-U operates the National Public Key Infrastructure at the National Data Centre.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Uganda National PKI",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
