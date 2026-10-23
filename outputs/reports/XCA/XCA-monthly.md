@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: XCA
-ledger_rows: 14
+ledger_rows: 15
 not_held: 0
-record: 57ff45d9846b
+record: db3de64f16d8
 ---
 
 # News, Sep – Oct 2026
@@ -131,6 +131,30 @@ ARTAC created six permanent technical working groups at its 4th extraordinary Co
 **[Gabon/Télécommunications : l'ARTAC engage à Libreville la révision de ses textes fondateurs](https://agpgabon.ga/gabon-telecommunications-lartac-engage-a-libreville-la-revision-de-ses-textes-fondateurs/)** — Agence Gabonaise de Presse, 20 October 2026
 
 The Central African telecoms regulators' assembly ARTAC opened its 4th extraordinary session in Libreville on 20 October 2026, running two days and hosted by Gabon's ARCEP. Digital Economy Minister Mark-Alexandre Doumba launched it. Participants are reviewing ARTAC's statutes, rules of procedure and financial regulations, and São Tomé and Príncipe's regulator formally presented its membership application.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Afrique centrale : à Libreville, les régulateurs télécoms de l’ARTAC posent les bases d’un marché unique du numérique](https://www.techafrika.net/Afrique-centrale-a-Libreville-les-regulateurs-telecoms-de-l-ARTAC-posent-les-bases-d-un-marche-unique-du-numerique_a2504.html)** — TechAfrika, 22 October 2026
+
+An account of the opening of the ARTAC session in Libreville on 20 October 2026, where Gabon's digital economy minister Mark-Alexandre Doumba called regulatory harmonisation a political act and a step toward a single Central African digital market. Delegations came from DR Congo, Congo, Cameroon, Chad, Equatorial Guinea, the Central African Republic and São Tomé and Príncipe, and the six working groups created on 29 May 2026 were formally launched.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ARTAC : Libreville acte une réforme importante et accueille São Tomé-et-Príncipe](https://www.gabonreview.com/artac-libreville-acte-une-reforme-importante-et-accueille-sao-tome-et-principe/)** — GabonReview, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/STP/STP-monthly.html" title="STP">São Tomé</a>
+
+A second account of the ARTAC closing session, adding that São Tomé and Príncipe's admission brings membership from seven countries to eight.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Télécommunications : l’ARTAC adopte de nouveaux textes et accueille São Tomé-et-Príncipe - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-telecommunications-lartac-adopte-de-nouveaux-textes-et-accueille-sao-tome-et-principe/)** — Agence Gabonaise de Presse, 22 October 2026
+
+The Central African telecoms regulators' assembly ARTAC closed its 4th extraordinary session in Libreville on 21 October 2026 by adopting revised statutes, rules of procedure and financial regulations and admitting São Tomé and Príncipe's regulator. Executive president Christian Katende called for the roadmaps of the six permanent working groups to be put into effect.
 
 </div>
 
@@ -339,6 +363,20 @@ Summarised under [Data Storage](#data-storage).
 **[CEMAC : le mobile money brasse 44 000 milliards FCFA en 2025 et génère 47 milliards de bénéfices aux opérateurs](https://ecomatin.net/cemac-le-mobile-money-brasse-44-000-milliards-fcfa-en-2025-et-genere-47-milliards-de-benefices-aux-operateurs)** — Ecomatin, 9 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 Central Africa's seven licensed payment institutions processed 4.6 billion operations worth FCFA 44,037 billion in 2025, against 3.4 billion operations in 2024, on the banking commission's annual report. Two Cameroonian operators' services held 65.4% of the sector's income.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GIMAC and PAPSS Card partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Développement des paiements interopérables en Afrique : Le Gimac et Papss Card posent les bases de leur futur partenariat](https://lefinancierdafrique.com/open/2026/10/19/developpement-des-paiements-interoperables-en-afrique-le-gimac-et-papss-card-posent-les-bases-de-leur-futur-partenariat/)** — Le Financier d’Afrique, 19 October 2026
+
+Yaoundé sessions 13-14 Oct 2026; roadmap agreed; two-way card acceptance; convention signing pending.
 
 </div>
 
