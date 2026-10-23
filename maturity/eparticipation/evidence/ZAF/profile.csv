@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,eparticipation,online,coverage,asked,2026-07-17,ZAF-001,,
-ZAF,eparticipation,published,coverage,published,2023-04,ZAF-002,,nothing dated since 2023-10-18
+ZAF,eparticipation,online,coverage,asked,2026-07-17,ZAF-001;ZAF-003,,
+ZAF,eparticipation,published,coverage,published,2023-04,ZAF-002,,nothing dated since 2023-10-23
 ZAF,eparticipation,required,coverage,,,,,nothing held
