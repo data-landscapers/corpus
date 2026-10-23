@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "National ID Ethiopia's deck says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs nationally.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fayda-TIN harmonisation",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

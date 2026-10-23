@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,taxpayers,register,coverage,inservice,2023-10-17,BFA-001,,
-BFA,taxpayers,shared,coverage,shared,2023-10-17,BFA-002,,
+BFA,taxpayers,register,coverage,inservice,2023-10-17,BFA-001,,nothing dated since 2023-10-23
+BFA,taxpayers,shared,coverage,shared,2023-10-17,BFA-002,,nothing dated since 2023-10-23
 BFA,taxpayers,nationalid,coverage,,,,,nothing held

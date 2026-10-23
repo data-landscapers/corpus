@@ -28,3 +28,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZMB,dpi.registry--tax-register,review,no evidence,3,ZMB-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,dpi.registry--tax-register,fact,3,3,ZWE-001;ZWE-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-20,DZA,dpi.registry--tax-register,fact,3,4,DZA-001;DZA-002;DZA-003,"CNRC portal, Oct 2026: one identification number common to the commercial register and the tax directorate; shared, stage 4"
+2026-10-23,AGO,dpi.registry--tax-register,fact,3,5,AGO-002;AGO-001,"PTI story (Sept 2025): the Secretary of State says the ID card number also serves as the tax number (NIF); tied to ID, so 3 to 5"
+2026-10-23,ETH,dpi.registry--tax-register,fact,unplaced,5,ETH-002,"National ID Ethiopia 2026 deck: over 5M TINs harmonised with Fayda and Fayda mandatory for new TINs; tied to ID, so unplaced to 5"
+2026-10-23,TZA,dpi.registry--tax-register,fact,3,5,TZA-003;TZA-001,"NIDA 2026 deck lists TRA taxpayer registration among services integrated with the national ID; tied to ID, so 3 to 5"

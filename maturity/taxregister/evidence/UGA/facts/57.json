@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-uga-uganda-moves-to-make-national-digital-id-number-its-tax-identifier",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Biometric Update reports Uganda is moving to make the NIN the individual taxpayer number, with URA deploying 80 fingerprint scanners in Kampala and Wakiso and a rollout to other offices from 26 October 2026.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Tax Identification Number (TIN)",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tax Identification Number (TIN)",
+   "country_label": "TIN",
+   "class": "tax",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

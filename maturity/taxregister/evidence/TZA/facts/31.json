@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-tanzania-digital-identity-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "NIDA lists the Tanzania Revenue Authority's taxpayer registration among the services integrated with the national ID.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIDA integration layer (CIG)",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

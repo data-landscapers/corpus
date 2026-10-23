@@ -2,12 +2,12 @@
 
 ## Tax register
 
-**Computerised register.** [Angola's SEPE e-services portal lists a free online service, 'Consulta de NIF', to consult the information associated with a person's NIF](<https://sepe.gov.ao/catalogo/eservicos>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Computerised register.** [Angola's SEPE e-services portal lists a free online service, 'Consulta de NIF', for consulting the information held against a person's taxpayer number](<https://sepe.gov.ao/catalogo/eservicos>). [Secretary of State for Justice Osvaldo Amaro said in September 2025 that the civil identification systems are synchronised with the tax administration, the AGT](<https://pti.ao/ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplificar-servicos/>), so the number is issued from a register held on computer.
 
-**Shared with firms or customs.** No source held since October 2023 says the taxpayer number is shared with business registration or customs. The nearest held fact: [the one given above](<https://sepe.gov.ao/catalogo/eservicos>).
+**Shared with firms or customs.** No source held says the taxpayer number, the NIF, is issued at business registration or used by customs. The nearest held fact is that [the identity card number also serves as the NIF, according to the Secretary of State for Justice in September 2025](<https://pti.ao/ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplificar-servicos/>).
 
-**Tied to ID.** No source held since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://sepe.gov.ao/catalogo/eservicos>).
+**Tied to ID.** [Osvaldo Amaro said in September 2025 that synchronising the identification systems with the tax administration lets the number of the identity card, the Bilhete de Identidade, correspond to the taxpayer number](<https://pti.ao/ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplificar-servicos/>). One number therefore serves a person as both identity number and tax number. [The SEPE portal's NIF lookup](<https://sepe.gov.ao/catalogo/eservicos>) is the online service held for that number.
 
 ***Noted, not assessed***. [SIGFE](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
 
-***Not held***. No source held since October 2023 says the taxpayer number is shared with business registration or customs.
+***Not held***. No source held says the taxpayer number is shared with business registration or customs.
