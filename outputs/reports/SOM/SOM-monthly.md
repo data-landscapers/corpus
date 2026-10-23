@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: SOM
-ledger_rows: 22
+ledger_rows: 23
 not_held: 1
-record: d236dae29128
+record: df094c80c2b9
 ---
 
 # News, Sep – Oct 2026
@@ -401,8 +401,26 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-divides">Digital divides</a>
 </nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Biometric ID enrolment of returnees from Yemen</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia enrolls citizens returning from Yemen for biometric national IDs](https://www.biometricupdate.com/202610/somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-ids)** — Biometric Update, 22 October 2026
+
+Somalia's National Identification and Registration Authority began enrolling citizens returning from Yemen for biometric national ID cards, working with the National Commission for Refugees and IDPs at its reception camp. NIRA puts national enrolment at about two million against a target of 15 million by 2029, and the Halmeel unified government services platform, covering about 70 services, is due by the end of March 2027.
+
+</div>
+
+</div>
 
 ### Digital divides
 
