@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: KEN
-ledger_rows: 144
+ledger_rows: 145
 not_held: 7
-record: 114baf5f7bbd
+record: 62de338c2b39
 ---
 
 # News, Sep – Oct 2026
@@ -2355,6 +2355,20 @@ Kenya's President and technology envoy discussed with Cisco the Moran AI Centre 
 **[AI in classrooms and hospitals: MPs launch probe, seek new rules](https://nation.africa/kenya/news/ai-in-classrooms-and-hospitals-mps-launch-probe-seek-new-rules-5636232)** — Daily Nation, 18 October 2026
 
 Kenya's National Assembly gave its communication committee one month to report on how AI is used in education, health and the public sector, and on the rules that govern it. MPs said there is no national AI framework and are weighing a standalone AI law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT Authority and K-DATA letter of intent on AI-ready government data</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya ICT Authority signs AI Data cooperation agreement with South Korea’s K-DATA](https://techreviewafrica.com/news/7877/kenya-ict-authority-signs-ai-data-cooperation-agreement-with-south-korea-s-k-data)** — Tech Review Africa, 22 October 2026
+
+Kenya's ICT Authority signed a letter of intent in Seoul with the Korea Data Agency (K-DATA) to prepare government data for AI and pilot AI in public services, witnessed by ICT Cabinet Secretary William Kabogo. The cooperation also covers data governance, interoperability, secure data exchange across government, data quality certification and training, within the Data Protection Act 2019.
 
 </div>
 
