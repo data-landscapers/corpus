@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "body",
-      "stage": "3",
+      "stage": "4",
       "standing": "constituted",
-      "rulings": "",
+      "rulings": "ruled",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-013;GHA-014",
-      "gaps": "No ruling of the authority against a named organisation in the last three years is held. The one decision held from the last three years is a court's, which belongs to the law row.",
-      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GHA-026;GHA-025;GHA-013",
+      "gaps": "No published count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held; the 2026 figures are registrations and activity.",
+      "note": "On 14 October 2026 the Commission directed named companies operating unregistered to report to the police and regularise their registration, a ruling on named organisations. No yearly count of its rulings is held, so stage 5 is not met.",
+      "as_at": "2026-10-23"
     }
   ]
 }

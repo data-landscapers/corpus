@@ -21,8 +21,8 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 8 |
-| 3 Established | 22 |
+| 4 Operating | 9 |
+| 3 Established | 21 |
 | 2 Nascent | 10 |
 | 1 Absent | 6 |
 | Unplaced | 3 |
@@ -97,6 +97,14 @@ Gabon has an authority and fined a bank 90 million FCFA in 2024. No published fi
 
 - The APDPVP plenary, by deliberation n°073 of 25 April 2024 on a complaint of 27 November 2023, imposed a pecuniary sanction of 90,000,000 FCFA on Citibank Gabon S.A. for diverting employee data from its declared purpose and processing ethnic-origin data, with a two-month formal notice ([source, 2024-04-25](https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf)).
 - In an interview published 4 September 2026 the APDPVP's president, Joel Dominique Ledaga, speaks as the sitting head of the authority and describes its powers to give reasoned opinions, self-refer, hear companies and inspect installations ([source, 2026-09-04](https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse)).
+
+### Ghana: 4 Operating
+
+Ghana's data protection commission directed named unregistered companies to report to the police in October 2026; yearly counts of its rulings are not known.
+
+- The Data Protection Commission directed named companies including Menkish Impex Ltd, Polytex Ghana Limited and JA Biney Packaging to report to the CID and the Commission and regularise their registration, for operating unregistered or with expired certificates ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
+- Ghana's Data Protection Commission, through its Director of Regulatory and Compliance Quintin Akrobotu, ran compliance checks and a week-long enforcement exercise under Section 81 of the Data Protection Act ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
+- Ghana's Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, said it registered 2,575 data controllers in 2026 and is adding spot checks, inspections and complaint investigations under Act 843 ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
 
 ### Kenya: 4 Operating
 
@@ -189,13 +197,6 @@ Ethiopia has an authority, the Communications Authority, in 2025. No ruling agai
 The Gambia's 2025 law names the Information Commission as its data protection authority, which was acting by 2026; no ruling or published figure is known.
 
 - The notice, published 2026-08-17 (no other date given), says the Information Commission of The Gambia is to develop a communication strategy raising awareness of both the Access to Information Act, 2021 and the Personal Data Protection and Privacy Act, 2025, so the Commission acts for the Act ([source, 2026-08-17](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia)).
-
-### Ghana: 3 Established
-
-Ghana's data protection commission was running registrations and enforcement checks in October 2026, but no ruling against a named organisation is known.
-
-- Ghana's Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, said it registered 2,575 data controllers in 2026 and is adding spot checks, inspections and complaint investigations under Act 843 ([source, 2026-10-13](https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/)).
-- Graphic Online reports the Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, ran a field enforcement exercise in Accra on 12 October 2026 under the Data Protection Act, 2012 (Act 843) ([source, 2026-10-12](https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html)).
 
 ### Madagascar: 3 Established
 
