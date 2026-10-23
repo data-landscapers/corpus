@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "unplaced",
-   "registration": "",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether firms can register online.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "3",
+      "registration": "inservice",
+      "shared": "",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-001",
+      "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
+      "note": "Reassessed in the rebuild: the Registration Division's online business registration form, captured in 2026 and dated to that year, shows online registration in service; a year-dated page held by the as-at is inside the window.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

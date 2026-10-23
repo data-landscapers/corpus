@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "business",
+ "aspect": "owners",
+ "fact": "Members of the public can use Nigeria's Persons of Significant Control register for free and without registration, with BODS-format data downloadable as JSON.",
+ "title": "Availability: Beneficial ownership of companies",
+ "publisher": "Global Data Barometer",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

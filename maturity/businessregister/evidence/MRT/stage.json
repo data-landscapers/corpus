@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "4",
+      "stage": "3",
       "registration": "inservice",
-      "shared": "shared",
+      "shared": "",
       "owners": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-002",
-      "gaps": "No source held since October 2023 says the register collects beneficial owners.",
-      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MRT-001",
+      "gaps": "The April 2025 launch gives a register entry, a tax registration and CNSS affiliation in one procedure; nothing held says registration gives one number shared with tax or social security.",
+      "note": "Reassessed in the rebuild: online company creation is in service (2025); one procedure for three registrations is not one shared number, so not stage 4.",
+      "as_at": "2026-10-23"
     }
   ]
 }

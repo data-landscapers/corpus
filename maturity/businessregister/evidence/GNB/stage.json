@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "unplaced",
-      "registration": "",
+      "stage": "2",
+      "registration": "underway",
       "shared": "",
       "owners": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether firms can register online.",
-      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GNB-001",
+      "gaps": "The Centro de Formalização de Empresas is a one-stop counter for company registration (2026), with online registration still only planned.",
+      "note": "Reassessed in the rebuild: a one-stop registration counter in service meets stage 2; online registration is only planned, so not stage 3.",
+      "as_at": "2026-10-23"
     }
   ]
 }

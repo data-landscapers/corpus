@@ -13,7 +13,7 @@ authentication,authentication,dpi.id--authentication,2026-10-22,20,4.7,180
 birthidlink,link,dpi.id--interoperability-of-birth-registration-and-digital-id,2026-10-22,13,4.4,116
 broadbandstrategy,plan,gov.policy--broadband-strategy,2026-10-23,20,61,149
 businesspayments,business,dpi.pay--b2b-and-b2g-functionality,,,,
-businessregister,business,dpi.registry--business-register,,,,
+businessregister,business,dpi.registry--business-register,2026-10-23,23,58.2,225
 censuses,census,data.statistics--censuses-and-surveys,,,,
 centralbank,centralbank,dpi.pay--governance-role-of-central-bank,,,,
 civilregister,civil,dpi.registry--civil-register,,,,

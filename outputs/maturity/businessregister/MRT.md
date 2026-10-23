@@ -2,12 +2,12 @@
 
 ## Business register
 
-**Online registration.** [The ministers launched APIM digital services on 4 April 2025 letting investors create companies online through the 'Mes services' portal](<https://ami.mr/fr/archives/268316>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Online registration.** [The ministers launched the investment agency APIM's digital services on 4 April 2025, letting investors create companies online through the 'Mes services' portal](<https://ami.mr/fr/archives/268316>). [Access to the portal is secured by identity verification through the Mon Identité app](<https://ami.mr/fr/archives/268316>), and the same launch put investment-code accreditation online.
 
-**Shared number.** [Company creation through the portal yields a commerce register entry, a tax registration and social security (CNSS) affiliation in a single procedure](<https://ami.mr/fr/archives/268316>).
+**Shared number.** [Company creation through the portal yields a commerce register entry, a tax registration and social security (CNSS) affiliation in a single procedure](<https://ami.mr/fr/archives/268316>). The source describes one procedure for the three registrations and does not say they share one number.
 
-**Beneficial owners.** No source held since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://ami.mr/fr/archives/268316>).
+**Beneficial owners.** Nothing held says the register collects the beneficial owners of the firms it records. The nearest held fact is [the April 2025 account of what the portal issues](<https://ami.mr/fr/archives/268316>), which names the register, tax and social security and not ownership.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says the register collects beneficial owners.
+***Not held***. No source held since October 2023 says registration gives one number shared with tax or social security, or that the register collects beneficial owners.

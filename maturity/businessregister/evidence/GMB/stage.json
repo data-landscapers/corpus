@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "2",
-   "registration": "underway",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-001",
-   "gaps": "No source held since October 2023 says: can firms register online.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "2",
+      "registration": "underway",
+      "shared": "",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001",
+      "gaps": "The easybusiness.gov.gm portal lists online registration services (2026, dated only to the year), but in August 2026 the minister said the single-window registration system was still being finalised; the dated statement stands.",
+      "note": "Reassessed in the rebuild: the newest dated fact says the system is being finalised, so online registration in service is not established and the stage stays 2.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

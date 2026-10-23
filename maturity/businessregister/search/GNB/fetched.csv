@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://cfe.gw/numero-de-identificacao-fiscal/,held,held as raw/2026/2026-01-01-cfe-gw-numero-identificacao-fiscal.md,,0,,
+2,https://rtpafrica.rtp.pt/noticias/guine-bissau-centro-de-formalizacao-de-empresas-celebra-14-o-aniversario-com-novo-website/,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+3,https://cfe.gw/registo-de-empresas/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+4,https://cfe.gw/sobre-nos/,held,held as raw/2026/2026-01-01-gnb-cfe-sobre-nos-centro-formalizacao-empresas.md,,0,,
+5,https://cfegb.com/,fetched,,scripts/.workroot/study/businessregister/cache/GNB/5.txt,192,html,CFE - Guichê Único de Criação de Empresas
+6,https://www.fatf-gafi.org/content/dam/fatf-gafi/fsrb-fur/GIABA-Guinea-Bissau-Mutual-Evaluation-Report.pdf,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+7,https://www.openownership.org/en/map/country/guinea-bissau/,fetched,,scripts/.workroot/study/businessregister/cache/GNB/7.txt,129,html,Guinea-Bissau | Open Ownership
+8,https://ferrazwhitmore.com/reports/principal-guinea-bissau/,fetched,,scripts/.workroot/study/businessregister/cache/GNB/8.txt,2458,html,Director and beneficial owner in Guinea-Bissau

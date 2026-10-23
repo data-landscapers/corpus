@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "registration;shared",
+ "fact": "The E-NINEA site states that businesses can register online and obtain their NINEA with a 100% online procedure, through APIX, customs, DGID and ANSD registration centres (archived 22 April 2025).",
+ "title": "E-ninea",
+ "publisher": "ANSD",
+ "published": "2025-04",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "business"
+}

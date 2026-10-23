@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "2",
-   "registration": "underway",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source held since October 2023 says: can firms register online.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "unplaced",
+      "registration": "",
+      "shared": "",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one fact held (August 2026) says only that online business registration is among the reforms of a trade project; nothing held says a digital register is procured, records are being digitised, a one-stop counter has opened or registration is on paper.",
+      "note": "Reassessed in the rebuild: a reform listed under a project is not a register procured or digitised, so no rung is met.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

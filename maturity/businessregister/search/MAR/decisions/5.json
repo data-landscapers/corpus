@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "business",
+ "aspect": "registration;owners",
+ "fact": "The OECD Global Forum report adopted 7 November 2022 says the beneficial owners register run by OMPIC is operational but not yet fully populated, and that the one-stop shop is suspended while company registration is digitalised, filings still being made physically at the court registry.",
+ "title": "Global Forum on Transparency and Exchange of Information for Tax Purposes: Morocco 2022 (Second Round)",
+ "publisher": "OECD",
+ "published": "2022-11",
+ "date_source": "source",
+ "why_not": ""
+}

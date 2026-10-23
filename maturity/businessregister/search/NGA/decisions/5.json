@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "business",
+ "aspect": "owners",
+ "fact": "CAC publicly launched the beneficial ownership register (bor.cac.gov.ng) on 25 May 2023 and reported 728,332 persons with significant control as of December 2023; digitisation of physical records of over four million companies began in January 2021.",
+ "title": "Public Register Following Beneficial Ownership Data Standard (NG0039)",
+ "publisher": "Open Government Partnership",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

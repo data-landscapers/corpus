@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "4",
+      "stage": "3",
       "registration": "inservice",
-      "shared": "shared",
+      "shared": "",
       "owners": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-003",
-      "gaps": "No source held since October 2023 says the register collects beneficial owners.",
-      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BEN-002",
+      "gaps": "The 2024 APIEx guide lists an RCCM extract, an IFU tax attestation and a CNSS employer number among the certificates issued, which are three numbers, not one number shared with tax or social security.",
+      "note": "Reassessed in the rebuild: online registration is in service (2024), but the held fact names separate register, tax and social-security numbers, and the ladder asks for one shared number.",
+      "as_at": "2026-10-23"
     }
   ]
 }

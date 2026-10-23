@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "registration;shared",
+ "fact": "ANSD states the E-NINEA platform lets entrepreneurs register online and obtain their NINEA, available 24h/24 and integrated in the e-sénégal platform.",
+ "title": "La formalisation des activités économiques est un levier essentiel de développement.",
+ "publisher": "Agence Nationale de la Statistique et de la Démographie - ANSD",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "business"
+}

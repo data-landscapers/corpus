@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "3",
-   "registration": "inservice",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001;RWA-002",
-   "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "4",
+      "registration": "inservice",
+      "shared": "shared",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-004;RWA-001",
+      "gaps": "No source held since October 2023 says the register collects beneficial owners.",
+      "note": "Reassessed in the rebuild: the revenue authority's 2026 page says registration with RDB gives a single, unique TIN, which is one number shared with tax; nothing held says the register collects beneficial owners.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

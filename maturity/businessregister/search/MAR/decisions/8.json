@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "business",
+ "aspect": "registration;owners",
+ "fact": "OMPIC's 2023 activity report states the Directentreprise online creation platform was piloted from 6 February 2023 at Rabat court (199 companies created, 57 professional users) and that the beneficial owners register consultation platform was being improved.",
+ "title": "Rapport d'activités 2023",
+ "publisher": "Office Marocain de la Propriété Industrielle et Commerciale",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

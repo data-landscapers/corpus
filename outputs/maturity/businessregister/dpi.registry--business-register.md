@@ -1,6 +1,6 @@
 # Business register: business register
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,22 +20,15 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 3 |
 | 4 Operating | 4 |
-| 3 Established | 21 |
-| 2 Nascent | 15 |
+| 3 Established | 23 |
+| 2 Nascent | 17 |
 | 1 Absent | 1 |
-| Unplaced | 5 |
+| Unplaced | 3 |
 | No evidence | 3 |
 
 ## Countries
-
-### Madagascar: 5 Leading
-
-The business register recorded beneficial owners in 2026.
-
-- The finance ministry says the RCBE has moved from technical build to effective use of the beneficial-owner data recorded on the platform, after four data-sharing protocols signed by the DGI on Friday 18 September 2026 ([source, 2026-09-18](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees)).
-- The DGI's Registre Central des Beneficiaires Effectifs was officially launched on 16 June 2026 to identify the beneficial owners of legal persons and legal structures, per the finance ministry ([source, 2026-06-16](http://central.mef.gov.mg/page_personnalisee/index/news/1781)).
 
 ### Mozambique: 5 Leading
 
@@ -57,36 +50,37 @@ The business register recorded beneficial owners in 2026.
 - The Companies and Intellectual Property Commission launched an upgraded Beneficial Ownership Disclosure Module giving law enforcement agencies real-time access to company ownership information, first launched in April 2023, per the dtic spokesperson ([source, 2026-09-29](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/)).
 - CIPC launched its Optimized Beneficial Ownership Declaration functionality on 22 August 2025 and had received more than 23,000 declarations on it, with companies, external companies and close corporations required to submit beneficial ownership information annually or on change ([source, 2025-08-22](https://www.cipc.co.za/wp-content/uploads/2025/09/BO-Optimized-system-4-September-2025_.pdf)).
 
-### Togo: 5 Leading
-
-The business register recorded beneficial owners in 2024.
-
-- Togo-Presse reports that a database of companies' beneficial owners has been created, to identify who really holds a company ([source, 2024](https://togopresse.tg/une-plateforme-numerique-creee-pour-rendre-les-services-gouvernementaux-plus-accessibles/)).
-- Togo Officiel says a database of companies' beneficial owners has been created to identify who really owns a company ([source, 2024-09](https://www.republiquetogolaise.tg/tic/1609-9722-services-publics-zoom-sur-les-reformes-initiees-pour-accelerer-la-digitalisation)).
-
 ### Algeria: 4 Operating
 
 A firm's registration number served the tax authority too in 2026; a record of beneficial owners is not known.
 
 - The CNRC says the single registration gives the firm a common identification number, issued within three days of approval by CNRC, the tax directorate (DGI), CNAS, CASNOS and ONS ([source, 2026-10-17](https://sidjilcom-entreprise.cnrc.dz/acceuil)).
 
-### Benin: 4 Operating
+### Cote d'Ivoire: 4 Operating
 
-A firm's registration number served the tax authority too in 2024; a record of beneficial owners is not known.
+A firm's registration number served the tax authority and social security too in 2025; a record of beneficial owners is not known.
 
-- APIEx's guide lists among the certificates the platform issues the RCCM extract, the IFU tax identifier attestation and the CNSS employer number notification ([source, 2024](https://monentreprise.bj/APIEX_Guide_pratique_v2_3e1993847e.pdf)).
+- CEPICI states that the Identifiant Unique (IDU), operational since 2018, is now the one number a firm needs with every administration, registering it with the commercial register, the tax authority and the social security fund (CNPS) ([source, 2025](https://cepici.africa/reforme)).
+- CEPICI states that firms can be created online through the E-Entreprise platform on the 225Invest portal, where creators complete their formalities ([source, 2025-01-01](https://cepici.africa/reforme)).
 
-### Mauritania: 4 Operating
+### Rwanda: 4 Operating
 
-A firm's registration number served the tax authority too in 2025; a record of beneficial owners is not known.
+A firm's registration number served the tax authority too in 2026; a record of beneficial owners is not known.
 
-- Company creation through the portal yields a commerce register entry, a tax registration and social security (CNSS) affiliation in a single procedure ([source, 2025-04-04](https://ami.mr/fr/archives/268316)).
+- The Rwanda Revenue Authority says the RDB and RRA systems are integrated so registration gives a single, unique Taxpayer Identification Number ([source, 2026](https://www.rra.gov.rw/en/domestic-tax-services/registration-de-registration/default-title)).
+- The Rwanda Development Board's Office of the Registrar General says business registration is 100% an online process and free of charge, with the certificate downloadable from the applicant's account in the registry ([source, 2026-08-30](https://org.rdb.rw/business-registration/)).
 
 ### Tunisia: 4 Operating
 
 A firm's registration number served the tax authority too in 2026; a record of beneficial owners is not known.
 
 - The Registre National des Entreprises says its electronic safe account for each registered firm is tied to the firm's unique identifier, the matricule fiscal ([source, 2026-09-01](https://home.registre-entreprises.tn/le-registre-national-des-entreprises-vers-le-full-digital/)).
+
+### Benin: 3 Established
+
+Firms could register online in 2024; a number shared with tax is not known.
+
+- APIEx's guide says companies are registered in the RCCM entirely online through www.monentreprise.bj, with QR-coded electronic certificates issued in three working hours ([source, 2024](https://monentreprise.bj/APIEX_Guide_pratique_v2_3e1993847e.pdf)).
 
 ### Botswana: 3 Established
 
@@ -105,18 +99,13 @@ Firms could register online in 2024; a number shared with tax is not known.
 Firms could register online in 2026; a number shared with tax is not known.
 
 - Portaria 33/2026 of the Ministry of Justice sets fees for incorporating, amending and dissolving companies electronically through the single Plataforma Empresa Online, payable only online, in force on the platform's public availability ([source, 2026-04-09](https://boe.incv.cv/Bulletins/DownloadAct?id=100739)).
+- The Plataforma Empresa Online (PEO), of the Cabo Verde government, offers company creation online as one package, including formalisation with the Commercial Registry (DGRNI), plus changes to company data and requests for dissolution ([source, 2026](https://peo.gov.cv/sobre-nos)).
 
 ### Congo: 3 Established
 
 Firms could register online in 2025; a number shared with tax is not known.
 
 - The minister for small and medium enterprises officially launched on 5 December 2025 in Brazzaville an online company-creation platform at www.acpce.cg, and the ACPCE director general said some promoters created their companies online during the launch ceremony ([source, 2025-12-05](https://labreveonline.com/lancement-dune-plateforme-de-creation-dentreprise-en-ligne-au-congo/)).
-
-### Cote d'Ivoire: 3 Established
-
-Firms could register online in 2025; a number shared with tax is not known.
-
-- CEPICI states that firms can be created online through the E-Entreprise platform on the 225Invest portal, where creators complete their formalities ([source, 2025-01-01](https://cepici.africa/reforme)).
 
 ### Djibouti: 3 Established
 
@@ -149,6 +138,18 @@ Firms could register online in 2026; a number shared with tax is not known.
 
 - The article says Pesaflow is associated in Kenya with eCitizen and the Business Registration Service, with services to file applications, pay fees and retrieve documents online ([source, 2026-08](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-la-fintech-kenyane-pesaflow-prospecte-le-marche-de-la-govtech)).
 
+### Madagascar: 3 Established
+
+Firms could register online in 2025; a number shared with tax is not known.
+
+- The online company-creation platform Orinasa has been accessible in Manakara since July 2025, per the EDBM antenna head ([source, 2025-07](https://newsmada.com/2026/05/26/investissement-prive-ledbm-sinstalle-a-manakara/)).
+
+### Mauritania: 3 Established
+
+Firms could register online in 2025; a number shared with tax is not known.
+
+- The ministers launched APIM digital services on 4 April 2025 letting investors create companies online through the 'Mes services' portal ([source, 2025-04-04](https://ami.mr/fr/archives/268316)).
+
 ### Mauritius: 3 Established
 
 Firms could register online in 2025; a number shared with tax is not known.
@@ -162,24 +163,17 @@ Firms could register online in 2025; a number shared with tax is not known.
 
 - OMPIC states its electronic company-creation platform is now in service nationwide, with over 12,000 firms created electronically since the February 2023 Rabat pilot ([source, 2025-03-14](http://www.ompic.ma/fr/actualites/ompic-generalisation-de-la-plateforme-de-creation-dentreprises-par-voie-electronique-sur)).
 
-### Rwanda: 3 Established
-
-Firms could register online in 2026; a number shared with tax is not known.
-
-- The Rwanda Development Board's Office of the Registrar General says business registration is 100% an online process and free of charge, with the certificate downloadable from the applicant's account in the registry ([source, 2026-08-30](https://org.rdb.rw/business-registration/)).
-- The Norebase report, via TechCabal, says firms can incorporate in Rwanda within 24 to 72 hours through digital registration, and that the Rwanda Development Board's digital business registration platform moved registration entirely online in January ([source, 2026-01](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/)).
-
 ### Senegal: 3 Established
 
 Firms could register online in 2025; a number shared with tax is not known.
 
 - Senegal launched a digital platform for obtaining the NINEA, inaugurated by Economy Minister Abdourahmane Sarr, to speed up business and association registration ([source, 2025-01](https://www.wearetech.africa/en/fils-uk/news/public-management/senegal-launches-new-platform-to-streamline-business-registration)).
 
-### Sierra Leone: 3 Established
+### Seychelles: 3 Established
 
-Firms could register online in 2025; a number shared with tax is not known.
+Firms could register online in 2026; a number shared with tax is not known.
 
-- The Ministry of Communication, Technology and Innovation says the launched WanGov app offers businesses services including business registration ([source, 2025-02-04](https://sierraloaded.sl/news/ministry-launches-wangov-app/)).
+- The Registration Division of Seychelles publishes an online business registration form on registry.gov.sc capturing entity name, registration type, business type, addresses, partners or owners, supporting documents, tax-related information and share capital ([source, 2026](https://www.registry.gov.sc/BizRegistration/WebBusinessRegsitration.aspx)).
 
 ### Somalia: 3 Established
 
@@ -204,6 +198,13 @@ Firms could register online in 2026; a number shared with tax is not known.
 Firms could register online in 2025; a number shared with tax is not known.
 
 - NIDA lists online company and TIN registration among the services delivered through its consent-based eKYC ([source, 2025-05-01](https://www.id4africa.com/2025/files/PS1-S1-2-Tanzania-final.pdf)).
+
+### Togo: 3 Established
+
+Firms could register online in 2025; a number shared with tax is not known.
+
+- The Full-News article says firms can check name availability, file statutes, pay fees and receive registration documents online through the CFE site cfetogo.tg, in under four hours, with online payment since 2019 ([source, 2025-03-14](https://full-news.tg/promotion-infrastructures-publiques-numeriques-cfetogo-tg-plateforme-cle-entrepreneurs/)).
+- Togo-Presse reports that in 2024 the CFE and the RCCM were connected with other administrative platforms and that a citizen can create a company account online through the Services publics portal ([source, 2024](https://togopresse.tg/une-plateforme-numerique-creee-pour-rendre-les-services-gouvernementaux-plus-accessibles/)).
 
 ### Uganda: 3 Established
 
@@ -275,18 +276,18 @@ A digital business register was under way in 2026; online registration is not on
 - Judicalex, the operator of the Conakry commercial court's digitisation platform, says digitisation projects for the RCCM and other requests are in development for the coming months ([source, 2026-03-04](https://judicalex-gn.org/blog/post/tribunal-du-commerce-le-ministre-de-la-justice-ibrahima-sory-2-tounkara-decouvre-les-installations-de-judicalex/)).
 - APIP-Guinee says it is digitalising company-creation procedures, deploying a new version of the SYNERGUI2 platform linked to the tax system SAFIG2, and trained notaries' clerks on it ([source, 2025-06-19](https://apip.gov.gn/apip-guinee-digitalisation-des-services-renforcement-des-capacites/)).
 
+### Guinea-Bissau: 2 Nascent
+
+A one-stop company registration counter was open in 2026; online registration is not on record.
+
+- The Centro de Formalização de Empresas is described as an autonomous public one-stop shop (guiché único) under the Ministry of Economy for company creation and registration formalities, with online company registration still only planned ([source, 2026](https://cfe.gw/sobre-nos/)).
+
 ### Lesotho: 2 Nascent
 
 A digital business register was under way in 2025; online registration is not on record.
 
 - CAFI Managing Director Chaba Mokuku said a Business Facilitation Single Window at the One Stop Business Facilitation Centre (OBFC), designed to simplify business registration and licensing, has been deployed and is to be launched by the end of 2025 or early 2026 ([source, 2025-11-20](https://lestimes.com/?p=89016)).
 - Revenue Services Lesotho says businesses can contact the One Stop Business Facilitation Centre at the Ministry of Trade, Industry and Small Business for help registering with RSL, and that companies register first with the relevant ministries and then obtain a TIN from RSL ([source, 2025-06](https://www.rsl.org.ls/sites/default/files/2025-06/Guide%20on%20Tax%20Registration.pdf)).
-
-### Liberia: 2 Nascent
-
-A digital business register was under way in 2026; online registration is not on record.
-
-- Deputy Commerce Minister Wilmot Reeves said online business registration is among the reforms under the Liberia Investment, Finance and Trade Project, alongside the new collateral registry ([source, 2026-08-27](https://liberianinvestigator.com/liberia-digital-collateral-registry-business-credit/)).
 
 ### Libya: 2 Nascent
 
@@ -305,6 +306,19 @@ A digital business register was under way in 2024; online registration is not on
 A digital business register was under way in 2025; online registration is not on record.
 
 - API-Mali says its Guichet Unique is a centralised one-stop point that brings company registration, operating authorisations and Investment Code approvals together in one place ([source, 2025](https://apimali.gov.ml/en/creation-entreprise/)).
+
+### Sao Tome and Principe: 2 Nascent
+
+A one-stop company registration counter was open in 2026; online registration is not on record.
+
+- The DGRN page of Sao Tome and Principe presents a one-stop company counter (Guiche Unico para Empresa) handling company formation, alteration, dissolution, branch and sole-trader registration, with fees in dobras ([source, 2026](https://dgrn.gov.st/reg_gue.php)).
+
+### Sierra Leone: 2 Nascent
+
+An online business registration system was being built in 2026; online registration in service is not on record.
+
+- Chief Minister Sengeh said the National Investment Board's One-Stop Digital Business Service Platform, built through a joint venture, is nearly complete and expected to be operational by November 2026, cutting business registration from about 24 hours to minutes ([source, 2026-10-07](https://ayvnews.com/sengeh-highlights-bios-business-transformation/)).
+- Parliament ratified a 15-year build-operate-transfer concession under which Multi GIS E-Services SL Ltd will develop, operate and maintain the Online Business Registration System, per Sierraloaded ([source, 2026-05-31](https://sierraloaded.sl/news/parliament-online-business-registration/)).
 
 ### Zambia: 2 Nascent
 
@@ -330,23 +344,11 @@ Nothing held since 2023 names a digital business register, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether firms can register online.
 
-### Guinea-Bissau: Unplaced
+### Liberia: Unplaced
 
-Nothing held since 2023 names a digital business register, so no stage is set.
+Online registration was among a trade project's planned reforms in 2026; nothing held shows a register under way, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether firms can register online.
-
-### Sao Tome and Principe: Unplaced
-
-Nothing held since 2023 names a digital business register, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether firms can register online.
-
-### Seychelles: Unplaced
-
-Nothing held since 2023 names a digital business register, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether firms can register online.
+Not established: The one fact held (August 2026) says only that online business registration is among the reforms of a trade project; nothing held says a digital register is procured, records are being digitised, a one-stop counter has opened or registration is on paper.
 
 ### Comoros: No evidence
 

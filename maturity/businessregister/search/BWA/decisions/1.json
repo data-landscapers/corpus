@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "business",
+ "aspect": "registration;owners",
+ "fact": "CIPA obtains and records basic and beneficial ownership information electronically through the Online Business Registration System, with the electronic register holding both and basic information publicly accessible, the citizen ID check running through an automated interface established on 3 June 2019.",
+ "title": "Processes for Obtaining, Recording, Maintaining and Verifying Basic and Beneficial Ownership Information of Companies",
+ "publisher": "Companies and Intellectual Property Authority (CIPA)",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Parent: the document carries no date of its own, so it cannot be staged."
+}

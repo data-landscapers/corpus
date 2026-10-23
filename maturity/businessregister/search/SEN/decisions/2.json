@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "owners",
+ "fact": "EITI Senegal states that the RCCM records beneficial ownership information, a July 2025 decree lifted barriers to public access, and Senegal is working to operationalise the register through a digital platform.",
+ "title": "Senegal",
+ "publisher": "EITI",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "business"
+}

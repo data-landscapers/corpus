@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "shared",
+ "fact": "APIX's business creation office, with Justice, finance, ANSD and other bodies represented, issues the commercial register entry and the tax identifier together, and publishes RCCM registration statistics through 2025.",
+ "title": "Création d'entreprise - APIX-S.A.",
+ "publisher": "APIX",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "business"
+}

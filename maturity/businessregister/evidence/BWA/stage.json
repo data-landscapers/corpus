@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BWA-002",
-      "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
-      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
-      "as_at": "2026-10-18"
+      "gaps": "CIPA's page states the legal duty to file beneficial owners and to keep a register, a requirement and not a register in service; nothing held says registration gives one number shared with tax or social security.",
+      "note": "Reassessed in the rebuild: online registration is in service (2025); the beneficial-owner fact was a law's requirement, as Zambia's was, so it is removed in corrections.csv and sets nothing.",
+      "as_at": "2026-10-23"
     }
   ]
 }
