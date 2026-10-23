@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 201
+sources_cited: 200
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -111,10 +111,10 @@ The largest commitment to the country alone is the [World Bank's USD 50 million 
 
 Two of the biggest figures are not money in but cover against loss: [MIGA's USD 97.2 million political risk guarantee (2018)](https://www.miga.org/press-release/miga-guarantees-investment-orange-sierra-leone-ltd) runs to 2033 over SONATEL's 50% stake in Orange Sierra Leone, and a [USD 13.5 million guarantee (2021)](https://www.miga.org/project/escotel-africa-0) covers solar-hybrid power at around 600 Orange tower sites. The Millennium Challenge Corporation's [compact pays for a main and back-up distribution dispatch centre and a national dispatch centre with SCADA upgrades](https://www.mcc.gov/where-we-work/program/sierra-leone-compact/) - electricity network control, with no identity or payments component.
 
-Identity and civil registration have drawn little: the [EU's EUR 5 million for civil registration infrastructure](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2020-PCC-418872) ran 2020-2025 and that window has closed. [UNICEF and the Islamic Development Bank are connecting 523 schools under Giga Phase 2](https://www.dsti.gov.sl/general-procurement-notice-digital-connectivity-in-schools/), the bank taking 403 and UNICEF 120. The African Development Bank has [a governance and aid-coordination grant in pipeline with The Gambia](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-SL-GB0-003), and two regional facilities name the country without sizing its part: [bank identification and digital interoperability across the West African Monetary Zone](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-Z1-H00-098) and the [SHyMeR grant to the West African Health Organization](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-Z1-IB0-044) for a regional health data hub.
+Identity and civil registration have drawn little: the [EU's EUR 5 million for civil registration infrastructure](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2020-PCC-418872) ran 2020-2025 and that window has closed. [UNICEF and the Islamic Development Bank are connecting 523 schools under Giga Phase 2](https://www.dsti.gov.sl/general-procurement-notice-digital-connectivity-in-schools/), the bank taking 403 and UNICEF 120. The African Development Bank has [a governance and aid-coordination grant in pipeline with The Gambia](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-SL-GB0-003), and a regional facility names the country without sizing its part: [bank identification and digital interoperability across the West African Monetary Zone](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-Z1-H00-098).
 
 <!-- derived -->
-Twelve digital-sector commitments are on record as at August 2026, ten to Sierra Leone alone and two regional facilities naming it, starting from 2018 with windows out to 2033: six grants worth about USD 63 million, two concessional loans worth USD 84 million, and two MIGA guarantees covering USD 112 million of private investment (August 2026). The country-specific ones come to roughly a quarter of a billion US dollars, close to half of it guarantee cover rather than money flowing in, and three of the twelve are approved or in pipeline rather than under way. Connectivity takes much the largest share, electricity control systems next, every other subsector far behind. The African Development Bank appears most often, while the World Bank and the Millennium Challenge Corporation are the largest sources of finance that actually flows.
+Sixteen digital-sector commitments are on record for Sierra Leone as at October 2026, starting from 2018 with windows out to 2033 and worth about USD 300 million in all. By instrument (October 2026), eight grants are worth about USD 31 million, three concessional loans about USD 105 million, two MIGA guarantees cover USD 112 million of private investment, an operator's self-funded network upgrade accounts for USD 50 million and one USD 2 million payment has no instrument recorded. Close to two-fifths of the October 2026 total is guarantee cover rather than money flowing in, and two of the sixteen are approved or in pipeline rather than under way. Connectivity takes much the largest share as at October 2026, about USD 248 million across six commitments, with land registries next at about USD 21 million and every other subsector far behind. MIGA is the largest source by value as at October 2026, ahead of the World Bank at about USD 86 million across three operations.
 
 ## ICT Infrastructure
 
@@ -377,7 +377,7 @@ China both financed and built Sierra Leone's inland fibre: [China Eximbank lent 
 ### EU activities
 <!-- geopol.eu -->
 
-European money sits inside the civil registration system rather than beside it: the European Union committed [EUR 5 million over 2020-2025 to the IT and physical infrastructure of civil registration](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2020-PCC-418872), aimed at lifting birth and death registration through register service centres and the issue of document extracts to citizens. The second European commitment is much smaller and sits in agriculture, [EUR 1 million over 2022-2025 for a block-farming and digital extension platform in a pineapple supply chain](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-PCC-435475), placing 250 farmers on half-acre plots of a 50-hectare block farm with targets of 20-30% women and 40-50% youth. No standing EU bilateral digital agreement, and no European platform or equipment presence in government systems, is on the record.
+European money sits inside the civil registration system rather than beside it: the European Union committed [EUR 5 million over 2020-2025 to the IT and physical infrastructure of civil registration](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2020-PCC-418872), aimed at lifting birth and death registration through register service centres and the issue of document extracts to citizens. The second European commitment is much smaller and sits in agriculture, [EUR 1 million over 2022-2025 for a block-farming and digital extension platform in a pineapple supply chain](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-PCC-435475), without splitting out the platform's share, placing 250 farmers on half-acre plots of a 50-hectare block farm with targets of 20-30% women and 40-50% youth. No standing EU bilateral digital agreement, and no European platform or equipment presence in government systems, is on the record.
 
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
