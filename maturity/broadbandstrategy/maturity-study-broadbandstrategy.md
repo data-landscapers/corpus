@@ -45,6 +45,8 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: money is committed to the plan |
 | 5 Leading | Yes to all four: the plan is funded and progress against its targets is published |
 
+**Settled as worded** *(Bill, 2026-10-23)*: a plan with targets but no stated period is still running, and an adopted plan stands until its stated period ends, however old.
+
 - **Questions 1 and 2 have no time limit**: an adopted plan stands, with its year, until its period ends or a dated source says it is replaced or withdrawn.
 - **A statement that there is no plan counts for three years.**
 - **Money counts only where the source ties it to the plan.** A financed fibre project in a country with no plan is noted and places nothing.
