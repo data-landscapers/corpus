@@ -1,6 +1,6 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
@@ -101,7 +101,7 @@ Zimbabwe had signed no memorandum of understanding or comparable non-binding dig
 Zimbabwe's two Chinese state telecoms loans are cross-collateralised: [where TelOne's debt-service reserve account at China Eximbank falls short, the agreement directs surplus revenues from the separately financed third phase of the NetOne expansion to settle the TelOne loan](https://www.facebook.com/permalink.php?story_fbid=2059012574323134&id=2049750908582634&substory_index=0#). That credit is [a US$98.6 million preferential buyer's credit ratified by Parliament on 5 April 2016 and repayable to January 2037](https://www.facebook.com/permalink.php?story_fbid=2059012574323134&id=2049750908582634&substory_index=0#), and [the government on-lent it at a higher rate than it pays China Eximbank, covering most of a US$116.8 million Huawei equipment contract, with the state-owned NetOne as guarantor](https://www.facebook.com/permalink.php?story_fbid=2059012574323134&id=2049750908582634&substory_index=0#).
 
 <!-- derived -->
-Eight digital-sector commitments are on the record, announced between 2015 and 2026, with delivery running out to 2027 and repayments to 2037. They come to roughly half a billion US dollars, nearly all of it Chinese state finance — China Development Bank, China Eximbank and the Ministry of Commerce — with Sweden, UNDP and a British health research funder the only other financiers, for a few million dollars between them. Four of the eight are loans and three grants, so this is debt rather than aid, and connectivity takes the great majority against much smaller sums for university computing, government equipment and digital skills. The largest, approved in 2015, is not recorded as moving, and two more are closed.
+Eight digital-sector commitments are on the record, announced between 2015 and 2026, with delivery running out to 2027 and repayments to 2037. They come to about US$560 million (2015-2026), nearly all of it Chinese state finance — China Development Bank, China Eximbank and the Ministry of Commerce — with Sweden, UNDP and a British health research funder the only other financiers, for under US$10 million between them. Four of the eight are loans and three grants, so this is debt rather than aid, and connectivity takes the great majority against much smaller sums for university computing, government equipment and digital skills. The largest, approved in 2015, is not recorded as moving, and two more are closed.
 
 That is [a US$300 million loan from China Development Bank and ZTE Corporation to Econet Wireless Zimbabwe, agreed on 4 December 2015 for market consolidation and new services](https://www.fin24.com/Tech/Mobile/econet-zim-to-get-300m-from-china-20151204). China Eximbank has also extended [a concessional loan for Phase 3 of NetOne's expansion, the state-owned operator whose network build has been Chinese-financed and Huawei-equipped since 2G](https://global.factiva.com/redir/default.aspx?P=sa&an=MEWZII0020160805ec850005p&cat=a&ep=ASE) (2021).
 
