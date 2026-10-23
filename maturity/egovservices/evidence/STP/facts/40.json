@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-stp-digitising-a-nation-s-public-service-delivery",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Citizen Portal and mobile application",
+   "country_label": "Citizen Portal",
+   "class": "eservices",
+   "platform": "gov.st domain",
+   "owner": "INIC",
+   "tiers": ""
+  }
+ ],
+ "note": "The 150+ services portal is described as delivered by Phase 1 and as expected outcomes; the page does not say a service is live or piloted."
+}

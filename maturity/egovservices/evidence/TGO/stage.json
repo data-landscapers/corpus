@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "3",
+      "stage": "4",
       "services": "inservice",
-      "gateway": "",
+      "gateway": "single",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-002;TGO-006",
-      "gaps": "No source held since October 2023 says one national portal carries several ministries' services with shared sign-in.",
-      "note": "First pass: counted from the four questions by study-ladder-egovservices.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TGO-011;TGO-002;TGO-006",
+      "gaps": "No source held since October 2023 gives users, applications or transactions through the national portal.",
+      "note": "ANID's May 2026 deck describes service-public.gouv.tg as one integrated portal for public services with sign-in by the national ID number. No count of users or transactions through it is held.",
+      "as_at": "2026-10-23"
     }
   ]
 }

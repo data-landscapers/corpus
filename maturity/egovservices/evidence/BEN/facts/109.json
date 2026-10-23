@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-services portal",
+   "country_label": "Benin",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Gateway fact struck at Level 1: the deck says the e-services portal requires the unique identifier, not that one portal carries several ministries' services."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-14-mus-maupass-au-service-de-l-inclusion-numerique",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Maurice Info reports government e-services are already available online, citing the recent launch of an online driving licence system, with more services to be added soon; no count is given.",
+   "as_of": "2025-08-14",
+   "date_precision": "day",
+   "system": "MauPass",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

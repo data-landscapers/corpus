@@ -41,3 +41,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZMB,dpi.govtech--e-government-services,review,no evidence,5,ZMB-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,dpi.govtech--e-government-services,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-22,ETH,dpi.govtech--e-government-services,fact,unplaced,2,ETH-005,Ethio Telecom launched the teleSign app for online document authentication on 30 Mar 2026; unplaced -> 2.
+2026-10-23,ETH,dpi.govtech--e-government-services,fact,2,4,ETH-006,"National ID Ethiopia's May 2026 ID4Africa deck describes MESOB as a Fayda-based digital one-stop shop for e-government services (ETH-006), dated inside the window where ETH-001 was not: single gateway, so 2 to 4."
+2026-10-23,TGO,dpi.govtech--e-government-services,fact,3,4,TGO-011;TGO-002;TGO-006,"ANID's May 2026 ID4Africa deck describes service-public.gouv.tg as one integrated portal for public services with sign-in by UIN and OTP (TGO-011): single gateway, so 3 to 4."

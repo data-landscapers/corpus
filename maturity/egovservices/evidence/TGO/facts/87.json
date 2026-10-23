@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The deck describes a digital one-stop portal for public services (service-public.gouv.tg) powered by e-ID, with sign-in by unique identification number or email and OTP; the deck is undated and is dated to May 2026, the ID4Africa 2026 meeting it was given at.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "service-public.gouv.tg",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The deck describes a fully integrated one-stop portal for public services with secure access through the unique identification number; the deck is undated and is dated to May 2026, the ID4Africa 2026 meeting it was given at.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "service-public.gouv.tg",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "service-public.gouv.tg",
+   "country_label": "Togo",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

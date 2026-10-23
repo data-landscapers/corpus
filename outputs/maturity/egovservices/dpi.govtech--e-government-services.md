@@ -21,9 +21,9 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 5 |
-| 3 Established | 14 |
-| 2 Nascent | 23 |
+| 4 Operating | 7 |
+| 3 Established | 13 |
+| 2 Nascent | 22 |
 | 1 Absent | 0 |
 | Unplaced | 8 |
 | No evidence | 0 |
@@ -66,6 +66,12 @@ A single government gateway with shared sign-in was in service in 2026; its use 
 
 - Biometric Update reports RDC-Pass, the national digital ID platform, gives unified access to e-government services via a single login and is described as a central gateway for service delivery across government agencies ([source, 2026-06-13](https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident)).
 
+### Ethiopia: 4 Operating
+
+A one-stop digital platform for government services with national ID sign-in ran in 2026; how many use it is not known.
+
+- National ID Ethiopia's deck describes Mesob as a Fayda-based digital one-stop shop for e-government services, listed with agriculture and health services ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
+
 ### Seychelles: 4 Operating
 
 A single government gateway with shared sign-in was in service in 2024; its use is not published.
@@ -78,6 +84,14 @@ A single government gateway with shared sign-in was in service in 2025; its use 
 
 - The page says one eServices.gov.ss account, created with an ID for citizens and residents or a passport number for foreigners, gives access to all government services online including BRS, with fees payable by mobile money, cards and online banking ([source, 2025](https://brs.eservices.gov.ss)).
 - The portal describes a single username and password giving access to services of several agencies (revenue authorities, Bureau of Standards, business registration), as a single account for all government to citizen services ([source, 2024](https://www.eservices.gov.ss/)).
+
+### Togo: 4 Operating
+
+A national portal for public services with national ID sign-in ran in 2026; how many use it is not known.
+
+- The deck describes a fully integrated one-stop portal for public services with secure access through the unique identification number; the deck is undated and is dated to May 2026, the ID4Africa 2026 meeting it was given at ([source, 2026-05](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
+- Togo First reports that the ministry's two procedures, five services of state broadcaster TVT and five of Radio Lomé, twelve in all, became available through the national public services portal from early the week of 28 September 2026 ([source, 2026-09](https://www.togofirst.com/en/public-services/2909-20205-togo-adds-more-administrative-procedures-to-online-public-services-portal)).
+- Togo's justice ministry launched on 2 July 2026 an online portal through which litigants, lawyers and bailiffs pay fees for nearly forty services of the Tribunal de Grande Instance de Lomé ([source, 2026-07-02](https://justice.gouv.tg/les-services-du-tribunal-de-grande-instance-de-lome-passent-en-mode-paiement-numerique/)).
 
 ### Tunisia: 4 Operating
 
@@ -165,13 +179,6 @@ Ten or more government services could be completed online in 2024; a single gate
 
 - e-GA says citizens can obtain various government services through the mGov mobile system by dialling *152*00#, and a CHAVITA board member says it let Deaf people pay electricity and water bills by phone ([source, 2024-09-30](https://www.ega.go.tz/news/e-ga-yatoa-elimu-ya-serikali-mtandao-kwa-viziwi)).
 
-### Togo: 3 Established
-
-Ten or more government services could be completed online in 2026; a single gateway is not on record.
-
-- Togo First reports that the ministry's two procedures, five services of state broadcaster TVT and five of Radio Lomé, twelve in all, became available through the national public services portal from early the week of 28 September 2026 ([source, 2026-09](https://www.togofirst.com/en/public-services/2909-20205-togo-adds-more-administrative-procedures-to-online-public-services-portal)).
-- Togo's justice ministry launched on 2 July 2026 an online portal through which litigants, lawyers and bailiffs pay fees for nearly forty services of the Tribunal de Grande Instance de Lomé ([source, 2026-07-02](https://justice.gouv.tg/les-services-du-tribunal-de-grande-instance-de-lome-passent-en-mode-paiement-numerique/)).
-
 ### Angola: 2 Nascent
 
 Government services were going online in 2026; ten or more online are not on record.
@@ -210,12 +217,6 @@ Government services were going online in 2025; ten or more online are not on rec
 Government services were going online in 2024; ten or more online are not on record.
 
 - The Eritrean embassy in the USA launched on 24 September 2024 the Consular Affairs Processing System (CAPS), built by the Ministry of Foreign Affairs, through which consular services including ID card, entry visa and passport renewal applications are begun online ([source, 2024-09-24](https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf)).
-
-### Ethiopia: 2 Nascent
-
-An app for applying for document authentication online was launched in 2026; a dated count of ten or more services online is not known.
-
-- Ethio Telecom launched the teleSign app, developed with the Ministry of Foreign Affairs, the Ministry of Justice and the Federal Documents Authentication and Registration Service, for online document authentication, power of attorney and professional licences, with payment by telebirr ([source, 2026-03-30](https://www.ena.et/web/eng/w/eng_8578538)).
 
 ### Gabon: 2 Nascent
 

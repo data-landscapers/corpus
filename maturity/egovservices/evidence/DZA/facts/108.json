@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-dza-algeria-reviews-national-ai-strategy-progress-and-approves-launch-of-d",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "iAfrica reports the Dzair Digital Services portal ran pilot trials in March and April 2026 across seven ministerial sectors with over 1,700 participants and was cleared on 25 May 2026 for imminent launch with 52 services.",
+   "as_of": "2026-05-25",
+   "date_precision": "day",
+   "system": "Dzair Digital Services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzair Digital Services",
+   "country_label": "Dzair Digital Services",
+   "class": "eservices",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

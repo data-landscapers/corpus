@@ -1,0 +1,37 @@
+{
+ "slug": "2024-05-09-ken-digital-identity-id-roll-out-on-course-ps",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The Principal Secretary says the e-Citizen platform has more than 16,000 services online and collects more than Sh700 million a day.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "e-Citizen",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The Principal Secretary says e-Citizen, connected to the IPRS database that links the National Registration Bureau, civil registration and immigration, has more than 13 million registered users.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "e-Citizen",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The Principal Secretary says e-Citizen has more than 13 million registered users and about 30,000 people enrol each day.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "e-Citizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

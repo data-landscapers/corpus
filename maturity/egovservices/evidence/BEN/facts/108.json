@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "ANIP says its eservices.anip.bj portal, app and USSD menus issued over 10 million documents in 2025, 75% of them online, and that identity cards can be ordered by USSD.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "eservices.anip.bj",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eservices.anip.bj",
+   "country_label": "Benin",
+   "class": "eservices",
+   "platform": "web, mobile app, USSD",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

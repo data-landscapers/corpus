@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-moz-mctd-e-eurocam-celebram-memorando-de-entendimento",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Minister Americo Muchanga said implementation of the Portal do Cidadao is already under way.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Portal do Cidadao",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portal do Cidadao",
+   "country_label": "Portal do Cidadao",
+   "class": "eservices",
+   "platform": "",
+   "owner": "MCTD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

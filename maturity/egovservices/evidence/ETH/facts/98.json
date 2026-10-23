@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "National ID Ethiopia's deck describes Mesob as a Fayda-based digital one-stop shop for e-government services, listed with agriculture and health services.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Mesob",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

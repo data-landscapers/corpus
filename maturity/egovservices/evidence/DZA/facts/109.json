@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-21-dza-banks-race-to-change-algerians-cash-habits-before-end-2026",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Echorouk reports that Algerians can pay public fees and services electronically, among them housing instalments, Hajj fees, insurance and taxes, and that administrative services were 28% of online payment transactions in the first half of 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "online payment of public fees",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

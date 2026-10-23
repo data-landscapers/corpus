@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: ETH
-ledger_rows: 32
+ledger_rows: 33
 not_held: 5
-record: e75066e65007
+record: 67dcb8feeb7d
 ---
 
 # News, Sep – Oct 2026
@@ -241,6 +241,20 @@ The state power utility cut supply to bitcoin mining and data-mining operations 
 **[Ethiopia establishes financial sector cybersecurity forum to improve digital resilience](https://techreviewafrica.com/news/7510/ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-resilience)** — Tech Review Africa, 30 September 2026
 
 Ethiopia set up a Financial Sector Cybersecurity Forum on 29 September, chaired jointly by the cyber agency INSA and the National Bank, for threat sharing and coordinated incident response across financial institutions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Licensing of encryption products and services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Encryption As a Digital Rights Safeguard](https://cipesa.org/2026/10/encryption-as-a-digital-rights-safeguard/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+GPD World Map relaunched 21 Oct 2026; Ethiopia severe on encryption, Nigeria and Zimbabwe on legislative threats.
 
 </div>
 

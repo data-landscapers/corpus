@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eservices",
-      "stage": "2",
+      "stage": "4",
       "services": "underway",
-      "gateway": "",
+      "gateway": "single",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-005",
-      "gaps": "No source held dated inside the window counts ten or more services online; the MESOB rows are dated to the year 2026 only, which stands for its last day.",
-      "note": "Fact 2026-03-30: Ethio Telecom launched the teleSign app for online document authentication, a service that can be applied for online; no dated count of ten or more services is held.",
-      "as_at": "2026-10-22"
+      "stage_sources": "ETH-006",
+      "gaps": "No source held dated inside the window counts ten or more services online, and none gives users, applications or transactions through a national portal.",
+      "note": "National ID Ethiopia's May 2026 deck describes MESOB as a Fayda-based digital one-stop shop for e-government services, which answers the gateway question and the earlier ones. No count of users or transactions through it is held.",
+      "as_at": "2026-10-23"
     }
   ]
 }
