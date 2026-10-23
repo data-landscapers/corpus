@@ -19,6 +19,7 @@ CAF,"AI TB positivity mapping model, Bangui",Central African Republic,sectorai,,
 CIV,carte d'occupation des sols 2020,Côte d'Ivoire,sectorai,online land-cover data access platform,BNETD (CIGN),,2024-03-26-civ-cote-d-ivoire-le-bnetd-presente-la-carte-d-occupation-des-sols-2020-av
 CIV,mHealth One,Côte d'Ivoire,sectorai,mHealth (TICANALYSE),"Ministry of Health, Public Hygiene and Universal Health Cover",,2026-10-16-civ-la-cote-d-ivoire-deploie-mhealth-one-la-version-de-mhealth-integrant-l
 CIV,Pendulum AI forecasting,Cote d'Ivoire,sectorai,mSupply Mobile,Ministry of Health with Pendulum,,2024-04-15-civ-leveraging-dhis2-data-to-create-ai-driven-health-facility-forecasts-in
+CIV,Case Agri AI pilot,Cote d'Ivoire,sectorai,,,,2025-07-30-civ-mercredi-30-juillet-2025-seance-de-travail-de-la-task-force-ia-au-cent
 CMR,simulations générées par l'IA,Cameroun,sectorai,,MINESEC,,2026-08-19-dba-minesec-simulation-ia-e-education
 CMR,CNPS automated pension-file processing,Cameroun,sectorai,,CNPS,,2026-02-17-digitalbusiness-africa-minpostel-atelier-ia-administrations
 CMR,CNPS AI tools,Cameroon,sectorai,MA CNPS A MOI,CNPS,,2026-02-26-cmr-at-gov-t-artificial-intelligence-workshop-cnps-director-general-showca
@@ -75,6 +76,7 @@ GIN,Plateforme numerique de suivi des alertes du COU-SP,Guinee,other,,ANSS / Min
 GMB,National Misinformation and Disinformation Response Centre (NMDRC),The Gambia,other,AI-powered platform built by Dundal Systems,Ministry of Information,,2026-04-27-grts-gambia-national-misinformation-disinformation-response-centre
 GMB,Rental Tax Compliance System (rTCS),Rental Tax Compliance System,sectorai,RippleNami ML model,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
 GMB,TITA App,The Gambia,sectorai,mobile app with admin panel,MoHERST; developed by TITA Universal Services Ltd.,"students, lecturers (Lecti), management (TITA Admin Panel)",2025-04-25-gmb-kerrfatou-moherst-tita-ai-app
+GNQ,AI-integrated meteorological station,Equatorial Guinea,sectorai,,"Ministry of Transport, Telecommunications and AI Systems",,2025-07-24-gnq-equatorial-guinea-launches-climate-innovation-project-students-to-buil
 KEN,Smart Delinquency Predictor,Kenya,other,IronOne Technologies LLC,"IronOne Technologies (vendor), offered to commercial banks",,2026-08-09-predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis
 KEN,Taifa Care,Kenya,sectorai,Taifa Care,Digital Health Agency,,2026-08-25-ken-kenyans-taifa-care-ai-rmncah-system
 KEN,AI-powered risk engines,Kenya,sectorai,,Kenya Revenue Authority,,2025-11-20-ken-kra-ruto-hails-ai-led-reforms
@@ -112,6 +114,8 @@ MRT,Virtual teachers and assistants pilot,Mauritania,sectorai,,MTNIMA,,2024-11-2
 MRT,Multilingual translation for national unity pilot,Mauritania,other,,MTNIMA,,2024-11-21-mrt-un-stand-du-mtnima-sur-l-ia-en-marge-de-la-conference-des-femmes-creat
 MUS,myt learn,Mauritius,other,learning platform for secondary school students and teachers,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
 MUS,MyTLearn,Mauritius,sectorai,AI tutor and teacher coach,Mauritius Telecom with the Ministry of Education,,2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica
+MUS,Rodrigues AI learning tool,Rodrigues AI learning tool,sectorai,,Mauritius Telecom,,2026-06-24-mus-mauritius-telecom-ai-learning-lead-to-national-ai-registry
+MUS,Mauritius AI Registry,Mauritius AI Registry,other,open source,Mauritius Telecom,,2026-06-24-mus-mauritius-telecom-ai-learning-lead-to-national-ai-registry
 MWI,Smart City Surveillance Initiative,Malawi,other,"AI-powered surveillance cameras, number plate recognition, central command centre",MACRA,city,2026-09-28-mwi-itwebafrica-macra-ai-crime-cameras-blantyre
 MWI,Smart City Surveillance Initiative,Malawi,other,AI-powered smart cameras,MACRA,city,2026-09-28-mwi-macra-blantyre-smart-city-surveillance
 MWI,Bris AI weather prediction model (forecast-in-a-box),Malawi,sectorai,forecast-in-a-box at DCCMS,"MET Norway with DCCMS, implemented via WMO",,2025-07-01-mwi-crews-ai-ew4all-pilot-note

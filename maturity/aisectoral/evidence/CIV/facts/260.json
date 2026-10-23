@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-30-civ-mercredi-30-juillet-2025-seance-de-travail-de-la-task-force-ia-au-cent",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The national computing centre's account says the AI Hub's application pole has begun a pilot project on agriculture with the Case Agri, as stated by the ministry's startup director.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Case Agri AI pilot",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Case Agri AI pilot",
+   "country_label": "Cote d'Ivoire",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

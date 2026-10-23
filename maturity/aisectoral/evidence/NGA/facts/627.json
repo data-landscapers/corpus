@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-21-nga-fg-moves-to-regulate-ai-use-in-healthcare",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Minister of State for Health Iziaq Salako said the National Centre for Artificial Intelligence and Robotics under NITDA is leading projects to integrate AI into healthcare delivery.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "NCAIR healthcare AI projects",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

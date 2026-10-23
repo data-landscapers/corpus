@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-02-nga-nigeria-is-adopting-ai-fast-but-foreign-firms-are-winning-report-warns",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The review reports AI-powered traffic management pilots in Lagos and Abuja that have reportedly reduced peak-hour travel times by 20%.",
+   "as_of": "2026-08-02",
+   "date_precision": "day",
+   "system": "AI-powered traffic management pilots",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
