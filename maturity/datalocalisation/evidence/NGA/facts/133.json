@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-19-nga-kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-read",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Nigeria Sovereign Investment Authority's release says the National Cloud Policy 2025 mandates in-country hosting for sensitive government and financial data.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "National Cloud Policy 2025 (NCP2025)",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
