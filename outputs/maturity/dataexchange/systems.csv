@@ -25,6 +25,8 @@ BEN,Portail National des Services Publics,Benin,other,,Ministère du Numérique 
 BEN,securoute.anatt.bj,Benin,other,ANATT secured portal,ANATT,,2026-09-11-ben-cadreco-tresor-penalites-routieres-paiement
 BEN,SECUROUTE,Benin,other,,"Government of Benin (Ministry of Economy and Finance, with Ministry of Transport, National Police and road safety agencies)",,"2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade"
 BEN,Smart Africa Data Exchange (SADX),Benin,other,SADX,Smart Africa,,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing
+BEN,Plateforme d'intégration / interopérabilité,Benin,exchange,X-Road,ANIP,,2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id
+BEN,X-Road,Benin,exchange,X-Road,ANIP,,2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e
 BFA,service-public.gov.bf national portal,Burkina Faso,other,,Government of Burkina Faso,,2026-05-07-burkina-faso-central-portal-e-services
 BWA,Information gateway,Botswana,exchange,,Digital Services Authority,,2025-10-17-bwa-digital-services-act-2025
 CAF,Dunia platform,Central African Republic,other,,MEPCI-RCA,,2026-02-27-primature-dunia-platform-launch
@@ -211,6 +213,7 @@ MOZ,national mobile digital ID,Mozambique,other,,"ATDI, World Bank EDGE",,2026-0
 MOZ,X-Road interoperability infrastructure,Mozambique,exchange,X-Road,ATDI,,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
 MOZ,X-Road Interoperability Platform,Mozambique,exchange,X-Road,ATDI,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
 MOZ,National mobile digital identity and electronic signature infrastructure,Mozambique,other,,,,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique
+MOZ,Plataforma de Interoperabilidade do Governo de Moçambique,Mozambique,exchange,Security Servers,"INAGE, IP",,2025-06-13-moz-inage-ip-lidera-implementacao-da-plataforma-de-interoperabilidade-cent
 MRT,Maadeni (النظام المعلوماتي المندمج معدني),Mauritania,other,,Agence nationale Maaden Mauritanie,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,GIMTEL CONNECT,Mauritania,other,,,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,integrated government digital platform for qualification and classification of firms,Mauritania,other,,Ministry of Housing,,2026-09-16-mrt-ami-rqmnt-tahil-tasnif-muassasat
@@ -317,6 +320,7 @@ STP,plataforma de interoperabilidade (registo civil / recenseamento eleitoral),S
 STP,SIGA,STP,other,,DGRN,,2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade
 STP,Bilhete de Identidade,STP,other,,DGRN,,2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade
 STP,Plataforma de Interoperabilidade,STP,exchange,,INIC (strategy proponent),,2021-08-09-sao-tome-resolucao-35-2020-estrategia-governacao-digital
+STP,Data Exchange Layer,Data Exchange Layer,exchange,,INIC,,2026-01-01-stp-digitising-a-nation-s-public-service-delivery
 SWZ,Mchumanisi,Eswatini,exchange,,"Ministry of Information, Communications and Technology (draft National Data Governance Policy 2027-2031)",,2026-07-22-mchumanisi-data-exchange-platform
 SWZ,CMIS-eLMIS integration,Eswatini,other,,Ministry of Health,,2026-06-12-hmis-eswatini-cmis-elmis-integration
 SWZ,Health Information Exchange,Eswatini,other,HL7/FHIR,Ministry of Health,,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
@@ -338,6 +342,7 @@ TGO,Smart Bridge,Togo,other,Kazakhstan NITEC eGov,Agence Togo Digital (licensee)
 TGO,Single platform of internet resources for public agencies,Togo,other,Kazakhstan NITEC eGov,Agence Togo Digital (licensee); NITEC (licensor),,2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing
 TGO,Smart Data Ukimet,Togo,other,Kazakhstan NITEC eGov,Agence Togo Digital (licensee); NITEC (licensor),,2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing
 TGO,RSIA (Réseau Sécurisé Inter Administration),Togo,exchange,"federated, local security servers",Agence Togo Digital,,2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange
+TGO,RSIA,Togo,exchange,X-Road,ANID,,2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza
 TUN,National interoperability platform (UXP),Tunisia,exchange,Cybernetica Unified eXchange Platform (UXP),Ministry of Communication Technologies,,2026-05-22-tunisie-lequotidien-interoperabilite-phase-2-192-projets
 TUN,National interoperability platform (UXP),Tunisia,exchange,Cybernetica Unified eXchange Platform (UXP),Ministry of Communication Technologies,,2026-05-14-cybernetica-national-interoperability-platform-phase2
 TUN,National interoperability platform (xROAD),Tunisia,exchange,X-Road,Centre National de l'Informatique,,2025-01-01-tunisie-cni-interoperability-solutions
