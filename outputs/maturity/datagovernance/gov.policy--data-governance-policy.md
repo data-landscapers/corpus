@@ -21,8 +21,8 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
-| 3 Established | 8 |
+| 4 Operating | 5 |
+| 3 Established | 7 |
 | 2 Nascent | 21 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -51,6 +51,13 @@ Rwanda's cabinet approved a National Data Sharing Policy in May 2025, and a unit
 
 - The document says the Data Governance Unit at the National Institute of Statistics of Rwanda has been established and serves as the operational arm of the public sector data sharing policy, with staff in place and projects started; it gives no establishment date, so the date used is the document's published date ([source, 2026-05-07](https://cenfri.org/articles/what-will-determine-the-success-of-rwandas-data-governance-push/)).
 - Cenfri's interview with NISR's Data Governance Project Lead says the policy is in place (the public sector data sharing policy), with implementation now the question; the document gives no approval date, so the date used is the document's published date ([source, 2026-05-07](https://cenfri.org/articles/what-will-determine-the-success-of-rwandas-data-governance-push/)).
+
+### South Africa: 4 Operating
+
+A 2025 directive requires every department to set up a data governance committee and chief data officer; no rule issued under the policy is known.
+
+- The Minister for Public Service and Administration signed the Determination and Directive on the Implementation of Data Governance in the Public Service, with the Public Service Data Governance Framework as Annexure A, in effect on signature and repealing the 14 February 2024 knowledge and data management directive ([source, 2025-04-02](https://www.dpsa.gov.za/dpsa2g/documents/km/2025/Determination%20and%20Directive%20on%20the%20Implementation%20of%20Data%20Governance%20in%20the%20Public%20Service.pdf)).
+- The directive requires each Head of Department to establish a Data Governance Committee and a Data Governance Office and to appoint a Chief Data Officer (which may be filled within 24 months) ([source, 2025-04-02](https://www.dpsa.gov.za/dpsa2g/documents/km/2025/Determination%20and%20Directive%20on%20the%20Implementation%20of%20Data%20Governance%20in%20the%20Public%20Service.pdf)).
 
 ### Uganda: 4 Operating
 
@@ -102,13 +109,6 @@ Sierra Leone published its first National Data Strategy in January 2023 and was 
 
 - The report says the Ministry's training of the DSTI technical team is part of its efforts to implement the National Data Strategy, which it describes as treating data as a public asset; no adoption date is given ([source, 2026-08-21](https://techreviewafrica.com/news/6855/sierra-leone-trains-government-technical-team-on-ai-and-data-protection-by-design)).
 - The Ministry of Information and Communications published the National Data Strategy, the country's first, dated January 2023 and carrying the Minister's foreword and the Permanent Secretary's preface; the document gives no end date ([source, 2023-01](https://mocti.gov.sl/wp-content/uploads/2024/12/Sierra-Leone-National-Data-Strategy_2023_v1.pdf)).
-
-### South Africa: 3 Established
-
-South Africa issued its National Policy on Data and Cloud in the Government Gazette in May 2024; no body to carry it out is held.
-
-- National Treasury's reply of 10 September 2024 refers to the 'National Policy on Data and Cloud (2024)' and says Treasury considered its implications and plans to convert its 2016 IFMS licences to cloud-based ([source, 2024-09-10](https://www.treasury.gov.za/publications/other/MinAnsw/2024/PQ%20792_244_%20Bateman__NW1017E%20_FINAL.pdf)).
-- The Department of Communications and Digital Technologies issued the final National Policy on Data and Cloud as Notice 2533 of 2024 in Government Gazette 50741 of 31 May 2024, setting government policy on the collection, storage, use and sharing of data across national and provincial government, organs of state and the private sector; the notice carries no printed day, so the date is the gazette date ([source, 2024-05-31](https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf)).
 
 ### Botswana: 2 Nascent
 
