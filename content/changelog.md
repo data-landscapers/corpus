@@ -1,5 +1,6 @@
 ## 23 October 2026
 
+- The health reporting indicator's stage 4 now needs evidence that primary clinics themselves enter their reports; a share of all health facilities no longer settles it. Togo moves from stage 4 to 3, and no country is now at stage 4.
 - Country reports now count non-state finance the way the finance tables do: deals mainly for something other than digital, such as cash transfers or budget support, are no longer presented as digital investment, and where a deal is only partly digital the report says the digital share is not stated. Totals quoted in the reports now match each country's table.
 - Ghana's 2024 identity-authority line now shows the Appropriation Bill's GHS 212.2m, including staff, in place of the Budget Statement's 165m. Ghana's 2024 and 2025 figures for the authority are now counted the same way.
 - The budget tables now hold communications regulators funded outside the budget, from their own accounts: Kenya, Lesotho, Madagascar, Namibia, Eswatini and Uganda for 2024/25, and Tunisia's finance ministry computing centre for 2024 and 2025. Their spending was left out before, so these countries' digital totals rise; a regulator counts at half, as a body whose mandate is mixed.
