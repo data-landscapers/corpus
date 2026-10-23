@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-nga-fg-proposes-shared-ai-computing-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Communications minister Bosun Tijani said at Build 2026 in Abuja that the government's AI strategy aims to place Nigeria among the top 25 percent of countries in AI readiness.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Nigeria's AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria's AI strategy",
+   "country_label": "Nigeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

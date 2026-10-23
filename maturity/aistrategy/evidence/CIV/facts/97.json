@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-14-civ-kouassi-benjamin-dir-cnc-de-cote-divoire-le-supercalculateur-est-la-ra",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The director of the national computing centre refers to Cote d'Ivoire's Stratégie nationale de l'intelligence artificielle as a strategy carried over 5 years, which the centre's AI hub is to launch.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The centre's director says the Centre national de calcul, which will host the AI hub and an AI Fab Lab, becomes the central element in carrying out the national AI strategy.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Centre national de calcul de Côte d'Ivoire",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "country_label": "Cote d'Ivoire",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

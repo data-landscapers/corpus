@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-19-nga-dr-tijani-wraps-up-artificial-intelligence-strategy-workshop-announces",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The ministry says the 4-day National AI Strategy workshop in Abuja, with over 120 participants, produced a draft national AI strategy document covering policies, investments, implementation roadmap and governance structures.",
+   "as_of": "2024-04-18",
+   "date_precision": "day",
+   "system": "National AI Strategy (NAIS)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Strategy (NAIS)",
+   "country_label": "Nigeria",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Federal Ministry of Communications, Innovation & Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-29-dza-algeria-reviews-national-ai-strategy-progress-and-approves-launch-of-d",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "iAfrica reports that the government meeting chaired by the Prime Minister on 25 May 2026 reviewed Algeria's six-pillar National Artificial Intelligence Strategy, which is in active implementation, was first developed in 2019 and was revised in 2024.",
+   "as_of": "2026-05-25",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "iAfrica reports that a dedicated AI Council was established to advise the government and guide cross-sectoral policy on AI, alongside the 2024 revision of the strategy.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "AI Council",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy",
+   "country_label": "National AI Strategy",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

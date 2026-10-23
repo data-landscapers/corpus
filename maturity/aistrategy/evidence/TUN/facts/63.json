@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-17-tun-new-ai-innovation-hub-in-tunisia-drives-technological-advancement-acro",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "NVIDIA's blog says Tunisia has adopted a national strategy for AI and digitalization that includes promoting AI education and research.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "national strategy for AI and digitalization",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national strategy for AI and digitalization",
+   "country_label": "Tunisia",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
