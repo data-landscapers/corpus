@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: GHA
-ledger_rows: 113
+ledger_rows: 114
 not_held: 9
-record: 37cc6e734c30
+record: 4a5ac39c8ff1
 ---
 
 # News, Sep – Oct 2026
@@ -983,6 +983,20 @@ Ghana's Cyber Security Authority said Ghana, not the FBI, led Operation Blackout
 **[Ghana Rejects FBI-Led Claims Over Operation Blackout Cybercrime Raids](https://techafricanews.com/2026/10/09/ghana-rejects-fbi-led-claims-operation-blackout-cybercrime-raids/)** — Tech Africa News, 9 October 2026
 
 A second account of the Ghana Cyber Security Authority's statement on Operation Blackout: it names the Ghanaian, British, American and Nigerian agencies that took part and says the operation ran under Ghanaian authority.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Digital Assurance Programme (GovDAP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CSA and NITA order government institutions to fix critical PHP vulnerabilities within seven days](https://www.myjoyonline.com/csa-and-nita-order-government-institutions-to-fix-critical-php-vulnerabilities-within-seven-days/)** — MyJoyOnline, 22 October 2026
+
+Ghana's Cyber Security Authority and NITA issued a joint alert on 22 October 2026 ordering all government institutions to patch two critical PHP flaws (CVE-2026-109618 and CVE-2026-109619) within seven days and report what they did. Fixed PHP releases are available, and NITA will coordinate support for government systems under its Government Digital Assurance Programme.
 
 </div>
 
