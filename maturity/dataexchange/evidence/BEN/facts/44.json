@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "ANIP's architecture shows an integration and interoperability platform (API, X-Road, PKI) connecting the civil status file, the RNPP and user systems for health, education, social protection, telecoms, banks, tax and public services.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Plateforme d'intégration / interopérabilité",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme d'intégration / interopérabilité",
+   "country_label": "Benin",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

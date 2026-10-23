@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The deck describes an API and data-sharing platform with the RSIA secure inter-administration network based on X-Road, linking ANID to ministries, banks and hospitals, with consent, audit logs and e-ID authentication; the deck sets out the design and partners and does not say the network is live. It is undated and is dated to May 2026, the ID4Africa 2026 meeting it was given at.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RSIA (X-Road)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSIA",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

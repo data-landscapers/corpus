@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The WURI-Benin coordinator lists interoperability via X-Road among Benin's reforms and reports more than 15.7 million digital authentications performed by ANIP through X-Road.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "X-Road",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The deck reports more than 15.7 million digital authentications performed by ANIP via X-Road.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "X-Road",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "X-Road",
+   "country_label": "Benin",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

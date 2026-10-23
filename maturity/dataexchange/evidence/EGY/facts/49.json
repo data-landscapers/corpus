@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-26-egy-masrtimes-mcit-launches-digital-identity-remote-mobile-services",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "Masr Times reports a digital infrastructure, in pilot, links the communications ministry bodies, the Civil Status Authority, mobile operators and e-signature firms to verify identity and exchange data.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Digital Identity infrastructure",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

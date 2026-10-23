@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-13-moz-inage-ip-lidera-implementacao-da-plataforma-de-interoperabilidade-cent",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "INAGE, IP says it leads implementation of the Government Interoperability Platform, and its technical group on 12 June 2025 reviewed data mapping between the Bank of Mozambique and the Tax Authority, test-environment preparation and the Security Servers access points of the systems to interoperate.",
+   "as_of": "2025-06-12",
+   "date_precision": "day",
+   "system": "Plataforma de Interoperabilidade do Governo de Moçambique",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plataforma de Interoperabilidade do Governo de Moçambique",
+   "country_label": "Mozambique",
+   "class": "exchange",
+   "platform": "Security Servers",
+   "owner": "INAGE, IP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
