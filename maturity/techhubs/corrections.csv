@@ -1,2 +1,4 @@
 iso3,n,aspect,value,action,why
 BWA,002,hubs,inservice,removed,"First pass: the source record has no URL, so the fact cannot be linked"
+CIV,004,,,removed,"Stage 4c (hubs:underway): a plan to host an AI hub, not a hub being built"
+CIV,005,,,removed,"Stage 4c (hubs:underway): a plan to install a pilot AI hub, not a hub being built"

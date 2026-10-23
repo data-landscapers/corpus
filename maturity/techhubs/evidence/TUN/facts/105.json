@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-17-tun-new-ai-innovation-hub-in-tunisia-drives-technological-advancement-acro",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "NVIDIA says Novation City, a technology park in Sousse, runs several startup accelerator programs, with more than 10 participating companies in NVIDIA Inception.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "Novation City",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Novation City",
+   "country_label": "Tunisia",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
