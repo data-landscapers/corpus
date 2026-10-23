@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "2",
-      "build": "underway",
+      "stage": "3",
+      "build": "inservice",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-002;SLE-001",
-      "gaps": "No source held since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
-      "note": "Farmerline's Krio models and the EDITH assistant are in development or awaiting handover. Neither is stated released or in service.",
-      "as_at": "2026-10-22"
+      "stage_sources": "SLE-003",
+      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "Africell launched AI-EVA, a voice assistant in local languages, in Sierra Leone in June 2025. No AI computing in the country is held.",
+      "as_at": "2026-10-23"
     }
   ]
 }

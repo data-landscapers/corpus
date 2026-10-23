@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 CAF,SangoAI,Central African Republic,localai,sangoai.sbs,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CAF,MEYNG/sango-vocabulary,Central African Republic,localai,Hugging Face,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CAF,AI centre of excellence,Central African Republic,other,,Government with Dure Technologie,,2025-06-25-caf-la-republique-centrafricaine-prepare-la-creation-d-un-centre-d-excelle
+CAF,MEYNG/nllb-sango-finetuned-600m,MEYNG Sango NLLB 600M,localai,Hugging Face,MEYNG,,2026-01-01-caf-meyng-nllb-sango-finetuned-600m

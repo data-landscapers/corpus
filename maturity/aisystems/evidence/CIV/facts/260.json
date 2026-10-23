@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-11-civ-cote-divoire-yiri-quand-le-numerique-parle-les-langues-locales",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Digital Mag reports that FuturAfric's YIRI project is running the first national campaign to collect and annotate voice and image data in Ivorian languages, training 2,000 young people in 10 regions with 250 trainers, with the aim of building the first Ivorian large language model, not yet released.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "YIRI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "YIRI",
+   "country_label": "Cote d'Ivoire",
+   "class": "localai",
+   "platform": "language data campaign toward an open LLM",
+   "owner": "FuturAfric",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

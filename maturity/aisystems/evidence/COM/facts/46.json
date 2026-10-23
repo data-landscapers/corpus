@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-26-com-komor-ia-lance-annotation-studio-la-premiere-plateforme-d-annotation-n",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Komor-IA published KomoriTTS, a beta text-to-speech model for Shikomori (Shingazidja dialect) trained on its community voice corpus, and Al-watwan wrote about it on 4 August 2026, per Komor-IA's LinkedIn post.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "KomoriTTS",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KomoriTTS",
+   "country_label": "Comoros",
+   "class": "localai",
+   "platform": "",
+   "owner": "Komor-IA",
+   "tiers": ""
+  },
+  {
+   "system": "Shikomori Dataset (French-Shingazidja parallel corpus v1.0, 1,568 sentence pairs)",
+   "country_label": "Comoros",
+   "class": "localai",
+   "platform": "",
+   "owner": "Komor-IA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

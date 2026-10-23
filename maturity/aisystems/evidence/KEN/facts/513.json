@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-11-ken-atlancis-technologies-everse-technology-and-ixafrica-unveil-east-centr",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Atlancis Technologies (Servernah Cloud) announces it has delivered and deployed a GPU-powered AI factory, built on OCP design principles with NVIDIA GPUs and offered as a cloud service, hosted at iXAfrica's NBOX1 campus in Kenya.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "Servernah AI-as-a-Service platform",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "Atlancis Technologies says the NVIDIA GPU-powered Servernah AI factory is delivered and deployed at iXAfrica's NBOX1 data centre in Kenya, making GPUs locally accessible.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "Servernah AI-as-a-Service platform",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Servernah AI-as-a-Service platform",
+   "country_label": "Kenya",
+   "class": "localai",
+   "platform": "NVIDIA GPUs, OCP design, hosted at iXAfrica NBOX1",
+   "owner": "Atlancis Technologies (Servernah Cloud)",
+   "tiers": ""
+  }
+ ],
+ "note": "No named users or counts, so nothing on shared access."
+}

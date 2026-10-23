@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-10-gin-224-n-lambe-api-l-infrastructure-linguistique-pour-les-technologies-gu",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "224 N'Lambé, a Guinean startup, says it develops a linguistic infrastructure and offers translation APIs between French or English and Pular, Malinké and Soussou for developers and AI uses; no users or usage figures are given.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "224 N'Lambé API",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "224 N'Lambé API",
+   "country_label": "Guinea",
+   "class": "localai",
+   "platform": "translation API",
+   "owner": "224 N'Lambé",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

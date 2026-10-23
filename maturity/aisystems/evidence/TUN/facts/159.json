@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-05-tun-tunisia-s-ooredoo-hosts-inaugural-ai-summit-announcing-nvidia-partners",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Ooredoo Tunisia announced at its first AI Summit, with NVIDIA, that it will acquire high-performance GPUs to build a sovereign AI-as-a-Service platform for government, startups and B2B clients; no amount or capacity is given.",
+   "as_of": "2025-10-05",
+   "date_precision": "day",
+   "system": "Ooredoo sovereign AI-as-a-Service",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ooredoo sovereign AI-as-a-Service",
+   "country_label": "Tunisia",
+   "class": "localai",
+   "platform": "NVIDIA GPUs",
+   "owner": "Ooredoo Tunisia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

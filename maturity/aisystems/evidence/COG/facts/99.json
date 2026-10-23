@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-27-cog-llama-3-1-8b-instruct-lingala-qlora-merged-v2",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Congo Digital Services published the weights of a Lingala-tuned Llama 3.1 8B model on 27 July 2026, developed for the MALOBA project with UNDP Republic of Congo, with its end-to-end endpoint still to be validated.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Llama-3.1-8B-Instruct-Lingala-QLoRA-merged-v2",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Llama-3.1-8B-Instruct-Lingala-QLoRA-merged-v2",
+   "country_label": "Congo",
+   "class": "localai",
+   "platform": "Llama 3.1 8B, QLoRA, vLLM",
+   "owner": "Congo Digital Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

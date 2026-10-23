@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "3",
+      "stage": "5",
       "build": "inservice",
-      "compute": "",
-      "shared": "",
+      "compute": "compute",
+      "shared": "shared",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-001",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "AI Hub Senegal published the M-Kiriku speech models and 210 hours of data openly in October 2026. The judicial archive project's DGX Spark is delivered, not stated in service.",
-      "as_at": "2026-10-22"
+      "stage_sources": "SEN-008;SEN-007;SEN-009",
+      "gaps": "The Taouey supercomputer's GPU cell is often idled by power instability, and its named users worked on CPU resources.",
+      "note": "Taouey, with a GPU cell, is in service and has been free and open to all, with more than a hundred users and named university users. Its GPU cell runs part-time.",
+      "as_at": "2026-10-23"
     }
   ]
 }

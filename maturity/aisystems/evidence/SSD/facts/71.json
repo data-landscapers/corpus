@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-29-ssd-indabax-south-sudan-2025-igniting-the-future-of-ai-in-south-sudan",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Dr Isaac Gang's team collected sentence data for Nuer, Dinka and Acholi, with over 2,600 Nuer sentences on the public Tatoeba database, and the three South Sudanese languages were added to Google Translate in 2023, per the Scenius Hub event report.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Tatoeba sentence data for Nuer, Dinka and Acholi",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "JunubAI, described as a South Sudanese AI platform that helps people put businesses online without coding, was among local projects exhibited at IndabaX South Sudan in Juba on 19 July 2025.",
+   "as_of": "2025-07-19",
+   "date_precision": "day",
+   "system": "JunubAI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "JunubAI",
+   "country_label": "South Sudan",
+   "class": "localai",
+   "platform": "AI platform for building businesses online",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

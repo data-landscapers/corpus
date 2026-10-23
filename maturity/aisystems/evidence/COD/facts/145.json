@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-27-cod-unh-inaugure-son-supercalculateur",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Universite Nouveaux Horizons says it inaugurated the Lofoyi supercomputer in Lubumbashi on 27 June 2026, described as optimised for scientific computing, artificial intelligence and big data.",
+   "as_of": "2026-06-27",
+   "date_precision": "day",
+   "system": "Lofoyi",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "The university states Lofoyi delivers 150 TFLOPS over 100 Gbps InfiniBand and is optimised for AI; the document does not name GPUs or other accelerators.",
+   "as_of": "2026-06-27",
+   "date_precision": "day",
+   "system": "Lofoyi",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lofoyi",
+   "country_label": "DR Congo",
+   "class": "localai",
+   "platform": "150 TFLOPS, InfiniBand 100 Gbps, hybrid architecture",
+   "owner": "Universite Nouveaux Horizons (UNH)",
+   "tiers": ""
+  }
+ ],
+ "note": "Access is described as an aim for the scientific community; no users are named or counted."
+}

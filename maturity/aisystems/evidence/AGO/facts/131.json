@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-17-ago-initiative-to-roll-out-ai-infrastructure-and-services-in-angola",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Angola Telecom and the Digital Africa Development Agency announced an investment programme, backed in its first phase by the Agence Francaise de Developpement, for an AI factory to be hosted in Angola Telecom data centres, with a proof of concept of Mistral AI models launched at ANGOTIC 2025 in Luanda on 12-14 June 2025.",
+   "as_of": "2025-06-14",
+   "date_precision": "day",
+   "system": "Angola AI factory (Angola Telecom data centres)",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Angola AI factory (Angola Telecom data centres)",
+   "country_label": "Angola",
+   "class": "localai",
+   "platform": "Mistral AI models; Le Chat instance for Angola Telecom",
+   "owner": "Angola Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "A proof of concept and a programme goal only; no AI computing in service and no users stated."
+}

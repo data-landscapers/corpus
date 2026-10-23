@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-23-bwa-how-uhuru-sets-to-resist-digital-imperialism",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Orion X, whose team first took root in Botswana, offers its Uhuru African language model to users via WhatsApp, SMS, USSD and a web app, with a free tier and a USD 7 (P99) monthly Pro tier, per CEO Mthabisi Bokete and Chief AI Officer Kgengwenyane.",
+   "as_of": "2025-07-23",
+   "date_precision": "day",
+   "system": "Uhuru",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Uhuru",
+   "country_label": "Botswana",
+   "class": "localai",
+   "platform": "WhatsApp, SMS, USSD, web app",
+   "owner": "Orion X",
+   "tiers": "free; Pro"
+  }
+ ],
+ "note": ""
+}

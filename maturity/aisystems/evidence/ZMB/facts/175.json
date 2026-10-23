@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-04-zmb-google-to-establish-ai-center-of-excellence-at-university-of-zambia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Zambia Monitor reports the government announced that Google will establish an AI Center of Excellence at ZAMREN within the University of Zambia in Lusaka, following an MoU with the Ministry of Technology and Science signed in June 2024.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Google AI Center of Excellence at ZAMREN",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Center of Excellence",
+   "country_label": "Zambia",
+   "class": "localai",
+   "platform": "",
+   "owner": "Google / Ministry of Technology and Science / ZAMREN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

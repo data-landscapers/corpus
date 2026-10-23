@@ -1,2 +1,12 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ZAF,UNDP country-hosted AI compute,South Africa,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
+ZAF,MzansiLM / MzansiText,South Africa,localai,,University of Cape Town,,2026-05-04-zaf-uct-researchers-develop-ai-model-for-11-south-african-languages
+ZAF,African Compute Initiative (ACI),South Africa,localai,"GPU servers, multi-petabyte storage, OpenStack and Ceph",University of Cape Town,,2026-03-26-zaf-uct-to-lead-africa-s-first-higher-education-dedicated-ai-compute-initi
+ZAF,ilifu research cloud,South Africa,other,OpenStack and Ceph; more than 600 active users,"Inter-University Institute for Data Intensive Astronomy (IDIA), UCT",,2026-03-26-zaf-uct-to-lead-africa-s-first-higher-education-dedicated-ai-compute-initi
+ZAF,Mzansi Mind,South Africa,localai,HPE servers with NVIDIA GPUs at Equinix Johannesburg,Solcon Capital,,2026-10-22-zaf-mzansi-mind-sovereign-ai-hpe-infrastructure
+ZAF,NICIS new 4 petaflop HPC system,South Africa,localai,HPC,CSIR,,2026-08-19-zaf-question-nw4185-to-the-minister-of-science-technology-and-innovation
+ZAF,Lengau,South Africa,other,HPC,CSIR,,2026-08-19-zaf-question-nw4185-to-the-minister-of-science-technology-and-innovation
+ZAF,African languages LLM consortium (NRF and Telkom Centres of Excellence),South Africa,localai,,"University of Zululand, Limpopo, Fort Hare and Cape Town",,2026-03-18-zaf-uct-researchers-join-national-effort-to-build-ai-tools-for-african-lan
+ZAF,InkubaLM,South Africa,localai,large language model,Lelapa AI,,2025-10-06-zaf-question-nw4967-to-the-minister-of-science-technology-and-innovation
+ZAF,SADiLaR,South Africa,other,digital language resource centre,"North-West University, funded by DSTI",,2025-10-06-zaf-question-nw4967-to-the-minister-of-science-technology-and-innovation
+ZAF,CHPC HPC & GPU Cluster,CHPC HPC & GPU Cluster,localai,"Dell cluster, 30 Nvidia V100 GPU nodes",NICIS CHPC,,2024-05-01-zaf-nicis-service-catalogue

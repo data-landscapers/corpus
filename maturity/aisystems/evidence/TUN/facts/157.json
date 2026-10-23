@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-tun-solecrypt-announces-sovereign-ai-campus-in-bizerte-tunisia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "SoleCrypt announced a planned 40 MW AI campus in Bizerte, with a 7 MW first phase of 1,728 NVIDIA Rubin GPUs, targeted to come online in early 2028.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "SoleCrypt AI Campus",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SoleCrypt AI Campus",
+   "country_label": "Tunisia",
+   "class": "localai",
+   "platform": "NVIDIA HGX Rubin NVL8",
+   "owner": "SoleCrypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

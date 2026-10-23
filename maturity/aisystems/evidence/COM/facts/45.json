@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-06-com-komor-ia-un-jeune-comorien-lance-une-startup-d-intelligence-artificiel",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Comores Infos reports that the startup Komor-IA, founded in August 2025 by Soilahoudine Mohamed Ali, is developing three AI projects: Press-IA, Agro-IA (plant disease detection) and Health-IA (a breast-cancer diagnosis prototype claimed at 85% precision).",
+   "as_of": "2025-09-06",
+   "date_precision": "day",
+   "system": "Komor-IA projects (Press-IA, Agro-IA, Health-IA)",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Press-IA, Agro-IA, Health-IA",
+   "country_label": "Comoros",
+   "class": "localai",
+   "platform": "",
+   "owner": "Komor-IA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

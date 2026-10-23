@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-17-dza-lancement-du-premier-centre-de-calcul-haute-performance-dedie-a-l-ia-e",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Radio Algerienne reports that Minister of Post and Telecommunications Sid Ali Zerrouki laid the first stone in Oran on 16 March 2025 of Algeria's first AI high-performance computing centre, to be equipped with latest-generation GPUs for researchers, startups and companies.",
+   "as_of": "2025-03-16",
+   "date_precision": "day",
+   "system": "AI high-performance computing centre, Oran",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI high-performance computing centre, Oran",
+   "country_label": "AI high-performance computing centre",
+   "class": "localai",
+   "platform": "",
+   "owner": "Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

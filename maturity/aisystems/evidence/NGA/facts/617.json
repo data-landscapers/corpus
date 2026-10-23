@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-22-nga-fg-proposes-shared-ai-computing-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Tijani, speaking through NCAIR's national director, said Nigeria proposes pooling GPU resources with Rwanda, Senegal and Kenya so researchers can build large language models.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "shared AI computing infrastructure",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Tijani said Nigeria is exploring a proposed Nigeria-Togo data park in Egbe, with about 60 percent of power capacity unused, to support computing infrastructure for Nigeria and West Africa.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Nigeria-Togo data park",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "shared AI computing infrastructure",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "GPU",
+   "owner": "Nigeria with Rwanda, Senegal, Kenya (proposed)",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria-Togo data park",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "(proposed)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

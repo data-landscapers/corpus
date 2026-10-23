@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "2",
-      "build": "underway",
-      "compute": "",
+      "stage": "4",
+      "build": "inservice",
+      "compute": "compute",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-002",
-      "gaps": "No source held since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
-      "note": "Maseno's Dholuo speech collection, ATLAS Umoja AI and Vodacom's GPU node are under way. Nothing built is stated released or in service.",
-      "as_at": "2026-10-22"
+      "stage_sources": "KEN-005;KEN-007",
+      "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.",
+      "note": "Servernah's NVIDIA GPU platform at iXAfrica's Nairobi data centre was deployed in November 2025 and live for the market in March 2026. No user of it is named or counted.",
+      "as_at": "2026-10-23"
     }
   ]
 }

@@ -1,3 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 COM,Komori TTS,Comoros,localai,web application (Komori IA site),Soilahoudine Mohamed (individual),,2026-08-04-alwatwan-komori-tts-synthese-vocale-shikomori
 COM,CNDRS AI early-warning models,Comoros,localai,,CNDRS,,2026-08-25-comores-ia-mariama-madi-american-corner-lagazettedescomores
+COM,"Press-IA, Agro-IA, Health-IA",Comoros,localai,,Komor-IA,,2025-09-06-com-komor-ia-un-jeune-comorien-lance-une-startup-d-intelligence-artificiel
+COM,KomoriTTS,Comoros,localai,,Komor-IA,,2026-09-26-com-komor-ia-lance-annotation-studio-la-premiere-plateforme-d-annotation-n
+COM,"Shikomori Dataset (French-Shingazidja parallel corpus v1.0, 1,568 sentence pairs)",Comoros,localai,,Komor-IA,,2026-09-26-com-komor-ia-lance-annotation-studio-la-premiere-plateforme-d-annotation-n
+COM,French-shiKomori Parallel Dataset v1.0,Comoros,localai,Hugging Face,Komor-IA,,2026-01-01-com-french-shikomori-parallel-dataset-v1-0

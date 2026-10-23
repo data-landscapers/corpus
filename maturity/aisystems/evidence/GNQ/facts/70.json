@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-17-gnq-donacion-de-material-informatico-y-fortalecimiento-tecnologico-en-la-u",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AI laboratory at UNGE",
+   "country_label": "Equatorial Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "Universidad Nacional de Guinea Ecuatorial / STEM Power",
+   "tiers": ""
+  }
+ ],
+ "note": "An AI laboratory was installed 9-12 February 2026 but no GPUs, model or dataset is named."
+}

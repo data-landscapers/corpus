@@ -3,3 +3,4 @@ SOM,"Somali National Artificial Intelligence Center (SNAIC), Somali National Uni
 SOM,whisper-som-small,Somalia,localai,Hugging Face; fine-tuned from OpenAI Whisper-small,Goobo Labs,,2026-05-27-som-goobolabs-whisper-som-small-release
 SOM,SomNLP-STT-Corpus,Somalia,localai,,Goobo Labs,,2026-05-27-som-goobolabs-whisper-som-small-release
 SOM,Natural Language Processing for Somalia,Somalia,localai,,SIMAD AI Institute,,2026-01-09-som-simad-ai-institute-somali-nlp-project
+SOM,Himilo 7B,Somalia,localai,,Sykli Intelligence,,2025-03-13-som-himilo-7b-our-pioneering-somali-language-model

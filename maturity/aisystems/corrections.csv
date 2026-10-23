@@ -1,2 +1,11 @@
 iso3,n,aspect,value,action,why
 NAM,004,compute,compute,removed,First pass: funding for computing centres read as computing in service
+ERI,004,,,removed,Stage 4c (build:inservice): a model card that does not say where the model was built or by whom
+TUN,008,,,removed,Stage 4c (build:inservice): a foreign firm's announcement that does not say the pipeline was built in Tunisia
+MLI,004,,,removed,"Stage 4c (build:inservice): a dataset released by a Senegalese group, recorded for Senegal; not built in Mali"
+SSD,002,,,removed,Stage 4c (build:inservice): sentences contributed to a public database for Google's translation model; the model is foreign and no dataset of the country is published
+SSD,003,,,removed,"Stage 4c (build:inservice): a no-code website platform exhibited at an event, not stated to build or host an AI model"
+COD,004,,,removed,Stage 4c (compute:compute): the supercomputer is optimised for AI but no GPU or accelerator is named; the in-service row stands
+SEN,006,,,removed,Stage 4c (compute:compute): no GPU named in this source; the in-service row stands and a later source names the GPU cell
+NGA,013,,,removed,"Stage 4c (shared:shared): model downloads are counted, not users"
+NGA,017,,,"revalued: build:inservice",Stage 4c (compute:compute): no GPU or accelerator named; read as AI computing in service

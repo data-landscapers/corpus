@@ -1,2 +1,9 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TUN,"Supercalculateur HPC, Centre de Calcul El Khawarizmi",Tunisia,localai,"SOHO/ZTE/DSHELL installation, Chinese donation",Centre de Calcul El Khawarizmi,national,2026-07-23-inauguration-premier-supercalculateur-hpc-cck-el-khawarizmi
+TUN,Centre de calcul El Khawarizmi (CCK) HPC system,Tunisia,localai,,"Centre de calcul El Khawarizmi, hosted at the university",,2026-07-24-tun-tunisie-le-centre-de-calcul-el-khawarizmi-se-dote-d-un-supercalculateu
+TUN,DataXion Cloud GPU NVIDIA L40S,Tunisia,localai,"NVIDIA L40S, Tier IV datacentre",DataXion,Tier IV (stated),2026-04-01-tun-le-premier-cloud-gpu-nvidia-l40s-en-tunisie-dedie-a-l-ia
+TUN,SoleCrypt AI Campus,Tunisia,localai,NVIDIA HGX Rubin NVL8,SoleCrypt,,2026-10-21-tun-solecrypt-announces-sovereign-ai-campus-in-bizerte-tunisia
+TUN,Labess-7B-Chat,Labess-7B-Chat Derja speech-to-speech pipeline,localai,,Linagora,,2025-12-08-tun-first-open-ai-that-speaks-understands-and-responds-in-tunisian
+TUN,Ooredoo sovereign AI-as-a-Service,Tunisia,localai,NVIDIA GPUs,Ooredoo Tunisia,,2025-10-05-tun-tunisia-s-ooredoo-hosts-inaugural-ai-summit-announcing-nvidia-partners
+TUN,Novation City NVIDIA DGX system,Tunisia,localai,NVIDIA DGX,Novation City,,2024-09-17-tun-new-ai-innovation-hub-in-tunisia-drives-technological-advancement-acro
+TUN,ESPRIT University NVIDIA DGX system,Tunisia,localai,NVIDIA DGX,ESPRIT University,,2024-09-17-tun-new-ai-innovation-hub-in-tunisia-drives-technological-advancement-acro

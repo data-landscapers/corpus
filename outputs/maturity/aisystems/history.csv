@@ -79,3 +79,13 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-22,GNQ,tech.ai--development-of-national-regional-ai-systems,review,no evidence,no evidence,,Rebuild: second reading of the first-pass cell agrees with the stage.
 2026-10-22,STP,tech.ai--development-of-national-regional-ai-systems,review,no evidence,no evidence,,Rebuild: second reading of the first-pass cell agrees with the stage.
 2026-10-22,SYC,tech.ai--development-of-national-regional-ai-systems,review,no evidence,no evidence,,Rebuild: second reading of the first-pass cell agrees with the stage.
+2026-10-23,COG,tech.ai--development-of-national-regional-ai-systems,fact,2,3,COG-003;COG-004,"Congo Digital Services' Lingala OCR dataset and Lingala-tuned Llama model, published in 2026, settle a model or dataset in service"
+2026-10-23,GIN,tech.ai--development-of-national-regional-ai-systems,fact,2,3,GIN-003,"224 N'Lambe's translation APIs for Pular, Malinke and Soussou settle a model in service"
+2026-10-23,LSO,tech.ai--development-of-national-regional-ai-systems,fact,2,3,LSO-004,"SeSoDa, a Lesotho Sesotho dataset for fine-tuning, published open source in 2025, settles a dataset in service"
+2026-10-23,SLE,tech.ai--development-of-national-regional-ai-systems,fact,2,3,SLE-003,"Africell's AI-EVA local-language voice assistant, launched June 2025, settles a model in service"
+2026-10-23,KEN,tech.ai--development-of-national-regional-ai-systems,fact,2,4,KEN-005;KEN-007,"Servernah's NVIDIA GPU platform at iXAfrica Nairobi, deployed November 2025 and live March 2026, settles AI computing with GPUs"
+2026-10-23,TZA,tech.ai--development-of-national-regional-ai-systems,fact,3,4,TZA-006,"A GPU workstation at Mzumbe University's AI centre, serving models from April 2026, settles AI computing with GPUs"
+2026-10-23,ZWE,tech.ai--development-of-national-regional-ai-systems,fact,3,4,ZWE-005,"The NIAC at Zimbabwe Open University, opened March 2026 with an Nvidia GPU AI server, settles AI computing with GPUs"
+2026-10-23,SEN,tech.ai--development-of-national-regional-ai-systems,fact,3,5,SEN-008;SEN-007;SEN-009,"CINERI says Taouey's GPU cell runs part-time and use is free and open, with over a hundred users and named university users: shared"
+2026-10-23,TUN,tech.ai--development-of-national-regional-ai-systems,fact,3,5,TUN-010;TUN-011,"Novation City's NVIDIA DGX, deployed February 2024, served about 30 startups (NVIDIA); DataXion offers L40S GPU cloud: shared"
+2026-10-23,ZAF,tech.ai--development-of-national-regional-ai-systems,fact,4,5,ZAF-012;ZAF-013,"The CHPC catalogue lists a 30-node V100 GPU cluster free to academics with over 2,000 users: shared"

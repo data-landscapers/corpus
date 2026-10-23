@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-18-sen-soynade-s-open-source-month",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Soynade released FineWeb-Wolof-50k, 50,000 rows of web text translated into Wolof with its Oolel-v0.1 model, on Hugging Face.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "FineWeb-Wolof-50k",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Oolel-v0.1",
+   "country_label": "Senegal",
+   "class": "localai",
+   "platform": "Hugging Face",
+   "owner": "Soynade",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

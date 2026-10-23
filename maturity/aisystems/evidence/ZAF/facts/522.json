@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-06-zaf-question-nw4967-to-the-minister-of-science-technology-and-innovation",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Minister of Science, Technology and Innovation's written reply says InkubaLM, a South African-developed large language model for low-resource African languages created by Lelapa AI, has emerged from privately or donor-funded work, while no government-backed home-grown LLM is being developed.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "InkubaLM",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InkubaLM",
+   "country_label": "South Africa",
+   "class": "localai",
+   "platform": "large language model",
+   "owner": "Lelapa AI",
+   "tiers": ""
+  },
+  {
+   "system": "SADiLaR",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "digital language resource centre",
+   "owner": "North-West University, funded by DSTI",
+   "tiers": ""
+  }
+ ],
+ "note": "SADiLaR resources are language resources for research, not stated as AI datasets."
+}

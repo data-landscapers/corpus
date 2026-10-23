@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-civ-intelligence-artificielle-la-plateforme-yiri-entend-faciliter-l-acces-au-numerique",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "FuturAfric Intelligence Artificielle launched the AI-based YIRI social and e-commerce platform in Abidjan, with six local languages covered, Baoulé and Dioula at 70% progress, and a locally hosted corpus of about 50,000 translated sentences and 300 annotated audio files, per the promoters (Linfodrome).",
+   "as_of": "2026-10-15",
+   "date_precision": "day",
+   "system": "YIRI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "YIRI",
+   "country_label": "Côte d'Ivoire",
+   "class": "localai",
+   "platform": "AI social and e-commerce platform in local languages",
+   "owner": "FuturAfric Intelligence Artificielle",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-nga-fg-moves-to-regulate-ai-use-in-healthcare",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Minister of State for Health Iziaq Salako described the Nigeria Atlas for Languages and AI at Scale as Nigeria's first open-source, multilingual and multimodal large language model trained on local language data.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Nigeria Atlas for Languages and AI at Scale",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Atlas for Languages and AI at Scale",
+   "country_label": "Nigeria Atlas for Languages and AI at Scale",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

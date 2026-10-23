@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-13-mrt-enemray-toward-capable-language-models-for-hassaniya",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "An arXiv report submitted 13 September 2026 introduces Enemray, a Hassaniya-centred language model trained on a newly assembled Hassaniya and Mauritanian corpus and evaluated against open and proprietary models; the abstract states no release.",
+   "as_of": "2026-09-13",
+   "date_precision": "day",
+   "system": "Enemray",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Enemray",
+   "country_label": "Mauritania",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

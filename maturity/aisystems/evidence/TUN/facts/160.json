@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-17-tun-new-ai-innovation-hub-in-tunisia-drives-technological-advancement-acro",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "Novation City in Sousse deployed Tunisia's first NVIDIA DGX system in February 2024, according to its chief innovation officer quoted by NVIDIA.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Novation City NVIDIA DGX system",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "NVIDIA says the Novation City DGX system has empowered about 30 startups across the continent, and that the hub gives AI startups and researchers access to DGX infrastructure.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "Novation City NVIDIA DGX system",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Novation City NVIDIA DGX system",
+   "country_label": "Tunisia",
+   "class": "localai",
+   "platform": "NVIDIA DGX",
+   "owner": "Novation City",
+   "tiers": ""
+  },
+  {
+   "system": "ESPRIT University NVIDIA DGX system",
+   "country_label": "Tunisia",
+   "class": "localai",
+   "platform": "NVIDIA DGX",
+   "owner": "ESPRIT University",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

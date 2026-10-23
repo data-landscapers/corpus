@@ -1,0 +1,44 @@
+{
+ "slug": "2026-10-05-tgo-undp-voix-du-togo-infrastructure-gpu-supercalculateur",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "UNDP Togo says the Ministry of Public Service Efficiency and Digital Transformation launched, through the Togo AI Lab, a national local languages challenge whose pilot phase aims to develop AI models for Kabye, Ewe and Moba.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Challenge national des langues locales (Voix du Togo)",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "UNDP says it is supporting the Togo AI Lab in setting up a GPU-based AI infrastructure, presented as a supercomputer, to train local-language models; no specification, cost or commissioning date is given.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Togo AI Lab GPU infrastructure",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Togo AI Lab GPU infrastructure",
+   "country_label": "Togo",
+   "class": "localai",
+   "platform": "GPU",
+   "owner": "Togo AI Lab",
+   "tiers": ""
+  },
+  {
+   "system": "Challenge national des langues locales",
+   "country_label": "Togo",
+   "class": "localai",
+   "platform": "",
+   "owner": "Ministry of Public Service Efficiency and Digital Transformation / Togo AI Lab",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

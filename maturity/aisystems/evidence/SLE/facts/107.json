@@ -1,0 +1,44 @@
+{
+ "slug": "2025-06-01-sle-africell-unveils-ai-eva-and-afrogpt-at-summit",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Financial Standard reports that mobile operator Africell launched AI-EVA, a multilingual voice assistant for feature phones and smartphones, in Sierra Leone at the 2025 Sierra Leone Innovates Tech Summit.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "AI-EVA",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Financial Standard reports that Africell's AfroGPT, an offline localised language model tailored to Sierra Leonean languages and curricula, was to be piloted in schools and community centres from later in 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "AfroGPT",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-EVA",
+   "country_label": "Sierra Leone",
+   "class": "localai",
+   "platform": "voice assistant",
+   "owner": "Africell",
+   "tiers": ""
+  },
+  {
+   "system": "AfroGPT",
+   "country_label": "Sierra Leone",
+   "class": "localai",
+   "platform": "offline language model",
+   "owner": "Africell",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

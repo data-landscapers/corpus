@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-22-gha-ghanas-hospitals-are-adopting-ai-but-the-machines-were-never",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Samani writes that Ghanaian companies and researchers are building diagnostic models domestically on local data, naming MinoHealth in Accra and MorphoAI at the University for Development Studies, with no release stated.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "MinoHealth; MorphoAI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MinoHealth",
+   "country_label": "Ghana",
+   "class": "localai",
+   "platform": "diagnostic models",
+   "owner": "MinoHealth (company)",
+   "tiers": ""
+  },
+  {
+   "system": "MorphoAI",
+   "country_label": "Ghana",
+   "class": "localai",
+   "platform": "AI models",
+   "owner": "University for Development Studies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

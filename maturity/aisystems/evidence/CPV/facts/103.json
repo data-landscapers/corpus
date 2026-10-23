@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-22-cpv-seminario-destaca-potencial-da-inteligencia-artificial-para-o-ensino-e",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The ORAL project of Universidade de Cabo Verde and Iscte, per its scientific coordinator Miguel Sales Dias, has built the largest known digital corpora of the Santiago and Sao Vicente Creole varieties and is developing Portuguese-Creole machine translation and speech recognition, with conversational assistants expected in the coming months.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "ORAL - kriOl(u) laRge lAnguage modeLs",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ORAL - kriOl(u) laRge lAnguage modeLs",
+   "country_label": "ORAL project",
+   "class": "localai",
+   "platform": "",
+   "owner": "Universidade de Cabo Verde; Iscte",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

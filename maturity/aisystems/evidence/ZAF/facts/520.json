@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-18-zaf-uct-researchers-join-national-effort-to-build-ai-tools-for-african-lan",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "UCT reports that researchers at four universities, backed by the NRF and the Telkom Centres of Excellence programme, are developing large language models for isiXhosa, isiZulu and Sepedi in a project running until 2027.",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "African languages LLM consortium (NRF and Telkom Centres of Excellence)",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "African languages LLM consortium (NRF and Telkom Centres of Excellence)",
+   "country_label": "South Africa",
+   "class": "localai",
+   "platform": "",
+   "owner": "University of Zululand, Limpopo, Fort Hare and Cape Town",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

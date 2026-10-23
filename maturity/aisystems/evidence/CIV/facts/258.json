@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-14-civ-kouassi-benjamin-dir-cnc-de-cote-divoire-le-supercalculateur-est-la-ra",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The director of the Centre national de calcul says the centre will first host Cote d'Ivoire's AI hub and an AI Fab Lab, with startups to get accounts to use the centre's computing remotely.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Hub IA and Fab Lab IA at the Centre national de calcul",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre national de calcul supercomputer (HPC)",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "HPC",
+   "owner": "Centre national de calcul de Côte d'Ivoire",
+   "tiers": ""
+  },
+  {
+   "system": "Hub IA and Fab Lab IA at the Centre national de calcul",
+   "country_label": "Cote d'Ivoire",
+   "class": "localai",
+   "platform": "",
+   "owner": "Centre national de calcul de Côte d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-03-26-zaf-uct-to-lead-africa-s-first-higher-education-dedicated-ai-compute-initi",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The University of Cape Town says its African Compute Initiative, funded under the GBP 58 million AI4D programme of the UK FCDO and Canada's IDRC, will build a GPU cluster for AI research in UCT's High Performance Computing Data Centre, targeted to be operational within 12 months.",
+   "as_of": "2026-03-26",
+   "date_precision": "day",
+   "system": "African Compute Initiative (ACI)",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "African Compute Initiative (ACI)",
+   "country_label": "South Africa",
+   "class": "localai",
+   "platform": "GPU servers, multi-petabyte storage, OpenStack and Ceph",
+   "owner": "University of Cape Town",
+   "tiers": ""
+  },
+  {
+   "system": "ilifu research cloud",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "OpenStack and Ceph; more than 600 active users",
+   "owner": "Inter-University Institute for Data Intensive Astronomy (IDIA), UCT",
+   "tiers": ""
+  }
+ ],
+ "note": "The ACI is planned with targets (100 users in year one, 300 across five institutions by year three), not in service; ilifu is a research cloud not described as AI computing."
+}

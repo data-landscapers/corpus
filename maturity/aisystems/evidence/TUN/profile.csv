@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TUN,localai,build,coverage,inservice,2026-07-23,TUN-001,TUN-002=underway;TUN-003=underway,
-TUN,localai,compute,coverage,,,,,nothing held
-TUN,localai,shared,coverage,,,,,nothing held
+TUN,localai,build,coverage,inservice,2026-07-23,TUN-001;TUN-005,TUN-007=underway;TUN-002=underway;TUN-004=underway;TUN-009=underway;TUN-003=underway,
+TUN,localai,compute,coverage,compute,2026-04,TUN-006;TUN-010,,
+TUN,localai,shared,coverage,shared,2024-09-17,TUN-011,,

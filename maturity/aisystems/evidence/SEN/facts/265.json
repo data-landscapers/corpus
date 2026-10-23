@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-05-sen-pr-ousmane-thiare-directeur-general-de-la-cineri-le-niveau-d-utilisati",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "CINERI director general Ousmane Thiare says the Taouey supercomputer is operational part-time, its second cell holding the GPU resources and often idled by power instability, while CPU resources are ready at full use.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Taouey supercomputer",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "Thiare says use of Taouey has been free and open to all since its arrival, with a webinar of over 200 online participants on 30 March 2026 and users named from UCAD's faculty of medicine and from environment and meteorology research.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Taouey supercomputer",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Taouey supercomputer",
+   "country_label": "Senegal",
+   "class": "localai",
+   "platform": "HPC with GPU cell",
+   "owner": "CINERI under MESRI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

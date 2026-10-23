@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "3",
+      "stage": "4",
       "build": "inservice",
-      "compute": "",
+      "compute": "compute",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-003",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "The e-Government Authority's Msaada AI, designed at its own centre, is in use by two institutions. The UDSM alert triage tool is rule-based and sets nothing, and the National AI Data Centre is being built.",
-      "as_at": "2026-10-22"
+      "stage_sources": "TZA-006",
+      "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.",
+      "note": "A GPU workstation installed at Mzumbe University's AI centre served language and speech models at a workshop in April 2026. No user of it beyond the workshop is named or counted.",
+      "as_at": "2026-10-23"
     }
   ]
 }

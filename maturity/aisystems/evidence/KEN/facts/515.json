@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-12-ken-servernah-cloud-launch",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Atlancis, EverseTech and iXAfrica launched Servernah Cloud, described as Kenya's first sovereign-hosted cloud and AI platform, with locally available GPU capacity for AI inference and model deployment, at iXAfrica's Nairobi facility.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "Servernah Cloud",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "iXAfrica's CEO Snehar Shah said the AI infrastructure deployment is 'now live for the market', and EverseTech demonstrated locally available GPU capacity at the 22.5 MW Nairobi data centre.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "Servernah Cloud",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Servernah Cloud",
+   "country_label": "Kenya",
+   "class": "localai",
+   "platform": "Atlancis Servernah cloud with EverseTech AI-as-a-Service",
+   "owner": "Atlancis Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

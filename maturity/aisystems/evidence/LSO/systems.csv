@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 LSO,Sesotho word bank,Lesotho,localai,,National University of Lesotho,,2026-02-18-lesotho-sesotho-word-bank-ai-training
 LSO,Kobong Project,Lesotho,localai,hydropower and AI data centre,Convalt,,2026-07-31-lso-govls-kobong-launch-m100bn-investment
+LSO,SeSoDa,SeSoDa,localai,,,,2025-01-01-lso-sesoda-sesotho-english-dataset-lora-fine-tuning

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "3",
+      "stage": "4",
       "build": "inservice",
-      "compute": "",
+      "compute": "compute",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-001",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "Econet Ai's Yamurai, a Shona chatbot trained on its own customer-service data, handles over 70% of enquiries. No AI computing in the country is held.",
-      "as_at": "2026-10-22"
+      "stage_sources": "ZWE-005",
+      "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.",
+      "note": "The National Information Access Centre at Zimbabwe Open University opened in March 2026 with an Nvidia GPU AI server. No user of it is named or counted.",
+      "as_at": "2026-10-23"
     }
   ]
 }

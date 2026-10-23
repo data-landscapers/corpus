@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 MWI,UNDP country-hosted AI compute,Malawi,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 MWI,MlimiVoice Malawi,Malawi,localai,,AGRA,,2026-08-14-gates-foundation-xaf-2026-lingua-africa
 MWI,Bris AI weather prediction model (forecast-in-a-box),Malawi,localai,forecast-in-a-box at DCCMS,"MET Norway with DCCMS, implemented via WMO",,2025-07-01-mwi-crews-ai-ew4all-pilot-note
+MWI,CTN Micro Data Centre (MDC),Malawi,localai,"NVIDIA A100 GPUs, GPU-as-a-Service; link to Africa GPU Hub",Converged Technology Networks (CTN),,2026-02-18-mwi-malawi-plans-to-launch-micro-data-centre
+MWI,Malawi Voice Data Commons,Malawi Voice Data Commons (MVDC),localai,Whisper fine-tuned on Chichewa; local servers; NYU Greene HPC for off-peak analysis,"NYU and Mozilla, moving to Malawian universities by 2027",,2026-01-22-mwi-introducing-the-malawi-voice-data-commons

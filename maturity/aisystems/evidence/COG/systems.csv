@@ -1,3 +1,6 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 COG,African Center for Research in Artificial Intelligence (CARIA),Congo,localai,,Government of Congo,,2026-04-21-congo-russia-digital-ai-cooperation-caria-techafricanews
 COG,Lingala and Kituba digital corpus,Congo,localai,,"Ministry of Posts, Telecommunications and Digital Economy, with UNDP",,2026-05-06-strategie-nationale-ia-langues-nationales-pnud-ldb
+COG,Qwen-VL Lingala OCR Dataset,Congo,localai,Hugging Face,Congo Digital Services,,2026-08-01-cog-qwen-vl-lingala-ocr-dataset
+COG,Llama-3.1-8B-Instruct-Lingala-QLoRA-merged-v2,Congo,localai,"Llama 3.1 8B, QLoRA, vLLM",Congo Digital Services,,2026-07-27-cog-llama-3-1-8b-instruct-lingala-qlora-merged-v2
+COG,Brazzaville data center,Congo,localai,,Congolese state; financed largely by the African Development Bank,,2025-11-20-cog-le-congo-brazzaville-s-equipe-d-un-data-center-pour-repondre-au-defi-d

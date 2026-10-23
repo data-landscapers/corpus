@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "4",
+      "stage": "5",
       "build": "inservice",
       "compute": "compute",
-      "shared": "",
+      "shared": "shared",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-002",
-      "gaps": "No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.",
-      "note": "UNDP says it procured and deployed country-hosted GPU compute in South Africa. No user of it is named or counted.",
-      "as_at": "2026-10-22"
+      "stage_sources": "ZAF-012;ZAF-013",
+      "gaps": "The CHPC user count is from its 2024 service catalogue and covers the whole cluster, not its GPU nodes alone.",
+      "note": "The national CHPC lists an HPC and GPU cluster with 30 Nvidia V100 nodes, free to academic users, used by over 2,000 users. That meets the sharing rung.",
+      "as_at": "2026-10-23"
     }
   ]
 }

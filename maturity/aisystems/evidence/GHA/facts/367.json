@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-19-gha-ghana-and-uae-sign-1bn-deal-to-build-africa-s-largest-innovation-and-a",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Ghana and the UAE signed a $1bn agreement for an innovation and AI hub at Ningo-Prampram with construction scheduled for 2026, including $180m for an AI Compute Hub to be developed by G42, with the UAE's PCFC financing it (African Business).",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Ghana AI Compute Hub",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The agreement allocates $100m to a national AI-powered digital identity system built on Falcon large language models via AI71, and $120m to a Ghana AI Startup Studio with Hub71.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "AI-powered digital identity system on Falcon",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana AI Compute Hub",
+   "country_label": "Ghana",
+   "class": "localai",
+   "platform": "AI computing, renewable energy and liquid cooling",
+   "owner": "G42 for the Ghana-UAE hub, financed by PCFC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

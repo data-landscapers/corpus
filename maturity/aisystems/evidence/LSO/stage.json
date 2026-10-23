@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "2",
-      "build": "underway",
+      "stage": "3",
+      "build": "inservice",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-002;LSO-001",
-      "gaps": "No source held since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
-      "note": "NUL's Sesotho word bank and the Kobong AI data centre are under way. Nothing built is stated released or in service.",
-      "as_at": "2026-10-22"
+      "stage_sources": "LSO-004",
+      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "SeSoDa, a Lesotho Sesotho dataset for fine-tuning language models, was published open source in 2025. No AI computing in the country is held.",
+      "as_at": "2026-10-23"
     }
   ]
 }

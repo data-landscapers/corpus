@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CPV,NOSi and SINTAXY AI financial and accounting management application,AI financial and accounting app,localai,,NOSi,,2024-11-19-cpv-mf-nosi-ai-financial-accounting-app
+CPV,ORAL - kriOl(u) laRge lAnguage modeLs,ORAL project,localai,,Universidade de Cabo Verde; Iscte,,2026-06-22-cpv-seminario-destaca-potencial-da-inteligencia-artificial-para-o-ensino-e
+CPV,RoBERTa 83M Cape Verdean Creole model,Cape Verdean Creole RoBERTa 83M model,localai,,,,2025-10-27-cpv-first-steps-towards-the-development-of-an-llm-for-the-cape-verdean-cre
+CPV,ORAL,ORAL - kriOl(u) laRge lAnguage modeLs,localai,Hugging Face (planned),Iscte and Universidade de Cabo Verde,,2025-08-18-cpv-iscte-lanca-projeto-internacional-para-o-desenvolvimento-de-modelos-de

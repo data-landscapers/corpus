@@ -1,0 +1,44 @@
+{
+ "slug": "2024-04-19-nga-dr-tijani-wraps-up-artificial-intelligence-strategy-workshop-announces",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The ministry says a Nigerian multilingual large language model is being developed by Awarri with NITDA and DataDotOrg, using language data collated by 3MTT Fellows.",
+   "as_of": "2024-04-18",
+   "date_precision": "day",
+   "system": "Nigerian Multilingual Large Language Model",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The minister says a Pilot Compute Programme is under way in which 21st Century Technologies invests over $2 million in GPUs, with Galaxy Backbone to host the national compute at its data centre for local researchers, startups and government entities.",
+   "as_of": "2024-04-18",
+   "date_precision": "day",
+   "system": "Nigeria's Computing Infrastructure Pilot",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigerian Multilingual Large Language Model",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "Awarri, NITDA, DataDotOrg",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria's Computing Infrastructure Pilot",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "Galaxy Backbone Data Centre",
+   "owner": "Galaxy Backbone, 21st Century Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

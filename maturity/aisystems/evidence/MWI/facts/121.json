@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-18-mwi-malawi-plans-to-launch-micro-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "ITWeb Africa reports that Converged Technology Networks (CTN) has announced plans to build Malawi's first Micro Data Centre for AI computing, with NVIDIA A100 GPUs to be installed 'in the coming months' and rented as a service.",
+   "as_of": "2026-02-18",
+   "date_precision": "day",
+   "system": "CTN Micro Data Centre (MDC)",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CTN Micro Data Centre (MDC)",
+   "country_label": "Malawi",
+   "class": "localai",
+   "platform": "NVIDIA A100 GPUs, GPU-as-a-Service; link to Africa GPU Hub",
+   "owner": "Converged Technology Networks (CTN)",
+   "tiers": ""
+  }
+ ],
+ "note": "Planned only: no AI computing in service or shared with users yet."
+}

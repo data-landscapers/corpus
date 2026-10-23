@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 ZMB,UNDP country-hosted AI compute,Zambia,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 ZMB,AI/ML GPU-accelerated server platform,Zambia,localai,GPU-accelerated servers with 150TB storage engines,INFRATEL Corporation Limited,national,2026-06-01-infratel-150tb-storage-aiml-tender
 ZMB,"timbuktoo EDGE node, University of Zambia AI UniPod",Zambia,localai,sovereign AI compute node,"UNDP timbuktoo EDGE, University of Zambia",,2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot
+ZMB,AI Center of Excellence,Zambia,localai,,Google / Ministry of Technology and Science / ZAMREN,,2024-09-04-zmb-google-to-establish-ai-center-of-excellence-at-university-of-zambia

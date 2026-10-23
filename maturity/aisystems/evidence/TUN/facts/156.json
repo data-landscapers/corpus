@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-01-tun-le-premier-cloud-gpu-nvidia-l40s-en-tunisie-dedie-a-l-ia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "DataXion's own product page offers an NVIDIA L40S GPU cloud for AI hosted in its Tier IV datacentre in Tunisia and says it is now selecting first projects because GPU capacity is limited.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "DataXion Cloud GPU NVIDIA L40S",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "compute",
+   "value": "compute",
+   "fact": "DataXion's own page describes NVIDIA L40S GPUs (48 GB VRAM each) for AI training and inference in its datacentre in Tunisia, with limited capacity and first projects being selected.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "DataXion Cloud GPU NVIDIA L40S",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DataXion Cloud GPU NVIDIA L40S",
+   "country_label": "Tunisia",
+   "class": "localai",
+   "platform": "NVIDIA L40S, Tier IV datacentre",
+   "owner": "DataXion",
+   "tiers": "Tier IV (stated)"
+  }
+ ],
+ "note": "Undated product page, month is a proxy; no state role and no named users, so nothing on shared access."
+}

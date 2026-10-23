@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-01-nga-n-atlas-llm-multilingual-african-language-model",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The model card says N-ATLaS-LLM, a Llama-3 8B fine-tune on about 392 million tokens of Hausa, Igbo, Yoruba and English data, version 1.0 of September 2025, is released by Awarri Technologies for the Federal Ministry of Communications, Innovation and Digital Economy.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "N-ATLaS-LLM",
+   "class": "localai"
+  },
+  {
+   "sub_indicator": "localai",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The terms of use grant a worldwide royalty-free licence to download and use N-ATLaS for research and education, capped at 1000 active end-users without a commercial licence, and the model page shows 6,890 downloads in the last month.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "N-ATLaS-LLM",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N-ATLaS-LLM",
+   "country_label": "Nigeria",
+   "class": "localai",
+   "platform": "Hugging Face",
+   "owner": "Awarri Technologies / Federal Ministry of Communications, Innovation and Digital Economy / NCAIR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

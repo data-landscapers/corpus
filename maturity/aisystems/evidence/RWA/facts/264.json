@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "BMZ Digital.Global states that an open Kinyarwanda speech dataset, developed with Digital Umuganda and the Mozilla Foundation and hosted on Common Voice, holds over 2,400 hours of speech, over 2,000 of them validated.",
+   "as_of": "2024-05-24",
+   "date_precision": "day",
+   "system": "Kinyarwanda voice dataset on Common Voice",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kinyarwanda voice dataset on Common Voice",
+   "country_label": "Rwanda",
+   "class": "localai",
+   "platform": "Mozilla Common Voice",
+   "owner": "Digital Umuganda; Mozilla Foundation",
+   "tiers": ""
+  }
+ ],
+ "note": "Users of the dataset are not named or counted."
+}

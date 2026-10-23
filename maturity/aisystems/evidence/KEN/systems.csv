@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 KEN,SmartVoice,Kenya,localai,application for speech data collection,Maseno Centre for Applied AI (MCAAI),,2026-09-24-ken-mcaai-dholuo-speech-data-ai
 KEN,ATLAS Umoja AI,Kenya,localai,,GSMA and five governments,,2026-07-31-gsma-atlas-umoja-ai-launch
+KEN,Servernah AI-as-a-Service platform,Kenya,localai,"NVIDIA GPUs, OCP design, hosted at iXAfrica NBOX1",Atlancis Technologies (Servernah Cloud),,2025-11-11-ken-atlancis-technologies-everse-technology-and-ixafrica-unveil-east-centr
+KEN,Servernah Cloud,Kenya,localai,Atlancis Servernah cloud with EverseTech AI-as-a-Service,Atlancis Technologies,,2026-03-12-ken-servernah-cloud-launch

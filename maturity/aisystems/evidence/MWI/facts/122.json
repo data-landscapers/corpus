@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-22-mwi-introducing-the-malawi-voice-data-commons",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Malawi Voice Data Commons, built by NYU and Mozilla with Malawian universities, fine-tunes OpenAI's Whisper model on newly collected Chichewa data and runs local servers for real-time keyword detection and transcription of emergency reports, cutting response times from 72 to 6 hours, per Portulans Institute.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Malawi Voice Data Commons",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Voice Data Commons",
+   "country_label": "Malawi Voice Data Commons (MVDC)",
+   "class": "localai",
+   "platform": "Whisper fine-tuned on Chichewa; local servers; NYU Greene HPC for off-peak analysis",
+   "owner": "NYU and Mozilla, moving to Malawian universities by 2027",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
