@@ -9,3 +9,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,NGA,dpi.exchange--use-of-digital-id-in-other-systems,fact,5,5,NGA-030;NGA-016,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,TZA,dpi.exchange--use-of-digital-id-in-other-systems,fact,5,5,TZA-007;TZA-011,Stage 4c: 3 news arrival(s) read; restaged from every row held.
 2026-10-18,ZAF,dpi.exchange--use-of-digital-id-in-other-systems,fact,5,5,ZAF-019;ZAF-006,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-23,GHA,dpi.exchange--use-of-digital-id-in-other-systems,fact,4,5,GHA-040;GHA-034,"NIA, February 2024: 191 financial institutions onboarded onto its verification platform, a count of services relying on the ID."
+2026-10-23,LBY,dpi.exchange--use-of-digital-id-in-other-systems,fact,2,3,LBY-002;LBY-001,NESDB 2025 summary: government departments match the national number when completing some digital services.

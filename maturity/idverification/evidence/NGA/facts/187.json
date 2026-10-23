@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-31-nga-nimc-begins-migration-of-telcos-to-ninauth-for-identity-verification",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIMC states that telecom operators verify people against the NIN through NINAuth for SIM registration, SIM swap, migration and retrieval requests, with all operators migrated by July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NINAuth",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

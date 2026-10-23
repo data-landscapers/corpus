@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The deck says the financial sector adopted NRB-issued identities as the primary identification and verifies customers through API-based eKYC against the national digital identity system.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRB eKYC APIs",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The deck says banks and payment providers (eKYC), MACRA (SIM registration) and social protection programmes (beneficiary verification) rely on the NRB identity system.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRB eKYC APIs",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

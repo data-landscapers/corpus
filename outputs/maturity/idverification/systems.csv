@@ -56,6 +56,7 @@ BWA,Transport system,Botswana,relying,,,,2016-01-01-id4d-country-diagnostic-bots
 BWA,Client Registry,Botswana,relying,,Ministry of Health,,2026-03-05-ministry-of-health-committee-of-supply-speech
 BWA,Electronic Identification System (Biometric Identity Card) / Digital ID initiative,Botswana,other,,Ministry of Labour and Home Affairs,,2026-02-24-mlha-committee-of-supply-speech-2026-27
 BWA,National Identification System (NIS),Botswana,other,,Department of Civil and National Registration,,2026-02-24-mlha-committee-of-supply-speech-2026-27
+BWA,Bank Gaborone Self-Onboarding platform,Botswana,relying,Bank Gaborone website,Bank Gaborone,,2026-07-30-bwa-bank-gaborone-self-onboarding-omang-ekyc
 CAF,Dunia platform,Central African Republic,other,,MEPCI-RCA,,2026-02-27-primature-dunia-platform-launch
 CAF,Dunia platform,Central African Republic,other,modular ERP-like administrative platform,MEPCI-RCA with EDEN TiiiT,,2026-02-26-dunia-platform-launch-mepci-interview
 CAF,Dunia platform,Central African Republic,other,modular ERP-like administrative platform,MEPCI-RCA with EDEN TiiiT,,2026-02-05-rca-mepci-dunia-digitalisation-effective
@@ -528,6 +529,7 @@ NGA,Solid minerals operator regulation,Nigeria,relying,,Ministry of Solid Minera
 NGA,Telecom Identity Risk Management System (TIRMS),Nigeria,other,,CBN and NCC (joint MoU),,2026-04-21-cbn-ncc-tirms-telecom-data-banks
 NGA,NIMC-NHIA identity and health insurance linkage,Nigeria,relying,,NIMC; NHIA,,2025-10-10-nimc-nhia-digital-id-health-mou
 NGA,NIN-SIM linkage policy,Nigeria,relying,,NIMC,,2026-05-15-nga-vanguard-nimc-enrols-206000-refugees-idps
+NGA,NINAuth,NINAuth,relying,,NIMC,,2025-08-04-nga-nigeria-telcos-eligible-to-offer-nin-verification-for-sim-card-service
 RWA,Single Digital ID (SDID) authentication system,Rwanda,other,Irembo account and digital wallet,NIDA,,2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,Biometric SIM card registration and verification,Rwanda,relying,NIDA database,RURA; telecom operators,,"2024-09-17 Rwanda conducts pilot to implement biometric SIM registration, verification"
 RWA,SIM card registration (RURA Regulation 18/2024),Rwanda,relying,national-ID database,RURA,,2024-08-09 Regulation Governing SIM Card Registration in Rwanda (RURA No.18-2024)
@@ -588,6 +590,7 @@ SLE,Centralized ID Verification System against National ID,Sierra Leone,relying,
 SLE,Integrated CRVS and ID Management System,Sierra Leone,other,Open source/DPG piloted to upgrade the ID system (IDMS),NCRA,,2024-05-01-sierra-leone-ncra-id4africa-2024-country-presentation
 SLE,MOSIP-based national digital ID pilot,Sierra Leone,other,MOSIP,NCRA,,2024-01-01-sierra-leone-ncra-mosip-pilot-digital-id-commitment
 SLE,Electronic Know Your Customer Service (eKYC),Sierra Leone,relying,,National Civil Registration Secretariat,,2020-01-02-sierra-leone-finance-act-2020-tax-register
+SLE,NIN-SIM integration,SLE,relying,,"NCRA, NatCA and mobile network operators",,2025-08-20-sle-to-fast-track-nin-integration-with-telecom-services-ncra-natca-sign-mo
 SOM,High School Certificate System (HSC),Somalia,relying,GovStack building blocks,Government of Somalia,,2026-05-29-somalia-govstack-high-school-certificate-system
 SOM,eAqoonsi / NIRA digital ID,Somalia,other,,NIRA,,2026-05-29-somalia-govstack-high-school-certificate-system
 SOM,Commercial bank account opening and KYC (CBS eKYC regulation),Somalia,relying,,Central Bank of Somalia with commercial banks,,2025-07-29-somalia-cbs-kyc-id-verification-banking
@@ -614,6 +617,7 @@ SWZ,ENPF KYC verification,Eswatini,other,,Eswatini National Provident Fund,,2026
 SWZ,Eswatini national identity card and civil registration (Ministry of Home Affairs),Eswatini,other,,Ministry of Home Affairs,,2026-09-23-swz-independentnews-cat-matlala-eswatini-id-saga
 SWZ,Ministry of Home Affairs civil-registration system,Eswatini,other,,Ministry of Home Affairs,,2026-08-18-home-affairs-chief-codes-verification
 SWZ,National ID card production system (Ministry of Home Affairs),Eswatini,other,,Ministry of Home Affairs,,2026-02-23-id-card-services-resume
+SWZ,digital verification of identification via the national database centre,Eswatini,relying,national civil registry check,Eswatini Royal Science Technology Park,,2025-03-11-swz-felicia-dlamini-kunene-the-nexus-between-aml-cft-and-financial-inclusi
 SYC,SeyID,Seychelles,other,,Department of ICT with the Department of Immigration and Civil Status and the Seychelles Licensing Authority,,2024-01-01-seyid-seychelles-digital-identity-platform
 SYC,SeyID-gated government e-services,Seychelles,relying,,,,2024-01-01-seyid-seychelles-digital-identity-platform
 SYC,Digital Driving License,Seychelles,relying,SeyID ID-Wallet,Seychelles Licensing Authority,,2024-01-01-seyid-seychelles-digital-identity-platform
@@ -729,6 +733,8 @@ ZAF,Domestic eKYC framework/platform,South Africa,other,,,,2026-06-18-finmark-tr
 ZAF,Lesotho Exemption Permit electronic verification,South Africa,other,,Department of Home Affairs,,2026-06-18-finmark-trust-cross-border-dpi-sadc
 ZAF,SASSA biometric verification,South Africa,relying,SASSA online facial biometric system and local-office fingerprint enrolment,South African Social Security Agency (Department of Social Development),,2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification
 ZAF,Health Patient Registration System (HPRS),South Africa,other,,National Department of Health,facilities,2025-08-01-zaf-pmg-nw4628-hprs-biometric
+ZAF,National Population Register,National Population Register,other,,Department of Home Affairs,,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system
+ZAF,Home Affairs digital verification service,Home Affairs verification service,other,,Department of Home Affairs,,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system
 ZMB,FISP e-Voucher,Zambia,relying,,Ministry of Agriculture,,2026-01-28-zambia-fisp-e-voucher-pdu
 ZMB,ZamPortal,Zambia,other,,Smart Zambia Institute,,2025-10-30-zambia-ethiopia-digital-id-cooperation-wb-blog
 ZMB,SIM card registration,Zambia,other,,,,2025-04-11 Zambia commences nationwide mobile campaign for issuance of 3.5M ID documents
@@ -738,6 +744,8 @@ ZMB,electronic Know Your Customer System (e-KYC),Zambia,other,,SMART Zambia Inst
 ZMB,SIM card registration guidelines,Zambia,other,,ZICTA,,2023-03-13-zicta-2022-annual-market-report-subscriptions
 ZMB,Domestic eKYC framework/platform,Zambia,other,,,,2026-06-18-finmark-trust-cross-border-dpi-sadc
 ZMB,Citizen card,Zambia,other,,Ministry responsible for national registration,,2021-05-19-zambia-electronic-government-act-2021-batch4_dpi_a
+ZMB,MOSIP e-Signet,e-Signet (MOSIP EET),relying,MOSIP,SMART Zambia Institute,,2025-01-21-zmb-zambia-issues-general-procurement-notice-for-digital-id-trust-services
+ZMB,MOSIP e-Signet (EET),e-Signet (EET),relying,MOSIP,Smart Zambia Institute,,2024-08-28-zmb-zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital-identity
 ZWE,Civil Registry integration for mobile money KYC,Zimbabwe,relying,,Reserve Bank of Zimbabwe,,2026-09-14-zwe-herald-rbz-mobile-money-civil-registry-integration
 ZWE,Civil Registry integration for mobile money KYC,Zimbabwe,relying,,Reserve Bank of Zimbabwe,,2026-03-10-zwe-rbz-mobile-money-civil-registry-integration
 ZWE,Electronic Traffic Management System (ETMS),Zimbabwe,relying,,Zimbabwe Republic Police,,2026-10-13-zwe-zimbabwesituation-electronic-traffic-system

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-20-sle-to-fast-track-nin-integration-with-telecom-services-ncra-natca-sign-mo",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NCRA, NatCA and mobile network operators signed an MOU and SLA on 19 August 2025 for NIN-SIM integration, after the technical committee had integrated NCRA's database with operators' systems for real-time cross-checking of subscribers, and national ID cards are now mandatory for obtaining SIM cards.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "NIN-SIM integration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-SIM integration",
+   "country_label": "SLE",
+   "class": "relying",
+   "platform": "",
+   "owner": "NCRA, NatCA and mobile network operators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

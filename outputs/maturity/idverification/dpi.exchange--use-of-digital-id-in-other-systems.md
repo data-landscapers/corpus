@@ -20,10 +20,10 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
-| 4 Operating | 5 |
-| 3 Established | 17 |
-| 2 Nascent | 11 |
+| 5 Leading | 11 |
+| 4 Operating | 4 |
+| 3 Established | 18 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 9 |
@@ -49,6 +49,13 @@ Use of the national ID by other services was reported with figures in 2026.
 
 - Faydaverse figures reported by Biometric Update give over 208 million eKYC verifications and 150 integrated partners as of 9 October 2026 ([source, 2026-10-09](https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration)).
 - Addis Fortune reports FaydaVerse partners with more than 150 institutions and processes up to two million requests a day ([source, 2026-10-03](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial)).
+
+### Ghana: 5 Leading
+
+Banks, SIM registration and state services check the Ghana Card; 191 financial institutions were on the verification platform in 2024.
+
+- NIA Executive Secretary Kenneth Attafuah said 191 financial institutions, including the Bank of Ghana, all 24 universal banks and 145 rural banks, had been onboarded onto the NIA's personal verification system platform to verify clients' identities ([source, 2024-02-02](https://www.ghanaweb.com/GhanaHomePage/NewsArchive/191-financial-institutions-now-have-seamless-access-to-National-Identification-Authority-Data-1914728)).
+- BBC reported on 2026-07-16 that the Ghana Card is needed for banking services, SIM card registration, and passport and driver's licence applications ([source, 2026-07-16](https://www.bbc.co.uk/news/articles/cn4n9q538z2o)).
 
 ### Malawi: 5 Leading
 
@@ -96,13 +103,6 @@ Use of the national ID by other services was reported with figures in 2026.
 Use of the national ID by other services was reported with figures in 2024.
 
 - The Bank of Uganda reports 74 financial institutions with NIRA database access for KYC and a directive of April 2024 requiring ID verification for all financial transactions of UGX 1 million and above ([source, 2024-06](https://www.biometricupdate.com/202410/uganda-financial-institutions-sign-on-for-digital-kyc-through-national-id)).
-
-### Ghana: 4 Operating
-
-Services in two or more sectors checked people against the national ID in 2026; volumes are not known.
-
-- BBC reported on 2026-07-16 that the Ghana Card is needed for banking services, SIM card registration, and passport and driver's licence applications ([source, 2026-07-16](https://www.bbc.co.uk/news/articles/cn4n9q538z2o)).
-- The NIA statement says it supports banking, healthcare and taxation services, as well as telecoms, in verifying identity against the Ghana Card ([source, 2026-03-20](https://www.graphic.com.gh/news/general-news/ghana-card-non-negotiable-for-sim-registration-nia-boss-warns.html)).
 
 ### Kenya: 4 Operating
 
@@ -187,6 +187,13 @@ A service checked people against the national ID in 2026; use in a second sector
 A service checked people against the national ID in 2024; use in a second sector is not known.
 
 - The National Identification Registry says an MoU with the Civil Service Agency (May 2024) allows national ID numbers to be used for payroll verification, helping identify ghost workers ([source, 2024-05](https://www.biometricupdate.com/202503/liberia-says-national-id-system-drives-digital-economy-facilitates-service-delivery)).
+
+### Libya: 3 Established
+
+Some government digital services matched people's national number in 2025; use in other sectors is not known.
+
+- The NESDB executive summary says some digital transactions between government departments, such as national number matching, are provided in completing some digital services for citizens ([source, 2025-02](https://nesdb.ly/wp-content/uploads/2025/02/%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9.pdf)).
+- The General Information Authority and the Central Bank of Libya reviewed linking the Level 3 biometric digital identity to banking systems for eKYC, and technical trials with the Central Bank and a number of banks had already begun as a prelude to launch and integration (the document gives no trial date, so its published date is used) ([source, 2026-04-19](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/)).
 
 ### Mali: 3 Established
 
@@ -284,12 +291,6 @@ Another system's use of the national ID was under way in 2026; none in service i
 Another system's use of the national ID was under way in 2026; none in service is on record.
 
 - On 22 January 2026 the DGE and ONECI signed a convention under which the national register of persons (RNPP) is to be the sole official source of voter identification data for the biometric electoral file ([source, 2026-01-22](https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/)).
-
-### Libya: 2 Nascent
-
-Another system's use of the national ID was under way in 2026; none in service is on record.
-
-- The General Information Authority and the Central Bank of Libya reviewed linking the Level 3 biometric digital identity to banking systems for eKYC, and technical trials with the Central Bank and a number of banks had already begun as a prelude to launch and integration (the document gives no trial date, so its published date is used) ([source, 2026-04-19](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/)).
 
 ### Niger: 2 Nascent
 

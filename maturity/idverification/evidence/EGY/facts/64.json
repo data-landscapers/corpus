@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-26-egy-masrtimes-mcit-launches-digital-identity-remote-mobile-services",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Masr Times reports that mobile line purchase and activation and e-wallet opening are being checked by biometric match against Civil Status Authority records, in a pilot with the four licensed operators.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Digital Identity (electronic biometric verification)",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

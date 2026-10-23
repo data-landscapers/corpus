@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,use,use,coverage,inservice,2026-05-29,SOM-001;SOM-002;SOM-003;SOM-009,SOM-012=underway;SOM-008=underway;SOM-007=underway;SOM-006=underway,
+SOM,use,use,coverage,inservice,2026-05-29,SOM-001;SOM-002;SOM-003;SOM-009,SOM-012=underway;SOM-008=underway;SOM-007=underway;SOM-006=underway;SOM-013=underway,
 SOM,use,sectors,coverage,several,2026,SOM-004;SOM-010,,
 SOM,use,usage,coverage,reported,2026,SOM-005;SOM-011,,

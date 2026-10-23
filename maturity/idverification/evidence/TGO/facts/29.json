@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The deck says the e-ID card is used within microfinance institutions and that the unique identification number is used through verification and authentication across the ecosystem.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "e-ID Togo",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The deck shows the unique identification number used for sign-in to the public services portal and in microfinance institutions.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "e-ID Togo",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

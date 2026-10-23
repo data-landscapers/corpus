@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NIRA says a Prime Ministerial Directive of 21 April 2025 mandates integration of all public-facing services with the HUBIYE platform for identity verification; no service is said to be verifying yet.",
+   "as_of": "2025-04-21",
+   "date_precision": "day",
+   "system": "HUBIYE Verifier Platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "National ID Ethiopia's deck says banks, telecom (SIM cards, wallets) and the Ministry of Revenue rely on Fayda to verify people.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "National ID Ethiopia's deck says banking, telecom, tax, education, land administration and the railway rely on Fayda.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "National ID Ethiopia's deck gives 102M authentications at about 2M a day and 120+ integrations.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-30-nga-credible-inclusive-national-identity-management-system-fundamental-to",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Director General of NIMC says NINAuth provides real-time identity authentication for businesses and other services.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "NINAuth",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The Director General of NIMC gives about 1.3 million verification hits per day.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "NINAuth",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

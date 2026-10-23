@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-01-tza-tanzania-digital-identity-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIDA reports that the tax authority's taxpayer registration, bank KYC, health insurance and pension disbursement check people against the national ID.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIDA integration layer (CIG)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "NIDA names SIM registration (TCRA), health insurance (NHIF), social security, banks and tax (TRA) as sectors relying on the national ID.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIDA integration layer (CIG)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "NIDA reports 147+ institutions integrated and USD 66.4 million revenue generated from ID verification.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIDA integration layer (CIG)",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-07-lbr-allafrica-nir-oesd-concession-awaits-legislature",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The signed OeSD concession would support identity verification for banking, SIM registration, payroll and social protection, but implementation awaits legislative ratification, NIR said on 4 September 2026.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "NIR/OeSD digital ID concession",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

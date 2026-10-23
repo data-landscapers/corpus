@@ -1,0 +1,27 @@
+{
+ "slug": "2024-04-11-sle-sierra-leone-putting-digital-id-at-the-center-of-its-digital-transform",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Vibbie says the NIN is linked to SIM card registration, education, government payroll, insurance, financial services, health care, pension and social security, vehicle registration and land registration.",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Vibbie says the NIN is linked to services across telecoms (SIM registration), financial services, health care, and pension and social security.",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

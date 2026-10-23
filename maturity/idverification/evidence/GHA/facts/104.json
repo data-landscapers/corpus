@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-19-gha-counting-every-ghanaian-how-digitalising-births-and-deaths-fuels-ghana",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Ghana Card is mandatory for banking, SIM card registration, social welfare programmes and voting, per Henrietta Lamptey and Yvonne Boatemaa-Yeboah.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The Ghana Card is mandatory for banking, SIM card registration and social welfare programmes, per Henrietta Lamptey and Yvonne Boatemaa-Yeboah.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

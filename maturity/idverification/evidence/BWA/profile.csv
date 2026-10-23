@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,use,use,coverage,inservice,2026-09,BWA-001;BWA-002;BWA-003,BWA-005=underway,
-BWA,use,sectors,coverage,several,2015-09,BWA-004,,nothing dated since 2023-09-28
+BWA,use,use,coverage,inservice,2026-09,BWA-001;BWA-002;BWA-003;BWA-006,BWA-005=underway,
+BWA,use,sectors,coverage,several,2015-09,BWA-004,,nothing dated since 2023-10-23
 BWA,use,usage,coverage,,,,,nothing held

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-16-gha-institutions-urged-to-use-nia-ivsp-for-authentic-ghana-card-verificati",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National Identification Authority said banks, corporate bodies, government agencies and financial service providers should verify Ghana Cards through the NIA IVSP, the only approved method for real-time verification, and not by eye or photocopy.",
+   "as_of": "2025-07-16",
+   "date_precision": "day",
+   "system": "NIA IVSP",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

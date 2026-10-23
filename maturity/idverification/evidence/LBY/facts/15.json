@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-01-lby-executive-summary-digital-identity-project",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The NESDB executive summary says some digital transactions between government departments, such as national number matching, are provided in completing some digital services for citizens.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "national number matching transactions",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

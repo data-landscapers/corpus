@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-03-civ-koaci-orange-bank-africa-oneci-convention-authentification",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "KOACI reports that on 3 February 2025 Orange Bank Africa and ONECI signed a convention under which the bank will integrate ONECI's authentication solutions through APIs to verify customer identity for KYC.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "ONECI APIs for Orange Bank Africa",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
