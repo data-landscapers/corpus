@@ -123,6 +123,7 @@ Ghana's President launched a national AI strategy in April 2026; the body to car
 
 - The Ghanaian Chronicle editorial welcomes the launch of Ghana's National Artificial Intelligence Strategy and warns it may stay on paper; no launch date given, so the published date is used ([source, 2026-10-09](https://thechronicle.com.gh/editorial-ghana-cannot-afford-to-miss-the-ai-revolution/)).
 - Minister Samuel Nartey George said on 7 September 2026 that the strategy, led by academics, was launched (a prototype was shown at the launch) and that universities are central to it ([source, 2026-09-07](https://thehighstreetjournal.com/stranded-connectivity-equipments/)).
+- The op-ed says Ghana's National AI Strategy 2023-2033 was approved by Cabinet in February 2026 ([source, 2026-02](https://www.myjoyonline.com/bold-ambitions-fragile-foundations-is-ghana-ready-for-the-ai-and-data-centre-risks-it-is-inviting/)).
 
 ### Guinea: 3 Established
 
