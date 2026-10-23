@@ -45,6 +45,8 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: a body is named to carry it out |
 | 5 Leading | Yes to all four: a rule or standard the policy called for has been issued |
 
+**Settled as worded** *(Bill, 2026-10-23)*: an instrument in force that orders the bodies set up names them, for question 3.
+
 - **Questions 1 to 3 have no time limit**: an adopted policy stands, with its year, until its end date passes or a dated source says it has been replaced or withdrawn.
 - **A statement that there is no policy counts for three years.**
 - **A draft validated at a workshop, or handed to the minister, is still a draft.** Question 2 needs approval or a launch by the government. Most of what is held is a validation, so most countries will sit at stage 2.
