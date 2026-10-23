@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-10-19
+compiled: 2026-10-23
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 155
+sources_cited: 157
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -238,6 +238,8 @@ The improvement the country can point to outside the cities is economic rather t
 <!-- tech.ai -->
 
 No artificial intelligence strategy had been adopted in the Republic of the Congo as at August 2026. The one government use on record is [an artificial-intelligence information platform on business-support schemes that the small-business directorate opened to public testing in September 2024](https://www.linkedin.com/feed/update/urn:li:activity:7243556420925759490), ahead of a chatbot; the repository holds no later account of it.
+
+Building in the national language has started outside government: [a local firm working on the MALOBA project with UNDP and the digital ministry published a Llama model fine-tuned for Lingala in July 2026](https://huggingface.co/Congo-digital-service/Llama-3.1-8B-Instruct-Lingala-QLoRA-merged-v2), followed in August by [a dataset of 884 image-text pairs for reading printed and handwritten Lingala](https://huggingface.co/datasets/Congo-digital-service/dataset-qwen-vl-lingala-qlora-vf).
 
 ### ICT Industry
 <!-- tech.industry -->
