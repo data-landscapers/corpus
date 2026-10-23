@@ -20,9 +20,9 @@ The AU Framework and Guidelines on Land Policy asks for land rights, customary t
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 15 |
+| 5 Leading | 4 |
 | 4 Operating | 1 |
-| 3 Established | 11 |
+| 3 Established | 22 |
 | 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
@@ -36,68 +36,18 @@ Land searches or registrations could be made online in 2025.
 
 - The director general says the Fada El Djazair portal, launched May 2024, gives access to cadastral and land information and offers over 6,500 electronic services, plus electronic payment of land service fees ([source, 2025-03-11](https://www.lnr-dz.com/2025/03/11/un-livret-foncier-electronique-sous-forme-de-carte-electronique-en-2025/)).
 
-### Burkina Faso: 5 Leading
-
-Land searches or registrations could be made online in 2025.
-
-- Sidwaya reports the Prime Minister said SYC@D lets citizens and investors carry out land procedures online and track their files in real time, with cadastral extract requests handled in one day and definitive transfer orders (land titles) in 60 days at most ([source, 2025-03-21](https://www.sidwaya.info/foncier-au-burkina-sycd-pour-une-meilleure-gestion-des-terres/)).
-- The DGI says SyC@D offers online request and issue of the parcel attribution certificate, provisional and definitive cession decrees and the cadastral extract ([source, 2025-03-21](https://dgi.bf/digitalisation-de-la-gestion-fonciere-la-plateforme-sycd-en-marche/)).
-
-### Cote d'Ivoire: 5 Leading
-
-Land searches or registrations could be made online in 2023.
-
-- The finance ministry says notaries can consult land titles online through LIFE, with access to be extended to banks and others in the land chain ([source, 2023-11-02](https://finances.gouv.ci/gouvernance-et-reformes/fiscalite-interieure)).
-
 ### Ethiopia: 5 Leading
 
 Land searches or registrations could be made online in 2025.
 
 - The eLand platform states citizens can submit online applications for ownership transfer, lease, mortgage and parcel subdivision, search property with map integration, pay fees online and download title certificates ([source, 2025](https://land.et)).
 
-### Ghana: 5 Leading
-
-Land searches or registrations could be made online in 2024.
-
-- Then-Lands Minister Jinapor acknowledged that ELIS had enabled consolidated searches, stamp duty assessment and plan approvals to be completed online ([source, 2024](https://labarijournal.com/ghana-has-spent-years-trying-to-digitise-its-land-registry-system-progress-is-still-underwhelming/)).
-
-### Kenya: 5 Leading
-
-Land searches or registrations could be made online in 2026.
-
-- Kenyans.co.ke reports ArdhiSasa lets users conduct land searches, property transfers, title and lease registration, stamp duty and land-rent payments without relying entirely on physical government offices ([source, 2026-09-21](https://www.kenyans.co.ke/news/127225-ardhisasa-goes-down-again-users-warned-disrupted-land-services)).
-- The Law Society of Kenya says advocates' land searches, transfers, registrations and valuations are carried out on Ardhisasa and were disrupted by its unavailability from 2026-09-01 ([source, 2026-09-01](https://eastleighvoice.co.ke/news/396368/lsk-demands-urgent-restoration-of-ardhisasa-platform-amid-land-transaction-delays)).
-
-### Malawi: 5 Leading
-
-Land searches or registrations could be made online in 2026.
-
-- Registered LIMS users can submit documents, receive notifications and make payments, including ground rent and application fees ([source, 2026-08-04](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m)).
-
 ### Morocco: 5 Leading
 
 Land searches or registrations could be made online in 2024.
 
+- ANCFCC states its digital cadastral maps cover the entire national territory ([source, 2026](https://www.ancfcc.gov.ma/pr%C3%A9sentation/chiffres-cl%C3%A9s)).
 - Notaries consult land documents online through a dedicated space on the ANCFCC electronic platform, for a fee ([source, 2024-01-15](https://medias24.com/2024/01/17/documents-fonciers-la-consultation-en-ligne-desormais-ouverte-aux-notaires/)).
-
-### Mozambique: 5 Leading
-
-Land searches or registrations could be made online in 2024.
-
-- The World Bank IEG review says SIGIT included a web portal that enabled public access to the national cadastre land data ([source, 2024-03-29](https://documents1.worldbank.org/curated/en/099041025095533783/txt/P164551-e911de3f-ad72-4e08-b0e6-7bbb6c628183.txt)).
-
-### Tanzania: 5 Leading
-
-Land searches or registrations could be made online in 2026.
-
-- A Ruvuma assistant commissioner for lands said citizens can sign their title deed through e-Ardhi while in any region, without travelling to the region where the service originated ([source, 2026-09-20](https://www.tanzaniainvest.com/construction/e-ardhi-digital-land-system)).
-
-### Togo: 5 Leading
-
-Land searches or registrations could be made online in 2024.
-
-- Togo-Presse reports that, through an online portal, citizens can now carry out all Cadastre procedures for a land title remotely, and that a unique parcel number (NUP) has been introduced ([source, 2024](https://togopresse.tg/une-plateforme-numerique-creee-pour-rendre-les-services-gouvernementaux-plus-accessibles/)).
-- Togo Officiel says citizens can now carry out all cadastre procedures for a land title remotely through an online portal ([source, 2024-09](https://www.republiquetogolaise.tg/tic/1609-9722-services-publics-zoom-sur-les-reformes-initiees-pour-accelerer-la-digitalisation)).
 
 ### Tunisia: 5 Leading
 
@@ -105,25 +55,6 @@ Land searches or registrations could be made online in 2025.
 
 - Land conservator Wadii Rhouma said the operational digital land register lets users consult land titles remotely ([source, 2025-05-23](https://www.webdo.tn/fr/actualite/national/tunisie-vers-l-adoption-de-la-signature-et-du-contrat-electroniques-dans-le-registre-foncier/222152/)).
 - The Minister says ONPF publicity services are now delivered online, including certificates of ownership, co-ownership, non-ownership and registration, via the updated cpf.gov.tn site ([source, 2025-05-23](http://www.domainetat.tn/?p=14628)).
-
-### Uganda: 5 Leading
-
-Land searches or registrations could be made online in 2025.
-
-- The Minister said citizens can check land status and confirm ownership on the UGNLIS public portal, and the author urged landowners to check land interests through digitalised land services before transactions ([source, 2025-08-29](https://media.gcic.go.ug/landowners-to-receive-freehold-titles-in-government-initiative/)).
-
-### Zambia: 5 Leading
-
-Land searches or registrations could be made online in 2024.
-
-- SMART Zambia Institute says users can apply for any land-related matter through ZILAS web and mobile interfaces, accessed via the Government Service Bus ([source, 2024-09-13](https://www.szi.gov.zm/?p=3792)).
-
-### Zimbabwe: 5 Leading
-
-Land searches or registrations could be made online in 2026.
-
-- The Permanent Secretary said conveyancers submit the title deed information through the DLAP system to the Deeds Registry for processing, after which a securitised title deed is issued ([source, 2026-05-04](https://www.newsday.co.zw/local-news/article/200054925/title-deeds-validation-programme-goes-nationwide)).
-- Justice Minister Ziyambi Ziyambi said the DLAP enables farmers and landowners to apply for title deeds online, alongside the manual process ([source, 2025-05-30](https://newziana.co.zw/zimbabwe-launches-digital-platform-to-modernize-title-deed-processing/)).
 
 ### Angola: 4 Operating
 
@@ -138,6 +69,13 @@ A digital land register was in service for part of the country in 2026; national
 - Matin Libre reports Parakou has full cadastral coverage with 196,474 parcels registered in the national cadastre on the e-Foncier Bénin platform, with over 11,500 registration certificates (CEC) distributed by 1 September 2026 ([source, 2026-09-01](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/)).
 - La Nation reports over 53,000 parcels registered across Porto-Novo in the e-Foncier Bénin digital cadastral database, with Cadastre registration certificates being distributed and 8,777 updates integrated ([source, 2026-04-20](https://lanation.bj/actualites/mise-en-place-du-cadastre-national-plus-de-53-000-parcelles-deja-enregistrees-a-porto-novo-les-pays-bas-satisfaits-des-resultats-obtenus)).
 
+### Burkina Faso: 3 Established
+
+A digital land register was in service for part of the country in 2026; national coverage is not known.
+
+- ANSSI's director general says FasoSign is operational on SYC@D, the system managing the cadastre, state domain and land, for issuing signed provisional cession orders ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
+- Sidwaya reports the Direction générale des impôts officially launched SYC@D, a cloud platform integrating cadastre, domain and land processes, on 21 March 2025 in Ouagadougou, accessible at sif.bf ([source, 2025-03-21](https://www.sidwaya.info/foncier-au-burkina-sycd-pour-une-meilleure-gestion-des-terres/)).
+
 ### Burundi: 3 Established
 
 A digital land register was in service for part of the country in 2025; national coverage is not known.
@@ -151,6 +89,12 @@ A digital land register was in service for part of the country in 2023; national
 
 - ATPE reports the Direction générale des Domaines put E-Conservation (SIDCF) into production on 2 October 2023, with the first 5,000 secured land deeds distributed and a database for managing land files ([source, 2023-10-02](https://atpe.td/actes-fonciers-la-conservation-electronique-est-lancee/)).
 
+### Cote d'Ivoire: 3 Established
+
+A digital land register was in service for part of the country in 2023; national coverage is not known.
+
+- The finance ministry says the Livre Foncier Electronique (LIFE) is an application letting notaries consult land titles online ([source, 2023-11-02](https://finances.gouv.ci/gouvernance-et-reformes/fiscalite-interieure)).
+
 ### Egypt: 3 Established
 
 A digital land register was in service for part of the country in 2025; national coverage is not known.
@@ -163,11 +107,31 @@ A digital land register was in service for part of the country in 2026; national
 
 - The Ministry's Deeds Registry page says that since 1995 the Registry has done away with manual land, debts and miscellaneous contract registers because the information is computerised and retrievable within seconds, with registers updated daily ([source, 2026-08-29](https://gov.sz/index.php/departments-sp-623334762/deeds)).
 
+### Ghana: 3 Established
+
+A digital land register was in service for part of the country in 2026; national coverage is not known.
+
+- The article says ELIS remains the backbone of the Lands Commission's online services, with manual processes coexisting, and progress is anchored largely in Accra ([source, 2026-06-08](https://labarijournal.com/ghana-has-spent-years-trying-to-digitise-its-land-registry-system-progress-is-still-underwhelming/)).
+- A digital Client Service Access Unit inaugurated at the Volta Regional Lands Commission office in Ho enabled the deployment of ELIS in the Volta Region ([source, 2026-06-03](https://www.graphic.com.gh/news/general-news/digital-client-service-access-unit-inaugurated-at-volta-regional-office-of-lands-commission.html)).
+
+### Kenya: 3 Established
+
+A digital land register was in service for part of the country in 2026; national coverage is not known.
+
+- Kenyans.co.ke reports ArdhiSasa is the government's digital platform for land information and land services, with an outage announced on 2026-09-21 affecting land searches, transfers, title and lease registration and other transactions ([source, 2026-09-21](https://www.kenyans.co.ke/news/127225-ardhisasa-goes-down-again-users-warned-disrupted-land-services)).
+- The Law Society of Kenya says Ardhisasa has become a central platform for delivery of land administration services in Kenya, with essential land services migrated to it ([source, 2026-09-02](https://eastleighvoice.co.ke/news/396368/lsk-demands-urgent-restoration-of-ardhisasa-platform-amid-land-transaction-delays)).
+
 ### Madagascar: 3 Established
 
 A digital land register was in service for part of the country in 2025; national coverage is not known.
 
 - PRODUIR reports that after dematerialising legal-status certificates and topographic plans for Antananarivo, an automatic information kiosk entered public service on 7 July 2025 at the Tana-ville land office, issuing registration and legal-status certificates and individual plans ([source, 2025-07-07](https://www.produir-madagascar.mg/lancement-du-distributeur-automatique-dinformation-au-sein-de-la-circonscription-fonciere-de-tana-ville-et-remise-de-materiel-pour-lapipa/)).
+
+### Malawi: 3 Established
+
+A digital land register was in service for part of the country in 2024; national coverage is not known.
+
+- Malawi launched LIMS in February 2024, a web-based system linking Lands, Surveys and Physical Planning where registered users can view land parcels and assets ([source, 2024-02](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m)).
 
 ### Mauritania: 3 Established
 
@@ -175,6 +139,12 @@ A digital land register was in service for part of the country in 2026; national
 
 - The land directorate said citizens can now access their secured land documents, starting in Nouakchott and then regional capitals ([source, 2026-01-23](https://www.ami.mr/archives/250018)).
 - The Administration Générale des Domaines says it registers all contracts digitally on the Lagoud platform for real estate documents, with final copies delivered by e-mail or WhatsApp ([source, 2024-04-25](https://fr.madar.mr/actualites/mauritanie-procedures-pour-faciliter-lenregistrement-des-contrats-a-travers-une-plateforme-numerique/)).
+
+### Mozambique: 3 Established
+
+A digital land register was in service for part of the country in 2024; national coverage is not known.
+
+- The World Bank IEG review says the land information system SIGIT was upgraded, operational and available when the project closed, and that 1,283,171 DUATs were recorded in it ([source, 2024-03-29](https://documents1.worldbank.org/curated/en/099041025095533783/txt/P164551-e911de3f-ad72-4e08-b0e6-7bbb6c628183.txt)).
 
 ### Namibia: 3 Established
 
@@ -199,6 +169,37 @@ A digital land register was in service for part of the country in 2025; national
 A digital land register was in service for part of the country in 2025; national coverage is not known.
 
 - The Minister's reply says 16,911,328 deeds documents have been digitised and made publicly accessible through the eDRS Information Provisioning Module, live since 1 April 2025, and all deeds registered after 2014 are in electronic format ([source, 2025-11-26](https://pmg.org.za/committee-question/34341/)).
+
+### Tanzania: 3 Established
+
+A digital land register was in service for part of the country in 2026; national coverage is not known.
+
+- The Ministry of Lands' e-Ardhi system, covering planning, surveying, allocation, registration and valuation, is already in use in Dodoma, Arusha, Tanga, Mbeya and Mwanza regions and several municipal and district councils, per TanzaniaInvest ([source, 2026-09-20](https://www.tanzaniainvest.com/construction/e-ardhi-digital-land-system)).
+
+### Togo: 3 Established
+
+A digital land register was in service for part of the country in 2024; national coverage is not known.
+
+- Togo Officiel says land title procedures are fully dematerialised, with all cadastre procedures done remotely via an online portal ([source, 2024-09](https://www.republiquetogolaise.tg/tic/1609-9722-services-publics-zoom-sur-les-reformes-initiees-pour-accelerer-la-digitalisation)).
+
+### Uganda: 3 Established
+
+A digital land register was in service for part of the country in 2025; national coverage is not known.
+
+- The Minister of Lands, Housing and Urban Development, Judith Nabakooba, described the Uganda National Land Information System (UGNLIS) as a public portal where citizens can check land status, confirm ownership and track transactions ([source, 2025-08-29](https://media.gcic.go.ug/landowners-to-receive-freehold-titles-in-government-initiative/)).
+
+### Zambia: 3 Established
+
+A digital land register was in service for part of the country in 2024; national coverage is not known.
+
+- SMART Zambia Institute says the Zambia Integrated Land Administration System (ZILAS) is deployed and 100% digital, handling land administration in Zambia ([source, 2024-09-13](https://www.szi.gov.zm/?p=3792)).
+- A Ministry of Lands ICT officer says ZILAS, deployed by the SMART Zambia Institute and hosted on the Government Service Bus, is in use and issuance of title deeds is now digitally processed ([source, 2024-09-13](https://www.szi.gov.zm/?p=3769)).
+
+### Zimbabwe: 3 Established
+
+A digital land register was in service for part of the country in 2025; national coverage is not known.
+
+- Zimbabwe launched the Digital Land Administration Platform for electronic processing of title deeds, per a Government Gazette notice announced by Justice Minister Ziyambi Ziyambi ([source, 2025-05-30](https://newziana.co.zw/zimbabwe-launches-digital-platform-to-modernize-title-deed-processing/)).
 
 ### Botswana: 2 Nascent
 

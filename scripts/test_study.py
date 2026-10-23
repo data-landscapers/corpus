@@ -484,6 +484,23 @@ try:
             if '"stage.json"' in p.read_text(encoding="utf-8") and "study_lib.write_stage(" not in p.read_text(encoding="utf-8")]
     check("every ladder that writes stage.json writes it through study_lib.write_stage", bare, [])
 
+    print("\na later yes, and the rungs it does not answer")
+    import study_first_ladder as first
+    st = {"aspects": [{"key": "reg", "values": ["inservice", "underway", "none"]},
+                      {"key": "wide", "values": ["nationwide"]}, {"key": "web", "values": ["online"]}]}
+    g = {s: f"gap {s}" for s in "12345"}
+    r = lambda i, a, v: {"row_id": f"KEN-{i}", "aspect": a, "value": v, "as_of": "2026-01"}  # noqa: E731
+    city = [r(1, "reg", "inservice"), r(2, "web", "online")]
+    on = dt.date(2026, 9, 30)
+    check("a later yes answers the earlier ones", first.stage(st, city, on, g, "", "")["stage"], "5")
+    check("but not a rung in must_show", first.stage(dict(st, must_show=[3]), city, on, g, "", "")["stage"], "3")
+    check("which its own evidence answers", first.stage(dict(st, must_show=[3]), city + [r(3, "wide", "nationwide")],
+                                                        on, g, "", "")["stage"], "5")
+    check("and a rung it skips is still answered from above",
+          first.stage(dict(st, must_show=[2]), [r(2, "web", "online")], on, g, "", "")["stage"], "2")
+    check("later_yes false asks every rung", first.stage(dict(st, later_yes=False), [r(2, "web", "online")],
+                                                          on, g, "", "u")["stage"], "unplaced")
+
     print("\nevidence that cannot be profiled")
     bad = dict(ev("KEN-1", "tiers", "T9", "last year"), date_precision="week", url="")
     problems = study_lib.evidence_problems(STUDY, "KEN", [bad, dict(bad, row_id="UGA-1")])

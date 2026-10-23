@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-fibrebackbone.md — the forty-first maturity study: long-distance fibre across the country, in four questions
-last_reviewed: 2026-10-14
+last_reviewed: 2026-10-23
 status: run 2026-10-14 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
@@ -46,7 +46,7 @@ Asked in order. Each is answered with a date and a link.
 | 5 Leading | Yes to 4: every region reached, and capacity sold to other operators |
 
 - **Only question 1 has a window, three years.** A backbone in service stays in service, and reach stays reached, until a later source says otherwise.
-- **Question 4 needs question 3.** Open access on a backbone that reaches some regions only is noted and leaves the country at stage 3.
+- **Question 4 needs question 3.** Open access on a backbone that reaches some regions only is noted and leaves the country at stage 3. This is the nationwide rule *(Bill, 2026-10-23; `study.json` → `"must_show": [3]`)*, which `study-ladder-fibrebackbone.py` already held; no cell moved.
 - **Length in kilometres is reported in the long summary and sets nothing.** No norm sets a length, as the row as it stands already says.
 - **The row as it stands asks more of stage 4**: every region, published open-access terms, a cross-border link and a current length, all at once. That is why nobody is above stage 3. Here stage 4 asks for every region alone, open access moves to stage 5, and the cross-border link is left to `regionalinfrastructure`.
 - **Stage 5 no longer asks for a master plan implemented, redundancy, and rules on sharing and rights of way.** Each is a judgement, or a law's text, and none is a fact a story states.

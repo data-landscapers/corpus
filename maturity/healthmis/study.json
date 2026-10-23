@@ -2,6 +2,7 @@
  "id": "healthmis",
  "study_file": "maturity-study-healthmis.md",
  "pass": "first",
+ "must_show": [2],
  "window_from": "2023-10-01",
  "story_cap": 20,
  "subjects": [

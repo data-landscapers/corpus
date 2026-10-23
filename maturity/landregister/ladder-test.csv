@@ -2,10 +2,10 @@ iso3,stage,register,national,online,stage_sources
 AGO,4,inservice,nationwide,,AGO-003
 BDI,3,inservice,,,BDI-002;BDI-006
 BEN,3,inservice,,,BEN-001;BEN-005
-BFA,5,inservice,nationwide,online,BFA-002;BFA-004
+BFA,3,inservice,,,BFA-009;BFA-001
 BWA,2,underway,,,BWA-003;BWA-002
 CAF,2,underway,,,CAF-001;CAF-002
-CIV,5,inservice,nationwide,online,CIV-003
+CIV,3,inservice,,,CIV-002
 CMR,2,underway,,,CMR-004;CMR-001
 COD,2,underway,,,COD-002;COD-003
 COG,no evidence,,,,
@@ -13,26 +13,26 @@ COM,no evidence,,,,
 CPV,2,underway,,,CPV-001
 DJI,no evidence,,,,
 DZA,5,inservice,nationwide,online,DZA-005
-EGY,3,inservice,,,EGY-002
+EGY,3,inservice,,,EGY-003;EGY-002
 ERI,unplaced,,,,
 ETH,5,inservice,nationwide,online,ETH-002
 GAB,2,underway,,,GAB-003;GAB-001
-GHA,5,inservice,nationwide,online,GHA-003
+GHA,3,inservice,,,GHA-002;GHA-004
 GIN,2,underway,,,GIN-001
 GMB,2,underway,,,GMB-001
 GNB,no evidence,,,,
 GNQ,no evidence,,,,
-KEN,5,inservice,nationwide,online,KEN-002;KEN-005
+KEN,3,inservice,,,KEN-001;KEN-004
 LBR,2,underway,,,LBR-002;LBR-001
 LBY,2,underway,,,LBY-001
 LSO,unplaced,,,,
-MAR,5,inservice,nationwide,online,MAR-008
-MDG,2,underway,,,MDG-002;MDG-001
+MAR,3,inservice,,,MAR-007
+MDG,3,inservice,,,MDG-003
 MLI,no evidence,,,,
-MOZ,5,inservice,nationwide,online,MOZ-002
+MOZ,3,inservice,,,MOZ-001
 MRT,3,inservice,,,MRT-005;MRT-006
 MUS,no evidence,,,,
-MWI,5,inservice,nationwide,online,MWI-003
+MWI,3,inservice,,,MWI-002
 NAM,3,inservice,,,NAM-001
 NER,2,underway,,,NER-004;NER-001
 NGA,2,underway,,,NGA-002
@@ -46,10 +46,10 @@ STP,unplaced,,,,
 SWZ,3,inservice,,,SWZ-001
 SYC,no evidence,,,,
 TCD,3,inservice,,,TCD-003
-TGO,5,inservice,nationwide,online,TGO-002;TGO-004
+TGO,3,inservice,,,TGO-003
 TUN,5,inservice,nationwide,online,TUN-006;TUN-009
-TZA,5,inservice,nationwide,online,TZA-002
-UGA,5,inservice,nationwide,online,UGA-005
+TZA,3,inservice,,,TZA-001
+UGA,3,inservice,,,UGA-002;UGA-004
 ZAF,3,inservice,,,ZAF-001
-ZMB,5,inservice,nationwide,online,ZMB-002
-ZWE,5,inservice,nationwide,online,ZWE-004;ZWE-009
+ZMB,3,inservice,,,ZMB-001;ZMB-003
+ZWE,3,inservice,,,ZWE-008

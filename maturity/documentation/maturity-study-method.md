@@ -2,7 +2,7 @@
 type: procedure
 reader: cc
 title: maturity-study-method.md — how one indicator is studied, staged and written up, from a short list of questions and the news already held
-last_reviewed: 2026-10-14
+last_reviewed: 2026-10-23
 status: in use; Bill's rulings of 2026-10-06, 2026-10-10 and 2026-10-11. The simpler form below is his of 2026-10-11 and governs every study prepared after dataprotectionlaw
 ---
 
@@ -42,7 +42,7 @@ Output: `systems.csv`, one row per named thing per country.
 
 1. **Stage 1 needs a cited, dated statement that the thing is absent.**
 2. **Each yes, in order, is one stage**: one yes is stage 2, four is stage 5. A study with fewer questions says which stages it cannot reach.
-3. **A yes to a later question answers the earlier ones.**
+3. **A yes to a later question answers the earlier ones.** **Except a question of nationwide coverage** *(Bill, 2026-10-23)*: it is shown by its own evidence, listed in `study.json` → `"must_show"`; `"later_yes": false` switches the rule off for every question.
 4. **A yes carries its year and a window**, three years unless the study says otherwise. Outside the window it is not a yes.
 5. **Answers are as at the as-at date**: a later dated source that reverses a yes, reverses it.
 6. **An unanswered question stops the count**; the short summary names it. A country with no answer at all is *No evidence*.

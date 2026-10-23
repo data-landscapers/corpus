@@ -20,28 +20,15 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 13 |
+| 5 Leading | 2 |
+| 4 Operating | 8 |
 | 3 Established | 7 |
-| 2 Nascent | 23 |
+| 2 Nascent | 30 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
 | No evidence | 4 |
 
 ## Countries
-
-### Botswana: 5 Leading
-
-90% or more of births were registered in 2024.
-
-- UNICEF's December 2024 report says Botswana has achieved universal birth registration ([source, 2024-12-11](https://www.unicef.org/zimbabwe/press-releases/birth-registration-steadily-increases-worldwide-150-million-children-still-invisible)).
-
-### Cape Verde: 5 Leading
-
-90% or more of births were registered in 2026.
-
-- Biometric Update reports, citing the IMIJ presentation at ID4Africa 2026, that Cabo Verde reached 99 percent birth registration, up from about 91 percent before the reforms ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
-- IMIJ's ID4Africa 2026 deck gives birth registration in Cabo Verde as about 99-100% (presenter's approximation) ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-1-Cape-Verde-FINAL.pdf)).
 
 ### Namibia: 5 Leading
 
@@ -63,12 +50,6 @@ Births and deaths are registered digitally in the national civil status file, sa
 - ANIP says a death declared by a health worker or local authority sets the person's status to deceased in the identification system and is registered automatically in the national civil status file (FNEC), which holds births, deaths and marriages ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 - ANIP says secure birth certificates are now issued from data in the RNPP and the national civil-status file, per a note signed 5 May 2026 ([source, 2026-05-05](https://lepotentiel.bj/2026/05/06/enrolement-au-rnpp-et-delivrance-des-actes-de-naissance-securises-au-benin-lanip-precise-les-nouvelles-directives/)).
 
-### Burkina Faso: 4 Operating
-
-Births and deaths were registered digitally in 2026; 90% birth registration is not on record.
-
-- The same session covered real-time entry of deaths, alongside births and marriages, on VENEEM at central and secondary registration offices, per the Agence d'Information du Burkina ([source, 2026-09-02](https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/)).
-
 ### Cote d'Ivoire: 4 Operating
 
 Births and deaths were registered digitally in 2025; 90% birth registration is not on record.
@@ -82,19 +63,6 @@ Births and deaths were registered digitally in 2026; 90% birth registration is n
 
 - Egypt's FY2026/27 development plan, reported by Youm7, says deaths are registered electronically nationwide alongside births, developed by the Ministry of Health and Population and partner bodies ([source, 2026-08-02](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444)).
 - Egypt's own country presentation (July 2026) states a central database for births and deaths is in service with nationwide automation at 4,571 health offices ([source, 2026-07](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-egypt_crvs_transformation_journey.pdf)).
-
-### Ethiopia: 4 Operating
-
-Births and deaths were registered digitally in 2026; 90% birth registration is not on record.
-
-- The same presentation lists death registration and certificate, with health-facility death notification, among the services of the national eCRVS system, which it says improved CRVS operations ([source, 2026-07](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf)).
-
-### Guinea-Bissau: 4 Operating
-
-Births and deaths were registered digitally in 2026; 90% birth registration is not on record.
-
-- UNDP says officials at Santa Luzia record births, marriages and deaths directly on the national platform SIREC ([source, 2026-04](https://www.undp.org/sites/g/files/zskgke326/files/2026-04/_undp_g.b_newsletter_jan-mar_2026_eng_1.pdf)).
-- The SIREC page says the system registers deaths (obito) alongside births and marriages, with fully digital storage of registration acts ([source, 2025-01-22](https://sirec.web.ua.pt/Home/About)).
 
 ### Malawi: 4 Operating
 
@@ -121,25 +89,12 @@ Births and deaths were registered digitally in 2026; 90% birth registration is n
 
 - The PReSE coordinator says the computerised civil-registry system covers deaths as well as births ([source, 2026-02-06](https://jornaleconomico.sapo.pt/noticias/sao-tome-e-principe-pronto-para-um-novo-sistema-de-recenseamento-eleitoral/)).
 
-### Somalia: 4 Operating
-
-Births and deaths were registered digitally in 2025; 90% birth registration is not on record.
-
-- The Ministry says the service in those 19 districts registers deaths digitally, with records stored in a central national database ([source, 2025-08-10](https://sonna.so/en/article/somalia-marks-africa-civil-registration-and-vital-statistics-day-with-launch-of-unified-digital-registration-service)).
-- UNICEF Somalia says the digital CRVS system is deployed with full operational capability for daily registration of vital events such as births and deaths ([source, 2025-08-10](https://www.unicef.org/somalia/stories/legal-identity)).
-
 ### Tanzania: 4 Operating
 
 Births and deaths were registered digitally in 2026; 90% birth registration is not on record.
 
 - ZCSRA says death registration, with births, marriages and divorces, is decentralised to Sheha level through the eCRVS platform in all 11 Zanzibar districts ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-tanzania_0.pdf)).
 - RITA says deaths are among the vital events registered on the eRITA single digital platform ([source, 2025-06](https://www.child-identity.org/wp-content/uploads/2025/06/Patricia-Tanzania-PPT-RITA-presentation.pdf)).
-
-### Zambia: 4 Operating
-
-Births and deaths were registered digitally in 2026; 90% birth registration is not on record.
-
-- The same official said the exercise run on INRIS covers securing death certificates as well as birth registration (Lusaka Times, 3 September 2026) ([source, 2026-09-03](https://www.lusakatimes.com/2026/09/03/govt-implements-digital-civil-registration/)).
 
 ### Algeria: 3 Established
 
@@ -192,6 +147,19 @@ Digital civil registration was under way in 2026; national digital birth registr
 - Angola's presentation to the registrars' meeting says amendments to the civil registry and identity card laws led to operations merging the two systems, with a multifunctional database under the Ministry of Justice built on the existing Sistema do Registo Civil ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitisation-angola.pdf)).
 - Novo Jornal reports that identification and civil registration posts in Luanda and nearly all the country were without their system for months, which the Justice Ministry blamed on telecom breakdowns, showing a computerised registry in use at posts ([source, 2026-05-05](https://www.novojornal.co.ao/politica/detalhe/minjusdh-diz-que-falhas-do-sistema-nos-postos-de-identificacao-e-registo-civil-que-ja-duram-ha-meses-se-devem-as-quebras-de-telecomunicacoes-71601.html)).
 
+### Botswana: 2 Nascent
+
+Registration was partly automated in 2024 and universal by UNICEF's count; national digital birth registration is not on record.
+
+- Statistics Botswana's Vital Statistics Report 2024 describes the Births and Deaths Registration System (BDRS) as a partially automated and decentralized system, introduced in 2003 and run through 35 district registration offices and 17 on-site registration points ([source, 2024](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf)).
+
+### Burkina Faso: 2 Nascent
+
+Digital civil registration was under way in 2026; national digital birth registration is not on record.
+
+- The Direction générale de la modernisation de l'état civil trained delegated officers and transcribing agents in Pouni on the VENEEM platform for real-time entry of births, marriages and deaths, funded by PREGOLS for 2026 ([source, 2026-09-02](https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/)).
+- The Minister of Territorial Administration said 30 communes of Burkina Faso now hold fully digitised civil-status registers, reported by the Primature ([source, 2026-02-02](https://lefaso.net/spip.php?article144154)).
+
 ### Burundi: 2 Nascent
 
 Digital civil registration was under way in 2026; national digital birth registration is not on record.
@@ -205,6 +173,13 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 - BUNEC director-general Alexandre Marie Yomo said on 14 September 2026 that the digitisation pilot begun in 2020 has digitised 60 of Cameroon's 432 civil-registration centres (13.9%), up from 42 in April 2022, with full completeness targeted for 2029-2030 if funded ([source, 2026-09-14](https://ecomatin.net/cameroun-52-milliards-fcfa-recherches-pour-numeriser-letat-civil)).
 - UNDP says the Système Intégré de Gestion de l'État Civil (SIGEC), with the SANEC digital archive, is being rolled out under its Legal Identity II project with BUNEC in six East Region communes including Bertoua, Batouri and Abong-Mbang, with Bertoua 1er already in production producing birth and marriage acts ([source, 2026-08](https://www.undp.org/cameroon/stories/dans-lest-du-cameroun-la-digitalisation-de-letat-civil-transforme-progressivement-lacces-lidentite-legale-bertoua-cameroun-aout-2026)).
+
+### Cape Verde: 2 Nascent
+
+Births were 99% registered in 2026, but nothing held says they are registered digitally across the country.
+
+- Biometric Update reports, citing the IMIJ presentation at ID4Africa 2026, that Cabo Verde reached 99 percent birth registration, up from about 91 percent before the reforms ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
+- IMIJ's ID4Africa 2026 deck gives birth registration in Cabo Verde as about 99-100% (presenter's approximation) ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-1-Cape-Verde-FINAL.pdf)).
 
 ### Central African Republic: 2 Nascent
 
@@ -241,12 +216,26 @@ Digital civil registration was under way in 2026; national digital birth registr
 - The DGPF director general says birth and marriage certificates are progressively being integrated into a digital database as part of an archive digitisation programme ([source, 2026-07](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/)).
 - Ville de Djibouti says its civil-status events have been recorded on the SIGEC software since 2011, with the database fed continuously, and a diagnostic of it began on 28 April 2024 ([source, 2024-04-28](https://villededjibouti.dj/actualite2.php?id=31)).
 
+### Ethiopia: 2 Nascent
+
+Digital civil registration was under way in 2026; national digital birth registration is not on record.
+
+- An APAI-CRVS/UNECA presentation (July 2026) describes Ethiopia's national eCRVS as a phased rollout: pilot in Addis Ababa, scale-up to Amharic-speaking regions, then national expansion to non-Amharic regions ([source, 2026-07](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf)).
+- The Government Communication Service quotes the Ethiopian AI Institute saying that in Addis Ababa, as a pilot, family registration and vital events registration are being implemented through a digital system connected from central level to woreda level ([source, 2025-12-22](https://www.gcs.gov.et/en/2025/12/22/digital-ethiopia-2025-has-brought-about-a-significant-change-in-improving-access-to-civil-registration-and-citizenship-services/)).
+
 ### Ghana: 2 Nascent
 
 Digital civil registration was under way in 2026; national digital birth registration is not on record.
 
 - The Eastern Region Registrar says officers are expected to complete digital registrations in communities, and an Assembly Member says birth registration 'has been digitalised' ([source, 2026-09-25](https://www.modernghana.com/news/1530759/unicef-bdr-and-kuami-eugene-push-for-improved.html)).
 - Graphic Online's opinion piece by two CRVS experts refers to Ghana's rollout of the Harmonised Births and Deaths Registry Portal (HBDRP) as an example of decentralised digital registration ([source, 2026-08-10](https://www.graphic.com.gh/features/opinion/building-africas-architecture-of-visibility-the-next-crvs-decade.html)).
+
+### Guinea-Bissau: 2 Nascent
+
+Digital civil registration was under way in 2026; national digital birth registration is not on record.
+
+- UNDP says the Santa Luzia Civil Registry Office in Bissau is the first in the country to operate entirely digitally on SIREC, replacing paper registry books, and over 2.4 million records (11,745 registers) are digitised ([source, 2026-04](https://www.undp.org/sites/g/files/zskgke326/files/2026-04/_undp_g.b_newsletter_jan-mar_2026_eng_1.pdf)).
+- UNICEF says birth registration is now done digitally on a tablet platform in hospitals and health centres in three regions (Bissau, Tombali, Quinara), with over 20,000 children aged 0 to 7 registered from October 2024 to June 2025 ([source, 2025-09-04](https://www.unicef.org/guineabissau/pt/historias/nascer-com-identidade-nascimentos-registados-nos-servi%C3%A7os-de-sa%C3%BAde-na-guin%C3%A9-bissau)).
 
 ### Kenya: 2 Nascent
 
@@ -310,6 +299,13 @@ Digital civil registration was under way in 2025; national digital birth registr
 - NCRA says over 80% of integrated CRVS and ID services, including birth registration, are digitized and decentralized across regional and district offices ([source, 2025-05-22](https://www.id4africa.com/2025/files/T2-P1-S2-4-SIERRALEONE_FINAL.pdf)).
 - The Calabash Newspaper reports a one-year Vital Strategies-funded NCRA project integrating digital technologies into birth and death registration, with 48 laptops and modems for 48 health facilities in 16 districts ([source, 2024-09-06](https://thecalabashnewspaper.com/archives/45757)).
 
+### Somalia: 2 Nascent
+
+Digital civil registration was under way in 2026; national digital birth registration is not on record.
+
+- OpenCRVS says its production-level Unified Digital Civil Registration System operates in 30 Somali districts, is linked to 160 hospitals and has completed 28,391 birth registrations ([source, 2026-01](https://www.opencrvs.org/about-us/country-stories/somalia)).
+- Ecofin Agency reports the Ministry of Interior, Federal Affairs and Reconciliation piloted a Unified Digital Civil Registration Service in 19 districts on 10 August 2025, with national rollout planned in phases ([source, 2025-08-10](https://www.ecofinagency.com/news-digital/1108-48024-somalia-pilots-19-district-digital-civil-registry-lays-groundwork-for-nationwide-legal-identity)).
+
 ### South Africa: 2 Nascent
 
 Digital civil registration was under way in 2025; national digital birth registration is not on record.
@@ -336,6 +332,13 @@ Digital civil registration was under way in 2026; national digital birth registr
 Digital civil registration was under way in 2026; national digital birth registration is not on record.
 
 - NIRA says it developed and integrated the NSIS national ID system with a birth and death registration module built on open source OpenCRVS, with automatic NIN issuance on birth notification and immediate certification, and lists deploying crvs.nsis.nira.go.ug for birth registration as a next step ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-uganda.pdf)).
+
+### Zambia: 2 Nascent
+
+Digital civil registration was under way in 2025; national digital birth registration is not on record.
+
+- The Smart Zambia Institute issued a request for proposals on 3 December 2025, financed by IDA under the Digital Zambia Acceleration Project, to procure a system integrator for the CRVS core modules, backend infrastructure and enrolment kits ([source, 2025-12-03](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00412626)).
+- INRIS, the civil registration and legal identity information management system, has been rolled out in 79 districts, covering all city and municipal councils, with some district councils pending, per the INRIS deputy project manager ([source, 2023-10](https://dailynationzambia.com/2023/10/govt-digitises-nrcs/)).
 
 ### Zimbabwe: 2 Nascent
 

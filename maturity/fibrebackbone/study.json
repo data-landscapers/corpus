@@ -1,6 +1,7 @@
 {
  "id": "fibrebackbone",
  "study_file": "maturity-study-fibrebackbone.md",
+ "must_show": [3],
  "subjects": [
   "infra.connect"
  ],

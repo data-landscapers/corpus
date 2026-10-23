@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "5",
+      "stage": "3",
       "register": "inservice",
-      "national": "nationwide",
-      "online": "online",
+      "national": "",
+      "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-003",
-      "gaps": "",
+      "stage_sources": "CIV-002",
+      "gaps": "No source held since October 2023 says the digital land register covers the whole country.",
       "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-10-23"
     }
   ]
 }

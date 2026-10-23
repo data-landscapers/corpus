@@ -18,8 +18,11 @@ The first aspect's values are read from `study.json` in that order, top first: `
 **A later yes answers the earlier ones** (method §3.3), unless `study.json` -> `"later_yes": false`
 *(Bill, 2026-10-23: birthidlink, idregisters, taxregister)*: then stage 4 needs the first aspect
 at its top value as well, and stage 5 needs that and the second aspect, each shown by its own row
-in the window. `inservice` still answers `underway`: they are one aspect. Stage 1 is the first
-aspect at `none` with no other yes. Every window is three years; a fact dated after the as-at
+in the window. `inservice` still answers `underway`: they are one aspect. **`"must_show": [n, ...]`**
+*(Bill, 2026-10-23: a nationwide criterion is observed)* is the finer setting: a later yes does not
+answer the questions it lists, and answers the rest; the stage is the last question answered in an
+unbroken run from question 1, and its sources that question's own rows, else the later yes that
+answered it. Stage 1 is the first aspect at `none` with no other yes. Every window is three years; a fact dated after the as-at
 sets nothing, and a year or a month stands for its last day. `corrections.csv` (`removed`, or `revalued: aspect:value`)
 is applied to `evidence.csv` first, once, as `study-ladder-opendatause.py` does. Writes each
 `stage.json` and `ladder-test.csv`.
@@ -86,13 +89,28 @@ def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str,
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] == value and d >= three]
     if not rows:
         return {"stage": "no evidence", "sources": [], "gaps": empty}
-    p3, p4 = pick(k1, top), pick(k2, v2)
-    strict = study.get("later_yes", True) is False   # Bill, 2026-10-23: every lower rung shown
-    for s, src, below in (("5", pick(k3, v3), p3 and p4), ("4", p4, p3), ("3", p3, True),
-                          ("2", pick(k1, mid), True), ("1", pick(k1, low), True)):
-        if src and (below or not strict):
-            return {"stage": s, "sources": src[:2], "gaps": gaps[s]}
+    p3 = pick(k1, top)
+    # The direct yes to each question; `inservice` answers `underway`, being one aspect.
+    yes = {1: pick(k1, mid) or p3, 2: p3, 3: pick(k2, v2), 4: pick(k3, v3)}
+    must = must_show(study)
+    answered = lambda q: yes[q] or (q not in must and any(yes[r] for r in range(q + 1, 5)))  # noqa: E731
+    n = 0
+    while n < 4 and answered(n + 1):
+        n += 1
+    if n:
+        src = yes[n] or next(yes[r] for r in range(n + 1, 5) if yes[r])
+        return {"stage": str(n + 1), "sources": src[:2], "gaps": gaps[str(n + 1)]}
+    low_rows = pick(k1, low)
+    if low_rows:
+        return {"stage": "1", "sources": low_rows[:2], "gaps": gaps["1"]}
     return {"stage": "unplaced", "sources": [], "gaps": unplaced}
+
+
+def must_show(study: dict) -> set[int]:
+    """The questions a later yes does not answer: `must_show`, or all three under `later_yes: false`."""
+    if study.get("later_yes", True) is False:   # Bill, 2026-10-23: every lower rung shown
+        return {1, 2, 3}
+    return {int(q) for q in study.get("must_show", [])}   # Bill, 2026-10-23: nationwide is shown
 
 
 def run(study_id: str, sub: str, gaps: dict, empty: str, unplaced: str, argv=None) -> int:

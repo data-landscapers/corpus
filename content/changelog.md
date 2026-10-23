@@ -1,5 +1,6 @@
 ## 23 October 2026
 
+- The civil register and land register indicators now need nationwide coverage shown by its own evidence: digital death registration, a 90% birth registration rate or online land services no longer stand in for it. Seven countries fall to stage 2 on the civil register and eleven from 5 to 3 on the land register; Morocco holds at 5.
 - The address register indicator now needs each stage's lower steps shown by their own evidence, so a city or regional system in use no longer counts as nationwide. Chad, Ethiopia, Gambia and Tanzania move from stage 5 to 3, and no country is now at stage 5.
 - The birth-ID link, ID registers and tax register indicators now need each stage's lower steps shown by their own evidence, and an audit figure no longer counts as records exchanged between the civil register and the ID system. Seventeen cells move down: Libya to unplaced on the birth-ID link, Ethiopia, Libya and Namibia from 5 to 3 on ID registers, and 13 countries on the tax register, eight of them to unplaced.
 - The authentication indicator now counts an ID app, e-signature or wallet only where the state accepts it: recognised in law, run for a state body or accepted by state services. Côte d'Ivoire and Seychelles move from stage 5 to 4, their ID apps' digital cards not shown to be accepted by the authorities.

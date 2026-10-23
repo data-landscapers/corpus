@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-educationmis.md — the national education information system, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-23
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -46,6 +46,8 @@ Asked in order. Each is answered with a date and a link.
 | 5 Linked | Yes to 4 |
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `system` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `learners` (`individual`) for 3 and `linked` (`linked`) for 4.
+
+**Question 3, learner records in service for schools across the country, is shown by its own evidence** *(Bill, 2026-10-23; `study.json` → `"must_show": [3]`)*: a later yes no longer answers it, and answers the other questions still. No cell moved.
 
 ## 4. The norm
 

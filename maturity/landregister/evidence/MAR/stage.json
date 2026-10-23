@@ -9,10 +9,10 @@
       "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-008",
+      "stage_sources": "MAR-002;MAR-008",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Nationwide shown by its own evidence (Bill, 2026-10-23): ANCFCC's key-figures page, held since January 2026, says its digital cadastral maps cover the whole national territory. Dated only to 2026, the ladder reads it as after the as-at; it was published before it.",
+      "as_at": "2026-10-23"
     }
   ]
 }
