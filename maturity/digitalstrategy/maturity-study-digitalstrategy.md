@@ -36,7 +36,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 | `development-plan` | A digital pillar or chapter of a national development plan or vision | Noted, not assessed; flagged |
 | `ministry-plan` | A ministry's, regulator's or agency's own strategic plan or roadmap | Noted, not assessed |
 | `directive` | A law, decree, ordinance or order to digitalise, with no strategy behind it | Noted, not assessed |
-| `programme` | A financed project or programme, donor or domestic | Noted, not assessed; read for finance |
+| `programme` | A financed project or programme, donor or domestic | Noted, not assessed; finance it gives the strategy is a `national` fact |
 | `sector-ict` | An ICT or telecommunications sector policy | Logged for `gov.policy--ict-strategy` |
 | `thematic` | A strategy for one technology or layer: broadband, AI, data, cloud, cybersecurity, public infrastructure | Out of scope: its own row |
 | `regional` | A strategy of a regional community or the African Union | Out of scope |

@@ -33,7 +33,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on 
 | `law` | A communications or telecommunications act, code or decree that regulates the sector and states no policy | Noted, not assessed |
 | `institution-plan` | A ministry's or regulator's plan for its own work | Noted, not assessed |
 | `development-plan` | An ICT pillar or chapter of a national development plan or vision | Noted, not assessed; flagged |
-| `programme` | A financed project or programme, donor or domestic | Noted, not assessed; read for finance |
+| `programme` | A financed project or programme, donor or domestic | Noted, not assessed; finance it gives the strategy is a `sector` fact |
 | `subsector` | A policy for one part of the sector: broadband, universal access, spectrum, postal, broadcasting, outsourcing | Out of scope: its own row where there is one |
 | `government` | A strategy for digitalising the state's own administration | Out of scope |
 | `regional` | A policy of a regional community or the African Union | Out of scope |

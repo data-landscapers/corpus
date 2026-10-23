@@ -219,7 +219,7 @@ What to record
 - fact: one English sentence giving what the document states, with its figures and who says so. Quote no more than a few words.
 - as_of: when the stated thing was true, YYYY, YYYY-MM or YYYY-MM-DD: the event's date, not the document's. Where none is given, use the document's publication date.
 - date_precision: year, month or day.
-- system: the system's or instrument's name as the document gives it. class: the sub-indicator's class given below, or the fact is not recorded.
+- system: the system's or instrument's name as the document gives it. class: the sub-indicator's class given below, or the fact is not recorded; a study's other classes are for systems rows, even where the fact is about the body or instrument one names.
 - Classify by what the document says a thing does, never by its name. A plan, a pledge, a workshop or a donor's intention is not the thing delivered. Do not stage, summarise or judge.
 - systems: the systems the document names for the country (system, country_label, class, platform, owner, tiers; class "other" where it is not the study's own). Keep it short; empty is fine.
 - note: one line, why there is no fact where there is none.
