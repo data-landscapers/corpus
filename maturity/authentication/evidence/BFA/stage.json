@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "2",
-      "service": "underway",
-      "reach": "",
+      "stage": "4",
+      "service": "inservice",
+      "reach": "several",
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-002;BFA-003",
-      "gaps": "No source held since October 2023 says an authentication service is in use.",
-      "note": "Rebuild: the PKI e-signature platform was installed and staff trained in April 2025 (BFA-002). Nothing held says it is in use.",
-      "as_at": "2026-10-22"
+      "stage_sources": "BFA-004;BFA-005",
+      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "note": "FasoSign, launched on 15 September 2026, authenticates signers and is operational on three government systems (BFA-004, BFA-005), staged across services on the rung as worded, as Cameroon's and Mozambique's e-signature systems are; read as one service, it is stage 3.",
+      "as_at": "2026-10-23"
     }
   ]
 }

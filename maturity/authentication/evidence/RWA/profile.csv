@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,authentication,service,coverage,inservice,2026-08-13,RWA-007,RWA-010=underway;RWA-009=underway;RWA-005=underway;RWA-006=underway;RWA-004=underway;RWA-001=underway;RWA-003=underway;RWA-002=underway,
+RWA,authentication,service,coverage,inservice,2026-10-16,RWA-007;RWA-012;RWA-013,RWA-010=underway;RWA-011=underway;RWA-009=underway;RWA-005=underway;RWA-006=underway;RWA-004=underway;RWA-001=underway;RWA-003=underway;RWA-002=underway,
 RWA,authentication,reach,coverage,several,2026-08-13,RWA-008,,
 RWA,authentication,remote,coverage,,,,,nothing held

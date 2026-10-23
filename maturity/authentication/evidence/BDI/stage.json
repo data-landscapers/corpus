@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "unplaced",
-      "service": "",
+      "stage": "2",
+      "service": "underway",
       "reach": "",
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 names a digital authentication service: SIM registration requires the ID card with no check against a register stated, and the 2023 statement that no ID database supports KYC is outside the window.",
-      "note": "Rebuild, lowered from 3: SIM registration requires the ID card but no check against a register is stated (BDI-002, BDI-003), the test the first pass applied to Ghana and Tanzania. The 2023 statement of absence (BDI-001) is outside the window, so stage 1 cannot be claimed.",
-      "as_at": "2026-10-22"
+      "stage_sources": "BDI-004",
+      "gaps": "Nothing held says the central bank's biometric financial ID is in use; SIM registration requires the ID card with no check against a register stated, and the 2023 statement of absence is outside the window.",
+      "note": "The central bank signed a contract in November 2024 for a biometric financial ID to verify customers, with tests planned at banks and mobile money operators (BDI-004): contracted, so stage 2. Nothing says it is in service.",
+      "as_at": "2026-10-23"
     }
   ]
 }

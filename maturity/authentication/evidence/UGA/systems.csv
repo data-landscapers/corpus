@@ -28,3 +28,7 @@ UGA,National ID QR verification (NIRA),Uganda,other,,NIRA,,2026-08-21-techbuild-
 UGA,National Identification Register (NIRA),Uganda,other,,NIRA,,2026-08-20-parliament-uganda-new-id-system-questions-digital-verification
 UGA,National Identification Register,Uganda,other,,NIRA,,2026-06-01-nira-birth-registration-alien-registration
 UGA,National Security Information System (NSIS),Uganda,other,,NIRA,,2026-04-30-uniph-crvs-technical-working-group
+UGA,Uganda National Public Key Infrastructure,UGA,authentication,National Data Centre,NITA-U,national root CA; document-signing service,2026-08-01-uga-terms-of-reference-webtrust-audit-and-aatl-recognition-programme-for-t
+UGA,UgPass,UgPass,authentication,,NITA-U,,2025-08-28-uga-govt-introduces-e-signatures-to-curb-fraud-in-public-offices
+UGA,UgPass,UgPass,authentication,DAES platform (UgPass 1.0),NITA-U,,2025-05-01-uga-digitally-trusted-uganda
+UGA,e-KYC platform,Uganda,authentication,,,,2024-11-15-uga-dissemination-of-the-electronic-know-your-customer-evaluation-report

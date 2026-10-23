@@ -67,3 +67,8 @@ MWI,Nzika Digital ID Wallet,Malawi,authentication,smartphone wallet,National Reg
 MWI,National Identity system,Malawi,other,,,,2026-07-10-macra-undp-ai-digital-id-collaboration-itweb
 MWI,National ID (National Registration Bureau),Malawi,other,,National Registration Bureau,,2026-01-16-birth-registration-campaign-4.6m-children-malawi24
 MWI,National Registration and Identification System,Malawi,other,,National Registration Bureau,,2025-09-04-nrb-strategic-plan-2025-2030-launch
+MWI,NRB national digital identity system,Malawi,other,,National Registration Bureau,,2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity
+MWI,NRB eKYC database and ID/Account Mapper,Malawi,authentication,,National Registration Bureau,,2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity
+MWI,National Switch Limited,Malawi,other,,,,2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity
+MWI,NRB identity verification service,Malawi,authentication,"national ID card QR code, offline tool, fingerprint reader",National Registration Bureau,,2024-07-20-mwi-making-national-id-work-beyond-voter-registration
+MWI,National Registration Information System,NRIS,authentication,"NRB middleware, signed QR code",National Registration Bureau,,2025-01-01-mwi-national-registration-bureau-evolution-of-the-national-registration-bu

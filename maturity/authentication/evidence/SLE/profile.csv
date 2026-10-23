@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,authentication,service,coverage,inservice,2026-08-10,SLE-001;SLE-003;SLE-005;SLE-007;SLE-008;SLE-014;SLE-015;SLE-017;SLE-022,SLE-013=underway;SLE-019=underway;SLE-009=underway;SLE-020=underway;SLE-002=underway;SLE-011=underway;SLE-010=underway;SLE-021=underway;SLE-012=underway,
+SLE,authentication,service,coverage,inservice,2026-08-10,SLE-001;SLE-003;SLE-005;SLE-007;SLE-008;SLE-014;SLE-015;SLE-017;SLE-022;SLE-024,SLE-013=underway;SLE-019=underway;SLE-009=underway;SLE-020=underway;SLE-002=underway;SLE-011=underway;SLE-010=underway;SLE-021=underway;SLE-012=underway,
 SLE,authentication,reach,coverage,several,2026-08-10,SLE-004;SLE-006;SLE-016;SLE-018;SLE-023,,
 SLE,authentication,remote,coverage,,,,,nothing held

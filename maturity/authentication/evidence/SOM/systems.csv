@@ -18,3 +18,8 @@ SOM,identity number issued by the National Identification and Registration Autho
 SOM,OpenCRVS Unified Digital Civil Registration System,Somalia,other,OpenCRVS,,,2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System
 SOM,NIRA national ID platform,NIRA national ID platform,authentication,,National Identification and Registration Authority,,2026-01-01-som-id4africa-somali-digital-identity-playbook
 SOM,Government Single Sign-On (SSO) and IAM platform,Somalia,other,"OAuth 2.0, OpenID Connect, SAML",Ministry of Communications and Technology,,2026-10-16-som-wb-op00475480-api-gateway-sso-portal-reoi
+SOM,eAqoonsi,Somalia,authentication,mobile application,NIRA,,2026-10-22-som-somalia-enrolls-citizens-returning-from-yemen-for-biometric-national-i
+SOM,Danabeysan,Danabeysan,authentication,digital signature platform,Ministry of Finance,,2025-08-17-som-somalia-launches-danabeysan-digital-signature-system-to-streamline-gov
+SOM,HUBIYE Verifier Platform,HUBIYE,authentication,,NIRA,,2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system
+SOM,e-Aqoonsi Digital ID App,e-Aqoonsi,authentication,mobile app,NIRA,,2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system
+SOM,Certificate Delivery System (CDS),CDS,other,NIRA website,NIRA,,2025-05-01-som-nira-launches-key-digital-public-infrastructure-for-national-id-system

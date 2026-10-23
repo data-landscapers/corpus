@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "4",
+      "stage": "5",
       "service": "inservice",
       "reach": "several",
-      "remote": "",
+      "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-005;CIV-004;CIV-007",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "Rebuild: the public administration e-signature system is in use and being extended across administrations (CIV-005), and MaPoste runs on a certified digital identity (CIV-007). Kept at 4 on the rung as worded; an e-signature system used by several bodies may be read as one service, which is stage 3.",
-      "as_at": "2026-10-22"
+      "stage_sources": "CIV-013;CIV-012;CIV-005;CIV-010",
+      "gaps": "Whether the authorities recognise the Côte d'Ivoire Identité app's ID is not established; a national authentication platform and wallet are only at feasibility study.",
+      "note": "The Côte d'Ivoire Identité app, released in August 2025 with ONECI, holds the national ID card on a phone behind biometric login and issues documents authenticated by ONECI (CIV-013, CIV-012); e-signature is used across administrations (CIV-005). Staged on the rung as worded; read as needing a state wallet, it is stage 4.",
+      "as_at": "2026-10-23"
     }
   ]
 }

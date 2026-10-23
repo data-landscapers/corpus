@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,authentication,service,coverage,inservice,2026-08,MRT-001;MRT-006;MRT-008,MRT-004=underway;MRT-005=underway;MRT-003=underway,
+MRT,authentication,service,coverage,inservice,2026-08,MRT-001;MRT-006;MRT-008;MRT-010,MRT-004=underway;MRT-005=underway;MRT-003=underway,
 MRT,authentication,reach,coverage,several,2026-08,MRT-002;MRT-009,,
-MRT,authentication,remote,coverage,wallet,2024-08-15,MRT-007,,
+MRT,authentication,remote,coverage,wallet,2024-08-15,MRT-007;MRT-011,,

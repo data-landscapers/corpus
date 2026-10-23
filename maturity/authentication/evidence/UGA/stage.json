@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "4",
+      "stage": "5",
       "service": "inservice",
       "reach": "several",
-      "remote": "",
+      "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-022;UGA-020;UGA-010",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "Rebuild: UGHub connects NIRA's registry to over 150 ministries and agencies, banks and telecoms (UGA-022). Nothing held names a mobile ID or wallet.",
-      "as_at": "2026-10-22"
+      "stage_sources": "UGA-030;UGA-028;UGA-029;UGA-022",
+      "gaps": "The UgPass counts are NITA-U's own; its Digital Credential Wallet is planned for UgPass 2.0.",
+      "note": "The UgPass app verifies users of e-services without passwords, with over 10 million subscribers and more than 35 ministries and agencies (UGA-030, UGA-028, UGA-029), and UGHub links NIRA to over 150 bodies (UGA-022). Top rung.",
+      "as_at": "2026-10-23"
     }
   ]
 }

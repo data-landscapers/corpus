@@ -19,3 +19,7 @@ ZAF,Online Verification Service (OVS),South Africa,other,,Department of Home Aff
 ZAF,Health Patient Registration System (HPRS),South Africa,other,,National Department of Health,facilities,2025-08-01-zaf-pmg-nw4628-hprs-biometric
 ZAF,SASSA eKYC biometric verification,South Africa,authentication,,SASSA,,2025-07-01-zaf-pmg-nw3803-srd-biometric-verification
 ZAF,single digital ID for payments,South Africa,other,wallet controlled by the individual,SARB,,2026-10-20-zaf-rewiring-payments-open-connected-inclusive
+ZAF,MyMzansi,ZAF,authentication,mobile app,Department of Home Affairs,,2026-10-22-zaf-digital-id-could-change-how-you-pay
+ZAF,PEMKey,ZAF,other,,South African Reserve Bank,,2026-10-22-zaf-digital-id-could-change-how-you-pay
+ZAF,National Population Register,National Population Register,other,,Department of Home Affairs,,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system
+ZAF,Home Affairs digital verification service,Home Affairs verification service,authentication,,Department of Home Affairs,,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system

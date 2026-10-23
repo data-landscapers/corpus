@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "authentication",
-      "stage": "4",
+      "stage": "5",
       "service": "inservice",
       "reach": "several",
-      "remote": "",
+      "remote": "wallet",
       "cap": "",
       "flags": "",
-      "stage_sources": "SYC-004;SYC-002",
-      "gaps": "No source held since October 2023 says the SeyID app or wallet is used by people to prove who they are online.",
-      "note": "Rebuild, raised from 3: SeyID, validated by a video check against the civil status system, gates government e-services (SYC-004) on a portal hosting all government entities' systems (SYC-002). Its ID-Wallet is shown holding a driving licence, not as a way to prove identity online (SYC-001).",
-      "as_at": "2026-10-22"
+      "stage_sources": "SYC-010;SYC-009;SYC-004;SYC-002",
+      "gaps": "The wallet and app use rest on WISeKey's own 2024 release; no government source says how many people use them.",
+      "note": "WISeKey says the SeyID app gives passwordless access and its e-wallet holds the National ID as a digital card with a QR code for third-party checks (SYC-010, SYC-009); SeyID gates government e-services on a portal hosting all entities' systems (SYC-004, SYC-002). Top rung.",
+      "as_at": "2026-10-23"
     }
   ]
 }
