@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 249
+sources_cited: 252
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -271,7 +271,7 @@ The policy is far ahead of the practice, and says so itself. The National Artifi
 
 The rules to govern any of it are still being bought rather than applied: [PADCI's first phase funds technical assistance and equipment to create and make operational the country's digital agencies and its artificial-intelligence governance frameworks](https://www.bilan.gouv.ci/actualite/19406) (February 2026). In the meantime the country speaks on AI governance abroad through its digital minister, who [led a delegation including the telecoms regulator ARTCI to Geneva in July 2026](https://www.fratmat.info/article/2643112/culture/gouvernance-mondiale-de-lia-la-cote-divoire-fait-entendre-sa-voix-a-geneve-grace-a-lartci), and at the [UN AI Governance Dialogue the same month called for an African AI, by Africans, for Africans](https://techreviewafrica.com/news/6202/cote-divoire-calls-for-african-led-approach-to-artificial-intelligence-development-at-un-ai-governance-dialogue).
 
-Compute in country is thin: [ST Digital announced NVIDIA GPU-based AI hosting in Abidjan and Douala, with service from the second quarter of 2025](https://itweb.africa/content/mYZRXv9g4nEMOgA8) (February 2025), and [the consultancy Artefact opened an Abidjan office in May 2025 and made it its Francophone Africa hub](https://itweb.africa/article/artefact-broadens-ai-footprint-into-cote-divoire/JN1gP7OA6VWqjL6m). Where the state has added AI capability itself, it has done so through staff rather than procurement: [around twenty officials of the transport-fluidity observatory were trained at its Abidjan headquarters from 28 to 30 July 2026 to build their own AI assistants for their directorates' routine work](https://www.fratmat.info/article/2643591/economie/transformation-numerique-lobservatoire-de-la-fluidite-des-transports-mise-sur-lintelligence-artificielle), with the final day given to testing what they had built.
+Compute in country is thin: [ST Digital announced NVIDIA GPU-based AI hosting in Abidjan and Douala, with service from the second quarter of 2025](https://itweb.africa/content/mYZRXv9g4nEMOgA8) (February 2025), and [the consultancy Artefact opened an Abidjan office in May 2025 and made it its Francophone Africa hub](https://itweb.africa/article/artefact-broadens-ai-footprint-into-cote-divoire/JN1gP7OA6VWqjL6m). The state's own machine is [the supercomputer at the national computing centre, where a national AI hub and fab lab are to be installed for start-ups to reach remotely](https://digitalmag.ci/kouassi-benjamin-dir-cnc-de-cote-divoire-le-supercalculateur-est-la-rampe-de-lancement-de-la-strategie-nationale-ia/) (August 2025). Beyond it, where the state has added AI capability, it has done so through staff rather than procurement: [around twenty officials of the transport-fluidity observatory were trained at its Abidjan headquarters from 28 to 30 July 2026 to build their own AI assistants for their directorates' routine work](https://www.fratmat.info/article/2643591/economie/transformation-numerique-lobservatoire-de-la-fluidite-des-transports-mise-sur-lintelligence-artificielle), with the final day given to testing what they had built. Ivorian-language AI is being built privately: [FuturAfric launched YIRI, a platform working in six local languages, in Abidjan on 15 October 2026](https://www.linfodrome.com/societe/126771-intelligence-artificielle-la-plateforme-yiri-entend-faciliter-l-acces-au-numerique-grace-aux-langues-locales), and [the digital transition minister spoke at the launch](https://techreviewafrica.com/news/7883/c-te-d-ivoire-promotes-national-languages-in-ai-development-through-yiri-digital-community).
 
 ### ICT Industry
 <!-- tech.industry -->
