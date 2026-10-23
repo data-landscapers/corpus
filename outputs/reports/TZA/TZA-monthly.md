@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: TZA
-ledger_rows: 80
+ledger_rows: 81
 not_held: 5
-record: 881f294fa00f
+record: 44081cd27de1
 ---
 
 # News, Sep – Oct 2026
@@ -543,6 +543,20 @@ Tanzania's Deputy Minister for Communication and IT, Switbert Mkama, called on p
 </div>
 
 ### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Database integrations for electronic identity verification</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIDA yazindua Kampeni ya Kipo Chukua, Kamilisha Safari Yako](https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/)** — Jamhuri Media, 2 September 2026
+
+157 institutions linked to NIDA verification by August 2026 (72 public, 85 private); 1.5m+ cards uncollected.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
