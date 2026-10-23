@@ -109,7 +109,7 @@ The largest single live digital commitment to Burundi is [the World Bank's Digit
 The one private commitment of comparable size is older: [Huawei financed a USD 30 million recovery plan for the state operator ONATEL, adopted by the Council of Ministers in November 2017, its repayment drawn from the revenues of ONATEL's mobile arm](https://www.iwacu-burundi.org/qui-a-tue-lonatel/), revenues [Iwacu reported in 2020 to be insufficient](https://www.iwacu-burundi.org/qui-a-tue-lonatel/).
 
 <!-- derived -->
-Five country-level digital commitments to Burundi are recorded, at a combined USD 142.6 million (October 2026): three from the World Bank at USD 107 million, the Huawei credit to ONATEL at USD 30 million and Lumitel's USD 5.62 million share of the rural 4G contract. A German development grant reaches the country only through a regional East African Community programme (October 2026).
+Six country-level digital commitments to Burundi are recorded, at a combined USD 149 million (October 2026): three from the World Bank at USD 107 million, the Huawei credit to ONATEL at USD 30 million, Lumitel's share of the rural 4G contract at about USD 6 million and about USD 6 million of United States money for health data systems, still in the pipeline. A German development grant reaches the country only through a regional East African Community programme (October 2026).
 
 <!-- derived -->
 Connectivity takes the largest share of the digital money committed to Burundi, ahead of government technology and public financial management, with the ONATEL credit third and digital payments fourth.
