@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "discussion",
-      "stage": "2",
+      "stage": "1",
       "debate": "criticised",
-      "connection": "",
+      "connection": "cut",
       "penalty": "punished",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-006;EGY-008;EGY-007",
-      "gaps": "A person was arrested, charged or jailed, or an outlet suspended or closed, for what was said or published, inside the last twelve months.",
-      "note": "Counted from the four questions by study-ladder-opendiscussion.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "EGY-009",
+      "gaps": "No new block is dated inside the twelve months; the source says at least 630 websites, independent media among them, stood blocked in February 2026.",
+      "note": "Access Now says Egyptian authorities were still blocking independent news sites in February 2026, at least 630 websites in all, a block inside the twelve months. A block places stage 1 whatever else is held.",
+      "as_at": "2026-10-23"
     }
   ]
 }

@@ -23,8 +23,8 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 0 |
-| 2 Nascent | 26 |
-| 1 Absent | 11 |
+| 2 Nascent | 25 |
+| 1 Absent | 12 |
 | Unplaced | 8 |
 | No evidence | 6 |
 
@@ -102,14 +102,6 @@ A rights group criticised government policy in public in 2026, but a journalist 
 
 - LINAPYCO's Fidele Mbilizi Mutimanwa criticised the DRC state's non-implementation of the African Commission's 2022 Batwa decision and of national law 22/030, and park clearance operations, at an ACHPR89 side event; the article gives no event date, so its published date is used ([source, 2026-10-17](https://ishr.ch/latest-updates/achpr89-side-event-protecting-our-land-our-environment-and-digital-space-in-africa/)).
 - The Committee to Protect Journalists says journalist Tresor Muntu was detained on 15 September 2026 and charged with defamation and publishing false news for sharing a post criticising a provincial politician, and jailed on 16 September ([source, 2026-09-15](https://cpj.org/2026/09/drc-journalist-detained-prosecuted-for-sharing-x-post-on-whatsapp/)).
-
-### Egypt: 2 Nascent
-
-In 2026 the journalists syndicate criticised site blocking and six journalists were arrested; earlier blocks and detentions are older. Recent cuts are unknown.
-
-- Al Manassa quotes Egyptian Journalists Syndicate head Khaled Elbalshy rejecting all blocking of news websites and the licensing justification for the regulator's move against Egyptke ([source, 2026-04-13](https://almanassa.com/en/news/31271)).
-- Human Rights Watch says Egyptian security forces arrested the six journalists of the Matsda2sh newsroom on 28-29 September 2026, and the Interior Ministry said they were suspected of preparing fabricated news ([source, 2026-09-28](https://www.hrw.org/news/2026/10/02/egypt-authorities-arrest-entire-investigative-newsroom)).
-- Al Manassa reports security forces arrested Egyptke's editor-in-chief and CEO in December 2025 after a complaint over a poultry story the complaint called falsely attributed ([source, 2025-12](https://almanassa.com/en/news/31271)).
 
 ### Eswatini: 2 Nascent
 
@@ -249,6 +241,12 @@ In 2024 to 2026 Djibouti's state media stayed uncritical, opposition sites were 
 
 - Exiled journalist Zineb Haddaji tells CIVICUS Lens that opposition and exiled media websites are blocked in Djibouti and social media access is restricted at times of political tension ([source, 2026-07-03](https://lens.civicus.org/interview/djibouti-silence-is-the-mechanism-that-makes-authoritarianism-possible/)).
 - The US State Department says the government owned the only radio and television stations and the newspaper La Nation held a monopoly on authorized print media, with official media generally not criticising government policy ([source, 2024](https://dj.usembassy.gov/wp-content/uploads/sites/165/2025/08/624521_DJIBOUTI-2024-HUMAN-RIGHTS-REPORT-1.pdf)).
+
+### Egypt: 1 Absent
+
+In February 2026 Egypt was still blocking independent news sites, at least 630 websites; whether the journalists arrested since 2025 were charged is not known.
+
+- Access Now and co-signatories say Egyptian authorities continue to block independent media sites, with at least 630 websites currently blocked ([source, 2026-02-12](https://www.accessnow.org/press-release/human-rights-abuses-facilitated-by-applogic-networks-in-egypt/)).
 
 ### Eritrea: 1 Absent
 
