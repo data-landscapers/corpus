@@ -24,3 +24,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-21,ZWE,tech.ai--control-of-ai-abuse,fact,1,3,ZWE-002,Stage 4c: police said in December 2025 that the Cyber and Data Protection Act criminalises deepfakes and AI-generated false content; restaged from every row held.
 2026-10-21,NAM,tech.ai--control-of-ai-abuse,fact,1,1,NAM-001,"Stage 4c: a draft AI Bill and CRAN's AI guidelines are reported as being drafted, neither published; restaged from every row held."
 2026-10-22,BDI,tech.ai--control-of-ai-abuse,fact,2,3,BDI-003,Burundi's data protection law of 10 March 2026 requires notice of AI use in automated decisions; a rule on AI harms is in force
+2026-10-23,GHA,tech.ai--control-of-ai-abuse,fact,3,3,GHA-002,"Housekeeping 32: the held fact of the Cyber Security Authority's 2025 deepfake takedowns ruled out, the platforms decide them and none is dated; stage 3 held"
