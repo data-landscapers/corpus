@@ -6,7 +6,7 @@ place: AGO
 ledger_rows: 253
 not_held: 6
 indicators: 115
-record: 79c740ba34f5
+record: e1b1cdb87ba5
 ---
 
 # Angola: progress report, October 2025 – October 2026
@@ -199,7 +199,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 
 | System or instrument | What would settle it | Last probed |
 |---|---|---|
-| Critical national infrastructure designation | enactment of the cybersecurity law, or a standalone decree, would settle it; probed 2026-08-05, the December 2025 presidential decree vests the designation power in a new cybersecurity centre but publishes no designation list, and the National Assembly adopted the cybersecurity bill in its final vote on 2026-08-12, with no promulgation on file at 2026-09-17 | 2026-08-05 |
+| Critical national infrastructure designation | a published designation list, or the regulation the cybersecurity law leaves its technical requirements to, would settle it; probed 2026-08-05, the December 2025 presidential decree vests the designation power in a new cybersecurity centre but publishes no designation list, and Lei n.º 9/26 of 28 September 2026, in force on publication, obliges operators of critical infrastructure to register with the centre within 180 days without naming them (reported 2026-10-02) | 2026-08-05 |
 | Cybersecurity fund | a constitutive decree would settle it; probed 2026-08-05, no constitutive decree exists; the fund appears only as a named destination for 30% of the cybersecurity centre's revenue | 2026-08-05 |
 | Count of public services available online | a published service catalogue or a completion report would settle it; probed 2026-08-05, the government's own eServices catalogue names seven services but is undated and the portal root is in maintenance | 2026-08-05 |
 | Installed AI compute capacity | the readiness assessment's infrastructure case rests on fibre, one satellite and data centres; probed 2026-08-05, no document states installed capacity; the nearest published measures are regional aggregates in a July 2026 IMF paper | 2026-08-05 |
