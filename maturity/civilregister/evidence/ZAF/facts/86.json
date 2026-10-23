@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-05-zaf-question-nw72-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "In a written reply of 5 August 2024 the Minister of Home Affairs says the department has a rollout strategy to automate birth registration by connecting health facilities to Home Affairs systems, under an MOU with the Department of Health, staggered over five years to 2024/25.",
+   "as_of": "2024-08-05",
+   "date_precision": "day",
+   "system": "Home Affairs birth registration at health facilities",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Home Affairs birth registration at health facilities",
+   "country_label": "ZAF",
+   "class": "civil",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": "health facilities with maternity wards"
+  }
+ ],
+ "note": ""
+}

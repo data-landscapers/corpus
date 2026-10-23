@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-10-tcd-societe-la-digitalisation-des-actes-de-naissance-une-transformation-cr",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "TECHNIDEV's director general says civil registry desks have been set up in more than 50 maternity units under TASDJIL, with the aim of covering all health facilities.",
+   "as_of": "2023-12-10",
+   "date_precision": "day",
+   "system": "TASDJIL",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

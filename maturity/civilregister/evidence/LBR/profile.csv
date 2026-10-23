@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,civil,births,coverage,underway,2026-10-16,LBR-001;LBR-002;LBR-003,,
+LBR,civil,births,coverage,inservice,2024-08,LBR-004,LBR-003=underway;LBR-002=underway;LBR-005=underway;LBR-001=underway,
 LBR,civil,deaths,coverage,,,,,nothing held
 LBR,civil,coverage,coverage,,,,,nothing held

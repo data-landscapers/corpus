@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-14-gha-bawumia-launches-ghana-card-number-at-birth",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "Vice President Bawumia said the Births and Deaths Registry has moved to an automated platform allowing real-time birth registration across all regions, with certificates issued within two hours.",
+   "as_of": "2024-03-14",
+   "date_precision": "day",
+   "system": "Births and Deaths Registry automated platform",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

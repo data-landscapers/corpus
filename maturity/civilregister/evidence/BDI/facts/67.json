@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-bdi-central-bank-of-burundi-presentation-at-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "none",
+   "fact": "The Bank of the Republic of Burundi's Deputy Governor says the civil register is not digitised and not based on biometrics.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Civil register",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

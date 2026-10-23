@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-20-mdg-newsmada-cneci-2025-activities-launch",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Newsmada reports the Cneci project includes extending the 'systematic birth registration' solution to civil status centres and health facilities, alongside digitisation of civil status registers.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "enregistrement systematique de naissance",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

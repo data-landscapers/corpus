@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "ANIP says the 2021 law on dematerialising civil status registration removed paper registers and created a national civil status file, with paper registers fully digitised.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Fichier national de l'état civil (FNEC)",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "ANIP says a declared death is registered automatically in the civil status file, which holds births, deaths, marriages, divorces and adoptions.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fichier national de l'état civil (FNEC)",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "target",
+   "fact": "ANIP reports a high birth declaration rate of nearly 94% within the deadline.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fichier national de l'état civil (FNEC)",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

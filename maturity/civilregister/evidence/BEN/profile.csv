@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,civil,births,coverage,inservice,2026-05-05,BEN-003;BEN-004,BEN-001=underway;BEN-002=underway,
-BEN,civil,deaths,coverage,,,,,nothing held
+BEN,civil,births,coverage,inservice,2026-05-05,BEN-003;BEN-004;BEN-006,BEN-001=underway;BEN-009=underway;BEN-008=underway;BEN-002=underway,
+BEN,civil,deaths,coverage,digital,2026-05,BEN-010,,
 BEN,civil,coverage,coverage,,,,,nothing held

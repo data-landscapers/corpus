@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-mwi-national-registration-bureau-evolution-of-the-national-registration-bu",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The National Registration Bureau reports an electronic birth and death registration system in 142 health facilities with real-time data synchronisation.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Electronic Birth and Death Registration system",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The National Registration Bureau reports recording of 179,000 deaths in the NRIS and an electronic death registration system in 142 health facilities.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Electronic Birth and Death Registration system",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

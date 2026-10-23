@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNEC",
+   "country_label": "Registre National de l'Etat Civil",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The RNEC is named as being created; the op-ed does not say it is digital or in service."
+}

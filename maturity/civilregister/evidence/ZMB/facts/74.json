@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-02-zmb-dzap-system-integrator-foundational-digital-id-crvs-rfp",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The Smart Zambia Institute issued a request for proposals on 3 December 2025, financed by IDA under the Digital Zambia Acceleration Project, to procure a system integrator for the CRVS core modules, backend infrastructure and enrolment kits.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "CRVS core modules",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

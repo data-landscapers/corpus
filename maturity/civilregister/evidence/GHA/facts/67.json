@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-19-gha-counting-every-ghanaian-how-digitalising-births-and-deaths-fuels-ghana",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Henrietta Lamptey and Yvonne Boatemaa-Yeboah write that the Births and Deaths Registry is transitioning from manual, paper-based records to a digital platform.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Births and Deaths Registry digital platform",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

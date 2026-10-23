@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-12-zwe-herald-issuance-of-id-cards-going-on-smoothly-rg",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Registrar-General Henry Machiri said the Civil Registry Department had computerised civil registration stations at all provinces and some districts and sub-offices, was rolling computerisation out to the remaining sub-offices, and was linking the ZPRS database to hospitals for instant registration of births and deaths.",
+   "as_of": "2023-11-12",
+   "date_precision": "day",
+   "system": "Zimbabwe Population Registry System (ZPRS)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Population Registry System (ZPRS)",
+   "country_label": "ZWE",
+   "class": "civil",
+   "platform": "",
+   "owner": "Civil Registry Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

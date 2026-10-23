@@ -8,6 +8,7 @@ BDI,biometric civil registration system,Burundi,civil,,Ministry of Interior,13 p
 BDI,digital platform for civil registration management,Burundi,civil,,"Ministry of the Interior, Community Development and Public Security",,2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech
 BDI,biometric registration system,Burundi,civil,,Ministry of the Interior,13 pilot communes,2026-08-11-rtnb-le-burundi-accelere-la-modernisation-de-letat-civil
 BDI,pilot system of digitalisation of civil status,Burundi,civil,,Ministry of Interior,,2024-07-08-bdi-abp-validation-etude-systeme-identification
+BDI,biometric civil registration system,Biometric civil registration,civil,,,13 municipalities,2026-08-12-bdi-burundi-extends-biometric-civil-registration-toward-national-digital-i
 BEN,ANIP BJ,Benin,other,mobile app and service portal,ANIP,,2026-10-04-ben-beninwebtv-anip-50109-actes-de-naissance-septembre
 BEN,ANIP BJ,Benin,other,mobile app and service portal,ANIP,,2026-09-19-ben-lanouvelletribune-acte-naissance-gratuit-moins-14-ans
 BEN,Guichet unique d'enregistrement des naissances,Benin,civil,internet-connected terminals,ANIP with Ministry of Health,10 health facilities,2026-07-16-adjinacou-maternite-identite-legale
@@ -18,6 +19,7 @@ BEN,Guichet unique d'enregistrement des naissances,Benin,civil,"digital platform
 BEN,Fichier national de l'etat civil,Benin,civil,,ANIP,,2026-05-06-anip-rnpp-actes-naissance-securises
 BEN,FNEC,Fichier National de l'Etat Civil,civil,,ANIP,,2026-08-31-ben-anip-business-intelligence-procurement
 BEN,Fichier National de l'Etat Civil,Benin,civil,,ANIP,,2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben
+BEN,Guichet unique de déclaration et d'enregistrement des naissances,Guichet unique,civil,,ANIP,,2026-02-25-ben-guichet-unique-des-naissances-des-resultats-encourageants-au-terme-de
 BFA,VENEEM,Burkina Faso,civil,smartphone-based platform,Direction générale de la modernisation de l'état civil,central and secondary offices,2026-09-03-bfa-sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisat
 BFA,solution informatique de déclaration systématique des faits d'Etat civil,Burkina Faso,civil,,Ministère de l'Administration territoriale et de la Mobilité,20 main and 96 secondary centres,2025-06-19-snec-taux-execution-physique-6411-2024
 BFA,digital birth registration platform,Burkina Faso,civil,,AMADE Mondiale with DGMEC,three municipalities,2025-01-01-civil-registration-children-burkina-faso-phase-ii
@@ -37,6 +39,7 @@ CIV,logiciel national de l'état civil,CIV,civil,software,ONECI,,2026-06-09-onec
 CIV,Cityweb,CIV,civil,software,ONECI,,2026-03-04-cinews-oneci-santegidio-enregistrement-naissances
 CIV,Registre national des personnes physiques (RNPP),Côte d'Ivoire,other,,ONECI,,2026-10-05-civ-aip-parae-confiance-services-publics-numeriques
 CIV,ONECI civil status system,Cote d'Ivoire,civil,digital civil-status system linked to a national server,ONECI,"civil-status centres, national server, Registre national des personnes physiques",2025-09-17-civ-digitalmag-id-day-2025-oneci-nni
+CIV,Cityweb,Cityweb,civil,,ONECI,,2024-10-27-civ-cni-double-identite-enregistrement-des-naissances-nni-les-clarificatio
 CMR,BUNEC civil registry digitisation,Cameroon,civil,,BUNEC,,2026-09-16-cmr-ecomatin-bunec-52-milliards-numerisation-etat-civil
 CMR,SIGEC,Cameroon,civil,,BUNEC,commune,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
 CMR,SANEC,Cameroon,civil,,BUNEC,commune,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
@@ -100,6 +103,7 @@ GIN,Registre National de l'État Civil,Guinea,civil,,PN-RAVEC,,2026-01-17-ravec-
 GIN,Registre National de l'Etat Civil (RNEC),Guinea,civil,,PN-RAVEC,,2025-01-01-pn-ravec-site-officiel
 GIN,Registre national d'identite (RNPP),Guinee,other,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
 GIN,Registre national de l'Etat civil (RNEC),Guinea,civil,,ONECI,,2026-03-29-plfi-2026-matd-commission-des-lois-cnt
+GIN,RNEC,Registre National de l'Etat Civil,civil,,,,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census
 GMB,Electronic Civil Registration and Vital Statistics (ECRVS),Gambia,civil,,Government of The Gambia,,2025-06-20-govt-integrate-id-cards-ecrvs-thepoint
 GMB,eCRVS,The Gambia,civil,,Ministry of Health,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,eCRVS,The Gambia,civil,,Registrar General CRVS,,2026-07-18-uneca-fatty-overview-of-crvs-in-the-gambia
@@ -124,6 +128,7 @@ LBR,NID-CRVS system (proposed),Liberia,other,,National Identification Registry w
 LBR,National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS),NIDCRVS,other,,Government of Liberia (proposed; OeSD International GmbH as contractor),,2026-10-16-lbr-newdawn-house-scrutinizes-52m-national-id-deal
 LBR,NIDCRVS,National Identification Central Digital Civil Registration and Vital Statistics System,other,,OeSD International GmbH (BOT concession),,2026-10-16-liberianobserver-house-reviews-national-digital-id-overhaul
 LBR,National Identification Central Digital Civil Registration and Vital Statistics system (NIDCRVS),NIDCRVS,civil,,National Identification Registry,,2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession
+LBR,Birth Registration Information Management System,BRIMS,civil,"tablets, online registration, integrated into DHIS2",,health districts,2024-08-12-lbr-liberianinvestigator-unicef-crvs-day-birth-registration
 LBY,Project Intilaqa,Libya,civil,,Civil Registry Authority,257 offices,2024-09-06 Libya's Project Intilaqa matches Civil Registry electronic data with paper records
 LBY,National ID Number,Libya,other,,Civil Registry Authority,,2024-09-06 Libya's Project Intilaqa matches Civil Registry electronic data with paper records
 LBY,unified electronic system for national numbers,Libya,other,,Civil Status Authority,,2026-09-27-lby-alwasat-national-number-fraud-civil-registry
@@ -249,6 +254,7 @@ SEN,LGEC,Senegal,civil,,ANEC,,2026-07-15 Senegal digitizes more than 15 million 
 SEN,Sama Etat civil,Senegal,civil,,ANEC,,2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul
 SEN,RNEC,Senegal,civil,,ANEC,,2025-07-05-sen-rts-anec-daf-interoperabilite-rnec
 SEN,national DHIS2 platform,Senegal,civil,DHIS2,Ministry of Health and Public Hygiene,,2026-05-01-sen-projet-de-declaration-dsiss-ams79-point-12-10
+SEN,NEKKAL,Senegal,civil,SI ETAT CIVIL,Agence nationale de l'Etat civil,,2025-05-01-sen-perspectives-du-senegal-sur-les-progres-realises
 SLE,NCRA integrated CRVS and ID services,Sierra Leone,civil,,NCRA,"regional and district offices, mobile centres",2025-05-22-sle-civil-registration-in-sierra-leone-progress-and-policy-reforms
 SLE,NIN system,Sierra Leone,other,,NCRA,,2025-05-22-sle-civil-registration-in-sierra-leone-progress-and-policy-reforms
 SLE,digital birth registration system,Sierra Leone,civil,portable digital device,National Civil Registration Authority (NCRA),"district registration officers, community health centres",2026-10-06-sle-unicef-children-digital-public-infrastructure
@@ -305,6 +311,7 @@ ZAF,population register,South Africa,other,,Home Affairs,,2026-10-01-sa-digital-
 ZAF,National Population Register,South Africa,other,,Department of Home Affairs,,2026-04-08-cabinet-approves-revised-white-paper-citizenship
 ZAF,e-birth registration platform,South Africa,civil,,Department of Home Affairs,,2025-07-08-zaf-govza-nzuza-home-affairs-budget-vote-2025-26
 ZAF,online birth registration system,South Africa,civil,,Department of Home Affairs,health facilities,2023-11-06-zaf-pmg-nw3370-online-birth-registration-facilities
+ZAF,Home Affairs birth registration at health facilities,ZAF,civil,,Department of Home Affairs,health facilities with maternity wards,2024-08-05-zaf-question-nw72-to-the-minister-of-home-affairs
 ZMB,Integrated National Registration Information System (INRIS),Zambia,civil,,"Department of National Registration, Passport and Citizenship",26 district national registration offices,2026-09-03-zmb-lavushimanda-digital-civil-registration
 ZMB,Sample Based Registration System with Vital Statistics (SRS-VS),Zambia,other,,Ministry of Health / ZNPHI,sample of the population,2026-05-07-zambia-launches-srs-vs-silent-deaths
 ZMB,INRIS,Zambia,civil,,"Department of National Registration, Passports and Citizenship",,2023-10-28-zmb-dailynation-govt-digitises-nrcs
@@ -312,3 +319,4 @@ ZWE,Civil Registry Department civil registry offices,Zimbabwe,civil,,Civil Regis
 ZWE,Civil Registry Department civil registry offices,Zimbabwe,civil,,Civil Registry Department,10 decentralised sub-offices,2026-08-13-unicef-zimbabwe-civil-registry-eight-districts
 ZWE,Civil Registry Department civil registry offices,Zimbabwe,civil,,Civil Registry Department,10 decentralised sub-offices,2026-08-08-zimbabwe-unicef-china-birth-registration-digitisation
 ZWE,Civil registration computerisation (Registrar General's Office),Zimbabwe,civil,,Registrar General / Civil Registry Department,"10 provinces, 63 districts, 20+ of 209 sub-offices",2026-07-24-zimbabwe-african-registrars-e-passport-civil-registration-model
+ZWE,Zimbabwe Population Registry System (ZPRS),ZWE,civil,,Civil Registry Department,,2023-11-12-zwe-herald-issuance-of-id-cards-going-on-smoothly-rg

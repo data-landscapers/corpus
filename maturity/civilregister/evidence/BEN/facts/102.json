@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-08-ben-enregistrement-des-naissances-au-benin-le-guichet-unique-de-l-anip-fai",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says a single desk for declaring and registering births was piloted from 20 August 2025 in ten health facilities, with national scale-up being prepared.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Guichet unique de déclaration et d'enregistrement des naissances",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

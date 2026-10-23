@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "civil",
-      "stage": "2",
-      "births": "underway",
+      "stage": "3",
+      "births": "inservice",
       "deaths": "",
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-002;LBR-001",
-      "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "LBR-004;LBR-001",
+      "gaps": "No source held since October 2023 says deaths are registered in the digital system.",
+      "note": "UNICEF says birth registration reaches all 15 counties and 98% of health districts and is digitised, with online registration and digital certificates (2024). Nothing held says deaths are registered digitally.",
+      "as_at": "2026-10-23"
     }
   ]
 }

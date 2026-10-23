@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 12 |
+| 4 Operating | 13 |
 | 3 Established | 7 |
-| 2 Nascent | 24 |
+| 2 Nascent | 23 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
 | No evidence | 4 |
@@ -55,6 +55,13 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 
 - KT Press, citing the NISR vital statistics report, says birth registration completeness reached 92.9 percent in 2025, up from 90.3 percent in 2024 ([source, 2025](https://www.ktpress.rw/2026/04/rwanda-is-counting-everything-and-changing-in-the-process/)).
 - NISR says birth registration completeness against estimated live births was 92.9% in 2025, up from 90.3% in 2024 ([source, 2025](https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025)).
+
+### Benin: 4 Operating
+
+Births and deaths are registered digitally in the national civil status file, said in 2026; the share of births registered is not known.
+
+- ANIP says a death declared by a health worker or local authority sets the person's status to deceased in the identification system and is registered automatically in the national civil status file (FNEC), which holds births, deaths and marriages ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
+- ANIP says secure birth certificates are now issued from data in the RNPP and the national civil-status file, per a note signed 5 May 2026 ([source, 2026-05-05](https://lepotentiel.bj/2026/05/06/enrolement-au-rnpp-et-delivrance-des-actes-de-naissance-securises-au-benin-lanip-precise-les-nouvelles-directives/)).
 
 ### Burkina Faso: 4 Operating
 
@@ -140,12 +147,6 @@ Births were registered digitally across the country in 2025; digital death regis
 
 - Interior Minister Said Sayoud says administrations can now consult civil status data directly in the Registre National Automatise de l'Etat Civil, set up under Executive Decree 15-204 of 27 July 2015 ([source, 2025-12-08](https://www.algerie360.com/les-administrations-nont-plus-le-droit-dexiger-ces-documents-saayoud-promet-des-sanctions-severes/)).
 
-### Benin: 3 Established
-
-Births were registered digitally across the country in 2026; digital death registration is not known.
-
-- ANIP says secure birth certificates are now issued from data in the RNPP and the national civil-status file, per a note signed 5 May 2026 ([source, 2026-05-05](https://lepotentiel.bj/2026/05/06/enrolement-au-rnpp-et-delivrance-des-actes-de-naissance-securises-au-benin-lanip-precise-les-nouvelles-directives/)).
-
 ### Gambia: 3 Established
 
 Births were registered digitally across the country in 2025; digital death registration is not known.
@@ -157,6 +158,13 @@ Births were registered digitally across the country in 2025; digital death regis
 Births were registered digitally across the country in 2026; digital death registration is not known.
 
 - Ratoma's delegated civil-registry officer Amadou Konia Camara says secure digital paper is used to issue digital birth certificates in all communes of Guinea, and that registrations continue despite a two-week paper stockout ([source, 2026-09-02](https://mosaiqueguinee.com/2026/09/etat-civil-la-guinee-confrontee-a-une-penurie-dactes-de-naissance-numeriques/)).
+
+### Liberia: 3 Established
+
+Births are registered digitally across all 15 counties, said in 2024; whether deaths are registered digitally is not known.
+
+- UNICEF's Ahmad Shahvez said birth registration services reach all 15 counties and 98% of health districts and are digitised, with tablets, online registration and digital birth certificates ([source, 2024-08](https://liberianinvestigator.com/unicef-oic-urges-stronger-collaboration-to-overcome-birth-registration-challenges-in-liberia/)).
+- UNICEF says the Birth Registration Information Management System (BRIMS) on the DHIS2 platform has been implemented, with birth registration decentralized to all 15 counties and 58 centers ([source, 2024-12-11](https://www.unicef.org/liberia/press-releases/new-era-inclusion-millions-children-gain-legal-identity)).
 
 ### Mozambique: 3 Established
 
@@ -253,13 +261,6 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 - UNICEF Lesotho says 30 birth registration stations supported by an SMS-based platform have been established in government and CHAL health facilities across Maseru, Berea and Leribe ([source, 2026-08-05](https://www.linkedin.com/posts/unicef-lesotho_foreverychild-digitaltransformation-activity-7490765967325597697-36h5)).
 - Lesotho's NICR presentation to UNECA's 2026 expert group meeting lists 'Scale Up Digital Birth Registration Nationwide' for 2026-2027 and names digital birth registration as the solution for remote communities ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-lesotho.pdf)).
-
-### Liberia: 2 Nascent
-
-Digital civil registration was under way in 2026; national digital birth registration is not on record.
-
-- The Liberian Observer reports a proposed concession agreement between Liberia's government and OeSD International GmbH for a digital civil registration system recording births, deaths and marriages, referred to a joint committee and not yet ratified ([source, 2026-10-13](https://www.liberianobserver.com/politics/house-begins-review-of-boakai-s-proposed-national-digital-id-overhaul/article_0c964a7e-9e8c-4c1e-9e05-46bfae096890.html)).
-- UNICEF says the Birth Registration Information Management System (BRIMS) on the DHIS2 platform has been implemented, with birth registration decentralized to all 15 counties and 58 centers ([source, 2024-12-11](https://www.unicef.org/liberia/press-releases/new-era-inclusion-millions-children-gain-legal-identity)).
 
 ### Libya: 2 Nascent
 

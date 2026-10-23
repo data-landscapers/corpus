@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-07-lbr-allafrica-nir-oesd-concession-awaits-legislature",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The signed OeSD concession, on hold pending legislative ratification, covers civil registration and vital statistics infrastructure, per NIR Executive Director Andrew Peters on 4 September 2026.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "NIR/OeSD digital ID concession",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -32,3 +32,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SYC,dpi.registry--civil-register,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,TZA,dpi.registry--civil-register,fact,4,4,TZA-003;TZA-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZAF,dpi.registry--civil-register,review,2,2,ZAF-001;ZAF-002,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-23,BEN,dpi.registry--civil-register,fact,3,4,BEN-010;BEN-003,ANIP's 2026 slides: deaths are registered automatically in the national civil status file on declaration. The 94% is for births declared on time and was struck.
+2026-10-23,LBR,dpi.registry--civil-register,fact,2,3,LBR-004;LBR-001,"UNICEF, August 2024: birth registration is digitised and reaches all 15 counties and 98% of health districts."
+2026-10-23,GHA,dpi.registry--civil-register,fact,2,2,GHA-002;GHA-003,The Vice President's 2024 claim of real-time digital birth registration in all regions is outweighed by 2025 and 2026 sources describing a rollout; the stage holds.
