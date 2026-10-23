@@ -286,6 +286,7 @@ Côte d'Ivoire has a 2013 personal data protection law, with compliance checks m
 - The minister listed compliance control operations carried out in 2022 under the framework, with no count or sanction given ([source, 2022](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire)).
 - The minister listed national awareness campaigns launched from 2015 as an advance under the framework ([source, 2015](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire)).
 - The decree names ARTCI as the body that receives declarations, rules on authorisation requests within one month, and imposes withdrawals and fines under the 2013 law; it shows no appointment of members or acting decisions ([source, 2015-02-04](https://www.artci.ci/wp-content/uploads/2024/05/decret_2015_79.pdf)).
+- The ONECI director general says the convention with Orange Bank Africa is legally framed by personal data protection rules, with the authorisation of ARTICI ([source, 2025-02-03](https://www.koaci.com/article/2025/02/03/cote-divoire/economie/cote-divoire-signature-dune-convention-entre-oba-et-loneci-pour-renforcer-la-securite-des-transactions_184218.html)).
 
 ### DR Congo: 3 Established
 
