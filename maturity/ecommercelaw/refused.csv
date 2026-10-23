@@ -1,4 +1,5 @@
 iso3,n,source_slug,sub_indicator,aspect,value,as_of,system,removed,rule,refused_on
 COD,2,2026-07-31-drc-tribune-digital-sovereignty-ance-ancy-x-road-proposal,law,reach,rules,2026-07-31,ANCE,COD-002,"ruled: an agency said to be created, with no instrument or link to the Digital Code, as COD-002",2026-10-23
+NGA,2,2026-09-03-nimc-african-digital-trust-framework-gitex-techeconomy,law,reach,applied,2026-09-03,National Identity Management Act 2026,NGA-002,"ruled: the root CA designation is under the identity act, not an electronic transactions law, as NGA-002",2026-10-23
 NGA,2,2026-09-03-nimc-african-digital-trust-framework-gitex-techeconomy,law,standing,in-force,2026-09,National Identity Management Act 2026,NGA-001,"ruled: the identity act of 2026 is not an electronic transactions law, as NGA-001",2026-10-23
 NGA,5,2026-07-16-nimc-digital-signature-certification-authority,law,reach,applied,2026-07-15,NIMC electronic signature certification authority designation,NGA-002,"ruled: a designation under the identity act, not an electronic transactions law, as NGA-002",2026-10-23
