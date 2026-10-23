@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-23 12:30 · **RENDER** · 39m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 257 editions pruned; deployed e2f056a — ok
 2026-10-23 11:51 · **REBUILD** · 1m · businesspayments: rungs 3-4 read two ways (figure without end-to-end: BEN ETH LBY SEN 5->3; bodies counted as figure: NAM ZAF MRT ZWE to 5); not messaged, 5 open; staged as worded
 2026-10-23 11:51 · **REBUILD** · 1m · businessregister: rungs 4 and 5 read two ways (one procedure as shared number: BEN MRT stay 4, CPV 3->4; any BO register: MDG TGO 3->5); not messaged, 5 open; staged as worded
 2026-10-23 11:51 · **REBUILD** · 1m · broadbandstrategy: plan period read two ways (last target year as end: BWA GHA BDI 3->2; age rule over no time limit: EGY TUN 3->2); not messaged, 5 open; staged as worded

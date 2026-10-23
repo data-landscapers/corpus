@@ -1,6 +1,6 @@
 ---
 title: Ghana: finance
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: GHA
 ---
 
@@ -12,7 +12,7 @@ place: GHA
 <tr><th scope="row">Connectivity</th><td class="num">262</td><td class="num">421</td><td class="num zero"></td><td class="num">33</td><td class="num">30</td><td class="num">1,335</td><td class="num total">2,080</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">290</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">9</td><td class="num">9</td><td class="num total">308</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">224</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">1</td><td class="num">4</td><td class="num total">236</td></tr>
-<tr><th scope="row">Digital Identity and CRVS</th><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num">22</td><td class="num">60</td><td class="num">38</td><td class="num total">125</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num">25</td><td class="num">60</td><td class="num">38</td><td class="num total">128</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">100</td><td class="num">4</td><td class="num">14</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">118</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">22</td><td class="num">10</td><td class="num">19</td><td class="num total">51</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num">50</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">50</td></tr>
@@ -26,7 +26,7 @@ place: GHA
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">885</td><td class="num">426</td><td class="num">64</td><td class="num">105</td><td class="num">159</td><td class="num">1,419</td><td class="num total">3,058</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">885</td><td class="num">426</td><td class="num">64</td><td class="num">109</td><td class="num">159</td><td class="num">1,419</td><td class="num total">3,062</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/GHA/all-finance.html">Full table &mdash; 170 rows, all 12 fields &rarr;</a>
@@ -38,7 +38,7 @@ place: GHA
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Digital Identity and CRVS</th><td class="num">22</td><td class="num">60</td><td class="num">38</td><td class="num total">120</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">25</td><td class="num">60</td><td class="num">38</td><td class="num total">123</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">33</td><td class="num">20</td><td class="num">35</td><td class="num total">87</td></tr>
 <tr><th scope="row">Registries</th><td class="num">22</td><td class="num">10</td><td class="num">19</td><td class="num total">51</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">14</td><td class="num">4</td><td class="num">5</td><td class="num total">23</td></tr>
@@ -51,7 +51,7 @@ place: GHA
 <tr><th scope="row">Data protection</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">105</td><td class="num">112</td><td class="num">119</td><td class="num total">336</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">109</td><td class="num">112</td><td class="num">119</td><td class="num total">340</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
