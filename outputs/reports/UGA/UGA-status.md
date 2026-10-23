@@ -1,12 +1,12 @@
 ---
 title: Uganda: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: UGA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 13
-sources_cited: 280
+sources_cited: 281
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -270,7 +270,7 @@ In agriculture the register itself is still being built: [farmer registries were
 ### AI
 <!-- tech.ai -->
 
-Uganda's national artificial-intelligence infrastructure is a research facility: the [National AI Research Cloud, launched at Makerere University with the Research and Education Network for Uganda in March 2026](https://www.newvision.co.ug/category/science/minister-musenero-launches-national-ai-resear-NV_229938_032026), on the argument that Ugandan research data should not have to sit on Amazon's or Google's servers.
+Uganda's national artificial-intelligence infrastructure is a research facility: the [National AI Research Cloud, launched at Makerere University with the Research and Education Network for Uganda in March 2026](https://www.newvision.co.ug/category/science/minister-musenero-launches-national-ai-resear-NV_229938_032026), on the argument that Ugandan research data should not have to sit on Amazon's or Google's servers. The language models come from a private lab: [Sunbird AI's Sunflower v2, released on 24 September 2026, extends its open models from 31 Ugandan languages to 67 African ones, with speech recognition across 51](https://sunbird.ai/sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-from-31-ugandan-languages-to-67-across-the-continent/).
 
 Government's own systems carry little of it. The revenue authority [credits AI with uncovering UGX 200bn of revenue leakage in 2024, from undeclared imports to false VAT claims](https://ura.go.ug/en/ura-cg-launches-university-ai-and-robotics-laboratory/), on its own account. The one citizen-facing service on file is [UGGov Agent, an AI platform launched in June 2026 for reaching government services and tracking public projects in 16 local languages over WhatsApp and SMS](https://ntv.co.ug/business/uganda-launches-ai-platform-uggov-agent-to-boost-digital-governance); the [Digital Government Strategy carries artificial intelligence only as an emerging technology for government to pilot with the private sector and academia, not as a component of the national data exchange](https://www.nita.go.ug/sites/default/files/2025-07/Digital-Strategy.pdf) (2022). The compute that would sit under a larger programme is not built either — the AI facility announced for the Karuma hydropower plant [was still a plan with no built capacity](https://www.ecofinagency.com/news-digital/1509-48701-synectics-schneider-to-build-ai-center-in-uganda-starting-2026) as at September 2025.
 
