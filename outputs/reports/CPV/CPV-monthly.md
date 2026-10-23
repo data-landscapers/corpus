@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: CPV
-ledger_rows: 18
+ledger_rows: 20
 not_held: 28
-record: a6b0ac0aecb9
+record: 99d0cb1dd5fd
 ---
 
 # News, Sep – Oct 2026
@@ -127,6 +127,34 @@ A World Bank mission reviewed the Digital Cabo Verde project between 22 and 26 S
 **[DE-CIX and Cabo Verde Telecom Plan New South Atlantic Interconnection Corridor](https://www.de-cix.net/en/about-de-cix/media/press-releases/de-cix-and-cabo-verde-telecom-plan-new-south-atlantic-interconnection-corridor)** — DE-CIX, 29 September 2026
 
 DE-CIX and Cabo Verde Telecom signed a non-binding letter of intent to explore a Lisbon to Sao Paulo interconnection corridor, the operator supplying transport capacity in return for access to DE-CIX exchanges. Terms await a definitive agreement.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic communications market indicators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Assinaturas de internet fixa aumentam 14,7% num ano](https://expressodasilhas.cv/economia/2026/10/22/assinaturas-de-internet-fixa-aumentam-147-num-ano/105202)** — Expresso das Ilhas, 22 October 2026
+
+Cabo Verde's fixed broadband subscriptions grew 14.7% year on year in the second quarter of 2026, according to the regulator ARME, within 500,263 internet access subscriptions in total, 85% of them mobile broadband on phones. CVTelecom held 72.6% of internet subscriptions, Unitel T+ 26.5% and Starlink 0.87%, and mobile SIM penetration stood at 114% in June 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink share of the internet market</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Assinaturas de internet fixa aumentam 14,7% num ano](https://expressodasilhas.cv/economia/2026/10/22/assinaturas-de-internet-fixa-aumentam-147-num-ano/105202)** — Expresso das Ilhas, 22 October 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
