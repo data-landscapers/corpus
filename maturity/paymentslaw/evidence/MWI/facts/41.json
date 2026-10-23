@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck lists the Payment Systems Act, 2022 (a revision of the 2011 act) and the E-Money Regulation, 2019 among the supporting legal frameworks.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Payment Systems Act, 2022",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

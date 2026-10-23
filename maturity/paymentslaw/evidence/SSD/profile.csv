@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SSD,law,standing,coverage,in-force,2026-09-01,SSD-005,SSD-002=draft;SSD-001=draft;SSD-003=draft;SSD-004=draft,
-SSD,law,reach,coverage,non-bank,2026-09-01,SSD-006,,
+SSD,law,reach,coverage,connect,2026-09-01,SSD-007,SSD-006=non-bank,
