@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: MOZ
-ledger_rows: 48
+ledger_rows: 49
 not_held: 18
-record: f480a007458a
+record: 07ca0173eeed
 ---
 
 # News, Sep – Oct 2026
@@ -281,6 +281,20 @@ Mozambique's ICT institute, INTIC, has joined TriDigital, a project to build a c
 **[ATDI, MJCR, DNIC, SENAMI e INATRO preparam implementação da Identidade Digital em Moçambique](https://mznews.co.mz/atdi-mjcr-dnic-senami-e-inatro-preparam-implementacao-da-identidade-digital-em-mocambique/)** — MozNews, 13 October 2026
 
 Mozambique's digital agency is leading a 14-member technical mission to Ethiopia to prepare a national digital identity, with staff from the justice ministry, civil identification, the migration service and the road-transport institute.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SADC Regional Working Group on Data Protection membership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique joins SADC Regional Working Group on Data Protection](https://techreviewafrica.com/news/7857/mozambique-joins-sadc-regional-working-group-on-data-protection)** — Tech Review Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+Mozambique joined the SADC Regional Working Group on Data Protection through INTIC, naming board chair Lourino Chemane as member and data protection head Rosa Dique as alternate, after SADC ICT ministers meeting in Bulawayo on 26 June 2026 asked states to appoint representatives. The country's personal data protection bill is before the Assembly of the Republic.
 
 </div>
 
