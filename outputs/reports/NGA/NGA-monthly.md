@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: NGA
-ledger_rows: 163
+ledger_rows: 166
 not_held: 9
-record: 66eaf06f2116
+record: 58fa352cf324
 ---
 
 # News, Sep – Oct 2026
@@ -30,6 +30,8 @@ record: 66eaf06f2116
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -247,6 +249,20 @@ Nigeria's communications regulator launched an Internet Governance Working Group
 **[NCC survey finds gaps in licensees’ readiness for Internet code](https://www.vanguardngr.com/2026/10/ncc-survey-finds-gaps-in-licensees-readiness-for-internet-code/)** — Vanguard, 15 October 2026
 
 An NCC survey found only two of 19 licensees fully ready to implement Nigeria's Internet Code of Practice 2026, with nine partly ready and five not prepared. Licensees named the cybersecurity and AI provisions as the hardest and asked for guidance and reporting templates.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sector-specific regulations for AI in healthcare</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG moves to regulate AI use in healthcare, protect patients’ data](https://tribuneonlineng.com/fg-moves-to-regulate-ai-use-in-healthcare-protect-patients-data/amp/)** — Nigerian Tribune, 21 October 2026
+
+Health AI rules to build on NDPA 2023: secondary use, anonymisation, consent; Health Information Exchange planned.
 
 </div>
 
@@ -539,6 +555,28 @@ At a Lagos media workshop the migration organisation, Nigeria's immigration serv
 **[Nigeria, UK Customs Target Faster Trade With New Data-Sharing Deal](https://nigeriaupdates.com/nigeria-uk-customs-target-faster-trade-with-new-data-sharing-deal/)** — Nigeria Updates, 27 September 2026
 
 The Nigeria Customs Service and the UK's HM Revenue and Customs met in Abuja to finalise a Customs Mutual Administrative Assistance Agreement on information sharing and compliance, after about six months of virtual talks, reported on 27 September 2026. Nigerian customs said it hopes the agreement will be signed in the first week of December at the World Customs Organization Policy Commission.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Shared AI compute pool with Rwanda, Senegal and Kenya</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communications ministry announced plans for a Nigeria–Togo data park and wider fibre connectivity. It also proposed a continental scheme for countries to pool computing power for AI research.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FG proposes shared AI computing infrastructure with Rwanda, Senegal, Kenya](https://www.thecable.ng/fg-proposes-shared-ai-computing-infrastructure-with-rwanda-senegal-kenya/)** — TheCable, 22 October 2026
+
+Nigeria's communications minister Bosun Tijani, speaking through NCAIR's director at BUILD 2026 in Abuja, proposed pooling GPU capacity with Rwanda, Senegal and Kenya so researchers could combine compute to train large models. He said about 20 million Nigerians remain offline and pointed to a proposed Nigeria-Togo data park at Egbe to use unused power capacity.
 
 </div>
 
@@ -1276,11 +1314,11 @@ The US Trade and Development Agency has granted US$1,870,000 to Infragora Global
 
 <p class="monthly-story__name">Nigeria-Togo data park</p>
 
-<div class="bulletin-item" markdown="1">
+<div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[Nigeria Targets Faster Artificial Intelligence Development](https://von.gov.ng/nigeria-targets-faster-artificial-intelligence-development/)** — Voice of Nigeria, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
-Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communications ministry announced plans for a Nigeria–Togo data park and wider fibre connectivity. It also proposed a continental scheme for countries to pool computing power for AI research.
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
@@ -3057,6 +3095,36 @@ PROMAD Infotech Foundation, a Nigerian civic-technology non-profit, unveiled a 2
 **[Nigeria targets $1bn space investment as Africa pushes space sovereignty](https://businessday.ng/technology/article/nigeria-targets-1bn-space-investment-as-africa-pushes-space-sovereignty/)** — Businessday NG, 10 September 2026
 
 Nigeria's Federal Executive Council has approved six new satellites, two for communications and four for Earth observation, and a space transport and propulsion centre, innovation minister Kingsley Tochukwu Udeh said at the International Space Summit in Paris. He said the sector could absorb more than US$1 billion and sought private and foreign partners. Approval dates are not stated.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#digital-sovereignty">Digital sovereignty</a>
+</nav>
+
+### Digital sovereignty
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Estimated annual cost of foreign cloud dependence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Africa must own its digital future or risk exploitation, says Luminate CEO](https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/)** — TechCabal, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+A second account of Luminate chief executive Melanie Hui's BUILD 2026 keynote, adding her point from the same commissioned research that Africa's undersea internet cables follow old trade and extraction routes.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria loses $850m yearly to foreign cloud dependence, Luminate study finds](https://businessday.ng/news/article/nigeria-loses-850m-yearly-to-foreign-cloud-dependence-luminate-study-finds/)** — BusinessDay NG, 22 October 2026
+
+Luminate's chief executive Melanie Hui told the BUILD 2026 conference in Abuja that Nigeria loses an estimated $850 million a year by relying on foreign cloud providers, citing research Luminate commissioned from the Global Centre on AI Governance. She urged African governments to judge foreign tech investment by the jobs, skills and value it keeps at home.
 
 </div>
 
