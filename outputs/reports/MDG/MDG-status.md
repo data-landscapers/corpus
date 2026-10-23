@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 247
+sources_cited: 248
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -189,7 +189,7 @@ The instrument in force is still the older one. [Loi n° 2014-006 remains the la
 
 [The data-protection law still imposes no obligation to notify the regulator or data subjects of a personal-data breach](https://www.dlapiperdataprotection.com/index.html?t=law&c=MG).
 
-The institutions exist: [CMIL, the data-protection authority, and the national CIRT were both recorded as operational with their key posts filled in December 2025](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt), and the state has begun testing its own systems: [terms of reference of 2 March 2026 commission a security and compliance audit of the national identity management system against ISO/IEC 27001, 27701 and 24745, NIST guidance, the EU GDPR and the Malabo Convention](https://digital.gov.mg/wp-content/uploads/2026/03/26-03-02-TDR-AUDIT-IDMS.pdf), [which Madagascar ratified in June 2024](https://www.dlapiperdataprotection.com/index.html?t=law&c=MG). Certification itself has arrived first in the private sector, with [Stellarix certified to ISO 9001, ISO 22301 and ISO/IEC 27001 after audits led by BSI](https://newsmada.com/2026/07/30/digitalisation-et-cybersecurite-stellarix-certifiee-par-trois-normes-iso/) (July 2026).
+The institutions exist: [CMIL, the data-protection authority, and the national CIRT were both recorded as operational with their key posts filled in December 2025](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt), the [cybercrime centre created in 2019 resumed work in June 2026 after an interruption and had its teams in all 24 regions equipped by the digital ministry on 21 October 2026](https://www.lexpress.mg/2026/10/sensibilisation-la-prevention-de-la.html), and the state has begun testing its own systems: [terms of reference of 2 March 2026 commission a security and compliance audit of the national identity management system against ISO/IEC 27001, 27701 and 24745, NIST guidance, the EU GDPR and the Malabo Convention](https://digital.gov.mg/wp-content/uploads/2026/03/26-03-02-TDR-AUDIT-IDMS.pdf), [which Madagascar ratified in June 2024](https://www.dlapiperdataprotection.com/index.html?t=law&c=MG). Certification itself has arrived first in the private sector, with [Stellarix certified to ISO 9001, ISO 22301 and ISO/IEC 27001 after audits led by BSI](https://newsmada.com/2026/07/30/digitalisation-et-cybersecurite-stellarix-certifiee-par-trois-normes-iso/) (July 2026).
 
 The one large incident on the public record is an assertion rather than a finding: [the foreign minister said on 3 October 2025, during the protest crisis, that the country faced a massive cyberattack and a digital-manipulation campaign directed from abroad, naming no affected system and giving no technical evidence](https://www.aljazeera.com/news/2025/10/3/madagascar-president-refuses-to-step-down-amid-deadly-nationwide-protests).
 
