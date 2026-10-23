@@ -129,7 +129,7 @@ python scripts/lint-considered.py           # every unit; the "No evidence" trap
 **2. Message Bill, if anything is owed him** — one block under the marker in `C:\corpus-osint-xfer\messages-for-bill.md`, at most 80 words. Nothing owed, nothing written. After writing one:
 
 ```bash
-python scripts/lint-messages.py     # five open blocks, 80 words each
+python scripts/lint-messages.py     # 80 words a block, struck blocks deleted
 python scripts/lint-preambles.py    # the preamble is still a pointer
 ```
 

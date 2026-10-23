@@ -20,7 +20,7 @@ own newest close, so what is left to pin is the refusal — a manifest of a sche
 not know must stop the trigger dead rather than let it read the fields it recognises.
 
 Each case writes a synthetic manifest and watermark into a temp directory, points the
-module's path constants at them, and asserts the exit code. `tree_dirty` and `mirror_head`
+module's path constants at them, and asserts the exit code. `dirty_paths` and `mirror_head`
 are stubbed: both shell out to git against the real repo, which would make the result depend
 on whatever the working tree happens to look like when the test is run.
 
@@ -90,12 +90,12 @@ CASES: list[tuple[str, str | None, dict | None, list[str], int]] = [
         manifest(), {"done": "2026-08-20 13:22"}, [], 0,
     ),
     (
-        "a cycle is in flight",
-        manifest(in_progress=["7"]), None, [], 1,
+        "OSINT has a day open: the catalogue pins the base, so it still fires",
+        manifest(in_progress=["7"]), None, [], 0,
     ),
     (
-        "the newest close is itself re-opened",
-        manifest(running=True), None, [], 1,
+        "the newest close is itself re-opened, and still fires",
+        manifest(running=True), None, [], 0,
     ),
     (
         "held by hand",
@@ -106,9 +106,14 @@ CASES: list[tuple[str, str | None, dict | None, list[str], int]] = [
         manifest(), None, [".build-in-progress"], 1,
     ),
     (
-        "a claim that never reported done",
+        "a claim that never reported done, long dead, is resumed",
         manifest(day="7", start="2026-08-20 21:00", end=LATE),
-        {"done": EARLY, "claimed": LATE, "claimed_at": "2026-08-21 02:20"}, [], 2,
+        {"done": EARLY, "claimed": LATE, "claimed_at": "2026-08-21 02:20"}, [], 0,
+    ),
+    (
+        "a claim taken over twice already is a recurring fault",
+        manifest(day="7", start="2026-08-20 21:00", end=LATE),
+        {"done": EARLY, "claimed": LATE, "claimed_at": "2026-08-21 02:20", "resumes": 2}, [], 2,
     ),
     (
         "a claim already marked done is not stale",
@@ -142,8 +147,8 @@ def run() -> int:
     failures = 0
     argv = sys.argv
     keep = (cr.MIRROR, osint_lib.MANIFEST, cr.STATE, cr.HOLD, cr.SENTINEL,
-            cr.tree_dirty, cr.mirror_head)
-    cr.tree_dirty = lambda: False
+            cr.dirty_paths, cr.commit_outstanding, cr.mirror_head)
+    cr.dirty_paths = lambda: []
     cr.mirror_head = lambda: "0123456789abcdef"
     try:
         for name, manifest_text, state, touch, expected in CASES:
@@ -176,7 +181,8 @@ def run() -> int:
                 shutil.rmtree(tmp, ignore_errors=True)
 
         # The claim/done round trip, which the exit-code cases above cannot reach: a run
-        # claims a close, a second poll refuses to fire on it, and --done advances past it.
+        # claims a close, a second poll reads it as running and does not fire, and --done
+        # advances past it.
         tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
         try:
             cr.MIRROR = str(tmp)
@@ -185,7 +191,7 @@ def run() -> int:
             cr.HOLD, cr.SENTINEL = str(tmp / ".hold-cycle"), str(tmp / ".build-in-progress")
             Path(osint_lib.MANIFEST).write_text(manifest(), encoding="utf-8")
 
-            steps = [(["--claim"], 0), ([], 2), (["--done"], 0), ([], 1), (["--done"], 2)]
+            steps = [(["--claim"], 0), ([], 1), (["--done"], 0), ([], 1), (["--done"], 2)]
             for extra, expected in steps:
                 sys.argv = ["osint-cycle-ready.py", *extra]
                 with redirect_stdout(io.StringIO()) as buf:
@@ -275,6 +281,41 @@ def run() -> int:
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
+        # Under /poll nothing but a critical error stops a cycle (Bill, 2026-10-23): a stale
+        # sentinel is a dead build and is repaired, and uncommitted work is committed first.
+        tmp = Path(tempfile.mkdtemp(prefix="cycle-trigger-test-"))
+        try:
+            import os, time
+            cr.MIRROR = str(tmp)
+            osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
+            cr.STATE = str(tmp / ".osint-cycle-seen")
+            cr.HOLD, cr.SENTINEL = str(tmp / ".hold-cycle"), str(tmp / ".build-in-progress")
+            Path(osint_lib.MANIFEST).write_text(manifest(), encoding="utf-8")
+            Path(cr.SENTINEL).write_text("started long ago\n", encoding="utf-8")
+            old = time.time() - (cr.LIVE_HOURS + 1) * 3600
+            os.utime(cr.SENTINEL, (old, old))
+            sys.argv = ["osint-cycle-ready.py"]
+            with redirect_stdout(io.StringIO()):
+                stale = cr.main()
+            failures += stale != 0
+            print(f"  {'ok  ' if stale == 0 else 'FAIL'} a stale sentinel is a dead build, "
+                  f"and the cycle repairs it  (expected 0, got {stale})")
+
+            Path(cr.SENTINEL).unlink()
+            committed = []
+            cr.dirty_paths = lambda: ["content/home.md"]
+            cr.commit_outstanding = lambda paths: committed.extend(paths) or "abc1234"
+            sys.argv = ["osint-cycle-ready.py", "--claim"]
+            with redirect_stdout(io.StringIO()):
+                got = cr.main()
+            ok = got == 0 and committed == ["content/home.md"]
+            failures += not ok
+            print(f"  {'ok  ' if ok else 'FAIL'} uncommitted work is committed and the cycle "
+                  f"runs  (exit {got}, committed {committed})")
+        finally:
+            cr.dirty_paths = lambda: []
+            shutil.rmtree(tmp, ignore_errors=True)
+
         # The "nothing new" line reports base movement — a clause, never a firing condition.
         # It is here because it is the half of this script nothing else would notice going
         # quiet: the exit code is 1 either way, so a broken `base_moved` reads exactly like a
@@ -333,7 +374,7 @@ def run() -> int:
     finally:
         sys.argv = argv
         (cr.MIRROR, osint_lib.MANIFEST, cr.STATE, cr.HOLD, cr.SENTINEL,
-         cr.tree_dirty, cr.mirror_head) = keep
+         cr.dirty_paths, cr.commit_outstanding, cr.mirror_head) = keep
 
     print("all cases passed" if not failures else f"{failures} case(s) failed")
     return 1 if failures else 0

@@ -3,9 +3,9 @@
 
     python scripts/test_lint_messages.py
 
-`lint-messages.py` counts two caps and refuses a third thing: a block edited to say its
-subject is settled, instead of being deleted (strategic review 4, task 38). The caps were
-already countable and are covered here because they share a parser with the new check —
+`lint-messages.py` holds a word cap and refuses a block edited to say its subject is
+settled, instead of being deleted (strategic review 4, task 38). The block-count cap went on
+2026-10-23 *(Bill)*; the word cap is covered here because it shares a parser with the check —
 the heading rule had to widen to see a struck heading at all, and a widened heading rule
 is exactly the sort of change that quietly reclassifies a body line as a block.
 
@@ -68,12 +68,12 @@ def run(content: str) -> tuple[int, str]:
 
 
 try:
-    # ---- the two caps, which share the parser -------------------------------
+    # ---- no block cap; the word cap, which shares the parser ----------------
 
     print("the caps")
     check("five blocks pass", run(block() * 5)[0], 0)
-    check("six do not", run(block() * 6)[0], 1)
-    check("and the message names the count", "6 open blocks" in run(block() * 6)[1], True)
+    check("twelve pass too: there is no block cap", run(block() * 12)[0], 0)
+    check("and the message gives the count", "12 open block(s)" in run(block() * 12)[1], True)
     check("eighty words pass", run(block(body="word " * 80))[0], 0)
     check("eighty-one do not", run(block(body="word " * 81))[0], 1)
     check("a block older than the word cap is reported, not failed",
@@ -81,21 +81,19 @@ try:
     check("and says so",
           "predates the cap" in run(block(date="2026-08-01", body="word " * 81))[1], True)
 
-    # ---- the stuck deploy, outside the five ----------------------------------
+    # ---- the stuck deploy, at most one ---------------------------------------
 
     print("\na stuck deploy")
     DEPLOY = "## 2026-10-02 08:10 · deploy\n\n- Run 7 queued for 9h42m.\n\n"
-    code, text = run(block() * 5 + DEPLOY)
-    check("five blocks and a deploy block pass", code, 0)
-    check("and the count leaves it out", "5 block(s)" in text and "1 deploy block" in text, True)
-    check("six and a deploy block still fail", run(block() * 6 + DEPLOY)[0], 1)
+    code, text = run(block() * 6 + DEPLOY)
+    check("blocks and a deploy block pass", code, 0)
     code, text = run(DEPLOY * 2)
     check("two deploy blocks fail", code, 1)
     check("and says why", "2 deploy blocks" in text, True)
     check("the word cap still binds it",
           run("## 2026-10-02 08:10 · deploy\n\n" + "word " * 81 + "\n\n")[0], 1)
-    check("a job merely starting 'deploy' is counted",
-          run(block() * 5 + "## 2026-10-02 08:10 · deploy notes\n\n- Text.\n\n")[0], 1)
+    check("a job merely starting 'deploy' is not a deploy block",
+          run(DEPLOY + "## 2026-10-02 08:10 · deploy notes\n\n- Text.\n\n")[0], 0)
 
     # ---- struck, not gone ---------------------------------------------------
 
@@ -115,16 +113,12 @@ try:
 
     print("\nand the same block, actually gone")
     check("nothing left to count", run("")[0], 0)
-    check("the count is zero", "0 block(s)" in run("")[1], True)
-    # **The rule stated as a count.** Striking by deletion takes a block out of the five;
-    # striking by annotation does not, so a sixth block that merely says it is closed
-    # trips the cap exactly as an open one would.
-    annotated_sixth = block() * 5 + block(body="- Text.\n\n**Settled 2026-09-20.**")
-    code, text = run(annotated_sixth)
-    check("an annotated sixth still trips the block cap", "6 open blocks" in text, True)
-    check("and is itself named", "is annotated as settled, not struck" in text, True)
-    check("the run fails on both counts", code, 1)
-    check("deleted instead, five blocks are clean", run(block() * 5)[0], 0)
+    check("the count is zero", "0 open block(s)" in run("")[1], True)
+    annotated = block() * 5 + block(body="- Text.\n\n**Settled 2026-09-20.**")
+    code, text = run(annotated)
+    check("an annotated block among open ones is named", "is annotated as settled, not struck" in text, True)
+    check("and fails the run", code, 1)
+    check("deleted instead, the rest are clean", run(block() * 5)[0], 0)
 
     print("\nwhat must not fire")
     SAFE = [

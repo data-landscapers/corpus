@@ -18,18 +18,22 @@ one turn.
 
    > From C:\CORPUS, first run `python scripts/deploy-state.py --fix --quiet`. On exit 2,
    > unless `C:\corpus-osint-xfer\messages-for-bill.md` already holds a `· deploy` block quoting the same
-   > line: write that block (it is exempt from the five-block cap; replace an older one),
-   > commit and push it in the share, and send the line with the `PushNotification` tool. On exit 0,
-   > delete a `· deploy` block if one is open, commit and push the share. On exit 1 or 3 do nothing.
-   > Then run `python scripts/osint-cycle-ready.py --claim`. On exit 1, stop the
-   > turn and say nothing further. On exit 2, write one block in `C:\corpus-osint-xfer\messages-for-bill.md`
-   > quoting the message, then stop the loop. On exit 0, run `CYCLE.md` end to end — every
+   > line: write that block (replace an older one), commit and push it in the share, and send
+   > the line with the `PushNotification` tool. On exit 0, delete a `· deploy` block if one is
+   > open, commit and push the share. On exit 1 or 3 do nothing.
+   > Then run `python scripts/osint-cycle-ready.py --claim`. On exit 1, run
+   > `python scripts/corpus-status.py --gates`: if it prints anything, show those lines and
+   > nothing else; if it prints nothing, stop the turn and say nothing. On exit 2 — a critical
+   > error, the only thing that stops the loop — write one block in
+   > `C:\corpus-osint-xfer\messages-for-bill.md` quoting the message, send it with
+   > `PushNotification`, then stop the loop. On exit 0, run `CYCLE.md` end to end — every
    > step of *The run*, in its order, passing `--poll` to `python scripts/unit-review.py next` —
    > following its unattended rules: never stop to ask, leave anything needing Bill in
    > `C:\corpus-osint-xfer\messages-for-bill.md`. Finish with `python scripts/osint-cycle-ready.py --done`.
    > Then work the oldest open job in `C:\corpus-osint-xfer\corpus-housekeeping.md`, if there is one, once.
    > Before standing down, check `C:\corpus-osint-xfer` for uncommitted work, commit it
-   > naming OSINT in the subject if the work is OSINT's, and push immediately.
+   > naming OSINT in the subject if the work is OSINT's, and push immediately. End on the
+   > output of `python scripts/corpus-status.py`.
 
 3. **Say what would kill it**: the job is session-only, so a reboot or closing the window
    ends it — and that a lost poller costs a delay and not a night, because the watermark is

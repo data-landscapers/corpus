@@ -60,7 +60,8 @@ There is no cycle sentinel. A cycle that dies during the render half has already
 - **`--skip` loses nothing** because BUILD works off a set difference: the next close covers a skipped one whole.
 - **The quiet answer says how far the base has moved** because *nothing owed* and *nothing wanted* are different questions. It fires only on the close row: a base-movement trigger would fire mid-session repeatedly, and a size threshold only delays that. What it cannot tell apart — *OSINT has not run* from *the mirror has not carried what it ran* — `scripts/lint-osint-freshness.py` measures at BUILD stage 0.
 - **A hand-run cycle need not call `--done`**: the cost is one redundant cycle, cheaper than a trigger inferring what a hand-run did from log lines.
-- **A claim that never reported done stops the loop**, because a loop that re-fired on its own failure would be a job looping on the fault that stopped it.
+- **Only a critical error stops a polled cycle** *(Bill, 2026-10-23)*. Holds cost two nights in a row: five line-ending flips, then nothing said about them. So a dirty tree is committed rather than waited on, an open OSINT day is left to the catalogue pin, and a dead claim is resumed. What a resume must not become is a job looping on the fault that stopped it, so the third death without `--done` is critical, and that is what stops the loop.
+- **Holds speak.** A tick that does not fire prints `corpus-status.py --gates` when a gate is open, so a held or wedged close is in front of Bill within half an hour rather than found the next morning.
 
 ## Why the seam is the place to hand over
 

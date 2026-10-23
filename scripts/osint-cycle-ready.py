@@ -50,13 +50,25 @@ again while the rotation is run by hand; each close is a night's evidence genuin
 in `raw/`, so each earns a build. There is no minimum-interval guard, at Bill's word: *"If I
 do it is my responsibility to ensure that i don't interfere with your protocol."*
 
-**Three things hold a ready cycle back, and none of them is an error.** A build in flight
-(`logs/.build-in-progress`), tracked changes in the working tree, or `logs/.hold-cycle` —
-the switch Bill flips when he sits down to work. **A hold does not advance the watermark**,
-so the run happens when the hold clears rather than being lost. Untracked files deliberately
-do not count: a stray file nobody remembers would wedge the trigger for ever, and the state
-this is testing for is *a session is part-way through something*. Nor does a line-ending
-flip with no content change, which is cleared rather than held on.
+**Under `/poll`, only a critical error stops a cycle** *(Bill, 2026-10-23, after two nights
+lost to a held tree)*. Critical means the trigger cannot judge at all: the mirror absent, the
+manifest unreadable, the watermark unreadable, or no row ever closed. Those exit 2. Everything
+that used to hold is now resolved and the cycle runs:
+
+- **Tracked changes in the working tree are committed** by `--claim`, one commit naming the
+  files, before the build starts. A bare run says it will. A line-ending flip with no content
+  change is re-staged instead, since there is nothing to commit. Untracked files are not
+  touched: BUILD's own ending sequence takes what is its.
+- **A day OSINT has open does not hold.** The catalogue is the pin (`CYCLE.md`), so a build
+  can run while OSINT works beside it; what arrives after stage 2 is the next cycle's.
+- **A claim or a build sentinel older than `LIVE_HOURS` is a dead run, and is resumed**: the
+  claim is taken over and the sentinel left for BUILD stage 0 to restamp, which is the repair
+  `CYCLE.md` step 2 names. Younger than that, a cycle is running now, and this exits 1 —
+  that is the cycle running, not a stop.
+- **`logs/.hold-cycle` still holds**: it is Bill's own switch, flipped by hand. `scripts/status.py`
+  names it as a gate at the end of every job, so it cannot be forgotten silently.
+
+**A hold does not advance the watermark**, so a held close runs when the hold clears.
 
 **`--skip` passes a close over without building it, and loses nothing** *(2026-08-20)*. `BUILD.md`
 works off a set difference over slugs rather than a window, so a close that is never built is
@@ -66,13 +78,14 @@ you"* — and a close superseded by a cycle starting **now**, where firing would
 OSINT's writes over `raw/` at the same time. The watermark records which of `built` or
 `skipped` put it there, so the log of what Corpus did with each night stays truthful.
 
-**A claim that never reported done is the one state that needs a human.** `--claim` records
-the `End` a run is about to build and `--done` advances the watermark to it. If a claim is
-outstanding and newer than `done`, a cycle started and did not finish, and this exits 2
-rather than firing again: `documentation/cycle.md` — *a retry inside the same run is how a job starts
-looping on the fault that stopped it* — and a poll loop re-firing a failing cycle every
-twenty minutes is that fault with a clock on it. `--release` clears it once a human has
-looked.
+**A claim that never reported done is resumed, once it is old enough to be dead.** `--claim`
+records the `End` a run is about to build and `--done` advances the watermark to it. An
+outstanding claim younger than `LIVE_HOURS` is a cycle still running, and exits 1. An older
+one is a cycle that died: `--claim` takes it over, counts the takeover in the state file, and
+the stages resume on their own set differences. **The loop guard is the count**: a claim taken
+over `MAX_RESUMES` times without a `--done` is the same fault recurring, and that is critical,
+exit 2 — a poll re-firing a failing cycle every half hour is the fault `documentation/cycle.md`
+warns of, with a clock on it. `--release` clears a claim by hand.
 
 Usage:  python scripts/osint-cycle-ready.py [--claim | --done | --skip | --release | --status]
                                             [--quiet]
@@ -129,6 +142,11 @@ HOLD = os.path.join(ROOT, "logs", ".hold-cycle")
 SENTINEL = os.path.join(ROOT, "logs", ".build-in-progress")
 
 TS = "%Y-%m-%d %H:%M"
+
+# A full cycle has run 3h40m at its longest so far; a claim or sentinel past this is a run that
+# died, not one that is slow.
+LIVE_HOURS = 8
+MAX_RESUMES = 2
 
 
 class Incoherent(Exception):
@@ -252,27 +270,57 @@ def base_moved(since_head: str) -> str:
         return ""
 
 
-def tree_dirty() -> bool:
-    """Tracked changes only — see the module docstring on why untracked files do not count.
+def git(*args: str) -> subprocess.CompletedProcess:
+    return subprocess.run(["git", "-C", ROOT, *args], capture_output=True, text=True,
+                          timeout=120)
+
+
+def dirty_paths() -> list[str]:
+    """Tracked paths whose content differs from HEAD — see the module docstring.
 
     A file `git status` flags but `git diff HEAD` does not is a line-ending flip under
-    autocrlf, not work: it is re-staged, which clears it, and does not hold. Two nights were
-    lost to five such files on 2026-10-22 and 2026-10-23."""
-    def git(*args: str) -> str:
-        return subprocess.run(["git", "-C", ROOT, *args], capture_output=True, text=True,
-                              timeout=60).stdout
+    autocrlf, not work: it is re-staged, which clears it. Two nights were lost to five such
+    files on 2026-10-22 and 2026-10-23."""
     try:
-        flagged = {line[3:].strip() for line in git("status", "--porcelain", "-uno").splitlines()
-                   if line.strip()}
+        flagged = {line[3:].strip() for line in
+                   git("status", "--porcelain", "-uno").stdout.splitlines() if line.strip()}
         if not flagged:
-            return False
-        changed = {p.strip() for p in git("diff", "--name-only", "HEAD").splitlines() if p.strip()}
-        phantom = sorted(flagged - changed)
+            return []
+        changed = sorted(p.strip() for p in git("diff", "--name-only", "HEAD").stdout.splitlines()
+                         if p.strip())
+        phantom = sorted(flagged - set(changed))
         if phantom:
             git("add", "--", *phantom)
-        return bool(changed)
+        return changed
     except (OSError, subprocess.SubprocessError):
-        return False
+        return []
+
+
+def commit_outstanding(paths: list[str]) -> str:
+    """Commit the tracked changes a cycle found waiting, so the build starts from a clean tree.
+
+    Explicit paths, so nothing staged by anyone else rides along. Returns the short hash, or
+    raises `Incoherent` — a tree that cannot be committed is one the build cannot start from."""
+    shown = ", ".join(paths[:6]) + (f" and {len(paths) - 6} more" if len(paths) > 6 else "")
+    msg = (f"Outstanding work committed before the cycle: {len(paths)} file(s)\n\n"
+           f"Found uncommitted when /poll claimed a close: {shown}.\n")
+    add = git("add", "--", *paths)
+    done = git("commit", "-q", "-m", msg, "--", *paths) if add.returncode == 0 else add
+    if done.returncode:
+        raise Incoherent(f"the outstanding changes could not be committed: "
+                         f"{(done.stderr or done.stdout).strip()[:200]}")
+    return git("rev-parse", "--short", "HEAD").stdout.strip()
+
+
+def age_hours(stamp) -> float:
+    return (dt.datetime.now() - stamp).total_seconds() / 3600 if stamp else 0.0
+
+
+def sentinel_age() -> float:
+    try:
+        return (dt.datetime.now().timestamp() - os.path.getmtime(SENTINEL)) / 3600
+    except OSError:
+        return 0.0
 
 
 def load() -> dict:
@@ -298,37 +346,55 @@ def decide() -> tuple[int, str, dict]:
     state = load()
     done = parse(state.get("done") or "")
     claimed = parse(state.get("claimed") or "")
+    notes = []
 
     if claimed and (not done or claimed > done):
-        return 2, (f"a cycle claimed {claimed:%Y-%m-%d %H:%M} at {state.get('claimed_at', '?')} "
-                   "and never reported done — run CYCLE.md by hand, or --release"), {}
+        since = parse(state.get("claimed_at") or "")
+        if age_hours(since) < LIVE_HOURS:
+            return 1, (f"a cycle is running — claimed {claimed:%Y-%m-%d %H:%M} at "
+                       f"{state.get('claimed_at', '?')}"), {}
+        resumes = int(state.get("resumes") or 0)
+        if resumes >= MAX_RESUMES:
+            return 2, (f"the cycle claimed {claimed:%Y-%m-%d %H:%M} has died {resumes + 1} times "
+                       "without reporting done — the same fault is recurring; look at the newest "
+                       "BUILD and RENDER lines, then --release"), {}
+        notes.append(f"resuming the cycle claimed {claimed:%Y-%m-%d %H:%M} at "
+                     f"{state.get('claimed_at', '?')}, which never reported done")
 
     close = newest_close(rot)
     if not close:
         return 2, "no row in the rotation has ever closed", {}
     end, day, jobs = close
 
-    if done and end <= done:
+    if not notes and done and end <= done:
         # Worded off `done_by`, because "already built" over a close that was skipped is the
         # kind of small untruth a log accumulates until nobody trusts any line in it.
         was = "passed over" if state.get("done_by") == "skipped" else "already built"
         moved = base_moved(str(state.get("done_head") or ""))
         return 1, f"nothing new — newest close {end:%Y-%m-%d %H:%M} (day {day}) {was}{moved}", {}
 
-    flight = in_flight(rot)
-    if flight:
-        return 1, f"day {', '.join(flight)} is open — a cycle is in flight", {}
-
     if os.path.exists(HOLD):
         return 1, f"held — logs/.hold-cycle is present (day {day} waiting)", {}
     if os.path.exists(SENTINEL):
-        return 1, f"held — a build is in flight (logs/.build-in-progress; day {day} waiting)", {}
-    if tree_dirty():
-        return 1, f"held — Corpus has uncommitted tracked changes (day {day} waiting)", {}
+        if sentinel_age() < LIVE_HOURS and not notes:
+            return 1, f"a build is running (logs/.build-in-progress; day {day} waiting)", {}
+        notes.append("an earlier build died — this run is its repair")
+
+    flight = in_flight(rot)
+    if flight:
+        notes.append(f"OSINT has day {', '.join(flight)} open; the catalogue pins the base")
+
+    dirty = dirty_paths()
+    if dirty:
+        notes.append(f"{len(dirty)} uncommitted tracked file(s), which --claim commits first")
 
     head = mirror_head()
-    return 0, f"ready — day {day} closed {end:%Y-%m-%d %H:%M} ({jobs}); OSINT HEAD {head[:12]}", \
-        {"end": end.strftime(TS), "head": head, "day": day, "jobs": jobs}
+    tail = "".join(f"; {n}" for n in notes)
+    return 0, (f"ready — day {day} closed {end:%Y-%m-%d %H:%M} ({jobs}); OSINT HEAD {head[:12]}"
+               f"{tail}"), \
+        {"end": end.strftime(TS), "head": head, "day": day, "jobs": jobs, "dirty": dirty,
+         "resumed": claimed.strftime(TS) if claimed and notes and notes[0].startswith("resuming")
+         else None}
 
 
 def main() -> int:
@@ -365,6 +431,7 @@ def main() -> int:
             state["done_head"] = state.get("claimed_head", "unknown")
             state["done_by"] = "built"
             state["claimed"] = state["claimed_at"] = state["claimed_head"] = None
+            state["resumes"] = 0
             save(state)
             say(f"built through {state['done']} (OSINT {str(state['done_head'])[:12]})")
             return 0
@@ -391,6 +458,7 @@ def main() -> int:
             state = load()
             was = state.get("claimed")
             state["claimed"] = state["claimed_at"] = state["claimed_head"] = None
+            state["resumes"] = 0
             save(state)
             say(f"claim on {was} released — watermark left at {state.get('done')}" if was
                 else "no claim outstanding")
@@ -399,7 +467,11 @@ def main() -> int:
         code, line, facts = decide()
         say(line)
         if args.claim and code == 0:
+            if facts["dirty"]:
+                say(f"committed the outstanding work as {commit_outstanding(facts['dirty'])}")
             state = load()
+            state["resumes"] = (int(state.get("resumes") or 0) + 1) if facts["resumed"] else 0
+            # A resumed run keeps the close it was building; a newer close arrives with it.
             state["claimed"] = facts["end"]
             state["claimed_head"] = facts["head"]
             state["claimed_at"] = dt.datetime.now().strftime(TS)

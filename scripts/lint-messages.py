@@ -1,37 +1,28 @@
 #!/usr/bin/env python3
-"""lint-messages.py — the caps on the share's messages-for-bill.md, counted in code.
+"""lint-messages.py — the rules on the share's messages-for-bill.md, counted in code.
 
 The file moved from `logs/` to the share on 2026-10-02 *(Bill)*, beside the notes he
 already reads there. It is still CORPUS's file, CORPUS to Bill; `CORPUS_OSINT_XFER`
 overrides where the share is.
 
-Strategic review task 4, and task 38 for the third check. The file's own preamble states
-the caps; this is what makes them real, because a cap nobody counts drifts — that file
-once reached ten blocks and 102 lines with nothing measuring it.
+**There is no cap on the number of blocks** *(Bill, 2026-10-23)*. Five used to be the
+limit, and at five a run took the conservative option and logged it instead; on 2026-10-23
+that sent eight ladder questions to `logs/log.md`, where nobody reads them. Bill reads this
+file, and what is owed him goes in it. What still binds:
 
-- **At most five open blocks.** At the cap a run does not write a sixth: it takes the
-  conservative option itself and logs it in `logs/log.md` (`CLAUDE.md` -> *Be decisive*).
 - **At most 80 words per block**, heading excluded. Detail belongs in git or in
   `documentation/`; a block is what would have been asked, not the analysis behind it.
 - **A struck block is gone, not annotated.** The run that settles a block's subject
   deletes the block in the same commit; a block edited to say it is settled still reads
-  as open to the next run and still counts against the five.
+  as open to the next run.
+- **At most one `· deploy` block.** A stuck deploy is a state, not a history: the newer
+  replaces the older; `scripts/deploy-state.py` exit 0 is what settles it.
 
-**Why the third check refuses an annotation rather than discounting it.** The obvious
-alternative is to let a block say it is closed and stop counting it, which would be the
-cheaper rule and the wrong one: this file is read by a person scanning for what is owed
-him, and a settled block is noise in exactly the place the cap exists to keep clear. Git
-holds what the block said and the commit that struck it holds why, so nothing is lost by
-deletion — which is the same reasoning the share applies to a closed note, minus the
+**Why the strike check refuses an annotation rather than discounting it.** This file is
+read by a person scanning for what is owed him, and a settled block is noise in exactly
+that place. Git holds what the block said and the commit that struck it holds why, so
+nothing is lost by deletion — the reasoning the share applies to a closed note, minus the
 number, because a message carries no citable identity to preserve.
-
-**A stuck deploy is outside the five, and there is at most one of it.** A `· deploy` block
-says the public site is not serving what was pushed, which is the already-public case the
-cap was never meant to silence: at the cap a run drops its sixth block, and this is the
-one block that must not be dropped. So it is not counted against the five — and a second
-is refused, because the newer state replaces the older and an exemption that can stack is
-a second file. The word cap and the strike rule bind it like any other;
-`scripts/deploy-state.py` exit 0 is what settles it.
 
 The word cap applies **forward only**, to blocks dated on or after 2026-08-28 — the day
 it entered code. An older block a rule postdates is reported, never failed: failing it
@@ -59,13 +50,12 @@ SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 MESSAGES = os.path.join(SHARE, "messages-for-bill.md")
 MARKER = "<!-- newest first: a new block goes directly below this line -->"
 
-BLOCK_CAP = 5
 BLOCK_WORD_CAP = 80
 CAP_FROM = dt.date(2026, 8, 28)
 
 HEADING = re.compile(r"^## (\d{4}-\d{2}-\d{2})")
 ANY_HEADING = re.compile(r"^## ")
-# `## 2026-10-02 08:10 · deploy` — the one job exempt from BLOCK_CAP, and capped at one.
+# `## 2026-10-02 08:10 · deploy` — a state, so at most one is open.
 DEPLOY_HEADING = re.compile(r"^## \d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})? · deploy\s*$")
 
 # **What a struck-but-present block looks like.** Two shapes, both of them an edit made
@@ -115,7 +105,7 @@ def blocks(text: str) -> list[tuple[str, dt.date | None, int, list[str]]]:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Count the caps on messages-for-bill.md.")
+    ap = argparse.ArgumentParser(description="Check the rules on messages-for-bill.md.")
     ap.add_argument("--file", default=MESSAGES, help=argparse.SUPPRESS)
     args = ap.parse_args()
 
@@ -134,18 +124,11 @@ def main() -> int:
     failed = False
 
     deploys = sum(1 for heading, *_ in found if DEPLOY_HEADING.match(heading))
-    counted = len(found) - deploys
-
-    if counted > BLOCK_CAP:
-        failed = True
-        print(f"lint-messages: {counted} open blocks against the cap of {BLOCK_CAP}. "
-              f"At the cap a run does not write another - it takes the conservative "
-              f"option and logs it in logs/log.md.")
 
     if deploys > 1:
         failed = True
-        print(f"lint-messages: {deploys} deploy blocks. A stuck deploy is exempt from the "
-              f"cap as one block - the newer replaces the older, it does not join it.")
+        print(f"lint-messages: {deploys} deploy blocks. A stuck deploy is one state - "
+              f"the newer replaces the older, it does not join it.")
 
     for heading, date, words, struck in found:
         if not struck:
@@ -154,7 +137,7 @@ def main() -> int:
         print(f"lint-messages: '{heading}' is annotated as settled, not struck: "
               f"{struck[0][:60]!r}. A block whose subject is settled is deleted in the "
               f"commit that settles it - git holds what it said. An annotated block "
-              f"still reads as open and still counts against the {BLOCK_CAP}.")
+              f"still reads as open.")
 
     for heading, date, words, _ in found:
         if words <= BLOCK_WORD_CAP:
@@ -171,8 +154,7 @@ def main() -> int:
                   f"in git.")
 
     if not failed:
-        exempt = " + 1 deploy block outside it" if deploys else ""
-        print(f"lint-messages: ok - {counted} block(s), cap {BLOCK_CAP}{exempt}; word cap "
+        print(f"lint-messages: ok - {len(found)} open block(s); word cap "
               f"{BLOCK_WORD_CAP} holds on every block it binds; none annotated as "
               f"settled.")
     return 1 if failed else 0

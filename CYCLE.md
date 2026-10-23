@@ -72,21 +72,14 @@ Both halves forbid stopping to ask; the cycle and **every agent it briefs** inhe
 
 **A cycle is owed when a sweep cycle has closed and Corpus has not built since.** The discriminator is the **closed row** in `cycle-manifest.json`, not the mirror copy. `osint-cycle-ready.py` is that judgement: exit **0** ready, **1** not ready, **2** needs a human.
 
-**Poll it from a session left open:**
+**`/poll` arms it**; `.claude/commands/poll.md` holds the loop's prompt.
 
-```
-/loop 25m Run `python scripts/osint-cycle-ready.py --claim`. On exit 0, run CYCLE.md end to
-end and finish with `python scripts/osint-cycle-ready.py --done`. On exit 1, stop and say
-nothing. On exit 2, write one block in C:\corpus-osint-xfer\messages-for-bill.md and stop — do not re-run.
-```
-
-- **Every close fires; there is no minimum interval.**
-- **The poll is started against a cycle, not left running.** Bill starts `/loop` when he initiates `SWEEP-CYCLE`.
-- **`logs/.hold-cycle` is the switch to flip before sitting down to work.** While it exists the trigger holds (as for `.build-in-progress` and uncommitted tracked changes), and it does not advance the watermark — the held close runs when the file comes out.
-- **`--skip` passes a close over without building it, and loses nothing.** Use it when a night's catch does not earn a cycle, or when a close is superseded by a cycle starting now.
-- **The quiet answer also says how far the base has moved** — file counts and commit range appended to `nothing new`.
-- **A hand-run cycle need not call `--done`; the cost is one redundant cycle.**
-- **`--claim` before, `--done` after; a claim that never reported done stops the loop** — the next poll exits 2, and `--release` clears it once someone has looked.
+- **Under `/poll`, only a critical error stops a cycle** *(Bill, 2026-10-23)*: exit 2, a message, a push notification, the loop stopped. Uncommitted work is committed first, an open OSINT day is left to the catalogue pin, a dead claim or sentinel is resumed. The trigger's head says what counts as critical.
+- **`logs/.hold-cycle` is Bill's switch, the one hold left.** It defers a close without consuming it, and `scripts/corpus-status.py` reports it as a gate.
+- **A tick that does not fire stays silent unless a gate is open**, which `corpus-status.py --gates` prints.
+- **Every close fires; there is no minimum interval.** Bill starts `/loop` when he initiates `SWEEP-CYCLE`.
+- **`--skip` passes a close over and loses nothing**: for a night not worth a cycle, or one a cycle starting now supersedes.
+- **`--claim` before, `--done` after**; a hand-run cycle need not call `--done`, at the cost of one redundant cycle. `--release` clears a claim by hand.
 
 ## Handing over at the seam
 

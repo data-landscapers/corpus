@@ -142,3 +142,6 @@ budgets/.documents/
 # Refetched or re-queried on demand; the scan outputs under R&D/Hyperscaler-dependence/scan/{ISO3}/ are the record.
 R&D/Hyperscaler-dependence/ranges/
 R&D/Hyperscaler-dependence/cache/
+
+# corpus-status.py's last reading; the script recomputes it, so it is never the record.
+logs/status.md
