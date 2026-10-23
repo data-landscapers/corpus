@@ -1,0 +1,27 @@
+{
+ "slug": "2025-02-03-civ-koaci-orange-bank-africa-oneci-convention-authentification",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The ONECI director general says the convention with Orange Bank Africa is legally framed by personal data protection rules, with the authorisation of ARTICI.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "ARTICI",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The ONECI director general says the convention with Orange Bank Africa was made with the authorisation of ARTICI, under personal data protection rules.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "ARTICI",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

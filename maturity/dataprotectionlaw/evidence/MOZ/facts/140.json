@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-moz-mozambique-joins-sadc-regional-working-group-on-data-protect",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "tabled",
+   "fact": "Tech Review Africa reports that Mozambique's Draft Law on the Protection of Personal Data is before the Assembly of the Republic.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Draft Law on the Protection of Personal Data",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft Law on the Protection of Personal Data",
+   "country_label": "Draft Law on the Protection of Personal Data",
+   "class": "general",
+   "platform": "",
+   "owner": "Assembly of the Republic",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

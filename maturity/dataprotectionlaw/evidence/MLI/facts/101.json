@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-26-mli-intelligence-artificielle-au-mali-ou-en-est-on-aujourd-hui",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Benbere reports that the data protection authority APDP-Mali signed a partnership convention with CIAR-Mali in February 2025, so the body is acting.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "APDP-Mali",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "The data protection law itself is not described."
+}

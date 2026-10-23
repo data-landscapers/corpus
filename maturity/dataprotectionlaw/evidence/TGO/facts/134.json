@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck lists the Data Protection Act of 2019 as part of Togo's legal framework.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Data Protection Act 2019",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The deck lists the Data Protection Act of 2019 alongside a Data Protection Authority.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Data Protection Act 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-21-cod-activites-et-services-numeriques-en-rdc-l-arptc-lance-l-operation-d-id",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The ARPTC press release, reported by Numerico.cd, says the new Autorité de Protection des Données (APD) is awaiting operationalisation and the ARPTC remains the body in charge meanwhile.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "APD",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

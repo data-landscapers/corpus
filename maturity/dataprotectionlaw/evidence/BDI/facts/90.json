@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-30-bdi-the-lack-of-digital-id-systems-threatens-the-digital-economy-of-burund",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "passed",
+   "fact": "The digitalisation director at the Ministry of Finance and Digital Economy states that the data protection law has been adopted; no promulgation or commencement is stated.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Data protection law",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

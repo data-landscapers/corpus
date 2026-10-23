@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "The deck lists the Data Protection Act, 2023 among the supporting legal frameworks for the financial sector; it does not say whether it has commenced.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The deck describes MACRA, the Malawi Communications Regulatory Authority, as the data protection authority.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "MACRA",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
