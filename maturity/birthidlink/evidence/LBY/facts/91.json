@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-09-lby-libyareview-attorney-general-17000-id-numbers-deleted",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Attorney General Al-Siddiq Al-Sour says a team comparing national ID system data with the civil status registry found discrepancies that led to deletion of more than 17,000 non-existent national ID numbers and nearly 40,000 linked salary numbers.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "national ID system / civil status registry",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

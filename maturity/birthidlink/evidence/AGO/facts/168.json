@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-18-ago-ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplif",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Secretary of State for Justice Osvaldo Amaro said the Plataforma Unica do Cidadao, integrating civil registration and the identity card (BI) so that they work as one, is in a very advanced stage of institutionalisation.",
+   "as_of": "2025-09-18",
+   "date_precision": "day",
+   "system": "Plataforma Única do Cidadão",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plataforma Única do Cidadão",
+   "country_label": "Angola",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "Ministério da Justiça e dos Direitos Humanos",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

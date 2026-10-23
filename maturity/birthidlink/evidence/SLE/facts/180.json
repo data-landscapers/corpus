@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-11-sle-sierra-leone-putting-digital-id-at-the-center-of-its-digital-transform",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Biometric Update reports that Sierra Leone's civil registration and vital statistics system and its identity system are integrated and managed by one body, the National Civil Registration Authority (NCRA).",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "NCRA integrated CRVS and ID system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

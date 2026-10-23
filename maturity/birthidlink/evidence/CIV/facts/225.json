@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-civ-la-cote-d-ivoire-vers-une-identite-juridique-et-numerique-integree-au",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "ONECI's slides for ID4Africa 2026 set out an integrated CRVS-ID path in which a registered birth leads to a unique identifier and later life events, including death, update the same identity, and list supporting the digital transformation of civil registration to feed identity as an aim.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "CRVS-ID integration",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CRVS-ID integration",
+   "country_label": "Parcours d'intégration CRVS-ID",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

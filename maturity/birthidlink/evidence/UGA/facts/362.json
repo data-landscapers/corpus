@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-27-uga-bill-no-39-registration-of-persons-amendment-bill-2024",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Bill No. 39 of 27 March 2024, from the Minister for Internal Affairs, would amend the Registration of Persons Act 2015 to transfer administration of the civil registration laws (Children Act, marriage Acts) to the National Identification and Registration Authority, so that civil registration sits in that one agency.",
+   "as_of": "2024-03-27",
+   "date_precision": "day",
+   "system": "Registration of Persons (Amendment) Bill 2024",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Internal Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

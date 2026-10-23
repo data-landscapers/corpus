@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-08-ben-enregistrement-des-naissances-au-benin-le-guichet-unique-de-l-anip-fai",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says births declared and registered at the single desk in ten pilot health facilities since 20 August 2025 give the child a personal identification number (NPI) by SMS within 48 hours and update the RNPP.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Guichet unique / RNPP",
+   "class": "crvslink"
+  },
+  {
+   "sub_indicator": "link",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Triomphe Mag, citing ANIP's report on the pilot (20 August 2025 to 20 February 2026), says the pilot produced 30,160 number updates, 12,182 captured signatures and 798 recorded portraits in the RNPP.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Guichet unique / RNPP",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique de déclaration et d'enregistrement des naissances",
+   "country_label": "Guichet unique",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  },
+  {
+   "system": "RNPP",
+   "country_label": "Registre National des Personnes Physiques",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

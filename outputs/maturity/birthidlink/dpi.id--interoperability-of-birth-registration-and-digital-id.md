@@ -1,6 +1,6 @@
 # Interoperability of birth registration and digital id: interoperability of birth registration and digital id
 
-*As at 2026-10-22.*
+*As at 2026-10-23.*
 
 ## The norm
 
@@ -20,22 +20,42 @@ The African Union's interoperability framework and the African ministers respons
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 3 |
 | 4 Operating | 2 |
-| 3 Established | 27 |
+| 3 Established | 25 |
 | 2 Nascent | 19 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 6 |
+| No evidence | 5 |
 
 ## Countries
 
-### Malawi: 4 Operating
+### Benin: 5 Leading
 
-Births and deaths passed between the civil register and the ID system in 2025; volumes are not known.
+Births and deaths pass between civil status and the ID register; a 2026 pilot reported 30,160 number updates, national figures not known.
 
+- ANIP says births declared to the RNPP register automatically in the civil status file, and a declared death activates the 'deceased' status in the identification system and is registered automatically with civil status ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
+- Triomphe Mag, citing ANIP's report on the pilot (20 August 2025 to 20 February 2026), says the pilot produced 30,160 number updates, 12,182 captured signatures and 798 recorded portraits in the RNPP ([source, 2026-02-20](https://www.triomphemag.com/enregistrement-des-naissances-au-benin-le-guichet-unique-de-lanip-fait-bondir-le-taux-de-2195-a-7656-en-six-mois/)).
+
+### Libya: 5 Leading
+
+A 2025 audit comparing the ID system with the civil register deleted 17,000 false ID numbers; routine exchange between them is not known.
+
+- Attorney General Al-Siddiq Al-Sour says a team comparing national ID system data with the civil status registry found discrepancies that led to deletion of more than 17,000 non-existent national ID numbers and nearly 40,000 linked salary numbers ([source, 2025-12-09](https://libyareview.com/61619/libyan-prosecutors-uncover-large-scale-identity-manipulation/)).
+
+### Malawi: 5 Leading
+
+Births and deaths pass to the ID system, and in 2025 the bureau reported 3.5 million births numbered and 179,000 deaths flagged.
+
+- The National Registration Bureau reports 3.5 million births registered with unique identifiers and 179,000 deaths recorded in the NRIS ([source, 2025](https://www.id4africa.com/2025/files/PS1-S1-5-Malawi-final.pdf)).
 - NRB Secretary Mphatso Sambo said both the electronic birth and the electronic death registration systems were integrated with the national ID system between April 2024 and February 2025 ([source, 2025-02](https://times.mw/national-registration-bureau-targets-8000-children-in-2025/)).
-- Registration officials say an ID number is generated when a baby is born, and the system freezes the record when a deceased person's ID is presented ([source, 2024-11](https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/)).
+
+### Angola: 4 Operating
+
+Births feed the ID card and registered deaths deregister the citizen, both said in 2026; no figure for records exchanged is known.
+
+- Angola's Justice Minister says the Bilhete de Identidade results from integrating data in the birth record through interoperability between the respective computer systems ([source, 2026-07-01](https://angop.ao/noticias/politica/impressao-do-bi-abrange-todas-as-provincias-do-pais/)).
+- Aristides Marques, national director of Identification, Registries and Notary, says a death registered through the conservatoria services is sent to the database to deregister (give baixa to) the citizen, which needs the deceased's BI to be reliable ([source, 2026-04-04](https://novojornal.co.ao/politica/detalhe/a-nossa-medida-visa-esclarecer-que-o-cidadao-deve-ter-o-bi-e-nao-e-so-a-pensar-na-questao-da-morte-aristides-marques-director-nacional-de-identificacao-registos-e-notariado-70892.html)).
 
 ### Tunisia: 4 Operating
 
@@ -51,20 +71,6 @@ The civil register and the ID system were linked one way or for one event in 202
 
 - The Interior minister said his ministry has a central role in citizens' legal identity through both the civil register (etat civil) and the issue of identity documents ([source, 2026-10-08](https://capdz.dz/archives/21340)).
 - The Ministry of the Interior says the central biometric document issuance system is connected to the national civil register (RNEC) and to AFIS, with the national identification number (NIN) as the key between the databases ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
-
-### Angola: 3 Established
-
-The civil register and the ID system were linked one way or for one event in 2026.
-
-- Angola's Justice Minister says the Bilhete de Identidade results from integrating data in the birth record through interoperability between the respective computer systems ([source, 2026-07-01](https://angop.ao/noticias/politica/impressao-do-bi-abrange-todas-as-provincias-do-pais/)).
-- Angop reports that Mbanza Kongo (Zaire) began civil registration of newborns with consequent attribution of the Bilhete de Identidade at a maternity post, under the nationwide EU-funded 'Nascer com Registo' project, running at the hospital since October 2025 ([source, 2026-03-03](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/)).
-
-### Benin: 3 Established
-
-The civil register and the ID system were linked one way or for one event in 2026.
-
-- ANIP, the national identification agency, issued 50,109 free birth certificates to children under 14 in September 2026 and enrolled 814 children in Agonve, one body doing both civil and identity work ([source, 2026-09-30](https://beninwebtv.com/benin-50-109-enfants-ont-obtenu-gratuitement-leur-acte-de-naissance-en-septembre/)).
-- La Nation reports that the national ID agency ANIP, with UNICEF, issued free birth certificates from 16 September to 30 September 2026 to registered children under 14, including those enrolled in the RAVIP, using the number on the birth declaration form or RAVIP receipt, so one body handles both ([source, 2026-09-30](https://www.lanation.bj/societe/acte-de-naissance-gratuit-derniere-journee-pour-regulariser-lidentite-de-votre-enfant)).
 
 ### Botswana: 3 Established
 
@@ -356,12 +362,6 @@ Nothing held names a link between the civil register and the ID system or says t
 Not established: Nothing held says whether the civil register and the ID system are linked.
 
 ### Eritrea: No evidence
-
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
-
-Not established: Nothing held says whether the civil register and the ID system are linked.
-
-### Libya: No evidence
 
 Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
 

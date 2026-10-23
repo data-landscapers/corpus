@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-04-ago-a-nossa-medida-visa-esclarecer-que-o-cidadao-deve-ter-o-bi-e-nao-e-so",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Aristides Marques, national director of Identification, Registries and Notary, says a death registered through the conservatoria services is sent to the database to deregister (give baixa to) the citizen, which needs the deceased's BI to be reliable.",
+   "as_of": "2026-04-04",
+   "date_precision": "day",
+   "system": "national database (baixa of deceased citizens)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

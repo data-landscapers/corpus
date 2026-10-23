@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-19-gha-counting-every-ghanaian-how-digitalising-births-and-deaths-fuels-ghana",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Former Births and Deaths Registrar Henrietta Lamptey and Yvonne Boatemaa-Yeboah write that since 2017 the government has worked to link the Births and Deaths Registry with the NIA's systems, with the birth-to-NIA transfer described as envisioned.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "BDR-NIA link",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mli-agence-nationale-de-securisation-des-actes-d-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Ministry of Territorial Administration's page gives ANSAEC (and the Civil Status Data Processing Center before it) the mission of building the civil status database of registered persons and assigning each person in it a National Identification Number with the national statistics service.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ANSAEC civil status database",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANSAEC civil status database",
+   "country_label": "Mali",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "ANSAEC / Ministry of Territorial Administration and Decentralisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

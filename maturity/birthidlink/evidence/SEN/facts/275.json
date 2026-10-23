@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-sen-perspectives-du-senegal-sur-les-progres-realises",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The ANEC presentation of May 2025 shows NEKKAL's civil-status information system exchanging with the identity directorate, health (electronic notification of births and deaths), the statistics agency and the electoral file, with online identity verification.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NEKKAL",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "ANIP says that since 1 April 2021 every birth declaration is made to the RNPP, which issues the child's NPI and automatically enters the birth in the national civil status file, both files being run by the one agency ANIP.",
+   "as_of": "2021-04-01",
+   "date_precision": "day",
+   "system": "RNPP / FNEC",
+   "class": "crvslink"
+  },
+  {
+   "sub_indicator": "link",
+   "aspect": "events",
+   "value": "both",
+   "fact": "ANIP says births declared to the RNPP register automatically in the civil status file, and a declared death activates the 'deceased' status in the identification system and is registered automatically with civil status.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP / FNEC",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques (RNPP)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  },
+  {
+   "system": "Fichier national de l'état civil (FNEC)",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

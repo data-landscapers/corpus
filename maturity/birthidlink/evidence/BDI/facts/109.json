@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-12-bdi-burundi-extends-biometric-civil-registration-toward-national-digital-i",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "ID Tech reports Burundi plans to use the civil registry as the foundation for a national digital identity system, with a unique identification number connecting a person's record across public services.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "civil registry / national digital identity system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

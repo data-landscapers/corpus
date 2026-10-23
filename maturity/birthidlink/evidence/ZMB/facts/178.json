@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-02-zmb-dzap-system-integrator-foundational-digital-id-crvs-rfp",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Smart Zambia Institute's World Bank-listed request for proposals (issued 3 December 2025) seeks one system integrator to deploy, customise and integrate the foundational digital ID and CRVS core modules, including data migration.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "Foundational Digital ID and CRVS core modules",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Foundational Digital ID and CRVS core modules",
+   "country_label": "Zambia",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

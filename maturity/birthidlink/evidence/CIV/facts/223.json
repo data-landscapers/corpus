@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-27-civ-cni-double-identite-enregistrement-des-naissances-nni-les-clarificatio",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that the national identification number (NNI) is now placed on civil status certificates, and that the number follows each person through civil registration.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "NNI",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NNI",
+   "country_label": "Numéro national d'identification",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

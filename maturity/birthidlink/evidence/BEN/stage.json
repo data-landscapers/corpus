@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "link",
-      "stage": "3",
+      "stage": "5",
       "link": "inservice",
-      "events": "",
-      "reported": "",
+      "events": "both",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-001;BEN-005",
-      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "Rebuild: ANIP, the ID agency, holds the population register and is National Civil Registrar, issuing birth certificates from register numbers (2026); the PIN-at-birth link is still a pilot. Nothing held says deaths retire numbers.",
-      "as_at": "2026-10-22"
+      "stage_sources": "BEN-009;BEN-011",
+      "gaps": "The only figure held comes from the ten-facility birth-desk pilot, not the national exchange.",
+      "note": "ANIP says births declared to the RNPP register automatically in the civil status file and a declared death sets the deceased status in the ID system (2026). Its birth-desk pilot reported 30,160 number updates in the RNPP (2026).",
+      "as_at": "2026-10-23"
     }
   ]
 }

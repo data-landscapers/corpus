@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Decree D/2025/052 provides that the national register of persons is run by the body in charge of both civil status and identification, and is fed by the national civil status register.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP) / Registre National de l'État Civil (RNEC)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "body in charge of civil status and identification",
+   "tiers": "communal and consular registers under a national register"
+  },
+  {
+   "system": "Registre National de l'État Civil (RNEC)",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

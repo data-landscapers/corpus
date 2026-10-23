@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TCD-003;TCD-004;TCD-005",
-      "gaps": "No source held since October 2023 says records pass between the civil register and the ID system beyond one hospital desk.",
-      "note": "Rebuild: the only link in service is an NNI issued at one hospital desk, which its 2026 source calls an experience to scale; the rest is planned. A pilot is stage 2, so the first pass's stage 3 is lowered.",
-      "as_at": "2026-10-22"
+      "gaps": "No source held since October 2023 says records pass between the civil register and the ID system beyond TASDJIL's maternity desks.",
+      "note": "TASDJIL birth certificates carry an NNI, from more than 50 maternity units in 2023 and one hospital desk its 2026 source calls an experience to scale; the rest is planned. The newest source puts the link at pilot scale, so stage 2.",
+      "as_at": "2026-10-23"
     }
   ]
 }

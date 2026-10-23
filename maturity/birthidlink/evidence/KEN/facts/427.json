@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-18-ken-nation-birth-e-notification-maisha-number",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "PS Belio Kipsang told the National Assembly committee that development of a hospital e-notification system is complete and will be rolled out soon, relaying each birth to Civil Registration Services, which will issue the child a Unique Personal Identifier (Maisha Number) that becomes the national ID number at 18.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "e-notification system / Unique Personal Identifier generator",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hospital e-notification system",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  },
+  {
+   "system": "Maisha Number (Unique Personal Identifier)",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Civil Registration Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

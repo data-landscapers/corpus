@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-20-uga-supporting-the-civil-registry-transition",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Uganda Registration Services Bureau says the Directorate of Civil Registration moved from URSB to the National Identification Registration Authority (NIRA) from 1 October 2024, putting civil registration and national identification under one body.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "Directorate of Civil Registration / NIRA",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

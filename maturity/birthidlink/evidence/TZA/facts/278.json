@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-tanzania-digital-identity-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "NIDA lists national ID and CRVS merging and children registration among its strategic priorities for 2026-2029, with the Jamii Number integrating birth registration.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Jamii Number",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-09-mwi-nrb-in-phase-7-of-community-death-registration-exercise",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The National Registration Bureau says its Community Death Registration exercise, in phase seven from 15 to 29 April 2024, registers all deaths from 2017 to date in order to remove deceased persons from the National ID database.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "National ID Outreach and Community Death Registration exercise",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

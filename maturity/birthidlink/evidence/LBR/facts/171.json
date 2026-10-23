@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-07-lbr-allafrica-nir-oesd-concession-awaits-legislature",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The signed OeSD concession proposes integrating national identification with Liberia's civil registration and vital statistics system, but implementation awaits legislative ratification, NIR Executive Director Andrew Peters said on 4 September 2026.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "NIR/OeSD digital ID concession",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

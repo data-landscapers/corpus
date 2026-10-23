@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "link",
-      "stage": "4",
+      "stage": "5",
       "link": "inservice",
       "events": "both",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-005;MWI-003",
-      "gaps": "No source held since October 2023 gives a figure for records exchanged between the two.",
-      "note": "Rebuild: a birth generates the ID number and a death freezes the ID record (2024), and the NRB says both birth and death registration were integrated with the ID by February 2025. No figure for records exchanged is held.",
-      "as_at": "2026-10-22"
+      "stage_sources": "MWI-011;MWI-005",
+      "gaps": "",
+      "note": "Birth and death registration are integrated with the ID (2025), and the NRB reports 3.5 million births registered with unique identifiers and 179,000 deaths flagged in the NRIS (2025).",
+      "as_at": "2026-10-23"
     }
   ]
 }

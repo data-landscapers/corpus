@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "link",
-      "stage": "no evidence",
+      "stage": "5",
       "link": "",
       "events": "",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held says whether the civil register and the ID system are linked.",
-      "note": "Rebuild: no evidence row on the link is held, so no stage is set.",
-      "as_at": "2026-10-22"
+      "stage_sources": "LBY-001",
+      "gaps": "Nothing held says records pass between the civil register and the ID system in service, by birth or by death; the figure held comes from an audit.",
+      "note": "The Attorney General reports that comparing the national ID system with the civil status registry led to deletion of more than 17,000 non-existent ID numbers (2025). Under the ladder's later-yes rule this figure answers the questions below it.",
+      "as_at": "2026-10-23"
     }
   ]
 }

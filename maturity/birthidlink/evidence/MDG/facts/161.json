@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-20-mdg-newsmada-cneci-2025-activities-launch",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "Newsmada reports the Interior Ministry launched the 2025 activities of the national civil status and identity centre (Cneci), whose aim is birth certificates carrying a unique authentic biometric identification number, through register digitisation, systematic birth registration, mass biometric enrolment and a biometric ID card.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Cneci",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cneci (Centre national de l'etat civil et de l'identite)",
+   "country_label": "Madagascar",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

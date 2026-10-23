@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MLI,NINA,Mali,other,,,,2026-09-16-dpi-map-mali-country-profile
 MLI,RAVEC / NINA biometric file,RAVEC (administered by ANSAEC),other,,ANSAEC,,2025-05-01-mli-id4africa-dnec-identite-juridique-progres
+MLI,ANSAEC civil status database,Mali,crvslink,,ANSAEC / Ministry of Territorial Administration and Decentralisation,,2025-01-01-mli-agence-nationale-de-securisation-des-actes-d-etat-civil
