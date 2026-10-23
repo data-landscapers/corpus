@@ -34,6 +34,7 @@ CIV,e-mining cadastre portal,e-mining cadastre,other,Landfolio,"Ministry of Mine
 CIV,data.gouv.ci,Open Data Cote d'Ivoire portal,other,,Government Centre for Information and Communication (CICG),national ministries; about 50 datasets added by the petroleum and renewable energies ministry,2020-01-01-civ-ogp-ci0024-open-data-commitment
 COD,data.gouv.cd,plateforme nationale des données ouvertes,policy,Rhinoceros Software (host site),Institut National de la Statistique (INS),national,2026-02-23-rhinoceros-data-gouv-cd-lancement
 COD,BCC website 2.0 (economic data pages),Site internet de la Banque Centrale du Congo,other,,Banque Centrale du Congo,,2026-08-17-numerico-bcc-nouveau-site-donnees-economiques
+COD,national geological databank,Congo (DRC),other,,National Geological Survey of Congo (SGNC),"free basic data, fee-based sensitive data",2026-09-08-thecitizen-congo-locks-down-geological-data
 COG,Open Data Portal,Open Data Portal,other,,Institut national de la statistique (INS),national; INS and sectoral ministries and other agencies load statistics onto it,2026-06-05-vox-congo-accord-partenariat-capitaliser-donnees-statistiques-open-data-portal
 COG,Hiswaca,plateforme numérique Hiswaca,other,,"NGO Pratic, built by startup Génération numérique, World Bank-funded Hiswaca statistics project",,2026-01-09-congo-hiswaca-plateforme-statistiques
 COG,plateforme Open Data,plateforme Open Data,other,,,,2025-11-29-adiac-ins-atelier-validation-indicateurs-rgph-5
@@ -139,6 +140,7 @@ NGA,Nigeria Open Data Policy,Nigeria Open Data Policy,policy,,Federal Ministry o
 NGA,Data.gov.ng,Data.gov.ng,policy,,,federal,2018-07-01-nigeria-open-data-policy
 RWA,Data sharing platform,data sharing platform,other,,National Institute of Statistics of Rwanda (Data Governance Unit),central government institutions,2026-05-07 What will determine the success of Rwanda’s data governance push
 RWA,Data Sharing Platform,Data Sharing Platform,other,,Rwanda Information Society Authority,government agencies,2025-10-27 Introduction to the Rwanda National Data Sharing Policy
+RWA,Umucyo e-procurement system and RPPA open contracting portal,Rwanda,other,OCDS,Rwanda Public Procurement Authority,,2024-11-13-rwa-ocp-umucyo-open-contracting-portal
 SDN,Right to Access Information Law of 2015,Right to Access Information Law of 2015,other,,National Assembly of Sudan,,2015-01-27-sudan-right-to-access-information-law-2015
 SEN,Open Data Platform 2.0 (ODP 2.0),plateforme Open Data (ODP) 2.0,other,,Agence nationale de la statistique et de la demographie (ANSD),regional technical services (Louga region),2026-06-25-aps-ansd-open-data-platform-2-0-louga
 SEN,Archivage national des données du Sénégal (ANADS),ANADS,other,,Agence nationale de la Statistique et de la Démographie (ANSD),national,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
@@ -196,6 +198,7 @@ UGA,Open data portal,open data portal,policy,,Ministry of ICT and National Guida
 ZAF,national rapid deployment GIS database,national rapid deployment GIS database,other,,Icasa (communications regulator),national,2026-04-12 Icasa moves to mandate national infrastructure database
 ZAF,Sadis broadband GIS,South Africa Digital Infrastructure Investment Study GIS,other,,Development Bank of Southern Africa,national,2026-03-31 SA finally has a broadband map - and it reveals where the gaps are
 ZAF,MzansiXchange,MzansiXchange,other,,National Treasury,national,2025-11-04-ggf-south-africa-government-data-exchange-pilot
+ZAF,Open Data Policy Framework,Open Data Policy Framework,policy,,,,2026-09-01-xaf-ria-datacipation-data-policy-project
 ZMB,Zambia National Spatial Data Infrastructure (ZNSDI) Policy 2026-2030,ZNSDI Policy,other,,Electronic Government Division (National NSDI Lead Authority),national,2026-06-18-zambia-launches-znsdi-policy-geoportal
 ZMB,"ZNSDI national geoportal (map server, map viewer, GeoNetwork catalogue)",ZNSDI portal,other,GeoNetwork (open source),Electronic Government Division,national,2026-06-18-zambia-launches-znsdi-policy-geoportal
 ZMB,Open Government Data framework,Open Government Data (OGD) framework,policy,,Electronic Government Division,national,2023-08-17-national-electronic-government-plan-2023-2026-zambia

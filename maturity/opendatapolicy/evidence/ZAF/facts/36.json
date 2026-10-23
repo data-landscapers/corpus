@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-xaf-ria-datacipation-data-policy-project",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Research ICT Africa says it developed the Open Data Policy Framework in South Africa; the document does not say it was adopted.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Open Data Policy Framework",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Open Data Policy Framework",
+   "country_label": "Open Data Policy Framework",
+   "class": "policy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

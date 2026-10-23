@@ -23,10 +23,10 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 | 5 Leading | 0 |
 | 4 Operating | 1 |
 | 3 Established | 5 |
-| 2 Nascent | 10 |
+| 2 Nascent | 11 |
 | 1 Absent | 1 |
 | Unplaced | 8 |
-| No evidence | 29 |
+| No evidence | 28 |
 
 ## Countries
 
@@ -116,6 +116,12 @@ Mauritania wrote a national open data strategy in 2023; whether the government h
 Mozambique's draft data governance policy of 2025 would require ministries to publish data openly; whether it has been approved is not known.
 
 - Zero Draft 2 of the National Data Governance Policy and Implementation Strategy, drafted as a Council of Ministers Resolution with number and approval date left blank, has an open data section requiring all ministries, agencies and parastatals to proactively release non-sensitive datasets; the document has no face date, so its published date (2025-11, an upload-folder proxy) is used ([source, 2025-11](https://intic.gov.mz/wp-content/uploads/2025/11/Mozambique-Zero-Draft-2-Data-Governance-Policy-1.pdf)).
+
+### South Africa: 2 Nascent
+
+An open data policy framework was developed for South Africa by 2026; whether the government has adopted it is not known.
+
+- Research ICT Africa says it developed the Open Data Policy Framework in South Africa; the document does not say it was adopted ([source, 2026-09](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)).
 
 ### Tanzania: 2 Nascent
 
@@ -330,12 +336,6 @@ Not established: Nothing held names an open data policy, or says there is none.
 ### Somalia: No evidence
 
 Nothing held says Somalia has an open data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names an open data policy, or says there is none.
-
-### South Africa: No evidence
-
-Nothing held says South Africa has an open data policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names an open data policy, or says there is none.
 
