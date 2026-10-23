@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-addressregister.md — a national addressing system, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-23
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is an addressing system under way? | A source from the last three years says a national addressing policy is adopted, or street naming, numbering or digital addressing is under way in some cities |
 | 2 | Is an address register or digital addressing system in service? | A source from the last three years says an address register or digital addressing system is in service |
 | 3 | Does it cover the whole country? | A source from the last three years says the addressing system covers the whole country, rural areas included |
-| 4 | Do other services use it? | A source from the last three years says the post, emergency services, utilities or other registers use the address system |
+| 4 | Do other services use it? | A source from the last three years says the post, emergency services, utilities or other registers use the address system. **Settled as worded** *(Bill, 2026-10-23)*: a bank is not one |
 
 ## 3. The ladders
 
@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Nationwide | Yes to 3 |
 | 5 Used by services | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). **Settled as worded** *(Bill, 2026-10-23)*: a draft bill or a presented project is *under way*, and a city or regional system in use is *used*. `study.json` holds this as three aspects: `addressing` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `national` (`nationwide`) for 3 and `used` (`used`) for 4.
+**A later yes no longer answers the earlier ones** *(Bill, 2026-10-23; method §3.3 switched off here, `study.json` → `"later_yes": false`)*: a stage needs every lower rung shown by its own evidence, so a city system in use is stage 3 unless a source says addressing covers the country. Question 2 still answers question 1. **Settled as worded** *(Bill, 2026-10-23)*: a draft bill or a presented project is *under way*, and a city or regional system in use is *used*. `study.json` holds this as three aspects: `addressing` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `national` (`nationwide`) for 3 and `used` (`used`) for 4.
 
 ## 4. The norm
 
@@ -63,10 +63,8 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 
 ## 7. Tasks, in order
 
-- [x] **D0. Prepared**: this file, `study.json` and the reading lists, 2026-10-16.
-- [x] **D1. Read**, 2026-10-16: the batch's shared calls and this study's own, Sonnet drafters; 69 facts after the parent's corrections (`corrections.csv`).
-- [x] **D2. Staged** as at 2026-09-30: 4 at 5, 1 at 4, 3 at 3, 20 at 2, 1 at 1; unplaced 0, no evidence 25. Every cell is a first pass; no second drafter.
-- [x] **D3. Written, rendered and linted**, by `study-first-write.py`; on the soft-launch map. Reported to Bill.
+- [x] **D0–D3**, 2026-10-16: prepared, read (69 facts after `corrections.csv`), staged as at 2026-09-30 and written by `study-first-write.py`; on the soft-launch map.
+- [x] **Later yes off**, 2026-10-23: Chad, Ethiopia, Gambia and Tanzania 5 → 3, logged `--kind ladder`; Chad's 2016 city numbering revalued in service (`corrections.csv`).
 
 **Decided in the run**: Removed: private address apps and a private firm's coverage claim (Cameroon, Lesotho), and an app's own delivery feature (Ghana).
 

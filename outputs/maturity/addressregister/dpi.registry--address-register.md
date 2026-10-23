@@ -1,6 +1,6 @@
 # Address register: address register
 
-*As at 2026-09-30.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,40 +20,15 @@ The Universal Postal Union's Addressing the World asks every country for a natio
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Leading | 0 |
 | 4 Operating | 1 |
-| 3 Established | 5 |
+| 3 Established | 9 |
 | 2 Nascent | 25 |
 | 1 Absent | 3 |
 | Unplaced | 9 |
 | No evidence | 7 |
 
 ## Countries
-
-### Chad: 5 Leading
-
-Other services used the national address system in 2026.
-
-- The Akofena study (2026) says addressing in N'Djamena is used to locate subscribers, connection points and plots to be served with water and electricity, for fiscal and urban-service reasons ([source, 2026-06](https://www.revueakofena.com/n020_vol-1_05/)).
-
-### Ethiopia: 5 Leading
-
-Other services used the national address system in 2025.
-
-- SSGI's Deputy Director General says eDAS integrates digital identification (Fayda), postal and parcel delivery services and other digital platforms ([source, 2025-12-13](https://ssgi.gov.et/edas-for-three-cities/)).
-
-### Gambia: 5 Leading
-
-Other services used the national address system in 2026.
-
-- KMC says the Plus Codes are integrated into its property rates database and compliance mapping system, and emergency personnel are being trained to use them for navigation ([source, 2026-06-29](https://www.kerrfatou.com/kmc-says-digital-address-codes-will-improve-emergency-response-and-property-tax-collection/)).
-- LoGRI says Kanifing Municipal Council now uses the address system for waste management and property-tax collection ([source, 2025-12](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia)).
-
-### Tanzania: 5 Leading
-
-Other services used the national address system in 2025.
-
-- The Higher Education Students' Loans Board (HESLB) has used the digital address system since June 2025, with over 489,409 students applying for loans digitally, per The Citizen ([source, 2025-06](https://www.biometricupdate.com/202508/tanzania-digital-id-address-system-facilitates-access-to-student-loans-other-services)).
 
 ### Ghana: 4 Operating
 
@@ -87,6 +62,27 @@ An address register or digital addressing system was in service in 2026; nationa
 
 - The Câmara Municipal da Praia says its Plataforma Municipal de Toponímia, launched in October 2025, is available in its online shop and lets residents locate street names and official building numbers across the Praia municipality ([source, 2026-04-04](https://expressodasilhas.cv/pais/2026/04/04/ja-esta-disponivel-a-plataforma-de-toponimia-da-cmp/102191)).
 
+### Chad: 3 Established
+
+N'Djamena's street addresses were in service in 2026; national coverage is not known.
+
+- The Akofena study (2026) says street numbering in N'Djamena began in 1990 across the first five arrondissements and was made official in 2016, but the administrative addressing system remains incomplete, leaving out the old quarters and most newly planned ones ([source, 2026-06](https://www.revueakofena.com/n020_vol-1_05/)).
+- The Akofena study (2026) says addressing in N'Djamena is used to locate subscribers, connection points and plots to be served with water and electricity, for fiscal and urban-service reasons ([source, 2026-06](https://www.revueakofena.com/n020_vol-1_05/)).
+
+### Ethiopia: 3 Established
+
+Digital addresses were in service in 73 cities in 2025; national coverage is not known.
+
+- SSGI's Deputy Director General says eDAS is already being practically implemented in 73 cities across Ethiopia ([source, 2025-12-13](https://ssgi.gov.et/edas-for-three-cities/)).
+- SSGI's Deputy Director General says eDAS integrates digital identification (Fayda), postal and parcel delivery services and other digital platforms ([source, 2025-12-13](https://ssgi.gov.et/edas-for-three-cities/)).
+
+### Gambia: 3 Established
+
+Kanifing's digital addresses were in service in 2026; national coverage is not known.
+
+- Kanifing Municipal Council's GIS head says its digital address system, using Google Plus Codes displayed on compound gates, is in place across the municipality ([source, 2026-06-29](https://www.kerrfatou.com/kmc-says-digital-address-codes-will-improve-emergency-response-and-property-tax-collection/)).
+- LoGRI says Kanifing Municipality implemented a Plus Code digital addressing system for 500,000 residents, georeferencing 36,000 properties and creating a municipal address database ([source, 2025-12](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia)).
+
 ### Nigeria: 3 Established
 
 An address register or digital addressing system was in service in 2026; national coverage is not known.
@@ -94,6 +90,13 @@ An address register or digital addressing system was in service in 2026; nationa
 - Space in Africa states NIPOST switched on the National Digital Alphanumeric Postcode on 1 October 2026, giving each captured addressable building an 11-character code ([source, 2026-10-01](https://spaceinafrica.com/2026/10/03/inside-nigerias-digital-postcode-the-gis-and-satellite-data-behind-11-characters/)).
 - Nairametrics reports the National Digital Alphanumeric Postcode System launched through NIPOST on 1 October 2026, with users already finding 11-character building postcodes ([source, 2026-10-01](https://nairametrics.com/2026/10/02/nigerians-report-mixed-results-as-new-digital-postcodes-go-live/)).
 - TheCable states NIPOST launched the national digital alphanumeric postcode system, assigning 11-character codes to addressable buildings, and its reporters used the application ([source, 2026-10-01](https://www.thecable.ng/spotted-nipost-digital-postcode-website-exposes-names-of-homeowners)).
+
+### Tanzania: 3 Established
+
+Digital addresses were in service in Zanzibar in 2025; national coverage is not known.
+
+- The digital ID address system went operational in Zanzibar in June 2025 and over 450,000 digital addresses have been assigned to people and plots, says the Zanzibar Construction, Communication and Transport Minister ([source, 2025-08](https://www.biometricupdate.com/202508/tanzania-digital-id-address-system-facilitates-access-to-student-loans-other-services)).
+- The Higher Education Students' Loans Board (HESLB) has used the digital address system since June 2025, with over 489,409 students applying for loans digitally, per The Citizen ([source, 2025-06](https://www.biometricupdate.com/202508/tanzania-digital-id-address-system-facilitates-access-to-student-loans-other-services)).
 
 ### Benin: 2 Nascent
 

@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "address",
-   "stage": "5",
-   "addressing": "inservice",
-   "national": "nationwide",
-   "used": "used",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-addressregister.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "address",
+      "stage": "3",
+      "addressing": "inservice",
+      "national": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002;TZA-003",
+      "gaps": "No source held since October 2023 says the addressing system covers the whole country; the Zanzibar system, used by the student loans board, does not answer that.",
+      "note": "Reassessed under Bill's ruling of 2026-10-23: the National Address Programme's digital addresses are in service in Zanzibar (2025); nothing held says they cover the whole country, so their use by the student loans board no longer lifts the cell to 5.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }
