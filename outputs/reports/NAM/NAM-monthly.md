@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: NAM
-ledger_rows: 40
+ledger_rows: 41
 not_held: 10
-record: 363f497d7b36
+record: a76ef9481cfd
 ---
 
 # News, Sep – Oct 2026
@@ -593,6 +593,20 @@ Innovate4Water, a research project led by the Namibia University of Science and 
 **[BANK OF NAMIBIA, CRAN LAUNCH AI PROGRAMME](https://www.nbcnews.na/node/118797)** — Namibian Broadcasting Corporation, 1 September 2026
 
 The Bank of Namibia and the communications regulator CRAN have launched a programme to build shared AI infrastructure for public agencies and find uses in advisory services, procurement, licensing and scam reporting. Agencies are to buy AI hardware and software jointly rather than separately, and the roadmap includes AI in indigenous languages.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ongiini-Eval-OW translation benchmark for Oshindonga and Oshikwanyama</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Ongiini-Eval-OW Benchmark: A Concept Paper for the Planned Benchmarking of Machine Translation and Large Language Models on Oshindonga and Oshikwanyama](https://arxiv.org/html/2609.31727v1)** — arXiv, 1 September 2026
+
+Planned 600-item Oshindonga and Oshikwanyama MT benchmark, release Q4 2026; no major MT service covers either.
 
 </div>
 
