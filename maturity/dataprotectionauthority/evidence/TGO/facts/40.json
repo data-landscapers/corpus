@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The deck lists the Data Protection Act of 2019 with a Data Protection Authority.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Data Protection Authority",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
