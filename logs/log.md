@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-23 16:50 · **RENDER** · 2m · scoped: finance reports, country, region, finance, progress and methodology pages; non-state alignment and regulators' accounts published — ok
 2026-10-23 16:46 · **BUDGET-EXTRACT** · unclocked · Hold the regulators (Bill, 2026-10-23): eight own-account rows - KEN, LSO, MDG, NAM, SWZ, UGA regulators FY2024 and TUN's finance computing centre FY2024-25; BWA waits on a catalogue record, NGA holds no accounts.
 2026-10-23 12:30 · **RENDER** · 39m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 257 editions pruned; deployed e2f056a — ok
 2026-10-23 11:51 · **REBUILD** · 1m · businesspayments: rungs 3-4 read two ways (figure without end-to-end: BEN ETH LBY SEN 5->3; bodies counted as figure: NAM ZAF MRT ZWE to 5); not messaged, 5 open; staged as worded
