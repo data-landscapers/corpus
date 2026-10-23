@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANIP describes the RNPP as a national population register with more than 13.8 million people registered.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "ANIP says births are declared to the RNPP and a declared death activates the deceased status in the identification system.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "ANIP says electoral lists are generated from the RNPP and that the NPI is used for interoperability of public services.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

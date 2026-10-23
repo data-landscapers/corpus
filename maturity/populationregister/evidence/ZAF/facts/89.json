@@ -1,0 +1,34 @@
+{
+ "slug": "2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs describes the National Population Register as in service and the register against which identities are verified.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "National Population Register",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  },
+  {
+   "system": "Home Affairs digital verification service",
+   "country_label": "Home Affairs verification service",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

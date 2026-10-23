@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-08-ben-enregistrement-des-naissances-au-benin-le-guichet-unique-de-l-anip-fai",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, describes the Registre National des Personnes Physiques (RNPP) as set up by ANIP and gaining data from the birth registration pilot.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says births registered at the ten pilot health facilities since 20 August 2025 enrich the RNPP, with 30,160 number updates recorded.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

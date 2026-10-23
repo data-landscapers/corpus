@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Decree D/2025/052 of 14 April 2025 sets up the national register of natural persons, made of communal and consular resident registers, and says it is kept up to date by the civil status register, with deaths entered in it at once.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "country_label": "Guinea",
+   "class": "population",
+   "platform": "",
+   "owner": "body in charge of civil status and identification",
+   "tiers": "communal and consular registers under a national register"
+  }
+ ],
+ "note": ""
+}

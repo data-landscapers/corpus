@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Jurist Sayon Mara writes that PN-RAVEC, launched 15 April 2025, creates under the identification law the RNPP, a database of biographic and biometric data on individuals, with the aim of a clear picture of the population.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-17-nam-over-94-000-namibians-issued-with-identity-documents",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Deputy Minister Lucia Witbooi said births and deaths from 135 connected health facilities are notified electronically, promoting accuracy of the data captured on the National Population Registration System (NPRS).",
+   "as_of": "2024-07-17",
+   "date_precision": "day",
+   "system": "National Population Registration System (NPRS)",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

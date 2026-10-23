@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-27-civ-cni-double-identite-enregistrement-des-naissances-nni-les-clarificatio",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that identity cards are issued under the project of the national register of natural persons.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Registre national des personnes physiques",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

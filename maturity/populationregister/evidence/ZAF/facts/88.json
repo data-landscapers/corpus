@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-12-zaf-minister-leon-schreiber-invites-public-comment-on-the-draft-revised-wh",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "South Africa's existing National Population Register records basic information including names, births and deaths, per the Department of Home Affairs.",
+   "as_of": "2025-12-12",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "The National Population Register records births and deaths, and the white paper would add mandatory birth and death registration through digital channels.",
+   "as_of": "2025-12-12",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "population register",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

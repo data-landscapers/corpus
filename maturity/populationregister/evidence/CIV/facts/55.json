@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-civ-la-cote-d-ivoire-vers-une-identite-juridique-et-numerique-integree-au",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ONECI's slides for ID4Africa 2026 list the deployment of the RNPP as an operational enabler and name consolidating an integrated national population register as a prospect.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "RNPP",
+   "class": "population",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

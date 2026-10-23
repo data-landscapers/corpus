@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The deck reports more than 13.41 million people enrolled in the national register of natural persons (RNPP), 98% of the 2026 population projection.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RNPP",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The deck says 19 national public services are linked to the RNPP system.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
