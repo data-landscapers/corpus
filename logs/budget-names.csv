@@ -57,6 +57,7 @@ BDI,hosting,E-government agency,ict-ministry-egov,Gouvernement du Burundi (zone 
 BDI,hosting,Communications regulator,communications-regulator,Agence de régulation et de contrôle des télécommunications,line,bdi-2024-01-004
 BDI,hosting,Audit office,,Cour des comptes,no line,
 BDI,deal-recipient,Public Sector,,Government of Burundi,no line,
+BDI,deal-recipient,Public Sector,,Government of Burundi / Ministry of Public Health,line,bdi-2024-33-001-21440-0791-01
 BDI,deal-recipient,Public Sector,,Republic of Burundi,no line,
 BEN,hosting,Presidency,,Présidence de la République du Bénin,line,ben-2024-009-010002-1192
 BEN,hosting,Parliament,,Assemblée nationale du Bénin,no line,
@@ -192,7 +193,6 @@ CIV,hosting,E-government agency,ict-ministry-egov,Portail du gouvernement (paren
 CIV,hosting,Communications regulator,communications-regulator,Autorité de régulation des télécommunications/TIC (ARTCI),line,civ-2024-334-90098090247
 CIV,hosting,Audit office,,Cour des comptes,no line,
 CIV,hosting,Anti-corruption commission,,Haute autorité pour la bonne gouvernance (HABG),no line,
-CIV,deal-recipient,Private Sector,,*unspecified*,no line,
 CIV,deal-recipient,Public Sector,,Agence Nationale de la Statistique (ANSTAT),line,civ-2024-325-90033000003
 CIV,deal-recipient,Public Sector,,Republic of Cote d'Ivoire,no line,
 CIV,deal-recipient,Public Sector,,"Ministry of Commerce and Industry, Côte d'Ivoire",line,civ-2024-347-78047100327
@@ -232,9 +232,10 @@ CMR,hosting,Anti-corruption commission,,Commission nationale anti-corruption,no 
 CMR,deal-recipient,Public Sector,,Republic of Cameroon,no line,
 CMR,deal-recipient,Public Sector,,"Ministere de l'Education de Base (MINEDUB), Cameroun",no line,
 CMR,deal-recipient,Private Sector,,recipient organisation unspecified,no line,
+CMR,deal-recipient,Public Sector,,"Directorate General of Taxation (DGI), Ministry of Finance",no line,
 CMR,deal-recipient,Public Sector,,CAMTEL (Cameroon Telecommunications),no line,
 CMR,deal-recipient,Public Sector,,Cameroon Telecommunications (Camtel),line,cmr-2024-45-130
-CMR,deal-recipient,Public Sector,,ANTIC,line,cmr-2024-taxes-affectees-antic
+CMR,deal-recipient,Private Sector,,Paysika,no line,
 CMR,deal-recipient,Public Sector,,Cameroon,no line,
 CMR,deal-recipient,Public Sector,,"Ministry of Public Contracts, Cameroon",no line,
 COD,hosting,Presidency,,Présidence de la République Démocratique du Congo,line,cod-2024-10-10310-fi
@@ -275,8 +276,9 @@ COD,hosting,Audit office,,Cour des comptes,no line,
 COD,hosting,Audit office,,Inspection générale des finances,no line,
 COD,deal-recipient,Private Sector,,Eastcastle Infrastructure DRC SARLU,no line,
 COD,deal-recipient,Public Sector,,"DRC Ministry of Posts, Telecommunications and Digital Affairs",no line,
+COD,deal-recipient,Private Sector,,Axian Telecom Holding and Management plc,no line,
+COD,deal-recipient,Public Sector,,Government of DR Congo,no line,
 COD,deal-recipient,Public Sector,,Democratic Republic of Congo,no line,
-COD,deal-recipient,Public Sector,,Government of DR Congo / RDC-PASS programme,line,cod-2024-41-41200-231027
 COD,deal-recipient,Public Sector,,The Democratic Republic of Congo,no line,
 COG,hosting,Presidency,,Présidence de la République,no line,
 COG,hosting,Parliament,,Assemblée nationale,no line,
@@ -480,7 +482,9 @@ ETH,hosting,National data centre / Government cloud operator,,Information Networ
 ETH,hosting,Communications regulator,communications-regulator,Ethiopian Communications Authority,line,eth-2024-183-02-01-t
 ETH,hosting,Audit office,,Office of the Federal Auditor General,line,eth-2025-113-01-01-00-001
 ETH,hosting,Anti-corruption commission,,Federal Ethics and Anti-Corruption Commission,no line,
+ETH,deal-recipient,Unknown,,"BlackWaterFoot (East Sussex, United Kingdom; activity in Ethiopia; region served Africa)",no line,
 ETH,deal-recipient,Public Sector,,Government of Ethiopia,no line,
+ETH,deal-recipient,Public Sector,,Ethiopia (ETH); delivery partner named in the description: Tigray Science and Technology Agency (TSTA),no line,
 ETH,deal-recipient,Public Sector,,Federal Democratic Republic of Ethiopia,no line,
 ETH,deal-recipient,Public Sector,,"Ministry of Foreign Affairs, Federal Democratic Republic of Ethiopia",no line,
 ETH,deal-recipient,Public Sector,,Government of Ethiopia / Ministry of Health,line,eth-2024-344-04-04
@@ -521,6 +525,7 @@ GAB,hosting,State-owned telco / National backbone operator,,Gabon Télécom,no l
 GAB,hosting,E-government agency,ict-ministry-egov,Agence Nationale des Infrastructures Numériques et des Fréquences,line,gab-2024-10-10416-adp-aninf
 GAB,hosting,E-government agency,ict-ministry-egov,Portail officiel du Gouvernement gabonais,no line,
 GAB,hosting,Communications regulator,communications-regulator,Autorité de Régulation des Communications Électroniques et des Postes,line,gab-2024-10-10416-adp-arcep
+GAB,deal-recipient,Private Sector,,POZI,no line,
 GAB,deal-recipient,Public Sector,,Government of Gabon,no line,
 GAB,deal-recipient,Public Sector,,Government of Gabon / Agence Nationale de l'Infrastructure Numérique et des Fréquences (ANINF),line,gab-2024-10-10416-adp-aninf
 GHA,hosting,Presidency,,Office of the President,no line,
@@ -559,6 +564,7 @@ GHA,deal-recipient,Private Sector,,FIDO Microcredits Limited,no line,
 GHA,deal-recipient,NGO,,Tony Blair Institute for Global Change,no line,
 GHA,deal-recipient,Private Sector,,MTN Ghana (Scancom PLC) / Ghana,no line,
 GHA,deal-recipient,Private Sector,,Telecel Ghana,no line,
+GHA,deal-recipient,Private Sector,,"Telecel Global Services Ltd, subsidiary of the Mauritius-based Telecel Group (GHA, LBR)",no line,
 GHA,deal-recipient,Private Sector,,"Google DeepMind Africa AI Research Centre and AI Community Center, Accra",no line,
 GIN,hosting,Presidency,,Présidence de la République de Guinée,no line,
 GIN,hosting,Parliament,,Conseil national de la transition,no line,
@@ -699,6 +705,7 @@ KEN,deal-recipient,Public Sector,,Government of Kenya / National Treasury,line,k
 KEN,deal-recipient,Private Sector,,"Nxtra data centre, Tatu City",no line,
 KEN,deal-recipient,Public Sector,,"ASAL counties implementing partners, Kenya",no line,
 KEN,deal-recipient,NGO,,Mzalendo Trust,no line,
+KEN,deal-recipient,Private Sector,,Safaricom PLC,no line,
 KEN,deal-recipient,Private Sector,,M-KOPA Kenya Limited,no line,
 KEN,deal-recipient,Public Sector,,Kenya (bilateral digital access delivery),no line,
 KEN,deal-recipient,NGO,,Financial Innovation for Impact (Fii),no line,
@@ -733,6 +740,7 @@ LBR,hosting,Anti-corruption commission,,Liberia Anti-Corruption Commission,no li
 LBR,deal-recipient,Public Sector,,Republic of Liberia,no line,
 LBR,deal-recipient,Public Sector,,Liberia Agriculture Commodity Regulatory Authority,no line,
 LBR,deal-recipient,Public Sector,,Government of Liberia / Ministry of Health,line,lbr-2024-310-0500
+LBR,deal-recipient,Private Sector,,"Telecel Global Services Ltd, subsidiary of the Mauritius-based Telecel Group (GHA, LBR)",no line,
 LBR,deal-recipient,Public Sector,,GREAT project / Ministry of Finance and Development Planning,no line,
 LBR,deal-recipient,Private Sector,,Orange Liberia Inc.,no line,
 LBY,hosting,Presidency,,Presidency of the Council of Ministers (Prime Minister's Office),no line,
@@ -816,6 +824,7 @@ MAR,hosting,Anti-corruption commission,,Instance Nationale de la Probité de la 
 MAR,deal-recipient,Public Sector,,Morocco,no line,
 MAR,deal-recipient,Public Sector,,Kingdom of Morocco,no line,
 MAR,deal-recipient,Public Sector,,Agence de Développement du Digital / ADD,no line,
+MAR,deal-recipient,Public Sector,,"Morocco (MAR); recipient organisation not named, recipient unspecified",no line,
 MAR,deal-recipient,Public Sector,,The Kingdom of Morocco,no line,
 MDG,hosting,Presidency,,Présidence de la République de Madagascar,line,mdg-2024-01-010-138-00-01-f-04h
 MDG,hosting,Parliament,,Parlement de Madagascar,no line,
@@ -1370,8 +1379,9 @@ TGO,hosting,Cybersecurity agency / National CERT,cybersecurity,CERT.tg,no line,
 TGO,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et des postes,no line,
 TGO,hosting,Audit office,,Cour des comptes,no line,
 TGO,hosting,Anti-corruption commission,,HAPLUCIA,no line,
-TGO,deal-recipient,PPP,,Cyber Defense Africa,no line,
 TGO,deal-recipient,Public Sector,,Togo,no line,
+TGO,deal-recipient,PPP,,Cyber Defense Africa,no line,
+TGO,deal-recipient,Research,,Togo Data Lab,line,tgo-2026-870-151-2131011548000-a7
 TGO,deal-recipient,Public Sector,,Togolese Republic,no line,
 TGO,deal-recipient,Private Sector,,Togocom (Axian Group subsidiary),no line,
 TUN,hosting,Presidency,,Présidence de la République tunisienne,no line,
@@ -1438,13 +1448,15 @@ TZA,hosting,Audit office,,National Audit Office of Tanzania,line,tza-2024-045-10
 TZA,hosting,Anti-corruption commission,,Prevention and Combating of Corruption Bureau,no line,
 TZA,deal-recipient,Private Sector,,Funguo Investees Cohort 5,no line,
 TZA,deal-recipient,Public Sector,,Government of Tanzania,no line,
+TZA,deal-recipient,Unknown,,*unspecified*,no line,
 TZA,deal-recipient,Private Sector,,"HTA Group, Ltd (bond issuing entity for Helios Towers Plc)",no line,
 TZA,deal-recipient,Private Sector,,NALA,no line,
 TZA,deal-recipient,Private Sector,,Vodacom Tanzania PLC,no line,
 TZA,deal-recipient,Public Sector,,ZICTIA / Zanzibar,no line,
+TZA,deal-recipient,Public Sector,,"Ministry of Agriculture, Tanzania",line,tza-2024-043-1009
 TZA,deal-recipient,Private Sector,,"Aptus Solutions Limited, trading as GOfiber",no line,
-TZA,deal-recipient,NGO,,Stichting BRAC International,no line,
 TZA,deal-recipient,NGO,,"Financial Sector Deepening, Tanzania",no line,
+TZA,deal-recipient,NGO,,Stichting BRAC International,no line,
 TZA,deal-recipient,Private Sector,,Airtel Money Tanzania,no line,
 TZA,deal-recipient,Private Sector,,Helios Towers PLC / TowerCo of Africa Tanzania (TOA Tanzania),no line,
 TZA,deal-recipient,Public Sector,,Bank of Tanzania,no line,
@@ -1517,15 +1529,19 @@ ZAF,hosting,Communications regulator,communications-regulator,ICASA,line,zaf-202
 ZAF,hosting,Audit office,,Auditor-General of South Africa,no line,
 ZAF,hosting,Anti-corruption commission,,Special Investigating Unit,line,zaf-2024-25-5-special-investigating-unit
 ZAF,hosting,Anti-corruption commission,,Public Protector,no line,
+ZAF,deal-recipient,Private Sector,,Vodacom Mpumalanga region network,no line,
+ZAF,deal-recipient,Private Sector,,Vodacom KwaZulu-Natal region network,no line,
+ZAF,deal-recipient,Private Sector,,Vodacom Western Cape region network,no line,
 ZAF,deal-recipient,Private Sector,,Jem,no line,
 ZAF,deal-recipient,Private Sector,,Moment,no line,
 ZAF,deal-recipient,Private Sector,,Shop2Shop / FintechCo,no line,
 ZAF,deal-recipient,NGO,,WeThinkCode,no line,
-ZAF,deal-recipient,Private Sector,,Microsoft Azure South Africa,no line,
 ZAF,deal-recipient,Private Sector,,Tennsa,no line,
 ZAF,deal-recipient,Public Sector,,Telkom AI Institute,no line,
 ZAF,deal-recipient,Private Sector,,"Open Access Data Centres (OADC), a WIOCC subsidiary",no line,
+ZAF,deal-recipient,Private Sector,,Microsoft Azure South Africa,no line,
 ZAF,deal-recipient,Private Sector,,Naked Insurance (Naked Financial Technology Pty Ltd),no line,
+ZAF,deal-recipient,Private Sector,,Genesis Analytics,no line,
 ZAF,deal-recipient,Private Sector,,Google South Africa,no line,
 ZAF,deal-recipient,Private Sector,,Teraco,no line,
 ZAF,deal-recipient,Private Sector,,Swiftnet (Towerco Bidco),no line,
@@ -1561,6 +1577,7 @@ ZMB,hosting,E-government agency,ict-ministry-egov,Smart Zambia Institute,line,zm
 ZMB,hosting,Communications regulator,communications-regulator,Zambia Information and Communications Technology Authority,line,zmb-2024-66-2152-001
 ZMB,hosting,Audit office,,Office of the Auditor General,no line,
 ZMB,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
+ZMB,deal-recipient,Public Sector,,Zambia Revenue Authority,line,zmb-2024-21-3440-002-02-02-15
 ZMB,deal-recipient,Public Sector,,"Zambia Statistics Agency (ZamStats), channelled through the Ministry of Finance",no line,
 ZMB,deal-recipient,Public Sector,,Zambia Statistics Agency (ZamStats),line,zmb-2024-37-3467-03-01-13
 ZMB,deal-recipient,NGO,,Misean Cara,no line,

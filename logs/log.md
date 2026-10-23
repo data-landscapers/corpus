@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-23 10:33 · **BUDGET-EXTRACT** · unclocked · SYC FY2026: mid-year review 2026 read for a revision stage; E-Invoicing restated to SCR 34.86m, 8 absences, no other held line moves
 2026-10-22 09:43 · **RENDER** · 35m · 300 documents, home, countries, catalogue, finance, datasets, maturity rendered; 30 editions pruned; deployed c89f7d2; mirrored 09:53 — ok
 2026-10-22 09:08 · **REBUILD** · 1m · authentication: rungs 4 and 5 read two ways (one e-signature across bodies: CIV MOZ CMR 4->3; mobile ID vs wallet: CPV DJI NGA MUS 5->4); not messaged, 5 open; staged as worded
 2026-10-22 09:08 · **REBUILD** · 20m · authentication: 54 cells reassessed, 8 moved (ETH NGA 4->5; CMR EGY SYC 3->4; MLI 3->1; BDI TGO to unplaced); second drafter 18/20; 54 searched, 180 staged; 4.7M subagent tokens; one searcher held 7h — ok

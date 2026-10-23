@@ -1,3 +1,7 @@
+## 23 October 2026
+
+- Seychelles' 2026 e-invoicing line now carries its mid-year revised figure, SCR 34.9m after a 4.6m cut for delay. The 2026 mid-year review was read across every vote and changes no other held line.
+
 ## 22 October 2026
 
 - The finance pages and each country's Finance report drop the paragraphs around their tables; the ⓘ explains them. How the figures are counted is now set out on the Table Metadata page.
