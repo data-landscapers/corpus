@@ -12,6 +12,11 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-23 11:50 · **REBUILD** · unclocked · businesspayments business: 54 cells reassessed, 9 moved; 54 searched, 202 staged; 60.0M tokens — ok
+2026-10-23 11:49 · **REBUILD** · unclocked · businessregister business: 14 cells reassessed, 11 moved; 54 searched, 225 staged; 58.2M tokens — ok
+2026-10-23 11:45 · **REBUILD** · 20m · broadbandstrategy plan: 2 cells reassessed, 0 moved; 54 searched, 149 staged; 61M tokens — ok
+2026-10-23 11:35 · **REVIEW** · unclocked · AGO: status 1 sections revised, progress 1 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
+2026-10-23 11:31 · **REVIEW** · unclocked · BDI: status 2 sections revised, progress 3 cells, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
 2026-10-23 11:26 · **BUILD** · 1h32m · catalogue 32,306; 365 sources, 24 moved, 145 minted; data centres 16 rows, 2 added; maturity 2,608 read, 49 cells moved; bulletin 31; 4 deals scoped; register 11; 5 ladder readings unmessaged (cap); stray stash recovered — ok
 2026-10-23 11:26 · **BUDGET** · unclocked · poll 66 libraries, GIN and NAM staged; SYC FY2026 and GHA FY2024 revised; MOZ and SEN nil; votes for 9 countries; 39 waiting, none workable; 75 of 120 minutes — ok
 2026-10-23 10:33 · **BUDGET-EXTRACT** · unclocked · SYC FY2026: mid-year review 2026 read for a revision stage; E-Invoicing restated to SCR 34.86m, 8 absences, no other held line moves
