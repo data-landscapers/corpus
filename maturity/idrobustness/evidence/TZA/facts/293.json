@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-tza-tanzania-digital-identity-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIDA reports 22.6 million national identification numbers generated and more than 22 million ID cards produced.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "National ID (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID (NIDA)",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "centralised core (NID)",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

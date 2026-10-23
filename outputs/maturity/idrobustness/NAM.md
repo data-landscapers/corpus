@@ -8,6 +8,6 @@
 
 **Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Namibia Automated Biometric Identification System (N-ABIS)](<https://neweralive.na/nampol-pushes-for-digital-investment-ict-overhaul-to-modernise-services/>); [National Population Registration System (NPRS)](<https://thebrief.com.na/2024/07/over-94000-namibians-issued-with-identity-documents/>); [e-birth and e-death notification system](<https://thebrief.com.na/2024/07/over-94000-namibians-issued-with-identity-documents/>).
 
 ***Not held***. No source held since October 2023 says the system checks people by biometrics.

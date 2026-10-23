@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,robustness,system,coverage,inservice,2026-07,MDG-006;MDG-009,MDG-003=underway;MDG-004=underway;MDG-005=underway;MDG-007=underway;MDG-018=underway;MDG-010=underway;MDG-016=underway;MDG-012=underway;MDG-013=underway;MDG-001=underway;MDG-002=underway;MDG-011=underway;MDG-014=underway;MDG-019=underway;MDG-017=underway,
+MDG,robustness,system,coverage,inservice,2026-07,MDG-006;MDG-009,MDG-003=underway;MDG-004=underway;MDG-005=underway;MDG-020=underway;MDG-007=underway;MDG-018=underway;MDG-010=underway;MDG-016=underway;MDG-012=underway;MDG-013=underway;MDG-001=underway;MDG-002=underway;MDG-011=underway;MDG-014=underway;MDG-021=underway;MDG-019=underway;MDG-017=underway,
 MDG,robustness,biometric,coverage,checked,2026-06-10,MDG-008;MDG-015,,
 MDG,robustness,assurance,coverage,,,,,nothing held

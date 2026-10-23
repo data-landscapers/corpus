@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-23-dza-lancement-des-identites-numeriques-des-citoyens-avant-fin-2024",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ministry of the Interior official Redouane Mahfoudi says the digital identity rests on the biometric information carried in Algeria's biometric electronic identity card.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "carte d'identite electronique biometrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

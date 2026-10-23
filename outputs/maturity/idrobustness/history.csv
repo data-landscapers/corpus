@@ -39,3 +39,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TZA,dpi.id--robustness-of-system,fact,4,4,TZA-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,ZAF,dpi.id--robustness-of-system,fact,4,4,ZAF-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZMB,dpi.id--robustness-of-system,fact,3,3,ZMB-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-23,TGO,dpi.id--robustness-of-system,fact,3,4,TGO-012;TGO-011,Arrival TGO-012: the e-ID Togo deck says cards are printed after biometric deduplication; stage 3 -> 4.

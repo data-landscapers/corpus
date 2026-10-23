@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-16-ner-celebration-de-la-journee-internationale-de-l-identification-id-day-20",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Le Sahel reports that on 16 September 2024 Interior Minister Mohamed Toumba said a new national identification system with unique identification numbers will be built, with World Bank-financed WURI-Niger supporting a single authority to manage all personal data and numbers.",
+   "as_of": "2024-09-16",
+   "date_precision": "day",
+   "system": "WURI-Niger",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WURI-Niger",
+   "country_label": "Projet d'identification unique en Afrique de l'Ouest pour l'intégration et l'inclusion régionale",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministère de l'Intérieur",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-07-17-nam-over-94-000-namibians-issued-with-identity-documents",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Deputy Minister of Home Affairs Lucia Witbooi said that as of 17 July 2024, 93,019 identity documents had been printed and 52,896 collected during the mass registration outreach to all 121 constituencies.",
+   "as_of": "2024-07-17",
+   "date_precision": "day",
+   "system": "National Population Registration System (NPRS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Registration System (NPRS)",
+   "country_label": "NAM",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+   "tiers": ""
+  },
+  {
+   "system": "e-birth and e-death notification system",
+   "country_label": "NAM",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs and Ministry of Health and Social Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

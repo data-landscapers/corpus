@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-09-ken-digital-identity-id-roll-out-on-course-ps",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Principal Secretary says the government is rolling out a third-generation digital ID, the Maisha card, moving from the old generation ID.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "Maisha card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

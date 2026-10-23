@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-10-bwa-electronic-id-system-aims-to-improve-efficiency",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Minister Pius Mokgware told Parliament the ministry is developing an Electronic Identification system as a single source of identity for citizens and residents, integrating the Omang, passports and driver's licences, with a pilot by end-2025 and full rollout by end-2026.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Electronic Identification (Digital ID) system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

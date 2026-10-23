@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-17-cmr-cameroon-opens-new-id-card-production-centre-as-issuance-gains-tractio",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports Cameroon's new national ID card system went live on 17 February 2025 with online pre-enrolment, biometric capture a week later and the first cards given to applicants on 3 March 2025.",
+   "as_of": "2025-03-03",
+   "date_precision": "day",
+   "system": "new national ID card system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

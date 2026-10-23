@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-19-gha-counting-every-ghanaian-how-digitalising-births-and-deaths-fuels-ghana",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Henrietta Lamptey and Yvonne Boatemaa-Yeboah write that the Ghana Card is a biometric national identification card issued by the National Identification Authority and mandatory for accessing a wide range of services.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana Card",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority (NIA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-23-mdg-decim-biometric-enrolment-capitalisation-workshop",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The DECIM project page says the Izaho Tokana mass biometric enrolment, begun in early 2026 by the CNECI with PRODIGY support, had registered over six million people aged 18 and over in the national base by 30 June 2026, within a modernised identity system still being built.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Izaho Tokana",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

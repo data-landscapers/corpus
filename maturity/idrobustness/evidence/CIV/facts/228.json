@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-civ-la-cote-d-ivoire-vers-une-identite-juridique-et-numerique-integree-au",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ONECI's slides for ID4Africa 2026 report 172 fixed identity enrolment centres plus mobile enrolment units and intensified enrolment campaigns, and call the unique identifier an essential structuring element.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "ONECI identity enrolment",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ONECI identity enrolment",
+   "country_label": "Identité numérique (NNI)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

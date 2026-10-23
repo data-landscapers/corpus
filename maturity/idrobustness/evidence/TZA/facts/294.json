@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-30-tza-tanzania-s-ministry-of-communication-and-information-technology-partne",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The release says Jamii Namba, the digital ID system launched in 2012, has registered over 25 million people.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Jamii Namba",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

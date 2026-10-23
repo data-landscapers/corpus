@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-30-bdi-the-lack-of-digital-id-systems-threatens-the-digital-economy-of-burund",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "President Evariste Ndayishimiye announced in December 2025 that the digital ID system is being tested in Zone Matara, Gitega province, with nationwide rollout to follow if the pilot succeeds.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "National digital ID pilot",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National digital ID pilot",
+   "country_label": "Burundi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

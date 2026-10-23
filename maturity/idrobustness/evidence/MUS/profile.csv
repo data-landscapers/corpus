@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MUS,robustness,system,coverage,inservice,2026-10-02,MUS-001;MUS-002;MUS-004;MUS-005;MUS-006,,
+MUS,robustness,system,coverage,inservice,2026-10-02,MUS-001;MUS-002;MUS-004;MUS-005;MUS-006;MUS-007,,
 MUS,robustness,biometric,coverage,,,,,nothing held
-MUS,robustness,assurance,coverage,certified,2024-02-19,MUS-003,,
+MUS,robustness,assurance,coverage,,,,,nothing held

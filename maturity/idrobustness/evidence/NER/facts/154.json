@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-12-ner-wuri-niger-early-market-engagement-biometric-id-system",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The WURI-Niger Project at the Ministry of the Interior, in a notice of 12 June 2026, says it is preparing to acquire an integrated biometric identification system to support the National Register of Persons, with a market consultation meeting on 29 June 2026 before the formal procurement.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "National Register of Persons (RNP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Register of Persons (RNP)",
+   "country_label": "RNP",
+   "class": "idsystem",
+   "platform": "MOSIP integration",
+   "owner": "Ministry of the Interior (WURI-Niger Project)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

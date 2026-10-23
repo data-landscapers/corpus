@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-20-mdg-newsmada-cneci-2025-activities-launch",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Newsmada reports the Interior Ministry launched the Cneci 2025 activities, including mass biometric enrolment of the population and issue of the biometric national identity card.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Carte nationale d'identite biometrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

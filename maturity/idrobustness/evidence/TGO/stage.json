@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "robustness",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "biometric": "",
+      "biometric": "checked",
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001;TGO-006",
-      "gaps": "No source held since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TGO-012;TGO-011",
+      "gaps": "No source held since October 2023 reports a certification, audit or assurance level for the system.",
+      "note": "Reassessed on arrival: the 2026 e-ID Togo deck says cards are printed only after biometric deduplication, which reaches stage 4. No certification, audit or assurance level is held for stage 5.",
+      "as_at": "2026-10-23"
     }
   ]
 }

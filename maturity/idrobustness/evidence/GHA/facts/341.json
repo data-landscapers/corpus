@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-19-gha-ghana-and-uae-sign-1bn-deal-to-build-africa-s-largest-innovation-and-a",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A $100m national AI-powered digital identity system built on Falcon large language models via AI71 is funded under the Ghana-UAE agreement, with construction of the wider hub scheduled to begin in 2026.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "AI-powered digital identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

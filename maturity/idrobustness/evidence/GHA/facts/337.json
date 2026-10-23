@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-gha-ghana-brings-in-trust-stamp-to-build-tokenized-digital-id-infrastructu",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article states that the National Identification Authority issues the Ghana Card, a biometric national ID, with the National Identification Registry as the foundation of the planned tokenised services.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana Card / National Identification Registry",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The deck says Malawi issues federated digital identities, with about 97% registration by November 2017 and 100% of the adult population by 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRB national digital identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

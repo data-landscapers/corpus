@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,robustness,system,coverage,inservice,2026-07-29,NAM-004;NAM-006;NAM-008;NAM-009,NAM-001=underway;NAM-003=underway;NAM-005=underway;NAM-007=underway;NAM-012=underway;NAM-010=underway;NAM-011=underway;NAM-002=underway,
+NAM,robustness,system,coverage,inservice,2026-07-29,NAM-004;NAM-006;NAM-008;NAM-009;NAM-013,NAM-001=underway;NAM-003=underway;NAM-005=underway;NAM-007=underway;NAM-012=underway;NAM-010=underway;NAM-011=underway;NAM-002=underway,
 NAM,robustness,biometric,coverage,,,,,nothing held
 NAM,robustness,assurance,coverage,,,,,nothing held

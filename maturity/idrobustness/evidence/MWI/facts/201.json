@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mwi-national-registration-bureau-evolution-of-the-national-registration-bu",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Registration Bureau reports 12.5 million national ID registrations under the National Registration Act 2015, with fingerprint and photo data held for each citizen.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

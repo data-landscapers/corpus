@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-07-lbr-allafrica-nir-oesd-concession-awaits-legislature",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A US$54.7 million concession with OeSD International GmbH for biometric enrolment, deduplication and digital credentials has been signed but awaits legislative ratification, NIR Executive Director Andrew Peters said on 4 September 2026.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "NIR/OeSD digital ID concession",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

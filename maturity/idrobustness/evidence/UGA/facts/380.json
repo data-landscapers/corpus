@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-15-uga-dissemination-of-the-electronic-know-your-customer-evaluation-report",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "FSD Uganda says financial institutions verify customers against the National Identification Number held in the NIRA database.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "NIRA national ID database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

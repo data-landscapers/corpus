@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-30-mus-digital-identity-card-1-mobile-app-1-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "News Moris says all holders of a Mauritian identity card are eligible for the Mobile ID, and the cost of the MNIC 3.0 and Mobile ID systems is estimated at Rs 375 million.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "MNIC identity card",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "assurance",
+   "value": "certified",
+   "fact": "News Moris quotes the Minister saying an independent security audit of the Mobile ID has been conducted and will be repeated every three years.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Mobile ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

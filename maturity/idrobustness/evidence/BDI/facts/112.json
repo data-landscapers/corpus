@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-bdi-central-bank-of-burundi-presentation-at-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Bank of the Republic of Burundi's Deputy Governor says there is no biometric national ID but the process and its preparatory works are underway.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

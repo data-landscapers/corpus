@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-02-tza-nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Government spokesman Gerson Msigwa said more than 21 million national ID cards had been produced, over 1.5 million of them uncollected, from NIDA's registration and identification system.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "NIDA national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

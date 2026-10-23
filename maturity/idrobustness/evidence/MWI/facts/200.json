@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-20-mwi-making-national-id-work-beyond-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NRB Principal Secretary Mphatso Sambo said NRB has registered over 12 million Malawians aged 16 and above and issues the national ID card.",
+   "as_of": "2024-07-20",
+   "date_precision": "day",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

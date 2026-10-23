@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-09-mwi-nrb-in-phase-7-of-community-death-registration-exercise",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Registration Bureau says national ID cards are still being issued, with first IDs for people turning 16 and replacements for lost or damaged cards, and that the expiry date of existing IDs is suspended to 1 January 2026.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID database",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

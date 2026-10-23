@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The deck says the e-ID Togo system provides unique identification numbers based on fingerprints, iris and photo, with cards printed after deduplication.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The deck says cards are printed after deduplication of the biometric enrolment.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

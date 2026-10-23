@@ -8,6 +8,6 @@
 
 **Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.instituto-camoes.pt/sobre/comunicacao/noticias/sao-tome-e-principe>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [SIGA](<https://ooru.io/case-studies/sao-tome>).
 
 ***Not held***. No source held since October 2023 says the system checks people by biometrics.

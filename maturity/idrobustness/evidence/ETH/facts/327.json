@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-09-eth-launch-ceremony-held-for-the-digital-certificate-service-ensuring-fayd",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Director of the National ID Program said on 9 December 2025 that each digital ID issued under the Fayda program is verifiable and legally recognised, with INSA now issuing certificates to secure it.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "Fayda digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

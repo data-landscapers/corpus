@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-16-rwa-how-to-apply-for-single-digital-id-adult-self-pre-enrollment",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "IremboGov's help article says Rwanda is preparing to roll out a new Digital National ID system and requires pre-enrolment before the official launch, with biometric capture and issue still to follow.",
+   "as_of": "2026-10-16",
+   "date_precision": "day",
+   "system": "Single Digital ID (SDID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Digital ID (SDID)",
+   "country_label": "Single Digital ID",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

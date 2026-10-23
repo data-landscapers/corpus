@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The WURI-Benin coordinator reports more than 13.41 million people enrolled in the RNPP and more than 9 million fID produced.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

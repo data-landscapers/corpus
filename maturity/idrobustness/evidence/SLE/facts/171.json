@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-11-sle-sierra-leone-putting-digital-id-at-the-center-of-its-digital-transform",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Vibbie says the National ID Card or NIN is mandatory for accessing services under the National Civil Registration Act of 2016 and that over 90 percent of the population is registered.",
+   "as_of": "2024-04-11",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

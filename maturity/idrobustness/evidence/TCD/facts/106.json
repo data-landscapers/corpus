@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-10-tcd-societe-la-digitalisation-des-actes-de-naissance-une-transformation-cr",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Tchadinfos says ANATS is the agency that issues digitised identity documents and that new birth certificates carry a national identification number (NNI).",
+   "as_of": "2023-12-10",
+   "date_precision": "day",
+   "system": "ANATS / NNI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

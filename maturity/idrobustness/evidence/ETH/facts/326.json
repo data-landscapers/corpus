@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "National ID Ethiopia's deck says Fayda has 43M people registered and 12M+ printed credentials.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

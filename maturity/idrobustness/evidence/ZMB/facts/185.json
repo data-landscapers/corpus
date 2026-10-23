@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-28-zmb-zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Zambia is rolling out the Integrated National Registration Information System, a new biometric digital ID system that aims to issue digital IDs to all citizens aged 16 and over at an estimated cost of $54.8 million, with biometric records collected for 1.3 million people by May 2024, per CSIS.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Integrated National Registration Information System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated National Registration Information System",
+   "country_label": "Integrated National Registration Information System",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-30-nga-credible-inclusive-national-identity-management-system-fundamental-to",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Director General of NIMC says NIMC had enrolled 126,717,316 individuals, about 25 million of them in the last two years.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "National Identity Database (NIMC)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

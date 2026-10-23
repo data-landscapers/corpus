@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-10-tcd-tchad-le-ministere-des-finances-et-l-anats-signent-un-accord-pour-secu",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Tchadinfos quotes ANATS director general Youssouf Gorou Tchaby on 10 March 2026 as saying the national biometric population register is an essential tool to guarantee the uniqueness of each citizen's identity and fight identity theft.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Registre national biométrique de la population",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

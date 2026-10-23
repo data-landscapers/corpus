@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Decree D/2025/052 of 14 April 2025 defines the national register of natural persons as a database of biographic and biometric (fingerprint, photograph) data for identification, without stating that it is issuing numbers.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "country_label": "Guinea",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "body in charge of civil status and identification",
+   "tiers": "communal and consular registers under a national register"
+  }
+ ],
+ "note": ""
+}

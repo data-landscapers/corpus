@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-lby-libya-dpi-map",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The DPI Map profile, last updated 1 October 2024, gives Libya's national digital identity status of implementation as Pilot, with IDEMIA as technical support, and says it collects biometric data.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "National digital identity",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

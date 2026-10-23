@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-04-syc-directive-on-the-adoption-and-acceptance-of-the-national-digital-ident",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "SeyID",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Information Communications Technology; validated through the Immigration and Civil Status Department",
+   "tiers": ""
+  }
+ ],
+ "note": "The directive names SeyID as the national digital identity but does not say how it is checked, issued or used remotely."
+}

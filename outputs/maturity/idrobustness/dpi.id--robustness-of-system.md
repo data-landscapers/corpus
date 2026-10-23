@@ -21,8 +21,8 @@ The African Union's interoperability framework asks that a national ID system ha
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 11 |
-| 3 Established | 40 |
+| 4 Operating | 12 |
+| 3 Established | 39 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -102,6 +102,13 @@ The national ID system checked people by biometrics in 2026; no certification or
 The national ID system checked people by biometrics in 2026; no certification or audit is known.
 
 - The Deputy Minister said the centre can verify applicants and match fingerprints so that each applicant is uniquely identified ([source, 2026-05-22](https://dailynews.co.tz/national-ids-to-stay-under-centralised-printing/)).
+
+### Togo: 4 Operating
+
+The national ID system checked people by biometrics in 2026; no certification or audit is known.
+
+- The deck says cards are printed after deduplication of the biometric enrolment ([source, 2026](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
+- The deck says the e-ID Togo system provides unique identification numbers based on fingerprints, iris and photo, with cards printed after deduplication ([source, 2026](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
 
 ### Uganda: 4 Operating
 
@@ -358,13 +365,6 @@ The national ID system was issuing unique numbers in 2026; biometric checks are 
 
 - The Directorate is registering examination candidates for National IDs in schools, launched 4 August 2026, with expansion to more schools planned ([source, 2026-08-04](https://catholicradionetwork.org/2026/08/04/immigration-directorate-launches-school-based-national-id-registration-for-examination-candidates/)).
 - The Directorate launched school-based registration to provide National ID cards to Primary Eight and Senior Four candidates, starting in Juba and to expand to other states ([source, 2026-08-04](https://www.eyeradio.org/school-based-national-id-registration-launched-for-exam-candidates-in-juba/)).
-
-### Togo: 3 Established
-
-The national ID system was issuing unique numbers in 2026; biometric checks are not known.
-
-- ANID has produced about 5.9 million identification cards, nearly 80% reportedly distributed, and each person registered receives a Unique Identification Number (NIU), per data reported on 28 September 2026 ([source, 2026-09-28](https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/)).
-- ANID is enrolling residents, Togolese or foreign, for its card and a Numero d'Identification Unique across four regions, the Plateaux joining with fifty centres at Atakpame, says the government portal ([source, 2026-03-21](https://www.republicoftogo.com/toutes-les-rubriques/societe/se-faire-enregistrer-c-est-compter-c-est-exister-c-est-participer)).
 
 ### Tunisia: 3 Established
 

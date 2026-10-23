@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Smart Zambia Institute's procurement notice says that with World Bank ID4D support the government has chosen to develop a home-grown digital ID enrollment system based on open standards, and a study will review INRIS and digital ID requirements.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "digital ID enrollment system / INRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated National Registration Information System (INRIS)",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
