@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-14-moz-sistema-de-certificacao-digital-mocambique-registou-crescimento-na-ade",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INTIC says Law no. 3/2017 and Decree no. 59/2019 give digital signatures the same legal validity as physical ones.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Law 3/2017 and Decree 59/2019",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

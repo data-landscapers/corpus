@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-24-civ-anssi-pki-racine-nationale-mise-en-service",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ANSSI CI names Law No. 2013-546 of 30 July 2013 on electronic transactions as part of the regulatory framework in force that gives the electronic signature legal value.",
+   "as_of": "2013-07-30",
+   "date_precision": "day",
+   "system": "Loi 2013-546",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "ANSSI CI names Decree No. 2014-106 of 12 March 2014, setting the conditions for written records and electronic signature, and Decree No. 2014-105 on cryptology services, as rules under the framework.",
+   "as_of": "2014-03-12",
+   "date_precision": "day",
+   "system": "Decret 2014-106",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

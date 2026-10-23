@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-27-mwi-government-engages-stakeholders-on-etca-regulations",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The report refers to the existing Electronic Transactions and Cyber Security Act, which the 2023 Amendment Bill would amend, with draft regulations on cryptography and certification authorities put to consultation as an expansion of it.",
+   "as_of": "2024-02-27",
+   "date_precision": "day",
+   "system": "Electronic Transactions and Cyber Security Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

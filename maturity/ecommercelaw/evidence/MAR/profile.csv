@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,law,standing,coverage,in-force,2026-10-01,MAR-001;MAR-003;MAR-004,,
-MAR,law,reach,coverage,applied,2026-10-01,MAR-002;MAR-006;MAR-007,MAR-005=rules,
+MAR,law,standing,coverage,in-force,2026-10-01,MAR-001;MAR-003;MAR-004;MAR-009,,
+MAR,law,reach,coverage,applied,2026-10-01,MAR-002;MAR-006;MAR-007,MAR-005=rules;MAR-010=rules,

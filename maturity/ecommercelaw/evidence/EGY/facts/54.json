@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-26-egy-masrtimes-mcit-launches-digital-identity-remote-mobile-services",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Masr Times states that an electronic signature made through the system has legal force under the rules regulating electronic signature, with licensed e-signature companies issuing the certificates.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "e-signature rules",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

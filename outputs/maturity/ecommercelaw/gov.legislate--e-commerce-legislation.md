@@ -21,8 +21,8 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 14 |
-| 3 Established | 25 |
+| 4 Operating | 15 |
+| 3 Established | 24 |
 | 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -83,6 +83,13 @@ Benin's 2018 digital code is in force with a 2025 decree on electronic archiving
 
 - Decree no. 2025-363 of 2 July 2025 was made in application of the 2017 digital code (law 2017-20, as amended in 2021) and sets the conditions for electronic archiving providers, who must be qualified as trust service providers for three renewable years ([source, 2025-07-02](https://sgg.gouv.bj/doc/decret-2025-363/)).
 - Decree no. 2025-363 of 2 July 2025, taking effect on signature, gives electronic archives the same legal value as paper documents where signed with a qualified electronic signature and timestamped ([source, 2025-07-02](https://sgg.gouv.bj/doc/decret-2025-363/)).
+
+### Burkina Faso: 4 Operating
+
+Burkina Faso's 2009 law on electronic services and transactions is in force with implementing decrees; accreditations or licences under it are not known.
+
+- The National Assembly adopted Law n°045-2009/AN on 10 November 2009 regulating electronic services and transactions (electronic signatures, electronic formalities, e-commerce contracts, trust service providers), and it was promulgated by Decree n°2009-824/PRES on 4 December 2009; the document gives no repeal ([source, 2009-12-04](https://www.ictpolicyafrica.org/api/documents/download?_id=5eb968597c7814001bc4bcbe)).
+- The article says FasoSign, launched on 15 September 2026, gives effect to law 045-2009 and its implementing decrees, which together give a digital signature the legal value of a handwritten one; it does not name the decrees ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
 
 ### Burundi: 4 Operating
 
@@ -200,13 +207,6 @@ Botswana's 2014 electronic communications and transactions act has been in force
 
 - The document's capture note records the Act as in force since 1 April 2016, citing BOCRA; the Act's own text says only that commencement is on notice ([source, 2016-04-01](https://www.bocra.org.bw/sites/default/files/documents/Electronic-Communications-and-Transactions-Act-2014.pdf)).
 - Parliament of Botswana enacted the Electronic Communications and Transactions Act, 2014 (Act No. 14), assented 14 May 2014, giving electronic communications, contracts and signatures legal effect and covering online consumer protection; commencement was by ministerial Order in the Gazette ([source, 2014-05-14](https://www.bocra.org.bw/sites/default/files/documents/Electronic-Communications-and-Transactions-Act-2014.pdf)).
-
-### Burkina Faso: 3 Established
-
-Burkina Faso's 2009 law on electronic services and transactions recognises e-signatures and is in force; no rules made under it are known.
-
-- Wearetech reports that Burkina Faso's law no. 045-2009 recognises the electronic signature in all matters and presumes secure signatures based on a qualified certificate reliable; the date is the year of the law, 2009 ([source, 2009](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-l-administration-passe-a-la-signature-electronique)).
-- The National Assembly adopted Law n°045-2009/AN on 10 November 2009 regulating electronic services and transactions (electronic signatures, electronic formalities, e-commerce contracts, trust service providers), and it was promulgated by Decree n°2009-824/PRES on 4 December 2009; the document gives no repeal ([source, 2009-12-04](https://www.ictpolicyafrica.org/api/documents/download?_id=5eb968597c7814001bc4bcbe)).
 
 ### Cape Verde: 3 Established
 

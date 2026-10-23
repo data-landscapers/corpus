@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-16-dza-lancement-des-services-de-certification-et-de-signature-electroniques",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Horizons says law 15-04 of 1 February 2015 governs electronic signature and certification in Algeria, and the AECE director says it leaves the choice between handwritten and electronic signature.",
+   "as_of": "2025-02-16",
+   "date_precision": "day",
+   "system": "Law 15-04",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "Reach fact struck at Level 1: the AECE is the authority the law sets up, offering certificates itself; no provider is accredited or licensed under the law."
+}

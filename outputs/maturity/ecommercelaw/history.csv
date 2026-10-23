@@ -17,3 +17,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,UGA,gov.legislate--e-commerce-legislation,fact,4,4,UGA-003;UGA-005,Arrivals added UGA-005; stage unchanged.
 2026-10-18,DZA,gov.legislate--e-commerce-legislation,fact,3,3,DZA-005;DZA-004,"Law 26-02 of 17 February 2026 on trust services is in force, replacing the 2025 draft (DZA-005); no rules under it held, stage unchanged."
 2026-10-20,BEN,gov.legislate--e-commerce-legislation,fact,3,4,BEN-003;BEN-002,"Decree 2025-363 of 2 July 2025, made under the digital code, sets the conditions for electronic archiving providers as qualified trust service providers: rules made under the law, so 3 to 4."
+2026-10-23,BFA,gov.legislate--e-commerce-legislation,fact,3,4,BFA-002;BFA-004,"A September 2026 report on the FasoSign launch says law 045-2009 has implementing decrees (BFA-004): rules made under the law, so 3 to 4."
