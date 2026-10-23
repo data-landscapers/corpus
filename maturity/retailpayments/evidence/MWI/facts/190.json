@@ -1,0 +1,37 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The deck says mobile money operators take part in the national instant payment system and that 7.23 million adults used mobile money in 2023.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Switch Limited",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The deck says the national switch gives account-to-account, wallet-to-wallet, account-to-wallet and wallet-to-account instant payments across banks and mobile money operators.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Switch Limited",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The deck says National Switch Limited is the digital public infrastructure integrating all commercial banks, mobile money operators, MFIs, SACCOs and fintechs for instant payments.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Switch Limited",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

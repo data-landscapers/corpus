@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-dza-banks-race-to-change-algerians-cash-habits-before-end-2026",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Echorouk reports that Algerian banks (CPA, BDL, BNA) offer mobile and QR-code payments for shop purchases and person-to-person transfers, with QR payment transactions up 1,200% in six months per an unnamed report.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "bank mobile and QR-code payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "bank mobile and QR-code payment",
+   "country_label": "DZA",
+   "class": "retail",
+   "platform": "QR code",
+   "owner": "CPA, BDL, BNA and other banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

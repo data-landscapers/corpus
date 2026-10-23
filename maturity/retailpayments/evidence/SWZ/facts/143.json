@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-11-swz-felicia-dlamini-kunene-the-nexus-between-aml-cft-and-financial-inclusi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mobile money operators are licensed in Eswatini and by 2018 71% of adults and 62% of MSMEs were using mobile money, says the Central Bank Deputy Governor.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Payment Switch",
+   "country_label": "Eswatini",
+   "class": "other",
+   "platform": "national payment switch with Fast Payments module",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

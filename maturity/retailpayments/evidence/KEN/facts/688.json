@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-xaf-au-member-states-validate-african-continental-health-data-governance-fr",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Africa CDC says mobile money is widely used in Kenya, including in faster processing of health insurance payments.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

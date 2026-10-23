@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-30-tza-tanzania-s-ministry-of-communication-and-information-technology-partne",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The release says TIPS, launched by the Bank of Tanzania in 2019, is an interoperable platform across banks, mobile money providers and other financial institutions.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The release says over 1.5 million transactions go through TIPS daily, with over 45 financial institutions taking part across banks and mobile money providers.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

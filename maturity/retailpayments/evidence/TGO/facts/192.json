@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The deck says Novissi paid monthly transfers through mobile money in 2020.",
+   "as_of": "2020-04",
+   "date_precision": "month",
+   "system": "Novissi mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-bdi-central-bank-of-burundi-presentation-at-id4africa-2025",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Bank of the Republic of Burundi's Deputy Governor says banks and licensed non-banks offer digital financial services, with mobile wallets at 69.54% financial inclusion and P2P the main use case.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Mobile wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

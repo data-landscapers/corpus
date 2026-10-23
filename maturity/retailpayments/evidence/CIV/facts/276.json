@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-09-civ-digitalmag-application-cote-divoire-identite-oneci",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Digital Mag says the app subscription of FCFA 1,000 a year is paid by mobile money (Orange Money, Wave, Moov Money).",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Orange Money, Wave, Moov Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
