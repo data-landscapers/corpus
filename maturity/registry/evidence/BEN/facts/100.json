@@ -1,0 +1,37 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B;D",
+   "fact": "ANIP says health agents, civil status officers or local chiefs declare births and deaths straight into the national system, replacing paper registers.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP / FNEC",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "made",
+   "value": "connected",
+   "fact": "ANIP says a birth declared at the point of entry is held in the national RNPP and civil status file with no re-keying, and birth declaration windows are set up in health facilities.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP / FNEC",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "ANIP says civil status, identification and the population register are centralised in the national agency ANIP.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP / FNEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

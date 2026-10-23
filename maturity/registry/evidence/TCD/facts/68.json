@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-10-tcd-societe-la-digitalisation-des-actes-de-naissance-une-transformation-cr",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "Tchadinfos says births are registered digitally under TASDJIL from the maternity, with state civil registry desks set up in more than 50 maternity units.",
+   "as_of": "2023-12-10",
+   "date_precision": "day",
+   "system": "TASDJIL",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:50",
+   "fact": "TECHNIDEV's director general says civil registry desks have been set up in more than 50 maternity units, with no total of offices given.",
+   "as_of": "2023-12-10",
+   "date_precision": "day",
+   "system": "TASDJIL",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TASDJIL",
+   "country_label": "Chad",
+   "class": "civil",
+   "platform": "offline-capable, solar modular offices",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

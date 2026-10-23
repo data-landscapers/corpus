@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-12-lbr-liberianinvestigator-unicef-crvs-day-birth-registration",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "UNICEF's Ahmad Shahvez said birth registration is digitised with tablets and an online registration system issuing digital birth certificates, and services reach all 15 counties and 98% of health districts.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Birth Registration Information Management System",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

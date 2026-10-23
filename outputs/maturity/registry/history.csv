@@ -13,3 +13,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TCD,digital.rural--digitalisation-of-rural-registry-offices,fact,3,3,TCD-015;TCD-016;TCD-017;TCD-044,"Arrivals added TCD-046, TCD-047; restaged by hand: stage unchanged."
 2026-10-17,ZMB,digital.rural--digitalisation-of-rural-registry-offices,fact,3,3,ZMB-007;ZMB-010;ZMB-015;ZMB-006;ZMB-020,Arrivals added ZMB-027; restaged by hand: stage unchanged.
 2026-10-18,BWA,digital.rural--digitalisation-of-rural-registry-offices,fact,3,3,BWA-002;BWA-003;BWA-004,"CRVS Strategic Implementation Plan 2026-2031 launched September 2026: governance now holds a current plan; offices still not published, stage 3 held"
+2026-10-23,ZMB,digital.rural--digitalisation-of-rural-registry-offices,fact,3,3,ZMB-007;ZMB-010;ZMB-015;ZMB-006;ZMB-020,"World Bank IDA financing for the CRVS core modules contract (December 2025) sets finance to donor; stage 3 unchanged, cap not reached"

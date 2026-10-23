@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-27-civ-cni-double-identite-enregistrement-des-naissances-nni-les-clarificatio",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "equipped:62.89%",
+   "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that the Cityweb software is deployed in 434 civil registration centres, 303 sub-prefectures and 131 communes, a deployment rate of 62.89%.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Cityweb",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

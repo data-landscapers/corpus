@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-02-zmb-dzap-system-integrator-foundational-digital-id-crvs-rfp",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The Government of Zambia has received International Development Association financing under the Digital Zambia Acceleration Project, part of which the Smart Zambia Institute will apply to the CRVS core modules integrator contract.",
+   "as_of": "2025-12-03",
+   "date_precision": "day",
+   "system": "CRVS core modules",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

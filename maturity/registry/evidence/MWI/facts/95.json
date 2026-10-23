@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-mwi-national-registration-bureau-evolution-of-the-national-registration-bu",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B;D",
+   "fact": "The National Registration Bureau reports an electronic birth and death registration system in 142 health facilities with real-time data synchronisation.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Electronic Birth and Death Registration system",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:142",
+   "fact": "The system operates in 142 health facilities, no total of offices given.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Electronic Birth and Death Registration system",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

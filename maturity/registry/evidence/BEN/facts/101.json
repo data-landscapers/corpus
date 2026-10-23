@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-08-ben-enregistrement-des-naissances-au-benin-le-guichet-unique-de-l-anip-fai",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says births are declared and registered at one desk in ten pilot health facilities since 20 August 2025, where the birth registration rate reached 76.56%.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Guichet unique de déclaration et d'enregistrement des naissances",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
