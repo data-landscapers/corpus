@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-20-zaf-sassa-explains-why-it-paid-grants-to-75-000-dead-people",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SOCPEN / BRM",
+   "country_label": "ZAF",
+   "class": "g2p",
+   "platform": "",
+   "owner": "SASSA",
+   "tiers": ""
+  }
+ ],
+ "note": "The document does not say grants are paid digitally; its Home Affairs sync is for death records, not stated as a check of payments against the ID."
+}

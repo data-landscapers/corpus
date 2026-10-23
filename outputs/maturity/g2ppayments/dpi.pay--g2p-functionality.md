@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 6 |
 | 4 Operating | 1 |
-| 3 Established | 28 |
+| 3 Established | 27 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 7 |
@@ -41,6 +41,13 @@ Government payments to people were checked against the national ID or social reg
 Government payments to people were checked against the national ID or social registry in 2026.
 
 - The Liberia Household Social Registry, held by the Ministry of Gender, Children and Social Protection with over 442,000 poverty-ranked households, supplies the households enrolled into the Social Cash Transfer, per the REALISE Project ([source, 2026-05-06](https://realise.liberiasp.gov.lr/2026/05/18/government-of-liberia-presents-crisis-response-plan-to-world-bank/)).
+
+### Malawi: 5 Leading
+
+Social cash transfers were paid by mobile money and checked against the national ID in 2025; a second main payment stream is not known.
+
+- The deck says the NRB provides beneficiary verification for social protection G2P programmes and maps digital identities to accounts and mobile wallets ([source, 2025](https://www.id4africa.com/2025/files/T3-P3-S2-3-Malawi_FINAL.pdf)).
+- The Ministry of Gender says TNM Mpamba mobile money is disbursing about K6 billion in social cash transfers to over 27,760 beneficiaries in Mangochi District ([source, 2026-04-30](https://www.malawivoice.com/2026/05/01/gender-ministry-hails-tnm-mpamba-for-transforming-social-cash-transfers-in-mangochi/)).
 
 ### Mauritania: 5 Leading
 
@@ -157,13 +164,6 @@ A government programme paid people digitally in 2026; a second main stream is no
 
 - Governor Issa said about 1.75 million of 2.2 million public employees have registered for the Ratibak Lahzi instant-salary project, which cut salary disbursement time to under an hour ([source, 2026-09](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
 - The Central Bank of Libya says September 2026 public sector salary authorizations from the Ministry of Finance are being transferred to commercial banks for immediate processing via the Your Salary Instantly system, with about 1.75 million of 2.2 million public employees registered (79%) ([source, 2026-09-28](https://cbl.gov.ly/en/the-central-bank-of-libya-announces-the-commencement-of-september-salary-payments-through-the-your-salary-instantly-system/)).
-
-### Malawi: 3 Established
-
-A government programme paid people digitally in 2026; a second main stream is not known.
-
-- The Ministry of Gender says TNM Mpamba mobile money is disbursing about K6 billion in social cash transfers to over 27,760 beneficiaries in Mangochi District ([source, 2026-04-30](https://www.malawivoice.com/2026/05/01/gender-ministry-hails-tnm-mpamba-for-transforming-social-cash-transfers-in-mangochi/)).
-- During April 2024 to March 2025, 95,520 Social Cash Transfer Programme and 195,520 public works beneficiaries in 10 World Bank-funded districts were enrolled on e-payments and received MWK 4.57 billion and MWK 21.08 billion in e-wallets, per the World Bank aide memoire citing NLGFC ([source, 2025-03](https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt)).
 
 ### Mali: 3 Established
 

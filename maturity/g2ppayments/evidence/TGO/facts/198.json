@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The deck says the Novissi programme, launched on 8 April 2020, paid more than 600,000 informal workers monthly transfers via mobile money, onboarded by USSD.",
+   "as_of": "2020-04-08",
+   "date_precision": "day",
+   "system": "Novissi",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

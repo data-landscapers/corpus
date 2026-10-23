@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,g2p,payment,coverage,inservice,2026-08-22,ZMB-001,,
+ZMB,g2p,payment,coverage,inservice,2026-08-22,ZMB-001,ZMB-002=underway,
 ZMB,g2p,streams,coverage,,,,,nothing held
 ZMB,g2p,linked,coverage,,,,,nothing held

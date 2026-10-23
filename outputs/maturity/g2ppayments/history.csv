@@ -23,3 +23,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SSD,dpi.pay--g2p-functionality,review,no evidence,2,SSD-001;SSD-002,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,SYC,dpi.pay--g2p-functionality,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,dpi.pay--g2p-functionality,fact,no evidence,3,ZAF-002;ZAF-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-23,MWI,dpi.pay--g2p-functionality,fact,3,5,MWI-003;MWI-001,"Malawi 2025 ID4Africa deck: NRB verifies social protection G2P beneficiaries against the national ID; linked to ID, so 3 to 5"

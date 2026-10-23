@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Smart Zambia Institute's procurement notice says the Digital Zambia Acceleration Project will support upgrading ZamPay from person-to-government payments into an integrated government-to-people (G2P) platform.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "ZamPay",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZamPay",
+   "country_label": "Zambia",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Smart Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

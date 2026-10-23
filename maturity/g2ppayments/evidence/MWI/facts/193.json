@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The deck says the NRB provides beneficiary verification for social protection G2P programmes and maps digital identities to accounts and mobile wallets.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRB beneficiary verification",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
