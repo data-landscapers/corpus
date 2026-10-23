@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-10-kfw-cmr-2026-sigit-tax-duty-management-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGIT",
+   "country_label": "SIGIT",
+   "class": "other",
+   "platform": "",
+   "owner": "Directorate General of Taxation",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGIT is a tax and duty management system contracted for the tax directorate; the document does not say it takes electronic filing or payment."
+}

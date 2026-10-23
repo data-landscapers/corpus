@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-08-gha-ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-service",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Vice President Bawumia listed the filing of tax returns among the services reachable through the CADIS app launched on 7 October 2024, without saying tax can be paid there.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "CitizenApp Data Interoperability System (CADIS)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

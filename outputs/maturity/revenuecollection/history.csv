@@ -32,3 +32,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TUN,dpi.pay--revenue-collection,fact,3,3,TUN-002;TUN-001,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,ZAF,dpi.pay--revenue-collection,review,no evidence,3,ZAF-001,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,dpi.pay--revenue-collection,fact,no evidence,3,ZWE-002;ZWE-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
+2026-10-23,GHA,dpi.pay--revenue-collection,fact,unplaced,2,GHA-003,Stage 4c: CitizenApp launch story (Oct 2024) lists tax-return filing; e-filing announced sets stage 2.

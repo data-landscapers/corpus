@@ -23,9 +23,9 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 | 5 Leading | 6 |
 | 4 Operating | 1 |
 | 3 Established | 37 |
-| 2 Nascent | 6 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
+| Unplaced | 1 |
 | No evidence | 2 |
 
 ## Countries
@@ -347,6 +347,12 @@ Electronic payment of taxes or fees was under way in 2025; none in service is on
 
 - The World Bank committed US$20m in 2025 to the Djibouti Economic and Financial Governance Project, which includes tax administration system modernization and sets a PDO target of 70% tax e-filing adoption by December 2029 (ITAS indicator at 0% as of the January 2026 review) ([source, 2025](https://projects.worldbank.org/en/projects-operations/project-detail/P180696)).
 
+### Ghana: 2 Nascent
+
+Filing tax returns through a government app was announced in 2024; whether taxes are paid electronically now is not known.
+
+- Vice President Bawumia listed the filing of tax returns among the services reachable through the CADIS app launched on 7 October 2024, without saying tax can be paid there ([source, 2024-10-07](https://www.biometricupdate.com/202410/ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-services)).
+
 ### Guinea-Bissau: 2 Nascent
 
 Electronic payment of taxes or fees was under way in 2026; none in service is on record.
@@ -359,12 +365,6 @@ Electronic payment of taxes or fees was under way in 2026; none in service is on
 
 - The Malawi Police Service introduced an electronic payment system for traffic fines, scheduled to become operational at Police Headquarters and the six police regions from the week of 4 September 2026, payable through commercial banks ([source, 2026-09](https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2)).
 - UNCTAD's ASYCUDA Programme says the ASYCUDAWorld 4.3.3 upgrade aims at implementing e-payment for collection of Malawi Bureau of Standards fees ([source, 2023-10-20](https://asycuda.org/en/asycudaworld-upgrade-in-malawi/)).
-
-### Ghana: Unplaced
-
-Nothing held since 2023 names electronic payment of taxes or fees, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether taxes or fees can be paid electronically.
 
 ### Rwanda: Unplaced
 
