@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: MRT
-ledger_rows: 24
+ledger_rows: 25
 not_held: 3
-record: 84537e5236ea
+record: b0d366e0d780
 ---
 
 # News, Sep – Oct 2026
@@ -413,6 +413,20 @@ Mauritania's national solidarity agency launched Sanad, a single digital platfor
 **[تنظيم ورشة تكوينية حول نظام الإنذار المبكر الزراعي والهيدرولوجي القائم على تقنيات الذكاء الاصطناعي](https://www.ami.mr/archives/267828)** — Agence Mauritanienne d'Information (AMI), 8 September 2026
 
 Mauritania's national meteorological office ran a two-day workshop in Nouakchott from 8 September 2026 for regional administrators and its own staff on an AI-based agricultural and hydrological early warning system using the AGRIFEMIA platform. The training aims to improve forecasting of climate risks to agriculture and water resources.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Enemray Hassaniya language model</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Enemray: Toward Capable Language Models for Hassaniya](https://arxiv.org/abs/2609.14829)** — arXiv, 13 September 2026
+
+Hassaniya-centred model claims the best English-to-Hassaniya translation among open and proprietary models compared.
 
 </div>
 
