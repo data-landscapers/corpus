@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: TGO
 ledger_rows: 59
 not_held: 17
-record: 9bd8bd8884fe
+record: 327d4fc332ba
 ---
 
 # News, Sep – Oct 2026
@@ -851,6 +851,14 @@ The UN Development Programme in Togo sought an international consultant to write
 **[Togo AI Lab Seeks Technical Lead for Public-Sector AI Projects](https://www.togofirst.com/en/itc/1009-20017-togo-ai-lab-seeks-technical-lead-for-public-sector-ai-projects)** — Togo First, 10 September 2026
 
 Togo's AI laboratory is recruiting a technical lead for public-sector artificial intelligence projects, on a renewable one-year contract in Lome with applications open to 2 October. The lab is run by the public service efficiency and digital transformation ministry with a research centre at a United States university, and the role reaches agriculture, environment and local languages.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Et si l'intelligence artificielle comprenait enfin nos langues locales ?](https://www.undp.org/fr/togo/actualites/et-si-lintelligence-artificielle-comprenait-enfin-nos-langues-locales)** — PNUD Togo, 5 October 2026
+
+UNDP backs a GPU 'supercomputer' for the Togo AI Lab to train Kabiye, Ewe and Moba models.
 
 </div>
 
