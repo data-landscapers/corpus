@@ -41,12 +41,18 @@ def check(name: str, got, want) -> None:
 
 
 HEAD = ("---\ntype: log\n---\n\n# Messages for Bill\n\n"
-        "*(Pointer to `CLAUDE.md` -> *Be decisive*.)*\n\n"
+        "*(Pointer to `CLAUDE.md` -> *Be decisive*. Next message takes **9999**.)*\n\n"
         + lm.MARKER + "\n\n")
+
+_n = iter(range(1, 9999))
 
 
 def block(date: str = "2026-09-18", body: str = "- Something happened.") -> str:
-    return f"## {date} 12:40 · review\n\n{body}\n\n"
+    return f"## {next(_n)} · {date} 12:40 · review\n\n{body}\n\n"
+
+
+def blocks(n: int) -> str:
+    return "".join(block() for _ in range(n))
 
 
 tmp = Path(tempfile.mkdtemp(prefix="lint-messages-"))
@@ -71,9 +77,9 @@ try:
     # ---- no block cap; the word cap, which shares the parser ----------------
 
     print("the caps")
-    check("five blocks pass", run(block() * 5)[0], 0)
-    check("twelve pass too: there is no block cap", run(block() * 12)[0], 0)
-    check("and the message gives the count", "12 open block(s)" in run(block() * 12)[1], True)
+    check("five blocks pass", run(blocks(5))[0], 0)
+    check("twelve pass too: there is no block cap", run(blocks(12))[0], 0)
+    check("and the message gives the count", "12 open block(s)" in run(blocks(12))[1], True)
     check("eighty words pass", run(block(body="word " * 80))[0], 0)
     check("eighty-one do not", run(block(body="word " * 81))[0], 1)
     check("a block older than the word cap is reported, not failed",
@@ -85,7 +91,7 @@ try:
 
     print("\na stuck deploy")
     DEPLOY = "## 2026-10-02 08:10 · deploy\n\n- Run 7 queued for 9h42m.\n\n"
-    code, text = run(block() * 6 + DEPLOY)
+    code, text = run(blocks(6) + DEPLOY)
     check("blocks and a deploy block pass", code, 0)
     code, text = run(DEPLOY * 2)
     check("two deploy blocks fail", code, 1)
@@ -93,14 +99,23 @@ try:
     check("the word cap still binds it",
           run("## 2026-10-02 08:10 · deploy\n\n" + "word " * 81 + "\n\n")[0], 1)
     check("a job merely starting 'deploy' is not a deploy block",
-          run(DEPLOY + "## 2026-10-02 08:10 · deploy notes\n\n- Text.\n\n")[0], 0)
+          run(DEPLOY + "## 7000 · 2026-10-02 08:10 · deploy notes\n\n- Text.\n\n")[0], 0)
+
+    # ---- numbered, once each -------------------------------------------------
+
+    print("\nnumbers")
+    check("a block with no number fails",
+          run("## 2026-09-18 12:40 · review\n\n- Text.\n\n")[0], 1)
+    check("a number used twice fails",
+          run("## 3 · 2026-09-18 12:40 · review\n\n- A.\n\n## 3 · 2026-09-18 12:41 · review\n\n- B.\n\n")[0], 1)
+    check("the deploy block goes unnumbered", run(DEPLOY)[0], 0)
 
     # ---- struck, not gone ---------------------------------------------------
 
     print("\na block annotated as settled instead of deleted")
     STRUCK = [
-        ("a struck-through heading", "## ~~2026-09-18 12:40 · review~~\n\n- Text.\n\n"),
-        ("an x-prefixed heading", "## x 2026-09-18 12:40 · review\n\n- Text.\n\n"),
+        ("a struck-through heading", "## ~~1 · 2026-09-18 12:40 · review~~\n\n- Text.\n\n"),
+        ("an x-prefixed heading", "## x 1 · 2026-09-18 12:40 · review\n\n- Text.\n\n"),
         ("a bold Settled line", block(body="- Text.\n\n**Settled 2026-09-20.**")),
         ("a bold Closed line", block(body="- Text.\n\n**Closed:** Bill ruled.")),
         ("a struck-through bullet", block(body="- ~~Text, now dealt with.~~")),
@@ -114,11 +129,11 @@ try:
     print("\nand the same block, actually gone")
     check("nothing left to count", run("")[0], 0)
     check("the count is zero", "0 open block(s)" in run("")[1], True)
-    annotated = block() * 5 + block(body="- Text.\n\n**Settled 2026-09-20.**")
+    annotated = blocks(5) + block(body="- Text.\n\n**Settled 2026-09-20.**")
     code, text = run(annotated)
     check("an annotated block among open ones is named", "is annotated as settled, not struck" in text, True)
     check("and fails the run", code, 1)
-    check("deleted instead, the rest are clean", run(block() * 5)[0], 0)
+    check("deleted instead, the rest are clean", run(blocks(5))[0], 0)
 
     print("\nwhat must not fire")
     SAFE = [

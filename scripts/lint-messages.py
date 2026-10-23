@@ -15,6 +15,10 @@ file, and what is owed him goes in it. What still binds:
 - **A struck block is gone, not annotated.** The run that settles a block's subject
   deletes the block in the same commit; a block edited to say it is settled still reads
   as open to the next run.
+- **Every block carries a number, and a number is never reused** *(Bill, 2026-10-23)*:
+  `## 12 · 2026-10-23 13:32 · job`. Bill replies by number. The preamble's *Next message
+  takes **N*** issues them, as the notes' counters do; a closed number stays retired.
+  The `· deploy` block is a state, not a message, and goes unnumbered.
 - **At most one `· deploy` block.** A stuck deploy is a state, not a history: the newer
   replaces the older; `scripts/deploy-state.py` exit 0 is what settles it.
 
@@ -53,10 +57,11 @@ MARKER = "<!-- newest first: a new block goes directly below this line -->"
 BLOCK_WORD_CAP = 80
 CAP_FROM = dt.date(2026, 8, 28)
 
-HEADING = re.compile(r"^## (\d{4}-\d{2}-\d{2})")
+HEADING = re.compile(r"^## (?:(\d+) · )?(\d{4}-\d{2}-\d{2})")
+NEXT = re.compile(r"Next message takes \*\*(\d+)\*\*")
 ANY_HEADING = re.compile(r"^## ")
 # `## 2026-10-02 08:10 · deploy` — a state, so at most one is open.
-DEPLOY_HEADING = re.compile(r"^## \d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})? · deploy\s*$")
+DEPLOY_HEADING = re.compile(r"^## (?:\d+ · )?\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})? · deploy\s*$")
 
 # **What a struck-but-present block looks like.** Two shapes, both of them an edit made
 # instead of a deletion: a heading struck through or prefixed out of its dated form, and a
@@ -89,7 +94,7 @@ def blocks(text: str) -> list[tuple[str, dt.date | None, int, list[str]]]:
             heading = line.strip()
             m = HEADING.match(line)
             try:
-                date = dt.date.fromisoformat(m.group(1)) if m else None
+                date = dt.date.fromisoformat(m.group(2)) if m else None
             except ValueError:
                 date = None
             words, struck = 0, []
@@ -124,6 +129,29 @@ def main() -> int:
     failed = False
 
     deploys = sum(1 for heading, *_ in found if DEPLOY_HEADING.match(heading))
+
+    numbers = []
+    for heading, *_ in found:
+        if DEPLOY_HEADING.match(heading):
+            continue
+        m = HEADING.match(heading)
+        if not m or not m.group(1):
+            failed = True
+            print(f"lint-messages: '{heading}' carries no number. Take the preamble's "
+                  f"'Next message takes **N**', write it as '## N · date · job', and "
+                  f"increment the counter.")
+        else:
+            numbers.append(int(m.group(1)))
+    dupes = sorted({n for n in numbers if numbers.count(n) > 1})
+    if dupes:
+        failed = True
+        print(f"lint-messages: message number(s) {dupes} used twice. A number is issued "
+              f"once and never reused.")
+    nxt = NEXT.search(text.split(MARKER, 1)[0])
+    if numbers and (not nxt or int(nxt.group(1)) <= max(numbers)):
+        failed = True
+        print(f"lint-messages: the preamble's 'Next message takes **N**' must exceed the "
+              f"highest number in use ({max(numbers)}).")
 
     if deploys > 1:
         failed = True
