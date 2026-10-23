@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-14-gha-bawumia-launches-ghana-card-number-at-birth",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Vice President Bawumia launched the Ghana Card number at birth system, in which a Ghana Card number is generated for the baby when a health-facility birth is registered, as stated at the 14 March 2024 launch.",
+   "as_of": "2024-03-14",
+   "date_precision": "day",
+   "system": "Ghana Card number at birth system",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

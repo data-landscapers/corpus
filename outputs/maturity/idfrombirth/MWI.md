@@ -2,7 +2,7 @@
 
 ## Digital id from birth
 
-**Number given at birth.** [Registration team lead Emmanuel Mkambankhani says an ID number is generated for a child when a baby is born, the same number printed on the card at 16](<https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/>). [The Principal Secretary says children under 16 get birth registration certificates with a unique identification number, over three million so far](<https://mwnation.com/nrb-under-scrutiny/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Number given at birth.** [Registration team lead Emmanuel Mkambankhani says an ID number is generated for a child when a baby is born, the same number printed on the card at 16](<https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/>). [The Principal Secretary says children under 16 get birth registration certificates with a unique identification number, over three million so far](<https://mwnation.com/nrb-under-scrutiny/>). [The National Registration Bureau reports successful registration of 3.5 million births with unique identifiers](<https://www.id4africa.com/2025/files/PS1-S1-5-Malawi-final.pdf>).
 
 **Given nationally.** No source held since October 2023 says every registered birth across the country receives the number. The nearest held fact: [the one given above](<https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/>).
 

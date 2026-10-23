@@ -2,7 +2,7 @@
 
 ## Digital id from birth
 
-**Number given at birth.** [An ATPE opinion piece says TASDJIL, from Technidev and ANATS, attributes a National Identification Number (NNI) to children when births are registered at the Koukou Angarana hospital desk](<https://www.atpe.td/etat-civil-au-tchad-des-reformes-pour-les-enfants-non-enregistres/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Number given at birth.** [An ATPE opinion piece says TASDJIL, from Technidev and ANATS, attributes a National Identification Number (NNI) to children when births are registered at the Koukou Angarana hospital desk](<https://www.atpe.td/etat-civil-au-tchad-des-reformes-pour-les-enfants-non-enregistres/>). [Tchadinfos says that under TASDJIL a child's new birth certificate contains a national identification number (NNI), with registration desks in more than 50 maternity units and the aim of covering all health facilities; older certificates carry no NNI](<https://tchadinfos.com/2023/12/10/societe-la-digitalisation-des-actes-de-naissance-une-transformation-cruciale-pour-letat-civil-au-tchad/>).
 
 **Given nationally.** No source held since October 2023 says every registered birth across the country receives the number. The nearest held fact: [the one given above](<https://www.atpe.td/etat-civil-au-tchad-des-reformes-pour-les-enfants-non-enregistres/>).
 

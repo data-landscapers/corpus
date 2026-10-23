@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-tanzania-digital-identity-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "NIDA says children's registration through the Jamii Number, integrating birth registration, is a presidential directive and a priority for 2026-2029, with children's registration deferred so far.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Jamii Number",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

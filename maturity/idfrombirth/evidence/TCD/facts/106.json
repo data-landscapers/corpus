@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-10-tcd-societe-la-digitalisation-des-actes-de-naissance-une-transformation-cr",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Tchadinfos says that under TASDJIL a child's new birth certificate contains a national identification number (NNI), with registration desks in more than 50 maternity units and the aim of covering all health facilities; older certificates carry no NNI.",
+   "as_of": "2023-12-10",
+   "date_precision": "day",
+   "system": "TASDJIL / NNI",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

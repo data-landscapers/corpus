@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mwi-national-registration-bureau-evolution-of-the-national-registration-bu",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The National Registration Bureau reports successful registration of 3.5 million births with unique identifiers.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NRIS",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

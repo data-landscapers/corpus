@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-18-ago-ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplif",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The Justice Ministry's Simplifica initiative, presented by Secretary of State Osvaldo Amaro, continues with issuing the identity card (BI) right after birth.",
+   "as_of": "2025-09-18",
+   "date_precision": "day",
+   "system": "Simplifica",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

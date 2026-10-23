@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-18-ken-nation-birth-e-notification-maisha-number",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "PS Belio Kipsang said all children will be issued a Unique Personal Identifier (Maisha Number) at birth, kept for life and becoming the national ID card number at 18, through an e-notification system that is built and to be rolled out soon.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "Maisha Number (Unique Personal Identifier)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

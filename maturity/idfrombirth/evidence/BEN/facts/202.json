@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-08-ben-enregistrement-des-naissances-au-benin-le-guichet-unique-de-l-anip-fai",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Triomphe Mag, citing ANIP's report of 24 February 2026, says that in the ten pilot health facilities running since 20 August 2025 parents can receive the child's NPI by SMS in under 48 hours after the birth is registered.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "NPI",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NPI",
+   "country_label": "Numéro Personnel d'Identification",
+   "class": "birthnumber",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

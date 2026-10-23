@@ -1,6 +1,6 @@
 # Digital id from birth: digital id from birth
 
-*As at 2026-09-30.*
+*As at 2026-10-23.*
 
 ## The norm
 
@@ -21,14 +21,22 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 3 |
+| 4 Operating | 4 |
 | 3 Established | 8 |
 | 2 Nascent | 9 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
-| No evidence | 29 |
+| No evidence | 28 |
 
 ## Countries
+
+### Benin: 4 Operating
+
+Every registered birth was given a unique ID number in 2026; complete registration is not known.
+
+- ANIP's May 2026 deck says that every birth declaration since 1 April 2021 is made to the RNPP and gives the child an NPI and an entry in the national civil status file ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
+- ANIP's May 2026 deck says that for every birth since 1 April 2021 the child's NPI is obtained by declaring the birth to the RNPP, with the birth certificate generated automatically ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
+- Triomphe Mag, citing ANIP's report of 24 February 2026, says that in the ten pilot health facilities running since 20 August 2025 parents can receive the child's NPI by SMS in under 48 hours after the birth is registered ([source, 2026-02-20](https://www.triomphemag.com/enregistrement-des-naissances-au-benin-le-guichet-unique-de-lanip-fait-bondir-le-taux-de-2195-a-7656-en-six-mois/)).
 
 ### Botswana: 4 Operating
 
@@ -100,13 +108,6 @@ Children were given a unique ID number at birth registration in 2026, at least i
 - NIRA says the NIN is issued automatically once a birth notification is made and certification is immediate, with no biometrics needed for a child 9 months or under; deploying crvs.nsis.nira.go.ug for birth registration and instant NIN generation is still a next step ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-uganda.pdf)).
 - NIRA says about 636,000 children have been enrolled and it has registration centres in most major hospitals where parents register newborns ([source, 2026-01](https://www.monitor.co.ug/uganda/news/national/21-million-ugandans-transferred-to-new-nira-system-as-registration-drive-intensifies-5318862)).
 
-### Benin: 2 Nascent
-
-A unique number at birth was provided for or piloted in 2026; none given in service is on record.
-
-- ANIP director Aristide Adjinacou says the single-desk pilot in ten health facilities registered over 13,000 births in six months (over 76%), with the aim that every child receive a personal identification number (NPI) and birth certificate in the first days of life ([source, 2026-02](https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale)).
-- Benin piloted from October 2025 a digital civil registration that issues a newborn a Personal Identification Number on registration, supported by UNICEF and WURI ([source, 2025-10](https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms)).
-
 ### Burundi: 2 Nascent
 
 A unique number at birth was provided for or piloted in 2024; none given in service is on record.
@@ -123,8 +124,15 @@ A unique number at birth was provided for or piloted in 2024; none given in serv
 
 A unique number at birth was provided for or piloted in 2026; none given in service is on record.
 
+- PS Belio Kipsang said all children will be issued a Unique Personal Identifier (Maisha Number) at birth, kept for life and becoming the national ID card number at 18, through an e-notification system that is built and to be rolled out soon ([source, 2026-05-18](https://nation.africa/kenya/news/inside-new-reforms-to-curb-birth-certificate-fraud-5463104)).
 - Kenya's Civil Registration Services list as next step the adoption of a Unique Personal Identifier, a lifelong identifier assigned at birth ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf)).
 - The Interior Secretary says the coming system will give every Kenyan registered at birth a Unique Personal Identifier, serving as the birth certificate number and later the national ID identifier at 18 ([source, 2025-02](https://www.biometricupdate.com/202502/kenyas-birth-registration-reforms-set-the-stage-for-automatic-national-id-issuance)).
+
+### Madagascar: 2 Nascent
+
+A unique number at birth was provided for or piloted in 2025; none given in service is on record.
+
+- Newsmada reports the Cneci project aims to deliver birth certificates containing a unique authentic biometric identification number ([source, 2025-01](https://newsmada.com/2025/01/20/etat-civil-et-identite-nationale-lancement-des-activites-du-cneci/)).
 
 ### Morocco: 2 Nascent
 
@@ -268,12 +276,6 @@ Nothing held names a unique number given at birth or says there is none, so no s
 Not established: Nothing held says whether a birth is given an identity number.
 
 ### Libya: No evidence
-
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
-
-Not established: Nothing held says whether a birth is given an identity number.
-
-### Madagascar: No evidence
 
 Nothing held names a unique number given at birth or says there is none, so no stage is set.
 

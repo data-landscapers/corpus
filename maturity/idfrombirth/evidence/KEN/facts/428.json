@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-09-ken-digital-identity-id-roll-out-on-course-ps",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The Principal Secretary says the Maisha number is being given to newborns and will run across their lives, used for school, ID, NSSF and NHIF and shown on the death certificate.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "Maisha number",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

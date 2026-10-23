@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "ANIP says that for births from 1 April 2021 the child's NPI is obtained by declaring the birth to the RNPP, with the birth certificate generated automatically.",
+   "as_of": "2021-04-01",
+   "date_precision": "day",
+   "system": "NPI / RNPP",
+   "class": "birthnumber"
+  },
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "national",
+   "value": "national",
+   "fact": "ANIP says that for all births from 1 April 2021 every birth declaration is made to the RNPP and gives the child an NPI and an entry in the civil status file.",
+   "as_of": "2021-04-01",
+   "date_precision": "day",
+   "system": "NPI / RNPP",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

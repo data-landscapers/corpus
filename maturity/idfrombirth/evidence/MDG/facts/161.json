@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-20-mdg-newsmada-cneci-2025-activities-launch",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Newsmada reports the Cneci project aims to deliver birth certificates containing a unique authentic biometric identification number.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Cneci",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

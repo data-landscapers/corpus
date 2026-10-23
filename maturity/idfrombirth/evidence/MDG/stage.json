@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "no evidence",
-   "number": "",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether a birth is given an identity number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "2",
+      "number": "underway",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001",
+      "gaps": "No source held says a number is given at birth registration in any part of the country.",
+      "note": "Reassessed on arrival: the Cneci programme aims to deliver birth certificates carrying a unique identification number, which is stage 2. Nothing held says one is given yet.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }
