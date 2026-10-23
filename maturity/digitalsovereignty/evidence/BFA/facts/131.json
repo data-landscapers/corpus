@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-bfa-burkina-faso-modernisation-de-l-administration-publique-le-premier-min",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The article says the FasoSign keys, certificates and data stay hosted on national territory under the control of Burkinabe engineers.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "FasoSign",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

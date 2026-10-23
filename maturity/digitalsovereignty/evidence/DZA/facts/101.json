@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-17-dza-lancement-du-premier-centre-de-calcul-haute-performance-dedie-a-l-ia-e",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Radio Algerienne reports that the AI computing centre and the cloud launched by the High Commission for Digitalisation are presented as steps toward digital sovereignty by reducing dependence on foreign infrastructure.",
+   "as_of": "2025-03-16",
+   "date_precision": "day",
+   "system": "cloud of the High Commission for Digitalisation",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

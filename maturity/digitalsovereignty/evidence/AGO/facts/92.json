@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-03-ago-a-confianca-digital-em-angola-como-a-icp-angola-vai-mudar-o-dia-a-dia",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "INFOSI's director-general says the national PKI root is being installed in the newly inaugurated Government Cloud at Camama, creating a sovereign base controlled in national territory.",
+   "as_of": "2026-06-03",
+   "date_precision": "day",
+   "system": "Cloud do Governo",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
