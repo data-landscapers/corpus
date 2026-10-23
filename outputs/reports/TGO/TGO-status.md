@@ -1,6 +1,6 @@
 ---
 title: Togo: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: TGO
 region: XWA
 built_by: STATUS-INIT
@@ -133,7 +133,7 @@ Far below, [phase 2 of Togo's DHIS2 education system was financed at 71,305,244 
 That analytical layer costs under one per cent of the sector money beside it, and less than convening the review.
 
 <!-- derived -->
-Nine digital-sector commitments are on record from 2022 to 2026, windows running out to 2034, regional operations excluded. World Bank Group entities are the largest financiers by a distance, German public finance next. Connectivity and public administration absorb almost all of it; skills training takes about one per cent. Three regional operations reach Togo, and none states a Togo-specific allocation.
+Ten digital-sector commitments are on record from 2022 to 2026, windows running out to 2034, regional operations excluded. World Bank Group entities are the largest financiers by a distance, German public finance next. Connectivity and public administration absorb almost all of it; skills training takes about one per cent. Three regional operations reach Togo, and none states a Togo-specific allocation.
 
 ## ICT Infrastructure
 
