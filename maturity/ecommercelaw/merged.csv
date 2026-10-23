@@ -1,11 +1,13 @@
 iso3,source_slug,read,merged_on
 AGO,2011-07-22-decreto-presidencial-202-11-regulamento-das-tecnologias-e-servicos-da-sociedade-da-informacao,,2026-10-19
 AGO,2025-06-30-infra-estrutura-de-chaves-publicas-e-carimbo-do-tempo,,2026-10-19
+AGO,2025-09-26-ago-missao-tecnica-reforca-implementacao-da-identidade-digital-e-assinatur,,2026-10-23
 AGO,2025-12-29-decreto-presidencial-271-25-regulamento-geral-comunicacoes-electronicas-texto-integral,,2026-10-19
 AGO,2025-12-29-decreto-presidencial-271-25-regulamento-geral-das-comunicacoes-electronicas,,2026-10-19
 AGO,2026-01-08-decreto-presidencial-11-26-tramitacao-electronica-proteccao-social-obrigatoria,,2026-10-19
 AGO,2026-03-19-proposta-de-lei-das-startups-aprovada-na-generalidade,,2026-10-19
 AGO,2026-03-23-angola-passes-landmark-start-up-law,,2026-10-19
+AGO,2026-06-03-ago-a-confianca-digital-em-angola-como-a-icp-angola-vai-mudar-o-dia-a-dia,,2026-10-23
 AGO,2026-07-30-angola-parliament-electronic-signature-legislative-authorisation,,2026-10-19
 AGO,2026-07-30-angop-assinatura-electronica-autorizacao-legislativa,,2026-10-19
 AGO,2026-10-08-ago-pti-lourenco-regime-assinatura-electronica,,2026-10-19
@@ -15,7 +17,9 @@ BDI,2026-06-26-arct-declaration-conformite-commerce-electronique,,2026-10-19
 BEN,2015-03-20-loi-2015-07-code-information-communication,,2026-10-19
 BEN,2018-04-20-loi-2017-20-code-du-numerique,,2026-10-19
 BEN,2024-11-08-ben-beninwebtv-atelier-reforme-code-numerique,,2026-10-19
+BEN,2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e,,2026-10-23
 BEN,2025-07-02-ben-decret-2025-363-archivage-electronique,,2026-10-20
+BEN,2025-07-07-ben-l-asin-signe-plusieurs-accords-de-partenariat-pour-accelerer-la-transf,,2026-10-23
 BEN,"2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals",,2026-10-19
 BEN,2026-05-15-ben-mfwa-kpeidja-prosecution,,2026-10-19
 BEN,2026-09-01-ben-cpj-letter-to-president,,2026-10-19
@@ -25,17 +29,21 @@ BFA,2024-10-04-bfa-digitalmagazine-pki-national-anssi,,2026-10-19
 BFA,2025-02-18-bfa-jumelages-sylvie-2-launch,,2026-10-19
 BFA,2025-05-03-bfa-cybastion-esignature-training,,2026-10-19
 BFA,2026-09-14-burkina-faso-administration-signature-electronique-wearetech,,2026-10-19
+BFA,2026-09-15-bfa-burkina-faso-modernisation-de-l-administration-publique-le-premier-min,,2026-10-23
 BFA,2026-09-15-bfa-lefaso-administration-publique-faso-sign-pour-accelerer-la-dematerialisation,,2026-10-19
 BFA,2026-09-16-bfa-libreinfo-fasosign-lancement-signature-electronique,,2026-10-19
 BWA,2014-05-14-bwa-electronic-communications-transactions-act,,2026-10-19
 BWA,2026-03-23-botswana-tax-system-faces-the-internet,,2026-10-19
 BWA,2026-06-02-burs-looks-to-tax-global-digital-services-providers,,2026-10-19
 BWA,2026-07-13-botswana-expands-digital-tax-net,,2026-10-19
+BWA,2026-07-30-bwa-bank-gaborone-self-onboarding-omang-ekyc,,2026-10-23
 CAF,2022-01-11-rca-loi-22-002-transactions-electroniques,,2026-10-19
 CAF,2024-02-21-caf-loi-24-002-cybersecurite-cybercriminalite,,2026-10-19
 CIV,2014-03-12-civ-decret-2014-106-ecrit-signature-electronique,,2026-10-19
 CIV,2025-12-19-civ-lf-2026-annexe-1-annexe-fiscale-companion,,2026-10-19
+CIV,2026-01-01-civ-artci-consultation-02dcn-2026-normes-services-de-confiance,,2026-10-23
 CIV,2026-03-13-civ-afor-signature-electronique-certificats-fonciers,,2026-10-19
+CIV,2026-07-24-civ-anssi-pki-racine-nationale-mise-en-service,,2026-10-23
 CIV,2026-07-25-cote-divoire-anssi-national-pki-commissioned,,2026-10-19
 CIV,2026-07-25-cote-divoire-anssi-pki-nationale,,2026-10-19
 CIV,2026-07-28-cote-divoire-launches-national-pki,,2026-10-19
@@ -52,6 +60,8 @@ CMR,2026-10-16-cmr-leconomie-e-gov-africa-summit-aigle-ia,,2026-10-19
 COD,2018-07-09-rdc-loi-18-019-systemes-paiement,,2026-10-19
 COD,2023-03-13-rdc-ordonnance-loi-23-010-code-numerique,,2026-10-19
 COD,2025-01-01-world-bank-cod-2025-drc-digital-transformation-bw11,,2026-10-19
+COD,2025-06-21-cod-activites-et-services-numeriques-en-rdc-l-arptc-lance-l-operation-d-id,,2026-10-23
+COD,2025-10-10-cod-etude-de-faisabilite-developpement-d-une-feuille-de-route-pour-la-mise,,2026-10-23
 COD,2026-03-11-rdc-arrete-004-2026-autorisations-services-numeriques,,2026-10-19
 COD,2026-03-16-rdc-reseau-responsables-protection-des-donnees-wearetech,,2026-10-19
 COD,2026-03-17-rdc-arrete-004-2026-autorisation-activites-numeriques,,2026-10-19
@@ -82,7 +92,10 @@ CPV,2026-02-16-national-5g-strategy-digital-nation-techafricanews,,2026-10-19
 DJI,2025-07-01 Djibouti Digital Code adopted by National Assembly,,2026-10-19
 DJI,2025-07-02-digital-code-enacted-techafricanews,,2026-10-19
 DJI,2025-07-13-code-du-numerique-digital-code-explainer-lanation,,2026-10-19
+DJI,2025-12-17-dji-le-ministere-de-l-interieur-accelere-le-virage-de-l-identite-numerique,,2026-10-23
+DJI,2026-02-10-dji-djibouti-la-plateforme-mobile-id-une-couche-de-securite-des-informatio,,2026-10-23
 DJI,2026-07-23-lanation-carte-nationale-identite-biometrique,,2026-10-19
+DZA,2025-02-16-dza-lancement-des-services-de-certification-et-de-signature-electroniques,,2026-10-23
 DZA,2025-02-17-electronic-signatures-certification--wearetech,,2026-10-19
 DZA,2025-04-16-dza-dpa-digital-digest-algeria-2025,,2026-10-21
 DZA,2025-11-04-digital-trust-e-transactions-law--wearetech,,2026-10-19
@@ -101,6 +114,7 @@ EGY,2026-07-19-ahram-pm-presidential-directives-digital-transformation,,2026-10-
 EGY,2026-07-19-rabt-105-jiha-hukumiyya-242-khidma-mansat-misr-al-raqmiyya,,2026-10-19
 EGY,2026-08-10-egypt-digital-space-law-mp-bahi,,2026-10-19
 EGY,2026-08-26-egy-egypt-launches-biometric-verification-system-for-remote-digi,,2026-10-19
+EGY,2026-08-26-egy-masrtimes-mcit-launches-digital-identity-remote-mobile-services,,2026-10-23
 EGY,2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch,,2026-10-19
 EGY,2026-09-30-egy-arab-infosec-conference-trust-services-list,,2026-10-19
 EGY,2026-10-14-egy-itweb-idsc-workshop-digital-egypt-outcomes,,2026-10-19
@@ -167,6 +181,7 @@ LSO,2026-09-30-lso-itweb-electronic-transactions-bill-2026,,2026-10-19
 MAR,2018-01-01-adii-facilitation-dematerialisation-douanes,,2026-10-19
 MAR,2020-12-31-morocco-loi-43-20-services-confiance-transactions-electroniques,,2026-10-19
 MAR,2025-01-30-mar-telquel-dossier-judiciaire-electronique,,2026-10-19
+MAR,2025-03-03-mar-decision-n-2-psco-2025-portant-agrement-de-la-societe-damanesign-en-qu,,2026-10-23
 MAR,2025-12-31-morocco-igoc-2026-instruction-generale-texte,,2026-10-19
 MAR,2025-12-31-morocco-igoc-2026-publication,,2026-10-19
 MAR,2025-12-31-office-des-changes-igoc-2026-release,,2026-10-19
@@ -196,10 +211,14 @@ MDG,2026-09-05-newsmada-madagascar-cybersurveillance,,2026-10-19
 MDG,2026-09-17-mdg-lexpressmg-cybercriminalite-projet-loi-report,,2026-10-19
 MLI,2015-07-16-mali-loi-2015-036-protection-du-consommateur,,2026-10-19
 MLI,2016-05-27-mali-jo-2016-22-loi-2016-012-transactions-echanges-services-electroniques,,2026-10-19
+MLI,2023-12-06-mli-certification-et-signature-electronique-la-4eme-session-ordinaire-du-c,,2026-10-23
 MLI,2024-06-27-mli-mcenma-semaine-numerique-cloture-startup-act,,2026-10-19
 MLI,2025-11-26-mali-dgi-recettes-electroniques,,2026-10-19
+MLI,2026-02-13-mli-signature-electronique-une-etape-cle-vers-letat-numerique,,2026-10-23
 MLI,2026-05-08-mali-jo-2026-09-decision-amrtp-26-00074-credits-forfaits-internet,,2026-10-19
+MOZ,2025-01-14-moz-sistema-de-certificacao-digital-mocambique-registou-crescimento-na-ade,,2026-10-23
 MOZ,2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report,,2026-10-19
+MOZ,2025-07-04-moz-comite-gestor-do-sistema-de-certificacao-digital-de-mocambique-aprova,,2026-10-23
 MOZ,2025-11-13-moz-oeconomico-digitalizacao-7033-funcionarios-formados,,2026-10-19
 MOZ,2025-12-01-moz-mozambique-global-ai-ethics-and-governance-observatory,,2026-10-21
 MOZ,2025-12-09-world-bank-data-governance-mozambique-final,,2026-10-19
@@ -233,6 +252,7 @@ MUS,2026-10-05-mus-appleby-electronic-transactions-amendment-act-2026,,2026-10-1
 MUS,2026-10-08-mus-lexpress-atelier-maurice-meta-derives-numerique,,2026-10-19
 MWI,2016-11-04-malawi-electronic-transactions-and-cyber-security-act,,2026-10-19
 MWI,2024-02-20-mwi-digmap-etca-regulations-hybrid-consultation,,2026-10-19
+MWI,2024-02-27-mwi-government-engages-stakeholders-on-etca-regulations,,2026-10-23
 MWI,2025-08-19-mwi-techafricanews-macra-communications-act-comments,,2026-10-20
 MWI,2025-12-01-mwi-economic-fiscal-policy-statement-2026,,2026-10-19
 MWI,2026-04-10-malawi-competition-and-fair-trading-regulations-2026,,2026-10-19
@@ -268,6 +288,7 @@ NGA,2026-09-03-nimc-african-digital-trust-framework-gitex-techeconomy,,2026-10-1
 NGA,2026-10-15-ncc-survey-finds-gaps-in-licensees-readiness-for-internet-code,,2026-10-19
 RWA,2024-02-01-rwa-fosdem-typo3-collaborative-gov-websites,,2026-10-19
 RWA,2024-09-11-eac-igad-eardip-rollout-connectivity-access,,2026-10-19
+RWA,2024-09-19-rwa-risa-pki-service-integration-guidelines-for-developers,,2026-10-23
 RWA,2025-07-09-rdap-fast-track-2026-newtimes,,2026-10-19
 RWA,2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026,,2026-10-19
 RWA,2026-02-10 Why Africa should sequence not rush into AI,,2026-10-19
@@ -279,6 +300,7 @@ SDN,2026-08-05-sudan-reorganises-border-trade-and-adopts-baladna-for-foreign-tra
 SEN,2008-01-25-sen-viepublique-loi-2008-08-transactions-electroniques,,2026-10-19
 SEN,2008-06-30-sen-osiris-decret-2008-718-commerce-electronique,,2026-10-19
 SEN,2025-01-24-draft-law-media-regulator,,2026-10-19
+SEN,2025-05-01-sen-perspectives-du-senegal-sur-les-progres-realises,,2026-10-23
 SEN,2025-07-17-techafricanews-benin-asin-trust-services-agreements,,2026-10-19
 SEN,2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall,,2026-10-19
 SEN,2025-10-03-techafricanews-national-digital-council,,2026-10-19
@@ -288,6 +310,7 @@ SEN,2026-07-27-ucak-reseaux-sociaux-intelligence-artificielle-defis,,2026-10-19
 SEN,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty,,2026-10-19
 SEN,2026-09-14-dematerialisation-appel-cristallise-les-attentions-de-conakry,,2026-10-19
 SEN,2026-10-16-sen-arcop-appel-eprocurement-generalisation,,2026-10-19
+SEN,2026-10-20-sen-note-publique-identite-numerique-e-gouvernement,,2026-10-23
 SLE,2019-01-24-sierra-leone-electronic-transactions-bill-gazette-supplement,,2026-10-19
 SLE,2019-12-05-sierralii-record-electronic-transactions-act-2019,,2026-10-19
 SLE,2023-01-01-uneca-dtri-sierra-leone-country-profile,,2026-10-19
@@ -296,6 +319,7 @@ SLE,2026-08-03-koica-itc-sierra-leone-e-transactions-legal-framework,,2026-10-19
 SLE,2026-09-21-sle-truthmedia-ag-no-ai-specific-statute-unesco-riyadh,,2026-10-19
 SOM,2024-05-01-igad-cybersecurity-legal-harmonisation-tor,,2026-10-19
 SOM,2024-09-11-eac-igad-eardip-rollout-connectivity-access,,2026-10-19
+SOM,2025-08-17-som-somalia-launches-danabeysan-digital-signature-system-to-streamline-gov,,2026-10-23
 SOM,2026-06-30-world-bank-eardip-isr-seq7,,2026-10-19
 SOM,2026-08-19-sonna-somalia-chinese-tech-import-megawatt-analysis,,2026-10-19
 SOM,2026-10-21-som-moct-house-of-the-people-approves-digital-transactions-bill,,2026-10-22
@@ -317,6 +341,7 @@ SWZ,2026-08-19-times-eswatini-childrens-social-media-access,,2026-10-19
 SWZ,2026-09-10-times-eswatini-immigration-bill-vetting-system,,2026-10-19
 SWZ,2026-10-19-swz-senators-back-e5m-fines-10-year-jail-terms-for-critical-infrastructure,,2026-10-22
 SYC,2001-01-01-seychelles-electronic-transactions-act-2001,,2026-10-19
+SYC,2024-04-22-syc-wisekey-awarded-project-by-government-of-seychelles-to-deliver-seyid-a,,2026-10-23
 TCD,2025-12-26-tchad-loi-finances-2026,,2026-10-19
 TCD,2026-01-15-atpe-conseil-ordinaire-des-ministres-reforme-ansice,,2026-10-19
 TCD,2026-02-01-chad-direct-and-indirect-tax-changes-in-finance-law-2026,,2026-10-19
@@ -332,6 +357,8 @@ TGO,2023-07-19-tgo-jo-loi-2023-012-transactions-electroniques,,2026-10-19
 TGO,2025-01-25-tgo-commerce-concertation-commerce-electronique,,2026-10-19
 TGO,2025-06-04-tgo-rtg-code-du-numerique-cadre-ia,,2026-10-19
 TGO,2025-10-14-tgo-arcop-passation-electronique-e-gp-atelier,,2026-10-19
+TGO,2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza,,2026-10-23
+TGO,2026-02-01-tgo-certification-electronique,,2026-10-23
 TGO,2026-02-17-techcabal-semoa-bceao-licence,,2026-10-19
 TGO,2026-02-19-arcep-togo-decision-030-transparence-facturation-mobile,,2026-10-19
 TGO,2026-02-20-arcep-togo-changements-facturation-services-mobiles,,2026-10-19
@@ -344,6 +371,7 @@ TGO,2026-09-08-togo-conseil-ministres-commission-bancaire-umoa,,2026-10-19
 TGO,2026-09-22-tgo-togopresse-harc-regulation-numerique-createurs-contenus,,2026-10-19
 TUN,2000-08-09-tunisie-loi-2000-83-echanges-commerce-electroniques,,2026-10-19
 TUN,2020-06-10-tunisie-decret-loi-2020-31-interoperabilite-echange-electronique,,2026-10-19
+TUN,2024-06-18-tun-tunisie-nouvelle-application-e-houwiya-disponible-sur-l-app-store,,2026-10-23
 TUN,2025-05-23-tun-webdo-signature-contrat-electroniques-registre-foncier,,2026-10-19
 TUN,2026-05-01-tun-id4africa-iuc-country-playbook,,2026-10-19
 TUN,2026-09-21-tun-chourouk-onctad-strategie-tijara-iliktrunia,,2026-10-19
@@ -357,6 +385,7 @@ UGA,2024-01-01-ugpass-digital-authentication,,2026-10-19
 UGA,2025-06-19-nita-u-ugpass,,2026-10-19
 UGA,2025-06-19-uganda-urged-fast-track-crypto-reforms,,2026-10-19
 UGA,2025-08-28-nita-u-ugpass-ceo-breakfast,,2026-10-19
+UGA,2025-08-28-uga-govt-introduces-e-signatures-to-curb-fraud-in-public-offices,,2026-10-23
 UGA,2026-01-13-ucc-directive-suspension-of-internet-services,,2026-10-19
 UGA,2026-01-26 The cost of Uganda's internet shutdown,,2026-10-19
 UGA,2026-03-10-govt-ordered-table-directives-pre-election-shutdown,,2026-10-19
@@ -371,6 +400,9 @@ UGA,2026-10-16-uga-monitor-uganda-champions-au-single-digital-market,,2026-10-19
 UGA,2026-10-20-uga-ucc-tightens-licensing-rules-for-wi-fi-hotspot-operators,,2026-10-22
 ZAF,2026-06-18-finmark-trust-cross-border-dpi-sadc,,2026-10-19
 ZAF,2026-09-11-zaf-techcentral-digital-id-plumbing-behind-neighbours,,2026-10-19
+ZMB,2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice,,2026-10-23
+ZMB,2025-01-01-world-bank-zmb-2025-digital-zambia-acceleration-project-bw05,,2026-10-23
+ZMB,2025-01-21-zmb-zambia-issues-general-procurement-notice-for-digital-id-trust-services,,2026-10-23
 ZMB,2026-06-18-finmark-trust-cross-border-dpi-sadc,,2026-10-19
 ZMB,2026-09-07-zambia-npki-digital-trust,,2026-10-19
 ZMB,2026-09-30-gov-t-reviews-electronic-communications-and-transactions-act,,2026-10-19
