@@ -15,7 +15,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | 1 Absent | A dated statement that routine reporting has no digital entry at any level | | |
 | 2 Nascent | Hospitals only, or some districts; or a national rollout contracted or in preparation | Anywhere, or not stated | None, or pilot sites |
 | 3 Established | Any: a system keyed at district takes the clinics' reports | At the district, from clinics' paper forms | Facility entry in a minority, or not published |
-| 4 Operating | The primary tier, T3 or T4 | At the facility | More than half enter their own reports, on a share or a count with a denominator |
+| 4 Operating | The primary tier, T3 or T4 | At the facility | More than half enter their own reports, on a share or count of primary clinics alone |
 | 5 Leading | The primary tier | At the facility | 90 per cent or more, on a figure published within two years, with reporting completeness published |
 
 ## Countries by stage
@@ -23,24 +23,14 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 1 |
-| 3 Established | 45 |
+| 4 Operating | 0 |
+| 3 Established | 46 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 1 |
 
 ## Countries
-
-### Togo: 4 Operating
-
-96.5% of all health facilities entered complete reports into the national system in 2021, the ministry says; there is no separate figure for primary clinics.
-
-*Advancing; Community integrated.*
-
-- The health ministry's monitoring and evaluation plan for the PNDS 2023-2027, validated on 6 October 2023, requires each health facility to key its validated monthly or quarterly activity report (RMA/RTA) into DHIS2 before the 5th of the following month, the facility's SNIS respondent doing the entry, and to send the paper copy to the prefectoral health directorate (DPS) by the same date; it also sets the 20th as the deadline at DPS level for the reports to be entered in DHIS2 ([source, 2023-10-06](https://extranet.who.int/uhcpartnershiplivemonitoring/system/files/doc_attachments/Final_Plan%20de%20suivi%20%26%20%C3%A9valuation%20PNDS%202023-2027.pdf)).
-- The plan (validated 6 October 2023) names the facilities producing and keying SNIS reports as the peripheral care units (USP), where the facility head is the SNIS respondent, and the CHP, CHR and CHU hospitals, where a data or statistics officer is; it says the CHR and CHU data are taken into account by the health district in whose area they sit ([source, 2023-10-06](https://extranet.who.int/uhcpartnershiplivemonitoring/system/files/doc_attachments/Final_Plan%20de%20suivi%20%26%20%C3%A9valuation%20PNDS%202023-2027.pdf)).
-- The health ministry's plan gives the SNIS report completeness rate as 96.5% in 2021, defined as the number of health facilities that keyed a complete SNIS report into DHIS2 over the total number of health facilities due to key SNIS reports, sourced to the health statistics yearbook; it prints the rate only, without the counts, covers all facilities and not primary clinics alone, notes duplicate entries in hospital data as a known bias, and gives timeliness of 77.3% in 2021 ([source, 2021](https://extranet.who.int/uhcpartnershiplivemonitoring/system/files/doc_attachments/Final_Plan%20de%20suivi%20%26%20%C3%A9valuation%20PNDS%202023-2027.pdf)).
 
 ### Angola: 3 Established
 
@@ -181,9 +171,7 @@ Health zone offices enter facilities' paper reports into the national system (20
 
 ### Djibouti: 3 Established
 
-84% of all health facilities entered their own data in June 2025; it stays at stage 3 because no current plan or budget was found.
-
-*Externally run.*
+84% of all health facilities entered their own data in June 2025; with no figure for primary clinics alone, it stays at stage 3.
 
 - WHO's Djibouti country office, in its management response of 14 April 2025, lists as an action in progress the review and enhancement of the DHIS2 system as implemented at primary health care level, and says assessments have shown limitations in the data system including challenges in the use of DHIS2; it names the primary care level only, not individual tiers or a count of facilities ([source, 2025-04-14](https://cdn.who.int/media/docs/default-source/evaluation-office/management-response_evaluation-of-who-contribution-in-djibouti.pdf?download=true&sfvrsn=c96230e4_3)).
 - The World Bank's results table for the Health System Strengthening Project (P178033) records 84% of facilities with DHIS-2 data entry at the facility level at 30 June 2025, against an end target of 65% for May 2027; the share is of facilities, not of primary clinics alone, and no numerator or denominator is given ([source, 2025-06-30](https://documents1.worldbank.org/curated/en/099102225172035856/pdf/P178033-79193a4a-bd86-4d36-b863-cdbc43bde6c7.pdf)).
@@ -390,9 +378,9 @@ A 2023 ministry guide has health centres enter their monthly reports into the na
 
 ### Rwanda: 3 Established
 
-Every health facility enters its own reports (audit to 2023); it stays at stage 3 because no current plan or budget was found.
+Health facilities enter their own reports (audit to 2023), but whether health posts do is not known, so it stays at stage 3.
 
-*Externally run; Community integrated.*
+*Community integrated.*
 
 - The study's authors (University of Rwanda and Rwanda Biomedical Center) state that HMIS reports on immunisation indicators for October to December 2022 were held for all 520 primary health facilities in Rwanda and compared with e-Tracker data, 472 of the 520 showing 90 to 100 per cent consistency; the document does not say where the HMIS reports are keyed ([source, 2022-12](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full)).
 - The Global Fund's Inspector General states that the national health management information system (DHIS2) has been rolled out at all health facilities, and lists the network as referral, provincial and district hospitals, 505 health centres and 1,250 health posts; audit period July 2021 to December 2023 ([source, 2023-12](https://www.theglobalfund.org/media/15329/oig_gf-oig-24-020_report_en.pdf)).
@@ -472,6 +460,16 @@ Clinics report on paper, and council offices enter the figures into the national
 
 - The Ministry of Health's methodology for its 2024 annual statistics states that patient data is recorded at the point of care in HMIS registers and tally sheets, aggregated by the facility each month, and then entered into the DHIS2 platform at council level, for data covering January to December 2024 from 11,805 public and private health facilities ([source, 2024](https://www.moh.go.tz/storage/app/uploads/public/698/4e8/b7b/6984e8b7b067c606076637.pdf)).
 - The May 2019 guidelines describe MTUHA as collecting routine data from dispensaries, health centres and council hospitals through the councils, with regional referral hospitals supervised by the ministry, while national, zonal and specialised hospitals and private hospitals use different data collection platforms ([source, 2019-05](https://www.moh.go.tz/storage/app/uploads/public/661/fe3/71d/661fe371de96f490413146.pdf)).
+
+### Togo: 3 Established
+
+96.5% of all health facilities entered complete reports in 2021, the ministry says; with no figure for primary clinics alone, it stays at stage 3.
+
+*Advancing; Community integrated.*
+
+- The health ministry's monitoring and evaluation plan for the PNDS 2023-2027, validated on 6 October 2023, requires each health facility to key its validated monthly or quarterly activity report (RMA/RTA) into DHIS2 before the 5th of the following month, the facility's SNIS respondent doing the entry, and to send the paper copy to the prefectoral health directorate (DPS) by the same date; it also sets the 20th as the deadline at DPS level for the reports to be entered in DHIS2 ([source, 2023-10-06](https://extranet.who.int/uhcpartnershiplivemonitoring/system/files/doc_attachments/Final_Plan%20de%20suivi%20%26%20%C3%A9valuation%20PNDS%202023-2027.pdf)).
+- The plan (validated 6 October 2023) names the facilities producing and keying SNIS reports as the peripheral care units (USP), where the facility head is the SNIS respondent, and the CHP, CHR and CHU hospitals, where a data or statistics officer is; it says the CHR and CHU data are taken into account by the health district in whose area they sit ([source, 2023-10-06](https://extranet.who.int/uhcpartnershiplivemonitoring/system/files/doc_attachments/Final_Plan%20de%20suivi%20%26%20%C3%A9valuation%20PNDS%202023-2027.pdf)).
+- The health ministry's plan gives the SNIS report completeness rate as 96.5% in 2021, defined as the number of health facilities that keyed a complete SNIS report into DHIS2 over the total number of health facilities due to key SNIS reports, sourced to the health statistics yearbook; it prints the rate only, without the counts, covers all facilities and not primary clinics alone, notes duplicate entries in hospital data as a known bias, and gives timeliness of 77.3% in 2021 ([source, 2021](https://extranet.who.int/uhcpartnershiplivemonitoring/system/files/doc_attachments/Final_Plan%20de%20suivi%20%26%20%C3%A9valuation%20PNDS%202023-2027.pdf)).
 
 ### Uganda: 3 Established
 

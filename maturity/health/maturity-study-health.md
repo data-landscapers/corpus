@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-health.md — the first maturity study: rural health clinics, as HMIS and EMR
-last_reviewed: 2026-10-06
+last_reviewed: 2026-10-23
 status: proposed by Cowork with Bill's rulings of 2026-10-06, for CC's operational review; not yet run
 ---
 
@@ -74,7 +74,7 @@ Thresholds agreed *(Bill)*; wording fixed at H4 on 2026-10-06, against `ladder-t
 | 1 Absent | A dated statement that routine reporting has no digital entry at any level | | |
 | 2 Nascent | Hospitals only, or some districts; or a national rollout contracted or in preparation | Anywhere, or not stated | None, or pilot sites |
 | 3 Established | Any: a system keyed at district takes the clinics' reports | At the district, from clinics' paper forms | Facility entry in a minority, or not published |
-| 4 Operating | The primary tier, T3 or T4 | At the facility | More than half enter their own reports, on a share or a count with a denominator |
+| 4 Operating | The primary tier, T3 or T4 | At the facility | More than half enter their own reports, on a share or count of primary clinics alone |
 | 5 Leading | The primary tier | At the facility | 90 per cent or more, on a figure published within two years, with reporting completeness published |
 
 **EMR**
@@ -91,7 +91,7 @@ Thresholds agreed *(Bill)*; wording fixed at H4 on 2026-10-06, against `ladder-t
 
 **Stage 2 takes preparation** *(Bill, 2026-10-09)*: a dated act on a named system inside 36 months (staff trained, equipment delivered, agreement signed), not a plan, pledge, meeting or stalled work.
 
-**A share of all health facilities is read as the share of primary clinics**, and the short summary says which. Stage 5 is unreached and stands.
+**A share of all health facilities does not settle rung 4 or 5** *(Bill, 2026-10-23)*: on either ladder it needs a share or count of primary clinics alone. Stage 5 is unreached and stands.
 
 ## 5. The norm
 
@@ -114,7 +114,7 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 - [x] **H5. Search, select and hand over**, method §5. *245 delivered, note 218.*
 - [x] **H6. Phase 2, on Bill's trigger**, method §6 and §7.
 - [x] **H7. Write, render and lint** (method §8). Commit.
-- [x] **H8. Report to Bill**: countries per stage for each sub-indicator; unplaced and *No evidence*; countries holding only noted classes; *community integrated* flags; the agreement count; what OSINT did not admit; and every country the cap rule held at 3, for his reconsideration.
+- [x] **H8. Report to Bill**: countries per stage, the unplaced, the flags, the agreement count, what OSINT did not admit, and every country the cap held at 3.
 
 ## Boundary
 

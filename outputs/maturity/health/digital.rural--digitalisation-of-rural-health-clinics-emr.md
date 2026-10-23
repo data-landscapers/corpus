@@ -56,9 +56,9 @@ All public hospitals kept electronic patient records in 2019-20, and a central s
 
 ### Eswatini: 3 Established
 
-A shared electronic record runs in 73% of all health facilities (2026); donor-financed, with no current plan or budget, it stays at stage 3.
+A shared electronic record runs in 73% of all health facilities (2026); with no figure for primary clinics alone, it stays at stage 3.
 
-*Externally run; Community integrated; Advancing.*
+*Community integrated; Advancing.*
 
 - The Data.FI project says CMIS is used in 73% of the country's health facilities, with 233 live sites; the share is of all health facilities, not of primary clinics alone, and no denominator is given (no date stated, published date used) ([source, 2026-04-07](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in)).
 - Data.FI says clinicians open a client's full record in CMIS on a unique ID number and are led through guided modules at their point of service, and that the record is available to clinicians at another clinic if the patient moves district (no date stated, published date used) ([source, 2026-04-07](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in)).
