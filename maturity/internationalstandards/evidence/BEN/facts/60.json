@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "use",
+   "value": "required",
+   "fact": "The deck lists mandatory encryption of biometric data under standard ISO/IEC 19792 among Benin's safeguards in the identification reform.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ISO/IEC 19792",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
