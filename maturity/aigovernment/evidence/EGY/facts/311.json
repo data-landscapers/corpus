@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-egy-consumer-protection-agency-ai-complaints",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Consumer Protection Agency head Ibrahim El-Segini said at Egypt Forum 2026 that the agency is using AI to analyse consumer complaints, inspection campaign data, prices, advertisements and online stores to detect violation patterns and high-risk sectors.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Consumer Protection Agency AI analysis",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Consumer Protection Agency AI analysis",
+   "country_label": "Egypt",
+   "class": "govai",
+   "platform": "",
+   "owner": "Consumer Protection Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

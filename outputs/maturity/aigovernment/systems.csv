@@ -35,9 +35,11 @@ EGY,EG-CERT,Egypt,govai,,National Telecom Regulatory Authority,national,2026-06-
 EGY,Karnak Chat,Egypt,govai,chatbot on the Karnak large language model,Ministry of Communications and Information Technology,national,2026-08-24-ahram-gate-egypt-karnak-chat-llm-digital-sovereignty
 EGY,KMT,KMT,govai,"CAOA website, WhatsApp, Facebook",Central Agency for Organization and Administration (CAOA),,2024-02-25-egy-caoa-kmt-ai-chatbot-civil-service-launch
 EGY,Paperless Ministry System (messaging),Egypt,govai,,Ministry of Communications and Information Technology,,2026-04-24-egy-mcit-ai-paperless-ministry-tender-tendersinfo
+EGY,Consumer Protection Agency AI analysis,Egypt,govai,,Consumer Protection Agency,,2026-10-22-egy-consumer-protection-agency-ai-complaints
 ETH,AI-enriched integrated digital civil registration and resident services system,Ethiopia,other,,Addis Ababa City Administration,,2025-12-06-eth-ebc-addis-ai-civil-registration-system
 ETH,AI-based Customs Chatbot,Ethiopia,govai,,Ethiopian Customs Commission,,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems
 ETH,AI-powered Passenger Risk Management System,Ethiopia,other,,Ethiopian Customs Commission,,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems
+ETH,Mesob,Ethiopia,other,,Ethiopian Artificial Intelligence Institute,,2025-11-17-eth-ethiopian-ai-institute-becoming-africa-s-most-visible-influential-inst
 GAB,Missamou,Missamou,govai,Facebook Messenger,Government of Gabon,,2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental
 GHA,AI-powered multi-hazard chatbot,Ghana,govai,chatbot,NADMO,"national, ten regional offices trained",2026-07-30-ghanas-disaster-agency-turns-to-ai-to-reach-people-before-the-water-does
 GIN,AI price control for public procurement,Guinea,govai,,Government of Guinea,,2026-10-12-gin-guineejet-bah-oury-marches-publics-ia-routes
@@ -102,6 +104,8 @@ NGA,Service-Wise GPT,Service-Wise GPT,govai,,Office of the Head of the Civil Ser
 NGA,GovGuideNigeria,Nigeria,govai,WhatsApp and web,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-05-22-nga-nigeria-unveils-ai-public-services-platform
 NGA,Service-Wide GPT,Nigeria,govai,Service-Wide GPT,Office of the Head of the Civil Service of the Federation,,2025-12-17-nga-federal-civil-service-deploys-ai-tool-trained-on-laws-service-rules
 NGA,AskFME,AskFME,govai,WhatsApp and ministry website,Federal Ministry of Education,,2026-08-12-nga-the-ai-adviser-who-supported-a-ministry-to-build-their-own-tool
+NGA,Service Wise GPT,Nigeria,govai,,Federal Civil Service,,2026-08-02-nga-nigeria-is-adopting-ai-fast-but-foreign-firms-are-winning-report-warns
+NGA,Scaling AI for Development (SAID) Challenge,Nigeria,other,,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-06-27-nga-naish-tijani-unveils-ai-scaling-hub-to-power-startups-public-sector-in
 RWA,Mbaza,Mbaza,govai,Proto AI agent,MINALOC with RISA,,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen
 RWA,Intumwa,Intumwa,govai,Proto AI agent,National Bank of Rwanda,,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen
 RWA,Kubaka AI agent,Rwanda,govai,Kubaka.gov.rw,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
