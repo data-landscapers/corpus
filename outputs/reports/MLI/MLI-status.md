@@ -1,6 +1,6 @@
 ---
 title: Mali: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: MLI
 region: XWA
 built_by: STATUS-INIT
@@ -115,10 +115,10 @@ Sweden has financed Mali's statistics rather than its networks. Sida [committed 
 The government [signed a concessional loan with the Export-Import Bank of China on 28 September 2018 to finance the Mali Digital 2020 project](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0), with China International Telecommunications Construction Corporation as the commercial contractor. USAID [funded a Digital Ecosystem Country Assessment from 2023](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-1-72068823LA00001), covering digital infrastructure, the regulatory environment and digital economy development.
 
 <!-- derived -->
-Eight external digital commitments naming Mali are on the record, spanning 2018 to 2032 and worth roughly USD 531 million, one of them an innovation fund grant with no published amount, more than four-fifths of it in two telecommunications transactions dated 2018 and 2024; the West African regional operations that do not name the country sit outside that figure (September 2026).
+Nine external digital commitments naming Mali are on the record, spanning 2017 to 2032 and worth roughly USD 545 million, one of them an innovation fund grant with no published amount, more than four-fifths of it in two telecommunications transactions dated 2018 and 2024; the West African regional operations that do not name the country sit outside that figure (October 2026).
 
 <!-- derived -->
-As at October 2026 grants are four of the eight but under two per cent of the value, roughly USD 9 million, the rest carried by loans and by the licence transaction; connectivity takes almost all the value, while the most frequently financed subsector is national statistics — three commitments worth about USD 5 million, all of them Swedish support to the same census, making Sida the most frequent financier on the record.
+As at October 2026 grants are five of the nine but about four per cent of the value, roughly USD 23 million, the rest carried by loans and by the licence transaction; connectivity takes about three-fifths of the value, while the most frequently financed subsector is national statistics — three commitments worth about USD 5 million, all of them Swedish support to the same census, making Sida the most frequent financier on the record.
 
 ## ICT Infrastructure
 
