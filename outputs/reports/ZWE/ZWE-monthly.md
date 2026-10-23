@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: ZWE
-ledger_rows: 42
+ledger_rows: 43
 not_held: 6
-record: 518b25b8f591
+record: 211f3f598ad3
 ---
 
 # News, Sep – Oct 2026
@@ -159,6 +159,20 @@ Zimbabwe's ICT minister, Tatenda Mavetera, told the National Assembly on 9 Septe
 **[The inaugural Africa Data Protection Day](https://sirdc.ac.zw/the-inaugural-africa-data-protection-day/)** — Scientific and Industrial Research and Development Centre (SIRDC), Zimbabwe, 23 September 2026
 
 Zimbabwe's telecoms regulator POTRAZ held a national workshop on guidelines under the Cyber and Data Protection Act and on amendments to Statutory Instrument 155 of 2024 on administrative fines, marking the first Africa Data Protection Day on 21 September 2026, according to the research centre SIRDC. The text and status of the amendments are not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rating on the world map of encryption laws and policies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Encryption As a Digital Rights Safeguard](https://cipesa.org/2026/10/encryption-as-a-digital-rights-safeguard/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+GPD World Map relaunched 21 Oct 2026; Ethiopia severe on encryption, Nigeria and Zimbabwe on legislative threats.
 
 </div>
 
