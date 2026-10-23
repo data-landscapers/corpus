@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-30-tza-tanzania-s-ministry-of-communication-and-information-technology-partne",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The release says Jamii Namba has registered over 25 million people, and Co-Develop describes Tanzania as a country of over 60 million people.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Jamii Namba",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

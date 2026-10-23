@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-20-sle-to-fast-track-nin-integration-with-telecom-services-ncra-natca-sign-mo",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "NCRA Director General Mohamed Mubashir Massaquoi said Sierra Leone has already captured around 93% of its population in the national database.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN) database",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number (NIN) database",
+   "country_label": "SLE",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

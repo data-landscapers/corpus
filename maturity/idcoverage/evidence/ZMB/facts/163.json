@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-21-zmb-zambia-issues-general-procurement-notice-for-digital-id-trust-services",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "UNDP experts highlighted that Zambia's national ID coverage stands at almost 90 percent.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

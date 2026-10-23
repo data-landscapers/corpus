@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-27-civ-cni-double-identite-enregistrement-des-naissances-nni-les-clarificatio",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "ONECI deputy director general Pélagie Gonto said in October 2024 that only 8 million of 29 million inhabitants are registered in ONECI's base.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "ONECI base",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

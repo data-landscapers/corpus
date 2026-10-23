@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-tza-tanzania-digital-identity-ecosystem",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIDA reports 27.1 million adults registered (87% adult coverage) and shows 50.8% of the population excluded because children are deferred, which leaves under two-thirds of the whole population registered.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "National ID (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

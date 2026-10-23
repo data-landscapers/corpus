@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SLE,National Identification Number and National ID card,SLE,idsystem,,NCRA,,2026-09-18-sle-calabash-ncra-identity-day-inmates
 SLE,National Biometric Identity Management System / NIN,Sierra Leone,idsystem,,NCRA,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
+SLE,National Identification Number (NIN) database,SLE,idsystem,,NCRA,,2025-08-20-sle-to-fast-track-nin-integration-with-telecom-services-ncra-natca-sign-mo
+SLE,National Identification Number (NIN) and ID card,NIN / National ID Card,idsystem,MOSIP pilot completed February 2024; switch to MOSIP under way,National Civil Registration Authority (NCRA),,2024-04-11-sle-sierra-leone-putting-digital-id-at-the-center-of-its-digital-transform
