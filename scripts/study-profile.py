@@ -29,6 +29,16 @@ rows stay in `evidence.csv`, where the ruling can be reversed, and are passed ov
   coverage aspect's window is three years; a qualifier's is its own. **A gap is what Phase 1
   searches for**, so this column is the search list.
 
+**A fact `--merge` refuses is written down.** A fact repeating a row `corrections.csv` removed -
+the same aspect and value from the same source, or about the same system - is not taken, and
+`maturity/{id}/refused.csv` records it: the fact's document, sub-indicator, aspect, value, date
+and system, the removed row it repeats and the `rule` that matched (`source`, `system`, or
+`unrecovered` where the removed row is in no facts file and aspect and value alone decide). Every
+`--merge` reads the file back and tests each refusal again, so one a correction no longer
+supports is taken. `ruled: {why}` marks one refused by hand, which stands; `held: {why}` one
+kept back because taking it moves a stage, which waits for `MATURITY-UPDATE.md` Level 2: the
+run that reassesses the cell sets its rule to `release`, and the next `--merge` takes it.
+
 An invalid `evidence.csv` is reported and its country is not profiled: a profile built over
 a value outside the closed list would carry it into a stage.
 
@@ -56,10 +66,110 @@ AGREE_BAR = 0.8    # 16 of 20
 MERGED_FIELDS = ["iso3", "source_slug", "read", "merged_on"]
 
 
+REFUSED_FIELDS = ["iso3", "n", "source_slug", "sub_indicator", "aspect", "value", "as_of", "system",
+                  "removed", "rule", "refused_on"]
+
+
+def _norm(s) -> str:
+    return " ".join(str(s or "").split()).casefold()
+
+
+def removed_rows(iso: str, fixes: list[dict], existing: list[dict], listed: dict[str, dict],
+                 files: dict[str, dict], done: set[str], refused: set[tuple] = frozenset()) -> list[dict]:
+    """The rows `corrections.csv` removed, found again in the facts files they were merged from.
+
+    A correction names a row by id, aspect and value, not by source or system, and the ladder has
+    deleted the row. **Ids are issued a document at a time, in reading-list order**, so the row
+    came from the document of the nearest row still standing either side of its id; failing
+    that, from one between them in the list with no row standing (past the last row, one at or
+    below the last document taken). Its fact is one there stating that aspect and value that
+    `evidence.csv` no longer holds and no earlier run refused (`refused`, keyed as `merge` keys
+    it): a refused fact was never a row. Each such fact is a candidate, `{row_id, source_slug,
+    sub_indicator, aspect, value, system}`. A correction no fact answers gives one with
+    `source_slug` empty, which `refusal` matches as the old rule did, on aspect and value alone."""
+    held_ids = {r["row_id"] for r in existing}
+    held_text = {(r["source_slug"], _norm(r["fact"])) for r in existing}
+    with_rows = {r["source_slug"] for r in existing}
+    n_of = {src["slug"]: int(n) for n, src in listed.items() if n.isdigit()}
+
+    def num(rid: str) -> int | None:
+        tail = rid.split("-")[1] if "-" in rid else ""
+        return int(tail) if tail.isdigit() else None
+    standing = sorted((num(r["row_id"]), r["source_slug"], _norm(r["fact"])) for r in existing
+                      if num(r["row_id"]) is not None)
+    cap = max([n_of[s] for s in done if s in n_of] or [0]) or None
+    out = []
+    for f in fixes:
+        rid = f.get("row_id") or f"{f.get('iso3', '')}-{f.get('n', '')}"
+        if f.get("action") not in ("removed", "withdrawn") or rid in held_ids or not f.get("aspect"):
+            continue
+        aspect, value, k = f["aspect"].strip(), f.get("value", "").strip(), num(rid)
+        below = next((t for t in reversed(standing) if k is not None and t[0] < k), (None, None, None))
+        above = next((t for t in standing if k is not None and t[0] > k), (None, None, None))
+        lo, hi = n_of.get(below[1]), n_of.get(above[1])
+
+        def source(slug: str, n: int, near: bool) -> bool:
+            if near or slug in with_rows:
+                return near and slug in (below[1], above[1])
+            if lo and hi:
+                return lo < n < hi if lo <= hi else (n > lo or n < hi)
+            return (not lo or n > lo) and (not hi or n < hi) and (bool(hi) or not cap or n <= cap)
+
+        def placed(slug: str, texts: list[str], p: int) -> bool:
+            """A neighbour's own fact fixes where in its document the removed one can sit: after
+            the row below by no more places than ids between them, before the row above likewise."""
+            ok = []
+            for i, s_, t in (below, above):
+                if s_ == slug and t in texts:
+                    q = texts.index(t)
+                    ok.append(0 < p - q <= k - i if i < k else 0 < q - p <= i - k)
+            return any(ok) or not ok
+        found = []
+        for near in (True, False):
+            for n, doc in files.items() if not found else ():
+                src = listed.get(n)
+                if not n.isdigit() or src is None or doc.get("slug") != src["slug"] \
+                        or not source(src["slug"], int(n), near):
+                    continue
+                facts = doc.get("facts") or []
+                texts = [_norm(x.get("fact")) for x in facts]
+                for p, x in enumerate(facts):
+                    said = tuple(str(x.get(c, "") or "").strip()
+                                 for c in ("sub_indicator", "aspect", "value", "as_of", "system"))
+                    if said[1:3] == (aspect, value) and (src["slug"], texts[p]) not in held_text \
+                            and (src["slug"], *said) not in refused and (not near or placed(src["slug"], texts, p)):
+                        found.append({"row_id": rid, "source_slug": src["slug"], "sub_indicator": said[0],
+                                      "aspect": aspect, "value": value, "system": _norm(said[4])})
+        out += found or [{"row_id": rid, "source_slug": "", "sub_indicator": "", "aspect": aspect,
+                          "value": value, "system": ""}]
+    return out
+
+
+def refusal(gone: list[dict], slug: str, f: dict) -> tuple[str, str] | None:
+    """`(removed row, rule)` where a fact repeats a removed row, else None. **It repeats it only from
+    the same source, or about the same system with the same claim** (sub-indicator, aspect and
+    value): a second document stating the same value of another system, or of none, is new
+    evidence. A removed row no facts file answers is matched on aspect and value alone."""
+    sub, aspect, value = (str(f.get(k, "") or "").strip() for k in ("sub_indicator", "aspect", "value"))
+    system = _norm(f.get("system"))
+    for g in gone:
+        if (g["aspect"], g["value"]) != (aspect, value):
+            continue
+        if not g["source_slug"]:
+            return g["row_id"], "unrecovered"
+        if g["source_slug"] == slug:
+            return g["row_id"], "source"
+        if system and g["system"] == system and g["sub_indicator"] == sub:
+            return g["row_id"], "system"
+    return None
+
+
 def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
           existing: list[dict], fixes: list[dict] | None = None,
-          merged: dict[str, str] | None = None) -> tuple[list[dict], list[dict], list[str], dict[str, str]]:
-    """`(new evidence rows, systems rows, problems, documents taken)` from one country's facts files.
+          merged: dict[str, str] | None = None, refused: list[dict] | None = None,
+          ) -> tuple[list[dict], list[dict], list[str], dict[str, str], list[dict]]:
+    """`(new evidence rows, systems rows, problems, documents taken, refusals)` from one country's
+    facts files.
 
     A drafter writes one JSON file per document read, named for the document's `n` in the
     reading list: `{"slug", "facts": [...], "systems": [...]}`. **The slug and the URL of a
@@ -76,9 +186,17 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     **A correction outlives the row it removed.** The ladder deletes a row `corrections.csv`
     removes, so the slug that marked its document merged can go with it. `fixes` is the
     country's corrections: ids continue past every id one names, so no new row takes a
-    corrected id; and a fact from a document not yet held is refused, and named, where it
-    states what a removed row stated, the same aspect and value. The document's other facts
-    are taken; one with none left is skipped.
+    corrected id; and a fact is refused, and named, where it repeats a removed row - the same
+    aspect and value **from the same source, or about the same system** (`refusal`). The
+    document's other facts are taken; one with none left is skipped.
+
+    **A refusal is kept, and tried again.** `refused` is the country's standing refusals from
+    `maturity/{id}/refused.csv`; each run tests them under the rule and the corrections as they
+    now stand, takes a fact that now passes as a new row, and returns the refusals that still
+    hold with those made now, for the file. A refusal is how a valid fact goes missing without
+    trace, so the file is the trace. One whose `rule` reads `ruled: {why}` was refused by hand,
+    and one reading `held: {why}` is kept back until a reassessment takes it; neither is tested
+    again until its rule is changed.
 
     **A document is taken once, and a `completed` re-read once more.** `merged` is what
     `merged.csv` records as taken, slug to `read` (`completed` for the re-read). A recorded
@@ -94,12 +212,27 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     merged = merged or {}
     done = {r["source_slug"] for r in existing} | set(merged)
     named = [f.get("row_id") or f"{f.get('iso3', '')}-{f.get('n', '')}" for f in fixes or []]
-    held_ids = {r["row_id"] for r in existing}
-    gone = {(f.get("aspect", ""), f.get("value", "")) for f, rid in zip(fixes or [], named)
-            if f.get("action") in ("removed", "withdrawn") and rid not in held_ids and f.get("aspect")}
     ids = [r["row_id"] for r in existing] + [i for i in named if i.startswith(f"{iso}-")]
     nxt = max([int(i.split("-")[1]) for i in ids if i.split("-")[1].isdigit()] or [0]) + 1
     rows, systems, problems, taken = [], [], [], {}
+    fkey = lambda slug, f: (slug, *(str(f.get(k, "") or "").strip()  # noqa: E731
+                                    for k in ("sub_indicator", "aspect", "value", "as_of", "system")))
+    standing = {(r["source_slug"], r["sub_indicator"], r["aspect"], r["value"], r["as_of"], r["system"]): r
+                for r in refused or []}
+    still, today = {}, dt.date.today().isoformat()
+    gone = removed_rows(iso, fixes or [], existing, listed, files, done,
+                        {k for k in standing if k[0] in done})
+
+    def refuse(n: str, slug: str, f: dict) -> bool:
+        k = fkey(slug, f)
+        if standing.get(k, {}).get("rule", "").startswith(("ruled", "held")):
+            still[k] = standing[k]          # refused or held back by hand: not tested again
+            return True
+        hit = refusal(gone, slug, f)
+        if hit:
+            still[k] = dict(zip(REFUSED_FIELDS, (iso, n, *k, *hit,
+                                                 standing.get(k, {}).get("refused_on") or today)))
+        return bool(hit)
     for n in sorted(files, key=lambda k: int(k) if k.isdigit() else 0):
         doc, src = files[n], listed.get(n)
         if src is None:
@@ -110,19 +243,21 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
                             f"document {n} is `{src['slug']}`")
             continue
         read = "completed" if src.get("why") == "completed" else ""
-        if src["slug"] in done and (not read or merged.get(src["slug"]) == read):
-            continue
-        # Only the fact repeating a removed row is refused: the rest of its document still stands.
         facts = doc.get("facts") or []
-        kept_facts = [f for f in facts if src["slug"] in done or
-                      (str(f.get("aspect", "")).strip(), str(f.get("value", "")).strip()) not in gone]
-        if len(kept_facts) < len(facts):
-            problems.append(f"{iso} facts/{n}.json: skipped {len(facts) - len(kept_facts)} fact(s), "
-                            "stating what a removed row stated")
-            if not kept_facts:
-                continue
-            doc = dict(doc, facts=kept_facts)
-        taken[src["slug"]] = read
+        if src["slug"] in done and (not read or merged.get(src["slug"]) == read):
+            # Taken before: only a standing refusal of its own is looked at again.
+            doc = dict(doc, facts=[f for f in facts if fkey(src["slug"], f) in standing
+                                   and not refuse(n, src["slug"], f)], systems=[])
+        else:
+            # Only the fact repeating a removed row is refused: the rest of its document still stands.
+            kept_facts = [f for f in facts if not refuse(n, src["slug"], f)]
+            if len(kept_facts) < len(facts):
+                problems.append(f"{iso} facts/{n}.json: skipped {len(facts) - len(kept_facts)} fact(s), "
+                                "repeating a removed row (refused.csv)")
+                if not kept_facts:
+                    continue
+                doc = dict(doc, facts=kept_facts)
+            taken[src["slug"]] = read
         for s in doc.get("systems") or []:
             systems.append({"iso3": iso, **{k: str(s.get(k, "") or "").strip()
                                            for k in study_lib.SYSTEMS_FIELDS[1:-1]},
@@ -147,7 +282,11 @@ def merge(study: dict, iso: str, readlist: list[dict], files: dict[str, dict],
     unread = sorted(int(n) for n in listed if n not in files)
     if unread:
         problems.append(f"{iso}: no facts file for document(s) {unread} of the reading list")
-    return rows, systems, problems, taken
+    # A standing refusal no facts file answered this run is kept as it was: nothing tested it.
+    present = {fkey(listed[n]["slug"], f) for n, doc in files.items() if n in listed
+               and doc.get("slug") == listed[n]["slug"] for f in doc.get("facts") or []}
+    kept = [r for k, r in standing.items() if k not in present and k not in still]
+    return rows, systems, problems, taken, kept + list(still.values())
 
 
 def _rank(aspect: dict, value: str) -> int:
@@ -296,6 +435,8 @@ def main(argv=None) -> int:
         fixes = study_lib.read_csv(os.path.join(study_lib.study_dir(a.study), "corrections.csv"))
         mpath = os.path.join(study_lib.study_dir(a.study), "merged.csv")
         ledger = study_lib.read_csv(mpath)
+        rpath = os.path.join(study_lib.study_dir(a.study), "refused.csv")
+        refusals = study_lib.read_csv(rpath)
         for iso in sorted(os.listdir(base)):
             facts_dir = os.path.join(base, iso, "facts")
             if not os.path.isdir(facts_dir):
@@ -311,10 +452,11 @@ def main(argv=None) -> int:
                     problems.append(f"{iso} facts/{name}: not readable JSON ({e})")
             existing = study_lib.read_csv(os.path.join(base, iso, "evidence.csv"))
             before = {r["source_slug"]: r.get("read", "") for r in ledger if r["iso3"] == iso}
-            new, systems, more, taken = merge(study, iso, study_lib.read_csv(
+            new, systems, more, taken, mine = merge(study, iso, study_lib.read_csv(
                 os.path.join(base, iso, "readlist.csv")), files, existing,
                 [f for f in fixes if f.get("iso3") == iso or f.get("row_id", "").startswith(f"{iso}-")],
-                before)
+                before, [r for r in refusals if r["iso3"] == iso])
+            refusals = [r for r in refusals if r["iso3"] != iso] + mine
             # Withdrawn before `merged.csv` existed: the hand-kept form of the same record.
             new = [r for r in new if (iso, r["source_slug"]) not in withdrawn]
             for p in problems + more:
@@ -336,6 +478,9 @@ def main(argv=None) -> int:
                 touched.add(iso)
                 print(f"  {iso}  {len(new):3d} new facts, {len(add):3d} new systems")
         write_changed(mpath, MERGED_FIELDS, sorted(ledger, key=lambda r: (r["iso3"], r["source_slug"])))
+        if refusals or os.path.exists(rpath):
+            write_changed(rpath, REFUSED_FIELDS, sorted(refusals, key=lambda r: (
+                r["iso3"], int(r["n"]) if r["n"].isdigit() else 0, r["aspect"], r["value"], r["as_of"])))
         print(f"study-profile: merged into {len(touched)} countr{'y' if len(touched) == 1 else 'ies'}"
               + (f": {' '.join(sorted(touched))}" if touched else "; nothing new to profile."))
     for iso, rows in study_lib.evidence(a.study).items():

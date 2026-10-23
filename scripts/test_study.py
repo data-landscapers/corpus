@@ -319,7 +319,7 @@ try:
     files = {"1": {"slug": "doc-a", "facts": [fact, dict(fact, **{"class": "tracker"})],
                    "systems": [{"system": "eTracker", "class": "tracker"}]},
              "2": {"slug": "doc-x", "facts": [fact]}}
-    new, systems, problems, taken = profile.merge(STUDY, "KEN", rl, files, [ev("KEN-007", "tiers", "T2", "2024")])
+    new, systems, problems, taken, _ = profile.merge(STUDY, "KEN", rl, files, [ev("KEN-007", "tiers", "T2", "2024")])
     check("ids continue from the highest in evidence.csv", [r["row_id"] for r in new], ["KEN-008"])
     check("the slug and URL are the reading list's", (new[0]["source_slug"], new[0]["url"]),
           ("doc-a", "https://a.org/a"))
@@ -330,35 +330,61 @@ try:
     check("a file filed under the wrong document is refused", any("says `doc-x`" in p for p in problems), True)
     check("a document with no file is named", any("document(s) [3]" in p for p in problems), True)
     check("the documents taken are named for merged.csv", taken, {"doc-a": ""})
-    again, again_sys, _, _ = profile.merge(STUDY, "KEN", rl, files, new)
+    again, again_sys, _, _, _ = profile.merge(STUDY, "KEN", rl, files, new)
     check("a document already merged is not merged twice", again, [])
     check("and gives no systems rows a second time", again_sys, [])
-    gone, gone_sys, _, gone_taken = profile.merge(STUDY, "KEN", rl, files, [], None, {"doc-a": ""})
+    gone, gone_sys, _, gone_taken, _ = profile.merge(STUDY, "KEN", rl, files, [], None, {"doc-a": ""})
     check("a document merged.csv records is not taken again, with no row and no correction",
           (gone, gone_sys, gone_taken), ([], [], {}))
     rlc = [dict(r, why="completed") if r.get("slug") == "doc-a" else r for r in rl]
-    _, re_sys, _, re_taken = profile.merge(STUDY, "KEN", rlc, files, new, None, {"doc-a": ""})
+    _, re_sys, _, re_taken, _ = profile.merge(STUDY, "KEN", rlc, files, new, None, {"doc-a": ""})
     check("a `completed` re-read is taken once more", (len(re_sys), re_taken), (1, {"doc-a": "completed"}))
-    _, re_sys, _, re_taken = profile.merge(STUDY, "KEN", rlc, files, new, None, {"doc-a": "completed"})
+    _, re_sys, _, re_taken, _ = profile.merge(STUDY, "KEN", rlc, files, new, None, {"doc-a": "completed"})
     check("and not again after that", (re_sys, re_taken), ([], {}))
     # The ladder deleted KEN-008, the only row doc-a had, and KEN-009 is named by a correction.
     fixes = [{"iso3": "KEN", "n": "008", "aspect": "tiers", "value": "T1", "action": "removed"},
              {"iso3": "KEN", "n": "009", "aspect": "tiers", "value": "T3", "action": "revalued: T2"}]
     kept = [ev("KEN-007", "tiers", "T2", "2024")]
-    back, _, problems, _ = profile.merge(STUDY, "KEN", rl, files, kept, fixes)
+    back, _, problems, _, _ = profile.merge(STUDY, "KEN", rl, files, kept, fixes)
     check("a document whose rows a correction removed is not merged again", back, [])
     check("and is named", any("facts/1.json: skipped" in p for p in problems), True)
     rl5 = rl + [{"n": "5", "kind": "raw", "slug": "doc-e", "url": "https://a.org/e"}]
     mixed = dict(files, **{"5": {"slug": "doc-e", "facts": [dict(fact, value="T1"), dict(fact, value="T4")]}})
-    part, _, problems, _ = profile.merge(STUDY, "KEN", rl5, mixed, kept, fixes)
+    part, _, problems, _, refused = profile.merge(STUDY, "KEN", rl5, mixed, kept, fixes)
     check("a document repeating a removed row loses that fact and keeps the rest",
           [(r["source_slug"], r["value"]) for r in part], [("doc-e", "T4")])
     check("and the refused fact is named", any("facts/5.json: skipped 1 fact" in p for p in problems), True)
     rl4 = rl + [{"n": "4", "kind": "raw", "slug": "doc-d", "url": "https://a.org/d"}]
     other = dict(files, **{"4": {"slug": "doc-d", "facts": [dict(fact, value="T4")]}})
-    fresh, _, _, _ = profile.merge(STUDY, "KEN", rl4, other, kept, fixes)
+    fresh, _, _, _, _ = profile.merge(STUDY, "KEN", rl4, other, kept, fixes)
     check("a new row numbers past every corrected id", [(r["row_id"], r["source_slug"]) for r in fresh],
           [("KEN-010", "doc-d")])
+    check("a refusal is returned for refused.csv, naming the row and the rule",
+          [(r["source_slug"], r["removed"], r["rule"]) for r in refused],
+          [("doc-a", "KEN-008", "source"), ("doc-e", "KEN-008", "system")])
+    elsewhere = dict(files, **{"5": {"slug": "doc-e", "facts": [dict(fact, system="eRegister")]}})
+    took, _, _, _, none = profile.merge(STUDY, "KEN", rl5, elsewhere, kept, fixes, {"doc-a": ""})
+    check("the same value of another system, from another source, is taken",
+          ([(r["source_slug"], r["value"]) for r in took], none), ([("doc-e", "T1")], []))
+    back, _, _, _, refused = profile.merge(STUDY, "KEN", rl, files, kept, fixes)
+    check("the removed row's own document is refused on its source",
+          sorted({(r["source_slug"], r["rule"]) for r in refused}), [("doc-a", "source")])
+    blind = [{"iso3": "KEN", "n": "008", "aspect": "tiers", "value": "T1", "action": "removed"}]
+    _, _, _, _, refused = profile.merge(STUDY, "KEN", rl5, {"5": mixed["5"]}, kept, blind, {"doc-a": ""})
+    check("a removed row no facts file answers is matched on aspect and value",
+          [r["rule"] for r in refused], ["unrecovered"])
+    # doc-e was taken under the old rule with its T1 fact refused; the refusal is tried again.
+    standing = [{"iso3": "KEN", "n": "5", "source_slug": "doc-e", "sub_indicator": "hmis", "aspect": "tiers",
+                 "value": "T1", "as_of": "2025", "system": "eRegister", "removed": "KEN-008",
+                 "rule": "aspect-value", "refused_on": "2026-10-23"}]
+    back, _, _, again_taken, left = profile.merge(STUDY, "KEN", rl5, dict(files, **elsewhere), kept, fixes,
+                                                  {"doc-a": "", "doc-e": ""}, standing)
+    check("a standing refusal the rule no longer makes is taken as a new row",
+          ([(r["source_slug"], r["value"]) for r in back], again_taken, left), ([("doc-e", "T1")], {}, []))
+    _, _, _, _, left = profile.merge(STUDY, "KEN", rl5, mixed, kept, fixes,
+                                     {"doc-a": "", "doc-e": ""}, [dict(standing[0], system="DHIS2")])
+    check("and one it still makes stands, under the rule now applied",
+          [(r["rule"], r["refused_on"]) for r in left], [("system", "2026-10-23")])
     with tempfile.TemporaryDirectory() as d:
         path = os.path.join(d, "systems.csv")
         rows = [{"iso3": "KEN", "system": "DHIS2", "sources": "doc-a"}]
