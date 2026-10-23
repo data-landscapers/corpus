@@ -1,6 +1,6 @@
 ---
 title: Burkina Faso: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: BFA
 region: XWA
 built_by: STATUS-INIT
@@ -111,7 +111,7 @@ The largest single commitment is [the World Bank's Digital Acceleration Project,
 The Bank's earlier digital lending has run its course: [USD 30 million for economic governance and GovTech work with the Ministry of Territorial Administration and Decentralisation, 2016–2022](https://projects.worldbank.org/en/projects-operations/project-detail/P155121); [USD 20 million in additional financing for regional communications infrastructure, to 2021](https://projects.worldbank.org/en/projects-operations/project-detail/P161836); and [USD 28.3 million of a USD 100 million financial-inclusion operation for digitising government-to-person payments and microfinance](https://projects.worldbank.org/en/projects-operations/project-detail/P164786), [whose coordinator set out its results after seven years of implementation in June 2026](https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/).
 
 <!-- derived -->
-Eleven digital commitments naming Burkina Faso are on record across 2016–2028, worth roughly USD 435 million equivalent, six still active (2026). The World Bank accounts for four of them and about USD 228 million (2026). Some USD 406 million of the whole is loans and credits, against about USD 8 million in grants and one public-private partnership at about USD 21 million, while connectivity and fibre-heavy ICT-industry work take roughly USD 371 million of it (2026).
+Eleven digital commitments naming Burkina Faso are on record across 2016–2028, worth roughly USD 430 million equivalent, four still active (October 2026). The World Bank accounts for five of them and about USD 245 million (October 2026). Some USD 403 million of the whole is loans and credits, against about USD 6 million in grants and one public-private partnership at about USD 21 million, while connectivity takes roughly USD 268 million of it (October 2026).
 
 <!-- derived -->
 Chinese state lenders are the largest bilateral source: a China Eximbank concessional loan of RMB 560 million for Smart Burkina Faso and a Bank of China buyer's credit of USD 77.35 million for the national fibre backbone, together roughly two-fifths of all recorded digital commitments, both with Huawei as contractor (2026).
