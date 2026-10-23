@@ -1,6 +1,6 @@
 ---
 title: Namibia: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: NAM
 region: XSA
 built_by: STATUS-INIT
@@ -116,7 +116,7 @@ The largest money going into Namibia's digital estate is a private operator's ow
 The public money is foreign and smaller. [China has committed CNY 98 million, about US$14.4 million at 2026 rates, to Namibia's Smart City pilot](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m), paying for digital infrastructure, artificial intelligence capability and skills development under a decade-long programme to modernise the capital (2026). Domestically, [Cabinet approved a US$20 million ICT venture capital fund for SME founders, women among them](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) (September 2025), which is an approval and not yet an investment in anything.
 
 <!-- derived -->
-Two commitments carry the whole of Namibia's digital-sector financing across 2025 and 2026, worth roughly US$48 million between them once the two announcement currencies are converted, and split almost evenly between them (2026). They are different kinds of money — a foreign state's contribution to a municipal pilot, and an operator's capital spending on its own network — so the even split says nothing about who funds Namibian digital.
+Three commitments carry the whole of Namibia's digital-sector financing across 2025 and 2026, worth roughly US$70 million between them once the announcement currencies are converted (October 2026). They are different kinds of money — an operator's capital spending on its own network, a commercial bank's loan to the state operator for network modernisation, and a foreign state's contribution to a municipal pilot — so their sizes say little about who funds Namibian digital.
 
 ## ICT Infrastructure
 
