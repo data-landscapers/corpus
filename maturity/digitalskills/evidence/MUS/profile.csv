@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MUS,publicskills,training,coverage,,,,,nothing held
-MUS,publicskills,measured,coverage,measured,2024,MUS-001,,
-MUS,publicskills,half,coverage,half,2024,MUS-002,,
+MUS,publicskills,measured,coverage,measured,2024,MUS-001;MUS-002,,
+MUS,publicskills,half,coverage,,,,,nothing held
