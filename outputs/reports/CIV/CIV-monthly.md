@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: CIV
 ledger_rows: 47
 not_held: 10
-record: f339dbc38c46
+record: f3fe8fc41b3c
 ---
 
 # News, Sep – Oct 2026
@@ -740,7 +740,7 @@ Côte d'Ivoire selected 77 priority artificial intelligence use cases at the IMP
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">National Pact for Artificial Intelligence</p>
+<p class="monthly-story__name">National Alliance for AI pact</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -749,12 +749,6 @@ Côte d'Ivoire selected 77 priority artificial intelligence use cases at the IMP
 Côte d'Ivoire's digital transition ministry, the employers' confederation CGECI and the national chamber of commerce signed a national pact on artificial intelligence on 11 September 2026, at the IMPACT IA conference in Abidjan. The pact is a voluntary framework and creates no legal, financial or investment obligations, with specific costed commitments left to later work. Signatory firms undertake to join a national AI alliance.
 
 </div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Alliance for AI pact</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -803,6 +797,28 @@ Côte d'Ivoire scored 2.03 out of 4 on the Africa AI Governance Index 2026, in t
 **[La Côte d'Ivoire déploie mHealth One, la version de mHealth intégrant l'intelligence artificielle](https://www.mhealth-africa.org/en/actualites/la-cote-divoire-deploie-mhealth-one-la-version-de-mhealth-integrant-lintelligence-artificielle/)** — Plateforme de digitalisation de santé communautaire (mHealth), 16 October 2026
 
 Côte d'Ivoire has deployed mHealth One, an AI version of its community health platform, in the five health districts of the Gontougo region, with UNICEF support; community health workers have used it since 5 October 2026. It gives workers offline treatment guidance, flags inconsistent data and inactive agents for supervisors, and lets officials query data in plain French.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">YIRI national-language AI platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire promotes national languages in AI development through YIRI digital community](https://techreviewafrica.com/news/7883/c-te-d-ivoire-promotes-national-languages-in-ai-development-through-yiri-digital-community)** — Tech Review Africa, 22 October 2026
+
+A second account of the YIRI launch, adding that it aims to build a voice and text language model for Ivorian languages and that digital transition minister Djibril Ouattara called for national languages to be central to AI development.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle : La plateforme YIRI entend faciliter l’accès au numérique grâce aux langues locales](https://www.linfodrome.com/societe/126771-intelligence-artificielle-la-plateforme-yiri-entend-faciliter-l-acces-au-numerique-grace-aux-langues-locales)** — Linfodrome, 22 October 2026
+
+FuturAfric launched YIRI in Abidjan on 15 October 2026, an AI-based social network and online marketplace working in Ivorian languages, with six covered so far and Baoulé and Dioula 70% complete. Its locally hosted corpus holds about 50,000 translated sentences and 300 annotated audio files, the founders aim to reach 80% of West Africa within three years, and the digital transition ministry was asked to back it.
 
 </div>
 
