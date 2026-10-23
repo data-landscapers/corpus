@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: DZA
-ledger_rows: 43
+ledger_rows: 44
 not_held: 5
-record: f4bd9fa9a6d9
+record: fa700d57c534
 ---
 
 # News, Sep – Oct 2026
@@ -749,6 +749,20 @@ Algeria's Minister of Higher Education and Scientific Research, Kamel Baddari, c
 **[M. Kamel Baddari préside la cinquième réunion multisectorielle consacrée au suivi de la mise en œuvre de la stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/10/m-kamel-baddari-preside-la-cinquieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelligence-artificielle-2/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 20 October 2026
 
 Summarised under [AI](#ai).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Algerian Darja conversational corpus (open dataset)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Algerian Darja Corpus: A 34-Million-Word Long-Form Conversational Dataset for Dialectal Language Modeling](https://doi.org/10.5281/zenodo.22670672)** — Zenodo, 12 September 2026
+
+Open dataset, 11,151 Algerian-dialect transcripts, 34.3m words; v2 on Zenodo, 2026-09-12.
 
 </div>
 
