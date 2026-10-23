@@ -2423,8 +2423,8 @@ date,page,rows,bytes_gz,elements
 2026-10-23,countries/AGO/all-finance.html,157,10715,2347
 2026-10-23,countries/AGO/budgets.html,145,29443,2229
 2026-10-23,countries/AGO/finance.html,12,5246,542
-2026-10-23,countries/BDI/all-finance.html,139,7107,2336
-2026-10-23,countries/BDI/budgets.html,133,18951,2123
+2026-10-23,countries/BDI/all-finance.html,145,7810,2338
+2026-10-23,countries/BDI/budgets.html,139,21975,2130
 2026-10-23,countries/BDI/finance.html,6,2787,383
 2026-10-23,countries/BEN/all-finance.html,126,10077,2345
 2026-10-23,countries/BEN/budgets.html,121,22138,2227
@@ -2588,6 +2588,6 @@ date,page,rows,bytes_gz,elements
 2026-10-23,countries/ZWE/finance.html,8,5242,442
 2026-10-23,datasets/data-centres/index.html,610,459556,2968
 2026-10-23,datasets/institution-hosting/index.html,1830,58327,2695
-2026-10-23,finance/all/index.html,12172,897666,2317
-2026-10-23,finance/budgets/index.html,11684,1086265,2559
+2026-10-23,finance/all/index.html,12178,898656,2317
+2026-10-23,finance/budgets/index.html,11690,1087630,2559
 2026-10-23,finance/index.html,1346,434280,2966
