@@ -1,6 +1,6 @@
 ---
 title: Zambia: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
@@ -108,7 +108,7 @@ The identity and payments work runs on the same kind of paper. Zambia has [an id
 <!-- finance.new -->
 
 <!-- derived -->
-Chinese policy banks are much the largest source of external digital finance: four commitments from China Eximbank and China Development Bank worth about US$1.02 billion, nearly four-fifths of a recorded total of about US$1.30 billion across nineteen commitments with a stated amount, starting between 2015 and 2026. IFC and MIGA follow with US$105 million between them, the World Bank with US$100 million and British International Investment with US$66 million (2015-2026). It is overwhelmingly debt — five loans or buyer's credits worth about US$1.09 billion against twelve grants worth about US$115 million — and connectivity takes about US$973 million, with US$211 million going to a single urban surveillance loan (2015-2026).
+Chinese policy banks are much the largest source of external digital finance: four commitments from China Eximbank and China Development Bank worth about US$878 million, three-quarters of a recorded total of about US$1.17 billion across twenty commitments with a stated amount, starting between 2015 and 2026. IFC and MIGA follow with US$105 million between them, the World Bank with US$100 million and British International Investment with US$66 million (2015-2026). It is overwhelmingly debt — five loans or buyer's credits worth about US$953 million against thirteen grants worth about US$116 million — and connectivity takes about US$876 million, with US$178 million going to a single urban surveillance loan (2015-2026).
 
 The largest single commitment dates from December 2017: a China Eximbank credit against [a US$392 million Huawei contract](https://dailyrevelationzambia.com/chitala-says-lungu-told-him-against-proceeding-on-392-million-huawei-deal-as-it-was-more-scandalous-than-the-purchase-of-42-fire-tenders/) to extend ZESCO's national fibre backbone, a deal a former ZESCO board chairman says he was pressed to proceed with. Chinese lending built the state's digital plant: [a US$65.5 million China Eximbank concessional loan of March 2015](http://www.mof.gov.zm/?wpfb_dl=50) covered a Huawei contract in full for Phase I of Smart Zambia, delivering the three government data centres, in Lusaka and at Zamtel's Roma and Kitwe switches, and [a US$302 million China Eximbank concessional loan for communication towers](https://www.lusakatimes.com/2017/06/28/government-gets-280-million-loan-china-bank-finance-communication-towers/) followed in August 2017. Older still: Lusaka's ZTE street-camera Safe City system went [back out to bid in 2015](https://www.lusakatimes.com/2015/04/14/government-resurrects-controversial-project-to-install-cctv-cameras-on-lusaka-streets/) after the first tender collapsed over corruption claims.
 
