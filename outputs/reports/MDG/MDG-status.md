@@ -106,24 +106,24 @@ The agreements with operational content are commercial or administrative rather 
 
 The largest commitment to Madagascar's digital estate is smaller than its headline figure: the World Bank's Digital and Energy Connectivity for Inclusion project [carries an envelope of US$375 million, of which US$135 million is for digital work](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf) after a 2024 restructuring partially cancelled financing (November 2025), rather than the [US$400 million approved in March 2023 for a run to 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P178701).
 
-The largest 2026 approval is [US$225 million for PRODUIRE2 on 6 July 2026](https://www.worldbank.org/en/news/press-release/2026/07/06/madagascar-to-boost-urban-resilience-and-jobs-in-antananarivo-and-toamasina), an urban resilience and jobs programme whose digital land services aim at documentation for 50,000 parcels in Greater Antananarivo and Greater Toamasina by 2032. [US$250 million for ASCENT Madagascar, approved on 6 May 2026](https://www.worldbank.org/en/news/press-release/2026/05/06/madagascar-new-world-bank-program-set-to-provide-reliable-and-affordable-energy-to-over-2-5-million-people-by-2030), is electricity and modern-cooking money, to reach more than 2.5 million people by 2030.
+[PRODUIRE2, US$225 million approved on 6 July 2026](https://www.worldbank.org/en/news/press-release/2026/07/06/madagascar-to-boost-urban-resilience-and-jobs-in-antananarivo-and-toamasina), is an urban resilience and jobs programme in which digital land services are a small part, aiming at documentation for 50,000 parcels in Greater Antananarivo and Greater Toamasina by 2032. [US$250 million for ASCENT Madagascar, approved on 6 May 2026](https://www.worldbank.org/en/news/press-release/2026/05/06/madagascar-new-world-bank-program-set-to-provide-reliable-and-affordable-energy-to-over-2-5-million-people-by-2030), is electricity and modern-cooking money, to reach more than 2.5 million people by 2030.
 
 Outside the Bank the money is smaller and more mixed: the European Investment Bank's [US$100 million to AXIAN Telecom in April 2025, US$40 million of it for Madagascar](https://techafricanews.com/2025/04/11/eib-grants-100m-to-axian-telecom-for-4g-5g-rollout-in-tanzania-and-madagascar/), for 4G and 5G under the Yas brand; [China Eximbank's CNY 337,998,700 concessional loan of February 2020](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf), at 1.5 percent over 30 years, for a Huawei 4G eLTE network across public safety and government agencies in Antananarivo; and [more than IDR 3.4 billion from Indonesia's Indo-Aid in July 2026](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/) for a Maritime Single Window at the ports agency APMF.
 
 <!-- derived -->
-Twelve digital-sector commitments to Madagascar are held with a start year between 2017 and 2026; the European Investment Bank and African Development Bank loans to AXIAN Telecom are held as regional operator financings and are not among them.
+Ten digital-sector commitments to Madagascar are held with a start year between 2017 and 2026 (October 2026); the European Investment Bank and African Development Bank loans to AXIAN Telecom are held as regional operator financings and are not among them.
 
 <!-- derived -->
-Eleven of the twelve carry a dollar amount, and together they come to about US$1.05 billion as at September 2026 — committed sums, not disbursements.
+Nine of the ten carry a dollar amount, and together they come to about US$484 million as at October 2026 — committed sums, not disbursements.
 
 <!-- derived -->
-The World Bank holds seven of the twelve and more than nine tenths of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (September 2026).
+The World Bank holds five of the ten and close to nine tenths of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (October 2026).
 
 <!-- derived -->
-Connectivity takes the largest share of the money, about US$455 million, ahead of land and property registries at US$225 million and digital identity at US$143 million (September 2026).
+Connectivity takes the largest share of the money, about US$255 million, ahead of digital identity at US$143 million and digital payments at about US$53 million (October 2026).
 
 <!-- derived -->
-Two of the World Bank lines are broader operations counted whole: the US$100 million development policy operation of June 2025, whose digital part is one reform area among telecoms, energy and mining, and PRODUIRE2, whose digital part is land services.
+The June 2025 development policy operation and PRODUIRE2 are not among them: digital is one reform area in the first and land services a small part of the second.
 
 ## ICT Infrastructure
 
