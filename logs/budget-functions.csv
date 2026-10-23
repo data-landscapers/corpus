@@ -505,7 +505,7 @@ NER,population-register,absent,,,,,hand,"keyword scan of the finance laws' activ
 NER,data-exchange,found,whole,2,ner-2025-47-170-17001038,,rows,,
 NGA,statistics,found,whole,42,nga-2024-0238004001,National Bureau of Statistics,rows,,
 NGA,civil-registration-id,found,whole,11,nga-2024-0161005001,National Identity Management Commission,rows,,
-NGA,communications-regulator,not looked,,,,Nigerian Communications Commission,,,
+NGA,communications-regulator,absent,,,,Nigerian Communications Commission,hand,"FY2024-FY2026: the 2024 bill details (2,290 pp.), the 2025 Act (2,185 pp.) and the 2026 Act details (2,635 pp.) searched by text for the Nigerian Communications Commission: no vote, project or transfer line; the Commission is funded from its own fees outside the federal budget (regulators' own accounts are a pending question, budget-followups.md)",2026-10-23
 NGA,ict-ministry-egov,found,whole,96,nga-2024-0156003001,National Information Technology Development Agency (NITDA),rows,,
 NGA,cybersecurity,found,whole,58,nga-2024-0116018001-ergp29212923,ngCERT,rows,,
 NGA,data-protection,found,whole,25,nga-2024-0220007001-ergp71928668,Nigeria Data Protection Commission,rows,,
