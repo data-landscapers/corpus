@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-gha-ghanas-hospitals-are-adopting-ai-but-the-machines-were-never",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "none",
+   "fact": "JoyNews' Emmanuel Samani writes that none of the people he interviewed could point to a Ghanaian rule governing how AI enters a hospital, who checks it or what happens when it is wrong, with clinical-software approval in a grey zone.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "clinical AI in hospitals",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
