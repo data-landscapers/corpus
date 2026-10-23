@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-20-mwi-making-national-id-work-beyond-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The interviewer refers to the National Statistical Office's projections based on the 2018 census.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "2018 census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

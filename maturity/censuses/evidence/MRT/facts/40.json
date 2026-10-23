@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-30-mrt-etat-civil-le-ministere-adopte-plus-de-verrous-pour-la-mauritanite",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "La Depeche reports that the fifth general population and housing census, organised in 2024, counted the country's population at nearly 5 million inhabitants.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RGPH-5 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2024",
+   "country_label": "RGPH-5 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

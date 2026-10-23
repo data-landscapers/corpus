@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-22-mwi-introducing-the-malawi-voice-data-commons",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Portulans Institute cites Malawi's 2018 census data for adult literacy limits (35%) and lack of regular internet access (73%).",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "2018 census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

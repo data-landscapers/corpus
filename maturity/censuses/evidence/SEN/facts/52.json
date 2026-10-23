@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-sen-perspectives-du-senegal-sur-les-progres-realises",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The ANEC presentation cites the fifth general population census (RGPH-5, 2023), carried out by the national statistics agency ANSD.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "RGPH-5",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-sen-note-publique-identite-numerique-e-gouvernement",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Economist Seydou Bocoum cites the RGPH-5 census of the national statistics agency ANSD for 40.5% of people aged six and over being illiterate in 2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "RGPH-5 2023",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2023",
+   "country_label": "RGPH-5 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "ANSD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
