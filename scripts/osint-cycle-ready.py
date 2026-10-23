@@ -55,7 +55,8 @@ do it is my responsibility to ensure that i don't interfere with your protocol."
 the switch Bill flips when he sits down to work. **A hold does not advance the watermark**,
 so the run happens when the hold clears rather than being lost. Untracked files deliberately
 do not count: a stray file nobody remembers would wedge the trigger for ever, and the state
-this is testing for is *a session is part-way through something*.
+this is testing for is *a session is part-way through something*. Nor does a line-ending
+flip with no content change, which is cleared rather than held on.
 
 **`--skip` passes a close over without building it, and loses nothing** *(2026-08-20)*. `BUILD.md`
 works off a set difference over slugs rather than a window, so a close that is never built is
@@ -252,11 +253,24 @@ def base_moved(since_head: str) -> str:
 
 
 def tree_dirty() -> bool:
-    """Tracked changes only — see the module docstring on why untracked files do not count."""
+    """Tracked changes only — see the module docstring on why untracked files do not count.
+
+    A file `git status` flags but `git diff HEAD` does not is a line-ending flip under
+    autocrlf, not work: it is re-staged, which clears it, and does not hold. Two nights were
+    lost to five such files on 2026-10-22 and 2026-10-23."""
+    def git(*args: str) -> str:
+        return subprocess.run(["git", "-C", ROOT, *args], capture_output=True, text=True,
+                              timeout=60).stdout
     try:
-        out = subprocess.run(["git", "-C", ROOT, "status", "--porcelain", "-uno"],
-                             capture_output=True, text=True, timeout=60)
-        return bool(out.stdout.strip())
+        flagged = {line[3:].strip() for line in git("status", "--porcelain", "-uno").splitlines()
+                   if line.strip()}
+        if not flagged:
+            return False
+        changed = {p.strip() for p in git("diff", "--name-only", "HEAD").splitlines() if p.strip()}
+        phantom = sorted(flagged - changed)
+        if phantom:
+            git("add", "--", *phantom)
+        return bool(changed)
     except (OSError, subprocess.SubprocessError):
         return False
 
