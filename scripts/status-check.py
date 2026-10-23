@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify a status baseline — `STATUS-INIT.md` -> *Verification*, checks A to I.
+"""Verify a status baseline — `STATUS-INIT.md` -> *Verification*, checks A to J.
 
     python scripts/status-check.py --unit RWA
     python scripts/status-check.py --unit all
@@ -15,6 +15,15 @@ which is the only thing it is for. C, E, F and I fail too — they are exact and
 under which a missing sub-section or a malformed acquire line is finished work. **H cannot be
 checked here at all**: whether a sub-section opens on news needs a reader who knows the country, so
 this prints the opening sentences and says so rather than pretending to judge them.
+
+**J — every sub-section within 350 words — reports and never fails** (housekeeping 33,
+2026-10-23). STATUS-INIT caps an h3 at 350 words, and stage 4's baseline edits add sentences night
+after night; nothing counted them, and 743 sub-sections across all 54 reports were over when
+this was added. An over-cap section is still a correct one, so J never triggers
+`REPORT-UPDATE.md`'s revert rule: it is `UNIT-REVIEW.md` step 3's list of what to trim. **A word is a whitespace-separated token of the
+prose a reader sees**: HTML comments dropped and each link reduced to its text, so a URL is never
+counted, and a free-standing dash is. ZAF's `tech.ai`, put at 343 by a careful hand count on
+2026-10-23, reads 343.
 
 The acquire rule is Bill's, 2026-08-15, and it turns on *held*, not on which intermediary carried
 the source. A cited URL the catalogue does not hold, dated 2024 or later, is a gap in the daily
@@ -44,6 +53,17 @@ APPARATUS = [
 # Marks a paragraph the report computed itself rather than took from a source. HTML comments pass
 # through the renderer unseen, so it is invisible to a reader and still machine-checkable.
 DERIVED = "<!-- derived -->"
+
+# Check J. The cap is STATUS-INIT's (*Writing*: "one continuous narrative per h3, up to 350 words").
+CAP = 350
+LINK_TEXT = re.compile(r"\[([^\]]*)\]\((?:<[^>]*>|[^)\s]*)\)")
+
+
+def prose_words(prose):
+    """Words as a reader counts them — comments dropped, every link reduced to its text."""
+    prose = re.sub(r"<!--.*?-->", "", prose, flags=re.S)
+    return len(LINK_TEXT.sub(r"\1", prose).split())
+
 
 LEAKS = [(re.compile(r"\[\["), "[[wikilink]]"),
          (re.compile(r"(?<![\w/`])(raw|wiki|index|lookups|prep|outputs)/[a-z0-9]", re.I),
@@ -272,6 +292,11 @@ def check_unit(unit, show_openings=False):
                    f"({newest}) — disclosed, not judged")
     else:
         r.check("I", "as-of honesty", [], gate=False)
+
+    # --- J — every sub-section within the cap ---------------------------------------------
+    long = [(slug or label, prose_words(p)) for slug, label, p in secs]
+    r.check("J", f"every sub-section within {CAP} words",
+            [f"{name}: {n} words" for name, n in long if n > CAP], gate=False, cap=50)
 
     # --- the two-line report, and the frontmatter it has to agree with -----------------------
     # A document whose frontmatter says 40 sources when it carries 35 is stating something false

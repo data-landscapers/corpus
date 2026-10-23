@@ -57,7 +57,7 @@ Read its output in `prep/scope/{ISO3}/`; re-derive nothing by hand.
 
 1. `python scripts/status-assemble.py {ISO3} --hub-reviewed {date} --intersections {n}`.
 2. `python scripts/status-acquire.py {ISO3} --compiled {date}`, then re-run the assemble. Commit other standing work in the share first, under its own subject; push after each commit.
-3. **Verify**: checks A to I on the assembled file.
+3. **Verify**: checks A to J on the assembled file.
 4. `python scripts/status-progress.py`.
 5. Report on two lines: `{ISO3} · sections written NN of 39 · not established NN · sources cited NN · acquire lines NN`, and the run cost.
 6. Log and commit, one line a country:
@@ -103,7 +103,7 @@ The five `geopol.*` slugs, `data.satellite` and `finance.mou` have no indicator 
 
 ## Verification
 
-**`python scripts/status-check.py --unit {ISO3}`** runs A to G, I and the frontmatter counts; H needs a reader, and `--openings` prints every first sentence for it.
+**`python scripts/status-check.py --unit {ISO3}`** runs A to G, I, J and the frontmatter counts; H needs a reader, and `--openings` prints every first sentence for it.
 
 - **A** — every link is held: in the catalogue, `africa-dpi-data.csv`, `all-nonstate.csv` or `iiag-profiles.csv`. Re-run after every edit pass.
 - **B** — every claim is linked (exempt: the *not established* sentence and a `<!-- derived -->` paragraph).
@@ -114,6 +114,7 @@ The five `geopol.*` slugs, `data.satellite` and `finance.mou` have no indicator 
 - **G** — no apparatus: none of *reportedly, apparently, it appears, sources indicate, according to available, it should be noted, however it is unclear, the data suggests, some sources, no source, the base, the dataset, the wiki, conflicting, discrepancy*.
 - **H** — every sub-section opens on news.
 - **I** — as-of honesty: never behind the newest held source it cites.
+- **J** — every sub-section within 350 words, counted as a reader sees them: comments dropped, each link its text alone. Reported, never failed: `UNIT-REVIEW.md` step 3 trims it.
 
 **A run that fails A, B or G is not issued.**
 
