@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 197
+sources_cited: 196
 sections_written: 39
 not_established: 3
 acquire_lines: 38
@@ -92,11 +92,11 @@ The European framework Somalia signed for digital government and cybersecurity c
 <!-- finance.new -->
 
 <!-- derived -->
-No other institution comes close to the World Bank: five of the thirteen digital-sector commitments on record are its own, and about USD 328 million of the roughly USD 354 million committed, around 88 per cent of the Somalia-only total once regional programmes are set aside (August 2026). The thirteen were announced between 2015 and August 2026 and run to 2028, with about USD 189 million for Somalia alone and the rest in three regional programmes. All of it is public money — four concessional loans, every one the World Bank's, six grants and three technical assistance operations, with no equity, commercial lending or guarantees. European financiers hold six of the thirteen but only about USD 20 million of the value (August 2026). Statistical capacity is the largest destination by number, taking four, ahead of government systems with three.
+No other institution comes close to the World Bank: five of the eleven digital-sector commitments on record are its own, about USD 220 million of the roughly USD 242 million on record, around 91 per cent (October 2026). The eleven started between 2015 and 2026 and run to 2030. All of it is public money — three concessional loans, every one the World Bank's, six grants and two technical assistance operations, with no equity, commercial lending or guarantees. European financiers hold three of the eleven but only about USD 15 million of the value (October 2026). Statistical capacity is the largest destination by number, taking three, ahead of government systems and connectivity with two each.
 
-The [SCALED-UP credit of USD 31 million, approved in March 2019](https://projects.worldbank.org/en/projects-operations/project-detail/P168115), and its [USD 70 million additional financing of June 2021](https://projects.worldbank.org/en/projects-operations/project-detail/P174769) run to 2026 across digital skills, financial services and job creation, and digital ID is [a major pillar of the World Bank's SPRING initiative, a programme of over USD 100 million](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative) (December 2025). Somalia is [one of two sovereign borrowers, with South Sudan, under the USD 162 million Eastern Africa Regional Digital Integration Project approved in May 2023](https://projects.worldbank.org/en/projects-operations/project-detail/P176181). Two earlier Bank operations closed in 2023: [a USD 50 million public financial management project](https://projects.worldbank.org/en/projects-operations/project-detail/P151492) that rolled IFMIS out across the federal government, Puntland and Somaliland, and [a USD 15 million trust-funded grant](https://d-portal.org/p?aid=XI-IATI-WBTF-P152358) that built the telecom policy and regulatory environment.
+The [SCALED-UP credit of USD 31 million, approved in March 2019](https://projects.worldbank.org/en/projects-operations/project-detail/P168115), and its [USD 70 million additional financing of June 2021](https://projects.worldbank.org/en/projects-operations/project-detail/P174769) run to 2026 across digital skills, financial services and job creation, and digital ID is [a major pillar of the World Bank's SPRING initiative, a programme of over USD 100 million](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative) (December 2025). Somalia is [one of two sovereign borrowers, with South Sudan, under the USD 162 million Eastern Africa Regional Digital Integration Project approved in May 2023](https://projects.worldbank.org/en/projects-operations/project-detail/P176181). Two earlier Bank operations closed in 2023: [a USD 50 million public financial management project](https://projects.worldbank.org/en/projects-operations/project-detail/P151492) that rolled IFMIS out across the federal government, Puntland and Somaliland, though the source does not split out how much of it went on the systems, and [a USD 15 million trust-funded grant](https://d-portal.org/p?aid=XI-IATI-WBTF-P152358) that built the telecom policy and regulatory environment.
 
-Everyone else works at a tenth of that scale. The European Union committed in 2024 [EUR 4.5 million (about USD 5 million) of IT equipment](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-28075) to security and justice institutions to 2028; Sweden funds [SEK 45 million (about USD 5 million) for the DHIS2 national health information system to 2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-13062) and has approved [SEK 20.5 million for the IMF's Somalia Country Fund](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-16842-16842A0101) for 2023-2027; the UK [GBP 3,312,013 (about USD 5 million) for statistical capacity to 2026](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300858/summary); and the African Development Bank [XDR 3.0 million (about USD 4 million) of statistics work to 2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-SO-KF0-011).
+Everyone else works at a tenth of that scale. The European Union committed in 2024 [EUR 4.5 million (about USD 5 million) of IT equipment](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-28075) to security and justice institutions to 2028; Sweden funds [SEK 45 million (about USD 5 million) for the DHIS2 national health information system to 2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-13062); the UK [GBP 3,312,013 (about USD 5 million) for statistical capacity to 2026](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300858/summary); and the African Development Bank [XDR 3.0 million (about USD 4 million) of statistics work to 2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-SO-KF0-011).
 
 ## ICT Infrastructure
 
@@ -353,7 +353,7 @@ No Chinese-financed or Chinese-operated digital infrastructure was in place in S
 <!-- geopol.eu -->
 
 <!-- derived -->
-European public financiers are the most numerous funders of Somalia's digital sector and among the least consequential. Six of the thirteen commitments on record are European — the European Union, Germany's BMZ and GIZ, Sweden's Sida twice and the UK's FCDO — yet between them they account for only about USD 20 million of committed value, a fraction of the World Bank's (August 2026).
+European public financiers are among the more frequent funders of Somalia's digital sector and among the least consequential. Three of the eleven commitments on record are European — the European Union, Sweden's Sida and the UK's FCDO — and between them they account for only about USD 15 million, a fraction of the World Bank's (October 2026).
 
 The European Union's own commitment, made in 2024, is [EUR 4.5 million, about USD 5 million, to the ICT Support to the Security, Justice, Governance and Accountability Project](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-28075), supplying IT and office equipment to Somali security and justice institutions at federal level and in two to three Federal Member States so that they can digitalise their human, financial and asset management. It runs to 2028.
 
