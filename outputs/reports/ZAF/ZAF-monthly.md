@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: ZAF
-ledger_rows: 160
-not_held: 20
-record: fa3535319f71
+ledger_rows: 165
+not_held: 19
+record: 045090f04819
 ---
 
 # News, Sep – Oct 2026
@@ -51,6 +51,20 @@ record: fa3535319f71
 </nav>
 
 ### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open Data Policy Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DataCipation: Shaping Harmonised and Inclusive Digital and Data Policies in Africa](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)** — Research ICT Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Validated data policies for Gambia, Comoros, Somalia; Zambia draft; SA open data framework; implementation toolkit next.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -895,6 +909,42 @@ MTN South Africa said it had completed a 5G-Advanced trial in the upper 6GHz ban
 **[Media Statement: Committee Concerned as Public Service Institution Connectivity Reaches Only 49.1% of Spectrum Obligation Target](https://www.parliament.gov.za/press-releases/media-statement-committee-concerned-public-service-institution-connectivity-reaches-only-491-spectrum-obligation-target)** — Parliament of South Africa, 14 October 2026
 
 South Africa's mobile operators had connected 10,851 of the 21,878 public service institutions required under their 2022 spectrum licence obligations, 49.1%, by March 2026, the regulator ICASA told Parliament's communications committee on 14 October 2026. Vodacom, Telkom and Liquid met the 65% minimum threshold; MTN and Rain did not.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National GIS infrastructure database (rapid deployment reg. 7)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Policy Direction on matters relevant to Electronic Communications Network Deployment pursuant to the National Policy and Policy Direction on Rapid Deployment of Electronic Communications Networks and Facilities, 2023 (General Notice 4206 of 2026)](https://www.gov.za/sites/default/files/gcis_document/202610/55609gen4026.pdf)** — Department of Communications and Digital Technologies (Government Gazette No. 55609), 20 October 2026
+
+Directs Icasa to review the 2010 Facilities Leasing Regulations and draft Rapid Deployment Regulations; GIS database.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Policy direction on network deployment and facilities leasing, 2026</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Policy Direction on matters relevant to Electronic Communications Network Deployment pursuant to the National Policy and Policy Direction on Rapid Deployment of Electronic Communications Networks and Facilities, 2023 (General Notice 4206 of 2026)](https://www.gov.za/sites/default/files/gcis_document/202610/55609gen4026.pdf)** — Department of Communications and Digital Technologies (Government Gazette No. 55609), 20 October 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malatsi orders faster broadband rollout as Icasa seeks to cut internet costs](https://www.citizen.co.za/lifestyle/technology/malatsi-orders-faster-broadband-rollout-icasa-moves-cut-internet-costs-sa/)** — The Citizen, 22 October 2026
+
+South Africa's communications minister Solly Malatsi issued a policy direction to Icasa under the Electronic Communications Act, gazetted on 20 October 2026, building on the 2023 rapid-deployment policy. It directs a review of the 2010 Facilities Leasing Regulations, new rapid-deployment regulations, a national GIS database of communications infrastructure and a dispute-resolution process between operators and landowners.
 
 </div>
 
@@ -1834,6 +1884,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PEMKey payment credential ecosystem</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa's digital ID could change how you pay](https://techcentral.co.za/south-africas-digital-id-could-change-how-you-pay/287578/)** — TechCentral, 22 October 2026
+
+DIDx, a South African digital identity firm with a commercial stake in the outcome, told TechCentral that a credential from home affairs' MyMzansi digital ID app could seed a payment credential under the Reserve Bank's PEMKey programme, sparing users a second onboarding. The Reserve Bank has not said whether MyMzansi credentials will be accepted or published the PEMKey sandbox participants.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -2465,6 +2529,20 @@ South Africa's Financial Sector Conduct Authority told Parliament's finance comm
 **[The biggest AI security risk may already be inside your company](https://techcabal.com/2026/10/06/south-africans-bypassed-work-ai-rules/)** — TechCabal, 6 October 2026
 
 Half of 903 South Africans surveyed had got round their employer's restrictions on AI tools in the past year, an Oliver Wyman partner told a cybersecurity roundtable in Johannesburg, citing a report due in November. He said 35% had seen AI-generated work passed off as human, and that consumer trust in AI rose from 11% in 2023 to 44% in 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mzansi Mind and the Siya language model</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mzansi Mind advances South Africa's sovereign AI ambitions with HPE infrastructure](https://www.hpe.com/us/en/newsroom/press-release/2026/10/mzansi-mind-advances-south-africas-sovereign-ai-ambitions-with-hpe-infrastructure.html)** — Hewlett Packard Enterprise, 22 October 2026
+
+HPE announced that Mzansi Mind, Solcon Capital's enterprise AI platform built on its Siya language model for all official South African languages, chose HPE servers with NVIDIA Blackwell GPUs and HPE Juniper switches, hosted at Equinix's Johannesburg data centre. The platform cites local regulatory and data-residency requirements and plans to extend to other African markets.
 
 </div>
 
