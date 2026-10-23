@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-30-tza-tanzania-s-ministry-of-communication-and-information-technology-partne",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The release says the President launched the 10-year Digital Economy Framework in July 2024, which the Jamii Stack implements; it does not say it was adopted.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "10-year Digital Economy Framework",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
