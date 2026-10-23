@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: LBR
 ledger_rows: 37
 not_held: 6
-record: 906f78fad933
+record: a63db2d8c5e3
 ---
 
 # News, Sep – Oct 2026
@@ -181,6 +181,14 @@ Liberia was admitted to the African Network of Cybersecurity Authorities and SMA
 **[Liberia Deepens Cybersecurity Ties With Morocco, Secures Membership In African Digital Security Networks](https://frontpageafricaonline.com/liberia-deepens-cybersecurity-ties-with-morocco-secures-membership-in-african-digital-security-networks/)** — FrontPage Africa, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
 Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[LIBERIA JOINS SMART AFRICA ALLIANCE AS 43RD MEMBER, ADVANCING PRESIDENT BOAKAI’S DIGITAL TRANSFORMATION AGENDA](https://emansion.gov.lr/index.php/media/press-release/liberia-joins-smart-africa-alliance-43rd-member-advancing-president-boakais)** — The Executive Mansion, Liberia, 22 October 2026
+
+Liberia became the 43rd member of the Smart Africa Alliance, the admission completed by a delegation led by Minister of State for Presidential Affairs Samuel Stevquoah on the margins of the Global AI and Digital Summit in Seoul. The Executive Mansion presented it as part of President Boakai's digital agenda, pointing to training through the Smart Africa Digital Academy.
 
 </div>
 
