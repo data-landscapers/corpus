@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: MDG
-ledger_rows: 36
+ledger_rows: 37
 not_held: 5
-record: 3cb0cf55280d
+record: efddd9f5d7f2
 ---
 
 # News, Sep – Oct 2026
@@ -212,6 +212,8 @@ Angola, the Democratic Republic of Congo, Madagascar, Mauritius, Rwanda and Tuni
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -261,6 +263,22 @@ At the launch of a GSMA report on Madagascar's digital economy, operators said t
 **[TECHNOLOGIE - Deux Malgaches sur dix connectés à Internet](https://www.lexpress.mg/2026/10/technologie-deux-malgaches-sur-dix.html)** — L'Express de Madagascar, 17 October 2026
 
 Only about two in ten people in Madagascar use the internet, although 3G and 4G networks cover more than 80% of the population. Operators blame the cost of handsets, and the 2026 finance law keeps the taxes on them.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Centre de lutte contre la cybercriminalite (CLCC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SENSIBILISATION - La prévention de la cybercriminalité se renforce](https://www.lexpress.mg/2026/10/sensibilisation-la-prevention-de-la.html)** — L'Express de Madagascar, 22 October 2026
+
+Madagascar's digital development ministry handed computers on 21 October 2026 to the Centre de lutte contre la cybercriminalité, which resumed work in June 2026 after an interruption, for its teams in all 24 regions. Under a responsible cyber-citizenship programme, regional staff are to be trained to detect offences on social media; the centre's coordinator said awareness comes first, with sanctions possible for those who persist.
 
 </div>
 
