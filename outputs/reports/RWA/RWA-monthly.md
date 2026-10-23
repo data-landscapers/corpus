@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: RWA
-ledger_rows: 47
+ledger_rows: 48
 not_held: 7
-record: b27054e50b31
+record: c23514671661
 ---
 
 # News, Sep – Oct 2026
@@ -769,6 +769,20 @@ The Internet Society's Rwanda Chapter ran a two-day training in English and Kiny
 **[Rwanda takes cybersecurity to TVET schools as first 24 teachers complete training](https://www.newtimes.co.rw/article/38825/news/featured/rwanda-takes-cybersecurity-to-tvet-schools-as-first-24-teachers-complete-training)** — The New Times, 9 September 2026
 
 Rwanda is introducing cybersecurity courses in technical and vocational education and training schools. The first cohort of 24 TVET teachers has completed a ten-day training-of-trainers programme to support the rollout. No cost, number of schools or start date for the courses is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity skills memorandum between MTN Rwanda and the cyber security authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Rwanda signs cybersecurity MoU with National Cyber Security Authority](https://techreviewafrica.com/news/7886/mtn-rwanda-signs-cybersecurity-mou-with-national-cyber-security-authority)** — Tech Review Africa, 22 October 2026
+
+MTN Rwanda signed a memorandum of understanding with the National Cyber Security Authority to support cybersecurity and data-protection skills training through the CyberHub Academy and Innovation Centre. No value or duration was stated.
 
 </div>
 
