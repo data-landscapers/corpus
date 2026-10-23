@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "policy",
-      "stage": "no evidence",
-      "standing": "",
+      "stage": "2",
+      "standing": "draft",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held names a national data policy, or says there is none.",
-      "note": "Counted from the four questions by study-ladder-datagovernance.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "ZMB-002",
+      "gaps": "No source held says a national data policy is adopted and still running.",
+      "note": "Research ICT Africa says it supported the drafting of the Zambian National Data Policy (2026), a policy being written; no adoption is held, so stage 2.",
+      "as_at": "2026-10-23"
     }
   ]
 }

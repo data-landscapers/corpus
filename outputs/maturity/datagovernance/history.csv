@@ -10,3 +10,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,UGA,gov.policy--data-governance-policy,fact,2,2,UGA-002,Arrivals added UGA-003; stage unchanged.
 2026-10-17,ZAF,gov.policy--data-governance-policy,fact,3,3,ZAF-003;ZAF-001,Arrivals added ZAF-003; stage unchanged.
 2026-10-22,UGA,gov.policy--data-governance-policy,fact,2,4,UGA-005;UGA-006,"National Data Strategy launched 20 Oct 2026 by the minister of state, naming a Steering Committee and a National Data Office; 2 -> 4."
+2026-10-23,ZMB,gov.policy--data-governance-policy,fact,no evidence,2,ZMB-002,"Research ICT Africa says it supported drafting of the Zambian National Data Policy (2026); a policy being written, so no evidence to 2"

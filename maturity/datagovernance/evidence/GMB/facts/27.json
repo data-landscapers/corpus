@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-xaf-ria-datacipation-data-policy-project",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Research ICT Africa says it helped deliver a validated national data policy and strategy for The Gambia.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "The Gambia national data policy and strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "The Gambia national data policy and strategy",
+   "country_label": "The Gambia national data policy and strategy",
+   "class": "policy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

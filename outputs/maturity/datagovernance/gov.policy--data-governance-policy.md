@@ -23,10 +23,10 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 | 5 Leading | 0 |
 | 4 Operating | 4 |
 | 3 Established | 8 |
-| 2 Nascent | 20 |
+| 2 Nascent | 21 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 22 |
+| No evidence | 21 |
 
 ## Countries
 
@@ -230,6 +230,12 @@ Tunisia's national data strategy was a final draft in March 2026; whether the go
 
 - The Tunisian open data portal's news lists a 27 March 2026 workshop presenting and discussing the final version of the draft national strategy for data governance, opening and valorisation ([source, 2026-03-27](https://data.gov.tn/fr/)).
 
+### Zambia: 2 Nascent
+
+Zambia was drafting a national data policy in 2026; whether the government has adopted it is not known.
+
+- Research ICT Africa says it supported the drafting of the Zambian National Data Policy ([source, 2026-09](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)).
+
 ### Angola: No evidence
 
 Nothing held says Angola has a national data policy, or says it has none, so no stage is set.
@@ -347,12 +353,6 @@ Not established: Nothing held names a national data policy, or says there is non
 ### Togo: No evidence
 
 Nothing held says Togo has a national data policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a national data policy, or says there is none.
-
-### Zambia: No evidence
-
-Zambia's 2023 e-government plan budgets for a data governance framework; no drafting is held, so no stage is set.
 
 Not established: Nothing held names a national data policy, or says there is none.
 
