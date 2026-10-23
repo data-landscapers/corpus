@@ -27,7 +27,7 @@ last_reviewed: 2026-10-03
 
 3. **Ask the same source the baseline question** — see *Maintaining the status baseline*. Asked of the record already open, independent of step 2.
 
-4. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} <slugs>`. (Sources on `origin_status: hold` are dropped by the script — pass them in regardless.)
+4. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} $(python scripts/report-scan.py --slugs {ISO3})` — citing does not shrink the list, and `--mark` records every slug the ledger cites too. (Sources on `origin_status: hold` are left out of `--slugs` until the hold clears.)
 
    **Then ask whether the pile is due a whole re-read** (countries only): `python scripts/report-scan.py --sections {ISO3}`. If it names sub-sections, re-read each whole against the ledger and the unit's held sources, as `UNIT-REVIEW.md` step 3 reads a status sub-section, and revise under *Maintaining the status baseline*. Then run `python scripts/report-scan.py --sections-read {ISO3}` and count the sub-sections revised in the run's log line. `report-layer.md` §2 holds the rule.
 

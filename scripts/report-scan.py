@@ -4,14 +4,22 @@
 Which initialised units hold sources the report pass has not yet looked at.
 
 The unit of "new" is a **set difference, not a date window**: a source counts as unconsidered
-until its slug appears either in the unit's `ledger.csv` or in its `considered.txt`. That makes an
-interrupted run repeat exactly the work it did not finish, catches a source published years ago but
-ingested last night, and leaves no clock to drift against — the same argument as `new/ -> raw/`.
+until its slug appears in the unit's `considered.txt`. That makes an interrupted run repeat exactly
+the work it did not finish, catches a source published years ago but ingested last night, and
+leaves no clock to drift against — the same argument as `new/ -> raw/`.
+
+**`considered.txt` alone is the test, not the ledger as well** *(housekeeping 30, 2026-10-23)*.
+Counting a cited slug as considered made `--slugs` shrink as the run cited: a pass that cited first
+and then ran `--mark UNIT $(--slugs UNIT)` skipped every slug it had just cited, leaving 7 CIV and 2
+MRT slugs unmarked. So `--slugs` now lists the same set from the start of a pass to its end, and
+`--mark` also records every slug the ledger cites, which keeps cited a subset of considered. A
+source on `origin_status: hold` is listed nowhere: `--mark` cannot consume it, so listing it would
+put it in front of every pass until the hold cleared, and it reappears on its own once it does.
 
     python scripts/report-scan.py                 # the work order, one line per unit
     python scripts/report-scan.py --json          # the same, machine-readable
     python scripts/report-scan.py --slugs NGA     # the unconsidered slugs for one unit
-    python scripts/report-scan.py --mark NGA a b  # record slugs as considered
+    python scripts/report-scan.py --mark NGA a b  # record slugs (and all the ledger cites) as considered
     python scripts/report-scan.py --month-due     # is a closed month owed an issue?
     python scripts/report-scan.py --sections NGA  # status sub-sections owed a whole re-read
     python scripts/report-scan.py --sections-read NGA  # stamp that re-read done today
@@ -103,7 +111,7 @@ def cited(unit):
     for row in csv.DictReader(io.open(path, encoding="utf-8", newline="")):
         if vault_lib.blank_csv_row(row):
             continue
-        for s in (row.get("sources") or "").split("|"):
+        for s in (row.get("sources") or "").replace(";", "|").split("|"):
             if s.strip():
                 out.add(s.strip())
     return out
@@ -132,24 +140,34 @@ def held_slugs():
     return out
 
 
+def unconsidered(unit, by_place, held=None):
+    """The unit's sources not yet in `considered.txt`, cited or not, less those on hold."""
+    held = held_slugs() if held is None else held
+    return by_place.get(unit, set()) - considered(unit) - held
+
+
 def mark(unit, slugs):
     """Record slugs as looked at — whether or not they moved a row. A source read once and found
     inert is never read again, which is what keeps the nightly cost proportional to the night.
 
     A source on `origin_status: hold` is the exception: it is unreadable, not inert, so marking it
     considered would consume it permanently and no pass would return to it once the hold cleared
-    (post-run note 138 — 12 held sources across five units, and two RWA rows left unsettled)."""
+    (post-run note 138 — 12 held sources across five units, and two RWA rows left unsettled).
+
+    Every slug the ledger cites is marked with them: a cited source has been read, and `--mark
+    UNIT` with no slugs is the backfill for a ledger cited before this rule (housekeeping 30)."""
     have = considered(unit) | held_slugs()
     # Strip before testing. A caller piping `--slugs` through a shell on Windows appends \r to
     # every argument, which matched nothing in `have`, wrote held sources into considered.txt and
     # left no trace — `considered()` strips on read, so the damage was invisible afterwards.
     clean = [s for s in (x.strip() for x in slugs) if s]
+    clean += sorted(cited(unit) - set(clean))
     # Refuse a slug that is not in this unit's own source set. Parallel unit passes that stage
     # their slug list under a shared filename can overwrite each other, and a foreign slug written
     # here is silent and permanent: it consumes nothing visible, but the unit it *belongs* to never
     # sees it again. Membership is the only test that catches it.
     own = sources_by_place().get(unit, set())
-    alien = [s for s in clean if s not in own]
+    alien = [s for s in clean if s not in own and s not in cited(unit)]
     if alien:
         sys.stderr.write(f"{unit}: refused {len(alien)} slug(s) not in this unit's source set: "
                          + ", ".join(alien[:5]) + ("…" if len(alien) > 5 else "") + "\n")
@@ -254,7 +272,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--slugs", metavar="UNIT")
-    ap.add_argument("--mark", nargs="+", metavar=("UNIT", "SLUG"))
+    ap.add_argument("--mark", nargs="+", metavar=("UNIT", "SLUG"),
+                    help="record slugs as considered; every slug the ledger cites is recorded too")
     ap.add_argument("--seed", metavar="UNIT",
                     help="mark every source the unit currently holds as considered — what "
                          "initialisation owes, because it has already read the base")
@@ -327,13 +346,14 @@ def main():
     by_place = sources_by_place()
     done = units()
     if a.slugs:
-        left = sorted(by_place.get(a.slugs, set()) - cited(a.slugs) - considered(a.slugs))
+        left = sorted(unconsidered(a.slugs, by_place))
         print("\n".join(left))
         return
 
     work, skipped = [], []
+    held = held_slugs()
     for u in done:
-        n = len(by_place.get(u, set()) - cited(u) - considered(u))
+        n = len(unconsidered(u, by_place, held))
         if n:
             work.append({"unit": u, "unconsidered": n})
     for p, s in sorted(by_place.items()):
