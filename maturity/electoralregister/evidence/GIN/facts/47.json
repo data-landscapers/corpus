@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "Jurist Sayon Mara writes that the first phase of PN-RAVEC, launched 15 April 2025 with biometric enrolment of people aged 10 and over, consists essentially of building the RNPP in order to extract the electoral file for the referendum and national and local elections.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "PN-RAVEC",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PN-RAVEC",
+   "country_label": "Programme National de Recensement Administratif à Vocation d'État Civil",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

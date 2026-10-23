@@ -28,6 +28,9 @@ CPV,SNIAC,Cabo Verde,other,,,,2024-01-01-rediaspora-diaspora-electoral-registrat
 CPV,Portal Consular,Cabo Verde,other,,DGAPE,,2024-01-01-rediaspora-diaspora-electoral-registration
 DJI,Registre national des personnes physiques,Djibouti,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DJI,Fichier électoral national,Djibouti,electoral,,"Direction des Elections, Ministry of the Interior",,2016-01-21-dji-jo-decret-2016-019-listes-electorales
+DJI,Social Registry,Djibouti,other,,Ministry of Social Affairs and Solidarities,,2025-03-14-wb-dji-007-djibouti-integrated-community-resilience-project
+DJI,SIGEC,Djibouti,other,,Mairie de Djibouti,,2024-04-28-villededjibouti-sigec-diagnostic
+DJI,SIGEC,Djibouti,other,,Mairie de Djibouti,,2024-02-01-dji-diagnostic-du-systeme-informatise-de-gestion-de-l-etat-civil-sigec-de
 DZA,ANIE plateforme numérique de révision et de suivi des listes électorales,Algérie,electoral,online platform with central database,ANIE,pilot in Oran,2025-10-28-dza-ouest-tribune-anie-plateforme-numerique-listes
 EGY,National Elections Authority voter database,Egypt,electoral,,National Elections Authority,,2025-09-19-egy-elwatannews-nea-voter-database-national-id
 ETH,Mirchaye,Ethiopia,electoral,"web and mobile app, plus Board tablets",National Election Board of Ethiopia,,2026-01-05-nebe-mirchaye-voter-registration-system
@@ -42,6 +45,7 @@ GIN,fichier électoral biométrique permanent,Guinea,electoral,biometric,Directi
 GIN,fichier électoral,Guinea,electoral,,Direction générale des élections,,2026-04-24-dge-etat-avancement-preparatifs-elections-31-mai
 GIN,fichier électoral biométrique,Guinea,electoral,,DGE,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,fichier électoral biométrique,Guinea,electoral,,,,2026-03-29-plfi-2026-matd-commission-des-lois-cnt
+GIN,PN-RAVEC,Programme National de Recensement Administratif à Vocation d'État Civil,other,,,,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census
 GMB,2021 voter register,The Gambia,electoral,biometric,Independent Electoral Commission,,2026-09-03-gambia-iec-revising-courts-voter-register-askani
 GNB,Cadernos Eleitorais,Guinea-Bissau,electoral,,GTAPE,,2026-08-18-guinea-bissau-gtape-entrega-cadernos-eleitorais-cne
 GNB,Caderno Eleitoral,Guinea-Bissau,electoral,GTAPE database,GTAPE,,2025-08-15-ang-gtape-966152-eleitores-caderno-eleitoral

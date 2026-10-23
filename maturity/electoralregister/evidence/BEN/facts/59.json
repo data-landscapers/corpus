@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "ANIP says electoral lists are generated automatically from the RNPP.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "ANIP says electoral lists are generated from the RNPP, the national identification register.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
