@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: GIN
-ledger_rows: 25
+ledger_rows: 26
 not_held: 3
-record: a8818764f7e3
+record: 1f148668afc1
 ---
 
 # News, Sep – Oct 2026
@@ -405,6 +405,20 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 </nav>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">224 N'Lambe language API</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[224 N'LAMBÉ API - L'infrastructure linguistique pour les technologies guinéennes](https://fr.linkedin.com/posts/ahmed-conscient-bald%C3%A9-655b85177_224-nlamb%C3%A9-api-linfrastructure-linguistique-activity-7503887516295430145-kypq)** — 224 N'Lambé (LinkedIn), 10 September 2026
+
+Startup offers translation APIs between French, English and Pular, Malinké and Soussou for Guinean apps.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
