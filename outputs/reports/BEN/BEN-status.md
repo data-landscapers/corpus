@@ -1,12 +1,12 @@
 ---
 title: Benin: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 217
+sources_cited: 218
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -427,4 +427,4 @@ Benin's digital agency has written the exit terms it wants from outside supplier
 
 Some of the state's software runs on vendors' platforms. [Seamfix built the biometric passport renewal application on its own GovSmart platform (December 2025)](https://www.biometricupdate.com/202512/seamfix-revealed-as-developer-of-benins-biometric-passport-renewal-app), and [the state deposit fund CDC Bénin tendered in May 2026 to link its directory to Microsoft Entra ID and harden its Microsoft 365 estate](https://www.cdcb.bj/Appels-d-offre). ASIN's stated answer is spread rather than self-sufficiency: [its director general described Benin's partners in 2024 as a portfolio spanning Estonia, Rwanda, China and France, chosen to avoid dependence on any one](https://www.digitalbusiness.africa/en/marc-andre-loko-benins-digital-strategy-involves-a-diversified-portfolio-of-best-in-class-partners). Whether the state holds the source code for the passport renewal platform, or can exit its operating contract, was not on record as at September 2026.
 
-Across borders, Benin is one of the three states in [Smart Africa's cross-border digital-identity pilot with Rwanda and Ghana](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty), whose [technical mission in Kigali in April 2026 tested PKI trust chains and API contracts between the three](https://techreviewafrica.com/news/5165/); [by October 2026 the three national identity systems were connected through the exchange, with live testing of mutual ID-card verification for air and land travel announced and no date set](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing).
+Across borders, Benin is one of the three states in [Smart Africa's cross-border digital-identity pilot with Rwanda and Ghana](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty), whose [technical mission in Kigali in April 2026 tested PKI trust chains and API contracts between the three](https://techreviewafrica.com/news/5165/); [by October 2026 the three national identity systems were connected through the exchange, with live testing of mutual ID-card verification for air and land travel announced](https://www.biometricupdate.com/202610/smart-africa-moves-cross-border-digital-id-interoperability-toward-live-testing), and [Smart Africa's transformation director targeted the first controlled operational pilot for early 2027](https://www.newtimes.co.rw/article/39884/news/technology/rwanda-ghana-benin-test-cross-border-digital-identity-verification).
