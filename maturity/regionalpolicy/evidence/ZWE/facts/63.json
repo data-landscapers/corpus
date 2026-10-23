@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-moz-mozambique-joins-sadc-regional-working-group-on-data-protect",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "SADC ministers responsible for ICT met on 26 June 2026 in Bulawayo, Zimbabwe, and urged member states to appoint representatives to the Regional Working Group on Data Protection.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "SADC ICT ministers meeting",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC Regional Working Group on Data Protection",
+   "country_label": "SADC working group",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "SADC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

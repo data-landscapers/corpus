@@ -323,7 +323,7 @@ Cameroon's regulator took part in the Central African regulators' session in Feb
 
 ### Central African Republic: 2 Nascent
 
-The Central African Republic is listed on Africa's 2025 declaration on artificial intelligence; no agreement or role of its own is known.
+The Central African Republic joined Smart Africa by 2026 and signed Africa's 2025 declaration on artificial intelligence; no agreement of its own is known.
 
 - The Central African Republic is listed among the 49 countries that signed the Africa Declaration on Artificial Intelligence at Kigali on 4 April 2025, alongside the African Union and Smart Africa ([source, 2025-04-04](https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf)).
 
@@ -369,7 +369,7 @@ Madagascar took part in African Union and southern African training and meetings
 
 ### Sao Tome and Principe: 2 Nascent
 
-Sao Tome and Principe took part in Lusophone data governance workshops in 2025 and 2026; no agreement of its own is known.
+Sao Tome and Principe joined the Central African regulators' assembly in 2026 and attends Lusophone data workshops; no agreement of its own is known.
 
 - AUDA-NEPAD launched its Programme for African Developing Island Economies on 24 July 2026 at an African Union ministerial segment in Abidjan, with Sao Tome and Principe named among the seven island states joining a framework that has digital transformation as one of six pillars ([source, 2026-07-24](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies)).
 - Sao Tome and Principe was among six countries whose policymakers and experts attended the Second Lusophone Africa Data Governance Workshop in Luanda on 15-17 June 2026, co-hosted by Angola's data protection agency, Smart Africa, the World Bank, CETIC.br and UNESCO; attendance only, no agreement signed (the document is dated 28 July 2026, the event June) ([source, 2026-06](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda)).

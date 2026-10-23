@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-moz-mozambique-joins-sadc-regional-working-group-on-data-protect",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Mozambique joined the SADC Regional Working Group on Data Protection through INTIC, with board chair Lourino Chemane appointed effective member and Rosa Dique alternate, after SADC ICT ministers urged states to appoint representatives.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "SADC Regional Working Group on Data Protection",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC Regional Working Group on Data Protection",
+   "country_label": "SADC working group",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "SADC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
