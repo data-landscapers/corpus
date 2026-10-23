@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: ZMB
-ledger_rows: 45
+ledger_rows: 46
 not_held: 34
-record: d3056ba8cd8c
+record: 3acc551931f3
 ---
 
 # News, Sep – Oct 2026
@@ -47,6 +47,20 @@ record: d3056ba8cd8c
 </nav>
 
 ### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Data Policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DataCipation: Shaping Harmonised and Inclusive Digital and Data Policies in Africa](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)** — Research ICT Africa, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Validated data policies for Gambia, Comoros, Somalia; Zambia draft; SA open data framework; implementation toolkit next.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
