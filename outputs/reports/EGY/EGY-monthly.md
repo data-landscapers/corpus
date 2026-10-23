@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: EGY
-ledger_rows: 98
+ledger_rows: 100
 not_held: 41
-record: 67e3f0b7833b
+record: 869e54bb5288
 ---
 
 # News, Sep – Oct 2026
@@ -189,6 +189,20 @@ Ahmed Badawi, newly elected chair of the Egyptian House of Representatives' ICT 
 **[اتصالات النواب: الانتهاء من قانون السلامة الرقمية خلال شهر](https://gate.ahram.org.eg/News/5939716.aspx)** — Al-Ahram, 5 October 2026
 
 Egypt's parliamentary ICT committee chair Ahmed Badawi said the committee will open its new session with the digital safety bill and expects it finished within a month. The bill protects children on social media and adds rules for adults on online betting, defamation and disinformation; the committee held six hearings with 14 ministers and agency heads.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Moratorium on new fintech consumer-finance licences (FRA Resolution 43 of 2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s Souhoola Secures FRA Approval for Fintech-Based Consumer Finance](https://techafricanews.com/2026/10/22/egypts-souhoola-secures-fra-approval-for-fintech-based-consumer-finance/)** — Tech Africa News, 22 October 2026
+
+Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-based consumer finance through V-Lens, covering electronic identification and verification, e-KYC, electronic contracts and digital record-keeping. The application was approved because it predated FRA Resolution No. 43 of February 2026, which suspended new fintech consumer-finance licence applications for a year.
 
 </div>
 
@@ -1357,6 +1371,20 @@ A draft resolution on the implications of artificial intelligence for human righ
 **[مصر تقود مبادرة لاعتماد أول قرار بمجلس حقوق الإنسان حول الذكاء الاصطناعي](https://www.youm7.com/story/2026/10/6/%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A3%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%AD%D9%88%D9%84/7570270)** — Youm7, 6 October 2026
 
 Egypt, with Bangladesh and a cross-regional group, led the UN Human Rights Council to adopt by consensus its first resolution on the implications of AI for human rights. It stresses the right to development, decent work, linguistic diversity and technology transfer to developing countries, and mandates a Council meeting and a report on AI, human rights and the capacity gap. The adoption date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Consumer Protection Agency AI analytics</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Consumer Protection Agency head: AI used to analyse complaints and detect violation patterns](https://cairo.gov.eg/en/news/2026/october/22/ee7ef990fe2f40609756579de54d9b28)** — Cairo Governorate Electronic Portal, 22 October 2026
+
+The head of Egypt's Consumer Protection Agency, Ibrahim El-Segini, told Egypt Forum 2026 that the agency uses AI on complaints, inspection data, prices, adverts and online stores to spot violation patterns and high-risk sectors. It is also building a unified electronic inspection system tied to a central database and upgrading its complaints system to sort and route reports automatically.
 
 </div>
 
