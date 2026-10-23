@@ -68,7 +68,7 @@ Every record carries `scope_confidence` (`whole` | `partial` | `unclear`) and `s
 
 **An in-year figure is not an outturn.** A quarterly execution number goes in the stage history; putting it in `actual_total` lets the compile read three months as the year and print a false execution rate.
 
-**A commitment plan is not a stage**, and neither are the engagement and liquidation columns of a French-style chain. They are context.
+**A commitment plan is not a stage**, and neither are the engagement and liquidation columns of a French-style chain. They are context. **A Burundi quarterly reporting workbook's "budget annuel révisé" is the revised stage** *(Bill, 2026-10-23)*: it is the year's revised credit, not a commitment plan, and its quarterly split stays context.
 
 **MTEF outer years and plan-period totals are not records.**
 

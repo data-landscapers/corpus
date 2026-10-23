@@ -41,7 +41,7 @@ BDI,hosting,Defence,,Ministère de la Défense nationale et des Anciens combatta
 BDI,hosting,Armed Forces,,Force de défense nationale du Burundi,no line,
 BDI,hosting,Justice,,"Ministère de la Justice, des Droits de la personne humaine et du Genre",line,bdi-2025-16-017-21430-0339-01
 BDI,hosting,Treasury / Finance,treasury-fmis,"Ministère des Finances, du Budget et de l'Économie numérique",line,bdi-2024-14-001-61210-0121-01
-BDI,hosting,Revenue Service,revenue-systems,Office burundais des recettes,no line,
+BDI,hosting,Revenue Service,revenue-systems,Office burundais des recettes,line,bdi-2025-14-012-01201-012010228
 BDI,hosting,Interior / Home Affairs,,"Ministère de l'Intérieur, du Développement communautaire et de la Sécurité publique",line,bdi-2024-11-002-66110-0311-02
 BDI,hosting,Central Bank,,Banque de la République du Burundi,no line,
 BDI,hosting,Electoral commission,electoral-register,Commission électorale nationale indépendante,no line,

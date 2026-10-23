@@ -14,9 +14,9 @@ AGO,social-registry,found,whole,2,ago-2025-masfamu-4721-sistema-integrado-de-cad
 AGO,population-register,absent,,,,,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names a population register,2026-10-02
 AGO,data-exchange,absent,,,,,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names interoperability or a data exchange,2026-10-02
 BDI,statistics,found,whole,11,bdi-2024-14-001-66110-0121-15,Institut national de la statistique du Burundi,rows,,
-BDI,civil-registration-id,found,partial,3,bdi-2024-11-002-66110-0311-02,,rows,,
+BDI,civil-registration-id,found,whole,4,bdi-2025-11-003-00301-003010127,,rows,,
 BDI,communications-regulator,found,partial,3,bdi-2024-01-004,Agence de régulation et de contrôle des télécommunications,rows,,
-BDI,ict-ministry-egov,found,whole,18,bdi-2024-21-001-21440-0461-01,Gouvernement du Burundi (zone parente),rows,,
+BDI,ict-ministry-egov,found,whole,20,bdi-2024-21-001-21440-0461-01,Gouvernement du Burundi (zone parente),rows,,
 BDI,cybersecurity,found,partial,3,bdi-2024-32-001-62580-0919-01,,rows,,
 BDI,data-protection,absent,,,,,hand,"Keyword scan of the OCR of the finance laws for 2024/25, 2025/26 and 2026/27 (Tableau D, every institution and service, read at the sitting of 2026-09-25): no line names personal data or a data protection body.",2026-10-03
 BDI,revenue-systems,found,partial,8,bdi-2026-14-063-61610-0121-01,Office burundais des recettes,rows,,
