@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-20-zwe-minister-shava-launches-ai-hub-at-zimbabwe-open-university",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "delivered",
+   "value": "delivered",
+   "fact": "The Herald reports the government-commissioned National Information Access Centre at Zimbabwe Open University includes an inclusive library with assistive technologies, and the vice chancellor says it has smart boards and assistive devices for students with disabilities.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "National Information Access Centre (NIAC)",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
