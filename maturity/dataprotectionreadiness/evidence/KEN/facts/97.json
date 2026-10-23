@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-xaf-au-member-states-validate-african-continental-health-data-governance-fr",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Africa CDC says Kenya's Data Protection Act provides a legal foundation for managing health information.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

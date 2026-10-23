@@ -1,0 +1,27 @@
+{
+ "slug": "2024-05-09-ken-digital-identity-id-roll-out-on-course-ps",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Data Protection Commissioner Immaculate Kassait is quoted as saying her office offers advice and training and audits the Ministry of Interior's data custody.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Commissioner says her office received a data protection impact assessment from the Ministry of Interior, gave training and continues to audit; the PS says more than 10 such assessments were done for the digital ID.",
+   "as_of": "2024-05-09",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
