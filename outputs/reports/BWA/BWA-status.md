@@ -1,6 +1,6 @@
 ---
 title: Botswana: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: BWA
 region: XSA
 built_by: STATUS-INIT
@@ -108,20 +108,20 @@ Botswana's signing year has been with neighbours, Gulf partners and China rather
 The largest agreement by value is not a financing instrument at all. The government and India's KP Group [signed a memorandum of understanding on 17 December 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) to develop renewable generation, storage and transmission, an investment the Indian side put to its stock exchange at INR 360 billion, at a capacity it envisaged at around 5GW.
 
 <!-- derived -->
-Only four distinct external commitments to Botswana's energy and digital estate are on the record, spanning 2015 to 2030 and coming to roughly USD 4.09 billion, of which that single memorandum accounts for about USD 4 billion (September 2026).
+Only three external commitments to Botswana's digital estate are on record, spanning 2015 to 2030 and worth about USD 9 million together; the KP Group memorandum is an energy agreement and is not among them (October 2026).
 
 ### New investments
 <!-- finance.new -->
 
 The World Bank's Renewable Energy Support and Access project, P181221, worth about USD 88 million, [made its first disbursement on 23 December 2025](https://documents1.worldbank.org/curated/en/099060526010525521/pdf/P181221-f15c26ee-4bfd-4854-9604-6a795867a2be.pdf), three weeks after taking effect and some six months after signature on 3 June 2025.
 
-Alongside it the European Union runs a [EUR 1.5 million grant for digital transformation in Botswana running to 2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893), of which EUR 1.4 million is a Cooperation Facility aimed at the capacity of government institutions — dialogue, expertise exchange and civil society engagement rather than systems (2022).
+Alongside it the European Union runs a [EUR 1.5 million grant for digital transformation in Botswana running to 2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893), of which EUR 1.4 million is a Cooperation Facility aimed at the capacity of government institutions — dialogue, expertise exchange and civil society engagement rather than systems (2022); the source does not say how much of the grant is digital.
 
 <!-- derived -->
-Four financiers appear in Botswana's external record, one commitment apiece and none of them twice: India's KP Group, the World Bank, the European Union and the Government of China, using four different instruments between them — a memorandum of understanding, a loan and two grants (September 2026).
+Three financiers appear in the record of Botswana's digital estate, one commitment apiece: Orange Botswana, investing its own money, and the European Union and the Government of China, through grants (October 2026).
 
 <!-- derived -->
-Almost all of that value is energy rather than digital. The digitally directed money comes to the European Union's policy grant and an eleven-year-old Chinese equipment donation (September 2026).
+The largest of the three is Orange Botswana's USD 5 million Tier III data centre; the rest is the European Union's policy grant and an eleven-year-old Chinese equipment donation (October 2026).
 
 The domestic programme is where the digital money is. Finance Minister Ndaba Gaolathe [sought P8.83 billion for the Public Investment Programme under NDP 12](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) on 31 October 2025, P2.07 billion of it to finish existing projects and P6.76 billion for new ones under the Botswana Economic Transformation Programme; the [largest single institutional share goes to revenue collection](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) and the [national payment switch sits in a P486 million ICT allocation alongside an accounting and budgeting system upgrade and a fintech sandbox](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/).
 
@@ -430,7 +430,7 @@ Botswana's own approach has run in more than one direction. Its Minister of Comm
 
 European money is going into the part of Botswana's digital state that has moved slowest. An [EU-funded Expertise France project, working with Estonia's development agency ESTDEV, has been working on the National Interoperability Framework and its standards and guidelines, on core registries and on proof-of-concept solutions since August 2024](https://www.expertisefrance.fr/en/projects/digital-transformation-botswana). The programme's own [Action Document sets an interoperability framework target for 2023 and core registry compliance by 2027](https://expertise-france.gestmax.fr/_expertise_france/public_files/20220425-ad-digital-bw-final.pdf), and the implementation roadmap between those two points is not published, with no structured implementation milestones set out between them (2024).
 
-The financing behind it is modest and aimed at institutions rather than systems. The EU [runs a EUR 1,500,000 grant, about USD 1.6 million, supporting digital transformation in Botswana over 2022–2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893), of which EUR 1,400,000 is a Cooperation Facility directed at the capacity of government institutions, with dialogue, expertise exchange and civil society engagement as the stated means.
+The financing behind it is modest and aimed at institutions rather than systems. The EU [runs a EUR 1,500,000 grant, about USD 1.6 million, supporting digital transformation in Botswana over 2022–2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893), of which EUR 1,400,000 is a Cooperation Facility directed at the capacity of government institutions, with dialogue, expertise exchange and civil society engagement as the stated means; the source does not say how much of the grant is digital.
 
 The relationship's centre of gravity is Estonian. President Duma Gideon Boko [visited e-Estonia on 21 May 2025 during a state visit that included meetings with President Alar Karis, Estonian digital experts, technology firms and academic institutions](https://itweb.africa/article/botswana-taps-estonias-blueprint-to-drive-digital-growth/LPp6VMrBJ9jMDKQz), [examining how that country's e-governance model has changed public service delivery, transparency and citizen empowerment](https://techafricanews.com/2025/05/22/president-duma-gideon-boko-highlights-digital-transformation-lessons-on-estonia-state-visit/). European commercial interest in Botswana's compute is at an earlier stage than any of this: the Palapye data centre campus memorandum of October 2025 was signed on the energy side by [Netherlands-based AAAS Energy](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana).
 
@@ -449,7 +449,7 @@ Gulf involvement in Botswana's compute is separate from all of this and predates
 <!-- geopol.india -->
 
 <!-- derived -->
-India's KP Group is one of only four financiers on Botswana's record, alongside the World Bank, the European Union and the Government of China; each appears once, and between them they use four different instruments — a memorandum of understanding, a loan and two grants (September 2026).
+India's KP Group is not among the three financiers on the record of Botswana's digital estate — Orange Botswana, the European Union and the Government of China — because its memorandum is an energy agreement (October 2026).
 
 KP Group's is the memorandum. The Government of Botswana and the Indian group [signed it in an announcement of 17 December 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) to collaborate on large-scale renewable generation, storage and transmission capacity, in what is the largest single external commitment on record for Botswana's energy and digital estate.
 
