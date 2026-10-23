@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-27-mwi-government-engages-stakeholders-on-etca-regulations",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Digital Malawi Project report refers to the existing Electronic Transactions and Cyber Security Act, which the Electronic Transactions and Cyber Security (Amendment) Bill, 2023 would amend by repealing Part VII; draft Cyber Security Regulations were put to consultation.",
+   "as_of": "2024-02-27",
+   "date_precision": "day",
+   "system": "Electronic Transactions and Cyber Security Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
