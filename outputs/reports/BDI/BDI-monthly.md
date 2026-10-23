@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: BDI
-ledger_rows: 21
+ledger_rows: 22
 not_held: 10
-record: ee2bb8f6448f
+record: a6119f3759d0
 ---
 
 # News, Sep – Oct 2026
@@ -357,6 +357,20 @@ Burundi presented the ambitions of its national artificial intelligence strategy
 **[Country Profile on AI Governance: Burundi](https://www.aipolicy.africa/country-profiles/burundi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Burundi scored 0.70 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 45 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (1.40) and its weakest is Innovation and Ecosystem (0.20); the profile records an AI strategy validated in April 2026 but not adopted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ijwi ry'Ikirundi AI Kirundi speech and text dataset</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ijwi-ry-Ikirundi-AI/Kirundi_Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — Ijwi ry'Ikirundi AI, 28 September 2026
+
+Volunteer Kirundi-French-English corpus: 4,809 sentences, 2,996 complete pairs; full set private, commercial licence.
 
 </div>
 
