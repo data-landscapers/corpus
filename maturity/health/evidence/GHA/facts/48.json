@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-14-gha-bawumia-launches-ghana-card-number-at-birth",
+ "facts": [],
+ "systems": [
+  {
+   "system": "District health information system e-tracker",
+   "country_label": "Ghana",
+   "class": "tracker",
+   "platform": "DHIS2",
+   "owner": "Ghana Health Service",
+   "tiers": "CHPS;health centres;hospitals"
+  }
+ ],
+ "note": "E-tracker is a birth-notification tracker, not routine HMIS or EMR."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-22-gha-ghanaian-clinic-stored-patient-records-on-an-unassessed-syst",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lightwave Health Information Management System (LHIMS)",
+   "country_label": "LHIMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health, with vendor Lightwave",
+   "tiers": ""
+  },
+  {
+   "system": "Ghana Health Information Management System (GHIMS)",
+   "country_label": "GHIMS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ghana Health Service",
+   "tiers": ""
+  }
+ ],
+ "note": "GHIMS and LHIMS are described as patient registration, records, billing and claims systems, not routine facility reporting to the ministry."
+}

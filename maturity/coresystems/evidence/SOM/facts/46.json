@@ -1,0 +1,23 @@
+{
+ "slug": "2025-08-17-som-somalia-launches-danabeysan-digital-signature-system-to-streamline-gov",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SFMIS",
+   "country_label": "Somalia Financial Management Information System",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "Danabeysan",
+   "country_label": "Danabeysan",
+   "class": "other",
+   "platform": "digital signature platform",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "SFMIS is dated only to 2014 and 2015 and the article does not say it is in use across central government now; nothing on tax or payroll systems; Danabeysan is a payment-authorisation signature platform, not a stated renewal of a core system."
+}
