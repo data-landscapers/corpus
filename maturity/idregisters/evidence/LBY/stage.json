@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "5",
-      "register": "underway",
+      "stage": "3",
+      "register": "inservice",
       "several": "",
       "matching": "reported",
       "cap": "",
       "flags": "",
       "stage_sources": "LBY-006",
-      "gaps": "No source held since October 2023 shows a public register keyed on the national number in service.",
-      "note": "The Attorney General reports more than 17,000 non-existent ID numbers and nearly 40,000 linked salary numbers deleted after checking (2025). Under the ladder's later-yes rule this figure answers the questions below it.",
+      "gaps": "No source held since October 2023 shows three or more main public registers using the national ID number.",
+      "note": "The December 2025 audit deleted nearly 40,000 salary numbers linked to false ID numbers, so public payroll is keyed on the number, as the 2022 findings read. One register is shown, so the matching figure no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }
   ]

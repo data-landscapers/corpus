@@ -2,7 +2,7 @@
 
 ## Tax register
 
-**Computerised register.** No source held says a computerised taxpayer register is under way or in service. The nearest held fact: [The Eswatini Trade Portal procedure page says companies dealing in imports and exports must register in ASYCUDA, where the TIN registration must be uploaded](<https://eswatinitradeportal.com/index.php?id=25&r=searchProcedure%2Fview1>). A later answer places the country above that step. It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Computerised register.** No source held says a computerised taxpayer register is under way or in service. The nearest held fact: [The Eswatini Trade Portal procedure page says companies dealing in imports and exports must register in ASYCUDA, where the TIN registration must be uploaded](<https://eswatinitradeportal.com/index.php?id=25&r=searchProcedure%2Fview1>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Shared with firms or customs.** [The Eswatini Trade Portal procedure page says companies dealing in imports and exports must register in ASYCUDA, where the TIN registration must be uploaded](<https://eswatinitradeportal.com/index.php?id=25&r=searchProcedure%2Fview1>).
 
@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [ASYCUDA](<https://eswatinitradeportal.com/index.php?id=25&r=searchProcedure%2Fview1>).
 
-***Not held***. No source held since October 2023 says the taxpayer number is tied to the national ID.
+***Not held***. Nothing held since October 2023 says whether taxpayers are registered on computer.

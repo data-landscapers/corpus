@@ -1,6 +1,6 @@
 # Tax register: tax register
 
-*As at 2026-10-23.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,41 +20,15 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 14 |
-| 3 Established | 13 |
+| 5 Leading | 1 |
+| 4 Operating | 8 |
+| 3 Established | 18 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 10 |
+| Unplaced | 18 |
 | No evidence | 8 |
 
 ## Countries
-
-### Angola: 5 Leading
-
-The identity card number also served as the taxpayer number in 2025; whether it is shared with business registration or customs is not known.
-
-- Secretary of State Osvaldo Amaro said synchronisation with the tax administration (AGT) lets the Bilhete de Identidade number correspond to the taxpayer number (NIF) ([source, 2025-09-18](https://pti.ao/ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplificar-servicos/)).
-- Angola's SEPE e-services portal lists a free online service, 'Consulta de NIF', to consult the information associated with a person's NIF ([source, 2026-08-05](https://sepe.gov.ao/catalogo/eservicos)).
-
-### Benin: 5 Leading
-
-The taxpayer number was tied to the national ID in 2025.
-
-- ANIP says the IFU is issued from the same national civil-status database as the national identity card ([source, 2025-09-11](https://beninwebtv.bj/affichage-de-la-liste-electorale-provisoire-lanip-lance-la-phase-de-verification/)).
-- The DGI guide says the applicant enters their NPI and birth date and personal data is retrieved automatically from ANIP before the IFU is issued ([source, 2025-04](https://e-services.impots.bj/_espaces/FACILE/domain/engine/application/guides/guide-utilisateur-adhesion-et-connexion.pdf)).
-
-### Ethiopia: 5 Leading
-
-Taxpayer numbers were checked against the national ID in 2026, which new ones require; how the register itself is kept is not known.
-
-- National ID Ethiopia's deck says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs nationally ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
-
-### Liberia: 5 Leading
-
-The taxpayer number was tied to the national ID in 2024.
-
-- The NIR says its API connects the Liberia Revenue Authority with new taxpayers wanting a TIN ([source, 2024-02-05](https://newspublictrust.com/national-identification-registry-deploys-mobile-teams)).
 
 ### Nigeria: 5 Leading
 
@@ -62,26 +36,6 @@ The taxpayer number was tied to the national ID in 2026.
 
 - TechCabal says the Tax Identification Number, issued by the Nigeria Revenue Service and the Joint Revenue Board, is generated from the National Identification Number for individuals ([source, 2026-01-12](https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/)).
 - The article says an individual's National Identification Number serves as the NRS identifier, giving a 13-digit Tax ID ([source, 2026-01-01](https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/)).
-
-### Seychelles: 5 Leading
-
-The taxpayer number was tied to the national ID in 2025.
-
-- The online company TIN registration form requires the contact person's 11-digit National Identity Number as a mandatory field and shows 'NIN not valid' when it fails validation ([source, 2025](https://eservice.egov.sc/TinRegistration/pages/RegistrationForCompany.aspx)).
-
-### Tanzania: 5 Leading
-
-Taxpayer registration was checked against the national ID in 2026; whether the number is shared with business registration or customs is not known.
-
-- NIDA lists the Tanzania Revenue Authority's taxpayer registration among the services integrated with the national ID ([source, 2026-05](https://id4africa.com/2026/files/T1-3-4-Tanzania-FINAL.pdf)).
-- NIDA lists online TIN registration among the services delivered through its consent-based eKYC ([source, 2025-05-01](https://www.id4africa.com/2025/files/PS1-S1-2-Tanzania-final.pdf)).
-
-### Uganda: 5 Leading
-
-The taxpayer number was tied to the national ID in 2026.
-
-- Akech said taxpayers give fingerprint consent at a URA service point so URA devices can pull basic biodata from NIRA servers and verify identity against NIRA's records ([source, 2026-09-30](https://nilepost.co.ug/business/374460/linking-nins-to-tax-records-will-tackle-identity-theft-says-ura)).
-- Cabinet approved use of the NIN as a tax identifier on 31 August 2026, and Musasizi said the NIN and TIN must be interoperable ([source, 2026-08-31](https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/)).
 
 ### Algeria: 4 Operating
 
@@ -102,18 +56,6 @@ The taxpayer number was shared with business registration or customs in 2023; a 
 The taxpayer number was shared with business registration or customs in 2025; a tie to the national ID is not known.
 
 - The DGI lists the Guichet Unique de Création d'Entreprise among the places where a NIF can be requested ([source, 2025-12-02](https://dgi.gouv.cd/wp-content/uploads/2025/12/COMMUNIQUE%CC%81-OFFICIEL-N%C2%B001_061.pdf)).
-
-### Djibouti: 4 Operating
-
-The taxpayer number was shared with business registration or customs in 2026; a tie to the national ID is not known.
-
-- The guide says the Guichet Unique automatically passes the registration file to the tax directorate (DGI), which assigns the taxpayer number (NIF) as a step of business creation ([source, 2026-01](https://entreprendre.dj/portals/g2b/guide)).
-
-### Eswatini: 4 Operating
-
-The taxpayer number was shared with business registration or customs in 2024; a tie to the national ID is not known.
-
-- The Eswatini Trade Portal procedure page says companies dealing in imports and exports must register in ASYCUDA, where the TIN registration must be uploaded ([source, 2024](https://eswatinitradeportal.com/index.php?id=25&r=searchProcedure%2Fview1)).
 
 ### Gambia: 4 Operating
 
@@ -139,36 +81,25 @@ The taxpayer number was shared with business registration or customs in 2025; a 
 
 - The portal gives commerce register, tax registration and social security affiliation in one procedure at company creation ([source, 2025-04-04](https://ami.mr/fr/archives/268316)).
 
-### Mozambique: 4 Operating
-
-The taxpayer number was shared with business registration or customs in 2026; a tie to the national ID is not known.
-
-- The Autoridade Tributária's FAQ says the NUIT must be used for all taxes, including customs duties, and is required for imports and exports and for economic-activity licensing ([source, 2026-08-28](http://www.at.gov.mz/por/Perguntas-Frequentes2/NUIT)).
-- The Mozambique Revenue Authority's FAQ says the NUIT taxpayer number should be used for all incomes, including customs, and is compulsory for imports of goods and business licensing ([source, 2025](http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT)).
-
-### Namibia: 4 Operating
-
-The taxpayer number was shared with business registration or customs in 2026; a tie to the national ID is not known.
-
-- NamRA says the Trader Identification Number it issues is mandatory on every customs declaration in ASYCUDAWorld from 1 April 2026, with declarations lacking a valid TIN rejected automatically ([source, 2026-04-01](https://www.namra.org.na/documents/cms/uploaded/public-notice--mandatory-tin-on-asycudaworld--9-dec-2025-7d1548a64e.pdf)).
-
-### Sudan: 4 Operating
-
-The taxpayer number was shared with business registration or customs in 2026; a tie to the national ID is not known.
-
-- The Sudan Taxation Chamber states it issues each taxpayer, upon registration, a single tax identification number for all types of taxes, including customs duties ([source, 2026-04-27](https://tax.gov.sd/en/tax-procedures/)).
-
 ### Togo: 4 Operating
 
 The taxpayer number was shared with business registration or customs in 2025; a tie to the national ID is not known.
 
 - OTR says article 7 of the tax procedures book requires one unique NIF per taxpayer, and the individual NIF is required for customs clearance of personal goods and for property registration ([source, 2025](https://www.otr.tg/index.php/fr/blog/otr-actu/598-magazine-otr-actu-n-18-janvier-juin-2025/file.html)).
 
-### Tunisia: 4 Operating
+### Angola: 3 Established
 
-The taxpayer number was shared with business registration or customs in 2026; a tie to the national ID is not known.
+The identity card number also served as the taxpayer number in 2025; whether it is shared with business registration or customs is not known.
 
-- The Registre National des Entreprises says the unique identifier of each registered firm is its matricule fiscal, the tax number ([source, 2026-09-01](https://home.registre-entreprises.tn/le-registre-national-des-entreprises-vers-le-full-digital/)).
+- Angola's SEPE e-services portal lists a free online service, 'Consulta de NIF', to consult the information associated with a person's NIF ([source, 2026-08-05](https://sepe.gov.ao/catalogo/eservicos)).
+- Secretary of State Osvaldo Amaro said synchronisation with the tax administration (AGT) lets the Bilhete de Identidade number correspond to the taxpayer number (NIF) ([source, 2025-09-18](https://pti.ao/ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplificar-servicos/)).
+
+### Benin: 3 Established
+
+Taxpayer numbers were issued online and tied to the national ID in 2025; their issue at business registration is on record only from 2020.
+
+- The DGI guide says a person can register for tax online on the e-services portal and the IFU number is generated instantly ([source, 2025-04](https://e-services.impots.bj/_espaces/FACILE/domain/engine/application/guides/guide-utilisateur-adhesion-et-connexion.pdf)).
+- The DGI guide says the applicant enters their NPI and birth date and personal data is retrieved automatically from ANIP before the IFU is issued ([source, 2025-04](https://e-services.impots.bj/_espaces/FACILE/domain/engine/application/guides/guide-utilisateur-adhesion-et-connexion.pdf)).
 
 ### Burundi: 3 Established
 
@@ -228,6 +159,13 @@ Taxpayers were registered on computer in 2025; a number shared with business reg
 
 - The Tax Administration (Electronic System) Rules, 2025, made 4 August 2025 by the Commissioner General, require taxpayers to be registered electronically and the Commissioner General to keep an electronic register of taxpayers ([source, 2025-08-04](https://media.malawilii.org/media/legislation/15001/source_file/0deaa96755badce1/tax-administration-electronic-system-rules-2025.pdf)).
 
+### Seychelles: 3 Established
+
+Taxpayers registered online in 2025 on a form checking the national ID number; sharing with business registration or customs is not known.
+
+- The Seychelles e-Service Gateway offers an online TIN registration form for companies, covering presumptive tax, VAT, employer, business tax and excise registration ([source, 2025](https://eservice.egov.sc/TinRegistration/pages/RegistrationForCompany.aspx)).
+- The online company TIN registration form requires the contact person's 11-digit National Identity Number as a mandatory field and shows 'NIN not valid' when it fails validation ([source, 2025](https://eservice.egov.sc/TinRegistration/pages/RegistrationForCompany.aspx)).
+
 ### South Africa: 3 Established
 
 Taxpayers were registered on computer in 2026; a number shared with business registration or customs is not known.
@@ -239,6 +177,20 @@ Taxpayers were registered on computer in 2026; a number shared with business reg
 Taxpayers were registered on computer in 2024; a number shared with business registration or customs is not known.
 
 - The eServices portal says all taxpayers, citizens, foreigners, businesses and NGOs can now apply online for a Taxpayer Identification Number on eTax from the South Sudan Revenue Authority ([source, 2024](https://www.eservices.gov.ss/)).
+
+### Tanzania: 3 Established
+
+Taxpayer registration was checked against the national ID in 2026; whether the number is shared with business registration or customs is not known.
+
+- NIDA lists online TIN registration among the services delivered through its consent-based eKYC ([source, 2025-05-01](https://www.id4africa.com/2025/files/PS1-S1-2-Tanzania-final.pdf)).
+- NIDA lists the Tanzania Revenue Authority's taxpayer registration among the services integrated with the national ID ([source, 2026-05](https://id4africa.com/2026/files/T1-3-4-Tanzania-FINAL.pdf)).
+
+### Uganda: 3 Established
+
+The computerised taxpayer register was checked against the national ID in 2026; the business registration number is only to become firms' tax identifier.
+
+- The Ministry of Finance says the URA taxpayer register held about 5.7 million records at 30 June 2026, including about 5.4 million individuals ([source, 2026-06-30](https://softpower.ug/nin-tin-transition-will-not-automatically-create-tax-liability-lugoloobi/)).
+- Akech said taxpayers give fingerprint consent at a URA service point so URA devices can pull basic biodata from NIRA servers and verify identity against NIRA's records ([source, 2026-09-30](https://nilepost.co.ug/business/374460/linking-nins-to-tax-records-will-tackle-identity-theft-says-ura)).
 
 ### Zambia: 3 Established
 
@@ -277,11 +229,35 @@ Nothing held since 2023 names a computerised taxpayer register, so no stage is s
 
 Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
 
+### Djibouti: Unplaced
+
+The taxpayer number was assigned at business creation in 2026, but nothing held says the register is computerised, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
+
 ### Egypt: Unplaced
 
 Nothing held since 2023 names a computerised taxpayer register, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
+
+### Eswatini: Unplaced
+
+Importers registered their taxpayer number with customs in 2024, but nothing held says the register is computerised, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
+
+### Ethiopia: Unplaced
+
+Taxpayer numbers were checked against the national ID in 2026, but nothing held describes the register itself, so no stage is set.
+
+Not established: No source held describes the taxpayer register itself or says the TIN is shared with business registration or customs.
+
+### Liberia: Unplaced
+
+The ID registry connected new taxpayers to the Revenue Authority in 2024, but nothing held describes the tax register, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether taxpayers are registered on computer, or that the TIN is shared with business registration or customs.
 
 ### Mali: Unplaced
 
@@ -292,6 +268,18 @@ Not established: Nothing held since October 2023 says whether taxpayers are regi
 ### Mauritius: Unplaced
 
 Nothing held since 2023 names a computerised taxpayer register, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
+
+### Mozambique: Unplaced
+
+The taxpayer number was required for customs in 2026, but nothing held says the register is computerised, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
+
+### Namibia: Unplaced
+
+The taxpayer number was required on customs declarations in 2026, but nothing held says the register is computerised, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
 
@@ -316,6 +304,18 @@ Not established: Nothing held since October 2023 says whether taxpayers are regi
 ### Sierra Leone: Unplaced
 
 Nothing held since 2023 names a computerised taxpayer register, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
+
+### Sudan: Unplaced
+
+One taxpayer number served all taxes and customs in 2026, but nothing held says the register is computerised, so no stage is set.
+
+Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
+
+### Tunisia: Unplaced
+
+The tax number identified firms in the business register in 2026, but nothing held says the tax register is computerised; no stage is set.
 
 Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
 

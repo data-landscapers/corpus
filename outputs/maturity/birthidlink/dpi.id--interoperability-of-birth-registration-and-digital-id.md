@@ -20,12 +20,12 @@ The African Union's interoperability framework and the African ministers respons
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 2 |
 | 4 Operating | 2 |
 | 3 Established | 25 |
 | 2 Nascent | 19 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
+| Unplaced | 1 |
 | No evidence | 5 |
 
 ## Countries
@@ -36,12 +36,6 @@ Births and deaths pass between civil status and the ID register; a 2026 pilot re
 
 - ANIP says births declared to the RNPP register automatically in the civil status file, and a declared death activates the 'deceased' status in the identification system and is registered automatically with civil status ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 - Triomphe Mag, citing ANIP's report on the pilot (20 August 2025 to 20 February 2026), says the pilot produced 30,160 number updates, 12,182 captured signatures and 798 recorded portraits in the RNPP ([source, 2026-02-20](https://www.triomphemag.com/enregistrement-des-naissances-au-benin-le-guichet-unique-de-lanip-fait-bondir-le-taux-de-2195-a-7656-en-six-mois/)).
-
-### Libya: 5 Leading
-
-A 2025 audit comparing the ID system with the civil register deleted 17,000 false ID numbers; routine exchange between them is not known.
-
-- Attorney General Al-Siddiq Al-Sour says a team comparing national ID system data with the civil status registry found discrepancies that led to deletion of more than 17,000 non-existent national ID numbers and nearly 40,000 linked salary numbers ([source, 2025-12-09](https://libyareview.com/61619/libyan-prosecutors-uncover-large-scale-identity-manipulation/)).
 
 ### Malawi: 5 Leading
 
@@ -348,6 +342,12 @@ A link between the civil register and the ID system was under way in 2026.
 A link between the civil register and the ID system was under way in 2026.
 
 - Togo First says civil registration is becoming more closely integrated with the identification system through the rollout of the unique identification number ([source, 2026-08](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation)).
+
+### Libya: Unplaced
+
+Nothing held shows records passing between the civil register and the ID system; a 2025 audit comparing the two deleted 17,000 false ID numbers.
+
+Not established: Nothing held says records pass between the civil register and the ID system, or that a link is under way; the one figure held comes from an audit, which is not their exchange.
 
 ### Burkina Faso: No evidence
 

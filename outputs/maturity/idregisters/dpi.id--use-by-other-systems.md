@@ -1,6 +1,6 @@
 # Use by other systems: use by other systems
 
-*As at 2026-10-23.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -20,34 +20,15 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 15 |
+| 3 Established | 18 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 25 |
 
 ## Countries
-
-### Ethiopia: 5 Leading
-
-Over 5 million tax numbers were matched to the national ID by 2026; use by other main registers is not known.
-
-- National ID Ethiopia's deck gives over 5M existing TINs harmonised with Fayda ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
-- National ID Ethiopia's deck says the Ministry of Revenue has harmonised over 5M existing tax identification numbers with Fayda and made Fayda mandatory for new TINs nationally ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
-
-### Libya: 5 Leading
-
-In 2025 checking ID numbers removed about 40,000 salary numbers linked to 17,000 false IDs; registers keyed on the number are not known.
-
-- Attorney General Al-Siddiq Al-Sour says checking national ID numbers led to deletion of more than 17,000 non-existent ID numbers along with nearly 40,000 salary numbers that had been linked to them ([source, 2025-12-09](https://libyareview.com/61619/libyan-prosecutors-uncover-large-scale-identity-manipulation/)).
-
-### Namibia: 5 Leading
-
-Matching of public registers against the national ID was reported with figures in 2026.
-
-- The Office of the Prime Minister says government has saved approximately N$16 million on social grants through improved identity verification ([source, 2026-07-25](https://informante.web.na/?p=398234)).
 
 ### Malawi: 4 Operating
 
@@ -96,6 +77,13 @@ A public register used the national ID number in 2026; use by three main registe
 - The National Elections Authority says voter entries were linked to the national number, and voters are looked up by their 14-digit national number ([source, 2025-09-19](https://www.elwatannews.com/news/details/8137356)).
 - Egyptian Tax Authority head Rasha Abdel Aal said its payroll system calculates employment income tax for 12 million state employees by making the salary statement available by national number ([source, 2026-07-02](https://www.almasryalyoum.com/news/details/4306657)).
 
+### Ethiopia: 3 Established
+
+The tax register was keyed on the national ID in 2026, over 5 million tax numbers matched; other main registers' use is not known.
+
+- National ID Ethiopia's deck says the Ministry of Revenue has harmonised over 5M existing tax identification numbers with Fayda and made Fayda mandatory for new TINs nationally ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
+- NIDP says over 5M existing TINs are harmonised with Fayda and Fayda is mandatory for new TINs nationally ([source, 2026](https://connect.mosip.io/resources_pdf_2026/Inclusive_Identity_at_Scale_Ethiopia.pdf)).
+
 ### Gambia: 3 Established
 
 A public register used the national ID number in 2024; use by three main registers is not known.
@@ -122,12 +110,25 @@ A public register used the national ID number in 2024; use by three main registe
 - The Civil Service Agency integrates National Identification Numbers into government employees' ID cards through the NIR portal, and Sargbe says this has helped remove ghost names from the payroll ([source, 2024-05](https://frontpageafricaonline.com/news/liberia-national-identification-registry-drives-digital-transformation-with-strategic-partnerships-and-enrollment-growth/)).
 - The NIR and the finance ministry built an interface to audit the government payroll against the registry as new employees join, shared with the audit and civil service agencies ([source, 2024-02-05](https://newspublictrust.com/national-identification-registry-deploys-mobile-teams)).
 
+### Libya: 3 Established
+
+Public payroll was keyed on the national number in 2025, an audit removing 40,000 salary numbers linked to false IDs; other registers are not known.
+
+- Attorney General Al-Siddiq Al-Sour says checking national ID numbers led to deletion of more than 17,000 non-existent ID numbers along with nearly 40,000 salary numbers that had been linked to them ([source, 2025-12-09](https://libyareview.com/61619/libyan-prosecutors-uncover-large-scale-identity-manipulation/)).
+
 ### Mauritius: 3 Established
 
 A public register used the national ID number in 2026; use by three main registers is not known.
 
 - The Electoral Commissioner's office says voters can check the electoral register on its website by entering their national identity card number ([source, 2026-05-14](https://electoral.govmu.org/oec/wp-content/uploads/2026/05/Communique-Enregistrement-des-electeurs.pdf)).
 - The Government Information Service says National Savings Fund employer returns must give each employee's National Identity Card number with contributions paid ([source, 2024](https://govmu.org/EN/infoservices/socialsecurity/Pages/services.aspx)).
+
+### Namibia: 3 Established
+
+Social grant beneficiaries were checked against the national population register in 2026; use by other main registers is not known.
+
+- Namibia's two responsible ministries signed an agreement integrating the National Population Registration System with the social protection system to verify existence and live status of persons, and the Covid-19 Emergency Income Grant applicants were all verified against the NPRS ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf)).
+- The Office of the Prime Minister says electronic identity verification of social grant beneficiaries already prevents payments to deceased beneficiaries ([source, 2026-07-25](https://informante.web.na/?p=398234)).
 
 ### Nigeria: 3 Established
 

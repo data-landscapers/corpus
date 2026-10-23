@@ -23,3 +23,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,KEN,dpi.id--use-by-other-systems,fact,no evidence,2,KEN-002;KEN-001,"PS, May 2024: the Maisha number is to serve the ID, NSSF and NHIF; a plan."
 2026-10-23,SLE,dpi.id--use-by-other-systems,fact,2,3,SLE-003;SLE-002,"Biometric Update, April 2024: the NIN is linked to government payroll."
 2026-10-23,TZA,dpi.id--use-by-other-systems,fact,2,4,TZA-004;TZA-003,"Government spokesman, September 2026: the ID number is used for taxpayer registration, TASAF and business registration, three main registers."
+2026-10-23,ETH,dpi.id--use-by-other-systems,ladder,5,3,ETH-002;ETH-001,"Every lower rung must be shown by its own evidence; a later yes no longer answers the earlier ones (Bill, 2026-10-23). Only the tax register is shown keyed on Fayda; 5 to 3."
+2026-10-23,LBY,dpi.id--use-by-other-systems,ladder,5,3,LBY-006,"Every lower rung must be shown by its own evidence; a later yes no longer answers the earlier ones (Bill, 2026-10-23). The 2025 audit shows payroll keyed on the national number, one register; 5 to 3."
+2026-10-23,NAM,dpi.id--use-by-other-systems,ladder,5,3,NAM-001;NAM-002,"Every lower rung must be shown by its own evidence; a later yes no longer answers the earlier ones (Bill, 2026-10-23). Only the social grants register is shown checked against the ID; 5 to 3."

@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-birthidlink.md — the civil register and the ID system exchanging records, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-23
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is a link under way? | A source from the last three years says a link between the civil register and the ID system is planned, contracted or piloted, or one body is made responsible for both |
 | 2 | Is one link in service? | A source from the last three years says records pass one way or for one event (births feed the ID, or deaths retire ID numbers), or one body holds both registers |
 | 3 | Do records pass both ways, across events? | A source from the last three years says births enrol people in the ID system and deaths retire their numbers, or more |
-| 4 | Is the exchange reported? | A source from the last three years gives a figure for records exchanged, numbers retired on death or records reconciled between the two |
+| 4 | Is the exchange reported? | A source from the last three years gives a figure for records exchanged, numbers retired on death or records reconciled between the two. **An audit is not system exchange** *(Bill, 2026-10-23)*: a figure from an anti-fraud or other audit comparing the two does not answer it, only one for the systems' own exchange |
 
 ## 3. The ladders
 
@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Both ways | Yes to 3 |
 | 5 Reported | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `link` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `events` (`both`) for 3 and `reported` (`reported`) for 4.
+**A later yes no longer answers the earlier ones** *(Bill, 2026-10-23; method §3.3 switched off here, `study.json` → `"later_yes": false`)*: a stage needs every lower rung shown by its own evidence, and a cell whose evidence stops short takes the rung it reaches. Question 2 still answers question 1: a link in service was under way first, and the two are one aspect. `study.json` holds this as three aspects: `link` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `events` (`both`) for 3 and `reported` (`reported`) for 4.
 
 ## 4. The norm
 

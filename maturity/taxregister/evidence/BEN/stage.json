@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "5",
+      "stage": "3",
       "register": "inservice",
-      "shared": "shared",
+      "shared": "",
       "nationalid": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-001;BEN-005",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-taxregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BEN-004;BEN-005",
+      "gaps": "The only source saying the IFU is issued at business registration is a 2020 guide, before the three-year window.",
+      "note": "The IFU is issued online and instantly (2025), from the applicant's ANIP identity record (2025). Its issue at the business one-stop shop rests on a 2020 guide, outside the window, so the tie to the ID no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
+      "as_at": "2026-10-23"
     }
   ]
 }

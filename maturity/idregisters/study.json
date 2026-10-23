@@ -2,6 +2,7 @@
  "id": "idregisters",
  "study_file": "maturity-study-idregisters.md",
  "pass": "first",
+ "later_yes": false,
  "window_from": "2023-10-01",
  "story_cap": 15,
  "subjects": [

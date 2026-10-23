@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "5",
+      "stage": "unplaced",
       "register": "",
       "shared": "",
       "nationalid": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-002",
+      "stage_sources": "",
       "gaps": "No source held describes the taxpayer register itself or says the TIN is shared with business registration or customs.",
-      "note": "National ID Ethiopia said in May 2026 that over 5 million existing TINs are harmonised with Fayda and that Fayda is mandatory for new TINs, so the taxpayer number is checked against the national ID; a later yes answers the earlier questions, so stage 5.",
+      "note": "Over 5 million TINs are harmonised with Fayda and Fayda is mandatory for new TINs (2026), but nothing held describes the register itself, and a later yes no longer answers the earlier ones (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }
   ]

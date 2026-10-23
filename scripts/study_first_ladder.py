@@ -15,9 +15,12 @@ The first aspect's values are read from `study.json` in that order, top first: `
 3. The second aspect's one value.
 4. The third aspect's one value.
 
-**A later yes answers the earlier ones** (method §3.3). Stage 1 is the first aspect at `none`
-with no other yes. Every window is three years; a fact dated after the as-at sets nothing, and a
-year or a month stands for its last day. `corrections.csv` (`removed`, or `revalued: aspect:value`)
+**A later yes answers the earlier ones** (method §3.3), unless `study.json` -> `"later_yes": false`
+*(Bill, 2026-10-23: birthidlink, idregisters, taxregister)*: then stage 4 needs the first aspect
+at its top value as well, and stage 5 needs that and the second aspect, each shown by its own row
+in the window. `inservice` still answers `underway`: they are one aspect. Stage 1 is the first
+aspect at `none` with no other yes. Every window is three years; a fact dated after the as-at
+sets nothing, and a year or a month stands for its last day. `corrections.csv` (`removed`, or `revalued: aspect:value`)
 is applied to `evidence.csv` first, once, as `study-ladder-opendatause.py` does. Writes each
 `stage.json` and `ladder-test.csv`.
 
@@ -83,9 +86,11 @@ def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str,
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] == value and d >= three]
     if not rows:
         return {"stage": "no evidence", "sources": [], "gaps": empty}
-    for s, src in (("5", pick(k3, v3)), ("4", pick(k2, v2)), ("3", pick(k1, top)),
-                   ("2", pick(k1, mid)), ("1", pick(k1, low))):
-        if src:
+    p3, p4 = pick(k1, top), pick(k2, v2)
+    strict = study.get("later_yes", True) is False   # Bill, 2026-10-23: every lower rung shown
+    for s, src, below in (("5", pick(k3, v3), p3 and p4), ("4", p4, p3), ("3", p3, True),
+                          ("2", pick(k1, mid), True), ("1", pick(k1, low), True)):
+        if src and (below or not strict):
             return {"stage": s, "sources": src[:2], "gaps": gaps[s]}
     return {"stage": "unplaced", "sources": [], "gaps": unplaced}
 

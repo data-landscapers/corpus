@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "5",
+      "stage": "3",
       "register": "inservice",
       "shared": "",
       "nationalid": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-002;AGO-001",
+      "stage_sources": "AGO-001;AGO-002",
       "gaps": "No source held says the taxpayer number is shared with business registration or customs.",
-      "note": "The Secretary of State for Justice said in September 2025 that the identity card number also serves as the tax number, so the taxpayer number is tied to the national ID; a later yes answers the earlier questions, so stage 5.",
+      "note": "The NIF is held in a register consulted online (2026), and the ID card number serves as the NIF (2025). Nothing shows it shared with business registration or customs, so the tie to the ID no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }
   ]

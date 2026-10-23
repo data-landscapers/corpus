@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held says the taxpayer number is shared with business registration or customs.

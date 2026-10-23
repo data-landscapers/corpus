@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [e-ID](<https://www.nampa.org/text/23017294>); [e-ID card](<https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held since October 2023 shows three or more main public registers using the national ID number; only the social grants register is shown.

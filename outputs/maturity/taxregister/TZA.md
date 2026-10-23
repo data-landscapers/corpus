@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [IDRAS](<https://dailynews.co.tz/tax-administration-driver-licence-goes-digital/>).
 
-***Not held***. No source held since October 2023 says the taxpayer number is shared with business registration or customs.
+***Not held***. No source held says the taxpayer number is shared with business registration or customs.

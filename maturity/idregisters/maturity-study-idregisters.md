@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-idregisters.md — public registers that use the national ID number, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-23
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Main registers | Yes to 3 |
 | 5 Matching reported | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `register` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `several` (`several`) for 3 and `matching` (`reported`) for 4.
+**A later yes no longer answers the earlier ones** *(Bill, 2026-10-23; method §3.3 switched off here, `study.json` → `"later_yes": false`)*: a stage needs every lower rung shown by its own evidence, and a cell whose evidence stops short takes the rung it reaches. Question 2 still answers question 1: a register keyed on the number was under way first, and the two are one aspect. `study.json` holds this as three aspects: `register` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `several` (`several`) for 3 and `matching` (`reported`) for 4.
 
 ## 4. The norm
 

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "5",
+      "stage": "3",
       "register": "inservice",
       "shared": "",
       "nationalid": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-003;TZA-001",
+      "stage_sources": "TZA-001;TZA-003",
       "gaps": "No source held says the taxpayer number is shared with business registration or customs.",
-      "note": "NIDA listed the Revenue Authority's taxpayer registration among the services integrated with the national ID in May 2026, so the taxpayer number is checked against the ID; a later yes answers the earlier questions, so stage 5.",
+      "note": "TINs are registered online through NIDA's eKYC (2025) and TRA registration is integrated with the ID (2026). Nothing shows the TIN shared with business registration or customs, so the tie to the ID no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }
   ]
