@@ -18,3 +18,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,SYC,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,TGO,gov.policy--broadband-strategy,review,no evidence,no evidence,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-18,MAR,gov.policy--broadband-strategy,fact,3,5,MAR-004;MAR-005;MAR-003,"Minister and ministry report PNHD phase one at about 99 per cent of target (2024) and phase two funded by the Universal Service Fund (MAR-004, MAR-005, MAR-007): 3 to 5."
+2026-10-23,NGA,gov.policy--broadband-strategy,review,2,2,NGA-001,"Rebuild: standing read as ended, from the September 2026 report that the 2020-2025 plan has ended with no successor; the 2019 drafting row no longer sets the stage."
+2026-10-23,MAR,gov.policy--broadband-strategy,review,5,5,MAR-007;MAR-004;MAR-005;MAR-003,"Rebuild: the ministry's published end-March 2024 figures against PNHD1's target added to the sources for question 4, beside the minister's statement to parliament."

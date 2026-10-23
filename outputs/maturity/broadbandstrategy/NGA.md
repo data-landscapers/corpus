@@ -8,4 +8,4 @@
 
 ***Noted, not assessed***. [Project BRIDGE](<https://businessday.ng/pro/article/nigeria-expanded-broadband-but-missed-its-70-penetration-target/>); [National Digital Economy Policy and Strategy](<https://businessday.ng/technology/article/ipnx-ustda-sign-partnership-deal-to-develop-nigerias-ict-infrastructure/>).
 
-***Not held***. No source held says a national broadband plan is adopted and still running. The money behind the plan is not stated.
+***Not held***. No successor to the National Broadband Plan 2020-2025 is held as adopted or being written. The money behind the plan is not stated.

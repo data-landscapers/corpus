@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "plan",
+ "date_source": "proxy",
+ "why_not": "",
+ "aspect": "standing",
+ "fact": "The preliminary strategic framework of the Plan National de Croissance et de Développement (PNCD) 2026-2030 sets general 4G and 5G coverage of the territory by 2030 as an objective.",
+ "title": "La Connectivité Universelle Significative (UMC) au Gabon",
+ "publisher": "ANINF",
+ "published": "2026"
+}

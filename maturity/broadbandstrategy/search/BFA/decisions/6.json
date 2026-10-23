@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "plan",
+ "aspect": "standing;delivery",
+ "fact": "The SDAN, adopted to serve SN@DEN, aims at national broadband by 2030 and by 2023 the national backbone reached 2,893 km of fibre, per the DGCE.",
+ "title": "Développement des infrastructures de télécommunication : Quel est l'état des lieux de la mise en œuvre du SDAN ?",
+ "publisher": "La Tribune du Faso",
+ "published": "2023-08-01",
+ "date_source": "source",
+ "why_not": ""
+}

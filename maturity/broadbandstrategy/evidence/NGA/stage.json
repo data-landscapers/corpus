@@ -1,16 +1,17 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "plan",
-   "stage": "2",
-   "standing": "draft",
-   "delivery": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-002;NGA-001",
-   "gaps": "No source held says a national broadband plan is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-broadbandstrategy.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "plan",
+      "stage": "2",
+      "standing": "ended",
+      "delivery": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-001",
+      "gaps": "No successor to the National Broadband Plan 2020-2025 is held as adopted or being written.",
+      "note": "Rebuild 2026-10-23: the 2020-2025 plan has ended (September 2026 report) and no successor is named, so stage 2 on an ended plan; the 2019 committee row describes the drafting of the plan that has since ended.",
+      "as_at": "2026-10-23"
+    }
+  ]
 }

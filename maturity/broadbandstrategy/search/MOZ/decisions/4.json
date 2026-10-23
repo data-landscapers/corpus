@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "plan",
+ "aspect": "standing",
+ "fact": "The government adopted a new broadband strategy in 2017 (Estratégia Nacional de Banda Larga), with rural wireless broadband targets of 70% in 2021 and 100% in 2025.",
+ "title": "Mozambique: Affordability Report Highlights 2018",
+ "publisher": "Alliance for Affordable Internet",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": "The document carries no date of its own; the only year is in its URL path."
+}

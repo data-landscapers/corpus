@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "plan",
+ "aspect": "standing;delivery",
+ "fact": "The National Broadband Strategy 2019-2023, dated September 2020, targets broadband penetration rising from 4.5% to 35% and speed from 1 to 5 Mbps by 2023, with 25 initiatives costed at MWK558 billion.",
+ "title": "National Broadband Strategy 2019 - 2023",
+ "publisher": "Ministry of Information, Government of Malawi",
+ "published": "2020-09",
+ "date_source": "source",
+ "why_not": ""
+}

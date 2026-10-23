@@ -1,6 +1,6 @@
 # Broadband strategy: national plan
 
-*As at 2026-10-18.*
+*As at 2026-10-23.*
 
 ## The norm
 
@@ -34,6 +34,7 @@ The Broadband Commission's first target is a funded national broadband plan in e
 
 Morocco's national broadband plan reached about 99% of its first-phase target by 2024; a second phase funded by the universal service fund runs to 2026.
 
+- The ministry reports that at end March 2024 PNHD1 had covered 10,620 of the 10,740 localities targeted for 2023 with 4G, 98.88 per cent ([source, 2024-03](https://mmsp.gov.ma/fr/nos-metiers/connectivit%C3%A9)).
 - The minister reported that PNHD phase one covered over 10,640 rural zones between 2018 and 2024, about 99 per cent of its target ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
 - The minister said PNHD phase two is carried out with the support of the Universal Telecommunications Service Fund ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
 - Minister Amal El Fallah Seghrouchni told parliament that a second phase of the national broadband plan (PNHD) has been launched to serve 1,800 rural zones by 2026 ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
@@ -250,7 +251,6 @@ Mozambique launched an Internet for All plan to 2030 in 2024 or 2025; whether it
 
 Nigeria's National Broadband Plan 2020-2025 has ended, with 51.97 percent penetration in December 2025 against a 70 percent target; any successor is not known.
 
-- BusinessDay NG says a committee led by Funke Opeke of MainOne, with Bashir Gwandu as co-chair, was inaugurated in December 2019 to develop a new five-year broadband strategy through 2025, which produced the National Broadband Plan 2020-2025 ([source, 2019-12](https://businessday.ng/pro/article/nigeria-expanded-broadband-but-missed-its-70-penetration-target/)).
 - BusinessDay NG (2026-09-21) says Nigeria's five-year broadband strategy, the National Broadband Plan 2020-2025, has ended, and describes the next phase of broadband policy as still to come, without naming a successor plan ([source, 2025](https://businessday.ng/pro/article/nigeria-expanded-broadband-but-missed-its-70-penetration-target/)).
 
 ### Senegal: 2 Nascent

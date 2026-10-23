@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "plan",
+ "aspect": "delivery",
+ "fact": "AIIB's project document states the national FTTH programme to replace copper with fibre will cost up to USD 2.1 billion, with Phase 1 (Cairo and Giza) costing up to USD 510 million and financed in part by guaranteed bond proceeds.",
+ "title": "Egypt Sustainable Transport and Digital Infrastructure Guarantee (Project Document, P000692)",
+ "publisher": "Asian Infrastructure Investment Bank",
+ "published": "2023-09-22",
+ "date_source": "source",
+ "why_not": ""
+}
