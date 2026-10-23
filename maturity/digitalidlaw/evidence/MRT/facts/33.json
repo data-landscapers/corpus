@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-30-mrt-etat-civil-le-ministere-adopte-plus-de-verrous-pour-la-mauritanite",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "La Depeche reports that the Assemblee nationale adopted a new civil-status law, adoption date not given and promulgation not stated, under which the national identification number is issued only once the applicant's Mauritanian nationality is verified.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Civil-status law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

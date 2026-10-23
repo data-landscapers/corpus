@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ANIP says Benin adopted a law in 2017 on the identification of natural persons.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Loi de 2017 relative à l'identification des personnes physiques",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "ANIP says the 2017 law set up a unique identifier, the NPI, issued at enrolment in the RNPP, which holds biometrics, and now required on personal administrative acts.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Loi de 2017 relative à l'identification des personnes physiques",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

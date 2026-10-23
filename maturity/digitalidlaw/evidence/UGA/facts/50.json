@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-01-uga-report-of-the-committee-on-defence-and-internal-affairs-on-the-registr",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The committee report says the Registration of Persons Act was enacted on 26 March 2015 to establish a national identification register and NIRA and to provide for national identification cards, and the 2024 amendment bill would amend it.",
+   "as_of": "2015-03-26",
+   "date_precision": "day",
+   "system": "Registration of Persons Act, 2015",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

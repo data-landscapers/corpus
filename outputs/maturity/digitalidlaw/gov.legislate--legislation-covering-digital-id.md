@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy sets a target of digital leg
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 23 |
-| 3 Established | 8 |
+| 5 Leading | 6 |
+| 4 Operating | 24 |
+| 3 Established | 6 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -38,6 +38,14 @@ Ghana's identity Acts of 2006 and 2008 are in force; 2026 regulations require bi
 - The NIA says L.I. 2523 was signed and gazetted on 27 March 2026 under Section 73(1) of Act 750 and came into effect on 9 June 2026, requiring institutions that verify identity to use real-time biometric verification against the NIA database via the IVSP ([source, 2026-03-27](https://www.facebook.com/officialNIAGH/posts/press-releasegovernment-makes-biometric-verification-mandatory-for-ghana-card-ve/1522136326623174/)).
 - L.I. 2523, made under the National Identity Register Act, 2008 (Act 750), requires identity to be verified biometrically and in real time against the National Identification Authority's database, so the law in force provides for an identity that can be checked electronically ([source, 2026-03-27](https://www.mint.gov.gh/government-strengthens-identification-verification-system/)).
 - The Interior Ministry says the National Identity Register Regulations (L.I. 2111) are amended by L.I. 2523, a legislative instrument (regulations) made under the identity register law, in effect from 9 June 2026 ([source, 2026-06-09](https://www.mint.gov.gh/government-strengthens-identification-verification-system/)).
+
+### Guinea: 5 Leading
+
+Guinea's 2023 identification law is in force, and an April 2025 decree applying it set up a biometric register with an identification number.
+
+- Decree D/2025/052/PRG/CNRD/SGG, signed 14 April 2025 and effective on signature, fixes the rules for entering persons in and keeping the national register of natural persons, in application of Law L/2023/019/CNT ([source, 2025-04-14](https://guineelex.com/decrets-arretes/decret-d-2025-052-prg-cnrd-sgg)).
+- Law L/2023/019/CNT of 25 October 2023 on the identification of natural persons is the law under which decree D/2025/052 is made, and the decree sets up a register of biometric and biographic data with a personal identification number ([source, 2023-10-25](https://guineelex.com/decrets-arretes/decret-d-2025-052-prg-cnrd-sgg)).
+- The territorial administration minister's declaration of 10 August 2026 lists among achievements the adoption and dissemination of the laws on the identification of physical persons and on civil status; no number, promulgation date or instrument kind is given, and the date is that of the statement ([source, 2026-08-10](https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre)).
 
 ### Mauritius: 5 Leading
 
@@ -165,6 +173,14 @@ Libya's 2014 national number law gives each citizen a unique number in a biometr
 - Law No. 8 of 2014 provides for a 12-digit national number unique to each citizen (Article 2) and a national database completed with ten-print fingerprints, iris print, photograph and signature (Article 3) ([source, 2014-03-24](https://www.gia.gov.ly/wp-content/uploads/2023/02/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-8-%D9%84%D8%B3%D9%86%D8%A9-2014%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A..pdf)).
 - Law No. 8 of 2014 on the National Number, issued by the General National Congress on 24 March 2014, is an ordinary law that takes effect on issue (Article 11) and sets up the national number and national database run with the Civil Registry Authority ([source, 2014-03-24](https://www.gia.gov.ly/wp-content/uploads/2023/02/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-8-%D9%84%D8%B3%D9%86%D8%A9-2014%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A..pdf)).
 
+### Malawi: 4 Operating
+
+Malawi's 2010 National Registration Act founds its digital identity system; no rule applying it since 2023 is known beyond a fee change.
+
+- The deck calls the National Registration Act No. 13 of 2010 the legal foundation for the national digital identity system ([source, 2010](https://www.id4africa.com/2025/files/T3-P3-S2-3-Malawi_FINAL.pdf)).
+- The deck says the National Registration Act No. 13 of 2010 was enacted as the legal foundation for the national digital identity system, and the Bureau was established under it ([source, 2010](https://www.id4africa.com/2025/files/T3-P3-S2-3-Malawi_FINAL.pdf)).
+- The National Registration (Amendment) Regulations, 2026 were made on 23 July 2026 by the Homeland Security Minister under powers in the National Registration Act, which the NRB runs for National ID; the report gives the Act's number and year nowhere, and the instrument is an Act of parliament with regulations made under it ([source, 2026-07-23](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/)).
+
 ### Mali: 4 Operating
 
 Mali's 2006 law gives each person a unique identification number; the last rule known under it is a decree of November 2022.
@@ -245,20 +261,6 @@ Botswana's 1986 National Registration Act, amended in 2025, is in force. Whether
 
 - The Minister of Labour and Home Affairs told Parliament that the National Registration (Amendment) Act, 2025, an Act of Parliament amending the law governing the national identity card (Omang), provides that a passport or driving licence is used as identification while a defaced, lost or expired identity card awaits replacement ([source, 2026-07-29](https://dailynews.gov.bw/news-detail/92439)).
 - The Minister of Labour and Home Affairs said the National Registration (Amendment) Act of 2025 now allows passports and driving licences as valid identification while identity cards (Omang) are being replaced; it is an Act of Parliament amending the national registration law ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90334)).
-
-### Guinea: 3 Established
-
-Guinea's 2023 law on identifying persons is in force; in 2026 its applying decrees were still drafts. Whether it covers digital identity is not known.
-
-- The territorial administration minister's declaration of 10 August 2026 lists among achievements the adoption and dissemination of the laws on the identification of physical persons and on civil status; no number, promulgation date or instrument kind is given, and the date is that of the statement ([source, 2026-08-10](https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre)).
-- The territorial administration minister's declaration of 10 August 2026 lists among achievements the adoption and dissemination of the laws on the identification of physical persons and on civil status; no number, promulgation date or instrument kind is given, and the date is that of the statement ([source, 2026-08-10](https://www.foutanet.com/2026/08/11/journee-africaine-de-la-decentralisation-djenabou-toure-reaffirme-lengagement-de-la-guinee/)).
-
-### Malawi: 3 Established
-
-Malawi's National Registration Act is in force and was under review in 2026. Whether it provides for a digital identity is not known.
-
-- The National Registration (Amendment) Regulations, 2026 were made on 23 July 2026 by the Homeland Security Minister under powers in the National Registration Act, which the NRB runs for National ID; the report gives the Act's number and year nowhere, and the instrument is an Act of parliament with regulations made under it ([source, 2026-07-23](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/)).
-- CAJ News reports a stakeholders' consultative meeting, just concluded, to review the existing National Registration Act (an Act of parliament, number and year not given) under the Digital Malawi Acceleration Project, as the registration bureau reviews registration laws; the document gives no date for the meeting, so the published date is used ([source, 2026-07-13](https://cajnewsafrica.com/2026/07/13/malawi-outlines-plans-to-transition-to-digital-ids/)).
 
 ### Seychelles: 3 Established
 

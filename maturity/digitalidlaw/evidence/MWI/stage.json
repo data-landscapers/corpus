@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "4",
       "standing": "in-force",
-      "cover": "",
+      "cover": "digital",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-001;MWI-002",
-      "gaps": "No source held says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.",
-      "note": "Counted from the four questions by study-ladder-digitalidlaw.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "MWI-005;MWI-004;MWI-001",
+      "gaps": "No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held. The regulations of 23 July 2026 change fees, which do not count.",
+      "note": "A 2025 presentation calls the National Registration Act of 2010 the legal foundation of the national digital identity system, so the law covers digital identity. The only regulations held, of July 2026, change fees and are not rules applying it.",
+      "as_at": "2026-10-23"
     }
   ]
 }

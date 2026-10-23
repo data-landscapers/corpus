@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck lists a law on the identification of persons among Benin's key reforms, with fraud penalised by 1 to 10 years in prison and fines up to 10 million FCFA.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Loi sur l'identification des personnes",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "The deck lists mandatory encryption of biometric data, an independent audit of the RNPP and the NPI as unique user identifier in online services among the reforms of the identification framework.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Loi sur l'identification des personnes",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

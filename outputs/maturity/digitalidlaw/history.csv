@@ -6,3 +6,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,DZA,gov.legislate--legislation-covering-digital-id,fact,4,4,DZA-005;DZA-007;DZA-004,Arrivals added DZA-006; DZA-007; stage unchanged.
 2026-10-17,MWI,gov.legislate--legislation-covering-digital-id,fact,3,3,MWI-001;MWI-002,Arrivals added MWI-003; stage unchanged.
 2026-10-17,ZAF,gov.legislate--legislation-covering-digital-id,fact,3,3,ZAF-003;ZAF-004,Arrivals added ZAF-008; stage unchanged.
+2026-10-23,GIN,gov.legislate--legislation-covering-digital-id,fact,3,5,GIN-006;GIN-005;GIN-001,"Decree D/2025/052 of 14 April 2025 applying the 2023 identification law, with a biometric register and an identification number: stage 3 to 5"
+2026-10-23,MWI,gov.legislate--legislation-covering-digital-id,fact,3,4,MWI-005;MWI-004;MWI-001,A 2025 presentation calls the 2010 Act the legal foundation of the digital identity system: stage 3 to 4; the 2026 regulations change fees only

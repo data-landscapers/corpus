@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Jurist Sayon Mara writes that the PN-RAVEC enrolment launched on 15 April 2025 is carried out under the Loi portant identification des personnes physiques, which creates the RNEC and RNPP registers.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "Loi portant identification des personnes physiques",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "Jurist Sayon Mara writes that, under the Loi portant identification des personnes physiques, the RNPP holds biographic and biometric data for identification and authentication, and biometric data (fingerprint, face, iris) may be collected from age ten.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "Loi portant identification des personnes physiques",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

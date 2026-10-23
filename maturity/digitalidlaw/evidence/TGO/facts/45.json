@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck lists the Biometric Identification Act of 2020, which created the National ID Agency, as the legal framework for biometric identification.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Biometric Identification Act 2020",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "The deck says the e-ID Togo system provides unique identification numbers based on fingerprints, iris and photo under the Biometric Identification Act of 2020.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Biometric Identification Act 2020",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

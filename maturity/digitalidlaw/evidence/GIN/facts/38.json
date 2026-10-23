@@ -1,0 +1,27 @@
+{
+ "slug": "2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Law L/2023/019/CNT of 25 October 2023 on the identification of natural persons is the law under which decree D/2025/052 is made, and the decree sets up a register of biometric and biographic data with a personal identification number.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "Loi L/2023/019/CNT portant Identification des Personnes Physiques",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "applied",
+   "fact": "Decree D/2025/052/PRG/CNRD/SGG, signed 14 April 2025 and effective on signature, fixes the rules for entering persons in and keeping the national register of natural persons, in application of Law L/2023/019/CNT.",
+   "as_of": "2025-04-14",
+   "date_precision": "day",
+   "system": "Décret D/2025/052/PRG/CNRD/SGG",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

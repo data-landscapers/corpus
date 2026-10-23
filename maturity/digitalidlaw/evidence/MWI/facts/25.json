@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck says the National Registration Act No. 13 of 2010 was enacted as the legal foundation for the national digital identity system, and the Bureau was established under it.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "National Registration Act No. 13 of 2010",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "The deck calls the National Registration Act No. 13 of 2010 the legal foundation for the national digital identity system.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "National Registration Act No. 13 of 2010",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
