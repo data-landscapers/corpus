@@ -1,5 +1,6 @@
 ## 23 October 2026
 
+- Ghana's 2024 identity-authority line now shows the Appropriation Bill's GHS 212.2m, including staff, in place of the Budget Statement's 165m. Ghana's 2024 and 2025 figures for the authority are now counted the same way.
 - Seychelles' 2026 e-invoicing line now carries its mid-year revised figure, SCR 34.9m after a 4.6m cut for delay. The 2026 mid-year review was read across every vote and changes no other held line.
 
 ## 22 October 2026
