@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-11-swz-felicia-dlamini-kunene-the-nexus-between-aml-cft-and-financial-inclusi",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Central Bank and the Commissioner for Refugees have prepared a KYC information pack for asylum seekers and refugees and recommend issuing every refugee a permit or registration document to enter the national civil registry and receive a national personal identification number, which is not yet implemented.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "refugee registration and KYC roadmap",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
