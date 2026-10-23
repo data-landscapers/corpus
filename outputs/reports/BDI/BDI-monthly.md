@@ -3,9 +3,9 @@ title: Burundi — News, Sep – Oct 2026
 compiled: 2026-10-23
 period: 2026-09-01 to 2026-10-23
 place: BDI
-ledger_rows: 22
+ledger_rows: 21
 not_held: 10
-record: e50d8918e43a
+record: 181ca9358279
 ---
 
 # News, Sep – Oct 2026
@@ -253,20 +253,6 @@ The East African Legislative Assembly's accounts committee reported that Burundi
 **[2027 presidential election : more than one million new voters, CENI accelerates preparations - SOS Médias Burundi](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/)** — SOS Medias Burundi, 3 September 2026
 
 Burundi's electoral commission CENI expects more than one million new voters on the register for the 2027 presidential election, its president Prosper Ntahorwamiye said on 28 August 2026. Partial registration is planned for October 2026 in more than 4,000 centres, aimed at those under 18 in 2025 and returnees. Exact dates have not been set.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Carte d'assistance medicale (CAM)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[La CAM, une avancée vers une protection sociale plus inclusive ?](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/)** — Iwacu, 14 March 2025
-
-A ministerial ordinance of 7 February 2025 requires every Burundian adult and every household outside a health mutual to hold a Carte d'Assurance Maladie, which the revenue office has priced at 3,000 BIF. Iwacu's editorial welcomes the measure but recalls the card's troubled record since its creation in 1984.
 
 </div>
 
