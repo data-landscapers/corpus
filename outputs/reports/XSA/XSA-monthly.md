@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: XSA
-ledger_rows: 14
+ledger_rows: 15
 not_held: 2
-record: 729849a00a8a
+record: 06ee453cbd18
 ---
 
 # News, Sep – Oct 2026
@@ -129,8 +129,26 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 ## Instruments and harmonisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
+<a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ai">AI</a>
 </nav>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SADC Regional Working Group on Data Protection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique joins SADC Regional Working Group on Data Protection](https://techreviewafrica.com/news/7857/mozambique-joins-sadc-regional-working-group-on-data-protection)** — Tech Review Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+
+Mozambique joined the SADC Regional Working Group on Data Protection through INTIC, naming board chair Lourino Chemane as member and data protection head Rosa Dique as alternate, after SADC ICT ministers meeting in Bulawayo on 26 June 2026 asked states to appoint representatives. The country's personal data protection bill is before the Assembly of the Republic.
+
+</div>
+
+</div>
 
 ### AI
 
