@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-23
+period: 2026-09-01 to 2026-10-23
 place: SEN
-ledger_rows: 65
+ledger_rows: 66
 not_held: 2
-record: adfb4a742b61
+record: 557c957eed6a
 ---
 
 # News, Sep – Oct 2026
@@ -159,6 +159,20 @@ Senegal's digital ministry validated a draft national Blueprint on Data Valorisa
 **[Senegal targets postal sector restructuring by 2027 under New Deal Technologique](https://techreviewafrica.com/news/7747/senegal-targets-postal-sector-restructuring-by-2027-under-new-deal-technologique)** — Tech Review Africa, 15 October 2026
 
 Senegal's telecoms and digital ministry aims to restructure the postal sector by 2027 under its New Deal Technologique, refocusing the state-owned La Poste on digital and trusted services, e-commerce logistics and private partnerships. The minister set out the plan at World Post Day celebrations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital governance committee (GouvNum)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Note publique au Premier ministre Identité numérique et e-gouvernement : Les préalables sans lesquels le chantier ne peut avancer](https://www.osiris.sn/note-publique-au-premier-ministre-identite-numerique-et-e-gouvernement-les.html)** — OSIRIS, 20 October 2026
+
+Economist Seydou Bocoum: five unmet prerequisites for Senegal's digital ID, from coverage gaps to unfinished addressing.
 
 </div>
 
