@@ -558,7 +558,9 @@ The prime minister directed the communications ministry to begin technical infra
 
 A joint university protocol signed in August names artificial intelligence among priority fields ([protocol](2026-08-03-sudan-turkiye-joint-university-protocol)).
 
-No national model, dataset or compute facility is held.",SDN-tech.ai-waico|SDN-tech.ai-data-ai-authority|SDN-tech.ai-sudan-mm-dataset|SDN-tech.ai-sudanese-arabic-three-resource-suite,,,,,,,,,2026-08-31,0,"WAICO membership and an authority only; no model, dataset or compute on record"
+2026-03-28 — [researchers abroad published a 2,009-sentence Sudanese Arabic translation benchmark, on which leading models scored under 11 BLEU in the dialect](2026-03-28-sdn-sudanese-flores-extending-flores-to-sudanese-arabic-dialect), beside the dialect datasets already on file.
+
+The language resources are academic; no national model or compute facility is held.",SDN-tech.ai-waico|SDN-tech.ai-data-ai-authority|SDN-tech.ai-sudan-mm-dataset|SDN-tech.ai-sudanese-arabic-three-resource-suite|SDN-tech.ai-sudanese-flores-benchmark,,,,,,,,,2026-08-31,0,"WAICO membership and an authority only; no model, dataset or compute on record"
 tech.ai--control-of-ai-abuse,Movement,"The information ministry [reserved legal action over a manipulated image of the prime minister](2026-06-22-sudan-ministry-information-legal-action-ai-deepfake-pm-image), under a statute that is [not AI-specific](2020-07-13-sudan-cyber-crime-prevention-amendment-act-2020).","The ministry stated it reserves the right to act against those producing, publishing or promoting a fabricated, AI-manipulated image of the prime minister ([statement](2026-06-22-sudan-ministry-information-legal-action-ai-deepfake-pm-image)). No provision is named.
 
 The instrument reached for is the 2020 cybercrime amendment, which increases penalties across the 2018 law's computer-misuse and false-news offences and carries no AI-specific provision ([gazette](2020-07-13-sudan-cyber-crime-prevention-amendment-act-2020)).
