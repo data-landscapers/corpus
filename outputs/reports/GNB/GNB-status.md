@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-10-22
+compiled: 2026-10-23
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 173
+sources_cited: 172
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -112,12 +112,12 @@ Guinea-Bissau's digital financing rests on one World Bank operation. An [IDA gra
 
 Beside it sits risk cover rather than money: MIGA holds an [active political-risk guarantee of US$25.4 million over Sonatel SA's equity investment in Orange Bissau](https://www.miga.org/project/orange-guinea-and-guinea-bissau) (2025), running to 2029 as one tranche of a EUR 433.7 million Orange programme across Guinea and Guinea-Bissau.
 
-The rest is smaller and mostly regional. [UNDP's Mais Digit@l for Guinea-Bissau](https://open.undp.org/projects/01004393), run with the Ministry of Digital Economy, covers 2025 to 2030. Guinea-Bissau is one of six West African countries in the African Development Bank's [Strengthening Tax Administration Capacity Project, launched in August 2026](https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html) on an African Development Fund grant, and one of seven in the Bank's [Strengthening Health Systems and Medical Regulations project, in the pipeline for 2026 to 2030](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-Z1-IB0-044).
+The rest is smaller and mostly regional. [UNDP's Mais Digit@l for Guinea-Bissau](https://open.undp.org/projects/01004393), run with the Ministry of Digital Economy, covers 2025 to 2030. Guinea-Bissau is one of six West African countries in the African Development Bank's [Strengthening Tax Administration Capacity Project, launched in August 2026](https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html) on an African Development Fund grant.
 
 Two systems now running were paid for elsewhere: the [customs platform deployed with UNCTAD's technical assistance was funded by the African Development Bank](https://asycuda.org/en/guinea-bissau-launches-asycudaworld-to-strengthen-customs-digitalization/) (January 2026), and the [technical assistance behind the IMF's enhanced data dissemination standard came from the Government of Japan](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system) (July 2024).
 
 <!-- derived -->
-Six commitments bear on Guinea-Bissau as at September 2026 — five distinct operations, the World Bank's appearing twice — starting between 2023 and 2026 and ending out to 2030; three name the country as recipient, three are regional. Four of the six are grants, one a concessional loan to the region and one a guarantee, with no equity investment and no commercial borrowing. Connectivity takes three of them and about US$85 million of the roughly US$88 million attributable to the country as at September 2026, the rest going to skills, health information systems and tax administration. The World Bank leads by a wide margin at US$60.0 million as at September 2026, ahead of MIGA's US$25.4 million and UNDP's roughly US$3 million; the African Development Bank appears only through regional grants shared across several countries.
+Five commitments bear on Guinea-Bissau as at September 2026 — four distinct operations, the World Bank's appearing twice — starting between 2023 and 2026 and ending out to 2030; three name the country as recipient, two are regional. Three of the five are grants, one a concessional loan to the region and one a guarantee, with no equity investment and no commercial borrowing. Connectivity takes three of them and about US$85 million of the roughly US$88 million attributable to the country as at September 2026, the rest going to skills and tax administration. The World Bank leads by a wide margin at US$60.0 million as at September 2026, ahead of MIGA's US$25.4 million and UNDP's roughly US$3 million; the African Development Bank appears only through regional grants shared across several countries.
 
 ## ICT Infrastructure
 
