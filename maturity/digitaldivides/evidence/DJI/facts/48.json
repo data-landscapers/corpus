@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-18-dji-djibouti-unveils-plan-to-boost-internet-connectivity-and-affordability",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The government's broadband strategy, launched 16 October 2024, aims to expand fibre coverage and access to fixed and mobile internet across the entire country; early results are 250 km of fibre in the north and over 100 administrative buildings connected, with no rural sites counted.",
+   "as_of": "2024-10-16",
+   "date_precision": "day",
+   "system": "national broadband development strategy",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

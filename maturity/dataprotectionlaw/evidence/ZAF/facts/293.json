@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-zaf-ocp-registry-south-africa-national-treasury",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Open Contracting Partnership registry says South Africa's eTenders procurement data publication is compliant with the Promotion of Personal Information Act (POPIA), excluding bidders' personal information unless consent is given.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Promotion of Personal Information Act (POPIA)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

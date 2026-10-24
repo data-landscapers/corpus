@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-27-wb-ago-001-angola-digital-acceleration-project",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The record says Presidential Despacho 394/26 of 20 October 2026 authorised US$50 million for the Programa Conectividade to extend broadband to underserved areas, inside the World Bank-financed Angola Digital Acceleration Project, with every project indicator for people reaching broadband still at 0 as at 30 April 2026.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Programa Conectividade (Angola Digital Acceleration Project)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Angola Digital Acceleration Project (PADA)",
+   "country_label": "Angola",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Ministry of Finance / Institute for Administrative Modernization",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

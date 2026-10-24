@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-ken-konza-data-centre-set-for-expansion-through-public-private-partnership",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Kenya's PPP Directorate said on 2026-10-23 it signed a funding agreement to prepare the Konza National Data Centre Cloud Expansion project at Konza Technopolis, which targets more capacity for cloud computing and emerging technologies including AI, with no private partner yet selected.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Konza National Data Centre Cloud Expansion and Smart City Facilities Project",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Konza National Data Centre Cloud Expansion and Smart City Facilities Project",
+   "country_label": "Kenya",
+   "class": "localai",
+   "platform": "Konza National Data Centre",
+   "owner": "Konza Technopolis Development Authority / PPP Directorate",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

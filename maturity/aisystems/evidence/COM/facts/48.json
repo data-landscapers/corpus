@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-09-com-harnessing-transfer-learning-from-swahili-advancing-solutions-for-como",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "An arXiv preprint of 2024-12-09 reports Comorian datasets mixed with Swahili used to train a machine translation model (ROUGE-1 0.6826) and an ASR system (WER 39.50%), without stating a release of the models or data.",
+   "as_of": "2024-12-09",
+   "date_precision": "day",
+   "system": "Comorian ASR and machine translation models",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

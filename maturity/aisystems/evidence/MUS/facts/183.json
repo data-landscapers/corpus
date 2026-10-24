@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-mus-morisien-embed-a-dedicated-text-embedding-model-and-benchmark-for-maur",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "A Zenodo record of 2026-08-10 presents morisien-embed, an embedding model for Mauritian Creole reaching 0.9655 nDCG@10, and says the model, benchmark dataset and training code are released openly.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "morisien-embed",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "morisien-embed",
+   "country_label": "Mauritius",
+   "class": "localai",
+   "platform": "Zenodo",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

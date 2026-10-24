@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-02-tcd-vision-strategique-du-patn",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The PATN project unit says its connectivity component aims to deploy 200 km of fibre and cover 500 localities with 3G/4G, including rural and peri-urban areas.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Projet d'Appui à la Transformation Numérique du Tchad (PATN)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

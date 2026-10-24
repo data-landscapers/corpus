@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-zaf-sahrc-launches-report-calling-for-urgent-legislative-reform-to-protect-children-s-privacy-and-safety-online",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The South African Human Rights Commission found children's personal data is routinely collected without informed consent despite the requirements of POPIA, and recommended amending its sections 34 and 35.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,6 +1,8 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Conecta Angola,Angola,ruralaccess,,GGPEN,,2023-10-12-ago-angop-angosat2-internet-150-zonas-reconditas
 AGO,Conecta Angola,Angola,ruralaccess,Angosat-2 satellite,MINTTICS,,2024-10-02-ago-minttics-angosat2-300-mil-angolanos-conecta
+AGO,Programa Conectividade (PADA),Angola,ruralaccess,,Institute for Administrative Modernization,,2026-10-22-ago-executivo-disponibiliza-50-milhoes-de-dolares-e-abre-concurso-para-exe
+AGO,Angola Digital Acceleration Project (PADA),Angola,ruralaccess,,Ministry of Finance / Institute for Administrative Modernization,,2024-06-27-wb-ago-001-angola-digital-acceleration-project
 BDI,universal service fund,Burundi,ruralaccess,,Government of Burundi,,2026-08-27-number-of-internet-users-in-burundi-is-low-says-arct
 BDI,Fonds de Service Universel des TIC (FSU),Burundi,other,,Government of Burundi,,2026-07-01-bdi-2026-fsu-connectivite-institutions
 BDI,PAFEN,Burundi,ruralaccess,,SETIC,,2026-05-05-onatel-5-9m-deal-digital-access-rural-burundi
@@ -26,6 +28,7 @@ BWA,village connectivity project,Village connectivity project,ruralaccess,,"Mini
 CAF,fonds de service universel,Central African Republic,ruralaccess,,ARCEP / CDCE,,2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin
 CAF,fonds du service universel,Central African Republic,ruralaccess,,CDCE / ARCEP,,2025-07-11-rca-fonds-service-universel-cdce-lancement
 CAF,Moov Africa 4G+ roll-out,"operator commercial roll-out, Bangui first",other,4G+,Moov Africa Centrafrique,,2025-07-28-caf-ecomatin-moov-20-milliards-4g-bangui
+CAF,universal service fund (Law No. 18.002 of 17 January 2018),Central African Republic,ruralaccess,,ARCEP,,2026-04-21-caf-central-african-republic-plans-2026-launch-of-telecom-universal-servic
 CIV,National Rural Connectivity Programme (PNCR),Côte d'Ivoire,ruralaccess,,Ministry of Digital Transition and Digitalization,,2026-08-28-techafricanews-cote-divoire-pncr-575-localites
 CIV,Programme d'urgence de connectivité rurale,Côte d'Ivoire,ruralaccess,,ANSUT,,2026-06-24-forum-intech-sante-ansut-zones-rurales-fratmat
 CIV,Réseau national à haut débit (RNHD),Côte d'Ivoire,other,,ANSUT,,2026-06-24-forum-intech-sante-ansut-zones-rurales-fratmat
@@ -108,6 +111,7 @@ MWI,Digital Malawi Acceleration Project (DMAP),Malawi,ruralaccess,,Ministry of I
 MWI,Universal Service Fund,Malawi,ruralaccess,,MACRA,,2026-09-03-malawi-world-bank-dmap-accountability-review
 MWI,Last Mile Rural Connectivity Project,Malawi,ruralaccess,,Ministry of ICT,,2026-09-03-techafricanews-malawi-36th-rural-tower
 MWI,Connect-a-School,Malawi,other,,Macra (Universal Service Fund),,2024-09-16-mwi-times-rural-schools-miss-out-ict-revolution
+MWI,Digital Malawi Acceleration Project (DMAP),Malawi,ruralaccess,,MACRA Universal Service Fund,,2026-03-25-mwi-usf-supports-expansion-of-digital-connectivity
 NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,,2026-09-01-nam-usf-annual-report-2025-companion
 NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,"Phase 1, Phase 2",2026-04-09-telecom-namibia-cran-usf-phase2-agreement
 NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,,2025-03-19-thebrief-namibia-universal-service-fund-launch-n145-million-seed-funding
@@ -120,6 +124,7 @@ NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,,2025-08-07-cran-integrated
 NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,,2024-09-27-namibia-gg-8455-gn-559-regulations-prescribing-universal-service-levy
 NAM,Universal Service Fund,Namibia,ruralaccess,,CRAN,,2024-09-06-cran-integrated-annual-report-2024
 NAM,Universal Service Fund programme Phase II,Namibia,ruralaccess,,,,2026-10-20-nam-digital-infrastructure-investment-a-path-to-new-opportunities-the-vill
+NAM,Universal Service Fund (USF),Namibia,ruralaccess,,CRAN,,2026-04-17-nam-namibia-pours-6-5-million-into-universal-access-fund-expansion
 NER,Fonds d'accès universel,Niger,ruralaccess,,ANSI,,2025-10-13-ner-anp-comite-strategie-acces-universel
 NER,Smart Villages for rural growth and digital inclusion (P167543),Niger,ruralaccess,,Government of Niger with World Bank; operators Zamani and Niger Telecoms,,2025-08-28-worldbank-niger-smart-villages-isr-private-investment
 NGA,Universal Service Provision Fund (USPF),Nigeria,ruralaccess,,NCC,national,2026-10-05-nga-fg-turns-to-blended-funding-for-community-owned-rural-telecom-networks
@@ -133,6 +138,7 @@ SEN,FDSUT,SEN,other,,,,2026-09-11-sen-vibractu-starlink-fracture-numerique-sane
 SEN,New Deal Technologique,SEN,ruralaccess,Starlink satellite kits,"Ministry of Communication, Telecommunications and Digital Affairs",,2026-04-11-lesoleil-alioune-sall-kolda-starlink
 SEN,Fonds de développement du service universel des télécommunications (FDSUT),Senegal,other,,,,2026-09-11-sen-ecofin-cour-supreme-suspension-starlink-sonatel
 SEN,Fonds de développement du service universel des télécommunications (FDSUT),Senegal,other,,,,2026-09-09-sonatel-starlink-senegal-licence-suspension
+SEN,Projet d'Acces Universel (PAU),Senegal,ruralaccess,,FDSUT,,2024-01-01-sen-projet-d-acces-universel-pau
 SLE,Universal Access Development Fund (UADF),Sierra Leone,ruralaccess,,UADF,,2025-08-28-sle-premiernews-uadf-levy-rural-ict-expansion
 SLE,Rural Telephony Project,Sierra Leone,ruralaccess,"VSAT, microwave and fibre links with five towers",Universal Access Development Fund,,2024-07-01-sle-uadf-launch-rural-telephony-project
 SOM,Somalia National Digital Inclusion Policy,Somalia,ruralaccess,,Ministry of Communications and Technology,,2025-08-01-somalia-digital-inclusion-policy

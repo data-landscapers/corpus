@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-12-dza-algerian-darja-corpus-a-34-million-word-long-form-conversational-datas",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "A Zenodo record of 2026-09-12 publishes the open Algerian Darja Corpus, 11,151 conversational transcripts totalling 34,336,366 words, in version 2.",
+   "as_of": "2026-09-12",
+   "date_precision": "day",
+   "system": "Algerian Darja Corpus",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algerian Darja Corpus",
+   "country_label": "Algeria",
+   "class": "localai",
+   "platform": "Zenodo / Hugging Face",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

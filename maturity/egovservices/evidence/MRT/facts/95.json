@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The presentation lists among the ministry's projects a platform for dematerialising administrative formalities and the digitalisation of a bundle of public services, with no count or portal named.",
+   "as_of": "2024-11-11",
+   "date_precision": "day",
+   "system": "Plateforme de dématérialisation des formalités administratives",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme de dématérialisation des formalités administratives",
+   "country_label": "Mauritanie",
+   "class": "eservices",
+   "platform": "",
+   "owner": "MTNMA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-15-mar-connectivite-5g-et-e-gouvernement-amal-el-fallah-seghrouchni-fait-le-b",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The minister said phase one (2018-2024) of the national broadband plan covered 10,660 of 10,740 rural zones with 2G, 3G and 4G, and phase two, funded by the Universal Telecommunications Service Fund, targets 1,800 more rural zones with 4G by 2026.",
+   "as_of": "2025-10-13",
+   "date_precision": "day",
+   "system": "Plan national de développement du haut et très haut débit",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

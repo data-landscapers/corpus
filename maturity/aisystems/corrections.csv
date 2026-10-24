@@ -9,3 +9,7 @@ COD,004,,,removed,Stage 4c (compute:compute): the supercomputer is optimised for
 SEN,006,,,removed,Stage 4c (compute:compute): no GPU named in this source; the in-service row stands and a later source names the GPU cell
 NGA,013,,,removed,"Stage 4c (shared:shared): model downloads are counted, not users"
 NGA,017,,,"revalued: build:inservice",Stage 4c (compute:compute): no GPU or accelerator named; read as AI computing in service
+COM,006,,,removed,"Stage 4c (build:underway): a preprint that names no builder, funder or site in the country"
+DZA,012,,,removed,Stage 4c (build:inservice): a dataset record that does not say where the corpus was built or by whom
+MOZ,002,,,removed,"Stage 4c (build:inservice): datasets released by a Portuguese university lab, not stated to be built in Mozambique"
+MUS,006,,,removed,Stage 4c (build:inservice): a model record that does not say where the model was built or by whom

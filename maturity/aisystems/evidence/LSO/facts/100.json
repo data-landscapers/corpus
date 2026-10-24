@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Nthati Moorosi said the government is upgrading High-Performance Computing infrastructure at the Mohale's Hoek Data Centre to expand capacity for AI development and research.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "High-Performance Computing at Mohale's Hoek Data Centre",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mohale's Hoek Data Centre",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

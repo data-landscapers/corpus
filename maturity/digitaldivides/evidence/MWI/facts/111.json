@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-25-mwi-usf-supports-expansion-of-digital-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "MACRA's Universal Service Fund says the World Bank-supported Digital Malawi Acceleration Project is moving to procure providers to build over 90 towers (100 supported) for underserved and rural communities.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Digital Malawi Acceleration Project (DMAP)",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Malawi Acceleration Project (DMAP)",
+   "country_label": "Malawi",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "MACRA Universal Service Fund",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

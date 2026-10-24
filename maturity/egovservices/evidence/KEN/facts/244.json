@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-17-ken-huduma-kenya-clarifies-end-of-physical-business-certificates-after-eci",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Kenyans.co.ke reports Huduma Kenya's statement that business registration certificates are now issued and downloaded through the BRS section of the eCitizen platform.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

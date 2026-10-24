@@ -1,2 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BDI,AgriHyphen AI,Burundi,localai,app,Hyphen Tech,,2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases
+BDI,Kirundi Open Speech & Text Dataset / nllb-kirundi-multi,Ijwi ry'Ikirundi AI,localai,"GitHub, Hugging Face",Ijwi ry'Ikirundi AI (volunteer community),,2026-09-28-bdi-ijwi-ry-ikirundi-ai-kirundi-dataset

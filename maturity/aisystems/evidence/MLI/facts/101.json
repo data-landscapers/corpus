@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "Tidiani Togola says RobotsMali and the MALIBA-AI community have assembled hundreds of hours of Bambara recordings and built speech-recognition tools in Bambara, Bomu, Dogon and Songhai.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "RobotsMali and MALIBA-AI speech datasets and recognition tools",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RobotsMali / MALIBA-AI speech recognition",
+   "country_label": "Mali",
+   "class": "localai",
+   "platform": "",
+   "owner": "Local initiatives",
+   "tiers": ""
+  },
+  {
+   "system": "Wuya (Tuwindi)",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "Tuwindi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

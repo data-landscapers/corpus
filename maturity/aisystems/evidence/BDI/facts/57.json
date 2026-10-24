@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-28-bdi-ijwi-ry-ikirundi-ai-kirundi-dataset",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The Ijwi ry'Ikirundi AI repository publishes a free public version of a Kirundi dataset (1,813 sentences with AI drafts, CC BY-NC 4.0), from a private full set of 4,809 sentences and 2,996 complete Kirundi-French-English pairs, and names its own NLLB-based Kirundi translation model.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Kirundi Open Speech & Text Dataset",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kirundi Open Speech & Text Dataset / nllb-kirundi-multi",
+   "country_label": "Ijwi ry'Ikirundi AI",
+   "class": "localai",
+   "platform": "GitHub, Hugging Face",
+   "owner": "Ijwi ry'Ikirundi AI (volunteer community)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

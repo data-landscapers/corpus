@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The presentation states the government created a dedicated personal data protection authority on 15 December 2021, placed under the Prime Minister.",
+   "as_of": "2021-12-15",
+   "date_precision": "day",
+   "system": "Autorité de protection des données personnelles (apd.mr)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de protection des données personnelles",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "Prime Minister's office",
+   "tiers": ""
+  }
+ ],
+ "note": "No law, standing, regulation or application is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-03-tun-arp-commission-administration-audition-e-administration",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Government representatives listed public systems online, including the Allysa system, public procurement and school and university registration, plus the Tunisian government portal; no count of services is given.",
+   "as_of": "2023-11-03",
+   "date_precision": "day",
+   "system": "Tunisian government portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisian government portal",
+   "country_label": "Tunisia",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Presidency of the Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

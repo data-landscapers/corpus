@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-20-civ-assemblee-nationale-de-cote-d-ivoire-abidjan-le-20-novembre-2024-proje",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The Ministry of Digital Transition's draft 2025 budget gives FCFA 35.3 billion (58.08%) to the ANSUT programme to implement universal service programmes for electronic communications in rural areas, funded by the tax for new technologies in rural zones; studies on covering white zones are under way.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "ANSUT universal service programmes",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

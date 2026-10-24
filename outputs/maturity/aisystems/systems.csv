@@ -2,6 +2,7 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,AGT in-house AI system,Angola,localai,machine learning,AGT (Administração Geral Tributária),,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
 AGO,Angola AI factory (Angola Telecom data centres),Angola,localai,Mistral AI models; Le Chat instance for Angola Telecom,Angola Telecom,,2025-06-17-ago-initiative-to-roll-out-ai-infrastructure-and-services-in-angola
 BDI,AgriHyphen AI,Burundi,localai,app,Hyphen Tech,,2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases
+BDI,Kirundi Open Speech & Text Dataset / nllb-kirundi-multi,Ijwi ry'Ikirundi AI,localai,"GitHub, Hugging Face",Ijwi ry'Ikirundi AI (volunteer community),,2026-09-28-bdi-ijwi-ry-ikirundi-ai-kirundi-dataset
 BEN,Fon voice-to-voice AI model,Benin,localai,NVIDIA A100/H100 GPUs,IIDIA and ASIN,,2025-06-30-techafricanews-benin-fon-voice-ai-lab
 BEN,Fon voice-to-voice AI model,Benin,localai,,IIDIA and ASIN,,2025-06-24-ben-benin-hosts-the-regional-innovation-and-digital-technology-lab-with-a
 BFA,national AI model,Burkina Faso,localai,,Ministere de la Transition digitale,,2026-08-15-burkina-faso-nigeria-digital-cooperation-ouagadougou
@@ -83,6 +84,7 @@ GHA,national AI compute centre,GHA,localai,,Government of Ghana,,2026-10-18-gha-
 GHA,MinoHealth,Ghana,localai,diagnostic models,MinoHealth (company),,2026-10-22-gha-ghanas-hospitals-are-adopting-ai-but-the-machines-were-never
 GHA,MorphoAI,Ghana,localai,AI models,University for Development Studies,,2026-10-22-gha-ghanas-hospitals-are-adopting-ai-but-the-machines-were-never
 GHA,Ghana AI Compute Hub,Ghana,localai,"AI computing, renewable energy and liquid cooling","G42 for the Ghana-UAE hub, financed by PCFC",,2025-12-19-gha-ghana-and-uae-sign-1bn-deal-to-build-africa-s-largest-innovation-and-a
+GHA,Ghana's first national data centre,Ghana,localai,,Government,,2026-10-22-gha-phase-one-of-ghana-s-first-data-centre-to-be-ready-in-24-months-sam-ge
 GIN,projet de supercalculateur,Guinea,localai,,Cite des sciences et de l'innovation de Guinee,,2025-05-01-gin-lelynx-dounia-supercalculateur-ia
 GIN,Nma Xui,Guinée,localai,,,,2024-03-16-gin-le360-nma-xui-ia-langues-locales
 GIN,224 N'Lambé API,Guinea,localai,translation API,224 N'Lambé,,2026-09-10-gin-224-n-lambe-api-l-infrastructure-linguistique-pour-les-technologies-gu
@@ -95,12 +97,14 @@ KEN,SmartVoice,Kenya,localai,application for speech data collection,Maseno Centr
 KEN,ATLAS Umoja AI,Kenya,localai,,GSMA and five governments,,2026-07-31-gsma-atlas-umoja-ai-launch
 KEN,Servernah AI-as-a-Service platform,Kenya,localai,"NVIDIA GPUs, OCP design, hosted at iXAfrica NBOX1",Atlancis Technologies (Servernah Cloud),,2025-11-11-ken-atlancis-technologies-everse-technology-and-ixafrica-unveil-east-centr
 KEN,Servernah Cloud,Kenya,localai,Atlancis Servernah cloud with EverseTech AI-as-a-Service,Atlancis Technologies,,2026-03-12-ken-servernah-cloud-launch
+KEN,Konza National Data Centre Cloud Expansion and Smart City Facilities Project,Kenya,localai,Konza National Data Centre,Konza Technopolis Development Authority / PPP Directorate,,2026-10-23-ken-konza-data-centre-set-for-expansion-through-public-private-partnership
 LBR,CJ Lewis,Liberia,localai,Liblaw,Liblaw,,2026-08-03-liblaw-cj-lewis-legal-ai-liberia
 LBY,LIBIGPT,Libya,localai,generative AI model,Smart Co for Technology Projects and Artificial Intelligence,,2025-10-28-libigpt-first-generative-ai-launched-libyaherald
 LBY,Diwan Bot,Diwan Bot,other,,Libyan Audit Bureau,,2026-06-01-lby-lana-audit-bureau-diwan-bot
 LSO,Sesotho word bank,Lesotho,localai,,National University of Lesotho,,2026-02-18-lesotho-sesotho-word-bank-ai-training
 LSO,Kobong Project,Lesotho,localai,hydropower and AI data centre,Convalt,,2026-07-31-lso-govls-kobong-launch-m100bn-investment
 LSO,SeSoDa,SeSoDa,localai,,,,2025-01-01-lso-sesoda-sesotho-english-dataset-lora-fine-tuning
+LSO,Mohale's Hoek Data Centre,Lesotho,other,,Government,,2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho
 MAR,Voxtral Darija speech recognition model,MAR,localai,,MTNRA and Mistral,,2026-09-30-mar-mistral-open-source-ai-bricks
 MAR,Voxtral ASR for Darija,Morocco,localai,open source,Ministry of Digital Transition and Administrative Reform with Mistral AI,,2026-09-29-mar-techreviewafrica-mistral-ai-darija-open-source-tools
 MAR,JAZARI ROOT,Morocco,localai,,Ministry of Digital Transition,,2026-09-08-mar-mmsp-instituts-jazari-assemblees-generales
@@ -119,6 +123,8 @@ MLI,Nyana-Eval,Mali,localai,Hugging Face,RobotsMali,,2025-11-26-mli-robotsmali-a
 MLI,CIAR-Mali,Mali,localai,AI and robotics centre,Malian government,,2025-05-26-mli-intelligence-artificielle-au-mali-ou-en-est-on-aujourd-hui
 MLI,Hekima,Mali,other,conversational search engine,,,2025-05-26-mli-intelligence-artificielle-au-mali-ou-en-est-on-aujourd-hui
 MLI,AfVoices-Translated,Mali,localai,Hugging Face,Soynade,,2026-02-18-sen-soynade-s-open-source-month
+MLI,RobotsMali / MALIBA-AI speech recognition,Mali,localai,,Local initiatives,,2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d
+MLI,Wuya (Tuwindi),Mali,other,,Tuwindi,,2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d
 MOZ,UEM Centro de Dados,Mozambique,other,,Universidade Eduardo Mondlane,,2026-08-03-oeconomico-uem-centro-de-dados-banco-mundial
 MOZ,ATDI-Huawei MoU on AI,Mozambique,other,,"ATDI, IP",,2026-04-23-moz-mznews-atdi-huawei-ai-mou
 MRT,Open Data Mauritania NLP Hub,Mauritania,localai,GitHub,MWiML,,2026-05-16-github-mwiml-open-data-mauritania-nlp-langues-nationales
@@ -177,6 +183,7 @@ SSD,YoGage AI,South Sudan,localai,Juba Arabic dataset for AI,Go Girl ICT Initiat
 SSD,JunubAI,South Sudan,localai,AI platform for building businesses online,,,2025-07-29-ssd-indabax-south-sudan-2025-igniting-the-future-of-ai-in-south-sudan
 SWZ,siSwati language models and generative AI,Eswatini,localai,,Royal Science and Technology Park of Eswatini; University of Eswatini; Institute for AI of Serbia,,2024-10-19-swz-ivi-serbia-siswati-ai-mou
 TCD,LIDIA (Laboratoire InterDisciplinaire de recherche en Intelligence Artificielle),Chad,localai,,Centre National de Recherche pour le Developpement (CNRD),,2026-08-04-tchad-cree-laboratoire-interdisciplinaire-recherche-ia-lidia-cnrd
+TCD,Corpus of Chadian languages,Chad,localai,GitHub,Chad AI Network,,2025-01-08-tcd-corpus-of-chadian-languages-corpus-des-langues-tchadiennes
 TGO,Togo AI Lab,Togo,localai,,Ministry of Public Service Efficiency and Digital Transformation with CEGA,,2026-09-10-togofirst-togo-ai-lab-public-sector-ai-technical-lead
 TGO,Togo AI Lab,Togo,localai,open-source language data collection platform,Ministry of Public Service Efficiency and Digital Transformation,national,2026-07-14-togo-langues-nationales-ia
 TGO,Togo Data Lab,Togo,localai,high performance computer clusters at the Universities of Lomé and Kara,CEGA and the Ministry of Public Service Efficiency and Digital Transformation,,2025-12-03-togo-data-lab-expansion-google-org-cega

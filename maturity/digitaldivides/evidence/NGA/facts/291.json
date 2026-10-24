@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-30-nga-telecom-operators-push-for-new-policy-as-nnbp-2020-2025-fails-expectat",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "ATCON's president cites the Federal Government's ongoing push to support deployment of about 7,000 telecom towers in underserved and unserved areas, with no sites yet counted as connected.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "Federal Government 7,000 towers push",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

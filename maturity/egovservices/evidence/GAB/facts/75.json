@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-gab-gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-p",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Vice-president of the government Hermann Immongault presented the Gabon Connect single digital window on 22 October 2026, with the Declaration unique des salaires and TresorPay portals deployed in a phase due to finish in December 2027.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Gabon Connect",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gabon Connect",
+   "country_label": "GAB",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Gabon",
+   "tiers": "tax, employer formalities, non-tax revenue, customs, land registry"
+  }
+ ],
+ "note": ""
+}

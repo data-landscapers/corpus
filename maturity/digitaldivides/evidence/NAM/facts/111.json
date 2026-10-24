@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-29-nam-namibia-to-roll-out-faster-internet-speeds-from-october-2026",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The ICT minister said government is building network towers across the country under a three-year programme, with two towers at Ehomba and Ongongo in Kunene operational and a second phase of two more planned.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "Government network tower programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

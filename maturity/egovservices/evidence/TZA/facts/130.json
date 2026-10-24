@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-08-tza-taarifa-kwa-umma-matumizi-ya-mfumo-ulioboreshwa-wa-utoaji-huduma",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "BRELA announced that its BRELA Online Services (BOS) system took new business name applications and industrial licence applications online from 8 April 2026, with company, patent and trademark services still on the old ORS system.",
+   "as_of": "2026-04-08",
+   "date_precision": "day",
+   "system": "BRELA Online Services (BOS)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BRELA Online Services (BOS)",
+   "country_label": "TZA",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Business Registrations and Licensing Agency (BRELA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

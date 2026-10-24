@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Tidiani Togola says Mali's personal data legislation dates from 2013, before generative AI.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "2013 personal data law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Tidiani Togola names the APDP as an existing data protection authority to be strengthened.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Autorité de protection des données à caractère personnel (APDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

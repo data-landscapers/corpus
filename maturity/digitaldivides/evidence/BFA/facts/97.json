@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-31-bfa-le-burkina-faso-prevoit-109-millions-de-dollars-au-developpement-du-nu",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Agence Ecofin, citing official sources, reports that of 1,700 white zones identified in Burkina Faso 183 were covered in 2022 and 138 in 2024, with 750 planned for 2025 and the 2026 work plan of the digital ministry continuing coverage of the 750 white zones.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "white zones coverage programme",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

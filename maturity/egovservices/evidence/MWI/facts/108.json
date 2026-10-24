@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-29-mwi-minister-of-justice-urges-professionalism",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Minister Charles Mhango says the Malawi Business Registration System lets businesses register and maintain records online; one online service is named.",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "Malawi Business Registration System",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
