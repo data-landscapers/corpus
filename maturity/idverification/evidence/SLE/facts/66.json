@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-sle-natca-boss-intensifies-nationwide-ninsim-integration-campaign-ahead-of-november",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National Communications Authority's Director General said on 20 October 2026 that mobile subscribers must link their National Identification Number to their SIM card by a 1 November 2026 deadline, with the National Civil Registration Authority and mobile operators in the drive.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "NIN-SIM integration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-SIM integration",
+   "country_label": "NIN-SIM integration",
+   "class": "relying",
+   "platform": "",
+   "owner": "National Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

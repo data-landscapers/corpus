@@ -36,6 +36,7 @@ EGY,Karnak Chat,Egypt,govai,chatbot on the Karnak large language model,Ministry 
 EGY,KMT,KMT,govai,"CAOA website, WhatsApp, Facebook",Central Agency for Organization and Administration (CAOA),,2024-02-25-egy-caoa-kmt-ai-chatbot-civil-service-launch
 EGY,Paperless Ministry System (messaging),Egypt,govai,,Ministry of Communications and Information Technology,,2026-04-24-egy-mcit-ai-paperless-ministry-tender-tendersinfo
 EGY,Consumer Protection Agency AI analysis,Egypt,govai,,Consumer Protection Agency,,2026-10-22-egy-consumer-protection-agency-ai-complaints
+EGY,Chat Egypt,Chat Egypt,govai,AI rumour monitoring and verification platform,Cabinet Media Center,,2026-10-20-egy-launch-of-chat-egypt-platform-to-monitor-verify-rumors
 ETH,AI-enriched integrated digital civil registration and resident services system,Ethiopia,other,,Addis Ababa City Administration,,2025-12-06-eth-ebc-addis-ai-civil-registration-system
 ETH,AI-based Customs Chatbot,Ethiopia,govai,,Ethiopian Customs Commission,,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems
 ETH,AI-powered Passenger Risk Management System,Ethiopia,other,,Ethiopian Customs Commission,,2025-10-12-eth-addisfortune-revenue-customs-eight-tech-systems
@@ -43,6 +44,7 @@ ETH,Mesob,Ethiopia,other,,Ethiopian Artificial Intelligence Institute,,2025-11-1
 GAB,Missamou,Missamou,govai,Facebook Messenger,Government of Gabon,,2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental
 GHA,AI-powered multi-hazard chatbot,Ghana,govai,chatbot,NADMO,"national, ten regional offices trained",2026-07-30-ghanas-disaster-agency-turns-to-ai-to-reach-people-before-the-water-does
 GIN,AI price control for public procurement,Guinea,govai,,Government of Guinea,,2026-10-12-gin-guineejet-bah-oury-marches-publics-ia-routes
+GIN,NGAYNAAKO,Ministère de l'Élevage,other,,Ministère de l'Élevage,,2026-10-23-gin-ministere-de-lelevage-alpha-bacar-barry-presente-la-plateforme-ngaynaa
 GMB,LocaleNLP Wolof/Mandinka voice pilot,The Gambia,govai,National e-Government iPortal,LocaleNLP,,2026-04-01-gmb-localenlp-sovereign-nlp-pilot
 GMB,AI-powered fact-checking and verification system,The Gambia,govai,WhatsApp line,"Ministry of Information, Media and Broadcasting Services",,2026-04-29-gmb-gna-moi-ai-fact-checking-system
 GMB,Rental Tax Compliance System (rTCS),Gambia,other,ML valuation model built by RippleNami,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
@@ -56,6 +58,7 @@ KEN,e-Citizen,Kenya,other,e-Citizen,Government of Kenya,,2024-12-03-ken-ruto-eye
 KEN,eCitizen AI Chatbot,Kenya,govai,eCitizen,Government of Kenya,,2024-09-29-ken-digital-leaders-spotlight-kenya
 KEN,SHA AI-driven claims processing system,Kenya,other,,Social Health Authority,,2025-12-04-ken-ai-system-flaws-push-sha-into-chaos-mps-say-in-explosive-report
 KEN,SHA Claims Adjudication Platform,Kenya,other,,Social Health Authority,,2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale
+KEN,AI-powered chatbot,Kenya,govai,,Business Registration Service,,2026-06-11-ken-brs-development-partners
 LBR,LRA AI-powered Contact Center,Liberia,govai,,"Liberia Revenue Authority, Taxpayer Services Division, with Kwagei Group",,2026-09-10-lbr-transforming-taxpayer-services-lra-advances-ai-powered-contact-center
 LBY,Diwan Bot,Diwan Bot,govai,,Libyan Audit Bureau,,2026-06-01-lby-lana-audit-bureau-diwan-bot
 LBY,"Integrated digital platform, Ministry of Labour and Rehabilitation",Libya,govai,,Ministry of Labour and Rehabilitation with Al-Nasr Information Technology,,2026-04-14-lby-ministry-of-labour-integrated-digital-platform-ai
@@ -106,6 +109,8 @@ NGA,Service-Wide GPT,Nigeria,govai,Service-Wide GPT,Office of the Head of the Ci
 NGA,AskFME,AskFME,govai,WhatsApp and ministry website,Federal Ministry of Education,,2026-08-12-nga-the-ai-adviser-who-supported-a-ministry-to-build-their-own-tool
 NGA,Service Wise GPT,Nigeria,govai,,Federal Civil Service,,2026-08-02-nga-nigeria-is-adopting-ai-fast-but-foreign-firms-are-winning-report-warns
 NGA,Scaling AI for Development (SAID) Challenge,Nigeria,other,,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-06-27-nga-naish-tijani-unveils-ai-scaling-hub-to-power-startups-public-sector-in
+NGA,"CAC AI-driven portal (AI Lawyer, AI Name Generator)",Corporate Affairs Commission,govai,www.cac.gov.ng,Corporate Affairs Commission,,2026-02-10-nga-cac-ai-rollout-boosts-daily-business-registrations-to-10k
+NGA,CAC AI-enabled registration platform,Nigeria,govai,,Corporate Affairs Commission,,2025-07-01-nga-cac-unveils-ai-powered-portal-for-faster-company-registrations
 RWA,Mbaza,Mbaza,govai,Proto AI agent,MINALOC with RISA,,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen
 RWA,Intumwa,Intumwa,govai,Proto AI agent,National Bank of Rwanda,,2026-02-01-rwa-rwanda-s-government-and-proto-partner-to-deploy-integrated-ai-citizen
 RWA,Kubaka AI agent,Rwanda,govai,Kubaka.gov.rw,MININFRA and Rwanda Housing Authority,,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a
@@ -113,6 +118,7 @@ SDN,Chatbot on admission.gov.sd,Sudan,govai,admission.gov.sd,Ministry of Higher 
 SEN,local AI application for judicial archives,Senegal,other,NVIDIA DGX Spark,"Direction de la Dematerialisation et de l'Automatisation, Ministry of Justice",TGI Pikine-Guediawaye pilot,2026-10-06-sen-rts-tgi-pikine-ia-archives-judiciaires
 SEN,APPEL,Senegal,other,dematerialised public procurement platform,ARCOP,,2026-02-12-sen-arcop-appel-premiers-resultats
 SEN,Anta,Senegal,govai,Service Public portal,Sénégal Numérique SA,,2025-08-25-sen-anta-lia-au-service-du-citoyen-le-pari-reussi-de-senegal-numerique-sa
+SEN,APPEL chatbot and Assistant IA CMP,Senegal,govai,APPEL,ARCOP,,2026-05-01-sen-rapport-d-achevement-de-la-phase-pilote-de-la-plateforme-appel-achats
 SLE,EDITH,Sierra Leone,govai,,Ministry of Basic and Senior Secondary Education,,2026-06-24-sle-calabash-mbsse-edith-ai-platform
 SLE,"Ministry of Education internal WhatsApp chatbot (RAG, GPT-4)",Sierra Leone,govai,WhatsApp business interface,Ministry of Education (built under EdTech Hub's Ministry of Education AI Challenge),,2026-07-29-sle-the-graduate-who-brought-ai-to-sierra-leone-s-ministry-of-education
 SLE,TheTeacher.AI,Sierra Leone,other,WhatsApp chatbot on GPT-3.5-turbo,Fab Data,,2024-02-07-sle-educaid-fab-data

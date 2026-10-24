@@ -32,6 +32,7 @@ BEN,fID QR-code authentication app,Benin,relying,mobile application,,,2025-11-01
 BEN,Certificat NPI/fID (C'est moi),Benin,other,WURI project,,,2024-06-27 WURI digital ID project improving access to public services in Benin
 BEN,fID mobile application,Benin,relying,mobile application,,,2024-06-27 WURI digital ID project improving access to public services in Benin
 BEN,Smart Africa Data Exchange (SADX),SADX,relying,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
+BEN,Registre national des personnes physiques (RNPP) / NPI,Benin,relying,"API, X-Road",Agence Nationale d'Identification des Personnes (ANIP),,2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,relying,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,identité digitale pour tous,Burkina Faso,other,,Ministry of Digital Transition,,2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan
@@ -227,6 +228,7 @@ GHA,National service registration (National Service Authority),Ghana,relying,,Na
 GHA,Ghana Card,Ghana,other,,National Identification Authority,,2026-08-24-graphic-national-service-authority-biodata-mismatch-correction-window
 GHA,NIA digital identity verification app,Ghana,relying,mobile app,National Identification Authority,,2026-07-16-ghana-card-digital-checks-compulsory-bbc
 GHA,Ghana Card,Ghana,other,,National Identification Authority,,2026-07-16-ghana-card-digital-checks-compulsory-bbc
+GHA,Smart Africa Data Exchange (SADX),SADX,relying,Ascend Digital Solutions,Smart Africa,,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital
 GIN,Registre national des personnes physiques (RNPP),Guinea,other,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
 GIN,plateforme de vérification et de validation de l'identité,Guinea,other,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
 GIN,plateforme nationale de certification de l'identité des détenteurs de cartes SIM et utilisateurs des services/produits de télécommunications,Guinea,other,,,,2026-06-22-decret-2026-0161-plateforme-certification-identite-sim
@@ -293,6 +295,7 @@ LBR,Executive Order 147 national ID requirement for public and private services,
 LBR,SIM registration (LTA regulations),Liberia,relying,NIR platform,Liberia Telecommunications Authority,,2025-04-30-no-national-id-no-transaction-eo147-observer
 LBR,National Biometric Identification System (NBIS),Liberia,other,,National Identification Registry (NIR),,2025-04-30-no-national-id-no-transaction-eo147-observer
 LBR,Liberia Integrated Tax Administration (LITAS),Liberia,other,,Liberia Revenue Authority,,2024-06-30-lra-2023-annual-report
+LBR,NIDCRVS,Liberia,other,,National Identification Registry,,2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession
 LBY,Banking eKYC integration with the Digital Identity Management System for Citizens,Libya,relying,,Central Bank of Libya and participating banks,Level 3 biometric,2026-04-19-gia-cbl-level-3-biometric-digital-identity-ekyc
 LBY,National Digital Identity System (LY-DNID),Libya,other,LY-NDEX,General Information Authority,Level 1 G2G; Level 2 pilot,2025-11-20-gia-ly-dnid-second-level-trial-phases
 LBY,Libyan Digital National Identity (LY-DNID),Libya,other,,General Information Authority,,2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop
@@ -433,6 +436,7 @@ MWI,Mobile money KYC for CUCI cash transfer,Malawi,relying,,Airtel Malawi; TNM M
 MWI,COVID-19 Urban Cash Intervention (CUCI),Malawi,relying,Unified Beneficiary Registry,"Ministry of Gender, Community Development and Social Welfare",,2025-02-01-mwi-cuci-impact-evaluation-report
 MWI,National Registry (National IDs),Malawi,other,,National Registration Bureau,,2025-02-01-mwi-cuci-impact-evaluation-report
 MWI,Unified Beneficiary Registry,Malawi,other,,,,2025-02-01-mwi-cuci-impact-evaluation-report
+MWI,National Registration Bureau verification service,Malawi,relying,,National Registration Bureau,banks,2024-07-20-mwi-making-national-id-work-beyond-voter-registration
 NAM,Electronic identity (E-ID) card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security; Office of the Prime Minister",,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,Social grants identity verification,Namibia,relying,,,,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,Electronic signature and certification service regime,Namibia,other,,Ministry of Information and Communication Technology,,2025-12-19-namibia-electronic-signature-regulations-gazette-8814
@@ -591,6 +595,7 @@ SLE,Integrated CRVS and ID Management System,Sierra Leone,other,Open source/DPG 
 SLE,MOSIP-based national digital ID pilot,Sierra Leone,other,MOSIP,NCRA,,2024-01-01-sierra-leone-ncra-mosip-pilot-digital-id-commitment
 SLE,Electronic Know Your Customer Service (eKYC),Sierra Leone,relying,,National Civil Registration Secretariat,,2020-01-02-sierra-leone-finance-act-2020-tax-register
 SLE,NIN-SIM integration,SLE,relying,,"NCRA, NatCA and mobile network operators",,2025-08-20-sle-to-fast-track-nin-integration-with-telecom-services-ncra-natca-sign-mo
+SLE,NIN-SIM integration,NIN-SIM integration,relying,,National Communications Authority,,2026-10-23-sle-natca-boss-intensifies-nationwide-ninsim-integration-campaign-ahead-of-november
 SOM,High School Certificate System (HSC),Somalia,relying,GovStack building blocks,Government of Somalia,,2026-05-29-somalia-govstack-high-school-certificate-system
 SOM,eAqoonsi / NIRA digital ID,Somalia,other,,NIRA,,2026-05-29-somalia-govstack-high-school-certificate-system
 SOM,Commercial bank account opening and KYC (CBS eKYC regulation),Somalia,relying,,Central Bank of Somalia with commercial banks,,2025-07-29-somalia-cbs-kyc-id-verification-banking
@@ -641,6 +646,7 @@ SYC,SLA online services on monServis,Seychelles,relying,monServis,Seychelles Lic
 SYC,monServis,Seychelles,relying,,DICT,,2023-04-19-sla-online-services-seyid-monservis
 SYC,SeyID,Seychelles,other,,DICT,,2023-04-19-sla-online-services-seyid-monservis
 SYC,CertExpress,Seychelles,other,,,,2022-11-01 Seychelles Civil Status Act Cap 34 (as at 1 Nov 2022)
+SYC,SeyID,Seychelles,relying,,Department of Information Communications Technology,banks and payment providers,2025-04-04-syc-directive-on-the-adoption-and-acceptance-of-the-national-digital-ident
 TCD,ANATS-Airtel Tchad subscriber identification partnership,Chad,relying,,Airtel Tchad; ANATS,,2026-05-09-tchadinfos-anats-airtel-partenariat-securisation-donnees
 TGO,Identification systématique et obligatoire des abonnés (SIM registration),Togo,relying,,"Telecom operators, regulated by ARCEP",,2025-04-23-togo-jo-decret-2024-071-identification-abonnes
 TGO,NIU / carte d'identification unique,Togo,other,,Agence Nationale d'Identification (ANID),,2025-04-23-togo-jo-decret-2024-071-identification-abonnes
@@ -711,6 +717,7 @@ UGA,National ID QR-code verification,Uganda,other,QR code on new national ID car
 UGA,URA tax identification (TIN to NIN),Uganda,relying,URA taxpayer portal,Uganda Revenue Authority,,2025-11-12-ura-shift-from-tin-to-nin
 UGA,URA tax identification (TIN to NIN),Uganda,relying,URA taxpayer portal,Uganda Revenue Authority,,"2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN"
 UGA,SAGE,Uganda,relying,social cash grant programme,"Ministry of Gender, Labour and Social Development",,2026-10-19-uga-43-000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors
+UGA,Online Business Registration System (OBRS),Uganda,relying,,Uganda Registration Services Bureau,,2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency
 ZAF,SIM card registration (RICA framework),South Africa,relying,Home Affairs population register,Telcos; ACT,,2026-07-21-south-africa-sim-registration-identity-fraud
 ZAF,Online Verification System (OVS),South Africa,relying,National Population Register,Department of Home Affairs,,"2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike"
 ZAF,NPR identity verification service (OVS),South Africa,relying,National Population Register,Department of Home Affairs,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,use,use,coverage,inservice,2026-08-09,SLE-001;SLE-002;SLE-003;SLE-004;SLE-008;SLE-013;SLE-015;SLE-017;SLE-019;SLE-020,SLE-005=underway;SLE-011=underway;SLE-012=underway;SLE-007=underway;SLE-006=underway;SLE-010=underway,
+SLE,use,use,coverage,inservice,2026-10-20,SLE-001;SLE-002;SLE-003;SLE-004;SLE-008;SLE-013;SLE-015;SLE-017;SLE-019;SLE-020;SLE-022,SLE-005=underway;SLE-011=underway;SLE-012=underway;SLE-007=underway;SLE-006=underway;SLE-010=underway,
 SLE,use,sectors,coverage,several,2025-06-05,SLE-009;SLE-014;SLE-016;SLE-018;SLE-021,,
 SLE,use,usage,coverage,,,,,nothing held

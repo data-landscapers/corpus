@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-nga-cac-unveils-ai-powered-portal-for-faster-company-registrations",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Corporate Affairs Commission's pilot registration portal checks a director's NIN in real time against the National Identity Management Commission before issuing a certificate of incorporation.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "CAC AI-enabled registration platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

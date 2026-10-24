@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 14 |
-| 2 Nascent | 29 |
+| 3 Established | 15 |
+| 2 Nascent | 28 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 6 |
@@ -105,6 +105,12 @@ A national digital-skills programme had trained a stated number of people by 202
 A national digital-skills programme had trained a stated number of people by 2025; a measured share with skills is not on record.
 
 - Orange Digital Center Liberia says it reached 3,035 beneficiaries through 44 training sessions in 2025, with a footprint in all 15 counties ([source, 2025](https://thenewsnewspaperonline.com/orange-digital-center-releases-2025-report-exceeds-targeted-impact-goals-across-liberia/)).
+
+### Malawi: 3 Established
+
+Malawi's national digital project had trained over 19,000 people at ten tech hubs by 2024; the share of adults with digital skills is not known.
+
+- The Secretary for Information and Digitalization says 10 tech hubs under the World Bank-funded Digital Malawi Project have taught digital skills to over 19,000 youths, women and elderly people ([source, 2024-08-09](https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/)).
 
 ### Mauritania: 3 Established
 
@@ -266,13 +272,6 @@ A national digital-skills programme was under way in 2026; how many it trained i
 
 - Madagascar's Ministry of Technical Education and Vocational Training signed a partnership with GIP Pix on 11 September 2026 to prepare young people for, and certify, digital skills, across eight axes including exam centres and trainer training ([source, 2026-09-11](https://www.moov.mg/article/121011-metfp-et-gip-pix-un-partenariat-pour-renforcer-et-certifier-les-competences-numeriques-des-jeunes)).
 - Madagascar's Ministry of Technical Education and Vocational Training and the OIF launched on 19 January 2026 a new phase of D-CLIC to train 1,000 young people free in digital skills by mid-2026, within a goal of 40,000 by 2028 ([source, 2026-01-19](https://www.wearetech.africa/en/fils-uk/news/tech/madagascar-to-train-1-000-young-people-in-digital-skills-by-june-under-d-clic-program)).
-
-### Malawi: 2 Nascent
-
-A national digital-skills programme was under way in 2026; how many it trained is not on record.
-
-- UNDP and ICTAM, with the ICT Minister present, launched the Digital Literacy Advocates programme: 30 certified university students are each to train 100 community members, 3,000 Malawians in all ([source, 2026-02-19](https://www.undp.org/malawi/stories/lilongwe-lupaso-how-pemphero-kanyenda-taking-digital-skills-back-home)).
-- The University of Malawi and UNDP launched Nzeru Hub, a free digital learning platform for students and underserved communities offering digital skills courses, per UNIMA and UNDP ([source, 2025-10-13](https://www.unima.ac.mw/news/single-post/unima-and-undp-launch-nzeru-hub-driving-digital-learning-in-malawi-14-10-2025)).
 
 ### Mali: 2 Nascent
 

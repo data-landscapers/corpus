@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-ago-joao-lourenco-autoriza-despesa-de-20-milhoes-usd-para-capacitacao-digi",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "A presidential despacho signed by President João Lourenco in October 2026 orders public-tender contracting of specialised centres to raise digital skills of the working population, especially young people and public servants, at three levels, with data-protection and cybersecurity awareness.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Digital skills training despacho",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-08-zwe-mavetera-launches-ict-policies",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ICT Minister Tatenda Mavetera launched the Zimbabwe National Broadband Plan, covering 2020 to 2030, on 7 March 2024 at Somabula.",
+   "as_of": "2024-03-07",
+   "date_precision": "day",
+   "system": "Zimbabwe National Broadband Plan",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

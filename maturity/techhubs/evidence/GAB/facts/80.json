@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-17-gab-declaration-de-politique-generale-de-mark-alexandre-doumba-wtdc-25",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The minister says the Centre Gabonais de l'Innovation, an ITU Innovation Alliance member, incubates start-ups and has become a regional driver.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "Centre Gabonais de l'Innovation",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre Gabonais de l'Innovation",
+   "country_label": "Gabon",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministère de l'Économie Numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

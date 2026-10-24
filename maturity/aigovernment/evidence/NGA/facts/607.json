@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-10-nga-cac-ai-rollout-boosts-daily-business-registrations-to-10k",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Punch reports the Corporate Affairs Commission has fully deployed AI across its service platforms and launched on its website an AI Lawyer answering questions on CAC laws and procedures and an AI Name Generator, the Registrar-General said.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "CAC AI Lawyer and AI Name Generator",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAC AI-driven portal (AI Lawyer, AI Name Generator)",
+   "country_label": "Corporate Affairs Commission",
+   "class": "govai",
+   "platform": "www.cac.gov.ng",
+   "owner": "Corporate Affairs Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

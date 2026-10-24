@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-egy-launch-of-chat-egypt-platform-to-monitor-verify-rumors",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Cabinet Media Center launched the Chat Egypt platform, which uses AI to analyse text, images and video to detect and verify rumours, with more than 21,000 data entries added and ministries, agencies and governorates uploading their own verified data.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Chat Egypt",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chat Egypt",
+   "country_label": "Chat Egypt",
+   "class": "govai",
+   "platform": "AI rumour monitoring and verification platform",
+   "owner": "Cabinet Media Center",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

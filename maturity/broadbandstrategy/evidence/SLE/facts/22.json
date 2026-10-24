@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-07-sle-communications-ministry-poise-to-address-broadband-connectivity-challe",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Ministry of Communication, Technology and Innovation held a validation workshop on 28 February 2024 for the National Broadband Strategy (2023-2028); the article does not say the government has adopted it.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "National Broadband Strategy (2023-2028)",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

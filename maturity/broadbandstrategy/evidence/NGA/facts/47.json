@@ -1,0 +1,46 @@
+{
+ "slug": "2026-04-30-nga-telecom-operators-push-for-new-policy-as-nnbp-2020-2025-fails-expectat",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "ended",
+   "fact": "Nairametrics reports Nigeria's National Broadband Plan 2020-2025 expired in December 2025, four months before the article, though an NCC commissioner said the plan 'has not ended'.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "National Broadband Plan (NNBP) 2020-2025",
+   "class": "plan"
+  },
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "NCC Executive Commissioner Abraham Oshadami said the regulator is reviewing the old plan's performance and is coming up with a new plan to succeed it.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "Successor to NNBP 2020-2025",
+   "class": "plan"
+  },
+  {
+   "sub_indicator": "plan",
+   "aspect": "delivery",
+   "value": "reported",
+   "fact": "The article sets NCC data of 51.97% broadband penetration (December 2025) against the plan's 70% target, and 52.95% of mobile subscriptions on 4G against its 70%-by-2023 milestone.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "National Broadband Plan (NNBP) 2020-2025",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Broadband Plan (NNBP) 2020-2025",
+   "country_label": "Nigeria",
+   "class": "plan",
+   "platform": "",
+   "owner": "Federal Government / NCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,plan,standing,coverage,adopted,2020-09-17,NGA-005,NGA-001=ended;NGA-002=draft,
-NGA,plan,delivery,coverage,reported,2025-12,NGA-003;NGA-004,NGA-006=funded,
+NGA,plan,standing,coverage,adopted,2020-09-17,NGA-005,NGA-009=draft;NGA-001=ended;NGA-008=ended;NGA-011=ended;NGA-002=draft,
+NGA,plan,delivery,coverage,reported,2025-12,NGA-003;NGA-004;NGA-010,NGA-006=funded,

@@ -21,8 +21,8 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 11 |
-| 3 Established | 20 |
+| 4 Operating | 12 |
+| 3 Established | 19 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
@@ -84,6 +84,13 @@ The central bank and the infrastructure ministry ran AI agents in 2025; rules or
 
 - Proto says the National Bank of Rwanda deployed its Intumwa AI agent in 2021 to process complaints across more than 600 financial institutions, and was expanding it as of November 2025 ([source, 2025-11](https://www.proto.cx/resource/rwandas-government-and-proto-partner-to-deploy-integrated-ai-citizen-support-agents)).
 - A MININFRA official posted that the ministry and Rwanda Housing Authority released an AI agent on the Kubaka.gov.rw permits platform that reviews architectural designs for compliance with the Building Code and zoning rules ([source, 2025-11-04](https://www.linkedin.com/posts/ishimwe-romalice_yesterday-our-team-at-the-rwanda-ministry-activity-7391804455949676544-5skC)).
+
+### Senegal: 4 Operating
+
+Senegal's public-service portal and its procurement regulator ran AI assistants for users by 2026; rules for government use of AI are not known.
+
+- Polygon says Senegal's chatbot Anta, developed by Sénégal Numérique SA, uses AI intent detection and voice recognition to answer users and guide them through administrative procedures on the Service Public portal ([source, 2025-08-25](https://www.polygon.sn/anta-lia-au-service-du-citoyen/)).
+- ARCOP's pilot completion report lists an AI assistant specialised in the public procurement code and a chatbot among the support provided to users of the APPEL platform ([source, 2026-05](https://arcop.sn/wp-content/uploads/2026/05/Rapport_achevement_APPEL.pdf)).
 
 ### South Africa: 4 Operating
 
@@ -193,12 +200,6 @@ A government body used an AI system in service in 2025; AI in several bodies is 
 
 - A NUST master's thesis evaluates the government's Pocket Guide 2.0 Pocket Bot AI chatbot as a digital self-service tool for civil servants, based on interviews with 20 civil servants who used it ([source, 2025-01-31](https://ir.nust.na/items/97b0e777-f3f9-4918-8cfb-26a6cff001d3)).
 - The Prime Minister said the launched Digital Pocket Guide 2.0 has an AI chatbot, Pocketbot, through which civil servants ask questions and receive instant answers on public service HR policies ([source, 2023-11-24](https://nbcnews.na/node/103524)).
-
-### Senegal: 3 Established
-
-Senegal's public-service portal has run an AI chatbot since 2025; other AI uses are pilots, and rules for its use are not known.
-
-- Polygon says Senegal's chatbot Anta, developed by Sénégal Numérique SA, uses AI intent detection and voice recognition to answer users and guide them through administrative procedures on the Service Public portal ([source, 2025-08-25](https://www.polygon.sn/anta-lia-au-service-du-citoyen/)).
 
 ### Seychelles: 3 Established
 

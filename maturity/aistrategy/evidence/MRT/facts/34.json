@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Mauritanian presentation to the ITU lists among the ministry's initiatives the elaboration of an artificial intelligence strategy 2025-2029, with no adoption stated.",
+   "as_of": "2024-11-11",
+   "date_precision": "day",
+   "system": "Stratégie d'intelligence artificielle 2025-2029",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Stratégie d'intelligence artificielle 2025-2029",
+   "country_label": "Mauritanie",
+   "class": "strategy",
+   "platform": "",
+   "owner": "MTNMA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

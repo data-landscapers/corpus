@@ -1,16 +1,17 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "plan",
-   "stage": "3",
-   "standing": "adopted",
-   "delivery": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-broadbandstrategy.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "plan",
+      "stage": "4",
+      "standing": "adopted",
+      "delivery": "funded",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-002;DJI-003;DJI-001",
+      "gaps": "No figures published by the government against the plan's own targets are held, and the plan's period is not stated.",
+      "note": "Stage 4: the strategy launched in October 2024 is tied by the source to the World Bank-financed Djibouti Digital Foundation project. Not stage 5: no government figures against the plan's targets are held.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

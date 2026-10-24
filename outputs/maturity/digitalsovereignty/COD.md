@@ -2,7 +2,7 @@
 
 ## Control of state data
 
-**Rule on state data.** [A government official quoted in the ministry's own report of 24 July 2025 says the telecommunications law requires all public administration data to be hosted in the government data centre in Kinshasa-Gombe](<https://sgptntic.gouv.cd/transition-numerique-le-ministre-augustin-kibassa-maliba-visite-le-data-center-du-gouvernement/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Rule on state data.** [A government official quoted in the ministry's own report of 24 July 2025 says the telecommunications law requires all public administration data to be hosted in the government data centre in Kinshasa-Gombe](<https://sgptntic.gouv.cd/transition-numerique-le-ministre-augustin-kibassa-maliba-visite-le-data-center-du-gouvernement/>). In October 2026 the digital economy minister said the country was preparing to build a [sovereign data centre](<https://augustinkibassa.cd/2026/10/20/cooperation-rdc-russie-s-e-augustin-kibassa-maliba-mobilise-des-partenariats-a-moscou-pour-renforcer-la-souverainete-numerique-de-la-rdc/>) and a technopole in the Kinshasa extension zone.
 
 **Hosted nationally.** [The Ministry of Social Affairs (MINAS) says the Registre Social Unique is a 100% sovereign system with national hosting of its data and full control of infrastructure and source code](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
 

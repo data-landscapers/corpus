@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-dza-algerie54-solidarite-plateforme-suivi-investissements",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry of National Solidarity's communique, reported by Algerie54, refers to implementing Algeria's National AI Strategy, under which the sector plans projects for 2027.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Stratégie nationale de l'intelligence artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

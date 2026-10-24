@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-29-nam-namibia-to-roll-out-faster-internet-speeds-from-october-2026",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Emma Theofelus said on 2026-01-29 that the review of the National Broadband Policy has been finalised and new broadband targets will be implemented from October 2026.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "National Broadband Policy",
+   "class": "plan"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Broadband Policy",
+   "country_label": "Namibia",
+   "class": "plan",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

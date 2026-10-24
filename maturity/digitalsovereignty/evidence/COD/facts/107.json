@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-20-cod-cooperation-rdc-russie-s-e-augustin-kibassa-maliba-mobilise-des-parten",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The DRC is preparing to build a technopole and a sovereign data centre in the Kinshasa extension zone, according to the minister of digital economy's own account of an October 2026 Moscow mission.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "sovereign data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "sovereign data centre",
+   "country_label": "sovereign data centre (Kinshasa extension zone)",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -334,8 +334,9 @@ A technology hub or park was under way in 2026; none running programmes is on re
 
 ### Malawi: 2 Nascent
 
-A technology hub or park was under way in 2024; none running programmes is on record.
+Malawi's ten government tech hubs trained people in digital skills by 2024; a hub running a startup incubation programme is not known.
 
+- The Secretary for Information and Digitalization says 10 tech hubs under the Digital Malawi Project have trained over 19,000 people in digital skills and given some beneficiaries seed funding ([source, 2024-08-09](https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/)).
 - TechCabal refers to mHub as an incubator in Malawi with a former CEO, with no programme or cohort described ([source, 2024-03](https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/)).
 
 ### Morocco: 2 Nascent

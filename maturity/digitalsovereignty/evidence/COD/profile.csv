@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,sovereignty,rule,coverage,inservice,2025-07-24,COD-001,,
+COD,sovereignty,rule,coverage,inservice,2025-07-24,COD-001,COD-003=underway,
 COD,sovereignty,hosted,coverage,national,2026-07-19,COD-002,,
 COD,sovereignty,terms,coverage,,,,,nothing held

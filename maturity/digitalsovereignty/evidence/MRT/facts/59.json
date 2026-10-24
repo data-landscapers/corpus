@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ministry (MTNMA), through WARDIP, launched a tender on 17 September 2024 for a government cloud, and describes the national Tier III data centre as enabling national hosting of government data and applications.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "Cloud Gouvernemental / Datacenter National",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

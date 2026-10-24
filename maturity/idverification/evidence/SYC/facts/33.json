@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-04-syc-directive-on-the-adoption-and-acceptance-of-the-national-digital-ident",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Central Bank of Seychelles' Directive No. 1 of 2025, issued 4 April 2025, directs banks, bureaux de change, payment providers and other reporting entities to commence integrating SeyID into their customer due diligence, while physical ID stays acceptable.",
+   "as_of": "2025-04-04",
+   "date_precision": "day",
+   "system": "SeyID",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SeyID",
+   "country_label": "Seychelles",
+   "class": "relying",
+   "platform": "",
+   "owner": "Department of Information Communications Technology",
+   "tiers": "banks and payment providers"
+  }
+ ],
+ "note": ""
+}

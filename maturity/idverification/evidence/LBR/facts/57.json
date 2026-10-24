@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NIDCRVS",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": "The new national ID concession is awaiting legislative review; no other system checking people against the ID is stated."
+}

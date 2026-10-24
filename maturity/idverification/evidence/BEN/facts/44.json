@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-01-ben-anip-id4africa-2026-gestion-integree-crvs-id",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ANIP Bénin's ID4Africa 2026 presentation says SIM cards, health insurance, administrative services, exams and social benefits require a legal identity under the personal identification number (NPI).",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre national des personnes physiques (RNPP) / NPI",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "ANIP Bénin's presentation lists health, education, social protection, telecoms, banks and tax among the user systems on the RNPP interoperability platform, and says SIM cards, health insurance and social benefits need a legal identity.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre national des personnes physiques (RNPP) / NPI",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "ANIP Bénin's presentation reports 27 million identity verification requests in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Registre national des personnes physiques (RNPP) / NPI",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des personnes physiques (RNPP) / NPI",
+   "country_label": "Benin",
+   "class": "relying",
+   "platform": "API, X-Road",
+   "owner": "Agence Nationale d'Identification des Personnes (ANIP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

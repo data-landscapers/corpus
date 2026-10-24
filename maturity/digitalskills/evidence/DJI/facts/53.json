@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-19-dji-implementation-status-results-report-djibouti-digital-foundations-proj",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The World Bank's June 2025 report on the Djibouti Digital Foundations Project says 226 people (79 women) had been provided with improved digital skills under the project by 31 August 2024, while the coding academy and digital skills in curriculums had not started.",
+   "as_of": "2024-08-31",
+   "date_precision": "day",
+   "system": "Djibouti Digital Foundations Project",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

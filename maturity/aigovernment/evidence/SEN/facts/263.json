@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-sen-rapport-d-achevement-de-la-phase-pilote-de-la-plateforme-appel-achats",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ARCOP's pilot completion report lists an AI assistant specialised in the public procurement code and a chatbot among the support provided to users of the APPEL platform.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Assistant IA specialise CMP / chatbot APPEL",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APPEL chatbot and Assistant IA CMP",
+   "country_label": "Senegal",
+   "class": "govai",
+   "platform": "APPEL",
+   "owner": "ARCOP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

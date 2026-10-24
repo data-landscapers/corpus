@@ -2,7 +2,7 @@
 
 ## Technology hubs
 
-**Hub programmes.** [TechCabal refers to mHub as an incubator in Malawi with a former CEO, with no programme or cohort described](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Hub programmes.** [TechCabal refers to mHub as an incubator in Malawi with a former CEO, with no programme or cohort described](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>). The government's Digital Malawi Project runs [10 tech hubs](<https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/>), which by August 2024 had trained over 19,000 youths, women and elderly people in digital skills and given some of them seed funding to start businesses, its Secretary for Information and Digitalization said. The hubs are run under the World Bank-funded project's first phase.
 
 **Several cities.** No source held since October 2023 says hubs with programmes are in service in two or more cities. The nearest held fact: [the one given above](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>).
 
@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [Ntha Foundation](<https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/>); [Malawi Internet Exchange (MIX)](<http://www.mispa.org.mw/mix.html>).
 
-***Not held***. No source held since October 2023 says: does a hub run programmes for startups.
+***Not held***. No source held since October 2023 shows a hub running an incubation or acceleration programme with a cohort of startups.

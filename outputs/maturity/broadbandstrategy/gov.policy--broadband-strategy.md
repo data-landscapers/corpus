@@ -21,8 +21,8 @@ The Broadband Commission's first target is a funded national broadband plan in e
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 1 |
-| 3 Established | 22 |
+| 4 Operating | 2 |
+| 3 Established | 21 |
 | 2 Nascent | 12 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -38,6 +38,14 @@ Morocco's national broadband plan reached about 99% of its first-phase target by
 - The minister reported that PNHD phase one covered over 10,640 rural zones between 2018 and 2024, about 99 per cent of its target ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
 - The minister said PNHD phase two is carried out with the support of the Universal Telecommunications Service Fund ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
 - Minister Amal El Fallah Seghrouchni told parliament that a second phase of the national broadband plan (PNHD) has been launched to serve 1,800 rural zones by 2026 ([source, 2024-12-23](https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/)).
+
+### Djibouti: 4 Operating
+
+Djibouti launched a national broadband strategy in October 2024 under a World Bank-financed project; government figures against its targets are not known.
+
+- Djibouti launched its national broadband development strategy on 16 October 2024 at a Ministry of Communication workshop, presented by Minister Radwan Abdillahi Bahdon; no end date is given ([source, 2024-10-16](https://www.wearetech.africa/en/fils-uk/news/telecom/djibouti-unveils-plan-to-boost-internet-connectivity-and-affordability)).
+- We are Tech says the strategy is part of the World Bank-supported Djibouti Digital Foundation project, with early results of 250 km of fibre in the north and over 100 administrative buildings connected ([source, 2024-10-16](https://www.wearetech.africa/en/fils-uk/news/telecom/djibouti-unveils-plan-to-boost-internet-connectivity-and-affordability)).
+- La Nation's editorial says the Stratégie Nationale du Haut-Débit (SNHD), aligned with Vision Djibouti 2035, was recently unveiled, with two scenarios to connect ten or seven cities by 2027; it gives no plan period, and the date is the document's published date ([source, 2024-10-17](https://www.lanation.dj/editorial-linclusion-numerique-comme-nouvel-horizon-par-ibrahim-miyir-ali/)).
 
 ### Kenya: 4 Operating
 
@@ -106,12 +114,6 @@ Chad adopted Tchad Connexion 2030 in 2025, with an 80 percent coverage target, b
 - Chad is implementing the Tchad Connexion 2030 strategy, whose period runs to 2030, with targets of at least 80 percent national internet coverage and about 80 percent mobile penetration and around US$1.5bn of ICT investment; the date is the document's published date, 2026-03-16 ([source, 2026-03-16](https://www.biometricupdate.com/202603/chad-uses-national-biometric-registry-to-boost-govt-systems-interoperability)).
 - The government has presented the national strategy Tchad Connexion 2030, with US$1.5bn of planned digital investment and a six-year horizon to 2031 at most, to extend digital coverage to most of the population; the document gives no presentation date, so its published date, 2025-12-10, is used ([source, 2025-12-10](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards)).
 
-### Djibouti: 3 Established
-
-Djibouti unveiled a national broadband strategy in October 2024 with city-connection targets for 2027; funding and delivery are not known.
-
-- La Nation's editorial says the Stratégie Nationale du Haut-Débit (SNHD), aligned with Vision Djibouti 2035, was recently unveiled, with two scenarios to connect ten or seven cities by 2027; it gives no plan period, and the date is the document's published date ([source, 2024-10-17](https://www.lanation.dj/editorial-linclusion-numerique-comme-nouvel-horizon-par-ibrahim-miyir-ali/)).
-
 ### Egypt: 3 Established
 
 A national broadband plan was launched in 2011; whether it is still running, funded or reported on is not known.
@@ -164,7 +166,7 @@ South Sudan launched a National Broadband Roadmap, reported in 2025; no money or
 
 ### Tanzania: 3 Established
 
-Tanzania has a national high-speed internet strategy whose steering committee first met in June 2026, but its period, funding and results are not known.
+Tanzania has a National Broadband Strategy for 2021-2026, with a steering committee first meeting in June 2026; its funding and results are not known.
 
 - The Ministry of Communication and Information Technology reported that the Steering Committee overseeing the National High-Speed Internet Communication Strategy (Mkakati wa Taifa wa Mawasiliano ya Intaneti ya Kasi) held its first meeting on 25 June 2026 in Dodoma, chaired by the Ministry's Permanent Secretary; the document gives no plan period ([source, 2026-06-25](https://www.mawasiliano.go.tz/news/kamati-ya-uongozi-ya-usimamizi-wa-mkakati-wa-taifa-wa-mawasiliano-ya-intaneti-ya-kasi-yafanya-kikao-cha-kwanza-dodoma)).
 
@@ -182,7 +184,7 @@ Uganda has the National Broadband Policy 2018, reviewed in January 2026; money t
 
 ### Zimbabwe: 3 Established
 
-Zimbabwe has a National Broadband Plan, reported by its ICT minister in 2023; whether money has been committed or results published is not known.
+Zimbabwe launched a National Broadband Plan covering 2020 to 2030 in March 2024; whether money has been committed or results published is not known.
 
 - The ICT minister, Dr Tatenda Mavetera, said Potraz had been in sync with Government in implementing the National Broadband Plan, which Government 'came up with' to provide broadband access at government, business, household and individual levels; the document gives no adoption date or plan period, so as_of is the article's published date ([source, 2023-10-12](https://www.heraldonline.co.zw/govt-develops-new-ict-policy/)).
 
@@ -249,9 +251,11 @@ Mozambique launched an Internet for All plan to 2030 in 2024 or 2025; whether it
 
 ### Nigeria: 2 Nascent
 
-Nigeria's National Broadband Plan 2020-2025 has ended, with 51.97 percent penetration in December 2025 against a 70 percent target; any successor is not known.
+Nigeria's National Broadband Plan 2020-2025 expired in December 2025 short of its 70 percent target; a successor is being drawn up, not yet adopted.
 
-- BusinessDay NG (2026-09-21) says Nigeria's five-year broadband strategy, the National Broadband Plan 2020-2025, has ended, and describes the next phase of broadband policy as still to come, without naming a successor plan ([source, 2025](https://businessday.ng/pro/article/nigeria-expanded-broadband-but-missed-its-70-penetration-target/)).
+- Nairametrics reports Nigeria's National Broadband Plan 2020-2025 expired in December 2025, four months before the article, though an NCC commissioner said the plan 'has not ended' ([source, 2025-12](https://nairametrics.com/2026/04/30/telecom-operators-push-for-new-policy-as-nnbp-2020-2025-fails-expectations/)).
+- The Guardian reports that the second National Broadband Plan (2020-2025), with a 70 per cent broadband reach target, expires in two days, and NCC head Aminu Maida says engagement with the ministry on a third plan has begun ([source, 2025-12-31](https://guardian.ng/technology/broadband-nigeria-misses-2020-2025-target-mulls-new-2025-2030-plan/)).
+- NCC Executive Commissioner Abraham Oshadami said the regulator is reviewing the old plan's performance and is coming up with a new plan to succeed it ([source, 2026-04-30](https://nairametrics.com/2026/04/30/telecom-operators-push-for-new-policy-as-nnbp-2020-2025-fails-expectations/)).
 
 ### Senegal: 2 Nascent
 

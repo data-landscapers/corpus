@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-20-mwi-making-national-id-work-beyond-voter-registration",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Nation Online quotes the National Registration Bureau's principal secretary saying banks can connect to the Bureau to verify an individual's details and that many banks are already integrated with it.",
+   "as_of": "2024-07-20",
+   "date_precision": "day",
+   "system": "National Registration Bureau verification service",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Registration Bureau verification service",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": "banks"
+  }
+ ],
+ "note": ""
+}

@@ -25,8 +25,8 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 | 3 Established | 11 |
 | 2 Nascent | 24 |
 | 1 Absent | 3 |
-| Unplaced | 1 |
-| No evidence | 7 |
+| Unplaced | 2 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -329,6 +329,14 @@ Sao Tome and Principe had no national AI strategy in 2026, by UNESCO's readiness
 - UNESCO's country profile, drawn from the completed Readiness Assessment, states São Tomé and Príncipe currently has no national AI strategy; no date is given for the statement, so the document's published date of 2026-01-22 is used ([source, 2026-01-22](https://www.unesco.org/ethics-ai/en/saotomeeprincipe)).
 - The minister of education's preface to UNESCO's readiness report states the country has no national AI strategy; the report gives no month, so its published year of 2025 is used ([source, 2025](https://unesdoc.unesco.org/ark:/48223/pf0000394953)).
 
+### Mali: Unplaced
+
+An expert said in 2026 that Mali had no published AI strategy; whether one is being written is not known, so no stage is set.
+
+- Tidiani Togola says that to his knowledge Mali has no published national AI strategy, unlike about fifteen African countries, and that one should be drawn up ([source, 2026-10-23](https://amap.ml/2026/10/23/intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-defis-de-la-gouvernance-et-de-la-desinformation/)).
+
+Not established: An expert said in October 2026 that to his knowledge Mali had no published national AI strategy; whether one is being written is not known, so the absence stage 1 asks for is not established.
+
 ### South Sudan: Unplaced
 
 A 2026 profile says South Sudan has no clear standalone AI strategy; whether one is being written is not known, so no stage is set.
@@ -356,12 +364,6 @@ Not established: Nothing held names a national AI strategy, or says there is non
 ### Madagascar: No evidence
 
 Nothing held says Madagascar has a national AI strategy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a national AI strategy, or says there is none.
-
-### Mali: No evidence
-
-Nothing held says Mali has a national AI strategy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a national AI strategy, or says there is none.
 

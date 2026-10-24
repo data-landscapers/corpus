@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-15-ago-sessao-tematica-aborda-programa-de-desenvolvimento-e-expansao-das-tele",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Secretary of State for Telecommunications and Information Technologies said the Government Cloud programme gives priority to migrating public administration services to a unified government data cloud, as reported by INACOM on 15 April 2025.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "Cloud Governamental",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

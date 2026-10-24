@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-20-egy-ict-minister-outlines-digital-egypt-strategy-at-egypt-forum-2026",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "ICT Minister Raafat Hendy said 24 innovation hubs have been established across different governorates to incubate startups and train young people.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "innovation hubs",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "The 24 innovation hubs are spread across different governorates, per Minister Raafat Hendy.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "innovation hubs",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2026-09-02-tza-nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Government spokesman Gerson Msigwa said that by August 2026 institutions were linked to NIDA's registration and identification system and could verify the identity of the people they serve.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NIDA registration and identification system",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Msigwa said use of the national ID number has spread across sectors including taxpayer registration, financial services, health insurance, higher-education loans, TASAF social services and business registration.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "NIDA registration and identification system",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Msigwa said 157 institutions, 72 government and 85 private, were linked to the NIDA system by August 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NIDA registration and identification system",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
