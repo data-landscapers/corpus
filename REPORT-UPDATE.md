@@ -69,11 +69,11 @@ last_reviewed: 2026-10-03
 **Verification**, re-run **after** the edit pass:
 
 ```bash
-python scripts/status-check.py --unit {ISO3}      # STATUS-INIT.md → Verification, A to J
+python scripts/status-check.py --unit {ISO3}      # STATUS-INIT.md → Verification, A to K
 python scripts/report-render.py --unit {ISO3} --check
 ```
 
-**A revision that cannot pass does not stand.** Commit the unit's other work before the baseline edit pass, so the last good baseline is at `HEAD`. A failing A, B or G is repaired first; if it still fails, revert the file, re-run `status-check.py`, and write the message saying which source prompted the edit and why it could not pass. C to F, H and I are repaired in place and never trigger a revert; nor does J, an over-cap sub-section, which `UNIT-REVIEW.md` step 3 trims.
+**A revision that cannot pass does not stand.** Commit the unit's other work before the baseline edit pass, so the last good baseline is at `HEAD`. A failing A, B or G is repaired first; if it still fails, revert the file, re-run `status-check.py`, and write the message saying which source prompted the edit and why it could not pass. C to F, H and I are repaired in place and never trigger a revert; nor does J, an over-cap sub-section, which `UNIT-REVIEW.md` step 3 trims, or K, a derived non-state total the table has moved past, which is recomputed from the table.
 
 **Every piece of evidence has a source.** A position that cannot be sourced is ***Not held*** with a `gaps.csv` line, never a bare status standing on nothing (`report-layer.md` §6).
 

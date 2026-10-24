@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify a status baseline — `STATUS-INIT.md` -> *Verification*, checks A to J.
+"""Verify a status baseline — `STATUS-INIT.md` -> *Verification*, checks A to K.
 
     python scripts/status-check.py --unit RWA
     python scripts/status-check.py --unit all
@@ -25,6 +25,18 @@ prose a reader sees**: HTML comments dropped and each link reduced to its text, 
 counted, and a free-standing dash is. ZAF's `tech.ai`, put at 343 by a careful hand count on
 2026-10-23, reads 343.
 
+**K — derived non-state totals agree with the table — reports and never fails** (housekeeping 34,
+2026-10-24). A `<!-- derived -->` paragraph that counts the unit's non-state commitments or totals
+their US$ is the report's own arithmetic over `{U}-nonstate.csv`, and the next deal added makes it
+wrong with nothing changing in the report. K reads the forms that name the whole record — *N
+commitments are on record … worth about US$X*, *of the N commitments*, *a recorded total of US$X
+across N commitments*, *of the US$X on record*, *They come to US$X* after a count — and compares
+them with the table's rows, rows with an amount, and `commitment_usd_m` summed. A count matches
+either row figure; a hedged one ("around twenty") is allowed 15 per cent. An amount is allowed half
+its last stated place, or 5 per cent hedged and 2 per cent bare, never more than 15. It does not
+read a subset, a figure in another currency, a sentence naming regional operations it does not set
+aside, or anything outside a derived paragraph. Fixed by recomputing the sentence from the table.
+
 The acquire rule is Bill's, 2026-08-15, and it turns on *held*, not on which intermediary carried
 the source. A cited URL the catalogue does not hold, dated 2024 or later, is a gap in the daily
 sweep and owes a line in the transfer folder's `africa-acquire.csv`. Dated before 2024 it owes nothing — that is baseline
@@ -32,6 +44,7 @@ material, outside the collection perimeter, and OSINT was never going to hold it
 """
 
 import argparse
+import csv
 import datetime
 import os
 import re
@@ -63,6 +76,154 @@ def prose_words(prose):
     """Words as a reader counts them — comments dropped, every link reduced to its text."""
     prose = re.sub(r"<!--.*?-->", "", prose, flags=re.S)
     return len(LINK_TEXT.sub(r"\1", prose).split())
+
+
+# Check K. A derived paragraph's unit-level count of non-state commitments, and the US$ total it
+# gives them, against `outputs/non-state-finance/{U}-nonstate.csv` — the table, which already
+# applies the 2015 floor and the scope halving (`documentation/nonstate-scope.md`), so a row there
+# is a deal and `commitment_usd_m` is what it counts for. Only the forms that name the whole
+# record are read; a subset ("four commitments from China Eximbank") is never parsed, because a
+# false alarm on a correct paragraph costs a reader more than a miss costs the check.
+NONSTATE = os.path.join(S.REPO, "outputs", "non-state-finance")
+_UNITS = ("one two three four five six seven eight nine ten eleven twelve thirteen fourteen "
+          "fifteen sixteen seventeen eighteen nineteen").split()
+_TENS = "twenty thirty forty fifty sixty seventy eighty ninety".split()
+NUM_WORDS = {w: i + 1 for i, w in enumerate(_UNITS)}
+for _i, _t in enumerate(_TENS):
+    NUM_WORDS[_t] = 20 + 10 * _i
+    for _j, _u in enumerate(_UNITS[:9]):
+        NUM_WORDS[f"{_t}-{_u}"] = 20 + 10 * _i + _j + 1
+NUM = (r"(?:\d{1,4}|(?:" + "|".join(_TENS) + r")(?:-(?:" + "|".join(_UNITS[:9]) + r"))?|"
+       + "|".join(sorted(_UNITS, key=len, reverse=True)) + r")")
+HEDGE = (r"(?:about|around|roughly|some|approximately|nearly|almost|close\s+to|just\s+over|"
+         r"just\s+under|over|more\s+than)")
+# The only words allowed between the number and the noun: each names the whole record. One that
+# narrows it — Chinese-financed, multilateral, regional, active — stops the match.
+ADJ = (r"(?:distinct|external|digital|digital-sector|sector|financing|finance|country-level|"
+       r"costed|non-state|recorded)")
+NOUN = r"(?:commitments(?:\s+and\s+pledges)?|deals)"
+AMT = r"(?:US\$|USD\s?|\$)\s?(?P<v>\d[\d,]*(?:\.\d+)?)\s*(?P<u>bn|billion|m|million)\b"
+_H = rf"(?P<h>{HEDGE}\s+)?"
+COUNT_SUBJECT = [   # the record as a sentence's subject: an amount `worth …` after it is its total
+    re.compile(rf"(?<![\w-]){_H}(?P<n>{NUM})\s+(?:{ADJ}\s+){{0,4}}{NOUN}\b(?P<tail>[^.;:]{{0,90}}?)"
+               r"\b(?:(?:are|is|were)\s+(?:on\s+(?:the\s+)?record|recorded|held|captured)|"
+               r"in\s+all|make\s+up\s+th(?:at|e)\s+record|carry\s+the\s+whole|touch|reach)\b", re.I),
+    re.compile(rf"\b(?:there\s+(?:are|were)|has\s+drawn)\s+{_H}(?P<n>{NUM})\s+(?:{ADJ}\s+){{0,4}}"
+               rf"{NOUN}\b(?P<tail>)", re.I),
+]
+# "four of the ten commitments on record": the ten is the record — unless a qualifier follows the
+# noun ("of the 17 commitments beginning in 2025"), which makes it a subset.
+COUNT_OF_THE = re.compile(rf"\b(?:of|across)\s+the\s+(?P<n>{NUM})\s+(?:{ADJ}\s+){{0,4}}{NOUN}"
+                          r"(?=\s*(?:[,.;:()]|$|on\s+(?:the\s+)?record|recorded|on\s+[\w'’]+\s+record"
+                          r"|to\s|touching\s|naming\s|for\s+[A-Z]|are\s|were\s))", re.I)
+COUNT_ACROSS = [    # an amount and the count it spans, stated as the whole
+    re.compile(rf"\btotal\s+of\s+(?P<ah>{HEDGE}\s+)?{AMT}\s+across\s+(?P<n>{NUM})\s+"
+               rf"(?:{ADJ}\s+){{0,4}}{NOUN}", re.I),
+    re.compile(rf"(?P<ah>{HEDGE}\s+)?{AMT}\s+of\s+(?:[\w-]+\s+){{0,5}}?commitments?\s+"
+               rf"(?:to\s+[\w'’ -]+?\s+)?across\s+(?P<n>{NUM})\s+(?:{ADJ}\s+){{0,4}}{NOUN}", re.I),
+]
+AMT_AFTER_COUNT = re.compile(rf"\b(?:worth|value\s+of|come\s+to|comes\s+to|together|"
+                             rf"at\s+a\s+combined)\s+(?P<ah>{HEDGE}\s+)?{AMT}", re.I)
+AMT_WHOLE = [       # the total named as such, with or without a count beside it
+    re.compile(rf"\b(?:recorded|whole)\s+total\s+of\s+(?P<ah>{HEDGE}\s+)?{AMT}", re.I),
+    re.compile(rf"\bof\s+the\s+(?P<ah>{HEDGE}\s+)?{AMT}\s+on\s+(?:the\s+)?record\b", re.I),
+]
+AMT_PRONOUN = re.compile(rf"^(?:They|Together\s+they|Those\s+with\s+a\s+(?:recorded|stated)\s+"
+                         rf"(?:value|amount))\s+come\s+to\s+(?P<ah>{HEDGE}\s+)?{AMT}")
+REGIONAL_IN = re.compile(r"\bregional\b", re.I)
+REGIONAL_OUT = re.compile(r"\b(outside|separately|not\s+in|excluded|aside|not\s+among)\b", re.I)
+
+
+def number(word):
+    w = word.lower()
+    return int(w) if w.isdigit() else NUM_WORDS.get(w)
+
+
+def usd_m(v, u):
+    """A prose amount in US$m, and the rounding its own precision allows (half its last place)."""
+    digits = v.replace(",", "")
+    scale = 1000 if u.lower() in ("bn", "billion") else 1
+    if "." in digits:
+        place = 10 ** -len(digits.split(".")[1])
+    else:
+        place = 10 ** (len(digits) - len(digits.rstrip("0")))
+    return float(digits) * scale, place * scale / 2
+
+
+def nonstate_table(unit):
+    """`(deals, deals with an amount, US$m total)` for the unit, or None with no table."""
+    path = os.path.join(NONSTATE, f"{unit}-nonstate.csv")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8-sig", newline="") as f:
+        rows = list(csv.DictReader(f))
+    amounts = [float(r["commitment_usd_m"]) for r in rows if (r.get("commitment_usd_m") or "").strip()]
+    return len(rows), len(amounts), sum(amounts)
+
+
+def stated_totals(sentence, prev_counted=False):
+    """`(count, count_hedged, amount_usd_m, amount_tolerance)` the sentence states of the whole
+    non-state record, any of them None where it states none. Unit-level only: a sentence naming
+    regional operations without setting them aside is skipped, as is every subset form."""
+    s = re.sub(r"\s+", " ", re.sub(r"\]\((?:https?://[^)\s]+)\)", "]", sentence))
+    s = re.sub(r"\[([^\]]*)\]", r"\1", s)
+    if REGIONAL_IN.search(s) and not REGIONAL_OUT.search(s):
+        return None, False, None, None
+    count = hedged = amount = tol = None
+    amt_m = None
+    for rx in COUNT_ACROSS:
+        m = rx.search(s)
+        if m:
+            count, hedged, amt_m = number(m["n"]), False, m
+            break
+    subject = None
+    if count is None:
+        for rx in COUNT_SUBJECT:
+            m = rx.search(s)
+            if m and not re.search(rf"\b(?:from|by)\s+(?!{NUM}\b)", m["tail"], re.I):
+                subject, count, hedged = m, number(m["n"]), bool(m["h"])
+                break
+    if count is None:
+        m = COUNT_OF_THE.search(s)
+        if m:
+            count, hedged = number(m["n"]), False
+    if amt_m is None and subject is not None:
+        amt_m = AMT_AFTER_COUNT.search(s, subject.end())
+    if amt_m is None and prev_counted:
+        amt_m = AMT_PRONOUN.search(s)
+    if amt_m is None:
+        amt_m = next((m for m in (rx.search(s) for rx in AMT_WHOLE) if m), None)
+    if amt_m is not None:
+        amount, half = usd_m(amt_m["v"], amt_m["u"])
+        rel = 0.05 if amt_m["ah"] else 0.02
+        tol = min(max(half, rel * amount), 0.15 * amount)
+    return count, bool(hedged), amount, tol
+
+
+def totals_drift(text, table):
+    """Every derived sentence whose stated count or US$ total of the non-state record disagrees
+    with the table `(deals, deals with an amount, total)`, as one line apiece."""
+    n_all, n_amt, total = table
+    out = []
+    for slug, label, prose in S.sections(text):
+        for p in S.paragraphs(prose):
+            if not p.startswith(DERIVED):
+                continue
+            prev = False
+            for sent in S.sentences(p[len(DERIVED):].strip()):
+                count, hedged, amount, tol = stated_totals(sent, prev)
+                prev = count is not None and amount is None   # "They come to …" is its total
+                bad = []
+                if count is not None:
+                    slack = max(1, round(0.15 * count)) if hedged else 0
+                    if min(abs(count - n_all), abs(count - n_amt)) > slack:
+                        bad.append(f"{count} deals, table {n_all}"
+                                   + (f" ({n_amt} with an amount)" if n_amt != n_all else ""))
+                if amount is not None and abs(amount - total) > tol:
+                    bad.append(f"US${amount:,.0f}m, table US${total:,.1f}m")
+                if bad:
+                    out.append(f"{slug or label}: states {'; '.join(bad)} — {sent[:150]}…")
+    return out
 
 
 LEAKS = [(re.compile(r"\[\["), "[[wikilink]]"),
@@ -297,6 +458,14 @@ def check_unit(unit, show_openings=False):
     long = [(slug or label, prose_words(p)) for slug, label, p in secs]
     r.check("J", f"every sub-section within {CAP} words",
             [f"{name}: {n} words" for name, n in long if n > CAP], gate=False, cap=50)
+
+    # --- K — derived non-state totals agree with the table --------------------------------
+    table = nonstate_table(unit)
+    if table is None:
+        r.note(f"check K — derived non-state totals agree with the table: SKIP (no {unit}-nonstate.csv)")
+    else:
+        r.check("K", "derived non-state totals agree with the table", totals_drift(text, table),
+                gate=False)
 
     # --- the two-line report, and the frontmatter it has to agree with -----------------------
     # A document whose frontmatter says 40 sources when it carries 35 is stating something false
