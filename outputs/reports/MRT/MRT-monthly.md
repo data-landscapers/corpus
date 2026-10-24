@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: MRT
-ledger_rows: 25
+ledger_rows: 26
 not_held: 3
-record: 9bd3743f6414
+record: b316d30ea986
 ---
 
 # News, Sep – Oct 2026
@@ -321,6 +321,20 @@ The Central Bank of Mauritania's newsletter for August 2026 reports a week of sa
 **[Appel aux proprietaires fonciers ruraux de Nouakchott pour inscrire leurs dossiers](https://ami.mr/fr/archives/301729)** — Agence Mauritanienne d'Information (AMI), 2 September 2026
 
 Mauritania's technical committee on rural land and developer plots in Nouakchott called on holders of rural land concessions inside the capital's urban zone to register on the Leegoud platform by 18 September 2026. Help desks are to open in Nouakchott's three moughataas. The exercise follows a declaration to the Council of Ministers on 28 April 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beneficial ownership register at the commercial court registries</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Propriété effective : règles et procédures de collecte, de vérification et d'utilisation des informations](http://www.fiti-mauritanie.mr/wp-content/uploads/2026/09/GMN-Mauritanie_-Resume-sur-la-propriete-effective_VF.pdf)** — Groupe multipartite national (GMN) de la Mauritanie, FiTI, 23 September 2026
+
+EITI multi-stakeholder group: BO register at commerce-court registry not public; none for fishing vessels or plants.
 
 </div>
 

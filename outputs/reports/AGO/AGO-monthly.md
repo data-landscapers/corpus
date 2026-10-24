@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Sep – Oct 2026
-compiled: 2026-10-18
-period: 2026-09-01 to 2026-10-18
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: AGO
-ledger_rows: 46
-not_held: 6
-record: 2ebfc12c7e06
+ledger_rows: 49
+not_held: 5
+record: 950d59962e4f
 ---
 
 # News, Sep – Oct 2026
@@ -566,6 +566,28 @@ Africa has 36 active instant payment systems in 31 countries, which processed mo
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Beneficial ownership register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Legal Regime of the Beneficial Owner](https://www.primeadvogados.co.ao/en/publications/newsletters-and-flashes/legal-regime-of-the-beneficial-owner/537/)** — Prime Advogados, 1 September 2026
+
+Electronic CRBE filing, interoperable with commercial registries; fines to Kz 50m; existing entities by 15 Feb 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo cria equipa para implementar Central de Registo do Beneficiário Efectivo](https://www.giranoticias.com/economia/2026/10/32053-governo-cria-equipa-para-implementar-central-de-registo-do-beneficiario-efectivo.html)** — Gira Notícias, 17 October 2026
+
+Ten-agency technical group, 180 days, to build the CRBE platform; Justice coordinates, UIF deputy; World Bank, EU.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Electoral register proof-of-life operation</p>
 
 <div class="bulletin-item" markdown="1">
@@ -795,8 +817,26 @@ The founders of an Angolan payments startup accuse a commercial bank of using in
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National digital-literacy programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[João Lourenço autoriza despesa de 20 milhões USD para capacitação digital em Angola](https://poligrafoafrica.com/fact-check/joao-lourenco-autoriza-despesa-de-20-milhoes-usd-para-capacitacao-digital-em-angola/)** — Polígrafo África, 22 October 2026
+
+Three-level digital skills for civil servants and young workers, plus data-protection awareness; public tender via IMA.
+
+</div>
+
+</div>
 
 ### Training and skills
 
@@ -871,6 +911,28 @@ Angola has issued 17,166,000 national identity cards at home and abroad, the nat
 **[Sistema de Internet em Madimba e Serra da Kanda volta a funcionar](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/)** — Angop (Angola Press Agency), 6 September 2026
 
 Two Conecta Angola satellite internet points at Madimba and Serra da Kanda in Zaire province, installed in 2024 and linked through Angosat-2, were restored after battery and software faults, Angola's national space programme office said. About 1,400 residents use them free of charge, and further points and school routers are planned in the province.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Programa Conectividade broadband subsidy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo disponibiliza 50 milhões de dólares e abre concurso para execução do Programa Conectividade](https://pti.ao/executivo-disponibiliza-50-milhoes-de-dolares-e-abre-concurso-para-execucao-do-programa-conectividade/)** — Portal de T.I., 22 October 2026
+
+Despacho 394/26 of 20 Oct 2026 under World Bank-financed PADA; public tender, assets state-owned, schools first.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PR autoriza 50 milhões USD para levar banda larga a zonas sem cobertura, mas OGE prevê 67 milhões](https://poligrafoafrica.com/fact-check/pr-autoriza-50-milhoes-usd-para-levar-banda-larga-a-zonas-sem-cobertura-mas-oge-preve-67-milhoes/)** — Polígrafo África, 23 October 2026
+
+A presidential despacho signed on 14 October 2026 authorises USD 50 million to extend broadband to unserved areas of Angola, schools and care homes first, through a public tender run under the director-general of the Instituto de Modernização Administrativa. Polígrafo África sets this against a 2026 state budget line of Kz 62.7 billion, about USD 67 million, for the national broadband network.
 
 </div>
 

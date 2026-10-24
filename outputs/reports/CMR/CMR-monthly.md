@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: CMR
-ledger_rows: 38
+ledger_rows: 39
 not_held: 4
-record: 8d3795f3f8d4
+record: 81dacc6498e6
 ---
 
 # News, Sep – Oct 2026
@@ -113,6 +113,36 @@ Cameroon's telecommunications regulator gave operators until 30 September 2026 t
 **[Atelier régional d'engagement des parties prenantes pour l'élaboration d'un cadre régional de la CEEAC en matière de gouvernance transfrontalière des données](https://7joursinfo.com/actualites/atelier-regional-dengagement-des-parties-prenantes-pour-lelaboration-dun-cadre-regional-de-la-ceeac-en-matiere-de-gouvernance-transfrontaliere-des-donnees/)** — 7 jours info, 3 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 Experts from the Economic Community of Central African States (ECCAS) met in Douala, Cameroon, from 31 August to 4 September 2026 to review member states' readiness and agree the pillars of a regional framework on cross-border data governance. GIZ, AUDA-NEPAD, the UN Economic Commission for Africa and the African Union Commission supported the workshop technically and financially.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yaounde Declaration on e-Governance and Artificial Intelligence in Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Déclaration de Yaoundé sur l'e-Gouvernance et l'Intelligence Artificielle en Afrique](https://e-gov.africa/wp-content/uploads/2026/10/Declaration-de-Yaounde-EGOVA-2026-OK.pdf)** — E-Gov'A (Smart Click Africa and Digital Business Africa), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Conference declaration: Local First, African First; aim of 100% local hosting of critical public data by 2030.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon summit calls for interoperable DPI and sovereign infrastructure in Africa](https://www.biometricupdate.com/202610/cameroon-summit-calls-for-interoperable-dpi-and-sovereign-infrastructure-in-africa)** — Biometric Update, 23 October 2026
+
+A second account of the Yaoundé Declaration, adding its call for interoperable digital identity, payments and data-exchange systems built on open standards, and for a once-only principle under which citizens are not asked again for information an administration already holds.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Yaoundé Declaration Targets 100% Local Hosting of Critical Government Data by 2030](https://www.businessincameroon.com/public-management/2310-17029-yaounde-declaration-targets-100-local-hosting-of-critical-government-data-by-2030)** — Business in Cameroon, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The Yaoundé Declaration on E-Governance and Artificial Intelligence in Africa, adopted when the E-Gov'A conference closed on 17 October 2026, asks African governments to host all classified critical or sovereign public data inside their own borders by 2030, and where domestic capacity is lacking to prefer another African country over providers off the continent. The organisers, Smart Click Africa and Digital Business Africa, are to run an African Observatory for E-Government and AI; the hosting target is a recommendation and binds no government.
 
 </div>
 

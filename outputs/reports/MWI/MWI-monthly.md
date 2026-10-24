@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: MWI
-ledger_rows: 46
+ledger_rows: 49
 not_held: 31
-record: 2247e09167b2
+record: ff4c30fa59ee
 ---
 
 # News, Sep – Oct 2026
@@ -25,6 +25,8 @@ record: 2247e09167b2
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
@@ -35,12 +37,30 @@ record: 2247e09167b2
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Malawi Information Technology Authority Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
+
+32.3% disbursed, US$28.3m in 62 contracts; 100 rural towers to bid by Sept 2026; Phase 2 funds not before July 2027.
+
+</div>
+
+</div>
 
 ### Data protection
 
@@ -144,6 +164,14 @@ The World Bank-financed programme carries US$150 million across digital connecti
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -155,6 +183,14 @@ The World Bank-financed programme carries US$150 million across digital connecti
 **[World Bank turns heat on Malawi's digital transformation project](https://www.nyasatimes.com/world-bank-turns-heat-on-malawis-digital-transformation-project/)** — Nyasa Times, 3 September 2026
 
 A World Bank mission reviewed the Digital Malawi Acceleration Project with the communications regulator MACRA. The project manager said a plan for 100 mobile towers in underserved areas has reached procurement preparation, and a consultancy is building the Data Protection Authority's framework and five-year cost model. The mission stressed the quality of MACRA statistics. No funding amounts are stated.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
@@ -266,6 +302,42 @@ The Malawi Communications Regulatory Authority opened an investigation, by notic
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Boma Lathu National Data Exchange Platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Data Centre, Lilongwe</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Converged Technology Networks AI-enabled edge data centre, Lilongwe</p>
 
 <div class="bulletin-item" markdown="1">
@@ -287,20 +359,6 @@ Converged Technology Networks' chief executive, Brian Munyao Longwe, wrote on 9 
 **[TNM expands Malawi data infrastructure](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8)** — ITWeb Africa, 11 September 2026
 
 Telekom Networks Malawi bought OpenConnect Limited's Tier 3 data centre at Kanengo, Lilongwe, for K12 billion, about US$6.9 million, unveiling it on 11 September 2026. TNM will link it with its Limbe data centre into one cloud platform to offer data centre as a service and host local AI platforms.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">National Data Centre, Lilongwe</p>
-
-<div class="bulletin-item bulletin-item--xref" markdown="1">
-
-**[IDEA Half-Year Implementation Progress Report: January-June 2026 and Outlook for July-December 2026](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf)** — COMESA Secretariat (IDEA project), 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SWZ/SWZ-monthly.html" title="SWZ">Eswatini</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
-
-Summarised under [Connectivity](#connectivity).
 
 </div>
 
@@ -859,6 +917,28 @@ Malawi scored 1.14 out of 4 on the Africa AI Governance Index 2026, in the Emerg
 **[Payment hurdles ease for businesses](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)** — Malawi24, 17 October 2026
 
 The Reserve Bank of Malawi issued fintech PayChangu payment service provider licence PSP-003/26 on 30 September 2026 under the Payment Systems Act 2016. It allows the firm to aggregate mobile money, card and bank-transfer payments on one platform.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Protection Authority operationalisation consultancy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 

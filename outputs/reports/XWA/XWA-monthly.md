@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: XWA
 ledger_rows: 33
 not_held: 1
-record: e39b63ddb530
+record: 7b62a2da641f
 ---
 
 # News, Sep – Oct 2026
@@ -139,6 +139,14 @@ Ten member states held the founding interministerial meeting of the West African
 **[AUDIENCE DU PRÉSIDENT DU FASO Les Directeurs généraux des Douanes de la Confédération AES et du Togo rendent compte de leurs travaux au Chef de l’État(Présidence du Faso)](https://afrikactu.net/index.php/burkina-faso/economie/douanes-aes-togo-presidence/)** — Afrikactu (Presidence du Faso), 18 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
 Customs chiefs of the Sahel states confederation (Burkina Faso, Mali, Niger) and Togo's revenue office met in Ouagadougou on 15 October 2026 to review progress on interconnecting their customs IT systems and validated a draft decision on certifying confederal origin. They reported to Captain Ibrahim Traoré the next day while finishing the text to create a customs union.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+Company lists due 1 Jan 2027, data-flow technical unit by 31 Jan; 9 of 18 Bamako 2025 recommendations implemented.
 
 </div>
 

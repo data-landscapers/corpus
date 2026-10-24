@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: UGA
-ledger_rows: 72
+ledger_rows: 73
 not_held: 11
-record: 9ec9dde04b9b
+record: cafeead6b8f2
 ---
 
 # News, Sep – Oct 2026
@@ -14,6 +14,8 @@ record: 9ec9dde04b9b
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -309,6 +311,28 @@ The South Sudan Revenue Authority and the Uganda Revenue Authority signed their 
 **[URA engages manufacturers on new tax reforms, digital systems and import fee changes](https://mulengeranews.com/ura-engages-manufacturers-on-new-tax-reforms-digital-systems-and-import-fee-changes/)** — Mulengera News, 11 September 2026
 
 The Uganda Revenue Authority told manufacturers on 11 September 2026 that its eTax2 platform, in development since February 2026, will be web-only and will replace Tax Identification Numbers with National Identification Numbers and Business Registration Numbers. URA said the change is meant to fix duplicate and fragmented records in the taxpayer register.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+</nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uganda-Denmark statistical cooperation memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda, Denmark sign deal to strengthen national statistical production](https://www.independent.co.ug/uganda-denmark-sign-deal-to-strengthen-national-statistical-production/)** — The Independent (Uganda), 22 October 2026
+
+Framework MoU signed at Uganda-EU Business Forum; Danish MFA-funded, amount unstated; priorities reviewed each 3-5 years.
 
 </div>
 

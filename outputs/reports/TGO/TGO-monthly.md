@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: TGO
-ledger_rows: 59
+ledger_rows: 61
 not_held: 17
-record: 55180c94269a
+record: 4caf63ef50e5
 ---
 
 # News, Sep – Oct 2026
@@ -638,6 +638,20 @@ Togo handed its SIHAM agricultural information system and five regional kiosks t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs data interconnection with the Confederation of Sahel States</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Company lists due 1 Jan 2027, data-flow technical unit by 31 Jan; 9 of 18 Bamako 2025 recommendations implemented.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -687,6 +701,14 @@ Togo's national public services portal added building-permit applications and th
 **[Diplomatie : le Togo dématérialise 16 démarches administratives et consulaires](https://actu-togo.tg/2026/10/01/diplomatie-le-togo-dematerialise-16-demarches-administratives-et-consulaires/)** — Actu Togo, 1 October 2026
 
 Togo's foreign ministry put 10 administrative procedures and six consular services online from 1 October 2026, through the national digital procedures portal and a consular portal that holds a register of Togolese abroad. Consular services include document legalisation, consular cards, birth and marriage certificates and laissez-passer; the work began on 31 March 2026 under the public administration digitalisation programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo Adds Building Material and Geospatial Map Requests to National Digital Portal](https://www.togofirst.com/en/public-works/2310-20439-togo-adds-building-material-and-geospatial-map-requests-to-national-digital-portal)** — Togo First, 23 October 2026
+
+Togo's Ministry of Territorial Planning and Urban Development put two new services on the Service Public portal: ordering compressed stabilised earth blocks and requesting geospatial maps. The portal lists 155 procedures, according to the national digital observatory, and handled more than 400,000 requests in 2024 against 100,000 in 2023.
 
 </div>
 
@@ -815,6 +837,20 @@ The Global Alliance for Trade Facilitation launched a project in Lomé on 9 Octo
 **[Solutions numériques agricoles : le Tchad s'inspire de l'expérience togolaise](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise)** — Site officiel du Togo, République Togolaise, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 A Chadian delegation from the West African food system resilience programme visited Lomé to study Togo's deployment of digital solutions in agriculture. The account is the host government's.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated agricultural digitalisation project (ProDISA-Togo)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DIGITALISATION AGRICOLE : LE TOGO ACCÉLÈRE LA TRANSFORMATION NUMÉRIQUE DE SON SECTEUR AGRICOLE - Ministère de l’Agriculture de la Pêche, des Ressources Animales et de la Souveraineté Alimentaire](https://agriculture.gouv.tg/digitalisation-agricole-le-togo-accelere-la-transformation-numerique-de-son-secteur-agricole/)** — Ministere de l'Agriculture du Togo, 22 October 2026
+
+ProDISA-Togo roadmap: subsidies, extension, finance and markets, farmer ID, grievances; World Bank review next.
 
 </div>
 

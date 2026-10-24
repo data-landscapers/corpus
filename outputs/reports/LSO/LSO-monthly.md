@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: LSO
-ledger_rows: 17
+ledger_rows: 20
 not_held: 4
-record: 89dbff22fe73
+record: 1c8d7c53913a
 ---
 
 # News, Sep – Oct 2026
@@ -126,6 +126,8 @@ The Eswatini Communications Commission and the Lesotho Communications Authority 
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technical-capacity">Technical Capacity</a>
 </nav>
 
 ### Connectivity
@@ -168,6 +170,22 @@ The public works minister holds shares in a firm the energy minister named among
 
 </div>
 
+### Technical Capacity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High-performance computer at Mohale's Hoek</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho urged to turn innovation into jobs and economic growth - Lesotho Times](https://lestimes.com/?p=91936)** — Lesotho Times, 23 October 2026
+
+Opening Lesotho's third National Science, Technology and Innovation Week, ICT and science minister Nthati Moorosi said research must turn into products, businesses and jobs rather than stopping at publication. She said a Research and Innovation Policy to commercialise research is awaiting approval.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -191,6 +209,20 @@ The public works minister holds shares in a firm the energy minister named among
 **[Public-Private Dialogue reforms stalled in nine areas, Matekane says](https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/)** — Lesotho Tribune, 27 September 2026
 
 Lesotho's prime minister, Sam Matekane, told a public-private dialogue forum in May 2026 that nine agreed reforms had not started or were awaiting Cabinet, according to a World Bank-funded project newsletter reported on 27 September. The same newsletter says the National Single Window operates without its own law and the central bank is still building a government e-payment gateway.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">X-Road government interoperability platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Government of Lesotho Remains Committed to Strengthening Secure Data Exchange Across Government Institutions and Enhancing Service Delivery for Basotho](https://www.africa-newsroom.com/press/the-government-of-lesotho-remains-committed-to-strengthening-secure-data-exchange-across-government-institutions-and-enhancing-service-delivery-for-basotho?lang=en)** — Government of Lesotho (via APO Group), 21 October 2026
+
+Berea workshop 20-23 Oct 2026; MICSTI with UNICEF; ministries' readiness, child-service use cases, safeguards roadmap.
 
 </div>
 
@@ -300,6 +332,8 @@ Lesotho's prime minister, Samuel Matekane, told the second UN Digital Cooperatio
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#research-institutions">Research institutions</a>
 </nav>
 
 ### Training and skills
@@ -313,6 +347,22 @@ Lesotho's prime minister, Samuel Matekane, told the second UN Digital Cooperatio
 **[LESOTHO JOINED A CONTINENTAL ALLIANCE TO ADVANCE AI, DATA AND DIGITAL SKILLS PAVING THE WAY FOR THE ESTABLISHMENT OF THE SMART AFRICA DIGITAL ACADEMY. - Government of Lesotho](https://www.gov.ls/ict/lesotho-joined-a-continental-alliance-to-advance-ai-data-and-digital-skills-paving-the-way-for-the-establishment-of-the-smart-africa-digital-academy/)** — Government of Lesotho, 12 October 2026
 
 Lesotho's communications minister took part in the 21st Smart Africa Alliance meeting, and government said efforts are under way to establish the alliance's digital academy in the country. Lesotho joined the alliance in 2025.
+
+</div>
+
+</div>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Research and Innovation Policy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Lesotho urged to turn innovation into jobs and economic growth - Lesotho Times](https://lestimes.com/?p=91936)** — Lesotho Times, 23 October 2026
+
+Summarised under [Technical Capacity](#technical-capacity).
 
 </div>
 

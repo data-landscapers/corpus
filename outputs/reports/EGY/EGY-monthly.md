@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: EGY
-ledger_rows: 100
+ledger_rows: 101
 not_held: 41
-record: 869e54bb5288
+record: 6031ed5dbd65
 ---
 
 # News, Sep – Oct 2026
@@ -1371,6 +1371,20 @@ A draft resolution on the implications of artificial intelligence for human righ
 **[مصر تقود مبادرة لاعتماد أول قرار بمجلس حقوق الإنسان حول الذكاء الاصطناعي](https://www.youm7.com/story/2026/10/6/%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A3%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%AD%D9%88%D9%84/7570270)** — Youm7, 6 October 2026
 
 Egypt, with Bangladesh and a cross-regional group, led the UN Human Rights Council to adopt by consensus its first resolution on the implications of AI for human rights. It stresses the right to development, decent work, linguistic diversity and technology transfer to developing countries, and mandates a Council meeting and a report on AI, human rights and the capacity gap. The adoption date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Chat Egypt rumour-verification platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Launch of “Chat Egypt” platform to monitor, verify rumors](https://cairo.gov.eg/en/news/2026/october/20/5ec07d8962d14d6b92816e5dc9a4ea52)** — Cairo Portal / Cabinet Media Center, 20 October 2026
+
+Cabinet AI tool for rumour verification; 21,000+ data entries, ministries upload their own verified data.
 
 </div>
 

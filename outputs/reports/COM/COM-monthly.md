@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: COM
-ledger_rows: 13
+ledger_rows: 15
 not_held: 24
-record: 14e037e9c4e4
+record: 2ff7ac0b0f83
 ---
 
 # News, Sep – Oct 2026
@@ -45,6 +45,20 @@ record: 14e037e9c4e4
 **[Transformation numérique : les Comores passent à l'évaluation](https://www.wearetech.africa/fr/fils/actualites/tech/transformation-numerique-les-comores-passent-a-l-evaluation)** — wearetech.africa, 18 September 2026
 
 The Comoros' digital development agency and UNDP signed a memorandum on 16 September to run a national digital readiness assessment covering skills, connectivity, public services, regulation and the digital economy across the three islands. It is presented as a way to target the next investments under the Comores Numérique 2028 strategy; no timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Stratégie nationale de gouvernance des données 2027-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conseil des ministres I Approbation d’un projet d’électrification complète de la région de Mledjele à Mwali](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html)** — Al-watwan, 22 October 2026
+
+Council of 21 Oct 2026: State data centre hosting, 2027-2031 data-governance strategy, national postal-code booklet.
 
 </div>
 
@@ -165,6 +179,20 @@ The Comoros government's secretary-general, Nour El Fath Azali, has begun answer
 **[État civil : « 84 % du projet Amecc 2 réalisés »](https://alwatwan.net/societe/%C3%A9tat-civil-%C2%AB84-du-projet-amecc-2-r%C3%A9alis%C3%A9s%C2%BB.html)** — Al-Watwan (Comores), 15 October 2026
 
 The second phase of Comoros's civil-registration modernisation project was reported 84% complete and given three more months at its steering committee, chaired by the interior minister with UNICEF and the French ambassador. Civil-registration centres have been mapped nationwide, the pre-digitisation study finished and new forms designed; France's support is put at EUR 1 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National addressing and directory process</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Conseil des ministres I Approbation d’un projet d’électrification complète de la région de Mledjele à Mwali](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html)** — Al-watwan, 22 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 

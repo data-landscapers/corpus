@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-10-23
+compiled: 2026-10-24
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 237
+sources_cited: 238
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -153,7 +153,7 @@ The defensive machinery is lodged inside the telecoms regulator. MACRA has [said
 ### Data Exchange
 <!-- dpi.exchange -->
 
-Malawi's national data exchange platform is built and idle: the Minister of ICT [says government institutions still share citizen data by email, USB drive and paper](https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz) because the binding data-sharing regulation has not been issued, so the infrastructure exists but cannot yet do its job (2026). Boma Lathu itself [was implemented under the World Bank-financed Digital Foundations Project](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities), and the government's own enterprise service bus [was non-operational through 2025](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/), leaving services siloed. Above the plumbing there is no policy layer either: Malawi [has no government interoperability framework](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), no data-quality or service-availability standards for government data exchange, no programme to retire legacy systems to a common standard, and publishes nothing on the terms under which government data moves (2025).
+Malawi's national data exchange platform carries services but not the government's data sharing: [14 services had been digitised and onboarded onto Boma Lathu by September 2026, with 11 more in development and no governance framework to drive their uptake](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf), while the Minister of ICT [says government institutions still share citizen data by email, USB drive and paper](https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz) because the binding data-sharing regulation has not been issued (2026). Boma Lathu itself [was implemented under the World Bank-financed Digital Foundations Project](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities), and the government's own enterprise service bus [was non-operational through 2025](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/), leaving services siloed. Above the plumbing there is no policy layer either: Malawi [has no government interoperability framework](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), no data-quality or service-availability standards for government data exchange, no programme to retire legacy systems to a common standard, and publishes nothing on the terms under which government data moves (2025).
 
 What does move, moves bilaterally. The Business Registration Act [gives the Malawi Revenue Authority standing online access to the business registration database](https://malawilii.org/akn/mw/act/1922/7/eng@2014-12-31), and a firm must produce its registration certificate to obtain a taxpayer identification number, but the two registrations are never merged. The social registry [exchanges data through APIs with the management information systems of the Social Cash Transfer Programme and the public works programme](https://documents1.worldbank.org/curated/en/099545310272225365/txt/P17722003a368d0ed0b8ce0b89f77285290.txt) (2022), and the National Registration Bureau [offers e-verification and e-KYC to public and private bodies](https://www.undp.org/digital/stories/malawis-foundational-legal-identity-system-sets-stage-more-efficient-and-responsible-digital-future) under bilateral memoranda rather than through a shared bus. The cost shows up in small places: tax withheld by the copyright society on royalty payments [is not reconciled automatically against a rights holder's taxpayer identification number](https://malawi24.com/2026/08/04/ignoring-streaming-boom-cosoma-still-relies-on-cd-burning-data-for-royalty-payouts/), so the holder must collect the documents and file them in person or risk being taxed twice (August 2026).
 

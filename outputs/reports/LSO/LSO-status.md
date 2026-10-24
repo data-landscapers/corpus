@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-10-23
+compiled: 2026-10-24
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 197
+sources_cited: 199
 sections_written: 39
 not_established: 3
 acquire_lines: 31
@@ -210,7 +210,7 @@ Digital birth registration [launched under the Ntlafatsa Bana programme in April
 
 The land register is the thinnest of them. A single [Land Administration Authority holds registration, cadastre, mapping and surveying](https://lesotholii.org/akn/ls/act/2010/9/eng@2010-06-15), so there is no separate cadastre, and the [2016 census found 20% of households on registered leaseholds, 41% on unregistered certificates of allocation and 39% on neither](https://nelga.uneca.org/wp-content/uploads/2022/11/Land-Governance-Lesotho.pdf), sporadic registration since running at roughly 2,200 parcels a year. Leases, bonds and deeds are [online through the Landfolio-based Land Administration Online System](https://portal.laa.landfolio.com/Portal/CustomHtml.aspx?PageID=d7f3f61d-4689-4280-a59a-b865f002dd60) in business hours (2025), with district offices [planned for Berea, Mokhotlong, Qacha's Nek and Thaba-Tseka](https://www.lena.gov.ls/laa-brings-services-closer-to-communities/) (August 2025). There is [no national address register](https://lesotholii.org/akn/ls/act/ln/2011/21/eng@2011-02-24).
 
-Business registration is the best connected: the Registrar of Companies runs an [online registry with free public search](http://www.obfc.org.ls/registry/), a [single window has been deployed at the One-Stop Business Facilitation Centre](https://lestimes.com/?p=89016) (November 2025), and incorporation data [passes straight to the revenue authority](https://lndc.org.ls/knowledge-base/taxation/). The electoral register stands apart, with a [Voter Registration Strategy endorsed on 28 May 2026](https://www.idea.int/news/lesotho-takes-strategic-step-towards-inclusive-electoral-participation) and [constituency-readiness assessments underway](https://iec.org.ls/storage/2026/06/Press-release-on-constituency-assessment_15June2026.pdf) (June 2026).
+Business registration is the best connected: the Registrar of Companies runs an [online registry with free public search](http://www.obfc.org.ls/registry/), a [single window has been deployed at the One-Stop Business Facilitation Centre](https://lestimes.com/?p=89016) (November 2025), and incorporation data [passes straight to the revenue authority](https://lndc.org.ls/knowledge-base/taxation/). [Beneficial owners above a 10% threshold must be filed with the Registrar within seven days under regulations of 2024](https://zmayetlaw.co.ls/beneficial-ownership-in-lesotho/). The electoral register stands apart, with a [Voter Registration Strategy endorsed on 28 May 2026](https://www.idea.int/news/lesotho-takes-strategic-step-towards-inclusive-electoral-participation) and [constituency-readiness assessments underway](https://iec.org.ls/storage/2026/06/Press-release-on-constituency-assessment_15June2026.pdf) (June 2026).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
@@ -302,7 +302,7 @@ Public-service training is incremental and district by district. [The Ministry o
 ### Research institutions
 <!-- capacity.research -->
 
-[No SADC member state, Lesotho among them, meets either the regional 1%-of-GDP or the African Union's 1.5%-of-GDP target for research-and-development investment, the SADC Executive Secretary told the Ordinary Council of Ministers in Durban on 12 August 2026](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf). That underfunding shows in Lesotho's placing near the foot of [the 2025 Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/ls.pdf).
+[No SADC member state, Lesotho among them, meets either the regional 1%-of-GDP or the African Union's 1.5%-of-GDP target for research-and-development investment, the SADC Executive Secretary told the Ordinary Council of Ministers in Durban on 12 August 2026](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf). That underfunding shows in Lesotho's placing near the foot of [the 2025 Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/ls.pdf). [A Research and Innovation Policy meant to turn research into commercial products was undergoing approval in October 2026](https://lestimes.com/?p=91936).
 
 What research capacity exists is concentrated in the National University of Lesotho, and the state is using it directly rather than buying the work in. [The Ministry of Communications, Science, Technology and Innovation is designing the country's digital public infrastructure with the university's Department of Mathematics and Computer Science rather than a commercial vendor, treating X-Road for inter-ministry data exchange, MOSIP for biometric digital ID and a Decision Support System for planning and budgeting as one stack](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) (February 2026). The same university supplies the science teaching base, through [BSc programmes in computer science, information systems and electronics and BEng programmes in computer systems and networks](https://nul.ls/faculty-of-science-and-technology/academic-programmes/). Language resources are being built on the same footing: [MICSTI, UNDP and the university are compiling a Sesotho-language word bank to train locally relevant AI systems instead of relying on English-only models](https://www.gov.ls/ict/sesotho-word-bank-being-compiled-to-train-artificial-intelligence-systems-in-lesotho/) (February 2026).
 

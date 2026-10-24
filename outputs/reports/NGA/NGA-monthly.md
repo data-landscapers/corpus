@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: NGA
-ledger_rows: 166
+ledger_rows: 170
 not_held: 9
-record: ec8d518f945d
+record: 22493c181fa3
 ---
 
 # News, Sep – Oct 2026
@@ -1230,6 +1230,20 @@ UAE-based Dolphin Telecoms signed a ten-year energy-as-a-service deal with Niger
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Network incidents in the regulator's Quality of Experience report</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel, Globacom, MTN face network quality probe](https://www.itweb.africa/article/airtel-globacom-mtn-face-network-quality-probe/JN1gP7OAQB6qjL6m)** — ITWeb Africa, 23 October 2026
+
+CEOs due 28 Oct; NCC counts 44,678 fibre cuts Jan-Sep 2026 and 23,954 site-access denials, 73% from insecurity.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -2144,6 +2158,28 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Federal electronic government procurement system (e-GP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BPP moves to digitalise procurement, tighten oversight of government spending](https://www.thepointng.com/bpp-moves-to-digitalise-procurement-tighten-oversight-of-government-spending/)** — ThePointNG, 3 September 2026
+
+BPP sets e-GP system and an online compliance and oversight platform at the centre of its reform programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BPP to end physical bidding for govt contracts](https://dailytrust.com/bpp-to-end-physical-bidding-for-govt-contracts/)** — Daily Trust, 9 October 2026
+
+Bids to go fully online under e-GP; education submissions already on PCOMS; online community procurement to N30m.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Ondo Pay state payroll and human resources platform</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2640,6 +2676,20 @@ Cascador and Sterling Bank announced the SME Credit Backstop, a planned USD 200 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">JICA startup hub programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria's First Lady Lays Foundation for Abuja Innovation Hub](https://von.gov.ng/nigerias-first-lady-lays-foundation-for-abuja-innovation-hub/)** — Voice of Nigeria, 23 October 2026
+
+Foundation stone laid at Wuye for JICA-funded hub; NITDA also plans US$50m seed facility with NSIA.
+
+</div>
+
+</div>
+
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
@@ -2775,6 +2825,20 @@ Nigeria's iDICE Skills-to-Jobs programme opened free digital and business-proces
 **[Nigeria’s NCC to Leverage ITU Digital Centre to Expand Digital Skills Training](https://techafricanews.com/2026/10/06/nigerias-ncc-to-leverage-itu-digital-centre-to-expand-digital-skills-training/)** — Tech Africa News, 6 October 2026
 
 Nigeria's Digital Bridge Institute has been designated an ITU Digital Transformation Centre, and the communications regulator says it will use the status to widen digital skills training for underserved groups. The work is tied to the national target of 95% digital literacy by 2030.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cisco Networking Academy access for Nigeria Jubilee Fellows</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP, Cisco Offer 50,000 Nigerian Graduates Free Digital Skills Training to Boost Job Prospects](https://opportunitieshub.ng/2026/10/21/undp-cisco-offer-50000-nigerian-graduates-free-digital-skills-training-to-boost-job-prospects/)** — Opportunities Hub, 21 October 2026
+
+Cisco values its NJFP training contribution above US$52.7m; 50,000 learners a year for three years.
 
 </div>
 

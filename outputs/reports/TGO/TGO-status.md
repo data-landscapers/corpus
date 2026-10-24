@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-10-23
+compiled: 2026-10-24
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 253
+sources_cited: 254
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -254,7 +254,7 @@ Four of the six of those systems whose software type is recorded — financial m
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
-[Togo's public service portal carried 101 online services as of December 2025](https://digital.gouv.tg/?lang=en). [It is the National Portal for Digitalised Administrative Procedures, run by the Togo Digital Agency, on which citizens open authenticated accounts using national identity documents, with a companion Gouv Check app that verifies the QR codes on the documents it issues](https://digital.gouv.tg/?lang=en). [The portal is transactional rather than informational, and citizens are recorded as having been involved in its design](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+[Togo's public service portal listed 155 administrative procedures in October 2026, on the national digital observatory's count](https://www.togofirst.com/en/public-works/2310-20439-togo-adds-building-material-and-geospatial-map-requests-to-national-digital-portal). [It is the National Portal for Digitalised Administrative Procedures, run by the Togo Digital Agency, on which citizens open authenticated accounts using national identity documents, with a companion Gouv Check app that verifies the QR codes on the documents it issues](https://digital.gouv.tg/?lang=en). [The portal is transactional rather than informational, and citizens are recorded as having been involved in its design](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 [Citizens of five pilot communes have been able to request copies of birth, marriage and death records online and track them in real time since 15 December 2025](https://www.togofirst.com/en/public-services/1712-17829-togo-expands-public-service-digitisation-with-online-civil-registry-platform), and [the energy ministry added 29 procedures covering the utility, the rural electrification agency and the regulator at the same time](https://www.togofirst.com/en/public-services/1712-17829-togo-expands-public-service-digitisation-with-online-civil-registry-platform). [The investment promotion agency has moved twelve company-establishment procedures onto the single window](https://www.togofirst.com/fr/gouvernance-economique/3101-15657-togo-l-api-zf-digitalise-douze-procedures-administratives-pour-l-implantation-des-entreprises) (2024). [Taxpayers can register, file and pay online](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), a channel [compulsory for large and medium enterprises since 15 October 2019](https://www.otr.tg/index.php/fr/100-promotions/831-obligation-de-paiements-des-taxes-impots-en-ligne-dge-dme.html), and [its exemptions platform became mandatory on 1 January 2026](https://www.togofirst.com/en/economic-governance/0110-17200-togo-launches-online-platform-for-tax-exemptions-and-waivers). [An electronic visa has been available since June 2022](https://cio-mag.com/au-togo-le-gouvernement-lance-le-e-visa/), [government procurement publishes tender notices and awards online](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), with [fully electronic procurement only at the strategy stage in October 2025](https://arcop.tg/le-togo-sengage-dans-la-passation-electronique-des-marches-publics/), and [the volunteering agency's four programmes can be browsed, joined and tracked from a mobile app](https://www.republiquetogolaise.tg/tic/2707-12130-volontariat-l-anvt-lance-son-application-mobile) (July 2026).
 
