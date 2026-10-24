@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: SLE
-ledger_rows: 36
+ledger_rows: 38
 not_held: 4
-record: 48892ef2996b
+record: 6d7e24437527
 ---
 
 # News, Sep – Oct 2026
@@ -288,6 +288,20 @@ Sierra Leone's revenue authority has begun consultations with security agencies 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Consolidated anti-money-laundering database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Deputy Finance Minister Opens AML/CFT Database Talks](https://a-zsl.com/deputy-finance-minister-opens-aml-cft-database-talks/)** — A-Z Multimedia Corporation, 20 October 2026
+
+FIA and GIABA consult on a proposed consolidated database; lawful access, audit trails, data protection as safeguards.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
 <div class="monthly-story" markdown="1">
@@ -299,6 +313,20 @@ Sierra Leone's revenue authority has begun consultations with security agencies 
 **[Government Must Act on Tripartite Recommendation 15: Make National Identity Cards Affordable for Sierra Leoneans | OWLPRESS](https://owlpress-sl.com/government-must-act-on-tripartite-recommendation-15-make-national-identity-cards-affordable-for-sierra-leoneans/)** — Owlpress, 15 October 2026
 
 Sierra Leone MP Alpha Ben Mansaray, deputy parliamentary spokesman, asked the government on 15 October 2026 to implement the Tripartite Committee's recommendation 15 and subsidise national identity cards. The NCRA raised the standard card fee from NLe 145 to NLe 165 in February 2026; he proposes NLe 50, which he states is his own figure, not policy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIM registration linked to the National Identification Number</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NatCA Boss Intensifies Nationwide NIN–SIM Integration Campaign Ahead of November 1 Deadline](https://thecalabashnewspaper.com/archives/65628)** — The Calabash Newspaper, 23 October 2026
+
+Sierra Leone's National Communications Authority stepped up a nationwide campaign from 20 October 2026 for mobile subscribers to link their SIM cards to their National Identification Numbers before a 1 November deadline. It is working with the National Civil Registration Authority and the mobile operators, and presents the linkage as a defence against SIM fraud and identity theft.
 
 </div>
 
@@ -703,6 +731,14 @@ Sierra Leone opened the 50-day countdown to its 2026 Population and Housing Cens
 **[Minister of Planning & Economic Development, Statistician-General and UNFPA Country Representative Undertake Joint Monitoring Visit to 2026 Mock Population and Housing Census Area](https://www.statistics.sl/index.php/minister-of-planning-economic-development-statistician-general-and-unfpa-country-representative-undertake-joint-monitoring-visit-to-2026-mock-population-and-housing-census-area.html)** — Statistics Sierra Leone, 19 October 2026
 
 Sierra Leone's planning minister, the Statistician-General and UNFPA's country representative monitored the 2026 mock census enumeration at Hill Station, Freetown, on 19 October 2026. The mock census is testing census methods, the digital data-collection system and quality assurance ahead of the national census scheduled for December 2026, Statistics Sierra Leone said.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNFPA, Stats-SL train 147 master trainers ahead of census](https://sierraleoneconcordtimes.com/unfpa-stats-sl-train-147-master-trainers-ahead-of-census/)** — Concord Times, 20 October 2026
+
+Training from 14 Oct 2026; all 29,000 tablets received; about 22,508 enumeration areas mapped; Ireland funds UNFPA.
 
 </div>
 

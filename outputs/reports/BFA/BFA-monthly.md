@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: BFA
-ledger_rows: 43
+ledger_rows: 47
 not_held: 7
-record: 4186c7aec86f
+record: e45559800102
 ---
 
 # News, Sep – Oct 2026
@@ -127,6 +127,20 @@ The telecoms regulators of Burkina Faso, Mali and Niger are to sign a cooperatio
 **[Espace AES : Les régulateurs des télécommunications créent le Conseil des régulateurs du Sahel](https://lefaso.net/spip.php?article149528)** — leFaso.net, 26 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The telecoms regulators of Burkina Faso, Mali and Niger signed a convention creating the Conseil des régulateurs du Sahel, reported on 26 September 2026. Its priorities include harmonised regulation, consumer protection, coordinated infrastructure and tariffs, with work on border frequency coordination, free roaming across the three states and coordinated 5G. Statutes are still to be adopted; no signing date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Confederation-Togo interconnected customs data systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Company lists due 1 Jan 2027, data-flow technical unit by 31 Jan; 9 of 18 Bamako 2025 recommendations implemented.
 
 </div>
 
@@ -262,6 +276,14 @@ Burkina Faso recorded FCFA 906,123,245 in cybercrime losses in the first half of
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Le Faso Digital 2026 : L’adjudant-chef de gendarmerie Isaac Bouda dévoile les pièges des cyberescrocs et les moyens de s’en protéger](https://lefaso.net/spip.php?article150132=)** — leFaso.net, 22 October 2026
+
+BCLCC: 6,477 complaints and FCFA 2.23bn lost Jan-Sep 2026, above all of 2025; six fraud types named.
+
+</div>
+
 </div>
 
 ## DPI
@@ -393,6 +415,20 @@ Summarised under [Data Storage](#data-storage).
 **[Passeports biométriques : le centre d'enrôlement de Ziniaré opérationnel](https://www.sidwaya.info/2026/10/14/passeports-biometriques-le-centre-denrolement-de-ziniare-operationnel/)** — Sidwaya, 14 October 2026
 
 Burkina Faso's Security Ministry opened biometric passport enrolment at the regional police directorate in Ziniaré on 13 October, part of extending mobile enrolment kits to every region. Applicants no longer need to travel to Ouagadougou or Bobo-Dioulasso; the AES passport costs 50,000 FCFA and takes two weeks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Code des personnes et de la famille of 2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Compte rendu du Conseil des ministres (PP-G N°030-2026)](https://www.minute.bf/wp-content/uploads/2026/10/CONSEIL-DES-MINISTRES-N%C2%B030-DU-22-OCTOBRE-2026.pdf)** — Primature du Burkina Faso, 22 October 2026
+
+Civil-status data decree adopted 22 Oct 2026: civil-status identifier, e-archiving, online acts, interoperability.
 
 </div>
 
@@ -607,6 +643,34 @@ Burkina Faso's embassy in the United States launched YORI ID, a consular platfor
 **[Burkina Faso/Transformation digitale : 222 procédures de dématérialisation engagées au premier trimestre 2026](https://cfinance.news/article/burkina-fasotransformation-digitale-222-procedures-de-dematerialisation-engagees-au-premier-trimestre-2026/)** — C'Finance, 6 October 2026
 
 Burkina Faso's digital ministry reports 46.70% average physical execution of its minister's 20-action objectives contract at 30 June 2026. In the half year it described 222 administrative procedures for moving online, connected 10 more sites to the government network, counted 120 official platforms hosted abroad for repatriation and drafted nine implementing texts for the information-systems security law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic government procurement system (e-GP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina : 75,9 % des marchés publics par procédures exceptionnelles en 2025](https://ouaganews.net/burkina-759-des-marches-publics-par-procedures-exceptionnelles-en-2025/)** — OuagaNews, 14 October 2026
+
+Exceptional procedures 75.9% of 2025 contract value against 15% target; e-Burkindi planning module piloted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Share of contract value awarded by exceptional procedures</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burkina : 75,9 % des marchés publics par procédures exceptionnelles en 2025](https://ouaganews.net/burkina-759-des-marches-publics-par-procedures-exceptionnelles-en-2025/)** — OuagaNews, 14 October 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 

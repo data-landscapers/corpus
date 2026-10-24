@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: ETH
-ledger_rows: 33
+ledger_rows: 34
 not_held: 5
-record: 595eb5fa32b7
+record: f61e4987e132
 ---
 
 # News, Sep – Oct 2026
@@ -269,6 +269,8 @@ CIPESA marks Global Encryption Day with a commentary on Global Partners Digital'
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -515,6 +517,22 @@ ETTA Solutions and Visa signed a framework agreement to roll out 148,000 contact
 **[Banks Race to Launch International Payment Cards as Forex Reforms Open New Market](https://birrmetrics.com/banks-race-to-launch-international-payment-cards-as-forex-reforms-open-new-market/)** — Birr Metrics, 9 October 2026
 
 Ethiopia's Awash Bank, with Mastercard, and Oromia Bank, with Visa, launched eight internationally accepted payment cards between them on 8 October 2026. The launches follow the National Bank of Ethiopia's February 2026 rule change allowing banks to issue such cards to foreign-currency account holders. Awash said it processed over US$60 million in card foreign exchange last fiscal year.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beneficial-ownership regulation and register (Regulation 592/2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[No Disclosure, No Licence: Ethiopia's Beneficial Ownership Deadlines Are Here](https://www.dentons.com/en/insights/articles/2026/october/12/no-disclosure-no-licence-ethiopias-beneficial-ownership-deadlines-are-here)** — Dentons, 12 October 2026
+
+Law-firm alert on Regulation 592/2026: thresholds by entity type, filing due 11 January 2027, criminal penalties.
 
 </div>
 

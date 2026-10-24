@@ -1,12 +1,12 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-10-23
+compiled: 2026-10-24
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 142
+sources_cited: 143
 sections_written: 39
 not_established: 2
 acquire_lines: 27
@@ -199,7 +199,7 @@ The register the state has rebuilt nationwide is the electoral roll. [Biometric 
 
 Land is the opposite case. [About 0.1% of the country's land is titled and registered, with the Conservation Foncière the sole body maintaining both the cadastre and land transactions and no separate digital cadastral system in existence](https://tenuresecurity.org/country-profile/central-african-republic/) (2021), and the [title records it does hold are kept on paper, neither computerised nor scanned](https://archive.doingbusiness.org/content/dam/doingBusiness/country/c/central-african-republic/CAF.pdf) (2021).
 
-Companies fare better. [Central African entries in the OHADA regional commercial register can be searched online by name or RCCM number](https://rccm.ohada.org/prsCompany/index?lang=en) (2023), the register being regional infrastructure rather than a national system. Among surveyed firms, [the share that were formally registered when they began operating has fallen sharply since 2011](https://www.ceicdata.com/en/central-african-republic/company-statistics) (2023).
+Companies fare better. [Central African entries in the OHADA regional commercial register can be searched online by name or RCCM number](https://rccm.ohada.org/prsCompany/index?lang=en) (2023), the register being regional infrastructure rather than a national system. At home, [the business single window launched a website on 12 May 2026 while company creation itself remained largely manual](https://lengosongo.cf/2026/05/14/centrafrique-le-gufe-rca-lance-un-site-internet-pour-moderniser-la-creation-dentreprises/). Among surveyed firms, [the share that were formally registered when they began operating has fallen sharply since 2011](https://www.ceicdata.com/en/central-african-republic/company-statistics) (2023).
 
 Two registers a modern administration would lean on are absent. There is [no national social protection register: a unified social registry has been under development with donor support since 2018 and repeatedly delayed by limited technical capacity and institutional change, leaving programme-specific beneficiary registries to serve individual safety-net programmes](https://openknowledge.worldbank.org/bitstreams/b0908821-e140-4a8a-84f0-caa13b1eb47f/download) (2025). And there is [no digital address register or standardised addressing system, mail being routed by locality or district name](https://www.geopostcodes.com/country/central-african-republic/address-validation/). [A programme of the francophone mayors' association and the European Union drew an address plan for Bangui and numbered doors between 2011 and 2016](https://www.aimf.asso.fr/actions/mobilisation-des-recettes-et-modernisation-de-la-gestion-financiere-des-villes-de-bangui-douala-et-pointe-noire/), and nothing on the address file it built is held since.
 

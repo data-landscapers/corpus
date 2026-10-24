@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: KEN
-ledger_rows: 145
+ledger_rows: 148
 not_held: 7
-record: 62de338c2b39
+record: 892f0aee5c87
 ---
 
 # News, Sep – Oct 2026
@@ -999,6 +999,28 @@ A Greek energy group has partnered with a United States energy-equipment company
 **[TCS Sovereign Cloud Goes Live In Nairobi](https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/)** — CIO Africa, 28 September 2026
 
 Tata Consultancy Services' sovereign cloud went live in Kenya, hosted at iXAfrica's Nairobi campus and delivered with a regional integrator, aimed at government agencies and regulated sectors with data-residency rules. Its capacity, pricing and clients were not disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Konza National Data Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya’s Konza Technopolis Secures Funding Agreement for Data Centre and Smart City Project](https://techafricanews.com/2026/10/23/kenyas-konza-technopolis-secures-funding-agreement-for-data-centre-and-smart-city-project/)** — Tech Africa News, 23 October 2026
+
+A second account of the Konza cloud expansion agreement, naming the counterparty as the PPP Project Facilitation Fund under the National Treasury and listing feasibility work and an investment framework among the costs it covers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Konza data centre set for expansion through public private partnership](https://peopledaily.digital/business/konza-data-centre-set-for-expansion-through-public-private-partnership)** — People Daily, 23 October 2026
+
+Kenya's Public Private Partnerships Directorate signed a funding agreement on 23 October 2026 to prepare the Konza National Data Centre Cloud Expansion and Smart City Facilities Project, including hiring a transaction adviser to structure it for a private partner. The project joined the PPP pipeline in December 2025 and is presented as strengthening sovereign cloud capacity; no private partner has been chosen, and the agreement does not mean construction has started.
 
 </div>
 
@@ -2078,6 +2100,20 @@ Kenya's Senate ICT committee questioned National Transport and Safety Authority 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Speed-limiter telematics platform for the transport authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya’s Technopolis Authority Launches Digital Platform to Monitor Vehicle Speed Limiters](https://techafricanews.com/2026/10/23/kenyas-technopolis-authority-launches-digital-platform-to-monitor-vehicle-speed-limiters/)** — Tech Africa News, 23 October 2026
+
+Kenya's Konza Technopolis Development Authority has put live a Digital Telematics Platform for the National Transport and Safety Authority, which registers and certifies vehicle speed limiters and lets the regulator identify non-compliant vehicles. The authority presents the project as a step toward acting as a technology supplier to government beyond its smart-city remit.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -2633,6 +2669,20 @@ Kenya commissioned a Jitume ICT hub at a technical training campus in Uasin Gish
 **[Kenya Launches KSG Digital Institute as 1,239 Public Officers Graduate in AI Training](https://techafricanews.com/2026/10/13/kenya-ksg-digital-institute-1239-public-officers-ai-training/)** — Tech Africa News, 13 October 2026
 
 The Kenya School of Government launched an eLearning and Information Technology Institute as 1,239 public officers graduated from a UNESCO-Oxford programme on artificial intelligence and digital transformation in government.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI and digital transformation course for public servants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Expands AI Training to Strengthen Public Services and Digital Governance](https://www.jointsdgfund.org/article/kenya-expands-ai-training-strengthen-public-services-and-digital-governance)** — Joint SDG Fund, 23 October 2026
+
+A second Kenyan cohort of the UNESCO-Oxford course on AI and Digital Transformation in Government opened on 21 October 2026, aimed at 9,000 national and county public servants, after 1,239 of the first cohort's 2,730 learners graduated at the Kenya School of Government on 8 October. The course belongs to DigiKen, a Joint SDG Fund programme led by UNESCO with EU and donor funding.
 
 </div>
 

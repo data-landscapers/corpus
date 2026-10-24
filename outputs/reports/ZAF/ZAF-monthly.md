@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: ZAF
-ledger_rows: 165
+ledger_rows: 168
 not_held: 19
-record: 1fb63cbcbe3c
+record: f18b54e09ca3
 ---
 
 # News, Sep – Oct 2026
@@ -2000,7 +2000,57 @@ South Africa's State IT Agency placed four of the week's top ten ICT tenders, in
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SARS personal income tax auto-assessment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SARS's expanded auto assessments pay off](https://www.itweb.co.za/article/sarss-expanded-auto-assessments-pay-off/kYbe9MXbjykvAWpG)** — ITWeb South Africa, 23 October 2026
+
+The South African Revenue Service reported more than 6.9 million returns auto-assessed by 30 September 2026, 20% more than a year earlier, after extending auto-assessment to some provisional taxpayers, drawing on more verified third-party data and sending assessment notices by WhatsApp. Between 1 July and 19 October it paid R33 billion in refunds to 3.1 million taxpayers, 85% of them within 72 hours.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eTender Publication Portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Treasury Digital Transformation Journey](https://www.gtac.gov.za/wp-content/uploads/2026/10/GTAC-EU-eProcurement-Dialog-NT-Presentation-draft.pdf)** — National Treasury (OCPO), 1 September 2026
+
+OCPO deck, Sept 2026: CSD links to SARS, Home Affairs and banks; planned e-procurement system and digital marketplace.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa: National Treasury](https://data.open-contracting.org/en/publication/143)** — Open Contracting Partnership Data Registry, 1 September 2026
+
+eTenders OCDS feed, Feb 2017 to Sep 2026, under PDDL; 35,309 tenders, 9,551 awards, 1,691 contracts.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National electronic government procurement system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[National Treasury Digital Transformation Journey](https://www.gtac.gov.za/wp-content/uploads/2026/10/GTAC-EU-eProcurement-Dialog-NT-Presentation-draft.pdf)** — National Treasury (OCPO), 1 September 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

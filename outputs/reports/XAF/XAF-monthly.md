@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: XAF
-ledger_rows: 115
+ledger_rows: 117
 not_held: 3
-record: 03ef77a42baa
+record: 114be4d35ed5
 ---
 
 # News, Sep – Oct 2026
@@ -452,6 +452,28 @@ African Union member states meeting in Addis Ababa on 4-5 June 2026 endorsed a P
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Yaoundé Declaration on E-Governance and Artificial Intelligence in Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Déclaration de Yaoundé sur l'e-Gouvernance et l'Intelligence Artificielle en Afrique](https://e-gov.africa/wp-content/uploads/2026/10/Declaration-de-Yaounde-EGOVA-2026-OK.pdf)** — E-Gov'A (Smart Click Africa and Digital Business Africa), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+
+Conference declaration: Local First, African First; aim of 100% local hosting of critical public data by 2030.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Yaoundé Declaration Targets 100% Local Hosting of Critical Government Data by 2030](https://www.businessincameroon.com/public-management/2310-17029-yaounde-declaration-targets-100-local-hosting-of-critical-government-data-by-2030)** — Business in Cameroon, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
+
+The Yaoundé Declaration on E-Governance and Artificial Intelligence in Africa, adopted when the E-Gov'A conference closed on 17 October 2026, asks African governments to host all classified critical or sovereign public data inside their own borders by 2030, and where domestic capacity is lacking to prefer another African country over providers off the continent. The organisers, Smart Click Africa and Digital Business Africa, are to run an African Observatory for E-Government and AI; the hosting target is a recommendation and binds no government.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">AFRINIC audited accounts for 2025</p>
 
 <div class="bulletin-item" markdown="1">
@@ -711,6 +733,20 @@ Summarised under [Standards](#standards).
 </div>
 
 ### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Made in Africa policy brief series</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AI Made in Africa: Voices from AI businesses across Africa — Executive summary](https://www.giz.de/sites/default/files/media/els-document/2026-09/executive-summary-ai-made-africa.pdf)** — Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, 1 September 2026
+
+Survey of 85 African AI firms: 65% name cloud and compute their top cost; USD 1.3bn raised 2014-2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

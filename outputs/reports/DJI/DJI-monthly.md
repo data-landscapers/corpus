@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: DJI
-ledger_rows: 17
+ledger_rows: 18
 not_held: 11
-record: a30f06aa27c1
+record: a02dd4effc11
 ---
 
 # News, Sep – Oct 2026
@@ -128,6 +128,8 @@ Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
 ### Data Exchange
@@ -141,6 +143,30 @@ Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial 
 **[Djibouti Plans Electronic Single-window to Streamline Trade](https://www.dawan.africa/news/djibouti-plans-electronic-single-window-to-streamline-trade)** — Dawan Africa, 2 September 2026
 
 Djibouti's customs administration plans an electronic single window bringing customs and trade procedures onto one platform, discussed at a preparatory workshop at the People's Palace on 1 September 2026. It is working with the commerce ministry, the AfCFTA Secretariat and Korea's CUPIA, and says the system will go beyond the SYDONIAWORLD system now in use. No cost or timetable is given.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic public procurement portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti to Move All Public Procurement Online in Transparency Push](https://www.dawan.africa/news/djibouti-to-move-all-public-procurement-online-in-transparency-push)** — Dawan Africa, 22 October 2026
+
+Interim PM Bahdon, 21 Oct 2026: tender bulletin and procurement open-data portal planned; no timetable given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Premier ministre par intérim participe au deuxième Colloque régional](https://rtd.dj/le-premier-ministre-par-interim-participe-au-deuxieme-colloque-regional/)** — RTD / Gouvernement de Djibouti, 22 October 2026
+
+Portal live since May 2023: 1,300 tenders, 1,227 awards; e-submission 2026-2028, full e-procurement platform by 2027.
 
 </div>
 

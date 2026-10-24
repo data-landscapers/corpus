@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: MOZ
-ledger_rows: 49
+ledger_rows: 50
 not_held: 18
-record: 07ca0173eeed
+record: 0bbecb87dc44
 ---
 
 # News, Sep – Oct 2026
@@ -799,6 +799,20 @@ Mozambique's Digital Transformation and Innovation Agency said the government em
 **[Mozambique: Government email service restored after maintenance work](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/)** — Club of Mozambique, 14 September 2026
 
 Mozambique's digital transformation agency said the government email service CorreioGOV was restored after maintenance, with some peripheral services still restricted. Neither the start of the outage nor its cause was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central purchasing body (CAE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Estado Centraliza Compras Públicas E Coloca Nova Estrutura Sob Auditoria Externa Anual](https://www.oeconomico.com/estado-centraliza-compras-publicas-e-coloca-nova-estrutura-sob-auditoria-externa-anual/)** — O Económico, 24 September 2026
+
+Decreto 22/2026 creates central purchasing body CAE under annual external audit; Decreto 46/2026 adds dynamic purchasing.
 
 </div>
 
