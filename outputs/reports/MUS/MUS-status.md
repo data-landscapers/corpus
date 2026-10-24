@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-10-22
+compiled: 2026-10-24
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 165
+sources_cited: 166
 sections_written: 39
 not_established: 2
 acquire_lines: 29
@@ -190,7 +190,7 @@ Land is the standout. [The cadastral database built under the Land Administratio
 
 [The Central Population Database is compiled directly from births, deaths, marriages and changes of citizenship under sections 8A to 8C of the Civil Status Act, so the population register is built from civil registration by statute rather than merely linked to it](https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=QWN0IDIzIG9mIDE5ODE%3D&doctitle=&doctype=act). [Civil registration scores 75.0 out of 100 in 2023, 7th of 54 African states, and has not moved at all across the 2014-2023 decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mu.pdf). The register's boundary is citizenship: [section 8B confines the database to citizens, so resident non-citizens are not recorded in the national population register](https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=QWN0IDIzIG9mIDE5ODE%3D&doctitle=&doctype=act).
 
-[The Corporate and Business Registration Department runs the business register as a digital service, with online incorporation, registration and public search](https://companies.govmu.org/Pages/default.aspx) (2026). [For the November 2024 National Assembly election the roll held 1,002,857 registered voters against a voting-age population of 1,064,944, compiled annually by a door-to-door update under the Representation of the People Act](https://www.idea.int/data-tools/data/country?country=142&database_theme=293), and [the Electoral Commissioner publishes a continuously updated digital Register of Electors broken down by constituency, ward, polling station, sex, age and citizenship](https://electoral.govmu.org/oec/?page_id=4616) (2024). Joining up is by identifier rather than by system: [the revenue authority's register identifies individuals by their identity card number and businesses by their Business Registration Number or Tax Account Number](https://www.mra.mu/index.php/eservices1/vat-eservices/simplified-vat-registration) (2025). The Social Register is the weak one: [it held 25,350 individuals in December 2023 against about 101,900 people in relative poverty, and runs on Oracle software nearing obsolescence whose replacement has been delayed](https://nao.govmu.org/nao/wp-content/uploads/2026/03/SOCIAL-INTEGRATION-AND-EMPOWERMENT-OF-VULNERABLE-HOUSEHOLDS.pdf) (audit, March 2026).
+[The Corporate and Business Registration Department runs the business register as a digital service, with online incorporation, registration and public search](https://companies.govmu.org/Pages/default.aspx) (2026). [For the November 2024 National Assembly election the roll held 1,002,857 registered voters against a voting-age population of 1,064,944, compiled annually by a door-to-door update under the Representation of the People Act](https://www.idea.int/data-tools/data/country?country=142&database_theme=293), and [the Electoral Commissioner publishes a continuously updated digital Register of Electors broken down by constituency, ward, polling station, sex, age and citizenship](https://electoral.govmu.org/oec/?page_id=4616) (2024). Joining up is by identifier rather than by system: [the revenue authority's register identifies individuals by their identity card number and businesses by their Business Registration Number or Tax Account Number](https://www.mra.mu/index.php/eservices1/vat-eservices/simplified-vat-registration) (2025). The Social Register is the weak one: [it held 25,350 individuals in December 2023 against about 101,900 people in relative poverty, and runs on Oracle software nearing obsolescence whose replacement has been delayed](https://nao.govmu.org/nao/wp-content/uploads/2026/03/SOCIAL-INTEGRATION-AND-EMPOWERMENT-OF-VULNERABLE-HOUSEHOLDS.pdf) (audit, March 2026). Company ownership has a register in law: [an anti-money-laundering amending Act of July 2024 requires the Registrar of Companies to keep a beneficial ownership register open to the competent authorities](https://www.blc.mu/the-anti-money-laundering-and-combatting-the-financing-of-terrorism-and-proliferation-miscellaneous-provisions-act-beneficial-ownership-information/).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->

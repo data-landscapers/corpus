@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: TCD
-ledger_rows: 35
+ledger_rows: 36
 not_held: 22
-record: e8d80161935c
+record: e3f196f326ab
 ---
 
 # News, Sep – Oct 2026
@@ -495,6 +495,20 @@ Chad's investment and export agency ANIE signed an agreement with Moov Money Tch
 **[WHO Africa launches the Health Campaign Digitization initiative (DIGIT-HCM) to transform health campaign planning and delivery across the Region](https://www.afro.who.int/news/who-africa-launches-health-campaign-digitization-initiative-digit-hcm-transform-health)** — WHO Regional Office for Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The WHO Regional Office for Africa launched DIGIT-HCM, a three-year initiative to digitise the planning, delivery and monitoring of health campaigns such as vaccination drives, built with the eGov Foundation and supported by the Gates Foundation. The first phase covers seven pilot countries; a pilot ran in a district of N'Djamena Province during Chad's June 2026 polio campaign. No funding figure is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Livestock ministry information platforms, including the animal health information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : Le pastoralisme tchadien entame sa révolution digitale avec l’appui du PRAPS-2 Tchad et de l’OMSA](https://praps2tchad.org/numerique-le-pastoralisme-tchadien-entame-sa-revolution-digitale-avec-lappui-du-praps-2-tchad-et-de-lomsa/)** — PRAPS-2 Tchad, 21 October 2026
+
+Seven systems handed over 21 Oct 2026: animal-health IS linked to health ministry, two lab LIMS, HR database.
 
 </div>
 

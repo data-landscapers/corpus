@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-10-23
+compiled: 2026-10-24
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 249
+sources_cited: 250
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -235,7 +235,7 @@ Where services have been digitised they are single-agency. [Business registratio
 
 The institutional machinery is being assembled ahead of the services. [A National Digital Addressing Steering Committee was launched in October 2025](https://techafricanews.com/2025/10/13/the-gambia-takes-major-step-toward-a-fully-digital-nation-with-launch-of-ndasc/), [a National Enterprise Architecture framework was validated under the GovStack initiative with ITU support in May 2026](https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative), and the Ministry of Information runs [Factguard, a national misinformation and disinformation response centre that takes public submissions through a free hotline and has them checked by trained human analysts against stated evidence](https://factguard.gov.gm/). The government [began issuing a biometric driving licence valid for three years, replacing annual renewal](https://foroyaa.net/gambia-begins-rollout-of-new-three-year-driving-licence/) (2026). The finance ministry [introduced a digital duty waiver application system, committing to a decision within 72 hours where requirements are met](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system), reported on 30 September 2026.
 
-[The procurement authority trained a second cohort of its cadre from 8 to 10 October 2026 on the 2022 Act, the 2024 Regulations and the rollout of the Electronic Government Procurement system, with the new instruments mandatory from January 2027](https://thepoint.gm/africa/gambia/national-news/gppa-trains-procurement-cadre-on-new-act-regulations-and-standard-documents).
+[The procurement authority trained a second cohort of its cadre from 8 to 10 October 2026 on the 2022 Act, the 2024 Regulations and the rollout of the Electronic Government Procurement system, with the new instruments mandatory from January 2027](https://thepoint.gm/africa/gambia/national-news/gppa-trains-procurement-cadre-on-new-act-regulations-and-standard-documents). It is a second attempt: [a World Bank fiscal-management project dropped its acquisition of the system for delays in the technical prerequisites before closing in June 2024](https://documents1.worldbank.org/curated/en/099122424124014150/pdf/BOSIB1c7b47a6108a19327103d64e90505c.pdf).
 
 ## Digitalisation
 

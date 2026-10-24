@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: GNQ
-ledger_rows: 19
+ledger_rows: 20
 not_held: 6
-record: 58a043abaea9
+record: 10c3f9a0a53f
 ---
 
 # News, Sep – Oct 2026
@@ -123,6 +123,20 @@ All satellite internet sales are to run through the telecommunications regulator
 **[El despacho que representa a S.E. Nguema Obiang Mangue explica las acciones contra Diario Rombe y otras tres personas](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas)** — Oficina de Informacion y Prensa de Guinea Ecuatorial, 17 September 2026
 
 Lawyers for Equatorial Guinea's vice-president Teodoro Nguema Obiang Mangue said they lodged four criminal complaints at a Malabo court on 16 September 2026 against four people, including Mocache Massoko of the online paper Diario Rombe. The complaints rest on articles 2 and 60 of Law 7/2024 on social media and cybercrime; article 2 is invoked to reach conduct outside the country.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Reform of the Ley de Prensa y Medios Audiovisuales (1997)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El proyecto de ley de comunicación prohibirá contenidos que inciten a la violencia y vulneren los derechos de menores - Diario Bata](https://diariobata.com/el-proyecto-de-ley-de-comunicacion-prohibira-contenidos-que-inciten-a-la-violencia-y-vulneren-los-derechos-de-menores/)** — Diario Bata, 22 October 2026
+
+Draft content bans span print, broadcast and digital; streaming and platform providers to register, carry liability.
 
 </div>
 

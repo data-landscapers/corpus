@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: GIN
-ledger_rows: 26
+ledger_rows: 27
 not_held: 3
-record: 369d70fdb9b1
+record: 47aa3fb1dc59
 ---
 
 # News, Sep – Oct 2026
@@ -393,6 +393,28 @@ Guinea's minister of administrative modernisation and the civil service, Faya Fr
 **[Signature électronique de l’État : la Guinée accélère sa marche vers le zéro papier et la souveraineté numérique](https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/)** — Guinéenews, 21 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ngaynaako livestock ministry single digital window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : le ministère de l’Élevage lance Ngaynaako, son guichet unique numérique - La Guinée info - Les informations sur la Guinée en un seul clic](https://laguinee.info/2026/10/22/guinee-le-ministere-de-lelevage-lance-ngaynaako-son-guichet-unique-numerique/)** — La Guinee Info, 22 October 2026
+
+Launched 22 Oct 2026 by minister Alpha Bacar Barry; online requests with set deadlines, farm-count data for the ministry.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministère de l’Élevage : Alpha Bacar Barry présente la plateforme NGAYNAAKO pour rapprocher l’administration des acteurs du secteur](https://mediaguinee.com/2026/10/ministere-de-lelevage-alpha-bacar-barry-presente-la-plateforme-ngaynaako-pour-rapprocher-ladministration-des-acteurs-du-secteur/)** — MediaGuinee, 23 October 2026
+
+Guinea's Ministry of Livestock presented NGAYNAAKO on 22 October 2026, a platform through which farmers and other livestock-sector actors can obtain the ministry's documents, regulations and support schemes without travelling to its offices. Minister Alpha Bacar Barry said it will work in national languages with AI assistance and will count the farms operating in the country; the ministry had already moved its mail handling online.
 
 </div>
 

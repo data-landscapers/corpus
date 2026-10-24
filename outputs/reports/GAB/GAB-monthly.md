@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: GAB
-ledger_rows: 55
+ledger_rows: 56
 not_held: 13
-record: 288c8752e17c
+record: 3f0c8595c7b8
 ---
 
 # News, Sep – Oct 2026
@@ -335,6 +335,20 @@ Gabon's digital infrastructure holding SPIN signed a 20-year public-private part
 **[Télécommunications : MAGT et l'État signent une convention stratégique](https://union.sonapresse.com/fr/telecommunications-magt-et-letat-signent-une-convention-strategique)** — L'Union - Sonapresse, 7 October 2026
 
 Gabon's incumbent operator and the digital-economy ministry signed a convention at Mouila on 6 October ceding to the State the 196 km Fougamou-Mouila fibre section the operator pre-financed and built, with two technical centres. It is the first segment of the first phase of the national backbone extension.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet subscriptions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Connectivité Universelle Significative (UMC) au Gabon](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/09/4.-FR-Day-3-Gabon-ANINF.pdf)** — ANINF, 24 September 2026
+
+ANINF deck, Dakar Sept 2026: 2.41m internet subscriptions Q1 2026, 94% mobile; plan for a national UMC dashboard.
 
 </div>
 

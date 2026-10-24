@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: BEN
-ledger_rows: 38
+ledger_rows: 39
 not_held: 4
-record: 5b8d9b78339a
+record: 9b755a6d6a18
 ---
 
 # News, Sep – Oct 2026
@@ -351,6 +351,20 @@ Benin's Ministry of Economy and Finance announced on 3 October 2026 that pension
 **[Benin launches app letting public-sector retirees provide proof of life remotely](https://www.ecofinagency.com/news-digital/1710-59862-benin-launches-app-letting-public-sector-retirees-provide-proof-of-life-remotely)** — Ecofin Agency, 17 October 2026
 
 Benin launched Preuve de Vie on 15 October 2026, a mobile app through which public-sector pensioners of the FNRB confirm they are alive using their NPI, pension booklet number and fingerprint, from Benin or abroad. Biometric kiosks taking the national ID card are an alternative, and the campaign runs to 15 November 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identity record updates at arrondissement offices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : l’ANIP déploie des tablettes pour actualiser les données dans les arrondissements](https://beninwebtv.com/benin-lanip-deploie-des-tablettes-pour-actualiser-les-donnees-dans-les-arrondissements/)** — Benin Web TV, 23 October 2026
+
+Benin's identification agency ANIP began issuing tablets to arrondissement secretaries in several communes on 19 October 2026, so residents can change the signature and phone number on their record locally instead of at ANIP's main offices. The tablets add to the ANIP BJ app and web portal, which already allow phone numbers to be updated.
 
 </div>
 

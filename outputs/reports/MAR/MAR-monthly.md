@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Sep – Oct 2026
-compiled: 2026-10-20
-period: 2026-09-01 to 2026-10-20
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: MAR
-ledger_rows: 31
+ledger_rows: 32
 not_held: 14
-record: d78cf05b2a1d
+record: 111c5d9a0523
 ---
 
 # News, Sep – Oct 2026
@@ -115,6 +115,20 @@ Casablanca's commercial court of first instance rejected a payment-order applica
 **[النيابة العامة بالدار البيضاء تفتح بحثا قضائيا بشأن ادعاءات التجسس على هواتف حزب سياسي](https://nichan.ma/365880/)** — Nichan, 14 September 2026
 
 Morocco's prosecutor general at the Casablanca Court of Appeal ordered a judicial investigation into a party leader's claim that his party's phones were being spied on. The national judicial police will verify the claim, which the prosecution tied to the proper conduct of the elections; the party is not named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DATA-TIKA data-protection compliance programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CNDP, NIIAT Partner to Train 20,000 Young Moroccans in Data Privacy](https://www.moroccoworldnews.com/2026/10/343292/cndp-niiat-partner-to-train-20000-young-moroccans-in-data-privacy/)** — Morocco World News, 21 October 2026
+
+DATA-TIKA agreement signed 2026-10-21; six-month Casablanca-Settat pilot for 20,000 youths; national roll-out later.
 
 </div>
 

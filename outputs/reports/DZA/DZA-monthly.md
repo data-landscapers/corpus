@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: DZA
-ledger_rows: 44
+ledger_rows: 49
 not_held: 5
-record: 928498b21040
+record: 8de7abb5d95e
 ---
 
 # News, Sep – Oct 2026
@@ -99,6 +99,20 @@ Algeria's draft 2027 finance law proposes a 10% tax reduction until the end of 2
 **[L’Algérie prévoit de soumettre les plateformes numériques étrangères à de nouvelles obligations de TVA en 2027](https://algerian-business.com/tva-plateformes-numeriques-algerie-plf-2027/)** — Algerian Business, 12 October 2026
 
 Algeria's draft 2027 finance law proposes that foreign digital platforms selling services to customers in Algeria register with the tax authority, keep records for ten years and declare and pay VAT quarterly. Non-compliance would carry a fine of 5 million dinars after 30 days' notice and possible suspension of access to the platform. The provision is a draft, not yet adopted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General authorisation regime for cloud services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué — retrait définitif de l’autorisation de cloud computing de DATAGIX](https://www.arpce.dz/fr/pub/h9v7b0)** — Autorité de régulation de la poste et des communications électroniques (ARPCE), 22 October 2026
+
+Authorisation 02/PC/ARPCE/2024 revoked for regulatory non-compliance, effective 22 October 2026.
 
 </div>
 
@@ -346,6 +360,20 @@ Algeria's Council of Ministers, meeting under President Tebboune on 20 September
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified price-monitoring database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Algérie: Elaboration d'une base de données unifiée pour le suivi des prix et la régulation du marché](https://fr.allafrica.com/stories/202610210791.html)** — Algeria Press Service (via allAfrica), 21 October 2026
+
+Interoperable platforms to flag abnormal price rises by wilaya; Interior, Trade and High Commission for Digitalisation.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
 <div class="monthly-story" markdown="1">
@@ -439,6 +467,34 @@ Algeria's interbank card body, GIE Monétique, said on 1 October 2026 that about
 **[Paiement électronique en Algérie : 23 millions de cartes et 126 000 TPE jusqu’en août 2026](https://algerie-eco.com/2026/10/01/paiement-electronique-en-algerie-23-millions-de-cartes-et-126-000-tpe-a-aout-2026/)** — Algérie Eco, 1 October 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CCP Business Cashless merchant payment service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بريد الجزائر وغرفة التجارة والصناعة الجزائرية يعزّزان شراكتهما - الشعب أونلاين](https://www.echaab.dz/2026/10/21/%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D8%BA%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7/)** — Ech-Chaab Online, 21 October 2026
+
+Framework agreement signed 2026-10-21; CCP Business Cashless and e-payment offer for artisans and traders.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic payments to the housing agency AADL</p>
+
+<div class="bulletin-item" markdown="1">
+
+**["عدل 3".. الدفع الإلكتروني حقق معاملات بأكثر من 338 مليار دج - الشعب أونلاين](https://www.echaab.dz/2026/10/22/%D8%B9%D8%AF%D9%84-3-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%AD%D9%82%D9%82-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D8%A3%D9%83/)** — Ech-Chaab Online, 22 October 2026
+
+DZD 338bn paid electronically for AADL 3 tranches; AADL rent e-collection DZD 14.02bn vs 3.46bn in 2022.
 
 </div>
 
@@ -671,6 +727,28 @@ Algeria's national pension fund, the Caisse nationale des retraites, launched a 
 **[La CNR lance un nouveau service pour les retraités algériens](https://observalgerie.com/2026/09/24/economie/la-cnr-lance-un-nouveau-service-pour-les-retraites-algeriens/)** — ObservAlgérie, 24 September 2026
 
 Algeria's National Pensions Fund, CNR, launched a 24-hour online virtual assistant on its website on 24 September 2026 to answer pensioners' routine questions. In July 2026 the labour ministry set a target of cutting visits to CNR offices by at least 50% by the end of 2026. Some pensioners can already confirm they are alive through the R-FACE facial recognition system in the RetraiteDz app.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La CNR lance le projet du guichet numérique unique](https://algeriebrevesnews.dz/la-cnr-lance-le-projet-du-guichet-numerique-unique/)** — Algérie Brèves News, 23 October 2026
+
+Algeria's national pension fund, the CNR, launched "Takaoudi All in One", a single digital desk in every local agency where a staff member helps retirees and beneficiaries install the Takaoudi app, open accounts and use online services. The fund has more than 19 e-services and plans more in the last quarter of 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Solidarity sector investment-project tracking platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Solidarité nationale : lancement d'une plateforme numérique de suivi des opérations d'investissement](https://algerie54.dz/solidarite-nationale-lancement-d-une-plateforme-numerique-de-suivi-des-operations-d-investissement)** — Algérie54, 20 October 2026
+
+Dashboard for the sector's investment portfolio; AI map of persons with special needs and fraud detection due 2027.
 
 </div>
 

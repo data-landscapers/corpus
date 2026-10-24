@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: GHA
-ledger_rows: 114
+ledger_rows: 115
 not_held: 9
-record: 4a5ac39c8ff1
+record: 07a13a13b7c4
 ---
 
 # News, Sep – Oct 2026
@@ -432,6 +432,14 @@ Ghana's communications minister said the government has committed US$270 million
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Sam George announces national data exchange hub to connect 48 public registries - MyJoyOnline](https://www.myjoyonline.com/sam-george-announces-national-data-exchange-hub-to-connect-48-public-registries/)** — MyJoyOnline, 21 October 2026
+
+Minister at Joy forum 21 Oct 2026: NITA classification standards; private firms must share data to get state data.
+
+</div>
+
 </div>
 
 ### Public debate and participation in policymaking
@@ -837,6 +845,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Ghana targets $5bn in annual economic gains from AI – Sam George](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/)** — MyJoyOnline, 15 October 2026
 
 Summarised under [Standards](#standards).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Phase one of Ghana's first data centre to be ready in 24 months - Sam George](https://www.citinewsroom.com/2026/10/phase-one-of-ghanas-first-data-centre-to-be-ready-in-24-months-sam-george/)** — Citi Newsroom, 22 October 2026
+
+Procurement with PPA under way; compute for researchers, universities and industry now buying capacity abroad.
 
 </div>
 
@@ -2043,6 +2059,28 @@ South Korea's ambassador to Ghana, Kyongsig Park, told the Ghanaian Times that t
 **[EU injects €250,000 into Ghana’s TVET digital labs to boost skills training](https://www.modernghana.com/news/1536361/eu-injects-250000-into-ghanas-tvet-digital-labs.html)** — ModernGhana, 15 October 2026
 
 The EU-funded Erasmus+ DigiMarkt project, worth EUR 394,185, closed with a conference at USTED in Kumasi; EUR 250,000 of it went to three Ghanaian technical universities. The money set up digital labs of 25 computers each at USTED, Cape Coast and Bolgatanga, trained 63 lecturers abroad in 2025 and 450 students in the first half of 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google AI tool licences at two public universities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UG secures 96,000 Gemini AI licences for staff and students](https://www.myjoyonline.com/ug-secures-96000-gemini-ai-licences-for-staff-and-students)** — MyJoyOnline (GNA), 20 October 2026
+
+No cost or term stated; follows KNUST's 95,000 Google Workspace licences; use governed by UG's AI Policy.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[KNUST, Google Strengthen Partnership to Promote AI Integration in Teaching and Learning](https://www.knust.edu.gh/news/news-items/knust-google-strengthen-partnership-promote-ai-integration-teaching-and-learning)** — Kwame Nkrumah University of Science and Technology (University Relations Office), 21 October 2026
+
+95,000 Gemini and NotebookLM licences; 500 AI-course places; data not used for model training; MoU only proposed.
 
 </div>
 
