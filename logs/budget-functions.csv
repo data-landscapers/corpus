@@ -57,8 +57,8 @@ BFA,population-register,absent,,,,,hand,"keyword scan of the finance laws' volum
 BFA,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names interoperability of data or a data exchange; the one hit is military equipment",2026-10-02
 BWA,statistics,found,whole,6,bwa-2024-0300-0301-02115,Statistics Botswana,rows,,
 BWA,civil-registration-id,found,partial,6,bwa-2024-0400-0402-00725,,rows,,
-BWA,communications-regulator,absent,,,,Botswana Communications Regulatory Authority,hand,"FY2024/25 to FY2026/27: the estimates name the Botswana Communications Regulatory Authority only as a dividend payer to government; it is funded by its own licence fees and has no expenditure line. Its Annual Report 2025 was read on 2026-10-03 (expenses BWP 205,302,834 for the year to 31 March 2025) and is not held: a regulator's accounts are not a budget stage. Its universal access fund is held.",2026-10-03
-BWA,ict-ministry-egov,found,whole,40,bwa-2024-2400-2401-01787,Government of Botswana portal,rows,,
+BWA,communications-regulator,found,partial,1,bwa-2024-bocra,Botswana Communications Regulatory Authority,rows,,
+BWA,ict-ministry-egov,found,whole,41,bwa-2024-2400-2401-01787,Government of Botswana portal,rows,,
 BWA,cybersecurity,absent,,,,BW-CIRT,hand,"keyword scan of the estimates and financial statements for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no department or account names cyber security",2026-10-02
 BWA,data-protection,found,whole,3,bwa-2024-2500-2501-02208,,rows,,
 BWA,revenue-systems,found,whole,3,bwa-2024-2000-2004-02014,Botswana Unified Revenue Service,rows,,
@@ -491,7 +491,7 @@ NAM,population-register,found,partial,3,nam-2024-39-md05,,rows,,
 NAM,data-exchange,found,partial,1,nam-2024-37-p37-13-5,,rows,,
 NER,statistics,found,whole,15,ner-2024-06-110-11001004,Institut national de la statistique (INS),rows,,
 NER,civil-registration-id,found,whole,5,ner-2024-25-143-14302009,,rows,,
-NER,communications-regulator,absent,,,,Autorité de régulation des communications électroniques et de la poste (ARCEP),hand,"keyword scan of the finance laws' activity annexes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names the communications regulator (ARCEP), which is funded from its own fees",2026-10-02
+NER,communications-regulator,found,partial,1,ner-2024-arcep,Autorité de régulation des communications électroniques et de la poste (ARCEP),rows,,
 NER,ict-ministry-egov,found,whole,31,ner-2024-08-111-11103002,Gouvernement du Niger (portail),rows,,
 NER,cybersecurity,found,whole,18,ner-2024-08-113-11302001,,rows,,
 NER,data-protection,found,whole,3,ner-2024-05-805-80501009,,rows,,

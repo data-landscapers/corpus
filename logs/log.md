@@ -12,6 +12,12 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-24 02:32 · **REVIEW** · unclocked · COM: status 10 sections revised, progress 7 cells, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
+2026-10-24 02:32 · **BUDGET-EXTRACT** · unclocked · NGA FY2024-26: votes recorded for every head (55, 52, 56), all read at the completion sitting of 2026-09-25; no row changed
+2026-10-24 02:29 · **BUDGET-EXTRACT** · unclocked · AGO FY2024-26: votes written for every organ (62, 67, 69), all read; the 2025 SENADIAC platform added (AOA 80m)
+2026-10-24 02:24 · **BUDGET-EXTRACT** · unclocked · BEN FY2025: ARCEP Benin's 2025 activity report read for the regulators ruling, nil (resources only, no spending)
+2026-10-24 02:22 · **BUDGET-EXTRACT** · unclocked · NER FY2025: seven unread sections of the 2025 annex read whole (check D), 2 lines added; the digital activities found are externally financed; cahier 10 pp. 115-144 blank
+2026-10-24 02:17 · **BUDGET-EXTRACT** · unclocked · NER FY2024: the communications regulator held from its own budget execution, XOF 4.89bn revised, 3.80bn executed (ARCEP activity report 2024, publisher's copy)
 2026-10-24 02:16 · **BUILD** · 1h04m · catalogue 32,797; 505 sources, 58 moved, 123 minted, 102 status sections revised; data centres 17, 5 modified; maturity 1,499 read, 239 facts, 29 stages moved; bulletin 26; register 11; 4 rulings messaged - ok
 2026-10-24 02:15 · **BUDGET-EXTRACT** · unclocked · KEN FY2025-26: the Digital Health Authority held at gross under the own-source treatment (294.2m and 191.7m, was net 70m and 65m)
 2026-10-24 02:14 · **BUDGET-EXTRACT** · unclocked · BWA FY2024: the communications regulator held from its own accounts, BWP 192.6m actual (BOCRA Annual Report 2025, now catalogued)

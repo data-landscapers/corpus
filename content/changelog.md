@@ -1,3 +1,11 @@
+## 24 October 2026
+
+- Burundi's 2025/26 budget now carries the revised figures of the amending finance law of 31 December 2025 for 20 more held lines, and adds three new lines worth BIF 3.7bn, among them 2.6bn to digitalise civil-service operations. The statistics institute stands at 6.24bn against 6.95bn voted, and the census at 2.25bn against 2.86bn.
+- Kenya's budget now counts money agencies raise themselves: 14 development projects it pays for are added, among them railway ERP and ticketing and the copyright board's and wildlife service's ERPs, and the Digital Health Authority is now shown at its full budget. Kenya's digital totals for 2024/25 to 2026/27 rise by up to KES 1.2bn a year.
+- Botswana's and Niger's communications regulators are now in the budget tables, held from their own accounts: BWP 192.6m spent in 2024/25, and XOF 4.89bn budgeted and 3.80bn spent on running costs in 2024. Each counts at half, as the other regulators do, its mandate also covering broadcasting or post.
+- Niger's 2025 budget now holds two more lines, the civil-service ministry's digitalisation committee and website hosting, after a full reading of seven more sections of the finance law. The other digital activities found in them are donor-financed and stay out.
+- Angola's budget has now been read organ by organ for 2024 to 2026, and 2025 gains the authors'-rights service's platform, AOA 80m. Every organ in all three years has now been checked for digital lines.
+
 ## 23 October 2026
 
 - The civil register and land register indicators now need nationwide coverage shown by its own evidence: digital death registration, a 90% birth registration rate or online land services no longer stand in for it. Seven countries fall to stage 2 on the civil register and eleven from 5 to 3 on the land register; Morocco holds at 5.

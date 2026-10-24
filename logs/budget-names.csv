@@ -141,7 +141,7 @@ BWA,hosting,State-owned telco / National backbone operator,,Botswana Telecommuni
 BWA,hosting,E-government agency,ict-ministry-egov,Government of Botswana portal,no line,
 BWA,hosting,National data centre / Government cloud operator,,Botswana Fibre Networks (BoFiNet),no line,
 BWA,hosting,Cybersecurity agency / National CERT,cybersecurity,BW-CIRT,no line,
-BWA,hosting,Communications regulator,communications-regulator,Botswana Communications Regulatory Authority,no line,
+BWA,hosting,Communications regulator,communications-regulator,Botswana Communications Regulatory Authority,line,bwa-2024-bocra
 CAF,hosting,Presidency,,Présidence de la République centrafricaine,no line,
 CAF,hosting,Parliament,,Assemblée nationale,no line,
 CAF,hosting,Foreign Affairs,,Ministère des Affaires étrangères et des Centrafricains de l'Étranger,no line,
@@ -1046,7 +1046,7 @@ NER,hosting,Sovereign wealth fund / National pension fund,,Caisse nationale de s
 NER,hosting,Energy utility,,NIGELEC,no line,
 NER,hosting,State-owned telco / National backbone operator,,Niger Telecoms,no line,
 NER,hosting,E-government agency,ict-ministry-egov,Gouvernement du Niger (portail),line,ner-2026-47-168-16802021
-NER,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),no line,
+NER,hosting,Communications regulator,communications-regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),line,ner-2024-arcep
 NGA,hosting,Presidency,,State House,line,nga-2024-0111001004-ergp9213050
 NGA,hosting,Parliament,,National Assembly,no line,
 NGA,hosting,Foreign Affairs,,Ministry of Foreign Affairs,line,nga-2024-0119001002-ergp29213110
