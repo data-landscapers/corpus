@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: AGO
 ledger_rows: 49
 not_held: 5
-record: 950d59962e4f
+record: f824c80fbd3a
 ---
 
 # News, Sep – Oct 2026
@@ -572,7 +572,7 @@ Africa has 36 active instant payment systems in 31 countries, which processed mo
 
 **[Legal Regime of the Beneficial Owner](https://www.primeadvogados.co.ao/en/publications/newsletters-and-flashes/legal-regime-of-the-beneficial-owner/537/)** — Prime Advogados, 1 September 2026
 
-Electronic CRBE filing, interoperable with commercial registries; fines to Kz 50m; existing entities by 15 Feb 2027.
+A Prime Advogados note explains Angola's Law No. 7/26 of 19 August 2026 on beneficial ownership, which covers almost every private entity holding a tax number, from companies and NGOs to trusts and political parties. Filing goes to an electronic central register, the CRBE, interoperable with the commercial registries and notaries, with fines up to Kz 50 million, records kept for ten years and existing entities given until 15 February 2027 to comply.
 
 </div>
 
@@ -580,7 +580,7 @@ Electronic CRBE filing, interoperable with commercial registries; fines to Kz 50
 
 **[Governo cria equipa para implementar Central de Registo do Beneficiário Efectivo](https://www.giranoticias.com/economia/2026/10/32053-governo-cria-equipa-para-implementar-central-de-registo-do-beneficiario-efectivo.html)** — Gira Notícias, 17 October 2026
 
-Ten-agency technical group, 180 days, to build the CRBE platform; Justice coordinates, UIF deputy; World Bank, EU.
+Angola's Minister of State for Economic Coordination set up a technical group from ten state bodies, given 180 days, to build the central beneficial-ownership register (CRBE) required by the new beneficial-ownership law. The Justice secretary of state coordinates, with the Financial Intelligence Unit as deputy, as Angola remains on the FATF grey list it rejoined in October 2024.
 
 </div>
 
@@ -832,7 +832,7 @@ The founders of an Angolan payments startup accuse a commercial bank of using in
 
 **[João Lourenço autoriza despesa de 20 milhões USD para capacitação digital em Angola](https://poligrafoafrica.com/fact-check/joao-lourenco-autoriza-despesa-de-20-milhoes-usd-para-capacitacao-digital-em-angola/)** — Polígrafo África, 22 October 2026
 
-Three-level digital skills for civil servants and young workers, plus data-protection awareness; public tender via IMA.
+Angola's President authorised USD 20 million, by a despacho reported on 22 October 2026, for digital skills training at basic, intermediate and advanced levels for young workers and civil servants, along with awareness of data protection and cybersecurity. Training centres are to be hired by public tender, run by the Institute for Administrative Modernisation.
 
 </div>
 
@@ -924,7 +924,7 @@ Two Conecta Angola satellite internet points at Madimba and Serra da Kanda in Za
 
 **[Executivo disponibiliza 50 milhões de dólares e abre concurso para execução do Programa Conectividade](https://pti.ao/executivo-disponibiliza-50-milhoes-de-dolares-e-abre-concurso-para-execucao-do-programa-conectividade/)** — Portal de T.I., 22 October 2026
 
-Despacho 394/26 of 20 Oct 2026 under World Bank-financed PADA; public tender, assets state-owned, schools first.
+Angola's President authorised USD 50 million for the Programa Conectividade by Presidential Despacho 394/26 of 20 October, to extend broadband to under-served areas with schools and community centres first, through a public tender. The programme falls under the World Bank-financed Angola Digital Acceleration Project, assets bought become state property, and the head of the Institute for Administrative Modernisation runs the procurement.
 
 </div>
 

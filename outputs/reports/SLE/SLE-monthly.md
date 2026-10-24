@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: SLE
 ledger_rows: 38
 not_held: 4
-record: 6d7e24437527
+record: ad8426cd4dcf
 ---
 
 # News, Sep – Oct 2026
@@ -296,7 +296,7 @@ Sierra Leone's revenue authority has begun consultations with security agencies 
 
 **[Deputy Finance Minister Opens AML/CFT Database Talks](https://a-zsl.com/deputy-finance-minister-opens-aml-cft-database-talks/)** — A-Z Multimedia Corporation, 20 October 2026
 
-FIA and GIABA consult on a proposed consolidated database; lawful access, audit trails, data protection as safeguards.
+Sierra Leone's Financial Intelligence Agency and GIABA opened a three-day consultation on a proposed consolidated anti-money-laundering database that would join financial records now held in separate systems. Deputy finance minister Isata Marah named lawful access, security by design, audit trails and respect for individual rights as safeguards, and asked participants to agree its governance, standards and financing.
 
 </div>
 
@@ -738,7 +738,7 @@ Sierra Leone's planning minister, the Statistician-General and UNFPA's country r
 
 **[UNFPA, Stats-SL train 147 master trainers ahead of census](https://sierraleoneconcordtimes.com/unfpa-stats-sl-train-147-master-trainers-ahead-of-census/)** — Concord Times, 20 October 2026
 
-Training from 14 Oct 2026; all 29,000 tablets received; about 22,508 enumeration areas mapped; Ireland funds UNFPA.
+Statistics Sierra Leone and UNFPA began training 147 master trainers and data-quality managers on 14 October 2026 for the digital census, whose census night is 1 December. The Statistician-General said all 29,000 tablets had arrived and about 22,508 enumeration areas had been mapped; Ireland funds UNFPA's support.
 
 </div>
 

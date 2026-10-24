@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: TZA
 ledger_rows: 82
 not_held: 5
-record: 5bc70f11b1b5
+record: bdff0a1bc53b
 ---
 
 # News, Sep – Oct 2026
@@ -652,7 +652,7 @@ The director-general of Tanzania's National Identification Authority (NIDA), Jam
 
 **[NIDA produces 23,718,060 Identification numbers , 21,526,594 national identity cards for Tanzanians - Daily News](https://dailynews.co.tz/nida-produces-23718060-identification-numbers-21526594-national-identity-cards-for-tanzanians/)** — Daily News (Tanzania), 22 October 2026
 
-Report to Bunge security committee, Oct 2026; 152 institutions linked to NIDA database, 24 system modules upgraded.
+Tanzania's National Identification Authority had issued 23,718,060 identification numbers and produced 21,526,594 ID cards, 21,515,793 of them distributed, the deputy home affairs minister told a parliamentary committee on 22 October 2026. NIDA has also connected 152 public and private institutions to its database and upgraded 24 modules of its registration system.
 
 </div>
 

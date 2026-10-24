@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: MAR
 ledger_rows: 32
 not_held: 14
-record: 111c5d9a0523
+record: 73dc292caf2c
 ---
 
 # News, Sep – Oct 2026
@@ -128,7 +128,7 @@ Morocco's prosecutor general at the Casablanca Court of Appeal ordered a judicia
 
 **[CNDP, NIIAT Partner to Train 20,000 Young Moroccans in Data Privacy](https://www.moroccoworldnews.com/2026/10/343292/cndp-niiat-partner-to-train-20000-young-moroccans-in-data-privacy/)** — Morocco World News, 21 October 2026
 
-DATA-TIKA agreement signed 2026-10-21; six-month Casablanca-Settat pilot for 20,000 youths; national roll-out later.
+Morocco's data-protection commission CNDP signed an agreement with the National Institute of Innovation and Advanced Technology on 21 October 2026, bringing it into the CNDP's DATA-TIKA programme. A six-month pilot in Casablanca-Settat is to train at least 20,000 young people in privacy principles, with a national roll-out to follow on no fixed timetable.
 
 </div>
 

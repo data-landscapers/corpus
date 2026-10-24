@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: GHA
 ledger_rows: 115
 not_held: 9
-record: 07a13a13b7c4
+record: 7758c53b152e
 ---
 
 # News, Sep – Oct 2026
@@ -436,7 +436,7 @@ Ghana's communications minister said the government has committed US$270 million
 
 **[Sam George announces national data exchange hub to connect 48 public registries - MyJoyOnline](https://www.myjoyonline.com/sam-george-announces-national-data-exchange-hub-to-connect-48-public-registries/)** — MyJoyOnline, 21 October 2026
 
-Minister at Joy forum 21 Oct 2026: NITA classification standards; private firms must share data to get state data.
+Ghana's communications minister Samuel Nartey George announced a national data exchange hub to connect 48 public registries, so that developers can query several institutions in one request while each keeps ownership of its database. NITA will set common data-classification standards, and private firms wanting government data will have to share their own.
 
 </div>
 
@@ -852,7 +852,7 @@ Summarised under [Standards](#standards).
 
 **[Phase one of Ghana's first data centre to be ready in 24 months - Sam George](https://www.citinewsroom.com/2026/10/phase-one-of-ghanas-first-data-centre-to-be-ready-in-24-months-sam-george/)** — Citi Newsroom, 22 October 2026
 
-Procurement with PPA under way; compute for researchers, universities and industry now buying capacity abroad.
+Ghana's communications minister Samuel Nartey George said phase one of the country's first national data centre should be complete within 24 months, with equipment being procured through the Public Procurement Authority. The centre is meant to give researchers, universities and industry computing capacity they now buy from abroad.
 
 </div>
 
@@ -2072,7 +2072,7 @@ The EU-funded Erasmus+ DigiMarkt project, worth EUR 394,185, closed with a confe
 
 **[UG secures 96,000 Gemini AI licences for staff and students](https://www.myjoyonline.com/ug-secures-96000-gemini-ai-licences-for-staff-and-students)** — MyJoyOnline (GNA), 20 October 2026
 
-No cost or term stated; follows KNUST's 95,000 Google Workspace licences; use governed by UG's AI Policy.
+The University of Ghana secured more than 96,000 Google "Gemini for Education" licences for staff and students, announced at a two-day training workshop for faculty and administrators. No cost or term is stated, and use falls under the university's AI policy.
 
 </div>
 
@@ -2080,7 +2080,7 @@ No cost or term stated; follows KNUST's 95,000 Google Workspace licences; use go
 
 **[KNUST, Google Strengthen Partnership to Promote AI Integration in Teaching and Learning](https://www.knust.edu.gh/news/news-items/knust-google-strengthen-partnership-promote-ai-integration-teaching-and-learning)** — Kwame Nkrumah University of Science and Technology (University Relations Office), 21 October 2026
 
-95,000 Gemini and NotebookLM licences; 500 AI-course places; data not used for model training; MoU only proposed.
+Google has given staff and students at Kwame Nkrumah University of Science and Technology 95,000 licences for Gemini and NotebookLM and approved 500 places on professional AI courses. Google said data on Gemini for Education stays within the university's environment and is not used to train its models; a memorandum to formalise the partnership was proposed but not signed.
 
 </div>
 

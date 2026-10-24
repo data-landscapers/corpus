@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: TCD
 ledger_rows: 36
 not_held: 22
-record: e3f196f326ab
+record: e00fd4d1f23b
 ---
 
 # News, Sep – Oct 2026
@@ -508,7 +508,7 @@ The WHO Regional Office for Africa launched DIGIT-HCM, a three-year initiative t
 
 **[Numérique : Le pastoralisme tchadien entame sa révolution digitale avec l’appui du PRAPS-2 Tchad et de l’OMSA](https://praps2tchad.org/numerique-le-pastoralisme-tchadien-entame-sa-revolution-digitale-avec-lappui-du-praps-2-tchad-et-de-lomsa/)** — PRAPS-2 Tchad, 21 October 2026
 
-Seven systems handed over 21 Oct 2026: animal-health IS linked to health ministry, two lab LIMS, HR database.
+Chad's livestock ministry took delivery on 21 October 2026 of seven digital systems built by the PRAPS-2 pastoralism project with technical support from the World Organisation for Animal Health. They include an animal-health information system linked to the health ministry, laboratory systems for two institutes, a school portal and a central HR planning database.
 
 </div>
 

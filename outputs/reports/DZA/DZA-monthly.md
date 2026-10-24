@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: DZA
 ledger_rows: 49
 not_held: 5
-record: 8de7abb5d95e
+record: c46c86db4f4f
 ---
 
 # News, Sep – Oct 2026
@@ -112,7 +112,7 @@ Algeria's draft 2027 finance law proposes that foreign digital platforms selling
 
 **[Communiqué — retrait définitif de l’autorisation de cloud computing de DATAGIX](https://www.arpce.dz/fr/pub/h9v7b0)** — Autorité de régulation de la poste et des communications électroniques (ARPCE), 22 October 2026
 
-Authorisation 02/PC/ARPCE/2024 revoked for regulatory non-compliance, effective 22 October 2026.
+Algeria's telecoms regulator ARPCE definitively withdrew, from 22 October 2026, the general authorisation it issued to DATAGIX in February 2024 to provide cloud hosting and data storage. The regulator cited breaches of the rules in force and told the company to contact it without delay.
 
 </div>
 
@@ -368,7 +368,7 @@ Algeria's Council of Ministers, meeting under President Tebboune on 20 September
 
 **[Algérie: Elaboration d'une base de données unifiée pour le suivi des prix et la régulation du marché](https://fr.allafrica.com/stories/202610210791.html)** — Algeria Press Service (via allAfrica), 21 October 2026
 
-Interoperable platforms to flag abnormal price rises by wilaya; Interior, Trade and High Commission for Digitalisation.
+Algeria's Ministry of Internal Trade is building a unified price database that links the ministry's platforms to flag unusual price rises early and show which wilayas a supply problem affects, a central director said on national radio. It follows a Council of Ministers instruction for the Interior and Trade ministries and the High Commission for Digitalisation to set up a price-alert mechanism.
 
 </div>
 
@@ -480,7 +480,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[بريد الجزائر وغرفة التجارة والصناعة الجزائرية يعزّزان شراكتهما - الشعب أونلاين](https://www.echaab.dz/2026/10/21/%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D8%BA%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7/)** — Ech-Chaab Online, 21 October 2026
 
-Framework agreement signed 2026-10-21; CCP Business Cashless and e-payment offer for artisans and traders.
+Algérie Poste signed a framework agreement with the Algerian Chamber of Commerce and Industry on 21 October 2026 to offer artisans and traders its CCP Business Cashless service and other e-payment products. The two will run joint awareness and training sessions.
 
 </div>
 
@@ -494,7 +494,7 @@ Framework agreement signed 2026-10-21; CCP Business Cashless and e-payment offer
 
 **["عدل 3".. الدفع الإلكتروني حقق معاملات بأكثر من 338 مليار دج - الشعب أونلاين](https://www.echaab.dz/2026/10/22/%D8%B9%D8%AF%D9%84-3-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%AD%D9%82%D9%82-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D8%A3%D9%83/)** — Ech-Chaab Online, 22 October 2026
 
-DZD 338bn paid electronically for AADL 3 tranches; AADL rent e-collection DZD 14.02bn vs 3.46bn in 2022.
+Algeria's housing minister told the National Assembly's finance committee that electronic payments for the first two price tranches of the AADL 3 rent-to-buy programme exceeded DZD 338 billion. AADL rent collected electronically reached DZD 14.02 billion, against DZD 3.46 billion in 2022.
 
 </div>
 
@@ -748,7 +748,7 @@ Algeria's national pension fund, the CNR, launched "Takaoudi All in One", a sing
 
 **[Solidarité nationale : lancement d'une plateforme numérique de suivi des opérations d'investissement](https://algerie54.dz/solidarite-nationale-lancement-d-une-plateforme-numerique-de-suivi-des-operations-d-investissement)** — Algérie54, 20 October 2026
 
-Dashboard for the sector's investment portfolio; AI map of persons with special needs and fraud detection due 2027.
+Algeria's Ministry of National Solidarity launched a digital platform on 20 October 2026 that tracks the progress and spending of the sector's investment projects nationwide through a dashboard for the central administration. For 2027 it plans an AI-built national map of persons with special needs and an AI system to detect fraud in solidarity schemes.
 
 </div>
 

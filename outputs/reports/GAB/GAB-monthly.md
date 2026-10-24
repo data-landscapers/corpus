@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: GAB
 ledger_rows: 56
 not_held: 13
-record: 3f0c8595c7b8
+record: 8ca76df2b55e
 ---
 
 # News, Sep – Oct 2026
@@ -348,7 +348,7 @@ Gabon's incumbent operator and the digital-economy ministry signed a convention 
 
 **[La Connectivité Universelle Significative (UMC) au Gabon](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/09/4.-FR-Day-3-Gabon-ANINF.pdf)** — ANINF, 24 September 2026
 
-ANINF deck, Dakar Sept 2026: 2.41m internet subscriptions Q1 2026, 94% mobile; plan for a national UMC dashboard.
+Gabon's digital agency ANINF told an ITU workshop on universal meaningful connectivity in Dakar, 22-24 September 2026, that the country had 2.41 million internet subscriptions in the first quarter of 2026, 94% of them mobile, on ARCEP data. It proposed moving from counting subscriptions to measuring meaningful connectivity, and setting up a national dashboard to track it.
 
 </div>
 

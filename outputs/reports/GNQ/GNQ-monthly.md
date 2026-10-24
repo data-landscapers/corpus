@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: GNQ
 ledger_rows: 20
 not_held: 6
-record: 10c3f9a0a53f
+record: 2503093293e0
 ---
 
 # News, Sep – Oct 2026
@@ -136,7 +136,7 @@ Lawyers for Equatorial Guinea's vice-president Teodoro Nguema Obiang Mangue said
 
 **[El proyecto de ley de comunicación prohibirá contenidos que inciten a la violencia y vulneren los derechos de menores - Diario Bata](https://diariobata.com/el-proyecto-de-ley-de-comunicacion-prohibira-contenidos-que-inciten-a-la-violencia-y-vulneren-los-derechos-de-menores/)** — Diario Bata, 22 October 2026
 
-Draft content bans span print, broadcast and digital; streaming and platform providers to register, carry liability.
+Equatorial Guinea's draft communication law would ban content inciting violence, hatred or crime, or harming minors, across print, broadcast and digital media, and require streaming, podcast and platform providers to register and answer for what they carry. Broadcast licensees would have to give the regulator free monitoring of their output; the bill's legislative stage is not stated.
 
 </div>
 

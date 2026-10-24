@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: DJI
 ledger_rows: 18
 not_held: 11
-record: a02dd4effc11
+record: 0cb6e5ed30d9
 ---
 
 # News, Sep – Oct 2026
@@ -158,7 +158,7 @@ Djibouti's customs administration plans an electronic single window bringing cus
 
 **[Djibouti to Move All Public Procurement Online in Transparency Push](https://www.dawan.africa/news/djibouti-to-move-all-public-procurement-online-in-transparency-push)** — Dawan Africa, 22 October 2026
 
-Interim PM Bahdon, 21 Oct 2026: tender bulletin and procurement open-data portal planned; no timetable given.
+Djibouti's interim Prime Minister Ali Hassan Bahdon said on 21 October 2026 that all public procurement will move to a digital system, with a tender bulletin and an open-data portal on procurement planned. He gave no timetable, and said the average tendering period fell from 35 days in 2021 to 26 in 2023, with over 71% of contracts going to Djiboutian firms in 2024.
 
 </div>
 
@@ -166,7 +166,7 @@ Interim PM Bahdon, 21 Oct 2026: tender bulletin and procurement open-data portal
 
 **[Le Premier ministre par intérim participe au deuxième Colloque régional](https://rtd.dj/le-premier-ministre-par-interim-participe-au-deuxieme-colloque-regional/)** — RTD / Gouvernement de Djibouti, 22 October 2026
 
-Portal live since May 2023: 1,300 tenders, 1,227 awards; e-submission 2026-2028, full e-procurement platform by 2027.
+Djibouti's second regional public-procurement colloquium, in Dikhil, heard plans for electronic bid submission, e-signature and digital tracking of payments and guarantees over 2026-2028, and a full e-procurement platform by 2027. The procurement portal launched in May 2023 records 1,300 published tenders and 1,227 awards since 2021.
 
 </div>
 

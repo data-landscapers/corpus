@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: UGA
 ledger_rows: 73
 not_held: 11
-record: cafeead6b8f2
+record: 23b5b8abc50b
 ---
 
 # News, Sep – Oct 2026
@@ -332,7 +332,7 @@ The Uganda Revenue Authority told manufacturers on 11 September 2026 that its eT
 
 **[Uganda, Denmark sign deal to strengthen national statistical production](https://www.independent.co.ug/uganda-denmark-sign-deal-to-strengthen-national-statistical-production/)** — The Independent (Uganda), 22 October 2026
 
-Framework MoU signed at Uganda-EU Business Forum; Danish MFA-funded, amount unstated; priorities reviewed each 3-5 years.
+The Uganda Bureau of Statistics signed a memorandum with Statistics Denmark and the Danish Embassy to modernise Uganda's national statistical system, including green-transition statistics and work with the finance ministry on statistics for macroeconomic modelling. Denmark's foreign ministry funds the cooperation through its Strategic Sector Cooperation programme; no amount is stated.
 
 </div>
 

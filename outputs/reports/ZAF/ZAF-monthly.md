@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: ZAF
 ledger_rows: 168
 not_held: 19
-record: f18b54e09ca3
+record: 560805a8f744
 ---
 
 # News, Sep – Oct 2026
@@ -2024,7 +2024,7 @@ The South African Revenue Service reported more than 6.9 million returns auto-as
 
 **[National Treasury Digital Transformation Journey](https://www.gtac.gov.za/wp-content/uploads/2026/10/GTAC-EU-eProcurement-Dialog-NT-Presentation-draft.pdf)** — National Treasury (OCPO), 1 September 2026
 
-OCPO deck, Sept 2026: CSD links to SARS, Home Affairs and banks; planned e-procurement system and digital marketplace.
+A draft National Treasury deck dated September 2026, prepared for a GTAC-EU e-procurement dialogue, sets out how the Office of the Chief Procurement Officer plans to modernise procurement systems. It presents the Central Supplier Database, with about 900,000 registered suppliers, as the base, verifying suppliers against SARS, Home Affairs and the banks, and plans an e-procurement system and a digital marketplace on top of it.
 
 </div>
 
@@ -2032,7 +2032,7 @@ OCPO deck, Sept 2026: CSD links to SARS, Home Affairs and banks; planned e-procu
 
 **[South Africa: National Treasury](https://data.open-contracting.org/en/publication/143)** — Open Contracting Partnership Data Registry, 1 September 2026
 
-eTenders OCDS feed, Feb 2017 to Sep 2026, under PDDL; 35,309 tenders, 9,551 awards, 1,691 contracts.
+The Open Contracting Partnership's data registry lists the National Treasury's eTenders feed in the Open Contracting Data Standard, covering February 2017 to September 2026 under a public-domain licence and retrieved monthly. It holds 35,309 tenders, 9,551 awards and 1,691 contracts, and excludes municipalities and state-owned entities unless they share data voluntarily.
 
 </div>
 

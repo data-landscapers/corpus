@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: MWI
 ledger_rows: 49
 not_held: 31
-record: ff4c30fa59ee
+record: 95be5a09b464
 ---
 
 # News, Sep – Oct 2026
@@ -56,7 +56,7 @@ record: ff4c30fa59ee
 
 **[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
 
-32.3% disbursed, US$28.3m in 62 contracts; 100 rural towers to bid by Sept 2026; Phase 2 funds not before July 2027.
+A World Bank mission to the Digital Malawi Acceleration Project, from 31 August to 4 September 2026, found 32.3% of funds disbursed and 62 contracts worth USD 28.3 million signed. The 100 rural cell towers were due to go to bidders by the end of September, and the mission warned that Phase 2 funds, which the finance ministry asked to be released on 31 August, are unlikely before July 2027.
 
 </div>
 

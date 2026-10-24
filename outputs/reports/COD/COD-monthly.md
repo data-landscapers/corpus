@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: COD
 ledger_rows: 66
 not_held: 7
-record: 8a7cb41724b1
+record: ed38372f2146
 ---
 
 # News, Sep – Oct 2026
@@ -80,7 +80,7 @@ The Democratic Republic of Congo's Council of Ministers on 11 September 2026 ado
 
 **[RDC : le Sénat ratifie à l’unanimité l’ordonnance-loi portant organisation de l’activité statistique](https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite)** — Actualite.cd, 22 October 2026
 
-Ordonnance-loi 26/015 of 7 Sept 2026; 73 of 109 senators vote, none against; 95 articles; USD 192m budget estimate.
+The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 2026 organising statistical activity, by 73 votes to none of its 109 members. The 95-article law gives the national statistics institute the power to issue the statistical visa, puts a council chaired by the Prime Minister at the head of the system, penalises breaches of statistical secrecy and puts the system's budget at about USD 192 million.
 
 </div>
 
@@ -150,7 +150,7 @@ The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Y
 
 **[DRC Moves to Expand Public Procurement Access for MSMEs and Start-Ups](https://www.ecofinagency.com/news-services/0110-59397-drc-moves-to-expand-public-procurement-access-for-msmes-and-start-ups)** — Ecofin Agency, 1 October 2026
 
-Cabinet adopts bill replacing Law 10/010 of 2010 on 30 Sept 2026; paperless procedures, wider MSME access.
+The DRC government adopted on 30 September 2026 a bill to replace the 2010 public procurement law (Law No. 10/010), presented by Budget Minister Adolphe Muzito. It would widen the use of paperless procedures and open public contracts to small businesses and start-ups, and responds to heavy use of direct awards and weak contract monitoring.
 
 </div>
 
@@ -738,7 +738,7 @@ The DRC's land affairs minister said implementation of the December 2025 land la
 
 **[ITIE-RDC Données et Divulgation Systématique](https://www.itierdc.net/donnees/)** — ITIE-RDC, 23 October 2026
 
-Beneficial ownership register under Loi 25/048 and an arrêté of 8 July 2026; 54 companies, 202 owners listed, public API.
+The data page of EITI DR Congo reports 2023 extractive revenue of USD 5.85 billion, 5.61 billion of it from mining and 234.3 million from oil, from 134 reporting entities. It also publishes the beneficial ownership register set up under Law 25/048 of 1 July 2025 and a ministerial order of 8 July 2026, now listing 202 beneficial owners of 54 companies, two of them politically exposed persons.
 
 </div>
 

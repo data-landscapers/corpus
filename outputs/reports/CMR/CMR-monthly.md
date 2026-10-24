@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: CMR
 ledger_rows: 39
 not_held: 4
-record: 81dacc6498e6
+record: e0cf521366d6
 ---
 
 # News, Sep – Oct 2026
@@ -126,7 +126,7 @@ Experts from the Economic Community of Central African States (ECCAS) met in Dou
 
 **[Déclaration de Yaoundé sur l'e-Gouvernance et l'Intelligence Artificielle en Afrique](https://e-gov.africa/wp-content/uploads/2026/10/Declaration-de-Yaounde-EGOVA-2026-OK.pdf)** — E-Gov'A (Smart Click Africa and Digital Business Africa), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Conference declaration: Local First, African First; aim of 100% local hosting of critical public data by 2030.
+The Yaoundé Declaration, adopted on 17 October 2026 at the close of the E-Gov'A conference, is a non-binding statement by governments, institutions and companies under a "Local First, African First" approach to e-government and AI. It sets an aim of hosting all critical or sovereign public data locally by 2030 and creates an Observatory of e-Government and AI in Africa.
 
 </div>
 

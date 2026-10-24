@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: EGY
 ledger_rows: 101
 not_held: 41
-record: 6031ed5dbd65
+record: 65f197ebc323
 ---
 
 # News, Sep – Oct 2026
@@ -1384,7 +1384,7 @@ Egypt, with Bangladesh and a cross-regional group, led the UN Human Rights Counc
 
 **[Launch of “Chat Egypt” platform to monitor, verify rumors](https://cairo.gov.eg/en/news/2026/october/20/5ec07d8962d14d6b92816e5dc9a4ea52)** — Cairo Portal / Cabinet Media Center, 20 October 2026
 
-Cabinet AI tool for rumour verification; 21,000+ data entries, ministries upload their own verified data.
+Egypt's Cabinet Media Center launched "Chat Egypt" at Egypt Forum 2026, an AI platform for monitoring, verifying and answering rumours, with sections for news, awareness, statistics and citizens' questions. Ministries, agencies and governorates each upload their own verified data, and it held more than 21,000 entries at launch.
 
 </div>
 

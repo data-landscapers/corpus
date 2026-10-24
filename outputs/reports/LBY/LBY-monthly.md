@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: LBY
 ledger_rows: 43
 not_held: 4
-record: b8d0c6354ec2
+record: 49f52ea4c304
 ---
 
 # News, Sep – Oct 2026
@@ -368,7 +368,7 @@ Libya's Attorney General's Office ordered two National Oil Corporation officials
 
 **[Libya’s GNU orders immediate shutdown of government systems over critical cybersecurity vulnerabilities](https://libyaobserver.ly/news/libyas-gnu-orders-immediate-shutdown-government-systems-over-critical-cybersecurity)** — The Libya Observer, 22 October 2026
 
-Cabinet circular cites NSA warnings of two critical flaws; affected systems isolated pending security updates.
+Libya's Government of National Unity ordered the immediate temporary shutdown and isolation of all government systems, websites and databases running on PHP, in a circular from the Minister of State for Cabinet Affairs. It cited US NSA warnings of two critical vulnerabilities allowing attackers to take over servers without authentication, and put cybersecurity teams on alert.
 
 </div>
 
@@ -718,7 +718,7 @@ Libya's Ministry of Social Affairs and the Minister of State for Digital Economy
 
 **[#اتفاقية_وتعاون](https://www.aonsrt.ly/2026/10/21/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9_%d9%88%d8%aa%d8%b9%d8%a7%d9%88%d9%86/)** — Libyan Authority for Scientific Research and Technology, 21 October 2026
 
-MoU with digital economy and AI ministry: national expert programme and database, annual forum, joint team.
+Libya's Authority for Scientific Research signed a memorandum with the office of the Minister of State for Digital Economy and AI, launching a national programme of Libyan experts and researchers in the digital economy and AI. It also covers a national database of experts, links with the diaspora, an annual forum to review digital transformation plans and a joint implementation team; the signing date is not stated.
 
 </div>
 

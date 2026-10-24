@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: ETH
 ledger_rows: 34
 not_held: 5
-record: f61e4987e132
+record: 10e0e0ebbe33
 ---
 
 # News, Sep – Oct 2026
@@ -532,7 +532,7 @@ Ethiopia's Awash Bank, with Mastercard, and Oromia Bank, with Visa, launched eig
 
 **[No Disclosure, No Licence: Ethiopia's Beneficial Ownership Deadlines Are Here](https://www.dentons.com/en/insights/articles/2026/october/12/no-disclosure-no-licence-ethiopias-beneficial-ownership-deadlines-are-here)** — Dentons, 12 October 2026
 
-Law-firm alert on Regulation 592/2026: thresholds by entity type, filing due 11 January 2027, criminal penalties.
+A Dentons alert explains Ethiopia's Regulation No. 592/2026, under which no business registration, licence or investment permit can be issued or renewed unless the holder's beneficial owners are recorded with the Ministry of Trade and Regional Integration. Existing entities had to identify their owners by 13 October 2026 and must file by 11 January 2027, with fines up to ETB 500,000, exclusion from public tenders and up to five years in prison for failing to keep the information.
 
 </div>
 

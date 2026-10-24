@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: GIN
 ledger_rows: 27
 not_held: 3
-record: 47aa3fb1dc59
+record: 8c5bdeee3d61
 ---
 
 # News, Sep – Oct 2026
@@ -406,7 +406,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Guinée : le ministère de l’Élevage lance Ngaynaako, son guichet unique numérique - La Guinée info - Les informations sur la Guinée en un seul clic](https://laguinee.info/2026/10/22/guinee-le-ministere-de-lelevage-lance-ngaynaako-son-guichet-unique-numerique/)** — La Guinee Info, 22 October 2026
 
-Launched 22 Oct 2026 by minister Alpha Bacar Barry; online requests with set deadlines, farm-count data for the ministry.
+Guinea's livestock ministry launched Ngaynaako on 22 October 2026, a one-stop online portal where farmers and others in the sector can request services with set deadlines and without travelling or using intermediaries. Minister Alpha Bacar Barry said it will also give the ministry better data on the sector, including the number of farms.
 
 </div>
 

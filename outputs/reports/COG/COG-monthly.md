@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: COG
 ledger_rows: 24
 not_held: 5
-record: 28b476aa833d
+record: 5933d48f6e92
 ---
 
 # News, Sep – Oct 2026
@@ -364,7 +364,7 @@ WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening 
 
 **[La République du Congo s'active à réformer la gestion des marchés publics par la mise en place du système dématérialisé des procédures de passations des marchés publics (e-GP)](https://www.armp.cg/news-detail.php?id=11)** — Autorité de régulation des marchés publics (ARMP), 22 September 2026
 
-Tender file to hire the e-GP developer adopted July 2026, pending steering-committee validation.
+Congo's procurement regulator ARMP reports that a tender file for recruiting the firm to build and deploy an electronic procurement (e-GP) system was drafted by a consultant, reworked by a commission in June 2026 and adopted at a workshop in Brazzaville on 21-22 July. The World Bank-supported file now awaits validation by the project steering committee.
 
 </div>
 

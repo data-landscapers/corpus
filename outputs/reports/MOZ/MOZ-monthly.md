@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: MOZ
 ledger_rows: 50
 not_held: 18
-record: 0bbecb87dc44
+record: a3d393b618b0
 ---
 
 # News, Sep – Oct 2026
@@ -812,7 +812,7 @@ Mozambique's digital transformation agency said the government email service Cor
 
 **[Estado Centraliza Compras Públicas E Coloca Nova Estrutura Sob Auditoria Externa Anual](https://www.oeconomico.com/estado-centraliza-compras-publicas-e-coloca-nova-estrutura-sob-auditoria-externa-anual/)** — O Económico, 24 September 2026
 
-Decreto 22/2026 creates central purchasing body CAE under annual external audit; Decreto 46/2026 adds dynamic purchasing.
+Mozambique has created a central purchasing body, the Central de Aquisições do Estado, by Decree 22/2026 of 8 June, to run certain purchases of works, goods and services for the State, subject to annual external audit. Decree 46/2026 adds framework agreements, dynamic purchasing systems and joint purchasing, with electronic contracting meant to improve traceability.
 
 </div>
 

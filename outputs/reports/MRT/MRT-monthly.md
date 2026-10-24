@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: MRT
 ledger_rows: 26
 not_held: 3
-record: b316d30ea986
+record: 6f9663fec9ed
 ---
 
 # News, Sep – Oct 2026
@@ -334,7 +334,7 @@ Mauritania's technical committee on rural land and developer plots in Nouakchott
 
 **[Propriété effective : règles et procédures de collecte, de vérification et d'utilisation des informations](http://www.fiti-mauritanie.mr/wp-content/uploads/2026/09/GMN-Mauritanie_-Resume-sur-la-propriete-effective_VF.pdf)** — Groupe multipartite national (GMN) de la Mauritanie, FiTI, 23 September 2026
 
-EITI multi-stakeholder group: BO register at commerce-court registry not public; none for fishing vessels or plants.
+Mauritania's national multi-stakeholder group summarises the rules on beneficial ownership under the Commercial Code and Decree 2021-033, which place the register with the commercial-court registries. The register is not public and is not systematically verified, and there is no beneficial-ownership record for fishing vessels or fish-processing plants.
 
 </div>
 

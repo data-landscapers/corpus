@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: NGA
 ledger_rows: 170
 not_held: 9
-record: 22493c181fa3
+record: b54a582ce4dd
 ---
 
 # News, Sep – Oct 2026
@@ -1238,7 +1238,7 @@ UAE-based Dolphin Telecoms signed a ten-year energy-as-a-service deal with Niger
 
 **[Airtel, Globacom, MTN face network quality probe](https://www.itweb.africa/article/airtel-globacom-mtn-face-network-quality-probe/JN1gP7OAQB6qjL6m)** — ITWeb Africa, 23 October 2026
 
-CEOs due 28 Oct; NCC counts 44,678 fibre cuts Jan-Sep 2026 and 23,954 site-access denials, 73% from insecurity.
+Nigeria's House of Representatives summoned the chief executives of MTN Nigeria, Airtel Nigeria and Globacom to appear before an ad hoc committee on 28 October 2026 over network quality, following an MTN outage in early October across several states and the capital. NCC figures put fibre cuts at 44,678 from January to September 2026, alongside 23,954 cases of denied site access, 73% of them attributed to insecurity.
 
 </div>
 
@@ -2164,7 +2164,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[BPP moves to digitalise procurement, tighten oversight of government spending](https://www.thepointng.com/bpp-moves-to-digitalise-procurement-tighten-oversight-of-government-spending/)** — ThePointNG, 3 September 2026
 
-BPP sets e-GP system and an online compliance and oversight platform at the centre of its reform programme.
+Nigeria's Bureau of Public Procurement told the 2026 BAVCCA/BPP Procurement Performance Conference in Abuja that its reform programme centres on an electronic government procurement system and an online platform for compliance and oversight. The bureau says the system will cut manual handling and give better data on how public money is spent.
 
 </div>
 
@@ -2172,7 +2172,7 @@ BPP sets e-GP system and an online compliance and oversight platform at the cent
 
 **[BPP to end physical bidding for govt contracts](https://dailytrust.com/bpp-to-end-physical-bidding-for-govt-contracts/)** — Daily Trust, 9 October 2026
 
-Bids to go fully online under e-GP; education submissions already on PCOMS; online community procurement to N30m.
+Nigeria's Bureau of Public Procurement plans to move federal bidding fully online through its e-GP system, so that contractors submit bids without meeting officials, its director-general said in Abuja. Submissions from the education ministry and federal universities already go through the PCOMS platform, and the bureau plans electronic audits of procuring agencies.
 
 </div>
 
@@ -2684,7 +2684,7 @@ Cascador and Sterling Bank announced the SME Credit Backstop, a planned USD 200 
 
 **[Nigeria's First Lady Lays Foundation for Abuja Innovation Hub](https://von.gov.ng/nigerias-first-lady-lays-foundation-for-abuja-innovation-hub/)** — Voice of Nigeria, 23 October 2026
 
-Foundation stone laid at Wuye for JICA-funded hub; NITDA also plans US$50m seed facility with NSIA.
+Nigeria's First Lady, Oluremi Tinubu, laid the foundation stone of the Renewed Hope Startup Hub in Wuye, Abuja, funded by a USD 10.4 million grant from Japan through JICA and intended for incubation, hardware prototyping and research. NITDA's director-general said the agency's programmes had supported more than 995 startups and created about 7,596 jobs over three years.
 
 </div>
 
@@ -2838,7 +2838,7 @@ Nigeria's Digital Bridge Institute has been designated an ITU Digital Transforma
 
 **[UNDP, Cisco Offer 50,000 Nigerian Graduates Free Digital Skills Training to Boost Job Prospects](https://opportunitieshub.ng/2026/10/21/undp-cisco-offer-50000-nigerian-graduates-free-digital-skills-training-to-boost-job-prospects/)** — Opportunities Hub, 21 October 2026
 
-Cisco values its NJFP training contribution above US$52.7m; 50,000 learners a year for three years.
+UNDP and Cisco signed a memorandum in Abuja giving up to 50,000 fellows and alumni of the Nigeria Jubilee Fellows Programme free access to Cisco Networking Academy courses. The programme is a federal youth-employability scheme funded by the European Union and run by UNDP; Cisco valued its contribution at more than USD 52.7 million.
 
 </div>
 

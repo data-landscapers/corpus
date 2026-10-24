@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: LSO
 ledger_rows: 20
 not_held: 4
-record: 1c8d7c53913a
+record: 94b7bfd28a53
 ---
 
 # News, Sep – Oct 2026
@@ -222,7 +222,7 @@ Lesotho's prime minister, Sam Matekane, told a public-private dialogue forum in 
 
 **[The Government of Lesotho Remains Committed to Strengthening Secure Data Exchange Across Government Institutions and Enhancing Service Delivery for Basotho](https://www.africa-newsroom.com/press/the-government-of-lesotho-remains-committed-to-strengthening-secure-data-exchange-across-government-institutions-and-enhancing-service-delivery-for-basotho?lang=en)** — Government of Lesotho (via APO Group), 21 October 2026
 
-Berea workshop 20-23 Oct 2026; MICSTI with UNICEF; ministries' readiness, child-service use cases, safeguards roadmap.
+Lesotho's ICT ministry and UNICEF held a workshop in Berea on 20-23 October 2026 to plan an X-Road pilot for the National Data Exchange. It assessed ministries' readiness, picked priority uses for child-focused services and set a roadmap with data-protection and child-rights safeguards.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: BFA
 ledger_rows: 47
 not_held: 7
-record: e45559800102
+record: 3d3542530cdb
 ---
 
 # News, Sep – Oct 2026
@@ -140,7 +140,7 @@ The telecoms regulators of Burkina Faso, Mali and Niger signed a convention crea
 
 **[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Company lists due 1 Jan 2027, data-flow technical unit by 31 Jan; 9 of 18 Bamako 2025 recommendations implemented.
+Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou on 15-16 October 2026, set 1 January 2027 for national company lists to support a regional identification code and 31 January for a technical unit to supervise interconnected customs data. Nine of the 18 recommendations from their 2025 meeting have been implemented, six are under way and three are outstanding.
 
 </div>
 
@@ -280,7 +280,7 @@ Burkina Faso recorded FCFA 906,123,245 in cybercrime losses in the first half of
 
 **[Le Faso Digital 2026 : L’adjudant-chef de gendarmerie Isaac Bouda dévoile les pièges des cyberescrocs et les moyens de s’en protéger](https://lefaso.net/spip.php?article150132=)** — leFaso.net, 22 October 2026
 
-BCLCC: 6,477 complaints and FCFA 2.23bn lost Jan-Sep 2026, above all of 2025; six fraud types named.
+Burkina Faso's central cybercrime brigade recorded 6,477 complaints and FCFA 2.23 billion in losses in the first nine months of 2026, more than in all of 2025, an investigator told the Le Faso Digital fair on 21 October. Complaints have risen from 556 in the brigade's first year, 2020, and mobile-money fraud and fake investment platforms are among the six scam types he named.
 
 </div>
 
@@ -428,7 +428,7 @@ Burkina Faso's Security Ministry opened biometric passport enrolment at the regi
 
 **[Compte rendu du Conseil des ministres (PP-G N°030-2026)](https://www.minute.bf/wp-content/uploads/2026/10/CONSEIL-DES-MINISTRES-N%C2%B030-DU-22-OCTOBRE-2026.pdf)** — Primature du Burkina Faso, 22 October 2026
 
-Civil-status data decree adopted 22 Oct 2026: civil-status identifier, e-archiving, online acts, interoperability.
+Burkina Faso's Council of Ministers adopted a decree on 22 October 2026 on computerised processing of civil-status data, a civil-status identifier and the interoperability of the civil-status system with other systems. Applying the 2025 Persons and Family Code, it provides for electronic archiving of registers and online delivery of certificates, with the identifier as the base of a national digital register.
 
 </div>
 
@@ -656,7 +656,7 @@ Burkina Faso's digital ministry reports 46.70% average physical execution of its
 
 **[Burkina : 75,9 % des marchés publics par procédures exceptionnelles en 2025](https://ouaganews.net/burkina-759-des-marches-publics-par-procedures-exceptionnelles-en-2025/)** — OuagaNews, 14 October 2026
 
-Exceptional procedures 75.9% of 2025 contract value against 15% target; e-Burkindi planning module piloted.
+Burkina Faso's 2025 public-finance report puts direct awards and restricted tenders at 75.9% of the value of ministries' contracts, up from 59.8% in 2024 against a ceiling of 15%, with open tenders down to 24.1%. Average payment time fell from 61 to 47 days, and the procurement-planning module of the e-Burkindi platform has been piloted with ministries.
 
 </div>
 

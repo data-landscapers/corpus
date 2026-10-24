@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: XAF
 ledger_rows: 117
 not_held: 3
-record: 114be4d35ed5
+record: 3a7dcabf298b
 ---
 
 # News, Sep – Oct 2026
@@ -458,7 +458,7 @@ African Union member states meeting in Addis Ababa on 4-5 June 2026 endorsed a P
 
 **[Déclaration de Yaoundé sur l'e-Gouvernance et l'Intelligence Artificielle en Afrique](https://e-gov.africa/wp-content/uploads/2026/10/Declaration-de-Yaounde-EGOVA-2026-OK.pdf)** — E-Gov'A (Smart Click Africa and Digital Business Africa), 17 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
-Conference declaration: Local First, African First; aim of 100% local hosting of critical public data by 2030.
+The Yaoundé Declaration, adopted on 17 October 2026 at the close of the E-Gov'A conference, is a non-binding statement by governments, institutions and companies under a "Local First, African First" approach to e-government and AI. It sets an aim of hosting all critical or sovereign public data locally by 2030 and creates an Observatory of e-Government and AI in Africa.
 
 </div>
 
@@ -742,7 +742,7 @@ Summarised under [Standards](#standards).
 
 **[AI Made in Africa: Voices from AI businesses across Africa — Executive summary](https://www.giz.de/sites/default/files/media/els-document/2026-09/executive-summary-ai-made-africa.pdf)** — Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, 1 September 2026
 
-Survey of 85 African AI firms: 65% name cloud and compute their top cost; USD 1.3bn raised 2014-2026.
+GIZ's survey of 85 African AI businesses, run from April to July 2026 alongside a mapping of 311 firms, finds that 65% name cloud and compute as their largest cost, while 56% price their products under USD 2,500 a year per customer. The firms mapped have raised USD 1.3 billion since 2014, at a median ticket of USD 225,000, and three in four respondents treat AI products as core to their business.
 
 </div>
 

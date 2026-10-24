@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-24
 place: TGO
 ledger_rows: 61
 not_held: 17
-record: 4caf63ef50e5
+record: 41b52316bf47
 ---
 
 # News, Sep – Oct 2026
@@ -646,7 +646,7 @@ Togo handed its SIHAM agricultural information system and five regional kiosks t
 
 **[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Company lists due 1 Jan 2027, data-flow technical unit by 31 Jan; 9 of 18 Bamako 2025 recommendations implemented.
+Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou on 15-16 October 2026, set 1 January 2027 for national company lists to support a regional identification code and 31 January for a technical unit to supervise interconnected customs data. Nine of the 18 recommendations from their 2025 meeting have been implemented, six are under way and three are outstanding.
 
 </div>
 
@@ -850,7 +850,7 @@ A Chadian delegation from the West African food system resilience programme visi
 
 **[DIGITALISATION AGRICOLE : LE TOGO ACCÉLÈRE LA TRANSFORMATION NUMÉRIQUE DE SON SECTEUR AGRICOLE - Ministère de l’Agriculture de la Pêche, des Ressources Animales et de la Souveraineté Alimentaire](https://agriculture.gouv.tg/digitalisation-agricole-le-togo-accelere-la-transformation-numerique-de-son-secteur-agricole/)** — Ministere de l'Agriculture du Togo, 22 October 2026
 
-ProDISA-Togo roadmap: subsidies, extension, finance and markets, farmer ID, grievances; World Bank review next.
+Togo's agriculture ministry held a World Bank-supported national consultation on digital public infrastructure for agriculture in Lomé on 12-13 October 2026 and set a first roadmap for its ProDISA-Togo project. The project is to bring the sector onto one central system around subsidies, extension advice, finance and markets, farmer identification and grievances, and goes next to the World Bank for comment.
 
 </div>
 
