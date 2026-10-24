@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "4",
+      "stage": "5",
       "system": "inservice",
       "endtoend": "endtoend",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-002;KEN-004",
-      "gaps": "No source held since October 2023 gives a figure for e-procurement.",
-      "note": "Rebuild: all government procurement goes through e-GP from 1 July 2026 (KEN-002), with no exemptions (KEN-004); no figure for its use is held.",
-      "as_at": "2026-10-23"
+      "stage_sources": "KEN-010;KEN-002",
+      "gaps": "The only figure held is 402 tenders uploaded by October 2025 (KEN-010), when none had been awarded through the system; no figure for value or share of purchasing is held.",
+      "note": "All government procurement goes through e-GP from 1 July 2026 (KEN-002), and 402 tenders were on it by October 2025 (KEN-010), a figure for e-procurement.",
+      "as_at": "2026-10-24"
     }
   ]
 }

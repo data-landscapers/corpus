@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-16-bwa-thevoicebw-citizen-cut-ppra",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "none",
+   "fact": "PPRA chief executive Tumelo Motsumi said in a December 2025 media briefing that the absence of an e-procurement system makes compliance monitoring expensive and inefficient, and that records are kept in a manual system.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Botswana public procurement (manual)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

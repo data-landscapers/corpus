@@ -2,12 +2,12 @@
 
 ## B2B and B2G functionality
 
-**E-procurement in service.** [The Herald reports the electronic Government Procurement (eGP) system, launched in October 2023, was in use by 31 March 2024, with PRAZ saying it automates bid submission, evaluation and communication](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>). [PRAZ chief executive Clever Ruswa says over 9,900 suppliers and over 380 procuring entities had registered on the eGP platform by 31 March 2024](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>). [The Herald reports PRAZ's electronic Government Procurement (e-GP) system became operational on 1 January 2024, with bidders submitting documents online](<https://www.heraldonline.co.zw/zimbabwes-new-e-government-procurement-system-revolutionises-public-procurement-process/>).
+**E-procurement in service.** [The Herald reports the eGP system, launched in October 2023, became operational on 1 January 2024 and lets all public entities and bidders run procurement electronically](<https://www.heraldonline.co.zw/egp-system-upgraded/>). [PRAZ said by March 2024 that it automates bid submission, evaluation and communication](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>). [PRAZ chief executive Clever Ruswa said over 9,900 suppliers and 380 procuring entities had registered by 31 March 2024](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>).
 
-**End to end.** No source held since October 2023 says e-procurement runs end to end or is required of all public bodies. The nearest held fact: [the one given above](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>).
+**End to end.** [PRAZ upgraded eGP to Phase 1.3 in early 2025, adding e-evaluation, e-award, e-contract management, framework agreements and management reports, for all public entities](<https://www.heraldonline.co.zw/egp-system-upgraded/>).
 
-**Use reported.** No source held since October 2023 gives a figure for e-procurement. The nearest held fact: [the one given above](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>).
+**Use reported.** No figure for tenders or value is held. The nearest held fact: [over 9,900 suppliers and 380 procuring entities registered on eGP by 31 March 2024](<https://www.heraldonline.co.zw/10-000-register-on-e-government-procurement-platform/>), a count of registrations rather than of tenders.
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says e-procurement runs end to end or is required of all public bodies.
+***Not held***. No figure for tenders, value or share of purchasing through eGP is held.

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "5",
+      "system": "inservice",
       "endtoend": "",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether government e-procurement is under way or in service. The decree instituting the e-portal (DJI-001) is dated February 2023.",
-      "note": "Rebuild: the decree instituting the procurement e-portal (DJI-001) is dated February 2023, outside the window, so it sets no rung.",
-      "as_at": "2026-10-23"
+      "stage_sources": "DJI-002;DJI-003",
+      "gaps": "Bids are not yet submitted online: electronic submission is planned for 2026-2028 and a whole-cycle platform for 2027. Nothing held says the portal is required of all public bodies within the window.",
+      "note": "The procurement portal publishes tenders and results (DJI-002) and was reported in October 2026 to list 1,300 published contracts and 1,227 awards (DJI-003); a figure counts without an end-to-end yes.",
+      "as_at": "2026-10-24"
     }
   ]
 }

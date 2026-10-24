@@ -2,11 +2,11 @@
 
 ## B2B and B2G functionality
 
-**E-procurement in service.** [TACD CARTENA says the finance ministry mandated it, with AfDB support under PAMFP, to design an electronic public procurement system (e-GP), prepare a readiness report and a roadmap](<https://www.tacdcartena.org/actualite/tacd-cartena-prepare-la-strategie-pour-la-mise-en-oeuvre-dun-systeme-electronique-de-passation-des-marches-en-guinee-equatoriale/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**E-procurement in service.** [Law 11/2025 of 12 December 2025 brings in GE Compras, an electronic procurement information system for submitting and evaluating bids, according to a law firm's January 2026 article, which does not say it is live](<https://jonesandsacristan.es/blog-single.php?id=72>). [TACD CARTENA says the finance ministry mandated it, with AfDB support, to design an e-GP system and prepare a readiness report and roadmap](<https://www.tacdcartena.org/actualite/tacd-cartena-prepare-la-strategie-pour-la-mise-en-oeuvre-dun-systeme-electronique-de-passation-des-marches-en-guinee-equatoriale/>).
 
-**End to end.** No source held since October 2023 says e-procurement runs end to end or is required of all public bodies. The nearest held fact: [the one given above](<https://www.tacdcartena.org/actualite/tacd-cartena-prepare-la-strategie-pour-la-mise-en-oeuvre-dun-systeme-electronique-de-passation-des-marches-en-guinee-equatoriale/>).
+**End to end.** No source held says e-procurement runs end to end or is required of all public bodies. The nearest held fact: [the 2025 public-sector contracts law that brings in GE Compras for electronic bids and their evaluation](<https://jonesandsacristan.es/blog-single.php?id=72>).
 
-**Use reported.** No source held since October 2023 gives a figure for e-procurement. The nearest held fact: [the one given above](<https://www.tacdcartena.org/actualite/tacd-cartena-prepare-la-strategie-pour-la-mise-en-oeuvre-dun-systeme-electronique-de-passation-des-marches-en-guinee-equatoriale/>).
+**Use reported.** No figure for e-procurement is held. The nearest held fact: [the finance ministry's mandate to design an e-GP system, with a readiness report and roadmap](<https://www.tacdcartena.org/actualite/tacd-cartena-prepare-la-strategie-pour-la-mise-en-oeuvre-dun-systeme-electronique-de-passation-des-marches-en-guinee-equatoriale/>).
 
 ***Noted, not assessed***. None held.
 

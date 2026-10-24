@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "2",
-      "system": "underway",
+      "stage": "3",
+      "system": "inservice",
       "endtoend": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-001",
-      "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-      "note": "Rebuild: NPPA is developing its own e-procurement system (SLE-001, August 2026); nothing is in service.",
-      "as_at": "2026-10-23"
+      "stage_sources": "SLE-002;SLE-004;SLE-005",
+      "gaps": "Electronic bid submission was still in pilot training in June 2026 (SLE-003). No source held says e-procurement runs to award or is required of all public bodies, and no figure is held.",
+      "note": "NPPA opened an e-GP portal with tender notices in January 2026 (SLE-004) and launched the bid publication module in July 2026 (SLE-002, SLE-005), so tenders are published online; bidding is not yet online.",
+      "as_at": "2026-10-24"
     }
   ]
 }

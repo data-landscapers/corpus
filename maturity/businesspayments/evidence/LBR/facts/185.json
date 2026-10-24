@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-06-lbr-an-overview-of-the-public-procurement-and-concessions-commission-ppcc",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Ministry of Information's PPCC overview says Liberia's e-GP system, launched in February 2025 with a pilot of six procuring entities, is fully functional.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "Electronic Government Procurement (e-GP) System",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The PPCC overview says the e-GP system has recorded 132 procurement transactions and registered 543 vendors.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "Electronic Government Procurement (e-GP) System",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Government Procurement (e-GP) System",
+   "country_label": "Liberia",
+   "class": "procurement",
+   "platform": "",
+   "owner": "PPCC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-01-tun-la-professionnalisation-de-la-commande-publique-en-tunisie",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The president of the national public procurement observatory (HAICOP) reports that 1,536 public buyers and 17,835 suppliers were registered on the TUNEPS online purchasing system in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "TUNEPS",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TUNEPS",
+   "country_label": "TUNEPS",
+   "class": "procurement",
+   "platform": "",
+   "owner": "HAICOP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-08-gnq-la-nueva-ley-de-contratos-del-sector-publico-en-guinea-ecuatorial-proc",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A law firm's article of 8 January 2026 says Law 11/2025 of 12 December 2025 brings in the GE Compras electronic procurement information system, which it says allows electronic submission and evaluation of bids, without stating that it is live.",
+   "as_of": "2026-01-08",
+   "date_precision": "day",
+   "system": "GE Compras",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GE Compras",
+   "country_label": "GE Compras (Sistema Electrónico de Información de Compras y Contratación Pública)",
+   "class": "procurement",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

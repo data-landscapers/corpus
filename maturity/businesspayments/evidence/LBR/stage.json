@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "4",
+      "stage": "5",
       "system": "inservice",
       "endtoend": "endtoend",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-004;LBR-002",
-      "gaps": "No source held since October 2023 gives a figure for e-procurement.",
-      "note": "Rebuild, raised from 2: three held stories on Liberia's e-GP, unread in the first pass, were read. The national system was launched in February 2025 and takes bids (LBR-002), with 56 entities onboarded (LBR-003), and runs from advertisement to award (LBR-004); its published counts are of vendors and fees, not tenders.",
-      "as_at": "2026-10-23"
+      "stage_sources": "LBR-011;LBR-015;LBR-004",
+      "gaps": "No figure for the share of government purchasing through e-GP is held; onboarding beyond the first 56 entities was under way in 2026.",
+      "note": "PPCC reported contracts worth US$12.2 million awarded through e-GP by September 2025 (LBR-015) and more than US$28 million by October 2025 (LBR-011), figures for e-procurement.",
+      "as_at": "2026-10-24"
     }
   ]
 }

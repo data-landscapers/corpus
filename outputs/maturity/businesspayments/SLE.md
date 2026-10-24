@@ -2,12 +2,12 @@
 
 ## B2B and B2G functionality
 
-**E-procurement in service.** [Sierra Leone's National Public Procurement Authority chief executive Fodie Konneh said it is continuing to develop its own e-procurement system and sent a delegation to Liberia to learn from Liberia's deployed e-GP system](<https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**E-procurement in service.** [The National Public Procurement Authority launched the Procurement Requisition and Bid Publication modules of the Salone e-GP System on 7 July 2026, putting procurement opportunities online](<https://sierraloaded.sl/news/nppa-unveils-new-salone-e-gp-modules/>). [It opened an online e-GP portal for supplier registration and tender notices in January 2026](<https://sierraloaded.sl/news/nppa-online-portal-modernize-public-procurement/>). [Its chief executive Fodie Konneh said the bid modules followed user management, supplier registration and procurement-planning modules](<https://sierraloaded.sl/news/nppa-afdb-review-public-procurement-reforms/>). [Training of pilot ministries on electronic bid submission began in June 2026](<https://sierraloaded.sl/news/nppa-training-to-advance-salone-e-gp-rollout/>).
 
-**End to end.** No source held since October 2023 says e-procurement runs end to end or is required of all public bodies. The nearest held fact: [the one given above](<https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html>).
+**End to end.** No source held says e-procurement runs end to end or is required of all public bodies. The nearest held fact: [electronic bid submission is in pilot training](<https://sierraloaded.sl/news/nppa-training-to-advance-salone-e-gp-rollout/>).
 
-**Use reported.** No source held since October 2023 gives a figure for e-procurement. The nearest held fact: [the one given above](<https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html>).
+**Use reported.** No figure for e-procurement is held. The nearest held fact: [the July 2026 launch of bid publication](<https://sierraloaded.sl/news/nppa-unveils-new-salone-e-gp-modules/>).
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: is an e-procurement system in service.
+***Not held***. Nothing held says bids are taken online across government, or gives a figure for e-GP.

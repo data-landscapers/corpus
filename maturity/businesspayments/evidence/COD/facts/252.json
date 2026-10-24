@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-cod-drc-moves-to-expand-public-procurement-access-for-msmes-and-start-ups",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Ecofin Agency says DRC authorities have begun digitizing procurement through SIGMAP, an electronic platform launched in August 2022 whose rollout faced delays, with a shared services centre launched in June 2026; it does not say tenders are bid online.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "SIGMAP (Integrated Public Procurement Management System)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGMAP",
+   "country_label": "DRC",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,business,system,coverage,underway,2026-03-17,SDN-001,,
+SDN,business,system,coverage,inservice,2025-11,SDN-002,SDN-001=underway,
 SDN,business,endtoend,coverage,,,,,nothing held
 SDN,business,reported,coverage,,,,,nothing held

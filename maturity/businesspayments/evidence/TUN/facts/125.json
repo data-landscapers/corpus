@@ -1,0 +1,46 @@
+{
+ "slug": "2023-11-03-tun-arp-commission-administration-audition-e-administration",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Government representatives told parliament's administration committee that the public procurement system is online, with more than 27,700 bids registered online and 15,500 suppliers and contractors.",
+   "as_of": "2023-11-03",
+   "date_precision": "day",
+   "system": "online public procurement system (TUNEPS)",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "Government representatives said the online public procurement system was adopted gradually from 2012 to 2014, tested, then made general and compulsory for all ministries and public institutions in 2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "online public procurement system (TUNEPS)",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Government representatives gave a figure of more than 27,700 bids registered on the online public procurement system, with 15,500 suppliers and 1,441 public buyers registered.",
+   "as_of": "2023-11-03",
+   "date_precision": "day",
+   "system": "online public procurement system (TUNEPS)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "online public procurement system (TUNEPS)",
+   "country_label": "Tunisia",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Presidency of the Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

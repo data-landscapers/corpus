@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-sdn-first-electronic-tender-for-medical-supplies-since-the-war-draws-67-co",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Sudan Nabaa reports the National Medical Supplies Fund announced the successful first electronic tender for medicines and medical consumables since the war, with 67 companies competing of 99 that bought the documents.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "NMSF electronic procurement system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NMSF electronic procurement system",
+   "country_label": "National Medical Supplies Fund",
+   "class": "procurement",
+   "platform": "",
+   "owner": "National Medical Supplies Fund",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of tenders, value or share of purchasing is given."
+}

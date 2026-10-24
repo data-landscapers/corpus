@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-23-gha-icn-finance-ministry-ghaneps-mandatory-from-2026",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Public Procurement Authority's chief executive says tenders are submitted online through GHANEPS, with manual tender submissions to be phased out.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "GHANEPS",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The Public Procurement Authority board chairman says utilisation of GHANEPS is about 45%.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "GHANEPS",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GHANEPS",
+   "country_label": "Ghana",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Public Procurement Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

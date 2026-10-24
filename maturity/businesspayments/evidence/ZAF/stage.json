@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "3",
+      "stage": "5",
       "system": "inservice",
       "endtoend": "",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-002",
-      "gaps": "No source held since October 2023 says e-procurement runs end to end or is required of all public bodies; the 2022 mandate to publish on the e-Tender Portal is outside the window.",
-      "note": "Rebuild, lowered from 5: organs of state publish tenders on eTenders (ZAF-002, 2024). The MAPS figures are shares of organs of state publishing (ZAF-003), not tenders, value or share of purchasing, and the mandate to publish (ZAF-004) dates from 2022, outside the window.",
-      "as_at": "2026-10-23"
+      "stage_sources": "ZAF-005;ZAF-007",
+      "gaps": "Treasury said in October 2025 that procurement is still largely paper based, with a fully automated end-to-end tendering solution due by 2027/28 (ZAF-008), against the September 2026 deck listing eTenders functions through award (ZAF-006); end to end is not settled.",
+      "note": "National Treasury's September 2026 deck gives eTenders an average of 3,300 tenders and 1,800 awards a month (ZAF-007), a figure for e-procurement, with online bid submission (ZAF-005).",
+      "as_at": "2026-10-24"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "5",
+      "system": "inservice",
       "endtoend": "",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether government e-procurement is under way or in service. Every row is dated 2021 or earlier.",
-      "note": "Rebuild: every row (TUN-001 to TUN-008) is dated 2021 or earlier, outside the window, so none sets a rung.",
-      "as_at": "2026-10-23"
+      "stage_sources": "TUN-010;TUN-012",
+      "gaps": "The mandate that all ministries and public bodies use TUNEPS is dated 2019 (TUN-011), outside the window. No figure for value or share of purchasing is held.",
+      "note": "Government representatives told parliament in November 2023 that the online procurement system had taken more than 27,700 bids (TUN-010, TUN-012), a figure for e-procurement.",
+      "as_at": "2026-10-24"
     }
   ]
 }

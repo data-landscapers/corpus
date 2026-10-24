@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-03-lby-attaat-platform-statistics-july-2025",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The General Information Authority says 189 government entities published tenders through the Attaat platform, the official platform for managing government tenders and purchases, in July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Attaat",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The General Information Authority reports 626 tenders were announced on the Attaat platform during July 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Attaat",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Attaat",
+   "country_label": "Attaat (attaat.pm.gov.ly)",
+   "class": "procurement",
+   "platform": "",
+   "owner": "National Unity Government / General Information Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

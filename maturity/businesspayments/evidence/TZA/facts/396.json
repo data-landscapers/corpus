@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-15-tza-nest-to-tackle-payment-delays-for-tenderers-ppra-tells-parliamentary-c",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "PPRA Director General Dennis Simba told Parliament's Public Accounts Committee that the National e-Procurement System of Tanzania (NeST) now comprises six modules: e-registration, e-tendering, e-contract management, e-complaints, e-auction and e-payment.",
+   "as_of": "2026-02-13",
+   "date_precision": "day",
+   "system": "NeST",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "Dennis Simba of PPRA said that through the e-payment module procuring entities can conduct the entire procurement process within NeST up to and including payment, with integration to government payment platforms done and the budget-system link being finalised.",
+   "as_of": "2026-02-13",
+   "date_precision": "day",
+   "system": "NeST",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NeST",
+   "country_label": "Tanzania",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Public Procurement Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

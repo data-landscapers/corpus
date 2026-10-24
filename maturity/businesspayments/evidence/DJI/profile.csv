@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DJI,business,system,coverage,inservice,2023-02-14,DJI-001,,nothing dated since 2023-10-18
+DJI,business,system,coverage,inservice,2026-10-22,DJI-001;DJI-002,,
 DJI,business,endtoend,coverage,,,,,nothing held
-DJI,business,reported,coverage,,,,,nothing held
+DJI,business,reported,coverage,reported,2026-10-22,DJI-003,,

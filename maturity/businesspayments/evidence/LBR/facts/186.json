@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-24-lbr-liberian-companies-benefit-contracts-valued-over-us-12-million",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "PPCC executive director Bodger Scott Johnson said on 2025-09-23 that the e-GP system, launched in February 2025, runs all procurement of six government entities, with 50 more to be onboarded by the next fiscal year.",
+   "as_of": "2025-09-23",
+   "date_precision": "day",
+   "system": "e-Government Procurement (e-GP) System",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "PPCC executive director Bodger Scott Johnson said contracts worth US$12,219,000 had been awarded through the e-GP system, including 27 by the Liberia Revenue Authority, 19 by Public Works, 17 by PPCC, 10 by Finance and 7 by Education.",
+   "as_of": "2025-09-23",
+   "date_precision": "day",
+   "system": "e-Government Procurement (e-GP) System",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Government Procurement (e-GP) System",
+   "country_label": "Liberia",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Public Procurement and Concessions Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

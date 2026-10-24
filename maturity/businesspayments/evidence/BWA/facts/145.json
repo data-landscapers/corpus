@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-04-bwa-dailynews-tax-reforms-e-vat-invoicing",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "none",
+   "fact": "Finance Minister Ndaba Gaolathe told Parliament that the manual procurement system would be substituted with an e-procurement procedure, and Public Procurement Regulatory Authority IT systems would be developed.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

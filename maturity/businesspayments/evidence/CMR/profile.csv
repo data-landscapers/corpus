@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,business,system,coverage,inservice,2025-11,CMR-001;CMR-004,,
-CMR,business,endtoend,coverage,endtoend,2025-11,CMR-002,,
-CMR,business,reported,coverage,reported,2025-11,CMR-003,,
+CMR,business,system,coverage,inservice,2025-11,CMR-001;CMR-004;CMR-005;CMR-007,,
+CMR,business,endtoend,coverage,endtoend,2025-11,CMR-002;CMR-006,,
+CMR,business,reported,coverage,reported,2025-11,CMR-003;CMR-008,,

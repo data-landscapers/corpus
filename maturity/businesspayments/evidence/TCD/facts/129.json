@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-25-tcd-wearetech-nguilin-world-bank-digital-strategy",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "We are Tech reports the World Bank, which already funds Chad's Digital Transformation Support Project, offered to go beyond its e-procurement support to an integrated digital platform for public services (meeting of 24 April 2025).",
+   "as_of": "2025-04-24",
+   "date_precision": "day",
+   "system": "e-procurement (World Bank-supported)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

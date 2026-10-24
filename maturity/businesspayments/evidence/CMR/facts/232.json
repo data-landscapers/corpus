@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-24-cmr-dematerialising-public-contracts-procedures-merits-of-e-procurement-sy",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Minister Delegate for Public Contracts says the COLEPS platform, whose second version was launched on 25 June 2025, handles tender notices and online bid submission for public contracts.",
+   "as_of": "2025-06-25",
+   "date_precision": "day",
+   "system": "COLEPS",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "endtoend",
+   "value": "endtoend",
+   "fact": "The Cameroon Tribune says COLEPS runs the whole public contracts process from tender notice to monitoring of contract execution, and a 27 December 2024 ministerial order makes exclusive electronic award compulsory from the 2027 financial year, regional and local authorities included.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "COLEPS",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "COLEPS",
+   "country_label": "Cameroon Online E-Procurement System",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Public Contracts",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

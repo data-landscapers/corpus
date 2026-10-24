@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "endtoend": "",
+      "endtoend": "endtoend",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-003;ZWE-001",
-      "gaps": "No source held since October 2023 says e-procurement runs end to end or is required of all public bodies.",
-      "note": "Rebuild: eGP has taken bids online since January 2024 (ZWE-003, ZWE-001); its counts are of registrations, not tenders, and nothing held says it is required of all bodies.",
-      "as_at": "2026-10-23"
+      "stage_sources": "ZWE-005;ZWE-004",
+      "gaps": "Its held counts are of registrations, not tenders, value or share of purchasing.",
+      "note": "PRAZ upgraded eGP in early 2025 to run e-evaluation, e-award and e-contract management (ZWE-005), for all public entities (ZWE-004); no figure for its use is held.",
+      "as_at": "2026-10-24"
     }
   ]
 }

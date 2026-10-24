@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-14-bfa-ouaganews-marches-publics-procedures-exceptionnelles-2025",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "OuagaNews, citing the 2025 public-finance report of the economy and finance ministry, says the planning module for the procurement plan was fully configured on the E-Burkindi platform and piloted with ministries and institutions in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "E-Burkindi",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Burkindi",
+   "country_label": "Burkina Faso",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

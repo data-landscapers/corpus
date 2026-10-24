@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-22-dji-rtd-colloque-commande-publique-dikhil-e-procurement",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The state broadcaster RTD reported that the electronic public procurement portal, launched in May 2023, publishes tenders and results, lets users consult files and gives access to the procurement commission's annual reports.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Portail électronique des marchés publics",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "RTD reported that since 2021 the electronic procurement portal lists 1,300 published contracts and 1,227 recorded awards.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Portail électronique des marchés publics",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Portail électronique des marchés publics",
+   "country_label": "Electronic public procurement portal",
+   "class": "procurement",
+   "platform": "portal",
+   "owner": "Commission nationale des marchés publics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-10-cmr-passation-en-ligne-des-marches-publics-les-maitres-d-ouvrages-appeles",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Cameroon Tribune reports that the Minister of Public Contracts's communique of 7 April 2025 requires certain contracting authorities to pass all their contracts electronically through the Coleps platform, under an order of 27 December 2024 setting the migration calendar.",
+   "as_of": "2025-04-07",
+   "date_precision": "day",
+   "system": "Cameroon Online e-Procurement System (Coleps)",
+   "class": "procurement"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "More than 8,143 public contracts worth 1,745 billion FCFA were programmed and published on Coleps for 2025 by January 2025, against 7,372 in 2024, the article says.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Cameroon Online e-Procurement System (Coleps)",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cameroon Online e-Procurement System (Coleps)",
+   "country_label": "Coleps",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Ministry of Public Contracts",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
