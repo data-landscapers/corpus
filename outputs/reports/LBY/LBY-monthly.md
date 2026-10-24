@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: LBY
-ledger_rows: 41
+ledger_rows: 43
 not_held: 4
-record: 97fe77ccfcaf
+record: b8d0c6354ec2
 ---
 
 # News, Sep – Oct 2026
@@ -360,6 +360,20 @@ Libya's Attorney General's Office ordered two National Oil Corporation officials
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Order isolating government systems running on PHP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Libya’s GNU orders immediate shutdown of government systems over critical cybersecurity vulnerabilities](https://libyaobserver.ly/news/libyas-gnu-orders-immediate-shutdown-government-systems-over-critical-cybersecurity)** — The Libya Observer, 22 October 2026
+
+Cabinet circular cites NSA warnings of two critical flaws; affected systems isolated pending security updates.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -674,6 +688,8 @@ Summarised under [Energy](#energy).
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#research-institutions">Research institutions</a>
 </nav>
 
 ### Training and skills
@@ -687,6 +703,22 @@ Summarised under [Energy](#energy).
 **[الإعلان في طرابلس عن إطلاق مبادرة (وَصْل) للتمكين الرقمي والذكاء الاصطناعي بقطاع الشؤون الاجتماعية](https://lana.gov.ly/post.php?id=367274&lang=ar)** — Libyan News Agency (WAL), 10 October 2026
 
 Libya's Ministry of Social Affairs and the Minister of State for Digital Economy and Artificial Intelligence signed a memorandum launching the Wasl initiative at the Libya AI Forum in Tripoli on 10 October 2026. It has two tracks: digital and AI skills for social affairs staff, and digital access for persons with disabilities. No budget or timetable is given.
+
+</div>
+
+</div>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National programme of Libyan experts in the digital economy and AI</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#اتفاقية_وتعاون](https://www.aonsrt.ly/2026/10/21/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9_%d9%88%d8%aa%d8%b9%d8%a7%d9%88%d9%86/)** — Libyan Authority for Scientific Research and Technology, 21 October 2026
+
+MoU with digital economy and AI ministry: national expert programme and database, annual forum, joint team.
 
 </div>
 

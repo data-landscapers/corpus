@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-10-23
+compiled: 2026-10-24
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 248
+sources_cited: 250
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -258,7 +258,7 @@ The digital ministry's own spending has failed an audit. [The Cour des Comptes e
 
 Individual services keep arriving ahead of the governance around them. [The national police opened a free public reporting platform on 28 July 2026 that treats online harassment, non-consensual image sharing, sextortion, disclosure of personal data and AI-falsified content as reportable categories alongside physical, psychological, sexual and economic gender-based violence, and covers the disappearance of children, adults and people with albinism](https://midi-madagasikara.mg/police-nationale-une-plateforme-numerique-pour-signaler-les-violences-et-les-disparitions/); [it was built in-house by the police's information-systems directorate, runs on the web and an Android app in Malagasy and French and accepts anonymous reports with a tracking reference, yet the launch named no data controller, no retention rule and no supervisory authority for the sensitive personal data it collects](https://midi-madagasikara.mg/police-nationale-une-plateforme-numerique-pour-signaler-les-violences-et-les-disparitions/). Elsewhere [the higher-education ministry has put its habilitation, accreditation and equivalence platform into service with real-time file tracking](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/), [a redesign of the e-GP electronic public-procurement system was tendered in August 2025](https://digital.gov.mg/2025/08/14/avis-demande-propositions-egp/), and [equipment for digitalised building-permit authorisation went to 38 Greater Antananarivo communes](https://www.produir-madagascar.mg/remise-des-materiels-informatiques-et-techniques-dans-le-cadre-de-matac-hanorina-phase-2/). [The citizen services portal Torolalana reaches only the minority of citizens with internet access, and a channel to deliver services through post offices is under development](https://public.digital/pd-insights/client-stories/madagascar-advancing-digital-transformation), and [PRODIGY's own headline count of users of improved digital services is dominated by exam-results consultations](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt).
 
-[The tax directorate launched the Torohy platform on 9 October 2026 for the public to report corruption and related offences in the tax administration; the head of state asked for the same mechanism at customs and the treasury](https://www.lexpress.mg/2026/10/lutte-contre-la-corruption-le-colonel.html).
+[The tax directorate launched the Torohy platform on 9 October 2026 for the public to report corruption and related offences in the tax administration; the head of state asked for the same mechanism at customs and the treasury](https://www.lexpress.mg/2026/10/lutte-contre-la-corruption-le-colonel.html). Procurement is recorded on the SIGMP system, in use since 2017, on which [only 150 of 2,014 contracting entities declared their 2022 contracts](https://newsmada.com/2025/04/10/analyse-des-marches-publics-2021-2022-seules-150-sur-2-014-entites-ont-fait-leur-declaration/), while [the electronic procurement system is being rebuilt, its first iteration due to go live in 2026](https://prea.gov.mg/banque-mondiale/%f0%9d%97%b2-%f0%9d%97%9a%f0%9d%97%bc%f0%9d%98%83%f0%9d%97%b2%f0%9d%97%bf%f0%9d%97%bb%f0%9d%97%ba%f0%9d%97%b2%f0%9d%97%bb%f0%9d%98%81-%f0%9d%97%a3%f0%9d%97%bf%f0%9d%97%bc%f0%9d%97%b0%f0%9d%98%82/).
 
 ## Digitalisation
 

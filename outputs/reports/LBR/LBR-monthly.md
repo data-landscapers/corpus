@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: LBR
-ledger_rows: 37
+ledger_rows: 38
 not_held: 6
-record: a63db2d8c5e3
+record: 1b21ecaee32d
 ---
 
 # News, Sep – Oct 2026
@@ -251,10 +251,28 @@ Ten Liberian civil society organisations, including CENTAL and the Liberia Equal
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
+
+### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G network services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Orange Liberia Launches 5G as Liberia’s First Provider](https://techafricanews.com/2026/10/23/orange-liberia-launches-5g-as-liberias-first-provider/)** — Tech Africa News, 23 October 2026
+
+Orange Liberia launched 5G and presented itself as the country's first 5G provider. It gave no coverage areas, service packages or rollout scale.
+
+</div>
+
+</div>
 
 ### Data Storage
 

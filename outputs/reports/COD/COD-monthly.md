@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: COD
-ledger_rows: 63
+ledger_rows: 66
 not_held: 7
-record: 93062d6be2c2
+record: 8a7cb41724b1
 ---
 
 # News, Sep – Oct 2026
@@ -76,6 +76,14 @@ The Democratic Republic of Congo's Council of Ministers on 11 September 2026 ado
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[RDC : le Sénat ratifie à l’unanimité l’ordonnance-loi portant organisation de l’activité statistique](https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite)** — Actualite.cd, 22 October 2026
+
+Ordonnance-loi 26/015 of 7 Sept 2026; 73 of 109 senators vote, none against; 95 articles; USD 192m budget estimate.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -129,6 +137,20 @@ Alfred Dibandi Nzondomyo, a national deputy in the Democratic Republic of Congo,
 **[DRC Senate Considers Social Media Ban for Children Under 13](https://www.wearetech.africa/en/fils-uk/news/tech/drc-senate-considers-social-media-ban-for-children-under-13)** — We Are Tech, 1 October 2026
 
 The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Yvan Kazadi Kankonde amending the 2023 Digital Code to bar children under 13 from opening social media accounts. Those aged 13 to 15 would need verifiable parental consent, and platforms would have to verify age. The bill has gone to committee and is not law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill revising the public procurement law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DRC Moves to Expand Public Procurement Access for MSMEs and Start-Ups](https://www.ecofinagency.com/news-services/0110-59397-drc-moves-to-expand-public-procurement-access-for-msmes-and-start-ups)** — Ecofin Agency, 1 October 2026
+
+Cabinet adopts bill replacing Law 10/010 of 2010 on 30 Sept 2026; paperless procedures, wider MSME access.
 
 </div>
 
@@ -708,6 +730,20 @@ The DRC's land affairs minister said implementation of the December 2025 land la
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beneficial ownership register (RBE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ITIE-RDC Données et Divulgation Systématique](https://www.itierdc.net/donnees/)** — ITIE-RDC, 23 October 2026
+
+Beneficial ownership register under Loi 25/048 and an arrêté of 8 July 2026; 54 companies, 202 owners listed, public API.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -1129,6 +1165,20 @@ The Democratic Republic of Congo is vesting its geological data in the state and
 **[Regulation of the mineral and raw materials sector in the DRC: measures to expand state control and ensure the preservation of geological data](https://the-port-brief.co.tz/article/regulation-of-the-mineral-and-raw-materials-sector-in-the-drc-measures-to-expand-state-control-and-ensure-the-preservation-of-geological-data)** — The Port Brief, 13 September 2026
 
 DR Congo is building a national bank of geological data on critical minerals through its geological service SGNC, which signed a US$180 million mapping contract with Spain's Xcalibur in January 2026, its director Raoul Wazenga Vitima told Reuters. The bank is due to be fully operational by the end of 2026. Basic data will be free and more sensitive datasets charged for; the fee structure is not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITIE-RDC extractive-industry data portal</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[ITIE-RDC Données et Divulgation Systématique](https://www.itierdc.net/donnees/)** — ITIE-RDC, 23 October 2026
+
+Summarised under [Registries](#registries).
 
 </div>
 

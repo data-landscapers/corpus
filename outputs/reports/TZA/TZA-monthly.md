@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 place: TZA
-ledger_rows: 81
+ledger_rows: 82
 not_held: 5
-record: d236a1a022d9
+record: 5bc70f11b1b5
 ---
 
 # News, Sep – Oct 2026
@@ -639,6 +639,20 @@ Tanzania's home affairs minister said 6,308 national identity cards printed for 
 **[NIDA yako kuwa 'JAMII NAMBA', huduma 9 kuunganishwa](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047)** — Nipashe (IPP Media), 17 September 2026
 
 The director-general of Tanzania's National Identification Authority (NIDA), James Kaji, said in Dar es Salaam on 16 September 2026 that the national ID will be linked to nine services instead of the current four. Planned links include birth certificates, health insurance, taxpayer numbers, driving licences and blood group. No timetable or cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National identity register coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIDA produces 23,718,060 Identification numbers , 21,526,594 national identity cards for Tanzanians - Daily News](https://dailynews.co.tz/nida-produces-23718060-identification-numbers-21526594-national-identity-cards-for-tanzanians/)** — Daily News (Tanzania), 22 October 2026
+
+Report to Bunge security committee, Oct 2026; 152 institutions linked to NIDA database, 24 system modules upgraded.
 
 </div>
 

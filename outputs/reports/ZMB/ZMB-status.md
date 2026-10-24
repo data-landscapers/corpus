@@ -1,12 +1,12 @@
 ---
 title: Zambia: status report
-compiled: 2026-10-23
+compiled: 2026-10-24
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 190
+sources_cited: 191
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -363,7 +363,7 @@ The pattern repeats: documentation of the systems government runs — financial 
 
 What is published, the Open Data Inventory scores low across the board. [No category in Zambia's 2024 assessment scores above 6 out of 10: balance of payments, price indexes and population and vital statistics each reach 6, and agriculture 5.5](https://odin.opendatawatch.com/data). [Five of the 23 categories score zero — money and banking, the digital economy, energy, pollution, and crime and justice](https://odin.opendatawatch.com/data), so neither the digital sector nor the justice system publishes open national data about itself. [Core economic statistics sit low: international trade 5, national accounts and labour 4 each, government finance 3](https://odin.opendatawatch.com/data). [Social statistics are weaker still: education and health facilities 4 each, education outcomes, health outcomes, food security and reproductive health 3.5 each, and gender statistics 3](https://odin.opendatawatch.com/data): the categories a targeted service-delivery programme would draw on are the least available.
 
-What publication happens is departmental: [the Bank of Zambia issues an annual report on the national payment systems](https://www.boz.zm/payment-systems-annual-reports.htm), and [the finance ministry, the statistics agency and UNICEF launched a national research repository in September 2026, bringing research and evaluations previously held in hard copy or scattered across institutions onto one platform](https://efficacynews.africa/2026/09/17/finance-ministry-zamstats-and-unicef-launch-national-research-repository/), with no count of holdings or licence terms stated.
+What publication happens is departmental: [the Bank of Zambia issues an annual report on the national payment systems](https://www.boz.zm/payment-systems-annual-reports.htm), and [the finance ministry, the statistics agency and UNICEF launched a national research repository in September 2026, bringing research and evaluations previously held in hard copy or scattered across institutions onto one platform](https://efficacynews.africa/2026/09/17/finance-ministry-zamstats-and-unicef-launch-national-research-repository/), with no count of holdings or licence terms stated. The procurement authority [says it has adopted the Open Contracting Data Standard and publishes contract awards by spend category](https://www.zppa.org.zm/documents/20182/279062/ZPPA+NEWSLETTER+-+JUL-+DEC+2024.pdf/ff3157f4-2562-4472-b355-368724c6173f) (December 2024).
 
 ### Use of satellite data
 <!-- data.satellite -->
