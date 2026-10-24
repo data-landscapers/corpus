@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-24 02:16 · **BUILD** · 1h04m · catalogue 32,797; 505 sources, 58 moved, 123 minted, 102 status sections revised; data centres 17, 5 modified; maturity 1,499 read, 239 facts, 29 stages moved; bulletin 26; register 11; 4 rulings messaged - ok
 2026-10-24 02:15 · **BUDGET-EXTRACT** · unclocked · KEN FY2025-26: the Digital Health Authority held at gross under the own-source treatment (294.2m and 191.7m, was net 70m and 65m)
 2026-10-24 02:14 · **BUDGET-EXTRACT** · unclocked · BWA FY2024: the communications regulator held from its own accounts, BWP 192.6m actual (BOCRA Annual Report 2025, now catalogued)
 2026-10-24 02:12 · **BUDGET-EXTRACT** · unclocked · NAM FY2026 mid-year review statement: nil (17 reallocations by vote, none digital; the Appropriation Amendment Bill is not held)
