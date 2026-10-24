@@ -1,0 +1,217 @@
+{
+ "schema": 3,
+ "written_utc": "2026-10-24 00:06",
+ "pass": "sweep cycle",
+ "head": "600cf699cb6fed26078793ceb714fe84a8c17158",
+ "head_committed_utc": "2026-10-24 00:06",
+ "collection": {
+  "last_admission": "2026-10-23 22:39",
+  "sweep_closed": "2026-10-23 20:11",
+  "ingest_started": "2026-10-23 20:13"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-10-23 19:42",
+   "end": "2026-10-24 00:53",
+   "duration": "5:11",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 774,
+  "admitted": 500,
+  "dropped": 267,
+  "screened": 770,
+  "screen_dropped": 612,
+  "pages_over_line": 344,
+  "awaiting_ingest": 0,
+  "raw_sources": 32797
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-10-23 18:40",
+   "seven_day": 79.0,
+   "five_hour": 0.0
+  },
+  "sweep": {
+   "time_utc": "2026-10-23 19:11",
+   "seven_day": 80.0,
+   "five_hour": 4.0
+  },
+  "ingest": {
+   "time_utc": "2026-10-23 21:44",
+   "seven_day": 88.0,
+   "five_hour": 32.0
+  },
+  "lint": {
+   "time_utc": "2026-10-23 23:52",
+   "seven_day": 93.0,
+   "five_hour": 6.0
+  },
+  "close": {
+   "time_utc": "2026-10-23 23:54",
+   "seven_day": 93.0,
+   "five_hour": 6.0
+  },
+  "rules": {
+   "time_utc": "2026-10-24 00:06",
+   "seven_day": 93.0,
+   "five_hour": 6.0
+  },
+  "end": {
+   "time_utc": "2026-10-24 00:06",
+   "seven_day": 93.0,
+   "five_hour": 6.0
+  }
+ },
+ "drops": {
+  "night": "2026-10-23",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 32,
+    "ingest_drop_rate": 0.0
+   },
+   "corpus-queue": {
+    "sweep": {},
+    "ingest": {
+     "already-seen": 3,
+     "off-place": 1
+    },
+    "admitted": 4,
+    "ingest_drop_rate": 0.5
+   },
+   "country-deep": {
+    "sweep": {
+     "already-seen": 72,
+     "off-topic": 49,
+     "no-development": 19,
+     "already-held": 13,
+     "out-of-window": 9,
+     "headline-only-stub": 8,
+     "inadmissible-origin": 6,
+     "syndicated-copy": 5,
+     "fetch-blocked": 2,
+     "off-place": 1
+    },
+    "ingest": {
+     "already-held": 31,
+     "no-value": 12,
+     "off-topic": 6,
+     "no-development": 5,
+     "syndicated-copy": 2,
+     "already-seen": 1
+    },
+    "admitted": 57,
+    "ingest_drop_rate": 0.5
+   },
+   "daily": {
+    "sweep": {
+     "already-seen": 61,
+     "no-development": 32,
+     "off-topic": 20,
+     "already-held": 6,
+     "off-place": 6
+    },
+    "ingest": {
+     "already-held": 6,
+     "no-value": 2,
+     "no-development": 1
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.562
+   },
+   "financiers": {
+    "sweep": {
+     "off-topic": 12,
+     "already-seen": 9,
+     "already-held": 5,
+     "fails-record-test": 4,
+     "no-development": 3,
+     "inadmissible-origin": 2,
+     "out-of-window": 2,
+     "syndicated-copy": 2,
+     "date-unestablished": 1,
+     "headline-only-stub": 1,
+     "url-dead": 1
+    },
+    "ingest": {
+     "already-held": 4,
+     "no-development": 3,
+     "off-topic": 3,
+     "no-value": 1
+    },
+    "admitted": 6,
+    "ingest_drop_rate": 0.647
+   },
+   "maturity-study-broadbandstrategy": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 35,
+     "no-value": 17,
+     "inadmissible-origin": 4,
+     "no-development": 3,
+     "already-seen": 1,
+     "headline-only-stub": 1,
+     "off-topic": 1
+    },
+    "admitted": 82,
+    "ingest_drop_rate": 0.431
+   },
+   "maturity-study-businesspayments": {
+    "sweep": {},
+    "ingest": {
+     "no-development": 21,
+     "already-held": 17,
+     "no-value": 15,
+     "inadmissible-origin": 7,
+     "off-topic": 5
+    },
+    "admitted": 133,
+    "ingest_drop_rate": 0.328
+   },
+   "maturity-study-businessregister": {
+    "sweep": {},
+    "ingest": {
+     "no-development": 25,
+     "no-value": 20,
+     "already-held": 14,
+     "inadmissible-origin": 2
+    },
+    "admitted": 159,
+    "ingest_drop_rate": 0.277
+   },
+   "off-list": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 1,
+     "no-value": 1
+    },
+    "admitted": 4,
+    "ingest_drop_rate": 0.333
+   },
+   "reconcile": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 3,
+    "ingest_drop_rate": 0.0
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 1192,
+  "since": "2026-10-23 18:18"
+ }
+}
