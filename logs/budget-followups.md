@@ -42,3 +42,4 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
+- **NAM FY2026** — statement as-stated already held — read it for a revision: [[2026-10-22-nam-fy2026-27-mid-year-budget-review-statement-v5-wv-companion]] (queued 2026-10-24).
