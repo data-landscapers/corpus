@@ -6,8 +6,8 @@
 
 **Between providers.** [The Bank of Ghana reports mobile money interoperability in August 2026 at 35.7 million transactions worth GHC 6.5 billion](<https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf>). [The analyst says Ghana has built real-time interoperable payments, naming GhIPSS and Ghana.gov](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf>).
+**National switch.** [The Bank of Ghana's head of fintech described GhIPSS in October 2026 as the national interoperable payment infrastructure linking banks and mobile money operators](<https://channelonenewsonline.com/2026/10/22/bank-of-ghana-pushes-for-seamless-african-cross-border-payments/>).
 
 ***Noted, not assessed***. [Visa Accept](<https://currentissuesonline.com/access-bank-visa-launch-first-cemea-visa-accept-market-in-ghana/>); [FICSOC](<https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf>); [e-cedi](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>); [Digital Credit Service Providers Directive](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>); [Ghana.gov](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not held***. Nothing on the three questions is missing.

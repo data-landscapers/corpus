@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-23-nga-nin-cac-number-to-serve-as-tax-id-firs",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Federal Inland Revenue Service said that under the Nigeria Tax Administration Act, due to take effect in January 2026, the National Identification Number automatically serves as the Tax ID for individuals.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Tax ID",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tax ID",
+   "country_label": "Unified Tax ID",
+   "class": "register",
+   "platform": "",
+   "owner": "Federal Inland Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

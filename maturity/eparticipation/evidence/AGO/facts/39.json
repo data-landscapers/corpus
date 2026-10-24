@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-15-ago-sessao-tematica-aborda-programa-de-desenvolvimento-e-expansao-das-tele",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "INACOM reports that the ministry's draft cybersecurity legislative package was open to public consultation through the consultapublica.minttics.gov.ao website and email.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "consultapublica.minttics.gov.ao",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

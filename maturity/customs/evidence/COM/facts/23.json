@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-com-unctad-paie-guichet-unique-creation-entreprises",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNCTAD says Comoros customs procedures remain only partially digitalized despite the deployment of SYDONIAWorld, and its programme is to digitalize further customs procedures.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SYDONIAWorld",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "UNCTAD says the first phase of the Guichet Unique du Commerce Extérieur (GUCE) has been deployed in Comoros, and its programme is to expand GUCE to additional border agencies.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Guichet Unique du Commerce Extérieur (GUCE)",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-com-alwatwan-conseil-ministres-strategie-gouvernance-donnees-data-center",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Telecommunications Minister Oumouri Mmadi Hassani presented a national data-governance (data centre) strategy for 2027/2031 to the Council of Ministers on 21 October 2026; the report states no approval of it.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "stratégie nationale de gouvernance des données data center 2027/2031",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

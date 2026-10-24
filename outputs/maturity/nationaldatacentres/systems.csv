@@ -181,6 +181,7 @@ COM,Comores Câbles data centre,Centre de données,datacentre,,Comores Câbles,,
 COM,Neutral data centre (under construction),data center neutre,other,,Comores Câbles,,2026-01-01-comores-cables-technologies
 COM,Data Center of the Public Administration,Data Center of the Public Administration,datacentre,,ANADEN and Comores Câbles (co-managed),"described as Tier 3, unattributed",2024-01-01-digwatch-comoros-country-profile
 COM,Data Center de l'Administration Publique,COM,other,government data centre,run jointly by ANADEN and Comores Cable (ownership not stated),,2025-05-12-cctld-km-transfer-anaden-registry-lagazette
+COM,State data centre,Comoros,other,,State,,2026-10-22-com-alwatwan-conseil-ministres-strategie-gouvernance-donnees-data-center
 CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
 CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2015-07-29-cabo-verde-governo-pm-inaugura-data-center-do-estado
 CPV,"NOSi Government Data Center (Praia, with disaster recovery site in Mindelo)",Government Data Center / National Data Center,datacentre,"Huawei government cloud, 'One Cloud, One Lake, One Platform'","NOSi, E.P.E.",described as Tier-III equivalent (no certification stated),2024-01-01-nosi-operational-nucleus-information-society
@@ -346,6 +347,7 @@ GHA,National Data Centre,Ghana,other,,,,2026-07-30-ghana-10-year-ai-implementati
 GHA,AI Compute Centre (US$250 million),Ghana,other,,Government of Ghana,,2026-07-30-ghana-10-year-ai-implementation-roadmap
 GHA,"NITA National Data Centre, Accra",Ghana,datacentre,,"National Information Technology Agency (NITA), under the Ministry of Communication, Digital Technology and Innovations",,2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb
 GHA,"NITA National Data Centre, Kumasi",Ghana,datacentre,Huawei IDS1000 modular containerised,National Information Technology Agency (NITA),,2026-06-12-ghana-mocdti-national-data-centre-refresh-upgrade-rfb
+GHA,Ghana's first national data centre,Ghana,other,,Government,,2026-10-22-gha-phase-one-of-ghana-s-first-data-centre-to-be-ready-in-24-months-sam-ge
 GIN,Data Center national,Data Center national Tier III,datacentre,,State; COREX,,2025-09-04-gin-guineenews-data-center-national-tier3
 GIN,"GUILAB data centre, Kipé",Datacenter de GUILAB,datacentre,,GUILAB S.A,,2025-01-01-guilab-datacenter-colocation-kipe
 GIN,Sovereign cloud (proposed),GIN,other,,,,2026-05-23-cloud-souverain-ande-roland-berger-conakry
@@ -505,6 +507,7 @@ MLI,National Data Centre (Bamako),Centre de données national / National Data Ce
 MLI,National Data Centre,MLI,datacentre,,,Tier III (stated),2026-02-02 Mali unveils modern Tier III data centre
 MLI,SMTD data centre,Centre de données de la SMTD,datacentre,,Société malienne de transmission et de diffusion (SMTD),,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,AGETIC data centre,Centres de données de l'AGETIC,other,,AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,"Centre national de données (Tier III, since January)",Mali,other,,State,III,2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d
 MOZ,Raxio MZ1,Raxio Mozambique (MZ1),datacentre,,Raxio Group,,2026-08-08-raxio-mozambique-mz1-data-centre-specification
 MOZ,Raxio Mozambique data centre,Raxio (Mozambique),datacentre,,Raxio Group,Tier III (operator-stated),2026-07-15 Raxio data-centre capital tops $380m on investor boost
 MOZ,Raxio Mozambique data centre,Raxio,datacentre,,Raxio Group,Tier III (stated),2026-07-14 Raxio raises data centre funding
@@ -530,6 +533,7 @@ MRT,Nouakchott National Data Centre,Nouakchott National Data Centre,datacentre,,
 MRT,Nouakchott Data Centre,Centre de Données de Nouakchott,datacentre,,,Tier III,2025-05-08-ami-inauguration-data-center-nouakchott-1372m2-100-baies
 MRT,Nouakchott national data centre,,datacentre,,Government of Mauritania,,2026-02-10-digital-economy-country-commercial-guide-tradegov
 MRT,Nouakchott Data Hub,,datacentre,,International Mauritania Telecom (IMT),Tier III,2025-07-30-dcd-ellalink-contract-mauritania-nouadhibou-branch
+MRT,Datacenter National Tier3,Datacenter National,other,,State,Tier III,2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie
 MUS,Mauritius Telecom Rose-Belle data centre,data centre de Rose-Belle,datacentre,,Mauritius Telecom,,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,"Government Online Centre (GOC), Ebene",GOC,other,,Government of Mauritius,government only; about 80 racks,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,Aphelion DC3,Aphelion DC3,datacentre,,Aphelion,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica

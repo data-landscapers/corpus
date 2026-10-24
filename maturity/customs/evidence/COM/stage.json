@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "window": "",
+      "window": "window",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COM-001;COM-003",
-      "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "COM-001;COM-003;COM-006",
+      "gaps": "No source held since October 2023 says the customs system exchanges declaration or transit data with another country's customs.",
+      "note": "UNCTAD says the first phase of the GUCE single window is deployed and is to be extended to more border agencies, so a single window is in service. Stage 5 needs data exchanged with another country's customs.",
+      "as_at": "2026-10-24"
     }
   ]
 }

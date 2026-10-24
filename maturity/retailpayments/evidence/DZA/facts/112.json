@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-21-dza-algerie-poste-caci-framework-agreement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CCP Business Cashless",
+   "country_label": "DZA",
+   "class": "other",
+   "platform": "",
+   "owner": "Algerie Poste",
+   "tiers": "artisans and traders"
+  }
+ ],
+ "note": "Algerie Poste's business e-payment service is named; the document does not say it is a mobile money or e-money wallet in service."
+}

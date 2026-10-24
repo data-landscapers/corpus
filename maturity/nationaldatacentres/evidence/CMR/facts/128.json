@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-23-cmr-yaounde-declaration-targets-100-local-hosting-of-critical-government-d",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Business in Cameroon says state-owned Camtel runs a data center at Zamengoé near Yaoundé that offers local hosting services.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Camtel data center, Zamengoé",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Business in Cameroon describes Camtel, which runs the Zamengoé data center, as a state-owned telecommunications operator.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Camtel data center, Zamengoé",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel data center, Zamengoé",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel (state-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

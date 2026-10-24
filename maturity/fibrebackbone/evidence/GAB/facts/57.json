@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-17-gab-declaration-de-politique-generale-de-mark-alexandre-doumba-wtdc-25",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Minister Doumba told WTDC-25 that Gabon has a national fibre backbone of more than 2,000 km, being extended.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "Backbone national",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbone national",
+   "country_label": "Gabon",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-cod-nbsinfos-sekimonyo-etat-numerise-tshisekedi",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The author Jo Sekimonyo says the Banque centrale du Congo adopted Instruction No. 58 of 4 September 2024 on the interoperability of payment systems, and that its authorisations and clarifications are handled by physical correspondence.",
+   "as_of": "2024-09-04",
+   "date_precision": "day",
+   "system": "BCC Instruction No. 58 on interoperability of payment systems",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BCC Instruction No. 58 on interoperability of payment systems",
+   "country_label": "Democratic Republic of the Congo",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Banque centrale du Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

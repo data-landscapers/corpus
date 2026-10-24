@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-31-bfa-le-burkina-faso-prevoit-109-millions-de-dollars-au-developpement-du-nu",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Agence Ecofin reports that in 2025 the national fibre optic network was extended to more than 11,292 km, with a further 270 km of fibre planned for 2026 in the digital ministry's work plan.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "national fibre optic network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Minister Nthati Moorosi said her ministry is developing a proposed AI chatbot with the Ministry of Agriculture, Food Security and Nutrition to give farmers advice through agricultural extension services.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "AI-powered agricultural extension chatbot",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI agricultural extension chatbot",
+   "country_label": "Lesotho",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of ICST with Ministry of Agriculture",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

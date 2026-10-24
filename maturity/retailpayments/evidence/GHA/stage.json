@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "retail",
-   "stage": "4",
-   "service": "inservice",
-   "interop": "interop",
-   "switch": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-003",
-   "gaps": "No source held since October 2023 says a national switch connects wallets and bank accounts.",
-   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "retail",
+      "stage": "5",
+      "service": "inservice",
+      "interop": "interop",
+      "switch": "national",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-002;GHA-003;GHA-013",
+      "gaps": "Nothing on the three questions is missing.",
+      "note": "Mobile money is in service, interoperability is in use, and the Bank of Ghana describes GhIPSS as the national infrastructure linking banks and mobile money operators, which meets stage 5.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-22-com-alwatwan-conseil-ministres-strategie-gouvernance-donnees-data-center",
+ "facts": [],
+ "systems": [
+  {
+   "system": "State data centre",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "The State data centre's takeover, operation and hosting were discussed; nothing says it rents to other organisations or gives a Tier."
+}

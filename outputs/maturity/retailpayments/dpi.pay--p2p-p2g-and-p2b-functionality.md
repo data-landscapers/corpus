@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 24 |
-| 4 Operating | 19 |
+| 5 Leading | 25 |
+| 4 Operating | 18 |
 | 3 Established | 10 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
@@ -113,6 +113,14 @@ A national switch connected mobile money wallets and bank accounts in 2025.
 
 - The Point says BANTABA 2.0 is a national backbone connecting banks, mobile money operators, MFIs, fintechs and PSPs through a single interoperable switch with real-time clearing and settlement, operated by Gamswitch after a pilot ([source, 2025-12-15](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system)).
 - The release says BANTABA 2.0 connects banks, mobile money operators, microfinance institutions, fintechs and PSPs through a single interoperable switch, live after a pilot, with further institutions to join ([source, 2025-12-15](https://www.gamswitch.com/press-release/the-gambia-launches-bantaba-2-0-its-first-real-time-interoperable-payment-system)).
+
+### Ghana: 5 Leading
+
+Mobile money, payments between providers and a national switch linking wallets and banks were all in service in 2026.
+
+- The Bank of Ghana reports mobile money in August 2026 at 1,046 million transactions worth GHC 518.8 billion, with 85.8 million registered and 26.4 million active accounts ([source, 2026-08](https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf)).
+- The Bank of Ghana reports mobile money interoperability in August 2026 at 35.7 million transactions worth GHC 6.5 billion ([source, 2026-08](https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf)).
+- The Bank of Ghana's head of fintech describes GhIPSS as the national interoperable payment infrastructure linking banks and mobile money operators ([source, 2026-10-22](https://channelonenewsonline.com/2026/10/22/bank-of-ghana-pushes-for-seamless-african-cross-border-payments/)).
 
 ### Guinea: 5 Leading
 
@@ -225,12 +233,6 @@ Payments between mobile money providers or with banks were in service in 2026; a
 
 - About $88 million has been channelled into the formal banking sector through wallet-to-bank transfers over the past year, according to Vodacom Congo's CEO ([source, 2026-04-03](https://techreviewafrica.com/news/4723/vodacom-congo-calls-for-integrated-financial-ecosystem-to-enhance-inclusion-in-drc)).
 - Onafriq supported the Visa Pay launch in the DRC in Q4 2025, which it says brings interoperability between mobile money and card networks at scale ([source, 2025](https://www.connectingafrica.com/financial-inclusion/how-onafriq-is-growing-digital-finance-amid-uncertainty-in-drc)).
-
-### Ghana: 4 Operating
-
-Payments between mobile money providers or with banks were in service in 2026; a national switch is not known.
-
-- The Bank of Ghana reports mobile money interoperability in August 2026 at 35.7 million transactions worth GHC 6.5 billion ([source, 2026-08](https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf)).
 
 ### Guinea-Bissau: 4 Operating
 

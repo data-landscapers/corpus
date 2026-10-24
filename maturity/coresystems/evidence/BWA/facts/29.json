@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-04-bwa-dailynews-tax-reforms-e-vat-invoicing",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GABS and FMIS",
+   "country_label": "Government Accounting and Budgeting System; Financial Management Information System",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Revamp is a plan; the source does not state the systems' use."
+}

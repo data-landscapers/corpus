@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-23-gha-icn-finance-ministry-ghaneps-mandatory-from-2026",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The Public Procurement Authority's chief executive says GHANEPS is integrated with the Ghana Integrated Financial Management Information System (GIFMIS), so procurement cannot begin unless funds are committed.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "GIFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIFMIS",
+   "country_label": "Ghana",
+   "class": "core",
+   "platform": "",
+   "owner": "Controller and Accountant-General's Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

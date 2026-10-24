@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-20-zaf-dcdt-policy-direction-icasa-network-deployment-facilities-leasing",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Icasa central GIS database of ICT infrastructure",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Icasa",
+   "tiers": ""
+  }
+ ],
+ "note": "The GIS database is a directed plan for network infrastructure data, not an open data policy."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-17-gab-declaration-de-politique-generale-de-mark-alexandre-doumba-wtdc-25",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The minister states that Ordinance No. 0006/PR of 8 August 2025 requires digitalisation of public administrations and interoperability of their information systems; no enforcing body is named.",
+   "as_of": "2025-08-08",
+   "date_precision": "day",
+   "system": "Ordonnance n°0006/PR du 8 août 2025",
+   "class": "framework"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ordonnance n°0006/PR du 8 août 2025",
+   "country_label": "Gabon",
+   "class": "framework",
+   "platform": "",
+   "owner": "Presidency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "policy",
-      "stage": "unplaced",
-      "standing": "",
-      "use": "",
+      "stage": "2",
+      "standing": "draft",
+      "use": "portal",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "A portal is named with no open data policy behind it. No policy or draft is on record, and no source dated in the last three years says the country has neither.",
-      "note": "Counted from the four questions by study-ladder-opendatapolicy.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "MAR-010",
+      "gaps": "No source held says the draft open data decree has been adopted, so the portal does not yet run under a policy.",
+      "note": "The minister said in October 2025 that the ministry was preparing a draft decree on open public data, which is a policy being written. Stage 3 needs it adopted.",
+      "as_at": "2026-10-24"
     }
   ]
 }

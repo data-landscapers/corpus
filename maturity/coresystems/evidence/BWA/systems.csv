@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 BWA,Botswana eHealth Enterprise Architecture,"Botswana eHealth Enterprise Architecture (Ministry of Health, developed 2023-2024)",other,HL7 FHIR / HL7 v2,Ministry of Health,"business, data, application, technology",2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana
 BWA,Government Accounting and Budgeting System (GABS),GABS,core,Oracle,Ministry of Communications and Innovation,"central government, all ministries, departments and agencies",2025-03-18-bwa-gabs-now-fully-operational-tshere-committee-of-supply
 BWA,Vehicle Registration and Driver Licensing,Vehicle Registration and Driver Licensing,other,,,,2025-03-18-bwa-gabs-now-fully-operational-tshere-committee-of-supply
+BWA,GABS and FMIS,Government Accounting and Budgeting System; Financial Management Information System,other,,Ministry of Finance,,2025-11-04-bwa-dailynews-tax-reforms-e-vat-invoicing

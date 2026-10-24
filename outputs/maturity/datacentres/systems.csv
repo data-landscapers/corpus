@@ -398,6 +398,7 @@ COM,Data Center de l'Administration publique,Data Center de l'Administration pub
 COM,New data centre (Digitization of the Comorian Economy project),new data centre,other,,"State, with a PPP private operator planned",,2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy)
 COM,Existing secondary data centre,existing secondary DC,other,,,,2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy)
 COM,Data Center of the Public Administration,Data Center of the Public Administration,datacentre,,ANADEN and Comores Câbles (co-managed),"described as Tier 3, unattributed",2024-01-01-digwatch-comoros-country-profile
+COM,State data centre,Comoros,other,,State,,2026-10-22-com-alwatwan-conseil-ministres-strategie-gouvernance-donnees-data-center
 CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2024-12-31-nosi-relatorio-de-gestao-e-contas-2024
 CPV,Praia state data centre (Data Center do Estado de Cabo Verde),Data Center do Estado,datacentre,,"NOSi, E.P.E.",,2026-02-17-cpv-nosi-sistema-fotovoltaico-data-center
 CPV,Technology Park Data Center (DC3),DC3,other,,UGPE / Cabo Verde Technology Park Phase II,,2024-09-09-cabo-verde-technology-park-phase-ii-ifb-011-dc3-datacom
@@ -575,6 +576,7 @@ EGY,Cassava AI factory (Egypt),AI factory,other,Nvidia GPUs,Cassava,,2025-09-18 
 EGY,Huawei-built data centres (Egypt),data centers,other,Huawei,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
 EGY,Telecom Egypt data center entity,Egypt,other,,Telecom Egypt,,2026-10-14-egy-etdatacenters-telecom-egypt-subsea-terrestrial-strategy
 EGY,Africa Data Centres Egypt,EGY,other,,"Vodafone Business, Elsewedy Electric, Cassava Technologies",,2026-10-20-egy-egypts-play-to-become-an-exporter-of-computing-power
+EGY,mega data centres (planned),Egypt,other,,Government,,2026-10-20-egy-ict-minister-outlines-digital-egypt-strategy-at-egypt-forum-2026
 ERI,National Statistics Office data centre,National Statistics Office data centre,other,,Eritrea National Statistics Office,,2016-07-04-afdb-eri-001-eritrea-pfm-statistics-capacity-building
 ERI,Eritel Datacenters,Eritel's Datacenters,datacentre,,Eritel Telecom Corporation,,2026-08-31-eritel-private-cloud-services
 ERI,Eritel Nextcloud,Eritel Private Cloud Services,other,Nextcloud,Eritel Telecom Corporation,Platinum; Gold; Silver,2026-08-31-eritel-private-cloud-services
@@ -727,6 +729,7 @@ GHA,Cassava Technologies data centres,,other,,Cassava Technologies,,2024-01-01-g
 GHA,PAIX Accra,PAIX Data Centres,datacentre,,PAIX,,2026-10-16-myjoyonline-bold-ambitions-fragile-foundations-ghana-ai-data-centre-risks
 GHA,Onix Data Centre,"Onix data centre, Accra",datacentre,,Onix Data Centres,"Tier IV (claimed, Uptime Institute)",2026-01-01-gha-onix-infrastructure-solar-farm-power-water
 GHA,NITA Data Centre,NITA DC,other,,NITA,,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange
+GHA,Ghana's first national data centre,Ghana,other,,Government,,2026-10-22-gha-phase-one-of-ghana-s-first-data-centre-to-be-ready-in-24-months-sam-ge
 GIN,Guinea national data centre (Koloma),Data Center National,other,,"Government of Guinea, Ministry of Communication, Digital Economy and Innovation",,2026-09-15-guinee-amadou-oury-bah-exige-lacceleration-de-la-mise-en-service-du-data-center
 GIN,Guinea national data centre (Koloma),Data Center National,other,,"Government of Guinea, Ministry of Communication, Digital Economy and Innovation",,2026-09-14-gin-guineenews-data-center-national-koloma-operationnalisation
 GIN,Guinea national data centre (Koloma),Data Center National,other,,"Government of Guinea, Ministry of Communication, Digital Economy and Innovation",,2026-09-10-gin-visionguinee-data-center-souverainete-numerique
@@ -937,6 +940,8 @@ KEN,NBO2,NBO2,datacentre,,Digital Realty (formerly icolo),,2026-09-07-ken-govern
 KEN,Cassava Nairobi facility (upcoming),,other,NVIDIA GPU-as-a-Service,Cassava Technologies (Africa Data Centres),,2025-11-13-uk-based-firm-cassava-to-deploy-kenyas-first-rentable-ai-servers
 KEN,Government Data Centre,Government Data Centre,other,,ICT Authority / Government of Kenya,tier-2,2026-01-01-ken-icta-faqs-government-data-centre-dr-konza
 KEN,iXAfrica Nairobi data centre,Kenya,datacentre,,iXAfrica Data Centres,,2026-03-12-ken-servernah-cloud-launch
+KEN,iXAfrica NBOX1 (Nairobi One Campus),Kenya,datacentre,,iXAfrica Data Centres,Tier 3 standards (stated),2025-11-11-ken-atlancis-technologies-everse-technology-and-ixafrica-unveil-east-centr
+KEN,Konza National Data Centre,Kenya,datacentre,,Konza Technopolis Development Authority,,2026-10-23-ken-konza-data-centre-set-for-expansion-through-public-private-partnership
 LBR,Cable Consortium of Liberia Monrovia landing facility,Co-location services,datacentre,,Cable Consortium of Liberia,,2025-04-29-cable-consortium-of-liberia-co-location-services
 LBR,National data center (planned),national data center,other,,Government of Liberia (Ministry of Posts and Telecommunications),,2026-09-30-liberia-national-data-center-investors-power
 LBR,National data center (planned),national data center,other,,Government of Liberia,,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
@@ -974,6 +979,7 @@ LSO,Government data centre,government data centre,other,,Government of Lesotho,g
 LSO,Project Kobong AI data centre,Project Kobong,other,,Convalt Energy,,2026-07-02-lso-mnn-questions-over-vetting-kobong-convalt
 LSO,Kobong Project AI data centre,Kobong Project,other,,Convalt Energy,,2026-09-15-lso-lesotho-s-biggest-foreign-investment-deal-faces-scrutiny
 LSO,Kobong Project AI data centre,Kobong Project,other,,Convalt Energy,,2026-09-15-lso-minister-may-benefit-from-lesotho-s-r100-billion-ai
+LSO,Mohale's Hoek Data Centre,Lesotho,other,,Government,,2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho
 MAR,"Nouaceur AI data centre (Naver Cloud, Nvidia, Nexus Core Systems)",,other,,Naver Cloud/Nvidia/Nexus Core Systems consortium,,2026-08-09-maroc-data-centers-leader-ia
 MAR,Dakhla green data centre,,other,,,,2026-08-09-maroc-data-centers-leader-ia
 MAR,Oracle Cloud Casablanca Region,,datacentre,Oracle Cloud Infrastructure,Oracle,,2026-04-10-oracle-launches-cloud-region-in-casablanca-morocco
@@ -1074,6 +1080,7 @@ MLI,National Data Centre (Bamako),Centre de données national / National Data Ce
 MLI,SMTD data centre,Centre de données de la SMTD,datacentre,,Société malienne de transmission et de diffusion (SMTD),,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,AGETIC data centre,Centres de données de l'AGETIC,other,,AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,Afribone data centre,"Afribone Mali data centre, Bamako",datacentre,,Afribone Mali,,2024-01-01-mli-afribone-a-propos-solar-data-center
+MLI,"Centre national de données (Tier III, since January)",Mali,other,,State,III,2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d
 MOZ,Raxio MZ1,Raxio Mozambique (MZ1),datacentre,,Raxio Group,,2026-08-08-raxio-mozambique-mz1-data-centre-specification
 MOZ,Raxio MZ1,Raxio Mozambique,datacentre,,Raxio Group,,2026-07-23-raxio-afr-ix-data-centres-angola-mozambique
 MOZ,Vodacom Tchumene data centre,Vodacom Business Data Centre,datacentre,,Vodacom Mozambique,,"2025-03-31 Vodacom opens data center in Maputo, Mozambique"
@@ -1136,6 +1143,7 @@ MRT,Datacenter national (planned),,other,,MESRSTIC,,2019-04-04-mrt-mesrstic-sect
 MRT,Mauritanian national cloud (السحابة الوطنية الموريتانية),السحابة الوطنية الموريتانية,other,,Ministry of Digital Transformation (state),public administration,2026-06-29-ami-tadshin-sahaba-wataniya-mauritanie-cloud-national
 MRT,Nouakchott data centre (مركز البيانات في نواكشوط),مركز البيانات في نواكشوط,other,,state,public administration,2026-06-29-ami-tadshin-sahaba-wataniya-mauritanie-cloud-national
 MRT,DATA Center National,DATA Center National,other,,,,2024-04-01-mrt-somelec-data-center-national-raccordement
+MRT,Datacenter National Tier3,Datacenter National,other,,State,Tier III,2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie
 MUS,Carrier-Neutral Green Centre,Carrier-Neutral Green Centre,other,,Government of Mauritius (announced),,2026-08-19-lexpress-mu-sadc-ramgoolam-carrier-neutral-green-centre
 MUS,Aphelion DC3,Aphelion DC3,datacentre,,Aphelion,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
 MUS,Rogers Capital Port Louis Data Center,Rogers Capital Port Louis Data Center,datacentre,,Rogers Capital,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica

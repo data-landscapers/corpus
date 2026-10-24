@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-23-cmr-yaounde-declaration-targets-100-local-hosting-of-critical-government-d",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Business in Cameroon says Camtel runs a data center at Zamengoé near Yaoundé that offers local hosting services, and ST Digital runs one in Douala serving businesses and government agencies.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Camtel data center, Zamengoé",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel data center, Zamengoé",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Camtel (state-owned)",
+   "tiers": ""
+  },
+  {
+   "system": "ST Digital data center, Douala",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ST Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

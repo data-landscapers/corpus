@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-20-civ-assemblee-nationale-de-cote-d-ivoire-abidjan-le-20-novembre-2024-proje",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "The Ministry of Digital Transition's draft 2025 budget presentation cites law 2023-901 of 23 November 2023 promoting digital startups, which it plans to publicise in 2025.",
+   "as_of": "2023-11-23",
+   "date_precision": "day",
+   "system": "Loi 2023-901 portant promotion des startups numériques",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

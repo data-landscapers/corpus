@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Datacenter National Tier3",
+   "country_label": "Datacenter National",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "The Tier III data centre is complete but not yet in service, and is for government data; nothing says it rents to others."
+}

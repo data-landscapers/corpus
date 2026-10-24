@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-tza-workshop-on-local-generative-ai-for-education-in-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "Ghent University's AIRO group reports Mzumbe University in Tanzania inaugurated its new Centre for AI Research and Innovation (CAIRI) and hosted a two-day workshop on running generative AI locally for education.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Centre for AI Research and Innovation (CAIRI), Mzumbe University",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

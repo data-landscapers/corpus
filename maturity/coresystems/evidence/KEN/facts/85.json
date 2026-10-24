@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-20-ken-kra-issues-fresh-directive-to-govt-suppliers-over-invoice-validation-a",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "A KRA and National Treasury public notice of 2026-10-20 says all suppliers to government ministries, departments and public entities go through the IFMIS payment workflow, after automated tax-invoice validation by the IFMIS-eTIMS integration.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "IFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "Kenya",
+   "class": "core",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": "national"
+  },
+  {
+   "system": "eTIMS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

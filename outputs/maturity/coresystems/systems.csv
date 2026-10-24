@@ -21,6 +21,7 @@ BFA,TPEE,Tableau prévisionnel des emplois et des effectifs,other,,MENAPLN,,2025
 BWA,Botswana eHealth Enterprise Architecture,"Botswana eHealth Enterprise Architecture (Ministry of Health, developed 2023-2024)",other,HL7 FHIR / HL7 v2,Ministry of Health,"business, data, application, technology",2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana
 BWA,Government Accounting and Budgeting System (GABS),GABS,core,Oracle,Ministry of Communications and Innovation,"central government, all ministries, departments and agencies",2025-03-18-bwa-gabs-now-fully-operational-tshere-committee-of-supply
 BWA,Vehicle Registration and Driver Licensing,Vehicle Registration and Driver Licensing,other,,,,2025-03-18-bwa-gabs-now-fully-operational-tshere-committee-of-supply
+BWA,GABS and FMIS,Government Accounting and Budgeting System; Financial Management Information System,other,,Ministry of Finance,,2025-11-04-bwa-dailynews-tax-reforms-e-vat-invoicing
 CAF,Progiciel e-Tax,e-Tax,other,,Ministry of Finance and Budget,Document lists accelerating its implementation as a priority action; does not state it is in use.,2025-03-26-car-plan-e-finances-publiques-note-cadrage
 CAF,SIM_ba,SIM_ba,other,,Ministry of Finance and Budget,,2025-03-26-car-plan-e-finances-publiques-note-cadrage
 CAF,SIGMAP,SIGMAP,other,,Ministry of Finance and Budget,"Procurement management system, to be set up.",2025-03-26-car-plan-e-finances-publiques-note-cadrage
@@ -143,6 +144,7 @@ GAB,National platform for payment and collection of public revenue,,other,,,,202
 GAB,new public expenditure management application,,core,,"Treasury, Budget and Financial Control directorates",central and provincial,2026-03-11-woleu-ntem-seminaire-formation-responsables-unites-operationnelles
 GAB,SIGFIP,Système Intégré de Gestion des Finances Publiques,core,IKA Technology,Ministry of Economy and Finance,central,2026-02-19-presidence-ga-audience-ika-technology-gabon-connect
 GAB,Gabon Connect,single digital window portal,other,IKA Technology,,,2026-02-19-presidence-ga-audience-ika-technology-gabon-connect
+GAB,"Gabon Connect (eTax, eEmployeur, TresorPay, eDouane, ePropriete)",GAB,other,,Government of Gabon,,2026-10-22-gab-gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-p
 GHA,Integrated Tax Administration System (ITAS),Integrated Tax Administration System (ITAS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Ghana Integrated Tax Management and Information System (GITMIS),Ghana Integrated Tax Management and Information System (GITMIS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Integrated Customs Management System (ICUMS),Integrated Customs Management System (ICUMS),other,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
@@ -171,6 +173,7 @@ GHA,Ghana.gov,Ghana.gov,other,,NITA,,2026-05-21-ghana-gov-shakeup-simpler-citize
 GHA,Ghana.gov,Ghana.gov,other,,NITA,,2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate
 GHA,CitizenApp Data Interoperability System (CADIS),CADIS,other,,,,2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate
 GHA,Ghana.gov,Ghana.gov,other,,NITA,,2025-07-07-ghana-gov-16000-services-revamp-graphic
+GHA,GIFMIS,Ghana,core,,Controller and Accountant-General's Department,,2025-10-23-gha-icn-finance-ministry-ghaneps-mandatory-from-2026
 GIN,GEDA,GEDA,other,,Presidency,,2026-08-14-guinea-geda-doumbouya-decrets-arretes
 GIN,GEME,GEME,other,,Government,,2026-08-13-guinea-geme-digitalisation-missions-etat
 GIN,RTGS,RTGS,other,,BCRG,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
@@ -221,6 +224,8 @@ KEN,Broadcast Logger,Broadcast Logger,other,,Communications Authority of Kenya; 
 KEN,"Integrated, Control and Communication Centre (IC3)",IC3,other,,National Police Service,,2018-05-25-capitalfm-kenya-police-ic3-command-centre-cctv
 KEN,iTax,iTax,core,,Kenya Revenue Authority,,2025-08-25-ken-businessdaily-kra-itax-icms-upgrade
 KEN,SHA integrated financial management system,Kenya,other,,Social Health Authority,,2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale
+KEN,IFMIS,Kenya,core,,National Treasury,national,2026-10-20-ken-kra-issues-fresh-directive-to-govt-suppliers-over-invoice-validation-a
+KEN,eTIMS,Kenya,other,,Kenya Revenue Authority,,2026-10-20-ken-kra-issues-fresh-directive-to-govt-suppliers-over-invoice-validation-a
 LBR,IFMIS,IFMIS,core,,Ministry of Finance and Development Planning,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,integrated tax administration system,integrated tax administration system components (revenue administration systems),other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,customs management information system,customs management information system,other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
@@ -401,6 +406,8 @@ SOM,Revenue administration system upgrades,Revenue administration system (P15149
 SOM,Integrated Financial Management and Information System (IFMIS),IFMIS,other,,Federal Government of Somalia,,2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029
 SOM,Human Resources Management System (HRMIS),HRMIS,other,,Federal Government of Somalia,,2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029
 SOM,Government Payroll System,Government Payroll System,other,,Office of the Accountant General,,2026-08-30-som-dawan-payroll-linked-national-id-2027
+SOM,SFMIS,Somalia Financial Management Information System,core,,Ministry of Finance,,2025-08-17-som-somalia-launches-danabeysan-digital-signature-system-to-streamline-gov
+SOM,Danabeysan,Danabeysan,other,digital signature platform,Ministry of Finance,,2025-08-17-som-somalia-launches-danabeysan-digital-signature-system-to-streamline-gov
 SSD,Government Enterprise Architecture (GEA) and Implementation Plan,Government Enterprise Architecture (GEA),other,,"Ministry of Information, Communication Technology and Postal Services",,2026-05-25-gea-consulting-tender-eardip-south-sudan
 SSD,National e-Tax System,National e-Tax System,core,,South Sudan Revenue Authority,,2026-03-13-manual-revenue-collection-banned-mandatory-etax
 SSD,Government Enterprise Architecture (GEA),GEA,other,,"Ministry of Information, Communication Technology and Postal Services",,2024-06-07-south-sudan-eardip-implementation-support-mission

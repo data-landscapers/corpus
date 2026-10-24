@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-som-nira-deputy-director-general-visits-refugee-commission-returnee-registration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA says it, with the National Commission for Refugees and IDPs, enrolled Somali citizens returning from Yemen for the national ID, at the commission's centre visited by its Deputy Director General.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "NIRA national identification registration",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID registration",
+   "country_label": "NIRA",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification and Registration Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-20-civ-assemblee-nationale-de-cote-d-ivoire-abidjan-le-20-novembre-2024-proje",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Ministry of Digital Transition and Digitalisation's draft 2025 state budget is FCFA 60,780,440,826, including FCFA 35.3 billion for the rural new-technologies tax programme (ANSUT).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Draft 2025 budget of the Ministry of Digital Transition and Digitalisation",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

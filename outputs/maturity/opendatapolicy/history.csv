@@ -16,3 +16,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TUN,gov.policy--open-data-policy,fact,3,3,TUN-006;TUN-002,Arrivals added TUN-005; TUN-006; stage unchanged.
 2026-10-23,ZAF,gov.policy--open-data-policy,fact,no evidence,2,ZAF-001,"Research ICT Africa says it developed South Africa's Open Data Policy Framework (2026), adoption not stated; a policy being written, so no evidence to 2"
 2026-10-23,TUN,gov.policy--open-data-policy,fact,3,5,TUN-002;TUN-008;TUN-009,Housekeeping 32: the OGP IRM page released as TUN-007 to TUN-009: the new national portal built to decree 2021-3 opened in March 2023 and carried datasets from 23 producers in April 2024; stage 3 -> 5
+2026-10-24,MAR,gov.policy--open-data-policy,fact,unplaced,2,MAR-010,"Minister said in October 2025 the ministry is preparing a draft open data decree; a policy being written, stage 2"

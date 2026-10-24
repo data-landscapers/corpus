@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-20-swz-insidebiz-cbe-e-procurement-system",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Inside Biz reports the Central Bank of Eswatini's e-procurement system was developed in-house by the Bank's Information Technology Division and went live at its 2025 Supplier Day.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "CBE e-procurement system",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

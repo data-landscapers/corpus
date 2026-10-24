@@ -136,7 +136,7 @@ Chad was drafting a national data governance strategy in May 2026, with UN suppo
 
 ### Comoros: 2 Nascent
 
-The Comoros validated a national data governance strategy for 2027 to 2031 at a workshop in August 2026; government approval is not known.
+The Comoros validated a 2027-2031 national data governance strategy in August 2026 and put it to cabinet in October; approval is not known.
 
 - AUDA-NEPAD reports that government, private-sector and civil-society representatives met in Moroni on 24-25 August 2026 at a workshop to review and validate the National Data Governance Strategy 2027-2031, whose implementation plan was also examined; it does not report approval or launch by the government ([source, 2026-08](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique)).
 

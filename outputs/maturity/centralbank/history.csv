@@ -7,3 +7,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZAF,dpi.pay--governance-role-of-central-bank,fact,4,4,ZAF-004;ZAF-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,ZMB,dpi.pay--governance-role-of-central-bank,review,no evidence,5,ZMB-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-22,ZAF,dpi.pay--governance-role-of-central-bank,fact,4,5,ZAF-007;ZAF-004;ZAF-005,"SARB governor's speech of 20 October 2026 says qualifying regional payments run on SADC-RTGS, moving to TCIB by April 2027: a regional payment system in service, so stage 5"
+2026-10-24,GHA,dpi.pay--governance-role-of-central-bank,fact,3,5,GHA-001;GHA-005;GHA-002,"Bank of Ghana fintech head describes GhIPSS, set up by the Bank, as the national interoperable payment infrastructure; with licensing and the PAPSS link already held, stage 5"

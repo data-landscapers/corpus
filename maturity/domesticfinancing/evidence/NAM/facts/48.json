@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-17-nam-namibia-pours-6-5-million-into-universal-access-fund-expansion",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Ecofin reports the Ministry of ICT allocated an additional N$78 million for telecom sites and public Wi-Fi for the 2026/2027 fiscal year.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Ministry of ICT telecom sites and public Wi-Fi allocation",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

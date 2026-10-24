@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-17-cmr-budget-patnuc-2025-plus-de-21-milliards-en-faveur-d-une-annee-accelere",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "PATNUC's steering committee adopted a 2025 work plan of FCFA 21.05bn for a World Bank-funded project whose connectivity component is to connect decentralised local authorities and other public entities to broadband.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "PATNUC",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PATNUC",
+   "country_label": "Cameroon",
+   "class": "connection",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications",
+   "tiers": "national"
+  }
+ ],
+ "note": "The connection of local authorities is stated as planned, with no count or share of those connected."
+}

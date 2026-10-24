@@ -23,9 +23,9 @@ The African Commission on Human and Peoples' Rights' Declaration of Principles o
 | 5 Leading | 1 |
 | 4 Operating | 1 |
 | 3 Established | 4 |
-| 2 Nascent | 11 |
+| 2 Nascent | 12 |
 | 1 Absent | 1 |
-| Unplaced | 8 |
+| Unplaced | 7 |
 | No evidence | 28 |
 
 ## Countries
@@ -112,6 +112,12 @@ Mauritania wrote a national open data strategy in 2023; whether the government h
 
 - The Ministry of Digital Transformation, Innovation and Administration Modernisation (MTNIMA) strategy document, dated June 2023, sets out a national open data and interoperability strategy with three axes and a roadmap, including open by default for public bodies' data; the passages state no cabinet approval, launch or issue date, and say the open data law and the portal's implementing decree are still to be drafted ([source, 2023-06](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf)).
 
+### Morocco: 2 Nascent
+
+Morocco's ministry was preparing a draft open data decree in 2025, beside a portal running since 2011; its adoption is not known.
+
+- The minister said the ministry is preparing a draft decree on open public data under the Maroc Digital 2030 strategy ([source, 2025-10-13](https://leseco.ma/maroc/connectivite-5g-et-e-gouvernement-amal-el-fallah-seghrouchni-fait-le-bilan-de-la-transformation-numerique.html)).
+
 ### Mozambique: 2 Nascent
 
 Mozambique's draft data governance policy of 2025 would require ministries to publish data openly; whether it has been approved is not known.
@@ -163,12 +169,6 @@ Not established: No policy or draft is on record, and no source dated in the las
 ### Liberia: Unplaced
 
 Liberia's national data portal was live but not formally launched in 2018; no open data policy is known, so no stage is set.
-
-Not established: A portal is named with no open data policy behind it. No policy or draft is on record, and no source dated in the last three years says the country has neither.
-
-### Morocco: Unplaced
-
-Morocco has run a national open data portal since 2011 with no open data policy on record, so no stage is set.
 
 Not established: A portal is named with no open data policy behind it. No policy or draft is on record, and no source dated in the last three years says the country has neither.
 

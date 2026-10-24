@@ -20,9 +20,9 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 29 |
+| 5 Leading | 30 |
 | 4 Operating | 14 |
-| 3 Established | 9 |
+| 3 Established | 8 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -131,6 +131,14 @@ The central bank took part in a regional or continental payment system in 2026.
 
 - PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 - The PAPSS April 2026 coverage list shows Gambia as a country where PAPSS transfers are available, with live commercial banks AGIB Bank, Bloom Bank, Ecobank, First Bank, Trust Bank and Vista Bank ([source, 2026-04](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf)).
+
+### Ghana: 5 Leading
+
+The Bank of Ghana licensed payment providers, oversaw the national payment switch and linked mobile wallets to a regional payment system in 2026.
+
+- The Bank of Ghana granted dLocal Ghana an Enhanced Payment Service Provider licence, reported 2026-09-09 ([source, 2026-09-09](https://techcabal.com/2026/09/09/dlocal-ghana-secures-enhanced-payments-licence/)).
+- The Bank of Ghana's head of fintech says the Bank established GhIPSS in 2007 as a neutral, interoperable national payment infrastructure, publicly owned, connecting banks, mobile money operators and other payment service providers ([source, 2026-10-22](https://channelonenewsonline.com/2026/10/22/bank-of-ghana-pushes-for-seamless-african-cross-border-payments/)).
+- Bank of Ghana Governor Asiama said PAPSS has been extended to mobile wallets along the Ghana-Nigeria corridor ([source, 2026-10-13](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)).
 
 ### Guinea-Bissau: 5 Leading
 
@@ -338,12 +346,6 @@ The central bank licensed payment providers in 2026; a national switch it overse
 The central bank licensed payment providers in 2025; a national switch it oversees is not known.
 
 - Himbol's guide says Himbol, which runs the M-Nakfa mobile wallet and remittance payout, operates under the supervision and licensing of the Bank of Eritrea ([source, 2025](https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf)).
-
-### Ghana: 3 Established
-
-The central bank licensed payment providers in 2026; a national switch it oversees is not known.
-
-- The Bank of Ghana granted dLocal Ghana an Enhanced Payment Service Provider licence, reported 2026-09-09 ([source, 2026-09-09](https://techcabal.com/2026/09/09/dlocal-ghana-secures-enhanced-payments-licence/)).
 
 ### Madagascar: 3 Established
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-nga-fg-launches-build-on-nigerias-postcode-to-showcase-digital-solutions-powered-by",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "The Federal Ministry of Communications, Innovation and Digital Economy says Nigeria's National Digital Alphanumeric Postcode System, an 11-character postcode, was launched on 1 October 2026.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "National Digital Alphanumeric Postcode System",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Alphanumeric Postcode System",
+   "country_label": "Nigeria",
+   "class": "address",
+   "platform": "",
+   "owner": "NIPOST / Federal Ministry of Communications, Innovation and Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

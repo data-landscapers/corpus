@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-21-mar-cndp-niiat-partner-to-train-20-000-young-moroccans-in-data-privacy",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Law No. 09-08 on personal data, adopted in 2009, is the law under which the CNDP's DATA-TIKA programme operates, per Morocco World News.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Law No. 09-08",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The CNDP, created by Law 09-08, is acting, with president Omar Seghrouchni signing an agreement on 21 October 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

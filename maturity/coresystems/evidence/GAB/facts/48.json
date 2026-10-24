@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-22-gab-gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-p",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Gabon Connect (eTax, eEmployeur, TresorPay, eDouane, ePropriete)",
+   "country_label": "GAB",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Gabon",
+   "tiers": ""
+  }
+ ],
+ "note": "Portals are presented as a rollout to December 2027; no core finance, tax or payroll system is stated in use."
+}

@@ -21,8 +21,8 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 14 |
-| 3 Established | 24 |
+| 4 Operating | 15 |
+| 3 Established | 23 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
@@ -79,6 +79,14 @@ A trade single window joined customs and other agencies in 2025; electronic exch
 A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
 
 - The Office Burundais des Recettes presented on 17 February 2026 the new web version of the Guichet Unique Electronique for import permits, which centralises procedures of the medicines regulator ABREMA, the agriculture ministry (sanitary and phytosanitary certificates) and the OBR, and is now the exclusive route for pharmaceutical importers ([source, 2026-02-17](https://www.wearetech.africa/fr/fils/actualites/tech/le-burundi-digitalise-ses-procedures-d-importation-via-un-guichet-unique)).
+
+### Comoros: 4 Operating
+
+Customs ran on an automated system and a trade single window was deployed by 2026; data exchange with other countries is not known.
+
+- The Direction Generale des Douanes says SYDONIA World has been the central platform dematerialising customs procedures, in operation since 2018 ([source, 2026-06-11](http://www.douane.gov.km/lire-actu.php?id=34&lang=fr)).
+- La Gazette des Comores reports that the customs information system SYDONIA was interconnected with the tax system SIGIT in a launch on 30 December 2023, with customs operator data cross-checked against tax records ([source, 2023-12-30](https://www.lagazettedescomores.com/economie/interconnexion-sigit-/-sydonia-vers-la-modernisation-et-la-s%C3%A9curisation-de-la-gestion-fiscale-.html)).
+- UNCTAD says the first phase of the Guichet Unique du Commerce Extérieur (GUCE) has been deployed in Comoros, and its programme is to expand GUCE to additional border agencies ([source, 2026](https://unctad.org/project/comoros-economic-integration-acceleration-programme-components-1-and-2a)).
 
 ### DR Congo: 4 Operating
 
@@ -171,13 +179,6 @@ Customs declarations were processed electronically in 2026; a single window is n
 Customs declarations were processed electronically in 2024; a single window is not on record.
 
 - Finance minister Peggy Serame said BURS continues to optimise e-services including online customs declarations ([source, 2024-02](https://dailynews.gov.bw/news-detail/77665)).
-
-### Comoros: 3 Established
-
-Customs declarations were processed electronically in 2026; a single window is not on record.
-
-- The Direction Generale des Douanes says SYDONIA World has been the central platform dematerialising customs procedures, in operation since 2018 ([source, 2026-06-11](http://www.douane.gov.km/lire-actu.php?id=34&lang=fr)).
-- La Gazette des Comores reports that the customs information system SYDONIA was interconnected with the tax system SIGIT in a launch on 30 December 2023, with customs operator data cross-checked against tax records ([source, 2023-12-30](https://www.lagazettedescomores.com/economie/interconnexion-sigit-/-sydonia-vers-la-modernisation-et-la-s%C3%A9curisation-de-la-gestion-fiscale-.html)).
 
 ### Congo: 3 Established
 

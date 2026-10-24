@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-23-eth-strategy-to-ensure-70-of-population-digitally-literate-80-of-gov-t-emp",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Ethiopian AI Institute deputy director general Taye Girma said locally developed applications already connect central institutions to woredas for family and vital events registration, while Digital Ethiopia 2030 will digitalize civil registration nationwide.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "civil registration and residency services applications",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "civil registration and residency services applications",
+   "country_label": "ETH",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ethiopian Artificial Intelligence Institute",
+   "tiers": "central to woreda"
+  }
+ ],
+ "note": ""
+}

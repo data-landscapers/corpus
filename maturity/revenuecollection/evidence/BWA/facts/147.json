@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-04-bwa-dailynews-tax-reforms-e-vat-invoicing",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Finance Minister Ndaba Gaolathe told Parliament of the implementation of an electronic VAT invoicing and monitoring system and a modernised Botswana Unified Revenue Service VAT system.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "electronic VAT invoicing and monitoring system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
