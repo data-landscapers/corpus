@@ -4,8 +4,8 @@ compiled: 2026-10-24
 period: 2026-09-01 to 2026-10-24
 place: COM
 ledger_rows: 15
-not_held: 24
-record: 8dd7e8a565d0
+not_held: 23
+record: 88d0c754a565
 ---
 
 # News, Sep – Oct 2026
