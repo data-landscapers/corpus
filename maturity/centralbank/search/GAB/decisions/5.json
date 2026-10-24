@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "A convention between the Gabonese State and BEAC makes the Madigipaie GIMAC QR-code payment system conform to community technical norms on interoperability, with BEAC guaranteeing the QR transactions (minister's statement, 3 July 2026).",
+  "title": "Gabon/Numérique : le programme Madigipaie présenté à l'édile de Libreville",
+  "publisher": "Agence Gabonaise de Presse",
+  "published": "2026-07-03",
+  "date_source": "source",
+  "why_not": ""
+}

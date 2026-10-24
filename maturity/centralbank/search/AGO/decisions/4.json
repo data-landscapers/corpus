@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "regional;switch",
+ "fact": "BNA Aviso 3/2025 sets the rules for financial institutions to take part in SADC-RTGS (via the SPTR) and the SADC TCIB (via the STI instant transfer system).",
+ "title": "Aviso n.º 3/25 de 21 de maio",
+ "publisher": "Banco Nacional de Angola, Diário da República I Série n.º 92",
+ "published": "2025-05-21",
+ "date_source": "source",
+ "why_not": ""
+}

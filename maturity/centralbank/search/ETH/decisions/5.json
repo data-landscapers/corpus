@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The National Bank of Ethiopia register lists licensed payment instrument issuers: Ethiotelecom/Telebirr (23 April 2021), Kacha (16 June 2022), Safaricom M-PESA (10 May 2023), Yaya (13 October 2023), ToloPay (3 June 2025) and Vitabirr (15 July 2025).",
+  "title": "Payment Instrument Issuers/System Operators",
+  "publisher": "National Bank of Ethiopia",
+  "published": "2025-07",
+  "date_source": "proxy",
+  "why_not": ""
+}

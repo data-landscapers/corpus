@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The Bank of Mozambique has granted pawaPay, through its subsidiary Quidexplus Mozambique, a Payment Service Provider licence allowing it to onboard merchants directly onto mobile money services.",
+  "title": "pawaPay secures Mozambique payments licence",
+  "publisher": "The Paypers",
+  "published": "2026-10-13",
+  "date_source": "proxy",
+  "why_not": ""
+}

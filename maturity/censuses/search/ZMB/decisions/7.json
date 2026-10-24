@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 2024 ZDHS Key Indicators Report (November 2024) gives preliminary results of the 2024 Zambia Demographic and Health Survey, with a final report to follow in 2025.",
+ "title": "2024 ZDHS Key Indicators Report",
+ "publisher": "Zambia Statistics Agency, Ministry of Health, ICF",
+ "published": "2024-11",
+ "date_source": "source",
+ "why_not": ""
+}

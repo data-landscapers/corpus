@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "deaths",
+  "fact": "Vital event registration was paper-based until 2011; the e-death notification system, launched October 2018 and rolled out from 2019, is deployed at all state and private hospitals, old age homes and police and hospital mortuaries, linked to the NPRS.",
+  "title": "Namibia Mortality and Causes of Deaths Report, 2018 - 2021",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2023-06",
+  "date_source": "source",
+  "why_not": ""
+}

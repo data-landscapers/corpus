@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dhsprogram.com/pubs/pdf/PR167/PR167.pdf,fetched,,scripts/.workroot/study/censuses/cache/COG/1.txt,28633,pdf,Congo DHS 2025 - Key Indicators Report [PR167]
+2,https://ins-congo.cg/rapport-ehcvm-2022-vf/,fetched,,scripts/.workroot/study/censuses/cache/COG/2.txt,255,html,RAPPORT EHCVM 2022 - INS-CONGO BRAZZAVILLE
+3,https://congo.unfpa.org/fr/news/atelier-d%C3%A9laboration-des-projections-d%C3%A9mographiques-du-rgph-5-un-pas-de-plus-pour-une,fetched,,scripts/.workroot/study/censuses/cache/COG/3.txt,321,html,Atelier d’élaboration des projections démographiques du RGPH-5: Un pas de plus pour une planification efficace du développement futur du pays
+4,https://ins-congo.cg/populations-residentes-des-localites-du-congo/,fetched,,scripts/.workroot/study/censuses/cache/COG/4.txt,251,html,POPULATIONS RESIDENTES DES LOCALITES DU CONGO - INS-CONGO BRAZZAVILLE
+5,https://www.tresor.economie.gouv.fr/Pays/CG/recensement-2023-au-congo-brazzaville,fetched,,scripts/.workroot/study/censuses/cache/COG/5.txt,631,html,CONGO
+6,https://ins-congo.cg/rapport-preliminaire/,fetched,,scripts/.workroot/study/censuses/cache/COG/6.txt,710,html,RAPPORT PRELIMINAIRE DU RGPH-5 - INS-CONGO BRAZZAVILLE
+7,https://congo.unfpa.org/fr/news/atelier-de-pr%C3%A9paration-des-r%C3%A9sultats-pr%C3%A9liminaires-du-rgph-5-au-congo,fetched,,scripts/.workroot/study/censuses/cache/COG/7.txt,214,html,Atelier de préparation des résultats préliminaires du RGPH-5 au Congo
+8,https://ins-congo.cg/recensement-general-accelerer-le-denombrement-principal-de-la-population/,fetched,,scripts/.workroot/study/censuses/cache/COG/8.txt,195,html,RECENSEMENT GÉNÉRAL DE LA POPULATION ET DE L’HABITATION (RGPH-5) : VERS L’EXÉCUTION DU DÉNOMBREMENT PRINCIPAL - INS-CONGO BRAZZAVILLE

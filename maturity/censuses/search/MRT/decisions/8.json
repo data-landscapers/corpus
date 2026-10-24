@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "On 13 March 2024 cabinet received preliminary results of the 2023 census (settled population growth 2.66% a year 2013-2023) and set final results for July 2024.",
+ "title": "Conseil des Ministres du 13 mars 2024",
+ "publisher": "Agence mauritanienne d'information",
+ "published": "2024-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

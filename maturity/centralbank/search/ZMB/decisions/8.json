@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "regional",
+  "fact": "The TCIB payment corridor between South Africa and Zambia went live on 28 February 2024, and the Bank of Zambia and nine Zambian banks participate in SADC-RTGS (June 2024).",
+  "title": "SADC Payment System Oversight Committee Report April 2021 - June 2024",
+  "publisher": "SADC Committee of Central Bank Governors / South African Reserve Bank",
+  "published": "2024",
+  "date_source": "proxy",
+  "sub_indicator": "centralbank",
+  "why_not": ""
+}

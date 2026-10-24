@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;regional",
+  "fact": "Bank of Uganda is the payment systems regulator under the National Payment Systems Act 2020 and is implementing its National Payment Switch (BNPS) at pre-implementation stage, to serve as the base for Uganda's participation in EAPS and the COMESA REPSS.",
+  "title": "Terms of Reference: pre-implementation blueprint for an Instant Payment System for the Bank of Uganda National Payment Switch (BNPS)",
+  "publisher": "AfricaNenda Foundation",
+  "published": "2026-05",
+  "date_source": "proxy",
+  "why_not": ""
+}

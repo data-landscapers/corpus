@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths",
+  "fact": "Birth registration is decentralized to all counties and digitized, while death registration is at one centre, under 5% of deaths are registered, and digitization of death registration was planned for 2020.",
+  "title": "Liberia experience on the impact of COVID 19 on CRVS system and planning for the future",
+  "publisher": "Ministry of Health, Liberia (UNSD webinar)",
+  "published": "2020-06-23",
+  "date_source": "source",
+  "why_not": ""
+}

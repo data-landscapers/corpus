@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "By circular n° 2026-10 of 25 September 2026 the BCT recast the rules for payment institutions (licensed under articles 20-21 of law 2016-48), repealing circular 2018-16 and citing its circular 2020-11 on domestic mobile payment.",
+  "title": "Circulaire de la Banque Centrale de Tunisie n° 2026-10",
+  "publisher": "Banque Centrale de Tunisie",
+  "published": "2026-09-25",
+  "date_source": "source",
+  "why_not": ""
+}

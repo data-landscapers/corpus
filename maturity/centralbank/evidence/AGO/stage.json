@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "5",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "5",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-003;AGO-002",
+      "gaps": "",
+      "note": "The BNA put the kwanza into SADC-RTGS from 27 July 2026 with five Angolan banks taking part, a regional payment system in service. A later yes answers the earlier questions.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

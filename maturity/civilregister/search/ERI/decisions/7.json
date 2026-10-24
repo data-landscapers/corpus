@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths",
+  "fact": "WHO reported on 4 March 2021 that Eritrea developed a roadmap for CRVS implementation after February 2021 stakeholder consultations with local government and the statistics office.",
+  "title": "Eritrea presents on the Regional Consultation on ICD-11 & CRVS",
+  "publisher": "WHO Regional Office for Africa",
+  "published": "2021-03-04",
+  "date_source": "source",
+  "why_not": ""
+}

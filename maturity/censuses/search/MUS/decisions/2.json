@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census;results",
+  "fact": "The Housing Census ran 30 April to 20 June 2022 and the Population Census 19 June to 1 August 2022; Housing Census table report came June 2023 and Population Census table reports May to December 2024.",
+  "title": "2022 Housing and Population Census, Methodology Report",
+  "publisher": "Statistics Mauritius",
+  "published": "2025-09",
+  "date_source": "source",
+  "why_not": ""
+}

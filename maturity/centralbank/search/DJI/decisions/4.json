@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch",
+  "fact": "The 2023 World Bank diagnostic says Djibouti introduced e-money issuer rules in 2017 (Instruction, 100 million DJF initial capital) and that the BCD's ATS phase 1 connected all banks in 2021, with phase 2 planned for 2024 to connect non-bank payment providers via a gateway.",
+  "title": "Rapport du diagnostic de l'économie numérique de Djibouti",
+  "publisher": "Groupe de la Banque mondiale",
+  "published": "2023",
+  "date_source": "source",
+  "why_not": ""
+}

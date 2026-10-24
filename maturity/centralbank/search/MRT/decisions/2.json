@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;mandate",
+  "fact": "On Monday 14 October 2024 GIMTEL officially launched interoperability between bank apps and e-wallets, and the BCM governor said the BCM had activated oversight of payment systems and payment instruments, alongside a new automated clearing system.",
+  "title": "GEMTEL annonce le lancement officiel de l’interconnexion entre les applications bancaires",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2024-10-14",
+  "date_source": "proxy",
+  "why_not": ""
+}

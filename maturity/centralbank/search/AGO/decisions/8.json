@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "BNA Aviso 03/2022 designates financial market infrastructures, applies PFMI oversight, approves their rules and requires BNA authorisation of interoperability between them.",
+  "title": "Aviso n.º 03/2022 - Infraestruturas do Mercado Financeiro",
+  "publisher": "Banco Nacional de Angola",
+  "published": "2022-02-02",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "On 25 June 2026 the BCEAO extended the PI-SPI connection deadline to 30 September 2026; 80 participants were connected as of 24 June 2026, including Coris Bank, Ecobank, Orabank and Bank of Africa in Togo.",
+  "title": "BCEAO Extends Deadline for Connecting to UEMOA Instant Payment Platform",
+  "publisher": "Togo First",
+  "published": "2026-06-25",
+  "date_source": "source",
+  "why_not": ""
+}

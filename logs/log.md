@@ -12,6 +12,11 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-24 02:40 · **REBUILD** · 22m · civilregister civil: 51 cells reassessed, 3 moved; 54 searched, 183 staged; 92.6M tokens (third of a shared window) - ok
+2026-10-24 02:40 · **REBUILD** · 22m · centralbank centralbank: 52 cells reassessed, 5 moved; 54 searched, 227 staged; 92.5M tokens (third of a shared window) - ok
+2026-10-24 02:40 · **REBUILD** · 22m · censuses census: 10 cells reassessed, 0 moved; 54 searched, 293 staged; 92.5M tokens (third of a shared window) - ok
+2026-10-24 02:34 · **BUDGET-EXTRACT** · unclocked · finance upkeep: 11 sittings, BDI FY2025 10->39, KEN own-source +14, BWA and NER regulators; 23 follow-ups waiting, 6 notes for OSINT - ok
+2026-10-24 02:34 · **REVIEW** · unclocked · COG: status 13 sections revised, progress 12 cells, finance 0 rows; 1 deal queued, 1 note for OSINT - ok
 2026-10-24 02:32 · **REVIEW** · unclocked · COM: status 10 sections revised, progress 7 cells, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
 2026-10-24 02:32 · **BUDGET-EXTRACT** · unclocked · NGA FY2024-26: votes recorded for every head (55, 52, 56), all read at the completion sitting of 2026-09-25; no row changed
 2026-10-24 02:29 · **BUDGET-EXTRACT** · unclocked · AGO FY2024-26: votes written for every organ (62, 67, 69), all read; the 2025 SENADIAC platform added (AOA 80m)

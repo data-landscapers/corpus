@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "The census, validated by the Constitutional Court, gives Gabon 3.5 million inhabitants including 1,200,256 foreign nationals (34.1%).",
+  "title": "Au Gabon, la hausse du nombre d'étrangers fait débat",
+  "publisher": "DW",
+  "published": "2026-10-21",
+  "date_source": "source",
+  "why_not": ""
+}

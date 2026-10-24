@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The INS social indicators report from the EHCVM-II 2021/2022 (6,622 households, collected November 2021 to August 2022) was issued in July 2023.",
+ "title": "Rapport sur les indicateurs sociaux, EHCVM 2021/2022",
+ "publisher": "Institut National de la Statistique du Niger",
+ "published": "2023-07",
+ "date_source": "source",
+ "why_not": ""
+}

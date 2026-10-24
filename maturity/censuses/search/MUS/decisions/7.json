@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The 2022 Population Census was conducted in July 2022 and enumerated a resident population of 1,235,260; figures were provisional.",
+  "title": "2022 Population Census - Main Results (Economic and Social Indicators, Issue No 1687)",
+  "publisher": "Statistics Mauritius",
+  "published": "2022-11-18",
+  "date_source": "source",
+  "why_not": ""
+}

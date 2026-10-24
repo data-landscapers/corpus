@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The Council of Ministers of 11 September 2024 received the final results of RGPH-5: 4,927,532 inhabitants in 2023 against 3,537,368 in 2013.",
+ "title": "Communiqué du Conseil des Ministres",
+ "publisher": "Primature",
+ "published": "2024-09-11",
+ "date_source": "source",
+ "why_not": ""
+}

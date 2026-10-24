@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 5th Cameroon Demographic and Health Survey (fieldwork 16 June 2018 to 19 January 2019) was published as a final report in February 2020.",
+ "title": "Enquête Démographique et de Santé 2018",
+ "publisher": "Institut National de la Statistique / ICF",
+ "published": "2020-02",
+ "date_source": "source",
+ "why_not": ""
+}

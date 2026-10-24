@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census;results",
+  "fact": "On 12 June 2026 the Bureau Central du Recensement reported a 8-12 June 2026 workshop finalising the RGPHAE 2024 final results report, whose publication is still awaited.",
+  "title": "RGPHAE 2024 : les travaux de rédaction des résultats définitifs se poursuivent",
+  "publisher": "Bureau Central du Recensement (BCR)",
+  "published": "2026-06-12",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The 2022 Census was carried out 18 August to 21 September 2022, with mapping completed August 2020 and a pilot census in November-December 2020; preliminary results were issued in December 2022.",
+ "title": "2022 Census of Population and Housing Preliminary Report",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2022-12",
+ "date_source": "source",
+ "why_not": ""
+}

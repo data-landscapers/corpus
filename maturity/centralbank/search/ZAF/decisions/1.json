@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "switch;mandate;regional",
+  "fact": "The 2025/26 report states the SARB regulates, supervises and oversees the NPS, oversees PayInc (ex-BankservAfrica), SAMOS and the SADC-RTGS as systemic FMIs, exercised oversight of PayShap (14 participating banks) and completed its 50% PayInc acquisition on 5 November 2025.",
+  "title": "National Payment System Regulatory and Oversight Report 2025/26 (1 April 2025 - 31 March 2026)",
+  "publisher": "South African Reserve Bank",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": "",
+  "sub_indicator": "centralbank"
+}

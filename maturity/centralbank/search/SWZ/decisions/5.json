@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;mandate",
+  "fact": "CBE Fast Payments Directive no 1 of 2024, issued 25 July 2024 under the National Payments System Act 2023, requires all participants and payment service providers to route domestic off-us transactions up to E50,000 through the Eswatini Payment Switch from 19 August 2024.",
+  "title": "Fast Payments Directive no:1 of 2024",
+  "publisher": "Central Bank of Eswatini",
+  "published": "2024-07-25",
+  "date_source": "source",
+  "why_not": ""
+}

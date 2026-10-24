@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "mandate;regional",
+ "fact": "At the end of 2024 the Bank had 23 operating EPS providers licensed under the EPS Regulations, 2019, and four Botswana commercial banks participated in the SADC-RTGS, which the Bank facilitated.",
+ "title": "Annual Report 2024",
+ "publisher": "Bank of Botswana",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

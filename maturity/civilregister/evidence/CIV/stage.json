@@ -9,10 +9,10 @@
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-003;CIV-005",
-      "gaps": "No source held since October 2023 puts birth registration at 90% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "CIV-007;CIV-003",
+      "gaps": "No source held since October 2023 puts birth registration at 90% or more. Registration terminals in health centres are still being rolled out.",
+      "note": "98% of civil-registry centres were computerised on Cityweb in March 2026, which registers births and deaths. No coverage share is held.",
+      "as_at": "2026-10-24"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "regional",
+ "fact": "By circular TED/FEM/PUB/FPC/001/006 of 28 April 2025 the CBN directed all banks to adopt PAPSS and begin originating transactions.",
+ "title": "CBN directs banks to adopt PAPSS for transaction processing",
+ "publisher": "Nairametrics",
+ "published": "2025-04-28",
+ "date_source": "source",
+ "why_not": ""
+}

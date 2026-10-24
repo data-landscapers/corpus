@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "coverage;births",
+  "fact": "The UNICEF summative evaluation of PAMEC (July 2018 to September 2022) reports the birth registration rate rose to 82.8% in 2022 from 56.5% in 2019, while use of computers for registration fell from 24% in 2019 to 13.1% in 2022.",
+  "title": "Evaluation Sommative du Programme d'Appui à la Modernisation de l'Etat Civil au Burkina Faso (PAMEC) (1er juillet 2018- 30 septembre 2022)",
+  "publisher": "UNICEF",
+  "published": "2023",
+  "date_source": "source",
+  "why_not": ""
+}

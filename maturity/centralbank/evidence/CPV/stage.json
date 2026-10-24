@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "4",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-004;CPV-002",
-   "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "4",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-004;CPV-002",
+      "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
+      "note": "The Banco de Cabo Verde manages SICIL, the interbank clearing system for cheques, transfers and cards, and oversees the payment system (2025). No regional link is held.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

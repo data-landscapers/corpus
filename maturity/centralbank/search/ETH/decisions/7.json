@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "On 9 October 2023 the NBE issued a revised Payment Instrument Issuer Directive for mobile money providers, setting requirements for foreign providers and raising the daily e-account balance limit from Birr 30,000 to 75,000.",
+  "title": "The National Bank of Ethiopia has issued a revised Directive for mobile money providers to promote safety, competition and innovation.",
+  "publisher": "National Bank of Ethiopia",
+  "published": "2023-10-09",
+  "date_source": "source",
+  "why_not": ""
+}

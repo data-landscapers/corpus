@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "switch;regional",
+ "fact": "In July 2026 the Central Bank of Somalia announced plans to expand the SIPS instant payment system (live since January 2025) to connect 14 commercial banks and 8 mobile money providers, and to link SIPS to PAPSS before the end of 2026.",
+ "title": "Soomaaliya oo dardar gelinaysa casriyeynta nidaamka lacag-bixinta dalka.",
+ "publisher": "Allbanaadir.com",
+ "published": "2026-07-27",
+ "date_source": "proxy",
+ "why_not": ""
+}

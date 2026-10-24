@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "EICV7, fieldwork October 2023 to October 2024, found 27.4% of the population in poverty in 2023/24; the report was published in 2025.",
+ "title": "Seventh Integrated Household Living Conditions Survey (EICV7) Main Indicators Report",
+ "publisher": "National Institute of Statistics of Rwanda (NISR)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

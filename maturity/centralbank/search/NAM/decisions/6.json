@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The Governor issued Determination PSD-3 on 15 September 2024 (Gazette 8457, 27 September 2024), requiring e-money issuers to be licensed or authorised by the Bank of Namibia under the Payment System Management Act, 2023.",
+  "title": "Determination on Issuing of Electronic Money in Namibia (PSD-3)",
+  "publisher": "Bank of Namibia",
+  "published": "2024-09-27",
+  "date_source": "source",
+  "why_not": ""
+}

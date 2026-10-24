@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "switch",
+ "fact": "As of 20 October 2026 no announcement that the national payment switch contracted in February 2024 for the BFM has gone live, and no go-live date for a national instant payment system.",
+ "title": "Madagascar payments — QR & payment standards",
+ "publisher": "Barcoder",
+ "published": "2026-10-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

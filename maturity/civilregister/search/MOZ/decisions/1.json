@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "births;deaths;coverage",
+ "fact": "Birth registration has been digitised since 2018 via e-SIRCEV, covering all 68 conservatories and 156 of 300 eligible hospital posts, with death registration semi-digitised and death registration coverage only 12.1 per cent in 2020.",
+ "title": "Securing and Adapting Birth Registration Systems in Response to Climate Change-Induced Natural and Humanitarian Disasters",
+ "publisher": "UNICEF Innocenti",
+ "published": "2026-01",
+ "date_source": "source",
+ "why_not": ""
+}

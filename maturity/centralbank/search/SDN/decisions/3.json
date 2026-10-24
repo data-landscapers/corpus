@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "The Director of the CBOS Payment Systems Department says the National Payment Switch is owned by the Central Bank and operated by it or by EBS, settles instructions from private switches, and that the Central Bank licenses and supervises private payment switch operators (licences granted in 2024 and 2025, one revoked in 2026).",
+  "title": "Central Bank Official: National Payment Switch Differs from Licensed Private Switches",
+  "publisher": "Sudanhorizon",
+  "published": "2026-07-07",
+  "date_source": "source",
+  "why_not": ""
+}

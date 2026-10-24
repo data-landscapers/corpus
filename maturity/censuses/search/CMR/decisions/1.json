@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "Field enumeration of Cameroon's 4th census (RGPH-4), begun 24 April 2026, closed on 15 September 2026 after Prime Ministerial extensions, with preliminary results expected in about five months.",
+ "title": "Population, Agropastoral Census: Cameroon Wraps Up Process After Two Deadline Extensions",
+ "publisher": "Cameroon Tribune",
+ "published": "2026-09-16",
+ "date_source": "source",
+ "why_not": ""
+}

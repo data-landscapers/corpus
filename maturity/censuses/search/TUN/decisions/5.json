@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The INS Flash Emploi of September 2025 gives labour force results from the November 2024 census, with 11,972.2 thousand inhabitants on 6 November 2024.",
+ "title": "Flash Emploi (RGPH 2024)",
+ "publisher": "Institut National de la Statistique",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

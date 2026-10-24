@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "births;coverage",
+ "fact": "By the end of 2023 only one third of children under five had their birth registered (32 per cent), and all conservatories were digitised under the national eCRVS.",
+ "title": "Birth registration In Brief",
+ "publisher": "UNICEF Mozambique",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

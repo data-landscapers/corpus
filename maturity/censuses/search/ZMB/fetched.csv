@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.zamstats.gov.zm/wp-content/uploads/2025/11/Zambia-Demographic-and-Health-Survey-2024.pdf,fetched,,scripts/.workroot/study/censuses/cache/ZMB/1.txt,341253,pdf,
+2,https://www.zamstats.gov.zm/wp-content/uploads/2025/10/2024-Labour-Force-Survey-Report.pdf,fetched,,scripts/.workroot/study/censuses/cache/ZMB/2.txt,43635,pdf,
+3,https://www.zamstats.gov.zm/wp-content/uploads/2025/08/2022-Census-National-Analytical-Report.pdf,held,held as raw/2025/2025-08-01-zambia-census-literacy-education.md,,0,,
+4,https://www.zamstats.gov.zm/Publications/Revised%202022%20Census%20of%20Population%20and%20Housing%20Summary%20Report%20Volume%20II.pdf,fetched,,scripts/.workroot/study/censuses/cache/ZMB/4.txt,170523,pdf,
+5,https://www.zamstats.gov.zm/wp-content/uploads/2024/07/2022-LCMS-Report-2022.pdf,fetched,,scripts/.workroot/study/censuses/cache/ZMB/5.txt,104624,pdf,
+6,https://www.zamstats.gov.zm/wp-content/uploads/2024/09/2022-Census-of-Population-and-Housing-Summary-Report-Part-2.pdf,held,held as raw/2024/2024-06-01-zambia-2022-census-population-summary-report-volume-two.md,,0,,
+7,https://www.zamstats.gov.zm/wp-content/uploads/2024/11/2024-ZDHS-Key-Indicators-Report.pdf,fetched,,scripts/.workroot/study/censuses/cache/ZMB/7.txt,22694,pdf,
+8,https://www.zamstats.gov.zm/wp-content/uploads/2023/12/2022-Census-of-Population-and-Housing-Preliminary.pdf,fetched,,scripts/.workroot/study/censuses/cache/ZMB/8.txt,8811,pdf,

@@ -129,7 +129,7 @@ The RGPH-4 was counted in 2026; its final results are not known to be out.
 
 ### Central African Republic: 3 Established
 
-The RGPH-4 was counted in 2026; its final results are not known to be out.
+The RGPH-4 had been counted by 2026; its final results are not known to be out.
 
 - ICASEES held the restitution of the third phase of data cleaning of the RGPH-4, the country's first digital census, whose results are not yet final; no enumeration date is given, so the document's published date is used ([source, 2026-08-07](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement)).
 
@@ -147,7 +147,7 @@ The RGPH 2017 was counted in 2017; its final results are not known to be out.
 
 ### Congo: 3 Established
 
-The RGPH-5 was counted in 2025; its final results are not known to be out.
+The RGPH-5 had been counted by 2025; its final results are not known to be out.
 
 - The INS opened a workshop on 27 November 2025 to validate indicators and tables drawn from the fifth national population and housing census (RGPH-5), whose data were already collected and whose preliminary results were on display; the article gives no enumeration date, so the document's publication date is used ([source, 2025-11-29](https://www.adiac-congo.com/content/statistiques-lins-ouvre-latelier-national-de-validation-des-indicateurs-du-rgph-5-168128)).
 
@@ -177,9 +177,9 @@ The 2024 Population and Housing Census was counted in 2024; its final results ar
 
 ### Guinea: 3 Established
 
-The RGPH-4 was counted in 2026; its final results are not known to be out.
+The RGPH-4 was counted in July 2025; its final results are not known to be out.
 
-- A PN-RAVEC official cites results of the fourth general population census (RGPH-4) giving a resident population of 17,521,167, of which 3,407,327 in Conakry; no enumeration date is given, so the document's published date is used ([source, 2026-03-03](https://mediaguinee.com/2026/03/conakry-le-pn-ravec-dote-les-13-communes-dun-important-lot-dintrants-detat-civil-dont-les-certificats-de-non-remariage/)).
+- RGPH-4 was conducted 1 to 31 July 2025 across the national territory; preliminary results, acted by presidential decree of 6 March 2026, give 17,521,167 residents including foreigners ([source, 2025-07-31](https://www.stat-guinee.org/index.php/actu/404-decret-de-publication-des-resultats-du-rgph-4)).
 - The Ministry of Plan, through INS, published preliminary results of RGPH-4 on 25 February 2026 (population 17,521,167), and the Prime Minister called the census completed; enumeration date not given ([source, 2026-02-25](https://mpcid.gov.gn/index.php/rgph-4-la-guinee-revele-son-nouveau-visage-et-sancre-dans-la-gouvernance-par-la-donnee/)).
 
 ### Guinea-Bissau: 3 Established
@@ -211,7 +211,7 @@ The Population and Housing Census was counted in 2018; its final results are not
 
 ### Mali: 3 Established
 
-The RGPH5 was counted in 2026; its final results are not known to be out.
+The RGPH5 was counted in 2022; its final results are not known to be out.
 
 - INSTAT's Q4 2025 bulletin reports validation, on 16-18 December 2025 in Bamako, of the Directory of Localities of Mali produced from RGPH5 data, so the fifth general population census has been counted; the bulletin gives no enumeration date, so the bulletin's published date is used ([source, 2026-01-20](https://www.instat-mali.org/laravel-filemanager/files/shares/pub/khideux51_pub.pdf)).
 - INSTAT's microdata catalogue lists the fifth general population and housing census (RGPH5) of Mali, dated 2022 ([source, 2022](https://microdata.instat.ml/index.php/catalog/)).
@@ -273,7 +273,7 @@ The RGPH 2024 was counted in 2024; its final results are not known to be out.
 
 ### Zimbabwe: 3 Established
 
-The 2022 Population and Housing Census was counted in 2024; its final results are not known to be out.
+The 2022 Population and Housing Census was counted in 2022; its final results are not known to be out.
 
 - UNICEF Zimbabwe and ZIMSTAT announced in April 2024 a rollout of provincial and district data profiles derived from analysis of the 2022 Population and Housing Census ([source, 2024-04-17](https://www.unicef.org/zimbabwe/press-releases/unicef-zimbabwe-and-zimstat-launch-provincial-and-district-data-profiles-nationwide)).
 
@@ -345,9 +345,9 @@ Not established: No census counted since October 2016 or in preparation since Oc
 
 ### Ethiopia: Unplaced
 
-No census counted since 2016 or in preparation is on record, so no stage is set.
+The last census on record was counted in 2007; none since 2016 or in preparation is known, so no stage is set.
 
-Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+Not established: The last census on record was counted in 2007. No census counted since October 2016 or in preparation since October 2023 is held, and no source dated in the last three years says there is none.
 
 ### Kenya: Unplaced
 
@@ -357,9 +357,9 @@ Not established: No census counted since October 2016 or in preparation since Oc
 
 ### Sudan: Unplaced
 
-No census counted since 2016 or in preparation is on record, so no stage is set.
+The last census on record was counted in 2008; none since or in preparation is known, so no stage is set.
 
-Not established: No census counted since October 2016 or in preparation since October 2023 is on record, and no source dated in the last three years says there is none.
+Not established: The last census on record was counted in 2008. No census in preparation since October 2023 is held, and no source says none is being prepared.
 
 ### Algeria: No evidence
 

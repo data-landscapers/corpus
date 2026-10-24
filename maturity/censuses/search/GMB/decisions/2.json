@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The Gambia Labour Force Survey 2025, fieldwork 16 February to 29 April 2025 in 359 enumeration areas and 7,063 households, reports a labour force participation rate of 47.1 per cent.",
+ "title": "The Gambia Labour Force Survey (GLFS 2025) Draft Analytical Report",
+ "publisher": "Gambia Bureau of Statistics",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

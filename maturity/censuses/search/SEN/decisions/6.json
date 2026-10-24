@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "EHCVM II final report, July 2024, on 7,120 households surveyed in 2021-2022: monetary poverty 37.5%.",
+ "title": "Enquête harmonisée sur les conditions de vie des ménages (EHCVM II) au Sénégal, rapport final",
+ "publisher": "ANSD",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": false,
+  "sub_indicator": "census",
+  "aspect": "",
+  "fact": "",
+  "title": "Rapport qualité : RGPH 2024",
+  "publisher": "Haut-Commissariat au Plan",
+  "published": "",
+  "date_source": "source",
+  "why_not": "Fetched text is the introduction only; states no dated fact on the aspects."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The IDSR-III (DHS-type survey, 2018, over 6,700 households) was presented in Praia with national results in February 2019.",
+ "title": "III Inquérito Demográfico e de Saúde Reprodutiva (IDSR) - Cabo Verde regista ganhos significativos no domínio da saúde reprodutiva bem como a nível demográfico",
+ "publisher": "As Nações Unidas em Cabo Verde",
+ "published": "2019-02-19",
+ "date_source": "source",
+ "why_not": ""
+}

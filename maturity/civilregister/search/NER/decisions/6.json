@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;coverage",
+  "fact": "A digital platform for civil registration was in service centrally and in 100 communes, with 244,310 birth records digitised, and the birth declaration rate was 65% in 2023.",
+  "title": "Le système de l'état civil nigérien : Performance, Perspectives et Défis",
+  "publisher": "Le Sahel (ONEP Niger)",
+  "published": "2024-09-17",
+  "date_source": "source",
+  "why_not": ""
+}

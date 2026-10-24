@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "In 2022 national monetary authorities issued five payment-institution licences in the CEMAC, including Airtel Money S.A. (Gabon), following BEAC technical opinions under Regulation 04/18.",
+  "title": "Rapport sur les services de paiement dans la CEMAC en 2022",
+  "publisher": "Banque des États de l'Afrique Centrale (BEAC)",
+  "published": "2023",
+  "date_source": "proxy",
+  "why_not": ""
+}

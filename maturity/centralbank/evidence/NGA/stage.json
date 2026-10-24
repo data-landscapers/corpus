@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "5",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-005;NGA-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "5",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-003;NGA-002",
+      "gaps": "",
+      "note": "Remita's app sends money from Nigerian bank accounts to other African countries over PAPSS (September 2026), and PAPSS reaches mobile wallets on the Ghana-Nigeria corridor. That is live participation in a continental system.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

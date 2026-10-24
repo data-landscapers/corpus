@@ -9,10 +9,10 @@
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-001;ZAF-002",
-      "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZAF-002;ZAF-001",
+      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "note": "Online birth registration reached 161 health facilities, about 68% of births delivered (2023). Nothing held says births are registered digitally nationwide.",
+      "as_at": "2026-10-24"
     }
   ]
 }

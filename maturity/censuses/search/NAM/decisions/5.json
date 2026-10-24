@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The 2023 census was enumerated 18 September to 5 November 2023 (reference night 24 September 2023) and counted 3,022,401 people; final results expected in the third quarter of 2024/25.",
+ "title": "2023 Population & Housing Census Preliminary Report",
+ "publisher": "Namibia Statistics Agency",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

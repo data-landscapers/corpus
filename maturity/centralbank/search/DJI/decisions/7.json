@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch",
+  "fact": "The April 2023 UNCDF assessment says the BCD owns, operates and participates in the national payment system, launched the RTGS in July 2022, regulates D-Money, and that as of September 2022 no national retail payment switch was operational.",
+  "title": "Djibouti Payment Infrastructure Assessment Report",
+  "publisher": "UNCDF",
+  "published": "2023-04",
+  "date_source": "source",
+  "why_not": ""
+}

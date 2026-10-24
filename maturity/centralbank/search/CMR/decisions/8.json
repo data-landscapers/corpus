@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;mandate",
+  "fact": "In 2022 the BEAC Governor homologated CAMPOST's national payment aggregation platform (NPSI, USSD #237#) on condition that it join an interbank system settling at BEAC such as GIMACPAY, while refusing it authority to run a clearing house.",
+  "title": "Décision du Gouverneur n°013/GR/2022 portant homologation et autorisation d'exploitation d'une plateforme nationale d'agrégation des paiements (NPSI) par la CAMEROON POSTAL SERVICES (CAMPOST)",
+  "publisher": "Banque des Etats de l'Afrique Centrale (BEAC)",
+  "published": "2022",
+  "date_source": "proxy",
+  "why_not": ""
+}

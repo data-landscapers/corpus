@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 2022 Living Conditions Monitoring Survey was conducted in mid-2022 across 8,470 households and its report is dated June 2024.",
+ "title": "2022 Living Conditions Monitoring Survey Report",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

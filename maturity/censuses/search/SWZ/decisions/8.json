@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census;results",
+  "fact": "Volume 3 of the 2017 Population and Housing Census final-results series, dated December 2019, reports a 2017 census population of 1,093,238 and that the fifth post-independence census was done in 2017.",
+  "title": "The 2017 Population and Housing Census, Volume 3",
+  "publisher": "Central Statistical Office",
+  "published": "2019-12",
+  "date_source": "source",
+  "why_not": ""
+}

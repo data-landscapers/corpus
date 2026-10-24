@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "Statistics Mauritius conducted its eleventh Household Budget Survey from January to December 2023 on 7,000 households and published the analytical report in February 2025.",
+  "title": "Household Budget Survey 2023, Analytical Report",
+  "publisher": "Statistics Mauritius",
+  "published": "2025-02",
+  "date_source": "source",
+  "why_not": ""
+}

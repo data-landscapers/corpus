@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The NPC launched the 2024 Nigeria DHS report on 17 October 2025, with data from over 40,000 households in all 36 states and the FCT.",
+  "title": "NPC launches 2024 Demographic and Health Survey report, reveals notable gains and persistent gaps",
+  "publisher": "National Population Commission",
+  "published": "2025-10-17",
+  "date_source": "source",
+  "why_not": ""
+}

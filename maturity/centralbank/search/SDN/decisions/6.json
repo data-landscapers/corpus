@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "The CBOS register lists eight licensed Financial Institutions for Mobile Payment (first licence 2022/FIMP/1, MTN, then 2024 and 2025 licences) and three Financial Switch Operators (latest 2026/FSO/1).",
+  "title": "Licensed Financial Technology Companies",
+  "publisher": "Central Bank of Sudan",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

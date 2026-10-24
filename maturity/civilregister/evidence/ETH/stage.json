@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ETH-001;ETH-003",
-      "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-23"
+      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "note": "The national eCRVS is in a phased rollout from Addis Ababa (2026). Nothing held says births are registered digitally nationwide.",
+      "as_at": "2026-10-24"
     }
   ]
 }

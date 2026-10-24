@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [Instant Payment System](<https://www.ena.et/web/eng/ethiopia-ndps-2026-2030>); [ZooryaPay](<https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/>); [National switch](<https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/>); [Unified Government Payment Platform](<https://addisfortune.news/fed-tests-a-payment-window-for-the-whole-government-starting-with-health>); [PAPSS](<https://www.itweb.africa/article/ethiopia-modernises-cross-border-payments-via-papss/RgeVDMPR3w9vKJN3>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held says the National Bank of Ethiopia runs or oversees a national switch, or reports Ethiopian institutions live on PAPSS.

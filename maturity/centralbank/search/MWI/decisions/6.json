@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The RBM granted PawaPay a Payment Service Provider licence, issued on 13 August 2024.",
+  "title": "PawaPay gets payment service provider licence",
+  "publisher": "The Times Group",
+  "published": "2024-08-27",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The ENDE 2017-2021 states Cabo Verde plans the V Recenseamento Geral da População e Habitação in 2020, budgeted at 663,956,176 escudos.",
+  "title": "Estratégia Nacional para o Desenvolvimento de Estatísticas (ENDE 2017-2021)",
+  "publisher": "Boletim Oficial da República de Cabo Verde",
+  "published": "2019-02-08",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "Instruction 001-01-2024 of the BCEAO Governor sets that no one may provide payment services without prior BCEAO approval and entry on the list of payment institutions, with applications filed at the national BCEAO office.",
+  "title": "INSTRUCTION N°001-01-2024 RELATIVE AUX SERVICES DE PAIEMENT DANS L'UNION MONÉTAIRE OUEST AFRICAINE",
+  "publisher": "Banque Centrale des Etats de l'Afrique de l'Ouest",
+  "published": "2024-01-23",
+  "date_source": "proxy",
+  "why_not": ""
+}

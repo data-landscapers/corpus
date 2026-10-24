@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "BoT officially rolled TIPS out to the whole financial sector in March 2024, with 39 banks and six telecoms integrated by end January 2024.",
+  "title": "BoT connects all payment providers to TIPS",
+  "publisher": "Daily News",
+  "published": "2024-03-11",
+  "date_source": "proxy",
+  "why_not": ""
+}

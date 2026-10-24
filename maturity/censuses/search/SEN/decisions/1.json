@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;survey",
+ "fact": "APS, 20 October: the fifth census was carried out in 2023 and the next is planned for 2033; the 2025 DHS has collection planned December 2025 to March 2026.",
+ "title": "L'ANSD garantit \"fiabilité et rigueur\" dans la production de données nationales (officiel)",
+ "publisher": "APS",
+ "published": "2025-10-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths;coverage",
+  "fact": "Digital birth and death registration is a pilot at less than 10 per cent of registration sites and the system remains largely manual; administrative data show 45 per cent of under-1s registered July 2024 to March 2025 and death registration completeness 16 per cent.",
+  "title": "Securing and Adapting Birth Registration Systems in Response to Climate Change-Induced Natural and Humanitarian Disasters: Case Study Report 1: Ethiopia",
+  "publisher": "UNICEF Innocenti",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

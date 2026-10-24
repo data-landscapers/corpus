@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "coverage",
+ "fact": "The 2023 continuous DHS puts the share of under-fives whose birth is registered with civil status at 81.4% (SDG 16.9.1), below 90%.",
+ "title": "Enquête Démographique et de Santé Continue (EDS-Continue) 2023, rapport final",
+ "publisher": "ANSD; ICF",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

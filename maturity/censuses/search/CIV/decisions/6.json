@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "EHCVM 2021/22 data processing finished in all eight UEMOA countries; Cote d Ivoire poverty incidence 37.5% in 2021 vs 39.4% in 2018, presented to the steering committee at end September 2023.",
+  "title": "Programme d Harmonisation et de Modernisation des Enquêtes sur les Conditions de Vie des Ménages dans les États membres de l UEMOA : communiqué des résultats de l EHCVM 2",
+  "publisher": "Commission de l UEMOA, PHMECV",
+  "published": "2023",
+  "date_source": "proxy",
+  "why_not": ""
+}

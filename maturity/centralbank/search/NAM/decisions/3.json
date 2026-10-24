@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "On 12 June 2026 Instant Payments Namibia, a Bank of Namibia subsidiary, announced live-production pilot testing of the Instant Payment Solution completed, with phased rollout starting with government-to-person payments.",
+  "title": "Namibia's Instant Payment Solution successfully completes pilot testing ahead of phased go-live",
+  "publisher": "Instant Payments Namibia",
+  "published": "2026-06-12",
+  "date_source": "source",
+  "why_not": ""
+}

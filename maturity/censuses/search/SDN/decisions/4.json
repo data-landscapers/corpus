@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The Central Bureau of Statistics planned its upcoming population and housing census with GIS mapping and CAPI, and the report sets out enumeration area delineation and a pilot census.",
+ "title": "Assessment of GIS for the population and housing census and agricultural census in the Sudan",
+ "publisher": "ESCWA",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

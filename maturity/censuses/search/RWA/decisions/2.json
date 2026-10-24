@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 2025 Rwanda DHS (7th), fieldwork 5 June to 25 October 2025, drew its sample from the 2022 census enumeration areas and its key results were issued as a booklet in December 2025.",
+ "title": "DHS Incamake y'ubushakashatsi ku mibereho n'ubuzima",
+ "publisher": "Ikigo cy'Igihugu gishinzwe Ibarurishamibare mu Rwanda (NISR)",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

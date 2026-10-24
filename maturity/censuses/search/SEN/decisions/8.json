@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "Preliminary RGPH-5 report: enumeration 15 May to 14 June 2023 (to 24 June in some areas), 18,032,473 residents, 96.2% coverage.",
+ "title": "Rapport des résultats préliminaires du cinquième Recensement général de la Population et de l'Habitat",
+ "publisher": "ANSD",
+ "published": "2023-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

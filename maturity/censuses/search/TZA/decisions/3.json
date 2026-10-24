@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 2022 Tanzania Demographic and Health Survey and Malaria Indicator Survey, with data collected February to July 2022, published key indicators in January 2023.",
+ "title": "Tanzania Demographic and Health Survey and Malaria Indicator Survey 2022 Key Indicators Report",
+ "publisher": "Ministry of Health, National Bureau of Statistics, OCGS and ICF",
+ "published": "2023-01",
+ "date_source": "source",
+ "why_not": ""
+}

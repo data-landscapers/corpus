@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "On 16 June 2025 at the BEAC amphitheatre in Libreville, Gabon officially marked the national deployment of the interoperable GIMACPAY QR code, with a three-month rollout schedule.",
+  "title": "GIMACPAY QR Code: Gabon Takes Action",
+  "publisher": "GIMAC",
+  "published": "2025-06-18",
+  "date_source": "proxy",
+  "why_not": ""
+}

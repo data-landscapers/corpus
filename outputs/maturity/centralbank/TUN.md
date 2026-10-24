@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [walletii by Ooredoo](<https://menastartupdigest.com/ooredoo-fintech-secures-license-to-launch-digital-wallet-in-tunisia/>); [Monétique](<https://menastartupdigest.com/ooredoo-fintech-secures-license-to-launch-digital-wallet-in-tunisia/>); [Konnect](<https://thefintechtimes.com/tunisia-a-fintech-ecosystem-caught-between-cash-and-code/>); [Paymee](<https://thefintechtimes.com/tunisia-a-fintech-ecosystem-caught-between-cash-and-code/>); [OFT Tunisie](<https://www.lapresse.tn/2026/03/16/oft-tunisie-obtient-lautorisation-definitive-pour-exercer-comme-etablissement-de-paiement/>); [PAPSS](<https://en.africanmanager.com/tunisian-banks-urged-to-join-pan-african-papss-system/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held reports Tunisian payments running on PAPSS.

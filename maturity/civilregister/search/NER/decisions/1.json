@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths",
+  "fact": "In the first quarter of 2026, 176,349 births and 4,611 deaths were transcribed in the centralised INCI civil registration application, with 181 of 266 main centres (68%) computerised.",
+  "title": "Bulletin des statistiques des faits d'état civil du premier trimestre 2026",
+  "publisher": "Institut National de la Statistique (Niger)",
+  "published": "2026-07",
+  "date_source": "source",
+  "why_not": ""
+}

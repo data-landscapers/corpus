@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "civil",
-   "stage": "2",
-   "births": "underway",
-   "deaths": "",
-   "coverage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001;AGO-002",
-   "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
-   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "births": "underway",
+      "deaths": "",
+      "coverage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-002;AGO-001",
+      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "note": "Registration posts across the country run a computerised registry (2026), but nothing held states that births are registered digitally nationwide.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

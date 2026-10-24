@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The Ministry of Economy and Finance announced the final results of the fifth census on 23 June 2025: 4,927,532 inhabitants in 2023, 834,352 ordinary households.",
+ "title": "La population totale de la Mauritanie a atteint environ 5 millions d'habitants, selon le cinquième recensement général de la population et de l'habitat",
+ "publisher": "Agence mauritanienne d'information",
+ "published": "2025-06-23",
+ "date_source": "source",
+ "why_not": ""
+}

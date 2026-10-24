@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The authorities launched the operational phase of the second general census on 19 October 2026; no census had been held since 1984 and results are expected next July.",
+  "title": "Démographie : la RDC lance (enfin) un recensement général de sa population, 42 ans après le premier",
+  "publisher": "L'Humanité",
+  "published": "2026-10-20",
+  "date_source": "source",
+  "why_not": ""
+}

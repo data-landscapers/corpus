@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "In November 2023 the RBM Governor urged payment providers and fintechs to seek authorisation, stating that under the Payment Systems Act 2016 and RBM Act 2018 operating payment or e-money services without an RBM licence is an offence.",
+  "title": "RBM moves to curb unlicensed payment service providers",
+  "publisher": "Nation Online",
+  "published": "2023-11-07",
+  "date_source": "source",
+  "why_not": ""
+}

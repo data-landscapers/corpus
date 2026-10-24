@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.publicnow.com/view/166A6955536743F2A7F0CC77343FA2AEEC0A5EC1,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://boe.incv.cv/Bulletins/DownloadAct?id=89469,held,held as raw/2026/2026-01-26-cabo-verde-lei-70-x-2026-lei-organica-banco-de-cabo-verde.md,,0,,
+3,https://www.rtc.cv/tcv/video-details/cabo-verde-vai-ter-sistema-de-pagamento-instantaneo-a-partir-do-primeiro-trimestre-de-2026,fetched,,scripts/.workroot/study/centralbank/cache/CPV/3.txt,158,html,UCID agenda a temática da situação social para debate mensal com Primeiro-ministro por considerá-la critica
+4,https://www.correiodamanhacanada.com/banco-de-cabo-verde-prepara-plano-estrategico-2026-2029/,unfetchable,"ReadTimeout; Wayback HTTP 429, not checked",,0,,
+5,https://inforpress.cv/pt/nova-lei-organica-do-bcv-preve-emissao-de-moeda-digital-como-meio-complementar-de-pagamento-diz-governador,fetched,,scripts/.workroot/study/centralbank/cache/CPV/5.txt,543,html,Inforpress - Economia
+6,https://boe.incv.cv/Bulletins/DownloadAct?id=74474,fetched,,scripts/.workroot/study/centralbank/cache/CPV/6.txt,4418,pdf,"Boletim Oficial n.º 55, II Série de 25-03-2025"
+7,https://www.sisp.cv/docs/SISP%20-%20ANNUAL%20REPORT2024.pdf,held,held as raw/2025/2025-03-19-sisp-annual-report-2024.md,,0,,
+8,https://boe.incv.cv/Bulletins/Download/4453,fetched,,scripts/.workroot/study/centralbank/cache/CPV/8.txt,24581,pdf,

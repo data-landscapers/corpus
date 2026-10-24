@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "Census mapping for the RGPL was collected in three phases between July 2023 and August 2025, with a preliminary thematic analysis dated November 2025.",
+  "title": "Analyse thématique de la cartographie : principaux résultats",
+  "publisher": "Bureau Central du Recensement, Direction Générale de la Statistique",
+  "published": "2025-11",
+  "date_source": "source",
+  "why_not": ""
+}

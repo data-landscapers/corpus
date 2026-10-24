@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "mandate;switch",
+  "fact": "The report states the Bank issued the E-money Directives of 2023 and classes the National Financial Switch among the retail payment systems it oversees (NSIPS).",
+  "title": "National Payment Systems in Zambia, Annual Report for the year 2023",
+  "publisher": "Bank of Zambia",
+  "published": "2024",
+  "date_source": "proxy",
+  "sub_indicator": "centralbank",
+  "why_not": ""
+}

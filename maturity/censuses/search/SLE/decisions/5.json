@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The census was rescheduled to December 2026 with a pilot in December 2025; Stats SL budgeted US$37.5 million and the government committed US$6.5 million for 2025.",
+  "title": "PRESS RELEASE: STATUS UPDATE ON THE 2026 DECENNIAL POPULATION AND HOUSING CENSUS",
+  "publisher": "Statistics Sierra Leone",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "switch",
+ "fact": "The BCEAO list updated 30 September 2026 names 38 Ivorian participants, including Orange Money, MTN Money, Moov Money and Wave, authorised to open PI-SPI services to the public.",
+ "title": "Liste des participants autorises a ouvrir les services de PI-SPI au public (175)",
+ "publisher": "BCEAO",
+ "published": "2026-09-30",
+ "date_source": "source",
+ "why_not": ""
+}

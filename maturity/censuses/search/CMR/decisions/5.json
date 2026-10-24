@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The INS published the main results of the 5th Cameroon Household Survey (ECAM5, fieldwork 2021-2022) on 30 April 2024.",
+ "title": "Résultats de la 5ème Enquête Camerounaise Auprès des Ménages (ECAM5)",
+ "publisher": "Institut National de la Statistique",
+ "published": "2024-04-30",
+ "date_source": "source",
+ "why_not": ""
+}

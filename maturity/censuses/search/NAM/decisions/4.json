@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The Main Report presents final results of the 2023 Population and Housing Census, enumerated on Census Reference Night 24 September 2023, with the preliminary report having been released in March 2024.",
+ "title": "Namibia 2023 Population and Housing Census Main Report",
+ "publisher": "Namibia Statistics Agency",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

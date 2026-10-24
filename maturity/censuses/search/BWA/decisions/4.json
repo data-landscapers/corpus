@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "The 2022 Census Analytical Report Volume 1 reports a population of 2,359,609, the final analytical results.",
+  "title": "BOTSWANA POPULATION & HOUSING CENSUS 2022 ANALYTICAL REPORT VOLUME 1",
+  "publisher": "Statistics Botswana",
+  "published": "2025-08",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The National Bureau of Statistics published the South Sudan Multiple Indicator Cluster Survey 2025 key findings in April 2026 (fieldwork March-June 2025, sample frame the 2008 census).",
+ "title": "South Sudan Multiple Indicator Cluster Survey 2025, Key Findings Report",
+ "publisher": "National Bureau of Statistics",
+ "published": "2026-04",
+ "date_source": "source",
+ "why_not": ""
+}

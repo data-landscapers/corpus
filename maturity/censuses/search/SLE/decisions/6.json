@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census;results",
+  "fact": "The President accepted the final results of the December 2021 Mid-Term Census, with a final population of 7,548,702.",
+  "title": "Statistics Sierra Leone Hands Over Final Census Results To President Bio",
+  "publisher": "Statistics Sierra Leone",
+  "published": "2022-09",
+  "date_source": "proxy",
+  "why_not": ""
+}

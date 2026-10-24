@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "results;survey",
+ "fact": "The report states that the last stand-alone Labour Force Survey was in 2018 and that a labour force module in the 2023 Population and Housing Census was used to produce labour indicators (unemployment rate 36.9 percent).",
+ "title": "2023 Population and Housing Census Labour Force Report",
+ "publisher": "Namibia Statistics Agency",
+ "published": "2025-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

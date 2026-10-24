@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://stat-niger.org/wp-content/uploads/etat_civil/bts_etat_civil_1T2026.pdf,fetched,,scripts/.workroot/study/civilregister/cache/NER/1.txt,4363,pdf,
+2,https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1143-conclusions-du-conseil-des-ministres-du-mercredi-22-avril-2026,held,held as raw/2026/2026-04-22-gouv-conseil-ministres-etat-civil-anei.md,,0,,
+3,https://anp.ne/niger-lancement-dune-campagne-sur-lenregistrement-universel-des-naissances/,fetched,,scripts/.workroot/study/civilregister/cache/NER/3.txt,1112,html,Niger : Lancement d’une campagne sur l’enregistrement universel des naissances - Agence Nigérienne de Presse
+4,https://stat-niger.org/wp-content/uploads/etat_civil/rapport_etat_civil_2024.pdf,fetched,,scripts/.workroot/study/civilregister/cache/NER/4.txt,27274,pdf,
+5,https://www.nrc.no/perspectives/2024/securing-the-future-of-nigers-children-digitising-birth-certificates,fetched,,scripts/.workroot/study/civilregister/cache/NER/5.txt,669,html,Securing the future of Niger’s children: Digitising birth certificates
+6,https://www.lesahel.org/le-systeme-de-letat-civil-nigerien-performance-perspectives-et-defis/,fetched,,scripts/.workroot/study/civilregister/cache/NER/6.txt,593,html,"LE SYSTEME DE L’ETAT CIVIL NIGERIEN : Performance, Perspectives et Défis"
+7,https://www.wuri.ne/etat-civil/,held,held as raw/2026/2026-01-01-etat-civil-wuri-niger.md,,0,,
+8,https://www.unicef.org/niger/fr/recits/le-niger-modernise-sa-gestion-de-l%C3%A9tat-civil,fetched,,scripts/.workroot/study/civilregister/cache/NER/8.txt,585,html,Le Niger modernise sa gestion de l’état civil

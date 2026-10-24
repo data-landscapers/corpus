@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "mandate",
+ "fact": "The Banking Commission list updated 29 June 2026 shows 10 payment institutions and 4 e-money institutions (Djogana Pay, Moov Money, MTN MFS, Orange Money) registered in Cote d'Ivoire.",
+ "title": "Listes des etablissements de paiement et de monnaie electronique, Cote d'Ivoire",
+ "publisher": "Commission Bancaire de l'UMOA",
+ "published": "2026-06-29",
+ "date_source": "source",
+ "why_not": ""
+}

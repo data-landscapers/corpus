@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch",
+  "fact": "In 2025 the Bank of Ghana assessed the Ghana Interbank Settlement system and GhIPSS against the PFMI under section 50 of Act 987, designating both systemically important, and approved 53 payment products and services.",
+  "title": "Payment Systems Oversight Annual Report 2025",
+  "publisher": "Bank of Ghana",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

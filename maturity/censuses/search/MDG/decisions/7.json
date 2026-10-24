@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "INSTAT states the resident population recorded in the May-June 2018 census (RGPH-3) was 25,674,196.",
+  "title": "Resultats definitifs du RGPH-3 2018 | Troisieme Recensement General de la Population et de l'Habitation",
+  "publisher": "Institut National de la Statistique (INSTAT)",
+  "published": "2021-05-04",
+  "date_source": "source",
+  "why_not": ""
+}

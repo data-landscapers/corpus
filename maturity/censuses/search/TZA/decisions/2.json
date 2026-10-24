@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The 2022 Population and Housing Census reported a population of 61.7 million (61,741,120), published as the Basic Demographic and Socio-Economic Profile Report, the fourth in the series of major census publications.",
+ "title": "The 2022 Population and Housing Census: Tanzania Basic Demographic and Socio-Economic Profile Report",
+ "publisher": "National Bureau of Statistics and Office of the Chief Government Statistician Zanzibar",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": ""
+}

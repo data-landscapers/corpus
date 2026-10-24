@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "Decree 2024-070/PR/MEFI of 8 April 2024 fixed the launch of the RGPH-3 main enumeration at 14 April 2024 for 25 days.",
+  "title": "Décret n° 2024-070/PR/MEFI fixant la date de lancement et la durée du dénombrement principal du troisième Recensement Général de la Population et de l'Habitat (RGPH-3)",
+  "publisher": "Journal Officiel de la République de Djibouti",
+  "published": "2024-04-08",
+  "date_source": "source",
+  "why_not": ""
+}

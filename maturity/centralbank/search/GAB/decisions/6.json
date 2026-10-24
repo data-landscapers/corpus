@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "GIMAC is the regional switch interconnecting banks, microfinance and mobile money operators in the CEMAC zone under BEAC supervision, on GIMACPAY commissioned in 2020 under BEAC Instruction 001/GR/2018.",
+  "title": "How GIMAC ensures interoperability",
+  "publisher": "GIMAC",
+  "published": "2026-08-31",
+  "date_source": "proxy",
+  "why_not": ""
+}

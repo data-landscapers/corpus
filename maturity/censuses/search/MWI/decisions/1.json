@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "Census being prepared: NSO, ONS and WorldPop held a five-day training workshop in Blantyre on enumeration area updating for the 2028 Population and Housing Census.",
+  "title": "Building Stronger Foundations for Malawi's 2028 Census",
+  "publisher": "WorldPop",
+  "published": "2026-10-14",
+  "date_source": "source",
+  "why_not": ""
+}

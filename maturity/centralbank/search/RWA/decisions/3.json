@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "regional",
+  "fact": "PAPSS's June 2026 coverage sheet lists Rwanda among the countries with live participants (Bank of Kigali, BPR).",
+  "title": "PAPSS Payments Network Coverage June 2026",
+  "publisher": "PAPSS",
+  "published": "2026-06",
+  "sub_indicator": "centralbank",
+  "date_source": "source",
+  "why_not": ""
+}

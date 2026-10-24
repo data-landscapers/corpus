@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "On 29 September 2025 the INS director general said the thematic results of the 2024 census were presented in 12 axes and that preparation of the next, register-based census had begun.",
+ "title": "Le prochain Recensement sera basé sur les registres administratifs",
+ "publisher": "African Manager",
+ "published": "2025-09-30",
+ "date_source": "source",
+ "why_not": ""
+}

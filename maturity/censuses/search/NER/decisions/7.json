@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "On 20 December 2023 INS opened the workshop presenting the results of the second harmonised household living conditions survey (EHCVM-II, 2021-2022).",
+  "title": "L'INS diffuse les Résultats de l'EHCVM-II",
+  "publisher": "Institut National de la Statistique du Niger",
+  "published": "2023-12-22",
+  "date_source": "source",
+  "why_not": ""
+}

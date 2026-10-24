@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "Law 18/019 of 9 July 2018 and Organic Law 18/027 of 13 December 2018 place payment systems and instruments under BCC regulation and oversight; the BCC says it is still designing its oversight framework.",
+  "title": "Surveillance des systèmes de paiement",
+  "publisher": "Banque Centrale du Congo",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

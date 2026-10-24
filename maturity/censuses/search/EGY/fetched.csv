@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://gate.ahram.org.eg/News/5814068.aspx,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://www.unfpa.org/jobs/unfpa-egypt-international-consultancy-preparation-conduct-2028-population-and-housing-census,fetched,,scripts/.workroot/study/censuses/cache/EGY/2.txt,2321,html,"UNFPA Egypt - International Consultancy, Preparation to conduct the 2028 Population and Housing Census"
+3,https://www.dailynewsegypt.com/2026/05/17/planning-minister-capmas-chief-review-final-preparations-for-2027-national-census/,unfetchable,ReadTimeout; Wayback ConnectionError,,0,,
+4,https://www.cabinet.gov.eg/News/Details/84892,held,held as raw/2026/2026-02-02-prime-minister-chairs-high-committee-2027-census.md,,0,,
+5,https://www.dostor.org/5281762,fetched,,scripts/.workroot/study/censuses/cache/EGY/5.txt,309,html,رقم قومي لكل عقار.. الإحصاء يبدأ الحصر الخرائطي استعدادًا لتعداد 2027
+6,https://moic.gov.eg/news/2495,fetched,,scripts/.workroot/study/censuses/cache/EGY/6.txt,367,html,Ministry of International Cooperation
+7,https://erfdataportal.com/index.php/catalog/309,fetched,,scripts/.workroot/study/censuses/cache/EGY/7.txt,3722,html,"Household Income, Expenditure, and Consumption Survey, HIECS 2021/2022"
+8,https://metadata.capmas.gov.eg/ar/index.php/catalog/1927,fetched,,scripts/.workroot/study/censuses/cache/EGY/8.txt,1407,html,النشرة السنوية لبحث القوى العاملة 2024

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "On 23 September 2026 the Monetary and Banking Council (CMB) authorised Djezzy Payment Services to be constituted as a payment service provider.",
+  "title": "Djezzy Payment Services devient prestataire de services de paiement (Communiqué CMB 23/09/2026)",
+  "publisher": "Banque d'Algérie",
+  "published": "2026-09",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "Under the National Payment Systems Act (Cap. 437 R.E. 2023) the Bank regulates, supervises and oversees payment systems, and no one may issue electronic money without a BoT licence or approval.",
+  "title": "The National Payment Systems Act, Cap. 437 R.E. 2023",
+  "publisher": "Office of the Attorney General, United Republic of Tanzania",
+  "published": "2023",
+  "date_source": "proxy",
+  "why_not": ""
+}

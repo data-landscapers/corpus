@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "civil",
-   "stage": "4",
-   "births": "inservice",
-   "deaths": "digital",
-   "coverage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-005;EGY-002",
-   "gaps": "No source held since October 2023 puts birth registration at 90% or more.",
-   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "4",
+      "births": "inservice",
+      "deaths": "digital",
+      "coverage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-004;EGY-005",
+      "gaps": "The 96.6% birth registration completeness is for 2022, outside the three-year window.",
+      "note": "Egypt's 2026 plan and its July 2026 presentation say births and deaths are registered electronically nationwide. The only coverage figure is for 2022, too old to count.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

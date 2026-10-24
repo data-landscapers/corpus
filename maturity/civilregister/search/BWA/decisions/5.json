@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;coverage",
+  "fact": "In 2023 the birth registration rate was 92.3 percent, and the Births and Deaths Registration System (BDRS) is described as partially automated and decentralized, providing real-time data and interfaced with the National Identification System.",
+  "title": "Vital Statistics Report 2023",
+  "publisher": "Statistics Botswana",
+  "published": "2025-05",
+  "date_source": "source",
+  "why_not": ""
+}

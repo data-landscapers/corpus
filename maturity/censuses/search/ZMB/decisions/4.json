@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The Revised Population Summary Report, Volume Two (February 2025) presents the final population figures of the 2022 Census (18 August to 21 September 2022) and says it is the official reference.",
+ "title": "Revised Population Summary Report, Volume Two",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

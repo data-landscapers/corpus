@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The Sixth Integrated Household Survey was fielded 23 July 2024 to 16 July 2025 and its main report is listed in the NSO/World Bank catalogue.",
+  "title": "Sixth Integrated Household Survey 2024-2025",
+  "publisher": "National Statistical Office / World Bank Microdata Library",
+  "published": "2026-07-14",
+  "date_source": "source",
+  "why_not": ""
+}

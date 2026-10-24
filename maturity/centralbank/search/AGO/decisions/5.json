@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "BNA Aviso 02/2022 requires prior BNA authorisation for payment service provision and defines e-money issuers as providers authorised to issue e-money.",
+  "title": "Aviso n.º 02/2022 - Sistema de Pagamentos de Angola - Prestação de Serviços de Pagamento",
+  "publisher": "Banco Nacional de Angola",
+  "published": "2022-02-02",
+  "date_source": "source",
+  "why_not": ""
+}

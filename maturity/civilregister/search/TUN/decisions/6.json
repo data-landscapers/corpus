@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "coverage",
+ "fact": "MICS Tunisie 2023 finds 99.8% of children under 5 have their birth registered.",
+ "title": "MICS Résumé Enregistrement des naissances",
+ "publisher": "UNICEF / Institut National de la Statistique",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

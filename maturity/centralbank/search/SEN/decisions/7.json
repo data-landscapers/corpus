@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "BCEAO Avis 004-03-2025 states that from 1 May 2025 any structure not licensed under Instruction 001-01-2024 must stop offering payment services in the UMOA.",
+  "title": "AVIS N° 004-03-2025 relatif à la fin de la période transitoire de mise en conformité aux dispositions de l'instruction n° 001-01-2024 du 23 janvier 2024 relative aux services de paiement dans l'UMOA",
+  "publisher": "Banque Centrale des Etats de l'Afrique de l'Ouest",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

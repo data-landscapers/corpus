@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://statistics.gov.rw/sites/default/files/documents/2026-05/Civil-Registration-Vital-Statistics-Report-2025.pdf,fetched,,scripts/.workroot/study/civilregister/cache/RWA/1.txt,25743,pdf,
+2,https://rwanda.unfpa.org/en/news/how-rwandas-digital-crvs-transformation-strengthening-human-capital-and-saving-lives,fetched,,scripts/.workroot/study/civilregister/cache/RWA/2.txt,787,html,How Rwanda's Digital CRVS Transformation Is Strengthening Human Capital and Saving Lives
+3,https://www.minaloc.gov.rw/news-detail/rwanda-completes-digitalisation-of-crvs-modules,held,held as raw/2026/2026-01-28-rwanda-completes-digitalisation-crvs-modules.md,,0,,
+4,https://documents1.worldbank.org/curated/en/099122425135026850/txt/P173373-d56cdb0a-3e0b-4268-aeaa-c9aa3e76e58b.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+5,https://umuryango.rw/amakuru/article/abana-bangana-na-10-bavuka-buri-mwaka-ntibandikwa-mu-irangamimerere,fetched,,scripts/.workroot/study/civilregister/cache/RWA/5.txt,510,html,Abana bangana na 10% bavuka buri mwaka ntibandikwa mu irangamimerere
+6,https://statistics.gov.rw/sites/default/files/documents/2025-04/Rwanda_VS_Report_2023.pdf,fetched,,scripts/.workroot/study/civilregister/cache/RWA/6.txt,21951,pdf,
+7,https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2024,fetched,,scripts/.workroot/study/civilregister/cache/RWA/7.txt,476,html,Rwanda Vital Statistics Report 2024
+8,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/en-understanding-modernization-of-crvs-in-rwanda.pdf,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,

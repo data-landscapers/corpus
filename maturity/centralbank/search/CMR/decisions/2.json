@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "BEAC joined PAPSS on 9 July 2026, but as of 24 August 2026 Cameroon is only in the extended network (receive-only via one bank and one mobile wallet) and no list names operational Cameroonian banks.",
+  "title": "Cameroon's Access to Africa-Wide Payments Awaits Wider Bank Rollout",
+  "publisher": "Business in Cameroon",
+  "published": "2026-08",
+  "date_source": "proxy",
+  "why_not": ""
+}

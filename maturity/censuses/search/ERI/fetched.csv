@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey,held,held as raw/2026/2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP).md,,0,,
+2,https://datalab.uneca.org/docs-acs/sites/default/files/ood-documents/Population-Summary.pdf,fetched,,scripts/.workroot/study/censuses/cache/ERI/2.txt,421,pdf,
+3,https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2025/Eritrea-2025-PE-Metadata.pdf,fetched,,scripts/.workroot/study/censuses/cache/ERI/3.txt,1282,pdf,United Nations Statistics Division: Demographic Yearbook
+4,https://datalab.uneca.org/docs-acs/program-reports/report-updating-master-sample-frame-eritrea-population-health-survey,fetched,,scripts/.workroot/study/censuses/cache/ERI/4.txt,69,html,REPORT ON UPDATING THE MASTER SAMPLE FRAME FOR THE ERITREA POPULATION HEALTH SURVEY
+5,https://unstats.un.org/unsd/demographic-social/products/vitstats/seratab2.pdf,fetched,,scripts/.workroot/study/censuses/cache/ERI/5.txt,6365,pdf,
+6,https://pollsafrica.com/statistics/eritrea,fetched,,scripts/.workroot/study/censuses/cache/ERI/6.txt,162,html,Eritrea census and household surveys | PollsAfrica

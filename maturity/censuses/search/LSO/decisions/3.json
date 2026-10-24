@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The Bureau of Statistics completed cartography mapping of enumeration areas in December 2025 for the April 2026 census.",
+  "title": "BOS GEARING UP FOR CENSUS",
+  "publisher": "Lesotho News Agency",
+  "published": "2026-02-02",
+  "date_source": "source",
+  "why_not": ""
+}

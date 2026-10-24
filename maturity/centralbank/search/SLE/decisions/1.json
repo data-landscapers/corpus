@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "regional",
+ "fact": "PAPSS's list of live commercial banks, updated July 2025, names eight Sierra Leone banks live on PAPSS, among them Sierra Leone Commercial Bank, Rokel Bank and GTBank.",
+ "title": "PAPSS List of Live Commercial Banks (version 016-08-25)",
+ "publisher": "PAPSS",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

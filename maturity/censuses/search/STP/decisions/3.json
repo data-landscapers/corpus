@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census;results",
+  "fact": "On 25 July 2025 INE released the final results of the V RGPH, counting 209,607 legal residents at 15 November 2024.",
+  "title": "São Tomé e Príncipe tem quase 210 mil residentes e regista “aumento drástico” da emigração – INE",
+  "publisher": "RSTP",
+  "published": "2025-07-26",
+  "date_source": "source",
+  "why_not": ""
+}

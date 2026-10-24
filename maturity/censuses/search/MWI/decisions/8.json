@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "The 2018 Population and Housing Census main report was released on 7 June 2019, with a total population of 17,563,749.",
+  "title": "Malawi 2018 Population and Housing Census Main Report",
+  "publisher": "UNFPA Malawi (report of the National Statistical Office)",
+  "published": "2019-06-07",
+  "date_source": "source",
+  "why_not": ""
+}

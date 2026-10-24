@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "The 2023-24 Lesotho Demographic and Health Survey (fieldwork 27 Nov 2023 to 29 Feb 2024) final report was published in November 2024.",
+  "title": "Lesotho Demographic and Health Survey 2023-24 Final Report",
+  "publisher": "Ministry of Health and ICF",
+  "published": "2024-11",
+  "date_source": "source",
+  "why_not": ""
+}

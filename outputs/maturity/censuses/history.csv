@@ -25,3 +25,13 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,SEN,data.statistics--censuses-and-surveys,fact,3,3,SEN-001;SEN-004,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,TZA,data.statistics--censuses-and-surveys,fact,3,3,TZA-002;TZA-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZMB,data.statistics--censuses-and-surveys,fact,5,5,ZMB-007;ZMB-004,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-24,MLI,data.statistics--censuses-and-surveys,review,3,3,MLI-009;MLI-001,"Rebuild: stage 3 holds; the count is dated 2022, not by the 2026 bulletin citing it, and the short summary corrected."
+2026-10-24,ZWE,data.statistics--censuses-and-surveys,review,3,3,ZWE-004,"Rebuild: stage 3 holds; the count is dated 2022, not by the 2024 data profiles, and the short summary corrected."
+2026-10-24,GIN,data.statistics--censuses-and-surveys,review,3,3,GIN-001;GIN-003,"Rebuild: stage 3 holds; the count is dated July 2025 (GIN-001), not by the 2026 preliminary results; short and sources corrected."
+2026-10-24,COG,data.statistics--censuses-and-surveys,review,3,3,COG-001,"Rebuild: stage 3 holds; no enumeration date is held, so the short summary dates the count by 2025."
+2026-10-24,CAF,data.statistics--censuses-and-surveys,review,3,3,CAF-002,"Rebuild: stage 3 holds; no enumeration date is held, so the short summary dates the count by 2026."
+2026-10-24,ETH,data.statistics--censuses-and-surveys,review,unplaced,unplaced,,"Rebuild: unplaced holds; the summary now gives 2007 as the year of the last count, as study section 3 asks."
+2026-10-24,SDN,data.statistics--censuses-and-surveys,review,unplaced,unplaced,,"Rebuild: unplaced holds; the summary now gives 2008 as the year of the last count, as study section 3 asks."
+2026-10-24,LBY,data.statistics--censuses-and-surveys,review,2,2,LBY-002,"Rebuild: stage 2 holds; the 2026 report of no census launched does not say none is being prepared, and gaps name the disagreement."
+2026-10-24,SSD,data.statistics--censuses-and-surveys,review,2,2,SSD-004,Rebuild: stage 2 holds on the approved census budget read as funding set; the reading is put to Bill.
+2026-10-24,LSO,data.statistics--censuses-and-surveys,review,3,3,LSO-002;LSO-001,"Rebuild: stage 3 holds; the 2016 census, dated only by its year, is not counted inside the ten years; the reading is put to Bill."

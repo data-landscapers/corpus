@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The Quarterly Multi-Topic Survey Labour Force Module Quarter 1 2024 published labour force results.",
+  "title": "QUARTERLY MULTI-TOPIC SURVEY: LABOUR FORCE MODULE QUARTER 1, 2024",
+  "publisher": "Statistics Botswana",
+  "published": "2024-08",
+  "date_source": "proxy",
+  "why_not": ""
+}

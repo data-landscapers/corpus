@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The Cote d Ivoire DHS 2021 final report (fieldwork 8 Sept-30 Dec 2021, 14,766 households) was published in September 2023.",
+  "title": "Enquête Démographique et de Santé de Côte d Ivoire, 2021 : Rapport final",
+  "publisher": "Institut National de la Statistique et ICF",
+  "published": "2023-09",
+  "date_source": "source",
+  "why_not": ""
+}

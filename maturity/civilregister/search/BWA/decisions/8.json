@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;coverage",
+  "fact": "Botswana attained 100 percent birth registration in 2018 and maintained it to 2021, and the Births and Deaths Registration System is partially automated and decentralized, providing real-time data.",
+  "title": "Vital Statistics Report 2021",
+  "publisher": "Statistics Botswana",
+  "published": "2024-03",
+  "date_source": "source",
+  "why_not": ""
+}

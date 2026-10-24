@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch",
+  "fact": "As of May 2023 the BCT had licensed five fintech payment providers (ViaMobile, Zitouna Paiements, Enda Cash, Wafacash, Payvago) alongside banks, and a mobile payment system run by SMT was established in 2022.",
+  "title": "Mobile payments: Competition Market Study of Tunisia's Retail Banking Sector",
+  "publisher": "OECD",
+  "published": "2023-12-14",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "EthSwitch, the national switch owned by the banks and the National Bank of Ethiopia, launched the National Instant Payment System in December 2025, connecting 32 banks, 12 MFIs, three PSOs and three PIIs.",
+  "title": "EthSwitch launches National Instant Payment System at the Ethiopia Digital Payment Conference 2.0",
+  "publisher": "Africa Digital Financial Inclusion Facility",
+  "published": "2025-12-10",
+  "date_source": "source",
+  "why_not": ""
+}

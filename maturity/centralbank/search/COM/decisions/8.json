@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The June 2020 oversight policy framework states that the BCC's statutes (art. 9), Law 13-003 and Decree 15-026 give it the oversight mandate for payment systems, that the payments law was still a 2019 draft, and that three non-bank e-money institutions had been approved under Regulation 01/2017.",
+  "title": "Banque Centrale des Comores: Payment and Settlement Systems Oversight Policy Framework",
+  "publisher": "World Bank Group (project P170411) for the Banque Centrale des Comores",
+  "published": "2020-06",
+  "date_source": "source",
+  "why_not": ""
+}

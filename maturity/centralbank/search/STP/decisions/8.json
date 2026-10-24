@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "On 28 April 2021 SIBS announced the new Dobra24 retail payment platform, managed by SPAUT with central bank support, processing ATM and POS operations and accepting Visa cards from its first phase.",
+  "title": "SIBS to launch new payment system in São Tomé and Príncipe",
+  "publisher": "SIBS",
+  "published": "2021-04-28",
+  "date_source": "source",
+  "why_not": ""
+}

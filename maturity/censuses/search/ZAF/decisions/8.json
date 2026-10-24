@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "Stats SA released the first phase of Census 2022 results in October 2023 and scheduled the 10% sample for end August 2024, withholding income, labour, mortality and fertility data.",
+  "title": "Statistics South Africa on Census 2022 results in October 2023",
+  "publisher": "South African Government",
+  "published": "2024-08-22",
+  "date_source": "source",
+  "why_not": ""
+}

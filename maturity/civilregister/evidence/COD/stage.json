@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COD-001;COD-002",
-      "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "note": "A UN pilot records births digitally in one Kinshasa commune (2025); the national contract was cancelled in 2024.",
+      "as_at": "2026-10-24"
     }
   ]
 }

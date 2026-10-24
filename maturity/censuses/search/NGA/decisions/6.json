@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The 2024 NDHS final report was published in September 2025.",
+  "title": "Nigeria Demographic and Health Survey 2024",
+  "publisher": "NPC, Federal Ministry of Health and Social Welfare and ICF",
+  "published": "2025-09",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch;regional",
+  "fact": "At the end of 2024 Tanzania had 101 licensed payment system providers (42 banks, 59 non-banks), TIPS admitted 46 institutions, and the Bank continued to participate in and oversee EAPS and SADC-RTGS.",
+  "title": "Payment Systems Annual Report for 2024",
+  "publisher": "Bank of Tanzania",
+  "published": "2025-03-25",
+  "date_source": "proxy",
+  "why_not": ""
+}

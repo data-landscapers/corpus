@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "As updated on 29 June 2026, the register lists 12 payment institutions and 5 electronic money institutions (Mobile Cash, Orange Finances Mobiles Sénégal, Quickpay, Touchpoint, Wave Digital Finance) registered for Senegal.",
+  "title": "Liste des établissements de paiement et de monnaie électronique - Sénégal",
+  "publisher": "Commission Bancaire de l'UMOA",
+  "published": "2026-06-29",
+  "date_source": "source",
+  "why_not": ""
+}

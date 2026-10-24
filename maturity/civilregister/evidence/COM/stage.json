@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "civil",
-   "stage": "1",
-   "births": "none",
-   "deaths": "",
-   "coverage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-002;COM-003",
-   "gaps": "No source held since October 2023 says: is digital civil registration under way.",
-   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "1",
+      "births": "none",
+      "deaths": "",
+      "coverage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-002;COM-003",
+      "gaps": "Nothing held names any digital civil register; digitisation was only being studied in 2025.",
+      "note": "Three sources from 2025 and 2026 say civil registration still rests on paper registers, with digitisation only being studied.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

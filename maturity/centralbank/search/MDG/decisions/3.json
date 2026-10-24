@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;mandate",
+  "fact": "In early October 2024 the BFM instructed all CSBF-licensed institutions, including banks and e-money institutions, to join the Instant Payment System it set up and manages, a component of the planned national switch, with connection deadlines of 31 January 2025 (banks, EMIs) and 31 July 2025 (large MFIs).",
+  "title": "Adhésion obligatoire au « système de paiement instantané » de la banque centrale pour les institutions financières",
+  "publisher": "2424.mg",
+  "published": "2024-10-08",
+  "date_source": "source",
+  "why_not": ""
+}

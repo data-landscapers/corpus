@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results;survey",
+ "fact": "The 13 December 2024 workshop presented detailed RGPH-5 (2022) results and EHCVM-2 (2021-2022) survey results.",
+ "title": "Présentation des résultats du dernier Recensement Général de la population et des données sur la pauvreté au Togo",
+ "publisher": "INSEED",
+ "published": "2024-12-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

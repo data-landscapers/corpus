@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "Provisional report of RGPH-5, July 2024: enumeration 15 May to 24 June 2023, resident population 18,126,390.",
+ "title": "5e Recensement général de la population et de l'habitat 2023 (RGPH-5), rapport provisoire",
+ "publisher": "ANSD",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

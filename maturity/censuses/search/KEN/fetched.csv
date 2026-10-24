@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.knbs.or.ke/wp-content/uploads/2024/10/The-Kenya-Poverty-Report-2022.pdf,fetched,,scripts/.workroot/study/censuses/cache/KEN/1.txt,38095,pdf,
+2,https://datalab.uneca.org/docs-acs/support-requests/support-towards-2029-kenya-phs-cartographic-mapping,fetched,,scripts/.workroot/study/censuses/cache/KEN/2.txt,82,html,Support towards the 2029 Kenya PHS Cartographic Mapping
+3,https://www.kenyans.co.ke/news/108566-knbs-rules-out-new-census-garissa-wajir-mandera-citing-4-year-preparation-time,fetched,,scripts/.workroot/study/censuses/cache/KEN/3.txt,503,html,KNBS Explains Why Census Preparation Takes 4 Years
+4,https://nation.africa/kenya/news/did-knbs-make-a-sh18-5bn-blunder-in-2019-census--4906398,fetched,,scripts/.workroot/study/censuses/cache/KEN/4.txt,1295,html,Did KNBS make a Sh18.5bn blunder in 2019 census?
+5,https://dhsprogram.com/publications/publication-FR380-DHS-Final-Reports.cfm,fetched,,scripts/.workroot/study/censuses/cache/KEN/5.txt,120,html,"Kenya DHS, 2022 - Final Report (English)"
+6,https://www.knbs.or.ke/wp-content/uploads/2024/05/2019-Kenya-Population-and-Housing-Census-Analytical-Report-on-Population-Dynamics-Vol-VIII.pdf,unfetchable,SSLError; Wayback ConnectionError,,0,,
+7,https://www.knbs.or.ke/wp-content/uploads/2023/09/2019-Kenya-population-and-Housing-Census-Volume-4-Distribution-of-Population-by-Socio-Economic-Characteristics.pdf,unfetchable,SSLError; Wayback ConnectionError,,0,,
+8,https://www.knbs.or.ke/2019-kenya-population-and-housing-census-results/,held,held as raw/2019/2019-11-04-ken-knbs-2019-kphc-results.md,,0,,

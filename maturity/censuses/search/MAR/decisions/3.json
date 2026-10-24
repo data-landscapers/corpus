@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "HCP's annual national employment survey report for 2025 (90,000 households a year) gives results for 2025, including 1,621,000 unemployed and a 13.0% unemployment rate.",
+  "title": "Activité, emploi et chômage, résultats annuels 2025",
+  "publisher": "Haut-Commissariat au Plan",
+  "published": "2026-05",
+  "date_source": "proxy",
+  "why_not": ""
+}

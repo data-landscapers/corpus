@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The Integrated Labour Force Survey 2020/21, conducted July 2020 to June 2021, published its analytical report in 2022.",
+ "title": "Integrated Labour Force Survey 2020/21 Analytical Report",
+ "publisher": "National Bureau of Statistics",
+ "published": "2022-06",
+ "date_source": "source",
+ "why_not": ""
+}

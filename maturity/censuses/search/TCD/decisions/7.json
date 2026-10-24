@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The fifth household living conditions survey (ECOSIT5) was conducted in 2022 (February-April and June-September) with 7,644 households and its poverty results are reported.",
+ "title": "2024 Economic Update Chad",
+ "publisher": "World Bank Group",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": ""
+}

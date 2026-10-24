@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "census",
+ "aspect": "",
+ "fact": "",
+ "title": "تجهيز الخرائط GIS اللازمة لتجميع البيانات الخاصة بحصر المباني و المساكن",
+ "publisher": "مصلحة الإحصاء والتعداد",
+ "published": "2024-05",
+ "date_source": "proxy",
+ "why_not": "Text states mapping work is continuing but carries no date and does not name a census."
+}

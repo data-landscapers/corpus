@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "5",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "5",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-002",
+      "gaps": "",
+      "note": "The Bank of Mauritius is settlement bank for COMESA's REPSS, a regional system in service (July 2026). It also runs MauCAS, the national switch.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

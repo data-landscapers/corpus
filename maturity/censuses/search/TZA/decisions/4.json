@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The National Panel Survey Wave 5, a nationally representative household survey on living standards, was fielded December 2020 to January 2022 and its report issued November 2022.",
+ "title": "Tanzania Panel Survey Wave 5, 2020-2021",
+ "publisher": "National Bureau of Statistics",
+ "published": "2022-11",
+ "date_source": "source",
+ "why_not": ""
+}

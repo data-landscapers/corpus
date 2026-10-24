@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "INSBU published the Enquête Intégrée sur les Conditions de Vie des Ménages du Burundi (EICVMB, 2019-2020), from which this 2024 analysis draws its employment indicators.",
+  "title": "Chômage et sous-emploi au Burundi",
+  "publisher": "Université du Burundi, CURDES no 20",
+  "published": "2024",
+  "date_source": "source",
+  "why_not": ""
+}

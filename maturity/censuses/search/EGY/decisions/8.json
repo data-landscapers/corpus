@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "CAPMAS published the annual labour force survey bulletin for 2024, based on a 90,000-household sample over four quarterly rounds.",
+ "title": "النشرة السنوية لبحث القوى العاملة 2024",
+ "publisher": "الجهاز المركزي للتعبئة العامة والإحصاء",
+ "published": "2025-08",
+ "date_source": "source",
+ "why_not": ""
+}

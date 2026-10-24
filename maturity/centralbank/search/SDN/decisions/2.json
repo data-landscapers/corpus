@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "On 28 September 2026 the Central Bank of Sudan Governor issued administrative decision no. 65 of 2026 cancelling the licence of SudanPay Digital, a licensed mobile payment institution and switch operator, under the Banking Business Regulation Act and the 2020 mobile payment institutions and 2013 payment systems regulations.",
+  "title": "بنك السودان يلغي ترخيص سودان باي ديجيتال للدفع عبر الموبايل",
+  "publisher": "Sudan Independent",
+  "published": "2026-09-28",
+  "date_source": "source",
+  "why_not": ""
+}

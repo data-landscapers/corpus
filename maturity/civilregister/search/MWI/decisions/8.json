@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths",
+  "fact": "As of June 2024 the centralized electronic CRVS system is operational in 28 district registration offices, 28 district hospitals and three central hospitals, and registers births and deaths from hospitals and communities.",
+  "title": "Health Information Systems in Malawi",
+  "publisher": "Elizabeth Glaser Pediatric AIDS Foundation (EGPAF)",
+  "published": "2024-08-12",
+  "date_source": "source",
+  "why_not": ""
+}

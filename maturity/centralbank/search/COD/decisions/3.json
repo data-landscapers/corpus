@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "BCC Instruction 58 of 4 September 2024 on the national switch entered into force on 4 March 2025, and the Prime Minister announced the Mosolo switch's imminent launch on 2 May 2025.",
+  "title": "Paiement numérique : Mosolo, le système unifié de la RDC bientôt lancé",
+  "publisher": "Bankable",
+  "published": "2025-05-06",
+  "date_source": "source",
+  "why_not": ""
+}

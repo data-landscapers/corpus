@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "results",
+ "fact": "ZIMSTAT's June 2024 projections report uses the final results of the 2022 Population and Housing Census as its benchmark and lists itself among the thematic reports based on them.",
+ "title": "2022-2042 Zimbabwe Population and Housing Census Projections Report",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

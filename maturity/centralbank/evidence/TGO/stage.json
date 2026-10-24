@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "5",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-008;TGO-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "5",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-008;TGO-003",
+      "gaps": "",
+      "note": "The BCEAO runs PI-SPI, the UEMOA instant payment platform in service, to which Mixx Togo and three banks in Togo are connected (April 2026). That is a regional payment system in service.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

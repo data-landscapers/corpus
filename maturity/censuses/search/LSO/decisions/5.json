@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "Cartography and enumeration area demarcation for the 2026 census ran from 2 June to 30 November 2025 in all ten districts.",
+  "title": "BOS PREPARE FOR CENSUS",
+  "publisher": "Lesotho News Agency",
+  "published": "2025-07-21",
+  "date_source": "source",
+  "why_not": ""
+}

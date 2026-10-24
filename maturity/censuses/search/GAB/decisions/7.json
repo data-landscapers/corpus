@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "The official census page gives 3,518,621 residents by province and sex, labelled provisional data.",
+  "title": "Recensement 2026 – Population résidente du Gabon",
+  "publisher": "INSTAT Gabon",
+  "published": "2026-10",
+  "date_source": "proxy",
+  "why_not": ""
+}

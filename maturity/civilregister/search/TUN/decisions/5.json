@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "births",
+ "fact": "Birth extracts with QR code obtained online from e-Bawaba.tn are accepted with the same legal value as municipal extracts, per interministerial council decisions of 13 March 2024.",
+ "title": "Extraits de naissance en ligne",
+ "publisher": "SICAD, Gouvernement tunisien",
+ "published": "2024-03-28",
+ "date_source": "source",
+ "why_not": ""
+}

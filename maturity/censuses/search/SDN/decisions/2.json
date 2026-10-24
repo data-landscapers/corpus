@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "A national rural household survey was conducted in Sudan from November 2023 to January 2024 by IFPRI and UNDP, and its results were reported in this study.",
+ "title": "Livelihoods in Sudan Amid Armed Conflict: Evidence from a National Rural Household Survey",
+ "publisher": "IFPRI and UNDP",
+ "published": "2024-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

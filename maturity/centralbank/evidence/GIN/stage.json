@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "4",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-009;GIN-004",
-   "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "4",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-009;GIN-004",
+      "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
+      "note": "The BCRG led NimbaPay, the national instant payment system launched on 22 July 2026 linking banks, e-money and microfinance institutions. No regional link is held.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

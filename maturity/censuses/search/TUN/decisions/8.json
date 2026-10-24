@@ -1,0 +1,11 @@
+{
+  "select": false,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "Decree 2024-183 of 4 April 2024 organises the 13th General Population and Housing Census.",
+  "title": "Décret n° 2024-183 du 4 avril 2024, portant organisation du 13ème Recensement Général de la population et de l’habitat",
+  "publisher": "Juridoc (JORT)",
+  "published": "2024-04-04",
+  "date_source": "source",
+  "why_not": "fetched body transliterated at capture (lint-staged-queue FLAT); not staged"
+}

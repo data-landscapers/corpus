@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "A total of 2,359,609 persons were enumerated in the 2022 census (stats brief, March 2024).",
+  "title": "Population Distribution, Structure and Density in Botswana",
+  "publisher": "Statistics Botswana",
+  "published": "2024-03",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "As at 30 June 2024 the Central Bank of Lesotho and four Lesotho banks were participants in the SADC-RTGS regional settlement system (five participants).",
+  "title": "SADC Payment System Oversight Committee Report April 2021 - June 2024",
+  "publisher": "SADC Payment System Oversight Committee / South African Reserve Bank",
+  "published": "2024",
+  "date_source": "proxy",
+  "why_not": ""
+}

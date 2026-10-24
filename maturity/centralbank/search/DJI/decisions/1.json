@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "PAPSS's June 2026 coverage list names Djibouti among the countries with live send-and-receive participants, with East African Bank and Salaam African Bank as Djibouti participants.",
+  "title": "PAYMENTS NETWORK COVERAGE",
+  "publisher": "PAPSS",
+  "published": "2026-06",
+  "date_source": "source",
+  "why_not": ""
+}

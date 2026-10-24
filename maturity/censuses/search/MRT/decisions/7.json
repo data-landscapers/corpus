@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "ANSADE published the priority results of the 2023 census: 4,927,532 residents counted 25 Dec 2023-8 Jan 2024, with populations by wilaya, moughataa and commune.",
+ "title": "Recensement Général de la Population et de l'Habitat (RGPH 2023) - Population des Wilayas, Moughataa et Communes",
+ "publisher": "ANSADE",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

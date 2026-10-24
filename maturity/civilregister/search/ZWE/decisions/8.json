@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "coverage",
+ "fact": "The 2023-24 ZDHS (fieldwork Dec 2023 to May 2024) found 57% of children under 5 had births registered with the civil authorities, up from 44% in 2015.",
+ "title": "Zimbabwe Demographic and Health Survey 2023-24",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

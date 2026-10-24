@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The BCM governor signed instructions 10/GR/2024 and 11/GR/2024 revising rules on mobile wallet and payment accounts, raising transaction limits and simplifying KYC, with newly licensed fintechs and payment institutions in view.",
+  "title": "BCM : de nouvelles mesures pour assainir le système des transactions",
+  "publisher": "Cridem",
+  "published": "2024-03-05",
+  "date_source": "source",
+  "why_not": ""
+}

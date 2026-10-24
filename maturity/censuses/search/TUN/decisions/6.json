@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The INS published labour force survey indicators for the second quarter of 2025, with an unemployment rate of 15.3 percent.",
+ "title": "Indicateurs de l'emploi et du chômage au deuxième trimestre 2025",
+ "publisher": "Institut National de la Statistique",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

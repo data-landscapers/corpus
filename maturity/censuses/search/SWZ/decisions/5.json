@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "Since the 2017 Census the addition of five new constituencies has necessitated GIS-based re-mapping for the 2027 eCensus, and UNFPA's 2026-2030 programme will strengthen the Central Statistical Office to conduct it.",
+  "title": "Country programme document for Eswatini",
+  "publisher": "United Nations Population Fund",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

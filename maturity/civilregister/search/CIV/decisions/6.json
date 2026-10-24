@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "coverage;births;deaths",
+  "fact": "The 2024 civil status statistical yearbook gives an annual birth registration rate of 57.6% and 55.4% within the legal delay for 2024, and carries Cityweb birth and death declaration counts by region for 2024.",
+  "title": "Annuaire statistique d'état civil 2024",
+  "publisher": "Ministère de l'Intérieur et de la Sécurité, DESPSE",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

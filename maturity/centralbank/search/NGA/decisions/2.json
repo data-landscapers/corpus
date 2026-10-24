@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "switch",
+ "fact": "CBN circular PSS/DIR/PUB/CIR/001/002 required acquirers, processors and PTSPs to connect to both licensed aggregators NIBSS and UPSL, with their tests feeding CBN oversight.",
+ "title": "CBN directs PoS providers to link NIBSS, UPSL in 30 days",
+ "publisher": "Businessday NG",
+ "published": "2025-12-13",
+ "date_source": "source",
+ "why_not": ""
+}

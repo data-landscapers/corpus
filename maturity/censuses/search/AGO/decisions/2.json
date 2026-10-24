@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "INE published the final results of the 2024 census for Luanda province (February 2026), after the national final report of 20 November 2025.",
+ "title": "Resultados Definitivos do Recenseamento Geral da População e Habitação da Província de Luanda - 2024",
+ "publisher": "Instituto Nacional de Estatística (INE)",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

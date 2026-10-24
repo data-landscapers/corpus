@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "The national switch Mosolo, set up in December 2020, is run on an interim basis by the BCC; at end-December 2023 fifteen banks and the BCC were direct participants in the BCC-run ATS.",
+  "title": "Cartographie des Systèmes et Services de Paiement, des Prestataires des Services de Paiement et des Services Connexes en RDC",
+  "publisher": "Banque Centrale du Congo",
+  "published": "2023-12",
+  "date_source": "proxy",
+  "why_not": ""
+}

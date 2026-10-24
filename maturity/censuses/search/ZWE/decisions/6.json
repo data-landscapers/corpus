@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "ZIMSTAT's July 2022 preliminary report gives a population of 15,178,979 at 20 April 2022 from the census held 21-30 April 2022.",
+ "title": "2022 Population and Housing Census Preliminary Report on Population Figures",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+ "published": "2022-07",
+ "date_source": "source",
+ "why_not": ""
+}

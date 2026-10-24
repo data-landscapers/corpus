@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The national committee and sub-committees of the fifth census (RGPH5) were installed on 14 March 2023, launching its activities, with the finance ministry stating it would not lack funding.",
+ "title": "RGPH5 : Les membres du Comité national et des sous-comités installés (Les activités également lancées)",
+ "publisher": "Gouvernement de la République du Bénin",
+ "published": "2023-03-15",
+ "date_source": "source",
+ "why_not": ""
+}

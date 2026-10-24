@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths;coverage",
+  "fact": "The May 2025 World Bank-funded terms of reference say DRC has no central civil register or foundational ID system, birth registration is 32% (DHS 2023-24), and registration of deaths remains extremely low.",
+  "title": "Projet de transformation numérique : Termes de référence pour l'appui au développement du système d'état civil en RDC",
+  "publisher": "Gouvernement de la RDC, Projet de transformation numérique (P180495)",
+  "published": "2025-05",
+  "date_source": "source",
+  "why_not": ""
+}

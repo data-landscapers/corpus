@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;regional",
+  "fact": "On 30 July 2026 in Douala the BEAC and GIMAC launched the single community QR code, with Equatorial Guinea among the six CEMAC countries connected to the same infrastructure and the standard supervised by BEAC and COBAC.",
+  "title": "CEMAC: BEAC y GIMAC lanzan código QR comunitario",
+  "publisher": "Oficina de Información y Prensa de Guinea Ecuatorial",
+  "published": "2026-07-31",
+  "date_source": "source",
+  "why_not": ""
+}

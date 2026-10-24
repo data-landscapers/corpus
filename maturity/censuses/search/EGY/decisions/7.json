@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The Household Income, Expenditure and Consumption Survey 2021/2022 (13th in the series, 27,000 households, fieldwork Oct 2021 to Sep 2022) was run by CAPMAS and its data released.",
+ "title": "Household Income, Expenditure, and Consumption Survey, HIECS 2021/2022",
+ "publisher": "Economic Research Forum / CAPMAS",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

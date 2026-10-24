@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "The Post-enumeration Survey statistical release, embargoed to 10 October 2023, put the Census 2022 final net undercount at 31.06% of persons.",
+  "title": "Post-enumeration Survey (PES) 2022 Statistical Release",
+  "publisher": "Statistics South Africa",
+  "published": "2023-10-10",
+  "date_source": "source",
+  "why_not": ""
+}

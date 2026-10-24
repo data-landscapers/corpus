@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The Enquête Nationale sur le Niveau de Vie des Ménages ran 15 March 2022 to 14 March 2023 on 18,000 households, and its results report was published in February 2025.",
+  "title": "Rapport des résultats de l'Enquête Nationale sur le Niveau de Vie des Ménages 2022-2023",
+  "publisher": "Haut-Commissariat au Plan",
+  "published": "2025-02-18",
+  "date_source": "proxy",
+  "why_not": ""
+}

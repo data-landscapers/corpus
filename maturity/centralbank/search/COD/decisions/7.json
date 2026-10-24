@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The BCC register lists four licensed e-money institutions: Vodacash (30 July 2012), Orange Money RDC (26 March 2012), Airtel Money RDC (6 February 2012) and Afrimobile Money (21 September 2015).",
+  "title": "Établissements de monnaie électronique agréés",
+  "publisher": "Banque Centrale du Congo",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

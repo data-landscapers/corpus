@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "switch;mandate",
+ "fact": "The Bank of Sierra Leone issued directives, effective 1 April 2025, requiring all banks and mobile money operators to route domestic instant, card and POS payments through the National Switch (SaPS), citing section 15(7) of the National Payment Systems Act 2022.",
+ "title": "Bank Of Sierra Leone Issues National Payment Switch Directives For 2024",
+ "publisher": "Sierra Leone Monitor",
+ "published": "2024-12-17",
+ "date_source": "proxy",
+ "why_not": ""
+}

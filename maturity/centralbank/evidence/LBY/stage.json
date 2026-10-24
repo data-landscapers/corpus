@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "4",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-002;LBY-003",
-   "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "4",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-002;LBY-003",
+      "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
+      "note": "The CBL runs the LYPay and OnePay instant payment services and directed banks to activate LYPay in March 2026. No regional link is held.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

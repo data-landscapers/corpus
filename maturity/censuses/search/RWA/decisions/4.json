@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 2024 Labour Force Survey annual report gives 2024 national and district estimates from four rounds, on a sample frame built from the 2022 census.",
+ "title": "Labour Force Survey Annual Report 2024",
+ "publisher": "National Institute of Statistics of Rwanda (NISR)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

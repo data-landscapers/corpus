@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "regional",
+ "fact": "The Somali Bankers Association reports that Somalia has joined the Pan-African Payment and Settlement System.",
+ "title": "Somalia joins the Pan-African Payment and Settlement System",
+ "publisher": "Somali Bankers Association",
+ "published": "2026-04-18",
+ "date_source": "proxy",
+ "why_not": ""
+}

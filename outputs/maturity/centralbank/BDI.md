@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [BurundiPay](<https://www.burunditimes.com/regional-lawmakers-flag-unfinished-burundi-payment-systems-work-as-grant-closes/>); [East African Payment System](<https://www.burunditimes.com/regional-lawmakers-flag-unfinished-burundi-payment-systems-work-as-grant-closes/>); [East African Payment System (EAPS)](<https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616>); [PAPSS](<https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held reports Burundian payments running on PAPSS.

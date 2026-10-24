@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional;switch",
+  "fact": "On 26 February 2026 Pesalink, Kenya's instant payment network, partnered with PAPSS as a Technical Connectivity Provider, enabling cross-border payments in local currencies into banks and mobile money operators on the Pesalink network.",
+  "title": "Pesalink and PAPSS Unlock Cross-Border Payments in Local Currencies in Kenya",
+  "publisher": "Pan-African Payment and Settlement System (PAPSS)",
+  "published": "2026-02-26",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The synthesis report states the 2024 census is the second since independence, its final results give 36,604,681 residents at 19 September 2024, up 10,815,656 from 2014.",
+ "title": "Relatório Síntese do Recenseamento Geral da População e Habitação - RGPH 2024",
+ "publisher": "Instituto Nacional de Estatística (INE)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The BCT licensing commission granted final authorisation as a resident payment institution to First Pay on 1 July 2024 and to OFT Tunisie on 29 January 2026.",
+  "title": "Réglementation régissant l'octroi et le retrait d'agréments",
+  "publisher": "Banque Centrale de Tunisie",
+  "published": "2026-01",
+  "date_source": "proxy",
+  "why_not": ""
+}

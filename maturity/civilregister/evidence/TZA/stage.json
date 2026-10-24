@@ -9,10 +9,10 @@
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-003;TZA-006",
+      "stage_sources": "TZA-005;TZA-006;TZA-002",
       "gaps": "No source held since October 2023 puts birth registration at 90% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-18"
+      "note": "RITA says eRITA is the only CRVS system, registering births and deaths across all 26 mainland regions (2025), and Zanzibar's eCRVS covers all 11 districts. No coverage share is held.",
+      "as_at": "2026-10-24"
     }
   ]
 }

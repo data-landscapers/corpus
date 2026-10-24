@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "4",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-002;NAM-003",
-   "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "4",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-002;NAM-003",
+      "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
+      "note": "The Bank of Namibia's instant payment solution has carried live transactions since June 2026 through its subsidiary. No regional link is held.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

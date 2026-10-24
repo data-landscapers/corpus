@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "Final report of the Continuous DHS 2023 published July 2024.",
+ "title": "Enquête Démographique et de Santé Continue (Enquête Continue 2023), rapport final",
+ "publisher": "ANSD et ICF",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

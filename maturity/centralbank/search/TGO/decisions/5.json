@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;mandate",
+  "fact": "On 14 April 2026 Mixx Togo, which holds a BCEAO e-money institution licence, joined the BCEAO-operated PI-SPI instant payment platform.",
+  "title": "Mixx Togo joins BCEAO payment platform, enabling cross-border transfers across UEMOA",
+  "publisher": "Togo First",
+  "published": "2026-04-14",
+  "date_source": "source",
+  "why_not": ""
+}

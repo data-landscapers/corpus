@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The 2022 census was enumerated and the report, signed August 2025, recommends cartographic work for the 2031 census be done on time.",
+  "title": "Population and Housing Census 2022 Administrative and Technical Report Version 2",
+  "publisher": "Statistics Botswana",
+  "published": "2025-08",
+  "date_source": "source",
+  "why_not": ""
+}

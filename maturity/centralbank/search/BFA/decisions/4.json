@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "As updated on 29 June 2026, the WAMU Banking Commission lists Burkina Faso with one licensed e-money institution (Orange Money Burkina Faso, EME.BF.011/2016) and two payment institutions (Intouch Burkina, Kerry Payments Burkina, registered 2025).",
+  "title": "Liste des établissements de paiement et de monnaie électronique - Burkina",
+  "publisher": "Commission Bancaire de l'UMOA",
+  "published": "2026-06-29",
+  "date_source": "source",
+  "why_not": ""
+}

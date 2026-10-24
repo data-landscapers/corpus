@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The CBN page lists payments-system achievements 1993 to 2023 and states the CBN has drafted a Payments System Management Bill because no law deals exclusively with payments; it also licenses and oversees switches, mobile money operators and PSPs.",
+  "title": "Payments System Supervision",
+  "publisher": "Central Bank of Nigeria",
+  "published": "2023",
+  "date_source": "proxy",
+  "why_not": ""
+}

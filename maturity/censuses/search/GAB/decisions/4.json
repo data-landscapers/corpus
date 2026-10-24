@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "On 8 July 2026 the minister handed the President the provisional RGPL results, with 97% national coverage, for submission to the Constitutional Court.",
+  "title": "Remise officielle des résultats provisoires du Recensement général de la population et du logement",
+  "publisher": "Présidence de la République Gabonaise",
+  "published": "2026-07-08",
+  "date_source": "source",
+  "why_not": ""
+}

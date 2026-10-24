@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths;coverage",
+  "fact": "The 2023 report states the NCI-CRVS digital system was operational at all categories of registration points by the end of 2023, papers now serve only to provide proof of registration, and birth registration completeness was 90.0% in 2023.",
+  "title": "Rwanda Vital Statistics Report 2023",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "2024-04",
+  "date_source": "source",
+  "why_not": ""
+}

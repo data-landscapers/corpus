@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "INE published in May 2025 the final report of the IIMS 2023-2024 (combined DHS/MICS), fieldwork August 2023 to January 2024.",
+ "title": "Inquérito de Indicadores Múltiplos e de Saúde (IIMS) 2023–2024",
+ "publisher": "Instituto Nacional de Estatística (INE)",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

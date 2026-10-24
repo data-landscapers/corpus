@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The pilot enumeration for the RGPH-3 began 24 December 2023 for 15 days, the census being set for April 2024.",
+  "title": "INSTAD : formation et dénombrement pilote avant le RGH-3",
+  "publisher": "La Nation",
+  "published": "2023-12-25",
+  "date_source": "source",
+  "why_not": ""
+}

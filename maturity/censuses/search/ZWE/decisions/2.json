@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 2023-24 Zimbabwe Demographic and Health Survey, fieldwork December 2023 to May 2024, was published as a final report in June 2025, using the 2022 census as its sampling frame.",
+ "title": "Zimbabwe Demographic and Health Survey 2023-24: Final Report",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT) and ICF",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

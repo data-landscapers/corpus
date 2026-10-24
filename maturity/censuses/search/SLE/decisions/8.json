@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The final report of the 2019 Sierra Leone DHS was published in October 2020.",
+  "title": "Sierra Leone DHS, 2019 - Final Report (English)",
+  "publisher": "The DHS Program",
+  "published": "2020-10",
+  "date_source": "source",
+  "why_not": ""
+}

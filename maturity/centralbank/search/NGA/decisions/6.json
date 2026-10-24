@@ -1,0 +1,11 @@
+{
+  "select": false,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "The CBN states it is participant, regulator and settlement member for Nigeria on PAPSS, funds its settlement account at Afreximbank and settles daily; it issued PAPSS operating guidelines on 11 October 2021.",
+  "title": "Retail Payments",
+  "publisher": "Central Bank of Nigeria",
+  "published": "",
+  "date_source": "proxy",
+  "why_not": "no document date stated; not staged"
+}

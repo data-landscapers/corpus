@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;coverage",
+  "fact": "A digital national database on birth registration was established with data units in county hospitals and service centres, but it is not yet fully implemented for real-time monitoring because of power and network limits; 66% of under-fives were registered in the 2019 DHS.",
+  "title": "Multi-country Formative Evaluation of the Key Result for Children (KRC) #7 (Birth Registration) for the period 2018-2021 - Final Report Liberia",
+  "publisher": "UNICEF (OAG)",
+  "published": "2022-01",
+  "date_source": "source",
+  "why_not": ""
+}

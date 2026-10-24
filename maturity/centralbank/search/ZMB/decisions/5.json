@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "switch",
+  "fact": "The Bank of Zambia is the system and technical operator of ZIPSS (the RTGS), authorises participants and oversees adherence to its rules (rules dated October 2025).",
+  "title": "Zambia Interbank Payment and Settlement System Operating Rules",
+  "publisher": "Bank of Zambia, Payment Systems Division",
+  "published": "2025-10",
+  "date_source": "source",
+  "sub_indicator": "centralbank",
+  "why_not": ""
+}

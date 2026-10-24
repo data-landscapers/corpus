@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "births;deaths",
+  "fact": "On 19 April 2025 at Pointe-Noire a three-day workshop of civil registry professionals validated the SIFEC information system for establishing and recording civil status acts.",
+  "title": "La digitalisation des actes d'état civil validée par les professionnels du métier",
+  "publisher": "Vox Congo",
+  "published": "2025-04-21",
+  "date_source": "source",
+  "why_not": "",
+  "sub_indicator": "civil"
+}

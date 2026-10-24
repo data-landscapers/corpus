@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The thematic analysis report on population state and structure, from the 2022 census, is dated December 2024 and gives a national total of 22,395,489.",
+ "title": "Rapport d'analyse des données du RGPH5, thème : État et structure de la population",
+ "publisher": "INSTAT, Bureau Central du Recensement",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

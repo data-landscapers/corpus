@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "civil",
-   "stage": "2",
-   "births": "underway",
-   "deaths": "",
-   "coverage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-003;KEN-001",
-   "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
-   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "births": "underway",
+      "deaths": "",
+      "coverage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-002;KEN-001",
+      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "note": "Birth e-notification and online certificates exist (2026), but e-notification is still being extended to all SHA hospitals, by December 2026.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

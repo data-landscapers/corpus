@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;coverage",
+  "fact": "The paper states Lesotho's automated CRVS launched in 2013 and was connected to hospitals from 2015, the Kobo birth e-notification tablet app was piloted in three districts from 2021 and launched in August 2023 but not rolled out beyond them, and birth registration completeness was 66.1% in 2022.",
+  "title": "The Impact of Digitalization on Birth Registration Completeness in Lesotho: A Mixed-Methods Study",
+  "publisher": "National Identity and Civil Registry, Lesotho (2026 CRVS Research Forum)",
+  "published": "2026",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "mandate",
+ "fact": "Instruction 001-01-2024 of 23 January 2024 requires prior BCEAO approval or registration for payment institutions and covers e-money institutions under their approval.",
+ "title": "Instruction N°001-01-2024 relative aux services de paiement dans l'UMOA",
+ "publisher": "BCEAO",
+ "published": "2024-01-23",
+ "date_source": "source",
+ "why_not": ""
+}

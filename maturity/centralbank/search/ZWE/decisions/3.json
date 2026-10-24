@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "The RBZ 2025 Annual Report says local PAPSS participation rose from banks beginning onboarding in January 2025 to six banks, and Zimbabwean banks processed 4,038 SADC-RTGS transactions worth ZAR3.51 billion in 2025.",
+  "title": "Zimbabwe Cross-Border Payments: Remittances, SADC-RTGS, PAPSS and Digital Payment Infrastructure",
+  "publisher": "Finlazo",
+  "published": "2026-08",
+  "date_source": "proxy",
+  "why_not": ""
+}

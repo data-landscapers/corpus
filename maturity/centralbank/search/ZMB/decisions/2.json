@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "mandate;switch",
+  "fact": "The Bank of Zambia's 2026 Payment System Oversight Framework states the Bank has sole responsibility to oversee payment systems and designates systemically important payment systems, with ZIPSS (RTGS) operated by the Bank designated systemically important.",
+  "title": "Payment System Oversight Framework 2026",
+  "publisher": "Bank of Zambia",
+  "published": "2026-06",
+  "date_source": "proxy",
+  "sub_indicator": "centralbank",
+  "why_not": ""
+}

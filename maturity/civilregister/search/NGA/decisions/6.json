@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "coverage",
+  "fact": "The 2024 NDHS (fieldwork December 2023 to May 2024) found 40% of births of children under 5 not registered with the civil authorities: 28% registered with a birth certificate and 12% registered without one.",
+  "title": "Nigeria 2024 Demographic and Health Survey Summary Report [SR294]",
+  "publisher": "National Population Commission and ICF",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

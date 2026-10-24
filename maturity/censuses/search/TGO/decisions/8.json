@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "INSEED began the RGPH-5 pilot enumeration data collection on 9 December 2021 in 30 enumeration areas.",
+ "title": "RGPH-5 : démarrage de la collecte de données du dénombrement pilote",
+ "publisher": "INSEED",
+ "published": "2021-12-10",
+ "date_source": "source",
+ "why_not": ""
+}

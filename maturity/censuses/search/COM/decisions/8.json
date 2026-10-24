@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The fourth census (RGPH 2017) was enumerated from 16 December 2017 to 26 January 2018.",
+  "title": "Comoros - Recensement Général de la Population et de l’Habitat 2017",
+  "publisher": "INSEED",
+  "published": "2025-10-24",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census;results",
+  "fact": "The evaluation of the 2022 Population Census found no major coverage errors and an under-enumeration of children under 15 in the Island of Mauritius needing an adjustment of 18,038.",
+  "title": "2022 Housing and Population Census, Analysis Report, Volume I: Population Data Evaluation",
+  "publisher": "Statistics Mauritius",
+  "published": "2025-03",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The INS Central Census Bureau held a 29 April to 8 May 2026 workshop evaluating the pilot enumeration of the 5th census (RGPH-5) carried out in three Maradi communes.",
+  "title": "RGPH-5 : Les acteurs évaluent le dénombrement pilote effectué dans la région de Maradi",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-05-15",
+  "date_source": "source",
+  "why_not": ""
+}

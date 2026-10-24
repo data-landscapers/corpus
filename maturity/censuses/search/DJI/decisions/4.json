@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "Census mapping ran May to August 2023 and the RGPH-3 main enumeration April and May 2024; provisional results published July 2024.",
+  "title": "Focus sur les résultats provisoires du RGPH 3 : Une population en croissance et des défis urbains à surmonter",
+  "publisher": "La Nation",
+  "published": "2024-09-04",
+  "date_source": "source",
+  "why_not": ""
+}

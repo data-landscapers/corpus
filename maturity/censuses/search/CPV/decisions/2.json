@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "On 6 June 2025 the INE released the 2024 results of the Inquérito Multiobjectivo Contínuo (unemployment 8.0%, employed 198,914).",
+ "title": "A taxa de desemprego em Cabo Verde é a mais baixa de sempre (8%) – Instituto Nacional de Estatística (INE)",
+ "publisher": "Governo de Cabo Verde",
+ "published": "2025-06-06",
+ "date_source": "source",
+ "why_not": ""
+}

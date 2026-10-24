@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The labour force survey conducted in 2022 estimated the labour force at 6,912,026 persons, published in October 2024.",
+ "title": "Bulletin sur les indicateurs du marché du travail 2024",
+ "publisher": "INSTAT",
+ "published": "2024-10",
+ "date_source": "source",
+ "why_not": ""
+}

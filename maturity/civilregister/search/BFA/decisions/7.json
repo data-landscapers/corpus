@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "coverage",
+  "fact": "The 2021 DHS found 85% of children under 5 (84.8% in SDG indicator 16.9.1) had their birth registered with the civil authorities and 73% had a birth certificate, below the 90% mark.",
+  "title": "Burkina Faso Enquête Démographique et de Santé 2021",
+  "publisher": "Institut National de la Statistique et de la Démographie (INSD); ICF",
+  "published": "2023-08",
+  "date_source": "source",
+  "why_not": ""
+}

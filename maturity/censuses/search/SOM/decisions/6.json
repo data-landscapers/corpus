@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;survey",
+ "fact": "SNBS launched the Population and Housing Census programme on 2 May 2023 and launched the Somalia Integrated Household Budget Survey 2022 results during 2023.",
+ "title": "Annual Report 2023",
+ "publisher": "Somalia National Bureau of Statistics",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The HCP launched the census mapping work for the 7th RGPH, planned for September 2024, on 17 April 2023, for 14 months in the field.",
+  "title": "Lancement des travaux cartographiques préparatoires du Recensement Général de la Population et de l'Habitat de 2024",
+  "publisher": "Haut-Commissariat au Plan",
+  "published": "2023-04-28",
+  "date_source": "proxy",
+  "why_not": ""
+}

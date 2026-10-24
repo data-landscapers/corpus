@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "regional",
+ "fact": "At June 2024 SADC-RTGS had 15 member states and 88 participants, with the SARB appointed Operator and Lead Overseer of the system by the SADC central banks.",
+ "title": "SADC Payment System Oversight Committee Report April 2021 - June 2024",
+ "publisher": "SADC Committee of Central Bank Governors, Payment System Oversight Committee",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "centralbank"
+}

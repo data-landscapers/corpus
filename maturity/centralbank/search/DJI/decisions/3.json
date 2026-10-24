@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;mandate",
+  "fact": "In a November 2024 interview the BCD governor says the second phase of the payments project, funded by the French Development Agency, is building a national switch to integrate all payment instruments into clearing.",
+  "title": "Interview with Ahmed Osman Ali, Governor, Central Bank of Djibouti",
+  "publisher": "Prisma Reports",
+  "published": "2024-11-26",
+  "date_source": "source",
+  "why_not": ""
+}

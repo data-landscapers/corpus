@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "NBS published GHS-Panel Wave 5 (2023/24) results, with 4,715 households in 518 enumeration areas; date from the NBS library upload.",
+  "title": "Nigeria General Household Survey-Panel (Wave 5) 2023/2024",
+  "publisher": "National Bureau of Statistics",
+  "published": "2024-11",
+  "date_source": "proxy",
+  "why_not": ""
+}

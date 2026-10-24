@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "NSO says the next census is expected in 2028 and that, for lack of funding, a full national household listing before it is not feasible; an enumeration area update pilot is under way.",
+  "title": "FCDO Malawi",
+  "publisher": "WorldPop",
+  "published": "2025-10-15",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -9,10 +9,10 @@
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-004",
-      "gaps": "No source held since October 2023 says deaths are registered in the digital system.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GMB-004;GMB-003",
+      "gaps": "No source held since October 2023 says deaths are registered in the digital system. No source held since October 2023 puts birth registration at 90% or more.",
+      "note": "The eCRVS shows births registered in every local government area from 2022 to 2025, with 1.4 million registered by June 2026. Nothing held covers deaths.",
+      "as_at": "2026-10-24"
     }
   ]
 }

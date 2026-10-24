@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The National Payment System (Amendment) Act 2023, assented 10 October 2023, requires payment service providers to be licensed by the Central Bank or be agents of a licensed provider, and lets the Central Bank determine the use of payment instruments and cap transaction values.",
+  "title": "National Payment System (Amendment) Act, 2023 (Act 15 of 2023)",
+  "publisher": "Official Gazette of Seychelles",
+  "published": "2023-10-16",
+  "date_source": "source",
+  "why_not": ""
+}

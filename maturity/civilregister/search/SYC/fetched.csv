@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.health.gov.sc/wp-content/uploads/Annual-Vital-Statistics-Report-2024.pdf,held,held as raw/2025/2025-03-01-syc-annual-vital-statistics-report-2024.md,,0,,
+2,https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services,held,held as raw/2024/2024-09-18 Launch of New Digital Solutions for Public Services.md,,0,,
+3,https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2024/Seychelles-2024-VT-Metadata.pdf,fetched,,scripts/.workroot/study/civilregister/cache/SYC/3.txt,1367,pdf,Seychelles-2024-VT-Metadata.xlsx
+4,https://www.health.gov.sc/wp-content/uploads/2024/05/Annual-Vital-Statistics-Report-2023.pdf,fetched,,scripts/.workroot/study/civilregister/cache/SYC/4.txt,6937,pdf,
+5,https://www.nation.sc/articles/17824/new-birth-and-death-notification-system-rolled-out,held,held as raw/2023/2023-05-16-syc-nation-birth-death-notification-system.md,,0,,
+6,https://www.gazette.sc/sites/default/files/2021-11/Act%2045%20-%20Civil%20Status%20(Amendment)%20Act%202021.pdf,held,held as raw/2021/2021-11-04-gazette-civil-status-amendment-act-2021.md,,0,,
+7,https://nation.sc/articles/10863/assembly-approves-amendments-to-several-pieces-of-legislation,fetched,,scripts/.workroot/study/civilregister/cache/SYC/7.txt,1419,html,Assembly approves amendments to several pieces of legislation
+8,https://www.seychellesnewsagency.com/articles/12138/Seychelles+Civil+Status+dept.+unveils+more+efficient+system+for+national+ID+cards%2C+birth+certificates,fetched,,scripts/.workroot/study/civilregister/cache/SYC/8.txt,429,html,"Seychelles’ Civil Status dept. unveils more efficient system for national ID cards, birth certificates"

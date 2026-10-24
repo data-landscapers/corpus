@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://theseychellestimes.com/2026/01/13/national-bureau-of-statistics-commences-labour-force-survey-training/,fetched,,scripts/.workroot/study/censuses/cache/SYC/1.txt,340,html,National Bureau of Statistics Commences Labour Force Survey Training | The Seychelles Times
+2,https://www.nation.sc/articles/25701/employment-department-satisfied-with-decrease-in-unemployment-rate,fetched,,scripts/.workroot/study/censuses/cache/SYC/2.txt,217,html,Employment department satisfied with decrease in unemployment rate
+3,https://publications.iom.int/system/files/pdf/pub2024-013-el-assessment-of-migration-data-in-seychelles.pdf,held,held as raw/2024/2024-01-01-syc-iom-assessment-of-migration-data-seychelles.md,,0,,
+4,https://www.nbs.gov.sc/downloads/1555-seychelles-population-and-housing-census-2022/download,held,held as raw/2024/2024-03-01-nbs-seychelles-population-housing-census-2022-main-report.md,,0,,
+5,https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2024/Seychelles-2024-PE-Metadata.pdf,fetched,,scripts/.workroot/study/censuses/cache/SYC/5.txt,1499,pdf,United Nations Statistics Division: Demographic Yearbook
+6,https://www.seychellesnewsagency.com/public/index.php/articles/19020/la-population-des-seychelles-est-estimee-a-119-000-dont-16-de-residents-non-seychellois,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+7,https://www.nbs.gov.sc/component/edocman/20-downloads/5-other-publications/42-other/1308-seychelles-population-and-housing-census-2022-provisional-results-report,fetched,,scripts/.workroot/study/censuses/cache/SYC/7.txt,90,html,Seychelles-Population and Housing Census 2022 Provisional Results Report
+8,https://www.seychellesnewsagency.com/public/index.php/articles/15907/seychelles-census-delayed-again-due-to-covid-19-now-expected-in-2022,unfetchable,HTTP 403; no usable Wayback capture,,0,,

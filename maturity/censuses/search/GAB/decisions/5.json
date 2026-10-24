@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The ENEC 2024 labour force survey (fieldwork November-December 2024, 3,408-3,438 households) published results in a synthesis report dated 29 April 2026.",
+  "title": "L'emploi, le chômage et les conditions d'activité au Gabon en 2024 : rapport de synthèse",
+  "publisher": "Direction Générale de l'Emploi / Direction Générale de la Statistique",
+  "published": "2026-04-29",
+  "date_source": "source",
+  "why_not": ""
+}

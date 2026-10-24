@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "UNFPA reported in May 2024 that census cartographic mapping was nearly complete and the main enumeration was scheduled for 16 August to 6 September 2024.",
+ "title": "Census Mapping: A crucial step towards an accurate and comprehensive population and housing census",
+ "publisher": "UNFPA Burundi",
+ "published": "2024-05-31",
+ "date_source": "proxy",
+ "why_not": ""
+}

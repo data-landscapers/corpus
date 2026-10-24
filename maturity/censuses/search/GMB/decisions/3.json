@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The GLFS 2025 Labour Force Snapshot gives national results of the 2025 labour force survey, with unemployment at 8.3 per cent.",
+ "title": "GLFS 2025 Labour Force Snapshot",
+ "publisher": "The Gambia Bureau of Statistics (GBoS)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

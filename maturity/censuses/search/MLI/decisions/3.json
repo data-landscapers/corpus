@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The seventh Mali Demographic and Health Survey (EDSM-VII), fielded 8 December 2023 to 28 March 2024, has a final report published in September 2025.",
+ "title": "Enquête Démographique et de Santé du Mali 2023-2024",
+ "publisher": "INSTAT / CPS-SS-DS-PF / The DHS Program ICF",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

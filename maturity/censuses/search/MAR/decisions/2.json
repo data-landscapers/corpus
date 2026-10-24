@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The labour force survey moved from the ENE to the EMO, drawn on a sampling frame built from RGPH 2024, with a dual ENE/EMO collection in 2025 and provisional back-cast series published in 2026.",
+  "title": "Principaux indicateurs trimestriels rétropolés provisoires du marché de travail selon la méthodologie EMO. Période de 2017 à 2025",
+  "publisher": "Haut-Commissariat au Plan",
+  "published": "2026-08-04",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "The Governor launched the Eswatini Payment Switch Fast Payments module on 11 December 2024 with three participants live (Eswatini Bank, Swaziland Building Society, E-mali), participation mandated for all payment service providers offering local payments, interoperable between banks and non-banks.",
+  "title": "Eswatini Payment Switch Fast Payments product launch",
+  "publisher": "Bank for International Settlements (speech by Phil Mnisi, Central Bank of Eswatini)",
+  "published": "2025-01-14",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "births;deaths",
+  "fact": "A draft civil status law was adopted on 15 October (2023) to cover digital registers, electronic transmission of birth and death declarations from health facilities; the national civil status digitisation policy was validated on 6 October 2021.",
+  "title": "Adoption de l'avant-projet de loi portant régime de l'état civil en République du Congo",
+  "publisher": "UNFPA République du Congo",
+  "published": "2023-10",
+  "date_source": "proxy",
+  "why_not": "",
+  "sub_indicator": "civil"
+}

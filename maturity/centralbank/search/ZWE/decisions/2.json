@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "The PAPSS payment platform was launched in Zimbabwe alongside the Africa Trade and Distribution Company, with CBZ Bank and Afreximbank as partners.",
+  "title": "Africa Trade and Distribution Company, Pan-African payment platform launched",
+  "publisher": "The Herald",
+  "published": "2026-10-02",
+  "date_source": "proxy",
+  "why_not": ""
+}

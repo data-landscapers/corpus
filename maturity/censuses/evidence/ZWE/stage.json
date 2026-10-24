@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ZWE-004",
       "gaps": "No source held reports final results of the census published.",
-      "note": "Counted from the four questions by study-ladder-censuses.py.",
-      "as_at": "2026-10-17"
+      "note": "The 2022 census was counted and nothing held reports its final results, so stage 3 and not 4. Reassessed 2026-10-24: the count is dated 2022, not by the 2024 data profiles drawn from it.",
+      "as_at": "2026-10-24"
     }
   ]
 }

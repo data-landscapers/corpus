@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "INSEED enumerated the population from 23 October to 16 November 2022, ran a post-census survey in January-February 2023, and published the final results volume I (8,095,498 residents).",
+ "title": "Résultats finaux du 5e Recensement Général de la Population et de l'Habitat (RGPH-5) de novembre 2022 - Distribution spatiale de la population résidente par sexe, Volume N°I",
+ "publisher": "INSEED / Bureau Central du Recensement",
+ "published": "2023-09",
+ "date_source": "source",
+ "why_not": ""
+}

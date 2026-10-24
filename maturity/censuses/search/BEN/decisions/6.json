@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "INStaD announced on 29 August 2023 that census mapping for the RGPH5 had started in the pilot communes of Cotonou, Parakou and Covè, to extend to the other 74 communes.",
+ "title": "Recensement général de la population RGPH 5 au Bénin: démarrage de la cartographie censitaire dans 3 communes pilotes",
+ "publisher": "Banouto",
+ "published": "2023-09-05",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -9,10 +9,10 @@
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001;NGA-002",
-      "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NGA-001;NGA-003",
+      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "note": "The VitalReg e-CRVS launched in 2023 is extending state by state. Nothing held says births are registered in it nationally.",
+      "as_at": "2026-10-24"
     }
   ]
 }

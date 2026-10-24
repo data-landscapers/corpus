@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "On 31 July 2025 the CTIR reported digital mapping finished (over 7,500 enumeration areas), the light pilot census done in 55 areas, and enumeration planned for October 2025.",
+ "title": "RGPH-4 : 3e Réunion du Comité Technique Intersectoriel du Recensement : vers une meilleure coordination du recensement",
+ "publisher": "ICASEES",
+ "published": "2025-08-01",
+ "date_source": "source",
+ "why_not": ""
+}

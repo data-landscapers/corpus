@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The NSO's IHS6 main report, dated June 2026, publishes results of the survey conducted July 2024 to July 2025.",
+  "title": "Malawi Sixth Integrated Household Survey (IHS6) 2024-2025 Main Report",
+  "publisher": "National Statistical Office",
+  "published": "2026-06",
+  "date_source": "source",
+  "why_not": ""
+}

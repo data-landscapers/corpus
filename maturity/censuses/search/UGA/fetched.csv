@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://statistics.ubos.org/nphc/report?cat=reports,fetched,,scripts/.workroot/study/censuses/cache/UGA/1.txt,496,html,Census Reports - NPHC 2024
+2,https://www.dhsprogram.com/pubs/pdf/MIS45/MIS45.pdf,fetched,,scripts/.workroot/study/censuses/cache/UGA/2.txt,90782,pdf,Uganda Malaria Indicator Survey 2024–25  - Final Report [MIS45]
+3,https://govinfohub.go.ug/index.php/2026/03/09/ubos-releases-calendar-for-key-national-survey-and-census-reports/,fetched,,scripts/.workroot/study/censuses/cache/UGA/3.txt,564,html,UBOS Releases Calendar for Key National Survey and Census Reports - Published By UPPC
+4,https://www.ubos.org/key-highlights-of-the-uganda-national-household-survey-2023-24/,fetched,,scripts/.workroot/study/censuses/cache/UGA/4.txt,54,html,Key Highlights of the Uganda National Household Survey 2023/24 - Uganda Bureau of Statistics
+5,https://www.ubos.org/wp-content/uploads/2025/06/Acholi-Sub-Region-Census-2024-Profile.pdf,fetched,,scripts/.workroot/study/censuses/cache/UGA/5.txt,102882,pdf,
+6,https://www.ubos.org/wp-content/uploads/2024/12/National-Population-and-Housing-Census-2024-Final-Report-Volume-1-Main.pdf,fetched,,scripts/.workroot/study/censuses/cache/UGA/6.txt,106603,pdf,
+7,https://www.ubos.org/wp-content/uploads/publications/National-Population-and-Housing-Census-2024-Preliminary-Report.pdf,fetched,,scripts/.workroot/study/censuses/cache/UGA/7.txt,10036,pdf,NPHC 2024 – Preliminary Results
+8,https://www.ubos.org/wp-content/uploads/publications/UDHS-2022-Report.pdf,fetched,,scripts/.workroot/study/censuses/cache/UGA/8.txt,152421,pdf,UNFPA.indd

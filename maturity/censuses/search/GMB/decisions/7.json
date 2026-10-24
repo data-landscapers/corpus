@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The Gambia Labour Force Survey 2022-23 interviewed 7,180 sampled households and reports an unemployment rate of 7.6 per cent, in a report dated July 2023.",
+ "title": "The Gambia Labour Force Survey (GLFS 2022-23) Analytical Report",
+ "publisher": "Gambia Bureau of Statistics",
+ "published": "2023-07",
+ "date_source": "source",
+ "why_not": ""
+}

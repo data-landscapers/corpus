@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;coverage",
+  "fact": "Birth registration in Ethiopia stands at 37 percent completeness and death registration at 16 percent (Vital Strategies 2023), and a mobile civil registration platform accounts for about 24 percent of total registrations (2025 Ethiopian Tribune report).",
+  "title": "Digital Dreams, Invisible Children: Ethiopia's Struggle to Make Every Birth Count",
+  "publisher": "Capital Ethiopia",
+  "published": "2025-11-09",
+  "date_source": "source",
+  "why_not": ""
+}

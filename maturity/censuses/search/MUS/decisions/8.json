@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The Housing and Population Census scheduled for 2021 was postponed to 2022 because of Covid-19; the Housing Census was conducted in May 2022 and the Population Census in July 2022.",
+  "title": "Annual Report 2021/2022",
+  "publisher": "Statistics Mauritius",
+  "published": "2022-08",
+  "date_source": "source",
+  "why_not": ""
+}

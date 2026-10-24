@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "centralbank",
+ "aspect": "",
+ "fact": "",
+ "title": "Payment Service Providers",
+ "publisher": "Central Bank of Nigeria",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Licensee list carries no date, so states no dated fact."
+}

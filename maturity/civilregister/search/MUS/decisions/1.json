@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths",
+  "fact": "From 19 October 2026 new birth, stillbirth, marriage and death certificates carry serial numbers generated automatically by the civil status database, per a Civil Status Division communique of 13 October 2026.",
+  "title": "État civil : nouveau format pour les actes de naissance, de mariage et de décès dès le 19 octobre",
+  "publisher": "Le Defi Media Group",
+  "published": "2026-10-13",
+  "date_source": "source",
+  "why_not": ""
+}

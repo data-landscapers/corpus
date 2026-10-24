@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "On 22 December 2025 the synthesis of the independent monitoring mission of the RGPH-4 digital main enumeration was presented in Bangui.",
+ "title": "RGPH-4 : Présentation des résultats de la mission de suivi indépendant du dénombrement numérique",
+ "publisher": "ICASEES",
+ "published": "2025-12-22",
+ "date_source": "source",
+ "why_not": ""
+}

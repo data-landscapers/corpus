@@ -14,9 +14,9 @@ birthidlink,link,dpi.id--interoperability-of-birth-registration-and-digital-id,2
 broadbandstrategy,plan,gov.policy--broadband-strategy,2026-10-23,20,61,149
 businesspayments,business,dpi.pay--b2b-and-b2g-functionality,2026-10-23,24,60.0,202
 businessregister,business,dpi.registry--business-register,2026-10-23,23,58.2,225
-censuses,census,data.statistics--censuses-and-surveys,,,,
-centralbank,centralbank,dpi.pay--governance-role-of-central-bank,,,,
-civilregister,civil,dpi.registry--civil-register,,,,
+censuses,census,data.statistics--censuses-and-surveys,2026-10-24,22,92.5,293
+centralbank,centralbank,dpi.pay--governance-role-of-central-bank,2026-10-24,22,92.5,227
+civilregister,civil,dpi.registry--civil-register,2026-10-24,22,92.6,183
 civilserviceskills,csskills,capacity.literacy--digital-literacy-civil-service,,,,
 cloudstrategy,policy,gov.policy--data-storage-cloud-strategy,,,,
 consumerprotection,protection,dpi.pay--consumer-protection,,,,

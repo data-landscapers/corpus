@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "deaths",
+  "fact": "A death-announcement platform presented on 26 August 2026 describes deaths entered in the health ministry DHIS2, passed to BUNEC's Système intégré de Gestion de l'État Civil (SIGEC) for certification, with more than 90% of deaths in Cameroon leading to no official declaration.",
+  "title": "État civil au Cameroun : 9 décès sur 10 non déclarés par an",
+  "publisher": "Echos Santé",
+  "published": "2026-08-27",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "SNBS notice says Somalia has held no census in nearly 50 years (1975 limited results, 1986 unreleased) and that a full national mapping will precede the new census, launched 2023.",
+ "title": "Daah-furka Tirokoobka Dadweynaha iyo Guryaha Soomaaliyeed",
+ "publisher": "Hay’adda Istaatistikada Qaranka Soomaaliya",
+ "published": "2023-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

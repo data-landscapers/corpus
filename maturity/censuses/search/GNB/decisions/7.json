@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The nationally representative EHCVM 2021/22 household survey (LSMS), fielded Nov 2021-Aug 2022 by INE, has its data and documentation published in the World Bank Microdata Library.",
+ "title": "Inquérito Harmonizado sobre as Condiçöes de vide dos Agreagados Familiares, 2021-2022",
+ "publisher": "World Bank Microdata Library / Instituto Nacional de Estatística (INE)",
+ "published": "2024-08-02",
+ "date_source": "source",
+ "why_not": ""
+}

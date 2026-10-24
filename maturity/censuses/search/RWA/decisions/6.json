@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "Census mapping ran 18 October 2020 to 15 July 2021, a pilot census 16-30 September 2021 and enumeration 16-30 August 2022.",
+ "title": "Fifth Rwanda Population and Housing Census 2022, Thematic Report: Data Quality Assessment",
+ "publisher": "National Institute of Statistics of Rwanda (NISR)",
+ "published": "2023-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "On 11 September 2025 the Bank of Mauritius issued a Payment Service Provider licence to NanoSAIO Ltd under the National Payment Systems Act 2018.",
+  "title": "Public Notice: NanoSAIO Ltd",
+  "publisher": "Bank of Mauritius",
+  "published": "2025-09-11",
+  "date_source": "source",
+  "why_not": ""
+}

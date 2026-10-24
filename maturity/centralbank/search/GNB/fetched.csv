@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.ecofinagency.com/news-finances/2107-57583-bceao-prepares-papss-pilot-with-more-than-80-west-african-banks,fetched,,scripts/.workroot/study/centralbank/cache/GNB/1.txt,1113,html,BCEAO Prepares PAPSS Pilot With More Than 80 West African Banks
+2,https://cb-umoa.org/sites/default/files/_Liste%20EP%20ET%20EME%20Guin%C3%A9e-Bissau_2026.pdf,fetched,,scripts/.workroot/study/centralbank/cache/GNB/2.txt,76,pdf,Liste EP ET EME Guinée-Bissau_2026
+3,https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de,held,held as raw/2026/2026-04-02-bceao-connexion-pi-spi.md,,0,,
+4,https://fgi.gw/wp-content/uploads/2025/04/Relatorio_FGI_2024_Final.pdf,fetched,,scripts/.workroot/study/centralbank/cache/GNB/4.txt,5339,pdf,
+5,https://www.bceaobissau.com/fr/reglementations/instruction-ndeg001-01-2024-du-23-janvier-2024-relative-aux-services-de-paiement.html,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+6,https://www.bceao.int/sites/default/files/inline-files/List-of-electronic-money-issuing-institutions-as-of-september-30-2024.pdf,held,held as raw/2024/2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa.md,,0,,
+7,https://www.bceao.int/fr/communique-presse/demarrage-de-la-phase-pilote-du-systeme-de-paiement-instantane-interoperable-de,fetched,,scripts/.workroot/study/centralbank/cache/GNB/7.txt,169,html,Démarrage de la phase pilote du système de paiement instantané interopérable de l’Union Economique et Monétaire Ouest Africaine
+8,https://documents1.worldbank.org/curated/en/099061523115010183/pdf/P179627-b7cacceb-3c50-4061-8f7e-c52e69bb90e7.pdf,held,held as raw/2023/2023-06-15-guinebissau-world-bank-aus0003328-digital-governance-engagement-note.md,,0,,

@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "5",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "5",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001",
+      "gaps": "",
+      "note": "The Bank of Uganda reports East African Payment System inflows of UGX 1.3 trillion in FY2024/25, a regional system in service. A later yes answers the earlier questions.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

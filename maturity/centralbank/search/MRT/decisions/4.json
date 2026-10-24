@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "The BCM implemented Montran's Automated Transfer System integrating RTGS and ACH, plus a central securities depository (press piece dated May 2024 by the search record).",
+  "title": "Montran's ATS & CSD Solutions Transform Mauritania's Financial Landscape",
+  "publisher": "Montran",
+  "published": "2024-05-14",
+  "date_source": "proxy",
+  "why_not": ""
+}

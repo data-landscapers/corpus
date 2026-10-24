@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 2024 Labour Force Survey report presents annual results from 520 enumeration areas, with an unemployment rate of 12.9 percent.",
+ "title": "2024 Labour Force Survey Report",
+ "publisher": "Zambia Statistics Agency",
+ "published": "2025-08",
+ "date_source": "source",
+ "why_not": ""
+}

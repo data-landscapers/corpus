@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "Definitive RGPH-5 report published in July 2025 fixes the resident population at 18,126,390 in 2023.",
+ "title": "État et structure, urbanisation et caractéristiques socioculturelles de la population - Rapport définitif",
+ "publisher": "ANSD",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

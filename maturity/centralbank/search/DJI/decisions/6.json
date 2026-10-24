@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "A US International Trade Administration update of 16 November 2023 lists the central bank of Djibouti among the ten central banks incorporated into PAPSS.",
+  "title": "Ghana Pan African Payments Settlement System (PAPSS) Update",
+  "publisher": "US International Trade Administration",
+  "published": "2023-11-16",
+  "date_source": "source",
+  "why_not": ""
+}

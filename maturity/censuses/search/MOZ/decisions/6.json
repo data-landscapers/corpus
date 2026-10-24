@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The 2022-23 Mozambique Demographic and Health Survey, implemented by INE, published its final report in May 2024, with fieldwork from July 2022 to March 2023 and a sample of 14,250 households drawn from the 2017 census enumeration areas.",
+  "title": "Mozambique Demographic and Health Survey 2022-23 Final Report",
+  "publisher": "National Statistics Institute / The DHS Program",
+  "published": "2024-05",
+  "date_source": "source",
+  "why_not": ""
+}

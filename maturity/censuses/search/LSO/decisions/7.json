@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "The 2024 Labour Force Survey (fieldwork January-March 2024) published results in July 2025: unemployment 30.1 percent.",
+  "title": "2024 Labour Force Survey (LFS) Report",
+  "publisher": "Bureau of Statistics",
+  "published": "2025-07",
+  "date_source": "source",
+  "why_not": ""
+}

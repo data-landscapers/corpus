@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "births;deaths",
+ "fact": "As of 17 July 2026 the LGEC software was deployed in 437 of 629 centres and held 14,839,577 birth records and 487,259 death records.",
+ "title": "Civil status: ANEC reaches 70% LGEC deployment milestone",
+ "publisher": "Mwebantu",
+ "published": "2026-08-07",
+ "date_source": "source",
+ "why_not": ""
+}

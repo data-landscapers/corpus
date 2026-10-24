@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "On 12 February 2024 the MEP, INS and UNICEF presented the results of the 2023 MICS, covering 11,000 households.",
+ "title": "Publication des résultats de l’enquête nationale par grappe à indicateurs multiples (MICS -2023)",
+ "publisher": "UNICEF Tunisie",
+ "published": "2024-02-12",
+ "date_source": "source",
+ "why_not": ""
+}

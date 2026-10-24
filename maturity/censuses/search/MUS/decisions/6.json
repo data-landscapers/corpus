@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "Volume VII, Economic Characteristics, is a table report of the 2022 Housing and Population Census, the seventh in the series after the Housing Census volume of June 2023.",
+  "title": "2022 Housing and Population Census, Volume VII: Economic Characteristics",
+  "publisher": "Statistics Mauritius",
+  "published": "2024-12",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "mandate",
+  "fact": "From 11 August 2026 the licensing, authorisation and registration of NPS payment institutions transferred from PASA to the SARB.",
+  "title": "PSMB Transition",
+  "publisher": "South African Reserve Bank",
+  "published": "2026-09",
+  "date_source": "proxy",
+  "why_not": "",
+  "sub_indicator": "centralbank"
+}

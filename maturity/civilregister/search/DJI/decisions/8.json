@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths",
+  "fact": "An ESCWA survey presented on 24 March 2025 found Djibouti's local civil registration offices do not keep electronic records of births and deaths, and that Djibouti reports no national or central database of civil records.",
+  "title": "Digitizing Civil Registration and Legal Identity in the Arab Countries",
+  "publisher": "ESCWA",
+  "published": "2025-03-24",
+  "date_source": "source",
+  "why_not": ""
+}

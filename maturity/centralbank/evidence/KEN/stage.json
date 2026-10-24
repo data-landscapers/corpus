@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "2",
-   "mandate": "drafting",
-   "switch": "",
-   "regional": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source held since October 2023 says: does the central bank license payment providers.",
-   "note": "First pass: counted from the four questions by study-ladder-centralbank.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "2",
+      "mandate": "drafting",
+      "switch": "",
+      "regional": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001",
+      "gaps": "No source held since October 2023 says: does the central bank license payment providers.",
+      "note": "The CBK and the Treasury drafted a National Payment System Bill, 2026, a payments mandate being set up. No source held says the CBK licenses providers, and its PAPSS accession is not counted.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The RGPH-5 enumeration ran from 23 October to 12 November 2022 across the whole territory, launched officially on 24 October 2022.",
+ "title": "TOGO / 5ème RGPH : L'opération du dénombrement de la population officiellement lancée à Lomé",
+ "publisher": "Ministère de l'Administration Territoriale, de la Gouvernance Locale et des Affaires Coutumières",
+ "published": "2022-10-25",
+ "date_source": "source",
+ "why_not": ""
+}

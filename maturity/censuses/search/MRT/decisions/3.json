@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "results",
+ "fact": "Secondary analyses of the 2023 census (RGPH5) data produced a sociodemographic yearbook and cartographic atlas with ANSADE in 2025.",
+ "title": "UNFPA Mauritania Annual Report 2025",
+ "publisher": "UNFPA Mauritania",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

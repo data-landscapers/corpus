@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "ANSD published the ENES (national employment survey) note for the fourth quarter of 2025 in March 2026, covering 3,700 households.",
+ "title": "Enquête nationale sur l'emploi au Sénégal (ENES), quatrième trimestre 2025",
+ "publisher": "ANSD",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

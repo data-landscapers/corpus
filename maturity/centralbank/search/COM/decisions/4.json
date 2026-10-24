@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The BCC communique states that licensing of banks and financial institutions in the Comoros is its exclusive remit and lists the legally established financial institutions and e-money institutions, including Telco Money SA, Hury Money SA and Comores Assistance Internationale (CASI).",
+  "title": "Communiqué de la Banque Centrale des Comores sur l'exercice illégal d'activités bancaires offshores",
+  "publisher": "Ministère des Finances, du Budget et du Secteur Bancaire (reproducing a Banque Centrale des Comores communiqué)",
+  "published": "2025-12-10",
+  "date_source": "source",
+  "why_not": ""
+}

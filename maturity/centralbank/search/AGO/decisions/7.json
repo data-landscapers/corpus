@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "BNA Instrutivo 14/2022 obliges e-money issuing institutions to join the EMIS-operated Instant Transfer System and the KWiK arrangement, with deadlines for adhesion and certification.",
+  "title": "Instrutivo n.º 14/2022 - Adesão e Participação no Sistema de Transferências Instantâneas",
+  "publisher": "Banco Nacional de Angola",
+  "published": "2022-12-14",
+  "date_source": "source",
+  "why_not": ""
+}

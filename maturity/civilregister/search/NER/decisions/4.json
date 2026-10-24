@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "births;deaths",
+  "fact": "Computerisation of civil registration acts began in 2023; of over 200 communes equipped, 130 were in production, with births and deaths digitised and sent to a central server.",
+  "title": "Rapport d'analyse des faits de l'état civil dans dix-huit (18) communes",
+  "publisher": "Institut National de la Statistique (Niger)",
+  "published": "2025-05",
+  "date_source": "source",
+  "why_not": ""
+}

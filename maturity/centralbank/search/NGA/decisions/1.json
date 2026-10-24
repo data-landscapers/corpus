@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;regional;mandate",
+  "fact": "CBN circular of 12 March 2026 set rules for instant payment services, and its circular of 16 March 2026 directed licensed PSSPs and switching and processing operators to integrate with the NRS transaction monitoring system.",
+  "title": "CBN Reforms and Initiatives",
+  "publisher": "Central Bank of Nigeria",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

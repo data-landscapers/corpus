@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The 2022 Population and Housing Census was enumerated on 23 August 2022 and initial results gave a population of 61,741,120.",
+ "title": "The 2022 Population and Housing Census: Initial Results",
+ "publisher": "National Bureau of Statistics and Office of the Chief Government Statistician Zanzibar",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

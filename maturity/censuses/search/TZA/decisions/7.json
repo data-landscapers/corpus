@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The national guideline for using 2022 census results runs November 2022 to October 2032, when the seventh Population and Housing Census is planned.",
+ "title": "Mwongozo wa Kitaifa wa Matumizi ya Matokeo ya Sensa ya Watu na Makazi ya Mwaka 2022",
+ "publisher": "Ofisi ya Waziri Mkuu na Ofisi ya Makamu wa Pili wa Rais, Zanzibar",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

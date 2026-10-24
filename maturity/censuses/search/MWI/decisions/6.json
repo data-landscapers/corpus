@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The 2024 Malawi DHS final report, dated December 2025, publishes results of fieldwork from May to August 2024.",
+  "title": "Malawi Demographic and Health Survey 2024 Final Report",
+  "publisher": "National Statistical Office, Utica International, ICF",
+  "published": "2025-12",
+  "date_source": "source",
+  "why_not": ""
+}

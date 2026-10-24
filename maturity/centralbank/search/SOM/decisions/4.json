@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "regional;switch",
+ "fact": "The Central Bank of Somalia signed the PAPSS Membership Agreement in March 2026 and is onboarding; integration of the Somali Payment Switch with PAPSS is in progress (workshop 18 June 2026).",
+ "title": "CBS and PAPSS knowledge-sharing workshop in Mogadishu",
+ "publisher": "Pan-African Payment & Settlement System - PAPSS",
+ "published": "2026-06-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

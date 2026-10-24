@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "Mauritania counted its fifth census (RGPH-5) from 25 December 2023 to 8 January 2024: 4,927,532 residents, up from 3,537,368 in 2013.",
+ "title": "Rapport Général du RGPH-5",
+ "publisher": "ANSADE",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

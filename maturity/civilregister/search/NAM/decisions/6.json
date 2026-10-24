@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "coverage",
+  "fact": "The 2023 census found 86.8 percent of the population had a birth certificate issued by the Namibian government and 10.8 percent had none.",
+  "title": "2023 Population and Housing Census Main Report",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2024-10",
+  "date_source": "proxy",
+  "why_not": ""
+}

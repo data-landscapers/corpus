@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "census",
+ "aspect": "",
+ "fact": "",
+ "title": "Enquête Démographique et de Santé 2019–21 (EDSG-III)",
+ "publisher": "Direction Générale de la Statistique / ICF",
+ "published": "2023-06",
+ "date_source": "source",
+ "why_not": "DHS 2019-21 final report, June 2023: older than three years, so no survey fact in the window; the labour force survey covers Q5."
+}

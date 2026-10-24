@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "On 20 November 2025 INE presented the final results of the 2024 census: a resident population of 36,604,681 at the 19 September 2024 reference date.",
+ "title": "Apresentação dos Resultados Definitivos do Recenseamento Geral da População e Habitação 2024",
+ "publisher": "Instituto Nacional de Estatística (INE)",
+ "published": "2025-11-20",
+ "date_source": "source",
+ "why_not": ""
+}

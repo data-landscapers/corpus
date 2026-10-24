@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "As of 30 September 2026 the BCEAO's list of participants authorised to open PI-SPI instant payment services to the public names 20 Burkina Faso participants, among 175 in the Union.",
+  "title": "Liste des participants autorisés à ouvrir les services de PI-SPI au public",
+  "publisher": "BCEAO",
+  "published": "2026-09-30",
+  "date_source": "source",
+  "why_not": ""
+}

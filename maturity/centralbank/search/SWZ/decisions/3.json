@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch;regional",
+  "fact": "At the 22 May 2025 Monetary Policy Statement the Governor said draft regulations operationalising the National Payments System Act, 2023 were sent to the Ministry of Finance, the Eswatini Payments Switch Fast Payments module went live in December 2024, and low-value CMA cross-border transfers must migrate from SADC-RTGS to a regional retail system by 31 March 2027.",
+  "title": "Eswatini to Migrate Low-Value Cross-Border Transfers to Regional System by 2027",
+  "publisher": "Inside Biz",
+  "published": "2025-05-23",
+  "date_source": "proxy",
+  "why_not": ""
+}

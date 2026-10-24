@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The 2022 Population and Housing Census was conducted with reference date midnight 22/23 August 2022, the sixth census and first digital census in Tanzania, and its results are analysed in this 2025 report (population 61.7 million).",
+ "title": "Population Dynamics and Development in Tanzania",
+ "publisher": "National Bureau of Statistics and Office of the Chief Government Statistician Zanzibar",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

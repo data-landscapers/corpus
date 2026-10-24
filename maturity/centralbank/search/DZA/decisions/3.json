@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "On 29 November 2025 GIE Monétique said it plans to extend QR-code mobile payment interoperability to 15 banks during 2026.",
+  "title": "M-paiement: l'interopérabilité élargie à 15 banques en 2026",
+  "publisher": "APS",
+  "published": "2025-11-29",
+  "date_source": "source",
+  "why_not": ""
+}

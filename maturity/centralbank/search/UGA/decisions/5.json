@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "Bank of Uganda's August 2025 oversight framework states that under the National Payment Systems Act, Cap 59 the central bank must license all payment system operators and payment service providers including e-money issuers, and regulates, supervises and oversees payment systems.",
+  "title": "The National Payment Systems Oversight Policy Framework",
+  "publisher": "Bank of Uganda",
+  "published": "2025-08",
+  "date_source": "source",
+  "why_not": ""
+}

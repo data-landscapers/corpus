@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "coverage",
+  "fact": "The 2022 MICS results brochure states that 95% of children under 5 in Comoros have their birth registered with the civil registry.",
+  "title": "Comores Enquête par grappes à indicateurs multiples, 2022 - Principaux résultats de l'enquête",
+  "publisher": "UNICEF Comores",
+  "published": "2022",
+  "date_source": "proxy",
+  "why_not": ""
+}

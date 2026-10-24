@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch;regional",
+  "fact": "The report, with data to November 2023, says Bank of Uganda's National Payment Systems Department licenses e-money issuers, PSPs and PSOs, that the BNPS retail switch is in early implementation, and that the BoU RTGS is part of the EAPS and COMESA REPSS.",
+  "title": "Uganda Payments and Financial Markets Infrastructure Assessment Report",
+  "publisher": "UNCDF",
+  "published": "2025",
+  "date_source": "source",
+  "why_not": ""
+}

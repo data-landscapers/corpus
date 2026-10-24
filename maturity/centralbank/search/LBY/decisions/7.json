@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The CBL directory lists licensed e-wallet, card-processor and mobile-banking companies, with licence decisions dated up to 7 January 2026.",
+  "title": "Electronic Payment - The Central Bank of Libya",
+  "publisher": "Central Bank of Libya",
+  "published": "2026-01",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results;survey",
+ "fact": "On 13 December 2024 the detailed results of the 5th census (RGPH-5, carried out in 2022, 8,095,498 residents) and of the second harmonised household living-conditions survey (EHCVM-2, 2021-2022) were presented.",
+ "title": "Présentation des résultats du dernier Recensement Général de la population et des données sur la pauvreté au Togo",
+ "publisher": "Présidence de la République Togolaise",
+ "published": "2024-12-14",
+ "date_source": "source",
+ "why_not": ""
+}

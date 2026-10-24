@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The BCD register of licensed institutions lists two e-money issuers, D-Money (agrément 2020) and WAAFI (agrément 2022), each with capital of 100 million DJF.",
+  "title": "Les établissements agréés",
+  "publisher": "Banque Centrale de Djibouti",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

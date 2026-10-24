@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The Bank of Mauritius annual report for the year ended June 2025 states the Bank has set up a payment oversight unit to strengthen the regulatory framework for payment systems.",
+  "title": "Annual Report, year ended June 2025",
+  "publisher": "Bank of Mauritius",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

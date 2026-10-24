@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "INSTAT's EHCVM II living standards survey (October 2021 to July 2022) gave a poverty rate of 45.5 percent in 2021.",
+ "title": "Profil et déterminants de la pauvreté au Mali - 2021",
+ "publisher": "INSTAT",
+ "published": "2023-08",
+ "date_source": "source",
+ "why_not": ""
+}

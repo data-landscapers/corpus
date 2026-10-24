@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "In 2023 the Bank of Ghana focused its oversight on the governance, operations and cyber security of the Ghana Interbank Settlement system, GhIPSS and mobile money platforms, and mobile money interoperability values and volumes grew 24.0 per cent.",
+  "title": "Payment Systems Oversight Annual Report 2023",
+  "publisher": "Bank of Ghana",
+  "published": "2024",
+  "date_source": "proxy",
+  "why_not": ""
+}

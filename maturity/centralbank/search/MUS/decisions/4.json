@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The National Payment Systems Act 2018, as amended in 2025, makes the central bank the authority to regulate, oversee and supervise payment systems and to license payment service providers, including e-money issuers.",
+  "title": "The National Payment Systems Act 2018",
+  "publisher": "Bank of Mauritius",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": ""
+}

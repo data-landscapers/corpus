@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "civil",
-   "stage": "5",
-   "births": "inservice",
-   "deaths": "digital",
-   "coverage": "target",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-006",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "5",
+      "births": "inservice",
+      "deaths": "digital",
+      "coverage": "target",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-004;NAM-006",
+      "gaps": "Whether the 99% is measured against estimated births is not stated.",
+      "note": "The e-birth notification system is implemented nationwide and feeds the national register, deaths are notified electronically in 153 facilities, and birth registration is close to 99% (2026).",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

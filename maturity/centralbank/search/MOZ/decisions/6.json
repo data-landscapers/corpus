@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "Banco de Moçambique issued Notice No. 2/GBM/2026 of 2 June setting the rules for connecting credit and financial institutions to the Single Payments Network (National Switch), revoking Notice 2/GBM/2015.",
+  "title": "NOTICE No. 2/GBM/2026 OF 2 JUNE - ESTABLISHES THE RULES FOR CONNECTION TO THE SINGLE PAYMENTS NETWORK (NATIONAL SWITCH)",
+  "publisher": "Banco de Moçambique",
+  "published": "2026-06-10",
+  "date_source": "source",
+  "why_not": ""
+}

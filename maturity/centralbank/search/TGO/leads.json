@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.togofirst.com/en/economic-governance/0510-20251-bceao-mandates-interoperable-transfers-across-uemoa-from-november",
+  "title": "BCEAO Mandates Interoperable Transfers Across UEMOA From November",
+  "publisher": "Togo First",
+  "published": "2026-10-05",
+  "sub_indicator": "centralbank",
+  "why": "Q3/Q1: BCEAO PI-SPI switch, mandatory use from 2 Nov 2026, Togo covered"
+ },
+ {
+  "url": "https://www.cb-umoa.org/sites/default/files/Liste%20EP%20ET%20EME%20Togo_2026.pdf",
+  "title": "Liste des établissements de paiement et de monnaie électronique, Togo (mise à jour au 29 juin 2026)",
+  "publisher": "Commission Bancaire de l'UMOA",
+  "published": "2026-06-29",
+  "sub_indicator": "centralbank",
+  "why": "Q2: BCEAO-licensed payment and e-money institutions in Togo"
+ },
+ {
+  "url": "https://www.togofirst.com/en/finance/2107-19631-bceao-plans-six-month-papss-pilot-involving-over-80-waemu-banks",
+  "title": "BCEAO Plans Six-Month PAPSS Pilot Involving Over 80 WAEMU Banks",
+  "publisher": "Togo First",
+  "published": "2026-07-21",
+  "sub_indicator": "centralbank",
+  "why": "Q4: BCEAO only an observer in PAPSS pilot, not linked"
+ },
+ {
+  "url": "https://www.togofirst.com/en/banking/2506-19356-bceao-extends-deadline-for-connecting-to-uemoa-instant-payment-platform",
+  "title": "BCEAO Extends Deadline for Connecting to UEMOA Instant Payment Platform",
+  "publisher": "Togo First",
+  "published": "2026-06-25",
+  "sub_indicator": "centralbank",
+  "why": "Q3: PI-SPI in service, Togo banks connected, deadline extended"
+ },
+ {
+  "url": "https://www.togofirst.com/en/finance/1404-18715-mixx-togo-joins-bceao-payment-platform-enabling-cross-border-transfers-across-uemoa",
+  "title": "Mixx Togo joins BCEAO payment platform, enabling cross-border transfers across UEMOA",
+  "publisher": "Togo First",
+  "published": "2026-04-14",
+  "sub_indicator": "centralbank",
+  "why": "Q3/Q2: Mixx joins PI-SPI; holds BCEAO e-money licence"
+ },
+ {
+  "url": "https://full-news.tg/semao-agrement-bceao-togo/",
+  "title": "Fintech : Semoa obtient l'agrément Etablissement de paiement de la BCEAO",
+  "publisher": "Full News",
+  "published": "2026-01-31",
+  "sub_indicator": "centralbank",
+  "why": "Q2: BCEAO licensed Semoa as payment institution 27 Jan 2026"
+ },
+ {
+  "url": "https://www.bceao.int/fr/content/lancement-officiel-de-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi",
+  "title": "Lancement officiel de la Plateforme Interopérable du Système de Paiement Instantané (PI-SPI)",
+  "publisher": "BCEAO",
+  "published": "2025-09-30",
+  "sub_indicator": "centralbank",
+  "why": "Q3: PI-SPI launched in eight UEMOA states"
+ },
+ {
+  "url": "https://www.bceao.int/sites/default/files/inline-files/Instruction-No001-01-2024_relative_aux_services_de_paiement_dans_l-UMOA.pdf",
+  "title": "Instruction N°001-01-2024 relative aux services de paiement dans l'UMOA",
+  "publisher": "BCEAO",
+  "published": "2024-01",
+  "sub_indicator": "centralbank",
+  "why": "Q1/Q2: BCEAO payment services licensing rules"
+ }
+]

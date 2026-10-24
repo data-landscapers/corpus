@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "INE announced provisional results of the V RGPH on 31 December 2024 after collection from 15 November to 15 December 2024, with final results promised for the first half of 2025.",
+  "title": "População residente em São Tomé e Príncipe subiu para quase 210 mil em 2024 - INE",
+  "publisher": "RSTP",
+  "published": "2024-12-31",
+  "date_source": "source",
+  "why_not": ""
+}

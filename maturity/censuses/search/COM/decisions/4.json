@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "INSEED, with World Bank STATCAP-Km and UNFPA support, officially launched the fifth census (RGPH05) on 5 June 2026.",
+  "title": "POPULATION : L’INSEED lance officiellement le RGPH05",
+  "publisher": "INSEED Comores",
+  "published": "2026-06",
+  "date_source": "proxy",
+  "why_not": ""
+}

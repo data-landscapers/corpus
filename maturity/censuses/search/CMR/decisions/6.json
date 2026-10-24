@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The INS main report of the third Employment and Informal Sector Survey (EESI3, 2021, national sample of 10,788 households) is dated August 2022; its sampling frame is the 4th census mapping of 2017.",
+ "title": "Third Survey on Employment and the Informal Sector in Cameroon (EESI3), Main Report, Phase 1: Employment Survey",
+ "publisher": "Institut National de la Statistique",
+ "published": "2022-08",
+ "date_source": "source",
+ "why_not": ""
+}

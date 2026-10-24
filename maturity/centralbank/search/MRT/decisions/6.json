@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "centralbank",
+ "aspect": "",
+ "fact": "",
+ "title": "Autorisation Barid Cash",
+ "publisher": "Banque Centrale de Mauritanie",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Unfetchable: empty extraction."
+}

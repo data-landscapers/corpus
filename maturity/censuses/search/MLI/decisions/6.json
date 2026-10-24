@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The census enumeration ran 15 June to 31 July 2022 (Ménaka and Kidal later in 2022) and the global results give a population of 22,395,489.",
+ "title": "Rapport préliminaire, résultats globaux du RGPH5",
+ "publisher": "INSTAT, Bureau Central du Recensement",
+ "published": "2023-11",
+ "date_source": "source",
+ "why_not": ""
+}

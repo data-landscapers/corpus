@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The 2024 ZDHS final report, published November 2025, presents national results of the seventh Demographic and Health Survey in Zambia.",
+ "title": "Zambia Demographic and Health Survey 2024",
+ "publisher": "Zambia Statistics Agency, Ministry of Health, ICF",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

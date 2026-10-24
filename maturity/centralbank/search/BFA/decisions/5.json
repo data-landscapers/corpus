@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "The BCEAO states PI-SPI, launched on 30 September 2025, was designed and is operated by the BCEAO and runs in all eight WAEMU countries, with 74 institutions offering it to customers at 31 December 2025.",
+  "title": "BCEAO Annual Report 2025",
+  "publisher": "BCEAO",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

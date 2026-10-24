@@ -1,0 +1,11 @@
+{
+  "select": false,
+  "sub_indicator": "civil",
+  "aspect": "births",
+  "fact": "Mauritius has selected OpenCRVS as the solution for its eCRVS needs, with implementation beginning in 2023.",
+  "title": "Digital X Solution: OpenCRVS",
+  "publisher": "UNDP Digital X",
+  "published": "",
+  "date_source": "proxy",
+  "why_not": "no document date stated; not staged"
+}

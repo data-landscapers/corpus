@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "coverage",
+  "fact": "MICS Libya 2024-25 reports 99.6% of children under age 5 have births reported registered with a civil authority (SDG 16.9.1).",
+  "title": "Libya Multiple Indicator Cluster Survey 2024-25, Survey Findings Report",
+  "publisher": "Bureau of Statistics and Census and UNICEF",
+  "published": "2026-06",
+  "date_source": "source",
+  "why_not": ""
+}

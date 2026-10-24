@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The INE extended RGPH-4 enumeration to 26 June 2026 after it began on 1 June, with provisional count of 2,213,173 inhabitants up to 22 June.",
+ "title": "INE prolonga recenseamento e dados preliminares apontam para registo de mais de 2,2 milhões de habitantes na Guiné-Bissau",
+ "publisher": "Agência de Notícias da Guiné (ANG)",
+ "published": "2026-06-23",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -9,10 +9,10 @@
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-004;ZMB-003",
-      "gaps": "No source held since October 2023 says: are births registered digitally across the country.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-23"
+      "stage_sources": "ZMB-003;ZMB-004",
+      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "note": "INRIS reached 79 districts with some councils pending (2023), and the CRVS core is being procured (2025).",
+      "as_at": "2026-10-24"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;mandate",
+  "fact": "BCC Instruction No. 58 of 4 September 2024 requires regulated entities to connect to the National E-Payment Switch, which is under BCC regulation and supervision.",
+  "title": "Instruction No. 58 on the Interoperability of Electronic Payment Systems and Participation in the National E-Payment Switch",
+  "publisher": "Banque Centrale du Congo",
+  "published": "2024-09-04",
+  "date_source": "source",
+  "why_not": ""
+}

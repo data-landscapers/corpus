@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "mandate",
+  "fact": "As of 28 February 2026 the BCEAO lists two e-money institutions (Orange Finances Mobiles Mali, Sama Money) and seven bank-telecom partnerships authorised in Mali.",
+  "title": "Etablissements de Monnaie Electronique",
+  "publisher": "BCEAO",
+  "published": "2026-02-28",
+  "date_source": "source",
+  "why_not": "",
+  "sub_indicator": "centralbank"
+}

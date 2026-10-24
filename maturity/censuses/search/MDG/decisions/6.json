@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The July 2023 atlas states the third census (RGPH-3), carried out in 2018, counted 25,674,196 inhabitants.",
+  "title": "Atlas du troisieme recensement general de la population et de l'habitation de Madagascar 2018",
+  "publisher": "Institut National de la Statistique (INSTAT), CCER",
+  "published": "2023-07",
+  "date_source": "source",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "INE launched on 18 February 2026 the Q4 2025 results of the Inquérito sobre o Emprego em Angola (labour force survey), the first on a new methodology.",
+ "title": "Lançamento dos Resultados do Inquérito sobre o Emprego em Angola – IV Trimestre de 2025 e da Escala de Experiência de Insegurança Alimentar (2020–2023)",
+ "publisher": "Instituto Nacional de Estatística (INE)",
+ "published": "2026-02-18",
+ "date_source": "source",
+ "why_not": ""
+}

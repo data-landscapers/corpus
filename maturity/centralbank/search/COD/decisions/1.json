@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "On 18 September 2026 in Nairobi the BCC Governor signed the agreement of the BCC's accession to PAPSS.",
+  "title": "La Banque Centrale du Congo adhère au PAPSS",
+  "publisher": "Banque Centrale du Congo",
+  "published": "2026-09-18",
+  "date_source": "source",
+  "why_not": ""
+}

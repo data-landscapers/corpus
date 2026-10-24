@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.instat-mali.org/fr/publications/recensement-general-de-la-population-et-de-lhabitat-rgph,fetched,,scripts/.workroot/study/censuses/cache/MLI/1.txt,1559,html,RECENSEMENT GÉNÉRAL DE LA POPULATION ET DE L'HABITAT (RGPH)
+2,https://instat-mali.org/fr/actualites-et-evenements/atelier-national-de-validation-du-repertoire-des-localites-du-mali,fetched,,scripts/.workroot/study/censuses/cache/MLI/2.txt,614,html,Atelier national de validation du répertoire des localités du Mali
+3,https://dhsprogram.com/pubs/pdf/FR394/FR394.pdf,fetched,,scripts/.workroot/study/censuses/cache/MLI/3.txt,423539,pdf,Mali DHS 2023-24 Final Report [FR394]
+4,https://www.instat-mali.org/laravel-filemanager/files/shares/rgph/rapport-etat-structure-population-rgph5-rgph.pdf,fetched,,scripts/.workroot/study/censuses/cache/MLI/4.txt,66385,pdf,
+5,https://www.instat-mali.org/laravel-filemanager/files/shares/pub/bulletin-ind-travail2024_pub.pdf,fetched,,scripts/.workroot/study/censuses/cache/MLI/5.txt,1765,pdf,
+6,https://www.instat-mali.org/laravel-filemanager/files/shares/rgph/rapport-resultats-globaux-rgph5_rgph.pdf,fetched,,scripts/.workroot/study/censuses/cache/MLI/6.txt,18147,pdf,
+7,https://www.instat-mali.org/laravel-filemanager/files/shares/pub/profil-determinants-pauvrete-mali-2021_pub.pdf,fetched,,scripts/.workroot/study/censuses/cache/MLI/7.txt,30758,pdf,
+8,https://www.instat-mali.org/fr/actualites-et-evenements/cartographie-rgph5,fetched,,scripts/.workroot/study/censuses/cache/MLI/8.txt,987,html,Cartographie RGPH5

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "mandate;switch",
+  "fact": "BNR's November 2025 list names the payment service providers, e-money issuers and RSwitch Limited as the licensed payment system operator under Law 061/2021.",
+  "title": "Licensed Institutions",
+  "publisher": "National Bank of Rwanda",
+  "published": "2025-11",
+  "sub_indicator": "centralbank",
+  "date_source": "source",
+  "why_not": ""
+}

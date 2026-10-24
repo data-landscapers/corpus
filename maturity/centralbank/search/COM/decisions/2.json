@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch;mandate;regional",
+  "fact": "The BCC annual report for 2025 states that the national Switch will make payment systems interoperable, that KomorPay (ATS) replaces manual clearing, and that the Conseil national des paiements held its 4th plenary on 21 June 2025 noting the Komor Switch deployment; it also reports e-money issuers Telco Money (Mvola), BDC (Holo) and Huri Money, e-money outstanding rising from 2.6 to 3.6 billion KMF in 2024-2025.",
+  "title": "Rapport Annuel 2025",
+  "publisher": "Banque Centrale des Comores",
+  "published": "2026",
+  "date_source": "proxy",
+  "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch",
+  "fact": "In 2022 Orange Money Cameroun was licensed as a payment establishment (Mobile Money Corporation Cameroun on 11 May 2023), and by 31 December 2022 GIMACPAY had 89 participants including 11 mobile money operators, with BEAC reporting on the system.",
+  "title": "Rapport sur les services de paiement dans la CEMAC en 2022",
+  "publisher": "Banque des Etats de l'Afrique Centrale (BEAC)",
+  "published": "2023-11",
+  "date_source": "proxy",
+  "why_not": ""
+}

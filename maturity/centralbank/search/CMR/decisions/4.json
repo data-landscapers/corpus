@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "Payment establishments authorised by the Minister of Finance after COBAC's avis conforme operate in Cameroon, listed as Orange Money Cameroun and Mobile Money Corporation.",
+  "title": "Etablissements de paiement agréés",
+  "publisher": "Direction Générale du Trésor, de la Coopération Financière et Monétaire (DGTCFM)",
+  "published": "2025-05-23",
+  "date_source": "proxy",
+  "why_not": ""
+}

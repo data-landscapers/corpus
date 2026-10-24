@@ -9,10 +9,10 @@
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-007;MWI-006",
-      "gaps": "No source held since October 2023 puts birth registration at 90% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "MWI-005;MWI-009",
+      "gaps": "No source held since October 2023 puts birth registration at 90% or more. Facility-level digital registration reached 180 health facilities in 2026.",
+      "note": "The centralised CRVS is operational in all 28 district registration offices (2024) and records deaths in the NRIS (2025). No coverage share is held.",
+      "as_at": "2026-10-24"
     }
   ]
 }

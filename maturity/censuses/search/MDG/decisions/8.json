@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census",
+  "fact": "The report states the RGPH-3 enumeration took place from 18 May to 25 June 2018 across the national territory.",
+  "title": "Resultats globaux du recensement general de la population et de l'habitation de 2018 de Madagascar (RGPH-3), Tome 1",
+  "publisher": "Institut National de la Statistique (INSTAT), CCER",
+  "published": "2020-12",
+  "date_source": "source",
+  "why_not": ""
+}

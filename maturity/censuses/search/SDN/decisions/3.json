@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "census",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Fetched text is the abstract only; it says SLMPS 2022 is the first nationally representative survey in almost a decade but the dated census fact is not in the fetched text."
+}

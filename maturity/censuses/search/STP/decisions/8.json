@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "MICS6-STP 2019 was fielded August to October 2019 by INE with UNICEF and its final results report was issued in December 2020.",
+  "title": "São Tomé e Príncipe / Inquérito aos Indicadores Múltiplos 2019, Relatório dos resultados do Inquérito",
+  "publisher": "INE e UNICEF",
+  "published": "2020-12",
+  "date_source": "source",
+  "why_not": ""
+}

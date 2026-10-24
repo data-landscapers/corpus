@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "INE is preparing the IV national household income and expenditure survey (IV IDRF), with data collection planned throughout 2023 and results in mid-2024.",
+ "title": "Support to the National Household Income and Expenditure Survey in Cabo Verde",
+ "publisher": "LuxDev",
+ "published": "2022-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

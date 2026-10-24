@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "Bank Windhoek processed the first live government grant payments on 17 June 2026 on the WayaMe instant payment network operated by Instant Payments Namibia, a Bank of Namibia subsidiary.",
+  "title": "Bank Windhoek, Letshego go live on WayaMe network",
+  "publisher": "Market Watch",
+  "published": "2026-06-19",
+  "date_source": "source",
+  "why_not": ""
+}

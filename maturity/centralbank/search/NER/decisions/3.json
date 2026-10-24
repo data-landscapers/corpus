@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "As updated 29 June 2026, Niger has five registered payment institutions (including iFUTUR, EP.NG.001/2025) and one e-money institution, Airtel Money Niger (EME.NE.019/2022).",
+  "title": "Liste des établissements de paiement et de monnaie électronique - Niger",
+  "publisher": "Commission Bancaire de l'UMOA",
+  "published": "2026-06-29",
+  "date_source": "source",
+  "why_not": ""
+}

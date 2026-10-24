@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "regional",
+ "fact": "As of March 2024 SADC-RTGS participation spanned 15 SADC member states with 89 participants; the SARB operates it as appointed by participating central banks.",
+ "title": "National Payment System Regulatory and Oversight Report (1 April 2023 - 31 March 2024)",
+ "publisher": "South African Reserve Bank",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "centralbank"
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The EHCVM 2021 (13,008 households, collected Nov 2021-Jul 2022) gave a national poverty rate of 37.5% in 2021, down from 39.4% in 2018.",
+  "title": "Profil de pauvreté de la Côte d Ivoire 2021",
+  "publisher": "ANStat",
+  "published": "2021",
+  "date_source": "proxy",
+  "why_not": ""
+}

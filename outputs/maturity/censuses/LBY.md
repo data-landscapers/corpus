@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held reports a census counted since October 2016.
+***Not held***. No census counted since October 2016 is held. Whether preparation continues is not established: it was on track in 2024, and in 2026 a new census had not been launched.

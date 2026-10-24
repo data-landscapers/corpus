@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "GBoS announced on 13 April 2023 that the 2023 census was rescheduled from April to November 2023, with mapping ongoing and due to finish in May 2023.",
+ "title": "Gambia Bureau of Statistics (GBoS) Press Release on the Rescheduling of the 2023 Population and Housing Census",
+ "publisher": "Gambia Bureau of Statistics (via Africa-Press)",
+ "published": "2023-04-13",
+ "date_source": "source",
+ "why_not": ""
+}

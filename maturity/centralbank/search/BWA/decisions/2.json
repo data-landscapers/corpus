@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "centralbank",
+ "aspect": "mandate",
+ "fact": "The Bank of Botswana licenses e-money issuance and digital payment activities under the Electronic Payment Services Regulations (2019), and a National Payment System law to replace the NCSS Act is under drafting.",
+ "title": "Fintech Analytical Assessment Framework",
+ "publisher": "Bank of Botswana",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

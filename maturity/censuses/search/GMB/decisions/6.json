@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "The NSDS III 2024-28 budgets USD 8,604,087 in 2024 for the conduct of the 2023 Population and Housing Census and lists IHS, DHS, MICS and LFS surveys in 2024-2028.",
+ "title": "National Strategy for the Development of Statistics (NSDS III) of the Gambia 2024-28 - Summary",
+ "publisher": "Gambia Bureau of Statistics",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

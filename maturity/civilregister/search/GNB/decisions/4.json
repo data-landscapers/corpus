@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "births;coverage",
+ "fact": "Births are registered on a digital platform in hospitals and health centres in Bissau, Tombali and Quinara since the SIREC rollout, while only about 46% of under-fives were registered per MICS 2019.",
+ "title": "From Birth to Identity: Birth Registration in Health Services in Guinea-Bissau",
+ "publisher": "UNICEF Guinea-Bissau",
+ "published": "2025-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

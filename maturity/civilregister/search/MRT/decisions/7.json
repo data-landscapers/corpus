@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "civil",
+  "aspect": "coverage",
+  "fact": "The 2019-2021 DHS finds that 45% of children under 5 had their birth registered with the civil registry (68% urban, 30% rural; 36% hold a birth certificate), well below 90%.",
+  "title": "Enquête Démographique et de Santé de la Mauritanie (EDSM) 2019-2021",
+  "publisher": "Office National de la Statistique (ONS), Ministère de la Santé, The DHS Program",
+  "published": "2022-02",
+  "date_source": "source",
+  "why_not": ""
+}

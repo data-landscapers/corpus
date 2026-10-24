@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "results;census",
+ "fact": "The INSTAT RGPH page of 28 March 2026 lists the RGPH5 global results report and about twenty thematic analysis reports as available for download.",
+ "title": "RECENSEMENT GÉNÉRAL DE LA POPULATION ET DE L'HABITAT (RGPH)",
+ "publisher": "INSTAT Mali",
+ "published": "2026-03-28",
+ "date_source": "source",
+ "why_not": ""
+}

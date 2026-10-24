@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "ZIMSTAT's 2025 Second Quarter Labour Force Survey, a household survey of 9,650 households, reported a 20.7 percent national unemployment rate.",
+ "title": "2025 Second Quarter Labour Force Survey Report",
+ "publisher": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

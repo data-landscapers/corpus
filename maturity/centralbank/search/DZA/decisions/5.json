@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "The Bank of Algeria published Instruction 06-2025 setting operating rules for payment service providers, completing Regulation 25-02 of 14 April 2025 and Instruction 03-25 of 27 May 2025 on authorisation and approval.",
+  "title": "La Banque d'Algérie complète le dispositif réglementaire encadrant les activités des PSP",
+  "publisher": "Banque d'Algérie",
+  "published": "2025-08",
+  "date_source": "proxy",
+  "why_not": ""
+}

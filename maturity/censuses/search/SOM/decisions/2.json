@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;survey",
+ "fact": "SNBS states the 1975 census gave limited results, the 1986 results were not published, and a new population and housing census is upcoming; household surveys since 2014 include LFS 2019, SHDS 2020 and SIHBS 2022.",
+ "title": "Tusmada Iskudhafan ee Horumarka Dadweynaha Soomaaliya 2025",
+ "publisher": "Hay’adda Istaatistikada Qaranka Soomaaliya",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

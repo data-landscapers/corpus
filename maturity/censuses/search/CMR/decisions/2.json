@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "A Prime Minister's decree of 29 May 2026 extended the 4th census enumeration to 31 July 2026, with XAF 6 billion added.",
+ "title": "Cameroon extends census deadlines and funding to ensure exhaustivity and effectiveness",
+ "publisher": "UNFPA Cameroon",
+ "published": "2026-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

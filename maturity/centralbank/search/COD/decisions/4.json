@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch",
+  "fact": "BCC licenses and supervises mobile money operators and e-money issuers and oversees payment systems; the national retail payment switch was still being implemented, with six banks in pilot and MMOs not yet connected.",
+  "title": "Payment Infrastructure Assessment: Democratic Republic of Congo",
+  "publisher": "UNCDF",
+  "published": "2025-04",
+  "date_source": "proxy",
+  "why_not": ""
+}

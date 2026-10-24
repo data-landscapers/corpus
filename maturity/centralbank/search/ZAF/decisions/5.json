@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "mandate;switch;regional",
+  "fact": "The report for 1 April 2024 - 31 March 2025 states the SARB regulates and oversees BankservAfrica, SAMOS and SADC-RTGS as systemic FMIs and that a stand-alone NPS Bill was being drafted for tabling in Parliament in 2025.",
+  "title": "National Payment System Regulatory and Oversight Report (1 April 2024 - 31 March 2025)",
+  "publisher": "South African Reserve Bank",
+  "published": "2025",
+  "date_source": "proxy",
+  "why_not": "",
+  "sub_indicator": "centralbank"
+}

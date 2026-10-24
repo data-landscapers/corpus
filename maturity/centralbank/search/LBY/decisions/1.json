@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate",
+  "fact": "In March 2026 the Central Bank of Libya issued rules allowing licensed electronic payment companies to issue e-wallets to legally resident foreigners, with daily transfer limits, and said regulatory oversight continues through field inspections.",
+  "title": "Libya allows e-wallets for foreigners and sets transfer limits",
+  "publisher": "Libya Observer",
+  "published": "2026-03-12",
+  "date_source": "source",
+  "why_not": ""
+}

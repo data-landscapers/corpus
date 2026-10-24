@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "switch",
+  "fact": "On 18 June 2025 the Central Bank of Libya announced the official launch of the website of its instant payment service, LYPay.",
+  "title": "Central Bank of Libya officially launches the website for the instant payment service (LYPay)",
+  "publisher": "Central Bank of Libya",
+  "published": "2025-06-18",
+  "date_source": "source",
+  "why_not": ""
+}

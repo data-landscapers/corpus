@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "census",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "Namibia Statistics Agency",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Fetched page is an empty shell with no text; no dated fact."
+}

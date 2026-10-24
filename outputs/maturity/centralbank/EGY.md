@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [Meeza](<https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/>); [InstaPay](<https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/>); [PAPSS](<https://www.businessmen-eg.com/en/6489/cbe-governor-enhanced-egyptian-bank-participation-drives-pan-african-financial-integration>); [Digital Financial Identity Platform (eKYC)](<https://www.cbe.org.eg/en/news-publications/news/2026/08/24/09/40/ekyc-2026>); [Meeza Digital](<https://gate.ahram.org.eg/News/5335311.aspx>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held reports Egyptian payments running on PAPSS: six banks were still applying to the CBE to integrate in September 2026.

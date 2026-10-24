@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census;results",
+  "fact": "The May 2026 PBO paper says the 2026 budget does not fund preparations for the next decennial census, and records Census 2022 net undercount of 31.06% of persons and a planned continuous population survey pilot July-December 2026.",
+  "title": "An Assessment of the Request for Additional Funding: Statistics South Africa",
+  "publisher": "Parliamentary Budget Office",
+  "published": "2026-05",
+  "date_source": "source",
+  "why_not": ""
+}

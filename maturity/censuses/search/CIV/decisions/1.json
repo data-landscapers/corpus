@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "results",
+  "fact": "The 2021 census final global results were published on 6 July 2022 after the post-census survey; enumeration ran 1-30 November 2021 and cartography updated in 2019.",
+  "title": "Rapport thématique Tome 1 : État et structure de la population, RGPH 2021",
+  "publisher": "ANStat",
+  "published": "2025-07",
+  "date_source": "source",
+  "why_not": ""
+}

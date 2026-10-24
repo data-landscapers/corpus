@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census",
+ "fact": "Census mapping was done between June 2019 and June 2020 and enumeration was scheduled for 13 November to 12 December 2021, with a funding gap of about 5 billion CFA francs.",
+ "title": "Cartographie RGPH5",
+ "publisher": "INSTAT Mali",
+ "published": "2021-05-10",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "switch",
+  "fact": "As updated 30 September 2026, 19 Mali participants (banks, Moov Money, Sama Money, Orange Finances Mobiles Mali and microfinance) are authorised to open PI-SPI instant-payment services to the public.",
+  "title": "Liste des participants autorisés à ouvrir les services de PI-SPI au public",
+  "publisher": "BCEAO",
+  "published": "2026-09-30",
+  "date_source": "source",
+  "why_not": "",
+  "sub_indicator": "centralbank"
+}

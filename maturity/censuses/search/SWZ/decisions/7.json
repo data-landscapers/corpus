@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "census;results",
+  "fact": "On 20 March 2020 the government and UNFPA launched the five-volume 2017 Eswatini Population and Housing Census report, giving a total population of 1,093,238.",
+  "title": "Eswatini Government and UNFPA launch the results of the 2017 Eswatini Population and Housing Census",
+  "publisher": "UNFPA Eswatini",
+  "published": "2020-03-20",
+  "date_source": "source",
+  "why_not": ""
+}

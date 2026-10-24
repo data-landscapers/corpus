@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "regional",
+  "fact": "The Reserve Bank of Malawi joined PAPSS in December 2023 as the 12th African central bank, with commercial banks to follow in Q1 2024.",
+  "title": "RBM joins pan-African payment system",
+  "publisher": "Nation Online",
+  "published": "2023-12-28",
+  "date_source": "source",
+  "why_not": ""
+}

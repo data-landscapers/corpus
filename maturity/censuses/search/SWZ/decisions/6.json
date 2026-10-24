@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "survey",
+ "fact": "The Eswatini Multiple Indicator Cluster Survey 2021-2022 Survey Findings Report, by the Central Statistical Office with UNICEF, is dated January 2024.",
+ "title": "Eswatini Multiple Indicator Cluster Survey 2021-2022, Survey Findings Report",
+ "publisher": "Central Statistical Office",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": ""
+}

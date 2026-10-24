@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "coverage",
+  "fact": "In the 2019-21 DHS, 96% of children under 5 had their birth registered with civil registration, up from 90% in 2012.",
+  "title": "Enquête Démographique et de Santé au Gabon 2019-2021, Rapport final (EDSG-III)",
+  "publisher": "Direction Générale de la Statistique (DGS) et ICF",
+  "published": "2023-06",
+  "date_source": "source",
+  "why_not": "",
+  "sub_indicator": "civil"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "On 4 April 2023 the Conseil national du recensement presented the final overall RGPH-5 results: 8,095,498 inhabitants in 2022.",
+ "title": "Présentation des principaux résultats définitifs du RGPH-5",
+ "publisher": "INSEED",
+ "published": "2023-04-06",
+ "date_source": "source",
+ "why_not": ""
+}

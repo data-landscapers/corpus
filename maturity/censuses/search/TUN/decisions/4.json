@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "On 17 May 2025 the INS announced publication of the official results of the 2024 Population and Housing Census, with population counts at national, regional and local level.",
+ "title": "Résultats du Recensement général de la population et de l’habitat 2024",
+ "publisher": "Institut National de la Statistique",
+ "published": "2025-05-17",
+ "date_source": "source",
+ "why_not": ""
+}

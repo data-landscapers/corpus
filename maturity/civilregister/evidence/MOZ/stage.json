@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "civil",
-      "stage": "3",
-      "births": "inservice",
+      "stage": "2",
+      "births": "underway",
       "deaths": "",
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-005",
-      "gaps": "No source held since October 2023 says deaths are registered in the digital system.",
-      "note": "First pass: counted from the four questions by study-ladder-civilregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MOZ-003;MOZ-001",
+      "gaps": "No source held since October 2023 says births are registered digitally across the country. The registry gives e-RCEV's coverage of all centres as proposed.",
+      "note": "Lowered: the 2023 source describes an online request portal, while the registry's own 2026 page gives coverage of all centres as proposed and real-time registration was piloted in 19 facilities in 2024.",
+      "as_at": "2026-10-24"
     }
   ]
 }

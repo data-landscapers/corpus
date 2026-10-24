@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "census",
+ "aspect": "census;results",
+ "fact": "The fifth census, enumerated 16-30 August 2022, counted 13,246,394 residents, with main indicators published in February 2023.",
+ "title": "Fifth Rwanda Population and Housing Census, 2022, Main Indicators Report",
+ "publisher": "National Institute of Statistics of Rwanda (NISR)",
+ "published": "2023-02",
+ "date_source": "source",
+ "why_not": ""
+}

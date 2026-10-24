@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "aspect": "mandate",
+  "fact": "As updated to 29 June 2026, the BCEAO list shows two payment institutions in Mali (Intouch Mali, Cauridor) and two e-money institutions (Orange Finances Mobiles Mali, Sama Money Mali).",
+  "title": "Listes des établissements de monnaie électronique et des établissements de paiement de l'UMOA - Mali",
+  "publisher": "Commission Bancaire de l'UMOA",
+  "published": "2026-06-29",
+  "date_source": "source",
+  "why_not": "",
+  "sub_indicator": "centralbank"
+}

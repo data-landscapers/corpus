@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "census",
+  "aspect": "survey",
+  "fact": "The 2024/25 Botswana Multi-Topic Household Survey (fieldwork Nov 2024 to Nov 2025) published preliminary labour force results, with unemployment at 21.0 percent.",
+  "title": "BOTSWANA MULTI TOPIC HOUSEHOLD SURVEY 2024/25 Labour Force Preliminary Stats Brief Version 2",
+  "publisher": "Statistics Botswana",
+  "published": "2026-03",
+  "date_source": "proxy",
+  "why_not": ""
+}

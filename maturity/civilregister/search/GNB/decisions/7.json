@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "civil",
+ "aspect": "births;deaths",
+ "fact": "SIREC, with modules for birth and death among others, was launched on 23 January 2025 at the 1st Registry Office in Bissau, issuing the first certificate without the paper books.",
+ "title": "Sistema de registos do cidadão da Guiné-Bissau desenvolvido na Universidade de Aveiro",
+ "publisher": "OLN - Aveiro On Line News",
+ "published": "2025-02-01",
+ "date_source": "source",
+ "why_not": ""
+}

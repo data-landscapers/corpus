@@ -1,0 +1,11 @@
+{
+  "select": true,
+  "sub_indicator": "centralbank",
+  "aspect": "mandate;switch",
+  "fact": "The NBE presentation states the bank acts as regulator, overseer, supervisor and owner-operator of the payment system, issued PII and PSO directives in 2020, gave the first non-bank mobile money licence to Ethiotelecom in 2021 and licensed M-Pesa in 2023, and that the national switch provides interoperability.",
+  "title": "Ethiopian Payment System Landscape",
+  "publisher": "National Bank of Ethiopia (ITU-T DFS webinar)",
+  "published": "2024-11",
+  "date_source": "proxy",
+  "why_not": ""
+}

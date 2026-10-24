@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "civil",
-   "stage": "5",
-   "births": "inservice",
-   "deaths": "digital",
-   "coverage": "target",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-005;RWA-009",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-civilregister.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "5",
+      "births": "inservice",
+      "deaths": "digital",
+      "coverage": "target",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-007;RWA-009",
+      "gaps": "Death registration was about half of deaths in 2025; nothing on the four questions is missing.",
+      "note": "NISR counts births registered nationally in the digital CRVS in 2025, at 92.9% completeness, with deaths registered in the same system.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }
