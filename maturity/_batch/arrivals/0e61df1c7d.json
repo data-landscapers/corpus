@@ -1,0 +1,22 @@
+{"slug": "2026-10-22-xss-imo-maritime-single-window-workshop-accra", "studies": {
+"customs": {"countries": {
+"CPV": {"facts": [], "systems": [], "note": "Workshop release names the country as a participant only; no customs system status stated."},
+"GHA": {"facts": [], "systems": [], "note": "Workshop release names the country as host and participant only; no customs system status stated."},
+"GMB": {"facts": [], "systems": [], "note": "Participant only; no customs system status stated."},
+"GNB": {"facts": [], "systems": [], "note": "Participant only; no customs system status stated."},
+"GNQ": {"facts": [], "systems": [], "note": "Participant only; no customs system status stated."},
+"LBR": {"facts": [], "systems": [], "note": "Participant only; no customs system status stated."},
+"NGA": {"facts": [], "systems": [], "note": "Participant only; no customs system status stated."},
+"SLE": {"facts": [], "systems": [], "note": "Participant only; no customs system status stated."},
+"STP": {"facts": [], "systems": [], "note": "Participant only; no customs system status stated."}}},
+"publicconsultation": {"countries": {
+"CPV": {"facts": [], "systems": [], "note": "A workshop of administrations, donors and regional bodies on maritime single windows; no named national digital law or outside participants."},
+"GHA": {"facts": [], "systems": [], "note": "As for the other participants: no named national digital law consulted on."},
+"GMB": {"facts": [], "systems": [], "note": "No named national digital law consulted on."},
+"GNB": {"facts": [], "systems": [], "note": "No named national digital law consulted on."},
+"GNQ": {"facts": [], "systems": [], "note": "No named national digital law consulted on."},
+"LBR": {"facts": [], "systems": [], "note": "No named national digital law consulted on."},
+"NGA": {"facts": [], "systems": [], "note": "No named national digital law consulted on."},
+"SLE": {"facts": [], "systems": [], "note": "No named national digital law consulted on."},
+"STP": {"facts": [], "systems": [], "note": "No named national digital law consulted on."}}}
+}}

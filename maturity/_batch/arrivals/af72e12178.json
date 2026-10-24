@@ -1,12 +1,6 @@
-{"slug": "2026-10-22-egy-egypts-souhoola-secures-fra-approval-for-fintech-based-consu", "studies": {
-"authentication": {"countries": {"EGY": {"facts": [], "systems": [{"system": "V-Lens", "country_label": "Souhoola V-Lens", "class": "other", "platform": "", "owner": "Souhoola", "tiers": ""}], "note": "A lender's FRA licence for its own electronic identification and authentication in consumer finance; no national authentication service is described."}}},
-"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
-"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The regulator is the FRA, not the central bank; no payments role stated."}}},
-"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No consumer-protection rule or complaints body stated."}}},
-"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
-"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
-"idverification": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The licence covers the lender's own identity verification; the document does not say it checks against the national ID."}}},
-"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey figure given."}}},
-"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
-"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
-}}
+{
+  "slug": "2026-10-22-egy-egypts-souhoola-secures-fra-approval-for-fintech-based-consu",
+  "studies": {
+    "paymentslaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The FRA licence is for fintech consumer finance (e-KYC, e-contracts), not a payments law or e-money licensing."}}}
+  }
+}

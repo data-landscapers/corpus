@@ -1,0 +1,17 @@
+{"slug": "2025-12-23-eth-strategy-to-ensure-70-of-population-digitally-literate-80-of-gov-t-emp", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on AI harms."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on AI in administration."}}},
+"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on sectoral AI."}}},
+"aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on AI built in the country."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Interconnection of institutions is stated generally; no civil register to ID link is named."}}},
+"civilregister": {"countries": {"ETH": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "Ethiopian AI Institute deputy director general Taye Girma said locally developed applications already connect central institutions to woredas for family and vital events registration, while Digital Ethiopia 2030 will digitalize civil registration nationwide.", "as_of": "2025-12", "date_precision": "month", "system": "civil registration and residency services applications", "class": "civil"}], "systems": [{"system": "civil registration and residency services applications", "country_label": "ETH", "class": "civil", "platform": "", "owner": "Ethiopian Artificial Intelligence Institute", "tiers": "central to woreda"}], "note": ""}}},
+"civilserviceskills": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a 2030 target of 80 percent of government employees digitally skilled; no programme delivered."}}},
+"digitalskills": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only 2030 targets (70 percent literate, 10 million trained); no programme in service or measured share."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on an ID number at birth."}}},
+"itcapacity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Applications described as locally developed, but no government staff run or build named."}}},
+"localgov": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Connectivity to woredas is stated for registration applications, not an office connection."}}},
+"registry": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Does not say births or deaths are entered digitally at the local office."}}},
+"schoolinternet": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on school internet."}}},
+"startups": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a 2030 target of 5,000 startups; no law, labelling or fund stated."}}},
+"techhubs": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on hubs."}}}
+}}

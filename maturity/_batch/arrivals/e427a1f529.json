@@ -1,0 +1,10 @@
+{"slug": "2026-03-01-sen-eiti-country-page-senegal", "studies": {
+"businessregister": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "business", "aspect": "owners", "value": "recorded", "fact": "The EITI country page says Senegal's commercial register (RCCM) records beneficial ownership information under Decree 2020-791, available to authorities, courts and people with a legitimate interest on request, with a registry extract covering 262 companies.", "as_of": "2026-03", "date_precision": "month", "system": "commercial register (RCCM)", "class": "business"}],
+"systems": [{"system": "commercial register (RCCM)", "country_label": "Senegal", "class": "business", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a mining cadastre is described, which is not a land title register."}}},
+"opendatause": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "The EITI country page says Senegal's Ministry of Mines publishes production data on its Statistiques minières web page and a public data portal, Données Ouvertes ITIE Sénégal, is run alongside the national EITI website.", "as_of": "2026-03", "date_precision": "month", "system": "Statistiques minières web page, Ministry of Mines", "class": "open"}],
+"systems": [{"system": "Données Ouvertes ITIE Sénégal", "country_label": "Senegal", "class": "open", "platform": "", "owner": "ITIE Sénégal", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on consultation on a digital law or policy."}}}
+}}

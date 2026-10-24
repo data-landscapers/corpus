@@ -1,0 +1,11 @@
+{"slug": "2024-04-19-nga-cac-warns-newly-registered-companies-against-paying-for-tin", "studies": {
+"businessregister": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "The Corporate Affairs Commission says companies register on its Company Registration Portal, at no cost for the tax number.", "as_of": "2024-04", "date_precision": "month", "system": "Company Registration Portal", "class": "business"},
+{"sub_indicator": "business", "aspect": "shared", "value": "shared", "fact": "The Corporate Affairs Commission says the FIRS tax identification number is generated automatically upon incorporation and endorsed on the certificate, the two agencies having fully integrated the service.", "as_of": "2024-04", "date_precision": "month", "system": "Company Registration Portal", "class": "business"}],
+"systems": [{"system": "Company Registration Portal", "country_label": "Nigeria", "class": "business", "platform": "", "owner": "Corporate Affairs Commission", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document concerns the tax number, not the national ID number."}}},
+"taxregister": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "The Corporate Affairs Commission says the FIRS tax identification number is electronically generated and endorsed instantly on certificates of newly registered entities.", "as_of": "2024-04", "date_precision": "month", "system": "FIRS tax identification number", "class": "tax"},
+{"sub_indicator": "taxpayers", "aspect": "shared", "value": "shared", "fact": "The Corporate Affairs Commission says the FIRS tax number is issued automatically at business incorporation through the Company Registration Portal, the two agencies' service being fully integrated.", "as_of": "2024-04", "date_precision": "month", "system": "FIRS tax identification number", "class": "tax"}],
+"systems": [], "note": ""}}}
+}}

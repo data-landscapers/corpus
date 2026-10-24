@@ -1,0 +1,7 @@
+{"slug": "2025-08-22-lbr-ppcc-set-to-onboard-50-macs-to-liberia-s-e-gp-platform", "studies": {
+"businesspayments": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "The Public Procurement and Concessions Commission says its Electronic Government Procurement (e-GP) system has six early-adopter bodies and 127 live processes, with 50 more ministries, agencies and commissions to be onboarded.", "as_of": "2025-08-22", "date_precision": "day", "system": "e-GP", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "The Commission reports 127 live processes on the e-GP system, with 494 vendors and 155 users trained.", "as_of": "2025-08-22", "date_precision": "day", "system": "e-GP", "class": "procurement"}
+], "systems": [{"system": "e-GP", "country_label": "Liberia", "class": "procurement", "platform": "", "owner": "Public Procurement and Concessions Commission", "tiers": ""}], "note": ""}}},
+"coresystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "IFMIS integration is only a next step; no core system stated in use."}}}
+}}

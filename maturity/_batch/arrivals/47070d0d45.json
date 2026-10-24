@@ -1,0 +1,6 @@
+{"slug":"2026-06-19-mdg-prea-e-gp-mission-boeny-atsimo-andrefana","studies":{
+"authentication":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Only a strengthened legal base for e-signature is mentioned, with no service."}}},
+"businesspayments":{"countries":{"MDG":{"facts":[{"sub_indicator":"business","aspect":"system","value":"underway","fact":"PREA reports that the e-GP project team, with the public procurement regulator, the national procurement commission and the digital governance unit, held a field mission on 14-18 June 2026 in Boeny and Atsimo Andrefana to prepare progressive nationwide deployment of the e-GP platform, with its operational phase starting in 2026 and an implementation firm about to be deployed.","as_of":"2026-06-18","date_precision":"day","system":"e-GP","class":"procurement"}],"systems":[{"system":"Electronic Government Procurement","country_label":"e-GP","class":"procurement","platform":"","owner":"Ministry of Economy and Finance, with PREA and PRODIGY (World Bank)","tiers":"national, regional roll-out"}],"note":""}}},
+"ecommercelaw":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Only a vague legal base for e-signature and interoperability is mentioned, with no law named."}}},
+"egovservices":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The document states nothing this study asks for MDG."}}}
+}}

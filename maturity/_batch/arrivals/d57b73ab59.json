@@ -1,0 +1,15 @@
+{"slug": "2026-10-01-cod-drc-moves-to-expand-public-procurement-access-for-msmes-and-start-ups", "studies": {
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"businesspayments": {"countries": {"COD": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "Ecofin Agency says DRC authorities have begun digitizing procurement through SIGMAP, an electronic platform launched in August 2022 whose rollout faced delays, with a shared services centre launched in June 2026; it does not say tenders are bid online.", "as_of": "2026-06", "date_precision": "month", "system": "SIGMAP (Integrated Public Procurement Management System)", "class": "procurement"}
+], "systems": [{"system": "SIGMAP", "country_label": "DRC", "class": "procurement", "platform": "", "owner": "Government", "tiers": ""}], "note": ""}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on the central bank or payments."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on digital financial consumer protection."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}},
+"startups": {"countries": {"COD": {"facts": [], "systems": [], "note": "A procurement bill widening MSME and start-up access is not a startup act, strategy or fund."}}},
+"techhubs": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on hubs or technology parks."}}}
+}}

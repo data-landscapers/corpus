@@ -1,0 +1,5 @@
+{"slug": "2026-01-06-sle-nppa-launches-online-e-gp-portal-to-streamline-government-procurement", "studies": {
+"businesspayments": {"countries": {"SLE": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Sierraloaded reports the National Public Procurement Authority launched an online e-GP Portal for supplier registration and access to tender notices, announced in Public Notice Circular 02-2025.", "as_of": "2026-01-06", "date_precision": "day", "system": "e-GP Portal", "class": "procurement"}], "systems": [{"system": "e-GP Portal", "country_label": "Sierra Leone", "class": "procurement", "platform": "", "owner": "National Public Procurement Authority", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only an unnamed digital transformation agenda is mentioned."}}},
+"internationalstandards": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No standards body or standard mentioned."}}}
+}}

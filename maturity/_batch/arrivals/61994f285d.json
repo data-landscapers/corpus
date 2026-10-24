@@ -1,0 +1,43 @@
+{
+ "slug": "2024-01-01-sen-projet-d-acces-universel-pau",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "The universal service fund FDSUT's Projet d'Acces Universel plans 4G coverage of 1,550 universal-service localities over 2024-2028, with partnership agreements with operators and site deployment still listed as next steps.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Projet d'Acces Universel (PAU)",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Projet d'Acces Universel (PAU)",
+       "country_label": "Senegal",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "FDSUT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No budget amount or law stated."
+    }
+   }
+  }
+ }
+}

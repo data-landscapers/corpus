@@ -1,0 +1,4 @@
+{"slug": "2026-01-01-cog-congo-brazzaville-creer-une-entreprise-en-quelques-clics", "studies": {
+"businessregister": {"countries": {"COG": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "RFI reports the government has launched an online company creation platform run by the Agence congolaise pour la création des entreprises, with a company now creatable in 24 hours from anywhere.", "as_of": "2026-01-01", "date_precision": "day", "system": "Online company creation platform (ACPCE)", "class": "business"}], "systems": [{"system": "Online company creation platform (ACPCE)", "country_label": "Congo", "class": "business", "platform": "", "owner": "ACPCE", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

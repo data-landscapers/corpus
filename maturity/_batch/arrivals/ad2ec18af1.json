@@ -1,0 +1,4 @@
+{"slug": "2026-07-07-sle-nppa-launches-new-e-gp-modules-to-enhance-transparency-in-public-procu", "studies": {
+"businesspayments": {"countries": {"SLE": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Sierraloaded reports the National Public Procurement Authority launched the Procurement Requisition and Bid Publication modules of the Salone e-GP System on 7 July 2026, enabling online publication of procurement opportunities.", "as_of": "2026-07-07", "date_precision": "day", "system": "Salone e-GP System", "class": "procurement"}], "systems": [{"system": "Salone e-GP System", "country_label": "Sierra Leone", "class": "procurement", "platform": "", "owner": "National Public Procurement Authority", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only an unnamed digital transformation agenda is mentioned."}}}
+}}

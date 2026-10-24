@@ -1,0 +1,151 @@
+{
+ "slug": "2025-05-27-uga-taking-stock-of-the-impact-of-maps-in-africa-including-the-e-gp-system",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Ministry of Finance's procurement commissioner states Uganda's home-grown e-GP system was piloted in 5 procuring entities in 2020 and rolled out in 2021, with 36 entities enrolled in May 2025.",
+       "as_of": "2025-05-27",
+       "date_precision": "day",
+       "system": "e-GP system",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP system",
+       "country_label": "e-GP",
+       "class": "procurement",
+       "platform": "home-grown, built by a local firm",
+       "owner": "Ministry of Finance, Planning and Economic Development / PPDA",
+       "tiers": "central government entities"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Uganda."
+    }
+   }
+  }
+ }
+}

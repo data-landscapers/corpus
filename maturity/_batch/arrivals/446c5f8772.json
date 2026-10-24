@@ -1,0 +1,11 @@
+{"slug": "2024-03-07-sle-communications-ministry-poise-to-address-broadband-connectivity-challe", "studies": {
+"broadbandstrategy": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "plan", "aspect": "standing", "value": "draft", "fact": "The Ministry of Communication, Technology and Innovation held a validation workshop on 28 February 2024 for the National Broadband Strategy (2023-2028); the article does not say the government has adopted it.", "as_of": "2024-02-28", "date_precision": "day", "system": "National Broadband Strategy (2023-2028)", "class": "plan"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Broadband described as an enabler of e-services; no portal or service stated."}}},
+"localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"publicconsultation": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Ministry of Communication, Technology and Innovation held the National Broadband Strategy validation workshop on 28 February 2024 in Freetown with mobile network operators, service providers, Metro Cable, Zoodlabs SL and LeoneCom among the attendees.", "as_of": "2024-02-28", "date_precision": "day", "system": "National Broadband Strategy validation workshop", "class": "consultation"}
+], "systems": [], "note": ""}}},
+"ruralelectrification": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on rural electricity."}}}
+}}

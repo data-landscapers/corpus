@@ -1,0 +1,43 @@
+{
+ "slug": "2024-04-03-moz-o-beneficiario-efectivo-ao-abrigo-do-regulamento-do-registo-de-entidad",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "owners",
+       "value": "recorded",
+       "fact": "CGA Advogados says Decreto-Lei 1/2024 of 8 March 2024 makes beneficial owner declarations registrable at the Conservatoria do Registo das Entidades Legais, due by 6 June 2024, and that they can now be filed remotely on its submission portal, though final approval on the portal was still being harmonised.",
+       "as_of": "2024-04-03",
+       "date_precision": "day",
+       "system": "Conservatoria do Registo das Entidades Legais (CREL) submission portal",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CREL submission portal",
+       "country_label": "Mozambique",
+       "class": "business",
+       "platform": "",
+       "owner": "Conservatoria do Registo das Entidades Legais",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about civil registration."
+    }
+   }
+  }
+ }
+}

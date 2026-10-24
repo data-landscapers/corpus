@@ -1,0 +1,8 @@
+{"slug": "2026-10-22-ken-ict-ministry-puts-gov-t-agencies-on-alert-after-php-security-flaws", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A security advisory; nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on AI in a sector system."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The AI named is foreign and used abroad to find PHP flaws."}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Government websites and online services are mentioned only as needing patches; no service or count is stated."}}},
+"itcapacity": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The ICT Authority coordinates guidance and monitoring; it is not said to build or run systems for ministries."}}}
+}}

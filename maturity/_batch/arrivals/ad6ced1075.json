@@ -1,0 +1,43 @@
+{
+ "slug": "2025-09-01-mwi-beneficial-ownership-disclosure-in-malawi",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "owners",
+       "value": "recorded",
+       "fact": "A Malawi official's UNODC working-group presentation says companies must file beneficial ownership information with the Registrar of Companies through the Malawi Business Registration System under regulations in effect since December 2022, and update it within 30 days.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Malawi Business Registration System (MBRS)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Malawi Business Registration System (MBRS)",
+       "country_label": "Malawi",
+       "class": "business",
+       "platform": "",
+       "owner": "Registrar of Companies",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about civil registration."
+    }
+   }
+  }
+ }
+}

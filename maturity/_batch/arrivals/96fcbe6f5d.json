@@ -1,0 +1,9 @@
+{"slug": "2026-10-22-cod-actualite-senat-ratifie-ordonnance-loi-activite-statistique", "studies": {
+"censuses": {"countries": {"COD": {"facts": [], "systems": [], "note": "Census data is discussed only as a concern in the law debate; no census preparation or count is stated."}}},
+"dataprotectionlaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "Statistical secrecy sanctions are in a statistics law, not a general data protection law."}}},
+"interoperabilitylaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on public bodies sharing data."}}},
+"statisticslaw": {"countries": {"COD": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Senate ratified unanimously of those voting (73 of 109 senators) ordonnance-loi n° 26/015 of 7 September 2026 organising statistical activity, a 95-article text presented by Vice-Prime Minister Guyllain Nyembo that sets the institutional framework and provides sanctions for breaches of statistical secrecy.", "as_of": "2026-10-21", "date_precision": "day", "system": "Ordonnance-loi n° 26/015 du 7 septembre 2026", "class": "law"}
+], "systems": [], "note": ""}}},
+"statisticsstrategy": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document names a USD 192m budget estimate for the system but no strategy."}}}
+}}

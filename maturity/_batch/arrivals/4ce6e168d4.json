@@ -1,0 +1,16 @@
+{"slug": "2026-10-22-bfa-le-faso-digital-2026-ladjudant-chef-de-gendarmerie-isaac-bouda-devoile", "studies": {
+"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Deepfake fraud is described as a threat; no rule, authority or enforcement on AI harms is stated."}}},
+"aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"businesspayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Fraud advice only; no consumer rule, complaints body for financial services or enforcement stated."}}},
+"crossborderpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"cybersecuritylaw": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Complaint counts of the cybercrime brigade are given, but no law and no use under a law is named."}}},
+"g2ppayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"police": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Brigade complaint counts only; no station digital record system stated."}}},
+"retailpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Mobile money is mentioned as used, but no licensing, service status or interoperability is stated."}}},
+"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

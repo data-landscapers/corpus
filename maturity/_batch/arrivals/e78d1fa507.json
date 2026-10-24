@@ -1,0 +1,7 @@
+{"slug": "2026-10-20-mar-public-prosecution-puts-artificial-intelligence-under-human-rights-scr", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A prosecutors' training session on AI and human rights; no rule, draft or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Training session only; no government AI system named."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Training session only; no sectoral AI tool named."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Training session only; no AI model, dataset or computing named."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Mentions personal data protection as a training topic; states nothing on the law."}}}
+}}

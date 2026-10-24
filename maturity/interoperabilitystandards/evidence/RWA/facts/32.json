@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-19-rwa-risa-pki-service-integration-guidelines-for-developers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PKI Service Integration Guidelines (RISA-GovCA)",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "Rwanda Information Society Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The guidelines cover one function, e-signatures and PKI, not standards for systems to exchange data."
+}

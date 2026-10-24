@@ -1,0 +1,15 @@
+{"slug": "2026-09-01-zaf-national-treasury-digital-transformation-journey", "studies": {
+"accesstoinformationlaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The deck only lists PAIA in a legislative framework slide; it states nothing on its force, rules or application."}}},
+"businesspayments": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "National Treasury's OCPO deck says the eTenders system handles tender publication, online bid submission (eSubmission), online bid evaluations and publication of awards, used by 892 organs of state.", "as_of": "2026-09", "date_precision": "month", "system": "eTenders", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "endtoend", "value": "endtoend", "fact": "National Treasury's OCPO deck says eTenders covers procurement planning, tender publication, online bid submission and evaluation, awards data and contract lifecycle management for 892 organs of state.", "as_of": "2026-09", "date_precision": "month", "system": "eTenders", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "National Treasury's OCPO deck gives eTenders averages of 3,300 tenders and 1,800 awards a month, and 95% of tenders by eSubmission.", "as_of": "2026-09", "date_precision": "month", "system": "eTenders", "class": "procurement"}
+], "systems": [{"system": "eTenders", "country_label": "South Africa", "class": "procurement", "platform": "", "owner": "National Treasury (OCPO)", "tiers": "national, provincial, local"}, {"system": "Central Supplier Database", "country_label": "South Africa", "class": "other", "platform": "", "owner": "National Treasury (OCPO)", "tiers": ""}], "note": ""}}},
+"businessregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The deck names business registration only as a third-party verification source for the Central Supplier Database; it states nothing on the register itself."}}},
+"digitalskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on public digital skills."}}},
+"feedbackportals": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The OCPO complaints portal is for procurement grievances to the treasury office, with no case figures or public-services reach stated."}}},
+"localgov": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on local government office connections."}}},
+"police": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on police station records."}}},
+"publicconsultation": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on consultation on digital law or policy."}}},
+"schoolinternet": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

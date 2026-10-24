@@ -1,0 +1,20 @@
+{"slug": "2024-11-20-civ-assemblee-nationale-de-cote-d-ivoire-abidjan-le-20-novembre-2024-proje", "studies": {
+"civilserviceskills": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The Ministry of Digital Transition's draft 2025 budget, presented to the National Assembly's finance committee, includes strengthening state agents' capacity to use IT tools, at FCFA 700 million.", "as_of": "2024-11-20", "date_precision": "day", "system": "Draft 2025 budget activity: state agents' IT tools training", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The Ministry of Digital Transition's draft 2025 budget gives FCFA 35.3 billion (58.08%) to the ANSUT programme to implement universal service programmes for electronic communications in rural areas, funded by the tax for new technologies in rural zones; studies on covering white zones are under way.", "as_of": "2024-11-20", "date_precision": "day", "system": "ANSUT universal service programmes", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The Ministry of Digital Transition's draft 2025 budget lists developing digital skills for women, young people and vulnerable people among its activities, as part of the digital support project funded at FCFA 1.5 billion.", "as_of": "2024-11-20", "date_precision": "day", "system": "Projet d'Appui au Développement du Numérique", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"domesticfinancing": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "financing", "aspect": "budget", "value": "allocated", "fact": "The Ministry of Digital Transition and Digitalisation's draft 2025 state budget is FCFA 60,780,440,826, including FCFA 35.3 billion for the rural new-technologies tax programme (ANSUT).", "as_of": "2025", "date_precision": "year", "system": "Draft 2025 budget of the Ministry of Digital Transition and Digitalisation", "class": "financing"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "The Ministry of Digital Transition's draft 2025 budget presentation cites law 2023-901 of 23 November 2023 promoting digital startups, which it plans to publicise in 2025.", "as_of": "2023-11-23", "date_precision": "day", "system": "Loi 2023-901 portant promotion des startups numériques", "class": "startuppolicy"}
+], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The Ministry of Digital Transition's draft 2025 budget funds FCFA 1,000,405,177 to develop the Grand-Bassam free zone (ZBTIC) to host ICT companies, and FCFA 500 million to attract 100 ICT and biotechnology firms to it.", "as_of": "2024-11-20", "date_precision": "day", "system": "Zone franche de Grand-Bassam (ZBTIC)", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

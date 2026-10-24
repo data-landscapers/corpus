@@ -1,0 +1,7 @@
+{"slug": "2026-04-10-mwi-govt-rolls-out-digital-procurement-system", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Nation Online reports the government formally launched the Malawi National Electronic Procurement System (MANePS), which became mandatory on 1 April 2026, with 174 procuring entities onboarded.", "as_of": "2026-04-01", "date_precision": "day", "system": "MANePS", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "endtoend", "value": "endtoend", "fact": "Nation Online says MANePS manages the entire procurement cycle from planning and tendering to contract award and payment, and became mandatory on 1 April 2026.", "as_of": "2026-04-01", "date_precision": "day", "system": "MANePS", "class": "procurement"}
+], "systems": [{"system": "MANePS", "country_label": "Malawi National Electronic Procurement System", "class": "procurement", "platform": "", "owner": "Public Procurement and Disposal of Assets Authority", "tiers": ""}], "note": "A count of suppliers and entities registered is not a figure for use."}}},
+"digitalstrategy": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Malawi 2063 agenda mentioned in passing; no digital strategy status stated."}}}
+}}

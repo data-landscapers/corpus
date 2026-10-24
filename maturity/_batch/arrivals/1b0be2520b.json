@@ -1,0 +1,28 @@
+{"slug": "2026-10-20-cod-cooperation-rdc-russie-s-e-augustin-kibassa-maliba-mobilise-des-parten", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "AI named only as a cooperation area; no rule or authority."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"authentication": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only efforts to set up electronic certification and talks on e-signature; no service piloted or contracted."}}},
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only a planned sovereign data centre; none for hire in service stated."}}},
+"dataprotectionlaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "Personal data management named as a cooperation topic; no law stated."}}},
+"digitalsovereignty": {"countries": {"COD": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The DRC is preparing to build a technopole and a sovereign data centre in the Kinshasa extension zone, according to the minister of digital economy's own account of an October 2026 Moscow mission.", "as_of": "2026-10", "date_precision": "month", "system": "sovereign data centre", "class": "sovereignty"}
+], "systems": [{"system": "sovereign data centre", "country_label": "sovereign data centre (Kinshasa extension zone)", "class": "sovereignty", "platform": "", "owner": "state", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"COD": {"facts": [], "systems": [], "note": "Plan national du numérique is mentioned without its adoption, scope or period."}}},
+"ecommercelaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "Code du numérique of 2023 is named without saying it covers electronic transactions."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "Biometric identification named only as a cooperation area."}}},
+"interoperability": {"countries": {"COD": {"facts": [], "systems": [], "note": "Interoperability named only as a cooperation priority; no framework."}}},
+"nationaldatacentres": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only a planned data centre; none in service stated."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"regionalpolicy": {"countries": {"COD": {"facts": [], "systems": [], "note": "Partners are Russian; no African body or agreement stated."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on retail payments in the DRC."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}},
+"startups": {"countries": {"COD": {"facts": [], "systems": [], "note": "Innovation hubs mentioned only as attention; no startup law or fund."}}},
+"techhubs": {"countries": {"COD": {"facts": [], "systems": [], "note": "Technopole only prepared for construction; no hub built or open stated."}}}
+}}

@@ -1,0 +1,10 @@
+{"slug":"2026-03-01-tza-universal-and-meaningful-connectivity-tanzania-umc-workshop","studies":{
+"broadbandstrategy":{"countries":{"TZA":{"facts":[{"sub_indicator":"plan","aspect":"standing","value":"adopted","fact":"A TCRA presentation lists the Tanzania National Broadband Strategy 2021-2026, with key results areas on infrastructure, connectivity and devices, among the country's digital policies.","as_of":"2026-03","date_precision":"month","system":"Tanzania National Broadband Strategy 2021-2026","class":"plan"}],"systems":[],"note":""}}},
+"censuses":{"countries":{"TZA":{"facts":[{"sub_indicator":"census","aspect":"census","value":"taken","fact":"A TCRA presentation gives Tanzania's 2022 census population as 61,741,120 and 14,152,803 private households, with ICT indicators from the census.","as_of":"2022","date_precision":"year","system":"2022 census","class":"census"}],"systems":[],"note":""}}},
+"civilserviceskills":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states nothing this study asks for TZA."}}},
+"digitaldivides":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document gives no rural and urban split and no rural connection programme."}}},
+"digitalskills":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Only TCRA awareness programmes and school clubs are mentioned, not a national skills programme."}}},
+"ictstrategy":{"countries":{"TZA":{"facts":[{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"A TCRA presentation lists the National ICT Policy 2016, focused on human capital, broadband access and infrastructure, among Tanzania's digital policies.","as_of":"2026-03","date_precision":"month","system":"National ICT Policy 2016","class":"sector"}],"systems":[],"note":""}}},
+"internetusage":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The 85.3% figure is internet subscriptions penetration, not a share of people using the internet."}}},
+"schoolinternet":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Only digital clubs in schools are mentioned, with no school internet figure."}}}
+}}

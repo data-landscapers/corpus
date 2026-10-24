@@ -1,0 +1,16 @@
+{"slug": "2025-12-17-dji-ecofin-plateforme-g2b-lancement", "studies": {
+"businesspayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document names no e-procurement system; the one-stop shop is to take e-payments for administrative services only."}}},
+"businessregister": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "Agence Ecofin reports Djibouti's ICT ministry launched design work on 15 December 2025 for an integrated G2B platform meant to simplify business creation, with a digital G2B counter and the existing one-stop shop to be extended to administrative services and e-payments.", "as_of": "2025-12-15", "date_precision": "day", "system": "Government to Business (G2B) platform", "class": "business"}
+], "systems": [{"system": "Government to Business (G2B) platform", "country_label": "Djibouti", "class": "business", "platform": "", "owner": "Ministry of ICT", "tiers": ""}], "note": ""}}},
+"centralbank": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document states nothing on financial consumer protection."}}},
+"crossborderpayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document states nothing on rural internet access."}}},
+"g2ppayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document is about government to business, not payments to people."}}},
+"paymentsuptake": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document gives no account survey figure."}}},
+"retailpayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document states nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment; e-payments for the one-stop shop are only planned."}}},
+"startups": {"countries": {"DJI": {"facts": [], "systems": [], "note": "A start-up portal is planned within the G2B platform; no startup law, strategy or fund is stated."}}},
+"techhubs": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Document states nothing on hubs, incubators or parks."}}}
+}}

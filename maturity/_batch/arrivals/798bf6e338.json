@@ -1,0 +1,12 @@
+{"slug": "2025-01-01-cod-le-guce-a-l-ere-du-numerique-vers-une-creation-d-entreprise-100-digita", "studies": {
+"authentication": {"countries": {"COD": {"facts": [], "systems": [], "note": "No authentication service mentioned."}}},
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "Civil register and ID link not mentioned."}}},
+"businessregister": {"countries": {"COD": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "A World Bank representative said the one-stop company creation counter (GUCE) in Kinshasa can issue a commercial register (RCCM) entry in 48 hours, with fully online registration still only the stated goal.", "as_of": "2025-07-01", "date_precision": "day", "system": "GUCE", "class": "business"}], "systems": [{"system": "GUCE", "country_label": "RDC", "class": "business", "platform": "", "owner": "Ministry of Justice (public establishment)", "tiers": ""}], "note": ""}}},
+"customs": {"countries": {"COD": {"facts": [], "systems": [], "note": "Customs not mentioned."}}},
+"digitalidlaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "No digital ID law mentioned."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No enrolment figure stated."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "Number at birth not mentioned."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "Operation of the national ID system not mentioned."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "The national identification number mentioned is a firm number, not a person ID."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "National ID system not described."}}}
+}}

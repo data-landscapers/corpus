@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-22-dji-dawan-djibouti-all-public-procurement-online",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a stated plan to move procurement online; no system procured, built or piloted."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned procurement open data portal is an intention; no policy or drafting stated."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Portal only planned; no data published stated."
+    }
+   }
+  }
+ }
+}

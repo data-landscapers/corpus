@@ -1,0 +1,16 @@
+{
+  "slug": "2025-04-25-tcd-wearetech-nguilin-world-bank-digital-strategy",
+  "studies": {
+    "birthidlink": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "businesspayments": {"countries": {"TCD": {"facts": [
+      {"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "We are Tech reports the World Bank, which already funds Chad's Digital Transformation Support Project, offered to go beyond its e-procurement support to an integrated digital platform for public services (meeting of 24 April 2025).", "as_of": "2025-04-24", "date_precision": "day", "system": "e-procurement (World Bank-supported)", "class": "procurement"}
+    ], "systems": [], "note": ""}}},
+    "civilregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Digitisation of civil registry records is only a stated government priority in the funded project; no system is procured, piloted or rolled out."}}},
+    "civilserviceskills": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only a shortage of digital skills is mentioned; no civil-service training."}}},
+    "digitaldivides": {"countries": {"TCD": {"facts": [], "systems": [], "note": "A stark urban-rural divide is mentioned with no rural and urban figures and no rural access programme."}}},
+    "digitalskills": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No programme teaching the public digital skills is stated."}}},
+    "digitalstrategy": {"countries": {"TCD": {"facts": [], "systems": [{"system": "Digital Transformation Support Project", "country_label": "Chad", "class": "programme", "platform": "", "owner": "World Bank-funded", "tiers": ""}], "note": "A World Bank-funded project is named (8% disbursed); no national digital strategy is stated."}}},
+    "idfrombirth": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "registry": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Digitisation of civil registry records is only a stated priority; no office entering events digitally is stated."}}}
+  }
+}

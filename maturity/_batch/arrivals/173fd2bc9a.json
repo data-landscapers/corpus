@@ -1,0 +1,37 @@
+{"slug": "2026-10-20-egy-ict-minister-outlines-digital-egypt-strategy-at-egypt-forum-2026", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No authentication, e-signature or digital ID service stated."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+"civilserviceskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Training named is for citizens, not civil servants."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [{"system": "mega data centres (planned)", "country_label": "Egypt", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "Five to seven mega data centres are planned only; no data centre for hire in service is stated."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Data protection is named only as a sovereignty pillar; no law stated."}}},
+"digitalskills": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "ICT Minister Raafat Hendy said the Digital Egypt Generations initiatives and Digilians train citizens in digital skills and more than two million citizens have benefited from digital capacity-building initiatives over the past decade.", "as_of": "2026-10-20", "date_precision": "day", "system": "Digital Egypt Generations (DEG) and Digilians", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "ICT Minister Raafat Hendy set out five pillars of digital sovereignty (sovereign infrastructure, cybersecurity, AI, data protection, national talent and industries) and a plan for five to seven mega data centres over four to five years under the government's sovereignty objectives.", "as_of": "2026-10-20", "date_precision": "day", "system": "Digital Egypt strategy, digital sovereignty pillars", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"ictproduction": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A phone-manufacturing capacity target of 30 million devices is a plan; no plant in production or ICT export share stated."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on national ID coverage."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"internationalbandwidth": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "ICT Minister Raafat Hendy said ten new submarine cables have been installed over the past 10 years, six of them currently under construction, with expanded cable landing stations and routes; no individual route or landing station is named.", "as_of": "2026-10-20", "date_precision": "day", "system": "submarine cables", "class": "route"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mega data centres are planned only; no nationally owned data centre for hire in service is stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital payments are named as a topic only; no service stated."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}},
+"schoolinternet": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No school internet figure or compulsory curriculum stated."}}},
+"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A target for 250 startups to develop AI applications is not a startup law, labelling or fund."}}},
+"techhubs": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "ICT Minister Raafat Hendy said 24 innovation hubs have been established across different governorates to incubate startups and train young people.", "as_of": "2026-10-20", "date_precision": "day", "system": "innovation hubs", "class": "hub"},
+{"sub_indicator": "hub", "aspect": "cities", "value": "several", "fact": "The 24 innovation hubs are spread across different governorates, per Minister Raafat Hendy.", "as_of": "2026-10-20", "date_precision": "day", "system": "innovation hubs", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

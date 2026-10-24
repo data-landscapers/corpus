@@ -1,0 +1,7 @@
+{"slug": "2026-09-01-ago-legal-regime-of-the-beneficial-owner", "studies": {
+"businessregister": {"countries": {"AGO": {"facts": [], "systems": [{"system": "CRBE (beneficial owner register)", "country_label": "Angola", "class": "other", "platform": "electronic portal", "owner": "", "tiers": ""}], "note": "Law 7/26 (in force 2026-08-19) creates a beneficial-owner register, CRBE, separate from the commercial registries, with first filings due by 2027-02-15; not the business register holding owners in service."}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "A law-firm note on Law 7/26 of 19 August 2026 says personal data in the beneficial-owner register is processed automatically under the Personal Data Protection Law, treating that law as applying.", "as_of": "2026-08-19", "date_precision": "day", "system": "Personal Data Protection Law", "class": "general"}], "systems": [], "note": ""}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Entities are keyed on a Tax Identification Number; no register is said to use the national ID number."}}},
+"publicconsultation": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No consultation on the law is stated."}}},
+"taxregister": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Mentions a Tax Identification Number only as a scope test; no taxpayer register state is given."}}}
+}}

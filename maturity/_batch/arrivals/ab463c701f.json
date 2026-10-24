@@ -1,4 +1,5 @@
 {"slug": "2026-10-22-cpv-assinaturas-de-internet-fixa-aumentam-14-7-num-ano", "studies": {
-"mobilepenetration": {"countries": {"CPV": {"facts": [], "systems": [{"system": "ARME mobile SIM penetration", "country_label": "SIM penetration 114% (589,431 active SIM cards, June 2026, ARME)", "class": "other", "platform": "", "owner": "ARME", "tiers": ""}], "note": "Only SIM cards per 100 people is given, not a share of people owning a phone."}}},
-"satellitebroadband": {"countries": {"CPV": {"facts": [{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "ARME's Q2 2026 market indicators report gives Starlink a 0.87% share of Cabo Verde's 500,263 internet access subscriptions.", "as_of": "2026-06", "date_precision": "month", "system": "Starlink", "class": "satellite"}], "systems": [{"system": "Starlink", "country_label": "Starlink", "class": "satellite", "platform": "", "owner": "Starlink", "tiers": ""}], "note": ""}}}
+"exchangepoints": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on exchange points."}}},
+"internationalbandwidth": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on international fibre routes."}}},
+"internetusage": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Only ARME's count of internet subscriptions (500,263) and SIM penetration, which are not a share of people."}}}
 }}

@@ -1,0 +1,20 @@
+{"slug": "2025-04-18-tun-le-rne-accelere-la-digitalisation-des-entreprises-tunisiennes", "studies": {
+"addressregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on addressing."}}},
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "RNE Corporate with an electronic key is only planned for September 2025."}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on civil register and ID link."}}},
+"businessregister": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "L'Economiste Maghrebin reports RNE director general Adel Chouari saying the RNE has digitised company creation (individuals, SARL, SA) and online filing of financial statements, which more than 65,000 firms use.", "as_of": "2025-04-17", "date_precision": "day", "system": "Registre National des Entreprises (RNE)", "class": "business"},
+{"sub_indicator": "business", "aspect": "shared", "value": "shared", "fact": "The article says the RNE assigns the unique identifier required for all administrative and tax procedures, under law 2018-52 of 29 October 2018.", "as_of": "2025-04-17", "date_precision": "day", "system": "Registre National des Entreprises (RNE)", "class": "business"}
+], "systems": [{"system": "Registre National des Entreprises (RNE)", "country_label": "Tunisia", "class": "business", "platform": "", "owner": "Presidency of the Government", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on civil registration."}}},
+"electoralregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on the voters' roll."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document gives no ID enrolment figure."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document does not tie the firm identifier to the national ID number."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document describes no national ID system."}}},
+"landregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on land."}}},
+"populationregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on a population register."}}},
+"socialregistry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Moubader gives social cover to self-employed workers but no social registry is described."}}},
+"taxregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on a taxpayer register."}}}
+}}

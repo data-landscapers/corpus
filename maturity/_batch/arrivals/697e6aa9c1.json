@@ -1,0 +1,10 @@
+{"slug": "2024-04-23-tun-digitisation-of-rne", "studies": {
+"businessregister": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "RNE Director General Adel Chouari said some National Business Register services are fully digitised, others experimental or in final phase, and incorporation is being digitised starting with individuals, with 90% of services online targeted by mid-2025.", "as_of": "2024-04-23", "date_precision": "day", "system": "National Business Register (RNE)", "class": "business"}
+], "systems": [], "note": ""}}},
+"ecommercelaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a remark that digitising contracts is hampered by electronic signature measures; no law stated."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No national ID number use by a register stated."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on electronic tax or fee payment."}}},
+"taxadmin": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on tax filing or payment systems."}}},
+"taxregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A tax identification number is mentioned as a step before incorporation; no register or sharing stated."}}}
+}}

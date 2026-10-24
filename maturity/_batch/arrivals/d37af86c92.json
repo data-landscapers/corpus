@@ -1,0 +1,4 @@
+{"slug": "2026-01-23-zmb-pacra-unveils-three-year-plan-to-modernize-zambia-s-beneficial-ownersh", "studies": {"businessregister": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "PACRA's Papias Banda said a three-year, GIZ-funded rebuild of the business register began in December 2025, with development of the new register starting in January 2026.", "as_of": "2026-01", "date_precision": "month", "system": "PACRA business register", "class": "business"},
+{"sub_indicator": "business", "aspect": "owners", "value": "recorded", "fact": "PACRA's Papias Banda said beneficial ownership reporting to the register stood at only 44 percent as of December 2025.", "as_of": "2025-12", "date_precision": "month", "system": "PACRA beneficial ownership register", "class": "business"}
+], "systems": [], "note": ""}}}}}

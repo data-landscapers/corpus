@@ -1,0 +1,12 @@
+{"slug": "2026-08-25-ago-regime-juridico-do-beneficiario-efectivo-em-angola", "studies": {
+"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only a login to the beneficial-owner portal is mentioned, not an identity authentication service."}}},
+"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"businessregister": {"countries": {"AGO": {"facts": [], "systems": [{"system": "CRBE", "country_label": "Central de Registo do Beneficiário Efectivo", "class": "other", "platform": "public autonomous database with web portal", "owner": "", "tiers": ""}], "note": "Law 7/26 creates the CRBE as a separate autonomous database, not the business register itself, so it is not a beneficial-owner fact for the register."}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The law mentions data protection rules only in passing; no general law is described."}}},
+"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No enrolment figures."}}},
+"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The ID document number appears as a data field in the beneficial-owner declaration, but no public register is said to be keyed on a national ID number."}}},
+"idrobustness": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"taxregister": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The tax number is a data field in the declaration; nothing on a taxpayer register."}}}
+}}

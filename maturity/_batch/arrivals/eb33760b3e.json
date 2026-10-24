@@ -1,0 +1,14 @@
+{"slug": "2025-12-23-nga-nin-cac-number-to-serve-as-tax-id-firs", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service is described."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "The Federal Inland Revenue Service said that under the Nigeria Tax Administration Act, due to take effect in January 2026, the National Identification Number automatically serves as the Tax ID for individuals.", "as_of": "2026-01", "date_precision": "month", "system": "Tax ID", "class": "register"}], "systems": [{"system": "Tax ID", "country_label": "Unified Tax ID", "class": "register", "platform": "", "owner": "Federal Inland Revenue Service", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on how the ID system works."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account survey figures."}}},
+"taxregister": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "nationalid", "value": "linked", "fact": "The Federal Inland Revenue Service said the National Identification Number serves automatically as the Tax ID for individuals under the Nigeria Tax Administration Act, due to take effect in January 2026.", "as_of": "2026-01", "date_precision": "month", "system": "Tax ID", "class": "tax"},
+{"sub_indicator": "taxpayers", "aspect": "shared", "value": "shared", "fact": "The Federal Inland Revenue Service said the Corporate Affairs Commission registration number serves as the Tax ID for registered companies, unifying all tax numbers previously issued by it and the state revenue services.", "as_of": "2026-01", "date_precision": "month", "system": "Tax ID", "class": "tax"}],
+"systems": [{"system": "Tax ID", "country_label": "Unified Tax ID", "class": "tax", "platform": "", "owner": "Federal Inland Revenue Service", "tiers": ""}], "note": ""}}}
+}}

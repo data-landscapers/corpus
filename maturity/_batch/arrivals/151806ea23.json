@@ -1,0 +1,22 @@
+{
+  "slug": "2025-11-17-gab-declaration-de-politique-generale-de-mark-alexandre-doumba-wtdc-25",
+  "studies": {
+    "aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only a call for a global ethical framework; no rule or authority stated."}}},
+    "aigovernment": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+    "aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
+    "aisystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The minister says Gabon cannot build advanced language models alone and calls for pooled computing; no AI built or hosted in Gabon is stated."}}},
+    "fibrebackbone": {"countries": {"GAB": {"facts": [
+      {"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Minister Doumba told WTDC-25 that Gabon has a national fibre backbone of more than 2,000 km, being extended.", "as_of": "2025-11-17", "date_precision": "day", "system": "Backbone national", "class": "backbone"}
+    ], "systems": [{"system": "Backbone national", "country_label": "Gabon", "class": "backbone", "platform": "fibre", "owner": "", "tiers": ""}], "note": ""}}},
+    "internationalbandwidth": {"countries": {"GAB": {"facts": [
+      {"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Minister Doumba told WTDC-25 that Gabon has four international submarine cables providing its digital opening to the world; landing stations are not named.", "as_of": "2025-11-17", "date_precision": "day", "system": "four international submarine cables", "class": "route"}
+    ], "systems": [], "note": ""}}},
+    "interoperability": {"countries": {"GAB": {"facts": [
+      {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The minister states that Ordinance No. 0006/PR of 8 August 2025 requires digitalisation of public administrations and interoperability of their information systems; no enforcing body is named.", "as_of": "2025-08-08", "date_precision": "day", "system": "Ordonnance n°0006/PR du 8 août 2025", "class": "framework"}
+    ], "systems": [{"system": "Ordonnance n°0006/PR du 8 août 2025", "country_label": "Gabon", "class": "framework", "platform": "", "owner": "Presidency", "tiers": ""}], "note": ""}}},
+    "startups": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
+    "techhubs": {"countries": {"GAB": {"facts": [
+      {"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "The minister says the Centre Gabonais de l'Innovation, an ITU Innovation Alliance member, incubates start-ups and has become a regional driver.", "as_of": "2025-11-17", "date_precision": "day", "system": "Centre Gabonais de l'Innovation", "class": "hub"}
+    ], "systems": [{"system": "Centre Gabonais de l'Innovation", "country_label": "Gabon", "class": "hub", "platform": "", "owner": "Ministère de l'Économie Numérique", "tiers": ""}], "note": ""}}}
+  }
+}

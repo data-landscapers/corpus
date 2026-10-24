@@ -1,7 +1,6 @@
-{"slug":"2026-08-01-cog-qwen-vl-lingala-ocr-dataset","studies":{
-"aisystems":{"countries":{"COG":{"facts":[
-{"sub_indicator":"localai","aspect":"build","value":"inservice","fact":"Congo Digital Services published an 884-pair Lingala OCR image-text dataset for training a vision-language model, created in August 2026 with UNDP Congo and the Ministry of Posts, Telecommunications and the Digital Economy, under the NOODL-1.0 licence with gated access.","as_of":"2026-08","date_precision":"month","system":"Qwen-VL Lingala OCR Dataset","class":"localai"}],
-"systems":[{"system":"Qwen-VL Lingala OCR Dataset","country_label":"Congo","class":"localai","platform":"Hugging Face","owner":"Congo Digital Services","tiers":""}],"note":""}}},
-"opendatapolicy":{"countries":{"COG":{"facts":[],"systems":[],"note":"No open data policy is stated."}}},
-"opendatause":{"countries":{"COG":{"facts":[],"systems":[],"note":"The dataset is published by a company, not a public body."}}}
+{"slug": "2026-08-01-cog-qwen-vl-lingala-ocr-dataset", "studies": {
+"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "Dataset card; nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "No government body using AI is stated."}}},
+"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "No public sector system using AI is stated."}}},
+"aistrategy": {"countries": {"COG": {"facts": [], "systems": [], "note": "No national AI strategy is mentioned."}}}
 }}

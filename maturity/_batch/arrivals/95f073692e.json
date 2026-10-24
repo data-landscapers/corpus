@@ -1,0 +1,14 @@
+{"slug": "2025-10-17-gha-ghana-unlocking-ownership-data-for-accountability-in-the-extractive-se", "studies": {
+"addressregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"businessregister": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "EITI says Ghana is developing a new digital business registration system with the Office of the Registrar of Companies, expected to be fully functional by 2026.", "as_of": "2025-10-17", "date_precision": "day", "system": "new digital business registration system", "class": "business"},
+{"sub_indicator": "business", "aspect": "owners", "value": "recorded", "fact": "EITI says 175,984 companies had filed beneficial ownership data with the Office of the Registrar of Companies as of 30 September 2025, up from 24,256 in 2021.", "as_of": "2025-09-30", "date_precision": "day", "system": "beneficial ownership register (Office of the Registrar of Companies)", "class": "business"}
+], "systems": [{"system": "beneficial ownership register", "country_label": "Ghana", "class": "business", "platform": "", "owner": "Office of the Registrar of Companies", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"electoralregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on voters' rolls."}}},
+"internationalstandards": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on standards membership or adoption."}}},
+"landregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on land registration."}}},
+"populationregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a population register."}}},
+"socialregistry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a social registry."}}},
+"taxregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a taxpayer register."}}}
+}}

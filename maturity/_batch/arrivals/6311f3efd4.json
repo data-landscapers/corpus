@@ -1,0 +1,23 @@
+{"slug": "2026-04-26-tun-registre-national-des-entreprises-les-demarches-administratives-entier", "studies": {
+"addressregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on addressing."}}},
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on AI harms."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document mentions AI only as a generic component of digitalisation, no Tunisian use."}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on sector AI."}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on AI built in the country."}}},
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "RNE says digital identity will be required from 1 July 2026, an announcement without a named service, so no fact."}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on civil register and ID link."}}},
+"businessregister": {"countries": {"TUN": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "La Presse reports the Registre national des entreprises platform lets project owners register a company remotely, including choosing the trade name, and that the RNE has run a mixed electronic and paper filing system since September 2025.", "as_of": "2026-04", "date_precision": "month", "system": "Registre national des entreprises (RNE)", "class": "business"}], "systems": [{"system": "Registre national des entreprises (RNE)", "country_label": "Tunisia", "class": "business", "platform": "RNE online platform", "owner": "RNE", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on civil registration."}}},
+"ecommercelaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document names no e-commerce law."}}},
+"egovservices": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only the business register's services are described, no portal count or gateway."}}},
+"electoralregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on the voters' roll."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document gives no ID enrolment figure."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document does not say the business register is keyed on the national ID number."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document describes no national ID system."}}},
+"landregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on land."}}},
+"populationregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on a population register."}}},
+"socialregistry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on a social registry."}}},
+"taxregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document states nothing on taxpayer registration."}}}
+}}

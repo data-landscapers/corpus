@@ -1,0 +1,6 @@
+{"slug":"2024-10-10-cog-decret-n-2024-2072-du-10-octobre-2024-fixant-les-conditions-et-les-mod","studies":{
+"authentication":{"countries":{"COG":{"facts":[],"systems":[],"note":"Mandatory e-signature inside the procurement system is stated by decree only, with no service in use."}}},
+"businesspayments":{"countries":{"COG":{"facts":[{"sub_indicator":"business","aspect":"system","value":"underway","fact":"Decree 2024-2072 of 10 October 2024 establishes an electronic public procurement system (e-GP) run by the ARMP covering the cycle from programming to archiving, to be deployed in two phases, first among public actors and then with bidders included.","as_of":"2024-10-10","date_precision":"day","system":"e-GP","class":"procurement"}],"systems":[{"system":"e-GP","country_label":"e-GP","class":"procurement","platform":"","owner":"ARMP","tiers":"national"}],"note":""}}},
+"ecommercelaw":{"countries":{"COG":{"facts":[],"systems":[],"note":"The decree covers electronic public procurement only, not electronic transactions or online selling generally."}}},
+"schoolinternet":{"countries":{"COG":{"facts":[],"systems":[],"note":"The document states nothing this study asks for COG."}}}
+}}

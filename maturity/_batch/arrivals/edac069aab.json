@@ -1,0 +1,7 @@
+{"slug": "2025-06-26-mwi-steady-steps-to-public-digital-procurement-maneps-onboarding-launches", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "The Public Procurement and Disposal of Assets Authority says 32 pilot procuring entities are being onboarded onto the Malawi National Electronic Procurement System (MANePS) in Salima, and all 32 have submitted their 2025/26 annual procurement plans through it.", "as_of": "2025-06-26", "date_precision": "day", "system": "Malawi National Electronic Procurement System (MANePS)", "class": "procurement"}],
+"systems": [{"system": "Malawi National Electronic Procurement System (MANePS)", "country_label": "Malawi", "class": "procurement", "platform": "", "owner": "Public Procurement and Disposal of Assets Authority", "tiers": "pilot with 32 entities"}], "note": ""}}},
+"civilserviceskills": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The onboarding training is on using the procurement system, not a digital-skills programme for civil servants."}}},
+"digitalskills": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on digital skills of the public."}}}
+}}

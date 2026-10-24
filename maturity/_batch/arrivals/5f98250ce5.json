@@ -1,0 +1,10 @@
+{"slug": "2025-08-29-gha-bog-notice-2025-28-designation-digital-credit-services", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The notice designates digital credit services and licensing is still to come; it concerns credit, not payment providers or e-money."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The notice sets no conduct rules or complaints body; a licensing directive is only promised."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

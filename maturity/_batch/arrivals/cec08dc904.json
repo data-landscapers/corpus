@@ -1,0 +1,6 @@
+{"slug": "2025-10-29-caf-centrafrique-vers-un-rccm-numerise-pour-booster-l-economie-nationale", "studies": {
+"businessregister": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "Oubangui Médias reports that on 24 October 2025 a Bangui workshop led by the Ministry of Commerce with UNDP validated the specification for digitising the manual Registre du Commerce et du Crédit Mobilier, to be accessed through the one-stop business formalities counter, which has a branch at Bambari with another planned at Berberati.", "as_of": "2025-10-24", "date_precision": "day", "system": "Registre du Commerce et du Crédit Mobilier (RCCM)", "class": "business"}],
+"systems": [{"system": "Registre du Commerce et du Crédit Mobilier (RCCM)", "country_label": "Central African Republic", "class": "business", "platform": "Guichet Unique de Formalité des Entreprises", "owner": "Ministry of Commerce and Industry", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"CAF": {"facts": [], "systems": [], "note": "A technical validation workshop with no outside participants named and no named digital law or policy."}}}
+}}

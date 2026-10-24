@@ -1,0 +1,7 @@
+{"slug": "2025-10-09-mwi-ministry-pppc-court-stakeholders-on-commercial-transaction-manual-mode", "studies": {
+"digitaldivides": {"countries": {"MWI": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The PPPC chief executive says the Digital Malawi Acceleration Project's connectivity component, guided by a Commercial Transaction Manual being drafted by Ernst & Young, targets digital connectivity to 2,500 government sites nationwide, including underserved areas.", "as_of": "2025-10-08", "date_precision": "day", "system": "Digital Malawi Acceleration Project", "class": "ruralaccess"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No government online service mentioned."}}},
+"nonstatefinance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only World Bank funding to the government project is stated."}}},
+"publicconsultation": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The consultation was on a procurement manual, not a named digital law or policy."}}},
+"stemgraduates": {"countries": {"MWI": {"facts": [], "systems": [], "note": "MAREN is named as a project beneficiary; no service stated."}}}
+}}

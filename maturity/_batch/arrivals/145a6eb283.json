@@ -1,0 +1,4 @@
+{"slug": "2026-08-14-mwi-ppda-advances-preps-for-maneps-phase-2-features", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "The PPDA says the initial rollout of MANePS introduced supplier registration, planning and procurement requisition, an e-marketplace and e-tendering, and that Phase II features are in user testing with 18 entities, targeted live by 23 November 2026.", "as_of": "2026-08-14", "date_precision": "day", "system": "Malawi National Electronic Procurement System (MANePS)", "class": "procurement"}], "systems": [{"system": "Malawi National Electronic Procurement System (MANePS)", "country_label": "Malawi", "class": "procurement", "platform": "", "owner": "PPDA", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on local government office connections."}}}
+}}

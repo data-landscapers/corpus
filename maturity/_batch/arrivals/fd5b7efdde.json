@@ -1,0 +1,9 @@
+{"slug": "2026-10-21-gha-knust-google-strengthen-partnership-promote-ai-integration-teaching-and-learning", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "University use of Gemini is not a government administration body's AI system."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Education licences for a university are not a public sector system producing outputs."}}},
+"aistrategy": {"countries": {"GHA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Vice-Chancellor Christian Agyare referred to university AI experts contributing to the development of Ghana's national AI strategy, implying it was still being developed.", "as_of": "2026-10-21", "date_precision": "day", "system": "Ghana's national AI strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Google's Gemini and NotebookLM are foreign products used locally, with nothing built or hosted in Ghana."}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No data protection law is stated."}}},
+"stemgraduates": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No STEM graduate share or national research network is stated."}}}
+}}

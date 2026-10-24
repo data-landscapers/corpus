@@ -1,0 +1,20 @@
+{"slug": "2026-04-21-caf-central-african-republic-plans-2026-launch-of-telecom-universal-servic", "studies": {
+"aisystems": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on AI in this document."}}},
+"businesspayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on the central bank or payments."}}},
+"civilserviceskills": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on civil servant training."}}},
+"consumerprotection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on financial consumer protection."}}},
+"crossborderpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Ecofin Agency reports that the Central African Republic plans to complete implementation of its universal service fund in 2026, financed by a 2% levy on operator revenue, to extend telecom access to uncovered and underserved areas, as an ARCEP priority presented on 15 April 2026.", "as_of": "2026-04-15", "date_precision": "day", "system": "universal service fund", "class": "ruralaccess"}],
+"systems": [{"system": "universal service fund (Law No. 18.002 of 17 January 2018)", "country_label": "Central African Republic", "class": "ruralaccess", "platform": "", "owner": "ARCEP", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The fund framework only supports ICT training in general terms; no programme or measured share is stated."}}},
+"disabilityaccess": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Only adapted offers and social pricing for persons with disabilities under the fund; no accessibility of information or digital services is stated."}}},
+"domesticfinancing": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The 2% levy is in a 2018 law and 2019 decree with the fund not yet collecting; no budget amount or collecting fund is stated."}}},
+"g2ppayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internetusage": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The only usage figure (about 12%) is DataReportal's, which the study notes and never uses."}}},
+"localgov": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"paymentsuptake": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+}}

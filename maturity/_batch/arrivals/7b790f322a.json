@@ -1,1 +1,4 @@
-{"slug": "2026-10-12-tza-guardian-business-law-reforms-brela-online", "studies": {"localgov": {"countries": {"TZA": {"facts": [], "systems": [], "note": "BRELA online licensing system only; no local government office connection stated."}}}}}
+{"slug": "2026-10-12-tza-guardian-business-law-reforms-brela-online", "studies": {
+"registry": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document is about the business registry BRELA, not civil registration offices."}}},
+"socialregistry": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document states nothing on a social registry."}}}
+}}

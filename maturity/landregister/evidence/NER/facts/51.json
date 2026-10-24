@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-ner-niger-eiti",
+ "facts": [],
+ "systems": [
+  {
+   "system": "mining cadastre",
+   "country_label": "mining cadastre",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Mines and Industrial Development",
+   "tiers": "national"
+  }
+ ],
+ "note": "Only a mining licence cadastre is named, not a land rights register."
+}

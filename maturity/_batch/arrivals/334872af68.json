@@ -1,0 +1,169 @@
+{
+ "slug": "2026-10-20-gin-la-guinee-a-lheure-de-lia-moderniser-letat-avant-que-la-technologie-ne",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says no text covers explainability or AI procurement; no statement that no AI law or draft exists."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "National data centre inaugurated, but the document does not say it rents to others."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No national data policy stated either way; only a diagnostic gap and proposals."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Le Populaire's op-ed says Guinea has a legal base in law L/2016/037/AN of 2016 on cybersecurity and personal data protection.",
+       "as_of": "2016",
+       "date_precision": "year",
+       "system": "Loi L/2016/037/AN",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a DataReportal figure, which the study never uses."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not say the data centre is for hire or who owns it."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Opinion piece; states nothing this study asks."
+    }
+   }
+  }
+ }
+}

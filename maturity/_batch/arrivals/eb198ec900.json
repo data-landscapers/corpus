@@ -1,0 +1,12 @@
+{"slug": "2025-03-24-gha-be-diligent-with-financial-accounts-of-businesses-chraj-to-registrar-o", "studies": {
+"businessregister": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "business", "aspect": "owners", "value": "recorded", "fact": "Graphic Online reports that the Ghana Integrity Initiative's assessment found beneficial ownership information is held in the Registrar of Companies' central register and available to authorities and the public on request, as the Companies Act 2019 (Act 992) requires it to be provided.", "as_of": "2025-03-24", "date_precision": "day", "system": "Registrar of Companies central beneficial ownership register", "class": "business"}],
+"systems": [{"system": "Registrar of Companies central beneficial ownership register", "country_label": "Ghana", "class": "business", "platform": "", "owner": "Office of the Registrar of Companies", "tiers": ""}], "note": ""}}},
+"electoralregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on the voters' roll."}}},
+"internationalstandards": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on international standards."}}},
+"landregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on land records."}}},
+"opendatause": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only that the beneficial ownership register is not open data; no dataset published for download is stated."}}},
+"populationregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a population register."}}},
+"socialregistry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a social registry."}}},
+"taxregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a taxpayer register."}}}
+}}

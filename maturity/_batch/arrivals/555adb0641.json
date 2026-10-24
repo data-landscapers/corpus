@@ -1,11 +1,1 @@
-{"slug":"2026-10-22-nga-foreign-cloud-dependence-luminate-study","studies":{
-"aiabuse":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Only a competition action against Meta over data exploitation is mentioned, not a harm from AI."}}},
-"aigovernment":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No government use of AI is stated."}}},
-"aisectoral":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No AI tool in a Nigerian public sector system is stated."}}},
-"aistrategy":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The strategy is mentioned only in passing; no adoption, body or funding is stated."}}},
-"aisystems":{"countries":{"NGA":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"underway","fact":"Communications minister Bosun Tijani, speaking through Olubunmi Ajala at Build 2026 in Abuja, said the government is proposing a data park near Egbin Power Station in Lagos to support AI infrastructure.","as_of":"2026-10-21","date_precision":"day","system":"Egbin data park","class":"localai"}],"systems":[{"system":"Egbin data park","country_label":"Nigeria","class":"localai","platform":"","owner":"government (proposed)","tiers":""}],"note":""}}},
-"datacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The only facility named is a proposed data park; no data centre in service is stated."}}},
-"digitalsovereignty":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Only general sovereignty remarks by a Luminate speaker; no government policy on state data is stated."}}},
-"nationaldatacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No nationally owned data centre in service is stated."}}},
-"publicconsultation":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No government consultation on a named digital law or policy is stated."}}},
-"techhubs":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No technology hub is stated."}}}}}
+{"slug": "2026-10-22-nga-foreign-cloud-dependence-luminate-study", "studies": {"datalocalisation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A proposed data park and a cost estimate of foreign cloud use; no rule that data must stay in the country."}}}}}

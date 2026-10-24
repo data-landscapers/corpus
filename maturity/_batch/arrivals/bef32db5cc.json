@@ -1,23 +1,6 @@
-{
-  "slug": "2025-01-01-lso-sesoda-sesotho-english-dataset-lora-fine-tuning",
-  "studies": {
-    "aisystems": {"countries": {"LSO": {
-      "facts": [
-        {
-          "sub_indicator": "localai",
-          "aspect": "build",
-          "value": "inservice",
-          "fact": "A 2025 DHASA journal paper presents SeSoDa, a dataset of 1,966 Sesotho (Lesotho)-English prompt-completion pairs for fine-tuning language models, and says the dataset, its creation code and a baseline TinyLlama-1.1B model are open-sourced.",
-          "as_of": "2025",
-          "date_precision": "year",
-          "system": "SeSoDa",
-          "class": "localai"
-        }
-      ],
-      "systems": [
-        {"system": "SeSoDa", "country_label": "SeSoDa", "class": "localai", "platform": "", "owner": "", "tiers": ""}
-      ],
-      "note": ""
-    }}}
-  }
-}
+{"slug": "2025-01-01-lso-sesoda-sesotho-english-dataset-lora-fine-tuning", "studies": {
+"aiabuse": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Research dataset paper; nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No government body using AI is stated."}}},
+"aisectoral": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No public sector system using AI is stated."}}},
+"aistrategy": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No national AI strategy is mentioned."}}}
+}}

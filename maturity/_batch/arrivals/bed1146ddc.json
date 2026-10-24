@@ -1,0 +1,9 @@
+{"slug": "2026-07-10-lby-lana-commercial-registry-digital-transformation-branch-linking", "studies": {
+"businessregister": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "LANA reports the head of Libya's Commercial Registry Authority told a meeting of branch managers that the digital transformation plan is still being completed, including electronic linking of all regional branches and e-archiving of company files in every branch.", "as_of": "2026-07-09", "date_precision": "day", "system": "Commercial registry electronic system", "class": "business"}
+], "systems": [{"system": "Commercial registry electronic system", "country_label": "Libya", "class": "business", "platform": "", "owner": "Commercial Registry Authority, Ministry of Economy and Trade", "tiers": ""}], "note": ""}}},
+"dataexchange": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "LANA reports the commercial registry's executive programme includes a phase of electronic linking with banks and relevant public bodies to exchange data and check companies' legal status instantly, presented as a stage still to be completed.", "as_of": "2026-07-09", "date_precision": "day", "system": "Commercial registry electronic linking with banks and public bodies", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document concerns the registry authority's own digital transformation plan, a ministry-plan, not a national strategy."}}}
+}}

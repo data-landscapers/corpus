@@ -1,0 +1,8 @@
+{"slug": "2026-10-20-dza-algerie54-solidarite-plateforme-suivi-investissements", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "AI chatbots and fraud detection are only announced for 2027; the investment platform is not AI."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "AI map and fraud prevention for solidarity schemes are announced for 2027, not under way or in service."}}},
+"aistrategy": {"countries": {"DZA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Ministry of National Solidarity's communique, reported by Algerie54, refers to implementing Algeria's National AI Strategy, under which the sector plans projects for 2027.", "as_of": "2026-10-20", "date_precision": "day", "system": "Stratégie nationale de l'intelligence artificielle", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A national AI map of persons with special needs is only planned for 2027 with no builder, funder or site named."}}},
+"digitalstrategy": {"countries": {"DZA": {"facts": [{"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Ministry of National Solidarity communique says the investment-tracking platform launched on 2026-10-20 carries out the action plan of the National Digital Transformation Strategy, on the President's instructions.", "as_of": "2026-10-20", "date_precision": "day", "system": "Stratégie nationale de transformation numérique", "class": "national"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,14 @@
+{"slug": "2026-07-16-tun-depot-immatriculation-mise-a-jour-le-registre-national-des-entreprises", "studies": {
+"addressregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing about addressing."}}},
+"businessregister": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "The Registre National des Entreprises, in service since 5 February 2019, completed full digitisation in July 2026, so filing, registration and updates can all be done remotely on its digital platform, says its director general Adel Chaouari.", "as_of": "2026-07", "date_precision": "month", "system": "Registre National des Entreprises (RNE)", "class": "business"},
+{"sub_indicator": "business", "aspect": "owners", "value": "recorded", "fact": "The Registre National des Entreprises also manages the register of beneficial owners, set up for anti-money-laundering and counter-terrorist-financing purposes, according to the article.", "as_of": "2026-07-16", "date_precision": "day", "system": "Registre National des Entreprises (RNE)", "class": "business"}
+], "systems": [{"system": "Registre National des Entreprises (RNE)", "country_label": "Tunisia", "class": "business", "platform": "RNE digital platform", "owner": "Registre National des Entreprises", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing about civil registration."}}},
+"electoralregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing about a voters' roll."}}},
+"landregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing about land registration."}}},
+"populationregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing about a population register."}}},
+"socialexchange": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing about social protection systems."}}},
+"socialregistry": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing about a social registry."}}},
+"taxregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The document states nothing about a taxpayer register."}}}
+}}

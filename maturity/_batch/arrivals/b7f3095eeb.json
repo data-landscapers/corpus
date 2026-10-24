@@ -1,0 +1,7 @@
+{"slug": "2026-10-21-nga-undp-cisco-offer-50-000-nigerian-graduates-free-digital-skills-trainin", "studies": {
+"civilserviceskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Training is for youth programme fellows and alumni, not civil servants."}}},
+"digitalskills": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "UNDP and Cisco signed an MoU in Abuja giving up to 50,000 fellows and alumni of the Federal Government's Nigeria Jubilee Fellows Programme rolling free access to Cisco Networking Academy digital skills courses, with Cisco's general manager saying it expects 50,000 learners a year over three years.", "as_of": "2026-10", "date_precision": "month", "system": "Nigeria Jubilee Fellows Programme with Cisco Networking Academy", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"ictjobs": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No ICT employment share or youth unemployment figure."}}}
+}}

@@ -1,0 +1,5 @@
+{"slug": "2025-04-28-moz-registo-do-beneficiario-efectivo", "studies": {
+"businessregister": {"countries": {"MOZ": {"facts": [{"sub_indicator": "business", "aspect": "owners", "value": "recorded", "fact": "RSM Mozambique says Decree-Law 1/2024 requires legal entities to register their beneficial owners (10 per cent threshold) with the Conservatoria do Registo das Entidades Legais, submitted online at utente.srn.gov.mz and completed in person.", "as_of": "2025-04-28", "date_precision": "day", "system": "Registo das Entidades Legais beneficial owner register", "class": "business"}], "systems": [{"system": "Conservatoria do Registo das Entidades Legais (CREL)", "country_label": "Mozambique", "class": "business", "platform": "utente.srn.gov.mz", "owner": "Government", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"taxadmin": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only that beneficial owner data is open to the tax authority; no filing or payment system stated."}}}
+}}

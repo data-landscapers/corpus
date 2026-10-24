@@ -1,0 +1,43 @@
+{
+ "slug": "2024-04-08-uga-uganda-launches-online-business-registration-system-to-transform-busin",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "The Ministry of ICT says the Online Business Registration System of the Uganda Registration Services Bureau is live, having registered 36,885 businesses and 83,966 companies in under a year since go-live.",
+       "as_of": "2024-04-08",
+       "date_precision": "day",
+       "system": "Online Business Registration System (OBRS)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Online Business Registration System (OBRS)",
+       "country_label": "Uganda",
+       "class": "business",
+       "platform": "",
+       "owner": "Uganda Registration Services Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not about civil registration."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"slug": "2026-10-22-gha-phase-one-of-ghana-s-first-data-centre-to-be-ready-in-24-months-sam-ge", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government body is said to use an AI system."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"GHA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Communications minister Samuel Nartey George said on 2026-10-22 that the government is in procurement with the Public Procurement Authority for a national data centre and computing infrastructure, with phase one due within 24 months for researchers, industry and universities.", "as_of": "2026-10-22", "date_precision": "day", "system": "Ghana's first national data centre (phase one)", "class": "localai"}], "systems": [{"system": "Ghana's first national data centre", "country_label": "Ghana", "class": "localai", "platform": "", "owner": "Government", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"GHA": {"facts": [], "systems": [{"system": "Ghana's first national data centre", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "The data centre is in procurement, not in service."}}},
+"nationaldatacentres": {"countries": {"GHA": {"facts": [], "systems": [{"system": "Ghana's first national data centre", "country_label": "Ghana", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "Not yet built; nothing in service."}}}
+}}

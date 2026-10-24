@@ -1,0 +1,4 @@
+{"slug": "2026-03-24-bwa-weekendpost-procurement-system-crossroads", "studies": {
+"businesspayments": {"countries": {"BWA": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "none", "fact": "The PPRA chief executive told the National Public Procurement Pitso that Botswana lacks a fully integrated e-procurement platform and runs manual processes, with government committed to launching a national e-procurement system by 2027.", "as_of": "2026-03", "date_precision": "month", "system": "Botswana public procurement (manual)", "class": "procurement"}], "systems": [], "note": ""}}},
+"disabilityaccess": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Only procurement awards to persons with disabilities' firms; nothing on digital accessibility."}}}
+}}

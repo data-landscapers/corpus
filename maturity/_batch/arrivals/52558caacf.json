@@ -1,0 +1,7 @@
+{"slug": "2026-09-23-mrt-propriete-effective-regles-et-procedures-de-collecte-de-verification-e", "studies": {
+"businessregister": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "business", "aspect": "owners", "value": "recorded", "fact": "Mauritania's national multi-stakeholder group says the commercial court registry clerk keeps a beneficial owner register with a file per declaring entity, which may be held electronically and is not public.", "as_of": "2026-09-23", "date_precision": "day", "system": "Registre du bénéficiaire effectif", "class": "business"}],
+"systems": [{"system": "Registre du bénéficiaire effectif", "country_label": "Mauritania", "class": "business", "platform": "", "owner": "Greffe of the commercial court (Registre du commerce)", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on consultation on a digital law or policy."}}},
+"socialexchange": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on social protection systems."}}}
+}}

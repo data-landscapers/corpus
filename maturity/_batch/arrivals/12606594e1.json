@@ -1,0 +1,5 @@
+{"slug": "2026-05-22-gin-mosaiqueguinee-gouvernement-operationnalise-telemo", "studies": {
+"regionalpolicy": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Mosaique Guinee reports that Presidents Doumbouya and Kagame launched the Rwanda-built TELEMO procurement platform on the sidelines of the Smart Africa summit in November 2025.", "as_of": "2025-11", "date_precision": "month", "system": "TELEMO", "class": "cooperation"}
+], "systems": [{"system": "TELEMO", "country_label": "Guinea", "class": "other", "platform": "", "owner": "Government of Guinea, with Rwanda", "tiers": "national"}], "note": ""}}}
+}}

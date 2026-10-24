@@ -1,0 +1,72 @@
+{
+ "slug": "2026-04-17-nam-namibia-pours-6-5-million-into-universal-access-fund-expansion",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "Ecofin reports the regulator CRAN announced on 16 April 2026 an allocation of N$107.1 million to phases 2 and 3 of Namibia's Universal Service Fund to connect rural areas, with phase 2 civil works due to begin in May 2026.",
+       "as_of": "2026-04-16",
+       "date_precision": "day",
+       "system": "Universal Service Fund (USF)",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Universal Service Fund (USF)",
+       "country_label": "Namibia",
+       "class": "ruralaccess",
+       "platform": "",
+       "owner": "CRAN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "Ecofin reports the Ministry of ICT allocated an additional N$78 million for telecom sites and public Wi-Fi for the 2026/2027 fiscal year.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "Ministry of ICT telecom sites and public Wi-Fi allocation",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a national 'penetration rate' of 53%, not a share of people using the internet."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing this study asks."
+    }
+   }
+  }
+ }
+}

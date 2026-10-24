@@ -1,0 +1,9 @@
+{"slug": "2025-06-24-cog-european-union-expands-commitment-to-speeding-up-digital-transformatio", "studies": {
+"civilserviceskills": {"countries": {"COG": {"facts": [], "systems": [], "note": "Skills training is for the Congolese population and young people, with no civil servant programme named."}}},
+"dataprotectionlaw": {"countries": {"COG": {"facts": [], "systems": [], "note": "Personal data protection is a project focus; no law is named."}}},
+"digitalskills": {"countries": {"COG": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The European Investment Bank says the Congolese Prime Minister's representative launched the EU part of the digital transformation project on 17 June 2025, which aims to develop the digital skills of the Congolese population, especially young people and women; the five-year EU part began in November 2024.", "as_of": "2025-06-17", "date_precision": "day", "system": "Project to accelerate digital transformation (PATN)", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"COG": {"facts": [], "systems": [], "note": "Digital governance is a project aim; no service or portal is named."}}},
+"qualitystandards": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on standards."}}}
+}}

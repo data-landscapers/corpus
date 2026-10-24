@@ -1,0 +1,6 @@
+{"slug": "2025-10-16-bwa-bocra-annual-report-2025-companion", "studies": {
+"cybersecurity": {"countries": {"BWA": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The BOCRA annual report 2025 says Botswana's national CSIRT sits inside BOCRA, was established in 2020 and is funded from the Authority's own resources.", "as_of": "2020", "date_precision": "year", "system": "BOCRA national CSIRT", "class": "response"}], "systems": [{"system": "BOCRA national CSIRT", "country_label": "BWA", "class": "response", "platform": "", "owner": "Botswana Communications Regulatory Authority", "tiers": "national"}], "note": ""}}},
+"dataprotectionauthority": {"countries": {"BWA": {"facts": [], "systems": [{"system": "Information and Data Protection Commission", "country_label": "BWA", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": "The Commission is mentioned as having no appropriation; naming in law, appointment or rulings are not stated."}}},
+"dataprotectionlaw": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No law is named or described."}}},
+"mobileaffordability": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Only a 2029 target of broadband below 2 percent of GNI per capita; no price figure."}}}
+}}

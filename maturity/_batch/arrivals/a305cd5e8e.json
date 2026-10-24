@@ -1,0 +1,9 @@
+{"slug": "2025-01-01-lbr-ppcc-summary-annual-report-year-end-report-2024-as-prepared-for-the-so", "studies": {
+"businesspayments": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "The Public Procurement and Concessions Commission's 2024 report says the World Bank-funded e-GP system went live in 2024 as a pilot in six entities (finance, health, public works, education ministries, the revenue authority and the Commission), with enrolment of 50 more entities expected.", "as_of": "2024", "date_precision": "year", "system": "Electronic Government Procurement (e-GP) System", "class": "procurement"}],
+"systems": [{"system": "Electronic Government Procurement (e-GP) System", "country_label": "Liberia", "class": "procurement", "platform": "", "owner": "Public Procurement and Concessions Commission", "tiers": "pilot in six entities"}], "note": ""}}},
+"businessregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The Liberia Business Registry is named only as a planned e-GP integration; nothing on its registration."}}},
+"coresystems": {"countries": {"LBR": {"facts": [], "systems": [], "note": "IFMIS is named only as a planned e-GP integration; no statement of core systems in use."}}},
+"nonstatefinance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only World Bank funding of a public system, which is not private money."}}},
+"publicconsultation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on consultation on a digital law or policy."}}}
+}}

@@ -1,0 +1,13 @@
+{"slug": "2026-10-20-ken-kra-issues-fresh-directive-to-govt-suppliers-over-invoice-validation-a", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Invoice validation inside the government payment workflow is not an e-procurement system."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"coresystems": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "A KRA and National Treasury public notice of 2026-10-20 says all suppliers to government ministries, departments and public entities go through the IFMIS payment workflow, after automated tax-invoice validation by the IFMIS-eTIMS integration.", "as_of": "2026-10-20", "date_precision": "day", "system": "IFMIS", "class": "core"}
+], "systems": [{"system": "IFMIS", "country_label": "Kenya", "class": "core", "platform": "", "owner": "National Treasury", "tiers": "national"}, {"system": "eTIMS", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Kenya Revenue Authority", "tiers": ""}], "note": ""}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Payments to suppliers, not to people."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The notice covers tax-invoice validation, not payment of taxes or fees."}}}
+}}

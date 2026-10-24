@@ -1,0 +1,6 @@
+{"slug": "2025-05-08-bfa-transparence-dans-les-industries-extractives-la-chambre-des-mines-du-b", "studies": {
+"businessregister": {"countries": {"BFA": {"facts": [], "systems": [{"system": "Beneficial owners register (Tribunal de commerce de Ouagadougou)", "country_label": "Burkina Faso", "class": "other", "platform": "", "owner": "Commercial courts", "tiers": ""}], "note": "The beneficial owners register is kept by court clerks, not stated to be the business register."}}},
+"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}},
+"socialexchange": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on social protection systems."}}},
+"taxadmin": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on tax filing or payment systems."}}}
+}}

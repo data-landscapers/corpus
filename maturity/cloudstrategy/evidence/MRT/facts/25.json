@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cloud Gouvernemental / Cloud National",
+   "country_label": "Mauritanie",
+   "class": "other",
+   "platform": "IaaS, PaaS, SaaS",
+   "owner": "MTNMA via WARDIP",
+   "tiers": ""
+  }
+ ],
+ "note": "A government cloud is being tendered (17 September 2024) but no hosting policy is stated; a cloud alone places nothing."
+}

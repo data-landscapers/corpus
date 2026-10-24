@@ -1,0 +1,15 @@
+{"slug": "2025-07-08-gha-online-registration-of-businesses-in-ghana-is-still-stuck-on-manual", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "E-procurement not mentioned."}}},
+"businessregister": {"countries": {"GHA": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "The Labari Journal says a 2017 online registration system exists but users cannot register online and use the manual process, and a new NITA-hosted system planned with the World Bank has not been rolled out.", "as_of": "2025-07-08", "date_precision": "day", "system": "Registrar-General's Department e-registration system", "class": "business"}], "systems": [{"system": "Registrar-General's Department e-registration system", "country_label": "Ghana", "class": "business", "platform": "", "owner": "Office of Registered Companies", "tiers": ""}], "note": ""}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Central bank not mentioned."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"itcapacity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"registry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Civil registration not mentioned."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"startups": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No startup support programme stated."}}},
+"techhubs": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No tech hub stated."}}}
+}}

@@ -1,0 +1,14 @@
+{"slug": "2024-10-18-dji-djibouti-unveils-plan-to-boost-internet-connectivity-and-affordability", "studies": {
+"broadbandstrategy": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "Djibouti launched its national broadband development strategy on 16 October 2024 at a Ministry of Communication workshop, presented by Minister Radwan Abdillahi Bahdon; no end date is given.", "as_of": "2024-10-16", "date_precision": "day", "system": "national broadband development strategy", "class": "plan"},
+{"sub_indicator": "plan", "aspect": "delivery", "value": "funded", "fact": "We are Tech says the strategy is part of the World Bank-supported Djibouti Digital Foundation project, with early results of 250 km of fibre in the north and over 100 administrative buildings connected.", "as_of": "2024-10-16", "date_precision": "day", "system": "national broadband development strategy", "class": "plan"}
+], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The government's broadband strategy, launched 16 October 2024, aims to expand fibre coverage and access to fixed and mobile internet across the entire country; early results are 250 km of fibre in the north and over 100 administrative buildings connected, with no rural sites counted.", "as_of": "2024-10-16", "date_precision": "day", "system": "national broadband development strategy", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "We are Tech says Djibouti is currently connected to nine submarine fibre-optic cables; landing stations are not named.", "as_of": "2024-10-18", "date_precision": "day", "system": "submarine cables", "class": "route"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"DJI": {"facts": [], "systems": [], "note": "A goal of becoming a tech hub by 2035 is not a startup law, strategy or fund."}}},
+"techhubs": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No hub, incubator or park is named; the 2035 tech hub aim is a goal."}}}
+}}

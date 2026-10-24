@@ -1,0 +1,10 @@
+{"slug": "2026-10-23-nga-nigeria-uk-deepen-collaboration-on-ai-standards-digital-economy", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A BSI/NCAIR training workshop; no rule, draft or designated authority on AI harms stated."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government AI system stated; only a workshop."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The Nigeria Data Protection Council is named as a BSI partner only; nothing on the law."}}},
+"digitalstrategy": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No national digital strategy instrument is named."}}},
+"internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Workshop on ISO/IEC 42001 and 23894 only; no SON membership, national adoption, mandate or committee role stated."}}},
+"qualitystandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "SON is named only as a partner; no national IT standard or certification stated."}}}
+}}

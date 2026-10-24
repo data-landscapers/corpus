@@ -1,0 +1,8 @@
+{"slug": "2024-11-01-moz-building-resources-for-emakhuwa-machine-translation-and-news-classific", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Research paper on Emakhuwa language resources; says nothing on AI harms."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"ailaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI law or rule stated."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No sector AI system stated."}}},
+"aistrategy": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI strategy stated."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "The EMNLP 2024 paper by Ali, Lopes Cardoso and Sousa-Silva presents the first manually translated Portuguese-Emakhuwa news bitext, news topic classification datasets and monolingual data for Mozambique's most widely spoken language, with models, code and datasets released under CC BY 4.0.", "as_of": "2024-11", "date_precision": "month", "system": "Emakhuwa NLP resources (LIACC repository)", "class": "localai"}], "systems": [{"system": "Emakhuwa NLP datasets and models", "country_label": "Mozambique", "class": "localai", "platform": "Hugging Face (LIACC)", "owner": "LIACC researchers", "tiers": ""}], "note": ""}}}
+}}

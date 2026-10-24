@@ -1,0 +1,6 @@
+{"slug":"2026-01-01-ner-niger-eiti","studies":{
+"businessregister":{"countries":{"NER":{"facts":[],"systems":[],"note":"EITI says Niger has no beneficial ownership registry and that such data goes to the Chamber of Commerce CFE at company set-up, which is no business register fact."}}},
+"landregister":{"countries":{"NER":{"facts":[],"systems":[{"system":"mining cadastre","country_label":"mining cadastre","class":"other","platform":"","owner":"Ministry of Mines and Industrial Development","tiers":"national"}],"note":"Only a mining licence cadastre is named, not a land rights register."}}},
+"localgov":{"countries":{"NER":{"facts":[],"systems":[],"note":"The document states nothing this study asks for NER."}}},
+"publicconsultation":{"countries":{"NER":{"facts":[],"systems":[],"note":"The document names no consultation on a digital law or policy."}}}
+}}

@@ -1,0 +1,6 @@
+{"slug": "2025-06-01-lso-beneficial-ownership-in-lesotho", "studies": {
+"businessregister": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "business", "aspect": "owners", "value": "recorded", "fact": "A Mayet & Associates explainer says Lesotho's Companies (Beneficial Ownership) Regulations, 2024 (Legal Notice 81 of 2024) require companies to file beneficial ownership particulars with the Registrar of Companies within seven days.", "as_of": "2024", "date_precision": "year", "system": "Registrar of Companies, Companies (Beneficial Ownership) Regulations 2024", "class": "business"}
+], "systems": [{"system": "Registrar of Companies", "country_label": "Lesotho", "class": "business", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Document mentions data protection safeguards only in passing; it states nothing on a general data protection law."}}}
+}}

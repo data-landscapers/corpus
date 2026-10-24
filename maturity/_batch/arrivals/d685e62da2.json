@@ -1,0 +1,15 @@
+{"slug": "2026-10-23-cod-nbsinfos-sekimonyo-etat-numerise-tshisekedi", "studies": {
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Public procurement bodies are named only as raising similar questions; no e-procurement system is stated."}}},
+"centralbank": {"countries": {"COD": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "drafting", "fact": "The author Jo Sekimonyo says the Banque centrale du Congo adopted Instruction No. 58 of 4 September 2024 on the interoperability of payment systems, and that its authorisations and clarifications are handled by physical correspondence.", "as_of": "2024-09-04", "date_precision": "day", "system": "BCC Instruction No. 58 on interoperability of payment systems", "class": "oversight"}],
+"systems": [{"system": "BCC Instruction No. 58 on interoperability of payment systems", "country_label": "Democratic Republic of the Congo", "class": "oversight", "platform": "", "owner": "Banque centrale du Congo", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only the 2025 biometric passport reform is named, which is not a national ID system."}}},
+"localgov": {"countries": {"COD": {"facts": [], "systems": [], "note": "Local authorities are named only in a list of administrations raising similar questions."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Mobile money operators are mentioned only in passing as holding APIs; no service, licence or interoperability in service is stated."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Tax administrations are named only in a list; no electronic payment is stated."}}},
+"taxadmin": {"countries": {"COD": {"facts": [], "systems": [], "note": "Tax administrations are named only in a list; no filing or payment system is stated."}}}
+}}

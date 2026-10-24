@@ -1,0 +1,18 @@
+{"slug": "2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "URSB's ICT commissioner Arthur Kwesiga said URSB has a real-time link with NIRA for instant identity verification in business registration.", "as_of": "2025-08", "date_precision": "month", "system": "NIRA identity verification link", "class": "authentication"}
+], "systems": [{"system": "Online Business Registration System (OBRS)", "country_label": "Uganda", "class": "business", "platform": "", "owner": "Uganda Registration Services Bureau", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"businessregister": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "URSB's ICT commissioner Arthur Kwesiga said all URSB services are online 24/7 after paper records were digitised, and the Online Business Registration System lets clients search company status, track applications and access accounts remotely.", "as_of": "2025-08", "date_precision": "month", "system": "Online Business Registration System (OBRS)", "class": "business"}
+], "systems": [{"system": "Online Business Registration System (OBRS)", "country_label": "Uganda", "class": "business", "platform": "", "owner": "Uganda Registration Services Bureau", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "The NIRA link verifies identity; it does not say the business register is keyed on the ID number."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on the ID system itself."}}},
+"idverification": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "URSB's ICT commissioner Arthur Kwesiga said URSB's business registration has a real-time link with NIRA for instant identity verification.", "as_of": "2025-08", "date_precision": "month", "system": "Online Business Registration System (OBRS), linked to NIRA", "class": "relying"}
+], "systems": [{"system": "Online Business Registration System (OBRS)", "country_label": "Uganda", "class": "relying", "platform": "", "owner": "Uganda Registration Services Bureau", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}}
+}}

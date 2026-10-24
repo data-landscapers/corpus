@@ -1,11 +1,3 @@
 {"slug": "2026-10-21-gin-signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier", "studies": {
-"authentication": {"countries": {"GIN": {"facts": [
-{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Guineenews reports that ANDE is developing a public key infrastructure (PKI) to secure electronic signatures, and that nine draft texts on the state's electronic signature were under review on 21 October 2026.", "as_of": "2026-10-21", "date_precision": "day", "system": "PKI (ANDE)", "class": "authentication"}
-], "systems": [{"system": "PKI (ANDE)", "country_label": "Guinea", "class": "authentication", "platform": "", "owner": "ANDE", "tiers": ""}], "note": ""}}},
-"digitalsovereignty": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Sovereignty is mentioned only in general terms; no data policy, hosting or contract terms stated."}}},
-"ecommercelaw": {"countries": {"GIN": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "A government representative said article 1003 of the Civil Code gives strict equivalence between handwritten and electronic signature, per Guineenews.", "as_of": "2026-10-21", "date_precision": "day", "system": "Civil Code article 1003", "class": "law"},
-{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "Guineenews reports an implementing decree fixing the modalities of electronic signature under article 1003 of the Civil Code was adopted on 19 August 2026.", "as_of": "2026-08-19", "date_precision": "day", "system": "Implementing decree of 19 August 2026", "class": "law"}
-], "systems": [], "note": ""}}},
-"egovservices": {"countries": {"GIN": {"facts": [], "systems": [], "note": "E-services are mentioned only as progress by ANDE, with no service, count or portal named."}}}
+"cybersecurity": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document concerns electronic signature texts; no national cyber body, strategy or incident stated."}}}
 }}

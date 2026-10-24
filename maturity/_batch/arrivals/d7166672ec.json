@@ -1,0 +1,47 @@
+{
+  "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie",
+  "studies": {
+    "aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document states no rule or authority on AI harms."}}},
+    "aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government use of an AI system is stated."}}},
+    "aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only a general remark that smart agriculture and digital health initiatives are emerging; no AI tool is named."}}},
+    "aistrategy": {"countries": {"MRT": {"facts": [
+      {"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Mauritanian presentation to the ITU lists among the ministry's initiatives the elaboration of an artificial intelligence strategy 2025-2029, with no adoption stated.", "as_of": "2024-11-11", "date_precision": "day", "system": "Stratégie d'intelligence artificielle 2025-2029", "class": "strategy"}
+    ], "systems": [{"system": "Stratégie d'intelligence artificielle 2025-2029", "country_label": "Mauritanie", "class": "strategy", "platform": "", "owner": "MTNMA", "tiers": ""}], "note": ""}}},
+    "aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing is stated."}}},
+    "authentication": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The e-certification agency has a policy mission only; no authentication service is stated."}}},
+    "businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "E-procurement is not mentioned."}}},
+    "centralbank": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The central bank is not mentioned."}}},
+    "cloudstrategy": {"countries": {"MRT": {"facts": [], "systems": [{"system": "Cloud Gouvernemental / Cloud National", "country_label": "Mauritanie", "class": "other", "platform": "IaaS, PaaS, SaaS", "owner": "MTNMA via WARDIP", "tiers": ""}], "note": "A government cloud is being tendered (17 September 2024) but no hosting policy is stated; a cloud alone places nothing."}}},
+    "consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No rule or complaints body for digital financial services is stated."}}},
+    "crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Cross-border payments are not mentioned."}}},
+    "cybersecurity": {"countries": {"MRT": {"facts": [
+      {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The presentation states the government created the Agence de Cybersécurité et de Certification Électronique (ANCC) on 23 April 2024, with a mission that includes creating the CERT Mauritanie.", "as_of": "2024-04-23", "date_precision": "day", "system": "ANCC - Agence de Cybersécurité et de Certification Électronique", "class": "response"}
+    ], "systems": [{"system": "ANCC - Agence de Cybersécurité et de Certification Électronique", "country_label": "ANCC", "class": "response", "platform": "", "owner": "Government of Mauritania", "tiers": ""}], "note": ""}}},
+    "datacentres": {"countries": {"MRT": {"facts": [], "systems": [{"system": "Datacenter National Tier3", "country_label": "Datacenter National", "class": "other", "platform": "", "owner": "State", "tiers": "Tier III"}], "note": "The Tier III data centre is complete but not yet in service, and is for government data; nothing says it rents to others."}}},
+    "dataprotectionlaw": {"countries": {"MRT": {"facts": [
+      {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The presentation states the government created a dedicated personal data protection authority on 15 December 2021, placed under the Prime Minister.", "as_of": "2021-12-15", "date_precision": "day", "system": "Autorité de protection des données personnelles (apd.mr)", "class": "general"}
+    ], "systems": [{"system": "Autorité de protection des données personnelles", "country_label": "APD", "class": "authority", "platform": "", "owner": "Prime Minister's office", "tiers": ""}], "note": "No law, standing, regulation or application is stated."}}},
+    "digitalsovereignty": {"countries": {"MRT": {"facts": [
+      {"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The ministry (MTNMA), through WARDIP, launched a tender on 17 September 2024 for a government cloud, and describes the national Tier III data centre as enabling national hosting of government data and applications.", "as_of": "2024-09-17", "date_precision": "day", "system": "Cloud Gouvernemental / Datacenter National", "class": "sovereignty"}
+    ], "systems": [], "note": ""}}},
+    "ecommercelaw": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only a general remark on putting in place the main parts of the digital legal framework; no law is named."}}},
+    "egovservices": {"countries": {"MRT": {"facts": [
+      {"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The presentation lists among the ministry's projects a platform for dematerialising administrative formalities and the digitalisation of a bundle of public services, with no count or portal named.", "as_of": "2024-11-11", "date_precision": "day", "system": "Plateforme de dématérialisation des formalités administratives", "class": "eservices"}
+    ], "systems": [{"system": "Plateforme de dématérialisation des formalités administratives", "country_label": "Mauritanie", "class": "eservices", "platform": "", "owner": "MTNMA", "tiers": ""}], "note": ""}}},
+    "fibrebackbone": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A 4,000 km fibre backbone is cited, but the text does not say it is in service between the capital and other regions; the map is an image."}}},
+    "g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Government payments to people are not mentioned."}}},
+    "internationalbandwidth": {"countries": {"MRT": {"facts": [
+      {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "The presentation refers to the existing ACE submarine cable and says the government tendered a second submarine connection landing at Nouadhibou for redundancy, still to start.", "as_of": "2024-11-11", "date_precision": "day", "system": "ACE submarine cable", "class": "route"}
+    ], "systems": [{"system": "ACE", "country_label": "Câble ACE", "class": "route", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+    "nationaldatacentres": {"countries": {"MRT": {"facts": [], "systems": [{"system": "Datacenter National Tier3", "country_label": "Datacenter National", "class": "other", "platform": "", "owner": "State", "tiers": "Tier III"}], "note": "Complete but expected in service early the next year; not in service at the document's date."}}},
+    "paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No survey of account holding is given."}}},
+    "regionalpolicy": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only WARDIP, a World Bank programme, is named; no African body or agreement."}}},
+    "retailpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Mobile money is not mentioned; only Fintech initiatives emerging."}}},
+    "revenuecollection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Electronic payment of taxes is not mentioned."}}},
+    "schoolinternet": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule is stated."}}},
+    "startups": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated."}}},
+    "techhubs": {"countries": {"MRT": {"facts": [
+      {"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The presentation says incubators and accelerators for technology startups are emerging in Mauritania, naming none and giving no programme.", "as_of": "2024-11-11", "date_precision": "day", "system": "", "class": "hub"}
+    ], "systems": [], "note": ""}}}
+  }
+}

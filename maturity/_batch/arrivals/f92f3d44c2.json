@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-17-lbr-ppcc-and-usaid-spotlight-investment-reforms",
+  "studies": {
+    "businesspayments": {"countries": {"LBR": {"facts": [
+      {"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "PPCC Executive Director Bodger Scott Johnson says Liberia's Electronic Government Procurement (e-GP) system, developed with European Dynamics, is in use, with 50 more ministries, agencies and commissions being trained for onboarding.", "as_of": "2025-10", "date_precision": "month", "system": "e-GP", "class": "procurement"},
+      {"sub_indicator": "business", "aspect": "endtoend", "value": "endtoend", "fact": "The PPCC head says with e-GP every stage of procurement, from planning to contract award, is tracked digitally.", "as_of": "2025-10", "date_precision": "month", "system": "e-GP", "class": "procurement"},
+      {"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "The PPCC head says more than US$28 million in contracts have been awarded to Liberian-owned businesses through e-GP.", "as_of": "2025-10", "date_precision": "month", "system": "e-GP", "class": "procurement"}
+    ], "systems": [{"system": "e-GP (Electronic Government Procurement)", "country_label": "e-GP", "class": "procurement", "platform": "European Dynamics", "owner": "Public Procurement and Concessions Commission", "tiers": ""}], "note": ""}}}
+  }
+}

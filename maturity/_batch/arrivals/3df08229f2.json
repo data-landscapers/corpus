@@ -1,0 +1,14 @@
+{"slug": "2026-10-23-sle-natca-boss-intensifies-nationwide-ninsim-integration-campaign-ahead-of-november", "studies": {
+"authentication": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No authentication service is described."}}},
+"birthidlink": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The civil registration authority is only named as a campaign partner; no record link is stated."}}},
+"civilregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on digital civil registration."}}},
+"consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on digital financial services rules or redress."}}},
+"dataprotectionlaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Data protection safeguards are mentioned in general terms only."}}},
+"idcoverage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"SLE": {"facts": [], "systems": [], "note": "SIM registration is excluded from this study."}}},
+"idrobustness": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The document does not describe the ID system itself."}}},
+"idverification": {"countries": {"SLE": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The National Communications Authority's Director General said on 20 October 2026 that mobile subscribers must link their National Identification Number to their SIM card by a 1 November 2026 deadline, with the National Civil Registration Authority and mobile operators in the drive.", "as_of": "2026-10-20", "date_precision": "day", "system": "NIN-SIM integration", "class": "relying"}], "systems": [{"system": "NIN-SIM integration", "country_label": "NIN-SIM integration", "class": "relying", "platform": "", "owner": "National Communications Authority", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

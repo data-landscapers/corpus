@@ -1,0 +1,6 @@
+{"slug": "2026-03-11-tza-procurement-through-nest-saves-over-35bn-in-two-years-cuts-carbon-emis", "studies": {
+"businesspayments": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "The Public Procurement Regulatory Authority says the National e-Procurement System of Tanzania (NeST), introduced in 2023, replaced paper tendering and handles tender submission online.", "as_of": "2025", "date_precision": "year", "system": "NeST", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "The Public Procurement Regulatory Authority says more than 219,000 tenders were processed through NeST over financial years 2023/24 and 2024/25.", "as_of": "2025", "date_precision": "year", "system": "NeST", "class": "procurement"}
+], "systems": [{"system": "NeST", "country_label": "National e-Procurement System of Tanzania (NeST)", "class": "procurement", "platform": "NeST", "owner": "Public Procurement Regulatory Authority", "tiers": ""}], "note": ""}}}
+}}

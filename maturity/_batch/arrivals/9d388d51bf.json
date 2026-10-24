@@ -1,0 +1,3 @@
+{"slug": "2026-07-01-mli-contribution-citoyenne-et-si-le-mali-allait-encore-plus-loin-dans-la-d", "studies": {
+"businessregister": {"countries": {"MLI": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "Author Moctar Ousmane Sy writes that through API Mali's one-stop shop firms can pre-register online and upload scanned documents, but must still go to Bamako in person to file originals, pay and collect official documents.", "as_of": "2026-07-01", "date_precision": "day", "system": "API Mali Guichet Unique", "class": "business"}], "systems": [{"system": "API Mali Guichet Unique", "country_label": "Mali", "class": "business", "platform": "", "owner": "API Mali", "tiers": ""}], "note": ""}}}
+}}

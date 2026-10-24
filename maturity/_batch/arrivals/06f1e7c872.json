@@ -1,0 +1,9 @@
+{"slug": "2026-10-23-ken-kenya-expands-ai-training-to-strengthen-public-services-and-digital-go", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document covers AI training for public servants; states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document covers training only; no AI system in use in administration is stated."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document covers training only; no sectoral AI system is stated."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document covers training only; no AI model, dataset or computing built in Kenya is stated."}}},
+"civilserviceskills": {"countries": {"KEN": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "inservice", "fact": "The UNESCO-Oxford course on AI and Digital Transformation in Government, delivered with the Kenya School of Government, graduated 1,239 of 2,730 first-cohort public servants on 8 October 2026, per the Joint SDG Fund.", "as_of": "2026-10-08", "date_precision": "day", "system": "UNESCO-Oxford course on AI and Digital Transformation in Government", "class": "csskills"}], "systems": [{"system": "UNESCO-Oxford course on AI and Digital Transformation in Government", "country_label": "Kenya", "class": "csskills", "platform": "Kenya School of Government", "owner": "UNESCO and Kenya School of Government", "tiers": "national and county"}], "note": ""}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Training named is for public servants only, not the public."}}},
+"localgov": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on local government office connection."}}}
+}}

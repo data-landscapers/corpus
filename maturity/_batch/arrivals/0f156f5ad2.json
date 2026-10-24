@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-23-gin-ministere-de-lelevage-alpha-bacar-barry-presente-la-plateforme-ngaynaa",
+  "studies": {
+    "aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+    "aigovernment": {"countries": {"GIN": {"facts": [], "systems": [{"system": "NGAYNAAKO", "country_label": "Ministère de l'Élevage", "class": "other", "platform": "", "owner": "Ministère de l'Élevage", "tiers": ""}], "note": "AI is only stated as a means for national-language access, not as a system in use or being tested."}}},
+    "aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The livestock platform is a documents and aid portal; AI is mentioned only as a planned support, with no tool in a sector system."}}},
+    "aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in Guinea is stated."}}},
+    "censuses": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The platform is to count livestock farms; no population census or household survey is stated."}}}
+  }
+}

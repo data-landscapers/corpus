@@ -1,0 +1,8 @@
+{"slug": "2025-12-29-nga-broadband-nigeria-misses-2020-2025-target-mulls-new-2025-2030-plan", "studies": {
+"broadbandstrategy": {"countries": {"NGA": {"facts": [{"sub_indicator": "plan", "aspect": "standing", "value": "ended", "fact": "The Guardian reports that the second National Broadband Plan (2020-2025), with a 70 per cent broadband reach target, expires in two days, and NCC head Aminu Maida says engagement with the ministry on a third plan has begun.", "as_of": "2025-12-31", "date_precision": "day", "system": "Nigerian National Broadband Plan 2020-2025", "class": "plan"}], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document gives unserved-community counts but no programme or rural-urban use split."}}},
+"domesticfinancing": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states nothing on state budget money."}}},
+"gridreliability": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document gives no outage figure."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document says a draft spectrum roadmap was published but not that outsiders were asked."}}},
+"satellitebroadband": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Document states only that NCC is examining direct-to-device and low-orbit satellite use; no licence or sale."}}}
+}}

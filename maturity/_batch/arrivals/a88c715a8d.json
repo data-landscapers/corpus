@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-23-nga-nigeria-s-first-lady-lays-foundation-for-abuja-innovation-hub",
+  "studies": {
+    "nonstatefinance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The US$10.4 million JICA grant goes to the state agency NITDA's hub, and the US$50 million seed facility with NSIA is only planned."}}},
+    "startups": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NITDA's startup support programmes are stated, but no startup act or strategy, and the seed facility is only planned."}}},
+    "techhubs": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Voice of Nigeria reports First Lady Oluremi Tinubu laid the foundation stone for the Renewed Hope Startup Hub in Wuye, Abuja, built with a JICA grant of US$10.4 million and run by NITDA once complete.", "as_of": "2026-10-23", "date_precision": "day", "system": "Renewed Hope Startup Hub, Wuye, Abuja", "class": "hub"}
+    ], "systems": [{"system": "Renewed Hope Startup Hub", "country_label": "Wuye, Abuja", "class": "hub", "platform": "", "owner": "NITDA", "tiers": ""}], "note": ""}}}
+  }
+}

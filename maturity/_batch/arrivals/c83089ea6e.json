@@ -1,0 +1,12 @@
+{"slug": "2026-05-01-sen-rapport-d-achevement-de-la-phase-pilote-de-la-plateforme-appel-achats", "studies": {
+"aigovernment": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "ARCOP's pilot completion report lists an AI assistant specialised in the public procurement code and a chatbot among the support provided to users of the APPEL platform.", "as_of": "2026-05", "date_precision": "month", "system": "Assistant IA specialise CMP / chatbot APPEL", "class": "govai"}
+], "systems": [{"system": "APPEL chatbot and Assistant IA CMP", "country_label": "Senegal", "class": "govai", "platform": "APPEL", "owner": "ARCOP", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "ARCOP's pilot completion report says the APPEL platform was launched officially on 14 October 2025 and runs tender publication, electronic bid submission and electronic bid opening, with 15 electronic procedures launched, 9 of them open tenders.", "as_of": "2026-02", "date_precision": "month", "system": "APPEL (Achats Publics en Procedures Electroniques)", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "ARCOP reports 15 electronic procedures launched (9 open tenders, 6 in progress) and 45 procurement plans for 2025 and 35 for 2026 published through APPEL.", "as_of": "2026-02", "date_precision": "month", "system": "APPEL (Achats Publics en Procedures Electroniques)", "class": "procurement"}
+], "systems": [{"system": "APPEL (Achats Publics en Procedures Electroniques)", "country_label": "Senegal", "class": "procurement", "platform": "APPEL", "owner": "ARCOP", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on national ID enrolment."}}},
+"startups": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on startup law or funding."}}},
+"techhubs": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document states nothing on technology hubs."}}}
+}}

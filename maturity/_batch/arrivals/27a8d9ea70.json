@@ -1,0 +1,15 @@
+{"slug": "2026-03-02-tcd-vision-strategique-du-patn", "studies": {
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No e-procurement system is named."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+"civilserviceskills": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No training for civil servants is stated."}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on consumer rules for digital finance."}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"TCD": {"facts": [{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "The PATN project unit says its connectivity component aims to deploy 200 km of fibre and cover 500 localities with 3G/4G, including rural and peri-urban areas.", "as_of": "2026-03-02", "date_precision": "day", "system": "Projet d'Appui à la Transformation Numérique du Tchad (PATN)", "class": "ruralaccess"}], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only a national digital and financial literacy strategy is to be drawn up; no programme for the public is stated."}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Payments digitisation is named only as a framework aim, with no government payment programme."}}},
+"nonstatefinance": {"countries": {"TCD": {"facts": [], "systems": [], "note": "A PPP model is intended, but no private amount or signed deal is stated."}}},
+"offsitebackup": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Disaster recovery for public data is a stated aim only; no backup site is named."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No mobile money service is described."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No tax or fee payment system is described."}}}
+}}

@@ -1,0 +1,18 @@
+{"slug":"2025-12-31-bfa-le-burkina-faso-prevoit-109-millions-de-dollars-au-developpement-du-nu","studies":{
+"businesspayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing on e-procurement for BFA."}}},
+"centralbank":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing on the central bank for BFA."}}},
+"civilserviceskills":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Only recruitment and training of 214 IT agents is stated, which is IT staff and not civil servants generally."}}},
+"consumerprotection":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing on consumer protection for BFA."}}},
+"crossborderpayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing on cross-border payments for BFA."}}},
+"datacentres":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The five data centres acquired and the mini-datacentres are state systems with no hire to outside customers stated."}}},
+"digitaldivides":{"countries":{"BFA":{"facts":[{"sub_indicator":"ruralaccess","aspect":"programme","value":"delivering","fact":"Agence Ecofin, citing official sources, reports that of 1,700 white zones identified in Burkina Faso 183 were covered in 2022 and 138 in 2024, with 750 planned for 2025 and the 2026 work plan of the digital ministry continuing coverage of the 750 white zones.","as_of":"2024","date_precision":"year","system":"white zones coverage programme","class":"ruralaccess"}],"systems":[],"note":""}}},
+"digitalskills":{"countries":{"BFA":{"facts":[{"sub_indicator":"publicskills","aspect":"training","value":"underway","fact":"Agence Ecofin reports that the digital ministry's 2025 results included strengthening the digital skills of 169 young girls.","as_of":"2025","date_precision":"year","system":"","class":"publicskills"}],"systems":[],"note":""}}},
+"egovservices":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Only support to dematerialise 100 procedures is planned for 2026, with no service launched or piloted stated."}}},
+"fibrebackbone":{"countries":{"BFA":{"facts":[{"sub_indicator":"backbone","aspect":"reach","value":"building","fact":"Agence Ecofin reports that in 2025 the national fibre optic network was extended to more than 11,292 km, with a further 270 km of fibre planned for 2026 in the digital ministry's work plan.","as_of":"2025","date_precision":"year","system":"national fibre optic network","class":"backbone"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing on government payments to people for BFA."}}},
+"internetusage":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The only usage figure is ITU internet penetration of 17% for 2023, outside the 2024 window."}}},
+"nationaldatacentres":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The five data centres acquired are not stated to be for hire or to host state data."}}},
+"paymentsuptake":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document gives no account survey for BFA."}}},
+"retailpayments":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing on mobile money for BFA."}}},
+"revenuecollection":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing on electronic tax payment for BFA."}}}
+}}

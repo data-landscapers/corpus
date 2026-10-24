@@ -1,0 +1,10 @@
+{"slug": "2026-10-23-xss-africa-emerges-as-d2d-satellite-battleground", "studies": {
+"digitaldivides": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "Starlink Mobile is a commercial operator launch, not a government rural programme."},
+"SEN": {"facts": [], "systems": [], "note": "Only that Senegal initially sought satellite to connect one million citizens; no programme launched or funded is stated."},
+"ZAF": {"facts": [], "systems": [], "note": "Not mentioned by name."}}},
+"satellitebroadband": {"countries": {
+"COD": {"facts": [], "systems": [{"system": "Starlink Mobile", "country_label": "Democratic Republic of the Congo", "class": "other", "platform": "Starlink", "owner": "Airtel Africa", "tiers": ""}], "note": "Direct-to-phone service, not satellite broadband for households."},
+"SEN": {"facts": [{"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "ITWeb Africa reports that Starlink's fixed satellite internet licence in Senegal was provisionally suspended after a challenge by Sonatel.", "as_of": "2026-10-23", "date_precision": "day", "system": "Starlink", "class": "satellite"}], "systems": [], "note": ""},
+"ZAF": {"facts": [], "systems": [], "note": "Not mentioned by name."}}}
+}}

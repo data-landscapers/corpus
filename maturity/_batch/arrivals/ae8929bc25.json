@@ -1,0 +1,15 @@
+{
+  "slug": "2024-08-07-mus-the-anti-money-laundering-and-combatting-the-financing-of-terrorism-an",
+  "studies": {
+    "authentication": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "businessregister": {"countries": {"MUS": {"facts": [], "systems": [{"system": "Beneficial Ownership Register", "country_label": "Registrar of Companies", "class": "other", "platform": "", "owner": "Registrar of Companies", "tiers": ""}], "note": "The Act passed 18 July 2024 requires the Registrar to keep a beneficial ownership register, but the source does not say it is in service or that the business register is digital or online."}}},
+    "idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The beneficial owner register is to hold a National Identification Number as a data field; no register is keyed on the ID number and none is stated in service."}}},
+    "idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "internationalstandards": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only AML/CFT international standards are mentioned, not information technology or data standards."}}},
+    "police": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The police appear only as a competent authority with access to the register."}}}
+  }
+}

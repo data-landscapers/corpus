@@ -1,0 +1,8 @@
+{"slug": "2025-11-04-bwa-dailynews-tax-reforms-e-vat-invoicing", "studies": {
+"businesspayments": {"countries": {"BWA": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "none", "fact": "Finance Minister Ndaba Gaolathe told Parliament that the manual procurement system would be substituted with an e-procurement procedure, and Public Procurement Regulatory Authority IT systems would be developed.", "as_of": "2025-10-31", "date_precision": "day", "system": "", "class": "procurement"}], "systems": [], "note": ""}}},
+"coresystems": {"countries": {"BWA": {"facts": [], "systems": [{"system": "GABS and FMIS", "country_label": "Government Accounting and Budgeting System; Financial Management Information System", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "Revamp is a plan; the source does not state the systems' use."}}},
+"publicconsultation": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No consultation mentioned."}}},
+"revenuecollection": {"countries": {"BWA": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Finance Minister Ndaba Gaolathe told Parliament of the implementation of an electronic VAT invoicing and monitoring system and a modernised Botswana Unified Revenue Service VAT system.", "as_of": "2025-10-31", "date_precision": "day", "system": "electronic VAT invoicing and monitoring system", "class": "revenue"}], "systems": [], "note": ""}}},
+"startups": {"countries": {"BWA": {"facts": [], "systems": [], "note": "No startup law or label stated."}}},
+"techhubs": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Bank of Botswana innovation hub is a planned fintech hub, not a stated tech hub in service."}}}
+}}

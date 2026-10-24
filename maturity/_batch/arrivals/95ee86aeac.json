@@ -1,8 +1,3 @@
 {"slug": "2026-10-22-gab-artac-libreville-acte-une-reforme-importante-et-accueille-sa", "studies": {
-"regionallaw": {"countries": {
-"GAB": {"facts": [], "systems": [], "note": "ARTAC statutes are the body's own rules, not shared digital law taken into national law."},
-"STP": {"facts": [], "systems": [], "note": "Accession to ARTAC is a membership, not a signed or ratified legal text."}}},
-"regionalpolicy": {"countries": {
-"GAB": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Gabon hosted in Libreville the fourth extraordinary session of ARTAC, the Central African telecoms regulators' assembly, which closed on 21 October 2026, according to GabonReview.", "as_of": "2026-10-21", "date_precision": "day", "system": "ARTAC", "class": "cooperation"}], "systems": [], "note": ""},
-"STP": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Sao Tome and Principe's regulator AGER joined ARTAC, the Central African telecoms regulators' assembly, at its Libreville session closing on 21 October 2026, making eight members, according to GabonReview.", "as_of": "2026-10-21", "date_precision": "day", "system": "ARTAC", "class": "cooperation"}], "systems": [], "note": ""}}}
+"datatransfers": {"countries": {"STP": {"facts": [], "systems": [], "note": "Only accession to the regional regulators' assembly ARTAC; nothing on a rule for sending data abroad."}}}
 }}

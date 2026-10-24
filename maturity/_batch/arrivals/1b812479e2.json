@@ -1,0 +1,27 @@
+{"slug": "2023-11-03-tun-arp-commission-administration-audition-e-administration", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on authentication, e-signature or PKI; the 13% digital identity figure is not a service."}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"businesspayments": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Government representatives told parliament's administration committee that the public procurement system is online, with more than 27,700 bids registered online and 15,500 suppliers and contractors.", "as_of": "2023-11-03", "date_precision": "day", "system": "online public procurement system (TUNEPS)", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "endtoend", "value": "endtoend", "fact": "Government representatives said the online public procurement system was adopted gradually from 2012 to 2014, tested, then made general and compulsory for all ministries and public institutions in 2019.", "as_of": "2019", "date_precision": "year", "system": "online public procurement system (TUNEPS)", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "Government representatives gave a figure of more than 27,700 bids registered on the online public procurement system, with 15,500 suppliers and 1,441 public buyers registered.", "as_of": "2023-11-03", "date_precision": "day", "system": "online public procurement system (TUNEPS)", "class": "procurement"}
+], "systems": [{"system": "online public procurement system (TUNEPS)", "country_label": "Tunisia", "class": "procurement", "platform": "", "owner": "Presidency of the Government", "tiers": ""}], "note": ""}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on digital financial consumer protection."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"egovservices": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Government representatives listed public systems online, including the Allysa system, public procurement and school and university registration, plus the Tunisian government portal; no count of services is given.", "as_of": "2023-11-03", "date_precision": "day", "system": "Tunisian government portal", "class": "eservices"}
+], "systems": [{"system": "Tunisian government portal", "country_label": "Tunisia", "class": "eservices", "platform": "", "owner": "Presidency of the Government", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The 13% of citizens with a digital identity is not a count of people enrolled in the national ID."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}},
+"opendatapolicy": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A national open data portal is named but no policy behind it."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"police": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on police."}}},
+"publicconsultation": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A national public participation portal is named, but no named digital law or policy put to outside views."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "An e-payment system is announced for end 2023 without naming taxes or fees."}}}
+}}

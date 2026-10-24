@@ -1,0 +1,23 @@
+{"slug": "2026-10-21-gha-sam-george-announces-national-data-exchange-hub-to-connect-48-public-r", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI in a sector system."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "AI is mentioned only as a potential use of the hub."}}},
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The hub would link registries including the NIA and Births and Deaths Registry, but no link between them is stated as planned, contracted or piloted."}}},
+"dataexchange": {"countries": {"GHA": {"facts": [{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "Communications minister Samuel Nartey George said on 2026-10-21 that the government is building a single national backbone, a national data exchange hub, to connect 48 public registries including the National Identification Authority, Ghana Statistical Service, Births and Deaths Registry and Ghana Police Service.", "as_of": "2026-10-21", "date_precision": "day", "system": "national data exchange hub", "class": "exchange"}], "systems": [{"system": "national data exchange hub", "country_label": "National data exchange hub", "class": "exchange", "platform": "", "owner": "Ministry of Communication, Digital Technology and Innovations", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Registries keep their data, but no rule or plan on national control of state data is stated."}}},
+"fibrebackbone": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on fibre; the backbone named is a data exchange backbone."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No register is said to be keyed on the national ID number."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on the ID system's build or security."}}},
+"interoperability": {"countries": {"GHA": {"facts": [], "systems": [], "note": "NITA standards on data classification are announced only; no framework is said to be drafted."}}},
+"interoperabilitylaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No law or decree on data sharing is mentioned."}}},
+"interoperabilitystandards": {"countries": {"GHA": {"facts": [], "systems": [], "note": "NITA is said to be going to introduce data-classification standards, with no drafting stated."}}},
+"itcapacity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government IT staff."}}},
+"police": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Police Service is named only as a registry the hub would connect; no station record is stated."}}},
+"registry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on civil registration offices entering events digitally."}}},
+"socialexchange": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No social protection system is named."}}}
+}}

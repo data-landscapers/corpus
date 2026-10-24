@@ -1,0 +1,63 @@
+{
+ "slug": "2026-02-17-ken-huduma-kenya-clarifies-end-of-physical-business-certificates-after-eci",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "Kenyans.co.ke reports the Business Registration Service launched its BRS Version II online portal on eCitizen on 16 February 2026 for company changes, and digital downloadable certificates have replaced physical ones.",
+       "as_of": "2026-02-16",
+       "date_precision": "day",
+       "system": "BRS Version II portal on eCitizen",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BRS Version II",
+       "country_label": "Kenya",
+       "class": "business",
+       "platform": "eCitizen",
+       "owner": "Business Registration Service",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Kenyans.co.ke reports Huduma Kenya's statement that business registration certificates are now issued and downloaded through the BRS section of the eCitizen platform.",
+       "as_of": "2026-02-17",
+       "date_precision": "day",
+       "system": "eCitizen",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eCitizen",
+       "country_label": "Kenya",
+       "class": "eservices",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

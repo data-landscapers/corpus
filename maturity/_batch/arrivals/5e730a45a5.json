@@ -1,0 +1,15 @@
+{"slug": "2026-10-22-gha-bank-of-ghana-pushes-for-seamless-african-cross-border-payments-channe", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Bank of Ghana's head of fintech says the Bank established GhIPSS in 2007 as a neutral, interoperable national payment infrastructure, publicly owned, connecting banks, mobile money operators and other payment service providers.", "as_of": "2026-10-22", "date_precision": "day", "system": "Ghana Interbank Payment and Settlement Systems (GhIPSS)", "class": "oversight"}],
+"systems": [{"system": "Ghana Interbank Payment and Settlement Systems (GhIPSS)", "country_label": "Ghana", "class": "oversight", "platform": "", "owner": "Bank of Ghana", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The Bank of Ghana states a wish for GhIPSS to be the gateway for regional links; no corridor or regional system in service is stated."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The Bank of Ghana's head of fintech says GhIPSS has supported connectivity among banks, mobile money operators and other payment service providers.", "as_of": "2026-10-22", "date_precision": "day", "system": "Ghana Interbank Payment and Settlement Systems (GhIPSS)", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The Bank of Ghana's head of fintech describes GhIPSS as the national interoperable payment infrastructure linking banks and mobile money operators.", "as_of": "2026-10-22", "date_precision": "day", "system": "Ghana Interbank Payment and Settlement Systems (GhIPSS)", "class": "retail"}],
+"systems": [{"system": "Ghana Interbank Payment and Settlement Systems (GhIPSS)", "country_label": "Ghana", "class": "retail", "platform": "", "owner": "Bank of Ghana", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}}
+}}

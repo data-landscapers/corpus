@@ -1,4 +1,4 @@
 {"slug": "2026-08-31-syc-supplementary-budget-allocation-2026-companion", "studies": {
-"itcapacity": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Budget page; a wage cut for unfilled posts at the ICT department says nothing of who runs or builds systems."}}},
-"revenuecollection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Names only a budget cut for a delayed e-invoicing system; no electronic payment piloted, contracted or in service stated."}}}
+"egovservices": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Only budget cuts for delayed HRMS and e-invoicing projects; no online service stated."}}},
+"taxadmin": {"countries": {"SYC": {"facts": [], "systems": [], "note": "A cut for a delayed e-invoicing management system is not a filing or payment system."}}}
 }}

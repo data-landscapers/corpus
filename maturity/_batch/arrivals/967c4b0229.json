@@ -1,0 +1,5 @@
+{"slug": "2026-10-21-zaf-before-south-africa-licenses-starlink-it-should-look-at-ukraine", "studies": {
+"satellitebroadband": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "TechCentral's editor writes that Eutelsat's OneWeb is available in South Africa through local resellers, while Starlink is still unlicensed.", "as_of": "2026-10-21", "date_precision": "day", "system": "OneWeb", "class": "satellite"}
+], "systems": [{"system": "OneWeb", "country_label": "South Africa", "class": "satellite", "platform": "", "owner": "Eutelsat", "tiers": ""}, {"system": "Amazon Leo (via Herotel Evry)", "country_label": "South Africa", "class": "other", "platform": "", "owner": "Amazon", "tiers": "commercial launch expected 2027"}], "note": ""}}}
+}}

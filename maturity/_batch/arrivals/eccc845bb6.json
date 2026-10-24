@@ -1,0 +1,14 @@
+{
+  "slug": "2026-02-10-nga-cac-ai-rollout-boosts-daily-business-registrations-to-10k",
+  "studies": {
+    "aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+    "aigovernment": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Punch reports the Corporate Affairs Commission has fully deployed AI across its service platforms and launched on its website an AI Lawyer answering questions on CAC laws and procedures and an AI Name Generator, the Registrar-General said.", "as_of": "2026-02-09", "date_precision": "day", "system": "CAC AI Lawyer and AI Name Generator", "class": "govai"}
+    ], "systems": [{"system": "CAC AI-driven portal (AI Lawyer, AI Name Generator)", "country_label": "Corporate Affairs Commission", "class": "govai", "platform": "www.cac.gov.ng", "owner": "Corporate Affairs Commission", "tiers": ""}], "note": ""}}},
+    "aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The AI tools serve company registration, general administration, not a listed sector system."}}},
+    "aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A Letter of Collaboration with Google is signed; no AI model, dataset or computing built or hosted in Nigeria is stated."}}},
+    "businessregister": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "The Registrar-General said CAC operates as a fully digital, end-to-end registry accessible 24 hours a day, receiving close to 10,000 business registration requests daily.", "as_of": "2026-02-09", "date_precision": "day", "system": "Corporate Affairs Commission registry portal", "class": "business"}
+    ], "systems": [{"system": "CAC registry portal", "country_label": "Corporate Affairs Commission", "class": "business", "platform": "www.cac.gov.ng", "owner": "Corporate Affairs Commission", "tiers": ""}], "note": ""}}}
+  }
+}

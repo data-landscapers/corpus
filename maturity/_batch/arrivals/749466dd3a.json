@@ -1,0 +1,4 @@
+{"slug": "2026-10-21-lso-the-government-of-lesotho-remains-committed-to-strengthening-secure-da", "studies": {
+"dataexchange": {"countries": {"LSO": {"facts": [{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "The Ministry of ICT (MICSTI) with UNICEF Lesotho held a workshop on 20-23 October 2026 in Berea to plan an X-Road pilot, assess ministries' readiness to join the National Data Exchange and set an implementation roadmap.", "as_of": "2026-10-20", "date_precision": "day", "system": "National Data Exchange (X-Road)", "class": "exchange"}], "systems": [{"system": "National Data Exchange", "country_label": "National Data Exchange", "class": "exchange", "platform": "X-Road", "owner": "MICSTI", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Data protection safeguards are named only as part of a roadmap; no law is mentioned."}}}
+}}

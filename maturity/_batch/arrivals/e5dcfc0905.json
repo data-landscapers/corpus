@@ -1,0 +1,169 @@
+{
+ "slug": "2026-01-13-tun-arrete-beneficiaire-effectif-procedure-acces",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "owners",
+       "value": "recorded",
+       "fact": "The Presidency of the Government decree of 13 January 2026 says the Centre national du registre des entreprises makes beneficial-owner information on legal persons and arrangements available in real time to competent authorities and via its digital platform to obliged entities and, on legitimate interest, the public.",
+       "as_of": "2026-01-13",
+       "date_precision": "day",
+       "system": "Registre national des entreprises",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registre national des entreprises",
+       "country_label": "Tunisia",
+       "class": "business",
+       "platform": "CNRE digital platform",
+       "owner": "Centre national du registre des entreprises",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about TUN."
+    }
+   }
+  }
+ }
+}

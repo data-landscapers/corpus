@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-21-som-nira-deputy-director-general-visits-refugee-commission-returnee-registration",
+  "studies": {
+    "authentication": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No count or share of the population enrolled is given."}}},
+    "idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idrobustness": {"countries": {"SOM": {"facts": [
+      {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIRA says it, with the National Commission for Refugees and IDPs, enrolled Somali citizens returning from Yemen for the national ID, at the commission's centre visited by its Deputy Director General.", "as_of": "2026-10-21", "date_precision": "day", "system": "NIRA national identification registration", "class": "idsystem"}
+    ], "systems": [{"system": "National ID registration", "country_label": "NIRA", "class": "idsystem", "platform": "", "owner": "National Identification and Registration Authority", "tiers": ""}], "note": ""}}},
+    "refugees": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The people enrolled are Somali citizens returning from Yemen (returnees), not refugees or internally displaced people."}}}
+  }
+}

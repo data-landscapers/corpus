@@ -1,0 +1,7 @@
+{"slug": "2024-08-01-ner-feriji-a-french-zarma-parallel-corpus-glossary-translator", "studies": {
+"aiabuse": {"countries": {"NER": {"facts": [], "systems": [], "note": "Research paper; nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"NER": {"facts": [], "systems": [], "note": "No government body using AI is stated."}}},
+"aisectoral": {"countries": {"NER": {"facts": [], "systems": [], "note": "No public sector system using AI is stated."}}},
+"aistrategy": {"countries": {"NER": {"facts": [], "systems": [], "note": "No national AI strategy is mentioned."}}},
+"aisystems": {"countries": {"NER": {"facts": [], "systems": [], "note": "Abstract does not say the corpus or models were built or hosted in Niger."}}}
+}}

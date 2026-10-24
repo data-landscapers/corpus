@@ -1,0 +1,13 @@
+{"slug": "2026-10-22-dji-rtd-colloque-commande-publique-dikhil-e-procurement", "studies": {
+"aiabuse": {"countries": {"DJI": {"facts": [], "systems": [], "note": "AI is only listed as a colloquium topic."}}},
+"aigovernment": {"countries": {"DJI": {"facts": [], "systems": [], "note": "AI is only listed as a colloquium topic."}}},
+"aisectoral": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on sector AI tools."}}},
+"aisystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
+"authentication": {"countries": {"DJI": {"facts": [], "systems": [], "note": "E-signature is only a planned step for 2026-2028 in procurement, with no service stated."}}},
+"businesspayments": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "The state broadcaster RTD reported that the electronic public procurement portal, launched in May 2023, publishes tenders and results, lets users consult files and gives access to the procurement commission's annual reports.", "as_of": "2026-10-22", "date_precision": "day", "system": "Portail électronique des marchés publics", "class": "procurement"},
+{"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "RTD reported that since 2021 the electronic procurement portal lists 1,300 published contracts and 1,227 recorded awards.", "as_of": "2026-10-22", "date_precision": "day", "system": "Portail électronique des marchés publics", "class": "procurement"}],
+"systems": [{"system": "Portail électronique des marchés publics", "country_label": "Electronic public procurement portal", "class": "procurement", "platform": "portal", "owner": "Commission nationale des marchés publics", "tiers": ""}], "note": ""}}},
+"ecommercelaw": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No law on electronic transactions is stated."}}},
+"localgov": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing on local government office connections."}}}
+}}

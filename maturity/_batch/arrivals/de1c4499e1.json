@@ -1,0 +1,43 @@
+{
+ "slug": "2025-06-03-mrt-world-bank-supports-mauritania-with-50-million-to-enhance-public-spend",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The World Bank says its USD 50 million financing approved 3 June 2025 will support deployment of Mauritania's e-GP system, developed under the Digital Transformation for Africa Program.",
+       "as_of": "2025-06-03",
+       "date_precision": "day",
+       "system": "electronic government procurement (e-GP) system",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP system",
+       "country_label": "Mauritania",
+       "class": "procurement",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing this study asks."
+    }
+   }
+  }
+ }
+}

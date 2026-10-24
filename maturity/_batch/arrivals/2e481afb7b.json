@@ -1,0 +1,22 @@
+{"slug": "2026-10-23-cmr-yaounde-declaration-targets-100-local-hosting-of-critical-government-d", "studies": {
+"aiabuse": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a rule or authority against AI harms in Cameroon."}}},
+"aigovernment": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on AI used in Cameroonian administration."}}},
+"aisectoral": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on sectoral AI in Cameroon."}}},
+"aisystems": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on AI models, datasets or AI computing in Cameroon."}}},
+"datacentres": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Business in Cameroon says Camtel runs a data center at Zamengoé near Yaoundé that offers local hosting services, and ST Digital runs one in Douala serving businesses and government agencies.", "as_of": "2026-10-23", "date_precision": "day", "system": "Camtel data center, Zamengoé", "class": "datacentre"}],
+"systems": [
+{"system": "Camtel data center, Zamengoé", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "Camtel (state-owned)", "tiers": ""},
+{"system": "ST Digital data center, Douala", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "ST Digital", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "Business in Cameroon says Cameroon adopted a personal data protection law on 23 December 2024 that regulates the processing of personal information, including international transfers.", "as_of": "2024-12-23", "date_precision": "day", "system": "personal data protection law of 23 December 2024", "class": "general"}],
+"systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The 100% local hosting target is a non-binding continental recommendation; no Cameroonian government goal, rule or hosting of state data is stated."}}},
+"egovservices": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on services online in Cameroon."}}},
+"nationaldatacentres": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "Business in Cameroon says state-owned Camtel runs a data center at Zamengoé near Yaoundé that offers local hosting services.", "as_of": "2026-10-23", "date_precision": "day", "system": "Camtel data center, Zamengoé", "class": "datacentre"},
+{"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "Business in Cameroon describes Camtel, which runs the Zamengoé data center, as a state-owned telecommunications operator.", "as_of": "2026-10-23", "date_precision": "day", "system": "Camtel data center, Zamengoé", "class": "datacentre"}],
+"systems": [{"system": "Camtel data center, Zamengoé", "country_label": "Cameroon", "class": "datacentre", "platform": "", "owner": "Camtel (state-owned)", "tiers": ""}], "note": ""}}},
+"nonstatefinance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No private amount stated; the declaration identifies no funding allocation for Cameroon."}}},
+"regionalpolicy": {"countries": {"CMR": {"facts": [], "systems": [], "note": "The declaration was adopted at a conference run by private organisers; no Cameroonian government act or African body membership is stated."}}}
+}}

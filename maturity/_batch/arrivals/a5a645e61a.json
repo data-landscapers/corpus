@@ -1,0 +1,9 @@
+{"slug": "2025-04-01-sen-e-ninea", "studies": {
+"authentication": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only an account login to a business number portal; no identity authentication service."}}},
+"birthidlink": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about the business number, not civil register or ID links."}}},
+"idcoverage": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about the business number."}}},
+"idfrombirth": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about the business number."}}},
+"idmaintenance": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about the business number."}}},
+"idregisters": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The business number NINEA is not the national ID number."}}},
+"idrobustness": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Document is about the business number."}}}
+}}
