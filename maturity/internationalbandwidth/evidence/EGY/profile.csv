@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,routes,routes,coverage,independent,2025-01,EGY-012,EGY-018=two;EGY-003=two;EGY-004=two;EGY-011=two;EGY-016=one;EGY-006=one;EGY-007=one;EGY-001=one;EGY-015=two;EGY-002=one;EGY-005=one;EGY-017=two;EGY-008=two;EGY-014=two;EGY-010=one,
+EGY,routes,routes,coverage,independent,2025-01,EGY-012,EGY-018=two;EGY-019=one;EGY-003=two;EGY-004=two;EGY-011=two;EGY-016=one;EGY-006=one;EGY-007=one;EGY-001=one;EGY-015=two;EGY-002=one;EGY-005=one;EGY-017=two;EGY-008=two;EGY-014=two;EGY-010=one,
 EGY,routes,access,coverage,open,2025-01,EGY-009;EGY-013,,

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-16-bwa-bocra-annual-report-2025-companion",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The BOCRA annual report 2025 says Botswana's national CSIRT sits inside BOCRA, was established in 2020 and is funded from the Authority's own resources.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "BOCRA national CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BOCRA national CSIRT",
+   "country_label": "BWA",
+   "class": "response",
+   "platform": "",
+   "owner": "Botswana Communications Regulatory Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

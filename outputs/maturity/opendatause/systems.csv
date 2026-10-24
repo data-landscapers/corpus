@@ -223,12 +223,14 @@ NGA,Nigerian Open Contracting Portal (NOCOPO),"Nigerian Open Contracting Portal 
 NGA,Beneficial Ownership Register,Nigeria Beneficial Ownership Register,other,,,,2026-04-28-ogp-nigeria-results-report-2023-2025
 NGA,Nigerian Data Exchange Platform (NGDX),NGDX,other,,NITDA / Federal Ministry of Digital Economy,,2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy
 NGA,Nigerian Data Exchange (NGDX),NGDX,other,,NITDA,,2025-03-17-nitda-dpi-technical-standards-draft-v1-3
+RWA,Umucyo OCDS portal,ocds.umucyo.gov.rw/OpenData,open,OCDS,Rwanda Public Procurement Authority,,2026-10-01-rwa-rwanda-public-procurement-authority-rppa
 SDN,Open Data Inventory (ODIN),Open Data Inventory,other,,Open Data Watch,,2023-12-19-sudan-state-of-land-information-soli
 SEN,ANADS (Archivage national des données du Sénégal),"ANADS data catalogue, anads.ansd.sn",open,,ANSD,,2026-09-03-anads-ansd-catalogue-de-donnees-vues-licences
 SEN,ANSD Open Data Platform (ODP) 2.0,ANSD Open Data Platform 2.0,open,,ANSD,,2026-06-25-aps-ansd-open-data-platform-2-0-louga
 SEN,Géoportail Géo Sénégal,"Géo Sénégal, www.geosenegal.gouv.sn",open,,Sénégal Numérique SA,,2025-11-13-geosenegal-lancement-geoportail-information-geospatiale
 SEN,"ANADS (Archivage national des données du Sénégal), ANSD catalogue",http://anads.ansd.sn,other,NADA/DDI catalogue,Agence nationale de la Statistique et de la Démographie (ANSD),,2025-10-07-anads-ansd-rnu-2025-enquete-mise-a-jour-extension
 SEN,Digital Earth Africa,Digital Earth Africa (Open Data on AWS Registry),other,AWS Registry of Open Data,Digital Earth Africa (continental programme),,2026-08-19-digital-earth-africa-aws-satellite-data
+SEN,Données Ouvertes ITIE Sénégal,Senegal,open,,ITIE Sénégal,,2026-03-01-sen-eiti-country-page-senegal
 SLE,Stats SL Microdata Catalog (Annual Agricultural Survey 2023),microdata.statistics.sl,other,,Statistics Sierra Leone,,2025-11-28-sierra-leone-statsl-annual-agricultural-survey-2023-public-use-file
 SLE,Open Data Portal for Sierra Leone (www.opendatasl.gov.sl),Open Data Portal for Sierra Leone,other,,Right to Access Information Commission (overall management) with the Ministry of Information and Communications (technical guidance),national,2017-01-18-sierra-leone-raic-open-data-programme
 SLE,Government of Sierra Leone Online Repository,Government of Sierra Leone Online Repository (mining cadastre data); http://www.nma.gov.sl/resourcecontracts/ for contracts,open,,Government of Sierra Leone,,2016-01-01-sierra-leone-sleiti-open-data-policy
@@ -309,6 +311,7 @@ ZAF,City of Tshwane Open Data Portal,City of Tshwane Open Data Portal,open,,City
 ZAF,Enterprise Data and Analytics Platform,Tshwane Enterprise Data and Analytics Platform,other,,City of Tshwane with CSIR,,2026-10-02-zaf-citizen-tshwane-data-platform-csir
 ZAF,Service Delivery War Room dashboard,Tshwane Service Delivery War Room dashboard,other,,City of Tshwane,,2026-09-29-zaf-gautengnews-tshwane-data-analytics-platform-dashboard-internal
 ZAF,Enterprise Data and Analytics Platform,Tshwane Enterprise Data and Analytics Platform,other,,City of Tshwane with CSIR,,2026-09-29-zaf-gautengnews-tshwane-data-analytics-platform-dashboard-internal
+ZAF,eTenders OCDS publication,eTender Publications Portal (data.etenders.gov.za),open,,"National Treasury, OCPO",,2026-09-01-zaf-ocp-registry-south-africa-national-treasury
 ZMB,ZNSDI national geoportal,Zambia National Spatial Data Infrastructure geoportal,open,GeoNetwork (open source),Electronic Government Division (SMART Zambia),,2026-06-18-zambia-launches-znsdi-policy-geoportal
 ZMB,Zamportal,Zamportal,other,,Electronic Government Division,,2023-08-17-national-electronic-government-plan-2023-2026-zambia
 ZMB,Zambia National Research Repository (ZNRR),Zambia National Research Repository (no address given),other,,Ministry of Finance and National Planning; ZamStats; UNICEF,,2026-09-17-zmb-efficacynews-finance-ministry-zamstats-unicef-national-research-repository

@@ -23,10 +23,10 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 4 |
-| 2 Nascent | 32 |
+| 2 Nascent | 33 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
-| No evidence | 15 |
+| No evidence | 14 |
 
 ## Countries
 
@@ -285,6 +285,12 @@ In 2025 and 2026 the telecommunications regulator put fibre-sharing rules out fo
 - The Presidency of the Government's E-Government Unit co-created Tunisia's 2023-2025 open government action plan, whose commitments cover open data and digitalization of administrative services, through three regional workshops in Gafsa, Kairouan and Kef and over 320 proposals collected via a digital participation portal, workshops, email and public structures; the Tunisian Civil Forum for OGP took part. Dated by the report's publication, as it gives no date for the co-creation ([source, 2026-08-04](https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/)).
 - The Instance Nationale des Télécommunications (INT) opened a second public consultation on the rules for sharing fibre-optic access infrastructure from 6 March to 2 April 2026, open to any contributor to answer by email or post ([source, 2026-03-06](https://www.intt.tn/fr/index.php?actu=1060&typeactu=89)).
 
+### Uganda: 2 Nascent
+
+Industry was consulted on draft ICT infrastructure guidelines in 2025; whether what they said was published is not known.
+
+- The Ministry of ICT and National Guidance held a validation workshop on 4 June 2025 on draft guidelines for ICT infrastructure in buildings, roads and transport, with private telecom industry and professional bodies taking part, after stakeholder consultations in 2024/25 ([source, 2025-06-04](https://ict.go.ug/media/news/advancing-ict-infrastructure-standards-through-stakeholder-collaboration)).
+
 ### Zimbabwe: 2 Nascent
 
 In 2025 the ICT ministry consulted academia, business and civil society on its draft artificial intelligence strategy; whether a report was published is not known.
@@ -365,12 +371,6 @@ Nothing held shows people outside government were asked about a digital law or p
 Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
 
 ### Sudan: No evidence
-
-Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
-
-Not established: Nothing held says people outside government were asked for their views on a digital law or policy, or that they were not.
-
-### Uganda: No evidence
 
 Nothing held shows people outside government were asked about a digital law or policy, so no stage is set.
 

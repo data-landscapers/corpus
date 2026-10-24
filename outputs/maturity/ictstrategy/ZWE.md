@@ -4,7 +4,7 @@
 
 **Governance and finance.** The 2022 text of the National ICT Policy 2022-2027 [names the Ministry of ICT, Postal and Courier Services as coordinator](<https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf>), with a National ICT Policy Advisory Council led by the Minister and a Policy Implementation Secretariat, and [ties no budget line or amount to the policy](<https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf>).
 
-**Standing.** The policy [carries a presidential foreword and replaces the policy of 2016-2020](<https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf>), and Cabinet's briefing of 14 July 2026 [names it among the frameworks of the national digital agenda](<https://veritaszim.net/sites/veritas_d/files/23rd%20Press%20brief_0.pdf>).
+**Standing.** The policy [carries a presidential foreword and replaces the policy of 2016-2020](<https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf>), the ICT minister [launched it on 7 March 2024](<https://gemnation.co.zw/mavetera-launches-ict-policies/>), and Cabinet's briefing of 14 July 2026 [names it among the frameworks of the national digital agenda](<https://veritaszim.net/sites/veritas_d/files/23rd%20Press%20brief_0.pdf>).
 
 **Text.** The [full text of the policy](<https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf>), published in 2022, is public.
 
@@ -18,4 +18,4 @@
 
 ***Noted, not assessed***. [National Digital Roadmap 2026-2030](<https://techreviewafrica.com/public/news/3036/zimbabwe-opens-potraz-strategic-workshop-to-shape-2026-2030-national-digital-roadmap>); [National Development Strategy 2 (2026-2030)](<https://www.zanupf.org.zw/index.php/news/nds-2>); [National Development Strategy 1](<https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf>); [Ministry of Home Affairs integrated ICT strategy](<https://www.heraldonline.co.zw/zrp-pilots-digital-crime-reporting-system-developed-by-harare-institute-of-technology-at-warren-park-police-station/>).
 
-***Not held***. No report, review or evaluation against the policy's targets is held, and no adoption date is stated. The policy's bodies and finance are known only from the 2022 text, and nothing held gives the standing or text of the ICT Policy 2026-2030.
+***Not held***. No report, review or evaluation against the policy's targets is held, and no adopting act is named. The policy's bodies and finance are known only from the 2022 text, and nothing held gives the standing or text of the ICT Policy 2026-2030.

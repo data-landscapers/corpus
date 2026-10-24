@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-dza-algerie54-solidarite-plateforme-suivi-investissements",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry of National Solidarity communique says the investment-tracking platform launched on 2026-10-20 carries out the action plan of the National Digital Transformation Strategy, on the President's instructions.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "Stratégie nationale de transformation numérique",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

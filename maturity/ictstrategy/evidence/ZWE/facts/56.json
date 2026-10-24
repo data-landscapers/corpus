@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-08-zwe-mavetera-launches-ict-policies",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ICT Minister Tatenda Mavetera launched the reviewed Zimbabwe National Policy for ICT, covering 2022 to 2027, on 7 March 2024 at Somabula.",
+   "as_of": "2024-03-07",
+   "date_precision": "day",
+   "system": "Zimbabwe National Policy for Information Communication Technology (2022-2027)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2027",
+   "fact": "The reviewed Zimbabwe National Policy for ICT launched on 7 March 2024 covers the period 2022 to 2027, per the ICT ministry.",
+   "as_of": "2024-03-07",
+   "date_precision": "day",
+   "system": "Zimbabwe National Policy for Information Communication Technology (2022-2027)",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Zimbabwe 2030 Master Plan",
+   "country_label": "ZWE",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

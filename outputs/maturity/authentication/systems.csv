@@ -480,6 +480,7 @@ MWI,NRB eKYC database and ID/Account Mapper,Malawi,authentication,,National Regi
 MWI,National Switch Limited,Malawi,other,,,,2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity
 MWI,NRB identity verification service,Malawi,authentication,"national ID card QR code, offline tool, fingerprint reader",National Registration Bureau,,2024-07-20-mwi-making-national-id-work-beyond-voter-registration
 MWI,National Registration Information System,NRIS,authentication,"NRB middleware, signed QR code",National Registration Bureau,,2025-01-01-mwi-national-registration-bureau-evolution-of-the-national-registration-bu
+MWI,Malawi Business Registration System,Malawi,other,,"Companies, Registrations and Intellectual Property Centre",,2026-05-29-mwi-minister-of-justice-urges-professionalism
 NAM,Electronic identity (E-ID) card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security; Office of the Prime Minister",,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,Social grants identity verification,Namibia,other,,,,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,NPRS-social protection integration,Namibia,other,National Population Registration System,"Ministry of Home Affairs, Immigration, Safety and Security; Ministry of Gender Equality, Poverty Eradication and Social Welfare",,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
@@ -580,6 +581,7 @@ SEN,GovStack,Senegal,other,"platform for over 800 administrative procedures, pre
 SEN,Maa ngi nii (pdv.ipres.sn),Senegal,other,digital proof-of-life platform,IPRES,,2026-07-01-aps-ipres-maa-ngi-nii-preuve-de-vie-cni-cedeao
 SEN,Electoral register (listes électorales),Senegal,other,,State electoral administration,,2016-09-29-decret-2016-1536-carte-identite-biometrique-cedeao-nin
 SEN,APPEL,Senegal,other,e-procurement platform,ARCOP,,2025-10-17-sen-arcop-appel-le-clic-de-la-transparence
+SEN,Seninfogreffe,Seninfogreffe,other,Gainde 2000 architecture,RCCM registry,national,2023-12-22-sen-portail-web-interactif-d-informations-sur-la-vie-des-entreprises-senin
 SLE,NCRA eKYC platform,Sierra Leone,other,,NCRA,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
 SLE,National Biometric Identity Management System,Sierra Leone,other,,NCRA,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
 SLE,Telecom and bank connections to national ID,SLE,other,,mobile operators and banks,,2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone
@@ -751,6 +753,7 @@ UGA,Uganda National Public Key Infrastructure,UGA,authentication,National Data C
 UGA,UgPass,UgPass,authentication,,NITA-U,,2025-08-28-uga-govt-introduces-e-signatures-to-curb-fraud-in-public-offices
 UGA,UgPass,UgPass,authentication,DAES platform (UgPass 1.0),NITA-U,,2025-05-01-uga-digitally-trusted-uganda
 UGA,e-KYC platform,Uganda,authentication,,,,2024-11-15-uga-dissemination-of-the-electronic-know-your-customer-evaluation-report
+UGA,Online Business Registration System (OBRS),Uganda,other,,Uganda Registration Services Bureau,,2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency
 ZAF,NPR identity verification service (OVS),South Africa,other,National Population Register,Department of Home Affairs,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
 ZAF,SASSA grant payments,South Africa,other,,SASSA,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
 ZAF,Online Verification System (OVS),South Africa,other,National Population Register,Department of Home Affairs,,2025-06-23-dha-npr-verification-service-pricing-correction

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-18-dji-djibouti-unveils-plan-to-boost-internet-connectivity-and-affordability",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "We are Tech says Djibouti is currently connected to nine submarine fibre-optic cables; landing stations are not named.",
+   "as_of": "2024-10-18",
+   "date_precision": "day",
+   "system": "submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-15-mar-connectivite-5g-et-e-gouvernement-amal-el-fallah-seghrouchni-fait-le-b",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "The minister described the E-services reference as complementing the existing national interoperability platform, without naming connected bodies or any usage figure.",
+   "as_of": "2025-10-13",
+   "date_precision": "day",
+   "system": "plateforme nationale d'interopérabilité",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plateforme nationale d'interopérabilité",
+   "country_label": "National interoperability platform",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

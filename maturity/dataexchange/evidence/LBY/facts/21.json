@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-10-lby-lana-commercial-registry-digital-transformation-branch-linking",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "LANA reports the commercial registry's executive programme includes a phase of electronic linking with banks and relevant public bodies to exchange data and check companies' legal status instantly, presented as a stage still to be completed.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "Commercial registry electronic linking with banks and public bodies",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

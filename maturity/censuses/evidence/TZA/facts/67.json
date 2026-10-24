@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-tza-universal-and-meaningful-connectivity-tanzania-umc-workshop",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "A TCRA presentation gives Tanzania's 2022 census population as 61,741,120 and 14,152,803 private households, with ICT indicators from the census.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "2022 census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

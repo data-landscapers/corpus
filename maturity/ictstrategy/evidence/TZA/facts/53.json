@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-tza-universal-and-meaningful-connectivity-tanzania-umc-workshop",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "A TCRA presentation lists the National ICT Policy 2016, focused on human capital, broadband access and infrastructure, among Tanzania's digital policies.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "National ICT Policy 2016",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

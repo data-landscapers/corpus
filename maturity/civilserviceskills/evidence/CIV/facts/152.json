@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-20-civ-assemblee-nationale-de-cote-d-ivoire-abidjan-le-20-novembre-2024-proje",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Digital Transition's draft 2025 budget, presented to the National Assembly's finance committee, includes strengthening state agents' capacity to use IT tools, at FCFA 700 million.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "Draft 2025 budget activity: state agents' IT tools training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

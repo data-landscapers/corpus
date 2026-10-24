@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-nga-cac-unveils-ai-powered-portal-for-faster-company-registrations",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Corporate Affairs Commission's pilot portal verifies a director's National Identification Number in real time against the National Identity Management Commission to register a company, per Registrar-General Hussaini Ishaq Magaji.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NIMC real-time NIN verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

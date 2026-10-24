@@ -8,3 +8,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,LBY,data.open--use-of-open-data,fact,4,4,LBY-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,RWA,data.open--use-of-open-data,fact,no evidence,2,RWA-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-22,BFA,data.open--use-of-open-data,fact,4,5,BFA-009;BFA-007,"The government's November 2025 submission to the UN CSTD names four applications reusing data.gov.bf data, among them Open Election and NENDO: reuse on record inside three years."
+2026-10-24,ZAF,data.open--use-of-open-data,fact,2,3,ZAF-003,"OCP registry: National Treasury eTenders data under ODC PDDL (ZAF-003); open licence held, 2 to 3"
+2026-10-24,RWA,data.open--use-of-open-data,fact,2,2,RWA-001;RWA-002,"OCP registry: Umucyo data under CC BY-NC-SA (RWA-002); non-commercial read as not open, stays 2"

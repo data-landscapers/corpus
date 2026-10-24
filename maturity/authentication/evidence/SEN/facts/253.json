@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-22-sen-portail-web-interactif-d-informations-sur-la-vie-des-entreprises-senin",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ODS states that the Seninfogreffe platform of the company register (RCCM) lets users complete formalities online using strong authentication and electronic signature.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "Seninfogreffe",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Seninfogreffe",
+   "country_label": "Seninfogreffe",
+   "class": "other",
+   "platform": "Gainde 2000 architecture",
+   "owner": "RCCM registry",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

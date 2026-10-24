@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The presentation states the government created the Agence de Cybersécurité et de Certification Électronique (ANCC) on 23 April 2024, with a mission that includes creating the CERT Mauritanie.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "ANCC - Agence de Cybersécurité et de Certification Électronique",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCC - Agence de Cybersécurité et de Certification Électronique",
+   "country_label": "ANCC",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Mauritania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

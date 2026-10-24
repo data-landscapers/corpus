@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-02-zmb-sadc-customs-data-linking",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Southern African Times reports that Mozambique's customs administration, with those of Malawi, South Africa, Zambia and Zimbabwe, adopted a Roadmap and Action Plan for customs-to-customs data exchange at a meeting in Pretoria on 24-26 August 2026, with the SADC Secretariat taking part.",
+   "as_of": "2026-08-26",
+   "date_precision": "day",
+   "system": "Customs-to-Customs (C2C) data exchange roadmap",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

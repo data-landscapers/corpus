@@ -175,6 +175,7 @@ Zimbabwe has a public National ICT Policy for 2022 to 2027 with an uncosted acti
 - The document presents itself as the reviewed Zimbabwe National ICT Policy 2022-2027 (ZNICTP 2022), with a presidential foreword and signature block, replacing the 2016-2020 policy that had elapsed; it states no adoption date, so 2022 is its published year ([source, 2022](https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf)).
 - The full text of the policy is a government document held in the corpus as a complete PDF text layer; no date is given, so 2022 is its published year ([source, 2022](https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf)).
 - The policy titles itself for the period 2022-2027 and its implementation-plan periods run to 2027 ([source, 2022](https://data.inafran.ru/files/Doc/Zimbabwe/Natsional%27naya%20Politika%20Zimbabve%20V%20Oblasti%20Ikt%20Na%202022-2027.pdf)).
+- ICT Minister Tatenda Mavetera launched the reviewed Zimbabwe National Policy for ICT, covering 2022 to 2027, on 7 March 2024 at Somabula ([source, 2024-03-07](https://gemnation.co.zw/mavetera-launches-ict-policies/)).
 
 ### Angola: 2 Nascent
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-zaf-ocp-registry-south-africa-national-treasury",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "The National Treasury's Office of the Chief Procurement Officer publishes eTenders procurement data from February 2017 to September 2026 for download in JSON, Excel and CSV under the Open Data Commons PDDL licence, with 35,309 tenders and 9,551 awards.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "eTenders OCDS publication (data.etenders.gov.za)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eTenders OCDS publication",
+   "country_label": "eTender Publications Portal (data.etenders.gov.za)",
+   "class": "open",
+   "platform": "",
+   "owner": "National Treasury, OCPO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

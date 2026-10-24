@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-22-mdg-la-prevention-de-la-cybercriminalite-se-renforce",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Centre de lutte contre la cybercriminalite (CLCC)",
+   "country_label": "MDG",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication and Culture",
+   "tiers": "24 regions"
+  }
+ ],
+ "note": "CLCC is a cybercrime unit policing social media offences; no incident response or alert by a national response body stated."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-29-nam-namibia-to-roll-out-faster-internet-speeds-from-october-2026",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Emma Theofelus officially launched the National ICT Policy and the 2025-2030 MICT Strategic Plan on 2026-01-29.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "National ICT Policy",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Policy",
+   "country_label": "Namibia",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  },
+  {
+   "system": "2025-2030 MICT Strategic Plan",
+   "country_label": "Namibia",
+   "class": "institution-plan",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

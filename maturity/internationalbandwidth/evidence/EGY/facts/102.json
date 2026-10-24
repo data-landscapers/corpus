@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-egy-ict-minister-outlines-digital-egypt-strategy-at-egypt-forum-2026",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "ICT Minister Raafat Hendy said ten new submarine cables have been installed over the past 10 years, six of them currently under construction, with expanded cable landing stations and routes; no individual route or landing station is named.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

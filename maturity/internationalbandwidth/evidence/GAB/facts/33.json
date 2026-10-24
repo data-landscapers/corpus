@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-17-gab-declaration-de-politique-generale-de-mark-alexandre-doumba-wtdc-25",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Minister Doumba told WTDC-25 that Gabon has four international submarine cables providing its digital opening to the world; landing stations are not named.",
+   "as_of": "2025-11-17",
+   "date_precision": "day",
+   "system": "four international submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

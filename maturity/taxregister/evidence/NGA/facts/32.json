@@ -1,0 +1,27 @@
+{
+ "slug": "2024-04-19-nga-cac-warns-newly-registered-companies-against-paying-for-tin",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Corporate Affairs Commission says the FIRS tax identification number is electronically generated and endorsed instantly on certificates of newly registered entities.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "FIRS tax identification number",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The Corporate Affairs Commission says the FIRS tax number is issued automatically at business incorporation through the Company Registration Portal, the two agencies' service being fully integrated.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "FIRS tax identification number",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

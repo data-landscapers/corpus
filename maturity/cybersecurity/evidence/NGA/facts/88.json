@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-23-nga-airtel-globacom-mtn-face-network-quality-probe",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "cii",
+   "value": "designated",
+   "fact": "ITWeb Africa reports the Federal Government designated telecommunications facilities as Critical National Information Infrastructure in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Critical National Information Infrastructure",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

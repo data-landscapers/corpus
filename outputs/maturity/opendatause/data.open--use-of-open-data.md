@@ -22,8 +22,8 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 4 |
-| 3 Established | 7 |
-| 2 Nascent | 27 |
+| 3 Established | 8 |
+| 2 Nascent | 26 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 9 |
@@ -115,6 +115,12 @@ Government data was published under an open licence on the INS Niger open data l
 Government data was published under an open licence on the SNBS Open Data Portal in 2024; several publishing bodies are not on record.
 
 - SNBS states that all data and datasets published on its Open Data Portal are provided under the Creative Commons Attribution 4.0 International licence (CC-BY 4.0), allowing users to download, copy, redistribute and make derivative works with attribution. The date is the document's published date ([source, 2024-07-13](https://nbs.gov.so/terms-of-use-for-open-data-portals-and-datasets/)).
+
+### South Africa: 3 Established
+
+National Treasury published procurement data under an open licence in 2026; no second public body doing so is known.
+
+- The National Treasury's Office of the Chief Procurement Officer publishes eTenders procurement data from February 2017 to September 2026 for download in JSON, Excel and CSV under the Open Data Commons PDDL licence, with 35,309 tenders and 9,551 awards ([source, 2026-09](https://data.open-contracting.org/en/publication/143)).
 
 ### South Sudan: 3 Established
 
@@ -252,9 +258,10 @@ Government data was published for download on the NSA Central Data Catalog (NADA
 
 ### Rwanda: 2 Nascent
 
-Government data was published for download on the RPPA open contracting portal in 2024; no open licence is on record.
+Procurement data was published for download from 2024; its licence bars commercial reuse, so no open licence is known.
 
 - The Rwanda Public Procurement Authority launched an open contracting portal with procurement data back to 2016, downloadable in spreadsheet formats or by API ([source, 2024-11-12](https://www.open-contracting.org/2024/11/13/rwanda-a-new-open-contracting-portal-to-promote-effective-and-inclusive-procurement/)).
+- The Rwanda Public Procurement Authority publishes Umucyo OCDS procurement data (tenders, awards, contracts, December 2013 to April 2026, updated daily) for download in JSON, Excel and CSV under a CC BY-NC-SA 4.0 licence, per the Open Contracting Partnership registry retrieved 4 October 2026 ([source, 2026-10-04](https://data.open-contracting.org/en/publication/145)).
 
 ### Seychelles: 2 Nascent
 
@@ -267,12 +274,6 @@ Government data was published for download on a government site in 2026; no open
 Government data was published for download on the Open Data Sierra Leone data portal in 2024; no open licence is on record.
 
 - Statistics Sierra Leone says its publications, metadata and microdata are released free of charge on its website, including an Open Data Sierra Leone data portal, with unrestricted datasets available online to all ([source, 2024-02-06](https://www.statistics.sl/images/2023_Stats_SL_Proactive_Publication_Scheme.pdf)).
-
-### South Africa: 2 Nascent
-
-Government data was published for download on the Vulekamali in 2026; no open licence is on record.
-
-- The author, writing for the OGP Results Report, says South Africa has national open government portals, Vulekamali, Municipal Money and GoMuni, that aggregate public data, and that more data is being published than ever; the document does not name the publishing body, and is dated 2026-07-27, which is used as as_of ([source, 2026-07-27](https://www.linkedin.com/pulse/when-open-data-misses-streetlight-rethinking-impact-joanne-parker-tq84f/)).
 
 ### Tanzania: 2 Nascent
 

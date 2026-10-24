@@ -2,7 +2,7 @@
 
 ## Use of open data
 
-**Data published for download, and under an open licence.** [The Banque Centrale du Congo launched its new website on 14 August 2026, on which the public can consult exchange rates, inflation, interest rates, statistics and economic indicators, and publications; the document does not say the data can be downloaded or give a licence](<https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel>). Two facts are held on the country's published government data, all given here: no news story or official notice read for this study says more, and the portals themselves were not examined.
+**Data published for download, and under an open licence.** [The Banque Centrale du Congo launched its new website on 14 August 2026, on which the public can consult exchange rates, inflation, interest rates, statistics and economic indicators, and publications; the document does not say the data can be downloaded or give a licence](<https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel>). [ITIE-RDC's data page offers extractive-sector data for download in October 2026, including 280 contracts and a beneficial-ownership table, with a public API](<https://www.itierdc.net/donnees/>). Three facts are held on the country's published government data, all given here: no news story or official notice read for this study says more, and the portals themselves were not examined.
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel>).
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-rwa-rwanda-public-procurement-authority-rppa",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "licensed",
+   "fact": "The Rwanda Public Procurement Authority publishes Umucyo OCDS procurement data (tenders, awards, contracts, December 2013 to April 2026, updated daily) for download in JSON, Excel and CSV under a CC BY-NC-SA 4.0 licence, per the Open Contracting Partnership registry retrieved 4 October 2026.",
+   "as_of": "2026-10-04",
+   "date_precision": "day",
+   "system": "Umucyo OCDS portal (ocds.umucyo.gov.rw/OpenData)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Umucyo OCDS portal",
+   "country_label": "ocds.umucyo.gov.rw/OpenData",
+   "class": "open",
+   "platform": "OCDS",
+   "owner": "Rwanda Public Procurement Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
