@@ -2,11 +2,11 @@
 
 ## Business register
 
-**Online registration.** [The Eswatini Trade Portal states company registration runs as a six-step process, from name search to certificate, available online through the government portal online.gov.sz and processed within one day](<https://eswatinitradeportal.com/index.php?id=23&r=searchProcedure%2Fview1>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Online registration.** [The Eswatini Trade Portal sets out company registration as six steps, from name search to certificate, done online through the government portal online.gov.sz and processed within a day](<https://eswatinitradeportal.com/index.php?id=23&r=searchProcedure%2Fview1>). [In January 2026 the Commerce Minister said the business registry had been digitised and a Business One-Stop Shop set up, cutting the time and cost of registering](<https://times.co.sz/29818/business/eswatinis-business-reforms-deliver-top-10-b-ready-ranking/>).
 
-**Shared number.** No source held since October 2023 says registration gives one number shared with tax or social security. The nearest held fact: [the one given above](<https://eswatinitradeportal.com/index.php?id=23&r=searchProcedure%2Fview1>).
+**Shared number.** No source held since October 2023 says registration gives one number shared with tax or social security. The nearest held fact is [the minister's January 2026 account of the one-stop shop](<https://times.co.sz/29818/business/eswatinis-business-reforms-deliver-top-10-b-ready-ranking/>), which does not mention tax numbers.
 
-**Beneficial owners.** No source held since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://eswatinitradeportal.com/index.php?id=23&r=searchProcedure%2Fview1>).
+**Beneficial owners.** No source held since October 2023 says the register collects beneficial owners. The nearest held fact is [the trade portal's registration procedure](<https://eswatinitradeportal.com/index.php?id=23&r=searchProcedure%2Fview1>), which lists no ownership filing.
 
 ***Noted, not assessed***. None held.
 

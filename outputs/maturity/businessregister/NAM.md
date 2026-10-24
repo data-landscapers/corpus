@@ -2,12 +2,12 @@
 
 ## Business register
 
-**Online registration.** [BIPA's page says company and close corporation registration forms are submitted in triplicate to BIPA offices, and register records are inspected by a file request at a BIPA office or by email, with files delivered from off-premises storage in about 3 to 5 days](<https://www.bipa.na/business-registration/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Online registration.** [The Business and Intellectual Property Authority (BIPA) says company and close corporation forms are submitted in triplicate at its offices, and records are inspected by request, with files fetched from off-site storage in three to five days](<https://www.bipa.na/business-registration/>). [In January 2026 BIPA held the kick-off meeting with the developer of a new Integrated Business Registration System, which aims to allow a business to incorporate within 60 minutes](<https://www.linkedin.com/posts/business-and-intellectual-property-authority-bipa_ibrs-bipa-innovation-activity-7419737447879602177-EQNb>); it has not gone live.
 
-**Shared number.** No source held since October 2023 says registration gives one number shared with tax or social security. The nearest held fact: [the one given above](<https://www.bipa.na/business-registration/>).
+**Shared number.** No source held since October 2023 says registration gives one number shared with tax or social security. The nearest held fact is [the January 2026 start of the new registration system](<https://www.linkedin.com/posts/business-and-intellectual-property-authority-bipa_ibrs-bipa-innovation-activity-7419737447879602177-EQNb>).
 
-**Beneficial owners.** No source held since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://www.bipa.na/business-registration/>).
+**Beneficial owners.** [The Deputy Minister of Industrialisation and Trade told the National Assembly that BIPA has collected beneficial ownership information as part of business registration since 7 August 2023](<https://www.parliament.na/wp-content/uploads/2024/07/Ministerial-Statement-on-BO-Penalties.pdf>), and that by 30 June 2024, 64,356 of the 221,338 entities on the business register had submitted it.
 
 ***Noted, not assessed***. [ITAS](<https://thebrief.com.na/2024/02/namra-bipa-explore-integrating-business-registration-and-tax-systems/>).
 
-***Not held***. No source held since October 2023 says: is a digital business register under way.
+***Not held***. Online registration is not established: forms were filed on paper in 2024 and the new system began development in January 2026. Nothing held says registration gives one number shared with tax.

@@ -2,12 +2,12 @@
 
 ## Business register
 
-**Online registration.** [Open Ownership says it has partnered with PACRA and GIZ to build an in-house next-generation system with a form builder and case management to digitise over one hundred PACRA services, starting with name clearance, registration and incorporation including BO declaration](<https://www.openownership.org/en/blog/beneficial-ownership-and-business-register-reform-in-zambia-announcing-our-new-partnership-with-pacra/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Online registration.** [The Patents and Companies Registration Agency (PACRA) said in January 2026 that a three-year, GIZ-funded rebuild of the business register began in December 2025, with development of the new register starting that January](<https://www.zambiamonitor.com/pacra-unveils-three-year-plan-to-modernize-zambias-beneficial-ownership-registers-promote-integrity/>). [Open Ownership says it is working with PACRA and GIZ on an in-house system to digitise more than a hundred PACRA services, starting with name clearance, registration and incorporation](<https://www.openownership.org/en/blog/beneficial-ownership-and-business-register-reform-in-zambia-announcing-our-new-partnership-with-pacra/>).
 
-**Shared number.** No source held since October 2023 says registration gives one number shared with tax or social security. The nearest held fact: [the one given above](<https://www.openownership.org/en/blog/beneficial-ownership-and-business-register-reform-in-zambia-announcing-our-new-partnership-with-pacra/>).
+**Shared number.** No source held since October 2023 says registration gives one number shared with tax or social security. The nearest held fact is [PACRA's account of the rebuild](<https://www.zambiamonitor.com/pacra-unveils-three-year-plan-to-modernize-zambias-beneficial-ownership-registers-promote-integrity/>), which does not mention a firm number shared with tax.
 
-**Beneficial owners.** No source held since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://www.openownership.org/en/blog/beneficial-ownership-and-business-register-reform-in-zambia-announcing-our-new-partnership-with-pacra/>).
+**Beneficial owners.** [PACRA said beneficial ownership reporting to its register stood at 44 percent in December 2025](<https://www.zambiamonitor.com/pacra-unveils-three-year-plan-to-modernize-zambias-beneficial-ownership-registers-promote-integrity/>).
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: can firms register online.
+***Not held***. No source held since October 2023 says firms can register online, or that registration gives one number shared with tax or social security.

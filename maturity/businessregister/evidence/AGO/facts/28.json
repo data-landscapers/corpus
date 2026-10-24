@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-25-ago-regime-juridico-do-beneficiario-efectivo-em-angola",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CRBE",
+   "country_label": "Central de Registo do Beneficiário Efectivo",
+   "class": "other",
+   "platform": "public autonomous database with web portal",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Law 7/26 creates the CRBE as a separate autonomous database, not the business register itself, so it is not a beneficial-owner fact for the register."
+}

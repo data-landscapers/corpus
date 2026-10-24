@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-22-sen-portail-web-interactif-d-informations-sur-la-vie-des-entreprises-senin",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "ODS states that Seninfogreffe gives access to the RCCM registry information on all companies in Senegal, has digitised the archives, and lets users carry out formalities online securely.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "Seninfogreffe",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-09-rwa-watch-a-step-by-step-guide-to-accessing-business-and-investor-services",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Rwanda Development Board says business and investor services are accessed online through its One Stop Centre, where users log in with an IremboAccount, link a registered business by its TIN and submit applications.",
+   "as_of": "2026-01-09",
+   "date_precision": "day",
+   "system": "RDB One Stop Centre",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDB One Stop Centre",
+   "country_label": "Rwanda",
+   "class": "business",
+   "platform": "Irembo account login",
+   "owner": "Rwanda Development Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

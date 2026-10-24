@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,business,registration,coverage,inservice,2025-01,SEN-001,,
+SEN,business,registration,coverage,inservice,2025-01,SEN-001;SEN-004,SEN-002=underway,
 SEN,business,shared,coverage,,,,,nothing held
-SEN,business,owners,coverage,,,,,nothing held
+SEN,business,owners,coverage,recorded,2026-03,SEN-003,,

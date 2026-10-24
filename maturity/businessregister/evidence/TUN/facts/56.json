@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-18-tun-le-rne-accelere-la-digitalisation-des-entreprises-tunisiennes",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "L'Economiste Maghrebin reports RNE director general Adel Chouari saying the RNE has digitised company creation (individuals, SARL, SA) and online filing of financial statements, which more than 65,000 firms use.",
+   "as_of": "2025-04-17",
+   "date_precision": "day",
+   "system": "Registre National des Entreprises (RNE)",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The article says the RNE assigns the unique identifier required for all administrative and tax procedures, under law 2018-52 of 29 October 2018.",
+   "as_of": "2025-04-17",
+   "date_precision": "day",
+   "system": "Registre National des Entreprises (RNE)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Entreprises (RNE)",
+   "country_label": "Tunisia",
+   "class": "business",
+   "platform": "",
+   "owner": "Presidency of the Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

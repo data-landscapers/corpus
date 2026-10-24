@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-caf-80-d-informel-ce-que-le-guichet-unique-change-et-ce-qu-il-ne-change-pa",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Bangui Inside reports that the Guichet unique de formalites des entreprises (GUFE), created by decree in 2007, centralises company creation, change and closure, with procedures only partly dematerialised and a first branch outside Bangui opened at Bambari on 17 September 2024.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "GUFE",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique de formalites des entreprises",
+   "country_label": "GUFE",
+   "class": "business",
+   "platform": "",
+   "owner": "Ministry of Commerce and Industry",
+   "tiers": "Bangui and Bambari"
+  }
+ ],
+ "note": ""
+}

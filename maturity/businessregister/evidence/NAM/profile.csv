@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,business,registration,coverage,none,2024,NAM-001,,
+NAM,business,registration,coverage,underway,2026-01-21,NAM-002,NAM-001=none,
 NAM,business,shared,coverage,,,,,nothing held
-NAM,business,owners,coverage,,,,,nothing held
+NAM,business,owners,coverage,recorded,2024-06-30,NAM-003,,

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "CEPICI's director general says in an interview that the average time to create a company online was 2.4 days at mid-July 2026, with more than 4,200 RCCM transmitted online, though full dematerialisation is still being finalised.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "CEPICI platform (Guichet Unique de Formalites d'Entreprise)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet Unique de Formalites d'Entreprise",
+   "country_label": "Cote d'Ivoire",
+   "class": "business",
+   "platform": "",
+   "owner": "CEPICI",
+   "tiers": ""
+  },
+  {
+   "system": "GUDIP",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "CEPICI / Direction generale de l'Economie",
+   "tiers": ""
+  }
+ ],
+ "note": "The unique identifier (IDU) is said to give a firm one number across administrative platforms, with no tax or social security named; interoperability with DGI and CNPS is not a shared number."
+}

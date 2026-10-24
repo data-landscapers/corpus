@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-17-ken-public-notice-registrar-of-companies-directive-no-01-of-2024-complianc",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "owners",
+   "value": "recorded",
+   "fact": "The Registrar of Companies' Directive No. 01 of 2024 requires all companies and LLPs to prepare a beneficial owners register and file a copy with the Registrar, with a penalty of Ksh 500,000 for failure.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "Registrar of Companies",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

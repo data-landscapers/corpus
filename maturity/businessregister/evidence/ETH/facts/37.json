@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-18-eth-import-export-licensing-centralized-as-government-targets-regional-loo",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Birr Metrics reports the Ministry of Trade and Regional Integration moved import-export business registration to the Online Trade Registration and Licensing System, which links 745 registration offices and cut incorporation to two steps in two days.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Online Trade Registration and Licensing System (OTRLS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Trade Registration and Licensing System (OTRLS)",
+   "country_label": "Ethiopia",
+   "class": "business",
+   "platform": "",
+   "owner": "Ministry of Trade and Regional Integration",
+   "tiers": "federal"
+  }
+ ],
+ "note": "Integration with the Revenue Ministry's TIN database is not stated as one number shared."
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "1",
-   "registration": "none",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-001",
-   "gaps": "No source held since October 2023 says: is a digital business register under way.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "5",
+      "registration": "underway",
+      "shared": "",
+      "owners": "recorded",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-003",
+      "gaps": "Online registration is not established: forms were filed on paper at BIPA offices in 2024 and the new integrated system only began development in January 2026; nothing held says registration gives one number shared with tax.",
+      "note": "Reassessed on a June 2024 ministerial statement that BIPA collects beneficial ownership at registration, with 64,356 of 221,338 entities filed; a yes to question 4 answers the earlier ones, so stage 5.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

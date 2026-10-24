@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-11-ken-brs-development-partners",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Business Registration Service says IFC support covered digitization of all Company Registry records, an electronic document management system and integration of the companies, e-collateral, hire purchase and Official Receiver registries.",
+   "as_of": "2026-06-11",
+   "date_precision": "day",
+   "system": "Business Registration Service registries",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "owners",
+   "value": "recorded",
+   "fact": "The Business Registration Service says GIZ support led to an online Beneficial Ownership Information Register operationalised for private companies by 2020, with the Companies (Beneficial Ownership Information) Regulations 2020 being implemented.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Beneficial Ownership Information Register",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Beneficial Ownership Information Register",
+   "country_label": "Kenya",
+   "class": "business",
+   "platform": "online",
+   "owner": "Business Registration Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

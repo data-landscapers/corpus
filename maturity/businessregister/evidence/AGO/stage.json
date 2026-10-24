@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "unplaced",
-      "registration": "",
+      "stage": "3",
+      "registration": "inservice",
       "shared": "",
       "owners": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether firms can register online.",
-      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "AGO-003",
+      "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security, or that the register collects beneficial owners.",
+      "note": "Reassessed on a December 2025 executive decree stating the one-stop company counter runs online incorporation nationally; nothing held reaches question 3, so stage 3.",
+      "as_at": "2026-10-24"
     }
   ]
 }

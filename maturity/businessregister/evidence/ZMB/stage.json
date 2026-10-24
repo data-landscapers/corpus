@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "2",
-   "registration": "underway",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001",
-   "gaps": "No source held since October 2023 says: can firms register online.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "5",
+      "registration": "underway",
+      "shared": "",
+      "owners": "recorded",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-004",
+      "gaps": "No source held since October 2023 says firms can register online; beneficial-ownership reporting to the register stood at 44 percent in December 2025.",
+      "note": "Reassessed on PACRA saying in January 2026 that its register records beneficial-ownership filings, at 44 percent by December 2025; a yes to question 4 answers the earlier ones, so stage 5.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

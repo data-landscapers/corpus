@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,business,registration,coverage,inservice,2026,CPV-001;CPV-002,,
+CPV,business,registration,coverage,inservice,2026,CPV-001;CPV-002,CPV-004=underway,
 CPV,business,shared,coverage,shared,2026,CPV-003,,
 CPV,business,owners,coverage,,,,,nothing held

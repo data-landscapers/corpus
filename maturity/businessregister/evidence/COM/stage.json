@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "no evidence",
-   "registration": "",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says how firms are registered.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "2",
+      "registration": "underway",
+      "shared": "",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001",
+      "gaps": "No source held says firms can register online; the January 2026 platform prepares filings online but signing and commercial-register entry stay in person.",
+      "note": "Reassessed on a January 2026 report of a digital company-creation platform built for the investment agency and about to launch; registration is not yet online, so stage 2.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

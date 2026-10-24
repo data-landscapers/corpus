@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-06-tza-brela-taarifa-kwa-umma-umiliki-manufaa-kampuni",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "owners",
+   "value": "recorded",
+   "fact": "BRELA's public notice of 6 January 2026 says all registered companies must file beneficial owner information through its electronic system at bo.brela.go.tz, and those that have not are barred from transactions with the Registrar.",
+   "as_of": "2026-01-06",
+   "date_precision": "day",
+   "system": "BRELA beneficial ownership system (bo.brela.go.tz)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BRELA beneficial ownership system",
+   "country_label": "Tanzania",
+   "class": "business",
+   "platform": "",
+   "owner": "BRELA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

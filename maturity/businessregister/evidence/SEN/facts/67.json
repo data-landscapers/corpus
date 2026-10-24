@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-sen-creation-d-entreprise-apix-s-a",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "APIX says its Bureau de Création d'Entreprise, a one-stop office with the justice, finance, statistics, labour and OAPI bodies represented, formalises a firm in 48 hours, issuing the commercial register entry and tax identifier.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Bureau de Création d'Entreprise (APIX)",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-04-ago-decreto-executivo-n-o-734-25-de-04-de-dezembro",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Executive Decree 734/25 of 4 December 2025 states the Guiche Unico da Empresa has an online company incorporation system in force, with national reach.",
+   "as_of": "2025-12-04",
+   "date_precision": "day",
+   "system": "Guiche Unico da Empresa (GUE)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guiche Unico da Empresa (GUE)",
+   "country_label": "Angola",
+   "class": "business",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

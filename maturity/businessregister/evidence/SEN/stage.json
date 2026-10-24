@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "3",
-   "registration": "inservice",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "5",
+      "registration": "inservice",
+      "shared": "",
+      "owners": "recorded",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-003",
+      "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security; the digital platform for the beneficial-owner register was still being built in 2026.",
+      "note": "Reassessed on the EITI page (March 2026) that the commercial register records beneficial ownership, with a registry extract of 262 companies; a yes to question 4 answers the earlier ones, so stage 5.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

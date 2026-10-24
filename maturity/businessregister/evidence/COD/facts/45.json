@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-23-cod-itie-rdc-donnees-et-divulgation-systematique",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre des beneficiaires effectifs",
+   "country_label": "RBE",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice (arrete 278/CAB/ME/MIN/J&GS/2026)",
+   "tiers": "national"
+  }
+ ],
+ "note": "The beneficial ownership register is a separate register set up by order of 8 July 2026, not stated to be the business register."
+}

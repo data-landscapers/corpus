@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-01-nam-statement-on-beneficial-ownership-requirement-for-business-entities-an",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "owners",
+   "value": "recorded",
+   "fact": "Namibia's Deputy Minister of Industrialization and Trade told the National Assembly that the Business and Intellectual Property Authority has collected beneficial ownership information as part of business registration since 7 August 2023, with 64,356 of 221,338 entities in the business register having submitted it by 30 June 2024.",
+   "as_of": "2024-06-30",
+   "date_precision": "day",
+   "system": "BIPA business register",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

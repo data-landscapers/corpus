@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-ago-legal-regime-of-the-beneficial-owner",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CRBE (beneficial owner register)",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "electronic portal",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Law 7/26 (in force 2026-08-19) creates a beneficial-owner register, CRBE, separate from the commercial registries, with first filings due by 2027-02-15; not the business register holding owners in service."
+}

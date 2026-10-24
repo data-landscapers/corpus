@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-17-ken-huduma-kenya-clarifies-end-of-physical-business-certificates-after-eci",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Kenyans.co.ke reports the Business Registration Service launched its BRS Version II online portal on eCitizen on 16 February 2026 for company changes, and digital downloadable certificates have replaced physical ones.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "BRS Version II portal on eCitizen",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BRS Version II",
+   "country_label": "Kenya",
+   "class": "business",
+   "platform": "eCitizen",
+   "owner": "Business Registration Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

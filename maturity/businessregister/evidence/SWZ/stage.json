@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "3",
-   "registration": "inservice",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001",
-   "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "3",
+      "registration": "inservice",
+      "shared": "",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001",
+      "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security; a January 2026 ministerial statement on the digitised registry does not mention online filing.",
+      "note": "Reassessed on the January 2026 statement: it does not contradict online registration through the government portal, so stage 3 holds.",
+      "as_at": "2026-10-24"
+    }
+  ]
 }

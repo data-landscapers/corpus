@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-23-tun-digitisation-of-rne",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "RNE Director General Adel Chouari said some National Business Register services are fully digitised, others experimental or in final phase, and incorporation is being digitised starting with individuals, with 90% of services online targeted by mid-2025.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "National Business Register (RNE)",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-cod-formaliser-son-entreprise-plus-pres-et-bientot-en-ligne-grace-au-proje",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Firms register at the physical Guichet unique de création d'entreprise (GUCE), and Projet TRANSFORME is defining requirements for online registration, which is targeted for 2027 and still precedes a tender for a provider.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "GUCE",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE",
+   "country_label": "Guichet unique de création d'entreprise",
+   "class": "business",
+   "platform": "",
+   "owner": "state",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

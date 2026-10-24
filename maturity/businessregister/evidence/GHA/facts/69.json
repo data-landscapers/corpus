@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-08-gha-online-registration-of-businesses-in-ghana-is-still-stuck-on-manual",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Labari Journal says a 2017 online registration system exists but users cannot register online and use the manual process, and a new NITA-hosted system planned with the World Bank has not been rolled out.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "Registrar-General's Department e-registration system",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registrar-General's Department e-registration system",
+   "country_label": "Ghana",
+   "class": "business",
+   "platform": "",
+   "owner": "Office of Registered Companies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

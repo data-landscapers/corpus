@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "URSB's ICT commissioner Arthur Kwesiga said all URSB services are online 24/7 after paper records were digitised, and the Online Business Registration System lets clients search company status, track applications and access accounts remotely.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Online Business Registration System (OBRS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Business Registration System (OBRS)",
+   "country_label": "Uganda",
+   "class": "business",
+   "platform": "",
+   "owner": "Uganda Registration Services Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

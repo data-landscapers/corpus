@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-26-tun-registre-national-des-entreprises-les-demarches-administratives-entier",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "La Presse reports the Registre national des entreprises platform lets project owners register a company remotely, including choosing the trade name, and that the RNE has run a mixed electronic and paper filing system since September 2025.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Registre national des entreprises (RNE)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national des entreprises (RNE)",
+   "country_label": "Tunisia",
+   "class": "business",
+   "platform": "RNE online platform",
+   "owner": "RNE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-nga-cac-unveils-ai-powered-portal-for-faster-company-registrations",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Corporate Affairs Commission unveiled a pilot AI-enabled online registration platform on which a company is registered with a director's NIN, with a certificate emailed in a target of under 30 minutes.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "CAC AI-enabled registration platform",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAC AI-enabled registration platform",
+   "country_label": "Nigeria",
+   "class": "business",
+   "platform": "",
+   "owner": "Corporate Affairs Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

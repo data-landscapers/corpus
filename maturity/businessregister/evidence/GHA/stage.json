@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "2",
+      "stage": "5",
       "registration": "underway",
       "shared": "",
-      "owners": "",
+      "owners": "recorded",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-001",
-      "gaps": "The Vice President listed business registration among the services on the CADIS app at its launch in October 2024, but in July 2026 Registrar-General officials said end-to-end online registration was still being piloted; the newer fact stands, so online registration in service is not established.",
-      "note": "Reassessed on the CADIS launch story: a newer source calls online registration a pilot, so the registration aspect stays under way and the stage stays 2.",
-      "as_at": "2026-10-23"
+      "stage_sources": "GHA-005;GHA-003",
+      "gaps": "Online registration in service is not established: in July 2026 officials said end-to-end online registration was still being piloted; nothing held says registration gives one number shared with tax or social security.",
+      "note": "Reassessed on two 2025 sources that the Registrar of Companies holds beneficial-ownership filings from 175,984 companies; a yes to question 4 answers the earlier ones, so stage 5.",
+      "as_at": "2026-10-24"
     }
   ]
 }

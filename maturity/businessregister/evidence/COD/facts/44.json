@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-cod-le-guce-a-l-ere-du-numerique-vers-une-creation-d-entreprise-100-digita",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "A World Bank representative said the one-stop company creation counter (GUCE) in Kinshasa can issue a commercial register (RCCM) entry in 48 hours, with fully online registration still only the stated goal.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "GUCE",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE",
+   "country_label": "RDC",
+   "class": "business",
+   "platform": "",
+   "owner": "Ministry of Justice (public establishment)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "3",
+      "stage": "5",
       "registration": "inservice",
       "shared": "",
-      "owners": "",
+      "owners": "recorded",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002",
+      "stage_sources": "TZA-004",
       "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
-      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed on BRELA's January 2026 notice that companies file beneficial owners on its electronic system and are barred from transactions until they do; a yes to question 4 answers the earlier ones, so stage 5.",
+      "as_at": "2026-10-24"
     }
   ]
 }

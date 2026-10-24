@@ -2,3 +2,6 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 CIV,E-ENTREPRISE,Cote d'Ivoire,business,225invest.ci,CEPICI,,2021-01-01-civ-cepici-creation-entreprise-en-ligne-e-entreprise
 CIV,E-Entreprise (225Invest portal),Cote d'Ivoire,business,225Invest,CEPICI,,2025-01-01-civ-cepici-reformes-climat-des-affaires
 CIV,Identifiant Unique (IDU),Cote d'Ivoire,business,,CEPICI,,2025-01-01-civ-cepici-reformes-climat-des-affaires
+CIV,Guichet Unique de Formalites d'Entreprise,Cote d'Ivoire,business,,CEPICI,,2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4
+CIV,GUDIP,Cote d'Ivoire,other,,CEPICI / Direction generale de l'Economie,,2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4
+CIV,Annuaire IDU,Annuaire IDU (Identifiant Unique),business,www.annuaireidu.ci,CEPICI,,2025-07-10-civ-environnement-des-affaires-le-cepici-lance-l-annuaire-idu-un-registre

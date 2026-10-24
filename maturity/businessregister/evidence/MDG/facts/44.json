@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-16-mdg-2424-registre-central-beneficiaires-effectifs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre central des beneficiaires effectifs",
+   "country_label": "RCBE",
+   "class": "other",
+   "platform": "electronic platform",
+   "owner": "Direction generale des impots",
+   "tiers": "private legal persons"
+  }
+ ],
+ "note": "The RCBE launched 16 June 2026 is a separate beneficial ownership register run by the tax directorate, not the business register."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-28-tza-brela-rolls-out-an-upgraded-online-system-to-speed-up-company-registra",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "BRELA said in a statement that all new applications for company registration, annual returns, information updates and closures are now handled through its upgraded online system, the BRELA Online Service (BOS).",
+   "as_of": "2026-05-28",
+   "date_precision": "day",
+   "system": "BRELA Online Service (BOS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BRELA Online Service (BOS)",
+   "country_label": "Tanzania",
+   "class": "business",
+   "platform": "",
+   "owner": "BRELA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

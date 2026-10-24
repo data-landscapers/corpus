@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-19-nga-cac-warns-newly-registered-companies-against-paying-for-tin",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Corporate Affairs Commission says companies register on its Company Registration Portal, at no cost for the tax number.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Company Registration Portal",
+   "class": "business"
+  },
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "The Corporate Affairs Commission says the FIRS tax identification number is generated automatically upon incorporation and endorsed on the certificate, the two agencies having fully integrated the service.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Company Registration Portal",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Company Registration Portal",
+   "country_label": "Nigeria",
+   "class": "business",
+   "platform": "",
+   "owner": "Corporate Affairs Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

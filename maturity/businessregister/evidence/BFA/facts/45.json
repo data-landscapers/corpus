@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-23-bfa-assechement-des-sources-de-financement-des-groupes-armes-le-gouverneme",
+ "facts": [],
+ "systems": [
+  {
+   "system": "plateforme de declaration des beneficiaires effectifs",
+   "country_label": "BO declaration platform",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": "national"
+  }
+ ],
+ "note": "The platform launched 23 September 2024 is for beneficial ownership declarations to the courts, not stated to be the business register."
+}

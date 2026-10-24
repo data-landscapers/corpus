@@ -1,29 +1,48 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,gue.gov.ao,Angola,business,,Guiché Único da Empresa,,2020-07-16-ago-iflr-online-commercial-registration-decree
 AGO,Guiché Único da Empresa,Angola,business,,Ministry of Justice and Human Rights,,2020-03-04-ago-lexao-decreto-64-20-formulario-unico-gue
+AGO,CRBE (beneficial owner register),Angola,other,electronic portal,,,2026-09-01-ago-legal-regime-of-the-beneficial-owner
+AGO,CRBE,Central de Registo do Beneficiário Efectivo,other,public autonomous database with web portal,,,2026-08-25-ago-regime-juridico-do-beneficiario-efectivo-em-angola
+AGO,Guiche Unico da Empresa (GUE),Angola,business,,Ministry of Justice and Human Rights,,2025-12-04-ago-decreto-executivo-n-o-734-25-de-04-de-dezembro
 BDI,Easybusiness.bi,Burundi,business,,Burundi Development Agency (ADB),,2026-01-01-burundi-business-facilitation-project
 BDI,easybusiness.bi,Burundi,business,,Agence de Développement du Burundi,,2024-07-15-bdi-adb-procedure-creation-easybusiness
 BEN,monentreprise.bj,Benin,business,,APIEx,,2020-03-04-ben-gouv-bj-facilites-creation-entreprise
 BEN,monentreprise.bj,Benin,business,www.monentreprise.bj,APIEx,,2024-01-01-ben-apiex-guide-pratique-formalisation
 BFA,e-RCCM (e-actes-rccm.gov.bf),Burkina Faso,business,e-actes-rccm.gov.bf,Ministere de la Justice et des Droits humains,national,2025-12-15-justice-transformation-numerique-triple-lancement
+BFA,Beneficial owners register (Tribunal de commerce de Ouagadougou),Burkina Faso,other,,Commercial courts,,2025-05-08-bfa-transparence-dans-les-industries-extractives-la-chambre-des-mines-du-b
+BFA,plateforme de declaration des beneficiaires effectifs,BO declaration platform,other,,Ministry of Justice,national,2024-09-23-bfa-assechement-des-sources-de-financement-des-groupes-armes-le-gouverneme
+BFA,registre des beneficiaires effectifs,BO register of the Ouagadougou commercial court,other,,Tribunal de commerce de Ouagadougou,mining title holders,2025-03-24-bfa-declaration-des-beneficiaires-reels-des-entreprises-minieres-un-dispos
 BWA,Online Business Registration System (OBRS),Botswana,business,Foster Moore software,CIPA,,2025-02-05-bwa-businessweekly-cipa-obrs-it-system
 BWA,VERNE-BO beneficial ownership register,Botswana,business,Foster Moore,CIPA,,2025-02-05-bwa-businessweekly-cipa-obrs-it-system
 CAF,Guichet Unique de Formalisation des Entreprises (GUFE),Central African Republic,business,,GUFE RCA,"branches at Bangui, Bambari, Berberati",2026-02-03-gufe-antenne-berberati-operationnelle
+CAF,GUFE-RCA,Central African Republic,business,,Ministry of Commerce and Industry,,2026-05-14-caf-centrafrique-le-gufe-rca-lance-un-site-internet-pour-moderniser-la-cre
+CAF,Registre du Commerce et du Crédit Mobilier (RCCM),Central African Republic,business,Guichet Unique de Formalité des Entreprises,Ministry of Commerce and Industry,,2025-10-29-caf-centrafrique-vers-un-rccm-numerise-pour-booster-l-economie-nationale
+CAF,Guichet unique de formalites des entreprises,GUFE,business,,Ministry of Commerce and Industry,Bangui and Bambari,2026-08-10-caf-80-d-informel-ce-que-le-guichet-unique-change-et-ce-qu-il-ne-change-pa
 CIV,E-ENTREPRISE,Cote d'Ivoire,business,225invest.ci,CEPICI,,2021-01-01-civ-cepici-creation-entreprise-en-ligne-e-entreprise
 CIV,E-Entreprise (225Invest portal),Cote d'Ivoire,business,225Invest,CEPICI,,2025-01-01-civ-cepici-reformes-climat-des-affaires
 CIV,Identifiant Unique (IDU),Cote d'Ivoire,business,,CEPICI,,2025-01-01-civ-cepici-reformes-climat-des-affaires
+CIV,Guichet Unique de Formalites d'Entreprise,Cote d'Ivoire,business,,CEPICI,,2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4
+CIV,GUDIP,Cote d'Ivoire,other,,CEPICI / Direction generale de l'Economie,,2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4
+CIV,Annuaire IDU,Annuaire IDU (Identifiant Unique),business,www.annuaireidu.ci,CEPICI,,2025-07-10-civ-environnement-des-affaires-le-cepici-lance-l-annuaire-idu-un-registre
 CMR,Registre du commerce et du crédit mobilier (RCCM),Cameroun,business,RCCM management software solution,Ministère de la Justice du Cameroun,30 sites (greffes and centres de formalités des entreprises) and national file,2024-04-03-ohada-informatisation-rccm-cameroun-point-etape
 CMR,RCCM,Cameroon,business,,,,2025-01-01-immatriculation-taxpayer-registration-directorate-general-taxation-cameroon
 COD,Guichet Unique de Création d'Entreprise (GUCE),DRC,business,website and mobile app,GUCE,,2026-07-28-cd-guce-formalisation-numerique
 COD,Guichet Unique de Création d'Entreprise (GUCE),DRC,business,web portal and mobile app,GUCE,,2026-07-29-drc-guichet-unique-business-creation-reforms
 COD,Guichet Unique de Création d'Entreprises,DR Congo,business,,,,2026-08-12-rdc-la-fintech-k-nyane-pesaflow-prospecte-le-march-de-la-govtech
 COD,Registre National des SIH Homologués,DRC,other,ANICNS website and SANTE RDC app,ANICNS,,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
+COD,GUCE,RDC,business,,Ministry of Justice (public establishment),,2025-01-01-cod-le-guce-a-l-ere-du-numerique-vers-une-creation-d-entreprise-100-digita
+COD,Registre des beneficiaires effectifs,RBE,other,,Ministry of Justice (arrete 278/CAB/ME/MIN/J&GS/2026),national,2026-10-23-cod-itie-rdc-donnees-et-divulgation-systematique
+COD,GUCE,Guichet unique de création d'entreprise,business,,state,,2026-01-01-cod-formaliser-son-entreprise-plus-pres-et-bientot-en-ligne-grace-au-proje
 COG,ACPCE online company-creation platform (www.acpce.cg),Congo,business,web,Agence congolaise pour la création des entreprises (ACPCE),,2025-12-05-lancement-plateforme-creation-entreprise-en-ligne-congo
+COG,ACPCE online company creation platform,Congo,business,,Agence congolaise pour la creation d'entreprises,,2025-12-06-cog-brazzaville-lancement-officiel-de-la-plateforme-de-creation-d-entrepri
+COG,Online company creation platform (ACPCE),Congo,business,,ACPCE,,2026-01-01-cog-congo-brazzaville-creer-une-entreprise-en-quelques-clics
 CPV,Plataforma Empresa Online (PEO),Cabo Verde,business,,Ministério da Justiça,,2026-04-09-cpv-bo-portaria-33-2026-emolumentos-peo
 CPV,Plataforma Empresa Online (PEO),Cabo Verde,business,PEO,Governo de Cabo Verde,national,2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online
+CPV,company life-cycle portal,Cabo Verde,business,,Government of Cabo Verde,,2024-03-13-cpv-balai-lusa-concurso-portal-criacao-empresas
 DJI,Registre national des personnes physiques,Djibouti,other,,Direction generale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DJI,Guichet Unique (ANPI),Djibouti,business,,ANPI,,2018-04-12-dji-jo-decret-2018-146-formalites-creation-entreprises
 DJI,Guichet Unique ANPI / Registre du Commerce (RCS),Djibouti,business,entreprendre.dj portal,ODPIC / ANPI,,2026-01-01-dji-entreprendre-guide-createur-entreprise
+DJI,Government to Business (G2B) platform,Djibouti,business,,Ministry of ICT,,2025-12-17-dji-ecofin-plateforme-g2b-lancement
 DZA,Tabaakoum,Algeria,other,digital payment platform,Ministry of Finance,,2025-12-27-business-registration-stamp-duties-online--wearetech
 DZA,Portail de création d'entreprise,Algérie,business,,CNRC,,2026-10-17-dza-cnrc-portail-creation-entreprise-accueil
 DZA,Sidjilcom,Algeria,business,sidjilcom.cnrc.dz,Centre National du Registre du Commerce (CNRC),,2026-10-17-dza-cnrc-creation-entreprise-personne-morale
@@ -31,10 +50,14 @@ EGY,GAFI Company e-Incorporation Service,Egypt,business,GAFI e-Services Portal,G
 EGY,Commercial Registry,Egypt,business,Digital Egypt platform,Internal Trade Development Authority,,2025-07-12-egy-businessmen-itda-tax-number-commercial-registry
 EGY,GAFI electronic portal,Egypt,business,GAFI portal,General Authority for Investment and Free Zones,,2025-08-03-egy-ahram-tasis-sharikat-mansa-electroniya
 ETH,Integrated Company Creation Journey,Ethiopia,business,online business registration and licensing platform,Ministry of Trade and Regional Integration,,2025-09-08-motri-online-business-registration-licensing-platform
+ETH,Online Trade Registration and Licensing System (OTRLS),Ethiopia,business,,Ministry of Trade and Regional Integration,federal,2026-06-18-eth-import-export-licensing-centralized-as-government-targets-regional-loo
 GAB,Guichet Numérique de l'Investissement (GNI),Gabon,business,Clikafrik,ANPI-Gabon,,2023-06-01-gab-gabonreview-gni-module-bancaire
 GAB,Guichet Numérique de l'Investissement (GNI),Gabon,business,Clikafrik,ANPI-Gabon,,2021-07-16-gab-anpi-gni-bilan-annuel
 GHA,end-to-end digital registration platform,Ghana,business,,Office of the Registrar of Companies / Registrar-General's Department,national,2026-07-23-ghana-amcham-registrar-general-business-registration-digital-reforms
 GHA,Ekumfi District Assembly business database,Ghana,other,,Ekumfi District Assembly,district,2026-01-20-ekumfi-district-assembly-launches-major-business-registration-drive
+GHA,Registrar of Companies central beneficial ownership register,Ghana,business,,Office of the Registrar of Companies,,2025-03-24-gha-be-diligent-with-financial-accounts-of-businesses-chraj-to-registrar-o
+GHA,beneficial ownership register,Ghana,business,,Office of the Registrar of Companies,,2025-10-17-gha-ghana-unlocking-ownership-data-for-accountability-in-the-extractive-se
+GHA,Registrar-General's Department e-registration system,Ghana,business,,Office of Registered Companies,,2025-07-08-gha-online-registration-of-businesses-in-ghana-is-still-stuck-on-manual
 GIN,License register (CPDM cadastre),Guinea,other,,CPDM (cadastre office),,2026-05-12-eiti-guinea-2026-validation-report
 GIN,Guichet unique de la création d'entreprise,Guinée,business,,APIP,,2025-02-17-gin-apip-guichet-unique-creation-entreprise
 GIN,SYNERGUI-SAFIG 2 / eTax,Guinea,other,online tax registration portals,DGI; APIP collects the data,,2025-06-22-gin-guinee360-immatriculation-fiscale-en-ligne
@@ -47,16 +70,22 @@ KEN,Companies Registry,Kenya,business,,Business Registration Service,,2026-01-01
 KEN,E-Colateral Registry (MPSR),Kenya,other,,Business Registration Service,,2026-01-01-business-registration-service
 KEN,Hire Purchase Registry,Kenya,other,,Business Registration Service,,2026-01-01-business-registration-service
 KEN,Business Registration Service,Kenya,business,eCitizen,,,2026-08-12-rdc-la-fintech-k-nyane-pesaflow-prospecte-le-march-de-la-govtech
+KEN,Beneficial Ownership Information Register,Kenya,business,online,Business Registration Service,,2026-06-11-ken-brs-development-partners
+KEN,BRS Version II,Kenya,business,eCitizen,Business Registration Service,,2026-02-17-ken-huduma-kenya-clarifies-end-of-physical-business-certificates-after-eci
 LBR,Liberia Business Registry,Liberia,business,,,,2026-08-27-liberianinvestigator-liberia-launches-digital-collateral-registry-to-curb-duplicate
 LBR,Enhanced Collateral Registry System,Liberia,other,,Central Bank of Liberia,,2026-08-27-liberianinvestigator-liberia-launches-digital-collateral-registry-to-curb-duplicate
+LBR,Liberia Business Registry,Liberia,business,,Ministry of Commerce and Industry,,2026-08-14-lbr-liberia-business-registry-launches-digitalization-and-decentralization
+LBR,Beneficial Ownership Transparency online portal,Liberia,other,,Liberia Business Registry,,2025-10-23-lbr-key-private-sector-institutions-join-liberia-business-registry-to-fina
 LBY,One-Stop Shop,Libya,business,,Commercial Registry Authority,,2026-02-20 Libya to reactivate One-Stop Shop for company registration (Commercial Registry Authority)
 LBY,Commercial Registry systems,Libya,business,,Commercial Registry Authority,,2026-08-27-nabd-
 LBY,Commercial registry electronic system,Libya,business,,Commercial Registry Authority,,2025-09-04-lby-libyaobserver-commercial-registry-e-payment
 LBY,e-single window for company registration,Libya,business,UNCTAD e-registration tool,Commercial Registry Authority,,2023-02-15-lby-libyaherald-commercial-registry-unctad-training
 LBY,electronic commercial (company) registry,Libya,business,,Ministry of Economy,,2021-02-04-lby-libyaherald-e-company-registry-launch
+LBY,Commercial registry electronic system,Libya,business,,"Commercial Registry Authority, Ministry of Economy and Trade",,2026-07-10-lby-lana-commercial-registry-digital-transformation-branch-linking
 LSO,Business Facilitation Single Window,Lesotho,business,,"One Stop Business Facilitation Centre (OBFC), under CAFI / Ministry of Trade, Industry and Business Development",,2025-11-20-lesotho-cafi-project-trade-growth-obfc-single-window
 LSO,Trade Facilitation Single Window,Lesotho,other,,CAFI,,2025-11-20-lesotho-cafi-project-trade-growth-obfc-single-window
 LSO,One Stop Business Facilitation Centre (OBFC),Lesotho,business,,"Ministry of Trade, Industry and Small Business",,2025-06-01-lso-rsl-guide-on-tax-registration
+LSO,Registrar of Companies,Lesotho,business,,,,2025-06-01-lso-beneficial-ownership-in-lesotho
 MAR,registre du commerce (OMPIC),Maroc,business,,OMPIC,,2026-07-21-ompic-42900-immatriculations-fin-mai-2026
 MAR,registre du commerce (OMPIC),Maroc,business,,OMPIC,,2026-02-24-ompic-bilan-2025-dynamique-entrepreneuriale
 MAR,Identifiant Commun de l'Entreprise (ICE),Morocco,business,www.ice.gov.ma,OMPIC,,2016-01-01-mar-ompic-identifiant-commun-entreprise-ice
@@ -64,14 +93,24 @@ MDG,Orinasa,Madagascar,business,online company-creation platform,EDBM,"national,
 MDG,RCBE,Madagascar,other,central beneficial-owners register platform,DGI,national,2026-09-22-mdg-rcbe-operational-phase
 MDG,RNCS-CM,Madagascar,business,,Ministry of Justice (DGAJER),national,2026-09-22-mdg-rcbe-operational-phase
 MDG,RCBE,Madagascar,other,,DGI,national,2026-06-16-rcbe-launch-mef
+MDG,Registre central des beneficiaires effectifs,RCBE,other,electronic platform,Direction generale des impots,private legal persons,2026-06-16-mdg-2424-registre-central-beneficiaires-effectifs
 MLI,Guichet Unique de l'API-Mali,Mali,business,,Agence pour la Promotion des Investissements au Mali (API-Mali),,2025-01-01-apimali-creation-dentreprise
+MLI,API Mali Guichet Unique,Mali,business,,API Mali,,2026-07-01-mli-contribution-citoyenne-et-si-le-mali-allait-encore-plus-loin-dans-la-d
+MLI,registre des beneficiaires effectifs des personnes morales,"BO register (Loi 2023-049, art. 227-W)",other,,commercial courts,national,2024-07-01-mli-declaration-des-beneficiaires-effectifs-des-personnes-morales
+MLI,Registre des bénéficiaires effectifs (juridictions commerciales),Mali,other,,Commercial courts,,2024-02-01-mli-dgi-loi-2023-049-registre-beneficiaires-effectifs
 MOZ,Portal SRN,Mozambique,business,utente.srn.gov.mz,Serviço de Registo e Notariado,,2023-11-24-moz-kabum-plataforma-registo-empresas
+MOZ,Conservatoria do Registo das Entidades Legais (CREL),Mozambique,business,utente.srn.gov.mz,Government,,2025-04-28-moz-registo-do-beneficiario-efectivo
+MOZ,CREL submission portal,Mozambique,business,,Conservatoria do Registo das Entidades Legais,,2024-04-03-moz-o-beneficiario-efectivo-ao-abrigo-do-regulamento-do-registo-de-entidad
 MRT,Mes services,Mauritanie,business,"mobile app and portal (App Store, Play Store)",APIM,sign-in verified through the Mon Identité app,2025-04-04-mrt-ami-lancement-services-numeriques-apim
+MRT,Registre du bénéficiaire effectif,Mauritania,business,,Greffe of the commercial court (Registre du commerce),,2026-09-23-mrt-propriete-effective-regles-et-procedures-de-collecte-de-verification-e
 MUS,Statistical Business Register,Mauritius,other,,Statistics Mauritius,,2026-07-29-business-statistics-q2-2026
 MUS,Corporate and Business Registration Department online services portal,Mauritius,business,,Corporate and Business Registration Department,,2026-01-01-corporate-and-business-registration-department-online-services-portal
 MUS,Corporate and Business Registration Department online registration,Mauritius,business,,Corporate and Business Registration Department,,2025-04-04-mus-cbrd-guidelines-incorporation-registration
+MUS,Beneficial Ownership Register,Registrar of Companies,other,,Registrar of Companies,,2024-08-07-mus-the-anti-money-laundering-and-combatting-the-financing-of-terrorism-an
 MWI,Malawi Business Registration System (MBRS),Malawi,business,,Department of Registrar General,,2024-04-26-malawi-fiscal-governance-program-for-results
 MWI,Malawi Business Registration System (MBRS),Malawi,business,,Government of Malawi,,2024-02-29-mwi-247malawi-chakwera-launches-mbrs-lims
+MWI,Malawi Business Registration System (MBRS),Malawi,business,,Registrar of Companies,,2025-09-01-mwi-beneficial-ownership-disclosure-in-malawi
+MWI,Malawi Business Registration System,Malawi,business,,"Companies, Registrations and Intellectual Property Centre",,2026-05-29-mwi-minister-of-justice-urges-professionalism
 NAM,ITAS,Namibia,other,,NamRA,,2024-02-01-namra-bipa-explore-integrating-business-registration-and-tax-systems
 NAM,BIPA system,Namibia,business,,BIPA,,2024-02-01-namra-bipa-explore-integrating-business-registration-and-tax-systems
 NAM,BIPA register,Namibia,business,,BIPA,,2024-01-01-business-registration
@@ -80,11 +119,17 @@ NGA,NEPZA free trade zone beneficial ownership information,Nigeria,other,,NEPZA,
 NGA,NEITI extractive industries beneficial ownership information,Nigeria,other,,NEITI,national,2026-09-15-nga-von-cac-unified-beneficial-ownership-register
 NGA,CAC corporate registry,Nigeria,business,,Corporate Affairs Commission,national,2026-09-12-nga-thisday-cac-ai-corporate-registry-google-partnership
 NGA,Beneficial Ownership Register,Nigeria,business,,Corporate Affairs Commission,national,2026-04-28-ogp-nigeria-results-report-2023-2025
+NGA,CAC registry portal,Corporate Affairs Commission,business,www.cac.gov.ng,Corporate Affairs Commission,,2026-02-10-nga-cac-ai-rollout-boosts-daily-business-registrations-to-10k
+NGA,CAC AI-enabled registration platform,Nigeria,business,,Corporate Affairs Commission,,2025-07-01-nga-cac-unveils-ai-powered-portal-for-faster-company-registrations
+NGA,Company Registration Portal,Nigeria,business,,Corporate Affairs Commission,,2024-04-19-nga-cac-warns-newly-registered-companies-against-paying-for-tin
 RWA,online registry of the Office of the Registrar General,Rwanda,business,,"Rwanda Development Board, Office of the Registrar General",,2026-08-30-rwanda-business-registration
 RWA,Rwanda Development Board digital business registration platform,Rwanda,business,,Rwanda Development Board,,2026-07-22-norebase-state-of-expansions-report
 RWA,RDB registration portal,Rwanda,business,businessprocedures.rdb.rw,"Office of the Registrar General, Rwanda Development Board",national,2026-01-01-rwanda-tax-registration-de-registration
+RWA,RDB One Stop Centre,Rwanda,business,Irembo account login,Rwanda Development Board,,2026-01-09-rwa-watch-a-step-by-step-guide-to-accessing-business-and-investor-services
 SDN,Baladna platform,Sudan,business,Baladna,Sudan commercial registrar,,2026-10-18-sdn-sudandawn-commercial-registry-baladna-outage
 SEN,NINEA digital platform,Senegal,business,,Ministry of Economy; ANSD,,2025-02-04-ninea-business-registration-platform
+SEN,Registre des bénéficiaires effectifs (secteur extractif),Senegal,other,,,,2025-08-27-sen-decret-2025-1354-registre-beneficiaires-effectifs-extractif
+SEN,commercial register (RCCM),Senegal,business,,,,2026-03-01-sen-eiti-country-page-senegal
 SLE,One-Stop Digital Business Service Platform,Sierra Leone,business,online business platform,National Investment Board,,2026-10-07-sle-ayvnews-nib-one-stop-digital-business-platform
 SLE,Online Business Registration System (OBRS),Sierra Leone,business,,Government of Sierra Leone; Multi GIS E-Services SL Ltd as BOT concessionaire,,2026-05-31-sle-sierraloaded-parliament-obrs-concession
 SLE,WanGov,Sierra Leone,other,mobile app,"Ministry of Communication, Technology and Innovation",,2025-02-04-sle-sierraloaded-wangov-app-launch
@@ -111,14 +156,23 @@ TUN,Registre national des entreprises (RNE),Tunisia,business,,,,2026-08-28-lapre
 TUN,e-industrie.gov.tn,Tunisia,other,,"Ministry of Industry, Mines and Energy",,2026-08-28-lapresse-tunisia-eindustrie-platform
 TUN,Registre national des entreprises,Tunisia,business,,,,2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique
 TUN,RNE (National Business Register),Registre National des Entreprises,business,website portal with online registration platform,,,2024-08-05-tun-usembassy-fast-pfmis-project
+TUN,Registre National des Entreprises (RNE),Tunisia,business,RNE digital platform,Registre National des Entreprises,,2026-07-16-tun-depot-immatriculation-mise-a-jour-le-registre-national-des-entreprises
+TUN,Registre national des entreprises (RNE),Tunisia,business,RNE online platform,RNE,,2026-04-26-tun-registre-national-des-entreprises-les-demarches-administratives-entier
+TUN,Registre national des entreprises,Tunisia,business,CNRE digital platform,Centre national du registre des entreprises,,2026-01-13-tun-arrete-beneficiaire-effectif-procedure-acces
+TUN,Registre National des Entreprises (RNE),Tunisia,business,,Presidency of the Government,,2025-04-18-tun-le-rne-accelere-la-digitalisation-des-entreprises-tunisiennes
 TZA,BRELA Online Registration System (ORS),Tanzania,business,,BRELA,,2026-01-01-tza-brela-usajili-wa-kampuni-online
+TZA,BRELA Online Service (BOS),Tanzania,business,,BRELA,,2026-05-28-tza-brela-rolls-out-an-upgraded-online-system-to-speed-up-company-registra
+TZA,BRELA beneficial ownership system,Tanzania,business,,BRELA,,2026-01-06-tza-brela-taarifa-kwa-umma-umiliki-manufaa-kampuni
 UGA,Non-Individual Register (NIR),Uganda,business,,Uganda Registration Services Bureau,,2026-05-08-ursb-non-individual-register-launch
 UGA,e-Registry,Uganda,business,,Uganda Registration Services Bureau,,2026-06-30-ursb-e-registry-replaces-obrs
 UGA,Online Business Registration System (OBRS),Uganda,business,,Uganda Registration Services Bureau,,2026-06-30-ursb-e-registry-replaces-obrs
 UGA,Online Business Registration System (OBRS),Uganda,business,,Uganda Registration Services Bureau,,2026-02-08-ursb-obrs-still-slow
+UGA,Online Business Registration System (OBRS),Uganda,business,,Uganda Registration Services Bureau,,2024-04-08-uga-uganda-launches-online-business-registration-system-to-transform-busin
+UGA,Online Business Registration System (OBRS),Uganda,business,,Uganda Registration Services Bureau,,2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency
 ZAF,Beneficial Ownership Disclosure Module,South Africa,business,,Companies and Intellectual Property Commission,,2026-09-29-zaf-new-tools-from-cipc-to-strengthen-sa-s-fight
 ZAF,Optimized Beneficial Ownership Declaration,South Africa,business,,Companies and Intellectual Property Commission,,2025-09-04-cipc-optimised-beneficial-ownership-declaration
 ZAF,CIPC e-Services,South Africa,business,,Companies and Intellectual Property Commission,,2026-03-31-cipc-external-company-registration
+ZAF,CIPC Beneficial Ownership register,South Africa,business,,CIPC,,2026-06-15-zaf-cipc-puts-spotlight-on-its-beneficial-ownership-register-and-requireme
 ZMB,PACRA business registration system,Zambia,business,"in-house, being rebuilt",Patents and Companies Registration Agency (PACRA),,2026-03-06-openownership-pacra-partnership
 ZMB,Register of Companies,Zambia,business,,"Registrar, PACRA",,2025-12-30-zambia-companies-amendment-act-2025
 ZMB,Register of Beneficial Owners,Zambia,business,,"Registrar, PACRA",,2025-12-30-zambia-companies-amendment-act-2025

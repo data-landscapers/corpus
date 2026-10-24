@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-20-cod-rdc-lancement-de-la-deuxieme-phase-d-une-plateforme-numerique-simplifi",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Ministry of Industry announced on 2025-05-20 the launch of phase two of the E-kazi platform, letting entrepreneurs assemble online the company file to send to the one-stop shop (GUCE), with protocols with Justice and Finance still being finalised before full service.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "E-kazi",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

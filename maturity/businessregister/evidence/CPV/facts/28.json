@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-13-cpv-balai-lusa-concurso-portal-criacao-empresas",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Lusa reports the government opened a tender to design and build an internet portal covering the whole life cycle of a company, with a first phase due by the end of the year and links to INPS, IGT, INCV and Pro-Empresa.",
+   "as_of": "2024-03-13",
+   "date_precision": "day",
+   "system": "company life-cycle portal",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "company life-cycle portal",
+   "country_label": "Cabo Verde",
+   "class": "business",
+   "platform": "",
+   "owner": "Government of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

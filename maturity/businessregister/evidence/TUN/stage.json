@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "4",
+      "stage": "5",
       "registration": "inservice",
       "shared": "shared",
-      "owners": "",
+      "owners": "recorded",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-003",
-      "gaps": "No source held since October 2023 says the register collects beneficial owners.",
-      "note": "First pass: counted from the four questions by study-ladder-businessregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TUN-008;TUN-010",
+      "gaps": "",
+      "note": "Reassessed on two 2026 sources that the national business register manages the beneficial-owner register and gives access to it through its platform; stage 4 -> 5.",
+      "as_at": "2026-10-24"
     }
   ]
 }

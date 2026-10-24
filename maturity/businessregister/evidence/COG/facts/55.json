@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-06-cog-brazzaville-lancement-officiel-de-la-plateforme-de-creation-d-entrepri",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "Minister of SMEs Lydia Mikolo launched on 5 December 2025 a 100 percent online company-creation platform of the ACPCE, on which entrepreneurs file, track and pay fees online, with more than 5,300 firms created in 2025.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "ACPCE online company creation platform",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ACPCE online company creation platform",
+   "country_label": "Congo",
+   "class": "business",
+   "platform": "",
+   "owner": "Agence congolaise pour la creation d'entreprises",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

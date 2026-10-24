@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-com-unctad-paie-guichet-unique-creation-entreprises",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "UNCTAD says the EU-funded PAIE programme in Comoros includes modernizing and deploying an electronic one-stop shop for business creation (GUECEI/GENERIC) and interoperability between business registration, tax, social security and statistical systems.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "GUECEI/GENERIC",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
