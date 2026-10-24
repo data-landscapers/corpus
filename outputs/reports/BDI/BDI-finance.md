@@ -1,6 +1,6 @@
 ---
 title: Burundi: finance
-compiled: 2026-10-23
+compiled: 2026-10-24
 place: BDI
 ---
 
@@ -9,12 +9,12 @@ place: BDI
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">43</td><td class="num">7</td><td class="num">15</td><td class="num total">64</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">43</td><td class="num">8</td><td class="num">15</td><td class="num total">66</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num">50</td><td class="num">1</td><td class="num">2</td><td class="num">8</td><td class="num total">60</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">30</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">30</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">15</td></tr>
-<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">8</td><td class="num">3</td><td class="num">3</td><td class="num total">15</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">6</td><td class="num total">7</td></tr>
+<tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">8</td><td class="num">3</td><td class="num">3</td><td class="num total">14</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">6</td><td class="num total">7</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">5</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -22,10 +22,10 @@ place: BDI
 <tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">45</td><td class="num">50</td><td class="num">54</td><td class="num">17</td><td class="num">35</td><td class="num total">200</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">45</td><td class="num">50</td><td class="num">54</td><td class="num">17</td><td class="num">35</td><td class="num total">201</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/BDI/all-finance.html">Full table &mdash; 145 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/BDI/all-finance.html">Full table &mdash; 148 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BDI/BDI-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -34,22 +34,22 @@ place: BDI
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num">7</td><td class="num">15</td><td class="num total">22</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">8</td><td class="num">3</td><td class="num">3</td><td class="num total">15</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num">8</td><td class="num">15</td><td class="num total">24</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">8</td><td class="num">3</td><td class="num">3</td><td class="num total">14</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">5</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Registries</th><td class="num">&lt;1</td><td class="num">2</td><td class="num">1</td><td class="num total">3</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">12</td><td class="num">17</td><td class="num">23</td><td class="num total">51</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">12</td><td class="num">17</td><td class="num">23</td><td class="num total">52</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/BDI/budgets.html">Full table &mdash; 139 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/BDI/budgets.html">Full table &mdash; 142 budget lines, all 53 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BDI/BDI-budgets.csv" download>&darr; Download CSV</a>
 </div>
 

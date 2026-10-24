@@ -1,6 +1,6 @@
 ---
 title: Angola: finance
-compiled: 2026-10-22
+compiled: 2026-10-24
 place: AGO
 ---
 
@@ -28,7 +28,7 @@ place: AGO
 <tfoot><tr><th scope="row">All topics</th><td class="num">146</td><td class="num">60</td><td class="num">394</td><td class="num">434</td><td class="num">786</td><td class="num">409</td><td class="num total">2,229</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/AGO/all-finance.html">Full table &mdash; 157 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/AGO/all-finance.html">Full table &mdash; 158 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/AGO/AGO-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -56,7 +56,7 @@ place: AGO
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/AGO/budgets.html">Full table &mdash; 145 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/AGO/budgets.html">Full table &mdash; 146 budget lines, all 53 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/AGO/AGO-budgets.csv" download>&darr; Download CSV</a>
 </div>
 

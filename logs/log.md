@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-24 03:18 · **RENDER** · 37m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 10 editions pruned; deployed 3b5dbf8 - ok
 2026-10-24 02:40 · **REBUILD** · 22m · civilregister civil: 51 cells reassessed, 3 moved; 54 searched, 183 staged; 92.6M tokens (third of a shared window) - ok
 2026-10-24 02:40 · **REBUILD** · 22m · centralbank centralbank: 52 cells reassessed, 5 moved; 54 searched, 227 staged; 92.5M tokens (third of a shared window) - ok
 2026-10-24 02:40 · **REBUILD** · 22m · censuses census: 10 cells reassessed, 0 moved; 54 searched, 293 staged; 92.5M tokens (third of a shared window) - ok
