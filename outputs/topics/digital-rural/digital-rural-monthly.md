@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: digital.rural
 places: CMR; TCD; CIV; KEN; MWI; NGA; RWA; SEN; TGO; TUN; ZMB; ZWE
-record: a9be3d0ca60d
+record: c027f873b674
 ---
 
 # News, Sep – Oct 2026
@@ -212,6 +212,20 @@ Senegal's National Civil Registry Agency (ANEC) has digitised 77% of the country
 **[Solutions numériques agricoles : le Tchad s'inspire de l'expérience togolaise](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise)** — Site officiel du Togo, République Togolaise, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TCD/TCD-monthly.html" title="TCD">Chad</a>
 
 A Chadian delegation from the West African food system resilience programme visited Lomé to study Togo's deployment of digital solutions in agriculture. The account is the host government's.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated agricultural digitalisation project (ProDISA-Togo)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DIGITALISATION AGRICOLE : LE TOGO ACCÉLÈRE LA TRANSFORMATION NUMÉRIQUE DE SON SECTEUR AGRICOLE - Ministère de l’Agriculture de la Pêche, des Ressources Animales et de la Souveraineté Alimentaire](https://agriculture.gouv.tg/digitalisation-agricole-le-togo-accelere-la-transformation-numerique-de-son-secteur-agricole/)** — Ministere de l'Agriculture du Togo, 22 October 2026
+
+Togo's agriculture ministry held a World Bank-supported national consultation on digital public infrastructure for agriculture in Lomé on 12-13 October 2026 and set a first roadmap for its ProDISA-Togo project. The project is to bring the sector onto one central system around subsidies, extension advice, finance and markets, farmer identification and grievances, and goes next to the World Bank for comment.
 
 </div>
 

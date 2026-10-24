@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: gov.protect
 places: AGO; BEN; BFA; CPV; COG; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 594c18e0d9bb
+record: 4a5ac7950d6d
 ---
 
 # News, Sep – Oct 2026
@@ -568,6 +568,20 @@ Togo's personal data protection authority (IPDCP) and Mali's APDP signed a coope
 **[النيابة العامة بالدار البيضاء تفتح بحثا قضائيا بشأن ادعاءات التجسس على هواتف حزب سياسي](https://nichan.ma/365880/)** — Nichan, 14 September 2026
 
 Morocco's prosecutor general at the Casablanca Court of Appeal ordered a judicial investigation into a party leader's claim that his party's phones were being spied on. The national judicial police will verify the claim, which the prosecution tied to the proper conduct of the elections; the party is not named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">DATA-TIKA data-protection compliance programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CNDP, NIIAT Partner to Train 20,000 Young Moroccans in Data Privacy](https://www.moroccoworldnews.com/2026/10/343292/cndp-niiat-partner-to-train-20000-young-moroccans-in-data-privacy/)** — Morocco World News, 21 October 2026
+
+Morocco's data-protection commission CNDP signed an agreement with the National Institute of Innovation and Advanced Technology on 21 October 2026, bringing it into the CNDP's DATA-TIKA programme. A six-month pilot in Casablanca-Settat is to train at least 20,000 young people in privacy principles, with a national roll-out to follow on no fixed timetable.
 
 </div>
 

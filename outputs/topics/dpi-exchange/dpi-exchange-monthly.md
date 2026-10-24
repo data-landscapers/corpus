@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GNB; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 19cd5bfd3f29
+record: 96c409b9e902
 ---
 
 # News, Sep – Oct 2026
@@ -111,6 +111,20 @@ Algeria's High Commission for Digitalisation and the Ministry of Internal Trade 
 **[Communiqué du Conseil des ministres](https://www.interfilalgerie.com/communique-du-conseil-des-ministres-45/)** — Interfil Algérie, 21 September 2026
 
 Algeria's Council of Ministers, meeting under President Tebboune on 20 September 2026, called for a presidential decree setting up a secure plan for data exchange between state bodies, overseen by the High Commissioner for Digitalisation. The president asked for the plan to reach the wilayas too, with strong protection of citizens' data. He also ordered that payments to farmers at the state cereals office be digitised immediately.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified price-monitoring database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Algérie: Elaboration d'une base de données unifiée pour le suivi des prix et la régulation du marché](https://fr.allafrica.com/stories/202610210791.html)** — Algeria Press Service (via allAfrica), 21 October 2026
+
+Algeria's Ministry of Internal Trade is building a unified price database that links the ministry's platforms to flag unusual price rises early and show which wilayas a supply problem affects, a central director said on national radio. It follows a Council of Ministers instruction for the Interior and Trade ministries and the High Commission for Digitalisation to set up a price-alert mechanism.
 
 </div>
 
@@ -796,6 +810,20 @@ Lesotho's prime minister, Sam Matekane, told a public-private dialogue forum in 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">X-Road government interoperability platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Government of Lesotho Remains Committed to Strengthening Secure Data Exchange Across Government Institutions and Enhancing Service Delivery for Basotho](https://www.africa-newsroom.com/press/the-government-of-lesotho-remains-committed-to-strengthening-secure-data-exchange-across-government-institutions-and-enhancing-service-delivery-for-basotho?lang=en)** — Government of Lesotho (via APO Group), 21 October 2026
+
+Lesotho's ICT ministry and UNICEF held a workshop in Berea on 20-23 October 2026 to plan an X-Road pilot for the National Data Exchange. It assessed ministries' readiness, picked priority uses for child-focused services and set a roadmap with data-protection and child-rights safeguards.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1215,6 +1243,20 @@ Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African
 **[NRA Prepares to Launch Digital Customs System at Jendema Border](https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/)** — Sierraloaded, 6 October 2026
 
 Sierra Leone's revenue authority has begun consultations with security agencies and local stakeholders at the Jendema border crossing as it prepares to launch the ASYCUDA World customs system there. The system will automate import, export and transit procedures; no launch date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Consolidated anti-money-laundering database</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Deputy Finance Minister Opens AML/CFT Database Talks](https://a-zsl.com/deputy-finance-minister-opens-aml-cft-database-talks/)** — A-Z Multimedia Corporation, 20 October 2026
+
+Sierra Leone's Financial Intelligence Agency and GIABA opened a three-day consultation on a proposed consolidated anti-money-laundering database that would join financial records now held in separate systems. Deputy finance minister Isata Marah named lawful access, security by design, audit trails and respect for individual rights as safeguards, and asked participants to agree its governance, standards and financing.
 
 </div>
 

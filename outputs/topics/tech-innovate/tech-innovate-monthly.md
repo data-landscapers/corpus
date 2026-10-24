@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: tech.innovate
 places: DZA; AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; KEN; LBR; MWI; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: d73dbf6440b8
+record: 50f0bded79ca
 ---
 
 # News, Sep – Oct 2026
@@ -525,6 +525,20 @@ Nigeria's President Bola Tinubu welcomed construction of the $12 million Abuja C
 **[Cascador and Sterling launch $200 million fund to derisk startup loans](https://techcabal.com/2026/10/14/cascador-sterling-startup-loans/)** — TechCabal, 14 October 2026
 
 Cascador and Sterling Bank announced the SME Credit Backstop, a planned USD 200 million first-loss fund to support up to USD 1 billion of bank loans to Nigerian start-ups and SMEs nominated by their investors. Underwriting is to use AI; the fund's capital has not yet been raised.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">JICA startup hub programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria's First Lady Lays Foundation for Abuja Innovation Hub](https://von.gov.ng/nigerias-first-lady-lays-foundation-for-abuja-innovation-hub/)** — Voice of Nigeria, 23 October 2026
+
+Nigeria's First Lady, Oluremi Tinubu, laid the foundation stone of the Renewed Hope Startup Hub in Wuye, Abuja, funded by a USD 10.4 million grant from Japan through JICA and intended for incubation, hardware prototyping and research. NITDA's director-general said the agency's programmes had supported more than 995 startups and created about 7,596 jobs over three years.
 
 </div>
 

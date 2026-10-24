@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 1dd57d926301
+record: 4fcac8ff0678
 ---
 
 # News, Sep – Oct 2026
@@ -454,6 +454,22 @@ Gambian operator GAMTEL offers ISPs and small businesses space for servers and n
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">National AI computing centre</p>
+
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Phase one of Ghana's first data centre to be ready in 24 months - Sam George](https://www.citinewsroom.com/2026/10/phase-one-of-ghanas-first-data-centre-to-be-ready-in-24-months-sam-george/)** — Citi Newsroom, 22 October 2026
+
+Ghana's communications minister Samuel Nartey George said phase one of the country's first national data centre should be complete within 24 months, with equipment being procured through the Public Procurement Authority. The centre is meant to give researchers, universities and industry computing capacity they now buy from abroad.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Atomic Energy Commission AI data centre</p>
 
 <div class="bulletin-item" markdown="1">
@@ -575,6 +591,28 @@ A Greek energy group has partnered with a United States energy-equipment company
 **[TCS Sovereign Cloud Goes Live In Nairobi](https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/)** — CIO Africa, 28 September 2026
 
 Tata Consultancy Services' sovereign cloud went live in Kenya, hosted at iXAfrica's Nairobi campus and delivered with a regional integrator, aimed at government agencies and regulated sectors with data-residency rules. Its capacity, pricing and clients were not disclosed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Konza National Data Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya’s Konza Technopolis Secures Funding Agreement for Data Centre and Smart City Project](https://techafricanews.com/2026/10/23/kenyas-konza-technopolis-secures-funding-agreement-for-data-centre-and-smart-city-project/)** — Tech Africa News, 23 October 2026
+
+A second account of the Konza cloud expansion agreement, naming the counterparty as the PPP Project Facilitation Fund under the National Treasury and listing feasibility work and an investment framework among the costs it covers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Konza data centre set for expansion through public private partnership](https://peopledaily.digital/business/konza-data-centre-set-for-expansion-through-public-private-partnership)** — People Daily, 23 October 2026
+
+Kenya's Public Private Partnerships Directorate signed a funding agreement on 23 October 2026 to prepare the Konza National Data Centre Cloud Expansion and Smart City Facilities Project, including hiring a transaction adviser to structure it for a private partner. The project joined the PPP pipeline in December 2025 and is presented as strengthening sovereign cloud capacity; no private partner has been chosen, and the agreement does not mean construction has started.
 
 </div>
 

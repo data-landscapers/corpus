@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: data.statistics
 places: BWA; BFA; BDI; CMR; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA
-record: fd90bf130d15
+record: 30bc523fb7af
 ---
 
 # News, Sep – Oct 2026
@@ -579,6 +579,14 @@ Sierra Leone opened the 50-day countdown to its 2026 Population and Housing Cens
 **[Minister of Planning & Economic Development, Statistician-General and UNFPA Country Representative Undertake Joint Monitoring Visit to 2026 Mock Population and Housing Census Area](https://www.statistics.sl/index.php/minister-of-planning-economic-development-statistician-general-and-unfpa-country-representative-undertake-joint-monitoring-visit-to-2026-mock-population-and-housing-census-area.html)** — Statistics Sierra Leone, 19 October 2026
 
 Sierra Leone's planning minister, the Statistician-General and UNFPA's country representative monitored the 2026 mock census enumeration at Hill Station, Freetown, on 19 October 2026. The mock census is testing census methods, the digital data-collection system and quality assurance ahead of the national census scheduled for December 2026, Statistics Sierra Leone said.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNFPA, Stats-SL train 147 master trainers ahead of census](https://sierraleoneconcordtimes.com/unfpa-stats-sl-train-147-master-trainers-ahead-of-census/)** — Concord Times, 20 October 2026
+
+Statistics Sierra Leone and UNFPA began training 147 master trainers and data-quality managers on 14 October 2026 for the digital census, whose census night is 1 December. The Statistician-General said all 29,000 tablets had arrived and about 22,508 enumeration areas had been mapped; Ireland funds UNFPA's support.
 
 </div>
 

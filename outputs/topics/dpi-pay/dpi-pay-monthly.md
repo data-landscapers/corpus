@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4bb5b361dd0a
+record: a134dbd6e4b5
 ---
 
 # News, Sep – Oct 2026
@@ -140,6 +140,36 @@ The Bank of Algeria's Monetary and Banking Council authorised Djezzy Payment Ser
 **[Paiement électronique : Djezzy décroche le ok de la B.A](https://leprovincial.dz/paiement-electronique-djezzy-decroche-le-ok-de-la-b-a/)** — Le Provincial, 24 September 2026
 
 Algeria's Monetary and Banking Council authorised Djezzy Payment Services, a subsidiary of Optimum Telecom Algérie, to be set up as a payment services provider under monetary law 23-09, the Bank of Algeria announced on 23 September 2026. The firm must apply for a full licence within 12 months.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CCP Business Cashless merchant payment service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بريد الجزائر وغرفة التجارة والصناعة الجزائرية يعزّزان شراكتهما - الشعب أونلاين](https://www.echaab.dz/2026/10/21/%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D8%BA%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7/)** — Ech-Chaab Online, 21 October 2026
+
+Algérie Poste signed a framework agreement with the Algerian Chamber of Commerce and Industry on 21 October 2026 to offer artisans and traders its CCP Business Cashless service and other e-payment products. The two will run joint awareness and training sessions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic payments to the housing agency AADL</p>
+
+<div class="bulletin-item" markdown="1">
+
+**["عدل 3".. الدفع الإلكتروني حقق معاملات بأكثر من 338 مليار دج - الشعب أونلاين](https://www.echaab.dz/2026/10/22/%D8%B9%D8%AF%D9%84-3-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%AD%D9%82%D9%82-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D8%A3%D9%83/)** — Ech-Chaab Online, 22 October 2026
+
+Algeria's housing minister told the National Assembly's finance committee that electronic payments for the first two price tranches of the AADL 3 rent-to-buy programme exceeded DZD 338 billion. AADL rent collected electronically reached DZD 14.02 billion, against DZD 3.46 billion in 2022.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: finance.mou
-places: CAF; COD; MAR; MOZ; NER; NGA; RWA; SDN; TZA
-record: 38a0f55b6272
+places: CAF; COD; MAR; MOZ; NER; NGA; RWA; SDN; TZA; UGA
+record: 01e469292772
 ---
 
 # News, Sep – Oct 2026
@@ -27,6 +27,8 @@ record: 38a0f55b6272
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 </nav>
 
 ## Central African Republic
@@ -244,6 +246,22 @@ The Arab Monetary Fund agreed to include Sudan in its technical assistance on di
 **[Tanzania na Korea zatafuta Ushirikiano Imara wa Kiuchumi](https://www.jamhurimedia.co.tz/tanzania-na-korea-zatafuta-ushirikiano-imara-wa-kiuchumi/)** — Jamhuri Media, 12 September 2026
 
 Tanzania and South Korea agreed to speed up delivery of a US$2.5 billion Korean pledge for projects in transport, technology, culture, industry and health, Tanzania's finance minister Khamis Mussa Omar said in Seoul on the margins of the Korea-Africa economic cooperation meeting, reported on 12 September 2026. Korea Eximbank implements the funds. He cited years-long delays in some projects.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uganda-Denmark statistical cooperation memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda, Denmark sign deal to strengthen national statistical production](https://www.independent.co.ug/uganda-denmark-sign-deal-to-strengthen-national-statistical-production/)** — The Independent (Uganda), 22 October 2026
+
+The Uganda Bureau of Statistics signed a memorandum with Statistics Denmark and the Danish Embassy to modernise Uganda's national statistical system, including green-transition statistics and work with the finance ministry on statistics for macroeconomic modelling. Denmark's foreign ministry funds the cooperation through its Strategic Sector Cooperation programme; no amount is stated.
 
 </div>
 

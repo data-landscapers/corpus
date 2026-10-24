@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: capacity.research
-places: COM; EGY; GHA; KEN; MAR; SLE; UGA; ZWE
-record: 3426da74537e
+places: COM; EGY; GHA; KEN; LBY; MAR; SLE; UGA; ZWE
+record: cdf903dd4be4
 ---
 
 # News, Sep – Oct 2026
@@ -17,6 +17,8 @@ record: 3426da74537e
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -108,6 +110,22 @@ The Kenya ICT Action Network launched a report, Many Microphones, Little Account
 **[CIPESA Weighs in on Kenya's Draft Guidance Notes on AI and Emerging Technologies](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/)** — CIPESA, 24 September 2026
 
 CIPESA submitted comments on draft guidance notes on AI and on emerging technologies issued for consultation by Kenya's Office of the Data Protection Commissioner. It warns that requiring adequacy assessments for cross-border transfers could lead to blanket data localisation. It also asks for impact assessments on biometric processing, audits of feed algorithms and oversight of state use.
+
+</div>
+
+</div>
+
+## Libya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National programme of Libyan experts in the digital economy and AI</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[#اتفاقية_وتعاون](https://www.aonsrt.ly/2026/10/21/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9_%d9%88%d8%aa%d8%b9%d8%a7%d9%88%d9%86/)** — Libyan Authority for Scientific Research and Technology, 21 October 2026
+
+Libya's Authority for Scientific Research signed a memorandum with the office of the Minister of State for Digital Economy and AI, launching a national programme of Libyan experts and researchers in the digital economy and AI. It also covers a national database of experts, links with the diaspora, an annual forum to review digital transformation plans and a joint implementation team; the signing date is not stated.
 
 </div>
 

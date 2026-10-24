@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: infra.connect
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 75ce30baa874
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 2743acb317c8
 ---
 
 # News, Sep – Oct 2026
@@ -55,6 +55,8 @@ record: 75ce30baa874
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -1080,6 +1082,20 @@ Gabon's incumbent operator and the digital-economy ministry signed a convention 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Internet subscriptions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Connectivité Universelle Significative (UMC) au Gabon](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/09/4.-FR-Day-3-Gabon-ANINF.pdf)** — ANINF, 24 September 2026
+
+Gabon's digital agency ANINF told an ITU workshop on universal meaningful connectivity in Dakar, 22-24 September 2026, that the country had 2.41 million internet subscriptions in the first quarter of 2026, 94% of them mobile, on ARCEP data. It proposed moving from counting subscriptions to measuring meaningful connectivity, and setting up a national dashboard to track it.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">CAB-CORRIDOR terrestrial interconnection (Cameroon, Gabon, Congo)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1585,6 +1601,22 @@ Vodacom Lesotho launched a managed satellite internet service for businesses and
 
 </div>
 
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G network services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Orange Liberia Launches 5G as Liberia’s First Provider](https://techafricanews.com/2026/10/23/orange-liberia-launches-5g-as-liberias-first-provider/)** — Tech Africa News, 23 October 2026
+
+Orange Liberia launched 5G and presented itself as the country's first 5G provider. It gave no coverage areas, service packages or rollout scale.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1753,6 +1785,7 @@ The World Bank-financed programme carries US$150 million across digital connecti
 
 </div>
 
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1766,6 +1799,7 @@ The World Bank-financed programme carries US$150 million across digital connecti
 A World Bank mission reviewed the Digital Malawi Acceleration Project with the communications regulator MACRA. The project manager said a plan for 100 mobile towers in underserved areas has reached procurement preparation, and a consultancy is building the Data Protection Authority's framework and five-year cost model. The mission stressed the quality of MACRA statistics. No funding amounts are stated.
 
 </div>
+
 
 <div class="bulletin-item" markdown="1">
 
@@ -2526,6 +2560,20 @@ The Internet Exchange Point of Nigeria, founded in 2006, is marking its 20th ann
 **[Dolphin Telecoms Signs 10-Year Solar Deal with Grid Crux to Power ACE Cable Landing Station in Lagos](https://www.idcnova.com/news/Dolphin-Telecoms-Signs-10-Year-Solar-Deal-with-Grid-Crux-to-Power-ACE-Cable-Landing-Station-in-Lagos)** — IDCNOVA, 13 October 2026
 
 UAE-based Dolphin Telecoms signed a ten-year energy-as-a-service deal with Nigerian developer Grid Crux Energy Solutions for a solar system at its Lagos landing station for the ACE submarine cable. Grid Crux will design, finance, install and run the system, expected to produce more than 144MWh a year and cut diesel use. No signing date or cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Network incidents in the regulator's Quality of Experience report</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel, Globacom, MTN face network quality probe](https://www.itweb.africa/article/airtel-globacom-mtn-face-network-quality-probe/JN1gP7OAQB6qjL6m)** — ITWeb Africa, 23 October 2026
+
+Nigeria's House of Representatives summoned the chief executives of MTN Nigeria, Airtel Nigeria and Globacom to appear before an ad hoc committee on 28 October 2026 over network quality, following an MTN outage in early October across several states and the capital. NCC figures put fibre cuts at 44,678 from January to September 2026, alongside 23,954 cases of denied site access, 73% of them attributed to insecurity.
 
 </div>
 

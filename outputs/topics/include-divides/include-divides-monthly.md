@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: include.divides
 places: AGO; BFA; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
-record: 64440cb508e8
+record: 644afa8cce6e
 ---
 
 # News, Sep – Oct 2026
@@ -62,6 +62,28 @@ record: 64440cb508e8
 **[Sistema de Internet em Madimba e Serra da Kanda volta a funcionar](https://angop.ao/noticias/tecnologia/sistema-de-internet-em-madimba-e-serra-da-kanda-volta-a-funcionar/)** — Angop (Angola Press Agency), 6 September 2026
 
 Two Conecta Angola satellite internet points at Madimba and Serra da Kanda in Zaire province, installed in 2024 and linked through Angosat-2, were restored after battery and software faults, Angola's national space programme office said. About 1,400 residents use them free of charge, and further points and school routers are planned in the province.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Programa Conectividade broadband subsidy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Executivo disponibiliza 50 milhões de dólares e abre concurso para execução do Programa Conectividade](https://pti.ao/executivo-disponibiliza-50-milhoes-de-dolares-e-abre-concurso-para-execucao-do-programa-conectividade/)** — Portal de T.I., 22 October 2026
+
+Angola's President authorised USD 50 million for the Programa Conectividade by Presidential Despacho 394/26 of 20 October, to extend broadband to under-served areas with schools and community centres first, through a public tender. The programme falls under the World Bank-financed Angola Digital Acceleration Project, assets bought become state property, and the head of the Institute for Administrative Modernisation runs the procurement.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[PR autoriza 50 milhões USD para levar banda larga a zonas sem cobertura, mas OGE prevê 67 milhões](https://poligrafoafrica.com/fact-check/pr-autoriza-50-milhoes-usd-para-levar-banda-larga-a-zonas-sem-cobertura-mas-oge-preve-67-milhoes/)** — Polígrafo África, 23 October 2026
+
+A presidential despacho signed on 14 October 2026 authorises USD 50 million to extend broadband to unserved areas of Angola, schools and care homes first, through a public tender run under the director-general of the Instituto de Modernização Administrativa. Polígrafo África sets this against a 2026 state budget line of Kz 62.7 billion, about USD 67 million, for the national broadband network.
 
 </div>
 

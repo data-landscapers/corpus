@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: dpi.id
 places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 8a991997902a
+record: 2d1c7b01659d
 ---
 
 # News, Sep – Oct 2026
@@ -179,6 +179,20 @@ Benin launched Preuve de Vie on 15 October 2026, a mobile app through which publ
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identity record updates at arrondissement offices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : l’ANIP déploie des tablettes pour actualiser les données dans les arrondissements](https://beninwebtv.com/benin-lanip-deploie-des-tablettes-pour-actualiser-les-donnees-dans-les-arrondissements/)** — Benin Web TV, 23 October 2026
+
+Benin's identification agency ANIP began issuing tablets to arrondissement secretaries in several communes on 19 October 2026, so residents can change the signature and phone number on their record locally instead of at ANIP's main offices. The tablets add to the ANIP BJ app and web portal, which already allow phone numbers to be updated.
+
+</div>
+
+</div>
+
 ## Burkina Faso
 
 <div class="monthly-story" markdown="1">
@@ -223,6 +237,20 @@ Burkina Faso's territorial gendarmerie brigades may now issue the AES biometric 
 **[Passeports biométriques : le centre d'enrôlement de Ziniaré opérationnel](https://www.sidwaya.info/2026/10/14/passeports-biometriques-le-centre-denrolement-de-ziniare-operationnel/)** — Sidwaya, 14 October 2026
 
 Burkina Faso's Security Ministry opened biometric passport enrolment at the regional police directorate in Ziniaré on 13 October, part of extending mobile enrolment kits to every region. Applicants no longer need to travel to Ouagadougou or Bobo-Dioulasso; the AES passport costs 50,000 FCFA and takes two weeks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Code des personnes et de la famille of 2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Compte rendu du Conseil des ministres (PP-G N°030-2026)](https://www.minute.bf/wp-content/uploads/2026/10/CONSEIL-DES-MINISTRES-N%C2%B030-DU-22-OCTOBRE-2026.pdf)** — Primature du Burkina Faso, 22 October 2026
+
+Burkina Faso's Council of Ministers adopted a decree on 22 October 2026 on computerised processing of civil-status data, a civil-status identifier and the interoperability of the civil-status system with other systems. Applying the 2025 Persons and Family Code, it provides for electronic archiving of registers and online delivery of certificates, with the identifier as the base of a national digital register.
 
 </div>
 
@@ -1442,6 +1470,20 @@ Sierra Leone MP Alpha Ben Mansaray, deputy parliamentary spokesman, asked the go
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIM registration linked to the National Identification Number</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NatCA Boss Intensifies Nationwide NIN–SIM Integration Campaign Ahead of November 1 Deadline](https://thecalabashnewspaper.com/archives/65628)** — The Calabash Newspaper, 23 October 2026
+
+Sierra Leone's National Communications Authority stepped up a nationwide campaign from 20 October 2026 for mobile subscribers to link their SIM cards to their National Identification Numbers before a 1 November deadline. It is working with the National Civil Registration Authority and the mobile operators, and presents the linkage as a defence against SIM fraud and identity theft.
+
+</div>
+
+</div>
+
 ## Somalia
 
 <div class="monthly-story" markdown="1">
@@ -1738,6 +1780,20 @@ Tanzania's home affairs minister said 6,308 national identity cards printed for 
 **[NIDA yako kuwa 'JAMII NAMBA', huduma 9 kuunganishwa](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047)** — Nipashe (IPP Media), 17 September 2026
 
 The director-general of Tanzania's National Identification Authority (NIDA), James Kaji, said in Dar es Salaam on 16 September 2026 that the national ID will be linked to nine services instead of the current four. Planned links include birth certificates, health insurance, taxpayer numbers, driving licences and blood group. No timetable or cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National identity register coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIDA produces 23,718,060 Identification numbers , 21,526,594 national identity cards for Tanzanians - Daily News](https://dailynews.co.tz/nida-produces-23718060-identification-numbers-21526594-national-identity-cards-for-tanzanians/)** — Daily News (Tanzania), 22 October 2026
+
+Tanzania's National Identification Authority had issued 23,718,060 identification numbers and produced 21,526,594 ID cards, 21,515,793 of them distributed, the deputy home affairs minister told a parliamentary committee on 22 October 2026. NIDA has also connected 152 public and private institutions to its database and upgraded 24 modules of its registration system.
 
 </div>
 

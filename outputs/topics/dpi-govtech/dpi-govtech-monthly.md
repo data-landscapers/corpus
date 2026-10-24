@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e588e1fd2b4e
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d996bfa0e9e8
 ---
 
 # News, Sep – Oct 2026
@@ -31,6 +31,8 @@ record: e588e1fd2b4e
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -190,6 +192,28 @@ Algeria's national pension fund, the Caisse nationale des retraites, launched a 
 **[La CNR lance un nouveau service pour les retraités algériens](https://observalgerie.com/2026/09/24/economie/la-cnr-lance-un-nouveau-service-pour-les-retraites-algeriens/)** — ObservAlgérie, 24 September 2026
 
 Algeria's National Pensions Fund, CNR, launched a 24-hour online virtual assistant on its website on 24 September 2026 to answer pensioners' routine questions. In July 2026 the labour ministry set a target of cutting visits to CNR offices by at least 50% by the end of 2026. Some pensioners can already confirm they are alive through the R-FACE facial recognition system in the RetraiteDz app.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La CNR lance le projet du guichet numérique unique](https://algeriebrevesnews.dz/la-cnr-lance-le-projet-du-guichet-numerique-unique/)** — Algérie Brèves News, 23 October 2026
+
+Algeria's national pension fund, the CNR, launched "Takaoudi All in One", a single digital desk in every local agency where a staff member helps retirees and beneficiaries install the Takaoudi app, open accounts and use online services. The fund has more than 19 e-services and plans more in the last quarter of 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Solidarity sector investment-project tracking platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Solidarité nationale : lancement d'une plateforme numérique de suivi des opérations d'investissement](https://algerie54.dz/solidarite-nationale-lancement-d-une-plateforme-numerique-de-suivi-des-operations-d-investissement)** — Algérie54, 20 October 2026
+
+Algeria's Ministry of National Solidarity launched a digital platform on 20 October 2026 that tracks the progress and spending of the sector's investment projects nationwide through a dashboard for the central administration. For 2027 it plans an AI-built national map of persons with special needs and an AI system to detect fraud in solidarity schemes.
 
 </div>
 
@@ -567,6 +591,20 @@ Chad's National Police said on 1 October 2026 that its e-Visa platform receives 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">National e-procurement platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La République du Congo s'active à réformer la gestion des marchés publics par la mise en place du système dématérialisé des procédures de passations des marchés publics (e-GP)](https://www.armp.cg/news-detail.php?id=11)** — Autorité de régulation des marchés publics (ARMP), 22 September 2026
+
+Congo's procurement regulator ARMP reports that a tender file for recruiting the firm to build and deploy an electronic procurement (e-GP) system was drafted by a consultant, reworked by a commission in June 2026 and adopted at a workshop in Brazzaville on 21-22 July. The World Bank-supported file now awaits validation by the project steering committee.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Public-administration digitalisation task force</p>
 
 <div class="bulletin-item" markdown="1">
@@ -692,6 +730,30 @@ Afrimag reported on Côte d'Ivoire's digital administration plans to 2029. It ci
 **[Yamoussoukro : Le Sénat modernise sa 2e session, le vote électronique activé](https://www.linfodrome.com/politique/126379-yamoussoukro-le-senat-modernise-sa-2e-session-le-vote-electronique-active)** — Linfodrome, 12 October 2026
 
 Côte d'Ivoire's Senate opened its second ordinary session of 2026 with attendance recorded in real time instead of a roll call, amendments filed online and proceedings archived automatically. Electronic voting was trialled the same day, with training for senators on 13 to 16 October.
+
+</div>
+
+</div>
+
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic public procurement portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti to Move All Public Procurement Online in Transparency Push](https://www.dawan.africa/news/djibouti-to-move-all-public-procurement-online-in-transparency-push)** — Dawan Africa, 22 October 2026
+
+Djibouti's interim Prime Minister Ali Hassan Bahdon said on 21 October 2026 that all public procurement will move to a digital system, with a tender bulletin and an open-data portal on procurement planned. He gave no timetable, and said the average tendering period fell from 35 days in 2021 to 26 in 2023, with over 71% of contracts going to Djiboutian firms in 2024.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Premier ministre par intérim participe au deuxième Colloque régional](https://rtd.dj/le-premier-ministre-par-interim-participe-au-deuxieme-colloque-regional/)** — RTD / Gouvernement de Djibouti, 22 October 2026
+
+Djibouti's second regional public-procurement colloquium, in Dikhil, heard plans for electronic bid submission, e-signature and digital tracking of payments and guarantees over 2026-2028, and a full e-procurement platform by 2027. The procurement portal launched in May 2023 records 1,300 published tenders and 1,227 awards since 2021.
 
 </div>
 
@@ -1395,6 +1457,29 @@ Guinea's minister of administrative modernisation and the civil service, Faya Fr
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ngaynaako livestock ministry single digital window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : le ministère de l’Élevage lance Ngaynaako, son guichet unique numérique - La Guinée info - Les informations sur la Guinée en un seul clic](https://laguinee.info/2026/10/22/guinee-le-ministere-de-lelevage-lance-ngaynaako-son-guichet-unique-numerique/)** — La Guinee Info, 22 October 2026
+
+Guinea's livestock ministry launched Ngaynaako on 22 October 2026, a one-stop online portal where farmers and others in the sector can request services with set deadlines and without travelling or using intermediaries. Minister Alpha Bacar Barry said it will also give the ministry better data on the sector, including the number of farms.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministère de l’Élevage : Alpha Bacar Barry présente la plateforme NGAYNAAKO pour rapprocher l’administration des acteurs du secteur](https://mediaguinee.com/2026/10/ministere-de-lelevage-alpha-bacar-barry-presente-la-plateforme-ngaynaako-pour-rapprocher-ladministration-des-acteurs-du-secteur/)** — MediaGuinee, 23 October 2026
+
+Guinea's Ministry of Livestock presented NGAYNAAKO on 22 October 2026, a platform through which farmers and other livestock-sector actors can obtain the ministry's documents, regulations and support schemes without travelling to its offices. Minister Alpha Bacar Barry said it will work in national languages with AI assistance and will count the farms operating in the country; the ministry had already moved its mail handling online.
+
+</div>
+
+</div>
+
 ## Kenya
 
 <div class="monthly-story" markdown="1">
@@ -1615,6 +1700,20 @@ Kenya's High Court at Marsabit on 5 October 2026 dismissed a constitutional peti
 **[Senate seeks clarity on traffic cameras and NTSA's automated fines](https://radiogeneration.co.ke/senate-seeks-clarity-on-traffic-cameras-and-ntsas-automated-fines-47327)** — Radio Generation, 9 October 2026
 
 Kenya's Senate ICT committee questioned National Transport and Safety Authority director general Nashon Kondiwa on 8 October 2026 about the Instant Fines Traffic Management System, including its legal basis and how offences are detected, notified and paid. The High Court halted automated penalties under the system on 12 March 2026, three days after its announcement, and the authority withdrew its launch notice on 27 March.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Speed-limiter telematics platform for the transport authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya’s Technopolis Authority Launches Digital Platform to Monitor Vehicle Speed Limiters](https://techafricanews.com/2026/10/23/kenyas-technopolis-authority-launches-digital-platform-to-monitor-vehicle-speed-limiters/)** — Tech Africa News, 23 October 2026
+
+Kenya's Konza Technopolis Development Authority has put live a Digital Telematics Platform for the National Transport and Safety Authority, which registers and certifies vehicle speed limiters and lets the regulator identify non-compliant vehicles. The authority presents the project as a step toward acting as a technology supplier to government beyond its smart-city remit.
 
 </div>
 
@@ -2069,6 +2168,20 @@ Mozambique's digital transformation agency said the government email service Cor
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Central purchasing body (CAE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Estado Centraliza Compras Públicas E Coloca Nova Estrutura Sob Auditoria Externa Anual](https://www.oeconomico.com/estado-centraliza-compras-publicas-e-coloca-nova-estrutura-sob-auditoria-externa-anual/)** — O Económico, 24 September 2026
+
+Mozambique has created a central purchasing body, the Central de Aquisições do Estado, by Decree 22/2026 of 8 June, to run certain purchases of works, goods and services for the State, subject to annual external audit. Decree 46/2026 adds framework agreements, dynamic purchasing systems and joint purchasing, with electronic contracting meant to improve traceability.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Digital Service Delivery Design Lab</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2207,6 +2320,28 @@ The Nigeria Police Force launched the NPF Vigilant App on 1 September at its con
 
 </div>
 
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Federal electronic government procurement system (e-GP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BPP moves to digitalise procurement, tighten oversight of government spending](https://www.thepointng.com/bpp-moves-to-digitalise-procurement-tighten-oversight-of-government-spending/)** — ThePointNG, 3 September 2026
+
+Nigeria's Bureau of Public Procurement told the 2026 BAVCCA/BPP Procurement Performance Conference in Abuja that its reform programme centres on an electronic government procurement system and an online platform for compliance and oversight. The bureau says the system will cut manual handling and give better data on how public money is spent.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BPP to end physical bidding for govt contracts](https://dailytrust.com/bpp-to-end-physical-bidding-for-govt-contracts/)** — Daily Trust, 9 October 2026
+
+Nigeria's Bureau of Public Procurement plans to move federal bidding fully online through its e-GP system, so that contractors submit bids without meeting officials, its director-general said in Abuja. Submissions from the education ministry and federal universities already go through the PCOMS platform, and the bureau plans electronic audits of procuring agencies.
+
+</div>
 
 </div>
 
@@ -2480,6 +2615,22 @@ Sierra Leone's Chief Minister, David Moinina Sengeh, opened a workshop at which 
 </div>
 
 ## South Africa
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">eTender Publication Portal</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa: National Treasury](https://data.open-contracting.org/en/publication/143)** — Open Contracting Partnership Data Registry, 1 September 2026
+
+The Open Contracting Partnership's data registry lists the National Treasury's eTenders feed in the Open Contracting Data Standard, covering February 2017 to September 2026 under a public-domain licence and retrieved monthly. It holds 35,309 tenders, 9,551 awards and 1,691 contracts, and excludes municipalities and state-owned entities unless they share data voluntarily.
+
+</div>
+
+</div>
+
 
 <div class="monthly-story" markdown="1">
 
@@ -2923,6 +3074,14 @@ Togo's national public services portal added building-permit applications and th
 **[Diplomatie : le Togo dématérialise 16 démarches administratives et consulaires](https://actu-togo.tg/2026/10/01/diplomatie-le-togo-dematerialise-16-demarches-administratives-et-consulaires/)** — Actu Togo, 1 October 2026
 
 Togo's foreign ministry put 10 administrative procedures and six consular services online from 1 October 2026, through the national digital procedures portal and a consular portal that holds a register of Togolese abroad. Consular services include document legalisation, consular cards, birth and marriage certificates and laissez-passer; the work began on 31 March 2026 under the public administration digitalisation programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo Adds Building Material and Geospatial Map Requests to National Digital Portal](https://www.togofirst.com/en/public-works/2310-20439-togo-adds-building-material-and-geospatial-map-requests-to-national-digital-portal)** — Togo First, 23 October 2026
+
+Togo's Ministry of Territorial Planning and Urban Development put two new services on the Service Public portal: ordering compressed stabilised earth blocks and requesting geospatial maps. The portal lists 155 procedures, according to the national digital observatory, and handled more than 400,000 requests in 2024 against 100,000 in 2023.
 
 </div>
 

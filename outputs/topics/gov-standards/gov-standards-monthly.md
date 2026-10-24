@@ -1,10 +1,10 @@
 ---
 title: Standards — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: gov.standards
 places: BEN; BFA; BDI; CMR; COG; EGY; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; NAM; NGA; RWA; SYC; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 7362d4df9f4e
+record: 2bc327227d75
 ---
 
 # News, Sep – Oct 2026
@@ -256,6 +256,14 @@ The Ghana Health Service, supported by WHO, convened a national workshop to revi
 **[Ghana targets $5bn in annual economic gains from AI – Sam George](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/)** — MyJoyOnline, 15 October 2026
 
 Ghana's communications minister said the government has committed US$270 million to its AI plans, US$250 million of it for the first phase of a national AI compute centre and US$20 million for an AI fund, and targets about US$5 billion a year in economic gains. He said the ministry is building a data exchange hub to connect 48 government registries.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sam George announces national data exchange hub to connect 48 public registries - MyJoyOnline](https://www.myjoyonline.com/sam-george-announces-national-data-exchange-hub-to-connect-48-public-registries/)** — MyJoyOnline, 21 October 2026
+
+Ghana's communications minister Samuel Nartey George announced a national data exchange hub to connect 48 public registries, so that developers can query several institutions in one request while each keeps ownership of its database. NITA will set common data-classification standards, and private firms wanting government data will have to share their own.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: infra.cybersec
 places: BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
-record: e3225a1256d1
+record: b1a22b6ea1d4
 ---
 
 # News, Sep – Oct 2026
@@ -130,6 +130,14 @@ Burkina Faso's central anti-cybercrime brigade, the BCLCC, has set up an audiovi
 **[\[Interview\] cybercriminalité au Burkina, un préjudice de 1,7 milliards de FCFA enregistré en 2025, (Lieutenant Napougba Julien Legma)](https://libreinfo.net/cybercriminalite-au-burkina-2/)** — Libreinfo.net, 14 September 2026
 
 Burkina Faso recorded FCFA 906,123,245 in cybercrime losses in the first half of 2026, against FCFA 1.7 billion for the whole of 2025, Lieutenant Napougba Julien Legma of the central anti-cybercrime brigade said in an interview published on 14 September 2026. More than 1,000 complaints have been lodged so far this year.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Faso Digital 2026 : L’adjudant-chef de gendarmerie Isaac Bouda dévoile les pièges des cyberescrocs et les moyens de s’en protéger](https://lefaso.net/spip.php?article150132=)** — leFaso.net, 22 October 2026
+
+Burkina Faso's central cybercrime brigade recorded 6,477 complaints and FCFA 2.23 billion in losses in the first nine months of 2026, more than in all of 2025, an investigator told the Le Faso Digital fair on 21 October. Complaints have risen from 556 in the brigade's first year, 2020, and mobile-money fraud and fake investment platforms are among the six scam types he named.
 
 </div>
 
@@ -625,6 +633,20 @@ Libya's minister of state Mohammed bin Ghalboun chaired a meeting in Tripoli on 
 **[NOC officials in pre-trial detention for leaking sensitive oil-related data](https://libyaherald.com/2026/10/noc-officials-in-pre-trial-detention-for-leaking-sensitive-oil-related-data/)** — Libya Herald, 1 October 2026
 
 Libya's Attorney General's Office ordered two National Oil Corporation officials, one of them its director of information and digital transformation, into pre-trial detention over leaked oil-sector data. Data on fields, production, reserves and exploration passed to a foreign company contracted in 2023 for a sector study.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Order isolating government systems running on PHP</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Libya’s GNU orders immediate shutdown of government systems over critical cybersecurity vulnerabilities](https://libyaobserver.ly/news/libyas-gnu-orders-immediate-shutdown-government-systems-over-critical-cybersecurity)** — The Libya Observer, 22 October 2026
+
+Libya's Government of National Unity ordered the immediate temporary shutdown and isolation of all government systems, websites and databases running on PHP, in a circular from the Minister of State for Cabinet Affairs. It cited US NSA warnings of two critical vulnerabilities allowing attackers to take over servers without authentication, and put cybersecurity teams on alert.
 
 </div>
 

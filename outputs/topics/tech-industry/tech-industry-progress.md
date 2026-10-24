@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — progress report, October 2025 – October 2026
-compiled: 2026-10-23
-period: 2025-10-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2025-10-01 to 2026-10-24
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8cb04cc678a1
+record: bd2fcc320da5
 ---
 
 # ICT Industry: progress report, October 2025 – October 2026

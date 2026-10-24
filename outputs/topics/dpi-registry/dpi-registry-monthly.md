@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: dpi.registry
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 900a8513cd26
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 254676b5528c
 ---
 
 # News, Sep – Oct 2026
@@ -39,6 +39,8 @@ record: 900a8513cd26
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -156,6 +158,28 @@ Algeria's commercial register (CNRC) sets out the steps to create each type of c
 </div>
 
 ## Angola
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beneficial ownership register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Legal Regime of the Beneficial Owner](https://www.primeadvogados.co.ao/en/publications/newsletters-and-flashes/legal-regime-of-the-beneficial-owner/537/)** — Prime Advogados, 1 September 2026
+
+A Prime Advogados note explains Angola's Law No. 7/26 of 19 August 2026 on beneficial ownership, which covers almost every private entity holding a tax number, from companies and NGOs to trusts and political parties. Filing goes to an electronic central register, the CRBE, interoperable with the commercial registries and notaries, with fines up to Kz 50 million, records kept for ten years and existing entities given until 15 February 2027 to comply.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo cria equipa para implementar Central de Registo do Beneficiário Efectivo](https://www.giranoticias.com/economia/2026/10/32053-governo-cria-equipa-para-implementar-central-de-registo-do-beneficiario-efectivo.html)** — Gira Notícias, 17 October 2026
+
+Angola's Minister of State for Economic Coordination set up a technical group from ten state bodies, given 180 days, to build the central beneficial-ownership register (CRBE) required by the new beneficial-ownership law. The Justice secretary of state coordinates, with the Financial Intelligence Unit as deputy, as Angola remains on the FATF grey list it rejoined in October 2024.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -290,20 +314,6 @@ Burkina Faso's directorate for the modernisation of civil registration trained r
 **[2027 presidential election : more than one million new voters, CENI accelerates preparations - SOS Médias Burundi](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/)** — SOS Medias Burundi, 3 September 2026
 
 Burundi's electoral commission CENI expects more than one million new voters on the register for the 2027 presidential election, its president Prosper Ntahorwamiye said on 28 August 2026. Partial registration is planned for October 2026 in more than 4,000 centres, aimed at those under 18 in 2025 and returnees. Exact dates have not been set.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Carte d'assistance medicale (CAM)</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[La CAM, une avancée vers une protection sociale plus inclusive ?](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/)** — Iwacu, 14 March 2025
-
-A ministerial ordinance of 7 February 2025 requires every Burundian adult and every household outside a health mutual to hold a Carte d'Assurance Maladie, which the revenue office has priced at 3,000 BIF. Iwacu's editorial welcomes the measure but recalls the card's troubled record since its creation in 1984.
 
 </div>
 
@@ -499,6 +509,20 @@ The DRC's land affairs minister said implementation of the December 2025 land la
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beneficial ownership register (RBE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ITIE-RDC Données et Divulgation Systématique](https://www.itierdc.net/donnees/)** — ITIE-RDC, 23 October 2026
+
+The data page of EITI DR Congo reports 2023 extractive revenue of USD 5.85 billion, 5.61 billion of it from mining and 234.3 million from oil, from 134 reporting entities. It also publishes the beneficial ownership register set up under Law 25/048 of 1 July 2025 and a ministerial order of 8 July 2026, now listing 202 beneficial owners of 54 companies, two of them politically exposed persons.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -596,6 +620,22 @@ Eswatini's Elections and Boundaries Commission registered young women to vote at
 **[LUBOMBO MPs JOIN DPM TO MAKE EVERY VULNERABLE HOUSEHOLD COUNT - Eswatini Positive News](https://eswatinipositivenews.online/lubombo-mps-join-dpm-to-make-every-vulnerable-household-count/)** — Eswatini Positive News, 16 September 2026
 
 Eswatini's deputy prime minister, Thulisile Dladla, asked Lubombo MPs on 16 September 2026 to build community trust in Imbeleko, the national social registry, before household data collection runs from 12 October to 27 November 2026. 216 data collectors and 22 supervisors have been recruited from the region. The exercise follows enumeration in Shiselweni in 2025.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beneficial-ownership regulation and register (Regulation 592/2026)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[No Disclosure, No Licence: Ethiopia's Beneficial Ownership Deadlines Are Here](https://www.dentons.com/en/insights/articles/2026/october/12/no-disclosure-no-licence-ethiopias-beneficial-ownership-deadlines-are-here)** — Dentons, 12 October 2026
+
+A Dentons alert explains Ethiopia's Regulation No. 592/2026, under which no business registration, licence or investment permit can be issued or renewed unless the holder's beneficial owners are recorded with the Ministry of Trade and Regional Integration. Existing entities had to identify their owners by 13 October 2026 and must file by 11 January 2027, with fines up to ETB 500,000, exclusion from public tenders and up to five years in prison for failing to keep the information.
 
 </div>
 
@@ -1102,6 +1142,20 @@ Registration of Malawi's tobacco growers under the new biometric Know Your Growe
 **[Appel aux proprietaires fonciers ruraux de Nouakchott pour inscrire leurs dossiers](https://ami.mr/fr/archives/301729)** — Agence Mauritanienne d'Information (AMI), 2 September 2026
 
 Mauritania's technical committee on rural land and developer plots in Nouakchott called on holders of rural land concessions inside the capital's urban zone to register on the Leegoud platform by 18 September 2026. Help desks are to open in Nouakchott's three moughataas. The exercise follows a declaration to the Council of Ministers on 28 April 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Beneficial ownership register at the commercial court registries</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Propriété effective : règles et procédures de collecte, de vérification et d'utilisation des informations](http://www.fiti-mauritanie.mr/wp-content/uploads/2026/09/GMN-Mauritanie_-Resume-sur-la-propriete-effective_VF.pdf)** — Groupe multipartite national (GMN) de la Mauritanie, FiTI, 23 September 2026
+
+Mauritania's national multi-stakeholder group summarises the rules on beneficial ownership under the Commercial Code and Decree 2021-033, which place the register with the commercial-court registries. The register is not public and is not systematically verified, and there is no beneficial-ownership record for fishing vessels or fish-processing plants.
 
 </div>
 

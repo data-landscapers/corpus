@@ -1,15 +1,17 @@
 ---
 title: Literacy — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: capacity.literacy
-places: CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; TZA; TGO; UGA
-record: bd130b5f8ced
+places: AGO; CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; TZA; TGO; UGA
+record: 3943f54af511
 ---
 
 # News, Sep – Oct 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
@@ -48,6 +50,22 @@ record: bd130b5f8ced
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 </nav>
+
+## Angola
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National digital-literacy programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[João Lourenço autoriza despesa de 20 milhões USD para capacitação digital em Angola](https://poligrafoafrica.com/fact-check/joao-lourenco-autoriza-despesa-de-20-milhoes-usd-para-capacitacao-digital-em-angola/)** — Polígrafo África, 22 October 2026
+
+Angola's President authorised USD 20 million, by a despacho reported on 22 October 2026, for digital skills training at basic, intermediate and advanced levels for young workers and civil servants, along with awareness of data protection and cybersecurity. Training centres are to be hired by public tender, run by the Institute for Administrative Modernisation.
+
+</div>
+
+</div>
 
 ## Cape Verde
 

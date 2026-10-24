@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: dea2f41067ea
+record: be241db6b8fd
 ---
 
 # News, Sep – Oct 2026
@@ -580,6 +580,28 @@ The EU-funded Erasmus+ DigiMarkt project, worth EUR 394,185, closed with a confe
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google AI tool licences at two public universities</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UG secures 96,000 Gemini AI licences for staff and students](https://www.myjoyonline.com/ug-secures-96000-gemini-ai-licences-for-staff-and-students)** — MyJoyOnline (GNA), 20 October 2026
+
+The University of Ghana secured more than 96,000 Google "Gemini for Education" licences for staff and students, announced at a two-day training workshop for faculty and administrators. No cost or term is stated, and use falls under the university's AI policy.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[KNUST, Google Strengthen Partnership to Promote AI Integration in Teaching and Learning](https://www.knust.edu.gh/news/news-items/knust-google-strengthen-partnership-promote-ai-integration-teaching-and-learning)** — Kwame Nkrumah University of Science and Technology (University Relations Office), 21 October 2026
+
+Google has given staff and students at Kwame Nkrumah University of Science and Technology 95,000 licences for Gemini and NotebookLM and approved 500 places on professional AI courses. Google said data on Gemini for Education stays within the university's environment and is not used to train its models; a memorandum to formalise the partnership was proposed but not signed.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -691,6 +713,20 @@ Kenya commissioned a Jitume ICT hub at a technical training campus in Uasin Gish
 **[Kenya Launches KSG Digital Institute as 1,239 Public Officers Graduate in AI Training](https://techafricanews.com/2026/10/13/kenya-ksg-digital-institute-1239-public-officers-ai-training/)** — Tech Africa News, 13 October 2026
 
 The Kenya School of Government launched an eLearning and Information Technology Institute as 1,239 public officers graduated from a UNESCO-Oxford programme on artificial intelligence and digital transformation in government.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI and digital transformation course for public servants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Expands AI Training to Strengthen Public Services and Digital Governance](https://www.jointsdgfund.org/article/kenya-expands-ai-training-strengthen-public-services-and-digital-governance)** — Joint SDG Fund, 23 October 2026
+
+A second Kenyan cohort of the UNESCO-Oxford course on AI and Digital Transformation in Government opened on 21 October 2026, aimed at 9,000 national and county public servants, after 1,239 of the first cohort's 2,730 learners graduated at the Kenya School of Government on 8 October. The course belongs to DigiKen, a Joint SDG Fund programme led by UNESCO with EU and donor funding.
 
 </div>
 
@@ -1029,6 +1065,20 @@ Nigeria's iDICE Skills-to-Jobs programme opened free digital and business-proces
 **[Nigeria’s NCC to Leverage ITU Digital Centre to Expand Digital Skills Training](https://techafricanews.com/2026/10/06/nigerias-ncc-to-leverage-itu-digital-centre-to-expand-digital-skills-training/)** — Tech Africa News, 6 October 2026
 
 Nigeria's Digital Bridge Institute has been designated an ITU Digital Transformation Centre, and the communications regulator says it will use the status to widen digital skills training for underserved groups. The work is tied to the national target of 95% digital literacy by 2030.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cisco Networking Academy access for Nigeria Jubilee Fellows</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP, Cisco Offer 50,000 Nigerian Graduates Free Digital Skills Training to Boost Job Prospects](https://opportunitieshub.ng/2026/10/21/undp-cisco-offer-50000-nigerian-graduates-free-digital-skills-training-to-boost-job-prospects/)** — Opportunities Hub, 21 October 2026
+
+UNDP and Cisco signed a memorandum in Abuja giving up to 50,000 fellows and alumni of the Nigeria Jubilee Fellows Programme free access to Cisco Networking Academy courses. The programme is a federal youth-employability scheme funded by the European Union and run by UNDP; Cisco valued its contribution at more than USD 52.7 million.
 
 </div>
 

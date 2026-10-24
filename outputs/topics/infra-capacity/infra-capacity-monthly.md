@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: infra.capacity
-places: BDI; CMR; COD; KEN; LBY; RWA; ZAF; TGO; ZWE
-record: 9cc11912c349
+places: BDI; CMR; COD; KEN; LSO; LBY; RWA; ZAF; TGO; ZWE
+record: a855ffa03af3
 ---
 
 # News, Sep – Oct 2026
@@ -17,6 +17,8 @@ record: 9cc11912c349
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -110,6 +112,22 @@ The steering committee of the DRC's digital transformation project met for the f
 **[Kenya, South Korea Deepen Ksh129.4B development partnership](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership)** — People Daily Digital, 11 September 2026
 
 Kenya's Treasury principal secretary, Chris Kiptoo, met Korea Eximbank in Seoul on 10 September 2026 to review the Ksh129.4 billion (US$1 billion) Economic Development Cooperation Fund framework. Projects discussed include the completed Ksh12.17 billion Kenya Advanced Institute of Science and Technology, the Intelligent Transport System and the recently approved Konza Digital Media City. No new amount or approval date is given.
+
+</div>
+
+</div>
+
+## Lesotho
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High-performance computer at Mohale's Hoek</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lesotho urged to turn innovation into jobs and economic growth - Lesotho Times](https://lestimes.com/?p=91936)** — Lesotho Times, 23 October 2026
+
+Opening Lesotho's third National Science, Technology and Innovation Week, ICT and science minister Nthati Moorosi said research must turn into products, businesses and jobs rather than stopping at publication. She said a Research and Innovation Policy to commercialise research is awaiting approval.
 
 </div>
 

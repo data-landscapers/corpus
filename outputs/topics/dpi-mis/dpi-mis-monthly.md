@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 57bfb1a3a12e
+record: 10ed34d17dab
 ---
 
 # News, Sep – Oct 2026
@@ -364,6 +364,20 @@ The Central African Republic inaugurated a building housing criminal databases a
 **[WHO Africa launches the Health Campaign Digitization initiative (DIGIT-HCM) to transform health campaign planning and delivery across the Region](https://www.afro.who.int/news/who-africa-launches-health-campaign-digitization-initiative-digit-hcm-transform-health)** — WHO Regional Office for Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The WHO Regional Office for Africa launched DIGIT-HCM, a three-year initiative to digitise the planning, delivery and monitoring of health campaigns such as vaccination drives, built with the eGov Foundation and supported by the Gates Foundation. The first phase covers seven pilot countries; a pilot ran in a district of N'Djamena Province during Chad's June 2026 polio campaign. No funding figure is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Livestock ministry information platforms, including the animal health information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : Le pastoralisme tchadien entame sa révolution digitale avec l’appui du PRAPS-2 Tchad et de l’OMSA](https://praps2tchad.org/numerique-le-pastoralisme-tchadien-entame-sa-revolution-digitale-avec-lappui-du-praps-2-tchad-et-de-lomsa/)** — PRAPS-2 Tchad, 21 October 2026
+
+Chad's livestock ministry took delivery on 21 October 2026 of seven digital systems built by the PRAPS-2 pastoralism project with technical support from the World Organisation for Animal Health. They include an animal-health information system linked to the health ministry, laboratory systems for two institutes, a school portal and a central HR planning database.
 
 </div>
 
@@ -1464,6 +1478,20 @@ South Africa's State IT Agency placed four of the week's top ten ICT tenders, in
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SARS personal income tax auto-assessment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SARS's expanded auto assessments pay off](https://www.itweb.co.za/article/sarss-expanded-auto-assessments-pay-off/kYbe9MXbjykvAWpG)** — ITWeb South Africa, 23 October 2026
+
+The South African Revenue Service reported more than 6.9 million returns auto-assessed by 30 September 2026, 20% more than a year earlier, after extending auto-assessment to some provisional taxpayers, drawing on more verified third-party data and sending assessment notices by WhatsApp. Between 1 July and 19 October it paid R33 billion in refunds to 3.1 million taxpayers, 85% of them within 72 hours.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -1665,6 +1693,20 @@ A four-member delegation from Chad's West Africa Food System Resilience Program 
 **[Togo Rolls Out SIHAM to Improve Farmers’ Access to Agricultural Information](https://www.togofirst.com/en/agriculture/1609-20075-togo-rolls-out-siham-to-improve-farmers-access-to-agricultural-information)** — Togo First, 16 September 2026
 
 Togo handed its SIHAM agricultural information system and five regional kiosks to the national farmers' organisation and regional managers on 15 September 2026. Financed by the World Bank, it sends weather forecasts, prices and input availability to farmers free by SMS in local languages.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs data interconnection with the Confederation of Sahel States</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou on 15-16 October 2026, set 1 January 2027 for national company lists to support a regional identification code and 31 January for a technical unit to supervise interconnected customs data. Nine of the 18 recommendations from their 2025 meeting have been implemented, six are under way and three are outstanding.
 
 </div>
 

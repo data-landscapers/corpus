@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: gov.policy
 places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 31fb6cd7ac90
+record: 3cfcde11f3e4
 ---
 
 # News, Sep – Oct 2026
@@ -346,6 +346,20 @@ Chad's higher-education ministry opened a workshop in N'Djamena on 14 October 20
 **[Transformation numérique : les Comores passent à l'évaluation](https://www.wearetech.africa/fr/fils/actualites/tech/transformation-numerique-les-comores-passent-a-l-evaluation)** — wearetech.africa, 18 September 2026
 
 The Comoros' digital development agency and UNDP signed a memorandum on 16 September to run a national digital readiness assessment covering skills, connectivity, public services, regulation and the digital economy across the three islands. It is presented as a way to target the next investments under the Comores Numérique 2028 strategy; no timetable is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Stratégie nationale de gouvernance des données 2027-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conseil des ministres I Approbation d’un projet d’électrification complète de la région de Mledjele à Mwali](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html)** — Al-watwan, 22 October 2026
+
+Comoros' Council of Ministers on 21 October 2026 approved the telecoms minister's national data-governance and data-centre strategy for 2027-2031, along with the takeover and hosting of the State data centre and a national postal-code booklet. Approval was given on condition that the island governors are involved.
 
 </div>
 

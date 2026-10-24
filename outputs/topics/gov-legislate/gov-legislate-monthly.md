@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-24
+period: 2026-09-01 to 2026-10-24
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ffece5bffe0d
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0285b38e9b48
 ---
 
 # News, Sep – Oct 2026
@@ -61,6 +61,8 @@ record: ffece5bffe0d
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -130,6 +132,20 @@ Algeria's draft 2027 finance law proposes a 10% tax reduction until the end of 2
 **[L’Algérie prévoit de soumettre les plateformes numériques étrangères à de nouvelles obligations de TVA en 2027](https://algerian-business.com/tva-plateformes-numeriques-algerie-plf-2027/)** — Algerian Business, 12 October 2026
 
 Algeria's draft 2027 finance law proposes that foreign digital platforms selling services to customers in Algeria register with the tax authority, keep records for ten years and declare and pay VAT quarterly. Non-compliance would carry a fine of 5 million dinars after 30 days' notice and possible suspension of access to the platform. The provision is a draft, not yet adopted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">General authorisation regime for cloud services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué — retrait définitif de l’autorisation de cloud computing de DATAGIX](https://www.arpce.dz/fr/pub/h9v7b0)** — Autorité de régulation de la poste et des communications électroniques (ARPCE), 22 October 2026
+
+Algeria's telecoms regulator ARPCE definitively withdrew, from 22 October 2026, the general authorisation it issued to DATAGIX in February 2024 to provide cloud hosting and data storage. The regulator cited breaches of the rules in force and told the company to contact it without delay.
 
 </div>
 
@@ -489,6 +505,14 @@ The Democratic Republic of Congo's Council of Ministers on 11 September 2026 ado
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[RDC : le Sénat ratifie à l’unanimité l’ordonnance-loi portant organisation de l’activité statistique](https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite)** — Actualite.cd, 22 October 2026
+
+The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 2026 organising statistical activity, by 73 votes to none of its 109 members. The 95-article law gives the national statistics institute the power to issue the statistical visa, puts a council chaired by the Prime Minister at the head of the system, penalises breaches of statistical secrecy and puts the system's budget at about USD 192 million.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -542,6 +566,20 @@ Alfred Dibandi Nzondomyo, a national deputy in the Democratic Republic of Congo,
 **[DRC Senate Considers Social Media Ban for Children Under 13](https://www.wearetech.africa/en/fils-uk/news/tech/drc-senate-considers-social-media-ban-for-children-under-13)** — We Are Tech, 1 October 2026
 
 The DR Congo Senate declared admissible on 28 September 2026 a bill by Senator Yvan Kazadi Kankonde amending the 2023 Digital Code to bar children under 13 from opening social media accounts. Those aged 13 to 15 would need verifiable parental consent, and platforms would have to verify age. The bill has gone to committee and is not law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill revising the public procurement law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DRC Moves to Expand Public Procurement Access for MSMEs and Start-Ups](https://www.ecofinagency.com/news-services/0110-59397-drc-moves-to-expand-public-procurement-access-for-msmes-and-start-ups)** — Ecofin Agency, 1 October 2026
+
+The DRC government adopted on 30 September 2026 a bill to replace the 2010 public procurement law (Law No. 10/010), presented by Budget Minister Adolphe Muzito. It would widen the use of paperless procedures and open public contracts to small businesses and start-ups, and responds to heavy use of direct awards and weak contract monitoring.
 
 </div>
 
@@ -711,6 +749,20 @@ All satellite internet sales are to run through the telecommunications regulator
 **[El despacho que representa a S.E. Nguema Obiang Mangue explica las acciones contra Diario Rombe y otras tres personas](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas)** — Oficina de Informacion y Prensa de Guinea Ecuatorial, 17 September 2026
 
 Lawyers for Equatorial Guinea's vice-president Teodoro Nguema Obiang Mangue said they lodged four criminal complaints at a Malabo court on 16 September 2026 against four people, including Mocache Massoko of the online paper Diario Rombe. The complaints rest on articles 2 and 60 of Law 7/2024 on social media and cybercrime; article 2 is invoked to reach conduct outside the country.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Reform of the Ley de Prensa y Medios Audiovisuales (1997)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El proyecto de ley de comunicación prohibirá contenidos que inciten a la violencia y vulneren los derechos de menores - Diario Bata](https://diariobata.com/el-proyecto-de-ley-de-comunicacion-prohibira-contenidos-que-inciten-a-la-violencia-y-vulneren-los-derechos-de-menores/)** — Diario Bata, 22 October 2026
+
+Equatorial Guinea's draft communication law would ban content inciting violence, hatred or crime, or harming minors, across print, broadcast and digital media, and require streaming, podcast and platform providers to register and answer for what they carry. Broadcast licensees would have to give the regulator free monitoring of their output; the bill's legislative stage is not stated.
 
 </div>
 
@@ -1270,6 +1322,22 @@ Commentary on the deferral reads the contested articles as written to suit the s
 **[Madagascar Has 80% 4G Coverage, Yet Mobile Internet Remains Out of Reach for Most](https://www.ecofinagency.com/news/0210-59411-madagascar-has-80-4g-coverage-yet-mobile-internet-remains-out-of-reach-for-most)** — Ecofin Agency, 2 October 2026
 
 Madagascar's bill on electronic communications and digital infrastructure, submitted on 28 August, still waits for examination by the National Assembly. The article sets it against a market where 4G covers about 80 per cent of the population while mobile internet use stays low.
+
+</div>
+
+</div>
+
+## Malawi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Malawi Information Technology Authority Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital Malawi Acceleration Project (DMAP, P505095) Implementation Support Mission Aide-Memoire](https://documents1.worldbank.org/curated/en/099092826065539592/pdf/P505095-a0a511e8-b5dc-450b-afa9-d010a7c85f0f.pdf)** — World Bank, 4 September 2026
+
+A World Bank mission to the Digital Malawi Acceleration Project, from 31 August to 4 September 2026, found 32.3% of funds disbursed and 62 contracts worth USD 28.3 million signed. The 100 rural cell towers were due to go to bidders by the end of September, and the mission warned that Phase 2 funds, which the finance ministry asked to be released on 31 August, are unlikely before July 2027.
 
 </div>
 
