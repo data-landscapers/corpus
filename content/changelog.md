@@ -1,5 +1,6 @@
 ## 25 October 2026
 
+- A partly digital deal whose own source costs its digital part now counts at that amount, not at half: Madagascar's World Bank connectivity project at US$135m (was 200m) and Lesotho's public-sector foundations credit at US$5m (was 6m). Every other partly digital deal still counts at half.
 - Burundi's 2025/26 budget now follows the August 2025 move of the ICT services into the finance and digital-economy ministry: the digital-infrastructure and digitalisation directorates and five provincial digital-economy offices enter at their revised BIF 1.22bn, and the services they replaced stand at nil. The year is counted once, under the new structure.
 - Uganda's universal service fund and Mali's telecoms regulator are now in the budget tables from their own accounts: UGX 68.1bn spent against 66.2bn budgeted in 2024/25, and XOF 24.4bn of running costs in 2024. The fund counts whole; the regulator counts at half, its mandate also covering post.
 - Kenya's Digital Health Authority now shows its 2025/26 revised budget, KES 394.2m after a mid-year rise of 100m. The 170m the next year's estimates print for it is the exchequer's share alone.

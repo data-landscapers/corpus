@@ -227,40 +227,47 @@ def in_window(by_place):
 # `partial` or `unclear` deal counts at half its amount, as `budget_source.PARTIAL_SHARE` does
 # for a budget line; an `out` deal is one where digital is incidental to another purpose and
 # is left out of the dataset. OSINT keeps every record. `documentation/nonstate-scope.md`.
+# A `partial` deal whose own source states its digital amount carries that amount in
+# `digital_usd_m` and counts at it, not at half (housekeeping 35, 2026-10-25).
 HALF_SCOPES = ("partial", "unclear")
 SCOPE_SHARE = 0.5
 
 
 def load_scope():
     with open(SCOPE_FILE, encoding="utf-8-sig", newline="") as f:
-        return {r["deal_id"]: (r["scope"], r["scope_basis"]) for r in csv.DictReader(f)}
+        return {r["deal_id"]: (r["scope"], r["scope_basis"], (r.get("digital_usd_m") or "").strip())
+                for r in csv.DictReader(f)}
 
 
 def in_scope(by_place, scope):
-    """Tag each non-state deal with its scope and basis, and drop the ones marked `out`,
-    in place. Returns `(out, halved, unassessed)` as sets of deal ids. A deal the lookup
-    does not hold yet stays in at its full amount with a blank scope, and is counted so
-    the build can say so."""
-    out, halved, unassessed = set(), set(), set()
+    """Tag each non-state deal with its scope, basis and any stated digital amount, and
+    drop the ones marked `out`, in place. Returns `(out, halved, unassessed, stated)` as
+    sets of deal ids. A deal the lookup does not hold yet stays in at its full amount with
+    a blank scope, and is counted so the build can say so."""
+    out, halved, unassessed, stated = set(), set(), set(), set()
     for b in by_place.values():
         keep = []
         for r in b["ns"]:
-            s, basis = scope.get(r["deal_id"], ("", ""))
+            s, basis, digital = scope.get(r["deal_id"], ("", "", ""))
             if s == "out":
                 out.add(r["deal_id"])
                 continue
             if not s:
                 unassessed.add(r["deal_id"])
+            elif s in HALF_SCOPES and digital:
+                stated.add(r["deal_id"])
             elif s in HALF_SCOPES:
                 halved.add(r["deal_id"])
             r["scope"], r["scope_basis"] = s, basis
+            r["digital_usd_m"] = float(digital) if s in HALF_SCOPES and digital else None
             keep.append(r)
         b["ns"] = keep
-    return out, halved, unassessed
+    return out, halved, unassessed, stated
 
 
-def scope_note(out, halved, unassessed):
-    return (f"  scope: {len(out)} non-state deals left out, {len(halved)} counted at half"
+def scope_note(out, halved, unassessed, stated):
+    return (f"  scope: {len(out)} non-state deals left out, {len(halved)} counted at half, "
+            f"{len(stated)} at their stated digital amount"
             + (f"; {len(unassessed)} NOT YET ASSESSED, counted in full - judge them into "
                f"lookups/deal-scope.csv: {', '.join(sorted(unassessed)[:20])}"
                if unassessed else ""))
@@ -268,6 +275,14 @@ def scope_note(out, halved, unassessed):
 
 def share(r):
     return SCOPE_SHARE if r.get("scope") in HALF_SCOPES else 1
+
+
+def scoped_cell(r, usd):
+    """The `commitment_usd_m` cell under the deal's scope: the stated digital amount where
+    the source gives one, half for any other partial or unclear deal, else the amount."""
+    if r.get("digital_usd_m") is not None:
+        return usd_m_cell(r["digital_usd_m"])
+    return halved_cell(usd) if share(r) != 1 else usd_m_cell(usd)
 
 
 # ---------------------------------------------------------------- CSV exports
@@ -365,7 +380,7 @@ def _ns_row(r, country, lab):
             fin_name(fm_get(fm, "financier_slug")), fin_african(fm_get(fm, "financier_slug")),
             lab.get(sec, sec),
             T.get("Instrument", ""), is_aid(T.get("Instrument", "")),
-            halved_cell(usd) if share(r) != 1 else usd_m_cell(usd), basis,
+            scoped_cell(r, usd), basis,
             amount_quality(r), r.get("scope", ""), r.get("scope_basis", ""), status,
             dewiki(r["title"]), dewiki(section(r["body"], "Description")),
             T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),
