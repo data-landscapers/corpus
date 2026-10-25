@@ -30,7 +30,7 @@ Asked in order. Each is answered with a date and a link.
 |---|---|---|
 | 1 | Is a payments mandate being set up? | A source from the last three years says the central bank's payments mandate or e-money rules are being drafted, or it oversees payments by circular only |
 | 2 | Does the central bank license payment providers? | A source from the last three years says the central bank licenses or authorises mobile money, e-money or payment service providers |
-| 3 | Does it run or oversee a national switch? | A source from the last three years says the central bank runs or oversees a national payment switch or interoperability arrangement in service |
+| 3 | Does it run or oversee a national switch? | A source from the last three years says the central bank runs or oversees a national payment switch or interoperability arrangement in service. An interbank retail clearing system the central bank manages counts *(Bill, 2026-10-25)* |
 | 4 | Is the country live on PAPSS? | A source from the last three years says the country's banks or payment providers send and receive payments through PAPSS. Joining PAPSS, or a regional payment system, is not a yes |
 
 ## 3. The ladders
