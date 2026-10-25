@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 250
+sources_cited: 251
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -213,7 +213,7 @@ Madagascar has captured more adults biometrically in eighteen months than decade
 
 [Décret n° 2023-515 created a ten-digit unique identification number generated at random, and requires the data-protection authority's prior authorisation before the civil-status and identity registers are interconnected with any other public database](https://digital.gov.mg/wp-content/uploads/2024/04/2023-515-NUI.pdf). The old register's weakness showed in the voter roll, where [the electoral commission traced repeated identity-card numbers to a card register that was not centralised (2020)](https://www.ceni-madagascar.mg/wp-content/uploads/2020/03/Cadre-de-concertation-et-s%C3%A9ance-dinformations-techniques-sur-le-fichier-%C3%A9lectoral-1.pdf).
 
-[The system captures fingerprints, facial images and iris, where the legacy card carried a single fingerprint](https://www.biometricupdate.com/202601/madagascar-digital-id-pilot-kicks-off-testing-infrastructure-ahead-of-nationwide-rollout), against [a credential specified as a chipless, laser-personalised polycarbonate ID-1 card carrying a W3C verifiable-credential QR code](https://digital.gov.mg/wp-content/uploads/2025/06/Webinaire-PRODIGY-CNI-Biometrique-Malagasy-11062025.pdf). What the register does not yet do is authenticate: [as at October 2024 it enabled neither authentication nor electronic know-your-customer checks and published no terms for data storage and sharing](https://dpimap.org/madagascar/). [The UGD commissioned a performance and security audit of the IDMS architecture in March 2026, tested against loi n° 2014-038 on personal data, ISO/IEC 27001, 27701 and 24745, the EU GDPR and the Malabo Convention](https://digital.gov.mg/wp-content/uploads/2026/03/26-03-02-TDR-AUDIT-IDMS.pdf). [PRODIGY, which paid for the programme with a USD 140 million IDA credit and a USD 3 million Global Financing Facility grant, closed in June 2026 after an extension for implementation delays](https://www.biometricupdate.com/202508/madagascars-digital-governance-id-project-timeline-extended-to-2026).
+[The system captures fingerprints, facial images and iris, where the legacy card carried a single fingerprint](https://www.biometricupdate.com/202601/madagascar-digital-id-pilot-kicks-off-testing-infrastructure-ahead-of-nationwide-rollout), against [a credential specified as a chipless, laser-personalised polycarbonate ID-1 card carrying a W3C verifiable-credential QR code](https://digital.gov.mg/wp-content/uploads/2025/06/Webinaire-PRODIGY-CNI-Biometrique-Malagasy-11062025.pdf). What the register does not yet do is authenticate: [as at October 2024 it enabled neither authentication nor electronic know-your-customer checks and published no terms for data storage and sharing](https://dpimap.org/madagascar/). [PRODIGY, which paid for the programme with a USD 140 million IDA credit and a USD 3 million Global Financing Facility grant, closed in June 2026 after an extension for implementation delays](https://www.biometricupdate.com/202508/madagascars-digital-governance-id-project-timeline-extended-to-2026), and its [closing report recorded no biometric card yet activated against a ten-million target, with printing expected around December 2026](https://documents1.worldbank.org/curated/en/099062426090526515/pdf/P169413-42280b60-8510-4ffb-a9c0-1ef6a0cab3d5.pdf).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
