@@ -1,6 +1,6 @@
 ---
 title: South Sudan: status report
-compiled: 2026-10-23
+compiled: 2026-10-25
 place: SSD
 region: XEA
 built_by: STATUS-INIT
@@ -183,7 +183,7 @@ The estate rests on [the Nationality Act 2011, the Civil Registry Act 2018 and t
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-[South Sudan's first electronic interbank payment system went live on 10 October 2025](https://boss.gov.ss/boss-launches-first-ever-electronic-interbank-payment-system/), settling between banks rather than between people: it [moves money between banks in real time and is only expected to support mobile money integration later](https://boss.gov.ss/boss-launches-first-ever-electronic-interbank-payment-system/). Banks joined it [in phases, beginning with a selected group](https://www.eyeradio.org/central-bank-explains-new-interbank-payment-system/), and the central bank's own [national payment system vision and strategic framework was still a project's terms of reference](https://boss.gov.ss/national-payment-system/) (2025).
+[South Sudan's first electronic interbank payment system went live on 10 October 2025](https://boss.gov.ss/boss-launches-first-ever-electronic-interbank-payment-system/), settling between banks rather than between people: it [moves money between banks in real time and is only expected to support mobile money integration later](https://boss.gov.ss/boss-launches-first-ever-electronic-interbank-payment-system/). Banks joined it [in phases, beginning with a selected group](https://www.eyeradio.org/central-bank-explains-new-interbank-payment-system/), until [a central bank circular made connection compulsory for every licensed bank by 31 January 2026, thirteen being on it by November 2025](https://eyeradio.org/boss-sets-january-2026-deadline-for-banks-to-join-national-payment-system/), and the central bank's own [national payment system vision and strategic framework was still a project's terms of reference](https://boss.gov.ss/national-payment-system/) (2025).
 
 The National Instant Payment System is a separate and earlier programme, and remains a project: [a February 2025 partnership between the Bank of South Sudan and AfricaNenda, announced under governor Johnny Ohisa Damian, scoped an implementation roadmap, capacity-building and bank-telco interoperability following a 2023 proof of concept](https://africanenda.org/bank-of-south-sudan-launches-the-countrys-first-national-instant-payment-system/).
 
@@ -334,7 +334,7 @@ The regulator has taken the point at the level of stated intent: [the National C
 ### National statistics
 <!-- data.statistics -->
 
-South Sudan's first nationally representative survey of women and children since independence reported in April 2026: [the 2025 Multiple Indicator Cluster Survey, run by the statistics bureau with UNICEF across more than 10,000 households, found 42% of children attending primary school and 19% of children stunted](https://www.eyeradio.org/s-sudan-first-ever-survey-exposes-gaps-in-women-and-children-services/) (2025). No population census has begun: [the bureau said in April 2025 that its start awaited a declaration by the head of state](https://www.211check.org/post/fact-check-no-the-national-bureau-of-statistics-is-not-recruiting-staff-for-the-census-as-claimed), having [said in May 2024 that one could not be held before the elections then set for December 2024](https://eyeradio.org/nbs-boss-maintains-census-is-impossible-before-slated-polls/).
+South Sudan's first nationally representative survey of women and children since independence reported in April 2026: [the 2025 Multiple Indicator Cluster Survey, run by the statistics bureau with UNICEF across more than 10,000 households, found 42% of children attending primary school and 19% of children stunted](https://www.eyeradio.org/s-sudan-first-ever-survey-exposes-gaps-in-women-and-children-services/) (2025). No population census has begun, and none will before the elections: [the president and the peace-agreement parties postponed it until after the December 2026 general elections, the bureau's chair warning that constituency boundaries lack the data it would supply](https://eyeradio.org/nbs-commends-2026-election-decision-cautions-against-census-data-gaps/) (December 2025).
 
 The system's ability to count is weak and was getting weaker: the [capacity of its statistical system scored 21.4 out of 100 in 2023, 51st of 54 African states and down 10.4 points over the preceding decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ss.pdf).
 

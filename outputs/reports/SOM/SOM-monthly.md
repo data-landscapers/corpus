@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: SOM
-ledger_rows: 23
+ledger_rows: 25
 not_held: 1
-record: df094c80c2b9
+record: d0cdbb07f375
 ---
 
 # News, Sep – Oct 2026
@@ -330,6 +330,20 @@ The International Organization for Migration, Somalia's federal government and t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guidelines on registering marriage officiants and verifying marriage records</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somali Justice Ministry orders marriage officiants to register under new guidelines](https://www.hiiraan.com/news4/2026/Oct/206588/somali_justice_ministry_orders_marriage_officiants_to_register_under_new_guidelines.aspx)** — Hiiraan Online, 22 October 2026
+
+Officiants must register and be licensed; marriage-record verification rules; confidentiality of personal data.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -357,6 +371,20 @@ Somalia's Ministry of Planning launched a digital system on 8 September 2026 to 
 **[Somalia plans unified digital government platform built around national ID](https://www.biometricupdate.com/202610/somalia-plans-unified-digital-government-platform-built-around-national-id)** — Biometric Update, 19 October 2026
 
 Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Federal electronic visa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somali federal government says eVisa dispute with Somaliland resolved, but Hargeisa denies agreement](https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx)** — Hiiraan Online, 21 October 2026
+
+Mogadishu aviation chief claims deal 19 Oct 2026; Somaliland minister says Somalia e-visas still refused at Hargeisa.
 
 </div>
 

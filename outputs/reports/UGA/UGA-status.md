@@ -1,6 +1,6 @@
 ---
 title: Uganda: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: UGA
 region: XEA
 built_by: STATUS-INIT
@@ -296,7 +296,7 @@ The content industries are losing ground: [legitimate pay-TV subscriptions have 
 
 Government has begun asking Ugandan developers to build the state's own systems. In May 2026 the ICT ministry [called on local developers, startups, universities and hubs to submit working prototypes for tax, land, hospital records, employment and digital ID, with the stated aim of cutting dependence on foreign technology providers](https://www.newvision.co.ug/category/business/govt-turns-to-local-innovators-to-build-state-NV_233939_062026), and a [Government Systems Prototype Showcase and National Innovator Registry now invite locally built systems to be built on top of the MOSIP-based national ID](https://www.biometricupdate.com/202605/uganda-launches-prototype-program).
 
-Money has not followed at the same pace. Ugandan startups raised [around US$19 million in 2024](https://www.ceo.co.ug/ugandan-startups-raise-usd-19m-in-2024/), a recovery from [the sharp fall of the year before](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups), and the country sat [121st on WIPO's Global Innovation Index in 2024](https://www.wipo.int/edocs/gii-ranking/2024/ug.pdf) and [95th on StartupBlink's ecosystem ranking](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups) the same year, where activity is [flagged as over-concentrated in Kampala](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups). The best-known home-grown names — [Tugende, SafeBoda, Numida and Rocket Health](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups) — are a short list.
+Money has not followed at the same pace. Ugandan startups raised [around US$19 million in 2024](https://www.ceo.co.ug/ugandan-startups-raise-usd-19m-in-2024/), a recovery from [the sharp fall of the year before](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups), and the country sat [121st on WIPO's Global Innovation Index in 2024](https://www.wipo.int/edocs/gii-ranking/2024/ug.pdf) and [95th on StartupBlink's global startup ranking](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups) the same year, where activity is [flagged as over-concentrated in Kampala](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups). The best-known home-grown names — [Tugende, SafeBoda, Numida and Rocket Health](https://www.wearetech.africa/en/fils-uk/news/public-management/uganda-bets-on-tax-cuts-to-support-startups) — are a short list.
 
 <!-- derived -->
 Private risk capital into Ugandan digital companies is thin on the record: only two equity transactions, successive rounds into the same asset-finance company.
