@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: XAF
-ledger_rows: 117
+ledger_rows: 118
 not_held: 3
-record: 3a7dcabf298b
+record: fb38fe7576d5
 ---
 
 # News, Sep – Oct 2026
@@ -727,6 +727,20 @@ AFRINIC's board ratified three internet number-resource policies on 25 September
 **[AFRINIC ratifies three policies with different implementation clocks](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-ratifies-three-policies-different-implementation-clocks)** — btw.media, 7 October 2026
 
 Summarised under [Standards](#standards).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AFRINIC IPv4 policy proposal AFPUB-2026-IPv4-003 (four pools for recovered space and a post-exhaustion queue)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRINIC’s four-pool IPv4 proposal and its post-exhaustion queue](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-four-ipv4-pools-queue)** — BTW Media, 23 October 2026
+
+Draft AFPUB-2026-IPv4-003 under discussion; four recovered-space pools; queue only after two pools empty.
 
 </div>
 
