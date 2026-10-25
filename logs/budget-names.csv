@@ -275,6 +275,7 @@ COD,hosting,Communications regulator,communications-regulator,Autorité de régu
 COD,hosting,Audit office,,Cour des comptes,no line,
 COD,hosting,Audit office,,Inspection générale des finances,no line,
 COD,deal-recipient,Private Sector,,Eastcastle Infrastructure DRC SARLU,no line,
+COD,deal-recipient,Public Sector,,Democratic Republic of the Congo,no line,
 COD,deal-recipient,Public Sector,,"DRC Ministry of Posts, Telecommunications and Digital Affairs",no line,
 COD,deal-recipient,Private Sector,,Axian Telecom Holding and Management plc,no line,
 COD,deal-recipient,Public Sector,,Government of DR Congo,no line,
@@ -304,6 +305,7 @@ COG,hosting,Cybersecurity agency / National CERT,cybersecurity,Agence nationale 
 COG,hosting,Communications regulator,communications-regulator,Agence de régulation des postes et des communications électroniques,no line,
 COG,hosting,Audit office,,Cour des comptes et de discipline budgétaire,no line,
 COG,deal-recipient,Private Sector,,Gozem,no line,
+COG,deal-recipient,Private Sector,,"Congolese startups and SMEs, unnamed",no line,
 COM,hosting,Presidency,,Présidence de l'Union des Comores (Beit-Salam),no line,
 COM,hosting,Police,,Direction générale de la Police et de la Sûreté nationale,no line,
 COM,hosting,Justice,,Ministère de la Justice,line,com-2024-06-0615
@@ -878,7 +880,7 @@ MLI,hosting,Public procurement authority,procurement,Autorité de régulation de
 MLI,hosting,State-owned telco / National backbone operator,,Société des télécommunications du Mali (Sotelma-Malitel),no line,
 MLI,hosting,E-government agency,ict-ministry-egov,Agence des technologies de l'information et de la communication (AGETIC),line,mli-2024-730-2.077-12-1-2017-0061-001-000000
 MLI,hosting,E-government agency,ict-ministry-egov,Portail gouvernemental du Mali,no line,
-MLI,hosting,Communications regulator,communications-regulator,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),no line,
+MLI,hosting,Communications regulator,communications-regulator,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),line,mli-2024-amrtp
 MLI,hosting,Anti-corruption commission,,Office central de lutte contre l'enrichissement illicite (OCLEI),line,mli-2026-223-2.094-a01-1.3.1
 MLI,deal-recipient,Private Sector,,Orange Mali S.A.,no line,
 MLI,deal-recipient,Public Sector,,Sotelma (Moov Africa Malitel),no line,
