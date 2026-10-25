@@ -56,5 +56,5 @@ place: STP
 
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/STP/finance.html">Full table &mdash; 5 commitments, all 26 fields &rarr;</a>
-<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/STP/STP-nonstate-2026-10-03.csv" download>&darr; Download CSV</a>
+<a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/STP/STP-nonstate-2026-10-25.csv" download>&darr; Download CSV</a>
 </div>
