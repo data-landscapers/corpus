@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: gov.policy
 places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 3cfcde11f3e4
+record: 6d40a349a252
 ---
 
 # News, Sep – Oct 2026
@@ -359,7 +359,7 @@ The Comoros' digital development agency and UNDP signed a memorandum on 16 Septe
 
 **[Conseil des ministres I Approbation d’un projet d’électrification complète de la région de Mledjele à Mwali](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html)** — Al-watwan, 22 October 2026
 
-Comoros' Council of Ministers on 21 October 2026 approved the telecoms minister's national data-governance and data-centre strategy for 2027-2031, along with the takeover and hosting of the State data centre and a national postal-code booklet. Approval was given on condition that the island governors are involved.
+Comoros' telecoms minister presented a national data-governance and data-centre strategy for 2027-2031 to the Council of Ministers on 21 October 2026, along with the takeover and hosting of the State data centre. The Council approved the national postal-code booklet in principle, asking that the island governors be involved.
 
 </div>
 
@@ -676,6 +676,20 @@ Ghana's communications minister announced that every AI system bought by a publi
 **[WHO and UNDP support Ghana to integrate artificial intelligence into digital health strategy](https://www.afro.who.int/countries/ghana/news/who-and-undp-support-ghana-integrate-artificial-intelligence-digital-health-strategy)** — WHO Regional Office for Africa, 12 October 2026
 
 Ghana's Ministry of Health and Ghana Health Service, supported by WHO and UNDP, are reviewing the Digital Health Policy and Strategy 2023–2027 to incorporate AI, reported on 12 October 2026. The programme focuses on AI-enabled disease surveillance combining routine health data with climate data for malaria, cholera and meningitis. No start date or cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Review of the digital sector's policy, institutional and regulatory frameworks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sam George urges Africa to develop homegrown digital technologies](https://www.myjoyonline.com/sam-george-urges-africa-to-develop-homegrown-digital-technologies/)** — MyJoyOnline, 22 October 2026
+
+At Digital Economy Live 2026 in Accra, Ghana's communications minister urged African states to build their own digital technologies rather than depend on foreign ones, citing Ghana's mobile money interoperability and national digital identity. He said his ministry is reviewing the policy, institutional and regulatory frameworks for the digital sector.
 
 </div>
 

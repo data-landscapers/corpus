@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: include.divides
 places: AGO; BFA; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
-record: 644afa8cce6e
+record: f985e94badf0
 ---
 
 # News, Sep – Oct 2026
@@ -540,6 +540,20 @@ Hormuud Telecom and GetPhone said their smartphone financing programme in Somali
 **[South Africa Online Shopping Lags Internet Access as Retail Market Targets Wider Adoption](https://techafricanews.com/2026/09/21/south-africa-online-shopping-lags-internet-access/)** — Tech Africa News, 21 September 2026
 
 The Online Retail in South Africa 2026 report finds 79.1% of adults online but only 34.2% shopping online in 2025, down from 36.6% in 2024, while online retail turnover rose to about R130 billion. The gap is widest among lower-income consumers and women. Delivery costs, weak last-mile service outside the cities and worries about payment security are named as barriers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KwaZulu-Natal fibre pre-provisioning proof of concept</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Premier Ntuli Launches Fibre Initiative to Bridge Digital Divide in KZN Communities](https://www.kznonline.gov.za/index.php?option=com_k2&view=item&id=3103%3Apremier-ntuli-launches-fibre-initiative-to-bridge-digital-divide-in-kzn-communities)** — KwaZulu-Natal Provincial Government (KZNONLINE), 22 October 2026
+
+KwaZulu-Natal's premier launched a fibre pre-provisioning proof of concept at the Empangeni Phase 1A housing development near Richards Bay, building fibre into 405 new homes as they are constructed, in partnership with Huawei. The province presents it as a model for laying connectivity before settlements are occupied.
 
 </div>
 

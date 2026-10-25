@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: data.statistics
-places: BWA; BFA; BDI; CMR; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA
-record: 30bc523fb7af
+places: BWA; BFA; BDI; CMR; CAF; COG; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA
+record: 1e9c9e61f32e
 ---
 
 # News, Sep – Oct 2026
@@ -18,9 +18,13 @@ record: 30bc523fb7af
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#central-african-republic">Central African Republic</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#equatorial-guinea">Equatorial Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -37,6 +41,8 @@ record: 30bc523fb7af
 <a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -127,6 +133,23 @@ Counting closed on 15 September for the fourth population and housing census, co
 
 </div>
 
+## Central African Republic
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fourth general population and housing census (RGPH-4)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CENTRAFRIQUE : RGPH-4, l'ICASEES présente les résultats provisoires globaux et préliminaires au CTIR](https://www.icasees.org/index.php/actualites/423-centrafrique-rgph-4-licasees-presente-les-resultats-provisoires-globaux-et-preliminaires-au-ctir)** — ICASEES, 23 September 2026
+
+The Central African Republic's statistics institute, ICASEES, put the provisional global and preliminary results of the fourth general population and housing census (RGPH-4) before the intersectoral census technical committee in Bangui on 23 September 2026. It is the country's first count since 2003; the operation mapped 7,591 enumeration areas and mobilised more than eleven thousand people, and seven of them died during it.
+
+</div>
+
+
+</div>
+
 ## Congo
 
 <div class="monthly-story" markdown="1">
@@ -176,6 +199,22 @@ Two DRC ministers, Patrick Muyaya and Guylain Nyembo, said on 30 September 2026 
 **[RDC : l’annuaire statistique scolaire 2023-2024 désormais accessible au public](https://congojournal.com/articles/5462/rdc-lannuaire-statistique-scolaire-2023-2024-desormais-accessible-au-public)** — BETO (Beto.cd), republished by CongoJournal, 3 October 2026
 
 The Democratic Republic of the Congo's education ministry put its school statistics yearbook for 2023-2024 online on 3 October 2026, after validating it on 5 June 2026. It covers schools, classes, pupils, teachers, staff and infrastructure for pre-primary, primary and secondary education, and applies only to that school year.
+
+</div>
+
+</div>
+
+## Egypt
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Population, Housing and Establishments Census (moved to 2028)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Planning Minister reviews preparations for 2028 population census](https://sis.gov.eg/en/media-center/news/planning-minister-reviews-preparations-for-2028-population-census/)** — State Information Service (Egypt), 4 October 2026
+
+Egypt's planning minister Ahmed Rostom met the head of CAPMAS on 4 October 2026 to review preparations for the 2028 general census of population, housing and establishments, and pledged the ministry's logistical and institutional support. The results are to guide the Hayah Karima initiative, the national population strategy and housing policy.
 
 </div>
 
@@ -237,6 +276,20 @@ Gabon's energy statistics director, Armand-Colyn Abessolo Nkewele, said on 23 Se
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Recensement general de la population et de l'habitat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RGPL 2026 : après la proclamation des résultats, les Gabonais réclament le rapport détaillé](https://actu241ga.com/rgpl-2026-apres-la-proclamation-des-resultats-les-gabonais-reclament-le-rapport-detaille/)** — Actu241, 21 October 2026
+
+Gabon's census counts 3,518,621 residents, 2,318,365 of them Gabonese, figures certified by the Constitutional Court on 27 August 2026, but the detailed report has not been published. A deputy and citizens are asking when the breakdown by province, commune, age and sex will be released.
+
+</div>
+
+</div>
+
 ## Ghana
 
 <div class="monthly-story" markdown="1">
@@ -248,6 +301,20 @@ Gabon's energy statistics director, Armand-Colyn Abessolo Nkewele, said on 23 Se
 **[Ghana, Denmark Plan New Phase of Cooperation on Government Data](https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data)** — Ecofin Agency, 22 September 2026
 
 Ghana's statistical service and Statistics Denmark agreed the design of a third, three-year phase of their statistics cooperation, focused on institutional capacity and on integrating administrative data held by ministries and agencies. The service signed data-sharing agreements with 25 ministries, departments and agencies in March 2026. No start date or funding figure is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Next population and housing census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana Pledges to Link Official Statistics With Maps](https://thevaultznews.com/2026/10/23/ghana-pledges-to-link-official-statistics-with-maps/)** — The Vaultz News, 23 October 2026
+
+Ghana's Government Statistician, writing on the opening of the tenth Statistical Commission for Africa, called for official statistics broken down to community level and tied to maps. He committed the Ghana Statistical Service to five steps, including early preparation for the 2031 census.
 
 </div>
 
@@ -375,6 +442,22 @@ Libya's General Authority for Information met information centres from the Prime
 
 </div>
 
+## Malawi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">2028 Population and Housing Census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Building Stronger Foundations for Malawi's 2028 Census](https://www.worldpop.org/blog/building-stronger-foundations-for-malawis-2028-census/)** — WorldPop, 14 October 2026
+
+WorldPop and the UK Office for National Statistics ran a five-day workshop in Blantyre for staff of Malawi's National Statistical Office on high-resolution household population estimates, combining census and survey data with geospatial models, ahead of the 2028 census. The training covered Bayesian modelling in R and tools for updating and partitioning enumeration areas.
+
+</div>
+
+</div>
+
 ## Mali
 
 <div class="monthly-story" markdown="1">
@@ -418,6 +501,20 @@ Mauritius's prime minister, Navinchandra Ramgoolam, launched BOMStats, the Bank 
 **[Mozambique: New barometer to monitor media, combat disinformation and fake news](https://clubofmozambique.com/news/mozambique-new-barometer-to-monitor-media-combat-disinformation-and-fake-news/)** — Club of Mozambique, 5 September 2026
 
 Mozambique is to introduce a Media Barometer to measure audience trust and track disinformation and deepfakes, announced on 4 September 2026 at the Government Information Office's coordinating council in Maputo. The Higher School of Journalism designed it. A 2025 survey counted 1,207 active media outlets, including 275 radio stations and 147 television channels.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fifth General Population and Housing Census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INE enfrenta défice de 45 milhões de dólares para financiar o Recenseamento Geral](https://www.rm.co.mz/ine-enfrenta-defice-de-45-milhoes-de-dolares-para-financiar-o-recenseamento-geral/)** — Rádio Moçambique, 13 October 2026
+
+Mozambique's national statistics institute, INE, has about US$60m of the US$110m the next general census needs, US$45m of it from the government and the rest from partners, leaving a gap of about US$45m, its spokesman Pedro Duce said on releasing the results of the pilot census in Magude district. INE is still raising funds for a census next year.
 
 </div>
 

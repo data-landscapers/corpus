@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: dpi.mis
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 10ed34d17dab
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ca02768cc7ac
 ---
 
 # News, Sep – Oct 2026
@@ -15,6 +15,8 @@ record: 10ed34d17dab
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -237,6 +239,22 @@ Benin's customs directorate announced on 9 September 2026 that passes for foreig
 
 </div>
 
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Health Insurance integrated patient information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana explores AI integration into National Health Insurance](https://www.mmegi.bw/ampArticle/124451)** — Mmegi, 21 October 2026
+
+A consultant to Botswana's planned National Health Insurance scheme said authorities are considering digital and AI tools to coordinate public and private providers, now that Parliament has approved the NHI policy and a financing model is being prepared to accompany the bill. The government has allocated P77.8m this year to set up the scheme.
+
+</div>
+
+</div>
+
 ## Burkina Faso
 
 <div class="monthly-story" markdown="1">
@@ -378,6 +396,20 @@ The WHO Regional Office for Africa launched DIGIT-HCM, a three-year initiative t
 **[Numérique : Le pastoralisme tchadien entame sa révolution digitale avec l’appui du PRAPS-2 Tchad et de l’OMSA](https://praps2tchad.org/numerique-le-pastoralisme-tchadien-entame-sa-revolution-digitale-avec-lappui-du-praps-2-tchad-et-de-lomsa/)** — PRAPS-2 Tchad, 21 October 2026
 
 Chad's livestock ministry took delivery on 21 October 2026 of seven digital systems built by the PRAPS-2 pastoralism project with technical support from the World Organisation for Animal Health. They include an animal-health information system linked to the health ministry, laboratory systems for two institutes, a school portal and a central HR planning database.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Teacher tablets and teaching-corps enrolment under PARAEB</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Éducation : le PAREAB lance la distribution de 39 000 tablettes numériques et Power bank aux enseignants du primaire](https://lendjampost.com/education-le-pareab-lance-la-distribution-de-39-000-tablettes-numeriques-et-power-bank-aux-enseignants-du-primaire/)** — Le N'Djam Post, 23 October 2026
+
+Chad's education ministry and the World Bank-funded PARAEB project began distributing 39,000 tablets with power banks to primary teachers, preloaded with curricula, teacher guides and the Teach and Coach classroom tools. The first phase covers four academies and 9,375 teachers.
 
 </div>
 
@@ -897,6 +929,14 @@ Kenya's switch from the NEMIS school data system to KEMIS ran into failed logins
 **[Education data systems switch leaves schools with millions in funding gaps](https://nation.africa/kenya/news/education/education-data-systems-switch-schools-millions-in-funding-gaps-5633286)** — Daily Nation, 16 October 2026
 
 Kenya's Auditor-General found that the NEMIS learner database, replaced by KEMIS in September 2025, under-counted pupils in national schools and left them underfunded. A parliamentary committee resolved to summon the Education Cabinet Secretary.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Education ministry sued over ‘flaws’ in KEMIS Portal](https://nation.africa/kenya/news/education/education-ministry-sued-over-flaws-in-kemis-portal-5640290)** — Daily Nation, 21 October 2026
+
+Two petitioners have asked a Kenyan court to stop the education ministry finalising senior-school placements, saying the KEMIS portal shows at most 1,000 schools for any subject combination without saying the list is cut. They say 26 combinations are affected, one of them listing 1,000 of 10,515 schools, and that some combinations show no schools at all.
 
 </div>
 

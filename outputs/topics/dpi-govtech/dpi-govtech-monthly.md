@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d996bfa0e9e8
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c9579baecb42
 ---
 
 # News, Sep – Oct 2026
@@ -85,6 +85,8 @@ record: d996bfa0e9e8
 <a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -2609,6 +2611,22 @@ Audit Service Sierra Leone trained 25 staff on SierraSeat, its audit management 
 **[Chief Minister digitises Ministerial performance to strengthen accountability](https://sierraleoneconcordtimes.com/chief-minister-digitises-ministerial-performance-to-strengthen-accountability/)** — Concord Times, 12 October 2026
 
 Sierra Leone's Chief Minister, David Moinina Sengeh, opened a workshop at which ministries and agencies were shown VISION-SL, a digital platform to hold ministerial performance contracts, targets, indicators and quarterly progress reports in one system, reported on 12 October 2026. It is meant to track the national development plan and still awaits validation and testing. No cost or launch date is given.
+
+</div>
+
+</div>
+
+## Somalia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Federal electronic visa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somali federal government says eVisa dispute with Somaliland resolved, but Hargeisa denies agreement](https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx)** — Hiiraan Online, 21 October 2026
+
+Somalia's civil aviation authority said its dispute with Somaliland over the national eVisa system was resolved and that Hargeisa-based travel agencies could use it. Somaliland's aviation minister denied any agreement, saying travellers arriving at Hargeisa with a Somalia-issued eVisa still need a Somaliland visa.
 
 </div>
 

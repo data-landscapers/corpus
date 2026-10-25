@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: dpi.id
 places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 2d1c7b01659d
+record: c5441b94d9dd
 ---
 
 # News, Sep – Oct 2026
@@ -634,6 +634,20 @@ A Gambia Immigration Department officer told a court on 6 October that the depar
 **[GID denies losing access to National ID card data](https://gambiana.com/gid-denies-losing-access-to-national-id-card-data/)** — Gambiana, 13 October 2026
 
 The Gambia Immigration Department denied losing access to national identity card data, saying the servers used under the former contract remain in the country. It attributed the reports to a misunderstanding of an officer's court testimony.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Securiport immigration-security contract at Banjul airport</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Banjul Airport Security Needs A Public Scorecard Not Another Argument](https://standard.gm/banjul-airport-security-needs-a-public-scorecard-not-another-argument/)** — The Standard, 21 October 2026
+
+An opinion piece argues that the Gambia's contract with Securiport for civil-aviation and immigration security at Banjul airport needs a public scorecard of which findings of the National Audit Office's November 2022 management letter have been closed. It separates what the auditors found for September 2019 to May 2021 from the responses institutions printed, such as the civil aviation authority's report of a joint collection account.
 
 </div>
 

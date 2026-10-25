@@ -1,10 +1,10 @@
 ---
 title: Open data — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: data.open
-places: BFA; CPV; CAF; CIV; COD; SWZ; GMB; GHA; GNB; MDG; MWI; MUS; NGA; SEN; SLE; SOM; TZA; TUN; ZMB
-record: 43583098ff58
+places: BFA; CPV; CAF; CIV; COD; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MUS; NGA; SEN; SLE; SOM; TZA; TUN; ZMB
+record: 08f4f63e1d74
 ---
 
 # News, Sep – Oct 2026
@@ -27,6 +27,8 @@ record: 43583098ff58
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea-bissau">Guinea-Bissau</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -216,6 +218,22 @@ Researchers at Ghana's Kwame Nkrumah University of Science and Technology took E
 **[26 técnicos capacitados para reforçar o acompanhamento dos projetos de desenvolvimento na Guiné-Bissau](https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/)** — Instituto Marquês de Valle Flôr (IMVF), 20 October 2026
 
 The Boa Governação project trained 26 regional planning delegates, regional secretaries and civil-society staff in Bissau on 1-3 September 2026 to enter and update data in Guinea-Bissau's Plans and Projects Information System (SIPP). Anyone can consult the system's public side to see regional development plans, ongoing projects and who runs them.
+
+</div>
+
+</div>
+
+## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Community-Based Monitoring and Information System (northern Kenya)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Who owns Indigenous data? Kenyan communities demand more control](https://nation.africa/kenya/climate/who-owns-indigenous-data-kenyan-communities-demand-more-control-5641966)** — Daily Nation, 22 October 2026
+
+Indigenous communities from northern Kenya presented a community-based monitoring and information system at the biodiversity COP17 in Yerevan, developed with the organisation IMPACT, to record traditional knowledge of grazing, water and wildlife digitally. They want that data recognised in national biodiversity reporting while staying under community control.
 
 </div>
 

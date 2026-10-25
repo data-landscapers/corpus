@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: digital.localgov
-places: CMR; TCD; EGY; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 2edafa103c63
+places: CMR; TCD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
+record: a3a48a5a501c
 ---
 
 # News, Sep – Oct 2026
@@ -15,6 +15,8 @@ record: 2edafa103c63
 <a href="#chad">Chad</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -130,6 +132,22 @@ N'Djamena's town hall and Chad's secure-documents agency ANATS signed a memorand
 **[Cairo Governor witnesses launch of Citizen Services System Development Program](https://www.cairo.gov.eg/en/news/2026/october/13/c34e40b9a36345c684c21c448d164f79)** — Cairo Governorate, 13 October 2026
 
 Cairo Governor Ibrahim Saber launched a six-month programme for staff of the governorate's citizen service centres, announced on 13 October 2026, with monthly workshops on handling complaints. It is to produce a unified service guide, a quality checklist and evaluation indicators. Saber listed services already online, including real-estate tax, complaints, building-violation settlements and cemetery and parking bookings.
+
+</div>
+
+</div>
+
+## Gabon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Libreville municipal revenue-digitalisation system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiement électronique des recettes municipales : quel bilan 4 mois après ?](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres)** — L'Union - Sonapresse, 22 October 2026
+
+Four months after Libreville's mayor launched collection of market fees by Airtel Money and Moov Money at Mont-Bouët market on 12 June, traders interviewed say they paid electronically once or twice before going back to cash, or never did. The article gives no figures from the municipality on how much has been collected electronically.
 
 </div>
 

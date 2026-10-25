@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a134dbd6e4b5
+record: 3dee1e74fb6d
 ---
 
 # News, Sep – Oct 2026
@@ -1840,6 +1840,20 @@ The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financ
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cashless Electronic Ticketing System (buses)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PQ : Paiement électronique dans les bus : Trois offres reçues](https://lexpress.mu/node/563934)** — L'Express (Maurice), 22 October 2026
+
+Mauritius received three bids for consultancy on a cashless electronic ticketing system for buses, using a smart card and mobile app and possibly extended to Metro Express and taxis, the land transport minister told parliament. Bids opened on 17 September are being evaluated for award by the end of October, for a six-month assignment; a clearing house is a precondition and no launch date is set.
+
+</div>
+
+</div>
+
 ## Morocco
 
 <div class="monthly-story" markdown="1">
@@ -1947,6 +1961,20 @@ The same central bank figures show the accounts skewed male: 144.7 per 100 adult
 **[Mozambique: Number of electronic money accounts now almost four times the number of traditional bank accounts](https://clubofmozambique.com/news/mozambique-number-of-electronic-money-accounts-now-almost-four-times-the-number-of-traditional-bank-accounts/)** — Club of Mozambique, 15 September 2026
 
 Electronic money accounts reached 130.9 per 100 adults in the second quarter of 2026, against 33.8 per 100 for traditional bank accounts, on central bank figures covering three operators.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pan-African Payment and Settlement System participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Welcome, Mozambique! We are pleased to welcome Mozambique to the Pan-African Payment & Settlement System - PAPSS](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-papss-activity-7510672876509917184-5qEO)** — PAPSS (LinkedIn), 29 September 2026
+
+The Pan-African Payment and Settlement System announced that Mozambique has joined PAPSS together with Banco de Moçambique, and invited banks operating in the country to apply to be onboarded. The post names no bank already live on the system.
 
 </div>
 
@@ -2445,6 +2473,20 @@ Seneweb argues Senegal's digital-payments market is no longer an Orange Money-Wa
 **[Wave rejoint la plateforme de paiement instantané de la BCEAO, un an après son lancement](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)** — Agence Ecofin, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Mobile money operator Wave Digital Finance appears on the BCEAO's list of participants in its PI-SPI instant payment platform updated on 30 September 2026, authorised to offer the service in Senegal. Wave was absent when the platform launched a year earlier with 45 participants; the list now has 175 across the eight WAEMU states. The central bank had set 30 September 2026 as the connection deadline.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial inclusion rate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion financière : le Sénégal parmi les pays les plus avancés de l’UEMOA en 2025](https://lesoleil.sn/actualites/economie/inclusion-financiere-le-senegal-parmi-les-pays-les-plus-avances-de-luemoa-en-2025/)** — Le Soleil, 21 October 2026
+
+Le Soleil reports from the BCEAO's 2025 financial inclusion report that Senegal's composite index is 0.651 against a WAEMU average of 0.616. Senegal has 150 service points per 10,000 adults, almost all of them e-money outlets; its strict banking rate is 27.42 per cent, its broad rate 67.13 per cent, and 39.71 per cent of adults use microfinance.
 
 </div>
 

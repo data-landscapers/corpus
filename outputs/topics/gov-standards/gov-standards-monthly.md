@@ -1,10 +1,10 @@
 ---
 title: Standards — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: gov.standards
 places: BEN; BFA; BDI; CMR; COG; EGY; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; NAM; NGA; RWA; SYC; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 2bc327227d75
+record: 7988778c193a
 ---
 
 # News, Sep – Oct 2026

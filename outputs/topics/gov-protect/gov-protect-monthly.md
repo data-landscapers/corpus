@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: gov.protect
 places: AGO; BEN; BFA; CPV; COG; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4a5ac7950d6d
+record: 3e9514606006
 ---
 
 # News, Sep – Oct 2026

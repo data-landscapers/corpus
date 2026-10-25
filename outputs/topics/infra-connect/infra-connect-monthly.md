@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: infra.connect
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 2743acb317c8
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: fc3313c3ec04
 ---
 
 # News, Sep – Oct 2026
@@ -13,6 +13,8 @@ record: 2743acb317c8
 <a href="#algeria">Algeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -331,6 +333,22 @@ Q-KON and SISTEC opened a point of presence in Luanda for the Twoobii OneWeb low
 
 </div>
 
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Roaming agreement with Burkina Faso</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
+
+</div>
+
+</div>
+
 ## Botswana
 
 <div class="monthly-story" markdown="1">
@@ -370,6 +388,20 @@ Botswana's state fibre operator BoFiNet announced the launch of the Digital Delt
 **[Botswana invests in highway connectivity](https://itweb.africa/article/botswana-invests-in-highway-connectivity/8OKdWqDXOgQqbznQ)** — ITWeb Africa, 12 October 2026
 
 Botswana's universal service fund, working with one mobile operator, has deployed 12 mobile broadband and voice sites along the 1,900km Trans-Kalahari Highway at a cost of P34.5 million, the communications minister said. Infrastructure sharing with the other two operators is to extend coverage by the end of the next financial year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ATU IPv6 testbed</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ATU advances IPv6 testbed preparations in Botswana](https://techreviewafrica.com/news/7904/atu-advances-ipv6-testbed-preparations-in-botswana)** — Tech Review Africa, 24 October 2026
+
+The African Telecommunications Union moved its IPv6 testbed for Botswana forward after a due-diligence visit to the regulator BOCRA, which has picked a university by tender to host it. The testbed is part of an ICANN-funded ATU programme under which 52 specialists from 26 African countries have been trained; the visit coincided with a Smart Africa and CRASA workshop in Gaborone on 20 to 22 October on cutting roaming costs in southern Africa.
 
 </div>
 
@@ -1103,6 +1135,20 @@ Gabon's digital agency ANINF told an ITU workshop on universal meaningful connec
 **[CAB-CORRIDOR : la SPIN et CAMTEL renforcent la connectivité numérique en Afrique centrale - Société de Patrimoine des Infrastructures Numériques CAB-CORRIDOR : SPIN et CAMTEL renforcent la connectivité en Afrique centrale](https://spin.ga/cab-corridor-spin-camtel-connectivite-afrique-centrale/)** — SPIN Gabon, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
 Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have signed a memorandum of understanding and a confidentiality agreement on CAB-CORRIDOR, a terrestrial link between Cameroon, Gabon and the Republic of Congo over the Central African Backbone, SPIN said on 3 October 2026. Implementation terms are expected in October 2026; signing dates are not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : une 'Gabon Digital Week' au coeur de l'innovation](https://www.union.sonapresse.com/fr/numerique-une-gabon-digital-week-au-coeur-de-linnovation)** — L'Union - Sonapresse, 24 October 2026
+
+Gabon's digital economy ministry announced a Gabon Digital Week at the Palais des Congrès in Libreville from 26 to 30 October 2026, under the president's patronage. The programme includes a government seminar on the national digitalisation strategy, presentation of the Gabon Digital programme, the official start of a 5G pilot with Moov Africa Gabon Telecom and Airtel Gabon, and an African Union specialised technical committee where some fifteen ministers are to draft a Libreville Declaration ahead of ITU meetings in Doha.
 
 </div>
 

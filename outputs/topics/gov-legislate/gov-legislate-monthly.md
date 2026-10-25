@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0285b38e9b48
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 22e796178996
 ---
 
 # News, Sep – Oct 2026
@@ -85,6 +85,8 @@ record: 0285b38e9b48
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-sudan">South Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -2114,6 +2116,22 @@ South Africa's finance minister said on 21 October 2026, presenting the Medium-T
 **[BoSS Sets Strict USD Caps on Mobile Money](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)** — Access Radio Yei, 1 September 2026
 
 The Bank of South Sudan's amended electronic money rules have taken effect, setting three customer-verification tiers with daily limits of SSP 1.625 million, 6.5 million and 13 million. Every digital payment platform must connect to the National Payment System through a licensed switch, keep customer funds in trust accounts spread across banks, and resolve complaints within seven days.
+
+</div>
+
+</div>
+
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed amendment of Criminal Code article 51 to cover electronic publishing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudan press syndicate rejects criminal code amendment](https://sudantribune.com/article/320352)** — Sudan Tribune, 23 October 2026
+
+Sudan's journalists' syndicate and rights groups oppose a justice ministry amendment adding publishing in media and on electronic platforms to Article 51 of the 1991 Criminal Code, on waging war against the state, which carries penalties up to death. They also reject a planned national cybercrime mechanism with powers to monitor media and social platforms; the minister defended both.
 
 </div>
 

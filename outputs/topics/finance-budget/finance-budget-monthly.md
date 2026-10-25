@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: finance.budget
 places: BFA; LBY; SYC; ZAF; TZA
-record: a2c7e109fbf6
+record: a3b2ecd78dc8
 ---
 
 # News, Sep – Oct 2026

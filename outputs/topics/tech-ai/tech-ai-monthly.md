@@ -1,10 +1,10 @@
 ---
 title: AI — News, September – October 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fe38f016dd80
+record: 30e00495a6f1
 ---
 
 # News, Sep – Oct 2026
@@ -1129,6 +1129,14 @@ Ghana scored 2.23 out of 4 on the Africa AI Governance Index 2026, in the Develo
 **[Sam George tasks KNUST to develop Twi AI model as Ghana plans local-language artificial intelligence](https://www.myjoyonline.com/sam-george-tasks-knust-to-develop-twi-ai-model-as-ghana-plans-local-language-artificial-intelligence/)** — MyJoyOnline, 12 October 2026
 
 Ghana's communications minister said national AI language models will be built locally, tasking a Kumasi university to lead a Twi model and other universities to lead other Ghanaian languages. Voice interfaces for farmers and telemedicine are planned; no budget or timetable was given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sam George outlines $270m Ghana AI investment, cites risks of feeding government data into foreign models](https://www.myjoyonline.com/sam-george-outlines-270m-ghana-ai-investment-cites-risks-of-feeding-government-data-into-foreign-models/)** — MyJoyOnline, 21 October 2026
+
+Ghana's communications minister Samuel Nartey George outlined a US$270m AI programme, US$250m for infrastructure and computing and US$20m as seed money for an AI fund, including a national language model he called Ghana Chat. He said analysts in ministers' offices had put classified material into foreign AI platforms, which he said undercut the country's data-residency law.
 
 </div>
 
