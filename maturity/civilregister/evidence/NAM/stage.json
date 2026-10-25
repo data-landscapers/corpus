@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "civil",
-      "stage": "5",
+      "stage": "4",
       "births": "inservice",
       "deaths": "digital",
-      "coverage": "target",
+      "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-004;NAM-006",
-      "gaps": "Whether the 99% is measured against estimated births is not stated.",
-      "note": "The e-birth notification system is implemented nationwide and feeds the national register, deaths are notified electronically in 153 facilities, and birth registration is close to 99% (2026).",
-      "as_at": "2026-10-24"
+      "stage_sources": "NAM-004;NAM-005",
+      "gaps": "No source held puts births registered in the digital system at 90% or more: the close to 99% coverage given in March 2026 is a national rate that may include paper registration.",
+      "note": "Births are notified electronically nationwide and deaths in 153 facilities, so stage 4. The 99% coverage figure is not shown to be of digital registration (Bill, 2026-10-25).",
+      "as_at": "2026-10-25"
     }
   ]
 }

@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 8 |
+| 5 Leading | 1 |
+| 4 Operating | 9 |
 | 3 Established | 5 |
 | 2 Nascent | 33 |
 | 1 Absent | 1 |
@@ -29,13 +29,6 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 | No evidence | 3 |
 
 ## Countries
-
-### Namibia: 5 Leading
-
-90% or more of births were registered in 2026.
-
-- A speaker at the Africa CDC learning visit said the e-birth notification system, introduced in 2017, has been implemented nationwide and connects 153 state and private facilities, per Home Affairs Minister Iipumbu's account ([source, 2026-03-27](https://www.nbcnews.na/node/115695)).
-- A speaker at the Africa CDC learning visit said Namibia records birth registration coverage of close to 99%, in March 2026 ([source, 2026-03-27](https://www.nbcnews.na/node/115695)).
 
 ### Rwanda: 5 Leading
 
@@ -85,6 +78,13 @@ Births and deaths were registered digitally in 2024; 90% birth registration is n
 
 - The Interior Ministry says its civil-status management system (SGEC) is generalised across all civil-status offices in the Kingdom and handles birth declarations, with over 1,300,000 acts declared or issued ([source, 2024-10-29](https://aujourdhui.ma/actualite/registre-national-linterieur-renforce-son-dispositif-digital-de-letat-civil)).
 - The Interior Ministry says the SGEC handles death declarations as well as births, marriages and divorces ([source, 2024-10-29](https://aujourdhui.ma/actualite/registre-national-linterieur-renforce-son-dispositif-digital-de-letat-civil)).
+
+### Namibia: 4 Operating
+
+Births and deaths were notified electronically in 2026; the share of births registered digitally is not known.
+
+- A speaker at the Africa CDC learning visit said the e-birth notification system, introduced in 2017, has been implemented nationwide and connects 153 state and private facilities, per Home Affairs Minister Iipumbu's account ([source, 2026-03-27](https://www.nbcnews.na/node/115695)).
+- Home Affairs Minister Iipumbu said the e-death notification, introduced in 2018, now operates in 153 state and private facilities ([source, 2026-03-27](https://www.nbcnews.na/node/115695)).
 
 ### Sao Tome and Principe: 4 Operating
 

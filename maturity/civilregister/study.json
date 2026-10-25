@@ -64,7 +64,7 @@
         "A digital civil registration system is procured, piloted or rolled out to some offices.",
         "Births are registered in a digital system in service nationally.",
         "Deaths are registered in the digital system, in service.",
-        "A source from the past three years puts the share of births registered at 90% or more."
+        "A source from the past three years puts the share of births registered in the digital system at 90% or more."
       ],
       "criteria_of": "58b9425e7917"
     }
@@ -112,7 +112,8 @@
         "target"
       ],
       "values": [
-        "target"
+        "target",
+        "general"
       ]
     }
   ],

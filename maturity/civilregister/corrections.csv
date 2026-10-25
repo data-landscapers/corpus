@@ -8,3 +8,5 @@ ERI,001,deaths,digital,removed,"First pass: computerised municipal certificates,
 SOM,003,deaths,digital,revalued: births:underway,First pass: a pilot platform
 GHA,001,coverage,target,removed,First pass: a later figure in the same source puts coverage at 73.4% by end-2025
 STP,004,coverage,target,removed,"First pass: a share of people holding a birth certificate, not births registered"
+EGY,003,coverage,target,revalued: coverage:general,"a national registration rate that may include paper registration, not births registered in the digital system (Bill, 2026-10-25)"
+NAM,006,coverage,target,revalued: coverage:general,"a national registration rate that may include paper registration, not births registered in the digital system (Bill, 2026-10-25)"
