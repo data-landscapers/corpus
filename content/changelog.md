@@ -1,5 +1,6 @@
 ## 25 October 2026
 
+- The central bank governance indicator's top stage now needs the country live on PAPSS, its banks sending and receiving payments; a regional payment system, or joining PAPSS, no longer counts. Nineteen countries fall from 5 to 4 and Uganda to unplaced; seven hold 5.
 - The censuses and surveys indicator now counts a census's preliminary results as published, not only its final ones. Burundi, Guinea and Guinea-Bissau rise to stage 4 and the Gambia to 5.
 - The use of open data indicator's top stage now needs four or more public bodies publishing data, named or counted in the past two years; reuse and download counts no longer count. Libya and Togo rise to 5 and Burkina Faso holds it; Liberia and Senegal fall to 4 and the Central African Republic to 3.
 - The business register's top stage now needs the beneficial owners of every company recorded, and a firm number shared with tax or social security shown in its own right. No country holds stage 5 now: Tunisia falls to 4; Kenya, Mozambique, Nigeria, Senegal, South Africa and Tanzania to 3; Ghana, Namibia and Zambia to 2.

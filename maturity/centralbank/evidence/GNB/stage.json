@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "5",
+      "stage": "4",
       "mandate": "licensing",
       "switch": "overseen",
-      "regional": "linked",
+      "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GNB-006;GNB-011",
-      "gaps": "",
-      "note": "The BCEAO runs PI-SPI, the UEMOA instant payment platform in service, with five Guinea-Bissau institutions authorised on it by July 2026. That is a regional payment system in service.",
-      "as_at": "2026-10-24"
+      "stage_sources": "GNB-005;GNB-010",
+      "gaps": "No source held since October 2023 says the country is live on PAPSS: a regional payment system, or joining PAPSS, does not count.",
+      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): PAPSS fully operational only; a regional payment system, or joining PAPSS, no longer answers it.",
+      "as_at": "2026-10-25"
     }
   ]
 }

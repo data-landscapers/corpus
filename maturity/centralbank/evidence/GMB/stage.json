@@ -1,18 +1,18 @@
 {
-  "iso3": "GMB",
-  "cells": [
-    {
-      "sub_indicator": "centralbank",
-      "stage": "5",
-      "mandate": "licensing",
-      "switch": "overseen",
-      "regional": "linked",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "GMB-006;GMB-002",
-      "gaps": "",
-      "note": "PAPSS lists seven Gambian banks as live send-and-receive participants in June 2026, a continental system in service. The CBG also oversees BANTABA 2.0, the national switch.",
-      "as_at": "2026-10-24"
-    }
-  ]
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "centralbank",
+   "stage": "5",
+   "mandate": "licensing",
+   "switch": "overseen",
+   "regional": "live",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-006;GMB-002",
+   "gaps": "",
+   "note": "PAPSS lists seven Gambian banks as live send-and-receive participants in June 2026, a continental system in service. The CBG also oversees BANTABA 2.0, the national switch.",
+   "as_at": "2026-10-24"
+  }
+ ]
 }

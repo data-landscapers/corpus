@@ -64,3 +64,23 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,LBY,dpi.pay--governance-role-of-central-bank,fact,4,4,LBY-002;LBY-003,CBL joined PAPSS Dec 2025; accession without live participation not counted; unchanged
 2026-10-25,SOM,dpi.pay--governance-role-of-central-bank,fact,4,4,SOM-006;SOM-007,CBS joined PAPSS Mar 2026; accession without live participation not counted; unchanged
 2026-10-25,MOZ,dpi.pay--governance-role-of-central-bank,fact,4,4,MOZ-004;MOZ-002,Mozambique joined PAPSS Sep 2026; accession without live participation not counted; unchanged
+2026-10-25,AGO,dpi.pay--governance-role-of-central-bank,ladder,5,4,AGO-001;AGO-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,BEN,dpi.pay--governance-role-of-central-bank,ladder,5,4,BEN-002;BEN-004,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,BFA,dpi.pay--governance-role-of-central-bank,ladder,5,4,BFA-002;BFA-001,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,CAF,dpi.pay--governance-role-of-central-bank,ladder,5,4,CAF-005,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,CIV,dpi.pay--governance-role-of-central-bank,ladder,5,4,CIV-004;CIV-001,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,CMR,dpi.pay--governance-role-of-central-bank,ladder,5,4,CMR-010;CMR-006,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,COG,dpi.pay--governance-role-of-central-bank,ladder,5,4,COG-005,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,GAB,dpi.pay--governance-role-of-central-bank,ladder,5,4,GAB-002;GAB-007,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,GNB,dpi.pay--governance-role-of-central-bank,ladder,5,4,GNB-005;GNB-010,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,GNQ,dpi.pay--governance-role-of-central-bank,ladder,5,4,GNQ-005,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,MLI,dpi.pay--governance-role-of-central-bank,ladder,5,4,MLI-005;MLI-007,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,MUS,dpi.pay--governance-role-of-central-bank,ladder,5,4,MUS-001,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,MWI,dpi.pay--governance-role-of-central-bank,ladder,5,4,MWI-005;MWI-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,NER,dpi.pay--governance-role-of-central-bank,ladder,5,4,NER-007;NER-003,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,SEN,dpi.pay--governance-role-of-central-bank,ladder,5,4,SEN-003;SEN-006,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,TCD,dpi.pay--governance-role-of-central-bank,ladder,5,4,TCD-005,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,TGO,dpi.pay--governance-role-of-central-bank,ladder,5,4,TGO-007;TGO-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,UGA,dpi.pay--governance-role-of-central-bank,ladder,5,unplaced,,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,ZAF,dpi.pay--governance-role-of-central-bank,ladder,5,4,ZAF-004;ZAF-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-25,ZMB,dpi.pay--governance-role-of-central-bank,ladder,5,4,ZMB-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"

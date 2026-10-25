@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-centralbank.md — the central bank's oversight of digital payments, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-25
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is a payments mandate being set up? | A source from the last three years says the central bank's payments mandate or e-money rules are being drafted, or it oversees payments by circular only |
 | 2 | Does the central bank license payment providers? | A source from the last three years says the central bank licenses or authorises mobile money, e-money or payment service providers |
 | 3 | Does it run or oversee a national switch? | A source from the last three years says the central bank runs or oversees a national payment switch or interoperability arrangement in service |
-| 4 | Is it linked to a regional or continental payment system? | A source from the last three years says the central bank or the country takes part in PAPSS or a regional payment system in service |
+| 4 | Is the country live on PAPSS? | A source from the last three years says the country's banks or payment providers send and receive payments through PAPSS. Joining PAPSS, or a regional payment system, is not a yes |
 
 ## 3. The ladders
 
@@ -43,9 +43,11 @@ Asked in order. Each is answered with a date and a link.
 | 2 Mandate in drafting | Yes to 1 |
 | 3 Licensing providers | Yes to 2 |
 | 4 Overseeing a switch | Yes to 3 |
-| 5 Linked regionally | Yes to 4 |
+| 5 Live on PAPSS | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `mandate` (`licensing`, `drafting`, `none`) for stage 1 and questions 1 and 2, `switch` (`overseen`) for 3 and `regional` (`linked`) for 4.
+A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `mandate` (`licensing`, `drafting`, `none`) for stage 1 and questions 1 and 2, `switch` (`overseen`) for 3 and `regional` (`live`, `joined`, `regional`) for 4, where only `live` is a yes.
+
+**Rung 5 rewritten** *(Bill, 2026-10-25)*: PAPSS fully operational only; a regional payment system (PI-SPI, GIMACPAY, SADC-RTGS, REPSS, EAPS) no longer answers it, and joining PAPSS does not. The 94 `linked` facts were revalued (`corrections.csv`). Nineteen cells fell from 5 to 4, and Uganda, whose only fact was the East African Payment System, to unplaced. Djibouti, the Gambia, Ghana, Liberia, Nigeria, Sierra Leone and Zimbabwe hold 5 on live PAPSS participation.
 
 ## 4. The norm
 

@@ -6,8 +6,8 @@
 
 **Overseeing a switch.** [Bank of Mauritius Governor Thakoor says the bank's infrastructure includes the Mauritius Central Automated Switch (MauCAS), whose QR payments are now usable in Mauritius and India](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>).
 
-**Linked regionally.** [Bank of Mauritius Governor Thakoor says the bank serves as settlement bank for COMESA's REPSS](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>).
+**Live on PAPSS.** Nothing held shows the country live on PAPSS. What is held is a regional payment system, which does not count: [Bank of Mauritius Governor Thakoor says the bank serves as settlement bank for COMESA's REPSS](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>).
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held since October 2023 says the country is live on PAPSS.

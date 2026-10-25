@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/>).
 
 ***Noted, not assessed***. None held.
 

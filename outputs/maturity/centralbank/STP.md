@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/>).
 
 ***Noted, not assessed***. None held.
 

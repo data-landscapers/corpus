@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://www.mmegi.bw/business/bob-electronic-money-regulations-gather-pace/news>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://www.mmegi.bw/business/bob-electronic-money-regulations-gather-pace/news>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://www.mmegi.bw/business/bob-electronic-money-regulations-gather-pace/news>).
 
 ***Noted, not assessed***. [Bank of Botswana Regulatory Sandbox](<https://www.bankofbotswana.bw/sites/default/files/press-release-files/Public%20Notice%20-%20Call%20for%20Applications%20for%20entry%20into%20the%20Bank%20of%20Botswana%20Regulatory%20Sandbox.pdf>).
 

@@ -1,18 +1,18 @@
 {
-  "iso3": "DJI",
-  "cells": [
-    {
-      "sub_indicator": "centralbank",
-      "stage": "5",
-      "mandate": "licensing",
-      "switch": "overseen",
-      "regional": "linked",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "DJI-002",
-      "gaps": "",
-      "note": "PAPSS lists Djibouti with live send-and-receive participants in June 2026, so the country takes part in a continental system in service. A later yes answers the earlier questions.",
-      "as_at": "2026-10-24"
-    }
-  ]
+ "iso3": "DJI",
+ "cells": [
+  {
+   "sub_indicator": "centralbank",
+   "stage": "5",
+   "mandate": "licensing",
+   "switch": "overseen",
+   "regional": "live",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "DJI-002",
+   "gaps": "",
+   "note": "PAPSS lists Djibouti with live send-and-receive participants in June 2026, so the country takes part in a continental system in service. A later yes answers the earlier questions.",
+   "as_at": "2026-10-24"
+  }
+ ]
 }

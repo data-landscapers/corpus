@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf>).
 
 ***Noted, not assessed***. None held.
 

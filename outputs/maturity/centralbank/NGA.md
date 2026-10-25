@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council, made up of central bank governors, and continues to lead its rollout](<https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with>).
 
-**Linked regionally.** [PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council, made up of central bank governors, and continues to lead its rollout](<https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with>). [Remita's consumer app, launched 22 September 2026 in Lagos, supports instant transfers from Nigerian bank accounts to other African countries through PAPSS, per Remita's managing director](<https://thecondia.com/remita-launches-super-app/>).
+**Live on PAPSS.** [PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council, made up of central bank governors, and continues to lead its rollout](<https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with>). [Remita's consumer app, launched 22 September 2026 in Lagos, supports instant transfers from Nigerian bank accounts to other African countries through PAPSS, per Remita's managing director](<https://thecondia.com/remita-launches-super-app/>).
 
 ***Noted, not assessed***. [PAPSS](<https://thecondia.com/remita-launches-super-app/>); [Remita](<https://thecondia.com/remita-launches-super-app/>); [TeamApt](<https://businessday.ng/technology/article/teamapt-gains-direct-mastercard-network-access-in-strategic-payments-expansion/>).
 

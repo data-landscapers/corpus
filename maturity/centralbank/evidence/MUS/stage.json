@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "5",
+      "stage": "4",
       "mandate": "licensing",
       "switch": "overseen",
-      "regional": "linked",
+      "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-002",
-      "gaps": "",
-      "note": "The Bank of Mauritius is settlement bank for COMESA's REPSS, a regional system in service (July 2026). It also runs MauCAS, the national switch.",
-      "as_at": "2026-10-24"
+      "stage_sources": "MUS-001",
+      "gaps": "No source held since October 2023 says the country is live on PAPSS: a regional payment system, or joining PAPSS, does not count.",
+      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): PAPSS fully operational only; a regional payment system, or joining PAPSS, no longer answers it.",
+      "as_at": "2026-10-25"
     }
   ]
 }

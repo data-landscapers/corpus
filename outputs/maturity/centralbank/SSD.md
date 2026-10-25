@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/>).
 
 ***Noted, not assessed***. [Interbank Payment and Settlement System](<https://ramdiet.com/writing/digital-payments-everyday-use>); [Real-Time Gross Settlement (RTGS)](<https://cajnewsafrica.com/2026/05/20/south-sudan-platform-to-digitise-economy-pays-off/>).
 

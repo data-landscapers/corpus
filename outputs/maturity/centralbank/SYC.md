@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform>).
 
 ***Noted, not assessed***. [SEFT](<http://www.seychellesnewsagency.com/articles/21244/seychelles-to-phase-out-cheques-for-financial-transactions-from-2025>); [Fusepay](<https://www.fusepay.app/blog-posts/fusepay-receives-final-approval-to-operate-as-a-licensed-payment-service-provider-in-seychelles>).
 

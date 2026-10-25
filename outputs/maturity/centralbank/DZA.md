@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** No source held since October 2023 says the central bank runs or oversees a national switch. The nearest held fact: [the one given above](<https://ecotimesdz.com/djezzy-payment-services-psp-banque-algerie-paiement-mobile-2026/>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://ecotimesdz.com/djezzy-payment-services-psp-banque-algerie-paiement-mobile-2026/>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://ecotimesdz.com/djezzy-payment-services-psp-banque-algerie-paiement-mobile-2026/>).
 
 ***Noted, not assessed***. [Djezzy Payment Services](<https://ecotimesdz.com/djezzy-payment-services-psp-banque-algerie-paiement-mobile-2026/>); [GIE Monétique](<https://algerie-eco.com/2026/10/01/paiement-electronique-en-algerie-23-millions-de-cartes-et-126-000-tpe-a-aout-2026/>); [GIE Monetique](<https://alger16.dz/?p=65795>); [Domestic instant payment system](<https://www.wearetech.africa/en/fils-uk/news/tech/algeria-to-launch-instant-payment-system-for-faster-more-efficient-transactions>); [DZ MOB PAY](<https://www.wearetech.africa/en/fils-uk/news/tech/algeria-to-launch-instant-payment-system-for-faster-more-efficient-transactions>).
 

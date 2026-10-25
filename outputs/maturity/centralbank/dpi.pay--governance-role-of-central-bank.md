@@ -14,97 +14,27 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 | 2 Mandate in drafting | Yes to 1 |
 | 3 Licensing providers | Yes to 2 |
 | 4 Overseeing a switch | Yes to 3 |
-| 5 Linked regionally | Yes to 4 |
+| 5 Live on PAPSS | Yes to 4 |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 27 |
-| 4 Operating | 17 |
+| 5 Leading | 7 |
+| 4 Operating | 36 |
 | 3 Established | 9 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
+| Unplaced | 1 |
 | No evidence | 0 |
 
 ## Countries
-
-### Angola: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- The BNA integrated the kwanza into the SADC-RTGS from 2026-07-27, with five Angolan commercial banks participating, per BNA governor Tiago Dias ([source, 2026-07-27](https://www.noticiasaominuto.com/mundo/3030615/angola-elimina-intermediarios-em-pagamentos-entre-paises-da-sadc)).
-- Expansão reports the Banco Nacional de Angola launched the Kwik instant-payment platform in June 2023, which carried Kz 557.4bn in the first half of 2026 per EMIS ([source, 2026-06](https://www.expansao.co.ao/angola/detalhe/movimentos-entre-carteiras-digitais-valem-apenas-06-no-kwik-74789.html)).
-
-### Benin: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- PI-SPI is a single regional instant payment infrastructure run by the BCEAO for the eight UEMOA countries ([source, 2026-05-29](https://www.lanation.bj/numerique/plateforme-interoperable-du-systeme-de-paiement-instantane-banques-et-mobile-money-desormais-interconnectes-a-100-dans-luemoa)).
-- Benin is a UEMOA member state on the regional PI-SPI platform that BCEAO runs, with its institutions required to connect by 30 June 2026 ([source, 2026-04-02](https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de)).
-
-### Burkina Faso: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- leFaso.net reports that PI-SPI is a BCEAO instant payment platform across the UEMOA, in service since 30 September 2025 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
-- As of 24 February 2026 the BCEAO had authorised nine institutions in Burkina Faso (including Orange Money, Coris Bank International and Ecobank) to offer PI-SPI instant payment services to the public ([source, 2026-02-24](https://lefaso.net/spip.php?article144889)).
-
-### Cameroon: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Cameroon is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-- BEAC says the interoperable QR code covers the six CEMAC countries, cleared through GIMAC, under Regulation 02/26/CEMAC/UMAC/COREFI of 8 April 2026 ([source, 2026-07-29](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)).
-
-### Central African Republic: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- The Central African Republic is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-- The Central African Republic is one of the CEMAC states on GIMACPAY, the regional platform that processed 20.3 million transactions worth FCFA 863 billion in 2025, with the BEAC among its 153 participants ([source, 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)).
-
-### Chad: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Chad's mobile money providers are interoperable via GIMACPAY in the CEMAC zone, per Tchadinfos ([source, 2026-09-04](https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/)).
-- Chad is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-
-### Congo: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Congo is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-- Congo is one of the CEMAC states on GIMACPAY, the regional platform that processed 20.3 million transactions worth FCFA 863 billion in 2025, with the BEAC among its 153 participants ([source, 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)).
-
-### Cote d'Ivoire: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2025.
-
-- Fraternite Matin reports the BCEAO's PI-SPI instant payment platform covers banks, microfinance, e-money and payment institutions across the UEMOA, Cote d'Ivoire's union ([source, 2025-09-30](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026)).
-- The BCEAO announced that public Treasuries are being connected to its PI-SPI interoperable instant-payment platform, with Cote d'Ivoire's already in service ([source, 2026-10-08](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)).
 
 ### Djibouti: 5 Leading
 
 The central bank took part in a regional or continental payment system in 2026.
 
 - PAPSS lists Djibouti as a country with live send-and-receive participants: East African Bank and Salaam African Bank ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
-
-### Equatorial Guinea: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Equatorial Guinea is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-- Equatorial Guinea is one of the CEMAC states on GIMACPAY, the regional platform that processed 20.3 million transactions worth FCFA 863 billion in 2025, with the BEAC among its 153 participants ([source, 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)).
-
-### Gabon: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Gabon is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-- BEAC says the interoperable QR code covers the six CEMAC countries, cleared through GIMAC, under Regulation 02/26/CEMAC/UMAC/COREFI of 8 April 2026 ([source, 2026-07-29](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)).
 
 ### Gambia: 5 Leading
 
@@ -121,44 +51,11 @@ The Bank of Ghana licensed payment providers, oversaw the national payment switc
 - The Bank of Ghana's head of fintech says the Bank established GhIPSS in 2007 as a neutral, interoperable national payment infrastructure, publicly owned, connecting banks, mobile money operators and other payment service providers ([source, 2026-10-22](https://channelonenewsonline.com/2026/10/22/bank-of-ghana-pushes-for-seamless-african-cross-border-payments/)).
 - Bank of Ghana Governor Asiama said PAPSS has been extended to mobile wallets along the Ghana-Nigeria corridor ([source, 2026-10-13](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)).
 
-### Guinea-Bissau: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Guinea-Bissau is a UEMOA member in the BCEAO's PI-SPI regional instant payment system, in service ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
-- The BCEAO list places Guinea-Bissau in the eight-country WAEMU PI-SPI rail run by the BCEAO ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
-
 ### Liberia: 5 Leading
 
 The central bank took part in a regional or continental payment system in 2025.
 
 - The Central Bank of Liberia's Executive Governor said PAPSS was officially launched in Liberia on 27 March 2025, with the central bank as settlement agent ([source, 2025-03-27](https://www.cbl.org.lr/media/features-articles/eg-saamoi-speaks-joint-launch-fined-papss-monrovia)).
-
-### Malawi: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2025.
-
-- The Reserve Bank of Malawi supervises Malawi's participation in the COMESA cross-border payments platform ([source, 2025-10](https://mwnation.com/comesa-payment-system-connects-malawi-zambia)).
-
-### Mali: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Mali is a UEMOA member in the BCEAO's PI-SPI regional instant payment system, in service ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
-- The BCEAO list places Mali in the eight-country WAEMU PI-SPI rail run by the BCEAO ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
-
-### Mauritius: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Bank of Mauritius Governor Thakoor says the bank serves as settlement bank for COMESA's REPSS ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
-
-### Niger: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- Niger is a UEMOA member in the BCEAO's PI-SPI regional instant payment system, in service ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
-- BCEAO says it set up the regional payment systems STAR-UMOA, SICA-UMOA and SAGETIL-UMOA for the Union ([source, 2026-09-15](https://www.lesahel.org/digitalisation-et-services-financiers-numeriques-de-la-bceao-renforcer-linclusion-financiere-la-modernisation-des-services-financiers-et-la-resilience-du-systeme-financier-de-l/)).
 
 ### Nigeria: 5 Leading
 
@@ -167,51 +64,38 @@ The central bank took part in a regional or continental payment system in 2026.
 - Remita's consumer app, launched 22 September 2026 in Lagos, supports instant transfers from Nigerian bank accounts to other African countries through PAPSS, per Remita's managing director ([source, 2026-09-22](https://thecondia.com/remita-launches-super-app/)).
 - Bank of Ghana Governor Asiama said PAPSS has been extended to mobile wallets along the Ghana-Nigeria corridor ([source, 2026-10-13](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)).
 
-### Senegal: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- The BCEAO's PI-SPI instant payment platform counts 175 authorised participants across the eight WAEMU countries, with Senegal holding the most at 43, and Wave was authorised to open its services in Senegal on the list updated 30 September 2026 ([source, 2026-09-30](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)).
-- Senegal is within the UMOA regional instant payment platform PI-SPI launched by BCEAO on 30 September 2025, with 80 participants connected at 24 June 2026 ([source, 2026-06-24](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html)).
-
 ### Sierra Leone: 5 Leading
 
 The central bank took part in a regional or continental payment system in 2025.
 
 - PAPSS lists eight Sierra Leonean banks (UBA, SLCB, Access, Bloom, Rokel, GTBank, Vista, FBNBank) as live, update May 2025 ([source, 2025-05](https://papss.com/wp-content/uploads/2025/05/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_19052025.pdf)).
 
-### South Africa: 5 Leading
-
-The central bank oversaw a national payment switch and took part in a regional payment system in 2026; whether it joined PAPSS is not known.
-
-- The SARB speech says qualifying regional payments are currently carried on SADC-RTGS and are to move to the TCIB system by end-April 2027 ([source, 2026-10-20](https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-payments-conference)).
-- TechCentral reports the South African Reserve Bank took a 50% interest in PayInc, operator of PayShap, in late 2025, and the 2026 budget speech named PayInc the shared digital payments infrastructure supporting interoperability across providers ([source, 2025-12](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/)).
-- The South African Reserve Bank's National Payment System Department says it regulates payment systems, third-party payment providers and e-money providers, with access to the payment system by designation or authorisation under the National Payment System Act 78 of 1998 and its directives ([source, 2026-10-17](https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation)).
-
-### Togo: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2026.
-
-- leFaso.net reports that PI-SPI is a BCEAO instant payment platform across the UEMOA, in service since 30 September 2025 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
-- Mixx Togo joined the BCEAO's PI-SPI platform, and Ecobank, Orabank and Bank of Africa in Togo are connected to it ([source, 2026-04-14](https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi)).
-
-### Uganda: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2025.
-
-- The Bank of Uganda's annual report shows East African Payment System inflows of UGX 1.3 trillion, up 17%, in FY2024/25 ([source, 2025](https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6)).
-
-### Zambia: 5 Leading
-
-The central bank took part in a regional or continental payment system in 2024.
-
-- The report states Zambian commercial banks process payments through the SADC Real Time Gross Settlement System (ZAR13.4 billion paid and ZAR13.9 billion received in 2024) ([source, 2024](https://www.boz.zm/sites/default/files/2026-01/2024NPSAnnualReport_0.pdf)).
-
 ### Zimbabwe: 5 Leading
 
 Zimbabwe processed payments through a continental payment system in 2026; whether the central bank licenses providers is not known.
 
 - Afreximbank says Zimbabwe is processing $5.8 million a month through PAPSS, and that most banks in Southern Africa have joined it ([source, 2026-10](https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/)).
+
+### Angola: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- Angop reports the BNA announced it completed, in coordination with EMIS, BODIVA and banks, the migration of domestic payments in the real-time payment system (SPTR) to ISO 20022 ([source, 2026-07-10](https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/)).
+- Expansão reports the Banco Nacional de Angola launched the Kwik instant-payment platform in June 2023, which carried Kz 557.4bn in the first half of 2026 per EMIS ([source, 2026-06](https://www.expansao.co.ao/angola/detalhe/movimentos-entre-carteiras-digitais-valem-apenas-06-no-kwik-74789.html)).
+
+### Benin: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- The BCEAO operates PI-SPI, the interoperable instant payment platform now connecting banks, microfinance institutions, e-money issuers and payment institutions across the eight UEMOA countries, 24/7 ([source, 2026-05-29](https://www.lanation.bj/numerique/plateforme-interoperable-du-systeme-de-paiement-instantane-banques-et-mobile-money-desormais-interconnectes-a-100-dans-luemoa)).
+- BCEAO launched PI-SPI on 30 September 2025, a 24/7 interoperable instant payment platform for the UEMOA, and reports 80 participants connected on 2 April 2026 (communique) ([source, 2026-04-02](https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de)).
+
+### Burkina Faso: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- leFaso.net reports that the BCEAO, which sets the connection deadlines for banks, e-money and payment institutions and microfinance, launched the PI-SPI interoperable instant payment platform on 30 September 2025, with 80 institutions connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
+- The BCEAO governor launched the interoperable instant payment platform PI-SPI on 30 September 2025, linking banks, e-money issuers, microfinance institutions and payment institutions across the UEMOA ([source, 2025-09-30](https://www.sidwaya.info/espace-uemoa-le-systeme-de-paiement-instantane-pi-spi-de-la-bceao-operationnel/)).
 
 ### Burundi: 4 Operating
 
@@ -220,6 +104,13 @@ The central bank launched a national instant payment system in 2026; whether Bur
 - Banque de la Republique du Burundi launched the national instant payment system BurundiPay on 23 April 2026, connecting commercial banks, microfinance institutions and payment service providers and integrating with the RTGS and automated clearing houses ([source, 2026-04-23](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank)).
 - The Bank of the Republic of Burundi pilots BurundiPay, the national instant payment system, with 17 institutions live on 4 August 2026 (BRB payment systems director Nduwimana Libere) ([source, 2026-08-04](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/)).
 
+### Cameroon: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- BEAC launched the interoperable CEMAC QR code on 29 July 2026 in Douala, with regional interbank operations routed and cleared via GIMAC ([source, 2026-07-29](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)).
+- BEAC publishes Gimacpay's figures and notes delays in applying the interoperability framework set by governor's instruction n°001/GR/2018 for card payment systems in the Cemac zone ([source, 2023-12-31](https://lejour.cm/mobile-money-gimacpay-franchit-la-barre-des-600-milliards-fcfa-de-transactions/)).
+
 ### Cape Verde: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2025; a regional link is not known.
@@ -227,12 +118,37 @@ The central bank ran or oversaw a national payment switch in 2025; a regional li
 - The Banco de Cabo Verde says it manages SICIL, the interbank clearing system for cheques, credit transfers and payment cards operated by SISP, and oversees the payment system under its oversight policy ([source, 2025](https://www.bcv.cv/pt/SistemadePagamentos/Paginas/SistemadePagamentos.aspx)).
 - In 2024 the Banco de Cabo Verde operated the SGDL settlement system daily and followed daily the interbank clearing systems making up the SICIL, completing assessments of financial market infrastructures ([source, 2024](https://www.bcv.cv/SiteCollectionDocuments/2025/Relat%C3%B3rio%20de%20Sistema%20de%20Pagamentos%202024.pdf)).
 
+### Central African Republic: 4 Operating
+
+The central bank oversaw a national payment switch in 2023; live participation in PAPSS is not on record.
+
+- AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in the Central African Republic ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
+
+### Chad: 4 Operating
+
+The central bank oversaw a national payment switch in 2023; live participation in PAPSS is not on record.
+
+- AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Chad ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
+
 ### Comoros: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
 
 - Al-Watwan reports the Banque Centrale des Comores introduced and launched Komor Switch, a national platform connecting all banks and mobile money services for interoperability, and KomorPay, an automated interbank transfer system ([source, 2026-05-04](https://alwatwan.net/economie/secteur-bancaire-i-les-comores-inaugurent-de-nouveaux-modes-et-syst%C3%A8mes-de-paiement.html)).
 - The Banque Centrale des Comores says it is operator, supervisor and participant of KomorPay (ATS), the national interbank payment system operational since 23 April 2026 ([source, 2026-04-23](https://banque-comores.km/uploads/BCC-livret(3).pdf)).
+
+### Congo: 4 Operating
+
+The central bank oversaw a national payment switch in 2023; live participation in PAPSS is not on record.
+
+- AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in the Republic of Congo ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
+
+### Cote d'Ivoire: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- The BCEAO announced that public Treasuries are being connected to its PI-SPI interoperable instant-payment platform, with Cote d'Ivoire's already in service ([source, 2026-10-08](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)).
+- Fraternite Matin reports the BCEAO officially launched the PI-SPI interoperable instant payment platform on 30 September 2025, with 80 institutions already connected and connection mandatory for all UEMOA financial institutions from 30 June 2026 ([source, 2025-09-30](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026)).
 
 ### DR Congo: 4 Operating
 
@@ -249,6 +165,12 @@ The central bank ran the national instant payment network in 2026; whether Egypt
 - The Central Bank of Egypt launched the Instant Payment Network (IPN), the national real-time electronic payment infrastructure connecting banks in Egypt; the governor said it recorded 1.47 billion transactions worth about EGP 4.33 trillion by end of the second quarter of 2026 ([source, 2026-06](https://english.ahram.org.eg/News/577944.aspx)).
 - Ahram Online says Instapay is licensed by the Central Bank of Egypt and runs through its Instant Payment Network, the national real-time payment infrastructure ([source, 2026-09-09](https://english.ahram.org.eg/News/576342.aspx)).
 
+### Equatorial Guinea: 4 Operating
+
+The central bank oversaw a national payment switch in 2023; live participation in PAPSS is not on record.
+
+- AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Equatorial Guinea ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
+
 ### Eswatini: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
@@ -256,12 +178,26 @@ The central bank ran or oversaw a national payment switch in 2026; a regional li
 - The Central Bank of Eswatini says the Eswatini Payment Switch fast payments platform is fully active, connecting banks and mobile money providers in real time, 24/7 ([source, 2026-09-21](https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/)).
 - The article says the Central Bank of Eswatini's Fast Payments system enables transactions across different account types and wallets, and the central bank describes the Eswatini Payment Switch as its payments infrastructure ([source, 2026-09-09](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/)).
 
+### Gabon: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- BEAC launched the interoperable CEMAC QR code on 29 July 2026 in Douala, with regional interbank operations routed and cleared via GIMAC ([source, 2026-07-29](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)).
+- AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Gabon ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
+
 ### Guinea: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
 
 - AGUIDUTEN congratulated the Banque Centrale de la Republique de Guinee and Guineenne de Monetique on the design and implementation of NimbaPay, the national instant payment platform whose launch it welcomed ([source, 2026-07-26](https://focusguinee.info/2026/07/26/laguiduten-salue-le-lancement-de-nimbapay-la-plateforme-nationale-de-paiement-instantane/)).
 - The document says NimbaPay, Guinea's national instant payment system, was developed under the leadership of the Central Bank of the Republic of Guinea (BCRG), implemented by Guineenne de Monetique, and launched on 23 July 2026 ([source, 2026-07-23](https://www.itnewsafrica.com/2026/07/guinea-launches-nimbapay-opening-a-new-era-of-instant-and-inclusive-digital-payments/)).
+
+### Guinea-Bissau: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Guinea-Bissau, launched 30 September 2025 with 175 connected participants a year later ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
+- The BCEAO list says the BCEAO builds and runs PI-SPI, an instant payment switch serving Guinea-Bissau ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
 
 ### Lesotho: 4 Operating
 
@@ -277,11 +213,31 @@ The central bank ran or oversaw a national payment switch in 2026; a regional li
 - The Central Bank of Libya directed commercial banks by letter of 4 March 2026 to activate the LYPay instant payment system in their banking apps for QR-code purchases at POS devices by 8 March ([source, 2026-03-04](https://libyaherald.com/2026/03/aldabaiba-government-and-cbl-take-further-actions-to-encourage-increased-e-payments-use-cbl-reduces-new-fx-bureaux-commission)).
 - The Central Bank of Libya says it runs the LYPay and OnePay instant payment services, launched in 2024, and will raise their transfer and purchase limits ([source, 2024-12-26](https://cbl.gov.ly/en/instant-payment-services-statistics/)).
 
+### Malawi: 4 Operating
+
+The central bank oversaw a national payment switch in 2025; live participation in PAPSS is not on record.
+
+- The deck says National Switch Limited, which integrates all banks and mobile money operators for instant payments, is supervised by the Reserve Bank of Malawi ([source, 2025](https://www.id4africa.com/2025/files/T3-P3-S2-3-Malawi_FINAL.pdf)).
+- The Reserve Bank of Malawi and the Bank of Zambia supervise the COMESA Digital Retail Payments Platform linking the two countries ([source, 2025-10](https://mwnation.com/comesa-payment-system-connects-malawi-zambia)).
+
+### Mali: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Mali, launched 30 September 2025 with 175 connected participants a year later ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
+- The BCEAO list says the BCEAO builds and runs PI-SPI, an instant payment switch serving Mali ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
+
 ### Mauritania: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2024; a regional link is not known.
 
 - GIMTEL launched interconnection of bank apps and e-wallets under the Central Bank of Mauritania's strategy, and its governor said oversight of payment systems had been activated ([source, 2024-10-14](https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/)).
+
+### Mauritius: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- Bank of Mauritius Governor Thakoor says the bank's infrastructure includes the Mauritius Central Automated Switch (MauCAS), whose QR payments are now usable in Mauritius and India ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
 
 ### Morocco: 4 Operating
 
@@ -304,12 +260,26 @@ The central bank ran or oversaw a national payment switch in 2026; a regional li
 - The Bank of Namibia said its instant payments solution became operational in June 2026, with live transactions first processed between its Currency Management and Banking Operations Department and Bank Windhoek, Nampost and Letshego Bank Namibia ([source, 2026-06](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 - The Bank of Namibia is the parent body of Instant Payment Namibia, which operates the Instant Payment Solution; pilot testing in live production is complete and phased rollout is underway ([source, 2026-06-15](https://www.marketwatch.com.na/market-watch/fact-sheet-namibias-instant-payment-solution-ips-nmh012158-3015-14760)).
 
+### Niger: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Niger, launched 30 September 2025 with 175 connected participants a year later ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
+- BCEAO says it set up the PI-SPI instant-payment interoperability platform, allowing account-to-account transfers between different types of accounts across the UMOA, of which Niger is a member ([source, 2026-09-15](https://www.lesahel.org/digitalisation-et-services-financiers-numeriques-de-la-bceao-renforcer-linclusion-financiere-la-modernisation-des-services-financiers-et-la-resilience-du-systeme-financier-de-l/)).
+
 ### Rwanda: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
 
 - The National Bank of Rwanda says it monitors the eKash payment and transfer system, launched nationally on 14 July 2026, and works with providers to fix disruptions ([source, 2026-09-02](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/)).
 - Taarifa reports that interoperability runs through the National Bank of Rwanda's eKash platform, rolled out months before July 2026 ([source, 2026-07](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/)).
+
+### Senegal: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- BCEAO launched PI-SPI, the regional interoperable instant payment platform, on 30 September 2025, running 24/7; 80 participants were connected at 24 June 2026 ([source, 2026-06-24](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html)).
+- Financial Afrik says BCEAO operates the PI-SPI instant-payment system, with 19 Senegal institutions authorised on its list, the most in the Union ([source, 2026-02-24](https://www.financialafrik.com/en/2026/03/05/instant-payments-pi-spi-in-the-waemu-updated-list-of-establishments-authorized-by-the-bceao/)).
 
 ### Somalia: 4 Operating
 
@@ -318,17 +288,37 @@ The central bank ran or oversaw a national payment switch in 2026; a regional li
 - Guleid Osman writes that the Central Bank of Somalia has launched the National Payment System, the Somali Payment Switch and the Somali Instant Payment System (SIPS), which the Bank states supports real-time transfers among banks, mobile wallets and points of sale ([source, 2026-09-20](https://www.hiiraan.com/op4/2026/Sep/206320/strengthening_somalias_central_bank_and_securing_the_future_of_digital_payments.aspx)).
 - TechCabal says the Central Bank of Somalia launched the Somalia Instant Payment System (SIPS) in early 2025, with a national QR standard, SOMQR ([source, 2025](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/)).
 
+### South Africa: 4 Operating
+
+The central bank oversaw a national payment switch in 2025; live participation in PAPSS is not on record.
+
+- TechCentral reports the South African Reserve Bank took a 50% interest in PayInc, operator of PayShap, in late 2025, and the 2026 budget speech named PayInc the shared digital payments infrastructure supporting interoperability across providers ([source, 2025-12](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/)).
+- The South African Reserve Bank bought a 50% stake in BankservAfrica in November 2025, renamed PayInc, the automated clearing house for national and pan-African retail, government, banking and corporate transactions, and says it wants PayInc to be a payment utility ([source, 2025-11](https://www.businessday.co.za/business-times/2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago/)).
+
 ### Tanzania: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2025; a regional link is not known.
 
 - The Bank of Tanzania capped the maximum cost of single transactions in the Tanzania Automated Clearing House and the instant payment system at 2,000/- in 2024 and 2025, with a focus on the Tanzania Instant Payment System (TIPS) ([source, 2025](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/interoperability-costs-cut-while-113-agencies-operate-payments-systems-2026-04-28-111407)).
 
+### Togo: 4 Operating
+
+The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
+
+- leFaso.net reports that the BCEAO, which sets the connection deadlines for banks, e-money and payment institutions and microfinance, launched the PI-SPI interoperable instant payment platform on 30 September 2025, with 80 institutions connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
+- The BCEAO's PI-SPI instant payment platform is in service, with over 50 institutions connected, and the BCEAO has made connection compulsory from 30 June 2026 ([source, 2026-04-14](https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi)).
+
 ### Tunisia: 4 Operating
 
 The central bank oversaw the national interbank clearing system in 2026; whether Tunisian payments run on a continental payment system is not known.
 
 - The BCT states it manages and supervises the SGMT RTGS (in service since November 2006) and performs surveillance of the SIBTEL clearing system ([source, 2026-09-03](https://www.bct.gov.tn/bct/siteprod/page.jsp?id=96)).
+
+### Zambia: 4 Operating
+
+The central bank oversaw a national payment switch in 2024; live participation in PAPSS is not on record.
+
+- The Bank of Zambia says it oversees the national payment systems, including the National Financial Switch, which processed K131.9 billion and 140,496,750 transactions in 2024 with 34 participants live ([source, 2024](https://www.boz.zm/sites/default/files/2026-01/2024NPSAnnualReport_0.pdf)).
 
 ### Algeria: 3 Established
 
@@ -395,3 +385,9 @@ The central bank licensed payment providers in 2026; a national switch it overse
 The central bank's payments mandate was being set up in 2026; no licensing is on record.
 
 - The Central Bank of Kenya says it and the National Treasury developed a draft National Payment System Policy and a National Payment System Bill, 2026, which would repeal the National Payment System Act Cap. 491A ([source, 2026-09-21](https://www.centralbank.go.ke/2026/09/21/draft-national-payment-system-policy-and-national-payment-system-bill-2026/)).
+
+### Uganda: Unplaced
+
+Nothing held since 2023 says what the central bank does over payments, so no stage is set.
+
+Not established: Nothing held since October 2023 says what the central bank does over payments.

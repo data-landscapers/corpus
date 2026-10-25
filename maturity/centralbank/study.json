@@ -91,9 +91,9 @@
         "The central bank's payments mandate or e-money rules are being drafted, or it oversees payments by circular only.",
         "The central bank licenses or authorises mobile money, e-money or payment service providers.",
         "The central bank runs or oversees a national payment switch or interoperability arrangement in service.",
-        "The central bank or the country takes part in PAPSS or a regional payment system in service."
+        "The country is live on PAPSS: its banks or payment providers send and receive payments through it. Joining PAPSS, or a regional payment system, does not count."
       ],
-      "criteria_of": "02d4fd11e8d4"
+      "criteria_of": "22700c59dabd"
     }
   ],
   "classes": [
@@ -132,14 +132,16 @@
     },
     {
       "key": "regional",
-      "name": "Linked regionally",
+      "name": "Live on PAPSS",
       "role": "coverage",
       "defer": [],
       "prefer": [
-        "linked"
+        "live"
       ],
       "values": [
-        "linked"
+        "live",
+        "joined",
+        "regional"
       ]
     }
   ],

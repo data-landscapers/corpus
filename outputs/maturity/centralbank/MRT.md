@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** [GIMTEL launched interconnection of bank apps and e-wallets under the Central Bank of Mauritania's strategy, and its governor said oversight of payment systems had been activated](<https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/>).
 
 ***Noted, not assessed***. [MNBC](<https://trustmag.net/article/FIKzFdXn>); [Stratégie Nationale de Paiement Numérique](<https://fintech.bcm.mr/fr/ressources/SNPN/>); [Systeme National de Paiement](<https://fr.tawassoul.net/reunion-du-conseil-des-systemes-de-paiement-de-compensation-et-de-reglement-des-titres/>); [Stratégie Nationale de Paiement Numérique 2023-2028](<https://dashboard-fintech.bcm.mr/uploads/Strategie_Nationale_du_Paiement_Numerique_SNPN_VF_12092024_1_94c05464f5.pdf>).
 

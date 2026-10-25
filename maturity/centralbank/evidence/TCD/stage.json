@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "5",
+      "stage": "4",
       "mandate": "licensing",
       "switch": "overseen",
-      "regional": "linked",
+      "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-007;TCD-001",
-      "gaps": "",
-      "note": "Chad's mobile money providers interoperate over GIMACPAY, the BEAC-overseen CEMAC platform in service (September 2026). BEAC's PAPSS entry is not yet operational and sets nothing.",
-      "as_at": "2026-10-24"
+      "stage_sources": "TCD-005",
+      "gaps": "No source held since October 2023 says the country is live on PAPSS: a regional payment system, or joining PAPSS, does not count.",
+      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): PAPSS fully operational only; a regional payment system, or joining PAPSS, no longer answers it.",
+      "as_at": "2026-10-25"
     }
   ]
 }

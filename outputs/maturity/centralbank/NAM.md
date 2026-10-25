@@ -6,7 +6,7 @@
 
 **Overseeing a switch.** [The Bank of Namibia said its instant payments solution became operational in June 2026, with live transactions first processed between its Currency Management and Banking Operations Department and Bank Windhoek, Nampost and Letshego Bank Namibia](<https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/>).
 
-**Linked regionally.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/>).
+**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/>).
 
 ***Noted, not assessed***. [NISS](<https://www.namibiansun.com/mw-main/namibia-moves-closer-to-instant-payments-NMH014446-3015-17893>); [PAPSS](<https://www.namibian.com.na/namibia-can-benefit-from-africa-trade-payment-system>).
 

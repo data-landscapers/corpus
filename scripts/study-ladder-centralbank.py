@@ -18,7 +18,7 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "centralbank"
 SUB = "centralbank"
-GAPS = {'4': 'No source held since October 2023 says the country takes part in PAPSS or a regional payment system.', '3': 'No source held since October 2023 says the central bank runs or oversees a national switch.', '2': 'No source held since October 2023 says: does the central bank license payment providers.', '1': 'No source held since October 2023 says: is a payments mandate being set up.', '5': ''}
+GAPS = {'4': 'No source held since October 2023 says the country is live on PAPSS.', '3': 'No source held since October 2023 says the central bank runs or oversees a national switch.', '2': 'No source held since October 2023 says: does the central bank license payment providers.', '1': 'No source held since October 2023 says: is a payments mandate being set up.', '5': ''}
 EMPTY = 'Nothing held says what the central bank does over payments.'
 UNPLACED = 'Nothing held since October 2023 says what the central bank does over payments.'
 

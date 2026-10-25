@@ -1,18 +1,18 @@
 {
-  "iso3": "GHA",
-  "cells": [
-    {
-      "sub_indicator": "centralbank",
-      "stage": "5",
-      "mandate": "licensing",
-      "switch": "overseen",
-      "regional": "linked",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "GHA-001;GHA-005;GHA-002",
-      "gaps": "Nothing on the three questions is missing.",
-      "note": "The Bank of Ghana licenses payment providers, oversees GhIPSS as the national interoperable switch, and has extended PAPSS to mobile wallets, which meets stage 5.",
-      "as_at": "2026-10-24"
-    }
-  ]
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "centralbank",
+   "stage": "5",
+   "mandate": "licensing",
+   "switch": "overseen",
+   "regional": "live",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-001;GHA-005;GHA-002",
+   "gaps": "Nothing on the three questions is missing.",
+   "note": "The Bank of Ghana licenses payment providers, oversees GhIPSS as the national interoperable switch, and has extended PAPSS to mobile wallets, which meets stage 5.",
+   "as_at": "2026-10-24"
+  }
+ ]
 }

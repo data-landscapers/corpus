@@ -1,18 +1,18 @@
 {
-  "iso3": "LBR",
-  "cells": [
-    {
-      "sub_indicator": "centralbank",
-      "stage": "5",
-      "mandate": "licensing",
-      "switch": "overseen",
-      "regional": "linked",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "LBR-009",
-      "gaps": "",
-      "note": "PAPSS was launched in Liberia on 27 March 2025 with the CBL as settlement agent, a continental system in service. The CBL also runs the instant payment system launched in December 2025.",
-      "as_at": "2026-10-24"
-    }
-  ]
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "centralbank",
+   "stage": "5",
+   "mandate": "licensing",
+   "switch": "overseen",
+   "regional": "live",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBR-009",
+   "gaps": "",
+   "note": "PAPSS was launched in Liberia on 27 March 2025 with the CBL as settlement agent, a continental system in service. The CBL also runs the instant payment system launched in December 2025.",
+   "as_at": "2026-10-24"
+  }
+ ]
 }
