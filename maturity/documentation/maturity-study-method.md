@@ -2,7 +2,7 @@
 type: procedure
 reader: cc
 title: maturity-study-method.md — how one indicator is studied, staged and written up, from a short list of questions and the news already held
-last_reviewed: 2026-10-23
+last_reviewed: 2026-10-25
 status: in use; Bill's rulings of 2026-10-06, 2026-10-10 and 2026-10-11. The simpler form below is his of 2026-10-11 and governs every study prepared after dataprotectionlaw
 ---
 
@@ -47,7 +47,8 @@ Output: `systems.csv`, one row per named thing per country.
 5. **Answers are as at the as-at date**: a later dated source that reverses a yes, reverses it.
 6. **An unanswered question stops the count**; the short summary names it. A country with no answer at all is *No evidence*.
 7. **The top stage is reachable**: its question is a published fact, never a statement of alignment with a norm.
-8. **The questions are fixed when the study file is written.** One that drafters read two ways is reworded during the run, the study file says so, and every country is restaged.
+8. **A statement of intent reaches stage 2 at most** *(Bill, 2026-10-25)*: a plan, an announcement or a promise answers a preparing rung, and stage 3 needs concrete evidence of action, such as a system built and in service, money spent or sites counted as delivering.
+9. **The questions are fixed when the study file is written.** One that drafters read two ways is reworded during the run, the study file says so, and every country is restaged.
 
 ## 4. Reading
 
