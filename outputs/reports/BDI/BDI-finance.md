@@ -1,6 +1,6 @@
 ---
 title: Burundi: finance
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: BDI
 ---
 
@@ -25,7 +25,7 @@ place: BDI
 <tfoot><tr><th scope="row">All topics</th><td class="num">45</td><td class="num">50</td><td class="num">54</td><td class="num">17</td><td class="num">35</td><td class="num total">201</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/BDI/all-finance.html">Full table &mdash; 148 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/BDI/all-finance.html">Full table &mdash; 182 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BDI/BDI-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -49,7 +49,7 @@ place: BDI
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/BDI/budgets.html">Full table &mdash; 142 budget lines, all 53 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/BDI/budgets.html">Full table &mdash; 176 budget lines, all 53 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/BDI/BDI-budgets.csv" download>&darr; Download CSV</a>
 </div>
 

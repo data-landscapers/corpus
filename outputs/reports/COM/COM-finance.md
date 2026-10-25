@@ -1,6 +1,6 @@
 ---
 title: Comoros: finance
-compiled: 2026-10-22
+compiled: 2026-10-25
 place: COM
 ---
 
@@ -11,12 +11,12 @@ place: COM
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">86</td><td class="num zero"></td><td class="num">1</td><td class="num">27</td><td class="num">&lt;1</td><td class="num total">114</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">11</td><td class="num">&lt;1</td><td class="num">7</td><td class="num">1</td><td class="num total">19</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">6</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">10</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">86</td><td class="num">11</td><td class="num">8</td><td class="num">35</td><td class="num">2</td><td class="num total">141</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">86</td><td class="num">11</td><td class="num">12</td><td class="num">35</td><td class="num">2</td><td class="num total">145</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/COM/all-finance.html">Full table &mdash; 42 rows, all 12 fields &rarr;</a>
@@ -50,9 +50,9 @@ place: COM
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">86</td><td class="num zero"></td><td class="num zero"></td><td class="num">27</td><td class="num total">113</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num">11</td><td class="num zero"></td><td class="num">7</td><td class="num total">18</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num zero"></td><td class="num total">6</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num zero"></td><td class="num total">10</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">86</td><td class="num">11</td><td class="num">6</td><td class="num">34</td><td class="num total">137</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">86</td><td class="num">11</td><td class="num">10</td><td class="num">34</td><td class="num total">141</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
