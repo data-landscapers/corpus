@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: GMB
-ledger_rows: 49
+ledger_rows: 50
 not_held: 2
-record: e3a007774a8e
+record: 9684533929aa
 ---
 
 # News, Sep – Oct 2026
@@ -210,6 +210,20 @@ The Gambia Immigration Department denied losing access to national identity card
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Securiport immigration-security contract at Banjul airport</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Banjul Airport Security Needs A Public Scorecard Not Another Argument](https://standard.gm/banjul-airport-security-needs-a-public-scorecard-not-another-argument/)** — The Standard, 21 October 2026
+
+2022 audit, 2024 progress report and fiscal-risk listing set against a call for a seven-part public scorecard.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -243,6 +257,14 @@ The Gambia's Lands Minister told the National Assembly that lease documents will
 **[UDP demands full disclosure of supplementary voter data](https://standard.gm/udp-demands-full-disclosure-of-supplementary-voter-data/)** — The Standard, 5 October 2026
 
 The Gambia's United Democratic Party asked the electoral commission to explain a gap of 28,932 between the 212,095 supplementary registrations it announced and the 183,163 in the dataset given to the party. It wants the figures before and after de-duplication, the records deleted and the method used, and says it is not alleging malpractice.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IEC Chairman Declares Final Voter Register Will Be Released Only After Revising Courts Finish Work](https://standard.gm/iec-chairman-declares-final-voter-register-will-be-released-only-after-revising-courts-finish-work/)** — The Standard, 23 October 2026
+
+Soft copy to all parties after revising courts sign; answers UDP's 212,095 vs 183,163 supplementary-registration gap.
 
 </div>
 
