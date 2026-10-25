@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: MOZ
-ledger_rows: 50
+ledger_rows: 52
 not_held: 18
-record: a3d393b618b0
+record: 367ced5b70b7
 ---
 
 # News, Sep – Oct 2026
@@ -656,6 +656,20 @@ Electronic money accounts reached 130.9 per 100 adults in the second quarter of 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Pan-African Payment and Settlement System participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Welcome, Mozambique! We are pleased to welcome Mozambique to the Pan-African Payment & Settlement System - PAPSS](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-papss-activity-7510672876509917184-5qEO)** — PAPSS (LinkedIn), 29 September 2026
+
+PAPSS announces Mozambique's accession with Banco de Moçambique and invites local banks to onboard.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Participation in the regional real-time gross settlement system</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1003,6 +1017,20 @@ Mozambique's ICT institute INTIC, UNDP and the National Elections Commission are
 **[Mozambique: New barometer to monitor media, combat disinformation and fake news](https://clubofmozambique.com/news/mozambique-new-barometer-to-monitor-media-combat-disinformation-and-fake-news/)** — Club of Mozambique, 5 September 2026
 
 Mozambique is to introduce a Media Barometer to measure audience trust and track disinformation and deepfakes, announced on 4 September 2026 at the Government Information Office's coordinating council in Maputo. The Higher School of Journalism designed it. A 2025 survey counted 1,207 active media outlets, including 275 radio stations and 147 television channels.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fifth General Population and Housing Census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INE enfrenta défice de 45 milhões de dólares para financiar o Recenseamento Geral](https://www.rm.co.mz/ine-enfrenta-defice-de-45-milhoes-de-dolares-para-financiar-o-recenseamento-geral/)** — Rádio Moçambique, 13 October 2026
+
+USD 60m of USD 110m secured for Mozambique's 2027 census, leaving a USD 45m gap, INE said on 13 Oct 2026.
 
 </div>
 

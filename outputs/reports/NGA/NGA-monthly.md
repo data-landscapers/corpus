@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: NGA
-ledger_rows: 170
+ledger_rows: 171
 not_held: 9
-record: b54a582ce4dd
+record: 98d2f351ae43
 ---
 
 # News, Sep – Oct 2026
@@ -2055,6 +2055,20 @@ The Nigerian Postal Service launched a national digital postcode system on 1 Oct
 **[Inside Nigeria’s Digital Postcode: The GIS and Satellite Data Behind 11 Characters](https://spaceinafrica.com/2026/10/03/inside-nigerias-digital-postcode-the-gis-and-satellite-data-behind-11-characters/)** — Space in Africa, 3 October 2026
 
 The Nigerian Postal Service switched on the National Digital Alphanumeric Postcode on 1 October 2026, giving each captured building an 11-character code from state down to building. Space in Africa describes how it was built from satellite imagery, a field campaign with Milsat and 25,000 agents, and GIS processing. The outlet's own trace found the lookup hosted on Amazon Web Services in the US.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Harmonized Protocol for Marriage and Divorce Registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NPC Seeks Unified System For Marriage, Divorce Registration As N’ east Zonal Consultation Opens In Adamawa](https://www.thisdaylive.com/2026/10/22/npc-seeks-unified-system-for-marriage-divorce-registration-as-n-east-zonal-consultation-opens-in-adamawa/)** — ThisDay, 22 October 2026
+
+North-East zonal review of draft harmonised protocol; paper-based fragmented system; VITALREG data management.
 
 </div>
 

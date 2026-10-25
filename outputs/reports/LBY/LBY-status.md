@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 193
+sources_cited: 194
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -51,7 +51,7 @@ Enforcement is criminal rather than regulatory. The Interior Ministry [handled 1
 
 Libya scores [2.2 out of 100 for regional integration (2023), last of 54 African states and marginally lower than in 2014](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf), despite membership of the Arab Maghreb Union, COMESA and the Community of Sahel-Saharan States.
 
-What crosses the border is expertise rather than infrastructure. A Libyan biometrics firm [won a commercial contract in June 2025 to modernise Niger's passport and national identity systems](https://www.biometricupdate.com/202506/libyan-firm-wins-niger-biometric-passport-national-id-contract), while Libya's own credential is not accepted as a travel or identity document abroad. The Central Bank of Libya appears in the [Pan-African Payment and Settlement System's published network coverage (June 2026)](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf). The most productive partnership has been with the UN Economic and Social Commission for Western Asia, which [prepared the artificial-intelligence strategy with the General Information Authority](https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available).
+What crosses the border is expertise rather than infrastructure. A Libyan biometrics firm [won a commercial contract in June 2025 to modernise Niger's passport and national identity systems](https://www.biometricupdate.com/202506/libyan-firm-wins-niger-biometric-passport-national-id-contract), while Libya's own credential is not accepted as a travel or identity document abroad. The Central Bank of Libya [joined the Pan-African Payment and Settlement System at the end of 2025, its twentieth country](https://fr.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-papss-activity-7412119263794208768-y9NP), and appears in [its published network coverage (June 2026)](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf). The most productive partnership has been with the UN Economic and Social Commission for Western Asia, which [prepared the artificial-intelligence strategy with the General Information Authority](https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available).
 
 Reach across Libya's own territory is the harder problem. The House of Representatives-appointed government's Ministry of Communications and Informatics [granted a unified telecoms licence to OZON Aljaded For Telecom and Technology Group with effect from 4 March 2025, issuing it under Law No. 22 of 2010](https://libyareview.com/55614/ozon-company-to-operate-national-telecom-network-in-libya/) — the same statute the Tripoli authority invokes as reserving all licensing to itself. That authority in turn [cited ITU principles on respect for member states' sovereignty](https://lana.gov.ly/post.php?id=339330&lang=ar) when it suspended Huawei's activities in August 2025.
 

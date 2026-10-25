@@ -1,12 +1,12 @@
 ---
 title: Nigeria: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 321
+sources_cited: 323
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -346,7 +346,7 @@ The weakest part of Nigeria's statistical system is not what it publishes but wh
 
 [No business or establishment survey was conducted in the ten years to 2023, though agricultural, health and household surveys ran three or more times in that decade and the labour force survey twice](https://www.worldbank.org/en/programs/statistical-performance-indicators), and [no economic or business census fell inside the preceding twenty years, against an agricultural census and a population census that did](https://www.worldbank.org/en/programs/statistical-performance-indicators). A state that has not counted its firms in two decades is legislating tax and industrial policy against a sector it has never enumerated.
 
-The population count is older still. [Nigeria has not held a census since 2006, and the National Population Commission was preparing the country's first biometric count — fingerprint, face and iris — to settle the figure-inflation disputes that dogged previous rounds (March 2025)], and [launched a National Geospatial Data Repository from its enumeration-area demarcation in November 2023](http://www.nationalpopulation.gov.ng/news/president-tinubu-accurate-population-data-essential-for-tailored-innovative-and-permanent). Civil registration carries the shortfall into daily administration: [about 57% of births and under 20% of deaths are registered, against roughly 5 million births a year (July 2026)](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/), three weeks after [the platform went live across all 36 states and the Federal Capital Territory](https://von.gov.ng/national-population-commission-launches-digital-registration-platform/).
+The population count is older still. [Nigeria still relies on the 2006 census, at least N219.17bn having been appropriated from 2021 to 2026 for a count postponed in 2023](https://punchng.com/nigerias-postponed-census-gets-n219bn-budget-allocation/), and the National Population Commission [says the President will set the new date, which cannot fall in an election year](https://guardian.ng/news/npc-harps-on-credible-technology-driven-population-housing-census/) (July 2026). The commission [launched a National Geospatial Data Repository from its enumeration-area demarcation in November 2023](http://www.nationalpopulation.gov.ng/news/president-tinubu-accurate-population-data-essential-for-tailored-innovative-and-permanent). Civil registration carries the shortfall into daily administration: [about 57% of births and under 20% of deaths are registered, against roughly 5 million births a year (July 2026)](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/), three weeks after [the platform went live across all 36 states and the Federal Capital Territory](https://von.gov.ng/national-population-commission-launches-digital-registration-platform/).
 
 What the state counts best is money. [Nigeria's Revenue Service collected ₦27.1 trillion (about $19.93bn) in the first seven months of 2026, 95.76% of its whole 2025 total and 66.57% of its ₦40.71tn target](https://techcabal.com/2026/08/11/nigeria-collected-94-million-in-taxes-daily/), and the National Bureau of Statistics puts [the information and communication division at 11.31% of real GDP in the first quarter of 2026, up from 10.59% a year earlier, with telecommunications and information services alone at 9.19%](https://punchng.com/nigerias-economy-grows-3-89-in-q1-amid-lower-oil-output-nbs/).
 

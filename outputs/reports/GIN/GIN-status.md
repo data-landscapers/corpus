@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-10-23
+compiled: 2026-10-25
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 198
+sources_cited: 201
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -313,6 +313,8 @@ The physical prerequisites divide along the same line. [Grid electricity reaches
 
 ### National statistics
 <!-- data.statistics -->
+
+Guinea has a new population count: the fourth general census, [whose main enumeration was launched on 5 July 2025](https://primature.gov.gn/le-premier-ministre-lance-officiellement-le-denombrement-principal-du-rgph-4/), [published preliminary results on 25 February 2026](https://www.stat-guinee.org/index.php/publications-ins/2-uncategorised/402-ceremonie-officielle-de-publication-des-resultats-preliminaires-du-rgph-4) [putting the population at 17,521,167](https://guinea.unfpa.org/fr/news/recensement-g%C3%A9n%C3%A9ral-de-la-population-et-de-lhabitation-rgph4-les-r%C3%A9sultats-pr%C3%A9liminaires).
 
 The Ibrahim Index makes Capacity of the Statistical System Guinea's most improved public-administration measure, up 11.6 points over 2014-2023 to [38.9 of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gn.pdf) — a decade of gains that still leaves the country 38th of 54 on it.
 

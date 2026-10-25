@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: GHA
-ledger_rows: 115
+ledger_rows: 117
 not_held: 9
-record: 7758c53b152e
+record: 0865344111c5
 ---
 
 # News, Sep – Oct 2026
@@ -87,6 +87,20 @@ Ghana's communications minister announced that every AI system bought by a publi
 **[WHO and UNDP support Ghana to integrate artificial intelligence into digital health strategy](https://www.afro.who.int/countries/ghana/news/who-and-undp-support-ghana-integrate-artificial-intelligence-digital-health-strategy)** — WHO Regional Office for Africa, 12 October 2026
 
 Ghana's Ministry of Health and Ghana Health Service, supported by WHO and UNDP, are reviewing the Digital Health Policy and Strategy 2023–2027 to incorporate AI, reported on 12 October 2026. The programme focuses on AI-enabled disease surveillance combining routine health data with climate data for malaria, cholera and meningitis. No start date or cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Review of the digital sector's policy, institutional and regulatory frameworks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sam George urges Africa to develop homegrown digital technologies](https://www.myjoyonline.com/sam-george-urges-africa-to-develop-homegrown-digital-technologies/)** — MyJoyOnline, 22 October 2026
+
+Minister announces full review of digital-sector policy and regulation; call to cut reliance on foreign tech.
 
 </div>
 
@@ -1830,6 +1844,14 @@ Ghana's communications minister said national AI language models will be built l
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Sam George outlines $270m Ghana AI investment, cites risks of feeding government data into foreign models](https://www.myjoyonline.com/sam-george-outlines-270m-ghana-ai-investment-cites-risks-of-feeding-government-data-into-foreign-models/)** — MyJoyOnline, 21 October 2026
+
+Minister says classified memos fed into ChatGPT and Claude; 'Ghana Chat' national model; residency law undercut.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -2253,6 +2275,20 @@ Viamo, a Canadian digital non-profit, launched 231, a toll-free voice service in
 **[Ghana, Denmark Plan New Phase of Cooperation on Government Data](https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data)** — Ecofin Agency, 22 September 2026
 
 Ghana's statistical service and Statistics Denmark agreed the design of a third, three-year phase of their statistics cooperation, focused on institutional capacity and on integrating administrative data held by ministries and agencies. The service signed data-sharing agreements with 25 ministries, departments and agencies in March 2026. No start date or funding figure is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Next population and housing census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana Pledges to Link Official Statistics With Maps](https://thevaultznews.com/2026/10/23/ghana-pledges-to-link-official-statistics-with-maps/)** — The Vaultz News, 23 October 2026
+
+Five GSS commitments at STATCOM 10: daily data flows under 26 MoUs, mapped statistics, census tied to ID.
 
 </div>
 

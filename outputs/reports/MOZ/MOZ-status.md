@@ -1,12 +1,12 @@
 ---
 title: Mozambique: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 236
+sources_cited: 239
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -103,7 +103,7 @@ The other signature carries no money at all: ATDI and Ethiopia's FaydaVerse Digi
 ### New investments
 <!-- finance.new -->
 
-The World Bank's flagship digital operation had [disbursed 36 per cent overall but only 14 per cent against its digital components, with procurement unlaunched on eleven approved activities and implementation downgraded to Moderately Unsatisfactory](https://documents1.worldbank.org/curated/en/099062725132519658/pdf/P176459-a8b61162-88f1-4876-a367-bf41324e2be7.pdf) at mid-term (June 2025). The same review proposed raising its [rural connectivity allocation from US$42.5 million to US$58 million](https://documents1.worldbank.org/curated/en/099062725132519658/pdf/P176459-a8b61162-88f1-4876-a367-bf41324e2be7.pdf), funded by [cuts to data governance, cybersecurity and digital inclusion](https://documents1.worldbank.org/curated/en/099062725132519658/pdf/P176459-a8b61162-88f1-4876-a367-bf41324e2be7.pdf), not by new money.
+The World Bank's flagship digital operation had [disbursed 36 per cent overall but only 14 per cent against its digital components, with procurement unlaunched on eleven approved activities and implementation downgraded to Moderately Unsatisfactory](https://documents1.worldbank.org/curated/en/099062725132519658/pdf/P176459-a8b61162-88f1-4876-a367-bf41324e2be7.pdf) at mid-term (June 2025). The same June 2025 review proposed raising its [rural connectivity allocation from US$42.5 million to US$58 million](https://documents1.worldbank.org/curated/en/099062725132519658/pdf/P176459-a8b61162-88f1-4876-a367-bf41324e2be7.pdf), funded by [cuts to data governance, cybersecurity and digital inclusion](https://documents1.worldbank.org/curated/en/099062725132519658/pdf/P176459-a8b61162-88f1-4876-a367-bf41324e2be7.pdf), not by new money.
 
 <!-- derived -->
 Twenty external digital-sector commitments are on the record, announced between 2015 and 2026, running to 2030 (October 2026). Those with a recorded value come to just over US$1 billion as at October 2026, most of it lending rather than grant aid and most of it for connectivity rather than digital government, identity or health systems. The World Bank carries just over half on five operations, China Eximbank the next largest share on two loans to the state operator. More than a quarter of the total is on commitments not confirmed as moving.
@@ -361,6 +361,8 @@ The money set against all this is capped rather than open-ended: [article 14 of 
 
 ### National statistics
 <!-- data.statistics -->
+
+Mozambique's next census is short of both money and a working system: the count is [set for 1 to 15 August 2027](https://aimnews.org/2025/05/21/mocambique-recenseamento-geral-da-populacao-tera-lugar-em-agosto-de-2027/), [the digital system meant to run it failed in testing in August 2026](https://www.diarioeconomico.co.mz/2026/08/22/desenvolvimento-2/ine-quer-melhorar-sistema-digital-do-censo-de-2027-apos-falhas-nos-testes/), and [the statistics institute had secured about US$60m of the US$110m it needs by October 2026](https://www.rm.co.mz/ine-enfrenta-defice-de-45-milhoes-de-dolares-para-financiar-o-recenseamento-geral/).
 
 No labour force survey had been run in Mozambique in the ten years to 2023, on the World Bank's [Statistical Performance Indicators](https://www.worldbank.org/en/programs/statistical-performance-indicators), which leaves employment — and with it every question about who works in the digital economy — with no recent national instrument behind it. The gap is specific rather than a survey programme in collapse: the same indicators record three or more health surveys, two household surveys and two agricultural surveys over those ten years, and a [population census and a business census](https://www.worldbank.org/en/programs/statistical-performance-indicators) both fall inside the same window, though the agricultural census does not.
 

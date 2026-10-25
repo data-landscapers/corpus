@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: EGY
-ledger_rows: 101
+ledger_rows: 102
 not_held: 41
-record: 65f197ebc323
+record: e862e9560688
 ---
 
 # News, Sep – Oct 2026
@@ -28,6 +28,8 @@ record: 65f197ebc323
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -1763,6 +1765,28 @@ Egypt's Information Technology Industry Development Agency and GIZ Egypt launche
 **[ITIDA, GIZ launch ICT inclusion playbook in Egypt](https://en.amwalalghad.com/itida-giz-launch-ict-inclusion-playbook-in-egypt/)** — Amwal Al Ghad, 28 September 2026
 
 Egypt's IT industry development agency and GIZ launched work with 14 ICT companies on a playbook for recruiting and including persons with disabilities, to be produced through 15 workshops and published on the agency's website.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Population, Housing and Establishments Census (moved to 2028)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Planning Minister reviews preparations for 2028 population census](https://sis.gov.eg/en/media-center/news/planning-minister-reviews-preparations-for-2028-population-census/)** — State Information Service (Egypt), 4 October 2026
+
+Planning minister and CAPMAS head review 2028 census preparations; field phases from second half of 2028.
 
 </div>
 
