@@ -12,6 +12,15 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · finance upkeep: 9 readings, follow-ups struck (13 items), 3 deals judged into deal-scope; 10 items still waiting, each on a document or a decision
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · KEN FY2024: Supplementary II development volumes read, nil (Supp III and the 2025/26 prior-year column stand); BEN/LSO 2027 documents logged nil
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · CPV FY2024-26: votes recorded, 31/32/33 organs plus Mapa VII pillars and earmarked items; no row changed
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · BEN FY2024: ARCEP Benin 2024 report, nil (resources only)
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · MLI FY2024: AMRTP held from its 2024 income statement, operating charges XOF 24.40bn (partial)
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · GIN FY2026: half-year execution report read, nil (ministry envelopes, in-year); the March 2026 bill with line detail found on dgb.gov.gn, asked of OSINT
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · KEN FY2025: Digital Health Authority revised gross 394,200,000 from Supplementary I recurrent
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · BDI FY2025: successor mapping from decrees 100/002 and 100/024 - DIN, DD and five provincial digital-economy directorates at revised (BIF 1.22bn, 31 rows), four predecessors at nil; 19/001 IT staff fees to 19/026
+2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · UGA FY2024: the universal service fund held from the Auditor General's report, UGX 66.18bn budgeted, 68.07bn spent (whole, own-source)
 2026-10-24 03:18 · **RENDER** · 37m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 10 editions pruned; deployed 3b5dbf8 - ok
 2026-10-24 02:40 · **REBUILD** · 22m · civilregister civil: 51 cells reassessed, 3 moved; 54 searched, 183 staged; 92.6M tokens (third of a shared window) - ok
 2026-10-24 02:40 · **REBUILD** · 22m · centralbank centralbank: 52 cells reassessed, 5 moved; 54 searched, 227 staged; 92.5M tokens (third of a shared window) - ok
