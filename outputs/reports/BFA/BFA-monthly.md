@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: BFA
-ledger_rows: 47
+ledger_rows: 48
 not_held: 7
-record: 3d3542530cdb
+record: 27d967956acf
 ---
 
 # News, Sep – Oct 2026
@@ -141,6 +141,20 @@ The telecoms regulators of Burkina Faso, Mali and Niger signed a convention crea
 **[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou on 15-16 October 2026, set 1 January 2027 for national company lists to support a regional identification code and 31 January for a technical unit to supervise interconnected customs data. Nine of the 18 recommendations from their 2025 meeting have been implemented, six are under way and three are outstanding.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bilateral roaming agreements with Benin, Côte d'Ivoire and Senegal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+ARCEP Burkina signs with Benin, Côte d'Ivoire and Senegal regulators, Ouagadougou 23 Oct 2026.
 
 </div>
 

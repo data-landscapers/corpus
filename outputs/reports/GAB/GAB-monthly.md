@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: GAB
-ledger_rows: 56
+ledger_rows: 59
 not_held: 13
-record: 8ca76df2b55e
+record: 034067d724ba
 ---
 
 # News, Sep – Oct 2026
@@ -18,6 +18,8 @@ record: 8ca76df2b55e
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -363,6 +365,20 @@ Gabon's digital agency ANINF told an ITU workshop on universal meaningful connec
 **[CAB-CORRIDOR : la SPIN et CAMTEL renforcent la connectivité numérique en Afrique centrale - Société de Patrimoine des Infrastructures Numériques CAB-CORRIDOR : SPIN et CAMTEL renforcent la connectivité en Afrique centrale](https://spin.ga/cab-corridor-spin-camtel-connectivite-afrique-centrale/)** — SPIN Gabon, 3 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a>
 
 Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have signed a memorandum of understanding and a confidentiality agreement on CAB-CORRIDOR, a terrestrial link between Cameroon, Gabon and the Republic of Congo over the Central African Backbone, SPIN said on 3 October 2026. Implementation terms are expected in October 2026; signing dates are not given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G pilot</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : une 'Gabon Digital Week' au coeur de l'innovation](https://www.union.sonapresse.com/fr/numerique-une-gabon-digital-week-au-coeur-de-linnovation)** — L'Union - Sonapresse, 24 October 2026
+
+Libreville 26-30 Oct 2026; 5G pilot launch with Moov Africa and Airtel; Gabon Digital programme; GSMA audit readout.
 
 </div>
 
@@ -896,6 +912,28 @@ Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Libreville municipal revenue-digitalisation system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paiement électronique des recettes municipales : quel bilan 4 mois après ?](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres)** — L'Union - Sonapresse, 22 October 2026
+
+Mobile-money market fees launched 12 June; city hall says operational, Mont-Bouët traders say cash still rules.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -1021,6 +1059,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Gabon/Énergie : «Les résultats du recensement 2026 alimenteront le calcul des indicateurs du SIE» (Ministère de l'Énergie)](https://agpgabon.ga/gabon-energie-les-resultats-du-recensement-2026-alimenteront-le-calcul-des-indicateurs-du-sie-ministere-de-lenergie/)** — AGP - Agence Gabonaise de Presse, 23 September 2026
 
 Gabon's energy statistics director, Armand-Colyn Abessolo Nkewele, said on 23 September 2026 that results of the 2026 population census will feed the country's energy information system and indicators, including those for SDG 7. He spoke at a regional workshop on a shared energy information system for CEMAC states. No date for the census results is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Recensement general de la population et de l'habitat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RGPL 2026 : après la proclamation des résultats, les Gabonais réclament le rapport détaillé](https://actu241ga.com/rgpl-2026-apres-la-proclamation-des-resultats-les-gabonais-reclament-le-rapport-detaille/)** — Actu241, 21 October 2026
+
+No full census report publicly confirmed by October 2026; MP and citizens invoke constitutional right of access.
 
 </div>
 

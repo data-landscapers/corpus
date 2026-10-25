@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: SEN
-ledger_rows: 66
+ledger_rows: 69
 not_held: 2
-record: deeb2b10548b
+record: b4bb41c7f8d8
 ---
 
 # News, Sep – Oct 2026
@@ -42,6 +42,8 @@ record: deeb2b10548b
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
@@ -285,6 +287,22 @@ Senegal's personal data protection commission (CDP) opened a seminar in Dakar fo
 **[ASSEMBLÉE NATIONALE : QUATRE TEXTES GOUVERNEMENTAUX ET CINQ PROPOSITIONS D’ENQUÊTE À L’OUVERTURE DE LA SESSION ORDINAIRE 2026-2027](https://www.rts.sn/actualite/detail/a-la-une/assemblee-nationale-quatre-textes-gouvernementaux-et-cinq-propositions-denquete-a-louverture-de-la-session-ordinaire-2026-2027)** — Radiodiffusion Télévision Sénégalaise, 13 October 2026
 
 Majority deputies in Senegal's National Assembly filed a proposal for a commission of inquiry into the health cooperation agreement with the United States, in particular what it means for Senegalese personal data. The Assembly's Bureau will rule on whether it is admissible.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bilateral roaming agreement with Burkina Faso</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+ARCEP Burkina signs with Benin, Côte d'Ivoire and Senegal regulators, Ouagadougou 23 Oct 2026.
 
 </div>
 
@@ -650,6 +668,20 @@ Mobile money operator Wave Digital Finance appears on the BCEAO's list of partic
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial inclusion rate</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Inclusion financière : le Sénégal parmi les pays les plus avancés de l’UEMOA en 2025](https://lesoleil.sn/actualites/economie/inclusion-financiere-le-senegal-parmi-les-pays-les-plus-avances-de-luemoa-en-2025/)** — Le Soleil, 21 October 2026
+
+BCEAO 2025 figures: Senegal index 0.651 vs 0.616; e-money use 66.29%; lowest nominal lending rate in UEMOA, 5.98%.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -661,6 +693,20 @@ Mobile money operator Wave Digital Finance appears on the BCEAO's list of partic
 **[GREEN](https://senprof.education.sn/GUIDES%20ET%20DOCUMENTATIONS/GUIDE%20GREEN)** — SIMEN — Système d'Information et de Management de l'Éducation nationale, Ministère de l'Éducation nationale du Sénégal, 3 September 2026
 
 Senegal's education ministry says it has completed nationwide rollout of the education identifier (IEN), a unique alphanumeric number for every teacher and pupil, issued at enrolment through the GREEN module of its SIMEN information system. Head teachers enrol staff and pupils. The guide is undated and describes Excel import and export rather than links to other systems.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-registry digitisation system (LGEC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[État civil : 77 % de centres digitalisés, selon le DG de l'ANEC](https://aps.sn/etat-civil-77-de-centres-digitalises-selon-le-dg-de-lanec/)** — APS, 24 September 2026
+
+ANEC aims for all 629 civil-status centres digitised by end-2026; PAEC trained 340 auxiliaries.
 
 </div>
 
