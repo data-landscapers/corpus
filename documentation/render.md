@@ -31,6 +31,8 @@ A build that died mid-stage-4 leaves a tree that renders perfectly: every check 
 
 The "commit anything outstanding" line runs **after** the gate: running it first would satisfy check 3 by committing the very work whose being uncommitted is the evidence. In a cycle there is no repair at the seam at all — `CYCLE.md` owns that.
 
+**The push after it keeps the site push alone** *(2026-10-25)*. The deploy workflow's `paths: site/**` filter reads at most the first 300 files of a push's diff; a push of a night's unpushed build commits lists `content/`, `logs/`, `maturity/` and `outputs/` first, and GitHub creates no run. On 2026-10-25 a 40-commit, 8,659-file push carried the render and nothing deployed until Bill ran the workflow by hand. Pushing after every commit prevents it; this push is the backstop.
+
 ## Step 2 — the edition gate and the coverage assertion
 
 **`render.py` decides whether a document has moved**, on §9's rule: an edition is cut when the content changes, not when a build runs. It digests each source's body below the frontmatter, reads the digest back off the page it wrote last time, and leaves an unchanged document alone — page and PDF both — counting it as rendered. A document that moves twice in a day gets a `-2` suffix, never an overwrite.

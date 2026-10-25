@@ -46,10 +46,11 @@ echo "build ok: ${build_line%% · *}"
 
 **All three log and stop** — `python scripts/log-line.py render "stopped at step 0: <which> — not rendered"` — and write a message. **The repair is to run BUILD**, which resumes where it stopped. **Never delete the sentinel or hand-write a log line to get past this**: forging either publishes the half-built tree the check exists to catch.
 
-Then commit anything else outstanding, **after the gate, not before**:
+Then commit anything else outstanding, **after the gate, not before**, and push it, so Step 7's site commit goes up alone:
 
 ```bash
 git add -A && git diff --cached --quiet || git commit -m "Commit outstanding work before render"
+git push
 ```
 
 ## Step 1 — stamp the commit the site is built from
