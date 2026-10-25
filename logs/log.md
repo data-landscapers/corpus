@@ -12,7 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
-2026-10-25 02:07 · **BUILD** · 22m · catalogue 33,288; 518 sources, 46 moved, 143 minted, 89 status sections revised; data centres 3, 1 added; maturity 37 facts, 23 stages moved; bulletin 6; finance 12 sittings, 10 waiting; register 10; notes 260-262 - ok
+2026-10-25 02:07 · **BUILD** · 1h22m · catalogue 33,288; 518 sources, 46 moved, 143 minted, 89 status sections revised; data centres 3, 1 added; maturity 37 facts, 23 stages moved; bulletin 6; finance 12 sittings, 10 waiting; register 10; notes 260-262 - ok
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · finance upkeep: 9 readings, follow-ups struck (13 items), 3 deals judged into deal-scope; 10 items still waiting, each on a document or a decision
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · KEN FY2024: Supplementary II development volumes read, nil (Supp III and the 2025/26 prior-year column stand); BEN/LSO 2027 documents logged nil
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · CPV FY2024-26: votes recorded, 31/32/33 organs plus Mapa VII pillars and earmarked items; no row changed
