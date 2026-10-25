@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: TCD
-ledger_rows: 36
+ledger_rows: 37
 not_held: 22
-record: e00fd4d1f23b
+record: dc0e8c7a7fa9
 ---
 
 # News, Sep – Oct 2026
@@ -509,6 +509,20 @@ The WHO Regional Office for Africa launched DIGIT-HCM, a three-year initiative t
 **[Numérique : Le pastoralisme tchadien entame sa révolution digitale avec l’appui du PRAPS-2 Tchad et de l’OMSA](https://praps2tchad.org/numerique-le-pastoralisme-tchadien-entame-sa-revolution-digitale-avec-lappui-du-praps-2-tchad-et-de-lomsa/)** — PRAPS-2 Tchad, 21 October 2026
 
 Chad's livestock ministry took delivery on 21 October 2026 of seven digital systems built by the PRAPS-2 pastoralism project with technical support from the World Organisation for Animal Health. They include an animal-health information system linked to the health ministry, laboratory systems for two institutes, a school portal and a central HR planning database.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Teacher tablets and teaching-corps enrolment under PARAEB</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Éducation : le PAREAB lance la distribution de 39 000 tablettes numériques et Power bank aux enseignants du primaire](https://lendjampost.com/education-le-pareab-lance-la-distribution-de-39-000-tablettes-numeriques-et-power-bank-aux-enseignants-du-primaire/)** — Le N'Djam Post, 23 October 2026
+
+World Bank-financed PARAEB; first phase 9,375 teachers in four academies; handover enrolment builds teacher data.
 
 </div>
 
