@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-25 02:07 · **BUILD** · 22m · catalogue 33,288; 518 sources, 46 moved, 143 minted, 89 status sections revised; data centres 3, 1 added; maturity 37 facts, 23 stages moved; bulletin 6; finance 12 sittings, 10 waiting; register 10; notes 260-262 - ok
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · finance upkeep: 9 readings, follow-ups struck (13 items), 3 deals judged into deal-scope; 10 items still waiting, each on a document or a decision
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · KEN FY2024: Supplementary II development volumes read, nil (Supp III and the 2025/26 prior-year column stand); BEN/LSO 2027 documents logged nil
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · CPV FY2024-26: votes recorded, 31/32/33 organs plus Mapa VII pillars and earmarked items; no row changed
@@ -21,6 +22,7 @@ title: Corpus process log
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · KEN FY2025: Digital Health Authority revised gross 394,200,000 from Supplementary I recurrent
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · BDI FY2025: successor mapping from decrees 100/002 and 100/024 - DIN, DD and five provincial digital-economy directorates at revised (BIF 1.22bn, 31 rows), four predecessors at nil; 19/001 IT staff fees to 19/026
 2026-10-25 01:48 · **BUDGET-EXTRACT** · unclocked · UGA FY2024: the universal service fund held from the Auditor General's report, UGX 66.18bn budgeted, 68.07bn spent (whole, own-source)
+2026-10-25 01:45 · **ANALYTICS** · unclocked · 2026-10-22..2026-10-24 written; 24 Oct: dl.io 12 views / 0 clicks, corpus 102 views / 0 clicks
 2026-10-24 03:18 · **RENDER** · 37m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 10 editions pruned; deployed 3b5dbf8 - ok
 2026-10-24 02:40 · **REBUILD** · 22m · civilregister civil: 51 cells reassessed, 3 moved; 54 searched, 183 staged; 92.6M tokens (third of a shared window) - ok
 2026-10-24 02:40 · **REBUILD** · 22m · centralbank centralbank: 52 cells reassessed, 5 moved; 54 searched, 227 staged; 92.5M tokens (third of a shared window) - ok
@@ -661,17 +663,6 @@ title: Corpus process log
 2026-09-24 17:58 · **BUDGET-EXTRACT** · 3h00m · Budget sprint: 33 countries read from OSINT's newly catalogued budget documents (notes-for-corpus 52-63), one agent per country; SDN, ERI nil. Stopped on quota; queue and open questions in logs/budget-followups.md.
 2026-09-24 12:19 · **MATURITY** · unclocked · snapshot as at 2026-08-31, 54 units: stages 1 283 · 2 1,950 · 3 1,900 · 4 215 · 5 10, unplaced 1,323; against July 19 up, 1 down (MUS open discussion), 35 unplaced placed, 84 newly assessed, 157 newly unplaced; movement list logs/maturity-movements-2026-08.csv; checks N-T clean — ok
 2026-09-24 12:01 · **MATURITY** · unclocked · baseline as at 2026-07-31, 54 units: stages 1 282 · 2 1,881 · 3 1,854 · 4 212 · 5 10, unplaced 1,201, No evidence the rest of 6,318; 7 quintile rows cut, civil-service literacy provisional; checks N-T clean — ok
-2026-09-23 23:06 · **RENDER** · 23m · 251 documents, home, places, topics, progress, catalogue, finance, datasets rendered; R2 2,871 uploaded; deployed — ok
-2026-09-23 22:43 · **REVIEW** · 18m · EGY: status 14 sections revised, progress 15 cells, monthly 27 blocks, finance 0 rows; 1 deal queued, 1 note for OSINT — ok
-2026-09-23 22:41 · **REVIEW** · 16m · DZA: status 8 sections revised, progress 26 cells, monthly 17 blocks, finance 2 rows; 2 deals queued, 1 note for OSINT — ok
-2026-09-23 22:25 · **BUILD** · 23m · catalogue 23,960; finance 1,487 deals; 38 units / 111 sources, 45 rows minted, 16 moved, 3 Not held settled, 12 baselines revised; data centres 14 records, 1 added; topics 76; bulletin 40; 48 register hits stand — ok
-2026-09-23 22:02 · **ANALYTICS** · unclocked · 2026-09-22 written; 22 Sep: dl.io 18 views / 0 clicks, corpus 89 views / 3 clicks
-2026-09-23 16:50 · **ANALYTICS** · 1m · backfill 2026-09-13..2026-09-22 written; 22 Sep: dl.io 18 views / 0 clicks, corpus 89 views / 3 clicks
-2026-09-23 12:01 · **FIX** · 10m · data centres change log: only rows whose closing source date is September 2026 (1 row); CSV now one undated file; deployed — ok
-2026-09-23 11:41 · **FIX** · 25m · data centres: Bill's intro published; #changes link now lands (instant jump, anchor re-seated as the table draws); 300 pre-September source rows pruned from the change log (1,845 left); deployed — ok
-2026-09-23 11:10 · **RENDER** · 23m · 251 reports rendered (0 failed), home+countries+topics+progress+catalogue+alerts+finance+datasets (Data Centres 2026-09-23, 576)+methodology, 4511 objects to R2, deployed — ok
-2026-09-23 10:47 · **BUILD** · 32m · catalogue 23,858; finance 1,484 deals, summary by deal year; 52 units / 540 sources read, ~130 rows moved or minted, 15 baselines revised; data centres backfill complete, 576 facilities; topics 76; bulletin 28; 66 register hits stand — ok
-2026-09-23 10:15 · **NOTES** · 35m · closed 47 (backfill fully pulled), 50 (staging leaves topics to ingest), 51 (two of three change-log entries; ZWG not reader-visible); 48 re-pointed 242 CAF/ZAF budget rows, 48 and 49 open pending the compile
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
 2026-09-20 19:05 · **SHARE-PRUNE** · unclocked · prepared/ pruned: 33 spent handovers out (5.3MB -> 12K), the rule added to the share README, and scripts/lint-prepared.py at BUILD stage 0. Three verdicts -- spent, waiting, unresolved -- so an item naming no closer is reported, not guessed.
 2026-09-20 18:26 · **REGISTER-R56** · unclocked · R56 pilot, moved to GHA FY2026: 11 lines read against the spec, money unchanged at GHS 898m, every row now carrying its scope basis and cross-foot. Four earned absences -- the biggest, GHS 273.7m, is the national broadcaster.
