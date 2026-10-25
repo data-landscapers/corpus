@@ -80,11 +80,11 @@
       "criteria": [
         "A source from the past three years says no population census has been counted in ten years and none is being prepared.",
         "A census is being prepared: mapping, a pilot, funding or a date set in the past three years. A census only promised does not count.",
-        "A population census has been counted in the past ten years, with its results preliminary or not yet out.",
-        "The final results of that census have been published.",
-        "The census's final results are out and a national household survey (DHS, MICS, living standards or labour force) has published results in the past three years."
+        "A population census has been counted in the past ten years, with no results out yet.",
+        "Preliminary or final results of that census have been published.",
+        "The census's results are out and a national household survey (DHS, MICS, living standards or labour force) has published results in the past three years."
       ],
-      "criteria_of": "79a3b7ebe5c7"
+      "criteria_of": "d4647a0d448a"
     }
   ],
   "classes": [
@@ -112,14 +112,16 @@
     },
     {
       "key": "results",
-      "name": "Final results published",
+      "name": "Results published",
       "role": "coverage",
       "defer": [],
       "prefer": [
-        "final"
+        "final",
+        "preliminary"
       ],
       "values": [
-        "final"
+        "final",
+        "preliminary"
       ]
     },
     {

@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-censuses.md — the population census and household surveys, in four questions
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-25
 status: run 2026-10-15; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -30,7 +30,7 @@ Asked in order. Each is answered with a date and a link.
 |---|---|---|
 | 1 | Is a census being prepared, or has one been taken? | A source from the last three years states mapping, a pilot census, funding or a date set for the next census, or a source states a census was counted in the last ten years. A census only promised is not a yes |
 | 2 | Has a census been counted in the last ten years? | Enumeration completed since 1 October 2016 |
-| 3 | Have its final results been published? | Final or definitive results of that census, not preliminary ones |
+| 3 | Have its results been published? | Preliminary or final results of that census, published |
 | 4 | Has a household survey published results in the last three years? | Results of a national household survey, as above, published since 1 October 2023 |
 
 ## 3. The ladders
@@ -41,16 +41,18 @@ Asked in order. Each is answered with a date and a link.
 |---|---|
 | 1 Absent | A source from the last three years says no census has been counted in ten years and none is being prepared |
 | 2 Preparing | Yes to 1 only: a census in preparation |
-| 3 Counted | Yes to 2: a census counted, results preliminary or not yet out |
-| 4 Published | Yes to 3: its final results published |
+| 3 Counted | Yes to 2: a census counted, no results out yet |
+| 4 Published | Yes to 3: its results published, preliminary or final |
 | 5 Surveyed | Yes to 4: a household survey published as well |
 
-- **A later yes answers the earlier ones**: final results show a census was counted. **A survey answers question 4 only**: on its own it is noted, and it counts only above a published census.
+- **A later yes answers the earlier ones**: published results show a census was counted. **A survey answers question 4 only**: on its own it is noted, and it counts only above a published census.
 - **The ten-year window is the UN's rule** of a census at least once a decade. A census counted before October 2016 with a successor in preparation is stage 2.
 - **No census in ten years and none in preparation is not stage 1** unless a source says so; the cell is unplaced and the summary gives the year of the last count.
 - **Changes from the row as it stands.** Stage 3 also took a survey programme with irregular rounds, stage 4 asked for disaggregation, a portal or microdata and a regular survey programme together, and stage 5 for every round met under the Charter's principles. Disaggregation and access need the results themselves read, and "under the Charter's principles" is alignment, so they go; the census is the ladder and one recent survey its top.
 
-`study.json` holds this as three aspects: `census` (`taken`, `preparing`, `none`) for questions 1 and 2, `results` (`final`) for 3 and `survey` (`published`) for 4. **For the drafter**: the census or survey and its year go in `country_label` (e.g. *RGPH-5 2023*, *DHS 2022*), and the enumeration dates in the fact.
+`study.json` holds this as three aspects: `census` (`taken`, `preparing`, `none`) for questions 1 and 2, `results` (`final`, `preliminary`) for 3 and `survey` (`published`) for 4. **For the drafter**: the census or survey and its year go in `country_label` (e.g. *RGPH-5 2023*, *DHS 2022*), and the enumeration dates in the fact.
+
+**Rung 4 widened** *(Bill, 2026-10-25)*: preliminary results published answer question 3 as well as final ones. Eleven facts stating a preliminary release moved from `census` to `results` (`corrections.csv`). Burundi, Guinea and Guinea-Bissau rose from 3 to 4 and the Gambia from 3 to 5; Lesotho stays at 3, its 2026 census the one that counts and no results of it out.
 
 ## 4. The norm
 

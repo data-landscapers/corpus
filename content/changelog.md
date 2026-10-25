@@ -1,5 +1,6 @@
 ## 25 October 2026
 
+- The censuses and surveys indicator now counts a census's preliminary results as published, not only its final ones. Burundi, Guinea and Guinea-Bissau rise to stage 4 and the Gambia to 5.
 - The use of open data indicator's top stage now needs four or more public bodies publishing data, named or counted in the past two years; reuse and download counts no longer count. Libya and Togo rise to 5 and Burkina Faso holds it; Liberia and Senegal fall to 4 and the Central African Republic to 3.
 - The business register's top stage now needs the beneficial owners of every company recorded, and a firm number shared with tax or social security shown in its own right. No country holds stage 5 now: Tunisia falls to 4; Kenya, Mozambique, Nigeria, Senegal, South Africa and Tanzania to 3; Ghana, Namibia and Zambia to 2.
 - A partly digital deal whose own source costs its digital part now counts at that amount, not at half: Madagascar's World Bank connectivity project at US$135m (was 200m) and Lesotho's public-sector foundations credit at US$5m (was 6m). Every other partly digital deal still counts at half.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MLI-009;MLI-001",
-      "gaps": "No source held reports final results of the census published.",
+      "gaps": "No source held reports preliminary or final results of the census published.",
       "note": "The RGPH5 was counted in 2022 and nothing held reports its final results, so stage 3 and not 4. Reassessed 2026-10-24: the count is dated 2022, not by the 2026 bulletin that cites it.",
       "as_at": "2026-10-24"
     }

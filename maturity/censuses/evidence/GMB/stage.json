@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "census",
-      "stage": "3",
+      "stage": "5",
       "census": "taken",
-      "results": "",
-      "survey": "",
+      "results": "preliminary",
+      "survey": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-004",
-      "gaps": "No source held reports final results of the census published.",
-      "note": "Counted from the four questions by study-ladder-censuses.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GMB-005;GMB-004",
+      "gaps": "",
+      "note": "Restaged on the widened rung 4 (Bill, 2026-10-25): preliminary results published answer it as well as final ones.",
+      "as_at": "2026-10-25"
     }
   ]
 }

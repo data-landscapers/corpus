@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "LSO-002;LSO-001",
-      "gaps": "No source held reports final results of the 2026 census. The 2016 census is dated only by its year, so whether it falls inside the ten years, which with its final results and the 2024 labour force survey would answer the higher rungs, is not established.",
-      "note": "The 2026 census was counted in April 2026 and its results are not out, so stage 3. The final results held are of the 2016 census, dated only by its year, and are not counted inside the ten years since October 2016.",
+      "gaps": "No source held reports preliminary or final results of the 2026 census.",
+      "note": "The 2026 census, counted in April 2026, is the one that counts, and no results of it are out, so stage 3 (Bill, 2026-10-25). The 2016 census and its results set nothing.",
       "as_at": "2026-10-24"
     }
   ]

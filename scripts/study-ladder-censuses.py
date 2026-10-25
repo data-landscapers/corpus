@@ -10,11 +10,12 @@ does it. The ladder is `maturity-study-censuses.md` §2 and §3:
 1. **Preparing or taken**: a `census` of `preparing` dated inside three years of the as-at,
    or a yes to question 2.
 2. **Counted**: a `census` of `taken` dated inside ten years, the UN's census decade.
-3. **Final results**: a `results` of `final` for a census counted inside ten years. The
+3. **Results**: a `results` of `final` or `preliminary` for a census counted inside ten years
+   *(Bill, 2026-10-25: preliminary results answer it as well as final ones)*. The
    census's year is read from the row's `system`, then its `fact`; where neither names one,
    the release must fall inside the ten years.
 4. **Survey**: a `survey` of `published` dated inside three years. **It counts only above
-   final results** (study §3): on its own it is noted and sets nothing.
+   published results** (study §3): on its own it is noted and sets nothing.
 
 **A later yes answers the earlier ones** (method §3.3): final results show a census was
 counted. Stage 1 is a `census` of `none` dated inside three years with no other yes. A fact
@@ -41,7 +42,7 @@ STUDY = "censuses"
 GAPS = {
     "5": "",
     "4": "No source held reports results of a national household survey published since October 2023.",
-    "3": "No source held reports final results of the census published.",
+    "3": "No source held reports preliminary or final results of the census published.",
     "2": "No source held reports a census counted since October 2016.",
     "1": "",
 }
@@ -74,8 +75,11 @@ def correct(rows: list[dict], fixes: list[dict]) -> tuple[list[dict], int]:
         if f and f["action"] == "removed":
             changed += 1
             continue
-        if f and f["action"].startswith("revalued: ") and r["value"] != f["action"].split(": ", 1)[1]:
-            r, changed = {**r, "value": f["action"].split(": ", 1)[1]}, changed + 1
+        if f and f["action"].startswith("revalued: "):
+            to = f["action"].split(": ", 1)[1]
+            aspect, value = to.split(":", 1) if ":" in to else (r["aspect"], to)   # a preliminary release tagged `census`
+            if (r["aspect"], r["value"]) != (aspect, value):
+                r, changed = {**r, "aspect": aspect, "value": value}, changed + 1
         out.append(r)
     return out, changed
 
@@ -87,7 +91,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     ten = study_lib.months_back(as_at, 120)
     pick = lambda aspect, values, since: [  # noqa: E731
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values and d >= since]
-    final = [r["row_id"] for d, r in live if r["aspect"] == "results" and r["value"] == "final"
+    final = [r["row_id"] for d, r in live if r["aspect"] == "results" and r["value"] in ("final", "preliminary")
              and d >= ten and (census_year(r) or ten.year + 1) > ten.year]
     taken = pick("census", ("taken",), ten)
     preparing = pick("census", ("preparing",), three)

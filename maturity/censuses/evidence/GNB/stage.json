@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "census",
-      "stage": "3",
+      "stage": "4",
       "census": "taken",
-      "results": "",
+      "results": "preliminary",
       "survey": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GNB-001;GNB-002",
-      "gaps": "No source held reports final results of the census published.",
-      "note": "Counted from the four questions by study-ladder-censuses.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GNB-003;GNB-002",
+      "gaps": "No source held reports results of a national household survey published since October 2023.",
+      "note": "Restaged on the widened rung 4 (Bill, 2026-10-25): preliminary results published answer it as well as final ones.",
+      "as_at": "2026-10-25"
     }
   ]
 }

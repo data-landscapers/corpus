@@ -43,3 +43,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,TGO,data.statistics--censuses-and-surveys,fact,4,5,TGO-005;TGO-002,EHCVM-2 results presented with RGPH-5 results on 13 Dec 2024: a survey published inside three years
 2026-10-25,TUN,data.statistics--censuses-and-surveys,fact,3,5,TUN-006;TUN-005,INS official 2024 census results (17 May 2025) and MICS 2023 results (12 Feb 2024)
 2026-10-25,ZAF,data.statistics--censuses-and-surveys,fact,3,5,ZAF-002;ZAF-004,"Stats SA released Census 2022 results in Oct 2023; with the QLFS, final results and a survey"
+2026-10-25,BDI,data.statistics--censuses-and-surveys,ladder,3,4,BDI-003;BDI-002,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
+2026-10-25,GIN,data.statistics--censuses-and-surveys,ladder,3,4,GIN-003;GIN-001,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
+2026-10-25,GMB,data.statistics--censuses-and-surveys,ladder,3,5,GMB-005;GMB-004,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
+2026-10-25,GNB,data.statistics--censuses-and-surveys,ladder,3,4,GNB-003;GNB-002,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
