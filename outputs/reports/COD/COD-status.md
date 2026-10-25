@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 234
+sources_cited: 236
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -369,7 +369,7 @@ None of this is closing. [Equal Socioeconomic Opportunity scored 13.0 out of 100
 ### National statistics
 <!-- data.statistics -->
 
-DR Congo had held [no population census, no agricultural census and no business census in the twenty years to 2023](https://www.worldbank.org/en/programs/statistical-performance-indicators), and the survey programme standing in for them is uneven: [three or more labour force surveys in the decade to 2023, against a single agricultural survey, a single business survey and two rounds each of household and health surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators). No strategy for the sector has been adopted since 2017: [drafting of a second national strategy for the development of statistics was launched in March 2021](https://acp.cd/economie/lancement-du-processus-delaboration-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique-snds-2/), and no adopted text has followed. [The President has signed an ordonnance-loi organising statistical activity, which names the Institut national de la statistique principal statistical authority and applies its statistical-secrecy and confidentiality rules at once](https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/); [the Senate ratified it unanimously on 21 October 2026, 73 votes to none](https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite). The second population census is now in preparation: [census cartography was launched on 28 September 2026, the operation costed at USD 192 million with enumeration planned from July 2027](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir).
+DR Congo had held [no population census, no agricultural census and no business census in the twenty years to 2023](https://www.worldbank.org/en/programs/statistical-performance-indicators), and the survey programme standing in for them is uneven: [three or more labour force surveys in the decade to 2023, against a single agricultural survey, a single business survey and two rounds each of household and health surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators). No strategy for the sector has been adopted since 2017: [drafting of a second national strategy for the development of statistics was launched in March 2021](https://acp.cd/economie/lancement-du-processus-delaboration-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique-snds-2/), and no adopted text has followed. [The President has signed an ordonnance-loi organising statistical activity, which names the Institut national de la statistique principal statistical authority and applies its statistical-secrecy and confidentiality rules at once](https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/); [the Senate ratified it unanimously on 21 October 2026, 73 votes to none](https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite). The second population census is now in preparation: [census cartography was launched on 28 September 2026, the operation costed at USD 192 million with enumeration planned from July 2027](https://mail.7sur7.cd/index.php/2026/10/01/recensement-identification-et-enrolement-en-rdc-ce-quil-faut-savoir); a March 2026 donor round table [took financing to 83% of that budget, US$30 million of it from the state](https://www.unfpa.org/fr/press/la-rdc-prend-un-engagement-historique-en-faveur-du-premier-recensement-depuis-plus-de-42-ans), with [US$80 million from the African Development Bank](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-group-commits-80-million-drcs-first-census-over-40-years-92026).
 
 The weakness sits at the point of production. On the same 2023 assessment the [weakest pillars are data sources and data infrastructure, both in the 20-49% band, while data services and data products score 50-69% and data use 70-89%](https://www.worldbank.org/en/programs/statistical-performance-indicators) — numbers get used more readily than they get made.
 

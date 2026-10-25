@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 199
+sources_cited: 200
 sections_written: 39
 not_established: 3
 acquire_lines: 31
@@ -206,7 +206,7 @@ Government payments lag the private ones. A [government e-payment gateway was be
 
 Lesotho's social registry holds data on [more than 90% of the country's households](https://lesotho.un.org/en/215405-lesotho-national-information-system-social-assistance-tool-targeting-most-need-social) (2023), wider reach than any other register in the country. The National Information System for Social Assistance is a [web-based registry and management information system built between 2014 and 2016 with UNICEF and EU support](https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and), running the Child Grants Programme, bursaries for orphans and vulnerable children, and public assistance. Its connections outward are the weak part: links to the identity and birth registration databases [were weak in 2021](https://documents1.worldbank.org/curated/en/312581624983186451/pdf/Lesotho-Social-Protection-Programs-and-Systems-Review-Policy-Brief.pdf); since then [tablet-based digital birth registration has been integrated with it](https://lesotho.un.org/en/296588-every-child-counts-linking-nutrition-water-and-identity-better-future) (June 2025), and a [refresh of household data last collected in 2017 was scheduled for December 2025 to March 2026, with World Bank support in eight districts](https://www.lena.gov.ls/nissa-data-to-be-updated/).
 
-Digital birth registration [launched under the Ntlafatsa Bana programme in April 2025](https://www.eeas.europa.eu/delegations/lesotho/ntlafatsa-bana-launch-digital-birth-registration) with EU and UNICEF funding, and runs on [tablets carried by village health workers and civil registration officers, feeding the social assistance database, in selected community councils](https://lesotho.un.org/en/296588-every-child-counts-linking-nutrition-water-and-identity-better-future) (2026). In the mountains registration is [still predominantly paper, delivered by outreach and constrained by transport](https://www.lena.gov.ls/sekete-champions-civil-registration-access-in-hard-to-reach-qachas-nek/) (January 2026), and [not all vital events are comprehensively digitised nationwide](https://openknowledge.worldbank.org/server/api/core/bitstreams/9ba0954b-f540-5038-9311-d1bd69f69cf6/content).
+Digital birth registration [launched under the Ntlafatsa Bana programme in April 2025](https://www.eeas.europa.eu/delegations/lesotho/ntlafatsa-bana-launch-digital-birth-registration) with EU and UNICEF funding, and runs on [tablets carried by village health workers and civil registration officers, feeding the social assistance database, in selected community councils](https://lesotho.un.org/en/296588-every-child-counts-linking-nutrition-water-and-identity-better-future) (2026). In the mountains registration is [still predominantly paper, delivered by outreach and constrained by transport](https://www.lena.gov.ls/sekete-champions-civil-registration-access-in-hard-to-reach-qachas-nek/) (January 2026), and [not all vital events are comprehensively digitised nationwide](https://openknowledge.worldbank.org/server/api/core/bitstreams/9ba0954b-f540-5038-9311-d1bd69f69cf6/content). A civil registry paper [put birth registration completeness at 66.1% in 2022, against 2.8% in 2008, and found the registration law makes no provision for digitised registration](https://getinthepicture.org/system/files/sites/default/files/C1_Session%204.5_Mokoena_Paper.pdf).
 
 The land register is the thinnest of them. A single [Land Administration Authority holds registration, cadastre, mapping and surveying](https://lesotholii.org/akn/ls/act/2010/9/eng@2010-06-15), so there is no separate cadastre, and the [2016 census found 20% of households on registered leaseholds, 41% on unregistered certificates of allocation and 39% on neither](https://nelga.uneca.org/wp-content/uploads/2022/11/Land-Governance-Lesotho.pdf), sporadic registration since running at roughly 2,200 parcels a year. Leases, bonds and deeds are [online through the Landfolio-based Land Administration Online System](https://portal.laa.landfolio.com/Portal/CustomHtml.aspx?PageID=d7f3f61d-4689-4280-a59a-b865f002dd60) in business hours (2025), with district offices [planned for Berea, Mokhotlong, Qacha's Nek and Thaba-Tseka](https://www.lena.gov.ls/laa-brings-services-closer-to-communities/) (August 2025). There is [no national address register](https://lesotholii.org/akn/ls/act/ln/2011/21/eng@2011-02-24).
 
