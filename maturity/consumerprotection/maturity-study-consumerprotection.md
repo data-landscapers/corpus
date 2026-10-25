@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-consumerprotection.md — protection of people using digital financial services, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-25
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Are consumer rules for digital finance being drafted? | A source from the last three years says consumer-protection rules for digital financial services are being drafted |
 | 2 | Are such rules in force? | A source from the last three years says consumer-protection or conduct rules covering digital financial services or digital lending are in force |
 | 3 | Does a body take complaints? | A source from the last three years says a financial ombudsman or a regulator's complaints unit takes complaints about digital financial services |
-| 4 | Is enforcement reported? | A source from the last three years reports a fine, sanction, licence withdrawal or complaint figures under these rules |
+| 4 | Is enforcement reported? | A source from the last three years reports a fine, sanction, licence withdrawal or complaint figures under these rules, for digital financial services. Complaint figures across all financial services are not a yes *(Bill, 2026-10-25)* |
 
 ## 3. The ladders
 

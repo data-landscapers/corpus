@@ -6,8 +6,8 @@
 
 **Complaints handled.** [An assessment of the second National Financial Inclusion Strategy, reported by The Reporter in October 2026, says the strategy set up a dedicated financial consumer protection directorate that handles complaints](<https://www.thereporterethiopia.com/53174/>). [The same auditors cautioned that consumer safety mechanisms remain ill-equipped for digital fraud, scams and social-engineering risks, given weaknesses in the law on liability for electronic transactions](<https://www.thereporterethiopia.com/53174/>).
 
-**Enforcement reported.** [The same assessment gives the directorate's complaint resolution rate as 90 percent](<https://www.thereporterethiopia.com/53174/>).
+**Enforcement reported.** No source held reports enforcement on digital financial services. The complaint figures held cover all financial services, which does not count: [the same assessment gives the directorate's complaint resolution rate as 90 percent](<https://www.thereporterethiopia.com/53174/>).
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held reports a fine or sanction under the directive, or the number of complaints the directorate handled.
+***Not held***. No source held reports a fine, sanction, licence withdrawal or complaint figures for digital financial services.

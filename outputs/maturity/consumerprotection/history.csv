@@ -27,3 +27,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,ETH,dpi.pay--consumer-protection,review,3,5,ETH-002;ETH-003,"Rebuild: the October 2026 NFIS II assessment, inside the cell's as-at, names a consumer protection directorate handling complaints and its 90 percent resolution rate; 3 -> 5."
 2026-10-25,SDN,dpi.pay--consumer-protection,review,5,3,SDN-002,"Rebuild: Al-Asjad's licence was revoked under licensing standards, not consumer rules, and no regulator's complaints unit is named; 5 -> 3."
 2026-10-25,ZWE,dpi.pay--consumer-protection,review,4,3,ZWE-002;ZWE-001,Rebuild: the governor's word that complaints about the cost of banking arrive names no complaints unit and no digital financial service; 4 -> 3.
+2026-10-25,ETH,dpi.pay--consumer-protection,review,5,4,ETH-002;ETH-001,"Bill, 2026-10-25: complaint figures must be for digital financial services; all-services counts do not answer question 4"
+2026-10-25,SEN,dpi.pay--consumer-protection,review,5,4,SEN-001,"Bill, 2026-10-25: complaint figures must be for digital financial services; all-services counts do not answer question 4"
+2026-10-25,SWZ,dpi.pay--consumer-protection,review,5,4,SWZ-003;SWZ-001,"Bill, 2026-10-25: complaint figures must be for digital financial services; all-services counts do not answer question 4"

@@ -1,6 +1,6 @@
 # Consumer protection: consumer protection
 
-*As at 2026-10-18.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 6 |
+| 5 Leading | 1 |
+| 4 Operating | 9 |
 | 3 Established | 16 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
@@ -30,31 +30,11 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 
 ## Countries
 
-### Eswatini: 5 Leading
-
-Enforcement of consumer protection in digital finance was reported in 2024.
-
-- The World Bank FSAP note reports complaint figures from the ombudsman schemes' last annual reports: 40 complaints to the CBE Ombudsman and 84 to the FSRA Ombudsman, up from 59 the year before ([source, 2024-10](https://documents1.worldbank.org/curated/en/099082525170036534/pdf/P505756-da939ce0-36a3-4072-9fbb-8f90280267ab.pdf)).
-
-### Ethiopia: 5 Leading
-
-A financial consumer protection directorate reported resolving 90 percent of complaints in 2026.
-
-- The NFIS II assessment, reported by The Reporter, says NFIS II established a dedicated financial consumer protection directorate that achieved a 90 percent complaint resolution rate, while auditors cautioned that consumer safety mechanisms remain ill-equipped for digital fraud, scams and social-engineering risks, given weaknesses in the law on electronic transaction liability ([source, 2026-10-03](https://www.thereporterethiopia.com/53174/)).
-- The NFIS II assessment reports a 90 percent complaint resolution rate for the financial consumer protection directorate ([source, 2026-10-03](https://www.thereporterethiopia.com/53174/)).
-
 ### Nigeria: 5 Leading
 
 Enforcement of consumer protection in digital finance was reported in 2026.
 
 - TechCabal reports MTN suspended its airtime lending in April 2026 under a regulatory suspension linked to the FCCPC's new requirements, cutting the lending base to about a quarter of its first-quarter run rate and costing about 50 billion naira in first-half revenue ([source, 2026-04](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/)).
-
-### Senegal: 5 Leading
-
-A financial mediator published its count of disputed files for 2025.
-
-- The Observatoire de la qualité des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
-- The OQSF reports 475 new disputed files handled through mediation in 2025, against 379 in 2024: 357 in banking, microfinance, financial institutions and La Poste and 118 in insurance, the main banking grounds being slow international transfers (25.4%) and credit repayment difficulties (17%) ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
 
 ### Benin: 4 Operating
 
@@ -74,11 +54,31 @@ A body took complaints about digital financial services in 2025; enforcement is 
 
 - The OQSF-CI executive secretary says consumers can bring complaints on financial services to the Observatoire through a green line, an email address and a website, and that financial mediation is part of its consumer-protection mission ([source, 2025-07-03](https://infocentrale.net/2025/07/05/entretien-zoom-sur-les-plateformes-digitales-pour-saisir-loqsf-en-cote-divoire/)).
 
+### Eswatini: 4 Operating
+
+The central bank's ombudsman took complaints, mobile money included, in 2026; enforcement on digital financial services is not on record.
+
+- The World Bank FSAP note says a CBE Ombudsman and an FSRA Ombudsman have been in place for several years taking complaints about credit, transaction and savings products, the CBE one without finalized procedural rules ([source, 2024-10](https://documents1.worldbank.org/curated/en/099082525170036534/pdf/P505756-da939ce0-36a3-4072-9fbb-8f90280267ab.pdf)).
+- The Central Bank of Eswatini says a consumer unsatisfied with a financial institution's response to a complaint can escalate it to the CBE's Ombudsman, and that the Market Conduct and Consumer Protection Unit supervises institutions including mobile money service providers ([source, 2026](https://www.centralbank.org.sz/market-conduct-consumer-protection-unit/)).
+
+### Ethiopia: 4 Operating
+
+A financial consumer protection directorate took complaints in 2026; enforcement on digital financial services is not on record.
+
+- The NFIS II assessment, reported by The Reporter, says NFIS II established a dedicated financial consumer protection directorate that achieved a 90 percent complaint resolution rate, while auditors cautioned that consumer safety mechanisms remain ill-equipped for digital fraud, scams and social-engineering risks, given weaknesses in the law on electronic transaction liability ([source, 2026-10-03](https://www.thereporterethiopia.com/53174/)).
+- The National Bank of Ethiopia states that financial institutions are required to inform customers about fraud risks and their responsibilities in safeguarding financial instruments under Articles 5.1.7 and 5.2.8 of Financial Consumer Protection Directive No. FCP/01/2020, and instructs banks, payment instrument issuers and microfinance institutions to run a fraud awareness campaign ([source, 2026-03-25](https://nbe.gov.et/announcements/)).
+
 ### Rwanda: 4 Operating
 
 A body took complaints about digital financial services in 2026; enforcement is not reported.
 
 - NBR says customers with unresolved eKash problems may complain to the National Bank of Rwanda through the Intumwa chatbot by SMS, WhatsApp, website and social media ([source, 2026-08-05](https://www.bnr.rw/documents/Press_Release-_Update_on_the_Performance_of_eKash_Aug_2026.pdf)).
+
+### Senegal: 4 Operating
+
+A financial-services mediator took complaints in 2025; enforcement on digital financial services is not on record.
+
+- The Observatoire de la qualité des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
 
 ### Seychelles: 4 Operating
 
