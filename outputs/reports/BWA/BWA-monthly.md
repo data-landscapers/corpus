@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: BWA
-ledger_rows: 19
+ledger_rows: 21
 not_held: 5
-record: f70b38f3beaa
+record: 95eb16825861
 ---
 
 # News, Sep – Oct 2026
@@ -116,6 +116,20 @@ Botswana's universal service fund, working with one mobile operator, has deploye
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ATU IPv6 testbed</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ATU advances IPv6 testbed preparations in Botswana](https://techreviewafrica.com/news/7904/atu-advances-ipv6-testbed-preparations-in-botswana)** — Tech Review Africa, 24 October 2026
+
+BOCRA picks a host university by tender; ICANN-funded programme has trained 52 specialists from 26 countries.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -170,6 +184,8 @@ Summarised under [Data Storage](#data-storage).
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
@@ -231,6 +247,22 @@ Absa Bank Botswana has made Google Pay available on Android for its Visa debit, 
 **[Ministry unveils strategic plan](https://dailynews.gov.bw/news-detail/93441)** — Daily News (Botswana Government), 28 September 2026
 
 Botswana's Ministry of Labour and Home Affairs launched its civil registration and vital statistics plan for 2026 to 2031 on 24 September 2026. It promises a digital registration system that connects with other government systems and a review of the law on the privacy and security of registration data.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Health Insurance integrated patient information system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana explores AI integration into National Health Insurance](https://www.mmegi.bw/ampArticle/124451)** — Mmegi, 21 October 2026
+
+Integrated patient-data platform planned; AI uses, costs and timeline unspecified; P77.8m allocated (2026).
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: COM
 ledger_rows: 15
 not_held: 23
-record: 88d0c754a565
+record: b289a545a33c
 ---
 
 # News, Sep – Oct 2026
@@ -58,7 +58,7 @@ The Comoros' digital development agency and UNDP signed a memorandum on 16 Septe
 
 **[Conseil des ministres I Approbation d’un projet d’électrification complète de la région de Mledjele à Mwali](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html)** — Al-watwan, 22 October 2026
 
-Comoros' Council of Ministers on 21 October 2026 approved the telecoms minister's national data-governance and data-centre strategy for 2027-2031, along with the takeover and hosting of the State data centre and a national postal-code booklet. Approval was given on condition that the island governors are involved.
+Comoros' telecoms minister presented a national data-governance and data-centre strategy for 2027-2031 to the Council of Ministers on 21 October 2026, along with the takeover and hosting of the State data centre. The Council approved the national postal-code booklet in principle, asking that the island governors be involved.
 
 </div>
 
