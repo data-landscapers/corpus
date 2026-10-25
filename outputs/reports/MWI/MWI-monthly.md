@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: MWI
-ledger_rows: 49
+ledger_rows: 50
 not_held: 31
-record: 95be5a09b464
+record: 1005ea194839
 ---
 
 # News, Sep – Oct 2026
@@ -987,8 +987,26 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 ## Data
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#open-data">Open data</a>
 </nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">2028 Population and Housing Census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Building Stronger Foundations for Malawi's 2028 Census](https://www.worldpop.org/blog/building-stronger-foundations-for-malawis-2028-census/)** — WorldPop, 14 October 2026
+
+WorldPop and UK ONS train NSO staff in geospatial population modelling for 2028 census planning.
+
+</div>
+
+</div>
 
 ### Open data
 

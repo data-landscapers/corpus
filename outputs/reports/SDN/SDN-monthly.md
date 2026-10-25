@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: SDN
-ledger_rows: 33
+ledger_rows: 34
 not_held: 5
-record: 2cc869927e4e
+record: 12f1ac37bbc2
 ---
 
 # News, Sep – Oct 2026
@@ -33,6 +33,8 @@ record: 2cc869927e4e
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
 
@@ -47,6 +49,22 @@ record: 2cc869927e4e
 **[Bank of Sudan’s banking sector reform strategy faces range of challenges, led by digital transformation - Dabanga Radio TV Online](https://www.dabangasudan.org/en/all-news/article/bank-of-sudans-banking-sector-reform-strategy-faces-range-of-challenges-led-by-digital-transformation)** — Radio Dabanga, 21 September 2026
 
 An analysis of the Central Bank of Sudan's 2026–2030 strategic plan, published in December 2025, which includes speeding up digital transformation in the banking system. Banker Omar Sid Ahmed argues that with about 98% of the money supply outside the banks and branches lost to the war, the plan needs a 12-month emergency programme with budgets and measurable targets. He adds that digital projects depend on infrastructure that is not yet in place.
+
+</div>
+
+</div>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed amendment of Criminal Code article 51 to cover electronic publishing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudan press syndicate rejects criminal code amendment](https://sudantribune.com/article/320352)** — Sudan Tribune, 23 October 2026
+
+Article 51 draft adds electronic publishing to waging war on the state; journalists and lawyers object, minister defends.
 
 </div>
 
