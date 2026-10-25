@@ -9,6 +9,15 @@
      "note": "e-GP procurement project with an implementing firm and World Bank support; no government technical staff running or building systems stated."
     }
    }
+  },
+  "localgov": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
   }
  }
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-31-lby-nous-cloturons-2025-en-beaute-avec-la-libye-qui-rejoint-papss",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "PAPSS announced at the end of December 2025 that the Central Bank of Libya had officially joined its network, the 20th country of presence.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

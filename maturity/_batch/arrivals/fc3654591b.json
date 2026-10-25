@@ -1,0 +1,41 @@
+{
+ "slug": "2025-05-08-bfa-insd-microdata-catalogue-rgph-2019-study-description",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

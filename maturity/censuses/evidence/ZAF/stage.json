@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "census",
-   "stage": "3",
-   "census": "taken",
-   "results": "",
-   "survey": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001;ZAF-003",
-   "gaps": "No source held reports final results of the census published.",
-   "note": "Counted from the four questions by study-ladder-censuses.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "census",
+      "stage": "5",
+      "census": "taken",
+      "results": "final",
+      "survey": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-002;ZAF-004",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-censuses.py.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }

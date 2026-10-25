@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,national,governance,qualifier,body:mandated,2019,ZWE-002,,nothing dated since 2023-10-23
-ZWE,national,standing,coverage,drafting,2025-11-04,ZWE-001,,
+ZWE,national,governance,qualifier,body:mandated,2019,ZWE-002,,nothing dated since 2023-10-25
+ZWE,national,standing,coverage,adopted,2024-03-07,ZWE-003,ZWE-001=drafting,
 ZWE,national,text,coverage,,,,,nothing held
-ZWE,national,period,coverage,,,,,nothing held
+ZWE,national,period,coverage,to:2030,2024-03-07,ZWE-004,,
 ZWE,national,plan,coverage,,,,,nothing held
 ZWE,national,reporting,coverage,,,,,nothing held
 ZWE,national,last12,qualifier,,,,,nothing held

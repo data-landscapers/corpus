@@ -35,3 +35,11 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,LBY,data.statistics--censuses-and-surveys,review,2,2,LBY-002,"Rebuild: stage 2 holds; the 2026 report of no census launched does not say none is being prepared, and gaps name the disagreement."
 2026-10-24,SSD,data.statistics--censuses-and-surveys,review,2,2,SSD-004,Rebuild: stage 2 holds on the approved census budget read as funding set; the reading is put to Bill.
 2026-10-24,LSO,data.statistics--censuses-and-surveys,review,3,3,LSO-002;LSO-001,"Rebuild: stage 3 holds; the 2016 census, dated only by its year, is not counted inside the ten years; the reading is put to Bill."
+2026-10-25,EGY,data.statistics--censuses-and-surveys,fact,2,2,EGY-003;EGY-001,Cabinet moved the 2027 census to 2028 (6 Aug 2026); still in preparation
+2026-10-25,ERI,data.statistics--censuses-and-surveys,fact,no evidence,1,ERI-001,"UNECA (Aug 2026): no census since independence; first row, stage 1"
+2026-10-25,GHA,data.statistics--censuses-and-surveys,fact,no evidence,4,GHA-002,"GSS census page: 2021 PHC is the latest, reports published; first rows"
+2026-10-25,KEN,data.statistics--censuses-and-surveys,fact,unplaced,3,KEN-003,KNBS (Jan 2025) on the 2019 census and groundwork for 2029: census counted inside ten years
+2026-10-25,STP,data.statistics--censuses-and-surveys,fact,3,4,STP-004,INE released final V RGPH results on 25 Jul 2025
+2026-10-25,TGO,data.statistics--censuses-and-surveys,fact,4,5,TGO-005;TGO-002,EHCVM-2 results presented with RGPH-5 results on 13 Dec 2024: a survey published inside three years
+2026-10-25,TUN,data.statistics--censuses-and-surveys,fact,3,5,TUN-006;TUN-005,INS official 2024 census results (17 May 2025) and MICS 2023 results (12 Feb 2024)
+2026-10-25,ZAF,data.statistics--censuses-and-surveys,fact,3,5,ZAF-002;ZAF-004,"Stats SA released Census 2022 results in Oct 2023; with the QLFS, final results and a survey"

@@ -1,4 +1,86 @@
-{"slug":"2026-08-13-gab-societes-ecrans-comptes-bancaires-les-failles-du-gabon-pointees-par-le","studies":{
-"businessregister":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Only OECD Global Forum ratings on beneficial ownership information are stated, with no register in service named."}}},
-"socialexchange":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The document states nothing this study asks for GAB."}}}
-}}
+{
+ "slug": "2026-08-13-gab-societes-ecrans-comptes-bancaires-les-failles-du-gabon-pointees-par-le",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only OECD Global Forum ratings on beneficial ownership information are stated, with no register in service named."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for GAB."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

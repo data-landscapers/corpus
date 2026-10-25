@@ -1,6 +1,43 @@
-{"slug": "2026-10-20-sle-unfpa-stats-sl-train-147-master-trainers-ahead-of-census", "studies": {
-"censuses": {"countries": {"SLE": {"facts": [
-{"sub_indicator": "census", "aspect": "census", "value": "preparing", "fact": "Statistician-General Andrew Bob Johnny said Stats-SL has received all 29,000 tablets and completed national cartographic mapping of about 22,508 enumeration areas, with census night set for 1 December 2026 and counting from 2 December.", "as_of": "2026-10-14", "date_precision": "day", "system": "Population and housing census 2026", "class": "census"}
-], "systems": [], "note": ""}}},
-"disabilityaccess": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Persons with disabilities are mentioned only as people the census will cover."}}}
-}}
+{
+ "slug": "2026-10-20-sle-unfpa-stats-sl-train-147-master-trainers-ahead-of-census",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "Statistician-General Andrew Bob Johnny said Stats-SL has received all 29,000 tablets and completed national cartographic mapping of about 22,508 enumeration areas, with census night set for 1 December 2026 and counting from 2 December.",
+       "as_of": "2026-10-14",
+       "date_precision": "day",
+       "system": "Population and housing census 2026",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Persons with disabilities are mentioned only as people the census will cover."
+    }
+   }
+  },
+  "admindata": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

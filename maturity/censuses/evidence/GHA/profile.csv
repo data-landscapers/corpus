@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GHA,census,census,coverage,taken,2026-10-24,GHA-001,,
+GHA,census,results,coverage,final,2026-10-24,GHA-002,,
+GHA,census,survey,coverage,,,,,nothing held

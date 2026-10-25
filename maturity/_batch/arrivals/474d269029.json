@@ -1,1 +1,23 @@
-{"slug": "2025-12-02-mrt-le-premier-ministre-preside-une-reunion-sur-la-numerisation-des-servic", "studies": {"businessregister": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A meeting and a technical committee on digitising one-stop-shop services; no register work or counter opening is stated."}}}}}
+{
+ "slug": "2025-12-02-mrt-le-premier-ministre-preside-une-reunion-sur-la-numerisation-des-servic",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A meeting and a technical committee on digitising one-stop-shop services; no register work or counter opening is stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

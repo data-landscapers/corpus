@@ -5,3 +5,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,MWI,gov.legislate--digital-payments-legislation,fact,3,4,MWI-003;MWI-001;MWI-002,"Reserve Bank licensed non-bank fintech PayChangu under the Payment Systems Act, 2016 on 30 September 2026 (MWI-003): 3 to 4."
 2026-10-18,SSD,gov.legislate--digital-payments-legislation,fact,2,5,SSD-007;SSD-006;SSD-005,Electronic Money Regulation 2017 Amendment 2025 reported in effect 1 September 2026: licenses non-bank e-money issuers and requires every payment platform to connect through a licensed switch (SSD-005 to SSD-007): 2 to 5.
 2026-10-18,ZAF,gov.legislate--digital-payments-legislation,fact,3,4,ZAF-008;ZAF-007,"Reserve Bank regulation page lists non-banks designated as clearing system participants under the NPS Act, Yoco 2021 and Payfast 2024 (ZAF-008): 3 to 4."
+2026-10-25,COD,gov.legislate--digital-payments-legislation,fact,3,5,COD-002;COD-001,BCC Instruction 58 (Sep 2024) obliges regulated entities to connect to the national switch
+2026-10-25,MDG,gov.legislate--digital-payments-legislation,fact,4,5,MDG-007;MDG-004;MDG-003,BFM instruction (Oct 2024) makes SPI connection compulsory for banks and e-money institutions
+2026-10-25,SLE,gov.legislate--digital-payments-legislation,fact,4,5,SLE-005;SLE-004;SLE-002,BSL directives: banks and mobile money operators must route through SaPS from 1 Apr 2025
+2026-10-25,NAM,gov.legislate--digital-payments-legislation,fact,4,5,NAM-009;NAM-002;NAM-005,BoN PSDIR-11 (Jun 2025): e-money issuers must interoperate through the instant payment switch
+2026-10-25,DJI,gov.legislate--digital-payments-legislation,fact,3,4,DJI-002;DJI-001,BCD register lists licensed e-money issuers D-Money (2020) and WAAFI (2022)

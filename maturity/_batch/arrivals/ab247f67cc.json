@@ -1,4 +1,95 @@
-{"slug":"2025-03-24-bfa-declaration-des-beneficiaires-reels-des-entreprises-minieres-un-dispos","studies":{
-"businessregister":{"countries":{"BFA":{"facts":[],"systems":[{"system":"registre des beneficiaires effectifs","country_label":"BO register of the Ouagadougou commercial court","class":"other","platform":"","owner":"Tribunal de commerce de Ouagadougou","tiers":"mining title holders"}],"note":"The computerised beneficial ownership register is held by the commercial court for mining firms, not stated to be the business register."}}},
-"socialexchange":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing this study asks for BFA."}}}
-}}
+{
+ "slug": "2025-03-24-bfa-declaration-des-beneficiaires-reels-des-entreprises-minieres-un-dispos",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "registre des beneficiaires effectifs",
+       "country_label": "BO register of the Ouagadougou commercial court",
+       "class": "other",
+       "platform": "",
+       "owner": "Tribunal de commerce de Ouagadougou",
+       "tiers": "mining title holders"
+      }
+     ],
+     "note": "The computerised beneficial ownership register is held by the commercial court for mining firms, not stated to be the business register."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for BFA."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

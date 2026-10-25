@@ -1,12 +1,175 @@
-{"slug": "2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho", "studies": {
-"aiabuse": {"countries": {"LSO": {"facts": [], "systems": [], "note": "An AI Policy is named but nothing on a rule or authority against AI harms."}}},
-"aigovernment": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The only AI tool named is a sector (agriculture) chatbot, which is not general administration."}}},
-"aisectoral": {"countries": {"LSO": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Minister Nthati Moorosi said her ministry is developing a proposed AI chatbot with the Ministry of Agriculture, Food Security and Nutrition to give farmers advice through agricultural extension services.", "as_of": "2026-10-23", "date_precision": "day", "system": "AI-powered agricultural extension chatbot", "class": "sectorai"}], "systems": [{"system": "AI agricultural extension chatbot", "country_label": "Lesotho", "class": "sectorai", "platform": "", "owner": "Ministry of ICST with Ministry of Agriculture", "tiers": ""}], "note": ""}}},
-"aistrategy": {"countries": {"LSO": {"facts": [], "systems": [], "note": "An Artificial Intelligence Policy is only named in passing; its adoption, body or funding is not stated."}}},
-"aisystems": {"countries": {"LSO": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Minister Nthati Moorosi said the government is upgrading High-Performance Computing infrastructure at the Mohale's Hoek Data Centre to expand capacity for AI development and research.", "as_of": "2026-10-23", "date_precision": "day", "system": "High-Performance Computing at Mohale's Hoek Data Centre", "class": "localai"}], "systems": [{"system": "Mohale's Hoek Data Centre", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": ""}}},
-"datacentres": {"countries": {"LSO": {"facts": [], "systems": [{"system": "Mohale's Hoek Data Centre", "country_label": "Lesotho", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "Not said to rent space or computing to others."}}},
-"digitalstrategy": {"countries": {"LSO": {"facts": [{"sub_indicator": "national", "aspect": "period", "value": "to:2030", "fact": "Minister Nthati Moorosi named the National Digital Transformation Strategy 2024-2030 as laying groundwork for a knowledge-driven economy.", "as_of": "2026-10-23", "date_precision": "day", "system": "National Digital Transformation Strategy 2024-2030", "class": "national"}], "systems": [], "note": ""}}},
-"itcapacity": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on government technical staff or a state ICT body."}}},
-"nationaldatacentres": {"countries": {"LSO": {"facts": [], "systems": [], "note": "The government data centre is not said to be for hire or to host state systems."}}},
-"stemgraduates": {"countries": {"LSO": {"facts": [{"sub_indicator": "graduates", "aspect": "nren", "value": "service", "fact": "Minister Nthati Moorosi highlighted the Lesotho Research and Education Network, which connects academic and research institutions.", "as_of": "2026-10-23", "date_precision": "day", "system": "Lesotho Research and Education Network", "class": "stemgraduates"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "An AI Policy is named but nothing on a rule or authority against AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The only AI tool named is a sector (agriculture) chatbot, which is not general administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Minister Nthati Moorosi said her ministry is developing a proposed AI chatbot with the Ministry of Agriculture, Food Security and Nutrition to give farmers advice through agricultural extension services.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "AI-powered agricultural extension chatbot",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI agricultural extension chatbot",
+       "country_label": "Lesotho",
+       "class": "sectorai",
+       "platform": "",
+       "owner": "Ministry of ICST with Ministry of Agriculture",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "An Artificial Intelligence Policy is only named in passing; its adoption, body or funding is not stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Minister Nthati Moorosi said the government is upgrading High-Performance Computing infrastructure at the Mohale's Hoek Data Centre to expand capacity for AI development and research.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "High-Performance Computing at Mohale's Hoek Data Centre",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mohale's Hoek Data Centre",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Mohale's Hoek Data Centre",
+       "country_label": "Lesotho",
+       "class": "other",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": "Not said to rent space or computing to others."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "Minister Nthati Moorosi named the National Digital Transformation Strategy 2024-2030 as laying groundwork for a knowledge-driven economy.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "National Digital Transformation Strategy 2024-2030",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government technical staff or a state ICT body."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The government data centre is not said to be for hire or to host state systems."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "graduates",
+       "aspect": "nren",
+       "value": "service",
+       "fact": "Minister Nthati Moorosi highlighted the Lesotho Research and Education Network, which connects academic and research institutions.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "Lesotho Research and Education Network",
+       "class": "stemgraduates"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

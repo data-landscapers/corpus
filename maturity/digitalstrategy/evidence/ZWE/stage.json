@@ -1,8 +1,22 @@
 {
   "iso3": "ZWE",
   "cells": [
-    {"sub_indicator": "national", "stage": "2", "governance": "", "standing": "drafting", "text": "", "period": "", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "ZWE-001",
-     "gaps": "The only row on the National Digital Roadmap 2026-2030 is the November 2025 start of its formulation; no later row says it was validated or adopted, and no text, plan or reporting is held. The Smart Zimbabwe 2030 Master Plan (to 2030) has one row (ZWE-002, governance, 2019, outside the 36-month window) and none on its standing, text, plan or reporting, so it cannot be placed above stage 2 either. Stage 3 needs an adopted instrument with a row showing its text is public.",
-     "note": "Staged on the National Digital Roadmap 2026-2030: a process to define it began on 2025-11-04, so stage 2. Nothing held shows it adopted, with a public text."}
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2030",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-003;ZWE-004;ZWE-002",
+      "gaps": "No delivery plan with dated actions or costs, and no results against the Master Plan's targets, are held. The National Digital Roadmap 2026-2030 is being formulated (ZWE-001) and is not yet adopted. The body the Master Plan mandates is dated 2019, outside the 36-month window.",
+      "note": "The Smart Zimbabwe 2030 Master Plan was launched by the ICT minister on 7 March 2024, its text is published by the ministry and its period runs to 2030: rung 3. The roadmap now being drafted is a successor in preparation and does not unseat an adopted strategy still in its period.",
+      "as_at": "2026-10-25"
+    }
   ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-12-tun-publication-des-resultats-de-lenquete-nationale-par-grappe-a-indicateu",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The economy ministry, the INS and UNICEF presented the results of Tunisia's 2023 Multiple Indicator Cluster Survey (MICS), covering 11,000 households with a 90% response rate, on 12 February 2024.",
+   "as_of": "2024-02-12",
+   "date_precision": "day",
+   "system": "MICS 2023",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,7 +1,63 @@
-{"slug": "2026-07-31-eth-birrmetrics-e-gp-597bn-birr-fy2025-26", "studies": {
-"businesspayments": {"countries": {"ETH": {"facts": [
-{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "The Public Procurement and Property Administration Authority says its electronic government procurement platform was used by 172 federal institutions and 196 branch offices in fiscal year 2025/26.", "as_of": "2026-07-30", "date_precision": "day", "system": "e-GP", "class": "procurement"},
-{"sub_indicator": "business", "aspect": "endtoend", "value": "endtoend", "fact": "The Authority says the e-GP system automates bidding, evaluation, contract signing and payment.", "as_of": "2026-07-30", "date_precision": "day", "system": "e-GP", "class": "procurement"},
-{"sub_indicator": "business", "aspect": "reported", "value": "reported", "fact": "The Authority's Director General says more than 597 billion birr in completed transactions went through the e-GP platform in fiscal year 2025/26.", "as_of": "2026-07-30", "date_precision": "day", "system": "e-GP", "class": "procurement"}
-], "systems": [{"system": "e-GP", "country_label": "electronic government procurement platform", "class": "procurement", "platform": "e-GP", "owner": "Public Procurement and Property Administration Authority", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-07-31-eth-birrmetrics-e-gp-597bn-birr-fy2025-26",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Public Procurement and Property Administration Authority says its electronic government procurement platform was used by 172 federal institutions and 196 branch offices in fiscal year 2025/26.",
+       "as_of": "2026-07-30",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "endtoend",
+       "value": "endtoend",
+       "fact": "The Authority says the e-GP system automates bidding, evaluation, contract signing and payment.",
+       "as_of": "2026-07-30",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      },
+      {
+       "sub_indicator": "business",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The Authority's Director General says more than 597 billion birr in completed transactions went through the e-GP platform in fiscal year 2025/26.",
+       "as_of": "2026-07-30",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "electronic government procurement platform",
+       "class": "procurement",
+       "platform": "e-GP",
+       "owner": "Public Procurement and Property Administration Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

@@ -21,11 +21,11 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 8 |
-| 4 Operating | 24 |
+| 4 Operating | 25 |
 | 3 Established | 7 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
+| Unplaced | 2 |
 | No evidence | 3 |
 
 ## Countries
@@ -165,6 +165,12 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 - PAPSS lists Gambia as available for transfers in April 2026, through six live commercial banks (AGIB Bank, Bloom Bank, Ecobank, First Bank, Trust Bank, Vista Bank) ([source, 2026-04](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf)).
+
+### Guinea: 4 Operating
+
+The country took part in a regional payment system in 2024; cross-border volumes are not reported.
+
+- UBA Guinée integrated PAPSS from 9 September 2024, letting its clients make cross-border payments in local currencies across participating African countries ([source, 2024-09-09](https://www.guinee360.com/10/09/2024/uba-guinee-adopte-le-papss-une-nouvelle-ere-pour-les-transactions-financieres-en-afrique-2/)).
 
 ### Guinea-Bissau: 4 Operating
 
@@ -341,12 +347,6 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 - PAPSS lists Tunisia as 'live soon' as a participant country, not yet in service ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 
 ### Cape Verde: Unplaced
-
-Nothing held since 2023 names a cross-border digital payment channel, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether a cross-border digital payment channel is in service.
-
-### Guinea: Unplaced
 
 Nothing held since 2023 names a cross-border digital payment channel, so no stage is set.
 

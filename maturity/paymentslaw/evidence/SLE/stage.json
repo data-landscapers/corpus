@@ -1,16 +1,17 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "non-bank",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-004;SLE-002",
-   "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "5",
+      "standing": "in-force",
+      "reach": "connect",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-005;SLE-004;SLE-002",
+      "gaps": "Nothing on the four questions.",
+      "note": "Counted from the four questions by study-ladder-paymentslaw.py.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }

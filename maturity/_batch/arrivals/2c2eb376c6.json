@@ -1,5 +1,86 @@
-{"slug": "2026-08-04-ner-comite-ad-hoc-sur-la-propriete-effective", "studies": {
-"businessregister": {"countries": {"NER": {"facts": [], "systems": [], "note": "A committee is drafting the legal text for a beneficial ownership register; no digital business register or recorded owners are stated."}}},
-"publicconsultation": {"countries": {"NER": {"facts": [], "systems": [], "note": "The committee's planned validation workshop is not held, and a beneficial ownership register is not a named digital law."}}},
-"socialexchange": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on social protection systems."}}}
-}}
+{
+ "slug": "2026-08-04-ner-comite-ad-hoc-sur-la-propriete-effective",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "A committee is drafting the legal text for a beneficial ownership register; no digital business register or recorded owners are stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The committee's planned validation workshop is not held, and a beneficial ownership register is not a named digital law."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on social protection systems."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

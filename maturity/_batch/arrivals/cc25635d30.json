@@ -1,1 +1,53 @@
-{"slug": "2026-10-02-com-alwatwan-ram-diagnostic-ia", "studies": {"ailaw": {"countries": {"COM": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Al-watwan reports the UNESCO RAM 2.0 finding that Comoros has legislation with several provisions on artificial intelligence in the media.", "as_of": "2026-10-02", "date_precision": "day", "system": "legislation with AI provisions in the media", "class": "law"}, {"sub_indicator": "law", "aspect": "reach", "value": "none", "fact": "Al-watwan reports the RAM 2.0 finding that Comoros has no AI-specific legal instrument and a framework that is mainly sectoral rather than cross-sector.", "as_of": "2026-10-02", "date_precision": "day", "system": "", "class": "law"}], "systems": [], "note": ""}}}, "dataprotectionlaw": {"countries": {"COM": {"facts": [], "systems": [], "note": "Only a general reference to a legal framework on data protection and a call for fully operational protection; no general law, status or application is stated."}}}}}
+{
+ "slug": "2026-10-02-com-alwatwan-ram-diagnostic-ia",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Al-watwan reports the UNESCO RAM 2.0 finding that Comoros has legislation with several provisions on artificial intelligence in the media.",
+       "as_of": "2026-10-02",
+       "date_precision": "day",
+       "system": "legislation with AI provisions in the media",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "none",
+       "fact": "Al-watwan reports the RAM 2.0 finding that Comoros has no AI-specific legal instrument and a framework that is mainly sectoral rather than cross-sector.",
+       "as_of": "2026-10-02",
+       "date_precision": "day",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general reference to a legal framework on data protection and a call for fully operational protection; no general law, status or application is stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

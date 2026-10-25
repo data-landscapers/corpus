@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-27-swz-mopping-exercise-brings-government-closer-to-the-people",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Eswatini's Home Affairs ministry says its mopping exercise, registering births and deaths and converting manual birth certificates in Manzini and Hhohho in the second quarter of 2025/26, has improved the National Population Register.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

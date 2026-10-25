@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-10-gha-local-gov-t-minister-calls-for-data-driven-reforms-and-digital-innovat",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "target",
+   "fact": "Ghana's Local Government Minister said the Births and Deaths Registry recorded 663,226 births and 53,671 deaths in 2024, 91% and 39% coverage respectively.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Births and Deaths Registry",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -53,3 +53,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,ZMB,dpi.registry--business-register,fact,2,5,ZMB-004,PACRA (January 2026): beneficial-ownership reporting to its register at 44 percent in December 2025; register rebuild under way; 2 -> 5.
 2026-10-24,LBR,dpi.registry--business-register,fact,unplaced,unplaced,,August 2026 decentralisation launch puts digital filing in a later phase; nothing meets stage 2; stays unplaced.
 2026-10-24,SWZ,dpi.registry--business-register,fact,3,3,SWZ-001,Minister (January 2026) says the registry is digitised with a one-stop shop; does not contradict online registration; stays 3.
+2026-10-25,GNB,dpi.registry--business-register,fact,2,3,GNB-002;GNB-001,CFE platform takes company files online (2026): online registration in service

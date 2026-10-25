@@ -1,25 +1,268 @@
-{"slug": "2026-10-17-cog-adiac-arpce-livre-blanc-adressage-postal", "studies": {
-"addressregister": {"countries": {"COG": {"facts": [{"sub_indicator": "address", "aspect": "addressing", "value": "underway", "fact": "ARPCE's digital postal addressing project, run with town halls and partner administrations, was launched in April 2022, has had a legal framework since July 2025 in the decree on national postal codification, and was presented in Brazzaville on 15 October 2026.", "as_of": "2026-10-15", "date_precision": "day", "system": "projet d'adressage postal numérique", "class": "address"}], "systems": [{"system": "projet d'adressage postal numérique", "country_label": "Congo", "class": "address", "platform": "", "owner": "ARPCE", "tiers": ""}], "note": ""}}},
-"authentication": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document states no authentication service."}}},
-"birthidlink": {"countries": {"COG": {"facts": [], "systems": [], "note": "A speaker only proposes linking town halls and hospitals for birth acts and a unique ID number; no link is stated as planned or in service."}}},
-"businesspayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document says nothing on e-procurement."}}},
-"centralbank": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document says nothing on the central bank's payments role."}}},
-"civilregister": {"countries": {"COG": {"facts": [], "systems": [], "note": "No digital civil register is stated; birth acts are only a proposed outcome of town hall and hospital interconnection."}}},
-"consumerprotection": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document says nothing on consumer protection in digital finance."}}},
-"crossborderpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document says nothing on cross-border payments."}}},
-"dataexchange": {"countries": {"COG": {"facts": [], "systems": [], "note": "A data exchange platform is named only as something addressing should interoperate with; its state is not stated."}}},
-"digitalidlaw": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document states no identity law or bill."}}},
-"digitalsovereignty": {"countries": {"COG": {"facts": [], "systems": [], "note": "Sovereignty is mentioned only in general terms and as a Livre Blanc orientation; no plan or rule on state data is stated."}}},
-"g2ppayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document says nothing on government payments to people."}}},
-"idcoverage": {"countries": {"COG": {"facts": [], "systems": [], "note": "No ID enrolment count or share is given."}}},
-"idfrombirth": {"countries": {"COG": {"facts": [], "systems": [], "note": "A unique identification number is only advocated by a speaker; no number at birth is provided for or in service."}}},
-"idmaintenance": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document says nothing on who runs the ID system."}}},
-"idregisters": {"countries": {"COG": {"facts": [], "systems": [], "note": "A unique number linked to the universal health insurance fund is only advocated; no register keyed on the ID number is stated."}}},
-"idrobustness": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document states no national ID system; digital identity is named only as something addressing should interoperate with."}}},
-"localgov": {"countries": {"COG": {"facts": [], "systems": [], "note": "Town halls are named as addressing partners and entry points, with no word on their connection."}}},
-"mobilepenetration": {"countries": {"COG": {"facts": [], "systems": [{"system": "mobile telephony penetration 94.1%", "country_label": "94.1% mobile telephony penetration, per ARPCE's director general, 2026-10-15", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The 94.1% is a telephony penetration rate, not a share of people owning a phone."}}},
-"paymentsuptake": {"countries": {"COG": {"facts": [], "systems": [], "note": "The e-money account shares (under one woman in three, over four in ten people) are not a named survey of adults with a bank or mobile money account."}}},
-"registry": {"countries": {"COG": {"facts": [], "systems": [], "note": "No civil registration office entering events digitally is stated."}}},
-"retailpayments": {"countries": {"COG": {"facts": [], "systems": [], "note": "Electronic money accounts are mentioned only as an inclusion share; no service or interoperability is stated."}}},
-"revenuecollection": {"countries": {"COG": {"facts": [], "systems": [], "note": "The document says nothing on electronic payment of taxes or fees."}}}
-}}
+{
+ "slug": "2026-10-17-cog-adiac-arpce-livre-blanc-adressage-postal",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "address",
+       "aspect": "addressing",
+       "value": "underway",
+       "fact": "ARPCE's digital postal addressing project, run with town halls and partner administrations, was launched in April 2022, has had a legal framework since July 2025 in the decree on national postal codification, and was presented in Brazzaville on 15 October 2026.",
+       "as_of": "2026-10-15",
+       "date_precision": "day",
+       "system": "projet d'adressage postal numérique",
+       "class": "address"
+      }
+     ],
+     "systems": [
+      {
+       "system": "projet d'adressage postal numérique",
+       "country_label": "Congo",
+       "class": "address",
+       "platform": "",
+       "owner": "ARPCE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "A speaker only proposes linking town halls and hospitals for birth acts and a unique ID number; no link is stated as planned or in service."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on e-procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on the central bank's payments role."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital civil register is stated; birth acts are only a proposed outcome of town hall and hospital interconnection."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on consumer protection in digital finance."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on cross-border payments."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "A data exchange platform is named only as something addressing should interoperate with; its state is not stated."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no identity law or bill."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Sovereignty is mentioned only in general terms and as a Livre Blanc orientation; no plan or rule on state data is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on government payments to people."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No ID enrolment count or share is given."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "A unique identification number is only advocated by a speaker; no number at birth is provided for or in service."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on who runs the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "A unique number linked to the universal health insurance fund is only advocated; no register keyed on the ID number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no national ID system; digital identity is named only as something addressing should interoperate with."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Town halls are named as addressing partners and entry points, with no word on their connection."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "mobile telephony penetration 94.1%",
+       "country_label": "94.1% mobile telephony penetration, per ARPCE's director general, 2026-10-15",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The 94.1% is a telephony penetration rate, not a share of people owning a phone."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-money account shares (under one woman in three, over four in ten people) are not a named survey of adults with a bank or mobile money account."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil registration office entering events digitally is stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Electronic money accounts are mentioned only as an inclusion share; no service or interoperability is stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on electronic payment of taxes or fees."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

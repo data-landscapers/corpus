@@ -1,5 +1,50 @@
-{"slug": "2025-01-01-mli-mot-du-directeur-general", "studies": {
-"internetusage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No internet usage figure stated."}}},
-"localgov": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
-"regionallaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The 2015 procurement code transposing UEMOA directives is not digital law."}}}
-}}
+{
+ "slug": "2025-01-01-mli-mot-du-directeur-general",
+ "studies": {
+  "internetusage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "No internet usage figure stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The 2015 procurement code transposing UEMOA directives is not digital law."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

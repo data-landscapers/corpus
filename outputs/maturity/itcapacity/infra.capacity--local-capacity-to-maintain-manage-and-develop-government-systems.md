@@ -21,12 +21,12 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 9 |
+| 4 Operating | 10 |
 | 3 Established | 23 |
 | 2 Nascent | 4 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
-| No evidence | 13 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -59,6 +59,12 @@ Government staff built a system that went live in 2026; no career structure for 
 
 - The platform developed by LRA programmers was launched at Liberia National Police Headquarters on Friday 1 May 2026, replacing a manual process; the document is dated 3 May ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
 - The online police clearance platform was developed by Liberia Revenue Authority programmers, and the LRA's Management Information Services Division described it as showing local professionals' technical expertise ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
+
+### Mauritania: 4 Operating
+
+Government staff built a system that went live in 2023; no career structure for government IT staff is known.
+
+- Mauritania's population register agency ANRPTS launched the Hewiyeti app on 26 December 2023, letting citizens apply and pay for ID cards, passports and civil-status extracts online; the interior minister said it was developed by national engineers ([source, 2023-12-26](https://ami.mr/fr/archives/237149)).
 
 ### Nigeria: 4 Operating
 
@@ -347,12 +353,6 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 Not established: Nothing held says who builds or runs the government's computer systems.
 
 ### Malawi: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
-### Mauritania: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
 

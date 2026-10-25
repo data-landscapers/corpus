@@ -1,3 +1,59 @@
-{"slug": "2026-03-27-cpv-governo-lei-lavagem-capitais-generalidade", "studies": {
-"businessregister": {"countries": {"CPV": {"facts": [], "systems": [], "note": "A beneficial-owner list and platform are only planned under a bill passed in principle; no business register stated."}}}
-}}
+{
+ "slug": "2026-03-27-cpv-governo-lei-lavagem-capitais-generalidade",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "A beneficial-owner list and platform are only planned under a bill passed in principle; no business register stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

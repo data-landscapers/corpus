@@ -1,0 +1,52 @@
+{
+ "slug": "2025-06-17-gha-bdr-at-the-centre-of-reform-push-as-minister-for-public-sector-reforms",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "The Births and Deaths Registry's reform project head said in June 2025 that interventions include a centralised digital database and district-level deployments in 261 areas.",
+       "as_of": "2025-06-17",
+       "date_precision": "day",
+       "system": "Births and Deaths Registry central digital database",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

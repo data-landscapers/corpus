@@ -1,1 +1,23 @@
-{"slug": "2026-10-22-lby-libyas-gnu-orders-immediate-shutdown-of-government-systems-over-critic", "studies": {"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document is about a cybersecurity shutdown order and states nothing on authentication services."}}}}}
+{
+ "slug": "2026-10-22-lby-libyas-gnu-orders-immediate-shutdown-of-government-systems-over-critic",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about a cybersecurity shutdown order and states nothing on authentication services."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

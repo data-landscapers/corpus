@@ -1,14 +1,177 @@
-{"slug": "2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4", "studies": {
-"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
-"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
-"businessregister": {"countries": {"CIV": {"facts": [
-{"sub_indicator": "business", "aspect": "registration", "value": "inservice", "fact": "CEPICI's director general says in an interview that the average time to create a company online was 2.4 days at mid-July 2026, with more than 4,200 RCCM transmitted online, though full dematerialisation is still being finalised.", "as_of": "2026-07", "date_precision": "month", "system": "CEPICI platform (Guichet Unique de Formalites d'Entreprise)", "class": "business"}
-], "systems": [{"system": "Guichet Unique de Formalites d'Entreprise", "country_label": "Cote d'Ivoire", "class": "business", "platform": "", "owner": "CEPICI", "tiers": ""}, {"system": "GUDIP", "country_label": "Cote d'Ivoire", "class": "other", "platform": "", "owner": "CEPICI / Direction generale de l'Economie", "tiers": ""}], "note": "The unique identifier (IDU) is said to give a firm one number across administrative platforms, with no tax or social security named; interoperability with DGI and CNPS is not a shared number."}}},
-"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on national ID coverage."}}},
-"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
-"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The IDU is a business identifier, not the national ID number."}}},
-"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
-"nonstatefinance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No private amount stated; the GUDIP programme support and AfDB support to GUIF are for state bodies or programmes."}}},
-"schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
-}}
+{
+ "slug": "2026-08-11-civ-cote-d-ivoire-le-delai-de-creation-d-entreprise-en-ligne-ramene-a-2-4",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on authentication."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil register and ID links."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "inservice",
+       "fact": "CEPICI's director general says in an interview that the average time to create a company online was 2.4 days at mid-July 2026, with more than 4,200 RCCM transmitted online, though full dematerialisation is still being finalised.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "CEPICI platform (Guichet Unique de Formalites d'Entreprise)",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Guichet Unique de Formalites d'Entreprise",
+       "country_label": "Cote d'Ivoire",
+       "class": "business",
+       "platform": "",
+       "owner": "CEPICI",
+       "tiers": ""
+      },
+      {
+       "system": "GUDIP",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "CEPICI / Direction generale de l'Economie",
+       "tiers": ""
+      }
+     ],
+     "note": "The unique identifier (IDU) is said to give a firm one number across administrative platforms, with no tax or social security named; interoperability with DGI and CNPS is not a shared number."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on national ID coverage."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a number at birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on who runs the ID system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The IDU is a business identifier, not the national ID number."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on the national ID system."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No private amount stated; the GUDIP programme support and AfDB support to GUIF are for state bodies or programmes."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

@@ -9,6 +9,15 @@
      "note": "Social registry launch; says nothing on customs."
     }
    }
+  },
+  "businessregister": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
   }
  }
 }

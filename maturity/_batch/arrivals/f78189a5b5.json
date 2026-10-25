@@ -1,6 +1,50 @@
-{"slug": "2026-07-27-cog-llama-3-1-8b-instruct-lingala-qlora-merged-v2", "studies": {
-"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "Model card; nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "Model served by a UNDP project gateway; no government body using it as a service is stated."}}},
-"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "No public sector system using AI is stated."}}},
-"aistrategy": {"countries": {"COG": {"facts": [], "systems": [], "note": "No national AI strategy is mentioned."}}}
-}}
+{
+ "slug": "2026-07-27-cog-llama-3-1-8b-instruct-lingala-qlora-merged-v2",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Model card; nothing on AI harms rules."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Model served by a UNDP project gateway; no government body using it as a service is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector system using AI is stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy is mentioned."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

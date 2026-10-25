@@ -1,3 +1,41 @@
-{"slug": "2026-06-05-cmr-communique-n025-c-minpostel-patnuc-ugp-spm-portant-publication-du-doss", "studies": {
-"registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document is a rural mobile broadband tender award; it states nothing on civil registration."}}}
-}}
+{
+ "slug": "2026-06-05-cmr-communique-n025-c-minpostel-patnuc-ugp-spm-portant-publication-du-doss",
+ "studies": {
+  "registry": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a rural mobile broadband tender award; it states nothing on civil registration."
+    }
+   }
+  },
+  "broadbandstrategy": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

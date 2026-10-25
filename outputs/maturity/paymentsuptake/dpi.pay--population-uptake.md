@@ -25,8 +25,8 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 | 3 Established | 13 |
 | 2 Nascent | 5 |
 | 1 Absent | 1 |
-| Unplaced | 8 |
-| No evidence | 24 |
+| Unplaced | 9 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -170,6 +170,12 @@ Nothing held since 2023 names a survey share of adults with an account, so no st
 
 Not established: Nothing held since October 2023 gives a survey share of adults with an account.
 
+### Djibouti: Unplaced
+
+Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+
+Not established: No survey share of adults with an account is held: the only figure is the central bank governor's 36% of the population with bank account access (November 2024), not attributed to a survey and not limited to adults.
+
 ### Mauritius: Unplaced
 
 Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
@@ -267,12 +273,6 @@ Nothing held names a survey share of adults with an account or says there is non
 Not established: Nothing held gives a survey share of adults with an account.
 
 ### DR Congo: No evidence
-
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing held gives a survey share of adults with an account.
-
-### Djibouti: No evidence
 
 Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
 

@@ -1,0 +1,25 @@
+{
+ "slug": "2025-02-01-ken-knbs-explains-what-next-for-census-in-garissa-wajir-mandera-after-cour",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "KNBS's director general said on 31 January 2025, after a court cancelled the 2019 census results for parts of Wajir, Mandera and Garissa, that groundwork had been laid for the 2029 census, Kenya's seventh.",
+       "as_of": "2025-01-31",
+       "date_precision": "day",
+       "system": "2019 Kenya Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

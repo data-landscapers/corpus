@@ -1,3 +1,70 @@
-{"slug": "2026-10-21-mli-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-c", "studies": {
-"regionalinfrastructure": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Interconnected customs data systems are a customs system, not a shared digital link or facility."}}}
-}}
+{
+ "slug": "2026-10-21-mli-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-c",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Interconnected customs data systems are a customs system, not a shared digital link or facility."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

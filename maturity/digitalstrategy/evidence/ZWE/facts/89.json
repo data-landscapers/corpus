@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-08-zwe-mavetera-launches-ict-policies",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ICT Minister Tatenda Mavetera launched the Smart Zimbabwe 2030 Master Plan, the strategy for a digital economy by 2030, with the National ICT Policy 2022-2027 and Broadband Plan 2020-2030 on 7 March 2024.",
+   "as_of": "2024-03-07",
+   "date_precision": "day",
+   "system": "Smart Zimbabwe 2030 Master Plan",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The Smart Zimbabwe 2030 Master Plan launched on 7 March 2024 runs to 2030.",
+   "as_of": "2024-03-07",
+   "date_precision": "day",
+   "system": "Smart Zimbabwe 2030 Master Plan",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

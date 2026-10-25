@@ -1,3 +1,70 @@
-{"slug": "2026-05-14-caf-centrafrique-le-gufe-rca-lance-un-site-internet-pour-moderniser-la-cre", "studies": {
-"businessregister": {"countries": {"CAF": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "Radio Lengo Songo reports the GUFE-RCA one-stop shop launched a website on 12 May 2026 with World Bank Icompete support, that the shop still works largely manually, and that the ministry says dematerialisation continues with UNDP support to allow remote company creation.", "as_of": "2026-05-12", "date_precision": "day", "system": "GUFE-RCA", "class": "business"}], "systems": [{"system": "GUFE-RCA", "country_label": "Central African Republic", "class": "business", "platform": "", "owner": "Ministry of Commerce and Industry", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-05-14-caf-centrafrique-le-gufe-rca-lance-un-site-internet-pour-moderniser-la-cre",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "Radio Lengo Songo reports the GUFE-RCA one-stop shop launched a website on 12 May 2026 with World Bank Icompete support, that the shop still works largely manually, and that the ministry says dematerialisation continues with UNDP support to allow remote company creation.",
+       "as_of": "2026-05-12",
+       "date_precision": "day",
+       "system": "GUFE-RCA",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GUFE-RCA",
+       "country_label": "Central African Republic",
+       "class": "business",
+       "platform": "",
+       "owner": "Ministry of Commerce and Industry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

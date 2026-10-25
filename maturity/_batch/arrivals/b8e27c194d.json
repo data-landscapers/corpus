@@ -1,6 +1,50 @@
-{"slug": "2026-08-01-cog-qwen-vl-lingala-ocr-dataset", "studies": {
-"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "Dataset card; nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "No government body using AI is stated."}}},
-"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "No public sector system using AI is stated."}}},
-"aistrategy": {"countries": {"COG": {"facts": [], "systems": [], "note": "No national AI strategy is mentioned."}}}
-}}
+{
+ "slug": "2026-08-01-cog-qwen-vl-lingala-ocr-dataset",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Dataset card; nothing on AI harms rules."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body using AI is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector system using AI is stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "No national AI strategy is mentioned."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

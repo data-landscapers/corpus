@@ -1,5 +1,104 @@
-{"slug":"2024-09-23-bfa-assechement-des-sources-de-financement-des-groupes-armes-le-gouverneme","studies":{
-"businessregister":{"countries":{"BFA":{"facts":[],"systems":[{"system":"plateforme de declaration des beneficiaires effectifs","country_label":"BO declaration platform","class":"other","platform":"","owner":"Ministry of Justice","tiers":"national"}],"note":"The platform launched 23 September 2024 is for beneficial ownership declarations to the courts, not stated to be the business register."}}},
-"socialexchange":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing this study asks for BFA."}}},
-"taxadmin":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The document states nothing on tax filing or payment for BFA."}}}
-}}
+{
+ "slug": "2024-09-23-bfa-assechement-des-sources-de-financement-des-groupes-armes-le-gouverneme",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "plateforme de declaration des beneficiaires effectifs",
+       "country_label": "BO declaration platform",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": "national"
+      }
+     ],
+     "note": "The platform launched 23 September 2024 is for beneficial ownership declarations to the courts, not stated to be the business register."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for BFA."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on tax filing or payment for BFA."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

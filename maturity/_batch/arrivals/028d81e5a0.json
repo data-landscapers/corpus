@@ -1,3 +1,97 @@
-{"slug": "2026-01-21-nam-bipa-kicks-off-integrated-business-registration-system-ibrs-project", "studies": {"businessregister": {"countries": {"NAM": {"facts": [
-{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "BIPA announced the kick-off meeting with the developer of its new Integrated Business Registration System (IBRS), which aims to allow full business incorporation within 60 minutes; go-live is still ahead.", "as_of": "2026-01-21", "date_precision": "day", "system": "Integrated Business Registration System (IBRS)", "class": "business"}
-], "systems": [], "note": ""}}}}}
+{
+ "slug": "2026-01-21-nam-bipa-kicks-off-integrated-business-registration-system-ibrs-project",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "BIPA announced the kick-off meeting with the developer of its new Integrated Business Registration System (IBRS), which aims to allow full business incorporation within 60 minutes; go-live is still ahead.",
+       "as_of": "2026-01-21",
+       "date_precision": "day",
+       "system": "Integrated Business Registration System (IBRS)",
+       "class": "business"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

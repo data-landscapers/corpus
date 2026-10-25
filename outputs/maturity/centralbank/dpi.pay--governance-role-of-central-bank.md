@@ -240,6 +240,7 @@ The central bank ran or oversaw a national payment switch in 2026; a regional li
 
 - Bankable reports that Switch Mosolo is the national payment switch developed under the Central Bank of Congo's oversight, with FINCA the first microfinance institution to join a pilot connecting through the Mosolo card ([source, 2026-08](https://bankable.africa/en/news/1409-3591-drc-microfinance-institutions-seek-digital-support-ahead-of-dollar-cash-ban)).
 - An agreement signed on 15 April 2026 connects microfinance institutions and savings cooperatives to the national card switch (switch monetique national) of the Banque centrale du Congo ([source, 2026-04-15](https://actualite.cd/2026/04/16/rdc-le-projet-transforme-appuie-la-digitalisation-des-imf-et-coopec)).
+- The Banque Centrale du Congo's map of the national payment system lists the payment service providers it has approved, among them five other financial companies including e-money issuers and 81 money-transfer firms, as at end-2023 ([source, 2023-12](https://www.bcc.cd/intermediaires-financiers/systemes-de-paiement/infrastructures)).
 
 ### Egypt: 4 Operating
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-04-cod-instruction-no-58-on-the-interoperability-of-electronic-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "Banque Centrale du Congo Instruction No. 58 of 4 September 2024 obliges regulated entities, among them credit institutions, financial companies, postal services and aggregators, to connect to the National E-Payment Switch within six months, under sanction.",
+   "as_of": "2024-09-04",
+   "date_precision": "day",
+   "system": "Instruction No. 58",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

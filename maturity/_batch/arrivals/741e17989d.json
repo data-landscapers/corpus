@@ -1,1 +1,43 @@
-{"slug": "2026-09-22-cog-la-republique-du-congo-s-active-a-reformer-la-gestion-des-marches-publ", "studies": {"businesspayments": {"countries": {"COG": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "The public procurement regulator ARMP says a workshop on 21-22 July 2026 adopted the tender file to hire the firm that will develop and deploy the e-GP electronic procurement system, pending steering-committee validation.", "as_of": "2026-07-22", "date_precision": "day", "system": "e-GP", "class": "procurement"}], "systems": [{"system": "e-GP", "country_label": "Congo", "class": "procurement", "platform": "", "owner": "ARMP / DGCMP", "tiers": ""}], "note": ""}}}}}
+{
+ "slug": "2026-09-22-cog-la-republique-du-congo-s-active-a-reformer-la-gestion-des-marches-publ",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The public procurement regulator ARMP says a workshop on 21-22 July 2026 adopted the tender file to hire the firm that will develop and deploy the e-GP electronic procurement system, pending steering-committee validation.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "e-GP",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-GP",
+       "country_label": "Congo",
+       "class": "procurement",
+       "platform": "",
+       "owner": "ARMP / DGCMP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

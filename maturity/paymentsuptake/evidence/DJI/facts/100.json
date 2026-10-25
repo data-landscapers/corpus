@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-26-dji-prisma-interview-governor-bcd",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The Central Bank of Djibouti's governor said in November 2024 that bank account access among the population had risen from 5% to 36%; the figure is not attributed to a survey and is not limited to adults.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

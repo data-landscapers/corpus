@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 1 |
-| 3 Established | 27 |
-| 2 Nascent | 9 |
+| 3 Established | 28 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 7 |
 | No evidence | 4 |
@@ -158,6 +158,12 @@ A government programme paid people digitally in 2025; a second main stream is no
 
 - The CNSS said the January 2026 retirement and survivor pensions would be paid from 23 December 2025 through bank transfer and mobile telephony ([source, 2025-12-23](https://cnss.gov.gn/fin-dannee-la-cnss-anticipe-le-versement-des-pensions-de-retraite/)).
 
+### Lesotho: 3 Established
+
+A government programme paid people digitally in 2026; a second main stream is not known.
+
+- UNICEF says that through the Ntlafatsa Bana programme 25,575 households now receive Child Grants Programme payments through digital mobile cash transfers ([source, 2026-07-28](https://www.unicef.org/lesotho/stories/how-birth-certificate-opened-door-support)).
+
 ### Libya: 3 Established
 
 A government programme paid people digitally in 2026; a second main stream is not known.
@@ -283,13 +289,6 @@ Digital government payments to people were under way in 2026; none in service is
 Digital government payments to people were under way in 2025; none in service is on record.
 
 - Kenya's National Treasury said in August 2025 that from that month-end it would pay salaries and pensions of civil servants and former officials through the Integrated Personnel Payroll Database (IPPD), extending the 1998 system to pensioners ([source, 2025-08](https://www.businessdailyafrica.com/bd/economy/treasury-shifts-salary-pension-payments-to-new-online-system-5152690)).
-
-### Lesotho: 2 Nascent
-
-Digital government payments to people were under way in 2025; none in service is on record.
-
-- The UN in Lesotho says the Government, led by the Ministry of Gender, Youth and Social Development with EU, UNICEF and World Bank support, is transitioning Child Grants Programme payments from third-party cash-in-transit to mobile payments through selected mobile network providers ([source, 2025-01](https://lesotho.un.org/en/291096-policy-watch-issue-5-january-2025)).
-- The EU/UNICEF-backed Ntlafatsa Bana project (2023-2026) aims to improve Child Grants Programme delivery by shifting towards digital payments and digitalising payments to beneficiaries, and the Ministry of Gender, Youth and Social Development is transitioning to digital payments ([source, 2024-06-20](https://www.eeas.europa.eu/delegations/lesotho/eu-and-unicef-provide-new-resources-government-enhance-child-well-being-and-social-services-lesotho_en)).
 
 ### Madagascar: 2 Nascent
 

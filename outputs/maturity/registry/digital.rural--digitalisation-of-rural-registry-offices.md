@@ -24,8 +24,8 @@ The norm: the AU Digital Transformation Strategy's 99.9 per cent legal identity 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 1 |
-| 3 Established | 39 |
-| 2 Nascent | 14 |
+| 3 Established | 40 |
+| 2 Nascent | 13 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -66,6 +66,20 @@ Since 2023 births are entered digitally at offices in Luanda and three other cit
 - The World Bank diagnostic states that RCI (Registo Civil Integrado), introduced in 2023, is a web-based system with a centralised database in which the birth is entered at the CR post, the Unique Citizen Number being assigned as registration begins, and which is interconnected with other CR posts and the civil and criminal identification database ([source, 2023](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download)).
 - The World Bank diagnostic states that from 2023 births are registered in RCI at the CR posts equipped with it, which issue a birth registration receipt carrying the Unique Citizen Number; it describes no death registration in RCI ([source, 2023](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download)).
 - The World Bank diagnostic states that RCI, piloted in four Luanda registries, is in all registry offices in Luanda except Cacuaco's and in one CR post each in Huambo, Benguela and Lubango, with plans to extend it country-wide; it gives no count of RCI offices, and puts Luanda province at 39 CR units and the country at at least 255 CR units in 2023 (DNIRN data). The coverage is undated; dated to the diagnostic's 2024 revision ([source, 2024](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download)).
+
+### Benin: 3 Established
+
+In 2023, 174 civil-status centres in five departments were equipped for digital birth registration; the share of offices registering is not known.
+
+*Identity integrated; Backlog capture; Advancing.*
+
+- UNICEF says that in 2023 tablets, printers and connected routers were given to ANIP for birth registration in 174 of the 233 civil-status centres of the Borgou, Donga, Zou, Alibori and Atacora departments, worth over FCFA 162 million ([source, 2023](https://www.unicef.org/benin/recits/les-reformes-de-letat-civil-facilitent-la-d%C3%A9livrance-des-actes-de-naissance-aux-enfants)).
+- Desk agents at Natitingou and Djougou say they register the child in the system at the maternity, working on tablets, centralised databases and identification platforms, with the NPI issued in 48 to 72 hours and the quality of the internet connection named as essential to it; the date is that of the report ([source, 2026-07-16](https://www.lanation.bj/actualites/guichet-unique-denregistrement-des-naissances-une-reforme-qui-change-le-quotidien-des-familles)).
+- ANIP's director general states that the pilot phase ran in ten health facilities and ended in February 2026, and that the consolidation phase that followed is running in the same ten facilities, with generalisation three to four months behind the initial calendar ([source, 2026-07-16](https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale)).
+- ANIP's director general states that at the one-stop desk declaration and registration are done in one process at the maternity before discharge, using digital tools, and that in the new phase health workers use new internet-connected terminals for declarations; paper declaration forms remained in use during the pilot, when stock-outs and duplicate form numbers were reported ([source, 2026-07-16](https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale)).
+- La Nation reports that since August 2025 parents in the pilot maternities have their newborn registered at the hospital by ANIP's agents and receive the birth act there, some sites registering about twenty files a day; the date is that of the report ([source, 2026-07-16](https://www.lanation.bj/actualites/guichet-unique-denregistrement-des-naissances-une-reforme-qui-change-le-quotidien-des-familles)).
+- The government states that six months after the pilot's launch the one-stop desk was running in 10 health facilities, with gradual national scale-up among the prospects ([source, 2026-02-24](https://www.gouv.bj/article/3454/guichet-unique-declaration-naissances-benin-bond-spectaculaire-taux-enregistrement-mois/)).
+- The government states that the one-stop desk's pilot phase was launched on 20 August 2025 at CHU-MEL Cotonou and runs for six months, August 2025 to February 2026, in ten public health facilities, with generalisation promised by ANIP afterwards ([source, 2025-08-20](https://www.gouv.bj/article/3209/declaration-enregistrement-obtention-acte-naissance-nouveau-jour-etat-civil-beninois-anip-lance-phase-pilote-guichet-unique-dans-plusieurs-formations-sanitaires-/)).
 
 ### Botswana: 3 Established
 
@@ -474,19 +488,6 @@ Births are entered digitally at computerised offices; at least 93 of 282 offices
 - UNICEF Zimbabwe states that at the fully computerised civil registration sub-office at Mpilo Hospital, 200 metres from the maternity ward, mothers register newborns and obtain a birth certificate before discharge, and that a client at the Bubi office received a computerised birth certificate the same day; it does not say deaths are entered digitally (publication date used) ([source, 2025-07-15](https://www.unicef.org/zimbabwe/stories/zimbabwe-expands-civil-registration-services-hard-reach-areas)).
 - UNICEF Zimbabwe states that the computerised registry offices and sub-offices allow real-time data entry and faster document processing at the office; it does not say where the record is held or whether the offices are online to a national register (publication date used) ([source, 2025-07-15](https://www.unicef.org/zimbabwe/stories/zimbabwe-expands-civil-registration-services-hard-reach-areas)).
 - The Deputy Registrar General for Systems Development and Management said all 10 provinces and 63 districts have been computerised and more than 20 of 209 sub-offices; the count is 10 plus 63 plus the floor of 20, of 282 offices so described, and he does not say what a computerised office does ([source, 2026-07-22](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/)).
-
-### Benin: 2 Nascent
-
-Births are registered digitally at maternity desks in ten pilot health facilities since August 2025; how other local offices make the record is not known.
-
-*Identity integrated; Backlog capture; Advancing.*
-
-- ANIP's director general states that the pilot phase ran in ten health facilities and ended in February 2026, and that the consolidation phase that followed is running in the same ten facilities, with generalisation three to four months behind the initial calendar ([source, 2026-07-16](https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale)).
-- ANIP's director general states that at the one-stop desk declaration and registration are done in one process at the maternity before discharge, using digital tools, and that in the new phase health workers use new internet-connected terminals for declarations; paper declaration forms remained in use during the pilot, when stock-outs and duplicate form numbers were reported ([source, 2026-07-16](https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale)).
-- La Nation reports that since August 2025 parents in the pilot maternities have their newborn registered at the hospital by ANIP's agents and receive the birth act there, some sites registering about twenty files a day; the date is that of the report ([source, 2026-07-16](https://www.lanation.bj/actualites/guichet-unique-denregistrement-des-naissances-une-reforme-qui-change-le-quotidien-des-familles)).
-- Desk agents at Natitingou and Djougou say they register the child in the system at the maternity, working on tablets, centralised databases and identification platforms, with the NPI issued in 48 to 72 hours and the quality of the internet connection named as essential to it; the date is that of the report ([source, 2026-07-16](https://www.lanation.bj/actualites/guichet-unique-denregistrement-des-naissances-une-reforme-qui-change-le-quotidien-des-familles)).
-- The government states that six months after the pilot's launch the one-stop desk was running in 10 health facilities, with gradual national scale-up among the prospects ([source, 2026-02-24](https://www.gouv.bj/article/3454/guichet-unique-declaration-naissances-benin-bond-spectaculaire-taux-enregistrement-mois/)).
-- The government states that the one-stop desk's pilot phase was launched on 20 August 2025 at CHU-MEL Cotonou and runs for six months, August 2025 to February 2026, in ten public health facilities, with generalisation promised by ANIP afterwards ([source, 2025-08-20](https://www.gouv.bj/article/3209/declaration-enregistrement-obtention-acte-naissance-nouveau-jour-etat-civil-beninois-anip-lance-phase-pilote-guichet-unique-dans-plusieurs-formations-sanitaires-/)).
 
 ### Burundi: 2 Nascent
 

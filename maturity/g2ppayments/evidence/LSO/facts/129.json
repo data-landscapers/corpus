@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-28-lso-how-a-birth-certificate-opened-the-door-to-support-for-marethabile-ram",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "UNICEF says that through the Ntlafatsa Bana programme 25,575 households now receive Child Grants Programme payments through digital mobile cash transfers.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Child Grants Programme mobile payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

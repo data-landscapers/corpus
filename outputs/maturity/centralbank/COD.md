@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** No source held says the central bank's role over payments is under way or in service. The nearest held fact: [Bankable reports that Switch Mosolo is the national payment switch developed under the Central Bank of Congo's oversight, with FINCA the first microfinance institution to join a pilot connecting through the Mosolo card](<https://bankable.africa/en/news/1409-3591-drc-microfinance-institutions-seek-digital-support-ahead-of-dollar-cash-ban>). A later answer places the country above that step.
+**Licensing providers.** [The Banque Centrale du Congo's map of the national payment system lists the payment service providers it has approved](<https://www.bcc.cd/intermediaires-financiers/systemes-de-paiement/infrastructures>) at end-2023: 15 banks and other credit institutions, five other financial companies including e-money issuers, and 81 money-transfer firms.
 
 **Overseeing a switch.** [Bankable reports that Switch Mosolo is the national payment switch developed under the Central Bank of Congo's oversight, with FINCA the first microfinance institution to join a pilot connecting through the Mosolo card](<https://bankable.africa/en/news/1409-3591-drc-microfinance-institutions-seek-digital-support-ahead-of-dollar-cash-ban>). [An agreement signed on 15 April 2026 connects microfinance institutions and savings cooperatives to the national card switch (switch monetique national) of the Banque centrale du Congo](<https://actualite.cd/2026/04/16/rdc-le-projet-transforme-appuie-la-digitalisation-des-imf-et-coopec>).
 

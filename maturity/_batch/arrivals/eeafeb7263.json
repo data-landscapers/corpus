@@ -1,4 +1,32 @@
-{"slug": "2024-12-09-lby-new-libyan-regulations-for-contracting-with-the-public-sector", "studies": {
-"addressregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document is about public procurement regulations; says nothing on addressing."}}},
-"regionallaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No African shared digital legal text is mentioned; the Libyan arbitration law is only said to be inspired by the UNCITRAL Model Law."}}}
-}}
+{
+ "slug": "2024-12-09-lby-new-libyan-regulations-for-contracting-with-the-public-sector",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about public procurement regulations; says nothing on addressing."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No African shared digital legal text is mentioned; the Libyan arbitration law is only said to be inspired by the UNCITRAL Model Law."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

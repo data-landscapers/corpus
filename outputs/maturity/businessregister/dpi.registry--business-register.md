@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 |---|---|
 | 5 Leading | 10 |
 | 4 Operating | 3 |
-| 3 Established | 22 |
-| 2 Nascent | 15 |
+| 3 Established | 23 |
+| 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 2 |
@@ -176,6 +176,13 @@ Firms could register online in 2025; a number shared with tax is not known.
 
 - The Ministry of Trade and Regional Integration, with GIZ, launched the Integrated Company Creation Journey, a fully digital system for business registration and licensing, cutting 11 steps over 32 days to two steps in two days ([source, 2025-09-08](https://birrmetrics.com/motri-launches-online-business-registration-and-licensing-platform/)).
 
+### Guinea-Bissau: 3 Established
+
+Guinea-Bissau's one-stop centre took company files online in 2026, with payment at the counter; a shared firm number is not known.
+
+- The Centro de Formalização de Empresas' official platform lets founders submit company-creation files online or through an agent, with validation and payment at the counter, and counts over 7,666 firms created ([source, 2026](https://cfegb.com/)).
+- The Centro de Formalização de Empresas is described as an autonomous public one-stop shop (guiché único) under the Ministry of Economy for company creation and registration formalities, with online company registration still only planned ([source, 2026](https://cfe.gw/sobre-nos/)).
+
 ### Madagascar: 3 Established
 
 Firms could register online in 2025; a number shared with tax is not known.
@@ -307,12 +314,6 @@ A digital business register was under way in 2026; online registration is not on
 
 - Judicalex, the operator of the Conakry commercial court's digitisation platform, says digitisation projects for the RCCM and other requests are in development for the coming months ([source, 2026-03-04](https://judicalex-gn.org/blog/post/tribunal-du-commerce-le-ministre-de-la-justice-ibrahima-sory-2-tounkara-decouvre-les-installations-de-judicalex/)).
 - APIP-Guinee says it is digitalising company-creation procedures, deploying a new version of the SYNERGUI2 platform linked to the tax system SAFIG2, and trained notaries' clerks on it ([source, 2025-06-19](https://apip.gov.gn/apip-guinee-digitalisation-des-services-renforcement-des-capacites/)).
-
-### Guinea-Bissau: 2 Nascent
-
-A one-stop company registration counter was open in 2026; online registration is not on record.
-
-- The Centro de Formalização de Empresas is described as an autonomous public one-stop shop (guiché único) under the Ministry of Economy for company creation and registration formalities, with online company registration still only planned ([source, 2026](https://cfe.gw/sobre-nos/)).
 
 ### Lesotho: 2 Nascent
 

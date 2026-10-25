@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MOZ-004;MOZ-002",
       "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-      "note": "The Bank of Mozambique supervises the national switch and launched the Metix instant payment system in March 2026. No regional link is held.",
-      "as_at": "2026-10-24"
+      "note": "The Bank of Mozambique supervises the national switch and launched the Metix instant payment system in March 2026. No regional link is held. Mozambique joined PAPSS in September 2026 (MOZ-008), with banks invited to onboard, but no live participation is held, and accession alone is not counted.",
+      "as_at": "2026-10-25"
     }
   ]
 }

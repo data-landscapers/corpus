@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-16-nam-bon-psdir-11-e-money-interoperability-instant-payment-switch",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "Bank of Namibia Directive PSDIR-11 of 16 June 2025, under the Payment System Management Act 2023, directs all payment service providers issuing payment instruments to achieve e-money interoperability through the instant payment switch by 26 February 2026.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "PSDIR-11",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

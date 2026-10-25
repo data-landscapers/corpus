@@ -1,15 +1,120 @@
-{"slug": "2026-10-21-mar-cndp-niiat-partner-to-train-20-000-young-moroccans-in-data-privacy", "studies": {
-"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."}}},
-"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
-"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on sectoral AI tools."}}},
-"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Training targets only; no AI model, dataset or computing built."}}},
-"dataprotectionlaw": {"countries": {"MAR": {"facts": [
-{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Morocco World News says the CNDP's DATA-TIKA programme operates in line with Law No. 09-08 on personal data, adopted in 2009 by Dahir No. 1-09-15 of 18 February 2009.", "as_of": "2026-10-21", "date_precision": "day", "system": "Law No. 09-08", "class": "general"},
-{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The CNDP, created by Law 09-08, is acting under its president Omar Seghrouchni, who signed a partnership agreement with NIIAT on 21 October 2026.", "as_of": "2026-10-21", "date_precision": "day", "system": "CNDP", "class": "general"},
-{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The CNDP's DATA-TIKA programme, launched 9 July 2020, runs partnerships and training, including a six-month pilot to train at least 20,000 young people in Casablanca-Settat; no decision under the law is reported.", "as_of": "2026-10-21", "date_precision": "day", "system": "DATA-TIKA", "class": "general"}
-], "systems": [], "note": ""}}},
-"dataprotectionreadiness": {"countries": {"MAR": {"facts": [
-{"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "Law No. 09-08 on personal data, adopted in 2009, is the law under which the CNDP's DATA-TIKA programme operates, per Morocco World News.", "as_of": "2026-10-21", "date_precision": "day", "system": "Law No. 09-08", "class": "system"},
-{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The CNDP, created by Law 09-08, is acting, with president Omar Seghrouchni signing an agreement on 21 October 2026.", "as_of": "2026-10-21", "date_precision": "day", "system": "CNDP", "class": "system"}
-], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-10-21-mar-cndp-niiat-partner-to-train-20-000-young-moroccans-in-data-privacy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI harms rules or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI in administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on sectoral AI tools."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training targets only; no AI model, dataset or computing built."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Morocco World News says the CNDP's DATA-TIKA programme operates in line with Law No. 09-08 on personal data, adopted in 2009 by Dahir No. 1-09-15 of 18 February 2009.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "Law No. 09-08",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The CNDP, created by Law 09-08, is acting under its president Omar Seghrouchni, who signed a partnership agreement with NIIAT on 21 October 2026.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "CNDP",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The CNDP's DATA-TIKA programme, launched 9 July 2020, runs partnerships and training, including a six-month pilot to train at least 20,000 young people in Casablanca-Settat; no decision under the law is reported.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "DATA-TIKA",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "Law No. 09-08 on personal data, adopted in 2009, is the law under which the CNDP's DATA-TIKA programme operates, per Morocco World News.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "Law No. 09-08",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The CNDP, created by Law 09-08, is acting, with president Omar Seghrouchni signing an agreement on 21 October 2026.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "CNDP",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

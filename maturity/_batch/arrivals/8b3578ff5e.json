@@ -1,7 +1,61 @@
-{"slug": "2026-08-04-bdi-burundi-toutes-les-demandes-d-immatriculation-desormais-digitalisees-e", "studies": {
-"idrobustness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on a national ID system; the biometric capture described is for tax registration."}}},
-"revenuecollection": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The e-KORI platform covers registration, not payment or filing of taxes."}}},
-"taxregister": {"countries": {"BDI": {"facts": [
-{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "Digital Business Africa reports that the Office burundais des Recettes put its e-KORI platform live on 4 August 2026, so taxpayer registration applications are filed online and registration certificates issued by e-mail, with biometric capture for individuals.", "as_of": "2026-08-04", "date_precision": "day", "system": "e-KORI", "class": "tax"}],
-"systems": [{"system": "e-KORI", "country_label": "Burundi", "class": "tax", "platform": "ekori.obr.gov.bi", "owner": "Office burundais des Recettes (OBR)", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-08-04-bdi-burundi-toutes-les-demandes-d-immatriculation-desormais-digitalisees-e",
+ "studies": {
+  "idrobustness": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on a national ID system; the biometric capture described is for tax registration."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-KORI platform covers registration, not payment or filing of taxes."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "Digital Business Africa reports that the Office burundais des Recettes put its e-KORI platform live on 4 August 2026, so taxpayer registration applications are filed online and registration certificates issued by e-mail, with biometric capture for individuals.",
+       "as_of": "2026-08-04",
+       "date_precision": "day",
+       "system": "e-KORI",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-KORI",
+       "country_label": "Burundi",
+       "class": "tax",
+       "platform": "ekori.obr.gov.bi",
+       "owner": "Office burundais des Recettes (OBR)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

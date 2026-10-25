@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-30-som-expanding-the-papss-network-in-2026-with-somalia-joining",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "PAPSS announced on 30 March 2026 that the Central Bank of Somalia had officially joined its network, taking it to 21 countries.",
+   "as_of": "2026-03-30",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

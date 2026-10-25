@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "civil",
-      "stage": "2",
-      "births": "underway",
+      "stage": "3",
+      "births": "inservice",
       "deaths": "",
       "coverage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-002;GHA-003",
-      "gaps": "Sources disagree on whether births are registered digitally nationwide: the Vice President said so in 2024, while 2025 and 2026 sources describe a registry still moving from paper.",
-      "note": "The newest sources (2025, 2026) describe digital birth registration as still being rolled out, so births registered digitally nationwide is not taken as met.",
-      "as_at": "2026-10-23"
+      "stage_sources": "GHA-006;GHA-005",
+      "gaps": "No source held since October 2023 says deaths are registered in the digital system. Later sources (2025, 2026) describe registration officers still moving communities onto the digital platform, which does not unsay the national database.",
+      "note": "The registry's project head said in June 2025 that births are held in a central digital database with deployments in 261 districts, matching the Vice President's 2024 statement of real-time registration in all regions: rung 3. Deaths in the digital system are not established.",
+      "as_at": "2026-10-25"
     }
   ]
 }

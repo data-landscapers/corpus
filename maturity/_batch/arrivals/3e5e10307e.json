@@ -1,0 +1,35 @@
+{
+ "slug": "2026-10-24-gha-gss-population-housing-census-page",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The Ghana Statistical Service's census page gives the 2021 Population and Housing Census as the latest national census and projects the next for 2030, with planning under way.",
+       "as_of": "2026-10-24",
+       "date_precision": "day",
+       "system": "2021 PHC",
+       "class": "census"
+      },
+      {
+       "sub_indicator": "census",
+       "aspect": "results",
+       "value": "final",
+       "fact": "The Ghana Statistical Service's census page offers the 2021 Population and Housing Census reports, regional and district profiles and population structure indicators.",
+       "as_of": "2026-10-24",
+       "date_precision": "day",
+       "system": "2021 PHC",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,1 +1,41 @@
-{"slug": "2026-10-13-ken-techafricanews-ksh13bn-fibre-backbone", "studies": {"nonstatefinance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The KSh 13 billion is the government's own funding under KDEAP; private match is intended through a reverse auction, with no private amount stated."}}}}}
+{
+ "slug": "2026-10-13-ken-techafricanews-ksh13bn-fibre-backbone",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The KSh 13 billion is the government's own funding under KDEAP; private match is intended through a reverse auction, with no private amount stated."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

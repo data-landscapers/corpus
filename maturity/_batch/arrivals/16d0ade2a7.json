@@ -1,0 +1,61 @@
+{
+ "slug": "2026-09-24-cog-aci-data-center-82-pourcent",
+ "studies": {
+  "datacentrepower": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "reserved",
+       "fact": "Congo's government said on 22 September 2026 that works on the national data centre stood at 82% and that the Kintelé solar farm, 19,354 panels of 12 MW, is being built to keep its power supply stable; neither is yet in service.",
+       "as_of": "2026-09-22",
+       "date_precision": "day",
+       "system": "Kintelé solar farm (national data centre)",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

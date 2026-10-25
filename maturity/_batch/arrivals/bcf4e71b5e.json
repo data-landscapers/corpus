@@ -1,7 +1,32 @@
 {
-  "slug": "2026-10-21-dza-aps-base-donnees-unifiee-suivi-prix",
-  "studies": {
-    "localgov": {"countries": {"DZA": {"facts": [], "systems": [], "note": "A price-monitoring database is described; no local government office connection is stated."}}},
-    "police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The Interior ministry is named only in the price-alert coordination; no police station records are stated."}}}
+ "slug": "2026-10-21-dza-aps-base-donnees-unifiee-suivi-prix",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A price-monitoring database is described; no local government office connection is stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The Interior ministry is named only in the price-alert coordination; no police station records are stated."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
   }
+ }
 }

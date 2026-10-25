@@ -60,3 +60,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,UGA,dpi.pay--governance-role-of-central-bank,review,5,5,UGA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; the stage holds and its sources and note are rewritten.
 2026-10-24,ZMB,dpi.pay--governance-role-of-central-bank,review,5,5,ZMB-003,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; the stage holds and its sources and note are rewritten.
 2026-10-24,ZWE,dpi.pay--governance-role-of-central-bank,review,2,5,ZWE-001,"Rebuild: Afreximbank says Zimbabwe processes 5.8 million dollars a month through PAPSS (October 2026), live participation, so stage 5."
+2026-10-25,COD,dpi.pay--governance-role-of-central-bank,fact,4,4,COD-002;COD-003;COD-004,BCC register of approved payment providers incl. e-money issuers; unchanged
+2026-10-25,LBY,dpi.pay--governance-role-of-central-bank,fact,4,4,LBY-002;LBY-003,CBL joined PAPSS Dec 2025; accession without live participation not counted; unchanged
+2026-10-25,SOM,dpi.pay--governance-role-of-central-bank,fact,4,4,SOM-006;SOM-007,CBS joined PAPSS Mar 2026; accession without live participation not counted; unchanged
+2026-10-25,MOZ,dpi.pay--governance-role-of-central-bank,fact,4,4,MOZ-004;MOZ-002,Mozambique joined PAPSS Sep 2026; accession without live participation not counted; unchanged

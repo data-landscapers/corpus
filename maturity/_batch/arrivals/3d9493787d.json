@@ -1,12 +1,151 @@
-{"slug": "2025-07-10-civ-environnement-des-affaires-le-cepici-lance-l-annuaire-idu-un-registre", "studies": {
-"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on identity authentication."}}},
-"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on birth registration and ID."}}},
-"businessregister": {"countries": {"CIV": {"facts": [
-{"sub_indicator": "business", "aspect": "shared", "value": "shared", "fact": "CEPICI launched the Annuaire IDU on 9 July 2025, a directory of registered firms keyed on a single 14-character Identifiant Unique that merges the RCCM, tax (DFE) and CNPS social security numbers issued at company creation.", "as_of": "2025-07-09", "date_precision": "day", "system": "Annuaire IDU", "class": "business"}
-], "systems": [{"system": "Annuaire IDU", "country_label": "Annuaire IDU (Identifiant Unique)", "class": "business", "platform": "www.annuaireidu.ci", "owner": "CEPICI", "tiers": ""}], "note": ""}}},
-"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on national ID coverage."}}},
-"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on ID numbers from birth."}}},
-"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
-"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on ID registers."}}},
-"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
-}}
+{
+ "slug": "2025-07-10-civ-environnement-des-affaires-le-cepici-lance-l-annuaire-idu-un-registre",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on identity authentication."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on birth registration and ID."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "shared",
+       "value": "shared",
+       "fact": "CEPICI launched the Annuaire IDU on 9 July 2025, a directory of registered firms keyed on a single 14-character Identifiant Unique that merges the RCCM, tax (DFE) and CNPS social security numbers issued at company creation.",
+       "as_of": "2025-07-09",
+       "date_precision": "day",
+       "system": "Annuaire IDU",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Annuaire IDU",
+       "country_label": "Annuaire IDU (Identifiant Unique)",
+       "class": "business",
+       "platform": "www.annuaireidu.ci",
+       "owner": "CEPICI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on national ID coverage."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on ID numbers from birth."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on ID system operation."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on ID registers."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on the national ID system."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

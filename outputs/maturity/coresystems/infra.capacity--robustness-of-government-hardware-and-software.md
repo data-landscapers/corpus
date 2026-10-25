@@ -25,8 +25,8 @@ The African Charter on the Values and Principles of Public Service and Administr
 | 3 Established | 4 |
 | 2 Nascent | 15 |
 | 1 Absent | 0 |
-| Unplaced | 9 |
-| No evidence | 17 |
+| Unplaced | 10 |
+| No evidence | 16 |
 
 ## Countries
 
@@ -271,6 +271,12 @@ No source held from 2023 or later says the government's financial system is in u
 
 Not established: No source held from 2023 or later says the government's financial management system is in use.
 
+### South Africa: Unplaced
+
+No source held from 2023 or later says the government's financial system is in use, so no stage is set.
+
+Not established: No source held from 2023 or later says the government's financial management system is in use.
+
 ### Benin: No evidence
 
 Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
@@ -350,12 +356,6 @@ Nothing held says whether the government's finance, tax or payroll systems are i
 Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
-
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
-
-### South Africa: No evidence
 
 Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 

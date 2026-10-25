@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 8 |
-| 3 Established | 4 |
+| 3 Established | 5 |
 | 2 Nascent | 33 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 4 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -114,6 +114,13 @@ Births were registered digitally across the country in 2025; digital death regis
 
 - The Registrar General's slides report 1,238,662 births in the eCRVS digital cumulative registration from August 2022 to March 2025, shown for every local government area, equal to 53% of a 2.4m population ([source, 2025-03](https://www.id4africa.com/2025/files/T2-P2-S1-3-Gambia_FINAL.pdf)).
 - The Registrar General CRVS says an eCRVS system was deployed in August 2022 and that over 1.4 million people were registered and issued a birth certificate as of June 2026 ([source, 2026-06](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-gambia.pdf)).
+
+### Ghana: 3 Established
+
+Births have been registered in a central digital database across Ghana's districts since 2024; whether deaths are is not known.
+
+- The Births and Deaths Registry's reform project head said in June 2025 that interventions include a centralised digital database and district-level deployments in 261 areas ([source, 2025-06-17](https://www.newsghana.com.gh/bdr-at-the-centre-of-reform-push-as-minister-for-public-sector-reforms-charts-path-for-improved-data-systems/)).
+- Vice President Bawumia said the Births and Deaths Registry has moved to an automated platform allowing real-time birth registration across all regions, with certificates issued within two hours ([source, 2024-03-14](https://www.myjoyonline.com/bawumia-launches-ghana-card-number-at-birth/)).
 
 ### Liberia: 3 Established
 
@@ -212,12 +219,11 @@ Digital civil registration was under way in 2026; national digital birth registr
 - An APAI-CRVS/UNECA presentation (July 2026) describes Ethiopia's national eCRVS as a phased rollout: pilot in Addis Ababa, scale-up to Amharic-speaking regions, then national expansion to non-Amharic regions ([source, 2026-07](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf)).
 - The Government Communication Service quotes the Ethiopian AI Institute saying that in Addis Ababa, as a pilot, family registration and vital events registration are being implemented through a digital system connected from central level to woreda level ([source, 2025-12-22](https://www.gcs.gov.et/en/2025/12/22/digital-ethiopia-2025-has-brought-about-a-significant-change-in-improving-access-to-civil-registration-and-citizenship-services/)).
 
-### Ghana: 2 Nascent
+### Gabon: 2 Nascent
 
-Digital civil registration was under way in 2026; national digital birth registration is not on record.
+Digital civil registration was under way in 2024; national digital birth registration is not on record.
 
-- The Eastern Region Registrar says officers are expected to complete digital registrations in communities, and an Assembly Member says birth registration 'has been digitalised' ([source, 2026-09-25](https://www.modernghana.com/news/1530759/unicef-bdr-and-kuami-eugene-push-for-improved.html)).
-- Graphic Online's opinion piece by two CRVS experts refers to Ghana's rollout of the Harmonised Births and Deaths Registry Portal (HBDRP) as an example of decentralised digital registration ([source, 2026-08-10](https://www.graphic.com.gh/features/opinion/building-africas-architecture-of-visibility-the-next-crvs-decade.html)).
+- The Centre hospitalier universitaire de Libreville launched doctoViene, a platform built by the firm Viene for online birth declaration with certificates stored in an electronic database, in June 2024 ([source, 2024-06-18](https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/)).
 
 ### Guinea: 2 Nascent
 
@@ -383,12 +389,6 @@ Nothing held names digital civil registration or says there is none, so no stage
 Not established: Nothing held says how births and deaths are registered.
 
 ### Eswatini: No evidence
-
-Nothing held names digital civil registration or says there is none, so no stage is set.
-
-Not established: Nothing held says how births and deaths are registered.
-
-### Gabon: No evidence
 
 Nothing held names digital civil registration or says there is none, so no stage is set.
 

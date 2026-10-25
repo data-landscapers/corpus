@@ -1,4 +1,52 @@
-{"slug": "2025-10-06-zaf-treasury-wants-state-tenders-automated-by-2030-to-rein-in-graft", "studies": {
-"businesspayments": {"countries": {"ZAF": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "A National Treasury spokesperson told Business Day the current system is still largely paper based and an electronic government procurement system is being developed, to be introduced in phases under the Public Procurement Act 2024.", "as_of": "2025-10-06", "date_precision": "day", "system": "Electronic government procurement (e-GP) system", "class": "procurement"}], "systems": [{"system": "Electronic government procurement (e-GP) system", "country_label": "South Africa", "class": "procurement", "platform": "", "owner": "National Treasury", "tiers": ""}], "note": ""}}},
-"localgov": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on local government office connections."}}}
-}}
+{
+ "slug": "2025-10-06-zaf-treasury-wants-state-tenders-automated-by-2030-to-rein-in-graft",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "A National Treasury spokesperson told Business Day the current system is still largely paper based and an electronic government procurement system is being developed, to be introduced in phases under the Public Procurement Act 2024.",
+       "as_of": "2025-10-06",
+       "date_precision": "day",
+       "system": "Electronic government procurement (e-GP) system",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Electronic government procurement (e-GP) system",
+       "country_label": "South Africa",
+       "class": "procurement",
+       "platform": "",
+       "owner": "National Treasury",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connections."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

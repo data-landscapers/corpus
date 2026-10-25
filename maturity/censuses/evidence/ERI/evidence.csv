@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,census,census,none,UNECA's synopsis of African population statistics (August 2026) states that Eritrea has not conducted a population census since independence.,2026-08,month,,census,2026-08-01-xaf-uneca-synopsis-key-development-statistics-population,https://datalab.uneca.org/docs-acs/sites/default/files/ood-documents/Population-Summary.pdf

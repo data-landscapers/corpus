@@ -1,10 +1,115 @@
-{"slug":"2026-10-23-cod-itie-rdc-donnees-et-divulgation-systematique","studies":{
-"businessregister":{"countries":{"COD":{"facts":[],"systems":[{"system":"Registre des beneficiaires effectifs","country_label":"RBE","class":"other","platform":"","owner":"Ministry of Justice (arrete 278/CAB/ME/MIN/J&GS/2026)","tiers":"national"}],"note":"The beneficial ownership register is a separate register set up by order of 8 July 2026, not stated to be the business register."}}},
-"landregister":{"countries":{"COD":{"facts":[],"systems":[],"note":"The document states nothing this study asks for COD."}}},
-"opendatapolicy":{"countries":{"COD":{"facts":[],"systems":[],"note":"The document names no open data policy."}}},
-"opendatause":{"countries":{"COD":{"facts":[{"sub_indicator":"use","aspect":"access","value":"published","fact":"The ITIE-RDC data page publishes extractive-sector data for download, including 280 contracts and a beneficial owner table, and offers a public API, as of 23 October 2026.","as_of":"2026-10-23","date_precision":"day","system":"itierdc.net/donnees","class":"open"}],"systems":[],"note":""}}},
-"populationregister":{"countries":{"COD":{"facts":[],"systems":[],"note":"The document states nothing this study asks for COD."}}},
-"socialexchange":{"countries":{"COD":{"facts":[],"systems":[],"note":"The document states nothing this study asks for COD."}}},
-"socialregistry":{"countries":{"COD":{"facts":[],"systems":[],"note":"The document states nothing this study asks for COD."}}},
-"taxregister":{"countries":{"COD":{"facts":[],"systems":[],"note":"Taxpayer numbers appear beside companies in the beneficial owner table, but the document says nothing of the tax register."}}}
-}}
+{
+ "slug": "2026-10-23-cod-itie-rdc-donnees-et-divulgation-systematique",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Registre des beneficiaires effectifs",
+       "country_label": "RBE",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice (arrete 278/CAB/ME/MIN/J&GS/2026)",
+       "tiers": "national"
+      }
+     ],
+     "note": "The beneficial ownership register is a separate register set up by order of 8 July 2026, not stated to be the business register."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for COD."
+    }
+   }
+  },
+  "opendatapolicy": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no open data policy."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "The ITIE-RDC data page publishes extractive-sector data for download, including 280 contracts and a beneficial owner table, and offers a public API, as of 23 October 2026.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "itierdc.net/donnees",
+       "class": "open"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for COD."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for COD."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for COD."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Taxpayer numbers appear beside companies in the beneficial owner table, but the document says nothing of the tax register."
+    }
+   }
+  },
+  "accesstoinformationlaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

@@ -22,8 +22,8 @@ Agenda 2063, Goal 20, asks that Africa pay for its own development and that its 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 4 |
-| 3 Established | 11 |
-| 2 Nascent | 24 |
+| 3 Established | 12 |
+| 2 Nascent | 23 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 13 |
@@ -71,6 +71,13 @@ Private companies committed $75 million in September 2026 and $225 million over 
 
 - US company Cybastion committed $75 million to digital infrastructure in Cameroon, including an AI-ready data center in Douala with a dedicated power plant, according to Biometric Update; the document gives no signing date beyond 'days' after early September 2026, so the month is inferred from that ([source, 2026-09](https://www.biometricupdate.com/202609/the-next-bottleneck-for-african-digital-identity-is-infrastructure-not-software)).
 - MTN Cameroon says it is investing US$225 million over three years in its own operations in Cameroon, particularly its fintech division and national network coverage; the financier is the company itself (MTN, a private telecoms operator), no separate recipient, and the document gives 2025 as the year, taken from its published date ([source, 2025](https://itweb.africa/article/mtn-cameroon-works-with-camusat-to-expand-network/xnklOqz1wVYM4Ymz)).
+
+### Congo: 3 Established
+
+Private money went into Congolese digital businesses in 2024 and 2025; whether any came from Congolese investors is not known.
+
+- Fondation BantuHub and L'Archer Group committed EUR 1m (about US$1.1m) in equity to Congolese startups and SMEs in December 2025, to be invested during 2026 through a 24-month incubation and acceleration programme ([source, 2025-12](https://launchbaseafrica.com/2025/12/22/congos-e1m-slow-build-vc-fund-aims-to-defy-central-africas-startup-odds/)).
+- Uma Ventures, a Hong Kong-based venture capital firm, led a USD 3m seed round for Noki Noki, a Brazzaville-based delivery platform, reported by Trendtype on 2024-06-24 (the round date is taken as the publication date) ([source, 2024-06](https://trendtype.com/news/brazzaville-based-delivery-platform-noki-noki-secures-3m-in-seed-funding/)).
 
 ### Ethiopia: 3 Established
 
@@ -177,12 +184,6 @@ Lumitel put about USD 5.6 million into a rural 4G contract in 2026; whether priv
 The IFC lent EUR 25 million to a telecom firm in 2025; money raised at home and in public projects is not known.
 
 - Finance tables: International Finance Corporation (IFC) committed USD 27 million (Commercial Loan, Approved) to Yas Comoros (AXIAN Telecom subsidiary), starting 2025: IFC — Yas Comoros broadband (Comoros), 2025 ([source, 2025](https://techafricanews.com/2025/06/20/axian-telecoms-yas-comoros-secures-e25m-loan-to-boost-digital-transformation/)).
-
-### Congo: 2 Nascent
-
-A USD 3 million seed round for a Brazzaville delivery platform came in 2024, but whether more private money followed is not known.
-
-- Uma Ventures, a Hong Kong-based venture capital firm, led a USD 3m seed round for Noki Noki, a Brazzaville-based delivery platform, reported by Trendtype on 2024-06-24 (the round date is taken as the publication date) ([source, 2024-06](https://trendtype.com/news/brazzaville-based-delivery-platform-noki-noki-secures-3m-in-seed-funding/)).
 
 ### Cote d'Ivoire: 2 Nascent
 

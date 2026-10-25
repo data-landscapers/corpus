@@ -27,6 +27,15 @@
      "note": "Portal only planned; no data published stated."
     }
    }
+  },
+  "egovservices": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
   }
  }
 }

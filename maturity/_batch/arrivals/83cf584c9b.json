@@ -1,0 +1,52 @@
+{
+ "slug": "2024-06-20-gab-doctoviene-une-application-pour-la-numerisation-des-certificats-de-nai",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "The Centre hospitalier universitaire de Libreville launched doctoViene, a platform built by the firm Viene for online birth declaration with certificates stored in an electronic database, in June 2024.",
+       "as_of": "2024-06-18",
+       "date_precision": "day",
+       "system": "doctoViene",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

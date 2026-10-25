@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SOM,centralbank,mandate,coverage,licensing,2026-09-20,SOM-005,SOM-009=drafting,
 SOM,centralbank,switch,coverage,overseen,2026-09-20,SOM-001;SOM-002;SOM-003;SOM-004;SOM-006;SOM-007;SOM-008,,
-SOM,centralbank,regional,coverage,,,,,nothing held
+SOM,centralbank,regional,coverage,linked,2026-03-30,SOM-010,,

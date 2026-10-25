@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-01-xaf-uneca-synopsis-key-development-statistics-population",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "none",
+   "fact": "UNECA's synopsis of African population statistics (August 2026) states that Eritrea has not conducted a population census since independence.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

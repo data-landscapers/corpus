@@ -1,3 +1,32 @@
-{"slug": "2026-09-21-cod-actualite-dibandi-protection-mineurs-numerique", "studies": {
-"interoperabilitylaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "The bill is about minors in the digital environment, not public bodies sharing data."}}}
-}}
+{
+ "slug": "2026-09-21-cod-actualite-dibandi-protection-mineurs-numerique",
+ "studies": {
+  "interoperabilitylaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The bill is about minors in the digital environment, not public bodies sharing data."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

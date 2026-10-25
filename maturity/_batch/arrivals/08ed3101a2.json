@@ -1,9 +1,106 @@
-{"slug": "2026-10-22-tza-nida-produces-23-718-060-identification-numbers-21-526-594-national-identit", "studies": {
-"authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "152 institutions connected to the NIDA database is not stated to be an authentication service."}}},
-"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
-"idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Gives 23,718,060 NINs but no population figure or share in the document."}}},
-"idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
-"idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Module upgrades are stated without saying who operates or owns the system."}}},
-"idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No public register keyed on the NIN is named."}}},
-"idrobustness": {"countries": {"TZA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Deputy Minister for Home Affairs told a parliamentary committee on 2026-10-22 that NIDA had generated 23,718,060 National Identification Numbers and produced 21,526,594 identity cards, 21,515,793 distributed.", "as_of": "2026-10-22", "date_precision": "day", "system": "NIDA national identification numbers and cards", "class": "idsystem"}], "systems": [{"system": "NIDA national ID (NIN and card)", "country_label": "Tanzania", "class": "idsystem", "platform": "NIDA registration and identification system", "owner": "National Identification Authority", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-10-22-tza-nida-produces-23-718-060-identification-numbers-21-526-594-national-identit",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "152 institutions connected to the NIDA database is not stated to be an authentication service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil register link stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives 23,718,060 NINs but no population figure or share in the document."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Module upgrades are stated without saying who operates or owns the system."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No public register keyed on the NIN is named."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Deputy Minister for Home Affairs told a parliamentary committee on 2026-10-22 that NIDA had generated 23,718,060 National Identification Numbers and produced 21,526,594 identity cards, 21,515,793 distributed.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "NIDA national identification numbers and cards",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDA national ID (NIN and card)",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "NIDA registration and identification system",
+       "owner": "National Identification Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

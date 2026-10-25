@@ -1,5 +1,88 @@
-{"slug": "2026-08-14-lbr-liberia-business-registry-launches-digitalization-and-decentralization", "studies": {
-"businessregister": {"countries": {"LBR": {"facts": [{"sub_indicator": "business", "aspect": "registration", "value": "underway", "fact": "DN News Liberia reports the Ministry of Commerce launched a business registration digitalization and decentralization project, piloted in seven counties starting in Ganta, with full electronic submission to follow.", "as_of": "2026-08-14", "date_precision": "day", "system": "Liberia Business Registry", "class": "business"}], "systems": [{"system": "Liberia Business Registry", "country_label": "Liberia", "class": "business", "platform": "", "owner": "Ministry of Commerce and Industry", "tiers": ""}], "note": ""}}},
-"revenuecollection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
-"taxadmin": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on tax filing or payment systems."}}}
-}}
+{
+ "slug": "2026-08-14-lbr-liberia-business-registry-launches-digitalization-and-decentralization",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "DN News Liberia reports the Ministry of Commerce launched a business registration digitalization and decentralization project, piloted in seven counties starting in Ganta, with full electronic submission to follow.",
+       "as_of": "2026-08-14",
+       "date_precision": "day",
+       "system": "Liberia Business Registry",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Liberia Business Registry",
+       "country_label": "Liberia",
+       "class": "business",
+       "platform": "",
+       "owner": "Ministry of Commerce and Industry",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on tax or fee payment."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on tax filing or payment systems."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

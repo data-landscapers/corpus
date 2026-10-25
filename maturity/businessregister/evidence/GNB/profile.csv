@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNB,business,registration,coverage,underway,2026,GNB-001,,
+GNB,business,registration,coverage,inservice,2026,GNB-002,GNB-001=underway,
 GNB,business,shared,coverage,,,,,nothing held
 GNB,business,owners,coverage,,,,,nothing held

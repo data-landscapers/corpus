@@ -15,3 +15,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SOM,gov.policy--digital-transformation-strategy,fact,2,2,SOM-002;SOM-004;SOM-006,Arrivals added SOM-010; restaged by hand: stage unchanged.
 2026-10-22,BDI,gov.policy--digital-transformation-strategy,fact,1,2,BDI-003,"Council of Ministers adopted the National Digital Policy on 14 Oct 2026; text and period not held, so 1 to 2."
 2026-10-22,SYC,gov.policy--digital-transformation-strategy,fact,unplaced,2,SYC-003;SYC-004,"National Digital & AI Strategy 2026-2031 validated at a national workshop by July 2026, not yet adopted: unplaced to 2."
+2026-10-25,ZWE,gov.policy--digital-transformation-strategy,fact,2,3,ZWE-003;ZWE-004;ZWE-002,"Smart Zimbabwe 2030 Master Plan launched 7 Mar 2024, text published, runs to 2030"

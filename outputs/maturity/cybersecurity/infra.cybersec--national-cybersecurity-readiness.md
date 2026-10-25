@@ -22,8 +22,8 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 6 |
-| 3 Established | 5 |
-| 2 Nascent | 34 |
+| 3 Established | 6 |
+| 2 Nascent | 33 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -149,6 +149,13 @@ The national cyber body responded to an incident or issued an alert in 2026; no 
 
 - Malawi CERT, through MACRA, publicly alerted individuals, businesses and ISPs to the actively exploited MikroTik RouterOS vulnerabilities (CVE-2026-67276, CVE-2026-86060, CVE-2026-67277) and advised patching ([source, 2026-09-11](https://www.itweb.africa/article/malawi-warns-of-mikrotik-vulnerabilities/o1Jr5qxPod3qKdWL)).
 - The article states Malawi CERT is a specialised unit under MACRA and the national focal point for coordinating cybersecurity incidents and threat responses ([source, 2026-09-11](https://www.itweb.africa/article/malawi-warns-of-mikrotik-vulnerabilities/o1Jr5qxPod3qKdWL)).
+
+### Mauritius: 3 Established
+
+The national cyber body responded to an incident or issued an alert in 2026; no critical infrastructure designation is known.
+
+- CERT-MU published a security bulletin on 22 October 2026 rating the PHP2Shell vulnerabilities (CVE-2026-109618 and -109619) critical at 9.2, and the government took some state sites offline as a precaution ([source, 2026-10-22](https://lexpress.mu/node/563942)).
+- The ICT minister refers to the Computer Emergency Response Team of Mauritius (CERT-MU) as an existing body that is to sign a content takedown agreement with Meta ([source, 2026-10-10](https://lexpress.mu/s/avinash-ramtohul-il-faut-apporter-un-peu-de-discipline-dans-les-reseaux-sociaux-563444)).
 
 ### Morocco: 3 Established
 
@@ -308,12 +315,6 @@ The country had a national cyber body by 2026; no incident response by a nationa
 The country had a cybersecurity strategy by 2026; no incident response by a national body is known since 2023.
 
 - Ecofin says Mauritania implements a National Digital Security Strategy for 2022-2026 with six strategic objectives ([source, 2026-01-13](https://www.ecofinagency.com/news-digital/1301-51879-u-s-mauritania-discuss-cybersecurity-partnerships-and-capacity-building)).
-
-### Mauritius: 2 Nascent
-
-The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
-
-- ITWeb Africa states the National Cybersecurity Committee is the main strategic and advisory body for protecting Mauritius against digital threats and managing national cyber resilience, with legal authority to enforce compliance alongside law enforcement ([source, 2026-06-30](https://itweb.africa/article/mauritius-sets-cyber-laws-framework/JN1gP7OAEZYqjL6m)).
 
 ### Niger: 2 Nascent
 

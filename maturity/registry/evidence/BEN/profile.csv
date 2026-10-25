@@ -3,4 +3,4 @@ BEN,civil,governance,qualifier,owner:ministry;finance:donor,2026-09-19,BEN-003;B
 BEN,civil,events,coverage,B;D,2026-07-16,BEN-001;BEN-005;BEN-011;BEN-024;BEN-028;BEN-031;BEN-041;BEN-044,BEN-038=B;D,
 BEN,civil,made,coverage,connected,2026-07-16,BEN-007;BEN-013;BEN-037;BEN-045,BEN-039=paper,
 BEN,civil,last12,qualifier,advancing,2026-07-16,BEN-004;BEN-010;BEN-027,,
-BEN,civil,offices,coverage,pilot,2026-07-16,BEN-002;BEN-006;BEN-012;BEN-025;BEN-029;BEN-032;BEN-047;BEN-048,BEN-040=not-published,
+BEN,civil,offices,coverage,equipped:75%,2023,BEN-049,BEN-006=pilot;BEN-025=pilot;BEN-048=pilot;BEN-047=pilot;BEN-029=pilot;BEN-002=pilot;BEN-012=pilot;BEN-032=pilot;BEN-040=not-published,

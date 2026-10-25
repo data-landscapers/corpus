@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "uptake",
-   "stage": "no evidence",
-   "share": "",
-   "target": "",
-   "payments": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held gives a survey share of adults with an account.",
-   "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "uptake",
+      "stage": "unplaced",
+      "share": "quarter",
+      "target": "",
+      "payments": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No survey share of adults with an account is held: the only figure is the central bank governor's 36% of the population with bank account access (November 2024), not attributed to a survey and not limited to adults.",
+      "note": "Not staged: every rung needs a survey of adults, and the governor's figure is neither.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }

@@ -1,5 +1,104 @@
-{"slug": "2025-08-06-zwe-zida-launches-game-changing-e-regulations-platform", "studies": {
-"businessregister": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The e-Regulations portal maps procedures and gives guides; online registration and a single window are only a later phase."}}},
-"customs": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on customs clearance."}}},
-"localgov": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Local authorities are named only as procedure owners on the portal."}}}
-}}
+{
+ "slug": "2025-08-06-zwe-zida-launches-game-changing-e-regulations-platform",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-Regulations portal maps procedures and gives guides; online registration and a single window are only a later phase."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on customs clearance."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Local authorities are named only as procedure owners on the portal."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

@@ -1,6 +1,50 @@
-{"slug": "2026-10-21-lby-aonsrt-mou-digital-economy-ai-ministry-experts-programme", "studies": {
-"aiabuse": {"countries": {"LBY": {"facts": [], "systems": [], "note": "An expertise MoU says nothing on AI harms."}}},
-"aigovernment": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No government AI system is described."}}},
-"aisectoral": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No sector AI tool is described."}}},
-"aisystems": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is described."}}}
-}}
+{
+ "slug": "2026-10-21-lby-aonsrt-mou-digital-economy-ai-ministry-experts-programme",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "An expertise MoU says nothing on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI system is described."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector AI tool is described."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing is described."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

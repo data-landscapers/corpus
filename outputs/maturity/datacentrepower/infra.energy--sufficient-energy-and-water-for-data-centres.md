@@ -25,8 +25,8 @@ The Smart Africa Data Center and Cloud Blueprint names PUE as the efficiency mea
 | 3 Established | 0 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
-| No evidence | 43 |
+| Unplaced | 1 |
+| No evidence | 42 |
 
 ## Countries
 
@@ -98,6 +98,12 @@ A data centre on a secured power supply by 2026; no power set aside for data cen
 
 - Lomé Data Centre says it has a 2N electrical architecture with dual utility feeds from the national grid, with automatic transfer, plus diesel rotary UPS and fuel for several days ([source, 2026](https://lomedatacentre.tg/en/infrastructure)).
 
+### Congo: Unplaced
+
+No data centre is known to have a secured power supply, so no stage is set.
+
+Not established: The national data centre and the 12 MW Kintelé solar farm built for it were both under construction in September 2026; nothing held describes the power supply of a data centre in service.
+
 ### Angola: No evidence
 
 Nothing held says how data centres get power or water, so no stage is set.
@@ -147,12 +153,6 @@ Nothing held says how data centres get power or water, so no stage is set.
 Not established: Nothing held says how any data centre is supplied with power or water.
 
 ### Comoros: No evidence
-
-Nothing held says how data centres get power or water, so no stage is set.
-
-Not established: Nothing held says how any data centre is supplied with power or water.
-
-### Congo: No evidence
 
 Nothing held says how data centres get power or water, so no stage is set.
 

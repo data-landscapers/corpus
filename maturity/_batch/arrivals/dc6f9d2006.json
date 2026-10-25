@@ -1,1 +1,59 @@
-{"slug": "2025-11-05-lby-lana-commercial-registry-e-letter-company-registration-validity", "studies": {"businessregister": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The online service issues a letter confirming a registered company's data; it does not register firms online."}}}}}
+{
+ "slug": "2025-11-05-lby-lana-commercial-registry-e-letter-company-registration-validity",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The online service issues a letter confirming a registered company's data; it does not register firms online."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

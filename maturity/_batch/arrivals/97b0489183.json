@@ -132,6 +132,15 @@
      "note": "Document states nothing on this study's questions."
     }
    }
+  },
+  "businessregister": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
   }
  }
 }

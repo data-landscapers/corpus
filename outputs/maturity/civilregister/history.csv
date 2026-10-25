@@ -93,3 +93,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,ZAF,dpi.registry--civil-register,review,2,2,ZAF-002;ZAF-001,"Rebuild: Online birth registration reached 161 health facilities, about 68% of births delivered (2023). Nothing held says births are registered digitally nationwide."
 2026-10-24,ZMB,dpi.registry--civil-register,review,2,2,ZMB-003;ZMB-004,"Rebuild: INRIS reached 79 districts with some councils pending (2023), and the CRVS core is being procured (2025)."
 2026-10-24,ZWE,dpi.registry--civil-register,review,2,2,ZWE-004;ZWE-002,Rebuild: All provinces and districts are computerised but only about 20 of 209 sub-offices (2026). Nothing held says births are registered digitally nationwide.
+2026-10-25,GHA,dpi.registry--civil-register,fact,2,3,GHA-006;GHA-005,"Registry project head: central digital database, deployments in 261 districts (Jun 2025)"
+2026-10-25,MOZ,dpi.registry--civil-register,fact,2,2,MOZ-003;MOZ-001,UNICEF 2024: all 165 conservatories digitised; the registry's newer 2026 page still says proposed; unchanged
+2026-10-25,GAB,dpi.registry--civil-register,fact,no evidence,2,GAB-001,CHU Libreville's doctoViene online birth declaration (Jun 2024): a pilot; first row

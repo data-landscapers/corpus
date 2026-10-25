@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-22-mus-menace-de-cyberattaques-plusieurs-sites-du-gouvernement-mis-hors-ligne",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "CERT-MU published a security bulletin on 22 October 2026 rating the PHP2Shell vulnerabilities (CVE-2026-109618 and -109619) critical at 9.2, and the government took some state sites offline as a precaution.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "CERT-MU",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

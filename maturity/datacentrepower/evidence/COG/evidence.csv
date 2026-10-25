@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+COG-001,COG,power,supply,reserved,"Congo's government said on 22 September 2026 that works on the national data centre stood at 82% and that the Kintelé solar farm, 19,354 panels of 12 MW, is being built to keep its power supply stable; neither is yet in service.",2026-09-22,day,Kintelé solar farm (national data centre),datacentre,2026-09-24-cog-aci-data-center-82-pourcent,https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/

@@ -1,6 +1,6 @@
 iso3,sub_indicator,rung,instrument,standing,period,text,plan,reporting,governance,flags,stopped_by
 AGO,national,no evidence,,,,,,,,,nothing held on a national strategy
-BDI,national,1,No national digital strategy,,,,,,,,a dated statement that there is none
+BDI,national,2,Politique Nationale du Numérique,adopted,,,,,,text unpublished,"adopted, and no public text is held"
 BEN,national,2,Stratégie numérique du Bénin 2031,drafting,,,,,,advancing,"drafting, not adopted"
 BFA,national,2,SN@DEN 2018-2027,adopted,to:2027,,actions,,,text unpublished,"adopted, and no public text is held"
 BWA,national,2,SmartBots Digital Transformation Strategy,adopted,to:2026,,,,body:mandated;finance:domestic;finance:donor,text unpublished,"adopted, and no public text is held"
@@ -8,7 +8,7 @@ CAF,national,2,Plan National Stratégique Centrafrique Digitale 2025,drafting,to
 CIV,national,2,Stratégie nationale de transformation numérique 2025-2035,announced,to:2035,,,,finance:domestic;finance:donor,lapsed,"announced, not adopted"
 CMR,national,2,Stratégie numérique du Cameroun (in preparation),drafting,,,,,,lapsed,"drafting, not adopted"
 COD,national,2,Plan national du numérique 2026-2030 (PNN2),announced,to:2030,,costed,,finance:domestic,lapsed,"announced, not adopted"
-COG,national,2,Stratégie numérique 2030,drafting,to:2030,,,,finance:donor,lapsed;advancing,"drafting, not adopted"
+COG,national,2,Stratégie numérique 2030,drafting,to:2030,,,,finance:donor,lapsed,"drafting, not adopted"
 COM,national,3,Comores Numérique 2028,adopted,to:2028,public,costed,,body:mandated,,no published reporting
 CPV,national,2,Agenda Digital de Cabo Verde 2035,adopted,to:2035,,,,body:mandated,text unpublished;advancing,"adopted, and no public text is held"
 DJI,national,2,Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique,announced,,,,,,,"announced, not adopted"
@@ -40,11 +40,11 @@ RWA,national,2,Smart Rwanda Master Plan II,drafting,,,,,finance:donor,lapsed,"dr
 SDN,national,2,Digital transformation strategy (announced 2025),announced,,,,,,,"announced, not adopted"
 SEN,national,3,New Deal Technologique 2025-2034,adopted,to:2034,public,costed,activity,body:mandated;finance:domestic;finance:donor,advancing,"reporting is of activity, not against the strategy's targets"
 SLE,national,3,National Innovation and Digital Strategy 2019-2029,announced,to:2029,public,actions,,body:none,,no published reporting
-SOM,national,2,Digital Transformation Strategy 2025-2030,drafting,to:2030,,,,,,"drafting, not adopted"
+SOM,national,2,Inclusive Digital Policy,adopted,,,,,,text unpublished,"adopted, and no public text is held"
 SSD,national,2,Digital Development Road Map and Master Plan,drafting,,,,,,,"drafting, not adopted"
 STP,national,2,National digital transformation strategy,announced,,,,,,,"announced, not adopted"
 SWZ,national,no evidence,,,,,,,,,nothing held on a national strategy
-SYC,national,unplaced,National AI and digital strategy,,,,,,body:mandated,,no standing stated for it
+SYC,national,2,National Digital & AI Strategy 2026-2031,validated,to:2031,,,,,,"validated, not adopted"
 TCD,national,2,Chad Digital Strategy Horizon 2030,drafting,,,,,,,"drafting, not adopted"
 TGO,national,2,Togo Digital 2025-2030,drafting,to:2030,,,,,lapsed,"drafting, not adopted"
 TUN,national,unplaced,Plan national stratégique Tunisie Digitale 2020,adopted,to:2025,,,,body:mandated,lapsed,its period has ended and no successor is on record
@@ -52,4 +52,4 @@ TZA,national,3,Digital Economy Strategic Framework 2024-2034,adopted,to:2034,pub
 UGA,national,3,Vision for a Digital Uganda 2040,announced,to:2040,public,costed,,body:mandated;finance:not-stated,,no published reporting
 ZAF,national,2,ICT and Digital Economy Masterplan for South Africa,drafting,to:2025,unpublished,actions,activity,,,"drafting, not adopted"
 ZMB,national,3,National Digital Transformation Strategy 2023-2027,adopted,to:2027,public,actions,,body:mandated;finance:not-stated,,no published reporting
-ZWE,national,2,National Digital Roadmap 2026-2030,drafting,,,,,,,"drafting, not adopted"
+ZWE,national,2,Smart Zimbabwe 2030 Master Plan,adopted,to:2030,,,,body:mandated,text unpublished,"adopted, and no public text is held"

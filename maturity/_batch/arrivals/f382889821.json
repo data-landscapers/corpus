@@ -30,13 +30,13 @@
        "fact": "Assembly president Isidore Mvouba, opening the budget session, called on the government to make the National Commission for the Protection of Personal Data operational without delay, implying it exists but is not yet operating.",
        "as_of": "2026-10-15",
        "date_precision": "day",
-       "system": "Commission nationale pour la protection des données à caractère personnel",
+       "system": "Commission nationale pour la protection des donnÃ©es Ã  caractÃ¨re personnel",
        "class": "authority"
       }
      ],
      "systems": [
       {
-       "system": "Commission nationale pour la protection des données à caractère personnel",
+       "system": "Commission nationale pour la protection des donnÃ©es Ã  caractÃ¨re personnel",
        "country_label": "Congo",
        "class": "other",
        "platform": "",
@@ -59,13 +59,13 @@
        "fact": "Assembly president Isidore Mvouba, opening the budget session, called on the government to make the National Commission for the Protection of Personal Data operational without delay, implying it exists but is not yet operating.",
        "as_of": "2026-10-15",
        "date_precision": "day",
-       "system": "Commission nationale pour la protection des données à caractère personnel",
+       "system": "Commission nationale pour la protection des donnÃ©es Ã  caractÃ¨re personnel",
        "class": "authority"
       }
      ],
      "systems": [
       {
-       "system": "Commission nationale pour la protection des données à caractère personnel",
+       "system": "Commission nationale pour la protection des donnÃ©es Ã  caractÃ¨re personnel",
        "country_label": "Congo",
        "class": "other",
        "platform": "",
@@ -119,6 +119,15 @@
      "facts": [],
      "systems": [],
      "note": "The document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
     }
    }
   }

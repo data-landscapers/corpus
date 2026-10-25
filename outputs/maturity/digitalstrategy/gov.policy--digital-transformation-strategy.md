@@ -24,8 +24,8 @@ The norm is the African Union's Digital Transformation Strategy for Africa 2020-
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 0 |
-| 3 Established | 18 |
-| 2 Nascent | 31 |
+| 3 Established | 19 |
+| 2 Nascent | 30 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
 | No evidence | 2 |
@@ -203,6 +203,14 @@ Zambia adopted a public national digital transformation strategy in 2023, runnin
 - The text is the Strategy itself, hosted on the Ministry of Technology and Science's site, and states the period 2023-2027 (five-year implementation framework, results targets for 2026), which covers its publication date of October 2023. Text public: yes ([source, 2023-10](https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf)).
 - The text is the Strategy itself, hosted on the Ministry of Technology and Science's site, and states the period 2023-2027 (five-year implementation framework, results targets for 2026), which covers its publication date of October 2023. Text public: yes ([source, 2023-10](https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf)).
 - Freight News says the National Digital Strategy 2023-27 has five pillars (digital infrastructure, digital platforms, digital services, digital literacy and skills, digital innovation and entrepreneurship) under which the country will transform; the period is stated as 2023-27, so the 2026-09-03 publication date falls inside it (date used is the article's own, no event date given). Text public: not stated ([source, 2026-09-03](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0)).
+
+### Zimbabwe: 3 Established
+
+Zimbabwe's Smart Zimbabwe 2030 Master Plan was launched in 2024 and runs to 2030; no delivery plan or results are known.
+
+- ICT Minister Tatenda Mavetera launched the Smart Zimbabwe 2030 Master Plan, the strategy for a digital economy by 2030, with the National ICT Policy 2022-2027 and Broadband Plan 2020-2030 on 7 March 2024 ([source, 2024-03-07](https://gemnation.co.zw/mavetera-launches-ict-policies/)).
+- The Smart Zimbabwe 2030 Master Plan launched on 7 March 2024 runs to 2030 ([source, 2024-03-07](https://gemnation.co.zw/mavetera-launches-ict-policies/)).
+- The Smart Zimbabwe 2030 Master Plan states that it puts in place an institutional arrangement with the mandate to coordinate ICT interventions in all sectors of the economy through the Ministry of ICT, Postal and Courier Services; the document carries no date, so the published date of 2019 is used, and it states no budget line ([source, 2019](https://www.ictministry.gov.zw/assets/documents/Smart%20Zimbabwe%202030%20Master%20Plan.pdf)).
 
 ### Benin: 2 Nascent
 
@@ -490,12 +498,6 @@ Togo's president said in 2022 the Togo Digital 2025 strategy was adopted, but it
 - At the opening of the Lomé data centre on 2021-06-08 the Minister of the Digital Economy and Digital Transformation referred to 'the 2020-2025 roadmap', a stated period that covers that date; the article describes no scope for the roadmap and does not say whether its text is published. Text public: not stated ([source, 2021-06-08](https://www.datacenterdynamics.com/en/news/togo-opens-first-carrier-neutral-colocation-facility-in-lom%C3%A9/)).
 - Togo Officiel reports that the Ministry of Digital Economy and Digital Transformation launched on 22 May 2025 the recruitment of a consultant to update the national digital transformation strategy as a new 'Togo Digital' strategy; it is being prepared, not yet issued ([source, 2025-05-22](https://www.republiquetogolaise.tg/gestion-publique/2705-10711-le-togo-prepare-une-nouvelle-strategie-digitale)).
 - The new 'Togo Digital' strategy is to cover 2025-2030, per Togo Officiel ([source, 2025-05-22](https://www.republiquetogolaise.tg/gestion-publique/2705-10711-le-togo-prepare-une-nouvelle-strategie-digitale)).
-
-### Zimbabwe: 2 Nascent
-
-Zimbabwe began defining a national digital roadmap for 2026 to 2030 in November 2025; whether it was adopted or published is not known.
-
-- The ICT Minister opened the POTRAZ Strategic Formulation Workshop in Mutare on 2025-11-04, which the source says marks the start of a national process to define the country's digital roadmap for 2026 to 2030; no adopting act or body is named and the workshop is the regulator's ([source, 2025-11-04](https://techreviewafrica.com/public/news/3036/zimbabwe-opens-potraz-strategic-workshop-to-shape-2026-2030-national-digital-roadmap)).
 
 ### Eritrea: 1 Absent
 

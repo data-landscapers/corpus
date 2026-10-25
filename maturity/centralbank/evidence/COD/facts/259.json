@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-01-cod-cartographie-des-systemes-et-services-de-paiement-des-prestataires-des",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Banque Centrale du Congo's map of the national payment system lists the payment service providers it has approved, among them five other financial companies including e-money issuers and 81 money-transfer firms, as at end-2023.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Système national de paiement (BCC)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -137,6 +137,15 @@
      "note": "The document states nothing this study asks for Eswatini."
     }
    }
+  },
+  "itcapacity": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
   }
  }
 }

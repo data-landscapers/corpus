@@ -1,1 +1,23 @@
-{"slug": "2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold", "studies": {"customs": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document covers a government ERP and AI policy; says nothing on customs."}}}}}
+{
+ "slug": "2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold",
+ "studies": {
+  "customs": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a government ERP and AI policy; says nothing on customs."
+    }
+   }
+  },
+  "broadbandstrategy": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

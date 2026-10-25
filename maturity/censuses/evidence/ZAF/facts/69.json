@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-22-zaf-statistics-south-africa-on-census-2022-results-in-october-2023",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "Statistics South Africa released the first phase of Census 2022 results in October 2023 and has since published thematic reports, withholding some themes such as income and labour.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "Census 2022",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

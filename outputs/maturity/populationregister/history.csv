@@ -15,3 +15,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,MAR,dpi.registry--population-register,fact,5,5,MAR-003,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,MDG,dpi.registry--population-register,review,no evidence,2,MDG-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,dpi.registry--population-register,fact,5,5,ZAF-012;ZAF-006,Stage 4c: 3 news arrival(s) read; restaged from every row held.
+2026-10-25,SWZ,dpi.registry--population-register,fact,no evidence,3,SWZ-001,Home Affairs: mopping exercise improved the National Population Register (Oct 2025); first row

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-26-mrt-le-president-de-la-republique-supervise-le-lancement-de-l-application",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "Mauritania's population register agency ANRPTS launched the Hewiyeti app on 26 December 2023, letting citizens apply and pay for ID cards, passports and civil-status extracts online; the interior minister said it was developed by national engineers.",
+   "as_of": "2023-12-26",
+   "date_precision": "day",
+   "system": "Hewiyeti",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-17-sle-bank-of-sierra-leone-issues-national-payment-switch-directives-for-202",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "Bank of Sierra Leone National Switch Directives issued December 2024 require all commercial banks and mobile money operators to process instant, card and POS transactions through the national switch SaPS from 1 April 2025.",
+   "as_of": "2024-12-17",
+   "date_precision": "day",
+   "system": "National Switch Directives (SaPS)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "private",
-   "stage": "2",
-   "money": "committed",
-   "home": "",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-001",
-   "gaps": "Only one amount is held from 2024 on, so whether private money came in more than one year is not known.",
-   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "private",
+      "stage": "3",
+      "money": "committed",
+      "home": "",
+      "state": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COG-002;COG-001",
+      "gaps": "No source from 2024 on names an amount put in by a bank, pension fund, insurer, investor or company of the country itself, or raised on the country's own market.",
+      "note": "Counted from the four questions by study-ladder-nonstatefinance.py.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }

@@ -1,4 +1,50 @@
-{"slug": "2026-10-12-tza-guardian-business-law-reforms-brela-online", "studies": {
-"registry": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document is about the business registry BRELA, not civil registration offices."}}},
-"socialregistry": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document states nothing on a social registry."}}}
-}}
+{
+ "slug": "2026-10-12-tza-guardian-business-law-reforms-brela-online",
+ "studies": {
+  "registry": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is about the business registry BRELA, not civil registration offices."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a social registry."
+    }
+   }
+  },
+  "addressregister": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

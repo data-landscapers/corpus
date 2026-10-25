@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SOM-006;SOM-007",
       "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-      "note": "The Central Bank of Somalia launched the Somali Payment Switch and SIPS in January 2025, linking banks and mobile wallets. No regional link is held.",
-      "as_at": "2026-10-24"
+      "note": "The Central Bank of Somalia launched the Somali Payment Switch and SIPS in January 2025, linking banks and mobile wallets. No regional link is held. The Central Bank of Somalia joined PAPSS in March 2026 (SOM-010), with onboarding under way, but no live participation is held, and accession alone is not counted.",
+      "as_at": "2026-10-25"
     }
   ]
 }

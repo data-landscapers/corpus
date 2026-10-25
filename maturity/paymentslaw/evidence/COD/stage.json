@@ -3,14 +3,15 @@
  "cells": [
   {
    "sub_indicator": "law",
-   "stage": "3",
+   "stage": "5",
    "standing": "in-force",
-   "reach": "",
+   "reach": "connect",
    "cap": "",
    "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
+   "stage_sources": "COD-002;COD-001",
+   "gaps": "No payments-law source held names a non-bank provider licensed under the law; the 2024 instruction obliging regulated entities, financial companies among them, to join the national switch answers that question by the ladder's rule that a later yes answers the earlier ones.",
+   "note": "Counted from the four questions by study-ladder-paymentslaw.py.",
+   "as_at": "2026-10-25"
   }
  ]
 }

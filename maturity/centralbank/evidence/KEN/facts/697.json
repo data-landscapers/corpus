@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-16-ita-papss-update-ghana",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "linked",
+   "fact": "The US Commerce Department's market note of November 2023 lists the Central Bank of Kenya among the ten central banks incorporated into PAPSS.",
+   "as_of": "2023-11-16",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

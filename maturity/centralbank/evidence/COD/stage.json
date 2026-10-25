@@ -9,10 +9,10 @@
       "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-002;COD-003",
+      "stage_sources": "COD-002;COD-003;COD-004",
       "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-      "note": "The BCC oversees Switch Mosolo, the national card switch, which microfinance institutions began joining in April 2026. No regional system in service is held; PAPSS accession with no live participation is not counted.",
-      "as_at": "2026-10-24"
+      "note": "The BCC oversees Switch Mosolo, the national card switch, which microfinance institutions began joining in April 2026. No regional system in service is held; PAPSS accession with no live participation is not counted. The BCC's map of the national payment system lists the e-money issuers and other payment providers it has approved (COD-004).",
+      "as_at": "2026-10-25"
     }
   ]
 }

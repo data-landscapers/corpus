@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-01-ben-les-reformes-de-l-etat-civil-facilitent-la-delivrance-des-actes-de-nai",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "equipped:75%",
+   "fact": "UNICEF says that in 2023 tablets, printers and connected routers were given to ANIP for birth registration in 174 of the 233 civil-status centres of the Borgou, Donga, Zou, Alibori and Atacora departments, worth over FCFA 162 million.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "ANIP birth registration kits",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

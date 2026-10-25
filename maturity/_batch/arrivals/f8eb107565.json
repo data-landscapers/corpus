@@ -1,7 +1,97 @@
-{"slug": "2026-09-21-swz-esnews-bika-transport-reporting-platform", "studies": {
-"coresystems": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on finance, revenue or payroll systems."}}},
-"egovservices": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "BIKA Platform", "country_label": "BIKA", "class": "other", "platform": "web/app reporting platform", "owner": "Ministry of Public Works and Transport with the National Road Transport Council", "tiers": ""}], "note": "BIKA is a transport complaints and incident reporting channel, not a service applied for or paid online."}}},
-"feedbackportals": {"countries": {"SWZ": {"facts": [{"sub_indicator": "feedback", "aspect": "channel", "value": "underway", "fact": "The National Road Transport Council chairperson announced on 2026-09-21 the rollout of BIKA, an official real-time platform where the public report corruption, abuse and other problems on public and freight transport, anonymously if wanted and tracked by a reference ID, with no case numbers given.", "as_of": "2026-09-21", "date_precision": "day", "system": "BIKA Platform", "class": "feedback"}], "systems": [{"system": "BIKA Platform", "country_label": "BIKA", "class": "feedback", "platform": "web/app reporting platform", "owner": "Ministry of Public Works and Transport with the National Road Transport Council", "tiers": "national; police, fire and emergency service and Anti-Corruption Commission linked"}], "note": ""}}},
-"police": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "BIKA Platform", "country_label": "BIKA", "class": "public", "platform": "web/app reporting platform", "owner": "Ministry of Public Works and Transport with the National Road Transport Council", "tiers": "Royal Eswatini Police Service is a participating body"}], "note": "BIKA is a public reporting channel for transport; nothing on station records."}}},
-"publicconsultation": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Document states nothing on consultation on a digital law or policy."}}}
-}}
+{
+ "slug": "2026-09-21-swz-esnews-bika-transport-reporting-platform",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on finance, revenue or payroll systems."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BIKA Platform",
+       "country_label": "BIKA",
+       "class": "other",
+       "platform": "web/app reporting platform",
+       "owner": "Ministry of Public Works and Transport with the National Road Transport Council",
+       "tiers": ""
+      }
+     ],
+     "note": "BIKA is a transport complaints and incident reporting channel, not a service applied for or paid online."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The National Road Transport Council chairperson announced on 2026-09-21 the rollout of BIKA, an official real-time platform where the public report corruption, abuse and other problems on public and freight transport, anonymously if wanted and tracked by a reference ID, with no case numbers given.",
+       "as_of": "2026-09-21",
+       "date_precision": "day",
+       "system": "BIKA Platform",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BIKA Platform",
+       "country_label": "BIKA",
+       "class": "feedback",
+       "platform": "web/app reporting platform",
+       "owner": "Ministry of Public Works and Transport with the National Road Transport Council",
+       "tiers": "national; police, fire and emergency service and Anti-Corruption Commission linked"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BIKA Platform",
+       "country_label": "BIKA",
+       "class": "public",
+       "platform": "web/app reporting platform",
+       "owner": "Ministry of Public Works and Transport with the National Road Transport Council",
+       "tiers": "Royal Eswatini Police Service is a participating body"
+      }
+     ],
+     "note": "BIKA is a public reporting channel for transport; nothing on station records."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on consultation on a digital law or policy."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+    }
+   }
+  }
+ }
+}

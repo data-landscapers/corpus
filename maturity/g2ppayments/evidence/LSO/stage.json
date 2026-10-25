@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "2",
-      "payment": "underway",
+      "stage": "3",
+      "payment": "inservice",
       "streams": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-001;LSO-002",
-      "gaps": "No source held since October 2023 says: does one government programme pay people digitally.",
+      "stage_sources": "LSO-003",
+      "gaps": "No source held since October 2023 shows two or more main government payment streams paid digitally.",
       "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-10-25"
     }
   ]
 }

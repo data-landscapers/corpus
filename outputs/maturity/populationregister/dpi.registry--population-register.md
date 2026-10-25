@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 |---|---|
 | 5 Leading | 11 |
 | 4 Operating | 0 |
-| 3 Established | 5 |
+| 3 Established | 6 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
-| No evidence | 28 |
+| No evidence | 27 |
 
 ## Countries
 
@@ -103,6 +103,12 @@ Other systems drew on the population register in 2025.
 A population register was in service in 2026; updating from births and deaths is not known.
 
 - La Nation reports that the DGPF searches the national population database for each ID applicant and integrates each file into the Registre national des personnes physiques platform, with data recorded there before biometric enrolment ([source, 2026-07-23](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/)).
+
+### Eswatini: 3 Established
+
+A population register was in service in 2025; updating from births and deaths is not known.
+
+- Eswatini's Home Affairs ministry says its mopping exercise, registering births and deaths and converting manual birth certificates in Manzini and Hhohho in the second quarter of 2025/26, has improved the National Population Register ([source, 2025-10-27](https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/)).
 
 ### Mali: 3 Established
 
@@ -235,12 +241,6 @@ Nothing held names a population register or says there is none, so no stage is s
 Not established: Nothing held names a population register, or says there is none.
 
 ### Eritrea: No evidence
-
-Nothing held names a population register or says there is none, so no stage is set.
-
-Not established: Nothing held names a population register, or says there is none.
-
-### Eswatini: No evidence
 
 Nothing held names a population register or says there is none, so no stage is set.
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-26-stp-sao-tome-e-principe-tem-quase-210-mil-residentes-e-regista-aumento-dra",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "final",
+   "fact": "The INE released on 25 July 2025 the final data of the fifth general population and housing census (V RGPH), counting 212,017 people on 15 November 2024, 209,607 of them the legal resident population.",
+   "as_of": "2025-07-25",
+   "date_precision": "day",
+   "system": "V RGPH",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
