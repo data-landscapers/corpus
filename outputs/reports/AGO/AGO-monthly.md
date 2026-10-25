@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: AGO
 ledger_rows: 49
-not_held: 5
-record: f824c80fbd3a
+not_held: 6
+record: c8800599d1d4
 ---
 
 # News, Sep – Oct 2026

@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: CIV
-ledger_rows: 47
+ledger_rows: 50
 not_held: 10
-record: f3fe8fc41b3c
+record: 32d214cbabf3
 ---
 
 # News, Sep – Oct 2026
@@ -173,6 +173,20 @@ The International Telecommunication Union's Africa director, Emmanuel Manasseh, 
 **[Space regulation emerges as key issue ahead of ITU Plenipotentiary Conference 2026](https://techreviewafrica.com/news/7329/space-regulation-emerges-as-key-issue-ahead-of-itu-plenipotentiary-conference-2026)** — TechReviewAfrica, 18 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 African telecommunications bodies concluded their last preparatory meeting for the 2026 ITU Plenipotentiary Conference in Abidjan, where space regulation was widely debated, reported on 18 September 2026. Eric Fournier, France's candidate to head the ITU Radiocommunication Bureau, presented his candidacy and met Côte d'Ivoire's digital minister and telecoms regulator.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bilateral roaming agreement with Burkina Faso</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+ARCEP Burkina signs with Benin, Côte d'Ivoire and Senegal regulators, Ouagadougou 23 Oct 2026.
 
 </div>
 
@@ -501,6 +515,34 @@ Côte d'Ivoire's animal and fisheries ministry said on 7 October 2026 that data 
 **[Côte d'Ivoire : Journées foncières, le cadastre numérique au cœur de la réforme fiscale](https://www.koaci.com/article/2026/10/09/cote-divoire/societe/cote-divoire-journees-foncieres-le-cadastre-numerique-au-coeur-de-la-reforme-fiscale_201459.html)** — Koaci, 9 October 2026
 
 Côte d'Ivoire's cadastre director, Bahi Apollinaire Boua, said at the Abidjan land days of 5–7 October 2026 that widening the property tax base is now a priority of the tax directorate. He cited the e-Cadastre platform as part of moving land procedures online to improve access to land information and tax collection.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of civil-status registers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire : L’ONECI instruit les officiers d’état civil sur la Plateforme digitale de demande et d’obtention en ligne des actes d’état civil](https://digitalmag.ci/cote-divoire-loneci-instruit-les-officiers-detat-civil-sur-la-plateforme-digitale-de-demande-et-dobtention-en-ligne-des-actes-detat-civil/)** — Digital Mag Côte d'Ivoire, 23 October 2026
+
+ONECI's online request-and-delivery platform for birth, marriage and death acts, shown to registrars 22-24 October 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online civil-status certificate request platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Côte d’Ivoire : L’ONECI instruit les officiers d’état civil sur la Plateforme digitale de demande et d’obtention en ligne des actes d’état civil](https://digitalmag.ci/cote-divoire-loneci-instruit-les-officiers-detat-civil-sur-la-plateforme-digitale-de-demande-et-dobtention-en-ligne-des-actes-detat-civil/)** — Digital Mag Côte d'Ivoire, 23 October 2026
+
+Summarised under [Registries](#registries).
 
 </div>
 
