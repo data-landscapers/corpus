@@ -177,8 +177,11 @@ def fix(run: dict | None, reason: str, token: str) -> tuple[bool, str]:
     if "not on the remote" in reason:
         return False, "not fixed: pushing is the runbook's"
     if not token:
-        where = run["html_url"] if run else f"https://github.com/{REPO}/actions"
-        return False, f"not fixed: GITHUB_TOKEN is not set - re-run by hand at {where}"
+        # No run means nothing to re-run: the page that has the Run workflow button.
+        if run is None:
+            return False, ("not fixed: GITHUB_TOKEN is not set and no run exists - start one with "
+                           f"Run workflow on {BRANCH} at https://github.com/{REPO}/actions/workflows/{WORKFLOW}")
+        return False, f"not fixed: GITHUB_TOKEN is not set - re-run by hand at {run['html_url']}"
     if run is None:
         call("POST", f"/workflows/{WORKFLOW}/dispatches", token, {"ref": BRANCH})
         return True, f"dispatched {WORKFLOW} on {BRANCH}"
