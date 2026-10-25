@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: XWA
-ledger_rows: 33
+ledger_rows: 34
 not_held: 1
-record: 5a70af70e396
+record: 4203b5723f87
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: 5a70af70e396
 <a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#coordination-and-collaboration">Coordination and collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity-and-inclusion">Capacity and inclusion</a>
 </nav>
 
 ## Institutions and mandates
@@ -687,6 +689,28 @@ A week-long ECOWAS training for managers of member states' national statistical 
 **[ECOWAS Targets $5m in Startup Deals, Launches Regional Platform to Scale 60 West African Businesses](https://msmeafricaonline.com/ecowas-targets-5m-in-startup-deals-launches-regional-platform-to-scale-60-west-african-businesses/)** — MSME Africa, 24 September 2026
 
 The Economic Community of West African States opened the second edition of its Startup Awards in Abuja on 21 September 2026, with 60 startups chosen from more than 6,000 applicants across six sectors including fintech and health tech. ECOWAS aims to broker US$5 million in investment and deals, with regional finals on 30 September.
+
+</div>
+
+</div>
+
+## Capacity and inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity and inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UEMOA financial inclusion indicators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Evolution des indicateurs de suivi de l'inclusion financière dans l'UEMOA au titre de l'année 2025](https://www.bceao.int/sites/default/files/2026-10/Tableau%20de%20suivi%20des%20indicateurs%20d%27inclusion%20financi%C3%A8re%20dans%20l%27UEMOA%20%C3%A0%20fin%20d%C3%A9c%202025.pdf)** — Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO), 20 October 2026
+
+Eight-country 2025 tables: UEMOA index 0.616, e-money use 60.27% vs 26.86% strictly banked; Niger lowest at 0.431.
 
 </div>
 

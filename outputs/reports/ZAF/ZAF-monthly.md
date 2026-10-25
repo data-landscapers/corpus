@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: ZAF
-ledger_rows: 168
+ledger_rows: 169
 not_held: 19
-record: 560805a8f744
+record: c88b8973553b
 ---
 
 # News, Sep – Oct 2026
@@ -1427,6 +1427,14 @@ The South African Revenue Service confirmed in VAT Connect Issue 21 on 8 Septemb
 **[Lesotho-South Africa Bi-National Commission (BNC) Mid-term Review Concludes in Pretoria](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en)** — Government of Lesotho (via APO Group), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
 Lesotho and South Africa concluded a mid-term review of their Bi-National Commission in Pretoria on 9 September 2026 after three days of talks. Outcomes included faster work on Smart One-Stop Border Posts at Maseru and Ficksburg, progress on a new migration model for labour mobility, and Phase II of the Lesotho Highlands Water Project. The next full session is set for South Africa in 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique–South Africa: Works under way at Ressano Garcia for future one-stop border post](https://clubofmozambique.com/news/mozambique-south-africa-works-under-way-at-ressano-garcia-for-future-one-stop-border-post/)** — Club of Mozambique, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
+
+About 980m meticais; concessionaire GTSA invests; integrated border systems; mineral-truck transit cut to ~5 minutes.
 
 </div>
 
@@ -3011,6 +3019,20 @@ South Africa's National Treasury said in the 2026 Medium-Term Budget Policy Stat
 **[South Africa Online Shopping Lags Internet Access as Retail Market Targets Wider Adoption](https://techafricanews.com/2026/09/21/south-africa-online-shopping-lags-internet-access/)** — Tech Africa News, 21 September 2026
 
 The Online Retail in South Africa 2026 report finds 79.1% of adults online but only 34.2% shopping online in 2025, down from 36.6% in 2024, while online retail turnover rose to about R130 billion. The gap is widest among lower-income consumers and women. Delivery costs, weak last-mile service outside the cities and worries about payment security are named as barriers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KwaZulu-Natal fibre pre-provisioning proof of concept</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Premier Ntuli Launches Fibre Initiative to Bridge Digital Divide in KZN Communities](https://www.kznonline.gov.za/index.php?option=com_k2&view=item&id=3103%3Apremier-ntuli-launches-fibre-initiative-to-bridge-digital-divide-in-kzn-communities)** — KwaZulu-Natal Provincial Government (KZNONLINE), 22 October 2026
+
+405 households at Empangeni Phase 1A housing; fibre laid at construction; Huawei and Openserve partners.
 
 </div>
 

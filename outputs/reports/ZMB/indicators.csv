@@ -370,7 +370,11 @@ dpi.pay--governance-role-of-central-bank,Movement,"The [national financial switc
 
 The cheque stop date comes from a single sentence in an article about another country, and no central bank circular is held ([cheques](2026-07-27-zambia-from-rails-to-routine-national-financial-switch), [comparator](2026-01-13 The rise of cheques as Kenya's preferred payment method)).
 
-Ending an instrument on a date evidenced only in foreign coverage is a limit on what this report can state about the transition.",ZMB-dpi.pay-national-financial-switch|ZMB-dpi.pay-cheque-clearing,3,ZMB-dpi.pay-national-financial-switch,,,,,,,2026-08-31,0,National switch operating; published oversight and dispute function not on record here
+Ending an instrument on a date evidenced only in foreign coverage is a limit on what this report can state about the transition.
+
+The central bank's [e-money issuance directives of July 2023 replaced the 2018 rules](2023-07-14-zmb-the-national-payment-systems-directives-on-electronic-money-issuance-2).
+
+The central bank [published a 2026 oversight framework for payment infrastructures](2026-06-01-zmb-payment-system-oversight-framework-2026), on international principles it adopted in 2015.",ZMB-dpi.pay-national-financial-switch|ZMB-dpi.pay-cheque-clearing|ZMB-dpi.pay-e-money-issuance-directives-2023|ZMB-dpi.pay-payment-system-oversight-framework-2026,3,ZMB-dpi.pay-national-financial-switch,,,,,,,2026-08-31,0,National switch operating; published oversight and dispute function not on record here
 dpi.pay--g2p-functionality,Movement,"The [social cash transfer](2026-08-22-zambiamonitor-social-cash-transfer-july-august-2026) began its July-August 2026 cycle disbursement, on the ministry's own figures with no redemption rate, provider list or exclusion figure published.","The cycle disbursement began in August 2026 ([disbursement](2026-08-22-zambiamonitor-social-cash-transfer-july-august-2026)).
 
 A provincial minister separately names four districts where poor network service blocks access to social cash transfers and farm input subsidies, so the exclusion figure nobody publishes is the one that would measure whether the transfer arrives.",ZMB-dpi.pay-social-cash-transfer-disbursement,3,ZMB-dpi.pay-social-cash-transfer-disbursement,,,,,,,2026-08-31,0,social cash transfer paid through payment service providers on the ministry's figures; salaries and pensions not on record
@@ -385,7 +389,9 @@ dpi.pay--b2b-and-b2g-functionality,Movement,A [2025 Act mandates an electronic s
 
 2026-04-08 — [a new National Payment System Act replaces the 2007 statute, creating licensing and market-conduct rules for payment service providers covering these rails](2026-04-08-national-payment-system-act-2026). It is not yet commenced, which is the operative fact: the regime that would govern these payments is enacted and not in force.
 
-No transaction volume or value on either rail is published.",ZMB-dpi.pay-b2b-b2g,,,,,,,,,2026-08-31,0,Only the 2026 payment system Act; not commenced; no e-procurement or business payment service on record
+No transaction volume or value on either rail is published.
+
+The central bank [reissued the operating rules of its interbank settlement system in October 2025](2025-10-01-zmb-zambia-interbank-payment-and-settlement-system-operating-rules).",ZMB-dpi.pay-b2b-b2g|ZMB-dpi.pay-zipss,,,,,,,,,2026-08-31,0,Only the 2026 payment system Act; not commenced; no e-procurement or business payment service on record
 dpi.pay--p2p-p2g-and-p2b-functionality,Movement,"Mobile wallets [reached a bank's point-of-sale terminals and cash machines](2026-03-04-momo-payments-on-zanaco-pos-launch), and [councils were onboarded for electronic fee payment](2026-07-10-e-council-services-enhance-efficiency-at-solwezi-municipal-council).","[The National Payment Systems Act of 2007 established regulatory authority over the payment mechanisms underlying these rails](2007-04-12-national-payment-systems-act).
 
 2026-03 — [a mobile money wallet gained interoperability with a commercial bank's point-of-sale terminals and cash machines](2026-03-04-momo-payments-on-zanaco-pos-launch), a concrete person-to-business and cash-out expansion.
@@ -656,7 +662,11 @@ data.statistics--censuses-and-surveys,Movement,"The [2022 census national analyt
 
 [It puts the national literacy rate for those aged five and over at 62.6 per cent, 65.3 for males and 60.1 for females, and 78.2 per cent in urban areas against 49.8 in rural ones](2025-08-01-zambia-census-literacy-education); [the rate for those aged 15 to 24 is 77.1 per cent](2025-08-01-zambia-census-literacy-education), and [the figure for those aged five and over has risen from 55.3 per cent in 2000](2025-08-01-zambia-census-literacy-education).
 
-No release calendar is held, so what else the agency has scheduled is not established.",ZMB-data.statistics-zamstats-release-programme|ZMB-data.statistics-survey-programme|ZMB-data.statistics-economic-establishment-census-2025,3,ZMB-data.statistics-zamstats-release-programme,,,,,,,2026-08-31,0,2022 census analytical report published 2025; microdata access and survey programme not on record here
+No release calendar is held, so what else the agency has scheduled is not established.
+
+The 2022 census [put the population at 19,693,423 in its revised summary of February 2025](2025-02-01-zmb-revised-population-summary-report-volume-two), against [19,610,769 in the preliminary report](2022-12-01-zmb-2022-census-of-population-and-housing-preliminary-report).
+
+The statistics agency [published its 2022 Living Conditions Monitoring Survey report in 2024](2024-06-01-zmb-2022-living-conditions-monitoring-survey-report).",ZMB-data.statistics-zamstats-release-programme|ZMB-data.statistics-survey-programme|ZMB-data.statistics-economic-establishment-census-2025|ZMB-data.statistics-2022-census|ZMB-data.statistics-lcms-2022,3,ZMB-data.statistics-zamstats-release-programme,,,,,,,2026-08-31,0,2022 census analytical report published 2025; microdata access and survey programme not on record here
 data.statistics--statistics-from-administrative-data,Movement,Digitising death notification [raised completeness from 11.9 to 17.4 per cent and cut reporting time from six days to three](2025-09-12-role-of-digital-systems-in-improving-death-reporting).,"[The Statistics Act, 2018 establishes the agency and the national statistical system](2018-12-26-zambia-statistics-act-2018), the framework administrative statistics are produced under.
 
 2025-09 — [a Zambia case study digitising the death-notification form raised completeness from 11.9 to 17.4 per cent and cut reporting time from six days to three](2025-09-12-role-of-digital-systems-in-improving-death-reporting). Both figures matter and the first is the sobering one: after digitisation, fewer than one death in five is captured.

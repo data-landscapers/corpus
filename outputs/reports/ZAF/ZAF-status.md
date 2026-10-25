@@ -1,12 +1,12 @@
 ---
 title: South Africa: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 331
+sources_cited: 333
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -356,15 +356,15 @@ One channel runs the other way. [Women account for 61% of online voter registrat
 ### National statistics
 <!-- data.statistics -->
 
-South Africa has conducted [no business or establishment survey in the past ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators), the one collection missing from a statistical programme the World Bank otherwise scores as complete (2023): a [population census, an agricultural census and a business census](https://www.worldbank.org/en/programs/statistical-performance-indicators) all fall inside the same window, as do [three or more rounds each of household, labour force, health and agricultural surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators).
+South Africa has conducted [no business or establishment survey in the past ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators), the one collection missing from a statistical programme the World Bank otherwise scores as complete (2023): a [population census, an agricultural census and a business census](https://www.worldbank.org/en/programs/statistical-performance-indicators) all fall inside the same window, as do [three or more rounds each of household, labour force, health and agricultural surveys](https://www.worldbank.org/en/programs/statistical-performance-indicators). The 2022 census, the first run digitally, [missed an estimated 31.1% of the in-scope population on the statistics office's own post-enumeration survey](https://census.statssa.gov.za/assets/documents/2022/P030152022.pdf).
 
 The programme is strong by both measures that grade it. South Africa sits in the [70-89% band on all five of the World Bank's pillars](https://www.worldbank.org/en/programs/statistical-performance-indicators) — data use, services, products, sources and infrastructure (2023) — and the Ibrahim Index puts the [capacity of the statistical system at 72.7 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-za.pdf), fifth in Africa and 1.6 points up over the decade to 2023. Civil registration feeds the vital statistics, though the death series runs late: [476,605 deaths occurring in 2023 were published only in March 2026](https://www.statssa.gov.za/publications/P03093/P030932023.pdf), against [863,858 births registered in the 2024 period, published in October 2025](https://www.statssa.gov.za/publications/P0305/P03052024.pdf).
 
-The weakness sits at the edges rather than in the statistical office's core work. Several Ibrahim indicators carry no South African score at all, including the whole [rural economy sub-category](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-za.pdf) and the measure of [staffing in education](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-za.pdf), for which no data is supplied. Reporting has in places moved away from series that can be tracked: Home Affairs [replaced its periodic count of participating Smart ID bank branches with a live locator](https://www.itweb.co.za/article/online-tool-finds-nearest-smart-id-issuing-bank/nWJadvbNDZDvbjO1) in August 2026, and the Electronic Travel Authorisation's usage reaches the public [through speeches rather than any published series](https://www.itweb.co.za/article/wheels-up-for-electronic-travel-authorisation-visas/G98Yd7LGNKQvX2PD) (August 2026). The National Cybersecurity Hub, for its part, [publishes no statistics of any kind](https://www.cybersecurityhub.gov.za/incident-management-process) on the incidents it handles.
+Several Ibrahim indicators carry no South African score at all, including the whole [rural economy sub-category](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-za.pdf) and the measure of [staffing in education](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-za.pdf), for which no data is supplied. Reporting has in places moved away from series that can be tracked: Home Affairs [replaced its periodic count of participating Smart ID bank branches with a live locator](https://www.itweb.co.za/article/online-tool-finds-nearest-smart-id-issuing-bank/nWJadvbNDZDvbjO1) in August 2026, and the Electronic Travel Authorisation's usage reaches the public [through speeches rather than any published series](https://www.itweb.co.za/article/wheels-up-for-electronic-travel-authorisation-visas/G98Yd7LGNKQvX2PD) (August 2026). The National Cybersecurity Hub, for its part, [publishes no statistics of any kind](https://www.cybersecurityhub.gov.za/incident-management-process) on the incidents it handles.
 
 Statistics South Africa was itself [hit by a ransomware attack](https://centralnews.co.za/statistics-south-africa-hit-by-ransomware-attack-hackers-claim-theft-of-450000-files/) in March 2026.
 
-[A deputy minister in the Presidency said in a keynote address on 9 October 2026 that Census 2031 is in development, and called statistical independence a constitutional safeguard](https://www.presidency.gov.za/keynotes-address-deputy-minister-presidency-nonceba-mhlauli-occasion-celebrating-stats-sa-census).
+[A deputy minister in the Presidency said in a keynote address on 9 October 2026 that Census 2031 is in development, and called statistical independence a constitutional safeguard](https://www.presidency.gov.za/keynotes-address-deputy-minister-presidency-nonceba-mhlauli-occasion-celebrating-stats-sa-census); the statistics office's [roadmap sets the main enumeration for October 2031, with strategic planning and budget tabling in 2026/27](https://pmg.org.za/committee-question/35436/).
 
 ### Open data
 <!-- data.open -->

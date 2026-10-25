@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 213
+sources_cited: 214
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -354,7 +354,7 @@ The floor beneath all of it is what people can do with a connection and what the
 
 Eswatini has no current strategy for developing its statistics: the international statistics partnership's country table records it as [Designing at January 2026](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf), with neither a strategy title nor a period against its name where most of its neighbours carry both, and the statute beneath it is the [Statistics Act of 1967](https://eswatinilii.org/akn/sz/act/1967/14/eng@1998-12-01), unamended on this record. It got better at counting itself over the decade to 2023 and is still near the bottom of the continent: its [Capacity of the Statistical System score rose 7.0 points over 2014-2023 to 32.3 out of 100, leaving it 47th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sz.pdf).
 
-The World Bank's Statistical Performance Indicators for 2023 place the weakness precisely. [Data sources is the weakest of the five pillars, in the 20-49% band, against 70-89% for both data use and data products and 50-69% for data services and data infrastructure](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023) — the state uses what it holds better than it collects it. The censuses are not the problem: [a population census and an agricultural census have been run within the last ten years, and a business census within the last twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators). The survey programme is thinner: [three or more labour surveys and two health surveys in the past ten years, but a single household survey](https://www.worldbank.org/en/programs/statistical-performance-indicators) — one instrument in a decade carrying everything the state knows about how households live.
+The World Bank's Statistical Performance Indicators for 2023 place the weakness precisely. [Data sources is the weakest of the five pillars, in the 20-49% band, against 70-89% for both data use and data products and 50-69% for data services and data infrastructure](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023) — the state uses what it holds better than it collects it. The censuses are not the problem: [a population census and an agricultural census have been run within the last ten years, and a business census within the last twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators). The 2017 census [counted 1,093,238 people, growth having slowed to 0.7% a year over 2007-2017](https://eswatini.unfpa.org/en/news/eswatini-government-and-unfpa-launch-results-2017-eswatini-population-and-housing-census). The survey programme is thinner: [three or more labour surveys and two health surveys in the past ten years, but a single household survey](https://www.worldbank.org/en/programs/statistical-performance-indicators) — one instrument in a decade carrying everything the state knows about how households live.
 
 Two current exercises bear on that. The Central Bank [launched the FinScope Eswatini 2026 Consumer Survey on 24 July 2026](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/), run with ESEPARC, the Central Statistical Office and FinMark Trust, [adding new scope on digital financial services, fraud and climate-related risk](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/); [the headline inclusion figure it replaces dates from 2018 and measures access rather than use](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/). In January 2026 the communications regulator [awarded a tender worth about E2.8 million for a State of Communications Sector Study 2025/26](https://times.co.sz/business/readmore.php?bhsadjgfoh=+E2.8m+study+signals+bright+2026+digital+outlook&bvhdgsj=Business+and+Economy&yiphi=2583).
 
