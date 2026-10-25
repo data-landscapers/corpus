@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://www.gbosdata.org/downloads>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.gbosdata.org/downloads>).
-
 ***Noted, not assessed***. [Gender Data Portal](<https://documents1.worldbank.org/curated/en/099034106302238022/pdf/IDU0c0de908b0b89c040780abc80aa4c96edce6c.pdf>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

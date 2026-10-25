@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://sdgs.opm.go.ug/2026/07/17/july-2026-national-sdg-task-force-accelerated-action-as-uganda-enters-final-stretch-to-2030/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://sdgs.opm.go.ug/2026/07/17/july-2026-national-sdg-task-force-accelerated-action-as-uganda-enters-final-stretch-to-2030/>).
-
 ***Noted, not assessed***. [Open data portal](<https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/2021-2022_QuarterlyReport_Q4_020_MinistryofICTandNationalGuidance_05082022195509.pdf>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

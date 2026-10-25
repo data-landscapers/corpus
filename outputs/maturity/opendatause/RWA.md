@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://www.open-contracting.org/2024/11/13/rwanda-a-new-open-contracting-portal-to-promote-effective-and-inclusive-procurement/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.open-contracting.org/2024/11/13/rwanda-a-new-open-contracting-portal-to-promote-effective-and-inclusive-procurement/>).
-
 ***Noted, not assessed***. None held.
 
 ***Not held***. The only licence held bars commercial reuse, so no open licence letting anyone reuse the data is on record.

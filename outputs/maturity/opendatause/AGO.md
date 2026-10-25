@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>).
-
 ***Noted, not assessed***. [Portal de Compras Publicas](<https://www.novojornal.co.ao/economia/detalhe/minttics-ainda-nao-corrigiu-pac-2025---documento-mantem-se-com-zeros-a-mais-e-despesas-na-ordem-dos-bilioes-de-kwanzas-64204.html>); [portal de dados abertos (PADA Component 2)](<https://c2a.portais.gov.ao/uploads/20251122_Plano_EAS_AS_V5_Clean_Final_site_1_db036c6b62.pdf>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

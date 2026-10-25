@@ -72,9 +72,9 @@
     "A public body publishes data online for anyone to download, on a portal or its own site, in the past three years. A dashboard with nothing to download, or a portal only planned, does not count.",
     "That data is published under an open licence or terms that let anyone reuse it, such as Creative Commons or the Licence Ouverte.",
     "Two or more public bodies publish data that way, named or counted by a source from the past three years.",
-    "The data is reused: a source from the past three years names an application, research, a news report or a business built on it, or gives a figure for its downloads or users."
+    "Four or more public bodies publish data that way, named or counted by a source from the past two years."
    ],
-   "criteria_of": "a884509fb912"
+   "criteria_of": "68a15d23a3b8"
   }
  ],
  "classes": [
@@ -105,22 +105,12 @@
    "role": "coverage",
    "defer": [],
    "prefer": [
+    "many",
     "several"
    ],
    "values": [
+    "many",
     "several"
-   ]
-  },
-  {
-   "key": "reuse",
-   "name": "Reuse on record",
-   "role": "coverage",
-   "defer": [],
-   "prefer": [
-    "reused"
-   ],
-   "values": [
-    "reused"
    ]
   }
  ],

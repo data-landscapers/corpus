@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** [The Geoportail centralises data from 23 ministries and more than 550 administrative units, drawn from a 2021-2022 collection under the PRISE project](<https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/>).
-
 ***Noted, not assessed***. [Open Data](<https://www.togofirst.com/fr/tic/1811-17583-transformation-digitale-le-togo-lance-son-observatoire-national-du-numerique>); [Géoportail Open Data](<https://www.togofirst.com/fr/tic/1811-17583-transformation-digitale-le-togo-lance-son-observatoire-national-du-numerique>); [Observatoire national du numérique (ONN)](<https://www.togofirst.com/fr/tic/1811-17583-transformation-digitale-le-togo-lance-son-observatoire-national-du-numerique>); [Géoportail](<https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/>); [Open Data platform (opendata.gouv.tg)](<https://opendata.gouv.tg/fr/posts/lancement-des-plateformes-open-data-et-geoportail-open-data-du-togo/>); [Geoportail Open Data](<https://opendata.gouv.tg/fr/posts/lancement-des-plateformes-open-data-et-geoportail-open-data-du-togo/>).
 
-***Not held***. No source held since October 2023 names an application, research or report built on the data, or a usage figure.
+***Not held***. Nothing further is asked of this indicator.

@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://nbs.gov.so/terms-of-use-for-open-data-portals-and-datasets/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://nbs.gov.so/terms-of-use-for-open-data-portals-and-datasets/>).
-
 ***Noted, not assessed***. [DataCite National Consortium (SomaliREN)](<https://www.dawan.so/news/somaliren-oo-soomaaliya-ka-hirgelisay-dalladdii-ugu-horreysay-ee-qaran-ee-datacite>).
 
-***Not held***. No source held since October 2023 names two or more public bodies publishing data.
+***Not held***. No source held since October 2023 names two or more public bodies publishing data, and none since October 2024 names or counts four or more.

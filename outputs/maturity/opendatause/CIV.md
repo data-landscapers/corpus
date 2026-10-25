@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://ogp.gouv.ci/wp-content/uploads/2025/01/Plan-dAction-National-2024-2026-VF-signe.pdf>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://ogp.gouv.ci/wp-content/uploads/2025/01/Plan-dAction-National-2024-2026-VF-signe.pdf>).
-
 ***Noted, not assessed***. [Géoportail d'urbanisme du Grand Abidjan](<https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance>); [portail Open Data de la Côte d'Ivoire](<https://ogp.gouv.ci/wp-content/uploads/2025/01/Plan-dAction-National-2024-2026-VF-signe.pdf>); [Engagement 6 : promotion de l'open data (hackathons, renforcement de capacités, campagne digitale)](<https://ogp.gouv.ci/wp-content/uploads/2025/01/Plan-dAction-National-2024-2026-VF-signe.pdf>); [e-mining cadastre portal](<https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-launches-e-mining-portal-to-improve-transparency-and-investment>); [ACCESS CAIDP (www.caidp.ci portal)](<https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

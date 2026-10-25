@@ -6,11 +6,10 @@
    "stage": "4",
    "access": "licensed",
    "breadth": "several",
-   "reuse": "",
    "cap": "",
    "flags": "",
    "stage_sources": "ZMB-002",
-   "gaps": "No source held since October 2023 names an application, research or report built on the data, or a usage figure.",
+   "gaps": "No source held since October 2024 names or counts four or more public bodies publishing data.",
    "note": "Counted from the four questions by study-ladder-opendatause.py."
   }
  ]

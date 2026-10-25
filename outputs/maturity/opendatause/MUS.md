@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://www.bom.mu/media/media-releases/bank-mauritius-expands-access-official-statistics-rollout-bomstats-platform>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.bom.mu/media/media-releases/bank-mauritius-expands-access-official-statistics-rollout-bomstats-platform>).
-
 ***Noted, not assessed***. [Info Highway](<https://dataprotection.govmu.org/Documents/NDS_final.pdf>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

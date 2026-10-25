@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf>).
-
 ***Noted, not assessed***. [Système Intégré de Suivi-Evaluation de l'Action Gouvernementale](<https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/>).
 
-***Not held***. No source held since October 2023 names two or more public bodies publishing data.
+***Not held***. No source held since October 2023 names two or more public bodies publishing data, and none since October 2024 names or counts four or more.

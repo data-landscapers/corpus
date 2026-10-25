@@ -5,12 +5,13 @@ r"""study-ladder-opendatause.py — the opendatause study's four questions, coun
     python scripts/study-ladder-opendatause.py --as-at 2026-09-30 --dry
 
 `maturity/documentation/maturity-study-method.md` §7, as `study-ladder-admindata.py` does it.
-The ladder is `maturity-study-opendatause.md` §2 and §3, every window three years:
+The ladder is `maturity-study-opendatause.md` §2 and §3, every window three years but stage 5's:
 
 1. **Published**: an `access` of `published`, or a yes to any later question.
 2. **Licensed**: an `access` of `licensed`.
 3. **Several bodies**: a `breadth` of `several`.
-4. **Reused**: a `reuse` of `reused`.
+4. **Four or more bodies**: a `breadth` of `many`, in a two-year window *(Bill, 2026-10-25: reuse
+   is no longer asked, and a download or view count is not evidence of use)*.
 
 **A later yes answers the earlier ones** (method §3.3). Stage 1 is an `access` of `none` with no
 other yes. A fact dated after the as-at sets nothing. A year or a month stands for its last day.
@@ -35,7 +36,7 @@ import study_lib  # noqa: E402
 STUDY = "opendatause"
 GAPS = {
     "5": "",
-    "4": "No source held since October 2023 names an application, research or report built on the data, or a usage figure.",
+    "4": "No source held since October 2024 names or counts four or more public bodies publishing data.",
     "3": "No source held since October 2023 names two or more public bodies publishing data.",
     "2": "No source held since October 2023 states an open licence for the data.",
     "1": "",
@@ -74,16 +75,17 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     three = study_lib.months_back(as_at, 36)
     pick = lambda aspect, values: [  # noqa: E731
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values and d >= three]
-    reused = pick("reuse", ("reused",))
-    several = pick("breadth", ("several",))
+    two = study_lib.months_back(as_at, 24)
+    many = [r["row_id"] for d, r in live if r["aspect"] == "breadth" and r["value"] == "many" and d >= two]
+    several = pick("breadth", ("several", "many"))
     licensed = pick("access", ("licensed",))
     published = pick("access", ("published",))
     none = pick("access", ("none",))
     if not rows:
         return {"stage": "no evidence", "sources": [],
                 "gaps": "Nothing held names government data published for download, or says there is none."}
-    if reused:
-        s, src = "5", reused[:2]
+    if many:
+        s, src = "5", many[:2]
     elif several:
         s, src = "4", several[:2]
     elif licensed:
@@ -122,18 +124,17 @@ def main(argv=None) -> int:
         s = cell["stage"]
         line = {"sub_indicator": "use", "stage": s,
                 "access": "licensed" if s in ("3", "4", "5") else "published" if s == "2" else "none" if s == "1" else "",
-                "breadth": "several" if s in ("4", "5") else "",
-                "reuse": "reused" if s == "5" else "", "cap": "", "flags": "",
+                "breadth": "many" if s == "5" else "several" if s == "4" else "", "cap": "", "flags": "",
                 "stage_sources": ";".join(cell["sources"]), "gaps": cell["gaps"],
                 "note": "Counted from the four questions by study-ladder-opendatause.py."}
-        test.append({"iso3": iso, **{k: line[k] for k in ("stage", "access", "breadth", "reuse", "stage_sources")}})
+        test.append({"iso3": iso, **{k: line[k] for k in ("stage", "access", "breadth", "stage_sources")}})
         if a.dry:
             continue
         os.makedirs(os.path.join(base, iso), exist_ok=True)
         study_lib.write_stage(os.path.join(base, iso, "stage.json"), iso, [line])
     if not a.dry:
         study_lib.write_csv(os.path.join(study_lib.study_dir(STUDY), "ladder-test.csv"),
-                            ["iso3", "stage", "access", "breadth", "reuse", "stage_sources"], test)
+                            ["iso3", "stage", "access", "breadth", "stage_sources"], test)
     print("study-ladder: " + ", ".join(f"{k}: {count[k]}" for k in sorted(count, reverse=True))
           + (" (dry run, nothing written)." if a.dry else "."))
     return 0

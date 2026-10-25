@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** [The commitment sets as baseline, doubling by 2020, 10 institutions adhering to open data and 100 datasets published on data.gov.ma (2018, before the three-year window)](<https://www.gouvernement-ouvert.ma/engagements.php?engagement=4&lang=fr>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://data.gov.ma/fr/documentations>).
-
 ***Noted, not assessed***. [data.gov.ma](<https://data.gov.ma/data/dataset/donnees-sur-les-startups>); [data.gov.ma national open data portal](<https://data.gov.ma/fr/documentations>); [portail national de données ouvertes (data.gov.ma)](<https://www.data.gov.ma/sites/default/files/2025-01/Manuel_Standards_Donn%C3%A9es_Open_Data_1.1.pdf>); [Loi n°31-13 relative au droit d'accès à l'information](<https://www.data.gov.ma/sites/default/files/2025-01/Manuel_Standards_Donn%C3%A9es_Open_Data_1.1.pdf>); [Open Data Readiness Assessment (ODRA)](<https://www.data.gov.ma/sites/default/files/2025-01/Manuel_Standards_Donn%C3%A9es_Open_Data_1.1.pdf>); [portail national Open Data (data.gov.ma)](<https://data.gov.ma/sites/default/files/docs/Open_data_manuel_ROD_Avril%202021.pdf>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://www.nbs.gov.ss/resources/Data_Portal.php>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.nbs.gov.ss/resources/Data_Portal.php>).
-
 ***Noted, not assessed***. [CLIMIS](<https://climis-southsudan.org/ipc/view/52>).
 
-***Not held***. No source held since October 2023 names two or more public bodies publishing data.
+***Not held***. No source held since October 2023 names two or more public bodies publishing data, and none since October 2024 names or counts four or more.

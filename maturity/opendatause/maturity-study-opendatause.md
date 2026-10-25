@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-opendatause.md — government data published for anyone to reuse, and reused, in four questions
-last_reviewed: 2026-10-15
+last_reviewed: 2026-10-25
 status: run 2026-10-15; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Does a public body publish data online for anyone to download? | A source from the last three years shows datasets a public body publishes for download, on a portal or its own site, or reports an open data portal at work |
 | 2 | Is that data published under an open licence? | A source from the last three years states a licence or terms that let anyone reuse the data, such as Creative Commons or the Licence Ouverte, for at least one body's data |
 | 3 | Do several public bodies publish data that way? | A source from the last three years names two or more public bodies publishing data on a portal, or counts the bodies publishing |
-| 4 | Is the data reused? | A source from the last three years names an application, a piece of research, a news report or a business built on the government's published data, or gives a figure for its downloads or users |
+| 4 | Do four or more public bodies publish data that way? | A source from the last two years names four or more public bodies publishing data on a portal, or counts them at four or more |
 
 ## 3. The ladders
 
@@ -43,15 +43,17 @@ Asked in order. Each is answered with a date and a link.
 | 2 Published | Yes to 1: data published for download, no open licence on record |
 | 3 Licensed | Yes to 2: data published under an open licence |
 | 4 Several bodies | Yes to 3: two or more public bodies publish |
-| 5 Reused | Yes to 4: reuse of the data on record |
+| 5 Four or more bodies | Yes to 4: four or more public bodies publish, on a source from the last two years |
 
-- **A later yes answers the earlier ones**, as the method has it: reuse on record places a country at stage 5 whether or not its licence is held.
+- **A later yes answers the earlier ones**, as the method has it: four or more bodies publishing places a country at stage 5 whether or not its licence is held.
 - **A statistics office's data portal counts**, and will carry most stage 2 and 3 cells. A portal a development bank or donor runs counts only where a source says the government body publishes on it.
 - **A statement that there is no national portal is not a stage 1**: a statistics office may still publish. Stage 1 needs a source that no body publishes data for download.
 - **Dataset counts and how open the data is are not judged.** A count is given where a source gives one.
 - **Changes from the row as it stands.** Stage 2 counted a portal planned or piloted, and a dashboard: both go to `other`, since nothing is downloadable. Stage 4 asked for several bodies, a licence, bulk download or an interface and reuse together; the interface goes, as it needs the portal itself examined, and reuse moves to stage 5. Stage 5 asked for open data by default, timely, disaggregated and interoperable across the value chain: that is alignment and quality, and goes.
 
-`study.json` holds this as three aspects: `access` (`licensed`, `published`, `none`) for questions 1 and 2, `breadth` (`several`) for 3 and `reuse` (`reused`) for 4. **For the drafter**: the portal or site goes in `country_label` with its address, and the body that publishes in the fact.
+`study.json` holds this as two aspects: `access` (`licensed`, `published`, `none`) for questions 1 and 2, and `breadth` (`many`, `several`) for 3 and 4, `many` being four or more bodies.
+
+**Rung 5 rewritten** *(Bill, 2026-10-25)*: four or more public bodies publishing, named or counted within two years, replaces reuse, and a download or view count is not evidence of use. The five reuse facts were removed (`corrections.csv`). Burkina Faso holds 5; Libya and Togo rise from 4 to 5; Liberia and Senegal fall from 5 to 4; the Central African Republic falls from 5 to 3, its statistics portal the one publisher on record. **For the drafter**: the portal or site goes in `country_label` with its address, and the body that publishes in the fact.
 
 ## 4. The norm
 

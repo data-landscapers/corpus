@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://ess.gov.et/about-ess/departments/statistical-data-dissemination-and-access/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://ess.gov.et/about-ess/departments/statistical-data-dissemination-and-access/>).
-
 ***Noted, not assessed***. [Ethiopia OpenAgriNet](<https://ati.gov.et/the-ati-in-partnership-with-coss-and-protean-egov-launch-ethiopia-openagrinet/>); [data.gov.et](<https://documents1.worldbank.org/curated/en/557611531038811117/txt/Disclosable-Version-of-the-ISR-Ethiopia-Supporting-Open-Data-Initiative-P156400-Sequence-No-03.txt>); [open data policy guideline](<https://documents1.worldbank.org/curated/en/557611531038811117/txt/Disclosable-Version-of-the-ISR-Ethiopia-Supporting-Open-Data-Initiative-P156400-Sequence-No-03.txt>); [apps.gov.et](<https://documents1.worldbank.org/curated/en/557611531038811117/txt/Disclosable-Version-of-the-ISR-Ethiopia-Supporting-Open-Data-Initiative-P156400-Sequence-No-03.txt>); [Open Data Portal (common portal for sharing open data between government and private sector)](<http://www.mint.gov.et/documents/d/guest/final-mint-egov-services-evaluation-report-2023-?download=true>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

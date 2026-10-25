@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://zimstat.co.zw/odp2-0-tutorial-guide/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://zimstat.co.zw/odp2-0-tutorial-guide/>).
-
 ***Noted, not assessed***. [National Data Commons](<https://technomag.co.zw/zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge/>); [National AI and Data Platform](<https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85>); [Zimbabwe eCadastre](<http://www.zimcadastre.co.zw/>); [Open Data Portal 2.0](<https://www.newsday.co.zw/local-news/article/200049318/zimstat-un-team-up-to-boost-data-driven-development>); [OpenSDG](<https://www.newsday.co.zw/local-news/article/200049318/zimstat-un-team-up-to-boost-data-driven-development>); [Zimbabwe Data Portal (Open Data for Africa)](<https://pmc.ncbi.nlm.nih.gov/articles/PMC9413148/>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

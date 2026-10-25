@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://www.governo.cv/o-lancamento-do-portal-da-transparencia-representa-o-compromisso-do-governo-com-a-responsabilidade-publica-e-com-a-participacao-cidada-na-construcao-de-uma-sociedade-mais-justa-e-aberta/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.governo.cv/o-lancamento-do-portal-da-transparencia-representa-o-compromisso-do-governo-com-a-responsabilidade-publica-e-com-a-participacao-cidada-na-construcao-de-uma-sociedade-mais-justa-e-aberta/>).
-
 ***Noted, not assessed***. [Open Data Portal (Cabo Verde)](<https://www.opengovpartnership.org/members/cabo-verde/commitments/CV0004/>); [portal de dados abertos](<https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/>); [Sistema de Informação das Pescas (FIS)](<https://maa.gov.cv/index.php/noticias/425-cabo-verde-destaca-avancos-na-transparencia-das-pescas-em-evento-internacional-da-fiti-na-fao>); [Portal da Transparência](<https://www.governo.cv/portal-da-transparencia-em-consulta-publica/>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

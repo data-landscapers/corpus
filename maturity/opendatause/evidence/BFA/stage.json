@@ -5,14 +5,13 @@
       "sub_indicator": "use",
       "stage": "5",
       "access": "licensed",
-      "breadth": "several",
-      "reuse": "reused",
+      "breadth": "many",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-009;BFA-007",
+      "stage_sources": "BFA-007",
       "gaps": "",
-      "note": "The government's November 2025 submission to the UN CSTD names four applications reusing data.gov.bf data, with Open Election and NENDO built on BODI open data; reuse on record within three years is the top rung. The applications themselves date from the BODI years from 2014, and the source restates them.",
-      "as_at": "2026-10-22"
+      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): four or more public bodies publishing, named or counted within two years; reuse is no longer asked.",
+      "as_at": "2026-10-25"
     }
   ]
 }

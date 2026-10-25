@@ -1,6 +1,6 @@
 # Use of open data: use of open data
 
-*As at 2026-10-22.*
+*As at 2026-10-25.*
 
 ## The norm
 
@@ -14,15 +14,15 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 | 2 Published | Yes to 1: data published for download, no open licence on record |
 | 3 Licensed | Yes to 2: data published under an open licence |
 | 4 Several bodies | Yes to 3: two or more public bodies publish |
-| 5 Reused | Yes to 4: reuse of the data on record |
+| 5 Four or more bodies | Yes to 4: four or more public bodies publish, on a source from the last two years |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
+| 5 Leading | 3 |
 | 4 Operating | 4 |
-| 3 Established | 8 |
+| 3 Established | 9 |
 | 2 Nascent | 26 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
@@ -32,51 +32,44 @@ The African Union's Data Policy Framework (2022) asks states to open government 
 
 ### Burkina Faso: 5 Leading
 
-Government data was published under an open licence by several bodies in 2026, and applications reusing it were named in 2025.
+More than five national agencies published open-licensed data on one portal in 2026.
 
-- The government says four applications have been developed that reuse the data.gov.bf datasets, and that the BODI initiative led by ANPTIC produced Open Election and the NENDO school-data map on open data ([source, 2025-11-17](https://unctad.org/system/files/non-official-document/cstd2025-26_ai_c05_burkina_faso_fr.pdf)).
 - CITADEL says its portal holds more than 145 datasets from more than 5 national agencies and official portals ([source, 2026-06-17](https://data.citadel.bf/)).
 
-### Central African Republic: 5 Leading
+### Libya: 5 Leading
 
-Reuse of the government's published data is on record in 2026.
+Nine government bodies published datasets on the national open data platform in 2026.
 
-- The ICASEES page shows download counts per file, for example 165 downloads of the 2015-2025 key indicators file and 147 of the 2021-2022 yearbook ([source, 2026-08-05](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale)).
+- The GIA, which runs the platform at opendata.gia.gov.ly, reported statistics to February 2026 of 91 datasets, 9 active government entities participating and 8 sectors covered; the document does not tie the platform to an open data policy ([source, 2026-02-10](https://www.gia.gov.ly/en/2026/02/11/includes-91-datasets-the-general-authority-for-information-launches-new-indicators-through-the-open-data-platform/)).
 
-### Liberia: 5 Leading
+### Togo: 5 Leading
 
-Reuse of the government's published data is on record in 2026.
+The national geoportal carried data from 23 ministries in 2025.
 
-- The catalogue record for the survey dataset shows 273 downloads and 21,875 page views, as shown on the record at the document date (1 July 2026) ([source, 2026-07-01](https://microdata.lisgislr.org/index.php/catalog/43)).
-
-### Senegal: 5 Leading
-
-Reuse of the government's published data is on record in 2026.
-
-- ANSD's national data archive catalogue (ANADS) shows per-dataset view counts, including 4,808,203 views for the 2013 census (RGPHAE) and 19,910 for the 2023 census (RGPH5); the page has no date of its own, so the retrieval date is used ([source, 2026-09-03](http://anads.ansd.sn/index.php/catalog)).
+- The article states the Geoportail centralises data from 23 ministries and more than 550 administrative units, drawn from a 2021-2022 collection under the PRISE project; the article is dated 2025-01-08 and gives no date for the figure, so that date is used ([source, 2025-01-08](https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/)).
 
 ### Guinea-Bissau: 4 Operating
 
-Several public bodies published data for download in 2024; no reuse of it is on record.
+Several public bodies published data for download in 2024; four or more publishing bodies are not on record.
 
 - The IMF states the data on the page is provided by the National Institute of Statistics, the Ministry of Finance and the Central Bank of West African States ([source, 2024-07-08](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system)).
 - The communique says the page was developed with the National Institute of Statistics, the Ministry of Finance and the BCEAO national directorate ([source, 2024-06-14](http://stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/COMUNICADO/Comunicado_Divulga%C3%A7%C3%A3o_Dados_e_GDDS_INE_FMI.pdf)).
 
-### Libya: 4 Operating
+### Liberia: 4 Operating
 
-Several public bodies published data for download in 2026; no reuse of it is on record.
+Two public bodies published mining data online in 2026; four or more publishing bodies are not on record.
 
-- The GIA, which runs the platform at opendata.gia.gov.ly, reported statistics to February 2026 of 91 datasets, 9 active government entities participating and 8 sectors covered; the document does not tie the platform to an open data policy ([source, 2026-02-10](https://www.gia.gov.ly/en/2026/02/11/includes-91-datasets-the-general-authority-for-information-launches-new-indicators-through-the-open-data-platform/)).
+- The EITI validation report names two public data sources providing production and export data by company, the LEITI Data Warehouse and the Ministry of Mines and Energy's online cadastre. The date is the report's own (2026-07-23) ([source, 2026-07-23](https://eiti.org/documents/liberia-2026-validation-report)).
 
-### Togo: 4 Operating
+### Senegal: 4 Operating
 
-Several public bodies published data for download in 2025; no reuse of it is on record.
+Two public bodies published data on the national geoportal in 2025; four or more publishing bodies are not on record.
 
-- The article states the Geoportail centralises data from 23 ministries and more than 550 administrative units, drawn from a 2021-2022 collection under the PRISE project; the article is dated 2025-01-08 and gives no date for the figure, so that date is used ([source, 2025-01-08](https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/)).
+- The Géoportail carries data from at least two public bodies, the Centre de suivi écologique (bushfire areas 2023) and ANSD (school locations 2023); the article carries no date, so the site's news date is used ([source, 2025-11](https://www.geosenegal.gouv.sn/une-nouvelle-ere-pour-l-information-geospatiale-au-senegal.html)).
 
 ### Zambia: 4 Operating
 
-Several public bodies published data for download in 2026; no reuse of it is on record.
+Several public bodies published data for download in 2026; four or more publishing bodies are not on record.
 
 - The article says the geoportal integrates datasets from custodians such as the Zambia Electricity Supply Corporation and the Road Development Agency; as_of is the document date, 2026-06-18 ([source, 2026-06-18](https://spaceinafrica.com/2026/06/18/zambia-launches-national-spatial-data-infrastructure-policy-and-geoportal-built-on-open-source-software/)).
 
@@ -85,6 +78,13 @@ Several public bodies published data for download in 2026; no reuse of it is on 
 Government data was published under an open licence on the Plateforme de Données Ouvertes (INSBU) in 2025; several publishing bodies are not on record.
 
 - INSBU's Accord de Licence Ouverte grants a free, worldwide, non-exclusive licence to use, copy, modify, distribute and build derivative products from the platform's data, commercially or not, with attribution; dated by the proxy capture date 2025-06-10 ([source, 2025-06-10](https://www.insbu.bi/useragreement)).
+
+### Central African Republic: 3 Established
+
+The statistics institute published data under an open licence in 2026; no other publishing body is on record.
+
+- ICASEES's education data page offers yearbook and key-indicator files for download, each marked licence CC BY 4.0 ([source, 2026-08-05](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale)).
+- ICASEES confirmed at a regional meeting that a new open licence is integrated on its Open Data portal and institutional website ([source, 2026-06](https://www.icasees.org/index.php/actualites/364-icasees-participation-de-la-republique-centrafricaine-a-la-reunion-regionale-de-suivi-des-mises-a-jour-odin-odp)).
 
 ### Madagascar: 3 Established
 

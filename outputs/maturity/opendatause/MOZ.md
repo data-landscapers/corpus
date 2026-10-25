@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://www.dadosinfra.co.mz/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.dadosinfra.co.mz/>).
-
 ***Noted, not assessed***. [Centralized open data portal administered by the NDGC (proposed)](<https://intic.gov.mz/wp-content/uploads/2025/11/Mozambique-Zero-Draft-2-Data-Governance-Policy-1.pdf>).
 
-***Not held***. No source held since October 2023 names two or more public bodies publishing data.
+***Not held***. No source held since October 2023 names two or more public bodies publishing data, and none since October 2024 names or counts four or more.

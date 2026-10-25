@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** [The Géoportail carries data from at least two public bodies, the Centre de suivi écologique (bushfire areas 2023) and ANSD (school locations 2023)](<https://www.geosenegal.gouv.sn/une-nouvelle-ere-pour-l-information-geospatiale-au-senegal.html>).
 
-**Reuse on record.** [ANSD's national data archive catalogue (ANADS) shows per-dataset view counts, including 4,808,203 views for the 2013 census (RGPHAE) and 19,910 for the 2023 census (RGPH5)](<http://anads.ansd.sn/index.php/catalog>).
-
 ***Noted, not assessed***. [ANADS (Archivage national des données du Sénégal), ANSD catalogue](<http://anads.ansd.sn/index.php/catalog/337>); [Digital Earth Africa](<https://aws.amazon.com/blogs/publicsector/digital-earth-africa-and-aws-are-making-satellite-data-work-for-africa/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held since October 2024 names or counts four or more public bodies publishing data.

@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** [The IMF states the data on the page is provided by the National Institute of Statistics, the Ministry of Finance and the Central Bank of West African States](<https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system>). [The communique says the page was developed with the National Institute of Statistics, the Ministry of Finance and the BCEAO national directorate](<http://stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/COMUNICADO/Comunicado_Divulga%C3%A7%C3%A3o_Dados_e_GDDS_INE_FMI.pdf>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system>).
-
 ***Noted, not assessed***. [GEMS digital school inspection dashboards](<https://blogs.worldbank.org/en/opendata/from-paper-forms-to-data-driven-decisions--how-gems-improved-sch>); [Gender Data Portal](<https://documents1.worldbank.org/curated/en/099037006302214402/pdf/IDU06117454a06d9c041600bf07075952fc5ee49.pdf>); [Sistema de Informação de Planos e Projetos (SIPP)](<https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/>).
 
-***Not held***. No source held since October 2023 names an application, research or report built on the data, or a usage figure.
+***Not held***. No source held since October 2024 names or counts four or more public bodies publishing data.

@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://data.gov.gh/about>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://data.gov.gh/about>).
-
 ***Noted, not assessed***. [Ghana Open Data Initiative portal (data catalogue)](<https://data.gov.gh/about>); [StatsBank 2.0](<http://www.statsghana.gov.gh/releases/upcoming/statsbank-2-release>); [GHEITI open data portal](<https://eiti.org/sites/default/files/attachments/gheiti_open_data_policy.pdf>); [National Air Quality Data Hub](<https://www.myjoyonline.com/knust-epa-test-national-air-quality-data-hub-ahead-of-ghana-rollout/>); [Fisheries Information System](<https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/>).
 
-***Not held***. No source held since October 2023 states an open licence for the data.
+***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

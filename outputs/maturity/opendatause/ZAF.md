@@ -6,8 +6,6 @@
 
 **Several public bodies publishing.** No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: [the one given above](<https://www.linkedin.com/pulse/when-open-data-misses-streetlight-rethinking-impact-joanne-parker-tq84f/>).
 
-**Reuse on record.** No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: [the one given above](<https://www.linkedin.com/pulse/when-open-data-misses-streetlight-rethinking-impact-joanne-parker-tq84f/>).
-
 ***Noted, not assessed***. [National rapid deployment GIS database (draft regulation 7)](<https://techcentral.co.za/icasa-moves-to-mandate-national-infrastructure-database/280056/>); [SADIS broadband GIS map](<https://techcentral.co.za/sa-finally-has-a-broadband-map-and-it-reveals-where-the-gaps-are/279660/>); [MzansiXchange](<https://www.globalgovernmentforum.com/south-africa-pilots-government-data-exchange-to-improve-policymaking-and-service-delivery/>); [Open data sharing framework](<https://www.linkedin.com/pulse/when-open-data-misses-streetlight-rethinking-impact-joanne-parker-tq84f/>); [Climate Observer](<https://openup.org.za/blog/policy-lessons-from-a-data-classroom>); [Wazimap](<https://openup.org.za/blog/policy-lessons-from-a-data-classroom>).
 
 ***Not held***. No source held since October 2023 names a second public body publishing data under an open licence.
