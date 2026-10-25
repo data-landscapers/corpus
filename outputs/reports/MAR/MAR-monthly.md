@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: MAR
-ledger_rows: 32
+ledger_rows: 35
 not_held: 14
-record: 73dc292caf2c
+record: 4b34141c687c
 ---
 
 # News, Sep – Oct 2026
@@ -341,6 +341,48 @@ Morocco's central bank published two research working papers on a central bank d
 **[زحف "الكاش" يمتحن نجاعة خطط "بنك المغرب" لتوسيع الأداء الرقمي](https://www.hespress.com/%d8%b2%d8%ad%d9%81-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d9%86%d8%ac%d8%a7%d8%b9%d8%a9-%d8%ae%d8%b7%d8%b7-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1821861.html)** — Hespress, 13 October 2026
 
 Cash in circulation in Morocco reached 550.3 billion dirhams at the end of August 2026, up 12.1% since the end of 2025, according to Bank Al-Maghrib data. Cash withdrawals made up 85% of the value of card transactions in 2025, even as bank cards rose 7.7% to 23.5 million. The central bank is expanding merchant acceptance, a unified QR payment platform and digital public payments.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Instant transfer platform (PCVI)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rapport annuel sur les infrastructures de marchés financiers et les moyens de paiement - Exercice 2025](https://www.bkam.ma/content/download/852741/9198194/Rapport%20annuel%20DSSMP%202025.pdf)** — Bank Al-Maghrib, 21 October 2026
+
+Cash incl. banks' holdings MAD 513bn at end-2025, +15.5%, 30% of GDP; withdrawals 87% of card value.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Payments Development Strategy 2024-2028</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Rapport annuel sur les infrastructures de marchés financiers et les moyens de paiement - Exercice 2025](https://www.bkam.ma/content/download/852741/9198194/Rapport%20annuel%20DSSMP%202025.pdf)** — Bank Al-Maghrib, 21 October 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Switch Al-Maghrib (SWAM) card and mobile switch</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Rapport annuel sur les infrastructures de marchés financiers et les moyens de paiement - Exercice 2025](https://www.bkam.ma/content/download/852741/9198194/Rapport%20annuel%20DSSMP%202025.pdf)** — Bank Al-Maghrib, 21 October 2026
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 

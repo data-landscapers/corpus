@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: MUS
-ledger_rows: 28
+ledger_rows: 30
 not_held: 7
-record: 2678a8f466c4
+record: 47e762acb998
 ---
 
 # News, Sep – Oct 2026
@@ -351,6 +351,8 @@ The Bank of Mauritius is tendering for the supply and implementation of a threat
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -397,6 +399,36 @@ Mauritius's digital driving licence takes legal effect on 1 January 2027, after 
 **[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 The Governor of the Bank of Mauritius, Priscilla Muthoora Thakoor, told a Financial Stability Board workshop in Port Louis on 15 July 2026 that sub-Saharan Africa will miss the G20's 2027 targets for cross-border payments. She described REPSS, SADC-RTGS, TCIB and PAPSS as complementary regional systems and warned that stablecoins could undermine monetary sovereignty. The speech was posted on 13 October.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cashless Electronic Ticketing System (buses)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PQ : Paiement électronique dans les bus : Trois offres reçues](https://lexpress.mu/node/563934)** — L'Express (Maurice), 22 October 2026
+
+Three bids for CETS consultancy; selection by end-October 2026; six-month study; no go-live date; clearing house needed.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil Status Division register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[État civil : nouveau format pour les actes de naissance, de mariage et de décès dès le 19 octobre](https://defimedia.info/etat-civil-nouveau-format-pour-les-actes-de-naissance-de-mariage-et-de-deces-des-le-19-octobre)** — Le Defi Media Group, 13 October 2026
+
+Security-paper certificates with database-generated serial numbers from 19 October 2026.
 
 </div>
 

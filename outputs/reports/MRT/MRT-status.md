@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-10-23
+compiled: 2026-10-25
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 168
+sources_cited: 169
 sections_written: 39
 not_established: 3
 acquire_lines: 39
@@ -309,7 +309,7 @@ The capacity of Mauritania's statistical system rose 11.6 points over the decade
 
 The improvement is unevenly spread. Across the five pillars of the [World Bank's Statistical Performance Indicators](https://www.worldbank.org/en/programs/statistical-performance-indicators), Mauritania scored above 89 per cent on the use of data but only 20 to 49 per cent on data sources in 2023, with data services and infrastructure in the 50 to 69 band and data products at 70 to 89. It is the collection of source material, not its processing or its use, that constrains the system.
 
-That shows in the collection calendar. A population census has been held within the last ten years, but [neither an agricultural census nor an economic or business census in the last twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators). The survey programme leans the same way: [three or more health surveys, two household surveys, two labour surveys and one agricultural survey in the decade to 2023, and no business or establishment survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators). The productive economy is the part of the country least often measured.
+That shows in the collection calendar. The fifth population census, run in 2023, [counted 4,927,532 people in 834,352 ordinary households in its final results of June 2025](https://ami.mr/fr/archives/273720), but there has been [neither an agricultural census nor an economic or business census in the last twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators). The survey programme leans the same way: [three or more health surveys, two household surveys, two labour surveys and one agricultural survey in the decade to 2023, and no business or establishment survey at all](https://www.worldbank.org/en/programs/statistical-performance-indicators). The productive economy is the part of the country least often measured.
 
 Gaps of that kind carry into the comparative record. The [2024 Ibrahim Index has no data for Mauritania on 15 of its 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf), among them human resources in education and every one of the index's public perception measures, so the country is scored on a smaller instrument than its neighbours are.
 

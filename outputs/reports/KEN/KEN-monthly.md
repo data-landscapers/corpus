@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-25
+period: 2026-09-01 to 2026-10-25
 place: KEN
-ledger_rows: 148
+ledger_rows: 149
 not_held: 7
-record: 892f0aee5c87
+record: 27d6e36d1be3
 ---
 
 # News, Sep – Oct 2026
@@ -1694,6 +1694,14 @@ Kenya's Auditor-General found that the NEMIS learner database, replaced by KEMIS
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Education ministry sued over ‘flaws’ in KEMIS Portal](https://nation.africa/kenya/news/education/education-ministry-sued-over-flaws-in-kemis-portal-5640290)** — Daily Nation, 21 October 2026
+
+Petition: 1,000-school display cap, 28 of 418 combinations empty; asks court to halt 2026 placements and reopen portal.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -2806,6 +2814,8 @@ Power Learn Project is training 1,700 young people from refugee and host communi
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Data">
 <a href="#national-statistics">National statistics</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
 </nav>
 
 ### National statistics
@@ -2833,6 +2843,22 @@ The Communications Authority of Kenya and the University of Nairobi's Institute 
 **[Kenya's second IDC Action Plan expands the country's commitments to inclusive data](https://www.data4sdgs.org/news/kenyas-second-idc-action-plan-expands-countrys-commitments-inclusive-data)** — Global Partnership for Sustainable Development Data, 8 October 2026
 
 Kenya drafted its second Inclusive Data Charter action plan, for 2026 to 2030, at a workshop on 5 to 7 October. It widens the first plan's focus on disability to gender, children and older persons.
+
+</div>
+
+</div>
+
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Community-Based Monitoring and Information System (northern Kenya)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Who owns Indigenous data? Kenyan communities demand more control](https://nation.africa/kenya/climate/who-owns-indigenous-data-kenyan-communities-demand-more-control-5641966)** — Daily Nation, 22 October 2026
+
+IMPACT Kenya and The Engine Room build community monitoring system with community-set data ownership rules; COP17.
 
 </div>
 

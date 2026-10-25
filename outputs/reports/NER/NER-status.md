@@ -1,12 +1,12 @@
 ---
 title: Niger: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 177
+sources_cited: 179
 sections_written: 39
 not_established: 1
 acquire_lines: 33
@@ -330,7 +330,7 @@ What is being spent against the geography is largely one operation — the World
 ### National statistics
 <!-- data.statistics -->
 
-Niger's [2025 business census counted 153,661 formally registered enterprises](https://www.stat-niger.org/?p=5392), a stocktake of the formal economy in a country that had [run no business or establishment survey at all in the decade to 2023](https://www.worldbank.org/en/programs/statistical-performance-indicators), against three or more household, health and agricultural rounds and two labour force surveys over the same period. The same indicators place a population census and an agricultural census within the previous twenty years and a business census within ten (2023). [The statistics institute's yearbook for 2020-2024, covering demography, health, education and national accounts, was validated on 30 April 2025](https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2020_2024_vf.pdf).
+Niger's [2025 business census counted 153,661 formally registered enterprises](https://www.stat-niger.org/?p=5392), a stocktake of the formal economy in a country that had [run no business or establishment survey at all in the decade to 2023](https://www.worldbank.org/en/programs/statistical-performance-indicators), against three or more household, health and agricultural rounds and two labour force surveys over the same period. The same indicators place a population census and an agricultural census within the previous twenty years and a business census within ten (2023). The fifth population census [was piloted with digital collection tools in 96 enumeration areas of three Maradi communes from February 2026](https://www.stat-niger.org/?p=5728), and [the pilot was evaluated in May](https://anp.ne/rgph-5-les-acteurs-evaluent-le-denombrement-pilote-effectue-dans-la-region-de-maradi/); no date for the general enumeration had been published as at October 2026. [The statistics institute's yearbook for 2020-2024, covering demography, health, education and national accounts, was validated on 30 April 2025](https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/annuaire/annuaire_statistique_ins_2020_2024_vf.pdf).
 
 The weakness sits in collection rather than in what is done with the results. On the World Bank's [Statistical Performance Indicators for 2023 Niger scores above 89 per cent on data use but only 20 to 49 per cent on data sources](https://www.worldbank.org/en/programs/statistical-performance-indicators), the weakest of the five pillars, with data products at 70 to 89 per cent and both data services and data infrastructure in the 50 to 69 per cent band. The Ibrahim Index puts the [capacity of the statistical system at 43.8 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf), 33rd of 54 African states and 3.2 points higher than a decade earlier.
 
