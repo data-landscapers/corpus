@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules;redress",
+ "fact": "The AFI survey report states that in the West African Monetary Union, Mali included, consumer protection for digital financial services is handled through provisions in e-money, banking, microfinance and payments rules, that the union lacks a common consumer protection authority, and that only Senegal and Cote d'Ivoire have a consumer protection office (observatoire) taking complaints.",
+ "title": "Consumer Protection for Digital Financial Services: survey report",
+ "publisher": "Alliance for Financial Inclusion",
+ "published": "2024-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

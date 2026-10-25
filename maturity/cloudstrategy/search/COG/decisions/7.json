@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "ARPCE launched a government data centre in Pointe-Noire (54 racks) in March 2024, with equipment able to host all public administration data; no policy requiring bodies to use it is stated.",
+ "title": "Congo launches facility to store sovereign data in Pointe-Noire",
+ "publisher": "Telecompaper",
+ "published": "2024-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

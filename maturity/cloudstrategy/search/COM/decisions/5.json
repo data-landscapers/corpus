@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On 14 May 2025 the authorities announced the inauguration on 19 May of the public administration data centre, a Tier 3 facility co-managed by ANADEN and Comores Câble, built to securely host state digital platforms and centralise public data.",
+ "title": "Comores : inauguration du centre de données de l’administration publique le 19 mai",
+ "publisher": "Agence Ecofin",
+ "published": "2025-05-14",
+ "date_source": "source",
+ "why_not": ""
+}

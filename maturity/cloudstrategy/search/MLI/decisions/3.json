@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "A Tier III data centre was put into service in Bamako at the Semaine du Numérique to host the state's e-administration platforms, public databases and information systems, whereas until then part of Mali's administrative data was hosted abroad; no capacity figure or count of migrated services was given.",
+ "title": "Données publiques : une infrastructure dédiée",
+ "publisher": "Journal du Mali",
+ "published": "2026-02-02",
+ "date_source": "source",
+ "why_not": ""
+}

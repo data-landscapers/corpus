@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules;enforced",
+ "fact": "Directive No 43/2025 of 08/12/2025 sets conduct rules for digital credit, digital account opening and digital savings, with a schedule of pecuniary sanctions and a 12-month alignment period for existing providers.",
+ "title": "Directive No 43/2025 of 08/12/2025 on Digital Credit, Digital Account Opening, and Digital Savings",
+ "publisher": "National Bank of Rwanda",
+ "published": "2025-12-08",
+ "date_source": "source",
+ "why_not": ""
+}

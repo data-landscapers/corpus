@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules",
+ "fact": "The framework says a National Payment System law is being drafted to protect consumers and requires e-money issuers to hold customer funds in a dedicated trust account equal to e-money balances, with the Consumer Protection Act applying to fintech payment services.",
+ "title": "Fintech Analytical Assessment Framework",
+ "publisher": "Bank of Botswana",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

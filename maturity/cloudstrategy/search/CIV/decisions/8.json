@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "ARTCI told the FRATEL May 2024 seminar that a national datacentre for the administration was being set up (in progress), with texts on tier 2/3 datacentres for the administration and a proposed framework for storing administration data in local datacentres.",
+ "title": "Quelles interventions publiques pour remédier aux potentielles défaillances du marché du stockage et du traitement de la donnée ?",
+ "publisher": "ARTCI (Séminaire FRATEL 2024)",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

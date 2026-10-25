@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules;redress",
+ "fact": "The 2025-2030 national financial inclusion strategy states that consumer protection in the Comorian financial sector remains insufficient, with fee-display rules only partly applied and the digital-services framework still in development, and it plans guidelines, complaint mechanisms and fee transparency.",
+ "title": "Stratégie Nationale d'Inclusion Financière 2025-2030",
+ "publisher": "Banque Centrale des Comores",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

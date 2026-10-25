@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "NOSi's 2024 activity plan sets as 2024 objectives to implement a blockchain-based government cloud and to improve the NOSiCloud technologies and interoperability between the private cloud, public cloud and legacy platforms on the state network (RTPE).",
+ "title": "Plano de Atividades e Orçamento 2024 (PAO 2024)",
+ "publisher": "NOSi E.P.E.",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

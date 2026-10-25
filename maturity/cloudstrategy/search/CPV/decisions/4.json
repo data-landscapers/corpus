@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "NOSi operates a national hybrid-cloud data centre that hosts government platforms (financial, health, identity systems) and provides IaaS, SaaS and backup to state institutions.",
+ "title": "NOSi Cape Verde digital and innovation agency",
+ "publisher": "btw.media",
+ "published": "2025-07-23",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "csskills",
+ "aspect": "training",
+ "fact": "UNESCO held two AI training sessions in Abidjan on 15-17 and 21-23 April 2026 for more than 60 officials of ENS and ENA, with EU funding.",
+ "title": "Renforcer les compétences en IA des fonctionnaires ivoiriens",
+ "publisher": "UNESCO",
+ "published": "2026-05-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

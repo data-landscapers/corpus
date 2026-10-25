@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "The USAID Mali Digital Ecosystem Country Assessment finds that Mali does not have a central policy or regulation guiding the digitisation of government services and systems.",
+ "title": "Mali Digital Ecosystem Country Assessment (DECA)",
+ "publisher": "USAID",
+ "published": "2023-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

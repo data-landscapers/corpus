@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "csskills",
+ "aspect": "training",
+ "fact": "On 20 November 2024 the Ministry of Communication launched office-tools training (Word, Excel, PowerPoint, Outlook, Teams) for its 265 agents.",
+ "title": "Lancement officiel de la formation en outils bureautiques",
+ "publisher": "Ministère de la Communication, Porte-Parole du Gouvernement",
+ "published": "2024-11-21",
+ "date_source": "source",
+ "why_not": ""
+}

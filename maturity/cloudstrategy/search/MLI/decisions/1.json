@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "In an expression-of-interest notice of 2026 the state company SMTD-SA, funding it from its own resources, seeks a consultant to take its existing OpenStack cloud commercially live across two new national datacentres at Senou and Kati.",
+ "title": "Avis à Manifestation d'Intérêt n°02/2026/DFC-SMTD-SA : recrutement d'un cabinet d'études informatiques pour l'opérationnalisation et la mise en service commercial (Go-Live) de l'offre Cloud sur les deux nouveaux datacenters nationaux",
+ "publisher": "Société Malienne de Transmission et de Diffusion (SMTD-SA)",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

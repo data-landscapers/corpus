@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules",
+ "fact": "Regulation 15 of the National Payment System (Electronic Money) Regulations, 2022 requires every electronic money issuer to comply with the Financial Consumer Protection Act, 2022; issuers already operating had six months to comply.",
+ "title": "National Payment System (Electronic Money) Regulations, 2022",
+ "publisher": "Official Gazette, Republic of Seychelles",
+ "published": "2022-12-12",
+ "date_source": "source",
+ "why_not": ""
+}

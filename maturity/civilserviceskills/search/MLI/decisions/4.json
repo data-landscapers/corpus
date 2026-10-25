@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "csskills",
+ "aspect": "training",
+ "fact": "On 20 April 2026 INSTAT opened a capacity-building workshop in Bamako training officials of the national statistical system on the digital data-collection tools CSPro and ODK.",
+ "title": "Atelier de renforcement des capacités des cadres du SSN sur CSPro et ODK",
+ "publisher": "INSTAT",
+ "published": "2026-04-20",
+ "date_source": "source",
+ "why_not": ""
+}

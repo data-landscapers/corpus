@@ -17,9 +17,9 @@ businessregister,business,dpi.registry--business-register,2026-10-23,23,58.2,225
 censuses,census,data.statistics--censuses-and-surveys,2026-10-24,22,92.5,293
 centralbank,centralbank,dpi.pay--governance-role-of-central-bank,2026-10-24,22,92.5,227
 civilregister,civil,dpi.registry--civil-register,2026-10-24,22,92.6,183
-civilserviceskills,csskills,capacity.literacy--digital-literacy-civil-service,,,,
-cloudstrategy,policy,gov.policy--data-storage-cloud-strategy,,,,
-consumerprotection,protection,dpi.pay--consumer-protection,,,,
+civilserviceskills,csskills,capacity.literacy--digital-literacy-civil-service,2026-10-25,17,65.9,171
+cloudstrategy,policy,gov.policy--data-storage-cloud-strategy,2026-10-25,17,65.9,104
+consumerprotection,protection,dpi.pay--consumer-protection,2026-10-25,17,66.0,151
 coresystems,core,infra.capacity--robustness-of-government-hardware-and-software,,,,
 crossborderpayments,crossborder,dpi.pay--cross-border-functionality,,,,
 customs,customs,dpi.mis--customs,,,,

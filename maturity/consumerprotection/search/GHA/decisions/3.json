@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules;redress;enforced",
+ "fact": "The Bank of Ghana Directive for Digital Credit Services Providers in Ghana (September 2025) came into effect on 1 November 2025, with a consumer and data protection section, a 20-day complaint resolution rule, and licence suspension and revocation powers and administrative penalties for breach.",
+ "title": "Directive for Digital Credit Services Providers in Ghana",
+ "publisher": "Bank of Ghana",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

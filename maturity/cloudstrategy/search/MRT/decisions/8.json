@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "On Thursday 8 May 2025 the President inaugurated the Nouakchott Data Center, offering cloud hosting within national borders to public administrations among others, to store and protect sovereign data.",
+ "title": "The President of the Republic supervises the inauguration of the Nouakchott Data Center",
+ "publisher": "Agence mauritanienne d'information",
+ "published": "2025-05-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

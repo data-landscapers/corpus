@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "redress;enforced",
+ "fact": "In 2023 regulated financial providers received 52,082 consumer complaints (14,340 in 2022), of which 52,041 (99.92%) were resolved, with payment institutions accounting for 98.41% of complaints received.",
+ "title": "Rapport d'enquête sur l'offre des produits et services financiers formels au Burundi, exercice 2023",
+ "publisher": "Banque de la République du Burundi",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

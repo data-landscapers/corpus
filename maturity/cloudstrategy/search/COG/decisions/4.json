@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "In February 2026 the government confirmed the national data centre in Brazzaville was 95% complete, with operation promised by May 2026 and designed to host the country's sovereign government data; it was not yet in service.",
+ "title": "Le Data Center et le satellite sont dans leur phase final",
+ "publisher": "Le Journal du Congo",
+ "published": "2026-02-26",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "The observatory states that Comoros has no confirmed standalone AI strategy, AI law, cloud-first policy or IoT roadmap, and that cloud readiness is developing through local hosting capacity including the public administration data centre inaugurated on 19 May 2025.",
+ "title": "Comoros | Digital Watch Observatory",
+ "publisher": "Geneva Internet Platform (Digital Watch Observatory)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

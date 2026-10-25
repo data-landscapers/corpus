@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-25 02:24 · **REBUILD** · unclocked · consumerprotection protection: 6 cells reassessed, 6 moved; 54 searched, 151 staged; 66.0M tokens (third of a shared window) - ok
+2026-10-25 02:24 · **REBUILD** · unclocked · cloudstrategy policy: 2 cells reassessed, 2 moved; 54 searched, 104 staged; 65.9M tokens (third of a shared window) - ok
+2026-10-25 02:24 · **REBUILD** · 17m · civilserviceskills csskills: 3 cells reassessed, 2 moved; 54 searched, 171 staged; 65.9M tokens (third of a shared window) - ok
 2026-10-25 02:21 · **REVIEW** · 13m · CPV: status 13 sections revised, progress 4 cells, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
 2026-10-25 02:16 · **REVIEW** · 8m · DJI: status 11 sections revised (6 trimmed), progress 0 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-25 02:07 · **BUILD** · 1h22m · catalogue 33,288; 518 sources, 46 moved, 143 minted, 89 status sections revised; data centres 3, 1 added; maturity 37 facts, 23 stages moved; bulletin 6; finance 12 sittings, 10 waiting; register 10; notes 260-262 - ok

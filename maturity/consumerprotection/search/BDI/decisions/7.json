@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules;enforced",
+ "fact": "BRB Circular 01/2020 of 29 May 2020 sets the sanctions matrix under Regulation 001/2019 on consumer protection, including a section on digital financial services breaches (e.g. BIF 20,000 per transaction not notified electronically, restitution of losses from online-system failures).",
+ "title": "Circulaire N° 01/2020 relative à la matrice des sanctions applicables aux fournisseurs des produits et services financiers, édictée en vertu du règlement N° 001/2019",
+ "publisher": "Banque de la République du Burundi",
+ "published": "2020-05-29",
+ "date_source": "source",
+ "why_not": ""
+}

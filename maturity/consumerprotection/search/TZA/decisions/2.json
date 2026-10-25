@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules",
+ "fact": "The Citizen reported on 20 November 2025 that the Bank of Tanzania is drafting regulations to oversee digital financial platforms (stated in the headline; the fetched text carries no article body).",
+ "title": "Bank of Tanzania drafts regulations to oversee digital financial platforms",
+ "publisher": "The Citizen",
+ "published": "2025-11-20",
+ "date_source": "source",
+ "why_not": ""
+}

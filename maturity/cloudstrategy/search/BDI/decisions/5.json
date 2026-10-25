@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "The article reports that the Master Plan for the Digitalization of Public Services (PDDSP 2023-2033) notes the absence of a National Data Center, leaving sensitive data scattered, and calls for establishing a National Integrated Data Center.",
+ "title": "Burundi embarks on a full digitalization journey",
+ "publisher": "Community Voice",
+ "published": "2026-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

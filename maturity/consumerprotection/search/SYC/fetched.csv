@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.nationalassembly.sc/sites/default/files/2026-04/Central%20Bank%20of%20Seychelles%20_Annual%20Report%202025.pdf,held,held as raw/2026/2026-03-31-cbs-annual-report-2025.md,,0,,
+2,https://www.cbs.sc/Downloads/ConsumerProtection/ComplaintsData/Consumer%20Complaints%20Data%20-H1%20and%20H2%202025.pdf,fetched,,scripts/.workroot/study/consumerprotection/cache/SYC/2.txt,909,pdf,
+3,https://www.gazette.sc/sites/default/files/2025-12/SI%2099%202025%20No%202%20-%20National%20Payment%20System%20%28Licensing%20and%20Authorisation%29%20%28Amendment%29%20Regulations%202025.pdf,held,held as raw/2025/2025-12-15-seychelles-nps-licensing-authorisation-amendment-regs-2025.md,,0,,
+4,https://www.nationalassembly.sc/legislation/statutory-instrument-sis/si-110-2024-financial-consumer-protection-complaint-handling,unfetchable,"HTTP 500; Wayback HTTP 429, not checked",,0,,
+5,https://www.cbs.sc/Downloads/legislations/SI%20110%202024%20-%20Financial%20Consumer%20Protection%20(Complaint%20Handling)%20Regulations%202024.pdf,fetched,,scripts/.workroot/study/consumerprotection/cache/SYC/5.txt,2510,pdf,SI 110 2024 - Financial Consumer Protection (Complaint Handling) Regulations 2024
+6,https://www.cbs.sc/Consumer/ConsumerComplaint.html,fetched,,scripts/.workroot/study/consumerprotection/cache/SYC/6.txt,111,html,Central Bank Of Seychelles
+7,https://www.cbs.sc/Consumer/ConsumerLaws.html,held,held as raw/2024/2024-01-01-consumer-laws.md,,0,,
+8,https://www.cbs.sc/Downloads/legislations/SI%20128%202022%20-%20National%20Payment%20System%20(Electronic%20Money)%20Regulations%202022.pdf,fetched,,scripts/.workroot/study/consumerprotection/cache/SYC/8.txt,5246,pdf,SI 128 2022 - National Payment System Act 2022

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "csskills",
+ "aspect": "training",
+ "fact": "In early September 2023 Microsoft Office training under the Raqameyon programme began in Tripoli for employees of the Ministry of Higher Education, the Real Estate Registration Service and then the Ministry of Civil Service, aiming to train over 2,000 employees.",
+ "title": "Microsoft Office Training Launched in Tripoli to Drive Libyan Digital Transformation",
+ "publisher": "Libya Herald",
+ "published": "2023-09-06",
+ "date_source": "source",
+ "why_not": "staging lint misreads the English body as flattened Portuguese; withheld rather than delivered with a lint finding"
+}

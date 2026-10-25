@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.bceao.int/index.php/fr/reglementations/avis-ndeg-006-05-2025-relatif-la-periode-transitoire-de-mise-en-conformite-aux,fetched,,scripts/.workroot/study/consumerprotection/cache/NER/1.txt,59,html,Avis n° 006-05-2025 relatif à la période transitoire de mise en conformité aux dispositions de l'Instruction n° 001-01-2024 du 23 janvier 2024 relative aux services de paiement dans l'UMOA
+2,https://www.bceao.int/sites/default/files/2024-02/Instruction%20N%C2%B0001-01-2024%20relative%20aux%20services%20de%20paiement%20dans%20l%27UMOA%20%20ok.pdf,fetched,,scripts/.workroot/study/consumerprotection/cache/NER/2.txt,17612,pdf,
+3,https://www.uncdf.org/fr/article/8603/vers-une-meilleure-protection-des-consommateurs-au-niger,held,held as raw/2024/2024-01-08-ner-uncdf-meilleure-protection-consommateurs-niger.md,,0,,
+4,https://www.findevgateway.org/sites/default/files/users/user346/6-%20Risques%20des%20SFN%20et%20am%C3%A9lioration%20de%20la%20protection%20des%20consommateurs_BCEAO.pdf,held,held as raw/2023/2023-05-08-xwa-bceao-risques-sfn-protection-consommateurs.md,,0,,
+5,https://www.bceao.int/sites/default/files/2022-09/Rapport%20semestriel%20de%20surveillance%20des%20moyens%20et%20services%20de%20paiement%20-%20De%CC%81cembre%202021.pdf,fetched,,scripts/.workroot/study/consumerprotection/cache/NER/5.txt,2793,pdf,
+6,https://www.afi-global.org/wp-content/uploads/2024/10/AFI_CEMCDFS_survey-report_AW2_digital.pdf,fetched,,scripts/.workroot/study/consumerprotection/cache/NER/6.txt,12167,pdf,

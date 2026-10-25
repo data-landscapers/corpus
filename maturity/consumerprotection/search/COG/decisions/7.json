@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "protection",
+ "aspect": "rules;redress",
+ "fact": "BCI Congo states that complaints are handled under COBAC Regulation R2020/06 (acknowledgement in 10 working days, final answer within 45 days) and that customers may then take the case free to the CNEF mediator, the mediation provisions of CEMAC Regulation 01/20 having applied from 1 January 2023.",
+ "title": "Réclamations",
+ "publisher": "Banque commerciale internationale (BCI) Congo",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://financialservices.govmu.org/Documents/National%20Fintech%20Strategy%20Report%20(Digital)-1.pdf,held,held as raw/2026/2026-05-22-mauritius-national-fintech-strategy-2026-2030.md,,0,,
+2,https://www.bom.mu/sites/default/files/bank_of_mauritius_year_ended_june_2025_final.pdf,held,held as raw/2025/2025-10-31-mus-annual-report-year-ended-june-2025.md,,0,,
+3,https://www.bom.mu/sites/default/files/the_national_payment_systems_act_2018_amended_finance_act_2025.pdf,held,held as raw/2025/2025-01-01-mus-the-national-payment-systems-act-2018.md,,0,,
+4,https://www.bom.mu/sites/default/files/bom_ar_2024_final.pdf,held,held as raw/2024/2024-10-30-bank-of-mauritius-annual-report-2023-24.md,,0,,
+5,https://ofsmauritius.govmu.org/ofsmauritius/wp-content/uploads/2023/12/Annual-Report-2022-2023-Office-of-Ombudsperson-for-Financial-Services.pdf,fetched,,scripts/.workroot/study/consumerprotection/cache/MUS/5.txt,10738,pdf,
+6,https://www.bom.mu/sites/default/files/guidelines_on_complaints_handling_policy_and_procedures_applicable_to_banks_and_nbdtis_licensed_by_the_bank_of_mauritius_issued_by_the_ombudsperson_for_financial_services.pdf,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+7,https://ofsmauritius.govmu.org/ofsmauritius/?page_id=3500,fetched,,scripts/.workroot/study/consumerprotection/cache/MUS/7.txt,234,html,Complaints we can help with
+8,https://www.bom.mu/sites/default/files/pdf/Legislation_Guidelines_Compliance/Guidelines/Guideline_Mobile_Banking_Mobile_PaymentSystem.pdf,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
