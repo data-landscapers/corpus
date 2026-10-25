@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: XAF
 ledger_rows: 118
 not_held: 3
-record: fb38fe7576d5
+record: 8b86d437f2ad
 ---
 
 # News, Sep – Oct 2026
@@ -740,7 +740,7 @@ Summarised under [Standards](#standards).
 
 **[AFRINIC’s four-pool IPv4 proposal and its post-exhaustion queue](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-four-ipv4-pools-queue)** — BTW Media, 23 October 2026
 
-Draft AFPUB-2026-IPv4-003 under discussion; four recovered-space pools; queue only after two pools empty.
+A draft AFRINIC policy, AFPUB-2026-IPv4-003-DRAFT01, submitted in June 2026 and under discussion, would sort recovered IPv4 space into four pools by origin, cap ordinary requests and open a first-come queue once the two main pools are empty. It is a proposal, not adopted policy.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: NGA
 ledger_rows: 171
 not_held: 9
-record: 98d2f351ae43
+record: 040994076756
 ---
 
 # News, Sep – Oct 2026
@@ -2068,7 +2068,7 @@ The Nigerian Postal Service switched on the National Digital Alphanumeric Postco
 
 **[NPC Seeks Unified System For Marriage, Divorce Registration As N’ east Zonal Consultation Opens In Adamawa](https://www.thisdaylive.com/2026/10/22/npc-seeks-unified-system-for-marriage-divorce-registration-as-n-east-zonal-consultation-opens-in-adamawa/)** — ThisDay, 22 October 2026
 
-North-East zonal review of draft harmonised protocol; paper-based fragmented system; VITALREG data management.
+Nigeria's National Population Commission opened a North-East zonal consultation in Yola on a draft harmonised protocol for marriage and divorce registration, part of strengthening the civil registration and vital statistics system. Stakeholders from the zone's six states reviewed the draft over two days.
 
 </div>
 

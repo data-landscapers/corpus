@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: BWA
 ledger_rows: 21
 not_held: 5
-record: 95eb16825861
+record: 494b1cd8cfa1
 ---
 
 # News, Sep – Oct 2026
@@ -124,7 +124,7 @@ Botswana's universal service fund, working with one mobile operator, has deploye
 
 **[ATU advances IPv6 testbed preparations in Botswana](https://techreviewafrica.com/news/7904/atu-advances-ipv6-testbed-preparations-in-botswana)** — Tech Review Africa, 24 October 2026
 
-BOCRA picks a host university by tender; ICANN-funded programme has trained 52 specialists from 26 countries.
+The African Telecommunications Union moved its IPv6 testbed for Botswana forward after a due-diligence visit to the regulator BOCRA, which has picked a university by tender to host it. The testbed is part of an ICANN-funded ATU programme under which 52 specialists from 26 African countries have been trained; the visit coincided with a Smart Africa and CRASA workshop in Gaborone on 20 to 22 October on cutting roaming costs in southern Africa.
 
 </div>
 
@@ -262,7 +262,7 @@ Botswana's Ministry of Labour and Home Affairs launched its civil registration a
 
 **[Botswana explores AI integration into National Health Insurance](https://www.mmegi.bw/ampArticle/124451)** — Mmegi, 21 October 2026
 
-Integrated patient-data platform planned; AI uses, costs and timeline unspecified; P77.8m allocated (2026).
+A consultant to Botswana's planned National Health Insurance scheme said authorities are considering digital and AI tools to coordinate public and private providers, now that Parliament has approved the NHI policy and a financing model is being prepared to accompany the bill. The government has allocated P77.8m this year to set up the scheme.
 
 </div>
 

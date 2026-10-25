@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: KEN
 ledger_rows: 149
 not_held: 7
-record: 27d6e36d1be3
+record: b49a08d29953
 ---
 
 # News, Sep – Oct 2026
@@ -1698,7 +1698,7 @@ Kenya's Auditor-General found that the NEMIS learner database, replaced by KEMIS
 
 **[Education ministry sued over ‘flaws’ in KEMIS Portal](https://nation.africa/kenya/news/education/education-ministry-sued-over-flaws-in-kemis-portal-5640290)** — Daily Nation, 21 October 2026
 
-Petition: 1,000-school display cap, 28 of 418 combinations empty; asks court to halt 2026 placements and reopen portal.
+Two petitioners have asked a Kenyan court to stop the education ministry finalising senior-school placements, saying the KEMIS portal shows at most 1,000 schools for any subject combination without saying the list is cut. They say 26 combinations are affected, one of them listing 1,000 of 10,515 schools, and that some combinations show no schools at all.
 
 </div>
 
@@ -2858,7 +2858,7 @@ Kenya drafted its second Inclusive Data Charter action plan, for 2026 to 2030, a
 
 **[Who owns Indigenous data? Kenyan communities demand more control](https://nation.africa/kenya/climate/who-owns-indigenous-data-kenyan-communities-demand-more-control-5641966)** — Daily Nation, 22 October 2026
 
-IMPACT Kenya and The Engine Room build community monitoring system with community-set data ownership rules; COP17.
+Indigenous communities from northern Kenya presented a community-based monitoring and information system at the biodiversity COP17 in Yerevan, developed with the organisation IMPACT, to record traditional knowledge of grazing, water and wildlife digitally. They want that data recognised in national biodiversity reporting while staying under community control.
 
 </div>
 

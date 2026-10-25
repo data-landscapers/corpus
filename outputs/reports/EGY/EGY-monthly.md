@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: EGY
 ledger_rows: 102
 not_held: 41
-record: e862e9560688
+record: a1cdc7cbe1ed
 ---
 
 # News, Sep – Oct 2026
@@ -1786,7 +1786,7 @@ Egypt's IT industry development agency and GIZ launched work with 14 ICT compani
 
 **[Planning Minister reviews preparations for 2028 population census](https://sis.gov.eg/en/media-center/news/planning-minister-reviews-preparations-for-2028-population-census/)** — State Information Service (Egypt), 4 October 2026
 
-Planning minister and CAPMAS head review 2028 census preparations; field phases from second half of 2028.
+Egypt's planning minister Ahmed Rostom met the head of CAPMAS on 4 October 2026 to review preparations for the 2028 general census of population, housing and establishments, and pledged the ministry's logistical and institutional support. The results are to guide the Hayah Karima initiative, the national population strategy and housing policy.
 
 </div>
 

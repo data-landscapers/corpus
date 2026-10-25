@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: MOZ
 ledger_rows: 52
 not_held: 18
-record: 367ced5b70b7
+record: 2ea39466691d
 ---
 
 # News, Sep – Oct 2026
@@ -662,7 +662,7 @@ Electronic money accounts reached 130.9 per 100 adults in the second quarter of 
 
 **[Welcome, Mozambique! We are pleased to welcome Mozambique to the Pan-African Payment & Settlement System - PAPSS](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-papss-activity-7510672876509917184-5qEO)** — PAPSS (LinkedIn), 29 September 2026
 
-PAPSS announces Mozambique's accession with Banco de Moçambique and invites local banks to onboard.
+The Pan-African Payment and Settlement System announced that Mozambique has joined PAPSS together with Banco de Moçambique, and invited banks operating in the country to apply to be onboarded. The post names no bank already live on the system.
 
 </div>
 
@@ -1030,7 +1030,7 @@ Mozambique is to introduce a Media Barometer to measure audience trust and track
 
 **[INE enfrenta défice de 45 milhões de dólares para financiar o Recenseamento Geral](https://www.rm.co.mz/ine-enfrenta-defice-de-45-milhoes-de-dolares-para-financiar-o-recenseamento-geral/)** — Rádio Moçambique, 13 October 2026
 
-USD 60m of USD 110m secured for Mozambique's 2027 census, leaving a USD 45m gap, INE said on 13 Oct 2026.
+Mozambique's national statistics institute, INE, has about US$60m of the US$110m the next general census needs, US$45m of it from the government and the rest from partners, leaving a gap of about US$45m, its spokesman Pedro Duce said on releasing the results of the pilot census in Magude district. INE is still raising funds for a census next year.
 
 </div>
 

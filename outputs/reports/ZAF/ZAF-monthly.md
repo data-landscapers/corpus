@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: ZAF
 ledger_rows: 169
 not_held: 19
-record: c88b8973553b
+record: 451f13075f63
 ---
 
 # News, Sep – Oct 2026
@@ -1434,7 +1434,7 @@ Lesotho and South Africa concluded a mid-term review of their Bi-National Commis
 
 **[Mozambique–South Africa: Works under way at Ressano Garcia for future one-stop border post](https://clubofmozambique.com/news/mozambique-south-africa-works-under-way-at-ressano-garcia-for-future-one-stop-border-post/)** — Club of Mozambique, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a>
 
-About 980m meticais; concessionaire GTSA invests; integrated border systems; mineral-truck transit cut to ~5 minutes.
+Works have begun on a one-stop border post at Ressano Garcia on the Mozambique-South Africa border, at about 980m meticais, with six lanes, joint immigration and customs controls and integrated, automated border systems. The target is to cut transit for mineral trucks from up to an hour to about five minutes.
 
 </div>
 
@@ -3032,7 +3032,7 @@ The Online Retail in South Africa 2026 report finds 79.1% of adults online but o
 
 **[Premier Ntuli Launches Fibre Initiative to Bridge Digital Divide in KZN Communities](https://www.kznonline.gov.za/index.php?option=com_k2&view=item&id=3103%3Apremier-ntuli-launches-fibre-initiative-to-bridge-digital-divide-in-kzn-communities)** — KwaZulu-Natal Provincial Government (KZNONLINE), 22 October 2026
 
-405 households at Empangeni Phase 1A housing; fibre laid at construction; Huawei and Openserve partners.
+KwaZulu-Natal's premier launched a fibre pre-provisioning proof of concept at the Empangeni Phase 1A housing development near Richards Bay, building fibre into 405 new homes as they are constructed, in partnership with Huawei. The province presents it as a model for laying connectivity before settlements are occupied.
 
 </div>
 

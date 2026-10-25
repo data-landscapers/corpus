@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: SOM
 ledger_rows: 25
 not_held: 1
-record: d0cdbb07f375
+record: 2a6793bbb3a4
 ---
 
 # News, Sep – Oct 2026
@@ -338,7 +338,7 @@ The International Organization for Migration, Somalia's federal government and t
 
 **[Somali Justice Ministry orders marriage officiants to register under new guidelines](https://www.hiiraan.com/news4/2026/Oct/206588/somali_justice_ministry_orders_marriage_officiants_to_register_under_new_guidelines.aspx)** — Hiiraan Online, 22 October 2026
 
-Officiants must register and be licensed; marriage-record verification rules; confidentiality of personal data.
+Somalia's justice ministry issued guidelines requiring officiants of Islamic marriages to register with it and be trained, licensed and overseen, so that marriages can be documented and verified. Only a judge or a registered officiant may solemnise a marriage, and marriage records must be kept confidential.
 
 </div>
 
@@ -384,7 +384,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[Somali federal government says eVisa dispute with Somaliland resolved, but Hargeisa denies agreement](https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx)** — Hiiraan Online, 21 October 2026
 
-Mogadishu aviation chief claims deal 19 Oct 2026; Somaliland minister says Somalia e-visas still refused at Hargeisa.
+Somalia's civil aviation authority said its dispute with Somaliland over the national eVisa system was resolved and that Hargeisa-based travel agencies could use it. Somaliland's aviation minister denied any agreement, saying travellers arriving at Hargeisa with a Somalia-issued eVisa still need a Somaliland visa.
 
 </div>
 

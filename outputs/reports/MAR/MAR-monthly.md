@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: MAR
 ledger_rows: 35
 not_held: 14
-record: 4b34141c687c
+record: 7e4125934266
 ---
 
 # News, Sep – Oct 2026
@@ -354,7 +354,7 @@ Cash in circulation in Morocco reached 550.3 billion dirhams at the end of Augus
 
 **[Rapport annuel sur les infrastructures de marchés financiers et les moyens de paiement - Exercice 2025](https://www.bkam.ma/content/download/852741/9198194/Rapport%20annuel%20DSSMP%202025.pdf)** — Bank Al-Maghrib, 21 October 2026
 
-Cash incl. banks' holdings MAD 513bn at end-2025, +15.5%, 30% of GDP; withdrawals 87% of card value.
+Bank Al-Maghrib's annual report on financial market infrastructures and means of payment for 2025 covers the activity, development projects and assessment of Morocco's gross settlement system, interbank clearing, card and mobile switch, central securities depository and exchange clearing house. It also reports on cyber-resilience oversight, the RIBAT resilience rating, cash in circulation and electronic means of payment.
 
 </div>
 

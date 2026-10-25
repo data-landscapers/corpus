@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: GMB
 ledger_rows: 50
 not_held: 2
-record: 9684533929aa
+record: 2bcaf933d315
 ---
 
 # News, Sep – Oct 2026
@@ -218,7 +218,7 @@ The Gambia Immigration Department denied losing access to national identity card
 
 **[Banjul Airport Security Needs A Public Scorecard Not Another Argument](https://standard.gm/banjul-airport-security-needs-a-public-scorecard-not-another-argument/)** — The Standard, 21 October 2026
 
-2022 audit, 2024 progress report and fiscal-risk listing set against a call for a seven-part public scorecard.
+An opinion piece argues that the Gambia's contract with Securiport for civil-aviation and immigration security at Banjul airport needs a public scorecard of which findings of the National Audit Office's November 2022 management letter have been closed. It separates what the auditors found for September 2019 to May 2021 from the responses institutions printed, such as the civil aviation authority's report of a joint collection account.
 
 </div>
 
@@ -264,7 +264,7 @@ The Gambia's United Democratic Party asked the electoral commission to explain a
 
 **[IEC Chairman Declares Final Voter Register Will Be Released Only After Revising Courts Finish Work](https://standard.gm/iec-chairman-declares-final-voter-register-will-be-released-only-after-revising-courts-finish-work/)** — The Standard, 23 October 2026
 
-Soft copy to all parties after revising courts sign; answers UDP's 212,095 vs 183,163 supplementary-registration gap.
+The Gambia's electoral commission will give parties the final voter register, combining the 2021 register with the 2026 supplementary registration, only after the revising courts finish and names ordered removed are expunged. The opposition UDP had asked why the commission announced 212,095 new registrations when the dataset it received held 183,163.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: GHA
 ledger_rows: 117
 not_held: 9
-record: 0865344111c5
+record: 0467f3927ecf
 ---
 
 # News, Sep – Oct 2026
@@ -100,7 +100,7 @@ Ghana's Ministry of Health and Ghana Health Service, supported by WHO and UNDP, 
 
 **[Sam George urges Africa to develop homegrown digital technologies](https://www.myjoyonline.com/sam-george-urges-africa-to-develop-homegrown-digital-technologies/)** — MyJoyOnline, 22 October 2026
 
-Minister announces full review of digital-sector policy and regulation; call to cut reliance on foreign tech.
+At Digital Economy Live 2026 in Accra, Ghana's communications minister urged African states to build their own digital technologies rather than depend on foreign ones, citing Ghana's mobile money interoperability and national digital identity. He said his ministry is reviewing the policy, institutional and regulatory frameworks for the digital sector.
 
 </div>
 
@@ -1848,7 +1848,7 @@ Ghana's communications minister said national AI language models will be built l
 
 **[Sam George outlines $270m Ghana AI investment, cites risks of feeding government data into foreign models](https://www.myjoyonline.com/sam-george-outlines-270m-ghana-ai-investment-cites-risks-of-feeding-government-data-into-foreign-models/)** — MyJoyOnline, 21 October 2026
 
-Minister says classified memos fed into ChatGPT and Claude; 'Ghana Chat' national model; residency law undercut.
+Ghana's communications minister Samuel Nartey George outlined a US$270m AI programme, US$250m for infrastructure and computing and US$20m as seed money for an AI fund, including a national language model he called Ghana Chat. He said analysts in ministers' offices had put classified material into foreign AI platforms, which he said undercut the country's data-residency law.
 
 </div>
 
@@ -2288,7 +2288,7 @@ Ghana's statistical service and Statistics Denmark agreed the design of a third,
 
 **[Ghana Pledges to Link Official Statistics With Maps](https://thevaultznews.com/2026/10/23/ghana-pledges-to-link-official-statistics-with-maps/)** — The Vaultz News, 23 October 2026
 
-Five GSS commitments at STATCOM 10: daily data flows under 26 MoUs, mapped statistics, census tied to ID.
+Ghana's Government Statistician, writing on the opening of the tenth Statistical Commission for Africa, called for official statistics broken down to community level and tied to maps. He committed the Ghana Statistical Service to five steps, including early preparation for the 2031 census.
 
 </div>
 

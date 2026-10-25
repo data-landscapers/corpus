@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: CAF
 ledger_rows: 21
 not_held: 5
-record: d77aaccd5af5
+record: cebd6b6f8016
 ---
 
 # News, Sep – Oct 2026
@@ -398,7 +398,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[CENTRAFRIQUE : RGPH-4, l'ICASEES présente les résultats provisoires globaux et préliminaires au CTIR](https://www.icasees.org/index.php/actualites/423-centrafrique-rgph-4-licasees-presente-les-resultats-provisoires-globaux-et-preliminaires-au-ctir)** — ICASEES, 23 September 2026
 
-First count since 2003: 7,591 areas, 10,500 tablets, 400 Starlink kits, ~11,350 staff; figures held back for the CNR.
+The Central African Republic's statistics institute, ICASEES, put the provisional global and preliminary results of the fourth general population and housing census (RGPH-4) before the intersectoral census technical committee in Bangui on 23 September 2026. It is the country's first count since 2003; the operation mapped 7,591 enumeration areas and mobilised more than eleven thousand people, and seven of them died during it.
 
 </div>
 

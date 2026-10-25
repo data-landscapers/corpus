@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: SDN
 ledger_rows: 34
 not_held: 5
-record: 12f1ac37bbc2
+record: 3225b9869a07
 ---
 
 # News, Sep – Oct 2026
@@ -64,7 +64,7 @@ An analysis of the Central Bank of Sudan's 2026–2030 strategic plan, published
 
 **[Sudan press syndicate rejects criminal code amendment](https://sudantribune.com/article/320352)** — Sudan Tribune, 23 October 2026
 
-Article 51 draft adds electronic publishing to waging war on the state; journalists and lawyers object, minister defends.
+Sudan's journalists' syndicate and rights groups oppose a justice ministry amendment adding publishing in media and on electronic platforms to Article 51 of the 1991 Criminal Code, on waging war against the state, which carries penalties up to death. They also reject a planned national cybercrime mechanism with powers to monitor media and social platforms; the minister defended both.
 
 </div>
 

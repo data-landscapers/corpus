@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: GAB
 ledger_rows: 59
 not_held: 13
-record: 034067d724ba
+record: e92162f0335f
 ---
 
 # News, Sep – Oct 2026
@@ -378,7 +378,7 @@ Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have 
 
 **[Numérique : une 'Gabon Digital Week' au coeur de l'innovation](https://www.union.sonapresse.com/fr/numerique-une-gabon-digital-week-au-coeur-de-linnovation)** — L'Union - Sonapresse, 24 October 2026
 
-Libreville 26-30 Oct 2026; 5G pilot launch with Moov Africa and Airtel; Gabon Digital programme; GSMA audit readout.
+Gabon's digital economy ministry announced a Gabon Digital Week at the Palais des Congrès in Libreville from 26 to 30 October 2026, under the president's patronage. The programme includes a government seminar on the national digitalisation strategy, presentation of the Gabon Digital programme, the official start of a 5G pilot with Moov Africa Gabon Telecom and Airtel Gabon, and an African Union specialised technical committee where some fifteen ministers are to draft a Libreville Declaration ahead of ITU meetings in Doha.
 
 </div>
 
@@ -928,7 +928,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[Paiement électronique des recettes municipales : quel bilan 4 mois après ?](https://www.union.sonapresse.com/fr/paiement-electronique-des-recettes-municipales-quel-bilan-4-mois-apres)** — L'Union - Sonapresse, 22 October 2026
 
-Mobile-money market fees launched 12 June; city hall says operational, Mont-Bouët traders say cash still rules.
+Four months after Libreville's mayor launched collection of market fees by Airtel Money and Moov Money at Mont-Bouët market on 12 June, traders interviewed say they paid electronically once or twice before going back to cash, or never did. The article gives no figures from the municipality on how much has been collected electronically.
 
 </div>
 
@@ -1072,7 +1072,7 @@ Gabon's energy statistics director, Armand-Colyn Abessolo Nkewele, said on 23 Se
 
 **[RGPL 2026 : après la proclamation des résultats, les Gabonais réclament le rapport détaillé](https://actu241ga.com/rgpl-2026-apres-la-proclamation-des-resultats-les-gabonais-reclament-le-rapport-detaille/)** — Actu241, 21 October 2026
 
-No full census report publicly confirmed by October 2026; MP and citizens invoke constitutional right of access.
+Gabon's census counts 3,518,621 residents, 2,318,365 of them Gabonese, figures certified by the Constitutional Court on 27 August 2026, but the detailed report has not been published. A deputy and citizens are asking when the breakdown by province, commune, age and sex will be released.
 
 </div>
 

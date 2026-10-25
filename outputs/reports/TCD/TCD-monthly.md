@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: TCD
 ledger_rows: 37
 not_held: 22
-record: dc0e8c7a7fa9
+record: 2f87bbe695e3
 ---
 
 # News, Sep – Oct 2026
@@ -522,7 +522,7 @@ Chad's livestock ministry took delivery on 21 October 2026 of seven digital syst
 
 **[Éducation : le PAREAB lance la distribution de 39 000 tablettes numériques et Power bank aux enseignants du primaire](https://lendjampost.com/education-le-pareab-lance-la-distribution-de-39-000-tablettes-numeriques-et-power-bank-aux-enseignants-du-primaire/)** — Le N'Djam Post, 23 October 2026
 
-World Bank-financed PARAEB; first phase 9,375 teachers in four academies; handover enrolment builds teacher data.
+Chad's education ministry and the World Bank-funded PARAEB project began distributing 39,000 tablets with power banks to primary teachers, preloaded with curricula, teacher guides and the Teach and Coach classroom tools. The first phase covers four academies and 9,375 teachers.
 
 </div>
 

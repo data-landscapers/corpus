@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: XWA
 ledger_rows: 34
 not_held: 1
-record: 4203b5723f87
+record: a6655301008c
 ---
 
 # News, Sep – Oct 2026
@@ -710,7 +710,7 @@ The Economic Community of West African States opened the second edition of its S
 
 **[Evolution des indicateurs de suivi de l'inclusion financière dans l'UEMOA au titre de l'année 2025](https://www.bceao.int/sites/default/files/2026-10/Tableau%20de%20suivi%20des%20indicateurs%20d%27inclusion%20financi%C3%A8re%20dans%20l%27UEMOA%20%C3%A0%20fin%20d%C3%A9c%202025.pdf)** — Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO), 20 October 2026
 
-Eight-country 2025 tables: UEMOA index 0.616, e-money use 60.27% vs 26.86% strictly banked; Niger lowest at 0.431.
+The BCEAO's report on financial inclusion in the WAEMU for 2025 gives each member state's access, usage and affordability indicators to the end of December 2025, with series from 2015 and a composite inclusion index. Across the union the broad account-ownership rate including microfinance and e-money stands at about 50 per cent of adults, ranging from under 15 per cent in Guinea-Bissau to over 90 per cent in Benin.
 
 </div>
 

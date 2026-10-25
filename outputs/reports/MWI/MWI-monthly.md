@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: MWI
 ledger_rows: 50
 not_held: 31
-record: 1005ea194839
+record: f0e455633eda
 ---
 
 # News, Sep – Oct 2026
@@ -1002,7 +1002,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[Building Stronger Foundations for Malawi's 2028 Census](https://www.worldpop.org/blog/building-stronger-foundations-for-malawis-2028-census/)** — WorldPop, 14 October 2026
 
-WorldPop and UK ONS train NSO staff in geospatial population modelling for 2028 census planning.
+WorldPop and the UK Office for National Statistics ran a five-day workshop in Blantyre for staff of Malawi's National Statistical Office on high-resolution household population estimates, combining census and survey data with geospatial models, ahead of the 2028 census. The training covered Bayesian modelling in R and tools for updating and partitioning enumeration areas.
 
 </div>
 

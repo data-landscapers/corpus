@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: SEN
 ledger_rows: 69
 not_held: 2
-record: b4bb41c7f8d8
+record: e3751057e40a
 ---
 
 # News, Sep – Oct 2026
@@ -302,7 +302,7 @@ Majority deputies in Senegal's National Assembly filed a proposal for a commissi
 
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
-ARCEP Burkina signs with Benin, Côte d'Ivoire and Senegal regulators, Ouagadougou 23 Oct 2026.
+Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
 
 </div>
 
@@ -676,7 +676,7 @@ Mobile money operator Wave Digital Finance appears on the BCEAO's list of partic
 
 **[Inclusion financière : le Sénégal parmi les pays les plus avancés de l’UEMOA en 2025](https://lesoleil.sn/actualites/economie/inclusion-financiere-le-senegal-parmi-les-pays-les-plus-avances-de-luemoa-en-2025/)** — Le Soleil, 21 October 2026
 
-BCEAO 2025 figures: Senegal index 0.651 vs 0.616; e-money use 66.29%; lowest nominal lending rate in UEMOA, 5.98%.
+Le Soleil reports from the BCEAO's 2025 financial inclusion report that Senegal's composite index is 0.651 against a WAEMU average of 0.616. Senegal has 150 service points per 10,000 adults, almost all of them e-money outlets; its strict banking rate is 27.42 per cent, its broad rate 67.13 per cent, and 39.71 per cent of adults use microfinance.
 
 </div>
 
@@ -706,7 +706,7 @@ Senegal's education ministry says it has completed nationwide rollout of the edu
 
 **[État civil : 77 % de centres digitalisés, selon le DG de l'ANEC](https://aps.sn/etat-civil-77-de-centres-digitalises-selon-le-dg-de-lanec/)** — APS, 24 September 2026
 
-ANEC aims for all 629 civil-status centres digitised by end-2026; PAEC trained 340 auxiliaries.
+Senegal's civil registration agency, ANEC, has digitised 483 of the 629 civil registry centres it targets outside Dakar, 77 per cent, its director general Matar Ndao said, and aims for all of them by 31 December 2026 with its management software and the SAMA État civil platform. He said a complete national civil register and common tools across communes, some of which run other software, were still needed.
 
 </div>
 

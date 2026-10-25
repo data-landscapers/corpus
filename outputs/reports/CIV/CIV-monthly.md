@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-25
 place: CIV
 ledger_rows: 50
 not_held: 10
-record: 32d214cbabf3
+record: c94ae9fc62f7
 ---
 
 # News, Sep – Oct 2026
@@ -186,7 +186,7 @@ African telecommunications bodies concluded their last preparatory meeting for t
 
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-ARCEP Burkina signs with Benin, Côte d'Ivoire and Senegal regulators, Ouagadougou 23 Oct 2026.
+Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
 
 </div>
 
@@ -528,7 +528,7 @@ Côte d'Ivoire's cadastre director, Bahi Apollinaire Boua, said at the Abidjan l
 
 **[Côte d’Ivoire : L’ONECI instruit les officiers d’état civil sur la Plateforme digitale de demande et d’obtention en ligne des actes d’état civil](https://digitalmag.ci/cote-divoire-loneci-instruit-les-officiers-detat-civil-sur-la-plateforme-digitale-de-demande-et-dobtention-en-ligne-des-actes-detat-civil/)** — Digital Mag Côte d'Ivoire, 23 October 2026
 
-ONECI's online request-and-delivery platform for birth, marriage and death acts, shown to registrars 22-24 October 2026.
+Côte d'Ivoire's civil registration and identification office, ONECI, is training municipal civil registrars in Yamoussoukro from 22 to 24 October on its new platform for requesting and obtaining birth, marriage and death certificates online. Its director general told registrars the platform does not replace their legal role.
 
 </div>
 
