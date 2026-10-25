@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "2",
-   "training": "underway",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source held since October 2023 says: is a standing programme in service.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "unplaced",
+      "training": "",
+      "reach": "",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held since October 2023 says a government body trains civil servants in digital skills.",
+      "note": "Rebuild 2026-10-25: the one row is a donor agency's digital-skills support for health staff, not a government programme or course for civil servants, so it sets no rung.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }

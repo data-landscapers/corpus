@@ -21,11 +21,11 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 5 |
-| 3 Established | 10 |
+| 4 Operating | 6 |
+| 3 Established | 9 |
 | 2 Nascent | 6 |
-| 1 Absent | 1 |
-| Unplaced | 2 |
+| 1 Absent | 0 |
+| Unplaced | 3 |
 | No evidence | 30 |
 
 ## Countries
@@ -37,6 +37,13 @@ Burkina Faso tells public bodies to host nationally and opened two government cl
 - The ministry reported 120 public platforms inventoried for hosting in the country, the two inaugurated data centres being the destination, with repatriation begun and targeted for completion before end-2026; the document counts no body as having moved ([source, 2026-07-25](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/)).
 - ANPTIC's board chair set as the course for 2026 the repatriation of administrations' and institutions' data to the national data centres inaugurated in January 2026; no body is stated to have moved ([source, 2026-03-24](https://anptic.gov.bf/actualites/lanptic-tient-sa-1ere-session-ordinaire-du-conseil-dadministration-de-lannee-2026/)).
 - The government's "Zéro donnée à l'extérieur" chantier, one of the twelve digital-transformation chantiers to 2030, aims to host platforms and data on national territory, and the Prime Minister's half-year evaluation of 25 July 2026 reported it as under implementation ([source, 2026-07-25](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/)).
+
+### Nigeria: 4 Operating
+
+Nigeria's August 2026 cloud policy routes government cloud through the state-owned Galaxy Backbone; which bodies have moved is not known.
+
+- The review says Part II designates Galaxy Backbone Limited the primary digital infrastructure provider, aggregating government cloud demand and operating shared government platforms, with procurement through a National Digital Marketplace on which only certified providers may be listed; the article gives no date for the designation, so its published date is used ([source, 2026-10-05](https://www.mondaq.com/nigeria/it-and-internet/1851136/a-review-of-nigerias-national-digital-cloud-policy-new-direction-and-implication-for-businesses)).
+- NITDA's director-general said frameworks such as the National Digital Cloud Policy and its investment roadmap are intended to give private capital clearer pathways to enter the market; the article gives no adoption date, so its published date of 2026-09-17 is used ([source, 2026-09-17](https://techdigest.ng/nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy/)).
 
 ### Rwanda: 4 Operating
 
@@ -107,13 +114,6 @@ Morocco made cloud the mandatory default for public-administration technology sp
 
 - North Africa Post reports Morocco implemented a Cloud First Policy under Digital Morocco 2030, making cloud the mandatory default for all public-administration technology investments, per the ministry's director of cloud infrastructure; the article gives no date beyond its 2025 published year, which is used here ([source, 2025](https://northafricapost.com/92626-moroccos-cloud-first-policy-transforms-digital-governance-and-economic-strategy.html)).
 
-### Nigeria: 3 Established
-
-Nigeria released a National Digital Cloud Policy in August 2026, replacing its 2019 policy; a government cloud in service is not yet named.
-
-- NITDA's director-general said frameworks such as the National Digital Cloud Policy and its investment roadmap are intended to give private capital clearer pathways to enter the market; the article gives no adoption date, so its published date of 2026-09-17 is used ([source, 2026-09-17](https://techdigest.ng/nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy/)).
-- NITDA's director-general said the government is using a newly institutionalised Cloud-First Policy to consolidate public-sector technology spending, and that under the National Digital Cloud Policy Nigeria targets about $750 million of digital infrastructure investment within two years; the article gives no adoption date, so its published date of 2026-09-17 is used ([source, 2026-09-17](https://techdigest.ng/nigeria-moves-to-harness-1bn-public-it-demand-for-domestic-cloud-ecosystem/)).
-
 ### South Africa: 3 Established
 
 South Africa gazetted its National Policy on Data and Cloud in May 2024; no government cloud or list of providers is named.
@@ -169,12 +169,6 @@ Mozambique said in 2025 it is drafting a new framework for cloud adoption; wheth
 
 - TechAfrica News reports that, at an event on or before its published date of 2025-12-04, the Minister of Communications and Digital Transformation said the government is drafting an updated regulatory framework for cloud adoption to replace current legal restrictions, alongside a five-year plan for domestic data centres to host cloud services for banks and other institutions ([source, 2025-12](https://techafricanews.com/2025/12/04/mozambique-to-build-local-data-centres-and-new-regulations-for-cloud-adoption/)).
 
-### Malawi: 1 Absent
-
-Malawi had no cloud policy enacted as at June 2025, the World Bank records; whether one is being written is not known.
-
-- The World Bank DMAP status report records zero government data governance frameworks, including data classification and cloud policies, enacted and mandated for use as at 30 June 2025, against a target of 3 by October 2030 ([source, 2025-06-30](https://documents1.worldbank.org/curated/en/099100325094017738/pdf/P505095-2fb01803-deaa-46f1-8e6f-5bc277a0b2ce.pdf)).
-
 ### Central African Republic: Unplaced
 
 A 2023 World Bank record shows no government cloud policy in Central African Republic; nothing newer is held, so no stage is set.
@@ -186,6 +180,12 @@ Not established: No policy or draft is on record, and no source dated in the las
 A 2022 World Bank record shows no government cloud policy in Eritrea; nothing newer is held, so no stage is set.
 
 Not established: No policy or draft is on record, and no source dated in the last three years says the government has neither.
+
+### Malawi: Unplaced
+
+Malawi had no cloud policy enacted in June 2025, and whether one is being written is not known, so no stage is set.
+
+Not established: No policy or draft is on record, and no source dated in the last three years says the government has none and none is being written.
 
 ### Algeria: No evidence
 

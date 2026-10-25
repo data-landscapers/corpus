@@ -1,3 +1,9 @@
 iso3,n,aspect,value,action,why
 RWA,002,enforced,enforced,removed,"First pass: fraud complaints in general, not complaints under consumer rules for digital finance"
 ZWE,005,enforced,enforced,removed,"First pass: fuel stations without POS machines, not digital financial services"
+BFA,003,redress,redress,redated: 2024-12,"Rebuild 2026-10-25: the OQSF's own December 2024 study describes it offering financial mediation, e-money issuers included; the 2022 decree is when it was created, not when the statement was true"
+GIN,001,rules,inforce,redated: 2026-08,Rebuild 2026-10-25: an August 2026 article states the BCRG's 2018 instruction applies to e-money institutions' clients; 2018 is when it was adopted
+SEN,002,enforced,enforced,added,"Rebuild 2026-10-25: the OQSF's 2025 count of disputed files is complaint figures (question 4), read as Eswatini's ombudsman figures are"
+SDN,001,enforced,enforced,classed other,"Rebuild 2026-10-25: the licence was revoked under the central bank's technical, financial and licensing standards, not under consumer-protection rules"
+SDN,004,enforced,enforced,classed other,Rebuild 2026-10-25: the same revocation as SDN-001
+ZWE,003,redress,redress,classed other,Rebuild 2026-10-25: the governor says the central bank receives complaints about the cost of banking; that names no complaints unit and no digital financial service

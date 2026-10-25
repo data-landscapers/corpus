@@ -1,16 +1,17 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-010;NGA-015",
-   "gaps": "No source held says the government has named where public bodies must host: a government cloud or data centre the policy tells them to use, or a list of approved providers.",
-   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "4",
+      "standing": "adopted",
+      "use": "named",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-009;NGA-010",
+      "gaps": "No source from the last three years naming or counting public bodies that have moved onto the named hosting is held.",
+      "note": "Counted from the four questions by study-ladder-cloudstrategy.py.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }

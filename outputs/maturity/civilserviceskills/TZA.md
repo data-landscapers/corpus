@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [ICT Competency Standards for Teachers in Tanzania (ICT-CSTT)](<https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/>).
 
-***Not held***. No source held since October 2023 says: is a standing programme in service.
+***Not held***. No source held since October 2023 says digital-skills training reaches civil servants across government.

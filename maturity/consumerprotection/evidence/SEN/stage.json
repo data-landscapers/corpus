@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "4",
-   "rules": "inforce",
-   "redress": "redress",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source held since October 2023 reports a fine, sanction or complaint figures.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "5",
+      "rules": "inforce",
+      "redress": "redress",
+      "enforced": "enforced",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-001;SEN-002",
+      "gaps": "",
+      "note": "Rebuild 2026-10-25: the OQSF mediates financial-service disputes and published its 2025 count of disputed files, which is complaint figures as Eswatini's ombudsman counts are read.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }

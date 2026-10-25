@@ -16,3 +16,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,NAM,gov.policy--data-storage-cloud-strategy,review,no evidence,no evidence,,notes-for-corpus 80: a held record completed in place re-read and the cell re-placed against the ladder.
 2026-10-17,ZAF,gov.policy--data-storage-cloud-strategy,fact,3,3,ZAF-003;ZAF-007,Arrivals added ZAF-007; stage unchanged.
 2026-10-20,BWA,gov.policy--data-storage-cloud-strategy,fact,no evidence,2,BWA-002,Stage 4c: the ministry said in February 2025 that a cloud computing policy was being developed; restaged from every row held.
+2026-10-25,NGA,gov.policy--data-storage-cloud-strategy,review,3,4,NGA-009;NGA-010,"Rebuild: the policy's Part II designates Galaxy Backbone the primary government cloud provider operating shared platforms (Mondaq, 2026-10-05, inside the cell's as-at), so hosting is named; 3 -> 4."
+2026-10-25,MWI,gov.policy--data-storage-cloud-strategy,review,1,unplaced,,"Rebuild: the World Bank report says no cloud policy is enacted but not that none is being written, so stage 1's whole row is not met; 1 -> unplaced."

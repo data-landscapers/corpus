@@ -9,10 +9,10 @@
       "share": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-003;SOM-001",
+      "stage_sources": "SOM-002;SOM-001",
       "gaps": "No source held since October 2023 says: is a standing programme in service.",
-      "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-10-25: a ministry's website-design course for Labour Ministry staff and a 2025 survey of officials show training under way, while the NCA certification is for ICT staff only and is other. No standing programme with a number trained is held.",
+      "as_at": "2026-10-25"
     }
   ]
 }

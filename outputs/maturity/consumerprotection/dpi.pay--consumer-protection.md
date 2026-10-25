@@ -20,12 +20,12 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
-| 4 Operating | 7 |
-| 3 Established | 15 |
+| 5 Leading | 4 |
+| 4 Operating | 6 |
+| 3 Established | 16 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
-| Unplaced | 10 |
+| Unplaced | 9 |
 | No evidence | 15 |
 
 ## Countries
@@ -36,24 +36,37 @@ Enforcement of consumer protection in digital finance was reported in 2024.
 
 - The World Bank FSAP note reports complaint figures from the ombudsman schemes' last annual reports: 40 complaints to the CBE Ombudsman and 84 to the FSRA Ombudsman, up from 59 the year before ([source, 2024-10](https://documents1.worldbank.org/curated/en/099082525170036534/pdf/P505756-da939ce0-36a3-4072-9fbb-8f90280267ab.pdf)).
 
+### Ethiopia: 5 Leading
+
+A financial consumer protection directorate reported resolving 90 percent of complaints in 2026.
+
+- The NFIS II assessment, reported by The Reporter, says NFIS II established a dedicated financial consumer protection directorate that achieved a 90 percent complaint resolution rate, while auditors cautioned that consumer safety mechanisms remain ill-equipped for digital fraud, scams and social-engineering risks, given weaknesses in the law on electronic transaction liability ([source, 2026-10-03](https://www.thereporterethiopia.com/53174/)).
+- The NFIS II assessment reports a 90 percent complaint resolution rate for the financial consumer protection directorate ([source, 2026-10-03](https://www.thereporterethiopia.com/53174/)).
+
 ### Nigeria: 5 Leading
 
 Enforcement of consumer protection in digital finance was reported in 2026.
 
 - TechCabal reports MTN suspended its airtime lending in April 2026 under a regulatory suspension linked to the FCCPC's new requirements, cutting the lending base to about a quarter of its first-quarter run rate and costing about 50 billion naira in first-half revenue ([source, 2026-04](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/)).
 
-### Sudan: 5 Leading
+### Senegal: 5 Leading
 
-Enforcement of consumer protection in digital finance was reported in 2026.
+A financial mediator published its count of disputed files for 2025.
 
-- The Central Bank of Sudan revoked Al-Asjad's licence after a technical and legal committee review, and said it had taken measures to protect customers' rights ([source, 2026-07-04](https://sudanhorizon.com/cbos-officially-revokes-al-asjad-companys-license-following-review/)).
-- The Central Bank of Sudan revoked the licence of Al-Asjad Digital and Smart Solutions after review against its published standards, and said it had taken measures to protect customers' rights ([source, 2026-07-04](https://sudantribune.net/article/315827)).
+- The Observatoire de la qualité des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
+- The OQSF reports 475 new disputed files handled through mediation in 2025, against 379 in 2024: 357 in banking, microfinance, financial institutions and La Poste and 118 in insurance, the main banking grounds being slow international transfers (25.4%) and credit repayment difficulties (17%) ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
 
 ### Benin: 4 Operating
 
 A body took complaints about digital financial services in 2025; enforcement is not reported.
 
 - A client who feels wronged may complain to the Commission bancaire and obtain mediation through the OQSF, the observatory created by decree 2020-291 and made operational in October 2024, per Fraternite ([source, 2025-07](https://fraternite.bj/guichets-automatiques-bancaires-et-mobile-money-enquete-sur-le-calvaire-des-usagers-face-aux-transactions-echouees/)).
+
+### Burkina Faso: 4 Operating
+
+A financial mediator took complaints, e-money included, in 2024; enforcement figures since 2023 are not known.
+
+- The report says decree 2022-1066 of 9 December 2022 created the Observatoire de la qualité des services financiers (OQSF-BF) with financial mediation between providers, including electronic money issuers, and users, and that the UEMOA Banking Commission can also be seized when a complaint is unsatisfied ([source, 2024-12](https://www.finances.gov.bf/fileadmin/user_upload/storage/Etude_diagnostique_mecanismes_de_recours_interne_des_PSF_Rapport_Final.pdf)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -67,12 +80,6 @@ A body took complaints about digital financial services in 2026; enforcement is 
 
 - NBR says customers with unresolved eKash problems may complain to the National Bank of Rwanda through the Intumwa chatbot by SMS, WhatsApp, website and social media ([source, 2026-08-05](https://www.bnr.rw/documents/Press_Release-_Update_on_the_Performance_of_eKash_Aug_2026.pdf)).
 
-### Senegal: 4 Operating
-
-A body took complaints about digital financial services in 2025; enforcement is not reported.
-
-- The Observatoire de la qualité des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
-
 ### Seychelles: 4 Operating
 
 A body took complaints about digital financial services in 2025; enforcement is not reported.
@@ -85,23 +92,11 @@ A body took complaints about digital financial services in 2025; enforcement is 
 
 - Kemi Advocates reports the regulations set maximum complaint resolution periods (12 hours for mobile money payments, 14 days for credit facilities) and let consumers escalate complaints to the Bank of Tanzania for review ([source, 2025-05-23](https://kemiadvocates.co.tz/2025/06/27/legal-update-key-highlights-of-the-bank-of-tanzania-financial-consumer-protection-amendment-regulations-gn-no-298-of-2025-date-23-may-2025)).
 
-### Zimbabwe: 4 Operating
-
-A body took complaints about digital financial services in 2026; enforcement is not reported.
-
-- The RBZ governor says the central bank has continued to receive complaints from the banking public about the high cost of banking ([source, 2026-02-26](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits)).
-
 ### Botswana: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2026; a complaints body is not known.
 
 - The Bank of Botswana says the Electronic Payment Services (Amendment) Regulations, 2026, in effect since 2 April 2026, include market conduct obligations and provisions on dormant and unclaimed funds to enhance consumer protection ([source, 2026-04-02](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Implementation%20of%20the%20Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf)).
-
-### Burkina Faso: 3 Established
-
-Consumer-protection rules for digital finance were in force in 2024; a complaints body is not known.
-
-- The report says BCEAO Instruction n°001-01-2024 on payment services in the UEMOA requires electronic money issuers to operate complaint-handling systems for clients and merchants, with set resolution deadlines and tracking ([source, 2024](https://www.finances.gov.bf/fileadmin/user_upload/storage/Etude_diagnostique_mecanismes_de_recours_interne_des_PSF_Rapport_Final.pdf)).
 
 ### Chad: 3 Established
 
@@ -115,12 +110,6 @@ Consumer-protection rules for digital finance were in force in 2024; a complaint
 
 - The Central Bank of Egypt's instructions of 7 May 2024 set minimum requirements for complaint handling by banks, covering complaints about banks, outsourcing providers, payment service providers and agents contracted by the bank ([source, 2024-05-07](https://www.cbe.org.eg/ar/laws-regulations/regulations/regulations-book/book-14/chapter-2)).
 
-### Ethiopia: 3 Established
-
-Consumer-protection rules for digital finance were in force in 2026; a complaints body is not known.
-
-- The National Bank of Ethiopia states that financial institutions are required to inform customers about fraud risks and their responsibilities in safeguarding financial instruments under Articles 5.1.7 and 5.2.8 of Financial Consumer Protection Directive No. FCP/01/2020, and instructs banks, payment instrument issuers and microfinance institutions to run a fraud awareness campaign ([source, 2026-03-25](https://nbe.gov.et/announcements/)).
-
 ### Gambia: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2023; a complaints body is not known.
@@ -133,6 +122,12 @@ Consumer-protection rules for digital finance were in force in 2026; a complaint
 
 - The Bank of Ghana's Second Deputy Governor cites the new Digital Credit Service Providers Directive as regulation protecting consumers ([source, 2026-08-19](https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html)).
 - The Bank of Ghana says the Directive for Digital Credit Service Providers in Ghana (September 2025) is in force and that 20 named mobile loan apps operate in contravention of it ([source, 2026-08-03](https://www.bog.gov.gh/wp-content/uploads/2026/08/Notice-No.25-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf)).
+
+### Guinea: 3 Established
+
+Consumer-protection standards covered e-money clients in 2026; a complaints body is not known.
+
+- The article by lawyer Me Fode Mourana Soumah says the BCRG adopted instruction I/DGSIF/DSIMF/006/2018 setting consumer-protection standards for inclusive financial institutions, which include e-money institutions, requiring displayed fees, written contracts, plain language and client data access ([source, 2026-08](https://actuguinee.net/institutiins-financieres-inclusives-microfiances-et-autres-les-clients-sont-ils-vraiment-proteges-me-fode-mourana-soumah/)).
 
 ### Kenya: 3 Established
 
@@ -171,6 +166,12 @@ Consumer-protection rules for digital finance were in force in 2026; a complaint
 - Radio Yei reports that consumer protection rules have taken effect in South Sudan under the amended Electronic Money Regulation, covering banks and non-bank e-money issuers, including availability, user notice of disruptions and record keeping ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 - The Bank of South Sudan issued a notice covering consumer protection for banks, microfinance institutions and digital financial service providers, requiring clear fee and loan disclosure, complaint contacts and no harassment or fraudulent deductions ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).
 
+### Sudan: 3 Established
+
+Consumer-protection rules for digital finance were in force in 2026; a complaints body is not known.
+
+- CBOS Circular 7/2026 sets binding minimum rules for USSD financial services: fee disclosure, no debit on failed transactions, free SMS confirmations, 24-hour support and complaint resolution within 48 hours ([source, 2026-03-31](https://cbos.gov.sd/ar/node/24567/)).
+
 ### Tunisia: 3 Established
 
 Consumer-protection rules for digital finance were in force in 2024; a complaints body is not known.
@@ -182,6 +183,13 @@ Consumer-protection rules for digital finance were in force in 2024; a complaint
 Consumer-protection rules for digital finance were in force in 2024; a complaints body is not known.
 
 - The Bank of Zambia issued directives on 14 September 2024 prohibiting unwarranted electronic money charges (wallet deposits, merchant and bill payments, failed transactions, balance inquiries, statements), with fines up to K200,000 or up to two years' imprisonment for violating Electronic Money Institutions, Zambia Monitor reports ([source, 2024-09-14](https://www.zambiamonitor.com/bank-of-zambia-cracks-down-on-unwarranted-charges-for-electronic-money-services/)).
+
+### Zimbabwe: 3 Established
+
+Fee rules covering mobile banking were in force in 2026; a complaints body is not known.
+
+- The RBZ directed all banks and deposit-taking microfinance institutions to cap cash withdrawal fees at 2% and POS charges at 1.5%, and to remove balance inquiry fees on banking and mobile banking platforms, by 31 March 2026 ([source, 2026-02-26](https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits)).
+- The RBZ capped POS charges at 1.5% of transaction value for local and international cards from 1 April 2026, with no minimum fee and a maximum of US$20 ([source, 2026-04-01](https://www.newsday.co.zw/opinion-analysis/article/200055031/zig-is-legal-tender-so-why-cant-you-use-it-online)).
 
 ### Gabon: 2 Nascent
 
@@ -220,12 +228,6 @@ Nothing held since 2023 names consumer-protection rules for digital finance, so 
 Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
 
 ### Congo: Unplaced
-
-Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.
-
-### Guinea: Unplaced
 
 Nothing held since 2023 names consumer-protection rules for digital finance, so no stage is set.
 

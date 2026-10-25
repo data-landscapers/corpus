@@ -22,10 +22,10 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 3 |
-| 3 Established | 6 |
-| 2 Nascent | 42 |
+| 3 Established | 7 |
+| 2 Nascent | 40 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 2 |
 | No evidence | 2 |
 
 ## Countries
@@ -79,6 +79,12 @@ A digital-skills programme trained civil servants in 2026; reach across governme
 A digital-skills programme trained civil servants in 2025; reach across government is not on record.
 
 - The Minister of Public Service and Administration's written reply says the National School of Government's free online digital courses (AI Fluency, Cyber Security Awareness, Mobile Digital Literacy, Digital Art of Facilitation) had trained 4,725 public servants ([source, 2025-08-15](https://pmg.org.za/committee-question/32466/)).
+
+### Tanzania: 3 Established
+
+A government digital-skills programme had trained 500 government staff by 2026; reach across government is not on record.
+
+- Under the Digital Tanzania Project 500 government staff were trained, 50 on master's degrees abroad in AI and machine learning and 450 on short local courses, per project coordinator Bakari Mwamgugu ([source, 2026-09](https://dailynews.co.tz/world-bank-hints-at-dtp-phase-ii/)).
 
 ### Uganda: 3 Established
 
@@ -149,12 +155,6 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 - The Agence Congolaise des Systemes d'Information, under its office-skills training programme for staff of public administrations, scheduled a session for staff of the Direction Generale des Comptes Publics et du Patrimoine from 23 March to 17 April 2026 ([source, 2026-03](https://acsi.cg/actualites/renforcement-de-competences-numeriques-des-agents-de-la-dgcpp-par-lacsi/)).
 - The World Bank-funded PATN project opened centres where public-sector agents of the Posts, Telecommunications and Digital Economy department are trained, with sessions of at least 30 hours on database management, per Les Depeches de Brazzaville ([source, 2024-08-29](https://www.adiac-congo.com/content/patn-des-agents-publics-formes-la-gestion-des-bases-de-donnees-numeriques-159517)).
-
-### DR Congo: 2 Nascent
-
-Digital-skills training for civil servants was under way in 2025; a standing programme is not on record.
-
-- Enabel says that in DRC it placed specific emphasis on reinforcing basic digital skills among health staff and promoting e-learning and blended learning, with further initiatives planned with the National Health Institute to institutionalise digital learning platforms ([source, 2025-07](https://www.enabel.be/app/uploads/2025/07/PP06_E-Health_Integrating_Digital_Health_Systems-1.pdf)).
 
 ### Djibouti: 2 Nascent
 
@@ -307,9 +307,9 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 ### Somalia: 2 Nascent
 
-Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
+Digital-skills training for civil servants was under way in 2025; a standing programme is not on record.
 
-- The National Communications Authority launched a cybersecurity certification training programme (CompTIA Security+, CISM, CISSP and others) for ICT staff nominated by government institutions, run 28 March to 8 May 2026 with World Bank SCALED-UP support and AFRALTI ([source, 2026-03-29](https://nca.gov.so/national-communications-authority-launches-cybersecurity-certification-training-program-for-government-officials/)).
+- The Ministry of Communications and Technology inaugurated a website development and design training for employees of the Ministry of Labour and Social Affairs ([source, 2024-06-22](https://moct.gov.so/en/director-general-inaugurates-training-program-on-website-development/)).
 - A survey of 138 Somali government employees finds 70.3% report having attended ICT or digital-skills training, and 55.1% report an ICT training programme or coordinator in their ministry ([source, 2025-12-31](https://doi.org/10.70806/jkhtfx87)).
 
 ### South Sudan: 2 Nascent
@@ -325,13 +325,6 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 - SUNA reports the Northern State information centre with the state training directorate closed four ICT courses (advanced Excel, statistical analysis, internet applications and video conferencing, printer maintenance) for 84 staff of the state secretariat, ministries, councils and localities ([source, 2026-10-15](https://www.suna.sd/posts/hkom-alshmaly-tokd-alahtmam-bbnaaa-alkdrat-oalthol-alrkmy)).
 - Sudan Customs and ARADO concluded their third course on IT applications in customs work, with 21 customs officers at colonel rank receiving completion certificates ([source, 2025-11-14](https://allafrica.com/stories/202511140240.html)).
-
-### Tanzania: 2 Nascent
-
-Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
-
-- Under the Digital Tanzania Project 500 government staff were trained, 50 on master's degrees abroad in AI and machine learning and 450 on short local courses, per project coordinator Bakari Mwamgugu ([source, 2026-09](https://dailynews.co.tz/world-bank-hints-at-dtp-phase-ii/)).
-- The Revolutionary Government of Zanzibar's Ministry of Communications, IT and Innovation signed a three-year MoU with Emerson Education Institute on 16 August 2026 to train an initial cohort of 600 officials in AI and cybersecurity, 50 per class, as reported by The Citizen ([source, 2026-08-16](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558)).
 
 ### Togo: 2 Nascent
 
@@ -356,6 +349,12 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 Digital-skills training for civil servants was under way in 2025; a standing programme is not on record.
 
 - Zimbabwe's government is set to make digital skills training in AI, cybersecurity and data management mandatory for all civil servants, with at least 10 000 public employees trained each year, per Finance Minister Mthuli Ncube ([source, 2025-11-07](http://www.businessdaily.co.zw/index-id-National-zk-52741.html)).
+
+### DR Congo: Unplaced
+
+Nothing held since 2023 shows a government digital-skills programme or course for civil servants, so no stage is set.
+
+Not established: Nothing held since October 2023 says a government body trains civil servants in digital skills.
 
 ### Eritrea: Unplaced
 

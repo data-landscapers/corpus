@@ -1,16 +1,17 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "1",
-   "standing": "none",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No policy or draft is on record, and no source dated in the last three years says the government has none and none is being written.",
+      "note": "Rebuild 2026-10-25: the World Bank report records no cloud policy enacted as at June 2025, against a target of three frameworks by 2030, but does not say none is being written, so stage 1's whole row is not met.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }

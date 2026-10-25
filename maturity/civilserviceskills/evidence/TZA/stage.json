@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "2",
-   "training": "underway",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-002;TZA-001",
-   "gaps": "No source held since October 2023 says: is a standing programme in service.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "3",
+      "training": "inservice",
+      "reach": "",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002",
+      "gaps": "No source held since October 2023 says digital-skills training reaches civil servants across government.",
+      "note": "Rebuild 2026-10-25: the Digital Tanzania Project has trained a stated 500 government staff, a programme in service as in Mozambique and Uganda. Nothing says it reaches across government.",
+      "as_at": "2026-10-25"
+    }
+  ]
 }
