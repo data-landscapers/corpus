@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says firms can register online, or that registration gives one number shared with tax or social security.
+***Not held***. No source held since October 2023 says firms can register online, or that registration gives one number shared with tax or social security. Nothing held says the beneficial owners of every company are recorded.

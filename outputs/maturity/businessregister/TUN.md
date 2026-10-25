@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [e-industrie.gov.tn](<https://www.lapresse.tn/2026/08/28/tunisie-lancement-dune-plateforme-numerique-unifiee-pour-les-services-du-ministere-de-lindustrie/>).
 
-***Not held***. Nothing held says how many firms have filed their beneficial owners.
+***Not held***. Nothing held says how many firms have filed their beneficial owners, so not that every company's are recorded.

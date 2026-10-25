@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held since October 2023 says registration gives one number shared with tax or social security. Filings covered 49.58 percent of active private companies in September 2025, not every company.

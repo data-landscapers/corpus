@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "5",
+      "stage": "3",
       "registration": "inservice",
       "shared": "",
-      "owners": "recorded",
+      "owners": "partial",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-005",
-      "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
-      "note": "Reassessed on the registration service page (June 2026) listing its online beneficial-ownership register as operational; a yes to question 4 answers the earlier ones, so stage 5.",
-      "as_at": "2026-10-24"
+      "stage_sources": "KEN-006;KEN-001",
+      "gaps": "Nothing held says registration gives one number shared with tax or social security; nothing held says the register holds the beneficial owners of every company.",
+      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): beneficial owners of every company recorded, with question 3 shown by its own evidence; the held filings fall short of every company.",
+      "as_at": "2026-10-25"
     }
   ]
 }

@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [ITAS](<https://thebrief.com.na/2024/02/namra-bipa-explore-integrating-business-registration-and-tax-systems/>).
 
-***Not held***. Online registration is not established: forms were filed on paper in 2024 and the new system began development in January 2026. Nothing held says registration gives one number shared with tax.
+***Not held***. Online registration is not established: forms were filed on paper in 2024 and the new system began development in January 2026. Nothing held says registration gives one number shared with tax. Nothing held says the beneficial owners of every company are recorded.

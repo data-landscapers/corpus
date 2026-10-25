@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "5",
+      "stage": "2",
       "registration": "underway",
       "shared": "",
-      "owners": "recorded",
+      "owners": "partial",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-004",
-      "gaps": "No source held since October 2023 says firms can register online; beneficial-ownership reporting to the register stood at 44 percent in December 2025.",
-      "note": "Reassessed on PACRA saying in January 2026 that its register records beneficial-ownership filings, at 44 percent by December 2025; a yes to question 4 answers the earlier ones, so stage 5.",
-      "as_at": "2026-10-24"
+      "stage_sources": "ZMB-003;ZMB-001",
+      "gaps": "Online registration in service is not established: PACRA's register rebuild began in December 2025; beneficial-owner reporting stood at 44 percent in December 2025.",
+      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): beneficial owners of every company recorded, with question 3 shown by its own evidence; the held filings fall short of every company.",
+      "as_at": "2026-10-25"
     }
   ]
 }

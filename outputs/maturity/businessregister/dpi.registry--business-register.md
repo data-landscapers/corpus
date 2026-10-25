@@ -1,6 +1,6 @@
 # Business register: business register
 
-*As at 2026-10-24.*
+*As at 2026-10-18.*
 
 ## The norm
 
@@ -20,79 +20,15 @@ The African Union's Digital Transformation Strategy asks for an electronic busin
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
-| 4 Operating | 3 |
-| 3 Established | 23 |
-| 2 Nascent | 14 |
+| 5 Leading | 0 |
+| 4 Operating | 4 |
+| 3 Established | 29 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 2 |
 
 ## Countries
-
-### Ghana: 5 Leading
-
-The companies registrar held beneficial-owner filings from about 176,000 firms in 2025; online registration was still a pilot in 2026.
-
-- EITI says 175,984 companies had filed beneficial ownership data with the Office of the Registrar of Companies as of 30 September 2025, up from 24,256 in 2021 ([source, 2025-09-30](https://eiti.org/impact-story/ghana-unlocking-ownership-data-accountability-extractive-sector)).
-- Graphic Online reports that the Ghana Integrity Initiative's assessment found beneficial ownership information is held in the Registrar of Companies' central register and available to authorities and the public on request, as the Companies Act 2019 (Act 992) requires it to be provided ([source, 2025-03-24](https://www.graphic.com.gh/news/general-news/ghana-news-be-diligent-with-financial-accounts-of-businesses-chraj-to-registrar-of-companies.html)).
-
-### Kenya: 5 Leading
-
-The business registration service ran an online register of beneficial owners in 2026; a number shared with tax is not known.
-
-- The Business Registration Service's development-partners page, as captured in June 2026, lists among its outcomes an online Beneficial Ownership Information Register operationalised for private companies with GIZ support ([source, 2026-06](https://brs.go.ke/development-partners/)).
-
-### Mozambique: 5 Leading
-
-The business register recorded beneficial owners in 2023.
-
-- Kabum Digital says users of the SRN portal can submit a list of beneficial owners (lista de beneficiários efectivos) as one of the filing actions ([source, 2023-11-24](https://kabum.digital/mocambique-lanca-plataforma-para-registo-de-empresas/)).
-
-### Namibia: 5 Leading
-
-The business register had collected beneficial owners for 64,356 of 221,338 entities by 2024; online registration is not known.
-
-- Namibia's Deputy Minister of Industrialization and Trade told the National Assembly that the Business and Intellectual Property Authority has collected beneficial ownership information as part of business registration since 7 August 2023, with 64,356 of 221,338 entities in the business register having submitted it by 30 June 2024 ([source, 2024-06-30](https://www.parliament.na/wp-content/uploads/2024/07/Ministerial-Statement-on-BO-Penalties.pdf)).
-
-### Nigeria: 5 Leading
-
-The business register recorded beneficial owners in 2026.
-
-- Registrar-General Hussaini Magaji says Nigeria operates a CAC beneficial ownership register, with free access to the data, used by ICPC, EFCC and NDLEA to trace ownership structures ([source, 2026-09-15](https://von.gov.ng/cac-seeks-unified-beneficial-ownership-register/)).
-- The OGP Independent Reporting Mechanism says Nigeria launched its Beneficial Ownership Register in 2023, accessible to government institutions, CSOs, journalists and citizens, and used by regulatory and enforcement agencies ([source, 2023](https://www.opengovpartnership.org/documents/nigeria-results-report-2023-2025/)).
-
-### Senegal: 5 Leading
-
-The commercial register recorded beneficial owners in 2026; a number shared with tax is not known.
-
-- The EITI country page says Senegal's commercial register (RCCM) records beneficial ownership information under Decree 2020-791, available to authorities, courts and people with a legitimate interest on request, with a registry extract covering 262 companies ([source, 2026-03](https://eiti.org/countries/senegal)).
-
-### South Africa: 5 Leading
-
-The business register recorded beneficial owners in 2026.
-
-- The Companies and Intellectual Property Commission launched an upgraded Beneficial Ownership Disclosure Module giving law enforcement agencies real-time access to company ownership information, first launched in April 2023, per the dtic spokesperson ([source, 2026-09-29](https://www.ewn.co.za/new-tools-from-cipc-to-strengthen-sas-fight-against-money-laundering-terrorist-financing/)).
-- CIPC launched its Optimized Beneficial Ownership Declaration functionality on 22 August 2025 and had received more than 23,000 declarations on it, with companies, external companies and close corporations required to submit beneficial ownership information annually or on change ([source, 2025-08-22](https://www.cipc.co.za/wp-content/uploads/2025/09/BO-Optimized-system-4-September-2025_.pdf)).
-
-### Tanzania: 5 Leading
-
-The companies registrar collected beneficial owners through its own online system in 2026; a number shared with tax is not known.
-
-- BRELA's public notice of 6 January 2026 says all registered companies must file beneficial owner information through its electronic system at bo.brela.go.tz, and those that have not are barred from transactions with the Registrar ([source, 2026-01-06](https://www.brela.go.tz/uploads/documents/sw-1767859137-TAARIFA%20KWA%20UMMA%20BO%20-%20BRELA%202.pdf)).
-
-### Tunisia: 5 Leading
-
-The national business register held beneficial owners and was fully online in 2026.
-
-- The Registre National des Entreprises also manages the register of beneficial owners, set up for anti-money-laundering and counter-terrorist-financing purposes, according to the article ([source, 2026-07-16](https://www.lapresse.tn/2026/07/16/depot-immatriculation-mise-a-jour-le-registre-national-des-entreprises-digitalise-tous-ses-services/)).
-- The Presidency of the Government decree of 13 January 2026 says the Centre national du registre des entreprises makes beneficial-owner information on legal persons and arrangements available in real time to competent authorities and via its digital platform to obliged entities and, on legitimate interest, the public ([source, 2026-01-13](https://home.registre-entreprises.tn/wp-content/uploads/2026/01/Arrete2026_35.pdf)).
-
-### Zambia: 5 Leading
-
-The companies register recorded beneficial owners for 44 percent of firms in 2025; online registration is not known.
-
-- PACRA's Papias Banda said beneficial ownership reporting to the register stood at only 44 percent as of December 2025 ([source, 2025-12](https://www.zambiamonitor.com/pacra-unveils-three-year-plan-to-modernize-zambias-beneficial-ownership-registers-promote-integrity/)).
 
 ### Algeria: 4 Operating
 
@@ -113,6 +49,13 @@ A firm's registration number served the tax authority too in 2026; a record of b
 
 - The Rwanda Revenue Authority says the RDB and RRA systems are integrated so registration gives a single, unique Taxpayer Identification Number ([source, 2026](https://www.rra.gov.rw/en/domestic-tax-services/registration-de-registration/default-title)).
 - The Rwanda Development Board's Office of the Registrar General says business registration is 100% an online process and free of charge, with the certificate downloadable from the applicant's account in the registry ([source, 2026-08-30](https://org.rdb.rw/business-registration/)).
+
+### Tunisia: 4 Operating
+
+A firm's registration number served the tax authority too in 2026; the register held beneficial owners, but for how many firms is not known.
+
+- The Registre National des Entreprises says its electronic safe account for each registered firm is tied to the firm's unique identifier, the matricule fiscal ([source, 2026-09-01](https://home.registre-entreprises.tn/le-registre-national-des-entreprises-vers-le-full-digital/)).
+- The article says the RNE assigns the unique identifier required for all administrative and tax procedures, under law 2018-52 of 29 October 2018 ([source, 2025-04-17](https://www.leconomistemaghrebin.com/2025/04/18/le-rne-accelere-la-digitalisation-des-entreprises-tunisiennes/)).
 
 ### Angola: 3 Established
 
@@ -183,6 +126,13 @@ Guinea-Bissau's one-stop centre took company files online in 2026, with payment 
 - The Centro de Formalização de Empresas' official platform lets founders submit company-creation files online or through an agent, with validation and payment at the counter, and counts over 7,666 firms created ([source, 2026](https://cfegb.com/)).
 - The Centro de Formalização de Empresas is described as an autonomous public one-stop shop (guiché único) under the Ministry of Economy for company creation and registration formalities, with online company registration still only planned ([source, 2026](https://cfe.gw/sobre-nos/)).
 
+### Kenya: 3 Established
+
+Firms could register online in 2026; a number shared with tax is not known, and an online register of beneficial owners ran for private companies.
+
+- Kenyans.co.ke reports the Business Registration Service launched its BRS Version II online portal on eCitizen on 16 February 2026 for company changes, and digital downloadable certificates have replaced physical ones ([source, 2026-02-16](https://www.kenyans.co.ke/news/120891-huduma-kenya-clarifies-end-physical-business-certificates-after-ecitizen-integration)).
+- The Business Registration Service says name reservation and business registration are merged into one step, with three preferred names and the full application submitted online ([source, 2026](https://brs.go.ke)).
+
 ### Madagascar: 3 Established
 
 Firms could register online in 2025; a number shared with tax is not known.
@@ -214,6 +164,26 @@ Firms could register online in 2025; a number shared with tax is not known.
 
 - OMPIC states its electronic company-creation platform is now in service nationwide, with over 12,000 firms created electronically since the February 2023 Rabat pilot ([source, 2025-03-14](http://www.ompic.ma/fr/actualites/ompic-generalisation-de-la-plateforme-de-creation-dentreprises-par-voie-electronique-sur)).
 
+### Mozambique: 3 Established
+
+Firms could register online in 2023; a number shared with tax is not known, and beneficial-owner filing was required but its coverage is not known.
+
+- Kabum Digital reports that Mozambique's registry and notary service (SRN) launched an online platform, utente.srn.gov.mz, where companies can be registered remotely, with payment by M-Pesa or bank ([source, 2023-11-24](https://kabum.digital/mocambique-lanca-plataforma-para-registo-de-empresas/)).
+
+### Nigeria: 3 Established
+
+Firms could register online in 2026; a number shared with tax is not known, nor how many firms' beneficial owners are recorded.
+
+- The Registrar-General said CAC operates as a fully digital, end-to-end registry accessible 24 hours a day, receiving close to 10,000 business registration requests daily ([source, 2026-02-09](https://punchng.com/cac-processes-10000-daily-registrations-after-ai-rollout/)).
+- The Corporate Affairs Commission says companies register on its Company Registration Portal, at no cost for the tax number ([source, 2024-04](https://guardian.ng/news/cac-warns-newly-registered-companies-against-paying-for-tin-others/)).
+
+### Senegal: 3 Established
+
+Firms could register online in 2025; a number shared with tax is not known, and the commercial register's beneficial-owner records covered few firms.
+
+- ODS states that Seninfogreffe gives access to the RCCM registry information on all companies in Senegal, has digitised the archives, and lets users carry out formalities online securely ([source, 2023-12-22](https://ods.sn/portfolio/projet-2/)).
+- Senegal launched a digital platform for obtaining the NINEA, inaugurated by Economy Minister Abdourahmane Sarr, to speed up business and association registration ([source, 2025-01](https://www.wearetech.africa/en/fils-uk/news/public-management/senegal-launches-new-platform-to-streamline-business-registration)).
+
 ### Seychelles: 3 Established
 
 Firms could register online in 2026; a number shared with tax is not known.
@@ -226,6 +196,12 @@ Firms could register online in 2026; a number shared with tax is not known.
 
 - The World Bank says the expansion of online business registration in Somalia makes it faster, more convenient and less costly for women to register their businesses, with SBRS to expand into second-tier cities and rural areas ([source, 2026-03-31](https://www.worldbank.org/en/news/feature/2026/03/31/how-stronger-financial-and-digital-services-are-supporting-women-s-msmes-and-jobs-in-somalia)).
 
+### South Africa: 3 Established
+
+Firms could register online in 2026; a number shared with tax is not known, and half of active companies had filed beneficial owners.
+
+- CIPC states external company registration is available only on its e-Services platform, with no manual or e-mail applications accepted, and is within 20 business days of starting activity ([source, 2026-03-31](https://www.cipc.co.za/wp-content/uploads/2026/04/External-Company-Registration-v_1_2-31-Mar-2026.pdf)).
+
 ### South Sudan: 3 Established
 
 Firms could register online in 2025; a number shared with tax is not known.
@@ -237,6 +213,13 @@ Firms could register online in 2025; a number shared with tax is not known.
 Firms could register online in 2026; a number shared with tax is not known.
 
 - Sudan Dawn reports that company-register and business-name transactions at Sudan's commercial registry are filed through the Baladna platform, and that this was almost entirely stalled for more than a week by a technical fault, per lawyers ([source, 2026-10-18](https://sudandawn.com/?p=22515)).
+
+### Tanzania: 3 Established
+
+Firms could register online in 2026; a number shared with tax is not known, and beneficial-owner filing was required but its coverage is not known.
+
+- BRELA said in a statement that all new applications for company registration, annual returns, information updates and closures are now handled through its upgraded online system, the BRELA Online Service (BOS) ([source, 2026-05-28](https://dailynews.co.tz/brela-rolls-out-an-upgraded-online-system-to-speed-up-company-registration/)).
+- BRELA's service page sets out a 10-step company registration through its online registration system (ORS), with payment by mobile or bank ([source, 2026](https://www.brela.go.tz/services/registration-of-companies)).
 
 ### Togo: 3 Established
 
@@ -308,6 +291,13 @@ A digital business register was under way in 2026; online registration is not on
 
 - Minister Ceesay said the government is finalising the Digital Single Window Business Registration System to simplify business registration and encourage formalisation, especially outside the Greater Banjul Area ([source, 2026-08-04](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows)).
 
+### Ghana: 2 Nascent
+
+Online registration was still a pilot in 2026; the companies registrar held beneficial-owner filings from about 176,000 firms in 2025.
+
+- Registrar-General officials told AmCham Ghana that an end-to-end online business registration platform, from name search to certification and integrated with national identification, is currently being piloted ([source, 2026-07-22](https://amchamghana.org/2026/07/23/amcham-ghana-engages-registrar-general-on-digital-transformation-and-business-registration-reforms/)).
+- EITI says Ghana is developing a new digital business registration system with the Office of the Registrar of Companies, expected to be fully functional by 2026 ([source, 2025-10-17](https://eiti.org/impact-story/ghana-unlocking-ownership-data-accountability-extractive-sector)).
+
 ### Guinea: 2 Nascent
 
 A digital business register was under way in 2026; online registration is not on record.
@@ -334,6 +324,12 @@ A digital business register was under way in 2025; online registration is not on
 
 - API-Mali says its Guichet Unique is a centralised one-stop point that brings company registration, operating authorisations and Investment Code approvals together in one place ([source, 2025](https://apimali.gov.ml/en/creation-entreprise/)).
 
+### Namibia: 2 Nascent
+
+A new business registration system was being built in 2026; beneficial owners were filed for 64,356 of 221,338 entities by 2024.
+
+- BIPA announced the kick-off meeting with the developer of its new Integrated Business Registration System (IBRS), which aims to allow full business incorporation within 60 minutes; go-live is still ahead ([source, 2026-01-21](https://www.linkedin.com/posts/business-and-intellectual-property-authority-bipa_ibrs-bipa-innovation-activity-7419737447879602177-EQNb)).
+
 ### Sao Tome and Principe: 2 Nascent
 
 A one-stop company registration counter was open in 2026; online registration is not on record.
@@ -346,6 +342,13 @@ An online business registration system was being built in 2026; online registrat
 
 - Chief Minister Sengeh said the National Investment Board's One-Stop Digital Business Service Platform, built through a joint venture, is nearly complete and expected to be operational by November 2026, cutting business registration from about 24 hours to minutes ([source, 2026-10-07](https://ayvnews.com/sengeh-highlights-bios-business-transformation/)).
 - Parliament ratified a 15-year build-operate-transfer concession under which Multi GIS E-Services SL Ltd will develop, operate and maintain the Online Business Registration System, per Sierraloaded ([source, 2026-05-31](https://sierraloaded.sl/news/parliament-online-business-registration/)).
+
+### Zambia: 2 Nascent
+
+A new business register was being built in 2026; beneficial owners were recorded for 44 percent of firms in 2025.
+
+- PACRA's Papias Banda said a three-year, GIZ-funded rebuild of the business register began in December 2025, with development of the new register starting in January 2026 ([source, 2026-01](https://www.zambiamonitor.com/pacra-unveils-three-year-plan-to-modernize-zambias-beneficial-ownership-registers-promote-integrity/)).
+- Open Ownership says it has partnered with PACRA and GIZ to build an in-house next-generation system with a form builder and case management to digitise over one hundred PACRA services, starting with name clearance, registration and incorporation including BO declaration ([source, 2026-03-06](https://www.openownership.org/en/blog/beneficial-ownership-and-business-register-reform-in-zambia-announcing-our-new-partnership-with-pacra/)).
 
 ### Gabon: Unplaced
 

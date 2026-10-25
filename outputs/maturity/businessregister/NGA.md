@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [NEPZA free trade zone beneficial ownership information](<https://von.gov.ng/cac-seeks-unified-beneficial-ownership-register/>); [NEITI extractive industries beneficial ownership information](<https://von.gov.ng/cac-seeks-unified-beneficial-ownership-register/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held since October 2023 says registration gives one number shared with tax or social security. Nothing held says the beneficial owners of every company are recorded.

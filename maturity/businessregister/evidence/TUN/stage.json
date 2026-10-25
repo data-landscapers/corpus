@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "5",
+      "stage": "4",
       "registration": "inservice",
       "shared": "shared",
-      "owners": "recorded",
+      "owners": "partial",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-008;TUN-010",
-      "gaps": "",
-      "note": "Reassessed on two 2026 sources that the national business register manages the beneficial-owner register and gives access to it through its platform; stage 4 -> 5.",
-      "as_at": "2026-10-24"
+      "stage_sources": "TUN-003;TUN-012",
+      "gaps": "The RNE manages the beneficial-owner register, but nothing held says the register holds the beneficial owners of every company.",
+      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): beneficial owners of every company recorded, with question 3 shown by its own evidence; the held filings fall short of every company.",
+      "as_at": "2026-10-25"
     }
   ]
 }

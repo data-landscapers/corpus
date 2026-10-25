@@ -2,6 +2,9 @@
  "id": "businessregister",
  "study_file": "maturity-study-businessregister.md",
  "pass": "first",
+ "must_show": [
+  3
+ ],
  "window_from": "2023-10-01",
  "story_cap": 20,
  "subjects": [
@@ -61,7 +64,7 @@
     "A digital business register is procured, its records are being digitised, or a one-stop registration counter has opened.",
     "Online business registration is in service.",
     "Registration gives a firm one number shared with the tax authority or social security.",
-    "The register collects the firms' beneficial owners, in service."
+    "The register holds the beneficial owners of every company in the country, and a firm's number is shared with tax or social security."
    ],
    "criteria_of": "8538fbf38dc2"
   }
@@ -106,10 +109,11 @@
    "role": "coverage",
    "defer": [],
    "prefer": [
-    "recorded"
+    "all"
    ],
    "values": [
-    "recorded"
+    "all",
+    "partial"
    ]
   }
  ],

@@ -54,3 +54,13 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,LBR,dpi.registry--business-register,fact,unplaced,unplaced,,August 2026 decentralisation launch puts digital filing in a later phase; nothing meets stage 2; stays unplaced.
 2026-10-24,SWZ,dpi.registry--business-register,fact,3,3,SWZ-001,Minister (January 2026) says the registry is digitised with a one-stop shop; does not contradict online registration; stays 3.
 2026-10-25,GNB,dpi.registry--business-register,fact,2,3,GNB-002;GNB-001,CFE platform takes company files online (2026): online registration in service
+2026-10-25,GHA,dpi.registry--business-register,ladder,5,2,GHA-001;GHA-004,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,KEN,dpi.registry--business-register,ladder,5,3,KEN-006;KEN-001,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,MOZ,dpi.registry--business-register,ladder,5,3,MOZ-001,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,NAM,dpi.registry--business-register,ladder,5,2,NAM-002,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,NGA,dpi.registry--business-register,ladder,5,3,NGA-003;NGA-005,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,SEN,dpi.registry--business-register,ladder,5,3,SEN-004;SEN-001,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,TUN,dpi.registry--business-register,ladder,5,4,TUN-003;TUN-012,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,TZA,dpi.registry--business-register,ladder,5,3,TZA-003;TZA-001,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,ZAF,dpi.registry--business-register,ladder,5,3,ZAF-003,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
+2026-10-25,ZMB,dpi.registry--business-register,ladder,5,2,ZMB-003;ZMB-001,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"

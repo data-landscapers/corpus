@@ -10,4 +10,4 @@
 
 ***Noted, not assessed***. [Ekumfi District Assembly business database](<https://edacentral.gov.gh/ekumfi-district-assembly-launches-major-business-registration-drive-across-all-communities-in-the-district/>).
 
-***Not held***. Online business registration in service is not established: the Registrar-General called its end-to-end platform a pilot in July 2026. Nothing held says registration gives one number shared with tax or social security.
+***Not held***. Online business registration in service is not established: the Registrar-General called its end-to-end platform a pilot in July 2026. Nothing held says registration gives one number shared with tax or social security. Nothing held says the beneficial owners of every company are recorded.

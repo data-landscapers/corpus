@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "business",
-      "stage": "5",
+      "stage": "2",
       "registration": "underway",
       "shared": "",
-      "owners": "recorded",
+      "owners": "partial",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-003",
-      "gaps": "Online registration is not established: forms were filed on paper at BIPA offices in 2024 and the new integrated system only began development in January 2026; nothing held says registration gives one number shared with tax.",
-      "note": "Reassessed on a June 2024 ministerial statement that BIPA collects beneficial ownership at registration, with 64,356 of 221,338 entities filed; a yes to question 4 answers the earlier ones, so stage 5.",
-      "as_at": "2026-10-24"
+      "stage_sources": "NAM-002",
+      "gaps": "Registration was on paper at BIPA's offices in 2024 and a new integrated system was being built in 2026; beneficial owners were filed for 64,356 of 221,338 entities by June 2024.",
+      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): beneficial owners of every company recorded, with question 3 shown by its own evidence; the held filings fall short of every company.",
+      "as_at": "2026-10-25"
     }
   ]
 }

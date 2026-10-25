@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-businessregister.md — firms registered online, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-10-25
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is a digital business register under way? | A source from the last three years says a digital business register is procured, its records are being digitised, or a one-stop registration counter has opened |
 | 2 | Can firms register online? | A source from the last three years says online business registration is in service |
 | 3 | Does the firm's number serve tax or social security too? | A source from the last three years says registration gives a firm one number shared with the tax authority or social security |
-| 4 | Are beneficial owners recorded? | A source from the last three years says the register collects the firms' beneficial owners, in service |
+| 4 | Are the beneficial owners of every company recorded? | A source from the last three years says the register holds the beneficial owners of all companies in the country: filing is complete, not only required or under way |
 
 ## 3. The ladders
 
@@ -47,7 +47,9 @@ Asked in order. Each is answered with a date and a link.
 
 **Settled as worded** *(Bill, 2026-10-23)*: question 4 needs one number shared with tax or social security, not one procedure registering with each; question 5 needs the business register itself to hold beneficial owners, not another government register.
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `registration` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `shared` (`shared`) for 3 and `owners` (`recorded`) for 4.
+**Rung 5 rewritten** *(Bill, 2026-10-25)*: every company must be on the beneficial-owner register, full national coverage, and question 3 is shown by its own evidence (`study.json` → `"must_show": [3]`). A filing rate short of all companies, or a duty to file, is `partial`. All ten cells at 5 fell: Tunisia to 4; Kenya, Mozambique, Nigeria, Senegal, South Africa and Tanzania to 3; Ghana, Namibia and Zambia to 2.
+
+A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `registration` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `shared` (`shared`) for 3 and `owners` (`all`, `partial`) for 4, where only `all` is a yes.
 
 ## 4. The norm
 
