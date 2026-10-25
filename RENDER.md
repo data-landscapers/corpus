@@ -46,7 +46,7 @@ echo "build ok: ${build_line%% · *}"
 
 **All three log and stop** — `python scripts/log-line.py render "stopped at step 0: <which> — not rendered"` — and write a message. **The repair is to run BUILD**, which resumes where it stopped. **Never delete the sentinel or hand-write a log line to get past this**: forging either publishes the half-built tree the check exists to catch.
 
-Then commit anything else outstanding, **after the gate, not before**, and push it, so Step 7's site commit goes up alone:
+Then commit and push anything outstanding, **after the gate**, so Step 7's site push goes up alone:
 
 ```bash
 git add -A && git diff --cached --quiet || git commit -m "Commit outstanding work before render"
@@ -238,7 +238,7 @@ git commit -m "Render site from Corpus-owned outputs: reports, home, country pag
 git push
 ```
 
-**Step 0 is the only STOP in this runbook.** The GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. **The push is authorised by this runbook and is not a question to put**: running RENDER *is* the instruction to publish.
+**Step 0 is the only STOP in this runbook.** A push touching `site/**` publishes it. **The push is authorised by this runbook and is not a question to put**: running RENDER *is* the instruction to publish.
 
 **The push is not the deploy; read the run:**
 
