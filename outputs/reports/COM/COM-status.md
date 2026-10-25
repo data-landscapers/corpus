@@ -1,12 +1,12 @@
 ---
 title: Comoros: status report
-compiled: 2026-10-24
+compiled: 2026-10-25
 place: COM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 10
-sources_cited: 167
+sources_cited: 168
 sections_written: 39
 not_established: 1
 acquire_lines: 24
@@ -397,6 +397,6 @@ No Indian-financed or India-delivered digital programme was under way in Comoros
 
 Comoros [validated a national data governance strategy for 2027-2031 on 25 August 2026 whose first axis is data sovereignty, the state setting out to control the production, storage, circulation, use and protection of the data its administration, citizens and economy generate](https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html); the minister presented it as a foundation for a future national AI policy, and [took it to the Council of Ministers on 21 October 2026 alongside the takeover, operation and hosting of the state data centre](https://alwatwan.net/politique/conseil-des-ministres-i-approbation-d%E2%80%99un-projet-d%E2%80%99%C3%A9lectrification-compl%C3%A8te-de-la-r%C3%A9gion-de-mledjele-%C3%A0-mwali.html). The strategy was [built under the AUDA-NEPAD and German-cooperation Africa Data Governance Initiative, which aligns member states with the AU Data Policy Framework](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique). No instrument fixing where state data is held or under whose law it is processed was in force as at October 2026.
 
-State hosting is being built in separate pieces on separate money. The first public-administration data centre [opened on 19 May 2025 under the World Bank-financed RCIP4 project](https://www.habarizacomores.com/2025/05/azali-le-train-est-sur-les-rails-des.html); the finance ministry's AFD-financed PAGF-SI unit [tendered in December 2025 for its own primary and backup data centres with network operations centres](https://finances.gouv.km/appel-doffre/projet-dappui-aux-systemes-dinformation-de-la-gouvernance-financiere-pagf-si/); and the Islamic Development Bank's e-government project [procures the interoperability and data-exchange platform, with a national data centre financed by the African Development Bank](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais) (March 2026).
+State hosting is being built in separate pieces on separate money. The first public-administration data centre [opened on 19 May 2025 under the World Bank-financed RCIP4 project](https://www.habarizacomores.com/2025/05/azali-le-train-est-sur-les-rails-des.html); the finance ministry's AFD-financed PAGF-SI unit [tendered in December 2025 for its own primary and backup data centres with network operations centres](https://finances.gouv.km/appel-doffre/projet-dappui-aux-systemes-dinformation-de-la-gouvernance-financiere-pagf-si/); and the Islamic Development Bank's e-government project [procures the interoperability and data-exchange platform, with a national data centre financed by the African Development Bank](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais) (March 2026). The central bank sits apart from all three: it [put its own data centre into production in 2025, with redundant power, controlled cooling and high-resilience network connectivity](https://banque-comores.km/uploads/BCC_Rapport-Annuel-2025.pdf).
 
 The national payment switch [was awarded to the vendor PayLogic](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-deploys-digital-payment-switch), and [GenKey has taken over identity-document production](https://www.biometricupdate.com/202603/genkey-takes-over-biometric-passport-national-id-card-production-in-comoros). The terms on which the GenKey identity-document contract and the PayLogic payment-switch contract govern data jurisdiction, portability and exit had not been published as at September 2026.
