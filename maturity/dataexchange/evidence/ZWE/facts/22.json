@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Service Bus",
+   "country_label": "Government Service Bus",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": "The Government Service Bus is stated only as something Government would implement; not procured, being built or piloted."
+}

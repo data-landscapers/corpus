@@ -6,6 +6,7 @@ AGO,Projecto de Infra-Estruturas Digitais Públicas,Angola,exchange,,Instituto d
 AGO,Projecto de Aceleração Digital de Angola (PADA),Angola,other,,"IMA, World Bank-financed",,2026-08-04-angola-ima-launches-public-digital-infrastructure-project-with-tis
 AGO,Projecto de Infra-estruturas Digitais Públicas,Angola,exchange,,Instituto de Modernização Administrativa (IMA),,2026-06-17-ago-2026-ima-infra-estruturas-digitais-publicas
 AGO,Projecto de Infra-estruturas Digitais Publicas (plataforma de interoperabilidade),Angola,exchange,,Instituto de Modernizacao Administrativa (IMA),,2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas
+AGO,interoperabilidade da Administração Pública,Public administration interoperability channel (PADA),exchange,,Executive,,2026-10-23-ago-pr-autoriza-mais-70-milhoes-de-dolares-para-a-transformacao-digital-do
 BDI,National data exchange layer,Burundi,exchange,,"Government of Burundi, financed by World Bank Digital Foundations Project",,2022-05-31-world-bank-burundi-digital-foundations-project-pad
 BDI,Interoperability platform,Burundi,exchange,,"Government of Burundi, financed by World Bank Digital Foundations Project",,2022-05-31-world-bank-burundi-digital-foundations-project-pad
 BDI,Isoko platform,Burundi,other,,,,2022-05-31-world-bank-burundi-digital-foundations-project-pad
@@ -357,6 +358,7 @@ TUN,Plateforme d'interopérabilité,Tunisia,exchange,,Centre national de l'infor
 TUN,UXP (Unified eXchange Platform),Tunisia,exchange,UXP,Ministry of Communication Technologies,national,2024-02-07-mtc-tunisie-lancement-plateforme-nationale-interoperabilite-uxp
 TUN,Plateforme Nationale d'Interoperabilite,Plateforme Nationale d'Interoperabilite,exchange,,Centre National Informatique,,2026-05-01-tun-id4africa-iuc-country-playbook
 TUN,Plateforme Nationale d'Interopérabilité,Tunisia,exchange,X-Road model,Centre National Informatique,,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases
+TUN,national interoperability platform,Tunisia,other,,,,2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud
 TZA,GovESB (Government Enterprise Service Bus),Tanzania,exchange,,e-Government Authority,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GePG,Tanzania,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GovESB (e-GA),TZA,exchange,,e-Government Authority (e-GA),,2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb
@@ -377,6 +379,7 @@ UGA,UGHub,Uganda,exchange,WSO2,NITA-U,,2026-06-22-nita-u-five-year-digital-strat
 UGA,UGHub,Uganda,exchange,WSO2,NITA-U,,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30
 UGA,National ICT Infrastructure Spatial Data Store (NISDS),Uganda,other,Esri (partner),Ministry of ICT and National Guidance with NITA-U,,2025-08-27-ict-national-ict-infrastructure-spatial-data-store
 UGA,UGHub,Uganda,exchange,WSO2,NITA-U,,2025-06-19-nita-u-integration-service-ughub
+UGA,Government interoperability platform,Uganda,exchange,,NITA-U,,2026-07-02-uga-familiarisation-visit-highlights-nita-u-s-digital-progress
 ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-11-05-govt-data-exchange-estonia-xroad
 ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-11-04-ggf-south-africa-government-data-exchange-pilot
 ZAF,X-Road data exchange,South Africa,exchange,X-Road,"Digital Services Unit, Presidency; hosted by SITA",,2026-09-23-dailymaverick-zaf-govtech2026-dpi-estonia-2026
@@ -424,3 +427,4 @@ ZMB,ZamSign,Zambia,other,,,,2025-01-20 PID Appraisal Stage - Digital Zambia Acce
 ZMB,Government Service Bus (GSB),Government Service Bus,exchange,GSB,"Electronic Government Division, SMART Zambia Institute",,2024-09-11-zmb-zamportal-director-sibulowa-introduces-gsb
 ZWE,Government Service Bus,Zimbabwe,exchange,,"Ministry of ICT, Postal and Courier Services",,2026-05-08-zwe-mavetera-enterprise-architecture-linkedin
 ZWE,Ndarama Enterprise Resource Planning system,Zimbabwe,other,,"Ministry of ICT, Postal and Courier Services",,2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold
+ZWE,Government Service Bus,Government Service Bus,other,,"Ministry of ICT, Postal and Courier Services",,2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems
