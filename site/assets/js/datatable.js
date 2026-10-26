@@ -560,6 +560,30 @@
           });
         }
 
+        /* Each dropdown lists only the values found under the other filters, so a
+           country chosen leaves only the topics that country has (Bill, 2026-10-26).
+           A value already chosen stays listed even where the others now exclude it,
+           so the reader can see why the table is empty. */
+        var dropdowns = [];
+        function fill(f) {
+          var present = {};
+          rows.forEach(function (r) {
+            for (var ci in filterState) {
+              if (+ci !== f.ci && filterState[ci] && r[ci] !== filterState[ci]) return;
+            }
+            present[r[f.ci]] = 1;
+          });
+          var chosen = filterState[f.ci];
+          f.sel.innerHTML = '<option value="">'
+            + esc(filterAll[headers[f.ci]] || ('All ' + headers[f.ci].replace(/_/g, ' '))) + '</option>'
+            + f.values.filter(function (v) { return present[v] || v === chosen; }).map(function (v) {
+                var lab = display(f.ci, v);
+                if (lab.length > 60) lab = lab.slice(0, 59) + '…';
+                return '<option value="' + esc(v) + '">' + esc(lab) + '</option>';
+              }).join('');
+          f.sel.value = chosen;
+        }
+
         if (controls) {
           filterCols.forEach(function (ci) {
             var values = uniq(ci);
@@ -567,14 +591,14 @@
             var sel = document.createElement('select');
             sel.className = 'dt-filter';
             sel.setAttribute('aria-label', 'Filter by ' + headers[ci]);
-            sel.innerHTML = '<option value="">'
-              + esc(filterAll[headers[ci]] || ('All ' + headers[ci].replace(/_/g, ' '))) + '</option>'
-              + values.map(function (v) {
-                  var lab = display(ci, v);
-                  if (lab.length > 60) lab = lab.slice(0, 59) + '…';
-                  return '<option value="' + esc(v) + '">' + esc(lab) + '</option>';
-                }).join('');
-            sel.addEventListener('change', function () { filterState[ci] = sel.value; render(); });
+            var f = { ci: ci, sel: sel, values: values };
+            dropdowns.push(f);
+            fill(f);
+            sel.addEventListener('change', function () {
+              filterState[ci] = sel.value;
+              dropdowns.forEach(function (o) { if (o !== f) fill(o); });
+              render();
+            });
             controls.insertBefore(sel, countEl);
           });
 

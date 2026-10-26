@@ -7,6 +7,7 @@
 - Guinea's 2026 budget is now in the tables, read line by line from the finance bill as tabled in March 2026: 113 lines, GNF 357.3bn whole and 105.8bn partly digital, among them the tax information system (30bn), school connectivity (35bn) and the statistics institute (39.9bn). The figures are the bill's, since the enacted law is held without its line detail.
 - Cameroon's 2025 postal-sector fund now counts only its regulation platform, XAF 36m, in place of the whole fund's 900m at half. The fund's activity table shows no other digital spending.
 - On a status report, a section's topics now stay shown while you move to pick one. A slight scroll of the page no longer switches them back.
+- In the finance tables and every other filterable table, each dropdown now lists only the values found under the filters already chosen. Choose a country and the topic list shows only that country's topics.
 
 ## 25 October 2026
 
