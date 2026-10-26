@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 187
+sources_cited: 188
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -300,7 +300,7 @@ The physical conditions for learning anything digital in a classroom are still b
 ### Training and skills
 <!-- capacity.training -->
 
-[In July 2026 Sierra Leone launched a Digital Skills Programme for the civil service](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/), run by MoCTI with the Ministry of Public Administration and Political Affairs, the Civil Service Training College and the Human Resource Management Office, aiming at 1,000 civil servants in year one, 3,000 in the medium term and more than 5,000 in the long term. It [sits under the Digital Skills Development and Gig Economy Pipeline (2025–26) and covers six areas, among them AI and automation and cybersecurity](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/).
+[In July 2026 Sierra Leone launched a Digital Skills Programme for the civil service](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/), run by MoCTI with the Ministry of Public Administration and Political Affairs, the Civil Service Training College and the Human Resource Management Office, aiming at 1,000 civil servants in year one, 3,000 in the medium term and more than 5,000 in the long term. It [sits under the Digital Skills Development and Gig Economy Pipeline (2025–26) and covers six areas, among them AI and automation and cybersecurity](https://sierraloaded.sl/news/sierra-leone-digital-skills-civil-servants/). [Its first cohort, administrative staff on a three-week digital-literacy course, was certified in September 2026, with the next due to begin on 9 October](https://sierraloaded.sl/news/mocti-first-cohort-civil-serv-dig-training/).
 
 What has actually been delivered is smaller and more senior than those targets. [MoCTI, the Directorate of Science, Technology and Innovation, the National Cybersecurity Coordination Centre and the Kenyan firm Qhala trained more than 50 senior leaders from across ministries, departments and agencies in March 2026](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/), in digital literacy, the national-security implications of emerging technology and AI foundations; the whole-of-government AI and cybersecurity effort [follows a partnership with Qhala entered in September 2025](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/). [A Spatial Data Science for Development workshop trained 60 Sierra Leonean leaders in GIS and remote sensing, hazard mapping and secure inter-agency data governance for disaster management and WASH planning in June 2026](https://techafricanews.com/2026/06/30/dsti-and-crs-drive-sierra-leones-digital-transformation-through-geospatial-data/), and [Audit Service Sierra Leone, with AFROSAI-E, trained 25 staff on the final configured build of its SierraSeat audit management system over 3–5 August 2026](https://sierraleoneconcordtimes.com/audit-service-conducts-sierraseat-post-configuration-training/).
 
