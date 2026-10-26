@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-31-moz-statistics-on-complaints-received-by-banco-de-mocambique-against-finan",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Banco de Mocambique's complaints table lists two mobile money providers with customers: Vodafone M-Pesa (14,075,327) and M-Mola (11,841,195).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Vodafone M-Pesa; M-Mola",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

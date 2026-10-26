@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-01-gin-termes-de-reference-recrutement-d-un-cabinet-pour-l-elaboration-de-la",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The BCRG says the rise of mobile money and e-money institutions is gradually transforming Guinea's payments landscape.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

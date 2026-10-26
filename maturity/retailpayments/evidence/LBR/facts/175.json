@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-15-lbr-mtn-mobile-money-faces-cbl-fine-for-regulatory-non-compliance",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Lonestar Cell MTN Mobile Money Inc. is described as a prominent mobile money provider in Liberia operating under Central Bank of Liberia regulation.",
+   "as_of": "2024-06-15",
+   "date_precision": "day",
+   "system": "MTN Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

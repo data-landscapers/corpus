@@ -13,6 +13,12 @@ AGO,TPA (Terminais de Pagamento Automático),Angola,other,,,,2026-07-31-angola-u
 AGO,UNITEL Money,Angola,retail,mobile money,Unitel,,2025-05-24-ifc-unitel-money-partner-to-boost-digital-payments-in-angola
 AGO,SPTR,Angola,other,,BNA,,2026-07-16-bna-conclui-migracao-iso-20022
 AGO,Kwik,Angola,retail,,,,2026-05-27-kwanza-integra-sistema-de-pagamento-sadc-rtgs
+AGO,Afrimoney (Africell Mobile Money),Angola,retail,mobile money,Africell,,2024-07-16-ago-crescem-as-reclamacoes-pelos-servicos-de-mobile-money
+AGO,Unitel Money,Angola,retail,mobile money,,,2024-07-16-ago-crescem-as-reclamacoes-pelos-servicos-de-mobile-money
+AGO,PayPay,Angola,retail,,,,2024-07-16-ago-crescem-as-reclamacoes-pelos-servicos-de-mobile-money
+AGO,Afrimoney,Angola,retail,mobile money,Africell,,2025-12-17-ago-afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao
+AGO,Unitelmoney,Angola,retail,mobile money,,,2025-12-17-ago-afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao
+AGO,Paypay,Angola,retail,,,,2025-12-17-ago-afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao
 BDI,BurundiPay,Burundi,retail,,Bank of the Republic of Burundi,,2026-08-06-burundi-burundipay-instant-payment-uptake-brb
 BDI,BurundiPay,Burundi,retail,"national instant payment system, ISO 20022, USSD",Banque de la Republique du Burundi,"banks, microfinance, payment service providers",2026-04-28-burundipay-real-time-payments-platform-wearetech
 BDI,BurundiPay,Burundi,retail,national instant payments platform,Bank of the Republic of Burundi,"banks, microfinance, mobile money",2026-04-25-burundipay-platform-connects-banks-microfinance-mobile-money
@@ -113,6 +119,8 @@ CMR,MoMo Helep Pro,Cameroun,other,MoMo advances,MTN Cameroon,,2026-06-23-lejour-
 CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 CMR,Gimacpay,Cameroon,retail,Gimac interbank platform,Gimac,"53 banks, 13 microfinance, 11 mobile money operators, Treasury, postal service, 16 aggregators",2025-10-20-lejour-gimacpay-600bn-fcfa-transactions
 CMR,Tresor Pay,Cameroon,other,,Ministry of Finance,,2025-06-05-cameroon-mandates-digital-payment-platform-non-tax-revenues
+CMR,MTN Mobile Money,Cameroon,retail,mobile money,MTN Cameroon,,2026-10-13-cmr-fraude-mobile-money-au-cameroun-pourquoi-la-sensibilisation-ne-suffira
+CMR,Orange Money,Cameroon,retail,mobile money,Orange Cameroun,,2026-10-13-cmr-fraude-mobile-money-au-cameroun-pourquoi-la-sensibilisation-ne-suffira
 COD,FlashApp,DRC,retail,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
 COD,MainMoney,COD,retail,Keyo palm biometrics,AI.Tech,,2026-05-11-mainmoney-palm-biometrics-financial-inclusion-drc-biometricupdate
 COD,MainMoney,DR Congo,retail,palm-vein payment terminal,MainMoney,,2026-04-30-mainmoney-palm-vein-lancement-actualite
@@ -140,6 +148,8 @@ COM,Decentralised Digital Financial Institution licence,Comoros,other,,AXIAN,,20
 CPV,Makeba,Cabo Verde,retail,,Banco BAI,,2021-09-30-cpv-balai-estudo-moeda-eletronica-makeba
 CPV,Televinti4,Cabo Verde,retail,mobile app,SISP,,2024-03-03-cpv-expressodasilhas-televinti4-penetracao-baixa
 CPV,Vinti4 network,Cabo Verde,other,card network,SISP,,2024-03-03-cpv-expressodasilhas-televinti4-penetracao-baixa
+CPV,Speed,Cabo Verde,retail,mobile phone,Banco de Cabo Verde,,2026-10-23-cpv-bcv-preve-lancar-projecto-piloto-do-sistema-de-pagamentos-speed-antes-do-final-d
+CPV,Speed,Cabo Verde,retail,mobile phone,Banco de Cabo Verde,,2026-10-24-cpv-bcv-volta-a-prometer-projecto-piloto-de-pagamento-speed
 DJI,SYRAD,Djibouti,other,,,,2024-01-01-siips-2024-djibouti-excerpt
 DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 DJI,D-Money,D-Money,retail,smartphone app,Djibouti Telecom,,2024-09-26-dji-d-money-lancement-nouvelle-plateforme
@@ -168,6 +178,7 @@ DZA,BaridiMob,Algeria,retail,app,Algerie Poste,,2023-12-19-dza-mpt-autonomisatio
 DZA,Edahabia,Algeria,retail,card,Algerie Poste,,2023-12-19-dza-mpt-autonomisation-besoins-specifiques
 DZA,bank mobile and QR-code payment,DZA,retail,QR code,"CPA, BDL, BNA and other banks",,2026-10-21-dza-banks-race-to-change-algerians-cash-habits-before-end-2026
 DZA,CCP Business Cashless,DZA,other,,Algerie Poste,artisans and traders,2026-10-21-dza-algerie-poste-caci-framework-agreement
+DZA,Banxy (Natixis Algérie),Banxy neobank,other,,Natixis Algérie,,2026-03-10-dza-prestataires-de-services-de-paiement-le-rappel-a-l-ordre-d-un-banquier
 EGY,Instant Payment Network (IPN),Egypt,retail,InstaPay,Central Bank of Egypt,,2026-10-01-egypts-ipn-records-147-bln-transactions-in-2q-2026-cbe-governor
 EGY,InstaPay,Egypt,retail,,,,2026-09-23-enterpriseam-instapay-papss-egypt-integration
 EGY,InstaPay,Egypt,other,,Egyptian Banks Company,,2026-09-20-papss-meeza-card-integration-waya
@@ -308,6 +319,7 @@ KEN,M-PESA,Kenya,retail,,Safaricom,,2026-03-20-mpesa-stop-sharing-phone-numbers-
 KEN,Airtel Money,Kenya,retail,,,,2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal
 KEN,Hustler Fund,Kenya,other,*254#,,,2026-08-18-star-ruto-4-hustler-fund-has-built
 KEN,mobile money,Kenya,retail,,,,2026-08-18-star-ruto-4-hustler-fund-has-built
+KEN,M-PESA,M-PESA,retail,Huawei Cloud,,,2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit
 LBR,Inclusive Instant Payment System,Liberia,retail,instant payment,Central Bank of Liberia,Lonestar MTN Mobile Money; Orange Money Liberia,2026-10-01-liberian-observer-liberia-instant-payment-system-5-3m-transactions
 LBR,Inclusive Instant Payment System (IIPS),Liberia,retail,Mojaloop,Central Bank of Liberia,,2026-09-26-lbr-finance-minister-washington-diaspora-payments
 LBR,National Electronic Payment Switch,Liberia,retail,,Government of Liberia,planned,2026-09-26-lbr-finance-minister-washington-diaspora-payments
@@ -533,6 +545,8 @@ SEN,PI-SPI,Senegal,retail,,BCEAO,,2026-03-05-instant-payments-pi-spi-waemu-bceao
 SEN,mobile money,Senegal,retail,,,,2025-12-08 GSMA maps the reforms required for Senegal's digital takeoff
 SEN,Mixx,Senegal,retail,,AXIAN Group,,2026-09-02-afdb-axian-digital-finance-women-led-businesses
 SEN,PI-SPI,Senegal,other,instant payment platform operating 24h/24,,,2025-12-03-sen-aps-taux-inclusion-financiere-83
+SEN,Pay Dunya,Senegal,other,,,,2025-05-09-sen-regulation-des-fintechs-les-precisions-de-la-bceao
+SEN,Mikati,Senegal,other,,,,2025-05-09-sen-regulation-des-fintechs-les-precisions-de-la-bceao
 SLE,Flot,Sierra Leone,other,WhatsApp,Open Hub,,2026-04-24-open-hub-flot-platform
 SLE,National Instant Payment Switch,Sierra Leone,retail,,Bank of Sierra Leone,,2025-02-14 Sierra Leone Launches National Instant Payment System
 SLE,Afrimoney,Sierra Leone,retail,,Africell,,2025-02-14 Sierra Leone Launches National Instant Payment System
@@ -740,3 +754,4 @@ ZWE,ZimSwitch,ZWE,other,,,,2025-09-15-digital-finance-sector-explosive-growth
 ZWE,mobile money,ZWE,retail,,,,2025-09-15-digital-finance-sector-explosive-growth
 ZWE,Smile Cash,Smile Cash,retail,app and USSD wallet,ZB Financial Holdings,,2025-05-16-zwe-businesstimes-zb-smile-cash-250k
 ZWE,Smile&Pay,Smile&Pay,other,payment gateway,ZB Financial Holdings,,2025-05-16-zwe-businesstimes-zb-smile-cash-250k
+ZWE,Proposed instant payment system (NPCI International technology),Zimbabwe,retail,,Reserve Bank of Zimbabwe,,2026-10-25-zwe-zimbabwe-wants-digital-payments-to-build-trust-in-its-newest-currency-why-techno

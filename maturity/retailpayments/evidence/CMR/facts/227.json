@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-13-cmr-fraude-mobile-money-au-cameroun-pourquoi-la-sensibilisation-ne-suffira",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN Cameroon Mobile Money is operating, with MTN reporting over 4,000 fraud cases and attempts in 2025; Orange Money agents are also mentioned.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "MTN Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN Cameroon",
+   "tiers": ""
+  },
+  {
+   "system": "Orange Money",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange Cameroun",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-24-cpv-bcv-volta-a-prometer-projecto-piloto-de-pagamento-speed",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Speed",
+   "country_label": "Cabo Verde",
+   "class": "retail",
+   "platform": "mobile phone",
+   "owner": "Banco de Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": "Speed pilot is planned, not yet running; the banked share (~90%) is the governor's estimate, not a survey."
+}

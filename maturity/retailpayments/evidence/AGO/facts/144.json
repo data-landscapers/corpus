@@ -1,0 +1,42 @@
+{
+ "slug": "2024-07-16-ago-crescem-as-reclamacoes-pelos-servicos-de-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Africell Mobile Money entered operation as a payment service provider, with over 8.5 million registered accounts, and Unitel Money and PayPay also appear as non-bank providers.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Africell Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afrimoney (Africell Mobile Money)",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Africell",
+   "tiers": ""
+  },
+  {
+   "system": "Unitel Money",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PayPay",
+   "country_label": "Angola",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

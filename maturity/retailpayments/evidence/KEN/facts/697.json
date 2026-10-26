@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "KBC reports that M-PESA, a digital mobile money service, now runs its Africa-wide platform on Huawei Cloud and handles over 21 billion transactions a year across seven countries.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "M-PESA",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA",
+   "country_label": "M-PESA",
+   "class": "retail",
+   "platform": "Huawei Cloud",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
