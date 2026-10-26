@@ -9,9 +9,11 @@ only; nothing of OSINT's beyond the mirror freshness lint already reads.
 **The tally is the queues** — work waiting to start, each with who clears it:
 
 - **messages**     open blocks in the share's `messages-for-bill.md`. Bill clears.
+- **fetch**        unstruck lines in the share's `fetch-list.md`, documents only Bill's browser
+                   can get. Bill clears.
 - **corpus-notes** open notes in `notes-for-corpus.md`, OSINT's asks of Corpus. Corpus clears.
 - **osint-notes**  open notes in `notes-for-osint.md`. OSINT clears.
-- **housekeeping** open jobs in `corpus-housekeeping.md`. A `/poll` cycle works one a night.
+- **corpus-housekeeping** open jobs in `corpus-housekeeping.md`. A `/poll` cycle works one a night.
 - **prepared**     folders in the share's `prepared/`, handovers awaiting OSINT's pull.
 - **new-queue**    items in the share's `new-queue/`, awaiting OSINT's ingest.
 - **budget**       follow-ups in `logs/budget-followups.md`; most wait on a document or a ruling.
@@ -57,6 +59,7 @@ NOTE_HEADING = re.compile(r"^#{2,3} \d+[.\s]", re.M)
 NOTE_LEAD = re.compile(r"^\*\*\d+\*\*[ (]", re.M)
 JOB = re.compile(r"^## \d+ · ", re.M)
 FOLLOWUP = re.compile(r"^- \*\*", re.M)
+FETCH = re.compile(r"^\d+\. ", re.M)  # a struck line is `x75. …`
 MARKER = "<!-- newest first: a new block goes directly below this line -->"
 
 
@@ -153,9 +156,10 @@ def gates() -> list[str]:
 def tally() -> str:
     counts = [
         ("messages", messages()),
+        ("fetch", len(FETCH.findall(read(os.path.join(SHARE, "fetch-list.md"))))),
         ("corpus-notes", open_notes("notes-for-corpus.md")),
         ("osint-notes", open_notes("notes-for-osint.md")),
-        ("housekeeping", len(JOB.findall(read(os.path.join(SHARE, "corpus-housekeeping.md"))))),
+        ("corpus-housekeeping", len(JOB.findall(read(os.path.join(SHARE, "corpus-housekeeping.md"))))),
         ("prepared", entries("prepared")),
         ("new-queue", entries("new-queue")),
         ("budget", len(FOLLOWUP.findall(read(os.path.join(ROOT, "logs", "budget-followups.md"))))),
