@@ -561,6 +561,24 @@ def slug_offline():
             if not (r.get("url") or "").strip() and (r.get("url_note") or "").strip()}
 
 
+def slug_titles():
+    """title -> the slugs of the records carrying it, for check M's title-form refusal.
+
+    **A title-shaped slug is a slug** *(housekeeping 36, 2026-10-26)*. About 1,600 records in
+    this base are keyed by `YYYY-MM-DD {title}` rather than a hyphenated stem, because the slug is
+    the record's file name and OSINT names some files that way; 1,485 indicator citations in 54
+    units use them and every one resolves. What is a defect is a citation by the record's *title*
+    — the `title` column, which differs from the slug by the date prefix or by its wording — and
+    that is a target the base does not hold. This table lets check M say which record was meant
+    rather than calling it a mistyped slug."""
+    out = {}
+    for r in catalogue_rows():
+        t, s = (r.get("title") or "").strip(), r["slug"].strip()
+        if t and t != s:
+            out.setdefault(t, []).append(s)
+    return out
+
+
 def citable():
     """Every slug a document may link, and where to. The renderer's table, and check M's.
 
@@ -2137,7 +2155,7 @@ def check_indicator_sources(unit):
     if view is None:
         print("check M (indicators): SKIP — the mapping pass has not run for this unit")
         return 0
-    urls, held = citable(), raw_slugs()
+    urls, held, titles = citable(), raw_slugs(), slug_titles()
     bad = []
     for iid in sorted(view):
         row = view[iid]
@@ -2147,6 +2165,9 @@ def check_indicator_sources(unit):
                 if target.startswith(("http://", "https://")):
                     bad.append(f"{iid}/{field}: cites the URL {target!r} directly — this prose "
                                f"cites the base by slug and the renderer resolves it")
+                elif target not in held and target in titles:
+                    bad.append(f"{iid}/{field}: cites {target!r}, a record's title, not its "
+                               f"slug — cite {' or '.join(map(repr, titles[target]))}")
                 elif target not in held:
                     bad.append(f"{iid}/{field}: cites {target!r}, which the base does not hold — "
                                f"a mistyped or retired slug, not a source")

@@ -182,8 +182,9 @@ def with_rows(rows, fn):
     # would read the real catalogue and defeat the point of the fixture — this suite runs on a
     # machine with no vault. Empty, so `held-but-uncitable` stays uncitable: a record with no
     # `url:` and no `url_note:` is still the failure the check exists for.
-    old_off = rr.slug_offline
+    old_off, old_titles = rr.slug_offline, rr.slug_titles
     rr.REPORTS = TMP
+    rr.slug_titles = lambda: TITLES
     rr.slug_urls = lambda: URLS
     rr.slug_offline = lambda: {}
     rr.raw_slugs = lambda: set(URLS) | {"held-but-uncitable"}
@@ -193,9 +194,14 @@ def with_rows(rows, fn):
             rc = fn("ZZZ")
     finally:
         rr.REPORTS, rr.slug_urls, rr.raw_slugs = old_reports, old_urls, old_raw
-        rr.slug_offline = old_off
+        rr.slug_offline, rr.slug_titles = old_off, old_titles
     return rc, buf.getvalue()
 
+
+# A title-shaped slug is a slug (housekeeping 36): `SLUG_PARENS` is held under that key, and its
+# record's title is the same words without the date. Citing the title is what check M refuses.
+URLS[SLUG_PARENS] = "https://example.com/dr"
+TITLES = {"Digital 2026 Eritrea (DataReportal)": [SLUG_PARENS]}
 
 GOOD = dict(indicator_id=IID, progress="Movement", summary="a [claim](a-real-slug)",
             developments="the record", row_ids="ZZZ-a")
@@ -250,10 +256,16 @@ cases_M = [
      dict(GOOD, summary="a [claim](https://example.com/raw)"), "directly"),
     ("a bad citation in developments, not only in summary",
      dict(GOOD, developments="a [claim](ghost-slug)"), "does not hold"),
+    ("a record cited by its title rather than its slug, naming the slug meant",
+     dict(GOOD, summary="a [claim](Digital 2026 Eritrea (DataReportal))"),
+     f"a record's title, not its slug — cite {SLUG_PARENS!r}"),
 ]
 for what, row, wanted in cases_M:
     rc, out = with_rows([row], rr.check_indicator_sources)
     check(f"check M catches {what}", (rc, wanted in out), (1, True))
+check("check M accepts a title-shaped slug — 1,485 indicator citations use one",
+      with_rows([dict(GOOD, summary=f"a [claim]({SLUG_PARENS})")],
+                rr.check_indicator_sources)[0], 0)
 
 # The documented absence, and the boundary either side of it (`notes-for-corpus` 22). A blank
 # `url:` on its own is still a failure — the case above — and a blank `url:` with a `url_note:`
