@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-14-dza-elmassar-national-digital-services-portal-21-services",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "HCN central director Mohamed Louail said all portal data is secured under Law 25-11 on personal data protection, based on Law 18-07 as amended, plus Presidential Decree 25-320 on national data governance.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Law 25-11",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Louail said the National Authority for Personal Data Protection, with the information systems security agency, monitors data exchanges between government sectors for conformity with law.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "National Authority for Personal Data Protection",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

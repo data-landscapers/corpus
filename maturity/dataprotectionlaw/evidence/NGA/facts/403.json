@@ -1,0 +1,47 @@
+{
+ "slug": "2026-10-25-nga-ndpc-urges-responsible-ai-use-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The NDPC says the Nigeria Data Protection Act, 2023 and its General Application and Implementation Directive provide the legal framework for protecting personal information.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Commission, headed by National Commissioner Dr Vincent Olatunji, acts as the supervisory body and receives complaints.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The General Application and Implementation Directive is cited by the NDPC alongside the Act as part of the framework in force.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "General Application and Implementation Directive",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The NDPC says it has conducted more than 10,000 awareness activities; no decision or sanction is named.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

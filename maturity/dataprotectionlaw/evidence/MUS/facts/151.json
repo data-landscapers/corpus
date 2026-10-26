@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-mus-mitci-rfi-01-2025-26-sovereign-cloud",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry of ICT's sovereign cloud RFI requires the cloud to abide by the Data Protection Act (named as Data Protection Act 2017).",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "Data Protection Act 2017",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

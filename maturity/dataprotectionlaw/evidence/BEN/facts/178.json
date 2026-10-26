@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-ben-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-l-ere",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Benin's data protection authority (APDP) has a sitting president, Luciano Hounkponou, who spoke for it at ADEX 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "The document does not state the data protection law's standing."
+}

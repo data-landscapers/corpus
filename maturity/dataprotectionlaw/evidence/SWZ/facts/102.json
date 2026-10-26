@@ -1,0 +1,37 @@
+{
+ "slug": "2024-06-01-swz-edpa-notice-no-3-2024-enforcement-notice-in-terms-of-section-41-of-the",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Eswatini Data Protection Act 2022 is in force and the EDPA issued an enforcement notice under its section 41 in June 2024.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Section 5 of the Data Protection Act 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, which acted in this notice.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The EDPA found MTN Eswatini in breach of sections 14(1)(b) and 14(2) over a mobile money statement shared with a third party, imposed a warning and directed eleven measures, with a report due in three months.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

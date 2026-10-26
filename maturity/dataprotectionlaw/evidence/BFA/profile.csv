@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BFA,general,authority,qualifier,constituted,2025-07-01,BFA-013;BFA-015;BFA-017;BFA-020;BFA-022;BFA-023;BFA-025,BFA-002=provided;BFA-005=provided;BFA-008=provided;BFA-010=provided;BFA-027=provided,
-BFA,general,standing,coverage,in-force,2026-05-20,BFA-012;BFA-019;BFA-024;BFA-028,BFA-001=passed;BFA-004=passed;BFA-007=passed;BFA-026=transition,
+BFA,general,standing,coverage,in-force,2026-05-20,BFA-012;BFA-019;BFA-024;BFA-028;BFA-029,BFA-001=passed;BFA-004=passed;BFA-007=passed;BFA-026=transition,
 BFA,general,regulations,coverage,,,,,nothing held
 BFA,general,application,coverage,activity,2025-07-01,BFA-014;BFA-016;BFA-018;BFA-021,,
 BFA,general,last12,qualifier,advancing,2026-08-03,BFA-003;BFA-006;BFA-009;BFA-011,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-29-bwa-bofinet-pushes-for-local-data-hosting-to-strengthen-security",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BoFiNet CEO Geoffrey Seleka refers to Botswana's Data Protection Act as the law in line with which customer data should reside in Botswana.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": "The residency reading is the CEO's own; no authority, regulations or application stated."
+}

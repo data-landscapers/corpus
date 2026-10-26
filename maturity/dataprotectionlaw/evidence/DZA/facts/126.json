@@ -1,0 +1,27 @@
+{
+ "slug": "2024-10-09-dza-protection-des-consommateurs-des-services-financiers-un-reglement-sera",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The official cites law 18-07 on the protection of individuals in personal data processing as an existing legal measure.",
+   "as_of": "2024-10-09",
+   "date_precision": "day",
+   "system": "Law 18-07",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The official says the national authority for personal data protection (ANPDP) was created under law 18-07; no appointment is stated.",
+   "as_of": "2024-10-09",
+   "date_precision": "day",
+   "system": "ANPDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
