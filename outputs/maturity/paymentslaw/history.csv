@@ -11,3 +11,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,NAM,gov.legislate--digital-payments-legislation,fact,4,5,NAM-009;NAM-002;NAM-005,BoN PSDIR-11 (Jun 2025): e-money issuers must interoperate through the instant payment switch
 2026-10-25,DJI,gov.legislate--digital-payments-legislation,fact,3,4,DJI-002;DJI-001,BCD register lists licensed e-money issuers D-Money (2020) and WAAFI (2022)
 2026-10-26,EGY,gov.legislate--digital-payments-legislation,fact,3,4,EGY-003;EGY-004;EGY-001,"CBE licensing rules of 19 June 2025 license payment institutions to provide payment services; non-banks licensable, 3->4"
+2026-10-26,EGY,gov.legislate--digital-payments-legislation,ladder,4,4,EGY-003;EGY-004;EGY-001,"Bill, 2026-10-26, message 35: a payment-institution regime is enough; Egypt stays at 4."
+2026-10-26,BWA,gov.legislate--digital-payments-legislation,ladder,4,4,BWA-003;BWA-005;BWA-001,"Bill, 2026-10-26, message 35: a payment-institution regime is enough; Botswana stays at 4."

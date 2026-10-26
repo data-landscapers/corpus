@@ -55,6 +55,7 @@ Asked in order. Each is answered with a date and a link.
 - **Whether the law covers non-banks or requires connection is taken from what a source says of it**, never from reading its text for the purpose.
 - **Question 4 asks for the rule, not the switch.** A switch that providers may join, or have joined by choice, is not a yes; a deadline set by the regulator to connect is.
 - **A rule that only banks must connect is not a yes to question 4.**
+- **A payment-institution regime is a yes to question 3** *(Bill, 2026-10-26)*; the source need not say non-banks.
 - **A crypto or virtual asset law is not the payments law.** The current cells for Kenya and Nigeria lead with one; it is noted.
 - **Consumer protection and the central bank's oversight role are other rows** and are not asked here.
 - **How good the law is, and whether it is enforced, are not judged.** A reported criticism is noted.

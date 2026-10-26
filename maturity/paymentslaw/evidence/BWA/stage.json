@@ -1,16 +1,17 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "reach": "non-bank",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-003;BWA-005;BWA-001",
-   "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "reach": "non-bank",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-003;BWA-005;BWA-001",
+      "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
+      "note": "Counted from the four questions by study-ladder-paymentslaw.py.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }
