@@ -59,6 +59,7 @@ COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inc
 COD,BCC switch monetique national,DRC,oversight,,Banque centrale du Congo,,2026-04-16-transforme-paycode-digitalisation-imf-coopec-actualite
 COD,Paycode Fintech Congo platform,DRC,other,,Paycode Fintech Congo,,2026-04-16-transforme-paycode-digitalisation-imf-coopec-actualite
 COD,Mosolo card,DRC,other,,,,2026-04-16-transforme-paycode-digitalisation-imf-coopec-actualite
+COD,PAPSS,DR Congo,other,,Afreximbank,direct and indirect participants,2026-10-22-cod-rdc-le-papss-ouvre-son-reseau-aux-banques-et-fintechs
 COG,ARTF digital platform and TPE terminals,Congo,other,electronic payment terminals,ARTF,,2026-10-08-cog-adiac-artf-terminaux-paiement-2027
 COG,GIMACPAY,Congo,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
 COG,GIMACPAY,Congo,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
@@ -97,6 +98,7 @@ DZA,GIE Monétique,Algeria,other,national mobile switch,GIE Monétique,,2026-02-
 DZA,PAPSS,Algeria,oversight,regional payment and settlement system,Afreximbank,,2025-08-15 Bank of Algeria joins PAPSS network
 DZA,Domestic instant payment system,Algeria,other,instant switch,Bank of Algeria / CPI,in preparation,2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)
 DZA,DZ MOB PAY,Algeria,other,mobile wallet app,,,2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)
+DZA,Banxy (Natixis Algérie),Banxy neobank,other,,Natixis Algérie,,2026-03-10-dza-prestataires-de-services-de-paiement-le-rappel-a-l-ordre-d-un-banquier
 EGY,Instant Payment Network (IPN),Egypt,oversight,InstaPay,Central Bank of Egypt,,2026-10-01-egypts-ipn-records-147-bln-transactions-in-2q-2026-cbe-governor
 EGY,PAPSS,Egypt,oversight,,Afreximbank,,2026-09-23-enterpriseam-instapay-papss-egypt-integration
 EGY,Meeza,Egypt,other,,Egyptian Banks Company,,2026-09-20-papss-meeza-card-integration-waya
@@ -150,6 +152,9 @@ GIN,NimbaPay,Guinea,other,,BCRG and Guineenne de Monetique,,2026-07-22-mediaguin
 GIN,NimbaPay,Guinea,other,,BCRG,"banks, e-money institutions, microfinance institutions",2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
 GIN,Orange Money Pro,Guinea,other,,Orange Finance Mobile Guinee,,2026-07-23-mediaguinee-paiements-digitaux-ofmg-cciag-bcrg
 GIN,NimbaPay,Guinea,other,,BCRG and Guineenne de Monetique,,2026-07-26-guinee-aguiduten-salue-lancement-nimbapay
+GIN,RTGS,Guinea,other,,BCRG,,2026-08-01-gin-termes-de-reference-recrutement-d-un-cabinet-pour-l-elaboration-de-la
+GIN,ACP/ACH,Guinea,other,,BCRG,,2026-08-01-gin-termes-de-reference-recrutement-d-un-cabinet-pour-l-elaboration-de-la
+GIN,SSS,Guinea,other,,BCRG,,2026-08-01-gin-termes-de-reference-recrutement-d-un-cabinet-pour-l-elaboration-de-la
 GMB,BANTABA 2.0,The Gambia,oversight,Mojaloop,Gamswitch,,2026-02-23-gamswitch-iidia-gambia-launches-npsac-payment-systems-advisory-committee
 GMB,National Payment Systems Advisory Committee (NPSAC),The Gambia,other,,Central Bank of The Gambia,,2026-02-23-gamswitch-iidia-gambia-launches-npsac-payment-systems-advisory-committee
 GMB,PAPSS,Gambia,other,pan-African payment and settlement system,Pan-African Payment and Settlement System,,2026-04-01-papss-list-of-live-commercial-banks-april-2026
@@ -202,6 +207,7 @@ LBY,LYPay,Libya,other,,Central Bank of Libya,,2024-12-26-cbl-instant-payment-ser
 LBY,OnePay,Libya,other,,Central Bank of Libya,,2024-12-26-cbl-instant-payment-services-statistics
 LBY,Circular 9/2026,Libya,oversight,,Central Bank of Libya,,2026-09-14-lby-bankawy-cbl-circular-9-2026-ewallet-controls
 LBY,Moamalat,Libya,other,,,,2026-09-14-lby-bankawy-cbl-circular-9-2026-ewallet-controls
+LBY,LYPay,Libya,other,instant payment service,Central Bank of Libya,,2025-06-18-lby-central-bank-of-libya-officially-launches-the-website-for-the-instant
 LSO,LeSwitch,Lesotho,other,national payment switch,Central Bank of Lesotho,,2025-05-20 LeSwitch expands to localized POS transactions (Central Bank of Lesotho)
 LSO,LeSwitch,Lesotho,oversight,national payment switch,Central Bank of Lesotho and commercial banks,instant payments and card streams,2025-05-14-leswitch-pos-financial-inclusion-lestimes
 LSO,LeSwitch,Lesotho,oversight,national payment switch,Central Bank of Lesotho with banks and PSPs,fast payments launched; card-stream switching in testing,2024-10-08 Lesotho National Payment Switch (LeSwitch) — Standard Lesotho Bank press release

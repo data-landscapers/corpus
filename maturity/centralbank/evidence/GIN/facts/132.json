@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-01-gin-termes-de-reference-recrutement-d-un-cabinet-pour-l-elaboration-de-la",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The BCRG says its payment-infrastructure programme put in place the RTGS, the automated clearing house (ACP/ACH) and the securities settlement system.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "ACP/ACH",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RTGS",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG",
+   "tiers": ""
+  },
+  {
+   "system": "ACP/ACH",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG",
+   "tiers": ""
+  },
+  {
+   "system": "SSS",
+   "country_label": "Guinea",
+   "class": "other",
+   "platform": "",
+   "owner": "BCRG",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

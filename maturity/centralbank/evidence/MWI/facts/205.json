@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-28-mwi-fintech-push-spurs-rbm-to-rethink-monetary-tools",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The Reserve Bank of Malawi says it is developing a comprehensive fintech regulatory framework.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "RBM fintech regulatory framework",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

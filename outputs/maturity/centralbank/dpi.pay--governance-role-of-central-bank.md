@@ -152,7 +152,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### DR Congo: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank oversees a national payment switch in 2026 and joined PAPSS, but payments through it are not known.
 
 - Bankable reports that Switch Mosolo is the national payment switch developed under the Central Bank of Congo's oversight, with FINCA the first microfinance institution to join a pilot connecting through the Mosolo card ([source, 2026-08](https://bankable.africa/en/news/1409-3591-drc-microfinance-institutions-seek-digital-support-ahead-of-dollar-cash-ban)).
 - An agreement signed on 15 April 2026 connects microfinance institutions and savings cooperatives to the national card switch (switch monetique national) of the Banque centrale du Congo ([source, 2026-04-15](https://actualite.cd/2026/04/16/rdc-le-projet-transforme-appuie-la-digitalisation-des-imf-et-coopec)).

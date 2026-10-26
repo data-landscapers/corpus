@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-09-sen-regulation-des-fintechs-les-precisions-de-la-bceao",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "BCEAO's national director says that under instruction 01-01-2024 fintechs need BCEAO approval; nine are approved in the UEMOA area, two (Pay Dunya and Mikati) in Senegal, and non-compliant operators have been suspended since 2 May 2025.",
+   "as_of": "2025-05-09",
+   "date_precision": "day",
+   "system": "BCEAO instruction 01-01-2024",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

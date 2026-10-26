@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,centralbank,mandate,coverage,licensing,2026-09-30,MWI-004,,
+MWI,centralbank,mandate,coverage,licensing,2026-09-30,MWI-004,MWI-006=drafting,
 MWI,centralbank,switch,coverage,overseen,2025,MWI-001;MWI-002;MWI-005,,
-MWI,centralbank,regional,coverage,linked,2025-10,MWI-003,,
+MWI,centralbank,regional,coverage,regional,2025-10,MWI-003,,

@@ -84,3 +84,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,UGA,dpi.pay--governance-role-of-central-bank,ladder,5,unplaced,,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
 2026-10-25,ZAF,dpi.pay--governance-role-of-central-bank,ladder,5,4,ZAF-004;ZAF-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
 2026-10-25,ZMB,dpi.pay--governance-role-of-central-bank,ladder,5,4,ZMB-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
+2026-10-26,COD,dpi.pay--governance-role-of-central-bank,fact,4,4,COD-002;COD-003;COD-004,"BCC joined PAPSS Sept 2026; banks and fintechs only invited to apply, none connected, so not live; stays 4"

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-lby-central-bank-of-libya-officially-launches-the-website-for-the-instant",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Central Bank of Libya announced the official launch of the website of its LYPay instant payment service, which lists the participating banks.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "LYPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LYPay",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "instant payment service",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
