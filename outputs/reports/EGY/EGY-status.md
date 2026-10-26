@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 238
+sources_cited: 239
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -239,7 +239,7 @@ Elsewhere the systems work inside their own walls. The interior and communicatio
 
 Egypt [ranked 22nd on the World Bank's 2025 GovTech Maturity Index, up from 69th in 2022 on a score of 0.911](https://gate.ahram.org.eg/News/5356100.aspx), while placing [95th of 193 states on the UN's 2024 E-Government Development Index](https://masaar.net/en/a-critical-reading-of-egypts-e-government-experience/).
 
-[Launched in 2020](https://egyptianstreets.com/2025/11/13/egypt-to-shift-public-services-to-digital-egypt-platform/), the Digital Egypt platform had [10.7 million registered users and 210 services at the start of January 2026](https://gate.ahram.org.eg/News/5452906.aspx), [about 20 million transactions in 2026 to July](https://gate.ahram.org.eg/News/5813424.aspx), and [about 250 services in September 2026, against targets of 270 by the end of 2026 and 400 by 2030](https://gate.ahram.org.eg/News/5938370.aspx); [transactions rose from 7.8 million in 2024 to more than 25 million in 2025, with 73 services offered exclusively on the platform and other digital channels](https://www.youm7.com/story/2026/6/11/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AD%D9%82%D9%82-%D8%B7%D9%81%D8%B1%D8%A9-%D9%81%D9%89-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B9%D8%A7%D9%85/7444970).
+[Launched in 2020](https://egyptianstreets.com/2025/11/13/egypt-to-shift-public-services-to-digital-egypt-platform/), the Digital Egypt platform had [10.7 million registered users and 210 services at the start of January 2026](https://gate.ahram.org.eg/News/5452906.aspx), [about 20 million transactions in 2026 to July](https://gate.ahram.org.eg/News/5813424.aspx), and [about 250 services in September 2026](https://gate.ahram.org.eg/News/5938370.aspx), which [presidential directives of October 2026 target raising to 500 before the end of 2026, with all public services digitised within three years](https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living); [transactions rose from 7.8 million in 2024 to more than 25 million in 2025, with 73 services offered exclusively on the platform and other digital channels](https://www.youm7.com/story/2026/6/11/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AD%D9%82%D9%82-%D8%B7%D9%81%D8%B1%D8%A9-%D9%81%D9%89-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B9%D8%A7%D9%85/7444970).
 
 The state is closing the paper counter behind it. [Nine commercial-registry services became available exclusively through Digital Egypt from 1 January 2026](https://gate.ahram.org.eg/News/5452906.aspx), and GAFI's [investment e-licensing platform offers 460 services from 41 government issuers](https://gate.ahram.org.eg/News/5482679.aspx); [limited liability companies have been incorporated only on GAFI's portal, with an electronic-signature token, since 3 August 2025](https://gate.ahram.org.eg/News/5259847.aspx), and [powers of attorney, notarisation lookups and notary-office booking are on Digital Egypt, though some transactions still need an office visit](https://www.vetogate.com/5748525) (October 2026). In July 2026 the local development and communications ministries [launched public-shop licensing on the platform, using the digital treasury](https://almalnews.com/2126687/), making it [the first government service to reuse verified digital documents from the treasury](https://almalnews.com/2126687/).
 
