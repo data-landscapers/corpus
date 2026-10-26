@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: KEN
-ledger_rows: 149
+ledger_rows: 151
 not_held: 7
-record: b49a08d29953
+record: 435663db3b90
 ---
 
 # News, Sep – Oct 2026
@@ -1862,6 +1862,20 @@ Murang'a County has petitioned Kenya's High Court against the Ministry of Health
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Healthcare IT Digitisation Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PS Oluga calls for accountability, fast-tracking of healthcare digitisation](https://www.kbc.co.ke/oluga-calls-for-accountability-fast-tracking-of-healthcare-digitisation/)** — KBC Digital, 22 October 2026
+
+UHC digital programme review with Safaricom Consortium, DHA, SHA, KEMSA; subcontractor accountability first.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -2413,6 +2427,20 @@ Kenya's National Assembly gave its communication committee one month to report o
 **[Kenya ICT Authority signs AI Data cooperation agreement with South Korea’s K-DATA](https://techreviewafrica.com/news/7877/kenya-ict-authority-signs-ai-data-cooperation-agreement-with-south-korea-s-k-data)** — Tech Review Africa, 22 October 2026
 
 Kenya's ICT Authority signed a letter of intent in Seoul with the Korea Data Agency (K-DATA) to prepare government data for AI and pilot AI in public services, witnessed by ICT Cabinet Secretary William Kabogo. The cooperation also covers data governance, interoperability, secure data exchange across government, data quality certification and training, within the Data Protection Act 2019.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya Languages Lexicon (KENGLEX)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya’s language data holds promise for AI-powered services](https://capitalfm.africa/kenyas-language-data-holds-promise-for-ai-powered-services/)** — Capital FM Kenya, 22 October 2026
+
+Teknobyte's KENGLEX lists 133,000+ Kenyan English words; researchers urge community say in language-data licensing.
 
 </div>
 
