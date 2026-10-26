@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: NGA
-ledger_rows: 171
+ledger_rows: 172
 not_held: 9
-record: 040994076756
+record: 97ab9471f7af
 ---
 
 # News, Sep – Oct 2026
@@ -1322,6 +1322,14 @@ The US Trade and Development Agency has granted US$1,870,000 to Infragora Global
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria to get two new AI-ready data centres in a $1 billion investment](https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/)** — TechCabal, 26 October 2026
+
+Construction from Q2-Q3 2027; 160-200 MW captive power plant; backers undisclosed; USTDA funds feasibility study.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1919,6 +1927,20 @@ Onafriq had been negotiating the sale of Baxi, its Nigerian agent-banking busine
 **[The hurdles facing contactless payment adoption across Nigeria](https://techcabal.com/2026/10/16/hurdles-facing-contactless-payments/)** — TechCabal, 16 October 2026
 
 This TechCabal feature asks why tap-to-pay has not caught on in Nigeria although electronic payments are widespread, starting from CashAfrica's 13 October rollout of mobile tap-to-pay across more than 350 Chicken Republic outlets. It sets that against earlier attempts such as PayAttitude in 2015 and Access Bank's Tap to Phone in 2025, and against the Lagos transport Cowry card, which works because tapping is built into boarding.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">OPay Direct Debit for international merchants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EBANX Integrates OPay Direct Debit for Global Subscription Payments in Nigeria](https://techafricanews.com/2026/10/26/ebanx-opay-direct-debit-global-subscription-payments-nigeria/)** — Tech Africa News, 26 October 2026
+
+First international PSP on OPay recurring payments; 40m monthly users claimed; follows Capitec Pay in South Africa.
 
 </div>
 
