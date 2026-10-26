@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 174
+sources_cited: 176
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -135,7 +135,7 @@ Traffic exchange runs through [a single internet exchange point, MLIX, establish
 ### Data Storage
 <!-- infra.store -->
 
-Mali [inaugurated a sovereign Tier III data centre in Bamako in early 2026, part of a gradual repatriation of data hosted outside the country](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako/). There is no hyperscale alternative close by: [Malian users of the large cloud providers are served remotely from distant regions](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html) (2025).
+Mali [inaugurated a sovereign Tier III data centre in Bamako in early 2026, part of a gradual repatriation of data hosted outside the country](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako/). [The state transmission company sought a consultant in 2026 to take its OpenStack cloud offer into commercial service across two new national data centres at Sénou and Kati](https://www.malipages.com/appel-offre/recrutement-dun-cabinet-detudes-informatiques/). There is no hyperscale alternative close by: [Malian users of the large cloud providers are served remotely from distant regions](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html) (2025).
 
 Repatriation is a policy choice rather than a legal duty, since [Mali's 2013 personal data protection law sets no general requirement to store data inside the country](https://amrtp.ml/en/download/law-no-2013-015-of-may-21-2013-on-the-protection-of-personal-data-in-the-republic-of-mali/). What the state itself holds is thinner than the new building suggests: [data sources and data infrastructure are the weakest of the World Bank's statistical pillars for Mali](https://www.worldbank.org/en/programs/statistical-performance-indicators), well below its scores for data use and data services (2023).
 
@@ -337,7 +337,7 @@ The fifth general population and housing census, which Malian law requires every
 
 The state's ability to count what it governs has not moved in a decade: Mali's [capacity of the statistical system score stood at 32.5 out of 100 in 2023, 46th of 54 African states and 0.2 points below where it was ten years earlier](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). Connectivity inside the system is improving, with [internet access across the structures of the National Statistical System, coordinated by INSTAT under Law No. 2016-005, reaching 63 per cent in 2024 from 49 per cent in 2023](https://www.instat-mali.org/laravel-filemanager/files/shares/ca/rap-act-statistique-2024_ca.pdf), while intranet links and working websites remain scarce across many member bodies. Routine output is regular: [the 2024 statistical yearbook, compiled from ministry and agency returns, appeared in April 2026](https://www.instat-mali.org/storage/346/anuair24_pub.pdf), and [trade statistics are compiled each year from the customs directorate's computerised records](https://www.instat-mali.org/laravel-filemanager/files/shares/pub/anuair-stat-cmext23_pub.pdf).
 
-Where the numbers begin, capture is still on paper: rural clinics [keep patient encounters on paper registers and send only aggregated monthly totals to the national DHIS2 platform](https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Working_Groups/RHIS/B._Country-specific_documentation__case_studies__best_practices_/Community_HIS_country_case_studies/Case_studies/CS_Health_Data_Reporting_Challenges_in_Mali.pdf) (2025). A peer review of the education management information system found it had [no formal data-sharing protocol with INSTAT](https://knowledgehub.adeanet.org/en/elibrary/adea2017d017) (2017).
+Where the numbers begin, capture is mostly still on paper, though [the statistics institute is moving its own surveys to tablet collection on CSPro and ODK and trained staff across the statistical system in April 2026](https://instat-mali.org/fr/actualites-et-evenements/atelier-de-renforcement-des-capacites-des-cadres-du-ssn-sur-cspro-et-odk). Rural clinics [keep patient encounters on paper registers and send only aggregated monthly totals to the national DHIS2 platform](https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Working_Groups/RHIS/B._Country-specific_documentation__case_studies__best_practices_/Community_HIS_country_case_studies/Case_studies/CS_Health_Data_Reporting_Challenges_in_Mali.pdf) (2025). A peer review of the education management information system found it had [no formal data-sharing protocol with INSTAT](https://knowledgehub.adeanet.org/en/elibrary/adea2017d017) (2017).
 
 ### Open data
 <!-- data.open -->
