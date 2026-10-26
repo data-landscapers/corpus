@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: ZWE
-ledger_rows: 43
+ledger_rows: 47
 not_held: 6
-record: 1ce6244e09cd
+record: 0fd67427feb8
 ---
 
 # News, Sep – Oct 2026
@@ -91,6 +91,48 @@ Zimbabwe's ICT minister asked the telecommunications regulator to consider a ded
 **[Government gives postal sector 90 days for transformation plan](https://www.heraldonline.co.zw/government-gives-postal-sector-90-days-for-transformation-plan/)** — The Herald, 12 October 2026
 
 Zimbabwe's ICT minister gave her ministry, the regulator and the postal operator 90 days to produce a costed plan for the postal and courier sector to 2030, with quarterly reporting. She also directed operators to comply with the Cyber and Data Protection Act and required pilots of artificial intelligence and drones to carry a named lead, a timetable and measurable benefits.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI Charter</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zimbabwe Approves National AI Charter to Combat Surging Cyber Fraud](https://www.zimcitizennews.com/zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud/)** — ZimCitizenNews, 23 October 2026
+
+Cabinet committee approval 21 Oct 2026; Penguin AI local datasets before December; AI Act targeted next year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial-intelligence act</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Zimbabwe Approves National AI Charter to Combat Surging Cyber Fraud](https://www.zimcitizennews.com/zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud/)** — ZimCitizenNews, 23 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National digital regulatory committee</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Zimbabwe Approves National AI Charter to Combat Surging Cyber Fraud](https://www.zimcitizennews.com/zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud/)** — ZimCitizenNews, 23 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
@@ -693,6 +735,20 @@ Econet Ai, a subsidiary of Econet Wireless Zimbabwe, said its Ndebele-speaking c
 **[Govt pursues traffic violators as 4m offences caught on camera](https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/)** — Zimbabwe Situation (source: Herald), 27 September 2026
 
 Harare's AI-powered traffic cameras had recorded more than four million violations by the end of September 2026, up from 2.3 million in mid-August, and Zimbabwe's police have begun calling offenders in to pay fines after verification, reported on 27 September. Twenty cameras are installed under the first phase of a home affairs programme with TelOne, and more than 300 are planned for the capital.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Penguin AI local-datasets project</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Zimbabwe Approves National AI Charter to Combat Surging Cyber Fraud](https://www.zimcitizennews.com/zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud/)** — ZimCitizenNews, 23 October 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
