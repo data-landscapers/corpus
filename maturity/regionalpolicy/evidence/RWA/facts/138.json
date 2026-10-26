@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-22-rwa-rwanda-can-be-korea-s-ai-entry-point-to-africa-minister",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Minister Iradukunda says Rwanda hosted the Global AI Summit on Africa last year and launched an AI council for Africa with Smart Africa.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "AI council for Africa (Smart Africa)",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "Rwanda launched an AI council for Africa together with Smart Africa, according to Minister Iradukunda.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "AI council for Africa (Smart Africa)",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

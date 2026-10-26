@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-25-nga-ndpc-urges-responsible-ai-use-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The NDPC says the Nigeria Data Protection Act, 2023 and its Directive provide the legal framework.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The NDPC is led by National Commissioner and CEO Dr Vincent Olatunji.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The NDPC says it has conducted more than 10,000 awareness activities and works with licensed Data Protection Compliance Organisations.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

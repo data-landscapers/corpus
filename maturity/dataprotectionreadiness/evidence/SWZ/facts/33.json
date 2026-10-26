@@ -1,0 +1,37 @@
+{
+ "slug": "2024-06-01-swz-edpa-notice-no-3-2024-enforcement-notice-in-terms-of-section-41-of-the",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Data Protection Act 2022 is in force and the EDPA enforced it against MTN Eswatini in June 2024.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "The Eswatini Communications Commission is designated as the data protection authority and is acting, having issued Enforcement Notice No. 3/2024.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "fact": "The EDPA ruled against MTN Eswatini in Enforcement Notice No. 3/2024, a warning with eleven directed measures.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
