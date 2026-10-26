@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-19-nam-bank-windhoek-letshego-go-live-on-wayame-network",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "Namibia's instant payment network, operated by Instant Payments Namibia (a Bank of Namibia subsidiary), processed its first live government grant payments, with Bank Windhoek disbursing a batch to Marginalised Beneficiaries on 17 June 2026 and Letshego Bank Namibia certified to receive grant payments.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "WayaMe instant payment network",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WayaMe instant payment network",
+   "country_label": "Namibia",
+   "class": "exchange",
+   "platform": "Unified Payments Interface-enabled technology",
+   "owner": "Instant Payments Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

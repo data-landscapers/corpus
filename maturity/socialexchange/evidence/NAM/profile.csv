@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,exchange,exchange,coverage,inservice,2026-06,NAM-001;NAM-003;NAM-005,NAM-004=underway;NAM-002=underway;NAM-007=none,
-NAM,exchange,registry,coverage,shared,2022-06,NAM-006,,nothing dated since 2023-09-28
+NAM,exchange,exchange,coverage,inservice,2026-06,NAM-001;NAM-003;NAM-005;NAM-008,NAM-004=underway;NAM-002=underway;NAM-007=none,
+NAM,exchange,registry,coverage,shared,2022-06,NAM-006,,nothing dated since 2023-10-26
 NAM,exchange,linked,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-24-swz-govt-restores-13-online-services-website-still-down",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "Eswatini's ICT ministry said on 23 October 2026 that the Social Registry was among 13 services restored after disruptions.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Registry",
+   "country_label": "Eswatini",
+   "class": "social",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
