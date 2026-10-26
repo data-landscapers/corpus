@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: GNQ
-ledger_rows: 20
+ledger_rows: 21
 not_held: 6
-record: 2503093293e0
+record: bfacfca5d92c
 ---
 
 # News, Sep – Oct 2026
@@ -34,6 +34,8 @@ record: 2503093293e0
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
@@ -137,6 +139,22 @@ Lawyers for Equatorial Guinea's vice-president Teodoro Nguema Obiang Mangue said
 **[El proyecto de ley de comunicación prohibirá contenidos que inciten a la violencia y vulneren los derechos de menores - Diario Bata](https://diariobata.com/el-proyecto-de-ley-de-comunicacion-prohibira-contenidos-que-inciten-a-la-violencia-y-vulneren-los-derechos-de-menores/)** — Diario Bata, 22 October 2026
 
 Equatorial Guinea's draft communication law would ban content inciting violence, hatred or crime, or harming minors, across print, broadcast and digital media, and require streaming, podcast and platform providers to register and answer for what they carry. Broadcast licensees would have to give the regulator free monitoring of their output; the bill's legislative stage is not stated.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Presidency of the Statistical Commission for Africa, 2026-2028</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LA GUINEE EQUATORIALE ASSUME LA PRESIDENCE DE LA COMMISSION DE STATISTIQUE POUR L’AFRIQUE LORS DU SOMMET D’ADDIS-ABEBA.](https://inege.org/?lang=fr&p=18389)** — Instituto Nacional de Estadística de Guinea Ecuatorial (INEGE), 22 October 2026
+
+INEGE chief presides StatCom-Africa 10th session, Addis 19-23 Oct 2026; priorities incl. register-census-geo integration.
 
 </div>
 
