@@ -1,0 +1,215 @@
+{
+ "schema": 3,
+ "written_utc": "2026-10-26 02:48",
+ "pass": "sweep cycle",
+ "head": "e633ac61355fd1acf91553b76e67f41ce2b33f47",
+ "head_committed_utc": "2026-10-26 02:48",
+ "collection": {
+  "last_admission": "2026-10-26 01:17",
+  "sweep_closed": "2026-10-25 23:02",
+  "ingest_started": "2026-10-25 23:03"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-10-25 22:41",
+   "end": "2026-10-26 02:39",
+   "duration": "3:58",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 574,
+  "admitted": 411,
+  "dropped": 161,
+  "screened": 442,
+  "screen_dropped": 302,
+  "pages_over_line": 367,
+  "awaiting_ingest": 0,
+  "raw_sources": 33696
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-10-25 22:38",
+   "seven_day": 14.0,
+   "five_hour": 0.0
+  },
+  "sweep": {
+   "time_utc": "2026-10-25 23:02",
+   "seven_day": 15.0,
+   "five_hour": 4.0
+  },
+  "ingest": {
+   "time_utc": "2026-10-26 00:41",
+   "seven_day": 20.0,
+   "five_hour": 25.0
+  },
+  "lint": {
+   "time_utc": "2026-10-26 02:38",
+   "seven_day": 25.0,
+   "five_hour": 42.0
+  },
+  "close": {
+   "time_utc": "2026-10-26 02:39",
+   "seven_day": 25.0,
+   "five_hour": 42.0
+  },
+  "backlog": {
+   "time_utc": "2026-10-26 02:46",
+   "seven_day": 25.0,
+   "five_hour": 42.0
+  },
+  "rules": {
+   "time_utc": "2026-10-26 02:47",
+   "seven_day": 25.0,
+   "five_hour": 42.0
+  },
+  "end": {
+   "time_utc": "2026-10-26 02:48",
+   "seven_day": 25.0,
+   "five_hour": 42.0
+  }
+ },
+ "drops": {
+  "night": "2026-10-25",
+  "ingest_coded": true,
+  "sweeps": {
+   "corpus-queue": {
+    "sweep": {},
+    "ingest": {
+     "already-seen": 1
+    },
+    "admitted": 0,
+    "ingest_drop_rate": 1.0
+   },
+   "country-deep": {
+    "sweep": {
+     "already-seen": 61,
+     "off-topic": 60,
+     "no-development": 21,
+     "already-held": 14,
+     "syndicated-copy": 11,
+     "fails-record-test": 10,
+     "out-of-window": 9,
+     "date-unestablished": 5,
+     "inadmissible-origin": 5,
+     "headline-only-stub": 4,
+     "fetch-blocked": 3,
+     "not-this-slice": 1
+    },
+    "ingest": {
+     "already-held": 25,
+     "no-value": 12,
+     "no-development": 3,
+     "off-topic": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 64,
+    "ingest_drop_rate": 0.396
+   },
+   "daily": {
+    "sweep": {
+     "off-place": 6,
+     "already-seen": 4,
+     "no-development": 3,
+     "already-held": 1,
+     "off-topic": 1
+    },
+    "ingest": {},
+    "admitted": 0,
+    "ingest_drop_rate": null
+   },
+   "financiers": {
+    "sweep": {
+     "off-topic": 13,
+     "already-seen": 10,
+     "no-development": 8,
+     "already-held": 4,
+     "date-unestablished": 4,
+     "out-of-window": 3,
+     "fails-record-test": 1,
+     "inadmissible-origin": 1,
+     "syndicated-copy": 1
+    },
+    "ingest": {
+     "off-topic": 5,
+     "already-held": 2,
+     "no-development": 1,
+     "no-value": 1
+    },
+    "admitted": 7,
+    "ingest_drop_rate": 0.562
+   },
+   "maturity-study-civilserviceskills": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 15,
+     "inadmissible-origin": 6,
+     "no-value": 3,
+     "syndicated-copy": 3,
+     "off-topic": 2,
+     "no-development": 1
+    },
+    "admitted": 140,
+    "ingest_drop_rate": 0.176
+   },
+   "maturity-study-cloudstrategy": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 36,
+     "inadmissible-origin": 4,
+     "no-development": 4,
+     "no-value": 2,
+     "headline-only-stub": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 56,
+    "ingest_drop_rate": 0.462
+   },
+   "maturity-study-consumerprotection": {
+    "sweep": {},
+    "ingest": {
+     "already-held": 23,
+     "already-seen": 2,
+     "inadmissible-origin": 2,
+     "no-value": 2,
+     "headline-only-stub": 1,
+     "no-development": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 116,
+    "ingest_drop_rate": 0.216
+   },
+   "off-list": {
+    "sweep": {
+     "off-topic": 5,
+     "off-place": 3,
+     "already-held": 1,
+     "already-seen": 1,
+     "inadmissible-origin": 1,
+     "syndicated-copy": 1
+    },
+    "ingest": {
+     "already-held": 3,
+     "no-value": 3,
+     "syndicated-copy": 1
+    },
+    "admitted": 4,
+    "ingest_drop_rate": 0.636
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 1445,
+  "since": "2026-10-25 10:57"
+ }
+}
