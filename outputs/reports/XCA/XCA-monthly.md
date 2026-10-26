@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: XCA
-ledger_rows: 15
+ledger_rows: 16
 not_held: 0
-record: ea5878ec8606
+record: 3d75b81a50a1
 ---
 
 # News, Sep – Oct 2026
@@ -18,6 +18,8 @@ record: ea5878ec8606
 <a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#shared-systems-and-infrastructure">Shared systems and infrastructure</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#coordination-and-collaboration">Coordination and collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#finance">Finance</a>
 </nav>
@@ -417,6 +419,28 @@ CEMAC energy ministers met in Libreville on a draft regulation creating a commun
 **[Gabon/CEMAC/Énergie : validation du règlement portant création du SIE](https://agpgabon.ga/gabon-cemac-energie-validation-du-reglement-portant-creation-du-sie/)** — AGP - Agence Gabonaise de Presse, 25 September 2026
 
 Energy ministers of the Central African Economic and Monetary Community (CEMAC), meeting in Libreville on 25 September 2026, validated a regulation creating a community energy information system, SIE-CEMAC, and adopted a roadmap for it. The regulation sets rules for collecting, processing, sharing and archiving energy data. Both texts go to the UEAC Council of Ministers for adoption.
+
+</div>
+
+</div>
+
+## Coordination and collaboration
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Coordination and collaboration">
+<a href="#india-activities">India activities</a>
+</nav>
+
+### India activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional central bank technical cooperation with the Reserve Bank of India</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BEAC et Reserve Bank of India : coopération en vue](https://centrafrique.news/paiements-la-beac-prend-exemple-sur-linde/)** — Centrafrique.news, 23 October 2026
+
+New Delhi talks 20 Oct 2026; payments, cyber, AI and currency swaps to explore; nothing signed yet.
 
 </div>
 
