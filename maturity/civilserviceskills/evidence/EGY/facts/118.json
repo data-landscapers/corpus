@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-20-egy-mcit-146695-it-training-certificates-state-administrative-staff",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Deputy Minister of Communications and Information Technology said the ministry runs a plan for digital capacity building of leaders and staff of the state administrative apparatus and had trained most of them, with 146,695 training certificates issued.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "MCIT digital literacy and capacity-building plan",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The Deputy Minister said the ministry had finished training the majority of staff and leaders across the state administrative apparatus, 146,695 certificates in all.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "MCIT digital literacy and capacity-building plan",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

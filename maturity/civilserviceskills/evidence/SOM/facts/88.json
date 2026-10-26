@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-17-som-national-institute-of-telecommunications-launches-digital-skills-train",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The National Institute of Telecommunications and Technology of the Ministry of Communications and Technology launched a programme to raise government employees' digital knowledge, opening with a data protection workshop.",
+   "as_of": "2026-10-17",
+   "date_precision": "day",
+   "system": "NTTI digital skills programme for government employees",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

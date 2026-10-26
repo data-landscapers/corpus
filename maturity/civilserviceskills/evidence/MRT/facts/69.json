@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-08-mrt-clap-de-fin-pour-deux-formations-strategiques-organisees-avec-succes-d",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "GIZ Mauritanie says the DIGITAL-Y project (BMZ-funded, GIZ-implemented) completed cybersecurity and artificial-intelligence courses at the CFED, under the ministry MTNMA, aimed at training 150 participants in each from the Mauritanian public sector.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "DIGITAL-Y training at CFED",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DIGITAL-Y training at CFED",
+   "country_label": "Mauritania",
+   "class": "csskills",
+   "platform": "CFED (distance training centre)",
+   "owner": "GIZ / BMZ with MTNMA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

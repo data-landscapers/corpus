@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-23-zwe-ensure-adequate-cyber-security-systems-ict-minister",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The ICT Minister addressed 105 civil servants who received certificates after a week-long cyber security training run by the Ministry of ICT with Huawei, and said the Ministry would keep organising such training.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Ministry of ICT cyber security training for civil servants",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

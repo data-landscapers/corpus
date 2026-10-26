@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-15-lby-the-civil-service-launches-a-specialized-training-program-in-computer",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Libya Update, citing LANA, reports the Ministry of Civil Service launched a one-week, ten-hour computer-applications course for government employees in Benghazi on 14 September 2025, the first of a series on electronic archiving.",
+   "as_of": "2025-09-14",
+   "date_precision": "day",
+   "system": "Ministry of Civil Service computer applications course",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

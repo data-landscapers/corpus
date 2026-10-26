@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-12-nga-fg-advances-digital-transformation-as-hcsf-presents-nitda-donated-lapt",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Office of the Head of the Civil Service says the DL4ALL programme with NITDA equips officers across MDAs with foundational digital skills, and honoured 35 officers from seven MDAs at its awards on 11 February 2026.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "Digital Literacy for All (DL4ALL)",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The Office of the Head of the Civil Service says the DL4ALL programme was designed to equip officers across MDAs with foundational digital skills.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "Digital Literacy for All (DL4ALL)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Literacy for All (DL4ALL)",
+   "country_label": "Nigeria",
+   "class": "csskills",
+   "platform": "Cisco Networking Academy / DISCO learning platform",
+   "owner": "NITDA / OHCSF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

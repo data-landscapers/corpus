@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-23-nga-nitda-launches-capacity-building-programme-to-boost-digital-literacy-i",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "NITDA says it launched a capacity-building programme for civil servants at the Office of the Head of the Civil Service, training champions from 43 MDAs on the DISCO learning platform for a Cisco-backed online course.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Digital Literacy for All (DL4ALL)",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "NITDA says the Head of the Civil Service stated all civil servants are required to complete the Cisco-backed online course within two months, with progress tracked across ministries.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Digital Literacy for All (DL4ALL)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Literacy for All (DL4ALL)",
+   "country_label": "Nigeria",
+   "class": "csskills",
+   "platform": "Cisco Networking Academy / DISCO learning platform",
+   "owner": "NITDA / OHCSF",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

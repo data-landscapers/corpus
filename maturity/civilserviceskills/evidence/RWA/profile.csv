@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,csskills,training,coverage,underway,2026-02-17,RWA-001;RWA-002,,
-RWA,csskills,reach,coverage,,,,,nothing held
+RWA,csskills,training,coverage,inservice,2026-05-19,RWA-003,RWA-001=underway;RWA-005=underway;RWA-007=underway;RWA-002=underway;RWA-009=underway,
+RWA,csskills,reach,coverage,wide,2026-05-19,RWA-004;RWA-006;RWA-008,,
 RWA,csskills,share,coverage,,,,,nothing held

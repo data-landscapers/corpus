@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-31-civ-cote-d-ivoire-192-agents-de-l-etat-du-hambol-desormais-outilles-en-inf",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The SNDI training centre, under the digital transition ministry, says it has trained more than 37,500 civil servants and state agents in IT since it opened on 10 September 2012.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Centre de Formation de la SNDI",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "192 civil servants from 35 structures in the Hambol region received certificates on 29 July 2026 after an SNDI course in IT and AI run from 22 June.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Centre de Formation de la SNDI",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre de Formation de la SNDI",
+   "country_label": "SNDI training centre",
+   "class": "csskills",
+   "platform": "",
+   "owner": "SNDI under MTNIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

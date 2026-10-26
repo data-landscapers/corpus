@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,csskills,training,coverage,inservice,2025-06,UGA-003,UGA-001=underway;UGA-002=underway,
+UGA,csskills,training,coverage,inservice,2025-06,UGA-003,UGA-005=underway;UGA-001=underway;UGA-002=underway;UGA-004=underway,
 UGA,csskills,reach,coverage,,,,,nothing held
 UGA,csskills,share,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-ken-building-ai-capacity-in-the-kenyan-public-sector",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Oxford Insights says a learning platform for digital and AI skills, built by Apolitical after a training needs assessment for the Government of Kenya's Regional Centre of Competence with UNDP and Microsoft, has been piloted with Kenyan civil servants.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Regional Centre of Competence for Digital and AI Skilling learning platform",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Regional Centre of Competence (RCoC) for Digital and AI Skilling",
+   "country_label": "Kenya",
+   "class": "csskills",
+   "platform": "learning platform (Apolitical)",
+   "owner": "Government of Kenya with UNDP and Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

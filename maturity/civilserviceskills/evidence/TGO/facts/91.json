@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-tgo-transformation-digitale-de-l-economie-togolaise-prodigit",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The LuxDev project sheet for ProDigiT says 16 public executives were supported and that structured data science and digital skills pathways for the administration are in preparation.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "ProDigiT",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

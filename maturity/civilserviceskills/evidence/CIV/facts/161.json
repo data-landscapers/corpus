@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-12-civ-tic-190-agents-de-l-etat-formes-aux-outils-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Fraternite Matin reports the state company SNDI's training centre, opened in 2012, has trained more than 28,500 civil servants and state agents, including 190 agents from 36 bodies in the Marahoue region who ended an office-tools seminar on 6 August 2024.",
+   "as_of": "2024-08-06",
+   "date_precision": "day",
+   "system": "SNDI training centre for state agents",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNDI training centre",
+   "country_label": "Cote d'Ivoire",
+   "class": "csskills",
+   "platform": "",
+   "owner": "SNDI (under the Primature)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

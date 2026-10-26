@@ -23,10 +23,10 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 7 |
-| 2 Nascent | 40 |
+| 2 Nascent | 42 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
-| No evidence | 2 |
+| Unplaced | 1 |
+| No evidence | 1 |
 
 ## Countries
 
@@ -124,6 +124,12 @@ Digital-skills training for civil servants was under way in 2024; a standing pro
 
 - The record says the World Bank-funded PACTDIGITAL project, reported 2024-03-11, includes public-administration skills among its components ([source, 2024-03-11](https://projects.worldbank.org/en/projects-operations/project-detail/P177022)).
 
+### Burundi: 2 Nascent
+
+A programme to train 5,000 civil servants in basic digital skills was announced in 2026; whether it has begun is not known.
+
+- The PAFEN coordinator says in a LinkedIn post that PAFEN will soon launch a basic digital skills programme aiming to train 5,000 civil servants in under 12 months ([source, 2026-09](https://www.linkedin.com/feed/update/urn:li:activity:7509922575322566656)).
+
 ### Cape Verde: 2 Nascent
 
 Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
@@ -155,6 +161,13 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 - The Agence Congolaise des Systemes d'Information, under its office-skills training programme for staff of public administrations, scheduled a session for staff of the Direction Generale des Comptes Publics et du Patrimoine from 23 March to 17 April 2026 ([source, 2026-03](https://acsi.cg/actualites/renforcement-de-competences-numeriques-des-agents-de-la-dgcpp-par-lacsi/)).
 - The World Bank-funded PATN project opened centres where public-sector agents of the Posts, Telecommunications and Digital Economy department are trained, with sessions of at least 30 hours on database management, per Les Depeches de Brazzaville ([source, 2024-08-29](https://www.adiac-congo.com/content/patn-des-agents-publics-formes-la-gestion-des-bases-de-donnees-numeriques-159517)).
+
+### DR Congo: 2 Nascent
+
+Digital-skills courses for state agents were held in 2025 and 2026; a standing programme with a number trained is not known.
+
+- ADN, with KADEA and ULB-Solvay Lifelong Learning, held the first session of an executive programme in digital transformation and AI on 28-30 September 2026 for cadres from 30 public institutions; further sessions follow ([source, 2026-09-28](https://adn.cd/fr/actualites/l-adn-en-collaboration-avec-kadea-et-ulb-solvay-lifelong-learning-a-organise-un-programme-executive-en-transformation-digitale-et-intelligence-artificielle)).
+- The Ministry of National Education and New Citizenship says it opened on 9 September 2025 a series of 15-day computing and digital-tools courses, in groups of 20, for managers and staff of its central services ([source, 2025-09-09](https://edu-nc.gouv.cd/actualites/digitalisation-de-ladministration-le-ministere-forme-ses-agents-aux-outils-numeriques-et-a-la-micro-informatique)).
 
 ### Djibouti: 2 Nascent
 
@@ -350,23 +363,11 @@ Digital-skills training for civil servants was under way in 2025; a standing pro
 
 - Zimbabwe's government is set to make digital skills training in AI, cybersecurity and data management mandatory for all civil servants, with at least 10 000 public employees trained each year, per Finance Minister Mthuli Ncube ([source, 2025-11-07](http://www.businessdaily.co.zw/index-id-National-zk-52741.html)).
 
-### DR Congo: Unplaced
-
-Nothing held since 2023 shows a government digital-skills programme or course for civil servants, so no stage is set.
-
-Not established: Nothing held since October 2023 says a government body trains civil servants in digital skills.
-
 ### Eritrea: Unplaced
 
 Nothing held since 2023 names digital-skills training for civil servants, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether civil servants are trained in digital skills.
-
-### Burundi: No evidence
-
-Nothing held names digital-skills training for civil servants or says there is none, so no stage is set.
-
-Not established: Nothing held says whether civil servants are trained in digital skills.
 
 ### Libya: No evidence
 

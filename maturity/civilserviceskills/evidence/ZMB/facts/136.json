@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-14-zmb-zambia-launches-digital-skills-trainer-program-to-scale-public-sector",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "SMART Zambia Institute launched a digital skills training-of-trainers programme in Ndola on 12 January 2026 for 80 beneficiaries mainly from public sector institutions, who are to pass skills on within their institutions.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "Digital skills training-of-trainers programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital skills training-of-trainers programme",
+   "country_label": "Zambia",
+   "class": "csskills",
+   "platform": "",
+   "owner": "SMART Zambia Institute",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

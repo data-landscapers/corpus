@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-16-ben-benin-une-nouvelle-vague-de-formation-icdl-pour-les-agents-de-l-admini",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "La Marina BJ reports that in 2022 the State trained 1,500 public administration agents for ICDL certification, and that ASIN is to supervise a second wave for 351 agents in 2024 (per a local source).",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ICDL certification of public agents",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ICDL certification of public agents",
+   "country_label": "Benin",
+   "class": "csskills",
+   "platform": "ICDL",
+   "owner": "ASIN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

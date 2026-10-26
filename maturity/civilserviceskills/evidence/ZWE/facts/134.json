@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-zwe-minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-dir",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Minister Mavetera announced a three-tier AI Skills Accelerator Programme for the public sector, with foundational awareness for every civil servant, specialist training for ICT professionals and research partnerships with state universities.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "AI Skills Accelerator Programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

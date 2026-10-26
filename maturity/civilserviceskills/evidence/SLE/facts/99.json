@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-25-sle-sierra-leone-trains-1-000-civil-servants-to-modernize-public-services",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communication, Technology and Innovation and the Ministry of Public Administration and Political Affairs signed an agreement on 24 June 2026 for a nine-month programme to train 1,000 civil servants in digital tools, data, AI and cybersecurity through the Public Service Academy.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Public Service Academy digital skills programme",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Ecofin Agency reports the programme will reach staff from all 29 ministries, departments and agencies.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Public Service Academy digital skills programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Service Academy digital skills programme",
+   "country_label": "Public Service Academy",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Ministry of Public Administration and Political Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-13-rwa-numerique-le-rwanda-lance-des-formations-en-ia-pour-tous-les-fonctionn",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of ICT announced in a 12 January 2026 communique AI training for all state employees in every sector.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "AI training for state employees",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The Ministry of ICT said in its 12 January 2026 communique that the AI training is compulsory for all state employees, whatever their role or starting skill level.",
+   "as_of": "2026-01-12",
+   "date_precision": "day",
+   "system": "AI training for state employees",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

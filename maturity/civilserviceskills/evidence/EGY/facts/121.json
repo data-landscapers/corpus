@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-21-egy-ict-minister-witnesses-mou-signing-between-mcit-microsoft-egypt-to-tra",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Under an MoU signed on 21 April 2025 the ministry and Microsoft Egypt plan to train about 100,000 trainees on AI, including employees of digital transformation units in ministries and government agencies.",
+   "as_of": "2025-04-21",
+   "date_precision": "day",
+   "system": "MCIT-Microsoft AI training MoU",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-28-sle-mocti-certifies-first-cohort-of-civil-service-digital-skills-programme",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Sierraloaded reports the Ministry of Communication, Technology and Innovation, with MoPAPA, HRMO and the Public Service Academy, certified the first cohort of its Civil Service Digital Skills Training Programme after three weeks of digital literacy training, with the next cohort due 9 October 2026; no number trained is given.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Civil Service Digital Skills Training Programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Service Digital Skills Training Programme",
+   "country_label": "Sierra Leone",
+   "class": "csskills",
+   "platform": "",
+   "owner": "MoCTI with MoPAPA, HRMO, Public Service Academy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

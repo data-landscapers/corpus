@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-18-ken-rcoc-sets-the-stage-for-phase-2",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Kenya School of Government says Phase I of the RCoC AI and Digital Skilling Project, run on a learning management system, had 13,790 public servants complete training over four months, from 22 counties and 52 state corporations.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "RCoC AI and Digital Skilling Project (Phase I)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Regional Centre of Competence (RCoC) AI and Digital Skilling Project",
+   "country_label": "Kenya",
+   "class": "csskills",
+   "platform": "learning management system",
+   "owner": "Kenya School of Government / MICDE / UNDP / Microsoft",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

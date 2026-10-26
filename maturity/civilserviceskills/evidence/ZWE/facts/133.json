@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The ICT Minister announced plans for a national AI Skills Accelerator Programme for public sector workers, to be run with universities and the e-Government Unit.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "AI Skills Accelerator Programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": "Announced plan only; no number trained."
+}

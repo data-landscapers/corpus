@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-16-egy-almasryalyoum-mped-apa-lms-digital-training-platform",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Al-Masry Al-Youm reports the Ministry of Planning, with the Administrative Prosecution Authority, launched the LMS digital training platform for the Authority's members and staff, with computer basics and language courses.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "Administrative Prosecution Authority LMS digital training platform",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LMS digital training platform",
+   "country_label": "Egypt",
+   "class": "csskills",
+   "platform": "LMS",
+   "owner": "Ministry of Planning / Administrative Prosecution Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

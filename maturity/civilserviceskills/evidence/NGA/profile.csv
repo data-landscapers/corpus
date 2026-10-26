@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,csskills,training,coverage,inservice,2026-09-20,NGA-002;NGA-005,NGA-004=underway;NGA-006=underway;NGA-001=underway;NGA-003=underway,
-NGA,csskills,reach,coverage,,,,,nothing held
-NGA,csskills,share,coverage,,,,,nothing held
+NGA,csskills,training,coverage,inservice,2026-09-20,NGA-002;NGA-005;NGA-007;NGA-010,NGA-004=underway;NGA-013=underway;NGA-006=underway;NGA-015=underway;NGA-017=underway;NGA-001=underway;NGA-018=underway;NGA-003=underway;NGA-019=underway,
+NGA,csskills,reach,coverage,wide,2026-02,NGA-008;NGA-011;NGA-014;NGA-016,,
+NGA,csskills,share,coverage,published,2026-02,NGA-009;NGA-012,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-24-civ-cote-d-ivoire-aip-203-fonctionnaires-et-agents-de-l-etat-de-l-agneby-t",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Société nationale de développement informatique (SNDI) trained 203 state officials in Agnéby-Tiassa in IT tools from 17 June to 23 July 2025, and its director general said more than 31,000 officials nationally have had this training.",
+   "as_of": "2025-07-23",
+   "date_precision": "day",
+   "system": "SNDI IT tools training for state officials",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-13-gin-modernisation-de-ladministration-en-guinee-lena-forme-des-cadres-de-la",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ecole Nationale d'Administration, for the Ministry of Modernisation of the Administration and Public Service, ran a 13 to 15 October 2026 training on digital transformation, AI and cybersecurity for 30 national and general directors.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "ENA training session",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -2,7 +2,7 @@
 
 ## Civil service digital skills
 
-**Training for civil servants.** [Resolução 72/2026 recognises as progress digital-inclusion and skills-training initiatives developed for citizens and public servants](<https://boe.incv.cv/Bulletins/DownloadAct?id=101313>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Training for civil servants.** [Resolução 72/2026 recognises as progress digital-inclusion and skills-training initiatives developed for citizens and public servants](<https://boe.incv.cv/Bulletins/DownloadAct?id=101313>). [The government's national capacity programme Administração Pública + Digital announced a pilot digital-skills course for public servants on 22-26 September 2025 at the state modernisation ministry in Praia](<https://luma.com/s1lhffqr>). [The justice modernisation institute says 110 justice professionals, including judges, prosecutors and court officers, had been trained in artificial intelligence by September 2026](<https://expressodasilhas.cv/pais/2026/09/17/justica-digital-ja-poupa-23-milhoes-de-folhas-de-papel/104656>).
 
 **Across government.** No source held since October 2023 says digital-skills training reaches civil servants across government. The nearest held fact: [the one given above](<https://boe.incv.cv/Bulletins/DownloadAct?id=101313>).
 

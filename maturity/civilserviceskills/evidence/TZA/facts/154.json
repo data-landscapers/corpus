@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-tza-govt-expands-open-source-technology-use",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Daily News reports the ICT minister said more than 500 public servants have been trained in emerging technologies to design, develop and manage government digital systems.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Public servant training in emerging technologies",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

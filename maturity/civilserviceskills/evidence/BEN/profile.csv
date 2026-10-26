@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,csskills,training,coverage,underway,2026-07-08,BEN-001,,
+BEN,csskills,training,coverage,inservice,2022,BEN-002,BEN-001=underway,
 BEN,csskills,reach,coverage,,,,,nothing held
 BEN,csskills,share,coverage,,,,,nothing held

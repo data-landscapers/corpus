@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-01-gha-520-public-sector-staff-trained-in-digsmart",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Graphic Online reports that 520 public and civil servants (262 officers, 207 managers, 51 leaders) from 53 ministries, departments and agencies graduated from the DigSMART Scale-Up programme, a four-month course from February to May 2024 run by the Ministry of Communications and Digitalisation.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "DigSMART",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DigSMART",
+   "country_label": "Ghana",
+   "class": "csskills",
+   "platform": "training at GI-KACE",
+   "owner": "Ministry of Communications and Digitalisation with Office of the Head of Civil Service",
+   "tiers": "officers, managers, leaders"
+  }
+ ],
+ "note": ""
+}

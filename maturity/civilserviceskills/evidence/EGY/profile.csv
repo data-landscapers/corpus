@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,csskills,training,coverage,underway,2026-10-12,EGY-001;EGY-002;EGY-004;EGY-005;EGY-006,,
-EGY,csskills,reach,coverage,wide,2025,EGY-003,,
+EGY,csskills,training,coverage,inservice,2025-06-03,EGY-008;EGY-010,EGY-004=underway;EGY-001=underway;EGY-005=underway;EGY-012=underway;EGY-002=underway;EGY-006=underway;EGY-007=underway;EGY-013=underway;EGY-009=underway,
+EGY,csskills,reach,coverage,wide,2025,EGY-003;EGY-011,,
 EGY,csskills,share,coverage,,,,,nothing held

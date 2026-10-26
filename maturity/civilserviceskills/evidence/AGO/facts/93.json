@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-23-ago-memorandum-of-understanding-to-develop-a-digital-governance-academy-in",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "On 22 May 2024 Angola's Institute of Administrative Modernisation signed an MoU with the e-Governance Academy under which a Digital Governance Academy will be established to develop digital governance programmes for government employees.",
+   "as_of": "2024-05-22",
+   "date_precision": "day",
+   "system": "Digital Governance Academy of Angola",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Governance Academy of Angola",
+   "country_label": "Digital Governance Academy of Angola",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Institute of Administrative Modernisation with e-Governance Academy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

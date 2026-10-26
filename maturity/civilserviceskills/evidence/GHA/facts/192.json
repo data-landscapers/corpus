@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-26-gha-ghana-begins-national-ai-training-programme-to-boost-public-sector-inn",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communication, Digital Technology and Innovations, with UNESCO, launched an AI literacy programme for civil servants; the first three-day cohort ran 24-26 March 2026, with four cohorts planned through May on a training-of-trainers model for ministries, departments and agencies.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "national AI literacy programme for civil servants",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

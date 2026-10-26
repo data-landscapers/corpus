@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "no evidence",
-   "training": "",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether civil servants are trained in digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "2",
+      "training": "underway",
+      "reach": "",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001",
+      "gaps": "No source held since October 2023 says: is a standing programme in service.",
+      "note": "Stage 4c 2026-10-26: PAFEN's coordinator says a programme to train 5,000 civil servants in basic digital skills is being prepared, which answers question 1. Nothing says it is yet in service.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-02-tun-lancement-de-la-plateforme-digital-learning-academy-pour-renforcer-les",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communication Technologies launched the Digital Learning Academy platform on 1 December 2023 to build digital skills among the state's 680,000 civil servants, managed by Smart Tunisian Technoparks (S2T) with GIZ present.",
+   "as_of": "2023-12-01",
+   "date_precision": "day",
+   "system": "Digital Learning Academy",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The ministry says the Digital Learning Academy platform is for all 680,000 state civil servants.",
+   "as_of": "2023-12-01",
+   "date_precision": "day",
+   "system": "Digital Learning Academy",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Learning Academy",
+   "country_label": "Digital Learning Academy",
+   "class": "csskills",
+   "platform": "online platform",
+   "owner": "Ministry of Communication Technologies; managed by S2T",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

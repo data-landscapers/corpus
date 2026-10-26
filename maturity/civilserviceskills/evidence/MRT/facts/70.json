@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-15-mrt-ami-cybersecurity-ai-training-300-civil-servants",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Minister of Digital Transformation and Modernisation of the Administration launched a 12-week cybersecurity and AI training programme at the Centre de Formation et d'Echange a Distance for 300 civil servants from government sectors, with German cooperation.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "Tahil al-Muwazzaf al-Umumi training programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

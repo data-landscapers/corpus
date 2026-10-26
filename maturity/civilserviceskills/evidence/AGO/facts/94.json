@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-ago-pr-autoriza-mais-70-milhoes-de-dolares-para-a-transformacao-digital-do",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "A presidential despacho authorised USD 20m for a Digital Skills Training Programme under PADA that targets the working population, especially youth, and public service staff, with basic, intermediate and advanced training run with INEFOP, ENAPP and the Data Protection Agency, per Valor Económico.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Programa de Capacitação em Competências Digitais",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Programa de Capacitação em Competências Digitais",
+   "country_label": "Digital Skills Training Programme (PADA)",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Executive; INEFOP, ENAPP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

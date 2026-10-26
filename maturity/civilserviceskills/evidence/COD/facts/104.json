@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-24-cod-digitalisation-de-la-rdc-l-adn-et-l-ada-s-engagent-a-former-100-000-ag",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "ADN and Africa Digital Academy signed a partnership on 21 November 2023 to train 100,000 public agents in 2024-2025 in cybersecurity, AI, business solutions and digital transformation.",
+   "as_of": "2023-11-21",
+   "date_precision": "day",
+   "system": "ADN-ADA partnership",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

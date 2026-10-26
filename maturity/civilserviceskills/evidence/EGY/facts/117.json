@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-26-egy-digital-egypt-leaders-initiative-first-cohort-graduation",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The National Training Academy and the Ministry of Communications and Information Technology graduated the first cohort of 179 state employees from the National Initiative for Qualifying Egypt's Digital Leaders, a programme on digital transformation, the digital economy and leadership.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "National Initiative for Qualifying Egypt's Digital Leaders",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Initiative for Qualifying Egypt's Digital Leaders",
+   "country_label": "Digital Egypt Leaders Initiative",
+   "class": "csskills",
+   "platform": "",
+   "owner": "National Training Academy; Ministry of Communications and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

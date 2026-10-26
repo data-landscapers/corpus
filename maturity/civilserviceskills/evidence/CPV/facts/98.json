@@ -1,0 +1,19 @@
+{
+ "slug": "2025-01-01-cpv-administracao-publica-digital-formacao-piloto-competencias-digitais-pr",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Cabo Verde Digital announces a pilot digital-skills course for public servants on 22-26 September 2025 at the state modernisation ministry (MMEAP) in Praia, under the government's national capacity programme Administração Pública + Digital.",
+   "as_of": "2025-09-26",
+   "date_precision": "day",
+   "system": "Administração Pública + Digital",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {"system": "Administração Pública + Digital", "country_label": "Programa Nacional de Capacitação para o Digital", "class": "csskills", "platform": "", "owner": "MMEAP", "tiers": ""}
+ ],
+ "note": ""
+}

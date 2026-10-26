@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-06-gab-le-gabon-s-allie-a-smart-africa-pour-former-les-talents-du-numerique",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "On 2 March 2026 Gabon's Minister of Digital Economy and Smart Africa signed an MoU to deploy the Smart Africa Digital Academy, with training for public administration staff among its targets, hosted by the Gabonese Centre for Innovation.",
+   "as_of": "2026-03-02",
+   "date_precision": "day",
+   "system": "Smart Africa Digital Academy",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart Africa Digital Academy",
+   "country_label": "Smart Africa Digital Academy (Gabon)",
+   "class": "csskills",
+   "platform": "SADA training platform",
+   "owner": "Smart Africa; Ministry of Digital Economy; Centre gabonais de l'innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-09-12-sen-ia-administration-publique-le-senegal-refuse-de-subir-le-diktat-du-num",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "A pilot phase in early 2026 trained 583 people from three departments (Industry and Commerce, Digital, Public Service), according to Abdou Diatta at the validation workshop, which also noted a dropout rate at examinations.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Plan national de formation des agents de l'Etat (pilot phase)",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Public Service and Telecommunications ministries, with Force N, drew up a national training plan on digital and AI skills for state agents (categories A, B and C), validated at a workshop around 10 September 2026, with a first five-module programme ready to deploy; of 183,500 agents counted, 35,857 are flagged for priority training, and the targets are 70% exam participation, 75% pass rate and at least 80% of agents in one module.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Plan national de formation des agents de l'Etat",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-17-gha-government-unesco-train-240-civil-servants-in-ai-literacy-initiative",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Government of Ghana, with UNESCO and the EU, launched an AI literacy training programme for 240 Civil Service staff to serve as trainers in their institutions, and the Head of the Civil Service urged HR directors to build AI literacy into onboarding.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "AI Literacy Training programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Literacy Training programme",
+   "country_label": "Ghana",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Government of Ghana with UNESCO and EU",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

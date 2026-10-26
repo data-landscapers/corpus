@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-27-moz-capacitacao-reforca-competencias-digitais-no-sector-publico-em-makanet",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Ministry of Communications and Digital Transformation held a 24-28 March 2026 training for staff of MEC, INTIC and the ministry on e-SuRA, CorreioGov, CloudGov and the Digital Signer.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "MCTD staff training on e-government tools",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

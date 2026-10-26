@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-27-cod-rdc-eberande-kolongele-inaugure-le-centre-des-hautes-etudes-technologi",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Digital minister Eberande Kolongele inaugurated the Centre des hautes etudes technologiques Triomphal on 23 May 2024, where state agents are to follow free, state-funded 4-to-6-month courses in digital service optimisation, digital leadership, data science and cybersecurity, delivered with the Canadian firm STEMWORLD Services.",
+   "as_of": "2024-05-23",
+   "date_precision": "day",
+   "system": "Centre des hautes etudes technologiques Triomphal (H.E.T Triomphal)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "H.E.T Triomphal",
+   "country_label": "RDC",
+   "class": "csskills",
+   "platform": "",
+   "owner": "Ministry of Digital",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

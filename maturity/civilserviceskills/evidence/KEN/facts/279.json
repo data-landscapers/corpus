@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-10-ken-kenya-launches-unesco-oxford-free-online-course-on-ai-and-digital-tran",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "UNESCO and the Kenya School of Government launched a free UNESCO-Oxford online course on AI and digital transformation in government for civil servants at job group CG8 and above, under the DigiKen programme, which aims to train 20,000 civil servants by 2027.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "UNESCO-Oxford MOOC on AI and Digital Transformation in Government (DigiKen)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UNESCO-Oxford MOOC on AI and Digital Transformation in Government",
+   "country_label": "DigiKen - Digital Platforms Kenya",
+   "class": "csskills",
+   "platform": "online course",
+   "owner": "Kenya School of Government",
+   "tiers": "officers CG8 and above"
+  }
+ ],
+ "note": ""
+}

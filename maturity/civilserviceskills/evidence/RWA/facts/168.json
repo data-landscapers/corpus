@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-19-rwa-what-happens-when-500-000-public-servants-learn-ai-early-data-has-an-a",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Apolitical says Rwanda's Ministry of ICT and Innovation and Ministry of Public Service and Labour made its Government AI Campus course mandatory for their entire public service, and nearly 200,000 public servants have completed it.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Government AI Campus course",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Apolitical says the course is mandatory for Rwanda's entire public service, with at least 76% of the nearly 200,000 completers frontline workers.",
+   "as_of": "2026-05-19",
+   "date_precision": "day",
+   "system": "Government AI Campus course",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government AI Campus",
+   "country_label": "Rwanda",
+   "class": "csskills",
+   "platform": "Apolitical platform",
+   "owner": "Apolitical; Rwanda MINICT and MIFOTRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

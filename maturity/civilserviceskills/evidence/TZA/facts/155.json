@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-01-ken-undp-africa-centre-of-competence-digital-ai-skilling-one-pager",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "UNDP and Microsoft propose an Africa Centre of Competence for Digital and AI Skilling to train 100,000 public servants across seven pilot countries including Tanzania, with a stated government commitment of US$300,000 in total.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Africa Centre of Competence for Digital & AI Skilling",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-29-cog-patn-plus-de-38-milliards-fcfa-pour-l-exercice-2024",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The PATN 2024 work plan includes developing and implementing a digital learning platform for online training in public administration.",
+   "as_of": "2024-05-29",
+   "date_precision": "day",
+   "system": "PATN digital learning platform for public administration",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PATN",
+   "country_label": "Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Congo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-17-cpv-expressodasilhas-justica-digital-papel",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Instituto de Modernização e Inovação da Justiça says 110 justice professionals, including judges, prosecutors and court officers, received training in artificial intelligence, and 401 use qualified digital signatures.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Sistema de Informação da Justiça training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

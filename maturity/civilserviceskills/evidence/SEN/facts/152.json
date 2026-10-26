@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-11-sen-le-senegal-adopte-son-plan-de-formation-numerique-des-agents-de-l-etat",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "FORCE-N reports that a pilot in the first quarter of 2026 enrolled 583 agents of three ministries in certified digital training, with an 88 to 92 percent pass rate among those who sat the exams and 70 percent of enrollees not sitting them.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "FORCE-N online platform",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "FORCE-N reports that a national workshop in Dakar validated on 10 September 2026 the national plan for digital skills of state agents 2026-2029, which targets all 183,502 state agents by 2029 in two waves of about 73,000 and 106,000.",
+   "as_of": "2026-09-10",
+   "date_precision": "day",
+   "system": "Plan national de développement des compétences numériques des agents de l'État 2026-2029",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FORCE-N online platform",
+   "country_label": "Senegal",
+   "class": "csskills",
+   "platform": "online, computer and smartphone, connected or offline",
+   "owner": "Université numérique Cheikh Hamidou Kane with Mastercard Foundation",
+   "tiers": "25-module common core plus 10 sector programmes"
+  }
+ ],
+ "note": ""
+}

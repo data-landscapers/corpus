@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24-civ-cote-d-ivoire-projet-lms-d-ameliorer-l-acces-a-des-contenus-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Public Service ministry, through PRIME, held a workshop on 17-18 March 2026 in Assinie that set the operating basis for a Learning Management System for civil-servant training under the KOICA-funded LMS project (8 billion FCFA, 6 billion from KOICA), with priority modules identified, an immersion in Korea planned for June 2026 and no platform yet reported in service.",
+   "as_of": "2026-03-18",
+   "date_precision": "day",
+   "system": "Projet LMS KOICA",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet LMS KOICA",
+   "country_label": "Cote d'Ivoire",
+   "class": "csskills",
+   "platform": "LMS",
+   "owner": "Ministry of Public Service (PRIME)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

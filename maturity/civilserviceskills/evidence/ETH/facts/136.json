@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-17-eth-civil-servants-rush-to-secure-digital-certificates-skills-take-a-back",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "Addis Fortune reports over 120,000 Addis Abeba government employees enrolled in Udacity courses in coding, AI, Android and data science under a city programme, with enrolment begun a year earlier and certificates being issued.",
+   "as_of": "2025-08-17",
+   "date_precision": "day",
+   "system": "Udacity digital training (Addis Abeba Innovation & Technology Development Bureau)",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-21-sen-senegal-plans-national-e-learning-platform-to-train-civil-servants-in",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "We are Tech reports that the Ministries of Digital Affairs and of Civil Service discussed on 18 April 2025 creating a national e-learning platform for continuous digital-skills training of civil servants, described as being explored; no launch or number trained is given.",
+   "as_of": "2025-04-18",
+   "date_precision": "day",
+   "system": "national e-learning platform for civil servants",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national e-learning platform for civil servants",
+   "country_label": "Senegal",
+   "class": "csskills",
+   "platform": "e-learning",
+   "owner": "Ministry of Digital Affairs with Ministry of Civil Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

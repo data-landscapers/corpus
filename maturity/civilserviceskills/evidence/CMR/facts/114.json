@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-27-cmr-transformation-numerique-le-patnuc-lance-une-vaste-formation-destinee",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "MINADER reports that PATNUC has launched a training programme open to agents of the various public administrations nationwide, with five certifying online modules (including AI, LLM and blockchain) and registrations open; no number trained is given.",
+   "as_of": "2026-08-27",
+   "date_precision": "day",
+   "system": "PATNUC e-learning programme",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PATNUC e-learning programme",
+   "country_label": "Cameroon",
+   "class": "csskills",
+   "platform": "online platform and offline mobile app",
+   "owner": "PATNUC",
+   "tiers": "five certifying modules"
+  }
+ ],
+ "note": ""
+}

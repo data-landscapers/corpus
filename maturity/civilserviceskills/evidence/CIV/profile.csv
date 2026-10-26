@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,csskills,training,coverage,inservice,2026-07-29,CIV-002,CIV-001=underway;CIV-003=underway,
+CIV,csskills,training,coverage,inservice,2026-07,CIV-002;CIV-007;CIV-008;CIV-009;CIV-011,CIV-001=underway;CIV-006=underway;CIV-004=underway;CIV-005=underway;CIV-003=underway;CIV-010=underway,
 CIV,csskills,reach,coverage,,,,,nothing held
 CIV,csskills,share,coverage,,,,,nothing held

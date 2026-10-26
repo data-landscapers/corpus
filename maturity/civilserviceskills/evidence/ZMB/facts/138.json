@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-12-zmb-smart-zambia-equips-31-officers-with-ict-skills-in-mufulira",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "TechAfrica News reports the Copperbelt SMART Zambia Unit trained 31 government officers from over a dozen institutions on 20 August 2025 in Mufulira on the Citizens' Portal, ZamPortal and Government Mail.",
+   "as_of": "2025-08-20",
+   "date_precision": "day",
+   "system": "SMART Zambia ICT Utilization Training",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
