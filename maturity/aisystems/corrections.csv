@@ -8,8 +8,14 @@ SSD,003,,,removed,"Stage 4c (build:inservice): a no-code website platform exhibi
 COD,004,,,removed,Stage 4c (compute:compute): the supercomputer is optimised for AI but no GPU or accelerator is named; the in-service row stands
 SEN,006,,,removed,Stage 4c (compute:compute): no GPU named in this source; the in-service row stands and a later source names the GPU cell
 NGA,013,,,removed,"Stage 4c (shared:shared): model downloads are counted, not users"
-NGA,017,,,"revalued: build:inservice",Stage 4c (compute:compute): no GPU or accelerator named; read as AI computing in service
+NGA,017,,,revalued: build:inservice,Stage 4c (compute:compute): no GPU or accelerator named; read as AI computing in service
 COM,006,,,removed,"Stage 4c (build:underway): a preprint that names no builder, funder or site in the country"
 DZA,012,,,removed,Stage 4c (build:inservice): a dataset record that does not say where the corpus was built or by whom
 MOZ,002,,,removed,"Stage 4c (build:inservice): datasets released by a Portuguese university lab, not stated to be built in Mozambique"
 MUS,006,,,removed,Stage 4c (build:inservice): a model record that does not say where the model was built or by whom
+KEN,010,build,underway,removed,"Stage 4c (build:underway): a six-country survey line naming no project, builder or site in this country"
+MWI,008,build,underway,removed,"Stage 4c (build:underway): a six-country survey line naming no project, builder or site in this country"
+RWA,008,build,underway,removed,"Stage 4c (build:underway): a six-country survey line naming no project, builder or site in this country"
+TGO,012,build,underway,removed,"Stage 4c (build:underway): a six-country survey line naming no project, builder or site in this country"
+ZAF,014,build,underway,removed,"Stage 4c (build:underway): a six-country survey line naming no project, builder or site in this country"
+ZMB,007,build,underway,removed,"Stage 4c (build:underway): a six-country survey line naming no project, builder or site in this country"

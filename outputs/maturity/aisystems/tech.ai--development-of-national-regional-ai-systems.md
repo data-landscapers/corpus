@@ -22,8 +22,8 @@ The Continental AI Strategy asks that a country can manage its own data and AI, 
 |---|---|
 | 5 Leading | 3 |
 | 4 Operating | 10 |
-| 3 Established | 27 |
-| 2 Nascent | 10 |
+| 3 Established | 28 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 4 |
@@ -251,6 +251,12 @@ An AI model or dataset built in the country was in service in 2026; AI computing
 
 - MWiML published an open CC BY 4.0 repository of NLP datasets for Pulaar, Soninke and Hassaniya Arabic (e.g. 991 Pulaar-French pairs, a 708-entry Soninke-French dictionary, 100 Hassaniya stories), with the Wolof folder still empty ([source, 2026-05-16](https://github.com/mwimlmauritania-byte/Open-Data-Mauritania)).
 
+### Mozambique: 3 Established
+
+An AI learning tool built in the country was launched in 2026; AI computing in service is not known.
+
+- MAZA IA, an AI learning solution developed in Mozambique by MOZEDUCA with Vodacom Mocambique, was launched on 22 October 2026, and the minister urged national technology solutions ([source, 2026-10-22](https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/)).
+
 ### Niger: 3 Established
 
 An AI model or dataset built in the country was in service in 2025; AI computing is not on record.
@@ -324,12 +330,6 @@ A national AI model, dataset or computing facility was under way in 2026; none i
 A national AI model, dataset or computing facility was under way in 2025; none in service is on record.
 
 - LIAM, the Madagascar AI laboratory, states its project is to develop a Malagasy-language large language model to be accessible through an API ([source, 2025](https://liam-ai.org/projets/grand-modele-de-langage-malgache/)).
-
-### Mozambique: 2 Nascent
-
-A national AI model, dataset or computing facility was under way in 2026; none in service is on record.
-
-- ATDI, IP and Huawei Technologies Mozambique signed an MoU that provides for creating Portuguese-language AI models adapted to Mozambique, per ATDI's own note ([source, 2026-04-23](https://mznews.co.mz/en/atdi-e-huawei-firmam-parceria-estrategica-para-acelerar-a-inteligencia-artificial-em-mocambique/)).
 
 ### Namibia: 2 Nascent
 

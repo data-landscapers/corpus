@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-08-zwe-minister-mavetera-defends-zimbabwe-s-ai-drive-addresses-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "High-performance computing facility",
+   "country_label": "Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": "HPC facility launched Q3 2025 is not stated to be AI computing; new Harare data centre is under construction."
+}

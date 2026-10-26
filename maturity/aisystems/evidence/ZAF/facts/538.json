@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-xaf-african-governments-customers-for-local-ai",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "A September 2026 UNDP report examined efforts to establish local AI computing facilities in South Africa and five other countries, with projects ranging from early planning to deployment.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

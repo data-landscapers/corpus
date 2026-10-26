@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "localai",
-      "stage": "2",
-      "build": "underway",
+      "stage": "3",
+      "build": "inservice",
       "compute": "",
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MOZ-001",
-      "gaps": "No source held since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
-      "note": "ATDI and Huawei signed an MoU to build Portuguese-language models for Mozambique. Nothing built is stated released or in service.",
-      "as_at": "2026-10-22"
+      "stage_sources": "MOZ-003",
+      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "MAZA IA, an AI learning tool developed in Mozambique by MOZEDUCA, was launched on 22 October 2026. No AI computing in service is stated.",
+      "as_at": "2026-10-26"
     }
   ]
 }

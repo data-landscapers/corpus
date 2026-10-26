@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Permanent Secretary Washington Okoth said Kenya is building out the AI infrastructure, data ecosystem and research capabilities it needs, as the Kenya AI & Cloud Pioneer Initiative was launched with Huawei Cloud.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Kenya AI & Cloud Pioneer Initiative",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya AI & Cloud Pioneer Initiative",
+   "country_label": "Kenya AI & Cloud Pioneer Initiative",
+   "class": "localai",
+   "platform": "Huawei Cloud",
+   "owner": "MICDE with Huawei",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

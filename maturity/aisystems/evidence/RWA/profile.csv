@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,localai,build,coverage,inservice,2026-10-01,RWA-001;RWA-002;RWA-006,RWA-005=underway;RWA-004=underway,
+RWA,localai,build,coverage,inservice,2026-10-01,RWA-001;RWA-002;RWA-006,RWA-007=underway;RWA-008=underway;RWA-005=underway;RWA-004=underway,
 RWA,localai,compute,coverage,compute,2026-09-17,RWA-003,,
 RWA,localai,shared,coverage,,,,,nothing held

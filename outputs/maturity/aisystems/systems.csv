@@ -85,6 +85,7 @@ GHA,MinoHealth,Ghana,localai,diagnostic models,MinoHealth (company),,2026-10-22-
 GHA,MorphoAI,Ghana,localai,AI models,University for Development Studies,,2026-10-22-gha-ghanas-hospitals-are-adopting-ai-but-the-machines-were-never
 GHA,Ghana AI Compute Hub,Ghana,localai,"AI computing, renewable energy and liquid cooling","G42 for the Ghana-UAE hub, financed by PCFC",,2025-12-19-gha-ghana-and-uae-sign-1bn-deal-to-build-africa-s-largest-innovation-and-a
 GHA,Ghana's first national data centre,Ghana,localai,,Government,,2026-10-22-gha-phase-one-of-ghana-s-first-data-centre-to-be-ready-in-24-months-sam-ge
+GHA,GhanaChat,Ghana,localai,new AI data centre,"Ministry of Communication, Digital Technology and Innovations",,2026-10-25-gha-bright-simons-flags-computing-capacity-error-in-ghanas-ai-strategy-and-ques
 GIN,projet de supercalculateur,Guinea,localai,,Cite des sciences et de l'innovation de Guinee,,2025-05-01-gin-lelynx-dounia-supercalculateur-ia
 GIN,Nma Xui,Guinée,localai,,,,2024-03-16-gin-le360-nma-xui-ia-langues-locales
 GIN,224 N'Lambé API,Guinea,localai,translation API,224 N'Lambé,,2026-09-10-gin-224-n-lambe-api-l-infrastructure-linguistique-pour-les-technologies-gu
@@ -98,6 +99,9 @@ KEN,ATLAS Umoja AI,Kenya,localai,,GSMA and five governments,,2026-07-31-gsma-atl
 KEN,Servernah AI-as-a-Service platform,Kenya,localai,"NVIDIA GPUs, OCP design, hosted at iXAfrica NBOX1",Atlancis Technologies (Servernah Cloud),,2025-11-11-ken-atlancis-technologies-everse-technology-and-ixafrica-unveil-east-centr
 KEN,Servernah Cloud,Kenya,localai,Atlancis Servernah cloud with EverseTech AI-as-a-Service,Atlancis Technologies,,2026-03-12-ken-servernah-cloud-launch
 KEN,Konza National Data Centre Cloud Expansion and Smart City Facilities Project,Kenya,localai,Konza National Data Centre,Konza Technopolis Development Authority / PPP Directorate,,2026-10-23-ken-konza-data-centre-set-for-expansion-through-public-private-partnership
+KEN,KENGLEX,Kenya,localai,,Teknobyte Limited,,2026-10-22-ken-kenyas-language-data-holds-promise-for-ai-powered-services
+KEN,Oracle AI-powered cloud platform,Oracle cloud region Nairobi,localai,cloud,Oracle,,2026-08-01-ken-ministry-urges-public-sector-to-adopt-ai-cloud-computing
+KEN,Kenya AI & Cloud Pioneer Initiative,Kenya AI & Cloud Pioneer Initiative,localai,Huawei Cloud,MICDE with Huawei,,2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit
 LBR,CJ Lewis,Liberia,localai,Liblaw,Liblaw,,2026-08-03-liblaw-cj-lewis-legal-ai-liberia
 LBY,LIBIGPT,Libya,localai,generative AI model,Smart Co for Technology Projects and Artificial Intelligence,,2025-10-28-libigpt-first-generative-ai-launched-libyaherald
 LBY,Diwan Bot,Diwan Bot,other,,Libyan Audit Bureau,,2026-06-01-lby-lana-audit-bureau-diwan-bot
@@ -129,6 +133,7 @@ MOZ,UEM Centro de Dados,Mozambique,other,,Universidade Eduardo Mondlane,,2026-08
 MOZ,ATDI-Huawei MoU on AI,Mozambique,other,,"ATDI, IP",,2026-04-23-moz-mznews-atdi-huawei-ai-mou
 MRT,Open Data Mauritania NLP Hub,Mauritania,localai,GitHub,MWiML,,2026-05-16-github-mwiml-open-data-mauritania-nlp-langues-nationales
 MRT,Enemray,Mauritania,localai,,,,2026-09-13-mrt-enemray-toward-capable-language-models-for-hassaniya
+MRT,Nouakchott Data Center,Mauritania,other,,state (national),Tier III,2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak
 MUS,Kevin AI,Mauritius,localai,Mauritian Creole voice and language model,Mauritius Telecom,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
 MUS,myt learn,Mauritius,other,education platform,Mauritius Telecom with Ministry of Education,,2026-08-16-mauritius-telecom-ceo-aws-partnership-interview
 MUS,MyTGPT,Mauritius,localai,AI model service,Mauritius Telecom,,2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica
@@ -158,9 +163,12 @@ NGA,Nigeria's Computing Infrastructure Pilot,Nigeria,localai,Galaxy Backbone Dat
 NGA,Egbin data park,Nigeria,localai,,government (proposed),,2026-10-22-nga-foreign-cloud-dependence-luminate-study
 NGA,Nigeria Atlas for Languages and AI at Scale,Nigeria Atlas for Languages and AI at Scale,localai,,,,2026-10-21-nga-fg-moves-to-regulate-ai-use-in-healthcare
 NGA,Nigeria AI Scaling Hub (NAISH),Nigeria,localai,Galaxy Backbone,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-06-27-nga-naish-tijani-unveils-ai-scaling-hub-to-power-startups-public-sector-in
+NGA,N-ATLAS,Nigeria,localai,Meta Llama-3,National Centre for Artificial Intelligence and Robotics; Awarri,,2026-10-24-nga-nigerias-tijani-pitches-fibre-and-skills-drive-for-ai-in-seoul
+NGA,National shared computing facility,Nigeria,localai,,Government with Gates Foundation,,2026-10-24-nga-nigerias-tijani-pitches-fibre-and-skills-drive-for-ai-in-seoul
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
+RWA,AI Factory,AI Factory,localai,,Rwanda national AI agency,,2026-10-22-rwa-rwanda-can-be-korea-s-ai-entry-point-to-africa-minister
 SDN,Sudan-MM,Sudan,localai,Hugging Face,IndabaX Sudan,,2025-01-01-sdn-huggingface-indabax-sudan-mm-dataset
 SDN,Sudanese Arabic three-resource suite,Sudan,localai,,Sudan University of Science and Technology,,2026-01-01-sdn-ijcst-sudanese-arabic-three-resource-suite
 SEN,Senegal AI Factory,Senegal,localai,,Government of Senegal,,2026-08-03-new-deal-technologique-le-senegal-devoile-la-senegal-ai-factory-a-tokyo
@@ -229,3 +237,4 @@ ZWE,Yamurai,Zimbabwe,localai,Shona customer-support chatbot,Econet Ai,,2026-09-0
 ZWE,Econet AI,Zimbabwe,localai,"Yamurai AI, OmniContact AI, compute accessed through Cassava Technologies",Econet Wireless Zimbabwe / Econet Group,,2026-04-17-econet-ai-launch-cassava-compute
 ZWE,High Performance Computer at the University of Zimbabwe,Zimbabwe,other,,University of Zimbabwe,,2026-04-17-econet-ai-launch-cassava-compute
 ZWE,National Information Access Centre (NIAC),Zimbabwe,localai,Nvidia GPU-powered AI server,"Zimbabwe Open University, Hatcliffe campus",,2026-03-20-zwe-minister-shava-launches-ai-hub-at-zimbabwe-open-university
+ZWE,High-performance computing facility,Zimbabwe,other,,Government,,2026-02-08-zwe-minister-mavetera-defends-zimbabwe-s-ai-drive-addresses-infrastructure

@@ -89,3 +89,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,SEN,tech.ai--development-of-national-regional-ai-systems,fact,3,5,SEN-008;SEN-007;SEN-009,"CINERI says Taouey's GPU cell runs part-time and use is free and open, with over a hundred users and named university users: shared"
 2026-10-23,TUN,tech.ai--development-of-national-regional-ai-systems,fact,3,5,TUN-010;TUN-011,"Novation City's NVIDIA DGX, deployed February 2024, served about 30 startups (NVIDIA); DataXion offers L40S GPU cloud: shared"
 2026-10-23,ZAF,tech.ai--development-of-national-regional-ai-systems,fact,4,5,ZAF-012;ZAF-013,"The CHPC catalogue lists a 30-node V100 GPU cluster free to academics with over 2,000 users: shared"
+2026-10-26,MOZ,tech.ai--development-of-national-regional-ai-systems,fact,2,3,MOZ-003,"MAZA IA, an AI learning tool built by MOZEDUCA with Vodacom, launched 22 October 2026: a model built in the country in service"

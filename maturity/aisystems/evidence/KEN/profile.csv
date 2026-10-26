@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,localai,build,coverage,inservice,2026-03-12,KEN-004;KEN-006,KEN-008=underway;KEN-003=underway;KEN-001=underway;KEN-002=underway,
+KEN,localai,build,coverage,inservice,2026-10-22,KEN-004;KEN-006;KEN-009,KEN-008=underway;KEN-011=underway;KEN-003=underway;KEN-010=underway;KEN-001=underway;KEN-012=underway;KEN-002=underway;KEN-013=underway,
 KEN,localai,compute,coverage,compute,2026-03-12,KEN-005;KEN-007,,
 KEN,localai,shared,coverage,,,,,nothing held

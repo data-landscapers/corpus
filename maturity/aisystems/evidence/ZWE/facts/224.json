@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-23-zwe-zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Minister Mavetera said a 'Penguin AI' project to create local datasets for AI systems would be launched before December 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Penguin AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

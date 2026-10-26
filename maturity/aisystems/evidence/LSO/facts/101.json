@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-xaf-african-governments-customers-for-local-ai",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Lesotho has begun the first phase of a national computing plan running from 2026 to 2029, after assessing its electricity, networks, data facilities and skills, the article says.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
