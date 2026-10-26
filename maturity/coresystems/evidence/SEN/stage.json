@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "unplaced",
+      "stage": "4",
       "finance": "",
       "revenue": "inuse",
       "payroll": "",
@@ -11,10 +11,10 @@
       "architecture": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source held from 2023 or later says the government's financial management system is in use.",
-      "note": "The tax directorate's SENTAX platform replaced ETAX and became mandatory for large taxpayers from 1 September 2026. Every rung needs the financial management system in use, and no source holds it, so no stage is set.",
-      "as_at": "2026-10-20"
+      "stage_sources": "SEN-004;SEN-002",
+      "gaps": "No source held says the government has published an enterprise architecture or an inventory of its systems; nothing held on the financial system or the payroll beyond what the renewal answers.",
+      "note": "SENTAX replaced ETAX and has been mandatory for every large-taxpayer declaration and payment since 1 September 2026, a renewal in service; under method 3.3 that yes answers questions 1 and 2. No published architecture is held, so 4 and not 5.",
+      "as_at": "2026-10-26"
     }
   ]
 }

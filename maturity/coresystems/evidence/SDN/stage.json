@@ -1,19 +1,20 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "4",
-   "finance": "",
-   "revenue": "",
-   "payroll": "inuse",
-   "renewed": "live",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-002;SDN-001",
-   "gaps": "No source held says the government has published an enterprise architecture or an inventory of its systems.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "unplaced",
+      "finance": "",
+      "revenue": "",
+      "payroll": "inuse",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source held from 2023 or later says the government's financial management system is in use; the Bayan civil-service records platform is held only as launched, not as in service.",
+      "note": "Bayan's August 2026 launch is a ceremony that names what the platform will do, not a system shown in service, so it does not answer the renewal question. Nothing held says the money runs on a computer system, so no stage is set.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

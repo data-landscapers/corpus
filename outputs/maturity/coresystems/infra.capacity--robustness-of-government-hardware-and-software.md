@@ -21,9 +21,9 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 3 |
+| 4 Operating | 2 |
 | 3 Established | 4 |
-| 2 Nascent | 16 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 9 |
 | No evidence | 16 |
@@ -74,12 +74,6 @@ Finance, tax and payroll in use, one renewed, and a map of government systems pu
 - The African Development Bank states Zimbabwe completed deployment of a new online Tax and Revenue Management System, formally launched in Harare on 18 August 2025 after phased rollout from 2023 ([source, 2025-08-18](https://www.afdb.org/en/news-and-events/press-releases/zimbabwe-african-development-bank-group-funds-new-tax-collection-and-revenue-management-system-87072)).
 - ZIMRA's Public Notice 63 of 2025 (issued 14 November 2025) states that the Tax and Revenue Management System (TaRMS) already handles VAT return submission through a Tax Returns Management Module and taxpayer Self-Service Portal, with an upgrade and FDMS integration taking effect on 1 December 2025 ([source, 2025-12-01](https://www.zimra.co.zw/public-notices?download=4410%3Apublic-notice-63-of-2025-tarms-fdms-integration)).
 
-### Algeria: 4 Operating
-
-A core government system renewed in 2024; no published map of government systems is known.
-
-- Algeria's Finance Ministry announced the launch of the first phase of deployment of the integrated budget management system (SIGB), covering revenue and expenditure, in its customs, treasury and accounting, budget and tax directorates ([source, 2024-11-29](https://lasentinelle.dz/index.php/2024/12/01/systeme-integre-de-gestion-budgetaire-sigb-lancement-de-la-premiere-phase-de-deploiement/)).
-
 ### Gabon: 4 Operating
 
 Finance, tax and payroll systems in use, one renewed in 2026; no published map of government systems is known.
@@ -88,12 +82,12 @@ Finance, tax and payroll systems in use, one renewed in 2026; no published map o
 - SIGFIP, launched 15 January 2026, centralises the state's tax, customs and non-tax revenue collection and payments in a single database with a single payment interface (Ecofin Agency) ([source, 2026-01-15](https://www.ecofinagency.com/news/1801-52022-gabon-launches-integrated-digital-platform-for-public-finance-management)).
 - The Fichier unique de référence, in operation for about twenty years, is the application the public service ministry currently uses to manage state human resources and feeds the Solde payroll, though it has coding malfunctions that leave regularised situations invisible to payroll (L'Union, 27 August 2026; meeting of 25 August 2026) ([source, 2026-08-25](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference)).
 
-### Sudan: 4 Operating
+### Senegal: 4 Operating
 
-A core government system renewed in 2026; no published map of government systems is known.
+The tax authority's new platform replaced the old for large taxpayers in 2026; no published map of government systems is known.
 
-- Bayan was launched as a move from paper files to digital administration of civil-service personnel records (date taken from the published date, 2026-08-06) ([source, 2026-08-06](https://www.sudanindependent.com/news/politics/2026/08/06/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D8%AA%D9%85%D8%B2%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B1%D9%82%D9%8A%D8%A9--)).
-- The human resources minister launched Bayan, a national database of civil-service personnel records held by the Civil Service Diwan, covering every public employee from appointment to separation (date taken from the published date, 2026-08-06) ([source, 2026-08-06](https://www.sudanindependent.com/news/politics/2026/08/06/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D8%AA%D9%85%D8%B2%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B1%D9%82%D9%8A%D8%A9--)).
+- The DGID says SENTAX replaces the ETAX application for tax declaration and payment by DGE taxpayers from 1 September 2026 ([source, 2026-09-01](https://www.dgid.sn/sentax)).
+- A DGID communique of 27 August 2026 says SENTAX now replaces the ETAX application for tax declaration and payment by DGE taxpayers ([source, 2026-08-27](https://www.dgid.sn/storage/uploads/communique-sentax-1790185473.pdf)).
 
 ### Chad: 3 Established
 
@@ -126,6 +120,12 @@ Budget, tax and payroll systems were all in use by 2026; whether any was renewed
 - The catalogue line of the Auditor General's report on the 2024 accounts says the audit found the IFMIS without logs or offsite backup, which treats the system as operating in the 2024 financial year; the page holds no figures ([source, 2024](https://www.ago.gov.zm/wp-content/uploads/Auditor-General-Report-for-the-Financial-Year-2024-ONLINE-PUBLICATION.pdf)).
 - The Zambia Revenue Authority presentation shows taxpayers filing returns on its TaxOnline system, using invoices generated by Smart Invoice, which has been mandatory for VAT-registered taxpayers since 1 July 2024 ([source, 2025-05](https://ictaz.org.zm/wp-content/uploads/2025/05/ZRA-Smart-Invoice.pdf)).
 - The Auditor General's report on the 2025 accounts audits the PMEC civil-service payroll as a running SAP system, finding workflow controls on only 8 of 29 infotypes, an unsupported Oracle database and no interface with IFMIS, with findings stated as at 31 August 2026 ([source, 2026-08-31](https://www.ago.gov.zm/wp-content/uploads/AUDITOR-GENERAL-REPORT-On-the-Accounts-of-the-Republic-for-the-Financial-Year-Ended-31st-Dec-2025.pdf)).
+
+### Algeria: 2 Nascent
+
+The finance ministry launched a new budget system's first phase in 2024; whether it, tax or payroll systems are in service is not known.
+
+- Algeria's Finance Ministry announced the launch of the first phase of deployment of the integrated budget management system (SIGB), covering revenue and expenditure, in its customs, treasury and accounting, budget and tax directorates ([source, 2024-11-29](https://lasentinelle.dz/index.php/2024/12/01/systeme-integre-de-gestion-budgetaire-sigb-lancement-de-la-premiere-phase-de-deploiement/)).
 
 ### Angola: 2 Nascent
 
@@ -265,17 +265,17 @@ No source held from 2023 or later says the government's financial system is in u
 
 Not established: No source held from 2023 or later says the government's financial management system is in use.
 
-### Senegal: Unplaced
-
-No source held from 2023 or later says the government's financial system is in use, so no stage is set.
-
-Not established: No source held from 2023 or later says the government's financial management system is in use.
-
 ### South Africa: Unplaced
 
 No source held from 2023 or later says the government's financial system is in use, so no stage is set.
 
 Not established: No source held from 2023 or later says the government's financial management system is in use.
+
+### Sudan: Unplaced
+
+A civil-service records platform launched in 2026; nothing says the government's finances run on a computer system, so no stage is set.
+
+Not established: No source held from 2023 or later says the government's financial management system is in use; the Bayan civil-service records platform is held only as launched, not as in service.
 
 ### Benin: No evidence
 

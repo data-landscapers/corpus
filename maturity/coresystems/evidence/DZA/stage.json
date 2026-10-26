@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "4",
+      "stage": "2",
       "finance": "",
       "revenue": "",
       "payroll": "",
@@ -12,9 +12,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "DZA-001",
-      "gaps": "No source held says the government has published an enterprise architecture or an inventory of its systems.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source held says the new budget system is in service, or that tax and the payroll run on computer systems; the only fact is the launch of the system's first deployment phase.",
+      "note": "The only fact is the November 2024 launch of the first deployment phase of the integrated budget system in four finance-ministry directorates; no source says it is in service. A launch is an announcement, which reaches stage 2 at most, so 2 and not 4.",
+      "as_at": "2026-10-26"
     }
   ]
 }
