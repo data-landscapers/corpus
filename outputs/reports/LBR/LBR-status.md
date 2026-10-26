@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-10-24
+compiled: 2026-10-26
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 199
+sources_cited: 200
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -84,7 +84,7 @@ The one harmonised technical specification on the horizon is regional: [WURI com
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-The Press Union of Liberia has [publicly challenged the Civil Service Agency's newly introduced staff confidentiality and non-disclosure agreement](https://www.liberianobserver.com/news/csa-launches-monthly-e-newsletter-to-boost-transparency-public-engagement/article_3f277f5c-da8f-43c6-91b4-405f0c91c464.html), warning on 5 August 2026 that it must be aligned with the Freedom of Information Act and that the agency "must not be seen as an entity that is reintroducing secrecy in government."
+The Press Union of Liberia [called in October 2026 for the immediate withdrawal of the Civil Service Agency's confidentiality and non-disclosure agreement for civil servants, saying it upends the Freedom of Information Act and that the Independent Information Commission had opposed it](https://liberiapublicradio.com/2026/10/24/pul-condemns-governments-assault-on-freedom-of-information-and-transparency-calls-for-immediate-withdrawal-of-confidentiality-policy-undermining-the-foi-act/). It had [first challenged the agreement on 5 August 2026, warning that the agency "must not be seen as an entity that is reintroducing secrecy in government."](https://www.liberianobserver.com/news/csa-launches-monthly-e-newsletter-to-boost-transparency-public-engagement/article_3f277f5c-da8f-43c6-91b4-405f0c91c464.html)
 
 That the challenge is made in the open is characteristic. Participation is one of Liberia's two top-ten governance sub-categories in the 2024 Ibrahim Index at [65.1 out of 100.0, 8th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf), with Civil Society Space at 90.7, 2nd of 54 and up 6.0 points over the decade, and Deliberative & Participatory Governance at 75.9, 4th of 54 though down 3.0 (2023). The expression measures run the other way: [Media Freedom scores 66.0, 11th of 54, down 2.0 points, and Freedom of Expression & Belief 70.0, 21st, down 8.2](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf), while Liberians' own [assessment of freedom of speech stands at 68.6, 15th of 54, down 11.3 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf) (2023).
 
