@@ -3,9 +3,9 @@ title: Uganda — News, Sep – Oct 2026
 compiled: 2026-10-26
 period: 2026-09-01 to 2026-10-26
 place: UGA
-ledger_rows: 75
+ledger_rows: 76
 not_held: 11
-record: fdf325e67ff2
+record: 6588110a71e7
 ---
 
 # News, Sep – Oct 2026
@@ -1067,6 +1067,20 @@ The Uganda Police Force said it will introduce an AI chatbot giving the public g
 **[UPPC opens free digital access to the Uganda Gazette](https://uppc.go.ug/news/uppc-opens-free-digital-access-uganda-gazette)** — Uganda Printing and Publishing Corporation (UPPC), 7 October 2026
 
 The Uganda Printing and Publishing Corporation, the government printer, announced on 7 October 2026 that the E-Gazette is now free to the public on its website. Gazette editions back to 1902 have been digitised, and its 2023–2028 strategic plan aims to digitise 80% of its products and systems by 2028.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NGO Bureau online registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NGO Bureau to automate registration and service deliv](https://www.newvision.co.ug/category/news/ngo-bureau-to-automate-registration-and-servi-NV_242915_102026)** — New Vision, 24 October 2026
+
+Online NGO registration due by end of current financial year; inter-agency platform and State of NGOs report planned.
 
 </div>
 
