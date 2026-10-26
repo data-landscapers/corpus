@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: MRT
-ledger_rows: 26
+ledger_rows: 27
 not_held: 3
-record: 6f9663fec9ed
+record: 2b1fc20ecff0
 ---
 
 # News, Sep – Oct 2026
@@ -373,6 +373,20 @@ Mauritania's Ministry of Digital Transformation presented a national digital add
 **[انطلاق تسجيل وتحويل التلاميذ عبر منصة «سراج»](https://www.tefassil.mr/ar/node/8801)** — تفاصيل, 28 September 2026
 
 Mauritania's education ministry opened pupil registration and transfers for the 2026-2027 school year on the Siraj platform on 28 September 2026. Registration and corrections run until 20 October, and the school year opens on 5 October.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of the new Nouakchott health centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزيرا الصحة والتحول الرقمي يترأسان اجتماعا لبحث الاجراءات الكفيلة برقمنة المراكز الصحية الجديدة](https://www.ami.mr/archives/271266)** — Agence Mauritanienne d'Information (AMI), 24 October 2026
+
+Joint health and digital technical team to visit centres and close gaps; centres due to open within days.
 
 </div>
 
