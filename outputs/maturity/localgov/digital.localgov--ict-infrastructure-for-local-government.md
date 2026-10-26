@@ -24,8 +24,8 @@ The norm is the African Union's decentralisation charter of 2014, Article 16(2):
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 4 |
-| 3 Established | 24 |
-| 2 Nascent | 18 |
+| 3 Established | 25 |
+| 2 Nascent | 17 |
 | 1 Absent | 1 |
 | Unplaced | 3 |
 | No evidence | 4 |
@@ -111,6 +111,14 @@ Town halls are on the state's network and 78 civil status centres were networked
 - ANPTIC's annual report for 2020 lists town halls among the offices its regional maintenance antennas served on the State's administration network RESINA in 2020: the Dédougou town hall given a local network and RESINA access, the Fada N'Gourma town hall's network incidents resolved, network interventions (local, fibre, WiMAX) at the town halls of Tenkodogo and Manga, and sites of the Ouagadougou town hall connected to RESINA by fibre ([source, 2020](https://assises-resina.gov.bf/images/Rapport_annuel_2020_ANPTIC_Version_finale_septembre_2021_compressed-2.pdf)).
 - The report names five communes whose town halls were on or being put on RESINA in 2020 (Dédougou, Fada N'Gourma, Tenkodogo, Manga and Ouagadougou), within about 235 structures served by the antennas; it gives no total of town halls connected. Its figure of 93 commune seats reached by RESINA, 26.49 per cent, counts localities covered, not town halls ([source, 2020](https://assises-resina.gov.bf/images/Rapport_annuel_2020_ANPTIC_Version_finale_septembre_2021_compressed-2.pdf)).
 - The report says access to RESINA gives the administration's professional email, IP telephony and the Active Directory service; for the town halls it lists it states network access only, with no national application named ([source, 2020](https://assises-resina.gov.bf/images/Rapport_annuel_2020_ANPTIC_Version_finale_septembre_2021_compressed-2.pdf)).
+
+### Burundi: 3 Established
+
+A commune began keeping its accounts in a national financial platform in 2026; how many commune offices are connected is not known.
+
+*Advancing.*
+
+- Butihinda commune's zonal accountants and tax collectors were entering the commune's revenue and spending from July 2025 into AK-SOFT, the financial-management platform the Primature trained communal finance officers on from 20 to 23 October 2026; they said they need a stable Internet connection ([source, 2026-10-25](https://communebutihinda.gov.bi/butihinda-la-digitalisation-de-la-gestion-comptable-budgetaire-et-financiere-se-modernise-grace-au-logiciel-ak-soft/)).
 
 ### Cameroon: 3 Established
 
@@ -344,14 +352,6 @@ Four councils had partnerships to deploy office Wi-Fi in 2022/23; whether any co
 
 - BoFiNet's annual report says that at the end of financial year 2022/23 it had partnered with four local authorities (Serowe and Mahalapye District Councils, Bobirwa and Boteti Sub District Councils) for the deployment of premises Wi-Fi in their Rural Administration Centres; it gives no total of councils and does not say the service was live ([source, 2023-03](https://www.bofinet.co.bw/uploads/218/01M004DM8X2QP95FSJHKFK8XAM.pdf)).
 - The World Bank says district officials upload beneficiary data to the national social registry every month to keep it up to date, as at May 2021; it says 'district officials' and does not state that they work at council offices or over what connection ([source, 2021-05](https://documents1.worldbank.org/curated/en/099645103062256866/pdf/P1721750af4ddb0ce098d30b331412b0ab8.pdf)).
-
-### Burundi: 2 Nascent
-
-A 2021 strategy plans fibre to the communes and one commune's connection was announced in 2024; whether any commune office is connected is not known.
-
-- At a launch workshop on 19 July 2024 the local NGO FVS-Amade said it will give the civil registry service of Rumonge commune computers, tablets, solar panels and routers to ease its connection, at the commune seat and in its zones, under a one-year project; the provision is announced, not reported as done ([source, 2024-07-19](https://www.iwacu-burundi.org/region-sud-rumonge-enregistrement-numerique-a-letat-civil/)).
-- The ICT ministry's sector strategy of February 2021 states that about a hundred public institutions are interconnected by a fibre-optic link and that the project needs to be extended to the communes and other public institutions not yet connected; no commune is said to be on it ([source, 2021-02](https://data.inafran.ru/files/Doc/Burundi/Sektoralnaa%20strategia%20v%20oblasti%20IKT%20do%202027%20g.%20prinata%20v%202021.pdf)).
-- The sector strategy for implementing the National Development Plan 2018-2027, issued by the Ministry of Communication, Information Technologies and Media in February 2021, names the extension of the government's fibre-optic interconnection to the communes under its e-government project ([source, 2021-02](https://data.inafran.ru/files/Doc/Burundi/Sektoralnaa%20strategia%20v%20oblasti%20IKT%20do%202027%20g.%20prinata%20v%202021.pdf)).
 
 ### Central African Republic: 2 Nascent
 

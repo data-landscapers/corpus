@@ -3,3 +3,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-13,LBR,digital.localgov--ict-infrastructure-for-local-government,review,unplaced,unplaced,,notes-for-corpus 80: 1 newly admitted source read and the cell re-placed against the ladder.
 2026-10-13,NAM,digital.localgov--ict-infrastructure-for-local-government,review,unplaced,unplaced,,notes-for-corpus 80: 2 newly admitted sources read and the cell re-placed against the ladder.
 2026-10-17,CIV,digital.localgov--ict-infrastructure-for-local-government,fact,2,2,CIV-007;CIV-010;CIV-012;CIV-013;CIV-016;CIV-017;CIV-018;CIV-019,Arrivals added CIV-019; restaged by hand: stage unchanged.
+2026-10-26,BDI,digital.localgov--ict-infrastructure-for-local-government,fact,2,3,BDI-009,"Butihinda commune entering its accounts in the national AK-SOFT platform after a Primature training of communal finance officers, October 2026 (BDI-009): work in a national system outside the capital, 2 to 3, advancing"
