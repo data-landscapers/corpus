@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: BWA
-ledger_rows: 21
+ledger_rows: 22
 not_held: 5
-record: 494b1cd8cfa1
+record: 61319f5728c1
 ---
 
 # News, Sep – Oct 2026
@@ -181,6 +181,8 @@ Summarised under [Data Storage](#data-storage).
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -201,6 +203,22 @@ Summarised under [Data Storage](#data-storage).
 **[Botswana launches national eKYC project to make bank verification easier](https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier)** — Business Tech Africa, 11 September 2026
 
 The Bankers' Association of Botswana has launched a national electronic know-your-customer project letting banks check customer identities against the national citizen database instead of certified photocopies of identity cards. The report notes the association launched a similar eKYC system in 2021. No launch date is given.
+
+</div>
+
+</div>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Omang card production and replacement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt moves to clear Omang backlog](https://dailynews.gov.bw/news-detail/93807)** — Daily News (BOPA), 24 October 2026
+
+Backlog of 45,000 ID cards nearly half produced; clearance in 2-3 weeks to restore 14-day wait.
 
 </div>
 
