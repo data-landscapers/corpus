@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-21-nga-digitalization-revolution-in-the-federal-civil-service-walson-jack-lau",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Head of the Civil Service of the Federation launched Service-Wise GPT, an AI assistant for civil servants' operations, on 21 November 2024 as a beta version open to feedback.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "Service-Wise GPT",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Service-Wise GPT",
+   "country_label": "Service-Wise GPT",
+   "class": "govai",
+   "platform": "",
+   "owner": "Office of the Head of the Civil Service of the Federation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

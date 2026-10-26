@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-16-civ-amelioration-des-services-financiers-pres-de-200-plaintes-et-25-demand",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The OQSF-CI executive secretary said that by the end of 2025, 1,879 people had interacted with artificial intelligence in the observatory's tools; the captured text does not name the system.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "OQSF-CI AI tool (unnamed)",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-xaf-african-governments-customers-for-local-ai",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Togo's AI laboratory has expanded its collaborations to more than ten public agencies, with over 70 projects covering agriculture, health and public administration.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Togo AI laboratory",
+   "class": "govai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

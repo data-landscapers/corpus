@@ -23,10 +23,10 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | 5 Leading | 0 |
 | 4 Operating | 11 |
 | 3 Established | 20 |
-| 2 Nascent | 6 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 15 |
+| No evidence | 14 |
 
 ## Countries
 
@@ -262,6 +262,12 @@ Two Libyan government bodies were building AI systems in 2026; none is known to 
 - The Audit Bureau head said it launched development of an institutional AI model, Diwan Bot, at the start of 2026 to support auditing and oversight analysis; it is described as in development ([source, 2026](https://lana.gov.ly/post.php?id=358534&lang=en)).
 - Libya Observer reports that the Minister of Labour and Rehabilitation, meeting Al-Nasr Information Technology, was told the ministry's integrated digital platform, supported by AI technologies and linking its departments, was about 30% complete, with standards and the system framework finished ([source, 2026-04-14](https://ar.libyaobserver.ly/article/36835)).
 
+### Togo: 2 Nascent
+
+In 2026 Togo's AI laboratory ran over 70 projects with public agencies; whether any AI system is in service is not known.
+
+- Togo's AI laboratory has expanded its collaborations to more than ten public agencies, with over 70 projects covering agriculture, health and public administration ([source, 2026-10-22](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)).
+
 ### Tunisia: 2 Nascent
 
 AI for public administration was under way in 2026; none in service is on record.
@@ -359,12 +365,6 @@ Nothing held names AI in public administration or says there is none, so no stag
 Not established: Nothing held says whether government bodies use AI.
 
 ### South Sudan: No evidence
-
-Nothing held names AI in public administration or says there is none, so no stage is set.
-
-Not established: Nothing held says whether government bodies use AI.
-
-### Togo: No evidence
 
 Nothing held names AI in public administration or says there is none, so no stage is set.
 

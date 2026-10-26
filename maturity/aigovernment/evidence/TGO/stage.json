@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "govai",
-   "stage": "no evidence",
-   "use": "",
-   "bodies": "",
-   "rules": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether government bodies use AI.",
-   "note": "First pass: counted from the four questions by study-ladder-aigovernment.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "govai",
+      "stage": "2",
+      "use": "underway",
+      "bodies": "",
+      "rules": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-001",
+      "gaps": "No source says an AI system is in service in a government body; the AI laboratory reports projects with public agencies.",
+      "note": "Togo's AI laboratory reports over 70 projects with more than ten public agencies, which is AI being tested for government work; no system is stated to be in service, so not stage 3.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

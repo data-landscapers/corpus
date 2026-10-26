@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-30-tun-le-prochain-recensement-sera-base-sur-les-registres-administratifs",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "INS director general Bouzid Nsiri said INS had already begun preparing the next census, to be based on administrative registers instead of face-to-face collection, using the 2024 census results to build registers on the available statistical and digital infrastructure.",
+   "as_of": "2025-09-29",
+   "date_precision": "day",
+   "system": "Census based on administrative registers",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Administrative registers for the next census",
+   "country_label": "Registre-based census (post-2024)",
+   "class": "other",
+   "platform": "",
+   "owner": "Institut National de la Statistique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-23-gha-ghana-pledges-to-link-official-statistics-with-maps",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "Government Statistician Alhassan Iddrisu said Ghana Statistical Service has memoranda of understanding with 26 institutions opening up data held across government, and committed to turn data sharing agreements into data that flows daily under clear quality rules.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "GSS data sharing agreements",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -53,3 +53,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-22,UGA,tech.ai--use-of-ai-in-government-administration,fact,3,4,UGA-001;UGA-005,"NITA-U (1 Oct 2026) says AI on the National ID portal and e-services detects user patterns, a second body beside UCAA; 3 to 4"
 2026-10-24,SEN,tech.ai--use-of-ai-in-government-administration,fact,3,4,SEN-003;SEN-004,"ARCOP pilot completion report (May 2026): AI assistant and chatbot support users of the live APPEL platform; a second body with AI in service, stage 3 to 4."
 2026-10-25,SEN,tech.ai--use-of-ai-in-government-administration,review,4,3,SEN-003,"Bill, 2026-10-25: nothing shows ARCOP's APPEL assistant past pilot; one body with AI in service"
+2026-10-26,TGO,tech.ai--use-of-ai-in-government-administration,fact,no evidence,2,TGO-001,"Investdesk 22 Oct 2026: Togo's AI laboratory runs over 70 projects with more than ten public agencies; AI tested, none stated in service"

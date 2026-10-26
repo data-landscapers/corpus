@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-xaf-african-governments-customers-for-local-ai",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Kenya's Ministry of Information, Communications and the Digital Economy, with Konza Technopolis and UNDP, launched an AI Accelerator Programme inviting developers to submit AI applications to improve public services, applications closing September 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Kenya AI Accelerator Programme",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya AI Accelerator Programme",
+   "country_label": "Kenya AI Accelerator Programme",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT with Konza Technopolis and UNDP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
