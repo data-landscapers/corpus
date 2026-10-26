@@ -1,8 +1,7 @@
 iso3,fiscal_year,signal,subject,detail
 AGO,2024,document-uncited,2024-01-01-execucao-trimestral-iv-2024-companion,implementation-report; in the extract log
 AGO,2025,document-uncited,2025-01-01-execucao-trimestral-iv-2025-companion,implementation-report; in the extract log
-BDI,2024,year-thin,,29 lines against 74; by year 29/30/74
-BDI,2025,year-thin,,30 lines against 74; by year 29/30/74
+BDI,2024,year-thin,,29 lines against 74; by year 29/73/74
 BDI,2026,head-not-every-year,"MINISTERE DE L'ENVIRONNEMENT, DE L'AGRICULTURE ET DE L'ELEVAGE","held in 2024, 2025"
 BDI,2025,document-uncited,2025-07-01-bdi-2025-mfben-facturation-electronique,implementation-report; in the extract log
 BDI,2025,document-uncited,2025-07-01-bdi-2025-mfben-interconnexion-ministeres,implementation-report; in the extract log
@@ -15,8 +14,6 @@ BDI,2025,document-uncited,2025-07-01-bdi-2025-midcsp-logiciel-permis-conduire,im
 BDI,2025,document-uncited,2025-07-01-bdi-2025-setic-fonctionnement,implementation-report; in the extract log
 BDI,2025,document-uncited,2026-07-04-canevas-rapport-ceni-2025-2026-t3-companion,implementation-report; in the extract log
 BDI,2025,document-uncited,2026-07-04-canevas-rapport-mcm-2025-2026-t3-companion,implementation-report; in the extract log
-BDI,2025,document-uncited,2026-07-04-canevas-rapport-mfben-2025-2026-t3-companion,implementation-report; in the extract log
-BDI,2025,document-uncited,2026-07-04-canevas-rapport-midcsp-2025-2026-t3-companion,implementation-report; in the extract log
 BEN,2024,head-not-every-year,013 - MINISTERE DES AFFAIRES ETRANGERES,held in 2026
 BEN,2025,head-not-every-year,013 - MINISTERE DES AFFAIRES ETRANGERES,held in 2026
 BEN,2024,head-not-every-year,"034 - MINISTERE DU TOURISME, DE LA CULTURE ET DES ARTS",held in 2026
@@ -25,6 +22,7 @@ BEN,2024,head-not-every-year,037 - MINISTERE DU CADRE DE VIE ET DES TRANSPORTS C
 BEN,2025,head-not-every-year,037 - MINISTERE DU CADRE DE VIE ET DES TRANSPORTS CHARGE DU DEVELOPPEMENT DURABLE,held in 2026
 BEN,2024,head-not-every-year,"038 - MINISTERE DE L'ENERGIE, DE L'EAU ET DES MINES",held in 2026
 BEN,2025,head-not-every-year,"038 - MINISTERE DE L'ENERGIE, DE L'EAU ET DES MINES",held in 2026
+BEN,2024,document-uncited,2023-10-01-ben-dppd-2024-2026-ministere-du-numerique-et-de-la-digitalisation-035,mtef; not in the extract log
 BEN,2024,document-uncited,2023-10-04-ben-plf-2024-projet-loi-finances-companion,appropriation-act; in the extract log
 BEN,2024,document-uncited,2023-12-01-ben-dppd-2024-2026-ministere-de-la-sante-019,mtef; in the extract log
 BEN,2024,document-uncited,2023-12-20-ben-2024-apdp-014,budget-estimates; in the extract log
@@ -50,6 +48,7 @@ BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-008-cena-co
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-010-apdp-companion,budget-estimates; in the extract log
 BEN,2024,document-uncited,2024-12-29-ben-lf-2025-depenses-detaillees-035-mnd-companion,budget-estimates; in the extract log
 BEN,2024,document-uncited,2025-03-14-ben-rapex-31-decembre-2024-companion,implementation-report; in the extract log
+BEN,2024,document-uncited,2025-05-05-ben-arcep-rapport-annuel-activites-2024-companion,board-budget; in the extract log
 BEN,2024,document-uncited,2025-12-30-ben-pap-vlf-mjl-2026-companion,budget-estimates; in the extract log
 BEN,2024,document-uncited,2026-07-08-ben-tableaux-statistiques-rapport-fin-annee-2025-companion,implementation-report; in the extract log
 BEN,2025,document-uncited,2024-10-02-ben-plf-2025-projet-loi-finances-companion,appropriation-act; in the extract log
@@ -907,13 +906,26 @@ GHA,2026,document-uncited,2026-01-01-gha-pbb-2026-osp-companion,budget-estimates
 GHA,2026,document-uncited,2026-01-01-gha-pbb-2026-psc-companion,budget-estimates; in the extract log
 GHA,2026,document-uncited,2026-01-01-gha-pbb-2026-rtc-companion,budget-estimates; in the extract log
 GHA,2026,document-uncited,2026-07-23-gha-mid-year-fiscal-policy-review-2026-companion,implementation-report; in the extract log
-GIN,2026,year-missing,,lines by year 88/113/0
 GIN,2025,head-not-every-year,02 - PRIMATURE,held in 2024
-GIN,2024,head-not-every-year,"07 - MINISTERE DES AFFAIRES ETRANGERES, DE L'INTEGRATION AFRICAINE ET DES GUINEENS ETABLIS A L'ETRANGER",held in 2025
-GIN,2024,head-not-every-year,12 - MINISTERE DE LA PECHE ET DE L'ECONOMIE MARITIME,held in 2025
+GIN,2026,head-not-every-year,02 - PRIMATURE,held in 2024
+GIN,2024,head-not-every-year,"07 - MINISTERE DES AFFAIRES ETRANGERES, DE L'INTEGRATION AFRICAINE ET DES GUINEENS ETABLIS A L'ETRANGER","held in 2025, 2026"
+GIN,2024,head-not-every-year,12 - MINISTERE DE LA PECHE ET DE L'ECONOMIE MARITIME,"held in 2025, 2026"
+GIN,2024,head-not-every-year,13 - MINISTERE DES MINES ET DE LA GEOLOGIE,held in 2026
+GIN,2025,head-not-every-year,13 - MINISTERE DES MINES ET DE LA GEOLOGIE,held in 2026
 GIN,2024,head-not-every-year,"16 - MINISTERE DU COMMERCE, DE L'INDUSTRIE ET DES PETITES ET MOYENNES ENTREPRISES",held in 2025
-GIN,2025,head-not-every-year,"19 - MINISTERE DE LA PROMOTION FEMININE, DE L'ENFANCE ET DES PERSONNES VULNERABLES",held in 2024
+GIN,2026,head-not-every-year,"16 - MINISTERE DU COMMERCE, DE L'INDUSTRIE ET DES PETITES ET MOYENNES ENTREPRISES",held in 2025
+GIN,2025,head-not-every-year,"19 - MINISTERE DE LA PROMOTION FEMININE, DE L'ENFANCE ET DES PERSONNES VULNERABLES","held in 2024, 2026"
+GIN,2024,head-not-every-year,"20 - MINISTERE DE L'EDUCATION NATIONALE, DE L'ALPHABETISATION, DE L'ENSEIGNEMENT TECHNIQUE ET DE LA FORMATION PROFESSIONNELLE",held in 2026
+GIN,2025,head-not-every-year,"20 - MINISTERE DE L'EDUCATION NATIONALE, DE L'ALPHABETISATION, DE L'ENSEIGNEMENT TECHNIQUE ET DE LA FORMATION PROFESSIONNELLE",held in 2026
+GIN,2026,head-not-every-year,"21 - MINISTERE DE L'ENSEIGNEMENT TECHNIQUE, DE LA FORMATION PROFESSIONNELLE ET DE L'EMPLOI","held in 2024, 2025"
+GIN,2024,head-not-every-year,"22 - MINISTERE DE LA COMMUNICATION, DE L'ECONOMIE NUMERIQUE ET DE L'INNOVATION",held in 2026
+GIN,2025,head-not-every-year,"22 - MINISTERE DE LA COMMUNICATION, DE L'ECONOMIE NUMERIQUE ET DE L'INNOVATION",held in 2026
 GIN,2024,head-not-every-year,31 - MINISTERE DE L'ENVIRONNEMENT ET DU DEVELOPPEMENT DURABLE,held in 2025
+GIN,2026,head-not-every-year,31 - MINISTERE DE L'ENVIRONNEMENT ET DU DEVELOPPEMENT DURABLE,held in 2025
+GIN,2026,head-not-every-year,"37 - MINISTERE DES POSTES, DES TELECOMMUNICATIONS ET DE L'ECONOMIE NUMERIQUE","held in 2024, 2025"
+GIN,2024,head-not-every-year,41 - MINISTERE DE L'INDUSTRIE ET DU COMMERCE,held in 2026
+GIN,2025,head-not-every-year,41 - MINISTERE DE L'INDUSTRIE ET DU COMMERCE,held in 2026
+GIN,2026,head-not-every-year,64 - MINISTERE DU BUDGET,"held in 2024, 2025"
 GIN,2024,document-uncited,2023-07-01-gin-dpbp-2024-2026-companion,mtef; in the extract log
 GIN,2024,document-uncited,2023-12-31-gin-lfi-2024-loi-l-2023-0026-cnt-companion,appropriation-act; in the extract log
 GIN,2024,document-uncited,2024-01-18-gin-circulaire-0077-execution-budget-2024-companion,executive-instrument; in the extract log
@@ -929,6 +941,7 @@ GIN,2025,document-uncited,2025-11-17-gin-lfr-2025-loi-l-2025-034-cnt-companion,a
 GIN,2026,document-uncited,2026-03-31-gin-lfi-2026-loi-l-2026-010-cnt-companion,appropriation-act; in the extract log
 GIN,2026,document-uncited,2026-04-28-gin-circulaire-0705-execution-budget-2026-companion,executive-instrument; in the extract log
 GIN,2026,document-uncited,2026-06-05-gin-reb-t1-2026-companion,implementation-report; in the extract log
+GIN,2026,document-uncited,2026-10-22-gin-rapport-sur-lexecution-du-budget-de-letat-au-titre-premier-semestre-20-companion,implementation-report; in the extract log
 GMB,2024,head-not-every-year,20 - MINISTRY OF BASIC AND SECONDARY EDUCATION,"held in 2025, 2026"
 GMB,2024,head-not-every-year,"35 - MINISTRY OF PUBLIC SERV, ADMIN REFORMS & POLICY",held in 2026
 GMB,2025,head-not-every-year,"35 - MINISTRY OF PUBLIC SERV, ADMIN REFORMS & POLICY",held in 2026
@@ -1026,12 +1039,13 @@ KEN,2025,head-not-every-year,Vote 1015 State Department for Performance and Deli
 KEN,2026,head-not-every-year,Vote 1015 State Department for Performance and Delivery Management,held in 2024
 KEN,2024,head-not-every-year,Vote 1025 National Police Service,"held in 2025, 2026"
 KEN,2024,head-not-every-year,Vote 1073 State Department for Public Investments and Assets Management,"held in 2025, 2026"
-KEN,2026,head-not-every-year,Vote 1092 State Department for Transport,"held in 2024, 2025"
 KEN,2025,head-not-every-year,Vote 1123 State Department for Broadcasting & Telecommunications,"held in 2024, 2026"
-KEN,2025,head-not-every-year,Vote 1132 State Department for Sports,"held in 2024, 2026"
+KEN,2024,head-not-every-year,Vote 1135 State Department for Youth Affairs and Creative Economy,held in 2025
+KEN,2026,head-not-every-year,Vote 1135 State Department for Youth Affairs and Creative Economy,held in 2025
 KEN,2024,head-not-every-year,Vote 1173 State Department for Cooperatives,held in 2025
 KEN,2026,head-not-every-year,Vote 1173 State Department for Cooperatives,held in 2025
-KEN,2026,head-not-every-year,Vote 1192 State Department for Mining,"held in 2024, 2025"
+KEN,2025,head-not-every-year,Vote 1202 State Department for Tourism,held in 2024
+KEN,2026,head-not-every-year,Vote 1202 State Department for Tourism,held in 2024
 KEN,2026,head-not-every-year,Vote 1203 State Department for Wildlife,"held in 2024, 2025"
 KEN,2024,head-not-every-year,Vote 1331 State Department for Environment & Climate Change,"held in 2025, 2026"
 KEN,2024,document-uncited,2024-06-01-ken-2024-vote1122-egovernment,budget-estimates; in the extract log
@@ -1043,6 +1057,9 @@ KEN,2024,document-uncited,2024-08-01-ken-development-supp-i-fy2024-25-vol1-d1011
 KEN,2024,document-uncited,2024-08-01-ken-development-supp-i-fy2024-25-vol2-d1091-1095-companion,budget-estimates; in the extract log
 KEN,2024,document-uncited,2024-08-01-ken-development-supp-i-fy2024-25-vol3-d1104-2111-companion,budget-estimates; in the extract log
 KEN,2024,document-uncited,2024-08-01-ken-pbb-fy2024-25-supplementary-i-companion,budget-estimates; in the extract log
+KEN,2024,document-uncited,2025-02-19-ken-development-supp-ii-fy2024-25-vol1-d1011-1083-companion,budget-estimates; in the extract log
+KEN,2024,document-uncited,2025-02-19-ken-development-supp-ii-fy2024-25-vol2-d1091-1095-companion,budget-estimates; in the extract log
+KEN,2024,document-uncited,2025-02-19-ken-development-supp-ii-fy2024-25-vol3-d1104-2141-companion,budget-estimates; in the extract log
 KEN,2024,document-uncited,2025-06-01-ken-2024-vote1024-ecitizen-services,budget-estimates; in the extract log
 KEN,2024,document-uncited,2025-06-01-ken-development-supp-iii-fy2024-25-companion,budget-estimates; in the extract log
 KEN,2024,document-uncited,2025-06-01-ken-pbb-fy2024-25-supplementary-iii-companion,budget-estimates; in the extract log
@@ -1057,6 +1074,7 @@ KEN,2025,document-uncited,2026-04-01-ken-2025-vote1122-revised-supp-i,budget-est
 KEN,2025,document-uncited,2026-04-01-ken-development-supp-i-fy2025-26-vol1-d1011-1097-companion,budget-estimates; in the extract log
 KEN,2025,document-uncited,2026-04-01-ken-development-supp-i-fy2025-26-vol2-d1104-2043-companion,budget-estimates; in the extract log
 KEN,2025,document-uncited,2026-04-01-ken-pbb-fy2025-26-supplementary-i-companion,budget-estimates; in the extract log
+KEN,2025,document-uncited,2026-04-01-ken-recurrent-supp-i-fy2025-26-r1011-2151-companion,budget-estimates; in the extract log
 KEN,2025,document-uncited,2026-05-01-ken-cob-ng-birr-9mo-fy2025-26-companion,implementation-report; in the extract log
 KEN,2025,document-uncited,2026-06-01-ken-pbb-fy2025-26-supplementary-ii-companion,budget-estimates; in the extract log
 KEN,2025,document-uncited,2026-08-01-ken-cob-county-birr-fy2025-26-companion,implementation-report; in the extract log
@@ -1183,7 +1201,6 @@ MDG,2024,document-uncited,2024-07-31-mdg-creb-2t-2024-companion,implementation-r
 MDG,2024,document-uncited,2024-09-13-mdg-revue-milieu-annee-2024-companion,implementation-report; in the extract log
 MDG,2024,document-uncited,2024-10-31-mdg-creb-3t-2024-companion,implementation-report; in the extract log
 MDG,2024,document-uncited,2025-01-31-mdg-creb-4t-2024-companion,implementation-report; in the extract log
-MDG,2024,document-uncited,2025-11-01-mdg-artec-rapport-activites-2024-companion,board-budget; in the extract log
 MDG,2024,document-uncited,2026-03-19-mdg-cour-des-comptes-rapport-public-2025-companion,audited-accounts; in the extract log
 MDG,2025,document-uncited,2024-12-18-mdg-lfi-2025-tome-1-companion,budget-estimates; in the extract log
 MDG,2025,document-uncited,2024-12-18-mdg-lfi-2025-tome-3-companion,mtef; in the extract log
@@ -1197,8 +1214,8 @@ MDG,2026,document-uncited,2026-01-27-mdg-budget-des-citoyens-lfi-2026-companion,
 MDG,2026,document-uncited,2026-07-16-mdg-lfr-2026-companion,appropriation-act; in the extract log
 MDG,2026,document-uncited,2026-07-16-mdg-lfr-2026-tome-2-livre-2-companion,appropriation-act; in the extract log
 MDG,2026,document-uncited,2026-07-28-mdg-ceb-lfr-2026-companion,executive-instrument; in the extract log
-MLI,2024,year-thin,,35 lines against 103; by year 35/36/103
-MLI,2025,year-thin,,36 lines against 103; by year 35/36/103
+MLI,2024,year-thin,,36 lines against 103; by year 36/36/103
+MLI,2025,year-thin,,36 lines against 103; by year 36/36/103
 MLI,2024,head-not-every-year,180 - MINISTERE DES AFFAIRES ETRANGERES ET DE LA COOPERATION INTERNATIONALE,held in 2026
 MLI,2025,head-not-every-year,180 - MINISTERE DES AFFAIRES ETRANGERES ET DE LA COOPERATION INTERNATIONALE,held in 2026
 MLI,2024,head-not-every-year,185 - MINISTERE DES MALIENS ETABLIS A L'EXTERIEUR ET DE L'INTEGRATION AFRICAINE,"held in 2025, 2026"
@@ -1515,7 +1532,7 @@ MWI,2026,document-uncited,2026-02-01-mwi-public-sector-investment-programme-2026
 MWI,2026,document-uncited,2026-06-01-mwi-approved-financial-statement-2026-27-companion,budget-estimates; in the extract log
 MWI,2026,document-uncited,2026-06-01-mwi-approved-programme-based-budget-2026-27-companion,budget-estimates; in the extract log
 MWI,2026,document-uncited,2026-06-01-mwi-approved-programme-based-budget-2026-27-subvented-companion,budget-estimates; in the extract log
-NAM,2025,year-thin,,15 lines against 35; by year 24/15/35
+NAM,2025,year-thin,,15 lines against 35; by year 25/15/35
 NAM,2024,head-not-every-year,"Vote 10: EDUCATION , INNOVATION, YOUTH, SPORT, ARTS AND CULTURE",held in 2026
 NAM,2025,head-not-every-year,"Vote 10: EDUCATION , INNOVATION, YOUTH, SPORT, ARTS AND CULTURE",held in 2026
 NAM,2025,head-not-every-year,Vote 15: MINES AND ENERGY,"held in 2024, 2026"
@@ -1543,8 +1560,7 @@ NER,2024,head-not-every-year,22 - COUR DES COMPTES,held in 2026
 NER,2025,head-not-every-year,22 - COUR DES COMPTES,held in 2026
 NER,2024,head-not-every-year,37 - MINISTERE DE L'ENERGIE,held in 2026
 NER,2025,head-not-every-year,37 - MINISTERE DE L'ENERGIE,held in 2026
-NER,2024,head-not-every-year,"41 - MINISTÈRE DE LA FONCTION PUBLIQUE, DU TRAVAIL ET DE L'EMPLOI",held in 2026
-NER,2025,head-not-every-year,"41 - MINISTÈRE DE LA FONCTION PUBLIQUE, DU TRAVAIL ET DE L'EMPLOI",held in 2026
+NER,2024,head-not-every-year,"41 - MINISTÈRE DE LA FONCTION PUBLIQUE, DU TRAVAIL ET DE L'EMPLOI","held in 2025, 2026"
 NER,2026,head-not-every-year,48 - MINISTÈRE DE L'ACTION HUMANITAIRE ET DE LA GESTION DES CATASTROPHES,"held in 2024, 2025"
 NER,2025,head-not-every-year,51 - MINISTÈRE DE L'ARTISANAT ET DU TOURISME,"held in 2024, 2026"
 NER,2024,head-not-every-year,53 - MINISTERE DES TRANSPORTS ET DE L'AVIATION CIVILE,held in 2026
@@ -1890,7 +1906,7 @@ TGO,2026,document-uncited,2025-11-20-tgo-projet-loi-de-finances-2026-companion,b
 TGO,2026,document-uncited,2026-01-15-tgo-budget-recettes-bg-2026-companion,budget-estimates; in the extract log
 TGO,2026,document-uncited,2026-01-15-tgo-budget-recettes-cas-2026-companion,budget-estimates; in the extract log
 TGO,2026,document-uncited,2026-06-29-tgo-rapport-sur-lexecution-des-operations-financieres-de-letat-a-fin-mars-companion,implementation-report; in the extract log
-TUN,2026,year-thin,,2 lines against 91; by year 91/76/2
+TUN,2026,year-thin,,2 lines against 92; by year 92/77/2
 TUN,2025,head-not-every-year,مهمة الداخلية (Interior),held in 2024
 TUN,2026,head-not-every-year,مهمة الداخلية (Interior),held in 2024
 TUN,2026,head-not-every-year,مهمة العدل (Justice),"held in 2024, 2025"
@@ -1997,7 +2013,6 @@ UGA,2024,document-uncited,2024-07-01-uga-approved-estimates-2024-25-vol-3-soes-p
 UGA,2024,document-uncited,2024-07-05-uga-appropriation-act-2024-companion,appropriation-act; in the extract log
 UGA,2024,document-uncited,2025-02-01-uga-semi-annual-budget-performance-report-2024-25-companion,implementation-report; in the extract log
 UGA,2024,document-uncited,2025-10-21-uga-annual-budget-performance-report-2024-25-companion,implementation-report; in the extract log
-UGA,2024,document-uncited,2025-12-01-uga-oag-ucc-report-fy2024-25-companion,audited-accounts; in the extract log
 UGA,2024,document-uncited,2026-01-29-uga-oag-annual-report-fy2024-25-consolidated-findings-companion,audited-accounts; in the extract log
 UGA,2025,document-uncited,2026-02-27-uga-semi-annual-budget-performance-report-2025-26-companion,implementation-report; in the extract log
 ZAF,2024,head-not-every-year,Vote 18: Health,held in 2026
@@ -2077,6 +2092,7 @@ ZAF,2026,document-uncited,2026-02-25-zaf-2026-vote-5-dha-identification-services
 ZAF,2026,document-uncited,2026-02-25-zaf-2026-vote-5-dha-transversal-it,budget-estimates; in the extract log
 ZAF,2026,document-uncited,2026-02-25-zaf-appropriation-bill-b4-2026-companion,appropriation-act; in the extract log
 ZAF,2026,document-uncited,2026-07-16-zaf-appropriation-act-10-2026-companion,appropriation-act; in the extract log
+ZAF,2026,document-uncited,2026-10-21-zaf-national-treasury-mtbps-2026,mtef; in the extract log
 ZMB,2024,head-not-every-year,08 - Cabinet Office - Office of the President,held in 2026
 ZMB,2025,head-not-every-year,08 - Cabinet Office - Office of the President,held in 2026
 ZMB,2024,head-not-every-year,90 - Office of the President-lusaka Province,"held in 2025, 2026"
