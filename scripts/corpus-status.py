@@ -14,6 +14,7 @@ only; nothing of OSINT's beyond the mirror freshness lint already reads.
 - **corpus-notes** open notes in `notes-for-corpus.md`, OSINT's asks of Corpus. Corpus clears.
 - **osint-notes**  open notes in `notes-for-osint.md`. OSINT clears.
 - **corpus-housekeeping** open jobs in `corpus-housekeeping.md`. A `/poll` cycle works one a night.
+- **osint-housekeeping** open jobs in the share's `osint-housekeeping.md`. OSINT clears.
 - **prepared**     folders in the share's `prepared/`, handovers awaiting OSINT's pull.
 - **new-queue**    items in the share's `new-queue/`, awaiting OSINT's ingest.
 - **budget**       follow-ups in `logs/budget-followups.md`; most wait on a document or a ruling.
@@ -59,7 +60,8 @@ NOTE_HEADING = re.compile(r"^#{2,3} \d+[.\s]", re.M)
 NOTE_LEAD = re.compile(r"^\*\*\d+\*\*[ (]", re.M)
 JOB = re.compile(r"^## \d+ · ", re.M)
 FOLLOWUP = re.compile(r"^- \*\*", re.M)
-FETCH = re.compile(r"^\d+\. ", re.M)  # a struck line is `x75. …`
+# An open fetch line or OSINT job is `75. …`; a struck one is `x75. …`.
+NUMBERED = re.compile(r"^\d+\. ", re.M)
 MARKER = "<!-- newest first: a new block goes directly below this line -->"
 
 
@@ -156,10 +158,12 @@ def gates() -> list[str]:
 def tally() -> str:
     counts = [
         ("messages", messages()),
-        ("fetch", len(FETCH.findall(read(os.path.join(SHARE, "fetch-list.md"))))),
+        ("fetch", len(NUMBERED.findall(read(os.path.join(SHARE, "fetch-list.md"))))),
         ("corpus-notes", open_notes("notes-for-corpus.md")),
         ("osint-notes", open_notes("notes-for-osint.md")),
         ("corpus-housekeeping", len(JOB.findall(read(os.path.join(SHARE, "corpus-housekeeping.md"))))),
+        ("osint-housekeeping", len(NUMBERED.findall(
+            read(os.path.join(SHARE, "osint-housekeeping.md")).split("## Jobs", 1)[-1]))),
         ("prepared", entries("prepared")),
         ("new-queue", entries("new-queue")),
         ("budget", len(FOLLOWUP.findall(read(os.path.join(ROOT, "logs", "budget-followups.md"))))),
