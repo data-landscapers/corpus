@@ -9,10 +9,10 @@
       "survey": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CAF-002",
-      "gaps": "No source held reports preliminary or final results of the census published.",
-      "note": "RGPH-4 had been enumerated and was in data cleaning by 2026, with results not yet final, so stage 3 and not 4. No enumeration date is held, so the count is dated by 2026.",
-      "as_at": "2026-10-24"
+      "stage_sources": "CAF-003;CAF-002",
+      "gaps": "No source held reports preliminary or final results of the census published; provisional results were reviewed internally in September 2026.",
+      "note": "RGPH-4 has been counted and its first provisional results were reviewed by a committee in September 2026, but none are stated as published, so stage 3 and not 4.",
+      "as_at": "2026-10-26"
     }
   ]
 }

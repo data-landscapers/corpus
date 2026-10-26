@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-09-eth-us-based-cisco-eyes-ethiopia-market-warns-cloud-rules-limit-access",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Birr Metrics reports that Ethiopia's Personal Data Protection Proclamation of 2024 mandates that data collected domestically be stored within the country, with cross-border transfers permitted only under strict conditions.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Personal Data Protection Proclamation of 2024",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

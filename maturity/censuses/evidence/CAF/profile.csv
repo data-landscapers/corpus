@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CAF,census,census,coverage,taken,2026-10-10,CAF-001;CAF-002,,
+CAF,census,census,coverage,taken,2026-10,CAF-001;CAF-002;CAF-003;CAF-004,,
 CAF,census,results,coverage,,,,,nothing held
 CAF,census,survey,coverage,,,,,nothing held

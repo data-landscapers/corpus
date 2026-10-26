@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-ben-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-l-ere",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The president of Benin's data protection authority (APDP) said the Code numerique requires critical servers to be sited on national territory and called for its rigorous application.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Code numerique",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

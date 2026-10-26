@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-09-caf-icasees-mission-appui-banque-mondiale-hiswaca-sop2",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "ICASEES held a retreat at Boali on 2-5 October 2026 to clean and tabulate the data of the fourth general population and housing census (RGPH-4); no results are stated as published.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "RGPH-4",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-4",
+   "country_label": "RGPH-4",
+   "class": "census",
+   "platform": "",
+   "owner": "ICASEES",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -47,3 +47,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,GIN,data.statistics--censuses-and-surveys,ladder,3,4,GIN-003;GIN-001,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
 2026-10-25,GMB,data.statistics--censuses-and-surveys,ladder,3,5,GMB-005;GMB-004,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
 2026-10-25,GNB,data.statistics--censuses-and-surveys,ladder,3,4,GNB-003;GNB-002,"Rung 4 widened (Bill, 2026-10-25): preliminary census results published count as well as final"
+2026-10-26,CAF,data.statistics--censuses-and-surveys,fact,3,3,CAF-003;CAF-002,"ICASEES Oct 2026: first provisional RGPH-4 results reviewed by committee 23-25 Sept, tabulation retreat 2-5 Oct; none published, stays 3"

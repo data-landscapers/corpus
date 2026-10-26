@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-01-gha-stakeholders-push-for-unified-ict-policies-for-africa-s-digital-space",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "NITA's Director General said a draft National Data Centre and Cloud Computing Regulatory Framework, which covers licensing, data localisation, security, sustainability and competition, was under review at a validation workshop in Accra.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "National Data Centre and Cloud Computing Regulatory Framework",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-uga-uganda-s-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "Document cites the 2024 National Population and Housing Census as showing 43.3% of Ugandans aged 10+ own a mobile phone, so a census was counted in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "2024 National Population and Housing Census",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

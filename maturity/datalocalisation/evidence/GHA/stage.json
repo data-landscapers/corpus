@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "rule",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001",
-   "gaps": "No source held says a rule that data must be kept in the country is in force.",
-   "note": "Counted from the four questions by study-ladder-datalocalisation.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "rule",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-002;GHA-001",
+      "gaps": "No source held says a rule that data must be kept in the country is in force; whether the 2024 draft framework was adopted is not known.",
+      "note": "A draft data centre and cloud framework covering localisation was under validation in January 2024, and the minister described a localisation policy in October 2025; nothing shows a rule in force, so not stage 3.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

@@ -22,11 +22,11 @@ The African Union's Data Policy Framework, of 2022, asks states to keep only cer
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 12 |
-| 3 Established | 11 |
+| 3 Established | 12 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 26 |
+| No evidence | 25 |
 
 ## Countries
 
@@ -116,6 +116,12 @@ Zimbabwe's data protection authority requires core banking and critical financia
 - The guidelines name POTRAZ, the Data Protection Authority, as the body whose prior written approval, backed by a risk assessment and justification, is required for any exception to local hosting of highly sensitive systems such as core banking; the document gives no date, so its published date of 2025-01-01 is used ([source, 2025](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20and%20Data%20Protection%20Act%20Implementation%20Guidlines.pdf)).
 - POTRAZ, as the designated Data Protection Authority, states in its implementation guidelines that it will not permit highly sensitive information such as core banking platforms and critical financial systems to be hosted outside Zimbabwe and that such systems must be hosted locally; the document gives no date, so its published date of 2025-01-01 is used ([source, 2025](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20and%20Data%20Protection%20Act%20Implementation%20Guidlines.pdf)).
 
+### Benin: 3 Established
+
+In 2026 the data protection authority said Benin's digital code requires critical servers to stay in the country; who enforces it is not known.
+
+- The president of Benin's data protection authority (APDP) said the Code numerique requires critical servers to be sited on national territory and called for its rigorous application ([source, 2026-10-21](https://www.agenceecofin.com/actualites-numerique/2210-142651-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-lere-de-la-5g)).
+
 ### Botswana: 3 Established
 
 Botswana's data protection law, in effect since January 2025, requires a copy of data to stay in the country; the enforcer is not known.
@@ -197,8 +203,9 @@ The Gambia's unsigned 2023 government cloud policy would keep classified state d
 
 ### Ghana: 2 Nascent
 
-Ghana's minister said in October 2025 that a localisation policy will require local data held on foreign clouds to move home; no instrument is named.
+A draft cloud framework covering data localisation was under review in 2024; whether any rule is in force is not known.
 
+- NITA's Director General said a draft National Data Centre and Cloud Computing Regulatory Framework, which covers licensing, data localisation, security, sustainability and competition, was under review at a validation workshop in Accra ([source, 2024-01](https://www.graphic.com.gh/business/business-news/stakeholders-push-for-unified-ict-policies-for-africas-digital-space.html)).
 - Communications Minister Sam George said at the ACR2 opening that Ghana has a localisation policy under which local data and traffic processed on clouds outside the country will have to be hosted in Ghana; the document gives no instrument name or compliance date ([source, 2025-10-31](https://www.graphic.com.gh/news/general-news/digital-realty-opens-ghanas-largest-data-center-in-accra.html)).
 
 ### Sudan: 1 Absent
@@ -213,12 +220,6 @@ Sudan has no law requiring data to be kept in the country, a July 2026 study say
 A 2022 profile says Eritrea does not require data to be stored locally; nothing newer is held, so no stage is set.
 
 Not established: No rule or draft is on record, and no source dated in the last three years says the country has neither.
-
-### Benin: No evidence
-
-Nothing held says Benin has a rule keeping data in the country, or says it has none, so no stage is set.
-
-Not established: Nothing held names a rule that data must be kept in the country, or says there is none.
 
 ### Burkina Faso: No evidence
 
