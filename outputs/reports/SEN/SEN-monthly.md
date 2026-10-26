@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: SEN
-ledger_rows: 69
+ledger_rows: 70
 not_held: 2
-record: e3751057e40a
+record: b5214c40afd0
 ---
 
 # News, Sep – Oct 2026
@@ -812,6 +812,20 @@ Senegal's land programme PROCASEF and the Seen Suuf project held a workshop in F
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pharmaceutical regulator's online marketing-authorisation platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Homologation des médicaments : l’ARP fait le pari de la dématérialisation des procédures](https://aps.sn/homologation-des-medicaments-larp-fait-le-pari-de-la-dematerialisation-des-procedures/)** — APS, 23 October 2026
+
+Online CTD dossier filing and tracking; first module of a system linking imports, trials, licences, pharmacovigilance.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -1116,6 +1130,14 @@ Senegal's civil service ministry held a national workshop in Dakar to validate t
 
 <div class="bulletin-item" markdown="1">
 
+**[Le Sénégal adopte son plan de formation numérique des agents de l'État](https://www.force-n.sn/articles/le-senegal-adopte-son-plan-de-formation-numerique-des-agents-de-letat)** — FORCE-N, 11 September 2026
+
+Plan validated 10 September 2026 targets all 183,502 state agents by 2029; 57% of surveyed agents at beginner level.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
 **[Senegal boosts public sector digital skills](https://www.itweb.africa/article/senegal-boosts-public-sector-digital-skills/RgeVDqPRxnp7KJN3)** — ITWeb Africa, 11 September 2026
 
 Senegal launched a digital skills programme for civil servants, led by the public service ministry with Cheikh Hamidou Kane Digital University through the Mastercard Foundation-backed Force-N programme. Training covers data, artificial intelligence, cybersecurity and digital public services. Results will be tracked by completion rates, certifications and the inclusion of women. No cost, start date or number of trainees is given.
@@ -1135,6 +1157,14 @@ Senegal validated a national digital training plan for civil servants at a works
 **[Sénégal : un plan national de formation pour adapter l’administration à l’ère numérique](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique)** — wearetech.africa, 11 September 2026
 
 Senegal validated a national digital training plan for civil servants on 10 September 2026, setting common training content graded by role and responsibility. It covers digital tools, data management, information systems, online public services, artificial intelligence and cybersecurity, and is to be assessed by skills acquired and certifications obtained. No budget or timetable is given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[IA - Administration publique : Le Sénégal refuse de subir le diktat du numérique](https://lequotidien.sn/ia-administration-publique-le-senegal-refuse-de-subir-le-diktat-du-numerique/)** — Le Quotidien, 12 September 2026
+
+35,857 agents flagged for priority training; targets of 70% exam participation, 75% pass rate, 80% reach.
 
 </div>
 
