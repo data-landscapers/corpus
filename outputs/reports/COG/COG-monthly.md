@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: COG
-ledger_rows: 24
+ledger_rows: 25
 not_held: 5
-record: 5933d48f6e92
+record: 0883e72b2f7a
 ---
 
 # News, Sep – Oct 2026
@@ -379,6 +379,20 @@ Congo's procurement regulator ARMP reports that a tender file for recruiting the
 **[Digitalisation de l’administration : le comité de pilotage fixe ses priorités](https://www.adiac-congo.com/content/digitalisation-de-ladministration-le-comite-de-pilotage-fixe-ses-priorites-172010)** — Les Dépêches de Brazzaville, 17 October 2026
 
 The steering committee of Congo's task force on digitalising the administration, created by decree 2026-261 of 29 January 2026, met for the first time on 15 October 2026 and chose four priorities. They are e-visas and entry authorisation before visa-free entry for Africans from January 2027, digital criminal records and birth certificates, a clean-up of the civil-service personnel file, and data sharing between revenue agencies and land administration.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Certified electronic invoicing system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Administration fiscale : les animateurs du projet SFEC échangent avec les chefs d’entreprise de Pointe-Noire](https://www.adiac-congo.com/content/administration-fiscale-les-animateurs-du-projet-sfec-echangent-avec-les-chefs-dentreprise-de)** — Les Dépêches de Brazzaville (ADIAC), 22 October 2026
+
+1,335 firms connected since 1 August launch; non-compliance sanctions from 31 October 2026.
 
 </div>
 
