@@ -29,3 +29,8 @@ One line per country, worst first, written on 2026-10-02 from checks A to C of t
 ## Queued by the budget poll
 
 One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
+
+- **BFA FY2024** — implementation-report, actual stage not held: [[2025-11-01-bfa-annuaire-budgetaire-2024-companion]] and [[2025-11-01-bfa-tableau-de-bord-budgetaire-annuel-2024-companion]] (queued 2026-10-26, housekeeping 39).
+- **CIV FY2024** — audited-accounts, audited stage not held: [[2026-01-16-civ-cc-rapport-execution-loi-de-finances-2024-companion]] (queued 2026-10-26, housekeeping 39).
+- **COM FY2024** — appropriation-act and implementation-report, appropriated and actual stages not held (only revised is): [[2023-11-27-com-loi-de-finances-annee-2024-companion]] and [[2025-03-14-com-rapport-execution-budgetaire-exercice-2024-companion]] (queued 2026-10-26, housekeeping 39).
+- **ZWE FY2024** — audited-accounts, actual and audited stages not held; establish which year each report audits: [[2025-06-24-zwe-auditor-general-appropriation-and-fund-accounts-2024-companion]] and [[2026-06-26-zwe-auditor-general-central-government-report-companion]] (queued 2026-10-26, housekeeping 39).
