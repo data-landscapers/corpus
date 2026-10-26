@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: UGA
-ledger_rows: 73
+ledger_rows: 75
 not_held: 11
-record: 23b5b8abc50b
+record: 246d2e8472b4
 ---
 
 # News, Sep – Oct 2026
@@ -1379,6 +1379,34 @@ Uganda's gender ministry said, as reported on 19 October 2026, that about 43,000
 **[Free internet access excites traders in Oyam market](https://observer.ug/technology/free-internet-access-excites-traders-in-oyam-market/)** — The Observer (Uganda), 14 September 2026
 
 A rural community broadband network built by the Women of Uganda Network with netLabs!UG and the Internet Society Foundation is in technical testing at 12 sites in Uganda's Oyam district. Market traders already use it instead of buying mobile data; one vendor put her former spend at about Shs5,000 a day. More than 60 people have received digital literacy training.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Skills for Inclusive Digital Participation programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Uganda’s digital skills gap threatens jobs despite expanding connectivity – UCC](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)** — PML Daily, 22 October 2026
+
+UCC-British Council dialogue; 43.3% phone ownership (2024 census); 13,000 women trained under UCUSAF 2020-2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uganda Communications Universal Service and Access Fund</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Uganda’s digital skills gap threatens jobs despite expanding connectivity – UCC](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)** — PML Daily, 22 October 2026
+
+Summarised under [Digital divides](#digital-divides).
 
 </div>
 
