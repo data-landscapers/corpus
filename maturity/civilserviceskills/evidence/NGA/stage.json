@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "3",
-   "training": "inservice",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-005;NGA-002",
-   "gaps": "No source held since October 2023 says digital-skills training reaches civil servants across government.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "5",
+      "training": "inservice",
+      "reach": "wide",
+      "share": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-009;NGA-012",
+      "gaps": "The shares given are for the federal civil service; nothing held gives the share for state civil services.",
+      "note": "Stage 4c 2026-10-26: DL4ALL is required of all federal civil servants, and NITDA and Punch publish the share enrolled and the share completed, which answers question 4. The shares are for the federal service only.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

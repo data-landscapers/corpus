@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "2",
-   "training": "underway",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001",
-   "gaps": "No source held since October 2023 says: is a standing programme in service.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "4",
+      "training": "inservice",
+      "reach": "wide",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-003;RWA-006;RWA-008",
+      "gaps": "No source held since October 2023 gives the share of the civil service trained in digital skills.",
+      "note": "Stage 4c 2026-10-26: the AI course was made mandatory for the whole public service in January 2026 and nearly 200,000 had completed it by May, which answers question 3. No share of the civil service or headcount beside the number is held.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }
