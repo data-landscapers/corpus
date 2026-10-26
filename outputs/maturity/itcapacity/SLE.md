@@ -8,7 +8,7 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://mocti.gov.sl/directorate-of-technology/>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://mocti.gov.sl/directorate-of-technology/>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://mocti.gov.sl/directorate-of-technology/>).
 
 ***Noted, not assessed***. [e-Cabinet](<https://mocti.gov.sl/directorate-of-technology/>); [e-Parliament](<https://mocti.gov.sl/directorate-of-technology/>); [IFMIS](<https://mof.gov.sl/dfmst/>).
 

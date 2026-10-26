@@ -1,19 +1,19 @@
 {
-  "iso3": "NAM",
-  "cells": [
-    {
-      "sub_indicator": "inhouse",
-      "stage": "1",
-      "inhouse": "outsourced",
-      "agency": "",
-      "built": "",
-      "cadre": "",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "NAM-003",
-      "gaps": "",
-      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-10-17"
-    }
-  ]
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "inhouse",
+   "stage": "1",
+   "inhouse": "outsourced",
+   "agency": "",
+   "built": "",
+   "own": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-003",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
+   "as_at": "2026-10-17"
+  }
+ ]
 }

@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "4",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
       "built": "live",
-      "cadre": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-025;ZMB-001;ZMB-013",
-      "gaps": "No source held says the government has adopted a cadre or scheme of service for its IT staff.",
+      "stage_sources": "ZMB-029;ZMB-030;ZMB-027",
+      "gaps": "",
       "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-10-26"
     }
   ]
 }

@@ -8,8 +8,8 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://cisd.govmu.org/Pages/Application-Development.aspx>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://cisd.govmu.org/Pages/Application-Development.aspx>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://cisd.govmu.org/Pages/Application-Development.aspx>).
 
-***Noted, not assessed***. [centralised online CSA content filtering service](<https://www.icta.mu/documents/2025/03/TD_2_of_2025.pdf>); [CHiLi eKYC portal](<https://chili.mu/wp-content/uploads/eKYC_Steps-for-Mauritian-Citizen.pdf>); [Price Monitoring and Control Application](<https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf>).
+***Noted, not assessed***. [centralised online CSA content filtering service](<https://www.icta.mu/documents/2025/03/TD_2_of_2025.pdf>); [CHiLi eKYC portal](<https://chili.mu/wp-content/uploads/eKYC_Steps-for-Mauritian-Citizen.pdf>); [Price Monitoring and Control Application](<https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf>); [KaliteNet](<https://btw.media/en/mauritius-kalitenet-crowdsource-sample-representativeness>).
 
 ***Not held***. No source held says a system built by government staff went live since October 2023.

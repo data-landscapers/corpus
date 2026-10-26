@@ -8,7 +8,7 @@
 
 **Built in-house.** [The Electoral Commission's public mobile app was originally built in-house for the 2019 elections, with updates in 2021 and 2024 (2019, before the three-year window)](<https://www.itweb.co.za/article/top-ict-tenders-iec-targets-tech-upgrades-renewals/Pero3MZ31YYqQb6m>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://pmg.org.za/committee-question/41100/>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://pmg.org.za/committee-question/41100/>).
 
 ***Noted, not assessed***. [Votaquotes e-procurement](<https://www.itweb.co.za/article/top-ict-tenders-sita-sees-activity-surge/lwrKx73YyZRqmg1o>); [National opt-out registry system (OORS)](<https://www.itweb.co.za/article/top-ict-tenders-sita-sees-activity-surge/lwrKx73YyZRqmg1o>); [Free State provincial VPN](<https://www.itweb.co.za/article/top-ict-tenders-iec-targets-tech-upgrades-renewals/Pero3MZ31YYqQb6m>); [Server-based electronic records management system](<https://emfuleni.gov.za/wp-content/uploads/2026/02/Procurement-Plan-Reporting-Q2-2025-2026.pdf>); [Electronic deeds registration system](<https://www.sita.co.za/sites/default/files/Annual%20Report%202024%20-%202025_0.pdf>); [Navy secure information portal](<https://www.sita.co.za/sites/default/files/Annual%20Report%202024%20-%202025_0.pdf>).
 

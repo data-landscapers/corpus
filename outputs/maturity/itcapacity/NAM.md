@@ -8,7 +8,7 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [this source](<https://cpbn.com.na/index/bid/78>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [this source](<https://cpbn.com.na/index/bid/78>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [this source](<https://cpbn.com.na/index/bid/78>).
 
 ***Noted, not assessed***. [X-Road / UXP interoperability solution](<https://ega.ee/project/governmental-interoperability-in-namibia/>); [Namibia Integrated Employment Information System (NIEIS)](<https://mol.gov.na/documents/53329/5009470/Develpoment+of+NIEIS.pdf/58f2b2c3-6e98-8208-9719-be6f46d550ee>); [Integrated Financial Management System (IFMS)](<https://cpbn.com.na/index/bid/78>).
 

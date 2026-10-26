@@ -11,7 +11,8 @@ r"""study-ladder-itcapacity.py — the in-house capacity study's four questions,
 1. **Staff**: an `inhouse` row of `yes` inside three years.
 2. **A technology body**: an `agency` row of `operating` inside three years.
 3. **Built in-house**: a `built` row of `live` inside three years.
-4. **A cadre**: a `cadre` row of `adopted`, no window.
+4. **Run wholly in-house**: `own` rows of `entire` naming three or more systems, inside three
+   years *(Bill, 2026-10-26, message 31: the cadre is no longer asked)*.
 
 A yes to a later question answers the earlier ones (§3.3). No question is answered no: one
 body's systems run by a supplier says nothing of another's staff, so an `outsourced` row only
@@ -36,10 +37,11 @@ import study_lib  # noqa: E402
 
 STUDY = "itcapacity"
 QS = (("inhouse", "yes", True), ("agency", "operating", True), ("built", "live", True),
-      ("cadre", "adopted", False))
+      ("own", "entire", True))
+OWN = 3   # systems an `own` answer needs
 GAPS = {
     "5": "",
-    "4": "No source held says the government has adopted a cadre or scheme of service for its IT staff.",
+    "4": "No sources held since October 2023 name three systems run wholly by government staff.",
     "3": "No source held says a system built by government staff went live since October 2023.",
     "2": "No source held from 2023 or later says a government body builds or runs systems for the "
          "rest of government.",
@@ -81,6 +83,12 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     three = study_lib.months_back(as_at, 36)
     hit = {k: next((r for d, r in live if r["aspect"] == k and r["value"] == v
                     and (not windowed or d >= three)), None) for k, v, windowed in QS}
+    own = {}
+    for d, r in live:
+        if r["aspect"] == "own" and r["value"] == "entire" and d >= three:
+            own.setdefault(r["system"].strip().lower(), r)
+    if len(own) < OWN:
+        hit["own"] = None
     values = {k: (v if hit[k] else "") for k, v, _ in QS}
     top = max((i + 1 for i, (k, _, _) in enumerate(QS) if hit[k]), default=0)
     if top == 0:
@@ -92,7 +100,8 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "unplaced", "sources": [], "values": values,
                 "gaps": "No source held from 2023 or later says government staff run or maintain "
                         "any of its systems."}
-    sources = [hit[k]["row_id"] for k, _, _ in reversed(QS[:top]) if hit[k]][:3]
+    sources = ([r["row_id"] for r in own.values()][:OWN] if top == 4
+               else [hit[k]["row_id"] for k, _, _ in reversed(QS[:top]) if hit[k]][:3])
     return {"stage": str(top + 1), "sources": sources, "values": values, "gaps": GAPS[str(top + 1)]}
 
 

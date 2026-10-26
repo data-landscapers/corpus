@@ -105,9 +105,9 @@
     "A source from 2023 or later says government's own staff run or maintain one of its systems.",
     "A government agency or state company builds, hosts or runs systems for the rest of government, by a source from 2023 or later.",
     "A system built by government staff, not a contractor, went live in the last three years.",
-    "The government has adopted an ICT cadre or scheme of service for its IT staff."
+    "Three or more of the government's systems are run, maintained and changed by its own staff, with no contractor doing the work, by a source from the past three years."
    ],
-   "criteria_of": "4a141541695a"
+   "criteria_of": "a346db0a3c5b"
   }
  ],
  "classes": [
@@ -155,15 +155,15 @@
    ]
   },
   {
-   "key": "cadre",
-   "name": "A career structure for IT staff",
+   "key": "own",
+   "name": "Systems run wholly in-house",
    "role": "coverage",
    "defer": [],
    "prefer": [
-    "adopted"
+    "entire"
    ],
    "values": [
-    "adopted"
+    "entire"
    ]
   }
  ],

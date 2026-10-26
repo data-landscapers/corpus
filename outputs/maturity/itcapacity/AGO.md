@@ -8,8 +8,8 @@
 
 **Built in-house.** [INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>).
 
-***Noted, not assessed***. [SIGFE](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
+***Noted, not assessed***. [SIGFE](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>); [CAPI/CATI census platform](<https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf>).
 
-***Not held***. No source held says the government has adopted a cadre or scheme of service for its IT staff.
+***Not held***. No sources held since October 2023 name three systems run wholly by government staff.

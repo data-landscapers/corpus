@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "3",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
       "built": "",
-      "cadre": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-013;UGA-012",
-      "gaps": "No source held says a system built by government staff went live since October 2023.",
+      "stage_sources": "UGA-025;UGA-028;UGA-027",
+      "gaps": "",
       "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-10-26"
     }
   ]
 }

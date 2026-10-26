@@ -1,19 +1,19 @@
 {
-  "iso3": "LBY",
-  "cells": [
-    {
-      "sub_indicator": "inhouse",
-      "stage": "2",
-      "inhouse": "yes",
-      "agency": "",
-      "built": "",
-      "cadre": "",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "LBY-001",
-      "gaps": "No source held from 2023 or later says a government body builds or runs systems for the rest of government.",
-      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-10-18"
-    }
-  ]
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "inhouse",
+   "stage": "2",
+   "inhouse": "yes",
+   "agency": "",
+   "built": "",
+   "own": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-001",
+   "gaps": "No source held from 2023 or later says a government body builds or runs systems for the rest of government.",
+   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
+   "as_at": "2026-10-18"
+  }
+ ]
 }

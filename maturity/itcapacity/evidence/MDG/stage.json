@@ -1,19 +1,19 @@
 {
-  "iso3": "MDG",
-  "cells": [
-    {
-      "sub_indicator": "inhouse",
-      "stage": "3",
-      "inhouse": "",
-      "agency": "operating",
-      "built": "",
-      "cadre": "",
-      "cap": "",
-      "flags": "",
-      "stage_sources": "MDG-001",
-      "gaps": "No source held says a system built by government staff went live since October 2023.",
-      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-10-18"
-    }
-  ]
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "inhouse",
+   "stage": "3",
+   "inhouse": "",
+   "agency": "operating",
+   "built": "",
+   "own": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MDG-001",
+   "gaps": "No source held says a system built by government staff went live since October 2023.",
+   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
+   "as_at": "2026-10-18"
+  }
+ ]
 }

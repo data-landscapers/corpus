@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "2",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "",
       "built": "",
-      "cadre": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001",
-      "gaps": "No source held from 2023 or later says a government body builds or runs systems for the rest of government.",
+      "stage_sources": "DZA-004;DZA-006;DZA-005",
+      "gaps": "",
       "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-10-26"
     }
   ]
 }

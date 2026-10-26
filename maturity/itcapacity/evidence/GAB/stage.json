@@ -1,18 +1,19 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "3",
-   "inhouse": "yes",
-   "agency": "operating",
-   "built": "",
-   "cadre": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-013;GAB-012",
-   "gaps": "No source held says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "5",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "",
+      "own": "entire",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-022;GAB-023;GAB-024",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

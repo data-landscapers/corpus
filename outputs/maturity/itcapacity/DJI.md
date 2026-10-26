@@ -8,7 +8,7 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://www.presidence.dj/conseil-des-ministres/2023-11-14>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://www.presidence.dj/conseil-des-ministres/2023-11-14>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://www.presidence.dj/conseil-des-ministres/2023-11-14>).
 
 ***Noted, not assessed***. [ANSIE (Agence Nationale des Systèmes d'Information de l'État)](<https://www.journalofficiel.dj/texte-juridique/loi-n210-an-25-9eme-l-portant-approbation-des-comptes-financiers-2024-de-lagence-nationale-des-systemes-dinformation-de-letat/>); [national data exchange layer](<https://ega.ee/project/djibouti-digital-interoperability-platform/>); [X-Road secure data exchange](<https://ega.ee/project/public-administration-modernisation-djibouti/>).
 

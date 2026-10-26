@@ -8,7 +8,7 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://setic.gov.bi/?pages%2F10253095=>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://setic.gov.bi/?pages%2F10253095=>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://setic.gov.bi/?pages%2F10253095=>).
 
 ***Noted, not assessed***. [Système Intégré de Gestion des Finances Publiques (SIGFP)](<https://finances.gov.bi/index.php/2026/04/08/le-burundi-prepare-la-mise-en-place-du-systeme-integre-de-gestion-des-finances-publiques/>).
 

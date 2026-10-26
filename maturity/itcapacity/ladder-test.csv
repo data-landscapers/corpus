@@ -1,8 +1,8 @@
-iso3,stage,inhouse,agency,built,cadre,stage_sources
+iso3,stage,inhouse,agency,built,own,stage_sources
 AGO,4,yes,,live,,AGO-002;AGO-001
 BDI,3,,operating,,,BDI-001
 BEN,3,yes,operating,,,BEN-002;BEN-001
-BFA,4,yes,operating,live,,BFA-008;BFA-003;BFA-002
+BFA,5,yes,operating,live,entire,BFA-009;BFA-010;BFA-011
 BWA,3,,operating,,,BWA-001
 CAF,no evidence,,,,,
 CIV,3,,operating,,,CIV-004
@@ -10,14 +10,14 @@ CMR,no evidence,,,,,
 COD,no evidence,,,,,
 COG,3,,operating,,,COG-001
 COM,no evidence,,,,,
-CPV,4,yes,operating,live,,CPV-011;CPV-024;CPV-004
+CPV,5,yes,operating,live,entire,CPV-037;CPV-036;CPV-038
 DJI,3,,operating,,,DJI-002
-DZA,2,yes,,,,DZA-001
+DZA,5,yes,,,entire,DZA-004;DZA-006;DZA-005
 EGY,2,yes,,,,EGY-001
 ERI,no evidence,,,,,
 ETH,3,yes,operating,,,ETH-003;ETH-002
-GAB,3,yes,operating,,,GAB-013;GAB-012
-GHA,1,outsourced,,,,GHA-001
+GAB,5,yes,operating,,entire,GAB-022;GAB-023;GAB-024
+GHA,3,,operating,,,GHA-002
 GIN,unplaced,,,,,
 GMB,no evidence,,,,,
 GNB,unplaced,,,,,
@@ -29,8 +29,8 @@ LSO,no evidence,,,,,
 MAR,no evidence,,,,,
 MDG,3,,operating,,,MDG-001
 MLI,3,,operating,,,MLI-001
-MOZ,3,,operating,,,MOZ-002
-MRT,no evidence,,,,,
+MOZ,3,yes,operating,,,MOZ-002;MOZ-004
+MRT,4,,,live,,MRT-001
 MUS,3,yes,operating,,,MUS-001;MUS-002
 MWI,no evidence,,,,,
 NAM,1,outsourced,,,,NAM-003
@@ -38,9 +38,9 @@ NER,no evidence,,,,,
 NGA,4,yes,operating,live,,NGA-004;NGA-001;NGA-013
 RWA,3,,operating,,,RWA-001
 SDN,no evidence,,,,,
-SEN,4,yes,operating,live,,SEN-008;SEN-002;SEN-003
+SEN,5,yes,operating,live,entire,SEN-018;SEN-019;SEN-020
 SLE,3,yes,operating,,,SLE-001;SLE-002
-SOM,no evidence,,,,,
+SOM,5,,,live,entire,SOM-002;SOM-003;SOM-004
 SSD,unplaced,,,,,
 STP,no evidence,,,,,
 SWZ,1,outsourced,,,,SWZ-001
@@ -48,8 +48,8 @@ SYC,3,yes,operating,,,SYC-003;SYC-002
 TCD,2,yes,,,,TCD-001
 TGO,3,,operating,,,TGO-001
 TUN,3,yes,operating,,,TUN-003;TUN-004
-TZA,3,yes,operating,,,TZA-002;TZA-001
-UGA,3,yes,operating,,,UGA-013;UGA-012
+TZA,5,yes,operating,live,entire,TZA-011;TZA-012;TZA-010
+UGA,5,yes,operating,,entire,UGA-025;UGA-028;UGA-027
 ZAF,3,yes,operating,,,ZAF-007;ZAF-003
-ZMB,4,yes,operating,live,,ZMB-025;ZMB-001;ZMB-013
+ZMB,5,yes,operating,live,entire,ZMB-029;ZMB-030;ZMB-027
 ZWE,3,yes,operating,,,ZWE-002;ZWE-001

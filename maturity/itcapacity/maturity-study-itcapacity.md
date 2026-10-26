@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-itcapacity.md — the fifty-second maturity study: whether government's own staff build and run its computer systems, in four questions
-last_reviewed: 2026-10-14
+last_reviewed: 2026-10-26
 status: run 2026-10-14; on the soft-launch map; waits for Bill to accept
 ---
 
@@ -33,7 +33,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Do government staff run or maintain any of its computer systems? | A source from 2023 or later states a government body's own technical staff run, maintain or support a named system |
 | 2 | Does a government technology body build or run systems for the rest of government? | A source from 2023 or later states a government agency or state company builds, hosts or runs systems for ministries |
 | 3 | Has a government team built a system that went live in the last three years? | A source states a system built by government staff, not a contractor, went live in October 2023 or later |
-| 4 | Does government have a career structure for its IT staff? | A source states an ICT cadre, scheme of service or establishment for government IT staff was adopted |
+| 4 | Do government staff wholly run three or more of its systems? | Sources from the last three years name three or more systems that government staff run, maintain or built, with no contractor named doing the work |
 
 ## 3. The ladders
 
@@ -45,15 +45,17 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | Yes to 1: government staff run a system |
 | 3 Establishing | Yes to 2: a government technology body serves the rest of government |
 | 4 Operating | Yes to 3: a system built in-house went live in the last three years |
-| 5 Leading | Yes to 4: a career structure for government IT staff |
+| 5 Leading | Yes to 4: three or more systems run wholly by government staff |
 
 - **Stage 2 changes.** The row put a training exercise, a programme announced or a body needing technical help at stage 2. Training says nothing of who runs the systems, so it is `other`; a body needing help is stage 1.
 - **Stage 3 changes.** The row's "in-house teams on some systems" becomes question 1. Its place is taken by a body whose job is the rest of government's systems, which is what separates one team from a capacity.
 - **Stage 4 keeps the row's "systems built in-house"** as one fact a story states: a launch built by government staff. The row's cadre moves up.
-- **Stage 5 keeps the Charter's Art. 21 end state as a fact**: a career structure for the people. "Evidence-based development" and collaboration with institutions go, as no story states them as one fact.
-- **Window**: questions 1 to 3 are three years; question 4 has none, since a scheme of service stands until replaced.
+- **Stage 5 is three or more systems run wholly by government staff** *(Bill, 2026-10-26, message 31)*: the cadre went, as a career structure says nothing of who runs the systems. A system counts where a source says government staff or a state technology body built it, or run and maintain it, and names no contractor doing the work; donor funding is not a contractor. A network, a data centre, a hosting service or a security team is not a system.
+- **Window**: three years for every question.
 
-`study.json` holds this as four aspects, which head the long summary's paragraphs: `inhouse` (`yes`, `outsourced`) for question 1, `agency` (`operating`) for question 2, `built` (`live`) for question 3 and `cadre` (`adopted`) for question 4. **For the drafter**: `outsourced` needs a statement that a body's systems are run by suppliers or that it needs outside help to run them; a system's name goes in `country_label`, and who built it, where the story says, in the fact.
+`study.json` holds this as four aspects, which head the long summary's paragraphs: `inhouse` (`yes`, `outsourced`) for question 1, `agency` (`operating`) for question 2, `built` (`live`) for question 3 and `own` (`entire`) for question 4, one row per system, its name in `system`. **For the drafter**: `outsourced` needs a statement that a body's systems are run by suppliers or that it needs outside help to run them; a system's name goes in `country_label`, and who built it, where the story says, in the fact.
+
+**Rung 5 rewritten** *(Bill, 2026-10-26)*: the 36 `own` rows were added from facts already held (`corrections.csv`); Gambia's cadre row went, and Gambia with it to no evidence.
 
 ## 4. The norm
 

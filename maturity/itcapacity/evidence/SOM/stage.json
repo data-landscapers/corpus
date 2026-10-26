@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "4",
+      "stage": "5",
       "inhouse": "",
       "agency": "",
       "built": "live",
-      "cadre": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-001",
-      "gaps": "No source held says the government has adopted an ICT cadre or scheme of service for its IT staff, or names a government technology body serving the rest of government.",
-      "note": "NIRA launched three systems in May 2025 that it says Somali engineers at NIRA built entirely, a system built in-house inside three years, which answers the earlier questions. No ICT cadre is held.",
-      "as_at": "2026-10-23"
+      "stage_sources": "SOM-002;SOM-003;SOM-004",
+      "gaps": "No source held names a government technology body serving the rest of government.",
+      "note": "Rung 5 rewritten (Bill, 2026-10-26, message 31): NIRA's HUBIYE, e-Aqoonsi and CDS, launched May 2025 and stated entirely developed by Somali engineers at NIRA, are three systems run wholly by government staff; World Bank funding is not a contractor. A later yes answers the earlier ones.",
+      "as_at": "2026-10-26"
     }
   ]
 }

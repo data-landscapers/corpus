@@ -30,7 +30,7 @@ import study_lib  # noqa: E402
 STUDY = "itcapacity"
 SUB = "inhouse"
 WINDOW = "2023-10"   # three years before the as-at, method §3.4
-ROOM = {"inhouse": 70, "agency": 60, "built": 60, "cadre": 40}
+ROOM = {"inhouse": 70, "agency": 60, "built": 60, "own": 80}
 DATING = re.compile(r"as_of|article(?:'s)? (?:publication )?date|publication date|\bdate is\b|"
                     r"document date|date used|is used as|no (?:other )?date|the date is|revision date|published year|"
                     r"gives no (?:\w+ )?date|no (?:launch )?date|undated|dated by|date .*not stated|period is used|"
@@ -42,7 +42,7 @@ EMPTY = {
     "inhouse": "No source held from 2023 or later says a government body's own technical staff run, maintain or support one of its named systems; the stage rests on {l}.",
     "agency": "No source held from 2023 or later says a government agency or state company builds, hosts or runs systems for ministries and the rest of government; the stage rests on {l}.",
     "built": "No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on {l}.",
-    "cadre": "No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on {l}.",
+    "own": "No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on {l}.",
 }
 
 
@@ -56,8 +56,8 @@ def shorten(cell: dict, y: str) -> str:
     if s == "3":
         return f"A government technology body runs systems for the rest of government by {y}; no in-house build is known since 2023."
     if s == "4":
-        return f"Government staff built a system that went live in {y}; no career structure for government IT staff is known."
-    return f"Government adopted a cadre or scheme of service for its IT staff by {y}."
+        return f"Government staff built a system that went live in {y}; fewer than three systems are known to be run wholly by government staff."
+    return f"Government staff run, maintain or built three or more of its systems by {y}, no contractor named."
 
 
 def link(url: str, words: str) -> str:

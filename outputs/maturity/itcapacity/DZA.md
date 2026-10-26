@@ -8,8 +8,8 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381>).
+**Systems run wholly in-house.** [The Haut Commissariat a la Numerisation's own services designed and developed the electronic document verification mechanism and trained sector staff to deploy and operate it](<https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381>). [The electronic medical record was entirely designed and developed by the health ministry's information systems directorate](<https://interlignes.dz/sante-lancement-du-deploiement-du-dossier-medical-electronique-a-travers-les-69-wilayas/>). [The Ministry of the Interior's own engineers administer the platforms for identity and travel documents and civil status](<https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf>).
 
 ***Noted, not assessed***. [Dzair Digital Services](<https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381>); [National Identification Number (NIN)](<https://mail.webservices.dz/images/faq/hcn/SNTN-En.pdf>); [Chifa card / E-Chifa](<https://mail.webservices.dz/images/faq/hcn/SNTN-En.pdf>).
 
-***Not held***. No source held from 2023 or later says a government body builds or runs systems for the rest of government.
+***Not held***. Nothing further is asked of this indicator.

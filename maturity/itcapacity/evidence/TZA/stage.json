@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "4",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
       "built": "live",
-      "cadre": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002;TZA-001;TZA-006",
-      "gaps": "No source held says the government has adopted an ICT cadre or scheme of service for its IT staff.",
-      "note": "Fact 2026-10-21: Msaada AI, designed at the e-Government Authority's own research centre, is live in two institutions, a system built by government staff in the last three years; no ICT cadre is held.",
-      "as_at": "2026-10-21"
+      "stage_sources": "TZA-010;TZA-011;TZA-012",
+      "gaps": "",
+      "note": "Rung 5 rewritten (Bill, 2026-10-26, message 31): Msaada AI, NeST, M-Kilimo and iNDLS are built or maintained by the e-Government Authority, PPRA and the Library Services Board, no contractor named; four systems run wholly by government staff.",
+      "as_at": "2026-10-26"
     }
   ]
 }

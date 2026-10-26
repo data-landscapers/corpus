@@ -14,101 +14,121 @@ The African Charter on the Values and Principles of Public Service and Administr
 | 2 Preparing | Yes to 1: government staff run a system |
 | 3 Establishing | Yes to 2: a government technology body serves the rest of government |
 | 4 Operating | Yes to 3: a system built in-house went live in the last three years |
-| 5 Leading | Yes to 4: a career structure for government IT staff |
+| 5 Leading | Yes to 4: three or more systems run wholly by government staff |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 10 |
-| 3 Established | 23 |
-| 2 Nascent | 4 |
+| 5 Leading | 9 |
+| 4 Operating | 4 |
+| 3 Established | 21 |
+| 2 Nascent | 3 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
-| No evidence | 11 |
+| No evidence | 12 |
 
 ## Countries
 
-### Gambia: 5 Leading
+### Algeria: 5 Leading
 
-Government IT staff have formed an ICT cadre under the national ICT agency since a 2019 law; who runs the systems is not known.
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
 
-- Government ICT professionals across ministries and agencies form an ICT cadre under the administrative oversight of the Gambia ICT Agency (GICTA), as mandated by the GICTA Act of 2019, according to a June 2025 forum report ([source, 2019](https://thepoint.gm/africa/gambia/national-news/gicta-hosts-forum-to-strengthen-public-sector-digital-transformation)).
+- The Haut Commissariat a la Numerisation's own services designed and developed the electronic document verification mechanism and trained sector staff to deploy and operate it ([source, 2026-09-17](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)).
+- The electronic medical record was entirely designed and developed by the health ministry's information systems directorate ([source, 2026-07-25](https://interlignes.dz/sante-lancement-du-deploiement-du-dossier-medical-electronique-a-travers-les-69-wilayas/)).
+- The Ministry of the Interior's own engineers administer the platforms for identity and travel documents and civil status ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
+
+### Burkina Faso: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
+
+- The Treasury's own administration, not a contractor, developed Lanaya ([source, 2026-04-03](https://www.sidwaya.info/tresor-public-lanaya-et-e-bdt-pour-simplifier-les-demarches-administratives/)).
+- The Treasury's own administration, not a contractor, developed e-BDT ([source, 2026-04-03](https://www.sidwaya.info/tresor-public-lanaya-et-e-bdt-pour-simplifier-les-demarches-administratives/)).
+- ANPTIC, the state ICT agency, lists Toumnana (SIGED) among the government systems it developed ([source, 2024-01-30](https://anptic.gov.bf/nos-realisations/)).
+
+### Cape Verde: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
+
+- NOSi, the state information-society company, runs the election-results publication system and portal eleicoes.cv with its own staff ([source, 2026-05-17](https://www.anacao.cv/noticia/2026/05/27/legislativas-2026-nosi-diz-que-relatorio-preliminar-aponta-para-causas-de-ordem-tecnica/)).
+- The justice information system, developed and implemented by the state company NOSi, passes for maintenance and development to the Justice Ministry's IMIJ, in coordination with NOSi ([source, 2026-03-17](https://www.governo.cv/nosi-faz-entrega-formal-do-sistema-de-informacao-da-justica-ao-ministerio-da-justica/)).
+- NOSi, the government's technology arm, develops and maintains IGRPWeb among its e-government solutions ([source, 2024](https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/)).
+
+### Gabon: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
+
+- ANINF, the state digital agency, designed the FUR civil-service HR and payroll application and is fixing its coding failures ([source, 2026-08-25](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference)).
+- The KEWA platform, which published the 2026 primary-school certificate results, is run by the state agency ANINF, its engineers credited for it ([source, 2026-06-27](https://gabonactu.com/blog/2026/06/27/cep-2026-kewa-revolutionne-la-publication-des-resultats-laninf-confirme-son-leadership-dans-la-transformation-numerique-du-gabon/)).
+- ANINF's own directorates manage its SecBOM digital-asset mapping system; no outside vendor is named ([source, 2025-06-01](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/)).
+
+### Senegal: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
+
+- The e-Senegal single-window platform and app were developed by the state company Senegal Numerique SA ([source, 2026-03-24](https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html)).
+- Senegal Numerique SA, a state company, runs the government messaging service and its collaboration and video-conference tools ([source, 2025](https://www.presidence.sn/wo/assets/documents/Communication-SENUM-CAMP-2025.pdf)).
+- ANACIM's own technology and climate data teams have deployed and operated the AgData Hub end to end since September-October 2025 ([source, 2025-10](https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture)).
+
+### Somalia: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2025, no contractor named.
+
+- NIRA's HUBIYE system was entirely developed by Somali engineers at NIRA, with World Bank project funding ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
+- NIRA's e-Aqoonsi system was entirely developed by Somali engineers at NIRA, with World Bank project funding ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
+- NIRA's CDS system was entirely developed by Somali engineers at NIRA, with World Bank project funding ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
+
+### Tanzania: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
+
+- The e-Government Authority designed Msaada AI at its own research centre and keeps improving it from users' feedback ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
+- NeST is developed and maintained by the Public Procurement Regulatory Authority's own technical team ([source, 2026-09-25](https://thebusinesswiz.co.tz/2026/09/25/tanzanias-digital-procurement-system-cuts-processing-time-and-costs/)).
+- The e-Government Authority developed the M-Kilimo system with the Ministry of Agriculture ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
+
+### Uganda: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
+
+- NITA-U's own staff run UGPass and are developing a digital signature service on it ([source, 2026-09-16](https://www.newvision.co.ug/category/news/nita-u-moves-to-replace-paper-based-land-veri-NV_240761_092026)).
+- NITA-U operates the National Public Key Infrastructure at the National Data Centre ([source, 2026-08](https://nita.go.ug/sites/default/files/2026-08/PKI%20Audit%20TORs-%20Final%20-%2019-08-26.pdf)).
+- ECCMIS, the courts' case management system, was developed locally by Judiciary staff, who support it ([source, 2026-04-23](https://nilepost.co.ug/news/337016/justice-ssekaana-leads-judiciary-digital-push-as-eccmis-training-rolls-out-for-judicial-officers)).
+
+### Zambia: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
+
+- Smart Zambia Institute operates ZamPass, the national authentication service, with its own ZamPass team ([source, 2026-08-29](https://pass.gsb.gov.zm/about)).
+- SmartCare Pro was developed by the Ministry of Health and the Smart Zambia Institute ([source, 2026-07-16](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)).
+- SMART Zambia's e-Government Division developed the SMART Office Management System in-house ([source, 2025-06-23](https://techafricanews.com/2025/06/23/zambia-advances-public-sector-digitisation-with-smart-office-system-rollout/)).
 
 ### Angola: 4 Operating
 
-Government staff built a system that went live in 2026; no career structure for government IT staff is known.
+Government staff built a system that went live in 2026; fewer than three systems are known to be run wholly by government staff.
 
 - INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
 - Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
 
-### Burkina Faso: 4 Operating
-
-Government staff built a system that went live in 2026; no career structure for government IT staff is known.
-
-- The Treasury's director general said Lanaya and e-BDT were developed by the Treasury's own administration (not a contractor), and they were officially launched on 3 April 2026 in Ouagadougou ([source, 2026-04-03](https://www.sidwaya.info/tresor-public-lanaya-et-e-bdt-pour-simplifier-les-demarches-administratives/)).
-- The ANAGRASC claims-registration platform was designed with the help of ANPTIC, the state ICT agency, and launched on 3 September 2026 ([source, 2026-09-03](https://burkina24.com/2026/09/03/burkina-faso-lancement-dune-plateforme-pour-le-recensement-du-passif-de-trois-societes-immobilieres/)).
-- ANPTIC lists under its own 'services and applications developed' the government systems Bondoo, Tawale, Toumnana (SIGED), SIGEPE, Helpdesk and e-conseil des ministres (undated page, published date used) ([source, 2024-01-30](https://anptic.gov.bf/nos-realisations/)).
-
-### Cape Verde: 4 Operating
-
-Government staff built a system that went live in 2026; no career structure for government IT staff is known.
-
-- The SIPP criminal-case component of the SIJ, developed by the NOSi team, was formally delivered and is stated to be operating in every comarca; no go-live date is given, so as_of is the delivery date ([source, 2026-03-17](https://www.governo.cv/nosi-faz-entrega-formal-do-sistema-de-informacao-da-justica-ao-ministerio-da-justica/)).
-- The Autentika page, undated so taken as 2026 (published date), presents it as the State's electronic identity and authentication platform, with NOSi handling application onboarding and helpdesk, and more than 95,000 daily users ([source, 2026](https://portal-autentika.gov.cv/)).
-- NOSi stated that its board's investments in infrastructure and staff capacity let it manage the State Private Technology Network and run the election-results publication system and portal eleicoes.cv ([source, 2026-05-17](https://www.anacao.cv/noticia/2026/05/27/legislativas-2026-nosi-diz-que-relatorio-preliminar-aponta-para-causas-de-ordem-tecnica/)).
-
 ### Liberia: 4 Operating
 
-Government staff built a system that went live in 2026; no career structure for government IT staff is known.
+Government staff built a system that went live in 2026; fewer than three systems are known to be run wholly by government staff.
 
 - The platform developed by LRA programmers was launched at Liberia National Police Headquarters on Friday 1 May 2026, replacing a manual process; the document is dated 3 May ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
 - The online police clearance platform was developed by Liberia Revenue Authority programmers, and the LRA's Management Information Services Division described it as showing local professionals' technical expertise ([source, 2026-05-01](https://gnnliberia.com/lnp-lra-digitize-police-clearance-in-major-reform/)).
 
 ### Mauritania: 4 Operating
 
-Government staff built a system that went live in 2023; no career structure for government IT staff is known.
+Government staff built a system that went live in 2023; fewer than three systems are known to be run wholly by government staff.
 
 - Mauritania's population register agency ANRPTS launched the Hewiyeti app on 26 December 2023, letting citizens apply and pay for ID cards, passports and civil-status extracts online; the interior minister said it was developed by national engineers ([source, 2023-12-26](https://ami.mr/fr/archives/237149)).
 
 ### Nigeria: 4 Operating
 
-Government staff built a system that went live in 2026; no career structure for government IT staff is known.
+Government staff built a system that went live in 2026; fewer than three systems are known to be run wholly by government staff.
 
 - The Government Service Portal, stated as developed by Galaxy Backbone in collaboration with the communications ministry and KOICA, was soft-launched on 28 July 2026 ([source, 2026-07-28](https://von.gov.ng/nigeria-unveils-unified-government-service-platform/)).
 - Galaxy Backbone's managing director said more than 30 federal ministries, departments and agencies have moved onto one government platform run by GBB for approving documents and memos paperlessly ([source, 2026-10-09](https://www.thisdaylive.com/2026/10/11/gbb-promises-to-increase-numbers-of-digitalised-mdas-from-current-30-says-adeyanju/)).
 - Anambra State ICT Agency (ICTA) presented its upgraded SolutionLens platform and moved it into operational use by the state Ministry of Information, with a formal handover planned ([source, 2026-10-08](https://anambrastate.gov.ng/ict-agency-information-ministry-deepen-digital-collaboration-as-solutionlens-moves-into-operational-use/)).
-
-### Senegal: 4 Operating
-
-Government staff built a system that went live in 2026; no career structure for government IT staff is known.
-
-- The e-Sénégal single-window platform and mobile app, developed by state company Sénégal Numérique SA, was launched on 24 March 2026 with judicial-record and nationality-certificate procedures ([source, 2026-03-24](https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html)).
-- Sénégal Numérique SA, the state operator, says on its own page that the Diamniadio national Tier 3 datacenter hosts and stores the state's data, and that its Espaces Sénégal Services are connected to all administrations; page undated, published date used ([source, 2026-09-03](https://senegalnumeriquesa.sn/en/projets/smart-s%C3%A9n%C3%A9gal)).
-- Sénégal Numérique SA said its own Cyberdefense, Systems and Networks teams were mobilised to protect its information systems after attempted cyberattacks, per its communique of 9 February 2026 ([source, 2026-02-09](https://www.enqueteplus.com/content/cybersécurité-sénégal-numérique-signale-des-tentatives-de-cyberattaques-et-restreint)).
-
-### Somalia: 4 Operating
-
-The ID agency's own engineers built three identity systems launched in 2025; a career structure for government IT staff is not known.
-
-- NIRA says it launched three systems (HUBIYE, e-Aqoonsi, CDS) entirely developed by Somali engineers at NIRA, with World Bank Scaled-UP Project support ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
-
-### Tanzania: 4 Operating
-
-Tanzania's e-Government Authority builds and runs systems for government, and its own AI tool went live in 2026; an IT cadre is not known.
-
-- The e-Government Authority, mandated to coordinate ICT across public institutions, runs MUVU (over 6,000 cooperative societies registered), M-Kilimo, the Government Mailing System and e-Office for the agriculture ministry and its institutions; no date is given beyond the article's publication date (2026-08-04) ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
-- The e-Government Authority says it developed the M-Kilimo system with the Ministry of Agriculture, the MUVU Cooperative Management System with the Cooperative Development Commission, and the Fertiliser Information System with the fertiliser regulator; no date is given beyond the article's publication date (2026-08-04) ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
-- The e-Government Authority says Msaada AI, designed at its own research centre, is in use by two institutions ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
-
-### Zambia: 4 Operating
-
-Government staff built a system that went live in 2026; no career structure for government IT staff is known.
-
-- The government chief technology officer said SmartCare 2.0 is locally developed and owned; its pilot went live at Ndola Teaching Hospital on 27 April 2026, launched by SMART Zambia with the Ministry of Health and IHM Southern Africa as collaborator ([source, 2026-04-27](https://techafricanews.com/2026/04/28/zambia-targets-nationwide-health-connectivity-as-smartcare-2-0-pilot-goes-live-in-ndola/)).
-- The Smart Zambia Institute handed over the Smart Office Management System to Zambia Airports Corporation Limited on 2026-09-04 and was directed by the Secretary to the Cabinet to report by end-October 2026 on onboarding ministries, provinces, agencies and state-owned enterprises ([source, 2026-09-04](https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/)).
-- Smart Zambia Institute describes itself as operator of ZamPass, the national authentication and access-control service, with its own ZamPass team; the page is undated, so its published date 2026-08-29 is used ([source, 2026-08-29](https://pass.gsb.gov.zm/about)).
 
 ### Benin: 3 Established
 
@@ -160,13 +180,6 @@ A government technology body runs systems for the rest of government by 2025; no
 
 - Addis Fortune reports INSA, the Information Network Security Administration, is spearheading the Federal Supreme Court's Integrated Court Management Information System and Electronic Records Management System ([source, 2025-07](https://addisfortune.news/supreme-court-sets-bold-course-toward-digital-justice)).
 - INSA says its own developed tools, including Ergamail and the electronic tax system, are already in use across key government agencies ([source, 2025-07-08](https://ethiopianbusinessreview.net/innovation-wears-netela-ethiopia-to-build-its-own-versions-of-whatsapp-gmail-and-zoom-citing-tired-of-data-leaks/)).
-
-### Gabon: 3 Established
-
-A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
-
-- ANINF supports administrations including the government secretariat and exams directorate with the GED, document security and user support ([source, 2026-09-16](https://techafricanews.com/2026/09/17/gabon-launches-electronic-document-management-platform/)).
-- The GED electronic document management platform was developed with ANINF's expertise, per Tech Africa News ([source, 2026-09-16](https://techafricanews.com/2026/09/17/gabon-launches-electronic-document-management-platform/)).
 
 ### Ghana: 3 Established
 
@@ -248,25 +261,12 @@ A government technology body runs systems for the rest of government by 2026; no
 - The Centre National de l'Informatique, a public establishment, states its missions under decree 2007-1359 include infogerance of national systems and rollout of e-Administration for the Administration; no event date is given, so the document's published date is used ([source, 2026-06-18](http://www.cni.tn/index.php/fr/layout-3/historique-2)).
 - The Centre National de l'Informatique states it manages the RNIA network and the government Intranet and is responsible for continuity of national applications through its backup centre; no event date is given, so the document's published date is used ([source, 2026-06-18](http://www.cni.tn/index.php/fr/layout-3/historique-2)).
 
-### Uganda: 3 Established
-
-A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
-
-- NITA-U manages UGHub, which connects the NIRA registry to more than 150 ministries, departments and agencies, per a NITA-U IT professional ([source, 2026-10-01](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)).
-- A NITA-U IT professional said UGHub is a national data integration platform managed by NITA-U, using infrastructure developed by NITA-U ([source, 2026-10-01](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)).
-
 ### Zimbabwe: 3 Established
 
 A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
 
 - The Government Internet Service Provider, a government body formed in 1998, is stated to provide internet connectivity, email and web services to all government ministries, departments and parastatals, and to administer the .gov.zw domain; the page carries no revision date, so 2026 is its published proxy year ([source, 2026](http://www.gisp.gov.zw/about/)).
 - The Zimbabwe Republic Police ICT Directorate, headed by a Director ICT, is stated to be responsible for all ICT matters in the force, managing its ICT infrastructure and personnel through provincial ICT officers and systems administration, with a Professional Software Development Team under it; the page is dated 2024-03-14 and gives no other date ([source, 2024-03-14](https://zrp.gov.zw/?p=7187)).
-
-### Algeria: 2 Nascent
-
-Government staff run or maintain systems by 2026; no body is known to serve the rest of government.
-
-- The Haut Commissariat a la Numerisation states its own services designed and developed the mechanism for verifying electronic documents issued through the Dzair Digital Services portal, which it trained sector information-system managers to deploy and operate ([source, 2026-09-17](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)).
 
 ### Chad: 2 Nascent
 
@@ -341,6 +341,12 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 Not established: Nothing held says who builds or runs the government's computer systems.
 
 ### Eritrea: No evidence
+
+Nothing held says who builds or runs the government's systems, so no stage is set.
+
+Not established: Nothing held says who builds or runs the government's computer systems.
+
+### Gambia: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
 

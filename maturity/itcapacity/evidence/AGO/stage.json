@@ -7,11 +7,11 @@
    "inhouse": "yes",
    "agency": "",
    "built": "live",
-   "cadre": "",
+   "own": "",
    "cap": "",
    "flags": "",
    "stage_sources": "AGO-002;AGO-001",
-   "gaps": "No source held says the government has adopted a cadre or scheme of service for its IT staff.",
+   "gaps": "No sources held since October 2023 name three systems run wholly by government staff.",
    "note": "Counted from the four questions by study-ladder-itcapacity.py."
   }
  ]

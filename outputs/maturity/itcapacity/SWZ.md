@@ -8,7 +8,7 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [this source](<https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [this source](<https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [this source](<https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/>).
 
 ***Noted, not assessed***. [Digital Eswatini Project](<https://eswatinipositivenews.online/e1-06bn-digital-eswatini-puts-people-before-technology/>).
 

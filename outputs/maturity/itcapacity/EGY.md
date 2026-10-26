@@ -8,7 +8,7 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://www.nosi.gov.eg/ar/News/Pages/2026-04-22.aspx>).
 
-**A career structure for IT staff.** No source held says the government has adopted an ICT cadre, a scheme of service or an establishment for its IT staff; the stage rests on [the source that sets it](<https://www.nosi.gov.eg/ar/News/Pages/2026-04-22.aspx>).
+**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://www.nosi.gov.eg/ar/News/Pages/2026-04-22.aspx>).
 
 ***Noted, not assessed***. [Takaful and Karama beneficiary database](<https://documents1.worldbank.org/curated/en/533491624466169827/pdf/G2P-Payment-Arrangements-in-Egypt-and-COVID-19.pdf>).
 
