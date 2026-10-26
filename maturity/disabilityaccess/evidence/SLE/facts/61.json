@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-sle-dsti-and-social-welfare-validate-new-app-for-speech-and-hearing-impair",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Sierra Leone's Directorate of Science, Technology and Innovation and the Ministry of Social Welfare validated the UNICEF-sponsored Leh Wi Tok communication app for speech- and hearing-impaired people, with a first phase for school pupils, and the Social Welfare minister plans to present it for cabinet approval.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Leh Wi Tok",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Leh Wi Tok",
+   "country_label": "Sierra Leone",
+   "class": "accessibility",
+   "platform": "mobile app",
+   "owner": "Directorate of Science, Technology and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
