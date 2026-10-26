@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: XAF
-ledger_rows: 118
+ledger_rows: 120
 not_held: 3
-record: 8b86d437f2ad
+record: ac38d4ea89fb
 ---
 
 # News, Sep – Oct 2026
@@ -946,6 +946,20 @@ The World Bank Group launched its first digital strategy in Seoul on 20 October 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UN-backed call for African AI products for wider use</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African governments become customers for local AI](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)** — Investdesk Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
+
+Togo, Kenya, Rwanda, Lesotho cases; UN call for African AI products closed 2 Oct, showcase in Accra.
+
+</div>
+
+</div>
+
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
@@ -1731,6 +1745,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Cross-border payments as a necessity for Africa's resilience and economic transformation](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)** — Bank for International Settlements (central bankers' speeches); speech by the Bank of Mauritius, 13 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Joint renminbi clearing bank for Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Expanding RMB payments, financing in Africa](https://www.chinadaily.com.cn/a/202610/22/WS6ad97f1ce4b06d4aa05642ef.html)** — China Daily, 22 October 2026
+
+Unveiled in Beijing 19 Oct 2026; RMB 10bn+ interbank facility; wider CIPS reach; RMB guide for 19 African states.
 
 </div>
 
