@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: XEA
-ledger_rows: 22
+ledger_rows: 23
 not_held: 0
-record: 8c9eb223bff4
+record: 1f905cb77392
 ---
 
 # News, Sep – Oct 2026
@@ -221,6 +221,8 @@ The East African Community, the Inter-University Council for East Africa and the
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#national-statistics">National statistics</a>
 </nav>
 
@@ -349,6 +351,22 @@ Afreximbank issued a US$29 million guarantee to BSMART Technology Ltd, announced
 **[East African Community (EAC) Health Ministers Step Up Regional Action to Strengthen Health Security](https://www.africa-newsroom.com/press/east-african-community-eac-health-ministers-step-up-regional-action-to-strengthen-health-security?lang=en)** — Africa Newsroom (APO Group), 8 October 2026
 
 East African Community health ministers, ending their 26th meeting in Arusha on 6 October 2026, advanced a regional platform for sharing pandemic and epidemic intelligence. They noted that all eight Partner States are onboarded and trained on the digital platform of the EAC pooled procurement mechanism, and called for a dashboard to track regional health decisions.
+
+</div>
+
+</div>
+
+### Rural digital data capture
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">IGAD Digital Agro-Climate Advisory Services (DACAS) Knowledge Network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IGAD Advances Regional Collaboration on Digital Agro-Climate Advisory Services and Gender-Responsive Food Systems](https://igad.int/igad-advances-regional-collaboration-on-digital-agro-climate-advisory-services-and-gender-responsive-food-systems/)** — IGAD, 24 October 2026
+
+Arba Minch workshop 21-24 Oct 2026; calls for regional data-quality, interoperability and data-sharing standards.
 
 </div>
 
