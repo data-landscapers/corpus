@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-02-uga-familiarisation-visit-highlights-nita-u-s-digital-progress",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre and Disaster Recovery Centre",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": "Hosts government applications only; nothing about renting to other organisations."
+}

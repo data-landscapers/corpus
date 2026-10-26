@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-11-zwe-government-to-expand-national-data-centre",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre",
+   "country_label": "National Data Centre",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Zimbabwe",
+   "tiers": "expansion to at least Tier 4 under consideration"
+  }
+ ],
+ "note": "Document does not say the National Data Centre rents space or computing to others, and the Tier 4 expansion is only mooted."
+}

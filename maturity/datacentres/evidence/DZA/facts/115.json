@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-14-dza-elmassar-national-digital-services-portal-21-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Digital Services Center",
+   "country_label": "National Digital Services Center (Mohammadia, Algiers and Blida, active-active)",
+   "class": "other",
+   "platform": "cloud",
+   "owner": "State",
+   "tiers": "Uptime Institute accredited, tier not stated"
+  }
+ ],
+ "note": "The centre serves public institutions and administrations only, and no Tier is stated."
+}

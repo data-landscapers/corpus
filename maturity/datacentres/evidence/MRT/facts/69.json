@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government data centre (Ministry of Digital Transformation)",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "hyperconverged infrastructure",
+   "owner": "Ministry of Digital Transformation and Modernisation of Administration",
+   "tiers": ""
+  }
+ ],
+ "note": "The ministry data centre is described as hosting government servers, not as renting to other organisations; no Tier stated."
+}

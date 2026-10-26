@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Konza Technopolis is said to have deployed Kenya's first Tier 3 cloud data centre, powering over 70 government applications and 120 industry services (Huawei's figures as reported by KBC).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Konza Technopolis Tier 3 cloud data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Konza Technopolis Tier 3 cloud data centre",
+   "country_label": "Konza Technopolis cloud data centre",
+   "class": "datacentre",
+   "platform": "cloud",
+   "owner": "Konza Technopolis",
+   "tiers": "Tier 3"
+  }
+ ],
+ "note": ""
+}

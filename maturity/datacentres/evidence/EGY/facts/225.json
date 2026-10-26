@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-28-egy-president-sisi-inaugurates-egypt-s-1st-government-data-and-cloud-compu",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "President Sisi inaugurated Egypt's Government Data and Cloud Computing Center on 28 April 2024, which the report says also offers applications for start-ups and enterprises; no Tier is stated.",
+   "as_of": "2024-04-28",
+   "date_precision": "day",
+   "system": "Government Data and Cloud Computing Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Data and Cloud Computing Center",
+   "country_label": "Government Data and Cloud Computing Center",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Government of Egypt (MCIT)",
+   "tiers": ""
+  }
+ ],
+ "note": "Whether it rents space or computing to outside organisations is only implied by the offer of applications to start-ups and enterprises."
+}

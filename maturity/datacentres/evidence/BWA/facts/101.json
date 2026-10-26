@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-29-bwa-bofinet-pushes-for-local-data-hosting-to-strengthen-security",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "BoFiNet CEO Geoffrey Seleka says the Digital Delta Data Centre is a carrier-neutral facility open to all licensed operators and cloud service providers, serving government, state-owned enterprises, parastatals and private companies.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "BoFiNet CEO Geoffrey Seleka says the Digital Delta Data Centre is Uptime Institute Tier III certified, with 99.982 percent availability.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Digital Delta Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "Botswana",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "BoFiNet",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "No cloud region stated."
+}

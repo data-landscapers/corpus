@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Mauritania's President inaugurated the Nouakchott Data Center, which offers cloud hosting, backup and disaster recovery to public administrations, financial institutions, startups and service providers.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The Nouakchott Data Center holds a level 3 certification (the article names the issuer 'AppTime Global Institute') with over 99.982% availability.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nouakchott Data Center",
+   "country_label": "Mauritania",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state (national)",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

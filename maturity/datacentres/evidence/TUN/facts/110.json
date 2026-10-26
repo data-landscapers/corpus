@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "EO Data Center received the G-Cloud label in July 2024 as a Tunisian hosting provider supplying cloud services to public structures.",
+   "as_of": "2024-07-11",
+   "date_precision": "day",
+   "system": "EO Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EO Data Center",
+   "country_label": "Tunisia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

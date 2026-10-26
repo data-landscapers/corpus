@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-20-tun-liste-des-fournisseurs-cloud-labelises",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The ANCS register of 20 November 2025 lists Tunisie Telecom, Dataxion and Ooredoo Tunisie as N-Cloud labelled providers offering colocation space.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "colocation services",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tunisie Telecom",
+   "country_label": "Tunisia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Dataxion",
+   "country_label": "Tunisia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Ooredoo Tunisie",
+   "country_label": "Tunisia",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

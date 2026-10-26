@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-09-eth-us-based-cisco-eyes-ethiopia-market-warns-cloud-rules-limit-access",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "State-owned Ethio Telecom operates Telecloud, a platform serving government, enterprise and sector digital needs, which has expanded to 192 racks, 8,064 servers and 6PB enterprise storage, per Birr Metrics.",
+   "as_of": "2025-10-09",
+   "date_precision": "day",
+   "system": "Telecloud",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telecloud",
+   "country_label": "Ethiopia",
+   "class": "datacentre",
+   "platform": "192 racks, 8,064 servers",
+   "owner": "Ethio Telecom (state-owned)",
+   "tiers": ""
+  }
+ ],
+ "note": "No Tier is stated."
+}
