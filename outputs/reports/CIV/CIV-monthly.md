@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: CIV
-ledger_rows: 50
+ledger_rows: 51
 not_held: 10
-record: c94ae9fc62f7
+record: cb819da9b5d1
 ---
 
 # News, Sep – Oct 2026
@@ -927,6 +927,20 @@ Launching Ivoire Tech Forum 2026, to be held in Abidjan on 11-13 November, digit
 **[Côte d'Ivoire Seeks to Diversify Fintech Sector Beyond Digital Payments](https://www.ecofinagency.com/news-finances/0910-59598-cote-d-ivoire-seeks-to-diversify-fintech-sector-beyond-digital-payments)** — Ecofin Agency, 9 October 2026
 
 Côte d'Ivoire's finance ministry launched a Fintech Sector Support Project in Abidjan on 6 October 2026 through its financial inclusion agency APIF, with African Development Bank funding under a business-climate programme. It aims to build fintech firms' capacity and encourage services beyond payments; mobile money use reached 84.2% in 2024. The project's own budget is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Blockchain centre of excellence at the VITIB technology park</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire Welcomes Economic Innovation Through Blockchain and Digital Assets](https://cryptoafrica.news/cote-divoire-welcomes-economic-innovation-through-blockchain-and-digital-assets/)** — Crypto Africa, 23 October 2026
+
+VITIB plans blockchain centre of excellence; seminar co-hosted with Valoores Africor; minister on supervision.
 
 </div>
 
