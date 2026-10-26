@@ -1,6 +1,6 @@
 ---
 title: Senegal: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: SEN
 region: XWA
 built_by: STATUS-INIT
@@ -319,7 +319,7 @@ What sits between the two is a series of separately sponsored cohorts. [Alibaba 
 
 The tertiary and vocational pipeline is largely donor-built. Korean cooperation funded [the ISEP technical college at Diamniadio, with ICT laboratory equipment, faculty training and curriculum development for vocational ICT education](https://www.oda.go.kr/opo/bsin/bsnsSumryDocDetail.do?P_BSNS_NO=2016-00026), and later [a start-up incubation centre and makerspace on the same campus](https://www.dakaractu.com/Developpement-du-numerique-la-KOICA-forme-et-recompense-les-startups-senegalaises_a256475.html); digital skills are one of the four components of [the World Bank's Senegal Digital Economy Acceleration Project, running 2023–2028](https://projects.worldbank.org/en/projects-operations/project-detail/P172524), and an enabler in [the Mastercard Foundation's youth employment commitment to 2030](https://mastercardfdn.org/en/news/mastercard-foundation-to-enable-three-million-youth-to-access-employment-opportunities-in-senegal/).
 
-Teachers who have used the tools want them: an AI and digital-skills pilot for teaching staff at Mont-Rolland is cited by the literacy coalition as showing real appetite, [limited by equipment, connection quality and the absence of pedagogical content adapted to local realities](https://lesoleil.sn/actualites/education/sileye-gorbal-sy-le-telephone-portable-peut-democratiser-lacces-au-savoir/) (August 2026). At the other end of the pipeline, [a deficit of AI skills is named as one of three obstacles to Senegal making AI rules at all](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html). [A digital training plan for state employees was validated at a national workshop on 10 September 2026](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique).
+Teachers who have used the tools want them: an AI and digital-skills pilot for teaching staff at Mont-Rolland is cited by the literacy coalition as showing real appetite, [limited by equipment, connection quality and the absence of pedagogical content adapted to local realities](https://lesoleil.sn/actualites/education/sileye-gorbal-sy-le-telephone-portable-peut-democratiser-lacces-au-savoir/) (August 2026). At the other end of the pipeline, [a deficit of AI skills is named as one of three obstacles to Senegal making AI rules at all](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html). [A digital training plan for state employees validated on 10 September 2026 aims to reach all 183,502 state agents by 2029, after a survey of 1,878 agents put 57% at beginner level](https://www.force-n.sn/articles/le-senegal-adopte-son-plan-de-formation-numerique-des-agents-de-letat).
 
 ### Research institutions
 <!-- capacity.research -->
