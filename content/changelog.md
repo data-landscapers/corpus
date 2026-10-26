@@ -1,3 +1,8 @@
+## 26 October 2026
+
+- Guinea's 2026 budget is now in the tables, read line by line from the finance bill as tabled in March 2026: 113 lines, GNF 357.3bn whole and 105.8bn partly digital, among them the tax information system (30bn), school connectivity (35bn) and the statistics institute (39.9bn). The figures are the bill's, since the enacted law is held without its line detail.
+- Cameroon's 2025 postal-sector fund now counts only its regulation platform, XAF 36m, in place of the whole fund's 900m at half. The fund's activity table shows no other digital spending.
+
 ## 25 October 2026
 
 - The central bank governance indicator's top stage now needs the country live on PAPSS, its banks sending and receiving payments; a regional payment system, or joining PAPSS, no longer counts. Nineteen countries fall from 5 to 4 and Uganda to unplaced; seven hold 5.

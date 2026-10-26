@@ -265,17 +265,17 @@ GHA,land-registry,found,partial,7,gha-2024-011-01109-01109001,Lands Commission,r
 GHA,social-registry,absent,,,,Ministry of Gender Children and Social Protection,hand,"FY2024 to FY2026: the gender ministry's PBB volumes print the Department of Social Protection as one cost centre (03204) and Social Protection as one sub-programme (03204003, table 1.5), and no line for the Ghana National Household Registry; read 2026-10-02",2026-10-02
 GHA,population-register,absent,,,,,hand,"FY2026: the Births and Deaths Registry's narrative names a Community Population Register Programme, but table 1.6 prints the Registry as one cost centre, held under civil registration, and the identity authority's register is inside its own held rows. No line prints a population register. PBB 2026, local government ministry volume; PBB 2026, interior ministry volume.",2026-10-03
 GHA,data-exchange,absent,,,,,hand,"FY2025 and FY2026: the communications ministry's PBB volumes name the e-government interoperability framework in narrative and in the information technology agency's operations, inside the agency's sub-programme held under the ICT function. No cost centre or line prints a data exchange. Keyword scan of every parsed volume's cost-centre table for both years.",2026-10-03
-GIN,statistics,found,whole,4,gin-2024-08-230631000000-4-2-3-99-00,Institut national de la statistique,rows,,
-GIN,civil-registration-id,found,whole,7,gin-2024-02-211150000000-2-1-1-14-02-cp,,rows,,
+GIN,statistics,found,whole,8,gin-2024-08-230631000000-4-2-3-99-00,Institut national de la statistique,rows,,
+GIN,civil-registration-id,found,whole,9,gin-2024-02-211150000000-2-1-1-14-02-cp,,rows,,
 GIN,communications-regulator,absent,,,,Autorité de régulation des postes et télécommunications,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: the regulator (ARPT) appears only as a payer of the state's share of fees,2026-10-02
-GIN,ict-ministry-egov,found,whole,75,gin-2024-37-151171000000-3-1-2-10-00,Agence nationale de digitalisation de l'État; Portail officiel e-Gouv (zone gov.gn),rows,,
-GIN,cybersecurity,found,whole,3,gin-2024-05-232481000000-4-2-3-99-00,Agence nationale de la sécurité des systèmes d'information,rows,,
+GIN,ict-ministry-egov,found,whole,109,gin-2024-37-151171000000-3-1-2-10-00,Agence nationale de digitalisation de l'État; Portail officiel e-Gouv (zone gov.gn),rows,,
+GIN,cybersecurity,found,whole,5,gin-2024-05-232481000000-4-2-3-99-00,Agence nationale de la sécurité des systèmes d'information,rows,,
 GIN,data-protection,absent,,,,,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names data protection,2026-10-02
-GIN,revenue-systems,found,whole,2,gin-2024-64-150151000000-5-1-2-12-00,Direction générale des impôts,rows,,
+GIN,revenue-systems,found,whole,3,gin-2024-64-150151000000-5-1-2-12-00,Direction générale des impôts,rows,,
 GIN,treasury-fmis,absent,,,,Ministère de l'Économie et des Finances; Ministère du Budget,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names a financial management system,2026-10-02
 GIN,procurement,found,whole,4,gin-2024-09-265471000000-3-3-6-10-00,Autorité de régulation des marchés publics,rows,,
 GIN,electoral-register,absent,,,,Direction générale des élections,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names the electoral file,2026-10-02
-GIN,land-registry,found,whole,3,gin-2024-15-264141000000-5-1-2-12-00-cp,"Ministère de l'Urbanisme, de l'Habitat et de l'Aménagement du territoire",rows,,
+GIN,land-registry,found,whole,6,gin-2024-15-264141000000-5-1-2-12-00-cp,"Ministère de l'Urbanisme, de l'Habitat et de l'Aménagement du territoire",rows,,
 GIN,social-registry,absent,,,,Agence nationale d'inclusion économique et sociale,hand,"keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: the one line naming the unified social registry (265791010000, 1.04bn in 2024, nil in 2025) is the construction of its headquarters, a building line; the inclusion agency that runs it is a mixed-mandate body",2026-10-02
 GIN,population-register,absent,,,,,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names a population register,2026-10-02
 GIN,data-exchange,absent,,,,,hand,keyword scan of the finance laws and revised laws for 2024 and 2025 and the sprint's parse of every service line: no service names a data exchange,2026-10-02
