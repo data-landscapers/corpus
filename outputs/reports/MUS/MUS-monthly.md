@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: MUS
-ledger_rows: 30
+ledger_rows: 32
 not_held: 7
-record: 4430ec502845
+record: 804aeee9752e
 ---
 
 # News, Sep – Oct 2026
@@ -22,6 +22,8 @@ record: 4430ec502845
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -563,6 +565,46 @@ Mauritius' junior finance minister Dhaneshwar Damry told the 16th GOPIO internat
 **[Le fonds AfricInvest investit dans la société mauricienne Spoon Consulting](https://www.wearetech.africa/fr/fils/breves/breves-simple/le-fonds-africinvest-investit-dans-la-societe-mauricienne-spoon-consulting)** — wearetech.africa, 7 September 2026
 
 A pan-African investment fund took a minority stake in a Mauritian digital transformation firm, with no sum disclosed.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Laptops and assistive equipment for blind and visually impaired learners</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Highlights of Cabinet Meeting - Friday 23 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20%20Friday%20%2023%20October%202026.pdf)** — Office of the Prime Minister, Mauritius, 23 October 2026
+
+MDPA branch for Rodrigues after 500 onboarded on MauPass and KOREK!; laptops for blind learners; CERT-MU PHP advisory.
+
+</div>
+
+</div>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rodrigues in the national digital strategy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Highlights of Cabinet Meeting - Friday 23 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20%20Friday%20%2023%20October%202026.pdf)** — Office of the Prime Minister, Mauritius, 23 October 2026
+
+Summarised under [Access to services](#access-to-services).
 
 </div>
 
