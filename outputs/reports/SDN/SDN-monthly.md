@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: SDN
 ledger_rows: 34
 not_held: 5
-record: 3225b9869a07
+record: be78dc486597
 ---
 
 # News, Sep – Oct 2026
@@ -58,13 +58,37 @@ An analysis of the Central Bank of Sudan's 2026–2030 strategic plan, published
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Proposed amendment of Criminal Code article 51 to cover electronic publishing</p>
+<p class="monthly-story__name">Amendment of the Criminal Act 1991 to cover electronic publishing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بينها النفط والشائعات.. تفاصيل مرسوم تعديلات 6 قوانين رئيسية](https://sudaray.com/171961)** — Sudaray, 21 October 2026
+
+Gazette supplement to Issue 1982, 19 Oct 2026: Provisional Decree 7 amends six laws incl. the 1991 Criminal Act.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
 **[Sudan press syndicate rejects criminal code amendment](https://sudantribune.com/article/320352)** — Sudan Tribune, 23 October 2026
 
 Sudan's journalists' syndicate and rights groups oppose a justice ministry amendment adding publishing in media and on electronic platforms to Article 51 of the 1991 Criminal Code, on waging war against the state, which carries penalties up to death. They also reject a planned national cybercrime mechanism with powers to monitor media and social platforms; the minister defended both.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudanese Journalists Syndicate Rejects Criminal Law Amendment and Cybercrime Mechanism](https://en.sudannow.net/sudanese-journalists-syndicate-rejects-criminal-law-amendment-and-cybercrime-mechanism/)** — Sudan Now, 23 October 2026
+
+Names Temporary Decree No. 7 of 2026 as the amendment's vehicle; mechanism formed 19 October may monitor media.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Journalists, politicians face death penalty under Sudan legal amendment, activists warn](https://www.newarab.com/news/sudan-legal-amendment-puts-journalists-risk-death-penalty)** — The New Arab, 24 October 2026
+
+Burhan's temporary decree, gazetted in a special supplement, extends Article 51 to electronic and media publishing.
 
 </div>
 
