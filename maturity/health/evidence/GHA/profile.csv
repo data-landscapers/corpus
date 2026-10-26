@@ -2,8 +2,8 @@ iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GHA,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2023-12,GHA-034;GHA-035;GHA-043,GHA-021=plan:current;GHA-040=owner:ministry;GHA-041=finance:donor;GHA-027=finance:donor;GHA-028=plan:none,
 GHA,hmis,tiers,coverage,T4,2024-03,GHA-008,,
 GHA,hmis,digitised,coverage,facility,2024-03,GHA-009;GHA-026;GHA-036;GHA-042,GHA-010=district;GHA-022=district,
-GHA,hmis,last12,qualifier,regressing,2023-12,GHA-037,,nothing dated since 2025-10-18
-GHA,hmis,clinics,coverage,none,2017,GHA-023,,nothing dated since 2023-10-18
+GHA,hmis,last12,qualifier,regressing,2023-12,GHA-037,,nothing dated since 2025-10-26
+GHA,hmis,clinics,coverage,none,2017,GHA-023,,nothing dated since 2023-10-26
 GHA,emr,governance,qualifier,owner:vendor;plan:current;finance:domestic,2026-09,GHA-004;GHA-029;GHA-039,GHA-012=owner:vendor;GHA-016=owner:ministry;GHA-019=owner:ministry;GHA-020=owner:vendor;GHA-015=owner:vendor;GHA-038=owner:ministry,
 GHA,emr,tiers,coverage,T1;T2,2024-12,GHA-031;GHA-044,,
 GHA,emr,digitised,coverage,shared,2024-10-31,GHA-032,GHA-003=point-of-care;GHA-024=paper,

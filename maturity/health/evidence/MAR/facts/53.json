@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-mar-bill-52-26-digitizing-healthcare-but-why",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "An analyst's opinion piece of 22 October 2026 says Morocco's Bill 52-26 would make a shared medical record mandatory for facilities and professionals, with health identifiers and interconnected systems, and calls for a National Agency for the Digitization of the Healthcare System; the piece does not establish that the bill is adopted.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Bill 52-26 shared medical record",
+   "class": "emr"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

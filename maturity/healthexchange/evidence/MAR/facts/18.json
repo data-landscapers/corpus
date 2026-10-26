@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-mar-bill-52-26-digitizing-healthcare-but-why",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "An analyst's piece of 22 October 2026 says Bill 52-26 provides for a shared medical record, health identifiers and interoperability between health systems, and that the electronic treatment form being rolled out with the CNSS is to be integrated with the shared medical record.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Bill 52-26 shared medical record",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

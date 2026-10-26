@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "no evidence",
-   "exchange": "",
-   "breadth": "",
-   "identifier": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names health systems exchanging data, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "breadth": "",
+      "identifier": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001",
+      "gaps": "No source held names two health systems exchanging data in routine use; Bill 52-26 and the integration of the electronic treatment form with the shared medical record are being prepared, not in service.",
+      "note": "A shared medical record with interoperability is being set up under Bill 52-26 and the electronic treatment form is to be integrated with it: stage 2. Stage 3 needs two systems exchanging data in routine use, and none is held.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

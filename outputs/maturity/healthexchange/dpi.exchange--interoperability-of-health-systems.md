@@ -23,10 +23,10 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 | 5 Leading | 1 |
 | 4 Operating | 4 |
 | 3 Established | 18 |
-| 2 Nascent | 19 |
+| 2 Nascent | 20 |
 | 1 Absent | 2 |
 | Unplaced | 0 |
-| No evidence | 10 |
+| No evidence | 9 |
 
 ## Countries
 
@@ -270,6 +270,12 @@ An exchange between health systems was under way in 2024; none in service is on 
 
 - UNDP says Mauritius launched the Rs 600 million two-phase 'One Patient, One Record' e-health project on 27 January 2024, with emphasis on health information exchange systems among providers, first results due at Jawaharlal Nehru Hospital from August 2024 ([source, 2024-01-27](https://www.undp.org/mauritius-seychelles/news/undp-supports-launch-one-patient-one-record-ehealth-project-enhanced-public-healthcare)).
 
+### Morocco: 2 Nascent
+
+A law and a shared patient record linking health systems were being prepared in 2026; systems exchanging data in routine use are not known.
+
+- An analyst's piece of 22 October 2026 says Bill 52-26 provides for a shared medical record, health identifiers and interoperability between health systems, and that the electronic treatment form being rolled out with the CNSS is to be integrated with the shared medical record ([source, 2026-10-22](https://telquel.ma/2026/10/22/bill-52-26-digitizing-healthcare-but-why_2010995)).
+
 ### Sao Tome and Principe: 2 Nascent
 
 An exchange between health systems was under way in 2025; none in service is on record.
@@ -345,12 +351,6 @@ Nothing held names health systems exchanging data or says there is none, so no s
 Not established: Nothing held names health systems exchanging data, or says there is none.
 
 ### Liberia: No evidence
-
-Nothing held names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing held names health systems exchanging data, or says there is none.
-
-### Morocco: No evidence
 
 Nothing held names health systems exchanging data or says there is none, so no stage is set.
 
