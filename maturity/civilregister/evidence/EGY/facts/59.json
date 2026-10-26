@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-21-egy-cairo24-mohp-births-deaths-fully-automated",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The health ministry spokesman says the births and deaths system is now fully computerised and health offices register births and deaths electronically, dropping paper registration, linked centrally to the ministry across the governorates.",
+   "as_of": "2024-01-21",
+   "date_precision": "day",
+   "system": "Births and deaths system of the health offices",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The health ministry spokesman says health offices can now register and issue death certificates electronically.",
+   "as_of": "2024-01-21",
+   "date_precision": "day",
+   "system": "Births and deaths system of the health offices",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Births and deaths system of the health offices",
+   "country_label": "Egypt",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Health and Population",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

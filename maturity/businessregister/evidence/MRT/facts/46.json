@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "A Ministry of Digital Transformation official lists the digitisation of company-creation procedures and investment-licence applications through the APIM platform among the department's achieved projects.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "APIM platform",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APIM platform",
+   "country_label": "Mauritania",
+   "class": "business",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Administration Modernisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
