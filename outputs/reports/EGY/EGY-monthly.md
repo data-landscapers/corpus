@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: EGY
-ledger_rows: 102
+ledger_rows: 103
 not_held: 41
-record: a1cdc7cbe1ed
+record: ba5d877823e3
 ---
 
 # News, Sep – Oct 2026
@@ -97,6 +97,14 @@ Egypt's communications minister Raafat Hendy put the Digital Egypt platform at a
 **[وزير الاتصالات يبحث مع لجنة صناعة الاتصالات تعزيز التصنيع المحلي وتطوير مراكز البيانات](https://gate.ahram.org.eg/News/5938370.aspx)** — Ahram Gate (Al-Ahram), 3 October 2026
 
 Egypt's communications minister, Raafat Hendy, met the regulator NTRA's reconstituted Telecom Industry Committee, which recommended expanding local manufacture of telecoms equipment and studying data-centre and cloud development. Hendy said Digital Egypt offers about 250 services, with 270 targeted by end-2026. NTRA said the biometric digital identity system is in trial with the four mobile operators.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt Forum 2026 outlines sweeping development agenda to raise living standards, boost growth](https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living)** — EgyptToday, 24 October 2026
+
+Directives to 2030; Digital Egypt 250 to 500 services by end-2026; base fixed-internet packages doubled to 100 GB.
 
 </div>
 
@@ -1573,6 +1581,20 @@ Under Egypt's agreement with Intel, the training covers basic AI concepts and sa
 **[Egypt, Intel to train 1 million citizens annually in AI under three-year deal](https://english.ahram.org.eg/News/576790.aspx)** — Ahram Online, 16 September 2026
 
 Egypt's communications ministry signed a three-year memorandum with Intel on 16 September 2026 to train one million citizens a year in AI online and certify 500 trainers a year, in support of the national AI strategy for 2025-2030.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Abtal Al Internet online-safety curriculum in schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+USD 2.4m Google.org grant to INJAZ Al-Arab; Abtal Al Internet in nine MENA countries, 2.3m students over four years.
 
 </div>
 
