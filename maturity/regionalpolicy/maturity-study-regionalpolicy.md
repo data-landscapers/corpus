@@ -61,6 +61,7 @@ Asked in order. Each is answered with a date and a link.
 - **A body created by signature, its statutes and work programme still to be adopted, is not yet a joint body set up** *(added in the run, for the Council of Sahel Regulators)*. A joint commission that has met is.
 - **Projects agreed by a joint body are a statement of intent, not a decision in use** *(added in the run, for Algeria and Tunisia)*.
 - **A body of countries that share a language is `other`** *(added in the run)*, as the Francophonie is.
+- **A statistics body is not digital policy** *(Bill, 2026-10-26)*.
 - **What an agreement covers is taken from what a source says of it**, never from reading its text for the purpose.
 
 `study.json` holds this as two aspects: `part` (`active`, `member`, `none`) for questions 1 and 2, and `effect` (`in-use`, `in-effect`, `none`) for 3 and 4.
