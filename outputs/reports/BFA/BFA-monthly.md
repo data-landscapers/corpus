@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: BFA
-ledger_rows: 48
+ledger_rows: 52
 not_held: 7
-record: 1ce43d4f3a57
+record: 725f670fce9c
 ---
 
 # News, Sep – Oct 2026
@@ -300,6 +300,20 @@ Burkina Faso's central cybercrime brigade recorded 6,477 complaints and FCFA 2.2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National network of information-security officers and cyber focal points</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina/Sécurité numérique : L'Agence nationale de sécurité des systèmes d'information a lancé officiellement le Réseau national des RSSI et points focaux cyber](https://lefaso.net/spip.php?article150183=)** — LeFaso.net, 23 October 2026
+
+ANSSI launches national RSSI and cyber focal-point network, 23 Oct 2026; ministries told to name security officers.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -487,6 +501,20 @@ Insurer SONAR Assurance and Orange Money Burkina Faso signed a partnership in Ou
 **[Orange Burkina Faso lance la nouvelle version de son application « Max It »](https://burkina24.com/2026/09/21/orange-burkina-faso-lance-la-nouvelle-version-de-son-application-max-it/)** — Burkina24, 21 September 2026
 
 Orange Burkina Faso relaunched its Max It app on 18 September 2026 with a promotional caravan through four cities. The new version adds messaging and TV to mobile money, calls and SMS, and is open to customers of other networks. It links to almost all the country's banks for transfers to wallets, and takes water and electricity bills and public charges such as the vehicle tax.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial-services quality observatory (OQSF-BF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection des consommateurs : « La saisine de l'Observatoire de la qualité des services financiers est totalement gratuite », Sahouba Kabré](https://lefaso.net/spip.php?article149951=)** — leFaso.net, 13 October 2026
+
+Free financial mediator: 220+ cases since 2022, ~92% settled amicably; e-money disputes in scope; 5,000 to reach.
 
 </div>
 
@@ -783,6 +811,34 @@ Burkina Faso's national digital event returns for a second edition from 17 to 24
 **[Le Faso Digital 2026 : 201 solutions innovantes pour bâtir la souveraineté et l’inclusion numérique au Burkina Faso](https://digitalmagazine.bf/2026/10/18/le-faso-digital-2026-201-solutions-innovantes-pour-batir-la-souverainete-et-linclusion-numerique-au-burkina-faso/)** — Digital Magazine BF, 18 October 2026
 
 Burkina Faso's virtual Faso Digital 2026 fair opened on 17 October 2026 with 201 solutions, selected from 208 entries in its innovation competition. Rwanda is guest of honour, according to Digital Magazine BF.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital startup support fund</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : vers la création d'un fonds de soutien aux startups numériques ?](https://digitalmagazine.bf/2026/10/25/burkina-faso-vers-la-creation-dun-fonds-de-soutien-aux-startups-numeriques/)** — Digital Magazine Burkina, 25 October 2026
+
+Ministry consults ecosystem 21 Oct 2026 on Ouagadougou ICT mini-technopole and startup fund; terms undefined.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ouagadougou ICT mini-technopole</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Burkina Faso : vers la création d'un fonds de soutien aux startups numériques ?](https://digitalmagazine.bf/2026/10/25/burkina-faso-vers-la-creation-dun-fonds-de-soutien-aux-startups-numeriques/)** — Digital Magazine Burkina, 25 October 2026
+
+Summarised under [Innovation ecosystem](#innovation-ecosystem).
 
 </div>
 

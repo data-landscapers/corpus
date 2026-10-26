@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: SWZ
 ledger_rows: 43
 not_held: 3
-record: e60435cba389
+record: 95f74834ca90
 ---
 
 # News, Sep – Oct 2026
@@ -235,6 +235,14 @@ Eswatini's Royal Science and Technology Park confirmed that an incident at the N
 **[INTERPOL roped in on RSTP incident](https://times.co.sz/44945/news/interpol-roped-in-on-rstp-incident/)** — Times of Eswatini, 28 September 2026
 
 Eswatini's police have engaged INTERPOL over the incident at the National Data Centre and will investigate once a consultant hired by the science park and the ICT ministry reports. Unnamed sources suspect a third-party client gave attackers a way in; preliminary findings point to corrupted files and no data stolen.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
+
+Ministry statement 23 Oct 2026; GIYH, e-Visa, Social Registry, IFMIS back; cause of outage not stated.
 
 </div>
 
@@ -504,6 +512,14 @@ An outage of Eswatini government digital services has stopped new loans to civil
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
+
+Summarised under [Data Storage](#data-storage).
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -564,6 +580,14 @@ Summarised under [Data Storage](#data-storage).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
+
+Summarised under [Data Storage](#data-storage).
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -587,6 +611,14 @@ Summarised under [Data Storage](#data-storage).
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[National Data Centre hit by 'incident'](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/)** — Times of Eswatini, 24 September 2026
+
+Summarised under [Data Storage](#data-storage).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
 
 Summarised under [Data Storage](#data-storage).
 

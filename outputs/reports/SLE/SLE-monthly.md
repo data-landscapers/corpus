@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: SLE
-ledger_rows: 38
+ledger_rows: 39
 not_held: 4
-record: ad8426cd4dcf
+record: 869eb74b16c7
 ---
 
 # News, Sep – Oct 2026
@@ -604,6 +604,14 @@ Sierra Leone's Ministry of Communication, Technology and Innovation is training 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[MoCTI Certifies First Cohort of Civil Service Digital Skills Programme](https://sierraloaded.sl/news/mocti-first-cohort-civil-serv-dig-training/)** — Sierraloaded, 28 September 2026
+
+Three-week first cohort certified after Google Workspace capstones; next cohort from 9 October 2026.
+
+</div>
+
 </div>
 
 ### Research institutions
@@ -653,6 +661,20 @@ The Global Development Network has begun fieldwork on a five-country DPI Inclusi
 **[NCRA Marks International Identity Day with Registration Drive for 100 Inmates](https://thecalabashnewspaper.com/archives/64446)** — The Calabash Newspaper, 18 September 2026
 
 Sierra Leone's National Civil Registration Authority registered 100 inmates from three Freetown correctional centres for National Identification Numbers on 17 September 2026, International Identity Day. The inmates will receive ID cards free, with the government meeting the cost. The Correctional Service said the exercise builds on inmate biometric registration pilots in 2018 and 2020.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Leh Wi Tok communication app for speech and hearing-impaired people</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DSTI and Social Welfare Validate New App for Speech and Hearing-Impaired in Sierra Leone](https://www.sierraleonepress.com/dsti-and-social-welfare-validate-new-app-for-speech-and-hearing-impaired-in-sierra-leone/)** — Sierra Leone Press, 22 October 2026
+
+UNICEF-sponsored sign-language app; phase one for pupils on ASL content; minister to seek cabinet approval.
 
 </div>
 
