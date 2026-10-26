@@ -6,7 +6,7 @@
 
 **Owned in the country.** Nationally owned: [Nouakchott National Data Centre](<https://ami.mr/fr/archives/270548>) (Government of Mauritania); [Nouakchott national data centre](<https://www.trade.gov/country-commercial-guides/mauritania-digital-economy>) (Government of Mauritania). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
 
-**The state's data hosted nationally.** Nothing held says the government hosts its own data beside [the national data centres](<https://www.trade.gov/country-commercial-guides/mauritania-digital-economy>).
+**The state's data hosted nationally.** [In July 2026 the minister said all government servers had been moved into the data centre the ministry created](<https://www.ami.mr/archives/263232>).
 
 ***Noted, not assessed***. None held.
 

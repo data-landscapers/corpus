@@ -13,7 +13,7 @@ COM,2,service,,COM-001
 CPV,3,tier3,,CPV-002
 DJI,3,tier3,,DJI-011
 DZA,3,tier3,,DZA-016
-EGY,4,two,,EGY-002;EGY-006
+EGY,5,two,hosted,EGY-002;EGY-006;EGY-027
 ERI,2,service,,ERI-001
 ETH,3,tier3,,ETH-004
 GAB,unplaced,,,

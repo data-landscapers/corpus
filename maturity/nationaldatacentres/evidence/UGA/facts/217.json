@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-02-uga-familiarisation-visit-highlights-nita-u-s-digital-progress",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "NITA-U says its National Data Centre and Disaster Recovery Centre host more than 308 government applications serving over 100 ministries, departments and agencies.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "National Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

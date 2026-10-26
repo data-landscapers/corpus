@@ -9,3 +9,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,SOM,infra.store--local-data-centre-capacity-national-providers,fact,no evidence,2,SOM-001,Arrivals added SOM-001; SOM-002; stage no evidence -> 2.
 2026-10-18,DJI,infra.store--local-data-centre-capacity-national-providers,fact,3,3,DJI-011,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,EGY,infra.store--local-data-centre-capacity-national-providers,fact,4,4,EGY-002;EGY-006,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-10-26,EGY,infra.store--local-data-centre-capacity-national-providers,fact,4,5,EGY-002;EGY-006;EGY-027,"Egypt Today, April 2024: the state-built Government Data and Cloud Computing Center serves 50,000 public employees; the state's data is hosted with a national provider, so 4 to 5."

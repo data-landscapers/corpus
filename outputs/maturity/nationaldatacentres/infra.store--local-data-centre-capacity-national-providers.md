@@ -20,8 +20,8 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 4 |
+| 5 Leading | 6 |
+| 4 Operating | 3 |
 | 3 Established | 20 |
 | 2 Nascent | 15 |
 | 1 Absent | 0 |
@@ -37,6 +37,14 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - Business in Cameroon states that CAMTEL already operates a Tier III-certified data center in Zamengoe, near Yaounde, as of the article; the certifying body is not named and the article does not say whether it sells to outside customers ([source, 2026-09](https://www.businessincameroon.com/public-management/0709-16693-us-firm-cybastion-plans-75-million-ai-data-center-and-power-plant-in-douala)).
 - ST DIGITAL states its data centres, including those deployed in Cameroon, are Tier 3 / TIA-942 constructed; the operator's own statement, no Uptime Institute certificate cited and no Cameroonian site named; the post date is used as no other date is given ([source, 2026-03-03](https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526)).
 - CAMTEL said at the SAGO conference of 9 June 2026 that its Zamengoe Data Centre is a critical national asset ensuring the security, continuity and local control of government data; the document does not list the specific systems hosted ([source, 2026-06-09](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde)).
+
+### Egypt: 5 Leading
+
+Two nationally owned data centres for hire at Tier III or above by 2026, and the state's data hosted in a state-built centre since 2024.
+
+- Fintech Gate reports Telecom Egypt's RDH1, in service since 2021, holds several Tier III certificates (issuer and date not given; the article's date 2026-08-28 is used) ([source, 2026-08-28](https://www.fintechgate.net/250173)).
+- Telecom Egypt's brochure states the RDH data center at Smart Village holds Tier III certification of design, facility and operation from the Uptime Institute (certification date not given; as_of is the brochure's date) ([source, 2025-01-10](https://te.eg/interactivemap/assets/downloads/Telecom_Egypt_The_Digital_Hub.pdf)).
+- The report says services of the Government Data and Cloud Computing Center are used by 50,000 public employees and that ministries, which each ran their own servers, are to be served by it ([source, 2024-04-28](https://www.egypttoday.com/Article/1/131883/President-Sisi-inaugurates-Egypt-s-1st-Government-Data-and-Cloud)).
 
 ### Kenya: 5 Leading
 
@@ -69,13 +77,6 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - The partners describe Digital Parks Africa, a South African open-access carrier-neutral data centre, as a Tier-3+ rated colocation facility hosting the AI cloud they say they launched (rating stated by the partners, no certifying body named; as_of is the article date as none is given) ([source, 2026-09-11](https://datacentresafrica.com/stratos-lab-ecoblox-and-digital-parks-africa-partner-to-launch-powerful-african-ai-cloud/)).
 - BCX states its two operating Midrand data centres were developed to tier-4 specifications as rated by the Uptime Institute; this is a design specification stated by the operator, with no certification mentioned ([source, 2010-12-14](https://techcentral.co.za/bcx-puts-its-head-in-the-cloud/183285/)).
 - The DCDT states SITA, the State IT Agency, operates the Centurion data centre (primary of two national facilities) hosting mission-critical systems and sensitive government data; both are National Key Points ([source, 2026-02-24](http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf)).
-
-### Egypt: 4 Operating
-
-Two nationally owned data centres for hire at Tier III or above by 2026; state hosting with them not known.
-
-- Fintech Gate reports Telecom Egypt's RDH1, in service since 2021, holds several Tier III certificates (issuer and date not given; the article's date 2026-08-28 is used) ([source, 2026-08-28](https://www.fintechgate.net/250173)).
-- Telecom Egypt's brochure states the RDH data center at Smart Village holds Tier III certification of design, facility and operation from the Uptime Institute (certification date not given; as_of is the brochure's date) ([source, 2025-01-10](https://te.eg/interactivemap/assets/downloads/Telecom_Egypt_The_Digital_Hub.pdf)).
 
 ### Morocco: 4 Operating
 

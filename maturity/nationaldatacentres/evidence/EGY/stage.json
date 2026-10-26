@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "national",
-      "stage": "4",
+      "stage": "5",
       "centre": "two",
       "owner": "national",
-      "state": "",
+      "state": "hosted",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-002;EGY-006",
-      "gaps": "No source held says the government hosts its own data in a nationally owned data centre in the country.",
+      "stage_sources": "EGY-002;EGY-006;EGY-027",
+      "gaps": "",
       "note": "Counted from the four questions by study-ladder-nationaldatacentres.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-10-26"
     }
   ]
 }

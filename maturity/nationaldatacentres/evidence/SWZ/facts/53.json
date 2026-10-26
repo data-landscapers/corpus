@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-13-swz-minister-getting-threats",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The Royal Science and Technology Park, a parastatal, runs the data centre the ICT Minister described, which she said it aims to make Tier III and a source of revenue from storing data.",
+   "as_of": "2025-04-13",
+   "date_precision": "day",
+   "system": "RSTP data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RSTP data centre",
+   "country_label": "Royal Science and Technology Park data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Royal Science and Technology Park (parastatal)",
+   "tiers": ""
+  }
+ ],
+ "note": "The RSTP Act 2023 requires government departments to use RSTP for ICT needs, but hosting of state data in the data centre is not stated."
+}

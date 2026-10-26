@@ -240,6 +240,7 @@ DZA,National Data Centre of ESI-Alger,DZA,other,,"Ecole nationale supérieure d'
 DZA,"AI high-performance computing center, Oran",DZA,other,,State (Ministry of Post and Telecommunications laid foundation stone),,2025-03-17-ai-supercomputing-center-oran--wearetech
 DZA,Deuxième Centre national des données (Blida),DZA,other,,Haut-Commissariat à la numérisation (state),,2025-03-07-hcn-coup-envoi-installation-deuxieme-centre-national-donnees-blida
 DZA,Centre national des services numériques,Algérie,datacentre,"sovereign cloud, Algiers (Mohammadia) mirrored with Blida",state,Tier III Design,2026-07-07-dza-jeune-independant-centre-national-services-numeriques
+DZA,National Digital Services Center,"National Digital Services Center (Mohammadia, Algiers and Blida, active-active)",datacentre,cloud,State,"Uptime Institute accredited, tier not stated",2026-07-14-dza-elmassar-national-digital-services-portal-21-services
 EGY,Telecom Egypt Regional Data Hub (RDH1),RDH1,datacentre,,Telecom Egypt,,2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Hub (RDH2),RDH2,other,,Telecom Egypt,"Uptime Tier III design certificate, Nov 2024; not yet in service",2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Center Hub (RDH),RDH,datacentre,,Telecom Egypt,,2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale
@@ -267,6 +268,7 @@ EGY,GPX first Cairo data center,,datacentre,,GPX Global Systems,,2015-12-16-dcd-
 EGY,Vodafone Egypt-Cassava AI factory,Egypt's first AI factory,datacentre,NVIDIA GPU-as-a-Service,Vodafone Egypt and Cassava Technologies,,2026-09-12-iafrica-vodafone-egypt-cassava-ai-factory
 EGY,Hassan Allam and A15 data centre,,other,,Hassan Allam; A15,"licensed June 2026, USD 400 million, not stated in service",2026-09-12-iafrica-vodafone-egypt-cassava-ai-factory
 EGY,MEIX,Middle East/North Africa Internet eXchange,datacentre,,"GPX Global Systems, Inc.",,2007-07-21-gpx-global-systems-inc-launches-neutral-middle-east-internet-exchange-meix-in-ca
+EGY,Government Data and Cloud Computing Center,Government Data and Cloud Computing Center,datacentre,,Government of Egypt (MCIT),,2024-04-28-egy-president-sisi-inaugurates-egypt-s-1st-government-data-and-cloud-compu
 ERI,Eritel Datacenters,Eritel's Datacenters,datacentre,,Eritel Telecom Corporation,,2026-08-31-eritel-private-cloud-services
 ERI,Eritel Nextcloud,Eritel Private Cloud Services,other,Nextcloud,Eritel Telecom Corporation,Platinum; Gold; Silver,2026-08-31-eritel-private-cloud-services
 ETH,RFETH-MDC01,RFETH-MDC01,datacentre,,Redfox Solutions,,2022-09-20-dcd-safaricom-ethiopia-ict-park-data-center-redfox-live
@@ -298,6 +300,7 @@ ETH,Wingu Africa ICT Park data centre,Ethiopia,datacentre,,Wingu Africa,Tier III
 ETH,Telecloud,ETH,datacentre,cloud hosting,Ethio Telecom (operator; ownership not stated),,2026-05-19-eth-cioafrica-national-cloud-18-24-months
 ETH,National Cloud,ETH,other,"planned, 18-24 months out per the Prime Minister",Government of Ethiopia,,2026-05-19-eth-cioafrica-national-cloud-18-24-months
 ETH,Raxio ET1,Raxio Ethiopia ET1,datacentre,,Raxio Group,Tier III,2025-04-01-eth-raxio-et1-data-sheet-technical-specifications
+ETH,Telecloud,Ethiopia,datacentre,"192 racks, 8,064 servers",Ethio Telecom (state-owned),,2025-10-09-eth-us-based-cisco-eyes-ethiopia-market-warns-cloud-rules-limit-access
 GAB,"ST Digital Gabon data centre, Nkok",Data Center national et souverain,datacentre,,ST Digital Gabon,,2026-07-08-gabon-sovereign-datacenter-technical-spec
 GAB,Gabon sovereign data centre,GAB,datacentre,,,Tier III,2026-07-08-gabon-sovereign-datacenter-technical-spec
 GAB,ST Digital Nkok data center,"first national data center, Nkok",datacentre,,ST Digital,Tier III,2026-07-07-gabon-datacenter-inauguration-figures
@@ -450,6 +453,7 @@ KEN,sovereign cloud (unnamed),KEN,other,,described as owned and managed by the c
 KEN,KONZA data center,KEN,datacentre,Huawei Cloud Stack,KONZA (Konza Technopolis); ownership not stated beyond the name,Tier III (stated by Huawei Cloud),2025-07-24-huawei-cloud-konza-cloud-stack-case
 KEN,Konza National Data Centre,Kenya,datacentre,Konza Cloud Platform; colocation and managed hosting,Government of Kenya (government data centre; contracting authority KoTDA),Uptime Institute Tier III Design and Construction,2026-04-13-konza-cloud-expansion-transaction-advisory-addendum-iii
 KEN,Konza Cloud expansion (PPP),Kenya,other,"planned expansion to about 280-300 racks, 1-2 MW",KoTDA (contracting authority); private partner to be procured,,2026-04-13-konza-cloud-expansion-transaction-advisory-addendum-iii
+KEN,Konza Technopolis Tier 3 cloud data centre,Konza Technopolis cloud data centre,datacentre,cloud,not stated,Tier 3,2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit
 LBR,LIBTELCO data centre,LIBTELCO data centre,datacentre,,LIBTELCO,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
 LBR,CBL data centre (Virginia),,other,,Central Bank of Liberia,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
 LBR,NASSCorp data centre,,other,,NASSCorp,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
@@ -534,6 +538,8 @@ MRT,Nouakchott Data Centre,Centre de Données de Nouakchott,datacentre,,,Tier II
 MRT,Nouakchott national data centre,,datacentre,,Government of Mauritania,,2026-02-10-digital-economy-country-commercial-guide-tradegov
 MRT,Nouakchott Data Hub,,datacentre,,International Mauritania Telecom (IMT),Tier III,2025-07-30-dcd-ellalink-contract-mauritania-nouadhibou-branch
 MRT,Datacenter National Tier3,Datacenter National,other,,State,Tier III,2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie
+MRT,Nouakchott Data Center,Mauritania,datacentre,,state (national),Tier III,2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak
+MRT,Government data centre (Ministry of Digital Transformation),Mauritania,datacentre,hyperconverged infrastructure,Ministry of Digital Transformation and Modernisation of Administration,,2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly
 MUS,Mauritius Telecom Rose-Belle data centre,data centre de Rose-Belle,datacentre,,Mauritius Telecom,,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,"Government Online Centre (GOC), Ebene",GOC,other,,Government of Mauritius,government only; about 80 racks,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,Aphelion DC3,Aphelion DC3,datacentre,,Aphelion,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
@@ -820,6 +826,7 @@ STP,Centro Nacional de Dados (NDC),STP,other,,INIC,,2025-03-12-stp-bragatv-grupo
 SWZ,National Data Centre,National Data Centre (NDC),datacentre,,Royal Science and Technology Park (RSTP),,2026-09-24-swz-times-national-data-centre-incident
 SWZ,National Data Centre,National Data Centre (NDC),datacentre,,Royal Science and Technology Park (RSTP),,2023-07-01-rstp-national-data-centre-brochure
 SWZ,National Data Centre,National Data Centre (NDC),datacentre,,Royal Science and Technology Park (RSTP),,2021-01-01 The National Data Centre - Royal Science and Technology Park
+SWZ,RSTP data centre,Royal Science and Technology Park data centre,datacentre,,Royal Science and Technology Park (parastatal),,2025-04-13-swz-minister-getting-threats
 SYC,Cable & Wireless Seychelles Tier IV data centre,Tier IV data centre,datacentre,,Cable & Wireless Seychelles,,2026-03-20-cable-wireless-seychelles-linkedin-tier-iv-data-centre
 SYC,Bon Espoir Data Centre,Bon Espoir Data Centre,datacentre,,Cable & Wireless Seychelles,,2024-11-22-cable-wireless-inaugurates-state-of-the-art-data-centre
 SYC,Airtel Seychelles Perseverance data centre,data centre,datacentre,,Airtel Seychelles,,2022-01-04-sbc-airtel-perseverance-data-centre
@@ -1165,3 +1172,4 @@ ZWE,Sovereign National Cloud,ZWE,other,planned national cloud under the National
 ZWE,Zimbabwe Centre for High Performance Computing (ZCHPC) data center,Zimbabwe,datacentre,"national HPC / supercomputer, University of Zimbabwe, Zimbabwe Science Park 1","ZCHPC, custodian of the national HPC infrastructure (University of Zimbabwe); owner not stated beyond that",,2025-08-15-developzim-zchpc-hpc-phase-2-commissioned
 ZWE,"High-Performance Computing Center, University of Zimbabwe",Zimbabwe,other,"supercomputer facility, 36 to over 300 teraflops, Phase 2 grant",University of Zimbabwe / Government of Zimbabwe (recipient),,2017-01-01-china-mofcom-zwe-002-chinese-government-provides-rmb-100-million
 ZWE,"High-Performance Computing Center, University of Zimbabwe",Zimbabwe,other,"supercomputer facility, Phase 1, handed over 2015",University of Zimbabwe,,2015-01-01-china-mofcom-zwe-001-chinese-government-provides-rmb-33-million
+ZWE,National Data Centre,National Data Centre,datacentre,Government private cloud,Government of Zimbabwe,,2025-01-08-zwe-zimbabwe-targets-digital-transformation-with-national-data-centre-upgr

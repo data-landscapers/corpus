@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,national,centre,coverage,tier3,2025-05,MRT-002;MRT-004;MRT-006,MRT-003=service;MRT-005=service;MRT-001=service,
-MRT,national,owner,coverage,,,,,nothing held
-MRT,national,state,coverage,,,,,nothing held
+MRT,national,centre,coverage,tier3,2025-05,MRT-002;MRT-004;MRT-006;MRT-009,MRT-003=service;MRT-005=service;MRT-001=service;MRT-008=service,
+MRT,national,owner,coverage,national,2025-05-08,MRT-007,,
+MRT,national,state,coverage,hosted,2026-07-02,MRT-010,,

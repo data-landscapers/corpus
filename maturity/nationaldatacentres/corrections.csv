@@ -3,3 +3,4 @@ MAR,016,centre,tier3,revalued: service,"inwi's certificate is for its design doc
 MUS,017,state,hosted,added,"Restated from MUS-001's source, which says the Rose-Belle data centre hosts government projects; the drafter filed it under centre only."
 NGA,121,state,hosted,added,"Restated from NGA-060's source, which says the Galaxy Backbone Abuja data centre serves government; the drafter filed it under centre only."
 MWI,011,centre,tier3,removed,"The source describes the government's own data centre hosting ministries; that it rents space to others is not stated, only that colocation racks will be offered."
+DZA,020,state,hosted,removed,"The source says the first national cloud is meant to host the state's sovereign data, a plan; DZA-019 holds the hosting."

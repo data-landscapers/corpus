@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZWE,national,centre,coverage,two,2017-03-24,ZWE-016,ZWE-001=service;ZWE-002=tier3;ZWE-019=service;ZWE-004=service;ZWE-006=service;ZWE-003=service;ZWE-021=service;ZWE-010=service;ZWE-011=tier3;ZWE-007=service;ZWE-008=tier3;ZWE-009=service;ZWE-012=service;ZWE-014=service;ZWE-013=service;ZWE-017=service;ZWE-018=service;ZWE-015=service;ZWE-020=service,
 ZWE,national,owner,coverage,national,2024,ZWE-005,,
-ZWE,national,state,coverage,hosted,2025-08-15,ZWE-022,,
+ZWE,national,state,coverage,hosted,2025-08-15,ZWE-022;ZWE-023;ZWE-024,,

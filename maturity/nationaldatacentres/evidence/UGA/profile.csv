@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 UGA,national,centre,coverage,tier3,2026,UGA-003;UGA-005;UGA-007;UGA-010;UGA-012;UGA-016;UGA-020;UGA-023;UGA-025;UGA-036,UGA-004=service;UGA-002=service;UGA-028=service;UGA-001=service;UGA-029=service;UGA-030=service;UGA-008=service;UGA-024=service;UGA-031=service;UGA-032=service;UGA-011=service;UGA-013=service;UGA-027=service;UGA-014=service;UGA-026=service;UGA-015=service;UGA-006=service;UGA-009=service;UGA-017=service;UGA-018=service;UGA-019=service;UGA-021=service;UGA-022=service,
 UGA,national,owner,coverage,national,2024,UGA-033,,
-UGA,national,state,coverage,hosted,2024,UGA-034;UGA-035,,
+UGA,national,state,coverage,hosted,2026-07-02,UGA-034;UGA-035;UGA-037,,

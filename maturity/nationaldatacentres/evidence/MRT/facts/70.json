@@ -1,0 +1,46 @@
+{
+ "slug": "2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "The Nouakchott Data Center is presented as the first national facility, inaugurated by the President and financed with EUR 15 million from the EIB, with the ministry of digital transformation speaking for it.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The Nouakchott Data Center offers hosting and backup services to public administrations, financial institutions, startups and service providers.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott Data Center",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The Nouakchott Data Center holds a level 3 certification with over 99.982% availability.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nouakchott Data Center",
+   "country_label": "Mauritania",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "state (national)",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

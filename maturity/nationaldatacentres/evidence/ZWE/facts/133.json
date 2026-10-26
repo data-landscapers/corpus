@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-25-zwe-govt-to-boost-online-services-with-new-high-tech-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The Minister said Government digital platforms, including email and communication services, are hosted in the national data centre, which is being expanded into a new Tier 4 facility.",
+   "as_of": "2025-01-25",
+   "date_precision": "day",
+   "system": "National data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "No data centre for hire stated; the Tier 4 centre is not yet built."
+}
