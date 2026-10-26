@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: SOM
-ledger_rows: 25
+ledger_rows: 26
 not_held: 1
-record: 2a6793bbb3a4
+record: e7652bd8ce32
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: 2a6793bbb3a4
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -421,6 +423,28 @@ A Somali government adviser, Mohamed Mukhtar Ali, told a data panel at the Afric
 **[Country Profile on AI Governance: Somalia](https://www.aipolicy.africa/country-profiles/somalia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 19 of 54 states, in a country profile version 1.2 dated 7 October 2026, with 56 of 80 indicators scored. Its strongest pillar is Infrastructure and Data (2.22) and its weakest is Implementation and Impact (0.44); it has no published AI strategy but a Data Protection Act 2023 with rules on transfers.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital skills programme for government employees (National Institute of Telecommunications and Technology)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Institute of Telecommunications Launches Digital Skills Training for Government Employees](https://sonna.so/en/article/National-Institute-of-Telecommunications-Launches-Digital-Skills-Training-for-Government-Employees)** — SONNA, 17 October 2026
+
+Ministry's NTTI opens civil-servant digital programme with a data-protection and information-security workshop.
 
 </div>
 

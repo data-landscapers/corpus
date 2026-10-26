@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: COM
 ledger_rows: 15
-not_held: 23
-record: b289a545a33c
+not_held: 24
+record: b9ae21b46ef2
 ---
 
 # News, Sep – Oct 2026
