@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Tunisia's communications technologies ministry said the G-Cloud and N-Cloud labelling system implements Decree-Law 2023-17 of 11 March 2023 and the minister's decision of 13 September 2023 setting the procedures and conditions for awarding the labels.",
+   "as_of": "2023-09-13",
+   "date_precision": "day",
+   "system": "G-Cloud and N-Cloud labels",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "named",
+   "fact": "The National Cybersecurity Agency awarded the government cloud (G-Cloud) label to Standard Sharing Software (3S) and EO Data Center in July 2024, after Next Step IT received the first N-Cloud label in April 2024.",
+   "as_of": "2024-07-11",
+   "date_precision": "day",
+   "system": "G-Cloud label",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "G-Cloud label",
+   "country_label": "Tunisia",
+   "class": "policy",
+   "platform": "",
+   "owner": "Agence Nationale de la Cybersecurite",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

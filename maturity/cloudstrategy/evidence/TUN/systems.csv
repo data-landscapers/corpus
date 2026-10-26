@@ -7,3 +7,5 @@ TUN,N-Cloud label list (ANCS),N-Cloud,policy,,Agence Nationale de la Cybersecuri
 TUN,CNI private cloud,Cloud prive du Centre National de l'Informatique,other,,Centre National de l'Informatique (CNI),,2026-09-22-tun-cybersecurite-circulaire-entreprises-publiques
 TUN,G-cloud label,Fournisseur de services informatiques en nuage gouvernemental (G-cloud),policy,,Agence Nationale de la Cybersecurite (ANCS),second tier: used between government structures,2023-09-13-tunisie-arrete-label-g-cloud-n-cloud
 TUN,N-cloud label,Fournisseur de services informatiques en nuage national (N-cloud),policy,,Agence Nationale de la Cybersecurite (ANCS),third tier: used by government structures for businesses or citizens,2023-09-13-tunisie-arrete-label-g-cloud-n-cloud
+TUN,N-Cloud label register,Tunisia,policy,,Agence Nationale de la Cybersecurite,,2025-11-20-tun-liste-des-fournisseurs-cloud-labelises
+TUN,G-Cloud label,Tunisia,policy,,Agence Nationale de la Cybersecurite,,2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud

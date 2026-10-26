@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-zwe-minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-dir",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Mavetera formalised a cloud-first direction at the ICT Directors workshop, with a Zimbabwe Government Cloud as companion policy ending ministries' separate server purchases.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "Zimbabwe Government Cloud",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

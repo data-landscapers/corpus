@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-25-mar-strategie-cloud-2025-2030-le-maroc-trace-la-voie-pour-ses-administrati",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The ministry's director of cloud infrastructure, Salma Tazi, said the ministry has put in place the Cloud Strategy 2025-2030 roadmap, whose Cloud First Policy makes cloud the default for all public administrations and is backed by a circular of the head of government.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Cloud Strategy 2025-2030 / Cloud First Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cloud First Policy",
+   "country_label": "Morocco",
+   "class": "policy",
+   "platform": "",
+   "owner": "Ministry of Digital Transition",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

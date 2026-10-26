@@ -1,16 +1,17 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "unplaced",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No policy or draft is on record, and no source dated in the last three years says the government has neither.",
-   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-002",
+      "gaps": "No source held says a government hosting or cloud policy is adopted and in force.",
+      "note": "Counted from the four questions by study-ladder-cloudstrategy.py.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

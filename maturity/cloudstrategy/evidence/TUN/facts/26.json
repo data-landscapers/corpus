@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-20-tun-liste-des-fournisseurs-cloud-labelises",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "named",
+   "fact": "The National Cybersecurity Agency's register of labelled cloud providers, version 3.3 of 20 November 2025, lists seven N-Cloud labelled providers, each with a one-year validity, and no G-Cloud label.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "N-Cloud label register",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "N-Cloud label register",
+   "country_label": "Tunisia",
+   "class": "policy",
+   "platform": "",
+   "owner": "Agence Nationale de la Cybersecurite",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

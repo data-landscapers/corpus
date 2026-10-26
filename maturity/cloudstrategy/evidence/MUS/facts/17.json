@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Sovereign Cloud",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "VMware Cloud Foundation",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": "Cabinet only says the government is exploring a sovereign cloud; no hosting policy drafted or adopted is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-15-lby-advancing-the-national-cloud-computing-policy-in-libya",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ESCWA and Libya's General Information Authority held a consultative workshop on 30 December 2025 on the draft national cloud computing policy, to gather public institutions' inputs ahead of its official adoption.",
+   "as_of": "2025-12-30",
+   "date_precision": "day",
+   "system": "national cloud computing policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national cloud computing policy",
+   "country_label": "Libya",
+   "class": "policy",
+   "platform": "",
+   "owner": "General Information Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

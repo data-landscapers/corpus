@@ -23,10 +23,10 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 | 5 Leading | 0 |
 | 4 Operating | 6 |
 | 3 Established | 9 |
-| 2 Nascent | 6 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
-| No evidence | 30 |
+| Unplaced | 2 |
+| No evidence | 28 |
 
 ## Countries
 
@@ -145,11 +145,23 @@ Botswana's government was developing a cloud computing policy in 2025 and none i
 
 - Botswana's Ministry of Communications and Innovation Deputy Permanent Secretary said in February 2025 that government was developing artificial intelligence, digital economy and digital and cloud computing policies ([source, 2025-02](https://dailynews.gov.bw/news-detail/84714)).
 
+### Central African Republic: 2 Nascent
+
+The Central African Republic was preparing a national data hosting strategy in 2026; whether it has been adopted is not known.
+
+- A participant reports that the Public Sector Digital Governance Programme (PGNSP) held a workshop on 19 May 2026 on the preparation of the National Data Hosting Strategy of the Central African Republic ([source, 2026-05-19](https://fr.linkedin.com/posts/martial-freddy-amakpio-bemade-80b83444_gouvernancenum%C3%A9rique-cloudcomputing-souverainet%C3%A9num%C3%A9rique-activity-7462633363468722176-u68g)).
+
 ### DR Congo: 2 Nascent
 
 A national data hosting strategy was being developed in March 2026, and no adopted policy is known; where public bodies must host is not known.
 
 - The Digital Transformation Project terms of reference (March 2026) say the government, helped by UNECA and GIZ, is developing a national data hosting strategy, under way mainly at central level, and seek consultants to define the hosting approach (for example cloud-first or cloud-appropriate) and propose hosting and cloud decrees and directives ([source, 2026-03](https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf)).
+
+### Ethiopia: 2 Nascent
+
+Ethiopia had a national cloud security governance framework in draft in 2026; whether it has been adopted is not known.
+
+- The Information Network Security Administration (INSA) held an internal forum on the proposed National Cloud Security Governance Framework (NCSGF) in 2026 ([source, 2026-05](https://www.linkedin.com/posts/information-network-security-administration_insa-cloudsecurity-cybersecurity-activity-7466419690207277056-34la)).
 
 ### Ghana: 2 Nascent
 
@@ -169,11 +181,11 @@ Mozambique said in 2025 it is drafting a new framework for cloud adoption; wheth
 
 - TechAfrica News reports that, at an event on or before its published date of 2025-12-04, the Minister of Communications and Digital Transformation said the government is drafting an updated regulatory framework for cloud adoption to replace current legal restrictions, alongside a five-year plan for domestic data centres to host cloud services for banks and other institutions ([source, 2025-12](https://techafricanews.com/2025/12/04/mozambique-to-build-local-data-centres-and-new-regulations-for-cloud-adoption/)).
 
-### Central African Republic: Unplaced
+### Zimbabwe: 2 Nascent
 
-A 2023 World Bank record shows no government cloud policy in Central African Republic; nothing newer is held, so no stage is set.
+Zimbabwe announced a government cloud policy in 2026; whether it has been adopted is not known.
 
-Not established: No policy or draft is on record, and no source dated in the last three years says the government has neither.
+- Minister Mavetera formalised a cloud-first direction at the ICT Directors workshop, with a Zimbabwe Government Cloud as companion policy ending ministries' separate server purchases ([source, 2026-05-07](https://spikedmedia.co.zw/minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-directors-workshop/)).
 
 ### Eritrea: Unplaced
 
@@ -250,12 +262,6 @@ Not established: Nothing held names a government hosting or cloud policy, or say
 ### Eswatini: No evidence
 
 Nothing held says Eswatini has a government hosting or cloud policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a government hosting or cloud policy, or says there is none.
-
-### Ethiopia: No evidence
-
-Nothing held says Ethiopia has a government hosting or cloud policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a government hosting or cloud policy, or says there is none.
 
@@ -358,11 +364,5 @@ Not established: Nothing held names a government hosting or cloud policy, or say
 ### Togo: No evidence
 
 Nothing held says Togo has a government hosting or cloud policy, or says it has none, so no stage is set.
-
-Not established: Nothing held names a government hosting or cloud policy, or says there is none.
-
-### Zimbabwe: No evidence
-
-Nothing held says Zimbabwe has a government hosting or cloud policy, or says it has none, so no stage is set.
 
 Not established: Nothing held names a government hosting or cloud policy, or says there is none.

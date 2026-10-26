@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Permanent Secretary Washington Okoth announced the official release of the Kenya Cloud Policy, which prioritises cloud-based ICT adoption and moves away from traditional on-premise data centres.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Kenya Cloud Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenya Cloud Policy",
+   "country_label": "Kenya Cloud Policy",
+   "class": "policy",
+   "platform": "",
+   "owner": "MICDE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "no evidence",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held names a government hosting or cloud policy, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-cloudstrategy.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-002",
+      "gaps": "No source held says a government hosting or cloud policy is adopted and in force.",
+      "note": "Counted from the four questions by study-ladder-cloudstrategy.py.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }
