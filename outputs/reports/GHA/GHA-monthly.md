@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: GHA
-ledger_rows: 117
+ledger_rows: 118
 not_held: 9
-record: 0467f3927ecf
+record: 4215f09a51ca
 ---
 
 # News, Sep – Oct 2026
@@ -1692,6 +1692,8 @@ Ghana's local government minister, Mahama Ayariga, announced on 15 September 202
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ict-industry">ICT Industry</a>
 </nav>
 
 ### AI
@@ -1863,6 +1865,22 @@ Ghana's communications minister Samuel Nartey George outlined a US$270m AI progr
 **[Ghana appoints AI focal points in all ministries to boost national digital readiness](https://accraposts.com/ghana-ai-focal-points-ministries/)** — Accra Posts, 18 October 2026
 
 Ghana's communications minister Sam George said every ministry now has an AI focal person and Cabinet ministers have been through an AI boot camp. A UNESCO-supported readiness assessment has mapped ministries and agencies, UNDP and UNESCO are training chief directors and directors, and cybersecurity and data protection laws are under review.
+
+</div>
+
+</div>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Information and communication share of output</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rebased GDP Quarterly Bulletin 2006-2026Q2, September 2026 Edition]()** — Ghana Statistical Service, 1 September 2026
+
+Information & Communication 3.48% of GDP in 2026 Q2 (provisional), up 30.9% year on year in real terms.
 
 </div>
 
