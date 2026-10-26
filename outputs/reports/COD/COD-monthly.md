@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: COD
-ledger_rows: 66
+ledger_rows: 69
 not_held: 7
-record: ed38372f2146
+record: 320467c982f3
 ---
 
 # News, Sep – Oct 2026
@@ -21,7 +21,11 @@ record: ed38372f2146
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -228,6 +232,8 @@ Vodacom Congo said at a Kinshasa forum on 8 October 2026 that it plans a long-te
 <a href="#energy">Energy</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technical-capacity">Technical Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -420,6 +426,22 @@ The steering committee of the DRC's digital transformation project met for the f
 
 </div>
 
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Security audit of the state's public IT systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : Félix Tshisekedi ordonne un audit des infrastructures numériques de l'État](https://numerico.cd/fr/article/cybersecurite-felix-tshisekedi-ordonne-un-audit-des-infrastructures-numeriques-d)** — Numerico.cd, 24 October 2026
+
+101st Council of Ministers; PT ministry coordinates; Finance and BCC to secure payment and PFM systems.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -461,6 +483,14 @@ The DRC's finance minister, Doudou Fwamba, said on 3 September 2026 that monthly
 **[RDC : stratégies, identité numérique et cybersécurité au bilan d’un an de réformes](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes)** — Agence Ecofin, 30 September 2026
 
 The DRC's digital economy minister said the prime minister had signed decrees creating an online administrative-services portal and a national electronic certification agency, and that a national cybersecurity agency had been created by presidential ordinance. He said the RDC-PASS digital identity entered a first operational phase in September with 50 enrolment agents trained.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : Serge Kaozi Lubamba nommé à la tête des missions de l'ANCE](https://numerico.cd/fr/article/rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance)** — Numerico.cd, 22 October 2026
+
+Arrêté of 19 October 2026 names ANCE heads; its missions sat with ARPTC since August 2024.
 
 </div>
 
@@ -912,6 +942,28 @@ DR Congo's foreign minister, Thérèse Kayikwamba Wagner, and digital economy mi
 
 </div>
 
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kongo Central provincial data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kongo Central : l'ADN-KC fait le point sur le data center provincial et la préparation de nouveaux projets numériques](https://360actu-rdc.com/kongo-central-ladn-kc-fait-le-point-sur-le-data-center-provincial-et-la-preparation-de-nouveaux-projets-numeriques/)** — 360Actu RDC, 22 October 2026
+
+Provincial data centre held back by internet, power supply and unfinished works; project file nearing validation.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -1039,6 +1091,28 @@ DR Congo's World Bank-financed Digital Transformation Project (PTN) and the TRAN
 **[Transformation numérique : Augustin Kibassa Maliba s’inspire du modèle Skolkovo pour le futur Technopark de Kinshasa](https://actu7.cd/2026/10/08/transformation-numerique-augustin-kibassa-maliba-sinspire-du-modele-skolkovo-pour-le-futur-technopark-de-kinshasa/)** — Actu7.cd, 8 October 2026
 
 The DRC's digital economy minister visited the Skolkovo innovation centre near Moscow as a model for a technology park and sovereign data centre planned for Kinshasa's extension zone. No site, cost or timetable is given.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Executive programme in digital transformation and AI for public-administration cadres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'ADN en collaboration avec KADEA et ULB-Solvay Lifelong Learning a organisé un programme executive en transformation digitale et intelligence artificielle](https://adn.cd/fr/actualites/l-adn-en-collaboration-avec-kadea-et-ulb-solvay-lifelong-learning-a-organise-un-programme-executive-en-transformation-digitale-et-intelligence-artificielle)** — Agence pour le Développement du Numérique, 9 October 2026
+
+Executive programme for cadres of 30 public institutions; first session 28-30 Sept 2026.
 
 </div>
 
