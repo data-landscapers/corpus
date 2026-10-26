@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: TGO
 ledger_rows: 61
 not_held: 17
-record: 41b52316bf47
+record: 92b276fea32b
 ---
 
 # News, Sep – Oct 2026
@@ -895,6 +895,14 @@ Togo's AI laboratory is recruiting a technical lead for public-sector artificial
 **[Et si l'intelligence artificielle comprenait enfin nos langues locales ?](https://www.undp.org/fr/togo/actualites/et-si-lintelligence-artificielle-comprenait-enfin-nos-langues-locales)** — PNUD Togo, 5 October 2026
 
 UNDP Togo reports on the launch of the national local-languages challenge under the Voix du Togo programme, run by the Togo AI Lab for the digital transformation ministry, whose pilot phase targets AI models for Kabiyè, Ewe and Moba. UNDP is supporting the lab with GPU-based computing infrastructure, presented as a supercomputer, to train the models, and minister Cina Lawson described language models as essential public infrastructure. A contribution platform will gather voice recordings, texts and translations, and the challenge's results are still to come.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[African governments become customers for local AI](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)** — Investdesk Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Togo, Kenya, Rwanda, Lesotho cases; UN call for African AI products closed 2 Oct, showcase in Accra.
 
 </div>
 
