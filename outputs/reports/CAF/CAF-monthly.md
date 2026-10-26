@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: CAF
-ledger_rows: 21
+ledger_rows: 23
 not_held: 5
-record: cebd6b6f8016
+record: 1000b41891f8
 ---
 
 # News, Sep – Oct 2026
@@ -402,11 +402,33 @@ The Central African Republic's statistics institute, ICASEES, put the provisiona
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : Retraite de travail consacrée à l'apurement et à la tabulation des données du RGPH-4](https://www.icasees.org/index.php/actualites/425-icasees-retraite-de-travail-consacree-a-lapurement-et-a-la-tabulation-des-donnees-du-rgph-4)** — ICASEES, 3 October 2026
+
+RGPH-4 retreat, Boali 2-5 Oct 2026, after CTIR review of provisional results; 40+ staff; Stata, SPSS, CSPro.
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" markdown="1">
 
 **[ICASEES : Evaluation à mi-parcours de la deuxième Stratégie Nationale de Développement de la Statistique](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)** — ICASEES, 10 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional statistics harmonisation project (HISWACA-SOP2)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : La mission d'appui de la Banque mondiale au projet HISWACA-SOP2](https://www.icasees.org/index.php/actualites/427-icasees-la-mission-dappui-de-la-banque-mondiale-au-projet-hiswaca-sop2)** — ICASEES, 9 October 2026
+
+World Bank supervision of HISWACA-SOP2 (P180085), 7-8 Oct 2026: PTBA 2026, RGPH-4, EHCVM2, ECTI, dissemination policy.
 
 </div>
 
@@ -421,6 +443,20 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[ICASEES : Evaluation à mi-parcours de la deuxième Stratégie Nationale de Développement de la Statistique](https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique)** — ICASEES, 10 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Harmonised household living-conditions survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : Lancement de la deuxième vague de collecte de l'EHCVM2 en République centrafricaine](https://www.icasees.org/index.php/actualites/430-icasees-lancement-de-la-deuxieme-vague-de-collecte-de-lehcvm2-en-republique-centrafricaine)** — ICASEES, 17 October 2026
+
+Second wave adds Fertit (Haute-Kotto, Vakaga, Bamingui-Bangoran); first wave July-Sept 2026 in six of seven regions.
 
 </div>
 
