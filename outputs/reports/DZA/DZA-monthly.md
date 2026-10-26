@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: DZA
-ledger_rows: 49
+ledger_rows: 50
 not_held: 5
-record: c46c86db4f4f
+record: b2c52212b098
 ---
 
 # News, Sep – Oct 2026
@@ -399,6 +399,20 @@ Applicants in Algiers and Béjaïa reported waiting at least three months, and i
 **[الكشف عن تفاصيل تقنية جديدة حول منظومة الهوية الرقمية وحماية البيانات](https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/)** — PrixAlgerie News, 9 October 2026
 
 Algeria's digitalisation commission set out how the national digital identity is obtained: registration and an appointment at the commune, activation, then verification against biometric data. It also said a national data-governance system that classifies data sources against one reference is under way.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic signature of social-security payment-centre documents (CNAS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La CNAS examine l'intégration de la certification électronique dans le traitement des documents](https://algerie-eco.com/2026/10/22/la-cnas-examine-lintegration-de-la-certification-electronique-dans-le-traitement-des-documents/)** — Algérie Eco, 22 October 2026
+
+Social-security fund and AGCE plan e-signature for payment-centre documents and electronic archiving.
 
 </div>
 
