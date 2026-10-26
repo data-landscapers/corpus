@@ -1,0 +1,43 @@
+{
+ "slug": "2026-06-22-tgo-cloture-du-programme-des-ambassadeurs-ambassadrices-du-digital-cap-sur",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "A GIZ ProDigiT LinkedIn post says the Ministry-initiated Digital Ambassadors programme run by Agence Togo Digital graduated 80 civil servants placed in 27 ministries and agencies after 14 months, and that a programme to train 20,000 civil servants in basic digital skills is to launch in the coming months.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Programme des Ambassadeurs et Ambassadrices du Digital",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Programme des Ambassadeurs et Ambassadrices du Digital",
+       "country_label": "Togo",
+       "class": "csskills",
+       "platform": "hybrid",
+       "owner": "MESPTN / Agence Togo Digital",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns civil servants only."
+    }
+   }
+  }
+ }
+}

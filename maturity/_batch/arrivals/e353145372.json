@@ -1,25 +1,8 @@
-{
- "slug": "2026-01-01-gnb-cfe-guiche-unico-de-criacao-de-empresas-guine-bissau",
- "studies": {
-  "businessregister": {
-   "countries": {
-    "GNB": {
-     "facts": [
-      {
-       "sub_indicator": "business",
-       "aspect": "registration",
-       "value": "inservice",
-       "fact": "The Centro de Formalização de Empresas' official platform lets founders submit company-creation files online or through an agent, with validation and payment at the counter, and counts over 7,666 firms created.",
-       "as_of": "2026",
-       "date_precision": "year",
-       "system": "CFE online platform",
-       "class": "business"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2026-01-01-gnb-cfe-guiche-unico-de-criacao-de-empresas-guine-bissau", "studies": {
+"addressregister": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Company-creation platform page; says nothing of addressing."}}},
+"civilregister": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Company-creation platform page; says nothing of civil registration."}}},
+"electoralregister": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Company-creation platform page; says nothing of a voters' roll."}}},
+"landregister": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Company-creation platform page; says nothing of land registration."}}},
+"registry": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Business registration only; no civil registration office stated."}}},
+"socialregistry": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Company-creation platform page; says nothing of a social registry."}}}
+}}

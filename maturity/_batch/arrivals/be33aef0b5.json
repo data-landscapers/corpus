@@ -1,0 +1,11 @@
+{"slug": "2026-10-09-cod-l-adn-en-collaboration-avec-kadea-et-ulb-solvay-lifelong-learning-a-or", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on AI rules."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "Training only."}}},
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"civilserviceskills": {"countries": {"COD": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "ADN, with KADEA and ULB-Solvay Lifelong Learning, held the first session of an executive programme in digital transformation and AI on 28-30 September 2026 for cadres from 30 public institutions; further sessions follow.", "as_of": "2026-09-28", "date_precision": "day", "system": "Programme Executive en transformation digitale et intelligence artificielle", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "Programme is for public administration cadres only."}}},
+"schoolinternet": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

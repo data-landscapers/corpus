@@ -1,0 +1,4 @@
+{"slug": "2026-07-15-ken-complaints-about-digital-lenders-jump-five-times", "studies": {"consumerprotection": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "protection", "aspect": "enforced", "value": "enforced", "fact": "Business Daily reports Competition Authority of Kenya data showing borrower complaints about digital lenders rose to 355 cases in the year to June 2025 from 67 the year before.", "as_of": "2025-06", "date_precision": "month", "system": "Competition Authority of Kenya complaints", "class": "protection"},
+{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "Business Daily reports the Competition Authority of Kenya received 355 complaints from borrowers about digital lenders' hidden charges, changed terms and asset seizure in the year to June 2025.", "as_of": "2025-06", "date_precision": "month", "system": "Competition Authority of Kenya complaints", "class": "protection"}],
+"systems": [], "note": ""}}}}}

@@ -1,0 +1,11 @@
+{"slug": "2026-10-22-ben-benin-15-189-retraites-ont-deja-effectue-leur-preuve-de-vie-la-campagn", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "La Nouvelle Tribune reports that the government's \"Preuve de Vie\" app lets FNRB pensioners confirm their identity remotely with their NPI, passbook number and a fingerprint scan, with 15,189 successful operations by 21 October 2026.", "as_of": "2026-10-21", "date_precision": "day", "system": "Preuve de Vie app", "class": "authentication"}], "systems": [{"system": "Preuve de Vie app", "country_label": "Benin", "class": "authentication", "platform": "", "owner": "Government of Benin", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"BEN": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "The article says pensioners of the national pension fund (FNRB) prove life in the app by entering their NPI, the national identification number, with their passbook number.", "as_of": "2026-10-21", "date_precision": "day", "system": "Preuve de Vie app", "class": "register"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"BEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The article says pensioners need only a biometric national identity card and use their NPI to prove life at biometric kiosks and in the app.", "as_of": "2026-10-21", "date_precision": "day", "system": "NPI and biometric national identity card", "class": "idsystem"}], "systems": [], "note": ""}}},
+"police": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"registry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

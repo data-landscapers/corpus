@@ -1,0 +1,97 @@
+{
+ "slug": "2024-02-01-gha-stakeholders-push-for-unified-ict-policies-for-africa-s-digital-space",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a regulatory framework for data centres is discussed; no facility is stated."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "NITA's Director General said a draft National Data Centre and Cloud Computing Regulatory Framework, which covers licensing, data localisation, security, sustainability and competition, was under review at a validation workshop in Accra.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "National Data Centre and Cloud Computing Regulatory Framework",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The framework is said to align with international standards, with no named standard, membership or rule."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "NITA is named as a regulator of the framework; nothing stated on its running systems for government."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No nationally owned data centre is stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "A validation workshop is described, but no one outside government is named as taking part."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Smart Africa speakers appear at a Ghana workshop; no membership, agreement or meeting of an African body is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug": "2026-01-01-syc-consumer-complaints-data-for-january-to-december-2025", "studies": {
+"businesspayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on procurement."}}},
+"centralbank": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Complaint statistics only; no licensing or switch role stated."}}},
+"consumerprotection": {"countries": {"SYC": {"facts": [{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The Central Bank of Seychelles records complaints about banks and payment service providers, including internet and mobile banking, and received 50 complaints directly in 2025 from customers unsatisfied with the providers' response.", "as_of": "2025", "date_precision": "year", "system": "Central Bank of Seychelles complaints handling", "class": "protection"}, {"sub_indicator": "protection", "aspect": "enforced", "value": "enforced", "fact": "The Central Bank of Seychelles reports that payment service providers received 25 complaints in 2025 (14 in the first half, 11 in the second).", "as_of": "2025", "date_precision": "year", "system": "Central Bank of Seychelles complaints handling", "class": "protection"}], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on a payments law."}}},
+"paymentsuptake": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Payment service providers are named as regulated complainees; no service described."}}},
+"revenuecollection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

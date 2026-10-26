@@ -1,0 +1,70 @@
+{
+ "slug": "2025-12-17-zmb-smart-zambia-rolls-out-decentralised-digital-skills-training-for-publi",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "TechAfrica News reports SMART Zambia Institute launched a decentralised digital skills training programme for the public service on its Cisco Networking Academy platform, starting with an orientation of 13 officers from seven institutions.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "SMART Zambia Cisco Networking Academy platform",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SMART Zambia Cisco Networking Academy platform",
+       "country_label": "Zambia",
+       "class": "csskills",
+       "platform": "Cisco Networking Academy",
+       "owner": "SMART Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Programme is for government institutions' staff, not the public."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only refers to a broader digital transformation agenda led by SMART Zambia Institute; nothing on its standing or text."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Training of officers as instructors is other; no statement on who runs government systems."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  }
+ }
+}

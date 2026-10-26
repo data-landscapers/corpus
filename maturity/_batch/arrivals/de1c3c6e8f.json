@@ -1,14 +1,1 @@
-{
- "slug": "2026-05-15-ner-rgph-5-les-acteurs-evaluent-le-denombrement-pilote-effectue-dans-la-re",
- "studies": {
-  "censuses": {
-   "countries": {
-    "NER": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-05-15-ner-rgph-5-les-acteurs-evaluent-le-denombrement-pilote-effectue-dans-la-re", "studies": {"admindata": {"countries": {"NER": {"facts": [], "systems": [], "note": "Census pilot evaluation only; no administrative-record statistics stated."}}}}}

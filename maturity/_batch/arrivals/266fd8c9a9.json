@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-19-lso-tiheli-urges-public-servants-to-embrace-change",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Lesotho News Agency reports a one-day training session for officers in Mohale's Hoek held by the Ministry of Information, Communications, Science, Technology and Innovation with LIPAM on technology use in ministries.",
+       "as_of": "2025-09-19",
+       "date_precision": "day",
+       "system": "MICSTI/LIPAM training session",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Training was for public servants only."
+    }
+   }
+  }
+ }
+}

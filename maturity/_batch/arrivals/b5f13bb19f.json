@@ -1,0 +1,43 @@
+{
+ "slug": "2026-02-06-lbr-ppcc-concludes-digital-literacy-training",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Information says the Public Procurement and Concessions Commission concluded a seven-day digital literacy training for its staff on 22 January 2026, ending in certification.",
+       "as_of": "2026-01-22",
+       "date_precision": "day",
+       "system": "PPCC digital literacy CPD training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Training was for one commission's staff only."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  }
+ }
+}

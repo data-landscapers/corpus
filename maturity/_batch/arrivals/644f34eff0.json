@@ -1,0 +1,26 @@
+{"slug": "2026-04-29-bwa-bofinet-pushes-for-local-data-hosting-to-strengthen-security", "studies": {
+"businesspayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"centralbank": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"consumerprotection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"crossborderpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"datacentres": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "BoFiNet CEO Geoffrey Seleka says the Digital Delta Data Centre is a carrier-neutral facility open to all licensed operators and cloud service providers, serving government, state-owned enterprises, parastatals and private companies.", "as_of": "2026-04-29", "date_precision": "day", "system": "Digital Delta Data Centre", "class": "datacentre"},
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "BoFiNet CEO Geoffrey Seleka says the Digital Delta Data Centre is Uptime Institute Tier III certified, with 99.982 percent availability.", "as_of": "2026-04-29", "date_precision": "day", "system": "Digital Delta Data Centre", "class": "datacentre"}
+], "systems": [{"system": "Digital Delta Data Centre", "country_label": "Botswana", "class": "datacentre", "platform": "", "owner": "BoFiNet", "tiers": "Tier III"}], "note": "No cloud region stated."}}},
+"dataprotectionlaw": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "BoFiNet CEO Geoffrey Seleka refers to Botswana's Data Protection Act as the law in line with which customer data should reside in Botswana.", "as_of": "2026-04-29", "date_precision": "day", "system": "Data Protection Act", "class": "general"}
+], "systems": [], "note": "The residency reading is the CEO's own; no authority, regulations or application stated."}}},
+"digitalsovereignty": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "BoFiNet CEO Geoffrey Seleka says government has taken a strategic decision to migrate its critical services to the Digital Delta Data Centre to improve national data sovereignty.", "as_of": "2026-04-29", "date_precision": "day", "system": "Digital Delta Data Centre", "class": "sovereignty"}
+], "systems": [], "note": "Migration is a decision, not stated as completed hosting."}}},
+"g2ppayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"nationaldatacentres": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "BoFiNet CEO Geoffrey Seleka describes the Digital Delta Data Centre as an open carrier-neutral facility hosting government, state-owned enterprises and private companies; the document does not state its ownership.", "as_of": "2026-04-29", "date_precision": "day", "system": "Digital Delta Data Centre", "class": "datacentre"},
+{"sub_indicator": "national", "aspect": "centre", "value": "tier3", "fact": "BoFiNet CEO Geoffrey Seleka says the Digital Delta Data Centre is Uptime Institute Tier III certified.", "as_of": "2026-04-29", "date_precision": "day", "system": "Digital Delta Data Centre", "class": "datacentre"}
+], "systems": [], "note": "Ownership of the facility is not stated, so no owner fact."}}},
+"paymentsuptake": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"retailpayments": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"revenuecollection": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"startups": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Startups mentioned only as potential tenants; no law or fund."}}},
+"techhubs": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Nothing stated."}}}
+}}

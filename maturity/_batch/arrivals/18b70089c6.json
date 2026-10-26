@@ -1,0 +1,173 @@
+{
+ "slug": "2025-10-23-ssd-south-sudan-mps-advance-cybercrime-bill-to-final-vote",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "none",
+       "fact": "MP Bol Toby Madut said there is a lack of consumer protections for the growing use of mobile money and other digital financial services.",
+       "as_of": "2025-10-23",
+       "date_precision": "day",
+       "system": "",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "The Transitional National Legislative Assembly moved the Cybercrime and Computer Misuse Bill 2025 to its third and final reading; it began as a May 2021 presidential provisional order and was tabled as a bill in September 2024.",
+       "as_of": "2025-10-23",
+       "date_precision": "day",
+       "system": "Cybercrime and Computer Misuse Bill 2025",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cybercrime and Computer Misuse Bill 2025",
+       "country_label": "South Sudan",
+       "class": "law",
+       "platform": "",
+       "owner": "Transitional National Legislative Assembly",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The Assembly's Information Committee chair said its work on the cybercrime bill included public consultations and workshops supported by UNESCO and UNMISS.",
+       "as_of": "2025-10-23",
+       "date_precision": "day",
+       "system": "Cybercrime and Computer Misuse Bill 2025",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Committee chair claims the bill complies with the Malabo Convention; no signature, ratification or national law giving effect to it is stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for South Sudan."
+    }
+   }
+  }
+ }
+}

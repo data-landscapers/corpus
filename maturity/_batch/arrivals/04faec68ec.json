@@ -1,42 +1,21 @@
 {
  "slug": "2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems",
  "studies": {
-  "admindata": {
+  "civilserviceskills": {
    "countries": {
     "TGO": {
-     "facts": [
-      {
-       "sub_indicator": "admin",
-       "aspect": "use",
-       "value": "preparing",
-       "fact": "The DHIS2 implementation profile says Togo's education ministry, supported by Norad, GPE KIX and HISP West and Central Africa, is piloting DHIS2 alongside the StatEduc application that holds school data collected on paper forms, with dashboards for enrolment, teacher-pupil ratios and exam results.",
-       "as_of": "2024-11-05",
-       "date_precision": "day",
-       "system": "DHIS2 with StatEduc",
-       "class": "admin"
-      },
-      {
-       "sub_indicator": "admin",
-       "aspect": "source",
-       "value": "education",
-       "fact": "The pilot draws on school data entered into StatEduc by the education ministry's inspectorates.",
-       "as_of": "2024-11-05",
-       "date_precision": "day",
-       "system": "DHIS2 with StatEduc",
-       "class": "admin"
-      }
-     ],
-     "systems": [
-      {
-       "system": "StatEduc",
-       "country_label": "Togo",
-       "class": "admin",
-       "platform": "StatEduc; DHIS2",
-       "owner": "Ministry of Primary, Secondary, Technical Education",
-       "tiers": ""
-      }
-     ],
-     "note": ""
+     "facts": [],
+     "systems": [],
+     "note": "The document covers education data systems and states no digital-skills training for civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers education data systems and states no digital-skills programme for the public."
     }
    }
   }

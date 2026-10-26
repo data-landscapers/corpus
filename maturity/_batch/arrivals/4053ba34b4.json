@@ -1,0 +1,11 @@
+{"slug": "2025-11-20-tun-liste-des-fournisseurs-cloud-labelises", "studies": {
+"cloudstrategy": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The National Cybersecurity Agency's register of labelled cloud providers, version 3.3 of 20 November 2025, lists seven N-Cloud labelled providers, each with a one-year validity, and no G-Cloud label.", "as_of": "2025-11-20", "date_precision": "day", "system": "N-Cloud label register", "class": "policy"}],
+"systems": [{"system": "N-Cloud label register", "country_label": "Tunisia", "class": "policy", "platform": "", "owner": "Agence Nationale de la Cybersecurite", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A label register is not an incident response or an alert."}}},
+"datacentres": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "The ANCS register of 20 November 2025 lists Tunisie Telecom, Dataxion and Ooredoo Tunisie as N-Cloud labelled providers offering colocation space.", "as_of": "2025-11-20", "date_precision": "day", "system": "colocation services", "class": "datacentre"}],
+"systems": [{"system": "Tunisie Telecom", "country_label": "Tunisia", "class": "datacentre", "platform": "", "owner": "", "tiers": ""}, {"system": "Dataxion", "country_label": "Tunisia", "class": "datacentre", "platform": "", "owner": "", "tiers": ""}, {"system": "Ooredoo Tunisie", "country_label": "Tunisia", "class": "datacentre", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Ownership of the colocation providers is not stated."}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

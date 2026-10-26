@@ -1,0 +1,88 @@
+{
+ "slug": "2026-10-24-ken-ppp-directorate-signs-funding-agreement-for-konza-national-data-centre",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this notice."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this notice."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in this notice."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "AI is named only as a technology the planned expansion would support; no AI computing is stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice does not say Konza rents to others; the expansion is in preparation."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Ownership and for-hire service are not stated; the expansion is in preparation."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Kenya's PPP Directorate signed a funding agreement with the Konza Technopolis Development Authority for preparing the Konza National Data Centre cloud expansion, which seeks to strengthen sovereign cloud capabilities; the project entered the PPP pipeline in December 2025.",
+       "as_of": "2026-10-24",
+       "date_precision": "day",
+       "system": "Konza National Data Centre Cloud Expansion",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Konza National Data Centre",
+       "country_label": "Kenya",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Konza Technopolis Development Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2023-11-07-mwi-spc-for-digital-innovations",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "MBC reports the Secretary to the President and Cabinet presented certificates on 7 November 2023 to 112 civil servants who completed a six-month digital skills training at the Malawi School of Government, organised by the Malawi Government with the Tony Blair Institute; about 180 enrolled.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Digital Skills Training, Malawi School of Government",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Training was for civil servants only."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  }
+ }
+}

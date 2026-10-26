@@ -1,0 +1,45 @@
+{
+ "slug": "2024-11-01-mrt-education-numerique-lancement-prochain-d-une-campagne-de-sensibilisati",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Digital Transformation said an upcoming awareness campaign will give particular attention to training civil servants and state agents in digital good practice and cybersecurity.",
+       "as_of": "2024-11-01",
+       "date_precision": "day",
+       "system": "Digital education awareness campaign",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Digital Transformation and Administrative Modernisation is preparing a campaign on digital education to teach the public secure and responsible use of digital tools.",
+       "as_of": "2024-11-01",
+       "date_precision": "day",
+       "system": "Digital education awareness campaign",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

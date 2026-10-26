@@ -1,0 +1,93 @@
+{
+ "slug": "2025-12-17-dza-le-gouvernement-examine-plusieurs-projets-notamment-la-transformation",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A second national data centre is in service since 26 September 2025, but the communique does not say it rents space or computing to others."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The Algerian government reviewed on 17 December 2025 the setting up of two strategic infrastructures forming Algeria's first national cloud, meant to secure and modernise public services by hosting sovereign data.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "First national cloud",
+       "class": "sovereignty"
+      },
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "The Prime Minister's communique describes the two infrastructures of the first national cloud as hosting sovereign data, alongside a second national data centre in service since 26 September 2025.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "First national cloud",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The government reviewed on 17 December 2025 the project of the national digital services portal Dzair digital services, giving unified web and mobile access to public services.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "Dzair digital services",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Dzair digital services",
+       "country_label": "Dzair digital services",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Government of Algeria",
+       "tiers": ""
+      }
+     ],
+     "note": "No count of services or usage stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "The government reviewed the second national data centre, in service since 26 September 2025, and a first national cloud meant to host the state's sovereign data.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "First national cloud",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": "Ownership, for-hire service and Tier are not stated."
+    }
+   }
+  }
+ }
+}

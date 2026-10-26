@@ -1,0 +1,16 @@
+{"slug": "2026-02-08-zwe-minister-mavetera-defends-zimbabwe-s-ai-drive-addresses-infrastructure", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government AI system is described."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Sector-specific approach mentioned in general terms only; no tool named."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "ICT Minister Tatenda Mavetera defended Zimbabwe's 'forthcoming' National AI Strategy as a long-term multi-year framework, with progress to be tracked by public KPIs reported quarterly; it is described as not yet launched.", "as_of": "2026-02-08", "date_precision": "day", "system": "National AI Strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "High-performance computing facility", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "HPC facility launched Q3 2025 is not stated to be AI computing; new Harare data centre is under construction."}}},
+"cloudstrategy": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "Data Centre Policy and Incentives Framework", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Ministry of ICT", "tiers": ""}], "note": "Framework being finalised is an investment-incentive policy for data centres, not a rule on state hosting or cloud use."}}},
+"coresystems": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "Enterprise Architecture Model for e-government", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "Architecture model is 88 percent complete and not yet published."}}},
+"datacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Government data centre in Harare is under construction; nothing for hire in service is stated."}}},
+"digitalsovereignty": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Minister defines sovereign as national control of data governance; no adopted strategy or rule is stated."}}},
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No online service is named."}}},
+"ictjobs": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No employment or youth unemployment figure."}}},
+"nationaldatacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a government data centre under construction is named."}}},
+"nonstatefinance": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "PPP talks and an Econet Infra Co industrial park are mentioned with no amount or signed deal."}}},
+"offsitebackup": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "Disaster recovery facility, Bulawayo", "country_label": "Zimbabwe", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "Bulawayo disaster recovery facility is under construction, not in service."}}}
+}}

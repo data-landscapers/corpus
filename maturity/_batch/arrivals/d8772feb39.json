@@ -1,0 +1,62 @@
+{
+ "slug": "2026-10-25-gab-gabon-loi-de-finances-2027-les-budgets-de-la-communication-et-de-leconomie-numer",
+ "studies": {
+  "datagovernance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a national data policy."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital sovereignty is named only as a general orientation of the ministry; no plan, rule or hosting stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the ministry's budget orientations are stated; no named national digital strategy."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "allocated",
+       "fact": "Gabon's Ministry of the Digital Economy, Digitalisation, Innovation and New Technologies asked the National Assembly on 25 October 2026 for a 2027 budget envelope of FCFA 37,214,804,386, split between the programmes Digital Economy and Steering and Support of ICT policy.",
+       "as_of": "2027",
+       "date_precision": "year",
+       "system": "Ministry of the Digital Economy budget 2027",
+       "class": "financing"
+      },
+      {
+       "sub_indicator": "financing",
+       "aspect": "budget",
+       "value": "fell",
+       "fact": "The ministry's requested 2027 envelope of FCFA 37.2 billion is about FCFA 16.5 billion below its 2026 envelope of FCFA 53,711,081,266.",
+       "as_of": "2027",
+       "date_precision": "year",
+       "system": "Ministry of the Digital Economy budget 2027",
+       "class": "financing"
+      }
+     ],
+     "systems": [],
+     "note": "These are the budget estimates presented to the Assembly in the 2027 finance bill, not yet voted."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "slug": "2026-09-27-bdi-la-transformation-numerique-ne-se-resume-pas-aux-infrastructures-post",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The PAFEN coordinator says in a LinkedIn post that PAFEN will soon launch a basic digital skills programme aiming to train 5,000 civil servants in under 12 months.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PAFEN basic digital skills programme",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAFEN basic digital skills programme",
+       "country_label": "Burundi",
+       "class": "csskills",
+       "platform": "",
+       "owner": "PAFEN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The PAFEN coordinator says in a LinkedIn post that PAFEN will soon launch a basic digital skills programme aiming to train 10,000 young people in under 12 months.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "PAFEN basic digital skills programme",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "PAFEN's prize to startups is a prize on its own; no startup law or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "A comment on the PAFEN coordinator's post from the KIT Digital Innovation Hub thanks PAFEN for its investment in the innovation ecosystem; no programme or cohort is stated.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "KIT Digital Innovation Hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

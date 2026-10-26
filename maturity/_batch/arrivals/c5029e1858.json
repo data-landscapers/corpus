@@ -1,0 +1,13 @@
+{"slug": "2024-02-09-nga-cbn-issues-exposure-draft-of-the-revised-consumer-protection-regulatio", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A consumer-protection draft, not a payments mandate."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "protection", "aspect": "rules", "value": "draft", "fact": "The Central Bank of Nigeria issued an exposure draft of revised Consumer Protection Regulations 2.0 to address consumer risks from fintech delivery of financial services, with comments due 29 February 2024.", "as_of": "2024-02-09", "date_precision": "day", "system": "CBN Consumer Protection Regulations 2.0 (draft)", "class": "protection"}
+], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on international standards."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account-holding survey figure."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

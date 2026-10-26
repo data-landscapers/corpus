@@ -1,0 +1,9 @@
+{"slug": "2026-05-21-civ-renforcer-les-competences-en-ia-des-fonctionnaires-ivoiriens", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A training report; no AI rule or authority stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Training only; no government AI system stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Training only; no sector AI tool stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Training only; no local AI build stated."}}},
+"civilserviceskills": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "UNESCO, with the education and higher-education ministries and EU funding, ran two AI trainings in Abidjan on 15-17 and 21-23 April 2026 for more than 60 officials of the Ecole Normale Superieure and the Ecole Nationale d'Administration.", "as_of": "2026-04", "date_precision": "month", "system": "UNESCO AI trainings at ENS and ENA", "class": "csskills"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,13 @@
+{"slug": "2026-07-08-tza-bot-complaint-system-cuts-financial-disputes", "studies": {
+"businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The Bank of Tanzania is said to supervise payment systems including mobile money platforms, but licensing is not stated."}}},
+"consumerprotection": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The Bank of Tanzania's financial consumer protection department takes unresolved complaints about banks, microfinance institutions and mobile money providers through a digital screening system that sends customers to their provider first; it received over 1,500 complaints in 2024.", "as_of": "2026-07-08", "date_precision": "day", "system": "Bank of Tanzania digital complaints platform", "class": "protection"}
+], "systems": [{"system": "Bank of Tanzania digital complaints platform", "country_label": "Tanzania", "class": "protection", "platform": "digital screening system", "owner": "Bank of Tanzania", "tiers": ""}], "note": ""}}},
+"crossborderpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"feedbackportals": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The platform takes complaints about financial providers, not public services."}}},
+"g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No account-holding survey figure."}}},
+"retailpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Mobile money platforms are named only as supervised; no service is described."}}},
+"revenuecollection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

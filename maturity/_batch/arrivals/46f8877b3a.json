@@ -1,0 +1,134 @@
+{
+ "slug": "2025-12-17-ago-afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "The BNA publishes a ranking of complaints in the Angolan financial system, recording 10,707 complaints in Q2 2025.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "BNA complaints ranking",
+       "class": "protection"
+      },
+      {
+       "sub_indicator": "protection",
+       "aspect": "enforced",
+       "value": "enforced",
+       "fact": "The BNA ranking puts Afrimoney at 1,138 complaints in Q2 2025, up 180.2% on Q1, with Unitelmoney at 935 and Paypay at 453.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "BNA complaints ranking",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Afrimoney, Unitelmoney and Paypay operate as non-bank digital money and payment platforms with customers filing complaints in Q2 2025.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Afrimoney",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Afrimoney",
+       "country_label": "Angola",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Africell",
+       "tiers": ""
+      },
+      {
+       "system": "Unitelmoney",
+       "country_label": "Angola",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Paypay",
+       "country_label": "Angola",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

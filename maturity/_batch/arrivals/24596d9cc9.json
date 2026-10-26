@@ -1,0 +1,43 @@
+{
+ "slug": "2025-02-26-tun-koica-tunisie-5-millions-de-dollars-pour-une-plateforme-d-e-learning",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "L'Economiste Maghrebin reports a KOICA-funded national e-learning platform with the Presidency of the Government and ENA, operational since June 2024, with four pilot modules including e-governance, offering training to public agents; no number trained is given.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "National e-learning platform (KOICA project)",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National e-learning platform",
+       "country_label": "Tunisie",
+       "class": "csskills",
+       "platform": "e-learning",
+       "owner": "Presidence du Gouvernement / ENA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Platform is for public agents and civil society; no national programme for the public stated."
+    }
+   }
+  }
+ }
+}

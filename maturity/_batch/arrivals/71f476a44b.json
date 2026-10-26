@@ -1,0 +1,25 @@
+{
+ "slug": "2026-03-11-zwe-zimbabwe-s-public-service-commission-psc-has-launched-a-nationwide-ser",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Public Service Commission launched nationwide E-Payslip Awareness and Training workshops under its GovPay programme, which had trained hundreds of HR, administration and payroll officers from ministries, departments and agencies in five provinces.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "GovPay E-Payslip training workshops",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

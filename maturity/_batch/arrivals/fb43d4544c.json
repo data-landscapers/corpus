@@ -1,0 +1,72 @@
+{
+ "slug": "2026-08-05-tza-govt-expands-open-source-technology-use",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "Daily News reports the ICT minister said more than 500 public servants have been trained in emerging technologies to design, develop and manage government digital systems.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Public servant training in emerging technologies",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Daily News reports the minister said government is expanding open-source technology across public institutions so that it owns and controls its digital infrastructure and protects critical government information.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "Government open-source expansion",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "x"
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Says local experts develop and manage government systems and staff were trained, but names no system run or built by government staff."
+    }
+   }
+  }
+ }
+}

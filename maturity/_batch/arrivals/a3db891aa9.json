@@ -1,0 +1,22 @@
+{"slug": "2026-03-01-bdi-burundi-embarks-on-a-full-digitalization-journey", "studies": {
+"authentication": {"countries": {"BDI": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "none", "fact": "The article reports the Master Plan for the Digitalization of Public Services (PDDSP 2023-2033) as noting the absence of verifiable digital ID systems in Burundi, and recommending an e-signature and authentication infrastructure.", "as_of": "2026-03", "date_precision": "month", "system": "", "class": "authentication"}], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"civilserviceskills": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only says civil servants have limited digital skills; no training stated."}}},
+"cybersecurity": {"countries": {"BDI": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "none", "fact": "The article reports the PDDSP master plan as noting the absence of a Computer Incident Response Team in Burundi.", "as_of": "2026-03", "date_precision": "month", "system": "", "class": "response"}], "systems": [], "note": ""}}},
+"datacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only the absence of a National Data Center and a plan for one; no statement about data centres for hire."}}},
+"dataprotectionlaw": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only a cybercrime law (Law No. 1/004 of 16 March 2022) is named; no data protection law stated."}}},
+"digitalskills": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only low citizen digital awareness is mentioned; no training stated."}}},
+"digitalstrategy": {"countries": {"BDI": {"facts": [], "systems": [{"system": "Plan Directeur de Digitalisation des Services Publics (PDDSP 2023-2033)", "country_label": "Burundi", "class": "other", "platform": "", "owner": "MINCOTIM", "tiers": ""}], "note": "The PDDSP is a strategy for digitalising public services, not a national digital strategy."}}},
+"ecommercelaw": {"countries": {"BDI": {"facts": [], "systems": [], "note": "The plan only recommends priority legislation; no e-commerce law stated."}}},
+"egovservices": {"countries": {"BDI": {"facts": [], "systems": [], "note": "A national e-government framework is only recommended; no service stated."}}},
+"gridreliability": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Power cuts mentioned without a count."}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only the absence of verifiable digital ID systems; no statement of a national ID system's state."}}},
+"localgov": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"nationaldatacentres": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Only the absence of a National Data Center and a plan for a National Integrated Data Center; nothing on data centres for hire."}}},
+"policyresearch": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"satellitebroadband": {"countries": {"BDI": {"facts": [{"sub_indicator": "satellite", "aspect": "service", "value": "sale", "fact": "The article says optic-fibre ISPs and satellite providers (Starlink, NT Global) drive Burundi's internet market.", "as_of": "2026-03", "date_precision": "month", "system": "Starlink", "class": "satellite"}], "systems": [], "note": ""}}}
+}}

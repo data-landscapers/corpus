@@ -1,0 +1,14 @@
+{"slug": "2025-07-22-mwi-stakeholder-comments-matrix-on-consumer-protection-bill-and-complaint", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "protection", "aspect": "rules", "value": "draft", "fact": "The Competition and Fair Trading Commission invited comments by 28 July 2025 on a draft Consumer Protection Bill and draft Complaints Management Mechanism Regulations, prepared under the AfDF-funded project to improve access to digital financial services; the notice describes a general consumer framework and does not name digital financial services rules.", "as_of": "2025-07-22", "date_precision": "day", "system": "Draft Consumer Protection Bill and Complaints Management Mechanism Regulations", "class": "protection"}
+], "systems": [], "note": "Scope for digital financial services not stated; no body for such complaints or enforcement stated."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"disabilityaccess": {"countries": {"MWI": {"facts": [], "systems": [], "note": "People living with disabilities named only as a target group of the project."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"refugees": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Displaced people named only as a target group of the project."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing stated."}}}
+}}

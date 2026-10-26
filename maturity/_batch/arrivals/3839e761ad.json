@@ -1,0 +1,8 @@
+{"slug": "2025-06-03-egy-mcit-nta-celebrate-fourth-cohort-graduation-of-digital-egypt-leaders-n", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not stated."}}},
+"civilserviceskills": {"countries": {"EGY": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "inservice", "fact": "MCIT and the National Training Academy said the fourth cohort of the fully funded Digital Egypt Leaders National Initiative, for non-ICT-specialist leaders in the state's administrative apparatus, had graduated, with more than 588 participants from various government entities graduated since inception.", "as_of": "2025-06-03", "date_precision": "day", "system": "Digital Egypt Leaders National Initiative", "class": "csskills"}], "systems": [{"system": "Digital Egypt Leaders National Initiative", "country_label": "Egypt", "class": "csskills", "platform": "", "owner": "MCIT and National Training Academy", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not stated."}}}
+}}

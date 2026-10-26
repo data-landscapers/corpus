@@ -1,0 +1,9 @@
+{"slug": "2025-01-01-dji-djibouti-hosts-high-level-workshop-on-digital-transformation-and-emerg", "studies": {
+"aiabuse": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aigovernment": {"countries": {"DJI": {"facts": [], "systems": [], "note": "AI discussed at a workshop only."}}},
+"aisectoral": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Not stated."}}},
+"civilserviceskills": {"countries": {"DJI": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Digital Economy and Innovation Minister Mariam Hamadou Ali cited the training of 400 public sector and civil society executives through Coursera as one of the government's initiatives, without naming the courses or giving a date.", "as_of": "2025", "date_precision": "year", "system": "Coursera training of executives", "class": "csskills"}], "systems": [], "note": ""}}},
+"startups": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Only a general commitment to startups and SMEs; no law, strategy or fund."}}},
+"techhubs": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Not stated."}}}
+}}

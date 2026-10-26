@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-03-caf-icasees-retraite-apurement-tabulation-rgph-4",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "ICASEES says the RGPH-4 census data has been collected and is in cleaning and tabulation at a 2-5 October 2026 retreat in Boali, after the CTIR committee reviewed first provisional results on 23-25 September 2026.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "RGPH-4",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RGPH-4",
+       "country_label": "RGPH-4",
+       "class": "census",
+       "platform": "Stata, SPSS, CSPro",
+       "owner": "ICASEES",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Census data cleaning and tabulation retreat; nothing stated on school internet."
+    }
+   }
+  }
+ }
+}

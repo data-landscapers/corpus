@@ -1,0 +1,11 @@
+{"slug": "2025-11-25-mar-strategie-cloud-2025-2030-le-maroc-trace-la-voie-pour-ses-administrati", "studies": {
+"cloudstrategy": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The ministry's director of cloud infrastructure, Salma Tazi, said the ministry has put in place the Cloud Strategy 2025-2030 roadmap, whose Cloud First Policy makes cloud the default for all public administrations and is backed by a circular of the head of government.", "as_of": "2025-11", "date_precision": "month", "system": "Cloud Strategy 2025-2030 / Cloud First Policy", "class": "policy"}],
+"systems": [{"system": "Cloud First Policy", "country_label": "Morocco", "class": "policy", "platform": "", "owner": "Ministry of Digital Transition", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No data centre in service is named."}}},
+"digitalsovereignty": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "LesEco reports Morocco's Cloud Strategy 2025-2030 and Cloud First Policy, a circular-backed default for public administrations within Digital Morocco 2030, are presented as pillars of digital sovereignty.", "as_of": "2025-11", "date_precision": "month", "system": "Cloud Strategy 2025-2030", "class": "sovereignty"}],
+"systems": [], "note": ""}}},
+"interoperabilitystandards": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A planned cloud centre of excellence is to write technical references; no standards are stated as drafted or published."}}},
+"nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No nationally owned data centre in service is named."}}}
+}}

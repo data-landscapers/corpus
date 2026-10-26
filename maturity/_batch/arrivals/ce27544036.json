@@ -1,0 +1,43 @@
+{
+ "slug": "2023-11-08-zwe-ict-ministry-signs-mou-to-promote-digital-literacy",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "NewsDay reports the ICT, Postal and Courier Services ministry signed an MoU with the Computer Society of Zimbabwe to fast-track civil servants' digital literacy certification.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "Civil servants' digital literacy certification (MoU with CSZ)",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the civil-service MoU is stated; the rest of the article is paywalled."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  }
+ }
+}

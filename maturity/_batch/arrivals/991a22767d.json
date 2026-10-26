@@ -1,0 +1,9 @@
+{"slug": "2026-09-14-egy-fra-otp-decision-2735-consumer-msme-finance", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Egypt's FRA says its rules (Decision 186 of 2024, amended by Decision 133 of 2026) require regulated non-bank finance firms to query the validity of customers' national-ID data and mobile-phone ownership.", "as_of": "2026-09-14", "date_precision": "day", "system": "FRA customer data verification system", "class": "authentication"}], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only private finance firms checking national-ID data; no public register stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Not mentioned beyond the national number being checked."}}}
+}}

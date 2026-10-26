@@ -1,0 +1,109 @@
+{
+ "slug": "2024-04-28-egy-president-sisi-inaugurates-egypt-s-1st-government-data-and-cloud-compu",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "President Sisi inaugurated Egypt's Government Data and Cloud Computing Center on 28 April 2024, which the report says also offers applications for start-ups and enterprises; no Tier is stated.",
+       "as_of": "2024-04-28",
+       "date_precision": "day",
+       "system": "Government Data and Cloud Computing Center",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Data and Cloud Computing Center",
+       "country_label": "Government Data and Cloud Computing Center",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Government of Egypt (MCIT)",
+       "tiers": ""
+      }
+     ],
+     "note": "Whether it rents space or computing to outside organisations is only implied by the offer of applications to start-ups and enterprises."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on health systems."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an internet speed rise and a wish to join the submarine cable network are stated; no route."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "owner",
+       "value": "national",
+       "fact": "The Government Data and Cloud Computing Center was inaugurated by President Sisi on 28 April 2024 and built by the state with the Ministry of Communications and Information Technology; the president said it cost billions of dollars.",
+       "as_of": "2024-04-28",
+       "date_precision": "day",
+       "system": "Government Data and Cloud Computing Center",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "The report says services of the Government Data and Cloud Computing Center are used by 50,000 public employees and that ministries, which each ran their own servers, are to be served by it.",
+       "as_of": "2024-04-28",
+       "date_precision": "day",
+       "system": "Government Data and Cloud Computing Center",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government Data and Cloud Computing Center",
+       "country_label": "Government Data and Cloud Computing Center",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Government of Egypt (MCIT)",
+       "tiers": ""
+      }
+     ],
+     "note": "For-hire service and Tier not stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Applications offered to start-ups are not a startup law, label or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on hubs or technology parks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{"slug":"2026-10-24-gab-gabon-digital-interview-notre-ambition-est-de-faire-de-libreville-la-capitale-af","studies":{
+"aiabuse":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The interview names AI only as a topic for African ministers to harmonise; no rule or authority is stated."}}},
+"aigovernment":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No government AI system is mentioned."}}},
+"aisectoral":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No sectoral AI tool is mentioned."}}},
+"aisystems":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No AI model, dataset or AI computing is mentioned."}}},
+"authentication":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The minister says only that ministries are working on digital identity, with no service authorised, contracted or piloted."}}},
+"birthidlink":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Civil status records and digital identity are named as separate digitalisation work; no link is stated."}}},
+"civilregister":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The minister says civil status records are being worked on for digitalisation, with no system procured, piloted or rolled out."}}},
+"digitaldivides":{"countries":{"GAB":{"facts":[{"sub_indicator":"ruralaccess","aspect":"programme","value":"underway","fact":"Minister Mark-Alexandre Doumba said more than 200 villages are still not connected to the internet and that a Universal Service Fund (Fonds du service universel) is being set up to give them access.","as_of":"2026-10-24","date_precision":"day","system":"Fonds du service universel","class":"ruralaccess"}],"systems":[{"system":"Fonds du service universel","country_label":"Universal Service Fund","class":"ruralaccess","platform":"","owner":"Ministry of Digital Economy","tiers":""}],"note":""}}},
+"domesticfinancing":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No budget line, amount or domestic-financing statement is given; the Universal Service Fund is named without a law or figure."}}},
+"idcoverage":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No ID enrolment count or share is stated."}}},
+"idfrombirth":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No number at birth is mentioned."}}},
+"idmaintenance":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No statement on who operates or maintains the ID system."}}},
+"idregisters":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No register keyed on the ID number is mentioned."}}},
+"idrobustness":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Digital identity is named only as work in progress; no system is procured, built or piloted."}}},
+"registry":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Civil status records are named only as being worked on for digitalisation; nothing on offices, events or how records are made."}}},
+"satellitebroadband":{"countries":{"GAB":{"facts":[],"systems":[],"note":"The minister says Starlink and Eutelsat will be authorised in the coming months; no licence is stated as granted."}}}
+}}

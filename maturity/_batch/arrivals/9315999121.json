@@ -1,0 +1,77 @@
+{
+ "slug": "2026-03-27-moz-capacitacao-reforca-competencias-digitais-no-sector-publico-em-makanet",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Communications and Digital Transformation held a 24-28 March 2026 training for staff of MEC, INTIC and the ministry on e-SuRA, CorreioGov, CloudGov and the Digital Signer.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "MCTD staff training on e-government tools",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training was for public-sector staff only."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Names the State Digital Transformation Strategy only as the framework of the course; no standing, text or period stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CorreioGov",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "CloudGov",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "e-SuRA",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "A training course, which is other; it does not say who runs the named systems."
+    }
+   }
+  }
+ }
+}

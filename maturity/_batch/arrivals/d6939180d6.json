@@ -1,0 +1,82 @@
+{
+ "slug": "2024-11-20-egy-mcit-146695-it-training-certificates-state-administrative-staff",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "The Deputy Minister of Communications and Information Technology said the ministry runs a plan for digital capacity building of leaders and staff of the state administrative apparatus and had trained most of them, with 146,695 training certificates issued.",
+       "as_of": "2024-11-20",
+       "date_precision": "day",
+       "system": "MCIT digital literacy and capacity-building plan",
+       "class": "csskills"
+      },
+      {
+       "sub_indicator": "csskills",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The Deputy Minister said the ministry had finished training the majority of staff and leaders across the state administrative apparatus, 146,695 certificates in all.",
+       "as_of": "2024-11-20",
+       "date_precision": "day",
+       "system": "MCIT digital literacy and capacity-building plan",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital literacy for villagers is described; no programme bringing internet access to rural areas or rural-urban use figures are stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "The Deputy Minister said the ministry's digital literacy initiatives had raised digital awareness and skills for 1,122,837 citizens, including about 93,494 in first-phase Decent Life villages.",
+       "as_of": "2024-11-20",
+       "date_precision": "day",
+       "system": "MCIT digital literacy initiatives",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Capacity building for citizens with disabilities is named in a plan, with no accessible service, rule or delivery stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

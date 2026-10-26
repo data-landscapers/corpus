@@ -1,0 +1,77 @@
+{
+ "slug": "2024-12-13-uga-analyzing-consumer-financial-complaints-in-uganda",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints to the Bank of Uganda cover financial products generally, not stated as digital financial services; the 66% figure is access to finance, not an account survey."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints to the Bank of Uganda cover financial products generally, not stated as digital financial services; the 66% figure is access to finance, not an account survey."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints to the Bank of Uganda cover financial products generally, not stated as digital financial services; the 66% figure is access to finance, not an account survey."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints to the Bank of Uganda cover financial products generally, not stated as digital financial services; the 66% figure is access to finance, not an account survey."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints to the Bank of Uganda cover financial products generally, not stated as digital financial services; the 66% figure is access to finance, not an account survey."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints to the Bank of Uganda cover financial products generally, not stated as digital financial services; the 66% figure is access to finance, not an account survey."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints to the Bank of Uganda cover financial products generally, not stated as digital financial services; the 66% figure is access to finance, not an account survey."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints to the Bank of Uganda cover financial products generally, not stated as digital financial services; the 66% figure is access to finance, not an account survey."
+    }
+   }
+  }
+ }
+}

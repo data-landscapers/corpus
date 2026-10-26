@@ -1,0 +1,12 @@
+{"slug":"2026-10-24-lbr-pul-condemns-governments-assault-on-freedom-of-information-and-transparency","studies":{
+"accesstoinformationlaw":{"countries":{"LBR":{"facts":[
+{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The Press Union of Liberia's president refers to the Freedom of Information Act as in operation, passed 16 years before the 2026 report, and says the Act is being undermined by a new civil service confidentiality agreement.","as_of":"2026-10-24","date_precision":"day","system":"Freedom of Information Act","class":"law"},
+{"sub_indicator":"law","aspect":"reach","value":"rules","fact":"The Press Union of Liberia says the Independent Information Commission is the statutory body charged with enforcing the Freedom of Information Act and that it publicly opposed the Civil Service Agency's confidentiality policy.","as_of":"2026-10-24","date_precision":"day","system":"Independent Information Commission","class":"law"}],
+"systems":[],"note":""}}},
+"civilserviceskills":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document states nothing on digital-skills training for civil servants."}}},
+"dataprotectionlaw":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document only says there is no comprehensive and enforceable data protection framework, which does not state that no law exists."}}},
+"opendatause":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Document says open-data practice is underdeveloped with limited dataset publication; names no portal or publishing body and does not say none publish."}}},
+"opendiscussion":{"countries":{"LBR":{"facts":[
+{"sub_indicator":"discussion","aspect":"debate","value":"criticised","fact":"The Press Union of Liberia, in a paper to a Governance Commission policy dialogue, publicly criticised the Civil Service Agency's Confidentiality and Non-Disclosure Agreement for civil servants and called for its withdrawal.","as_of":"2026-10-24","date_precision":"day","system":"Press Union of Liberia","class":"discussion"}],
+"systems":[],"note":""}}}
+}}

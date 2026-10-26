@@ -1,0 +1,17 @@
+{"slug": "2026-02-01-tgo-transformation-digitale-de-l-economie-togolaise-prodigit", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on AI rules."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The LuxDev project sheet for ProDigiT says 16 public executives were supported and that structured data science and digital skills pathways for the administration are in preparation.", "as_of": "2026-02", "date_precision": "month", "system": "ProDigiT", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "The LuxDev sheet for ProDigiT says the Togo Data Lab is operational and 993 people have been trained there.", "as_of": "2026-02", "date_precision": "month", "system": "Togo Data Lab", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"nonstatefinance": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Donor grants (Luxembourg, BMZ, EU) fund a government project, not private digital businesses."}}},
+"startups": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Fonds Start only has its bases laid; no law, labelling or financing stated."}}},
+"techhubs": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The LuxDev sheet for ProDigiT says the bases of the Djanta Tech Hub have been laid.", "as_of": "2026-02", "date_precision": "month", "system": "Djanta Tech Hub", "class": "hub"}
+], "systems": [{"system": "Djanta Tech Hub", "country_label": "Djanta Tech Hub", "class": "hub", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,19 @@
+{"slug": "2026-08-01-gin-termes-de-reference-recrutement-d-un-cabinet-pour-l-elaboration-de-la", "studies": {
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Digital identity named only as a strategy scope item."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"businesspayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "B2G payments listed only as a strategy scope item."}}},
+"centralbank": {"countries": {"GIN": {"facts": [{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The BCRG says its payment-infrastructure programme put in place the RTGS, the automated clearing house (ACP/ACH) and the securities settlement system.", "as_of": "2026-08", "date_precision": "month", "system": "ACP/ACH", "class": "oversight"}], "systems": [{"system": "RTGS", "country_label": "Guinea", "class": "other", "platform": "", "owner": "BCRG", "tiers": ""}, {"system": "ACP/ACH", "country_label": "Guinea", "class": "other", "platform": "", "owner": "BCRG", "tiers": ""}, {"system": "SSS", "country_label": "Guinea", "class": "other", "platform": "", "owner": "BCRG", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A consumer-protection framework is only a task for the hired firm; no rules drafted or in force stated."}}},
+"crossborderpayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Cross-border payments and regional links are listed only as scope items."}}},
+"g2ppayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "G2P listed only as a strategy scope item."}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Digital identity named only as a strategy scope item."}}},
+"paymentslaw": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Legal framework named only as a scope item; no law or rules stated."}}},
+"paymentsuptake": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"publicconsultation": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Stakeholder consultation is planned for the strategy, not held; the strategy is a payments one."}}},
+"retailpayments": {"countries": {"GIN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The BCRG says the rise of mobile money and e-money institutions is gradually transforming Guinea's payments landscape.", "as_of": "2026-08", "date_precision": "month", "system": "mobile money", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "P2G payments listed only as a scope item."}}}
+}}

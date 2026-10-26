@@ -1,48 +1,66 @@
 {
  "slug": "2025-11-26-dza-digitalisation-des-certificats-de-deces-90-medecins-en-formation",
  "studies": {
-  "cybersecurity": {
+  "addressregister": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "localgov": {
+  "businessregister": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "registry": {
+  "electoralregister": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "socialregistry": {
+  "landregister": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "taxregister": {
+  "populationregister": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CERT-DC",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Health and Population",
+       "tiers": "pilot in three hospitals in Oran"
+      }
+     ],
+     "note": "Document covers electronic cause-of-death medical certificates piloted in three Oran hospitals, not civil registration of births or deaths by a registrar."
     }
    }
   }

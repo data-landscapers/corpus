@@ -1,93 +1,66 @@
 {
  "slug": "2026-04-19-tun-l-hopital-mongi-slim-lance-la-plateforme-numerique-de-declaration-des",
  "studies": {
-  "authentication": {
+  "addressregister": {
    "countries": {
     "TUN": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "birthidlink": {
+  "businessregister": {
    "countries": {
     "TUN": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "civilregister": {
+  "electoralregister": {
    "countries": {
     "TUN": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "idcoverage": {
+  "landregister": {
    "countries": {
     "TUN": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "idfrombirth": {
+  "populationregister": {
    "countries": {
     "TUN": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document describes a hospital birth-declaration pilot with a health identifier, not a population register."
     }
    }
   },
-  "idmaintenance": {
+  "socialregistry": {
    "countries": {
     "TUN": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   },
-  "idregisters": {
+  "taxregister": {
    "countries": {
     "TUN": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "TUN": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "TUN": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  },
-  "schoolinternet": {
-   "countries": {
-    "TUN": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Document states nothing on this register."
     }
    }
   }

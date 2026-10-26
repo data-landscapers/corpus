@@ -1,0 +1,43 @@
+{
+ "slug": "2025-08-27-lby-labour-ministry-digital-skills-workshop-sirte",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Libya News Agency reports the Ministry of Labour and Rehabilitation held a several-day workshop on basic computer skills for its staff in Sirte, closing on 26 August 2025 with certificates.",
+       "as_of": "2025-08-26",
+       "date_precision": "day",
+       "system": "Ministry of Labour staff computer-skills workshop",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Workshop was for ministry staff only."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "A staff training workshop run by the IT department is other; no statement on who runs systems."
+    }
+   }
+  }
+ }
+}

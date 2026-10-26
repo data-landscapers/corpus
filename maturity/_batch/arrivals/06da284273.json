@@ -1,0 +1,72 @@
+{
+ "slug": "2025-07-14-uga-over-200-government-communicators-graduate-from-strategic-communicatio",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of ICT and National Guidance says it concluded, with MultiChoice Uganda, a strategic communications and digital skills training of 7-10 July 2025 for over 200 government communications officers, under a 2024 MoU on public-sector digital literacy.",
+       "as_of": "2025-07-10",
+       "date_precision": "day",
+       "system": "MoICT and MultiChoice Uganda training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training was for government communications officers only."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The Ministry of ICT and National Guidance says it held a graduation ceremony on 11 July 2025 at the National ICT Innovation Hub in Nakawa; no programme for startups is stated.",
+       "as_of": "2025-07-11",
+       "date_precision": "day",
+       "system": "National ICT Innovation Hub, Nakawa",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

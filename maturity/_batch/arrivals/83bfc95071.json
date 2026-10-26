@@ -1,0 +1,62 @@
+{
+ "slug": "2026-10-23-egy-helping-young-minds-across-mena-to-explore-the-online-world-safely",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Abtal Al Internet is a school-classroom online-safety curriculum run by an NGO with a Google grant; not a government programme for civil servants."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Abtal Al Internet is a school-classroom online-safety curriculum run by an NGO with a Google grant; not a government programme for civil servants."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Abtal Al Internet is a school-classroom online-safety curriculum run by an NGO with a Google grant; not a government programme for civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Curriculum is for school students via an NGO with a Google.org grant; a school curriculum is other, not a government programme for the public."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Curriculum is for school students via an NGO with a Google.org grant; a school curriculum is other, not a government programme for the public."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Curriculum is for school students via an NGO with a Google.org grant; a school curriculum is other, not a government programme for the public."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Names an online-safety curriculum for school classrooms; no internet-in-schools figure and no compulsory national subject stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Names an online-safety curriculum for school classrooms; no internet-in-schools figure and no compulsory national subject stated."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names an online-safety curriculum for school classrooms; no internet-in-schools figure and no compulsory national subject stated."
+    }
+   }
+  }
+ }
+}

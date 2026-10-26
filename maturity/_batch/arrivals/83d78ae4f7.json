@@ -1,0 +1,200 @@
+{
+ "slug": "2026-10-22-uga-uganda-s-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "Document cites the 2024 National Population and Housing Census as showing 43.3% of Ugandans aged 10+ own a mobile phone, so a census was counted in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "2024 National Population and Housing Census",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "UCC, through UCUSAF, reports programme records for 2020-2026 of more than 13,000 women and over 11,000 rural community participants trained in digital skills, and more than 5,000 MSMEs.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "UCUSAF digital skills programmes",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UCUSAF digital skills programmes",
+       "country_label": "Uganda",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Uganda Communications Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "ownership",
+       "aspect": "owners",
+       "value": "survey:43.3",
+       "fact": "The 2024 National Population and Housing Census showed 43.3% of Ugandans aged 10 and above owned a mobile phone (53.7% urban, 37% rural).",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "2024 National Population and Housing Census",
+       "class": "ownership"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Uganda."
+    }
+   }
+  }
+ }
+}

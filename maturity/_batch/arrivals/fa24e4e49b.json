@@ -1,0 +1,156 @@
+{
+ "slug": "2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Mauritania."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Mauritania."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Government data centre (Ministry of Digital Transformation)",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "hyperconverged infrastructure",
+       "owner": "Ministry of Digital Transformation and Modernisation of Administration",
+       "tiers": ""
+      }
+     ],
+     "note": "The ministry data centre is described as hosting government servers, not as renting to other organisations; no Tier stated."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "Minister of Digital Transformation told the National Assembly that all government servers were moved into a data centre the ministry built to international standards.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "Ministry data centre",
+       "class": "sovereignty"
+      },
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Minister said Mauritania launched its first national cloud days earlier, ending reliance on foreign clouds for digital services.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "National cloud",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National cloud",
+       "country_label": "Mauritania",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Minister told the National Assembly that several digital services are now available to citizens; no count or portal named.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Mauritania."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Mauritania."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "Minister said all government servers were moved into a data centre the ministry created, hosting data of various government sectors.",
+       "as_of": "2026-07-02",
+       "date_precision": "day",
+       "system": "Ministry data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Government data centre (Ministry of Digital Transformation)",
+       "country_label": "Mauritania",
+       "class": "datacentre",
+       "platform": "hyperconverged infrastructure",
+       "owner": "Ministry of Digital Transformation and Modernisation of Administration",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Mauritania."
+    }
+   }
+  }
+ }
+}

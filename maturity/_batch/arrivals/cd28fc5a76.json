@@ -1,0 +1,166 @@
+{
+ "slug": "2026-10-22-xaf-icbc-standard-bank-rmb-payments-10-measures",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CIPS (Cross-border Interbank Payment System)",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "China",
+       "tiers": ""
+      }
+     ],
+     "note": "Standard Bank group's RMB clearing role and CIPS use are a commercial bank service, not a named corridor in service for the country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study for this country."
+    }
+   }
+  }
+ }
+}

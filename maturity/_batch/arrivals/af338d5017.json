@@ -1,0 +1,97 @@
+{
+ "slug": "2026-01-01-mli-avis-a-manifestation-d-interet-n02-2026-dfc-smtd-sa-recrutement-d-un-c",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "SMTD-SA says it already runs an OpenStack public cloud with a self-service customer portal (a Bamako zone) and is seeking a firm to extend it to the two new Senou and Kati data centres as a multi-region platform; no Tier is stated.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "SMTD-SA OpenStack cloud",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SMTD-SA OpenStack cloud",
+       "country_label": "Offre Cloud SMTD-SA",
+       "class": "datacentre",
+       "platform": "OpenStack",
+       "owner": "Societe Malienne de Transmission et de Diffusion (SMTD-SA)",
+       "tiers": ""
+      }
+     ],
+     "note": "The Senou and Kati data centres are new and not yet in commercial service; the notice carries no issue date, year inferred."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a data localisation rule."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on national ID."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Extending the operator's own ISO 27001 policies is a company certificate, which places nothing."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice does not state who owns SMTD-SA or the two national data centres, nor that government data is hosted in them."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on police station records."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a national standards body."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on school internet."
+    }
+   }
+  }
+ }
+}

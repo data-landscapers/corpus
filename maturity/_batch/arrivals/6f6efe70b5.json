@@ -1,0 +1,8 @@
+{"slug": "2026-05-11-egy-unesco-ai-literacy-training-civil-servants", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Training touched bias and ethics; no rule or authority stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"EGY": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "UNESCO Egypt with the Ministry of Communications and Information Technology, funded by the European Commission, held a three-part AI literacy training series for more than 90 civil servants from 25 ministries between March and May 2026.", "as_of": "2026-05", "date_precision": "month", "system": "AI Literacy training for Civil Servants", "class": "csskills"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data protection law stated."}}}
+}}

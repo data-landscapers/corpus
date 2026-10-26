@@ -1,0 +1,23 @@
+{"slug":"2026-10-23-zwe-zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud","studies":{
+"aiabuse":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Charter and a regulatory committee still forming; no rule or designated authority stated."}}},
+"aigovernment":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"ailaw":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"An AI Act is only targeted for the end of next year; no draft named."}}},
+"aisectoral":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"aistrategy":{"countries":{"ZWE":{"facts":[{"sub_indicator":"strategy","aspect":"standing","value":"adopted","fact":"ICT Minister Tatenda Mavetera said on 21 October 2026 that Cabinet's Committee on National Development had approved the National AI Charter that morning, setting regulations, ethics and governance for AI adoption, and said 'we have a policy, we have a Charter'.","as_of":"2026-10-21","date_precision":"day","system":"National AI Charter","class":"strategy"}],"systems":[{"system":"National AI Charter","country_label":"National AI Charter","class":"strategy","platform":"","owner":"Ministry of ICT, Postal and Courier Services","tiers":""}],"note":""}}},
+"aisystems":{"countries":{"ZWE":{"facts":[{"sub_indicator":"localai","aspect":"build","value":"underway","fact":"Minister Mavetera said a 'Penguin AI' project to create local datasets for AI systems would be launched before December 2026.","as_of":"2026-10-21","date_precision":"day","system":"Penguin AI","class":"localai"}],"systems":[],"note":""}}},
+"broadbandstrategy":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"businesspayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"centralbank":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"consumerprotection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"crossborderpayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"datagovernance":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"datalocalisation":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"dataprotectionlaw":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Only a general remark on protecting personal information; no law stated."}}},
+"digitalidlaw":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"digitalstrategy":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"g2ppayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"ictstrategy":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"paymentsuptake":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"retailpayments":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}},
+"revenuecollection":{"countries":{"ZWE":{"facts":[],"systems":[],"note":"Nothing stated."}}}
+}}

@@ -1,0 +1,99 @@
+{
+ "slug": "2025-04-28-mwi-fintech-push-spurs-rbm-to-rethink-monetary-tools",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "drafting",
+       "fact": "The Reserve Bank of Malawi says it is developing a comprehensive fintech regulatory framework.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "RBM fintech regulatory framework",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "draft",
+       "fact": "The RBM says its fintech regulatory framework under development is meant to ensure consumer protection, data privacy and risk mitigation.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "RBM fintech regulatory framework",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

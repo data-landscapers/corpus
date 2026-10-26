@@ -1,0 +1,133 @@
+{
+ "slug": "2026-10-13-bfa-protection-des-consommateurs-la-saisine-de-l-observatoire-de-la-qualit",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "The OQSF-BF, housed in the state agency ANPFI, mediates free of charge disputes with banks, microfinance institutions, insurers and e-money issuers, and says it has handled more than 220 cases since 2022 with about 92% settled amicably.",
+       "as_of": "2026-10-13",
+       "date_precision": "day",
+       "system": "Observatoire de la qualité des services financiers (OQSF-BF)",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Observatoire de la qualité des services financiers (OQSF-BF)",
+       "country_label": "Burkina Faso",
+       "class": "protection",
+       "platform": "",
+       "owner": "Agence nationale de promotion de la finance inclusive (ANPFI)",
+       "tiers": ""
+      }
+     ],
+     "note": "Case count covers all financial services, so not an enforcement figure."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The OQSF-BF takes financial-services disputes, not complaints about public services."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Burkina Faso."
+    }
+   }
+  }
+ }
+}

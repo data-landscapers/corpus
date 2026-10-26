@@ -1,0 +1,14 @@
+{"slug": "2025-06-06-moz-consulta-publica-sobre-a-proposta-de-revisao-do-aviso-n-o-9-gbm-2020-d", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "A complaints-handling regulation, not a payments mandate."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "A general complaints-handling regulation; digital financial services are not named."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"eparticipation": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "eparticipation", "aspect": "online", "value": "asked", "fact": "Banco de Moçambique posted on its website a public consultation on a proposed revision of Aviso 9/GBM/2020, its complaints-handling regulation, with the consultation documents linked.", "as_of": "2025-06-06", "date_precision": "day", "system": "Banco de Moçambique public consultation", "class": "eparticipation"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No account-holding survey figure."}}},
+"publicconsultation": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The regulation consulted on is not a named digital law or policy."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

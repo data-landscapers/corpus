@@ -1,0 +1,7 @@
+{"slug": "2026-02-01-lso-cbl-tightens-financial-customer-protection-efforts", "studies": {
+"consumerprotection": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "A Central Bank of Lesotho official said financial service providers are required to lend responsibly and safeguard customer information under the Financial Consumer Protection Act of 2022, and that the bank's Financial Consumer Protection Division will supervise banks, insurers, microfinance institutions and money transfer services under a market conduct framework it is finalising.", "as_of": "2026-02", "date_precision": "month", "system": "Financial Consumer Protection Act 2022", "class": "protection"},
+{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The Central Bank of Lesotho's Financial Consumer Protection Division handles and resolves financial complaints, and the bank plans to train its staff in complaints data analysis.", "as_of": "2026-02", "date_precision": "month", "system": "CBL Financial Consumer Protection Division", "class": "protection"}],
+"systems": [{"system": "CBL Financial Consumer Protection Division", "country_label": "Lesotho", "class": "protection", "platform": "", "owner": "Central Bank of Lesotho", "tiers": ""}], "note": ""}}},
+"disabilityaccess": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Persons with disabilities appear only as a group protected by the Act; nothing on information or digital services."}}}
+}}

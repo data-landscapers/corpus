@@ -1,0 +1,15 @@
+{"slug": "2026-10-22-cod-rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance", "studies": {
+"authentication": {"countries": {"COD": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "A ministerial arrete of 19 October 2026 named a head and a deputy for the missions of the Autorite nationale de certification electronique (ANCE), described as part of its effective setting-up; the authority, provided for by the 2023 Code du numerique, had not yet been established.", "as_of": "2026-10-19", "date_precision": "day", "system": "ANCE", "class": "authentication"}], "systems": [{"system": "ANCE (Autorite nationale de certification electronique)", "country_label": "DR Congo", "class": "authentication", "platform": "", "owner": "Ministry of Digital Economy", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"dataexchange": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"dataprotectionauthority": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"dataprotectionlaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"digitalidlaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "The Code du numerique is named only for the certification authority; no digital ID rule stated."}}},
+"ecommercelaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "The article does not say what the 2023 Code gives electronic transactions or signatures legal effect."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"interoperabilitylaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

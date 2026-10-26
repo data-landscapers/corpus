@@ -1,0 +1,14 @@
+{
+ "slug": "2026-04-17-econet-ai-launch-cassava-compute",
+ "studies": {
+  "datalocalisation": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "A company's compute may sit outside Zimbabwe; no government rule on keeping data in the country stated."
+    }
+   }
+  }
+ }
+}

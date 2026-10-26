@@ -1,0 +1,9 @@
+{"slug": "2026-05-01-nam-nipam-bulletin-may-2026", "studies": {
+"aiabuse": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aigovernment": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisectoral": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisystems": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not stated."}}},
+"civilserviceskills": {"countries": {"NAM": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "NIPAM's May 2026 bulletin says it held its first Executive Readiness for AI in the public sector seminar on 12 May 2026, with more than 100 participants from public and private institutions, as part of plans to introduce structured three- to five-day AI training programmes for the public sector.", "as_of": "2026-05-12", "date_precision": "day", "system": "NIPAM Executive Readiness for AI in the Public Sector seminar", "class": "csskills"}], "systems": [], "note": ""}}},
+"localgov": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not stated."}}},
+"publicconsultation": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Not stated."}}}
+}}

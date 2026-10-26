@@ -1,0 +1,9 @@
+{"slug": "2026-05-01-eth-insa-hosts-discussion-forum-on-the-national-cloud-security-governance", "studies": {
+"cloudstrategy": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "The Information Network Security Administration (INSA) held an internal forum on the proposed National Cloud Security Governance Framework (NCSGF) in 2026.", "as_of": "2026-05", "date_precision": "month", "system": "National Cloud Security Governance Framework", "class": "policy"}],
+"systems": [{"system": "National Cloud Security Governance Framework", "country_label": "Ethiopia", "class": "policy", "platform": "", "owner": "INSA", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "INSA is named but no creation, incident response or figures are stated."}}},
+"datacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"digitalsovereignty": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Sovereignty is mentioned only in general terms as a reason for the proposed cloud security framework."}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No data centre stated."}}}
+}}

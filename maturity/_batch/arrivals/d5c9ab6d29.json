@@ -1,0 +1,16 @@
+{"slug": "2025-07-31-ben-benin-un-nouveau-portail-en-ligne-pour-les-plaintes-financieres", "studies": {
+"businesspayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"centralbank": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The national complaints mechanism is said not to replace the BCEAO's; no payments mandate, licensing or switch stated."}}},
+"consumerprotection": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The Observatory for the Quality of Financial Services (OQSF), created by decree in 2020, presented an online portal on 29 July 2025 to receive and handle complaints from financial-sector clients, including e-money issuers' customers, with a mediation role.", "as_of": "2025-07-29", "date_precision": "day", "system": "OQSF online complaints portal", "class": "protection"}
+], "systems": [{"system": "OQSF online complaints portal", "country_label": "Benin", "class": "protection", "platform": "web portal", "owner": "OQSF, Ministry of Economy and Finance", "tiers": ""}], "note": "No complaint figures or sanctions stated."}}},
+"crossborderpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"disabilityaccess": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"feedbackportals": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The portal takes complaints against financial providers, not public services."}}},
+"g2ppayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"paymentslaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on payments law or e-money rules."}}},
+"paymentsuptake": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"refugees": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"retailpayments": {"countries": {"BEN": {"facts": [], "systems": [], "note": "E-money issuers named only as complaint focal points; no service status stated."}}},
+"revenuecollection": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing stated."}}}
+}}

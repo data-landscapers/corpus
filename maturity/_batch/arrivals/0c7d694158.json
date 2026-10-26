@@ -1,0 +1,13 @@
+{"slug": "2025-07-01-gha-embrace-digital-reforms-for-rapid-technological-advancementcommunicati", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI rule or authority stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"GHA": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Communication Minister Samuel Nartey George announced an initiative to train 200,000 civil servants in AI, digital governance and coding under the One Million Coders Programme.", "as_of": "2025-07", "date_precision": "month", "system": "One Million Coders Programme", "class": "csskills"}], "systems": [], "note": ""}}},
+"dataprotectionauthority": {"countries": {"GHA": {"facts": [{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Data Protection Commission, headed by Executive Director Dr Arnold Kavaarpuo, spoke at the 2025 Civil Service Week lecture in Accra.", "as_of": "2025-07", "date_precision": "month", "system": "Data Protection Commission", "class": "authority"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No law, regulation or decision stated."}}},
+"digitalskills": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Training named is for civil servants only."}}},
+"digitalstrategy": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No national digital strategy named."}}},
+"itcapacity": {"countries": {"GHA": {"facts": [], "systems": [], "note": "IT teams in every MDA under NITA are only proposed; no running system or cadre stated."}}},
+"schoolinternet": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No school internet figure or curriculum statement."}}}
+}}

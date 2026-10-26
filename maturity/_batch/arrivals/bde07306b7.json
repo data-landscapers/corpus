@@ -1,0 +1,52 @@
+{
+ "slug": "2025-07-24-civ-cote-d-ivoire-aip-203-fonctionnaires-et-agents-de-l-etat-de-l-agneby-t",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "The Soci\u00e9t\u00e9 nationale de d\u00e9veloppement informatique (SNDI) trained 203 state officials in Agn\u00e9by-Tiassa in IT tools from 17 June to 23 July 2025, and its director general said more than 31,000 officials nationally have had this training.",
+       "as_of": "2025-07-23",
+       "date_precision": "day",
+       "system": "SNDI IT tools training for state officials",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The training is said to reduce the digital divide in skills; no rural internet programme is stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "SNDI is named only as a trainer of officials; no systems it runs for government are stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

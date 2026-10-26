@@ -1,0 +1,13 @@
+{"slug": "2026-04-16-tgo-lancement-effectif-du-programme-certifiant-en-data-science-en-partenar", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Document is a data science course launch; says nothing on AI rules."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No government AI system stated; a training course only."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Training course only, no AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Togo's Ministry of Public Service Efficiency and Digital Transformation, with GIZ and Simplon, started a six-week data science certification course at the Togo Data Lab on 14 April 2026 for public administration professionals, aiming at 60 civil servants among 260 trainees.", "as_of": "2026-04-14", "date_precision": "day", "system": "Programme certifiant en Data Science (Togo Data Lab, Simplon)", "class": "csskills"}
+], "systems": [{"system": "Programme certifiant en Data Science", "country_label": "Togo Data Lab", "class": "csskills", "platform": "", "owner": "MESPTN with GIZ and Simplon", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Togo's digital ministry and GIZ launched a Simplon data science certification at the Togo Data Lab, with a first cohort of students and young professionals from 13 April 2026, targeting 260 local trainees.", "as_of": "2026-04-13", "date_precision": "day", "system": "Programme certifiant en Data Science (Togo Data Lab, Simplon)", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"ictjobs": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No employment or youth unemployment figure stated."}}}
+}}

@@ -1,0 +1,13 @@
+{"slug": "2026-03-16-bfa-journee-mondiale-des-droits-des-consommateurs-l-abce-appelle-au-renfor", "studies": {
+"businesspayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"centralbank": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"consumerprotection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Cites general competition, advertising and electronic transactions laws and calls for better complaint handling; no digital financial services rule, body or enforcement stated."}}},
+"crossborderpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"dataprotectionlaw": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The consumers' association ABCE cites law n°001-2021/AN of 30 March 2021 on protection of persons in personal data processing as part of Burkina Faso's legal framework.", "as_of": "2026-03-16", "date_precision": "day", "system": "Law n°001-2021/AN", "class": "general"}
+], "systems": [], "note": "No authority, regulations or application stated."}}},
+"g2ppayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"paymentsuptake": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"retailpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Mobile money mentioned in general terms only."}}},
+"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing stated."}}}
+}}

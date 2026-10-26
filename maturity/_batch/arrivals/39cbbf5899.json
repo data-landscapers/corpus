@@ -1,0 +1,17 @@
+{"slug": "2025-06-18-lby-central-bank-of-libya-officially-launches-the-website-for-the-instant", "studies": {
+"businesspayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Central Bank of Libya announced the official launch of the website of its LYPay instant payment service, which lists the participating banks.", "as_of": "2025-06-18", "date_precision": "day", "system": "LYPay", "class": "oversight"}
+], "systems": [{"system": "LYPay", "country_label": "Libya", "class": "other", "platform": "instant payment service", "owner": "Central Bank of Libya", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The Central Bank of Libya's LYPay instant payment website includes a platform for submitting complaints and inquiries.", "as_of": "2025-06-18", "date_precision": "day", "system": "LYPay complaints and inquiries platform", "class": "protection"}
+], "systems": [], "note": ""}}},
+"crossborderpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"feedbackportals": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "feedback", "aspect": "channel", "value": "underway", "fact": "The Central Bank of Libya launched the LYPay website with an online platform for submitting complaints and inquiries about the instant payment service; no case count is given.", "as_of": "2025-06-18", "date_precision": "day", "system": "LYPay complaints and inquiries platform", "class": "feedback"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No account-holding survey figure."}}},
+"retailpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Wallets and mobile money are not mentioned."}}},
+"revenuecollection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

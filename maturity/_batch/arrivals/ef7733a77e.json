@@ -1,0 +1,24 @@
+{"slug": "2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud", "studies": {
+"cloudstrategy": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Tunisia's communications technologies ministry said the G-Cloud and N-Cloud labelling system implements Decree-Law 2023-17 of 11 March 2023 and the minister's decision of 13 September 2023 setting the procedures and conditions for awarding the labels.", "as_of": "2023-09-13", "date_precision": "day", "system": "G-Cloud and N-Cloud labels", "class": "policy"},
+{"sub_indicator": "policy", "aspect": "use", "value": "named", "fact": "The National Cybersecurity Agency awarded the government cloud (G-Cloud) label to Standard Sharing Software (3S) and EO Data Center in July 2024, after Next Step IT received the first N-Cloud label in April 2024.", "as_of": "2024-07-11", "date_precision": "day", "system": "G-Cloud label", "class": "policy"}],
+"systems": [{"system": "G-Cloud label", "country_label": "Tunisia", "class": "policy", "platform": "", "owner": "Agence Nationale de la Cybersecurite", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The article states Tunisia's National Cybersecurity Agency (ANCS) awards the N-Cloud and G-Cloud labels under Decree-Law 2023-17 of 11 March 2023 on cybersecurity.", "as_of": "2024-07", "date_precision": "month", "system": "Agence Nationale de la Cybersecurite", "class": "response"}],
+"systems": [{"system": "Agence Nationale de la Cybersecurite (ANCS)", "country_label": "Tunisia", "class": "response", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "EO Data Center received the G-Cloud label in July 2024 as a Tunisian hosting provider supplying cloud services to public structures.", "as_of": "2024-07-11", "date_precision": "day", "system": "EO Data Center", "class": "datacentre"}],
+"systems": [{"system": "EO Data Center", "country_label": "Tunisia", "class": "datacentre", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataexchange": {"countries": {"TUN": {"facts": [], "systems": [{"system": "national interoperability platform", "country_label": "Tunisia", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The platform is named only as a connection requirement for G-Cloud providers; its operation and links are not stated."}}},
+"digitalsovereignty": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The article says the G-Cloud and N-Cloud labelling system, part of the national digital strategy 2025, aims to guarantee digital sovereignty and build a sovereign cloud offer; G-Cloud providers must connect to the integrated administration network and the national interoperability platform.", "as_of": "2024-07", "date_precision": "month", "system": "G-Cloud and N-Cloud labels", "class": "sovereignty"}],
+"systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a general reference to international cybersecurity standards as a label condition; no standards body or named standard."}}},
+"nationaldatacentres": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "national", "aspect": "centre", "value": "service", "fact": "EO Data Center received the G-Cloud label in July 2024, a label open only to Tunisian hosting providers.", "as_of": "2024-07-11", "date_precision": "day", "system": "EO Data Center", "class": "datacentre"},
+{"sub_indicator": "national", "aspect": "owner", "value": "national", "fact": "The label is awarded to Tunisian hosting providers of the public or private sector; EO Data Center received it.", "as_of": "2024-07-11", "date_precision": "day", "system": "EO Data Center", "class": "datacentre"}],
+"systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"startups": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Start-ups mentioned only as general beneficiaries of cloud."}}},
+"techhubs": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

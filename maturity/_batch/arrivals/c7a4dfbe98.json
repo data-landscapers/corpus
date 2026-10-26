@@ -1,0 +1,23 @@
+{
+ "slug": "2025-03-29-ipdcp-demarre-activites",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns the data-protection authority's public awareness campaign; no civil-service digital training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Awareness campaign on data rights is not a digital-skills programme."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-22-xaf-icbc-standard-bank-rmb-payments-10-measures",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CIPS (Cross-border Interbank Payment System)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "China",
+   "tiers": ""
+  }
+ ],
+ "note": "Standard Bank group's RMB clearing role and CIPS use are a commercial bank service, not a named corridor in service for the country."
+}

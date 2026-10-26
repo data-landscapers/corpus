@@ -1,0 +1,11 @@
+{"slug": "2026-10-24-bwa-govt-moves-to-clear-omang-backlog", "studies": {
+"authentication": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"birthidlink": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"digitalidlaw": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idcoverage": {"countries": {"BWA": {"facts": [], "systems": [], "note": "A card backlog of 45,000 is not an enrolment share."}}},
+"idfrombirth": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Card shortages and staff shortages only; no statement of who runs or owns the system."}}},
+"idregisters": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idrobustness": {"countries": {"BWA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Botswana's Minister of Labour and Home Affairs said on 24 October 2026 that nearly half of the 45,000 Omang cards needed to clear the backlog had been produced, to restore the normal 14-day wait.", "as_of": "2026-10-24", "date_precision": "day", "system": "Omang", "class": "idsystem"}], "systems": [{"system": "Omang", "country_label": "Botswana", "class": "idsystem", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

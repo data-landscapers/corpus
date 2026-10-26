@@ -1,0 +1,15 @@
+{"slug": "2025-10-30-sen-numerique-transparence-sur-les-tarifs-prise-en-charge-des-reclamations", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on the central bank's role."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The executive secretary of Senegal's Observatoire de la Qualité des Services Financiers (OQSF) writes that mobile money users can seek redress from a third party such as the OQSF when a provider does not resolve a problem; in its 2022 survey with CGAP only 1% did.", "as_of": "2022-10", "date_precision": "month", "system": "OQSF", "class": "protection"}
+], "systems": [{"system": "OQSF (Observatoire de la Qualité des Services Financiers)", "country_label": "Senegal", "class": "protection", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"localgov": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The survey covers mobile money users only, not adults."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "An OQSF-CGAP survey of 1,517 mobile money users in September-October 2022 found 98% had used digital financial services in the past 30 days, for deposits, withdrawals, transfers, bill and merchant payments.", "as_of": "2022-10", "date_precision": "month", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-22-cog-administration-fiscale-les-animateurs-du-projet-sfec-echangent-avec-les-chefs-de",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Congo."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Congo."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Congo."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SFEC (Systeme de facturation electronique certifie)",
+       "country_label": "Congo",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction generale des impots et domaines",
+       "tiers": ""
+      }
+     ],
+     "note": "SFEC is certified e-invoicing, deployed since 1 August 2026 with 1,335 companies connected; no electronic payment or filing of tax is stated."
+    }
+   }
+  }
+ }
+}

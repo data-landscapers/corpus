@@ -1,0 +1,8 @@
+{"slug": "2026-10-09-caf-icasees-mission-appui-banque-mondiale-hiswaca-sop2", "studies": {
+"admindata": {"countries": {"CAF": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "The World Bank support mission of 7-8 October 2026 to ICASEES on the HISWACA-SOP2 project (P180085) discussed the development of administrative statistics of education and higher education among the project's economic statistics work.", "as_of": "2026-10-08", "date_precision": "day", "system": "HISWACA-SOP2", "class": "admin"}], "systems": [], "note": ""}}},
+"censuses": {"countries": {"CAF": {"facts": [{"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "ICASEES held a retreat at Boali on 2-5 October 2026 to clean and tabulate the data of the fourth general population and housing census (RGPH-4); no results are stated as published.", "as_of": "2026-10-05", "date_precision": "day", "system": "RGPH-4", "class": "census"}], "systems": [{"system": "RGPH-4", "country_label": "RGPH-4", "class": "census", "platform": "", "owner": "ICASEES", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Project supervision report; no civil-service digital-skills training stated."}}},
+"itcapacity": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Project supervision report; no government-run IT systems or staff stated."}}},
+"schoolinternet": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No school internet figure or curriculum stated."}}},
+"statisticsstrategy": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The national statistics strategy is only named as a discussion topic; no status stated."}}}
+}}

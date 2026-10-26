@@ -1,0 +1,26 @@
+{"slug": "2025-08-01-gha-protecting-your-rights-in-the-digital-space-what-every-mobile-money-mo", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Bank of Ghana appears only as complaints escalation body; no licensing, switch or PAPSS statement."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "The article by two M&O Law Consult lawyers states that the Payment Systems and Services Act, 2019 (Act 987) requires mobile money providers and agents to accept complaints free of charge, acknowledge within 3 working days and resolve within set days.", "as_of": "2025-08", "date_precision": "month", "system": "Payment Systems and Services Act, 2019 (Act 987)", "class": "protection"},
+{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The article states that a mobile money user dissatisfied with the provider's outcome can complain to the Bank of Ghana, which is obligated to resolve it within three days of receipt, and that complaints to the Bank are not always addressed promptly.", "as_of": "2025-08", "date_precision": "month", "system": "Bank of Ghana complaints escalation", "class": "protection"}
+], "systems": [], "note": "No fine, sanction or complaint figures stated."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"cybersecuritylaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article describes the Cybersecurity Act, 2020 (Act 1038) as the law protecting users from data breaches and mobile money scams and covering cybersecurity activities in Ghana.", "as_of": "2025-08", "date_precision": "month", "system": "Cybersecurity Act, 2020 (Act 1038)", "class": "law"}
+], "systems": [], "note": "No prosecution or figures stated."}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The article describes the Data Protection Act, 2012 (Act 843) as the law requiring telecoms to get consent, keep data accurate and secure, and allow access, correction and deletion, with a right to compensation for misuse.", "as_of": "2025-08", "date_precision": "month", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"}
+], "systems": [], "note": "No authority, regulations or application stated."}}},
+"disabilityaccess": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Persons with disabilities mentioned only as a group to be treated fairly; nothing on information or digital accessibility."}}},
+"ecommercelaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article describes the Electronic Transactions Act, 2008 (Act 772) as ensuring safety in electronic transactions including mobile money, and criminalising mobile wallet hacking and identity fraud.", "as_of": "2025-08", "date_precision": "month", "system": "Electronic Transactions Act, 2008 (Act 772)", "class": "law"}
+], "systems": [], "note": "No rules made under it or application stated."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article describes the Payment Systems and Services Act, 2019 (Act 987) as the law governing mobile money, electronic money issuers and payment service providers, with complaint-handling duties for them.", "as_of": "2025-08", "date_precision": "month", "system": "Payment Systems and Services Act, 2019 (Act 987)", "class": "law"}
+], "systems": [], "note": "No statement on non-bank licensing or connection rules."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Mobile money is the subject but no service licensing, interoperability or switch is stated."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

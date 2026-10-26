@@ -1,0 +1,15 @@
+{"slug": "2026-10-22-dza-habitat-inscription-de-545-000-logements-dans-le-plf-2027", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"egovservices": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The housing minister told the National Assembly finance committee that four housing-ministry services for citizens, operators and regulated professions (engineers, estate agents, promoters, contractor classification) had been added to the national digital services portal, and that AADL 3 registration, appeals and payment orders had been digitised.", "as_of": "2026-10-22", "date_precision": "day", "system": "national digital services portal", "class": "eservices"}
+], "systems": [{"system": "national digital services portal", "country_label": "Algeria", "class": "eservices", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only payments to the state are described, not government payments to people."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No account-holding survey figure."}}},
+"police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on police station records."}}},
+"populationregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only a housing file update is mentioned, not a population register."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Electronic payments to AADL are not a mobile money or e-money service."}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Housing instalments and rents paid to AADL are not taxes or fees."}}}
+}}

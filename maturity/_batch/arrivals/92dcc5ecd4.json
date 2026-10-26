@@ -1,0 +1,52 @@
+{
+ "slug": "2025-01-08-zwe-zimbabwe-targets-digital-transformation-with-national-data-centre-upgr",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The National Data Centre is a government facility; no hire or Tier stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "state",
+       "value": "hosted",
+       "fact": "Finance Minister Mthuli Ncube said the National Data Centre is the core component of the government private cloud, to be upgraded, with all new and old national systems to be migrated to it.",
+       "as_of": "2025-01-08",
+       "date_precision": "day",
+       "system": "National Data Centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Data Centre",
+       "country_label": "National Data Centre",
+       "class": "datacentre",
+       "platform": "Government private cloud",
+       "owner": "Government of Zimbabwe",
+       "tiers": ""
+      }
+     ],
+     "note": "The migration of national systems is stated as planned."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No backup site or place is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "slug": "2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Ministry of Information and Digitalisation's E-Government Director said that with partners such as the Tony Blair Institute it has provided digital skills training to over 120 civil servants.",
+       "as_of": "2024-09-20",
+       "date_precision": "day",
+       "system": "Civil servant digital skills training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Civil servant digital skills training",
+       "country_label": "Malawi",
+       "class": "csskills",
+       "platform": "",
+       "owner": "Ministry of Information and Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "Ministry of Information and Digitalisation said it has equipped 19,000 youths with digital literacy skills.",
+       "as_of": "2024-09-20",
+       "date_precision": "day",
+       "system": "Ministry digital literacy training",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ministry digital literacy training",
+       "country_label": "Malawi",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Ministry of Information and Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The E-Government Director said citizens increasingly interact with public institutions through the 'Boma Lathu' e-services portal; no count of services given.",
+       "as_of": "2024-09-20",
+       "date_precision": "day",
+       "system": "Boma Lathu",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Boma Lathu",
+       "country_label": "Malawi",
+       "class": "eservices",
+       "platform": "web portal",
+       "owner": "Ministry of Information and Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "A national e-justice conference is mentioned; no court case management system stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "The E-Government Director said the ministry piloted migration of non-tax revenue collection agencies to e-payment, starting with the National Registration Bureau.",
+       "as_of": "2024-09-20",
+       "date_precision": "day",
+       "system": "Non-tax revenue e-payment pilot",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Non-tax revenue e-payment pilot",
+       "country_label": "Malawi",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Ministry of Information and Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Malawi."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Start-up grants to hubs are named; no startup law or strategy or fund under one stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The ministry said it has supported 10 tech hubs with over $3 million in start-up grants; no programme or cohort described.",
+       "as_of": "2024-09-20",
+       "date_precision": "day",
+       "system": "Tech hub support",
+       "class": "hub"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

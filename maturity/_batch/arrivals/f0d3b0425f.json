@@ -1,0 +1,8 @@
+{"slug":"2026-09-10-gab-intelligence-artificielle-des-agents-de-l-etat-se-mettent-a-jour","studies":{
+"aiabuse":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Document states nothing on rules or an authority against AI harms."}}},
+"aigovernment":{"countries":{"GAB":{"facts":[],"systems":[],"note":"A training course on AI tools is not an AI system in service."}}},
+"aisectoral":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aisystems":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
+"civilserviceskills":{"countries":{"GAB":{"facts":[{"sub_indicator":"csskills","aspect":"training","value":"underway","fact":"Gabonactu reports that agents of the Treasury (DGCPT) took a three-day course on digital tools and artificial intelligence at the Centre Gabonais de l'Innovation, after officials of the Communication ministry and the Budget directorate (DGB) took it; no number trained is given.","as_of":"2026-09-10","date_precision":"day","system":"CGI digital and AI course for state agents","class":"csskills"}],"systems":[{"system":"CGI digital and AI course for state agents","country_label":"Gabon","class":"csskills","platform":"in-person at the CGI","owner":"Centre Gabonais de l'Innovation","tiers":""}],"note":""}}},
+"digitalskills":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Course is for state agents, not the public."}}}
+}}

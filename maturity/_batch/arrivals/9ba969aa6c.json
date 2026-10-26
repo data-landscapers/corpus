@@ -1,0 +1,70 @@
+{
+ "slug": "2024-05-01-civ-quelles-interventions-publiques-pour-remedier-aux-potentielles-defaill",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "ARTCI counts 27 data centres (30% public, 70% private) but does not state that any rents space or computing to others, nor any Tier."
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on budget lines or funds."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "content",
+       "fact": "ARTCI's May 2024 seminar deck says the Netflix cache is hosted at the national exchange point, and that moving the other global content providers' caches there from operators' data centres is under way.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "National internet exchange point",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on international fibre routes."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A national administration data centre with a supervision team is only under way; no government-run system is stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Eight public-sector data centres are listed (30%), with no statement that any is for hire, and a national administration data centre is only under way."
+    }
+   }
+  }
+ }
+}

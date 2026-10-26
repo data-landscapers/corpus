@@ -1,0 +1,18 @@
+{"slug": "2026-10-24-swz-govt-restores-13-online-services-website-still-down", "studies": {
+"cloudstrategy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No hosting or cloud policy stated."}}},
+"coresystems": {"countries": {"SWZ": {"facts": [{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "Eswatini's ICT ministry said on 23 October 2026 that the Integrated Financial Management Information System (IFMIS) was among 13 services restored after disruptions.", "as_of": "2026-10-23", "date_precision": "day", "system": "IFMIS", "class": "core"}], "systems": [{"system": "IFMIS", "country_label": "Eswatini", "class": "core", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No data centre for hire is stated."}}},
+"datalocalisation": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No localisation rule stated."}}},
+"disabilityaccess": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Only a grants system is named; no accessibility rule or delivery is stated."}}},
+"egovservices": {"countries": {"SWZ": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "Eswatini's ICT ministry said on 23 October 2026 that 13 government online services, including the Government in Your Hand platform and e-Visa, had been restored after disruptions.", "as_of": "2026-10-23", "date_precision": "day", "system": "Government in Your Hand", "class": "eservices"}], "systems": [{"system": "Government in Your Hand (GIYH)", "country_label": "Eswatini", "class": "eservices", "platform": "", "owner": "Ministry of ICT", "tiers": ""}, {"system": "e-Visa", "country_label": "Eswatini", "class": "eservices", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"health": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No health information system is stated."}}},
+"healthmis": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No health information system is stated."}}},
+"itcapacity": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The Royal Science and Technology Park is named as helping restore systems, but no in-house or outsourced staffing is stated."}}},
+"justice": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No court case system is stated."}}},
+"nationaldatacentres": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No data centre is stated."}}},
+"offsitebackup": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No backup site is stated."}}},
+"socialexchange": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "Social Registry", "country_label": "Eswatini", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "No data link between systems is stated."}}},
+"socialregistry": {"countries": {"SWZ": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "Eswatini's ICT ministry said on 23 October 2026 that the Social Registry was among 13 services restored after disruptions.", "as_of": "2026-10-23", "date_precision": "day", "system": "Social Registry", "class": "social"}], "systems": [{"system": "Social Registry", "country_label": "Eswatini", "class": "social", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"taxadmin": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No tax system is stated."}}},
+"techhubs": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Royal Science and Technology Park is named only as a restoration partner; no hub facts stated."}}}
+}}

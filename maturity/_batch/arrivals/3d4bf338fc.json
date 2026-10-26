@@ -1,14 +1,1 @@
-{
- "slug": "2025-06-23-mrt-la-population-totale-de-la-mauritanie-a-atteint-environ-5-millions-d-h",
- "studies": {
-  "censuses": {
-   "countries": {
-    "MRT": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-06-23-mrt-la-population-totale-de-la-mauritanie-a-atteint-environ-5-millions-d-h", "studies": {"admindata": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Census results release; no administrative-record statistics stated."}}}}}

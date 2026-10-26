@@ -1,0 +1,12 @@
+{"slug": "2026-10-19-gab-mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-2", "studies": {
+"businesspayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on procurement."}}},
+"centralbank": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Mediation is run by the CNEF under COBAC supervision; no central bank payments role stated."}}},
+"consumerprotection": {"countries": {"GAB": {"facts": [{"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "CEMAC Regulation 01/20 of 3 July 2020 on consumer protection for banking products and services, with a Prime Minister's decree of 21 March 2024 and two ministerial arrets of 7 January 2025, sets the financial mediation framework, covering payment institutions and mobile money disputes.", "as_of": "2025-01-07", "date_precision": "day", "system": "Mediation financiere (CNEF)", "class": "protection"}], "systems": [{"system": "Mediation financiere", "country_label": "Gabon", "class": "protection", "platform": "", "owner": "CNEF", "tiers": ""}], "note": "The mediation launch was scheduled for 26 October 2026 (forward notice; mediator named by arrete in June 2026), so no redress fact is recorded."}}},
+"crossborderpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Names only the consumer-protection regulation, not a payments law."}}},
+"paymentsuptake": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"regionallaw": {"countries": {"GAB": {"facts": [], "systems": [], "note": "CEMAC banking consumer-protection regulation is not stated to be digital law."}}},
+"retailpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Mobile money mentioned only as a dispute subject, no service described."}}},
+"revenuecollection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

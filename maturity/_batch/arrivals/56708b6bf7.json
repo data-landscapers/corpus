@@ -1,0 +1,88 @@
+{
+ "slug": "2024-07-19-mwi-reserve-bank-of-malawi-demands-seamless-digital-payment-systems",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "enforced",
+       "value": "enforced",
+       "fact": "Malawi recorded 36,481 complaints of digital payment challenges out of 396.6 million digital transactions from April 2023 to March 2024, as stated by RBM's Deputy Governor.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "digital payments complaints",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

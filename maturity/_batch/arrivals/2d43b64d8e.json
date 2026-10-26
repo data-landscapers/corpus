@@ -1,0 +1,223 @@
+{
+ "slug": "2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI rule stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Nouakchott Data Center",
+       "country_label": "Mauritania",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state (national)",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": "The centre is called an ideal environment for AI applications; no AI computing is named."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Mauritania's President inaugurated the Nouakchott Data Center, which offers cloud hosting, backup and disaster recovery to public administrations, financial institutions, startups and service providers.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Nouakchott Data Center",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "The Nouakchott Data Center holds a level 3 certification (the article names the issuer 'AppTime Global Institute') with over 99.982% availability.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Nouakchott Data Center",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nouakchott Data Center",
+       "country_label": "Mauritania",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state (national)",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "The national Nouakchott Data Center is stated to store and protect sovereign data and to offer cloud hosting within national borders to public and private institutions.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Nouakchott Data Center",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No government online service named."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The Nouakchott Data Center is stated to provide a central data exchange point linking local and international ISPs and operators.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Nouakchott Data Center exchange point",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a data centre certificate is stated, which places nothing."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "owner",
+       "value": "national",
+       "fact": "The Nouakchott Data Center is presented as the first national facility, inaugurated by the President and financed with EUR 15 million from the EIB, with the ministry of digital transformation speaking for it.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Nouakchott Data Center",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "The Nouakchott Data Center offers hosting and backup services to public administrations, financial institutions, startups and service providers.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Nouakchott Data Center",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "The Nouakchott Data Center holds a level 3 certification with over 99.982% availability.",
+       "as_of": "2025-05-08",
+       "date_precision": "day",
+       "system": "Nouakchott Data Center",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nouakchott Data Center",
+       "country_label": "Mauritania",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state (national)",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A backup service is offered but no backup site, place or distance is named."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Startups are named only as customers; no startup law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    }
+   }
+  }
+ }
+}

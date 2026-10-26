@@ -1,0 +1,8 @@
+{"slug": "2026-10-25-dji-deux-projets-numeriques-de-30-millions-de-dollars-passes-en-revue-avec-un-appel", "studies": {
+"coresystems": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No finance, tax or payroll system is mentioned."}}},
+"fibrebackbone": {"countries": {"DJI": {"facts": [], "systems": [{"system": "EARDIP fibre loops to Dikhil, Tadjourah and Obock", "country_label": "Djibouti", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Fibre loops are planned and conditional on studies; no contract awarded or works begun is stated."}}},
+"internationalbandwidth": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Cross-border terrestrial links are only planned under EARDIP; no route in service is stated."}}},
+"internetusage": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No share of the population using the internet is given."}}},
+"itcapacity": {"countries": {"DJI": {"facts": [], "systems": [], "note": "ANSIE's director general is named as attending; no statement on who runs or builds government systems."}}},
+"regionalpolicy": {"countries": {"DJI": {"facts": [], "systems": [], "note": "EARDIP is an IDA-financed project; no agreement, membership or seat in an African digital policy body is stated."}}}
+}}

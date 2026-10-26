@@ -1,0 +1,268 @@
+{
+ "slug": "2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a feasibility study for a national geographic addressing system is mentioned, no addressing under way or in service."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on rules or an authority on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI in public administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI in sector systems."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A national AI strategy is named among the agenda's supporting strategies, with no word on drafting or adoption."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI built or hosted in the country."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The ministry's representative lists the digitisation of company-creation procedures and investment licence applications through the APIM platform among work completed or in hand and soon to launch.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "APIM platform",
+       "class": "business"
+      }
+     ],
+     "systems": [
+      {
+       "system": "APIM platform",
+       "country_label": "Mauritania",
+       "class": "business",
+       "platform": "",
+       "owner": "Ministry of Digital Transformation and Administration Modernisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names a security reference standard and a strategy, no cybercrime or cybersecurity law or bill."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A first Tier 3 data centre is reported inaugurated, but the document does not say it rents space or computing to others."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names an interoperability strategy and a government intranet, no data exchange platform."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The ministry's representative says works have begun on a national cloud system.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "Systeme national de cloud",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système national de cloud",
+       "country_label": "Mauritania",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "governance",
+       "value": "body:mandated",
+       "fact": "The ministry of Digital Transformation and Administration Modernisation, created in 2021, is described as the institutional lever to carry out the digital transformation.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "Ministere de la Transformation numerique et de la Modernisation de l'administration",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2025",
+       "fact": "The ministry relies on the National Digital Transformation Agenda 2022-2025, which is under evaluation and update.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "Agenda national de transformation numerique 2022-2025",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The ministry's representative says the National Internet Exchange Centre (IXP) was recently officially launched, as a local exchange platform to localise data traffic.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "Centre national d'echange Internet (IXP)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Centre national d'échange Internet (IXP)",
+       "country_label": "Mauritania",
+       "class": "exchange",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "building",
+       "fact": "The ministry's representative says over 4,000 km of the national optical fibre network has been completed, added to over 3,000 km by national operators for a 7,000 km total, with tenders prepared for 3,000 km more.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "Reseau national de fibre optique",
+       "class": "backbone"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A second submarine cable at Nouadhibou is only under construction; no route is stated in service."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Land register modernisation and a property-document platform are named without saying they are digital or in service."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only digital counters in communes are named, which are services to residents, not an office connection."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The Tier 3 data centre is named without its owner or hire."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an open data strategy is named, with no data published."
+    }
+   }
+  }
+ }
+}

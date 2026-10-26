@@ -1,0 +1,133 @@
+{
+ "slug": "2026-01-14-zmb-zambia-launches-digital-skills-trainer-program-to-scale-public-sector",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "SMART Zambia Institute launched a digital skills training-of-trainers programme in Ndola on 12 January 2026 for 80 beneficiaries mainly from public sector institutions, who are to pass skills on within their institutions.",
+       "as_of": "2026-01-12",
+       "date_precision": "day",
+       "system": "Digital skills training-of-trainers programme",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital skills training-of-trainers programme",
+       "country_label": "Zambia",
+       "class": "csskills",
+       "platform": "",
+       "owner": "SMART Zambia Institute",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Programme trains mainly public-sector trainers; no public programme with a trained count stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a digital-skills training course; says nothing of who runs government systems."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Zambia."
+    }
+   }
+  }
+ }
+}

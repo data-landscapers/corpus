@@ -1,0 +1,10 @@
+{"slug": "2025-12-02-mar-pour-seghrouchni-l-adoption-du-cloud-levier-essentiel-pour-la-souverai", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Not stated."}}},
+"cloudstrategy": {"countries": {"MAR": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Digital transition minister Seghrouchni said at the opening of the ministry's Cloud Week that the ministry is drawing up a 2025-2030 cloud roadmap whose first pillar is a national Cloud First policy that will make cloud the priority for all new public-administration IT projects, steered by a national Cloud First steering committee.", "as_of": "2025-12-02", "date_precision": "day", "system": "National Cloud First policy / Cloud services roadmap 2025-2030", "class": "policy"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a passing reference to national data protection legislation; no standing, authority or application stated."}}},
+"digitalsovereignty": {"countries": {"MAR": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Minister Seghrouchni said the cloud roadmap's second objective is a secure, ordered move of public data to the cloud, in line with national data protection law and qualified providers, including a national sovereign cloud infrastructure for the state's sensitive information systems.", "as_of": "2025-12-02", "date_precision": "day", "system": "National sovereign cloud infrastructure (planned)", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A sovereign cloud is planned; no data centre in service or its owner stated."}}}
+}}

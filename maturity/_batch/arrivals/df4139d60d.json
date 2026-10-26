@@ -1,0 +1,10 @@
+{"slug": "2025-12-02-mar-seghrouchni-la-feuille-de-route-cloud-2025-2030-renforce-la-souveraine", "studies": {
+"cloudstrategy": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Minister Amal El Fellah Seghrouchni told the House of Representatives on 1 December 2025 that the ministry's Cloud 2025-2030 roadmap, with the Cloud First Policy, will be adopted progressively as the default option in public services.", "as_of": "2025-12-01", "date_precision": "day", "system": "Cloud 2025-2030 roadmap / Cloud First Policy", "class": "policy"}],
+"systems": [{"system": "Cloud First Policy", "country_label": "Morocco", "class": "policy", "platform": "", "owner": "Ministry of Digital Transition", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Dakhla EcoDar data centre", "country_label": "Morocco", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The Dakhla EcoDar data centre is a project, not in service."}}},
+"digitalsovereignty": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The minister said on 1 December 2025 that the Cloud 2025-2030 roadmap, through the Cloud First Policy under Digital Morocco 2030, will strengthen the country's digital sovereignty.", "as_of": "2025-12-01", "date_precision": "day", "system": "Cloud 2025-2030 roadmap", "class": "sovereignty"}],
+"systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only a planned data centre is named."}}}
+}}

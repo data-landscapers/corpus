@@ -1,0 +1,8 @@
+{"slug": "2026-04-16-civ-amelioration-des-services-financiers-pres-de-200-plaintes-et-25-demand", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The OQSF-CI executive secretary said that by the end of 2025, 1,879 people had interacted with artificial intelligence in the observatory's tools; the captured text does not name the system.", "as_of": "2025-12", "date_precision": "month", "system": "OQSF-CI AI tool (unnamed)", "class": "govai"}], "systems": [], "note": ""}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not stated for a listed sector."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Not stated."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The OQSF-CI executive secretary said the observatory hosts a conciliation and mediation mechanism for amicable settlement of disputes, which any consumer of financial services can use free of charge; the text does not say it covers digital financial services in particular.", "as_of": "2026-04-14", "date_precision": "day", "system": "OQSF-CI conciliation and mediation", "class": "protection"}], "systems": [{"system": "OQSF-CI", "country_label": "Cote d'Ivoire", "class": "protection", "platform": "outils.oqsfci.org", "owner": "State", "tiers": ""}], "note": ""}}},
+"feedbackportals": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Consumer ratings concern financial providers, not public services."}}}
+}}

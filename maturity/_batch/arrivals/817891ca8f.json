@@ -1,0 +1,14 @@
+{"slug": "2025-08-11-zwe-government-to-expand-national-data-centre", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only a general statement about cloud and AI; no AI model, dataset or AI computing named."}}},
+"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No civil-service training stated."}}},
+"datacentres": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "National Data Centre", "country_label": "National Data Centre", "class": "other", "platform": "", "owner": "Government of Zimbabwe", "tiers": "expansion to at least Tier 4 under consideration"}], "note": "Document does not say the National Data Centre rents space or computing to others, and the Tier 4 expansion is only mooted."}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Skills named only as a pillar; no programme for the public stated."}}},
+"digitalsovereignty": {"countries": {"ZWE": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Deputy ICT Minister Dingumuzi Phuti said the government is mooting expansion of the National Data Centre to at least Tier four, framed as keeping Zimbabwean data processed, stored and protected locally.", "as_of": "2025-08", "date_precision": "month", "system": "National Data Centre", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Mentions international bandwidth cost only in general terms; no fibre route stated."}}},
+"nationaldatacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document does not say the National Data Centre is for hire, in service as such, or its Tier today."}}},
+"offsitebackup": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No backup site stated."}}},
+"schoolinternet": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No school internet figure or curriculum statement."}}}
+}}

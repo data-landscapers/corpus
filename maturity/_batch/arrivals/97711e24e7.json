@@ -1,0 +1,61 @@
+{
+ "slug": "2025-09-12-zmb-smart-zambia-equips-31-officers-with-ict-skills-in-mufulira",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "TechAfrica News reports the Copperbelt SMART Zambia Unit trained 31 government officers from over a dozen institutions on 20 August 2025 in Mufulira on the Citizens' Portal, ZamPortal and Government Mail.",
+       "as_of": "2025-08-20",
+       "date_precision": "day",
+       "system": "SMART Zambia ICT Utilization Training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Training was for government officers only."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Training of officers is other; no statement on who runs the systems."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "A council chamber was only the venue; no council connection stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Police officers attended a general ICT training; no station record system stated."
+    }
+   }
+  }
+ }
+}

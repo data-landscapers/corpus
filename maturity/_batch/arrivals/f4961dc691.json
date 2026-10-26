@@ -1,0 +1,98 @@
+{
+ "slug": "2025-08-19-mwi-financial-consumer-complaints-increase",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "redress",
+       "value": "redress",
+       "fact": "RBM's 2024 annual report says 1,301 complaints were escalated to the Registrar of financial institutions, of which 655 were resolved.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Registrar of Financial Institutions complaints",
+       "class": "protection"
+      },
+      {
+       "sub_indicator": "protection",
+       "aspect": "enforced",
+       "value": "enforced",
+       "fact": "RBM's 2024 report counts 46,969 banking-sector complaints linked to failed digital financial services, where accounts were debited without the service delivered.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "RBM complaints report",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

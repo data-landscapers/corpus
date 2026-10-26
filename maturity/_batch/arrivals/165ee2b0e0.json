@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-21-civ-lancement-officiel-de-la-formation-en-outils-bureautiques",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of Communication began office-tools training (Word, Excel, PowerPoint, Outlook, Teams, OneDrive) on 20 November 2024 for its 265 staff, over two to three months.",
+       "as_of": "2024-11-20",
+       "date_precision": "day",
+       "system": "Ministry of Communication office-tools training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The training is for ministry staff, not the public."
+    }
+   }
+  }
+ }
+}

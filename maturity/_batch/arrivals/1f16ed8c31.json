@@ -1,0 +1,15 @@
+{"slug": "2023-11-24-cod-digitalisation-de-la-rdc-l-adn-et-l-ada-s-engagent-a-former-100-000-ag", "studies": {
+"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on AI rules."}}},
+"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "Training only."}}},
+"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"civilserviceskills": {"countries": {"COD": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "ADN and Africa Digital Academy signed a partnership on 21 November 2023 to train 100,000 public agents in 2024-2025 in cybersecurity, AI, business solutions and digital transformation.", "as_of": "2023-11-21", "date_precision": "day", "system": "ADN-ADA partnership", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"COD": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "ADN coordinator Dominique Migisha says the Plan national du numérique, with 69 projects, was adopted in 2019.", "as_of": "2019", "date_precision": "year", "system": "Plan national du numérique", "class": "national"},
+{"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The ADN, a structure of the presidency, is charged by the head of state with digitalising the country under the Plan national du numérique.", "as_of": "2023-11", "date_precision": "month", "system": "Plan national du numérique", "class": "national"},
+{"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The ADN coordinator says the agency has reached more than 60% of the digital plan and aims for 100% by December 2025.", "as_of": "2023-11", "date_precision": "month", "system": "Plan national du numérique", "class": "national"}
+], "systems": [{"system": "Plan national du numérique", "country_label": "Plan national du numérique", "class": "national", "platform": "", "owner": "ADN", "tiers": ""}], "note": ""}}},
+"schoolinternet": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

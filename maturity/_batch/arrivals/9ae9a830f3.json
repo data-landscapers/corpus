@@ -1,0 +1,53 @@
+{
+ "slug": "2026-01-21-nga-digital-lending-rule-fccpc-goes-after-violators",
+ "studies": {
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns the FCCPC, a competition and consumer regulator, and states no central bank role."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "The FCCPC says the Digital, Electronic, Online and Non-Traditional Consumer Lending Regulations, 2025 (DEON) apply to digital money lending operators, with a regularisation deadline of 5 January 2026.",
+       "as_of": "2026-01-05",
+       "date_precision": "day",
+       "system": "DEON Regulations 2025",
+       "class": "protection"
+      },
+      {
+       "sub_indicator": "protection",
+       "aspect": "enforced",
+       "value": "enforced",
+       "fact": "The FCCPC says it began enforcement on 21 January 2026, withdrawing conditional approval from digital lenders that missed the DEON deadline and removing them from its published register of approved lenders.",
+       "as_of": "2026-01-21",
+       "date_precision": "day",
+       "system": "DEON Regulations 2025",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "FCCPC register of approved digital lenders",
+       "country_label": "FCCPC register of approved digital lenders",
+       "class": "protection",
+       "platform": "",
+       "owner": "FCCPC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

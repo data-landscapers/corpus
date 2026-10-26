@@ -1,0 +1,11 @@
+{"slug": "2025-12-15-zaf-nfo-banking-division-returns-r60-million-to-consumers-in-2025", "studies": {
+"businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Document is about ombud complaints; nothing on procurement."}}},
+"centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on a central bank role."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The National Financial Ombud South Africa Banking Division resolved disputes in 2025 and reports that mobile banking and internet banking fraud were the highest complaint generators, 39% of all cases received.", "as_of": "2025-12-15", "date_precision": "day", "system": "National Financial Ombud South Africa Banking Division", "class": "protection"}], "systems": [{"system": "National Financial Ombud South Africa", "country_label": "South Africa", "class": "protection", "platform": "", "owner": "National Financial Ombud South Africa", "tiers": ""}], "note": "R60 million returned is an all-banking redress total, not an enforcement figure for digital services; the 39% is a share of cases, not a sanction or complaint count under digital rules."}}},
+"crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"opendiscussion": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on public debate, cuts or punishment."}}},
+"paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

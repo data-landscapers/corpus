@@ -1,14 +1,1 @@
-{
- "slug": "2025-07-05-gin-le-premier-ministre-lance-officiellement-le-denombrement-principal-du",
- "studies": {
-  "censuses": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  }
- }
-}
+{"slug":"2025-07-05-gin-le-premier-ministre-lance-officiellement-le-denombrement-principal-du","studies":{"admindata":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Census launch notice; no administrative-records statistics stated."}}},"populationregister":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Only says the census is not individual identification; no register stated."}}},"statisticslaw":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No statistics law stated."}}},"statisticsstrategy":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No national statistics strategy stated."}}}}}

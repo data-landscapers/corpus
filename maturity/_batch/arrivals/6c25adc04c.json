@@ -1,0 +1,97 @@
+{
+ "slug": "2026-07-20-nga-fccpc-resumes-digital-lending-regulation",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "inforce",
+       "fact": "The FCCPC says the Digital, Electronic, Online or Non-Traditional Consumer Lending Regulations, 2025 are again fully operational and enforceable after the Federal High Court upheld them on 20 July 2026.",
+       "as_of": "2026-07-20",
+       "date_precision": "day",
+       "system": "DEON Regulations 2025",
+       "class": "protection"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DEON Regulations 2025",
+       "country_label": "Nigeria",
+       "class": "protection",
+       "platform": "",
+       "owner": "FCCPC",
+       "tiers": ""
+      }
+     ],
+     "note": "No fine or sanction reported."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  }
+ }
+}

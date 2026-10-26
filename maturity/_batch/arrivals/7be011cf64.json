@@ -1,0 +1,83 @@
+{
+ "slug": "2026-03-06-gab-le-gabon-s-allie-a-smart-africa-pour-former-les-talents-du-numerique",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "On 2 March 2026 Gabon's Minister of Digital Economy and Smart Africa signed an MoU to deploy the Smart Africa Digital Academy, with training for public administration staff among its targets, hosted by the Gabonese Centre for Innovation.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Smart Africa Digital Academy",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart Africa Digital Academy",
+       "country_label": "Smart Africa Digital Academy (Gabon)",
+       "class": "csskills",
+       "platform": "SADA training platform",
+       "owner": "Smart Africa; Ministry of Digital Economy; Centre gabonais de l'innovation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The academy is said to be expected to reduce the digital divide; no rural internet programme is stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Under the 2 March 2026 MoU with Smart Africa, the Smart Africa Digital Academy is to be deployed in Gabon with training for young people, professionals and entrepreneurs, coordinated by the Ministry of Digital Economy.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Smart Africa Digital Academy",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Gabon's Minister of Digital Economy signed an MoU with the Smart Africa secretariat on 2 March 2026 in Barcelona to deploy the Smart Africa Digital Academy in Gabon, a digital-skills agreement.",
+       "as_of": "2026-03-02",
+       "date_precision": "day",
+       "system": "Smart Africa Digital Academy MoU",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

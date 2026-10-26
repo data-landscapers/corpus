@@ -1,0 +1,81 @@
+{
+ "slug": "2026-02-13-nga-fg-trains-civil-servants-in-digital-skills",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "Punch reports NITDA, with the Office of the Head of the Civil Service, has rolled out the Digital Literacy for All workforce programme on Cisco Networking Academy, with 45,813 to 54,377 learners enrolled per course.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Digital Literacy for All (DL4ALL)",
+       "class": "csskills"
+      },
+      {
+       "sub_indicator": "csskills",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "Punch reports the DL4ALL programme reached the federal civil service across ministries, departments and agencies, with large ministries such as Education and Defence leading enrolments.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Digital Literacy for All (DL4ALL)",
+       "class": "csskills"
+      },
+      {
+       "sub_indicator": "csskills",
+       "aspect": "share",
+       "value": "published",
+       "fact": "Punch reports DL4ALL enrolments cover an estimated 65 to 75 per cent of the federal civil service workforce, with completion of 38.1 to 44.6 per cent across the four modules.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Digital Literacy for All (DL4ALL)",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Literacy for All (DL4ALL)",
+       "country_label": "Nigeria",
+       "class": "csskills",
+       "platform": "Cisco Networking Academy",
+       "owner": "NITDA / OHCSF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Programme described is the civil-service workforce one; the 70 per cent literacy by 2027 is only an ambition."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  }
+ }
+}

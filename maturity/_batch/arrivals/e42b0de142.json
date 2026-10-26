@@ -1,0 +1,11 @@
+{"slug": "2024-11-05-zaf-google-cloud-and-cybersecurity-solutions-for-the-public-sector-in-sout", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI rules."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Speech names no AI system in use."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"civilserviceskills": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Public Service Minister Mzamo Buthelezi launched on 5 November 2024 a DPSA-Google programme to upskill 13,000 public servants in cybersecurity from November 2024 to November 2025.", "as_of": "2024-11-05", "date_precision": "day", "system": "DPSA-Google cybersecurity upskilling programme", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"disabilityaccess": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Disability mentioned only as an inclusion aim; no law, programme or delivery stated."}}},
+"egovservices": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No service or portal stated."}}}
+}}

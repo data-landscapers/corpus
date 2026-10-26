@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-22-cod-kongo-central-l-adn-kc-fait-le-point-sur-le-data-center-provincial-et",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The Kongo Central provincial data centre is not yet in optimal service (internet, power and works pending) and no hire is stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Provincial agency meeting only; no local government office connection stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A provincial data centre still being brought into service; no national ownership, hire, Tier or state hosting stated."
+    }
+   }
+  }
+ }
+}

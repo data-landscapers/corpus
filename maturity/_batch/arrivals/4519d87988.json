@@ -1,0 +1,43 @@
+{
+ "slug": "2025-09-11-cod-digitalisation-de-l-administration-le-ministere-forme-ses-agents-aux-o",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Ministry of National Education and New Citizenship says it opened on 9 September 2025 a series of 15-day computing and digital-tools courses, in groups of 20, for managers and staff of its central services.",
+       "as_of": "2025-09-09",
+       "date_precision": "day",
+       "system": "EDU-NC micro-informatique training",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Training was for ministry staff only."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  }
+ }
+}

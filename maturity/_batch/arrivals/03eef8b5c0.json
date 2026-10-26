@@ -1,0 +1,3 @@
+{"slug": "2026-04-22-mrt-pafiid-himaya-consumer-complaints-platform-pilot", "studies": {"consumerprotection": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "protection", "aspect": "redress", "value": "redress", "fact": "The PAFIID programme announced a pilot of the Himaya financial consumer protection platform, a call centre on short code 1973 run with the Central Bank of Mauritania to receive and process users' complaints, starting 23 April 2026 until the end of the month.", "as_of": "2026-04-23", "date_precision": "day", "system": "Himaya platform", "class": "protection"}],
+"systems": [{"system": "Himaya", "country_label": "Mauritania", "class": "protection", "platform": "call centre 1973", "owner": "Banque Centrale de Mauritanie", "tiers": ""}], "note": ""}}}}}

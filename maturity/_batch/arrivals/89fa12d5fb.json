@@ -1,0 +1,52 @@
+{
+ "slug": "2024-09-17-mar-morocco-launches-online-training-to-boost-public-digital-capacity",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "Morocco's Digital Development Agency launched the e-TAMKEEN e-learning programme on the Academia Raqmya platform in September 2024, after it trained over 6,800 civil servants at central and local levels between 2019 and 2023 on 23 digital topics.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "e-TAMKEEN",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-TAMKEEN",
+       "country_label": "e-TAMKEEN on Academia Raqmya",
+       "class": "csskills",
+       "platform": "Academia Raqmya",
+       "owner": "Digital Development Agency; Ministry of Digital Transition and Administrative Reform",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection appears only as a training module; no law is stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Maroc Digital 2030 is named as the new national strategy, with no adoption or text status stated."
+    }
+   }
+  }
+ }
+}

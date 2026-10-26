@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-23-tun-cybers-curit-plusieurs-organismes-publics-tunisiens-suspendent-temporairement-le",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only that ATCT, OTC and STEG suspended websites after a PHP security flaw; nothing on this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only that ATCT, OTC and STEG suspended websites after a PHP security flaw; nothing on this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only that ATCT, OTC and STEG suspended websites after a PHP security flaw; nothing on this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only that ATCT, OTC and STEG suspended websites after a PHP security flaw; nothing on this study."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only that ATCT, OTC and STEG suspended websites after a PHP security flaw; nothing on this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "OTC website (otc.nat.tn)",
+       "country_label": "Office de la topographie et du cadastre",
+       "class": "other",
+       "platform": "",
+       "owner": "OTC",
+       "tiers": ""
+      }
+     ],
+     "note": "OTC (topography and cadastre office) suspended its website temporarily; no statement on the land register's state."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only that ATCT, OTC and STEG suspended websites after a PHP security flaw; nothing on this study."
+    }
+   }
+  }
+ }
+}

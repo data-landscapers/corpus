@@ -1,0 +1,70 @@
+{
+ "slug": "2026-10-22-ken-kenyas-language-data-holds-promise-for-ai-powered-services",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Kenya."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Kenya."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Kenya."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Kenya."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "The Kenya Languages Lexicon (KENGLEX), developed by Teknobyte Limited, has compiled more than 133,000 words with meanings and pronunciations of Kenyan English, intended to support speech recognition, translation and text-to-speech.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "KENGLEX",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "KENGLEX",
+       "country_label": "Kenya",
+       "class": "localai",
+       "platform": "",
+       "owner": "Teknobyte Limited",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

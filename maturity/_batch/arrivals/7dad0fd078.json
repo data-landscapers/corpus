@@ -1,0 +1,115 @@
+{
+ "slug": "2026-10-24-nga-nigerias-tijani-pitches-fibre-and-skills-drive-for-ai-in-seoul",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Nigeria."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Nigeria."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Nigeria."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Project BRIDGE",
+       "country_label": "Nigeria",
+       "class": "backbone",
+       "platform": "",
+       "owner": "Bridge Open Access",
+       "tiers": ""
+      }
+     ],
+     "note": "Project BRIDGE is financed and a company incorporated, but no contract award or works begun is stated; rollout 'would begin' in October per an August statement."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "BRIDGE is said to reach all 774 local government areas, a backbone with no local office stated on it."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Lenders (World Bank, EBRD, AfDB, EU) finance a public project; private investment of US$1.1bn is only hoped for."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "The government released N-ATLAS, an open-source language model for Yoruba, Hausa, Igbo and Nigerian-accented English, built by the National Centre for AI and Robotics with Awarri on Llama-3, and minister Tijani says it is already in use.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "N-ATLAS",
+       "class": "localai"
+      },
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Minister Tijani says Nigeria is working with the Gates Foundation on a national shared computing facility.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "national shared computing facility",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "N-ATLAS",
+       "country_label": "Nigeria",
+       "class": "localai",
+       "platform": "Meta Llama-3",
+       "owner": "National Centre for Artificial Intelligence and Robotics; Awarri",
+       "tiers": ""
+      },
+      {
+       "system": "National shared computing facility",
+       "country_label": "Nigeria",
+       "class": "localai",
+       "platform": "",
+       "owner": "Government with Gates Foundation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

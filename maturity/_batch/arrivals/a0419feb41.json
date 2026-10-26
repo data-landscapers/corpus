@@ -1,0 +1,12 @@
+{"slug":"2024-04-29-uga-bou-details-redress-procedure-for-aggrieved-bank-customers","studies":{
+"accesstoinformationlaw":{"countries":{"UGA":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"The article lists the Access to Information Act 2005 among the legislation the Bank of Uganda's complaints mechanism adheres to.","as_of":"2024-04-29","date_precision":"day","system":"Access to Information Act 2005","class":"law"}],"systems":[],"note":""}}},
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on e-procurement."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Complaints procedure for banks; no statement on payment licensing, a switch or PAPSS."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[{"sub_indicator":"protection","aspect":"redress","value":"redress","fact":"The Bank of Uganda runs a Financial Consumer Empowerment Mechanism that takes customer complaints about supervised financial institutions after 21 days without a satisfactory answer from the institution, guided by the Mobile Money Guidelines 2013 among others.","as_of":"2024-04-29","date_precision":"day","system":"Financial Consumer Empowerment Mechanism","class":"protection"}],"systems":[{"system":"Financial Consumer Empowerment Mechanism","country_label":"Uganda","class":"protection","platform":"","owner":"Bank of Uganda","tiers":""}],"note":""}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on cross-border payments."}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on government payments to people."}}},
+"paymentslaw":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Mobile Money Guidelines 2013 are only named in passing, with no statement of their standing or non-bank licensing."}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document gives no account survey figure."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on mobile money service or interoperability."}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Document states nothing on electronic revenue payment."}}}
+}}

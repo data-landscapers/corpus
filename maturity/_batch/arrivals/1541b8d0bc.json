@@ -1,0 +1,19 @@
+{"slug":"2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co","studies":{
+"aiabuse":{"countries":{"UGA":{"facts":[],"systems":[],"note":"AI fraud is named as a challenge; no AI rule or authority is stated."}}},
+"aigovernment":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No government AI system is mentioned."}}},
+"aisectoral":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No sectoral AI tool is mentioned."}}},
+"aisystems":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No AI built in the country is mentioned."}}},
+"businesspayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No e-procurement is mentioned."}}},
+"centralbank":{"countries":{"UGA":{"facts":[],"systems":[],"note":"The Bank of Uganda is named as financial regulator; no licensing of payment providers or switch oversight is stated."}}},
+"consumerprotection":{"countries":{"UGA":{"facts":[{"sub_indicator":"protection","aspect":"rules","value":"inforce","fact":"UNCDF says the Bank of Uganda updated its National Payments Act in 2022 to include financial consumer protection provisions, alongside the 2011 Financial Consumer Protection Guidelines for institutions licensed under the Financial Institutions Act.","as_of":"2022","date_precision":"year","system":"National Payments Act","class":"protection"}],"systems":[{"system":"National Payments Act","country_label":"National Payments Act (2022 update)","class":"protection","platform":"","owner":"Bank of Uganda","tiers":""}],"note":""}}},
+"crossborderpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No cross-border channel is mentioned."}}},
+"g2ppayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No government payments to people are mentioned."}}},
+"gendergap":{"countries":{"UGA":{"facts":[],"systems":[{"system":"FinScope 2023 mobile phone ownership gender gap","country_label":"16% gap in phone ownership","class":"other","platform":"","owner":"","tiers":""}],"note":"The 16% gap is in mobile phone ownership, not internet use."}}},
+"idverification":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Enhanced KYC is only a suggested option; no check against the ID is stated."}}},
+"mobilepenetration":{"countries":{"UGA":{"facts":[],"systems":[{"system":"FinScope 2023 mobile phone ownership","country_label":"72% overall mobile phone ownership (2023)","class":"other","platform":"","owner":"","tiers":""}],"note":"The 72% figure for 2023 gives no age base and is before 2024."}}},
+"paymentsuptake":{"countries":{"UGA":{"facts":[],"systems":[{"system":"FinScope 2023 financial inclusion","country_label":"81% overall, 68% formal (2023)","class":"other","platform":"","owner":"","tiers":""}],"note":"FinScope figures are financial inclusion shares, not the share of adults with a bank or mobile money account."}}},
+"retailpayments":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Mobile money is said to lead financial inclusion, with no licence, interoperability or switch stated."}}},
+"revenuecollection":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No tax or fee payment is mentioned."}}},
+"startups":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No startup law or fund is mentioned."}}},
+"techhubs":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No hub is mentioned."}}}
+}}

@@ -1,0 +1,8 @@
+{"slug":"2026-08-27-cmr-transformation-numerique-le-patnuc-lance-une-vaste-formation-destinee","studies":{
+"aiabuse":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Document states nothing on rules or an authority against AI harms."}}},
+"aigovernment":{"countries":{"CMR":{"facts":[],"systems":[],"note":"An AI training module is not an AI system in administration."}}},
+"aisectoral":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No sectoral AI tool stated."}}},
+"aisystems":{"countries":{"CMR":{"facts":[],"systems":[],"note":"No AI model, dataset or computing stated."}}},
+"civilserviceskills":{"countries":{"CMR":{"facts":[{"sub_indicator":"csskills","aspect":"training","value":"underway","fact":"MINADER reports that PATNUC has launched a training programme open to agents of the various public administrations nationwide, with five certifying online modules (including AI, LLM and blockchain) and registrations open; no number trained is given.","as_of":"2026-08-27","date_precision":"day","system":"PATNUC e-learning programme","class":"csskills"}],"systems":[{"system":"PATNUC e-learning programme","country_label":"Cameroon","class":"csskills","platform":"online platform and offline mobile app","owner":"PATNUC","tiers":"five certifying modules"}],"note":""}}},
+"digitalskills":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Programme is for public agents, not the public."}}}
+}}

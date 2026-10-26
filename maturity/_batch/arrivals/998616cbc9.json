@@ -1,0 +1,11 @@
+{"slug": "2026-02-09-zaf-huawei-national-school-of-government-sign-mou-to-boost-public-sector-d", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI rules."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Training MOU only."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"civilserviceskills": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Huawei South Africa and the National School of Government signed a two-year MOU to add Huawei courses in AI, cyber security, cloud and digital government to the NSG's U-Learning platform for public servants; no number trained is given.", "as_of": "2026-02-09", "date_precision": "day", "system": "NSG U-Learning", "class": "csskills"}
+], "systems": [{"system": "U-Learning", "country_label": "NSG U-Learning", "class": "csskills", "platform": "", "owner": "National School of Government", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Programme is for public servants only."}}},
+"itcapacity": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Training only."}}}
+}}

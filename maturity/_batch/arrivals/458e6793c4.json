@@ -1,0 +1,10 @@
+{"slug": "2025-12-15-mrt-ami-cybersecurity-ai-training-300-civil-servants", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No AI rule or authority stated."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"MRT": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The Minister of Digital Transformation and Modernisation of the Administration launched a 12-week cybersecurity and AI training programme at the Centre de Formation et d'Echange a Distance for 300 civil servants from government sectors, with German cooperation.", "as_of": "2025-12-15", "date_precision": "day", "system": "Tahil al-Muwazzaf al-Umumi training programme", "class": "csskills"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Programme covers data protection as a topic; no law stated."}}},
+"digitalskills": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Programme is for civil servants only."}}},
+"digitalsovereignty": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Digital sovereignty mentioned only in general terms; no state-data policy or rule stated."}}}
+}}

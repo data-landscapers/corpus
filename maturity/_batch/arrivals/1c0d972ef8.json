@@ -1,3 +1,14 @@
-{"slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica", "studies": {
-"ecommercelaw": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Portal and decree-laws on digital services are named; no law giving electronic contracts or signatures legal effect, or rules for online selling, is stated."}}}
-}}
+{
+ "slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers a justice services portal and states no digital-skills training for civil servants."
+    }
+   }
+  }
+ }
+}

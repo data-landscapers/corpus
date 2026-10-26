@@ -1,0 +1,20 @@
+{"slug": "2025-12-29-eth-ethiopia-anchors-digital-sovereignty-in-new-digital-ethiopia-2030-stra", "studies": {
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"digitalsovereignty": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The Ministry of Innovation and Technology says the Digital Ethiopia 2030 strategy is grounded in digital sovereignty, with a sovereign national cloud and strict enforcement of data sovereignty laws as its backbone.", "as_of": "2025-12-29", "date_precision": "day", "system": "Digital Ethiopia 2030 strategy", "class": "sovereignty"}
+], "systems": [], "note": "No hosting or contract terms stated."}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Ministry of Innovation and Technology says the Digital Ethiopia 2030 strategy was launched in the presence of Prime Minister Abiy Ahmed, a five-year digital transformation phase; the article does not say it was adopted.", "as_of": "2025-12", "date_precision": "month", "system": "Digital Ethiopia 2030", "class": "national"},
+{"sub_indicator": "national", "aspect": "period", "value": "to:2030", "fact": "The Ministry of Innovation and Technology describes Digital Ethiopia 2030 as a five-year journey to 2030.", "as_of": "2025-12", "date_precision": "month", "system": "Digital Ethiopia 2030", "class": "national"}
+], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "A sovereign national cloud is a strategy aim only; no data centre in service stated."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Cash-lite economy aim only; no survey share."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated beyond a projection of growth in digital transactions."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"startups": {"countries": {"ETH": {"facts": [], "systems": [], "note": "An Entrepreneurship Development Policy to empower 5,000 startups is named, but no startup law, strategy status, labelling or fund is stated."}}},
+"techhubs": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Technology hub used as a figure of speech; no hub or park stated."}}}
+}}

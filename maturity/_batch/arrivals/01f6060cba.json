@@ -1,0 +1,52 @@
+{
+ "slug": "2025-05-11-lby-enhancing-libya-s-digital-transformation-by-adapting-the-pix-platform",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "EU4Skills reports a 10 May 2025 workshop of the Libyan Digital Lab, with Expertise France, on adapting France's Pix digital-skills platform for Libyan students, teachers and public sector employees, ending with follow-up plans.",
+       "as_of": "2025-05-10",
+       "date_precision": "day",
+       "system": "Pix digital skills platform (proposed adaptation)",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Pix",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "Pix",
+       "owner": "Expertise France / Libyan Digital Lab",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploring a transfer of Pix; no programme for the public launched or piloted."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "No data publishing stated."
+    }
+   }
+  }
+ }
+}

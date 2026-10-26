@@ -1,0 +1,9 @@
+{"slug": "2024-05-29-cog-patn-plus-de-38-milliards-fcfa-pour-l-exercice-2024", "studies": {
+"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "Not stated."}}},
+"aisystems": {"countries": {"COG": {"facts": [], "systems": [], "note": "CARIA is named only as a skills-training and building project; no AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"COG": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The PATN 2024 work plan includes developing and implementing a digital learning platform for online training in public administration.", "as_of": "2024-05-29", "date_precision": "day", "system": "PATN digital learning platform for public administration", "class": "csskills"}], "systems": [{"system": "PATN", "country_label": "Congo", "class": "other", "platform": "", "owner": "Government of Congo", "tiers": ""}], "note": ""}}},
+"startups": {"countries": {"COG": {"facts": [], "systems": [], "note": "Startup support is mentioned with no law, strategy or fund stated."}}},
+"techhubs": {"countries": {"COG": {"facts": [], "systems": [], "note": "A building for Caria village is mentioned without saying it is a hub or park."}}}
+}}

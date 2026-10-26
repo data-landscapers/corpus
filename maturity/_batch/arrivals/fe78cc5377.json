@@ -1,0 +1,18 @@
+{"slug": "2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI rule or authority stated."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No local AI build stated."}}},
+"civilserviceskills": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The ICT Minister announced plans for a national AI Skills Accelerator Programme for public sector workers, to be run with universities and the e-Government Unit.", "as_of": "2026-05", "date_precision": "month", "system": "AI Skills Accelerator Programme", "class": "csskills"}
+], "systems": [], "note": "Announced plan only; no number trained."}}},
+"coresystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No finance, tax or payroll system stated."}}},
+"cybersecurity": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The Minister only called for a Sectoral Cybersecurity Response Centre; none is stated as created."}}},
+"dataexchange": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "Government Service Bus", "country_label": "Government Service Bus", "class": "other", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""}], "note": "The Government Service Bus is stated only as something Government would implement; not procured, being built or piloted."}}},
+"digitalstrategy": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No national digital strategy is named."}}},
+"egovservices": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No online service or portal stated."}}},
+"internetusage": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The Minister's internet penetration of 84.55% is not stated as a share of people who used the internet, and its period is unstated."}}},
+"interoperabilitylaw": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A proposed Digital Government and Data Act is mentioned as work in progress; no bill or draft is stated as published."}}},
+"startups": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on startups."}}},
+"techhubs": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

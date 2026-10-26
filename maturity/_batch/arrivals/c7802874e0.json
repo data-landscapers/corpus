@@ -1,0 +1,16 @@
+{"slug": "2026-10-24-egy-egypt-forum-2026-outlines-sweeping-development-agenda-to-raise-living-standards", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Data centres mentioned only as infrastructure investment with no facility named."}}},
+"egovservices": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "The article says the number of services on the Digital Egypt platform is targeted to rise from 250 to 500 before the end of 2026, implying 250 are available now.", "as_of": "2026-10-24", "date_precision": "day", "system": "Digital Egypt platform", "class": "eservices"}
+], "systems": [{"system": "Digital Egypt platform", "country_label": "Egypt", "class": "eservices", "platform": "", "owner": "", "tiers": ""}], "note": "Gateway and ID sign-in and usage figures not stated."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on digital payments to people."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No facility named."}}},
+"nonstatefinance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No private amount for a digital business stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a plan to study electronic payment options for public services; no service stated."}}}
+}}

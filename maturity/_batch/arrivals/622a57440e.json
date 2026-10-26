@@ -1,0 +1,78 @@
+{
+ "slug": "2024-09-30-dji-digital-leaders-spotlight-djibouti",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "GovStack / IDGC capacity development",
+       "country_label": "Djibouti",
+       "class": "other",
+       "platform": "GovStack",
+       "owner": "Team Europe IDGC",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor-run capacity development for civil servants and trainings for the rollout digital teams are described only as a project focus; no course held for civil servants is stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "announced",
+       "fact": "GovStack says Djibouti launched its Digital Economy and Innovation Roadmap in 2022, which seeks among other things to digitalise administration.",
+       "as_of": "2022",
+       "date_precision": "year",
+       "system": "Digital Economy and Innovation Roadmap",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Government Roadmap",
+       "country_label": "Djibouti",
+       "class": "government",
+       "platform": "",
+       "owner": "IDGC / EstDev",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "eConstruction Permit",
+       "country_label": "Djibouti",
+       "class": "eservices",
+       "platform": "DIGIT",
+       "owner": "DATUH",
+       "tiers": ""
+      },
+      {
+       "system": "eCabinet",
+       "country_label": "Djibouti",
+       "class": "other",
+       "platform": "WebWare",
+       "owner": "Prime Minister's Office",
+       "tiers": ""
+      }
+     ],
+     "note": "eCabinet and eConstruction Permit are under implementation with launch foreseen for Q4 2024; nothing launched or piloted is stated."
+    }
+   }
+  }
+ }
+}

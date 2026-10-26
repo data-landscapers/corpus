@@ -1,14 +1,1 @@
-{
- "slug": "2026-02-25-gin-ceremonie-officielle-de-publication-des-resultats-preliminaires-du-rgp",
- "studies": {
-  "censuses": {
-   "countries": {
-    "GIN": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  }
- }
-}
+{"slug":"2026-02-25-gin-ceremonie-officielle-de-publication-des-resultats-preliminaires-du-rgp","studies":{"admindata":{"countries":{"GIN":{"facts":[],"systems":[],"note":"Census preliminary results; no administrative-records statistics stated."}}},"populationregister":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No population register stated."}}},"statisticslaw":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No statistics law stated."}}},"statisticsstrategy":{"countries":{"GIN":{"facts":[],"systems":[],"note":"No national statistics strategy stated."}}}}}

@@ -1,0 +1,148 @@
+{
+ "slug": "2026-03-24-sen-ousmane-sonko-prone-une-coordination-renforcee-pour-reussir-la-transfo",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Cloud solutions in national data centres are mentioned; no data centre for hire, Tier or cloud region is stated."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The Prime Minister said the most sensitive data will be hosted on national territory; a stated intention with no rule or drafting named."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "programme",
+       "value": "underway",
+       "fact": "Prime Minister Ousmane Sonko said a universal connectivity programme is under way to serve white zones, with the aim of free internet access for more than one million citizens, notably in rural and isolated areas.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Universal connectivity programme",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": "No count of sites connected or rural-urban survey figures."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Prime Minister Ousmane Sonko said cloud solutions are being deployed in the national data centres with security, compliance and sovereignty guarantees, and that the most sensitive data will be hosted on national territory under state control.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "New Deal technologique",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": "A stated goal; no rule in force or hosting in service is stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "Prime Minister Ousmane Sonko presented the single citizen window (guichet unique du citoyen), through which users would apply for and follow public services remotely, and announced an online consular services platform, at the 24 March 2026 launch of New Deal technologique projects.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Guichet unique du citoyen",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Guichet unique du citoyen",
+       "country_label": "Guichet unique du citoyen",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Government of Senegal",
+       "tiers": ""
+      }
+     ],
+     "note": "No count of services online, national ID sign-in or usage figure stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on who runs or builds government systems."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "National data centres are mentioned with no ownership, for-hire service or Tier stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on police station records."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Prime Minister Ousmane Sonko highlighted the implementation of the Startup Act and support measures for tech entrepreneurs.",
+       "as_of": "2026-03-24",
+       "date_precision": "day",
+       "system": "Startup Act",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": "No labelling or fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on hubs or technology parks."
+    }
+   }
+  }
+ }
+}

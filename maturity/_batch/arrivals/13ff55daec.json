@@ -1,0 +1,11 @@
+{"slug": "2025-05-21-sen-l-umoa-sanctionne-un-etablissement-de-monnaie-electronique-implante-au", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The sanction is by the UMOA Banking Commission; no licensing, switch or PAPSS role is stated."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The warning and XOF 38 million fine are for governance, risk, prudential and AML failings, not consumer-protection rules."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"SEN": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The BCEAO communique reports the UMOA Banking Commission, at its 20-21 March 2025 session, sanctioned an e-money institution in Senegal for breaches of the legal and regulatory texts applicable to e-money institutions.", "as_of": "2025-03-21", "date_precision": "day", "system": "UMOA e-money institution rules", "class": "law"}], "systems": [], "note": "The issuer is unnamed, so no non-bank licensing fact is recorded."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "An unnamed e-money institution is sanctioned; no service in use is described."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

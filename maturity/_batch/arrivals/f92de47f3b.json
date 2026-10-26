@@ -1,0 +1,81 @@
+{
+ "slug": "2024-05-23-ago-memorandum-of-understanding-to-develop-a-digital-governance-academy-in",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "On 22 May 2024 Angola's Institute of Administrative Modernisation signed an MoU with the e-Governance Academy under which a Digital Governance Academy will be established to develop digital governance programmes for government employees.",
+       "as_of": "2024-05-22",
+       "date_precision": "day",
+       "system": "Digital Governance Academy of Angola",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Governance Academy of Angola",
+       "country_label": "Digital Governance Academy of Angola",
+       "class": "csskills",
+       "platform": "",
+       "owner": "Institute of Administrative Modernisation with e-Governance Academy",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "An interoperability platform is mentioned only as an attempt in a minister's speech."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The MoU says the planned Digital Governance Academy will also develop digital literacy programmes for citizen inclusion.",
+       "as_of": "2024-05-22",
+       "date_precision": "day",
+       "system": "Digital Governance Academy of Angola",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The e-Governance Academy is to help build a government cybersecurity framework; no government staff running systems are stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "2026-02-18-nga-digital-literacy-a-catalyst-for-strengthening-public-service-capacity",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "NITDA's director general says 54,377 civil servants have enrolled in the DL4ALL programme run with the Office of the Head of the Civil Service, and over 40 per cent have completed.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Digital Literacy for All (DL4ALL)",
+       "class": "csskills"
+      },
+      {
+       "sub_indicator": "csskills",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The Head of the Civil Service says DL4ALL ensures inclusive access to digital skills across ministries, departments and agencies.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Digital Literacy for All (DL4ALL)",
+       "class": "csskills"
+      },
+      {
+       "sub_indicator": "csskills",
+       "aspect": "share",
+       "value": "published",
+       "fact": "NITDA's director general says the 54,377 civil servants enrolled in DL4ALL represent nearly 79 per cent participation, with over 40 per cent having completed.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Digital Literacy for All (DL4ALL)",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Literacy for All (DL4ALL)",
+       "country_label": "Nigeria",
+       "class": "csskills",
+       "platform": "Cisco Networking Academy / DISCO learning platform",
+       "owner": "NITDA / OHCSF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Programme described is for civil servants; the national 95 per cent by 2030 figure is a target, not a measured share."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  }
+ }
+}

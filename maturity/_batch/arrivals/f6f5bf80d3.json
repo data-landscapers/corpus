@@ -1,0 +1,126 @@
+{
+ "slug": "2025-10-16-dza-fin-du-calvaire-administratif-l-etat-finalise-la-plateforme-tout-en-un",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "AI not discussed in the article."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article says AI was not addressed at the announcement."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector AI tool named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing named."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "El Mohammedia data centre",
+       "country_label": "Algeria",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "state",
+       "tiers": ""
+      }
+     ],
+     "note": "El Mohammedia is said operational but the article does not say it rents to others."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Algeria's High Commissioner for Digitalisation, Meriem Benmouloud, announced a planned national cloud, one for ministries and public bodies without data centres and one for the public and local firms, to host and secure national information systems, within the 2025-2030 national digital transformation strategy.",
+       "as_of": "2025-10-16",
+       "date_precision": "day",
+       "system": "National cloud",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "The article places the planned national cloud and platform within Algeria's national digital transformation strategy 2025-2030, built on seven axes.",
+       "as_of": "2025-10-16",
+       "date_precision": "day",
+       "system": "Stratégie nationale de transformation numérique 2025-2030",
+       "class": "national"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Dzair Services",
+       "country_label": "Algeria",
+       "class": "eservices",
+       "platform": "national portal",
+       "owner": "state",
+       "tiers": ""
+      }
+     ],
+     "note": "Dzair Services is described as being finalised with launch imminent, not launched."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "El Mohammedia is not stated to be for hire, nor Tier rated; state hosting is described as a future capacity."
+    }
+   }
+  }
+ }
+}

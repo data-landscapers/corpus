@@ -1,0 +1,61 @@
+{
+ "slug": "2024-06-07-mrt-ami-tamakkun-civil-servant-digital-skills-platform",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The Minister of Digital Transformation opened a workshop on 7 June 2024 presenting the national Tamakkun platform, built with German cooperation (GIZ), to train public servants in basic digital skills.",
+       "as_of": "2024-06-07",
+       "date_precision": "day",
+       "system": "Tamakkun",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tamakkun",
+       "country_label": "Tamakkun",
+       "class": "csskills",
+       "platform": "online training platform",
+       "owner": "Ministry of Digital Transformation, Innovation and Administrative Modernisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection appears only as a skills topic; no law is stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The platform is for public servants, with job seekers also named as users; no programme for the public is stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The National Digital Agenda 2022-2025 is named, with no adoption or text status stated."
+    }
+   }
+  }
+ }
+}

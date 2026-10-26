@@ -1,0 +1,12 @@
+{"slug": "2025-12-31-rwa-mandatory-artificial-intelligence-ai-training-for-all-public-servants", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No AI rule or authority stated."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "A training notice only; no government AI system stated."}}},
+"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [], "note": "A training notice only."}}},
+"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "A training notice only; no local AI build stated."}}},
+"civilserviceskills": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "The Ministry of Public Service and Labour with the Ministry of ICT and Innovation launched a free online AI training programme of four courses for public servants, to be completed by 31 January 2026; no number trained is given.", "as_of": "2025-12-31", "date_precision": "day", "system": "Mandatory AI training for public servants", "class": "csskills"},
+{"sub_indicator": "csskills", "aspect": "reach", "value": "wide", "fact": "The notice makes the AI training mandatory for all public servants, including those in education and health institutions, with non-compliance subject to disciplinary measures.", "as_of": "2025-12-31", "date_precision": "day", "system": "Mandatory AI training for public servants", "class": "csskills"}
+], "systems": [], "note": "No share or number trained is published."}}},
+"coresystems": {"countries": {"RWA": {"facts": [], "systems": [{"system": "IPPIS", "country_label": "IPPIS", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "IPPIS is named only as where certificates are uploaded; its payroll role is not stated."}}},
+"schoolinternet": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

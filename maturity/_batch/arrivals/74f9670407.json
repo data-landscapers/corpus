@@ -1,41 +1,10 @@
-{
- "slug": "2026-10-13-mus-etat-civil-nouveau-format-pour-les-actes-de-naissance-de-mariage-et-de",
- "studies": {
-  "birthidlink": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  },
-  "civilregister": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  },
-  "idfrombirth": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  },
-  "registry": {
-   "countries": {
-    "MUS": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-13-mus-etat-civil-nouveau-format-pour-les-actes-de-naissance-de-mariage-et-de", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Civil status certificates only; no authentication service."}}},
+"digitalidlaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"idverification": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"populationregister": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a civil-status database generating certificate serial numbers; no population register stated."}}}
+}}

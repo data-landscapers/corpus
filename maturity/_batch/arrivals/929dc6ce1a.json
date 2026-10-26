@@ -1,0 +1,43 @@
+{
+ "slug": "2026-02-09-civ-cote-d-ivoire-le-projet-de-digitalisation-de-la-fonction-publique-et-d",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Afrik Soir reports the Public Service Ministry started the operational phase on 9 February 2026 of a KOICA-backed, FCFA 8 billion project for a national e-learning platform for ENA, CPFAE and all civil servants, running 2025-2029.",
+       "as_of": "2026-02-09",
+       "date_precision": "day",
+       "system": "National e-learning platform (KOICA project)",
+       "class": "csskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National e-learning platform",
+       "country_label": "Cote d'Ivoire",
+       "class": "csskills",
+       "platform": "e-learning",
+       "owner": "Ministry of Public Service / KOICA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No statement bearing on this question."
+    }
+   }
+  }
+ }
+}

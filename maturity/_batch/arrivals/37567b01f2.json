@@ -1,0 +1,7 @@
+{"slug": "2026-05-19-caf-atelier-strategique-sur-la-gouvernance-numerique-et-l-elaboration-de-l", "studies": {
+"cloudstrategy": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "A participant reports that the Public Sector Digital Governance Programme (PGNSP) held a workshop on 19 May 2026 on the preparation of the National Data Hosting Strategy of the Central African Republic.", "as_of": "2026-05-19", "date_precision": "day", "system": "Strategie Nationale d'hebergement des donnees", "class": "policy"}],
+"systems": [{"system": "Strategie Nationale d'hebergement des donnees", "country_label": "Central African Republic", "class": "policy", "platform": "", "owner": "PGNSP", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Sovereignty is only listed as a workshop topic; no adopted plan or rule is stated."}}},
+"interoperability": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Interoperability is only a workshop topic; no framework is stated as drafted."}}}
+}}

@@ -1,0 +1,69 @@
+{
+ "slug": "2025-12-18-nga-fg-says-31-ministries-now-fully-digital-ahead-of-paperless-deadline",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service digital skills training stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes internal paperless operation (GOVMail, 1Government Cloud) and a guidance chatbot; no citizen transaction portal stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "Nairametrics reports Galaxy Backbone's 1Government Cloud framework is designed to unify MDAs in one digital environment and that several federal ministries and agencies have begun operating on it, with GOVMail at 100,828 accounts as of 17 December 2025; the report does not state who owns Galaxy Backbone.",
+       "as_of": "2025-12-17",
+       "date_precision": "day",
+       "system": "1Government Cloud / GOVMail (Galaxy Backbone)",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "1Government Cloud",
+       "country_label": "Nigeria",
+       "class": "staff",
+       "platform": "",
+       "owner": "Galaxy Backbone Limited",
+       "tiers": ""
+      },
+      {
+       "system": "GOVMail",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "",
+       "owner": "OHCSF / Galaxy Backbone",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre ownership or tier stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug": "2026-10-23-zaf-revised-national-ai-policy-paper-expected-in-march", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Film and Publications Act and Electronic Communications Act are under review, but no draft rule on AI harms is published or in force."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government AI system is described."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No sectoral AI tool in a public system is described."}}},
+"aistrategy": {"countries": {"ZAF": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Department of Communications and Digital Technologies said on 21 October 2026 that it is revising the national AI policy, withdrawn after fictitious references were found, and expects to submit it to Cabinet in March 2027.", "as_of": "2026-10-21", "date_precision": "day", "system": "National AI policy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is described."}}},
+"consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Discussion concerns AI and the Consumer Protection Act generally, not digital financial services."}}},
+"datacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No specific data centre is stated."}}},
+"ictproduction": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No export figure or plant is stated."}}},
+"nationaldatacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No specific data centre is stated."}}}
+}}

@@ -1,0 +1,146 @@
+{
+ "slug": "2024-01-21-egy-cairo24-mohp-births-deaths-fully-automated",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on addressing."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no link between the civil register and the ID system."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "The health ministry spokesman says the births and deaths system is now fully computerised and health offices register births and deaths electronically, dropping paper registration, linked centrally to the ministry across the governorates.",
+       "as_of": "2024-01-21",
+       "date_precision": "day",
+       "system": "Births and deaths system of the health offices",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "deaths",
+       "value": "digital",
+       "fact": "The health ministry spokesman says health offices can now register and issue death certificates electronically.",
+       "as_of": "2024-01-21",
+       "date_precision": "day",
+       "system": "Births and deaths system of the health offices",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Births and deaths system of the health offices",
+       "country_label": "Egypt",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Health and Population",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on electoral registers."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on ID enrolment."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no ID number given at birth registration."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B;D",
+       "fact": "The health ministry spokesman says health offices register births and deaths electronically, without paper.",
+       "as_of": "2024-01-21",
+       "date_precision": "day",
+       "system": "Births and deaths system of the health offices",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "connected",
+       "fact": "The health ministry spokesman says the births and deaths system in the health offices of the governorates was recently linked centrally to the ministry in the Administrative Capital.",
+       "as_of": "2024-01-21",
+       "date_precision": "day",
+       "system": "Births and deaths system of the health offices",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Births and deaths system of the health offices",
+       "country_label": "Egypt",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Health and Population",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a social registry."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on a taxpayer register."
+    }
+   }
+  }
+ }
+}

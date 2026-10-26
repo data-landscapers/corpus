@@ -1,0 +1,18 @@
+{"slug": "2026-08-01-ken-ministry-urges-public-sector-to-adopt-ai-cloud-computing", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No AI rule or authority stated."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a call to adopt AI; no government AI system stated."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The ICT Principal Secretary said Oracle has decided to establish its AI-powered cloud platform in Kenya, described at the Nairobi summit as one of the world's most advanced AI platforms coming to the country.", "as_of": "2026-08", "date_precision": "month", "system": "Oracle AI-powered cloud platform", "class": "localai"}
+], "systems": [{"system": "Oracle AI-powered cloud platform", "country_label": "Oracle cloud region Nairobi", "class": "localai", "platform": "cloud", "owner": "Oracle", "tiers": ""}], "note": ""}}},
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The Oracle training named is for universities, centres and community hubs, not civil servants."}}},
+"cloudstrategy": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The Information, Communications and Digital Economy Cabinet Secretary said public bodies' cloud adoption is guided by the Kenya Cloud Policy 2025 and its implementation guidelines, under which institutions will classify data, buy only from accredited providers and migrate systems.", "as_of": "2026-08", "date_precision": "month", "system": "Kenya Cloud Policy 2025", "class": "policy"}
+], "systems": [], "note": "No published list of accredited providers or count of bodies moved is stated."}}},
+"datagovernance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A forthcoming National Data Governance Framework is mentioned with no drafting or consultation stated."}}},
+"digitalskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Oracle training is a plan with no national programme or count stated."}}},
+"digitalsovereignty": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The Cabinet Secretary said that under the Kenya Cloud Policy 2025 public institutions will classify their data, procure only from accredited providers and migrate systems in a structured and secure environment.", "as_of": "2026-08", "date_precision": "month", "system": "Kenya Cloud Policy 2025", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national digital strategy is named in the document."}}}
+}}

@@ -1,0 +1,259 @@
+{
+ "slug": "2024-06-01-swz-edpa-notice-no-3-2024-enforcement-notice-in-terms-of-section-41-of-the",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice is a data protection enforcement against MTN Eswatini over a mobile money statement; a data protection law alone is not consumer-protection rules for digital finance."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Section 5 of the Data Protection Act 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, which is acting under the Act.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "In Enforcement Notice No. 3/2024 the EDPA found MTN Eswatini in breach of the Act and imposed a warning with eleven directed measures.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Eswatini Data Protection Act 2022 is in force and the EDPA issued an enforcement notice under its section 41 in June 2024.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Section 5 of the Data Protection Act 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, which acted in this notice.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "The EDPA found MTN Eswatini in breach of sections 14(1)(b) and 14(2) over a mobile money statement shared with a third party, imposed a warning and directed eleven measures, with a report due in three months.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The Data Protection Act 2022 is in force and the EDPA enforced it against MTN Eswatini in June 2024.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Eswatini Communications Commission is designated as the data protection authority and is acting, having issued Enforcement Notice No. 3/2024.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "ruling",
+       "fact": "The EDPA ruled against MTN Eswatini in Enforcement Notice No. 3/2024, a warning with eleven directed measures.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "EDPA Notice No. 3/2024 (MTN Eswatini)",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated for Eswatini."
+    }
+   }
+  }
+ }
+}

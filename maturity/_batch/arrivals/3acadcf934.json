@@ -1,0 +1,9 @@
+{"slug": "2026-01-15-lby-advancing-the-national-cloud-computing-policy-in-libya", "studies": {
+"cloudstrategy": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "ESCWA and Libya's General Information Authority held a consultative workshop on 30 December 2025 on the draft national cloud computing policy, to gather public institutions' inputs ahead of its official adoption.", "as_of": "2025-12-30", "date_precision": "day", "system": "national cloud computing policy", "class": "policy"}],
+"systems": [{"system": "national cloud computing policy", "country_label": "Libya", "class": "policy", "platform": "", "owner": "General Information Authority", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The workshop only urged a national data classification system; no draft rule on state data is stated."}}},
+"disabilityaccess": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Accessibility policy appears only as a related-news headline."}}},
+"nationaldatacentres": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"opendatause": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on open data."}}}
+}}

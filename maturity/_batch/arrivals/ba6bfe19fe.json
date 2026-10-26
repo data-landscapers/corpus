@@ -1,0 +1,18 @@
+{"slug": "2025-11-06-zwe-digital-skills-for-civil-servants", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI rules."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "Finance Minister Mthuli Ncube told the 2026 Pre-Budget Seminar that digital skills certification (Microsoft, Google, cybersecurity) will be mandatory, targeting 10,000 civil servants a year; the item is a proposed priority.", "as_of": "2025-11-06", "date_precision": "day", "system": "Digital skills certification for civil servants", "class": "csskills"}
+], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The Herald says Zimbabwe has a government-led national initiative to train 1.5 million coders by 2028 in AI, data science and programming.", "as_of": "2025-11-06", "date_precision": "day", "system": "National initiative to train 1.5 million coders", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"ictstrategy": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Herald says Government has implemented the National ICT Policy (2022-2027).", "as_of": "2025-11-06", "date_precision": "day", "system": "National ICT Policy (2022-2027)", "class": "sector"},
+{"sub_indicator": "sector", "aspect": "period", "value": "to:2027", "fact": "The National ICT Policy is given as running 2022 to 2027.", "as_of": "2025-11-06", "date_precision": "day", "system": "National ICT Policy (2022-2027)", "class": "sector"}
+], "systems": [{"system": "SMART Zimbabwe 2030 Master Plan", "country_label": "SMART Zimbabwe 2030 Master Plan", "class": "other", "platform": "", "owner": "Government of Zimbabwe", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Training only, nothing on government staff running systems."}}},
+"publicconsultation": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No consultation on a digital law or policy stated."}}}
+}}
