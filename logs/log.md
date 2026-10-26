@@ -12,6 +12,10 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-26 06:52 · **RENDER** · 34m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; deployed 1c0ed92 - ok
+2026-10-26 06:24 · **REBUILD** · 26m · customs customs: 51 cells reassessed, 4 moved; 54 searched, 235 staged; 73.0M tokens - ok
+2026-10-26 06:24 · **REBUILD** · 26m · crossborderpayments crossborder: 11 cells reassessed, 3 moved; 54 searched, 197 staged; 72.9M tokens - ok
+2026-10-26 06:24 · **REBUILD** · 26m · coresystems core: 3 cells reassessed, 3 moved; 54 searched, 206 staged; 72.9M tokens - ok
 2026-10-26 06:17 · **REVIEW** · 19m · AGO: status 24 sections revised (21 trimmed), progress 2 cells, finance 0 rows, ledger 1 row; 1 deal queued, 0 notes for OSINT - ok
 2026-10-26 06:10 · **REVIEW** · 12m · BDI: status 14 sections revised (14 trimmed), progress 5 cells, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
 2026-10-26 05:57 · **BUILD** · 2h44m · catalogue 33,696; 432 sources, 50 moved, 179 minted, 66 status sections revised; data centres 61, 24 modified, 2 added; maturity 443 facts, 44 stages moved; bulletin 11; finance 3 sittings, 0 waiting; register 10; notes 264-265; messages 31-37 - ok

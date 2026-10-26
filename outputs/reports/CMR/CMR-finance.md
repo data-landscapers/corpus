@@ -1,6 +1,6 @@
 ---
 title: Cameroon: finance
-compiled: 2026-10-23
+compiled: 2026-10-26
 place: CMR
 ---
 
@@ -9,7 +9,7 @@ place: CMR
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">720</td><td class="num zero"></td><td class="num zero"></td><td class="num">30</td><td class="num">280</td><td class="num">342</td><td class="num total">1,372</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">720</td><td class="num zero"></td><td class="num zero"></td><td class="num">30</td><td class="num">279</td><td class="num">342</td><td class="num total">1,371</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">172</td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">28</td><td class="num">96</td><td class="num total">303</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">42</td><td class="num zero"></td><td class="num zero"></td><td class="num">126</td><td class="num">83</td><td class="num">16</td><td class="num total">266</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">18</td><td class="num total">18</td></tr>
@@ -25,7 +25,7 @@ place: CMR
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">966</td><td class="num">5</td><td class="num">3</td><td class="num">166</td><td class="num">394</td><td class="num">485</td><td class="num total">2,019</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">966</td><td class="num">5</td><td class="num">3</td><td class="num">166</td><td class="num">393</td><td class="num">485</td><td class="num total">2,019</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/CMR/all-finance.html">Full table &mdash; 79 rows, all 12 fields &rarr;</a>
@@ -37,7 +37,7 @@ place: CMR
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">30</td><td class="num">55</td><td class="num">72</td><td class="num total">157</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">30</td><td class="num">54</td><td class="num">72</td><td class="num total">156</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">7</td><td class="num">16</td><td class="num">96</td><td class="num total">119</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">18</td><td class="num">17</td><td class="num">16</td><td class="num total">50</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">18</td><td class="num total">18</td></tr>
@@ -46,7 +46,7 @@ place: CMR
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">58</td><td class="num">90</td><td class="num">203</td><td class="num total">352</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">58</td><td class="num">90</td><td class="num">203</td><td class="num total">351</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
