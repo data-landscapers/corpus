@@ -48,3 +48,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-26,UGA,dpi.pay--consumer-protection,fact,unplaced,4,UGA-007;UGA-004,Bank of Uganda and UMRA took complaints about mobile money and digital lenders in 2024: question 3
 2026-10-26,ZAF,dpi.pay--consumer-protection,fact,2,4,ZAF-003;ZAF-002,National Financial Ombud takes complaints on mobile and internet banking fraud (2025): question 3
 2026-10-26,ZMB,dpi.pay--consumer-protection,fact,3,4,ZMB-003,"CCPC resolved complaints in 2024, mobile money chief among ICT complaints: question 3"
+2026-10-26,GMB,dpi.pay--consumer-protection,ladder,3,2,GMB-003,"Bill, 2026-10-26, message 34: a commission study's account of rules is not an action by government."
+2026-10-26,CMR,dpi.pay--consumer-protection,ladder,3,3,CMR-001,"Bill, 2026-10-26, message 34: dated by the source; Cameroon stays at 3."

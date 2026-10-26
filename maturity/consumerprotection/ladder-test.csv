@@ -1,55 +1,55 @@
 iso3,stage,rules,redress,enforced,stage_sources
-AGO,unplaced,,,,
+AGO,5,inforce,redress,enforced,AGO-005;AGO-007
 BDI,unplaced,,,,
-BEN,4,inforce,redress,,BEN-001
-BFA,3,inforce,,,BFA-002
+BEN,4,inforce,redress,,BEN-001;BEN-002
+BFA,4,inforce,redress,,BFA-005;BFA-003
 BWA,3,inforce,,,BWA-001
 CAF,no evidence,,,,
-CIV,4,inforce,redress,,CIV-002
-CMR,no evidence,,,,
+CIV,4,inforce,redress,,CIV-003;CIV-002
+CMR,3,inforce,,,CMR-001
 COD,no evidence,,,,
 COG,unplaced,,,,
 COM,no evidence,,,,
-CPV,no evidence,,,,
+CPV,4,inforce,redress,,CPV-001
 DJI,no evidence,,,,
-DZA,no evidence,,,,
+DZA,2,draft,,,DZA-001
 EGY,3,inforce,,,EGY-003
 ERI,no evidence,,,,
-ETH,3,inforce,,,ETH-001
-GAB,2,draft,,,GAB-001
-GHA,3,inforce,,,GHA-005;GHA-001
-GIN,unplaced,,,,
-GMB,3,inforce,,,GMB-001
+ETH,5,inforce,redress,enforced,ETH-003
+GAB,3,inforce,,,GAB-005
+GHA,5,inforce,redress,enforced,GHA-013;GHA-008
+GIN,3,inforce,,,GIN-001
+GMB,2,draft,,,GMB-003
 GNB,no evidence,,,,
 GNQ,no evidence,,,,
-KEN,3,inforce,,,KEN-001
+KEN,5,inforce,redress,enforced,KEN-004
 LBR,unplaced,,,,
-LBY,unplaced,,,,
-LSO,no evidence,,,,
-MAR,unplaced,,,,
-MDG,3,inforce,,,MDG-001
+LBY,4,inforce,redress,,LBY-003
+LSO,4,inforce,redress,,LSO-002
+MAR,4,inforce,redress,,MAR-002
+MDG,3,inforce,,,MDG-002;MDG-001
 MLI,no evidence,,,,
-MOZ,3,inforce,,,MOZ-001
-MRT,no evidence,,,,
+MOZ,5,inforce,redress,enforced,MOZ-003
+MRT,4,inforce,redress,,MRT-001
 MUS,no evidence,,,,
-MWI,3,inforce,,,MWI-001
+MWI,5,inforce,redress,enforced,MWI-003;MWI-005
 NAM,3,inforce,,,NAM-001
 NER,1,none,,,NER-001
-NGA,5,inforce,redress,enforced,NGA-002
-RWA,4,inforce,redress,,RWA-005
+NGA,5,inforce,redress,enforced,NGA-002;NGA-006
+RWA,4,inforce,redress,,RWA-005;RWA-006
 SDN,5,inforce,redress,enforced,SDN-001;SDN-004
-SEN,4,inforce,redress,,SEN-001
+SEN,5,inforce,redress,enforced,SEN-002
 SLE,unplaced,,,,
 SOM,2,draft,,,SOM-001
 SSD,3,inforce,,,SSD-001;SSD-002
 STP,unplaced,,,,
 SWZ,5,inforce,redress,enforced,SWZ-004
-SYC,4,inforce,redress,,SYC-003
+SYC,5,inforce,redress,enforced,SYC-005
 TCD,3,inforce,,,TCD-001
 TGO,no evidence,,,,
 TUN,3,inforce,,,TUN-001
-TZA,4,inforce,redress,,TZA-003
-UGA,unplaced,,,,
-ZAF,2,draft,,,ZAF-001
-ZMB,3,inforce,,,ZMB-001
+TZA,5,inforce,redress,enforced,TZA-006;TZA-008
+UGA,4,inforce,redress,,UGA-007;UGA-004
+ZAF,4,inforce,redress,,ZAF-002;ZAF-003
+ZMB,4,inforce,redress,,ZMB-003
 ZWE,4,inforce,redress,,ZWE-003

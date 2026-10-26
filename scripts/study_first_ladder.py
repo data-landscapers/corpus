@@ -35,6 +35,7 @@ import argparse
 import calendar
 import datetime as dt
 import os
+import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -67,6 +68,19 @@ def correct(rows: list[dict], fixes: list[dict]) -> tuple[list[dict], int]:
     return out, changed
 
 
+def seen(study: dict, r: dict) -> dt.date:
+    """The date the window is counted from: the fact's, or for an aspect `"source_dated"` names the
+    later of the fact's and its source's *(Bill, 2026-10-26, message 34: "a source from the last
+    three years says rules are in force" dates by the source, not by when the rule was adopted)*.
+    Only a standing state is named: an event, a fine or a year's complaint count, keeps its own date."""
+    d = last_day(r["as_of"])
+    if r["aspect"] in study.get("source_dated", []):
+        m = re.match(r"(\d{4}-\d{2}-\d{2})-", r.get("source_slug") or "")
+        if m:
+            d = max(d, dt.date.fromisoformat(m.group(1)))
+    return d
+
+
 def keys(study: dict) -> tuple[str, str, str, str, str]:
     """`(first, second, third, second's value, third's value)` from `study.json`."""
     a1, a2, a3 = study["aspects"]
@@ -82,7 +96,7 @@ def firsts(study: dict) -> tuple[str, str, str]:
 def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str, unplaced: str) -> dict:
     k1, k2, k3, v2, v3 = keys(study)
     top, mid, low = firsts(study)
-    live = [(last_day(r["as_of"]), r) for r in rows if r.get("as_of") and last_day(r["as_of"]) <= as_at]
+    live = [(seen(study, r), r) for r in rows if r.get("as_of") and last_day(r["as_of"]) <= as_at]
     live.sort(key=lambda p: p[0], reverse=True)
     three = study_lib.months_back(as_at, 36)
     pick = lambda aspect, value: [  # noqa: E731

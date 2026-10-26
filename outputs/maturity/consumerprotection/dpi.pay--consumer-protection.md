@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 14 |
-| 3 Established | 13 |
-| 2 Nascent | 2 |
+| 3 Established | 12 |
+| 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 6 |
 | No evidence | 10 |
@@ -200,12 +200,6 @@ Consumer rules covering payment institutions and mobile money were in force in 2
 
 - CEMAC Regulation 01/20 of 3 July 2020 on consumer protection for banking products and services, with a Prime Minister's decree of 21 March 2024 and two ministerial arrets of 7 January 2025, sets the financial mediation framework, covering payment institutions and mobile money disputes ([source, 2025-01-07](https://www.echosdeleco.com/articles/mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-26-octobre)).
 
-### Gambia: 3 Established
-
-Consumer-protection rules for digital finance were in force in 2023; a complaints body is not known.
-
-- The Gambia Competition and Consumer Protection Commission's study says the Regulation for the Provision of Retail Payment Service 2023 requires payment service providers to give a clear description of services, rates, terms, conditions and charges, and repealed the 2011 mobile money regulation ([source, 2023](https://gcc.gm/wp-content/uploads/2025/03/DRAFT-Digital-Market-Study-Report-final-FOR-VALIDATION1.pdf)).
-
 ### Guinea: 3 Established
 
 Consumer-protection standards covered e-money clients in 2026; a complaints body is not known.
@@ -255,6 +249,12 @@ Fee rules covering mobile banking were in force in 2026; a complaints body is no
 The central bank was drafting consumer rules for digital finance in 2024; whether they took effect is not known.
 
 - The Bank of Algeria's director general of credit and banking regulation says the bank is drafting a regulation to protect consumers of financial services, notably digital ones, to be promulgated before the end of 2024 ([source, 2024-10-09](https://algerie-eco.com/2024/10/09/protection-des-consommateurs-des-services-financiers-un-reglement-sera-promulgue-avant-fin-2024/)).
+
+### Gambia: 2 Nascent
+
+The consumer-protection Acts were being revised for digital markets in 2025; no government source shows rules in force.
+
+- The Ministry of Trade, with the GCCPC and Commonwealth support, is working with a consultant to revise the Competition and Consumer Protection Acts to address digital markets, including e-commerce and digital financial platforms ([source, 2025-04-09](https://alkambatimes.com/stakeholders-endorse-gccpc-study-on-digital-market-competition-and-consumer-welfare/)).
 
 ### Somalia: 2 Nascent
 

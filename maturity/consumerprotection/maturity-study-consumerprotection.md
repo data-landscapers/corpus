@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Complaints handled | Yes to 3 |
 | 5 Enforced | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `rules` (`inforce`, `draft`, `none`) for stage 1 and questions 1 and 2, `redress` (`redress`) for 3 and `enforced` (`enforced`) for 4.
+A later yes answers the earlier ones (method §3.3). **Dated by the source** *(Bill, 2026-10-26, message 34)*: rules in force and a complaints body are standing states, so a source from the last three years answers questions 2 and 3 whenever the rule was adopted (`study.json` → `source_dated`); a fine or a year's complaint count keeps its own date. **A study's account is not a government action** (same message): Gambia's competition commission study is removed and Gambia stands at 2. `study.json` holds this as three aspects: `rules` (`inforce`, `draft`, `none`) for stage 1 and questions 1 and 2, `redress` (`redress`) for 3 and `enforced` (`enforced`) for 4.
 
 ## 4. The norm
 
