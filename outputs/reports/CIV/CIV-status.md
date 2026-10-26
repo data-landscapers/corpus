@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-10-24
+compiled: 2026-10-26
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 255
+sources_cited: 257
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -317,7 +317,7 @@ PADCI's first phase [funds advanced and intermediate digital skills training aim
 
 The pipeline it all draws on is narrow at the top. Tertiary ICT teaching is anchored by the public [École supérieure africaine des TIC, founded in 2012, ISO 9001-certified, a certification centre for Cisco, Microsoft and Oracle and offering Franco-Ivorian double degrees](https://esatic.ci/en/presentation-of-esatic/), with private and international providers alongside it; the organised developer community it feeds is concentrated in Abidjan around groups such as [Code d'Ivoire](https://github.com/codedivoire). That base performs: Ivorian students [won the cloud computing category at the Huawei ICT Competition world final in 2025](https://www.fratmat.info/article/2634215/culture/huawei-ict-competition-2024-2025-accueil-triomphal-a-abidjan-pour-les-champions-du-monde-ivoiriens) and were [sent to China again in 2026](https://www.fratmat.info/article/2642046/societe/innovation-concours-mondial-pour-les-jeunes-talents-des-etudiants-ivoiriens-vont-representer-la-cote-divoire-en-chine), making that a standing route for technical trainees.
 
-Inside the administration the training is small and specific rather than programmatic: Estonia's Cybernetica, with Digital Afrique Telecom, [ran a 38-participant seminar for SNDI and administration staff on operating the interoperability platform](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) (July 2026), and around twenty staff of the transport-flow observatory [were trained over 28-30 July 2026 to build their own AI assistants](https://www.fratmat.info/article/2643591/economie/transformation-numerique-lobservatoire-de-la-fluidite-des-transports-mise-sur-lintelligence-artificielle). On absorption, a [World Bank youth employment and skills project](https://projects.worldbank.org/en/projects-operations/project-detail/P172800) carries digital literacy and ICT training together with a digital job-matching platform, and the ministry itself [advertised six senior posts in May 2026](https://www.wearetech.africa/fr/fils/actualites/tech/cote-d-ivoire-six-cadres-recherches-dans-l-ia-la-cybersecurite-et-la-transformation-numerique) covering AI, cybersecurity and digital-economy regulation.
+Inside the administration the one programme on record is Korean-financed: a [project to build a national e-learning platform for civil servants and the national school of administration entered its operational phase in February 2026, costed at FCFA 8bn over 2025-2029, FCFA 6bn of it from Korea](https://www.afriksoir.net/cote-divoire-projet-digitalisation-fonction-publique-ena-entre-phase-operationnelle/), and its [governance framework and priority modules were validated in March 2026](https://abidjantv.net/societe/cote-divoire-projet-lms-dameliorer-lacces-a-des-contenus-numeriques-au-sein-de-ladministration-publique/). The rest is small and specific: Estonia's Cybernetica, with Digital Afrique Telecom, [ran a 38-participant seminar for SNDI and administration staff on operating the interoperability platform](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) (July 2026), and around twenty staff of the transport-flow observatory [were trained over 28-30 July 2026 to build their own AI assistants](https://www.fratmat.info/article/2643591/economie/transformation-numerique-lobservatoire-de-la-fluidite-des-transports-mise-sur-lintelligence-artificielle). On absorption, a [World Bank youth employment and skills project](https://projects.worldbank.org/en/projects-operations/project-detail/P172800) carries digital literacy and ICT training together with a digital job-matching platform, and the ministry itself [advertised six senior posts in May 2026](https://www.wearetech.africa/fr/fils/actualites/tech/cote-d-ivoire-six-cadres-recherches-dans-l-ia-la-cybersecurite-et-la-transformation-numerique) covering AI, cybersecurity and digital-economy regulation.
 
 ### Research institutions
 <!-- capacity.research -->
