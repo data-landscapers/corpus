@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-10-24
+compiled: 2026-10-26
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 218
+sources_cited: 219
 sections_written: 39
 not_established: 1
 acquire_lines: 67
@@ -309,13 +309,13 @@ What has changed is the paperwork at the classroom door. [Addis Ababa announced 
 ### Training and skills
 <!-- capacity.training -->
 
-Ethiopia has a digital skills strategy for the public service and a freely available training programme delivering it, but [the content covers basic digital skills and data literacy rather than advanced skills](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The state is training its staff to use systems, not to build them.
+Ethiopia has a digital skills strategy for the public service and a freely available training programme delivering it, but [the content covers basic digital skills and data literacy rather than advanced skills](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The state is training its staff to use systems, not to build them, and what it counts is enrolment: [more than 120,000 Addis Ababa government employees enrolled in Udacity coding courses, many skipping the material to pass the tests, and completed courses sold at 200 Birr a certificate](https://addisfortune.news/civil-servants-rush-to-secure-digital-certificates-skills-take-a-back-seat) (August 2025).
 
 External money for skills is substantial and long-dated. The European Union [committed EUR 14 million over 2024-2032 to digital skills development in the technical and vocational education and training system](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-ACT-62753) (2024), as part of a stated 360-degree approach to digital transformation. The UK's [EthiopiAI programme runs 2025-2029 and funds a specialist facility giving technical assistance to Ethiopian public sector bodies alongside local skills-building, aimed at healthcare, education and government administration](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-400750/summary), and the World Bank's [Digital Foundations Project carries digital skills as one component beside broadband, digital government platforms and cybersecurity](https://projects.worldbank.org/en/projects-operations/project-detail/P171034), closing in 2026. The government's flagship coder programme [is now the 7 Million Coders initiative](https://www.ameco.et/english/ethiopia-launches-ambitious-7-million-coders-initiative-to-build-continental-tech-hub/) (August 2026); no enrolment or completion figure is held. The [Mastercard Foundation's Young Africa Works is a youth-employment programme across many sectors, targeting dignified work for 10 million young Ethiopians by 2030](https://mastercardfdn.org/en/news/the-mastercard-foundation-and-partners-enable-127-million-young-ethiopians-to-access-employment-opportunities/) (2023).
 
 Below that, individual systems train the people who have to run them. [More than 300 Ethiopian experts and data collectors have been trained on the National Livestock Data Standards through a training-of-trainers cascade the Ministry of Agriculture owns, with training continuing toward nationwide adoption](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) (July 2026).
 
-Training is not the only thing missing. [Health workers using the electronic community health information system name the burden of parallel paper and electronic recording, and fear of personal liability for stolen devices, among the barriers to using it, alongside poor training](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) (2023). Nor is the wider technical workforce the shortage: [Ethiopia's developer population is large and was growing fast in 2023](https://github.blog/news-insights/research/the-state-of-open-source-and-ai/), and [teacher and staff provision is among the country's strongest education scores](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023) while the quality of what is taught has slipped.
+Nor is training the only gap. [Health workers using the electronic community health information system name the burden of parallel paper and electronic recording, and fear of personal liability for stolen devices, among the barriers to using it, alongside poor training](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) (2023). Nor is the wider technical workforce the shortage: [Ethiopia's developer population is large and was growing fast in 2023](https://github.blog/news-insights/research/the-state-of-open-source-and-ai/), and [teacher and staff provision is among the country's strongest education scores](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf) (2023) while the quality of what is taught has slipped.
 
 ### Research institutions
 <!-- capacity.research -->
