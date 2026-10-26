@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-bdi-burundi-embarks-on-a-full-digitalization-journey",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "The article says optic-fibre ISPs and satellite providers (Starlink, NT Global) drive Burundi's internet market.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Starlink",
+   "class": "satellite"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

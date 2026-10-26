@@ -6,3 +6,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,BEN,infra.connect--satellite-broadband-licensing-and-availability,fact,3,3,BEN-002,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-18,BWA,infra.connect--satellite-broadband-licensing-and-availability,fact,4,4,BWA-003;BWA-005,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,MAR,infra.connect--satellite-broadband-licensing-and-availability,fact,1,3,MAR-005,Stage 4c: 2 news arrival(s) read; restaged from every row held.
+2026-10-26,CPV,infra.connect--satellite-broadband-licensing-and-availability,fact,3,3,CPV-004;CPV-012,"ARME Q2 2026 via Diario Economico: Starlink 0.87% of internet subscriptions, a regulator's count; one network on sale, stays 3"
+2026-10-26,BDI,infra.connect--satellite-broadband-licensing-and-availability,fact,3,3,BDI-003,"Community Voice Mar 2026: Starlink and NT Global named as satellite providers; NT Global's network not named, stays 3"

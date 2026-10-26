@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "The ministry's representative says over 4,000 km of the national optical fibre network has been completed, added to over 3,000 km by national operators for a 7,000 km total, with tenders prepared for 3,000 km more.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Reseau national de fibre optique",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

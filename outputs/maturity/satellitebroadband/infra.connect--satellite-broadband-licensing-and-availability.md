@@ -78,9 +78,10 @@ Satellite broadband licensed and on sale by 2026, on one satellite network.
 
 ### Cape Verde: 3 Established
 
-Satellite broadband licensed and on sale by 2026, on one satellite network.
+Satellite broadband from one network was on sale in 2026 and the regulator counts its share; a second network is not known.
 
 - A table of Starlink availability in Africa lists Cabo Verde as 'Available'; published 2026-07-17, which is used as the date ([source, 2026-07-17](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html)).
+- ARME's report for the second quarter of 2026 gives Starlink's share of internet access subscriptions in Cabo Verde as 0.87%, against 72.6% for Cabo Verde Telecom and 26.5% for Unitel ([source, 2026-06](https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total)).
 
 ### Central African Republic: 3 Established
 

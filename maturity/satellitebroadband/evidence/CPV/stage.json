@@ -1,16 +1,17 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "satellite",
-   "stage": "3",
-   "service": "sale",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-004",
-   "gaps": "No source held says services on two different satellite networks are on sale.",
-   "note": "Counted from the four questions by study-ladder-satellitebroadband.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "satellite",
+      "stage": "3",
+      "service": "sale",
+      "counted": "counted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-004;CPV-012",
+      "gaps": "No source held says services on two different satellite networks are on sale; ARME gives Starlink subscribers as a share of a published total.",
+      "note": "Starlink is on sale and ARME publishes its share of 500,263 internet subscriptions for June 2026; with one satellite network on sale the cell stays at 3, since stage 5 needs stage 4.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }
