@@ -1,12 +1,12 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 212
+sources_cited: 213
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -110,7 +110,7 @@ The World Bank's [USD 20 million Digital Cabo Verde project](https://projects.wo
 
 The regulator's [second-quarter 2026 count puts active SIM cards at 589,431, a penetration of 114 per cent and 0.1 per cent down on the quarter, and internet subscriptions at 500,263, down 2.2 per cent on the quarter and up 3.2 per cent on the year, with fixed broadband up 14.7 per cent on the year](https://expressodasilhas.cv/economia/2026/10/22/assinaturas-de-internet-fixa-aumentam-147-num-ano/105202). [The internet subscriber base had contracted during 2025 while the mobile base grew by about one per cent](https://www.telecompaper.com/news/cape-verdes-mobile-base-grows-1-in-2025-while-internet-subscribers-contract--1567649), and [73.5 per cent of individuals used the internet in 2023](https://fred.stlouisfed.org/series/ITNETUSERP2CPV), with penetration still [around three-quarters of the population at the end of 2025](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/).
 
-[Starlink went live in December 2024](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/), well before a dedicated satellite framework reached consultation, and held [0.87 per cent of internet subscriptions at the end of June 2026, up 0.2 points on the quarter, against 72.6 per cent for CVTelecom and 26.5 per cent for Unitel T+](https://expressodasilhas.cv/economia/2026/10/22/assinaturas-de-internet-fixa-aumentam-147-num-ano/105202).
+[Starlink went live in December 2024](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/), well before a dedicated satellite framework reached consultation, and held [0.87 per cent of internet subscriptions at the end of June 2026, up 0.2 points on the quarter, against 72.6 per cent for CVTelecom and 26.5 per cent for Unitel T+](https://expressodasilhas.cv/economia/2026/10/22/assinaturas-de-internet-fixa-aumentam-147-num-ano/105202); on the same regulator's figures it [carried 18 per cent of internet traffic in the second quarter of 2026, against 6 per cent a year earlier](https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total).
 
 The state extended a [€37 million sovereign guarantee to the incumbent CV Telecom in April 2026 for telecommunications infrastructure, including an inter-island submarine cable](https://expressodasilhas.cv/economia/2026/04/21/estado-concede-aval-de-37-milhoes-de-euros-a-cv-telecom-para-reforco-das-telecomunicacoes/102425), and within a fortnight the competitor [UNITEL T+ objected, demanding network neutrality, fair competition and open-access separation of infrastructure from services](https://www.anacao.cv/noticia/2026/05/02/telecomunicacoes-unitel-t-reclama-do-governo-neutralidade-e-concorrencia-justa-no-sector/).
 
