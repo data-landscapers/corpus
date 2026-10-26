@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-gha-protecting-your-rights-in-the-digital-space-what-every-mobile-money-mo",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article describes the Payment Systems and Services Act, 2019 (Act 987) as the law governing mobile money, electronic money issuers and payment service providers, with complaint-handling duties for them.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Payment Systems and Services Act, 2019 (Act 987)",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "No statement on non-bank licensing or connection rules."
+}

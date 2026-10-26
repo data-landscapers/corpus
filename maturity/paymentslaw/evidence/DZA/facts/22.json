@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-10-dza-prestataires-de-services-de-paiement-le-rappel-a-l-ordre-d-un-banquier",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Zerouali says the monetary and banking law 23-09 (article 97) and Bank of Algeria Regulations 24-01, 24-04 and 25-02 define the framework for payment service providers and digital banks, which he calls clearly established.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Law 23-09 and Bank of Algeria Regulations 24-01, 24-04, 25-02",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "Regulation 25-02 sets the conditions and procedure for licensing payment service providers, which are non-bank entities; Zerouali says none is yet licensed and several applications are under examination.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Bank of Algeria Regulation 25-02",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

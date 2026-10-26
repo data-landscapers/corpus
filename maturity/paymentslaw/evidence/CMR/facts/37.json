@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-13-cmr-fraude-mobile-money-au-cameroun-pourquoi-la-sensibilisation-ne-suffira",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "CEMAC/UMAC/COBAC Regulation 04/18 of 21 December 2018 on payment services imposes opposition and blocking means, a permanent complaints mechanism and transaction authenticity solutions, and mobile money falls under it.",
+   "as_of": "2018-12-21",
+   "date_precision": "day",
+   "system": "CEMAC Regulation 04/18",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

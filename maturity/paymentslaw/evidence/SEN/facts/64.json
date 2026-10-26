@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-sen-l-umoa-sanctionne-un-etablissement-de-monnaie-electronique-implante-au",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The BCEAO communique reports the UMOA Banking Commission, at its 20-21 March 2025 session, sanctioned an e-money institution in Senegal for breaches of the legal and regulatory texts applicable to e-money institutions.",
+   "as_of": "2025-03-21",
+   "date_precision": "day",
+   "system": "UMOA e-money institution rules",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "The issuer is unnamed, so no non-bank licensing fact is recorded."
+}

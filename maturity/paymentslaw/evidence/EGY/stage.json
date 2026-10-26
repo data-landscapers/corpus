@@ -1,16 +1,17 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "3",
-   "standing": "in-force",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-002;EGY-001",
-   "gaps": "No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.",
-   "note": "Counted from the four questions by study-ladder-paymentslaw.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "4",
+      "standing": "in-force",
+      "reach": "non-bank",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-003;EGY-004;EGY-001",
+      "gaps": "No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.",
+      "note": "The Central Bank of Egypt's licensing rules of 19 June 2025 license payment institutions, domestic and foreign-based, to provide payment services (EGY-004), so stage 4. No rule held requires providers to connect, so not 5.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,law,standing,coverage,in-force,2026-07-14,GHA-001;GHA-003,,
+GHA,law,standing,coverage,in-force,2026-07-14,GHA-001;GHA-003;GHA-006,,
 GHA,law,reach,coverage,connect,2018,GHA-005,GHA-002=non-bank;GHA-004=non-bank,

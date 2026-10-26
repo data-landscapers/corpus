@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-15-lbr-mtn-mobile-money-faces-cbl-fine-for-regulatory-non-compliance",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Central Bank of Liberia fined a mobile money provider for persistent breaches of its mobile money regulations, which it enforces as the regulator overseeing mobile money operations.",
+   "as_of": "2024-06-15",
+   "date_precision": "day",
+   "system": "CBL mobile money regulations",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -21,8 +21,8 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 | Stage | Countries |
 |---|---|
 | 5 Leading | 17 |
-| 4 Operating | 28 |
-| 3 Established | 8 |
+| 4 Operating | 29 |
+| 3 Established | 7 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -249,6 +249,14 @@ Djibouti's 2016 payment law is in force and the central bank has licensed two no
 - The Banque Centrale de Djibouti's register of licensed institutions lists two e-money issuers, D-Money (licensed 2020) and WAAFI (licensed 2022), beside banks ([source, 2025](https://banque-centrale.dj/les-etablissements-agrees/)).
 - Loi n° 118/AN/15/7ème L of 2016 creating the National Payment System ('Loi sur le Système de Paiement National') was adopted by the National Assembly and promulgated, applying across Djibouti to every payment service and system operated there in whole or part; document published 2016-07-16 and no earlier date is given for entry into force ([source, 2016-07-16](https://www.journalofficiel.dj/texte-juridique/loi-n118-an-15-7eme-l-portant-creation-dun-systeme-de-paiement-national-sa-reglementation-et-sa-surveillance/)).
 
+### Egypt: 4 Operating
+
+Egypt's central bank licenses payment companies that are not banks under 2025 rules; whether providers must connect to each other is not known.
+
+- The Central Bank of Egypt issued licensing and registration rules for payment system operators and payment service providers on 19 June 2025 under Central Bank and Banking System Law No. 194 of 2020, giving existing payment institutions 12 months to apply for a licence ([source, 2025-06-19](https://www.cbe.org.eg/en/news-publications/news/2025/06/19/08/20/psos-and-psps-licensing-rules)).
+- The Central Bank of Egypt's rules of 19 June 2025 set licensing conditions for payment institutions, domestic and foreign-based, providing payment services or operating payment systems for customers in Egypt, with minimum capital and financial guarantee requirements ([source, 2025-06-19](https://www.cbe.org.eg/en/news-publications/news/2025/06/19/08/20/psos-and-psps-licensing-rules)).
+- The Central Bank of Egypt issued the Rules for Licensing and Registration of Payment System Operators and Payment Service Providers in June 2025, with transitional provisions requiring existing payment institutions to apply for a CBE licence within one year, ending June 2026 (month taken from the document's statement of 'June 2025'; the page itself is dated 2025-09-01) ([source, 2025-06](https://www.cbe.org.eg/en/news-publications/news/2025/09/01/13/10/payment-system-operators-and-payment-service-providers)).
+
 ### Equatorial Guinea: 4 Operating
 
 Equatorial Guinea is under the 2018 regional payment services regulation, which licenses non-banks; none was licensed there by 2023.
@@ -392,13 +400,6 @@ The Comoros has had central bank e-money rules since 2017, under a 2015 payments
 
 - The Central Bank of the Comoros issued Regulation n°01/2017/BCC/DSBR setting the conditions and modalities for exercising e-money activity; the document gives only the year 2017 (published date used) ([source, 2017](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
 - The regulation cites as a legal basis decree n°15-026/PR of 3 March 2015 on payment systems, means and incidents of payment ([source, 2015-03-03](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
-
-### Egypt: 3 Established
-
-Egypt's central bank issued licensing rules for payment providers in 2025; whether companies that are not banks can be licensed is not known.
-
-- The Central Bank of Egypt issued Regulations on Governance and Internal Control and Fit and Proper Criteria for key officials, with which payment system operators and payment service providers are required to comply within one year of issuance, under Central Bank and Banking Sector Law No. 194 of 2020 ([source, 2025-09-01](https://www.cbe.org.eg/en/news-publications/news/2025/09/01/13/10/payment-system-operators-and-payment-service-providers)).
-- The Central Bank of Egypt issued the Rules for Licensing and Registration of Payment System Operators and Payment Service Providers in June 2025, with transitional provisions requiring existing payment institutions to apply for a CBE licence within one year, ending June 2026 (month taken from the document's statement of 'June 2025'; the page itself is dated 2025-09-01) ([source, 2025-06](https://www.cbe.org.eg/en/news-publications/news/2025/09/01/13/10/payment-system-operators-and-payment-service-providers)).
 
 ### Lesotho: 3 Established
 
