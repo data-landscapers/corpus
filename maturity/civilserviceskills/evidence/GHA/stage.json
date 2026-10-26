@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "2",
-   "training": "underway",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001",
-   "gaps": "No source held since October 2023 says: is a standing programme in service.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "3",
+      "training": "inservice",
+      "reach": "",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-006;GHA-005",
+      "gaps": "No source held since October 2023 says digital-skills training reaches civil servants across government.",
+      "note": "Stage 4c 2026-10-26: the DigSMART Scale-Up trained a stated 520 to 830 civil servants in 2024 after a 2023 pilot, a programme in service with a stated number, read as Tanzania's is. Nothing says it reaches across government.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

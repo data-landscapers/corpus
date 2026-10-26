@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "2",
-   "training": "underway",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001",
-   "gaps": "No source held since October 2023 says: is a standing programme in service.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "3",
+      "training": "inservice",
+      "reach": "",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-004",
+      "gaps": "No source held since October 2023 says digital-skills training reaches civil servants across government.",
+      "note": "Stage 4c 2026-10-26: the Digital Development Agency's programme had trained a stated 6,800 civil servants and went online as e-TAMKEEN in 2024, a programme in service with a stated number. Nothing says it reaches across government.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

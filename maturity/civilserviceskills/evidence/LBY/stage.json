@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "no evidence",
-   "training": "",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether civil servants are trained in digital skills.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "2",
+      "training": "underway",
+      "reach": "",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-002;LBY-001",
+      "gaps": "No source held since October 2023 says: is a standing programme in service.",
+      "note": "Stage 4c 2026-10-26: the Ministry of Civil Service's computer course for government employees and the labour ministry's workshop are courses held for officials, which answers question 1. None gives a standing programme a stated number trained.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }
