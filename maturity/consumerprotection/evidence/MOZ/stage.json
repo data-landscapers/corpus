@@ -1,17 +1,18 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "3",
-   "rules": "inforce",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-001",
-   "gaps": "No source held since October 2023 says a financial ombudsman or complaints unit takes complaints.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "5",
+      "rules": "inforce",
+      "redress": "redress",
+      "enforced": "enforced",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-003",
+      "gaps": "",
+      "note": "Stage 4c 2026-10-26: Banco de Moçambique reports 44 mobile money complaints in the first half of 2026, by provider, which answers question 4.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

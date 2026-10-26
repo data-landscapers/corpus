@@ -4,4 +4,4 @@
 
 ***Noted, not assessed***. None held.
 
-***Not held***. Nothing held says whether consumer-protection rules apply to digital finance.
+***Not held***. A pilot week of the central bank's complaints call centre was announced for April 2026; nothing held shows it taking complaints or names rules for digital finance.

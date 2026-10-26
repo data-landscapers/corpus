@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-19-cpv-maior-parte-das-fraudes-acontece-por-uso-indevido-dos-sistemas-de-paga",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "A Banco de Cabo Verde official says the BCV handles complaints about digital payment systems, though often cannot resolve them where the user caused the failure.",
+   "as_of": "2025-03-19",
+   "date_precision": "day",
+   "system": "BCV complaints handling",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "no evidence",
-   "rules": "",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether consumer-protection rules apply to digital finance.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "unplaced",
+      "rules": "",
+      "redress": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "A pilot week of the central bank's complaints call centre was announced for April 2026; no source shows it taking complaints, and nothing held names rules for digital finance.",
+      "note": "Stage 4c 2026-10-26: The only row announces a pilot of a complaints platform, which does not show a body taking complaints. Intent stops short of a rung.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

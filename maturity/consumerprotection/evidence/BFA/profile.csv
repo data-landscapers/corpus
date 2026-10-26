@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BFA,protection,rules,coverage,inforce,2024,BFA-001;BFA-002,,
-BFA,protection,redress,coverage,redress,2022-12-09,BFA-003,,nothing dated since 2023-10-18
-BFA,protection,enforced,coverage,enforced,2022,BFA-004,,nothing dated since 2023-10-18
+BFA,protection,redress,coverage,redress,2026-10-13,BFA-003;BFA-005,,
+BFA,protection,enforced,coverage,enforced,2022,BFA-004,,nothing dated since 2023-10-26

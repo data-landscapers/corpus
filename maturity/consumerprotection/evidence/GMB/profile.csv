@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,protection,rules,coverage,inforce,2023,GMB-001,,
-GMB,protection,redress,coverage,redress,2014,GMB-002,,nothing dated since 2023-10-18
+GMB,protection,rules,coverage,inforce,2023,GMB-001,GMB-003=draft,
+GMB,protection,redress,coverage,redress,2014,GMB-002,,nothing dated since 2023-10-26
 GMB,protection,enforced,coverage,,,,,nothing held

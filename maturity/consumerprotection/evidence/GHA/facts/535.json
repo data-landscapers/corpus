@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-01-gha-bog-eoco-crack-down-on-400-illegal-online-lenders",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Bank of Ghana's Second Deputy Governor said the BoG directive on digital credit service provision took effect the previous month, requiring digital credit providers to be licensed, disclose all loan terms and follow consumer protection rules.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Bank of Ghana directive on digital credit service provision",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "Bank of Ghana, with EOCO and the Cyber Security Authority, said it had uncovered and shut down over 400 illegal online lending operators.",
+   "as_of": "2025-10-15",
+   "date_precision": "day",
+   "system": "Bank of Ghana directive on digital credit service provision",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank of Ghana directive on digital credit service provision",
+   "country_label": "Ghana",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

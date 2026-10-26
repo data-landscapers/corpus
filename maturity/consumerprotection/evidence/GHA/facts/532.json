@@ -1,0 +1,37 @@
+{
+ "slug": "2024-07-01-gha-report-on-complaints-management-activities-annual-report-2023",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Bank of Ghana handles complaints against regulated institutions, including payment systems and service providers, under its Consumer Recourse Mechanism Guidelines for Financial Service Providers of February 2017, which prescribe sanctions for offending institutions.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Consumer Recourse Mechanism Guidelines",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Bank of Ghana's Complaints Management Office received 695 complaints in 2023, 23 of them against payment systems and service providers, and resolved 66% of the total.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Bank of Ghana Complaints Management Office",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The Bank of Ghana reports 23 complaints against payment systems and service providers in 2023, digital-fraud complaints rising 48% on 2022, and monetary awards and refunds of GHS 3,803,073.61 across all complaints.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Bank of Ghana Complaints Management Office",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

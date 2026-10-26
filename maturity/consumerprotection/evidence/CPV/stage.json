@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "no evidence",
-   "rules": "",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether consumer-protection rules apply to digital finance.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "4",
+      "rules": "inforce",
+      "redress": "redress",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001",
+      "gaps": "No source held names the consumer-protection rules for digital finance in force, or reports a fine, sanction or complaint figures.",
+      "note": "Stage 4c 2026-10-26: A Banco de Cabo Verde official says the central bank handles complaints about digital payment systems, which answers question 3. Nothing held reports enforcement or complaint figures.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

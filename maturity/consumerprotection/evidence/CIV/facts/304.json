@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-29-civ-amelioration-de-la-gouvernance-economique-l-observatoire-de-la-qualite",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The finance ministry's Observatoire de la qualité des services financiers (OQSF-CI) handles complaints about financial services including e-money (mobile money) issuers, through a digital complaints-management application; its executive secretary said it logged 156 complaints in 2024.",
+   "as_of": "2025-06-27",
+   "date_precision": "day",
+   "system": "OQSF-CI complaints application",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OQSF-CI (Observatoire de la qualité des services financiers)",
+   "country_label": "Côte d'Ivoire",
+   "class": "protection",
+   "platform": "digital complaints-management application",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

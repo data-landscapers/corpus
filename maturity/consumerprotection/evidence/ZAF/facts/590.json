@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-15-zaf-nfo-banking-division-returns-r60-million-to-consumers-in-2025",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The National Financial Ombud South Africa Banking Division resolved disputes in 2025 and reports that mobile banking and internet banking fraud were the highest complaint generators, 39% of all cases received.",
+   "as_of": "2025-12-15",
+   "date_precision": "day",
+   "system": "National Financial Ombud South Africa Banking Division",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Financial Ombud South Africa",
+   "country_label": "South Africa",
+   "class": "protection",
+   "platform": "",
+   "owner": "National Financial Ombud South Africa",
+   "tiers": ""
+  }
+ ],
+ "note": "R60 million returned is an all-banking redress total, not an enforcement figure for digital services; the 39% is a share of cases, not a sanction or complaint count under digital rules."
+}

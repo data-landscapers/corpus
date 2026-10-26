@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,protection,rules,coverage,inforce,2026-04,NGA-001,,
-NGA,protection,redress,coverage,,,,,nothing held
-NGA,protection,enforced,coverage,enforced,2026-04,NGA-002,,
+NGA,protection,rules,coverage,inforce,2026-07-20,NGA-001;NGA-004;NGA-005;NGA-007;NGA-008,NGA-003=draft,
+NGA,protection,redress,coverage,redress,2025-09-03,NGA-009,,
+NGA,protection,enforced,coverage,enforced,2026-04,NGA-002;NGA-006,,

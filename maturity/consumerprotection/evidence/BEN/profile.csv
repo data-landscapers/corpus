@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BEN,protection,rules,coverage,,,,,nothing held
-BEN,protection,redress,coverage,redress,2025-07,BEN-001,,
+BEN,protection,redress,coverage,redress,2025-07,BEN-001;BEN-002,,
 BEN,protection,enforced,coverage,,,,,nothing held

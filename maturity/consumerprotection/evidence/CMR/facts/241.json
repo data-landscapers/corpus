@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-13-cmr-fraude-mobile-money-au-cameroun-pourquoi-la-sensibilisation-ne-suffira",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The OBS-CC observatory says CEMAC Regulation 01-20 of 3 July 2020 on consumer protection for banking services also applies to payment institutions and provides for complaint services and mediation, and Regulation 04/18 requires a permanent complaints mechanism for payment services.",
+   "as_of": "2020-07-03",
+   "date_precision": "day",
+   "system": "CEMAC Regulation 01-20",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": "No complaints body in Cameroon, sanction or enforcement figure is stated; MTN and ANTIC figures are fraud and cybercrime counts, not enforcement of these rules."
+}

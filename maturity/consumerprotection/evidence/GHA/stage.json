@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "3",
-   "rules": "inforce",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-005;GHA-001",
-   "gaps": "No source held since October 2023 says a financial ombudsman or complaints unit takes complaints.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "5",
+      "rules": "inforce",
+      "redress": "redress",
+      "enforced": "enforced",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-013;GHA-008",
+      "gaps": "",
+      "note": "Stage 4c 2026-10-26: The Bank of Ghana shut down more than 400 illegal online lenders in October 2025 and reports complaints against payment providers for 2023, which answers question 4.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

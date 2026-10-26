@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-28-mwi-fintech-push-spurs-rbm-to-rethink-monetary-tools",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "draft",
+   "fact": "The RBM says its fintech regulatory framework under development is meant to ensure consumer protection, data privacy and risk mitigation.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "RBM fintech regulatory framework",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

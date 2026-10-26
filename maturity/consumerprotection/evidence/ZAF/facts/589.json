@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-16-zaf-fraud-complaints-at-the-banking-ombud-nearly-double-in-a-year-as-digit",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The National Financial Ombud Scheme takes consumer complaints about banking fraud, most of it mobile and digital banking, and closed 3,651 fraud cases in 2025, per the ombud.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Financial Ombud Scheme",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Financial Ombud Scheme",
+   "country_label": "South Africa",
+   "class": "protection",
+   "platform": "",
+   "owner": "NFO",
+   "tiers": ""
+  }
+ ],
+ "note": "No enforcement under digital finance rules stated; complaint figures cover bank fraud complaints, not fines or sanctions."
+}

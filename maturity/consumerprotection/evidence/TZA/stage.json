@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "4",
-   "rules": "inforce",
-   "redress": "redress",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-003",
-   "gaps": "No source held since October 2023 reports a fine, sanction or complaint figures.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "5",
+      "rules": "inforce",
+      "redress": "redress",
+      "enforced": "enforced",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-006;TZA-008",
+      "gaps": "",
+      "note": "Stage 4c 2026-10-26: The Bank of Tanzania barred 69 unlicensed digital lending apps in November 2024 under its August 2024 guidance note, which answers question 4.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

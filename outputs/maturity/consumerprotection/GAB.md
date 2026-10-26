@@ -2,12 +2,12 @@
 
 ## Consumer protection
 
-**Rules in force.** [UNCDF's November 2023 diagnostic says a new regulation on digital financial consumer protection, revising the one in force in Gabon since 2011, is expected, and that CEMAC mediation regulations are nearly finalised in most member countries but still need approval in each](<https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=2023-diagnostic-gabon-finalpdf&id=20054>). [UNCTAD's peer-review overview says a 2022 draft consumer protection law, covering financial and banking services and electronic communication services, is pending, Gabon having no specific consumer protection law and the 2019 CEMAC directive not yet transposed (2022, before the three-year window)](<https://unctad.org/system/files/official-document/cicplpd35_fr.pdf>).
+**Rules in force.** [CEMAC Regulation 01/20 of 3 July 2020 on consumer protection for banking products and services, with a Prime Minister's decree of 21 March 2024 and two ministerial orders of 7 January 2025, sets Gabon's financial mediation framework, covering payment institutions and mobile money disputes](<https://www.echosdeleco.com/articles/mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-26-octobre>). [UNCDF's November 2023 diagnostic said a new regulation on digital financial consumer protection, revising the one in force since 2011, was expected](<https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=2023-diagnostic-gabon-finalpdf&id=20054>).
 
-**Complaints handled.** No source held since October 2023 says a financial ombudsman or complaints unit takes complaints. The nearest held fact: [the one given above](<https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=2023-diagnostic-gabon-finalpdf&id=20054>).
+**Complaints handled.** No source held since October 2023 says a financial ombudsman or a regulator's complaints unit takes complaints about digital financial services. The nearest held fact: [the mediation framework set by the January 2025 orders, which covers mobile money disputes](<https://www.echosdeleco.com/articles/mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-26-octobre>).
 
-**Enforcement reported.** No source held since October 2023 reports a fine, sanction or complaint figures. The nearest held fact: [the one given above](<https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=2023-diagnostic-gabon-finalpdf&id=20054>).
+**Enforcement reported.** No source held since October 2023 reports a fine, a sanction or complaint figures for digital financial services. The nearest held fact: [the one given above](<https://www.echosdeleco.com/articles/mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-26-octobre>).
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says: are such rules in force.
+***Not held***. No source held since October 2023 says a complaints body takes complaints about digital financial services, or reports a fine, a sanction or complaint figures.

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "protection",
-      "stage": "3",
+      "stage": "5",
       "rules": "inforce",
-      "redress": "",
-      "enforced": "",
+      "redress": "redress",
+      "enforced": "enforced",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-001",
-      "gaps": "No source held since October 2023 says a financial ombudsman or complaints unit takes complaints.",
-      "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MWI-003;MWI-005",
+      "gaps": "",
+      "note": "Stage 4c 2026-10-26: The Reserve Bank of Malawi counts complaints linked to failed digital financial services in 2024 and digital payment complaints to March 2024, which answers question 4.",
+      "as_at": "2026-10-26"
     }
   ]
 }

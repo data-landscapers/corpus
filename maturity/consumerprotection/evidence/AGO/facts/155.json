@@ -1,0 +1,27 @@
+{
+ "slug": "2024-07-16-ago-crescem-as-reclamacoes-pelos-servicos-de-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Banco Nacional de Angola's report on complaints in the Angolan financial system counts 16,548 complaints in Q1 2024, including complaints about mobile banking at non-bank institutions.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "BNA complaints report",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The BNA report puts Afrimoney at 8,453 mobile banking complaints in Q1 2024, with Unitel Money at 532 and PayPay at 110 among non-bank financial institutions.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "BNA complaints report",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

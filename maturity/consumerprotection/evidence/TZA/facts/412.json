@@ -1,0 +1,27 @@
+{
+ "slug": "2024-11-21-tza-bot-yafuta-vibali-vya-apps-69-zinazotoa-mikopo-mtandaoni",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Nukta Habari reports the Bank of Tanzania's August 2024 guidance for Tier 2 digital lenders aims to enforce financial consumer protection rules on transparency, charges, debt collection and customer data privacy.",
+   "as_of": "2024-08-27",
+   "date_precision": "day",
+   "system": "Guidance Note on Digital Lenders under Tier 2 Microfinance Service Providers, 2024",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "Nukta Habari reports the Bank of Tanzania on 21 November 2024 cancelled the permits of 69 online lending apps for breaching licence conditions, including failing to protect customer privacy.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "Guidance Note on Digital Lenders under Tier 2 Microfinance Service Providers, 2024",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

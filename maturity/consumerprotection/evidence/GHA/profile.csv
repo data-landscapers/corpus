@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,protection,rules,coverage,inforce,2026-10-07,GHA-001;GHA-002;GHA-003;GHA-004;GHA-005,,
-GHA,protection,redress,coverage,,,,,nothing held
-GHA,protection,enforced,coverage,,,,,nothing held
+GHA,protection,rules,coverage,inforce,2026-10-07,GHA-001;GHA-002;GHA-003;GHA-004;GHA-005;GHA-006;GHA-009;GHA-010;GHA-012,,
+GHA,protection,redress,coverage,redress,2025-08,GHA-007;GHA-011,,
+GHA,protection,enforced,coverage,enforced,2025-10-15,GHA-008;GHA-013,,

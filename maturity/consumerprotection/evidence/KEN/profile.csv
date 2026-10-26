@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 KEN,protection,rules,coverage,inforce,2026-09-30,KEN-001,KEN-003=draft;KEN-002=draft,
-KEN,protection,redress,coverage,,,,,nothing held
-KEN,protection,enforced,coverage,,,,,nothing held
+KEN,protection,redress,coverage,redress,2025-06,KEN-005,,
+KEN,protection,enforced,coverage,enforced,2025-06,KEN-004,,

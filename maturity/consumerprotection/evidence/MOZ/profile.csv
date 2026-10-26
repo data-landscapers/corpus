@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,protection,rules,coverage,inforce,2026-03-02,MOZ-001,,
-MOZ,protection,redress,coverage,,,,,nothing held
-MOZ,protection,enforced,coverage,,,,,nothing held
+MOZ,protection,rules,coverage,inforce,2026-03-02,MOZ-001,MOZ-004=draft,
+MOZ,protection,redress,coverage,redress,2026-06,MOZ-002,,
+MOZ,protection,enforced,coverage,enforced,2026-06,MOZ-003,,

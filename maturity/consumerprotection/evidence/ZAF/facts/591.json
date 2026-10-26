@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-26-zaf-fraud-floods-complaints-as-banking-ombud-speeds-up-resolutions",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The National Financial Ombud Scheme's Banking Division, reporting in its annual report for 2024, took 15,412 banking complaints that year, including mobile banking fraud, phishing and vishing complaints under digital banking.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Financial Ombud Scheme (NFO), Banking Division",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Financial Ombud Scheme (NFO), Banking Division",
+   "country_label": "South Africa",
+   "class": "protection",
+   "platform": "",
+   "owner": "National Financial Ombud Scheme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

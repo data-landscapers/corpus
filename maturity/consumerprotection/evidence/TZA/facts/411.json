@@ -1,0 +1,36 @@
+{
+ "slug": "2024-11-21-tza-bot-taarifa-kwa-umma-apps-69-zilizofungiwa-mikopo-kidijitali",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Bank of Tanzania's notice of 21 November 2024 refers to its Guidance Note on Digital Lenders under Tier 2 Microfinance Service Providers, issued 27 August 2024, aimed at compliance with financial consumer protection rules on transparency, charges, debt collection and customer data privacy.",
+   "as_of": "2024-08-27",
+   "date_precision": "day",
+   "system": "Guidance Note on Digital Lenders under Tier 2 Microfinance Service Providers, 2024",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The Bank of Tanzania named 69 digital lending apps on 21 November 2024 as unlicensed and failing the August 2024 guidance note, barred them from lending, and said it was working with the TCRA to block them.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "Guidance Note on Digital Lenders under Tier 2 Microfinance Service Providers, 2024",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guidance Note on Digital Lenders under Tier 2 Microfinance Service Providers",
+   "country_label": "Tanzania",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-19-mwi-reserve-bank-of-malawi-demands-seamless-digital-payment-systems",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "Malawi recorded 36,481 complaints of digital payment challenges out of 396.6 million digital transactions from April 2023 to March 2024, as stated by RBM's Deputy Governor.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "digital payments complaints",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "protection",
-      "stage": "2",
-      "rules": "draft",
-      "redress": "",
+      "stage": "4",
+      "rules": "inforce",
+      "redress": "redress",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-001",
-      "gaps": "No source held since October 2023 says: are such rules in force.",
-      "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZAF-003;ZAF-002",
+      "gaps": "No source held since October 2023 says consumer-protection rules for digital finance are in force, or reports a fine or sanction under them; a conduct standard for payment services was being drafted in 2025.",
+      "note": "Stage 4c 2026-10-26: The National Financial Ombud takes complaints about mobile and internet banking fraud, which answers question 3. No consumer-protection rule for digital finance in force is held, so its fraud figures are not read as enforcement under one.",
+      "as_at": "2026-10-26"
     }
   ]
 }

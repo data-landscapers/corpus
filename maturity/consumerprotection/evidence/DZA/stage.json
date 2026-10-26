@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "no evidence",
-   "rules": "",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether consumer-protection rules apply to digital finance.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "2",
+      "rules": "draft",
+      "redress": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-001",
+      "gaps": "No source held says the regulation was promulgated or that consumer-protection rules for digital finance are in force.",
+      "note": "Stage 4c 2026-10-26: The Bank of Algeria said in October 2024 that it was drafting a regulation to protect consumers of digital financial services. Nothing held shows it in force.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

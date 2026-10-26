@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-mar-rapport-d-activite-2024",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Moroccan banking mediation centre Al Wassit Albanki, set up under Bank Al-Maghrib, received 5,536 complaint files in 2024, of which disputes over payment means (cards 57.35%, transfers 29.08%) were 21.16% of those treated, and payment institutions and money transfer companies were among the institutions concerned.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Al Wassit Albanki (Centre Marocain de Mediation Bancaire)",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Al Wassit Albanki",
+   "country_label": "Centre Marocain de Mediation Bancaire",
+   "class": "protection",
+   "platform": "",
+   "owner": "banking sector under Bank Al-Maghrib",
+   "tiers": ""
+  }
+ ],
+ "note": "Complaint figures cover all credit institutions, so no enforcement fact is recorded."
+}

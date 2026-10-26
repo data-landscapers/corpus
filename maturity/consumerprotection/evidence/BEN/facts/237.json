@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-ben-benin-un-nouveau-portail-en-ligne-pour-les-plaintes-financieres",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Observatory for the Quality of Financial Services (OQSF), created by decree in 2020, presented an online portal on 29 July 2025 to receive and handle complaints from financial-sector clients, including e-money issuers' customers, with a mediation role.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "OQSF online complaints portal",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OQSF online complaints portal",
+   "country_label": "Benin",
+   "class": "protection",
+   "platform": "web portal",
+   "owner": "OQSF, Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "No complaint figures or sanctions stated."
+}

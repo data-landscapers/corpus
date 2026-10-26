@@ -8,6 +8,7 @@ BEN,PI-SPI,UEMOA (Benin),other,instant payment platform,BCEAO,"banks, microfinan
 BEN,MTN Mobile Money,Benin,other,,MTN,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,Moov Money,Benin,other,,Moov,,2025-01-06-mobile-money-contourner-taxe-especes
 BEN,Celtiis Cash,Benin,other,,Celtiis,,2025-01-06-mobile-money-contourner-taxe-especes
+BEN,OQSF online complaints portal,Benin,protection,web portal,"OQSF, Ministry of Economy and Finance",,2025-07-31-ben-benin-un-nouveau-portail-en-ligne-pour-les-plaintes-financieres
 BFA,ANPFI,Burkina Faso,other,,state,training,2026-07-28-burkina-faso-anpfi-wave-financial-consumer-training
 BFA,Observatoire de la qualité des services financiers,Burkina Faso,other,,ANPFI,merged into ANPFI in 2025,2026-07-28-lefaso-fintech-ia-uemoa-inclusion-financiere
 BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,2025-01-30 Burkina Faso launches Faso Arzeka digital payment platform
@@ -16,10 +17,13 @@ BFA,Faso Arzêka,Burkina Faso,other,,Ministry of Economy and Finance (DGTCP),,20
 BFA,Arzêka Money,Burkina Faso,other,Faso Arzêka,,,2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques
 BFA,OQSF-BF,Burkina Faso,protection,,Ministry of Economy and Finance,,2024-12-19-bfa-oqsf-etude-mecanismes-recours-interne-psf
 BFA,Circulaire n°002/2020/CB/C,Burkina Faso,protection,,UEMOA Banking Commission,,2024-12-19-bfa-oqsf-etude-mecanismes-recours-interne-psf
+BFA,Observatoire de la qualité des services financiers (OQSF-BF),Burkina Faso,protection,,Agence nationale de promotion de la finance inclusive (ANPFI),,2026-10-13-bfa-protection-des-consommateurs-la-saisine-de-l-observatoire-de-la-qualit
 CIV,My Signal,Côte d'Ivoire,other,mobile app and web platform,Union fédérale des consommateurs de Côte d'Ivoire (UFC-CI),,2026-07-31-cote-divoire-ufc-my-signal-consumer-platform
 CIV,OQSF-CI (Observatory of the quality of financial services),Cote d'Ivoire,protection,,,,2022-09-01-civ-cgap-dfs-consumer-risks-survey
 CIV,Banking Commission,Cote d'Ivoire,protection,,BCEAO,second recourse,2022-09-01-civ-cgap-dfs-consumer-risks-survey
 CIV,OQSF-CI,Côte d'Ivoire,protection,"green line 2722 490 490, email, edufina.oqsfci.org",State of Côte d'Ivoire (Ministry of Finance),,2025-07-05-civ-infocentrale-oqsf-plateformes-plaintes
+CIV,OQSF-CI,Cote d'Ivoire,protection,outils.oqsfci.org,State,,2026-04-16-civ-amelioration-des-services-financiers-pres-de-200-plaintes-et-25-demand
+CIV,OQSF-CI (Observatoire de la qualité des services financiers),Côte d'Ivoire,protection,digital complaints-management application,Ministry of Finance and Budget,,2025-06-29-civ-amelioration-de-la-gouvernance-economique-l-observatoire-de-la-qualite
 CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 COD,LOBA,DR Congo,other,WhatsApp chatbot and COMCO mobile app,Ministry of National Economy / Competition Commission (COMCO),,2026-10-05-cod-minecon-communique-163-loba-protection-consommateurs
 COD,FlashApp,DRC,other,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
@@ -31,12 +35,14 @@ EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-inst
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 ETH,Financial Consumer Protection Directive No. FCP/01/2020,Ethiopia,protection,,National Bank of Ethiopia,,2026-03-25-nbe-customer-fraud-awareness-campaign
 ETH,financial consumer protection directorate,Ethiopia,protection,,,,2026-10-03-eth-reporter-digital-transaction-costs-fraud-gaps-financial-inclusion
+GAB,Mediation financiere,Gabon,protection,,CNEF,,2026-10-19-gab-mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-2
 GHA,Directive for Digital Credit Service Providers,Ghana,protection,,Bank of Ghana,,2026-08-03-bank-of-ghana-notice-25-publication-unlicensed-dcsps
 GHA,Directive for Digital Credit Service Providers in Ghana,,protection,,Bank of Ghana,,2026-09-08-bog-notice-29-unlicensed-digital-credit-service-providers
 GHA,Directive for Digital Credit Service Providers in Ghana,Ghana,protection,,Bank of Ghana,,2026-10-06-gha-bog-notice-36-unlicensed-digital-credit-providers
 GHA,mobile money,Ghana,other,,,,2026-08-19-graphic-bog-digital-transaction-data-sme-financing
 GHA,e-cedi,Ghana,other,,Bank of Ghana,,2026-08-19-graphic-bog-digital-transaction-data-sme-financing
 GHA,Digital Credit Service Providers Directive,Ghana,protection,,Bank of Ghana,,2026-08-19-graphic-bog-digital-transaction-data-sme-financing
+GHA,Bank of Ghana directive on digital credit service provision,Ghana,protection,,Bank of Ghana,,2025-10-01-gha-bog-eoco-crack-down-on-400-illegal-online-lenders
 GMB,Competition and Consumer Protection Commission Bill 2026,GMB,other,,National Assembly of The Gambia,,2026-09-15-gmb-mansabanko-competition-consumer-protection-commission-bill-second-reading
 GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 GMB,Regulation for the Provision of Retail Payment Service 2023,The Gambia,protection,,Central Bank of The Gambia,,2025-03-01-gmb-gccpc-digital-market-study-report
@@ -49,6 +55,7 @@ LBR,Guidelines Concerning Digital Credit for Financial Institutions,Liberia,prot
 LBR,Consumer Protection and Market Conduct Regulations No. CBL/RSD/004/2020,Liberia,protection,,Central Bank of Liberia,,2022-03-17-lbr-cbl-digital-credit-guidelines
 LBR,Regulations Concerning Consumer Protection and Market Conduct (CBL/RSD/004/2020),Liberia,protection,,Central Bank of Liberia,,2020-01-08-lbr-cbl-consumer-protection-market-conduct-regulation
 LBR,Consumer Protection Unit,Liberia,protection,,Central Bank of Liberia,,2020-01-08-lbr-cbl-consumer-protection-market-conduct-regulation
+LBR,MTN Mobile Money,Liberia,other,mobile money,Lonestar Cell MTN Mobile Money Inc.,,2024-06-15-lbr-mtn-mobile-money-faces-cbl-fine-for-regulatory-non-compliance
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
 LBY,Electronic Payment Services Regulation,Libya,protection,,Central Bank of Libya (National Payments Council),,2020-03-01-lby-cbl-electronic-payment-services-regulation
@@ -58,13 +65,19 @@ LSO,M-Pesa,Lesotho,other,,Vodacom Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-
 LSO,Tsetela,Lesotho,other,USSD,Vodacom Lesotho with Stanlib Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
 LSO,mobile money,Lesotho,other,,,,2025-01-01-lca-ict-access-use-households-comparative-2016-2023
 LSO,CIPS,Lesotho,other,RMB settlement,Standard Bank access,,2026-07-27-standard-bank-cips-cny-8-billion-africa-china
+LSO,CBL Financial Consumer Protection Division,Lesotho,protection,,Central Bank of Lesotho,,2026-02-01-lso-cbl-tightens-financial-customer-protection-efforts
 MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 MAR,Centre Marocain de Médiation Bancaire,Maroc,protection,,banking sector,,2023-03-23-mar-cmmb-reglement-mediation-bancaire
+MAR,Al Wassit Albanki,Centre Marocain de Mediation Bancaire,protection,,banking sector under Bank Al-Maghrib,,2025-05-01-mar-rapport-d-activite-2024
 MDG,MVola,Madagascar,other,mobile money,AXIAN,,2026-09-04-ecofinagency-afdb-axian-women-digital-finance
+MDG,CSBF,Madagascar,other,,Commission de supervision bancaire et financiere,,2026-08-28-mdg-telecommunications-et-monnaie-electronique-le-csbf-joue-aussi-le-role
 MLI,Télépaiement (DGI),Mali,other,bank transfers,Direction générale des impôts,,2025-11-26-mali-dgi-recettes-electroniques
 MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Aviso 9/GBM/2020 Regulamento de Tratamento de Reclamações,Mozambique,protection,,Banco de Moçambique,,2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos
+MOZ,Vodafone M-Pesa,Mozambique,other,mobile money,"Vodafone M-Pesa, SA",,2026-08-31-moz-statistics-on-complaints-received-by-banco-de-mocambique-against-finan
+MOZ,M-Mola,Mozambique,other,mobile money,"M-Mola, SA",,2026-08-31-moz-statistics-on-complaints-received-by-banco-de-mocambique-against-finan
+MRT,Himaya,Mauritania,protection,call centre 1973,Banque Centrale de Mauritanie,,2026-04-22-mrt-pafiid-himaya-consumer-complaints-platform-pilot
 MWI,Social cash transfer programmes,MWI,other,,,,2026-09-04-mwi-macra-digital-scams-alert
 MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
 MWI,TNM Mpamba,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
@@ -78,6 +91,10 @@ NGA,Borrow Me Credit,Nigeria,other,airtime lending,Globacom,,2026-08-24-mtn-nige
 NGA,Extra Credit,Nigeria,other,airtime lending,Airtel,,2026-08-24-mtn-nigeria-airtime-lending-rebound-techcabal
 NGA,PAPSS,Pan-African Payment and Settlement System,other,,,,2026-09-23-papss-remita-super-app
 NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
+NGA,DEON Regulations 2025,Nigeria,protection,,FCCPC,,2026-07-20-nga-fccpc-resumes-digital-lending-regulation
+NGA,FCCPC register of approved digital lenders,FCCPC register of approved digital lenders,protection,,FCCPC,,2026-01-21-nga-digital-lending-rule-fccpc-goes-after-violators
+NGA,"Digital, Electronic, Online and Non-Traditional Consumer Lending Regulations, 2025",Nigeria,protection,,FCCPC,,2025-11-13-nga-digital-lending-fccpc-sets-january-5-deadline-for-compliance
+NGA,DEON Consumer Lending Regulations 2025,Nigeria,protection,,FCCPC,,2025-09-04-nga-digital-lending-fccpc-tackles-abuses-issues-landmark-regulations
 RWA,Responsible Digital Finance Ecosystem (RDFE) pilot,Rwanda,other,,National Bank of Rwanda / CGAP,,2025-12-09-ktpress-rdfe-consumer-digital-fraud-survey
 RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
 SDN,CBOS Circular 7/2026,Sudan,protection,USSD,Central Bank of Sudan,,2026-03-31-cbos-ussd-financial-services-regulations
@@ -88,6 +105,7 @@ SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money
 SEN,Wave,Wave,other,,Wave,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Mixx,Senegal,other,mobile money,AXIAN,,2026-09-04-ecofinagency-afdb-axian-women-digital-finance
 SEN,Max it,Senegal,other,,Sonatel,,2026-07-15-wearetech-sonatel-maxit-brt
+SEN,OQSF (Observatoire de la Qualité des Services Financiers),Senegal,protection,,,,2025-10-30-sen-numerique-transparence-sur-les-tarifs-prise-en-charge-des-reclamations
 SOM,Telecommunications Consumer Protection Regulations,Somalia,other,,National Communications Authority,,2026-07-08-somalia-nca-consumer-protection-regulation-public-consultation
 SOM,Telecom Consumer Protection Regulation (draft),Somalia,other,,National Communications Authority,,2026-02-16-somalia-nca-telecom-consumer-protection-consultation
 SOM,SIPS,Somalia,other,ISO 20022,Central Bank of Somalia and 13 commercial banks (Somalia Payment Switch),,2026-07-27-somalia-expand-instant-payment-system-hiiraan
@@ -109,13 +127,19 @@ TCD,Konoom,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurr
 TCD,Nita,TCD,other,,,,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
 TCD,GIMACPAY,TCD,other,,GIMAC,CEMAC,2026-09-04-tchadinfos-monnaie-electronique-frais-concurrence
 TGO,PI-SPI,Togo,other,instant payment system,BCEAO,,2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments
+TGO,OQSF-TG (Observatoire de la qualite des services financiers du Togo),Togo,other,,Government of Togo,,2026-05-15-tgo-togo-must-activate-its-financial-services-watchdog-to-strengthen-consu
 TUN,Central Bank of Tunisia Circular 2024-2,Tunisia,protection,,Central Bank of Tunisia,,2026-08-09-tunisia-cyber-risk-electronic-payments-liability-gap
 TUN,PAPSS,Tunisia,other,,,,2025-02-01-tunisian-banks-urged-to-join-pan-african-papss-system
 TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 TZA,Financial Consumer Protection Regulations (GN 298 of 2025),Tanzania,protection,,Bank of Tanzania,,2025-06-27 Key Highlights of the Bank of Tanzania Financial Consumer Protection Amendment Regulations GN 298 of 2025
 TZA,Personal Data Protection Act,Tanzania,other,,,,2025-06-27 Key Highlights of the Bank of Tanzania Financial Consumer Protection Amendment Regulations GN 298 of 2025
+TZA,Bank of Tanzania digital complaints platform,Tanzania,protection,digital screening system,Bank of Tanzania,,2026-07-08-tza-bot-complaint-system-cuts-financial-disputes
+TZA,Guidance Note on Digital Lenders under Tier 2 Microfinance Service Providers,Tanzania,protection,,Bank of Tanzania,,2024-11-21-tza-bot-taarifa-kwa-umma-apps-69-zilizofungiwa-mikopo-kidijitali
 UGA,"National Payment Systems (Consumer Protection) Regulations, 2022",Uganda,protection,,"Ministry of Finance, Planning and Economic Development / Bank of Uganda",,2022-09-09-uga-ulii-nps-consumer-protection-regs-2022
 UGA,"National Payment Systems Act, 2020",Uganda,protection,,Bank of Uganda,,2020-09-04-uga-ulii-national-payment-systems-act-2020
+UGA,Financial Consumer Empowerment Mechanism,Uganda,protection,,Bank of Uganda,,2024-04-29-uga-bou-details-redress-procedure-for-aggrieved-bank-customers
+UGA,National Payments Act,National Payments Act (2022 update),protection,,Bank of Uganda,,2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co
+UGA,Digital Lending Guidelines Vol.1 (2024),Uganda,protection,,Uganda Microfinance Regulatory Authority,,2024-06-03-uga-online-lenders-harassing-borrowers-risk-closure
 ZAF,National Opt-Out Registry,South Africa,other,,National Consumer Commission,,2026-10-07-gov-national-consumer-commission-launches-national-opt-out-registry
 ZAF,"Consumer Protection Act Amendment Regulations, 2026",South Africa,other,,National Consumer Commission,,2026-04-20-cpa-direct-marketing-optout-regs
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
@@ -124,5 +148,8 @@ ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
 ZAF,ZARP,South Africa,other,stablecoin,,,2026-09-21-techcabal-local-stablecoins-use-case
 ZAF,ZARsc,South Africa,other,stablecoin,,,2026-09-21-techcabal-local-stablecoins-use-case
 ZAF,SARB Directive X of 2025 (draft) on specific payment activities,South Africa,other,,"South African Reserve Bank, National Payment System Department",,2025-01-01-zaf-fsca-3-year-regulation-plan-2025
+ZAF,National Financial Ombud Scheme,South Africa,protection,,NFO,,2026-03-16-zaf-fraud-complaints-at-the-banking-ombud-nearly-double-in-a-year-as-digit
+ZAF,National Financial Ombud South Africa,South Africa,protection,,National Financial Ombud South Africa,,2025-12-15-zaf-nfo-banking-division-returns-r60-million-to-consumers-in-2025
+ZAF,"National Financial Ombud Scheme (NFO), Banking Division",South Africa,protection,,National Financial Ombud Scheme,,2025-06-26-zaf-fraud-floods-complaints-as-banking-ombud-speeds-up-resolutions
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZWE,Consumer Protection Commission,Zimbabwe,protection,regulator,Government of Zimbabwe,,2024-10-23 Electronic Transactions A Consumer Right - Consumer Protection Commission

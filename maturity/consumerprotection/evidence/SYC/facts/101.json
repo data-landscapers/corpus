@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-syc-consumer-complaints-data-for-january-to-december-2025",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Central Bank of Seychelles records complaints about banks and payment service providers, including internet and mobile banking, and received 50 complaints directly in 2025 from customers unsatisfied with the providers' response.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Central Bank of Seychelles complaints handling",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The Central Bank of Seychelles reports that payment service providers received 25 complaints in 2025 (14 in the first half, 11 in the second).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Central Bank of Seychelles complaints handling",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

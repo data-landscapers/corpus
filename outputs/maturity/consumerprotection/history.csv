@@ -30,3 +30,21 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,ETH,dpi.pay--consumer-protection,review,5,4,ETH-002;ETH-001,"Bill, 2026-10-25: complaint figures must be for digital financial services; all-services counts do not answer question 4"
 2026-10-25,SEN,dpi.pay--consumer-protection,review,5,4,SEN-001,"Bill, 2026-10-25: complaint figures must be for digital financial services; all-services counts do not answer question 4"
 2026-10-25,SWZ,dpi.pay--consumer-protection,review,5,4,SWZ-003;SWZ-001,"Bill, 2026-10-25: complaint figures must be for digital financial services; all-services counts do not answer question 4"
+2026-10-26,AGO,dpi.pay--consumer-protection,fact,unplaced,5,AGO-005;AGO-007,BNA complaint rankings for 2024 and 2025 give counts for named mobile money providers: question 4
+2026-10-26,CPV,dpi.pay--consumer-protection,fact,no evidence,4,CPV-001,A Banco de Cabo Verde official says the bank handles complaints about digital payment systems (2025): question 3
+2026-10-26,DZA,dpi.pay--consumer-protection,fact,no evidence,2,DZA-001,Bank of Algeria said in October 2024 it was drafting a regulation protecting digital financial consumers: question 1
+2026-10-26,CMR,dpi.pay--consumer-protection,fact,no evidence,3,CMR-001,OBS-CC says in 2026 the CEMAC consumer-protection regulation applies to payment institutions: question 2
+2026-10-26,MRT,dpi.pay--consumer-protection,fact,no evidence,unplaced,,A pilot week of a central-bank complaints line was announced for April 2026; it sets no rung
+2026-10-26,GAB,dpi.pay--consumer-protection,fact,2,3,GAB-005,"January 2025 orders put the CEMAC mediation framework, covering mobile money, into force: question 2"
+2026-10-26,GHA,dpi.pay--consumer-protection,fact,3,5,GHA-013;GHA-008,Bank of Ghana shut down 400+ illegal online lenders (2025) and reports payment-provider complaints (2023): question 4
+2026-10-26,KEN,dpi.pay--consumer-protection,fact,3,5,KEN-004,Competition Authority figures: 355 complaints about digital lenders in the year to June 2025: question 4
+2026-10-26,LBY,dpi.pay--consumer-protection,fact,unplaced,4,LBY-003,Central Bank of Libya's LYPay site takes complaints about the instant payment service (2025): question 3
+2026-10-26,LSO,dpi.pay--consumer-protection,fact,no evidence,4,LSO-002,Central Bank of Lesotho's consumer protection division handles complaints under the 2022 Act (2026): question 3
+2026-10-26,MAR,dpi.pay--consumer-protection,fact,unplaced,4,MAR-002,"Al Wassit Albanki took complaints in 2024, payment institutions among those concerned: question 3"
+2026-10-26,MOZ,dpi.pay--consumer-protection,fact,3,5,MOZ-003,Banco de Mocambique counts 44 mobile money complaints by provider in H1 2026: question 4
+2026-10-26,MWI,dpi.pay--consumer-protection,fact,3,5,MWI-003;MWI-005,"RBM counts 46,969 complaints on failed digital financial services in 2024: question 4"
+2026-10-26,SYC,dpi.pay--consumer-protection,fact,4,5,SYC-005,Central Bank of Seychelles reports 25 complaints to payment service providers in 2025: question 4
+2026-10-26,TZA,dpi.pay--consumer-protection,fact,4,5,TZA-006;TZA-008,Bank of Tanzania barred 69 unlicensed digital lending apps in November 2024: question 4
+2026-10-26,UGA,dpi.pay--consumer-protection,fact,unplaced,4,UGA-007;UGA-004,Bank of Uganda and UMRA took complaints about mobile money and digital lenders in 2024: question 3
+2026-10-26,ZAF,dpi.pay--consumer-protection,fact,2,4,ZAF-003;ZAF-002,National Financial Ombud takes complaints on mobile and internet banking fraud (2025): question 3
+2026-10-26,ZMB,dpi.pay--consumer-protection,fact,3,4,ZMB-003,"CCPC resolved complaints in 2024, mobile money chief among ICT complaints: question 3"

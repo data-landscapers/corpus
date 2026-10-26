@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,protection,rules,coverage,inforce,2022-09-09,UGA-001;UGA-003,,nothing dated since 2023-10-18
-UGA,protection,redress,coverage,redress,2022-09-09,UGA-002,,nothing dated since 2023-10-18
+UGA,protection,rules,coverage,inforce,2024-03,UGA-001;UGA-003;UGA-005;UGA-006,,
+UGA,protection,redress,coverage,redress,2024-06,UGA-002;UGA-004;UGA-007,,
 UGA,protection,enforced,coverage,,,,,nothing held

@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "no evidence",
-   "rules": "",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether consumer-protection rules apply to digital finance.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "4",
+      "rules": "inforce",
+      "redress": "redress",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-002",
+      "gaps": "No source held since October 2023 reports a fine, sanction or complaint figures for digital financial services; the market conduct framework was still being drafted in February 2026.",
+      "note": "Stage 4c 2026-10-26: The Central Bank of Lesotho's Financial Consumer Protection Division handles financial complaints under the 2022 Act, which answers question 3. Nothing held reports enforcement on digital financial services.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

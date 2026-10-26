@@ -1,0 +1,36 @@
+{
+ "slug": "2024-06-03-uga-online-lenders-harassing-borrowers-risk-closure",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The Uganda Microfinance Regulatory Authority launched its Digital Lending Guidelines Vol.1 (2024) in March 2024, setting conduct rules for online lenders, including confidentiality, interest limits, no harassment and a complaints redress mechanism.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Digital Lending Guidelines Vol.1 (2024)",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "Umra officials said the authority had received multiple complaints from clients about licensed digital lenders still harassing them.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Uganda Microfinance Regulatory Authority",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Lending Guidelines Vol.1 (2024)",
+   "country_label": "Uganda",
+   "class": "protection",
+   "platform": "",
+   "owner": "Uganda Microfinance Regulatory Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

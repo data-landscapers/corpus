@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "protection",
-      "stage": "4",
+      "stage": "5",
       "rules": "inforce",
       "redress": "redress",
-      "enforced": "",
+      "enforced": "enforced",
       "cap": "",
       "flags": "",
-      "stage_sources": "SYC-003",
-      "gaps": "No source held since October 2023 reports a fine, sanction or complaint figures.",
-      "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SYC-005",
+      "gaps": "",
+      "note": "Stage 4c 2026-10-26: The Central Bank of Seychelles reports 25 complaints to payment service providers in 2025, which answers question 4.",
+      "as_at": "2026-10-26"
     }
   ]
 }

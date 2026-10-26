@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,protection,rules,coverage,inforce,2026-04-27,TZA-001;TZA-002,,
-TZA,protection,redress,coverage,redress,2025-05-23,TZA-003,,
-TZA,protection,enforced,coverage,,,,,nothing held
+TZA,protection,rules,coverage,inforce,2026-04-27,TZA-001;TZA-002;TZA-005;TZA-007,,
+TZA,protection,redress,coverage,redress,2026-07-08,TZA-003;TZA-004,,
+TZA,protection,enforced,coverage,enforced,2024-11-21,TZA-006;TZA-008,,

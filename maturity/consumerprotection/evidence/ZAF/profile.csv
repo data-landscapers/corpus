@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZAF,protection,rules,coverage,draft,2025,ZAF-001,,
-ZAF,protection,redress,coverage,,,,,nothing held
+ZAF,protection,redress,coverage,redress,2025,ZAF-002;ZAF-003;ZAF-004,,
 ZAF,protection,enforced,coverage,,,,,nothing held

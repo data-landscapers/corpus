@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZWE,protection,rules,coverage,inforce,2026-04-01,ZWE-001;ZWE-002;ZWE-004,,
 ZWE,protection,redress,coverage,redress,2026-02-26,ZWE-003,,
-ZWE,protection,enforced,coverage,enforced,2024-10-23,ZWE-005,,
+ZWE,protection,enforced,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-mdg-telecommunications-et-monnaie-electronique-le-csbf-joue-aussi-le-role",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "Under article 101 of banking law 2020-011 the CSBF regulates and controls e-money institutions, ensures user protection and can sanction breaches up to withdrawal of licence; article 158 lets consumer associations go to court.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Loi bancaire 2020-011 (CSBF)",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSBF",
+   "country_label": "Madagascar",
+   "class": "other",
+   "platform": "",
+   "owner": "Commission de supervision bancaire et financiere",
+   "tiers": ""
+  }
+ ],
+ "note": "Powers are described, with no sanction or complaint figure and no complaints unit, so no redress or enforced fact."
+}

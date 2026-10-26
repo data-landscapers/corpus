@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-18-lby-central-bank-of-libya-officially-launches-the-website-for-the-instant",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Central Bank of Libya's LYPay instant payment website includes a platform for submitting complaints and inquiries.",
+   "as_of": "2025-06-18",
+   "date_precision": "day",
+   "system": "LYPay complaints and inquiries platform",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

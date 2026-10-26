@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-16-civ-amelioration-des-services-financiers-pres-de-200-plaintes-et-25-demand",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The OQSF-CI executive secretary said the observatory hosts a conciliation and mediation mechanism for amicable settlement of disputes, which any consumer of financial services can use free of charge; the text does not say it covers digital financial services in particular.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "OQSF-CI conciliation and mediation",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OQSF-CI",
+   "country_label": "Cote d'Ivoire",
+   "class": "protection",
+   "platform": "outils.oqsfci.org",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

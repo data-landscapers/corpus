@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-09-nga-cbn-issues-exposure-draft-of-the-revised-consumer-protection-regulatio",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "draft",
+   "fact": "The Central Bank of Nigeria issued an exposure draft of revised Consumer Protection Regulations 2.0 to address consumer risks from fintech delivery of financial services, with comments due 29 February 2024.",
+   "as_of": "2024-02-09",
+   "date_precision": "day",
+   "system": "CBN Consumer Protection Regulations 2.0 (draft)",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

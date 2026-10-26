@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-02-zmb-consumer-protection-commission-claims-1-477-complaints-resolved-in-202",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Competition and Consumer Protection Commission resolved 1,477 complaints in 2024, with the main ICT complaint being delayed or non-reversed mobile money transactions.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "CCPC complaints",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

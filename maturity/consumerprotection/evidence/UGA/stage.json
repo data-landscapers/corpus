@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "protection",
-      "stage": "unplaced",
-      "rules": "",
-      "redress": "",
+      "stage": "4",
+      "rules": "inforce",
+      "redress": "redress",
       "enforced": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.",
-      "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "UGA-007;UGA-004",
+      "gaps": "No source held since October 2023 reports a fine, sanction or complaint figures for digital financial services.",
+      "note": "Stage 4c 2026-10-26: The Bank of Uganda's complaints mechanism and the microfinance regulator both took complaints in 2024, digital lenders' included, which answers question 3. Nothing held reports enforcement.",
+      "as_at": "2026-10-26"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "UNCDF says the Bank of Uganda updated its National Payments Act in 2022 to include financial consumer protection provisions, alongside the 2011 Financial Consumer Protection Guidelines for institutions licensed under the Financial Institutions Act.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "National Payments Act",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payments Act",
+   "country_label": "National Payments Act (2022 update)",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

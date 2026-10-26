@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-sen-numerique-transparence-sur-les-tarifs-prise-en-charge-des-reclamations",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The executive secretary of Senegal's Observatoire de la Qualité des Services Financiers (OQSF) writes that mobile money users can seek redress from a third party such as the OQSF when a provider does not resolve a problem; in its 2022 survey with CGAP only 1% did.",
+   "as_of": "2022-10",
+   "date_precision": "month",
+   "system": "OQSF",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OQSF (Observatoire de la Qualité des Services Financiers)",
+   "country_label": "Senegal",
+   "class": "protection",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-29-uga-bou-details-redress-procedure-for-aggrieved-bank-customers",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The Bank of Uganda runs a Financial Consumer Empowerment Mechanism that takes customer complaints about supervised financial institutions after 21 days without a satisfactory answer from the institution, guided by the Mobile Money Guidelines 2013 among others.",
+   "as_of": "2024-04-29",
+   "date_precision": "day",
+   "system": "Financial Consumer Empowerment Mechanism",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Financial Consumer Empowerment Mechanism",
+   "country_label": "Uganda",
+   "class": "protection",
+   "platform": "",
+   "owner": "Bank of Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

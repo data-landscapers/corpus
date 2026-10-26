@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "protection",
-      "stage": "unplaced",
-      "rules": "",
-      "redress": "",
-      "enforced": "",
+      "stage": "5",
+      "rules": "inforce",
+      "redress": "redress",
+      "enforced": "enforced",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.",
-      "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "AGO-005;AGO-007",
+      "gaps": "",
+      "note": "Stage 4c 2026-10-26: The central bank's complaint ranking gives counts for named mobile money providers in 2024 and 2025, which answers question 4. A later yes answers the earlier questions.",
+      "as_at": "2026-10-26"
     }
   ]
 }

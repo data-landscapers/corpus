@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,protection,rules,coverage,inforce,2017-09-12,AGO-001;AGO-003,,nothing dated since 2023-10-18
-AGO,protection,redress,coverage,redress,2020-11-03,AGO-002,,nothing dated since 2023-10-18
-AGO,protection,enforced,coverage,,,,,nothing held
+AGO,protection,rules,coverage,inforce,2017-09-12,AGO-001;AGO-003,,nothing dated since 2023-10-26
+AGO,protection,redress,coverage,redress,2025-06,AGO-002;AGO-004;AGO-006,,
+AGO,protection,enforced,coverage,enforced,2025-06,AGO-005;AGO-007,,

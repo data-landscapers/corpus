@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "3",
-   "rules": "inforce",
-   "redress": "",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "No source held since October 2023 says a financial ombudsman or complaints unit takes complaints.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "5",
+      "rules": "inforce",
+      "redress": "redress",
+      "enforced": "enforced",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-004",
+      "gaps": "",
+      "note": "Stage 4c 2026-10-26: Competition Authority of Kenya figures show 355 borrower complaints about digital lenders in the year to June 2025, which answers question 4.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

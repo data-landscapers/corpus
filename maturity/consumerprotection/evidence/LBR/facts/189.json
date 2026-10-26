@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-15-lbr-mtn-mobile-money-faces-cbl-fine-for-regulatory-non-compliance",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "enforced",
+   "value": "enforced",
+   "fact": "The Central Bank of Liberia fined Lonestar Cell MTN Mobile Money for breaches of mobile money regulations and corporate governance standards, rejected its appeal, and the fine was paid; the amount is not given.",
+   "as_of": "2024-06-15",
+   "date_precision": "day",
+   "system": "Lonestar Cell MTN Mobile Money",
+   "class": "protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "Lonestar Cell MTN Mobile Money Inc.",
+   "tiers": ""
+  }
+ ],
+ "note": "The breaches are of mobile money and governance rules, not stated to be user-protection rules."
+}

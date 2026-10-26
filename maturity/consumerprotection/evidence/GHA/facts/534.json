@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-01-gha-protecting-your-rights-in-the-digital-space-what-every-mobile-money-mo",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "inforce",
+   "fact": "The article by two M&O Law Consult lawyers states that the Payment Systems and Services Act, 2019 (Act 987) requires mobile money providers and agents to accept complaints free of charge, acknowledge within 3 working days and resolve within set days.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Payment Systems and Services Act, 2019 (Act 987)",
+   "class": "protection"
+  },
+  {
+   "sub_indicator": "protection",
+   "aspect": "redress",
+   "value": "redress",
+   "fact": "The article states that a mobile money user dissatisfied with the provider's outcome can complain to the Bank of Ghana, which is obligated to resolve it within three days of receipt, and that complaints to the Bank are not always addressed promptly.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Bank of Ghana complaints escalation",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": "No fine, sanction or complaint figures stated."
+}
