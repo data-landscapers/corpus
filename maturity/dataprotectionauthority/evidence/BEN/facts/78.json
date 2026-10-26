@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-ben-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-l-ere",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Luciano Hounkponou spoke as president of Benin's Autorite de protection des donnees a caractere personnel (APDP) at a panel at ADEX 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APDP",
+   "country_label": "Autorite de protection des donnees a caractere personnel",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -39,6 +39,7 @@ BEN,Autorité de Protection des Données à Caractère Personnel,APDP,authority,
 BEN,Autorité de protection des données à caractère personnel,APDP,authority,,,,2023-12-31-ben-lf-2024-depenses-detaillees-010-apdp-companion
 BEN,Autorité de Protection des Données à Caractère Personnel,APDP,authority,,,,2023-12-20-ben-2024-apdp-014
 BEN,APDP,Benin,authority,,,,2026-06-08-ben-what-is-ai-regulation-in-benin
+BEN,APDP,Autorite de protection des donnees a caractere personnel,authority,,,,2026-10-22-ben-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-l-ere
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,CIL,Commission de l'informatique et des libertes,authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-03-burkina-alp-adopte-loi-protection-donnees-surete-aerienne
@@ -351,8 +352,10 @@ NGA,Nigeria Data Protection Commission,Nigeria Data Protection Commission (NDPC)
 NGA,Nigeria Data Protection Commission,Nigeria Data Protection Commission (NDPC),authority,,Federal Government of Nigeria,federal; MoU with the Nigeria Governors' Forum for states,2023-06-12-nigeria-data-protection-act-2023-official-gazette-text
 NGA,Nigeria Data Protection Commission,NDPC,authority,,,,2026-10-20-nigeria-data-protection-commission-hosts-sri-lankan-delegation-for-stu
 NGA,Nigeria Data Protection Commission (NDPC),Nigeria,authority,,,,2026-10-21-nga-businessday-udo-compliance-audit-return-model
+NGA,Nigeria Data Protection Commission,Nigeria,authority,,state,,2026-10-25-nga-ndpc-urges-responsible-ai-use-data-protection
 RWA,Data Protection Act,Data Protection Act (introduced 15 October 2021),other,,,,2026-01-26-year-of-accountability-data-controllers-newtimes
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,NCSA,,2026-01-26-year-of-accountability-data-controllers-newtimes
+RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,authority,,,,2025-07-25-rwa-cloud-storage-under-rwanda-s-data-protection-law-what-you-need-to-know
 SEN,Loi n° 2008-12 du 25 janvier 2008,loi portant sur la protection des données à caractère personnel,other,,,,2026-09-01-seneweb-cdp-donnees-personnelles-t2-2026
 SEN,Commission de protection des Données Personnelles (CDP),CDP,authority,,,,2026-09-01-seneweb-cdp-donnees-personnelles-t2-2026
 SEN,Loi n° 2008-12 du 25 janvier 2008,loi portant sur la protection des données à caractère personnel,other,,,,2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees
@@ -528,3 +531,4 @@ ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),"POT
 ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),"POTRAZ, designated Data Protection Authority",authority,,POTRAZ,,2026-08-05-uganda-and-zimbabwes-fourth-cycle-uprs-must-turn-digital-progress-into-stronger-rights-protections
 ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),"POTRAZ, designated Data Protection Authority",authority,,POTRAZ,,2021-01-01-cyber-and-data-protection-act
 ZWE,Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ),Zimbabwe,authority,,Government of Zimbabwe,,2026-10-15-zwe-hanyani-data-protection-act-protect-or-censor
+ZWE,POTRAZ,Zimbabwe,authority,,Government of Zimbabwe,,2026-10-23-zwe-potraz-ordered-to-crack-down-on-poor-network-service-data-fraud-news-hour

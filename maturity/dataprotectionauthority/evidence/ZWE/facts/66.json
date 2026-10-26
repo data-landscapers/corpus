@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-zwe-potraz-ordered-to-crack-down-on-poor-network-service-data-fraud-news-hour",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ICT minister Tatenda Mavetera addressed POTRAZ at its 10th AGM as the Data Protection Authority, directing it to strengthen compliance monitoring, investigate unlawful processing of personal information and improve public awareness.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ",
+   "country_label": "Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Zimbabwe",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

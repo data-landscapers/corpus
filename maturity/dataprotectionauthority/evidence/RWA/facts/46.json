@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-25-rwa-cloud-storage-under-rwanda-s-data-protection-law-what-you-need-to-know",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Rwanda's National Cyber Security Authority is acting as the data protection supervisor under the personal data protection law, authorising storage of personal data outside Rwanda, according to its Data Protection and Privacy Office.",
+   "as_of": "2025-07-25",
+   "date_precision": "day",
+   "system": "National Cyber Security Authority (NCSA)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cyber Security Authority (NCSA)",
+   "country_label": "National Cyber Security Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
