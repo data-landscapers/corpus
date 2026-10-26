@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: GAB
-ledger_rows: 59
+ledger_rows: 62
 not_held: 13
-record: e92162f0335f
+record: e950fe1a6f35
 ---
 
 # News, Sep – Oct 2026
@@ -14,6 +14,8 @@ record: e92162f0335f
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -246,6 +248,36 @@ Gabon's presidential spokesman said on radio that he uses a VPN, outside the law
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Gabon : la HAC lève la suspension des réseaux sociaux](https://agpgabon.ga/gabon-la-hac-leve-la-suspension-des-reseaux-sociaux/)** — Agence Gabonaise de Presse, 24 October 2026
+
+Eight-month nationwide ban ended; HAC cites February 2026 ordinances and reporting protocols with TikTok, Meta, YouTube.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+</nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital economy ministry 2027 budget request</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Loi de finances 2027 : les budgets de la Communication et de l’Économie numérique examinés à l’Assemblée nationale](https://agpgabon.ga/gabon-loi-de-finances-2027-les-budgets-de-la-communication-et-de-leconomie-numerique-examines-a-lassemblee-nationale/)** — Agence Gabonaise de Presse, 25 October 2026
+
+Digital economy ministry asks FCFA 37.2bn for 2027, down from 53.7bn in 2026; communication rises to FCFA 21.5bn.
+
+</div>
+
 </div>
 
 ## ICT Infrastructure
@@ -379,6 +411,20 @@ Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have 
 **[Numérique : une 'Gabon Digital Week' au coeur de l'innovation](https://www.union.sonapresse.com/fr/numerique-une-gabon-digital-week-au-coeur-de-linnovation)** — L'Union - Sonapresse, 24 October 2026
 
 Gabon's digital economy ministry announced a Gabon Digital Week at the Palais des Congrès in Libreville from 26 to 30 October 2026, under the president's patronage. The programme includes a government seminar on the national digitalisation strategy, presentation of the Gabon Digital programme, the official start of a 5G pilot with Moov Africa Gabon Telecom and Airtel Gabon, and an African Union specialised technical committee where some fifteen ministers are to draft a Libreville Declaration ahead of ITU meetings in Doha.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Authorisation of satellite internet providers for unconnected villages</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Digital/Interview : « Notre ambition est de faire de Libreville la capitale africaine du numérique », dixit Mark-Alexandre Doumba](https://agpgabon.ga/gabon-digital-interview-notre-ambition-est-de-faire-de-libreville-la-capitale-africaine-du-numerique-dixit-mark-alexandre-doumba/)** — Agence Gabonaise de Presse, 24 October 2026
+
+Minister on Gabon Digital Week; Starlink and Eutelsat to be licensed for 200+ unconnected villages; 196 km of new fibre.
 
 </div>
 
@@ -611,6 +657,20 @@ Gabon's Council of Ministers adopted a bill on 8 October 2026 ratifying and amen
 **[Gabon updates digital payment laws to support regional interoperability](https://www.biometricupdate.com/202610/gabon-updates-digital-payment-laws-to-support-regional-interoperability)** — Biometric Update, 12 October 2026
 
 An account of Gabon's bill ratifying its digital payments ordinance ties it to the regional central bank's interoperability rules. It puts the national merchant QR scheme at more than 3,273 merchants and 1,382 GIMAC QR codes as of July.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial mediation mechanism for bank and payment disputes</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Médiation financière : le Gabon lance officiellement son dispositif le 26 octobre](https://www.echosdeleco.com/articles/mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-26-octobre)** — Échos de l'Éco, 19 October 2026
+
+CNEF to launch bank-dispute mediation 26 Oct 2026 under CEMAC rules; mediator named June; free, binding settlement.
 
 </div>
 
@@ -1007,6 +1067,14 @@ Gabon's First Lady visited the former governorate building in Oyem, which is bei
 **[Gabon/CGI : des agents du ministère de la Communication et des Médias initiés à l’utilisation de l’IA](https://agpgabon.ga/gabon-cgi-des-agents-du-ministere-de-la-communication-et-des-medias-inities-a-lutilisation-de-lia/)** — Agence Gabonaise de Presse, 7 September 2026
 
 The Centre Gabonais de l'Innovation introduced about forty staff of the communication ministry to AI tools for administrative work on 7 September 2026. It is the first step of a programme meant to train 500 civil servants by December 2026 and 1,000 more in the first half of 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle : Des agents de l'Etat se mettent à jour](https://gabonactu.com/blog/2026/09/10/intelligence-artificielle-des-agents-de-letat-se-mettent-a-jour/)** — Gabonactu, 10 September 2026
+
+Treasury (DGCPT) agents take three-day AI course at the CGI, after Communication ministry and Budget directorate cohorts.
 
 </div>
 
