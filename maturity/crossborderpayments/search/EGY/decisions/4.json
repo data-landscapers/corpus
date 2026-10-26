@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported",
+ "fact": "CBE reported remittances of Egyptians working abroad of about USD 41.5 billion in 2025, up 40.5% from USD 29.6 billion in 2024 (total inflows; not split by digital channel).",
+ "title": "41.5 مليار دولار تحويلات المصريين العاملين بالخارج خلال السنة الميلادية 2025",
+ "publisher": "البنك المركزي المصري",
+ "published": "2026-02-23",
+ "date_source": "source",
+ "why_not": ""
+}

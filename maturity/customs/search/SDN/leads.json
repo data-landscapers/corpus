@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.sudanindependent.com/news/politics/2026/09/30/%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%AA%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A5%D9%82%D8%B1%D8%A7%D8%B1",
+  "title": "الجمارك تتوسع في تطبيق الإقرار المسبق للشحنات وتستعد لتعميمه بكافة المنافذ",
+  "publisher": "Sudan Independent (SUNA)",
+  "published": "2026-09-30",
+  "sub_indicator": "customs",
+  "why": "Customs system upgrade: ACD extended to all ports and crossings"
+ },
+ {
+  "url": "https://allafrica.com/stories/202608210135.html",
+  "title": "Sudan: Industry and Trade, Digital Transformation Ministers Stress Importance of Digitalization",
+  "publisher": "allAfrica",
+  "published": "2026-08-21",
+  "sub_indicator": "customs",
+  "why": "Unified window via Baldna, border crossings linked"
+ },
+ {
+  "url": "https://sudantribune.com/article/308724",
+  "title": "Sudan begins electronic foreign trade transactions to end paperwork",
+  "publisher": "Sudan Tribune",
+  "published": "2025-12-27",
+  "sub_indicator": "customs",
+  "why": "Single window for foreign trade joining customs and agencies in service"
+ },
+ {
+  "url": "https://www.lca.logcluster.org/13-sudan-customs-information",
+  "title": "1.3 Sudan Customs Information",
+  "publisher": "Logistics Cluster, Digital Logistics Capacity Assessments",
+  "published": "2025-11",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA used; no national single window as of Nov 2025; manual processes primary"
+ },
+ {
+  "url": "https://www.untfsurvey.org/economy?id=SDN&year=2025",
+  "title": "Trade Facilitation and Paperless Trade in Sudan",
+  "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+  "published": "2025",
+  "sub_indicator": "customs",
+  "why": "Automated customs system, e-single window planning, no electronic exchange of declarations"
+ },
+ {
+  "url": "https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/",
+  "title": "Customs Authority Completes Digital Integration of ASYCUDA with Civil Registry",
+  "publisher": "Sudan Events",
+  "published": "2025-10-04",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA in operation, integrated with civil registry"
+ },
+ {
+  "url": "https://sudan-voice.com/?p=65340",
+  "title": "الإعلان عن استعادة كل الأنظمة الالكترونية المتعلقة بالجمارك",
+  "publisher": "Sudan Voice",
+  "published": "2024-08-29",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA and customs systems restored at Red Sea"
+ },
+ {
+  "url": "https://www.suna.sd/posts/tdshyn-ntham-alasykoda-alaaalmy-bmynaaa-bortsodan-alshmaly",
+  "title": "تدشين نظام الاسيكودا العالمية بميناء بورتسودان الشمالي",
+  "publisher": "Sudan News Agency (SUNA)",
+  "published": "2023-10-02",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA World launched at Port Sudan North port"
+ }
+]

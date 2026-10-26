@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "The UN Global Survey 2025 records Equatorial Guinea automated customs system and e-submission of declarations at planning stage, e-single window not implemented, and cross-border exchange of declarations unknown.",
+ "title": "Trade Facilitation and Paperless Trade in Equatorial Guinea",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

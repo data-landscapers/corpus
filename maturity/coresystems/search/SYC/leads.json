@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.pefa.org/sites/default/files/2026-10/SC-Oct2025-PFMPR-Public%20with%20PEFA%20Check_0.pdf",
+  "title": "PEFA Performance Assessment Seychelles",
+  "publisher": "PEFA Secretariat",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "Government modernising core PFM systems, new IFMIS and HR/payroll integration."
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1sycea2025001-print-pdf.pdf",
+  "title": "Seychelles IMF Country Report",
+  "publisher": "IMF",
+  "published": "2025-06-16",
+  "sub_indicator": "core",
+  "why": "TMS rollout, IFMIS pilot timeline, ASYCUDA upgrade."
+ },
+ {
+  "url": "https://www.finance.gov.sc/wp-content/uploads/2025/08/2025-1st-EDITION-1.pdf",
+  "title": "Mofnpt review 2025 1st edition",
+  "publisher": "Ministry of Finance, National Planning and Trade",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "IFMIS contract signed, completion expected early 2026."
+ },
+ {
+  "url": "https://theseychellestimes.com/2025/01/07/seychelles-signs-ifmis-contract-to-modernise-public-finance/",
+  "title": "Seychelles Signs IFMIS Contract to Modernise Public Finance",
+  "publisher": "The Seychelles Times",
+  "published": "2025-01-07",
+  "sub_indicator": "core",
+  "why": "IFMIS contract USD 3.3m; ledgers moving to single digital system."
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf",
+  "title": "Seychelles AFS High Level Summary GFS Mission",
+  "publisher": "IMF",
+  "published": "2024-07",
+  "sub_indicator": "core",
+  "why": "Government accounting runs on VAM and TIS; new IFMIS being procured."
+ },
+ {
+  "url": "https://www.nationalassembly.sc/sites/default/files/2024-12/AR%2023%20pdf.pdf",
+  "title": "Report of the Auditor General 2023",
+  "publisher": "Office of the Auditor General",
+  "published": "2024-12",
+  "sub_indicator": "core",
+  "why": "Urges Ministry to obtain IFMIS; accounts in TIS."
+ },
+ {
+  "url": "https://src.gov.sc/wp-content/uploads/2024/08/2023-Annual-Report.pdf",
+  "title": "2023 Annual Report",
+  "publisher": "Seychelles Revenue Commission",
+  "published": "2024-08",
+  "sub_indicator": "core",
+  "why": "TMS registration, filing, payment, accounting modules launched in 2023."
+ },
+ {
+  "url": "https://src.gov.sc/src-introduces-dedicated-return-forms-and-tax-payment-slip-to-replace-the-business-activity-statement/",
+  "title": "SRC introduces dedicated return forms and tax payment slip",
+  "publisher": "Seychelles Revenue Commission",
+  "published": "2024-03-04",
+  "sub_indicator": "core",
+  "why": "Migration to new online tax platform; old e-service closed Jan 2024."
+ }
+]

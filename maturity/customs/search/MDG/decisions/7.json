@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "customs",
+ "aspect": "window",
+ "fact": "Madagascar notified the operation of the single window (TFA Art. 10.4.3) as Category C with a definitive implementation date of 31 December 2035.",
+ "title": "Madagascar | TFAD - Trade Facilitation Agreement Database",
+ "publisher": "World Trade Organization",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no document date in the text (set aside by the parent at staging)"
+}

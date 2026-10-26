@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "customs",
+ "aspect": "",
+ "fact": "",
+ "title": "Trade Facilitation and Paperless Trade in Somalia",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "Fetched text holds only aggregate scores, not the measure-level implementation table."
+}

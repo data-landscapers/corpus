@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;exchange",
+ "fact": "An African Development Bank (PR8) tender dated 13 August 2025 buys IT equipment and solar power for Mali customs to interconnect the customs IT systems of Côte d'Ivoire and Mali.",
+ "title": "AOI - Mali - Acquisition de matériels informatiques et de solution énergétique solaire au profit de la douane du mali - PR8",
+ "publisher": "African Development Bank",
+ "published": "2025-08-13",
+ "date_source": "proxy",
+ "why_not": ""
+}

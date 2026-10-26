@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "On 11 May 2026 ERS launched the TaxCore electronic invoicing system, transmitting invoice data to ERS in real or near real time.",
+ "title": "E4.2 billion tax gap: ERS launches TaxCore system to seal VAT leakages",
+ "publisher": "Eswatini Positive News",
+ "published": "2026-05-11",
+ "date_source": "source",
+ "why_not": ""
+}

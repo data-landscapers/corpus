@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "window",
+ "fact": "The USDA FAIRS report of 12 December 2025 states that the Single Window of Foreign Trade (JUCE) has yet to be implemented and that the PICE platform only partially streamlines import licensing.",
+ "title": "FAIRS Country Report Annual, Angola (AO2025-0005)",
+ "publisher": "USDA Foreign Agricultural Service",
+ "published": "2025-12-12",
+ "date_source": "source",
+ "why_not": ""
+}

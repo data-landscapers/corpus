@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;revenue",
+ "fact": "The Finance mission's 2024 budget says the ministry continues to renew the tax and collection information system and to carry out the new public finance information system project.",
+ "title": "ميزانية الدولة لسنة 2024 مهمة المالية",
+ "publisher": "Ministère des Finances (Tunisia)",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

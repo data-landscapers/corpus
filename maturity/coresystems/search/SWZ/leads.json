@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://eswatinipositivenews.online/e4-2-billion-tax-gap-ers-launches-taxcore-system-to-seal-vat-leakages/",
+  "title": "ERS launches TaxCore system to seal VAT leakages",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-05-11",
+  "sub_indicator": "core",
+  "why": "Tax system new launch (q4)"
+ },
+ {
+  "url": "https://parliament.gov.sz/media/speeches/budget/2026_27%20FY%20Budget_Speech_2026%20FINAL.pdf",
+  "title": "Budget Speech 2026",
+  "publisher": "Parliament of Eswatini",
+  "published": "2026",
+  "sub_indicator": "core",
+  "why": "IFMIS first release live (q2,q4)"
+ },
+ {
+  "url": "https://times.co.sz/30612/business/inside-erss-e14-6bn-2024-25-revenue-collections/",
+  "title": "Inside ERS's E14.6bn 2024/25 revenue collections",
+  "publisher": "Times of Eswatini",
+  "published": "2026-02-05",
+  "sub_indicator": "core",
+  "why": "Tax system ORMB rollout (q3,q4)"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/government-embarks-on-new-era-of-budgeting-with-ifmis-rollout/",
+  "title": "Government embarks on new era of budgeting with IFMIS rollout",
+  "publisher": "Eswatini Positive News",
+  "published": "2025-11-23",
+  "sub_indicator": "core",
+  "why": "Budgeting in IFMIS (q2)"
+ },
+ {
+  "url": "https://swazidailynews.com/2024/10/24/officers-trained-ahead-of-ifms-phase-1-launch/",
+  "title": "Officers trained ahead of IFMS phase 1 launch",
+  "publisher": "Swazi Daily News",
+  "published": "2024-10-24",
+  "sub_indicator": "core",
+  "why": "IFMIS phases (q2,q4)"
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/cr/2024/english/1swzea2024001-print-pdf.pdf",
+  "title": "Kingdom of Eswatini: 2024 Article IV Consultation, IMF Country Report 24/304",
+  "publisher": "IMF",
+  "published": "2024-09",
+  "sub_indicator": "core",
+  "why": "IFMIS state, treasury systems (q1,q2)"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/project-related-procurement/ifmis_quality_assurance_provider_tor_approved.pdf",
+  "title": "Technical Support to Public Financial Management Reforms (IFMIS QA terms of reference)",
+  "publisher": "African Development Bank",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "IFMIS history, legacy modular systems (q2,q4)"
+ },
+ {
+  "url": "https://www.africa-press.net/eswatini/all-news/ers-launches-tax-portal",
+  "title": "ERS launches Tax Ease portal",
+  "publisher": "Africa-Press",
+  "published": "2024-03-01",
+  "sub_indicator": "core",
+  "why": "Tax portal on Oracle (q3,q4)"
+ }
+]

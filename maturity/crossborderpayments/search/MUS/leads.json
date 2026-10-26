@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub",
+  "title": "Leveraging the Mauritius IFC as a payment system hub",
+  "publisher": "Bank for International Settlements (speech by BoM Governor)",
+  "published": "2026-10-13",
+  "sub_indicator": "crossborder",
+  "why": "Q2/Q3: cross-border payment plans and corridors"
+ },
+ {
+  "url": "https://www.bom.mu/sites/default/files/speech_by_governor_dr_priscilla_muthoora_thakoor_fsb_rcg_ssa_workshop_xbp_15_july_2026_0.pdf",
+  "title": "Speech by Governor at FSB RCG SSA workshop on cross-border payments",
+  "publisher": "Bank of Mauritius",
+  "published": "2026-07",
+  "sub_indicator": "crossborder",
+  "why": "Q3/Q4: UPI link, REPSS settlement bank, SADC-RTGS, TCIB, PAPSS"
+ },
+ {
+  "url": "https://www.bom.mu/media/speeches/speech-dr-priscilla-muthoora-thakoor-governor-bank-mauritius-npci-workshop-upi-and-rupay",
+  "title": "Speech at the NPCI Workshop on UPI and RuPay",
+  "publisher": "Bank of Mauritius",
+  "published": "2026-01-30",
+  "sub_indicator": "crossborder",
+  "why": "Q3: UPI/RuPay corridor with India in service; P2P next"
+ },
+ {
+  "url": "https://financialservices.govmu.org/Documents/National%20Fintech%20Strategy%20Report%20%28Digital%29-1.pdf",
+  "title": "National Fintech Strategy 2026-2030",
+  "publisher": "Ministry of Financial Services",
+  "published": "",
+  "sub_indicator": "crossborder",
+  "why": "Q2/Q4: PAPSS connectivity assessment, corridors"
+ },
+ {
+  "url": "https://www.bom.mu/publications-statistics/publications/annual-report/annual-report",
+  "title": "Annual Report for the year ended 30 June 2025",
+  "publisher": "Bank of Mauritius",
+  "published": "2025-11-27",
+  "sub_indicator": "crossborder",
+  "why": "Q3/Q4: payments infrastructure, RTSX Light REPSS"
+ },
+ {
+  "url": "https://www.bom.mu/sites/default/files/pr_rem_25q2.pdf",
+  "title": "Press Release: Remittance Statistics Q2 2025",
+  "publisher": "Bank of Mauritius",
+  "published": "2025-09-26",
+  "sub_indicator": "crossborder",
+  "why": "Q5: remittance volumes and cost figures"
+ },
+ {
+  "url": "https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf",
+  "title": "The State of Inclusive Instant Payment Systems in Africa: MauCAS Mauritius",
+  "publisher": "AfricaNenda",
+  "published": "2024",
+  "sub_indicator": "crossborder",
+  "why": "Q3/Q5: cross-border to India live, MauCAS volumes"
+ },
+ {
+  "url": "https://www.bom.mu/media/media-releases/media-release-mauritius-and-india-launch-rupay-and-unified-payments-interface-linkage",
+  "title": "Media Release: Mauritius and India launch RuPay and Unified Payments Interface Linkage",
+  "publisher": "Bank of Mauritius",
+  "published": "2024-02-12",
+  "sub_indicator": "crossborder",
+  "why": "Q3: UPI/RuPay linkage launched"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor",
+ "fact": "Transborder mobile money is in use across the Somali borders with Kenya and Ethiopia, via neighbouring telecom networks in border towns such as Mandera and Bulla Hawa and via roaming, with providers including EVC, Zaad, Safaricom M-Pesa and Telebirr.",
+ "title": "Transborder Mobile Money",
+ "publisher": "Rift Valley Institute",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

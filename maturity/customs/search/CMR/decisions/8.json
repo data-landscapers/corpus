@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "The Minister of Finance officially launched the CAMCIS customs information system on 5 June 2020, replacing SYDONIA++, with portals for customs officers, operators and the public.",
+ "title": "Le ministre des Finances lance le nouveau système informatique de paiement des Douanes CAMCIS",
+ "publisher": "Direction Générale du Budget",
+ "published": "2020-06-09",
+ "date_source": "source",
+ "why_not": ""
+}

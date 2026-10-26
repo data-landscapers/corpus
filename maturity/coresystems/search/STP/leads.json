@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.afdb.org/en/documents/eoi-sao-tome-and-principe-individual-consultancy-monitoring-and-supervising-development-and-implementation-upgraded-integrated-financial-management-information-system-ifmis-new-safe-e-isp-capem",
+  "title": "EOI - Individual Consultancy for monitoring the upgraded IFMIS (new SAFE-e) - ISP-CAPEM",
+  "publisher": "African Development Bank",
+  "published": "2026-01-22",
+  "sub_indicator": "core",
+  "why": "Q4: upgraded financial management system being built"
+ },
+ {
+  "url": "https://ministerio.financas.st/index.php/publicacoes/noticia/item/683-isp-capem-request-for-proposal-information-systems",
+  "title": "ISP-CAPEM - Request for Proposal Information Systems (IFMIS)",
+  "publisher": "Ministério das Finanças de São Tomé e Príncipe",
+  "published": "2025-09-03",
+  "sub_indicator": "core",
+  "why": "Q2/Q4: IFMIS procurement to become primary financial management tool"
+ },
+ {
+  "url": "https://rtpafrica.rtp.pt/noticias/sao-tome-e-principe-funcionarios-da-administracao-publica-recebem-formacao-em-gestao-de-recursos-humanos/",
+  "title": "São Tomé e Príncipe – Funcionários da administração pública recebem formação em gestão de recursos humanos",
+  "publisher": "RTP África",
+  "published": "2025-04-22",
+  "sub_indicator": "core",
+  "why": "Q3/Q4: new HR platform launched March 2025"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/sao_tome_and_principe_institutional_support_project_for_customs_administrtion_-_project_appraisal_report_0.pdf",
+  "title": "ISP-CAPEM Project Appraisal Report (P-ST-KF0-004)",
+  "publisher": "African Development Bank",
+  "published": "2023",
+  "sub_indicator": "core",
+  "why": "Q2/Q4: SAFE-e state and improved IFMIS plan"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf",
+  "title": "Digital Sao Tome and Principe mission aide-memoire",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "Q5: government systems, interoperability"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/779811655323104127/pdf/Sao-Tome-and-Principe-Digital-Sao-Tome-and-Principe-Project.pdf",
+  "title": "Digital Sao Tome and Principe Project",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "core",
+  "why": "Q5: consolidating disparate government systems, data centre"
+ },
+ {
+  "url": "https://impostos.b-software.st/index.php/component/k2/item/270-mais-uma-fase-do-sit-iva-em-andamento",
+  "title": "Mais uma fase do SIT-IVA em andamento",
+  "publisher": "Direcção dos Impostos",
+  "published": "2022-04-11",
+  "sub_indicator": "core",
+  "why": "Q3/Q4: tax IT system SIT-IVA development"
+ },
+ {
+  "url": "https://www.pefa.org/sites/default/files/2022-06/ST-Nov19-PFMPR-Public_ENG.pdf",
+  "title": "PEFA Public Financial Management Performance Report",
+  "publisher": "PEFA Secretariat / EU",
+  "published": "2019-11-15",
+  "sub_indicator": "core",
+  "why": "Q2: SAFE-e used for budget execution"
+ }
+]

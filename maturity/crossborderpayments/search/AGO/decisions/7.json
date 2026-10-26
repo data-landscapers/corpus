@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional;corridor",
+ "fact": "BNA Aviso n.º 03/2025 of 21 May 2025 sets the rules for financial institutions to participate in the SADC-RTGS and the SADC TCIB low-value instant credit transfer system.",
+ "title": "Aviso n.º 03/2025 - Participação no Sistema de Liquidação Bruta em Tempo Real (RTGS) e no Sistema de Transacções à Crédito de Baixo Valor Compensadas em uma Base Imediata (TCIB) da SADC",
+ "publisher": "Banco Nacional de Angola",
+ "published": "2025-05-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

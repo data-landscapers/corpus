@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The Auditor General's report on the 2024 accounts audits the SAP-based IFMIS and the PMEC payroll system at the Ministry of Finance and National Planning in operation in 2024, and finds no off-site backup for either as at 31 August 2025.",
+ "title": "Report of the Auditor General on the Accounts of the Republic for the Financial Year Ended 31st December 2024",
+ "publisher": "Office of the Auditor General, Republic of Zambia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

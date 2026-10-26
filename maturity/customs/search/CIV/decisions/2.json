@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "A customs delegation visited China 5-14 December 2025 to prepare the roll-out of the 'Douane Intelligente' project integrating Huawei software with customs systems.",
+ "title": "MODERNISATION DOUANIERE",
+ "publisher": "Les Douanes Ivoiriennes",
+ "published": "2025-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

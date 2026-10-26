@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "crossborder",
+ "aspect": "",
+ "fact": "",
+ "title": "Payment System",
+ "publisher": "National Bank of Rwanda",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Page returned only a JavaScript shell (9 words); the masterplan itself was not fetched."
+}

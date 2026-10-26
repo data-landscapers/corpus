@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll;renewed",
+ "fact": "A letter dated 30 May 2023 warned the Ifmis contractor that the new SAP Ifmis performed poorly (bank reconciliation, financial reports, HRMIS interface for payroll outstanding, disaster recovery centre not commissioned) and threatened termination by end of September 2023.",
+ "title": "Govt threatens to cancel Ifmis contract",
+ "publisher": "Nation Online",
+ "published": "2023-06-18",
+ "date_source": "source",
+ "why_not": ""
+}

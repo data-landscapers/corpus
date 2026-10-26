@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The PFMS (SAP) now covers the whole country up to district level, though not all districts use it; the payroll still needs linking to the PFMS.",
+ "title": "Public Finance Management Reform Strategy 2021-2025",
+ "publisher": "Ministry of Finance and Economic Development",
+ "published": "2023-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

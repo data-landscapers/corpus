@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor",
+ "fact": "The Banco de Moçambique stated on 22 December 2025 that all payments to and receipts from abroad must go through a bank or a payment service provider it has authorised.",
+ "title": "Requirement to use the national banking system in foreign exchange operations and prohibition of the use of cards for payments related to imports of goods for commercial purposes",
+ "publisher": "Banco de Moçambique",
+ "published": "2025-12-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "exchange",
+ "fact": "ECOWAS carried out a technical mission to Ghana on 21-25 July 2025 to resolve interconnection challenges between Ghana and Côte d'Ivoire for SIGMAT electronic transit data exchange.",
+ "title": "Technical mission to Ghana on the deployment of SIGMAT between Ghana and Côte d’Ivoire",
+ "publisher": "ECOWAS",
+ "published": "2025-07-31",
+ "date_source": "source",
+ "why_not": ""
+}

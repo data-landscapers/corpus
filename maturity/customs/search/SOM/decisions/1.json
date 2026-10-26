@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "SOMCAS was piloted at Mogadishu in February 2022, went live at Mogadishu and Kismayo in December 2023 and became exclusive at Mogadishu in May 2025; its transit module is not implemented and there is no national single window.",
+ "title": "Somalia customs and import procedures",
+ "publisher": "US-Somalia Investment Intelligence research desk",
+ "published": "2026-09-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

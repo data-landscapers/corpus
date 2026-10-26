@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "architecture",
+ "fact": "The Central Informatics Bureau published a baseline Government Enterprise Architecture for the Government of Mauritius, stating that government uses over 145 distinct operational systems (last updated April 2025).",
+ "title": "ENTERPRISE ARCHITECTURE",
+ "publisher": "Central Informatics Bureau, Ministry of Information Technology, Communication and Innovation",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

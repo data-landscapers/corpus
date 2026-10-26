@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor;reported",
+ "fact": "MTN Congo MoMo lists a fee grid for outgoing international GIMAC transfers: 600 FCFA for 500 to 10,000 FCFA, rising to 4,375 FCFA for 100,001 to 125,000 FCFA.",
+ "title": "Transfert d'argent",
+ "publisher": "MTN Congo",
+ "published": "2024-11-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

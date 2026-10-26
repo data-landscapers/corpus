@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "In May 2023 MRA said all front-end modules of its integrated tax administration system (Msonkho Online) were installed for registration, filing and payment, while the back-end audit modules were not and audits were still manual.",
+ "title": "MRA upbeat on digital tax system",
+ "publisher": "Nation Online",
+ "published": "2023-05-11",
+ "date_source": "source",
+ "why_not": ""
+}

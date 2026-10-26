@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional;corridor",
+ "fact": "Ghana recorded its first PAPSS transaction in March 2023, a Cedi supplier payment from a commercial bank to a recipient in Nigeria who received Naira instantly; inward remittance guidelines were also amended in 2023.",
+ "title": "Payment Systems Oversight Annual Report 2023",
+ "publisher": "Bank of Ghana",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

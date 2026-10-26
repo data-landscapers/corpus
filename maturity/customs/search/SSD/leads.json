@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.radiotamazuj.org/news/article/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation",
+  "title": "South Sudan, Uganda sign MoU to strengthen customs cooperation",
+  "publisher": "Radio Tamazuj",
+  "published": "2026-09-17",
+  "sub_indicator": "customs",
+  "why": "Digital interoperability and information sharing between customs"
+ },
+ {
+  "url": "https://www.afdb.org/en/documents/eoi-south-sudan-development-capacity-building-design-structured-study-tour-and-develop-national-roadmap-implementation-single-customs-territory-sct-south-sudan-revenue-authority-ssra-norma",
+  "title": "South Sudan - Capacity Building and National Roadmap for Single Customs Territory (SSRA)",
+  "publisher": "African Development Bank",
+  "published": "2026-03-09",
+  "sub_indicator": "customs",
+  "why": "SCT roadmap 2026-2030"
+ },
+ {
+  "url": "https://www.sudanspost.com/south-sudan-pushes-for-one-stop-border-project-to-ease-trade-bottlenecks/",
+  "title": "South Sudan pushes one-stop border project to cut trade delays, digitise border systems",
+  "publisher": "Sudans Post",
+  "published": "2026-01-05",
+  "sub_indicator": "customs",
+  "why": "OSBP and digital border systems"
+ },
+ {
+  "url": "https://www.onecitizendaily.com/index.php/2025/09/26/ssra-pushes-digital-reforms-to-boost-transparency-efficiency/",
+  "title": "SSRA pushes digital reforms to boost transparency, efficiency",
+  "publisher": "One Citizen Daily",
+  "published": "2025-09-26",
+  "sub_indicator": "customs",
+  "why": "E-Customs digitization"
+ },
+ {
+  "url": "https://www.untfsurvey.org/economy?id=SSD&year=2025",
+  "title": "Trade Facilitation and Paperless Trade in South Sudan",
+  "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+  "published": "2025",
+  "sub_indicator": "customs",
+  "why": "Automated customs system partial; single window not implemented"
+ },
+ {
+  "url": "https://mag.wcoomd.org/magazine/wco-news-106-issue-1-2025/kenya-uganda-exchanging-images-scanned-cargo/",
+  "title": "Kenya and Uganda tackle the challenge of exchanging images of scanned cargo",
+  "publisher": "WCO News",
+  "published": "2025-03-06",
+  "sub_indicator": "customs",
+  "why": "SCT Centralized Platform including South Sudan"
+ },
+ {
+  "url": "https://eyeradio.org/south-sudan-directs-implementation-of-e-cargo-tracking-system/",
+  "title": "South Sudan directs implementation of e-cargo tracking system",
+  "publisher": "Eye Radio",
+  "published": "2024-03-05",
+  "sub_indicator": "customs",
+  "why": "Electronic cargo tracking note"
+ },
+ {
+  "url": "https://openjicareport.jica.go.jp/pdf/1000049895.pdf",
+  "title": "Project for Capacity Development of South Sudan Customs for Introduction of HS Code Phase 2",
+  "publisher": "JICA",
+  "published": "2023-03",
+  "sub_indicator": "customs",
+  "why": "e-Customs introduced Juba and Nimule March 2022"
+ }
+]

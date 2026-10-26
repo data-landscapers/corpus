@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.imf.org/-/media/files/publications/selected-issues-papers/2025/english/sipea2025161.pdf",
+  "title": "Structural Reforms to Support Fiscal Consolidation; IMF Selected Issues Paper No. 2025/161",
+  "publisher": "IMF",
+  "published": "2025-12",
+  "sub_indicator": "core",
+  "why": "GABS/IFMIS breakdown Aug 2023, reporting suspended; new IFMIS recommended"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/88940",
+  "title": "Tax reforms to bridge revenue gaps",
+  "publisher": "Daily News (BOPA)",
+  "published": "2025-11-04",
+  "sub_indicator": "core",
+  "why": "GABS and FMIS to be revamped; BURS VAT e-invoicing"
+ },
+ {
+  "url": "https://www.gov.bw/sites/default/files/2025-03/Ministry%20of%20Finace%20Committee%20of%20Supply%20Speech%20%2004.03.2025%20final__0.pdf",
+  "title": "Ministry of Finance Committee of Supply Speech",
+  "publisher": "Ministry of Finance, Botswana",
+  "published": "2025-03-04",
+  "sub_indicator": "core",
+  "why": "GABS migrated to new Oracle servers Dec 2024; IFMIS upgrade planned"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/85274",
+  "title": "GABS now fully operational",
+  "publisher": "Daily News (BOPA)",
+  "published": "2025-03-18",
+  "sub_indicator": "core",
+  "why": "GABS restored Dec 2024"
+ },
+ {
+  "url": "https://www.thegazette.news/news/business-botswana-confronts-govt-over-gabs-issues/",
+  "title": "Business Botswana Confronts Govt Over GABS Issues",
+  "publisher": "Botswana Gazette",
+  "published": "2024-06-12",
+  "sub_indicator": "core",
+  "why": "Payment system failures, P1.5bn owed to suppliers"
+ },
+ {
+  "url": "https://www.africa-press.net/botswana/all-news/ministry-to-resolve-gabs-challenges",
+  "title": "Ministry to resolve GABS challenges",
+  "publisher": "Africa-Press / BOPA",
+  "published": "2024-03-02",
+  "sub_indicator": "core",
+  "why": "Oracle supercluster servers purchased; e-payslips to 104,000 of 129,000 employees"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/77665",
+  "title": "BURS to implement E-billing for efficiency",
+  "publisher": "Daily News (BOPA)",
+  "published": "2024-02-05",
+  "sub_indicator": "core",
+  "why": "BURS e-billing and online tax systems"
+ },
+ {
+  "url": "https://digitalidentityindex.com/countries/botswana/govtech/",
+  "title": "Botswana - GovTech Maturity Index (Core Government Systems)",
+  "publisher": "Global Digital Identity Index / World Bank GTMI data",
+  "published": "2022",
+  "sub_indicator": "core",
+  "why": "FMIS, tax, payroll, enterprise architecture status"
+ }
+]

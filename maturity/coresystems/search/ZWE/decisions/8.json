@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "ZIMRA launched TaRMS Release 3 on 1 October 2024, which the notice says marks the full implementation of TaRMS.",
+ "title": "Public Notice 78 of 2024: Tax and Revenue Management System (TaRMS) Release 3 Go-Live",
+ "publisher": "Zimbabwe Revenue Authority",
+ "published": "2024-10-10",
+ "date_source": "source",
+ "why_not": ""
+}

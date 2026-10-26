@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;renewed",
+ "fact": "The upgraded IFMS, the Navision system for foreign missions and the PBS were deployed in live production effective FY2022/2023, and IFMS processes budget upload, invoices and payments through the Treasury Single Account.",
+ "title": "Financial Reporting Guide Revised 2024",
+ "publisher": "Ministry of Finance, Planning and Economic Development, Accountant General",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

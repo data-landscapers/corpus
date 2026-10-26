@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance",
+ "fact": "Regulation 13 of the PFM Regulations 2019 makes GIFMIS the core platform for processing government financial transactions, and the Auditor-General found for 2024 that covered entities did not fully process transactions through GIFMIS, so the Controller and Accountant-General journalised manual data into it and was urged to upgrade GIFMIS.",
+ "title": "Report of the Auditor-General on the Public Accounts of Ghana (Whole-of-Government Accounts) for the year ended 31 December 2024",
+ "publisher": "Office of the Auditor-General, Ghana Audit Service",
+ "published": "2025-06-10",
+ "date_source": "source",
+ "why_not": ""
+}

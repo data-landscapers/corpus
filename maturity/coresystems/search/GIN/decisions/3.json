@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;renewed",
+ "fact": "Since January 2025, deconcentrated services' spending is executed through the SONOYAH application, with dematerialisation reported 100% complete inside the country.",
+ "title": "La dématérialisation de l'exécution des crédits des services déconcentrés via l'outil « SONOYAH »",
+ "publisher": "Direction Générale du Budget",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll",
+ "fact": "The Ministry of Finance replaced the automated payroll deduction management system with a manual PDMS helpdesk after saying no digital system was ready to replace it.",
+ "title": "Manual payroll system raises cost and control issues",
+ "publisher": "Windhoek Observer",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

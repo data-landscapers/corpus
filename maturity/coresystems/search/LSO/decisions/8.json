@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "payroll;renewed",
+ "fact": "The World Bank completion report states the new HRMIS payroll module was used to process the October 2021 payroll, while integration with IFMIS, CBMS and the national ID system was not completed by project closing.",
+ "title": "Lesotho Public Sector Modernization Project - Implementation Completion and Results Report",
+ "publisher": "World Bank Group",
+ "published": "2022",
+ "sub_indicator": "core",
+ "why_not": "",
+ "date_source": "source"
+}

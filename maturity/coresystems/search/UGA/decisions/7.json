@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll;revenue",
+ "fact": "The Treasury Memorandum of March 2026 on the FY2023/24 audit reports that IFMS was re-engineered with a Fixed Assets Module and whole-of-government asset register, and describes e-Tax as an integrated tax administration system and IPPS as being replaced by HCM.",
+ "title": "Treasury Memorandum on the Report of the Auditor General for the Financial Year 2023/24",
+ "publisher": "Ministry of Finance, Planning and Economic Development",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

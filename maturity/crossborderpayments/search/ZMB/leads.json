@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://digitalbankerafrica.com/ghana-rwanda-and-zambia-pilot-digital-trade-corridor-to-advance-instant-cross-border-payments/",
+  "title": "Ghana, Rwanda and Zambia Pilot Digital Trade Corridor",
+  "publisher": "Digital Banker Africa",
+  "published": "2026-06-10",
+  "sub_indicator": "crossborder",
+  "why": "corridor piloted"
+ },
+ {
+  "url": "https://zambialii.org/akn/zm/act/2026/5/eng@2026-04-08",
+  "title": "National Payment System Act, 2026",
+  "publisher": "Parliament of Zambia / ZambiaLII",
+  "published": "2026-04-08",
+  "sub_indicator": "crossborder",
+  "why": "rules/licensing for payment services"
+ },
+ {
+  "url": "https://mwnation.com/comesa-payment-system-connects-malawi-zambia/",
+  "title": "Comesa payment system connects Malawi, Zambia",
+  "publisher": "Nation Online",
+  "published": "2025-10-13",
+  "sub_indicator": "crossborder",
+  "why": "Zambia-Malawi corridor"
+ },
+ {
+  "url": "https://www.lusakatimes.com/2025/10/10/zambias-zamtel-to-pilot-new-comesa-system-for-instant-cross-border-money-transfers/",
+  "title": "Zamtel to pilot COMESA system",
+  "publisher": "Lusaka Times",
+  "published": "2025-10-10",
+  "sub_indicator": "crossborder",
+  "why": "corridor pilot"
+ },
+ {
+  "url": "https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries",
+  "title": "Airtel Money, PawaPay enable remittances",
+  "publisher": "Connecting Africa",
+  "published": "2025-08-07",
+  "sub_indicator": "crossborder",
+  "why": "inbound mobile money remittances Zambia in service"
+ },
+ {
+  "url": "https://www.boz.zm/sites/default/files/2026-01/2024NPSAnnualReport_0.pdf",
+  "title": "2024 National Payments Systems Annual Report",
+  "publisher": "Bank of Zambia",
+  "published": "2025",
+  "sub_indicator": "crossborder",
+  "why": "cross-border mobile money figures, PAPSS, SADC-RTGS, TCIB"
+ },
+ {
+  "url": "https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/",
+  "title": "Cross-border payments now live between SA and Zambia",
+  "publisher": "IT-Online",
+  "published": "2024-03-01",
+  "sub_indicator": "crossborder",
+  "why": "TCIB corridor SA-Zambia"
+ },
+ {
+  "url": "https://www.boz.zm/payment-systems/regional-payment-systems",
+  "title": "Regional Payment Systems",
+  "publisher": "Bank of Zambia",
+  "published": "",
+  "sub_indicator": "crossborder",
+  "why": "SADC-RTGS, PAPSS participation"
+ }
+]

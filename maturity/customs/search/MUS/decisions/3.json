@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "The 2025 UN Global Survey scores Mauritius as fully implemented on automated customs system, e-submission of customs declarations and e-single window, and not implemented on electronic exchange of customs declaration (cross-border paperless trade 50%).",
+ "title": "Trade Facilitation and Paperless Trade in Mauritius",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation (UNESCAP/UN Regional Commissions)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

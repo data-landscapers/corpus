@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported",
+ "fact": "Remittance inflows from Somali nationals abroad rose from $1.64 billion in 2020 to $2.72 billion in 2024 (CBS data), 22.7 percent of GDP in 2024.",
+ "title": "Migration Statistics",
+ "publisher": "Somali National Bureau of Statistics",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

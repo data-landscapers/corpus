@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional;reported",
+ "fact": "Zimbabwean commercial banks processed ZAR5.55 billion on the SADC-RTGS system in 2023, 4,103 transactions.",
+ "title": "2024 Monetary Policy Statement",
+ "publisher": "Reserve Bank of Zimbabwe",
+ "published": "2024-04-05",
+ "date_source": "source",
+ "why_not": ""
+}

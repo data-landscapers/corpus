@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.emansion.gov.lr/media/press-release/president-boakai-issues-landmark-executive-order-no-163-launch-national",
+  "title": "President Boakai Issues Landmark Executive Order No: 163 to Launch National Digitalization Drive",
+  "publisher": "Executive Mansion, Liberia",
+  "published": "2026-04-28",
+  "sub_indicator": "core",
+  "why": "Enterprise architecture and systems inventory mandate"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/sites/default/files/documents/26-7-17-%20OFFICE%20OF%20TECHNOLOGY%20%2C%20DIGITALIZATION%20AND%20INNOVATION%20%20TERMS%20OF%20REFERENCE%20%28OTDI%29.pdf",
+  "title": "Terms of Reference - Chief Information Officer (OTDI)",
+  "publisher": "Office of the President, Liberia",
+  "published": "2026",
+  "sub_indicator": "core",
+  "why": "CIO to build enterprise architecture framework and digital systems inventory"
+ },
+ {
+  "url": "https://revenue.lra.gov.lr/lra-trains-staff-on-new-digital-tax-payment-system/",
+  "title": "LRA Trains Staff on New Digital Tax Payment System",
+  "publisher": "Liberia Revenue Authority",
+  "published": "2025-08-21",
+  "sub_indicator": "core",
+  "why": "LITAS tax system upgrade with mobile payment"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099062725114529541/pdf/BOSIB-2e0ff737-5295-430a-8f0a-e1eea8f9d84e.pdf",
+  "title": "Public Financial Management Reforms for Institutional Strengthening Project (ICR)",
+  "publisher": "World Bank Group",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "IFMIS rollout to 86 MACs, CSM payroll share, budget module"
+ },
+ {
+  "url": "https://mfdp.gov.lr/index.php/component/edocman/ministerial-order-on-the-mandatory-connection-to-the-integrated-financial-management-information-system-ifmis?Itemid=0",
+  "title": "Ministerial Order on the Mandatory Connection to IFMIS",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "2025-04-28",
+  "sub_indicator": "core",
+  "why": "Government budgets and pays through IFMIS"
+ },
+ {
+  "url": "https://www.mfdp.gov.lr/index.php/media-center/press-release/government-reports-success-in-public-financial-management-reforms",
+  "title": "Government Reports Success in Public Financial Management Reforms",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "IFMIS 86 MACs, LITAS Oct 2022, EFT, payroll migration"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099110824031012139/txt/P165000118a1e60421bdfd1efc7dd2705f8.txt",
+  "title": "Implementation Support Mission Aide-Memoire PFMRISP (P165000), September 2024",
+  "publisher": "World Bank Group",
+  "published": "2024",
+  "sub_indicator": "core",
+  "why": "LITAS operational, EFT payroll, CSM migration"
+ },
+ {
+  "url": "https://www.cabri-sbo.org/uploads/bia/Liberia_2024_Planning_External_NationalPlan_Institution_ECOWASCEN-SAD_English_d226ec.pdf",
+  "title": "Public Financial Management Reform Strategy and Action Plan 2024-2027",
+  "publisher": "Ministry of Finance and Development Planning (via CABRI)",
+  "published": "2024",
+  "sub_indicator": "core",
+  "why": "IFMIS stabilization and integration plans"
+ }
+]

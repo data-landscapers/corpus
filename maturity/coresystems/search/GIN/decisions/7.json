@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;renewed",
+ "fact": "On 24 October 2023 Atos announced it had deployed the SAP S/4HANA-based Système Comptable Intégré de l'Etat, interfaced with tax, customs, treasury and central bank, used by treasury accountants nationwide and sending payment orders electronically to banks.",
+ "title": "Atos digitalise les finances publiques de la République de Guinée",
+ "publisher": "Atos",
+ "published": "2023-10-24",
+ "date_source": "source",
+ "why_not": ""
+}

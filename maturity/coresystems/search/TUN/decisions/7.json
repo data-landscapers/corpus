@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "architecture",
+ "fact": "On 17 October 2022 the ICT minister launched the Government Enterprise Architecture (AEG) project under the national digital strategy 2025.",
+ "title": "Lancement du projet Architecture d'Entreprise Gouvernementale (AEG)",
+ "publisher": "L'Echo Tunisien",
+ "published": "2022-10-18",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue",
+ "fact": "ZRA required all VAT-registered taxpayers to register and use the Smart Invoice e-invoicing system by 30 September 2024, with standard penalties from 1 October 2024.",
+ "title": "Smart Invoice Deadline",
+ "publisher": "Zambia Revenue Authority",
+ "published": "2024-09-25",
+ "date_source": "source",
+ "why_not": ""
+}

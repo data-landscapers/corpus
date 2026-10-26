@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "The 2025 UN survey records the Central African Republic's automated customs system, e-single window system and e-submission of customs declarations as fully implemented, and electronic exchange of customs declarations as partially implemented.",
+ "title": "Trade Facilitation and Paperless Trade in Central African Republic",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

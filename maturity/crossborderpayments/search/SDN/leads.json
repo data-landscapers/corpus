@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://africa.businessinsider.com/local/lifestyle/war-torn-sudan-plans-banking-app-to-bring-millions-in-remittances-home-from-citizens/mtdf2c9",
+  "title": "War torn Sudan plans banking app to bring millions in remittances home",
+  "publisher": "Business Insider Africa",
+  "published": "2026-08-30",
+  "sub_indicator": "crossborder",
+  "why": "Cross-border corridor being drafted (Saudi banking apps) and remittance figure"
+ },
+ {
+  "url": "https://sudanalaan.net/20634",
+  "title": "انخفاض في تحويلات السودان–مصر عبر التطبيقات.. الأسواق تتكيف مع مسار جديد",
+  "publisher": "السودان الان",
+  "published": "2026-01-13",
+  "sub_indicator": "crossborder",
+  "why": "Sudan-Egypt transfers through Bankak, Vodafone Cash, InstaPay in use"
+ },
+ {
+  "url": "https://alsulta.net/62573",
+  "title": "المركزي : يصدر منشورا جديدا لضوابط التحويلات المالية",
+  "publisher": "السلطة نت",
+  "published": "2026-01-08",
+  "sub_indicator": "crossborder",
+  "why": "Central bank circular regulating transfers including external transfers"
+ },
+ {
+  "url": "https://en.sputniknews.africa/20251015/1079512280.html",
+  "title": "PAPSS & BRICS: Sudan Seeks to Expand Local Currency Trade in Africa & Beyond",
+  "publisher": "Sputnik Africa",
+  "published": "2025-10-15",
+  "sub_indicator": "crossborder",
+  "why": "Sudan and PAPSS participation"
+ },
+ {
+  "url": "https://birrmetrics.com/telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to-papss-framework/",
+  "title": "Telebirr Eyes Regional Payment Ties with Sudan and Djibouti Aligned to PAPSS Framework",
+  "publisher": "Birr Metrics",
+  "published": "2025-07-24",
+  "sub_indicator": "crossborder",
+  "why": "Ethiopia-Sudan mobile money link negotiation (pilot/draft corridor)"
+ },
+ {
+  "url": "https://amwaj.news/82108",
+  "title": "أسعار التحويل تشتعل بين السودان ومصر",
+  "publisher": "امواج نيوز",
+  "published": "2025-07-09",
+  "sub_indicator": "crossborder",
+  "why": "Sudan-Egypt digital transfer rates via apps (cost)"
+ },
+ {
+  "url": "https://www.zawya.com/en/press-release/companies-news/zain-launches-bede-fintech-platform-in-sudan-xj0tzojh",
+  "title": "Zain launches 'Bede' fintech platform in Sudan",
+  "publisher": "Zain Fintech via Zawya",
+  "published": "2025-04-17",
+  "sub_indicator": "crossborder",
+  "why": "Wallet with international remittance planned in phase three"
+ },
+ {
+  "url": "https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Sudan-Infrastructure-Assessment-Report-ENG.pdf",
+  "title": "Regional Harmonization of Remittance Policies in IGAD: Sudan Infrastructure Assessment",
+  "publisher": "UNCDF",
+  "published": "2023",
+  "sub_indicator": "crossborder",
+  "why": "No cross-border interoperability of EBS, SRAG; not in REPSS"
+ }
+]

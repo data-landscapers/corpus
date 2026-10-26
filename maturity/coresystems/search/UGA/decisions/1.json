@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "architecture",
+ "fact": "NITA-U issued the e-Government Interoperability Framework Reference Architecture GIRA-2026 on 15 May 2026, a renewal of the Government Enterprise Architecture and e-GIF that updates the 2021 version.",
+ "title": "e-Government Interoperability Framework Reference Architecture (GIRA-2026)",
+ "publisher": "National Information Technology Authority - Uganda (NITA-U)",
+ "published": "2026-05-15",
+ "date_source": "source",
+ "why_not": ""
+}

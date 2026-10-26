@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://guineenews.org/2026/06/26/commerce-exterieur-le-guceg-ouvre-une-nouvelle-ere-digitale-avec-guceg-impact-360/",
+  "title": "Commerce extérieur : le GUCEG ouvre une nouvelle ère digitale avec « GUCEG Impact 360 »",
+  "publisher": "Guinéenews",
+  "published": "2026-06-26",
+  "sub_indicator": "customs",
+  "why": "Single window in service, 84% deployed (Q4)"
+ },
+ {
+  "url": "https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/",
+  "title": "ECOWAS strengthens intra-regional trade with the launch of SIGMAT between Côte d'Ivoire, Guinea and Liberia",
+  "publisher": "ECOWAS",
+  "published": "2025-11-05",
+  "sub_indicator": "customs",
+  "why": "Electronic transit data exchange (Q5)"
+ },
+ {
+  "url": "https://www.africaguinee.com/securite-et-transparence-les-douanes-guineennes-modernisent-la-gestion-des-cargaisons/",
+  "title": "Sécurité et transparence : Les Douanes guinéennes modernisent la gestion des cargaisons",
+  "publisher": "Africa Guinee",
+  "published": "2025-08-28",
+  "sub_indicator": "customs",
+  "why": "SYDONIA interconnection MoU (Q2, Q3)"
+ },
+ {
+  "url": "https://www.untfsurvey.org/economy?id=GIN&year=2025",
+  "title": "Trade Facilitation and Paperless Trade in Guinea",
+  "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+  "published": "2025",
+  "sub_indicator": "customs",
+  "why": "Automated customs system, e-declaration partial (Q3, Q4, Q5)"
+ },
+ {
+  "url": "https://dgd.gov.gn/2024/10/11/partenariat-dgd-aguicom-guceg-se-concertent-sur-la-main-levee-des-marchandises-au-pac-2/",
+  "title": "PARTENARIAT : DGD-AGUICOM-GUCEG se concertent sur la main levée des marchandises au PAC",
+  "publisher": "Direction Générale des Douanes",
+  "published": "2024-10-11",
+  "sub_indicator": "customs",
+  "why": "SYDONIA World manifest at Conakry port (Q3)"
+ },
+ {
+  "url": "https://webbfontaine.com/success-stories/guinea/trade-transformation-ports-and-single-window",
+  "title": "Success stories | Guinea transforms trade operations",
+  "publisher": "Webb Fontaine",
+  "published": "2024-07-05",
+  "sub_indicator": "customs",
+  "why": "GUCEG single window deployed (Q4)"
+ },
+ {
+  "url": "https://www.aap.com.au/aapreleases/cision20230713ae53103/",
+  "title": "Webb Fontaine Empowers Guinea Customs with State-of-the-Art Tracking Solutions of Goods in Transit",
+  "publisher": "Webb Fontaine / AAP",
+  "published": "2023-07-14",
+  "sub_indicator": "customs",
+  "why": "Transit tracking aligned with SydoniaWorld, SIGMAT (Q2, Q5)"
+ },
+ {
+  "url": "https://www.ecowas.int/ecowas-interconnected-system-for-the-management-of-goods-in-transit-sigmat-now-operational-in-nine-9-member-states/",
+  "title": "ECOWAS' interconnected System for the Management of Goods In Transit (SIGMAT) now operational in nine Member States",
+  "publisher": "ECOWAS",
+  "published": "2023-06-16",
+  "sub_indicator": "customs",
+  "why": "Guinea signs SIGMAT MoU (Q5)"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "The DGI launched a new integrated tax management system (SIGIBé) in April 2021, operational 30 April 2022 and extended to all medium-sized business tax centres two months later, with some modules still under development at 31 December 2023.",
+ "title": "Benin (Reform Matrix)",
+ "publisher": "World Bank",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

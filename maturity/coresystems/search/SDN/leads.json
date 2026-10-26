@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.suna.sd/posts/amyn-aaam-hkom-alshmaly-ybhth-astaaad-anthm-ozar-almaly-otaazyz-althol-alrkmy",
+  "title": "أمين عام حكومة الشمالية يبحث استعادة أنظمة وزارة المالية",
+  "publisher": "Sudan News Agency (SUNA)",
+  "published": "2026-10-05",
+  "sub_indicator": "core",
+  "why": "Northern State finance system Wafi stopped 2023, being restored; payroll and accounts (core systems restored/upgraded)"
+ },
+ {
+  "url": "https://www.suna.sd/posts/ozyr-aldol-almaly-yaaln-bday-antlak-ntham-atzan-llmoazn",
+  "title": "وزير الدولة بالمالية يعلن بدء نظام إتزان للموازنة",
+  "publisher": "Sudan News Agency (SUNA)",
+  "published": "2026-09-16",
+  "sub_indicator": "core",
+  "why": "Budget system Itizan launched toward 2027-28 budgets; budget through computer system"
+ },
+ {
+  "url": "https://sudan-dailynews.com/76057/",
+  "title": "ديوان الحسابات يؤكد العمل على ربط الولايات بنظام التحصيل الإلكتروني إيصالي",
+  "publisher": "Sudan Daily News",
+  "published": "2026-08-23",
+  "sub_indicator": "core",
+  "why": "GIFMIS adoption, payroll computerisation systems, Esali collection"
+ },
+ {
+  "url": "https://spokesperson-sd.com/ar/archives/39743",
+  "title": "وزارة المالية تؤكد استمرار إصلاح المالية العامة وفق خارطة طريق متكاملة",
+  "publisher": "Official Spokesperson Platform",
+  "published": "2026-04-11",
+  "sub_indicator": "core",
+  "why": "Esali e-collection/payment in use since 2024, integrated with ASYCUDA"
+ },
+ {
+  "url": "https://tax.gov.sd/news/",
+  "title": "news - SudanTax",
+  "publisher": "Sudan Taxation Chamber",
+  "published": "2026-05-04",
+  "sub_indicator": "core",
+  "why": "Tax authority e-invoicing resumed May 2026; core tax system and e-portal"
+ },
+ {
+  "url": "https://mof.gov.sd/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%88%D9%82%D8%B9-%D8%B9%D9%82%D9%88%D8%AF-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%B5%D9%8A%D9%84-%D9%88/",
+  "title": "وزارة المالية توقع عقود خدمة التحصيل والسداد الإلكتروني للمعاملات الحكومية مع البنوك",
+  "publisher": "Ministry of Finance and Economic Planning",
+  "published": "2025-01-23",
+  "sub_indicator": "core",
+  "why": "Electronic collection and payment contracts with banks (budget/accounts and payments)"
+ },
+ {
+  "url": "https://mof.gov.sd/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AA/",
+  "title": "وزارة المالية تتجه لتطبيق النظام المتكامل لمعلومات الادارة المالية",
+  "publisher": "Ministry of Finance and Economic Planning",
+  "published": "2024-10-01",
+  "sub_indicator": "core",
+  "why": "Plan to apply IFMIS to computerise budget, accounting, reporting"
+ },
+ {
+  "url": "https://www.imfmetac.org/content/metac/en1/technical-assistance/areas/sudan.html",
+  "title": "Sudan",
+  "publisher": "IMF Middle East Technical Assistance Center (METAC)",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Treasury Single Account, e-collection (Esali), e-treasury ledger, planned FMIS"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;revenue;payroll",
+ "fact": "The Auditor-General's report on the FY2023 accounts, transmitted to Parliament in December 2024, audits the FreeBalance IFMIS and ASYCUDA and finds that the ITAS tax system does not interface with IFMIS and that payroll runs on the Civil Service Management system.",
+ "title": "Auditor-General's Annual Report 2023",
+ "publisher": "Audit Service Sierra Leone",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

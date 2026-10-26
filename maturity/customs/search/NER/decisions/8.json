@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "exchange;system",
+ "fact": "Niger customs runs ASYCUDAWorld and is interconnected for electronic transit data with Benin (June 2019), Burkina Faso (October 2019), Togo (October 2019) and Cote d'Ivoire (July 2021) through SIGMAT.",
+ "title": "The SIGMAT System: The ASYCUDA Journey in West Africa",
+ "publisher": "UNCTAD",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "renewed;revenue",
+ "fact": "A tender dated 27 July 2026 buys equipment and software to support the new business information system (SI métier) of the Direction Générale des Impôts, covering tax payment by bank card and mobile phone.",
+ "title": "AAO - Mali - Acquisition d'équipements et de logiciels informatiques pour soutenir la mise en place du nouveau Système d'Information (SI) métier de la DGI - PASG",
+ "publisher": "Banque Africaine de Développement",
+ "published": "2026-07-27",
+ "date_source": "source",
+ "why_not": ""
+}

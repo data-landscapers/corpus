@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor;reported",
+ "fact": "On 3 October 2024 Tranglo launched real-time transfers into Moroccan bank accounts and states that remittances to Morocco reached USD 11.5 billion in 2023, 8% of GDP.",
+ "title": "Tranglo launches bank account transfers in Morocco",
+ "publisher": "Tranglo",
+ "published": "2024-10-03",
+ "date_source": "source",
+ "why_not": ""
+}

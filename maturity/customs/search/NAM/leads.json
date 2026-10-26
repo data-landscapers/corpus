@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://observer24.com.na/namra-says-old-customs-system-was-11-versions-behind/",
+  "title": "NamRA says old customs system was 11 versions behind",
+  "publisher": "Windhoek Observer",
+  "published": "2026-05-19",
+  "sub_indicator": "customs",
+  "why": "Q2/Q3 ASYCUDAWorld 4.4.1 upgrade, online declarations"
+ },
+ {
+  "url": "https://www.namibiansun.com/local-news/namra-customs-upgrade-unleashes-border-chaos-truck-delays-nmh010747-1-12817",
+  "title": "Namra customs upgrade unleashes border chaos, truck delays",
+  "publisher": "Namibian Sun",
+  "published": "2026-05-12",
+  "sub_indicator": "customs",
+  "why": "Q1/Q2 previous system manual paperwork; upgrade"
+ },
+ {
+  "url": "https://neweralive.na/namra-upgrades-asycudaworld-system-and-implements-new-procedures/",
+  "title": "NamRA upgrades Asycudaworld system and implements new procedures",
+  "publisher": "New Era",
+  "published": "2026-05-05",
+  "sub_indicator": "customs",
+  "why": "Q2/Q3 upgrade effective 5 May 2026"
+ },
+ {
+  "url": "https://www.namra.org.na/documents/cms/uploaded/public-notice-asycudaworld-golive-date-extended-e62d0a7fe7.pdf",
+  "title": "ASYCUDAWorld Upgrade Go-Live Date Extension",
+  "publisher": "Namibia Revenue Agency",
+  "published": "2026-04-01",
+  "sub_indicator": "customs",
+  "why": "Q2 upgrade go-live date moved to 5 May 2026"
+ },
+ {
+  "url": "https://tfadatabase.org/en/members/namibia/technical-assistance-projects/article-10-4",
+  "title": "TFAD: Namibia, Article 10.4 Single window",
+  "publisher": "WTO Trade Facilitation Agreement Database",
+  "published": "2026",
+  "sub_indicator": "customs",
+  "why": "Q4 single window not in service, date extended to 2028"
+ },
+ {
+  "url": "https://www.namra.org.na/documents/cms/uploaded/time-release-study-trs-at-the--transkalahari-border-post-march-2025-3dc588a3bb.pdf",
+  "title": "Time Release Study at the Trans-Kalahari Border Post, March 2025",
+  "publisher": "Namibia Revenue Agency",
+  "published": "2025",
+  "sub_indicator": "customs",
+  "why": "Q3/Q4 ASYCUDA World at border post; ESW not yet linked"
+ },
+ {
+  "url": "https://www.wcoomd.org/en/media/newsroom/2024/november/engaging-across-agency-lines--namibia-takes-strides-towards-cbm.aspx",
+  "title": "Engaging across agency lines: Namibia takes strides towards CBM",
+  "publisher": "World Customs Organization",
+  "published": "2024-11-27",
+  "sub_indicator": "customs",
+  "why": "Q4 border agency data work"
+ },
+ {
+  "url": "https://www.thesouthafrican.com/lifestyle/customs-connectivity-namibia-south-africa/",
+  "title": "Namibia edges closer to South Africa with customs connectivity",
+  "publisher": "The South African",
+  "published": "2021-03-01",
+  "sub_indicator": "customs",
+  "why": "Q5 customs-to-customs connectivity with SARS"
+ }
+]

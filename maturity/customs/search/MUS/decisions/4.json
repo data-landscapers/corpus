@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "A TradeNet notice of 10.03.2025 states that during server maintenance on 16 March users could not submit customs declarations or receive messages from Customs, showing declarations are lodged through TradeNet.",
+ "title": "Customs Declarations By NTA and Registrar General (TradeNet login page)",
+ "publisher": "Mauritius Network Services Ltd",
+ "published": "2025-03-10",
+ "date_source": "source",
+ "why_not": ""
+}

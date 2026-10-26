@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.rra.gov.rw/en/about-us/announcements",
+  "title": "Announcement: ASYCUDA World upgrade to 4.4.1",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2026-08-27",
+  "sub_indicator": "customs",
+  "why": "Q2: customs system upgrade"
+ },
+ {
+  "url": "https://www.theeastafrican.co.ke/tea/business-tech/eac-customs-platform-to-address-trade-barriers-4909342",
+  "title": "EAC customs platform to address trade barriers",
+  "publisher": "The EastAfrican",
+  "published": "2025-02-01",
+  "sub_indicator": "customs",
+  "why": "Q5: SCT centralised platform data exchange"
+ },
+ {
+  "url": "https://www.rra.gov.rw/fileadmin/user_upload/IMPORTATION_2025.pdf",
+  "title": "Importation and goods' clearance",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2025",
+  "sub_indicator": "customs",
+  "why": "Q3: declarations uploaded electronically"
+ },
+ {
+  "url": "https://www.biddingsource.com/tenders/7386458",
+  "title": "Terms of Reference for Hiring Consultant to Integrate Online Export Service System With Rwanda Electronic Single Window System",
+  "publisher": "Bidding Source",
+  "published": "2024-07-16",
+  "sub_indicator": "customs",
+  "why": "Q4: single window integration"
+ },
+ {
+  "url": "https://research.trademarkafrica.com/wp-content/uploads/2023/10/TMEA-RESW-Evaluation-Final-Report.pdf",
+  "title": "Formative Evaluation of the Single Window for the Rwanda Revenue Authority Project",
+  "publisher": "TradeMark Africa",
+  "published": "2023-10",
+  "sub_indicator": "customs",
+  "why": "Q3/Q4: ReSW"
+ },
+ {
+  "url": "https://www.rra.gov.rw/en/customs-services/rwanda-electronic-single-window",
+  "title": "Rwanda Electronic Single Window (ReSW)",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "",
+  "sub_indicator": "customs",
+  "why": "Q4: single window"
+ },
+ {
+  "url": "https://www.rra.gov.rw/fileadmin/user_upload/ANNUAL_REPORT_2021-22_AB.pdf",
+  "title": "Taxes for Growth and Development: Annual Report 2021-22",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2022",
+  "sub_indicator": "customs",
+  "why": "Q2/Q4: ReSW phase II"
+ },
+ {
+  "url": "https://ura.go.ug/en/rects/",
+  "title": "Regional Electronic Cargo Tracking System (RECTS)",
+  "publisher": "Uganda Revenue Authority",
+  "published": "2024-06-24",
+  "sub_indicator": "customs",
+  "why": "Q5: transit data exchange"
+ }
+]

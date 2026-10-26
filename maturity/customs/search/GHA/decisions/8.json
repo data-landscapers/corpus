@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "customs",
+ "aspect": "window",
+ "fact": "Since June 2020, approved customs house agents in Ghana have processed their documentation through the single window run by GRA Customs.",
+ "title": "Operation of the single window (Ghana, Article 10.4.3)",
+ "publisher": "World Trade Organization, Trade Facilitation Agreement Database",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no document date in the text (set aside by the parent at staging)"
+}

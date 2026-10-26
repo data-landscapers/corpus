@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The State accounting information system SIPCE (Oracle E-Business Suite, 3,000 users, 551 central government entities) has been operational since January 2020 and is interfaced with the GID, SIT tax, BADR customs and wadef@ujour payroll systems.",
+ "title": "The New Moroccan Accountancy System",
+ "publisher": "World Bank, 2021 IFMIS Capacity Building Program (A. Bouazzaoui)",
+ "published": "2021-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

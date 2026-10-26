@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "Decree 37/2023 of 29 June 2023 requires the customs declaration and its documents to be submitted electronically to Customs.",
+ "title": "Regras Gerais do Desembaraço Aduaneiro (Decreto n.º 37/2023)",
+ "publisher": "Boletim da República",
+ "published": "2023-06-29",
+ "date_source": "source",
+ "why_not": ""
+}

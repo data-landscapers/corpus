@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "On 19 March 2025 the DGI began training deconcentrated service heads on deploying the SAFIG2 tax management tool.",
+ "title": "Formation des directeurs communaux des impôts de Conakry sur le déploiement de l'outil SAFIG2",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2025-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "architecture",
+ "fact": "The e-Government Authority approved on 31 December 2024 its Guidebook for Formulating and Governing Enterprise Architecture in Public Institutions (eGA/EXT/AVS/004, v1.0).",
+ "title": "Guidebook for Formulating and Governing Enterprise Architecture in Public Institutions",
+ "publisher": "e-Government Authority",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

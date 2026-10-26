@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "exchange",
+ "fact": "URA states that Kenya, Uganda and Rwanda run a Regional Electronic Cargo Tracking System with central monitoring centres in Kampala, Kigali, Nairobi and DRC, for transit information exchange.",
+ "title": "Regional Electronic Cargo Tracking System (RECTS)",
+ "publisher": "Uganda Revenue Authority",
+ "published": "2024-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

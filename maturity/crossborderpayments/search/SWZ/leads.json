@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/04/Govenors-Speech-SADC-RTGS-User-Group-Conference-September-2025.pdf",
+  "title": "Governor's Opening Remarks SADC RTGS User Group Conference",
+  "publisher": "Central Bank of Eswatini",
+  "published": "2025-09-17",
+  "sub_indicator": "crossborder",
+  "why": "Regional system participation (q4)"
+ },
+ {
+  "url": "https://www.mamamoney.co.za/blog/send-money-to-eswatini-with-ease-how-mama-money-mtn-momo-make-it-simple",
+  "title": "Send Money to Eswatini with Ease: Mama Money & MTN MoMo",
+  "publisher": "Mama Money",
+  "published": "2025-07-26",
+  "sub_indicator": "crossborder",
+  "why": "Named corridor SA-Eswatini mobile wallet in service (q3)"
+ },
+ {
+  "url": "https://www.insidebiz.co.sz/eswatini-to-migrate-low-value-cross-border-transfers-to-regional-system-by-2027/",
+  "title": "Eswatini to Migrate Low-Value Cross-Border Transfers to Regional System by 2027",
+  "publisher": "Inside Biz",
+  "published": "2025-05-23",
+  "sub_indicator": "crossborder",
+  "why": "TCIB migration, draft regulations (q2,q4)"
+ },
+ {
+  "url": "https://www.centralbank.org.sz/wp-content/uploads/2025/04/Eswatini-CMA-Retail-EFT-Payment-Directive-v1.pdf",
+  "title": "CMA EFT Payments Directive no:1 of 2025",
+  "publisher": "Central Bank of Eswatini",
+  "published": "2025-03",
+  "sub_indicator": "crossborder",
+  "why": "Rule on TCIB (q2,q4)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099120525113020349/pdf/P169126-568e8690-cdbb-4d29-8fa3-fecd98755e74.pdf",
+  "title": "Review of the Market for International Remittances - Kingdom of Eswatini",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "crossborder",
+  "why": "Remittance volumes and costs (q5)"
+ },
+ {
+  "url": "https://independentnews.co.sz/10581/business/new-momo-product-receive-money-from-sa/",
+  "title": "New MoMo product; Receive money from SA",
+  "publisher": "Independent News",
+  "published": "2024-12-04",
+  "sub_indicator": "crossborder",
+  "why": "MoMo cross-border launch (q3)"
+ },
+ {
+  "url": "https://www.africa-press.net/eswatini/all-news/mtn-eswatini-introduces-system-allowing-customers-to-receive-mobile-money-from-south-africa",
+  "title": "MTN Eswatini Introduces System Allowing Customers to Receive Mobile Money from South Africa",
+  "publisher": "Africa-Press",
+  "published": "2024-12-09",
+  "sub_indicator": "crossborder",
+  "why": "Licensing of MTN Fintech as ADLA, corridor (q2,q3)"
+ },
+ {
+  "url": "https://www.resbank.co.za/en/home/publications/publication-detail-pages/media-releases/2024/cma-countries-move-to-regularise-electronic-funds-transfer-payments",
+  "title": "Common Monetary Area countries move to regularise electronic funds transfer payments",
+  "publisher": "South African Reserve Bank",
+  "published": "2024-07-26",
+  "sub_indicator": "crossborder",
+  "why": "CMA cross-border EFT rules (q2)"
+ }
+]

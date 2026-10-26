@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.cbs.sc/Downloads/publications/Speeches/Opening%20Remarks%20by%20Governor%20Caroline%20Abel%20-SADC%20CCBG%20PSS%20and%20PSOC%20meetings.pdf",
+  "title": "Opening Remarks by Governor Caroline Abel - SADC CCBG PSS and PSOC meetings",
+  "publisher": "Central Bank of Seychelles",
+  "published": "2025",
+  "sub_indicator": "crossborder",
+  "why": "CBS processes cross-border payments on SADC-RTGS; volume limited."
+ },
+ {
+  "url": "https://www.cbs.sc/Downloads/publications/Speeches/Welcoming%20Remarks%20by%20Mr%20Mike%20Tirant%20-%20Launching%20of%20SEYRTGS.pdf",
+  "title": "Welcoming Remarks - Launching of SEYRTGS",
+  "publisher": "Central Bank of Seychelles",
+  "published": "2025",
+  "sub_indicator": "crossborder",
+  "why": "Domestic RTGS launch; foundation for interoperability."
+ },
+ {
+  "url": "https://www.gazette.sc/sites/default/files/2025-12/SI%2099%202025%20No%202%20-%20National%20Payment%20System%20%28Licensing%20and%20Authorisation%29%20%28Amendment%29%20Regulations%202025.pdf",
+  "title": "S.I. 99 of 2025 National Payment System (Licensing and Authorisation) (Amendment) Regulations",
+  "publisher": "Official Gazette, Republic of Seychelles",
+  "published": "2025-12-15",
+  "sub_indicator": "crossborder",
+  "why": "Payment service licensing rules."
+ },
+ {
+  "url": "https://www.statehouse.gov.sc/cabinet-decisions/6226/cabinet-business-thursday-12th-september-2024",
+  "title": "Cabinet Business - Thursday 12th September 2024",
+  "publisher": "State House Seychelles",
+  "published": "2024-09-12",
+  "sub_indicator": "crossborder",
+  "why": "Cabinet approves NPS licensing regulation amendments."
+ },
+ {
+  "url": "https://www.centralbank.ae/media/bgzkeqnp/cbuae-and-the-cbs-sign-mous-to-promote-the-use-of-local-currencies-en.pdf",
+  "title": "CBUAE and the CBS sign MoUs ... interlinking payment and messaging systems",
+  "publisher": "Central Bank of the UAE",
+  "published": "2024-07-19",
+  "sub_indicator": "crossborder",
+  "why": "MoU to link instant payment platforms and settle in local currencies."
+ },
+ {
+  "url": "https://docs.barcoder.ai/docs/payments/SC",
+  "title": "Seychelles payments - QR and payment standards",
+  "publisher": "Barcoder",
+  "published": "2026",
+  "sub_indicator": "crossborder",
+  "why": "Secondary: SADC-RTGS volume growth, remittance flows; not a primary source."
+ },
+ {
+  "url": "https://finobservatory.org/remittances/SYC",
+  "title": "Seychelles: Remittances",
+  "publisher": "FinObservatory",
+  "published": "2025",
+  "sub_indicator": "crossborder",
+  "why": "Remittance receipts and payments figures from World Bank WDI."
+ }
+]

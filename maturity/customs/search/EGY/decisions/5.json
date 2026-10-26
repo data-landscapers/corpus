@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "exchange",
+ "fact": "A project record states electronic exchange of information between the customs authorities of Agadir Agreement members (Egypt, Morocco and others) has been operating since 2016.",
+ "title": "Data exchange between Customs authorities of Agadir Member countries",
+ "publisher": "Cross-Border Paperless Trade Database (UNESCAP)",
+ "published": "2024-06-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

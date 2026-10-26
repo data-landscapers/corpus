@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "The tax administration confirmed production start of the Système d'Administration Fiscale Intégré (SAFI) after the 18 September 2025 steering committee, with existing tax services switching over from late September.",
+ "title": "SAFI : cap sur le déploiement effectif à Madagascar",
+ "publisher": "Cabinet Fenitra",
+ "published": "2025-10-16",
+ "date_source": "source",
+ "why_not": ""
+}

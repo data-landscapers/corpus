@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The FY2023 statements, dated 25 March 2024, state that payroll runs on the IFMIS HR/Payroll system with all categories except Foreign Mission salaries processed by Electronic Fund Transfer, and that EFT was extended to more MDAs in 2023.",
+ "title": "General Purpose Financial Statements of the Consolidated Fund for the year ended 31st December 2023",
+ "publisher": "Accountant General's Department, Government of Sierra Leone",
+ "published": "2024-03-25",
+ "date_source": "source",
+ "why_not": ""
+}

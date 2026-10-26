@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "architecture",
+ "fact": "On 23 May 2024 the strategic committee of the Digital Transformation of Public Finance project validated the digital maturity and governance assessment, and set up an architecture committee with TOGAF enterprise architecture training.",
+ "title": "MEF/DSI - Transformation digitale des métiers des finances publiques : Réunion du comité stratégique",
+ "publisher": "Ministère de l'Economie et des Finances",
+ "published": "2024-05-23",
+ "date_source": "source",
+ "why_not": ""
+}

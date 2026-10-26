@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported",
+ "fact": "According to ARCEP Bénin's 2024 annual report, 99.5% of mobile financial service transactions in Benin in 2024 were national transfers and 0.5% international transfers.",
+ "title": "2 911 milliards FCFA de dépôt effectués en 2024",
+ "publisher": "Les 4 Vérités",
+ "published": "2025-05-06",
+ "date_source": "source",
+ "why_not": ""
+}

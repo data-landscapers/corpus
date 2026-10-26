@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll",
+ "fact": "The OSP and CAGD report of 20 May 2024 reviews payments and validation on the government payroll system, reconciling it against nominal rolls and bank data, and withheld salaries of 1,265 flagged persons from January 2024.",
+ "title": "Report of Investigation: Government of Ghana Payroll Administration (Phase I Vol. 1)",
+ "publisher": "Office of the Special Prosecutor; Controller and Accountant General's Department",
+ "published": "2024-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.pefa.org/sites/default/files/2026-10/SC-Oct2025-PFMPR-Public%20with%20PEFA%20Check_0.pdf,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://www.imf.org/-/media/files/publications/cr/2025/english/1sycea2025001-print-pdf.pdf,unfetchable,HTTP 403; Wayback ConnectionError,,0,,
+3,https://www.finance.gov.sc/wp-content/uploads/2025/08/2025-1st-EDITION-1.pdf,held,held as raw/2025/2025-03-01-syc-mofnpt-review-ifmis-contract.md,,0,,
+4,https://theseychellestimes.com/2025/01/07/seychelles-signs-ifmis-contract-to-modernise-public-finance/,fetched,,scripts/.workroot/study/coresystems/cache/SYC/4.txt,592,html,Seychelles Signs IFMIS Contract to Modernise Public Finance | The Seychelles Times
+5,https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf,held,held as raw/2024/2024-07-01-syc-imf-gfs-psds-mission-summary.md,,0,,
+6,https://www.nationalassembly.sc/sites/default/files/2024-12/AR%2023%20pdf.pdf,unfetchable,HTTP 500; Wayback ConnectionError,,0,,
+7,https://src.gov.sc/wp-content/uploads/2024/08/2023-Annual-Report.pdf,fetched,,scripts/.workroot/study/coresystems/cache/SYC/7.txt,24737,pdf,2023 Annual Report
+8,https://src.gov.sc/src-introduces-dedicated-return-forms-and-tax-payment-slip-to-replace-the-business-activity-statement/,held,held as raw/2024/2024-03-04-syc-src-dedicated-return-forms-payment-slip.md,,0,,

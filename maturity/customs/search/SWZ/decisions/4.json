@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "exchange",
+ "fact": "ERS customs declaration data is automatically exchanged with the South African Revenue Service; Trader Connect piloted with one company.",
+ "title": "Eswatini Revenue Service: Implementing the e-CO (SADC & COMESA)",
+ "publisher": "Eswatini Revenue Service",
+ "published": "2025-02-03",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "customs",
+ "aspect": "window",
+ "fact": "In its 13 February 2025 notification under the WTO Trade Facilitation Agreement the Comoros classed Article 10.4 (single window) and Article 7.2 (electronic payment) as Category C with a definitive implementation date of 31 December 2026, and asked for help to establish a full electronic single window.",
+ "title": "Notification of Category Commitments under the Agreement on Trade Facilitation, G/TFA/N/COM/1",
+ "publisher": "Committee on Trade Facilitation, World Trade Organization",
+ "published": "2025-02-14",
+ "date_source": "source",
+ "why_not": "set aside at staging: lint-staged-queue MISFILED, the fetched Wayback copy's URL does not match the frontmatter URL"
+}

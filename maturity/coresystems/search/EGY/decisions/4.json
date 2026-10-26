@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll;revenue",
+ "fact": "The Finance Minister said government e-payment of state employees' salaries reached EGP 299.4 billion and e-collection of taxes EGP 613.1 billion between July 2023 and May 2024, with the e-payment and collection centre integrated with the GFMIS.",
+ "title": "وزير المالية: ٢,٥ تريليون جنيه قيمة خدمات «الدفع والتحصيل الإلكتروني» في 11 شهرًا",
+ "publisher": "رئاسة مجلس الوزراء",
+ "published": "2024-06-23",
+ "date_source": "source",
+ "why_not": ""
+}

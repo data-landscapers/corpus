@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.minecofin.gov.rw/news-detail/ifmis-upgraded-to-modern-platform-strengthening-public-financial-management",
+  "title": "IFMIS Upgraded to Modern Platform, Strengthening Public Financial Management",
+  "publisher": "MINECOFIN",
+  "published": "2026-10",
+  "sub_indicator": "core",
+  "why": "Q4: IFMIS upgrade completed"
+ },
+ {
+  "url": "https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/STRATEGIES/Digital_Transformation_Strategy/Fiscal_Data_and_AI_Strategy_-_11_April2025_2_.pdf",
+  "title": "Fiscal Data and AI Strategy",
+  "publisher": "MINECOFIN",
+  "published": "2025-04-11",
+  "sub_indicator": "core",
+  "why": "Q2: IFMIS covers PFM cycle"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099063025190015407/pdf/BOSIB-7232c011-e26c-4fe4-852f-0de741916aa6.pdf",
+  "title": "Rwanda PFM project Implementation Completion Report",
+  "publisher": "World Bank",
+  "published": "2025-06",
+  "sub_indicator": "core",
+  "why": "Q2/Q4: IFMIS upgrade and users"
+ },
+ {
+  "url": "https://www.rra.gov.rw/fileadmin/user_upload/RRA_ACTION_PLAN_2024-2025_Ok.pdf",
+  "title": "RRA Action Plan 2024-2025",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2024",
+  "sub_indicator": "core",
+  "why": "Q3/Q5: tax systems, enterprise architecture"
+ },
+ {
+  "url": "https://www.africa-press.net/rwanda/economy/rra-launches-single-portal-for-all-online-services",
+  "title": "RRA launches single portal for all online services",
+  "publisher": "Africa-Press",
+  "published": "2023-12-06",
+  "sub_indicator": "core",
+  "why": "Q3/Q4: MyRRA tax portal launched"
+ },
+ {
+  "url": "https://www.cabri-sbo.org/uploads/files/Documents/Rwanda-Country-Case-Study.pdf",
+  "title": "Rwanda Country Case Study (digital systems in PFM)",
+  "publisher": "CABRI",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Q2: iFMIS interfaces with payroll"
+ },
+ {
+  "url": "https://www.minecofin.gov.rw/index.php?eID=dumpFile&f=58258&t=f&token=d0d541efadaa4c02deefe2c43b939205391d2ae6",
+  "title": "PFM sector document",
+  "publisher": "MINECOFIN",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Q3: IFMIS, IPPIS, RRA integrated"
+ }
+]

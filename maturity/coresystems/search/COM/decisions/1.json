@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;finance;renewed",
+ "fact": "The PAGF closing ceremony on 25 June 2026 reported strengthened interfacing between the SYDONIA and SIGIT systems, digitalised tax procedures at the DGI, and modern IT equipment deployed at the Budget Directorate.",
+ "title": "Cérémonie de clôture PAGF",
+ "publisher": "Direction Nationale du Contrôle des Marchés Publics (DNCMP), Ministère des Finances, du Budget et du Secteur Bancaire",
+ "published": "2026-06-26",
+ "date_source": "source",
+ "why_not": ""
+}

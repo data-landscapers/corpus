@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll;revenue",
+ "fact": "The National Treasury states that IFMIS is the core system used by national MDAs and county governments and is being re-engineered, with payroll, e-GP, e-Citizen revenue and payment systems to be integrated and accrual go-live expected 1 July 2025.",
+ "title": "Roadmap on Transition from Cash to Accrual Accounting by National and County Governments and their respective entities with effect from 1st July 2024 to 30th June 2027",
+ "publisher": "The National Treasury and Economic Planning",
+ "published": "2024-11",
+ "date_source": "source",
+ "why_not": ""
+}

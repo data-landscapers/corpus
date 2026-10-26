@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional",
+ "fact": "The BCEAO list updated 30 September 2026 shows 20 Burkina Faso participants (banks, Orange Money Burkina, and microfinance institutions) authorised to open PI-SPI interoperable instant payment services to the public across the eight UEMOA states.",
+ "title": "Liste des participants autorisés à ouvrir les services de PI-SPI au public",
+ "publisher": "BCEAO",
+ "published": "2026-09-30",
+ "date_source": "source",
+ "why_not": ""
+}

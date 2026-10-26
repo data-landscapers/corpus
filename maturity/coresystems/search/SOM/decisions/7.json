@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The ICR reports that the federal government processed 93.5 percent of transactions through SFMIS (Puntland 75, Somaliland 100), against a 60 percent target, with civil servants paid directly into accounts through the electronic system.",
+ "title": "Implementation Completion and Results Report",
+ "publisher": "World Bank",
+ "published": "2024-01-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

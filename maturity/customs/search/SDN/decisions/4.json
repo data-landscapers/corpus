@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window",
+ "fact": "As of November 2025 Sudan uses ASYCUDA for customs transactions, has no operational national single window, and manual and paper-based processes remain the primary clearance method.",
+ "title": "1.3 Sudan Customs Information",
+ "publisher": "Logistics Cluster, Digital Logistics Capacity Assessments",
+ "published": "2025-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

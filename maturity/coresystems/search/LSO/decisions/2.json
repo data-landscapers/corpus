@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "finance",
+ "fact": "The Auditor General's report on the 2022/23 consolidated financial statements, dated 9 May 2025, states that the 2022/23 audit included the first Information Systems audit of how financial transactions are undertaken within IFMIS and the Consolidated Budget Management System, and that expenditure is recognised when final payment authorisation is effected in IFMIS.",
+ "title": "Audit report on the Consolidated Financial Statements of the Government of Lesotho for the year ended 31st March 2023",
+ "publisher": "Office of the Auditor General, Lesotho",
+ "published": "2025-05-09",
+ "sub_indicator": "core",
+ "why_not": "",
+ "date_source": "source"
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://features.csis.org/finding-the-missing-link-for-fintech-in-central-africa/index.html",
+  "title": "Finding the Missing Link for Fintech in Central Africa",
+  "publisher": "CSIS",
+  "published": "2026-09-10",
+  "sub_indicator": "crossborder",
+  "why": "CEMAC payment interoperability, PAPSS, EG context (q3,q4)"
+ },
+ {
+  "url": "https://www.afreximbank.com/afreximbank-and-equatorial-guinea-strengthen-partnership-to-advance-industrialisation-energy-development-and-intra-african-trade/",
+  "title": "Afreximbank and Equatorial Guinea strengthen partnership",
+  "publisher": "Afreximbank",
+  "published": "2026-07-29",
+  "sub_indicator": "crossborder",
+  "why": "EG joined PAPSS through BEAC accession 9 July 2026 (q4)"
+ },
+ {
+  "url": "https://papss.com/media/beac-joins-papss-connecting-payments-between-cemac-and-the-rest-of-africa/",
+  "title": "BEAC Joins PAPSS, Connecting Payments between CEMAC and the Rest of Africa",
+  "publisher": "PAPSS",
+  "published": "2026-07-08",
+  "sub_indicator": "crossborder",
+  "why": "BEAC joined PAPSS; EG a member state (q4)"
+ },
+ {
+  "url": "https://docs.barcoder.ai/docs/payments/GQ/cemac-interop",
+  "title": "CEMAC Interop (Equatorial Guinea)",
+  "publisher": "Barcoder",
+  "published": "",
+  "sub_indicator": "crossborder",
+  "why": "GIMACPAY corridors and 2024 BEAC figures (q3,q5)"
+ },
+ {
+  "url": "https://www.worldbank.org/en/country/equatorialguinea/publication/equatorial-guinea-digital-economy-country-diagnostic-bridging-the-gaps-to-develop-a-safe-and-inclusive-digital-transform",
+  "title": "Equatorial Guinea Digital Economy Country Diagnostic",
+  "publisher": "World Bank",
+  "published": "2024-06-25",
+  "sub_indicator": "crossborder",
+  "why": "State of digital financial services and e-money licensing (q1,q2)"
+ },
+ {
+  "url": "https://ochiranoticias.com/2024/02/23/muni-expande-sus-servicios-de-envio-de-dinero-a-toda-la-region-de-africa-central/",
+  "title": "Muni expande sus servicios de envío de dinero a toda la Región de África Central",
+  "publisher": "Ochira Noticias",
+  "published": "2024-02-23",
+  "sub_indicator": "crossborder",
+  "why": "Muni Dinero CEMAC transfers via GIMACPAY launched (q3)"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/sesion_monografica_sobre_la_situacion_de_envios_de_dinero_y_servicios_bancarios",
+  "title": "Sesión monográfica sobre la situación de envíos de dinero y servicios bancarios",
+  "publisher": "Gobierno de la República de Guinea Ecuatorial",
+  "published": "2023-09-21",
+  "sub_indicator": "crossborder",
+  "why": "Parliament: money transfer services lacking (q1)"
+ },
+ {
+  "url": "https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf",
+  "title": "The State of Inclusive Instant Payment Systems in Africa: CEMAC case study",
+  "publisher": "AfricaNenda",
+  "published": "2023",
+  "sub_indicator": "crossborder",
+  "why": "GIMACPAY cross-border within CEMAC; volumes (q4,q5)"
+ }
+]

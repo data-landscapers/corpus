@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "architecture",
+ "fact": "On 16 March 2023 the Ministry of Innovation and Technology and the EU launched a five-year e-Government Strategy and Enterprise Architecture for Ethiopia; it is a project launch, not a published architecture.",
+ "title": "E-Government Strategy and Enterprise Architecture for Ethiopia Launched",
+ "publisher": "Ethiopian News Agency",
+ "published": "2023-03-16",
+ "date_source": "source",
+ "why_not": ""
+}

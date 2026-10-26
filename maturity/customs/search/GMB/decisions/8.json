@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "The 2025 survey rates Gambia's automated customs system as fully implemented, e-single window as planning stage, and electronic exchange of customs declarations as not implemented.",
+ "title": "Trade Facilitation and Paperless Trade in Gambia",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

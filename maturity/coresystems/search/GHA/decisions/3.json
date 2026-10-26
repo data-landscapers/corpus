@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "GRA's E-VAT system, piloted from October 2022, replaces manual VAT invoicing books with a real-time automated platform, with 4,000 taxpayers being onboarded in 2025 and a target of 40,000 by end 2025.",
+ "title": "GRA Replaces 30-Day Manual VAT Filing with 48-Hour Electronic System",
+ "publisher": "Ghana News Agency",
+ "published": "2025-05-22",
+ "date_source": "source",
+ "why_not": ""
+}

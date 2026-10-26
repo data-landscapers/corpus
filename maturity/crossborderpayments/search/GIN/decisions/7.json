@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional",
+ "fact": "PAPSS lists Access Bank and UBA as Guinean banks available to send and receive money in Guinean francs.",
+ "title": "Fast and affordable money transfer across Africa in local currency from your bank account",
+ "publisher": "PAPSS",
+ "published": "2024-02-07",
+ "date_source": "source",
+ "why_not": ""
+}

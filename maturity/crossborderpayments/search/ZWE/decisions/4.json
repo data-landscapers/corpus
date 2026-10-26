@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported;corridor",
+ "fact": "The 2024 assessment reports Zimbabwe's weighted average cost of South Africa remittances fell from 9.2 percent in 2021 to 8.76 percent in 2024.",
+ "title": "South Africa to the rest of SADC Remittances Market Assessment 2024 Report",
+ "publisher": "South African Reserve Bank / FinMark Trust",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

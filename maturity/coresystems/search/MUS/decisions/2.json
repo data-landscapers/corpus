@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The Director of Audit's report for 2023-24 states the Treasury Accounting System was set up for cash-basis reporting and accrual layering has left technical issues unresolved, that the HRMIS project was wound up on 25 September 2020 with none of its five modules put to effective use, and that there is no e-Government Master Plan.",
+ "title": "Certificate of Audit & Report of the Director of Audit on the Accounts of the Government for the Financial Year 2023-24",
+ "publisher": "National Audit Office, Republic of Mauritius",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

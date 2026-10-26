@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll;renewed",
+ "fact": "The payroll module of the rewritten civil-service pay system was developed from January 2025 after 2024 studies, and tested 25-28 November 2025 before production.",
+ "title": "Réécriture du système de rémunération des Fonctionnaires et Agents de l’Etat : la DSIB présente le nouveau module de gestion de la paie à la Direction de la Solde",
+ "publisher": "Direction Générale du Budget et des Finances",
+ "published": "2025-11-26",
+ "date_source": "source",
+ "why_not": ""
+}

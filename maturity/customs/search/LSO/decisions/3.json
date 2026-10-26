@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "aspect": "window",
+ "fact": "In December 2025 the Lesotho National Single Window was reported fully rolled out to all involved government agencies, with phase 2 (November 2024 to December 2025) adding 10 agencies and online payment expected in Q1 2026.",
+ "title": "Lesotho Completes Full Rollout of the National Single Window, Marking a Major Milestone in Trade Facilitation Reform",
+ "publisher": "Lesotho Trade Information Portal",
+ "published": "2025-12-22",
+ "sub_indicator": "customs",
+ "why_not": "set aside at staging: lint-staged-queue MISFILED, the fetched Wayback copy's URL does not match the frontmatter URL",
+ "date_source": "source"
+}

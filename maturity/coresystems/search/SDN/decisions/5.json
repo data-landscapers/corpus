@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue",
+ "fact": "On 4 May 2026 the Taxation Chamber announced it had resumed the electronic invoice system, and its site describes a computerised core tax system with e-portal.",
+ "title": "news - SudanTax",
+ "publisher": "ديوان الضرائب",
+ "published": "2026-05-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

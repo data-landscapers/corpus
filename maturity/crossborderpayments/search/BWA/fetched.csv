@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.mamamoney.co.za/blog/send-money-to-botswana-myzaka-mascom,fetched,,scripts/.workroot/study/crossborderpayments/cache/BWA/1.txt,1170,html,Send Money to Botswana: MyZaka Mascom
+2,https://fintech.bankofbotswana.bw/sites/default/files/2026-03/Public%20Notice%20-%20Call%20for%20Applications%20for%20entry%20into%20the%20Bank%20of%20Botswana%20Regulatory%20Sandbox_0.pdf,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+3,https://www.bankofbotswana.bw/sites/default/files/Fintech%20Analytical%20Assessment%20Framework%20-%20October%2015%2C%202025.pdf,fetched,,scripts/.workroot/study/crossborderpayments/cache/BWA/3.txt,13122,pdf,
+4,https://www.bankofbotswana.bw/sites/default/files/publications/Annual%20Report%202025.pdf,fetched,,scripts/.workroot/study/crossborderpayments/cache/BWA/4.txt,50874,pdf,
+5,https://mascom.bw/myzaka-int-money-transfer/,fetched,,scripts/.workroot/study/crossborderpayments/cache/BWA/5.txt,163,html,MyZaka International Money Transer
+6,https://www.orange.co.bw/business/en/om-money-transfer/international-money-transfer-service.html,fetched,,scripts/.workroot/study/crossborderpayments/cache/BWA/6.txt,252,html,International Money Transfer service | Money transfer services | Orange Botswana Business
+7,https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-settlements/settlement-services/sadc-psoc-activities/SADCPSOC%20Report%20April%202021%20-%20June%202024.pdf,held,held as raw/2024/2024-10-01-xsa-sadc-payment-system-oversight-committee-report-april-2021-june-2024.md,,0,,
+8,https://bankofbotswana.bw/sites/default/files/Register%20of%20Licensed%20Electronic%20Payment%20Service%20(EPS)%20Providers%20as%20at%20%20May%202023_0.pdf,held,held as raw/2023/2023-05-01-bwa-register-of-licensed-electronic-payment-service-eps-providers-as-at-ma.md,,0,,

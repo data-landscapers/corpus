@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://acazambia.org/wp-content/uploads/2025/10/Auditor-General-Report-for-the-Financial-Year-2024-ONLINE-PUBLICATION-compressed.pdf",
+  "title": "Auditor General's Report FY2024 (IFMIS and PMEC audit)",
+  "publisher": "Office of the Auditor General",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "IFMIS and PMEC run in 2024: finance and payroll systems"
+ },
+ {
+  "url": "https://www.pefa.org/sites/default/files/2025-12/ZM-Sep2025-PFMPR-Final%20Public%20with%20PEFA%20Check.pdf",
+  "title": "Zambia PEFA PFM Performance Report",
+  "publisher": "PEFA Secretariat",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "IFMIS, commitment control and TSA status"
+ },
+ {
+  "url": "https://doi.org/10.59413/eafj/v4.i2.1",
+  "title": "Evaluating the usage of IFMIS in enhancing Public Financial Management in Zambia",
+  "publisher": "East African Finance Journal",
+  "published": "2025-04-08",
+  "sub_indicator": "core",
+  "why": "IFMIS use across ministries"
+ },
+ {
+  "url": "https://efficacynews.africa/2025/06/24/zppa-enhances-e-gp-system-to-boost-efficiency-and-transparency/",
+  "title": "ZPPA Enhances e-GP System",
+  "publisher": "Efficacy News",
+  "published": "2025-06-24",
+  "sub_indicator": "core",
+  "why": "e-GP integration with IFMIS"
+ },
+ {
+  "url": "https://theeditorzambia.com/2024/11/06/government-happy-with-enterprise-systems/",
+  "title": "Government happy with enterprise systems",
+  "publisher": "The Editor Zambia",
+  "published": "2024-11-06",
+  "sub_indicator": "core",
+  "why": "government enterprise systems architecture project"
+ },
+ {
+  "url": "https://www.zra.org.zm/smart-invoice-deadline/",
+  "title": "Smart Invoice Deadline",
+  "publisher": "Zambia Revenue Authority",
+  "published": "2024-09-25",
+  "sub_indicator": "core",
+  "why": "new tax system component (Smart Invoice) live"
+ },
+ {
+  "url": "https://sejlacepvzfp25ps.public.blob.vercel-storage.com/records/2a3242ad-9c19-4980-90fd-f346e025bc88/ORI_93_Integrated_Public_Financial_Management_Reform_Strategy_2024_EN-Ayp6sRX22fXCEPreHEeeAYD9X6QDLD.pdf",
+  "title": "Integrated Public Financial Management Reform Strategy",
+  "publisher": "Ministry of Finance and National Planning",
+  "published": "2024",
+  "sub_indicator": "core",
+  "why": "IFMIS, PMEC, rollout status"
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/tar/2025/english/tarea2025061-print-pdf.pdf",
+  "title": "Zambia: Strengthening Cash Forecasting, TA Report 25/61",
+  "publisher": "IMF",
+  "published": "2025-01",
+  "sub_indicator": "core",
+  "why": "payments via TSA, electronic"
+ }
+]

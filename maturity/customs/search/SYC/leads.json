@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://src.gov.sc/the-seychelles-revenue-commission-prepares-to-upgrade-asycuda-world-to-version-4-4-1/",
+  "title": "SRC prepares to upgrade ASYCUDA World to version 4.4.1",
+  "publisher": "Seychelles Revenue Commission",
+  "published": "2026-03-14",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA upgrade phase one, paperless bill of entry."
+ },
+ {
+  "url": "https://src.gov.sc/src-hosts-annual-forum-with-traders-to-strengthen-trade-procedures-and-boost-compliance/",
+  "title": "SRC hosts annual forum with traders",
+  "publisher": "Seychelles Revenue Commission",
+  "published": "2026-01-27",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA upgrade and PVMIS single entry point."
+ },
+ {
+  "url": "https://tfadatabase.org/en/members/seychelles/technical-assistance-projects/article-10-4",
+  "title": "TFAD Seychelles Article 10.4 Single window",
+  "publisher": "WTO Trade Facilitation Agreement Database",
+  "published": "2025-08-12",
+  "sub_indicator": "customs",
+  "why": "Single window not yet in service; date 30 June 2027."
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1sycea2025001-print-pdf.pdf",
+  "title": "Seychelles IMF Country Report",
+  "publisher": "IMF",
+  "published": "2025-06-16",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA World upgrades, modules implemented."
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/articles/20964/ports-digital-access-to-seychelles-pvmis-to-be-mandatory-by-2025",
+  "title": "Ports: Digital access to Seychelles' PVMIS to be mandatory by 2025",
+  "publisher": "Seychelles News Agency",
+  "published": "2024-07-30",
+  "sub_indicator": "customs",
+  "why": "Port information system alongside manual system."
+ },
+ {
+  "url": "https://src.gov.sc/seychelles-revenue-commission-launches-online-payment-for-customs-services/",
+  "title": "SRC launches online payment for customs services",
+  "publisher": "Seychelles Revenue Commission",
+  "published": "2024-06-05",
+  "sub_indicator": "customs",
+  "why": "E-payment module in ASYCUDA."
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/public/articles/19454/seychelles-revenue-commission-signs-agreement-with-asycuda-for-port-information-system",
+  "title": "SRC signs agreement with ASYCUDA for port information system",
+  "publisher": "Seychelles News Agency",
+  "published": "2023-10-12",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA to integrate with PVMIS from 1 January 2024."
+ },
+ {
+  "url": "https://src.gov.sc/customs-and-excises/",
+  "title": "Customs and Excises",
+  "publisher": "Seychelles Revenue Commission",
+  "published": "",
+  "sub_indicator": "customs",
+  "why": "All declarations made through ASYCUDA World."
+ }
+]

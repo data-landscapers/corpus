@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;renewed",
+ "fact": "The government set up the SIGOBE budget operations system; its first year of operation was reviewed 28 March-1 April 2022 and complementary modules were developed in 2021.",
+ "title": "Gestion budgétaire",
+ "publisher": "Ministère du Budget et du Portefeuille de l'Etat",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

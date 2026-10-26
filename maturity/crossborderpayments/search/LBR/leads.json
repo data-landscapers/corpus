@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://techafricanews.com/2026/06/10/bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-service-across-eight-african-countries/",
+  "title": "BnB Liberia and Orange Money Launch Cross-Border Mobile Remittance Service Across Eight African Countries",
+  "publisher": "TechAfrica News",
+  "published": "2026-06-10",
+  "sub_indicator": "crossborder",
+  "why": "Named outbound mobile money corridors in service"
+ },
+ {
+  "url": "https://www.cbl.org.lr/media/features-articles/liberia-advances-toward-cashless-future-launch-inclusive-instant-payment",
+  "title": "Liberia Advances Toward Cashless Future with Launch of Inclusive Instant Payment System (IIPS)",
+  "publisher": "Central Bank of Liberia",
+  "published": "2025-12-08",
+  "sub_indicator": "crossborder",
+  "why": "National instant payment system launch"
+ },
+ {
+  "url": "https://mojaloop.io/central-bank-of-liberia-launches-transformational-inclusive-instant-payments-system-iips-powered-by-mojaloop/",
+  "title": "Central Bank of Liberia Launches IIPS Powered by Mojaloop",
+  "publisher": "Mojaloop Foundation",
+  "published": "2025-12-15",
+  "sub_indicator": "crossborder",
+  "why": "IIPS integration with PAPSS"
+ },
+ {
+  "url": "https://www.cbl.org.lr/sites/default/files/documents/The%20Regulator%20Oct-Dec%202025%20Magazine%20Final%20Update%20for%20print.pdf",
+  "title": "The Regulator Oct-Dec 2025",
+  "publisher": "Central Bank of Liberia",
+  "published": "2025",
+  "sub_indicator": "crossborder",
+  "why": "PAPSS operational, IIPS connection to regional rails"
+ },
+ {
+  "url": "https://reports231.com/bridging-borders-papss-encourages-financial-integration-in-the-mano-river-union/",
+  "title": "Bridging Borders: PAPSS Encourages Financial Integration in the Mano River Union",
+  "publisher": "Reports231",
+  "published": "2025-09-10",
+  "sub_indicator": "crossborder",
+  "why": "PAPSS corridors Ghana, Guinea, Gambia, Sierra Leone, Nigeria"
+ },
+ {
+  "url": "https://www.cbl.org.lr/media/features-articles/eg-saamoi-speaks-joint-launch-fined-papss-monrovia",
+  "title": "EG Saamoi Speaks at Joint Launch of FinEd & PAPSS in Monrovia",
+  "publisher": "Central Bank of Liberia",
+  "published": "2025-04-02",
+  "sub_indicator": "crossborder",
+  "why": "PAPSS launch; cross-border figures 2024"
+ },
+ {
+  "url": "https://www.cbl.org.lr/media/press-releases/papss-pan-african-payment-and-settlement-system-promotes-cross-border-trade",
+  "title": "PAPSS: Pan-African Payment and Settlement System Promotes Cross-Border Trade",
+  "publisher": "Central Bank of Liberia",
+  "published": "2024-09-13",
+  "sub_indicator": "crossborder",
+  "why": "CBL is PAPSS settlement agent"
+ },
+ {
+  "url": "https://developingtelecoms.com/telecom-technology/financial-services/17109-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services.html",
+  "title": "New partnership aims to boost Liberia's mobile money transfer services",
+  "publisher": "Developing Telecoms",
+  "published": "2024-08-05",
+  "sub_indicator": "crossborder",
+  "why": "MTN MoMo outbound international transfers"
+ }
+]

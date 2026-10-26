@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "MNS's TradeNet portal, with a notice dated 01.10.2026, states traders, customs brokers and agents submit customs declarations electronically through TradeNet, with duties and taxes paid electronically via linked banks.",
+ "title": "TradeNet Portal",
+ "publisher": "Mauritius Network Services Ltd",
+ "published": "2026-10-01",
+ "date_source": "source",
+ "why_not": ""
+}

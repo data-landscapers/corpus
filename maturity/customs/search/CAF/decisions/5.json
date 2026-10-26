@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;exchange",
+ "fact": "ASYCUDAWorld launched at Bangui Airport on 16 February 2023, all Bangui and Beloko customs offices migrated on 8 May 2023, the Douala transit office on 12 June 2023, after which Central African and Cameroonian customs exchanged transit data.",
+ "title": "Central African Rep. Customs migrates to ASYCUDAWorld",
+ "publisher": "ASYCUDA Programme (UNCTAD)",
+ "published": "2023-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

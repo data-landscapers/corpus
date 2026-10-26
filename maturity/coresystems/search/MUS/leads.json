@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://cib.govmu.org/Documents/Reports/EnterpriseArchitectureMauritius.pdf",
+  "title": "ENTERPRISE ARCHITECTURE",
+  "publisher": "Central Informatics Bureau, Government of Mauritius",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Q5: published government enterprise architecture and operational systems portfolio"
+ },
+ {
+  "url": "http://nao.govmu.org/nao/wp-content/uploads/AnnualAuditReport/2023-24/AuditReportMauritius%202324.pdf",
+  "title": "Audit Report 2023-24",
+  "publisher": "National Audit Office of Mauritius",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Q2/Q4: legacy systems replacement and e-government audit findings"
+ },
+ {
+  "url": "https://lexpress.mu/node/543671",
+  "title": "Fonds publics : Le dernier rapport de l'Audit",
+  "publisher": "l'express",
+  "published": "2025-03-25",
+  "sub_indicator": "core",
+  "why": "Q5: audit finds no e-government master plan (French)"
+ },
+ {
+  "url": "https://mof.govmu.org/Documents/Budget2025_26/2025_26_P0254_treasury.pdf",
+  "title": "Programme 0254: Government Accounting and Payment System",
+  "publisher": "Ministry of Finance",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Q2: Treasury accounting and payment system programme"
+ },
+ {
+  "url": "https://publicnotice.govmu.org/publicnotice/?p=21219",
+  "title": "Supply, Installation, Configuration of a Web-Based Accounting & Finance Software and Human Resources & Payroll Software",
+  "publisher": "Government of Mauritius public notice",
+  "published": "2024-04-03",
+  "sub_indicator": "core",
+  "why": "Q4: procurement of new accounting and HR payroll software"
+ },
+ {
+  "url": "https://sil.mu/govtech-solutions/",
+  "title": "GovTech Solutions - SIL Mauritius",
+  "publisher": "State Informatics Limited",
+  "published": "2024-03-07",
+  "sub_indicator": "core",
+  "why": "Q2/Q4: Treasury Accounting System go-live Feb 2023 on Oracle EBS 12.2.10"
+ },
+ {
+  "url": "https://cisd.govmu.org/Pages/payroll.aspx",
+  "title": "GOVERNMENT PAYROLL",
+  "publisher": "Central Information Systems Division",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Q3: government payroll system, e-payslips for ~58,000 employees"
+ },
+ {
+  "url": "http://digitalidentityindex.com/countries/mauritius/govtech/",
+  "title": "Mauritius - The Global Digital Identity Index",
+  "publisher": "Global Digital Identity Index",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Q2/Q3/Q5: FMIS, ITAS, HRMIS, enterprise architecture status"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "On 17 May 2024 (reported 20 May) the GRA signed an MoU with Sogema Technologies for a new web-based Integrated Tax Administration System to replace the current GAMTAXNET system.",
+ "title": "GRA Signs Agreement To Improve Efficiency, Transparency",
+ "publisher": "The Standard",
+ "published": "2024-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

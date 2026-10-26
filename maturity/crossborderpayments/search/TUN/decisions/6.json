@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported",
+ "fact": "The BCT payments bulletin shows 582.2 thousand transactions of fund transfers for Tunisians resident abroad in the first half of 2024, against 78.7 thousand in the first half of 2023.",
+ "title": "Les paiements en chiffres en Tunisie, Bulletin n°9",
+ "publisher": "Banque Centrale de Tunisie",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

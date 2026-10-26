@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "core",
+ "aspect": "finance;renewed",
+ "fact": "The new IFMIS-Benin (SIGFP) was put into production in January 2022 and all actors from central to decentralised level execute their budgets with it.",
+ "title": "Benin Country Case Study (digital PFM)",
+ "publisher": "CABRI",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no document date in the text (set aside by the parent at staging)"
+}

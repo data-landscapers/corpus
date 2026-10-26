@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.mamamoney.co.za/blog/send-money-to-botswana-myzaka-mascom",
+  "title": "Send Money to Botswana: MyZaka Mascom",
+  "publisher": "Mama Money",
+  "published": "2026-07-30",
+  "sub_indicator": "crossborder",
+  "why": "South Africa to Botswana wallet corridor in service, fee 5% or less"
+ },
+ {
+  "url": "https://fintech.bankofbotswana.bw/sites/default/files/2026-03/Public%20Notice%20-%20Call%20for%20Applications%20for%20entry%20into%20the%20Bank%20of%20Botswana%20Regulatory%20Sandbox_0.pdf",
+  "title": "Call for Applications for entry into the Bank of Botswana Regulatory Sandbox",
+  "publisher": "Bank of Botswana",
+  "published": "2026-03-04",
+  "sub_indicator": "crossborder",
+  "why": "Sandbox open for inclusive payments and interoperability"
+ },
+ {
+  "url": "https://www.bankofbotswana.bw/sites/default/files/Fintech%20Analytical%20Assessment%20Framework%20-%20October%2015%2C%202025.pdf",
+  "title": "Fintech Analytical Assessment Framework",
+  "publisher": "Bank of Botswana",
+  "published": "2025-10-15",
+  "sub_indicator": "crossborder",
+  "why": "Cross-border funds transfer licensing; National Payment System Law drafting underway"
+ },
+ {
+  "url": "https://www.bankofbotswana.bw/sites/default/files/publications/Annual%20Report%202025.pdf",
+  "title": "Annual Report 2025",
+  "publisher": "Bank of Botswana",
+  "published": "2026-06-24",
+  "sub_indicator": "crossborder",
+  "why": "SADC-RTGS, TCIB and pula settlement currency figures"
+ },
+ {
+  "url": "https://mascom.bw/myzaka-int-money-transfer/",
+  "title": "MyZaka International Money Transfer",
+  "publisher": "Mascom",
+  "published": "",
+  "sub_indicator": "crossborder",
+  "why": "Named inbound and outbound mobile money corridors"
+ },
+ {
+  "url": "https://www.orange.co.bw/business/en/om-money-transfer/international-money-transfer-service.html",
+  "title": "International Money Transfer service",
+  "publisher": "Orange Botswana",
+  "published": "",
+  "sub_indicator": "crossborder",
+  "why": "Named Orange Money corridors and fees"
+ },
+ {
+  "url": "https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-settlements/settlement-services/sadc-psoc-activities/SADCPSOC%20Report%20April%202021%20-%20June%202024.pdf",
+  "title": "SADC Payment System Oversight Committee Report April 2021 - June 2024",
+  "publisher": "South African Reserve Bank",
+  "published": "2024",
+  "sub_indicator": "crossborder",
+  "why": "Botswana SADC-RTGS participation, 4 banks, June 2024"
+ },
+ {
+  "url": "https://bankofbotswana.bw/sites/default/files/Register%20of%20Licensed%20Electronic%20Payment%20Service%20(EPS)%20Providers%20as%20at%20%20May%202023_0.pdf",
+  "title": "Register of Licensed Electronic Payment Service (EPS) Providers as at May 2023",
+  "publisher": "Bank of Botswana",
+  "published": "2023-05",
+  "sub_indicator": "crossborder",
+  "why": "Licensed remittance and e-money providers"
+ }
+]

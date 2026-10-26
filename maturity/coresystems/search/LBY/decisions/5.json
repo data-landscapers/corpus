@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The Government of National Unity began paying public sector salaries through a new unified treasury account system, with August 2025 salaries processed after basic data was uploaded for about 41% of state employees.",
+ "title": "GNU starts paying public sector wages through new treasury system",
+ "publisher": "The Libya Observer",
+ "published": "2025-09-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll;finance",
+ "fact": "The Government runs a computerised Human Resources Information Management System integrated with the Payroll and the Integrated Financial Management System (IFMS), jointly implemented by the Office of the Prime Minister and the Ministry of Finance.",
+ "title": "Being a Public Servant in Namibia: The Pocket Guide 2.0",
+ "publisher": "UNDP Namibia / Office of the Prime Minister",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

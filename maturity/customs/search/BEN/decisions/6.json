@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;exchange",
+ "fact": "A UNCTAD survey conducted October 2022 to April 2023 found frequent power cuts and poor internet at the Malanville juxtaposed control post resulting in manual recording of customs data, and recommended making the SIGMAT interconnection operational.",
+ "title": "Enquête d'évaluation du corridor Cotonou - Niamey: Facilitation du transit, du transport et des échanges en Afrique de l'Ouest",
+ "publisher": "CNUCED",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

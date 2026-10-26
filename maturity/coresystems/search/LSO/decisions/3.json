@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "finance",
+ "fact": "The Auditor General's report on the 2022 consolidated financial statements, dated 16 May 2024, reconciles the IFMIS ledger with ministries' statements and notes that some payments (M524 million of domestic debt) were processed by the Central Bank outside IFMIS.",
+ "title": "Audit report on the Consolidated Financial Statements of the Government of Lesotho for the year ended 31st March 2022",
+ "publisher": "Office of the Auditor General, Lesotho",
+ "published": "2024-05-16",
+ "sub_indicator": "core",
+ "why_not": "",
+ "date_source": "source"
+}

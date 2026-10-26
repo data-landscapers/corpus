@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll;revenue;architecture",
+ "fact": "The PFM reform strategy of 1 October 2024 says budget execution runs on the Coriolis application with budget and accounting applications not integrated, the Ministry of Budget has no IT master plan, and SIGTAS tax modules are still to be made operational.",
+ "title": "Stratégie de réforme de la gestion des finances publiques",
+ "publisher": "République de Djibouti",
+ "published": "2024-10-01",
+ "date_source": "source",
+ "why_not": ""
+}

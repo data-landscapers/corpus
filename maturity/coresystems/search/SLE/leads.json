@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mof.gov.sl/wp-content/uploads/2026/06/AGD-ANNUAL-REPORT-2025.pdf",
+  "title": "Accountant General's Department Annual Report 2025",
+  "publisher": "Accountant General's Department, Ministry of Finance",
+  "published": "2026",
+  "sub_indicator": "core",
+  "why": "IFMIS extended to 56 more MDAs, payroll modules, EFT upgrade: finances and payroll on systems, upgrade"
+ },
+ {
+  "url": "https://mof.gov.sl/wp-content/uploads/2025/10/Public-Finance-Management-Reform-Update-Jan-June-2025.pdf",
+  "title": "Public Financial Management Reform Progress Report January-June 2025",
+  "publisher": "Ministry of Finance",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "IFMIS over 90 MDAs; ITAS tax system; budget/tax systems"
+ },
+ {
+  "url": "https://mof.gov.sl/wp-content/uploads/2025/07/PFM-2024-Final-Draft-Report-compressed.pdf",
+  "title": "PFM 2024 Final Draft Report",
+  "publisher": "Ministry of Finance",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "Upgraded IFMIS Version 7 coverage 58 to 82 MDAs"
+ },
+ {
+  "url": "https://mocti.gov.sl/mocti-trains-over-100-ict-professionals-to-strengthen-digital-skills-to-design-develop-and-maintain-robust-enterprise-architecture/",
+  "title": "MoCTI Trains Over 100 ICT Professionals ... Enterprise Architecture",
+  "publisher": "Ministry of Communication, Technology & Innovation",
+  "published": "2025-10-31",
+  "sub_indicator": "core",
+  "why": "Government Enterprise Architecture Framework developed"
+ },
+ {
+  "url": "https://mocti.gov.sl/tor-recruitment-of-a-consulting-firm-for-the-development-of-transition-architecture-and-governance-mechanism-for-the-implementation-of-enterprise-architecture-ea/",
+  "title": "TOR Recruitment of a Consulting Firm ... Enterprise Architecture (EA)",
+  "publisher": "Ministry of Communication, Technology & Innovation",
+  "published": "2025-09-12",
+  "sub_indicator": "core",
+  "why": "Enterprise architecture implementation under way"
+ },
+ {
+  "url": "https://moice.gov.sl/ministry-of-information-and-civic-educations-press-conference-6/",
+  "title": "Press Conference (Digital HR Hub)",
+  "publisher": "Ministry of Information and Civic Education",
+  "published": "2025-03-12",
+  "sub_indicator": "core",
+  "why": "Payroll/HR digital system prototype announced"
+ },
+ {
+  "url": "https://website.auditservice.gov.sl/wp-content/uploads/2024/12/2023-AGs-REPORT-Final-2-12-24.pdf",
+  "title": "Auditor-General's Annual Report 2023",
+  "publisher": "Audit Service Sierra Leone",
+  "published": "2024-12",
+  "sub_indicator": "core",
+  "why": "IFMIS, ITAS and payroll audited; ITAS not interfaced with IFMIS"
+ },
+ {
+  "url": "https://mof.gov.sl/wp-content/uploads/2024/03/Annual-Public-Accounts-2023-MARCH-25TH-FINAL.pdf",
+  "title": "General Purpose Financial Statements FY2023",
+  "publisher": "Accountant General's Department",
+  "published": "2024-03",
+  "sub_indicator": "core",
+  "why": "IFMIS HR/Payroll system, EFT payroll"
+ }
+]

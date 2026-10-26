@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "The tax directorate replaced all its applications with a new platform, SIGICI, launched on 14 March and first deployed at the Large Taxpayers Directorate; filing there is online only.",
+ "title": "Lancement du SIGICI",
+ "publisher": "Ministère du Budget et du Portefeuille de l'Etat",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "architecture",
+ "fact": "The e-Government Technology Unit has developed a Government Enterprise Architecture Model for the whole of government, dated 2024.",
+ "title": "An Enterprise Architecture Modelling Exercise for the Government of Zimbabwe",
+ "publisher": "e-Government Technology Unit, Office of the President and Cabinet",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -20,9 +20,9 @@ civilregister,civil,dpi.registry--civil-register,2026-10-24,22,92.6,183
 civilserviceskills,csskills,capacity.literacy--digital-literacy-civil-service,2026-10-25,17,65.9,171
 cloudstrategy,policy,gov.policy--data-storage-cloud-strategy,2026-10-25,17,65.9,104
 consumerprotection,protection,dpi.pay--consumer-protection,2026-10-25,17,66.0,151
-coresystems,core,infra.capacity--robustness-of-government-hardware-and-software,,,,
-crossborderpayments,crossborder,dpi.pay--cross-border-functionality,,,,
-customs,customs,dpi.mis--customs,,,,
+coresystems,core,infra.capacity--robustness-of-government-hardware-and-software,2026-10-26,26,72.9,206
+crossborderpayments,crossborder,dpi.pay--cross-border-functionality,2026-10-26,26,72.9,197
+customs,customs,dpi.mis--customs,2026-10-26,26,73.0,235
 cybersecurity,readiness,infra.cybersec--national-cybersecurity-readiness,,,,
 cybersecuritylaw,law,gov.legislate--cybersecurity-legislation,,,,
 datacentrepower,power,infra.energy--sufficient-energy-and-water-for-data-centres,,,,

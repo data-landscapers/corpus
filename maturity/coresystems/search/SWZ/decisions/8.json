@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "ERS launched the Oracle-based Tax Ease self-service portal, operating from 4 March 2024.",
+ "title": "ERS launches Tax Ease portal",
+ "publisher": "Africa-Press",
+ "published": "2024-03-01",
+ "date_source": "source",
+ "why_not": ""
+}

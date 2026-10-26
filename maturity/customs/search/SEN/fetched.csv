@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://unece.org/sites/default/files/2025-04/SENEGAL_2025%20case%20study.pdf,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://www.douanes.sn/modernisation-de-lecosysteme-portuaire-le-port-autonome-de-dakar-la-direction-generale-des-douanes-et-les-acteurs-portuaires-signent-deux-protocoles-daccord-historiques/,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+3,https://www.douanes.sn/guichet-unique-de-lenlevement-des-marchandises/,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+4,https://bie.cciad.sn/2024/06/05/20-ans-de-orbus-lheure-de-chanter-les-merites-de-la-dematerialisation/,fetched,,scripts/.workroot/study/customs/cache/SEN/4.txt,604,html,20 ans de ORBUS : L’heure de chanter les mérites de la dématérialisation
+5,https://www.douanes.sn/dematerialisation-integrale-les-usagers-sengagent/,held,held as raw/2024/2024-01-16-douanes-dematerialisation-integrale-gainde.md,,0,,
+6,https://www.webinfos.sn/dematerialisation-integrale-des-procedures-douanieres-apres-15-jours-de-pratique-la-reforme-saluee-par-tous-les-acteurs/,fetched,,scripts/.workroot/study/customs/cache/SEN/6.txt,468,html,"dématérialisation intégrale des procédures douanières: Après 15 jours de pratique, la réforme saluée par tous les acteurs"
+7,https://www.osiris.sn/les-douanes-annoncent-la-dematerialisation-integrale-des-formalites-de.html,fetched,,scripts/.workroot/study/customs/cache/SEN/7.txt,234,html,"Les Douanes annoncent la « dématérialisation intégrale » des formalités de dédouanement..., le 1er janvier 2024 – OSIRIS"
+8,https://www.ecowas.int/ecowas-interconnected-system-for-the-management-of-goods-in-transit-sigmat-now-operational-in-nine-9-member-states/,fetched,,scripts/.workroot/study/customs/cache/SEN/8.txt,604,html,ECOWAS’ interconnected System for the Management of Goods In Transit (SIGMAT) now operational in nine (9) Member States

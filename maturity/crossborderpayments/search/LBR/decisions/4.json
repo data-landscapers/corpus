@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional;reported",
+ "fact": "The CBL states PAPSS is operational in Liberia and that IIPS is positioned to connect to PAPSS, regional remittance corridors and ECOWAS payment rails.",
+ "title": "The Regulator, October-December 2025",
+ "publisher": "Central Bank of Liberia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

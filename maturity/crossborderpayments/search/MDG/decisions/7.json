@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional",
+ "fact": "As of January 2023 Madagascar had only one bank participating in SADC-RTGS and no transactions were settled in the last six months of 2022.",
+ "title": "PAPSS for dummies",
+ "publisher": "DD Customs Law",
+ "published": "2023-12-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "At the Oshoek-Ngwenya border the average time from submission of a customs declaration to cargo release was 42 minutes, measured in a November 2023 time release study.",
+ "title": "Findings and recommendations of the Time Release Study conducted at the Oshoek port of entry between South Africa and eSwatini",
+ "publisher": "South African Revenue Service",
+ "published": "2024-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

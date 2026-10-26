@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "UNCTAD lists a 2023 ASYCUDA project in Guinea-Bissau for migration from ASYCUDA++ to ASYCUDAWorld.",
+ "title": "ASYCUDA Report 2024 - Innovation for a Changing World",
+ "publisher": "UNCTAD",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

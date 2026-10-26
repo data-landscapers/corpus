@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.emansion.gov.lr/media/press-release/president-boakai-issues-landmark-executive-order-no-163-launch-national,held,held as raw/2026/2026-04-28-liberia-executive-order-163-otdi-national-digitalization.md,,0,,
+2,https://www.emansion.gov.lr/sites/default/files/documents/26-7-17-%20OFFICE%20OF%20TECHNOLOGY%20%2C%20DIGITALIZATION%20AND%20INNOVATION%20%20TERMS%20OF%20REFERENCE%20%28OTDI%29.pdf,held,held as raw/2026/2026-07-17-liberia-otdi-terms-of-reference-executive-order-163.md,,0,,
+3,https://revenue.lra.gov.lr/lra-trains-staff-on-new-digital-tax-payment-system/,fetched,,scripts/.workroot/study/coresystems/cache/LBR/3.txt,525,html,LRA Trains Staff on New Digital Tax Payment System
+4,https://documents1.worldbank.org/curated/en/099062725114529541/pdf/BOSIB-2e0ff737-5295-430a-8f0a-e1eea8f9d84e.pdf,fetched,,scripts/.workroot/study/coresystems/cache/LBR/4.txt,18887,pdf,World Bank Document
+5,https://mfdp.gov.lr/index.php/component/edocman/ministerial-order-on-the-mandatory-connection-to-the-integrated-financial-management-information-system-ifmis?Itemid=0,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+6,https://www.mfdp.gov.lr/index.php/media-center/press-release/government-reports-success-in-public-financial-management-reforms,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+7,https://documents1.worldbank.org/curated/en/099110824031012139/txt/P165000118a1e60421bdfd1efc7dd2705f8.txt,unfetchable,empty extraction; no usable Wayback capture,,0,,
+8,https://www.cabri-sbo.org/uploads/bia/Liberia_2024_Planning_External_NationalPlan_Institution_ECOWASCEN-SAD_English_d226ec.pdf,fetched,,scripts/.workroot/study/coresystems/cache/LBR/8.txt,25326,pdf,

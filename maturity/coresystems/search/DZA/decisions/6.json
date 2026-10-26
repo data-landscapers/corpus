@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll;revenue",
+ "fact": "The SIGB, based on SAP ERP, has been available since March 2023 covering budget execution and budgetary and general accounting, with state payroll, tax, customs and domain revenue systems interfaced to it and budget preparation still on the external SIGBUD as of July 2023.",
+ "title": "Termes de Références Missions - Mission d'Expert long-terme en Systèmes d'information pour l'appui à la mise en service du SIGB",
+ "publisher": "Expertise France",
+ "published": "2023-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

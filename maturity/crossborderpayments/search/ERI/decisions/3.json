@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional",
+ "fact": "PAPSS's June 2026 network coverage lists the countries with live participants and Eritrea is not among them.",
+ "title": "PAPSS Payments Network Coverage June 2026",
+ "publisher": "PAPSS",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.wearetech.africa/fr/fils/actualites/tech/guinea-launches-nine-digital-projects-to-modernize-public-administration",
+  "title": "Guinea Launches Nine Digital Projects to Modernize Public Administration",
+  "publisher": "We are Tech",
+  "published": "2026-05-18",
+  "sub_indicator": "core",
+  "why": "Inventory of IT systems for personnel management (Q5)"
+ },
+ {
+  "url": "https://fonctionpublique.gov.gn/le-premier-ministre-amadou-oury-bah-preside-la-ceremonie-de-lancement-officiel-du-fugas/",
+  "title": "Lancement officiel du FUGAS",
+  "publisher": "Ministère du Travail et de la Fonction Publique",
+  "published": "2025-11-27",
+  "sub_indicator": "core",
+  "why": "Payroll/HR file launched (Q3, Q4)"
+ },
+ {
+  "url": "https://dgb.gov.gn/execution-sur-sonoyah/",
+  "title": "Exécution sur Sonoyah",
+  "publisher": "Direction Générale du Budget",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "Budget execution on SONOYAH since Jan 2025 (Q2, Q4)"
+ },
+ {
+  "url": "https://dgi.gov.gn/2025/03/24/formation-des-directeurs-communaux-des-impots-de-conakry-sur-le-deploiement-de-loutil-safig2/",
+  "title": "Formation des directeurs communaux des impots de Conakry sur le deploiement de l'outil SAFIG2",
+  "publisher": "Direction Générale des Impôts",
+  "published": "2025-03-24",
+  "sub_indicator": "core",
+  "why": "Tax system SAFIG2 rollout (Q3, Q4)"
+ },
+ {
+  "url": "https://mbudget.gov.gn/2025/01/signature-des-conventions-entre-le-ministere-du-budget-et-les-banques-primaires-de-guinee/",
+  "title": "Signature des conventions entre le Ministère du Budget et les Banques primaires de Guinée",
+  "publisher": "Ministère du Budget",
+  "published": "2025-01",
+  "sub_indicator": "core",
+  "why": "Tax e-payment interface with banks (Q3)"
+ },
+ {
+  "url": "https://mbudget.gov.gn/2024/12/ceremonie-de-lancement-de-latelier-de-vulgarisation-de-la-chaine-dexecution-du-budget-des-services-deconcentres-sonoyah/",
+  "title": "Cérémonie de Lancement de l'atelier de vulgarisation de la Chaîne d'Exécution du Budget des Services Déconcentrés (SONOYAH)",
+  "publisher": "Ministère du Budget",
+  "published": "2024-12",
+  "sub_indicator": "core",
+  "why": "New budget execution chain (Q2, Q4)"
+ },
+ {
+  "url": "https://mediaguinee.com/wp-content/uploads/2023/10/CP_Atos-digitalise-les-finances-publiques-de-la-Republique-de-Guinee-1.pdf",
+  "title": "Atos digitalise les finances publiques de la République de Guinée",
+  "publisher": "Atos",
+  "published": "2023-10-24",
+  "sub_indicator": "core",
+  "why": "SCIE state accounting system live (Q2, Q4)"
+ },
+ {
+  "url": "https://www.mef.gov.gn/mef-tresor-public-loutil-digital-systeme-comptable-integre-de-letat-scie-presente-au-ministre-moussa-cisse-et-a-son-cabinet/",
+  "title": "Système Comptable Intégré de l'Etat (SCIE) présenté au Ministre",
+  "publisher": "Ministère de l'Economie et des Finances",
+  "published": "2023-08",
+  "sub_indicator": "core",
+  "why": "SCIE interfaced with SAFIG, SYDONIA (Q2, Q3)"
+ }
+]

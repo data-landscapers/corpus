@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://tradenet.mns.global/",
+  "title": "TradeNet",
+  "publisher": "Mauritius Network Services Ltd",
+  "published": "2026-10-01",
+  "sub_indicator": "customs",
+  "why": "Q3: TradeNet EDI network for customs declarations, update notice"
+ },
+ {
+  "url": "https://scp.wcoomd.org/study-mission-cloud-computing-hosted-mauritius-customs",
+  "title": "Study mission on cloud computing hosted by Mauritius Customs",
+  "publisher": "WCO Smart Customs Project",
+  "published": "2026-01-20",
+  "sub_indicator": "customs",
+  "why": "Q2/Q3: CMS hosted on private cloud"
+ },
+ {
+  "url": "https://www.untfsurvey.org/economy?id=MUS&year=2025",
+  "title": "Trade Facilitation and Paperless Trade in Mauritius",
+  "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+  "published": "2025",
+  "sub_indicator": "customs",
+  "why": "Q3/Q4/Q5: automated customs, e-single window, cross-border data exchange"
+ },
+ {
+  "url": "https://tradenetmns.mu/WEBVEHICLE/Index",
+  "title": "Customs Declarations By NTA and Registrar General",
+  "publisher": "Mauritius Network Services Ltd",
+  "published": "2025-04-07",
+  "sub_indicator": "customs",
+  "why": "Q3: release 1.9.3 of declaration system"
+ },
+ {
+  "url": "https://www.mns.mu/tradelink/",
+  "title": "Tradelink",
+  "publisher": "Mauritius Network Services Ltd",
+  "published": "",
+  "sub_indicator": "customs",
+  "why": "Q4: TradeLink single window with government agencies"
+ },
+ {
+  "url": "https://www.mra.mu/customs1/more-topics/services",
+  "title": "Services - Mauritius Revenue Authority",
+  "publisher": "Mauritius Revenue Authority",
+  "published": "",
+  "sub_indicator": "customs",
+  "why": "Q3: all declarations processed electronically via TradeNet"
+ },
+ {
+  "url": "https://edbmauritius.org/fr/doing-business-reforms",
+  "title": "Doing business reforms",
+  "publisher": "Economic Development Board Mauritius",
+  "published": "2022-12-26",
+  "sub_indicator": "customs",
+  "why": "Q2/Q4: Integrated Single Window in development (French)"
+ },
+ {
+  "url": "https://www.mra.mu/download/Communique071022.pdf",
+  "title": "Invitation for Bids: Consultancy for Integrated Single Window for Trade System",
+  "publisher": "Mauritius Revenue Authority",
+  "published": "2022-10-07",
+  "sub_indicator": "customs",
+  "why": "Q2/Q4: procurement of ISWT consultancy"
+ }
+]

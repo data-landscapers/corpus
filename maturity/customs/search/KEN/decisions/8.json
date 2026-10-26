@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "KRA announced scheduled maintenance of iCMS from 4 to 6 April 2026 and advised traders to pre-lodge declarations, showing iCMS is the live declaration and clearance system.",
+ "title": "Scheduled Maintenance for the Integrated Customs Management System (ICMS)",
+ "publisher": "Kenya Revenue Authority",
+ "published": "2026-03-24",
+ "date_source": "source",
+ "why_not": ""
+}

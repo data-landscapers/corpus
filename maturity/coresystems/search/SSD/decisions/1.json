@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll;renewed",
+ "fact": "On 19 May 2025 the Ministry of Finance and Planning directed all public employees to open bank accounts by 27 May 2025, as a step to an HRMIS with biometrically integrated payroll.",
+ "title": "Civil servants ordered to open salary accounts amid cash crisis",
+ "publisher": "Sudans Post",
+ "published": "2025-05-23",
+ "date_source": "proxy",
+ "why_not": ""
+}

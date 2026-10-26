@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "On 22 July 2025 the Finance Ministry installed project heads for the SIGFIP public finance system and the SIPAE state payroll system within its information systems directorate.",
+ "title": "Direction des systèmes d'information (DSI) du Ministère des Finances",
+ "publisher": "Ministère des Finances, du Budget et du Portefeuille Public",
+ "published": "2025-07-22",
+ "date_source": "source",
+ "why_not": ""
+}

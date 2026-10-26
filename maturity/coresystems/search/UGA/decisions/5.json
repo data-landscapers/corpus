@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll;renewed",
+ "fact": "The REAP strategy sets replacement of the payroll and pension application with a fully automated HCM system rolled out to MDALGs and integrated with IFMS, PBS, NSIS and EDMS, and upgrade of IFMS databases and applications.",
+ "title": "Accountability Systems and Compliance",
+ "publisher": "Resource Enhancement and Accountability Programme, Ministry of Finance, Planning and Economic Development",
+ "published": "2024-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

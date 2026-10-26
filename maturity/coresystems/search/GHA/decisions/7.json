@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed;payroll",
+ "fact": "iTAPS has been replaced by the Ghana Integrated Tax Management Information System (GITMIS) for tax administration and returns, GRA is developing a new tax administration system (iTax) to be functional from the 2025 fiscal year, and an HRMIS-GIFMIS-payroll integration is a reform commitment.",
+ "title": "Ghana Reform Matrix 2024",
+ "publisher": "World Bank",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

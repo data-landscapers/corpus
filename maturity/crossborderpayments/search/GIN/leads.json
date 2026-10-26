@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://africanenda.org/guinea-launches-nimbapay-opening-a-new-era-of-instant-and-inclusive-digital-payments",
+  "title": "Guinea launches NimbaPay, opening a new era of instant and inclusive digital payments",
+  "publisher": "AfricaNenda Foundation",
+  "published": "2026-07-22",
+  "sub_indicator": "crossborder",
+  "why": "Cross-border payments planned in later phases (Q2)"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/2807-57779-guinea-launches-nimbapay-its-national-instant-payment-system",
+  "title": "Guinea Launches NimbaPay, Its National Instant Payment System",
+  "publisher": "Ecofin Agency",
+  "published": "2026-07-28",
+  "sub_indicator": "crossborder",
+  "why": "May connect to PAPSS/ECOWAS (Q2, Q4)"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-finances/2112-51590-guinea-readies-instant-payment-system-to-speed-transactions-and-cut-cash-use",
+  "title": "Guinea readies instant payment system to speed transactions and cut cash use",
+  "publisher": "Ecofin Agency",
+  "published": "2025-12-21",
+  "sub_indicator": "crossborder",
+  "why": "Planned PAPSS integration (Q2)"
+ },
+ {
+  "url": "https://www.bcrg-guinee.org/projets-de-reformes-en-cours-a-travers-la-dsmp/",
+  "title": "Projets de réformes en cours à travers la DSMP",
+  "publisher": "BCRG",
+  "published": "2025",
+  "sub_indicator": "crossborder",
+  "why": "PAPSS participation, no transaction recorded (Q4, Q5)"
+ },
+ {
+  "url": "https://www.guinee360.com/10/09/2024/uba-guinee-adopte-le-papss-une-nouvelle-ere-pour-les-transactions-financieres-en-afrique-2/",
+  "title": "UBA Guinée adopte le PAPSS",
+  "publisher": "Guinee360",
+  "published": "2024-09-10",
+  "sub_indicator": "crossborder",
+  "why": "Bank live on PAPSS (Q4)"
+ },
+ {
+  "url": "https://fr.linkedin.com/posts/mohamed-lamine-conte-94554a7a_le-19-septembre-2024-jai-eu-lhonneur-de-activity-7242929425858576386-qWm0",
+  "title": "BCRG at 10th PAPSS Governance Committee",
+  "publisher": "Mohamed Lamine Conté (BCRG)",
+  "published": "2024-09-20",
+  "sub_indicator": "crossborder",
+  "why": "BCRG and banks adhered, no transaction (Q4)"
+ },
+ {
+  "url": "https://papss.com/send-receive-money/",
+  "title": "Fast and affordable money transfer across Africa in local currency",
+  "publisher": "PAPSS",
+  "published": "2024-02-07",
+  "sub_indicator": "crossborder",
+  "why": "Guinean banks listed as available (Q4)"
+ },
+ {
+  "url": "https://guineematin.com/2022/12/12/guinee-lancement-du-transfert-international-dargent-entre-orange-finances-mobiles-guinee-et-bnb-transfert-corp/",
+  "title": "Lancement du transfert international d'argent entre Orange Finances Mobiles Guinée et BNB Transfert Corp",
+  "publisher": "Guineematin.com",
+  "published": "2022-12-12",
+  "sub_indicator": "crossborder",
+  "why": "Orange Money outbound corridors to six countries (Q3)"
+ }
+]

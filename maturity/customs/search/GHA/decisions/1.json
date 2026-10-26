@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "The 2025 UN Global Survey scores Ghana 100% on Paperless Trade (automated customs system, e-single window and e-submission of declarations fully implemented) and 61.11% on Cross-Border Paperless Trade, with electronic exchange of customs declarations not implemented.",
+ "title": "Trade Facilitation and Paperless Trade in Ghana",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

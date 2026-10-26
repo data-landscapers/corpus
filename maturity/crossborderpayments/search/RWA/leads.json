@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.bis.org/speeches/20260313-signing-mou-between-central-bank-kenya-and-national-bank-rwanda",
+  "title": "Signing of MOU between Central Bank of Kenya and National Bank of Rwanda",
+  "publisher": "Bank for International Settlements",
+  "published": "2026-03-13",
+  "sub_indicator": "crossborder",
+  "why": "Q2/Q4: licence passporting, EAC masterplan"
+ },
+ {
+  "url": "https://tanzaniatimes.net/tanzania-and-rwanda-interlink-their-cross-border-payment-systems/",
+  "title": "Tanzania and Rwanda interlink their cross border payment systems",
+  "publisher": "Tanzania Times",
+  "published": "2026-07-10",
+  "sub_indicator": "crossborder",
+  "why": "Q2: Rwanda-Tanzania interlinking"
+ },
+ {
+  "url": "https://bnr.rw/documents/Licensed_Institutions_-_November_2025_96EyafM.pdf",
+  "title": "Licensed Institutions, November 2025",
+  "publisher": "National Bank of Rwanda",
+  "published": "2025-11",
+  "sub_indicator": "crossborder",
+  "why": "Q3: licensed remittance providers"
+ },
+ {
+  "url": "https://papss.com/media/kcb-group-and-bank-of-kigali-launch-papss-enabling-seamless-and-affordable-cross-border-payments-across-africa/",
+  "title": "KCB Group and Bank of Kigali launch PAPSS",
+  "publisher": "PAPSS",
+  "published": "2025-03-06",
+  "sub_indicator": "crossborder",
+  "why": "Q4: PAPSS in service in Rwanda"
+ },
+ {
+  "url": "https://www.bog.gov.gh/wp-content/uploads/2025/02/PRESS-RELEASE-GHANA-AND-RWANDA-SIGN-A-MEMORANDUM-OF-UNDERSTANDING-MOU.pdf",
+  "title": "Ghana and Rwanda sign a MoU on licence passporting and cross-border payment interoperability",
+  "publisher": "Bank of Ghana",
+  "published": "2025-02-26",
+  "sub_indicator": "crossborder",
+  "why": "Q2: corridor MoU"
+ },
+ {
+  "url": "https://www.bnr.rw/paymentsystem",
+  "title": "Payment System (EAC Cross-Border Payment System Masterplan)",
+  "publisher": "National Bank of Rwanda",
+  "published": "2025-07-25",
+  "sub_indicator": "crossborder",
+  "why": "Q4: EAC regional payment masterplan"
+ },
+ {
+  "url": "https://www.bnr.rw/documents/Annual_Report_2023_2024_Engl_Full_Web-1.pdf",
+  "title": "NBR Annual Report 2023-2024",
+  "publisher": "National Bank of Rwanda",
+  "published": "2024",
+  "sub_indicator": "crossborder",
+  "why": "Q1-Q5: eKash, payment system status"
+ },
+ {
+  "url": "https://www.bnr.rw/documents/Regulation_on_Money_remittance_services_2023.pdf",
+  "title": "Regulation on Money Remittance Services 2023",
+  "publisher": "National Bank of Rwanda",
+  "published": "2023-04-25",
+  "sub_indicator": "crossborder",
+  "why": "Q2: international remittance rules"
+ }
+]

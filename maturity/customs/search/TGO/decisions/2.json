@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;exchange",
+ "fact": "In 2024 OTR loaded AfCFTA tariff concessions on the SYDONIA test server and continued the SYDONIA-UPU ASYHUB interface and a new SYDONIA infrastructure.",
+ "title": "Rapport de performance 2024",
+ "publisher": "Office Togolais des Recettes",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

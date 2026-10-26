@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional;reported",
+ "fact": "The Bank of Sierra Leone's Instant Payment System, linking seven banks and two mobile money operators, had processed about 600,000 transactions by late 2025, but the article gives domestic figures only and no cross-border payment figure.",
+ "title": "Sierra Leone pushes cash-lite economy as digital payments surge",
+ "publisher": "Africa Business Insight",
+ "published": "2026-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

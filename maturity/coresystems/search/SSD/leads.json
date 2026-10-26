@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.sudanspost.com/civil-servants-ordered-to-open-bank-accounts-amid-cash-crisis/",
+  "title": "Civil servants ordered to open salary accounts amid cash crisis",
+  "publisher": "Sudans Post",
+  "published": "2025-05-23",
+  "sub_indicator": "core",
+  "why": "Payroll moving to bank payment ahead of HRMIS and biometric payroll"
+ },
+ {
+  "url": "https://www.freebalance.com/en/press-release/south-sudan-to-expand-ifmis-and-introduce-biometricically-integrated-payroll-with-freebalance/",
+  "title": "FreeBalance Supports South Sudan to Expand IFMIS & Add Biometric Integrated Payroll",
+  "publisher": "FreeBalance",
+  "published": "2025-02-11",
+  "sub_indicator": "core",
+  "why": "IFMIS expansion contract signed 4 Feb 2025; budget/payroll on system"
+ },
+ {
+  "url": "https://mictps.gov.ss/president-kiir-orders-digitization-of-all-government-institutions/",
+  "title": "President Kiir orders digitization of all government institutions",
+  "publisher": "Ministry of ICT and Postal Services",
+  "published": "2025-12-18",
+  "sub_indicator": "core",
+  "why": "Government-wide digitization order; systems status"
+ },
+ {
+  "url": "https://www.eyeradio.org/government-to-digitize-payroll-system-in-2025/",
+  "title": "Government to digitize payroll system in 2025",
+  "publisher": "Eye Radio",
+  "published": "2024-11-11",
+  "sub_indicator": "core",
+  "why": "Payroll digitization plan"
+ },
+ {
+  "url": "https://www.eyeradio.org/finance-ministry-dubai-based-company-sign-agreement-to-install-data-system/",
+  "title": "Finance Ministry, Dubai-based company sign agreement to install data system",
+  "publisher": "Eye Radio",
+  "published": "2024-03-23",
+  "sub_indicator": "core",
+  "why": "IFMIS installation contract; budgeting and payments automation"
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024003.pdf",
+  "title": "South Sudan: Strengthening Budget Execution; High-Level Summary TA Report",
+  "publisher": "IMF",
+  "published": "2023-07",
+  "sub_indicator": "core",
+  "why": "IFMIS use and paper-based payment process"
+ },
+ {
+  "url": "https://mictps.gov.ss/projects/",
+  "title": "Projects",
+  "publisher": "Ministry of ICT and Postal Services",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "Government Enterprise Architecture tender"
+ },
+ {
+  "url": "https://comms.southsudanngoforum.org/uploads/short-url/2eDdZkAYTwF4YAZkYofJQKuUKjn.pdf",
+  "title": "SSRA Terms of Reference for Development of the NRA ICT Strategy and Policy Framework",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "State of tax systems e-Tax, DTIS, IFMIS"
+ }
+]

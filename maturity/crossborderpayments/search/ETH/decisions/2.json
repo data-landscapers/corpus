@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional;corridor",
+ "fact": "PAPSS's June 2026 coverage sheet lists Ethiopian banks and fintechs as reachable for incoming payments through its extended network, not among live send-and-receive participant countries.",
+ "title": "Payments Network Coverage, June 2026",
+ "publisher": "PAPSS",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

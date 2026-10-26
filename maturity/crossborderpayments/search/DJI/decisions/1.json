@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "regional",
+ "fact": "PAPSS's June 2026 coverage list names Djibouti among the countries with live send-and-receive participants.",
+ "title": "Payments Network Coverage",
+ "publisher": "PAPSS",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "crossborder"
+}

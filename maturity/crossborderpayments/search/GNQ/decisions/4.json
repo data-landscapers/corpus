@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor;reported",
+ "fact": "Equatorial Guinea has been reachable over GIMACPAY from Cameroon since July 2020 and from Gabon since May 2021; Muni Dinero sends across CEMAC; BEAC 2024: 50,224 mobile money accounts, 1,161,209 transactions worth 10.94 billion FCFA.",
+ "title": "CEMAC Interop (Equatorial Guinea)",
+ "publisher": "Barcoder",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

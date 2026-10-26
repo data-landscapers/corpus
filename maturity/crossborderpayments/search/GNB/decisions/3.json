@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "crossborder",
+ "aspect": "",
+ "fact": "",
+ "title": "Balance des Paiements et Position Extérieure Globale 2024 - Guinée-Bissau",
+ "publisher": "BCEAO",
+ "published": "2026-09",
+ "date_source": "source",
+ "why_not": "Gives worker remittance totals by origin country, not digital cross-border payment channels or volumes."
+}

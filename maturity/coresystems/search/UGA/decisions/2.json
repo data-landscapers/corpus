@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll;revenue;renewed",
+ "fact": "The PFM Reforms Strategy of May 2025 states that government PFM systems (IFMS, e-GP, HCM payroll control) automate financial transactions and lists IFMS and IPPS upgrades and e-Tax among its reform actions for July 2025 to June 2030.",
+ "title": "Government of Uganda PFM Reforms Strategy July 2025 - June 2030",
+ "publisher": "Ministry of Finance, Planning and Economic Development",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

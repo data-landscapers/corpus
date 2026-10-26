@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll",
+ "fact": "The President's Office states HCMIS is the public service human resource and payroll system and that the former Lawson system no longer exists (statement of 1 January 2024).",
+ "title": "Govt trashes misleading report over HCMIS",
+ "publisher": "Daily News",
+ "published": "2024-01-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

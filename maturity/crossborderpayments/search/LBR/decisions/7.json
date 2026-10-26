@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional",
+ "fact": "The Central Bank of Liberia is the settlement agent of PAPSS in Liberia, enabling local-currency payments to Ghana, Guinea, The Gambia, Sierra Leone and Nigeria.",
+ "title": "PAPSS: Pan-African Payment and Settlement System Promotes Cross-Border Trade",
+ "publisher": "Central Bank of Liberia",
+ "published": "2024-09-13",
+ "date_source": "proxy",
+ "why_not": ""
+}

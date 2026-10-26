@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "system;exchange",
+ "fact": "In February 2020 The Post reported the upgraded ASYCUDA operational at Lesotho's five commercial borders and the airport, with a backup system, and a current phase connecting the customs systems of LRA and SARS.",
+ "title": "Making cross-border trade easier",
+ "publisher": "The Post (Lesotho)",
+ "published": "2020-02-18",
+ "sub_indicator": "customs",
+ "why_not": "",
+ "date_source": "source"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The Ministry of Finance's May 2024 PFM strategy states that SAP-based IFMIS is rolled out at central level, PMEC payroll runs on SAP, and 4 of 62 spending agencies are not yet fully connected.",
+ "title": "Integrated Public Financial Management (PFM) Reform Strategy 2024-2027",
+ "publisher": "Ministry of Finance and National Planning, Republic of Zambia",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

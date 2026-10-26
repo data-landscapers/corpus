@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll",
+ "fact": "PSC says GovPay e-payslips are 100 percent complete while the payroll and pensions ecosystem is yet to be completed.",
+ "title": "GovPay links salaries, pensions systems",
+ "publisher": "The Herald",
+ "published": "2026-08-31",
+ "date_source": "source",
+ "why_not": ""
+}

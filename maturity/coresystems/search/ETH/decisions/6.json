@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue",
+ "fact": "The Ministry of Revenues announced a massive expansion of its e-tax system for payments, filing and audit findings across tax bureaus in January 2024.",
+ "title": "Ministry Embarks on E-tax Services",
+ "publisher": "Addis Fortune",
+ "published": "2024-01-16",
+ "date_source": "source",
+ "why_not": ""
+}

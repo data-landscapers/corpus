@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The 2026 budget execution rules require budget units to submit financial needs, expenditure liquidation documents and monthly salary processing through SIGFE, with salaries paid to a calendar published in SIGFE.",
+ "title": "Decreto Presidencial n.º 74/26 - Regras de Execução do Orçamento Geral do Estado para o Exercício Económico de 2026",
+ "publisher": "Presidente da República de Angola",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

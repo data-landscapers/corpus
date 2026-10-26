@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported",
+ "fact": "The GSMA 2024 survey puts the cost of a $200 cross-border mobile money remittance to Mali at 1.5% of the sending value, the second lowest corridor price in the survey.",
+ "title": "Cross-Border Mobile Money Remittance Cost Survey: Key Trends and Insights",
+ "publisher": "GSMA",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll;finance",
+ "fact": "The Auditor General's thematic report of December 2023 found that the HCM system was scoped to 248 of 359 votes (January 2023) and its integration with IFMS was incomplete, and that the PBS was upgraded and interfaced with IFMS.",
+ "title": "The Government of Uganda Public Financial Management System: Thematic Report",
+ "publisher": "Office of the Auditor General of Uganda",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

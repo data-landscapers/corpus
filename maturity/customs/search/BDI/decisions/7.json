@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "exchange",
+ "fact": "An OBR-TRA technical meeting in Bujumbura on 22 September 2026 discussed interfacing the two countries' electronic cargo tracking systems; Burundi's system, begun in 2014, tracks goods only from its borders and Tanzanian declaration data reaches Burundi via TECTS and RECTS.",
+ "title": "L'interfaçage des Systèmes de Suivi Electronique des Cargos pour la sécurité et la sûreté des Biens ou des Marchandises",
+ "publisher": "Office Burundais des Recettes",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

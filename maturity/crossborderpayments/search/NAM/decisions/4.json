@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor;reported",
+ "fact": "TCIB has processed 822,687 transactions worth R3.5 billion since 2021 across active corridors linking South Africa, Namibia, Zambia, Zimbabwe, Eswatini and Lesotho (all-corridor total, not Namibia-specific).",
+ "title": "Driving economic growth and advancing financial inclusion through cross-border payments",
+ "publisher": "MyBroadband (PayInc)",
+ "published": "2025-10-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

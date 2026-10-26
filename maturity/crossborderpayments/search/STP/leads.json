@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://papss.com/media/beac-joins-papss-connecting-payments-between-cemac-and-the-rest-of-africa/",
+  "title": "BEAC Joins PAPSS, Connecting Payments between CEMAC and the Rest of Africa",
+  "publisher": "PAPSS",
+  "published": "2026-07-08",
+  "sub_indicator": "crossborder",
+  "why": "Q4: regional system membership (STP not CEMAC member; checks absence)"
+ },
+ {
+  "url": "https://www.afdb.org/en/documents/sao-tome-and-principe-payments-system-infrastructure-and-financial-inclusion-project-ipr-aril-2026",
+  "title": "Payments System Infrastructure and Financial Inclusion Project - IPR April 2026",
+  "publisher": "African Development Bank",
+  "published": "2026-06-09",
+  "sub_indicator": "crossborder",
+  "why": "Q2: payment system modernisation"
+ },
+ {
+  "url": "https://bcstp.st/Upload/New_DOC/SP/RELAT%C3%93RIO_SISTEMA_DE_PAGAMENTOS_2025.pdf",
+  "title": "Relatório do Sistema de Pagamentos 2025",
+  "publisher": "Banco Central de São Tomé e Príncipe",
+  "published": "2026",
+  "sub_indicator": "crossborder",
+  "why": "Q5: payment statistics, digital wallets"
+ },
+ {
+  "url": "https://www.afdb.org/en/documents/spn-sao-tome-and-principe-automated-transfer-system-ats-and-related-linkages-sao-tome-and-principe-pispif",
+  "title": "Automated Transfer System (ATS+) and related linkages - PISPIF",
+  "publisher": "African Development Bank",
+  "published": "2025-07-18",
+  "sub_indicator": "crossborder",
+  "why": "Q2: ATS+ procurement"
+ },
+ {
+  "url": "https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Policy-Diagnostic-Sao-Tome-April2025.pdf",
+  "title": "Policy Diagnostic: São Tomé and Príncipe (ECCAS remittance harmonization)",
+  "publisher": "UNCDF Migrant Money",
+  "published": "2025-05",
+  "sub_indicator": "crossborder",
+  "why": "Q1/Q3/Q5: no mobile money, remittance channels and cost"
+ },
+ {
+  "url": "https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Payment-Infrastructure-Assessment-SaoTome-April2025.pdf",
+  "title": "Payment Infrastructure Assessment: São Tomé and Príncipe",
+  "publisher": "UNCDF Migrant Money",
+  "published": "2025-05",
+  "sub_indicator": "crossborder",
+  "why": "Q1/Q4: payment infrastructure, PAPSS not joined"
+ },
+ {
+  "url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/461d5021-03d3-4a1e-9e14-1e481b52570a/content",
+  "title": "Migration and Remittance Dynamics in São Tomé and Príncipe",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "crossborder",
+  "why": "Q1/Q5: remittance options limited, mobile money nonexistent"
+ },
+ {
+  "url": "https://www.afi-global.org/wp-content/uploads/2024/10/National-Financial-Inclusion-Strategy-STP1.pdf",
+  "title": "National Financial Inclusion Strategy",
+  "publisher": "Banco Central de São Tomé e Príncipe / AFI",
+  "published": "2024",
+  "sub_indicator": "crossborder",
+  "why": "Q2/Q5: remittance flows and DFS"
+ }
+]

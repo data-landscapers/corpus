@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://360mozambique.com/economy/finance/state-to-use-technology-to-bring-greater-transparency-to-public-spending/",
+  "title": "Government to Make Public Spending More Transparent Through Technology",
+  "publisher": "360 Mozambique",
+  "published": "2024-12-10",
+  "sub_indicator": "core",
+  "why": "New e-SISTAFE internal audit module piloted from 2025 (new system going live)"
+ },
+ {
+  "url": "https://www.diarioeconomico.co.mz/2024/11/26/economia/mef-modernizacao-da-gestao-das-financas-publicas-e-o-maior-desafio-do-e-sistafe/",
+  "title": "MEF: Modernização da Gestão Das Finanças Públicas é o Maior Desafio do e-SISTAFE",
+  "publisher": "Diário Económico",
+  "published": "2024-11-26",
+  "sub_indicator": "core",
+  "why": "e-SISTAFE has 11 modules, 10 operational; government budgets, accounts, pays through it"
+ },
+ {
+  "url": "https://www.mef.gov.mz/index.php/imprensa/noticias/847-amilcar-tivane-nas-celebracoes-dos-20-anos-do-e-sistafe",
+  "title": "Amílcar Tivane nas Celebrações dos 20 anos do e-SISTAFE",
+  "publisher": "Ministério da Economia e Finanças",
+  "published": "2024-11-26",
+  "sub_indicator": "core",
+  "why": "e-SISTAFE covers planning to payment of expenditure"
+ },
+ {
+  "url": "https://intic.gov.mz/decorre-a-fase-final-da-revisao-do-regulamento-do-quadro-de-interoperabilidade-de-sistemas-de-governo-digital-em-mocambique/",
+  "title": "Decorre a fase final da revisão do regulamento do Quadro de Interoperabilidade",
+  "publisher": "INTIC",
+  "published": "2026-06-11",
+  "sub_indicator": "core",
+  "why": "Interoperability framework eGIF4M2; architecture / systems fragmentation"
+ },
+ {
+  "url": "https://moztimes.com/autoridade-tributaria-confirma-gasto-de-mais-de-70-milhoes-de-meticais-em-sistema-inoperacional/",
+  "title": "Autoridade Tributária Confirma Gasto de Mais de 70 Milhões de Meticais em Sistema Inoperacional",
+  "publisher": "MozTimes",
+  "published": "2025-07-08",
+  "sub_indicator": "core",
+  "why": "Tax authority SGMF abandoned for e-invoicing system (tax system change)"
+ },
+ {
+  "url": "https://www.cedsif.gov.mz/cedsifportal/cedsif-apresenta-melhorias-no-e-sistafe-autarquico/",
+  "title": "Digitalização do Plano Económico Social e Orçamento do Estado 2022",
+  "publisher": "CEDSIF",
+  "published": "2021",
+  "sub_indicator": "core",
+  "why": "New budget planning module MPO replaces MEO in e-SISTAFE"
+ },
+ {
+  "url": "https://www.menosfios.com/mocambique-pagamentos-digitais-ja-cobre-92-das-instituicoes-do-governo/",
+  "title": "Moçambique. Pagamentos digitais já cobre 92% das instituições do Governo",
+  "publisher": "Menos Fios",
+  "published": "2022-06-13",
+  "sub_indicator": "core",
+  "why": "99.72% of state staff paid via e-SISTAFE bank transfers; payroll coverage"
+ },
+ {
+  "url": "https://www.cedsif.gov.mz/cedsifportal/17-anos-do-e-sistafe/",
+  "title": "17 anos do e-SISTAFE",
+  "publisher": "CEDSIF",
+  "published": "2021",
+  "sub_indicator": "core",
+  "why": "e-SISTAFE in all 154 districts; 2,117 of 2,303 bodies"
+ }
+]

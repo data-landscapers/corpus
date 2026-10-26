@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "The 2025 UN survey rates Sierra Leone's automated customs system, e-submission of customs declarations and e-single window as partially implemented, and electronic exchange of customs declarations as planning stage.",
+ "title": "Trade Facilitation and Paperless Trade in Sierra Leone (2025)",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional",
+ "fact": "Zimbabwe signed the PAPSS agreement in March 2022, per the RBZ governor.",
+ "title": "Zim joins local currency payment platform",
+ "publisher": "Business Times",
+ "published": "2023-02-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

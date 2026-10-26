@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "Eritrea launched its IFMIS with automated workflows for budget execution, procurement and payroll, funded by the African Development Bank (30 November 2023).",
+ "title": "Eritrea Launches Integrated Financial Management Information System Project",
+ "publisher": "PFM Smart Systems",
+ "published": "2023-11-30",
+ "date_source": "source",
+ "why_not": ""
+}

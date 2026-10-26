@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "In a WTO notification of 21 May 2026 Angola reports that its customs declarations system is ASYCUDA World and that the new ASY5 system, with an integrated risk management component, is expected to be fully implemented by 2027.",
+ "title": "TFAD - Angola, Article 7.4 Risk management",
+ "publisher": "World Trade Organization, Trade Facilitation Agreement Database",
+ "published": "2026-05-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

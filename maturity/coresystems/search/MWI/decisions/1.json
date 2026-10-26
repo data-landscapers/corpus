@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "In May 2024 the Accountant General said the SAP-based Ifmis, rolled out to all MDAs a year earlier, was fully stabilised and producing user reports and annual financial statements, though contract management and revenue modules did not cover all MDAs.",
+ "title": "Ifmis has fully stabilised,says Accountant General",
+ "publisher": "Nation Online",
+ "published": "2024-05-31",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "system",
+ "fact": "Revenue Services Lesotho's leaflet states customs procedures are automated at all commercial ports of entry (Maseru Bridge, Maputsoe Bridge, Caledonspoort, Van Rooyen's Gate, Qacha's Nek and Moshoeshoe I International Airport), with declarations captured by clearing agents and a Proceed to Border notice issued.",
+ "title": "Declare, Pay and Proceed to Border",
+ "publisher": "Revenue Services Lesotho (Lesotho Revenue Authority)",
+ "published": "2024-05",
+ "date_source": "proxy",
+ "sub_indicator": "customs",
+ "why_not": ""
+}

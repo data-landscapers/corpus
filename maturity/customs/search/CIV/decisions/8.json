@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "exchange",
+ "fact": "Since February 2019 Burkina Faso customs receives transit data electronically in real time from Côte d'Ivoire customs through SIGMAT, which went live between them in April 2019.",
+ "title": "The SIGMAT System: The ASYCUDA Journey in West Africa",
+ "publisher": "UNCTAD",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

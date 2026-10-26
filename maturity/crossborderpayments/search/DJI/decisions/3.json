@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "regional;corridor",
+ "fact": "The BCD's 2023 annual report says the BCD prepared to integrate its system into COMESA REPSS and Afreximbank PAPSS, with working sessions held, and that a national payment switch is planned for 2024-2025.",
+ "title": "Rapport Annuel 2023",
+ "publisher": "Banque Centrale de Djibouti",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "crossborder"
+}

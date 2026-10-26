@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "SRC reports that the registration, filing, payment and accounting modules of its new Tax Management System went live in 2023, with ASYCUDA World excise bonded warehouse, e-manifest and express courier modules also operational.",
+ "title": "2023 Annual Report",
+ "publisher": "Seychelles Revenue Commission",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

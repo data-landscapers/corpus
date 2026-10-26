@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "regional",
+ "fact": "The July 2024 CMA position paper directs banks in Eswatini, Lesotho, Namibia and South Africa to stop routing low-value cross-border EFTs through SADC-RTGS by 31 March 2027 and to use a retail scheme such as TCIB from 1 April 2027.",
+ "title": "Position paper on the processing of cross-border low-value electronic fund transfers within the Common Monetary Area",
+ "publisher": "Cross-border Payments Oversight Committee, Common Monetary Area (published by Central Bank of Eswatini)",
+ "published": "2024-07",
+ "sub_indicator": "crossborder",
+ "why_not": "",
+ "date_source": "source"
+}

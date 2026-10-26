@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor;regional",
+ "fact": "Instant international inbound remittances over Egypt's Instant Payment Network launched in December 2024, letting senders abroad credit recipients' accounts or wallets in EGP; bilateral links with Jordan, Saudi Arabia and the UAE are planned.",
+ "title": "IPN Egypt",
+ "publisher": "AfricaNenda",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

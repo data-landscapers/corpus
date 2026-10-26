@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "exchange",
+ "fact": "ECOWAS reports that in July 2024 Burkina Faso, with Côte d'Ivoire, Togo, Benin, Ghana, Mali and Niger, was connected to SIGMAT for electronic exchange of transit data between customs administrations.",
+ "title": "For Better Knowledge And Understanding Of The Interconnected System For The Management Of Goods In Transit (SIGMAT)",
+ "publisher": "Economic Community of West African States (ECOWAS)",
+ "published": "2024-11-22",
+ "date_source": "source",
+ "why_not": ""
+}

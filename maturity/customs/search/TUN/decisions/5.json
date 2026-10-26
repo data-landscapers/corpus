@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "system;window",
+ "fact": "The 2025 UN Global Survey records e-submission of customs declarations as fully implemented in Tunisia and the automated customs system and e-single window as partially implemented.",
+ "title": "Trade Facilitation and Paperless Trade in Tunisia, UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "publisher": "UN Regional Commissions",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "customs"
+}

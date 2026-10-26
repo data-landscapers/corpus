@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor",
+ "fact": "The 2024 financial inclusion report states that Bank Al-Maghrib will run a study with IFAD on the barriers to digital remittance services (transferts de fonds digitaux) and reports 13.7 million M-wallets at end 2024.",
+ "title": "Rapport annuel sur l'inclusion financière, exercice 2024",
+ "publisher": "Bank Al-Maghrib",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

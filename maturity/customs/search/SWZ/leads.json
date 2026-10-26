@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.wcoomd.org/en/media/newsroom/2025/november/landmark-milestone-as-eswatini-advances-border-efficiency-through-coordinated-border-management.aspx",
+  "title": "Landmark milestone as Eswatini advances border efficiency through coordinated border management",
+  "publisher": "World Customs Organization",
+  "published": "2025-11-11",
+  "sub_indicator": "customs",
+  "why": "Border agency coordination (q4)"
+ },
+ {
+  "url": "https://www.eswatiniobserver.com/eswatini-pushes-for-full-implementation-of-wto-trade-facilitation-agreement/",
+  "title": "Eswatini pushes for full implementation of WTO Trade Facilitation Agreement",
+  "publisher": "Eswatini Observer",
+  "published": "2025-08-06",
+  "sub_indicator": "customs",
+  "why": "Single window under development (q4)"
+ },
+ {
+  "url": "https://www.untfsurvey.org/economy?id=SWZ&year=2025",
+  "title": "Trade Facilitation and Paperless Trade in Eswatini",
+  "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+  "published": "2025",
+  "sub_indicator": "customs",
+  "why": "Automated customs, no e-single window (q3,q4)"
+ },
+ {
+  "url": "https://storage.unitedwebnetwork.com/files/1223/2d6dba669eee8645059d5cb734d75d90.pdf",
+  "title": "Eswatini Revenue Service: Implementing the e-CO (SADC & COMESA)",
+  "publisher": "Eswatini Revenue Service",
+  "published": "2025-02-03",
+  "sub_indicator": "customs",
+  "why": "Electronic exchange of declarations with SARS (q5)"
+ },
+ {
+  "url": "https://www.wcoomd.org/en/media/newsroom/2024/october/wco-workshop-empowers-eswatini-revenue-service-to-advance-customs-risk-management.aspx",
+  "title": "WCO workshop empowers Eswatini Revenue Service to advance customs risk management",
+  "publisher": "World Customs Organization",
+  "published": "2024-10-18",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA World 2025 upgrade (q2,q3)"
+ },
+ {
+  "url": "https://www.sars.gov.za/media-release/findings-and-recommendations-of-the-time-release-study-conducted-at-the-oshoek-port-of-entry-between-south-africa-and-eswatini/",
+  "title": "Findings of Time Release Study at Oshoek port of entry",
+  "publisher": "South African Revenue Service",
+  "published": "2024-05-20",
+  "sub_indicator": "customs",
+  "why": "Declarations lodged electronically at main border (q3)"
+ },
+ {
+  "url": "https://www.insidebiz.co.sz/eswatini-revenue-service-commemorates-international-customs-day-2024/",
+  "title": "Eswatini Revenue Service Commemorates International Customs Day 2024",
+  "publisher": "Inside Biz",
+  "published": "2024-01-26",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA World upgrade (q2)"
+ },
+ {
+  "url": "https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?Open=True&filename=q%3A%2FG%2FTFA%2FNSWZ5R1.pdf",
+  "title": "G/TFA/N/SWZ/5/Rev.1 Notification of category C technical assistance",
+  "publisher": "WTO / Eswatini",
+  "published": "2023-10-12",
+  "sub_indicator": "customs",
+  "why": "Single window blueprint, SARS data exchange (q4,q5)"
+ }
+]

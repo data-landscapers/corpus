@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "renewed;revenue",
+ "fact": "ZIMRA's SAP S/4HANA upgrade went live, per the vendor's post of 13 July 2026 and ZIMRA's reply.",
+ "title": "ZIMRA's SAP S/4HANA Upgrade is officially active",
+ "publisher": "Tano Digital Solutions Group (LinkedIn)",
+ "published": "2026-07-13",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll",
+ "fact": "The Ministry of Finance announced the government Payroll Deduction Management System would shut down on 30 November 2025, with statutory deductions (PAYE, pension, social security) unaffected.",
+ "title": "Finance ministry to end payroll deduction system for civil servants",
+ "publisher": "The Brief",
+ "published": "2025-09-08",
+ "date_source": "source",
+ "why_not": ""
+}

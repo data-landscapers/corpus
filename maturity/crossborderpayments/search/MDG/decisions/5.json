@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported",
+ "fact": "Remittances to Madagascar fell to USD 417.7 million net in 2023, 2.6% of GDP, and the central bank notes no stated policy to promote remittances exists, suggesting mobile money facilitation.",
+ "title": "L'Économie, pour en savoir plus : Envois de fonds",
+ "publisher": "Banky Foiben'i Madagasikara",
+ "published": "2024-08",
+ "date_source": "source",
+ "why_not": ""
+}

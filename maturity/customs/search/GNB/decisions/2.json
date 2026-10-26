@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "From 1 May 2026 the customs value control module ASYVal is in force in the SydoniaWorld environment, after April 2026 training of customs staff and declarants.",
+ "title": "Ordem de Serviço GDGA 10/26 - Módulo ASYVal de Controlo do Valor Aduaneiro no SW",
+ "publisher": "Direção-Geral das Alfândegas",
+ "published": "2026-04-30",
+ "date_source": "source",
+ "why_not": ""
+}

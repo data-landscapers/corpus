@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "In the 2025 UN survey Mali reports an automated customs system as fully implemented, electronic exchange of customs declarations as partially implemented, and e-single window and e-submission of customs declarations as not implemented.",
+ "title": "Trade Facilitation and Paperless Trade in Mali",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

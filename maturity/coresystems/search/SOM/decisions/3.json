@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll;renewed",
+ "fact": "The REOI states SFMIS, launched April 2015, is used by 350+ officials in 61 of 70 budget entities for budget execution, accounting and reporting, and the FMIS is used for government staff payroll and automated banking instructions; an enhancement and roll-out to the FMSs is sought.",
+ "title": "REOI for SFMIS Enhancement and Roll out to Federal Member States",
+ "publisher": "Federal Republic of Somalia, Ministry of Finance (SERP, P177298)",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

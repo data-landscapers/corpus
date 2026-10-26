@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mofea.gov.gm/wp-content/uploads/2025/04/2024-PFM-Annual-Progress-Report.pdf",
+  "title": "Public Finance Management Annual Progress Report 2024",
+  "publisher": "Ministry of Finance and Economic Affairs",
+  "published": "2025",
+  "sub_indicator": "core",
+  "why": "IFMIS in all MDAs; ITAS rollout pending; HRMIS preparatory (budget/tax/payroll)"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/gra-signs-7-2m-with-arabsofttmi-consortium-to-boost-itas",
+  "title": "GRA signs $7.2M with Arabsoft-TMI Consortium to boost ITAS",
+  "publisher": "The Point",
+  "published": "2025-10-08",
+  "sub_indicator": "core",
+  "why": "new tax system contract (tax, renewal)"
+ },
+ {
+  "url": "https://www.gra.gm/news/4f0f3845-b049-11f0-b086-029254d29bb1",
+  "title": "PRESS RELEASE - ITAS",
+  "publisher": "Gambia Revenue Authority",
+  "published": "2025-10-23",
+  "sub_indicator": "core",
+  "why": "tax system procurement/renewal"
+ },
+ {
+  "url": "https://www.voicegambia.com/gambia-validates-digital-blueprint-to-drive-e-government-reforms/",
+  "title": "Gambia Validates Digital Blueprint to Drive E-Government Reforms",
+  "publisher": "The Voice Gambia",
+  "published": "2026-05-21",
+  "sub_indicator": "core",
+  "why": "national enterprise architecture validated (architecture)"
+ },
+ {
+  "url": "https://standard.gm/gra-signs-agreement-to-improve-efficiency-transparency/",
+  "title": "GRA Signs Agreement To Improve Efficiency, Transparency",
+  "publisher": "The Standard",
+  "published": "2024-05-20",
+  "sub_indicator": "core",
+  "why": "new ITAS replaces GAMTAXNET (tax, renewal)"
+ },
+ {
+  "url": "https://mofea.gov.gm/wp-content/uploads/2024/02/2023-PFM-Annual-Progress-Report.pdf",
+  "title": "2023 Public Finance Management Annual Progress Report",
+  "publisher": "Ministry of Finance and Economic Affairs",
+  "published": "2024-02",
+  "sub_indicator": "core",
+  "why": "IFMIS adopted in LGAs (finance)"
+ },
+ {
+  "url": "https://mofea.gov.gm/wp-content/uploads/2024/04/Published-Version-of-the-MTR-Strategy-2021-2025.pdf",
+  "title": "Midterm Review of the PFM Strategy 2021-2025",
+  "publisher": "Ministry of Finance and Economic Affairs",
+  "published": "2024",
+  "sub_indicator": "core",
+  "why": "IFMIS, ITAS, HRMIS, ASYCUDA status (finance, tax, payroll)"
+ },
+ {
+  "url": "https://policies.gov.gm/d/ea5d1c6e-80d3-11ef-b086-029254d29bb1",
+  "title": "Government Cloud Strategy 2023-2027",
+  "publisher": "Government of The Gambia",
+  "published": "2023",
+  "sub_indicator": "core",
+  "why": "no national IT asset register (architecture)"
+ }
+]

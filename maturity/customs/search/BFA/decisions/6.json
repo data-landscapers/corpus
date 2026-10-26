@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "On 14 December 2023 the finance minister launched eDouanes, a platform for paying customs duties and taxes online that generates the customs receipt in SYDONIA.",
+ "title": "Digitalisation des services douaniers",
+ "publisher": "Ministère de la Transition Digitale, des Postes et des Communications Électroniques",
+ "published": "2024-01-04",
+ "date_source": "source",
+ "why_not": "set aside at staging: lint-staged-queue MISFILED, the fetched Wayback copy's URL does not match the frontmatter URL"
+}

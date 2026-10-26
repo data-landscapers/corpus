@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;payroll",
+ "fact": "The 2025 budget execution rules (17 February 2025) make SIGFE and SIGPE the system for budget, financial and asset execution, with revenue collected via RUPE into the Treasury Single Account and monthly payroll processed in SIGFE.",
+ "title": "Decreto Presidencial n.º 42/25 de 17 de fevereiro",
+ "publisher": "Presidente da República de Angola, Diário da República I Série n.º 31",
+ "published": "2025-02-17",
+ "date_source": "source",
+ "why_not": ""
+}

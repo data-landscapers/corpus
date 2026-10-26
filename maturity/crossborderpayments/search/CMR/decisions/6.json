@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor;reported",
+ "fact": "In 2023 the Cameroon-Gabon corridor was the busiest intra-CEMAC cross-border mobile transfer corridor through GIMAC, at 66.23% of such transactions by number and 52.48% by value; CEMAC mobile money received 7,421,924 international transfers worth CFA 557.35 billion.",
+ "title": "Rapport d'activités annuel 2023: Rapport sur les services de paiement dans la CEMAC",
+ "publisher": "Banque des États de l'Afrique Centrale, DSMP",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

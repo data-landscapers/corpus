@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor;regional",
+ "fact": "BankservAfrica opened the first South Africa-Zambia instant payment corridor on the SADC TCIB scheme, with SendHome and SamPay as participants.",
+ "title": "Cross-border payments now live between SA and Zambia",
+ "publisher": "IT-Online",
+ "published": "2024-03-01",
+ "date_source": "source",
+ "why_not": ""
+}

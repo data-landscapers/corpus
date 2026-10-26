@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor;regional",
+ "fact": "The Bank of Namibia directive of 31 March 2025 requires payment service providers to stop CMA low-value cross-border EFTs through SADC-RTGS by 31 March 2027 and to use the TCIB scheme from 1 April 2027.",
+ "title": "Directive on the Regularisation of Cross-border Low-value Electronic Funds Transfers within the CMA (PSDIR-10)",
+ "publisher": "Bank of Namibia",
+ "published": "2025-03-31",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;finance",
+ "fact": "The June 2023 Compact with Africa monitoring report states that electronic tax declaration is effective and mandatory for large and medium enterprises, that tax audit procedures run in the SINTAX computerised taxation system, and that no modern HR management tool has yet been developed.",
+ "title": "Burkina Faso Reform Matrix, Compact with Africa Monitoring Report",
+ "publisher": "World Bank",
+ "published": "2023-06",
+ "date_source": "source",
+ "why_not": ""
+}

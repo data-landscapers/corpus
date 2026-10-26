@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "In 2024 OTR reported setting up a new infrastructure for E-TAX and SYDONIA and continuing dematerialisation of tax procedures.",
+ "title": "Rapport de performance 2024",
+ "publisher": "Office Togolais des Recettes",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

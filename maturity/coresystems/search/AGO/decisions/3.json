@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue",
+ "fact": "The CIAT analysis states that AGT runs the SIGT Integrated Tax Management System, covering taxpayer registration, returns, payment and collection of revenue into the Single Treasury Account, and has adopted the Integrated Tax Management System (SIT) acquired under a USD 115 million technological modernisation contract.",
+ "title": "Modernisation of general tax administration over the last 10 years: a tax and customs analysis",
+ "publisher": "Inter-American Center of Tax Administrations (CIAT)",
+ "published": "2026-09-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

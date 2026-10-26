@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance",
+ "fact": "The CAG's audit of FY2023/24 finds Government financial management runs on the MUSE accounting system, integrated with GePG and TAUSI, with weaknesses in integration, segregation of duties and manual reporting.",
+ "title": "Annual General Report for Audit of Information Systems FY 2023/24",
+ "publisher": "National Audit Office of Tanzania",
+ "published": "2025-03-27",
+ "date_source": "source",
+ "why_not": ""
+}

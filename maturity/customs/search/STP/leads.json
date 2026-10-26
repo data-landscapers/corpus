@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://leveleve.news/pagamento-electronico-passa-a-ser-obrigatorio-nas-alfandegas-a-partir-de-1-de-outubro/",
+  "title": "Pagamento electrónico passa a ser obrigatório nas Alfândegas a partir de 1 de Outubro",
+  "publisher": "Leve Leve",
+  "published": "2026-10-01",
+  "sub_indicator": "customs",
+  "why": "Q3: electronic payment of customs obligations"
+ },
+ {
+  "url": "https://www.telanon.info/economia/2026/01/25/51525/stp-prepara-salto-tecnologico-no-comercio-externo-com-novas-plataformas-apoiadas-pela-onu/",
+  "title": "STP prepara salto tecnológico no comércio externo com novas plataformas apoiadas pela ONU",
+  "publisher": "Téla Nón",
+  "published": "2026-01-25",
+  "sub_indicator": "customs",
+  "why": "Q4: single window platforms"
+ },
+ {
+  "url": "https://aga.st/aga-informa/6",
+  "title": "Lançada oficialmente a nova versão do Sydonia World em São Tomé e Príncipe",
+  "publisher": "Autoridade Geral Aduaneira",
+  "published": "2025-05-23",
+  "sub_indicator": "customs",
+  "why": "Q2/Q3: Sydonia World upgrade launch"
+ },
+ {
+  "url": "https://asycuda.org/en/sao-tome-and-principe-leverages-asycuda-to-enhance-customs-efficiency-and-compliance/",
+  "title": "São Tomé and Príncipe Leverages ASYCUDA to Enhance Customs Efficiency and Compliance",
+  "publisher": "ASYCUDA Programme (UNCTAD)",
+  "published": "2025-05",
+  "sub_indicator": "customs",
+  "why": "Q2/Q3: AW 4.4 went live 1 May 2025"
+ },
+ {
+  "url": "https://rstp.st/2025/05/27/autoridade-geral-aduaneira-avanca-na-reforma-digital-com-nova-versao-do-sydonia-world/",
+  "title": "Autoridade Geral Aduaneira avança na reforma digital com nova versão do Sydonia World",
+  "publisher": "RSTP",
+  "published": "2025-05-27",
+  "sub_indicator": "customs",
+  "why": "Q2/Q3: Sydonia upgrade nationwide"
+ },
+ {
+  "url": "https://www.telanon.info/economia/2025/05/27/48677/lancada-a-nova-versao-do-sistema-informatico-de-gestao-aduaneira-em-stp/",
+  "title": "Lançada a nova versão do sistema informático de gestão aduaneira em STP",
+  "publisher": "Téla Nón",
+  "published": "2025-05-27",
+  "sub_indicator": "customs",
+  "why": "Q3: system in operation"
+ },
+ {
+  "url": "https://rstp.st/2025/05/15/pr-satisfeito-com-reformas-implementadas-pela-autoridade-geral-aduaneira/",
+  "title": "PR satisfeito com reformas implementadas pela Autoridade Geral Aduaneira",
+  "publisher": "RSTP",
+  "published": "2025-05-15",
+  "sub_indicator": "customs",
+  "why": "Q3: declarations and single payment"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/sao_tome_and_principe_institutional_support_project_for_customs_administrtion_-_project_appraisal_report_0.pdf",
+  "title": "ISP-CAPEM Project Appraisal Report",
+  "publisher": "African Development Bank",
+  "published": "2023",
+  "sub_indicator": "customs",
+  "why": "Q2: Sydonia upgrade plan"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "In November 2024 a new BURS in-transit clearing procedure requiring a separate Received-in-Transit entry per item caused border queues of up to four days.",
+ "title": "New cargo clearing system causes Botswana border backlog",
+ "publisher": "Freight News",
+ "published": "2024-11-22",
+ "date_source": "source",
+ "why_not": ""
+}

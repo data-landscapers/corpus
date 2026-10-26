@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor",
+ "fact": "The CBE issued licences and approvals to a number of Egyptian banks to receive remittances from abroad and credit them instantly to accounts at all banks via the instant payment network, after a pilot launch in June 2024 through correspondent banks and exchange houses abroad.",
+ "title": "إضافة الحوالات الواردة من الخارج في نفس اللحظة لحسابات العملاء",
+ "publisher": "البنك المركزي المصري",
+ "published": "2024-12-05",
+ "date_source": "source",
+ "why_not": ""
+}

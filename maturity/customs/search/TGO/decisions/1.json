@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window",
+ "fact": "Import clearance at the port is fully digital: declarations are lodged in SYDONIA World and the GUCE single window is interconnected with it; clearance has been online since January 2019.",
+ "title": "Clear imported goods at the port through the single window",
+ "publisher": "InterCom Togo",
+ "published": "2026-09-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "The Libyan Tax Authority announced on 12 December 2025 the official start of the Unified Tax System, with digital platforms to become operational in 2026.",
+ "title": "Libya Launches Unified Tax System and Activates Tax Police",
+ "publisher": "Libya Herald",
+ "published": "2025-12-14",
+ "date_source": "source",
+ "why_not": ""
+}

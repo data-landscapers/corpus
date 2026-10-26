@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance",
+ "fact": "The Auditor-General reports that national government payments and balances are recorded in IFMIS, with variances to financial statements and some Authority to Incur Expenditure processed manually because offices were not linked to IFMIS, for the year ended 30 June 2024.",
+ "title": "Auditor-General's Popular Report on National Government 2023-2024",
+ "publisher": "Office of the Auditor-General",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;exchange",
+ "fact": "The 2025 UN survey rates Madagascar's automated customs system and e-submission of customs declarations as fully implemented, the e-single window as partially implemented and electronic exchange of customs declarations as not implemented.",
+ "title": "Trade Facilitation and Paperless Trade in Madagascar",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

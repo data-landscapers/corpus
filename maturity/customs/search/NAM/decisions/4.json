@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system",
+ "fact": "NamRA moved the go-live of the ASYCUDAWorld upgrade to version 4.4.1 from 1 April 2026 to 5 May 2026, adding self-assessment, improved selectivity and a move towards paperless customs.",
+ "title": "ASYCUDAWorld Upgrade Go-Live Date Extension",
+ "publisher": "Namibia Revenue Agency",
+ "published": "2026-04-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://dailynews.gov.bw/news-detail/77665",
+  "title": "BURS to implement E-billing for efficiency",
+  "publisher": "Daily News (BOPA)",
+  "published": "2024-02-05",
+  "sub_indicator": "customs",
+  "why": "Zambia data exchange done May 2023, Namibia due May 2024; National Single Window due Dec 2027"
+ },
+ {
+  "url": "https://www.freightnews.co.za/article/new-cargo-clearing-system-causes-botswana-border-backlog",
+  "title": "New cargo clearing system causes Botswana border backlog",
+  "publisher": "Freight News",
+  "published": "2024-11-22",
+  "sub_indicator": "customs",
+  "why": "BURS in-transit clearing procedure, border queues"
+ },
+ {
+  "url": "https://www.freightnews.co.za/article/cargo-compliance-uncertainty-dogs-botswana-pre-clearing-decision",
+  "title": "Cargo compliance uncertainty dogs Botswana pre-clearing decision",
+  "publisher": "Freight News",
+  "published": "2024-11-28",
+  "sub_indicator": "customs",
+  "why": "Pre-clearance agreed; BURS-SARS single-window interfacing unresolved"
+ },
+ {
+  "url": "https://thevoicebw.com/kazungula-border-scanners-a-nightmare-for-criminals/",
+  "title": "Kazungula border scanners, a nightmare for criminals",
+  "publisher": "The Voice",
+  "published": "2024-10-17",
+  "sub_indicator": "customs",
+  "why": "Goods cleared through CMS with pre-clearance"
+ },
+ {
+  "url": "https://www.burs.org.bw/index.php/treaties-and-legislation/category/5-crrent-tender-notices?download=906%3Aconsultancy-customs-transit-management-system",
+  "title": "Public Tender Notice: Customs Transit Management System diagnostic study",
+  "publisher": "BURS",
+  "published": "2024",
+  "sub_indicator": "customs",
+  "why": "Transit management system to be procured"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/79286",
+  "title": "BURS single window and tourism",
+  "publisher": "Daily News (BOPA)",
+  "published": "2024-04-29",
+  "sub_indicator": "customs",
+  "why": "BURS Single Window System for customs clearance"
+ },
+ {
+  "url": "https://www.wcoomd.org/en/media/newsroom/2023/december/advancing-customs-interconnectivity-for-member-customs-administrations-in-the-sadc-region.aspx",
+  "title": "Advancing Customs interconnectivity in the SADC region",
+  "publisher": "World Customs Organization",
+  "published": "2023-12-22",
+  "sub_indicator": "customs",
+  "why": "SADC customs interconnectivity workshop"
+ },
+ {
+  "url": "https://www.wcoesarocb.org/wp-content/uploads/2015/03/ESA-Newsletter-Oct-Dec_high-version.pdf",
+  "title": "ESA Newsletter Oct - Dec 2022",
+  "publisher": "WCO ESA Regional Office for Capacity Building",
+  "published": "2022",
+  "sub_indicator": "customs",
+  "why": "BURS data exchange live with SARS (2020) and ZRA (2022)"
+ }
+]

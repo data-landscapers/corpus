@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "finance;revenue;payroll",
+ "fact": "IFMIS is used to manage 78 percent of the federal budget, while the Ministry of Revenue plans to replace its outdated ITAS and HR systems are fragmented.",
+ "title": "Governance Modernization to Enable Efficient Service Delivery Project (Project Appraisal Document)",
+ "publisher": "World Bank",
+ "published": "2024-08-16",
+ "date_source": "source",
+ "why_not": ""
+}

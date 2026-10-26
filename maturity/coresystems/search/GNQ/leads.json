@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1gnqea2025001-source-pdf.pdf",
+  "title": "Republic of Equatorial Guinea: Staff Report for the 2025 Article IV Consultation (IMF Country Report 25/224)",
+  "publisher": "IMF",
+  "published": "2025-06",
+  "sub_indicator": "core",
+  "why": "Integrated PFM system CONTFIN in use; debt system; tax admin reforms (q2,q3,q4)"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/el_gobierno_impulsa_la_implementacion_de_la_cuenta_unica_del_tesoro",
+  "title": "El Gobierno impulsa la implementación de la Cuenta Única del Tesoro",
+  "publisher": "Gobierno de la República de Guinea Ecuatorial",
+  "published": "2026-08-05",
+  "sub_indicator": "core",
+  "why": "Treasury adopts AMS/X and SINTAG; new financial management model (q4)"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/continuidad_de_los_trabajos_en_relacion_a_la_implementacion_del_sigf",
+  "title": "Continuidad de los trabajos en relación a la implementación del SIGF",
+  "publisher": "Gobierno de la República de Guinea Ecuatorial",
+  "published": "2026-03-03",
+  "sub_indicator": "core",
+  "why": "Civil-service management and payroll system SIGF being implemented (q3,q4)"
+ },
+ {
+  "url": "https://realequatorialguinea.com/economia/la-tesoreria-aprueba-su-ante-proyecto-de-presupuesto-2026-y-pone-bases-para-la-gestion-digital-de-nominas/",
+  "title": "La Tesorería aprueba su ante-proyecto de presupuesto 2026 y pone bases para la gestión digital de nóminas",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2025-06-09",
+  "sub_indicator": "core",
+  "why": "Payroll application being contracted (q3)"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/index.php/noticias/cniapge_celebra_su_primera_junta_directiva_del_2025",
+  "title": "CNIAPGE celebra su primera junta directiva del 2025",
+  "publisher": "Gobierno de la República de Guinea Ecuatorial",
+  "published": "2025-04-15",
+  "sub_indicator": "core",
+  "why": "Order to inventory government IT equipment; data centre renewal (q5)"
+ },
+ {
+  "url": "https://realequatorialguinea.com/destacado/politica/organizacion-en-malabo-del-taller-de-presentacion-de-los-trabajos-realizados-en-el-marco-del-sigref-del-pamfp/",
+  "title": "Organización en Malabo del taller de presentación de los trabajos realizados en el marco del SIGREF del PAMFP",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2024-11-30",
+  "sub_indicator": "core",
+  "why": "Integrated tax revenue system SIGREF built since 2023 (q3,q4)"
+ },
+ {
+  "url": "https://www.afdb.org/en/documents/ami-guinee-equatoriale-mise-en-place-dune-application-informatique-de-gestion-du-budget-de-la-comptabilite-publique-du-controle-financier-et-de-linterfacage-des-differentes-applications-informatiques-du-ministere-des-finances-et-du-budget-pamfp",
+  "title": "AMI - Guinée Equatoriale - Mise en place d'une application informatique de gestion du budget...",
+  "publisher": "African Development Bank",
+  "published": "2023-08-11",
+  "sub_indicator": "core",
+  "why": "Procurement of integrated PFM system (q1,q2,q4)"
+ },
+ {
+  "url": "https://realequatorialguinea.com/economia/la-tesoreria-general-del-estado-impulsa-el-lanzamiento-de-la-cuenta-unica-del-tesoro-con-la-instalacion-de-la-aplicacion-am-x/",
+  "title": "La Tesorería General del Estado impulsa el lanzamiento de la cuenta única del Tesoro con la instalación de la aplicación AMS/X",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2023-02-14",
+  "sub_indicator": "core",
+  "why": "AMS/X payments application installed at Treasury (q2,q4)"
+ }
+]

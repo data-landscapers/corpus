@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "corridor",
+ "fact": "D-Money announced international transfers from the app to 15 destinations including Belgium, Ethiopia, Senegal, Canada and Saudi Arabia.",
+ "title": "NOUVEAU ! envoyez de l'argent à l'étranger avec D-Money",
+ "publisher": "D-Money (Djibouti Telecom)",
+ "published": "2025-07-29",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "crossborder"
+}

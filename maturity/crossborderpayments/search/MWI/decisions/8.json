@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported",
+ "fact": "The FinMark Trust assessment reports that formal South Africa-to-Malawi remittances in 2024 were 49% below their 2021 peak, with cash 80-90% of first-mile payments, and gives corridor cost figures for USD 55 and USD 200 transfers.",
+ "title": "South Africa to the rest of SADC Remittances Market Assessment 2024 Report",
+ "publisher": "FinMark Trust",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

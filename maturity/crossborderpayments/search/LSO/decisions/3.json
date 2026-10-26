@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "regional",
+ "fact": "SARB Directive No. 1 of 2025 directs participants to migrate low-value cross-border EFTs within the Common Monetary Area (incl. Lesotho) from SADC-RTGS to the TCIB payment scheme, ceasing SADC-RTGS use by 31 March 2027 and using TCIB from 1 April 2027.",
+ "title": "South African Reserve Bank Act: Directive No. 1 of 2025: Execution of low-value cross-border electronic funds transfer within Common Monetary Area",
+ "publisher": "South African Reserve Bank (Government Gazette No. 52435, General Notice 3106)",
+ "published": "2025-04-01",
+ "sub_indicator": "crossborder",
+ "why_not": "",
+ "date_source": "source"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "core",
+ "aspect": "payroll;architecture",
+ "fact": "On 20 May 2025 the ministers of digital transition and civil service held a scoping meeting on rebuilding SIGASPE, the system that currently handles state personnel careers and salary processing, where an inventory of platforms to be integrated was presented.",
+ "title": "Refonte de la plateforme SIGASPE",
+ "publisher": "Ministère de la Transition Digitale, des Postes et des Communications Électroniques",
+ "published": "2025-05-21",
+ "date_source": "source",
+ "why_not": "set aside at staging: lint-staged-queue MISFILED, the fetched Wayback copy's URL does not match the frontmatter URL"
+}

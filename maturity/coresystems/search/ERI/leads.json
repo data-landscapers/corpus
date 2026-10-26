@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/erythree_-_projet_de_renforcement_des_capacites_en_gestion_des_finances_publiques_et_statistiques_-_eer_mars_2026.pdf",
+  "title": "Implementation Progress and Results: PFM and Statistics Capacity Building Project",
+  "publisher": "African Development Bank",
+  "published": "2026-03",
+  "sub_indicator": "core",
+  "why": "IFMIS pilot UAT done, go-live readiness (finance runs on computer system)"
+ },
+ {
+  "url": "https://pfmsmartsys.com/en/news/pfm_smart_completes_final_ifmis_testing_and_rollout_planning_in_eritrea",
+  "title": "PFM Smart completes final IFMIS testing and rollout planning in Eritrea",
+  "publisher": "PFM Smart Systems",
+  "published": "2025-12-12",
+  "sub_indicator": "core",
+  "why": "IFMIS testing/rollout"
+ },
+ {
+  "url": "https://pfmsmartsys.com/en/news/eritrea-ifmis-project-launch",
+  "title": "Eritrea Launches IFMIS Project",
+  "publisher": "PFM Smart Systems",
+  "published": "2023-11-30",
+  "sub_indicator": "core",
+  "why": "IFMIS budget, procurement, payroll launch"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/eritrea_-_strengthening_tax_administration_project_estap_-_p-er-k00-002_-_ipr_june_2024.pdf",
+  "title": "Implementation Progress and Results: Strengthening Tax Administration Project (ESTAP)",
+  "publisher": "African Development Bank",
+  "published": "2024-06",
+  "sub_indicator": "core",
+  "why": "ErITAS tax system procurement/award"
+ },
+ {
+  "url": "https://www.afdb.org/en/documents/spn-eritrea-design-supply-installation-configuration-and-training-eritrea-integrated-tax-administration-system-eritas-software-hardware-and-related-it-equipment-esta",
+  "title": "SPN - Eritrea Integrated Tax Administration System (ErITAS)",
+  "publisher": "African Development Bank",
+  "published": "2023-09-07",
+  "sub_indicator": "core",
+  "why": "tax system procured"
+ },
+ {
+  "url": "https://www.afdb.org/en/documents/eoi-eritrea-design-supply-installation-configuration-and-training-integrated-financial-management-information-system-ifmis-software-and-it-infrastructure-pfmscbp",
+  "title": "EOI - Eritrea - IFMIS Software and IT Infrastructure",
+  "publisher": "African Development Bank",
+  "published": "2023-01-03",
+  "sub_indicator": "core",
+  "why": "IFMIS procurement"
+ },
+ {
+  "url": "https://pfmsmartsys.com/en/impact/eritrea",
+  "title": "Eritrea",
+  "publisher": "PFM Smart Systems",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "financial processes historically manual; IFMIS scope"
+ },
+ {
+  "url": "https://digitalidentityindex.com/countries/eritrea/govtech/",
+  "title": "Eritrea - Global Digital Identity Index, GovTech",
+  "publisher": "Global Digital Identity Index",
+  "published": "",
+  "sub_indicator": "core",
+  "why": "no government enterprise architecture"
+ }
+]

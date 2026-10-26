@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll;renewed",
+ "fact": "On 10 January 2024 the Vice President launched the integration of the NIA database with the Mechanized Payroll System of the Controller and Accountant General's Department, to validate payroll identities with the Ghana Card.",
+ "title": "Government Launches Integrated Database for Payroll Validation and Verification",
+ "publisher": "National Identification Authority",
+ "published": "2024-01-15",
+ "date_source": "source",
+ "why_not": ""
+}

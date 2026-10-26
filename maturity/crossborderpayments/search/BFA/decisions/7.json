@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "corridor",
+ "fact": "Règlement n°06/2024/CM/UEMOA of 20 December 2024 allows electronic-money and payment institutions to receive funds from outside the UMOA but not to emit payments abroad (inbound-only).",
+ "title": "Cross-border rules in Burkina Faso",
+ "publisher": "Afriset Fintech",
+ "published": "2024-12-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;finance;architecture",
+ "fact": "The terms of reference state the national revenue directorate runs a Revenue Management System (GRE) for internal taxes, ASYCUDA for customs and SIGOF for the state budget, and commission a Tax and Customs information system architecture and interoperability model.",
+ "title": "Consultancy Services to define a Tax and Customs information system architecture and conceptual Interoperability model definition",
+ "publisher": "Ministério das Finanças e do Fomento Empresarial (Cabo Verde)",
+ "published": "2023-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

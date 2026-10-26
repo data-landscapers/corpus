@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "The 2025 round of the UN trade facilitation survey records Libya's automated customs system and e-single window at the planning stage, e-submission of customs declarations not implemented, and electronic exchange of customs declarations partially implemented.",
+ "title": "Trade Facilitation and Paperless Trade in Libya",
+ "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

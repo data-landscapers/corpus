@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://payatlas.com/countries/eritrea-er",
+  "title": "Accepting Payments in Eritrea: PSPs, Compliance & Fees",
+  "publisher": "PayAtlas",
+  "published": "2026-01-23",
+  "sub_indicator": "crossborder",
+  "why": "cross-border PSPs cannot operate directly; FX limits"
+ },
+ {
+  "url": "https://anuragverma.co/worldwatch/eritrea/fintech",
+  "title": "Fintech & payments regulation in Eritrea (2026)",
+  "publisher": "Anurag Verma",
+  "published": "2026",
+  "sub_indicator": "crossborder",
+  "why": "no EMI regime; FX restrictions constrain cross-border digital payments"
+ },
+ {
+  "url": "https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-2.pdf",
+  "title": "PAPSS Payments Network Coverage June 2026",
+  "publisher": "PAPSS",
+  "published": "2026-06",
+  "sub_indicator": "crossborder",
+  "why": "Eritrea absent from PAPSS live countries"
+ },
+ {
+  "url": "https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf",
+  "title": "Himbol Customers and Partners Guide",
+  "publisher": "Himbol Community Financial Services",
+  "published": "",
+  "sub_indicator": "crossborder",
+  "why": "inward remittances paid out in cash via MVTS partners; M-Nakfa domestic"
+ },
+ {
+  "url": "https://docs.barcoder.ai/docs/payments/ER",
+  "title": "Eritrea payments - QR & payment standards",
+  "publisher": "Barcoder",
+  "published": "",
+  "sub_indicator": "crossborder",
+  "why": "no wallet/instant payment system; remittances arrive as cash"
+ },
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/eri-country-profile-en.pdf",
+  "title": "Eritrea country profile",
+  "publisher": "UNECA Digital Trade Regulatory Integration",
+  "published": "",
+  "sub_indicator": "crossborder",
+  "why": "payment rules, local currency mandate"
+ },
+ {
+  "url": "https://data.finstatglobe.com/eritrea",
+  "title": "Eritrea Fintech Statistics (2026)",
+  "publisher": "FinStatGlobe",
+  "published": "2026",
+  "sub_indicator": "crossborder",
+  "why": "remittance cost 9.2% (2023)"
+ }
+]

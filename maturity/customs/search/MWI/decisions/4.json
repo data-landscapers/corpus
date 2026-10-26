@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window;exchange",
+ "fact": "In May 2025 SATCP reported the ASYCUDA World upgrade from 4.3.3 to 4.4.0 in testing and piloting for completion by September 2025, the National Single Window pilot launched on 19 May, and a Malawi-Zambia-Mozambique customs data exchange project set to start in June 2025.",
+ "title": "ICT Projects running at SATCP",
+ "publisher": "Southern Africa Trade and Connectivity Project (SATCP)",
+ "published": "2025-05-23",
+ "date_source": "source",
+ "why_not": ""
+}

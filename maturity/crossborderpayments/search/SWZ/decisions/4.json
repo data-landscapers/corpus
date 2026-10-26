@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional;corridor",
+ "fact": "CBE Directive no. 1 of 2025, in force 31 March 2025, requires providers to move low-value cross-border CMA transfers from SADC-RTGS to the TCIB scheme by 31 March 2027.",
+ "title": "CMA EFT Payments Directive no:1 of 2025",
+ "publisher": "Central Bank of Eswatini",
+ "published": "2025-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

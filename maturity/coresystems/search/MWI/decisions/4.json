@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "payroll;renewed",
+ "fact": "In March 2024 the Accountant General said government payroll was being migrated from the HRMIS to a human capital module of the new Ifmis, and sought K3.5 billion in 2024-25 for Ifmis improvement including a new local-authority system.",
+ "title": "K3.5 billion needed for Ifmis upgrade",
+ "publisher": "The Times Group",
+ "published": "2024-03-01",
+ "date_source": "source",
+ "why_not": ""
+}

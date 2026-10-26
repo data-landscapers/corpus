@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "regional",
+ "fact": "The Central Bank of Lesotho's Director of Payments said that from September 2024 low-value cross-border payments within the Common Monetary Area would be routed through regional payment infrastructure rather than South Africa's domestic retail system.",
+ "title": "CBL allays fears over cross border EFT payments",
+ "publisher": "Public Eye",
+ "published": "2024-04-15",
+ "sub_indicator": "crossborder",
+ "why_not": "",
+ "date_source": "source"
+}

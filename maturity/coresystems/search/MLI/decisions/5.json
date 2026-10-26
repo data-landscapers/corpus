@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "An AfDB-funded consultancy notice (PASG) seeks technical assistance to connect all of Mali's tax centres to the SIGTAS network and extend online services to all taxpayers, confirming SIGTAS as the tax system.",
+ "title": "AMI - Mali - Assistance technique à la digitalisation de la DGI (extension des téléservices de la Direction Générale des Impôts) - PASG",
+ "publisher": "Banque Africaine de Développement",
+ "published": "2024-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "regional;corridor",
+ "fact": "As of March 2022 the STARS large-value payment system did not participate in regional or international payment platforms, so remittance providers relied on bilateral agreements through banks with cross-border counterparts.",
+ "title": "Somalia Payment Infrastructure Assessment Report",
+ "publisher": "UNCDF Migration and Remittances programme",
+ "published": "2023-04",
+ "date_source": "source",
+ "why_not": ""
+}

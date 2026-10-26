@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "payroll",
+ "fact": "The Ministry of the Public Service HRMIS Operations Manual of December 2021 states the new HRMIS on Oracle EBS, with a payroll module, is used across government services and produces monthly payroll schedules used for payment of personnel emoluments in IFMIS.",
+ "title": "Human Resources Management Information System Operations Manual",
+ "publisher": "Government of Lesotho, Ministry of the Public Service",
+ "published": "2021-12",
+ "sub_indicator": "core",
+ "why_not": "",
+ "date_source": "source"
+}

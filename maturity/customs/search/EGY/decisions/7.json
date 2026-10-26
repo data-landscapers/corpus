@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "customs",
+ "aspect": "system;window",
+ "fact": "The 2024 Time Release Study states Nafeza has been enhanced to electronically receive cargo manifests, customs declarations and trade documents, and that declarations are lodged by brokers by direct input; average sea cargo release fell from 16 days in 2021 to 8 days in 2024 at Alexandria, El Dekhila and Damietta.",
+ "title": "2024 Time Release Study (TRS) Egypt Customs Authority",
+ "publisher": "Egyptian Customs Authority",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

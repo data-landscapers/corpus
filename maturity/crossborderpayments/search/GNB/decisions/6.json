@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "crossborder",
+ "aspect": "",
+ "fact": "",
+ "title": "Guinea-Bissau payments - QR & payment standards",
+ "publisher": "Barcoder",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Secondary aggregator with no document date; its BCEAO 2024 figures need the primary BCEAO report."
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://unctad.org/news/gambia-upgrades-customs-operations-and-boosts-revenue-trade",
+  "title": "The Gambia upgrades customs operations and boosts revenue from trade",
+  "publisher": "UNCTAD",
+  "published": "2024-02-28",
+  "sub_indicator": "customs",
+  "why": "ASYCUDAWorld in service"
+ },
+ {
+  "url": "https://www.gra.gm/news/57d06877-3d50-11f0-b086-029254d29bb1",
+  "title": "GRA Delegation Participates in 2025 AfDB Annual Meetings",
+  "publisher": "Gambia Revenue Authority",
+  "published": "2025-05-30",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA World, national single window"
+ },
+ {
+  "url": "https://mag.wcoomd.org/magazine/wco-news-109-issue-1-2026/using-performance-measurement-to-drive-trade-facilitation-in-gambia/",
+  "title": "Using performance measurement to drive trade facilitation in Gambia",
+  "publisher": "WCO News",
+  "published": "2026-03-01",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA World and single window"
+ },
+ {
+  "url": "https://www.gra.gm/news/fcf50a14-82f8-11f1-b086-029254d29bb1",
+  "title": "GRA and Senegal Customs Adopt Three-Month Roadmap",
+  "publisher": "Gambia Revenue Authority",
+  "published": "2026-07-18",
+  "sub_indicator": "customs",
+  "why": "ASYCUDA-GAINDE API planned"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/na-trade-committee-recommends-gambia-and-senegal-interconnect-customs-it-system",
+  "title": "NA Trade Committee recommends Gambia and Senegal interconnect customs IT system",
+  "publisher": "The Point",
+  "published": "2024-09-13",
+  "sub_indicator": "customs",
+  "why": "no interconnection yet"
+ },
+ {
+  "url": "https://www.gra.gm/news/107bbe18-78bb-11ee-9b31-029254d29bb1",
+  "title": "Launch of Gambia National Single Window E-Tracking System",
+  "publisher": "Gambia Revenue Authority",
+  "published": "2023-11-01",
+  "sub_indicator": "customs",
+  "why": "single window e-tracking"
+ },
+ {
+  "url": "https://www.nicktcscangambia.gm/single-window/",
+  "title": "Single Window - GNSW",
+  "publisher": "Nick TC-Scan (Gambia) Limited",
+  "published": "2024-08-06",
+  "sub_indicator": "customs",
+  "why": "single window platform"
+ },
+ {
+  "url": "https://www.untfsurvey.org/economy?id=GMB",
+  "title": "Trade Facilitation and Paperless Trade in Gambia",
+  "publisher": "UN Global Survey on Digital and Sustainable Trade Facilitation",
+  "published": "2025",
+  "sub_indicator": "customs",
+  "why": "automated customs; e-exchange of declarations not implemented"
+ }
+]

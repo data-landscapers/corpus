@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "core",
+ "aspect": "revenue;renewed",
+ "fact": "On 5 December 2023 RRA launched MyRRA, a unified portal consolidating e-tax and its other online services, starting with VAT-registered businesses.",
+ "title": "RRA launches single portal for all online services",
+ "publisher": "Africa-Press",
+ "published": "2023-12-06",
+ "date_source": "source",
+ "why_not": ""
+}

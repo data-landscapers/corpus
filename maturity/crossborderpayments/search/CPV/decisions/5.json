@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "crossborder",
+ "aspect": "reported",
+ "fact": "Banco de Cabo Verde states remittances reached 31,634 million CVE in 2022 and about 12 percent of GDP in 2023, compiled from bank transactions and MoneyGram, Western Union and similar rapid-transfer platforms.",
+ "title": "Dia Internacional das Remessas Familiares",
+ "publisher": "Banco de Cabo Verde",
+ "published": "2024-06-17",
+ "date_source": "source",
+ "why_not": ""
+}
