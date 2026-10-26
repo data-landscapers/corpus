@@ -23,9 +23,9 @@ The African Charter on the Values and Principles of Public Service and Administr
 | 5 Leading | 6 |
 | 4 Operating | 3 |
 | 3 Established | 4 |
-| 2 Nascent | 15 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
-| Unplaced | 10 |
+| Unplaced | 9 |
 | No evidence | 16 |
 
 ## Countries
@@ -157,6 +157,12 @@ The government budgets and pays through a computer system by 2025; whether tax a
 
 - The Interministerial Council on 10 February 2025 took up new directives for the CONFIN system across the whole public administration and autonomous bodies, described as an integrated public finance management system built for executing current expenditure of the state budget ([source, 2025-02-10](https://www.guineaecuatorialpress.com/noticias/primera_reunion_del_consejo_interministerial_de_2025)).
 
+### Eswatini: 2 Nascent
+
+The government's financial system was restored in October 2026 after an outage; tax and payroll systems are not known.
+
+- Eswatini's ICT ministry said on 23 October 2026 that the Integrated Financial Management Information System (IFMIS) was among 13 services restored after disruptions ([source, 2026-10-23](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)).
+
 ### Ethiopia: 2 Nascent
 
 The government budgets and pays through a computer system by 2025; whether tax and payroll do too is not known.
@@ -240,12 +246,6 @@ Not established: No source held from 2023 or later says the government's financi
 No source held from 2023 or later says the government's financial system is in use, so no stage is set.
 
 Not established: No source held from 2023 or later says the government's financial management system is in use.
-
-### Eswatini: Unplaced
-
-The government's financial system is out of action; none says it is back, so no stage is set.
-
-Not established: A source held says the government's financial system is out of action; none says it is back.
 
 ### Libya: Unplaced
 

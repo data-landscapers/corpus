@@ -18,3 +18,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-20,SEN,infra.capacity--robustness-of-government-hardware-and-software,fact,no evidence,unplaced,,"DGID SENTAX tax platform live and mandatory for large taxpayers from 1 Sep 2026; no finance system held, so no evidence to unplaced"
 2026-10-22,ZMB,infra.capacity--robustness-of-government-hardware-and-software,fact,2,3,ZMB-001;ZMB-003;ZMB-002,A May 2025 Zambia Revenue Authority presentation shows returns filed on TaxOnline; with the IFMIS (2024) and the PMEC payroll (2026) all three core systems are in use.
 2026-10-25,ZAF,infra.capacity--robustness-of-government-hardware-and-software,fact,no evidence,unplaced,,SARS eFiling auto-assessed 6.9m returns by 30 Sep 2026; finance system not held: unplaced
+2026-10-26,SWZ,infra.capacity--robustness-of-government-hardware-and-software,fact,unplaced,2,SWZ-004,"IFMIS restored on 23 October 2026 after the September outage (SWZ-004): finance in use again, unplaced to 2"

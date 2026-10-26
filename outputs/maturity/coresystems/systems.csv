@@ -333,6 +333,7 @@ RWA,IFMIS,Rwanda,core,,Ministry of Finance and Economic Planning,across governme
 RWA,electronic payroll systems,Rwanda,core,,Ministry of Finance and Economic Planning,,2018-10-23-wb-rwa-003-rwanda-public-finance-management-reform-project
 RWA,IFMIS,IFMIS,core,,MINECOFIN,,2026-10-06-rwa-minecofin-ifmis-upgraded-modern-platform
 RWA,IPPIS,IPPIS Rwanda,other,,,,2026-10-16-rwa-ippis-developer-api
+RWA,IPPIS,IPPIS,other,,,,2025-12-31-rwa-mandatory-artificial-intelligence-ai-training-for-all-public-servants
 SDN,Esali (electronic collection and payment system),Sudan,other,,Ministry of Finance,,2026-04-16-sudan-esali-ifmis-undp-briefing
 SDN,Online e-invoicing system,Sudan,other,,Ministry of Finance,,2026-04-16-sudan-esali-ifmis-undp-briefing
 SDN,Treasury Single Account (TSA),Sudan,other,,Ministry of Finance / Central Bank of Sudan,,2026-04-16-sudan-esali-ifmis-undp-briefing
@@ -433,6 +434,7 @@ SWZ,Ministry of Finance IBM mainframe infrastructure,Ministry of Finance IBM mai
 SWZ,Umsebe IFMIS,Umsebe IFMIS,core,,Ministry of Finance,,2024-10-24-swz-edn-ifmis-phase-1-launch
 SWZ,IFMIS,IFMIS,other,,Ministry of Finance,,2024-01-01-swz-mof-ifmis-quality-assurance-tor
 SWZ,IFMIS,Umsebe IFMIS,core,,Ministry of Finance,,2025-11-19-swz-times-budget-through-ifmis
+SWZ,IFMIS,Eswatini,core,,government,,2026-10-24-swz-govt-restores-13-online-services-website-still-down
 SYC,Electronic Government Network (EGN),Electronic Government Network,other,,Department of Information Communication Technology,,2025-06-17-national-assembly-dict-egn-visit
 SYC,SeyID,SeyID,other,,Department of Information Communication Technology,,2025-06-17-national-assembly-dict-egn-visit
 SYC,Visual Account Mate (VAM) and Treasury Information System (TIS),VAM and TIS,core,,"Department of Information, Communication and Technology",,2024-07-01-syc-imf-gfs-psds-mission-summary
@@ -513,3 +515,4 @@ ZWE,BEAM Management Information System,BEAM MIS,other,,"Ministry of Public Servi
 ZWE,TaRMS,Tax Revenue Management System,core,,Zimbabwe Revenue Authority,,2024-10-07-zwe-zimra-notice-75-outstanding-returns-payment
 ZWE,TaRMS,Zimbabwe Revenue Authority Tax and Revenue Management System,core,,Zimbabwe Revenue Authority,,2024-03-01-zwe-zimra-tarms-release-2-live
 ZWE,National Budget Automation System (Blue Book System),Zimbabwe,other,,,,2026-09-23-zwe-sirdc-budget-automation-pilot
+ZWE,Enterprise Architecture Model for e-government,Zimbabwe,other,,Government,,2026-02-08-zwe-minister-mavetera-defends-zimbabwe-s-ai-drive-addresses-infrastructure
