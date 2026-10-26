@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-moz-governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-edu",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Education and Culture Minister Edson Macuacua launched MAZA IA on 22 October 2026, an AI tool to support students and teachers, developed by MOZEDUCA with Vodacom Mocambique.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "MAZA IA",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAZA IA",
+   "country_label": "MAZA IA",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "MOZEDUCA with Vodacom Mocambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

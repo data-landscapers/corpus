@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,sectorai,use,coverage,inservice,2026-06-10,RWA-006;RWA-007,RWA-005=underway;RWA-002=underway;RWA-001=underway;RWA-004=underway;RWA-003=underway,
+RWA,sectorai,use,coverage,inservice,2026-06-10,RWA-006;RWA-007,RWA-008=underway;RWA-005=underway;RWA-002=underway;RWA-001=underway;RWA-004=underway;RWA-003=underway,
 RWA,sectorai,sectors,coverage,,,,,nothing held
 RWA,sectorai,results,coverage,,,,,nothing held

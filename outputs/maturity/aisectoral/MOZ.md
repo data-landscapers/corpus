@@ -8,6 +8,6 @@
 
 **Results reported.** No measured results of a sectoral AI system in service are held. The [three flagged outbreaks](<https://dhis2.org/pt-pt/climate/country-profiles/mozambique/>) came from testing, before the system was in service.
 
-***Noted, not assessed***. [Telegram chatbot for AdRMM](<https://macaubusiness.com/mozambique-portugal-based-firms-develop-ai-solution-for-maputo-water-company/>).
+***Noted, not assessed***. [Telegram chatbot for AdRMM](<https://macaubusiness.com/mozambique-portugal-based-firms-develop-ai-solution-for-maputo-water-company/>); [MAZA IA](<https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/>).
 
 ***Not held***. No source says an AI tool is in service in a public sector's system.

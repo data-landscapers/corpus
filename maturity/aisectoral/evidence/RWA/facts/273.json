@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-rwa-rwanda-can-be-korea-s-ai-entry-point-to-africa-minister",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Minister Yves Iradukunda told the Korea Herald a chatbot helping medical professionals assess whether patients need further attention is being rolled out and the health ministry is testing maternal care tools, including one assessing fetal development.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "health ministry AI chatbot and maternal care tools",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -107,6 +107,7 @@ MDG,Enhanced Risk Assessment (ERA),Madagascar,sectorai,Sydonia,Direction General
 MOZ,Malaria early-warning dashboard pilot,early-warning dashboard,sectorai,DHIS2,Ministry of Health with Saudigitus and CHAI,,2025-06-30-moz-dhis2-chap-malaria-forecast-pilots
 MOZ,Chap Modelling Platform,Mozambique,sectorai,DHIS2,,,2026-08-03-moz-mocambique-dhis2-clima-e-saude
 MOZ,Telegram chatbot for AdRMM,Mozambique,other,Telegram,LTPlabs and MAAT for AdRMM,,2024-04-09-moz-mozambique-portugal-based-firms-develop-ai-solution-for-maputo-water-c
+MOZ,MAZA IA,MAZA IA,other,,MOZEDUCA with Vodacom Mocambique,,2026-10-23-moz-governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-edu
 MRT,système d'alerte précoce agrométéorologique basé sur l'intelligence artificielle,Mauritanie,sectorai,,"Office National de la Météorologie, with UNDP",,2026-01-14-ami-onm-pnud-systeme-alerte-precoce-agrometeorologique-ia-rosso
 MRT,HydroMet AI,Mauritania,sectorai,"AWS microservices, stacked LSTM with Isolation Forest and SWAT","UNDP Mauritania, operated with the National Meteorological Office",national,2026-01-01-paneotech-hydromet-ai-systeme-alerte-precoce-vallee-fleuve-senegal
 MRT,AGRIFEMIA,Mauritania,sectorai,AGRIFEMIA,Autorite nationale de meteorologie,,2026-09-08-ami-onm-ai-agro-hydro-early-warning-workshop
@@ -164,6 +165,7 @@ SYC,AI Student Tutor,Seychelles,sectorai,,Ministry of Education,,2026-05-07-nati
 TGO,Togo AI Lab,Togo,sectorai,,Ministry of Public Service Efficiency and Digital Transformation,,2026-09-10-togofirst-togo-ai-lab-public-sector-ai-technical-lead
 TGO,Digital Market Intelligence,Togo,sectorai,SICPA SA,Ministere de l'Economie et de la Veille strategique,,2026-03-12-togo-lancement-digital-market-intelligence-mobilisation-ressources-publiques
 TGO,Digital Market Intelligence,Togo,sectorai,SICPA platform,Ministry of Economy and Strategic Monitoring,,2026-03-13-tgo-togo-l-etat-deploie-l-intelligence-artificielle-pour-traquer-les-fraud
+TGO,Novissi,Novissi,sectorai,,Government of Togo with CEGA,,2026-10-22-xaf-african-governments-customers-for-local-ai
 TUN,SINDA 2,Tunisia,other,customs IT system,Tunisian Customs,,2026-10-12-tun-businessnews-customs-ai-fraud-detection
 TUN,GAINAfrica crop-disease app,Tunisia,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
 TUN,système national de sélectivité douanière,Tunisia,sectorai,,Direction Générale des Douanes,,2026-05-16-la-douane-integre-lia-au-sein-de-son-systeme

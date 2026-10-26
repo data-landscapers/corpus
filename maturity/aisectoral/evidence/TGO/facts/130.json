@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-22-xaf-african-governments-customers-for-local-ai",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Togo's government used machine learning on mobile phone and satellite data under the Novissi emergency cash transfer programme to target vulnerable households, paying about $20 a month to 154,238 people between December 2020 and April 2021.",
+   "as_of": "2020-12",
+   "date_precision": "month",
+   "system": "Novissi",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Researchers at UC Berkeley's CEGA found the machine-learning targeting improved accuracy by 42% compared with a simpler method based on the poorest districts.",
+   "as_of": "2020-12",
+   "date_precision": "month",
+   "system": "Novissi",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Novissi",
+   "country_label": "Novissi",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Government of Togo with CEGA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
