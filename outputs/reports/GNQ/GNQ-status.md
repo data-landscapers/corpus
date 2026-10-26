@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-10-24
+compiled: 2026-10-26
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 212
+sources_cited: 213
 sections_written: 39
 not_established: 2
 acquire_lines: 23
@@ -346,7 +346,7 @@ Equatorial Guinea's headline population figure is a projection rather than a cou
 
 The Ibrahim Index [scores the statistical system at 33.6 out of 100, 44th of 54 African states and up 2.1 points across 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gq.pdf) (2023), and carries no data at all for 22 of its 96 indicators for the country. On the World Bank's Statistical Performance Indicators, [four of the five pillars — data use, data services, data sources and data infrastructure — fall in the 20-49% band](https://www.worldbank.org/en/programs/statistical-performance-indicators), and no agricultural, business or labour force survey has been run in the past decade, against one health survey and one household survey (2023).
 
-INEGE [presented the ninth Anuario Estadístico de Guinea Ecuatorial in Malabo on 25 September 2026, covering the last five years, and named weak administrative registers, undigitised processes and poor interoperability between information systems among the statistical system's outstanding challenges](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/). The series is [assembled from line-ministry returns rather than registers, the eighth edition of October 2025 being the first to appear in French as well as Spanish](https://www.guineaecuatorialpress.com/noticias/inege_presenta_la_octava_edicion_del_anuario_estadistico_nacional_de_guinea_ecuatorial). Work [opened in April 2026 on a successor to the 2022-2026 Estrategia Nacional de Desarrollo de la Estadística, with no adoption date published for ENDE 2027-2031](https://inege.org/?p=16157). A first [Catálogo Nacional de Indicadores, launched with AFRISTAT support at Malabo on 24 June 2026, is to homogenise calculation methods across the statistical system](https://www.guineaecuatorialpress.com/noticias/tecnicos_de_distintos_sectores_participan_en_un_seminario_taller_en_la_elaboracion_del_primer_catalogo_nacional_de_indicadores), and a technical committee chaired by INEGE's director-general [began implementing the 2008 System of National Accounts, approving the product and activity nomenclatures at its first meeting in February 2026](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_impulsa_la_implementacion_del_scn_2008_y_la_actualizacion_del_a%C3%B1o_base_de_las_cuentas_nacionales).
+INEGE [presented the ninth Anuario Estadístico de Guinea Ecuatorial in Malabo on 25 September 2026, covering the last five years, and named weak administrative registers, undigitised processes and poor interoperability between information systems among the statistical system's outstanding challenges](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/). The series is [assembled from line-ministry returns rather than registers, the eighth edition of October 2025 being the first to appear in French as well as Spanish](https://www.guineaecuatorialpress.com/noticias/inege_presenta_la_octava_edicion_del_anuario_estadistico_nacional_de_guinea_ecuatorial). Work [opened in April 2026 on a successor to the 2022-2026 Estrategia Nacional de Desarrollo de la Estadística, with no adoption date published for ENDE 2027-2031](https://inege.org/?p=16157). A first [Catálogo Nacional de Indicadores, launched with AFRISTAT support at Malabo on 24 June 2026, is to homogenise calculation methods across the statistical system](https://www.guineaecuatorialpress.com/noticias/tecnicos_de_distintos_sectores_participan_en_un_seminario_taller_en_la_elaboracion_del_primer_catalogo_nacional_de_indicadores), and a technical committee chaired by INEGE's director-general [began implementing the 2008 System of National Accounts, approving the product and activity nomenclatures at its first meeting in February 2026](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_impulsa_la_implementacion_del_scn_2008_y_la_actualizacion_del_a%C3%B1o_base_de_las_cuentas_nacionales). Abroad the institute now leads: [the country was elected to chair the UN Statistical Commission for Africa for 2026-2028 at its tenth session in Addis Ababa in October 2026, INEGE's director-general presiding](https://inege.org/?lang=fr&p=18389).
 
 ### Open data
 <!-- data.open -->
