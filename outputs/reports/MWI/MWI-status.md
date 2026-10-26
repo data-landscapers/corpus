@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 223
+sources_cited: 225
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -282,7 +282,7 @@ Where digital tools have reached classrooms, they teach rather than record. [The
 ### Training and skills
 <!-- capacity.training -->
 
-No arm of the Malawian state is being trained to run the systems the state is building: [there is no public-service digital skills strategy or training programme, no government digital skills programme reaching citizens or schools, and nothing published on public-service skills (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+Training for the people who run the state's systems is small and partner-led: [112 of about 180 civil servants completed a six-month digital skills course at the Malawi School of Government in November 2023](https://mbc.mw/spc-for-digital-innovations/), and [the e-government directorate put those trained with the Tony Blair Institute at more than 120 in September 2024](https://mbc.mw/govt-advocates-for-improved-digital-service-delivery/). Behind it [there is no public-service digital skills strategy, no government digital skills programme reaching citizens or schools, and nothing published on public-service skills (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 The training that does exist is university training, and it is long established. [The University of Malawi, the Malawi University of Science and Technology, the Malawi University of Business and Applied Sciences and Mzuzu University all run computer science, IT and cybersecurity programmes from bachelor's to PhD level](https://cs.unima.ac.mw/about/the-department). What comes out is a thin stream: [fewer than one in ten of the country's tertiary graduates were in ICT fields (2022)](https://indico.ictp.it/event/10457/session/0/contribution/1/material/slides/0.pdf).
 
