@@ -81,6 +81,18 @@ def seen(study: dict, r: dict) -> dt.date:
     return d
 
 
+def held(study: dict, r: dict, as_at: dt.date) -> bool:
+    """Whether a fact is dated by the as-at. A year stands for its last day, except that under
+    `source_dated` a year-only fact of the as-at's own year counts once its source is published
+    *(Bill, 2026-10-26, message 39: Mauritania's "2026" from a January 2026 guide)*."""
+    if last_day(r["as_of"]) <= as_at:
+        return True
+    if r["aspect"] in study.get("source_dated", []) and r["as_of"] == str(as_at.year):
+        m = re.match(r"(\d{4}-\d{2}-\d{2})-", r.get("source_slug") or "")
+        return bool(m) and dt.date.fromisoformat(m.group(1)) <= as_at
+    return False
+
+
 def keys(study: dict) -> tuple[str, str, str, str, str]:
     """`(first, second, third, second's value, third's value)` from `study.json`."""
     a1, a2, a3 = study["aspects"]
@@ -96,7 +108,7 @@ def firsts(study: dict) -> tuple[str, str, str]:
 def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str, unplaced: str) -> dict:
     k1, k2, k3, v2, v3 = keys(study)
     top, mid, low = firsts(study)
-    live = [(seen(study, r), r) for r in rows if r.get("as_of") and last_day(r["as_of"]) <= as_at]
+    live = [(seen(study, r), r) for r in rows if r.get("as_of") and held(study, r, as_at)]
     live.sort(key=lambda p: p[0], reverse=True)
     three = study_lib.months_back(as_at, 36)
     pick = lambda aspect, value: [  # noqa: E731

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "5",
+      "stage": "3",
       "system": "inservice",
-      "window": "window",
-      "exchange": "exchange",
+      "window": "",
+      "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CAF-002",
-      "gaps": "",
-      "note": "Customs says in April 2026 that Cameroon, Chad and the Central African Republic have already linked their systems for joint transit, so stage 5. The same source says the links fall short of the SIGMAT standard, which the ladder does not ask.",
+      "stage_sources": "CAF-006;CAF-001",
+      "gaps": "No source held since October 2023 says a trade single window is in service.",
+      "note": "Rung 5 rewritten (Bill, 2026-10-26, message 39): the April 2026 link of Cameroon, Chad and the Central African Republic is three of CEMAC's six, with no system open to the whole community named, so no longer a yes to question 4. No single window in service is held.",
       "as_at": "2026-10-26"
     }
   ]

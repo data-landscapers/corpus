@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
-      "system": "inservice",
+      "stage": "2",
+      "system": "underway",
       "window": "",
       "exchange": "",
       "cap": "",
       "flags": "",
       "stage_sources": "MRT-001",
-      "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "The customs clearance guide for 2026 says declarations are registered in SYDONIA World, which runs risk circuits and payments, so stage 3. No source describes a trade single window.",
+      "gaps": "No source held since October 2023 says: are declarations processed electronically.",
+      "note": "Bill, 2026-10-26, message 39: a January 2026 customs guide on SYDONIA World confirms preparation, not implementation; its year-only date counts from the guide's publication.",
       "as_at": "2026-10-26"
     }
   ]

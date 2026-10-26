@@ -1,5 +1,6 @@
 ## 26 October 2026
 
+- The customs indicator's top stage now needs data exchange through a system open to the whole regional economic community, such as ECOWAS's SIGMAT or the EAC single customs territory; a link with one or a few neighbours no longer counts. Cameroon falls to 4 and Chad and the Central African Republic to 3; Somalia rises to 3 and Mauritania falls to 2.
 - Consumer protection for digital finance no longer counts rules reported only in a study's recommendations, so Gambia falls from 3 to 2. Rules in force now count when a recent source says so, whenever they were adopted.
 - Civil service digital skills now counts a government commitment to train civil servants across government, as well as training already given. Ghana, committed in 2025 to train 200,000, and Zimbabwe, making training mandatory for all civil servants, rise to 4.
 - The top stage of local capacity to run government systems now needs three or more systems run, maintained or built by government staff with no contractor doing the work; an IT cadre no longer counts. Algeria, Burkina Faso, Cape Verde, Gabon, Senegal, Somalia, Tanzania, Uganda and Zambia rise to 5, and Gambia, placed on its cadre alone, now has no evidence.

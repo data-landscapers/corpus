@@ -61,9 +61,9 @@
     "A customs management system is procured, being installed, piloted at some posts or upgraded.",
     "Customs declarations are lodged and processed in an automated system at the main port, airport or border posts.",
     "A trade single window is in service, joining customs and other border agencies.",
-    "The customs system exchanges declaration or transit data electronically with another country's customs."
+    "The customs system exchanges declaration or transit data electronically through a system open to every country of its regional economic community, such as ECOWAS's SIGMAT or the EAC single customs territory, even where not every member yet reciprocates."
    ],
-   "criteria_of": "f39ff252d0ab"
+   "criteria_of": "5f70de8ed7cc"
   }
  ],
  "classes": [
@@ -113,5 +113,6 @@
    ]
   }
  ],
- "flags": []
+ "flags": [],
+ "source_dated": ["system", "window", "exchange"]
 }

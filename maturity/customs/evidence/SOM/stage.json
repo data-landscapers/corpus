@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "2",
-      "system": "underway",
+      "stage": "3",
+      "system": "inservice",
       "window": "",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-002",
-      "gaps": "No source held since October 2023 says: are declarations processed electronically.",
-      "note": "Progress on SOMCAS at Mogadishu Port was still being reviewed in August 2025, a stage-2 fact. The 2022 introduction of SOMCAS is outside the window.",
+      "stage_sources": "SOM-001",
+      "gaps": "No source held since October 2023 says a trade single window is in service.",
+      "note": "Bill, 2026-10-26, message 39: the finance ministry's January 2024 plan stating SOMCAS was implemented in February 2022 is a government statement taken as fact, dated by the source.",
       "as_at": "2026-10-26"
     }
   ]

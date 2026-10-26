@@ -14,39 +14,21 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 | 2 Under way | Yes to 1 |
 | 3 Automated | Yes to 2 |
 | 4 Single window | Yes to 3 |
-| 5 Exchange with partners | Yes to 4 |
+| 5 Regional exchange | Yes to 4 |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
-| 4 Operating | 15 |
-| 3 Established | 22 |
+| 5 Leading | 4 |
+| 4 Operating | 16 |
+| 3 Established | 24 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 0 |
 
 ## Countries
-
-### Cameroon: 5 Leading
-
-Customs exchanged data electronically with another country in 2026.
-
-- Customs says Cameroon, Chad and the Central African Republic have already linked their systems and introduced joint transit procedures ([source, 2026-04](https://theguardianpostcameroon.com/post/7061/en/hometighten-cemac-transit-cut)).
-
-### Central African Republic: 5 Leading
-
-Customs exchanged data electronically with another country in 2026.
-
-- Customs says Cameroon, Chad and the Central African Republic have already linked their systems and introduced joint transit procedures ([source, 2026-04](https://theguardianpostcameroon.com/post/7061/en/hometighten-cemac-transit-cut)).
-
-### Chad: 5 Leading
-
-Customs exchanged data electronically with another country in 2026.
-
-- Customs says Cameroon, Chad and the Central African Republic have already linked their systems and introduced joint transit procedures ([source, 2026-04](https://theguardianpostcameroon.com/post/7061/en/hometighten-cemac-transit-cut)).
 
 ### Cote d'Ivoire: 5 Leading
 
@@ -91,6 +73,12 @@ A trade single window joined customs and other agencies in 2025; electronic exch
 A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
 
 - The Office Burundais des Recettes presented on 17 February 2026 the new web version of the Guichet Unique Electronique for import permits, which centralises procedures of the medicines regulator ABREMA, the agriculture ministry (sanitary and phytosanitary certificates) and the OBR, and is now the exclusive route for pharmaceutical importers ([source, 2026-02-17](https://www.wearetech.africa/fr/fils/actualites/tech/le-burundi-digitalise-ses-procedures-d-importation-via-un-guichet-unique)).
+
+### Cameroon: 4 Operating
+
+A trade single window joined customs and other agencies in 2026; exchange open to the whole regional community is not known.
+
+- The Chambre des comptes' 2024 certification work states that the Guichet unique des opérations du commerce extérieur (Guce) centralises import and export operations and serves as the reference for tracking foreign-trade financial flows, with customs revenue recorded against it ([source, 2026-07-30](https://www.economieducameroun.info/gestion-publique-forets-mines-douanes-et-guichet-unique-ne-se-parlent-pas/)).
 
 ### Comoros: 4 Operating
 
@@ -192,6 +180,19 @@ Customs declarations were processed electronically in 2024; a single window is n
 
 - Finance minister Peggy Serame said BURS continues to optimise e-services including online customs declarations ([source, 2024-02](https://dailynews.gov.bw/news-detail/77665)).
 
+### Central African Republic: 3 Established
+
+Customs declarations were processed electronically in 2026; a single window is not on record.
+
+- Investir en Centrafrique reports that, once the DPI fee is paid via Orange Money, the loading-intention declaration is generated automatically and data goes in real time to the SYDONIA customs system, on the eDouanes platform run by concessionaire Webb Fontaine ([source, 2026-07-03](https://investirencentrafrique.com/2026/07/03/orange-centrafrique-et-webb-fontaine-lancent-le-paiement-automatise-de-la-redevance-dpi-via-orange-money/)).
+- Customs says the SYDONIA World platform is used by Central African Republic customs, and Cameroon's CAMCIS is to be made interoperable with it ([source, 2026-04](https://theguardianpostcameroon.com/post/7061/en/hometighten-cemac-transit-cut)).
+
+### Chad: 3 Established
+
+Customs declarations were processed electronically in 2026; a single window is not on record.
+
+- Customs says the SYDONIA World platform is used by Chad customs, and Cameroon's CAMCIS is to be made interoperable with it ([source, 2026-04](https://theguardianpostcameroon.com/post/7061/en/hometighten-cemac-transit-cut)).
+
 ### Congo: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
@@ -244,12 +245,6 @@ Customs runs on an automated system covering most procedures (2026); a trade sin
 
 - Mali's Director-General of Customs said the move to SYDONIAWorld in 2015 built an integrated system that now covers over 95 percent of customs business procedures ([source, 2026-02-23](https://douanes.gouv.ml/node/535)).
 
-### Mauritania: 3 Established
-
-Customs declarations were registered in an automated system in 2026; a single window is not on record.
-
-- Mauritania's customs guide says import and export declarations are registered and printed in SYDONIA World, which also runs risk circuits, liquidation and payment receipts ([source, 2026](https://www.douanes.mr/uploads/files/P2026%20Guide%20de%20proc%C3%A9dures%20de%20d%C3%A9douanement%20des%20marchandises%20%C3%A0%20l'importation%20et%20%C3%A0%20l%E2%80%99exportation.pdf)).
-
 ### Mauritius: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
@@ -296,6 +291,12 @@ Customs declarations were processed electronically in 2026; a single window is n
 - The Anti-Corruption Commission report, per the Telegraph, found customs declarations deleted from the ASYCUDA system after payment, and notes real-time payment visibility within the ASYCUDA platform ([source, 2026-07-10](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/)).
 - The Anti-Corruption Commission report states clearing agents' payments for ASYCUDA transactions were recorded in the NRA tax system, and refers to the ASYCUDA World System ([source, 2026-07-10](https://www.linkedin.com/posts/fritong-post_part-1-nras-missing-billions-the-acc-activity-7494064892119998465-bd_y)).
 
+### Somalia: 3 Established
+
+Customs declarations were processed electronically by 2022, a 2024 government plan says; a single window is not on record.
+
+- The Ministry of Finance plan says Mogadishu Customs introduced electronic customs systems, SOMCAS implemented in February 2022 alongside the current Port Customs Management Information System (PCMIS) ([source, 2022-02](https://mof.gov.so/sites/default/files/Publications/Somali%20Customs%20Strategic%20Plan2024-2027.pdf)).
+
 ### Sudan: 3 Established
 
 Customs declarations were processed electronically in 2025; a single window is not on record.
@@ -339,17 +340,17 @@ Libya announced the full launch of its automated customs system in 2025; its use
 - Libya's Customs Authority announced on 21 August 2025 the full launch of the ASYCUDA customs system early the following month, after a two-week expert visit for the Customs Procedures Automation Project reviewed infrastructure readiness and implementation progress ([source, 2025-08-21](https://libyaherald.com/2025/08/customs-authority-announces-full-launch-of-asycuda-system-next-month)).
 - The IMF METAC says its August-September 2024 mission helped Libya Customs develop a National Standard Operating Procedure documenting the new automated clearing process using ASYCUDA World ([source, 2024-09](https://www.imfmetac.org/content/dam/METAC/Countries-Activities/FY25/Libya.pdf)).
 
+### Mauritania: 2 Nascent
+
+An automated customs system was under way in 2026; none in service is on record.
+
+- Mauritania's customs guide says import and export declarations are registered and printed in SYDONIA World, which also runs risk circuits, liquidation and payment receipts ([source, 2026](https://www.douanes.mr/uploads/files/P2026%20Guide%20de%20proc%C3%A9dures%20de%20d%C3%A9douanement%20des%20marchandises%20%C3%A0%20l'importation%20et%20%C3%A0%20l%E2%80%99exportation.pdf)).
+
 ### Senegal: 2 Nascent
 
 An automated customs system was under way in 2025; none in service is on record.
 
 - The Port Autonome de Dakar and the Direction générale des Douanes announced a pilot phase from 2 January 2026 of electronic exchange of Bons à Délivrer via the electronic port single window, following a June 2025 data-exchange protocol with GAINDE 2000 ([source, 2025-11-07](https://lesoleil.sn/actualites/economie/dedouanement-le-port-de-dakar-entame-une-etape-decisive-de-sa-transformation-digitale/)).
-
-### Somalia: 2 Nascent
-
-An automated customs system was under way in 2025; none in service is on record.
-
-- Shabelle Media reports Somalia's finance minister and the UK ambassador reviewed progress in implementing digital customs systems at Mogadishu Port, centred on the UK-supported SOMCAS online platform ([source, 2025-08-07](https://shabellemedia.com/somalia-finance-minister-uk-ambassador-visit-mogadishu-port-to-review-revenue-reform-efforts/)).
 
 ### South Sudan: 2 Nascent
 

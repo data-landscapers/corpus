@@ -80,3 +80,13 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-26,ZAF,dpi.mis--customs,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
 2026-10-26,ZMB,dpi.mis--customs,review,4,4,ZMB-005,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
 2026-10-26,ZWE,dpi.mis--customs,review,4,4,ZWE-004,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,CAF,dpi.mis--customs,ladder,5,3,CAF-006;CAF-001,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community; standing states dated by source; a guide is preparation."
+2026-10-26,TCD,dpi.mis--customs,ladder,5,3,TCD-001,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community; standing states dated by source; a guide is preparation."
+2026-10-26,CMR,dpi.mis--customs,ladder,5,4,CMR-001,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community; standing states dated by source; a guide is preparation."
+2026-10-26,MRT,dpi.mis--customs,ladder,3,2,MRT-001,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community; standing states dated by source; a guide is preparation."
+2026-10-26,SOM,dpi.mis--customs,ladder,2,3,SOM-001,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community; standing states dated by source; a guide is preparation."
+2026-10-26,BWA,dpi.mis--customs,ladder,3,3,BWA-001,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community."
+2026-10-26,CIV,dpi.mis--customs,ladder,5,5,CIV-005,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community."
+2026-10-26,GIN,dpi.mis--customs,ladder,5,5,GIN-002,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community."
+2026-10-26,LBR,dpi.mis--customs,ladder,5,5,LBR-009,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community."
+2026-10-26,KEN,dpi.mis--customs,ladder,5,5,KEN-005,"Bill, 2026-10-26, message 39: rung 5 is exchange open to the whole regional community."
