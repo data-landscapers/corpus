@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: TUN
-ledger_rows: 63
+ledger_rows: 64
 not_held: 5
-record: 634fe04e06c6
+record: 96bf0d467e89
 ---
 
 # News, Sep – Oct 2026
@@ -1035,8 +1035,26 @@ Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 th
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#training-and-skills">Training and skills</a>
 </nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Abtal Al Internet online-safety curriculum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+
+USD 2.4m Google.org grant to INJAZ Al-Arab; Abtal Al Internet in nine MENA countries, 2.3m students over four years.
+
+</div>
+
+</div>
 
 ### Training and skills
 
