@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-02-mar-pour-seghrouchni-l-adoption-du-cloud-levier-essentiel-pour-la-souverai",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister Seghrouchni said the cloud roadmap's second objective is a secure, ordered move of public data to the cloud, in line with national data protection law and qualified providers, including a national sovereign cloud infrastructure for the state's sensitive information systems.",
+   "as_of": "2025-12-02",
+   "date_precision": "day",
+   "system": "National sovereign cloud infrastructure (planned)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

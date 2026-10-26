@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-zwe-minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-dir",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister Mavetera announced a Zimbabwe Government Cloud and proposed a Data Sovereignty Statutory Instrument requiring all critical government data to be hosted within Zimbabwe's borders.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "Zimbabwe Government Cloud; Data Sovereignty Statutory Instrument",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

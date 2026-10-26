@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The article says the G-Cloud and N-Cloud labelling system, part of the national digital strategy 2025, aims to guarantee digital sovereignty and build a sovereign cloud offer; G-Cloud providers must connect to the integrated administration network and the national interoperability platform.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "G-Cloud and N-Cloud labels",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

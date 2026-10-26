@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-25-zwe-govt-to-boost-online-services-with-new-high-tech-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "ICT Minister Tatenda Mavetera said Zimbabwe is upgrading its national cloud infrastructure and will establish a new Tier 4 national data centre with the e-Government Technology Unit, targeted for completion by end 2025.",
+   "as_of": "2025-01-25",
+   "date_precision": "day",
+   "system": "National cloud upgrade and new national data centre",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Government digital platforms including email and ministry websites run on the government's national cloud and data centre infrastructure, with the Government Internet Service Provider hosting ministry websites, according to the ICT Minister.",
+   "as_of": "2025-01-25",
+   "date_precision": "day",
+   "system": "National cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

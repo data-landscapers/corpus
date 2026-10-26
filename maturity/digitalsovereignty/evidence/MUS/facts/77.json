@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-05-mus-request-for-information-rfi-from-qualified-suppliers-for-the-implement",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Ministry of ICT issued RFI MITCI/RFI/01/2025-26 to suppliers to implement a Sovereign Cloud for the Government of Mauritius, governed by Mauritian law, covering data residency and privacy.",
+   "as_of": "2025-09-05",
+   "date_precision": "day",
+   "system": "Sovereign Cloud for the Government of Mauritius",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sovereign Cloud for the Government of Mauritius",
+   "country_label": "Mauritius",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Cabinet meeting of 24 April 2026 discussed exploring a National Sovereign Cloud under the Digital Transformation Blueprint 2025-2029 to ensure data sovereignty and jurisdictional control, per ION News.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "National Sovereign Cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Sovereign Cloud",
+   "country_label": "Mauritius",
+   "class": "sovereignty",
+   "platform": "VMware Cloud Foundation",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

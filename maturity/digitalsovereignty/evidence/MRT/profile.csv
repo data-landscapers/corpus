@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,sovereignty,rule,coverage,underway,2026-08-11,MRT-002;MRT-004;MRT-006;MRT-007,,
-MRT,sovereignty,hosted,coverage,national,2026-09-28,MRT-001;MRT-003;MRT-005,,
+MRT,sovereignty,rule,coverage,underway,2026-08-11,MRT-002;MRT-004;MRT-006;MRT-007;MRT-009;MRT-010,,
+MRT,sovereignty,hosted,coverage,national,2026-09-28,MRT-001;MRT-003;MRT-005;MRT-008;MRT-011,,
 MRT,sovereignty,terms,coverage,,,,,nothing held

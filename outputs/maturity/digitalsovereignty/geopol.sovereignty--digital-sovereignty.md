@@ -23,9 +23,9 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | 5 Leading | 0 |
 | 4 Operating | 19 |
 | 3 Established | 8 |
-| 2 Nascent | 14 |
+| 2 Nascent | 15 |
 | 1 Absent | 1 |
-| Unplaced | 5 |
+| Unplaced | 4 |
 | No evidence | 7 |
 
 ## Countries
@@ -293,6 +293,12 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 
 - Sudan's Minister of Communications and Digital Transformation says the alternative national data centre project is meant to restore sovereign national infrastructure and secure and protect all government data ([source, 2026-03-16](https://nabdsudan.net/231651)).
 
+### Tunisia: 2 Nascent
+
+Government cloud labels from 2024 make control of state data a stated goal; a rule keeping state data in the country is not known.
+
+- The communications ministry says G-Cloud labels, awarded in July 2024 under decree-law 2023-17 and a ministerial decision of 13 September 2023, go only to Tunisian hosting providers linked to the administration's network, as part of the 2025 digital strategy to guarantee digital sovereignty ([source, 2024-07](https://www.webmanagercenter.com/2024/07/12/527554/tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud/)).
+
 ### Central African Republic: 1 Absent
 
 A 2024 source says no rule governs where state data is held.
@@ -312,12 +318,6 @@ Nothing held since 2023 names control of state data, so no stage is set.
 Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
 
 ### Gambia: Unplaced
-
-Nothing held since 2023 names control of state data, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
-
-### Tunisia: Unplaced
 
 Nothing held since 2023 names control of state data, so no stage is set.
 

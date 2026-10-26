@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-mus-mitci-rfi-01-2025-26-sovereign-cloud",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Ministry of ICT (MITCI) issued RFI MITCI/RFI/01/2025-26 seeking suppliers for a sovereign cloud for the Government of Mauritius, to be strictly governed by Mauritian law, under the government's total control and located in a Tier 3 equivalent or better local data centre.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "Sovereign Cloud for the Government of Mauritius",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": "A request for information, not a procurement; no hosting or contract terms in service."
+}

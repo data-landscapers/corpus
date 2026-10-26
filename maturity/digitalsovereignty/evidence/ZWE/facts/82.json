@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-11-zwe-government-to-expand-national-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Deputy ICT Minister Dingumuzi Phuti said the government is mooting expansion of the National Data Centre to at least Tier four, framed as keeping Zimbabwean data processed, stored and protected locally.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "National Data Centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

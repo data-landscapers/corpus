@@ -1,17 +1,18 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "sovereignty",
-   "stage": "unplaced",
-   "rule": "",
-   "hosted": "",
-   "terms": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held since October 2023 says whether control of state data is a stated goal or a rule.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalsovereignty.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "sovereignty",
+      "stage": "2",
+      "rule": "underway",
+      "hosted": "",
+      "terms": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-002",
+      "gaps": "No source held says a rule in force classifies government data or requires it to be held in Tunisia; nothing says government data is hosted nationally.",
+      "note": "The G-Cloud label, in force since 2023 and awarded from July 2024, frames government cloud hosting as a sovereignty goal, so stage 2. It limits who may be labelled, not where state data must be held, so not stage 3.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

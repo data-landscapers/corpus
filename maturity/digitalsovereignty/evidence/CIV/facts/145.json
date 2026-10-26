@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-civ-grand-bassam-ibrahim-kalil-konate-met-la-pression-pour-accelerer-le-ch",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister Ibrahim Kalil Konate, visiting the national data centre at VITIB Grand-Bassam (CFA 42.361 billion, over 20% built), said it will securely host the State's strategic data as part of the country's digital sovereignty strategy.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "Data Center national (Grand-Bassam)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center national",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "State (builders CYBASTION, BNETD, APL)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

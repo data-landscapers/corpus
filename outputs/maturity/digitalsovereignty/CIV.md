@@ -2,7 +2,7 @@
 
 ## Control of state data
 
-**Rule on state data.** [The Ministry of Digital Transition's national data governance strategy SNGD 2030 sets as a principle that all data classified as critical information infrastructure must be processed and stored inside Côte d'Ivoire, by staff at least 20% Ivorian, with a copy kept in the country for law enforcement](<https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Rule on state data.** [The Ministry of Digital Transition's national data governance strategy SNGD 2030 sets as a principle that all data classified as critical information infrastructure must be processed and stored inside Côte d'Ivoire, by staff at least 20% Ivorian, with a copy kept in the country for law enforcement](<https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf>). In December 2025 the digital minister [said the national data centre being built at VITIB Grand-Bassam, then over 20% complete at a cost of CFA 42.4 billion, will host the State's strategic data](<https://www.ivoirematin.com/fr/news/Societe/grand-bassam-ibrahim-kalil-konate-met-la-pression-pour-accelerer-le-chantier-du-data-center-national_n_125095.html>).
 
 **Hosted nationally.** No source held since October 2023 says government data or a core system is hosted in a national data centre or cloud. The nearest held fact: [the one given above](<https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf>).
 

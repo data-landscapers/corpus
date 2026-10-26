@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-17-dza-le-gouvernement-examine-plusieurs-projets-notamment-la-transformation",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Algerian government reviewed on 17 December 2025 the setting up of two strategic infrastructures forming Algeria's first national cloud, meant to secure and modernise public services by hosting sovereign data.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "First national cloud",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The Prime Minister's communique describes the two infrastructures of the first national cloud as hosting sovereign data, alongside a second national data centre in service since 26 September 2025.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "First national cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-01-ken-ministry-urges-public-sector-to-adopt-ai-cloud-computing",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Cabinet Secretary said that under the Kenya Cloud Policy 2025 public institutions will classify their data, procure only from accredited providers and migrate systems in a structured and secure environment.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Kenya Cloud Policy 2025",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

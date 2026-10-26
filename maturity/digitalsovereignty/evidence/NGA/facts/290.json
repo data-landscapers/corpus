@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11-nga-digitalisation-fg-adopts-1gov-cloud-platform",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Nigeria's Head of the Civil Service announced the Federal Government's adoption of the 1Gov cloud ECMS as a single government-wide platform for ministries, departments and agencies, saying it aligns with a national shift to sovereign digitalisation and protects Nigeria's data platforms.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "1Gov cloud ECMS",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "1Gov cloud ECMS",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "Laserfiche",
+   "owner": "Office of the Head of the Civil Service of the Federation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

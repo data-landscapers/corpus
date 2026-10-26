@@ -21,6 +21,7 @@ CIV,Data Center National / Cloud National,Data Center ou Cloud National,other,,S
 CIV,National PKI (root certification authority),Cote d Ivoire,other,,ANSSI-CI,,2026-07-28-cote-divoire-launches-national-pki
 CIV,PKI nationale (PKI Racine),Cote d Ivoire,other,,ANSSI CI,,2026-07-25-cote-divoire-anssi-pki-nationale
 CIV,Sovereign and Secure Cloud in Côte d'Ivoire (DataConnect Africa / Clever Cloud Africa),Côte d'Ivoire,other,"PaaS cloud, TIER III datacenter",DataConnect Africa (New Digital Africa) with Clever Cloud,,2024-11-28-clever-cloud-dataconnect-africa-sovereign-cloud-civ
+CIV,Data Center national,Cote d'Ivoire,other,,"State (builders CYBASTION, BNETD, APL)",,2025-12-01-civ-grand-bassam-ibrahim-kalil-konate-met-la-pression-pour-accelerer-le-ch
 CMR,Zamengoe Data Centre,Zamengoe Data Centre,other,,CAMTEL,,2026-06-12-camtel-zamengoe-data-centre-sovereignty-sago-techreviewafrica
 CMR,Zamengoé Datacenter,Zamengoé Datacenter,other,,Camtel,government agencies and businesses,2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter
 CMR,Zamengoe Datacenter,Zamengoe Datacenter,other,,Camtel,,2025-12-11-camtel-unveils-performance-of-its-zamengoe-datacenter
@@ -95,6 +96,7 @@ KEN,Microsoft/G42 East Africa Cloud Region (cancelled),Microsoft/G42 East Africa
 KEN,KONZA data center,KEN,other,Huawei Cloud Stack,KONZA (Konza Technopolis); ownership not stated beyond the name,Tier III (stated by Huawei Cloud),2025-07-24-huawei-cloud-konza-cloud-stack-case
 KEN,Konza National Data Centre,Kenya,other,Konza Cloud Platform; colocation and managed hosting,Government of Kenya (government data centre; contracting authority KoTDA),Uptime Institute Tier III Design and Construction,2026-04-13-konza-cloud-expansion-transaction-advisory-addendum-iii
 KEN,Konza Cloud expansion (PPP),Kenya,other,"planned expansion to about 280-300 racks, 1-2 MW",KoTDA (contracting authority); private partner to be procured,,2026-04-13-konza-cloud-expansion-transaction-advisory-addendum-iii
+KEN,Konza National Data Centre,Kenya,other,,Konza Technopolis Development Authority,,2026-10-24-ken-ppp-directorate-signs-funding-agreement-for-konza-national-data-centre
 LBR,National Identification Registry (NIR),Liberia,other,,Government of Liberia,,2026-05-15-editorial-digital-sovereignty-outsourcing-spine-observer
 LBY,CBL Circular No. 18 data protection system and executive regulation,Data Protection System and Executive Regulation,other,,Central Bank of Libya,banks; foreign bank branches; fintech and electronic payment providers; exchange and credit companies; leasing companies,2025-01-01-informatics-cbl-personal-data-protection-regulation-session
 MAR,Jazari institutes network,Morocco,other,,Ministry of Digital Transition and Administration Reform,national and regional,2026-09-15-mar-panorapost-seghrouchni-ia-souverainete-numerique
@@ -120,8 +122,12 @@ MRT,National Cloud,Mauritania,sovereignty,"Nouakchott National Data Center (Tier
 MRT,National government cloud,Mauritania,sovereignty,,Ministry of Digital Transformation,,2026-09-28-mrt-elilam-digital-infrastructure-standards-training
 MRT,National government cloud,Mauritania,sovereignty,"National Data Centre, Nouakchott",AN-ETAT,,2026-08-11-mauritania-world-bank-national-data-centre-visit
 MRT,National Cloud,Mauritania,sovereignty,"Nouakchott National Data Center (Tier III, WARDIP)",Ministry of Digital Transformation,,2026-06-30-agenceecofin-mauritanie-cloud-national-lance-sans-calendrier-migration
+MRT,National cloud,Mauritania,sovereignty,,government,,2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly
+MRT,Système national de cloud,Mauritania,sovereignty,,Government,,2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration
 MUS,Mauritius Telecom Rose-Belle data centre,data centre de Rose-Belle,other,,Mauritius Telecom,,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,"Government Online Centre (GOC), Ebene",GOC,other,,Government of Mauritius,government only; about 80 racks,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
+MUS,National Sovereign Cloud,Mauritius,sovereignty,VMware Cloud Foundation,government,,2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn
+MUS,Sovereign Cloud for the Government of Mauritius,Mauritius,sovereignty,,MITCI,,2025-09-05-mus-request-for-information-rfi-from-qualified-suppliers-for-the-implement
 MWI,National Data Centre (Lilongwe),MWI,other,"government data centre, Lilongwe, with redundancy link to Blantyre data centre",Government of Malawi (Department of E-Government),,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
 MWI,Blantyre Data Centre (disaster recovery site),MWI,other,government DR site,Government of Malawi,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
 MWI,Bomalathu Digital Services Platform,MWI,other,government digital services portal,Government of Malawi,,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026
@@ -171,6 +177,7 @@ NGA,MTN Sifiso Dabengwa Data Centre,Sifiso Dabengwa Data Centre,other,,MTN Niger
 NGA,MTN Sifiso Dabengwa Data Centre,"Lagos, Nigeria",other,,MTN Nigeria (Bayobab),,"2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing"
 NGA,"Galaxy Backbone National Shared Services Centre data centre, Abuja",NSSC / GBB Datacentre,other,,Galaxy Backbone Limited,"Tier III (Uptime certified, as stated)",2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning
 NGA,Galaxy Backbone Kano data centre,GBB Kano tier IV data center,other,,Galaxy Backbone Limited,Tier IV (as stated); article does not say it rents to outside customers,2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning
+NGA,1Gov cloud ECMS,Nigeria,other,Laserfiche,Office of the Head of the Civil Service of the Federation,,2025-11-11-nga-digitalisation-fg-adopts-1gov-cloud-platform
 RWA,Africa Data Centres,,other,,,,2025-07-01-data-center-market-brief-rwanda
 RWA,PAIX,,other,,,,2025-07-01-data-center-market-brief-rwanda
 RWA,"Cross-border digital identity pilot (Rwanda, Ghana, Benin)",Rwanda,other,,Smart Africa,,2026-08-11-giz-smart-africa-digital-sovereignty-interview

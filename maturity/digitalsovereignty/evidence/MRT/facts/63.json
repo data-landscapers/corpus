@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The national Nouakchott Data Center is stated to store and protect sovereign data and to offer cloud hosting within national borders to public and private institutions.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott Data Center",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

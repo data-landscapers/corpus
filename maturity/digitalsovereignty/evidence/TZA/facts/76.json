@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-05-tza-govt-expands-open-source-technology-use",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Daily News reports the minister said government is expanding open-source technology across public institutions so that it owns and controls its digital infrastructure and protects critical government information.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Government open-source expansion",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

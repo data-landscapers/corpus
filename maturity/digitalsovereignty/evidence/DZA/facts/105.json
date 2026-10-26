@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-16-dza-fin-du-calvaire-administratif-l-etat-finalise-la-plateforme-tout-en-un",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Algeria's High Commissioner for Digitalisation, Meriem Benmouloud, announced a planned national cloud, one for ministries and public bodies without data centres and one for the public and local firms, to host and secure national information systems, within the 2025-2030 national digital transformation strategy.",
+   "as_of": "2025-10-16",
+   "date_precision": "day",
+   "system": "National cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Minister of Digital Transformation told the National Assembly that all government servers were moved into a data centre the ministry built to international standards.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Ministry data centre",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Minister said Mauritania launched its first national cloud days earlier, ending reliance on foreign clouds for digital services.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "National cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National cloud",
+   "country_label": "Mauritania",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

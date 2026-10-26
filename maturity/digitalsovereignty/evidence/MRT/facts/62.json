@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ministry's representative says works have begun on a national cloud system.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Systeme national de cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système national de cloud",
+   "country_label": "Mauritania",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
