@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The E-Government Director said the ministry piloted migration of non-tax revenue collection agencies to e-payment, starting with the National Registration Bureau.",
+   "as_of": "2024-09-20",
+   "date_precision": "day",
+   "system": "Non-tax revenue e-payment pilot",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Non-tax revenue e-payment pilot",
+   "country_label": "Malawi",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Information and Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
