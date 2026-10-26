@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-24-swz-govt-restores-13-online-services-website-still-down",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Eswatini's ICT ministry said on 23 October 2026 that 13 government online services, including the Government in Your Hand platform and e-Visa, had been restored after disruptions.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Government in Your Hand",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government in Your Hand (GIYH)",
+   "country_label": "Eswatini",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  },
+  {
+   "system": "e-Visa",
+   "country_label": "Eswatini",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

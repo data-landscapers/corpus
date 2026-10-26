@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-24-egy-egypt-forum-2026-outlines-sweeping-development-agenda-to-raise-living-standards",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The article says the number of services on the Digital Egypt platform is targeted to rise from 250 to 500 before the end of 2026, implying 250 are available now.",
+   "as_of": "2026-10-24",
+   "date_precision": "day",
+   "system": "Digital Egypt platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Egypt platform",
+   "country_label": "Egypt",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Gateway and ID sign-in and usage figures not stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-17-dza-le-gouvernement-examine-plusieurs-projets-notamment-la-transformation",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The government reviewed on 17 December 2025 the project of the national digital services portal Dzair digital services, giving unified web and mobile access to public services.",
+   "as_of": "2025-12-17",
+   "date_precision": "day",
+   "system": "Dzair digital services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dzair digital services",
+   "country_label": "Dzair digital services",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Algeria",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of services or usage stated."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-25-nga-nigerians-recount-frustrating-experiences-with-nimc-over-data-correcti",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Trumpet reports NIMC offers a self-service modification portal and a mobile app for record updates and retrieving digital identity information, with users reporting sign-in and time-out failures.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "NIMC self-service modification portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

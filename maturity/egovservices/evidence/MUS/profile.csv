@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MUS,eservices,services,coverage,underway,2026,MUS-001;MUS-002;MUS-003;MUS-006,,
-MUS,eservices,gateway,coverage,single,2020-12,MUS-004,,nothing dated since 2023-10-24
-MUS,eservices,usage,coverage,published,2022-09,MUS-005,,nothing dated since 2023-10-24
+MUS,eservices,gateway,coverage,single,2020-12,MUS-004,,nothing dated since 2023-10-26
+MUS,eservices,usage,coverage,published,2022-09,MUS-005,,nothing dated since 2023-10-26

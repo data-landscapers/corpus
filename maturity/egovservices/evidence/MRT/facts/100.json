@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-02-mrt-ami-minister-national-cloud-launch-national-assembly",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Minister told the National Assembly that several digital services are now available to citizens; no count or portal named.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

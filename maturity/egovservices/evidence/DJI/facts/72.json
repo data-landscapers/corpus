@@ -1,0 +1,23 @@
+{
+ "slug": "2024-09-30-dji-digital-leaders-spotlight-djibouti",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eConstruction Permit",
+   "country_label": "Djibouti",
+   "class": "eservices",
+   "platform": "DIGIT",
+   "owner": "DATUH",
+   "tiers": ""
+  },
+  {
+   "system": "eCabinet",
+   "country_label": "Djibouti",
+   "class": "other",
+   "platform": "WebWare",
+   "owner": "Prime Minister's Office",
+   "tiers": ""
+  }
+ ],
+ "note": "eCabinet and eConstruction Permit are under implementation with launch foreseen for Q4 2024; nothing launched or piloted is stated."
+}

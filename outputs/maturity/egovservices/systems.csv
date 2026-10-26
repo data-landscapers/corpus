@@ -58,6 +58,8 @@ CPV,SNIAC,Cabo Verde,other,,NOSi,,2024-01-01-nosi-operational-nucleus-informatio
 CPV,Portal Único de Serviços Públicos Digitais,Cabo Verde,eservices,,Government of Cabo Verde,,2025-01-22-cpv-discurso-do-primeiro-ministro-no-debate-no-parlamento-protecao-e-aprim
 DJI,egouv.dj,Djibouti,eservices,www.egouv.dj,Government of Djibouti,,2023-08-06-dji-lanation-centre-services-citoyens
 DJI,Plateforme des marches publics,Plateforme des marches publics,other,,ANSIE,,2025-06-30-dji-un-ansie-assistant-virtuel-marches-publics
+DJI,eConstruction Permit,Djibouti,eservices,DIGIT,DATUH,,2024-09-30-dji-digital-leaders-spotlight-djibouti
+DJI,eCabinet,Djibouti,other,WebWare,Prime Minister's Office,,2024-09-30-dji-digital-leaders-spotlight-djibouti
 DZA,البوابة الوطنية للخدمات الحكومية الرقمية,National portal of digital government services,eservices,,High Commission for Digitalisation,,2026-08-23-echorouk-algeria-takwin-service-national-digital-services-portal
 DZA,Dzair Digital Services,National portal of digital government services,eservices,,High Commission for Digitalisation,,2026-07-29-elhiwar-hcn-green-number-3017-dzair-digital-services
 DZA,Bawabatak,Bawabatak,other,,,,2025-01-07-digital-projects-public-services--telecomreviewafrica
@@ -71,6 +73,10 @@ DZA,ECCP,Algeria,eservices,app,Algerie Poste,,2023-12-19-dza-mpt-autonomisation-
 DZA,Portail de création d'entreprise (sidjilcom-entreprise),Portail de création d'entreprise en Algérie,eservices,,Centre National du Registre du Commerce,,2026-10-17-dza-cnrc-portail-creation-entreprise-accueil
 DZA,Dzair Digital Services,Dzair Digital Services,eservices,,High Commission for Digitalisation,,2026-05-29-dza-algeria-reviews-national-ai-strategy-progress-and-approves-launch-of-d
 DZA,Takaoudi,DZA,eservices,app,Caisse nationale des retraites (CNR),single pension fund,2026-10-23-dza-la-cnr-lance-le-projet-du-guichet-numerique-unique
+DZA,national digital services portal,Algeria,eservices,,government,,2026-10-22-dza-habitat-inscription-de-545-000-logements-dans-le-plf-2027
+DZA,National Digital Services Portal,National Digital Services Portal (21 services),eservices,,High Commission for Digitalisation,,2026-07-14-dza-elmassar-national-digital-services-portal-21-services
+DZA,Dzair digital services,Dzair digital services,eservices,,Government of Algeria,,2025-12-17-dza-le-gouvernement-examine-plusieurs-projets-notamment-la-transformation
+DZA,Dzair Services,Algeria,eservices,national portal,state,,2025-10-16-dza-fin-du-calvaire-administratif-l-etat-finalise-la-plateforme-tout-en-un
 EGY,Digital Egypt,EGY,other,,,,2026-10-12-egy-technotime-ehab-said-digital-transformation-beyond-services
 EGY,Digital Egypt (منصة مصر الرقمية),EGY,eservices,,Ministry of Communications and Information Technology,,2026-09-20-egy-alnahar-hendy-240-services-400-by-2030
 EGY,biometric electronic-verification (digital identity) system,Egypt,other,telecom operator smartphone apps,Ministry of Communications and Information Technology,national,2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch
@@ -79,6 +85,7 @@ EGY,مصر الرقمية (Digital Egypt),Egypt,eservices,,,national,2026-09-30-
 EGY,GAFI electronic portal,Egypt,eservices,GAFI portal,General Authority for Investment and Free Zones,,2025-08-03-egy-ahram-tasis-sharikat-mansa-electroniya
 EGY,Egypt Digital Platform,Egypt,eservices,,Government of Egypt,,2024-01-01-egy-idsc-digitalization-in-egypt-policy-perspective
 EGY,interactive electronic platform for consular services,Egypt,eservices,"mobile app (App Store, Google Play)","Ministry of Foreign Affairs, International Cooperation and Egyptian Expatriates","pilot, 17 missions",2026-10-21-egy-foreign-ministry-launches-pilot-operation-of-e-platform-for-consular-services-fo
+EGY,Digital Egypt platform,Egypt,eservices,,,,2026-10-24-egy-egypt-forum-2026-outlines-sweeping-development-agenda-to-raise-living-standards
 ERI,Consular Affairs Processing System (CAPS),Eritrea,eservices,,Ministry of Foreign Affairs,,2024-09-24-eri-embassy-us-launch-caps-online-consular
 ETH,National Rural Land Administration Information System (NRLAIS),ETH,other,,Ministry of Agriculture,,2024-05-30-moa-e-services-nrlais
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
@@ -160,6 +167,7 @@ MOZ,e-Gov payment gateway,Mozambique,other,,Ministry of Finance,national,2025-07
 MOZ,Electronic Procurement System (e-GP),Mozambique,other,,,national,2025-07-16 Mozambique Digital Transformation Strategy (Market Intelligence)
 MOZ,Centro Pronto,Mozambique,eservices,"portal, self-service kiosks and assisted counters",ATDI,Maputo first; Beira and Nampula planned,2026-10-16-moz-bnews-centro-pronto-vfs-global-atdi
 MOZ,Portal do Cidadao,Portal do Cidadao,eservices,,MCTD,,2025-08-28-moz-mctd-e-eurocam-celebram-memorando-de-entendimento
+MOZ,Sistema Nacional de Gestão Documental (e-SNGD),Mozambique,other,,"INAGE, IP",,2025-06-04-moz-nampula-inage-ip-capacita-47-funcionarios-do-estado-em-uso-do-sistema
 MRT,Houwiyeti,Mauritania,eservices,TECH5 / SmartMS,"Ministry of Digital Transition, Innovation and Public Sector Modernisation (MTNIMA)",,"2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)"
 MRT,STT (Systeme de Teledeclaration et Telepaiement),Mauritania,eservices,,Direction Generale des Impots,,2026-09-16-dgi-mauritanie-teleservices
 MRT,Teleservices (tele-services.gov.mr),Mauritania,eservices,,Direction Generale des Impots,,2026-09-16-dgi-mauritanie-teleservices
@@ -179,6 +187,7 @@ MWI,National Registration and Identification System (NRIS),Malawi,other,,Nationa
 MWI,e-Government Procurement (eGP),Malawi,other,,PPDA,,2024-01-01 The National Digitalization Initiative Transforming Public Procurement in Malawi
 MWI,e-Government Marketplace (eGM),Malawi,other,,PPDA,,2024-01-01 The National Digitalization Initiative Transforming Public Procurement in Malawi
 MWI,Bomalathu e-services portal,Malawi,eservices,,Ministry of Information and Communications Technology (DMAP),,2026-09-04-broadcastmediaafrica-malawi-dmap-phase2-worldbank
+MWI,Boma Lathu,Malawi,eservices,web portal,Ministry of Information and Digitalisation,,2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery
 NAM,Interoperability Platform (X-Road model),Namibia,other,X-Road,Office of the Prime Minister (DPSITM),,2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework
 NAM,Nam-X,Namibia,other,Cybernetica UXP,Office of the Prime Minister (DPSeGM),,2024-01-01-namibia-governmental-interoperability-framework-nam-x
 NER,Service-public.ne,Niger,eservices,CMS portal,ANSI,national,2026-01-01-numericite-niger-strategie-egov-services-publics
@@ -194,6 +203,7 @@ NGA,Government Service Portal (services.gov.ng),Nigeria,eservices,services.gov.n
 RWA,Irembo,Rwanda,eservices,online portal,Government of Rwanda with RwandaOnline Platform Ltd,national,2025-01-01-irembo-rwandan-government-e-service-portal
 RWA,Irembo,Rwanda,eservices,web and mobile,,,2026-09-04-internet-society-rwanda-digital-parenting-training-karongi
 RWA,IremboGov,IremboGov,eservices,,Irembo,,2025-05-27-gha-dial-adli-data-exchange-exemplars
+RWA,Irembo,Irembo,eservices,,,,2026-10-23-rwa-rwandans-report-lower-satisfaction-with-public-services-new-scorecard
 SDN,Baldna,Sudan,eservices,Baldna platform,Ministry of Digital Transformation and Communications,,2026-10-01-sdn-alghad-baladna-new-commercial-legal-services-investment
 SDN,Baldna,Sudan,eservices,Baldna platform,Ministry of Digital Transformation and Communications,,2026-01-01-baldna-e-government-services
 SDN,"Ministry of Culture, Information, Tourism and Antiquities website",ministry website,eservices,,"Ministry of Culture, Information, Tourism and Antiquities",,2026-10-17-sdn-alawdanews-culture-ministry-website-launch-opinion
@@ -204,6 +214,7 @@ SEN,SEN-ETAFI,Senegal,other,web application,DGID,national,2026-09-03-dgid-e-dgid
 SEN,e-OSC,Senegal,eservices,web platform,Ministère de l'Intérieur et de la Sécurité publique (DGAT),,2026-10-16-sen-aps-e-osc-plateforme-ong-associations
 SEN,Service Public portal,Senegal,eservices,,,,2025-08-25-sen-anta-lia-au-service-du-citoyen-le-pari-reussi-de-senegal-numerique-sa
 SEN,e-Sénégal guichet unique,guichet unique e-Sénégal,other,,,,2026-10-20-sen-sngal-une-nouvelle-instance-pour-harmoniser-les-projets-numriques-de-ltat
+SEN,Guichet unique du citoyen,Guichet unique du citoyen,eservices,,Government of Senegal,,2026-03-24-sen-ousmane-sonko-prone-une-coordination-renforcee-pour-reussir-la-transfo
 SLE,WanGov,Sierra Leone,eservices,,Sierra Leone Road Safety Authority / Korlie Ltd,,2025-10-17-sle-sierraloaded-wangov-guinea-border
 SLE,One Government Platform,Sierra Leone,eservices,,Ministry of Communications and Innovation,,2025-06-04-sle-statehouse-digital-innovation-summit-2025
 SLE,WanGov,Sierra Leone,eservices,mobile app,"Ministry of Communication, Technology and Innovation",,2025-02-04-sle-sierraloaded-wangov-app-launch
@@ -213,6 +224,7 @@ SOM,Halmeel unified digital government services platform,Halmeel,other,,Unified 
 SOM,National Digital Government Portal,Somalia,eservices,,,,2026-10-19-som-developmentaid-eardip-api-gateway-sso-portal-reoi
 SOM,Government Single Sign-On (SSO),Somalia,other,,,,2026-10-19-som-developmentaid-eardip-api-gateway-sso-portal-reoi
 SOM,National Digital Government Portal,Somalia,other,,Ministry of Communications and Technology,,2026-10-16-som-wb-op00475480-api-gateway-sso-portal-reoi
+SOM,Electronic Travel Authorization System (eVisa),Somalia,eservices,,Immigration and Citizenship Agency,,2026-10-21-som-somali-federal-government-says-evisa-dispute-with-somaliland-resolved-but-hargeisa-denies-agreement
 SSD,NCA e-Services Platform,South Sudan,eservices,,National Communication Authority,,2026-02-13-nca-eservices-platform-revenue-onecitizendaily
 SSD,Business Registration Service (BRS),South Sudan,eservices,,Ministry of Justice and Constitutional Affairs,,2025-01-01-business-registration-service-south-sudan
 SSD,eServices.gov.ss,South Sudan,eservices,,,,2025-01-01-business-registration-service-south-sudan
@@ -225,11 +237,14 @@ STP,National Digital Identity system,São Tomé and Príncipe,other,MOSIP,,,2026
 STP,citizen Portal and Mobile App,São Tomé and Príncipe,eservices,,INIC,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
 STP,Centro Nacional de Dados (NDC),STP,other,,INIC,,2025-03-12-stp-bragatv-grupo-erre-resilient-data-centre
 STP,Citizen Portal and mobile application,Citizen Portal,eservices,gov.st domain,INIC,,2026-01-01-stp-digitising-a-nation-s-public-service-delivery
+STP,Document Issuance System,São Tomé and Príncipe,eservices,digital portal,Directorate-General for Registry and Notary,,2026-02-11-stp-government-launches-document-issuance-system-at-the-embassy-of-sao-tom
 SWZ,Government in Your Hand,Eswatini,eservices,,Ministry of ICT,,2026-09-24-swz-times-national-data-centre-incident
 SWZ,National Data Centre,Eswatini,other,,Royal Science and Technology Park,,2026-09-24-swz-times-national-data-centre-incident
 SWZ,Health Information Exchange,Eswatini,other,HL7/FHIR,Ministry of Health,,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
 SWZ,Government in Your Hand,Eswatini,eservices,,Ministry of ICT,,2025-01-20-insidebiz-eswatini-partners-with-google
 SWZ,AI-enabled government in your hand,Eswatini,other,mobile,Ministry of ICT,,2026-10-19-swz-govt-plans-ai-services-at-your-fingertips
+SWZ,Government in Your Hand (GIYH),Eswatini,eservices,,Ministry of ICT,,2026-10-24-swz-govt-restores-13-online-services-website-still-down
+SWZ,e-Visa,Eswatini,eservices,,,,2026-10-24-swz-govt-restores-13-online-services-website-still-down
 SYC,gov.sc,Seychelles,eservices,,Government of Seychelles,,2026-06-23-nation-sc-revamped-govsc-portal
 SYC,monServis,Seychelles,eservices,,Government of Seychelles,,2024-01-01-monservis-government-services-portal
 SYC,SeyID,Seychelles,other,,Government of Seychelles,,2024-01-01-monservis-government-services-portal

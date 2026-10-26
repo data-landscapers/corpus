@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24-sen-ousmane-sonko-prone-une-coordination-renforcee-pour-reussir-la-transfo",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Prime Minister Ousmane Sonko presented the single citizen window (guichet unique du citoyen), through which users would apply for and follow public services remotely, and announced an online consular services platform, at the 24 March 2026 launch of New Deal technologique projects.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Guichet unique du citoyen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique du citoyen",
+   "country_label": "Guichet unique du citoyen",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Senegal",
+   "tiers": ""
+  }
+ ],
+ "note": "No count of services online, national ID sign-in or usage figure stated."
+}

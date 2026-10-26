@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-04-moz-nampula-inage-ip-capacita-47-funcionarios-do-estado-em-uso-do-sistema",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema Nacional de Gestão Documental (e-SNGD)",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "INAGE, IP",
+   "tiers": ""
+  }
+ ],
+ "note": "The e-SNGD is an internal document-handling system for state institutions; no service for citizens or businesses is stated."
+}

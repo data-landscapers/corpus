@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The E-Government Director said citizens increasingly interact with public institutions through the 'Boma Lathu' e-services portal; no count of services given.",
+   "as_of": "2024-09-20",
+   "date_precision": "day",
+   "system": "Boma Lathu",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Boma Lathu",
+   "country_label": "Malawi",
+   "class": "eservices",
+   "platform": "web portal",
+   "owner": "Ministry of Information and Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

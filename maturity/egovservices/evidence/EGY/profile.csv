@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,eservices,services,coverage,inservice,2026-09-20,EGY-001;EGY-006,EGY-007=underway;EGY-004=underway;EGY-003=underway;EGY-002=underway;EGY-005=underway,
+EGY,eservices,services,coverage,inservice,2026-10-24,EGY-001;EGY-006;EGY-008,EGY-007=underway;EGY-004=underway;EGY-003=underway;EGY-002=underway;EGY-005=underway,
 EGY,eservices,gateway,coverage,,,,,nothing held
 EGY,eservices,usage,coverage,,,,,nothing held

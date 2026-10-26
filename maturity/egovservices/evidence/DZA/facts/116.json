@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-dza-habitat-inscription-de-545-000-logements-dans-le-plf-2027",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The housing minister told the National Assembly finance committee that four housing-ministry services for citizens, operators and regulated professions (engineers, estate agents, promoters, contractor classification) had been added to the national digital services portal, and that AADL 3 registration, appeals and payment orders had been digitised.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "national digital services portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national digital services portal",
+   "country_label": "Algeria",
+   "class": "eservices",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

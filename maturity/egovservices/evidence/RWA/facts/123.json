@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-23-rwa-rwandans-report-lower-satisfaction-with-public-services-new-scorecard",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The 13th Rwanda Governance Scorecard (RGB, 22 October 2026) reports satisfaction with Irembo, the government services platform, at 81.80%, down 5.60 points on the previous assessment.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Irembo",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The scorecard cites 2024 Ministry of ICT and Innovation data that only 11% of government services were fully digitised, letting users complete the process online without other channels.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Government services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Irembo",
+   "country_label": "Irembo",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

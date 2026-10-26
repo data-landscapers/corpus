@@ -2,3 +2,7 @@ iso3,n,aspect,value,action,why
 BEN,006,usage,published,removed,"requests to the land agency's own service, not the national portal"
 MOZ,006,usage,published,removed,a portal not yet launched
 MRT,005,services,underway,removed,"Stage 4c: a platform listed among planned projects, not launched or piloted"
+RWA,005,services,inservice,revalued: underway,Stage 4c: a satisfaction score for the platform gives no count of services online
+RWA,006,services,inservice,revalued: underway,Stage 4c: a share of services fully digitised gives no count of ten or more
+SOM,003,services,inservice,revalued: underway,"Stage 4c: one service, the eVisa, is not ten or more"
+STP,004,services,inservice,revalued: underway,Stage 4c: four documents through one embassy portal are not ten or more services

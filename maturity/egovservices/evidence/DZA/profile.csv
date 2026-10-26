@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,eservices,services,coverage,inservice,2026-10-21,DZA-004;DZA-009;DZA-014,DZA-013=underway;DZA-011=underway;DZA-006=underway;DZA-007=underway;DZA-008=underway;DZA-001=underway;DZA-003=underway;DZA-005=underway;DZA-012=underway;DZA-010=underway,
-DZA,eservices,gateway,coverage,,,,,nothing held
+DZA,eservices,services,coverage,inservice,2026-10-21,DZA-004;DZA-009;DZA-014;DZA-016,DZA-015=underway;DZA-013=underway;DZA-011=underway;DZA-006=underway;DZA-007=underway;DZA-008=underway;DZA-001=underway;DZA-003=underway;DZA-005=underway;DZA-012=underway;DZA-018=underway;DZA-010=underway,
+DZA,eservices,gateway,coverage,single,2026-07-14,DZA-017,,
 DZA,eservices,usage,coverage,published,2026-08-23,DZA-002,,

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-11-stp-government-launches-document-issuance-system-at-the-embassy-of-sao-tom",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "São Tomé and Príncipe's foreign ministry launched a Document Issuance System at its embassy in Portugal, letting the diaspora request birth certificates, the national identity card, criminal record certificates and certificates of legal capacity to marry through a digital portal of the Directorate-General for Registry and Notary.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Document Issuance System",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Document Issuance System",
+   "country_label": "São Tomé and Príncipe",
+   "class": "eservices",
+   "platform": "digital portal",
+   "owner": "Directorate-General for Registry and Notary",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

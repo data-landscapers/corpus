@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-21-som-somali-federal-government-says-evisa-dispute-with-somaliland-resolved-but-hargeisa-denies-agreement",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Somalia introduced its Electronic Travel Authorization System (eVisa) in September 2025, requiring foreign travellers to obtain authorization online before travelling, which the federal Immigration and Citizenship Agency describes as a unified national entry system.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Electronic Travel Authorization System (eVisa)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Travel Authorization System (eVisa)",
+   "country_label": "Somalia",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Immigration and Citizenship Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

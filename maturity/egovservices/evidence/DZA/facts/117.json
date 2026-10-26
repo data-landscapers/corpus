@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-14-dza-elmassar-national-digital-services-portal-21-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Louail said the National Digital Services Portal offers 21 services in its first phase, including civil status certificates, residence and family status certificates, social security attestations, unemployment benefit and disability card services, with more to follow.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "National Digital Services Portal",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The one national portal carries services of the interior, transport, labour and social security and solidarity sectors, and users sign up for a temporary digital identity with their national ID number and personal details, per Louail.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "National Digital Services Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Services Portal",
+   "country_label": "National Digital Services Portal (21 services)",
+   "class": "eservices",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
