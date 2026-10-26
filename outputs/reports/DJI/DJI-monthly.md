@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: DJI
-ledger_rows: 18
+ledger_rows: 19
 not_held: 11
-record: 0cb6e5ed30d9
+record: ed364c26ae59
 ---
 
 # News, Sep – Oct 2026
@@ -119,6 +119,20 @@ The World Bank Group's private sector diagnostic for Djibouti, released on 13 Se
 **[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
 
 Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial fibre project to Google, Meta, Microsoft, Amazon and other carriers and vendors in Addis Ababa on 7 September 2026. The multi-terabit link would connect cable landing stations in Djibouti and Port Sudan through Ethiopia, reducing reliance on Red Sea submarine cables. No cost or launch date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Djibouti Digital Foundation and EARDIP domestic fibre rollout</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Deux projets numériques de 30 millions de dollars passés en revue, avec un appel à accélérer](https://www.adi.dj/public/article/139032)** — ADI Djibouti, 25 October 2026
+
+DFN US$10m: 26 of 35 activities done, 56% disbursed, closes 30 June 2027; EARDIP US$20m works await studies.
 
 </div>
 
