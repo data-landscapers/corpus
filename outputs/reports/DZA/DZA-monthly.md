@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: DZA
 ledger_rows: 50
 not_held: 5
-record: b2c52212b098
+record: bce8f3474ad8
 ---
 
 # News, Sep – Oct 2026
@@ -412,7 +412,7 @@ Algeria's digitalisation commission set out how the national digital identity is
 
 **[La CNAS examine l'intégration de la certification électronique dans le traitement des documents](https://algerie-eco.com/2026/10/22/la-cnas-examine-lintegration-de-la-certification-electronique-dans-le-traitement-des-documents/)** — Algérie Eco, 22 October 2026
 
-Social-security fund and AGCE plan e-signature for payment-centre documents and electronic archiving.
+The acting director-general of Algeria's salaried workers' social insurance fund (CNAS) met the head of the government electronic certification authority (AGCE) to work out the technical and organisational steps for bringing electronic signatures into document handling. The project is meant to move the fund's payment centres gradually from paper to electronic processing, guard against forgery and fraud, and prepare a wider rollout of electronic document management and archiving.
 
 </div>
 

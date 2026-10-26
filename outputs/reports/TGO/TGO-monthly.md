@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: TGO
 ledger_rows: 61
 not_held: 17
-record: 92b276fea32b
+record: 283300dfbf77
 ---
 
 # News, Sep – Oct 2026
@@ -902,7 +902,7 @@ UNDP Togo reports on the launch of the national local-languages challenge under 
 
 **[African governments become customers for local AI](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)** — Investdesk Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-Togo, Kenya, Rwanda, Lesotho cases; UN call for African AI products closed 2 Oct, showcase in Accra.
+African public agencies are starting to buy locally built AI tools for welfare, health and procurement, partly to keep public data under local control, though tight budgets and limited data access hold startups back. Togo's AI laboratory, which grew out of using phone and satellite data to target Novissi pandemic cash transfers, now works with more than ten agencies on over 70 projects, and Kenya and Rwanda are also looking for local applications. A UN-backed call run with the ITU and Research ICT Africa, which closed on 2 October, is selecting African AI products to present to officials in Accra.
 
 </div>
 

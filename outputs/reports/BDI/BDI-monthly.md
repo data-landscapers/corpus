@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: BDI
 ledger_rows: 23
 not_held: 10
-record: 83eff808c435
+record: e1f11a7ef05a
 ---
 
 # News, Sep – Oct 2026
@@ -338,7 +338,7 @@ Burundi's presidency adopted Gasape Chat, a locally built messaging application,
 
 **[BUTIHINDA : La digitalisation de la gestion comptable, budgétaire et financière se modernise grâce au logiciel AK-SOFT](https://communebutihinda.gov.bi/butihinda-la-digitalisation-de-la-gestion-comptable-budgetaire-et-financiere-se-modernise-grace-au-logiciel-ak-soft/)** — Commune de Butihinda, 25 October 2026
 
-Zonal accountants trained after Primature workshop; FY2025-26 data being keyed in; unstable Internet flagged.
+Butihinda commune in Burundi held a practical session on 24 and 25 October 2026 for its zonal assistant accountants and tax collectors on AK-SOFT, integrated software for communal accounting, budget and financial management, following a Primature workshop for communal finance officers at Buhumuza on 20 to 23 October. Staff are entering the commune's revenue and spending from 1 July 2025 through the first quarter of fiscal 2026-27; participants asked for more training and said they need stable internet and continuing technical support.
 
 </div>
 
@@ -418,7 +418,7 @@ Summarised under [AI](#ai).
 
 **[La transformation numérique ne se résume pas aux infrastructures (post de Bienvenu Irakoze, coordonnateur du PAFEN)](https://www.linkedin.com/feed/update/urn:li:activity:7509922575322566656)** — Bienvenu Irakoze, PAFEN coordinator (LinkedIn), 27 September 2026
 
-PAFEN coordinator: 5,000 civil servants and 10,000 young people to get basic digital skills within 12 months.
+Bienvenu Irakoze, coordinator of Burundi's World Bank-backed PAFEN digital programme, wrote that the project will soon start a basic digital skills programme to train 5,000 civil servants and 10,000 young people within 12 months. He said the project also works with innovation hubs and startups, and set the training alongside its spending on infrastructure and platforms.
 
 </div>
 

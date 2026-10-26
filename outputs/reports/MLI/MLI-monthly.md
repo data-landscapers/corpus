@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: MLI
 ledger_rows: 18
 not_held: 2
-record: 810583aa93db
+record: 8710c5f0b6ea
 ---
 
 # News, Sep – Oct 2026
@@ -314,7 +314,7 @@ Mali's universal-access fund agency AGEFAU is paying for a programme to train 50
 
 **[Koutiala : 84 élus et agents de collectivités en formation sur les outils numériques](https://www.studiotamani.org/208761-koutiala-84-elus-et-agents-de-collectivites-en-formation-sur-les-outils-numeriques)** — Studio Tamani, 7 October 2026
 
-84 councillors and staff from 21 communes trained in office and collaborative tools at Koutiala.
+Eighty-four councillors and local government staff from 21 communes began a five-day course in office and collaborative software at Koutiala, Mali, on 6 October. The Centre de Formation des Collectivités Territoriales runs it with Koutiala town hall to improve local administration and public service.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: CPV
 ledger_rows: 21
 not_held: 28
-record: 797db16eae6c
+record: 4384c73b6594
 ---
 
 # News, Sep – Oct 2026
@@ -162,7 +162,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Cabo Verde: Starlink Triplica Quota de Tráfego de Internet e já Representa 18% do Total](https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total)** — Diário Económico, 24 October 2026
 
-ARME Q2 2026 data via Lusa; Starlink 18% of traffic on 0.87% of subscriptions; CV Telecom traffic share 89% to 78%.
+Figures from Cabo Verde's regulator ARME, reported by Lusa, show Starlink's share of national internet traffic rising from 6% in the second quarter of 2025 to 18% a year later, although it held only 0.87% of internet subscriptions at the end of June. Over the same period Cabo Verde Telecom's traffic share fell from 89% to 78% and Unitel's from 6% to 4%; the country had 500,263 internet subscriptions, 85% of them mobile broadband.
 
 </div>
 
@@ -236,7 +236,7 @@ The Banco de Cabo Verde reported on 14 September 2026 that residents made 4,992,
 
 **[BCV prevê lançar projecto-piloto do sistema de pagamentos Speed antes do final do ano](https://www.inforpress.cv/en/bcv-preve-lancar-projecto-piloto-do-sistema-de-pagamentos-speed-antes-do-final-do-ano-c-audio-1)** — Inforpress, 23 October 2026
 
-Pilot on one island or remote locality before end-2026; BCV bears early costs; banks, telcos, regulator still to agree.
+Banco de Cabo Verde governor Óscar Santos said in Mindelo on 23 October 2026 that the central bank plans to pilot its Speed system, which lets people pay by mobile phone even without a balance, on one island or remote locality before the end of the year. The launch still depends on agreement with banks, telecom operators and the regulator over running costs, which the BCV will bear at first; he put the banked share of the population at close to 90%.
 
 </div>
 
@@ -244,7 +244,7 @@ Pilot on one island or remote locality before end-2026; BCV bears early costs; b
 
 **[BCV volta a prometer projecto-piloto de pagamento Speed](https://mindelinsite.com/economia/bcv-volta-a-prometer-projecto-piloto-de-pagamento-speed/)** — Mindel Insite, 24 October 2026
 
-Second promise of the Speed pilot; first announced December 2025 for entry into force in Q1 2026.
+Banco de Cabo Verde governor Óscar Santos again promised a pilot of the Speed mobile payment system before the end of 2026, on one island or remote locality; the system was first announced in December 2025 to start in the first quarter of this year. He said the launch still depends on agreement with banks, telecom operators and the regulator over running costs, which the central bank will cover at first.
 
 </div>
 

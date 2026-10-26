@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: XAF
 ledger_rows: 120
 not_held: 3
-record: ac38d4ea89fb
+record: 6215e0d77b20
 ---
 
 # News, Sep – Oct 2026
@@ -954,7 +954,7 @@ The World Bank Group launched its first digital strategy in Seoul on 20 October 
 
 **[African governments become customers for local AI](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)** — Investdesk Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
-Togo, Kenya, Rwanda, Lesotho cases; UN call for African AI products closed 2 Oct, showcase in Accra.
+African public agencies are starting to buy locally built AI tools for welfare, health and procurement, partly to keep public data under local control, though tight budgets and limited data access hold startups back. Togo's AI laboratory, which grew out of using phone and satellite data to target Novissi pandemic cash transfers, now works with more than ten agencies on over 70 projects, and Kenya and Rwanda are also looking for local applications. A UN-backed call run with the ITU and Research ICT Africa, which closed on 2 October, is selecting African AI products to present to officials in Accra.
 
 </div>
 
@@ -1758,7 +1758,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[Expanding RMB payments, financing in Africa](https://www.chinadaily.com.cn/a/202610/22/WS6ad97f1ce4b06d4aa05642ef.html)** — China Daily, 22 October 2026
 
-Unveiled in Beijing 19 Oct 2026; RMB 10bn+ interbank facility; wider CIPS reach; RMB guide for 19 African states.
+ICBC and Standard Bank Group, authorised in June as joint renminbi clearing bank for Africa, announced ten measures in Beijing on 19 October to expand RMB payments, financing and clearing on the continent. They include an interbank financing facility of more than RMB 10 billion for African financial institutions, wider coverage of China's CIPS payment system among African institutions and a guide to using the RMB in 19 African countries; China's central bank said RMB flows tied to China-Africa goods trade rose 40% in 2025.
 
 </div>
 

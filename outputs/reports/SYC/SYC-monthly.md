@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: SYC
 ledger_rows: 15
 not_held: 6
-record: f3ac34597aa4
+record: 2e53c704092e
 ---
 
 # News, Sep – Oct 2026
@@ -322,7 +322,7 @@ Seychelles scored 0.84 out of 4 on the Africa AI Governance Index 2026, in the N
 
 **[27 civil servants head to India for executive training programme](https://nation.sc/articles/32585/27-civil-servants-head-to-india-for-executive-training-programme)** — Seychelles Nation, 2 October 2026
 
-Second cohort of 27 officers leaves for a two-week Delhi–Mussoorie course on technology in governance, 5–16 Oct.
+A second cohort of 27 Seychelles civil servants was sent off at the Indian High Commission ahead of a two-week executive course in Delhi and Mussoorie from 5 to 16 October, focused on technology and its use in governance. The rest of the article is behind a paywall.
 
 </div>
 

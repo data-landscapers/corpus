@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: SEN
 ledger_rows: 70
 not_held: 2
-record: b5214c40afd0
+record: fdb1679e2a84
 ---
 
 # News, Sep – Oct 2026
@@ -820,7 +820,7 @@ Senegal's land programme PROCASEF and the Seen Suuf project held a workshop in F
 
 **[Homologation des médicaments : l’ARP fait le pari de la dématérialisation des procédures](https://aps.sn/homologation-des-medicaments-larp-fait-le-pari-de-la-dematerialisation-des-procedures/)** — APS, 23 October 2026
 
-Online CTD dossier filing and tracking; first module of a system linking imports, trials, licences, pharmacovigilance.
+Senegal's pharmaceutical regulator, the Agence sénégalaise de réglementation pharmaceutique (ARP), launched an online platform for medicines marketing authorisation on 23 October 2026, on which applicants file CTD-format dossiers and follow their progress on a single portal with each step traced. The module is the first part of an integrated regulatory information system meant to connect imports, clinical trials, licensing, batch release and pharmacovigilance.
 
 </div>
 
@@ -1132,7 +1132,7 @@ Senegal's civil service ministry held a national workshop in Dakar to validate t
 
 **[Le Sénégal adopte son plan de formation numérique des agents de l'État](https://www.force-n.sn/articles/le-senegal-adopte-son-plan-de-formation-numerique-des-agents-de-letat)** — FORCE-N, 11 September 2026
 
-Plan validated 10 September 2026 targets all 183,502 state agents by 2029; 57% of surveyed agents at beginner level.
+Ministries and partners meeting in Dakar on 10 September validated Senegal's 2026-2029 national plan for state employees' digital skills, which aims to train all 183,502 state agents through a 25-module common core, ten sectoral programmes of 150 modules and an acculturation track for the 35,857 least digitally prepared, backed by 500 ambassadors. A survey of 1,878 agents found 57% at beginner level and 15% advanced; in a pilot with 583 agents early in 2026, 88 to 92% of those who sat the certification passed but 70% of those enrolled did not sit it. The FORCE-N programme, run by the Université numérique Cheikh Hamidou Kane with the Mastercard Foundation, designed the plan and supplies its online platform.
 
 </div>
 
@@ -1164,7 +1164,7 @@ Senegal validated a national digital training plan for civil servants on 10 Sept
 
 **[IA - Administration publique : Le Sénégal refuse de subir le diktat du numérique](https://lequotidien.sn/ia-administration-publique-le-senegal-refuse-de-subir-le-diktat-du-numerique/)** — Le Quotidien, 12 September 2026
 
-35,857 agents flagged for priority training; targets of 70% exam participation, 75% pass rate, 80% reach.
+Senegal's public service and telecommunications ministries, with the FORCE-N programme, validated a national training plan to give state employees digital and AI skills, with priority training for more than 35,000 agents. A first programme of five modules is ready to deploy, covering grades A, B and C plus modules for managers, and the plan targets at least 70% participation in exams and a 75% pass rate. A pilot early in 2026 trained 583 staff from the industry, digital and public service ministries and showed heavy drop-out at the exam stage.
 
 </div>
 

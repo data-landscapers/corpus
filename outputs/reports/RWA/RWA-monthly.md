@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: RWA
 ledger_rows: 50
 not_held: 7
-record: cf4bccc2aa0e
+record: 62455390ef6c
 ---
 
 # News, Sep – Oct 2026
@@ -68,7 +68,7 @@ Rwanda's ICT minister of state Yves Iradukunda told the Global AI and Digital Su
 
 **[Rwanda can be Korea's AI entry point to Africa: minister](https://www.koreaherald.com/article/10911470)** — The Korea Herald, 22 October 2026
 
-Iradukunda in Seoul: AI agency's 'AI Factory' unit, cost-recovery model, bid for Korean data-centre investment.
+On his first visit to South Korea, Rwanda's minister of state for ICT and innovation Yves Iradukunda pitched Rwanda as an entry point for Korean technology firms into Africa and sought Korean investment in data centres, proposing that countries share such infrastructure regionally. He said Rwanda's new government-owned AI agency, coming into operation through 2026, will run an 'AI Factory' unit that builds and tests applications with private partners, help firms reach data and computing, and aim to recover part of its costs by charging for development, training and compute.
 
 </div>
 
@@ -638,7 +638,7 @@ Rwanda's public-sector HR platform, IPPIS, offers a REST API through which appro
 
 **[Rwandans report lower satisfaction with public services, new scorecard shows](https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/)** — Rwanda Dispatch, 23 October 2026
 
-13th RGB scorecard: service delivery 68.48%, digital services 60.98%, Irembo 81.80%; 11% of services fully online.
+The Rwanda Governance Board's 13th Rwanda Governance Scorecard, published on 22 October 2026, scored service delivery at 68.48%, down from 71.73% and the lowest of its eight categories, while security and public order stood at 90.15%. Digitally delivered services scored 60.98% against 77.83% for services from public institutions, businesses and NGOs; satisfaction with the Irembo platform fell 5.60 points to 81.80% and e-court filing 13.60 points to 65.40%, and the report cited ICT ministry data that only 11% of government services were fully online in 2024.
 
 </div>
 

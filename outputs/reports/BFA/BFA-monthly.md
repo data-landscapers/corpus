@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: BFA
 ledger_rows: 52
 not_held: 7
-record: 725f670fce9c
+record: a0fbdda6ee5f
 ---
 
 # News, Sep – Oct 2026
@@ -308,7 +308,7 @@ Burkina Faso's central cybercrime brigade recorded 6,477 complaints and FCFA 2.2
 
 **[Burkina/Sécurité numérique : L'Agence nationale de sécurité des systèmes d'information a lancé officiellement le Réseau national des RSSI et points focaux cyber](https://lefaso.net/spip.php?article150183=)** — LeFaso.net, 23 October 2026
 
-ANSSI launches national RSSI and cyber focal-point network, 23 Oct 2026; ministries told to name security officers.
+Burkina Faso's information systems security agency ANSSI launched a national network of information systems security officers (RSSI) and cyber focal points in Ouagadougou on 23 October 2026. The network is meant to give ministries and public institutions a standing framework for coordination, information sharing and capacity building on cyber risks and incidents, and institutions were asked to designate security officers and give them resources.
 
 </div>
 
@@ -514,7 +514,7 @@ Orange Burkina Faso relaunched its Max It app on 18 September 2026 with a promot
 
 **[Protection des consommateurs : « La saisine de l'Observatoire de la qualité des services financiers est totalement gratuite », Sahouba Kabré](https://lefaso.net/spip.php?article149951=)** — leFaso.net, 13 October 2026
 
-Free financial mediator: 220+ cases since 2022, ~92% settled amicably; e-money disputes in scope; 5,000 to reach.
+In an interview, Sahouba Kabré of Burkina Faso's Observatoire de la qualité des services financiers (OQSF-BF) said the body, housed within the national inclusive-finance agency ANPFI under a BCEAO approach shared across UEMOA, mediates free of charge in disputes between customers and banks, microfinance institutions, insurers and electronic-money operators. He said more than 220 cases have been handled, about 92% settled amicably, and urged the public to learn about the service.
 
 </div>
 
@@ -824,7 +824,7 @@ Burkina Faso's virtual Faso Digital 2026 fair opened on 17 October 2026 with 201
 
 **[Burkina Faso : vers la création d'un fonds de soutien aux startups numériques ?](https://digitalmagazine.bf/2026/10/25/burkina-faso-vers-la-creation-dun-fonds-de-soutien-aux-startups-numeriques/)** — Digital Magazine Burkina, 25 October 2026
 
-Ministry consults ecosystem 21 Oct 2026 on Ouagadougou ICT mini-technopole and startup fund; terms undefined.
+Burkina Faso's digital transition ministry met startups, SMEs, incubators, universities and partners in Ouagadougou on 21 October 2026 to gather their expectations for two projects in preparation: the services of a planned Mini-Technopôle TIC de Ouagadougou and a support fund for digital startups. The fund's amounts, eligibility rules and timetable are still to be set once the consultation ends.
 
 </div>
 

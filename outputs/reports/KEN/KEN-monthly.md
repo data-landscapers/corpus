@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: KEN
 ledger_rows: 151
 not_held: 7
-record: 435663db3b90
+record: b89c1d09d2ea
 ---
 
 # News, Sep – Oct 2026
@@ -1870,7 +1870,7 @@ Murang'a County has petitioned Kenya's High Court against the Ministry of Health
 
 **[PS Oluga calls for accountability, fast-tracking of healthcare digitisation](https://www.kbc.co.ke/oluga-calls-for-accountability-fast-tracking-of-healthcare-digitisation/)** — KBC Digital, 22 October 2026
 
-UHC digital programme review with Safaricom Consortium, DHA, SHA, KEMSA; subcontractor accountability first.
+Kenya's Principal Secretary for Medical Services, Ouma Oluga, chaired the steering committee of the Healthcare IT Digitisation Programme with the Safaricom Consortium, the Digital Health Authority, the Social Health Authority and KEMSA to review progress under the UHC digital transformation programme. He set four priorities for the next phase: holding subcontractors to their obligations, tracking project investments more visibly, speeding up delivery of infrastructure, equipment and systems, and making sure facilities and patients see real benefits.
 
 </div>
 
@@ -2440,7 +2440,7 @@ Kenya's ICT Authority signed a letter of intent in Seoul with the Korea Data Age
 
 **[Kenya’s language data holds promise for AI-powered services](https://capitalfm.africa/kenyas-language-data-holds-promise-for-ai-powered-services/)** — Capital FM Kenya, 22 October 2026
 
-Teknobyte's KENGLEX lists 133,000+ Kenyan English words; researchers urge community say in language-data licensing.
+Kenyan researchers are calling for more investment in local language data for AI services, pointing to Teknobyte's Kenya Languages Lexicon (KENGLEX), which documents more than 133,000 words of Kenyan English with meanings and pronunciations for use in speech recognition, translation and text-to-speech. Swahili has the most language resources in Kenya, while many indigenous languages have no public models, and NLP researcher Cynthia Amol argued that communities should have a say in how their language data is collected, licensed and paid for.
 
 </div>
 

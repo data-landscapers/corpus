@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: SWZ
 ledger_rows: 43
 not_held: 3
-record: 95f74834ca90
+record: 95f553928123
 ---
 
 # News, Sep – Oct 2026
@@ -242,7 +242,7 @@ Eswatini's police have engaged INTERPOL over the incident at the National Data C
 
 **[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
 
-Ministry statement 23 Oct 2026; GIYH, e-Visa, Social Registry, IFMIS back; cause of outage not stated.
+Eswatini's ICT ministry said on 23 October 2026 that 13 government online services hit by disruptions had been restored with the Royal Science and Technology Park, among them the Government in Your Hand platform, e-Visa, the Social Registry, the elderly and disability grants system and IFMIS. The government website and other platforms were still being restored, and the statement gave no cause for the outage.
 
 </div>
 

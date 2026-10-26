@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: EGY
 ledger_rows: 103
 not_held: 41
-record: ba5d877823e3
+record: 2883d873b297
 ---
 
 # News, Sep – Oct 2026
@@ -104,7 +104,7 @@ Egypt's communications minister, Raafat Hendy, met the regulator NTRA's reconsti
 
 **[Egypt Forum 2026 outlines sweeping development agenda to raise living standards, boost growth](https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living)** — EgyptToday, 24 October 2026
 
-Directives to 2030; Digital Egypt 250 to 500 services by end-2026; base fixed-internet packages doubled to 100 GB.
+Prime Minister Mostafa Madbouly announced the closing recommendations of Egypt Forum 2026, issued as presidential directives with targets running to 2030, covering wages, housing, health, education and industry. On digital government they aim to digitise all public services within three years and to double the Digital Egypt platform's 250 services to 500 by the close of 2026, and basic fixed-internet packages are to go from 50 GB to 100 GB.
 
 </div>
 
@@ -1594,7 +1594,7 @@ Egypt's communications ministry signed a three-year memorandum with Intel on 16 
 
 **[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
-USD 2.4m Google.org grant to INJAZ Al-Arab; Abtal Al Internet in nine MENA countries, 2.3m students over four years.
+Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its Arabic online-safety curriculum, Abtal Al Internet (Be Internet Awesome), into classrooms in nine Middle East and North African countries over four years, aiming to reach more than 2.3 million students in countries including Egypt, Morocco and Tunisia. The curriculum covers misinformation, scams, cyberbullying and protecting private data; Google also set out default protections for users under 18 on its platforms.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: UGA
 ledger_rows: 75
 not_held: 11
-record: 246d2e8472b4
+record: fdf325e67ff2
 ---
 
 # News, Sep – Oct 2026
@@ -1392,7 +1392,7 @@ A rural community broadband network built by the Women of Uganda Network with ne
 
 **[Uganda’s digital skills gap threatens jobs despite expanding connectivity – UCC](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)** — PML Daily, 22 October 2026
 
-UCC-British Council dialogue; 43.3% phone ownership (2024 census); 13,000 women trained under UCUSAF 2020-2026.
+At a dialogue on Uganda's digital skills held by the Uganda Communications Commission with the British Council, information minister of state Nabbosa Sebugwawo called for more affordable devices and access, better recognition of digital skills and measuring whether trainees go on to use them. The 2024 census found 43.3% of Ugandans aged 10 and over owned a mobile phone, 53.7% in towns against 37% in rural areas; UCC said its universal service fund had trained more than 13,000 women and reached over 11,000 people in rural education programmes between 2020 and 2026.
 
 </div>
 

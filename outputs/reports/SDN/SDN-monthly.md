@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: SDN
 ledger_rows: 34
 not_held: 5
-record: be78dc486597
+record: 0d7f83b35009
 ---
 
 # News, Sep – Oct 2026
@@ -64,7 +64,7 @@ An analysis of the Central Bank of Sudan's 2026–2030 strategic plan, published
 
 **[بينها النفط والشائعات.. تفاصيل مرسوم تعديلات 6 قوانين رئيسية](https://sudaray.com/171961)** — Sudaray, 21 October 2026
 
-Gazette supplement to Issue 1982, 19 Oct 2026: Provisional Decree 7 amends six laws incl. the 1991 Criminal Act.
+Sudan's official gazette of 19 October 2026 published Provisional Decree 7 of 2026, the Miscellaneous Amendments Act, which changes six laws including the 1998 petroleum law, the 1991 Criminal Act, the companies act and the laws on the justice ministry and public prosecution. Among the criminal-law changes, the offence of publishing false news now explicitly covers publication through electronic or media channels, with the penalty unchanged; the decree also exempts anti-smuggling forces from criminal liability when pursuing smugglers.
 
 </div>
 
@@ -80,7 +80,7 @@ Sudan's journalists' syndicate and rights groups oppose a justice ministry amend
 
 **[Sudanese Journalists Syndicate Rejects Criminal Law Amendment and Cybercrime Mechanism](https://en.sudannow.net/sudanese-journalists-syndicate-rejects-criminal-law-amendment-and-cybercrime-mechanism/)** — Sudan Now, 23 October 2026
 
-Names Temporary Decree No. 7 of 2026 as the amendment's vehicle; mechanism formed 19 October may monitor media.
+The Sudanese Journalists Syndicate rejected an amendment made by Temporary Decree No. 7 of 2026 that extends a 1991 Criminal Act provision on undermining the constitutional order, which carries penalties up to death or life imprisonment, to publication through electronic and media platforms. It also opposed the National Mechanism to Combat Cybercrime that the prime minister ordered formed on 19 October, whose remit includes monitoring media and social media content and bringing cases on the state's behalf, and called for both to be withdrawn and the cybercrime law reviewed.
 
 </div>
 
@@ -88,7 +88,7 @@ Names Temporary Decree No. 7 of 2026 as the amendment's vehicle; mechanism forme
 
 **[Journalists, politicians face death penalty under Sudan legal amendment, activists warn](https://www.newarab.com/news/sudan-legal-amendment-puts-journalists-risk-death-penalty)** — The New Arab, 24 October 2026
 
-Burhan's temporary decree, gazetted in a special supplement, extends Article 51 to electronic and media publishing.
+Rights groups and activists warn that a temporary decree issued by army commander Abdel Fattah al-Burhan under Sudan's Miscellaneous Amendments Act of 2026 extends Article 51 of the 1991 criminal code, on inciting war against the state and punishable by death or life imprisonment, to electronic and media publications. They say it is likely to be used against dissent alongside the new cybercrime mechanism, and local reports describe a marked fall in social-media posting from Sudan since the change.
 
 </div>
 

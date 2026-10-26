@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: MRT
 ledger_rows: 27
 not_held: 3
-record: 2b1fc20ecff0
+record: a322f19ca1aa
 ---
 
 # News, Sep – Oct 2026
@@ -386,7 +386,7 @@ Mauritania's education ministry opened pupil registration and transfers for the 
 
 **[وزيرا الصحة والتحول الرقمي يترأسان اجتماعا لبحث الاجراءات الكفيلة برقمنة المراكز الصحية الجديدة](https://www.ami.mr/archives/271266)** — Agence Mauritanienne d'Information (AMI), 24 October 2026
 
-Joint health and digital technical team to visit centres and close gaps; centres due to open within days.
+Mauritania's health minister and minister of digital transformation met in Nouakchott on 24 October 2026 on making the new health centres built under the capital's emergency development programme digitally ready before they open in the coming days. They agreed to form a joint technical team to visit the centres, set out each one's requirements and close the gaps found.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: MDG
 ledger_rows: 37
 not_held: 5
-record: 9888ad68b209
+record: 03edc79a0b01
 ---
 
 # News, Sep – Oct 2026
@@ -128,7 +128,7 @@ Madagascar's cybercrime bill was left off the agenda of the extraordinary sessio
 
 **[Lutte contre la cybercriminalité: les Parlementaires réexaminent le projet de loi](https://newsmada.com/2026/10/24/lutte-contre-la-cybercriminalite-les-parlementaires-reexaminent-le-projet-de-loi/)** — Newsmada, 24 October 2026
 
-Committee review set for 2 Nov 2026; access-to-public-information bill 017/2025 also on the session agenda.
+Madagascar's 96-article cybercrime bill n° 042/2026, which would replace the 2014 law and was postponed at September's extraordinary session, returns to committee in the National Assembly on 2 November. Contested provisions include article 75, giving a new digital investigation unit (UPIN) permanent direct access to operators' systems with fines of 100 to 500 million ariary for refusal, and article 52 on criminal liability for administrators of pages and groups; the access-to-public-information bill n° 017/2025 is also on the session's agenda.
 
 </div>
 

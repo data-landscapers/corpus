@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: LBR
 ledger_rows: 39
 not_held: 6
-record: 4c9de11a2c7f
+record: 611b20f4dbaf
 ---
 
 # News, Sep – Oct 2026
@@ -850,7 +850,7 @@ Liberia's Independent Information Commission and the anti-corruption group CENTA
 
 **[PUL Condemns Government’s Assault on Freedom of Information and Transparency; Calls for Immediate Withdrawal of Confidentiality Policy Undermining the FOI Act - Liberia Public Radio](https://liberiapublicradio.com/2026/10/24/pul-condemns-governments-assault-on-freedom-of-information-and-transparency-calls-for-immediate-withdrawal-of-confidentiality-policy-undermining-the-foi-act/)** — Liberia Public Radio, 24 October 2026
 
-Civil Service Agency gag agreement opposed by the information commission; most agencies lack information officers.
+At a Governance Commission policy dialogue, the Press Union of Liberia called for the immediate withdrawal of a confidentiality and non-disclosure agreement the Civil Service Agency has introduced for civil servants, saying it overturns the Freedom of Information Act and strips the Independent Information Commission, which opposed it, of its authority. The union also said most agencies the commission assessed had not appointed public information officers and that Liberia lacks an enforceable data-protection framework.
 
 </div>
 

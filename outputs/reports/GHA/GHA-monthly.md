@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: GHA
 ledger_rows: 118
 not_held: 9
-record: 4215f09a51ca
+record: 001e0942a957
 ---
 
 # News, Sep – Oct 2026
@@ -1880,7 +1880,7 @@ Ghana's communications minister Sam George said every ministry now has an AI foc
 
 **[Rebased GDP Quarterly Bulletin 2006-2026Q2, September 2026 Edition]()** — Ghana Statistical Service, 1 September 2026
 
-Information & Communication 3.48% of GDP in 2026 Q2 (provisional), up 30.9% year on year in real terms.
+The Ghana Statistical Service's September 2026 quarterly GDP bulletin carries final rebased estimates from 2006 to 2023, revised figures for 2024 to the first quarter of 2026 and provisional figures for the second quarter of 2026, at constant 2013 prices. In its provisional second-quarter figures, information and communication made up 3.48% of GDP and grew 30.9% year on year in real terms.
 
 </div>
 

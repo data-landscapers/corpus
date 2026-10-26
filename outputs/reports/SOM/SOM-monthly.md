@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: SOM
 ledger_rows: 26
 not_held: 1
-record: e7652bd8ce32
+record: c65262f0d11b
 ---
 
 # News, Sep – Oct 2026
@@ -444,7 +444,7 @@ Somalia scored 1.50 out of 4 on the Africa AI Governance Index 2026, in the Emer
 
 **[National Institute of Telecommunications Launches Digital Skills Training for Government Employees](https://sonna.so/en/article/National-Institute-of-Telecommunications-Launches-Digital-Skills-Training-for-Government-Employees)** — SONNA, 17 October 2026
 
-Ministry's NTTI opens civil-servant digital programme with a data-protection and information-security workshop.
+Somalia's National Institute of Telecommunications and Technology, part of the communications ministry, launched a programme to build government employees' digital skills, opening with a workshop on data protection, information security and privacy. The ministry says it wants the institute to take the lead in training civil servants and building public institutions' capacity.
 
 </div>
 

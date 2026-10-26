@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: CIV
 ledger_rows: 51
 not_held: 10
-record: cb819da9b5d1
+record: 2e648199f96c
 ---
 
 # News, Sep – Oct 2026
@@ -940,7 +940,7 @@ Côte d'Ivoire's finance ministry launched a Fintech Sector Support Project in A
 
 **[Côte d'Ivoire Welcomes Economic Innovation Through Blockchain and Digital Assets](https://cryptoafrica.news/cote-divoire-welcomes-economic-innovation-through-blockchain-and-digital-assets/)** — Crypto Africa, 23 October 2026
 
-VITIB plans blockchain centre of excellence; seminar co-hosted with Valoores Africor; minister on supervision.
+An international seminar on blockchain and digital assets in Abidjan, co-organised by the VITIB technology zone and Valoores Africor and attended by digital transition minister Djibril Ouattara, discussed how the technology could support Côte d'Ivoire's economy. The minister said the government aims both to enable innovation and to build supervisory mechanisms and trust frameworks, and VITIB's director-general said it plans a blockchain centre of excellence to train and assist the state and businesses.
 
 </div>
 

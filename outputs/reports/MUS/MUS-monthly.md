@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: MUS
 ledger_rows: 32
 not_held: 7
-record: 804aeee9752e
+record: f9dd8f50c6d8
 ---
 
 # News, Sep – Oct 2026
@@ -588,7 +588,7 @@ A pan-African investment fund took a minority stake in a Mauritian digital trans
 
 **[Highlights of Cabinet Meeting - Friday 23 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20%20Friday%20%2023%20October%202026.pdf)** — Office of the Prime Minister, Mauritius, 23 October 2026
 
-MDPA branch for Rodrigues after 500 onboarded on MauPass and KOREK!; laptops for blind learners; CERT-MU PHP advisory.
+Mauritius's Cabinet on 23 October 2026 noted the setting up of a Mauritius Digital Promotion Agency branch in Rodrigues for year-round e-government outreach, after an August session there onboarded some 500 citizens onto the MauPass digital identity and the KOREK! platform. It also noted laptops and assistive equipment for blind and visually impaired secondary pupils with the Mauritius Telecom Foundation and a CERT-MU advisory on critical PHP vulnerabilities, alongside measures following the riots of 12 to 18 October and the water shortage.
 
 </div>
 

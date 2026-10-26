@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: BEN
 ledger_rows: 40
 not_held: 4
-record: fe2afb99eb29
+record: 8a0f5ed144f9
 ---
 
 # News, Sep – Oct 2026
@@ -376,7 +376,7 @@ Benin launched Preuve de Vie on 15 October 2026, a mobile app through which publ
 
 **[Bénin : 15 189 retraités ont déjà effectué leur preuve de vie, la campagne se poursuit](https://lanouvelletribune.info/2026/10/benin-15-189-retraites-ont-deja-effectue-leur-preuve-de-vie-la-campagne-se-poursuit/)** — La Nouvelle Tribune, 22 October 2026
 
-15,189 remote proofs of life done by 21 October 2026, per sources close to the presidency; campaign to 15 November.
+By 21 October 2026, 15,189 pensioners of Benin's national pension fund (FNRB) had completed their annual proof of life remotely through the Preuve de Vie app, according to sources close to the presidency. Pensioners enter their national personal identification number (NPI) and pension book number and scan their fingerprints with the phone camera, or use biometric kiosks with a biometric ID card; the campaign runs to 15 November.
 
 </div>
 

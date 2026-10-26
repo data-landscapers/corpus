@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: TUN
 ledger_rows: 64
 not_held: 5
-record: 96bf0d467e89
+record: 964af69bf60c
 ---
 
 # News, Sep – Oct 2026
@@ -1050,7 +1050,7 @@ Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 th
 
 **[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
 
-USD 2.4m Google.org grant to INJAZ Al-Arab; Abtal Al Internet in nine MENA countries, 2.3m students over four years.
+Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its Arabic online-safety curriculum, Abtal Al Internet (Be Internet Awesome), into classrooms in nine Middle East and North African countries over four years, aiming to reach more than 2.3 million students in countries including Egypt, Morocco and Tunisia. The curriculum covers misinformation, scams, cyberbullying and protecting private data; Google also set out default protections for users under 18 on its platforms.
 
 </div>
 

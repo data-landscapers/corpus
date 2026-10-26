@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: BWA
 ledger_rows: 22
 not_held: 5
-record: 61319f5728c1
+record: a6ff0164e629
 ---
 
 # News, Sep – Oct 2026
@@ -218,7 +218,7 @@ The Bankers' Association of Botswana has launched a national electronic know-you
 
 **[Govt moves to clear Omang backlog](https://dailynews.gov.bw/news-detail/93807)** — Daily News (BOPA), 24 October 2026
 
-Backlog of 45,000 ID cards nearly half produced; clearance in 2-3 weeks to restore 14-day wait.
+Botswana's labour and home affairs minister Pius Mokgware said the backlog of Omang national identity cards should be cleared within two to three weeks, with nearly half of the 45,000 cards needed already produced. That would bring back the normal 14-day wait after a shortage of blank cards and staff held production up; applicants notified by SMS were urged to collect their cards.
 
 </div>
 

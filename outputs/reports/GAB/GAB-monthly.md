@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: GAB
 ledger_rows: 62
 not_held: 13
-record: e950fe1a6f35
+record: 91d53b76c4fa
 ---
 
 # News, Sep – Oct 2026
@@ -252,7 +252,7 @@ Gabon's presidential spokesman said on radio that he uses a VPN, outside the law
 
 **[Gabon : la HAC lève la suspension des réseaux sociaux](https://agpgabon.ga/gabon-la-hac-leve-la-suspension-des-reseaux-sociaux/)** — Agence Gabonaise de Presse, 24 October 2026
 
-Eight-month nationwide ban ended; HAC cites February 2026 ordinances and reporting protocols with TikTok, Meta, YouTube.
+Gabon's media regulator, the Haute autorité de la communication, lifted on 24 October 2026 the nationwide suspension of social media it had ordered on 17 February. It cited three presidential ordinances of 26 February regulating social-media use and reporting protocols now operating with TikTok, Meta and YouTube that give it access to their tools for flagging illicit content.
 
 </div>
 
@@ -274,7 +274,7 @@ Eight-month nationwide ban ended; HAC cites February 2026 ordinances and reporti
 
 **[Gabon/Loi de finances 2027 : les budgets de la Communication et de l’Économie numérique examinés à l’Assemblée nationale](https://agpgabon.ga/gabon-loi-de-finances-2027-les-budgets-de-la-communication-et-de-leconomie-numerique-examines-a-lassemblee-nationale/)** — Agence Gabonaise de Presse, 25 October 2026
 
-Digital economy ministry asks FCFA 37.2bn for 2027, down from 53.7bn in 2026; communication rises to FCFA 21.5bn.
+Gabon's National Assembly examined the 2027 budget requests of the communication and digital economy ministries on 25 October. The digital economy ministry asks for FCFA 37.2 billion in 2027, down about FCFA 16.5 billion from FCFA 53.7 billion in 2026, for connectivity, digital sovereignty and modernising the administration, while the communication ministry's request rises to FCFA 21.5 billion from FCFA 17.5 billion.
 
 </div>
 
@@ -424,7 +424,7 @@ Gabon's digital economy ministry announced a Gabon Digital Week at the Palais de
 
 **[Gabon Digital/Interview : « Notre ambition est de faire de Libreville la capitale africaine du numérique », dixit Mark-Alexandre Doumba](https://agpgabon.ga/gabon-digital-interview-notre-ambition-est-de-faire-de-libreville-la-capitale-africaine-du-numerique-dixit-mark-alexandre-doumba/)** — Agence Gabonaise de Presse, 24 October 2026
 
-Minister on Gabon Digital Week; Starlink and Eutelsat to be licensed for 200+ unconnected villages; 196 km of new fibre.
+Ahead of the first Gabon Digital Week, digital economy minister Mark-Alexandre Doumba told the national news agency that satellite providers such as Starlink and Eutelsat will be authorised in the coming months to cover more than 200 unconnected villages, alongside a universal service fund. He said the Gabon Fiber programme with SPIN and Gabon Télécom has laid 196 km of fibre, connecting Lambaréné, Fougamou and Mouila, and that ministries are digitising driving licences, payments and revenue collection, digital identity and civil registration.
 
 </div>
 
@@ -670,7 +670,7 @@ An account of Gabon's bill ratifying its digital payments ordinance ties it to t
 
 **[Médiation financière : le Gabon lance officiellement son dispositif le 26 octobre](https://www.echosdeleco.com/articles/mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-26-octobre)** — Échos de l'Éco, 19 October 2026
 
-CNEF to launch bank-dispute mediation 26 Oct 2026 under CEMAC rules; mediator named June; free, binding settlement.
+Gabon's Comité national économique et financier (CNEF) was to launch financial mediation in Libreville on 26 October 2026, giving customers of banks, microfinance institutions and payment providers a free, confidential route to settle disputes, with agreements enforceable. The mechanism rests on a 2020 CEMAC consumer-protection regulation, a 2024 decree and two orders of January 2025; a complaint to the institution must come first, and Axcèle Saturnin Kissangou-Mouele was named mediator in June for a three-year term.
 
 </div>
 
@@ -1074,7 +1074,7 @@ The Centre Gabonais de l'Innovation introduced about forty staff of the communic
 
 **[Intelligence artificielle : Des agents de l'Etat se mettent à jour](https://gabonactu.com/blog/2026/09/10/intelligence-artificielle-des-agents-de-letat-se-mettent-a-jour/)** — Gabonactu, 10 September 2026
 
-Treasury (DGCPT) agents take three-day AI course at the CGI, after Communication ministry and Budget directorate cohorts.
+Staff of Gabon's public accounts and treasury directorate (DGCPT) took a three-day, practice-led course on digital tools and artificial intelligence at the Centre Gabonais de l'Innovation in Libreville. They followed cohorts from the Communication ministry and the Budget directorate; the CGI presents the course as part of wider support to help the administration put AI to work in its tasks.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: SLE
 ledger_rows: 39
 not_held: 4
-record: 869eb74b16c7
+record: 2ae7575ed500
 ---
 
 # News, Sep – Oct 2026
@@ -608,7 +608,7 @@ Sierra Leone's Ministry of Communication, Technology and Innovation is training 
 
 **[MoCTI Certifies First Cohort of Civil Service Digital Skills Programme](https://sierraloaded.sl/news/mocti-first-cohort-civil-serv-dig-training/)** — Sierraloaded, 28 September 2026
 
-Three-week first cohort certified after Google Workspace capstones; next cohort from 9 October 2026.
+Sierra Leone's Ministry of Communication, Technology and Innovation certified the first cohort of its Civil Service Digital Skills Training Programme after three weeks of digital literacy training, run with the public administration ministry, the Human Resource Management Office and the Public Service Academy. Participants, including administrative staff, closed with group presentations on using Google Workspace for office work; the next cohort was due to start on 9 October.
 
 </div>
 
@@ -674,7 +674,7 @@ Sierra Leone's National Civil Registration Authority registered 100 inmates from
 
 **[DSTI and Social Welfare Validate New App for Speech and Hearing-Impaired in Sierra Leone](https://www.sierraleonepress.com/dsti-and-social-welfare-validate-new-app-for-speech-and-hearing-impaired-in-sierra-leone/)** — Sierra Leone Press, 22 October 2026
 
-UNICEF-sponsored sign-language app; phase one for pupils on ASL content; minister to seek cabinet approval.
+Sierra Leone's Directorate of Science, Technology and Innovation and the Ministry of Social Welfare held a validation exercise for Leh Wi Tok, a communication app for speech- and hearing-impaired people, with members of that community giving feedback. Its first phase is aimed at school pupils with content based on American Sign Language, and Social Welfare minister Melrose Karminty plans to take it to cabinet for approval; the disability commission's chairman urged a codified Sierra Leone Sign Language.
 
 </div>
 

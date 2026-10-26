@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: COG
 ledger_rows: 25
 not_held: 5
-record: 0883e72b2f7a
+record: e8ebc9b8abf4
 ---
 
 # News, Sep – Oct 2026
@@ -392,7 +392,7 @@ The steering committee of Congo's task force on digitalising the administration,
 
 **[Administration fiscale : les animateurs du projet SFEC échangent avec les chefs d’entreprise de Pointe-Noire](https://www.adiac-congo.com/content/administration-fiscale-les-animateurs-du-projet-sfec-echangent-avec-les-chefs-dentreprise-de)** — Les Dépêches de Brazzaville (ADIAC), 22 October 2026
 
-1,335 firms connected since 1 August launch; non-compliance sanctions from 31 October 2026.
+Officials of the Republic of Congo's tax directorate briefed Pointe-Noire business leaders on 20 October on the certified electronic invoicing system (SFEC), in deployment since 1 August 2026. Project lead Séraphin Ndion said 1,335 companies were connected and warned that sanctions for non-compliance apply from 31 October.
 
 </div>
 

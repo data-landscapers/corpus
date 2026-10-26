@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: GNQ
 ledger_rows: 21
 not_held: 6
-record: bfacfca5d92c
+record: 4ad49fb17a59
 ---
 
 # News, Sep – Oct 2026
@@ -154,7 +154,7 @@ Equatorial Guinea's draft communication law would ban content inciting violence,
 
 **[LA GUINEE EQUATORIALE ASSUME LA PRESIDENCE DE LA COMMISSION DE STATISTIQUE POUR L’AFRIQUE LORS DU SOMMET D’ADDIS-ABEBA.](https://inege.org/?lang=fr&p=18389)** — Instituto Nacional de Estadística de Guinea Ecuatorial (INEGE), 22 October 2026
 
-INEGE chief presides StatCom-Africa 10th session, Addis 19-23 Oct 2026; priorities incl. register-census-geo integration.
+Equatorial Guinea was elected to chair the UN Statistical Commission for Africa (StatCom-Africa) for 2026-2028 at its tenth session in Addis Ababa on 19 to 23 October 2026, with INEGE director-general Ricardo Nsue Ndemesogo Obono presiding. He set five priorities: turning data into usable evidence for policy, the financial and technical autonomy of national statistical systems, integrating administrative registers, censuses and geospatial data, using new technology while protecting confidentiality, and harmonised regional methods.
 
 </div>
 

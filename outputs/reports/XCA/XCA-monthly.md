@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: XCA
 ledger_rows: 16
 not_held: 0
-record: 3d75b81a50a1
+record: 1099a0836159
 ---
 
 # News, Sep – Oct 2026
@@ -440,7 +440,7 @@ Energy ministers of the Central African Economic and Monetary Community (CEMAC),
 
 **[BEAC et Reserve Bank of India : coopération en vue](https://centrafrique.news/paiements-la-beac-prend-exemple-sur-linde/)** — Centrafrique.news, 23 October 2026
 
-New Delhi talks 20 Oct 2026; payments, cyber, AI and currency swaps to explore; nothing signed yet.
+The governor of the central African central bank BEAC, Yvon Sana Bangui, met the Reserve Bank of India's governor in New Delhi on 20 October 2026, and the two agreed to explore technical cooperation on payment systems, financial cybersecurity, artificial intelligence and currency swaps. India's experience with instant payments, interoperability and mass financial inclusion was the focus; nothing was signed, and technical teams are to set priorities in the coming weeks.
 
 </div>
 

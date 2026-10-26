@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: ZWE
 ledger_rows: 47
 not_held: 6
-record: 0fd67427feb8
+record: 8ca58b680bf9
 ---
 
 # News, Sep – Oct 2026
@@ -104,7 +104,7 @@ Zimbabwe's ICT minister gave her ministry, the regulator and the postal operator
 
 **[Zimbabwe Approves National AI Charter to Combat Surging Cyber Fraud](https://www.zimcitizennews.com/zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud/)** — ZimCitizenNews, 23 October 2026
 
-Cabinet committee approval 21 Oct 2026; Penguin AI local datasets before December; AI Act targeted next year.
+Zimbabwe's ICT minister Tatenda Mavetera told a cybersecurity summit on 21 October 2026 that the Cabinet Committee on National Development had approved a National AI Charter that morning, setting out regulation, ethics and governance for AI adoption. She said a 'Penguin AI' project to build local datasets would launch before December, a National Regulatory Digital Committee was being formed, and the government wants an AI Act in force by late next year.
 
 </div>
 

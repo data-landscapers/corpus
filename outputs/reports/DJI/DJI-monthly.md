@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: DJI
 ledger_rows: 19
 not_held: 11
-record: ed364c26ae59
+record: 72314fbd62dc
 ---
 
 # News, Sep – Oct 2026
@@ -132,7 +132,7 @@ Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial 
 
 **[Deux projets numériques de 30 millions de dollars passés en revue, avec un appel à accélérer](https://www.adi.dj/public/article/139032)** — ADI Djibouti, 25 October 2026
 
-DFN US$10m: 26 of 35 activities done, 56% disbursed, closes 30 June 2027; EARDIP US$20m works await studies.
+Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital projects with the regulator ARMD and the state information systems agency ANSIE and called for faster implementation. The US$10 million DFN project has completed 26 of 35 activities, with nearly 80% of funds committed and 56% disbursed, before it closes on 30 June 2027; the US$20 million EARDIP's cross-border links, twelve 4G sites and fibre loops to Dikhil, Tadjourah and Obock still await approval of commercial, environmental and social studies.
 
 </div>
 

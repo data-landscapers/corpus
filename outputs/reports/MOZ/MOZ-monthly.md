@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: MOZ
 ledger_rows: 53
 not_held: 18
-record: 8c06a7520865
+record: b072ca359c6b
 ---
 
 # News, Sep – Oct 2026
@@ -198,7 +198,7 @@ Mozambique's education ministry says its law regulating the use of artificial in
 
 **[Governo prepara lei para regular uso da Inteligência Artificial na Educação](https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/)** — MZNews, 23 October 2026
 
-Law to cover ethics, fundamental rights and copyright; announced at MAZA IA launch by MOZEDUCA and Vodacom.
+Mozambique's education and culture minister Edson Macuácua said on 22 October 2026 that the government is preparing a law to regulate artificial intelligence in education, centred on ethical and responsible use, fundamental rights and copyright. He spoke at the launch of MAZA IA, a learning tool built by MOZEDUCA with Vodacom Moçambique, and called for national solutions, wider access to digital platforms for poorer students and investment in teacher training.
 
 </div>
 

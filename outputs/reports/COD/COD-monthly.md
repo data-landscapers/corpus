@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: COD
 ledger_rows: 69
 not_held: 7
-record: 320467c982f3
+record: 920d03a71a0c
 ---
 
 # News, Sep – Oct 2026
@@ -436,7 +436,7 @@ The steering committee of the DRC's digital transformation project met for the f
 
 **[Cybersécurité : Félix Tshisekedi ordonne un audit des infrastructures numériques de l'État](https://numerico.cd/fr/article/cybersecurite-felix-tshisekedi-ordonne-un-audit-des-infrastructures-numeriques-d)** — Numerico.cd, 24 October 2026
 
-101st Council of Ministers; PT ministry coordinates; Finance and BCC to secure payment and PFM systems.
+At the 101st Council of Ministers on 23 October 2026, President Félix Tshisekedi ordered an audit of DR Congo's public IT systems to find security flaws, coordinated by the posts and telecommunications ministry with the digital economy ministry. The interior and defence ministries are to tighten protection of sensitive systems, and the finance ministry is to work with the Banque Centrale du Congo on public-finance platforms, payment systems and critical infrastructure; the order came a day after the digital economy ministry warned of two critical PHP vulnerabilities.
 
 </div>
 
@@ -490,7 +490,7 @@ The DRC's digital economy minister said the prime minister had signed decrees cr
 
 **[RDC : Serge Kaozi Lubamba nommé à la tête des missions de l'ANCE](https://numerico.cd/fr/article/rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance)** — Numerico.cd, 22 October 2026
 
-Arrêté of 19 October 2026 names ANCE heads; its missions sat with ARPTC since August 2024.
+DR Congo's digital economy minister Augustin Kibassa Maliba appointed Serge Kaozi Lubamba, with Tommy Tumba Muana as deputy, to lead the missions of the national electronic certification authority (ANCE) by an order signed on 19 October 2026. The authority was provided for in the 2023 Digital Code but never set up, and its missions had been given to the telecoms regulator ARPTC in August 2024.
 
 </div>
 
@@ -958,7 +958,7 @@ DR Congo's foreign minister, Thérèse Kayikwamba Wagner, and digital economy mi
 
 **[Kongo Central : l'ADN-KC fait le point sur le data center provincial et la préparation de nouveaux projets numériques](https://360actu-rdc.com/kongo-central-ladn-kc-fait-le-point-sur-le-data-center-provincial-et-la-preparation-de-nouveaux-projets-numeriques/)** — 360Actu RDC, 22 October 2026
 
-Provincial data centre held back by internet, power supply and unfinished works; project file nearing validation.
+Kongo Central's provincial digital development agency (ADN-KC) met on 21 October 2026 to review the provincial data centre, whose operation is held back by internet connectivity, power supply and unfinished works. The agency also worked on a provincial project file it means to put to the authorities for validation.
 
 </div>
 
@@ -1112,7 +1112,7 @@ The DRC's digital economy minister visited the Skolkovo innovation centre near M
 
 **[L'ADN en collaboration avec KADEA et ULB-Solvay Lifelong Learning a organisé un programme executive en transformation digitale et intelligence artificielle](https://adn.cd/fr/actualites/l-adn-en-collaboration-avec-kadea-et-ulb-solvay-lifelong-learning-a-organise-un-programme-executive-en-transformation-digitale-et-intelligence-artificielle)** — Agence pour le Développement du Numérique, 9 October 2026
 
-Executive programme for cadres of 30 public institutions; first session 28-30 Sept 2026.
+KADEA and ULB-Solvay Lifelong Learning, with DR Congo's Agence pour le Développement du Numérique, ran the first session of an executive programme in digital transformation and AI for senior officials from 30 public institutions on 28 to 30 September 2026. This session dealt with diagnosis and digital strategy through case studies and group work; later sessions are to cover AI, data, leadership and drafting a digital roadmap, under the DRC Digital Nation 2030 vision.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: XEA
 ledger_rows: 23
 not_held: 0
-record: 1f905cb77392
+record: 430773862636
 ---
 
 # News, Sep – Oct 2026
@@ -366,7 +366,7 @@ East African Community health ministers, ending their 26th meeting in Arusha on 
 
 **[IGAD Advances Regional Collaboration on Digital Agro-Climate Advisory Services and Gender-Responsive Food Systems](https://igad.int/igad-advances-regional-collaboration-on-digital-agro-climate-advisory-services-and-gender-responsive-food-systems/)** — IGAD, 24 October 2026
 
-Arba Minch workshop 21-24 Oct 2026; calls for regional data-quality, interoperability and data-sharing standards.
+IGAD's World Bank-backed Food Systems Resilience Program held a four-day regional workshop in Arba Minch, Ethiopia, from 21 to 24 October 2026 on digital advice to farmers on weather and climate, and on gender in food systems. Experts from seven member states, Djibouti, Ethiopia, Kenya, Somalia, Sudan, South Sudan and Uganda, shared national experience and discussed strengthening IGAD's DACAS knowledge network, with calls for regional standards on data quality, interoperability and data sharing.
 
 </div>
 
