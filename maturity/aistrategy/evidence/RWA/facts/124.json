@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-22-rwa-rwanda-can-be-korea-s-ai-entry-point-to-africa-minister",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Iradukunda says Rwanda has established an AI agency to implement its national AI policy.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "national AI policy",
+   "class": "strategy"
+  },
+  {
+   "sub_indicator": "strategy",
+   "aspect": "use",
+   "value": "body",
+   "fact": "The government-owned Rwanda AI agency, set up to implement the national AI policy, is being brought into operation through 2026 and will coordinate work previously spread across several institutions.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Rwanda national AI agency",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

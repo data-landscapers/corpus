@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-zwe-zimbabwe-approves-national-ai-charter-to-combat-surging-cyber-fraud",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ICT Minister Tatenda Mavetera said on 21 October 2026 that Cabinet's Committee on National Development had approved the National AI Charter that morning, setting regulations, ethics and governance for AI adoption, and said 'we have a policy, we have a Charter'.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "National AI Charter",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI Charter",
+   "country_label": "National AI Charter",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of ICT, Postal and Courier Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

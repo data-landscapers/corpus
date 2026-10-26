@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-08-zwe-minister-mavetera-defends-zimbabwe-s-ai-drive-addresses-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "ICT Minister Tatenda Mavetera defended Zimbabwe's 'forthcoming' National AI Strategy as a long-term multi-year framework, with progress to be tracked by public KPIs reported quarterly; it is described as not yet launched.",
+   "as_of": "2026-02-08",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

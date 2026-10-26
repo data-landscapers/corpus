@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-25-sle-sierra-leone-trains-1-000-civil-servants-to-modernize-public-services",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Ecofin Agency reports Sierra Leone is preparing a national artificial intelligence strategy to guide AI use across public services and key sectors.",
+   "as_of": "2026-06-25",
+   "date_precision": "day",
+   "system": "National AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-23-zaf-revised-national-ai-policy-paper-expected-in-march",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Department of Communications and Digital Technologies said on 21 October 2026 that it is revising the national AI policy, withdrawn after fictitious references were found, and expects to submit it to Cabinet in March 2027.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "National AI policy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

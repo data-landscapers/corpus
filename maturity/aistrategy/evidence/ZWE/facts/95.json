@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-zwe-minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-dir",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The article states Zimbabwe's National Artificial Intelligence Strategy was launched by President Mnangagwa in March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

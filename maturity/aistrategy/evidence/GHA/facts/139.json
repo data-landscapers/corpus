@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-25-gha-bright-simons-flags-computing-capacity-error-in-ghanas-ai-strategy-and-ques",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Analyst Bright Simons of IMANI says Ghana's national AI strategy went through the ministry's review, cabinet approval and a high-profile media launch, and cites its computing targets of 2027 and 2035.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Ghana national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "Cost figures are Simons' own modelling; no allocated public money is stated."
+}

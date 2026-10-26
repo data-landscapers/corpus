@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-26-gha-ghana-begins-national-ai-training-programme-to-boost-public-sector-inn",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "TechAfrica News says the civil service AI training supports implementation of Ghana's National Artificial Intelligence Strategy (2023-2033).",
+   "as_of": "2026-03-26",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy (2023-2033)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

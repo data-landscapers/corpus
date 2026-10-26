@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-17-gha-government-unesco-train-240-civil-servants-in-ai-literacy-initiative",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Head of the Civil Service and a UNESCO representative refer to Ghana's National Artificial Intelligence Strategy (2025-2035) as the roadmap the government is implementing, with the training aligned to its implementation priorities.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy (2025-2035)",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
