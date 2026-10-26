@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-06-zwe-digital-skills-for-civil-servants",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Herald says Government has implemented the National ICT Policy (2022-2027).",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "National ICT Policy (2022-2027)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2027",
+   "fact": "The National ICT Policy is given as running 2022 to 2027.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "National ICT Policy (2022-2027)",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,sector,governance,qualifier,body:mandated;finance:not-stated,2022,ZWE-008;ZWE-009,ZWE-013=body:mandated;ZWE-014=finance:not-stated,nothing dated since 2023-10-24
-ZWE,sector,standing,coverage,adopted,2026-07-14,ZWE-002;ZWE-004;ZWE-010;ZWE-016,ZWE-015=announced,
-ZWE,sector,text,coverage,public,2022,ZWE-005;ZWE-011,,nothing dated since 2023-10-24
-ZWE,sector,period,coverage,to:2030,2026-07-20,ZWE-001,ZWE-003=to:2027;ZWE-017=to:2027;ZWE-006=to:2027,
-ZWE,sector,plan,coverage,actions,2022,ZWE-007;ZWE-012,,nothing dated since 2023-10-24
+ZWE,sector,governance,qualifier,body:mandated;finance:not-stated,2022,ZWE-008;ZWE-009,ZWE-013=body:mandated;ZWE-014=finance:not-stated,nothing dated since 2023-10-26
+ZWE,sector,standing,coverage,adopted,2026-07-14,ZWE-002;ZWE-004;ZWE-010;ZWE-016;ZWE-018,ZWE-015=announced,
+ZWE,sector,text,coverage,public,2022,ZWE-005;ZWE-011,,nothing dated since 2023-10-26
+ZWE,sector,period,coverage,to:2030,2026-07-20,ZWE-001,ZWE-003=to:2027;ZWE-019=to:2027;ZWE-017=to:2027;ZWE-006=to:2027,
+ZWE,sector,plan,coverage,actions,2022,ZWE-007;ZWE-012,,nothing dated since 2023-10-26
 ZWE,sector,reporting,coverage,,,,,nothing held
 ZWE,sector,last12,qualifier,,,,,nothing held

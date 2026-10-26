@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-ben-benin-15-189-retraites-ont-deja-effectue-leur-preuve-de-vie-la-campagn",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The article says pensioners of the national pension fund (FNRB) prove life in the app by entering their NPI, the national identification number, with their passbook number.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Preuve de Vie app",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
