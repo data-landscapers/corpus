@@ -18,3 +18,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,STP,infra.cybersec--national-cybersecurity-readiness,fact,2,2,STP-003,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZMB,infra.cybersec--national-cybersecurity-readiness,fact,2,3,ZMB-011;ZMB-006,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-25,MUS,infra.cybersec--national-cybersecurity-readiness,fact,2,3,MUS-005;MUS-004,CERT-MU published a critical PHP2Shell bulletin on 22 Oct 2026
+2026-10-26,BWA,infra.cybersec--national-cybersecurity-readiness,fact,2,3,BWA-002;BWA-007,"bwCIRT urgent public advisory on PHP2Shell, 23 October 2026: the national body issued a public alert"

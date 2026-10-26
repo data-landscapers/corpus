@@ -256,8 +256,9 @@ In 2026 UNESCO states that the state runs all media and private outlets ended af
 
 ### Gabon: 1 Absent
 
-In 2026 the regulator suspended social media in Gabon and it was still in force in October; when it will end is not known.
+The regulator suspended social media in Gabon from February to October 2026; whether anyone was punished for speech is not known.
 
+- The HAC ordered a nationwide suspension of social media on 17 February 2026 and lifted it on 24 October 2026, citing three ordinances of 26 February 2026 and cooperation with TikTok, Meta and YouTube ([source, 2026-02-17](https://agpgabon.ga/gabon-la-hac-leve-la-suspension-des-reseaux-sociaux/)).
 - The document describes a temporary suspension of social networks in Gabon and slowed internet speed that hampers journalists, content creators and digital firms, with mass VPN use needed to reach platforms; no ordering body or start date is given beyond the HAC context ([source, 2026-07-25](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/)).
 - Several digital platforms and social networks had been suspended in Gabon for almost five months (start date not given), with internet speed also reduced, and the Presidency's spokesman defended the suspension as temporary and conservatory at a press conference in Libreville on 17 July 2026; no lifting date was given. As_of is the press-conference date, the last date the document shows the cut in force ([source, 2026-07-17](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/)).
 

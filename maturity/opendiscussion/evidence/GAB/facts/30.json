@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-24-gab-gabon-la-hac-leve-la-suspension-des-reseaux-sociaux",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "The HAC ordered a nationwide suspension of social media on 17 February 2026 and lifted it on 24 October 2026, citing three ordinances of 26 February 2026 and cooperation with TikTok, Meta and YouTube.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "nationwide social media suspension",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

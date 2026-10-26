@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The article states Tunisia's National Cybersecurity Agency (ANCS) awards the N-Cloud and G-Cloud labels under Decree-Law 2023-17 of 11 March 2023 on cybersecurity.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Agence Nationale de la Cybersecurite",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence Nationale de la Cybersecurite (ANCS)",
+   "country_label": "Tunisia",
+   "class": "response",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

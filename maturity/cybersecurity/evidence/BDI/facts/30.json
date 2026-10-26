@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-bdi-burundi-embarks-on-a-full-digitalization-journey",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "none",
+   "fact": "The article reports the PDDSP master plan as noting the absence of a Computer Incident Response Team in Burundi.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

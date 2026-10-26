@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "2",
+      "stage": "3",
       "foundation": "body",
-      "response": "",
+      "response": "responded",
       "cii": "",
       "figures": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BWA-002",
-      "gaps": "No source held says the national body handled an incident or issued a public alert since October 2023.",
-      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "BWA-002;BWA-007",
+      "gaps": "No source held says the country designated its critical information infrastructure or bound the operators of critical systems to report incidents to the national body.",
+      "note": "The national CSIRT issued a public alert on 23 October 2026. No designation of critical information infrastructure is held.",
+      "as_at": "2026-10-26"
     }
   ]
 }

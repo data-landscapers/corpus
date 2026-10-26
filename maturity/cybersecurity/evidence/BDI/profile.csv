@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,readiness,foundation,coverage,strategy,2026-10-14,BDI-001;BDI-002,,
+BDI,readiness,foundation,coverage,strategy,2026-10-14,BDI-001;BDI-002,BDI-003=none,
 BDI,readiness,response,coverage,,,,,nothing held
 BDI,readiness,cii,coverage,,,,,nothing held
 BDI,readiness,figures,coverage,,,,,nothing held

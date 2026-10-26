@@ -2,7 +2,7 @@
 
 ## Freedom to discuss policy online and in the press
 
-**Public criticism of government policy.** The Sudanese Journalists Syndicate [condemned the detention of journalist Gurashi Awad on 14 August 2026 and called for the immediate repeal of the 2007 Cybercrime Act, which it described as restrictive of fundamental liberties](<https://theweeklyvisionews.net/2026/08/17/journalist-detained-in-sudan-following-cybercrime-complaint-by-intelligence-officer-syndicate-says/>).
+**Public criticism of government policy.** The Sudanese Journalists Syndicate [condemned the detention of journalist Gurashi Awad on 14 August 2026 and called for the immediate repeal of the 2007 Cybercrime Act, which it described as restrictive of fundamental liberties](<https://theweeklyvisionews.net/2026/08/17/journalist-detained-in-sudan-following-cybercrime-complaint-by-intelligence-officer-syndicate-says/>). In October 2026 it [rejected a decree extending a Criminal Act provision to electronic publishing, and a new cybercrime mechanism](<https://en.sudannow.net/sudanese-journalists-syndicate-rejects-criminal-law-amendment-and-cybercrime-mechanism/>).
 
 **Cuts and blocks, and a bar on them.** MTN Sudan [suspended internet service in the afternoons on 13 to 15 April 2026, the days of the Sudanese Certificate Examinations, in accordance with government directives](<https://pulse.internetsociety.org/en/blog/2026/04/its-exam-season-in-sudan-and-that-means-internet-shutdowns/>), and the source calls it the sixth consecutive year of exam-period shutdowns.
 

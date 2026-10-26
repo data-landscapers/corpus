@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-23-gin-administration-publique-la-guinee-accelere-le-deploiement-de-la-signature-e",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANSSI (Agence nationale de la securite des systemes d'information)",
+   "country_label": "Guinea",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "ANSSI is named only as deploying the PKI; no creation, incident or alert stated."
+}

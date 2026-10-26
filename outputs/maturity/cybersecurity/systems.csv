@@ -37,6 +37,7 @@ BEN,Agence des systèmes d'information et du numérique (Asin),ASIN,other,,,,202
 BEN,ASIN (Agency for Information Systems and Digital),Benin,response,,State,,2025-07-03-techafricanews-benin-first-national-cybersecurity-report
 BEN,ASIN alert and incident response centre,Benin,response,,ASIN,,2025-07-02-marc-andre-loko-dispositif-solide
 BEN,national incident response centre,Benin,response,,,,2025-06-26-caf-5e-edition-assises-cotonou-cybersecurite
+BEN,Centre national d'investigations numeriques (CNIN),CNIN,other,,,,2026-10-22-ben-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-l-ere
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2026-02-25-arcep-decision-attribution-oid-anssi
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2026-08-02-100-visages-du-burkina-digital-michael-folane
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),ANSSI,response,,State,,2025-12-27-bfa-2026-31-anssi
@@ -56,12 +57,14 @@ BFA,National Backbone Network Operations Centre (NOC),Burkina Faso,other,,Minist
 BFA,Digital Infrastructure Monitoring Center,Burkina Faso,other,,Ministry of Digital Transition,,2026-01-20-digital-infrastructure-monitoring-center-construction
 BFA,Agence nationale de sécurité des systèmes d'information (ANSSI),Agence nationale de sécurité des systèmes d'information (ANSSI),response,,Burkina Faso,national,2026-09-14-bfa-libreinfo-bclcc-cybercriminalite-prejudice-interview
 BFA,Brigade centrale de lutte contre la cybercriminalité (BCLCC),Brigade centrale de lutte contre la cybercriminalité (BCLCC),other,Alerte BCLCC reporting platform (web and mobile),Ministère de la Sécurité,national police cybercrime unit,2026-09-14-bfa-libreinfo-bclcc-cybercriminalite-prejudice-interview
+BFA,ANSSI,Agence nationale de securite des systemes d'information,response,,,,2026-10-23-bfa-burkina-securite-numerique-l-agence-nationale-de-securite-des-systemes
 BWA,National Cybersecurity Authority,National Cybersecurity Authority,response,,,,2026-05-25-botswana-cybersecurity-act-national-authority-wtisd-itweb
 BWA,Botswana national CIRT,Botswana national CIRT,response,,,,2018-09-13-sadc-media-statement-cybersecurity-workshop-cyber-drill
 BWA,Botswana Computer Security Incident Response Team (BWCSIRT),BWCSIRT,response,,,,2026-06-01-bocra-newsletter-issue-003
 BWA,National Cybersecurity Authority,National Cybersecurity Authority,response,,,,2026-02-25-bwa-digital-services-act-24-month-clock-cyber-act-april
 BWA,National Computer Security Incident Response (CSIRT),National CSIRT,response,,,,2026-02-25-bwa-digital-services-act-24-month-clock-cyber-act-april
 BWA,BOCRA national CSIRT,BWA,response,,Botswana Communications Regulatory Authority,national,2025-10-16-bwa-bocra-annual-report-2025-companion
+BWA,Botswana National CSIRT (bwCIRT),Botswana National Computer Security Incident Response Team,response,,BOCRA,,2026-10-23-bwa-bocra-bwcirt-php2shell-urgent-advisory
 CAF,CERT-RCA,Central African Republic,response,,,,2026-09-29-caf-journaldebangui-touadera-amini-ia-donnees
 CAF,Agence nationale de la cybersécurité (ANCY),Central African Republic,response,,Ministry of Public Security and Ministry of Digital Economy (joint tutelle),,2024-01-31-rca-loi-cybersecurite-creation-agence-nationale-ancy
 CAF,Agence Nationale de la Cybersecurite,Central African Republic,response,,State (created by the cybersecurity law of January 2024),,2025-11-18-caf-2026-85-8508302
@@ -252,6 +255,7 @@ GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information
 GIN,ANSSI Guinée (Agence Nationale de la Sécurité des Systèmes d'Information),ANSSI Guinée,response,,"Ministère de la Communication, de l'Économie Numérique et de l'Innovation",,2026-06-12-anssi-campagne-nationale-sensibilisation-cybersecurite
 GIN,ANSSI,Guinea,response,,,,2025-09-09 Get to know The Republic of Guinea Home of Transform Africa Summit 2025
 GIN,ANSSI,Agence nationale de sécurité des systèmes d'information (ANSSI),response,,Government of Guinea,,2025-10-08-gin-ia-et-protection-des-donnees-personnelles-la-ministre-rose-pola-pricem
+GIN,ANSSI (Agence nationale de la securite des systemes d'information),Guinea,response,,State,,2026-10-23-gin-administration-publique-la-guinee-accelere-le-deploiement-de-la-signature-e
 GMB,gmCSIRT,The Gambia Computer Security Incident Response Team (gmCSIRT),response,,Government of The Gambia,national,2026-07-14-gmcsirt-itu-capacity-building-national-csirt-staff
 GMB,GMCSirt,GMCSirt,response,,,national,2025-01-01-mocde-data-governance-trends-gambia
 GMB,GM-CSIRT (The Gambia Computer Security Incident Response Team),GM-CSIRT,response,,,,2022-09-01-gambia-national-cybersecurity-strategy-action-plan-2022-2026-revised
@@ -415,6 +419,7 @@ RWA,Cyber security Centre of Excellence (CyberHub),CyberHub,other,,University of
 RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,response,,Government of Rwanda,national,2025-07-09-rdap-fast-track-2026-newtimes
 RWA,Rwanda Computer Security Incident Response Team,Rw-CSIRT,response,,,national,2025-07-09-rdap-fast-track-2026-newtimes
 RWA,National Cyber Security Authority (NCSA),NCSA,response,,Government of Rwanda,,2026-10-22-rwa-mtn-rwanda-signs-cybersecurity-mou-with-national-cyber-secur
+RWA,National Cyber Security Authority (NCSA),National Cyber Security Authority,other,,,,2025-07-25-rwa-cloud-storage-under-rwanda-s-data-protection-law-what-you-need-to-know
 SDN,Sudanese Cybersecurity Authority,Sudan,response,,Government of Sudan,,2026-01-22-sudan-cybersecurity-authority-launched
 SDN,Sudan-CERT,Sudan,response,,Telecommunications and Post Regulatory Authority,,2025-12-19-sudan-cert-training-workshop
 SDN,SUDAPASS,Sudan,other,,Sudanese Cybersecurity Authority,,2026-08-29-sudan-sudapass-platform-page
@@ -457,6 +462,7 @@ SLE,National Cybersecurity Coordination Centre (NC3),National Cybersecurity Coor
 SLE,National Cybersecurity Coordination Centre (NC3),National Cybersecurity Coordination Centre (NC3),response,,,,2026-08-23-sierraloaded-whatsapp-takeover-scam
 SLE,Sierra Leone Police Cyber Unit,Sierra Leone Police Cyber Unit,other,,Sierra Leone Police,,2026-08-23-sierraloaded-whatsapp-takeover-scam
 SLE,National Communications Authority (NatCA),NatCA,other,,,,2026-07-23-whatsapp-scam-emptying-orange-money-sierra-leone
+SLE,SL-CSIRT,National Cybersecurity Coordination Centre (NC3),response,,NC3,,2026-10-24-sle-sierra-leone-cyber-agency-nc3-warns-of-critical-php-security-flaws-aff
 SOM,SOMCIRT (SOM-CIRT),Somalia,response,,National Communications Authority,,2026-03-09-somalia-launches-somcirt
 SOM,SOMCIRT (SOM-CIRT),Somalia,response,,National Communications Authority,,2026-01-29 Somali Parliament approves Cybersecurity Law amid rising threats
 SOM,SOMCIRT (SOM-CIRT),Somalia,response,,National Communications Authority,,2026-01-26-nca-somalia-cybersecurity-law-approved
@@ -530,6 +536,7 @@ TUN,Agence nationale de la sécurité informatique (ANSI),TUN,response,,State,na
 TUN,الوكالة الوطنية للسلامة السيبرنية,TUN,response,,State,national,2026-07-30-ansi-tunisia-phishing-sms-warning
 TUN,Agence nationale de la cybersécurité,TUN,response,,State,national,2023-03-11-tunisie-decret-loi-2023-17-cybersecurite
 TUN,ANCS,Agence nationale de cybersecurite,response,,,,2026-03-13-tun-leconomistemaghrebin-tribune-gouvernance-ia-quatre-conditions
+TUN,Agence Nationale de la Cybersecurite (ANCS),Tunisia,response,,government,,2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud
 TZA,TZ-CERT,Tanzania Computer Emergency Response Team (TZ-CERT),response,,,,2025-04-10-experts-back-tanzania-cyber-security-push
 TZA,National Cybersecurity Strategy (2023-2028),National Cybersecurity Strategy,response,,,,2025-04-10-experts-back-tanzania-cyber-security-push
 TZA,TZ-CERT,Tanzania Computer Emergency Response Team (TZ-CERT),response,,TCRA,,2026-05-13-tz-minister-statement-wtisd-2026

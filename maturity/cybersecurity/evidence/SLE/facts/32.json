@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-24-sle-sierra-leone-cyber-agency-nc3-warns-of-critical-php-security-flaws-aff",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "SierraLoaded reports that Sierra Leone's National Cybersecurity Coordination Centre (NC3) acts through the national computer security incident response team, SL-CSIRT.",
+   "as_of": "2026-10-24",
+   "date_precision": "day",
+   "system": "NC3 / SL-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "NC3, through SL-CSIRT, issued a critical alert reported on 24 October 2026 on two PHP remote-code-execution flaws (CVE-2026-109618 and CVE-2026-109619, severity 9.2).",
+   "as_of": "2026-10-24",
+   "date_precision": "day",
+   "system": "NC3 / SL-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SL-CSIRT",
+   "country_label": "National Cybersecurity Coordination Centre (NC3)",
+   "class": "response",
+   "platform": "",
+   "owner": "NC3",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

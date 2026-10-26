@@ -22,8 +22,8 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 6 |
-| 3 Established | 6 |
-| 2 Nascent | 33 |
+| 3 Established | 7 |
+| 2 Nascent | 32 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -136,6 +136,13 @@ Critical information infrastructure designated by 2026; the national body publis
 - The policy, stated to be mandatory for operators of critical information infrastructure, requires MDAs, local governments and critical infrastructure operators to report information security breaches to the National CSIRT/CERT-UG; this is a national policy requirement, and the document lists no designated CII operators ([source, 2026-07-15](https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf)).
 - A World Bank implementation mission visited Uganda's National CERT, among other sites, to assess progress under the UDAP-GovNet project; mission dates are not given, so the published date is used ([source, 2026-09-13](https://techreviewafrica.com/news/7186/world-bank-mission-reviews-uganda-digital-acceleration-project-progress)).
 
+### Botswana: 3 Established
+
+The national cyber body issued a public alert in 2026; no critical infrastructure designation is known.
+
+- The BOCRA newsletter states the first National Cyber Drill in late February 2026 was led by the Botswana Computer Security Incident Response Team (BWCSIRT), with FIRST facilitating ([source, 2026-02](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf)).
+- The Botswana National CSIRT, through BOCRA, issued a public urgent advisory on the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619), stating that exploitation attempts had been observed and urging organisations to patch and report suspected compromise to it ([source, 2026-10-23](http://www.bocra.org.bw/node/62863)).
+
 ### Cameroon: 3 Established
 
 The national cyber body responded to an incident or issued an alert in 2026; no critical infrastructure designation is known.
@@ -183,12 +190,6 @@ The national cyber body responded to an incident or issued an alert in 2026; no 
 The country had a cybersecurity strategy by 2026; no incident response by a national body is known since 2023.
 
 - The article states a national cybersecurity strategy is in force and that the Information Systems Security Agency oversees its implementation; no period or event date is given, so the article's published date is used ([source, 2026-09-20](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/)).
-
-### Botswana: 2 Nascent
-
-The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
-
-- The BOCRA newsletter states the first National Cyber Drill in late February 2026 was led by the Botswana Computer Security Incident Response Team (BWCSIRT), with FIRST facilitating ([source, 2026-02](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf)).
 
 ### Burkina Faso: 2 Nascent
 
