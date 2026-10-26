@@ -2,12 +2,12 @@
 
 ## Justice
 
-**Case management in service.** [The New Times reports that from January 2025 Rwanda's justice sector and its stakeholders will begin using an upgraded Integrated Electronic Case Management System (IECMS)](<https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Case management in service.** [The New Times reports that from January 2025 Rwanda's justice sector and its stakeholders were to begin using an upgraded Integrated Electronic Case Management System (IECMS)](<https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system>).
 
-**Online filing.** No source held since October 2023 says cases can be filed with the courts online. The nearest held fact: [the one given above](<https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system>).
+**Online filing.** Cases are filed with the courts electronically. The 13th Rwanda Governance Scorecard, published by the Rwanda Governance Board on 22 October 2026, [scored citizens' satisfaction with electronic court filing services at 65.40 per cent](<https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/>), down 13.60 points on the previous assessment, against 81.80 per cent for the Irembo government services platform.
 
-**Open online.** No source held since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system>).
+**Open online.** No source held since October 2023 says judgments are published or a case's status can be looked up online. The nearest held facts are [the upgraded IECMS of January 2025](<https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system>) and [the scorecard's rating of electronic court filing](<https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/>).
 
 ***Noted, not assessed***. None held.
 
-***Not held***. No source held since October 2023 says cases can be filed with the courts online.
+***Not held***. No source held since October 2023 says court decisions are published online or that the public can look up a case's status online.

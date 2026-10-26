@@ -21,8 +21,8 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 7 |
-| 3 Established | 9 |
+| 4 Operating | 8 |
+| 3 Established | 8 |
 | 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
@@ -78,6 +78,13 @@ Cases could be filed with the courts online in 2024; judgments or case status op
 Cases could be filed with the courts online in 2025; judgments or case status open online are not known.
 
 - Morocco's justice minister says lawyers can now file requests, briefs and appeal acts through a dedicated platform ([source, 2025-01](https://telquel.ma/instant-t/2025/01/30/justice-voici-les-grandes-lignes-du-projet-du-dossier-judiciaire-electronique_1915535/)).
+
+### Rwanda: 4 Operating
+
+Cases could be filed with the courts online in 2026; online publication of decisions or case status is not known.
+
+- The 13th Rwanda Governance Scorecard (RGB, 22 October 2026) scored electronic court filing services at 65.40% satisfaction, down 13.60 points on the previous assessment ([source, 2026-10-22](https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/)).
+- The New Times reports that from January 2025 Rwanda's justice sector and its stakeholders will begin using an upgraded Integrated Electronic Case Management System (IECMS) ([source, 2025-01](https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system)).
 
 ### Seychelles: 4 Operating
 
@@ -136,12 +143,6 @@ Courts managed cases electronically in 2024; online filing is not on record.
 Courts managed cases electronically in 2026; online filing is not on record.
 
 - The Chief Justice of Nigeria launched the Nigerian Case Management System at the Supreme Court on 1 July 2026, with phase one requiring counsel to upload electronic copies of processes and records for pending appeals set for hearing September to December 2026 ([source, 2026-07-01](https://tribuneonlineng.com/supreme-court-launches-digital-case-management-system/)).
-
-### Rwanda: 3 Established
-
-Courts managed cases electronically in 2025; online filing is not on record.
-
-- The New Times reports that from January 2025 Rwanda's justice sector and its stakeholders will begin using an upgraded Integrated Electronic Case Management System (IECMS) ([source, 2025-01](https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system)).
 
 ### Senegal: 3 Established
 

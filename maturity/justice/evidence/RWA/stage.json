@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "3",
-   "cases": "inservice",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001",
-   "gaps": "No source held since October 2023 says cases can be filed with the courts online.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "4",
+      "cases": "inservice",
+      "filing": "online",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002;RWA-001",
+      "gaps": "No source held since October 2023 says court decisions are published or case status can be looked up online.",
+      "note": "Case management is in service (2025) and the October 2026 Governance Scorecard rates electronic court filing services, so filing online is in service: stage 4. Nothing held on decisions or case status online, so not 5.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }
