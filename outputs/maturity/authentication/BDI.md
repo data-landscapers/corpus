@@ -2,7 +2,7 @@
 
 ## Authentication
 
-**Authentication service.** The Bank of the Republic of Burundi told ID4Africa in 2025 that it [signed a contract in November 2024 for a biometric financial ID](<https://www.id4africa.com/2025/files/T3-P3-S2-5-Burundi_FINAL.pdf>), meant to let banks and mobile money operators verify customers, with tests planned at two commercial banks and two mobile money operators. The deputy governor said Burundi has no biometric national ID and that the lack of a digitally verifiable ID hinders account opening.
+**Authentication service.** The Bank of the Republic of Burundi told ID4Africa in 2025 that it [signed a contract in November 2024 for a biometric financial ID](<https://www.id4africa.com/2025/files/T3-P3-S2-5-Burundi_FINAL.pdf>), meant to let banks and mobile money operators verify customers, with tests planned at two commercial banks and two mobile money operators. The deputy governor said Burundi has no biometric national ID and that the lack of a digitally verifiable ID hinders account opening. A March 2026 report says the [master plan for digitalising public services, 2023-2033, notes the absence of verifiable digital ID systems](<https://communityvoice.bi/burundi-embarks-on-a-full-digitalization-journey/>) and recommends an e-signature and authentication infrastructure.
 
 **Used across services.** No source held since October 2023 says authentication is used across services or channels. The nearest held fact is the [central bank's contract](<https://www.id4africa.com/2025/files/T3-P3-S2-5-Burundi_FINAL.pdf>), with tests planned for 2025.
 

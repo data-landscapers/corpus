@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,authentication,service,coverage,underway,2026-10-21,GIN-001;GIN-002,,
+GIN,authentication,service,coverage,underway,2026-10-23,GIN-001;GIN-002;GIN-003,,
 GIN,authentication,reach,coverage,,,,,nothing held
 GIN,authentication,remote,coverage,,,,,nothing held

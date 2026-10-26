@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-01-bdi-burundi-embarks-on-a-full-digitalization-journey",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "none",
+   "fact": "The article reports the Master Plan for the Digitalization of Public Services (PDDSP 2023-2033) as noting the absence of verifiable digital ID systems in Burundi, and recommending an e-signature and authentication infrastructure.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

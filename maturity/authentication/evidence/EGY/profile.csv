@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,authentication,service,coverage,inservice,2026-09-10,EGY-002;EGY-004;EGY-005;EGY-006;EGY-007;EGY-008;EGY-012;EGY-013;EGY-014,EGY-009=underway;EGY-015=underway;EGY-010=underway;EGY-011=underway;EGY-001=underway;EGY-003=underway,
+EGY,authentication,service,coverage,inservice,2026-09-14,EGY-002;EGY-004;EGY-005;EGY-006;EGY-007;EGY-008;EGY-012;EGY-013;EGY-014;EGY-017,EGY-009=underway;EGY-015=underway;EGY-010=underway;EGY-011=underway;EGY-001=underway;EGY-003=underway,
 EGY,authentication,reach,coverage,several,2026-08,EGY-016,,
 EGY,authentication,remote,coverage,,,,,nothing held

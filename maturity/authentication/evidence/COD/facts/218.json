@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-cod-rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "A ministerial arrete of 19 October 2026 named a head and a deputy for the missions of the Autorite nationale de certification electronique (ANCE), described as part of its effective setting-up; the authority, provided for by the 2023 Code du numerique, had not yet been established.",
+   "as_of": "2026-10-19",
+   "date_precision": "day",
+   "system": "ANCE",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANCE (Autorite nationale de certification electronique)",
+   "country_label": "DR Congo",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

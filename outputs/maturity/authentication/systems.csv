@@ -9,6 +9,7 @@ AGO,Santa Clara border biometric post (SME database link),Angola,other,Huawei,Se
 AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,2026-08-01-angola-ministro-justica-postos-identificacao
 AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade
 AGO,ICP-Angola,Angola,authentication,"Cloud do Governo, Camama",INFOSI,,2026-06-03-ago-a-confianca-digital-em-angola-como-a-icp-angola-vai-mudar-o-dia-a-dia
+AGO,plataforma de identidade digital e assinaturas electrónicas,Digital identity and e-signature platform,authentication,,"Executive, under PADA",,2026-10-23-ago-pr-autoriza-mais-70-milhoes-de-dolares-para-a-transformacao-digital-do
 BDI,Bank and mobile money account-opening KYC,Burundi,other,,"commercial banks and mobile money operators (Ecocash, Lumicash)",,2025-04-01-uncdf-payment-infrastructure-assessment-burundi
 BDI,National identity card,Burundi,other,non-biometric card,Republic of Burundi,,2025-04-01-uncdf-payment-infrastructure-assessment-burundi
 BDI,SIM card registration (ARCT),Burundi,other,,ARCT,,2026-06-05-ecofin-burundi-identification-cartes-sim-obligatoire
@@ -45,6 +46,7 @@ BEN,"national PKI (Gov CAI, Root CA)",Benin,authentication,,Government of Benin 
 BEN,fID card,Benin,other,,,,2025-02-03-ben-wuri-benin-appel-a-manifestation-d-interet-pour-le-recrutement-de-cabi
 BEN,RNPP,Benin,other,,ANIP,,2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e
 BEN,TrustedX platform,Benin,authentication,TrustedX,,,2025-01-01-ben-aspects-pragmatiques-de-la-reforme-juridique-de-l-etat-des-personnes-e
+BEN,Preuve de Vie app,Benin,authentication,,Government of Benin,,2026-10-22-ben-benin-15-189-retraites-ont-deja-effectue-leur-preuve-de-vie-la-campagn
 BFA,SIM and cybercafe subscriber identification,Burkina Faso,other,operators' subscriber identification databases,electronic communications providers; regulator ARCEP,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office National d'Identification database,Burkina Faso,other,,Office National d'Identification,,2018-12-31-bfa-decret-2018-1270-identification-abonnes-sim-cnib
 BFA,Office national d'identification,Burkina Faso,other,,ONI,,2026-08-03-niger-mission-technique-burkina-identite-numerique
@@ -117,6 +119,7 @@ COD,DRCPass,DR Congo,other,blockchain,Government of DRC (developer Trident),,202
 COD,RDC-PASS,DR Congo,authentication,,Ministry of Digital Economy,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
 COD,RDC-PASS,COD,authentication,Trident Digital Tech,Government of the DRC (public-private partnership),,2026-09-17-cod-oeildafrique-rdc-pass-trident-concession-vingt-ans
 COD,ANCE (Autorité de Certification Électronique),COD,authentication,,,,2025-06-21-cod-activites-et-services-numeriques-en-rdc-l-arptc-lance-l-operation-d-id
+COD,ANCE (Autorite nationale de certification electronique),DR Congo,authentication,,Ministry of Digital Economy,,2026-10-22-cod-rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance
 COG,NIU (numero d'identification unique),Congo,other,,,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
 COG,CNI (carte nationale d'identite),Congo,other,,,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
 COM,Fichier électoral (national electoral file),Comoros,other,,,,2023-03-08-comores-code-electoral-2023
@@ -164,6 +167,8 @@ DZA,Dzair Digital Services,Dzair Digital Services,other,,High Commission for Dig
 DZA,Dzair Digital Services digital identity,digital identity and electronic wallet of the portal,authentication,,High Commission for Digitalisation; Ministry of the Interior,,2026-05-29-dza-algeria-reviews-national-ai-strategy-progress-and-approves-launch-of-d
 DZA,"Thequa (ThequaSign, Thequa ID, Thequa entreprise)",DZA,authentication,PKI,AECE,economic operators; citizens later,2025-02-16-dza-lancement-des-services-de-certification-et-de-signature-electroniques
 DZA,Identite numerique,Algeria,authentication,"mobile phone, biometric electronic ID card",Ministry of the Interior,,2024-04-23-dza-lancement-des-identites-numeriques-des-citoyens-avant-fin-2024
+DZA,Autorité gouvernementale de certification électronique (AGCE),Algeria,other,,state,,2026-10-22-dza-la-cnas-examine-l-integration-de-la-certification-electronique-dans-le-traitemen
+DZA,temporary digital identity (portal sign-up),Temporary digital identity,other,National Digital Services Portal,High Commission for Digitalisation,,2026-07-14-dza-elmassar-national-digital-services-portal-21-services
 EGY,MOIEG-PASS,Egypt,other,"Android app, iOS expected",Ministries of Interior and of Communications and Information Technology,,2026-03-10-egypt-moieg-pass-selfie-biometrics-pilot-biometricupdate
 EGY,Biometric SIM registration eKYC,Egypt,other,,National Telecommunications Regulatory Authority (NTRA),,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
 EGY,My Lines,Egypt,other,,NTRA,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
@@ -281,6 +286,7 @@ GIN,fichier électoral biométrique (DGE),Guinea,other,,DGE,,2026-01-22-mediagui
 GIN,Registre national des personnes physiques (RNPP),Guinea,other,,ONECI,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national d'identité (RNPP),Guinea,other,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
 GIN,PKI (ANDE),Guinea,authentication,,ANDE,,2026-10-21-gin-signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier
+GIN,PKI and secure electronic signature,Guinea,authentication,,ANSSI,,2026-10-23-gin-administration-publique-la-guinee-accelere-le-deploiement-de-la-signature-e
 GMB,eCRVS (electronic Civil Registration and Vital Statistics),Gambia,other,,Ministry of Health,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,National health insurance cards (NHIA),Gambia,other,,National Health Insurance Authority,,2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia
 GMB,eCRVS (HERA),Gambia,other,WCC HERA,Ministry of Health,,2025-01-01-world-bank-gambia-id4d-diagnostic
@@ -551,6 +557,7 @@ NGA,NIN Mobile App,Nigeria,other,mobile app,NIMC,,2026-05-15-nga-vanguard-nimc-e
 NGA,NINAuth,Nigeria,authentication,mobile app,National Identity Management Commission,,2025-10-30-nga-credible-inclusive-national-identity-management-system-fundamental-to
 NGA,NINAuth,NINAuth,authentication,,NIMC,,2025-08-04-nga-nigeria-telcos-eligible-to-offer-nin-verification-for-sim-card-service
 NGA,NINAuth,Nigeria,authentication,,NIMC,NIN authentication platform with single sign-on,2025-07-31-nga-nimc-begins-migration-of-telcos-to-ninauth-for-identity-verification
+NGA,NIMC mobile app and portal,Nigeria,authentication,,NIMC,,2026-10-25-nga-nigerians-recount-frustrating-experiences-with-nimc-over-data-correcti
 RWA,Single Digital ID (SDID) authentication system,Rwanda,other,Irembo account and digital wallet,NIDA,,2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,SIM card registration (RURA Regulation 18/2024),Rwanda,other,national-ID database,RURA,,2024-08-09 Regulation Governing SIM Card Registration in Rwanda (RURA No.18-2024)
 RWA,Biometric SIM card registration and verification,Rwanda,other,NIDA database,RURA; telecom operators,,"2024-09-17 Rwanda conducts pilot to implement biometric SIM registration, verification"
@@ -754,6 +761,7 @@ UGA,UgPass,UgPass,authentication,,NITA-U,,2025-08-28-uga-govt-introduces-e-signa
 UGA,UgPass,UgPass,authentication,DAES platform (UgPass 1.0),NITA-U,,2025-05-01-uga-digitally-trusted-uganda
 UGA,e-KYC platform,Uganda,authentication,,,,2024-11-15-uga-dissemination-of-the-electronic-know-your-customer-evaluation-report
 UGA,Online Business Registration System (OBRS),Uganda,other,,Uganda Registration Services Bureau,,2025-09-02-uga-ursb-s-digital-transformation-enhances-service-access-and-transparency
+UGA,National Electronic Signature Platform,Uganda,authentication,,NITA-U,,2026-07-02-uga-familiarisation-visit-highlights-nita-u-s-digital-progress
 ZAF,NPR identity verification service (OVS),South Africa,other,National Population Register,Department of Home Affairs,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
 ZAF,SASSA grant payments,South Africa,other,,SASSA,,2025-07-06 Home Affairs on launch of world-class new identity verification service and cost
 ZAF,Online Verification System (OVS),South Africa,other,National Population Register,Department of Home Affairs,,2025-06-23-dha-npr-verification-service-pricing-correction

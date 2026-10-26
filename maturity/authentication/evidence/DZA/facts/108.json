@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-14-dza-elmassar-national-digital-services-portal-21-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "temporary digital identity (portal sign-up)",
+   "country_label": "Temporary digital identity",
+   "class": "other",
+   "platform": "National Digital Services Portal",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": "Sign-up by typing the national ID number and personal data is stated, but no check against the ID register or e-signature service is stated."
+}

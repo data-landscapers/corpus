@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-ben-benin-15-189-retraites-ont-deja-effectue-leur-preuve-de-vie-la-campagn",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "La Nouvelle Tribune reports that the government's \"Preuve de Vie\" app lets FNRB pensioners confirm their identity remotely with their NPI, passbook number and a fingerprint scan, with 15,189 successful operations by 21 October 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "Preuve de Vie app",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Preuve de Vie app",
+   "country_label": "Benin",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

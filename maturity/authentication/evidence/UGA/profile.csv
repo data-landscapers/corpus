@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,authentication,service,coverage,inservice,2026-10-01,UGA-001;UGA-007;UGA-009;UGA-019;UGA-021;UGA-023;UGA-026;UGA-028;UGA-031;UGA-033,UGA-025=underway;UGA-004=underway;UGA-005=underway;UGA-013=underway;UGA-006=underway;UGA-008=underway;UGA-011=underway;UGA-012=underway;UGA-014=underway;UGA-015=underway;UGA-016=underway;UGA-003=underway;UGA-017=underway;UGA-018=underway;UGA-027=underway,
+UGA,authentication,service,coverage,inservice,2026-10-01,UGA-001;UGA-007;UGA-009;UGA-019;UGA-021;UGA-023;UGA-026;UGA-028;UGA-031;UGA-033;UGA-034,UGA-025=underway;UGA-004=underway;UGA-005=underway;UGA-013=underway;UGA-006=underway;UGA-008=underway;UGA-011=underway;UGA-012=underway;UGA-014=underway;UGA-015=underway;UGA-016=underway;UGA-003=underway;UGA-017=underway;UGA-018=underway;UGA-027=underway,
 UGA,authentication,reach,coverage,several,2026-10-01,UGA-002;UGA-010;UGA-020;UGA-022;UGA-024;UGA-029;UGA-032,,
 UGA,authentication,remote,coverage,wallet,2025-05,UGA-030,,
