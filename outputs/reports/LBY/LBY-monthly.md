@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: LBY
 ledger_rows: 43
-not_held: 4
-record: 49f52ea4c304
+not_held: 3
+record: 49ae4aed1e64
 ---
 
 # News, Sep – Oct 2026
