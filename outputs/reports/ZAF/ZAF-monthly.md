@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: ZAF
-ledger_rows: 169
+ledger_rows: 170
 not_held: 19
-record: 451f13075f63
+record: 4dc8b92228c5
 ---
 
 # News, Sep – Oct 2026
@@ -1420,6 +1420,20 @@ The South African Revenue Service confirmed in VAT Connect Issue 21 on 8 Septemb
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">National Single Window for trade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[No completion date for SA's 'single window'](https://www.freightnews.co.za/article/no-completion-date-for-sas-single-window)** — Freight News, 8 September 2026
+
+SARS gives no date for full National Single Window, Sept 2026; only an inspection workflow with BMA live since 2023.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">One-stop border posts and digitised border systems</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2201,6 +2215,22 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 **[SA: Dr Leon Schreiber: Address by Minister of Home Affairs, at the Home Affairs Quantum Leap: A Vision for the Future of Government at Constitution Hill (01/10/2026)](https://www.polity.org.za/article/sa-dr-leon-schreiber-address-by-minister-of-home-affairs-at-the-home-affairs-quantum-leap-a-vision-for-the-future-of-government-at-constitution-hill-01102026-2026-10-02)** — Polity, 2 October 2026
 
 Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Home Affairs milestone on one million Smart IDs delivered in seven months](https://www.gov.za/news/media-statements/home-affairs-milestone-one-million-smart-ids-delivered-seven-months-26-oct)** — South African Government (Department of Home Affairs), 26 October 2026
+
+1,002,773 served at 669 bank branches since 9 Mar 2026; passports and home delivery next; green book ends Mar 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister hails 'Home Affairs @home' milestone](https://www.timeslive.co.za/news/south-africa/2026-10-26-minister-hails-home-affairs-home-milestone/)** — TimesLIVE (Sunday Times), 26 October 2026
+
+1,002,773 bank-branch Smart ID applications in seven months; 1,000-branch rollout, passports and delivery next.
 
 </div>
 
