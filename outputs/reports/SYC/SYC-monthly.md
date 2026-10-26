@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Sep – Oct 2026
-compiled: 2026-10-21
-period: 2026-09-01 to 2026-10-21
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: SYC
-ledger_rows: 14
+ledger_rows: 15
 not_held: 6
-record: 9fe5a3f2c7ee
+record: f3ac34597aa4
 ---
 
 # News, Sep – Oct 2026
@@ -22,6 +22,8 @@ record: 9fe5a3f2c7ee
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 </nav>
 
 ## Governance
@@ -299,6 +301,28 @@ Seychelles' tourism minister Amanda Bernstein told the Seychelles Tourism Forum 
 **[Country Profile on AI Governance: Seychelles](https://www.aipolicy.africa/country-profiles/seychelles)** — AI Policy Lab (LawyersHub), 7 October 2026
 
 Seychelles scored 0.84 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 39 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Infrastructure and Data (1.44) and its weakest is Implementation and Impact (0.30).
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+</nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-service digital capacity building (India NCGG programme)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[27 civil servants head to India for executive training programme](https://nation.sc/articles/32585/27-civil-servants-head-to-india-for-executive-training-programme)** — Seychelles Nation, 2 October 2026
+
+Second cohort of 27 officers leaves for a two-week Delhi–Mussoorie course on technology in governance, 5–16 Oct.
 
 </div>
 
