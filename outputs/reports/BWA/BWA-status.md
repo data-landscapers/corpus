@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-10-24
+compiled: 2026-10-26
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 203
+sources_cited: 204
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -206,7 +206,7 @@ Addressing is the gap underneath all of it: [Botswana has no well-defined locati
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-Botswana has been unable to replace its own identity card for most of 2026: [the Ministry of Labour and Home Affairs told Parliament on 28 July 2026 that too few personnel in the production process and ageing production equipment suffering frequent breakdowns had delayed Omang replacement since the start of the year](https://dailynews.gov.bw/news-detail/92439), [its remedy is extended working hours, redeployment and supplier engagement, with no target date or backlog figure given](https://dailynews.gov.bw/news-detail/92439), and [the National Registration (Amendment) Act 2025 now lets a passport or driving licence stand in while a lost, damaged or expired card is replaced, on proof of the replacement application](https://dailynews.gov.bw/news-detail/92439).
+Botswana expects to clear its identity-card backlog within weeks, after most of 2026 unable to replace the card on time: [the Minister of Labour and Home Affairs said on 24 October 2026 that nearly half of the 45,000 cards needed to clear the backlog had been produced and that the normal 14-day wait should return within two to three weeks](https://dailynews.gov.bw/news-detail/93807). [The ministry had told Parliament on 28 July 2026 that too few personnel in the production process and ageing production equipment suffering frequent breakdowns had delayed Omang replacement since the start of the year](https://dailynews.gov.bw/news-detail/92439), [answering with extended working hours, redeployment and supplier engagement](https://dailynews.gov.bw/news-detail/92439), and [the National Registration (Amendment) Act 2025 now lets a passport or driving licence stand in while a lost, damaged or expired card is replaced, on proof of the replacement application](https://dailynews.gov.bw/news-detail/92439).
 
 [Omang coverage exceeded 90% of the eligible adult population (November 2022)](https://documents1.worldbank.org/curated/en/099113023113526062/pdf/P1790340f765cc07c0b967022a091caa813.pdf), and [the unique number assigned at birth becomes the Omang number at 16, with death registrations automatically updating deceased status in the population register (2023)](https://www.statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202023.pdf). [The system is centralised and biometric, with a national repository connected in real time to district registration stations and hospital-based registration centres, and fingerprint de-duplication in place since 1988](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf), yet [applications are made at registration offices with fingerprints and supporting documents, and cards are produced centrally in fourteen working days (2025)](https://www.gov.bw/civil-registration/national-identity-card-application).
 
