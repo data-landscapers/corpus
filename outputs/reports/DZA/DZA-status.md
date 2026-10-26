@@ -1,12 +1,12 @@
 ---
 title: Algeria: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 254
+sources_cited: 255
 sections_written: 39
 not_established: 2
 acquire_lines: 58
@@ -295,7 +295,7 @@ Artificial intelligence is what Algerians are signing up to learn: of [64,508 re
 
 Registration reached [all 58 wilayas by May 2026](https://www.echoroukonline.com/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-64-%D8%A3%D9%84%D9%81-%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA), and registrants [chose remote delivery over in-person by 80.4% to 19.6%, with 61.4% aged 23 to 45 and a further 20.4% aged 18 to 22, against 3,199 children aged 7 to 10 and 181 people aged 61 to 77](https://www.echoroukonline.com/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-64-%D8%A3%D9%84%D9%81-%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA) (May 2026). A programme branded seven to seventy-seven is in practice carried by working-age adults teaching themselves at home.
 
-Training aimed at the state's own staff is narrower. Algeria has [a public sector digital skills strategy or programme, but not both, its content recorded as advanced data science and data literacy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+Training aimed at the state's own staff is narrower. Algeria has [a public sector digital skills strategy or programme, but not both, its content recorded as advanced data science and data literacy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and the national school of administration [opened an electronic administration specialty with its 2024 intake of 120](https://www.jeune-independant.net/nouvelles-specialites-a-lena-une-rentree-axee-sur-la-transition-numerique/).
 
 The specialised pipelines are small and tied to named roles. The [national higher school of computer science, founded in 1969, graduates around 180 engineers a year](https://www.esi.dz/en/esi-presentation/) (2021). A [second cohort of information systems security officers was trained at Sidi Abdellah under the Ministry of National Defence's Information Systems Security Agency, framed as building the human capacity for digital sovereignty](https://www.elmoudjahid.dz/fr/actualite/cybersecurite-et-souverainete-numerique-les-rssi-en-premiere-ligne-253024) (June 2026). A [twelve-week national artificial-intelligence vocational training track launched in April 2026, alongside a first business incubator at the vocational training institute's digital-economy centre](https://techreviewafrica.com/news/5172/algeria-launches-artificial-intelligence-training-programme-to-enhance-digital-skills).
 
