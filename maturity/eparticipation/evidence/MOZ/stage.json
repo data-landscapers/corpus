@@ -1,17 +1,18 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "eparticipation",
-   "stage": "2",
-   "online": "asked",
-   "published": "",
-   "required": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-003;MOZ-001",
-   "gaps": "No source held since October 2023 says: is a standing online channel in service.",
-   "note": "First pass: counted from the four questions by study-ladder-eparticipation.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "eparticipation",
+      "stage": "2",
+      "online": "asked",
+      "published": "",
+      "required": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-003;MOZ-001",
+      "gaps": "No source held since October 2023 says: is a standing online channel in service.",
+      "note": "First pass: counted from the four questions by study-ladder-eparticipation.py.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }
