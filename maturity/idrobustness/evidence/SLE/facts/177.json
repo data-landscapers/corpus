@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-25-sle-sierra-leone-trains-1-000-civil-servants-to-modernize-public-services",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ecofin Agency states Sierra Leone's national digital identity system was launched in August 2019.",
+   "as_of": "2019-08",
+   "date_precision": "month",
+   "system": "national digital identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national digital identity system",
+   "country_label": "national digital identity system",
+   "class": "idsystem",
+   "platform": "blockchain-supported",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,5 @@
 iso3,source_slug,read,merged_on
+AGO,2024-05-23-ago-memorandum-of-understanding-to-develop-a-digital-governance-academy-in,,2026-10-26
 AGO,2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos,,2026-10-19
 AGO,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt,,2026-10-19
 AGO,2026-03-06-nosi-setic-fp-angola-memorando-entendimento-expressodasilhas,,2026-10-19
@@ -16,6 +17,7 @@ BDI,2026-10-16-bdi-setic-services-institutions-publiques,,2026-10-19
 BEN,2021-10-05-numerique-gouv-bj-assi-prscg-formation,,2026-10-19
 BEN,2024-06-24-ben-dossier-d-appel-d-offres-pour-la-mise-en-oeuvre-des-solutions-d-ia-dev,,2026-10-21
 BEN,2024-06-25-ben-benin-une-expansion-en-vue-pour-l-assistant-virtuel-gpt-bj,,2026-10-21
+BEN,2024-07-16-ben-benin-une-nouvelle-vague-de-formation-icdl-pour-les-agents-de-l-admini,,2026-10-26
 BEN,2025-07-07-ben-l-asin-signe-plusieurs-accords-de-partenariat-pour-accelerer-la-transf,,2026-10-23
 BEN,2025-12-01-ecolenumerique-bj-d-clic-cotonou-lancement,,2026-10-19
 BEN,2026-03-25-dsi-defi-intelligence-artificielle,,2026-10-19
@@ -31,6 +33,7 @@ BFA,2017-01-31-bfa-iati-44000-p155645-burkina-faso-egovernment-project,,2026-10-
 BFA,2019-01-01-ogp-bf0011-donnees-ministeres-format-ouvert,,2026-10-19
 BFA,2024-01-30-anptic-nos-realisations,,2026-10-19
 BFA,2024-01-31-bfa-anptic-g-cloud-projet,,2026-10-19
+BFA,2024-09-05-bfa-burkina-faso-to-launch-open-source-operating-system-for-public-adminis,,2026-10-26
 BFA,2025-05-03-bfa-cybastion-esignature-training,,2026-10-19
 BFA,2025-06-24-bfa-mtdpce-dematerialisation-chaine-penale,,2026-10-19
 BFA,2025-08-18-transition-digitale-4361-taux-performance-semestre,,2026-10-19
@@ -56,13 +59,18 @@ BWA,2026-03-24-bwa-weekendpost-procurement-system-crossroads,,2026-10-25
 BWA,2026-05-06-digital-delta-data-centre-improve-public-service-delivery,,2026-10-19
 CAF,2025-05-21-worldbank-project-paper-af-car-public-sector-digital-governance,,2026-10-19
 CAF,2026-05-29-caf-nada-new-interface,,2026-10-19
+CAF,2026-10-09-caf-icasees-mission-appui-banque-mondiale-hiswaca-sop2,,2026-10-26
 CAF,2026-10-14-caf-acdd-immersion-senum-transformation-numerique,,2026-10-19
 CAF,2026-10-14-tra-senum-hosts-central-african-agency-digital-transformation,,2026-10-19
+CAF,2026-10-17-caf-icasees-lancement-deuxieme-vague-ehcvm2,,2026-10-26
 CAF,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
 CIV,2014-12-16-marcopolis-sndi-ceo-interview-egovernment-cote-divoire,,2026-10-19
 CIV,2018-01-17-cote-divoire-attributions-direction-systemes-information-fonction-publique,,2026-10-19
 CIV,2023-12-18-civ-2024-322-78011201936,,2026-10-19
+CIV,2024-05-01-civ-quelles-interventions-publiques-pour-remedier-aux-potentielles-defaill,,2026-10-26
+CIV,2024-08-12-civ-tic-190-agents-de-l-etat-formes-aux-outils-numeriques,,2026-10-26
 CIV,2024-12-18-civ-2025-322-78011201936,,2026-10-19
+CIV,2025-07-24-civ-cote-d-ivoire-aip-203-fonctionnaires-et-agents-de-l-etat-de-l-agneby-t,,2026-10-26
 CIV,2025-09-29 Cote d'Ivoire unveils UXP interoperability platform for secure government data sharing,,2026-10-19
 CIV,2025-09-29-cybernetica-sndi-uxp-contract-cote-divoire,,2026-10-19
 CIV,2025-10-01-civ-ministere-transition-numerique-note-interoperabilite,,2026-10-19
@@ -73,6 +81,7 @@ CIV,2026-07-23-ci-interoperabilite-gouvernance-numerique,,2026-10-19
 CIV,2026-07-24-civ-anssi-pki-racine-nationale-mise-en-service,,2026-10-23
 CIV,2026-07-28-cote-divoire-anssi-esatic-cybersecurity-masters,,2026-10-19
 CIV,2026-07-30-cote-divoire-cicg-trains-ministry-it-directors-website-security,,2026-10-19
+CIV,2026-07-31-civ-cote-d-ivoire-192-agents-de-l-etat-du-hambol-desormais-outilles-en-inf,,2026-10-26
 CIV,2026-09-03-civ-administration-numerique-la-cote-divoire-vise-700-services-p,,2026-10-19
 CIV,2026-09-03-civ-transformation-numerique-la-cote-divoire-priorise-les-servic,,2026-10-19
 CIV,2026-09-04-civ-afriksoir-world-bank-150m-atelier,,2026-10-19
@@ -173,6 +182,7 @@ DJI,2026-03-26-dji-ansie-comptes-financiers-2024-companion,,2026-10-19
 DJI,2026-05-16-digital-houses-e-skills-wearetech,,2026-10-19
 DJI,2026-10-05-uae-world-bank-zero-bureaucracy-program-benin-djibouti-rwanda,,2026-10-19
 DJI,2026-10-14-dji-adi-linkwise-ai-compute-infrastructure-jobs,,2026-10-19
+DJI,2026-10-25-dji-deux-projets-numeriques-de-30-millions-de-dollars-passes-en-revue-avec-un-appel,,2026-10-26
 DZA,2019-11-26-dza-jo-2019-074-decret-19-317-creation-andn,,2026-10-19
 DZA,2023-09-06-joradp-decret-23-314-haut-commissariat-numerisation,,2026-10-19
 DZA,2024-08-02-hcn-sntn-2025-2030-strategie-numerique,,2026-10-19
@@ -261,9 +271,11 @@ GAB,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single
 GAB,2026-10-21-gabon-parliament-digital-platform,,2026-10-22
 GAB,2026-10-22-gab-gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-p,,2026-10-24
 GHA,2021-10-05-nia-about-us-mandate-act-707,,2026-10-19
+GHA,2024-02-01-gha-stakeholders-push-for-unified-ict-policies-for-africa-s-digital-space,,2026-10-26
 GHA,2025-01-01-ghana-mocdti-2025-programme-based-budget-ict-capacity-development,,2026-10-19
 GHA,2025-04-10-gha-local-gov-t-minister-calls-for-data-driven-reforms-and-digital-innovat,,2026-10-25
 GHA,2025-05-27-gha-dial-adli-data-exchange-exemplars,,2026-10-19
+GHA,2025-07-01-gha-embrace-digital-reforms-for-rapid-technological-advancementcommunicati,,2026-10-26
 GHA,2025-07-08-gha-online-registration-of-businesses-in-ghana-is-still-stuck-on-manual,,2026-10-24
 GHA,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown,,2026-10-19
 GHA,2025-09-21-nia-threatens-service-cut-gra-nhia-passport-debt,,2026-10-19
@@ -271,11 +283,13 @@ GHA,2025-10-23-gha-nita-data-harmonisation-bill-consultation,,2026-10-19
 GHA,2026-01-01-gha-onix-infrastructure-solar-farm-power-water,,2026-10-19
 GHA,2026-04-16-ghana-public-sector-ai-capacity-programme-japan-undp,,2026-10-19
 GHA,2026-06-26-nita-gedw-stakeholder-engagement,,2026-10-19
+GHA,2026-07-17-gha-government-unesco-train-240-civil-servants-in-ai-literacy-initiative,,2026-10-26
 GHA,2026-10-19-gha-imani-africa-missing-plumbing-of-the-state-data-exchange,,2026-10-20
 GHA,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
 GHA,2026-10-21-gha-sam-george-announces-national-data-exchange-hub-to-connect-48-public-r,,2026-10-24
 GHA,2026-10-22-gha-csa-and-nita-order-government-institutions-to-fix-critical-p,,2026-10-23
 GHA,2026-10-22-rwa-rwanda-ghana-benin-test-cross-border-digital-identity-verification,,2026-10-23
+GHA,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-10-26
 GIN,2022-04-12-ande-missions-et-attributions,,2026-10-19
 GIN,2026-03-18-wardip-sop1-isr-seq4-guinee,,2026-10-19
 GIN,2026-07-31-isfad-devient-universite-numerique-de-guinee-ung,,2026-10-19
@@ -283,12 +297,14 @@ GIN,2026-08-26-africaguinee-ministere-modernisation-nominations-ande,,2026-10-19
 GIN,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
 GMB,2024-06-01-gmb-mops-pensions-software,,2026-10-19
 GMB,2025-03-27-gmb-thepoint-mops-power-bi-training,,2026-10-19
+GMB,2025-06-13-gmb-gicta-hosts-forum-to-strengthen-public-sector-digital-transformation,,2026-10-26
 GMB,2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets,,2026-10-19
 GMB,2026-07-14-gmcsirt-itu-capacity-building-national-csirt-staff,,2026-10-19
 GMB,2026-07-23-wadip-certified-rbm-ict-data-analytics-training-standard,,2026-10-19
 GMB,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
 GNB,2023-03-03-undp-e-justice-guinea-bissau,,2026-10-19
 GNB,2023-03-09-undp-e-justice-guinea-bissau-learning-what-works,,2026-10-19
+GNB,2026-01-19-gnb-arn-promove-acao-de-capacitacao-no-dominio-da-organizacao-digital-de-d,,2026-10-26
 GNB,2026-02-01-guinebissau-undp-newsletter-oct-dec-2025,,2026-10-19
 GNB,2026-05-01-smartafrica-sada-wardip-sop1-tor-academic-partners,,2026-10-19
 GNB,2026-07-01-undp-guinea-bissau-newsletter-apr-jun-2026-digital-skills-justice,,2026-10-19
@@ -328,6 +344,9 @@ KEN,2026-10-15-kenya-launches-national-digital-class-experience-to-connect-schoo
 KEN,2026-10-16-nation-afyake-shutdown-65000-patient-records-kangata-duale,,2026-10-19
 KEN,2026-10-22-ken-ict-ministry-puts-gov-t-agencies-on-alert-after-php-security-flaws,,2026-10-24
 KEN,2026-10-22-ken-kenya-ict-authority-signs-ai-data-cooperation-agreement-with,,2026-10-23
+KEN,2026-10-22-ken-kenyas-language-data-holds-promise-for-ai-powered-services,,2026-10-26
+KEN,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-10-26
+KEN,2026-10-24-ken-k-data-s-ai-pact-with-kenya-s-ict-authority-opens-doors-for-korean-data-fi,,2026-10-26
 LBR,2026-05-04-liberia-lnp-lra-online-police-clearance-platform-gnn,,2026-10-19
 LBR,2026-08-07-liberias-e-gp-system-becomes-regional-model,,2026-10-19
 LBR,2026-08-12-liberia-sierra-leone-digital-transformation-cooperation,,2026-10-19
@@ -336,12 +355,14 @@ LBR,2026-10-14-ipris-african-telecom-regulators-advance-digital-policies,,2026-1
 LBY,2024-03-11-lby-gia-updated-government-tenders-platform-launch,,2026-10-19
 LBY,2025-08-17-lana-gti-suspends-huawei-activities-libya,,2026-10-19
 LBY,2025-08-20-lana-gti-huawei-libya-agreement,,2026-10-19
+LBY,2025-08-27-lby-labour-ministry-digital-skills-workshop-sirte,,2026-10-26
 LBY,2026-06-01-lby-lana-audit-bureau-diwan-bot,,2026-10-19
 LBY,2026-07-26-libya-lana-khidma-madaniya-huawei-tahawwul-raqmi,,2026-10-19
 LBY,2026-09-23-lby-lana-technical-education-e-archiving,,2026-10-19
 LSO,2026-07-29-lesotho-lescomcsirt-launch-national-cybersecurity-forum,,2026-10-19
 LSO,2026-07-31-lesotho-national-cybersecurity-itweb,,2026-10-19
 LSO,2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems,,2026-10-19
+LSO,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-10-26
 LSO,2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho,,2026-10-24
 MAR,2018-07-01-oecd-revue-gouvernement-numerique-maroc,,2026-10-19
 MAR,2026-03-01-morocco-dgssi-recrutement-ingenieurs-cybersecurite,,2026-10-19
@@ -368,7 +389,9 @@ MLI,2026-10-08-mali-senegal-kidira-fibre-interconnexion-ecofin,,2026-10-19
 MOZ,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos,,2026-10-19
 MOZ,2020-09-10-decreto-82-2020-regulamento-do-uso-do-dominio-mz-mocambique,,2026-10-19
 MOZ,2025-01-14-moz-sistema-de-certificacao-digital-mocambique-registou-crescimento-na-ade,,2026-10-23
+MOZ,2025-06-04-moz-nampula-inage-ip-capacita-47-funcionarios-do-estado-em-uso-do-sistema,,2026-10-26
 MOZ,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown,,2026-10-19
+MOZ,2026-03-27-moz-capacitacao-reforca-competencias-digitais-no-sector-publico-em-makanet,,2026-10-26
 MOZ,2026-04-23-moz-mznews-atdi-huawei-ai-mou,,2026-10-19
 MRT,2023-12-26-mrt-le-president-de-la-republique-supervise-le-lancement-de-l-application,,2026-10-25
 MRT,2024-03-01-mrt-mtnima-tdr-plateforme-communication-gouv,,2026-10-19
@@ -406,6 +429,7 @@ MWI,"2025-06-23 Digitalizing Malawi to improve access to education, public servi
 MWI,2026-02-02-maren-launches-national-repository,,2026-10-19
 MWI,2026-03-06-dmap-accelerates-digital-transformation-ai-public-service,,2026-10-19
 MWI,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements,,2026-10-19
+MWI,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-10-26
 NAM,2016-12-01 Governmental Interoperability in Namibia - E-riigi Akadeemia,,2026-10-19
 NAM,2022-01-01-opm-it-customer-service-charter-namibia,,2026-10-19
 NAM,2023-12-11-nam-undp-being-a-public-servant-digital-pocket-guide-2,,2026-10-20
@@ -431,8 +455,10 @@ NGA,2025-04-30-nga-etn-firs-banks-close-accounts-taxpro-max,,2026-10-19
 NGA,2025-09-10-1gov-cloud-galaxy-backbone,,2026-10-19
 NGA,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown,,2026-10-19
 NGA,2025-10-08-ncc-19000-fibre-cuts-eight-months,,2026-10-19
+NGA,2025-11-11-nga-digitalisation-fg-adopts-1gov-cloud-platform,,2026-10-26
 NGA,2025-11-20-nigeria-ai-bill-control-innovation,,2026-10-19
 NGA,2025-12-17-nga-federal-civil-service-deploys-ai-tool-trained-on-laws-service-rules,,2026-10-21
+NGA,2025-12-18-nga-fg-says-31-ministries-now-fully-digital-ahead-of-paperless-deadline,,2026-10-26
 NGA,2025-12-31-nga-yearinreview-2025-recap-of-activities-of-the-honourable-minister-dr-bo,,2026-10-22
 NGA,2026-03-25-nga-nigeria-finalises-national-ai-policy-for-legislative-approval,,2026-10-22
 NGA,2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups,,2026-10-19
@@ -488,6 +514,7 @@ RWA,2026-10-05-uae-world-bank-zero-bureaucracy-program-benin-djibouti-rwanda,,20
 RWA,2026-10-09-cybersecurity-rwandans-urged-to-protect-private-data,,2026-10-19
 RWA,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
 RWA,2026-10-22-rwa-rwanda-ghana-benin-test-cross-border-digital-identity-verification,,2026-10-23
+RWA,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-10-26
 SDN,2025-10-01-sudan-cert-cybercrime-training-workshop-port-sudan,,2026-10-19
 SDN,2025-12-19-sudan-cert-training-workshop,,2026-10-19
 SEN,2021-06-24-adie-datacenter-diamniadio-hebergement-donnees-de-letat,,2026-10-19
@@ -503,6 +530,7 @@ SEN,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown,,2026-10-19
 SEN,2026-01-01-worldbank-senegal-digital-economy-acceleration-restructuring,,2026-10-19
 SEN,2026-02-13-enqueteplus-senum-tentatives-cyberattaques,,2026-10-19
 SEN,2026-02-25-sen-information-to-action-nationally-integrated-agdata-hub-is-a-turning-po,,2026-10-21
+SEN,2026-03-24-sen-ousmane-sonko-prone-une-coordination-renforcee-pour-reussir-la-transfo,,2026-10-26
 SEN,2026-04-24-aps-formation-100-ingenieurs-cloud-computing,,2026-10-19
 SEN,2026-04-25-aps-prodap-phase-pilote-mbour-six-communes,,2026-10-19
 SEN,2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin,,2026-10-19
@@ -554,6 +582,7 @@ SWZ,2026-08-17-eswatini-auditor-general-ai-digital-transformation,,2026-10-19
 SWZ,2026-09-07-eswatini-auditors-ai-inter-sai-engagement,,2026-10-19
 SWZ,2026-09-21-swz-esnews-bika-transport-reporting-platform,,2026-10-25
 SWZ,2026-09-24-swz-positivenews-change-readiness-digital-eswatini,,2026-10-19
+SWZ,2026-10-24-swz-govt-restores-13-online-services-website-still-down,,2026-10-26
 SYC,2024-01-01-seychelles-national-development-strategy-2024-2028,,2026-10-19
 SYC,2024-08-09-syc-pou-miei-ease-of-doing-business-portal-tender,,2026-10-19
 SYC,2025-01-22-syc-ntb-land-valuation-system-tender,,2026-10-19
@@ -566,6 +595,7 @@ SYC,2026-05-12-ncgg-pib-seychelles-capacity-building-cohort,,2026-10-19
 SYC,2026-06-10-nationalassembly-first-capacity-building-programme,,2026-10-19
 SYC,2026-06-15-gazette-national-assembly-administration-act-2026,,2026-10-19
 SYC,2026-08-31-syc-supplementary-budget-allocation-2026-companion,,2026-10-23
+SYC,2026-10-02-syc-27-civil-servants-head-to-india-for-executive-training-programme,,2026-10-26
 SYC,2026-10-14-syc-statehouse-digital-hrms-2027,,2026-10-19
 SYC,2026-10-19-syc-seychelles-targets-2027-start-for-digital-system-to-modernise-public-service,,2026-10-20
 TCD,2017-09-13-enastic-presentation,,2026-10-19
@@ -581,6 +611,7 @@ TGO,2026-06-18-togo-graduates-80-public-sector-digital-officers,,2026-10-19
 TGO,2026-09-04-togo-atd-cadre-digitalisation-services-publics-gouvernance,,2026-10-19
 TGO,2026-10-06-ipdcp-togo-universite-de-kara-convention,,2026-10-19
 TGO,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
+TGO,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-10-26
 TUN,2016-01-01-tunisie-cni-centre-national-backup-continuite-activite,,2026-10-19
 TUN,2024-08-05-tun-usembassy-fast-pfmis-project,,2026-10-19
 TUN,2025-03-01 Tunisia drives digitization agenda forward while navigating risks,,2026-10-19
@@ -606,6 +637,7 @@ TZA,2026-07-23-ttcl-dit-nictbb-training,,2026-10-19
 TZA,2026-07-25-tza-e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde,,2026-10-21
 TZA,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection,,2026-10-19
 TZA,2026-08-04-ega-tanzania-digital-farming-cooperatives,,2026-10-19
+TZA,2026-08-05-tza-govt-expands-open-source-technology-use,,2026-10-26
 TZA,2026-08-07-tanzania-bot-sovereign-yield-curve-system,,2026-10-22
 TZA,2026-09-25-tza-nest-digital-procurement-world-bank,,2026-10-22
 TZA,2026-10-14-ipris-african-telecom-regulators-advance-digital-policies,,2026-10-19
@@ -645,6 +677,7 @@ UGA,2026-06-10-nakalema-meets-trade-minister-huawei-executives,,2026-10-19
 UGA,2026-06-13-ppda-iso27001-certification,,2026-10-19
 UGA,2026-06-18-nita-u-strategic-plan-fy2025-26-2029-30,,2026-10-19
 UGA,2026-06-22-nita-u-five-year-digital-strategy,,2026-10-19
+UGA,2026-07-02-uga-familiarisation-visit-highlights-nita-u-s-digital-progress,,2026-10-26
 UGA,2026-07-15-nita-u-nisf-2026-launch,,2026-10-19
 UGA,2026-07-16-uganda-updated-national-information-security-framework,,2026-10-19
 UGA,2026-07-27-uganda-tororo-one-stop-service-uganda-centre-inspection,,2026-10-19
@@ -673,6 +706,7 @@ ZAF,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown,,2026-10-19
 ZAF,2025-09-29-sita-annual-report-2024-25,,2026-10-19
 ZAF,2026-01-09-emfuleni-procurement-plan-reporting-q2-2025-26,,2026-10-19
 ZAF,2026-02-01 SITA and the Paradox of Centralized ICT Procurement in South Africas Public Sector,,2026-10-19
+ZAF,2026-02-09-zaf-huawei-national-school-of-government-sign-mou-to-boost-public-sector-d,,2026-10-26
 ZAF,2026-06-29-zaf-pmg-nw2881-digital-health-hie-emr,,2026-10-19
 ZAF,2026-07-06-sita-r2bn-irregular-spending,,2026-10-19
 ZAF,2026-07-07 South Africa's state IT agency is slowing government tech rollout,,2026-10-19
@@ -686,6 +720,7 @@ ZAF,2026-09-22-sita-recovery-mode-comms-minister,,2026-10-19
 ZAF,2026-09-28-zaf-sita-rehabilitation-govtech-2026,,2026-10-19
 ZAF,2026-10-05-question-to-the-minister-of-communications-and-digital-techn,,2026-10-19
 ZAF,2026-10-16-zaf-mg-digitising-national-identity-not-the-solution,,2026-10-19
+ZAF,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-10-26
 ZMB,2015-01-01-eximbank-cn-zmb-001-china-eximbank-provides-654-million-loan,,2026-10-19
 ZMB,2015-01-05-zmb-lusakatimes-huawei-smart-zambia-phase-1-contract-single-sourced,,2026-10-19
 ZMB,2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-million-preferential,,2026-10-19
@@ -709,6 +744,7 @@ ZMB,2025-01-30-zmb-zambia-to-introduce-ai-power-system-to-tackle-misinformation-
 ZMB,2025-06-23-smart-office-system-rollout,,2026-10-19
 ZMB,2025-09-04-smart-zambia-2000-ict-devices-local-government-techafricanews,,2026-10-19
 ZMB,2025-09-09-zambia-dzap-early-market-engagement,,2026-10-19
+ZMB,2025-09-12-zmb-smart-zambia-equips-31-officers-with-ict-skills-in-mufulira,,2026-10-26
 ZMB,2025-09-29-smart-zambia-starlink-moomba-chiefdom,,2026-10-19
 ZMB,2025-10-03 Zambia plans domestic digital ID development with help from international partners,,2026-10-19
 ZMB,2025-10-09-smart-zambia-partnerships-inq-mezzanine-visa,,2026-10-19
@@ -717,7 +753,9 @@ ZMB,2025-11-02-georgetown-aci-china-question-zambia-smart-zambia-project,,2026-1
 ZMB,2025-11-13-zambias-community-development-ministry-unveils-three-digital-strategies,,2026-10-19
 ZMB,2025-11-17-zambia-ilo-digital-convergence-roadmap,,2026-10-19
 ZMB,2025-12-02-zmb-dzap-system-integrator-foundational-digital-id-crvs-rfp,,2026-10-23
+ZMB,2025-12-17-zmb-smart-zambia-rolls-out-decentralised-digital-skills-training-for-publi,,2026-10-26
 ZMB,2026-01-08 Zambia unveils online passport application system,,2026-10-19
+ZMB,2026-01-14-zmb-zambia-launches-digital-skills-trainer-program-to-scale-public-sector,,2026-10-26
 ZMB,2026-01-23 Zambia begins amending Electronic Government Act,,2026-10-19
 ZMB,2026-01-24-digitisation-reduced-corruption-smart-zambia,,2026-10-19
 ZMB,2026-02-03-smart-zambia-police-digitalisation-40-stations,,2026-10-19
@@ -748,10 +786,12 @@ ZMB,2026-09-05-efficacynews-zacl-smart-office-adoption,,2026-10-19
 ZMB,2026-09-10-zmb-cajnewsafrica-ict-centre-grow-zambia-agenda,,2026-10-19
 ZMB,2026-10-14-zmb-timesofzambia-hobbiton-lipila-nrfa-mobile-money-tolls,,2026-10-19
 ZMB,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
+ZMB,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-10-26
 ZWE,2024-01-01-enterprise-architecture-modelling-zimbabwe,,2026-10-19
 ZWE,2024-03-14-zwe-zrp-support-sections-ict-directorate,,2026-10-19
 ZWE,2025-05-16-zwe-businesstimes-zb-smile-cash-250k,,2026-10-19
 ZWE,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown,,2026-10-19
+ZWE,2025-11-06-zwe-digital-skills-for-civil-servants,,2026-10-26
 ZWE,2026-01-01-zwe-gisp-about,,2026-10-19
 ZWE,2026-05-28-liquid-tech-software-skills-hub-mou,,2026-10-19
 ZWE,2026-06-19-hit-lads-africa-citizen-engagement-platform,,2026-10-19

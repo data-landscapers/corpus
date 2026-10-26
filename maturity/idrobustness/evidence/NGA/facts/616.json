@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-25-nga-nigerians-recount-frustrating-experiences-with-nimc-over-data-correcti",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article says NIMC issues the National Identification Number, a unique number establishing identity from demographic and biometric data.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN (National Identification Number)",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

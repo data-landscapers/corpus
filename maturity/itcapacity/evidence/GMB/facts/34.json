@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-13-gmb-gicta-hosts-forum-to-strengthen-public-sector-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "cadre",
+   "value": "adopted",
+   "fact": "Government ICT professionals across ministries and agencies form an ICT cadre under the administrative oversight of the Gambia ICT Agency (GICTA), as mandated by the GICTA Act of 2019, according to a June 2025 forum report.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "GICTA ICT cadre",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

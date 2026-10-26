@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-23-ago-pr-autoriza-mais-70-milhoes-de-dolares-para-a-transformacao-digital-do",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Despacho Presidencial 300/26 of 13 August 2026 authorised USD 28m to implement a digital identity platform with capacity for up to 30 million digital identities, per Valor Económico.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "plataforma de identidade digital",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,6 +1,6 @@
 # Local capacity to maintain, manage and develop government systems: in-house capacity
 
-*As at 2026-09-30.*
+*As at 2026-10-26.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 1 |
 | 4 Operating | 10 |
 | 3 Established | 23 |
 | 2 Nascent | 4 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
+
+### Gambia: 5 Leading
+
+Government IT staff have formed an ICT cadre under the national ICT agency since a 2019 law; who runs the systems is not known.
+
+- Government ICT professionals across ministries and agencies form an ICT cadre under the administrative oversight of the Gambia ICT Agency (GICTA), as mandated by the GICTA Act of 2019, according to a June 2025 forum report ([source, 2019](https://thepoint.gm/africa/gambia/national-news/gicta-hosts-forum-to-strengthen-public-sector-digital-transformation)).
 
 ### Angola: 4 Operating
 
@@ -335,12 +341,6 @@ Nothing held says who builds or runs the government's systems, so no stage is se
 Not established: Nothing held says who builds or runs the government's computer systems.
 
 ### Eritrea: No evidence
-
-Nothing held says who builds or runs the government's systems, so no stage is set.
-
-Not established: Nothing held says who builds or runs the government's computer systems.
-
-### Gambia: No evidence
 
 Nothing held says who builds or runs the government's systems, so no stage is set.
 

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,robustness,system,coverage,inservice,2026-09-11,BWA-001;BWA-002;BWA-004;BWA-006;BWA-007;BWA-008;BWA-009;BWA-010,BWA-005=underway;BWA-003=underway;BWA-011=underway,
+BWA,robustness,system,coverage,inservice,2026-10-24,BWA-001;BWA-002;BWA-004;BWA-006;BWA-007;BWA-008;BWA-009;BWA-010;BWA-012,BWA-005=underway;BWA-003=underway;BWA-011=underway,
 BWA,robustness,biometric,coverage,,,,,nothing held
 BWA,robustness,assurance,coverage,,,,,nothing held

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-22-ben-benin-15-189-retraites-ont-deja-effectue-leur-preuve-de-vie-la-campagn",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article says pensioners need only a biometric national identity card and use their NPI to prove life at biometric kiosks and in the app.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "NPI and biometric national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,18 +1,19 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "no evidence",
-   "inhouse": "",
-   "agency": "",
-   "built": "",
-   "cadre": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says who builds or runs the government's computer systems.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "5",
+      "inhouse": "",
+      "agency": "",
+      "built": "",
+      "cadre": "adopted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001",
+      "gaps": "No source held says which systems government staff run, that GICTA builds or runs systems for ministries, or that a system built in-house went live since October 2023.",
+      "note": "An ICT cadre for government IT staff under GICTA, set by the GICTA Act of 2019, answers question 4, and a later yes answers the earlier ones, so stage 5. Nothing else is held on who runs the systems.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,robustness,system,coverage,inservice,2026-09-24,AGO-003;AGO-004;AGO-005;AGO-007;AGO-008;AGO-009;AGO-010;AGO-011;AGO-012;AGO-013;AGO-014;AGO-015;AGO-016,AGO-006=underway;AGO-001=underway;AGO-002=underway,
+AGO,robustness,system,coverage,inservice,2026-09-24,AGO-003;AGO-004;AGO-005;AGO-007;AGO-008;AGO-009;AGO-010;AGO-011;AGO-012;AGO-013;AGO-014;AGO-015;AGO-016,AGO-006=underway;AGO-001=underway;AGO-017=underway;AGO-002=underway,
 AGO,robustness,biometric,coverage,,,,,nothing held
 AGO,robustness,assurance,coverage,,,,,nothing held

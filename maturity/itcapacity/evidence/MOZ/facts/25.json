@@ -1,0 +1,31 @@
+{
+ "slug": "2026-03-27-moz-capacitacao-reforca-competencias-digitais-no-sector-publico-em-makanet",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CorreioGov",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CloudGov",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "e-SuRA",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A training course, which is other; it does not say who runs the named systems."
+}

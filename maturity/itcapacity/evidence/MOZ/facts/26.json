@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-04-moz-nampula-inage-ip-capacita-47-funcionarios-do-estado-em-uso-do-sistema",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Mozambique's National Institute of Electronic Government (INAGE, IP) and CEDIMO staff form the team responsible for developing and implementing the e-SNGD document-management system used by state institutions, and INAGE trained 47 provincial state staff in Nampula on it on 2-6 June 2025.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Sistema Nacional de Gestão Documental (e-SNGD)",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

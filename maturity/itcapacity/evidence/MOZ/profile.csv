@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MOZ,inhouse,inhouse,coverage,yes,2025-01-14,MOZ-001;MOZ-004,,
-MOZ,inhouse,agency,coverage,operating,2026-08-08,MOZ-002;MOZ-005,,
-MOZ,inhouse,built,coverage,live,2020-08-13,MOZ-003,,nothing dated since 2023-10-24
+MOZ,inhouse,agency,coverage,operating,2026-08-08,MOZ-002;MOZ-005;MOZ-006,,
+MOZ,inhouse,built,coverage,live,2020-08-13,MOZ-003,,nothing dated since 2023-10-26
 MOZ,inhouse,cadre,coverage,,,,,nothing held
