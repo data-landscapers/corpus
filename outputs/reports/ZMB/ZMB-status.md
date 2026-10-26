@@ -1,12 +1,12 @@
 ---
 title: Zambia: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 192
+sources_cited: 195
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -157,7 +157,7 @@ Zambia's government systems are bought rather than built: of the eight whose sof
 
 That extends to the machinery of the civil service itself: [the human resource management information system and the payroll system are both commercial off-the-shelf products, with most HR services online or digitised (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The identity platform is where the state has tried to reverse the pattern. [SMART Zambia Institute e-government developers have taken MOSIP training so the platform can be run in-country, though development and capacity building still depend substantially on external partners (2025)](https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration/), and [the institute said in March 2026 that the digital identity system would be developed by Zambians, with an international partner used only for technical support](https://znbc.co.zm/?p=11892).
 
-The institutional scaffolding is in place. [A dedicated digital government institution is established, with machinery for coordinating government technology across ministries](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), alongside [a public sector innovation institution whose focus areas are digital skills and public service innovation (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A digital skills strategy and a training programme for public servants cover basic digital skills and data literacy, including fee-based training](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [the Smart Zambia Institute launched a decentralised version of that training for government staff in December 2025](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive).
+The institutional scaffolding is in place. [A dedicated digital government institution is established, with machinery for coordinating government technology across ministries](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), alongside [a public sector innovation institution whose focus areas are digital skills and public service innovation (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [A digital skills strategy and a training programme for public servants cover basic digital skills and data literacy, including fee-based training](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [the Smart Zambia Institute launched a decentralised version of that training for government staff in December 2025](https://www.wearetech.africa/fr/fils/actualites/telecom/connectivite-gouvernementale-la-zambie-lance-un-reseau-4g-prive), followed by [a training-of-trainers programme for 80 mainly public-sector trainers in January 2026](https://www.ecofinagency.com/news-services/1401-51930-zambia-launches-digital-skills-trainer-program-to-scale-public-sector-capacity).
 
 The tertiary pipeline is long-standing rather than new: [the University of Zambia's Department of Computing and Informatics dates from September 1998 and admitted its first computer science degree students in August 2000](https://engineering.unza.zm/natural-and-applied-sciences/computing-and-informatics).
 
@@ -206,6 +206,8 @@ Retail money moves over the National Financial Switch, [operated by the Zambia E
 Governance of the switch seats the central bank and the commercial banks: [non-bank payment providers have no seat on the clearing house board and put their views through an association instead](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_Zambia.pdf) (2023). Across borders the country is connected at wholesale level only, through [the SADC and COMESA regional settlement systems, with no instant retail link out of the national scheme](https://africanenda.org/wp-content/uploads/SIIPS2023_CaseStudy_Zambia.pdf) (2023). Payments to the state run through the interbank system, whose [2024 rules provide for the central bank to process Revenue Authority transactions and point to integration with the financial management system and the treasury single account](https://www.boz.zm/ZIPSSRules2024.pdf), and that [account is in use across ministries, departments and agencies, settling over both gross-settlement and fast payment rails](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 Identity has not been the constraint on access: the [refugee certificate has counted as valid know-your-customer documentation for mobile money and SIM registration since 2017](https://data.unhcr.org/en/documents/download/71306), which is how refugees in the settlements receive digital payments. Banking is the weaker channel — [access to banking services scores 35.9 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), and still ranks 11th of 54 African states (2023). [Collections through the national services portal were put at about K9.8 billion since its 2019 launch, on the finance minister's account of 30 September 2026](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m).
+
+Redress runs through the competition regulator rather than a financial ombudsman: [the Competition and Consumer Protection Commission resolved 1,477 consumer complaints in 2024 on its own count, 13.60 percent of them in ICT and chiefly mobile-money transactions not reversed](https://www.zambiamonitor.com/consumer-protection-commission-claims-1477-complaints-resolved-in-2024/), and [the central bank is looking to create an independent ombudsman office for consumers](https://www.afi-global.org/wp-content/uploads/2025/11/CP4DFS-Assessment-Report.pdf) (2025).
 
 ### Registries
 <!-- dpi.registry -->
