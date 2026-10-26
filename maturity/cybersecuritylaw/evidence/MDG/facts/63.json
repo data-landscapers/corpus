@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-24-mdg-lutte-contre-la-cybercriminalite-les-parlementaires-reexaminent-le-pro",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Madagascar's cybercrime bill no. 042/2026 of 7 July 2026, 96 articles, is back on the National Assembly agenda with committee examination set for 2 November 2026, after its examination was postponed at the September extraordinary session.",
+   "as_of": "2026-10-24",
+   "date_precision": "day",
+   "system": "Projet de loi n 042/2026 sur la lutte contre la cybercriminalite",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The bill is meant to update Madagascar's existing 2014 law on cybercrime, which the report treats as the current legislation.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Loi de 2014 sur la cybercriminalite",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "No arrest, prosecution or published figures stated."
+}

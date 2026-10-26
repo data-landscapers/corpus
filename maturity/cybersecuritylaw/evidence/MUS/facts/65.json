@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-mus-mitci-rfi-01-2025-26-sovereign-cloud",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry of ICT's sovereign cloud RFI names the Cybersecurity and Cybercrime Act (CCA) 2021 among the local regulatory compliance standards suppliers are to implement.",
+   "as_of": "2025-09-01",
+   "date_precision": "day",
+   "system": "Cybersecurity and Cybercrime Act 2021",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
