@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-25-gab-gabon-loi-de-finances-2027-les-budgets-de-la-communication-et-de-leconomie-numer",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "Gabon's Ministry of the Digital Economy presented to the National Assembly on 25 October 2026 a 2027 budget estimate of FCFA 37,214,804,386 in the 2027 finance bill.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Ministry of the Digital Economy budget 2027",
+   "class": "financing"
+  },
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "fell",
+   "fact": "The ministry's 2027 estimate of FCFA 37.2 billion is about FCFA 16.5 billion below its 2026 envelope of FCFA 53,711,081,266, per the estimate presented to the National Assembly on 25 October 2026.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "Ministry of the Digital Economy budget 2027",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

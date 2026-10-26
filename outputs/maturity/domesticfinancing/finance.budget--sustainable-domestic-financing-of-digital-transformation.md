@@ -22,8 +22,8 @@ Agenda 2063, Goal 20, asks that Africa take full responsibility for financing it
 |---|---|
 | 5 Leading | 7 |
 | 4 Operating | 2 |
-| 3 Established | 20 |
-| 2 Nascent | 23 |
+| 3 Established | 19 |
+| 2 Nascent | 24 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -147,13 +147,6 @@ Ethiopia's digital budget lines rose 48.2% in 2026/27 over 2025/26; no fund, lev
 
 - Budget tables: the 73 digital line(s) held in both years total 21,697,879,134 ETB for 2019 Budget Year against 14,643,622,841 for 2018 Budget Year, +48.2 per cent; 125 lines are held for 2019 Budget Year. Dated by the budget document ([source, 2026-07-09](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx)).
 - Budget tables: the budget for 2019 Budget Year gives 35,959,539,563 ETB to 125 digital line(s). Dated by the budget document ([source, 2026-07-09](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx)).
-
-### Gabon: 3 Established
-
-Gabon's digital lines rose 10 per cent in the 2026 budget, and the ministry's budget rose from 32 to 82 billion CFA francs; spending unknown.
-
-- Budget tables: the 10 digital line(s) held in both years total 25,152,318,272 XAF for 2026 against 22,855,429,916 for 2025, +10.0 per cent; 14 lines are held for 2026. Dated by the budget document ([source, 2026-07-17](https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178593988623.pdf)).
-- Budget tables: the budget for 2026 gives 30,511,992,244 XAF to 14 digital line(s). Dated by the budget document ([source, 2026-07-17](https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178593988623.pdf)).
 
 ### Gambia: 3 Established
 
@@ -307,6 +300,13 @@ The 2026 budget gives 23.5 billion Central African francs to 113 digital lines, 
 
 - Budget tables: the budget for Ejercicio 2026 gives 23,476,749,000 XAF to 113 digital line(s). Dated by the budget document ([source, 2025-12-09](https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf)).
 - Budget tables: the 10 digital line(s) held in both years total 8,528,000,000 XAF for Ejercicio 2026 against 8,668,000,000 for Ejercicio 2025, -1.6 per cent; 113 lines are held for Ejercicio 2026. Dated by the budget document ([source, 2025-12-09](https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf)).
+
+### Gabon: 2 Nascent
+
+The digital ministry's 2027 budget estimate fell to 37.2 billion CFA francs from 53.7 billion in 2026; spending is not known.
+
+- Gabon's Ministry of the Digital Economy presented to the National Assembly on 25 October 2026 a 2027 budget estimate of FCFA 37,214,804,386 in the 2027 finance bill ([source, 2026-10-25](https://agpgabon.ga/gabon-loi-de-finances-2027-les-budgets-de-la-communication-et-de-leconomie-numerique-examines-a-lassemblee-nationale/)).
+- The ministry's 2027 estimate of FCFA 37.2 billion is about FCFA 16.5 billion below its 2026 envelope of FCFA 53,711,081,266, per the estimate presented to the National Assembly on 25 October 2026 ([source, 2026-10-25](https://agpgabon.ga/gabon-loi-de-finances-2027-les-budgets-de-la-communication-et-de-leconomie-numerique-examines-a-lassemblee-nationale/)).
 
 ### Guinea-Bissau: 2 Nascent
 

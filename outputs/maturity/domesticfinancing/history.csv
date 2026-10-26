@@ -1,2 +1,3 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,MRT,finance.budget--sustainable-domestic-financing-of-digital-transformation,fact,3,3,MRT-004;MRT-003,"ARE's February 2025 deck has the universal service fund levied at 3% of operators' turnover and paying for coverage projects; its decree was repealed in July 2026, so it is no act and the stage stays 3."
+2026-10-26,GAB,finance.budget--sustainable-domestic-financing-of-digital-transformation,fact,3,2,GAB-005;GAB-006,"The 2027 finance bill (25 October 2026) gives the digital ministry FCFA 37.2bn against 53.7bn in 2026 (GAB-005, GAB-006): a fall in the latest budget, 3 to 2"
