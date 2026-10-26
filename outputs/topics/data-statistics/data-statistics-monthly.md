@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: data.statistics
 places: BWA; BFA; BDI; CMR; CAF; COG; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA
-record: 1e9c9e61f32e
+record: c3e56e6d31de
 ---
 
 # News, Sep – Oct 2026
@@ -147,6 +147,43 @@ The Central African Republic's statistics institute, ICASEES, put the provisiona
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : Retraite de travail consacrée à l'apurement et à la tabulation des données du RGPH-4](https://www.icasees.org/index.php/actualites/425-icasees-retraite-de-travail-consacree-a-lapurement-et-a-la-tabulation-des-donnees-du-rgph-4)** — ICASEES, 3 October 2026
+
+The Central African Republic's statistics institute ICASEES held a retreat in Boali from 2 to 5 October 2026 to clean, quality-check and tabulate data from the fourth general population and housing census (RGPH-4), following a review of provisional results by the census technical committee on 23 to 25 September. More than 40 demographers, statisticians and programmers worked on inconsistencies, outliers, non-response and imputation rules, coded in Stata, SPSS and CSPro, with attention to variables on employment, occupation, income and ethnicity.
+
+</div>
+
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional statistics harmonisation project (HISWACA-SOP2)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : La mission d'appui de la Banque mondiale au projet HISWACA-SOP2](https://www.icasees.org/index.php/actualites/427-icasees-la-mission-dappui-de-la-banque-mondiale-au-projet-hiswaca-sop2)** — ICASEES, 9 October 2026
+
+A World Bank supervision mission led by statistician Gervais Chamberlin Yama visited the Central African Republic's statistics institute ICASEES on 7 and 8 October 2026 to review the HISWACA-SOP2 statistics project (P180085). Its specialists examined fiduciary management, environmental and social safeguards, monitoring and evaluation, statistical output and the institute's capacity, and followed up recommendations from the previous mission.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Harmonised household living-conditions survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASEES : Lancement de la deuxième vague de collecte de l'EHCVM2 en République centrafricaine](https://www.icasees.org/index.php/actualites/430-icasees-lancement-de-la-deuxieme-vague-de-collecte-de-lehcvm2-en-republique-centrafricaine)** — ICASEES, 17 October 2026
+
+ICASEES launched the second collection wave of the Central African Republic's second harmonised household living-conditions survey (EHCVM2) at a press briefing in Bangui on 17 October 2026. The wave extends the survey to the Fertit region (Haute-Kotto, Vakaga and Bamingui-Bangoran), which the July-to-September first wave had left out for security reasons, and steps up household sensitisation; the survey runs under the World Bank-backed HISWACA-SOP2 project.
+
+</div>
 
 </div>
 

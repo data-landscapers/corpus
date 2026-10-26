@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c9579baecb42
+record: 4f4a22c4ee49
 ---
 
 # News, Sep – Oct 2026
@@ -619,6 +619,20 @@ The steering committee of Congo's task force on digitalising the administration,
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Certified electronic invoicing system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Administration fiscale : les animateurs du projet SFEC échangent avec les chefs d’entreprise de Pointe-Noire](https://www.adiac-congo.com/content/administration-fiscale-les-animateurs-du-projet-sfec-echangent-avec-les-chefs-dentreprise-de)** — Les Dépêches de Brazzaville (ADIAC), 22 October 2026
+
+Officials of the Republic of Congo's tax directorate briefed Pointe-Noire business leaders on 20 October on the certified electronic invoicing system (SFEC), in deployment since 1 August 2026. Project lead Séraphin Ndion said 1,335 companies were connected and warned that sanctions for non-compliance apply from 31 October.
+
+</div>
+
+</div>
+
 ## Cote d'Ivoire
 
 <div class="monthly-story" markdown="1">
@@ -1072,6 +1086,7 @@ Eswatini's audit office hosted a week-long peer programme at which supreme audit
 Eswatini's prime minister, Russell Mmiso Dlamini, told a tourism conference in Mbabane on 17 September 2026 that the e-Visa platform suffers delays and payment failures, worst at peak periods, with no manual fallback. He said the Eswatini Payment Switch already handles fast payments and will add open banking and card switching.
 
 </div>
+
 
 
 
@@ -2512,6 +2527,20 @@ Rwanda's finance ministry has finished upgrading its Integrated Financial Manage
 **[IPPIS Developer API — api.ippis.rw](https://www.api.ippis.rw/)** — IPPIS Rwanda, 16 October 2026
 
 Rwanda's public-sector HR platform, IPPIS, offers a REST API through which approved government partner systems can retrieve public servants' NID-verified profiles, education, work history and related records. Access requires partner credentials and bearer tokens.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satisfaction with digitally delivered public services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwandans report lower satisfaction with public services, new scorecard shows](https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/)** — Rwanda Dispatch, 23 October 2026
+
+The Rwanda Governance Board's 13th Rwanda Governance Scorecard, published on 22 October 2026, scored service delivery at 68.48%, down from 71.73% and the lowest of its eight categories, while security and public order stood at 90.15%. Digitally delivered services scored 60.98% against 77.83% for services from public institutions, businesses and NGOs; satisfaction with the Irembo platform fell 5.60 points to 81.80% and e-court filing 13.60 points to 65.40%, and the report cited ICT ministry data that only 11% of government services were fully online in 2024.
 
 </div>
 

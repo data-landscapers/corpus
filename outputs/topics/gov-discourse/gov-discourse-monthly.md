@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: gov.discourse
 places: CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: cefb1746944a
+record: 069d35a71861
 ---
 
 # News, Sep – Oct 2026
@@ -146,6 +146,14 @@ Internet and phone services were severely disrupted across Ethiopia's Tigray reg
 **[Réseaux sociaux : après 9 mois, l’aveu du porte-parole de la Présidence relance la polémique](https://gabonmailinfos.com/reseaux-sociaux-apres-9-mois-laveu-du-porte-parole-de-la-presidence-relance-la-polemique/)** — Gabon Mail Infos, 6 October 2026
 
 Gabon's presidential spokesman said on radio that he uses a VPN, outside the law, to get round the social-media suspension the communications authority imposed in February 2026. The outlet reports the suspension still in force and the authority silent on any sanction.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon : la HAC lève la suspension des réseaux sociaux](https://agpgabon.ga/gabon-la-hac-leve-la-suspension-des-reseaux-sociaux/)** — Agence Gabonaise de Presse, 24 October 2026
+
+Gabon's media regulator, the Haute autorité de la communication, lifted on 24 October 2026 the nationwide suspension of social media it had ordered on 17 February. It cited three presidential ordinances of 26 February regulating social-media use and reporting protocols now operating with TikTok, Meta and YouTube that give it access to their tools for flagging illicit content.
 
 </div>
 

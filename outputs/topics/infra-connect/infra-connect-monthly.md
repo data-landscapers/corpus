@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: fc3313c3ec04
+record: 8720bd20b8e5
 ---
 
 # News, Sep – Oct 2026
@@ -578,6 +578,22 @@ DE-CIX and Cabo Verde Telecom signed a non-binding letter of intent to explore a
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink share of the internet market</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Cabo Verde: Starlink Triplica Quota de Tráfego de Internet e já Representa 18% do Total](https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total)** — Diário Económico, 24 October 2026
+
+Figures from Cabo Verde's regulator ARME, reported by Lusa, show Starlink's share of national internet traffic rising from 6% in the second quarter of 2025 to 18% a year later, although it held only 0.87% of internet subscriptions at the end of June. Over the same period Cabo Verde Telecom's traffic share fell from 89% to 78% and Unitel's from 6% to 4%; the country had 500,263 internet subscriptions, 85% of them mobile broadband.
+
+</div>
+
+</div>
+
 ## Central African Republic
 
 <div class="monthly-story" markdown="1">
@@ -697,6 +713,20 @@ Côte d'Ivoire's Council of Ministers adopted a decree on 14 October 2026 settin
 **[Projet de fibre optique « Horizon » : Une nouvelle autoroute numérique pour la Corne de l’Afrique](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/)** — La Nation, 9 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
 
 Djibouti Telecom, Ethio telecom and Sudatel presented their Horizon terrestrial fibre project to Google, Meta, Microsoft, Amazon and other carriers and vendors in Addis Ababa on 7 September 2026. The multi-terabit link would connect cable landing stations in Djibouti and Port Sudan through Ethiopia, reducing reliance on Red Sea submarine cables. No cost or launch date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Djibouti Digital Foundation and EARDIP domestic fibre rollout</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Deux projets numériques de 30 millions de dollars passés en revue, avec un appel à accélérer](https://www.adi.dj/public/article/139032)** — ADI Djibouti, 25 October 2026
+
+Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital projects with the regulator ARMD and the state information systems agency ANSIE and called for faster implementation. The US$10 million DFN project has completed 26 of 35 activities, with nearly 80% of funds committed and 56% disbursed, before it closes on 30 June 2027; the US$20 million EARDIP's cross-border links, twelve 4G sites and fibre loops to Dikhil, Tadjourah and Obock still await approval of commercial, environmental and social studies.
 
 </div>
 
@@ -1149,6 +1179,20 @@ Gabon's digital infrastructure holding SPIN and Cameroon's operator CAMTEL have 
 **[Numérique : une 'Gabon Digital Week' au coeur de l'innovation](https://www.union.sonapresse.com/fr/numerique-une-gabon-digital-week-au-coeur-de-linnovation)** — L'Union - Sonapresse, 24 October 2026
 
 Gabon's digital economy ministry announced a Gabon Digital Week at the Palais des Congrès in Libreville from 26 to 30 October 2026, under the president's patronage. The programme includes a government seminar on the national digitalisation strategy, presentation of the Gabon Digital programme, the official start of a 5G pilot with Moov Africa Gabon Telecom and Airtel Gabon, and an African Union specialised technical committee where some fifteen ministers are to draft a Libreville Declaration ahead of ITU meetings in Doha.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Authorisation of satellite internet providers for unconnected villages</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Digital/Interview : « Notre ambition est de faire de Libreville la capitale africaine du numérique », dixit Mark-Alexandre Doumba](https://agpgabon.ga/gabon-digital-interview-notre-ambition-est-de-faire-de-libreville-la-capitale-africaine-du-numerique-dixit-mark-alexandre-doumba/)** — Agence Gabonaise de Presse, 24 October 2026
+
+Ahead of the first Gabon Digital Week, digital economy minister Mark-Alexandre Doumba told the national news agency that satellite providers such as Starlink and Eutelsat will be authorised in the coming months to cover more than 200 unconnected villages, alongside a universal service fund. He said the Gabon Fiber programme with SPIN and Gabon Télécom has laid 196 km of fibre, connecting Lambaréné, Fougamou and Mouila, and that ministries are digitising driving licences, payments and revenue collection, digital identity and civil registration.
 
 </div>
 

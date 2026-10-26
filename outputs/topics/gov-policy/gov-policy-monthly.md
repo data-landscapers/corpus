@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: gov.policy
 places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 6d40a349a252
+record: 4e47c3a0c8b5
 ---
 
 # News, Sep – Oct 2026
@@ -522,6 +522,14 @@ Egypt's communications minister Raafat Hendy put the Digital Egypt platform at a
 **[وزير الاتصالات يبحث مع لجنة صناعة الاتصالات تعزيز التصنيع المحلي وتطوير مراكز البيانات](https://gate.ahram.org.eg/News/5938370.aspx)** — Ahram Gate (Al-Ahram), 3 October 2026
 
 Egypt's communications minister, Raafat Hendy, met the regulator NTRA's reconstituted Telecom Industry Committee, which recommended expanding local manufacture of telecoms equipment and studying data-centre and cloud development. Hendy said Digital Egypt offers about 250 services, with 270 targeted by end-2026. NTRA said the biometric digital identity system is in trial with the four mobile operators.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt Forum 2026 outlines sweeping development agenda to raise living standards, boost growth](https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living)** — EgyptToday, 24 October 2026
+
+Prime Minister Mostafa Madbouly announced the closing recommendations of Egypt Forum 2026, issued as presidential directives with targets running to 2030, covering wages, housing, health, education and industry. On digital government they aim to digitise all public services within three years and to double the Digital Egypt platform's 250 services to 500 by the close of 2026, and basic fixed-internet packages are to go from 50 GB to 100 GB.
 
 </div>
 
@@ -1136,6 +1144,20 @@ The Nigerian Communications Commission launched an Internet Governance Working G
 **[Rwanda looks to coordinated AI plan to boost jobs and digital public services](https://thedawnrwanda.com/index.php/2026/10/20/rwanda-looks-to-coordinated-ai-plan-to-boost-jobs-and-digital-public-services/economy/)** — The Dawn Rwanda, 20 October 2026
 
 Rwanda's ICT minister of state Yves Iradukunda told the Global AI and Digital Summit in South Korea that Rwanda will bring its digital and AI strategies together under one coordinated programme. Its three priorities are digital and AI infrastructure, jobs, and better digital public services.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial intelligence agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda can be Korea's AI entry point to Africa: minister](https://www.koreaherald.com/article/10911470)** — The Korea Herald, 22 October 2026
+
+On his first visit to South Korea, Rwanda's minister of state for ICT and innovation Yves Iradukunda pitched Rwanda as an entry point for Korean technology firms into Africa and sought Korean investment in data centres, proposing that countries share such infrastructure regionally. He said Rwanda's new government-owned AI agency, coming into operation through 2026, will run an 'AI Factory' unit that builds and tests applications with private partners, help firms reach data and computing, and aim to recover part of its costs by charging for development, training and compute.
 
 </div>
 

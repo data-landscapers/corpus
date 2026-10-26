@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: tech.industry
-places: DZA; AGO; EGY; SWZ; KEN; MDG; MUS; MOZ; NGA; SEN; ZAF; TZA; UGA
-record: 0dfefff92544
+places: DZA; AGO; EGY; SWZ; GHA; KEN; MDG; MUS; MOZ; NGA; SEN; ZAF; TZA; UGA
+record: 342e8958d318
 ---
 
 # News, Sep – Oct 2026
@@ -17,6 +17,8 @@ record: 0dfefff92544
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -135,6 +137,22 @@ InteLogix opened an artificial-intelligence delivery hub in Cairo, inaugurated b
 **[Taiwan Opens Global Markets for Eswatini Through Buy Eswatini](https://eswatinipositivenews.online/taiwan-opens-global-markets-for-eswatini-through-buy-eswatini/)** — Eswatini Positive News, 5 September 2026
 
 The Taiwan-funded Buy Eswatini digital commerce platform was handed to the Eswatini Investment Promotion Authority at the 58th Eswatini International Trade Fair on 3 September 2026. Eswatini's commerce minister asked Taiwan to fund a third phase covering platform infrastructure, data protection, digital payments, logistics and training for small businesses. No value is given for Taiwan's support or the request.
+
+</div>
+
+</div>
+
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Information and communication share of output</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rebased GDP Quarterly Bulletin 2006-2026Q2, September 2026 Edition]()** — Ghana Statistical Service, 1 September 2026
+
+The Ghana Statistical Service's September 2026 quarterly GDP bulletin carries final rebased estimates from 2006 to 2023, revised figures for 2024 to the first quarter of 2026 and provisional figures for the second quarter of 2026, at constant 2013 prices. In its provisional second-quarter figures, information and communication made up 3.48% of GDP and grew 30.9% year on year in real terms.
 
 </div>
 

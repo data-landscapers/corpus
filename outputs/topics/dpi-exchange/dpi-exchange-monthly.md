@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GNB; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7f9bbbc05c6a
+record: efa7e3330148
 ---
 
 # News, Sep – Oct 2026
@@ -413,6 +413,14 @@ The DRC's finance minister, Doudou Fwamba, said on 3 September 2026 that monthly
 **[RDC : stratégies, identité numérique et cybersécurité au bilan d’un an de réformes](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes)** — Agence Ecofin, 30 September 2026
 
 The DRC's digital economy minister said the prime minister had signed decrees creating an online administrative-services portal and a national electronic certification agency, and that a national cybersecurity agency had been created by presidential ordinance. He said the RDC-PASS digital identity entered a first operational phase in September with 50 enrolment agents trained.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : Serge Kaozi Lubamba nommé à la tête des missions de l'ANCE](https://numerico.cd/fr/article/rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance)** — Numerico.cd, 22 October 2026
+
+DR Congo's digital economy minister Augustin Kibassa Maliba appointed Serge Kaozi Lubamba, with Tommy Tumba Muana as deputy, to lead the missions of the national electronic certification authority (ANCE) by an order signed on 19 October 2026. The authority was provided for in the 2023 Digital Code but never set up, and its missions had been given to the telecoms regulator ARPTC in August 2024.
 
 </div>
 

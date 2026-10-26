@@ -1,16 +1,18 @@
 ---
 title: Literacy — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: capacity.literacy
-places: AGO; CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MOZ; NAM; NER; NGA; RWA; SEN; SLE; TZA; TGO; UGA
-record: 484f4154190d
+places: AGO; BDI; CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; TZA; TGO; TUN; UGA
+record: 52ca3471e905
 ---
 
 # News, Sep – Oct 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -30,6 +32,8 @@ record: 484f4154190d
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
@@ -42,11 +46,15 @@ record: 484f4154190d
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#seychelles">Seychelles</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 </nav>
@@ -62,6 +70,22 @@ record: 484f4154190d
 **[João Lourenço autoriza despesa de 20 milhões USD para capacitação digital em Angola](https://poligrafoafrica.com/fact-check/joao-lourenco-autoriza-despesa-de-20-milhoes-usd-para-capacitacao-digital-em-angola/)** — Polígrafo África, 22 October 2026
 
 Angola's President authorised USD 20 million, by a despacho reported on 22 October 2026, for digital skills training at basic, intermediate and advanced levels for young workers and civil servants, along with awareness of data protection and cybersecurity. Training centres are to be hired by public tender, run by the Institute for Administrative Modernisation.
+
+</div>
+
+</div>
+
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital skills of public officials</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La transformation numérique ne se résume pas aux infrastructures (post de Bienvenu Irakoze, coordonnateur du PAFEN)](https://www.linkedin.com/feed/update/urn:li:activity:7509922575322566656)** — Bienvenu Irakoze, PAFEN coordinator (LinkedIn), 27 September 2026
+
+Bienvenu Irakoze, coordinator of Burundi's World Bank-backed PAFEN digital programme, wrote that the project will soon start a basic digital skills programme to train 5,000 civil servants and 10,000 young people within 12 months. He said the project also works with innovation hubs and startups, and set the training alongside its spending on infrastructure and platforms.
 
 </div>
 
@@ -161,6 +185,20 @@ Egypt's communications ministry signed a three-year memorandum with Intel on 16 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Abtal Al Internet online-safety curriculum in schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its Arabic online-safety curriculum, Abtal Al Internet (Be Internet Awesome), into classrooms in nine Middle East and North African countries over four years, aiming to reach more than 2.3 million students in countries including Egypt, Morocco and Tunisia. The curriculum covers misinformation, scams, cyberbullying and protecting private data; Google also set out default protections for users under 18 on its platforms.
+
+</div>
+
+</div>
+
 ## Gabon
 
 <div class="monthly-story" markdown="1">
@@ -172,6 +210,14 @@ Egypt's communications ministry signed a three-year memorandum with Intel on 16 
 **[Gabon/CGI : des agents du ministère de la Communication et des Médias initiés à l’utilisation de l’IA](https://agpgabon.ga/gabon-cgi-des-agents-du-ministere-de-la-communication-et-des-medias-inities-a-lutilisation-de-lia/)** — Agence Gabonaise de Presse, 7 September 2026
 
 The Centre Gabonais de l'Innovation introduced about forty staff of the communication ministry to AI tools for administrative work on 7 September 2026. It is the first step of a programme meant to train 500 civil servants by December 2026 and 1,000 more in the first half of 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Intelligence artificielle : Des agents de l'Etat se mettent à jour](https://gabonactu.com/blog/2026/09/10/intelligence-artificielle-des-agents-de-letat-se-mettent-a-jour/)** — Gabonactu, 10 September 2026
+
+Staff of Gabon's public accounts and treasury directorate (DGCPT) took a three-day, practice-led course on digital tools and artificial intelligence at the Centre Gabonais de l'Innovation in Libreville. They followed cohorts from the Communication ministry and the Budget directorate; the CGI presents the course as part of wider support to help the administration put AI to work in its tasks.
 
 </div>
 
@@ -307,6 +353,30 @@ Mali's universal-access fund agency AGEFAU is paying for a programme to train 50
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Koutiala : 84 élus et agents de collectivités en formation sur les outils numériques](https://www.studiotamani.org/208761-koutiala-84-elus-et-agents-de-collectivites-en-formation-sur-les-outils-numeriques)** — Studio Tamani, 7 October 2026
+
+Eighty-four councillors and local government staff from 21 communes began a five-day course in office and collaborative software at Koutiala, Mali, on 6 October. The Centre de Formation des Collectivités Territoriales runs it with Koutiala town hall to improve local administration and public service.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Abtal Al Internet online-safety curriculum in schools</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its Arabic online-safety curriculum, Abtal Al Internet (Be Internet Awesome), into classrooms in nine Middle East and North African countries over four years, aiming to reach more than 2.3 million students in countries including Egypt, Morocco and Tunisia. The curriculum covers misinformation, scams, cyberbullying and protecting private data; Google also set out default protections for users under 18 on its platforms.
+
+</div>
+
 </div>
 
 ## Mozambique
@@ -413,6 +483,22 @@ The Forum Civil held a two-day regional workshop in Kaolack for civil society an
 
 </div>
 
+## Seychelles
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil-service digital capacity building (India NCGG programme)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[27 civil servants head to India for executive training programme](https://nation.sc/articles/32585/27-civil-servants-head-to-india-for-executive-training-programme)** — Seychelles Nation, 2 October 2026
+
+A second cohort of 27 Seychelles civil servants was sent off at the Indian High Commission ahead of a two-week executive course in Delhi and Mussoorie from 5 to 16 October, focused on technology and its use in governance. The rest of the article is behind a paywall.
+
+</div>
+
+</div>
+
 ## Sierra Leone
 
 <div class="monthly-story" markdown="1">
@@ -464,6 +550,22 @@ The African Development Bank and AXIAN Group launched a programme on 2 September
 **[AfDB, AXIAN Take Digital Finance to 34,000 Women-led Businesses in Africa](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa)** — Ecofin Agency, 4 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COM/COM-monthly.html" title="COM">Comoros</a>
 
 The African Development Bank and AXIAN launched a programme to reach 34,000 women-led small businesses in Madagascar, Tanzania and Senegal with loans and financial services through AXIAN's Mixx and MVola mobile-money platforms, with training for 25,000 women in five countries. It follows a US$160m AfDB loan to AXIAN Telecom approved in January 2025, alongside a US$2.5m grant.
+
+</div>
+
+</div>
+
+## Tunisia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Abtal Al Internet online-safety curriculum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Helping young minds across MENA to explore the online world safely](https://blog.google/intl/en-mena/company-news/outreach-initiatives/helping-young-minds-across-mena-to-explore-the-online-world-safely/)** — Google (The Keyword, MENA), 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a>
+
+Google announced a US$2.4 million Google.org grant to INJAZ Al-Arab to take its Arabic online-safety curriculum, Abtal Al Internet (Be Internet Awesome), into classrooms in nine Middle East and North African countries over four years, aiming to reach more than 2.3 million students in countries including Egypt, Morocco and Tunisia. The curriculum covers misinformation, scams, cyberbullying and protecting private data; Google also set out default protections for users under 18 on its platforms.
 
 </div>
 

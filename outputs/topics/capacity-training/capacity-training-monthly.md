@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: a1eeab1531be
+places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
+record: ed68cdc91a5d
 ---
 
 # News, Sep – Oct 2026
@@ -23,6 +23,8 @@ record: a1eeab1531be
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#djibouti">Djibouti</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -63,6 +65,8 @@ record: a1eeab1531be
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -216,6 +220,22 @@ The first cohort of Djibouti's TechKid programme completed seven weeks of coding
 **[Djibouti et l'OIF ciblent les métiers de la cybersécurité pour insérer la jeunesse](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-loif-ciblent-les-metiers-de-la-cybersecurite-pour-inserer-la-jeunesse)** — wearetech.africa, 7 October 2026
 
 The Francophonie organisation and Djibouti's education and vocational training ministry signed an agreement to train 200 young people in web and mobile development and in network infrastructure and cybersecurity. It extends a programme that the organisation says has trained 200 since 2022.
+
+</div>
+
+</div>
+
+## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Executive programme in digital transformation and AI for public-administration cadres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'ADN en collaboration avec KADEA et ULB-Solvay Lifelong Learning a organisé un programme executive en transformation digitale et intelligence artificielle](https://adn.cd/fr/actualites/l-adn-en-collaboration-avec-kadea-et-ulb-solvay-lifelong-learning-a-organise-un-programme-executive-en-transformation-digitale-et-intelligence-artificielle)** — Agence pour le Développement du Numérique, 9 October 2026
+
+KADEA and ULB-Solvay Lifelong Learning, with DR Congo's Agence pour le Développement du Numérique, ran the first session of an executive programme in digital transformation and AI for senior officials from 30 public institutions on 28 to 30 September 2026. This session dealt with diagnosis and digital strategy through case studies and group work; later sessions are to cover AI, data, leadership and drafting a digital roadmap, under the DRC Digital Nation 2030 vision.
 
 </div>
 
@@ -1130,6 +1150,14 @@ Senegal's civil service ministry held a national workshop in Dakar to validate t
 
 <div class="bulletin-item" markdown="1">
 
+**[Le Sénégal adopte son plan de formation numérique des agents de l'État](https://www.force-n.sn/articles/le-senegal-adopte-son-plan-de-formation-numerique-des-agents-de-letat)** — FORCE-N, 11 September 2026
+
+Ministries and partners meeting in Dakar on 10 September validated Senegal's 2026-2029 national plan for state employees' digital skills, which aims to train all 183,502 state agents through a 25-module common core, ten sectoral programmes of 150 modules and an acculturation track for the 35,857 least digitally prepared, backed by 500 ambassadors. A survey of 1,878 agents found 57% at beginner level and 15% advanced; in a pilot with 583 agents early in 2026, 88 to 92% of those who sat the certification passed but 70% of those enrolled did not sit it. The FORCE-N programme, run by the Université numérique Cheikh Hamidou Kane with the Mastercard Foundation, designed the plan and supplies its online platform.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
 **[Senegal boosts public sector digital skills](https://www.itweb.africa/article/senegal-boosts-public-sector-digital-skills/RgeVDqPRxnp7KJN3)** — ITWeb Africa, 11 September 2026
 
 Senegal launched a digital skills programme for civil servants, led by the public service ministry with Cheikh Hamidou Kane Digital University through the Mastercard Foundation-backed Force-N programme. Training covers data, artificial intelligence, cybersecurity and digital public services. Results will be tracked by completion rates, certifications and the inclusion of women. No cost, start date or number of trainees is given.
@@ -1152,6 +1180,14 @@ Senegal validated a national digital training plan for civil servants on 10 Sept
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[IA - Administration publique : Le Sénégal refuse de subir le diktat du numérique](https://lequotidien.sn/ia-administration-publique-le-senegal-refuse-de-subir-le-diktat-du-numerique/)** — Le Quotidien, 12 September 2026
+
+Senegal's public service and telecommunications ministries, with the FORCE-N programme, validated a national training plan to give state employees digital and AI skills, with priority training for more than 35,000 agents. A first programme of five modules is ready to deploy, covering grades A, B and C plus modules for managers, and the plan targets at least 70% participation in exams and a 75% pass rate. A pilot early in 2026 trained 583 staff from the industry, digital and public service ministries and showed heavy drop-out at the exam stage.
+
+</div>
+
 </div>
 
 ## Sierra Leone
@@ -1165,6 +1201,30 @@ Senegal validated a national digital training plan for civil servants on 10 Sept
 **[Sierra Leone expands digital skills training for civil servants](https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants)** — TechReviewAfrica, 20 September 2026
 
 Sierra Leone's Ministry of Communication, Technology and Innovation is training civil servants in digital skills with the public administration ministry, the Human Resource Management Office and the Public Service Academy. In its second week, reported on 20 September 2026, the first cohort of administrative staff learned to draft letters and reports with AI tools and keep registers in Google Workspace; the cohort ends on 25 September.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MoCTI Certifies First Cohort of Civil Service Digital Skills Programme](https://sierraloaded.sl/news/mocti-first-cohort-civil-serv-dig-training/)** — Sierraloaded, 28 September 2026
+
+Sierra Leone's Ministry of Communication, Technology and Innovation certified the first cohort of its Civil Service Digital Skills Training Programme after three weeks of digital literacy training, run with the public administration ministry, the Human Resource Management Office and the Public Service Academy. Participants, including administrative staff, closed with group presentations on using Google Workspace for office work; the next cohort was due to start on 9 October.
+
+</div>
+
+</div>
+
+## Somalia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital skills programme for government employees (National Institute of Telecommunications and Technology)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[National Institute of Telecommunications Launches Digital Skills Training for Government Employees](https://sonna.so/en/article/National-Institute-of-Telecommunications-Launches-Digital-Skills-Training-for-Government-Employees)** — SONNA, 17 October 2026
+
+Somalia's National Institute of Telecommunications and Technology, part of the communications ministry, launched a programme to build government employees' digital skills, opening with a workshop on data protection, information security and privacy. The ministry says it wants the institute to take the lead in training civil servants and building public institutions' capacity.
 
 </div>
 

@@ -1,18 +1,22 @@
 ---
 title: Digitalisation of sub-national government — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: digital.localgov
-places: CMR; TCD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
-record: a3a48a5a501c
+places: BDI; CMR; TCD; COD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
+record: 5791e36abc43
 ---
 
 # News, Sep – Oct 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#chad">Chad</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -46,6 +50,22 @@ record: a3a48a5a501c
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 </nav>
+
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of communal administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BUTIHINDA : La digitalisation de la gestion comptable, budgétaire et financière se modernise grâce au logiciel AK-SOFT](https://communebutihinda.gov.bi/butihinda-la-digitalisation-de-la-gestion-comptable-budgetaire-et-financiere-se-modernise-grace-au-logiciel-ak-soft/)** — Commune de Butihinda, 25 October 2026
+
+Butihinda commune in Burundi held a practical session on 24 and 25 October 2026 for its zonal assistant accountants and tax collectors on AK-SOFT, integrated software for communal accounting, budget and financial management, following a Primature workshop for communal finance officers at Buhumuza on 20 to 23 October. Staff are entering the commune's revenue and spending from 1 July 2025 through the first quarter of fiscal 2026-27; participants asked for more training and said they need stable internet and continuing technical support.
+
+</div>
+
+</div>
 
 ## Cameroon
 
@@ -116,6 +136,22 @@ Abeche's town hall, the provincial telecommunications delegation and the ICT dev
 **[État civil : la mairie de N'Djaména engage sa transformation numérique avec l'ANATS](https://lendjampost.com/etat-civil-la-mairie-de-ndjamena-engage-sa-transformation-numerique-avec-lanats/)** — Le N'Djam Post, 23 September 2026
 
 N'Djamena's town hall and Chad's secure-documents agency ANATS signed a memorandum on 23 September to digitise and secure civil registration, with support from the Organisation internationale de la Francophonie. The work covers digitising registers, staff training and a secure link between the town hall's systems and ANATS's integrated population register.
+
+</div>
+
+</div>
+
+## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kongo Central provincial data centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kongo Central : l'ADN-KC fait le point sur le data center provincial et la préparation de nouveaux projets numériques](https://360actu-rdc.com/kongo-central-ladn-kc-fait-le-point-sur-le-data-center-provincial-et-la-preparation-de-nouveaux-projets-numeriques/)** — 360Actu RDC, 22 October 2026
+
+Kongo Central's provincial digital development agency (ADN-KC) met on 21 October 2026 to review the provincial data centre, whose operation is held back by internet connectivity, power supply and unfinished works. The agency also worked on a provincial project file it means to put to the authorities for validation.
 
 </div>
 

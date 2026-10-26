@@ -1,10 +1,10 @@
 ---
 title: AI — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 30e00495a6f1
+record: 389e3866430a
 ---
 
 # News, Sep – Oct 2026
@@ -1414,6 +1414,20 @@ Kenya's ICT Authority signed a letter of intent in Seoul with the Korea Data Age
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kenya Languages Lexicon (KENGLEX)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya’s language data holds promise for AI-powered services](https://capitalfm.africa/kenyas-language-data-holds-promise-for-ai-powered-services/)** — Capital FM Kenya, 22 October 2026
+
+Kenyan researchers are calling for more investment in local language data for AI services, pointing to Teknobyte's Kenya Languages Lexicon (KENGLEX), which documents more than 133,000 words of Kenyan English with meanings and pronunciations for use in speech recognition, translation and text-to-speech. Swahili has the most language resources in Kenya, while many indigenous languages have no public models, and NLP researcher Cynthia Amol argued that communities should have a say in how their language data is collected, licensed and paid for.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -2448,6 +2462,14 @@ Togo's AI laboratory is recruiting a technical lead for public-sector artificial
 **[Et si l'intelligence artificielle comprenait enfin nos langues locales ?](https://www.undp.org/fr/togo/actualites/et-si-lintelligence-artificielle-comprenait-enfin-nos-langues-locales)** — PNUD Togo, 5 October 2026
 
 UNDP Togo reports on the launch of the national local-languages challenge under the Voix du Togo programme, run by the Togo AI Lab for the digital transformation ministry, whose pilot phase targets AI models for Kabiyè, Ewe and Moba. UNDP is supporting the lab with GPU-based computing infrastructure, presented as a supercomputer, to train the models, and minister Cina Lawson described language models as essential public infrastructure. A contribution platform will gather voice recordings, texts and translations, and the challenge's results are still to come.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[African governments become customers for local AI](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)** — Investdesk Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+African public agencies are starting to buy locally built AI tools for welfare, health and procurement, partly to keep public data under local control, though tight budgets and limited data access hold startups back. Togo's AI laboratory, which grew out of using phone and satellite data to target Novissi pandemic cash transfers, now works with more than ten agencies on over 70 projects, and Kenya and Rwanda are also looking for local applications. A UN-backed call run with the ITU and Research ICT Africa, which closed on 2 October, is selecting African AI products to present to officials in Accra.
 
 </div>
 

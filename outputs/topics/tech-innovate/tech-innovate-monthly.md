@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: tech.innovate
 places: DZA; AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; KEN; LBR; MWI; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: f6745f65a09c
+record: 15d0790f3bc7
 ---
 
 # News, Sep – Oct 2026
@@ -196,6 +196,20 @@ Launching Ivoire Tech Forum 2026, to be held in Abidjan on 11-13 November, digit
 **[Côte d'Ivoire Seeks to Diversify Fintech Sector Beyond Digital Payments](https://www.ecofinagency.com/news-finances/0910-59598-cote-d-ivoire-seeks-to-diversify-fintech-sector-beyond-digital-payments)** — Ecofin Agency, 9 October 2026
 
 Côte d'Ivoire's finance ministry launched a Fintech Sector Support Project in Abidjan on 6 October 2026 through its financial inclusion agency APIF, with African Development Bank funding under a business-climate programme. It aims to build fintech firms' capacity and encourage services beyond payments; mobile money use reached 84.2% in 2024. The project's own budget is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Blockchain centre of excellence at the VITIB technology park</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire Welcomes Economic Innovation Through Blockchain and Digital Assets](https://cryptoafrica.news/cote-divoire-welcomes-economic-innovation-through-blockchain-and-digital-assets/)** — Crypto Africa, 23 October 2026
+
+An international seminar on blockchain and digital assets in Abidjan, co-organised by the VITIB technology zone and Valoores Africor and attended by digital transition minister Djibril Ouattara, discussed how the technology could support Côte d'Ivoire's economy. The minister said the government aims both to enable innovation and to build supervisory mechanisms and trust frameworks, and VITIB's director-general said it plans a blockchain centre of excellence to train and assist the state and businesses.
 
 </div>
 

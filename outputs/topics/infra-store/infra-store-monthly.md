@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: a5c84893d07a
+record: 05a7b491b243
 ---
 
 # News, Sep – Oct 2026
@@ -413,6 +413,14 @@ Eswatini's Royal Science and Technology Park confirmed that an incident at the N
 **[INTERPOL roped in on RSTP incident](https://times.co.sz/44945/news/interpol-roped-in-on-rstp-incident/)** — Times of Eswatini, 28 September 2026
 
 Eswatini's police have engaged INTERPOL over the incident at the National Data Centre and will investigate once a consultant hired by the science park and the ICT ministry reports. Unnamed sources suspect a third-party client gave attackers a way in; preliminary findings point to corrupted files and no data stolen.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
+
+Eswatini's ICT ministry said on 23 October 2026 that 13 government online services hit by disruptions had been restored with the Royal Science and Technology Park, among them the Government in Your Hand platform, e-Visa, the Social Registry, the elderly and disability grants system and IFMIS. The government website and other platforms were still being restored, and the statement gave no cause for the outage.
 
 </div>
 

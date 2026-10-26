@@ -1,16 +1,18 @@
 ---
 title: Domestic budget appropriations and expenditure — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: finance.budget
-places: BFA; LBY; SYC; ZAF; TZA
-record: a3b2ecd78dc8
+places: BFA; GAB; LBY; SYC; ZAF; TZA
+record: 7d123d85a102
 ---
 
 # News, Sep – Oct 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -32,6 +34,22 @@ record: a3b2ecd78dc8
 **[Burkina Faso confirms in 2026 its resolve to make digital technology a pillar of sovereignty](https://africalibertynews.info/burkina-faso-confirms-in-2026-its-resolve-to-make-digital-technology-a-pillar-of-sovereignty/)** — Africa Liberty News, 17 September 2026
 
 Burkina Faso's digital transition ministry approved a 2026 work plan of CFA 61 billion, about double the 2025 budget of CFA 30.4 billion, reported on 17 September 2026. It aims to connect 750 of some 1,700 localities without mobile coverage, co-financed by the state and operators Onatel, Orange and Telecel, and to digitise 100 administrative procedures. The board session's date is not given.
+
+</div>
+
+</div>
+
+## Gabon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital economy ministry 2027 budget request</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Loi de finances 2027 : les budgets de la Communication et de l’Économie numérique examinés à l’Assemblée nationale](https://agpgabon.ga/gabon-loi-de-finances-2027-les-budgets-de-la-communication-et-de-leconomie-numerique-examines-a-lassemblee-nationale/)** — Agence Gabonaise de Presse, 25 October 2026
+
+Gabon's National Assembly examined the 2027 budget requests of the communication and digital economy ministries on 25 October. The digital economy ministry asks for FCFA 37.2 billion in 2027, down about FCFA 16.5 billion from FCFA 53.7 billion in 2026, for connectivity, digital sovereignty and modernising the administration, while the communication ministry's request rises to FCFA 21.5 billion from FCFA 17.5 billion.
 
 </div>
 

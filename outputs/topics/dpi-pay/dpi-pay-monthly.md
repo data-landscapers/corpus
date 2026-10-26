@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3dee1e74fb6d
+record: b0a3eb451dd8
 ---
 
 # News, Sep – Oct 2026
@@ -369,6 +369,20 @@ Orange Burkina Faso relaunched its Max It app on 18 September 2026 with a promot
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial-services quality observatory (OQSF-BF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection des consommateurs : « La saisine de l'Observatoire de la qualité des services financiers est totalement gratuite », Sahouba Kabré](https://lefaso.net/spip.php?article149951=)** — leFaso.net, 13 October 2026
+
+In an interview, Sahouba Kabré of Burkina Faso's Observatoire de la qualité des services financiers (OQSF-BF) said the body, housed within the national inclusive-finance agency ANPFI under a BCEAO approach shared across UEMOA, mediates free of charge in disputes between customers and banks, microfinance institutions, insurers and electronic-money operators. He said more than 220 cases have been handled, about 92% settled amicably, and urged the public to learn about the service.
+
+</div>
+
+</div>
+
 ## Burundi
 
 <div class="monthly-story" markdown="1">
@@ -454,6 +468,28 @@ Cameroonian fintech REasy and Africa Global Logistics presented to Douala trader
 **[Quase 5 milhões de operações na rede Vinti4 em Agosto](https://expressodasilhas.cv/economia/2026/09/14/quase-5-milhoes-de-operacoes-na-rede-vinti4-em-agosto/104611)** — Expresso das Ilhas, 14 September 2026
 
 The Banco de Cabo Verde reported on 14 September 2026 that residents made 4,992,880 operations worth 21,159.9 million escudos on the vinti4 card network in August, down 0.3% in number and 2.4% in value on July. Card purchases made up 3,768,595 operations. The interbank clearing system processed 131,456 operations worth 25,543.1 million escudos, down 19.1% in number.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SPEED instant transfer system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BCV prevê lançar projecto-piloto do sistema de pagamentos Speed antes do final do ano](https://www.inforpress.cv/en/bcv-preve-lancar-projecto-piloto-do-sistema-de-pagamentos-speed-antes-do-final-do-ano-c-audio-1)** — Inforpress, 23 October 2026
+
+Banco de Cabo Verde governor Óscar Santos said in Mindelo on 23 October 2026 that the central bank plans to pilot its Speed system, which lets people pay by mobile phone even without a balance, on one island or remote locality before the end of the year. The launch still depends on agreement with banks, telecom operators and the regulator over running costs, which the BCV will bear at first; he put the banked share of the population at close to 90%.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BCV volta a prometer projecto-piloto de pagamento Speed](https://mindelinsite.com/economia/bcv-volta-a-prometer-projecto-piloto-de-pagamento-speed/)** — Mindel Insite, 24 October 2026
+
+Banco de Cabo Verde governor Óscar Santos again promised a pilot of the Speed mobile payment system before the end of 2026, on one island or remote locality; the system was first announced in December 2025 to start in the first quarter of this year. He said the launch still depends on agreement with banks, telecom operators and the regulator over running costs, which the central bank will cover at first.
 
 </div>
 
@@ -1120,6 +1156,20 @@ Gabon's Council of Ministers adopted a bill on 8 October 2026 ratifying and amen
 **[Gabon updates digital payment laws to support regional interoperability](https://www.biometricupdate.com/202610/gabon-updates-digital-payment-laws-to-support-regional-interoperability)** — Biometric Update, 12 October 2026
 
 An account of Gabon's bill ratifying its digital payments ordinance ties it to the regional central bank's interoperability rules. It puts the national merchant QR scheme at more than 3,273 merchants and 1,382 GIMAC QR codes as of July.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial mediation mechanism for bank and payment disputes</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Médiation financière : le Gabon lance officiellement son dispositif le 26 octobre](https://www.echosdeleco.com/articles/mediation-financiere-le-gabon-lance-officiellement-son-dispositif-le-26-octobre)** — Échos de l'Éco, 19 October 2026
+
+Gabon's Comité national économique et financier (CNEF) was to launch financial mediation in Libreville on 26 October 2026, giving customers of banks, microfinance institutions and payment providers a free, confidential route to settle disputes, with agreements enforceable. The mechanism rests on a 2020 CEMAC consumer-protection regulation, a 2024 decree and two orders of January 2025; a complaint to the institution must come first, and Axcèle Saturnin Kissangou-Mouele was named mediator in June for a three-year term.
 
 </div>
 

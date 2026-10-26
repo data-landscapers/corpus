@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: dpi.id
-places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: c5441b94d9dd
+places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
+record: bdecdefb55eb
 ---
 
 # News, Sep – Oct 2026
@@ -15,6 +15,8 @@ record: c5441b94d9dd
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -111,6 +113,20 @@ Algeria's digitalisation commission set out how the national digital identity is
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic signature of social-security payment-centre documents (CNAS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La CNAS examine l'intégration de la certification électronique dans le traitement des documents](https://algerie-eco.com/2026/10/22/la-cnas-examine-lintegration-de-la-certification-electronique-dans-le-traitement-des-documents/)** — Algérie Eco, 22 October 2026
+
+The acting director-general of Algeria's salaried workers' social insurance fund (CNAS) met the head of the government electronic certification authority (AGCE) to work out the technical and organisational steps for bringing electronic signatures into document handling. The project is meant to move the fund's payment centres gradually from paper to electronic processing, guard against forgery and fraud, and prepare a wider rollout of electronic document management and archiving.
+
+</div>
+
+</div>
+
 ## Angola
 
 <div class="monthly-story" markdown="1">
@@ -177,6 +193,14 @@ Benin launched Preuve de Vie on 15 October 2026, a mobile app through which publ
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : 15 189 retraités ont déjà effectué leur preuve de vie, la campagne se poursuit](https://lanouvelletribune.info/2026/10/benin-15-189-retraites-ont-deja-effectue-leur-preuve-de-vie-la-campagne-se-poursuit/)** — La Nouvelle Tribune, 22 October 2026
+
+By 21 October 2026, 15,189 pensioners of Benin's national pension fund (FNRB) had completed their annual proof of life remotely through the Preuve de Vie app, according to sources close to the presidency. Pensioners enter their national personal identification number (NPI) and pension book number and scan their fingerprints with the phone camera, or use biometric kiosks with a biometric ID card; the campaign runs to 15 November.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -188,6 +212,22 @@ Benin launched Preuve de Vie on 15 October 2026, a mobile app through which publ
 **[Bénin : l’ANIP déploie des tablettes pour actualiser les données dans les arrondissements](https://beninwebtv.com/benin-lanip-deploie-des-tablettes-pour-actualiser-les-donnees-dans-les-arrondissements/)** — Benin Web TV, 23 October 2026
 
 Benin's identification agency ANIP began issuing tablets to arrondissement secretaries in several communes on 19 October 2026, so residents can change the signature and phone number on their record locally instead of at ANIP's main offices. The tablets add to the ANIP BJ app and web portal, which already allow phone numbers to be updated.
+
+</div>
+
+</div>
+
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Omang card production and replacement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Govt moves to clear Omang backlog](https://dailynews.gov.bw/news-detail/93807)** — Daily News (BOPA), 24 October 2026
+
+Botswana's labour and home affairs minister Pius Mokgware said the backlog of Omang national identity cards should be cleared within two to three weeks, with nearly half of the 45,000 cards needed already produced. That would bring back the normal 14-day wait after a shortage of blank cards and staff held production up; applicants notified by SMS were urged to collect their cards.
 
 </div>
 

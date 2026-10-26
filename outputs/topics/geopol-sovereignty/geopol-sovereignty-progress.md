@@ -1,10 +1,10 @@
 ---
 title: Digital sovereignty — progress report, October 2025 – October 2026
-compiled: 2026-10-25
-period: 2025-10-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2025-10-01 to 2026-10-26
 subject: geopol.sovereignty
 places: NAM; ZWE
-record: c96d4f750bf2
+record: 29d582e4587b
 ---
 
 # Digital sovereignty: progress report, October 2025 – October 2026

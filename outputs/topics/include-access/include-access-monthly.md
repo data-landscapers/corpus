@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: include.access
-places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 8f6a66d08ec8
+places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
+record: 51e0061068e0
 ---
 
 # News, Sep – Oct 2026
@@ -45,6 +45,8 @@ record: 8f6a66d08ec8
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -464,6 +466,20 @@ Liberia's Independent Information Commission and the anti-corruption group CENTA
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil Service Agency confidentiality and non-disclosure agreement for civil servants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PUL Condemns Government’s Assault on Freedom of Information and Transparency; Calls for Immediate Withdrawal of Confidentiality Policy Undermining the FOI Act - Liberia Public Radio](https://liberiapublicradio.com/2026/10/24/pul-condemns-governments-assault-on-freedom-of-information-and-transparency-calls-for-immediate-withdrawal-of-confidentiality-policy-undermining-the-foi-act/)** — Liberia Public Radio, 24 October 2026
+
+At a Governance Commission policy dialogue, the Press Union of Liberia called for the immediate withdrawal of a confidentiality and non-disclosure agreement the Civil Service Agency has introduced for civil servants, saying it overturns the Freedom of Information Act and strips the Independent Information Commission, which opposed it, of its authority. The union also said most agencies the commission assessed had not appointed public information officers and that Liberia lacks an enforceable data-protection framework.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -535,6 +551,22 @@ Madagascar's National Assembly runs an online portal for public consultations on
 **[Malawian farmers help shape digital plant-health services](https://www.nibio.no/en/news/2026/malawan-farmers-help-shape-digital-plant-health-services)** — NIBIO (Norwegian Institute of Bioeconomy Research), 4 September 2026
 
 Farmers, extension workers, agro-dealers and policymakers tested Malawi's digital plant-health service and proposed changes before wider rollout. Its voice platform reaches basic-phone users in Chichewa and other local languages and takes around 30,000 calls a month despite never having been publicly promoted since its June 2025 launch; participants asked for coverage of soil health, fertilisers, irrigation and weather and for changes to visualisations, language and accessibility.
+
+</div>
+
+</div>
+
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Laptops and assistive equipment for blind and visually impaired learners</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Highlights of Cabinet Meeting - Friday 23 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20%20Friday%20%2023%20October%202026.pdf)** — Office of the Prime Minister, Mauritius, 23 October 2026
+
+Mauritius's Cabinet on 23 October 2026 noted the setting up of a Mauritius Digital Promotion Agency branch in Rodrigues for year-round e-government outreach, after an August session there onboarded some 500 citizens onto the MauPass digital identity and the KOREK! platform. It also noted laptops and assistive equipment for blind and visually impaired secondary pupils with the Mauritius Telecom Foundation and a CERT-MU advisory on critical PHP vulnerabilities, alongside measures following the riots of 12 to 18 October and the water shortage.
 
 </div>
 
@@ -911,6 +943,20 @@ The Global Development Network has begun fieldwork on a five-country DPI Inclusi
 **[NCRA Marks International Identity Day with Registration Drive for 100 Inmates](https://thecalabashnewspaper.com/archives/64446)** — The Calabash Newspaper, 18 September 2026
 
 Sierra Leone's National Civil Registration Authority registered 100 inmates from three Freetown correctional centres for National Identification Numbers on 17 September 2026, International Identity Day. The inmates will receive ID cards free, with the government meeting the cost. The Correctional Service said the exercise builds on inmate biometric registration pilots in 2018 and 2020.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Leh Wi Tok communication app for speech and hearing-impaired people</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DSTI and Social Welfare Validate New App for Speech and Hearing-Impaired in Sierra Leone](https://www.sierraleonepress.com/dsti-and-social-welfare-validate-new-app-for-speech-and-hearing-impaired-in-sierra-leone/)** — Sierra Leone Press, 22 October 2026
+
+Sierra Leone's Directorate of Science, Technology and Innovation and the Ministry of Social Welfare held a validation exercise for Leh Wi Tok, a communication app for speech- and hearing-impaired people, with members of that community giving feedback. Its first phase is aimed at school pupils with content based on American Sign Language, and Social Welfare minister Melrose Karminty plans to take it to cabinet for approval; the disability commission's chairman urged a codified Sierra Leone Sign Language.
 
 </div>
 

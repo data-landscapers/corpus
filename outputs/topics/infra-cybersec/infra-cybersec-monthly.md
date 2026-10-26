@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: infra.cybersec
-places: BEN; BFA; CMR; CPV; TCD; COM; CIV; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 567d43380c97
+places: BEN; BFA; CMR; CPV; TCD; COM; CIV; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
+record: 70d5e5472296
 ---
 
 # News, Sep – Oct 2026
@@ -23,6 +23,8 @@ record: 567d43380c97
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#equatorial-guinea">Equatorial Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -143,6 +145,20 @@ Burkina Faso's central cybercrime brigade recorded 6,477 complaints and FCFA 2.2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National network of information-security officers and cyber focal points</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina/Sécurité numérique : L'Agence nationale de sécurité des systèmes d'information a lancé officiellement le Réseau national des RSSI et points focaux cyber](https://lefaso.net/spip.php?article150183=)** — LeFaso.net, 23 October 2026
+
+Burkina Faso's information systems security agency ANSSI launched a national network of information systems security officers (RSSI) and cyber focal points in Ouagadougou on 23 October 2026. The network is meant to give ministries and public institutions a standing framework for coordination, information sharing and capacity building on cyber risks and incidents, and institutions were asked to designate security officers and give them resources.
+
+</div>
+
+</div>
+
 ## Cameroon
 
 <div class="monthly-story" markdown="1">
@@ -218,6 +234,22 @@ A Russian embassy delegation visiting the Comoros took up with the telecommunica
 **[Cybersécurité : la Côte d’Ivoire organise sa première simulation nationale de crise cyber - Abidjan.net News](https://news.abidjan.net/articles/749590/cybersecurite-la-cote-divoire-organise-sa-premiere-simulation-nationale-de-crise-cyber)** — Abidjan.net, 13 October 2026
 
 Côte d'Ivoire's information-systems security agency will run a first national cyber-crisis simulation in Abidjan on 28 and 29 October 2026.
+
+</div>
+
+</div>
+
+## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Security audit of the state's public IT systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : Félix Tshisekedi ordonne un audit des infrastructures numériques de l'État](https://numerico.cd/fr/article/cybersecurite-felix-tshisekedi-ordonne-un-audit-des-infrastructures-numeriques-d)** — Numerico.cd, 24 October 2026
+
+At the 101st Council of Ministers on 23 October 2026, President Félix Tshisekedi ordered an audit of DR Congo's public IT systems to find security flaws, coordinated by the posts and telecommunications ministry with the digital economy ministry. The interior and defence ministries are to tighten protection of sensitive systems, and the finance ministry is to work with the Banque Centrale du Congo on public-finance platforms, payment systems and critical infrastructure; the order came a day after the digital economy ministry warned of two critical PHP vulnerabilities.
 
 </div>
 

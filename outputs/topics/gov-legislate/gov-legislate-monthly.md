@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 22e796178996
+record: 53c9de4675bd
 ---
 
 # News, Sep – Oct 2026
@@ -1310,6 +1310,14 @@ Commentary on the deferral reads the contested articles as written to suit the s
 
 
 
+<div class="bulletin-item" markdown="1">
+
+**[Lutte contre la cybercriminalité: les Parlementaires réexaminent le projet de loi](https://newsmada.com/2026/10/24/lutte-contre-la-cybercriminalite-les-parlementaires-reexaminent-le-projet-de-loi/)** — Newsmada, 24 October 2026
+
+Madagascar's 96-article cybercrime bill n° 042/2026, which would replace the 2014 law and was postponed at September's extraordinary session, returns to committee in the National Assembly on 2 November. Contested provisions include article 75, giving a new digital investigation unit (UPIN) permanent direct access to operators' systems with fines of 100 to 500 million ariary for refusal, and article 52 on criminal liability for administrators of pages and groups; the access-to-public-information bill n° 017/2025 is also on the session's agenda.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1596,6 +1604,14 @@ Mozambique's Council of Ministers approved a Postal Security Regulation on 15 Se
 **[Governo prepara lei para regular IA na educação](https://integritymagazine.co.mz/arquivos/69322)** — Integrity Magazine, 17 September 2026
 
 Mozambique's education ministry says its law regulating the use of artificial intelligence in education is almost ready and will reach the Council of Ministers before the end of 2026, covering every institution from primary schooling to higher education with all of them consulted. The text is still being drafted and is not published.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo prepara lei para regular uso da Inteligência Artificial na Educação](https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/)** — MZNews, 23 October 2026
+
+Mozambique's education and culture minister Edson Macuácua said on 22 October 2026 that the government is preparing a law to regulate artificial intelligence in education, centred on ethical and responsible use, fundamental rights and copyright. He spoke at the launch of MAZA IA, a learning tool built by MOZEDUCA with Vodacom Moçambique, and called for national solutions, wider access to digital platforms for poorer students and investment in teacher training.
 
 </div>
 
@@ -2125,13 +2141,37 @@ The Bank of South Sudan's amended electronic money rules have taken effect, sett
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Proposed amendment of Criminal Code article 51 to cover electronic publishing</p>
+<p class="monthly-story__name">Amendment of the Criminal Act 1991 to cover electronic publishing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[بينها النفط والشائعات.. تفاصيل مرسوم تعديلات 6 قوانين رئيسية](https://sudaray.com/171961)** — Sudaray, 21 October 2026
+
+Sudan's official gazette of 19 October 2026 published Provisional Decree 7 of 2026, the Miscellaneous Amendments Act, which changes six laws including the 1998 petroleum law, the 1991 Criminal Act, the companies act and the laws on the justice ministry and public prosecution. Among the criminal-law changes, the offence of publishing false news now explicitly covers publication through electronic or media channels, with the penalty unchanged; the decree also exempts anti-smuggling forces from criminal liability when pursuing smugglers.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
 **[Sudan press syndicate rejects criminal code amendment](https://sudantribune.com/article/320352)** — Sudan Tribune, 23 October 2026
 
 Sudan's journalists' syndicate and rights groups oppose a justice ministry amendment adding publishing in media and on electronic platforms to Article 51 of the 1991 Criminal Code, on waging war against the state, which carries penalties up to death. They also reject a planned national cybercrime mechanism with powers to monitor media and social platforms; the minister defended both.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudanese Journalists Syndicate Rejects Criminal Law Amendment and Cybercrime Mechanism](https://en.sudannow.net/sudanese-journalists-syndicate-rejects-criminal-law-amendment-and-cybercrime-mechanism/)** — Sudan Now, 23 October 2026
+
+The Sudanese Journalists Syndicate rejected an amendment made by Temporary Decree No. 7 of 2026 that extends a 1991 Criminal Act provision on undermining the constitutional order, which carries penalties up to death or life imprisonment, to publication through electronic and media platforms. It also opposed the National Mechanism to Combat Cybercrime that the prime minister ordered formed on 19 October, whose remit includes monitoring media and social media content and bringing cases on the state's behalf, and called for both to be withdrawn and the cybercrime law reviewed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Journalists, politicians face death penalty under Sudan legal amendment, activists warn](https://www.newarab.com/news/sudan-legal-amendment-puts-journalists-risk-death-penalty)** — The New Arab, 24 October 2026
+
+Rights groups and activists warn that a temporary decree issued by army commander Abdel Fattah al-Burhan under Sudan's Miscellaneous Amendments Act of 2026 extends Article 51 of the 1991 criminal code, on inciting war against the state and punishable by death or life imprisonment, to electronic and media publications. They say it is likely to be used against dissent alongside the new cybercrime mechanism, and local reports describe a marked fall in social-media posting from Sudan since the change.
 
 </div>
 

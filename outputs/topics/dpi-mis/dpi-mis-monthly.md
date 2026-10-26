@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ca02768cc7ac
+record: 16eacff49809
 ---
 
 # News, Sep – Oct 2026
@@ -678,6 +678,7 @@ An outage of Eswatini government digital services has stopped new loans to civil
 
 </div>
 
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1100,6 +1101,20 @@ Murang'a County has petitioned Kenya's High Court against the Ministry of Health
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Healthcare IT Digitisation Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PS Oluga calls for accountability, fast-tracking of healthcare digitisation](https://www.kbc.co.ke/oluga-calls-for-accountability-fast-tracking-of-healthcare-digitisation/)** — KBC Digital, 22 October 2026
+
+Kenya's Principal Secretary for Medical Services, Ouma Oluga, chaired the steering committee of the Healthcare IT Digitisation Programme with the Safaricom Consortium, the Digital Health Authority, the Social Health Authority and KEMSA to review progress under the UHC digital transformation programme. He set four priorities for the next phase: holding subcontractors to their obligations, tracking project investments more visibly, speeding up delivery of infrastructure, equipment and systems, and making sure facilities and patients see real benefits.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1217,6 +1232,20 @@ Mali's Ministry of National Education held a workshop on 29 July 2026 that appro
 **[انطلاق تسجيل وتحويل التلاميذ عبر منصة «سراج»](https://www.tefassil.mr/ar/node/8801)** — تفاصيل, 28 September 2026
 
 Mauritania's education ministry opened pupil registration and transfers for the 2026-2027 school year on the Siraj platform on 28 September 2026. Registration and corrections run until 20 October, and the school year opens on 5 October.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of the new Nouakchott health centres</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزيرا الصحة والتحول الرقمي يترأسان اجتماعا لبحث الاجراءات الكفيلة برقمنة المراكز الصحية الجديدة](https://www.ami.mr/archives/271266)** — Agence Mauritanienne d'Information (AMI), 24 October 2026
+
+Mauritania's health minister and minister of digital transformation met in Nouakchott on 24 October 2026 on making the new health centres built under the capital's emergency development programme digitally ready before they open in the coming days. They agreed to form a joint technical team to visit the centres, set out each one's requirements and close the gaps found.
 
 </div>
 
@@ -1437,6 +1466,20 @@ Senegal's agriculture ministry launched an app on 9 October for distributing sub
 **[Gestion des terres, le Sénégal mise sur la numérisation des données communales](https://www.seneplus.com/article/gestion-des-terres-le-senegal-mise-sur-la-numerisation-des-donnees-communales)** — SenePlus (APS), 12 October 2026
 
 Senegal's land programme PROCASEF and the Seen Suuf project held a workshop in Fatick on 6–9 October 2026 to prepare the roll-out of SIFCOM, the communal land information system, which is still in preproduction. They agreed a protocol for migrating and standardising communal land data and set a training calendar for land and municipal staff in the groundnut basin communes.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pharmaceutical regulator's online marketing-authorisation platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Homologation des médicaments : l’ARP fait le pari de la dématérialisation des procédures](https://aps.sn/homologation-des-medicaments-larp-fait-le-pari-de-la-dematerialisation-des-procedures/)** — APS, 23 October 2026
+
+Senegal's pharmaceutical regulator, the Agence sénégalaise de réglementation pharmaceutique (ARP), launched an online platform for medicines marketing authorisation on 23 October 2026, on which applicants file CTD-format dossiers and follow their progress on a single portal with each step traced. The module is the first part of an integrated regulatory information system meant to connect imports, clinical trials, licensing, batch release and pharmacovigilance.
 
 </div>
 

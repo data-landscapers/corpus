@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, September – October 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 335768da02da
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
+record: 882d6b65a574
 ---
 
 # News, Sep – Oct 2026
@@ -33,6 +33,8 @@ record: 335768da02da
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#equatorial-guinea">Equatorial Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -534,6 +536,22 @@ Egypt's Ministry of Communications and Information Technology took part in the s
 **[African diplomats in Cairo agree to develop African digital integration roadmap](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=578166)** — Ahram Online, 4 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Representatives of 11 African diplomatic missions in Cairo agreed to draft a joint Cairo Document for Trust and African Digital Integration. It is to set shared priorities on digital investment, digital trade, cybersecurity, data governance and emerging technologies.
+
+</div>
+
+</div>
+
+## Equatorial Guinea
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Presidency of the Statistical Commission for Africa, 2026-2028</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LA GUINEE EQUATORIALE ASSUME LA PRESIDENCE DE LA COMMISSION DE STATISTIQUE POUR L’AFRIQUE LORS DU SOMMET D’ADDIS-ABEBA.](https://inege.org/?lang=fr&p=18389)** — Instituto Nacional de Estadística de Guinea Ecuatorial (INEGE), 22 October 2026
+
+Equatorial Guinea was elected to chair the UN Statistical Commission for Africa (StatCom-Africa) for 2026-2028 at its tenth session in Addis Ababa on 19 to 23 October 2026, with INEGE director-general Ricardo Nsue Ndemesogo Obono presiding. He set five priorities: turning data into usable evidence for policy, the financial and technical autonomy of national statistical systems, integrating administrative registers, censuses and geospatial data, using new technology while protecting confidentiality, and harmonised regional methods.
 
 </div>
 
