@@ -4,6 +4,7 @@ COD,Mobile-cellular subscriptions per 100 inhabitants,"50 per 100 inhabitants, 2
 COD,Active mobile-broadband subscriptions per 100 inhabitants,"26 per 100 inhabitants, 2022 (ITU)",other,,ITU,,2023-12-01-itu-drc-digital-development-dashboard
 COD,Population covered by a mobile-cellular network,"75%, 2022 (ITU)",other,,ITU,,2023-12-01-itu-drc-digital-development-dashboard
 COG,Arpce mobile telephony penetration rate,94%,other,,Arpce,,2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche
+CPV,ARME mobile SIM penetration,"SIM penetration 114% (589,431 active SIM cards, June 2026, ARME)",other,,ARME,,2026-10-22-cpv-assinaturas-de-internet-fixa-aumentam-14-7-num-ano
 ERI,Mobile-cellular network population coverage (ITU 2023 country profile),85% of population covered by a mobile-cellular network (ITU 2023),other,,,,2025-01-01-eritrea-digital-watch-country-profile
 ETH,"Unique mobile subscribers, 33 percent of the population in 2024 (26 percent in 2020)","unique mobile subscribers 33% of population, 2024",other,,World Bank (project results),,2025-06-30-wb-empowering-ethiopians-digital-foundations
 GHA,Adult mobile ownership (context statistic),"mobile ownership >90% of adults (adults only; year not given, 2026-07-27 brief)",other,,Research ICT Africa,,2026-07-27-bridging-gender-digital-divide-ghana-research-ict-africa
@@ -34,4 +35,6 @@ RWA,Population covered by a mobile-cellular network,"99% (2022), ITU",other,,ITU
 SLE,"Adults owning a mobile phone of any type, UNCDF National Digital and Financial Literacy Baseline Survey (adult population only; 48.7%)","48.7% of adults, survey published 2025-10-08 (survey year not stated)",other,,UNCDF,,2025-10-08-sierra-leone-uncdf-national-digital-financial-literacy-baseline-survey
 SSD,Households with a mobile phone,"44% of households, MICS 2025",other,,National Bureau of Statistics,,2026-04-21-ssd-eyeradio-mics-2025-survey-gaps-women-children
 SSD,mobile phone penetration 22 percent (2.3 million people),"22 percent, 2.3 million people",other,,,,2024-09-19-ssd-nation-cashless-pay-civil-servants
+STP,mobile phone penetration,71%,other,,,,2026-01-01-stp-digitising-a-nation-s-public-service-delivery
 TCD,Mobile telephony penetration rate (ARCEP Observatoire du marche des telecommunications 2020),"taux de penetration de la telephonie mobile 53.5% in 2020; sector customers 8.7 million in 2020 (+13.3% on 2019); derived from subscriber counts, not a survey of people owning a phone",other,,ARCEP Tchad,,2021-12-06-arcep-rend-public-observatoire-marche-telecommunications-tchad
+UGA,FinScope 2023 mobile phone ownership,72% overall mobile phone ownership (2023),other,,,,2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co

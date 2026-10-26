@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-25-nga-nigerians-recount-frustrating-experiences-with-nimc-over-data-correcti",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The article says the NIN is used for identity verification in telecommunications (NIN-SIM linkage), banking and passport applications.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "NIN-SIM linkage",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The article says the NIN is used for verification across telecommunications, banking and passport applications.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

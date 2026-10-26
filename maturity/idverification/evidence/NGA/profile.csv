@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,use,use,coverage,inservice,2026-10-14,NGA-001;NGA-003;NGA-005;NGA-008;NGA-010;NGA-011;NGA-012;NGA-014;NGA-018;NGA-019;NGA-020;NGA-022;NGA-025;NGA-028;NGA-032;NGA-036;NGA-037;NGA-039;NGA-040;NGA-041,NGA-027=none;NGA-006=underway;NGA-031=underway;NGA-034=underway;NGA-017=underway;NGA-035=underway;NGA-043=underway;NGA-021=underway;NGA-024=underway;NGA-026=underway,
-NGA,use,sectors,coverage,several,2026-10-14,NGA-002;NGA-004;NGA-007;NGA-009;NGA-015;NGA-023;NGA-029;NGA-033,,
+NGA,use,use,coverage,inservice,2026-10-25,NGA-001;NGA-003;NGA-005;NGA-008;NGA-010;NGA-011;NGA-012;NGA-014;NGA-018;NGA-019;NGA-020;NGA-022;NGA-025;NGA-028;NGA-032;NGA-036;NGA-037;NGA-039;NGA-040;NGA-041;NGA-044,NGA-027=none;NGA-006=underway;NGA-031=underway;NGA-034=underway;NGA-017=underway;NGA-035=underway;NGA-043=underway;NGA-021=underway;NGA-024=underway;NGA-026=underway,
+NGA,use,sectors,coverage,several,2026-10-25,NGA-002;NGA-004;NGA-007;NGA-009;NGA-015;NGA-023;NGA-029;NGA-033;NGA-045,,
 NGA,use,usage,coverage,reported,2026-10-14,NGA-013;NGA-016;NGA-030;NGA-038;NGA-042,,
