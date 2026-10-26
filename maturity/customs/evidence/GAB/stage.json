@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "2",
-   "system": "underway",
-   "window": "",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001",
-   "gaps": "No source held since October 2023 says: are declarations processed electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "2",
+      "system": "underway",
+      "window": "",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001",
+      "gaps": "No source held since October 2023 says: are declarations processed electronically.",
+      "note": "The e-DIEBS declaration platform attached to Sydonia World was announced for a Libreville pilot from March 2026, a stage-2 fact. No source says declarations are processed in the system.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

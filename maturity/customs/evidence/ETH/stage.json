@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "4",
-   "system": "inservice",
-   "window": "window",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-004;ETH-003",
-   "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "4",
+      "system": "inservice",
+      "window": "window",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-004;ETH-003",
+      "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
+      "note": "The Customs Electronic Single Window joins more than 70 institutions, the central bank among them, in 2026, so stage 4. No source shows exchange with another country's customs.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

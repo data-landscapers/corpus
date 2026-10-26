@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "3",
-   "system": "inservice",
-   "window": "",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-004;LBR-006",
-   "gaps": "No source held since October 2023 says a trade single window is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "5",
+      "system": "inservice",
+      "window": "",
+      "exchange": "exchange",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-009",
+      "gaps": "",
+      "note": "ECOWAS launched SIGMAT transit-message exchange between the customs systems of Cote d'Ivoire, Guinea and Liberia in Monrovia in October 2025, so stage 5. ASYCUDA runs at the Freeport, RIA and Buchanan, and the single window is still being procured.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

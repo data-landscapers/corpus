@@ -29,3 +29,54 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-21,MLI,dpi.mis--customs,fact,unplaced,3,MLI-002,Director-General of Customs: SYDONIAWorld covers over 95% of procedures (February 2026); unplaced to 3
 2026-10-22,BEN,dpi.mis--customs,fact,3,4,BEN-010;BEN-001;BEN-009,"Webb Fontaine (Feb 2025): Webb Customs interconnected with the National Single Window, inside the window: single window in service, 3 to 4."
 2026-10-24,COM,dpi.mis--customs,fact,3,4,COM-001;COM-003;COM-006,"UNCTAD says the first phase of the GUCE single window is deployed, to be extended to more border agencies; single window in service, stage 4"
+2026-10-26,AGO,dpi.mis--customs,review,3,3,AGO-001;AGO-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,BDI,dpi.mis--customs,review,4,4,BDI-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,BFA,dpi.mis--customs,review,4,4,BFA-004,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,BWA,dpi.mis--customs,review,3,3,BWA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,CAF,dpi.mis--customs,review,5,5,CAF-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,CIV,dpi.mis--customs,review,unplaced,5,CIV-005,"Rebuild: the ECOWAS SIGMAT launch Guinea is staged on names Cote d'Ivoire and Liberia equally; added as CIV-005, transit exchange with partners, unplaced to 5."
+2026-10-26,CMR,dpi.mis--customs,review,5,5,CMR-003,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,COD,dpi.mis--customs,review,4,4,COD-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,COG,dpi.mis--customs,review,3,3,COG-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,CPV,dpi.mis--customs,review,2,2,CPV-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,DJI,dpi.mis--customs,review,3,3,DJI-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,DZA,dpi.mis--customs,review,3,3,DZA-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,EGY,dpi.mis--customs,review,4,4,EGY-001;EGY-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,ERI,dpi.mis--customs,review,3,3,ERI-001;ERI-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,ETH,dpi.mis--customs,review,4,4,ETH-004;ETH-003,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,GAB,dpi.mis--customs,review,2,2,GAB-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,GHA,dpi.mis--customs,review,3,3,GHA-002;GHA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,GIN,dpi.mis--customs,review,5,5,GIN-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,GMB,dpi.mis--customs,review,4,4,GMB-004;GMB-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,GNB,dpi.mis--customs,review,3,3,GNB-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,GNQ,dpi.mis--customs,review,2,2,GNQ-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,KEN,dpi.mis--customs,review,5,5,KEN-005,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,LBR,dpi.mis--customs,review,3,5,LBR-009,"Rebuild: the ECOWAS SIGMAT launch Guinea is staged on names Liberia equally; added as LBR-009, transit exchange with partners, 3 to 5."
+2026-10-26,LBY,dpi.mis--customs,review,3,2,LBY-001;LBY-002,"Rebuild: the August 2025 announcement has ASYCUDA's full launch still to come and the 2024 IMF SOP documents a process, not one in use; 3 to 2."
+2026-10-26,LSO,dpi.mis--customs,review,4,4,LSO-001;LSO-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,MAR,dpi.mis--customs,review,3,3,MAR-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,MDG,dpi.mis--customs,review,3,3,MDG-006;MDG-008,Rebuild: first-pass cell read afresh; stage holds; stage sources moved from the Customs Code to the 2024-25 facts of clearance on Sydonia World.
+2026-10-26,MOZ,dpi.mis--customs,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,MRT,dpi.mis--customs,review,unplaced,3,MRT-001,"Rebuild: the customs clearance guide for 2026, published January 2026, says declarations are registered in SYDONIA World; a year-dated fact from a source published by the as-at counts; unplaced to 3."
+2026-10-26,MUS,dpi.mis--customs,review,3,3,MUS-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,MWI,dpi.mis--customs,review,4,4,MWI-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,NAM,dpi.mis--customs,review,3,3,NAM-001;NAM-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,NER,dpi.mis--customs,review,4,4,NER-001;NER-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,NGA,dpi.mis--customs,review,4,4,NGA-005;NGA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,RWA,dpi.mis--customs,review,3,3,RWA-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,SDN,dpi.mis--customs,review,3,3,SDN-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,SEN,dpi.mis--customs,review,2,2,SEN-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,SLE,dpi.mis--customs,review,3,3,SLE-004;SLE-005,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,SOM,dpi.mis--customs,review,2,2,SOM-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,SSD,dpi.mis--customs,review,2,2,SSD-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,STP,dpi.mis--customs,review,3,3,STP-002;STP-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,SWZ,dpi.mis--customs,review,3,3,SWZ-001;SWZ-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,SYC,dpi.mis--customs,review,3,3,SYC-002;SYC-003,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,TCD,dpi.mis--customs,review,5,5,TCD-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,TGO,dpi.mis--customs,review,3,3,TGO-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,TUN,dpi.mis--customs,review,2,2,TUN-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,TZA,dpi.mis--customs,review,4,4,TZA-002;TZA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,UGA,dpi.mis--customs,review,3,3,UGA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,ZAF,dpi.mis--customs,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,ZMB,dpi.mis--customs,review,4,4,ZMB-005,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-10-26,ZWE,dpi.mis--customs,review,4,4,ZWE-004,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.

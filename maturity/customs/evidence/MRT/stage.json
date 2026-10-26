@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "3",
+      "system": "inservice",
       "window": "",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether customs declarations are processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MRT-001",
+      "gaps": "No source held since October 2023 says a trade single window is in service.",
+      "note": "The customs clearance guide for 2026 says declarations are registered in SYDONIA World, which runs risk circuits and payments, so stage 3. No source describes a trade single window.",
+      "as_at": "2026-10-26"
     }
   ]
 }

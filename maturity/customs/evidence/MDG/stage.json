@@ -9,10 +9,10 @@
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-005",
+      "stage_sources": "MDG-006;MDG-008",
       "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "Customs clears goods on Sydonia World in 2024 and analyses its records in 2025, so stage 3. TradeNet's single-window role is stated only in 2020.",
+      "as_at": "2026-10-26"
     }
   ]
 }

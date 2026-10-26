@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "3",
-   "system": "inservice",
-   "window": "",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-004;SLE-005",
-   "gaps": "No source held since October 2023 says a trade single window is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "3",
+      "system": "inservice",
+      "window": "",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-004;SLE-005",
+      "gaps": "No source held since October 2023 says a trade single window is in service.",
+      "note": "Declarations are processed and paid in ASYCUDA World in 2026, so stage 3. The ASYCUDA unit's account of agencies' modules does not describe a trade single window.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

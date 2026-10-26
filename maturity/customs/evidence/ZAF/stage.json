@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing held since October 2023 says whether customs declarations are processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "The facts held on SARS describe an inspection workflow and a single window still in restricted testing in 2023, and none says declarations are processed in an automated system, so no stage is set.",
+      "as_at": "2026-10-26"
     }
   ]
 }

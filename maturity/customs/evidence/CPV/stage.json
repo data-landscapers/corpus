@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "2",
-   "system": "underway",
-   "window": "",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-001",
-   "gaps": "No source held since October 2023 says: are declarations processed electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "2",
+      "system": "underway",
+      "window": "",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001",
+      "gaps": "No source held since October 2023 says: are declarations processed electronically.",
+      "note": "The SYDONIA World upgrade project at Cabo Verde's customs offices, 2023 to 2026, is the only fact held, and an upgrade is stage 2. No source says declarations are processed in the system.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

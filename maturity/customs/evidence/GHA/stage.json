@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "3",
-   "system": "inservice",
-   "window": "",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-002;GHA-001",
-   "gaps": "No source held since October 2023 says a trade single window is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "3",
+      "system": "inservice",
+      "window": "",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-002;GHA-001",
+      "gaps": "No source held since October 2023 says a trade single window is in service.",
+      "note": "ICUMS is the interface for declarations and clearance at Ghana's ports in 2026, so stage 3. No source since October 2023 describes a trade single window.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

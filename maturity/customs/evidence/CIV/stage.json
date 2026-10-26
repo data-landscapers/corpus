@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "unplaced",
+      "stage": "5",
       "system": "",
       "window": "",
-      "exchange": "",
+      "exchange": "exchange",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether customs declarations are processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "CIV-005",
+      "gaps": "",
+      "note": "ECOWAS launched SIGMAT transit-message exchange between the customs systems of Cote d'Ivoire, Guinea and Liberia in October 2025, the fact Guinea is staged on, so stage 5. Every other fact held on Ivorian customs predates October 2023.",
+      "as_at": "2026-10-26"
     }
   ]
 }

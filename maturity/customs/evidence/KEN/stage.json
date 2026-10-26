@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "KEN-005",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "Under the EAC single customs territory the importing country's revenue authority submits import documents electronically and the exporting country's issues a road manifest against them, per a 2025 source, so stage 5. iCMS and KenTrade's single window are fully integrated.",
+      "as_at": "2026-10-26"
     }
   ]
 }

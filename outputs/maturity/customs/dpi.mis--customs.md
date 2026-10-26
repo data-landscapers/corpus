@@ -1,6 +1,6 @@
 # Customs: customs
 
-*As at 2026-09-30.*
+*As at 2026-10-26.*
 
 ## The norm
 
@@ -20,12 +20,12 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 7 |
 | 4 Operating | 15 |
-| 3 Established | 23 |
-| 2 Nascent | 7 |
+| 3 Established | 22 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
-| Unplaced | 4 |
+| Unplaced | 2 |
 | No evidence | 0 |
 
 ## Countries
@@ -48,6 +48,12 @@ Customs exchanged data electronically with another country in 2026.
 
 - Customs says Cameroon, Chad and the Central African Republic have already linked their systems and introduced joint transit procedures ([source, 2026-04](https://theguardianpostcameroon.com/post/7061/en/hometighten-cemac-transit-cut)).
 
+### Cote d'Ivoire: 5 Leading
+
+Customs exchanged transit data electronically with Guinea and Liberia from 2025; whether declarations are processed electronically now is not known.
+
+- ECOWAS says it launched deployment of SIGMAT between Cote d'Ivoire, Guinea and Liberia on 31 October 2025, exchanging electronic transit messages through interconnection of their national customs systems; Liberia joins Guinea and Cote d'Ivoire on the platform ([source, 2025-10-31](https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/)).
+
 ### Guinea: 5 Leading
 
 Customs exchanged data electronically with another country in 2025.
@@ -59,6 +65,12 @@ Customs exchanged data electronically with another country in 2025.
 Customs exchanged data electronically with another country in 2025.
 
 - Business Daily says under the EAC single customs territory, the importing country's revenue authority submits import documents electronically and the exporting country's authority issues a road manifest against them ([source, 2025-08-25](https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392)).
+
+### Liberia: 5 Leading
+
+Customs exchanged transit data with Guinea and Cote d'Ivoire from 2025; a trade single window is still being procured.
+
+- ECOWAS says it launched deployment of SIGMAT between Cote d'Ivoire, Guinea and Liberia in Monrovia on 31 October 2025, exchanging electronic transit messages through interconnection of their national customs systems ([source, 2025-10-31](https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/)).
 
 ### Benin: 4 Operating
 
@@ -219,30 +231,24 @@ Customs declarations were processed electronically in 2026; a single window is n
 
 - UNCTAD's ASYCUDA Programme reports ASYCUDAWorld operational across all computerised customs offices, including the Port of Bissau, Bissau International Airport and the Sao Domingos, Gabu and Bafata offices, after migration from ASYCUDA++ ([source, 2026-01-26](https://asycuda.org/en/guinea-bissau-launches-asycudaworld-to-strengthen-customs-digitalization/)).
 
-### Liberia: 3 Established
-
-Customs declarations were processed electronically in 2026; a single window is not on record.
-
-- The LRA Corporate Strategic Plan 2025-2029 says ASYCUDA has played a pivotal role in augmenting customs operations and tables its status as extended to Freeport of Liberia, RIA and Buchanan ([source, 2026-08-20](https://revenue.lra.gov.lr/wp-content/uploads/2026/04/LRA-CSP-2025-Final.pdf)).
-- LRA Commissioner General James Dorbor Jallah said ASYCUDA has been deployed to 11 of 17 Customs Business Offices ([source, 2026-08-20](https://smartnewsliberia.com/lra-unveils-new-strategic-plan-as-liberia-moves-toward-historic-us1-billion-revenue-mark/)).
-
-### Libya: 3 Established
-
-Customs declarations were processed electronically in 2024; a single window is not on record.
-
-- The IMF METAC says its August-September 2024 mission helped Libya Customs develop a National Standard Operating Procedure documenting the new automated clearing process using ASYCUDA World ([source, 2024-09](https://www.imfmetac.org/content/dam/METAC/Countries-Activities/FY25/Libya.pdf)).
-
 ### Madagascar: 3 Established
 
-Customs declarations were processed electronically in 2023; a single window is not on record.
+Customs declarations were processed electronically in 2025; a single window is not on record.
 
-- The Customs Code (art. 87, as amended by the 2023 finance law) requires declarations at customs offices equipped with computer systems to be lodged electronically, and art. 88 refers to an automated clearance system ([source, 2023](https://www.douanes.gov.mg/code/titre-iv-operations-de-dedouanement/chapitre-premier-declaration-en-detail/section-i-caractere-obligatoire-de-la-declaration-en-detail/)).
+- Madagascar's Customs Directorate clears goods on Sydonia World, described as the current clearance platform, and launched a pilot to improve its electronic clearance system ([source, 2024-07-31](https://new.moov.mg/actualite/economie/88024-douanes-malagasy-lancement-du-projet-pilote-de-modernisation-du-systeme-de-dedouanement)).
+- Madagascar's customs administration says it analyses millions of records from SYDONIA, its customs management platform, and that automated controls have reduced clearance times ([source, 2025-03-27](https://www.douanes.gov.mg/la-douane-malagasy-un-modele-regional-dans-lusage-de-la-donnee-et-de-lia/)).
 
 ### Mali: 3 Established
 
 Customs runs on an automated system covering most procedures (2026); a trade single window is not known.
 
 - Mali's Director-General of Customs said the move to SYDONIAWorld in 2015 built an integrated system that now covers over 95 percent of customs business procedures ([source, 2026-02-23](https://douanes.gouv.ml/node/535)).
+
+### Mauritania: 3 Established
+
+Customs declarations were registered in an automated system in 2026; a single window is not on record.
+
+- Mauritania's customs guide says import and export declarations are registered and printed in SYDONIA World, which also runs risk circuits, liquidation and payment receipts ([source, 2026](https://www.douanes.mr/uploads/files/P2026%20Guide%20de%20proc%C3%A9dures%20de%20d%C3%A9douanement%20des%20marchandises%20%C3%A0%20l'importation%20et%20%C3%A0%20l%E2%80%99exportation.pdf)).
 
 ### Mauritius: 3 Established
 
@@ -326,6 +332,13 @@ An automated customs system was under way in 2026; none in service is on record.
 
 - The DGDDI announced the e-DIEBS platform, attached to Sydonia World for centralised handling of import and export declarations, to start on 30 March 2026 with the Libreville customs region as pilot site and a three-month transitional period, other regional directorates to be integrated progressively ([source, 2026-03-30](https://novaafriquemedia.com/?p=1616)).
 
+### Libya: 2 Nascent
+
+Libya announced the full launch of its automated customs system in 2025; its use at the main ports is not known.
+
+- Libya's Customs Authority announced on 21 August 2025 the full launch of the ASYCUDA customs system early the following month, after a two-week expert visit for the Customs Procedures Automation Project reviewed infrastructure readiness and implementation progress ([source, 2025-08-21](https://libyaherald.com/2025/08/customs-authority-announces-full-launch-of-asycuda-system-next-month)).
+- The IMF METAC says its August-September 2024 mission helped Libya Customs develop a National Standard Operating Procedure documenting the new automated clearing process using ASYCUDA World ([source, 2024-09](https://www.imfmetac.org/content/dam/METAC/Countries-Activities/FY25/Libya.pdf)).
+
 ### Senegal: 2 Nascent
 
 An automated customs system was under way in 2025; none in service is on record.
@@ -349,18 +362,6 @@ An automated customs system was under way in 2025; none in service is on record.
 An automated customs system was under way in 2025; none in service is on record.
 
 - Customs spokesman Chokri Jarraya said on 12 November 2025 that the SINDA 2 customs system will be ready in 2026, with the first applications entering service at the end of 2025 ([source, 2025-11-12](https://www.lapresse.tn/2025/11/12/douane-le-systeme-informatique-sinda-2-operationnel-a-partir-de-2026-2/)).
-
-### Cote d'Ivoire: Unplaced
-
-Nothing held since 2023 names an automated customs system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.
-
-### Mauritania: Unplaced
-
-Nothing held since 2023 names an automated customs system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.
 
 ### Mozambique: Unplaced
 

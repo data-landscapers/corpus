@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "STP-002;STP-001",
       "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "ASYCUDA World 4.4 went live across the national territory in May 2025, so stage 3. No source describes a trade single window.",
+      "as_at": "2026-10-26"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "AGO-001;AGO-002",
       "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "Angola lodges declarations in ASYCUDA World and went live on ASY5 at Lobito in January 2026, so stage 3. No source since October 2023 describes a trade single window.",
+      "as_at": "2026-10-26"
     }
   ]
 }

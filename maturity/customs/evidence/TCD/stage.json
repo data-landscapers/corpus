@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "5",
-   "system": "inservice",
-   "window": "window",
-   "exchange": "exchange",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "5",
+      "system": "inservice",
+      "window": "window",
+      "exchange": "exchange",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-002",
+      "gaps": "",
+      "note": "Customs says in April 2026 that Cameroon, Chad and the Central African Republic have already linked their systems for joint transit, so stage 5. No source describes a Chadian single window.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

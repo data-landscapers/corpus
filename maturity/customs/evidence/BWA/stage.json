@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BWA-001",
       "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "BURS takes customs declarations online in 2024, so stage 3. Its single window and the exchange with SARS and the ZRA are stated in 2022, and the Zambia programme's completion is dated May 2023, all outside the window.",
+      "as_at": "2026-10-26"
     }
   ]
 }

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LBR,customs,system,coverage,inservice,2026-08-20,LBR-001;LBR-004;LBR-006,LBR-003=underway;LBR-005=underway;LBR-007=underway;LBR-008=underway;LBR-002=underway,
 LBR,customs,window,coverage,,,,,nothing held
-LBR,customs,exchange,coverage,,,,,nothing held
+LBR,customs,exchange,coverage,exchange,2025-10-31,LBR-009,,

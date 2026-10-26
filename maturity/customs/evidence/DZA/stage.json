@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "DZA-002",
       "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "ALCES has been in service at land, sea and air offices since November 2023 and carried 70% of declarations by September 2024, so stage 3. No source describes a trade single window.",
+      "as_at": "2026-10-26"
     }
   ]
 }

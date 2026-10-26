@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "5",
-   "system": "inservice",
-   "window": "window",
-   "exchange": "exchange",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "5",
+      "system": "inservice",
+      "window": "window",
+      "exchange": "exchange",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-003",
+      "gaps": "",
+      "note": "Customs says in April 2026 that Cameroon, Chad and the Central African Republic have already linked their systems for joint transit, so stage 5. The Guce single window is in service in 2026.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

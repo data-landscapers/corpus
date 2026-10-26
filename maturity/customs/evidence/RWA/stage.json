@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "RWA-002",
       "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "UNCTAD describes ASYCUDA World as Rwanda's system for processing trade transactions in 2024, so stage 3. No source describes a trade single window.",
+      "as_at": "2026-10-26"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "5",
-   "system": "inservice",
-   "window": "window",
-   "exchange": "exchange",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "5",
+      "system": "inservice",
+      "window": "window",
+      "exchange": "exchange",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-002",
+      "gaps": "",
+      "note": "ECOWAS launched SIGMAT transit-message exchange between the customs systems of Cote d'Ivoire, Guinea and Liberia in October 2025, so stage 5. GUCEG joins customs, banks and port authorities in 2026.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

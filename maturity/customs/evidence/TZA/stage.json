@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "4",
-   "system": "inservice",
-   "window": "window",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-002;TZA-001",
-   "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "4",
+      "system": "inservice",
+      "window": "window",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002;TZA-001",
+      "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
+      "note": "The Tanzania Electronic Single Window joins traders, customs and regulators on the mainland, and Zanzibar's launched in June 2026, so stage 4. The 2024 workshop with Zambia planned exchange; no source shows it running.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

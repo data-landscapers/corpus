@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BFA-004",
       "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "Sylvie 2, the electronic single window that collects other administrations' documents and interfaces with SYDONIA, was relaunched in February 2025, so stage 4. The transit link with Togo dates from 2018, outside the window.",
+      "as_at": "2026-10-26"
     }
   ]
 }

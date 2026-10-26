@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "4",
-   "system": "inservice",
-   "window": "window",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-001;NER-002",
-   "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "4",
+      "system": "inservice",
+      "window": "window",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-001;NER-002",
+      "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
+      "note": "GUCE-Niger joins customs, ministries, banks and control bodies on one platform in 2025 and 2026, so stage 4. No source shows exchange with another country's customs.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

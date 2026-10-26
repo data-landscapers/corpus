@@ -1,17 +1,18 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "3",
-   "system": "inservice",
-   "window": "",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ERI-001;ERI-002",
-   "gaps": "No source held since October 2023 says a trade single window is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "3",
+      "system": "inservice",
+      "window": "",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ERI-001;ERI-002",
+      "gaps": "No source held since October 2023 says a trade single window is in service.",
+      "note": "ASYCUDA World went live across interconnected customs stations in January 2026, so stage 3. No source describes a trade single window.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

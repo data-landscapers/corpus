@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MAR-001",
       "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-customs.py.",
-      "as_at": "2026-10-18"
+      "note": "BADR clears goods and is integrated with foreign-trade partners in 2024, so stage 3. The PortNet single window is described only in 2017 and 2020 sources, outside the window.",
+      "as_at": "2026-10-26"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "customs",
-   "stage": "2",
-   "system": "underway",
-   "window": "",
-   "exchange": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNQ-001",
-   "gaps": "No source held since October 2023 says: are declarations processed electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-customs.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "customs",
+      "stage": "2",
+      "system": "underway",
+      "window": "",
+      "exchange": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-001",
+      "gaps": "No source held since October 2023 says: are declarations processed electronically.",
+      "note": "Phase II of SYDONIA, extending it beyond Malabo, is to be implemented in 2026, a stage-2 fact. No source says declarations are processed in the system.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

@@ -68,6 +68,8 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 - [x] **D2. Staged** as at 2026-09-30: 4 at 5, 9 at 4, 13 at 3, 5 at 2; unplaced 1, no evidence 22. Every cell is a first pass; no second drafter.
 - [x] **D3. Written, rendered and linted**, by `study-first-write.py`; on the soft-launch map. Reported to Bill.
 
+- [x] **Rebuild reassess**, 2026-10-26: the second-drafter check agreed on 20 of 20 cells (`agreement.csv`); the 51 first-pass cells were read afresh and four moved. The ECOWAS SIGMAT launch Guinea stood on names Cote d'Ivoire and Liberia equally, so both took it as a fact and stage 5; Libya fell to 2, its full ASYCUDA launch still announced; Mauritania's 2026 clearance guide set 3.
+
 **Decided in the run**: Nothing removed at the top-stage check.
 
 ## Boundary
