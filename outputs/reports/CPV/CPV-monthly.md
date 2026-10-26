@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: CPV
-ledger_rows: 20
+ledger_rows: 21
 not_held: 28
-record: 99d0cb1dd5fd
+record: 797db16eae6c
 ---
 
 # News, Sep – Oct 2026
@@ -158,6 +158,14 @@ Summarised under [Connectivity](#connectivity).
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Cabo Verde: Starlink Triplica Quota de Tráfego de Internet e já Representa 18% do Total](https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total)** — Diário Económico, 24 October 2026
+
+ARME Q2 2026 data via Lusa; Starlink 18% of traffic on 0.87% of subscriptions; CV Telecom traffic share 89% to 78%.
+
+</div>
+
 </div>
 
 ### Cybersecurity
@@ -215,6 +223,28 @@ Cabo Verde's integrated project coordination centre, CCIP, invited expressions o
 **[Quase 5 milhões de operações na rede Vinti4 em Agosto](https://expressodasilhas.cv/economia/2026/09/14/quase-5-milhoes-de-operacoes-na-rede-vinti4-em-agosto/104611)** — Expresso das Ilhas, 14 September 2026
 
 The Banco de Cabo Verde reported on 14 September 2026 that residents made 4,992,880 operations worth 21,159.9 million escudos on the vinti4 card network in August, down 0.3% in number and 2.4% in value on July. Card purchases made up 3,768,595 operations. The interbank clearing system processed 131,456 operations worth 25,543.1 million escudos, down 19.1% in number.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SPEED instant transfer system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BCV prevê lançar projecto-piloto do sistema de pagamentos Speed antes do final do ano](https://www.inforpress.cv/en/bcv-preve-lancar-projecto-piloto-do-sistema-de-pagamentos-speed-antes-do-final-do-ano-c-audio-1)** — Inforpress, 23 October 2026
+
+Pilot on one island or remote locality before end-2026; BCV bears early costs; banks, telcos, regulator still to agree.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[BCV volta a prometer projecto-piloto de pagamento Speed](https://mindelinsite.com/economia/bcv-volta-a-prometer-projecto-piloto-de-pagamento-speed/)** — Mindel Insite, 24 October 2026
+
+Second promise of the Speed pilot; first announced December 2025 for entry into force in Q1 2026.
 
 </div>
 
