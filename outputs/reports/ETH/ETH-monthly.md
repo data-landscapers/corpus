@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: ETH
-ledger_rows: 34
+ledger_rows: 35
 not_held: 5
-record: 10e0e0ebbe33
+record: 4c4c66f48ef8
 ---
 
 # News, Sep – Oct 2026
@@ -179,6 +179,14 @@ Ethio Telecom is to expand its 4G network from 6,924 to 11,014 sites in 2026/27 
 **[Ethio Telecom Targets 96.2 Million Customers, ETB 295 Billion Revenue in 2026/27](https://techafricanews.com/2026/09/04/ethio-telecom-targets-96-2-million-customers-etb-295-billion-revenue-in-2026-27/)** — TechAfrica News, 4 September 2026
 
 Ethio Telecom set 2026/27 targets of 96.2 million customers and ETB 295 billion revenue in its annual business plan, the second year of its Next Horizon strategy. The plan raises 4G capacity from 22.79 million to 35.31 million subscribers and 4G population coverage from 82.23% to 95%, 5G sites from 340 to 648 and 5G towns from 33 to 73, backbone fibre from 23,442 km to 25,642 km and gateway capacity from 4.3 Tbps to 5.2 Tbps, with telebirr targeted at 67.69 million customers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethio Telecom Extends 4G LTE Coverage to 80 More Towns](https://techafricanews.com/2026/10/26/ethio-telecom-extends-4g-lte-coverage-80-towns/)** — Tech Africa News, 26 October 2026
+
+Next Horizon 2028 rollout; 2026/27 plan targets 95% 4G population coverage, 1,500 towns, 11,014 sites.
 
 </div>
 
@@ -610,6 +618,8 @@ Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Dev
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
 <a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
 </nav>
 
 ### Access to services
@@ -679,6 +689,22 @@ The GSMA published research on 10 September 2026 on refugee women's mobile use, 
 **[Ethiopian Institution of the Ombudsman](http://ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
 
 The Ethiopian Institution of the Ombudsman's website says it has resolved more than 48,500 complaints of maladministration through 14 regional offices. It also reports 1.5 million public enquiries and a 96.4% compliance rate by institutions; the figures carry no date.
+
+</div>
+
+</div>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Human rights commission digital inclusion monitoring toolkit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Strengthening Digital Rights for Persons with Disabilities and Older Persons](https://cipesa.org/2026/10/strengthening-digital-rights-for-persons-with-disabilities-and-older-persons/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 23 October 2026
+
+EHRC drafts eight-dimension digital inclusion toolkit under ADRF grant; ADRF round of USD 320,000 to 18 initiatives.
 
 </div>
 
