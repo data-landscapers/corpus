@@ -205,13 +205,16 @@ def lookup_tables(text: str, out_dir: Path) -> str:
                 k = header.index("removed")
                 rows = [r for r in rows if not (k < len(r) and r[k].strip())]
             if m.group(2):
-                cols = [c.strip() for c in m.group(2).split(",")]
+                # `column as label` heads a column on the page without renaming it in the
+                # file, whose headers the scripts read (Bill, 2026-10-26).
+                pairs = [re.split(r"\s+as\s+", c.strip(), maxsplit=1) for c in m.group(2).split(",")]
+                cols = [p[0] for p in pairs]
                 gone = [c for c in cols if c not in header]
                 if gone:
                     raise SystemExit(f"methodology.py: {m.group(1)} has no column "
                                      f"{', '.join(gone)} for the {heading!r} table.")
                 idx = [header.index(c) for c in cols]
-                header, rows = cols, [[r[k] if k < len(r) else "" for k in idx] for r in rows]
+                header, rows = [p[-1] for p in pairs], [[r[k] if k < len(r) else "" for k in idx] for r in rows]
             if src.is_relative_to(CORPUS / "site"):
                 href = Path(os.path.relpath(src, out_dir)).as_posix()
             else:

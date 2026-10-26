@@ -164,7 +164,7 @@
     <article class="article-body">
       <h2 id="introduction">Introduction</h2>
       <p>Many of the decisions made by Corpus are based on the various lookup tables listed here. It allows for significant configuration changes to search and classification without interfering with the underlying code.</p>
-      <!-- A "table:" comment below names a CSV, and optionally the columns to show; the page draws that table from the file at build time (scripts/methodology.py, lookup_tables). Edit the file, not a copy here. -->
+      <!-- A "table:" comment below names a CSV, and optionally the columns to show, each as "column as label" to head it differently; the page draws that table from the file at build time (scripts/methodology.py, lookup_tables). Edit the file, not a copy here. -->
 
       <h2 id="countries">Countries</h2>
       <p class="lookup-csv"><a class="btn btn--sm" href="countries.csv" download>&darr; CSV</a></p>
@@ -497,9 +497,9 @@
       <thead>
       <tr>
       <th>Sort order</th>
-      <th>Key</th>
-      <th>Level 1</th>
-      <th>Level 2</th>
+      <th>topic_id</th>
+      <th>Chapter</th>
+      <th>Topic</th>
       </tr>
       </thead>
       <tbody>
@@ -752,9 +752,9 @@
       <thead>
       <tr>
       <th>indicator_id</th>
-      <th>Topic L1</th>
+      <th>Chapter</th>
       <th>Topic</th>
-      <th>Progress indicator</th>
+      <th>Indicator</th>
       </tr>
       </thead>
       <tbody>

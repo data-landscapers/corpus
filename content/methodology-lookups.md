@@ -1,16 +1,16 @@
 ## Introduction
 Many of the decisions made by Corpus are based on the various lookup tables listed here. It allows for significant configuration changes to search and classification without interfering with the underlying code.
 
-<!-- A "table:" comment below names a CSV, and optionally the columns to show; the page draws that table from the file at build time (scripts/methodology.py, lookup_tables). Edit the file, not a copy here. -->
+<!-- A "table:" comment below names a CSV, and optionally the columns to show, each as "column as label" to head it differently; the page draws that table from the file at build time (scripts/methodology.py, lookup_tables). Edit the file, not a copy here. -->
 
 ## Countries
 <!-- table: lookups/countries.csv -->
 
 ## Topics
-<!-- table: lookups/taxonomy.csv -->
+<!-- table: lookups/taxonomy.csv | Sort order, Key as topic_id, Level 1 as Chapter, Level 2 as Topic -->
 
 ## Indicators
-<!-- table: lookups/indicators.csv | indicator_id, Topic L1, Topic, Progress indicator -->
+<!-- table: lookups/indicators.csv | indicator_id, Topic L1 as Chapter, Topic, Progress indicator as Indicator -->
 
 ## Progress Categories
 | Value             | Meaning                                                                       |
