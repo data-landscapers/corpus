@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 231
+sources_cited: 233
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -322,7 +322,7 @@ The gains are uneven in a specific way. [Equality in education](https://assets.i
 
 Being able to read is not the same as being able to reach a service that has to be read on a screen. [18% of Togolese owned a computer and 32% had a phone that could reach the internet, with 18% often getting their information over the internet](https://www.afrobarometer.org/publication/ad361-poursuite-des-cours-par-television-radio-et-internet-pendant-la-pandemie-du-covid/) (January 2021).
 
-Work on that second literacy has begun from the data-protection side rather than the education side. The personal data authority opened with a [public awareness campaign from April 2025](https://www.togofirst.com/fr/tic/2903-16040-numerique-l-instance-de-protection-des-donnees-a-caractere-personnel-demarre-ses-activites) aimed at building a digital space of trust, and has since run [basic digital hygiene training for young Togolese](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) with the national cybersecurity agency (November 2025). Inside government, the ministry's own [education data runs on DHIS2](https://education.dhis2.org/implementation/togo/) (2024).
+Work on that second literacy has begun from the data-protection side rather than the education side. The personal data authority opened with a [public awareness campaign from April 2025](https://www.togofirst.com/fr/tic/2903-16040-numerique-l-instance-de-protection-des-donnees-a-caractere-personnel-demarre-ses-activites) aimed at building a digital space of trust, and has since run [basic digital hygiene training for young Togolese](https://www.togofirst.com/fr/formation/0311-17461-protection-des-donnees-3000-jeunes-togolais-formes-aux-bons-reflexes-numeriques) with the national cybersecurity agency (November 2025). Inside government, the ministry's own [education data runs on DHIS2](https://education.dhis2.org/implementation/togo/) (2024). For the civil service itself, [a programme to train 20,000 civil servants in basic digital skills was announced in June 2026 as the next step after the digital ambassadors cohort](https://fr.linkedin.com/posts/bettina-maier-neme-292a8933_transformationnum%C3%A9rique-servicepublic-activity-7474732196432625664-Z-BE), with no start date set.
 
 ### Training and skills
 <!-- capacity.training -->
@@ -404,7 +404,7 @@ The state's most consequential use of satellite data was to decide who got paid:
 ### US / hyperscaler activities
 <!-- geopol.usa -->
 
-The American presence in Togo's digital sector runs through a university research centre and a private foundation rather than a commercial platform: the [Togo AI Lab](https://www.togofirst.com/fr/culture/1407-19555-au-togo-un-projet-pour-valoriser-les-langues-nationales-via-lintelligence-artificielle), a ministry initiative, is run with the University of California Berkeley's Center for Effective Global Action and the Patrick J. McGovern Foundation alongside IDF and Germany's GIZ ProDigiT programme, and it delivers its national-language AI project with the pan-African data-science platform Zindi and the Togolese startup Umbaji (July 2026). [Google.org committed USD 2 million in December 2025 to scale the Togo Data Lab, run by the digital ministry with the Berkeley centre](https://cega.berkeley.edu/article/togo-expands-data-lab-to-drive-durable-policy-innovation-with-support-from-google-org/). [The Millennium Challenge Corporation terminated its Togo threshold programme, which carried a USD 20.5 million ICT project, on 18 December 2025](https://www.mcc.gov/where-we-work/program/togo-threshold-program/). No US hyperscaler operation in Togo was on the public record as at August 2026.
+The American presence in Togo's digital sector runs through a university research centre and a private foundation rather than a commercial platform: the [Togo AI Lab](https://www.togofirst.com/fr/culture/1407-19555-au-togo-un-projet-pour-valoriser-les-langues-nationales-via-lintelligence-artificielle), a ministry initiative, is run with the University of California Berkeley's Center for Effective Global Action and the Patrick J. McGovern Foundation alongside IDF and Germany's GIZ ProDigiT programme, and it delivers its national-language AI project with the pan-African data-science platform Zindi and the Togolese startup Umbaji (July 2026). [By October 2026 the laboratory was working with more than ten public agencies on over 70 projects](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/). [Google.org committed USD 2 million in December 2025 to scale the Togo Data Lab, run by the digital ministry with the Berkeley centre](https://cega.berkeley.edu/article/togo-expands-data-lab-to-drive-durable-policy-innovation-with-support-from-google-org/). [The Millennium Challenge Corporation terminated its Togo threshold programme, which carried a USD 20.5 million ICT project, on 18 December 2025](https://www.mcc.gov/where-we-work/program/togo-threshold-program/). No US hyperscaler operation in Togo was on the public record as at August 2026.
 
 ### China activities
 <!-- geopol.china -->
