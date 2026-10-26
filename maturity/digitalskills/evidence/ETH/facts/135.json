@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-05-eth-pps-leadership-and-staff-successfully-complete-5-million-coders-traini",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Public Procurement Service says the government's 5 Million Ethiopian Coders initiative was launched to give free digital training to five million citizens; no number trained nationally is given.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "5 Million Ethiopian Coders",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "5 Million Ethiopian Coders",
+   "country_label": "Ethiopia",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

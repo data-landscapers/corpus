@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-27-bdi-la-transformation-numerique-ne-se-resume-pas-aux-infrastructures-post",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The PAFEN coordinator says in a LinkedIn post that PAFEN will soon launch a basic digital skills programme aiming to train 10,000 young people in under 12 months.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "PAFEN basic digital skills programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

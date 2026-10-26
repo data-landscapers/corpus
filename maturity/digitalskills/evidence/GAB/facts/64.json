@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-18-gab-gabon-lancement-officiel-de-la-campagne-academie-mondiale-des-competen",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Gabonmediatime reports the Ministry of Digital Economy, with UNESCO and two universities, launched the Global Skills Academy on 15 October 2024, offering 2,000 free certified digital courses to Gabonese learners, young women, vulnerable people and civil servants; no number trained is given.",
+   "as_of": "2024-10-15",
+   "date_precision": "day",
+   "system": "Académie mondiale des compétences",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Académie mondiale des compétences",
+   "country_label": "Gabon",
+   "class": "publicskills",
+   "platform": "UNESCO, Microsoft, IBM courses",
+   "owner": "Ministry of Digital Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

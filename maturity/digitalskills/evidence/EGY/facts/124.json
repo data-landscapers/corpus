@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-20-egy-mcit-146695-it-training-certificates-state-administrative-staff",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The Deputy Minister said the ministry's digital literacy initiatives had raised digital awareness and skills for 1,122,837 citizens, including about 93,494 in first-phase Decent Life villages.",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "MCIT digital literacy initiatives",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

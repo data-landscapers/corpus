@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-23-nga-nitda-launches-capacity-building-programme-to-boost-digital-literacy-i",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "NITDA says its Digital Literacy for All initiative, covering school curricula, the workforce and the informal sector with NYSC, has benefitted more than 300,000 Nigerians.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Digital Literacy for All (DL4ALL)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Literacy for All (DL4ALL)",
+   "country_label": "Nigeria",
+   "class": "publicskills",
+   "platform": "Cisco-powered online programme",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

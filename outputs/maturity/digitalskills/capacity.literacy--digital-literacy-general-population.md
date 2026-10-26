@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 15 |
-| 2 Nascent | 28 |
+| 3 Established | 16 |
+| 2 Nascent | 27 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 6 |
@@ -155,6 +155,12 @@ A national digital-skills programme had trained a stated number of people by 202
 A national digital-skills programme had trained a stated number of people by 2025; a measured share with skills is not on record.
 
 - In April 2025, 244 young Togolese received certificates after five months of D-CLIC training in Lome, Aneho, Kara and Dapaong, per Togo First ([source, 2025-04](https://www.togofirst.com/en/itc/0110-20219-francophonie-organization-s-investment-in-aneho-digital-training-program-reaches-nearly-cfaf-300m)).
+
+### Uganda: 3 Established
+
+The regulator's fund trained over 13,000 women and 11,000 rural people in digital skills by 2026; the share of adults with skills is not known.
+
+- UCC, through UCUSAF, reports programme records for 2020-2026 of more than 13,000 women and over 11,000 rural community participants trained in digital skills, and more than 5,000 MSMEs ([source, 2026-10-22](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)).
 
 ### Algeria: 2 Nascent
 
@@ -325,13 +331,6 @@ A national digital-skills programme was under way in 2026; how many it trained i
 
 - Minister Angellah Kairuki said the government, through TCRA, has established 800 Digital Clubs aimed at developing ICT skills among citizens ([source, 2026-09-04](https://dailynews.co.tz/tanzania-tells-wtpf-session-how-its-citizens-enjoy-access-to-inclusive-secure-communication-services/)).
 - TCRA's Director General says the government, through TCRA, has established 800 digital clubs across the country, promoted from nursery school to university to build digital literacy and practical ICT skills ([source, 2026-08-04](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/)).
-
-### Uganda: 2 Nascent
-
-A national digital-skills programme was under way in 2026; how many it trained is not on record.
-
-- The Ministry of ICT and National Guidance, with MTN Foundation Uganda and Centenary Technology Services, is implementing a Shs4 billion, three-year programme of four regional digital innovation hubs at public universities plus the Nakawa hub, expected to give over 20,000 students and community members digital skills training; the second hub was handed over at Busitema University ([source, 2026-09-16](https://nilepost.co.ug/business/371109/digital-hubs-must-equip-youth-for-jobssays-ps-zawedde)).
-- The National Council for Persons with Disabilities and IDI Uganda, with KOICA funding, set up an ICT hub in Kasese that will provide computer literacy and vocational digital training to persons with disabilities and the wider community ([source, 2026-08-01](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills)).
 
 ### Zambia: 2 Nascent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-01-tgo-transformation-digitale-de-l-economie-togolaise-prodigit",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The LuxDev sheet for ProDigiT says the Togo Data Lab is operational and 993 people have been trained there.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Togo Data Lab",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

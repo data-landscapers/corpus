@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-16-tgo-lancement-effectif-du-programme-certifiant-en-data-science-en-partenar",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Togo's digital ministry and GIZ launched a Simplon data science certification at the Togo Data Lab, with a first cohort of students and young professionals from 13 April 2026, targeting 260 local trainees.",
+   "as_of": "2026-04-13",
+   "date_precision": "day",
+   "system": "Programme certifiant en Data Science (Togo Data Lab, Simplon)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

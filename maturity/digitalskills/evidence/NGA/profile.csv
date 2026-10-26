@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,publicskills,training,coverage,inservice,2026-10-21,NGA-007;NGA-008,NGA-005=underway;NGA-006=underway;NGA-001=underway;NGA-002=underway;NGA-003=underway;NGA-009=underway;NGA-004=underway,
+NGA,publicskills,training,coverage,inservice,2026-10-21,NGA-007;NGA-008;NGA-010,NGA-005=underway;NGA-006=underway;NGA-001=underway;NGA-002=underway;NGA-003=underway;NGA-009=underway;NGA-004=underway,
 NGA,publicskills,measured,coverage,,,,,nothing held
 NGA,publicskills,half,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-uga-uganda-s-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "UCC, through UCUSAF, reports programme records for 2020-2026 of more than 13,000 women and over 11,000 rural community participants trained in digital skills, and more than 5,000 MSMEs.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "UCUSAF digital skills programmes",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCUSAF digital skills programmes",
+   "country_label": "Uganda",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Uganda Communications Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

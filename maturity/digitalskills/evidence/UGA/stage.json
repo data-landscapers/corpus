@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "publicskills",
-   "stage": "2",
-   "training": "underway",
-   "measured": "",
-   "half": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-001",
-   "gaps": "No source held since October 2023 says: is one in service and counted.",
-   "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "publicskills",
+      "stage": "3",
+      "training": "inservice",
+      "measured": "",
+      "half": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-003",
+      "gaps": "No source held since October 2023 gives a measured share of people with basic digital skills.",
+      "note": "The regulator's universal service fund reports more than 13,000 women and 11,000 rural community members trained in digital skills from 2020 to 2026, so a national programme is in service and counted. No survey share is held, so not stage 4.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

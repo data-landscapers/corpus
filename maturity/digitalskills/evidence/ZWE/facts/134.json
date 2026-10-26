@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-06-zwe-digital-skills-for-civil-servants",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Herald says Zimbabwe has a government-led national initiative to train 1.5 million coders by 2028 in AI, data science and programming.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "National initiative to train 1.5 million coders",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
