@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: BDI
-ledger_rows: 21
+ledger_rows: 23
 not_held: 10
-record: 181ca9358279
+record: 83eff808c435
 ---
 
 # News, Sep – Oct 2026
@@ -19,7 +19,11 @@ record: 181ca9358279
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -318,6 +322,28 @@ Burundi's presidency adopted Gasape Chat, a locally built messaging application,
 
 </div>
 
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of communal administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[BUTIHINDA : La digitalisation de la gestion comptable, budgétaire et financière se modernise grâce au logiciel AK-SOFT](https://communebutihinda.gov.bi/butihinda-la-digitalisation-de-la-gestion-comptable-budgetaire-et-financiere-se-modernise-grace-au-logiciel-ak-soft/)** — Commune de Butihinda, 25 October 2026
+
+Zonal accountants trained after Primature workshop; FY2025-26 data being keyed in; unstable Internet flagged.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -371,6 +397,28 @@ The Ijwi ry'Ikirundi AI project's GitHub repository publishes 1,813 Kirundi sent
 **[Country Profile on AI Governance: Burundi](https://www.aipolicy.africa/country-profiles/burundi)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Summarised under [AI](#ai).
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+</nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital skills of public officials</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[La transformation numérique ne se résume pas aux infrastructures (post de Bienvenu Irakoze, coordonnateur du PAFEN)](https://www.linkedin.com/feed/update/urn:li:activity:7509922575322566656)** — Bienvenu Irakoze, PAFEN coordinator (LinkedIn), 27 September 2026
+
+PAFEN coordinator: 5,000 civil servants and 10,000 young people to get basic digital skills within 12 months.
 
 </div>
 
