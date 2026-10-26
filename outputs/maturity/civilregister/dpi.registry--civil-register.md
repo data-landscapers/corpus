@@ -196,7 +196,7 @@ Digital civil registration was under way in 2026; national digital birth registr
 Digital civil registration was under way in 2026; national digital birth registration is not on record.
 
 - ACSI, which designed and built SIFEC, handed its operating technical documents to the territorial administration directorate on 22 September 2026, with data centralisation, user training and deployment still listed as next steps (Dépêches de Brazzaville/ADIAC) ([source, 2026-09-22](https://www.adiac-congo.com/content/digitalisation-de-letat-civil-ladministration-du-territoire-receptionne-les-documents)).
-- The interior minister told the Senate on 7 August 2026 that SIFEC, to centralise birth, marriage and death certificates, was about to be rolled out, and the article calls it a plan on the verge of deployment (Brazzaville Insider) ([source, 2026-08-07](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/)).
+- The interior minister told the Senate on 7 August 2026 that digitisation of civil-status acts through the integrated civil-status management system project is the structural response to fraud (Datsoue News) ([source, 2026-08-07](https://datsoue.news/2026/08/08/congo-etat-civil-jean-olessongo-ondaye-annonce-la-traque-des-reseaux-de-falsification/)).
 
 ### DR Congo: 2 Nascent
 
