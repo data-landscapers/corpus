@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,national,governance,qualifier,body:mandated;finance:donor,2026-09-21,MRT-001;MRT-020,MRT-030=finance:donor;MRT-026=finance:donor;MRT-021=finance:not-stated;MRT-023=body:mandated,
+MRT,national,governance,qualifier,body:mandated;finance:donor,2026-10-23,MRT-001;MRT-049,MRT-050=body:mandated;MRT-030=finance:donor;MRT-026=finance:donor;MRT-020=body:mandated;MRT-021=finance:not-stated;MRT-023=body:mandated,
 MRT,national,standing,coverage,adopted,2024,MRT-010;MRT-012,MRT-006=drafting;MRT-029=drafting,
-MRT,national,text,coverage,public,2022-06,MRT-017,,nothing dated since 2023-10-23
-MRT,national,period,coverage,to:2025,2025,MRT-002;MRT-005;MRT-009;MRT-018,MRT-022=to:2016;MRT-028=to:2016,
+MRT,national,text,coverage,public,2022-06,MRT-017,,nothing dated since 2023-10-26
+MRT,national,period,coverage,to:2025,2025,MRT-002;MRT-005;MRT-009;MRT-018;MRT-051,MRT-022=to:2016;MRT-028=to:2016,
 MRT,national,plan,coverage,costed,2023-11-27,MRT-014;MRT-019,MRT-003=actions;MRT-004=actions;MRT-011=actions;MRT-013=actions;MRT-016=actions,
 MRT,national,reporting,coverage,activity,2025-12-23,MRT-008;MRT-015;MRT-024;MRT-025;MRT-027,,
 MRT,national,last12,qualifier,advancing,2025-12-04,MRT-007,,

@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ETH,national,governance,qualifier,body:mandated;finance:domestic,2026-09-22,ETH-001;ETH-002,ETH-005=body:mandated;ETH-020=body:mandated,
-ETH,national,standing,coverage,adopted,2025,ETH-010;ETH-013;ETH-018,ETH-017=announced;ETH-007=announced;ETH-009=announced;ETH-014=drafting;ETH-021=drafting;ETH-016=announced;ETH-023=announced;ETH-015=announced,
+ETH,national,standing,coverage,adopted,2025,ETH-010;ETH-013;ETH-018,ETH-017=announced;ETH-007=announced;ETH-009=announced;ETH-024=announced;ETH-014=drafting;ETH-021=drafting;ETH-016=announced;ETH-023=announced;ETH-015=announced,
 ETH,national,text,coverage,public,2024,ETH-003,,
-ETH,national,period,coverage,to:2025,2025,ETH-004;ETH-011;ETH-019,,
+ETH,national,period,coverage,to:2025,2025,ETH-004;ETH-011;ETH-019,ETH-025=to:2030,
 ETH,national,plan,coverage,costed,2024-07-13,ETH-022,ETH-008=actions,
 ETH,national,reporting,coverage,activity,2026-07-30,ETH-006,,
 ETH,national,last12,qualifier,advancing,2025-12-20,ETH-012,,

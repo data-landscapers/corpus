@@ -465,6 +465,7 @@ COD,Schéma directeur eDRC,eDRC,thematic,,Government,"national; first phase to c
 COD,Guichet Numérique,Guichet Numérique,government,,Government,national; project to be made operational with a digital identity,2024-01-01-cod-programme-d-actions-du-gouvernement-2024-2028
 COD,Plan National du Numérique 2026-2030 (PNN2),RDC,national,,Ministère de l'Économie Numérique,,2025-10-09-cod-economie-numerique-augustin-kibassa-maliba-lance-les-travaux-de-redact
 COD,Plan National du Numérique Horizon 2025,RDC,national,,Ministère de l'Économie Numérique,,2025-10-09-cod-economie-numerique-augustin-kibassa-maliba-lance-les-travaux-de-redact
+COD,Plan national du numérique,Plan national du numérique,national,,ADN,,2023-11-24-cod-digitalisation-de-la-rdc-l-adn-et-l-ada-s-engagent-a-former-100-000-ag
 COG,feuille de route sur le numérique au service de l'éducation,Feuille de route sur le numérique au service de l'éducation,ministry-plan,,"Ministère de l'Enseignement préscolaire, primaire, secondaire et de l'Alphabétisation","education sector; validated at a workshop of 18-19 August 2026, with a two-year action plan and budget still to be worked",2026-08-21-adiac-congo-education-digital-roadmap-validated
 COG,PNDS 2023-2026,Plan National de Développement Sanitaire 2023-2026,ministry-plan,,Ministère de la Santé,health sector; validated March 2024 per the directory,2026-07-23-ictworks-african-national-digital-health-strategies-2026
 COG,Plan national de développement 2022-2026,Plan national de développement 2022-2026,development-plan,,,national; named as a second framework the GSMA report aligns with,2026-06-26-gsma-publie-rapport-congo-ldb
@@ -596,6 +597,7 @@ DJI,Feuille de route de la transformation numérique de l'Etat,Feuille de route 
 DJI,Stratégie sur la cyber sécurité,Stratégie sur la cyber sécurité,thematic,,approved by HCSENI,,2023-08-03-dji-decret-n-2023-244-pr-mdeni-portant-organisation-et-fonctionnement-du-h
 DJI,Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique,Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique,national,,Ministère délégué chargé de l'Economie Numérique et de l'Innovation,,2023-03-01-dji-maeci-conseil-ministres-smart-nation-roadmap
 DJI,"Code du Numérique (draft, Books I-II)",Projet de Code du Numérique,directive,,Ministère délégué chargé de l'Economie Numérique et de l'Innovation,,2023-03-01-dji-maeci-conseil-ministres-smart-nation-roadmap
+DJI,Digital Government Roadmap,Djibouti,government,,IDGC / EstDev,,2024-09-30-dji-digital-leaders-spotlight-djibouti
 DZA,Programme to cover 201 sites with 4G (universal service),programme de couverture de 201 sites en 4G,programme,,"ATM Mobilis SPA, financed by the universal service support fund of the Ministry of Post and Telecommunications",,2026-09-30-dza-algerian-business-mobilis-4g-201-sites-27-milliards
 DZA,AI Startup Fund (Algérie Télécom),,programme,,Algérie Télécom,,2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report
 DZA,Sovereign national cloud,السحابة الوطنية,thematic,,High Commission for Digitalisation (HCN),,2026-09-20-dza-echaab-rakmana-shafafiya-asrana
@@ -1633,6 +1635,8 @@ MUS,Digital Transformation Blueprint 2025-2029,Digital Transformation Blueprint 
 MUS,Government Programme - A Bridge to the Future,Government Programme 2025-2029,development-plan,,Government of Mauritius,presented to the nation on 24 January 2025,2025-10-29-launch-ai-for-all-booklet-speech
 MUS,Digital government transformation strategy (unnamed),new digital government transformation strategy,government,,MITCI,"whole-of-government approach, GovTech ecosystem",2023-03-01-govtech-maturity-index-2022-regional-brief-afe
 MUS,Digital Transformation Blueprint 2025-2029,Blueprint for Digital Transformation,national,,MITCI; Inter-Ministerial Committee,national,2025-08-26-mus-digital-transformation-first-meeting-of-inter-ministerial-committee
+MUS,Digital Transformation Blueprint 2025-2029,Mauritius,national,,government,,2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn
+MUS,Sovereign Cloud for the Government of Mauritius (RFI MITCI/RFI 01/2025-26),Mauritius,thematic,,"Ministry of Information Technology, Communication and Innovation",,2025-09-19-sovereign-cloud-rfi-clarification-no-2
 MWI,Digital Malawi Acceleration Project (DMAP),DMAP,programme,,,digital public infrastructure projects,2026-09-23-mwi-data-harmonization-interoperability-agenda
 MWI,Digital Malawi Acceleration Project (DMAP),DMAP,programme,,Ministry of ICT; World Bank-funded,"national; rural towers, fibre, National Data Centre, digital ID",2026-09-04-ecofinagency-malawi-private-investment-digital-connectivity
 MWI,Digital Malawi Foundations Project,Digital Malawi Foundations Project,programme,,World Bank-financed,predecessor of DMAP,2026-09-04-ecofinagency-malawi-private-investment-digital-connectivity
@@ -1952,6 +1956,7 @@ NGA,Nigeria e-Government Masterplan,Nigeria E-Government Masterplan,government,,
 NGA,National AI Strategy,National AI Strategy,thematic,,NITDA,,2024-05-23-nga-digital-economy-policy-commission-general-assembly-session-report
 NGA,Nigerian National Broadband Plan,Nigerian National Broadband Plan,thematic,,,,2024-05-23-nga-digital-economy-policy-commission-general-assembly-session-report
 NGA,FMCIDE Strategic Blueprint 2023-2027,the ministry's blueprint,ministry-plan,,Federal Ministry of Communications and Digital Economy,,2024-05-23-nga-digital-economy-policy-commission-general-assembly-session-report
+NGA,Federal Civil Service Strategy and Implementation Plan 2021-2025,Nigeria,ministry-plan,,Office of the Head of the Civil Service of the Federation,,2025-09-11-nga-federal-government-launches-digital-literacy-action-plan-to-empower-ci
 RWA,Second National Strategy for Transformation (NST2),NST2,development-plan,,,,2026-09-28-rwa-newtimes-jica-backed-digital-economy-innovation
 RWA,National AI Policy,The National AI Policy (2023),thematic,,Ministry of ICT and Innovation,,2026-09-01-gcg-analysis-national-ai-strategies-africa
 RWA,Priority Skills for Growth programme,Priority Skills for Growth,programme,,,,2026-09-01-gcg-analysis-national-ai-strategies-africa

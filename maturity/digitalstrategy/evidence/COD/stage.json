@@ -5,7 +5,7 @@
       "sub_indicator": "national",
       "stage": "2",
       "governance": "body:mandated;body:none;finance:domestic;finance:donor",
-      "standing": "validated",
+      "standing": "adopted",
       "text": "public",
       "period": "to:2025",
       "plan": "actions",
@@ -13,10 +13,10 @@
       "last12": "advancing",
       "cap": "",
       "flags": "lapsed;advancing",
-      "stage_sources": "COD-034;COD-035;COD-036;COD-007;COD-009",
-      "gaps": "Plan National du Numerique Horizon 2025 was validated at a 2019 workshop with no cabinet act on record, so adoption is not established. Its successors, the Politique sectorielle de l'economie numerique 2026-2030 (validated 4 Aug 2026, to go to the Council of Ministers; no action plan, steering body or monitoring yet) and the PNN2 2026-2030 (drafting or announced, costed, period 2026-2030), are not adopted. Reporting is a ministry estimate of 60% completion, not measured against targets. The two successors are not reconciled. A COMESA progress report of 1 Oct 2026 lists the launch of the 2026-2030 plan at USD 1 billion and names no adopting act or body.",
-      "note": "Instrument: Plan National du Numerique Horizon 2025, whose period ended in 2025, with successor PSEN 2026-2030 validated but not adopted, so the cell is stage 2, lapsed. Stage 3 needs an adopted strategy inside its period.",
-      "as_at": "2026-10-17"
+      "stage_sources": "COD-034;COD-035;COD-036;COD-062;COD-007;COD-009",
+      "gaps": "Plan National du Numerique Horizon 2025 was validated at a 2019 workshop; no cabinet act is on record, and the ADN coordinator said in November 2023 that it was adopted in 2019 (COD-062). Its successors, the Politique sectorielle de l'economie numerique 2026-2030 (validated 4 Aug 2026, to go to the Council of Ministers; no action plan, steering body or monitoring yet) and the PNN2 2026-2030 (drafting or announced, costed, period 2026-2030), are not adopted. Reporting is a ministry estimate of 60% completion, not measured against targets. The two successors are not reconciled. A COMESA progress report of 1 Oct 2026 lists the launch of the 2026-2030 plan at USD 1 billion and names no adopting act or body.",
+      "note": "Instrument: Plan National du Numerique Horizon 2025, adopted in 2019, whose period ended in 2025, with successor PSEN 2026-2030 validated but not adopted, so the cell is stage 2, lapsed. Stage 3 needs an adopted strategy inside its period.",
+      "as_at": "2026-10-26"
     }
   ]
 }

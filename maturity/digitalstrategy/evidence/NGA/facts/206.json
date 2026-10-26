@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-11-nga-federal-government-launches-digital-literacy-action-plan-to-empower-ci",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The Federal Ministry of Information names the National Digital Economy Policy and Strategy (NDEPS 2020-2030), to which the civil service plan is aligned.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "NDEPS 2020-2030",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Federal Civil Service Strategy and Implementation Plan 2021-2025",
+   "country_label": "Nigeria",
+   "class": "ministry-plan",
+   "platform": "",
+   "owner": "Office of the Head of the Civil Service of the Federation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

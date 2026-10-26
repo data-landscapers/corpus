@@ -308,13 +308,14 @@ Côte d'Ivoire has a published digital strategy for 2021-2025, now past its peri
 
 ### DR Congo: 2 Nascent
 
-DR Congo validated a national digital plan in 2019, now past its period, and a 2026 successor whose adoption is not known.
+DR Congo adopted a national digital plan in 2019, now past its period, and a 2026 successor whose adoption is not known.
 
 *Lapsed; Advancing.*
 
 - On 5 September 2019 the plenary of the national validation workshop (3-5 September, held under the Head of State's patronage) adopted the amended Draft Zéro of the Plan National du Numérique Horizon 2025 by show of hands and unanimously, and the plan is stated to be validated by all stakeholders; the Special Adviser handed it to the Minister of PTNTIC, representing the President, who took note and promised to send it on to the Government; the document names no cabinet adoption and no enacting decree ([source, 2019-09-05](https://www.presidence.cd/uploads/files/Presentation%20PNN_03_final.pdf)).
 - The document is the full text of the plan, dated September 2019 and issued under the Presidency's copyright, with its source URL on the Presidency's own site (presidence.cd); it covers four pillars (infrastructure, content, application uses, governance and regulation) and, among other things, the digital transformation of administrations and enterprises ([source, 2019-09](https://www.presidence.cd/uploads/files/Presentation%20PNN_03_final.pdf)).
 - The plan states that it carries the national digital development strategy to the horizon 2025, with intermediate target years of 2020 to 2025 in its priority-action timetable ([source, 2019-09](https://www.presidence.cd/uploads/files/Presentation%20PNN_03_final.pdf)).
+- ADN coordinator Dominique Migisha says the Plan national du numérique, with 69 projects, was adopted in 2019 ([source, 2019](https://ouragan.cd/2023/11/digitalisation-de-la-rdc-ladn-et-lada-sengagent-a-former-100-000-agents)).
 - UNESCO states that public actors, technical and financial partners and experts met in Kinshasa on 4 August 2026 and validated the Politique sectorielle de l'économie numérique (PSEN), which with the AI strategy will set the country's orientations to 2030, at the end of a process led by the government through the digital economy ministry ([source, 2026-08-04](https://www.unesco.org/fr/articles/la-rdc-se-dote-dune-strategie-nationale-pour-une-intelligence-artificielle-ethique-et-inclusive)).
 - At a ceremony in Kinshasa on 4 August 2026 the digital economy minister presented the PSEN for government validation, and said it would go to the Council of Ministers in the coming days for adoption under national procedures ([source, 2026-08-04](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/)).
 
@@ -344,7 +345,7 @@ Equatorial Guinea's national digital economy strategy was in drafting with World
 
 ### Ethiopia: 2 Nascent
 
-Ethiopia's Council of Ministers approved Digital Ethiopia 2030 in November 2025, but its public text and period are not known.
+Ethiopia's Council of Ministers approved Digital Ethiopia 2030, running to 2030, in November 2025, but whether its text is public is not known.
 
 *Text unpublished; Advancing.*
 

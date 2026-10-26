@@ -1,0 +1,46 @@
+{
+ "slug": "2023-11-24-cod-digitalisation-de-la-rdc-l-adn-et-l-ada-s-engagent-a-former-100-000-ag",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ADN coordinator Dominique Migisha says the Plan national du numérique, with 69 projects, was adopted in 2019.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Plan national du numérique",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The ADN, a structure of the presidency, is charged by the head of state with digitalising the country under the Plan national du numérique.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Plan national du numérique",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "reporting",
+   "value": "activity",
+   "fact": "The ADN coordinator says the agency has reached more than 60% of the digital plan and aims for 100% by December 2025.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Plan national du numérique",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plan national du numérique",
+   "country_label": "Plan national du numérique",
+   "class": "national",
+   "platform": "",
+   "owner": "ADN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

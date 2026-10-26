@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-29-eth-ethiopia-anchors-digital-sovereignty-in-new-digital-ethiopia-2030-stra",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The Ministry of Innovation and Technology says the Digital Ethiopia 2030 strategy was launched in the presence of Prime Minister Abiy Ahmed, a five-year digital transformation phase; the article does not say it was adopted.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Digital Ethiopia 2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The Ministry of Innovation and Technology describes Digital Ethiopia 2030 as a five-year journey to 2030.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Digital Ethiopia 2030",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

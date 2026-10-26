@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-14-dza-elmassar-national-digital-services-portal-21-services",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Louail said the portal and related projects form part of implementing the National Digital Transformation Strategy 2025-2030, which aims to modernise public administration and expand digital services.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "National Digital Transformation Strategy 2025-2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The National Digital Transformation Strategy is stated to cover 2025-2030.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "National Digital Transformation Strategy 2025-2030",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

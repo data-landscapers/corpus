@@ -4,7 +4,7 @@
     {
       "sub_indicator": "national",
       "stage": "2",
-      "governance": "finance:donor",
+      "governance": "body:mandated;finance:donor",
       "standing": "adopted",
       "text": "public",
       "period": "to:2025",
@@ -14,8 +14,9 @@
       "cap": "",
       "flags": "lapsed;advancing",
       "stage_sources": "MRT-012;MRT-017;MRT-018;MRT-019;MRT-002;MRT-006;MRT-029",
-      "gaps": "The agenda's mandated body (Haut Conseil du Numerique, MRT-020, MRT-023) is dated 2022 and 2020, outside the 36-month governance window, and its funding is donor-backed with no domestic budget line. No report against the agenda's own targets is held, only claims of activity. The successor, Agenda National de la Transformation Numerique 2030, was opened for preparation on 4 Dec 2025 (a consultant was contracted in July 2025) and has no adoption or text.",
-      "note": "Instrument: Agenda national de transformation numerique 2022-2025, adopted in 2022 with a public, costed text, but its period ended in 2025 and the successor is in preparation, so stage 2 and lapsed. Stage 3 needs a period not ended."
+      "gaps": "The ministry of digital transformation, created in 2021, is described in August 2025 as the institutional lever for the agenda (MRT-050), and the state digital agency presented its role in implementing the state's digital strategy in October 2026 (MRT-049); funding is donor-backed with no domestic budget line. No report against the agenda's own targets is held, only claims of activity. The agenda was under evaluation and update in August 2025 (MRT-051); its successor, Agenda National de la Transformation Numerique 2030, was opened for preparation on 4 Dec 2025 (a consultant was contracted in July 2025) and has no adoption or text.",
+      "note": "Instrument: Agenda national de transformation numerique 2022-2025, adopted in 2022 with a public, costed text, but its period ended in 2025 and the successor is in preparation, so stage 2 and lapsed. Stage 3 needs a period not ended.",
+      "as_at": "2026-10-26"
     }
   ]
 }

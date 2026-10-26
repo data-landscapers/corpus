@@ -2,7 +2,7 @@ iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MUS,national,governance,qualifier,body:mandated;finance:not-stated,2025,MUS-002;MUS-011,MUS-025=body:mandated;MUS-005=body:mandated;MUS-021=body:mandated;MUS-010=body:mandated,
 MUS,national,standing,coverage,adopted,2025,MUS-012;MUS-015;MUS-019;MUS-023,MUS-001=announced;MUS-003=announced;MUS-004=announced;MUS-014=announced;MUS-006=announced,
 MUS,national,text,coverage,public,2025-05-27,MUS-007;MUS-016,MUS-013=unpublished,
-MUS,national,period,coverage,to:2029,2026-09-01,MUS-008;MUS-018;MUS-020,MUS-024=to:2030;MUS-017=to:2030,
+MUS,national,period,coverage,to:2029,2026-09-01,MUS-008;MUS-018;MUS-020;MUS-054,MUS-024=to:2030;MUS-017=to:2030,
 MUS,national,plan,coverage,actions,2025-05-27,MUS-009,,
 MUS,national,reporting,coverage,activity,2025-08-26,MUS-022,,
 MUS,national,last12,qualifier,,,,,nothing held

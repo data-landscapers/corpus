@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The ministry of Digital Transformation and Administration Modernisation, created in 2021, is described as the institutional lever to carry out the digital transformation.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Ministere de la Transformation numerique et de la Modernisation de l'administration",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2025",
+   "fact": "The ministry relies on the National Digital Transformation Agenda 2022-2025, which is under evaluation and update.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Agenda national de transformation numerique 2022-2025",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

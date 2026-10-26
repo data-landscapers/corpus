@@ -16,3 +16,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-22,BDI,gov.policy--digital-transformation-strategy,fact,1,2,BDI-003,"Council of Ministers adopted the National Digital Policy on 14 Oct 2026; text and period not held, so 1 to 2."
 2026-10-22,SYC,gov.policy--digital-transformation-strategy,fact,unplaced,2,SYC-003;SYC-004,"National Digital & AI Strategy 2026-2031 validated at a national workshop by July 2026, not yet adopted: unplaced to 2."
 2026-10-25,ZWE,gov.policy--digital-transformation-strategy,fact,2,3,ZWE-003;ZWE-004;ZWE-002,"Smart Zimbabwe 2030 Master Plan launched 7 Mar 2024, text published, runs to 2030"
+2026-10-26,COD,gov.policy--digital-transformation-strategy,fact,2,2,COD-034;COD-035;COD-036;COD-062;COD-007;COD-009,"ADN coordinator said in Nov 2023 the Plan national du numerique was adopted in 2019; standing now adopted, period still ended, stays 2"
+2026-10-26,ETH,gov.policy--digital-transformation-strategy,fact,2,2,ETH-013;ETH-010,"Ministry gives Digital Ethiopia 2030 a period to 2030; no public text still, stays 2"
+2026-10-26,MRT,gov.policy--digital-transformation-strategy,fact,2,2,MRT-012;MRT-017;MRT-018;MRT-019;MRT-002;MRT-006;MRT-029,"Ministry of digital transformation named as the agenda's lever in Aug 2025, agenda under evaluation and update; lapsed, stays 2"

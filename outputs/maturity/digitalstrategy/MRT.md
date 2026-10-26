@@ -2,7 +2,7 @@
 
 ## National strategy
 
-**Governance and finance.** The [agenda states](<https://mtnima.gov.mr/wp-content/uploads/2024/03/Agenda-Numerique-2022-25-MTNIMA.pdf>) that the State has set up a Haut Conseil du Numérique to follow its execution. The digital ministry says the World Bank-supported [WARDIP](<https://mtnima.gov.mr/fr/les-entites-sous-tutelle/>) is to attract private investment and co-financing for the agenda's activities.
+**Governance and finance.** The [agenda states](<https://mtnima.gov.mr/wp-content/uploads/2024/03/Agenda-Numerique-2022-25-MTNIMA.pdf>) that the State has set up a Haut Conseil du Numérique to follow its execution. In August 2025 the [ministry of digital transformation, created in 2021, was described as the institutional lever for the digital transformation](<https://ami.mr/fr/archives/276833>), working from the agenda, then under evaluation and update. The digital ministry says the World Bank-supported [WARDIP](<https://mtnima.gov.mr/fr/les-entites-sous-tutelle/>) is to attract private investment and co-financing for the agenda's activities.
 
 **Standing.** The government [drew up and approved](<https://mtnima.gov.mr/wp-content/uploads/2024/05/La-Politique-Nationale-de-Participation-Electronique.pdf>) the Agenda national de transformation numérique 2022-2025 in 2022. On 4 December 2025 the digital ministry [announced the start of preparation](<https://ami.mr/fr/archives/284785>) of an Agenda National de la Transformation Numérique 2030.
 

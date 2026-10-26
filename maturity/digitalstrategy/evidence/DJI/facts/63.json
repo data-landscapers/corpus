@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-30-dji-digital-leaders-spotlight-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "GovStack says Djibouti launched its Digital Economy and Innovation Roadmap in 2022, which seeks among other things to digitalise administration.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Digital Economy and Innovation Roadmap",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Government Roadmap",
+   "country_label": "Djibouti",
+   "class": "government",
+   "platform": "",
+   "owner": "IDGC / EstDev",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
