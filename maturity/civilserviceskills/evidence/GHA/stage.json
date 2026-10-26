@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "csskills",
-      "stage": "3",
+      "stage": "4",
       "training": "inservice",
-      "reach": "",
+      "reach": "wide",
       "share": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-006;GHA-005",
-      "gaps": "No source held since October 2023 says digital-skills training reaches civil servants across government.",
-      "note": "Stage 4c 2026-10-26: the DigSMART Scale-Up trained a stated 520 to 830 civil servants in 2024 after a 2023 pilot, a programme in service with a stated number, read as Tanzania's is. Nothing says it reaches across government.",
+      "stage_sources": "GHA-007;GHA-006",
+      "gaps": "No source held since October 2023 gives the share of the civil service trained in digital skills.",
+      "note": "Bill, 2026-10-26, message 33: the communication minister's July 2025 commitment to train 200,000 civil servants under the One Million Coders Programme reaches across government; DigSMART trained a stated 520 to 830 in 2024.",
       "as_at": "2026-10-26"
     }
   ]

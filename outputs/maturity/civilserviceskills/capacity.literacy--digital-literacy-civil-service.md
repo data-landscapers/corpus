@@ -21,9 +21,9 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 5 |
-| 3 Established | 9 |
-| 2 Nascent | 38 |
+| 4 Operating | 7 |
+| 3 Established | 8 |
+| 2 Nascent | 37 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -49,6 +49,13 @@ Digital-skills training reached civil servants across government in 2025; the sh
 
 - The Fundamentals of Digital Skills Program, implemented by ICDL Arabia, targets all employees of the state's administrative apparatus ([source, 2025](https://mcit.gov.eg/en/Human_Capacity/MCIT/States_Administrative_Apparatus_Employees)).
 
+### Ghana: 4 Operating
+
+The government committed in 2025 to train 200,000 civil servants in digital skills; the share trained is not published.
+
+- Communication Minister Samuel Nartey George announced an initiative to train 200,000 civil servants in AI, digital governance and coding under the One Million Coders Programme ([source, 2025-07](https://ghanaiantimes.com.gh/embrace-digital-reforms-for-rapid-technological-advancement-communication-minister/)).
+- Graphic Online reports that 520 public and civil servants (262 officers, 207 managers, 51 leaders) from 53 ministries, departments and agencies graduated from the DigSMART Scale-Up programme, a four-month course from February to May 2024 run by the Ministry of Communications and Digitalisation ([source, 2024-07](https://www.graphic.com.gh/news/general-news/520-public-sector-staff-trained-in-digsmart.html)).
+
 ### Rwanda: 4 Operating
 
 AI training became mandatory for all public servants in 2026 and nearly 200,000 completed it; the share of the civil service is not known.
@@ -70,18 +77,17 @@ A digital-skills platform for all 680,000 civil servants opened in 2023; the num
 - The ministry says the Digital Learning Academy platform is for all 680,000 state civil servants ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
 - The Ministry of Communication Technologies launched the Digital Learning Academy platform on 1 December 2023 to build digital skills among the state's 680,000 civil servants, managed by Smart Tunisian Technoparks (S2T) with GIZ present ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
 
+### Zimbabwe: 4 Operating
+
+The government said in 2025 that digital-skills training will be mandatory for all civil servants, 10,000 a year; the share trained is not published.
+
+- Zimbabwe's government is set to make digital skills training in AI, cybersecurity and data management mandatory for all civil servants, with at least 10 000 public employees trained each year, per Finance Minister Mthuli Ncube ([source, 2025-11-07](http://www.businessdaily.co.zw/index-id-National-zk-52741.html)).
+
 ### Cote d'Ivoire: 3 Established
 
 A digital-skills programme trained civil servants in 2026; reach across government is not on record.
 
 - Fraternite Matin reports that with this 13th edition SNDI has brought the number of civil servants trained since the programme launched to more than 37,500 ([source, 2026-07-29](https://www.fratmat.info/article/2643657/regions/katiolatic-192-agents-administratifs-formes-dans-le-hambol)).
-
-### Ghana: 3 Established
-
-A four-month digital-skills programme trained over 500 civil servants from over 40 public bodies in 2024; reach across government is not known.
-
-- Graphic Online reports that 520 public and civil servants (262 officers, 207 managers, 51 leaders) from 53 ministries, departments and agencies graduated from the DigSMART Scale-Up programme, a four-month course from February to May 2024 run by the Ministry of Communications and Digitalisation ([source, 2024-07](https://www.graphic.com.gh/news/general-news/520-public-sector-staff-trained-in-digsmart.html)).
-- The Ministry of Communications and Digitalisation says the 2024 DigSMART Scale-Up, run with the Office of the Head of Civil Service and the Tony Blair Institute, trained 830 participants from 42 ministries, departments and agencies in three centres (Accra, Sunyani, Bolgatanga), after a 2023 pilot of 170 with a 70 percent graduation rate ([source, 2024-07-08](https://moc.gov.gh/2024/07/08/mocd-holds-2024-digsmart-graduation-ceremony/)).
 
 ### Kenya: 3 Established
 
@@ -367,12 +373,6 @@ Digital-skills training for civil servants was under way in 2025; a standing pro
 Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
 
 - SMART Zambia's e-Government Division trained 146 public officers in three Southern Province districts (40 Gwembe, 46 Mazabuka, 60 Siavonga) in digital literacy, cybersecurity, Outlook and data protection ([source, 2026-07](https://techafricanews.com/2026/07/20/smart-zambia-trains-146-district-officers-in-southern-province-to-strengthen-digital-skills/)).
-
-### Zimbabwe: 2 Nascent
-
-Digital-skills training for civil servants was under way in 2025; a standing programme is not on record.
-
-- Zimbabwe's government is set to make digital skills training in AI, cybersecurity and data management mandatory for all civil servants, with at least 10 000 public employees trained each year, per Finance Minister Mthuli Ncube ([source, 2025-11-07](http://www.businessdaily.co.zw/index-id-National-zk-52741.html)).
 
 ### Eritrea: Unplaced
 

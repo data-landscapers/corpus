@@ -1,5 +1,6 @@
 ## 26 October 2026
 
+- Civil service digital skills now counts a government commitment to train civil servants across government, as well as training already given. Ghana, committed in 2025 to train 200,000, and Zimbabwe, making training mandatory for all civil servants, rise to 4.
 - The top stage of local capacity to run government systems now needs three or more systems run, maintained or built by government staff with no contractor doing the work; an IT cadre no longer counts. Algeria, Burkina Faso, Cape Verde, Gabon, Senegal, Somalia, Tanzania, Uganda and Zambia rise to 5, and Gambia, placed on its cadre alone, now has no evidence.
 - Guinea's 2026 budget is now in the tables, read line by line from the finance bill as tabled in March 2026: 113 lines, GNF 357.3bn whole and 105.8bn partly digital, among them the tax information system (30bn), school connectivity (35bn) and the statistics institute (39.9bn). The figures are the bill's, since the enacted law is held without its line detail.
 - Cameroon's 2025 postal-sector fund now counts only its regulation platform, XAF 36m, in place of the whole fund's 900m at half. The fund's activity table shows no other digital spending.

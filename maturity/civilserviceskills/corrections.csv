@@ -1,6 +1,6 @@
 iso3,n,aspect,value,action,why
 TGO,002,reach,wide,removed,First pass: 27 data specialists placed in ministries is not training that reaches civil servants across government
-ZWE,002,reach,wide,removed,"First pass: the certification is planned to be mandatory, not yet in service"
+ZWE,002,reach,wide,removed,"First pass: the same Pre-Budget Seminar statement as ZWE-001, which carries it"
 TZA,002,training,inservice,revalued: inservice,"Rebuild 2026-10-25: the Digital Tanzania Project has trained a stated 500 government staff, a programme in service as Mozambique's and Uganda's are"
 SOM,003,training,underway,classed other,Rebuild 2026-10-25: a certification course for government ICT staff only is other (study file §1)
 CPV,003,training,underway,removed,Stage 4c 2026-10-26: a UNDP and Microsoft proposal one-pager is not a government body launching or preparing training
@@ -13,3 +13,5 @@ RWA,009,training,underway,removed,Stage 4c 2026-10-26: a UNDP and Microsoft prop
 SLE,012,reach,wide,removed,"Stage 4c 2026-10-26: the programme will reach all 29 MDAs, a plan, not training that reaches them"
 TZA,004,training,underway,removed,Stage 4c 2026-10-26: a UNDP and Microsoft proposal one-pager is not a government body launching or preparing training
 UGA,004,training,underway,removed,Stage 4c 2026-10-26: a UNDP and Microsoft proposal one-pager is not a government body launching or preparing training
+GHA,007,training,underway,revalued: reach:wide,"Bill, 2026-10-26, message 33: a 2025 government commitment to train 200,000 civil servants reaches across government"
+ZWE,001,training,underway,revalued: reach:wide,"Bill, 2026-10-26, message 33, applied alike: a government commitment to make the training mandatory for all civil servants reaches across government"

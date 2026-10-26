@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Across government | Yes to 3 |
 | 5 Share published | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `training` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `reach` (`wide`) for 3 and `share` (`published`) for 4.
+A later yes answers the earlier ones (method §3.3). **Two rulings** *(Bill, 2026-10-26)*: a programme open to all civil servants reaches across government with no number trained (message 32: Tunisia and Cameroon stay at 4), and so does a government commitment to train at that scale (message 33: Ghana's 200,000, and Zimbabwe's mandatory training for all, to 4). `study.json` holds this as three aspects: `training` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `reach` (`wide`) for 3 and `share` (`published`) for 4.
 
 ## 4. The norm
 
