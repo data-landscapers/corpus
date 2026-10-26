@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: LBR
-ledger_rows: 38
+ledger_rows: 39
 not_held: 6
-record: 1b21ecaee32d
+record: 4c9de11a2c7f
 ---
 
 # News, Sep – Oct 2026
@@ -837,6 +837,20 @@ The Liberia Telecommunications Authority opened its first service centre outside
 **[IIC, CENTAL Step Up Transparency, Anti-Corruption Drive](https://gnnliberia.com/iic-cental-step-up-transparency-anti-corruption-drive/)** — Global News Network Liberia, 6 September 2026
 
 Liberia's Independent Information Commission and the anti-corruption group CENTAL ran a Freedom of Information Act compliance campaign from 11 August to 2 September 2026 at the national identification registry, the statistics institute LISGIS, LACE and the water corporation. Agencies were told to appoint information officers, set up request review bodies and publish budgets and contracts proactively. Three more agencies were scheduled for 8-10 September.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Civil Service Agency confidentiality and non-disclosure agreement for civil servants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PUL Condemns Government’s Assault on Freedom of Information and Transparency; Calls for Immediate Withdrawal of Confidentiality Policy Undermining the FOI Act - Liberia Public Radio](https://liberiapublicradio.com/2026/10/24/pul-condemns-governments-assault-on-freedom-of-information-and-transparency-calls-for-immediate-withdrawal-of-confidentiality-policy-undermining-the-foi-act/)** — Liberia Public Radio, 24 October 2026
+
+Civil Service Agency gag agreement opposed by the information commission; most agencies lack information officers.
 
 </div>
 
