@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 4 Operating 1 · 3 Established 13 · 2 Nascent 10 · unplaced 17 · no evidence 3
 - **Systems (51)**: 3 Established 20 · 2 Nascent 22 · unplaced 8 · no evidence 1
-- **Measures (22)**: 4 meets 5 · 3 approaching 2 · 2 below 5 · 1 far below 2 · no evidence 8
+- **Measures (20)**: 4 meets 5 · 3 approaching 2 · 2 below 5 · 1 far below 2 · no evidence 6
 
 ## This month
 
@@ -51,9 +51,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | unplaced | unplaced |  | only external partner commitments mapped; no domestic budget line read or on record |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 4 meets | 4 meets | **0.1514 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 1 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 

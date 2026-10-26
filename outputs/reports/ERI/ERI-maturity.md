@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 1 · 2 Nascent 8 · 1 Absent 16 · unplaced 18 · no evidence 1
 - **Systems (51)**: 3 Established 7 · 2 Nascent 11 · 1 Absent 7 · unplaced 26
-- **Measures (22)**: 3 approaching 1 · 2 below 1 · 1 far below 4 · no evidence 16
+- **Measures (20)**: 3 approaching 1 · 2 below 1 · 1 far below 4 · no evidence 14
 
 ## This month
 
@@ -49,9 +49,7 @@ No stage moved in August.
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | unplaced | unplaced |  | no budget document read; external assessment covers investment institutions, not a digital budget line |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -94,7 +92,7 @@ No stage moved in August.
 | [G2P functionality](../../maturity/indicators/dpi.pay--g2p-functionality.md)<br>*system* | unplaced | unplaced |  | cash dominates per 2026 trade account; government payment channels not described |
 | [Revenue collection](../../maturity/indicators/dpi.pay--revenue-collection.md)<br>*system* | unplaced | unplaced |  | tax system installed but not live; electronic payment or filing not in its stated scope |
 | [B2B and B2G functionality](../../maturity/indicators/dpi.pay--b2b-and-b2g-functionality.md)<br>*system* | 1 Absent | 1 Absent | **Isolation of the financial system from cross-border rails** (Implemented) — [Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG), 1 Jul 2025](https://www.esaamlg.org/reports/MER%20of%20Eritrea-July%202025.pdf) | 2025 mutual evaluation: no internet banking or cards; procurement channel not on record |
-| [P2P, P2G and P2B functionality](../../maturity/indicators/dpi.pay--p2p-p2g-and-p2b-functionality.md)<br>*system* | 2 Nascent | 2 Nascent | **Mobile money / digital payments service** (Not held) — [The Fintech Times, 30 Mar 2026](https://thefintechtimes.com/eritreas-fintech-ecosystem-in-2026-and-financial-inclusion/) | operator-linked wallets described as emerging and limited, trade account only; no licensed mobile-money operator |
+| [P2P, P2G and P2B functionality](../../maturity/indicators/dpi.pay--p2p-p2g-and-p2b-functionality.md)<br>*system* | 2 Nascent | 2 Nascent | **Mobile money / digital payments service** (Implemented) — [The Fintech Times, 30 Mar 2026](https://thefintechtimes.com/eritreas-fintech-ecosystem-in-2026-and-financial-inclusion/) | operator-linked wallets described as emerging and limited, trade account only; no licensed mobile-money operator |
 | [Population uptake](../../maturity/indicators/dpi.pay--population-uptake.md)<br>*measure* | — | — | *No evidence* | |
 | [Cross-border functionality](../../maturity/indicators/dpi.pay--cross-border-functionality.md)<br>*system* | 1 Absent | 1 Absent | **Isolation of the financial system from cross-border rails** (Implemented) — [Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG), 1 Jul 2025](https://www.esaamlg.org/reports/MER%20of%20Eritrea-July%202025.pdf) | 2025 mutual evaluation: no cards or internet banking, system not integrated globally |
 | [Consumer protection](../../maturity/indicators/dpi.pay--consumer-protection.md)<br>*instrument* | unplaced | unplaced |  | No digital financial services exist to regulate; the operator's complaint form covers internet service, not finance |
@@ -113,7 +111,7 @@ No stage moved in August.
 | [Tax](../../maturity/indicators/dpi.mis--tax.md)<br>*system* | 2 Nascent | 2 Nascent | **Eritrea Integrated Tax Administration System** (In development) — [African Development Bank Group, 7 Sep 2023](https://www.afdb.org/ar/documents/spn-eritrea-design-supply-installation-configuration-and-training-eritrea-integrated-tax-administration-system-eritas-software-hardware-and-related-it-equipment-esta) | integrated tax system procured 2023, not live; no e-filing or e-payment on record |
 | [Customs](../../maturity/indicators/dpi.mis--customs.md)<br>*system* | 3 Established | 3 Established | **ASYCUDA World customs platform** (Implemented) — [Shabait / Eritrea Profile (Ministry of Information), 8 Jan 2026](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system) | ASYCUDA World in service from January 2026; posts covered and single window not on record |
 | [Land](../../maturity/indicators/dpi.mis--land.md)<br>*system* | unplaced | unplaced |  | cadastral office and GIS training only; no land information system on record |
-| [e-government services](../../maturity/indicators/dpi.govtech--e-government-services.md)<br>*system* | 1 Absent | 1 Absent | **Online government services** (Not held) — [United Nations Development Programme (UNDP) Eritrea, 8 Jan 2026](https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade) | 2022 govtech dataset records no online public service portal; no citizen-facing service since |
+| [e-government services](../../maturity/indicators/dpi.govtech--e-government-services.md)<br>*system* | 1 Absent | 1 Absent | **Online government services** (Implemented) — [United Nations Development Programme (UNDP) Eritrea, 8 Jan 2026](https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade) | 2022 govtech dataset records no online public service portal; no citizen-facing service since |
 
 ## Digitalisation
 

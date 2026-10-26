@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 4 Operating 1 · 3 Established 23 · 2 Nascent 8 · 1 Absent 1 · unplaced 9 · no evidence 2
 - **Systems (51)**: 3 Established 28 · 2 Nascent 17 · unplaced 4 · no evidence 2
-- **Measures (22)**: 4 meets 3 · 3 approaching 7 · 2 below 3 · 1 far below 1 · no evidence 8
+- **Measures (20)**: 4 meets 3 · 3 approaching 7 · 2 below 3 · 1 far below 1 · no evidence 6
 
 ## This month
 
@@ -49,9 +49,7 @@ No stage moved in August.
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 4 Operating | 4 Operating | **Universal service levy programme** (Implemented) — [Ministère du Budget et du Portefeuille de l'Etat, 19 Dec 2025](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf)<br>**FY2024 digital budget execution** — [Ministère du Budget et du Portefeuille de l'Etat, 18 Dec 2023](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf) | Universal service levy appropriated with FY2024 outturn; no sovereignty fund or published fund accounts |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0.001445 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 3 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -136,7 +134,7 @@ No stage moved in August.
 | [Control of AI abuse](../../maturity/indicators/tech.ai--control-of-ai-abuse.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Francophone West African AI governance guidelines** (Implemented) — [We Are Tech Africa, 9 Jul 2026](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Non-binding regional guidelines only; no rule or designated authority |
 | [National capacity in DT-related production](../../maturity/indicators/tech.industry--national-capacity-in-dt-related-production.md)<br>*measure* | 3 approaching | 3 approaching | **0.1377 % of GDP** (2024) — [World Bank WDI, ICT service exports over GDP](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD), official statistics, released 13 Jul 2026 | official statistics; no primary in the base |
 | [Technology hubs](../../maturity/indicators/tech.innovate--technology-hubs.md)<br>*system* | — | 2 Nascent | **UniPod innovation and technology hub** (Implemented) — [AIP - Agence Ivoirienne de Presse, 4 Aug 2026](https://www.aip.ci/aip-le-pnud-dote-la-cote-divoire-de-son-premier-pole-dinnovation-et-de-technologie-unipod/) | UNDP fab-lab hub handed over; no incubation programme or cohort on record |
-| [Tech startup ecosystem](../../maturity/indicators/tech.innovate--tech-startup-ecosystem.md)<br>*instrument* | 3 Established | 3 Established | **Startup Act and digital startup label** (Implemented) — [TechCabal, 1 Jul 2025](https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/) | Startup Act adopted 2023; no implementing decree or labelled startups on record |
+| [Tech startup ecosystem](../../maturity/indicators/tech.innovate--tech-startup-ecosystem.md)<br>*instrument* | 3 Established | 3 Established | **Startup Act and digital startup label** (Implemented) — [Ministère des Finances et du Budget, République de Côte d'Ivoire, 19 Dec 2025](https://www.dgbf.ci/wp-content/uploads/2025/12/Annexe-1-Annexe-Fiscale-2026.pdf) | Startup Act adopted 2023; no implementing decree or labelled startups on record |
 
 ## Capacity
 

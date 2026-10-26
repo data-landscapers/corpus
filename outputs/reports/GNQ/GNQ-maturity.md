@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 6 · 2 Nascent 11 · 1 Absent 4 · unplaced 21 · no evidence 2
 - **Systems (51)**: 3 Established 6 · 2 Nascent 12 · 1 Absent 3 · unplaced 30
-- **Measures (22)**: 4 meets 5 · 3 approaching 1 · 2 below 1 · 1 far below 3 · no evidence 12
+- **Measures (20)**: 4 meets 5 · 3 approaching 1 · 2 below 1 · 1 far below 3 · no evidence 10
 
 ## This month
 
@@ -49,9 +49,7 @@ No stage moved in August.
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Domestic budget appropriation for digital transformation** — [Ministerio de Hacienda, Planificación y Desarrollo Económico, Guinea Ecuatorial, 9 Dec 2025](https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf) | Telecoms ministry appropriation in the 2026 budget law; no digital programme line or fund |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 

@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 10 · 2 Nascent 16 · unplaced 17 · no evidence 1
 - **Systems (51)**: 3 Established 16 · 2 Nascent 25 · unplaced 10
-- **Measures (22)**: 4 meets 2 · 3 approaching 2 · 2 below 2 · 1 far below 3 · no evidence 13
+- **Measures (20)**: 4 meets 2 · 3 approaching 2 · 2 below 2 · 1 far below 3 · no evidence 11
 
 ## This month
 
@@ -48,10 +48,8 @@
 
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
-| [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Domestic budget appropriations for the digital sector** (Implemented) — [Federal Government of Somalia, Budget Directorate, Ministry of Finance, 1 Oct 2025](https://www.mof.gov.so/sites/default/files/Publications/Budget%20policy%20framework.pdf) | digital items financed from the general fund with no dedicated line, fund or programme |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
+| [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Domestic budget appropriations for the digital sector** (Implemented) — [Ministry of Finance, Federal Government of Somalia, 29 Apr 2026](https://mof.gov.so/sites/default/files/Publications/Sharciga%20Miisaaniyadda%20Sanadka%202026_0.pdf) | digital items financed from the general fund with no dedicated line, fund or programme |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 

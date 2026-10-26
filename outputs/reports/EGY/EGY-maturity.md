@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 4 Operating 1 · 3 Established 19 · 2 Nascent 11 · unplaced 11 · no evidence 2
 - **Systems (51)**: 4 Operating 1 · 3 Established 14 · 2 Nascent 20 · unplaced 12 · no evidence 4
-- **Measures (22)**: 5 exceeds 2 · 4 meets 5 · 3 approaching 6 · 2 below 2 · no evidence 7
+- **Measures (20)**: 5 exceeds 2 · 4 meets 5 · 3 approaching 6 · 2 below 2 · no evidence 5
 
 ## This month
 
@@ -49,9 +49,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | — | 2 Nascent | **ICT sector public investment** — [Ministry of International Cooperation, Egypt, 7 Aug 2026](https://moic.gov.eg/news/2134) | ICT public-investment allocation in the annual plan; no recurring line or dedicated fund or outturn on record |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 3 approaching | 3 approaching | **0.05229 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 8 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -165,7 +163,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [National strategy for development of statistics](../../maturity/indicators/data.statistics--national-strategy-for-development-of-statistics.md)<br>*instrument* | 2 Nascent | 2 Nascent | **National statistics strategy and agency outputs** (In development) — [Ahram Online, 30 Nov 2025](https://english.ahram.org.eg/NewsContent/1/2/557770/Egypt/Society/Egypt-sees--drop-in-marriages,--rise-in-divorces-i.aspx) | Strategy in preparation; not published |
-| [Censuses and surveys](../../maturity/indicators/data.statistics--censuses-and-surveys.md)<br>*instrument* | 2 Nascent | 2 Nascent | **2027 Population, Housing and Establishments Census** (In development) — [Youm7, 20 Jul 2026](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323) | 2027 census planned; decree pending and no current-round enumeration in the rows |
+| [Censuses and surveys](../../maturity/indicators/data.statistics--censuses-and-surveys.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Population, Housing and Establishments Census (moved to 2028)** (In development) — [Masrawy, 6 Aug 2026](https://www.masrawy.com/news/news_egypt/details/2026/8/6/3028931) | 2027 census planned; decree pending and no current-round enumeration in the rows |
 | [Statistics from administrative data](../../maturity/indicators/data.statistics--statistics-from-administrative-data.md)<br>*system* | 2 Nascent | 2 Nascent | **National labour-market data platform** (Planned) — [Masrawy (Egypt), 28 Jul 2026](https://www.masrawy.com/news/news_egypt/details/2026/7/28/3024561/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82) | Admin-data labour platform proposed only |
 | [Use of open data](../../maturity/indicators/data.open--use-of-open-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Sustainable Development Goals Data Platform for Governorates** (Implemented) — [Ministry of Planning, Economic Development, and International Cooperation, 30 Jul 2025](https://moic.gov.eg/news/2392) | SDG platform publishes data with no licence or download |
 | [Agricultural use of satellite data](../../maturity/indicators/data.satellite--agricultural-use-of-satellite-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Satellite crop mapping** (Implemented) — [European Space Agency (ESA), 26 Jun 2026](https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland) | One-off crop mapping produced outside government |

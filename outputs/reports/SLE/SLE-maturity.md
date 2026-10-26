@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 14 · 2 Nascent 15 · unplaced 14 · no evidence 1
 - **Systems (51)**: 3 Established 14 · 2 Nascent 26 · 1 Absent 1 · unplaced 10
-- **Measures (22)**: 4 meets 1 · 3 approaching 3 · 2 below 1 · 1 far below 7 · no evidence 10
+- **Measures (20)**: 4 meets 1 · 3 approaching 3 · 2 below 1 · 1 far below 7 · no evidence 8
 
 ## This month
 
@@ -48,10 +48,8 @@
 
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
-| [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Domestic budget appropriations for the digital sector** (Planned) — [Ministry of Finance, Sierra Leone, 1 Dec 2025](https://mof.gov.sl/wp-content/uploads/2025/12/FY2026-Budget-Estimates-Summary.pdf) | MoCTI head at proposed stage only; no appropriation act or dedicated fund held |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
+| [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Domestic budget appropriations for the digital sector** (Enacted) — [Ministry of Finance (Sierra Leone), 1 Jul 2026](https://mof.gov.sl/wp-content/uploads/2026/07/Budget-Speech-Final-2026.pdf) | MoCTI head at proposed stage only; no appropriation act or dedicated fund held |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 4 meets | 4 meets | **0.2233 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 2 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -109,8 +107,8 @@
 | [Health](../../maturity/indicators/dpi.mis--health.md)<br>*system* | 2 Nascent | 2 Nascent | **Digital health information system and electronic medical records** (In development) — [AYV Media Empire, 28 Jul 2026](https://ayvnews.com/health-minister-unveils-starlink-internet-at-jmb-pediatric-excellence-hospital/) | Health records programme beginning at one facility; surveillance runs nationally but no national HMIS on record |
 | [Education](../../maturity/indicators/dpi.mis--education.md)<br>*system* | 3 Established | 3 Established | **Education Management Information System** (Implemented) — [Ministry of Basic and Senior Secondary Education (MBSSE), Sierra Leone, 1 Jan 2026](https://mbsse.gov.sl/emis/) | EMIS runs the annual school census; no individual learner records |
 | [Social protection](../../maturity/indicators/dpi.mis--social-protection.md)<br>*system* | unplaced | unplaced |  | Social registry and labour portal held; no social protection programme MIS on record |
-| [Justice](../../maturity/indicators/dpi.mis--justice.md)<br>*system* | 1 Absent | 1 Absent | **Court case management system** (Not held) — [Justice Sector Coordination Office, Office of the Attorney-General and Minister of Justice, Government of Sierra Leone, 1 Jan 2024](https://sierralii.gov.sl/articles/2024-09-12/leroy/sierra-leones-justice-sector-reform-strategy-2024-2030/attachment/45/REVISED%20Strategic%20Plan%20Final%20Minister%20%281%29.pdf) | Justice sector strategy 2024 records no case management system; blueprint only since |
-| [Tax](../../maturity/indicators/dpi.mis--tax.md)<br>*system* | 3 Established | 3 Established | **Integrated Tax Administration System** (Implemented) — [Sierra Loaded, 1 Dec 2025](https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/) | E-filing and mobile payment in service; uptake limited by power cuts |
+| [Justice](../../maturity/indicators/dpi.mis--justice.md)<br>*system* | 1 Absent | 1 Absent | **Court case management system** (Implemented) — [Sierraeye Magazine, 6 Apr 2025](https://www.sierraeyemagazine.com/chief-justice-komba-kamanda-unveils-ambitious-vision-to-transform-judiciary/) | Justice sector strategy 2024 records no case management system; blueprint only since |
+| [Tax](../../maturity/indicators/dpi.mis--tax.md)<br>*system* | 3 Established | 3 Established | **Integrated Tax Administration System** (Implemented) — [Audit Service Sierra Leone, 1 Dec 2025](https://website.auditservice.gov.sl/wp-content/uploads/2025/12/Auditor-Generals-Annual-Report-2024.pdf) | E-filing and mobile payment in service; uptake limited by power cuts |
 | [Customs](../../maturity/indicators/dpi.mis--customs.md)<br>*system* | 3 Established | 3 Established | **ASYCUDA customs system** (Implemented) — [The Sierra Leone Telegraph, 17 Aug 2026](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/) | ASYCUDA in service; anti-corruption commission found integrity failure; no single window on record |
 | [Land](../../maturity/indicators/dpi.mis--land.md)<br>*system* | 2 Nascent | 2 Nascent | **Customary land registration under the Land Administration Project** (In development) — [Sierra Leone Land Administration Project (SLLAP), Ministry of Lands, Housing and Country Planning, 1 May 2026](https://sllap.molhcp.gov.sl/sierra-leone-land-administration-project-national-land-commission-and-fao-conduct-pre-sensitization-orientation-for-land-committees-in-maforki-and-bekeh-loko-chiefdoms/) | Registration piloted in two chiefdoms; no land information system in service |
 | [e-government services](../../maturity/indicators/dpi.govtech--e-government-services.md)<br>*system* | 2 Nascent | 2 Nascent | **Electronic government procurement platform** (In development) — [TechAfrica News, 12 Aug 2026](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/) | Few transactional services launched; tens of services not on record |

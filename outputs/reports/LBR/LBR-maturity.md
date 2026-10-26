@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 4 Operating 1 · 3 Established 16 · 2 Nascent 16 · 1 Absent 2 · unplaced 8 · no evidence 1
 - **Systems (51)**: 3 Established 17 · 2 Nascent 24 · unplaced 10
-- **Measures (22)**: 3 approaching 2 · 2 below 5 · 1 far below 3 · no evidence 12
+- **Measures (20)**: 3 approaching 2 · 2 below 5 · 1 far below 3 · no evidence 10
 
 ## This month
 
@@ -39,7 +39,7 @@
 | [Shared regional infrastructure](../../maturity/indicators/gov.regional--shared-regional-infrastructure.md)<br>*system* | 3 Established | 3 Established | **Liberia-Gambia-Sierra Leone free roaming** (Implemented) — [Telecom Review Africa, 5 Feb 2025](https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/) | three-country free roaming in effect; no traffic reported; CLSG fibre not in service |
 | [Cross-border data transfers](../../maturity/indicators/gov.regional--cross-border-data-transfers.md)<br>*instrument* | unplaced | unplaced |  | rows hold only a health memorandum reading; no transfer rule on record |
 | [National interoperability standards](../../maturity/indicators/gov.standards--national-interoperability-standards.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Interoperability framework between government registers** (Planned) — [Ministry of State for Presidential Affairs, The Executive Mansion, Republic of Liberia, 17 Jul 2026](https://emansion.gov.lr/sites/default/files/documents/26-7-17-%20OFFICE%20OF%20TECHNOLOGY%20%2C%20DIGITALIZATION%20AND%20INNOVATION%20%20TERMS%20OF%20REFERENCE%20%28OTDI%29.pdf)<br>**Office of Technology, Digitalization and Innovation (Executive Order 163)** (Implemented) — [Liberian Observer, 29 Apr 2026](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html) | standards duty assigned to OTDI; nothing published by the as-at |
-| [National quality standards](../../maturity/indicators/gov.standards--national-quality-standards.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Liberia Standards Authority** (Implemented) — [Senate and House of Representatives of the Republic of Liberia, 5 Aug 2022](https://www.moci.gov.lr/sites/default/files/documents/An%20Act%20To%20Amend%20The%20Executive%20Law%20Of%20Liberia%20And%20To%20Establish%20The%20Liberia%20Standards%20Authority.pdf) | standards authority established 2022; no ICT or data standards or quality policy on record |
+| [National quality standards](../../maturity/indicators/gov.standards--national-quality-standards.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Liberia Standards Authority** (Implemented) — [FrontPageAfrica, 8 Oct 2025](https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/) | standards authority established 2022; no ICT or data standards or quality policy on record |
 | [Adoption of international standards](../../maturity/indicators/gov.standards--adoption-of-international-standards.md)<br>*instrument* | unplaced | unplaced |  | ITU-T E.164 and E.212 adopted; ISO membership not on record |
 | [Non-governmental contribution to national policy](../../maturity/indicators/gov.discourse--non-governmental-contribution-to-national-policy.md)<br>*instrument* | 3 Established | 3 Established | **Statutory consultation duty on telecommunications policy** (Implemented) — [Liberia Telecommunications Authority, 23 Feb 2026](https://lta.gov.lr/wp-content/uploads/2026/03/CONSULTATION-DOCUMENT-SATELLITE-COMMUNICATIONS-GUIDELINES-FINAL-COPY.pdf) | statutory consultation duty exercised with published consultation report |
 | [Open discussion of government policy](../../maturity/indicators/gov.discourse--open-discussion-of-government-policy.md)<br>*instrument* | unplaced | unplaced |  | unplaced: press debate of LTA revenue on record but no published policy documents among mapped rows |
@@ -49,9 +49,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 4 Operating | 4 Operating | **Universal Access Fund (LTA-REG-0006)** (Implemented) — [Universal Access Fund, Liberia Telecommunications Authority, 20 Oct 2025](https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/) | universal access fund levy in regulation with deployments published; no budget execution report held |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 

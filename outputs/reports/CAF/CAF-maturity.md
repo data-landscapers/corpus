@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 12 · 2 Nascent 8 · 1 Absent 1 · unplaced 22 · no evidence 1
 - **Systems (51)**: 3 Established 12 · 2 Nascent 22 · 1 Absent 2 · unplaced 15
-- **Measures (22)**: 2 below 1 · 1 far below 8 · no evidence 13
+- **Measures (20)**: 1 far below 8 · no evidence 12
 
 ## This month
 
@@ -49,9 +49,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 3 Established | 3 Established | **Regulator support transfer** (Planned) — [Ministère des Finances et du Budget (République Centrafricaine), 18 Nov 2025](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf)<br>**Digital development agency transfer** (Planned) — [Ministère des Finances et du Budget (République Centrafricaine), 18 Nov 2025](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf) | Recurring lines in the state's own estimates; no dedicated fund with published execution |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | 2 below | 2 below | **39.8 per cent** (2026) — [Corpus, the state's budget document as read](https://corpus.data-landscapers.io/finance/) | on the state's own FY2026 budget document, appropriated figures; includes partial lines |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -101,7 +99,7 @@
 | [Population register](../../maturity/indicators/dpi.registry--population-register.md)<br>*system* | unplaced | unplaced |  | Birth-registration and archive steps only; nothing on a population register |
 | [Civil register](../../maturity/indicators/dpi.registry--civil-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Civil-status modernisation programme** (Implemented) — [Oubangui Médias, 23 Feb 2026](https://oubanguimedias.com/2026/02/23/centrafrique-le-comite-technique-dappui-et-de-suivi-du-projet-dappui-a-la-modernisation-de-letat-civil-valide-les-activites-du-projet-modero/) | Externally funded modernisation extending from a pilot to new communes |
 | [Address register](../../maturity/indicators/dpi.registry--address-register.md)<br>*system* | 1 Absent | 1 Absent | **Postal addressing convention** (Implemented) — [Universal Postal Union (UPU), reporting the Central African Republic's Office national des Postes et de l'Epargne (ONPE), 1 Mar 2022](https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cafEn.pdf) | UPU country file (2022): no street numbering, postcode or address register |
-| [Business register](../../maturity/indicators/dpi.registry--business-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Business register digitisation and territorial reach** (Implemented) — [GUFE RCA (Guichet Unique de Formalisation des Entreprises), 3 Feb 2026](https://gufe-rca.org/antenne-gufe-berberati-operationnelle/) | Agency states procedures digitised; no unique business identifier on record |
+| [Business register](../../maturity/indicators/dpi.registry--business-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Business register digitisation and territorial reach** (Implemented) — [Bangui Inside, 10 Aug 2026](https://www.bangui-inside.com/article/80-d-informel-ce-que-le-guichet-unique-change-et-ce-qu-il-ne-change-pas) | Agency states procedures digitised; no unique business identifier on record |
 | [Social protection register](../../maturity/indicators/dpi.registry--social-protection-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Social registry** (In development) — [World Bank Group (International Development Association), 28 May 2026](https://documents1.worldbank.org/curated/en/099060226181018944/pdf/BOSIB-b67bf62d-5670-4d2e-9c1c-d85c2fdb544c.pdf) | Registry development financed; no registered-household figure |
 | [Electoral register](../../maturity/indicators/dpi.registry--electoral-register.md)<br>*system* | 3 Established | 3 Established | **Biometric electoral register** (Implemented) — [APAnews (Agence de Presse Africaine), 5 Jan 2026](https://fr.apanews.net/news/rca-touadera-elu-au-premier-tour-avec-7615-des-voix-resultats-provisoires/) | Biometric roll revised in 2025 and published; no reconciliation with civil register |
 | [Tax register](../../maturity/indicators/dpi.registry--tax-register.md)<br>*system* | unplaced | unplaced |  | Tax platform described; nothing on the taxpayer register or identifier |

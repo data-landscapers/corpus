@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 19 · 2 Nascent 15 · unplaced 8 · no evidence 2
 - **Systems (51)**: 3 Established 24 · 2 Nascent 17 · unplaced 8 · no evidence 2
-- **Measures (22)**: 5 exceeds 1 · 4 meets 9 · 3 approaching 4 · 2 below 1 · no evidence 7
+- **Measures (20)**: 5 exceeds 1 · 4 meets 9 · 3 approaching 4 · 2 below 1 · no evidence 5
 
 ## This month
 
@@ -49,9 +49,7 @@ No stage moved in August.
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | — | unplaced |  | 2027 draft finance law names a digital axis without allocation; no read budget states no domestic digital line |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 3 approaching | 3 approaching | **0.06492 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 1 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 

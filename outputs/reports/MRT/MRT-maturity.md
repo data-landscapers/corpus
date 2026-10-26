@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 4 Operating 1 · 3 Established 15 · 2 Nascent 19 · unplaced 8 · no evidence 1
 - **Systems (51)**: 3 Established 20 · 2 Nascent 22 · unplaced 9
-- **Measures (22)**: 4 meets 1 · 3 approaching 4 · 2 below 3 · 1 far below 3 · unplaced 1 · no evidence 10
+- **Measures (20)**: 4 meets 1 · 3 approaching 4 · 2 below 3 · 1 far below 3 · unplaced 1 · no evidence 8
 
 ## This month
 
@@ -49,9 +49,7 @@ No stage moved in August.
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 3 Established | 3 Established | **Digital ministry budget** — [Ecofin Agency, 30 Jun 2026](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty) | digital ministry budget line on secondary report; universal access fund decree text not held and fund centralised at Treasury |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -100,7 +98,7 @@ No stage moved in August.
 | [Consumer protection](../../maturity/indicators/dpi.pay--consumer-protection.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Payment institutions and payment service agents regulation** (Implemented) — [Banque Centrale de Mauritanie — Le Gouverneur, 31 Mar 2022](https://fintech.bcm.mr/download/instruction_05_gr_2022-2%20Portant%20reglementation%20des%20prestataires%20de%20services%20de%20paiement.pdf) | customer protection by central bank instruction only; dimensions covered and redress not on record |
 | [Population register](../../maturity/indicators/dpi.registry--population-register.md)<br>*system* | unplaced | unplaced |  | only a consular registry mapped here; not a population register |
 | [Civil register](../../maturity/indicators/dpi.registry--civil-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Civil Status Code and its 2025 amendment** (Implemented) — [République Islamique de Mauritanie / Journal Officiel (copie indexée par NATLEX, OIT), 24 Feb 2025](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117696/MRT-117696.pdf)<br>**National Population Register** (Implemented) — [الصادق الإخباري (Essadek), 18 Jun 2026](https://www.essadek.info/%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-5-1-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d9%85%d8%b3%d8%ac%d9%84-%d8%a8%d8%a7%d9%84%d8%b3%d8%ac%d9%84-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a/) | 2025 law on digital acts and biometric interconnection; national digital birth registration not stated |
-| [Address register](../../maturity/indicators/dpi.registry--address-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Geolocated addressing system** (Planned) — [Ministère de la Transformation Numérique et de la Modernisation de l’Administration (MTNIMA) — Projet WARDIP-Mauritanie, 10 Mar 2025](https://mtnima.gov.mr/wp-content/uploads/2025/03/TDR-adressage.pdf) | terms of reference issued 2025; no award or register on record |
+| [Address register](../../maturity/indicators/dpi.registry--address-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Geolocated addressing system** (In development) — [Ministère de la Transformation Numérique et de la Modernisation de l’Administration (MTNIMA) — Projet WARDIP-Mauritanie, 10 Mar 2025](https://mtnima.gov.mr/wp-content/uploads/2025/03/TDR-adressage.pdf) | terms of reference issued 2025; no award or register on record |
 | [Business register](../../maturity/indicators/dpi.registry--business-register.md)<br>*system* | unplaced | unplaced |  | trade register in law and single-window decree; nothing says the register is electronic |
 | [Social protection register](../../maturity/indicators/dpi.registry--social-protection-register.md)<br>*system* | 3 Established | 3 Established | **Social Register** (Implemented) — [الوكالة الموريتانية للأنباء (AMI), 12 Jun 2026](https://www.ami.mr/archives/261586) | 2.06 million registered on the agency's figure; ID linkage and coverage of target population not published |
 | [Electoral register](../../maturity/indicators/dpi.registry--electoral-register.md)<br>*system* | unplaced | unplaced |  | 2024 roll of 1.94 million on the Constitutional Council's figure; digital form and public access not stated |

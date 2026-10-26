@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 15 · 2 Nascent 14 · 1 Absent 3 · unplaced 11 · no evidence 1
 - **Systems (51)**: 3 Established 16 · 2 Nascent 21 · unplaced 14
-- **Measures (22)**: 4 meets 4 · 3 approaching 1 · 2 below 1 · 1 far below 2 · no evidence 14
+- **Measures (20)**: 4 meets 4 · 3 approaching 1 · 2 below 1 · 1 far below 2 · no evidence 12
 
 ## This month
 
@@ -49,9 +49,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | unplaced | unplaced |  | zero development spend on the communications authority early 2026; no read budget document of digital lines |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -157,7 +155,7 @@
 | [Citizen participation in policy](../../maturity/indicators/include.access--citizen-participation-in-policy.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Structured Dialogue consultative forum** (Implemented) — [United Nations Support Mission in Libya (UNSMIL), 22 Jul 2026](https://unsmil.unmissions.org/en/structured-dialogue) | one consultation on record in the period; no standing procedure |
 | [Gender equity](../../maturity/indicators/include.access--gender-equity.md)<br>*measure* | — | — | *No evidence* | |
 | [Inclusion of persons with disabilities](../../maturity/indicators/include.access--inclusion-of-persons-with-disabilities.md)<br>*instrument* | 3 Established | 3 Established | **Digital accessibility policy** (In development) — [الهيئة العامة للمعلومات (General Information Authority), 4 Feb 2026](https://www.gia.gov.ly/en/2026/02/04/the-general-authority-for-information-launches-the-actual-implementation-path-of-the-national-digital-accessibility-policy-in-collaboration-with-escwa/) | GIA digital accessibility policy made mandatory; no standard or audited implementation on record |
-| [Inclusion of refugees and IDPs](../../maturity/indicators/include.access--inclusion-of-refugees-and-idps.md)<br>*instrument* | 3 Established | 3 Established | **Refugee registration and biometric enrolment** (Implemented) — [Libya Herald, 16 Mar 2026](https://libyaherald.com/2026/03/bank-of-commerce-and-development-first-bank-to-launch-e-wallet-for-expat-residents-and-workers) | UNHCR registration on record and e-wallets opened to registered foreigners; national maintenance not shown |
+| [Inclusion of refugees and IDPs](../../maturity/indicators/include.access--inclusion-of-refugees-and-idps.md)<br>*instrument* | 3 Established | 3 Established | **Refugee registration and biometric enrolment** (Implemented) — [UNHCR, 1 Jun 2026](https://www.unhcr.org/us/sites/en-us/files/2026-06/unhcr-annual-results-report-2025-libya_6.pdf) | UNHCR registration on record and e-wallets opened to registered foreigners; national maintenance not shown |
 | [Bridging of digital divides](../../maturity/indicators/include.divides--bridging-of-digital-divides.md)<br>*measure* | — | — | *No evidence* | |
 
 ## Data

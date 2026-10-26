@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 4 Operating 1 · 3 Established 16 · 2 Nascent 16 · unplaced 10 · no evidence 1
 - **Systems (51)**: 3 Established 21 · 2 Nascent 20 · 1 Absent 1 · unplaced 9
-- **Measures (22)**: 4 meets 5 · 3 approaching 4 · 2 below 3 · 1 far below 1 · no evidence 9
+- **Measures (20)**: 4 meets 5 · 3 approaching 4 · 2 below 3 · 1 far below 1 · no evidence 7
 
 ## This month
 
@@ -50,9 +50,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 3 Established | 3 Established | **Domestic budget appropriation for digital transformation** (Implemented) — [Government of Eswatini / Ministry for Finance, 27 Feb 2026](https://parliament.gov.sz/media/speeches/budget/2026_27%20FY%20Budget_Speech_2026%20FINAL.pdf) | ICT capital line in the estimates; no dedicated fund or levy on record |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -107,7 +105,7 @@
 | [Electoral register](../../maturity/indicators/dpi.registry--electoral-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Voter register** (Implemented) — [Elections and Boundaries Commission of Eswatini, 29 Aug 2026](https://www.elections.org.sz/2023/electoral-process/) | Continuous biometric registration; public access to the roll not on record |
 | [Tax register](../../maturity/indicators/dpi.registry--tax-register.md)<br>*system* | unplaced | unplaced |  | TIN application is on paper; register structure not on record, and online filing implies a computerised one |
 | [Land register](../../maturity/indicators/dpi.registry--land-register.md)<br>*system* | 2 Nascent | 2 Nascent | **Deeds registry digitisation** (In development) — [Government of Eswatini, Ministry of Natural Resources and Energy, 29 Aug 2026](https://gov.sz/index.php/departments-sp-623334762/deeds) | Deeds system prototype under testing; no go-live on record |
-| [Health](../../maturity/indicators/dpi.mis--health.md)<br>*system* | 3 Established | 3 Established | **Client Management Information System** (Implemented) — [DataFI project, 7 Apr 2026](https://datafiproject.substack.com/p/even-on-the-rainiest-afternoons-in) | CMIS at 73% of facilities; private sector and completeness not on record |
+| [Health](../../maturity/indicators/dpi.mis--health.md)<br>*system* | 3 Established | 3 Established | **Client Management Information System** (Implemented) — [U.S. Department of State, 28 May 2026](https://www.state.gov/wp-content/uploads/2026/05/An-Update-on-Health-Service-Delivery-Accessible-5.28.2026.pdf) | CMIS at 73% of facilities; private sector and completeness not on record |
 | [Education](../../maturity/indicators/dpi.mis--education.md)<br>*system* | 3 Established | 3 Established | **School education management information system** (Implemented) — [DHIS2 for Education (HISP Centre), 4 Nov 2025](https://education.dhis2.org/eswatini-disability-indicators-emis/) | Individual PIN-keyed records held; use for planning and payroll not on record |
 | [Social protection](../../maturity/indicators/dpi.mis--social-protection.md)<br>*system* | 2 Nascent | 2 Nascent | **Social Registry (Imbeleko)** (Piloting) — [Eswatini Observer, 31 Aug 2026](https://www.eswatiniobserver.com/2-304-shiselweni-residents-have-difficulty-walking/) | Grant disbursement system is a payment channel; no programme MIS shown in service |
 | [Justice](../../maturity/indicators/dpi.mis--justice.md)<br>*system* | 2 Nascent | 2 Nascent | **Integrated Electronic Case Management System** (In development) — [Eswatini Positive News, 21 May 2026](https://eswatinipositivenews.online/new-digital-court-system-to-end-case-delays-prince-simelane/) | Case management rollout under way; courts not yet transitioned |

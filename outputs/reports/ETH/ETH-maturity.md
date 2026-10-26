@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 15 · 2 Nascent 14 · 1 Absent 2 · unplaced 12 · no evidence 1
 - **Systems (51)**: 4 Operating 1 · 3 Established 21 · 2 Nascent 18 · 1 Absent 1 · unplaced 8 · no evidence 2
-- **Measures (22)**: 4 meets 1 · 3 approaching 1 · 2 below 7 · 1 far below 4 · no evidence 9
+- **Measures (20)**: 4 meets 1 · 3 approaching 1 · 2 below 7 · 1 far below 4 · no evidence 7
 
 ## This month
 
@@ -49,9 +49,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 3 Established | 3 Established | **Federal appropriation for digital transformation** (Implemented) — [Fana Media Corporation, 7 Jul 2026](https://www.fanamc.com/english/ethiopian-parliament-ratifies-2-34-trillion-birr-federal-budget-for-2026-27-fiscal-year/) | Recurring federal digital lines across three read budgets; no dedicated fund in law |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 3 approaching | 3 approaching | **0.06437 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 3 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -113,7 +111,7 @@
 | [Tax](../../maturity/indicators/dpi.mis--tax.md)<br>*system* | 2 Nascent | 2 Nascent | **Tax administration diagnostic assessment** — [TADAT Secretariat (IMF Fiscal Affairs Department), 1 Feb 2025](https://www.tadat.org/content/dam/tadat/en/assessments/Ethiopia_Final_PAR_2025.pdf) | TADAT 2025: e-payment for all core taxes but little used; e-filing availability not stated |
 | [Customs](../../maturity/indicators/dpi.mis--customs.md)<br>*system* | 3 Established | 3 Established | **Customs management and electronic single window** (Implemented) — [National Bank of Ethiopia, 29 May 2026](https://nbe.gov.et/wp-content/uploads/2026/05/DIRECTIVE-NO.-FVD012026-IMPORT-ON-FRANCO-VALUTA.pdf) | Single window with 70+ institutions; electronic duty payment and risk management not on record |
 | [Land](../../maturity/indicators/dpi.mis--land.md)<br>*system* | 3 Established | 3 Established | **National Rural Land Administration Information System** (Implemented) — [World Bank, 10 Dec 2025](https://documents1.worldbank.org/curated/en/099121025083010118/txt/P181591-f61094e9-91e1-418f-946c-d97b1607f547.txt)<br>**eLand digital land services platform** (Implemented) — [eLand Platform, 1 Jan 2025](https://land.et) | NRLAIS in service with slow reform progress; no coverage figure |
-| [e-government services](../../maturity/indicators/dpi.govtech--e-government-services.md)<br>*system* | 3 Established | 3 Established | **MESOB unified public-service platform** (Implemented) — [FDRE MESOB Service, 23 Aug 2026](https://mesobcenter.et/)<br>**Electronic Government Procurement (e-GP) system** (Implemented) — [Office of the Federal Auditor General, Ethiopia (OFAG), 6 Jul 2026](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) | single platform with 180+ services; no usage figures published |
+| [e-government services](../../maturity/indicators/dpi.govtech--e-government-services.md)<br>*system* | 3 Established | 3 Established | **MESOB unified public-service platform** (Implemented) — [FDRE MESOB Service, 23 Aug 2026](https://mesobcenter.et/)<br>**Electronic Government Procurement (e-GP) system** (Implemented) — [Birr Metrics, 31 Jul 2026](https://birrmetrics.com/public-procurement-authority-reports-597bn-birr-in-digital-transactions/) | single platform with 180+ services; no usage figures published |
 
 ## Digitalisation
 
@@ -157,7 +155,7 @@
 | [Citizen participation in policy](../../maturity/indicators/include.access--citizen-participation-in-policy.md)<br>*instrument* | 2 Nascent | 2 Nascent | **National Dialogue** (Implemented) — [Ethiopian National Dialogue Commission, 22 Aug 2026](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/) | national dialogue held; no consultation on digital instruments on record |
 | [Gender equity](../../maturity/indicators/include.access--gender-equity.md)<br>*measure* | 2 below | 2 below | **30.4569 % gap, men over women** (2021) — [ITU, internet use by sex, via the UN SDG database](https://unstats.un.org/sdgs/dataportal), survey, released 30 Jun 2026 | survey figure; no primary in the base |
 | [Inclusion of persons with disabilities](../../maturity/indicators/include.access--inclusion-of-persons-with-disabilities.md)<br>*instrument* | 2 Nascent | 2 Nascent | **Disability inclusion guidelines** (Implemented) — [Ethiopian Center for Disability and Development (ECDD), 5 Feb 2026](https://ecdd-ethiopia.org/official-dissemination-of-the-national-guideline-for-inclusion-of-persons-with-disabilities-in-skill-development-and-employment/) | CRPD ratified and sectoral guidelines; no ICT accessibility provision on record |
-| [Inclusion of refugees and IDPs](../../maturity/indicators/include.access--inclusion-of-refugees-and-idps.md)<br>*instrument* | 3 Established | 3 Established | **World Bank Digital ID for Inclusion Project** (Implemented) — [World Bank, 18 May 2026](https://documents1.worldbank.org/curated/en/099051826153515642/pdf/P179040-74a164c1-0bb2-49b6-8b5f-2da36395da02.pdf)<br>**Makatet refugee-inclusion framework** (Implemented) — [Biometric Update, 16 Jul 2026](https://www.biometricupdate.com/202607/fayda-digital-id-critical-for-ethiopias-five-year-refugee-inclusion-strategy) | About 190000 refugee registrations; replacement conditions and payment access not on record |
+| [Inclusion of refugees and IDPs](../../maturity/indicators/include.access--inclusion-of-refugees-and-idps.md)<br>*instrument* | 3 Established | 3 Established | **World Bank Digital ID for Inclusion Project** (Implemented) — [World Bank, 18 May 2026](https://documents1.worldbank.org/curated/en/099051826154014658/pdf/P179040-a6dcbb64-0dbc-48cc-9c1d-eecfc41d1d44.pdf)<br>**Makatet refugee-inclusion framework** (Implemented) — [Biometric Update, 16 Jul 2026](https://www.biometricupdate.com/202607/fayda-digital-id-critical-for-ethiopias-five-year-refugee-inclusion-strategy) | About 190000 refugee registrations; replacement conditions and payment access not on record |
 | [Bridging of digital divides](../../maturity/indicators/include.divides--bridging-of-digital-divides.md)<br>*measure* | — | — | *No evidence* | |
 
 ## Data

@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 18 · 2 Nascent 14 · 1 Absent 1 · unplaced 10 · no evidence 1
 - **Systems (51)**: 3 Established 19 · 2 Nascent 26 · unplaced 6
-- **Measures (22)**: 4 meets 3 · 3 approaching 5 · 2 below 1 · 1 far below 5 · no evidence 8
+- **Measures (20)**: 4 meets 3 · 3 approaching 5 · 2 below 1 · 1 far below 5 · no evidence 6
 
 ## This month
 
@@ -49,9 +49,7 @@ No stage moved in August.
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 2 Nascent | 2 Nascent | **K255 million digital infrastructure and quality-of-service allocation** — [TechAfrica News, 15 May 2026](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/) | K255m approved for 2026 digital infrastructure; appropriation status and recurrence not stated |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **1.258e-05 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 1 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -78,7 +76,7 @@ No stage moved in August.
 
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
-| [National data exchange system](../../maturity/indicators/dpi.exchange--national-data-exchange-system.md)<br>*system* | 3 Established | 3 Established | **Government Service Bus** (Implemented) — [Efficacy News, 23 Aug 2026](https://efficacynews.africa/2026/08/23/labour-ministry-pushes-digital-services-to-expand-access-across-zambia/)<br>**Government Service Bus in operation** (Implemented) — [SMART Zambia Institute, 10 Sep 2024](https://www.szi.gov.zm/?p=3855) | 400+ services on the bus; no transaction volumes or published access conditions on record |
+| [National data exchange system](../../maturity/indicators/dpi.exchange--national-data-exchange-system.md)<br>*system* | 3 Established | 3 Established | **Government Service Bus** (Implemented) — [Efficacy News, 23 Aug 2026](https://efficacynews.africa/2026/08/23/labour-ministry-pushes-digital-services-to-expand-access-across-zambia/)<br>**Government Service Bus in operation** (Implemented) — [ZamPortal (SMART Zambia Institute), 11 Sep 2024](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/) | 400+ services on the bus; no transaction volumes or published access conditions on record |
 | [Use of digital id in other systems](../../maturity/indicators/dpi.exchange--use-of-digital-id-in-other-systems.md)<br>*system* | 3 Established | 3 Established | **National identity consumed by other systems** (Implemented) — [Presidential Delivery Unit Zambia, 28 Jan 2026](https://www.pdu.gov.zm/blog/how-fisp-e-voucher-is-delivering-support-where-it-matters-most) | e-KYC in the input voucher across 116 districts; no cross-sector verification service on record |
 | [Interoperability of health systems](../../maturity/indicators/dpi.exchange--interoperability-of-health-systems.md)<br>*system* | 2 Nascent | 2 Nascent | **Health information exchange specification** (Implemented) — [Zambia Ministry of Health, 21 Nov 2025](https://github.com/MOH-Zambia/ZM-Core/) | FHIR implementation guide published; exchanges in service not on record |
 | [Interoperability of education systems](../../maturity/indicators/dpi.exchange--interoperability-of-education-systems.md)<br>*system* | 2 Nascent | 2 Nascent | **Education data exchange and student indexing** (In development) — [BI Zambia (Brasys Initiatives), 12 Jun 2026](https://www.brasys.org/our-projects/adea-education-and-skills-data-challenge-esdc-initiative) | Central student database directed and working group launched; no exchange in service |

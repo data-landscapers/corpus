@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 10 · 2 Nascent 17 · 1 Absent 2 · unplaced 14 · no evidence 1
 - **Systems (51)**: 3 Established 11 · 2 Nascent 24 · 1 Absent 1 · unplaced 15
-- **Measures (22)**: 2 below 1 · 1 far below 10 · no evidence 11
+- **Measures (20)**: 2 below 1 · 1 far below 10 · no evidence 9
 
 ## This month
 
@@ -49,9 +49,7 @@ No stage moved in August.
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | unplaced | unplaced |  | Unplaced: IFMIS mandate and 2027 orientations held; no digital budget line or fund on record |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 

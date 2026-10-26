@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 20 · 2 Nascent 7 · 1 Absent 1 · unplaced 14 · no evidence 2
 - **Systems (51)**: 3 Established 19 · 2 Nascent 12 · unplaced 20
-- **Measures (22)**: 5 exceeds 1 · 4 meets 9 · 3 approaching 1 · 2 below 1 · 1 far below 1 · unplaced 1 · no evidence 8
+- **Measures (20)**: 5 exceeds 1 · 4 meets 9 · 3 approaching 1 · 2 below 1 · 1 far below 1 · unplaced 1 · no evidence 6
 
 ## This month
 
@@ -49,9 +49,7 @@ No stage moved in August.
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | 3 Established | 3 Established | **Domestic-state digital-transformation budget line** (Implemented) — [Republic of Seychelles -- Official Gazette, 15 Jun 2026](https://www.gazette.sc/sites/default/files/2026-06/Act%208%202026%20-%20National%20Assembly%20Administration%20Act%202026.pdf) | Annual ICT department appropriation in the 2026 Act; no dedicated fund or levy on record |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0.004888 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 1 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 

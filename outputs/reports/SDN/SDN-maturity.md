@@ -4,7 +4,7 @@
 
 - **Instruments (44)**: 3 Established 9 · 2 Nascent 13 · 1 Absent 1 · unplaced 20 · no evidence 1
 - **Systems (51)**: 3 Established 13 · 2 Nascent 25 · unplaced 13
-- **Measures (22)**: 4 meets 1 · 3 approaching 3 · 2 below 3 · 1 far below 4 · no evidence 11
+- **Measures (20)**: 4 meets 1 · 3 approaching 3 · 2 below 3 · 1 far below 4 · no evidence 9
 
 ## This month
 
@@ -49,9 +49,7 @@
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
 | [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | — | unplaced |  | Unplaced: TSA commitment and a planned oversight system; no read budget document or digital line on record |
-| [Financial sustainability of digital systems](../../maturity/indicators/finance.sustain--financial-sustainability-of-digital-systems.md)<br>*measure* | — | — | *No evidence* | |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 1 far below | 1 far below | **0 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | no private digital commitment starting 2024–2026 on record |
-| [Development-partner project financing](../../maturity/indicators/finance.new--development-partner-project-financing.md)<br>*measure* | — | — | *No evidence* | |
 
 ## ICT Infrastructure
 
@@ -124,7 +122,7 @@
 | [Digitalisation of rural health clinics](../../maturity/indicators/digital.rural--digitalisation-of-rural-health-clinics.md)<br>*system* | 2 Nascent | 2 Nascent | **Care Connect, IConnect and ZAMW health tools** (In development) — [United Nations in Sudan (UNICEF/WHO, SHARE project), 15 Sep 2025](https://sudan.un.org/en/301575-rebuilding-sudan%E2%80%99s-health-system-through-digital-innovations) | tools launched after a six-facility pilot with rollout to 400 facilities planned |
 | [Digitalisation of rural primary schools](../../maturity/indicators/digital.rural--digitalisation-of-rural-primary-schools.md)<br>*system* | 2 Nascent | 2 Nascent | **SPEEP education technology packages** (Implemented) — [Ministry of Education, Gezira State, 23 Jul 2026](http://gmoe.gov.sd/?p=2940) | tablets distributed in Gezira; no connected share on record |
 | [Digitalisation of rural registry offices](../../maturity/indicators/digital.rural--digitalisation-of-rural-registry-offices.md)<br>*system* | 2 Nascent | 2 Nascent | **Locality civil-registry centres for rural residents** (In development) — [Al-Nawrs News, 17 May 2026](https://alnawrs.com/212689) | first electronic birth certificate at one rural office; wider service not on record |
-| [Digitalisation of rural police stations](../../maturity/indicators/digital.rural--digitalisation-of-rural-police-stations.md)<br>*system* | 2 Nascent | 2 Nascent | **Police electronic reporting platform** (Implemented) — [Official Spokesman's Platform (Sudan Ministry of Interior / Sudan Police Forces), 26 Oct 2023](https://spokesperson-sd.com/en/archives/1171) | central e-reporting platform in use 2023; no provincial station named |
+| [Digitalisation of rural police stations](../../maturity/indicators/digital.rural--digitalisation-of-rural-police-stations.md)<br>*system* | 2 Nascent | 2 Nascent | **Police electronic reporting platform** (Implemented) — [سوداني نت, 10 Jun 2026](https://www.sudaninet.net/78278) | central e-reporting platform in use 2023; no provincial station named |
 
 ## Technology
 
