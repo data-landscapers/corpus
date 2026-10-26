@@ -21,9 +21,9 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 4 |
+| 4 Operating | 5 |
 | 3 Established | 9 |
-| 2 Nascent | 39 |
+| 2 Nascent | 38 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -62,6 +62,13 @@ AI training became mandatory for all public servants in 2026 and nearly 200,000 
 Digital-skills training reached civil servants across government in 2026; the share trained is not published.
 
 - TechReviewAfrica reports the training targets staff across ministries, departments and agencies ([source, 2026-09-20](https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants)).
+
+### Tunisia: 4 Operating
+
+A digital-skills platform for all 680,000 civil servants opened in 2023; the number trained and the share are not known.
+
+- The ministry says the Digital Learning Academy platform is for all 680,000 state civil servants ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
+- The Ministry of Communication Technologies launched the Digital Learning Academy platform on 1 December 2023 to build digital skills among the state's 680,000 civil servants, managed by Smart Tunisian Technoparks (S2T) with GIZ present ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -354,12 +361,6 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 Digital-skills training for civil servants was under way in 2025; a standing programme is not on record.
 
 - CEGA and Togo's Ministry of Public Service Efficiency and Digital Transformation announced a new Data Ambassadors Program under the Togo Data Lab to train 27 data specialists in government, and expect to train 70 government data scientists in the first two years ([source, 2025-12-03](https://cega.berkeley.edu/article/togo-expands-data-lab-to-drive-durable-policy-innovation-with-support-from-google-org/)).
-
-### Tunisia: 2 Nascent
-
-Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
-
-- Korea's Ministry of Foreign Affairs (via KOICA) lists an active 2026 grant of KRW 154,008,800 for a training course for officials of Tunisia's Office of the Prime Minister and related ministries in online talent-development (e-training) systems ([source, 2026-01-01](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=KR-GOV-010-KR-GOV-051-2026040101648000)).
 
 ### Zambia: 2 Nascent
 
