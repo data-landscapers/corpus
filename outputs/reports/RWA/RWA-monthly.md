@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: RWA
-ledger_rows: 48
+ledger_rows: 50
 not_held: 7
-record: c23514671661
+record: cf4bccc2aa0e
 ---
 
 # News, Sep – Oct 2026
@@ -55,6 +55,20 @@ record: c23514671661
 **[Rwanda looks to coordinated AI plan to boost jobs and digital public services](https://thedawnrwanda.com/index.php/2026/10/20/rwanda-looks-to-coordinated-ai-plan-to-boost-jobs-and-digital-public-services/economy/)** — The Dawn Rwanda, 20 October 2026
 
 Rwanda's ICT minister of state Yves Iradukunda told the Global AI and Digital Summit in South Korea that Rwanda will bring its digital and AI strategies together under one coordinated programme. Its three priorities are digital and AI infrastructure, jobs, and better digital public services.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National artificial intelligence agency</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda can be Korea's AI entry point to Africa: minister](https://www.koreaherald.com/article/10911470)** — The Korea Herald, 22 October 2026
+
+Iradukunda in Seoul: AI agency's 'AI Factory' unit, cost-recovery model, bid for Korean data-centre investment.
 
 </div>
 
@@ -611,6 +625,20 @@ Rwanda's finance ministry has finished upgrading its Integrated Financial Manage
 **[IPPIS Developer API — api.ippis.rw](https://www.api.ippis.rw/)** — IPPIS Rwanda, 16 October 2026
 
 Rwanda's public-sector HR platform, IPPIS, offers a REST API through which approved government partner systems can retrieve public servants' NID-verified profiles, education, work history and related records. Access requires partner credentials and bearer tokens.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Satisfaction with digitally delivered public services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwandans report lower satisfaction with public services, new scorecard shows](https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/)** — Rwanda Dispatch, 23 October 2026
+
+13th RGB scorecard: service delivery 68.48%, digital services 60.98%, Irembo 81.80%; 11% of services fully online.
 
 </div>
 
