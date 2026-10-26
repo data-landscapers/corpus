@@ -33,8 +33,9 @@
      section and topic as current, which the house style puts in black. The bar
      is held at its tallest group's height so a swap never moves the page.
      A section link shows its topics and stays put, so a reader can click
-     through the sections to see what each holds; a topic link jumps. The next
-     scroll hands the bar back to the section in view. */
+     through the sections to see what each holds; a topic link jumps. A real
+     scroll hands the bar back to the section in view — not the few pixels a
+     trackpad drifts while the cursor moves to a topic (Bill, 2026-10-26). */
   var bar = head.querySelector('.status-topics');
   /* The sections bar is the head's in-page bar, whatever its label: a report's sections, a
      Methodology page's own sections or the Maturity method's chapters. The section in view is
@@ -94,12 +95,20 @@
       e.preventDefault();
       show(id);
       mark(bar, null);
+      previewAt = window.scrollY;
     });
-    var ticking = false;
+    // A topic link jumps, however short the jump, so the bar follows it.
+    if (topics) bar.addEventListener('click', function () { previewAt = null; });
+    var ticking = false, previewAt = null;
     window.addEventListener('scroll', function () {
       if (ticking) return;
       ticking = true;
-      requestAnimationFrame(function () { ticking = false; spy(); });
+      requestAnimationFrame(function () {
+        ticking = false;
+        if (previewAt !== null && Math.abs(window.scrollY - previewAt) < 60) return;
+        previewAt = null;
+        spy();
+      });
     }, { passive: true });
   }
 
