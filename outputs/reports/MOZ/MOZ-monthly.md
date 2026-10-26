@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: MOZ
-ledger_rows: 52
+ledger_rows: 53
 not_held: 18
-record: 2ea39466691d
+record: 8c06a7520865
 ---
 
 # News, Sep – Oct 2026
@@ -191,6 +191,14 @@ Mozambique's Council of Ministers approved a Postal Security Regulation on 15 Se
 **[Governo prepara lei para regular IA na educação](https://integritymagazine.co.mz/arquivos/69322)** — Integrity Magazine, 17 September 2026
 
 Mozambique's education ministry says its law regulating the use of artificial intelligence in education is almost ready and will reach the Council of Ministers before the end of 2026, covering every institution from primary schooling to higher education with all of them consulted. The text is still being drafted and is not published.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Governo prepara lei para regular uso da Inteligência Artificial na Educação](https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/)** — MZNews, 23 October 2026
+
+Law to cover ethics, fundamental rights and copyright; announced at MAZA IA launch by MOZEDUCA and Vodacom.
 
 </div>
 
@@ -931,6 +939,20 @@ Mozambique's Centre for Development of Financial Information Systems (CEDSIF) is
 **[Country Profile on AI Governance: Mozambique](https://www.aipolicy.africa/country-profiles/mozambique)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Mozambique scored 0.96 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 34 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Strategy and Vision (1.60) and weakest Implementation and Impact (0.30); the profile lists a draft AI strategy not yet adopted, an AI commission created and no data protection law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MAZA IA learning tool</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Governo prepara lei para regular uso da Inteligência Artificial na Educação](https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/)** — MZNews, 23 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
