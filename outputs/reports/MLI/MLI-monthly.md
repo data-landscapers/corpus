@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: MLI
 ledger_rows: 18
 not_held: 2
-record: 58fed901fc3b
+record: 810583aa93db
 ---
 
 # News, Sep – Oct 2026
@@ -307,6 +307,14 @@ Mali scored 0.68 out of 4 on the Africa AI Governance Index 2026, in the Nascent
 **[PARTENARIAT AGEFAU-MATD POUR LE RENFORCEMENT DES CAPACITÉS DES COLLECTIVITÉS TERRITORIALES  DU MALI](https://agefaumali.com/archives/partenariat-agefau-matd-pour-le-renforcement-des-capacites-des-collectivites-territoriales-du-mali/)** — AGEFAU, 1 September 2026
 
 Mali's universal-access fund agency AGEFAU is paying for a programme to train 504 elected officials and staff of 126 communes, launched on 1 September 2026 at the local-government training centre. The first session, on office software and collaborative tools, drew 84 participants from Koulikoro and Bamako; the agreement behind it is worth 200 million FCFA.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Koutiala : 84 élus et agents de collectivités en formation sur les outils numériques](https://www.studiotamani.org/208761-koutiala-84-elus-et-agents-de-collectivites-en-formation-sur-les-outils-numeriques)** — Studio Tamani, 7 October 2026
+
+84 councillors and staff from 21 communes trained in office and collaborative tools at Koutiala.
 
 </div>
 
