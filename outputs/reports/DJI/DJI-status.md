@@ -1,12 +1,12 @@
 ---
 title: Djibouti: status report
-compiled: 2026-10-25
+compiled: 2026-10-26
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 212
+sources_cited: 213
 sections_written: 39
 not_established: 0
 acquire_lines: 21
@@ -147,7 +147,7 @@ Two cross-border fibre builds are in train. [Djibouti Telecom, Ethio telecom and
 <!-- derived -->
 Both of the cross-border fibre projects Djibouti has joined are running in parallel, and neither has been confirmed complete.
 
-Domestically, [internet users reached 65.30% of the population in 2024](https://fred.stlouisfed.org/series/ITNETUSERP2DJI), from 59.93% in 2020. The country ranks [ninth of 54 African states on the Ibrahim Index's internet and computers measure, at 61.2 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dj.pdf), and [forty-sixth on mobile communications, at 47.3](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dj.pdf). [AMS-IX Djibouti extends the country's existing DjIX exchange](https://www.connectingafrica.com/data-centers/wingu-africa-secures-60m-to-fuel-east-african-expansion). [No national spectrum management plan had been adopted as at November 2025](https://www.armd.dj/blog/atelier-sur-la-strategie-et-la-reglementation-de-la-gestion-du-spectre-des-frequences-radioelectriques-69), and [the universal service fund meant to widen equitable access to electronic communications is still at design stage](https://www.armd.dj/en/blog/a-feedback-meeting-of-the-final-report-regarding-the-universal-service-fund-establishment-74) (April 2026).
+Domestically, [internet users reached 65.30% of the population in 2024](https://fred.stlouisfed.org/series/ITNETUSERP2DJI), from 59.93% in 2020. The state's own build stood, at a ministerial review in October 2026, at [26 of the Digital Foundation project's 35 activities complete and 56% of its US$10m disbursed, while the regional project's fibre loops to Dikhil, Tadjourah and Obock and twelve 4G sites await commercial, environmental and social studies](https://www.adi.dj/public/article/139032). The country ranks [ninth of 54 African states on the Ibrahim Index's internet and computers measure, at 61.2 out of 100 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dj.pdf), and [forty-sixth on mobile communications, at 47.3](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dj.pdf). [AMS-IX Djibouti extends the country's existing DjIX exchange](https://www.connectingafrica.com/data-centers/wingu-africa-secures-60m-to-fuel-east-african-expansion). [No national spectrum management plan had been adopted as at November 2025](https://www.armd.dj/blog/atelier-sur-la-strategie-et-la-reglementation-de-la-gestion-du-spectre-des-frequences-radioelectriques-69), and [the universal service fund meant to widen equitable access to electronic communications is still at design stage](https://www.armd.dj/en/blog/a-feedback-meeting-of-the-final-report-regarding-the-universal-service-fund-establishment-74) (April 2026).
 
 ### Data Storage
 <!-- infra.store -->
