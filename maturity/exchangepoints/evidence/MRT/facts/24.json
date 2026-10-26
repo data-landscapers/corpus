@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The Nouakchott Data Center is stated to provide a central data exchange point linking local and international ISPs and operators.",
+   "as_of": "2025-05-08",
+   "date_precision": "day",
+   "system": "Nouakchott Data Center exchange point",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

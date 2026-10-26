@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The ministry said it has supported 10 tech hubs with over $3 million in start-up grants; no programme or cohort described.",
+   "as_of": "2024-09-20",
+   "date_precision": "day",
+   "system": "Tech hub support",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

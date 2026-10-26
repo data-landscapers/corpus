@@ -115,6 +115,7 @@ MOZ,MOZIX,Mozambique Internet Exchange,exchange,,"CIUEM, Universidade Eduardo Mo
 MOZ,UEM data centre,Centro de Dados da UEM,other,,Universidade Eduardo Mondlane,,2026-08-03-uem-centro-de-dados-transformacao-digital
 MRT,Centre national d'échange Internet (national IXP at IMT),Centre national d'échange Internet,exchange,,Ministry of Digital Transformation; Digital Infrastructure Foundation; hosted at IMT,,2025-05-28-mauritanie-lancement-ixp-national
 MRT,"Mauritania IXP (proposed, single site at the IMT ACE landing station in Nouakchott, second site later at the Nouakchott datacenter building)",IXP,other,Layer 2 switch cluster with route servers (scenarios studied),proposed neutral association; IMT hosts,"Mauritel, Mattel, Chinguitel as expected members",2014-06-16-mauritanie-warcip-rapport-faisabilite-point-echange-internet-ixp
+MRT,Centre national d'échange Internet (IXP),Mauritania,exchange,,,,2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration
 MUS,MIXP,Mauritius Internet Exchange Point,exchange,Bird v2 2.0.8 route servers,MIXP,,2026-06-15-mixp-route-server-looking-glass
 MUS,MIXP,Mauritius Internet Exchange Point - MIXP,exchange,,MIXP Ops (AS327821),,2026-05-01-ixp-tracker-mixp-snapshot
 MUS,Mauritius Internet Exchange Point,Internet Exchange Point in Mauritius,exchange,,"Ministry of Technology, Communication and Innovation with the African Union Commission (AXIS)",,2015-08-26-au-launches-internet-exchange-point-mauritius

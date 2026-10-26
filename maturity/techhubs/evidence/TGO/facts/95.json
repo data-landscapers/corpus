@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-01-tgo-transformation-digitale-de-l-economie-togolaise-prodigit",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The LuxDev sheet for ProDigiT says the bases of the Djanta Tech Hub have been laid.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Djanta Tech Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Djanta Tech Hub",
+   "country_label": "Djanta Tech Hub",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

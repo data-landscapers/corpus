@@ -6,7 +6,7 @@
 
 **Several cities.** No source held since October 2023 says hubs with programmes are in service in two or more cities. The nearest held fact: [the one given above](<https://independentnews.co.sz/47721/news/e-42-000-seed-capital-for-shiselweni-youth-entrepreneurs/>).
 
-**Technology park.** No source held since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://independentnews.co.sz/47721/news/e-42-000-seed-capital-for-shiselweni-youth-entrepreneurs/>).
+**Technology park.** No source held since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://independentnews.co.sz/47721/news/e-42-000-seed-capital-for-shiselweni-youth-entrepreneurs/>). [In April 2025 the ICT minister said the Royal Science and Technology Park had not met its founding vision and would be rebuilt as a hub for start-ups](<https://www.eswatiniobserver.com/minister-getting-threats/>).
 
 ***Noted, not assessed***. None held.
 

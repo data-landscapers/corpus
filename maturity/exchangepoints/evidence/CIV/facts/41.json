@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-01-civ-quelles-interventions-publiques-pour-remedier-aux-potentielles-defaill",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "ARTCI's May 2024 seminar deck says the Netflix cache is hosted at the national exchange point, and that moving the other global content providers' caches there from operators' data centres is under way.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "National internet exchange point",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

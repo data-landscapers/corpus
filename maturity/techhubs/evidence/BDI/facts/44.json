@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-27-bdi-la-transformation-numerique-ne-se-resume-pas-aux-infrastructures-post",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "A comment on the PAFEN coordinator's post from the KIT Digital Innovation Hub thanks PAFEN for its investment in the innovation ecosystem; no programme or cohort is stated.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "KIT Digital Innovation Hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

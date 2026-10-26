@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,hub,hubs,coverage,inservice,2026-02-11,BDI-001,BDI-003=underway,
+BDI,hub,hubs,coverage,inservice,2026-02-11,BDI-001,BDI-004=underway;BDI-003=underway,
 BDI,hub,cities,coverage,several,2026-02-11,BDI-002,,
 BDI,hub,park,coverage,,,,,nothing held

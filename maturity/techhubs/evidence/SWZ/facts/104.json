@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-13-swz-minister-getting-threats",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "ICT Minister Savannah Maziya said the Royal Science and Technology Park is to be rebuilt as a hub for young innovators hosting start-ups and global tech players, the park having not yet met its founding vision.",
+   "as_of": "2025-04-13",
+   "date_precision": "day",
+   "system": "Royal Science and Technology Park",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": "No incubation programme or cohort stated."
+}

@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MRT,Centre national d'échange Internet (national IXP at IMT),Centre national d'échange Internet,exchange,,Ministry of Digital Transformation; Digital Infrastructure Foundation; hosted at IMT,,2025-05-28-mauritanie-lancement-ixp-national
 MRT,"Mauritania IXP (proposed, single site at the IMT ACE landing station in Nouakchott, second site later at the Nouakchott datacenter building)",IXP,other,Layer 2 switch cluster with route servers (scenarios studied),proposed neutral association; IMT hosts,"Mauritel, Mattel, Chinguitel as expected members",2014-06-16-mauritanie-warcip-rapport-faisabilite-point-echange-internet-ixp
+MRT,Centre national d'échange Internet (IXP),Mauritania,exchange,,,,2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration

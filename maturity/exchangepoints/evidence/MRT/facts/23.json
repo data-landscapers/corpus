@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The ministry's representative says the National Internet Exchange Centre (IXP) was recently officially launched, as a local exchange platform to localise data traffic.",
+   "as_of": "2025-08-05",
+   "date_precision": "day",
+   "system": "Centre national d'echange Internet (IXP)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Centre national d'échange Internet (IXP)",
+   "country_label": "Mauritania",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
