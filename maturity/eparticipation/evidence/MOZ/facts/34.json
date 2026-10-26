@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-22-moz-public-consultation-on-the-proposed-revision-of-the-notice-that-establ",
+ "facts": [
+  {
+   "sub_indicator": "eparticipation",
+   "aspect": "online",
+   "value": "asked",
+   "fact": "Banco de Moçambique posted on its website a public consultation on a named draft revision of its mobile money customer-funds notice, with the consultation documents linked.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Banco de Moçambique public consultation",
+   "class": "eparticipation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
