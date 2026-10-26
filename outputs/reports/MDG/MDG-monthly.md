@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Sep – Oct 2026
-compiled: 2026-10-23
-period: 2026-09-01 to 2026-10-23
+compiled: 2026-10-26
+period: 2026-09-01 to 2026-10-26
 place: MDG
 ledger_rows: 37
 not_held: 5
-record: efddd9f5d7f2
+record: 9888ad68b209
 ---
 
 # News, Sep – Oct 2026
@@ -121,6 +121,14 @@ The National Assembly deferred five bills to a later session rather than vote th
 **[SESSION EXTRAORDINAIRE - Le texte sur la cybercriminalité absent de l'ordre du jour](https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html)** — L'Express de Madagascar, 17 September 2026
 
 Madagascar's cybercrime bill was left off the agenda of the extraordinary session that opened on 17 September, which lists seventeen bills over twelve days; the companion bill on electronic communications and digital infrastructure is absent too. Both had their votes deferred to a later session in the closing hours of the previous extraordinary session, and an extraordinary session's agenda is set by presidential decree.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lutte contre la cybercriminalité: les Parlementaires réexaminent le projet de loi](https://newsmada.com/2026/10/24/lutte-contre-la-cybercriminalite-les-parlementaires-reexaminent-le-projet-de-loi/)** — Newsmada, 24 October 2026
+
+Committee review set for 2 Nov 2026; access-to-public-information bill 017/2025 also on the session agenda.
 
 </div>
 
