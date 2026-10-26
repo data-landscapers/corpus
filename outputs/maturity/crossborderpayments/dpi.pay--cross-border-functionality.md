@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 8 |
-| 4 Operating | 25 |
-| 3 Established | 7 |
-| 2 Nascent | 9 |
+| 4 Operating | 24 |
+| 3 Established | 6 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 3 |
@@ -74,9 +74,9 @@ Cross-border digital payment volumes or costs were reported in 2025.
 
 ### Zimbabwe: 5 Leading
 
-Cross-border digital payment volumes or costs were reported in 2024.
+Cross-border digital payment volumes or costs were reported in 2026.
 
-- The IMF-World Bank report, citing World Bank Remittance Prices Worldwide, says sending remittances from South Africa to Zimbabwe cost an average 12.7 percent in Q1 2024 ([source, 2024-03](https://www.imf.org/-/media/files/publications/tar/2025/english/tarea2025093-source-pdf.pdf)).
+- Afreximbank's Olowononi cites Zimbabwe statistics of $5.8 million a month through PAPSS ([source, 2026-10](https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/)).
 
 ### Botswana: 4 Operating
 
@@ -109,7 +109,7 @@ The country took part in a regional payment system in 2026; cross-border volumes
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
 
 - The Central African Republic is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-- BEAC joined PAPSS, announced by Afreximbank on 9 July 2026, and CEMAC banks are to be connected to it by end-2026 ([source, 2026-07-09](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
+- The Central African Republic takes part in GIMACPAY, the CEMAC regional payment platform operated by GIMAC ([source, 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)).
 
 ### Chad: 4 Operating
 
@@ -123,7 +123,7 @@ The country took part in a regional payment system in 2026; cross-border volumes
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
 
 - Congo is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-- BEAC joined PAPSS, announced by Afreximbank on 9 July 2026, and CEMAC banks are to be connected to it by end-2026 ([source, 2026-07-09](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
+- Congo takes part in GIMACPAY, the CEMAC regional payment platform operated by GIMAC ([source, 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -143,14 +143,7 @@ The country took part in a regional payment system in 2026; cross-border volumes
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
 
 - Equatorial Guinea is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
-- BEAC joined PAPSS, announced by Afreximbank on 9 July 2026, and CEMAC banks are to be connected to it by end-2026 ([source, 2026-07-09](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
-
-### Ethiopia: 4 Operating
-
-The country took part in a regional payment system in 2026; cross-border volumes are not reported.
-
-- ITWeb Africa reports Ethiopia has joined PAPSS, enabling financial institutions across the country to connect and take part in instant cross-border payments with counterparts across Africa ([source, 2026-10-15](https://www.itweb.africa/article/ethiopia-modernises-cross-border-payments-via-papss/RgeVDMPR3w9vKJN3)).
-- Afreximbank's release says Ethiopia has officially joined the PAPSS network, enabling Ethiopian financial institutions to connect and make cross-border payments with institutions across Africa ([source, 2026-10-15](https://www.afreximbank.com/ethiopia-joins-papss-network-as-national-bank-of-ethiopia-and-papss-announce-the-2nd-edition-of-cowry-in-addis-ababa/)).
+- Equatorial Guinea takes part in GIMACPAY, the CEMAC regional payment platform operated by GIMAC ([source, 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)).
 
 ### Gabon: 4 Operating
 
@@ -165,6 +158,13 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 - PAPSS lists Gambia as available for transfers in April 2026, through six live commercial banks (AGIB Bank, Bloom Bank, Ecobank, First Bank, Trust Bank, Vista Bank) ([source, 2026-04](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf)).
+
+### Ghana: 4 Operating
+
+The country took part in a regional payment system in 2026; cross-border volumes are not reported.
+
+- Governor Asiama described PAPSS as existing infrastructure in use by Ghana, extended to mobile wallets on the Ghana-Nigeria corridor ([source, 2026-10-13](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)).
+- Ghana News Agency reports the Bank of Ghana saying it has extended PAPSS to mobile wallets in the Ghana-Nigeria corridor ([source, 2026-10-13](https://gna.org.gh/2026/10/bank-of-ghana-pilots-digital-cross-border-payments-with-rwanda-nigeria/)).
 
 ### Guinea: 4 Operating
 
@@ -205,12 +205,6 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - Bank of Mauritius Governor Thakoor says the bank is settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
 
-### Namibia: 4 Operating
-
-The country took part in a regional payment system in 2026; cross-border volumes are not reported.
-
-- Namclear has joined the SADC TCIB network operated with PayInc, connecting Namibian banks and authorised non-bank institutions to near-instant cross-border push payments ([source, 2026-03-31](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/)).
-
 ### Niger: 4 Operating
 
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
@@ -244,12 +238,6 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - leFaso.net reports that the BCEAO's PI-SPI instant payment platform, launched 30 September 2025, serves the UEMOA, with 80 institutions connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
 - Togo takes part in the BCEAO's PI-SPI regional instant payment platform, in service across the eight UEMOA states ([source, 2026-04-14](https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi)).
-
-### Ghana: 3 Established
-
-A cross-border digital payment corridor was in service in 2026; a regional payment system link is not known.
-
-- MyJoyOnline reports Stanbic Bank Ghana, with Bank of Ghana approval, now offers direct yuan settlement via CIPS, with the service operational so individuals can make remittances, tuition and medical payments and businesses can pay China from cedi accounts ([source, 2026-08-04](https://www.myjoyonline.com/stanbic-bank-becomes-first-bank-in-ghana-to-offer-direct-chinese-yuan-settlement-via-cips/)).
 
 ### Lesotho: 3 Established
 
@@ -309,11 +297,25 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 
 - Low-value transactions within the Common Monetary Area (Eswatini, South Africa, Lesotho, Namibia) are migrating from domestic electronic funds transfer rails to the Transactions Cleared on an Immediate Basis payment scheme, per ITWeb Africa ([source, 2026-07-21](https://itweb.africa/article/egypt-eswatini-deepen-banking-cooperation/KWEBb7yL4wbvmRjO)).
 
+### Ethiopia: 2 Nascent
+
+A cross-border digital payment corridor was under way in 2026; none in service is on record.
+
+- FSX Business reports Ethiopia became the 31st PAPSS member country and four Ethiopian banks have begun the regulatory process to join, awaiting National Bank of Ethiopia no-objection letters, with no bank yet operational ([source, 2026-09-30](https://www.fsxbusiness.com/ethiopia-joins-papss)).
+- Afreximbank's release says Ethiopia has officially joined the PAPSS network, enabling Ethiopian financial institutions to connect and make cross-border payments with institutions across Africa ([source, 2026-10-15](https://www.afreximbank.com/ethiopia-joins-papss-network-as-national-bank-of-ethiopia-and-papss-announce-the-2nd-edition-of-cowry-in-addis-ababa/)).
+
 ### Libya: 2 Nascent
 
 A cross-border digital payment corridor was under way in 2026; none in service is on record.
 
 - Governor Naji Issa said the project to connect Libya to China's CIPS cross-border payment system has begun, with a pilot phase targeted for early 2027 ([source, 2026-09](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
+
+### Namibia: 2 Nascent
+
+A cross-border digital payment corridor was under way in 2026; none in service is on record.
+
+- Namclear has joined the SADC TCIB network operated with PayInc, connecting Namibian banks and authorised non-bank institutions to near-instant cross-border push payments ([source, 2026-03-31](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/)).
+- Namclear says TCIB services will allow consumers and businesses to send money between Namibia, South Africa and other Common Monetary Area countries ([source, 2026-03-31](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/)).
 
 ### Seychelles: 2 Nascent
 

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "crossborder",
-      "stage": "4",
-      "corridor": "inservice",
-      "regional": "regional",
+      "stage": "2",
+      "corridor": "underway",
+      "regional": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-004;ETH-005",
-      "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
-      "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "ETH-002;ETH-005",
+      "gaps": "No source held says an Ethiopian institution is live on PAPSS, or that any cross-border digital corridor is in service.",
+      "note": "Rebuild: Ethiopia joined PAPSS in September 2026, but no Ethiopian bank or wallet operator was live by October, so the joining is a corridor under way. Stage 2, not 4.",
+      "as_at": "2026-10-26"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "4",
-   "corridor": "inservice",
-   "regional": "regional",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-002",
-   "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "4",
+      "corridor": "inservice",
+      "regional": "regional",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-002",
+      "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
+      "note": "Rebuild: the Bank of Mauritius is settlement bank for COMESA REPSS, a regional system in service. The Mauritius-Seychelles launch announcement is read as under way, as for Seychelles; no figure is held.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

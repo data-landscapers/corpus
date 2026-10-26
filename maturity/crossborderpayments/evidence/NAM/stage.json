@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "4",
-   "corridor": "inservice",
-   "regional": "regional",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-001",
-   "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "2",
+      "corridor": "underway",
+      "regional": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-001;NAM-002",
+      "gaps": "No source held says TCIB or another cross-border digital corridor is in service for Namibia.",
+      "note": "Rebuild: Namclear's March 2026 agreement to join TCIB says its services will allow cross-border transfers, so the link is under way, not in service. Stage 2, not 4.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

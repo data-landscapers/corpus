@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "4",
-   "corridor": "inservice",
-   "regional": "regional",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CAF-001;CAF-007",
-   "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "4",
+      "corridor": "inservice",
+      "regional": "regional",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001;CAF-005",
+      "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
+      "note": "Rebuild: GIMACPAY carries the country's regional payments in service; BEAC's PAPSS membership has its CEMAC institutions onboarded only by end-2026, so it is under way. The GIMACPAY figures are for six states together, so not 5.",
+      "as_at": "2026-10-26"
+    }
+  ]
 }

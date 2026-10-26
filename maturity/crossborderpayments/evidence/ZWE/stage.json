@@ -9,10 +9,10 @@
       "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-005",
+      "stage_sources": "ZWE-002",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: Afreximbank's October 2026 figure of $5.8 million a month through PAPSS is a volume through the country's regional link. The remittance-cost average covers every channel and sets nothing.",
+      "as_at": "2026-10-26"
     }
   ]
 }
