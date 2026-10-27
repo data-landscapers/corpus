@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-10-26
+compiled: 2026-10-27
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 247
+sources_cited: 248
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -183,7 +183,7 @@ Institutional work runs ahead of the capacity measure. Cybersecurity is one of t
 ### Data Exchange
 <!-- dpi.exchange -->
 
-The one part of the Burundian state where systems pass data to each other automatically is trade administration: [the revenue authority's web-based Guichet Unique électronique, launched in February 2026, connects the OBR, the pharmaceuticals and food regulator ABREMA and the ASYCUDA World customs platform, so importers obtain permits and pay fees online while the agencies share the data](https://www.digitalbusiness.africa/burundi-lobr-deploie-un-guichet-unique-web-integrant-abrema-pour-renforcer-la-transparence-et-renforcer-la-competitivite/). From 4 August 2026 [commercial applicants for a tax number are routed through the Agence de Développement du Burundi's easybusiness.bi portal, which passes their data to e-KORI automatically](https://techgriot.co/francais/tech-africaine/2026/08/burundi-toutes-les-demandes-dimmatriculation-passent-desormais-par-la-plateforme-e-kori/).
+The one part of the Burundian state where systems pass data to each other automatically is trade administration: [the revenue authority's web-based Guichet Unique électronique, launched in February 2026, connects the OBR, the pharmaceuticals and food regulator ABREMA and the ASYCUDA World customs platform, so importers obtain permits and pay fees online while the agencies share the data](https://www.digitalbusiness.africa/burundi-lobr-deploie-un-guichet-unique-web-integrant-abrema-pour-renforcer-la-transparence-et-renforcer-la-competitivite/). [Cargo has been tracked electronically from the Burundian border since 2014, and on 22 September 2026 the revenue office began work with Tanzania's revenue authority on interfacing the two tracking systems so goods can be followed from Dar es Salaam or Mombasa](https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises). From 4 August 2026 [commercial applicants for a tax number are routed through the Agence de Développement du Burundi's easybusiness.bi portal, which passes their data to e-KORI automatically](https://techgriot.co/francais/tech-africaine/2026/08/burundi-toutes-les-demandes-dimmatriculation-passent-desormais-par-la-plateforme-e-kori/).
 
 Beneath that there is no national exchange layer. The platform meant to supply one [remains under development](https://documents1.worldbank.org/curated/en/207441655916156350/txt/Burundi-Digital-Foundations-Project.txt) under the World Bank-financed PAFEN project, [whose March 2026 mid-term evaluation recorded 61% of the budget engaged, with a national data centre, the identity rollout and public finance digitisation as its priorities](https://finances.gov.bi/index.php/2026/03/23/pafen-une-evaluation-a-mi-parcours-pour-accelerer-la-transformation-numerique/), and [no operational, API-based exchange connects the identity system to other government systems](https://documents1.worldbank.org/curated/en/207441655916156350/txt/Burundi-Digital-Foundations-Project.txt). The joins that exist are procedural, not technical: [registering for a tax identification number requires a copy of the applicant's national identity card, but there is no database-level linkage between the tax register and the identity system](https://obr.bi/index.php/en/faqs), and a 2024 tax administration assessment found [taxpayer registration not integrated with the filing and payment modules alongside it](https://www.imf.org/-/media/files/publications/cr/2026/english/1bdiea2026002.pdf).
 
