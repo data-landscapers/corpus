@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-ben-moov-money-et-boa-benin-adoptent-la-plateforme-pi-spi-de-la-bceao",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Le Grand Ouémé reports the BCEAO recently launched PI-SPI, which Moov Money Bénin and BOA-Bénin have adopted.",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

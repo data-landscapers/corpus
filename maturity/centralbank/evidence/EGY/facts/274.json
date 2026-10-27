@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-06-egy-almezan-cbe-wallet-remittances-inbound-only",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "A Central Bank of Egypt source told Al-Mezan the bank has licensed telecom companies to provide international transfer services through e-wallets, under regulatory controls.",
+   "as_of": "2025-04-06",
+   "date_precision": "day",
+   "system": "Vodafone Cash and Etisalat Cash international transfers",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

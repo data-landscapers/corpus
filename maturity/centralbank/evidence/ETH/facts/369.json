@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-19-eth-m-pesa-onafriq-partner-to-send-remittances-to-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Onafriq's release says Safaricom M-PESA Mobile Financial Services received a Payment Instrument Issuer License from the National Bank of Ethiopia in May 2023 and went operational in August 2023, and that the Bank authorised its remittance service in July 2023.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "M-PESA",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

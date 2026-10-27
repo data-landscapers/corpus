@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "L'Oeil du Sahel says the BCEAO's official list, updated to 30 September 2026, records 13 participants authorised to open PI-SPI services to the public in Niger: eleven banks, Airtel Money Niger and i-FUTUR.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -85,3 +85,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,ZAF,dpi.pay--governance-role-of-central-bank,ladder,5,4,ZAF-004;ZAF-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
 2026-10-25,ZMB,dpi.pay--governance-role-of-central-bank,ladder,5,4,ZMB-002,"Rung 5 rewritten (Bill, 2026-10-25): PAPSS fully operational only; regional systems no longer count"
 2026-10-26,COD,dpi.pay--governance-role-of-central-bank,fact,4,4,COD-002;COD-003;COD-004,"BCC joined PAPSS Sept 2026; banks and fintechs only invited to apply, none connected, so not live; stays 4"
+2026-10-27,KEN,dpi.pay--governance-role-of-central-bank,fact,2,3,KEN-003,"NBR speech (Mar 2026): passporting MoU covers PSPs the CBK licenses; licensing answered, 3"
+2026-10-27,SYC,dpi.pay--governance-role-of-central-bank,fact,3,4,SYC-003,"Governor's remarks (Jul 2025): banks interoperate on SEFT under the oversight Act; switch overseen, 4"

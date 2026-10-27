@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-09-zwe-cbz-links-new-trade-venture-to-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "live",
+   "fact": "The Financial Gazette reported on 9 October 2026 that CBZ Bank has gone live on the Pan-African Payment and Settlement System (PAPSS).",
+   "as_of": "2026-10-09",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

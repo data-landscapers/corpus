@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-31-lso-position-paper-on-the-processing-of-cross-border-low-value-electronic",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The CMA committee's paper of 31 July 2024 says the South African Reserve Bank directed banks to arrange with PASA the wind-down of the interim cross-border EFT solution, as part of the committee's oversight of CMA payment systems.",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "CMA interim supplementary-file solution",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

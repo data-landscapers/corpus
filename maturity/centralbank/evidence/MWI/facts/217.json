@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-09-mwi-reserve-bank-of-malawi-grants-flutterwave-license-to-process-internati",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Flutterwave says the Reserve Bank of Malawi granted it an International Money Transfer Operator licence on 19 October 2023.",
+   "as_of": "2023-10-19",
+   "date_precision": "day",
+   "system": "IMTO licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

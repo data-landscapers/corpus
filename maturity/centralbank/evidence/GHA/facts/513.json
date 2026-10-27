@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-20-gha-notice-no-bg-gov-sec-2025-07-pilot-of-brijx-by-brij-fintech-ghana-in-t",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Bank of Ghana notice of 20 March 2025 describes Brij Fintech Ghana as a licensed payment service provider and says MobileMoney Limited is not licensed for cross-border transactions.",
+   "as_of": "2025-03-20",
+   "date_precision": "day",
+   "system": "Bank of Ghana payment service provider licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

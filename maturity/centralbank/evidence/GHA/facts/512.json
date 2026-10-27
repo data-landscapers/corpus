@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-20-gha-onafriq-papss-launch-cross-border-payment-services-in-ghana",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "joined",
+   "fact": "Onafriq's release of 20 June 2025 says Ghanaian banks and providers partnering with PAPSS can send and receive money in a six-month pilot approved by the Bank of Ghana, outbound first.",
+   "as_of": "2025-06-20",
+   "date_precision": "day",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

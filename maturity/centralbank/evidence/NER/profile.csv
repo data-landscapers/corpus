@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NER,centralbank,mandate,coverage,licensing,2026-08-31,NER-005;NER-006;NER-009,,
-NER,centralbank,switch,coverage,overseen,2026-09,NER-001;NER-003;NER-007,,
-NER,centralbank,regional,coverage,linked,2026-09,NER-002;NER-004;NER-008,,
+NER,centralbank,switch,coverage,overseen,2026-09,NER-001;NER-003;NER-007;NER-010,,
+NER,centralbank,regional,coverage,regional,2026-09,NER-002;NER-004;NER-008,,

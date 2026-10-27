@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "2",
-      "mandate": "drafting",
+      "stage": "3",
+      "mandate": "licensing",
       "switch": "",
       "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001",
-      "gaps": "No source held since October 2023 says: does the central bank license payment providers.",
-      "note": "The CBK and the Treasury drafted a National Payment System Bill, 2026, a payments mandate being set up. No source held says the CBK licenses providers, and its PAPSS accession is not counted.",
-      "as_at": "2026-10-24"
+      "stage_sources": "KEN-003",
+      "gaps": "No source held since October 2023 says the central bank runs or oversees a national switch.",
+      "note": "The National Bank of Rwanda's March 2026 statement on the passporting MoU with the CBK applies to payment service providers each central bank licenses, so the CBK licenses providers: stage 3. No switch it runs or oversees is held, so not 4.",
+      "as_at": "2026-10-27"
     }
   ]
 }

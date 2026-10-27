@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NGA,centralbank,mandate,coverage,licensing,2026-10,NGA-001;NGA-006,,
 NGA,centralbank,switch,coverage,,,,,nothing held
-NGA,centralbank,regional,coverage,linked,2026-10-13,NGA-002;NGA-003;NGA-004;NGA-005,,
+NGA,centralbank,regional,coverage,live,2026-10-13,NGA-002;NGA-003;NGA-004;NGA-005;NGA-007,,

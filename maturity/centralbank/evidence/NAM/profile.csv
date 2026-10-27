@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NAM,centralbank,mandate,coverage,licensing,2026-07-29,NAM-001;NAM-004,,
 NAM,centralbank,switch,coverage,overseen,2026-06,NAM-002;NAM-003,,
-NAM,centralbank,regional,coverage,,,,,nothing held
+NAM,centralbank,regional,coverage,regional,2025-03-31,NAM-005,,

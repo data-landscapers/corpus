@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-05-egy-cbe-instant-inbound-remittances-primary",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Central Bank of Egypt says the national instant payments system, launched in March 2022 and sponsored by the central bank, lets customers of all banks transfer money instantly 24 hours a day.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "national instant payments system (IPN)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national instant payments system (IPN)",
+   "country_label": "IPN / InstaPay",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

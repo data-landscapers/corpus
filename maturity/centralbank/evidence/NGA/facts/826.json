@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-nga-cross-border-payments-22-nigerian-commercial-banks-join-papps-scheme",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "live",
+   "fact": "Nairametrics reports 22 Nigerian commercial banks fully onboarded on PAPSS in its May 2025 participant list, and that the Central Bank of Nigeria directed all banks to adopt PAPSS and begin originating transactions.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-08-mli-orange-finances-money-mali-et-terrapay-etablissent-un-partenariat-stra",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The TerraPay press release says Orange Finances Money Mali is an e-money institution licensed by the Central Bank of West African States (BCEAO), founded in 2015.",
+   "as_of": "2024-01-08",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 SYC,SEFT,Seychelles,other,Seychelles Electronic Funds Transfer,,,2024-09-22 Seychelles to phase out cheques for financial transactions from 2025
 SYC,Fusepay,Seychelles,oversight,B2B payments platform,Fusepay,,2025-11-27-dabafinance-fusepay-preseed
 SYC,Fusepay,Seychelles,other,"digital money accounts, instant payments, FuseCheq",Fusepay,,2025-11-14-fusepay-psp-licence-approval
+SYC,Seychelles Electronic Funds Transfer,SEFT,oversight,,Central Bank of Seychelles,,2025-07-30-syc-opening-remarks-by-ms-caroline-abel-governor-of-the-central-bank-of-se
+SYC,SADC-RTGS,SADC-RTGS,other,,SADC,,2025-07-30-syc-opening-remarks-by-ms-caroline-abel-governor-of-the-central-bank-of-se

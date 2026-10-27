@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-31-nam-bon-psdir-10-cross-border-low-value-eft-cma-tcib",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The Bank of Namibia's Directive PSDIR-10 of 31 March 2025 orders payment service providers to move low-value cross-border transfers within the Common Monetary Area from the SADC-RTGS arrangement to the TCIB scheme by 1 April 2027.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "TCIB",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

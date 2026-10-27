@@ -21,9 +21,9 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 | Stage | Countries |
 |---|---|
 | 5 Leading | 7 |
-| 4 Operating | 36 |
+| 4 Operating | 37 |
 | 3 Established | 9 |
-| 2 Nascent | 1 |
+| 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -281,6 +281,12 @@ The central bank oversaw a national payment switch in 2026; live participation i
 - BCEAO launched PI-SPI, the regional interoperable instant payment platform, on 30 September 2025, running 24/7; 80 participants were connected at 24 June 2026 ([source, 2026-06-24](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html)).
 - Financial Afrik says BCEAO operates the PI-SPI instant-payment system, with 19 Senegal institutions authorised on its list, the most in the Union ([source, 2026-02-24](https://www.financialafrik.com/en/2026/03/05/instant-payments-pi-spi-in-the-waemu-updated-list-of-establishments-authorized-by-the-bceao/)).
 
+### Seychelles: 4 Operating
+
+The central bank oversees interoperable interbank payment systems by 2025; whether the country is live on PAPSS is not known.
+
+- Governor Caroline Abel said Seychelles has achieved full interoperability among banks on its most used payment systems, the Seychelles Electronic Funds Transfer and the Electronic Cheque Clearing systems, under an Act governing the operation and oversight of national payment systems ([source, 2025-07-30](https://www.cbs.sc/Downloads/publications/Speeches/Opening%20Remarks%20by%20Governor%20Caroline%20Abel%20-SADC%20CCBG%20PSS%20and%20PSOC%20meetings.pdf)).
+
 ### Somalia: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
@@ -347,6 +353,12 @@ The central bank licensed payment providers in 2026; a national switch it overse
 - The National Bank of Ethiopia licenses ETTA's ZooryaPay as a Payment System Operator, per the Capital newspaper report ([source, 2026-10](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/)).
 - Directive 1069/2025 defines payment service providers as those licensed or authorized by the National Bank of Ethiopia to issue payment instruments, and requires federal public bodies to accept payments from all of them ([source, 2025-05-26](https://www.mofed.gov.et/media/filer_public/7e/a5/7ea5bf66-de9b-447d-b34d-8ca9667ddf50/1069_2017_yamanegesete_maseriyaa_beetoce_faqaade_katasathaacawe_yakefeyaa_agalegelote_sachiwoce_kefeyaa_yamiqabalubatene.pdf)).
 
+### Kenya: 3 Established
+
+The central bank licenses payment providers by 2026; a national switch it runs or oversees is not known.
+
+- In a speech published 13 March 2026, the National Bank of Rwanda says the passporting MoU applies to payment service providers licensed by their home supervisory authority, the central bank ([source, 2026-03-13](https://www.bis.org/speeches/20260313-signing-mou-between-central-bank-kenya-and-national-bank-rwanda)).
+
 ### Madagascar: 3 Established
 
 The central bank licensed payment providers in 2026; a national switch it oversees is not known.
@@ -358,13 +370,6 @@ The central bank licensed payment providers in 2026; a national switch it overse
 The central bank licensed payment providers in 2025; a national switch it oversees is not known.
 
 - The BCSTP, as regulator of the financial system, has since June 2023 been easing licensing requirements for payment institutions and bureaux de change, and eased some documentation requirements again for twelve months (communiqué of 20 January 2025) ([source, 2025-01-20](https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/)).
-
-### Seychelles: 3 Established
-
-The central bank licensed payment providers in 2025; a national switch it oversees is not known.
-
-- Daba Finance says Fusepay operates in Seychelles with a Payment Service Provider licence and central bank approval ([source, 2025-11](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform)).
-- The Central Bank of Seychelles gave Fusepay final approval to operate as a licensed Payment Service Provider ([source, 2025-11-14](https://www.fusepay.app/blog-posts/fusepay-receives-final-approval-to-operate-as-a-licensed-payment-service-provider-in-seychelles)).
 
 ### South Sudan: 3 Established
 
@@ -379,12 +384,6 @@ The central bank licensed payment providers in 2026; a national switch it overse
 
 - The Central Bank of Sudan says it licenses electronic payment system services providers, and it revoked Al-Asjad's licence on review by a technical and legal committee ([source, 2026-07-04](https://sudantribune.net/article/315827)).
 - The Central Bank of Sudan announced revocation of Al-Asjad's licence to provide electronic payment system services, and says licences are conditional on continuing compliance with its published standards and need its written approval for integration ([source, 2026-07-04](https://sudanhorizon.com/cbos-officially-revokes-al-asjad-companys-license-following-review/)).
-
-### Kenya: 2 Nascent
-
-The central bank's payments mandate was being set up in 2026; no licensing is on record.
-
-- The Central Bank of Kenya says it and the National Treasury developed a draft National Payment System Policy and a National Payment System Bill, 2026, which would repeal the National Payment System Act Cap. 491A ([source, 2026-09-21](https://www.centralbank.go.ke/2026/09/21/draft-national-payment-system-policy-and-national-payment-system-bill-2026/)).
 
 ### Uganda: Unplaced
 

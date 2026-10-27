@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-26-zaf-techcabal-sarb-non-bank-access-fintech-payments",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "TechCabal reports that the South African Reserve Bank published a May 2026 draft framework for non-bank payment and e-money authorisation, with a final authorisation framework planned by end November 2026 per Governor Kganyago.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SARB authorisation framework",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

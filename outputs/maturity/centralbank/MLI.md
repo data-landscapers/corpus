@@ -2,7 +2,7 @@
 
 ## Governance role of central bank
 
-**Licensing providers.** [Bénin Web TV reports, from the BCEAO list, that Mali has two licensed payment institutions at 31 August 2026](<https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/>). 8 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Licensing providers.** [Bénin Web TV reports, from the BCEAO list, that Mali has two licensed payment institutions at 31 August 2026](<https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/>). Orange Finances Money Mali is [an e-money institution licensed by the BCEAO](<https://www.prnewswire.com/news-releases/orange-finances-money-mali-et-terrapay-etablissent-un-partenariat-strategique-pour-des-paiements-transfrontaliers-fluides-302028891.html>), per a January 2024 release.
 
 **Overseeing a switch.** [The BCEAO list says the BCEAO builds and runs PI-SPI, an instant payment switch serving Mali](<https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf>). [BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Mali, launched 30 September 2025 with 175 connected participants a year later](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>).
 

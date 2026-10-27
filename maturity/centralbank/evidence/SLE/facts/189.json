@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-21-sle-sierra-leone-pushes-cash-lite-economy-as-digital-payments-surge",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Bank of Sierra Leone runs the Salon Payment Switch, now including all commercial banks, and an Instant Payment System, as the bank's National Switch Department head says.",
+   "as_of": "2026-01-21",
+   "date_precision": "day",
+   "system": "Salon Payment Switch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Salon Payment Switch",
+   "country_label": "Sierra Leone",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  },
+  {
+   "system": "Instant Payment System (IPS)",
+   "country_label": "Sierra Leone",
+   "class": "other",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

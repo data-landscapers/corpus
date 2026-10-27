@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-01-lby-gnu-starts-paying-public-sector-wages-through-new-treasury-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Instant Salary",
+   "country_label": "Instant Salary",
+   "class": "other",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": "The Central Bank of Libya operates Instant Salary, but the document does not call it a national switch or give a licensing or oversight role."
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-EGY,centralbank,mandate,coverage,licensing,2026-09-09,EGY-008;EGY-010,,
-EGY,centralbank,switch,coverage,overseen,2026-09-09,EGY-002;EGY-007;EGY-009,,
-EGY,centralbank,regional,coverage,linked,2024-11,EGY-003;EGY-004;EGY-005,,
+EGY,centralbank,mandate,coverage,licensing,2026-09-09,EGY-008;EGY-010;EGY-011,,
+EGY,centralbank,switch,coverage,overseen,2026-09-09,EGY-002;EGY-007;EGY-009;EGY-012,,
+EGY,centralbank,regional,coverage,joined,2024-11,EGY-003;EGY-004;EGY-005,,

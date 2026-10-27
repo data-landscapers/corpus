@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "3",
+      "stage": "4",
       "mandate": "licensing",
-      "switch": "",
+      "switch": "overseen",
       "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SYC-001;SYC-002",
-      "gaps": "No source held since October 2023 says the central bank runs or oversees a national switch.",
-      "note": "The Central Bank of Seychelles gave Fusepay final approval as a licensed payment service provider in November 2025. No switch is held.",
-      "as_at": "2026-10-24"
+      "stage_sources": "SYC-003",
+      "gaps": "No source held since October 2023 says the country is live on PAPSS.",
+      "note": "The governor said in July 2025 that banks interoperate fully on SEFT and cheque clearing under the payment systems oversight Act, so the central bank oversees a switch in service: stage 4. Cross-border payments run on SADC-RTGS, which does not answer rung 5.",
+      "as_at": "2026-10-27"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-14-ken-safaricom-enables-m-pesa-transfers-between-kenya-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Connecting Africa reports that Safaricom Ethiopia was given a Payment Instrument Issuer licence by the National Bank of Ethiopia, three months before M-Pesa went live in August 2023.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Payment Instrument Issuer licence",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

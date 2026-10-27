@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,centralbank,mandate,coverage,licensing,2026-08-31,MLI-004,,
+MLI,centralbank,mandate,coverage,licensing,2026-08-31,MLI-004;MLI-009,,
 MLI,centralbank,switch,coverage,overseen,2026-09,MLI-001;MLI-005;MLI-007,,
-MLI,centralbank,regional,coverage,linked,2026-09,MLI-002;MLI-003;MLI-006;MLI-008,,
+MLI,centralbank,regional,coverage,regional,2026-09,MLI-002;MLI-003;MLI-006;MLI-008,,

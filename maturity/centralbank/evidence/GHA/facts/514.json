@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-16-gha-bog-grants-zeepay-approval-for-outbound-money-transfer-within-the-regu",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Zeepay says it is regulated by the Bank of Ghana under licence #00001 and has Bank of Ghana approval for outbound transfers in its regulatory sandbox.",
+   "as_of": "2024-05-16",
+   "date_precision": "day",
+   "system": "Bank of Ghana regulatory sandbox",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

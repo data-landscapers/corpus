@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-19-lby-cbl-circular-6-2026-direct-foreign-remittances-arabic",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Central Bank of Libya Circular 6 of 2026 authorises exchange companies it has licensed to carry out direct foreign remittances for firms and small traders, up to USD 100,000 a transfer and USD 300,000 a year per firm, with banks executing the SWIFT transfer.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "Circular 6 of 2026 direct foreign remittances",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

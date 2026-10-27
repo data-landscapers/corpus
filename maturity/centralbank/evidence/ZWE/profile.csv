@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZWE,centralbank,mandate,coverage,drafting,2026-06-30,ZWE-002,,
 ZWE,centralbank,switch,coverage,,,,,nothing held
-ZWE,centralbank,regional,coverage,linked,2026-10,ZWE-001,,
+ZWE,centralbank,regional,coverage,live,2026-10,ZWE-001;ZWE-004,,

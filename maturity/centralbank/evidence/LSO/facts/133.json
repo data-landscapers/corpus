@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-01-lso-report-of-the-portfolio-committee-on-the-economic-and-development-clus",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "drafting",
+   "fact": "The Ministry of Finance told Lesotho's parliamentary committee that the Payment Systems Bill, presented 2 May 2025, would give the Central Bank of Lesotho powers to supervise national payment systems and license non-bank payment entities.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "Payment Systems Bill, 2025",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

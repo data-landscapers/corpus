@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Africa Report says Wave holds an e-money issuer licence granted by the BCEAO in Senegal.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "BCEAO e-money issuer licensing",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

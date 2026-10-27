@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SLE,centralbank,mandate,coverage,,,,,nothing held
-SLE,centralbank,switch,coverage,overseen,2025-11-05,SLE-001;SLE-003,,
-SLE,centralbank,regional,coverage,linked,2025-05,SLE-002,,
+SLE,centralbank,switch,coverage,overseen,2026-01-21,SLE-001;SLE-003;SLE-004,,
+SLE,centralbank,regional,coverage,live,2025-05,SLE-002,,
