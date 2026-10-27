@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: XAF
-ledger_rows: 120
+ledger_rows: 123
 not_held: 3
-record: 6215e0d77b20
+record: 3caaa33e7fef
 ---
 
 # News, Sep – Oct 2026
@@ -870,6 +870,20 @@ A pre-FIFAfrica dialogue convened by the Global Center on AI Governance, Digital
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AfriScience-MT parallel science corpus</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfriScience-MT: Towards Decolonizing Science in Africa through Text Translation](https://aclanthology.org/2026.emnlp-main.757.pdf)** — Association for Computational Linguistics, 1 October 2026
+
+Parallel science corpus in six African languages, 11 domains; closed models lead, fine-tuned NLLB within 1 COMET.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">ATLAS Umoja AI policy workstream (AUDA-NEPAD)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1298,6 +1312,20 @@ Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cros
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COMESA Electronic Certificate of Origin (e-CO)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[FINAL COMMUNIQUÉ OF THE TWENTY FIFTH SUMMIT OF THE COMESA AUTHORITY OF HEADS OF STATE AND GOVERNMENT](https://www.comesa.int/final-communique-of-the-twenty-fifth-summit-of-the-comesa-authority-of-heads-of-state-and-government/)** — COMESA, 26 October 2026
+
+Harare, 22 Oct 2026; Digital Retail Payment Platform after Malawi-Zambia pilot; e-CO live in six states.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -1640,6 +1668,22 @@ Airtel Money began conditional trading on the London Stock Exchange on 9 October
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Mobile Commerce N.V., Results for the half year ended 30 September 2026](https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/half-year-financial-results/9839984)** — Airtel Mobile Commerce N.V. (Airtel Money), 26 October 2026
+
+First results as listed company; revenue USD 830m (+34%), 56.7m customers, TPV USD 270bn annualised.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Money Revenue Rises 34% to $830 Million in First Half of FY2027](https://techafricanews.com/2026/10/26/airtel-money-revenue-rises-34-percent-first-half-fy2027/)** — Tech Africa News, 26 October 2026
+
+H1 to 30 Sep 2026: 56.7m customers, annualised TPV USD 270bn, 2.4m agents; first results since London listing.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1759,6 +1803,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Expanding RMB payments, financing in Africa](https://www.chinadaily.com.cn/a/202610/22/WS6ad97f1ce4b06d4aa05642ef.html)** — China Daily, 22 October 2026
 
 ICBC and Standard Bank Group, authorised in June as joint renminbi clearing bank for Africa, announced ten measures in Beijing on 19 October to expand RMB payments, financing and clearing on the continent. They include an interbank financing facility of more than RMB 10 billion for African financial institutions, wider coverage of China's CIPS payment system among African institutions and a guide to using the RMB in 19 African countries; China's central bank said RMB flows tied to China-Africa goods trade rose 40% in 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COMESA digital retail payments platform</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[FINAL COMMUNIQUÉ OF THE TWENTY FIFTH SUMMIT OF THE COMESA AUTHORITY OF HEADS OF STATE AND GOVERNMENT](https://www.comesa.int/final-communique-of-the-twenty-fifth-summit-of-the-comesa-authority-of-heads-of-state-and-government/)** — COMESA, 26 October 2026
+
+Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
