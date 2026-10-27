@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-06-swz-eswatini-pushes-for-full-implementation-of-wto-trade-facilitation-agre",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Trade Minister Manqoba Khumalo, reported by the Eswatini Observer, cites the Business One-Stop Shop (BOSS) initiative as streamlining business registration, licensing, taxation and trade facilitation.",
+   "as_of": "2025-08-06",
+   "date_precision": "day",
+   "system": "Business One-Stop Shop (BOSS)",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BOSS",
+   "country_label": "Business One-Stop Shop",
+   "class": "business",
+   "platform": "",
+   "owner": "Ministry of Commerce, Industry and Trade",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

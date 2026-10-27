@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,business,registration,coverage,inservice,2026-02-09,NGA-003;NGA-005,NGA-004=underway,
-NGA,business,shared,coverage,shared,2024-04,NGA-006,,
-NGA,business,owners,coverage,recorded,2026-09-15,NGA-001;NGA-002,,
+NGA,business,registration,coverage,inservice,2026-02-09,NGA-003;NGA-005,,
+NGA,business,shared,coverage,,,,,nothing held
+NGA,business,owners,coverage,partial,2026-09-15,NGA-001;NGA-002,,
