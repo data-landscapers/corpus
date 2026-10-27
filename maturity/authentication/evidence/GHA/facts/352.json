@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National Identification Authority says its database was linked on 10 January 2024 to the Controller and Accountant General Department's payroll, with real-time validation and verification of employees' Ghana Card identities through biometric verification centres.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "NIA database integration with the Mechanized Payroll System",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card verification (NIA)",
+   "country_label": "National Identification System",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

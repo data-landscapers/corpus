@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-zaf-smart-id-delays-exclusion",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Home Affairs digital ID plan has recently reached a trial of the MyMzanzi app, and the digital ID has been publicly trialled, according to the Business Day opinion piece by Research ICT Africa's Drew Haller.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "MyMzanzi app",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MyMzanzi app",
+   "country_label": "MyMzanzi",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

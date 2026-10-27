@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,authentication,service,coverage,inservice,2026-07-20,ZAF-001;ZAF-003;ZAF-004;ZAF-005;ZAF-008;ZAF-010;ZAF-012;ZAF-014;ZAF-020;ZAF-022;ZAF-024,ZAF-017=underway;ZAF-018=underway;ZAF-023=underway;ZAF-011=underway;ZAF-006=underway;ZAF-016=underway;ZAF-019=underway;ZAF-009=underway;ZAF-021=underway,
+ZAF,authentication,service,coverage,inservice,2026-07-20,ZAF-001;ZAF-003;ZAF-004;ZAF-005;ZAF-008;ZAF-010;ZAF-012;ZAF-014;ZAF-020;ZAF-022;ZAF-024,ZAF-026=underway;ZAF-017=underway;ZAF-018=underway;ZAF-023=underway;ZAF-011=underway;ZAF-006=underway;ZAF-016=underway;ZAF-019=underway;ZAF-009=underway;ZAF-021=underway,
 ZAF,authentication,reach,coverage,several,2026-07-20,ZAF-002;ZAF-007;ZAF-013;ZAF-015;ZAF-025,,
 ZAF,authentication,remote,coverage,,,,,nothing held

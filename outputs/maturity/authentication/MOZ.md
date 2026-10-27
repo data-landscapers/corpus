@@ -8,6 +8,6 @@
 
 **Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://www.oeconomico.com/governo-reforca-estrategia-de-digitalizacao-com-500-assinaturas-electronicas-e-expansao-da-infra-estrutura-tecnologica/>).
 
-***Noted, not assessed***. [Bilhete de Identidade (BI)](<https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/>); [National identity card (DNIC)](<https://www.biometricupdate.com/202607/mozambique-approves-new-national-id-framework-to-speed-card-issuance>).
+***Noted, not assessed***. [Bilhete de Identidade (BI)](<https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/>); [National identity card (DNIC)](<https://www.biometricupdate.com/202607/mozambique-approves-new-national-id-framework-to-speed-card-issuance>); [Centro Pronto](<https://clubofmozambique.com/news/mozambique-centro-pronto-document-application-service-to-expand-to-diaspora/>).
 
 ***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.

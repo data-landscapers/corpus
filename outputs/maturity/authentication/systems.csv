@@ -282,6 +282,7 @@ GHA,Ghana Card,Ghana,other,,National Identification Authority,,2025-11-12-gha-bo
 GHA,NIA Identity Verification System Platform (IVSP),Ghana,authentication,,National Identification Authority,,2025-07-16-gha-institutions-urged-to-use-nia-ivsp-for-authentic-ghana-card-verificati
 GHA,NIA personal verification system platform,Ghana,authentication,,National Identification Authority,,2024-02-02-gha-191-financial-institutions-now-have-seamless-access-to-national-identi
 GHA,CitizenApp Data Interoperability System (CADIS),Ghana,authentication,"mobile app, described as blockchain-based",Office of the President with the Ghana Revenue Authority,,2024-10-08-gha-ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-service
+GHA,Ghana Card verification (NIA),National Identification System,authentication,,National Identification Authority,,2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver
 GIN,fichier électoral biométrique (DGE),Guinea,other,,DGE,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national des personnes physiques (RNPP),Guinea,other,,ONECI,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national d'identité (RNPP),Guinea,other,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
@@ -384,6 +385,7 @@ MOZ,Sistema de Certificacao Digital de Mocambique (SCDM),Mozambique,authenticati
 MOZ,Sistema de Certificacao Digital de Mocambique,SCDM,authentication,,,,2025-08-28-moz-mctd-e-eurocam-celebram-memorando-de-entendimento
 MOZ,Sistema de Certificação Digital de Moçambique (SCDM),MOZ,authentication,PKI,INTIC,State Root CA; second-level CAs in preparation,2025-07-04-moz-comite-gestor-do-sistema-de-certificacao-digital-de-mocambique-aprova
 MOZ,Sistema de Certificacao Digital de Mocambique (SCDM),SCDM,authentication,assinadoravancado.gov.mz; built with Brazil's LabSEC under a 2022 MoU,INTIC,,2025-01-14-moz-sistema-de-certificacao-digital-mocambique-registou-crescimento-na-ade
+MOZ,Centro Pronto,Mozambique,other,VFS Global partnership,ATDI,,2026-10-26-moz-centro-pronto-document-application-service-to-expand-to-diaspora
 MRT,Houwiyeti,Mauritania,other,mobile app,ANRPTS,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Khadamati,Mauritania,other,app,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Private financial applications (unnamed),Mauritania,other,,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
@@ -786,6 +788,7 @@ ZAF,MyMzansi,ZAF,authentication,mobile app,Department of Home Affairs,,2026-10-2
 ZAF,PEMKey,ZAF,other,,South African Reserve Bank,,2026-10-22-zaf-digital-id-could-change-how-you-pay
 ZAF,National Population Register,National Population Register,other,,Department of Home Affairs,,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system
 ZAF,Home Affairs digital verification service,Home Affairs verification service,authentication,,Department of Home Affairs,,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system
+ZAF,MyMzanzi app,MyMzanzi,authentication,,Department of Home Affairs,,2026-10-26-zaf-smart-id-delays-exclusion
 ZMB,FISP e-Voucher,Zambia,other,,Ministry of Agriculture,,2026-01-28-zambia-fisp-e-voucher-pdu
 ZMB,SmartCarePro Electronic Health Record System,Zambia,other,MOSIP integration,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
 ZMB,MOSIP-based eKYC system,Zambia,other,MOSIP,SMART Zambia,,2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration
