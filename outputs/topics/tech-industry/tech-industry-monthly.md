@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: tech.industry
 places: DZA; AGO; EGY; SWZ; GHA; KEN; MDG; MUS; MOZ; NGA; SEN; ZAF; TZA; UGA
-record: 342e8958d318
+record: 920e285e48dc
 ---
 
 # News, Sep – Oct 2026

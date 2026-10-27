@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: gov.policy
 places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 4e47c3a0c8b5
+record: 6733dddd70f4
 ---
 
 # News, Sep – Oct 2026

@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: dpi.exchange
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GNB; KEN; LSO; LBR; MWI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: efa7e3330148
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GNB; KEN; LSO; LBR; MWI; MLI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c00158e1bd10
 ---
 
 # News, Sep – Oct 2026
@@ -49,6 +49,8 @@ record: efa7e3330148
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -357,6 +359,20 @@ The Republic of Congo's digital economy ministry set out a national digital publ
 </div>
 
 ## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs system interconnection with Mali</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[COOPERATION BILATERALE : La Côte d'Ivoire et le Mali ont évalué la mise en œuvre du SIGMAT](https://apps.douanes.ci/info/cooperation-bilaterale)** — Douanes Ivoiriennes, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a>
+
+Ivorian and Malian customs project teams met in Abidjan on 24-25 September 2026 to review SIGMAT, the interconnected transit-goods system on the Abidjan-Bamako corridor, now in its operating phase. They adopted a joint roadmap with an action matrix to correct the difficulties that persist.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -908,6 +924,22 @@ The head of Malawi's communications regulator MACRA, Mayamiko Nkoloma, urged pub
 
 </div>
 
+## Mali
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs systems interconnection for goods in transit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[COOPERATION BILATERALE : La Côte d'Ivoire et le Mali ont évalué la mise en œuvre du SIGMAT](https://apps.douanes.ci/info/cooperation-bilaterale)** — Douanes Ivoiriennes, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+Ivorian and Malian customs project teams met in Abidjan on 24-25 September 2026 to review SIGMAT, the interconnected transit-goods system on the Abidjan-Bamako corridor, now in its operating phase. They adopted a joint roadmap with an action matrix to correct the difficulties that persist.
+
+</div>
+
+</div>
+
 ## Mauritania
 
 <div class="monthly-story" markdown="1">
@@ -1319,6 +1351,20 @@ Customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe
 **[VAT Connect Issue 21 (September 2026)](https://www.sars.gov.za/businesses-and-employers/my-business-and-tax/vat-connect-issue-21-september-2026/)** — South African Revenue Service, 8 September 2026
 
 The South African Revenue Service confirmed in VAT Connect Issue 21 on 8 September 2026 that the VAT Act now defines e-invoice, e-credit note, e-debit note, interoperability framework and e-reporting, in force from 1 April 2026 under the Tax Administration Laws Amendment Act 4 of 2026. The finance minister may prescribe a voluntary e-reporting system by regulation. No commencement date for those regulations is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Single Window for trade</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[No completion date for SA's 'single window'](https://www.freightnews.co.za/article/no-completion-date-for-sas-single-window)** — Freight News, 8 September 2026
+
+SARS told Freight News it cannot give a completion date for South Africa's National Single Window, which is being phased in across the agencies that regulate cross-border trade, nor list the agencies already integrated. An electronic inspection workflow shared with the Border Management Authority has run since September 2023, with selected plant importers testing it.
 
 </div>
 

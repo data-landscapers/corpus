@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 05a7b491b243
+record: 2e7e292483ea
 ---
 
 # News, Sep – Oct 2026
@@ -871,6 +871,14 @@ Digital Parks Africa announced Nigeria Data Centre 1, a carrier-neutral facility
 **[AFRIDATA Nigeria Data Center Feasibility Study (USTDA business opportunity, request for proposals)](https://ustda.gov/business_opp_oversea/afridata-nigeria-data-center-feasibility-study/)** — U.S. Trade and Development Agency (USTDA), 15 September 2026
 
 The US Trade and Development Agency has granted US$1,870,000 to Infragora Global Capital for a feasibility study of two data centres in Nigeria's Lagos and Delta states, with 60–70 MW of combined capacity expandable to 100 MW. US firms are invited to bid by 13 October 2026. The centres would be owned by AFRIDATA Datacenter Nigeria Ltd, a company formed for the project.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria to get two new AI-ready data centres in a $1 billion investment](https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/)** — TechCabal, 26 October 2026
+
+Infragora Global Capital plans to start building two AI-ready AFRIDATA data centres in Nigeria in the second and third quarters of 2027, a project it puts at $650 million to $1 billion, with financial close still to come. The centres would run on a dedicated 160-200 MW gas, renewable and battery plant.
 
 </div>
 

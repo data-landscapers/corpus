@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b0a3eb451dd8
+record: b18ece23367d
 ---
 
 # News, Sep – Oct 2026
@@ -438,6 +438,20 @@ Orange Cameroon has closed its Orange Money Afrique app and moved its mobile mon
 **[Cameroun : Konoom obtient son agrément et se lance sur le marché du paiement mobile](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile)** — Agence Ecofin, 17 September 2026
 
 Cameroon has licensed Konoom Cameroun as its third payment institution, after Orange Money and MTN's Mobile Money Corporation, by finance ministry order 681 of 21 July 2026, announced on 17 September. Konoom plans transfers, bill and tax payments and merchant payments by phone. It has operated in Chad since December 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Inbound international transfers to mobile wallets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigerian Fintech Grey Opens Direct Transfers to MTN MoMo and Orange Money in Cameroon](https://www.businessincameroon.com/finance/2509-16831-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-money-in-cameroon)** — Business in Cameroon, 25 September 2026
+
+Nigerian fintech Grey opened a corridor sending CFA francs from dollar, euro or sterling balances straight to MTN Mobile Money and Orange Money wallets in Cameroon, at $1.80 a transfer. BEAC figures put Cameroon at 30.99 million of CEMAC's 51.28 million mobile money accounts in 2024.
 
 </div>
 
@@ -2319,6 +2333,20 @@ Onafriq had been negotiating the sale of Baxi, its Nigerian agent-banking busine
 **[The hurdles facing contactless payment adoption across Nigeria](https://techcabal.com/2026/10/16/hurdles-facing-contactless-payments/)** — TechCabal, 16 October 2026
 
 This TechCabal feature asks why tap-to-pay has not caught on in Nigeria although electronic payments are widespread, starting from CashAfrica's 13 October rollout of mobile tap-to-pay across more than 350 Chicken Republic outlets. It sets that against earlier attempts such as PayAttitude in 2015 and Access Bank's Tap to Phone in 2025, and against the Lagos transport Cowry card, which works because tapping is built into boarding.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">OPay Direct Debit for international merchants</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EBANX Integrates OPay Direct Debit for Global Subscription Payments in Nigeria](https://techafricanews.com/2026/10/26/ebanx-opay-direct-debit-global-subscription-payments-nigeria/)** — Tech Africa News, 26 October 2026
+
+EBANX became the first international payments provider to offer OPay Direct Debit, so global subscription merchants can collect recurring payments from Nigerian consumers through the OPay wallet. OPay claims 40 million monthly active users.
 
 </div>
 

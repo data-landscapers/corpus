@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: ed68cdc91a5d
+record: f291b1d739e6
 ---
 
 # News, Sep – Oct 2026
@@ -1129,6 +1129,20 @@ Rwanda is introducing cybersecurity courses in technical and vocational educatio
 **[MTN Rwanda signs cybersecurity MoU with National Cyber Security Authority](https://techreviewafrica.com/news/7886/mtn-rwanda-signs-cybersecurity-mou-with-national-cyber-security-authority)** — Tech Review Africa, 22 October 2026
 
 MTN Rwanda signed a memorandum of understanding with the National Cyber Security Authority to support cybersecurity and data-protection skills training through the CyberHub Academy and Innovation Centre. No value or duration was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Rwanda and cyber security authority CyberHub partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda cyber authority boosts security with Airtel, MTN](https://www.connectingafrica.com/cybersecurity/rwanda-cyber-authority-boosts-security-with-airtel-mtn)** — Connecting Africa, 26 October 2026
+
+Rwanda's National Cyber Security Authority partnered with Airtel Rwanda to support the University of Rwanda's CyberHub with student internships, alongside an MoU with MTN Rwanda. No value or term was stated.
 
 </div>
 

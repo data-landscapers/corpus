@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: digital.localgov
-places: BDI; CMR; TCD; COD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
-record: 5791e36abc43
+places: BDI; CMR; TCD; COD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
+record: e8f12e7dd913
 ---
 
 # News, Sep – Oct 2026
@@ -37,6 +37,8 @@ record: 5791e36abc43
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -467,6 +469,22 @@ Senegal's state digital company Sénégal Numérique SA describes TeleDAc, its o
 
 </div>
 
+## Somalia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial Management Information System rollout to member states</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PFM Smart Signs Contract with the Federal Government of Somalia to Enhance and Roll Out the SFMIS Across Federal Member States](https://pfmsmartsys.com/en/news/pfm_smart_signs_contract_with_the_federal_government_of_somalia_to_enhance_and_roll_out_the_sfmis_across_federal_member_states)** — PFM Smart Systems, 8 September 2026
+
+PFM Smart signed a contract with Somalia's finance ministry to upgrade the SFMIS financial management system and roll it out to Jubbaland, South West, Galmudug and Hirshabelle, migrating them off the BISAN platform. The upgrade covers budgeting, commitments, procurement, treasury, revenue and reporting, and links SFMIS to the HRMIS and the ITAS tax system.
+
+</div>
+
+</div>
+
 ## South Africa
 
 <div class="monthly-story" markdown="1">
@@ -564,6 +582,20 @@ South Sudan's Juba City Council, at its first executive meeting under caretaker 
 </div>
 
 ## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wafi resource-management system, Northern State</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[أمين عام حكومة الشمالية يبحث استعادة أنظمة وزارة المالية وتعزيز التحول الرقمي](https://www.suna.sd/posts/amyn-aaam-hkom-alshmaly-ybhth-astaaad-anthm-ozar-almaly-otaazyz-althol-alrkmy)** — وكالة السودان للأنباء (سونا), 5 October 2026
+
+Sudan's Northern State met the National Technology Company on 5 October 2026 to restore the finance ministry's Wafi resource-management system, in use since 2017 and stopped by the war in 2023. The state says next year's budget will run through the system, with procurement, stores and budget modules to follow.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 

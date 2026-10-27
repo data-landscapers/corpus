@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 8720bd20b8e5
+record: 2a990526a062
 ---
 
 # News, Sep – Oct 2026
@@ -1037,6 +1037,14 @@ Ethio Telecom is to expand its 4G network from 6,924 to 11,014 sites in 2026/27 
 **[Ethio Telecom Targets 96.2 Million Customers, ETB 295 Billion Revenue in 2026/27](https://techafricanews.com/2026/09/04/ethio-telecom-targets-96-2-million-customers-etb-295-billion-revenue-in-2026-27/)** — TechAfrica News, 4 September 2026
 
 Ethio Telecom set 2026/27 targets of 96.2 million customers and ETB 295 billion revenue in its annual business plan, the second year of its Next Horizon strategy. The plan raises 4G capacity from 22.79 million to 35.31 million subscribers and 4G population coverage from 82.23% to 95%, 5G sites from 340 to 648 and 5G towns from 33 to 73, backbone fibre from 23,442 km to 25,642 km and gateway capacity from 4.3 Tbps to 5.2 Tbps, with telebirr targeted at 67.69 million customers.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethio Telecom Extends 4G LTE Coverage to 80 More Towns](https://techafricanews.com/2026/10/26/ethio-telecom-extends-4g-lte-coverage-80-towns/)** — Tech Africa News, 26 October 2026
+
+Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targets 4G population coverage of 95%, from 82.23%, across 1,500 towns.
 
 </div>
 

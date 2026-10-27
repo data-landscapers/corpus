@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: include.divides
-places: AGO; BFA; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
-record: f68f7ea92bbe
+places: AGO; BFA; CPV; TCD; COD; EGY; SWZ; ETH; GMB; GHA; GNB; KEN; MDG; MAR; NGA; RWA; SOM; ZAF; TZA; UGA; ZMB
+record: 6ee638a67808
 ---
 
 # News, Sep – Oct 2026
@@ -23,6 +23,8 @@ record: f68f7ea92bbe
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -240,6 +242,22 @@ A magazine account of the same Eswatini pilot of Smart Africa's gender impact as
 **[Minister Savannah vows to continue advocating for women In tech](https://independentnews.co.sz/49218/news/minister-savannah-vows-to-continue-advocating-for-women-in-tech/)** — Independent News Eswatini, 7 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a>
 
 Eswatini's ICT ministry and Smart Africa opened a workshop on 7 October to develop and pilot gender impact assessment tools for digital policy, with Eswatini and The Gambia as pilot countries. Three instruments are to be tested on selected digital policies before validation.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Human rights commission digital inclusion monitoring toolkit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Strengthening Digital Rights for Persons with Disabilities and Older Persons](https://cipesa.org/2026/10/strengthening-digital-rights-for-persons-with-disabilities-and-older-persons/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 23 October 2026
+
+The Ethiopian Human Rights Commission is adding the digital rights of persons with disabilities and older persons to its monitoring mandate. It presented a draft digital-inclusion monitoring toolkit at a CIPESA-facilitated staff workshop on 21-22 September 2026.
 
 </div>
 

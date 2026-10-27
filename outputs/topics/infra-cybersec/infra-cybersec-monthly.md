@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: infra.cybersec
 places: BEN; BFA; CMR; CPV; TCD; COM; CIV; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 70d5e5472296
+record: f7ff40c57362
 ---
 
 # News, Sep – Oct 2026

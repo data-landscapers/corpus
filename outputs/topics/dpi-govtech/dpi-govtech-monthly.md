@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4f4a22c4ee49
+record: 248245243b64
 ---
 
 # News, Sep – Oct 2026
@@ -841,6 +841,14 @@ DR Congo's foreign minister, Thérèse Kayikwamba Wagner, and digital economy mi
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[RDC: le gouvernement relance le processus e-visa, l’évaluation des offres prévue début 2027](https://actualite.cd/2026/10/25/rdc-le-gouvernement-relance-le-processus-e-visa-levaluation-des-offres-prevue-debut-2027)** — ACTUALITE.CD, 25 October 2026
+
+DR Congo relaunched its e-visa reform with a new competitive selection of a provider, after cancelling a June 2024 concession found gravely deficient. Workshops in mid-November 2026 will revise the specifications and pricing, and bids are to be evaluated in early 2027.
+
+</div>
+
 </div>
 
 ## Egypt
@@ -1237,6 +1245,14 @@ Gabon's postal company presented Akiba, an application built and hosted in Gabon
 **[Ministère de la Fonction Publique et du Renforcement des Capacités - Accélération des préparatifs de mise en œuvre du Système Intégré de Gestion des Ressources Humaines - Ministère de la Fonction Publique et du Renforcement des Capacités](https://fonction-publique.gouv.ga/2-actualites/3402-acceleration-des-preparatifs-de-mise-en-oeuvre-du-systeme-integre-de-gestion-des-ressources-humaines/)** — Ministère de la Fonction Publique et du Renforcement des Capacités (Gabon), 13 October 2026
 
 Gabon's civil-service ministry reviewed technical preparations for an integrated human resources management system and named the procurement tender as the next step. The platform, under a World Bank-supported project, is to hold one register of state employees linked to payroll, budget and national identification.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fonction publique : 5,38 milliards de FCFA pour accélérer la modernisation en 2027](https://www.gabonreview.com/fonction-publique-538-milliards-de-fcfa-pour-accelerer-la-modernisation-en-2027/)** — GabonReview, 26 October 2026
+
+Gabon's civil-service ministry asked parliament for FCFA 5.38bn for 2027, excluding staff costs, to digitise five procedures, bring 150 processing stations into service and deploy the SIGRH human-resources system. Only 32% of its 2026 envelope had been executed by end-October.
 
 </div>
 
@@ -2795,6 +2811,22 @@ South Africa's Home Affairs smart ID service is available at more than 500 bank 
 
 
 
+<div class="bulletin-item" markdown="1">
+
+**[Home Affairs milestone on one million Smart IDs delivered in seven months](https://www.gov.za/news/media-statements/home-affairs-milestone-one-million-smart-ids-delivered-seven-months-26-oct)** — South African Government (Department of Home Affairs), 26 October 2026
+
+Home Affairs says 1,002,773 South Africans have applied for replacement Smart IDs at 669 bank branches in just over seven months, a fully digital, biometric process, with passports, first-time IDs and home delivery to follow. The green ID book stops being produced on 31 March 2027 and loses validity a year later.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister hails 'Home Affairs @home' milestone](https://www.timeslive.co.za/news/south-africa/2026-10-26-minister-hails-home-affairs-home-milestone/)** — TimesLIVE (Sunday Times), 26 October 2026
+
+Minister Leon Schreiber hailed more than one million replacement Smart ID applications at bank branches through Home Affairs @home in seven months. Passport and first-time ID applications with home delivery are to follow at over 1,000 branches.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -3348,6 +3380,20 @@ The Uganda Police Force said it will introduce an AI chatbot giving the public g
 **[UPPC opens free digital access to the Uganda Gazette](https://uppc.go.ug/news/uppc-opens-free-digital-access-uganda-gazette)** — Uganda Printing and Publishing Corporation (UPPC), 7 October 2026
 
 The Uganda Printing and Publishing Corporation, the government printer, announced on 7 October 2026 that the E-Gazette is now free to the public on its website. Gazette editions back to 1902 have been digitised, and its 2023–2028 strategic plan aims to digitise 80% of its products and systems by 2028.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NGO Bureau online registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NGO Bureau to automate registration and service deliv](https://www.newvision.co.ug/category/news/ngo-bureau-to-automate-registration-and-servi-NV_242915_102026)** — New Vision, 24 October 2026
+
+Uganda's National Bureau for NGOs plans to move registration, document submission and payment online, with online registration expected by the end of the financial year. The interior ministry is preparing a platform for agencies handling NGO matters to share information.
 
 </div>
 

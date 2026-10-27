@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 16eacff49809
+record: 5426be74b6c2
 ---
 
 # News, Sep – Oct 2026
@@ -195,6 +195,20 @@ Angola's President João Lourenço authorised spending of 90.5 billion kwanzas, 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated civil-service HR management system (SINGERH)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola: Presidente anuncia lançamento do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH)](https://www.africa-newsroom.com/press/angola-presidente-anuncia-lancamento-do-singerh?lang=pt)** — APO Group, for Ministério da Administração Pública, Trabalho e Segurança Social, 15 October 2026
+
+President João Lourenço said Angola is implementing SINGERH, an integrated human-resources management system for the civil service. He placed it within a digitisation of the administration built on interoperability, digital identity, public key infrastructure and electronic signatures.
+
+</div>
+
+</div>
+
 ## Benin
 
 <div class="monthly-story" markdown="1">
@@ -286,6 +300,20 @@ Burkina Faso's security minister, Mahamadou Sana, presented his ministry's recor
 </div>
 
 ## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic cargo tracking system and regional command centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'interfaçage des Systèmes de Suivi Electronique des Cargos pour la sécurité et la sûreté des Biens ou des Marchandises](https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises)** — Office Burundais des Recettes, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+Tanzanian and Burundian revenue officials met at the OBR on 22 September 2026 to work on linking their electronic cargo tracking systems on the Northern Corridor. Burundi's system, in use since 2014, can track goods only from its own border posts, and the aim is to follow them from Dar es Salaam or Mombasa to destination.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -871,6 +899,20 @@ Guinea-Bissau's transitional prime minister, Ilídio Vieira Té, pledged on 11 S
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Air cargo electronic manifest module</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DGA lança oficialmente o módulo de manifesto eletrónico via aérea no Sydonia World](https://alfandegas.mef.gw/dga-lanca-oficialmente-o-modulo-de-manifesto-eletronico-via-aerea-no-sydonia-world/)** — Alfândegas da Guiné-Bissau, 17 September 2026
+
+Guinea-Bissau's customs directorate launched an electronic air-cargo manifest module in Sydonia World on 17 September 2026, developed with IATA and UNCTAD. The ceremony also briefed airlines, forwarders and express carriers on the digitisation of customs procedures.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Health information system (DHIS2)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1161,6 +1203,20 @@ The International Organization for Migration's Japan-funded Smarter Borders proj
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MPIANATRA school management platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Du contenu à la gestion : Madagascar accélère la numérisation de son système éducatif](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/du-contenu-a-la-gestion-madagascar-accelere-la-numerisation-de-son-systeme-educatif)** — wearetech.africa, 26 October 2026
+
+Madagascar's digital development ministry launched MPIANATRA, a school-management platform for tracking pupils' progress, on 24 October 2026; its deployment in public schools is still to be studied. It follows the NUIS single pupil identifier, piloted with about 180,000 pupils since May.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -1282,6 +1338,20 @@ The Namibian Police has begun overhauling its E-Policing System after slow proce
 </div>
 
 ## Niger
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guichet Unique du Commerce Exterieur</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Niger is transforming foreign trade procedures with Webb Single Window](https://webbfontaine.com/fr/success-stories-niger-is-transforming-foreign-trade-procedures-with-webb-single-window)** — Webb Fontaine, 9 September 2026
+
+Webb Fontaine, which built it, says Niger's foreign-trade single window, GUCE-Niger, now connects customs, the finance, trade, agriculture, livestock and health ministries, the chamber of commerce and every bank, through e-Forex for foreign-exchange operations. Stamp duties are now calculated and paid through the platform.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1621,6 +1691,20 @@ Columnist Al-Samani Awadallah, writing in Al-Hakim News on 6 September 2026, bac
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Advance cargo declaration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الجمارك تتوسع في تطبيق الإقرار المسبق للشحنات وتستعد لتعميمه بكافة المنافذ](https://www.sudanindependent.com/news/politics/2026/09/30/%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%AA%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A5%D9%82%D8%B1%D8%A7%D8%B1)** — Sudan Independent (SUNA), 30 September 2026
+
+Sudan's customs said it would extend its Advance Cargo Declaration system from early October to every port and border crossing, after a trial at Port Sudan's southern port. The system lets importers file shipment data and documents before arrival to shorten clearance.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -1690,6 +1774,20 @@ Tanzania is extending its e-Delivery system to track development projects from p
 **[Govt unveils digital system to track projects](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/)** — Daily News, 17 September 2026
 
 Tanzania's planning permanent secretary Dr Tausi Kida presented e-Delivery, a real-time system for tracking state development projects from planning and funding to execution, at the National Planners' Conference in Arusha on 16 September 2026. She said fund releases will be matched to the progress it records, with the National Planning Commission monitoring each stage, and projects aligned with Vision 2050.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic cargo tracking system (TECTS) and its regional link</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'interfaçage des Systèmes de Suivi Electronique des Cargos pour la sécurité et la sûreté des Biens ou des Marchandises](https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises)** — Office Burundais des Recettes, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a>
+
+Tanzanian and Burundian revenue officials met at the OBR on 22 September 2026 to work on linking their electronic cargo tracking systems on the Northern Corridor. Burundi's system, in use since 2014, can track goods only from its own border posts, and the aim is to follow them from Dar es Salaam or Mombasa to destination.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: bdecdefb55eb
+record: befb49416568
 ---
 
 # News, Sep – Oct 2026
@@ -650,6 +650,14 @@ Gabon's transport minister Ulrich Manfoumbi Manfoumbi suspended enrolment for th
 **[Permis de conduire digitalisé : Avec l’appui de Gabon Poste, Rengus Digital dispose désormais d’une architecture technique plus puissante](https://gabonactu.com/blog/2026/10/02/permis-de-conduire-digitalise-avec-lappui-de-gabon-poste-rengus-digital-dispose-desormais-dune-architecture-technique-plus-puissante/)** — Gabonactu.com, 2 October 2026
 
 Rengus Digital, which runs Gabon's digitised driving licence launched on 24 March 2026, has moved the system onto Gabon Poste's infrastructure under a new agreement. Hosting capacity rises from about 1 terabyte at launch to about 10, after enrolment and issuing delays. The postal network is to support a rollout beyond Libreville, for which no dates are given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Permis digitalisé : après plus d’un mois d’arrêt, l’enrôlement repart sur une nouvelle plateforme](https://www.gabonreview.com/permis-digitalise-apres-plus-dun-mois-darret-lenrolement-repart-sur-une-nouvelle-plateforme/)** — GabonReview, 25 October 2026
+
+Gabon's transport ministry said enrolment for the digitalised driving licence would resume on 26 October 2026 at five Greater Libreville sites, after a suspension from 21 September while the platform moved to new infrastructure.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: India activities — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 subject: geopol.india
 places: ETH; MWI; MUS; RWA; SLE; ZMB
-record: 3c3ea84476d0
+record: 92572069befc
 ---
 
 # News, Sep – Oct 2026
