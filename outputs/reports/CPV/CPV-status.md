@@ -1,12 +1,12 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-10-26
+compiled: 2026-10-27
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 213
+sources_cited: 215
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -164,7 +164,7 @@ Away from the state estate, the [Judicial Police's cybercrime brigade warned in 
 ### Data Exchange
 <!-- dpi.exchange -->
 
-About 62 public and private institutions were [connected to the national identification registry and SNIAC by 2025](https://justica.gov.cv/w/protocolo-de-interconex%C3%A3o-de-sistemas-dados-e-aplica%C3%A7%C3%B5es-entre-o-imij-i.p.-e-a-dire%C3%A7%C3%A3o-nacional-da-administra%C3%A7%C3%A3o-p%C3%BAblica-dnap-), consuming shared citizen data under institutional protocols. The route is PDEX, the Platform for Data Exchange, [built and operated by NOSi since 2018 as the country's interoperability service bus and used by central and local government alike](https://documents1.worldbank.org/curated/en/099040723102029990/pdf/P1694820269f8a044087b1012089ee857d6.pdf), and [the consular portal's integrations with the civil identification system all run through it](https://pdex.gov.cv/). The core systems of the state — financial management, debt and public investment, tax, customs, human resources and social insurance, and e-procurement — [exchange data both point to point and through a government service bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+About 62 public and private institutions were [connected to the national identification registry and SNIAC by 2025](https://justica.gov.cv/w/protocolo-de-interconex%C3%A3o-de-sistemas-dados-e-aplica%C3%A7%C3%B5es-entre-o-imij-i.p.-e-a-dire%C3%A7%C3%A3o-nacional-da-administra%C3%A7%C3%A3o-p%C3%BAblica-dnap-), consuming shared citizen data under institutional protocols. The route is PDEX, the Platform for Data Exchange, [built and operated by NOSi since 2018 as the country's interoperability service bus and used by central and local government alike](https://documents1.worldbank.org/curated/en/099040723102029990/pdf/P1694820269f8a044087b1012089ee857d6.pdf), and [the consular portal's integrations with the civil identification system all run through it](https://pdex.gov.cv/). The core systems of the state — financial management, debt and public investment, tax, customs, human resources and social insurance, and e-procurement — [exchange data both point to point and through a government service bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Trade data has not followed: the government [told the WTO in April 2025 that the foreign-trade single window was stalled for lack of funds](https://www.wto.org/english/tratop_e/tpr_e/g471_e.pdf), and the [ECOWAS transit interconnection was not functional in the country in November 2024](https://www.ecowas.int/relevant-recommendations-to-ensure-the-success-of-sigmat-in-the-eco-was-region/).
 
 What has not joined that layer is the more telling list. The tax administration's connection is a roadmap rather than a system: a [2023 assignment for the revenue directorate](https://www.mf.gov.cv/documents/20126/0/TdR_+DNRE+-+Arquitetura+Sistema+Informatico+Tributa%CC%81rio+_interoperabilidade.pdf/de3125f8-081e-27c0-c18c-6218f309e6f2) sets out converging its internal tax and customs systems and connecting them to external commercial, land, vehicle, financial and social security registers. A [2024 tender to modernise property registration and construction and environmental licensing](https://www.mf.gov.cv/documents/20126/0/063+TdR_Global_Localizac%CC%A7a%CC%83o_Empresa.pdf/cc34bd11-b94c-1e88-2646-55c23ac9e79c) requires the new modules to reach other systems through PDEX. The Cadastro Social Único was [designed to determine potential eligibility for social programmes partly from data exchanged with other administrative systems](https://ugpe.gov.cv/uploads/PAD_Inclusao_Social_6fac8b5e5f.pdf) (2018). Even for the company-registration platform, [the integrations with the tax authority, social security, the labour inspectorate and the gazette, and the PDEX services behind them, were put out to a technical-assistance tender](https://www.mf.gov.cv/documents/20126/0/EOI+062+TdR_EmpresaOnline_vsFinal.pdf/b38ef849-5103-9f6d-011f-215734ea44f4).
 
