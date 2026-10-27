@@ -8,8 +8,8 @@
 
 **Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535>).
 
-**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535>).
+**Systems run wholly in-house.** [Mali's SIGRH human resources software was designed and developed by computer specialists of the Malian administration and paid for entirely from the national budget, with its database to be hosted in Mali, as the project's second phase began in October 2023](<https://www.maliweb.net/fonction-publique/operation-didentification-des-agents-de-la-fonction-publique-de-letat-et-des-collectivites-la-deuxieme-phase-du-projet-sigrh-lancee-a-segou-3041661.html>).
 
 ***Noted, not assessed***. [Single-window portal of public services](<https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535>); [Government messaging system](<https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535>); [.ml country-code domain registry](<https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535>); [Administration intranet network](<https://www.malipages.com/appel-offre/plan-de-passation-des-marches-2026-agetic/>); [COCCASFR platform](<https://www.malipages.com/appel-offre/plan-de-passation-des-marches-2026-agetic/>); [Point ML](<https://www.malipages.com/appel-offre/plan-de-passation-des-marches-2026-agetic/>).
 
-***Not held***. No source held says a system built by government staff went live since October 2023.
+***Not held***. No source held says a system built by government staff went live since October 2023, and SIGRH is the only system held as built wholly in-house.

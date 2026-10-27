@@ -21,8 +21,8 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 9 |
-| 4 Operating | 4 |
-| 3 Established | 21 |
+| 4 Operating | 5 |
+| 3 Established | 20 |
 | 2 Nascent | 3 |
 | 1 Absent | 2 |
 | Unplaced | 3 |
@@ -109,6 +109,14 @@ Government staff built a system that went live in 2026; fewer than three systems
 - INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
 - Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
 
+### Cote d'Ivoire: 4 Operating
+
+A state company's own teams built a trade app that went live in 2024; fewer than three systems are known to be run wholly in-house.
+
+- GUCE Mobile, with five modules, was launched on 25 July 2024 and was developed and operated entirely by GUCE CI's own teams ([source, 2024-07-25](https://www.gucecotedivoire.ci/innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur-guce-ci-lance-sa-nouvelle-application-guce-mobile-tant-attendue-par-les-operateurs-economiques-les-acteurs-majeurs-e/)).
+- GUCE CI, a state company, manages and maintains the GUCE single-window system, with technical support from the trade ministry ([source, 2024-07-25](https://www.gucecotedivoire.ci/innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur-guce-ci-lance-sa-nouvelle-application-guce-mobile-tant-attendue-par-les-operateurs-economiques-les-acteurs-majeurs-e/)).
+- An SNDI representative said at the 25 September 2026 plenary that SNDI has operated its own satellite network since 2006 connecting administrations, universities and health centres, and had provided internet to the University of Korhogo ([source, 2026-09-25](https://afriksoir.net/aspex-2026-le-satellite-au-coeur-des-enjeux-de-connectivite-et-de-resilience-numerique-en-cote-divoire/)).
+
 ### Liberia: 4 Operating
 
 Government staff built a system that went live in 2026; fewer than three systems are known to be run wholly by government staff.
@@ -154,12 +162,6 @@ A government technology body runs systems for the rest of government by 2026; no
 A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
 
 - Congo's Agence de développement de l'économie numérique (Aden) is stated to ensure the technical management of the government's official web portal gouvernement.cg, per Les Dépêches de Brazzaville ([source, 2024-12-27](https://www.adiac-congo.com/content/numerique-laden-examine-ses-documents-cadres-161959)).
-
-### Cote d'Ivoire: 3 Established
-
-A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
-
-- An SNDI representative said at the 25 September 2026 plenary that SNDI has operated its own satellite network since 2006 connecting administrations, universities and health centres, and had provided internet to the University of Korhogo ([source, 2026-09-25](https://afriksoir.net/aspex-2026-le-satellite-au-coeur-des-enjeux-de-connectivite-et-de-resilience-numerique-en-cote-divoire/)).
 
 ### Djibouti: 3 Established
 

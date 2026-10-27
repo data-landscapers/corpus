@@ -1,18 +1,19 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "3",
-   "inhouse": "",
-   "agency": "operating",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-001",
-   "gaps": "No source held says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "3",
+      "inhouse": "",
+      "agency": "operating",
+      "built": "",
+      "own": "entire",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001",
+      "gaps": "No source held says a system built by government staff went live since October 2023; SIGRH is the only system held as built wholly in-house, and its going live is not stated.",
+      "note": "AGETIC runs the intranet and single-window portal for the administration. SIGRH was built by the administration's own specialists, but no source says it or another in-house system went live, so it stops at stage 3.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

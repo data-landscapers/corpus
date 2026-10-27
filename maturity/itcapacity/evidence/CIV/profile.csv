@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,inhouse,inhouse,coverage,yes,2018-01-17,CIV-001;CIV-003,,nothing dated since 2023-10-24
-CIV,inhouse,agency,coverage,operating,2026-09-25,CIV-002;CIV-004;CIV-005;CIV-006;CIV-007;CIV-008;CIV-009,,
-CIV,inhouse,built,coverage,,,,,nothing held
-CIV,inhouse,cadre,coverage,,,,,nothing held
+CIV,inhouse,inhouse,coverage,yes,2024-07-25,CIV-001;CIV-003;CIV-010,,
+CIV,inhouse,agency,coverage,operating,2026-09-25,CIV-002;CIV-004;CIV-005;CIV-006;CIV-007;CIV-008;CIV-009;CIV-011,,
+CIV,inhouse,built,coverage,live,2024-07-25,CIV-012,,
+CIV,inhouse,own,coverage,,,,,nothing held

@@ -63,6 +63,8 @@ CIV,Plateforme d'interoperabilite UXP,Plateforme d'interoperabilite des systemes
 CIV,Plateforme d'interoperabilite UXP,Plateforme d'interoperabilite des systemes d'information de l'administration (UXP),other,Cybernetica UXP,SNDI / Ministry of Digital Transition,national,2025-10-01-civ-ministere-transition-numerique-note-interoperabilite
 CIV,UXP interoperability platform,Plateforme d'interoperabilite,other,Cybernetica UXP,Ministry of Digital Transition (SNDI commissioned),,2025-09-29 Cote d'Ivoire unveils UXP interoperability platform for secure government data sharing
 CIV,UXP data exchange layer,Plateforme d'interoperabilite,other,Cybernetica UXP,SNDI / Ministry of Digital Transition,,2025-09-29-cybernetica-sndi-uxp-contract-cote-divoire
+CIV,GUCE CI portal,Cote d'Ivoire,other,,GUCE CI,,2024-07-30-civ-innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur
+CIV,GUCE Mobile,Cote d'Ivoire,staff,,GUCE CI,,2024-07-30-civ-innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur
 CMR,train.patnucelearning.cm,Cameroon,other,online training platform,Ministry of Posts and Telecommunications (PATNUC),,2026-09-24-digitalbusiness-africa-cameroon-patnuc-training-platform
 CMR,Learning Management System (MINFOPRA-KOICA project),Cameroon,other,LMS,MINFOPRA,,2026-08-20-globalinfosnews-smart-campus-minfopra-koica
 COD,Kinshasa government network (GovNet pilot),Kinshasa government network,other,,,,2025-07-18-worldbank-ptn-rdc-mission-appui-aide-memoire
@@ -229,6 +231,7 @@ MLI,Mali national fibre-optic backbone (SMTD-SA),Mali,other,"fibre-optic backbon
 MLI,Mali national fibre-optic backbone (SMTD-SA),Mali,other,fibre-optic backbone,SMTD-SA,,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
 MLI,AGETIC data centre,AGETIC data centre,staff,"IaaS, SaaS, backup, DR site",AGETIC,,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
 MLI,SMTD data centre,SMTD data centre,other,"colocation, IaaS, SaaS, backup",Societe malienne de transmission et de diffusion (SMTD),Tier III upgrade in progress,2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees
+MLI,SIGRH,Système intégré de gestion des ressources humaines,other,,Government of Mali,,2023-11-02-mli-operation-d-identification-des-agents-de-la-fonction-publique-de-l-eta
 MOZ,Huawei-built data centre (Mozambique),Huawei-built data centre,other,data centre,,,2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown
 MOZ,CloudGov,CloudGov,staff,"file storage, sharing and synchronisation",INAGE,public administration institutions,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
 MOZ,e-SNGD,Sistema Nacional de Gestao Documental,other,,INAGE,,2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos
