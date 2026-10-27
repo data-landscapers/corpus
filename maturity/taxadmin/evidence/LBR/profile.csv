@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,taxsystem,filing,coverage,inservice,2026-08-20,LBR-002,LBR-001=underway;LBR-004=underway,
-LBR,taxsystem,payment,coverage,electronic,2026-08-20,LBR-003,,
+LBR,taxsystem,filing,coverage,inservice,2026-08-20,LBR-002;LBR-005,LBR-001=underway;LBR-004=underway,
+LBR,taxsystem,payment,coverage,electronic,2026-08-20,LBR-003;LBR-006,,
 LBR,taxsystem,uptake,coverage,,,,,nothing held

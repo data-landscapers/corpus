@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,taxsystem,filing,coverage,inservice,2026-08-11,MOZ-001;MOZ-002,,
-MOZ,taxsystem,payment,coverage,electronic,2026-08-11,MOZ-003,,
+MOZ,taxsystem,filing,coverage,inservice,2026-08-11,MOZ-001;MOZ-002;MOZ-003,,
+MOZ,taxsystem,payment,coverage,,,,,nothing held
 MOZ,taxsystem,uptake,coverage,,,,,nothing held

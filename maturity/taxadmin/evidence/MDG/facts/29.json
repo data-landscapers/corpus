@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-01-mdg-interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-fi",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Minister Rindra Rabarinirinarison says the new Integrated Tax Administration System (SAFI) allows 24/7 online tax declarations and payments.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Integrated Tax Administration System (SAFI)",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Minister says the e-Hetra online tax declaration and payment system has been expanded nationwide.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "e-Hetra",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAFI",
+   "country_label": "Integrated Tax Administration System (SAFI)",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  },
+  {
+   "system": "e-Hetra",
+   "country_label": "e-Hetra",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

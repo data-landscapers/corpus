@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-08-moz-autoridade-tributaria-confirma-gasto-de-mais-de-70-milhoes-de-meticais",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema Informatico para Gestao de Maquinas Fiscais (SGMF)",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "Autoridade Tributaria",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a fiscal-device system, abandoned, and an e-invoicing model being conceptualised; no filing or payment system is stated."
+}

@@ -21,12 +21,12 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 17 |
+| 4 Operating | 18 |
 | 3 Established | 9 |
 | 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 9 |
-| No evidence | 4 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -119,6 +119,14 @@ Taxes could be filed online and paid electronically in 2025; mandatory or majori
 Taxes could be filed online and paid electronically in 2026; mandatory or majority online filing is not known.
 
 - The plan says a growing number of taxpayers use direct transfer and mobile money to pay taxes, and lists e-payments among the LRA's strengths ([source, 2026-08-20](https://revenue.lra.gov.lr/wp-content/uploads/2026/04/LRA-CSP-2025-Final.pdf)).
+
+### Madagascar: 4 Operating
+
+Tax returns could be filed and taxes paid online in 2025; mandatory or majority online filing is not known.
+
+- Minister Rindra Rabarinirinarison says the new Integrated Tax Administration System (SAFI) allows 24/7 online tax declarations and payments ([source, 2025-09](https://kaori-media.com/posts/interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-finance-of-madagascar)).
+- Minister says the e-Hetra online tax declaration and payment system has been expanded nationwide ([source, 2025-09](https://kaori-media.com/posts/interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-finance-of-madagascar)).
+- Madagascar's tax administration (DGI), relayed by Cabinet Fenitra on 16 October 2025, confirmed the integrated tax administration system SAFI went into production after a steering committee on 18 September 2025, with existing tax services migrating from end-September 2025 ([source, 2025-09-18](https://cabinet-fenitra.mg/actualites/safi-cap-sur-le-deploiement-effectif-a-madagascar/)).
 
 ### Mali: 4 Operating
 
@@ -222,6 +230,13 @@ Tax returns could be filed online in 2025; electronic payment is not known.
 
 - ZIMRA says taxpayers can submit tax returns for selected tax heads online on its E-Taxes platform, launched alongside its E-Services online filing platform ([source, 2025](https://www.zimra.co.zw/news/2239:e-taxes-online-platform-2)).
 
+### Angola: 2 Nascent
+
+An electronic tax system was being built in 2025 and 2026; whether returns can be filed online is not known.
+
+- The 2025 state budget allots Kz 23 billion to the tax authority AGT for the SIGT/SIIAT digital transformation project, per the outlet reading the budget ([source, 2025-02-05](https://pti.ao/oge-transformacao-digital-da-agt-vai-custar-23-mil-milhoes-kz-ao-estado/)).
+- CIAT authors say the SIGT system aims to dematerialise tax procedures, including the submission of returns and the payment of taxes, and list a Taxpayer Portal among AGT's tools ([source, 2026-09-08](https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en)).
+
 ### Burundi: 2 Nascent
 
 An electronic tax system was under way in 2026; online filing is not on record.
@@ -260,12 +275,6 @@ An electronic tax system was under way in 2026; online filing is not on record.
 An electronic tax system was under way in 2025; online filing is not on record.
 
 - The Tax Authority announced official operation of the Unified Tax System and said digital platforms would be launched during 2026 under its digital transformation plan ([source, 2025-12-13](https://lana.gov.ly/post.php?id=346934&lang=ar)).
-
-### Madagascar: 2 Nascent
-
-An electronic tax system was under way in 2025; online filing is not on record.
-
-- Madagascar's tax administration steering committee reported the Integrated Tax Administration System (SAFI), covering online tax declaration and diversified payments, tested and ready for production deployment from the end of September 2025 ([source, 2025-09-19](https://new.moov.mg/actualite/106644-modernisation-fiscale-la-plateforme-safi-prete-pour-la-mise-en-production)).
 
 ### Seychelles: 2 Nascent
 
@@ -345,12 +354,6 @@ Not established: Nothing held since October 2023 says whether tax returns can be
 Nothing held since 2023 names online tax filing and payment, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether tax returns can be filed online.
-
-### Angola: No evidence
-
-Nothing held names online tax filing and payment or says there is none, so no stage is set.
-
-Not established: Nothing held says how taxes are filed and paid.
 
 ### Equatorial Guinea: No evidence
 

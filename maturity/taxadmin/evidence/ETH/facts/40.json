@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-16-eth-ministry-embarks-on-e-tax-services",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "Addis Fortune reports the Ministry of Revenues announced an expansion of its e-tax system to digitise services across tax bureaus, including partial document filing, and gave taxpayers a month to submit employee lists and contact details.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "e-tax system",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-tax system",
+   "country_label": "Ethiopia",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Ministry of Revenues",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

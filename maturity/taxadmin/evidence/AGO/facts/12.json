@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "CIAT authors say SIGT covers the submission of tax declarative obligations, and the Taxpayer Portal lets larger taxpayers regularise their situation online.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "SIGT",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "CIAT authors say SIGT covers the settlement and payment of taxes, and a Settlement Note/Payment Receipt tool is among AGT's technological tools.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "SIGT",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGT",
+   "country_label": "Integrated Tax Management System",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "AGT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

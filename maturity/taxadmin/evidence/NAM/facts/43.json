@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-22-nam-namra-sets-four-year-target-to-fully-digitize-services",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "NamRA said its approved digital transformation strategy, with some programmes already underway and World Bank support for a digital tax ecosystem, aims to integrate the Integrated Tax Administration System and let taxpayers file online.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Tax Administration System",
+   "country_label": "Namibia",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Namibia Revenue Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

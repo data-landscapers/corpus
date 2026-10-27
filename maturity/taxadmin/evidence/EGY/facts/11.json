@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-08-egy-eta-unified-wage-tax-platform-employee-portal",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The Egyptian Tax Authority head says employers compute wage tax on its unified platform, by payroll integration, Excel upload or manual entry, and the authority launched an employee portal issuing payslips.",
+   "as_of": "2025-10-08",
+   "date_precision": "day",
+   "system": "Unified wage tax platform",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified wage tax platform",
+   "country_label": "Wage and salary tax unification platform",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Egyptian Tax Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

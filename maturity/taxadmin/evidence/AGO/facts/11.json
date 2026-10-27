@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-05-ago-oge-transformacao-digital-da-agt-vai-custar-23-mil-milhoes-kz-ao-estad",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The 2025 state budget allots Kz 23 billion to the tax authority AGT for the SIGT/SIIAT digital transformation project, per the outlet reading the budget.",
+   "as_of": "2025-02-05",
+   "date_precision": "day",
+   "system": "SIGT/SIIAT",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGT/SIIAT",
+   "country_label": "Projecto de Transformacao Digital Sigt/Siiat",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "AGT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

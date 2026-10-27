@@ -3,3 +3,5 @@ CAF,001,payment,electronic,removed,First pass: an IMF target for end-2025 read a
 UGA,002,payment,electronic,removed,"First pass: payment of non-tax revenue fees, not taxes"
 TCD,001,uptake,most,removed,First pass: a finance law's provision read as practice
 MOZ,003,payment,electronic,revalued: filing:inservice,"Top-stage check, stage 4c 2026-10-18: PwC says registered taxpayers generate a reference on the platform and then instruct their commercial bank to pay; non-registered pay and submit proof at the tax office. Online filing is stated, payment through the authority's system is not (bank payment may be over the counter)."
+AGO,002,filing,inservice,revalued: filing:underway,Stage 4c 2026-10-27: CIAT says SIGT aims to dematerialise filing and payment and lists a Taxpayer Portal; it does not say taxpayers file returns online.
+AGO,003,payment,electronic,removed,Stage 4c 2026-10-27: SIGT aims to cover payment and a Settlement Note/Payment Receipt tool is listed; payment through the authority's system is not stated (as MOZ-003).

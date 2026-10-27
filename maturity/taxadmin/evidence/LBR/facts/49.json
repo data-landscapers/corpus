@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-21-lbr-lra-trains-staff-on-new-digital-tax-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "LITAS handles taxpayer online filing, assessments and payments, enhanced with mobile payment features, per the Liberia Revenue Authority.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "LITAS",
+   "class": "taxsystem"
+  },
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "payment",
+   "value": "electronic",
+   "fact": "Taxes are paid through LITAS by mobile money and by seven of nine commercial banks connected, with electronic receipts, per the Liberia Revenue Authority.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "LITAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Integrated Tax Administration System (LITAS)",
+   "country_label": "Liberia",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

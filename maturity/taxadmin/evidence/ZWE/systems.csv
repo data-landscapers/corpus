@@ -2,3 +2,4 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 ZWE,E-Taxes,Zimbabwe,taxsystem,,Zimbabwe Revenue Authority,,2025-01-01-zimra-etaxes-online-platform
 ZWE,E-Services,Zimbabwe,taxsystem,,Zimbabwe Revenue Authority,,2025-01-01-zimra-etaxes-online-platform
 ZWE,IECMS,Zimbabwe,other,,Judicial Service Commission,,2026-10-06-paperless-courts-spread-to-midlands-mashonaland-west
+ZWE,SAP S/4HANA,ZIMRA SAP S/4HANA upgrade,other,SAP,ZIMRA,,2026-07-13-zwe-zimra-s-sap-s-4hana-upgrade-is-officially-active

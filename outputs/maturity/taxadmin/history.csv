@@ -27,3 +27,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TZA,dpi.mis--tax,review,2,2,TZA-002;TZA-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,dpi.mis--tax,fact,no evidence,3,ZAF-002;ZAF-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZMB,dpi.mis--tax,review,no evidence,unplaced,,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-10-27,AGO,dpi.mis--tax,fact,no evidence,2,AGO-001;AGO-002,"2025 budget funds AGT's SIGT/SIIAT project; CIAT says SIGT is meant to dematerialise filing and payment: under way, online filing not stated"
+2026-10-27,MDG,dpi.mis--tax,fact,2,4,MDG-002;MDG-003;MDG-004,Finance minister says SAFI and e-Hetra take returns and payments online; DGI says SAFI in production September 2025

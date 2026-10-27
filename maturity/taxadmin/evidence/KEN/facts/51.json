@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-14-ken-imf-forces-kenya-to-implement-itax-linked-payroll-and-ifmis-linked-e-p",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "Techweez quotes the Treasury Cabinet Secretary saying the UHR payroll system has been linked to KRA iTax since July 2023 to facilitate filing of PAYE for employees and State Departments.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "iTax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-caf-le-fmi-annonce-un-nouveau-decaissement-de-33-4-milliards-fcfa-au-profi",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "inservice",
+   "fact": "The tax directorate (DGID) began its official switch in April 2025 to general use of its e-Tax electronic declaration system.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "e-Tax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "RCA",
+   "class": "taxsystem",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

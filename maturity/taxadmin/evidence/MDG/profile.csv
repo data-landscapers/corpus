@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,taxsystem,filing,coverage,underway,2025-09-19,MDG-001,,
-MDG,taxsystem,payment,coverage,,,,,nothing held
+MDG,taxsystem,filing,coverage,inservice,2025-09,MDG-002;MDG-004,MDG-001=underway,
+MDG,taxsystem,payment,coverage,electronic,2025-09,MDG-003,,
 MDG,taxsystem,uptake,coverage,,,,,nothing held

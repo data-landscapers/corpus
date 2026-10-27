@@ -2,7 +2,7 @@
 
 ## Tax
 
-**Online filing.** [Egyptian Tax Authority head Rasha Abdel Aal said taxpayers have responded to the electronic systems and the mobile app and have already started creating accounts and submitting returns electronically](<https://www.fintechgate.net/250244>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Online filing.** [Egyptian Tax Authority head Rasha Abdel Aal said taxpayers have responded to the electronic systems and the mobile app and have already started creating accounts and submitting returns electronically](<https://www.fintechgate.net/250244>). [In October 2025 the authority's head said employers compute wage tax on its unified platform, by payroll integration, spreadsheet upload or manual entry, and that an employee portal now issues payslips](<https://eta.gov.eg/ar/news/mnzwmt-twhyd-ass-wmayyr-ahtsab-drybt-alajwr-walmrtbat-ysahm-fy-thqyq-aldalt-aldrybyt>).
 
 **Electronic payment.** [Finance minister Ahmed Kouchouk said real estate transactions tax can be paid electronically by bank cards or direct-debit cards, with a final clearance issued online in five steps](<https://www.fintechgate.net/250244>).
 

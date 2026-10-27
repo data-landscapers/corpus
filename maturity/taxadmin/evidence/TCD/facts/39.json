@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "FurtherAfrica says Chad's eTax system covers electronic filing, with a pilot rolled out to businesses.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "eTax",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

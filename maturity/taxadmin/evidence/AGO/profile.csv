@@ -1,0 +1,4 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+AGO,taxsystem,filing,coverage,inservice,2026-09-08,AGO-002,AGO-001=underway,
+AGO,taxsystem,payment,coverage,electronic,2026-09-08,AGO-003,,
+AGO,taxsystem,uptake,coverage,,,,,nothing held

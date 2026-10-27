@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The Gambia Revenue Authority signed an agreement with Sogema Technologies for a web-based Integrated Tax Administration System with online filing, replacing GAMTAXNET, after a tender launched in 2023 following a business process re-engineering.",
+   "as_of": "2024-05-17",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Gambia",
+   "class": "taxsystem",
+   "platform": "Sogema Technologies",
+   "owner": "Gambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
