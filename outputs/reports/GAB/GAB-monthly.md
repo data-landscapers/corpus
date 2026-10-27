@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-26
 place: GAB
 ledger_rows: 62
 not_held: 13
-record: 91d53b76c4fa
+record: ec22b3825cd1
 ---
 
 # News, Sep – Oct 2026
@@ -630,6 +630,14 @@ Rengus Digital, which runs Gabon's digitised driving licence launched on 24 Marc
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Permis digitalisé : après plus d’un mois d’arrêt, l’enrôlement repart sur une nouvelle plateforme](https://www.gabonreview.com/permis-digitalise-apres-plus-dun-mois-darret-lenrolement-repart-sur-une-nouvelle-plateforme/)** — GabonReview, 25 October 2026
+
+Five Greater Libreville sites from 26 Oct 2026; platform migrated to new infrastructure during month-long pause.
+
+</div>
+
 </div>
 
 ### Digital Payments and Fintech
@@ -925,6 +933,14 @@ Gabon's postal company presented Akiba, an application built and hosted in Gabon
 **[Ministère de la Fonction Publique et du Renforcement des Capacités - Accélération des préparatifs de mise en œuvre du Système Intégré de Gestion des Ressources Humaines - Ministère de la Fonction Publique et du Renforcement des Capacités](https://fonction-publique.gouv.ga/2-actualites/3402-acceleration-des-preparatifs-de-mise-en-oeuvre-du-systeme-integre-de-gestion-des-ressources-humaines/)** — Ministère de la Fonction Publique et du Renforcement des Capacités (Gabon), 13 October 2026
 
 Gabon's civil-service ministry reviewed technical preparations for an integrated human resources management system and named the procurement tender as the next step. The platform, under a World Bank-supported project, is to hold one register of state employees linked to payroll, budget and national identification.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fonction publique : 5,38 milliards de FCFA pour accélérer la modernisation en 2027](https://www.gabonreview.com/fonction-publique-538-milliards-de-fcfa-pour-accelerer-la-modernisation-en-2027/)** — GabonReview, 26 October 2026
+
+2027 request to finance SIGRH rollout, five digitised procedures, 150 stations; 2026 cash execution at 32%.
 
 </div>
 
