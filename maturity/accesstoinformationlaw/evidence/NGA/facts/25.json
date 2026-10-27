@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-01-nga-gdb-accountability-gap-nigeria-colombia-brazil",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Global Data Barometer report lists freedom of information legislation among the transparency reforms Nigeria has adopted over the past two decades.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "freedom of information legislation",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
