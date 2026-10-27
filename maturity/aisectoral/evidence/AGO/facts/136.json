@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-20-ago-agt-anuncia-migracao-para-novo-sistema-de-processamento-aduaneiro",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "AGT's chairman José Leiria says AI is already used in the fiscal side, as it hopes to introduce in customs.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "AGT tax system",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": "Customs AI is only planned."
+}

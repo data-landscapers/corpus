@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
       "sectors": "",
-      "results": "",
+      "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-005;MAR-006",
-      "gaps": "No source held since October 2023 says AI is in service in the public systems of two or more sectors.",
-      "note": "The medicines agency launched an AI-assisted licensing platform in March 2026, and a parliamentary report says an education academy runs an AI dropout-risk system. No single source names two sectors and no measured results are held.",
-      "as_at": "2026-10-22"
+      "stage_sources": "MAR-008;MAR-009;MAR-005;MAR-006",
+      "gaps": "No single source held says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
+      "note": "The ADII 2024 activity report, as Hespress reports it, has predictive targeting in customs in service and detecting 34 MDH of evaded duties and taxes in 2024. That is a measured result of a sectoral AI system in service, so stage 5.",
+      "as_at": "2026-10-27"
     }
   ]
 }

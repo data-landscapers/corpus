@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-civ-modernisation-douaniere",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Ivorian customs says its Douane Intelligente project, with Huawei as technical partner, is deploying AI and big data tools for fraud detection.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Douane Intelligente",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Douane Intelligente",
+   "country_label": "Cote d'Ivoire",
+   "class": "sectorai",
+   "platform": "Huawei",
+   "owner": "Direction Generale des Douanes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

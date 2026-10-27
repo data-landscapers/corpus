@@ -20,9 +20,9 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 17 |
+| 5 Leading | 18 |
 | 4 Operating | 0 |
-| 3 Established | 23 |
+| 3 Established | 22 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -109,6 +109,15 @@ AI transcription of HIV registers cut errors to 0.4% by 2025; farming and tax AI
 
 - The preprint reports that ScanForm's error rate fell from 1.6% to 0.4% over 24 months, errors and deviations fell 58%, 99.8% of mandatory data elements were complete and about 94.6% of records were submitted on time ([source, 2025-09](https://www.medrxiv.org/content/10.64898/2026.01.08.26343708v1)).
 - The medRxiv preprint reports that ScanForm, which transcribes handwritten HIV testing register pages with AI, reached 853 of 867 HIV testing facilities (98%) nationwide by September 2024 and captured 9,082,891 testing encounters to September 2025 ([source, 2024-09](https://www.medrxiv.org/content/10.64898/2026.01.08.26343708v1)).
+
+### Morocco: 5 Leading
+
+Customs AI targeting found 34 million dirhams of evaded duties in 2024, and AI also serves medicines licensing and education; how widely is not known.
+
+- Morocco's customs administration (ADII) reports that in 2024 its BADR system, described as applied artificial intelligence, processed 1,540 fraud alerts and was enriched by 434 new rules and 199 updates, alongside predictive algorithms for targeting ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
+- The ADII 2024 activity report says algorithm-based targeting detected 34 MDH of evaded duties and taxes (24 MDH in 2023), of which 20 MDH was recovered and 14 MDH levied as fines ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
+- Maroc.ma (MAP) reports the Moroccan Medicines and Health Products Agency launched the Tarkhiss platform on 31 March 2026, which includes AI-based analysis tools to process files, starting with cosmetics and body-hygiene products for about 3,500 operators ([source, 2026-03-31](https://maroc.ma/fr/actualites/lancement-de-la-plateforme-tarkhiss-pour-accelerer-la-transformation-digitale-du-secteur-de-la-sante)).
+- Le Matin, citing a parliamentary working group report, says an AI system for school support management is deployed in the Draa-Tafilalet Academy, using the Massar, SAGE+ and GEXA+ databases to predict pupil performance and flag dropout risk ([source, 2025-05-12](https://lematin.ma/nation/maroc-et-intelligence-artificielle-qui-pilote-la-machine/279065)).
 
 ### South Africa: 5 Leading
 
@@ -226,13 +235,6 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 - PANEOTECH says HydroMet AI, an LSTM and SWAT early warning system, is in production for UNDP Mauritania with the National Meteorological Office and Civil Security, producing graded WARNING or CRITICAL risk scores for floods, droughts, heatwaves and storms in the Senegal River Valley ([source, 2026-02-13](https://paneo.tech/projects/mr-hydromet-ai)).
 - The Office National de la Météorologie and UNDP run an AI-based agrometeorological early warning system whose services already benefit 20 women's cooperatives in Rosso, AMI reports; UNDP's sustainable development unit head says it supports yield estimates, climate risk forecasting and early crop disease diagnosis ([source, 2026-01-14](https://ami.mr/fr/archives/287234)).
-
-### Morocco: 3 Established
-
-AI is in service in medicines licensing and one education academy in 2025-26; measured results are not known.
-
-- Maroc.ma (MAP) reports the Moroccan Medicines and Health Products Agency launched the Tarkhiss platform on 31 March 2026, which includes AI-based analysis tools to process files, starting with cosmetics and body-hygiene products for about 3,500 operators ([source, 2026-03-31](https://maroc.ma/fr/actualites/lancement-de-la-plateforme-tarkhiss-pour-accelerer-la-transformation-digitale-du-secteur-de-la-sante)).
-- Le Matin, citing a parliamentary working group report, says an AI system for school support management is deployed in the Draa-Tafilalet Academy, using the Massar, SAGE+ and GEXA+ databases to predict pupil performance and flag dropout risk ([source, 2025-05-12](https://lematin.ma/nation/maroc-et-intelligence-artificielle-qui-pilote-la-machine/279065)).
 
 ### Namibia: 3 Established
 

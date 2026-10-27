@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-25-mar-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Morocco's customs administration (ADII) reports that in 2024 its BADR system, described as applied artificial intelligence, processed 1,540 fraud alerts and was enriched by 434 new rules and 199 updates, alongside predictive algorithms for targeting.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "BADR",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "The ADII 2024 activity report says algorithm-based targeting detected 34 MDH of evaded duties and taxes (24 MDH in 2023), of which 20 MDH was recovered and 14 MDH levied as fines.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "BADR",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BADR",
+   "country_label": "Morocco",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "ADII",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

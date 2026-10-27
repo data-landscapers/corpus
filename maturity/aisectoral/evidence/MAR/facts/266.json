@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-13-mar-portnet-processes-more-nearly-200-000-customs-declarations-in-june",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The 7News report says authorities are working to introduce artificial intelligence into PortNet, Morocco's customs single window, with no tool yet in service.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "PortNet",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PortNet",
+   "country_label": "Morocco",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
