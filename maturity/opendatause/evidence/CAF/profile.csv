@@ -1,4 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CAF,use,access,coverage,licensed,2026-08-05,CAF-003;CAF-007,CAF-001=published;CAF-005=published;CAF-002=published;CAF-004=published;CAF-006=published,
+CAF,use,access,coverage,licensed,2026-08-05,CAF-003;CAF-007,CAF-001=published;CAF-005=published;CAF-002=published;CAF-004=published;CAF-006=published;CAF-009=published,
 CAF,use,breadth,coverage,,,,,nothing held
-CAF,use,reuse,coverage,reused,2026-08-05,CAF-008,,

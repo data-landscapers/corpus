@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-05-caf-le-fmi-annonce-un-nouveau-decaissement-de-33-4-milliards-fcfa-au-profi",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The country launched about two weeks before 5 June 2025 a new data portal, the National Summary Data Page (PNRD), publishing key macroeconomic and financial data.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "National Summary Data Page (PNRD)",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Summary Data Page (PNRD)",
+   "country_label": "RCA",
+   "class": "open",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
