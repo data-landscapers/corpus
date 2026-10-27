@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks for technical standards
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 3 |
-| 3 Established | 7 |
-| 2 Nascent | 8 |
+| 3 Established | 8 |
+| 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
 | No evidence | 34 |
@@ -75,6 +75,13 @@ Mauritius published technical standards in its e-government interoperability fra
 Mozambique's interoperability regulation sets standards for public information systems and was under revision in 2026; whether public bodies must use them is not known.
 
 - INTIC chairman Lourino Chemane said Mozambique has completed a thorough review of the Electronic Government Systems Interoperability Regulation, which sets standards for integrating and managing public information systems; the report is dated 2025-12-05 and gives no other date ([source, 2025-12-05](https://techafricanews.com/2025/12/05/mozambique-prioritizes-data-governance-as-cornerstone-of-digital-sovereignty/)).
+
+### South Africa: 3 Established
+
+The public service department had published minimum interoperability standards by 2025 and was updating them in 2026; whether their use is compulsory is not known.
+
+- The DPSA reply says it published the Minimum Interoperability Standards (MIOS) so departments can achieve system interoperability and data exchange ([source, 2025-08-28](https://pmg.org.za/committee-question/32258/)).
+- The Operation Vulindlela Q1 2026/27 progress report says work progressed on updating the Minimum Interoperability Standards, described as the common standards needed to connect public-sector systems (the report does not list data formats or interfaces), with testing in priority digital service initiatives due September 2026; period is the April-June 2026 quarter, report published 2026-07-31 ([source, 2026-06](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf)).
 
 ### Tanzania: 3 Established
 
@@ -137,12 +144,6 @@ Mauritania's ministry held a workshop in 2026 to develop a framework of standard
 Senegal's ministry presented a draft interoperability framework with technical standards in May 2026; whether it has been adopted is not known.
 
 - The ministry announced that on 5 May 2026 it would present the draft decree governing the interoperability platform and introduce the national interoperability framework, data-exchange architectures, technical standards and security requirements; both were still at presentation stage, not adopted ([source, 2026-05-04](https://fr.linkedin.com/posts/mctnsn_dpi-newdealtechnologique-activity-7457180609757528065-UqRT)).
-
-### South Africa: 2 Nascent
-
-South Africa was updating its Minimum Interoperability Standards in 2026; which published edition is in force is not known.
-
-- The Operation Vulindlela Q1 2026/27 progress report says work progressed on updating the Minimum Interoperability Standards, described as the common standards needed to connect public-sector systems (the report does not list data formats or interfaces), with testing in priority digital service initiatives due September 2026; period is the April-June 2026 quarter, report published 2026-07-31 ([source, 2026-06](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf)).
 
 ### Libya: 1 Absent
 

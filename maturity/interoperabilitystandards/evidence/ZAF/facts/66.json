@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-28-zaf-question-nw4571-to-the-minister-of-public-service-and-administration",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "published",
+   "fact": "The DPSA reply says it published the Minimum Interoperability Standards (MIOS) so departments can achieve system interoperability and data exchange.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Minimum Interoperability Standards (MIOS)",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
