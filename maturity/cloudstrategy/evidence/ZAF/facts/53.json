@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-26-zaf-question-nw3686-to-the-minister-of-finance",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The National Treasury's reply to a parliamentary question refers to government's Cloud Computing Policy, in line with which it began talks with Oracle on moving its financial system from on-premises to a cloud platform.",
+   "as_of": "2025-06-26",
+   "date_precision": "day",
+   "system": "Cloud Computing Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
