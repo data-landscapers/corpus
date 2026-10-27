@@ -12,8 +12,9 @@
       "cap": "",
       "flags": "under revision;advancing;regressing",
       "stage_sources": "NGA-006;NGA-012;NGA-019;NGA-013;NGA-001;NGA-020;NGA-056;NGA-059;NGA-065;NGA-003",
-      "gaps": "No count of decisions or sanctions for a year ending on or after 2024-09-30 is held; the only count (NGA-065) covers about a year to 2024-06-11. The 2026 Meta Final Order was set aside on settlement (undated), and the Amendment Bill 2026 (NGA-037) is only tabled.",
-      "note": "In force with GAID 2025 issued and decisions on named controllers inside 36 months (Multichoice fine 2025-07-06, Stanbic judgment 2026-07-29), so stage 4. Stage 5 needs a count for a period ending after 2024-09-30, and the newest count ended 2024-06-11. I read NGA-025, NGA-030 and NGA-035 (Harunna v. NDPC, no named controller sanctioned) as activity, not applied; they do not set the stage. NGA-002 (suit dismissed once the NDPC order fell) is a judgment on a named controller, but the stage does not rest on it."
+      "gaps": "No count of decisions or sanctions for a year ending on or after 2024-09-30 is held; the only count (NGA-065) covers about a year to 2024-06-11, and NGA-081 counts registrations, not decisions. The Meta Final Order was set aside by consent judgment on 2025-11-03 (NGA-078), and the Amendment Bill 2026 (NGA-037) is only tabled.",
+      "note": "In force with GAID 2025 issued and decisions on named controllers inside 36 months (Multichoice fine 2025-07-06, Stanbic judgment 2026-07-29), so stage 4. Stage 5 needs a count for a period ending after 2024-09-30, and the newest count ended 2024-06-11. I read NGA-025, NGA-030 and NGA-035 (Harunna v. NDPC, no named controller sanctioned) as activity, not applied; they do not set the stage. NGA-002 (suit dismissed once the NDPC order fell) is a judgment on a named controller, but the stage does not rest on it. Reassessed 2026-10-27 on NGA-078, which dates the Meta settlement inside the twelve months: it confirms `regressing` and moves nothing.",
+      "as_at": "2026-10-27"
     }
   ]
 }

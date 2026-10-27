@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MUS,general,authority,qualifier,constituted,2026-06-17,MUS-003;MUS-007;MUS-011;MUS-013,,
-MUS,general,standing,coverage,in-force,2026-05-27,MUS-006;MUS-014;MUS-019,MUS-015=drafting,
+MUS,general,standing,coverage,in-force,2026-05-27,MUS-006;MUS-014;MUS-019;MUS-020,MUS-015=drafting,
 MUS,general,regulations,coverage,issued,2026-06-17,MUS-002;MUS-016,,
 MUS,general,application,coverage,reported,2024,MUS-017,MUS-008=activity;MUS-010=applied;MUS-018=activity,
 MUS,general,last12,qualifier,advancing,2026-07-16,MUS-001;MUS-004;MUS-005;MUS-009;MUS-012,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-26-zaf-smart-id-delays-exclusion",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "A privacy impact assessment in compliance with the Protection of Personal Information Act is a legal precondition to gazetting the digital ID amendment regulations, per Research ICT Africa's submission as reported.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

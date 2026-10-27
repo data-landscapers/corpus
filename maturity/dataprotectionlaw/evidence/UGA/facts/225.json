@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-24-uga-ngo-bureau-to-automate-registration-and-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Uganda's Personal Data Protection Office, led by a National Director, took part in the NGO compliance conference of 23 October 2026, per New Vision.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "At the 23 October 2026 conference a law firm partner listed enforcement of data protection legislation among the obligations NGOs in Uganda must attend to, New Vision reports.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Uganda data protection legislation",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

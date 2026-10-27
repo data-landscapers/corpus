@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,general,authority,qualifier,constituted,2026-08-18,UGA-001;UGA-004;UGA-009;UGA-013;UGA-017;UGA-025;UGA-029,,
-UGA,general,standing,coverage,in-force,2026-08-18,UGA-002;UGA-005;UGA-010;UGA-014;UGA-018;UGA-023;UGA-026;UGA-027;UGA-028,,
+UGA,general,authority,qualifier,constituted,2026-10-23,UGA-001;UGA-004;UGA-009;UGA-013;UGA-017;UGA-025;UGA-029;UGA-031,,
+UGA,general,standing,coverage,in-force,2026-10-23,UGA-002;UGA-005;UGA-010;UGA-014;UGA-018;UGA-023;UGA-026;UGA-027;UGA-028;UGA-032,,
 UGA,general,regulations,coverage,issued,2026-02-20,UGA-015;UGA-019;UGA-024,,
 UGA,general,application,coverage,applied,2026-07-17,UGA-006;UGA-007;UGA-011;UGA-016;UGA-020;UGA-021;UGA-022,UGA-003=activity;UGA-030=activity;UGA-012=activity,
 UGA,general,last12,qualifier,advancing,2026-07-17,UGA-008,,

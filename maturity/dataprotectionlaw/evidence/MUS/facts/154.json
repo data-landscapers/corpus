@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-10-mus-customs-declarations-by-nta-and-registrar-general-tradenet-login-page",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The TradeNet login page of Mauritius Network Services states that personal data is collected and processed in accordance with the Data Protection Act 2017.",
+   "as_of": "2025-03-10",
+   "date_precision": "day",
+   "system": "Data Protection Act 2017",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

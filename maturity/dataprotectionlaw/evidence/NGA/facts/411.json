@@ -1,0 +1,47 @@
+{
+ "slug": "2026-10-22-nga-technext-meta-ndpc-secret-settlement-double-standard",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Nigeria Data Protection Act 2023 is in force; its section 49 makes non-compliance with Commission orders an offence punishable by a fine or up to a year in prison.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Nigeria Data Protection Commission, led by National Commissioner Dr Vincent Olatunji, enforces the Act.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The Commission fined Meta USD 32.8 million and issued enforcement orders under the Act in a Final Order, later set aside by a consent judgment.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "regressing",
+   "fact": "The Commission dropped the USD 32.8 million fine against Meta in a consent judgment entered on 3 November 2025, and the article says Meta paid no penalty.",
+   "as_of": "2025-11-03",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
