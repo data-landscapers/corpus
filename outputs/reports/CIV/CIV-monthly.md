@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: CIV
-ledger_rows: 51
+ledger_rows: 52
 not_held: 10
-record: 2e648199f96c
+record: c4c2b29675f4
 ---
 
 # News, Sep – Oct 2026
@@ -377,6 +377,20 @@ Côte d'Ivoire's information-systems security agency will run a first national c
 </nav>
 
 ### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs system interconnection with Mali</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[COOPERATION BILATERALE : La Côte d'Ivoire et le Mali ont évalué la mise en œuvre du SIGMAT](https://apps.douanes.ci/info/cooperation-bilaterale)** — Douanes Ivoiriennes, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a>
+
+Abidjan review of SIGMAT on the Abidjan-Bamako transit corridor, 24-25 September 2026; joint roadmap adopted.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
