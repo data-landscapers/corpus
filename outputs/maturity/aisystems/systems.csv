@@ -165,6 +165,7 @@ NGA,Nigeria Atlas for Languages and AI at Scale,Nigeria Atlas for Languages and 
 NGA,Nigeria AI Scaling Hub (NAISH),Nigeria,localai,Galaxy Backbone,"Federal Ministry of Communications, Innovation and Digital Economy",,2026-06-27-nga-naish-tijani-unveils-ai-scaling-hub-to-power-startups-public-sector-in
 NGA,N-ATLAS,Nigeria,localai,Meta Llama-3,National Centre for Artificial Intelligence and Robotics; Awarri,,2026-10-24-nga-nigerias-tijani-pitches-fibre-and-skills-drive-for-ai-in-seoul
 NGA,National shared computing facility,Nigeria,localai,,Government with Gates Foundation,,2026-10-24-nga-nigerias-tijani-pitches-fibre-and-skills-drive-for-ai-in-seoul
+NGA,AFRIDATA data centres,Nigeria,other,AI-ready data centres,INFRAGORA Global Capital,Tier III+/IV (planned),2026-10-26-nga-techcabal-infragora-afridata-data-centres
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
@@ -229,6 +230,7 @@ ZAF,African languages LLM consortium (NRF and Telkom Centres of Excellence),Sout
 ZAF,InkubaLM,South Africa,localai,large language model,Lelapa AI,,2025-10-06-zaf-question-nw4967-to-the-minister-of-science-technology-and-innovation
 ZAF,SADiLaR,South Africa,other,digital language resource centre,"North-West University, funded by DSTI",,2025-10-06-zaf-question-nw4967-to-the-minister-of-science-technology-and-innovation
 ZAF,CHPC HPC & GPU Cluster,CHPC HPC & GPU Cluster,localai,"Dell cluster, 30 Nvidia V100 GPU nodes",NICIS CHPC,,2024-05-01-zaf-nicis-service-catalogue
+ZAF,AfriScience-MT,AfriScience-MT corpus,localai,,University of Pretoria and others,,2026-10-01-xaf-afriscience-mt-decolonizing-science-african-languages
 ZMB,UNDP country-hosted AI compute,Zambia,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 ZMB,AI/ML GPU-accelerated server platform,Zambia,localai,GPU-accelerated servers with 150TB storage engines,INFRATEL Corporation Limited,national,2026-06-01-infratel-150tb-storage-aiml-tender
 ZMB,"timbuktoo EDGE node, University of Zambia AI UniPod",Zambia,localai,sovereign AI compute node,"UNDP timbuktoo EDGE, University of Zambia",,2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot

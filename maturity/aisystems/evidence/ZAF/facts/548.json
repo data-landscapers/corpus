@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-xaf-afriscience-mt-decolonizing-science-african-languages",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "The paper, by authors including the University of Pretoria's Data Science for Social Impact group, releases AfriScience-MT, a parallel science translation corpus covering six languages including Northern Sotho and isiZulu.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "AfriScience-MT",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AfriScience-MT",
+   "country_label": "AfriScience-MT corpus",
+   "class": "localai",
+   "platform": "",
+   "owner": "University of Pretoria and others",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

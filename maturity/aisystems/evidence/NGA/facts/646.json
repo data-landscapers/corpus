@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-nga-techcabal-infragora-afridata-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "INFRAGORA Global Capital said on 26 October 2026 it plans to start building two AI-ready data centres in Nigeria in Q2-Q3 2027, under its AFRIDATA platform, with a USTDA-funded feasibility study covering their capacity for AI workloads.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "AFRIDATA",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AFRIDATA data centres",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "AI-ready data centres",
+   "owner": "INFRAGORA Global Capital",
+   "tiers": "Tier III+/IV (planned)"
+  }
+ ],
+ "note": ""
+}
