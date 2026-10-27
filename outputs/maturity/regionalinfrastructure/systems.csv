@@ -80,6 +80,7 @@ DJI,DARE1 (Djibouti Africa Regional Express 1),DARE1,shared,subsea cable,Djibout
 DJI,Wingu Africa Djibouti cable landing station and data centre,Wingu Africa Djibouti,other,data centre with integrated cable landing station,Wingu Africa,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
 DJI,AMS-IX Djibouti,AMS-IX Djibouti Internet exchange,other,,Wingu Africa with AMS-IX,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
 DJI,DjIX,DjIX,other,,,,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica
+DJI,Horizon Fiber Initiative,Djibouti,shared,terrestrial fibre,"Ethio Telecom, Djibouti Telecom, Sudatel",,2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to
 DZA,Trans-Saharan fibre-optic backbone,dorsale transsaharienne à fibre optique,shared,fibre-optic link,Algérie Télécom and Niger Télécom (built by both),national operators of Algeria and Niger,2026-10-06-dza-algerieeco-aps-assamaka-exploitation-dorsale-transsaharienne
 DZA,Trans-Saharan fibre-optic backbone,dorsale transsaharienne à fibre optique,shared,fibre-optic link,,,2026-10-06-ner-anp-assamaka-dorsale-transsaharienne-fibre
 DZA,Trans-Saharan fibre-optic backbone,projet d'interconnexion par fibre optique Niger-Algérie,shared,fibre-optic link,,,2026-10-06-ner-mcnti-niger-algerie-interconnexion-fibre-agadez
@@ -108,6 +109,7 @@ ETH,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Eth
 ETH,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Ethio telecom, Djibouti Telecom, Sudatel Group",,2026-02-04-horizon-fiber-tripartite-deal-techafricanews
 ETH,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Ethio Telecom, Djibouti Telecom, Sudatel Group","national; cross-border (Djibouti, Ethiopia, Sudan)",2026-02-11-dcd-horizon-fiber-agreement
 ETH,PAPSS,Ethiopia,other,Pan-African Payment and Settlement System,"Afreximbank, African Union, AfCFTA Secretariat",,2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026
+ETH,Horizon Fiber Initiative,Ethiopia,shared,terrestrial fibre,"Ethio Telecom, Djibouti Telecom, Sudatel",,2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to
 GAB,"Central African Backbone Program, Fourth Phase (CAB4), Gabon Project",CAB4 Gabon,shared,terrestrial fibre backbone,Gabonese Republic (implementing agency CN-TIPPEE),,2012-03-28-wb-gab-005-central-african-backbone-cab4-parent
 GAB,ACE Consortium membership,ACE cable,other,submarine cable,ACE Consortium,,2012-03-28-wb-gab-005-central-african-backbone-cab4-parent
 GAB,CAB-CORRIDOR,CAB-CORRIDOR,shared,terrestrial fibre pooling,SPIN Gabon and CAMIX (Cameroon),,2026-10-07-impactechos-cab-corridor-connectivite-afrique-centrale
@@ -227,6 +229,7 @@ SDN,Horizon Fiber,Horizon Fiber Initiative,shared,terrestrial multi-terabit opti
 SDN,Horizon Fiber,Horizon Fiber Initiative,shared,terrestrial multi-terabit optical fibre corridor,"Ethio telecom, Djibouti Telecom, Sudatel",operators,2026-02-04-sudatel-horizon-fiber-tripartite-agreement
 SDN,Horizon Fiber Initiative,Horizon Fiber,shared,terrestrial optical fibre,"Ethio Telecom, Djibouti Telecom, Sudatel Group",,2026-02-11-dcd-horizon-fiber-agreement
 SDN,"Port Sudan to Douala Corridor, fiber optic connectivity component (Sudan section)",Sudan Section of the Fiber Optic Connectivity Component of the Port Sudan to Douala Corridor,shared,,African Union PIDA project record,,2023-09-11-pida-port-sudan-douala-fibre-corridor
+SDN,Horizon Fiber Initiative,Sudan,shared,terrestrial fibre,"Ethio Telecom, Djibouti Telecom, Sudatel",,2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to
 SEN,Phase3-Sonatel Lagos-Dakar terrestrial fibre route,Senegal;Nigeria;Benin;Togo;Ghana,shared,terrestrial fibre,Phase3 Telecom and Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,Djoliba,Djoliba network,shared,terrestrial fibre,Phase3 Telecom,,2025-05-09-techafricanews-phase3-sonatel-fibre
 SEN,Ikasira,Ikasira,other,,Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fibre

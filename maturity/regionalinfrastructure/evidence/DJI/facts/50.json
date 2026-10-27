@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Birr Metrics reports that Ethiopia's Horizon Fiber Initiative is a trilateral agreement with Djibouti Telecom and Sudan's Sudatel to establish a multi-terabit terrestrial fibre link by April 2025.",
+   "as_of": "2025-07-24",
+   "date_precision": "day",
+   "system": "Horizon Fiber Initiative",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber Initiative",
+   "country_label": "Djibouti",
+   "class": "shared",
+   "platform": "terrestrial fibre",
+   "owner": "Ethio Telecom, Djibouti Telecom, Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
