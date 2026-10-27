@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-05-ssd-south-sudan-pushes-one-stop-border-project-to-cut-trade-delays-digitis",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Sudans Post reports South Sudan's trade minister and revenue authority commissioner met on 5 January 2026 to coordinate a four-year, USD 10.8 million EU-funded one-stop border post at Nimule, combining customs automation and electronic clearance, with the design approved.",
+   "as_of": "2026-01-05",
+   "date_precision": "day",
+   "system": "Nimule One-Stop Border Post",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nimule One-Stop Border Post",
+   "country_label": "South Sudan",
+   "class": "customs",
+   "platform": "",
+   "owner": "Ministry of Trade and Industry; South Sudan Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

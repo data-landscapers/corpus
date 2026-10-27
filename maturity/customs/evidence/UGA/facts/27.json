@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-12-uga-uganda-article-10-4-single-window-progress-reported-g-tfa-n-uga-4",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Uganda's WTO notification G/TFA/N/UGA/4 of 12 June 2024 reports 22 of a target 45 agencies actively operational on the e-Single Window, with interfaces to commercial banks and online permits and certificates.",
+   "as_of": "2024-06-12",
+   "date_precision": "day",
+   "system": "e-Single Window",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Single Window",
+   "country_label": "e-Single Window",
+   "class": "customs",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

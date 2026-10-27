@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,customs,system,coverage,inservice,2026-02-23,MLI-001;MLI-002,,
+MLI,customs,system,coverage,inservice,2026-02-23,MLI-001;MLI-002;MLI-004,MLI-005=underway;MLI-006=underway,
 MLI,customs,window,coverage,,,,,nothing held
-MLI,customs,exchange,coverage,,,,,nothing held
+MLI,customs,exchange,coverage,exchange,2026-09-25,MLI-003;MLI-007,,

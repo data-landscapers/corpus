@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 RWA,customs,system,coverage,inservice,2024,RWA-001;RWA-002,RWA-003=underway,
 RWA,customs,window,coverage,,,,,nothing held
-RWA,customs,exchange,coverage,,,,,nothing held
+RWA,customs,exchange,coverage,exchange,2025-01-27,RWA-004,,

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-25-mar-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The ADII 2024 activity report says the number of customs declarations rose 7.1% to pass two million for the first time, processed through its BADR system.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "BADR",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BADR",
+   "country_label": "Morocco",
+   "class": "customs",
+   "platform": "",
+   "owner": "ADII",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

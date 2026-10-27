@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-28-gnq-lanzamiento-oficial-de-la-plataforma-digital-sidunea-world-en-las-adua",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Prime Minister officially launched the Sidunea World customs platform at Bata customs on 27 December 2024; the finance minister says it has been in use at Malabo customs since 2021.",
+   "as_of": "2024-12-27",
+   "date_precision": "day",
+   "system": "Sidunea World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sidunea World",
+   "country_label": "Sidunea World",
+   "class": "customs",
+   "platform": "ASYCUDA",
+   "owner": "Direccion General de Aduanas",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

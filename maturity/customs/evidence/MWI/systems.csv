@@ -1,8 +1,12 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MWI,Malawi National Single Window (NSW),Malawi,customs,,Ministry of Trade and Industry,,2025-05-20-mwi-satcp-national-single-window-launch
-MWI,ASYCUDA World,Malawi,other,ASYCUDA World,Malawi Revenue Authority,,2025-05-20-mwi-satcp-national-single-window-launch
+MWI,ASYCUDA World,Malawi,customs,ASYCUDA World,Malawi Revenue Authority,,2025-05-20-mwi-satcp-national-single-window-launch
 MWI,ASYCUDA World,Malawi,customs,ASYCUDA World 4.4,Malawi Revenue Authority,,2025-01-09-mwi-mra-asycuda-world-4-4-upgrade
 MWI,ASYCUDA,Malawi,customs,ASYCUDA,,,2026-07-22-mwi-nation-mra-digital-tax-stamps-ai
 MWI,ASYCUDAWorld 4.3.3,Malawi,customs,ASYCUDAWorld,Malawi Revenue Authority,,2023-10-20-mwi-asycuda-asycudaworld-upgrade-malawi
 MWI,Electronic Invoicing System (EIS),Malawi,other,,Malawi Revenue Authority,,2026-07-20-malawi24-mra-electronic-invoicing-system-momentum
 MWI,Electronic Invoicing System (EIS),Malawi,other,,Malawi Revenue Authority,,2026-02-11-malawi24-mra-clarifies-eis-rental-income-tax
+MWI,ASYCUDA World,Malawi,customs,ASYCUDA,Malawi Revenue Authority,,2026-08-13-mwi-mra-hails-automation-of-cargo-clearance
+MWI,ASYCUDA,Malawi,customs,ASYCUDA,Malawi Revenue Authority,,2025-12-24-mwi-zambia-and-malawi-live-customs-data-exchange-to-speed-up-trade-and-str
+MWI,ASYCUDA World,ASYCUDA World,customs,UNCTAD ASYCUDA World,Malawi Revenue Authority,,2025-05-23-mwi-ict-projects-running-at-satcp
+MWI,Malawi National Single Window,Malawi National Single Window,other,Crimson Logic,Ministry of Trade and Industry,,2025-05-23-mwi-ict-projects-running-at-satcp

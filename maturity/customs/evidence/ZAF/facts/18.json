@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-08-zaf-no-completion-date-for-sa-s-single-window",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "SARS told Freight News that the National Single Window is being introduced in phases, with an electronic inspection workflow implemented in September 2023 and selected importers in phased testing, and gave no completion date.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "National Single Window",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Single Window",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "SARS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-23-civ-commerce-10-ans-apres-sa-mise-en-service-le-guichet-unique-du-commerce",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The Ministry of Commerce says the GUCE-CI single window lets traders complete import, export and transit formalities entirely online and is the central digital interface between operators, public administrations and banks, with ten years of service.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "GUCE-CI",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE-CI",
+   "country_label": "Guichet Unique du Commerce Extérieur de Côte d'Ivoire",
+   "class": "customs",
+   "platform": "GuceMobil app and website",
+   "owner": "GUCE-CI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

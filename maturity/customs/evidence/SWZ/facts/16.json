@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-03-swz-eswatini-revenue-service-implementing-the-e-co-sadc-comesa",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Eswatini Revenue Service says in a 3 February 2025 presentation that customs declaration data is automatically exchanged with the South African Revenue Service, and that it built its electronic certificate of origin on existing ASYCUDA World infrastructure.",
+   "as_of": "2025-02-03",
+   "date_precision": "day",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World",
+   "country_label": "ASYCUDA World",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Eswatini Revenue Service",
+   "tiers": ""
+  },
+  {
+   "system": "e-CO",
+   "country_label": "Electronic certificate of origin (SADC May 2021, COMESA November 2024)",
+   "class": "other",
+   "platform": "",
+   "owner": "Eswatini Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": "The exchange with SARS is with one neighbour and the e-CO is an origin certificate, so no regional exchange of declaration or transit data is stated."
+}

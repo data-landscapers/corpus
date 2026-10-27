@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-06-ken-kenya-and-uganda-tackle-the-challenge-of-exchanging-images-of-scanned",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A Kenya Revenue Authority officer writing in WCO News says KRA's customs system matches scanned cargo to customs declarations and shares them through the EAC Single Customs Territory Centralized Platform, operational since July 2024.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Single Customs Territory Centralized Platform",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "A KRA officer writing in WCO News says the EAC Single Customs Territory Centralized Platform, built for Burundi, Kenya, Rwanda, Uganda, Tanzania and South Sudan, has shared customs declarations and scanned-cargo images since July 2024, with Kenya sending over 20,000 images to Uganda.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Single Customs Territory Centralized Platform",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Customs Territory Centralized Platform",
+   "country_label": "EAC SCT Centralized Platform",
+   "class": "customs",
+   "platform": "",
+   "owner": "EAC partner states",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

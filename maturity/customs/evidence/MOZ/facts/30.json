@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-24-moz-ajuste-directo-da-jue-estaria-o-governo-a-legitimar-carteis-que-lesam",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The Centro de Integridade Pública says the current Janela Unica Electronica (electronic single window), implemented by MCNet under a concession, is in operation, though with frequent breakdowns and hybrid digital and paper procedures.",
+   "as_of": "2025-11-24",
+   "date_precision": "day",
+   "system": "Janela Unica Electronica (JUE)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Janela Unica Electronica (JUE)",
+   "country_label": "JUE electronic single window",
+   "class": "customs",
+   "platform": "",
+   "owner": "MCNet concession (state 20%, CTA 20%, Escopil and SGS 60%)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

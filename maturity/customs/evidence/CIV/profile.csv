@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,customs,system,coverage,inservice,2016,CIV-001;CIV-002,,nothing dated since 2023-10-26
-CIV,customs,window,coverage,window,2022-01,CIV-003,,nothing dated since 2023-10-26
-CIV,customs,exchange,coverage,exchange,2025-10-31,CIV-004;CIV-005,,
+CIV,customs,system,coverage,inservice,2024-07-25,CIV-001;CIV-002;CIV-009,CIV-006=underway,
+CIV,customs,window,coverage,window,2025-05-22,CIV-003;CIV-008;CIV-010,,
+CIV,customs,exchange,coverage,exchange,2026-09-25,CIV-005;CIV-007;CIV-011;CIV-012,,

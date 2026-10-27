@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNQ,customs,system,coverage,underway,2026-09-15,GNQ-001,,
+GNQ,customs,system,coverage,inservice,2025-06,GNQ-002;GNQ-003,GNQ-001=underway,
 GNQ,customs,window,coverage,,,,,nothing held
 GNQ,customs,exchange,coverage,,,,,nothing held

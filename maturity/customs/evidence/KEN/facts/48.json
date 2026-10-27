@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-27-ken-kra-to-overhaul-customs-system-fully-automate-cargo-operations-by-2026",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Kenya's Integrated Customs Management System lets traders submit export and import documents electronically, and requires sea manifests 48 hours before vessels dock or depart, the outlet reports.",
+   "as_of": "2025-07-27",
+   "date_precision": "day",
+   "system": "Integrated Customs Management System (iCMS)",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The outlet says the iCMS takes import and export documents electronically through a single window.",
+   "as_of": "2025-07-27",
+   "date_precision": "day",
+   "system": "Integrated Customs Management System (iCMS)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Customs Management System (iCMS)",
+   "country_label": "iCMS",
+   "class": "customs",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

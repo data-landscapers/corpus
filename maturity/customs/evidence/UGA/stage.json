@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "5",
       "system": "inservice",
-      "window": "",
-      "exchange": "",
+      "window": "window",
+      "exchange": "exchange",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-001",
-      "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "ASYCUDA World processes all goods imported or exported in 2024, so stage 3. No source describes a trade single window.",
-      "as_at": "2026-10-26"
+      "stage_sources": "UGA-006;UGA-010",
+      "gaps": "",
+      "note": "A KRA officer writing for the WCO says the EAC Single Customs Territory Centralized Platform has carried Uganda's declarations and scanned-cargo images since July 2024, so stage 5. The Uganda Electronic Single Window had 22 agencies operational in June 2024.",
+      "as_at": "2026-10-27"
     }
   ]
 }

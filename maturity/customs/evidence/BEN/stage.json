@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "4",
+      "stage": "5",
       "system": "inservice",
       "window": "window",
-      "exchange": "",
+      "exchange": "exchange",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-010;BEN-001;BEN-009",
-      "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
-      "note": "Webb Customs runs at all ports, airports and land borders and, per Webb Fontaine in February 2025, is interconnected with the National Single Window, so a single window is in service. No electronic exchange with another country's customs is held, so not stage 5.",
-      "as_at": "2026-10-22"
+      "stage_sources": "BEN-012",
+      "gaps": "",
+      "note": "ECOWAS says Benin's customs was connected to SIGMAT, the community's transit data exchange system, in July 2024, so stage 5. Webb Customs runs at all ports, airports and land borders and is interconnected with the National Single Window.",
+      "as_at": "2026-10-27"
     }
   ]
 }

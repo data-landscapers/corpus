@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,customs,system,coverage,inservice,2026-06-20,SWZ-001;SWZ-002,,
+SWZ,customs,system,coverage,inservice,2026-06-20,SWZ-001;SWZ-002;SWZ-004;SWZ-005;SWZ-006;SWZ-007,SWZ-003=underway,
 SWZ,customs,window,coverage,,,,,nothing held
 SWZ,customs,exchange,coverage,,,,,nothing held

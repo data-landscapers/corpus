@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COG,customs,system,coverage,inservice,2026-08-03,COG-001,,
-COG,customs,window,coverage,,,,,nothing held
+COG,customs,window,coverage,window,2025-07-04,COG-002,,
 COG,customs,exchange,coverage,,,,,nothing held

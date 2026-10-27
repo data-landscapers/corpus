@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-01-cpv-cabo-verde-embraces-asyval-to-strengthen-trade-integrity-and-revenue-m",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ASYCUDA reports that Cabo Verde launched the ASYVAL valuation control module in ASYCUDAWorld in March 2025, which flags deviating import declarations automatically and raised customs revenue by 2.49% on average across 12 product categories.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "ASYCUDAWorld",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDAWorld",
+   "country_label": "ASYCUDAWorld with ASYVAL valuation control module",
+   "class": "customs",
+   "platform": "ASYCUDAWorld",
+   "owner": "Cabo Verde customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

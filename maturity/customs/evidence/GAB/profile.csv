@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,customs,system,coverage,underway,2026-03-30,GAB-001,,
+GAB,customs,system,coverage,inservice,2025-01-23,GAB-002;GAB-003,GAB-001=underway,
 GAB,customs,window,coverage,,,,,nothing held
 GAB,customs,exchange,coverage,,,,,nothing held

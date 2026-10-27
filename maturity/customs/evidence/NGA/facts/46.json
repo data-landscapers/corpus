@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-18-nga-phase-2-of-national-single-window-to-go-live-november-2026-with-export",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "BusinessDay reports the Nigeria Customs Service is fully integrated into the National Single Window, and a manual licence-upload option was added on customs' B'Odogwu platform to keep Form M and pre-arrival assessment processing moving.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "B'Odogwu",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The National Single Window Secretariat's operations director said Phase 1 went live on 27 March 2026 with Customs, SON, NAFDAC, NAQS and NESREA fully integrated, having processed 114,112 licences and permits and N11.27 billion in payments.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "National Single Window",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Single Window",
+   "country_label": "Nigeria",
+   "class": "customs",
+   "platform": "",
+   "owner": "National Single Window Secretariat",
+   "tiers": ""
+  },
+  {
+   "system": "B'Odogwu",
+   "country_label": "Nigeria",
+   "class": "customs",
+   "platform": "",
+   "owner": "Nigeria Customs Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

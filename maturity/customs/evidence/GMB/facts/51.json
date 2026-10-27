@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-gmb-trade-facilitation-and-paperless-trade-in-gambia",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The UN Global Survey on Digital and Sustainable Trade Facilitation 2025 rates Gambia's Automated Customs System, and e-submission of sea and air cargo manifests, as fully implemented, with e-submission of customs declarations partially implemented.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Automated Customs System",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Automated Customs System",
+   "country_label": "Gambia",
+   "class": "customs",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

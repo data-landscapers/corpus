@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BWA,National Single Window,Botswana,customs,,BURS,"implementation commenced, expected December 2027",2024-02-05-bwa-dailynews-burs-ebilling-single-window
 BWA,Customs Management System (CMS),Botswana,customs,,Botswana Unified Revenue Service,"declaration processing, single window OGA module",2022-02-24-bwa-wco-burs-data-driven-customs
+BWA,Unique Consignment Reference (UCR) system,Botswana,other,,Botswana Unified Revenue Service,,2024-11-22-bwa-new-cargo-clearing-system-causes-botswana-border-backlog

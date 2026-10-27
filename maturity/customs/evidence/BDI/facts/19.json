@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-22-bdi-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-se",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Systeme de Suivi et Inspection Electronique des Cargos",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "Office Burundais des Recettes",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a cargo tracking system (since 2014) is described; no clearance system is stated."
+}

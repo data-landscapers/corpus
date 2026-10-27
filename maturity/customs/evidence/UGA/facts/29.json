@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-01-uga-regional-electronic-cargo-tracking-system-rects",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RECTS",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "GPS e-seal",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "RECTS is a cargo tracking system; no declaration processing or customs data exchange system is stated."
+}

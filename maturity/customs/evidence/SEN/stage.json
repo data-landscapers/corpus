@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "2",
-      "system": "underway",
-      "window": "",
+      "stage": "4",
+      "system": "inservice",
+      "window": "window",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-001",
-      "gaps": "No source held since October 2023 says: are declarations processed electronically.",
-      "note": "A pilot of electronic delivery orders through the port single window from January 2026 is the only fact held, a stage-2 fact. No source says declarations are processed in an automated system.",
-      "as_at": "2026-10-26"
+      "stage_sources": "SEN-003;SEN-002",
+      "gaps": "No source held since October 2023 says customs exchanges data through a system open to its whole regional community.",
+      "note": "GAINDE 2000 runs ORBUS, the single window for foreign-trade formalities, with customs and the clearance actors in June 2024, when customs said GAINDE was in force at four border offices, so stage 4. No source shows exchange through a system open to the regional community.",
+      "as_at": "2026-10-27"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-gin-securite-et-transparence-les-douanes-guineennes-modernisent-la-gestion",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Africa Guinee reports Guinea's customs use the SYDONIA customs platform, on which System FIRST Guinea will issue and manage the electronic cargo tracking note under a 28 August 2025 agreement.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "SYDONIA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA",
+   "country_label": "Guinea",
+   "class": "customs",
+   "platform": "ASYCUDA",
+   "owner": "Direction Générale des Douanes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

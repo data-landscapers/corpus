@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-01-eth-ethiopia-increases-customs-revenue-with-webb-customs",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Webb Fontaine says its EU-funded Webb Customs eCMS automates 27 Ethiopian customs offices, replacing the old Asycuda system, with declaration processing and airport manifests handled electronically.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Webb Customs eCMS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Webb Customs eCMS",
+   "country_label": "Webb Customs eCMS",
+   "class": "customs",
+   "platform": "Webb Fontaine eCMS",
+   "owner": "Ethiopian Customs Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

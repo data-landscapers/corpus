@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-04-cog-visite-du-guichet-unique-des-operations-transfrontalieres-guot",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The Congolese finance ministry says the Guichet unique des operations transfrontalieres (GUOT), with 78 staff, provides IT services for data exchange in dematerialised foreign-trade procedures and ensures interoperability of all trade actors' systems across ports, airports and land borders.",
+   "as_of": "2025-07-04",
+   "date_precision": "day",
+   "system": "Guichet unique des operations transfrontalieres (GUOT)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique des operations transfrontalieres (GUOT)",
+   "country_label": "Congo",
+   "class": "customs",
+   "platform": "",
+   "owner": "Ministere des finances, du budget et du portefeuille public",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CAF,customs,system,coverage,inservice,2026-07-03,CAF-001;CAF-003;CAF-006;CAF-007,CAF-004=underway;CAF-005=underway,
 CAF,customs,window,coverage,,,,,nothing held
-CAF,customs,exchange,coverage,exchange,2026-04,CAF-002,,
+CAF,customs,exchange,coverage,,,,,nothing held

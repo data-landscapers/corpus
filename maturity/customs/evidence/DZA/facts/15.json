@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-25-dza-algerieeco-douanes-23402-operateurs-alces",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Finance Minister Abdelkrim Bouzred says the customs information system launched in early November 2023 is generalised to all customs offices, with electronic processing of customs files at all land, sea and air centres, and 23,402 traders registered by end March 2025.",
+   "as_of": "2025-05-25",
+   "date_precision": "day",
+   "system": "Customs information system",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Customs information system",
+   "country_label": "Algeria",
+   "class": "customs",
+   "platform": "",
+   "owner": "Algerian Customs",
+   "tiers": ""
+  }
+ ],
+ "note": "A single-window link to ministries is only under way."
+}

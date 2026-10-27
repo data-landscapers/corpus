@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,customs,system,coverage,inservice,2025-02,MWI-003;MWI-004;MWI-005,MWI-002=underway,
+MWI,customs,system,coverage,inservice,2026-08-11,MWI-003;MWI-004;MWI-005;MWI-007;MWI-008;MWI-010,MWI-009=underway;MWI-002=underway,
 MWI,customs,window,coverage,window,2025-05-20,MWI-001,,
 MWI,customs,exchange,coverage,,,,,nothing held

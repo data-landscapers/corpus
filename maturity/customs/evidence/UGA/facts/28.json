@@ -1,0 +1,36 @@
+{
+ "slug": "2024-06-01-uga-uganda-electronic-single-window-uesw",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Uganda Revenue Authority's UESW page says the single window is built on the ASYCUDA World platform and lists an upgrade of the customs ASYCUDA World system.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The Uganda Revenue Authority's UESW page says the Uganda Electronic Single Window has automated 22 of 30 border agencies, which can issue permits and certificates electronically.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "UESW",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UESW",
+   "country_label": "Uganda Electronic Single Window (UESW)",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

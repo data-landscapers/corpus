@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-tcd-e-paiement",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Chad's customs directorate says its SYDONIA World system processes declarations, with e-payment of all duties and taxes linked to it since 21 February 2024.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "SYDONIA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "Chad",
+   "class": "customs",
+   "platform": "SYDONIA World",
+   "owner": "DGDDI Tchad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 BDI,Guichet Unique Electronique (GUE),Burundi,customs,,Office Burundais des Recettes (OBR),national,2026-02-19-burundi-guichet-unique-importation-wearetech
 BDI,ASYCUDA,Burundi,customs,ASYCUDA World,Office Burundais des Recettes (OBR),national,2026-02-19-burundi-guichet-unique-importation-wearetech
+BDI,Systeme de Suivi et Inspection Electronique des Cargos,Burundi,other,,Office Burundais des Recettes,,2026-09-22-bdi-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-se
+BDI,ABREMA electronic single window,ABREMA module,customs,,Office Burundais des Recettes,,2026-02-17-bdi-migration-du-guichet-unique-electronique-de-l-abrema-vers-une-platefor

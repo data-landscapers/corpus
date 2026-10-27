@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "4",
-      "system": "inservice",
+      "stage": "5",
+      "system": "",
       "window": "window",
-      "exchange": "",
+      "exchange": "exchange",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001",
-      "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
-      "note": "The OBR's electronic single window joins customs with the medicines regulator and the agriculture ministry and is the only route for pharmaceutical imports in 2026, so stage 4. No source shows exchange with another country's customs.",
-      "as_at": "2026-10-26"
+      "stage_sources": "BDI-003",
+      "gaps": "",
+      "note": "TradeMark Africa says Burundi's customs system is one of five interconnected through the EAC Single Customs Territory Centralised Platform, unveiled in revamped form in January 2025, so stage 5. The OBR's electronic single window joins customs with the medicines regulator and the agriculture ministry in 2026.",
+      "as_at": "2026-10-27"
     }
   ]
 }

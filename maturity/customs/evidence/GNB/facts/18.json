@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-03-gnb-guine-bissau-adota-sistema-sydonia-world-para-modernizar-controlo-adua",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The customs directorate says Guinea-Bissau formally presented SYDONIA World, migrating from SYDONIA++, with training of customs staff under way.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "SYDONIA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "Guinea-Bissau",
+   "class": "customs",
+   "platform": "ASYCUDA",
+   "owner": "Direcção Geral das Alfândegas",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

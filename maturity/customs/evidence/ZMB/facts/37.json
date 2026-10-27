@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-24-mwi-zambia-and-malawi-live-customs-data-exchange-to-speed-up-trade-and-str",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "TradeMark Africa reports the Zambia Revenue Authority customs system processes export and import declarations, with the enhanced CCEDE live with the neighbouring authority since November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Zambia Revenue Authority customs system",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia Revenue Authority customs system",
+   "country_label": "Zambia",
+   "class": "customs",
+   "platform": "",
+   "owner": "Zambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Exchange is with Malawi only, not a regional community system."
+}

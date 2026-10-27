@@ -6,7 +6,7 @@
 
 **Single window.** No source held since October 2023 says a trade single window is in service. The nearest held fact: [the one given above](<https://unctad.org/project/amplifying-digital-opportunities-cross-border-trade>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://unctad.org/project/amplifying-digital-opportunities-cross-border-trade>).
+**Exchange with partners.** [TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, unveiled in revamped form on 27 January 2025](<https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/>).
 
 ***Noted, not assessed***. [E-Tax](<https://www.rra.gov.rw/en/home?cHash=8f3d2c2f531584fb89dc7425813e1fbc&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=2418>); [EBM2](<https://www.rra.gov.rw/en/home?cHash=8f3d2c2f531584fb89dc7425813e1fbc&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=2418>).
 

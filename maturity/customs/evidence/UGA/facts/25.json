@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-19-uga-ura-trains-customs-agents-ahead-of-export-fiscalisation-roll-out",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Uganda Revenue Authority says an automation process links EFRIS export invoices with ASYCUDA, and it trained clearing agents on 19 May 2025 ahead of export fiscalisation for exports outside the EAC.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "ASYCUDA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA",
+   "country_label": "Uganda",
+   "class": "customs",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "EFRIS",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

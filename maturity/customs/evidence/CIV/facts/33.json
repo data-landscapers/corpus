@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-30-civ-innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "GUCE CI's director says traders have for several years submitted customs declarations and paid duties and taxes electronically through the GUCE transaction portal.",
+   "as_of": "2024-07-25",
+   "date_precision": "day",
+   "system": "GUCE CI portal",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "GUCE CI, the foreign-trade single window implemented in 2013, lets traders file customs formalities, licences and declarations electronically for the administrations involved.",
+   "as_of": "2024-07-25",
+   "date_precision": "day",
+   "system": "GUCE CI portal",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE CI portal",
+   "country_label": "Cote d'Ivoire",
+   "class": "customs",
+   "platform": "",
+   "owner": "GUCE CI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

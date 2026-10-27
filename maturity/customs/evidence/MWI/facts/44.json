@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-11-mwi-mra-hails-comesa-investment-at-border",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Nation (11 March 2024) reports that at the Mchinji-Mwami border post the Malawi Revenue Authority's ASYCUDA system exchanges import and export data electronically with Zambia Revenue Authority's ASYCUDA.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "ASYCUDA",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

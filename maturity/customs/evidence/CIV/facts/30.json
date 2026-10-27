@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-civ-modernisation-douaniere",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Ivorian customs describes its Douane Intelligente modernisation project, backed by Huawei, as being deployed, with a 5-14 December 2025 training mission to China.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Douane Intelligente",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

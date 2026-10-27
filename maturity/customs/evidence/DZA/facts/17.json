@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-20-dza-tsa-douanes-guichet-electronique-unique-alces",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "TSA Algerie reports that the Algerian customs information system ALCES lets customs formalities be done online.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "ALCES",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "TSA Algerie reports a customs notice of 18 August 2026 saying the electronic single window module of ALCES was put in service, with Commerce Ministry authorisations now filed through it in parallel with paper and several other bodies to be covered.",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Guichet electronique unique (ALCES)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ALCES",
+   "country_label": "ALCES customs information system with electronic single window module",
+   "class": "customs",
+   "platform": "",
+   "owner": "Douanes algeriennes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

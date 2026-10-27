@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "2",
-      "system": "underway",
+      "stage": "3",
+      "system": "inservice",
       "window": "",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GNQ-001",
-      "gaps": "No source held since October 2023 says: are declarations processed electronically.",
-      "note": "Phase II of SYDONIA, extending it beyond Malabo, is to be implemented in 2026, a stage-2 fact. No source says declarations are processed in the system.",
-      "as_at": "2026-10-26"
+      "stage_sources": "GNQ-002;GNQ-003",
+      "gaps": "No source held since October 2023 says a trade single window is in service.",
+      "note": "UNCTAD reports ASYCUDAWorld fully operational in all customs offices in June 2025, the Malabo port and airport among them, so stage 3. No source describes a trade single window.",
+      "as_at": "2026-10-27"
     }
   ]
 }

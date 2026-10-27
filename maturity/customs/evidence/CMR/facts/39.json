@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-25-cmr-echanges-commerciaux-le-guichet-unique-de-troisieme-generation-se-devo",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The GUCE single window, a partnership of the State and operators on a platform dating from 2012, is described as issuing customs duty receipts and clearing imports and vehicles within 48 hours; a third-generation version is announced for Q1 2025.",
+   "as_of": "2024-11-21",
+   "date_precision": "day",
+   "system": "GUCE",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE",
+   "country_label": "Guichet Unique des Operations du Commerce Exterieur",
+   "class": "customs",
+   "platform": "",
+   "owner": "GUCE-GIE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

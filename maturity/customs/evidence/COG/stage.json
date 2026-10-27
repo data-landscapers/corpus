@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "window": "",
+      "window": "window",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COG-001",
-      "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "Importers declare on Sydonia and pay duties online from August 2026, so stage 3. No source describes a trade single window.",
-      "as_at": "2026-10-26"
+      "stage_sources": "COG-002",
+      "gaps": "No source held since October 2023 says customs exchanges data through a system open to its whole regional community.",
+      "note": "The finance ministry describes the GUOT single window as running data exchange and interoperability among all trade actors' systems at ports, airports and borders in July 2025, so stage 4. No source shows exchange through a system open to the regional community.",
+      "as_at": "2026-10-27"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-30-gnb-ordem-de-servico-gdga-10-26-modulo-asyval-de-controlo-do-valor-aduanei",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Direcao-Geral das Alfandegas' service order GDGA 10/26 says declarations are registered in SYDONIA World and its ASYVal valuation module takes effect on 1 May 2026, with value alerts resolved in the system before clearance.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "SYDONIA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "SYDONIA World",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Direcao-Geral das Alfandegas",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

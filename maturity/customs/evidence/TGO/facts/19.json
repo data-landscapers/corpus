@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-06-tgo-avis-aux-operateurs-economiques-n-004-2025-relatif-a-l-interconnexion",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Togolese Revenue Office notice requires Togo-to-Mali transit operations via Burkina Faso to be generated in SYDONIA World.",
+   "as_of": "2025-03-10",
+   "date_precision": "day",
+   "system": "SYDONIA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "Togo",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Office Togolais des Recettes",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

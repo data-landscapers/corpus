@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-22-com-tacd-cartena-appuie-le-ministere-des-finances-comorien-sur-sa-strategi",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "TACD CARTENA says SYDONIA is one of the four main applications of the Comorian finance ministry's financial information system, alongside SIGIT, SIM-BA and GISE.",
+   "as_of": "2024-02-22",
+   "date_precision": "day",
+   "system": "SYDONIA",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA",
+   "country_label": "Comoros",
+   "class": "customs",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

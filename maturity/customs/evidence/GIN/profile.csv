@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,customs,system,coverage,inservice,2025,GIN-003,,
+GIN,customs,system,coverage,inservice,2025,GIN-003;GIN-004,,
 GIN,customs,window,coverage,window,2026-06-26,GIN-001,,
 GIN,customs,exchange,coverage,exchange,2025-10-31,GIN-002,,

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-20-ago-agt-anuncia-migracao-para-novo-sistema-de-processamento-aduaneiro",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "AGT is migrating to ASYCUDA World version 5 (ASY5), per its chairman José Leiria, after TIMS in 2002 and ASYCUDA in 2007.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "ASYCUDA World v5 (ASY5)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World v5 (ASY5)",
+   "country_label": "Angola",
+   "class": "customs",
+   "platform": "ASYCUDA",
+   "owner": "AGT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-03-egy-wto-tfad-article-10-4-single-window-nafeza",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Egypt's progress report to the WTO of 3 May 2024 says the Nafeza national single window is activated in most customs ports and electronically linked to most of the border agencies concerned.",
+   "as_of": "2024-05-03",
+   "date_precision": "day",
+   "system": "Nafeza",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nafeza",
+   "country_label": "Egypt",
+   "class": "customs",
+   "platform": "",
+   "owner": "Government of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

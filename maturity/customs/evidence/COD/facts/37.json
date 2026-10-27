@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-01-cod-commerce-exterieur-la-dematerialisation-douaniere-s-etend-a-trois-prov",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Electronic transmission of the GUICE document bundle to the SYDONIA World customs system is deployed in Haut-Katanga (Lubumbashi, Kasumbalesa, Sakania), Lualaba and Kongo-Central, with N'djili airport from 1 July 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "SYDONIA World",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The Guichet unique integral du commerce exterieur (GUICE) sends documents electronically to customs and the administrations involved in import and export, deployed in three provinces in June 2026, per SEGUCE RDC and DGDA.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "GUICE",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "RDC",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "DGDA",
+   "tiers": ""
+  },
+  {
+   "system": "GUICE",
+   "country_label": "RDC",
+   "class": "customs",
+   "platform": "",
+   "owner": "SEGUCE RDC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

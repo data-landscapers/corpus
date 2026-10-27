@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,customs,system,coverage,inservice,2025-08-25,KEN-002;KEN-007;KEN-009;KEN-011,KEN-001=underway;KEN-003=underway;KEN-006=underway,
-KEN,customs,window,coverage,window,2025-08-25,KEN-004;KEN-008;KEN-010,,
-KEN,customs,exchange,coverage,exchange,2025-08-25,KEN-005,,
+KEN,customs,system,coverage,inservice,2025-08-25,KEN-002;KEN-007;KEN-009;KEN-011;KEN-012;KEN-014,KEN-001=underway;KEN-003=underway;KEN-006=underway,
+KEN,customs,window,coverage,window,2025-08-25,KEN-004;KEN-008;KEN-010;KEN-015,,
+KEN,customs,exchange,coverage,exchange,2025-08-25,KEN-005;KEN-013;KEN-016,,

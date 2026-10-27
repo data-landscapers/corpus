@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-04-mdg-commerce-exterieur-gasynet-rapporte-un-delai-moyen-de-dedouanement-red",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "GasyNet's chief executive says the TradeNet electronic single window, with its Douar customs module, is in service and has cut average clearance time to three days.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "TradeNet",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "GasyNet's chief executive says TradeNet connects customs (Douar), control ministries and agencies (Midac) and shipping lines (Delivery Order) in one electronic single window.",
+   "as_of": "2025-06-03",
+   "date_precision": "day",
+   "system": "TradeNet",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TradeNet",
+   "country_label": "Madagascar",
+   "class": "customs",
+   "platform": "",
+   "owner": "GasyNet",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

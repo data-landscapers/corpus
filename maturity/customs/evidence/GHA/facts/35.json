@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31-civ-technical-mission-to-ghana-on-the-deployment-of-sigmat-between-ghana-a",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "The ECOWAS Commission says SIGMAT, its interconnected transit-goods system for electronic data exchange between Member States, has been in use by implementing states since 2019, and that a 21-25 July 2025 mission to Ghana resolved the technical and functional challenges hindering transit between Cote d'Ivoire and Ghana.",
+   "as_of": "2025-07-25",
+   "date_precision": "day",
+   "system": "SIGMAT",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGMAT",
+   "country_label": "Ghana",
+   "class": "customs",
+   "platform": "ECOWAS",
+   "owner": "ECOWAS Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GNB,customs,system,coverage,inservice,2026-01-26,GNB-002,GNB-001=underway,
+GNB,customs,system,coverage,inservice,2026-09-17,GNB-002;GNB-003;GNB-004,GNB-001=underway;GNB-005=underway,
 GNB,customs,window,coverage,,,,,nothing held
 GNB,customs,exchange,coverage,,,,,nothing held

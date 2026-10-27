@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-06-swz-eswatini-pushes-for-full-implementation-of-wto-trade-facilitation-agre",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Trade Minister Manqoba Khumalo says a National Single Window System is under development to digitise customs procedures, with border posts at Mananga, Ngwenya and Lavumisa being upgraded.",
+   "as_of": "2025-08-06",
+   "date_precision": "day",
+   "system": "National Single Window System",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Single Window System",
+   "country_label": "National Single Window System",
+   "class": "customs",
+   "platform": "",
+   "owner": "Ministry of Commerce, Industry and Trade",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

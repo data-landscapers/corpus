@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-03-lbr-liberia-joins-regional-digital-trade-drive-as-ecowas-launches-sigmat-c",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Liberia Revenue Authority says on 3 November 2025 that importers and agents in Liberia can now submit declarations electronically through the SIGMAT portal, and that its ASYCUDA team supervises the national customs system.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "SIGMAT / ASYCUDA",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "The Liberia Revenue Authority says ECOWAS launched SIGMAT in Monrovia in late October 2025, a customs data exchange system connecting national customs systems of ECOWAS members, with Liberia, Cote d'Ivoire and Guinea forming the latest corridor.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "SIGMAT",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

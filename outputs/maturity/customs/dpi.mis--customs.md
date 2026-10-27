@@ -1,6 +1,6 @@
 # Customs: customs
 
-*As at 2026-10-26.*
+*As at 2026-10-27.*
 
 ## The norm
 
@@ -20,21 +20,48 @@ The AfCFTA Protocol on Trade in Goods asks for customs automation, a single wind
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 16 |
-| 3 Established | 24 |
-| 2 Nascent | 8 |
+| 5 Leading | 14 |
+| 4 Operating | 17 |
+| 3 Established | 18 |
+| 2 Nascent | 5 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
+| Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
 
+### Benin: 5 Leading
+
+Customs joined West Africa's regional transit data exchange in 2024, beside a single window and automated clearance at every border.
+
+- ECOWAS says Benin was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
+
+### Burkina Faso: 5 Leading
+
+Customs joined West Africa's regional transit data exchange in 2024, and a single window joining other agencies was relaunched in 2025.
+
+- ECOWAS says Burkina Faso was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
+
+### Burundi: 5 Leading
+
+Customs exchanged data with East African partners through a regional platform in 2025; how declarations are processed is not known.
+
+- TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, unveiled in revamped form on 27 January 2025 ([source, 2025-01-27](https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/)).
+
 ### Cote d'Ivoire: 5 Leading
 
-Customs exchanged transit data electronically with Guinea and Liberia from 2025; whether declarations are processed electronically now is not known.
+Customs joined West Africa's regional transit data exchange in 2024 and used it with Mali in 2026, beside a single window.
 
+- ECOWAS says Cote d'Ivoire was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 - ECOWAS says it launched deployment of SIGMAT between Cote d'Ivoire, Guinea and Liberia on 31 October 2025, exchanging electronic transit messages through interconnection of their national customs systems; Liberia joins Guinea and Cote d'Ivoire on the platform ([source, 2025-10-31](https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/)).
+- Douanes Ivoiriennes report that Cote d Ivoire and Mali teams met on 24-25 September 2026 to assess SIGMAT in its operating phase on the Abidjan-Bamako transit corridor, sharing information between the two administrations ([source, 2026-09-25](https://apps.douanes.ci/info/cooperation-bilaterale)).
+
+### Ghana: 5 Leading
+
+Customs joined West Africa's regional transit data exchange in 2024; a trade single window is not on record.
+
+- ECOWAS says Ghana was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
+- The ECOWAS Commission says SIGMAT, its interconnected transit-goods system for electronic data exchange between Member States, has been in use by implementing states since 2019, and that a 21-25 July 2025 mission to Ghana resolved the technical and functional challenges hindering transit between Cote d'Ivoire and Ghana ([source, 2025-07-25](https://www.ecowas.int/technical-mission-to-ghana-on-the-deployment-of-sigmat-between-ghana-and-cote-divoire/)).
 
 ### Guinea: 5 Leading
 
@@ -54,25 +81,50 @@ Customs exchanged transit data with Guinea and Cote d'Ivoire from 2025; a trade 
 
 - ECOWAS says it launched deployment of SIGMAT between Cote d'Ivoire, Guinea and Liberia in Monrovia on 31 October 2025, exchanging electronic transit messages through interconnection of their national customs systems ([source, 2025-10-31](https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/)).
 
-### Benin: 4 Operating
+### Mali: 5 Leading
 
-Benin's automated customs system linked to a national single window in 2025; electronic exchange with other countries' customs is not known.
+Customs exchanged transit data through West Africa's regional system in 2024 and 2026; a trade single window is not on record.
 
-- Webb Fontaine says Webb Customs interconnects trade platforms including the National Single Window, the Port Community System and electronic cargo tracking ([source, 2025-02](https://webbfontaine.com/news/benin-customs-management-milestones)).
-- Webb Fontaine says it completed migration of Benin's national Customs Management System from ASYCUDA to Webb Customs, fully operational at all sea ports, airports and land border offices, with over 100,000 declarations processed ([source, 2025-04-15](https://webbfontaine.com/news/webb-fontaine-successfully-completes-national-rollout-of-customs-management-systems-in-benin)).
-- Webb Fontaine says Webb Customs, launched in July 2022, has replaced ASYCUDA World at 44 of Benin's 49 customs offices, with the last five including the port of Cotonou planned for mid-2025; it reports 59,000 returns processed and 100,000 receipts issued ([source, 2025-02](https://webbfontaine.com/news/benin-customs-management-milestones)).
+- Douanes Ivoiriennes report that Cote d Ivoire and Mali teams met on 24-25 September 2026 to assess SIGMAT in its operating phase on the Abidjan-Bamako transit corridor, sharing information between the two administrations ([source, 2026-09-25](https://apps.douanes.ci/info/cooperation-bilaterale)).
+- ECOWAS says Mali was connected to the SIGMAT goods-in-transit data exchange system in July 2024, though it also lists Mali among states preparing to put it into operation ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 
-### Burkina Faso: 4 Operating
+### Niger: 5 Leading
 
-A trade single window joined customs and other agencies in 2025; electronic exchange with other countries is not known.
+Customs joined West Africa's regional transit data exchange in 2024, and a single window joined other agencies in 2026.
 
-- The Direction generale des douanes and SOGESY launched Sylvie 2 on 17 February 2025, the electronic single window for import and export clearance, running since 2016 and collecting documents from technical administrations and private bodies ([source, 2025-02-17](https://jumelages-partenariats.com/actualites.php?n=22833)).
+- ECOWAS says Niger was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
 
-### Burundi: 4 Operating
+### Rwanda: 5 Leading
 
-A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
+Customs exchanged data with East African partners through a regional platform in 2025; a trade single window is not on record.
 
-- The Office Burundais des Recettes presented on 17 February 2026 the new web version of the Guichet Unique Electronique for import permits, which centralises procedures of the medicines regulator ABREMA, the agriculture ministry (sanitary and phytosanitary certificates) and the OBR, and is now the exclusive route for pharmaceutical importers ([source, 2026-02-17](https://www.wearetech.africa/fr/fils/actualites/tech/le-burundi-digitalise-ses-procedures-d-importation-via-un-guichet-unique)).
+- TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, unveiled in revamped form on 27 January 2025 ([source, 2025-01-27](https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/)).
+
+### Tanzania: 5 Leading
+
+Customs exchanged data with East African partners through a regional platform in 2025, and a single window joined the port and regulators.
+
+- TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, with Tanzania's ports authority also connected ([source, 2025-01-27](https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/)).
+
+### Togo: 5 Leading
+
+Customs joined West Africa's regional transit data exchange in 2024; a trade single window is not on record.
+
+- ECOWAS says Togo was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024 ([source, 2024-07](https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/)).
+
+### Uganda: 5 Leading
+
+Customs has shared declarations with East African partners through a regional platform since 2024, beside a single window joining 22 agencies.
+
+- A KRA officer writing in WCO News says the EAC Single Customs Territory Centralized Platform, built for six partner states, has shared customs declarations and scanned-cargo images since July 2024, with Uganda sending over 8,000 images to Kenya ([source, 2024-07](https://mag.wcoomd.org/magazine/wco-news-106-issue-1-2025/kenya-uganda-exchanging-images-scanned-cargo/)).
+- TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, with scanner image sharing first implemented between Kenya and Uganda in 2024 ([source, 2025-01-27](https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/)).
+
+### Algeria: 4 Operating
+
+A single window joined customs and the trade ministry in 2026; exchange open to the whole regional community is not known.
+
+- TSA Algerie reports a customs notice of 18 August 2026 saying the electronic single window module of ALCES was put in service, with Commerce Ministry authorisations now filed through it in parallel with paper and several other bodies to be covered ([source, 2026-08-18](https://www.tsa-algerie.com/importations-les-douanes-algeriennes-lancent-le-guichet-electronique-unique-ce-qui-change/)).
+- Finance Minister Abdelkrim Bouzred says the customs information system launched in early November 2023 is generalised to all customs offices, with electronic processing of customs files at all land, sea and air centres, and 23,402 traders registered by end March 2025 ([source, 2025-05-25](https://algerie-eco.com/2025/05/25/douanes-plus-de-23-000-inscrits-sur-le-systeme-dinformation/)).
 
 ### Cameroon: 4 Operating
 
@@ -87,6 +139,12 @@ Customs ran on an automated system and a trade single window was deployed by 202
 - The Direction Generale des Douanes says SYDONIA World has been the central platform dematerialising customs procedures, in operation since 2018 ([source, 2026-06-11](http://www.douane.gov.km/lire-actu.php?id=34&lang=fr)).
 - La Gazette des Comores reports that the customs information system SYDONIA was interconnected with the tax system SIGIT in a launch on 30 December 2023, with customs operator data cross-checked against tax records ([source, 2023-12-30](https://www.lagazettedescomores.com/economie/interconnexion-sigit-/-sydonia-vers-la-modernisation-et-la-s%C3%A9curisation-de-la-gestion-fiscale-.html)).
 - UNCTAD says the first phase of the Guichet Unique du Commerce Extérieur (GUCE) has been deployed in Comoros, and its programme is to expand GUCE to additional border agencies ([source, 2026](https://unctad.org/project/comoros-economic-integration-acceleration-programme-components-1-and-2a)).
+
+### Congo: 4 Operating
+
+A trade single window joined customs and other trade actors in 2025; exchange open to the whole regional community is not known.
+
+- The Congolese finance ministry says the Guichet unique des operations transfrontalieres (GUOT), with 78 staff, provides IT services for data exchange in dematerialised foreign-trade procedures and ensures interoperability of all trade actors' systems across ports, airports and land borders ([source, 2025-07-04](https://www.finances.gouv.cg/fr/articles/visite-du-guichet-unique-des-op%C3%A9rations-transfrontali%C3%A8res-guot)).
 
 ### DR Congo: 4 Operating
 
@@ -122,18 +180,24 @@ A trade single window joined customs and other agencies in 2026; electronic exch
 - CAFI managing director Chaba Mokuku writes that the Lesotho National Single Window, run by Revenue Services Lesotho, lets traders file import, export and transit documents through one online entry point, with twelve agencies connected ([source, 2026-09-27](https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/)).
 - Lesotho launched its National Single Window on 24 August 2026, where traders submit certificate, licence and permit applications for imports, exports and transit, with 12 other agencies and 88 processes automated, per Revenue Services Lesotho and CAFI ([source, 2026-08-24](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/)).
 
+### Madagascar: 4 Operating
+
+A trade single window joined customs and other agencies in 2025; exchange open to the whole regional community is not known.
+
+- GasyNet's chief executive says TradeNet connects customs (Douar), control ministries and agencies (Midac) and shipping lines (Delivery Order) in one electronic single window ([source, 2025-06-03](https://www.2424.mg/commerce-exterieur-gasynet-rapporte-un-delai-moyen-de-dedouanement-reduit-a-trois-jours-grace-au-guichet-unique-electronique-tradenet)).
+
 ### Malawi: 4 Operating
 
-A trade single window joined customs and other agencies in 2025; electronic exchange with other countries is not known.
+A trade single window joined customs and other agencies in 2025; exchange open to the whole regional community is not known.
 
 - The Minister of Trade and Industry launched Malawi's National Single Window on 20 May 2025, live first for the trade ministry with seven MDAs at go-live and 22 agencies planned by September 2025, and SATCP's project manager says it integrates with the Malawi Revenue Authority's ASYCUDA World system ([source, 2025-05-20](https://satcp.mw/2025/05/20/malawi-launches-national-single-window-to-boost-trade-and-digital-economy/)).
 
-### Niger: 4 Operating
+### Morocco: 4 Operating
 
-A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
+A trade single window joined customs, ports and banks in 2026; exchange open to the whole regional community is not known.
 
-- The Minister of Economy and Finance said the Dossier virtuel de transaction is implemented through GUCE-Niger, the foreign trade single window, to ease exchanges between operators and the administrations concerned, with DVT control integrated into processing of operations from 1 July 2026 ([source, 2026-06-11](https://www.lesahel.org/reformes-du-systeme-de-gestion-du-commerce-exterieur-lancement-officiel-de-la-campagne-de-sensibilisation-sur-le-dossier-virtuel-de-transaction-dvt/)).
-- Webb Fontaine Niger's director general said GUCE-Niger connects customs, ministries, banks and control bodies such as OCRTIS on a single platform for synchronised processing of requests ([source, 2025-10-09](https://anp.ne/les-progres-realises-par-webb-fontaine-au-niger-illustrent-parfaitement-comment-une-technologie-bien-pensee-ancree-dans-la-realite-locale-peut-profondement-transformer-lecosyste/)).
+- The 7News report describes PortNet as Morocco's National Single Window for Foreign Trade, connecting customs, ports, banks and businesses, with 95,753 active users in June 2026 ([source, 2026-06](https://en.7news.ma/portnet-processes-more-nearly-200000-customs-declarations-in-june/)).
+- PortNet's monthly report says it processed 191,388 Single Goods Declarations (DUM) in June 2026, 115,180 import and 76,208 export declarations ([source, 2026-06](https://en.7news.ma/portnet-processes-more-nearly-200000-customs-declarations-in-june/)).
 
 ### Nigeria: 4 Operating
 
@@ -142,16 +206,23 @@ A trade single window joined customs and other agencies in 2026; electronic exch
 - The article says the National Single Window went live in March 2026 to unify trade processes across agencies, though lawyers say it lacks a statutory basis ([source, 2026-03](https://businessday.ng/news/article/stakeholders-seek-legal-framework-to-make-nigerias-digital-port-systems-work/)).
 - The National Single Window, operational since 27 March 2026, had processed over 124,614 licences and permits, with the Nigerian Customs Service, SON, NAFDAC, Nigeria Quarantine Service and NESREA fully onboarded, per its Secretariat director and the trade minister ([source, 2026-03-27](https://punchng.com/fg-gives-mdas-november-deadline-to-remove-export-barriers/)).
 
-### Tanzania: 4 Operating
+### Senegal: 4 Operating
 
-A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
+A trade single window joined customs and clearance actors in 2024; exchange open to the whole regional community is not known.
 
-- The article says the Tanzania Electronic Single Window System has already been established on Mainland Tanzania to connect traders, customs authorities and regulatory agencies ([source, 2026-06-05](https://doingbusiness.co.tz/tra-rolls-out-zanzibar-single-window-to-streamline-trade-and-customs-procedures)).
-- The Tanzania Revenue Authority launched the Zanzibar Single Window System at a ceremony on 2 June 2026, a digital platform for customs clearance bringing various government agencies under one electronic gateway ([source, 2026-06-02](https://doingbusiness.co.tz/tra-rolls-out-zanzibar-single-window-to-streamline-trade-and-customs-procedures)).
+- GIE GAINDE 2000 marked 20 years of ORBUS, the single window for foreign-trade formalities, run with customs and clearance actors in Senegal ([source, 2024-06-04](https://bie.cciad.sn/2024/06/05/20-ans-de-orbus-lheure-de-chanter-les-merites-de-la-dematerialisation/)).
+- Senegal's customs director general said in June 2024 that the GAINDE system has been in force since that year at Rosso, Ziguinchor, Sénoba and Kaolack, with all clearance offices to follow within six months ([source, 2024-06-04](https://bie.cciad.sn/2024/06/05/20-ans-de-orbus-lheure-de-chanter-les-merites-de-la-dematerialisation/)).
+
+### Sierra Leone: 4 Operating
+
+A trade single window was in service in 2025; exchange open to the whole regional community is not known.
+
+- The WTO summary says Sierra Leone introduced the Electronic Single Window in 2020 to streamline import procedures ([source, 2020](https://www.wto.org/english/tratop_e/tpr_e/s470_sum_e.pdf)).
+- The NRA ASYCUDA Unit supervisor says ASYCUDA World connects multiple agencies through digital modules, routing information by each institution's role ([source, 2026-10](https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/)).
 
 ### Zambia: 4 Operating
 
-A trade single window joined customs and other agencies in 2026; electronic exchange with other countries is not known.
+A trade single window joined customs and other agencies in 2026; exchange open to the whole regional community is not known.
 
 - The Zambia Revenue Authority says the Zambian Electronic Single Window has an enhanced e-bond module and the 2025 BMTF Act mandates electronic information exchange among all participating agencies through it ([source, 2026-06-23](https://mag.wcoomd.org/magazine/wco-news-110-issue-2-2026/integrity-zambia/)).
 
@@ -160,12 +231,6 @@ A trade single window joined customs and other agencies in 2026; electronic exch
 A trade single window joined customs and other agencies in 2025; electronic exchange with other countries is not known.
 
 - The Finance Permanent Secretary said an Electronic Single Window System integrates regulatory agencies in customs clearance, and port health, the National Ozone Unit and the Radiation Protection Authority of Zimbabwe have subscribed to it ([source, 2025-07-14](https://newziana.co.zw/gvt-pledges-to-modernise-customs-operations/)).
-
-### Algeria: 3 Established
-
-Customs declarations were processed electronically in 2024; a single window is not on record.
-
-- Algeria's customs director general says the new customs information system ALCES, in service since November 2023 at land, sea and air border customs offices, had recorded 168,000 detailed declarations by September 2024, 70% of filings, the rest on the old SIGAD system ([source, 2024-09](https://lalgerieaujourdhui.dz/les-douanes-optent-pour-un-nouveau-systeme/)).
 
 ### Angola: 3 Established
 
@@ -180,6 +245,12 @@ Customs declarations were processed electronically in 2024; a single window is n
 
 - Finance minister Peggy Serame said BURS continues to optimise e-services including online customs declarations ([source, 2024-02](https://dailynews.gov.bw/news-detail/77665)).
 
+### Cape Verde: 3 Established
+
+Customs declarations were processed electronically in 2025; a single window is not on record.
+
+- ASYCUDA reports that Cabo Verde launched the ASYVAL valuation control module in ASYCUDAWorld in March 2025, which flags deviating import declarations automatically and raised customs revenue by 2.49% on average across 12 product categories ([source, 2025-03](https://asycuda.org/en/cabo-verde-embraces-asyval-to-strengthen-trade-integrity-and-revenue-mobilisation/)).
+
 ### Central African Republic: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
@@ -193,17 +264,18 @@ Customs declarations were processed electronically in 2026; a single window is n
 
 - Customs says the SYDONIA World platform is used by Chad customs, and Cameroon's CAMCIS is to be made interoperable with it ([source, 2026-04](https://theguardianpostcameroon.com/post/7061/en/hometighten-cemac-transit-cut)).
 
-### Congo: 3 Established
-
-Customs declarations were processed electronically in 2026; a single window is not on record.
-
-- L'Economie reports that from 3 August 2026 importers declare on Sydonia and pay customs duties online via Fouta, doing declaration, payment and receipt online in under five minutes, per ministry IT director Elenga Ngaporo Okina ([source, 2026-08-03](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/)).
-
 ### Djibouti: 3 Established
 
 Customs declarations were processed electronically in 2023; a single window is not on record.
 
 - Djibouti Customs says it processed 205,678 declarations in 2023, of which transit declarations were routed to yellow, blue, green and red lanes, with selectivity to be extended to other regimes in 2025 ([source, 2023](https://douanes.gouv.dj/wp-content/uploads/2025/02/Plan-Strategique-Djibouti_2025-29_Short_Web_Page.pdf)).
+
+### Equatorial Guinea: 3 Established
+
+Customs declarations were processed electronically in 2025; a single window is not on record.
+
+- UNCTAD ASYCUDA reports in June 2025 that ASYCUDAWorld is fully operational in all Equatorial Guinea customs offices, with Bata live since November 2024, the Malabo port since March 2025 and the Malabo airport since 2020, enabling paperless clearance ([source, 2025-06](https://asycuda.org/en/equatorial-guinea-completes-nationwide-rollout-of-asycudaworld/)).
+- The Prime Minister officially launched the Sidunea World customs platform at Bata customs on 27 December 2024; the finance minister says it has been in use at Malabo customs since 2021 ([source, 2024-12-27](https://realequatorialguinea.com/destacado/politica/lanzamiento-oficial-de-la-plataforma-digital-sidunea-world-en-las-aduanas-de-bata/)).
 
 ### Eritrea: 3 Established
 
@@ -219,12 +291,12 @@ Customs declarations were processed electronically in 2026; a single window is n
 - The Eswatini Revenue Service says customs payments made through FNB Eswatini now show almost instantly on ASYCUDA, so traders can process their customs declarations more quickly ([source, 2026-06-20](https://independentnews.co.sz/44878/business/ers-fnb-complete-real-time-customs-payment-integration/)).
 - The Eswatini Revenue Service says customs payments through FNB now reflect in near real time in its ASYCUDA customs system, completing the integration on 12 June 2026 ([source, 2026-06-12](https://www.linkedin.com/posts/brightwell-nkambule-9997209_today-we-launched-the-ers-integrated-payment-activity-7471306041775849472-7YZM)).
 
-### Ghana: 3 Established
+### Gabon: 3 Established
 
-Customs declarations were processed electronically in 2026; a single window is not on record.
+Customs declarations were processed electronically in 2025; a single window is not on record.
 
-- The article says the GRA Customs Division operates the Integrated Customs Management System (ICUMS), which streamlines customs processes and improves trade facilitation ([source, 2026-08-19](https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/)).
-- Ghana Link says the Integrated Customs Management System (ICUMS), hosted in its new Kumasi Tier IV data centre, is relied on daily for trade facilitation and revenue processes by GRA Customs, clearing agents, importers, shipping lines and airlines ([source, 2026-02-24](https://www.myjoyonline.com/ghana-link-secures-iso-iec-270012022-certification-for-new-tier-iv-data-centre-supporting-icums/)).
+- Gabonmediatime reports the migration of Gabon's customs to SYDONIA World is being completed, a system it says analyses declarations faster and has proved itself, with a backup site for continuity ([source, 2025-01-23](https://gabonmediatime.com/gabon-vers-une-modernisation-des-douanes-pour-faciliter-le-commerce-et-le-soutien-aux-pme/)).
+- The Gabon customs directorate DGDDI refers to its clearance system SYDONIAWorld, which an IMF AFRITAC Centre mission of 11 to 18 December 2024 is to help interconnect with other CEMAC customs administrations ([source, 2024-12-09](https://douanes.ga/medias/actualites/140/la-dgddi-accueille-une-mission-afritac-centre-fmi-)).
 
 ### Guinea-Bissau: 3 Established
 
@@ -232,30 +304,18 @@ Customs declarations were processed electronically in 2026; a single window is n
 
 - UNCTAD's ASYCUDA Programme reports ASYCUDAWorld operational across all computerised customs offices, including the Port of Bissau, Bissau International Airport and the Sao Domingos, Gabu and Bafata offices, after migration from ASYCUDA++ ([source, 2026-01-26](https://asycuda.org/en/guinea-bissau-launches-asycudaworld-to-strengthen-customs-digitalization/)).
 
-### Madagascar: 3 Established
-
-Customs declarations were processed electronically in 2025; a single window is not on record.
-
-- Madagascar's Customs Directorate clears goods on Sydonia World, described as the current clearance platform, and launched a pilot to improve its electronic clearance system ([source, 2024-07-31](https://new.moov.mg/actualite/economie/88024-douanes-malagasy-lancement-du-projet-pilote-de-modernisation-du-systeme-de-dedouanement)).
-- Madagascar's customs administration says it analyses millions of records from SYDONIA, its customs management platform, and that automated controls have reduced clearance times ([source, 2025-03-27](https://www.douanes.gov.mg/la-douane-malagasy-un-modele-regional-dans-lusage-de-la-donnee-et-de-lia/)).
-
-### Mali: 3 Established
-
-Customs runs on an automated system covering most procedures (2026); a trade single window is not known.
-
-- Mali's Director-General of Customs said the move to SYDONIAWorld in 2015 built an integrated system that now covers over 95 percent of customs business procedures ([source, 2026-02-23](https://douanes.gouv.ml/node/535)).
-
 ### Mauritius: 3 Established
 
 Customs declarations were processed electronically in 2026; a single window is not on record.
 
 - A WCO Smart Customs Project mission of 12-16 January 2026 found the Mauritius Revenue Authority hosts critical systems such as the Customs Management System on a private cloud, supporting risk management and border control ([source, 2026-01](https://scp.wcoomd.org/study-mission-cloud-computing-hosted-mauritius-customs)).
 
-### Morocco: 3 Established
+### Mozambique: 3 Established
 
-Customs declarations were processed electronically in 2024; a single window is not on record.
+Customs clearance ran on an electronic system in 2025, with breakdowns and paper steps; a single window joining other agencies is not known.
 
-- The Ministry of Economy and Finance has rolled out the BADR system for customs clearance, and the customs IT system is integrated with key partners in the foreign trade chain, per the budget minister ([source, 2024-08-12](https://barlamantoday.com/2024/08/12/minister-morocco-to-use-ai-to-enhanced-public-services/)).
+- The Centro de Integridade Pública says the current Janela Unica Electronica (electronic single window), implemented by MCNet under a concession, is in operation, though with frequent breakdowns and hybrid digital and paper procedures ([source, 2025-11-24](https://www.cipmoz.org/wp-content/uploads/2025/11/Ajuste-Directo-da-JUE-Estaria-o-Governo-a-Legitimar-Carteis-que-Lesam-o-Estado-2.pdf)).
+- Mozambique's economy and finance minister told parliament in March 2024 that MCNET is concessionaire of the single electronic system for customs clearance (Janela Unica Electronica), operating since 2010 ([source, 2024-03](https://clubofmozambique.com/news/mozambique-state-collected-2-billion-meticais-from-kudumba-since-2006-carta/)).
 
 ### Namibia: 3 Established
 
@@ -263,12 +323,6 @@ Customs declarations were processed electronically in 2026; a single window is n
 
 - NamRA upgraded and rolled out ASYCUDAWorld version 4.4.1 on 5 May 2026, and Commissioner Sam Shivute says it processed N$18 billion of goods between 5 and 17 May and handles all trade-related transactions, with declarations submitted online ([source, 2026-05-05](https://observer24.com.na/namra-says-old-customs-system-was-11-versions-behind/)).
 - NamRA, reported by New Era on 2026-05-05, put the upgraded ASYCUDAWorld 4.4.1 into effect that day, with transit, warehousing, export and similar declarations accepted online only ([source, 2026-05-05](https://neweralive.na/namra-upgrades-asycudaworld-system-and-implements-new-procedures/)).
-
-### Rwanda: 3 Established
-
-Customs declarations were processed electronically in 2024; a single window is not on record.
-
-- UNCTAD describes ASYCUDA World as Rwanda's system for processing international trade transactions ([source, 2024](https://unctad.org/project/amplifying-digital-opportunities-cross-border-trade)).
 
 ### Sao Tome and Principe: 3 Established
 
@@ -284,13 +338,6 @@ Customs declarations were processed electronically in 2026; a single window is n
 - The SRC says traders lodge bills of entry in ASYCUDA, and once payment is confirmed automatic risk-based selectivity assigns red or green clearance lanes ([source, 2026-03-14](https://src.gov.sc/the-seychelles-revenue-commission-prepares-to-upgrade-asycuda-world-to-version-4-4-1/)).
 - The SRC launched an ePayment module in ASYCUDA for import and export declarations (bills of entry), and its Commissioner of Customs said manifest, courier and excise tax modules had gone online the year before ([source, 2024-06-05](https://src.gov.sc/seychelles-revenue-commission-launches-online-payment-for-customs-services/)).
 
-### Sierra Leone: 3 Established
-
-Customs declarations were processed electronically in 2026; a single window is not on record.
-
-- The Anti-Corruption Commission report, per the Telegraph, found customs declarations deleted from the ASYCUDA system after payment, and notes real-time payment visibility within the ASYCUDA platform ([source, 2026-07-10](https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/)).
-- The Anti-Corruption Commission report states clearing agents' payments for ASYCUDA transactions were recorded in the NRA tax system, and refers to the ASYCUDA World System ([source, 2026-07-10](https://www.linkedin.com/posts/fritong-post_part-1-nras-missing-billions-the-acc-activity-7494064892119998465-bd_y)).
-
 ### Somalia: 3 Established
 
 Customs declarations were processed electronically by 2022, a 2024 government plan says; a single window is not on record.
@@ -302,36 +349,6 @@ Customs declarations were processed electronically by 2022, a 2024 government pl
 Customs declarations were processed electronically in 2025; a single window is not on record.
 
 - Sudan's Customs Authority says it completed integration of the ASYCUDA customs management system with the civil registry database via the Baladna platform, and that customs risk officers across checkpoints will use it to prevent forged national ID numbers in declarations ([source, 2025-10-04](https://sudanevents.com/index.php/2025/10/04/customs-authority-completes-digital-integration-of-asycuda-with-civil-registry/)).
-
-### Togo: 3 Established
-
-Customs declarations were processed electronically in 2025; a single window is not on record.
-
-- An OTR notice says customs declarations (DDU) are entered in SYDONIA, where a blocking field now requires the certificate of origin to be uploaded for preferential-tariff codes ([source, 2025-09-12](https://www.otr.tg/index.php/fr/blog/avis-communiques/1489-avis-aux-operateurs-economiques-n-013-2025-otr-cg-cddi-relatif-a-la-creation-d-un-pour-champ-bloquant-pour-toute-utilisation-d-un-code-additionnel-donnant-droit-aux-tarifs-preferentiels-dans-sydonia.html)).
-
-### Uganda: 3 Established
-
-Customs declarations were processed electronically in 2024; a single window is not on record.
-
-- The Uganda Revenue Authority says ASYCUDA World is an online system used for processing all goods imported or exported, in which agents capture, validate and assess declarations and importers self-declare and pay taxes ([source, 2024-06-24](https://ura.go.ug/en/sycuda/)).
-
-### Cape Verde: 2 Nascent
-
-An automated customs system was under way in 2026; none in service is on record.
-
-- UGPE reports an upgrade of SYDONIA World at Cape Verde's customs offices, including migration to version 4.4.0 and new customs modules, in a project running November 2023 to July 2026 ([source, 2026-07-09](https://ugpe.gov.cv/en/noticia/cabo-verde-digital-project-supports-customs-modernization-through-an-upgrade-to-sydonia-world)).
-
-### Equatorial Guinea: 2 Nascent
-
-An automated customs system was under way in 2026; none in service is on record.
-
-- PAMFP states that phase II of the SYDONIA customs software is to be implemented at Bata, Mongomo, Ebebiyin, Corisco, Aconibe, Cogo and Rio Campo, with IT equipment and network to extend SYDONIA outside Malabo ([source, 2026-09-15](https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/)).
-
-### Gabon: 2 Nascent
-
-An automated customs system was under way in 2026; none in service is on record.
-
-- The DGDDI announced the e-DIEBS platform, attached to Sydonia World for centralised handling of import and export declarations, to start on 30 March 2026 with the Libreville customs region as pilot site and a three-month transitional period, other regional directorates to be integrated progressively ([source, 2026-03-30](https://novaafriquemedia.com/?p=1616)).
 
 ### Libya: 2 Nascent
 
@@ -346,11 +363,11 @@ An automated customs system was under way in 2026; none in service is on record.
 
 - Mauritania's customs guide says import and export declarations are registered and printed in SYDONIA World, which also runs risk circuits, liquidation and payment receipts ([source, 2026](https://www.douanes.mr/uploads/files/P2026%20Guide%20de%20proc%C3%A9dures%20de%20d%C3%A9douanement%20des%20marchandises%20%C3%A0%20l'importation%20et%20%C3%A0%20l%E2%80%99exportation.pdf)).
 
-### Senegal: 2 Nascent
+### South Africa: 2 Nascent
 
-An automated customs system was under way in 2025; none in service is on record.
+A national single window was being phased in with no completion date in 2026; whether declarations are processed electronically is not known.
 
-- The Port Autonome de Dakar and the Direction générale des Douanes announced a pilot phase from 2 January 2026 of electronic exchange of Bons à Délivrer via the electronic port single window, following a June 2025 data-exchange protocol with GAINDE 2000 ([source, 2025-11-07](https://lesoleil.sn/actualites/economie/dedouanement-le-port-de-dakar-entame-une-etape-decisive-de-sa-transformation-digitale/)).
+- SARS told Freight News that the National Single Window is being introduced in phases, with an electronic inspection workflow implemented in September 2023 and selected importers in phased testing, and gave no completion date ([source, 2026-09-08](https://www.freightnews.co.za/article/no-completion-date-for-sas-single-window)).
 
 ### South Sudan: 2 Nascent
 
@@ -363,15 +380,3 @@ An automated customs system was under way in 2025; none in service is on record.
 An automated customs system was under way in 2025; none in service is on record.
 
 - Customs spokesman Chokri Jarraya said on 12 November 2025 that the SINDA 2 customs system will be ready in 2026, with the first applications entering service at the end of 2025 ([source, 2025-11-12](https://www.lapresse.tn/2025/11/12/douane-le-systeme-informatique-sinda-2-operationnel-a-partir-de-2026-2/)).
-
-### Mozambique: Unplaced
-
-Nothing held since 2023 names an automated customs system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.
-
-### South Africa: Unplaced
-
-Nothing held since 2023 names an automated customs system, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether customs declarations are processed electronically.

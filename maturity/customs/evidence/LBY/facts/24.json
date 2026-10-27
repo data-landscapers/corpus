@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-01-lby-trade-facilitation-and-paperless-trade-in-libya",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "none",
+   "fact": "The UN Global Survey 2025 records e-submission of customs declarations in Libya as not implemented, and the automated customs system and e-single window as at the planning stage.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "E-Submission of Customs declarations",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Automated Customs System",
+   "country_label": "Automated Customs System (planning stage)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "E-Single Window System",
+   "country_label": "E-Single Window System (planning stage)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

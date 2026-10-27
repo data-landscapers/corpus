@@ -6,8 +6,8 @@
 
 **Single window.** [The Office Burundais des Recettes presented on 17 February 2026 the new web version of the Guichet Unique Electronique for import permits, which centralises procedures of the medicines regulator ABREMA, the agriculture ministry (sanitary and phytosanitary certificates) and the OBR, and is now the exclusive route for pharmaceutical importers](<https://www.wearetech.africa/fr/fils/actualites/tech/le-burundi-digitalise-ses-procedures-d-importation-via-un-guichet-unique>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://www.wearetech.africa/fr/fils/actualites/tech/le-burundi-digitalise-ses-procedures-d-importation-via-un-guichet-unique>).
+**Exchange with partners.** [TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, unveiled in revamped form on 27 January 2025](<https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/>).
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Systeme de Suivi et Inspection Electronique des Cargos](<https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises>).
 
-***Not held***. No source held since October 2023 says customs exchanges data electronically with another country.
+***Not held***. Nothing further is asked of this indicator.

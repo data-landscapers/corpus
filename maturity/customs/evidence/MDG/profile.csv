@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,customs,system,coverage,inservice,2025-03-27,MDG-001;MDG-004;MDG-005;MDG-006;MDG-008,MDG-007=underway;MDG-002=underway,
-MDG,customs,window,coverage,window,2020-12-22,MDG-003,,nothing dated since 2023-10-26
+MDG,customs,system,coverage,inservice,2025-06-03,MDG-001;MDG-004;MDG-005;MDG-006;MDG-008;MDG-009,MDG-007=underway;MDG-002=underway,
+MDG,customs,window,coverage,window,2025-06-03,MDG-003;MDG-010,,
 MDG,customs,exchange,coverage,,,,,nothing held

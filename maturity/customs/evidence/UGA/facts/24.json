@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-01-uga-ask-ura-commissioner-general-19",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Uganda Revenue Authority's Q&A column says importers lodge declarations in its customs system, where controlled HS codes need prior authorisation, while air-cargo manifest data entry is still manual.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "URA customs system",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The URA says it is in advanced stages of automating and integrating systems with airlines at Entebbe for electronic submission of cargo manifests before arrival.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Air cargo e-manifest integration",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URA customs system",
+   "country_label": "Uganda",
+   "class": "customs",
+   "platform": "",
+   "owner": "Uganda Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-mli-trade-facilitation-and-paperless-trade-in-mali",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The UN Global Survey 2025 round records Mali's automated customs system as fully implemented.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Automated Customs System",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

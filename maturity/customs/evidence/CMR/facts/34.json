@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-04-tcd-on-working-visit-to-yaounde-chad-cameroon-customs-chat-ways-to-fluidif",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Cameroon customs director general said the interconnection between CAMCIS and Chad's SYDONIA World remains a priority, naming CAMCIS as the system Cameroon customs uses.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "CAMCIS",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAMCIS",
+   "country_label": "Cameroon",
+   "class": "customs",
+   "platform": "",
+   "owner": "Cameroon Customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

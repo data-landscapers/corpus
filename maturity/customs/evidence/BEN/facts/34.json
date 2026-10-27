@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-31-ben-projet-customs-webb-un-nouveau-systeme-deploye-dans-44-bureaux-de-doua",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Webb Fontaine's Benin representative said at the 29 January 2025 public-finance review that Customs Webb, replacing Sydonia World, is used in 44 of 49 customs offices, with 59,000 declarations processed and over 30 billion FCFA collected.",
+   "as_of": "2025-01-29",
+   "date_precision": "day",
+   "system": "Customs Webb",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Customs Webb",
+   "country_label": "Benin",
+   "class": "customs",
+   "platform": "Webb Fontaine",
+   "owner": "Benin customs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

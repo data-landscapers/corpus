@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "window": "",
+      "window": "window",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-006;MDG-008",
-      "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "Customs clears goods on Sydonia World in 2024 and analyses its records in 2025, so stage 3. TradeNet's single-window role is stated only in 2020.",
-      "as_at": "2026-10-26"
+      "stage_sources": "MDG-010",
+      "gaps": "No source held since October 2023 says customs exchanges data through a system open to its whole regional community.",
+      "note": "GasyNet says TradeNet joins customs, the control ministries and agencies and shipping lines in one electronic single window in June 2025, so stage 4. No source shows exchange through a system open to the regional community.",
+      "as_at": "2026-10-27"
     }
   ]
 }

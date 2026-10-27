@@ -1,0 +1,27 @@
+{
+ "slug": "2024-06-05-sen-20-ans-de-orbus-l-heure-de-chanter-les-merites-de-la-dematerialisation",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Senegal's customs director general said in June 2024 that the GAINDE system has been in force since that year at Rosso, Ziguinchor, Sénoba and Kaolack, with all clearance offices to follow within six months.",
+   "as_of": "2024-06-04",
+   "date_precision": "day",
+   "system": "GAINDE 2000",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "GIE GAINDE 2000 marked 20 years of ORBUS, the single window for foreign-trade formalities, run with customs and clearance actors in Senegal.",
+   "as_of": "2024-06-04",
+   "date_precision": "day",
+   "system": "ORBUS",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

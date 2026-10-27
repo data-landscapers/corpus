@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,customs,system,coverage,inservice,2026-08-19,GHA-001;GHA-002;GHA-003;GHA-004,,
+GHA,customs,system,coverage,inservice,2026-08-19,GHA-001;GHA-002;GHA-003;GHA-004;GHA-005,,
 GHA,customs,window,coverage,,,,,nothing held
-GHA,customs,exchange,coverage,,,,,nothing held
+GHA,customs,exchange,coverage,exchange,2025-07-25,GHA-006;GHA-007,,

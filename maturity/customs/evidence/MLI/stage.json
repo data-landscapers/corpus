@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "5",
       "system": "inservice",
       "window": "",
-      "exchange": "",
+      "exchange": "exchange",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-002",
-      "gaps": "No source held says a trade single window is in service or that declaration data is exchanged with another country's customs.",
-      "note": "Stage 3 on 2026-10-21: the Director-General of Customs said in February 2026 that SYDONIAWorld, adopted in 2015, covers over 95 percent of customs procedures. No single window is on record, so not 4.",
-      "as_at": "2026-10-21"
+      "stage_sources": "MLI-003;MLI-007",
+      "gaps": "No source held since October 2023 says a trade single window is in service.",
+      "note": "ECOWAS says Mali's customs was connected to SIGMAT in July 2024, and in September 2026 Mali and Cote d'Ivoire reviewed SIGMAT in operation on the Abidjan-Bamako corridor, so stage 5. No trade single window is on record.",
+      "as_at": "2026-10-27"
     }
   ]
 }

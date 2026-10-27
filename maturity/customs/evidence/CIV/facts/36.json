@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-20-xwa-for-better-knowledge-and-understanding-of-the-interconnected-system-fo",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "exchange",
+   "value": "exchange",
+   "fact": "ECOWAS says Cote d'Ivoire was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "SIGMAT",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

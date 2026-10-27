@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-01-sle-wt-tpr-s-470-sierra-leone-summary",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The WTO summary says Sierra Leone moved from ASYCUDA++ to ASYCUDA World in January 2019, with a risk management system in place, though many shipments are still physically inspected.",
+   "as_of": "2019-01",
+   "date_precision": "month",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "The WTO summary says Sierra Leone introduced the Electronic Single Window in 2020 to streamline import procedures.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Electronic Single Window",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World",
+   "country_label": "Sierra Leone",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Customs",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Single Window",
+   "country_label": "Sierra Leone",
+   "class": "customs",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

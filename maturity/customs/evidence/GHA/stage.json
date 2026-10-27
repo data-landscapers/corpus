@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "5",
       "system": "inservice",
       "window": "",
-      "exchange": "",
+      "exchange": "exchange",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-002;GHA-001",
+      "stage_sources": "GHA-007;GHA-006",
       "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "ICUMS is the interface for declarations and clearance at Ghana's ports in 2026, so stage 3. No source since October 2023 describes a trade single window.",
-      "as_at": "2026-10-26"
+      "note": "ECOWAS says Ghana's customs was connected to SIGMAT in July 2024 and that a July 2025 mission resolved what hindered transit with Cote d'Ivoire, so stage 5. No source since October 2023 describes a trade single window.",
+      "as_at": "2026-10-27"
     }
   ]
 }

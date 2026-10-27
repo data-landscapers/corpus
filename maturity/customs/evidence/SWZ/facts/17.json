@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-05-swz-inside-ers-s-e14-6bn-2024-25-revenue-collections",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Times of Eswatini, reading the Eswatini Revenue Service 2024/25 annual report, says ERS made continued upgrades to ASYCUDA World for customs operations during 2024/25, with system availability averaging 99.9 per cent.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ASYCUDA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASYCUDA World",
+   "country_label": "ASYCUDA World",
+   "class": "customs",
+   "platform": "ASYCUDA World",
+   "owner": "Eswatini Revenue Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

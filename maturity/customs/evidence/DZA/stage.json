@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "window": "",
+      "window": "window",
       "exchange": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-002",
-      "gaps": "No source held since October 2023 says a trade single window is in service.",
-      "note": "ALCES has been in service at land, sea and air offices since November 2023 and carried 70% of declarations by September 2024, so stage 3. No source describes a trade single window.",
-      "as_at": "2026-10-26"
+      "stage_sources": "DZA-006;DZA-003",
+      "gaps": "No source held since October 2023 says customs exchanges data through a system open to its whole regional community.",
+      "note": "Customs put the electronic single window module of ALCES in service in August 2026, with Commerce Ministry authorisations filed through it alongside paper, so stage 4. ALCES processes customs files at all land, sea and air offices.",
+      "as_at": "2026-10-27"
     }
   ]
 }

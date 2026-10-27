@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,customs,system,coverage,inservice,2024-06-24,UGA-001,,
-UGA,customs,window,coverage,,,,,nothing held
-UGA,customs,exchange,coverage,,,,,nothing held
+UGA,customs,system,coverage,inservice,2026-06,UGA-001;UGA-002;UGA-004;UGA-005;UGA-008,UGA-003=underway,
+UGA,customs,window,coverage,window,2024-06,UGA-007;UGA-009,,
+UGA,customs,exchange,coverage,exchange,2025-01-27,UGA-006;UGA-010,,

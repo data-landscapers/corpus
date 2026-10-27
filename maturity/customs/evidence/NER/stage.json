@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "4",
-      "system": "inservice",
+      "stage": "5",
+      "system": "underway",
       "window": "window",
-      "exchange": "",
+      "exchange": "exchange",
       "cap": "",
       "flags": "",
-      "stage_sources": "NER-001;NER-002",
-      "gaps": "No source held since October 2023 says customs exchanges data electronically with another country.",
-      "note": "GUCE-Niger joins customs, ministries, banks and control bodies on one platform in 2025 and 2026, so stage 4. No source shows exchange with another country's customs.",
-      "as_at": "2026-10-26"
+      "stage_sources": "NER-006",
+      "gaps": "",
+      "note": "ECOWAS says Niger's customs was connected to SIGMAT, the community's transit data exchange system, in July 2024, so stage 5. GUCE-Niger joins customs, ministries, banks and control bodies in 2025 and 2026.",
+      "as_at": "2026-10-27"
     }
   ]
 }

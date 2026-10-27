@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-tcd-historique-des-douanes-tchadiennes",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Chad customs directorate (DGDDI) says SYDONIA World was officially put into service on 15 October 2022, replacing SYDONIA++ in use since 2001.",
+   "as_of": "2022-10-15",
+   "date_precision": "day",
+   "system": "SYDONIA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "SYDONIA World",
+   "class": "customs",
+   "platform": "ASYCUDA",
+   "owner": "DGDDI Tchad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

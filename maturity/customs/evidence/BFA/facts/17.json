@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-02-tgo-interconnexion-des-systemes-informatiques-douaniers-des-etats-aes-et-l",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Customs directors general of the Sahel Confederation (AES) states and Togo reviewed in Lome the interconnection of their customs IT systems, under instruments signed at Niamey on 23 July 2024 that set the legal framework for it.",
+   "as_of": "2024-09-24",
+   "date_precision": "day",
+   "system": "AES-Togo customs systems interconnection",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

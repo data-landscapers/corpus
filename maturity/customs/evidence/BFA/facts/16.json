@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-06-tgo-avis-aux-operateurs-economiques-n-004-2025-relatif-a-l-interconnexion",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Togolese Revenue Office announced the pilot phase of the interconnection of the Togo and Mali customs systems via Burkina Faso on the Lome-Bamako corridor, operational from 10 March 2025.",
+   "as_of": "2025-03-10",
+   "date_precision": "day",
+   "system": "Togo-Mali customs systems interconnection",
+   "class": "customs"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-30-sdn-customs-expands-advance-cargo-declaration-to-all-ports",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Sudan Customs, in a press release carried by SUNA, says its advance cargo declaration system (ACD) was tried successfully at Port Sudan's South Port and will be extended from early October 2026 to the other ports and crossings.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Advance Cargo Declaration (ACD)",
+   "class": "customs"
+  },
+  {
+   "sub_indicator": "customs",
+   "aspect": "window",
+   "value": "window",
+   "fact": "Sudan Customs says the ACD system at the South Port strengthened integration among the bodies involved in trade and customs and unified the procedures window.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Advance Cargo Declaration (ACD)",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Advance Cargo Declaration (ACD)",
+   "country_label": "ACD",
+   "class": "customs",
+   "platform": "",
+   "owner": "Sudan Customs Forces",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

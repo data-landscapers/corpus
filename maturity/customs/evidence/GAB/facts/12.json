@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-30-gab-gabon-vers-une-modernisation-des-douanes-pour-faciliter-le-commerce-et",
+ "facts": [
+  {
+   "sub_indicator": "customs",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Gabonmediatime reports the migration of Gabon's customs to SYDONIA World is being completed, a system it says analyses declarations faster and has proved itself, with a backup site for continuity.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "SYDONIA World",
+   "class": "customs"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYDONIA World",
+   "country_label": "Gabon",
+   "class": "customs",
+   "platform": "SYDONIA World",
+   "owner": "DGDDI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
