@@ -1,3 +1,7 @@
+## 27 October 2026
+
+- South Africa's 2026/27 budget lines now carry the revised figures of the Adjusted Estimates of National Expenditure tabled in October, for 70 of 78 lines. Home Affairs' IT line rises from R1.09bn to R1.72bn; the eight lines the volume does not print, mostly public entities' own budgets, stay at their appropriation.
+
 ## 26 October 2026
 
 - The customs indicator's top stage now needs data exchange through a system open to the whole regional economic community, such as ECOWAS's SIGMAT or the EAC single customs territory; a link with one or a few neighbours no longer counts. Cameroon falls to 4 and Chad and the Central African Republic to 3; Somalia rises to 3 and Mauritania falls to 2.
