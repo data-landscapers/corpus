@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-24-uga-ngo-bureau-to-automate-registration-and-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Uganda's Personal Data Protection Office, headed by National Director Baker Birikujja, co-organised the NGO conference of 23 October 2026 and reminded organisations that protecting personal information is a fundamental obligation, New Vision reports.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Personal Data Protection Office",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Office",
+   "country_label": "Personal Data Protection Office",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

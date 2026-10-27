@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-22-nga-technext-meta-ndpc-secret-settlement-double-standard",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Nigeria Data Protection Commission is led by National Commissioner and CEO Dr Vincent Olatunji and acts as the data protection regulator.",
+   "as_of": "2026-10-22",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The Nigeria Data Protection Commission issued a 58-page Final Order with a USD 32.8 million remedial fine and enforcement orders against Meta over consent, minors' data and cross-border transfers; the fine was dropped in a consent judgment on 3 November 2025.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
