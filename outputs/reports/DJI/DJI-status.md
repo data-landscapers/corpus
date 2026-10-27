@@ -1,12 +1,12 @@
 ---
 title: Djibouti: status report
-compiled: 2026-10-26
+compiled: 2026-10-27
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 213
+sources_cited: 214
 sections_written: 39
 not_established: 0
 acquire_lines: 21
@@ -221,7 +221,7 @@ Djibouti is [a live participant in the Pan-African Payment and Settlement System
 
 SYRAD, a real-time gross settlement system paired with an automated clearing house, [went into service on 15 July 2021](https://banque-centrale.dj/infrastructures-ats/) with the Treasury as a participant, and the [Banque Centrale de Djibouti owns, oversees and operates it](https://banque-centrale.dj/infrastructures-ats/), [reporting its volumes and values annually](https://banque-centrale.dj/wp-content/uploads/2024/10/Rapport-Annuel_2023.pdf). The statute behind it is [Loi n°118/AN/15/7ème L of 16 July 2016](https://www.journalofficiel.dj/texte-juridique/loi-n118-an-15-7eme-l-portant-creation-dun-systeme-de-paiement-national-sa-reglementation-et-sa-surveillance/), and the central bank has ruled by communiqué that [from 31 August 2025 no cheque failing the new SYRAD format, security and encoding standards would be cleared](https://banque-centrale.dj/wp-content/uploads/2025/09/BCD-Communique-SYRAD.pdf).
 
-Retail use is thin. [Fewer than a third of the population hold a bank account (2023)](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Djibouti-Diagnostic-Report-ENG.pdf), and Access to Banking Services is [among Djibouti's ten worst Ibrahim Index indicators, at 10.0 out of 100 in 2023 and 40th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dj.pdf). The country's first online payment gateway [opened on 10 December 2023](https://www.lanation.dj/lancement-de-la-premiere-plateforme-en-ligne-a-djibouti-developpe-par-djibouti-telecom-a-travers-d-money/), run by the state operator Djibouti Telecom through its D-Money service, which [supports person-to-person transfers and merchant payments](https://d-money.dj/corporate/); [electronic payment has since been introduced for vehicle road tax, stamp duty and licensing fees](https://www.imf.org/-/media/files/publications/cr/2025/english/1djiea2025001-source-pdf.pdf). A [national payment gateway for government was part of an e-government architecture still being implemented](https://documents1.worldbank.org/curated/en/099020224094541999/pdf/P169482159291d0c91bc431aa3a05eaf578.pdf) (2024).
+Retail use is thin. [Fewer than a third of the population hold a bank account (2023)](https://migrantmoney.uncdf.org/wp-content/uploads/2023/05/Djibouti-Diagnostic-Report-ENG.pdf), and Access to Banking Services is [among Djibouti's ten worst Ibrahim Index indicators, at 10.0 out of 100 in 2023 and 40th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dj.pdf). The country's first online payment gateway [opened on 10 December 2023](https://www.lanation.dj/lancement-de-la-premiere-plateforme-en-ligne-a-djibouti-developpe-par-djibouti-telecom-a-travers-d-money/), run by the state operator Djibouti Telecom through its D-Money service, which [supports person-to-person transfers and merchant payments](https://d-money.dj/corporate/) and [added international transfers to 15 destinations in July 2025](https://fr.linkedin.com/posts/djiboutimoney_dmoney-transfertinternational-djibouti-activity-7355990440086515714-KwfX); [electronic payment has since been introduced for vehicle road tax, stamp duty and licensing fees](https://www.imf.org/-/media/files/publications/cr/2025/english/1djiea2025001-source-pdf.pdf). A [national payment gateway for government was part of an e-government architecture still being implemented](https://documents1.worldbank.org/curated/en/099020224094541999/pdf/P169482159291d0c91bc431aa3a05eaf578.pdf) (2024).
 
 The most-publicised project is still a memorandum: Djibouti [signed an MoU with Visa on 16 September 2025 to develop a national Smart Wallet](https://idtechwire.com/djibouti-partners-with-visa-to-develop-national-digital-wallet) combining payments, government services and digital identity.
 
