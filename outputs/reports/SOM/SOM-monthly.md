@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: SOM
-ledger_rows: 26
+ledger_rows: 27
 not_held: 1
-record: c65262f0d11b
+record: e7e281d7109a
 ---
 
 # News, Sep – Oct 2026
@@ -18,6 +18,8 @@ record: c65262f0d11b
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -387,6 +389,28 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 **[Somali federal government says eVisa dispute with Somaliland resolved, but Hargeisa denies agreement](https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx)** — Hiiraan Online, 21 October 2026
 
 Somalia's civil aviation authority said its dispute with Somaliland over the national eVisa system was resolved and that Hargeisa-based travel agencies could use it. Somaliland's aviation minister denied any agreement, saying travellers arriving at Hargeisa with a Somalia-issued eVisa still need a Somaliland visa.
+
+</div>
+
+</div>
+
+## Digitalisation
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
+<a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+</nav>
+
+### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial Management Information System rollout to member states</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[PFM Smart Signs Contract with the Federal Government of Somalia to Enhance and Roll Out the SFMIS Across Federal Member States](https://pfmsmartsys.com/en/news/pfm_smart_signs_contract_with_the_federal_government_of_somalia_to_enhance_and_roll_out_the_sfmis_across_federal_member_states)** — PFM Smart Systems, 8 September 2026
+
+Upgraded SFMIS to replace BISAN in Jubbaland, South West, Galmudug and Hirshabelle, with HRMIS and ITAS links.
 
 </div>
 
