@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-22-nga-technext-meta-ndpc-secret-settlement-double-standard",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Central Bank of Nigeria issued a circular ordering all banks, payment service providers, mobile money operators and fintechs to store and manage all domestic payment transaction data inside Nigeria by 1 January 2027, covering ledgers, audit logs, disaster-recovery backups and encryption keys.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CBN circular on domestic payment transaction data",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "use",
+   "value": "enforcer",
+   "fact": "The Central Bank of Nigeria issued the circular on in-country storage of domestic payment data for the banks and payment firms it regulates, which the article says face regulatory sanctions after 1 January 2027.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CBN circular on domestic payment transaction data",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
