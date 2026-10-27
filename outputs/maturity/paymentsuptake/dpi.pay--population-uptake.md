@@ -23,10 +23,10 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 13 |
-| 2 Nascent | 5 |
+| 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 9 |
-| No evidence | 23 |
+| No evidence | 22 |
 
 ## Countries
 
@@ -157,6 +157,12 @@ A quarter of adults or more held an account in 2024.
 A quarter of adults or more held an account in 2025.
 
 - The BCSTP second demand-side survey (early 2025) found 38% of adults hold a bank account ([source, 2025](https://afi-global.org/wp-content/uploads/2026/02/Relatorio_lado_da_procura-Final-PT.pdf)).
+
+### Sierra Leone: 2 Nascent
+
+About 29% of adults held a bank or mobile money account by 2025; whether more do now is not known.
+
+- The WTO trade policy review summary says only about 29% of adults in Sierra Leone have an account with a formal financial institution or mobile money provider; it gives no date, so the summary's publication date is used ([source, 2025](https://www.wto.org/english/tratop_e/tpr_e/s470_sum_e.pdf)).
 
 ### Madagascar: 1 Absent
 
@@ -345,12 +351,6 @@ Nothing held names a survey share of adults with an account or says there is non
 Not established: Nothing held gives a survey share of adults with an account.
 
 ### Seychelles: No evidence
-
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
-
-Not established: Nothing held gives a survey share of adults with an account.
-
-### Sierra Leone: No evidence
 
 Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
 

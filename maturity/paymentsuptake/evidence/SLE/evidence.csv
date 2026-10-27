@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SLE-001,SLE,uptake,share,quarter,"The WTO trade policy review summary says only about 29% of adults in Sierra Leone have an account with a formal financial institution or mobile money provider; it gives no date, so the summary's publication date is used.",2025,year,Adult account ownership,survey,2025-01-01-sle-wt-tpr-s-470-sierra-leone-summary,https://www.wto.org/english/tratop_e/tpr_e/s470_sum_e.pdf

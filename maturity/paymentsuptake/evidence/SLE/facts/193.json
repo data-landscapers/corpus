@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-sle-wt-tpr-s-470-sierra-leone-summary",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The WTO summary says only about 29% of adults in Sierra Leone have an account with a formal financial institution or mobile money provider.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Adult account ownership",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

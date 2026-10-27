@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "The Africa Report gives the share of adults holding a bank account in Togo in 2022 as close to 30%, citing no named survey.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
