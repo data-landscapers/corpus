@@ -5,14 +5,14 @@ period: 2025-10-01 to 2026-10-27
 place: XWA
 ledger_rows: 117
 not_held: 1
-record: 81c3c34bceeb
+record: 0b3f93514cc9
 ---
 
 # West Africa: progress report, October 2025 – October 2026
 
 *Compiled 2026-10-27 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 117 bodies, instruments and systems on this place's ledger, 74 changed position between 2025-10-01 and 2026-10-27, 19 did not, 23 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 117 bodies, instruments and systems on this place's ledger, 74 changed position between 2025-10-01 and 2026-10-27, 20 did not, 22 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 248 sources for this place in the window — 53 in the earlier half (2025-10 to 2026-03), 195 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -173,7 +173,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | Body, instrument or system | At 2025-10-01 | At 2026-10-27 | Progress |
 |---|---|---|---|
 | SIGMAT (ECOWAS interconnected transit management system) | Operating on major corridors since 2019 | [A forward roadmap presented to the World Customs Organization and deployment agreed at three further border posts; the e-Hub and the regional guarantee system remain roadmap items](https://www.ecowas.int/ecowas-presents-sigmat-at-the-world-customs-organization-2026-technology-conference-in-abu-dhabi/) | Movement, marginal |
-| AES and Togo customs IT interconnection | None published | [Customs administrations of Burkina Faso, Mali, Niger and Togo committed to deploy the interconnection at every transit office by 15 November 2024; no completion is on record](https://douanes.gouv.ml/node/418) | ***Baseline not held*** |
+| AES and Togo customs IT interconnection | Pilot interconnection of the Togo and Mali customs systems via Burkina Faso on the Lomé-Bamako corridor, operational from 2025-03-10 | [Pilot still the operating position; the four customs administrations set 31 January 2027 for a technical unit supervising interconnected customs data flows, after committing in July 2024 to deploy the interconnection at every transit office by 15 November 2024](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination) | No change |
 | UEMOA credit information bureau (BIC) | ***Baseline not held*** | [Operated for about a decade by Creditinfo West Africa under the central bank's licence, receiving credit data from banks, financial institutions, large utilities and the larger microfinance institutions, which must consult its reports before lending; a microfinance institution is bound to report only above FCFA 2bn in savings or loans outstanding over two consecutive years, which in Burkina Faso covered 20 of 120 licensed institutions at end-2025; client consent is stated as mandatory, and a lender in one state can consult records across all eight](https://cfinance.news/article/credits-et-gestion-du-risque-lengagement-et-la-responsabilite-des-acteurs-pour-des-donnees-fiables-au-centre-de-la-8e-rencontre-annuelle-du-bic-uemoa/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS

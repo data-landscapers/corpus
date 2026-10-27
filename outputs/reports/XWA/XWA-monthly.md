@@ -3,9 +3,9 @@ title: West Africa — News, Sep – Oct 2026
 compiled: 2026-10-27
 period: 2026-09-01 to 2026-10-27
 place: XWA
-ledger_rows: 35
+ledger_rows: 36
 not_held: 1
-record: 81a43e22da2d
+record: 0b36884baf23
 ---
 
 # News, Sep – Oct 2026
@@ -395,6 +395,20 @@ The Central Bank of West African States (BCEAO) announced on 7 October 2026 that
 **[Crédits et gestion du risque : l’engagement et la responsabilité des acteurs pour des données fiables au centre de la 8e Rencontre annuelle du BIC-UEMOA](https://cfinance.news/article/credits-et-gestion-du-risque-lengagement-et-la-responsabilite-des-acteurs-pour-des-donnees-fiables-au-centre-de-la-8e-rencontre-annuelle-du-bic-uemoa/)** — C'Finance, 16 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a>
 
 At the 8th annual meeting of the UEMOA credit information bureau, speakers said most microfinance institutions fall outside the duty to report to the bureau: in Burkina Faso, 20 of 120 licensed institutions met the FCFA 2bn threshold at the end of 2025. Panellists called for reporting by all microfinance institutions and wider use of client consent, which a banker said is now required for bureau access across the eight UEMOA states.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AES and Togo customs IT interconnection</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
