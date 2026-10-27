@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "3",
+      "stage": "2",
       "foundation": "body",
-      "response": "responded",
+      "response": "",
       "cii": "",
       "figures": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-011;ZMB-006",
-      "gaps": "No source held says the country has designated its critical information infrastructure.",
-      "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZMB-008",
+      "gaps": "No source held says the national body handled an incident or issued a public alert since October 2023.",
+      "note": "Rebuild: ZMB-011 removed as ZMB-007 was, an advisory on misleading and AI-made content, not a cyber incident. The agency exists under the 2025 Act and no response by it to an incident is held.",
+      "as_at": "2026-10-27"
     }
   ]
 }

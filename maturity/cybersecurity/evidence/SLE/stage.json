@@ -1,18 +1,19 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "3",
-   "foundation": "body",
-   "response": "responded",
-   "cii": "",
-   "figures": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-003;SLE-001",
-   "gaps": "No source held says the country has designated its critical information infrastructure.",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "3",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-008;SLE-001",
+      "gaps": "No source held says the country has designated its critical information infrastructure.",
+      "note": "Rebuild: stage held. NC3's own alerts (July 2024, October 2026) set question 2, in place of a notice by the telecom regulator, which is not the national cyber body.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

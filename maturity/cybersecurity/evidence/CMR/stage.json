@@ -1,18 +1,19 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "readiness",
-   "stage": "3",
-   "foundation": "body",
-   "response": "responded",
-   "cii": "",
-   "figures": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-008;CMR-005",
-   "gaps": "No source held says the country has designated its critical information infrastructure.",
-   "note": "Counted from the four questions by study-ladder-cybersecurity.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "readiness",
+      "stage": "3",
+      "foundation": "body",
+      "response": "responded",
+      "cii": "",
+      "figures": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-006;CMR-005",
+      "gaps": "No source held says the country has designated its critical information infrastructure.",
+      "note": "Rebuild: stage held. ANTIC's on-site response to a ransomware case in March 2026 sets question 2, in place of an undated statement that it issues alerts.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

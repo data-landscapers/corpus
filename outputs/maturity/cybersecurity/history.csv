@@ -19,3 +19,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZMB,infra.cybersec--national-cybersecurity-readiness,fact,2,3,ZMB-011;ZMB-006,Stage 4c: 2 news arrival(s) read; restaged from every row held.
 2026-10-25,MUS,infra.cybersec--national-cybersecurity-readiness,fact,2,3,MUS-005;MUS-004,CERT-MU published a critical PHP2Shell bulletin on 22 Oct 2026
 2026-10-26,BWA,infra.cybersec--national-cybersecurity-readiness,fact,2,3,BWA-002;BWA-007,"bwCIRT urgent public advisory on PHP2Shell, 23 October 2026: the national body issued a public alert"
+2026-10-27,SEN,infra.cybersec--national-cybersecurity-readiness,review,4,2,SEN-002,"Rebuild: SEN-005 and SEN-006 removed as SEN-003 and SEN-004 were; the 20 August 2026 bill is not stated promulgated, so no authority or designation is in force; DCSSI sets stage 2"
+2026-10-27,ZMB,infra.cybersec--national-cybersecurity-readiness,review,3,2,ZMB-008,Rebuild: ZMB-011 removed as ZMB-007 was; an advisory on misleading and AI-made content is not a cyber incident; no other response held
+2026-10-27,CMR,infra.cybersec--national-cybersecurity-readiness,review,3,3,CMR-006;CMR-005,"Rebuild: stage held; CMR-006, ANTIC's on-site ransomware response of March 2026, sets question 2 in place of undated CMR-008"
+2026-10-27,SLE,infra.cybersec--national-cybersecurity-readiness,review,3,3,SLE-008;SLE-001,Rebuild: stage held; NC3's own alerts SLE-008 (October 2026) and SLE-005 (July 2024) set question 2 in place of the regulator's notice SLE-003

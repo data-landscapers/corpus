@@ -21,9 +21,9 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 | Stage | Countries |
 |---|---|
 | 5 Leading | 8 |
-| 4 Operating | 6 |
-| 3 Established | 7 |
-| 2 Nascent | 32 |
+| 4 Operating | 5 |
+| 3 Established | 6 |
+| 2 Nascent | 34 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -122,13 +122,6 @@ Critical information infrastructure designated by 2026; the national body publis
 - NCC-CSIRT of the Nigerian Communications Commission issued a public security advisory on DDoS threats driven by botnet malware strains (Andromeda, BruteForceBot, Win.AsyncRAT, Gamut, StealRat) in the communications sector, rating damage and probability high ([source, 2026-09-30](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/426-ddos-threats-driven-by-malware-strains-targeting-the-communications-sector)).
 - The op-ed states the Nigeria Computer Emergency Response Team (ngCERT) provides a national incident-response function and publishes security advisories; no event date is given, so the document's published date is used ([source, 2026-09-26](https://www.thisdaylive.com/2026/09/26/would-nigeria-know-when-an-ai-agent-breaks-into-our-system/)).
 
-### Senegal: 4 Operating
-
-Critical information infrastructure designated by 2026; the national body publishes no recent incident count that is known.
-
-- The adopted law classes systems of national defence, public security, the courts, the prison administration and customs as critical information infrastructure by operation of law, and requires operators to report serious incidents to the Authority within 24 hours ([source, 2026-08-20](https://atlanticactu.com/cyberattaques-recurrentes-le-senegal-se-dote-dune-autorite-nationale-de-cybersecurite/)).
-- The Direction générale du chiffre et de la sécurité des systèmes d'information (DCSSI) is stated to co-organise the second cybersecurity providers forum and to set the course and norms for cybersecurity ([source, 2026-10-07](https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/)).
-
 ### Uganda: 4 Operating
 
 Critical information infrastructure designated by 2026; the national body publishes no recent incident count that is known.
@@ -147,7 +140,7 @@ The national cyber body issued a public alert in 2026; no critical infrastructur
 
 The national cyber body responded to an incident or issued an alert in 2026; no critical infrastructure designation is known.
 
-- The ISS report states that ANTIC's national CERT issues public alerts; no alert is dated, so as_of is the report's publication date ([source, 2026-08-11](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad)).
+- ANTIC presented a March 2026 ransomware case at a public body, where its team went on site, after which 50% of the body's IT system was down and email was cut for nearly a month ([source, 2026-03](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise)).
 - Cameroon Tribune reports ANTIC, the national ICT agency, has an incident-handling service and co-hosted a national cyberspace security forum in Yaoundé opened 2026-09-29 ([source, 2026-09-29](https://www.cameroon-tribune.cm/article.html/81162/en.html/lutte-contre-la-cybercriminalite-la-riposte-nationale-s-organise)).
 
 ### Malawi: 3 Established
@@ -175,15 +168,8 @@ The national cyber body responded to an incident or issued an alert in 2026; no 
 
 The national cyber body responded to an incident or issued an alert in 2026; no critical infrastructure designation is known.
 
-- NatCA, the telecom regulator, issued a public notice on 30 July 2026 acknowledging ongoing cybersecurity incidents, saying it coordinates a response and advising the public on precautions; no incident detail is given ([source, 2026-07-30](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/)).
+- NC3, through SL-CSIRT, issued a critical alert reported on 24 October 2026 on two PHP remote-code-execution flaws (CVE-2026-109618 and CVE-2026-109619, severity 9.2) ([source, 2026-10-24](https://sierraloaded.sl/news/nc3-warns-of-critical-security-flaws/)).
 - The National Cyber Security Coordination Centre (NC3) is stated to exist and to have developed, with MoCTI, draft sector-specific critical information infrastructure protection plans for energy, health, education and defence and security, presented for validation on 2026-08-26 ([source, 2026-08-26](https://sierraloaded.sl/news/sierra-leone-plans-digital-systems-sectors/)).
-
-### Zambia: 3 Established
-
-The national cyber body responded to an incident or issued an alert in 2026; no critical infrastructure designation is known.
-
-- ZCSA issued a public advisory warning of rising social media misuse, including scams, false information and deepfakes, and urging verification before sharing ([source, 2026-05-08](https://zambia24.com/2026/05/08/misleading-online-content-risks-jail-term/)).
-- The article describes the Zambia Cyber Security Agency (ZCSA) as operating and issuing a public advisory; it is dated by the article's publication, 2026-08-27 ([source, 2026-08-27](https://zedgossip.net/zcsa-warns-zambians-against-rising-disinformation-amid-election-tensions/)).
 
 ### Algeria: 2 Nascent
 
@@ -335,6 +321,12 @@ The country had a cybersecurity strategy by 2025; no incident response by a nati
 
 - AGER lists the National Cybersecurity Strategy (2024-2029) among São Tomé and Príncipe's existing actions on universal and meaningful connectivity ([source, 2025-11](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Dia-3-Sao-Tome-e-Principe-AGER.pdf)).
 
+### Senegal: 2 Nascent
+
+The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
+
+- The Direction générale du chiffre et de la sécurité des systèmes d'information (DCSSI) is stated to co-organise the second cybersecurity providers forum and to set the course and norms for cybersecurity ([source, 2026-10-07](https://aps.sn/cybersecurite-des-prestataires-locaux-appellent-a-plus-de-confiance/)).
+
 ### Seychelles: 2 Nascent
 
 The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
@@ -370,6 +362,12 @@ The country had a national cyber body by 2026; no incident response by a nationa
 The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
 
 - The Minister states Tanzania, through TCRA, established TZ-CERT under the Electronic and Postal Communications Act, 2010, and that it monitors, detects and responds to cybersecurity threats ([source, 2026-05-13](https://www.tcra.go.tz/uploads/text-editor/files/MINISTERS%20STATEMENT%20WITSD%202026_1779118337.pdf)).
+
+### Zambia: 2 Nascent
+
+The country had a national cyber body by 2025; no incident response by a national body is known since 2023.
+
+- The Cyber Security Act, 2025 (Act No. 3 of 2025) establishes the Zambia Cyber Security Agency in the Office of the President (s.3) and has it constitute the Zambia Cyber Incident Response Team (s.6) to handle incidents and issue alerts; the Act commenced on 12 May 2025 ([source, 2025-05-12](https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20of%202025%2C%20The%20Cyber%20Security_0.pdf)).
 
 ### Zimbabwe: 2 Nascent
 
