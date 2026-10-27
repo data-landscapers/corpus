@@ -33,6 +33,8 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Is the country in a regional payment system? | A source from the last three years says the country takes part in PAPSS or a regional payment system in service |
 | 4 | Are cross-border volumes or costs reported? | A source from the last three years gives a figure for cross-border digital payments through the country's corridors or regional link: volume, value or cost |
 
+**A cost is a measured cost, not a posted fee** *(Bill, 2026-10-27)*: a provider's published transfer fee is a price list, not evidence of payments made, and does not answer question 4.
+
 ## 3. The ladders
 
 **Cross-border functionality**
