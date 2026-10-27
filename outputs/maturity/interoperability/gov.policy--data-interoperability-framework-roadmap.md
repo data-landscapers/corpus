@@ -22,8 +22,8 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 17 |
-| 2 Nascent | 18 |
+| 3 Established | 18 |
+| 2 Nascent | 17 |
 | 1 Absent | 2 |
 | Unplaced | 4 |
 | No evidence | 11 |
@@ -125,6 +125,12 @@ Rwanda approved a national data sharing policy for public institutions in May 20
 Sao Tome and Principe's regulations list names an interoperability law from 2024; who enforces it and which bodies follow it is not known.
 
 - INIC's regulations list names "Lei 1/2024 Quadro Nacional de Interoperabilidade" among its regulations, alongside a separate Quadro Nacional de Interoperabilidade marked as under discussion; the law's text is not posted ([source, 2024](https://inic.gov.st/regulamentacao.php)).
+
+### South Africa: 3 Established
+
+Government has published minimum interoperability standards, being updated in 2026; whether any rule makes them compulsory is not known.
+
+- The DPSA reply says it published the Minimum Interoperability Standards (MIOS) to guide departments in achieving system interoperability ([source, 2025-08-28](https://pmg.org.za/committee-question/32258/)).
 
 ### Tanzania: 3 Established
 
@@ -241,12 +247,6 @@ Senegal presented a national interoperability framework and a draft decree in 20
 Sierra Leone's ICT ministry said in October 2025 it had developed a government enterprise architecture framework; it is not issued.
 
 - MoCTI states that a Government Enterprise Architecture Framework it developed will serve as a national guide for digital integration, after training over 100 ICT officers from MDAs in Enterprise Architecture; no adoption or issue is stated, so recorded as not yet adopted (as_of is the document's published date, 2025-10-31) ([source, 2025-10-31](https://mocti.gov.sl/mocti-trains-over-100-ict-professionals-to-strengthen-digital-skills-to-design-develop-and-maintain-robust-enterprise-architecture/)).
-
-### South Africa: 2 Nascent
-
-South Africa was updating its minimum interoperability standards and government-wide architecture in 2026; no source held says the current ones are in force.
-
-- The Operation Vulindlela Q1 2026/27 report (National Treasury and the Presidency) says work progressed during the quarter on updating the Minimum Interoperability Standards and the Government-Wide Enterprise Architecture, with the updated standards to be progressed and tested in priority digital services by September 2026; the quarter ended June 2026, so as_of is the quarter, not the 2026-07-31 publication ([source, 2026-06](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf)).
 
 ### Togo: 2 Nascent
 

@@ -1,16 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "framework",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001",
-   "gaps": "No source held says a government interoperability framework is adopted and published.",
-   "note": "Counted from the four questions by study-ladder-interoperability.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "framework",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-003",
+      "gaps": "No instrument held makes the Minimum Interoperability Standards compulsory and names who enforces them, and no department is reported following them; an update of the standards was in progress in 2026 (ZAF-001).",
+      "note": "The DPSA says it published the Minimum Interoperability Standards to guide departments, an adopted and published framework; the 2026 work to update them does not unsay it. No held fact says an instrument makes them compulsory and names an enforcer, so it stops at stage 3.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

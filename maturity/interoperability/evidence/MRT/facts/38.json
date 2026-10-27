@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-28-mrt-mauritanie-unification-des-normes-de-l-architecture-numerique-de-l-eta",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The ministry says a reference framework for State digital architecture standards, drawn from March 2026 consultations with 118 representatives of 34 ministerial departments and inspired by TOGAF and GovStack, has been elaborated, with a Digital Architecture Council planned to enforce it; no adoption is stated.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "cadre de reference de l'architecture numerique de l'Etat",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
