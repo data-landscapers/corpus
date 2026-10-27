@@ -1,63 +1,63 @@
-unit,name,kind,last_reviewed,status_revised,progress_revised
-AGO,Angola,country,2026-10-26,24,2
-BDI,Burundi,country,2026-10-26,14,5
-BEN,Benin,country,2026-10-18,1,6
-BFA,Burkina Faso,country,2026-10-20,10,5
-BWA,Botswana,country,2026-10-20,7,4
-CAF,Central African Republic,country,2026-10-21,4,0
-CIV,Cote d'Ivoire,country,2026-10-21,3,2
-CMR,Cameroon,country,2026-10-22,11,5
-COD,DR Congo,country,2026-10-22,15,15
-COG,Congo,country,2026-10-24,13,12
-COM,Comoros,country,2026-10-24,10,7
-CPV,Cape Verde,country,2026-10-25,13,4
-DJI,Djibouti,country,2026-10-25,11,0
-DZA,Algeria,country,2026-10-27,14,5
-EGY,Egypt,country,2026-10-27,16,4
-ERI,Eritrea,country,2026-09-24,7,7
-ETH,Ethiopia,country,2026-09-24,11,14
-GAB,Gabon,country,2026-09-25,7,10
-GHA,Ghana,country,2026-09-25,17,8
-GIN,Guinea,country,2026-09-27,5,2
-GMB,Gambia,country,2026-09-27,2,0
-GNB,Guinea-Bissau,country,2026-09-27,13,1
-GNQ,Equatorial Guinea,country,2026-09-27,3,5
-KEN,Kenya,country,2026-09-28,11,11
-LBR,Liberia,country,2026-09-28,11,15
-LBY,Libya,country,2026-09-29,5,3
-LSO,Lesotho,country,2026-09-29,4,2
-MAR,Morocco,country,2026-10-01,9,21
-MDG,Madagascar,country,2026-10-01,11,7
-MLI,Mali,country,2026-10-01,9,1
-MOZ,Mozambique,country,2026-10-01,17,5
-MRT,Mauritania,country,2026-10-03,1,0
-MUS,Mauritius,country,2026-10-03,2,0
-MWI,Malawi,country,2026-10-04,1,8
-NAM,Namibia,country,2026-10-04,2,8
-NER,Niger,country,2026-10-05,5,7
-NGA,Nigeria,country,2026-10-05,0,13
-RWA,Rwanda,country,2026-10-05,14,2
-SDN,Sudan,country,2026-10-05,13,1
-SEN,Senegal,country,2026-10-08,14,7
-SLE,Sierra Leone,country,2026-10-08,14,6
-SOM,Somalia,country,2026-10-09,15,3
-SSD,South Sudan,country,2026-10-09,18,11
-STP,Sao Tome and Principe,country,2026-10-10,4,2
-SWZ,Eswatini,country,2026-10-10,20,2
-SYC,Seychelles,country,2026-10-11,11,5
-TCD,Chad,country,2026-10-11,15,7
-TGO,Togo,country,2026-10-11,15,12
-TUN,Tunisia,country,2026-10-11,10,13
-TZA,Tanzania,country,2026-10-12,5,5
-UGA,Uganda,country,2026-10-12,2,4
-ZAF,South Africa,country,2026-10-18,8,15
-ZMB,Zambia,country,2026-10-18,9,11
-ZWE,Zimbabwe,country,2026-10-18,4,8
-XAF,Africa,region,2026-10-12,,2
-XCA,Central Africa,region,2026-10-12,,0
-XEA,East Africa,region,2026-10-13,0,1
-XGL,Global,region,2026-10-13,0,0
-XNA,North Africa,region,2026-10-15,0,2
-XSA,Southern Africa,region,2026-10-15,0,5
-XSS,Sub-Saharan Africa,region,2026-10-17,0,0
-XWA,West Africa,region,2026-10-17,0,8
+unit,name,kind,last_reviewed,status_revised,status_trimmed,progress_revised
+AGO,Angola,country,2026-10-26,24,,2
+BDI,Burundi,country,2026-10-26,14,,5
+BEN,Benin,country,2026-10-18,1,,6
+BFA,Burkina Faso,country,2026-10-20,10,,5
+BWA,Botswana,country,2026-10-20,7,,4
+CAF,Central African Republic,country,2026-10-21,4,,0
+CIV,Cote d'Ivoire,country,2026-10-21,3,,2
+CMR,Cameroon,country,2026-10-22,11,,5
+COD,DR Congo,country,2026-10-22,15,,15
+COG,Congo,country,2026-10-24,13,,12
+COM,Comoros,country,2026-10-24,10,,7
+CPV,Cape Verde,country,2026-10-25,13,,4
+DJI,Djibouti,country,2026-10-25,11,,0
+DZA,Algeria,country,2026-10-27,14,,5
+EGY,Egypt,country,2026-10-27,16,,4
+ERI,Eritrea,country,2026-09-24,7,,7
+ETH,Ethiopia,country,2026-09-24,11,,14
+GAB,Gabon,country,2026-09-25,7,,10
+GHA,Ghana,country,2026-09-25,17,,8
+GIN,Guinea,country,2026-09-27,5,,2
+GMB,Gambia,country,2026-09-27,2,,0
+GNB,Guinea-Bissau,country,2026-09-27,13,,1
+GNQ,Equatorial Guinea,country,2026-09-27,3,,5
+KEN,Kenya,country,2026-09-28,11,,11
+LBR,Liberia,country,2026-09-28,11,,15
+LBY,Libya,country,2026-09-29,5,,3
+LSO,Lesotho,country,2026-09-29,4,,2
+MAR,Morocco,country,2026-10-01,9,,21
+MDG,Madagascar,country,2026-10-01,11,,7
+MLI,Mali,country,2026-10-01,9,,1
+MOZ,Mozambique,country,2026-10-01,17,,5
+MRT,Mauritania,country,2026-10-03,1,,0
+MUS,Mauritius,country,2026-10-03,2,,0
+MWI,Malawi,country,2026-10-04,1,,8
+NAM,Namibia,country,2026-10-04,2,,8
+NER,Niger,country,2026-10-05,5,,7
+NGA,Nigeria,country,2026-10-05,0,,13
+RWA,Rwanda,country,2026-10-05,14,,2
+SDN,Sudan,country,2026-10-05,13,,1
+SEN,Senegal,country,2026-10-08,14,,7
+SLE,Sierra Leone,country,2026-10-08,14,,6
+SOM,Somalia,country,2026-10-09,15,,3
+SSD,South Sudan,country,2026-10-09,18,,11
+STP,Sao Tome and Principe,country,2026-10-10,4,,2
+SWZ,Eswatini,country,2026-10-10,20,,2
+SYC,Seychelles,country,2026-10-11,11,,5
+TCD,Chad,country,2026-10-11,15,,7
+TGO,Togo,country,2026-10-11,15,,12
+TUN,Tunisia,country,2026-10-11,10,,13
+TZA,Tanzania,country,2026-10-12,5,,5
+UGA,Uganda,country,2026-10-12,2,,4
+ZAF,South Africa,country,2026-10-18,8,,15
+ZMB,Zambia,country,2026-10-18,9,,11
+ZWE,Zimbabwe,country,2026-10-18,4,,8
+XAF,Africa,region,2026-10-12,,,2
+XCA,Central Africa,region,2026-10-12,,,0
+XEA,East Africa,region,2026-10-13,0,,1
+XGL,Global,region,2026-10-13,0,,0
+XNA,North Africa,region,2026-10-15,0,,2
+XSA,Southern Africa,region,2026-10-15,0,,5
+XSS,Sub-Saharan Africa,region,2026-10-17,0,,0
+XWA,West Africa,region,2026-10-17,0,,8

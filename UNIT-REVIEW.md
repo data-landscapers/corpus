@@ -14,7 +14,7 @@ last_reviewed: 2026-09-18
 
 ## Why
 
-**Stage 4 works a set difference, and a set difference never looks back.** A sentence carried across a window that has moved on, an indicator cell the ledger has overtaken, a baseline section a later source quietly contradicted, a finance row counted twice: each passes every check, because the checks test the documents' consistency, not whether they are still right. `CITE-REREAD.md` found 3,774 such claims in one sweep of the baselines. A rotation finds the same class a unit at a time, before it accumulates, at a cost a nightly cycle can carry.
+**Stage 4 works a set difference, and a set difference never looks back.** A sentence carried across a window that has moved on, an indicator cell the ledger has overtaken, a baseline section a later source quietly contradicted, a finance row counted twice: each passes every check, because the checks test the documents' consistency, not whether they are still right. A rotation finds that class a unit at a time, before it accumulates.
 
 ## When — the script decides
 
@@ -25,7 +25,7 @@ python scripts/unit-review.py next           # any other cycle
 
 **Exit 0 prints tonight's two units, one a line, and each is reviewed in turn — steps 1 to 6 whole for the first, then for the second; exit 1 means none is owed now** — a cycle not started by `/poll` and outside 21:00–05:00 — and the review is skipped with no log line and no message. Exit 2 is a malformed `logs/unit-review.csv`: write one message block quoting it and go on to the render. Call it once and work the list it printed: `done` re-sorts the rotation, so a second call names a different pair. The script's docstring holds the rotation order, the count and the time rule; do not re-derive them.
 
-**Skip it too if the build half did not finish** — `logs/.build-in-progress` present, or the newest `· **BUILD** ·` line `errored`. The seam will stop the cycle, and a review over a half-built unit reviews the wrong thing.
+**Skip it too if the build half did not finish** — `logs/.build-in-progress` present, or the newest `· **BUILD** ·` line `errored`. A review over a half-built unit reviews the wrong thing.
 
 ## What a unit issues
 
@@ -66,19 +66,19 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 5. **Record and commit** — from the Corpus root, one commit for the unit, explicit paths, pushed straight away:
 
    ```bash
-   python scripts/unit-review.py done {U} --status <n> --progress <n>   # the counts step 6 logs
+   python scripts/unit-review.py done {U} --status <n> --trimmed <n> --progress <n>   # the counts step 6 logs
    git add outputs/reports/{U} outputs/non-state-finance outputs/budgets scripts logs/unit-review.csv   # only what the run touched
    git commit -F - <<'EOF'
-   Review {U}: <what changed, in counts>
+   Review {U}: status <n> revised, <n> trimmed; <other counts>
    EOF
    git push
    ```
 
-   A review that changed nothing still stamps and commits the rotation file — *reviewed and right* is a result. `done` prints the rolling mean of status sections revised a unit; under two, BUILD stage 4 is holding (strategic review 5, R75).
+   **`--status` counts sections revised because the position moved; `--trimmed` counts those changed only for length or the sheet** *(R142)*. A section with both counts under `--status`. A review that changed nothing still stamps and commits the rotation file — *reviewed and right* is a result. `done` prints the rolling mean of `--status` a unit; under two, BUILD stage 4 is holding (strategic review 5, R75).
 6. **Log it**:
 
    ```bash
-   python scripts/log-line.py review "{U}: status <n> sections revised, progress <n> cells, finance <n> rows; <n> deals queued, <n> notes for OSINT — ok"
+   python scripts/log-line.py review "{U}: status <n> sections revised, <n> trimmed, progress <n> cells, finance <n> rows; <n> deals queued, <n> notes for OSINT — ok"
    ```
 
    Counts of zero are written, not omitted, so a line says what was looked at.

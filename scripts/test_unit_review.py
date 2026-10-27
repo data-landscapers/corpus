@@ -63,19 +63,22 @@ with tempfile.TemporaryDirectory() as tmp:
     case("then the oldest date, ties alphabetical", out.startswith("AGO"))
 
     code, out = run(p, ["list"], NIGHT)
-    case("no counts recorded yet says so", "no review has recorded its counts yet" in out)
-    run(p, ["done", "AGO", "--status", "3", "--progress", "10"], dt.datetime(2026, 9, 20, 23, 0))
-    code, out = run(p, ["done", "BEN", "--status", "0", "--progress", "4"], dt.datetime(2026, 9, 21, 23, 0))
+    case("no counts recorded yet says so", "no review since the R142 re-baseline has recorded its counts yet" in out)
+    run(p, ["done", "AGO", "--status", "3", "--trimmed", "9", "--progress", "10"], dt.datetime(2026, 9, 20, 23, 0))
+    code, out = run(p, ["done", "BEN", "--status", "0", "--trimmed", "12", "--progress", "4"], dt.datetime(2026, 9, 21, 23, 0))
     case("done prints the rolling mean over reviews with counts",
-         "last 2 reviews: status 1.5 sections, progress 7.0 cells" in out and "holding" in out
+         "last 2 reviews: status 1.5 sections revised for currency, progress 7.0 cells" in out and "holding" in out
          and "not holding" not in out)
     code, out = run(p, ["done", "XWA"], dt.datetime(2026, 9, 22, 23, 0))
     case("a done without counts records blanks, not zeros, and is left out of the mean",
-         "last 2 reviews" in out and "XWA,West Africa,region,2026-09-22,," in open(p).read())
+         "last 2 reviews" in out and "XWA,West Africa,region,2026-09-22,,," in open(p).read())
     m = ur.rolling_mean(ur.load(p, EXPECTED), n=1)
     case("the mean rolls: only the latest n reviews count", m == (1, 0.0, 4.0))
-    run(p, ["done", "AGO", "--status", "5", "--progress", "1"], dt.datetime(2026, 9, 23, 23, 0))
+    run(p, ["done", "AGO", "--status", "5", "--trimmed", "0", "--progress", "1"], dt.datetime(2026, 9, 23, 23, 0))
+    run(p, ["done", "XWA", "--status", "24", "--progress", "2"], dt.datetime(2026, 9, 24, 23, 0))
     code, out = run(p, ["list"], NIGHT)
+    case("a review with no trimmed count predates the re-baseline and is left out (R142)",
+         "last 2 reviews" in out)
     case("a status mean of two or more is not holding", "status 2.5 sections" in out and "not holding" in out)
 
     case("done on an unknown unit is exit 2", run(p, ["done", "ZZZ"], NIGHT)[0] == 2)
