@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-09-mar-gid-2025",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "use",
+   "value": "systems",
+   "fact": "Morocco's interior minister told governors in October 2024 that communes must prepare and execute their 2025 budgets exclusively in the GID integrated expenditure system, after some communes missed the deadline to upload draft budgets to it.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "GID",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GID",
+   "country_label": "Morocco",
+   "class": "application",
+   "platform": "",
+   "owner": "Ministry of Interior / Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
