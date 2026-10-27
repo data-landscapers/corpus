@@ -35,6 +35,14 @@ records, all metadata, in `maturity/{id}/search/`:
 - `unselected.csv` — every lead not staged and why: held, rejected, unfetchable, or the
   searcher's reason. Leads, not evidence; a later decision to widen is served from here.
 
+**Before a decision is staged, its title is screened for twins** *(R139)*. `fetch` catches a
+held URL; ingest also drops a held story under another URL as `already-held` (14, 44 and 18 of
+the 52, 97 and 65 drops of 2026-10-26). A title matching a catalogue title exactly is held under
+ingest's code; one matching, or a URL in, another study batch still on the share is
+`already-seen`. On that night's three batches the match caught 28 of the 76 twins and no
+admitted document; a looser match caught few more and began to catch admitted ones. The rest of
+ingest's screen is judgement, and is the searcher's (`searcher-brief.md` → *Screen*).
+
 **`ready`** writes `BRIEF.md` with its `Closed by:` line and then `READY`, last. OSINT's
 cycle pulls a folder that carries `READY`, so this is the delivery and is a step of its own:
 it is run after `lint-staged-queue.py` has been read and Bill has the count. **The nightly
@@ -53,6 +61,7 @@ from __future__ import annotations
 import argparse
 import collections
 import datetime as dt
+import glob
 import importlib.util
 import io
 import json
@@ -334,12 +343,77 @@ def collect(study: dict, study_id: str, isos: list[str]) -> tuple[list[dict], li
     return selected, unselected, searched, problems
 
 
+def title_key(title: str) -> str:
+    """A title as the twin screen compares it: folded, lower case, a trailing ` - Publisher`
+    dropped, punctuation to spaces. Under four words it is too generic to match on."""
+    t = study_lib.fold(title or "").lower()
+    t = re.sub(r"\s+[-|–—]\s+[^-|–—]{2,40}$", "", t)
+    t = re.sub(r"[^a-z0-9]+", " ", t).strip()
+    return t if len(t.split()) >= 4 else ""
+
+
+def held_titles(path: str = "") -> dict[str, str]:
+    """{title key: slug} over the catalogue, which is every source in `raw/`."""
+    path = path or os.path.join(study_lib.CORPUS, "outputs", "catalogue", "catalogue-internal.csv")
+    out = {}
+    for r in study_lib.read_csv(path) if os.path.exists(path) else []:
+        k = title_key(r.get("title", ""))
+        if k:
+            out.setdefault(k, r.get("slug", ""))
+    return out
+
+
+def sibling_batches(share: str, study_id: str) -> dict[str, str]:
+    """{title key or normalised URL: folder} over every other study batch still on the share.
+    A folder there has not been pulled, so its documents are tonight's siblings."""
+    out = {}
+    for folder in glob.glob(os.path.join(share, "prepared", "maturity-study-*")):
+        name = os.path.basename(folder)
+        if name == f"maturity-study-{study_id}":
+            continue
+        for path in glob.glob(os.path.join(folder, "*.md")):
+            if os.path.basename(path) == "BRIEF.md":
+                continue
+            with open(path, encoding="utf-8", errors="replace") as fh:
+                head = fh.read(4000)
+            for key, rx in (("title", r"^title:\s*(.+)$"), ("url", r"^url:\s*(\S+)")):
+                m = re.search(rx, head, re.M)
+                if m:
+                    v = m.group(1).strip().strip("'\"")
+                    k = title_key(v) if key == "title" else ss.norm(v)
+                    if k:
+                        out.setdefault(k, name)
+    return out
+
+
+def twin_screen(selected: list[dict], held: dict[str, str], siblings: dict[str, str]
+                ) -> tuple[list[dict], list[dict]]:
+    """R139: `fetch` screens the URL; this catches the twin under another URL, by the title the
+    searcher recorded. Ingest's own codes, so `returned.csv` and the manifest read alike."""
+    kept, out = [], []
+    for d in selected:
+        k = title_key(d.get("title", ""))
+        why = ""
+        if k and k in held:
+            why = f"already-held: title of {held[k]}"
+        elif (k and k in siblings) or ss.norm(d["url"]) in siblings:
+            why = f"already-seen: staged in {siblings.get(k) or siblings.get(ss.norm(d['url']))}"
+        if why:
+            out.append({"iso3": d["iso3"], "k": d["k"], "sub_indicator": d["sub_indicator"],
+                        "url": d["url"], "title": d.get("title", ""), "why": why})
+        else:
+            kept.append(d)
+    return kept, out
+
+
 def stage(study: dict, study_id: str, share: str, today: str, dry: bool) -> int:
     folder = prepared_dir(study_id, share)
     if os.path.exists(os.path.join(folder, "READY")):
         print(f"study-stage: {folder} carries READY; it is delivered and is not rewritten.")
         return 2
     selected, unselected, searched, problems = collect(study, study_id, sorted(study_lib.countries()))
+    selected, twins = twin_screen(selected, held_titles(), sibling_batches(share, study_id))
+    unselected += twins
     held_names = {os.path.basename(r["file"]) for r in ss.lookup("raw-url-index.csv").values()}
 
     by_url: dict[str, list[dict]] = collections.OrderedDict()
@@ -369,7 +443,8 @@ def stage(study: dict, study_id: str, share: str, today: str, dry: bool) -> int:
         print(f"study-stage: FAIL - {p}")
     by_country = collections.Counter(s["iso3"] for s in staged)
     print(f"study-stage: {study_id} - {len(files)} document(s) selected for {len(by_country)} "
-          f"countries, {len(unselected)} lead(s) not staged, {len(problems)} problem(s)"
+          f"countries, {len(unselected)} lead(s) not staged ({len(twins)} twin(s) by title), "
+          f"{len(problems)} problem(s)"
           + (" (dry run)." if dry else "."))
     if dry:
         return 1 if problems else 0

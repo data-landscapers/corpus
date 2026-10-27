@@ -739,6 +739,18 @@ try:
         check("staging never writes `ingested:`", "ingested:" in text, False)
         check("an aspect outside the study stops a decision",
               stage.decision_problem(STUDY, dict(good, aspect="clinics;reach")), "aspect `reach` is not in the study")
+        check("a title is compared folded, without its publisher tail",
+              stage.title_key("Le Kenya lance son système HMIS – Nation"), "le kenya lance son systeme hmis")
+        check("a short title is too generic to match", stage.title_key("Annual report 2025"), "")
+        twin = dict(good, iso3="KEN", k=1, url="https://other.org/b", title="Kenya launches its new HMIS")
+        kept, out = stage.twin_screen([twin, dict(twin, k=2, url="https://x.org/c", title="Uganda rolls out a new EMR"),
+                                       dict(twin, k=3, url="https://y.org/d", title="Rwanda tenders a national LIMS")],
+                                      {"kenya launches its new hmis": "2025-06-01-ken-hmis"},
+                                      {"uganda rolls out a new emr": "maturity-study-emr"})
+        check("a held title under another URL is not staged, under ingest's code",
+              [(u["k"], u["why"]) for u in out],
+              [(1, "already-held: title of 2025-06-01-ken-hmis"), (2, "already-seen: staged in maturity-study-emr")])
+        check("and the rest is staged", [d["k"] for d in kept], [3])
     finally:
         study_lib.CORPUS = real_corpus
 
