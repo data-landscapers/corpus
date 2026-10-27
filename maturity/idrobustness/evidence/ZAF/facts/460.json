@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-zaf-smart-id-delays-exclusion",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Smart ID has been issued since its launch in 2013, with 341,000 issued cards unclaimed as Home Affairs urges collection before the 4 November 2026 elections, the opinion piece says.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Smart ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart ID",
+   "country_label": "Smart ID",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

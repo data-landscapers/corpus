@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,robustness,system,coverage,inservice,2026-10-19,GHA-001;GHA-002;GHA-003;GHA-004;GHA-005;GHA-006;GHA-007;GHA-008;GHA-009;GHA-010;GHA-011;GHA-012;GHA-013;GHA-014;GHA-016;GHA-017,,
+GHA,robustness,system,coverage,inservice,2026-10-19,GHA-001;GHA-002;GHA-003;GHA-004;GHA-005;GHA-006;GHA-007;GHA-008;GHA-009;GHA-010;GHA-011;GHA-012;GHA-013;GHA-014;GHA-016;GHA-017;GHA-018,,
 GHA,robustness,biometric,coverage,,,,,nothing held
 GHA,robustness,assurance,coverage,,,,,nothing held

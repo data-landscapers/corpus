@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-zaf-home-affairs-one-million-smart-ids",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs said on 26 October 2026 that it has issued Smart ID cards to 1,002,773 citizens through 669 bank branches since 9 March 2026.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Smart ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Smart ID card",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

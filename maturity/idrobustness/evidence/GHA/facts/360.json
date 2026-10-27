@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Identification Authority says the Ghana Card uniquely identifies its bearer on biographic and biometric features, held in a secure biometric national identification register.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card / National Identification System",
+   "country_label": "National Identification System",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Biometric check against double enrolment and security certification are not stated."
+}
