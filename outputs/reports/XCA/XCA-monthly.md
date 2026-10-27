@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: XCA
-ledger_rows: 16
+ledger_rows: 17
 not_held: 0
-record: 1099a0836159
+record: 694e0e9ffc5d
 ---
 
 # News, Sep – Oct 2026
@@ -449,8 +449,26 @@ The governor of the central African central bank BEAC, Yvon Sana Bangui, met the
 ## Finance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#new-investments">New investments</a>
 </nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regional central bank memorandum with the National Bank of Cambodia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NBC, BEAC ink MoU on financial cooperation framework](https://www.khmertimeskh.com/502045413/nbc-beac-ink-mou-on-financial-cooperation-framework/)** — Khmer Times, 26 October 2026
+
+Phnom Penh signing; 2027-2028 action plan; payment-system interconnection, possible Bakong link to CEMAC.
+
+</div>
+
+</div>
 
 ### New investments
 
