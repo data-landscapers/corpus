@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: RWA
-ledger_rows: 50
+ledger_rows: 51
 not_held: 7
-record: 62455390ef6c
+record: f6e68643358e
 ---
 
 # News, Sep – Oct 2026
@@ -811,6 +811,20 @@ Rwanda is introducing cybersecurity courses in technical and vocational educatio
 **[MTN Rwanda signs cybersecurity MoU with National Cyber Security Authority](https://techreviewafrica.com/news/7886/mtn-rwanda-signs-cybersecurity-mou-with-national-cyber-security-authority)** — Tech Review Africa, 22 October 2026
 
 MTN Rwanda signed a memorandum of understanding with the National Cyber Security Authority to support cybersecurity and data-protection skills training through the CyberHub Academy and Innovation Centre. No value or duration was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Rwanda and cyber security authority CyberHub partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda cyber authority boosts security with Airtel, MTN](https://www.connectingafrica.com/cybersecurity/rwanda-cyber-authority-boosts-security-with-airtel-mtn)** — Connecting Africa, 26 October 2026
+
+Airtel Future Path internships for CyberHub students; MTN MoU on course design and placements; no value stated.
 
 </div>
 
