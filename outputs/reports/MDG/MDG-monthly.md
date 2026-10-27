@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: MDG
-ledger_rows: 37
+ledger_rows: 38
 not_held: 5
-record: 03edc79a0b01
+record: 3dca79c39d22
 ---
 
 # News, Sep – Oct 2026
@@ -551,6 +551,20 @@ Madagascar's tax directorate lets taxpayers apply for a tax identification numbe
 **[Projet « Créer des frontières plus intelligentes à Madagascar](https://moov.mg/article/121374-migration-madagascar-mieux-prepare-grace-au-projet-creer-des-frontieres-plus-intelligentes)** — Moov Madagascar, 18 September 2026
 
 The International Organization for Migration's Japan-funded Smarter Borders project closed in Madagascar on 18 September 2026 after two years. It installed mobile MIDAS migration-data kits at the port of Mahajanga, trained national instructors and ran a maritime simulation with 13 institutions; Madagascar was one of four beneficiaries of the US$3 million regional programme.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MPIANATRA school management platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Du contenu à la gestion : Madagascar accélère la numérisation de son système éducatif](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/du-contenu-a-la-gestion-madagascar-accelere-la-numerisation-de-son-systeme-educatif)** — wearetech.africa, 26 October 2026
+
+Launched 24 Oct 2026 with Studio MG; follows NUIS pupil ID piloted on 180,000 pupils; public-school rollout unsettled.
 
 </div>
 
