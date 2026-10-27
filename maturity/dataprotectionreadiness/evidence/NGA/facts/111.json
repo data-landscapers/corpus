@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-26-nga-protection-of-personal-privacy-central-to-ndpc-mandate-olatunji",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The commissioner says the Nigeria Data Protection Act, enacted in 2023, is in force and that data controllers now know they are accountable under it.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Vincent Olatunji is the pioneer commissioner and chief executive of the Nigeria Data Protection Commission.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The commissioner says 41,000 organisations had registered with the commission in 2026 and that 362 compliance organisations are licensed.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Nigeria Data Protection Commission",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
