@@ -1,11 +1,11 @@
 ---
 title: Niger — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: NER
-ledger_rows: 22
+ledger_rows: 23
 not_held: 1
-record: f29fa47bd555
+record: 9d79d612d10f
 ---
 
 # News, Sep – Oct 2026
@@ -369,6 +369,20 @@ Niger's urban modernisation agency runs an online addressing geoportal for Niame
 </div>
 
 ### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Guichet Unique du Commerce Exterieur</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Niger is transforming foreign trade procedures with Webb Single Window](https://webbfontaine.com/fr/success-stories-niger-is-transforming-foreign-trade-procedures-with-webb-single-window)** — Webb Fontaine, 9 September 2026
+
+TVF control from 16 July 2026 lifts July filings 123%; all banks on e-Forex; stamp duty now paid online.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
