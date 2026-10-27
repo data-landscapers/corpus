@@ -72,6 +72,9 @@ check("maturity blocks skip the first test",
       "first" in fails("Older commitments have aged.", "maturity"), False)
 check("bulletin summaries skip the first test",
       "first" in fails("The bank plans a framework.", "bulletin"), False)
+check("a summary written before the sheet is not read",
+      list(lp.bulletin_blocks('{"a": {"written": "2026-10-26", "summary": "Old."}, '
+                              '"b": {"written": "2026-10-28", "summary": "New."}}')), ["b"])
 
 # --- the words (R130) and the mood list ------------------------------------------------------
 check("apparatus words fail", "words" in fails(LINKED + " No strategy is held."), True)

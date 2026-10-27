@@ -20,13 +20,15 @@ on `X:\prepared\` are skipped, so batches never overlap.
 
 **`check`** holds a written batch to the contract in OSINT's `wiki/schemas.md` §4: one line,
 at most 120 characters, no terminal full stop, no markdown or wikilinks, not the title
-restated, no talk of the record rather than the document, and a slug that exists and still
+restated, no talk of the record rather than the document, none of the prose sheet's
+apparatus or mood words (R138: `lint-prose.py`'s own lists), and a slug that exists and still
 lacks a hero. It reports; it does not repair.
 
 `documentation/hero-brief.md` is the brief the writing agents are given.
 """
 import argparse
 import glob
+import importlib.util
 import json
 import os
 import random
@@ -42,6 +44,11 @@ RAW = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".workroot", "raw
 PREPARED = os.path.join(status_lib.EXCHANGE, "prepared")
 BODY_CHARS = 3000
 CAP = 120
+
+_spec = importlib.util.spec_from_file_location(
+    "lint_prose", os.path.join(os.path.dirname(os.path.abspath(__file__)), "lint-prose.py"))
+LP = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(LP)
 
 
 def records():
@@ -124,6 +131,10 @@ def problems(hero: str, title: str) -> list:
     norm = lambda t: re.sub(r"\W+", " ", t.lower()).strip()  # noqa: E731
     if re.search(r"\bstub\b|\bcaptured\b|held elsewhere|cite_through|\bexcerpt\b", hero, re.I):
         out.append("speaks of the record, not the document")
+    if any(rx.search(hero) for rx in LP.WORDS):
+        out.append("the sheet's apparatus words")
+    if any(rx.search(hero) for rx in LP.MOOD):
+        out.append("the sheet's mood words")
     # OSINT's `catalogue-hero-set.py` refuses either containment (notes-for-corpus 31), so a
     # hero that opens on its title bounces there even when the rest of it adds something.
     if title and (norm(hero) in norm(title) or norm(title) in norm(hero)):

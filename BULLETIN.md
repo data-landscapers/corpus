@@ -19,6 +19,7 @@ For **each** item in the work order, read it — `raw/{year}/{slug}.md` from `sc
 
 ```bash
 python scripts/bulletin.py --write {slug} --text "…"
+python scripts/lint-prose.py --unit bulletin -v   # a summary it lists is rewritten first
 python scripts/bulletin.py --assemble      # then commit outputs/bulletins/
 ```
 

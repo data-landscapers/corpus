@@ -13,7 +13,9 @@ read by a person, at the unit review, and has no check here.
 - **maturity** — one labelled paragraph of `outputs/maturity/{id}/{ISO3}.md`, keyed by indicator,
   `##` heading and label. The bold label is the writer scripts' apparatus, not prose, and is
   stripped before any check.
-- **bulletin** — one summary in `outputs/bulletins/summaries.json`, keyed by slug.
+- **bulletin** — one summary in `outputs/bulletins/summaries.json`, keyed by slug, **written on
+  or after `SHEET_FROM`** (R138). An older summary sits in a published bulletin, which is never
+  revised, so it could never clear and would only floor the estate count.
 - **wiki** — a `##` section of a page in the mirror's `wiki/intersections/`. **Reported, never
   gated** (R133, CORPUS final reading): it is OSINT's prose, and the count is R149's measure.
 
@@ -84,6 +86,7 @@ OPEN = os.path.join(ROOT, "logs", ".prose-open")
 FIELDS = ["date", "unit", "blocks", "failing", "words", "sentences", "mean", "longest",
           "contrast", "first", "word_hits", "mood_hits"]
 
+SHEET_FROM = "2026-10-28"   # the first bulletin written with BULLETIN.md's check (R138)
 MEAN_UNDER, LONGEST, CONTRAST_PER = 20, 40, 1000
 
 LINK = re.compile(r"\[([^\]]*)\]\((?:<[^>]*>|(?:[^()\s]|\([^()]*\))*)\)")
@@ -304,7 +307,8 @@ def bulletin_blocks(raw: str) -> dict[str, list[str]]:
         data = json.loads(raw)
     except ValueError:
         return {}
-    return {k: [summary_text(v)] for k, v in data.items() if summary_text(v).strip()}
+    return {k: [summary_text(v)] for k, v in data.items() if summary_text(v).strip()
+            and not (isinstance(v, dict) and v.get("written", SHEET_FROM) < SHEET_FROM)}
 
 
 def read(path: str) -> str:
