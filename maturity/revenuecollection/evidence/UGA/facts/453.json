@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-uga-ask-ura-commissioner-general-19",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The URA says digital payment options for tax now include EFT, RTGS, VISA, over-the-counter banking and mobile USSD *285#, and Local Excise Duty, Rental Income Tax and VAT returns moved to web-based platforms.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "URA online tax payment channels",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

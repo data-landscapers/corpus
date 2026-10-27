@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-eth-ethiopia-increases-customs-revenue-with-webb-customs",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Webb Fontaine says electronic payment facilities were introduced in Ethiopia's Webb Customs eCMS, reducing manual paperwork.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Webb Customs eCMS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

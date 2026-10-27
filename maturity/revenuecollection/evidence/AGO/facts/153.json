@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ago-trade-facilitation-and-paperless-trade-in-angola",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The UN Global Survey 2025 round reports electronic payment of customs duties in Angola as partially implemented.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "E-Payment of Customs Duties",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

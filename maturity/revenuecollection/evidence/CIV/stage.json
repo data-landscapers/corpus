@@ -6,13 +6,13 @@
       "stage": "3",
       "payment": "inservice",
       "main": "",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001;CIV-002",
+      "stage_sources": "CIV-001;CIV-004",
       "gaps": "No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "note": "First pass, reassessed 2026-10-27: TresorPay collections of FCFA 36 billion in 2024 answer the share question, but the main taxes and duties are not shown filed and paid electronically inside the window, so the stage stays at 3.",
+      "as_at": "2026-10-27"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-11-sdn-mof-pfm-reform-roadmap-isali-integration",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Sudan's finance ministry says its Isali electronic collection and payment system has been in use since early 2024, with contracts signed with 22 banks.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Isali",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "main",
+   "value": "main",
+   "fact": "Sudan's finance ministry says Isali is relied on to collect all public revenue fees approved in the state budget, and is integrated with the ASYCUDA customs system.",
+   "as_of": "2026-04-11",
+   "date_precision": "day",
+   "system": "Isali",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Isali",
+   "country_label": "Sudan",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-tcd-e-paiement",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Chad's customs e-payment system, launched 21 February 2024, lets all customs duties and taxes be paid electronically by SYDONIA World tele-payment, bank transfer or mobile money, with an automatic receipt.",
+   "as_of": "2024-02-21",
+   "date_precision": "day",
+   "system": "E-paiement douanier",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

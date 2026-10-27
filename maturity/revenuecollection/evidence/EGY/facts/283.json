@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-18-egy-ahram-customs-system-development-plan-nafeza",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Al-Ahram reports Deputy Finance Minister Sherif El-Kilany told a cabinet meeting that electronic payment has been made available within the customs system, in a secured and documented form.",
+   "as_of": "2025-05-18",
+   "date_precision": "day",
+   "system": "Egyptian customs electronic payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nafeza",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "",
+   "owner": "Egyptian Customs Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

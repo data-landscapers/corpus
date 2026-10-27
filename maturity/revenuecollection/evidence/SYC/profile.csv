@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SYC,revenue,payment,coverage,inservice,2024-03-04,SYC-001,SYC-002=underway,
+SYC,revenue,payment,coverage,inservice,2024-05,SYC-001;SYC-003,SYC-002=underway,
 SYC,revenue,main,coverage,,,,,nothing held
 SYC,revenue,reported,coverage,,,,,nothing held

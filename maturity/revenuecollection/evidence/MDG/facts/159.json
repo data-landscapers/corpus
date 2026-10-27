@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-16-mdg-safi-cap-sur-le-deploiement-effectif-a-madagascar",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Madagascar's tax administration (DGI) says SAFI, in production since September 2025, aims to offer online filing and varied payment solutions, with VAT refunds and online exemptions to be added in the last quarter of 2025.",
+   "as_of": "2025-09-18",
+   "date_precision": "day",
+   "system": "SAFI / eHetra",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

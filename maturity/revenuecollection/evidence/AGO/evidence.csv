@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 AGO-001,AGO,revenue,payment,underway,"The KWiK roadmap foresees payments to the State, among other functions, through the Multicaixa network.",2026-01-29,day,KWiK,revenue,2026-01-29-operacoes-no-kwik-crescimento-acima-dos-100,https://angop.ao/noticias/economia/operacoes-no-kwik-registam-crescimento-acima-dos-100/
+AGO-002,AGO,revenue,payment,inservice,The UN Global Survey 2025 round reports electronic payment of customs duties in Angola as partially implemented.,2025,year,E-Payment of Customs Duties,revenue,2025-01-01-ago-trade-facilitation-and-paperless-trade-in-angola,https://www.untfsurvey.org/economy?id=AGO

@@ -36,6 +36,7 @@ CIV,PI-SPI,WAEMU,other,interoperable instant payment platform,BCEAO,,2026-10-08-
 CIV,Facture normalisée électronique (FNE),Côte d'Ivoire,other,,Direction générale des impôts,,2026-09-07-civ-aip-fenacci-observatoire-fne
 CIV,Reçu numérique électronique (RNE),Côte d'Ivoire,other,,Direction générale des impôts,,2026-09-07-civ-aip-fenacci-observatoire-fne
 CIV,TresorPay,Cote d'Ivoire,other,electronic payment platform,Tresor public de Cote d'Ivoire,,2026-03-27-clotchor-secongo-digitalisation-collectivites-fratmat
+CIV,TresorPay,Cote d'Ivoire,revenue,,Tresor public,,2025-09-15-civ-cote-d-ivoire-modernisation-des-finances-de-l-etat-le-tresor-public-ac
 CMR,Tresor Pay,Cameroon,revenue,,Ministry of Finance,,2025-06-05-cameroon-mandates-digital-payment-platform-non-tax-revenues
 CMR,PAPSS,Cameroon,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 CMR,SIGIT,SIGIT,other,,Directorate General of Taxation,,2026-04-10-kfw-cmr-2026-sigit-tax-duty-management-system
@@ -75,12 +76,14 @@ EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wa
 EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Electronic Payment and Collection Centre,Government Electronic Payment and Collection Centre,revenue,,Ministry of Finance,,2024-06-23-egy-ahram-epayment-collection-fy23-24
+EGY,Nafeza,Egypt,other,,Egyptian Customs Authority,,2025-05-18-egy-ahram-customs-system-development-plan-nafeza
 ETH,Unified Government Payment Platform (UGPP),Ethiopia,revenue,EthSwitch,EthSwitch,,2026-10-01-ethswitch-unveils-unified-government-payment-platform
 ETH,Unified Government Payment Platform,Ethiopia,revenue,EthioPay CBP,"Ministry of Finance, National Bank of Ethiopia, EthSwitch",,2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot
 ETH,M-PESA Tax Payment Mini App,Ethiopia,revenue,M-PESA Super App,M-PESA Ethiopia,,2026-07-28-m-pesa-ethiopia-launches-digital-tax-payment-service-for-amhara-region
 ETH,e-Gov / MESOB one-stop centres,Ethiopia,other,,,,2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030
 ETH,Federal Government Electronic Payment Directive 71/2020,Ethiopia,other,,Ministry of Finance,,2025-05-26-directive-1069-2025-mandatory-payment-acceptance
 ETH,Electronic Invoice Management System,Ethiopia,other,,INSA for the Ministry of Revenues,,2024-10-08-eth-insa-e-invoice-system
+ETH,e-tax system,Ethiopia,revenue,,Ministry of Revenues,,2024-01-16-eth-ministry-embarks-on-e-tax-services
 GAB,e-tax,Gabon,revenue,e-tax.dgi.ga,Direction Générale des Impôts (DGI),,2025-08-18-gabon-etax-dgi-portal-launch
 GAB,Digitax Gabon,Gabon,other,,,,2025-08-18-gabon-etax-dgi-portal-launch
 GAB,Libreville municipal revenue digitalisation system,Gabon,revenue,,"Libreville city, Treasury",,2026-07-07-gabon-lunion-madigipaie-libreville
@@ -94,6 +97,7 @@ GMB,SUTURA,GMB,revenue,,Nifty ICT Solutions with GAMPOST,,2026-07-20-gambia-acco
 GMB,Accountant General integrated digital payment system,GMB,revenue,,Office of the Accountant General,,2026-07-20-gambia-accountant-general-sutura-digital-revenue-collection
 GMB,Yonna Wallet,Gambia,revenue,mobile wallet app,Yonna Group,,2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app
 GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
+GMB,ITAS,Gambia,revenue,Sogema Technologies,Gambia Revenue Authority,,2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 GNB,Strengthening Tax Administration Capacity Project in West Africa (STACP-WA),Guinea-Bissau,revenue,,West African Tax Administration Forum (WATAF),,2026-08-18-african-development-bank-wataf-2026-stacp-wa
 KEN,Electronic invoicing (eTIMS) mandate / Incomes and Expenses Validation,Kenya,other,,Kenya Revenue Authority,,2026-08-19-horn-uganda-kenya-electronic-invoicing-divergence
@@ -101,6 +105,7 @@ LBR,DIGIGOV Liberia e-payment solution,Liberia,revenue,,Liberia Revenue Authorit
 LBR,Integrated Orange Mobile Money Platform,Liberia,revenue,LITAS,Liberia Revenue Authority,,2025-07-23-lra-orange-ecobank-integrated-mobile-money-tax-platform
 LBR,LITAS,Liberia,revenue,,Liberia Revenue Authority,,2025-07-23-lra-orange-ecobank-integrated-mobile-money-tax-platform
 LBR,NEPS/IIPS,LBR,revenue,,Central Bank of Liberia,,2025-09-23-cbl-directive-002-2025-routing-government-payments-neps-iips
+LBR,Liberia Integrated Tax Administration System (LITAS),Liberia,other,,Liberia Revenue Authority,,2025-08-21-lbr-lra-trains-staff-on-new-digital-tax-payment-system
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
 LBY,e-payment,Libya,other,,Central Bank of Libya,,2026-01-20-cbl-epayment-2025-up-186pc-389bn-libyaherald
@@ -127,6 +132,7 @@ MDG,SAFI (Système d'Administration Fiscale Intégré),Madagascar,revenue,,Tax a
 MDG,e-Facturation,Madagascar,other,central tax-administration platform with API links to approved third-party systems,Tax administration,pilot with large enterprises first,2025-08-08-e-facturation-numerique-2424-mg
 MDG,SIGRNF,Madagascar,revenue,mobile banking and mobile money,Ministere de l'Economie et des Finances,,2025-05-09-sigrnf-lancement-mef-gov-mg
 MDG,SAFI (Système d'Administration FIscale Intégré),Madagascar,revenue,,Ministère de l'Économie et des Finances,,2024-11-08-projet-safi-mef
+MDG,e-Hetra,e-Hetra,revenue,,Ministry of Economy and Finance,,2025-09-01-mdg-interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-fi
 MLI,digital payment at civil registry centres,Mali,revenue,,Ministry of Territorial Administration and Decentralisation,,2026-07-31-mali-collectivites-digitalisation-paiements-etat-civil
 MLI,E-Impôt,Mali,revenue,Sigtas teleservices module,Direction générale des impôts,"large and medium enterprises (DGE, CIME)",2025-11-26-mali-dgi-recettes-electroniques
 MLI,Télépaiement,Mali,revenue,interbank bank-transfer exchange with Treasury and DGI,Direction générale des impôts,taxpayers of computerised centres,2025-11-26-mali-dgi-recettes-electroniques
@@ -152,6 +158,7 @@ MRT,Electronic invoicing system for public institutions,Mauritania,other,,Minist
 MRT,Treasury electronic payment system,Mauritanie,revenue,,Direction générale du Trésor et de la Comptabilité publique,,2026-05-18-mauritanie-finances-seminaire-recettes-non-fiscales-paiement-electronique
 MUS,MRA VAT Filing Portal,Mauritius,revenue,MRA online VAT portal,Mauritius Revenue Authority,"foreign digital-service suppliers, directly or via approved E-Filing Service Centre",2026-01-01-mra-vat-digital-services-foreign-suppliers
 MUS,MRA individual e-Filing,Mauritius,revenue,,Mauritius Revenue Authority,,2025-01-01-mra-individual-e-filing-season-2025
+MUS,TradeNet,Mauritius,revenue,,Mauritius Network Services Ltd,,2025-03-10-mus-customs-declarations-by-nta-and-registrar-general-tradenet-login-page
 MWI,Malawi Police electronic traffic fine payment,MWI,revenue,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
 MWI,TNM Mpamba,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
 MWI,Airtel Money,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
@@ -164,10 +171,12 @@ NER,Guichet Unique Automobile du Niger,Niger,revenue,one-stop shop,SONILOGA,,202
 NER,e-sisic,Niger,revenue,e-sisic portal (Système Informatisé de Suivi des Impôts et des Contribuables),Direction Générale des Impôts,,2026-08-05-niger-dgi-e-sisic-declaration-paiement-electronique
 NER,Terminaux de paiement electronique (TPE),Niger,revenue,,Ville de Niamey / Programme Village Intelligent,,2025-08-21-ner-100-terminaux-de-paiement-electronique-pour-niamey
 NER,PAPSS,Niger,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
+NER,GUCE-Niger,Guichet Unique du Commerce Exterieur,revenue,Webb Fontaine Single Window,Government of Niger,,2026-09-09-ner-niger-is-transforming-foreign-trade-procedures-with-webb-single-window
 NGA,PAPSS,Pan-African Payment and Settlement System,other,,,,2026-09-23-papss-remita-super-app
 NGA,Remita,Remita,other,Remita rails,Remita,,2026-09-23-papss-remita-super-app
 NGA,TaxPro Max,TaxPro Max,revenue,,FIRS,,2025-04-30-nga-etn-firs-banks-close-accounts-taxpro-max
 NGA,e-tax card,Nigeria,revenue,ATM/debit card online payment,,,2010-01-01-nga-cbn-draft-guidelines-e-payment-taxes
+NGA,Electronic Fiscal System (EFS) e-invoicing,Nigeria,other,,FIRS,,2025-08-11-nga-mtn-ihs-huawei-adopt-nigeria-s-new-e-fiscal-platform-for-tax-payments
 RWA,eKash,Rwanda,other,"open-source, AfricaNenda-supported",National Bank of Rwanda via RSwitch,,2026-07-27-rwanda-unifies-digital-payments-national-launch-ekash
 RWA,M-Declaration,Rwanda,revenue,mobile dial-in,Rwanda Revenue Authority,,2013-12-31-rwa-worldbank-m-declaration-small-businesses
 RWA,e-filing,Rwanda,revenue,online,Rwanda Revenue Authority,,2013-12-31-rwa-worldbank-m-declaration-small-businesses
@@ -177,6 +186,7 @@ SDN,Eesaly,Sudan,revenue,,Ministry of Finance,,2026-09-27-sdn-sudanhorizon-mof-m
 SDN,Esali,Sudan,revenue,,Ministry of Finance,,2026-08-10-sudan-finance-ministry-reform-package-revenue
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
 SDN,Eisali,Sudan,revenue,Baladna,Ministry of Finance,,2026-07-26-ssmo-eisali-baldna-integration
+SDN,Isali,Sudan,revenue,,Ministry of Finance,,2026-04-11-sdn-mof-pfm-reform-roadmap-isali-integration
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Wave,Wave,other,,Wave,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
@@ -228,6 +238,7 @@ TCD,E-Tax,Chad,revenue,E-Tax,Direction generale des impots,,2025-08-29-tcd-tchad
 TCD,E-tax,Tchad,other,,Direction generale des impots,,2025-07-08-tcd-tchadinfos-telepaiement-obligatoire
 TCD,Sydoniaworld,Tchad,other,,Direction generale des douanes,,2025-07-08-tcd-tchadinfos-telepaiement-obligatoire
 TCD,E-Tax,Chad,revenue,online portal,Direction generale des Impots,,2024-03-20-tcd-tchadinfos-e-tax-experts-comptables
+TCD,e-paiement,e-paiement,revenue,,DGDDI Tchad,,2025-10-30-tcd-historique-des-douanes-tchadiennes
 TGO,e-TPU,Togo,revenue,"online platform (phone, tablet, computer)",Office Togolais des Recettes / Ministry of Finance and Budget,"TPU taxpayers (SMEs, microenterprises, artisans, traders)",2026-09-17-tgo-otr-plateforme-declaration-paiement-en-ligne-e-tpu-lancee
 TGO,Flooz,Togo,other,mobile money,,,2026-09-17-tgo-otr-plateforme-declaration-paiement-en-ligne-e-tpu-lancee
 TGO,Mixx by Yas,Togo,other,mobile money,,,2026-09-17-tgo-otr-plateforme-declaration-paiement-en-ligne-e-tpu-lancee

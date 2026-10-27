@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "3",
+      "stage": "4",
       "payment": "inservice",
-      "main": "",
+      "main": "main",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-007;TCD-010",
-      "gaps": "No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "TCD-010;TCD-012;TCD-013",
+      "gaps": "No source held since October 2023 gives a figure for revenue paid electronically.",
+      "note": "First pass, reassessed 2026-10-27: E-Tax files and pays all taxes online and customs takes all duties electronically since February 2024. No figure for the electronic share is held.",
+      "as_at": "2026-10-27"
     }
   ]
 }

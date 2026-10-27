@@ -33,3 +33,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZAF,dpi.pay--revenue-collection,review,no evidence,3,ZAF-001,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,dpi.pay--revenue-collection,fact,no evidence,3,ZWE-002;ZWE-003,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
 2026-10-23,GHA,dpi.pay--revenue-collection,fact,unplaced,2,GHA-003,Stage 4c: CitizenApp launch story (Oct 2024) lists tax-return filing; e-filing announced sets stage 2.
+2026-10-27,AGO,dpi.pay--revenue-collection,fact,2,3,AGO-002,"UN 2025 survey: customs duties partly payable electronically; some payment in service, 2 to 3"
+2026-10-27,TCD,dpi.pay--revenue-collection,fact,3,4,TCD-010;TCD-012;TCD-013,"Customs e-payment of all duties since Feb 2024 with E-Tax filing and payment: main taxes and duties, 3 to 4"
+2026-10-27,MUS,dpi.pay--revenue-collection,fact,3,4,MUS-001;MUS-002;MUS-004,"TradeNet e-payment of customs duties with income tax and VAT e-filing: main taxes and duties, 3 to 4"
+2026-10-27,CIV,dpi.pay--revenue-collection,fact,3,3,CIV-001;CIV-004,"TresorPay FCFA 36bn in 2024 answers the share question; main taxes not shown in window, stays 3"
+2026-10-27,SDN,dpi.pay--revenue-collection,fact,3,3,SDN-002;SDN-009,"Isali collects all budgeted fees and links to ASYCUDA; no filing of main taxes stated, stays 3"

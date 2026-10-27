@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-11-nga-mtn-ihs-huawei-adopt-nigeria-s-new-e-fiscal-platform-for-tax-payments",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Fiscal System (EFS) e-invoicing",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "FIRS",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers e-invoicing, not electronic payment of tax."
+}

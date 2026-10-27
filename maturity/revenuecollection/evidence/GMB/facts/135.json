@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Gambia Revenue Authority signed an MoU with Sogema Technologies for a new Integrated Tax Administration System to bring e-registration, e-filing and e-payments, funded by the World Bank, as its Commissioner General says.",
+   "as_of": "2024-05-17",
+   "date_precision": "day",
+   "system": "ITAS",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Gambia",
+   "class": "revenue",
+   "platform": "Sogema Technologies",
+   "owner": "Gambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

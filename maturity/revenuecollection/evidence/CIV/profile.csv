@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,revenue,payment,coverage,inservice,2026-10-08,CIV-001;CIV-002;CIV-003,,
+CIV,revenue,payment,coverage,inservice,2026-10-08,CIV-001;CIV-002;CIV-003;CIV-004,,
 CIV,revenue,main,coverage,,,,,nothing held
-CIV,revenue,reported,coverage,,,,,nothing held
+CIV,revenue,reported,coverage,reported,2024,CIV-005,,

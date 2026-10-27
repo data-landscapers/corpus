@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-09-ner-niger-is-transforming-foreign-trade-procedures-with-webb-single-window",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Webb Fontaine says stamp duties on foreign trade are now calculated and paid digitally through GUCE-Niger, replacing physical stamps, with payments collected digitally and remitted monthly.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "GUCE-Niger",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GUCE-Niger",
+   "country_label": "Guichet Unique du Commerce Exterieur",
+   "class": "revenue",
+   "platform": "Webb Fontaine Single Window",
+   "owner": "Government of Niger",
+   "tiers": ""
+  }
+ ],
+ "note": "No electronic share of revenue is stated."
+}

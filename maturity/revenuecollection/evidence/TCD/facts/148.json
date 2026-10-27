@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-tcd-historique-des-douanes-tchadiennes",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Chad customs directorate (DGDDI) says an e-payment system for secure electronic payment of duties and taxes was launched in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "e-paiement",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-paiement",
+   "country_label": "e-paiement",
+   "class": "revenue",
+   "platform": "",
+   "owner": "DGDDI Tchad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

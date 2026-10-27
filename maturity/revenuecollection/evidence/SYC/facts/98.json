@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-12-syc-seychelles-article-10-4-single-window-technical-assistance-projects",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The WTO Trade Facilitation Agreement database record, from Seychelles' extension request, lists an electronic payment (E-Payment) module among the completed additions to the Seychelles Revenue Commission's ASYCUDA World customs system.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "ASYCUDA World E-Payment module",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

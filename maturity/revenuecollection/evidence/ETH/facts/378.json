@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-16-eth-ministry-embarks-on-e-tax-services",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Addis Fortune reports the Ministry of Revenues announced an expansion of the e-tax system so that late and advance payments, partial filing and audit findings are handled through the digital platform.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "e-tax system",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-tax system",
+   "country_label": "Ethiopia",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Revenues",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-10-mus-customs-declarations-by-nta-and-registrar-general-tradenet-login-page",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The TradeNet portal page of Mauritius Network Services says commercial banks are linked to it, enabling electronic payment of duties and taxes, and a 10 March 2025 notice says electronic payment instructions are processed on it.",
+   "as_of": "2025-03-10",
+   "date_precision": "day",
+   "system": "TradeNet",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TradeNet",
+   "country_label": "Mauritius",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Mauritius Network Services Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

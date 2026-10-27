@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-30-gab-gabon-vers-une-modernisation-des-douanes-pour-faciliter-le-commerce-et",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Gabonmediatime lists the introduction of e-payment among the DGDDI customs measures reviewed by the economy minister on 23 January 2025, saying it saves operators time and costs.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "e-paiement",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

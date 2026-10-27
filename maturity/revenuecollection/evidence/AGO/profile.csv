@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,revenue,payment,coverage,underway,2026-01-29,AGO-001,,
+AGO,revenue,payment,coverage,inservice,2025,AGO-002,AGO-001=underway,
 AGO,revenue,main,coverage,,,,,nothing held
 AGO,revenue,reported,coverage,,,,,nothing held
