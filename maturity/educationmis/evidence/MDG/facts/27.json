@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-26-mdg-wearetech-mpianatra-school-management-platform",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The article says work to modernise the education administration's information system was begun in 2023, and a 2025 Senate-adopted financing law for the TALIM programme provides for modernising the education management information system.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "education administration information system",
+   "class": "emis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
