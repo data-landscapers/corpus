@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LSO,core,finance,coverage,inuse,2026-08-26,LSO-001;LSO-002;LSO-003,,
-LSO,core,revenue,coverage,,,,,nothing held
+LSO,core,revenue,coverage,inuse,2025-02-06,LSO-005,,
 LSO,core,payroll,coverage,inuse,2023-12-22,LSO-004,,
 LSO,core,renewed,coverage,,,,,nothing held
 LSO,core,architecture,coverage,,,,,nothing held

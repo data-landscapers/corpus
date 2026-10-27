@@ -1,0 +1,50 @@
+{
+ "slug": "2026-09-08-som-pfm-smart-signs-contract-with-the-federal-government-of-somalia-to-enh",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "PFM Smart says the Ministry of Finance signed a contract on 8 September 2026 to enhance and roll out the existing Somali Financial Management Information System (SFMIS) across the federal government and four member states, moving them off the BISAN platform.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "SFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SFMIS",
+   "country_label": "Somalia",
+   "class": "core",
+   "platform": "PFM Smart",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "BISAN",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Member States",
+   "tiers": ""
+  },
+  {
+   "system": "ITAS",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "HRMIS",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

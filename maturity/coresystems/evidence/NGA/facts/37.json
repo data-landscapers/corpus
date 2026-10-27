@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-15-nga-ippis-steering-committee-holds-strategic-meeting-to-strengthen-payroll",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Office of the Head of the Civil Service of the Federation reports the IPPIS Steering Committee met on 11 September 2025 to oversee the Integrated Personnel and Payroll Information System, the platform for federal personnel and payroll management.",
+   "as_of": "2025-09-11",
+   "date_precision": "day",
+   "system": "IPPIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPPIS",
+   "country_label": "Integrated Personnel and Payroll Information System (IPPIS)",
+   "class": "core",
+   "platform": "",
+   "owner": "Office of the Head of the Civil Service of the Federation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

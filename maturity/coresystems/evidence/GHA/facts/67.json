@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The National Identification Authority says the Mechanized Payroll System is operated by the Controller and Accountant General Department and was linked to the NIA database, launched 10 January 2024 by the Vice President, to validate public sector employees and pensioners.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "Mechanized Payroll System",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mechanized Payroll System",
+   "country_label": "Mechanized Payroll System",
+   "class": "core",
+   "platform": "",
+   "owner": "Controller and Accountant General Department",
+   "tiers": ""
+  }
+ ],
+ "note": "The link is an integration with an existing payroll system, not stated as a replacement or upgrade of it."
+}

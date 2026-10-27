@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-21-lbr-lra-trains-staff-on-new-digital-tax-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The Liberia Revenue Authority runs filing, assessments, payments and collections on LITAS, per its IT project coordinator Derek Hill.",
+   "as_of": "2025-08-21",
+   "date_precision": "day",
+   "system": "LITAS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia Integrated Tax Administration System (LITAS)",
+   "country_label": "Liberia",
+   "class": "other",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

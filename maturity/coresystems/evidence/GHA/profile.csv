@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GHA,core,finance,coverage,inuse,2025-10-23,GHA-008;GHA-012,,
 GHA,core,revenue,coverage,inuse,2026-09-23,GHA-002;GHA-005;GHA-007,GHA-001=down;GHA-010=down,
-GHA,core,payroll,coverage,inuse,2026-08-24,GHA-003,,
+GHA,core,payroll,coverage,inuse,2026-08-24,GHA-003;GHA-013;GHA-014,,
 GHA,core,renewed,coverage,,,,,nothing held
 GHA,core,architecture,coverage,,,,,nothing held

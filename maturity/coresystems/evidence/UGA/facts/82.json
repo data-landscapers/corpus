@@ -1,0 +1,34 @@
+{
+ "slug": "2024-08-01-uga-accountability-systems-and-compliance",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "Uganda's REAP strategy page refers to a current pension and payroll system, whose functional and technical challenges are to be addressed by replacing the underlying application with a Human Capital Management system.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "pension and payroll management system",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMS (Oracle and FMSFM)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "Oracle",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "Human Capital Management (HCM)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

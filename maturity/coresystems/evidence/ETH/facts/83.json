@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-16-eth-ministry-embarks-on-e-tax-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-tax system",
+   "country_label": "Ethiopia",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Revenues",
+   "tiers": ""
+  }
+ ],
+ "note": "The brief announces an expansion of the e-tax system but does not state that tax is run on it in use across the administration."
+}

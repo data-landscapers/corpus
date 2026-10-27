@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-26-eth-mopd-icsmis-integrated-civil-service-hr-information-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ICSMIS",
+   "country_label": "Integrated Civil Service Management Information System (Ministry of Planning and Development)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Planning and Development",
+   "tiers": ""
+  }
+ ],
+ "note": "One ministry's own HR system being moved to an electronic database, with staff training; not central government payroll in use."
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-04-cmr-cameroon-squares-up-to-its-payroll-fraud-conundrum-with-biometric-veri",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The civil service payroll and personnel systems SIGIPES (about 30 years old) and ANTILOPE were still the payroll platform in November 2024, to be fully replaced by AIGLES expected the following year, per MINFOPRA.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "SIGIPES",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGIPES",
+   "country_label": "SIGIPES",
+   "class": "core",
+   "platform": "",
+   "owner": "MINFOPRA",
+   "tiers": ""
+  },
+  {
+   "system": "AIGLES",
+   "country_label": "AIGLES (SIMAC OpenPRH; commissioning from 2024-06-19)",
+   "class": "other",
+   "platform": "OpenPRH",
+   "owner": "MINFOPRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

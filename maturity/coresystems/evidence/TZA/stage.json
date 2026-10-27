@@ -1,19 +1,20 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "no evidence",
-   "finance": "",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the government's finance, tax or payroll systems are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "2",
+      "finance": "inuse",
+      "revenue": "",
+      "payroll": "",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-001",
+      "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
+      "note": "The Ministry of Finance's February 2025 statement that MUSE, the Government Payment System, is integrated with the debt system answers the money: stage 2. Nothing held on tax or payroll, so not 3.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

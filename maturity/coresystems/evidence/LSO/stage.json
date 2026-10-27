@@ -1,19 +1,20 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "2",
-   "finance": "inuse",
-   "revenue": "",
-   "payroll": "inuse",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "3",
+      "finance": "inuse",
+      "revenue": "inuse",
+      "payroll": "inuse",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-005;LSO-004;LSO-001",
+      "gaps": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023.",
+      "note": "Revenue Services Lesotho's February 2025 e-Taxation guide adds tax to the IFMIS and HRMIS payroll already held, so all three are in use: stage 3. The IFMIS upgrade of 2019 is outside the three years.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

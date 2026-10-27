@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-08-nam-finance-ministry-to-end-payroll-deduction-system-for-civil-servants",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Payroll Deduction Management System (PDMS)",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "web-based",
+   "owner": "Avril Payment Solutions",
+   "tiers": ""
+  }
+ ],
+ "note": "PDMS handles voluntary payroll deductions; the document does not state the payroll system itself is in use or down."
+}

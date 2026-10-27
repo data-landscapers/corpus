@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,core,finance,coverage,inuse,2024,ZMB-001,,
+ZMB,core,finance,coverage,inuse,2025,ZMB-001;ZMB-004,,
 ZMB,core,revenue,coverage,inuse,2025-05,ZMB-003,,
 ZMB,core,payroll,coverage,inuse,2026-08-31,ZMB-002,,
 ZMB,core,renewed,coverage,,,,,nothing held

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-22-nga-no-salary-delay-from-ippis-upgrade-oagf-confirms",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Office of the Accountant General of the Federation said on 22 October 2025 that IPPIS remains the Federal Government's central payroll platform for civil servants and that October salaries would be paid as scheduled.",
+   "as_of": "2025-10-22",
+   "date_precision": "day",
+   "system": "IPPIS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "The Office of the Accountant General of the Federation said one of IPPIS's payroll platforms was migrated to the SoftSuite application in 2024, with the remaining payroll consolidation onto SoftSuite under way in October 2025.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "IPPIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPPIS",
+   "country_label": "Nigeria",
+   "class": "core",
+   "platform": "SoftSuite",
+   "owner": "Office of the Accountant General of the Federation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,core,finance,coverage,inuse,2024-09,TGO-003,,
+TGO,core,finance,coverage,inuse,2026-02-25,TGO-003;TGO-004,,
 TGO,core,revenue,coverage,,,,,nothing held
 TGO,core,payroll,coverage,,,,,nothing held
 TGO,core,renewed,coverage,,,,,nothing held

@@ -1,19 +1,20 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "2",
-   "finance": "inuse",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001",
-   "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "2",
+      "finance": "inuse",
+      "revenue": "inuse",
+      "payroll": "",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001",
+      "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
+      "note": "SIGFE runs the budget and payments, and a September 2026 CIAT paper says AGT's SIGT runs tax collection, so finance and tax are in use. Nothing held from 2023 or later on the payroll, so not 3.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

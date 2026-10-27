@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-nam-manual-payroll-system-raises-cost-and-control-issues",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PDMS",
+   "country_label": "Payroll deduction management system",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The document covers the payroll deduction system moving to a manual helpdesk, not the stopping of the government payroll system itself."
+}

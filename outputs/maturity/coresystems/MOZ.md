@@ -2,7 +2,7 @@
 
 ## Core government systems
 
-**Budget, accounts and payments.** [The Minister of Finance's address on the 2024 State General Account (dated November 2025) describes e-SISTAFE as operating, with its revenue collection module and SESPE linking it to commercial banks and e-money institutions to collect taxes and fees into Treasury accounts](<https://www.mef.gov.mz/index.php/imprensa/discursos/2455-cge-2024-discurso-inicial-sexcia-mf-20-11-2025/file>).
+**Budget, accounts and payments.** [The Minister of Finance's address on the 2024 State General Account (dated November 2025) describes e-SISTAFE as operating, with its revenue collection module and SESPE linking it to commercial banks and e-money institutions to collect taxes and fees into Treasury accounts](<https://www.mef.gov.mz/index.php/imprensa/discursos/2455-cge-2024-discurso-inicial-sexcia-mf-20-11-2025/file>). At its twentieth anniversary in November 2024 the ministry said [e-SISTAFE has 11 modules, all working except internal audit](<https://www.mef.gov.mz/index.php/imprensa/noticias/847-amilcar-tivane-nas-celebracoes-dos-20-anos-do-e-sistafe>), with transactions reaching the Single Treasury Account in real time.
 
 **Tax.** No source held from 2023 or later says the tax authority's system is in use; the stage rests on [the source that sets it](<https://www.mef.gov.mz/index.php/imprensa/discursos/2455-cge-2024-discurso-inicial-sexcia-mf-20-11-2025/file>).
 

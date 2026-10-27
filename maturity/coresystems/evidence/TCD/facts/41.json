@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The Ministry of Finance and Budget's circular of 10 January 2024 says the 2024 general state budget will be executed entirely in SIGFiP, for central and deconcentrated services alike.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "SIGFiP",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFiP",
+   "country_label": "Chad",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance and Budget",
+   "tiers": ""
+  },
+  {
+   "system": "E-Tax",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

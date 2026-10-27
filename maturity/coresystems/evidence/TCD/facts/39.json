@@ -1,0 +1,52 @@
+{
+ "slug": "2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "FurtherAfrica says the Rwanda Cooperation Initiative implemented the IFMIS in Chad, integrating ministries, banks, telecoms and the treasury, with over 1,400 users trained.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "IFMIS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "FurtherAfrica says Chad's IFMIS covers human resource management, payroll and accounting.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "IFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "IFMIS",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "eTax",
+   "country_label": "eTax (pilot)",
+   "class": "other",
+   "platform": "",
+   "owner": "DGI Tchad",
+   "tiers": ""
+  },
+  {
+   "system": "EBM",
+   "country_label": "EBM",
+   "class": "other",
+   "platform": "",
+   "owner": "DGI Tchad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

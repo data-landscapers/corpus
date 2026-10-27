@@ -1,0 +1,44 @@
+{
+ "slug": "2025-06-16-nga-agf-blames-salary-disruptions-in-tertiary-institutions-on-poor-transit",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Accountant General of the Federation said on 16 June 2025 that salaries of federal tertiary institutions are now paid through GIFMIS after a transition from IPPIS, with delays and unremitted deductions reported.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "GIFMIS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "The Accountant General said federal tertiary institutions' payroll moved from IPPIS to GIFMIS in an abrupt migration in the last quarter of 2024, after an October 2024 terminal date for IPPIS payroll operations.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "GIFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIFMIS",
+   "country_label": "Government Integrated Financial Management Information System",
+   "class": "core",
+   "platform": "",
+   "owner": "Office of the Accountant General of the Federation",
+   "tiers": "federal"
+  },
+  {
+   "system": "IPPIS",
+   "country_label": "Integrated Personnel and Payroll Information System",
+   "class": "core",
+   "platform": "",
+   "owner": "Office of the Accountant General of the Federation",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

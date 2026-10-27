@@ -1,0 +1,62 @@
+{
+ "slug": "2024-06-14-ken-imf-forces-kenya-to-implement-itax-linked-payroll-and-ifmis-linked-e-p",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "Treasury Cabinet Secretary Njuguna Ndung'u, quoted by Techweez, says the Unified Human Resource system consolidating public service HR and payroll data has been rolled out and linked to KRA iTax since July 2023.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "Unified Human Resource (UHR) system",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "Techweez quotes the Treasury Cabinet Secretary saying PAYE tax of individual employees and State Departments is filed through the Kenya Revenue Authority's iTax since July 2023.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "iTax",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Techweez reports Kenya's IFMIS has already been updated and procuring entities continue to use its e-Procurement module.",
+   "as_of": "2024-06-14",
+   "date_precision": "day",
+   "system": "IFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UHR",
+   "country_label": "Kenya",
+   "class": "core",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  },
+  {
+   "system": "iTax",
+   "country_label": "Kenya",
+   "class": "core",
+   "platform": "",
+   "owner": "Kenya Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "IFMIS",
+   "country_label": "Kenya",
+   "class": "core",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

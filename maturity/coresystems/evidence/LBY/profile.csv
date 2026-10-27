@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LBY,core,finance,coverage,,,,,nothing held
 LBY,core,revenue,coverage,inuse,2025-12-13,LBY-001,,
-LBY,core,payroll,coverage,,,,,nothing held
+LBY,core,payroll,coverage,inuse,2025-08,LBY-002,,
 LBY,core,renewed,coverage,,,,,nothing held
 LBY,core,architecture,coverage,,,,,nothing held

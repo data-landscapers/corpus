@@ -1,19 +1,20 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "unplaced",
-   "finance": "",
-   "revenue": "inuse",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source held from 2023 or later says the government's financial management system is in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "2",
+      "finance": "inuse",
+      "revenue": "inuse",
+      "payroll": "",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-002",
+      "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
+      "note": "The IMF's June 2025 note that the treasury and line ministries adopted the IFMIS answers the money: stage 2. Tax runs on e-Tax, but nothing held on the payroll, so not 3.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,core,finance,coverage,inuse,2020-06,CMR-001,,nothing dated since 2023-10-17
+CMR,core,finance,coverage,inuse,2020-06,CMR-001,,nothing dated since 2023-10-27
 CMR,core,revenue,coverage,,,,,nothing held
-CMR,core,payroll,coverage,inuse,2026-10,CMR-002;CMR-003,,
+CMR,core,payroll,coverage,inuse,2026-10,CMR-002;CMR-003;CMR-004,,
 CMR,core,renewed,coverage,,,,,nothing held
 CMR,core,architecture,coverage,,,,,nothing held

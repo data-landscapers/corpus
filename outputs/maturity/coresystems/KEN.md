@@ -2,11 +2,11 @@
 
 ## Core government systems
 
-**Budget, accounts and payments.** [An opinion piece by a named policy analyst calls IFMIS a nationally governed platform to which county revenue systems are meant to connect, and reports the Auditor-General's 2025 finding that Trans Nzoia's system was not yet connected to it](<https://nation.africa/kenya/blogs-opinion/blogs/counties-must-rethink-costly-revenue-automation-5626512>).
+**Budget, accounts and payments.** [An opinion piece by a named policy analyst calls IFMIS a nationally governed platform to which county revenue systems are meant to connect, and reports the Auditor-General's 2025 finding that Trans Nzoia's system was not yet connected to it](<https://nation.africa/kenya/blogs-opinion/blogs/counties-must-rethink-costly-revenue-automation-5626512>). Techweez reported in June 2024 that [IFMIS had been updated and procuring entities still use its e-Procurement module](<https://techweez.com/2024/06/14/kenya-uhr-egp-under-imf-agreement/>).
 
 **Tax.** [The Star column reports Kenyans filed annual returns and VAT returns on the KRA iTax portal in June and August 2026, with intermittent delays and errors but filing continuing, and VAT filing moved onto iTax from an offline template](<https://www.the-star.co.ke/opinion/star-blogs/2026-09-01-monari-when-itax-fails-the-taxpayer-still-pays>).
 
-**Payroll.** No source held from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on [the source that sets it](<https://nation.africa/kenya/blogs-opinion/blogs/counties-must-rethink-costly-revenue-automation-5626512>).
+**Payroll.** The Treasury Cabinet Secretary said in 2024 that the [Unified Human Resource system, which brings together public-service HR and payroll data, had been rolled out and linked to the revenue authority's iTax since July 2023](<https://techweez.com/2024/06/14/kenya-uhr-egp-under-imf-agreement/>). Nothing held since then describes the payroll.
 
 **Renewal.** No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://nation.africa/kenya/blogs-opinion/blogs/counties-must-rethink-costly-revenue-automation-5626512>).
 

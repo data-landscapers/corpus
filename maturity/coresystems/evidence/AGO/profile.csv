@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 AGO,core,finance,coverage,inuse,2026-02-11,AGO-001;AGO-002,,
-AGO,core,revenue,coverage,,,,,nothing held
+AGO,core,revenue,coverage,inuse,2026-09-08,AGO-003,,
 AGO,core,payroll,coverage,,,,,nothing held
 AGO,core,renewed,coverage,,,,,nothing held
 AGO,core,architecture,coverage,,,,,nothing held

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-26-zaf-question-nw3686-to-the-minister-of-finance",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Integrated Financial Management System (IFMS)",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "Oracle, on-premises",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": "The reply only mentions talks on moving the financial system to cloud and does not state it is in use across central government."
+}

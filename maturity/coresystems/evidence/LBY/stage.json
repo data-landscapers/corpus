@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "unplaced",
+      "stage": "3",
       "finance": "",
       "revenue": "inuse",
-      "payroll": "",
+      "payroll": "inuse",
       "renewed": "",
       "architecture": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source held from 2023 or later says the government's financial management system is in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "LBY-001;LBY-002",
+      "gaps": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023. No fact on the financial management system itself is held; payroll data covered about 41% of state employees in August 2025.",
+      "note": "August 2025 salaries ran on the new unified treasury account system and the Unified Tax System started in December 2025, so tax and payroll are in use, which answers the money too: stage 3. Nothing held says a core system replaced an old one.",
+      "as_at": "2026-10-27"
     }
   ]
 }

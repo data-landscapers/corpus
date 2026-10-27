@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-27-tza-tanzania-leads-africa-in-debt-management-payment-systems-integration",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The Ministry of Finance says Tanzania has integrated the CS-Meridian debt system with MUSE, the Government Payment System, and Kenyan officials were trained on the operating integration.",
+   "as_of": "2025-02-27",
+   "date_precision": "day",
+   "system": "MUSE",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MUSE",
+   "country_label": "Government Payment System",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "CS-Meridian",
+   "country_label": "Debt Recording and Management System",
+   "class": "other",
+   "platform": "Commonwealth Secretariat",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

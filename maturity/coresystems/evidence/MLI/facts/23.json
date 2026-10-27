@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-02-mli-operation-d-identification-des-agents-de-la-fonction-publique-de-l-eta",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Système intégré de gestion des ressources humaines",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mali",
+   "tiers": ""
+  }
+ ],
+ "note": "SIGRH is still being rolled out in phases (identification of agents, then data integration); no payroll system is stated to be in use."
+}

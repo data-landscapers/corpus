@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,core,finance,coverage,inuse,2026-08-28,NGA-002,,
+NGA,core,finance,coverage,inuse,2026-08-28,NGA-002;NGA-013,,
 NGA,core,revenue,coverage,,,,,nothing held
-NGA,core,payroll,coverage,inuse,2026-08-28,NGA-001;NGA-003;NGA-006,,
-NGA,core,renewed,coverage,live,2026-07-27,NGA-004,,
+NGA,core,payroll,coverage,inuse,2026-08-28,NGA-001;NGA-003;NGA-006;NGA-007;NGA-009;NGA-011;NGA-012,,
+NGA,core,renewed,coverage,live,2026-07-27,NGA-004;NGA-008;NGA-010,,
 NGA,core,architecture,coverage,published,2026-03-27,NGA-005,,

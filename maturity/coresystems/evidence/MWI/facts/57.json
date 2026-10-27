@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-01-mwi-k3-5-billion-needed-for-ifmis-upgrade",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "Accountant General Henry Mphasa told a parliamentary cluster that government payroll currently runs on the human resource management information system and is being migrated to the IFMIS human capital module.",
+   "as_of": "2024-02-29",
+   "date_precision": "day",
+   "system": "HRMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFMIS human capital module",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "Accountant General's Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

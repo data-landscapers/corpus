@@ -6,15 +6,15 @@
       "stage": "unplaced",
       "finance": "",
       "revenue": "",
-      "payroll": "",
+      "payroll": "inuse",
       "renewed": "",
       "architecture": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "No source held from 2023 or later says the government's financial management system is in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source held from 2023 or later says the government's financial management system is in use. Tax is not held either.",
+      "note": "Payroll runs on SIGIPES and ANTILOPE (November 2024) and AIGLE (2025-26), but the only finance fact is from 2020, outside the three years. No rung is answered without the money.",
+      "as_at": "2026-10-27"
     }
   ]
 }

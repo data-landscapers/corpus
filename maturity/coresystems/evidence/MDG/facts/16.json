@@ -1,0 +1,50 @@
+{
+ "slug": "2025-09-01-mdg-interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-fi",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "Minister Rindra Rabarinirinarison says the new Integrated Tax Administration System (SAFI) allows 24/7 online tax declarations and payments.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Integrated Tax Administration System (SAFI)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAFI",
+   "country_label": "Integrated Tax Administration System (SAFI)",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  },
+  {
+   "system": "IFMIS",
+   "country_label": "Integrated Public Finance Management System (being upgraded)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  },
+  {
+   "system": "AUGURE",
+   "country_label": "AUGURE payroll (being modernised)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  },
+  {
+   "system": "SIGPensions",
+   "country_label": "SIGPensions",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

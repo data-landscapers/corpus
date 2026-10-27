@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-06-lesotho-rsl-e-taxation-platform-guide",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "Revenue Services Lesotho's guide of 6 February 2025 describes its e-Taxation platform, on which taxpayers register, file and amend company, individual, VAT and PAYE returns and pay through the e-Payments system by mobile money or bank.",
+   "as_of": "2025-02-06",
+   "date_precision": "day",
+   "system": "e-Taxation Platform (e-Filing)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Taxation Platform (e-Filing)",
+   "country_label": "RSL e-Taxation Platform",
+   "class": "core",
+   "platform": "",
+   "owner": "Revenue Services Lesotho",
+   "tiers": "central"
+  }
+ ],
+ "note": ""
+}

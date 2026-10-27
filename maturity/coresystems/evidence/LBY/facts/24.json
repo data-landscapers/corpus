@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-08-lby-alwasat-mof-freebalance-gfmis-talks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GFMIS",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "FreeBalance",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Talks and technical assessments only; no system in use is stated."
+}

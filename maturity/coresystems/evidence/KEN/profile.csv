@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,core,finance,coverage,inuse,2026-10-20,KEN-002;KEN-003;KEN-007;KEN-009;KEN-011,,
-KEN,core,revenue,coverage,inuse,2026,KEN-001;KEN-004;KEN-005;KEN-006;KEN-008;KEN-010,,
-KEN,core,payroll,coverage,,,,,nothing held
+KEN,core,finance,coverage,inuse,2026-10-20,KEN-002;KEN-003;KEN-007;KEN-009;KEN-011;KEN-014,,
+KEN,core,revenue,coverage,inuse,2026,KEN-001;KEN-004;KEN-005;KEN-006;KEN-008;KEN-010;KEN-013,,
+KEN,core,payroll,coverage,inuse,2023-07,KEN-012,,nothing dated since 2023-10-27
 KEN,core,renewed,coverage,,,,,nothing held
 KEN,core,architecture,coverage,,,,,nothing held

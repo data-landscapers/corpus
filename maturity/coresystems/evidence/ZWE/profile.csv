@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ZWE,core,finance,coverage,inuse,2023,ZWE-007,,
-ZWE,core,revenue,coverage,inuse,2025-12-01,ZWE-001;ZWE-003;ZWE-006;ZWE-008;ZWE-009,,
+ZWE,core,revenue,coverage,inuse,2025-12-01,ZWE-001;ZWE-003;ZWE-006;ZWE-008;ZWE-009;ZWE-011,,
 ZWE,core,payroll,coverage,inuse,2026-03,ZWE-005,,
-ZWE,core,renewed,coverage,live,2025-08-18,ZWE-002;ZWE-010,,
+ZWE,core,renewed,coverage,live,2025-08-18,ZWE-002;ZWE-010;ZWE-012,,
 ZWE,core,architecture,coverage,published,2024-09,ZWE-004,,

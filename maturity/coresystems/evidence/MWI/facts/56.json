@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-31-mwi-ifmis-has-fully-stabilised-says-accountant-general",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Accountant General Henry Mphasa said the SAP-based Ifmis, rolled out to all ministries, departments and agencies a year earlier, is fully operational and producing user reports including annual financial statements, though contract management and revenue modules do not yet cover all agencies.",
+   "as_of": "2024-05-29",
+   "date_precision": "day",
+   "system": "Ifmis",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ifmis",
+   "country_label": "Integrated Financial Management Information System",
+   "class": "core",
+   "platform": "SAP",
+   "owner": "Accountant General's Department",
+   "tiers": "central"
+  }
+ ],
+ "note": ""
+}

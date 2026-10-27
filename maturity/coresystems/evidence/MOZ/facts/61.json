@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-26-moz-amilcar-tivane-nas-celebracoes-dos-20-anos-do-e-sistafe",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The Ministry of Economy and Finance says e-SISTAFE, the state financial administration system running since 2004, has 11 modules, all operational except the internal audit module, which is in development, with real-time transactions to the Single Treasury Account.",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "e-SISTAFE",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-SISTAFE",
+   "country_label": "e-SISTAFE",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance (CEDSIF)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

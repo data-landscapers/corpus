@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "2",
+      "stage": "3",
       "finance": "inuse",
-      "revenue": "",
+      "revenue": "inuse",
       "payroll": "inuse",
       "renewed": "",
       "architecture": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-003",
-      "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "EGY-004;EGY-002;EGY-003",
+      "gaps": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023.",
+      "note": "An October 2025 Tax Authority statement puts tax on its mechanised system inside the three years, so finance, tax and payroll are all in use: stage 3. Nothing held says one went live on a new system since October 2023.",
+      "as_at": "2026-10-27"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-12-eri-pfm-smart-ifmis-final-testing-rollout-planning",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "IFMIS (PFM Smart, in final testing)",
+   "class": "other",
+   "platform": "PFM Smart",
+   "owner": "Ministry of Finance and National Development",
+   "tiers": ""
+  }
+ ],
+ "note": "IFMIS was in final testing with a phased rollout planned; not stated to be in use."
+}

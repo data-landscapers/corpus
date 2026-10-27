@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-29-sdn-mof-ifmis-implementation-plan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance and Economic Planning",
+   "tiers": ""
+  }
+ ],
+ "note": "IFMIS is a ministry plan under discussion, not a system in use."
+}

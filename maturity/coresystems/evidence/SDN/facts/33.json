@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-23-sdn-accounts-chamber-ipsas-gifims-isali-states",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GIFIMS",
+   "country_label": "GIFIMS",
+   "class": "core",
+   "platform": "",
+   "owner": "Accounts Chamber",
+   "tiers": ""
+  },
+  {
+   "system": "Isali",
+   "country_label": "Isali electronic collection",
+   "class": "other",
+   "platform": "",
+   "owner": "Accounts Chamber",
+   "tiers": ""
+  }
+ ],
+ "note": "Source names GIFIMS, Isali and two payroll systems submitted for adoption, none stated in use across central government; payroll computerisation is a plan."
+}

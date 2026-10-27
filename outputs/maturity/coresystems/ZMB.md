@@ -2,7 +2,7 @@
 
 ## Core government systems
 
-**Budget, accounts and payments.** The Auditor General's [report on the 2024 accounts](<https://www.ago.gov.zm/wp-content/uploads/Auditor-General-Report-for-the-Financial-Year-2024-ONLINE-PUBLICATION.pdf>) found the IFMIS, the government's financial system, without logs or offsite backup, which treats it as operating in the 2024 financial year.
+**Budget, accounts and payments.** The Auditor General's [report on the 2024 accounts](<https://www.ago.gov.zm/wp-content/uploads/Auditor-General-Report-for-the-Financial-Year-2024-ONLINE-PUBLICATION.pdf>) found the IFMIS, the government's financial system, without logs or offsite backup, which treats it as operating in the 2024 financial year. A [2025 study in the East African Finance Journal](<https://doi.org/10.59413/eafj/v4.i2.1>) found the IFMIS in use across government ministries, with regular downtime and weak support.
 
 **Tax.** A May 2025 [Zambia Revenue Authority presentation](<https://ictaz.org.zm/wp-content/uploads/2025/05/ZRA-Smart-Invoice.pdf>) shows taxpayers filing returns on its TaxOnline system, using invoices from Smart Invoice, which VAT-registered taxpayers have had to use since 1 July 2024.
 

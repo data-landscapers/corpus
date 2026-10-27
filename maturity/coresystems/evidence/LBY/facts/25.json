@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-01-lby-gnu-starts-paying-public-sector-wages-through-new-treasury-system",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "Libya's finance minister Khaled Al-Mabrouk said August 2025 public sector salaries were processed on the new unified treasury account system, after basic data for around 41% of state employees was uploaded.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Unified treasury account system",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified treasury account system",
+   "country_label": "Unified treasury account",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  },
+  {
+   "system": "Financial management information system (new)",
+   "country_label": "new financial management information system",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "The new financial management and revenue systems are named only as part of the strategy, not as in use."
+}

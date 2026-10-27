@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-08-tcd-le-systeme-informatique-de-gestion-des-finances-publiques-officielleme",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The Secretary of State for Finance and Budget officially launched the SIGFIP at Bardai, marking completion of its installation across the national territory.",
+   "as_of": "2025-01-08",
+   "date_precision": "day",
+   "system": "SIGFIP",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGFiP",
+   "country_label": "Chad",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

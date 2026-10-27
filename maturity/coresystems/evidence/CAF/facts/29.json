@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-05-caf-le-fmi-annonce-un-nouveau-decaissement-de-33-4-milliards-fcfa-au-profi",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "The IMF notes the Central African authorities adopted the integrated financial information system at the treasury directorate and in line ministries.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Integrated financial information system (IFMIS)",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "The tax directorate (DGID) began its official switch in April 2025 to general use of the e-Tax electronic declaration system, after customs in 2024.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "e-Tax",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Tax",
+   "country_label": "RCA",
+   "class": "core",
+   "platform": "",
+   "owner": "DGID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

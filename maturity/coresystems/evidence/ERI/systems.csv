@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 ERI,Eritrea Integrated Tax Administration System (ErITAS),ErITAS,other,,Ministry of Finance and National Development; Inland Revenue Department,,2023-09-07-eritrea-eritas-spn-afdb
 ERI,Integrated Financial Management Information System (IFMIS),IFMIS,other,,Ministry of Finance and National Development,"Pilot at the Ministries of Finance, Education and Agriculture; government-wide rollout targeted for the 2027 budget cycle",2016-07-04-afdb-eri-001-eritrea-pfm-statistics-capacity-building
 ERI,Debt Management and Financial Analysis System (DMFAS),DMFAS,other,,Ministry of Finance and National Development,,2016-07-04-afdb-eri-001-eritrea-pfm-statistics-capacity-building
+ERI,IFMIS,"IFMIS (PFM Smart, in final testing)",other,PFM Smart,Ministry of Finance and National Development,,2025-12-12-eri-pfm-smart-ifmis-final-testing-rollout-planning
+ERI,Integrated Financial Management Information System (IFMIS),"IFMIS, launched as a project with PFM Smart, funded by the African Development Bank",other,PFM Smart,Government of Eritrea,,2023-11-30-eri-pfm-smart-ifmis-project-launch

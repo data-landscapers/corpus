@@ -1,19 +1,20 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "no evidence",
-   "finance": "",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing held says whether the government's finance, tax or payroll systems are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "4",
+      "finance": "",
+      "revenue": "",
+      "payroll": "inuse",
+      "renewed": "live",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-002;GNB-001",
+      "gaps": "No source held says the government has published an enterprise architecture or an inventory of its systems. No finance or tax fact is held; the platform was being extended to other ministries in 2024.",
+      "note": "The IMF says a new blockchain payroll platform went live in May 2024, a renewal inside three years that answers the earlier questions under the method's later-yes rule: stage 4. Nothing held says a map of systems was published.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,core,finance,coverage,inuse,2021-09,NAM-003,,nothing dated since 2023-10-18
-NAM,core,revenue,coverage,inuse,2026-06-18,NAM-001;NAM-002;NAM-004,,
+NAM,core,finance,coverage,inuse,2021-09,NAM-003,,nothing dated since 2023-10-27
+NAM,core,revenue,coverage,inuse,2026-06-18,NAM-001;NAM-002;NAM-004;NAM-005,,
 NAM,core,payroll,coverage,,,,,nothing held
 NAM,core,renewed,coverage,,,,,nothing held
 NAM,core,architecture,coverage,,,,,nothing held

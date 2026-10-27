@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LBR,core,finance,coverage,inuse,2026-05-19,LBR-001;LBR-003,,
-LBR,core,revenue,coverage,inuse,2026-05-19,LBR-002,,
+LBR,core,revenue,coverage,inuse,2026-05-19,LBR-002;LBR-004,,
 LBR,core,payroll,coverage,,,,,nothing held
 LBR,core,renewed,coverage,,,,,nothing held
 LBR,core,architecture,coverage,,,,,nothing held

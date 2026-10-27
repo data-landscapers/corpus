@@ -1,0 +1,23 @@
+{
+ "slug": "2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ITAS",
+   "country_label": "Gambia",
+   "class": "other",
+   "platform": "Sogema Technologies",
+   "owner": "Gambia Revenue Authority",
+   "tiers": ""
+  },
+  {
+   "system": "GAMTAXNET",
+   "country_label": "Gambia",
+   "class": "core",
+   "platform": "",
+   "owner": "Gambia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "ITAS is a contract signed to replace GAMTAXNET, not a system in use; the document does not state GAMTAXNET's status beyond calling it current."
+}

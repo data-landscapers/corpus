@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "CIAT authors say AGT's Integrated Tax Management System (SIGT) covers taxpayer registration, declarations, tax settlement and payment, and revenue collection and accounting for the Single Treasury Account.",
+   "as_of": "2026-09-08",
+   "date_precision": "day",
+   "system": "SIGT",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGT",
+   "country_label": "Integrated Tax Management System",
+   "class": "core",
+   "platform": "",
+   "owner": "AGT",
+   "tiers": ""
+  }
+ ],
+ "note": "A USD 115 million modernisation contract with TIS is a contract, not a system in use."
+}

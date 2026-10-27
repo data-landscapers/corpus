@@ -6,12 +6,12 @@
 
 **Tax.** No source held from 2023 or later says the tax authority's system is in use; the stage rests on [the source that sets it](<https://ega.ee/uganda-renewed-digital-government-frameworks/>).
 
-**Payroll.** No source held from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on [the source that sets it](<https://ega.ee/uganda-renewed-digital-government-frameworks/>).
+**Payroll.** The finance ministry's reform strategy page of 2024 refers to the [current pension and payroll system](<https://reap.finance.go.ug/accountability-systems/>), whose functional and technical problems are to be addressed by replacing it with a Human Capital Management system.
 
 **Renewal.** No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://ega.ee/uganda-renewed-digital-government-frameworks/>).
 
 **A map of the systems.** [EGA reports that the Government of Uganda renewed its Government Enterprise Architecture, led by NITA-U with World Bank support, delivering a renewed architecture aligned with Vision 2040; the article is dated 2026-05-27 and gives no earlier completion date](<https://ega.ee/uganda-renewed-digital-government-frameworks/>).
 
-***Noted, not assessed***. [e-Government Interoperability Framework (e-GIF)](<https://ega.ee/uganda-renewal-government-enterprise-architecture-interoperability-framework/>); [E-GP](<https://demo.nita.go.ug/sites/default/files/2024-09/National%20IT%20Survey%20Report%202022%20-%20Final.pdf>); [UMCS](<https://demo.nita.go.ug/sites/default/files/2024-09/National%20IT%20Survey%20Report%202022%20-%20Final.pdf>).
+***Noted, not assessed***. [e-Government Interoperability Framework (e-GIF)](<https://ega.ee/uganda-renewal-government-enterprise-architecture-interoperability-framework/>); [E-GP](<https://demo.nita.go.ug/sites/default/files/2024-09/National%20IT%20Survey%20Report%202022%20-%20Final.pdf>); [UMCS](<https://demo.nita.go.ug/sites/default/files/2024-09/National%20IT%20Survey%20Report%202022%20-%20Final.pdf>); [Human Capital Management (HCM)](<https://reap.finance.go.ug/accountability-systems/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not held***. No source held from 2023 or later says the financial management or tax systems are in use, or that a core system was renewed since October 2023.

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-20-gha-report-of-investigation-government-of-ghana-payroll-administration-pha",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Office of the Special Prosecutor and the Controller and Accountant General's Department report that government salaries are processed and paid through the national payroll system, with monthly validation by management units, in use in the Northern Region pilot.",
+   "as_of": "2024-05-20",
+   "date_precision": "day",
+   "system": "National Payroll / Electronic Salary Payment Voucher (ESPV)",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payroll",
+   "country_label": "Government of Ghana payroll system",
+   "class": "core",
+   "platform": "",
+   "owner": "Controller and Accountant General's Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-03-gab-fourniture-d-un-systeme-d-information-integre-de-gestion-budgetaire-co",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGFiP",
+   "country_label": "integrated budget, accounting and financial management system (contract awarded to IKA)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere des Comptes Publics",
+   "tiers": "central"
+  }
+ ],
+ "note": "The record is a contract award of 3 October 2024 to IKA by direct agreement; a supply contract is not a system in use."
+}

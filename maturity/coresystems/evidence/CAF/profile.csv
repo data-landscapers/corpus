@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CAF,core,finance,coverage,,,,,nothing held
-CAF,core,revenue,coverage,inuse,2025-01-31,CAF-001,,
+CAF,core,finance,coverage,inuse,2025-06,CAF-002,,
+CAF,core,revenue,coverage,inuse,2025-04,CAF-001;CAF-003,,
 CAF,core,payroll,coverage,,,,,nothing held
 CAF,core,renewed,coverage,,,,,nothing held
 CAF,core,architecture,coverage,,,,,nothing held

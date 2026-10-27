@@ -2,6 +2,6 @@
 
 ## Core government systems
 
-***Noted, not assessed***. None held.
+***Noted, not assessed***. [Integrated Public Finance Management System (being upgraded)](<https://kaori-media.com/posts/interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-finance-of-madagascar>); [AUGURE payroll (being modernised)](<https://kaori-media.com/posts/interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-finance-of-madagascar>); [SIGPensions](<https://kaori-media.com/posts/interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-finance-of-madagascar>).
 
-***Not held***. Nothing held says whether the government's finance, tax or payroll systems are in use.
+***Not held***. No source held from 2023 or later says the government's financial management system or the payroll is in use.

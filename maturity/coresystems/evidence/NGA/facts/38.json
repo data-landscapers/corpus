@@ -1,0 +1,44 @@
+{
+ "slug": "2024-12-05-nga-mdas-without-ippis-won-t-get-2025-budget-approval-fg",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "Punch reports that the 2025 budget call circular requires every federal ministry, department and agency to be enrolled on IPPIS, which has processed salaries for over one million federal employees across 696 MDAs since 2007.",
+   "as_of": "2024-12-05",
+   "date_precision": "day",
+   "system": "IPPIS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "finance",
+   "value": "inuse",
+   "fact": "Punch reports that, under an Accountant-General circular of 8 October 2024, federal tertiary institutions' payroll payments would be made via the Government Integrated Financial Management Information System from November 2024.",
+   "as_of": "2024-10-08",
+   "date_precision": "day",
+   "system": "GIFMIS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPPIS",
+   "country_label": "Integrated Personnel and Payroll Information System",
+   "class": "core",
+   "platform": "",
+   "owner": "Office of the Accountant-General of the Federation",
+   "tiers": ""
+  },
+  {
+   "system": "GIFMIS",
+   "country_label": "Government Integrated Financial Management Information System",
+   "class": "core",
+   "platform": "",
+   "owner": "Office of the Accountant-General of the Federation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
