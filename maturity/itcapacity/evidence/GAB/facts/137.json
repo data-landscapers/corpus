@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-22-gab-communique-mise-au-point-de-l-aninf-sur-le-traitement-de-la-solde-de-l",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "ANINF, Gabon's national digital infrastructure agency, says in a 22 January 2026 communique that the state payroll file FUR, designed by its predecessor DGSI and in service for over 20 years, is administered and operated by its own authorised teams.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "FUR (Fichier Unique de Référence)",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "ANINF says in a 22 January 2026 communique that it administers the FUR payroll application for the Gabonese state, working with the payroll directorate, the Treasury and the pensions fund.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "FUR (Fichier Unique de Référence)",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

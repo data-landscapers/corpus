@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-02-mli-operation-d-identification-des-agents-de-la-fonction-publique-de-l-eta",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "Mali's SIGRH human resources software was designed and developed by computer specialists of the Malian administration and financed entirely from the national budget, with its database to be hosted in Mali; no contractor is named.",
+   "as_of": "2023-10-26",
+   "date_precision": "day",
+   "system": "SIGRH",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Système intégré de gestion des ressources humaines",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mali",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
