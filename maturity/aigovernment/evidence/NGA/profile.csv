@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,govai,use,coverage,inservice,2026-08,NGA-001;NGA-002;NGA-003;NGA-004;NGA-005;NGA-007;NGA-009;NGA-010;NGA-011;NGA-012,NGA-013=underway;NGA-014=underway,
+NGA,govai,use,coverage,inservice,2026-08,NGA-001;NGA-002;NGA-003;NGA-004;NGA-005;NGA-007;NGA-009;NGA-010;NGA-011;NGA-012;NGA-015,NGA-013=underway;NGA-014=underway,
 NGA,govai,bodies,coverage,several,2026-05-22,NGA-006;NGA-008,,
 NGA,govai,rules,coverage,,,,,nothing held

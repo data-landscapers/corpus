@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-26-government-ai-adoption-financial-reality",
+ "facts": [],
+ "systems": [
+  {
+   "system": "N-ATLAS",
+   "country_label": "N-ATLAS language model",
+   "class": "other",
+   "platform": "",
+   "owner": "Awarri with government",
+   "tiers": ""
+  }
+ ],
+ "note": "N-ATLAS is a language model, not stated to be used by a government body."
+}

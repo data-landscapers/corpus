@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-22-nga-technext-meta-ndpc-secret-settlement-double-standard",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Federal Ministry of Communications, Innovation and Digital Economy and the National Centre for Artificial Intelligence and Robotics launched GovGuide Nigeria, a multilingual AI chatbot for government services on WhatsApp and the web, built on Meta's Llama models.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "GovGuide Nigeria",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovGuide Nigeria",
+   "country_label": "Nigeria",
+   "class": "govai",
+   "platform": "WhatsApp and web",
+   "owner": "FMCIDE and NCAIR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

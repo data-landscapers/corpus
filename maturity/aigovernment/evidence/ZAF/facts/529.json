@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-government-ai-adoption-financial-reality",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "TechCabal reports the Companies and Intellectual Property Commission has tendered for an AI chatbot to handle an estimated two million customer interactions a month, over three years.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "CIPC AI chatbot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIPC AI chatbot",
+   "country_label": "CIPC customer chatbot",
+   "class": "govai",
+   "platform": "",
+   "owner": "Companies and Intellectual Property Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
