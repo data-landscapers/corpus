@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,g2p,payment,coverage,inservice,2026-02,GHA-001;GHA-002;GHA-004,GHA-005=underway,
+GHA,g2p,payment,coverage,inservice,2026-02,GHA-001;GHA-002;GHA-004;GHA-006,GHA-005=underway,
 GHA,g2p,streams,coverage,,,,,nothing held
 GHA,g2p,linked,coverage,linked,2026-04,GHA-003,,

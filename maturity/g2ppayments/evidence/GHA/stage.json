@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "g2p",
-   "stage": "5",
-   "payment": "inservice",
-   "streams": "several",
-   "linked": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "g2p",
+      "stage": "5",
+      "payment": "inservice",
+      "streams": "several",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-003;GHA-002;GHA-006",
+      "gaps": "",
+      "note": "LEAP transfers are paid by mobile money (GHA-002) and civil service salaries into bank accounts (GHA-006), two main streams, and LEAP enrols from the national household registry (GHA-003). Every rung is met, so stage 5.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-18-dji-modernisation-de-la-gestion-des-salaires-a-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Ministry of Budget says it and BCI signed a convention for the digitalisation of civil servants' salaries, with no go-live or terms stated.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "Convention Ministry of Budget and BCI on digitalising salaries",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

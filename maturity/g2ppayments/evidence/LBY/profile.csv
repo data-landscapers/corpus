@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBY,g2p,payment,coverage,inservice,2026-09,LBY-001;LBY-003,LBY-002=underway;LBY-004=underway,
+LBY,g2p,payment,coverage,inservice,2026-09,LBY-001;LBY-003;LBY-005,LBY-002=underway;LBY-004=underway,
 LBY,g2p,streams,coverage,,,,,nothing held
 LBY,g2p,linked,coverage,,,,,nothing held

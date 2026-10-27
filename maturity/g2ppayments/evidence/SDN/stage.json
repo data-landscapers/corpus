@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "unplaced",
-      "payment": "",
+      "stage": "3",
+      "payment": "inservice",
       "streams": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing held since October 2023 says whether government pays people digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SDN-002",
+      "gaps": "No source held since October 2023 shows a second main stream (social transfers or pensions) paid digitally; SDN-001 (Thamarat cash cards) is from 2021.",
+      "note": "The finance ministry said in April 2026 that Council of Ministers decisions 149 and 150, requiring workers' entitlements to be paid through bank accounts, have been put into effect. Only salaries are shown, so stage 4 is not met.",
+      "as_at": "2026-10-27"
     }
   ]
 }

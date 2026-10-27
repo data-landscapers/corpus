@@ -1,6 +1,6 @@
 # G2P functionality: g2p functionality
 
-*As at 2026-09-30.*
+*As at 2026-10-27.*
 
 ## The norm
 
@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 1 |
-| 3 Established | 28 |
-| 2 Nascent | 8 |
+| 3 Established | 29 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
-| No evidence | 4 |
+| Unplaced | 6 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -35,6 +35,8 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 Government payments to people were checked against the national ID or social registry in 2026.
 
 - LEAP says that in April 2026 it used the Ghana National Household Registry to identify 400,000 newly eligible households for enrolment ([source, 2026-04](http://leap.mogcsp.gov.gh/background.php)).
+- LEAP says its 100th payment cycle in February 2026 reached all 216 MMDAs and over 350,000 households ([source, 2026-02](http://leap.mogcsp.gov.gh/background.php)).
+- The Office of the Special Prosecutor and the Controller and Accountant General's Department report that government employees' salaries are paid by payroll into their bank accounts, with banks directed to withhold affected persons' salaries from January 2024 ([source, 2024-01](https://osp.gov.gh/media/Resources/Government_Payroll_Administration_-_Phase_I_Vol_1.pdf)).
 
 ### Liberia: 5 Leading
 
@@ -218,6 +220,12 @@ A government programme paid people digitally in 2025; a second main stream is no
 - The Minister of Social Development says SRD grant payments run through beneficiary bank accounts, with accounts lacking biometric FICA verification placed in a 'referred' status that blocks further payments ([source, 2025-07-01](https://pmg.org.za/committee-question/31120/)).
 - The Portfolio Committee on Social Development says SASSA administers the SRD application and payment system, which uses a mobile money service to pay grants ([source, 2025-02-26](https://www.parliament.gov.za/press-releases/media-statement-committee-welcomes-findings-sassas-srd-grant-payment-system)).
 
+### Sudan: 3 Established
+
+Public workers' pay was moved onto bank accounts in 2026; whether transfers or pensions are paid digitally is not known.
+
+- Sudan's finance ministry says Council of Ministers decisions 149 and 150 require workers' entitlements to be paid through bank accounts, and that this has been put into effect ([source, 2026-04-11](https://spokesperson-sd.com/ar/archives/39743)).
+
 ### Tanzania: 3 Established
 
 A government programme paid people digitally in 2026; a second main stream is not known.
@@ -271,6 +279,12 @@ Digital government payments to people were under way in 2026; none in service is
 Digital government payments to people were under way in 2026; none in service is on record.
 
 - CADECO and the Comite de suivi de la paie (CSP) validated final technical and organisational adjustments for deploying proximity pay of state agents and civil servants in rural DRC, with first operations to cover several rural zones ([source, 2026-07-23](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu)).
+
+### Djibouti: 2 Nascent
+
+A contract to pay civil servants' salaries digitally was signed in 2025; whether any payment is made digitally is not known.
+
+- The Ministry of Budget says it and BCI signed a convention for the digitalisation of civil servants' salaries, with no go-live or terms stated ([source, 2025-11-18](https://www.linkedin.com/posts/minist%C3%A8re-du-budget-de-djibouti_budget-digitalisation-gouvernance-activity-7396655456540086272-U-c_)).
 
 ### Ethiopia: 2 Nascent
 
@@ -338,18 +352,6 @@ Not established: Nothing held since October 2023 says whether government pays pe
 Nothing held since 2023 names digital government payments to people, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether government pays people digitally.
-
-### Sudan: Unplaced
-
-Nothing held since 2023 names digital government payments to people, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether government pays people digitally.
-
-### Djibouti: No evidence
-
-Nothing held names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing held says how government pays people.
 
 ### Equatorial Guinea: No evidence
 

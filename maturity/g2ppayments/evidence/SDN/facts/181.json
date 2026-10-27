@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-11-sdn-mof-pfm-reform-roadmap-isali-integration",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Sudan's finance ministry says Council of Ministers decisions 149 and 150 require workers' entitlements to be paid through bank accounts, and that this has been put into effect.",
+   "as_of": "2026-04-11",
+   "date_precision": "day",
+   "system": "Isali",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

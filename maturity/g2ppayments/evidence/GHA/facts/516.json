@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-20-gha-report-of-investigation-government-of-ghana-payroll-administration-pha",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Office of the Special Prosecutor and the Controller and Accountant General's Department report that government employees' salaries are paid by payroll into their bank accounts, with banks directed to withhold affected persons' salaries from January 2024.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Government of Ghana payroll",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

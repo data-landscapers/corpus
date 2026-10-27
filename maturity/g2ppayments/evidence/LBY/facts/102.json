@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-01-lby-gnu-starts-paying-public-sector-wages-through-new-treasury-system",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Libya's Government of National Unity has begun paying public sector salaries through the new unified treasury account system, with payments to go directly to bank accounts via the Central Bank of Libya's Instant Salary system, the finance minister said.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Instant Salary",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant Salary",
+   "country_label": "Instant Salary",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Central Bank of Libya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

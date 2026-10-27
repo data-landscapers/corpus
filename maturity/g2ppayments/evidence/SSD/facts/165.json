@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-23-ssd-civil-servants-ordered-to-open-salary-accounts-amid-cash-crisis",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "South Sudan's Ministry of Finance and Planning directed all public sector employees to open bank accounts by 27 May 2025 so salaries move from cash to a bank-based payment system.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "Bank-based civil service salary payment",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

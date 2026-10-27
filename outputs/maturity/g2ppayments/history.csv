@@ -25,3 +25,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZAF,dpi.pay--g2p-functionality,fact,no evidence,3,ZAF-002;ZAF-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
 2026-10-23,MWI,dpi.pay--g2p-functionality,fact,3,5,MWI-003;MWI-001,"Malawi 2025 ID4Africa deck: NRB verifies social protection G2P beneficiaries against the national ID; linked to ID, so 3 to 5"
 2026-10-25,LSO,dpi.pay--g2p-functionality,fact,2,3,LSO-003,"25,575 households receive Child Grants by mobile transfer (Jul 2026)"
+2026-10-27,DJI,dpi.pay--g2p-functionality,fact,no evidence,2,DJI-001,"Ministry of Budget and BCI convention to digitise civil servants' salaries, November 2025: under way"
+2026-10-27,SDN,dpi.pay--g2p-functionality,fact,unplaced,3,SDN-002,"Finance ministry, April 2026: decisions 149 and 150 on paying workers' entitlements through bank accounts in effect: one stream in service"
+2026-10-27,GHA,dpi.pay--g2p-functionality,fact,5,5,GHA-003;GHA-002;GHA-006,"OSP and CAGD payroll report: salaries paid into bank accounts, a second stream beside LEAP; stage 5 holds"

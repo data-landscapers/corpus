@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-23-egy-cabinet-mof-epayment-collection-fy23-24",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Egypt's finance minister said electronic payment of state employees' salaries reached EGP 299.4 billion in July 2023 to May 2024, up 24% on the year before, through the Ministry of Finance's government e-payment and collection centre.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Government e-payment and collection centre",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government e-payment and collection centre",
+   "country_label": "Egypt",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
