@@ -19,6 +19,8 @@ All projects should have these three folders attached; if any is missing, warn m
 - Data-landscapers : `C:\Users\bill\Dropbox\Github\data-landscapers`
 - OSINT : `C:\OSINT`
 
+**Research (`C:\research`) needs only OSINT, for reading** *(Bill, 2026-10-27)*. It is Bill's workspace for his own writing, with its own repository and `CLAUDE.md`, and a session there should not warn that Corpus and Data-landscapers are missing.
+
 Cowork and Claude Code have read/write on Corpus and Data-landscapers. **Neither ever writes to OSINT, without exception** *(2026-08-20)*. `C:\OSINT` is a **mirror**: a write there is discarded at the next sync, so it is never a delivery. What the two sides exchange goes through `C:\corpus-osint-xfer\`, outside both repositories, a git repository of its own that Bill gives OSINT access to. Corpus's own `CLAUDE.md` carries the reasoning and the mechanics, and the share's `README.md` describes what is in it.
 
 **"OSINT" in that rule means the folder `C:\OSINT`, not the repository** *(Bill, 2026-09-17, strategic review 4, ruling R1)*. Corpus may prepare changes for OSINT's repository — git patches cut in a scratch clone of the mirror, or a script with its input — and deliver them to `C:\corpus-osint-xfer\prepared\`. OSINT checks each delivery and applies it itself, so OSINT's `master` still has one writer, and nothing lands in OSINT unless OSINT puts it there. What a delivery may touch is set out in Corpus's `CLAUDE.md`.
