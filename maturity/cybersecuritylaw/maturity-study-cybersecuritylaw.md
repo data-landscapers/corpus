@@ -33,6 +33,8 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Has the law been used in the last three years? | A dated arrest, charge, prosecution or conviction under it, or a penalty or order imposed under it by the body it sets up |
 | 4 | Are yearly figures published? | A published count of cases investigated, prosecuted or decided under the law, for a period of a quarter or more ending within the last two years |
 
+**A private criminal complaint is not use of the law** *(Bill, 2026-10-27)*: question 3 needs the state to act, by arrest, charge, prosecution, conviction or penalty. Equatorial Guinea's complaint leaves it at 3.
+
 ## 3. The ladders
 
 **Cybercrime and cybersecurity law**
