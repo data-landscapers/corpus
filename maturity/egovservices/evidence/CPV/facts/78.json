@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-18-cpv-o-desenvolvimento-da-plataforma-do-comercio-externo-representa-o-cumpr",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Government of Cabo Verde launched the Foreign Trade Portal on 17 November 2023, with a vehicle-clearance simulator and customs process tracking, as a first step towards about 42 business services online by 2025.",
+   "as_of": "2023-11-17",
+   "date_precision": "day",
+   "system": "Plataforma do Comercio Externo",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plataforma do Comercio Externo",
+   "country_label": "Foreign Trade Portal",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Cabo Verde",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -41,6 +41,7 @@ COD,RDC-Pass,DRC,eservices,national digital identity platform with single login 
 COD,SIGMAP,RDC,other,,ARMP,,2026-04-29-cod-armp-operationnalisation-sigmap-vpm-budget
 COD,SIGMAP,RDC,other,,DGCMP,,2026-03-19-cod-armp-dgcmp-concertation-sigmap
 COD,SISAG,COD,other,,Digital Development Agency (ADN) for the Ministry of Planning,,2025-02-25-cod-drc-the-government-adopts-the-information-system-for-monitoring-govern
+COD,e-visa,DR Congo,other,,Ministry of Foreign Affairs,,2026-10-25-cod-rdc-le-gouvernement-relance-le-processus-e-visa
 COG,Portail e-Citizen,Congo,eservices,,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,Identité numérique,Congo,other,open source solution,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,E-Bourses,E-Bourses,eservices,,Ministere du Budget with the education ministries,,2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie
@@ -56,6 +57,7 @@ CPV,Consular Portal,Cabo Verde,eservices,,NOSi,,2024-01-01-nosi-operational-nucl
 CPV,Single Government Portal (Portal Unico),Cabo Verde,eservices,,Government of Cabo Verde,planned,2024-01-01-nosi-operational-nucleus-information-society
 CPV,SNIAC,Cabo Verde,other,,NOSi,,2024-01-01-nosi-operational-nucleus-information-society
 CPV,Portal Único de Serviços Públicos Digitais,Cabo Verde,eservices,,Government of Cabo Verde,,2025-01-22-cpv-discurso-do-primeiro-ministro-no-debate-no-parlamento-protecao-e-aprim
+CPV,Plataforma do Comercio Externo,Foreign Trade Portal,eservices,,Government of Cabo Verde,,2023-11-18-cpv-o-desenvolvimento-da-plataforma-do-comercio-externo-representa-o-cumpr
 DJI,egouv.dj,Djibouti,eservices,www.egouv.dj,Government of Djibouti,,2023-08-06-dji-lanation-centre-services-citoyens
 DJI,Plateforme des marches publics,Plateforme des marches publics,other,,ANSIE,,2025-06-30-dji-un-ansie-assistant-virtuel-marches-publics
 DJI,eConstruction Permit,Djibouti,eservices,DIGIT,DATUH,,2024-09-30-dji-digital-leaders-spotlight-djibouti
@@ -132,6 +134,7 @@ LBR,LITAS,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-statu
 LBR,e-GP,Liberia,other,,PPCC,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
 LBR,eLiberia National ePortal,Liberia,eservices,,Ministry of Posts and Telecommunications,,2018-08-17-lbr-frontpageafrica-eliberia-national-eportal
 LBR,e-Liberia Platform,e-Liberia Platform,other,,Office of the Chief Information Officer,,2026-10-20-lbr-liberia-to-digitalize-16-key-government-services-with-world-bank-s
+LBR,Online Duty-Free Application Platform,Online Duty-Free Application Platform,eservices,,Liberia Revenue Authority,,2025-07-06-lbr-lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platfor
 LBY,e-government portal,Libya,eservices,,"Ministry of Interior, GNU",,2024-03-03-lby-alwasat-e-services-package-launch
 LSO,RSL eServices (eForms),Lesotho,eservices,,Revenue Services Lesotho,,2026-10-16-lso-rsl-individual-taxpayer-registration-form
 LSO,integrated online services platform,Lesotho,eservices,,"Ministry of Information, Communications, Science, Technology and Innovation",,2026-05-14-lso-lestimes-moorosi-digitisation-interview

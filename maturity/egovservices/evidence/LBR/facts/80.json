@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-06-lbr-lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platfor",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The Liberia Revenue Authority says it launched an Online Duty-Free Application Platform where qualified individuals and institutions submit duty-free requests electronically.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Online Duty-Free Application Platform",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Online Duty-Free Application Platform",
+   "country_label": "Online Duty-Free Application Platform",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Liberia Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-23-civ-commerce-10-ans-apres-sa-mise-en-service-le-guichet-unique-du-commerce",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The GUCE-CI single window lets businesses do import, export and transit formalities online without travelling, and users track their procedures in real time on its website and the GuceMobil app, the ministry says.",
+   "as_of": "2025-05-22",
+   "date_precision": "day",
+   "system": "GUCE-CI",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": "No count of services is given."
+}

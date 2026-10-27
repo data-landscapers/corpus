@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-25-cod-rdc-le-gouvernement-relance-le-processus-e-visa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-visa",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Foreign Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a relaunched tender for an e-visa provider; no service online or piloted."
+}

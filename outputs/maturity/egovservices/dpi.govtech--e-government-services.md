@@ -23,9 +23,9 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 | 5 Leading | 4 |
 | 4 Operating | 7 |
 | 3 Established | 13 |
-| 2 Nascent | 22 |
+| 2 Nascent | 23 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
+| Unplaced | 7 |
 | No evidence | 0 |
 
 ## Countries
@@ -245,6 +245,12 @@ Government services were going online in 2026; ten or more online are not on rec
 - Revenue Services Lesotho offers an online Individual Taxpayer Registration Form on its eServices site, which individuals fill in and attach documents to ([source, 2026-10-16](https://eservices.rsl.org.ls/ereg/public/individualform)).
 - Minister Nthati Moorosi says the government is close to launching an integrated online services platform with an electronic payment gateway, 'almost done' ([source, 2026-05-14](https://lestimes.com/?p=90492)).
 
+### Liberia: 2 Nascent
+
+The revenue authority put duty-free applications online in 2025; whether ten or more services can be completed online is not known.
+
+- The Liberia Revenue Authority says it launched an Online Duty-Free Application Platform where qualified individuals and institutions submit duty-free requests electronically ([source, 2025-07](https://revenue.lra.gov.lr/lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platform/)).
+
 ### Libya: 2 Nascent
 
 Government services were going online in 2024; ten or more online are not on record.
@@ -353,12 +359,6 @@ Nothing held since 2023 names government services online, so no stage is set.
 Not established: Nothing held since October 2023 says whether government services can be used online.
 
 ### Guinea-Bissau: Unplaced
-
-Nothing held since 2023 names government services online, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether government services can be used online.
-
-### Liberia: Unplaced
 
 Nothing held since 2023 names government services online, so no stage is set.
 
