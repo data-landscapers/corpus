@@ -7,7 +7,7 @@ last_reviewed: 2026-09-20
 
 # Job 1 — build the outputs — runbook for Claude Code
 
-*(Job 1 turns OSINT's evidence into Corpus-owned `outputs/`. Job 2 (`RENDER.md`) renders it into the site; `CYCLE.md` orders the two and changes nothing in either. **`documentation/build.md` is why each stage is where it is and what each check catches**; this file is what to run. Stages 4, 4b and 7 are runbooks of their own: `REPORT-UPDATE.md`, `DATASET-UPDATE.md` and `BULLETIN.md`. OSINT is read-only throughout; reading is unrestricted. The workroot junctions `raw/`, `wiki/` and `lookups/` — only what a stage reads — and `index/` is not among them: Corpus builds its own. The boundary is the write, and it is absolute.)*
+*(Job 1 turns OSINT's evidence into Corpus-owned `outputs/`. Job 2 (`RENDER.md`) renders it into the site; `CYCLE.md` orders the two and changes nothing in either. **`documentation/build.md` is why each stage is where it is and what each check catches**; this file is what to run. Stages 4, 4b and 7 are runbooks of their own: `REPORT-UPDATE.md`, `DATASET-UPDATE.md` and `BULLETIN.md`. OSINT is read-only throughout; reading is unrestricted. The workroot junctions are `raw/`, `wiki/` and `lookups/`, only what a stage reads. The boundary is the write, and it is absolute.)*
 
 ## Running unattended — a run never stops to ask
 
@@ -15,7 +15,7 @@ last_reviewed: 2026-09-20
 
 **Where this runbook says a human rules, BUILD rules**, and every such point is named below with the path to take. **Where BUILD wants Bill's attention, it finishes the job and leaves a message** in `C:\corpus-osint-xfer\messages-for-bill.md`: what would have been asked, what the run did instead, what his options are. A run that needed nothing writes nothing there.
 
-**No check stops a finished run.** Every check in Job 1 is a work list, not a gate. A failing check is BUILD's work to do, and where it cannot be done the true statement is ***Not held*** with a `gaps.csv` line — a completed outcome, not a blocked one.
+**No check stops a finished run but the prose gate** (*Ending the run*, R133). Every other check is a work list. A failing check is BUILD's work to do, and where it cannot be done the true statement is ***Not held*** with a `gaps.csv` line — a completed outcome, not a blocked one.
 
 **An interrupted run is resumable**: stage 4 reads a set difference over slugs, so the next run picks up where a dead one stopped. Stage 0's sentinel catches the interruption nobody noticed.
 
@@ -40,6 +40,7 @@ python scripts/lint-osint-freshness.py    # 0 fresh · 1 stale or regressed · 2
 python scripts/lint-interface.py          # 0 the interface holds · 1 a read outside it
 python scripts/lint-notes.py              # 0 every open note names what it bears on
 python scripts/lint-prepared.py           # 0 no spent handover is still in prepared/
+python scripts/lint-prose.py --open       # the prose gate's base
 ```
 
 - **The freshness lint reports and never stops the run.** A `STALE` or `UNREADABLE` line goes in the run's message to Bill and the build continues.
@@ -122,9 +123,10 @@ python scripts/topic-render.py --check    # check G over what it wrote
 ```bash
 python scripts/report-register-check.py     # no --unit: the default is all 60
 python scripts/lint-considered.py           # every unit; the "No evidence" trap
+python scripts/lint-prose.py --log          # logs/prose.csv
 ```
 
-**This is the step that stops a finding living in a console** — every other check runs per unit, on the units the pass worked. Its counts go in the log line at step 3, anything the run did not clear gets a block at step 2, and it is **not a gate**.
+**This is the step that stops a finding living in a console** — every other check runs per unit, on the units the pass worked. Its counts go in the log line at step 3, anything the run did not clear gets a block at step 2, and it is **not a gate**. **`lint-prose.py --gate` is**: a block this run wrote or revised that breaks the prose sheet is rewritten before step 4.
 
 **2. Message Bill, if anything is owed him** — one block under the marker in `C:\corpus-osint-xfer\messages-for-bill.md`, at most 80 words. Nothing owed, nothing written. After writing one:
 
@@ -157,4 +159,4 @@ rm -f logs/.build-in-progress
 
 ## Boundary
 
-Nothing in Job 1 writes to OSINT. The only Corpus→OSINT channel is the exchange folder (`C:\corpus-osint-xfer\`) — files OSINT reads on Bill's schedule, never a write into OSINT itself.
+Nothing in Job 1 writes to OSINT. The exchange folder is the only Corpus→OSINT channel (`CLAUDE.md` → *The exchange*).

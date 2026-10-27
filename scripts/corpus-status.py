@@ -19,6 +19,8 @@ only; nothing of OSINT's beyond the mirror freshness lint already reads.
 - **new-queue**    items in the share's `new-queue/`, awaiting OSINT's ingest.
 - **budget**       follow-ups in `logs/budget-followups.md`; most wait on a document or a ruling.
 - **held-facts**   `held:` lines across `maturity/*/refused.csv`, facts that would move a stage.
+- **prose**        narrative blocks failing the prose sheet on the newest night of `logs/prose.csv`,
+                   every unit but the wiki (`lint-prose.py`, R133). The unit-review rotation clears them.
 - **commits**      uncommitted paths, Corpus plus share. A job commits what it changed.
 - **unpushed**     commits not on origin, Corpus plus share. A job pushes what it commits.
 
@@ -39,6 +41,7 @@ Exit 0 no gate open, 1 a gate is open.
 from __future__ import annotations
 
 import argparse
+import csv
 import datetime as dt
 import glob
 import io
@@ -155,6 +158,13 @@ def gates() -> list[str]:
     return out
 
 
+def prose() -> int:
+    """Failing blocks on `prose.csv`'s newest night, the wiki apart; 0 before its first night."""
+    rows = list(csv.DictReader(io.StringIO(read(os.path.join(ROOT, "logs", "prose.csv")))))
+    last = max((r["date"] for r in rows), default=None)
+    return sum(int(r["failing"]) for r in rows if r["date"] == last and r["unit"] != "wiki")
+
+
 def tally() -> str:
     counts = [
         ("messages", messages()),
@@ -168,6 +178,7 @@ def tally() -> str:
         ("new-queue", entries("new-queue")),
         ("budget", len(FOLLOWUP.findall(read(os.path.join(ROOT, "logs", "budget-followups.md"))))),
         ("held-facts", held_facts()),
+        ("prose", prose()),
         ("commits", git_count(ROOT, "status", "--porcelain") + git_count(SHARE, "status", "--porcelain")),
         ("unpushed", git_count(ROOT, "log", "--oneline", "@{u}..") + git_count(SHARE, "log", "--oneline", "@{u}..")),
     ]

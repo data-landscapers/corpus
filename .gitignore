@@ -145,3 +145,7 @@ R&D/Hyperscaler-dependence/cache/
 
 # corpus-status.py's last reading; the script recomputes it, so it is never the record.
 logs/status.md
+
+# lint-prose.py --open records the commit a run opened on, for its closing gate to diff
+# against. A fact about the run in progress, not history.
+logs/.prose-open

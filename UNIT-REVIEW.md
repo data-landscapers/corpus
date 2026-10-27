@@ -40,13 +40,14 @@ python scripts/unit-review.py next           # any other cycle
 
 Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the rotation commands run from the Corpus root.
 
-1. **Stamp the clock**: `python scripts/log-line.py --start review`.
+1. **Stamp the clock**: `python scripts/log-line.py --start review`, then `python scripts/lint-prose.py --open`.
 2. **Read the unit whole** — every document in the table, plus `ledger.csv` and `gaps.csv`. Then run the checks, so the mechanical findings are on the table before the judgement starts:
 
    ```bash
    python scripts/report-render.py --unit {U} --check
    python scripts/report-register-check.py --unit {U}
    python scripts/status-check.py --unit {U} --openings     # countries only
+   python scripts/lint-prose.py --unit {U} -v               # the prose sheet
    ```
 
 3. **Review each document against the question the checks cannot ask — is it still right?**
@@ -61,7 +62,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 
    `REPORT-UPDATE.md` is in force throughout: no fact without a source on its own sentence, the register of `report-layer.md` §10, the prose sheet `C:\corpus-osint-xfer\documentation\prose-style.md` read last before any block is rewritten, *the repository* never *the base* in published prose, and **no finding noted and left** — a finding is repaired in this run, converted to a finished outcome (*Not held* with a `gaps.csv` line, a claim struck), or, if it needs more than a run, a block in `C:\corpus-osint-xfer\messages-for-bill.md`.
 
-4. **Re-render and re-check**: `python scripts/report-render.py --unit {U} --doc all --render`, then the three checks in step 2 again. They pass, or the failing edit is repaired or reverted.
+4. **Re-render and re-check**: `python scripts/report-render.py --unit {U} --doc all --render`, then step 2's checks again and `python scripts/lint-prose.py --gate --unit {U}`, failing a block this run revised. They pass, or the failing edit is repaired or reverted.
 5. **Record and commit** — from the Corpus root, one commit for the unit, explicit paths, pushed straight away:
 
    ```bash
