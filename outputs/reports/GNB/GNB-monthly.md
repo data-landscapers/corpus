@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — News, Sep – Oct 2026
-compiled: 2026-10-22
-period: 2026-09-01 to 2026-10-22
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: GNB
-ledger_rows: 11
+ledger_rows: 12
 not_held: 2
-record: e6f22f6adfe5
+record: 58a68620e2ab
 ---
 
 # News, Sep – Oct 2026
@@ -125,6 +125,20 @@ Guinea-Bissau's customs directorate and an African Development Bank technical mi
 **[PM promete elevar para 15 por cento do Orcamento Geral do Estado os fundos destinados ao setor do ensino nacional](https://ang.gw/pm-promete-elevar-para-15-por-cento-do-orcamento-geral-do-estado-os-fundos-destinados-ao-setor-do-ensino-nacional/)** — Agencia de Noticias da Guine (ANG), 11 September 2026
 
 Guinea-Bissau's transitional prime minister, Ilídio Vieira Té, pledged on 11 September 2026 to raise education to 15 per cent of the state budget and to pay teachers where they work, through bank branches or Orange Money. The education ministry's plan also includes computerised teacher posting and digital audit.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Air cargo electronic manifest module</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DGA lança oficialmente o módulo de manifesto eletrónico via aérea no Sydonia World](https://alfandegas.mef.gw/dga-lanca-oficialmente-o-modulo-de-manifesto-eletronico-via-aerea-no-sydonia-world/)** — Alfândegas da Guiné-Bissau, 17 September 2026
+
+Air cargo e-manifest module built with IATA goes live in SYDONIA World, giving advance data for risk checks.
 
 </div>
 
