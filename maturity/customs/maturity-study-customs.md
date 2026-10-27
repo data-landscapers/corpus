@@ -33,6 +33,8 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Is there a single window for other agencies? | A source from the last three years says a trade single window is in service, joining customs and other border agencies |
 | 4 | Does it exchange data across its regional community? | A source from the last three years says the customs system exchanges declaration or transit data through a system open to every country of its regional economic community, such as ECOWAS's SIGMAT or the EAC single customs territory, even where not every member yet reciprocates |
 
+**A regional system still in use counts after leaving the community** *(Bill, 2026-10-27)*: Burkina Faso, Mali and Niger left ECOWAS in January 2025 but still exchange transit data through SIGMAT, which answers question 4.
+
 ## 3. The ladders
 
 **Customs**
