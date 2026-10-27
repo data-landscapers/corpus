@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: TZA
-ledger_rows: 82
+ledger_rows: 83
 not_held: 5
-record: bdff0a1bc53b
+record: 875f16166410
 ---
 
 # News, Sep – Oct 2026
@@ -929,6 +929,20 @@ Tanzania is extending its e-Delivery system to track development projects from p
 **[Govt unveils digital system to track projects](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/)** — Daily News, 17 September 2026
 
 Tanzania's planning permanent secretary Dr Tausi Kida presented e-Delivery, a real-time system for tracking state development projects from planning and funding to execution, at the National Planners' Conference in Arusha on 16 September 2026. She said fund releases will be matched to the progress it records, with the National Planning Commission monitoring each stage, and projects aligned with Vision 2050.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic cargo tracking system (TECTS) and its regional link</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L'interfaçage des Systèmes de Suivi Electronique des Cargos pour la sécurité et la sûreté des Biens ou des Marchandises](https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises)** — Office Burundais des Recettes, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a>
+
+OBR and TRA technicians meet 22 Sept 2026 to link national cargo-tracking systems on the Northern Corridor.
 
 </div>
 
