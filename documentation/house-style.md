@@ -5,6 +5,8 @@ reader: cc
 
 # House style — guidelines for new pages
 
+**This is the visual style. How the prose is written is the prose sheet, `C:\corpus-osint-xfer\documentation\prose-style.md` (R132).**
+
 One style, two sites. data-landscapers.io is the origin; every Corpus page is an application of it, never a variation on it. These rules govern any new page or page type in either repo; this is the tree as measured, not a proposal. (The one-time analysis is `archived/house-style-review-2026-08-24.md`.)
 
 `scripts/methodology.py` builds `/methodology/` and its three annexes — `/methodology/document-lifecycle/`, `/methodology/process-inventory/` and `/methodology/lookups/` — from four files in `content/`, with anchor ids on every `##`, an `<h1>` from the page's title rather than from the markdown, and one or two `.article-toc` bars above the body: the other pages of the set, then this page's own sections. Their page-type sheet is `methodology.css`, whose whole content is the process inventory's three column widths — the filenames in column 2 are unbreakable words that auto layout hands 40% of the table to, so the widths are fixed and the builder puts a `<wbr>` after every `/` and `-` inside a `<code>` span. `/method/` is a hand-written redirect stub kept because the old URL sits in the baked chrome of pages published before the rename.

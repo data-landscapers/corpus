@@ -14,7 +14,7 @@ last_reviewed: 2026-10-18
 
 **Lifted** *(Bill, 2026-10-17)*: every indicator has had its first study, so stage 4c and the rebuild run. `study-update.py` → `HELD` is the switch.
 
-`scripts/study-update.py` is the mechanical half and its docstring holds the files and the rebuild's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries.
+`scripts/study-update.py` is the mechanical half and its docstring holds the files and the rebuild's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries, and the share's `documentation/prose-style.md` last.
 
 **The facts are in news, not in large documents** *(Bill, 2026-10-17)*. An instrument, a story from before the three-year window and a country's stories past 20 are closed unread; the rest is read once across every study that lists it, by Sonnet drafters (`scripts/study-arrivals.py`).
 
@@ -33,10 +33,10 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
 
 ### Level 1 — add the fact
 
-1. **Read the document** at the `path` its reading-list row gives, whole or as passages as the row says.
-2. **Does it state a dated fact on one of the study's aspects, for this country, that `evidence.csv` does not hold?** The term test admits by a word, so most arrivals are about something else: a court system, a police pilot, another sector. That is `nothing`, and the commonest outcome.
+1. **Read the document** at the `path` its reading-list row gives, whole or in passages, as the row says.
+2. **Does it state a dated fact on one of the study's aspects, for this country, that `evidence.csv` does not hold?** The term test admits by a word, so most arrivals are about something else: a court system, a police pilot, another sector. That is `nothing`, the commonest outcome.
 3. **A fact goes into `evidence.csv`** by `python scripts/study-profile.py {id} --merge`: each facts file taken once, only the countries it reached written. A hand-read fact follows the drafter brief.
-4. **A substantive fact updates the country's text the same night**: the paragraph of `outputs/maturity/{id}/{ISO3}.md` on that aspect, under the writer brief, linked to the new row's URL; and the *Noted, not assessed* or *Not held* line if the fact changes what they say.
+4. **A substantive fact updates the country's text the same night**: the paragraph of `outputs/maturity/{id}/{ISO3}.md` on that aspect, under the writer brief and sheet, linked to the new row's URL; and the *Noted, not assessed* or *Not held* line if the fact changes what they say.
 
 ### Level 2 — does the fact call for a reassessment?
 

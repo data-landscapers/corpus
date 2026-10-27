@@ -15,7 +15,7 @@ One document over the newest day or two of publication: `outputs/bulletins/corpu
 python scripts/bulletin.py --scan          # the window, and which items still need a summary
 ```
 
-For **each** item in the work order, read it — `raw/{year}/{slug}.md` from `scripts/.workroot/`, `hub_line` first, body only where the line is not enough — and write one to three sentences:
+For **each** item in the work order, read it — `raw/{year}/{slug}.md` from `scripts/.workroot/`, `hub_line` first, body only where the line is not enough — and write one to three sentences, under the prose sheet, `C:\corpus-osint-xfer\documentation\prose-style.md`, read last before the first summary:
 
 ```bash
 python scripts/bulletin.py --write {slug} --text "…"

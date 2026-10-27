@@ -10,7 +10,7 @@ status: in force; Corpus-owned
 
 ## 10. The register
 
-**Two styles exist side by side, and neither is a draft of the other** *(Bill, 2026-09-22)*. Bill's own writing — the OSINT wiki and his essays on data-landscapers.io — is cautiously outspoken, evidence-led and polemical about systems rather than people. Corpus reports use the register below. Never carry one into the other, and never "correct" his style towards this one.
+**Two styles exist side by side, and neither is a draft of the other** *(Bill, 2026-09-22)*. Bill's own writing — his essays on data-landscapers.io — is cautiously outspoken, evidence-led and polemical about systems rather than people. Corpus reports use the register below. Never carry one into the other, and never "correct" his style towards this one.
 
 **Corpus editorial register — light touch.** **The evidence speaks; the lens decides what gets noticed and connected, and then gets out of the way.**
 
@@ -21,15 +21,7 @@ status: in force; Corpus-owned
 
 ### Plain English
 
-**Readers come for information, not mood or opinion.** Write plain British English. Terse is fine; flashy is not — no clever lead sentence with the facts after it. `documentation/AI-speak.md` lists examples.
-
-- **Open with the fact.** Who did what, and when. A sentence that sums up a paragraph without stating a fact is cut.
-- **Literal words only.** People and bodies act: they publish, approve, block, say, launch. Abstractions do not: compute does not *arrive*, a series does not *move*. No metaphor: *hardened*, *reached dates*, *put a name to the ceiling*, *moved the wrong way*.
-- **Name the thing.** No teasers or counting openers: *Two things arrived…*, *The month's largest infrastructure fact was not the state's*.
-- **No contrast set-ups.** *X rather than Y*, *not X but Y*, *from opposite ends*. Use a contrast only when the contrast is the fact.
-- **No mood words.** *Plainly*, *quietly*, *finally*, *strikingly*, *alarming* — unless inside a quoted source.
-- **Don't write about the report or the month.** *Nothing moved at a municipality this month* describes the ledger, not the country.
-- **British spelling and usage** — *programme*, *organisation*, *licence* (noun). No American business idiom.
+**The prose sheet, `C:\corpus-osint-xfer\documentation\prose-style.md`, holds the plain-English rules** *(strategic review 7, R132)*: the reader, the three numbers, the paragraph rule, the words, the voice and the no-history rule. It binds the OSINT wiki's synthesis pages too (R147). Read it last before drafting. `documentation/AI-speak.md` lists more examples; worked examples from Corpus reports:
 
 | Not this | This |
 |---|---|
@@ -39,9 +31,7 @@ status: in force; Corpus-owned
 | *Two things arrived on 7 September that answer the same question from opposite ends.* | A study published on 7 September costs universal household broadband at about R140bn. |
 | *On 8 September a ratings agency put a name to the ceiling.* | On 8 September [the agency] said [what it said]. |
 
-**The test for every sentence: could a reader check it against a source or a row?** If not, cut it.
-
-`report-register-check.py`'s tic-scanner reports rather than gates. **Its `headline` group** catches the phrasings of *Plain English*; no drain is run for them — a run rewrites the hits in a block it is already editing. Checks G–M bind unchanged.
+`report-register-check.py`'s tic-scanner reports rather than gates. **Its `headline` group** catches the phrasings the prose sheet forbids; no drain is run for them — a run rewrites the hits in a block it is already editing. Checks G–M bind unchanged.
 
 **No document in this layer carries a comment section.** The argument belongs downstream, in the published work these reports feed; a comment section leaks its verdict into the body.
 

@@ -82,12 +82,13 @@ For a URL the catalogue does not hold:
 
 ## Writing
 
-- **The first sentence carries the news** — the best-evidenced news, not the biggest. Never open with a definition, a restatement of the question or the oldest fact.
+- **Read the prose sheet, `C:\corpus-osint-xfer\documentation\prose-style.md`, last, just before drafting.** It sets the reader, the numbers, the paragraph rule, the words, the voice and the no-history rule.
+- **The first sentence is a dated, linked fact** (the sheet → *The paragraph*) — the best-evidenced fact, not the biggest. Never open with a definition, a restatement of the question or the oldest fact.
 - **No apparatus**: no caveats, hedging, "sources indicate" or note that accounts differ.
 - **One continuous narrative per h3**, up to 350 words; no sub-headings, bullets or tables. **A thin section is short, not padded.**
 - **Every time-varying figure is dated** — "covered 4.4m people (June 2026)"; structural facts are not.
 - **Money in the announcing party's currency**, any USD as a dated conversion.
-- House style is `documentation/report-layer.md` §10; links sit on the claim; one line per paragraph, never wrapped by hand.
+- The register is `documentation/report-layer.md` §10; links sit on the claim; one line per paragraph, never wrapped by hand.
 
 ## `finance.new`
 

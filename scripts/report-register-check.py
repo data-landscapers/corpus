@@ -79,7 +79,8 @@ TERMS = [
     ("flash verb", [r"\blanded\b", r"\bunveil(ed|s|ing)?\b", r"rolled out", r"ramp(ed|ing) up",
                     r"doubl(ed|ing) down", r"poised to", r"sets? the stage", r"paves? the way",
                     r"marks? a turning point"], True),
-    # §10 *Plain English* (2026-09-22): the headline-writing lead — a clever sentence first, the
+    # The prose sheet (share `documentation/prose-style.md`; was §10 *Plain English*): the
+    # headline-writing lead — a clever sentence first, the
     # facts after it. The shape is structural and most of it no regex can see; these are the
     # phrasings that recur across the estate, each counted on the day before it was added.
     ("headline", [r"\band so did\b", r"\bput a name to\b", r"\bput figures on\b",
