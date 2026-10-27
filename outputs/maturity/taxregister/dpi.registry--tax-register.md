@@ -21,11 +21,11 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 8 |
-| 3 Established | 18 |
+| 4 Operating | 10 |
+| 3 Established | 17 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 18 |
+| Unplaced | 17 |
 | No evidence | 8 |
 
 ## Countries
@@ -50,6 +50,15 @@ Firms got one number shared by the commercial register and the tax office in 202
 The taxpayer number was shared with business registration or customs in 2023; a tie to the national ID is not known.
 
 - The Direction Générale des Impôts FAQ says customs clearance procedures linked to foreign trade cannot be carried out without an IFU, the single number issued to users of the financial administration ([source, 2023-10-17](https://dgi.bf/faq-immatriculation-des-contribuables/)).
+
+### Chad: 4 Operating
+
+Taxpayer numbers were issued through the tax platform and required on customs declarations in 2025; a tie to the national ID is not known.
+
+- Chad's customs directorate says every importer, exporter or agent needs a valid taxpayer number (NIF) that is verifiable online ([source, 2025-09](https://douanes.td/e-douane/e-paiement/)).
+- Chad's customs directorate says a valid NIF is required for every customs declaration, and SYDONIA blocks declarations without one ([source, 2025-09](https://douanes.td/e-douane/e-paiement/)).
+- The Ministry of Finance and Budget's circular of 10 January 2024 requires each bidder's tax identification number (NIF) to be active in E-Tax before public contracts are awarded ([source, 2024-01-10](https://fen.finances.gouv.td/assets/landing/documents/Circulaire002_2024.pdf)).
+- PwC states that on the E.Tax platform taxpayers can apply online or manually for a certificate of tax identification number, which is not conditional on taxes being paid, among developments of 2023 ([source, 2023](https://taxsummaries.pwc.com/chad/corporate/significant-developments)).
 
 ### DR Congo: 4 Operating
 
@@ -80,6 +89,13 @@ The taxpayer number was shared with business registration or customs in 2025; a 
 The taxpayer number was shared with business registration or customs in 2025; a tie to the national ID is not known.
 
 - The portal gives commerce register, tax registration and social security affiliation in one procedure at company creation ([source, 2025-04-04](https://ami.mr/fr/archives/268316)).
+
+### Namibia: 4 Operating
+
+Taxpayer numbers were issued online and required on customs declarations in 2026; whether they are tied to the national ID is not known.
+
+- The Namibia Revenue Agency's notice of 1 April 2026 says stakeholders can apply for a Taxpayers Identification Number through its ITAS link ([source, 2026-04-01](https://www.namra.org.na/documents/cms/uploaded/public-notice-asycudaworld-golive-date-extended-e62d0a7fe7.pdf)).
+- NamRA says the Trader Identification Number it issues is mandatory on every customs declaration in ASYCUDAWorld from 1 April 2026, with declarations lacking a valid TIN rejected automatically ([source, 2026-04-01](https://www.namra.org.na/documents/cms/uploaded/public-notice--mandatory-tin-on-asycudaworld--9-dec-2025-7d1548a64e.pdf)).
 
 ### Togo: 4 Operating
 
@@ -114,12 +130,6 @@ Taxpayers were registered on computer in 2026; a number shared with business reg
 
 - The Finance Ministry communique of 10 April 2026, as reported by LeFisk, says the DGI's ATOM platform has been in service since 1 July 2026 and is mandatory for all new registrations, issuing the NIU taxpayer number online ([source, 2026-07-01](https://lefisk.cm/blog/atom-dgi-cameroun-immatriculation-fiscale-guide-complet)).
 - The Directorate General of Taxation says tax registration is done exclusively online by the taxpayer, and the computer system allots a unique taxpayer number (NIU) automatically ([source, 2025](https://www.impots.cm/en/node/148)).
-
-### Chad: 3 Established
-
-Taxpayers were registered on computer in 2023; a number shared with business registration or customs is not known.
-
-- PwC states that on the E.Tax platform taxpayers can apply online or manually for a certificate of tax identification number, which is not conditional on taxes being paid, among developments of 2023 ([source, 2023](https://taxsummaries.pwc.com/chad/corporate/significant-developments)).
 
 ### Gabon: 3 Established
 
@@ -274,12 +284,6 @@ Not established: Nothing held since October 2023 says whether taxpayers are regi
 ### Mozambique: Unplaced
 
 The taxpayer number was required for customs in 2026, but nothing held says the register is computerised, so no stage is set.
-
-Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
-
-### Namibia: Unplaced
-
-The taxpayer number was required on customs declarations in 2026, but nothing held says the register is computerised, so no stage is set.
 
 Not established: Nothing held since October 2023 says whether taxpayers are registered on computer.
 

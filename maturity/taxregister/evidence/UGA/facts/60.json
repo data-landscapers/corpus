@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-uga-ask-ura-commissioner-general-19",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The URA says taxpayers log in to their TIN account on its portal with their TIN to transfer credits and apply for instalment plans.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "URA TIN account",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

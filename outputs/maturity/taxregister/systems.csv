@@ -1,6 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Consulta de NIF,Angola,tax,SEPE portal,Government of Angola,,2026-08-05-angola-sepe-catalogo-eservicos
 AGO,SIGFE,Angola,other,,State,,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
+AGO,SIGT,Integrated Tax Management System,tax,,AGT,,2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t
 BDI,e-KORI,Burundi,tax,online platform of the OBR,Office burundais des recettes (OBR),"natural persons, legal persons, cooperative societies",2026-08-06-burundi-e-kori-online-taxpayer-registration-mandatory
 BDI,easybusiness.bi,Burundi,other,online business registration site,Agence de developpement du Burundi (ADB),,2026-08-06-burundi-e-kori-online-taxpayer-registration-mandatory
 BDI,e-KORI,Burundi,tax,online platform for internal taxes and non-tax revenue,Office Burundais des Recettes (OBR),"natural persons, legal persons, cooperative societies",2026-08-04-obr-e-kori-plateforme-immatriculation-en-ligne
@@ -61,6 +62,7 @@ MUS,Tax Account Number,Mauritius,tax,,Mauritius Revenue Authority,,2026-01-01-mu
 MWI,Msonkho Online,Msonkho Online,tax,,Malawi Revenue Authority,,2019-09-08-mwi-nyasatimes-mra-immigration-tpin-national-id
 NAM,Trader Identification Number (TIN),Namibia,tax,,Namibia Revenue Agency,,2025-12-11-namra-mandatory-tin-asycudaworld-notice
 NAM,ASYCUDAWorld,Namibia,other,ASYCUDAWorld,Namibia Revenue Agency,,2025-12-11-namra-mandatory-tin-asycudaworld-notice
+NAM,ITAS,Namibia,tax,,Namibia Revenue Agency,,2026-04-01-nam-asycudaworld-upgrade-go-live-date-extension
 NER,Registre National de la Population (RNP),Niger,other,,ANEI,,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,Registre National d'Etat Civil (RNEC),Niger,other,,"Direction Générale de l'état civil, des migrations et des réfugiés",,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,SISIC,Systeme Informatise de Suivi des Impots et des Contribuables,tax,,Direction Generale des Impots,large-taxpayer directorate,2018-02-01-ner-minfin-dgi-sisic-note-information
@@ -81,6 +83,7 @@ SSD,eServices Account,South Sudan,other,,"Ministry of Information, Communication
 SWZ,ASYCUDA,ASYCUDA,other,,,,2024-01-01-eswatini-tin-registration-procedure
 SYC,TIN Registration (e-Service Gateway),Seychelles,tax,eservice.egov.sc,Government of Seychelles,company,2025-01-01-seychelles-tin-registration-company
 TCD,E.Tax platform,Chad,tax,,Direction Generale des Impots,,2024-08-12-pwc-worldwide-tax-summaries-chad-significant-developments
+TCD,E-Tax,Chad,tax,,,,2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene
 TGO,SIG Recettes,Togo,other,application with geolocation,"communes of Doufelgou 1 and Sotouboua 2, supported by GIZ ProDeG IV",local,2025-03-17-tgo-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des
 TGO,nif.otr.tg,Togo,tax,web,OTR,individual taxpayers,2023-12-20-tgo-otr-creation-nif-en-ligne
 TGO,NIF particulier platform,nif.otr.tg,tax,nif.otr.tg,Office Togolais des Recettes,individuals,2025-01-01-tgo-otr-actu-18-janvier-juin-2025

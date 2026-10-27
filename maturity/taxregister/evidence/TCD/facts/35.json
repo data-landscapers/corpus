@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-01-tcd-e-paiement",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Chad's customs directorate says every importer, exporter or agent needs a valid taxpayer number (NIF) that is verifiable online.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "NIF",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "Chad's customs directorate says a valid NIF is required for every customs declaration, and SYDONIA blocks declarations without one.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "NIF",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

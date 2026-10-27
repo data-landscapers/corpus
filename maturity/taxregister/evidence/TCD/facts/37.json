@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Ministry of Finance and Budget's circular of 10 January 2024 requires each bidder's tax identification number (NIF) to be active in E-Tax before public contracts are awarded.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "E-Tax",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Tax",
+   "country_label": "Chad",
+   "class": "tax",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
