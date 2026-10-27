@@ -1,0 +1,36 @@
+{
+ "slug": "2024-10-09-mar-gid-2025",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "Morocco's interior minister told communal councils in October 2024 to use GIR-CT alone to manage local revenue, with revenue orders sent electronically to public accountants.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "GIR-CT",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "shared",
+   "fact": "The interior ministry and the Treasury are generalising GIR-CT across communes, which send revenue orders electronically to the public accountants.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "GIR-CT",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GIR-CT",
+   "country_label": "Morocco",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Interior / Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
