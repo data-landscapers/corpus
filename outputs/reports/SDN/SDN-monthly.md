@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: SDN
 ledger_rows: 36
 not_held: 5
-record: 9361d466934b
+record: b8dea372114a
 ---
 
 # News, Sep – Oct 2026
@@ -508,7 +508,7 @@ Columnist Al-Samani Awadallah, writing in Al-Hakim News on 6 September 2026, bac
 
 **[الجمارك تتوسع في تطبيق الإقرار المسبق للشحنات وتستعد لتعميمه بكافة المنافذ](https://www.sudanindependent.com/news/politics/2026/09/30/%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%AA%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A5%D9%82%D8%B1%D8%A7%D8%B1)** — Sudan Independent (SUNA), 30 September 2026
 
-Advance cargo declaration to extend from October 2026 beyond Port Sudan's South Port to every port and crossing.
+Sudan's customs said it would extend its Advance Cargo Declaration system from early October to every port and border crossing, after a trial at Port Sudan's southern port. The system lets importers file shipment data and documents before arrival to shorten clearance.
 
 </div>
 
@@ -624,7 +624,7 @@ Summarised under [Registries](#registries).
 
 **[أمين عام حكومة الشمالية يبحث استعادة أنظمة وزارة المالية وتعزيز التحول الرقمي](https://www.suna.sd/posts/amyn-aaam-hkom-alshmaly-ybhth-astaaad-anthm-ozar-almaly-otaazyz-althol-alrkmy)** — وكالة السودان للأنباء (سونا), 5 October 2026
 
-Wafi resource system, run since 2017 and halted by war in 2023, being restored; next budget to run on it.
+Sudan's Northern State met the National Technology Company on 5 October 2026 to restore the finance ministry's Wafi resource-management system, in use since 2017 and stopped by the war in 2023. The state says next year's budget will run through the system, with procurement, stores and budget modules to follow.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: UGA
 ledger_rows: 76
 not_held: 11
-record: 6588110a71e7
+record: cfdba2d69187
 ---
 
 # News, Sep – Oct 2026
@@ -1080,7 +1080,7 @@ The Uganda Printing and Publishing Corporation, the government printer, announce
 
 **[NGO Bureau to automate registration and service deliv](https://www.newvision.co.ug/category/news/ngo-bureau-to-automate-registration-and-servi-NV_242915_102026)** — New Vision, 24 October 2026
 
-Online NGO registration due by end of current financial year; inter-agency platform and State of NGOs report planned.
+Uganda's National Bureau for NGOs plans to move registration, document submission and payment online, with online registration expected by the end of the financial year. The interior ministry is preparing a platform for agencies handling NGO matters to share information.
 
 </div>
 

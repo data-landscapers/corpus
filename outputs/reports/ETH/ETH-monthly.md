@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: ETH
 ledger_rows: 35
 not_held: 5
-record: 4c4c66f48ef8
+record: 1b46c59e706b
 ---
 
 # News, Sep – Oct 2026
@@ -186,7 +186,7 @@ Ethio Telecom set 2026/27 targets of 96.2 million customers and ETB 295 billion 
 
 **[Ethio Telecom Extends 4G LTE Coverage to 80 More Towns](https://techafricanews.com/2026/10/26/ethio-telecom-extends-4g-lte-coverage-80-towns/)** — Tech Africa News, 26 October 2026
 
-Next Horizon 2028 rollout; 2026/27 plan targets 95% 4G population coverage, 1,500 towns, 11,014 sites.
+Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targets 4G population coverage of 95%, from 82.23%, across 1,500 towns.
 
 </div>
 
@@ -704,7 +704,7 @@ The Ethiopian Institution of the Ombudsman's website says it has resolved more t
 
 **[Strengthening Digital Rights for Persons with Disabilities and Older Persons](https://cipesa.org/2026/10/strengthening-digital-rights-for-persons-with-disabilities-and-older-persons/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 23 October 2026
 
-EHRC drafts eight-dimension digital inclusion toolkit under ADRF grant; ADRF round of USD 320,000 to 18 initiatives.
+The Ethiopian Human Rights Commission is adding the digital rights of persons with disabilities and older persons to its monitoring mandate. It presented a draft digital-inclusion monitoring toolkit at a CIPESA-facilitated staff workshop on 21-22 September 2026.
 
 </div>
 

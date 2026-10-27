@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: BDI
 ledger_rows: 24
 not_held: 10
-record: a8f6162f8e37
+record: 4be7c416215d
 ---
 
 # News, Sep – Oct 2026
@@ -272,7 +272,7 @@ Burundi's electoral commission CENI expects more than one million new voters on 
 
 **[L'interfaçage des Systèmes de Suivi Electronique des Cargos pour la sécurité et la sûreté des Biens ou des Marchandises](https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises)** — Office Burundais des Recettes, 22 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
-OBR and TRA technicians meet 22 Sept 2026 to link national cargo-tracking systems on the Northern Corridor.
+Tanzanian and Burundian revenue officials met at the OBR on 22 September 2026 to work on linking their electronic cargo tracking systems on the Northern Corridor. Burundi's system, in use since 2014, can track goods only from its own border posts, and the aim is to follow them from Dar es Salaam or Mombasa to destination.
 
 </div>
 

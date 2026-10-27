@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: AGO
 ledger_rows: 50
 not_held: 6
-record: 94f3699fdcee
+record: c2cf89d2826a
 ---
 
 # News, Sep – Oct 2026
@@ -670,7 +670,7 @@ Angola's President João Lourenço authorised spending of 90.5 billion kwanzas, 
 
 **[Angola: Presidente anuncia lançamento do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH)](https://www.africa-newsroom.com/press/angola-presidente-anuncia-lancamento-do-singerh?lang=pt)** — APO Group, for Ministério da Administração Pública, Trabalho e Segurança Social, 15 October 2026
 
-State is rolling out the SINGERH civil-service HR system within a paperless, interoperable administration drive.
+President João Lourenço said Angola is implementing SINGERH, an integrated human-resources management system for the civil service. He placed it within a digitisation of the administration built on interoperability, digital identity, public key infrastructure and electronic signatures.
 
 </div>
 

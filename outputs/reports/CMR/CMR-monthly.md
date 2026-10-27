@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: CMR
 ledger_rows: 40
 not_held: 4
-record: 3ce8523ac62c
+record: bbd5ba92d2b8
 ---
 
 # News, Sep – Oct 2026
@@ -562,7 +562,7 @@ Cameroon has licensed Konoom Cameroun as its third payment institution, after Or
 
 **[Nigerian Fintech Grey Opens Direct Transfers to MTN MoMo and Orange Money in Cameroon](https://www.businessincameroon.com/finance/2509-16831-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-money-in-cameroon)** — Business in Cameroon, 25 September 2026
 
-USD, EUR, GBP balances paid into Cameroon wallets in CFA francs; USD 1.80 fee, CFA 400,000 cap per transfer.
+Nigerian fintech Grey opened a corridor sending CFA francs from dollar, euro or sterling balances straight to MTN Mobile Money and Orange Money wallets in Cameroon, at $1.80 a transfer. BEAC figures put Cameroon at 30.99 million of CEMAC's 51.28 million mobile money accounts in 2024.
 
 </div>
 

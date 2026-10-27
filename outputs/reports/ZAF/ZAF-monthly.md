@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: ZAF
 ledger_rows: 170
 not_held: 19
-record: 4dc8b92228c5
+record: 820790eaa7b8
 ---
 
 # News, Sep – Oct 2026
@@ -1426,7 +1426,7 @@ The South African Revenue Service confirmed in VAT Connect Issue 21 on 8 Septemb
 
 **[No completion date for SA's 'single window'](https://www.freightnews.co.za/article/no-completion-date-for-sas-single-window)** — Freight News, 8 September 2026
 
-SARS gives no date for full National Single Window, Sept 2026; only an inspection workflow with BMA live since 2023.
+SARS told Freight News it cannot give a completion date for South Africa's National Single Window, which is being phased in across the agencies that regulate cross-border trade, nor list the agencies already integrated. An electronic inspection workflow shared with the Border Management Authority has run since September 2023, with selected plant importers testing it.
 
 </div>
 
@@ -2222,7 +2222,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[Home Affairs milestone on one million Smart IDs delivered in seven months](https://www.gov.za/news/media-statements/home-affairs-milestone-one-million-smart-ids-delivered-seven-months-26-oct)** — South African Government (Department of Home Affairs), 26 October 2026
 
-1,002,773 served at 669 bank branches since 9 Mar 2026; passports and home delivery next; green book ends Mar 2027.
+Home Affairs says 1,002,773 South Africans have applied for replacement Smart IDs at 669 bank branches in just over seven months, a fully digital, biometric process, with passports, first-time IDs and home delivery to follow. The green ID book stops being produced on 31 March 2027 and loses validity a year later.
 
 </div>
 
@@ -2230,7 +2230,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[Minister hails 'Home Affairs @home' milestone](https://www.timeslive.co.za/news/south-africa/2026-10-26-minister-hails-home-affairs-home-milestone/)** — TimesLIVE (Sunday Times), 26 October 2026
 
-1,002,773 bank-branch Smart ID applications in seven months; 1,000-branch rollout, passports and delivery next.
+Minister Leon Schreiber hailed more than one million replacement Smart ID applications at bank branches through Home Affairs @home in seven months. Passport and first-time ID applications with home delivery are to follow at over 1,000 branches.
 
 </div>
 

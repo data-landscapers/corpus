@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: SOM
 ledger_rows: 27
 not_held: 1
-record: e7e281d7109a
+record: 4ec403a72564
 ---
 
 # News, Sep – Oct 2026
@@ -410,7 +410,7 @@ Somalia's civil aviation authority said its dispute with Somaliland over the nat
 
 **[PFM Smart Signs Contract with the Federal Government of Somalia to Enhance and Roll Out the SFMIS Across Federal Member States](https://pfmsmartsys.com/en/news/pfm_smart_signs_contract_with_the_federal_government_of_somalia_to_enhance_and_roll_out_the_sfmis_across_federal_member_states)** — PFM Smart Systems, 8 September 2026
 
-Upgraded SFMIS to replace BISAN in Jubbaland, South West, Galmudug and Hirshabelle, with HRMIS and ITAS links.
+PFM Smart signed a contract with Somalia's finance ministry to upgrade the SFMIS financial management system and roll it out to Jubbaland, South West, Galmudug and Hirshabelle, migrating them off the BISAN platform. The upgrade covers budgeting, commitments, procurement, treasury, revenue and reporting, and links SFMIS to the HRMIS and the ITAS tax system.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: MDG
 ledger_rows: 38
 not_held: 5
-record: 3dca79c39d22
+record: 1eba5078f2d1
 ---
 
 # News, Sep – Oct 2026
@@ -564,7 +564,7 @@ The International Organization for Migration's Japan-funded Smarter Borders proj
 
 **[Du contenu à la gestion : Madagascar accélère la numérisation de son système éducatif](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/du-contenu-a-la-gestion-madagascar-accelere-la-numerisation-de-son-systeme-educatif)** — wearetech.africa, 26 October 2026
 
-Launched 24 Oct 2026 with Studio MG; follows NUIS pupil ID piloted on 180,000 pupils; public-school rollout unsettled.
+Madagascar's digital development ministry launched MPIANATRA, a school-management platform for tracking pupils' progress, on 24 October 2026; its deployment in public schools is still to be studied. It follows the NUIS single pupil identifier, piloted with about 180,000 pupils since May.
 
 </div>
 

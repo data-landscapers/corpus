@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: XCA
 ledger_rows: 17
 not_held: 0
-record: 694e0e9ffc5d
+record: 0982ab1171ad
 ---
 
 # News, Sep – Oct 2026
@@ -464,7 +464,7 @@ The governor of the central African central bank BEAC, Yvon Sana Bangui, met the
 
 **[NBC, BEAC ink MoU on financial cooperation framework](https://www.khmertimeskh.com/502045413/nbc-beac-ink-mou-on-financial-cooperation-framework/)** — Khmer Times, 26 October 2026
 
-Phnom Penh signing; 2027-2028 action plan; payment-system interconnection, possible Bakong link to CEMAC.
+BEAC signed a memorandum of understanding with the National Bank of Cambodia in Phnom Penh, with a 2027-2028 action plan on digital transformation, financial inclusion and cybersecurity. It covers interconnecting payment systems, potentially linking Cambodia's Bakong with the CEMAC region.
 
 </div>
 

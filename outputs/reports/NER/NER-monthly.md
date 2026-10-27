@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: NER
 ledger_rows: 23
 not_held: 1
-record: 9d79d612d10f
+record: 33ce34832294
 ---
 
 # News, Sep – Oct 2026
@@ -378,7 +378,7 @@ Niger's urban modernisation agency runs an online addressing geoportal for Niame
 
 **[Niger is transforming foreign trade procedures with Webb Single Window](https://webbfontaine.com/fr/success-stories-niger-is-transforming-foreign-trade-procedures-with-webb-single-window)** — Webb Fontaine, 9 September 2026
 
-TVF control from 16 July 2026 lifts July filings 123%; all banks on e-Forex; stamp duty now paid online.
+Webb Fontaine, which built it, says Niger's foreign-trade single window, GUCE-Niger, now connects customs, the finance, trade, agriculture, livestock and health ministries, the chamber of commerce and every bank, through e-Forex for foreign-exchange operations. Stamp duties are now calculated and paid through the platform.
 
 </div>
 

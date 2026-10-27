@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: XAF
 ledger_rows: 123
 not_held: 3
-record: 3caaa33e7fef
+record: 1cca3b839b2d
 ---
 
 # News, Sep – Oct 2026
@@ -876,7 +876,7 @@ A pre-FIFAfrica dialogue convened by the Global Center on AI Governance, Digital
 
 **[AfriScience-MT: Towards Decolonizing Science in Africa through Text Translation](https://aclanthology.org/2026.emnlp-main.757.pdf)** — Association for Computational Linguistics, 1 October 2026
 
-Parallel science corpus in six African languages, 11 domains; closed models lead, fine-tuned NLLB within 1 COMET.
+An EMNLP 2026 paper introduces AfriScience-MT, a parallel corpus of plain-language science summaries professionally translated into Amharic, Hausa, Luganda, Northern Sotho, Yoruba and isiZulu across 11 domains, with new terms coined where none existed. In its benchmarks closed-source models outperformed every open-source model.
 
 </div>
 
@@ -1320,7 +1320,7 @@ Benin, Ghana and Rwanda completed Phase 1 of the Smart Africa Data Exchange cros
 
 **[FINAL COMMUNIQUÉ OF THE TWENTY FIFTH SUMMIT OF THE COMESA AUTHORITY OF HEADS OF STATE AND GOVERNMENT](https://www.comesa.int/final-communique-of-the-twenty-fifth-summit-of-the-comesa-authority-of-heads-of-state-and-government/)** — COMESA, 26 October 2026
 
-Harare, 22 Oct 2026; Digital Retail Payment Platform after Malawi-Zambia pilot; e-CO live in six states.
+The 25th COMESA Summit in Harare on 22 October 2026 urged member states to support the Digital Retail Payment Platform after its Malawi-Zambia pilot, and noted the electronic certificate of origin live in six states. It called for faster national single windows and trade portals.
 
 </div>
 
@@ -1672,7 +1672,7 @@ Airtel Money began conditional trading on the London Stock Exchange on 9 October
 
 **[Airtel Mobile Commerce N.V., Results for the half year ended 30 September 2026](https://www.investegate.co.uk/announcement/rns/airtel-mobile-commerce-n-v---amc/half-year-financial-results/9839984)** — Airtel Mobile Commerce N.V. (Airtel Money), 26 October 2026
 
-First results as listed company; revenue USD 830m (+34%), 56.7m customers, TPV USD 270bn annualised.
+Airtel Money's own results announcement for the half year to 30 September 2026, its first as a listed company, reports 56.7 million customers, mobile money penetration of 42.9% of Airtel's telecom base and annualised processed value of $270 billion. It declared an interim dividend of 6.4 US cents a share.
 
 </div>
 
@@ -1680,7 +1680,7 @@ First results as listed company; revenue USD 830m (+34%), 56.7m customers, TPV U
 
 **[Airtel Money Revenue Rises 34% to $830 Million in First Half of FY2027](https://techafricanews.com/2026/10/26/airtel-money-revenue-rises-34-percent-first-half-fy2027/)** — Tech Africa News, 26 October 2026
 
-H1 to 30 Sep 2026: 56.7m customers, annualised TPV USD 270bn, 2.4m agents; first results since London listing.
+Airtel Money reported revenue up 34% to $830 million for the half year to 30 September 2026, its first results as a listed company, with customers up 18.7% to 56.7 million. Annualised processed value reached $270 billion in the second quarter.
 
 </div>
 

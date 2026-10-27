@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: XWA
 ledger_rows: 36
 not_held: 1
-record: 0b36884baf23
+record: 2e397a68d345
 ---
 
 # News, Sep – Oct 2026
@@ -340,7 +340,7 @@ The consortium behind the 17,000 km Africa Coast to Europe submarine cable has c
 
 **[Signature des accords bilatéraux de roaming entre les États membres de l’UEMOA](https://www.uemoa.int/actualites/signature-des-accords-bilateraux-de-roaming-entre-les-etats-membres-de-luemoa)** — UEMOA Commission, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-WAEMU Commission account: Burkina Faso signs with Benin, Côte d'Ivoire and Senegal under IMPACT 2030 plan.
+Burkina Faso signed bilateral roaming agreements with Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, after a meeting of WAEMU's committee of national digital regulators. The minister, Aminata Zerbo/Sabane, called for close follow-up so the agreements are put into effect.
 
 </div>
 
@@ -348,7 +348,7 @@ WAEMU Commission account: Burkina Faso signs with Benin, Côte d'Ivoire and Sene
 
 **[West Africa Struggles to Deliver Free Roaming Nearly Nine Years After Regional Agreement - Ecofin Agency](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement)** — Ecofin Agency, 26 October 2026
 
-Burkina deals need three months' work; WATRA counted 13 bilateral agreements, nine launches by Aug 2025.
+Burkina Faso's roaming agreements with Benin, Côte d'Ivoire and Senegal need about three months of operator work before they take effect, nearly nine years after ECOWAS adopted regional roaming rules. WATRA had counted 13 bilateral agreements across eight countries by August 2025.
 
 </div>
 
@@ -544,7 +544,7 @@ Mobile money operator Wave Digital Finance appears on the BCEAO's list of partic
 
 **[Communiqué de presse de la session ordinaire du Conseil des Ministres de l'Union, Dakar, le 2 octobre 2026](https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20de%20presse%20-%20Conseil%20des%20Ministres%20du%202%20octobre%202026.pdf)** — UEMOA Conseil des Ministres (published by BCEAO), 2 October 2026
 
-Council's own signed communiqué: favourable opinion on BCEAO and UMOA banks joining PAPSS; procurement directive.
+The WAEMU Council of Ministers, meeting in Dakar on 2 October 2026, gave a favourable opinion on the BCEAO and the union's commercial banks joining PAPSS, the Pan-African Payment and Settlement System.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: GAB
 ledger_rows: 62
 not_held: 13
-record: ec22b3825cd1
+record: 0689e91adc30
 ---
 
 # News, Sep – Oct 2026
@@ -634,7 +634,7 @@ Rengus Digital, which runs Gabon's digitised driving licence launched on 24 Marc
 
 **[Permis digitalisé : après plus d’un mois d’arrêt, l’enrôlement repart sur une nouvelle plateforme](https://www.gabonreview.com/permis-digitalise-apres-plus-dun-mois-darret-lenrolement-repart-sur-une-nouvelle-plateforme/)** — GabonReview, 25 October 2026
 
-Five Greater Libreville sites from 26 Oct 2026; platform migrated to new infrastructure during month-long pause.
+Gabon's transport ministry said enrolment for the digitalised driving licence would resume on 26 October 2026 at five Greater Libreville sites, after a suspension from 21 September while the platform moved to new infrastructure.
 
 </div>
 
@@ -940,7 +940,7 @@ Gabon's civil-service ministry reviewed technical preparations for an integrated
 
 **[Fonction publique : 5,38 milliards de FCFA pour accélérer la modernisation en 2027](https://www.gabonreview.com/fonction-publique-538-milliards-de-fcfa-pour-accelerer-la-modernisation-en-2027/)** — GabonReview, 26 October 2026
 
-2027 request to finance SIGRH rollout, five digitised procedures, 150 stations; 2026 cash execution at 32%.
+Gabon's civil-service ministry asked parliament for FCFA 5.38bn for 2027, excluding staff costs, to digitise five procedures, bring 150 processing stations into service and deploy the SIGRH human-resources system. Only 32% of its 2026 envelope had been executed by end-October.
 
 </div>
 

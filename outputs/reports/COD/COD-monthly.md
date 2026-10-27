@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: COD
 ledger_rows: 69
 not_held: 7
-record: bc0dae4ca49b
+record: 4925ae8309ba
 ---
 
 # News, Sep – Oct 2026
@@ -944,7 +944,7 @@ DR Congo's foreign minister, Thérèse Kayikwamba Wagner, and digital economy mi
 
 **[RDC: le gouvernement relance le processus e-visa, l’évaluation des offres prévue début 2027](https://actualite.cd/2026/10/25/rdc-le-gouvernement-relance-le-processus-e-visa-levaluation-des-offres-prevue-debut-2027)** — ACTUALITE.CD, 25 October 2026
 
-June 2024 concession contract cancelled; new competitive tender, workshops mid-Nov 2026, bid evaluation early 2027.
+DR Congo relaunched its e-visa reform with a new competitive selection of a provider, after cancelling a June 2024 concession found gravely deficient. Workshops in mid-November 2026 will revise the specifications and pricing, and bids are to be evaluated in early 2027.
 
 </div>
 

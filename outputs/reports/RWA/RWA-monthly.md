@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: RWA
 ledger_rows: 51
 not_held: 7
-record: f6e68643358e
+record: cff6fce096f5
 ---
 
 # News, Sep – Oct 2026
@@ -824,7 +824,7 @@ MTN Rwanda signed a memorandum of understanding with the National Cyber Security
 
 **[Rwanda cyber authority boosts security with Airtel, MTN](https://www.connectingafrica.com/cybersecurity/rwanda-cyber-authority-boosts-security-with-airtel-mtn)** — Connecting Africa, 26 October 2026
 
-Airtel Future Path internships for CyberHub students; MTN MoU on course design and placements; no value stated.
+Rwanda's National Cyber Security Authority partnered with Airtel Rwanda to support the University of Rwanda's CyberHub with student internships, alongside an MoU with MTN Rwanda. No value or term was stated.
 
 </div>
 

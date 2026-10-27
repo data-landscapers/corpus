@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: NGA
 ledger_rows: 172
 not_held: 9
-record: 97ab9471f7af
+record: 5eb7a0d6f070
 ---
 
 # News, Sep – Oct 2026
@@ -1326,7 +1326,7 @@ The US Trade and Development Agency has granted US$1,870,000 to Infragora Global
 
 **[Nigeria to get two new AI-ready data centres in a $1 billion investment](https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/)** — TechCabal, 26 October 2026
 
-Construction from Q2-Q3 2027; 160-200 MW captive power plant; backers undisclosed; USTDA funds feasibility study.
+Infragora Global Capital plans to start building two AI-ready AFRIDATA data centres in Nigeria in the second and third quarters of 2027, a project it puts at $650 million to $1 billion, with financial close still to come. The centres would run on a dedicated 160-200 MW gas, renewable and battery plant.
 
 </div>
 
@@ -1940,7 +1940,7 @@ This TechCabal feature asks why tap-to-pay has not caught on in Nigeria although
 
 **[EBANX Integrates OPay Direct Debit for Global Subscription Payments in Nigeria](https://techafricanews.com/2026/10/26/ebanx-opay-direct-debit-global-subscription-payments-nigeria/)** — Tech Africa News, 26 October 2026
 
-First international PSP on OPay recurring payments; 40m monthly users claimed; follows Capitec Pay in South Africa.
+EBANX became the first international payments provider to offer OPay Direct Debit, so global subscription merchants can collect recurring payments from Nigerian consumers through the OPay wallet. OPay claims 40 million monthly active users.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-27
 place: GNB
 ledger_rows: 12
 not_held: 2
-record: 58a68620e2ab
+record: 9a86cc699ebb
 ---
 
 # News, Sep – Oct 2026
@@ -138,7 +138,7 @@ Guinea-Bissau's transitional prime minister, Ilídio Vieira Té, pledged on 11 S
 
 **[DGA lança oficialmente o módulo de manifesto eletrónico via aérea no Sydonia World](https://alfandegas.mef.gw/dga-lanca-oficialmente-o-modulo-de-manifesto-eletronico-via-aerea-no-sydonia-world/)** — Alfândegas da Guiné-Bissau, 17 September 2026
 
-Air cargo e-manifest module built with IATA goes live in SYDONIA World, giving advance data for risk checks.
+Guinea-Bissau's customs directorate launched an electronic air-cargo manifest module in Sydonia World on 17 September 2026, developed with IATA and UNCTAD. The ceremony also briefed airlines, forwarders and express carriers on the digitisation of customs procedures.
 
 </div>
 
