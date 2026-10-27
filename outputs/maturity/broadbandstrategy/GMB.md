@@ -6,6 +6,6 @@
 
 **Money and results.** The strategy sets targets of broadband coverage to more than 90% of the population by 2024, at least 75% of homes with affordable 5 Mbps download and upload speeds by 2022, and 4G coverage of at least 85% of the population by 2024 ([strategy](<https://mocde.gov.gm/wp-content/uploads/2023/10/BROADBAND-STRATEGY-2024.pdf>)). The policy sets a 5 Mbps minimum for every user and near-100% of homes with affordable 5 Mbps by 2023 ([policy](<https://policies.gov.gm/d/caa6d521-5bad-11ec-9b31-029254d29bb1>)).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says a national broadband plan is adopted and still running, or reports its funding or results.
+***Not found***. Nothing found says a national broadband plan is adopted and still running, or reports its funding or results.

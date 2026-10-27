@@ -9,8 +9,8 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ZAF-003",
-   "gaps": "No source held since October 2023 names a second public body publishing data under an open licence.",
-   "note": "National Treasury's eTenders data are published for download under the Open Data Commons PDDL (ZAF-003), so stage 3; no second body publishing that way is held, so not 4.",
+   "gaps": "No source found since October 2023 names a second public body publishing data under an open licence.",
+   "note": "National Treasury's eTenders data are published for download under the Open Data Commons PDDL (ZAF-003), so stage 3; no second body publishing that way has been found, so not 4.",
    "as_at": "2026-10-24"
   }
  ]

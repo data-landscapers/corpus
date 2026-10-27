@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** The [2016 law](<https://www.journalofficiel.dj/texte-juridique/loi-n118-an-15-7eme-l-portant-creation-dun-systeme-de-paiement-national-sa-reglementation-et-sa-surveillance/>) covers payment services and systems. The central bank's [register of licensed institutions](<https://banque-centrale.dj/les-etablissements-agrees/>) lists two e-money issuers beside the banks, D-Money (licensed 2020) and WAAFI (licensed 2022). No rule is named that requires mobile money providers and banks to connect to each other or to a national switch.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

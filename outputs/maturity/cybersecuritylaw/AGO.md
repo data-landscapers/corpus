@@ -6,6 +6,6 @@
 
 **Use of the law.** The law adopted on 12 August 2026 sets [fines of 7 to 4,000 national minimum wages, by gravity](<https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/>), according to ANGOP. The National Assembly's specialised committees [approved the proposed law](<https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430>) before the final vote, as Telecompaper reported on 10 August 2026. [PTI reports](<https://pti.ao/lei-da-ciberseguranca-aprovada-na-globalidade/>) that the final vote of 12 August 2026 was taken globally, with 104 in favour.
 
-***Noted, not assessed***. [Estratégia Nacional de Cibersegurança](<https://pti.ao/lei-da-ciberseguranca-aprovada-na-globalidade/>); [Conselho Nacional de Cibersegurança](<https://pti.ao/lei-da-ciberseguranca-aprovada-na-globalidade/>); [Centro Nacional de Cibersegurança](<https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430>).
+***Also on file***. [Estratégia Nacional de Cibersegurança](<https://pti.ao/lei-da-ciberseguranca-aprovada-na-globalidade/>); [Conselho Nacional de Cibersegurança](<https://pti.ao/lei-da-ciberseguranca-aprovada-na-globalidade/>); [Centro Nacional de Cibersegurança](<https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

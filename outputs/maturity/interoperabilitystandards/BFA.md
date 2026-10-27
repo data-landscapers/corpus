@@ -6,6 +6,6 @@
 
 **Standards required and checked.** [The decree on the public administration's digital platforms](<https://lefaso.net/IMG/pdf/decret_portant_modalite_de_mise_en_exploitation_des_plateformes_numeriques_de_l_administration_publique.pdf>), published by August 2024, makes a favourable opinion a condition of putting a platform into service. The file submitted for that opinion includes a check that the platform respects the interoperability referential, which the decree says is adopted by order of the Prime Minister. The decree leaves the procedure for obtaining the opinion to a joint order of three ministers.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source from the last three years naming a public body, system or product tested, audited or certified against the standards is held.
+***Not found***. No source from the last three years naming a public body, system or product tested, audited or certified against the standards is held.

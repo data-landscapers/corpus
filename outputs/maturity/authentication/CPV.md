@@ -8,6 +8,6 @@
 
 **Remote proof of identity.** [Citizens holding the National ID Card can obtain the CMDCV online and authenticate with a PIN plus a one-time code received by SMS or through the CMDCV mobile application, with a qualified electronic signature](<https://portal-autentika.gov.cv/en/cabo-verde-mobile-digital-key>).
 
-***Noted, not assessed***. [Autentika](<https://portal-autentika.gov.cv/>); [Cartão Nacional de Identificação (CNI)](<https://portal-autentika.gov.cv/>); [Chave Móvel Digital de Cabo Verde (CMDCV)](<https://portal-autentika.gov.cv/>); [Portal de Justiça](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>); [Portal de Serviços Públicos Digitais Integrados do Estado](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>); [National Identification Card (CNI)](<https://portal-autentika.gov.cv/en/autentika>).
+***Also on file***. [Autentika](<https://portal-autentika.gov.cv/>); [Cartão Nacional de Identificação (CNI)](<https://portal-autentika.gov.cv/>); [Chave Móvel Digital de Cabo Verde (CMDCV)](<https://portal-autentika.gov.cv/>); [Portal de Justiça](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>); [Portal de Serviços Públicos Digitais Integrados do Estado](<https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/>); [National Identification Card (CNI)](<https://portal-autentika.gov.cv/en/autentika>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

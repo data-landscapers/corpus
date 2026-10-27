@@ -2,6 +2,6 @@
 
 ## Power outages a month
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held gives how often the power goes off.
+***Not found***. Nothing found gives how often the power goes off.

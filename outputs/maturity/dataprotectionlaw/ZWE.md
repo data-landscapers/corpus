@@ -12,6 +12,6 @@
 
 **Last twelve months.** [Regulatory Notice 2 of 2026, published in July 2026, announced mandatory compliance inspections of data controllers from 1 September 2026](<https://www.techzim.co.zw/2026/07/potraz-starts-data-protection-inspections-on-1-september-here-is-what-it-means-for-you/>). [In September 2026 POTRAZ consulted on guidelines under the Act and on amendments to the regulations covering administrative fines](<https://sirdc.ac.zw/the-inaugural-africa-data-protection-day/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No named and dated sanction, order or decision on a controller, and no count of decisions for a stated period.
+***Not found***. No named and dated sanction, order or decision on a controller, and no count of decisions for a stated period.

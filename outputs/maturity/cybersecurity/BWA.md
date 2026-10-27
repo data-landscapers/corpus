@@ -6,10 +6,10 @@
 
 **Responding to incidents.** [On 23 October 2026 the national CSIRT, through BOCRA, issued an urgent public advisory on the PHP2Shell flaws, saying exploitation attempts had been seen and asking organisations to patch and report compromise to it](<http://www.bocra.org.bw/node/62863>).
 
-**Critical infrastructure.** No source held says the country designated its critical information infrastructure or required the operators of its critical systems to report incidents to the national body; the stage rests on [the source that sets it](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>).
+**Critical infrastructure.** No source found says the country designated its critical information infrastructure or required the operators of its critical systems to report incidents to the national body; the stage rests on [the source that sets it](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>).
 
-**Published figures.** No source held says the national body published a count of the incidents it handled for a quarter or more ending in the last two years; the stage rests on [the source that sets it](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>).
+**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more ending in the last two years; the stage rests on [the source that sets it](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the country designated its critical information infrastructure or bound its operators to report incidents, or that the national body published a count of incidents handled.
+***Not found***. No source found says the country designated its critical information infrastructure or bound its operators to report incidents, or that the national body published a count of incidents handled.

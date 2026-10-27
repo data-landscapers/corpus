@@ -6,8 +6,8 @@
 
 **Linked.** [The profile says Togo also uses DHIS2 for infectious disease surveillance, alongside its HMIS role](<https://dhis2.org/climate/country-profiles/togo/>).
 
-**Reporting rate published.** No source held since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://dhis2.org/climate/country-profiles/togo/>).
+**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://dhis2.org/climate/country-profiles/togo/>).
 
-***Noted, not assessed***. [eRDQA](<https://dhis2.org/fr/hisp-highlights-july-2026/>); [DHIS2-based One Health platform](<https://dhis2.org/climate/country-profiles/togo/>).
+***Also on file***. [eRDQA](<https://dhis2.org/fr/hisp-highlights-july-2026/>); [DHIS2-based One Health platform](<https://dhis2.org/climate/country-profiles/togo/>).
 
-***Not held***. No source held since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.

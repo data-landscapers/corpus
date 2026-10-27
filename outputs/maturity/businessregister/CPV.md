@@ -6,8 +6,8 @@
 
 **Shared number.** [The PEO company-creation package covers commercial registry formalisation, obtaining the Tax Identification Number (NIF) from DNRE and enrolment with social security (INPS) in one process](<https://peo.gov.cv/sobre-nos>).
 
-**Beneficial owners.** No source held since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://boe.incv.cv/Bulletins/DownloadAct?id=100739>).
+**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://boe.incv.cv/Bulletins/DownloadAct?id=100739>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says registration gives one number shared with tax or social security.
+***Not found***. No source found since October 2023 says registration gives one number shared with tax or social security.

@@ -6,8 +6,8 @@
 
 **Across government.** [The Citizen Service Centre's own page says tickets are verified by an agent and referred to the delegate of the ministry concerned, with first-day requests mostly on Finance and Health and the rest distributed among the other ministries (2021, before the three-year window)](<https://csc.gov.ly/en/home/>).
 
-**Results published.** No source held since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://alwasat.ly/news/libya/513847>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://alwasat.ly/news/libya/513847>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: is one in service with cases on record.
+***Not found***. No source found since October 2023 says: is one in service with cases on record.

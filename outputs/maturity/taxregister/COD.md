@@ -6,8 +6,8 @@
 
 **Shared with firms or customs.** [The DGI lists the Guichet Unique de Création d'Entreprise among the places where a NIF can be requested](<https://dgi.gouv.cd/wp-content/uploads/2025/12/COMMUNIQUE%CC%81-OFFICIEL-N%C2%B001_061.pdf>).
 
-**Tied to ID.** No source held since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://dgi.gouv.cd/wp-content/uploads/2025/12/COMMUNIQUE%CC%81-OFFICIEL-N%C2%B001_061.pdf>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://dgi.gouv.cd/wp-content/uploads/2025/12/COMMUNIQUE%CC%81-OFFICIEL-N%C2%B001_061.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the taxpayer number is tied to the national ID.
+***Not found***. No source found since October 2023 says the taxpayer number is tied to the national ID.

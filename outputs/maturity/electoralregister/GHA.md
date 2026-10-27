@@ -6,8 +6,8 @@
 
 **Open for checking.** [The EC's Director of Electoral Services said the exhibition of the voters register is a critical stage in which voters have the right to object to names on the roll](<https://ghananewsonline.com.gh/ec-outlines-sweeping-reforms-to-strengthen-ghanas-electoral-system/>).
 
-**Linked to ID.** No source held since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://ghananewsonline.com.gh/ec-outlines-sweeping-reforms-to-strengthen-ghanas-electoral-system/>).
+**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://ghananewsonline.com.gh/ec-outlines-sweeping-reforms-to-strengthen-ghanas-electoral-system/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

@@ -8,6 +8,6 @@
 
 **Source for others.** [The State Department for Immigration and Citizen Services says public and private entities with a signed MOU access the register for identity verification, at a Ksh. 20 fee per hit](<https://usajili.go.ke/integrated-population-registration-service>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

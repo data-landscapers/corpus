@@ -2,6 +2,6 @@
 
 ## Digital accessibility
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether information and digital services are made accessible to persons with disabilities.
+***Not found***. Nothing found says whether information and digital services are made accessible to persons with disabilities.

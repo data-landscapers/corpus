@@ -6,8 +6,8 @@
 
 **Several sectors.** Health is the only sector held with AI in service. The nearest held fact elsewhere is the [EPA's forecasting system](<https://emansion.gov.lr/sites/default/files/documents/5a_REOI_INTERNATIONAL%20CONSULTANTS%20TO%20DEVELOP%20AND%20OPERATIONALIZE%20AN%20AUTOMATED%20DECISION%20MANAGEMENT%20SYSTEM.pdf>), which was still to be designed.
 
-**Results reported.** No measured results of a sectoral AI system are held. The [clinician's account](<https://www.linkedin.com/posts/otuba-paul-29344955_cphia2025-tb-digitalhealth-activity-7387896239935369216-fBQX>) says the tool helped identify patients, without figures.
+**Results reported.** No measured results of a sectoral AI system have been found. The [clinician's account](<https://www.linkedin.com/posts/otuba-paul-29344955_cphia2025-tb-digitalhealth-activity-7387896239935369216-fBQX>) says the tool helped identify patients, without figures.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. AI in service in a second sector, and measured results of a sectoral AI system, are not known.
+***Not found***. No source found reports AI in service in a second sector, and measured results of a sectoral AI system.

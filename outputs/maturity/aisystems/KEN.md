@@ -6,8 +6,8 @@
 
 **AI computing.** [Atlancis Technologies said in November 2025 it had delivered and deployed an NVIDIA GPU AI factory at iXAfrica's NBOX1 data centre](<https://atlancis.com/atlancis-technologies-ai-infra/>), and [in March 2026 Servernah Cloud was launched there with GPU capacity for AI inference and model deployment, which iXAfrica's chief executive called live for the market](<https://atlancis.com/servernah-cloud-launch/>). [Vodacom's group technology chief told Business Day in October 2026 that Kenya will be the second node where Vodacom plans to build GPUs as a service](<https://www.businessday.co.za/companies/2026-10-18-vodacoms-technology-chief-outlines-regional-data-centre-strategy/>). [In October 2026 the PPP Directorate signed a funding agreement to prepare an expansion of the Konza National Data Centre for cloud computing and AI, with no private partner yet chosen](<https://peopledaily.digital/business/konza-data-centre-set-for-expansion-through-public-private-partnership>).
 
-**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named or counted users. [Servernah Cloud is offered commercially](<https://atlancis.com/servernah-cloud-launch/>), and no customer of it is named.
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named or counted users. [Servernah Cloud is offered commercially](<https://atlancis.com/servernah-cloud-launch/>), and no customer of it is named.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.
+***Not found***. No source found since October 2023 says national AI computing, models or datasets are open to named or counted users.

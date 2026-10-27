@@ -6,8 +6,8 @@
 
 **Labelling.** [El Watan reports 673 startups created, 3949 patents registered and 2339 'projet innovant' labels issued between 2022 and July 2026](<https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/>). [Authorities reported Algeria had registered 130 start-ups and 1,175 projects labeled as innovative](<https://www.wearetech.africa/en/fils-uk/news/tech/algeria-unveils-first-ai-and-cybersecurity-start-up-cluster>).
 
-**Funded.** No source held since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/>).
+**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a public fund under the startup law or strategy has financed startups.
+***Not found***. No source found since October 2023 says a public fund under the startup law or strategy has financed startups.

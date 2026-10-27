@@ -44,10 +44,10 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No source from the last three years naming or counting public bodies that exchange "
          "data under the framework, or are certified as meeting it, is held.",
-    "3": "No source held says public bodies are required to follow the framework: a decree, "
+    "3": "No source found says public bodies are required to follow the framework: a decree, "
          "law, regulation or circular that makes it compulsory and names the body that "
          "enforces it.",
-    "2": "No source held says a government interoperability framework is adopted and published.",
+    "2": "No source found says a government interoperability framework is adopted and published.",
     "1": "",
 }
 
@@ -93,7 +93,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     lifts = running or not (settled or draft)
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
-                "gaps": "Nothing held names a government interoperability framework, or says "
+                "gaps": "Nothing found names a government interoperability framework, or says "
                         "there is none."}
     if moved and lifts:
         s, src = "5", moved + policy[:1]

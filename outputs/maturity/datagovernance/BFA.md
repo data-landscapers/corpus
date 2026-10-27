@@ -2,6 +2,6 @@
 
 ## National data policy
 
-***Noted, not assessed***. [Plan Stratégique de la Santé Numérique (PSSN) 2025-2029](<https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/>).
+***Also on file***. [Plan Stratégique de la Santé Numérique (PSSN) 2025-2029](<https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/>).
 
-***Not held***. Nothing held names a national data policy, or says there is none.
+***Not found***. Nothing found names a national data policy, or says there is none.

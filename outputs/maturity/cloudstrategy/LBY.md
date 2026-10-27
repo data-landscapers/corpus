@@ -6,6 +6,6 @@
 
 **Named hosting and moves.** The [proposed policy](<https://www.gia.gov.ly/en/2026/01/01/the-general-information-authority-presents-the-proposed-national-cloud-computing-policy-in-collaboration-with-escwa/>) aims to set one national framework for hosting government data and services, as part of the authority's work on digital infrastructure and the security of national data. The meeting heard a presentation on fitting cloud technology to the needs of Libyan institutions, and ESCWA, the United Nations commission that attended, acts as the authority's consulting partner on the policy.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a government hosting or cloud policy is adopted and in force.
+***Not found***. No source found says a government hosting or cloud policy is adopted and in force.

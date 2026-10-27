@@ -325,42 +325,42 @@ A health information system was under way in 2026; a national one in service is 
 
 ### Cameroon: Unplaced
 
-Nothing held since 2023 names a national health information system, so no stage is set.
+Nothing found since 2023 names a national health information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a health information system is under way or in service.
+Not established: Nothing found since October 2023 says whether a health information system is under way or in service.
 
 ### South Africa: Unplaced
 
-Nothing held since 2023 names a national health information system, so no stage is set.
+Nothing found since 2023 names a national health information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a health information system is under way or in service.
+Not established: Nothing found since October 2023 says whether a health information system is under way or in service.
 
 ### Algeria: No evidence
 
-Nothing held names a national health information system or says there is none, so no stage is set.
+Nothing found names a national health information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether health reporting runs through a national information system.
+Not established: Nothing found says whether health reporting runs through a national information system.
 
 ### Eswatini: No evidence
 
-Nothing held names a national health information system or says there is none, so no stage is set.
+Nothing found names a national health information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether health reporting runs through a national information system.
+Not established: Nothing found says whether health reporting runs through a national information system.
 
 ### Mauritius: No evidence
 
-Nothing held names a national health information system or says there is none, so no stage is set.
+Nothing found names a national health information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether health reporting runs through a national information system.
+Not established: Nothing found says whether health reporting runs through a national information system.
 
 ### Seychelles: No evidence
 
-Nothing held names a national health information system or says there is none, so no stage is set.
+Nothing found names a national health information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether health reporting runs through a national information system.
+Not established: Nothing found says whether health reporting runs through a national information system.
 
 ### Tunisia: No evidence
 
-Nothing held names a national health information system or says there is none, so no stage is set.
+Nothing found names a national health information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether health reporting runs through a national information system.
+Not established: Nothing found says whether health reporting runs through a national information system.

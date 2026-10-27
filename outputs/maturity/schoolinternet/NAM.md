@@ -6,6 +6,6 @@
 
 **Digital skills in the curriculum.** [The NIED Information and Communication Syllabus (Grade 8 & 9) states the subject is "compulsory, non-promotional (but assessable)" for Grades 4-12, covering digital, media and information literacy, implemented in Grade 8 in 2025 and Grade 9 in 2026](<https://www.nied.edu.na/assets/documents/02Syllabuses/04JuniorSecondary/InformationandCommunication/JSInformationandCommunicationSyllabusDecember2025.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

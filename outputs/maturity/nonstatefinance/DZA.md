@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** None is held; Algeria's government [committed USD 1 billion in October 2025](<https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups>) to a financing fund for African start-ups.
 
-***Noted, not assessed***. The [African Startup and Young Innovators Financing Fund](<https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups>), announced by Algeria's Minister of Foreign Trade and Export Promotion.
+***Also on file***. The [African Startup and Young Innovators Financing Fund](<https://weetracker.com/2025/10/27/algeria-goes-continental-with-usd-1-b-to-support-african-startups>), announced by Algeria's Minister of Foreign Trade and Export Promotion.
 
-***Not held***. Every amount held from 2024 on was signed or started in the same year. 
+***Not found***. Every amount held from 2024 on was signed or started in the same year. 

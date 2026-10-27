@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest held fact on use is the promulgation itself. ANADEN states that the President promulgated the [Penal Code](<https://anaden.org/actualites/anaden-information-les-avancees-sur-le-code-numerique>) by decree on 16 February 2021, with its cybercrime offences in articles 449 to 505. The same source gives the Penal Code as the first step, with a specific cybersecurity law and a digital code to follow. It records no case brought under these articles.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

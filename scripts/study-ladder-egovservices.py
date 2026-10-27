@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "egovservices"
 SUB = "eservices"
-GAPS = {'4': 'No source held since October 2023 gives users, applications or transactions through the national portal.', '3': "No source held since October 2023 says one national portal carries several ministries' services with shared sign-in.", '2': 'No source held since October 2023 says: are ten or more services online.', '1': 'No source held since October 2023 says: are government services going online.', '5': ''}
-EMPTY = 'Nothing held says whether government services can be used online.'
-UNPLACED = 'Nothing held since October 2023 says whether government services can be used online.'
+GAPS = {'4': 'No source found since October 2023 gives users, applications or transactions through the national portal.', '3': "No source found since October 2023 says one national portal carries several ministries' services with shared sign-in.", '2': 'No source found since October 2023 says: are ten or more services online.', '1': 'No source found since October 2023 says: are government services going online.', '5': ''}
+EMPTY = 'Nothing found says whether government services can be used online.'
+UNPLACED = 'Nothing found since October 2023 says whether government services can be used online.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

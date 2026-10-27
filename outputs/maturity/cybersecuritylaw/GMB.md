@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest held fact is the penalty the [Act's offences](<https://www.wipo.int/wipolex/en/legislation/details/10478>) carry: unauthorised access to computer data is punishable by a fine of 200,000 dalasis or up to five years' imprisonment, or both. Separately, The Gambia signed the [African Union Convention on Cyber Security and Personal Data Protection](<https://mocde.gov.gm/3189-2/>) on 2 December 2022, a continental treaty covering both subjects.
 
-***Noted, not assessed***. [African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)](<https://mocde.gov.gm/3189-2/>).
+***Also on file***. [African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention)](<https://mocde.gov.gm/3189-2/>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years.

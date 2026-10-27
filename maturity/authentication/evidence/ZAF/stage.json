@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZAF-002;ZAF-013;ZAF-007",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
       "note": "Rebuild: Home Affairs verification is used by banks, mobile operators, insurers, SASSA and the justice cluster (ZAF-002, ZAF-013). The MyMzansi credential is a prototype (ZAF-017).",
       "as_at": "2026-10-22"
     }

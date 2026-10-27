@@ -6,8 +6,8 @@
 
 **Regional system.** [UBA Guinée integrated PAPSS from 9 September 2024, letting its clients make cross-border payments in local currencies across participating African countries](<https://www.guinee360.com/10/09/2024/uba-guinee-adopte-le-papss-une-nouvelle-ere-pour-les-transactions-financieres-en-afrique-2/>).
 
-**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.guinee360.com/10/09/2024/uba-guinee-adopte-le-papss-une-nouvelle-ere-pour-les-transactions-financieres-en-afrique-2/>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.guinee360.com/10/09/2024/uba-guinee-adopte-le-papss-une-nouvelle-ere-pour-les-transactions-financieres-en-afrique-2/>).
 
-***Noted, not assessed***. [PAPSS](<https://www.ecofinagency.com/news-digital/2807-57779-guinea-launches-nimbapay-its-national-instant-payment-system>).
+***Also on file***. [PAPSS](<https://www.ecofinagency.com/news-digital/2807-57779-guinea-launches-nimbapay-its-national-instant-payment-system>).
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

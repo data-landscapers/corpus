@@ -6,8 +6,8 @@
 
 **AI computing.** [LesEco says the Sovereign Meeting Assistant was trained on Moroccan GPUs](<https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html>).
 
-**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named users.
+***Not found***. No source found since October 2023 says national AI computing, models or datasets are open to named users.

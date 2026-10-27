@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** With [no provider licensed](<https://maurinews.info/news-reports/95535/>), there is nothing to count. Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. [BRAINSAT](<https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite>).
+***Also on file***. [BRAINSAT](<https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

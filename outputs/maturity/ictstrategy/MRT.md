@@ -16,6 +16,6 @@
 
 **Last twelve months.** The ministry's account of the declaration [dates from April 2019](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/bsg/2019040405/Documents/Presentation%204.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The text of the declaration is not held. Nothing gives its period, a delivery plan, a report against it, a mandated body or a budget line, and nothing on it is dated after April 2019.
+***Not found***. The text of the declaration is not held. Nothing gives its period, a delivery plan, a report against it, a mandated body or a budget line, and nothing on it is dated after April 2019.

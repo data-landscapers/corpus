@@ -118,7 +118,7 @@ def rung(v: dict) -> tuple[str, str]:
         return study_lib.UNPLACED, "only sectoral or constitutional provisions are held"
     if v["application"] or v["authority"] or v["regulations"]:
         return study_lib.UNPLACED, "no standing stated for the law"
-    return study_lib.NO_EVIDENCE, "nothing held on a data protection law"
+    return study_lib.NO_EVIDENCE, "nothing found on a data protection law"
 
 
 def main(argv=None) -> int:

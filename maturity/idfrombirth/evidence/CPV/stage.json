@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "CPV-002",
-   "gaps": "No source held since October 2023 puts birth registration at all births and deaths at 80% or more.",
+   "gaps": "No source found since October 2023 puts birth registration at all births and deaths at 80% or more.",
    "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
   }
  ]

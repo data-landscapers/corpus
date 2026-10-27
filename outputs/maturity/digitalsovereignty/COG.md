@@ -6,8 +6,8 @@
 
 **Hosted nationally.** [The ministry's programme page says the Data Center National hosts, stores and backs up critical data and applications of public institutions on Congolese soil](<https://numerique.gouv.cg/actualites/data-center-national>).
 
-**Contract terms.** No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://numerique.gouv.cg/actualites/data-center-national>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://numerique.gouv.cg/actualites/data-center-national>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.

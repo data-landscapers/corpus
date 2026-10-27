@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** No law on AI is in force. The only draft held, the [Pro-Human Technology Bill](<https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill>), is a private member's bill that covers AI together with other technologies, among them its use in employment and education. It was presented to Assembly members in March 2024, has not reached the Assembly, and is expected to go to an Assembly working group.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a law, decree or regulation that sets a rule for AI is in force.
+***Not found***. No source found says a law, decree or regulation that sets a rule for AI is in force.

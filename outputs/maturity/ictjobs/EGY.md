@@ -6,6 +6,6 @@
 
 **Youth unemployment.** Youth unemployment is asked about only once information and communication employs 1 per cent of workers, so with [the figure below that line](<https://ilostat.ilo.org/data/>) none was looked for in this first pass.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure of 1 per cent of employment or more is held.
+***Not found***. No figure of 1 per cent of employment or more has been found.

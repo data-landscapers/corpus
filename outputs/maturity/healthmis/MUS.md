@@ -2,6 +2,6 @@
 
 ## Health information system
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether health reporting runs through a national information system.
+***Not found***. Nothing found says whether health reporting runs through a national information system.

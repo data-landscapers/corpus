@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-005;SEN-008;SEN-004",
-      "gaps": "No source held gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
+      "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
       "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
       "as_at": "2026-10-17"
     }

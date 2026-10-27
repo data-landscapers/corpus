@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no law or regulation specific to AI in January 2026](<https://www.unesco.org/ethics-ai/en/saotomeeprincipe>), there is no general AI law to apply. The profile and [the readiness assessment](<https://unesdoc.unesco.org/ark:/48223/pf0000394953>) both treat the data protection law and its authority as the nearest rules the country has, and neither records a rule for one sector or one use that names AI.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. 
+***Not found***. 

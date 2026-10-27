@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The same ITWeb Africa report of 9 September 2026 says [the ODPC, through Data Commissioner Immaculate Kassait, has issued guidance on cross-border data transfers](<https://www.itweb.africa/article/kenya-tightens-cross-border-data-transfer-rules/WnpNgq21y6kMVrGd>). That guidance covers [the conditions for lawful transfer, the safeguards required and the mechanisms for adequate protection](<https://www.itweb.africa/article/kenya-tightens-cross-border-data-transfer-rules/WnpNgq21y6kMVrGd>). A controller or processor in Kenya therefore has published guidance from the data protection authority on how to meet the rule before sending personal data abroad, and the report presents it as the authority's own statement of the safeguards expected.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.
+***Not found***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.

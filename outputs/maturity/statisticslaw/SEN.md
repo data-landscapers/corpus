@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** Rules have been made under the law. A regional inventory of statistics laws lists [decree n° 2248 of 23 May 2005, setting the organisation and operating rules of the national statistics council and the technical committee on statistical programmes](<https://www.afristat.org/lois-statistiques-des-etats-membres/>). It also lists [two orders of 4 March 2020 on the statistical visa for censuses and surveys, the first taken under the law as amended in 2012](<https://www.afristat.org/lois-statistiques-des-etats-membres/>). The 2020 orders fall outside the last three years, and nothing later is held.
 
-***Noted, not assessed***. [National statistical development strategy 2024-2028](<https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/>).
+***Also on file***. [National statistical development strategy 2024-2028](<https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/>).
 
-***Not held***. No source held dates an act done under the law in the last three years.
+***Not found***. No source found dates an act done under the law in the last three years.

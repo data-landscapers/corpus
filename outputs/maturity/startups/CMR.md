@@ -6,8 +6,8 @@
 
 **Labelling.** [Dayspring Law Firm states start-ups must be approved by state-approved management centres, usually business incubators, before they can benefit from the tax incentives](<https://dayspringlaw.com/tax-incentives-for-innovative-startups-in-the-digital-industry/>).
 
-**Funded.** No source held since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://nkafu.org/wp-content/uploads/2023/12/SBEC-Report-english-Oct-2023-final-1.pdf>).
+**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://nkafu.org/wp-content/uploads/2023/12/SBEC-Report-english-Oct-2023-final-1.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: is a startup law or strategy adopted.
+***Not found***. No source found since October 2023 says: is a startup law or strategy adopted.

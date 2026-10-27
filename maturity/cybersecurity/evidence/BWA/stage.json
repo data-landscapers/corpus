@@ -11,8 +11,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BWA-002;BWA-007",
-      "gaps": "No source held says the country designated its critical information infrastructure or bound the operators of critical systems to report incidents to the national body.",
-      "note": "The national CSIRT issued a public alert on 23 October 2026. No designation of critical information infrastructure is held.",
+      "gaps": "No source found says the country designated its critical information infrastructure or bound the operators of critical systems to report incidents to the national body.",
+      "note": "The national CSIRT issued a public alert on 23 October 2026. No designation of critical information infrastructure has been found.",
       "as_at": "2026-10-26"
     }
   ]

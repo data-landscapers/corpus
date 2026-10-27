@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is the 2021 amendment itself. [The law of 20 May 2021](<https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf>) changes the 2007 statute on how the national statistical system is organised, and names the national committee on statistical information and its technical committee as the system's bodies. It was made by parliament and is a change to the law, so it is counted as the law in force.
 
-***Noted, not assessed***. [Système Statistique National (SSN)](<https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf>); [Comité National de l'Information Statistique (CNIS)](<https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf>); [Comité Technique de l'Information Statistique (CTIS)](<https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf>).
+***Also on file***. [Système Statistique National (SSN)](<https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf>); [Comité National de l'Information Statistique (CNIS)](<https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf>); [Comité Technique de l'Information Statistique (CTIS)](<https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

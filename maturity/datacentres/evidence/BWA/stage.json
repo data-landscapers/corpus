@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "BWA-004;BWA-008",
-   "gaps": "No source held says a global cloud provider sells its services from a cloud region in the country.",
+   "gaps": "No source found says a global cloud provider sells its services from a cloud region in the country.",
    "note": "Counted from the four questions by study-ladder-datacentres.py."
   }
  ]

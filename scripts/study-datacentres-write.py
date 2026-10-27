@@ -27,6 +27,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "datacentres"
@@ -53,7 +54,7 @@ RESTS = {
     "3": "These place a data centre for hire at Tier III or above in service, which answers the "
          "first two of the study's four questions. A second at Tier III is not stated.",
     "2": "These place a data centre for hire in service, which answers the first of the study's "
-         "four questions. No source held states one at Tier III or above: built so that power "
+         "four questions. No source found states one at Tier III or above: built so that power "
          "and cooling can be maintained without shutting the data centre down, as the Uptime "
          "Institute defines it.",
     "1": "A dated statement that no data centre in the country rents space or computing to "
@@ -66,7 +67,7 @@ SHORT = {
     "5": "Two data centres for hire at Tier III or above by {y}, and a global cloud region in the country.",
     "4": "Two data centres for hire at Tier III or above in service by {y}.",
     "3": "A data centre for hire at Tier III or above in service by {y}; no second one held.",
-    "2": "A data centre for hire in service by {y}, none held at Tier III or above.",
+    "2": "A data centre for hire in service by {y}, none found at Tier III or above.",
     "1": "A {y} source says no data centre in the country rents space or computing to others.",
 }
 
@@ -131,7 +132,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         if not said and cell["stage"] == "1":
             said = [f"With {link(top['url'], 'no data centre for hire')}, there is no region."]
         elif not said:
-            said = [f"Nothing held says a global cloud provider runs a region beside "
+            said = [f"Nothing found says a global cloud provider runs a region beside "
                     f"{link(top['url'], 'the data centres')}."]
         used = sum(len(s.split()) for s in said)
         body = sentences(routes, src, ROOM - used - len(RESTS[cell["stage"]].split()) - len(LENGTH.split()))
@@ -140,16 +141,16 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         top = next(r for r in rows if r["row_id"] == src[0])
         short = SHORT[cell["stage"]].format(y=top["as_of"][:4])
     else:
-        short = ("Nothing held says a data centre in the country rents space or computing to "
+        short = ("Nothing found says a data centre in the country rents space or computing to "
                  "others, or that none does, so no stage is set.")
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

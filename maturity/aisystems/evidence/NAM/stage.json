@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-001;NAM-003",
-      "gaps": "No source held since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
+      "gaps": "No source found since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
       "note": "The National AI Institute is to build Namibian datasets and a C-DAC PARAM cluster with a V100 GPU is to be deployed at NUST. Neither is stated in service.",
       "as_at": "2026-10-22"
     }

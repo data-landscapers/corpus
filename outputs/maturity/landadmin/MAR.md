@@ -2,6 +2,6 @@
 
 ## Land
 
-***Noted, not assessed***. [ANCFCC e-services](<https://www.ancfcc.gov.ma/chiffrecles/>).
+***Also on file***. [ANCFCC e-services](<https://www.ancfcc.gov.ma/chiffrecles/>).
 
-***Not held***. Nothing held since October 2023 says whether land transactions are processed electronically.
+***Not found***. Nothing found since October 2023 says whether land transactions are processed electronically.

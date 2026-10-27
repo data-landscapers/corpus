@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** As a draft, the trust services law was [presented to the National People's Assembly in December 2025](<https://www.elmoudjahid.dz/fr/actualite/le-projet-de-loi-sur-les-services-de-confiance-numeriques-a-l-apn-la-securite-des-systemes-d-information-nationaux-renforcee-244691>) to recognise electronic contracts and documents as equal to paper, create the ANCE authority and set sanctions. Since March 2026 the public procurement portal [signs documents electronically in line with law 26-02](<https://www.tsa-algerie.com/lalgerie-lance-un-portail-electronique-dedie-au-marches-publics/>), under a ministerial order made under the procurement law. For the e-commerce law, the [consumer-guidance organisation](<https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6>) describes sellers operating without its obligations.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decree, regulation or order made under the law is named.
+***Not found***. No decree, regulation or order made under the law is named.

@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [Internet Society Pulse, from PeeringDB, lists Paratus Africa, registered in Mauritius, as a member of the Windhoek Internet Exchange Point alongside Namibian members (Packet Clearing House's US-registered networks also appear)](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/368/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a global content network has a cache at the exchange or peers there.
+***Not found***. No source found says a global content network has a cache at the exchange or peers there.

@@ -2,6 +2,6 @@
 
 ## Off-site backup for government systems
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a backup site for government systems, or says there is none.
+***Not found***. Nothing found names a backup site for government systems, or says there is none.

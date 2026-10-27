@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MLI-002;MLI-001",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "RobotsMali released Bambara speech datasets and open models, used in its own An Be Kalan app. No AI computing in the country is held, and no outside user is named.",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "RobotsMali released Bambara speech datasets and open models, used in its own An Be Kalan app. No AI computing in the country has been found, and no outside user is named.",
       "as_at": "2026-10-22"
     }
   ]

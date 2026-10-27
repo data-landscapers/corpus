@@ -6,6 +6,6 @@
 
 **Standards required and checked.** [The same project page](<https://www.expertisefrance.fr/en/projects/digital-transformation-botswana>) describes the work as under way. The project has until August 2027 to deliver the harmonised framework for e-government services that it lists as its expected result, together with the standards, guidelines and tools aligned to it.
 
-***Noted, not assessed***. [Framework for Secure Exchange of Information](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf>), an interoperability framework that no source held says sets technical standards.
+***Also on file***. [Framework for Secure Exchange of Information](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf>), an interoperability framework that no source found says sets technical standards.
 
-***Not held***. No source held says the standards have been published.
+***Not found***. No source found says the standards have been published.

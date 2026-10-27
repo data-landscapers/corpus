@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "authentication"
 SUB = "authentication"
-GAPS = {'4': 'No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.', '3': 'No source held since October 2023 says authentication is used across services or channels.', '2': 'No source held since October 2023 says: is one in service.', '1': 'No source held since October 2023 says: is an authentication service under way.', '5': ''}
-EMPTY = 'Nothing held names a digital authentication service, or says there is none.'
-UNPLACED = 'Nothing held since October 2023 names a digital authentication service.'
+GAPS = {'4': 'No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.', '3': 'No source found since October 2023 says authentication is used across services or channels.', '2': 'No source found since October 2023 says: is one in service.', '1': 'No source found since October 2023 says: is an authentication service under way.', '5': ''}
+EMPTY = 'Nothing found names a digital authentication service, or says there is none.'
+UNPLACED = 'Nothing found since October 2023 names a digital authentication service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

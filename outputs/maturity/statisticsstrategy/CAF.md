@@ -6,8 +6,8 @@
 
 **Progress reviewed.** [ICASEES held a workshop on 7-9 October 2026 in Bangui, with members of the statistical programming committee (CTPAS), to review implementation of SNDS2 2024-2028 at mid-term against its commitments, funded by UNDP](<https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique>).
 
-**Evaluated.** No source held reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: [ICASEES refers to the second national statistics development strategy (SNDS II) as being implemented in June 2026](<https://www.icasees.org/index.php/actualites/361-icasees-validation-du-plan-de-renforcement-des-capacites-des-cadres-du-systeme-statistique-national>).
+**Evaluated.** No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: [ICASEES refers to the second national statistics development strategy (SNDS II) as being implemented in June 2026](<https://www.icasees.org/index.php/actualites/361-icasees-validation-du-plan-de-renforcement-des-capacites-des-cadres-du-systeme-statistique-national>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held dates a review of progress on the strategy in the last three years.
+***Not found***. No source found dates a review of progress on the strategy in the last three years.

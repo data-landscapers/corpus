@@ -6,6 +6,6 @@
 
 **Certification.** The same [member page](<https://www.iso.org/member/1623.html>) gives the body a certifying role in general terms and names no certification against a standard on information technology or data. The nearest held fact is the [ISO 27001 certification of ST DIGITAL](<https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526>), a private pan-African data centre operator, reported on 3 March 2026. It is a private company's certificate, and no public body in Cameroon is recorded as certified.
 
-***Noted, not assessed***. [ISO 27001 certification of ST DIGITAL](<https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526>).
+***Also on file***. [ISO 27001 certification of ST DIGITAL](<https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

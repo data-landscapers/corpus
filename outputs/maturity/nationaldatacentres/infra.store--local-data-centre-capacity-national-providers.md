@@ -221,150 +221,150 @@ A nationally owned data centre for hire at Tier III or above by 2026; no second 
 
 ### Angola: 2 Nascent
 
-A nationally owned data centre for hire in service by 2022, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2022, none found at Tier III or above.
 
 - Angola Cables' 2022 commercial catalogue lists the AngoNAP data centre in Luanda, with hosting services (Host2Africa, Clouds2Africa) sold to customers; the document gives no opening date, so as_of is its published date 2022-11 ([source, 2022-11](https://pages.angolacables.com/wp-content/uploads/2022/11/Catalogue-Commercial-2022.pdf)).
 
 ### Benin: 2 Nascent
 
-A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
 
 - An ASIN official says Benin has several data centres, including one operated commercially by the Société béninoise des infrastructures numériques (SBIN); the article gives no opening date and is dated 2026-04-14 ([source, 2026-04](https://cio-mag.com/souverainete-et-cloud-le-benin-face-aux-enjeux-de-lhebergement-des-donnees/)).
 
 ### Burundi: 2 Nascent
 
-A nationally owned data centre for hire in service by 2020, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2020, none found at Tier III or above.
 
 - The World Bank reports that Burundi Backbone System (BBS) has one level-3 data center, built at a cost of USD 2 million, which it uses to offer hosting to customers and which other public agencies use to back up their systems; the report gives no opening date, so as_of is the report's 2020 publication date ([source, 2020](https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf)).
 
 ### Comoros: 2 Nascent
 
-A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
 
 - Comores Câbles states that its data centre offers secure, scalable data-management and hosting solutions to businesses of all sizes (99.9% availability, 10 Gbps data centre bandwidth); the same page says a separate neutral data centre is still under construction. Undated page, dated by proxy to 2026 ([source, 2026](https://www.comorescables.km/Technologies)).
 
 ### Cote d'Ivoire: 2 Nascent
 
-A nationally owned data centre for hire in service by 2016, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2016, none found at Tier III or above.
 
 - The VITIB free zone at Grand-Bassam (operational) has a data centre to international standards that lets companies worldwide host IT equipment and data (1,050 kVA generator, 3 fibre links); the sheet gives no opening date, so the date is its February 2016 publication ([source, 2016-02](https://observatoire-europe-afrique-2030.org/wp-content/uploads/2016/02/ZF-VITIB-Cote_Ivoire.pdf)).
 
 ### Equatorial Guinea: 2 Nascent
 
-A nationally owned data centre for hire in service by 2025, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2025, none found at Tier III or above.
 
 - Data centres dataset: Sipopo Datacenter (GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)), colocation/carrier-neutral, in service; this document names it (published 2025-07-01) ([source, 2025-07-01](https://gitge.com/wp-content/uploads/2025/07/PRESENTACION-6.pdf)).
 
 ### Eritrea: 2 Nascent
 
-A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
 
 - Eritel Telecom Corporation's own service page offers paid Eritel Nextcloud private-cloud subscriptions (Silver, Gold and Platinum tiers, 100 to 500 GB, with monthly charges in nakfa and a 90% uptime SLA) that it says are completely hosted in Eritel's Datacenters, so an operator data centre in Eritrea is selling hosting to outside customers; the page names no individual facility and gives no date, so as_of is the page's published date 2026-08-31 ([source, 2026-08-31](https://eritel.com.er/contents.php?id=1046)).
 
 ### Ghana: 2 Nascent
 
-A nationally owned data centre for hire in service by 2016, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2016, none found at Tier III or above.
 
 - DatacenterDynamics reports that Ghana's National Data Centre, a three-hall facility with a primary site in Accra (600 racks) and a replica at KNUST Kumasi, built by NITA with Alcatel and Huawei Technologies Ghana, was opened in the week of publication and provides colocation space for private enterprise as well as government hosting ([source, 2016-01](https://www.datacenterdynamics.com/en/news/ghana-government-opens-data-center-to-private-business/)).
 
 ### Liberia: 2 Nascent
 
-A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
 
 - Data centres dataset: LTC Mobile National Data Centre (Liberia Telecommunications Corporation (LTC Mobile)), colocation/carrier-neutral, in service; this document names it (published 2026-03-01) ([source, 2026-03-01](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf)).
 
 ### Madagascar: 2 Nascent
 
-A nationally owned data centre for hire in service by 2025, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2025, none found at Tier III or above.
 
 - STELLARIX offers colocation (1U to full 42U racks, carrier-neutral, Smart Hands) from two data centres in Antananarivo, Galaxy Andraharo and Analakely, advertised at 99.982% availability; the page has no publication date, so as_of is the capture date 2025-12-11 ([source, 2025-12-11](https://www.stellar-ix.com/solutions/colocation/housing/)).
 
 ### Rwanda: 2 Nascent
 
-A nationally owned data centre for hire in service by 2025, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2025, none found at Tier III or above.
 
 - TransAfrica Communications (TrAC), a Rwanda-based ISP, is stated to offer data centre collocation services to customers (no facility named, no tier given); the release is undated, so as_of is its July 2025 month ([source, 2025-07](https://aka-partners.com/insight-and-news/)).
 
 ### Somalia: 2 Nascent
 
-A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
 
 - Dalkom Somalia says it offers colocation hosting to business customers from its own data centre in Mogadishu ([source, 2026-10-16](https://www.dalkomsomalia.com/managed-national.php?id=187)).
 
 ### South Sudan: 2 Nascent
 
-A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
 
 - Trinity Technologies Limited operates a Tier 2 datacentre in Hai Malakal, Juba, offering colocation and hosting to business customers; the page is undated, so the 2026-08-29 publication date is used ([source, 2026-08-29](https://trinitytechnologies.tech/about.html)).
 
 ### Tanzania: 2 Nascent
 
-A nationally owned data centre for hire in service by 2026, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2026, none found at Tier III or above.
 
 - TTCL's National Internet Data Centre (NIDC) offers cloud computing, virtual server and colocation services to businesses and public institutions, as briefed to Zanzibar's president at the Kizimkazi Festival 2026; the document gives no opening date, so as_of is its publication date, 2026-08-24 ([source, 2026-08-24](https://techafricanews.com/2026/08/24/tanzania-president-mwinyi-reviews-ttcl-digital-connectivity-zanzibar/)).
 
 ### Uganda: 2 Nascent
 
-A nationally owned data centre for hire in service by 2024, none held at Tier III or above.
+A nationally owned data centre for hire in service by 2024, none found at Tier III or above.
 
 - NITA-U's strategic plan reports the National Data Centre in operation, with an average uptime of 99.5% in FY2023/24, and NITA-U selling co-location and data centre services to MDAs, local governments and private clients (data centre services revenue UGX 2.54 billion forecast for FY2024/25) ([source, 2024](https://www.nita.go.ug/sites/default/files/2026-03/NITA-U%20Strategic%20Plan%20%28FY202425%E2%80%93FY202930%29.pdf)).
 
 ### Chad: Unplaced
 
-Nothing held says a data centre for hire in the country is nationally owned, so no stage is set.
+Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
 
-Not established: No source held says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
+Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 
 ### DR Congo: Unplaced
 
-Nothing held says a data centre for hire in the country is nationally owned, so no stage is set.
+Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
 
-Not established: No source held says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
+Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 
 ### Gabon: Unplaced
 
-Nothing held says a data centre for hire in the country is nationally owned, so no stage is set.
+Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
 
-Not established: No source held says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
+Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 
 ### Gambia: Unplaced
 
-Nothing held says a data centre for hire in the country is nationally owned, so no stage is set.
+Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
 
-Not established: No source held says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
+Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 
 ### Lesotho: Unplaced
 
-Nothing held says a data centre for hire in the country is nationally owned, so no stage is set.
+Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
 
-Not established: No source held says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
+Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 
 ### Mozambique: Unplaced
 
-Nothing held says a data centre for hire in the country is nationally owned, so no stage is set.
+Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
 
-Not established: No source held says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
+Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 
 ### Sao Tome and Principe: Unplaced
 
-Nothing held says a data centre for hire in the country is nationally owned, so no stage is set.
+Nothing found says a data centre for hire in the country is nationally owned, so no stage is set.
 
-Not established: No source held says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
+Not established: No source found says a data centre for hire in the country is nationally owned, and none dated in the last three years says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held says a data centre in the country rents space or computing to others, so no stage is set.
+Nothing found says a data centre in the country rents space or computing to others, so no stage is set.
 
-Not established: Nothing held names a data centre for hire, or says there is none.
+Not established: Nothing found names a data centre for hire, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held says a data centre in the country rents space or computing to others, so no stage is set.
+Nothing found says a data centre in the country rents space or computing to others, so no stage is set.
 
-Not established: Nothing held names a data centre for hire, or says there is none.
+Not established: Nothing found names a data centre for hire, or says there is none.
 
 ### Niger: No evidence
 
-Nothing held says a data centre in the country rents space or computing to others, so no stage is set.
+Nothing found says a data centre in the country rents space or computing to others, so no stage is set.
 
-Not established: Nothing held names a data centre for hire, or says there is none.
+Not established: Nothing found names a data centre for hire, or says there is none.

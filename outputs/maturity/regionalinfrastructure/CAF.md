@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The national fibre backbone [was inaugurated on 6 February 2023](<https://www.agenceecofin.com/infrastructures/0802-105283-inauguration-de-la-dorsale-optique-nationale-de-la-republique-centrafricaine-et-de-l-interconnexion-avec-le-congo>): 935 km of fibre on land and under rivers, joined to Cameroon at Gamboula and to Congo at Bomassa. The project [closed in September 2023](<https://www.afdb.org/fr/news-and-events/les-jeunes-centrafricains-formes-aux-metiers-du-numerique-grace-la-fibre-optique-installee-avec-lappui-de-la-banque-africaine-de-developpement-et-de-lunion-europeenne-69893>) with both cross-border links installed. The authorities [judged in May 2026](<https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique>) that reaching the sea cables through the networks of coastal neighbours had markedly improved speeds.
 
-***Noted, not assessed***. [GIMACPAY](<https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac>).
+***Also on file***. [GIMACPAY](<https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac>).
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

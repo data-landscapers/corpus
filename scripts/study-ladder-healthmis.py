@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "healthmis"
 SUB = "hmis"
-GAPS = {'4': "No source held since October 2023 gives the system's reporting completeness or timeliness.", '3': 'No source held since October 2023 says the system is linked to surveillance, supply chain or a register.', '2': 'No source held since October 2023 says: is a national one in service.', '1': 'No source held since October 2023 says: is a health information system under way.', '5': ''}
-EMPTY = 'Nothing held says whether health reporting runs through a national information system.'
-UNPLACED = 'Nothing held since October 2023 says whether a health information system is under way or in service.'
+GAPS = {'4': "No source found since October 2023 gives the system's reporting completeness or timeliness.", '3': 'No source found since October 2023 says the system is linked to surveillance, supply chain or a register.', '2': 'No source found since October 2023 says: is a national one in service.', '1': 'No source found since October 2023 says: is a health information system under way.', '5': ''}
+EMPTY = 'Nothing found says whether health reporting runs through a national information system.'
+UNPLACED = 'Nothing found since October 2023 says whether a health information system is under way or in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

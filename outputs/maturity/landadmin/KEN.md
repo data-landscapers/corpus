@@ -8,6 +8,6 @@
 
 **Linked to tax.** [Kenyans.co.ke lists stamp duty payments and land-rent payments among the services offered through ArdhiSasa](<https://www.kenyans.co.ke/news/127225-ardhisasa-goes-down-again-users-warned-disrupted-land-services>). [The State Department for Lands says stamp duty is assessed and paid digitally through the NSDM within ArdhiSasa via Ardhipay, with KES1.946 billion collected in two months](<https://lands.go.ke/state-department-lands-rolls-out-nsdm-countrywide-making-land-transactions-faster-and-transparent>).
 
-***Noted, not assessed***. [Ardhipay](<https://lands.go.ke/state-department-lands-rolls-out-nsdm-countrywide-making-land-transactions-faster-and-transparent>).
+***Also on file***. [Ardhipay](<https://lands.go.ke/state-department-lands-rolls-out-nsdm-countrywide-making-land-transactions-faster-and-transparent>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

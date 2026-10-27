@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SDN-001",
-   "gaps": "No source held since October 2023 says two health systems exchange data in routine use.",
+   "gaps": "No source found since October 2023 says two health systems exchange data in routine use.",
    "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
   }
  ]

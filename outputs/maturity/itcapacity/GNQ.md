@@ -6,10 +6,10 @@
 
 **A technology body for government.** [CNIAPGE, the national centre for computerising public administration, is rolling GEX out to the Primatura at the Prime Minister's request, with ministerial departments to follow](<https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/>).
 
-**Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/>).
+**Built in-house.** No source found says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/>).
 
-**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/>).
+**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://realequatorialguinea.com/destacado/cniapge-forma-a-funcionarios-de-la-primatura-en-el-uso-de-la-plataforma-de-gestion-de-expedientes/>).
 
-***Noted, not assessed***. [National video-surveillance system](<https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_huawei_concluyen_exitosamente_las_negociaciones_sobre_los_anexos_del_contrato>).
+***Also on file***. [National video-surveillance system](<https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_huawei_concluyen_exitosamente_las_negociaciones_sobre_los_anexos_del_contrato>).
 
-***Not held***. No source held says a system built by government staff went live since October 2023.
+***Not found***. No source found says a system built by government staff went live since October 2023.

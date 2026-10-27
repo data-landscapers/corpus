@@ -6,8 +6,8 @@
 
 **Deaths digital.** [The PReSE coordinator says the computerised civil-registry system covers deaths as well as births](<https://jornaleconomico.sapo.pt/noticias/sao-tome-e-principe-pronto-para-um-novo-sistema-de-recenseamento-eleitoral/>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://jornaleconomico.sapo.pt/noticias/sao-tome-e-principe-pronto-para-um-novo-sistema-de-recenseamento-eleitoral/>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://jornaleconomico.sapo.pt/noticias/sao-tome-e-principe-pronto-para-um-novo-sistema-de-recenseamento-eleitoral/>).
 
-***Noted, not assessed***. [MOSIP-based national digital ID pilot](<https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system>).
+***Also on file***. [MOSIP-based national digital ID pilot](<https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system>).
 
-***Not held***. No source held since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 puts birth registration at 90% or more.

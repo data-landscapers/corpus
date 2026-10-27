@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-002;NAM-001",
-      "gaps": "No source held since October 2023 says: is a service in use.",
+      "gaps": "No source found since October 2023 says: is a service in use.",
       "note": "Rebuild 2026-10-20: the 6th Grain crop-monitoring contract was cancelled, so stage 2 rests on the SASSCAL AgriWatch work and the new ground station, not on the contract.",
       "as_at": "2026-10-20"
     }

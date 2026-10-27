@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://ufla.co.ug/wp-content/uploads/2025/06/Final-Finscope-Uganda-2023-Survey.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No survey held since October 2023 puts adults with an account at 79% or more.
+***Not found***. No survey held since October 2023 puts adults with an account at 79% or more.

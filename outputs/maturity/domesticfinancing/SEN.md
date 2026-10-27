@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is the budget itself: [for 2026 it gives 31,915,316,171 CFA francs to 25 digital lines](<https://budget.sec.gouv.sn/documents/public_download/69556841-a9d4-4658-8c1e-fe230a2a028a/telechargement>), and [the Digital Ministry's 2026 budget of 81.06 billion CFA francs, 58.2 billion of it for investment](<https://www.ecofinagency.com/news-digital/0912-51246-senegal-allocates-60-of-2026-digital-ministry-budget-to-investment>).
 
-***Noted, not assessed***. [The New Deal Technologique, a national digital strategy](<https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2025/12/GSMA_Senegal-Report-05.12.2025.pdf>); [the FDSUT universal service fund, which runs the Programme d'Accès Numérique Universel](<https://fdsut.sn/panu-programme-dacces-numerique-universel/>).
+***Also on file***. [The New Deal Technologique, a national digital strategy](<https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2025/12/GSMA_Senegal-Report-05.12.2025.pdf>); [the FDSUT universal service fund, which runs the Programme d'Accès Numérique Universel](<https://fdsut.sn/panu-programme-dacces-numerique-universel/>).
 
-***Not held***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying in the last three years, and no government statement that digital transformation must be paid for at home.
+***Not found***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying in the last three years, and no government statement that digital transformation must be paid for at home.

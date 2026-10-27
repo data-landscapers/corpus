@@ -183,180 +183,180 @@ The government asked the public for views online in 2026; a standing online chan
 
 ### Ethiopia: Unplaced
 
-Nothing held since 2023 names online participation in making policy, so no stage is set.
+Nothing found since 2023 names online participation in making policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the government has asked the public for views online.
+Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
 
 ### Gabon: Unplaced
 
-Nothing held since 2023 names online participation in making policy, so no stage is set.
+Nothing found since 2023 names online participation in making policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the government has asked the public for views online.
+Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
 
 ### Guinea: Unplaced
 
-Nothing held since 2023 names online participation in making policy, so no stage is set.
+Nothing found since 2023 names online participation in making policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the government has asked the public for views online.
+Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
 
 ### Libya: Unplaced
 
-Nothing held since 2023 names online participation in making policy, so no stage is set.
+Nothing found since 2023 names online participation in making policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the government has asked the public for views online.
+Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
 
 ### Mauritania: Unplaced
 
-Nothing held since 2023 names online participation in making policy, so no stage is set.
+Nothing found since 2023 names online participation in making policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the government has asked the public for views online.
+Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
 
 ### Somalia: Unplaced
 
-Nothing held since 2023 names online participation in making policy, so no stage is set.
+Nothing found since 2023 names online participation in making policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the government has asked the public for views online.
+Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
 
 ### Algeria: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Benin: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Burkina Faso: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Burundi: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Cameroon: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Central African Republic: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Chad: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Comoros: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Congo: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Djibouti: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Egypt: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Eritrea: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Lesotho: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Mali: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Namibia: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Seychelles: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Sierra Leone: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### South Sudan: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Sudan: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Tanzania: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Togo: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Uganda: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.
 
 ### Zimbabwe: No evidence
 
-Nothing held names online participation in making policy or says there is none, so no stage is set.
+Nothing found names online participation in making policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public takes part in making policy online.
+Not established: Nothing found says whether the public takes part in making policy online.

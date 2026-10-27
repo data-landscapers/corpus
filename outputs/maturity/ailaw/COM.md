@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** The rule in force covers one use, [AI-generated content in the media](<https://www.cnpa-comores.org/un-nouveau-souffle-pour-le-cnpa/>), and sits in a code that governs the press and broadcasting. The same UNESCO assessment, reported by Al-watwan on 2 October 2026, finds [no AI-specific legal instrument and a framework that is mainly sectoral](<https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html>) rather than cross-sector.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a law on AI itself, applying across sectors, is in force.
+***Not found***. No source found says a law on AI itself, applying across sectors, is in force.

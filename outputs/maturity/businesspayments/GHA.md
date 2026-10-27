@@ -8,6 +8,6 @@
 
 **Use reported.** [The Authority says 5,048 contracts had been awarded in GHANEPS from 3,205 published tenders by 23 April 2024](<https://ppa.gov.gh/clarification-of-claims-made-by-mr-bright-simons/>). [Its board chairman said in October 2025 that utilisation of GHANEPS is about 45%](<https://icnghana.com/finance-ministry-reaffirms-commitment-to-transparent-procurement-ghaneps-to-become-mandatory-from-2026/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

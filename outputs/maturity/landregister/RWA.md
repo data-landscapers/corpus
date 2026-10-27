@@ -8,6 +8,6 @@
 
 **Online services.** [The Ministry of Environment says land transactions that need no notary are now fully online via Irembo and e-Titles can be downloaded at landinformation.lands.rw](<https://www.environment.gov.rw/news-detail/rwanda-launched-electronic-land-registration-certificate-system>).
 
-***Noted, not assessed***. [Irembo](<https://allafrica.com/stories/202602180018.html>); [Land dashboard](<https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf>); [LDMS](<https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf>); [Smart Nkunganire](<https://humanglemedia.com/nigerias-disharmonised-digital-system-leaving-low-income-farmers-behind/>).
+***Also on file***. [Irembo](<https://allafrica.com/stories/202602180018.html>); [Land dashboard](<https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf>); [LDMS](<https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf>); [Smart Nkunganire](<https://humanglemedia.com/nigerias-disharmonised-digital-system-leaving-low-income-farmers-behind/>).
 
-***Not held***. No source held since October 2023 says the digital land register covers the whole country.
+***Not found***. No source found since October 2023 says the digital land register covers the whole country.

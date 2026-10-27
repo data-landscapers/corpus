@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8>).
 
-***Noted, not assessed***. [CIPS](<https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/>).
+***Also on file***. [CIPS](<https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/>).
 
-***Not held***. No survey held since October 2023 puts adults with an account at 79% or more.
+***Not found***. No survey held since October 2023 puts adults with an account at 79% or more.

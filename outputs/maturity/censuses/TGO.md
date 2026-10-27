@@ -8,6 +8,6 @@
 
 **A household survey published.** [Detailed results of the second harmonised household living conditions survey (EHCVM-2, fieldwork 2021-2022) were presented with the RGPH-5 census results at a workshop chaired for the head of state on 13 December 2024](<https://archive.presidence.gouv.tg/2024/12/14/developpement-presentation-des-principaux-resultats-du-rgph-5-et-de-la-ehcvm-2/>).
 
-***Noted, not assessed***. [RNA-5](<https://inseed.tg/conseil-national-de-la-statistique-13e-session-ordinaire-le-togo-adopte-des-orientations-strategiques/>); [RGE-2](<https://inseed.tg/conseil-national-de-la-statistique-13e-session-ordinaire-le-togo-adopte-des-orientations-strategiques/>); [Annual school census (StatEduc)](<https://www.gpekix.org/blog/togo-empowering-schools-and-districts-data>); [RNA-5 (5th National Agricultural Census)](<https://thefarmersjournal.com/togos-farming-crisis-78-of-smallholders-live-without-land-security/>).
+***Also on file***. [RNA-5](<https://inseed.tg/conseil-national-de-la-statistique-13e-session-ordinaire-le-togo-adopte-des-orientations-strategiques/>); [RGE-2](<https://inseed.tg/conseil-national-de-la-statistique-13e-session-ordinaire-le-togo-adopte-des-orientations-strategiques/>); [Annual school census (StatEduc)](<https://www.gpekix.org/blog/togo-empowering-schools-and-districts-data>); [RNA-5 (5th National Agricultural Census)](<https://thefarmersjournal.com/togos-farming-crisis-78-of-smallholders-live-without-land-security/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

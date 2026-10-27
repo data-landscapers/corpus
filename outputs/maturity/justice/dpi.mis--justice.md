@@ -56,53 +56,53 @@ Court judgments or case status were open online in 2026.
 
 ### Benin: 4 Operating
 
-Cases could be filed with the courts online in 2026; judgments or case status open online are not known.
+Cases could be filed with the courts online in 2026; no source found reports judgments or case status open online.
 
 - La Marina BJ reports that from 16 February 2026 requests and fee payments for three filings at the Cotonou Commercial Court are made exclusively online, with copies of rulings to follow from 1 March 2026 ([source, 2026-02-16](https://lamarina.bj/2026/02/13/benin-trois-nouveaux-e-services-desormais-operationnels-au-tribunal-de-commerce-de-cotonou/)).
 
 ### Gambia: 4 Operating
 
-Cases could be filed with the courts online in 2024; judgments or case status open online are not known.
+Cases could be filed with the courts online in 2024; no source found reports judgments or case status open online.
 
 - The NHRC's 2024 report says the Judiciary's Case Management System includes e-filing ([source, 2024](https://foroyaa.net/government-urged-to-expand-automated-transcription-system-in-courts/)).
 
 ### Kenya: 4 Operating
 
-Cases could be filed with the courts online in 2024; judgments or case status open online are not known.
+Cases could be filed with the courts online in 2024; no source found reports judgments or case status open online.
 
 - The Judiciary of Kenya's SOJAR 2023-24 says the e-filing system, piloted in Nairobi courts in July 2020, was rolled out to all courts nationwide in March 2024, letting court users file documents from their computers, with user accounts rising from 7,152 to 51,729 ([source, 2024-03](https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf)).
 - The Judiciary of Kenya launched e-filing in all courts nationwide on 11 March 2024, extending it from 17 counties to the other 34, so litigants can file cases online at any hour ([source, 2024-03-11](https://judiciary.go.ke/judiciary-launches-e-filing-in-all-courts-data-tracking-dashboard-and-causelist-portal-portal/)).
 
 ### Morocco: 4 Operating
 
-Cases could be filed with the courts online in 2025; judgments or case status open online are not known.
+Cases could be filed with the courts online in 2025; no source found reports judgments or case status open online.
 
 - Morocco's justice minister says lawyers can now file requests, briefs and appeal acts through a dedicated platform ([source, 2025-01](https://telquel.ma/instant-t/2025/01/30/justice-voici-les-grandes-lignes-du-projet-du-dossier-judiciaire-electronique_1915535/)).
 
 ### Rwanda: 4 Operating
 
-Cases could be filed with the courts online in 2026; online publication of decisions or case status is not known.
+Cases could be filed with the courts online in 2026; no source found reports online publication of decisions or case status.
 
 - The 13th Rwanda Governance Scorecard (RGB, 22 October 2026) scored electronic court filing services at 65.40% satisfaction, down 13.60 points on the previous assessment ([source, 2026-10-22](https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/)).
 - The New Times reports that from January 2025 Rwanda's justice sector and its stakeholders will begin using an upgraded Integrated Electronic Case Management System (IECMS) ([source, 2025-01](https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system)).
 
 ### Seychelles: 4 Operating
 
-Cases could be filed with the courts online in 2025; judgments or case status open online are not known.
+Cases could be filed with the courts online in 2025; no source found reports judgments or case status open online.
 
 - The Seychelles Judiciary launched its e-Service Platform, phase one, letting legal practitioners file written submissions and upload documents online, with card payment and digital receipts; built by vendor Switch ([source, 2025-11-26](https://www.judiciary.sc/news/judiciary-launches-new-e-service-platform-to-streamline-access-to-justice/)).
 - Chief Justice Govinden's Electronic Filing of Written Submissions (Civil Matters) Rules, 2025 (S.I. 72) let legal practitioners and parties file written submissions in civil cases before the Supreme Court electronically via a designated online platform or the Court's email address; commencement date is left blank in the gazetted text ([source, 2025-09-15](https://www.nationalassembly.sc/sites/default/files/2025-11/SI%2072%202025%20-%20Electronic%20Filing%20of%20Written%20Submissions%20%28Civil%20Matters%29%20Regulations%202025_0.pdf)).
 
 ### South Africa: 4 Operating
 
-Cases could be filed with the courts online in 2026; judgments or case status open online are not known.
+Cases could be filed with the courts online in 2026; no source found reports judgments or case status open online.
 
 - The directive requires process to be uploaded for issuing on Court Online and supporting documents uploaded once the case number is allocated, by legal practitioners and litigants ([source, 2026-06](https://www.judiciary.org.za/images/Directives/Directives_2026/KZN%20Court%20Online%20Directives%20(Final%20June%202026).pdf)).
 - Nel said Court Online, now live for the Eastern Cape High Court, is powered by Microsoft for e-filing and case management ([source, 2025-07-16](https://justice.gov.za/m_speeches/2025/20250716-CourtOnline-DMin.html)).
 
 ### Tanzania: 4 Operating
 
-Courts run electronic case management and litigants can file online (2026); public case look-up is not known.
+Courts run electronic case management and litigants can file online (2026); no source found reports public case look-up.
 
 - Chief Court Administrator Elisante Ole Gabriel said litigants can now file cases online from anywhere and track case progress ([source, 2026-02-19](https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/)).
 - Chief Court Administrator Elisante Ole Gabriel said the judiciary's electronic case management system is gradually phasing out paper-based files, and is being expanded ([source, 2026-02-19](https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/)).
@@ -270,96 +270,96 @@ A court case management system was under way in 2025; none in service is on reco
 
 ### Burundi: Unplaced
 
-Nothing held since 2023 names a court case management system, so no stage is set.
+Nothing found since 2023 names a court case management system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether courts manage cases electronically.
+Not established: Nothing found since October 2023 says whether courts manage cases electronically.
 
 ### Cameroon: Unplaced
 
-Nothing held since 2023 names a court case management system, so no stage is set.
+Nothing found since 2023 names a court case management system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether courts manage cases electronically.
+Not established: Nothing found since October 2023 says whether courts manage cases electronically.
 
 ### Eritrea: Unplaced
 
-Nothing held since 2023 names a court case management system, so no stage is set.
+Nothing found since 2023 names a court case management system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether courts manage cases electronically.
+Not established: Nothing found since October 2023 says whether courts manage cases electronically.
 
 ### Mauritius: Unplaced
 
-Nothing held since 2023 names a court case management system, so no stage is set.
+Nothing found since 2023 names a court case management system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether courts manage cases electronically.
+Not established: Nothing found since October 2023 says whether courts manage cases electronically.
 
 ### Sierra Leone: Unplaced
 
-Nothing held since 2023 names a court case management system, so no stage is set.
+Nothing found since 2023 names a court case management system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether courts manage cases electronically.
+Not established: Nothing found since October 2023 says whether courts manage cases electronically.
 
 ### Sudan: Unplaced
 
-Nothing held since 2023 names a court case management system, so no stage is set.
+Nothing found since 2023 names a court case management system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether courts manage cases electronically.
+Not established: Nothing found since October 2023 says whether courts manage cases electronically.
 
 ### Central African Republic: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### Comoros: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### Congo: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### Gabon: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### Libya: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### Mauritania: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### Mozambique: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### Niger: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.
 
 ### South Sudan: No evidence
 
-Nothing held names a court case management system or says there is none, so no stage is set.
+Nothing found names a court case management system or says there is none, so no stage is set.
 
-Not established: Nothing held says how courts manage their cases.
+Not established: Nothing found says how courts manage their cases.

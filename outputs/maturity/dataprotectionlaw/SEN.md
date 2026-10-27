@@ -12,6 +12,6 @@
 
 **Last twelve months.** The CDP [relaunched the updating of the law at a two-day workshop at Saly, reported in July 2026, with the ministry committed to finalising the draft law and decree](<https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/>). In March 2026 [an expert said a bill was reported to be in the circuit and that the National Assembly must vote it](<https://aps.sn/donnees-personnelles-la-legislation-senegalaise-doit-etre-modernisee-et-adaptee-aux-enjeux-de-lia-expert/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any regulation is in force under Law no. 2008-12 is not stated. How far the bill to replace the law has got is not stated either.
+***Not found***. Whether any regulation is in force under Law no. 2008-12 is not stated. How far the bill to replace the law has got is not stated either.

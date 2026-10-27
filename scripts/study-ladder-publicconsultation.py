@@ -93,7 +93,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     blank = {"hearing": "", "standing": "", "sources": []}
     if not rows:
         return {"stage": "no evidence", **blank,
-                "gaps": "Nothing held says people outside government were asked for their views "
+                "gaps": "Nothing found says people outside government were asked for their views "
                         "on a digital law or policy, or that they were not."}
     if body:
         s, src = "5", body + required[:1] + answered[:1]

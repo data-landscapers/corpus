@@ -8,6 +8,6 @@
 
 **Enforcement reported.** [The bank's ranking put Afrimoney, a mobile money platform, at 1,138 complaints in the second quarter of 2025, up 180% on the first quarter, with Unitelmoney at 935 and Paypay at 453](<https://pti.ao/afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao-bancarias/>). [In the first quarter of 2024 Afrimoney drew 8,453 complaints about mobile banking, Unitel Money 532 and PayPay 110](<https://pti.ao/crescem-as-reclamacoes-pelos-servicos-de-mobile-money/>).
 
-***Noted, not assessed***. [SPTR](<https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/>).
+***Also on file***. [SPTR](<https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/>).
 
-***Not held***. No consumer-protection rule for digital finance adopted since October 2023 is held; the rules held date from 2016 and 2017.
+***Not found***. No consumer-protection rule for digital finance adopted since October 2023 has been found; the rules held date from 2016 and 2017.

@@ -100,39 +100,39 @@ Other systems drew on the population register in 2025.
 
 ### Djibouti: 3 Established
 
-A population register was in service in 2026; updating from births and deaths is not known.
+A population register was in service in 2026; no source found reports updating from births and deaths.
 
 - La Nation reports that the DGPF searches the national population database for each ID applicant and integrates each file into the Registre national des personnes physiques platform, with data recorded there before biometric enrolment ([source, 2026-07-23](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/)).
 
 ### Eswatini: 3 Established
 
-A population register was in service in 2025; updating from births and deaths is not known.
+A population register was in service in 2025; no source found reports updating from births and deaths.
 
 - Eswatini's Home Affairs ministry says its mopping exercise, registering births and deaths and converting manual birth certificates in Manzini and Hhohho in the second quarter of 2025/26, has improved the National Population Register ([source, 2025-10-27](https://swazidailynews.com/4842/future/mopping-exercise-brings-government-closer-to-the-people/)).
 
 ### Mali: 3 Established
 
-A population register was in service in 2025; updating from births and deaths is not known.
+A population register was in service in 2025; no source found reports updating from births and deaths.
 
 - DNEC says a biometric file of the population has been built from civil status under RAVEC, administered by ANSAEC ([source, 2025-05](https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf)).
 - The Malian authorities launched the new Mali Kura Biométrie system managing the RAVEC (administrative census for civil-status purposes) data of the Malian population at a ceremony on 13 February 2024, saying the population data had been recovered and secured ([source, 2024-02-13](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
 
 ### Mauritania: 3 Established
 
-A population register was in service in 2026; updating from births and deaths is not known.
+A population register was in service in 2026; no source found reports updating from births and deaths.
 
 - The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service ([source, 2026-06-18](https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/)).
 - The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service ([source, 2026-06-18](https://www.ami.mr/archives/261951)).
 
 ### Mozambique: 3 Established
 
-A population register was in service in 2026; updating from births and deaths is not known.
+A population register was in service in 2026; no source found reports updating from births and deaths.
 
 - ATDI's World Bank-funded EDGE request for expressions of interest (29 May 2026) names the National Population Registry, run by the National Directorate of Civil Identification, as existing infrastructure the new mobile digital identity solution must be integrated with ([source, 2026-05-29](https://360mozambique.com/tenders/consulting-services-for-the-implementation-of-national-mobile-digital-identity-and-electronic-signature-infrastructure-for-the-republic-of-mozambique/)).
 
 ### Rwanda: 3 Established
 
-A population register was in service in 2026; updating from births and deaths is not known.
+A population register was in service in 2026; no source found reports updating from births and deaths.
 
 - MINALOC says the new civil registration system is interoperable with the National Population Registry, which it names among the databases linked ([source, 2026-06-03](https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system)).
 
@@ -170,192 +170,192 @@ A population register was under way in 2026; none in service is on record.
 
 ### Burundi: Unplaced
 
-Nothing held since 2023 names a population register, so no stage is set.
+Nothing found since 2023 names a population register, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a population register is under way or in service.
+Not established: Nothing found since October 2023 says whether a population register is under way or in service.
 
 ### Cape Verde: Unplaced
 
-Nothing held since 2023 names a population register, so no stage is set.
+Nothing found since 2023 names a population register, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a population register is under way or in service.
+Not established: Nothing found since October 2023 says whether a population register is under way or in service.
 
 ### Egypt: Unplaced
 
-Nothing held since 2023 names a population register, so no stage is set.
+Nothing found since 2023 names a population register, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a population register is under way or in service.
+Not established: Nothing found since October 2023 says whether a population register is under way or in service.
 
 ### Lesotho: Unplaced
 
-Nothing held since 2023 names a population register, so no stage is set.
+Nothing found since 2023 names a population register, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a population register is under way or in service.
+Not established: Nothing found since October 2023 says whether a population register is under way or in service.
 
 ### Seychelles: Unplaced
 
-Nothing held since 2023 names a population register, so no stage is set.
+Nothing found since 2023 names a population register, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a population register is under way or in service.
+Not established: Nothing found since October 2023 says whether a population register is under way or in service.
 
 ### Angola: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Botswana: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Cameroon: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Comoros: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Congo: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Ethiopia: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Gabon: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Gambia: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Ghana: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Libya: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Malawi: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Mauritius: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Nigeria: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Senegal: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Sierra Leone: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Somalia: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Sudan: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Tanzania: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Togo: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Uganda: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.
 
 ### Zambia: No evidence
 
-Nothing held names a population register or says there is none, so no stage is set.
+Nothing found names a population register or says there is none, so no stage is set.
 
-Not established: Nothing held names a population register, or says there is none.
+Not established: Nothing found names a population register, or says there is none.

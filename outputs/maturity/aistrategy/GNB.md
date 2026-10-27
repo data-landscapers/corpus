@@ -2,6 +2,6 @@
 
 ## National AI strategy
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a national AI strategy, or says there is none.
+***Not found***. Nothing found names a national AI strategy, or says there is none.

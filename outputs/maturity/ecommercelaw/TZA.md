@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The [Finance Act, 2026](<https://oagmis.oag.go.tz/portal/acts/337/download>) is an act of parliament amending the law, and it is not a regulation or order made under it. The text held names no regulation on electronic signatures, on those who certify them or on those who sell online, and it records no accreditation, licence, registration or penalty under the Electronic Transactions Act.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation or order made under the Act is held.
+***Not found***. No regulation or order made under the Act has been found.

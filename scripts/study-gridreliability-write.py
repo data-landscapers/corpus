@@ -12,7 +12,7 @@ how far it stands from the next line.
 Writes, per country, `outputs/maturity/gridreliability/{ISO3}.md` and
 `maturity/gridreliability/evidence/{ISO3}/short.json`, in the shape `writer-brief.md` sets and
 `lint-study.py` holds: one paragraph for the one aspect, every claim linked to its evidence
-row's `url`, then ***Noted, not assessed*** from `systems.csv` and ***Not held***.
+row's `url`, then ***Also on file*** from `systems.csv` and ***Not found***.
 
 A fact a drafter read from a document is printed as the drafter wrote it, linked, after the
 figure that set the stage. Run it after the ladder script, which writes the `stage.json` it
@@ -28,6 +28,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "gridreliability"
@@ -75,7 +76,7 @@ def paragraph(name: str, country: str, rows: list[dict], best: dict, field: list
                 f"{'rose' if moved > 0 else 'fell'} by {abs(moved):.1f} a month"
             out.append(f"Since {series[0]['as_of'][:4]} the count {how}.")
     elif best["source_slug"].startswith("ref:"):
-        out.append("No earlier survey is held, so whether outages are rising or falling is not known.")
+        out.append("No earlier survey has been found, so no source found says whether outages are rising or falling.")
     if best["value"].startswith("survey:"):
         out.append("The survey asks firms how many power outages they had in a typical month and "
                    "averages their answers; it says nothing of how long each outage lasted, and it "
@@ -133,10 +134,10 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         by = "firms surveyed by the World Bank" if best["value"].startswith("survey:") else "the utility or regulator"
         short = f"In {year} the power went off {figure:g} times a month, as reported by {by}."
         ahead = [line for line, _ in LINES if figure > line]
-        held = (f"No figure of {ahead[0]:g} or fewer outages a month is held." if ahead
+        held = (f"No figure of {ahead[0]:g} or fewer outages a month has been found." if ahead
                 else "Nothing further is asked of this indicator.")
         if best["value"].startswith("survey:"):
-            held += " No regulator's or utility's interruption figure for 2023 or later is held."
+            held += " No regulator's or utility's interruption figure for 2023 or later has been found."
     else:
         old = sorted(rows, key=lambda r: r["as_of"])
         held = cell["gaps"]
@@ -144,15 +145,15 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             held += f" The latest held is {times(num(old[-1]['value']))} a month, for {old[-1]['as_of'][:4]}."
             parts += [f"**{name}.** " + link(old[-1]["url"], old[-1]["fact"].rstrip(".")) + ". "
                       "It is older than 2023, so it sets no stage.", ""]
-        short = "No count of power outages for 2023 or later is held, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + held, ""]
+        short = "No count of power outages for 2023 or later has been found, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + held, ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

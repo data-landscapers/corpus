@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The 5,700 km cable [is recorded as completed in 2022](<https://leseco.ma/business/maroc-telecom-plus-de-454-mmdh-investis-en-afrique.html>). It runs from Morocco to Niger through Mauritania, Mali and Burkina Faso, and lets the company's subsidiary in Mauritania reach international bandwidth over the parent's network. Mauritania is one of the four countries the cable serves, and the company has a subsidiary there as it has in the other three.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

@@ -8,6 +8,6 @@
 
 **Results reported.** The platform's [announced precision rate is 89.89%](<https://www.sikafinance.com/marches/togo-letat-deploie-lintelligence-artificielle-pour-traquer-les-fraudes-et-renforcer-ses-recettes_60463>), as reported at its launch in March 2026.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source says AI is in service in a public sector other than revenue.
+***Not found***. No source says AI is in service in a public sector other than revenue.

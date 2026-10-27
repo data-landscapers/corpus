@@ -10,7 +10,7 @@ evidence under `maturity/{id}/evidence/`, and holds them to what the method prom
 - **A row for every cell.** 54 countries by the study's sub-indicators, each once, no others.
 - **A stage or a reason.** `stage` is 1 to 5, `unplaced` or `no evidence`; a cell with no
   stage says what is not established in `gaps`.
-- **Every source held.** A staged cell names its evidence rows in `stage_sources`; each is a
+- **Every source found.** A staged cell names its evidence rows in `stage_sources`; each is a
   row of that country's `evidence.csv` on that sub-indicator, and every evidence row's
   `source_slug` and `url` is held in `raw/`, or is a reference series in
   `reference/measures.csv`. Stage 1 is a claim like any other: it needs the cited absence.
@@ -22,7 +22,7 @@ evidence under `maturity/{id}/evidence/`, and holds them to what the method prom
 - **The long summaries.** `{ISO3}.md` carries a `## {label}` section per sub-indicator. For
   a staged cell: one paragraph per aspect, in the study's order, each opening with the
   aspect's name in bold and carrying a link; 120 to 250 words across them; then the two
-  closing lines, ***Noted, not assessed*** and ***Not held***. Every link on the page is a
+  closing lines, ***Also on file*** and ***Not found***. Every link on the page is a
   URL held in `raw/`. A cell with no stage needs only its section and the closing lines.
 - **The typology.** `systems.csv` has its columns, real countries and classes in the list.
 - **The ids.** Each sub-indicator's id is the row it redraws (`adding-an-indicator.md` §2).
@@ -41,13 +41,14 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import status_lib  # noqa: E402
 import study_lib   # noqa: E402
 import vault_lib   # noqa: E402
 
 SHORT_CAP = 25
 LONG_MIN, LONG_MAX = 120, 250
-CLOSING = ("***Noted, not assessed***", "***Not held***")
+CLOSING = maturity_words.CLOSING
 MD_LINK = re.compile(r"\[([^\]]*)\]\((?:<[^>]*>|[^)]*)\)")
 
 
@@ -287,7 +288,7 @@ def main(argv=None) -> int:
         print(f"lint-study: {a.study} - {len(problems)} breach(es).")
         return 1
     print(f"lint-study: ok - {a.study}: {len(rows)} cells, {sum(map(len, evidence.values()))} "
-          f"facts, every source held.")
+          f"facts, every source found.")
     return 0
 
 

@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.orbit.sn/le-taux-dinclusion-financiere-du-senegal-est-superieur-a-la-moyenne-de-la-zone-uemoa-selon-le-directeur-national-de-la-bceao/>).
 
-***Noted, not assessed***. [Max it](<https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network>); [PI-SPI](<https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html>); [Orange Money](<https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html>); [Wave](<https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html>).
+***Also on file***. [Max it](<https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network>); [PI-SPI](<https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html>); [Orange Money](<https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html>); [Wave](<https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html>).
 
-***Not held***. No survey held since October 2023 puts adults paying digitally at 79% or more.
+***Not found***. No survey held since October 2023 puts adults paying digitally at 79% or more.

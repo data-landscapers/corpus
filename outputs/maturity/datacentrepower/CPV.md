@@ -2,6 +2,6 @@
 
 ## Power and water for data centres
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how any data centre is supplied with power or water.
+***Not found***. Nothing found says how any data centre is supplied with power or water.

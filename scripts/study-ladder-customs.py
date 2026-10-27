@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "customs"
 SUB = "customs"
-GAPS = {'4': 'No source held since October 2023 says customs exchanges data through a system open to its whole regional community.', '3': 'No source held since October 2023 says a trade single window is in service.', '2': 'No source held since October 2023 says: are declarations processed electronically.', '1': 'No source held since October 2023 says: is an automated customs system under way.', '5': ''}
-EMPTY = 'Nothing held says how customs declarations are processed.'
-UNPLACED = 'Nothing held since October 2023 says whether customs declarations are processed electronically.'
+GAPS = {'4': 'No source found since October 2023 says customs exchanges data through a system open to its whole regional community.', '3': 'No source found since October 2023 says a trade single window is in service.', '2': 'No source found since October 2023 says: are declarations processed electronically.', '1': 'No source found since October 2023 says: is an automated customs system under way.', '5': ''}
+EMPTY = 'Nothing found says how customs declarations are processed.'
+UNPLACED = 'Nothing found since October 2023 says whether customs declarations are processed electronically.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

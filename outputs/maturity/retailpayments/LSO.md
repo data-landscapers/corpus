@@ -8,6 +8,6 @@
 
 **National switch.** [LeSwitch, formerly the National Payment Switch, connects banks and mobile money wallets and now carries local ATM and POS debit card transactions, with POS in pilot from 11 May 2025](<https://publiceyenews.com/2025/05/20/leswitch-expands-to-pos-transactions>). [LeSwitch connects POS terminals, ATMs and mobile money into a single central hub, with its fast-payments phase launched 20 March 2024](<https://www.standardlesothobank.co.ls/lesotho/personal/About-us/press-releases/press-release-lesotho-national-payment-switch-leswitch>).
 
-***Noted, not assessed***. [Tsetela](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [CIPS](<https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/>).
+***Also on file***. [Tsetela](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [CIPS](<https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

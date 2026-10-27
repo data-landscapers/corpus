@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-001;NER-003",
-      "gaps": "No source held since October 2023 says an authentication service is in use.",
+      "gaps": "No source found since October 2023 says an authentication service is in use.",
       "note": "Rebuild: WURI is building a population register to authenticate service users, and an e-ID card is under MoU (NER-001, NER-003). Nothing is in service.",
       "as_at": "2026-10-22"
     }

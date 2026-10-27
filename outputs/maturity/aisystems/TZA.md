@@ -6,8 +6,8 @@
 
 **AI computing.** [In April 2026 Ghent University installed a GPU workstation at Mzumbe University, as its Centre for AI Research and Innovation opened, and served language, image and speech models from it at a workshop](<https://airo.ugent.be/news/202604_workshop_at_mzumbe/>). [HostAfrica said in August 2026 it is rolling out Nvidia Blackwell GPUs in Tanzania](<https://hostingdiscussion.com/news/hostafrica-enters-tanzania-brings-africas-first-local-blackwell-gpus-with-it/>), and [the National AI Data Centre is being built](<https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026>).
 
-**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the National AI Data Centre being built](<https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the National AI Data Centre being built](<https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.
+***Not found***. No source found since October 2023 says national AI computing, models or datasets are open to named or counted users.

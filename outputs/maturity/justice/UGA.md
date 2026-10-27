@@ -8,6 +8,6 @@
 
 **Open online.** [The Judiciary describes a litigant at Jinja High Court checking updates on her case file on her phone through ECCMIS](<https://judiciary.go.ug/files/publications/doc_1783075331_341.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

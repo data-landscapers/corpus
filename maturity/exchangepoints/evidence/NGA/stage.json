@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "NGA-008;NGA-007",
-   "gaps": "No source held names a second exchange in another city, or networks from other countries peering at the exchange.",
+   "gaps": "No source found names a second exchange in another city, or networks from other countries peering at the exchange.",
    "note": "Counted from the four questions by study-ladder-exchangepoints.py."
   }
  ]

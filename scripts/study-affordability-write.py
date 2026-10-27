@@ -12,7 +12,7 @@ income, where it comes from, the years before it, and how far it stands from the
 Writes, per country, `outputs/maturity/mobileaffordability/{ISO3}.md` and
 `maturity/mobileaffordability/evidence/{ISO3}/short.json`, in the shape `writer-brief.md` sets
 and `lint-study.py` holds: one paragraph for the one aspect, every claim linked to its
-evidence row's `url`, then ***Noted, not assessed*** from `systems.csv` and ***Not held***.
+evidence row's `url`, then ***Also on file*** from `systems.csv` and ***Not found***.
 
 **A stated price is printed as the drafter wrote it, then as the share `study_afford.share()`
 makes of it**, with the income year named. The World Bank's series is data in
@@ -32,6 +32,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import study_afford  # noqa: E402
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "mobileaffordability"
@@ -60,7 +61,7 @@ def worked(iso: str, r: dict) -> str:
     figure = study_afford.share(iso, r["value"])
     got = study_afford.income(iso, r["value"].split(":")[1])
     if figure is None or not got:
-        return "No income figure is held in that currency, so it is not set against income."
+        return "No income figure has been found in that currency, so it is not set against income."
     return (f"At that price 5 GB for a month comes to {figure:g} per cent of average monthly income, on "
             f"the World Bank's figure for income per person in {got[1]}.")
 
@@ -91,7 +92,7 @@ def paragraph(name: str, iso: str, country: str, rows: list[dict], best: dict) -
                 f"{'rose' if moved > 0 else 'fell'} by {points(moved)}"
             out.append(f"Since {recent[0]['as_of'][:4]} the cost {how}.")
     elif own:
-        out.append("No earlier year is held, so whether the cost is rising or falling is not known.")
+        out.append("No earlier year has been found, so no source found says whether the cost is rising or falling.")
     under = [line for line in LINES if figure <= line]
     over = [line for line in LINES if figure > line]
     if not under:
@@ -146,7 +147,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
                  + ("on international price figures." if best["source_slug"].startswith("ref:") else
                     "on a stated share." if best["value"].startswith("share:") else "on a stated price."))
         over = [line for line in LINES if figure > line]
-        held = (f"No figure of {over[0]:g} per cent or less is held." if over
+        held = (f"No figure of {over[0]:g} per cent or less has been found." if over
                 else "Nothing further is asked of this indicator.")
     else:
         old = sorted((r for r in rows if study_afford.share(iso, r["value"]) is not None),
@@ -155,16 +156,16 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         if old:
             held += (f" The latest held is {study_afford.share(iso, old[-1]['value']):g} per cent, "
                      f"for {old[-1]['as_of'][:4]}.")
-        short = ("No figure for what a month of mobile data costs against income is held for 2024 or "
+        short = ("No figure for what a month of mobile data costs against income has been found for 2024 or "
                  "later, so no stage is set.")
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + held, ""]
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + held, ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

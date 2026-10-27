@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no dedicated AI law in June 2026](<https://www.levellers.ai/what-is/ai-regulation-burundi>), Burundi has no general AI law to apply, and no body holds powers under one. The [data protection law of March 2026](<https://www.levellers.ai/what-is/ai-regulation-burundi>) is the nearest instrument in force, and it applies to personal data across sectors rather than to AI.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No bill, draft decree or draft regulation on AI is held.
+***Not found***. No bill, draft decree or draft regulation on AI has been found.

@@ -6,6 +6,6 @@
 
 **Body named and action funded.** With no strategy in place, [the same Al-watwan report on the September 2026 UNESCO readiness assessment](<https://alwatwan.net/societe/intelligence-artificielle-i-le-diagnostic-ram-2.0-r%C3%A9v%C3%A8le-les-d%C3%A9fis-des-comores.html>) names no body to carry one out. It also names no public money set aside for one, and the report, presented in September 2026, sets out no action beyond the drafting step it describes as still to be taken.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any drafting of a strategy has begun is not known. No body or funding for an AI strategy is held.
+***Not found***. No source found says whether any drafting of a strategy has begun. No body or funding for an AI strategy has been found.

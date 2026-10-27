@@ -12,6 +12,6 @@
 
 **Last twelve months.** The latest dated position is that of mid-2024, when [the authority had not been formally constituted](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether the law has commenced, and from what date, is not held, nor is any regulation made under it or any decision applying it. Nothing dated in the twelve months to 30 September 2026 is held, including whether the authority has been constituted since mid-2024.
+***Not found***. Whether the law has commenced, and from what date, is not held, nor is any regulation made under it or any decision applying it. Nothing dated in the twelve months to 30 September 2026 is held, including whether the authority has been constituted since mid-2024.

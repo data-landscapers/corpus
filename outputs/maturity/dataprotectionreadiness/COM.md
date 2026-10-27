@@ -10,6 +10,6 @@
 
 **Implementing and acting.** As of mid-2024, [TechHive Advisory states](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>) the authority had not been formally constituted or made operational.
 
-***Noted, not assessed***. [National Authority for the Protection of Personal Data](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>) and [Commission nationale de l'informatique et des libertés](<https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf>).
+***Also on file***. [National Authority for the Protection of Personal Data](<https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law>) and [Commission nationale de l'informatique et des libertés](<https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf>).
 
-***Not held***. The evidence does not establish whether the law has commenced, whether the authority has been constituted since mid-2024, or any ruling against an organisation.
+***Not found***. The evidence does not establish whether the law has commenced, whether the authority has been constituted since mid-2024, or any ruling against an organisation.

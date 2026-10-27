@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** A rule has been made under the law. [Executive Decree 95-159 of 3 June 1995 restates the statutes of the statistics office](<https://unstats.un.org/unsd/dnss/docViewer.aspx?docID=2193>), and was made under articles 11 and 17 of the legislative decree. It is the one rule held and is thirty years old. Nothing made or done under the law in the last three years is held, beyond the office's statement that the law is being reviewed.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held dates an act done under the law in the last three years.
+***Not found***. No source found dates an act done under the law in the last three years.

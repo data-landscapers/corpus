@@ -6,8 +6,8 @@
 
 **Gap measured.** [Data presented at the National Forum on the Digitalization of Justice showed internet access of about 72% in urban areas and 27% in rural areas](<https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-issues-600-000-criminal-records-online-but-rural-connectivity-gap-persists>).
 
-**Gap narrow.** No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-issues-600-000-criminal-records-online-but-rural-connectivity-gap-persists>).
+**Gap narrow.** No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-issues-600-000-criminal-records-online-but-rural-connectivity-gap-persists>).
 
-***Noted, not assessed***. [FASU](<https://lefaso.net/spip.php?article144560>).
+***Also on file***. [FASU](<https://lefaso.net/spip.php?article144560>).
 
-***Not held***. No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate.
+***Not found***. No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate.

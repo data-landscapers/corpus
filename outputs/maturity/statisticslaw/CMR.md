@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** A rule has been made under the law. [Decree n°2021/690 of 2 December 2021](<https://www.afristat.org/wp-content/uploads/2023/02/CM02_Decret-application-loi-statistique.pdf>) sets the rules for applying the law of 20 July 2020. It is the implementing decree for the statute and was made seventeen months after it. The decree is the one rule held; it falls outside the last three years, and nothing later made or done under the law is held.
 
-***Noted, not assessed***. [National Strategy for the Development of Statistics 2021-2030 (SNDS30)](<https://www.afristat.org/wp-content/uploads/2023/06/SNDS30_Cameroun.pdf>).
+***Also on file***. [National Strategy for the Development of Statistics 2021-2030 (SNDS30)](<https://www.afristat.org/wp-content/uploads/2023/06/SNDS30_Cameroun.pdf>).
 
-***Not held***. No source held dates an act done under the law in the last three years.
+***Not found***. No source found dates an act done under the law in the last three years.

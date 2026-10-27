@@ -8,6 +8,6 @@
 
 **Linked to ID.** [The Liberia Household Social Registry, held by the Ministry of Gender, Children and Social Protection with over 442,000 poverty-ranked households, supplies the households enrolled into the Social Cash Transfer, per the REALISE Project](<https://realise.liberiasp.gov.lr/2026/05/18/government-of-liberia-presents-crisis-response-plan-to-world-bank/>).
 
-***Noted, not assessed***. [instant payment system](<https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1>).
+***Also on file***. [instant payment system](<https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

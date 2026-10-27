@@ -6,8 +6,8 @@
 
 **Results published.** [Decree 100/032 of 27 March 2025 published preliminary results of the RGPHAE 2024 census](<https://presidence.gov.bi/wp-content/uploads/2025/04/decret-RGPHAE-2024.pdf>), counting 12,332,788 residents and 2,724,457 ordinary households; definitive results are not yet held.
 
-**A household survey published.** No source held reports results of a national household survey published since October 2023. The nearest held fact: [the one given above](<https://burundi.unfpa.org/fr/news/coop%C3%A9ration-sud-sud-la-guin%C3%A9e-%C3%A9quatoriale-sinspire-de-lexp%C3%A9rience-burundaise-du-recensement>). Named in what was read, with no results dated: [EICVMB 2025-2026](<https://www.insbu.bi/actualitesEtEvenements>).
+**A household survey published.** No source found reports results of a national household survey published since October 2023. The nearest held fact: [the one given above](<https://burundi.unfpa.org/fr/news/coop%C3%A9ration-sud-sud-la-guin%C3%A9e-%C3%A9quatoriale-sinspire-de-lexp%C3%A9rience-burundaise-du-recensement>). Named in what was read, with no results dated: [EICVMB 2025-2026](<https://www.insbu.bi/actualitesEtEvenements>).
 
-***Noted, not assessed***. [RPPCUB 2026](<https://www.insbu.bi/actualitesEtEvenements>); [Voter census 2024](<https://burundi-eco.com/enrolement-des-electeurs-de-2025-la-carte-nationale-didentite-biometrique-ne-sera-pas-disponible>).
+***Also on file***. [RPPCUB 2026](<https://www.insbu.bi/actualitesEtEvenements>); [Voter census 2024](<https://burundi-eco.com/enrolement-des-electeurs-de-2025-la-carte-nationale-didentite-biometrique-ne-sera-pas-disponible>).
 
-***Not held***. No source held reports results of a national household survey published since October 2023.
+***Not found***. No source found reports results of a national household survey published since October 2023.

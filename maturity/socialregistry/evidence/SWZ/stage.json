@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SWZ-001;SWZ-002",
-   "gaps": "No source held since October 2023 says: is a social registry in service.",
+   "gaps": "No source found since October 2023 says: is a social registry in service.",
    "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
   }
  ]

@@ -6,8 +6,8 @@
 
 **Deaths digital.** [UNDP says officials at Santa Luzia record births, marriages and deaths directly on the national platform SIREC](<https://www.undp.org/sites/g/files/zskgke326/files/2026-04/_undp_g.b_newsletter_jan-mar_2026_eng_1.pdf>). [The SIREC page says the system registers deaths (obito) alongside births and marriages, with fully digital storage of registration acts](<https://sirec.web.ua.pt/Home/About>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://www.undp.org/sites/g/files/zskgke326/files/2026-04/_undp_g.b_newsletter_jan-mar_2026_eng_1.pdf>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://www.undp.org/sites/g/files/zskgke326/files/2026-04/_undp_g.b_newsletter_jan-mar_2026_eng_1.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: are births registered digitally across the country.
+***Not found***. No source found since October 2023 says: are births registered digitally across the country.

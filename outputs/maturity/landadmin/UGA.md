@@ -6,8 +6,8 @@
 
 **Maps or valuation.** [The Ministry of Lands says the DeSINLISI national roll-out fully integrated land registration, land administration, surveying and mapping, physical planning and property valuation in the UgNLIS (2020, before the three-year window)](<https://mlhud.go.ug/ugnlis/>).
 
-**Linked to tax.** No source held since October 2023 says land or property tax is assessed or paid through the land system. The nearest held fact: [the one given above](<https://mlhud.go.ug/ugnlis/>).
+**Linked to tax.** No source found since October 2023 says land or property tax is assessed or paid through the land system. The nearest held fact: [the one given above](<https://mlhud.go.ug/ugnlis/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: are land transactions processed electronically.
+***Not found***. No source found since October 2023 says: are land transactions processed electronically.

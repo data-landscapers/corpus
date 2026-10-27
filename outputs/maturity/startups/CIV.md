@@ -6,8 +6,8 @@
 
 **Labelling.** [Diallo says a 'levelisation' process grants certified startups access to public markets](<https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/>). [The 2023 act set up a Digital Startup label, awarded by a national labelling committee, with fiscal and customs incentives for the firms that hold it](<https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-calls-for-178m-fund-to-boost-tech-startups>).
 
-**Funded.** No source held since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/>).
+**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a public fund under the startup law or strategy has financed startups.
+***Not found***. No source found since October 2023 says a public fund under the startup law or strategy has financed startups.

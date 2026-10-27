@@ -8,6 +8,6 @@
 
 **A household survey published.** [ZamStats presented highlights of the 2025 National Survey on Access and Usage of ICTs, a household survey of 32,500 individuals targeted in 325 enumeration areas](<https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/03/Zambia_2025-ICT-Survey.pdf>). [The Zambia Statistics Agency, Ministry of Health and ICF published the final report of the 2024 Zambia Demographic and Health Survey in November 2025; fieldwork ran in 2024](<https://www.zamstats.gov.zm/wp-content/uploads/2025/12/ZDHS-2024.pdf>).
 
-***Noted, not assessed***. [M-SAT E-census software / MoE Statistical Tables](<https://idi.no/wp-content/uploads/2026/02/Office-of-the-Auditor-General-Zambia-Simplified-Audit-Report.pdf>).
+***Also on file***. [M-SAT E-census software / MoE Statistical Tables](<https://idi.no/wp-content/uploads/2026/02/Office-of-the-Auditor-General-Zambia-Simplified-Audit-Report.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -226,132 +226,132 @@ The national weather service was receiving or installing a satellite data stream
 
 ### Algeria: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Angola: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Cape Verde: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Comoros: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Congo: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Egypt: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Gabon: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Ghana: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Guinea: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Madagascar: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Mauritius: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Namibia: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Uganda: Unplaced
 
-Nothing held since 2023 names satellite data in the national weather service, so no stage is set.
+Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the national weather service receives or uses satellite data.
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
 
 ### Botswana: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Cote d'Ivoire: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Eritrea: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Eswatini: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Sierra Leone: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Sudan: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Togo: No evidence
 
-Nothing held names satellite data in the national weather service or says there is none, so no stage is set.
+Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the national weather service uses satellite data.
+Not established: Nothing found says whether the national weather service uses satellite data.

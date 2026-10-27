@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SWZ-002",
-   "gaps": "No source held says two of the routes land at different stations, or run through two different neighbours.",
+   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
    "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
   }
  ]

@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact is the same 2016 law, which lists [authorisations, transfer approval and guidelines among the authority's functions](<https://assembleeguinee.org/loi-ndeg-l-2016-relative-la-cybersecurite-et-la-protection-des-donnees-caractere-personnel-en>). The law [names no constituted body or appointed members](<https://assembleeguinee.org/loi-ndeg-l-2016-relative-la-cybersecurite-et-la-protection-des-donnees-caractere-personnel-en>), and it leaves the designation of the competent authority to regulation, so the body that would approve transfers is not identified in the law itself.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

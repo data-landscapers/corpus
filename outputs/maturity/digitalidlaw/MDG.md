@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** No source says the law has been promulgated, so it is counted as passed and not yet in force. The court's decision [is the last step on record](<https://www.hcc.gov.mg/?p=9621>): a law adopted by both houses, referred on 28 July 2025 and cleared a month later. What the law provides for the identity itself is not stated in the decision. The law is numbered 2025-019 and carries the year of its adoption.
 
-***Noted, not assessed***. [PRODIGY](<https://www.biometricupdate.com/202607/madagascars-last-mile-civil-registration-strategy-closing-digital-id-inclusion-gap>).
+***Also on file***. [PRODIGY](<https://www.biometricupdate.com/202607/madagascars-last-mile-civil-registration-strategy-closing-digital-id-inclusion-gap>).
 
-***Not held***. No source held says a national identity law is in force.
+***Not found***. No source found says a national identity law is in force.

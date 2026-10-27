@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** [The Malawi Human Rights Commission, which the Act makes its oversight body, presented a report on carrying the Act out on 10 October 2025](<https://africabrief.substack.com/p/malawi-advances-information-access>). [The report says that from April 2024 to March 2025 information holders handled over 36,000 requests and rejected 11](<https://africabrief.substack.com/p/malawi-advances-information-access>). The Commission has also used the Act on a private company: [it issued a notice to Mota-Engil to assess whether the company could comply, a step that reached the High Court on 6 March 2026](<https://www.maraviexpress.com/access-to-information-act-applies-to-private-companies-undertaking-malawi-government-contracts-rules-the-high-court/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

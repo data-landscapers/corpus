@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "DJI-001",
-   "gaps": "No source held reports results of a national household survey published since October 2023.",
+   "gaps": "No source found reports results of a national household survey published since October 2023.",
    "note": "Counted from the four questions by study-ladder-censuses.py."
   }
  ]

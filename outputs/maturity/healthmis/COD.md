@@ -8,6 +8,6 @@
 
 **Reporting rate published.** [The analysis gives DHIS2 reporting completeness rising to 99% in 2024, with about 90% for six key indicators](<https://data.gffportal.org/sites/default/files/2025-09/DRC--COUNTDOWN.pdf>).
 
-***Noted, not assessed***. [DHIS2 Tracker (Ebola configuration)](<https://dhis2.org/drc-uganda-africa-cdc-ebola-outbreak-response/>); [Mpox surveillance mobile/web app connected to DHIS2](<https://community.dhis2.org/t/surveillance-mpox-integree-a-dhis2-au-sud-kivu/71886>); [DHIS2 EVD Tracker](<https://dhis2.org/drc-ebola-response-2025/>).
+***Also on file***. [DHIS2 Tracker (Ebola configuration)](<https://dhis2.org/drc-uganda-africa-cdc-ebola-outbreak-response/>); [Mpox surveillance mobile/web app connected to DHIS2](<https://community.dhis2.org/t/surveillance-mpox-integree-a-dhis2-au-sud-kivu/71886>); [DHIS2 EVD Tracker](<https://dhis2.org/drc-ebola-response-2025/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

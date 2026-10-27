@@ -2,6 +2,6 @@
 
 ## Digital links and facilities shared with other African countries
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No shared link or facility agreed or being built in the last three years, or in service, is on record, and no source dated in the last three years says the country has none.
+***Not found***. No shared link or facility agreed or being built in the last three years, or in service, is on record, and no source dated in the last three years says the country has none.

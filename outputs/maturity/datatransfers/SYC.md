@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact, dated 2025, is in the [Information Commission's annual report for 2025](<https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf>): it received and handled 14 cases under the Act in 2025, 6 of them data transfers, 5 breaches, 2 refused deletion requests and 1 a consultation. The report describes the handling as guidance, assessment and corrective advice, with no decision or sanction on a named controller and no count of cases settled.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

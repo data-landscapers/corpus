@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GAB-001",
-      "gaps": "No source held since October 2023 says: is an address register or digital addressing system in service.",
+      "gaps": "No source found since October 2023 says: is an address register or digital addressing system in service.",
       "note": "First pass: counted from the four questions by study-ladder-addressregister.py.",
       "as_at": "2026-10-18"
     }

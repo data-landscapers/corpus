@@ -6,8 +6,8 @@
 
 **AI computing.** [UNDP's programme procured and deployed country-hosted GPU compute in Zambia](<https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use>).
 
-**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the Lusaka water utility's data is to be put to work on the University of Zambia node in a pilot](<https://www.undp.org/zambia/news/lusakas-water-about-get-smarter>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the Lusaka water utility's data is to be put to work on the University of Zambia node in a pilot](<https://www.undp.org/zambia/news/lusakas-water-about-get-smarter>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named users.
+***Not found***. No source found since October 2023 says national AI computing, models or datasets are open to named users.

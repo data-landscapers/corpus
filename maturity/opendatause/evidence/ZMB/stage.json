@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ZMB-002",
-   "gaps": "No source held since October 2024 names or counts four or more public bodies publishing data.",
+   "gaps": "No source found since October 2024 names or counts four or more public bodies publishing data.",
    "note": "Counted from the four questions by study-ladder-opendatause.py."
   }
  ]

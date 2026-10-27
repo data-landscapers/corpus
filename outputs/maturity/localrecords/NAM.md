@@ -12,6 +12,6 @@
 
 **Local governments recording.** The Namibian's report of July 2024 covers [the City of Windhoek's billing system](<https://www.namibian.com.na/city-in-water-billing-system-cover-up/>), the capital's, and names no other local authority.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Any local authority outside Windhoek, a total of those recording, and any of the city's accounts other than water. Nothing on who plans or pays for the systems, and no event in the last twelve months.
+***Not found***. Any local authority outside Windhoek, a total of those recording, and any of the city's accounts other than water. Nothing on who plans or pays for the systems, and no event in the last twelve months.

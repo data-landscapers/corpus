@@ -10,6 +10,6 @@
 
 **Implementing and acting.** [Paradigm Initiative says the Gambia enacted data protection legislation in September 2025](<https://paradigmhq.org/press-release-paradigm-initiative-applauds-countries-with-data-protection-laws/>) and calls for implementation and enforcement by the relevant authorities, in a press release dated 29 January 2026.
 
-***Noted, not assessed***. [Personal Data Protection and Privacy Act 2025](<https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025>); [Commission under the Personal Data Protection and Privacy Act](<https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025>); [Information Commission of The Gambia](<https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia>).
+***Also on file***. [Personal Data Protection and Privacy Act 2025](<https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025>); [Commission under the Personal Data Protection and Privacy Act](<https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025>); [Information Commission of The Gambia](<https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia>).
 
-***Not held***. A commencement date for the Act, and any ruling against an organisation.
+***Not found***. A commencement date for the Act, and any ruling against an organisation.

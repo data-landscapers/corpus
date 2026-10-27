@@ -8,6 +8,6 @@
 
 **Inclusion counted.** [UNDP says 38,026 IDPs were enrolled in the national ID in Baidoa, of over 500,000 IDPs there](<https://undpsom.medium.com/baidoas-fast-tracked-cost-effective-and-scalable-legal-id-model-for-idps-0dbb909900eb>).
 
-***Noted, not assessed***. [Somalia National Digital Inclusion Policy](<https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf>).
+***Also on file***. [Somalia National Digital Inclusion Policy](<https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

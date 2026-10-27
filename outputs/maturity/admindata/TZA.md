@@ -8,6 +8,6 @@
 
 **Published regularly.** [The Ministry of Health states that, since 2009, its Monitoring and Evaluation Unit has consistently published the Annual Health Statistical Tables and Figures report each year for the preceding calendar year; this edition was published September 2025](<https://www.moh.go.tz/storage/app/uploads/public/698/4e8/b7b/6984e8b7b067c606076637.pdf>).
 
-***Noted, not assessed***. [Crime Statistics Management Information System (CSMIS)](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>).
+***Also on file***. [Crime Statistics Management Information System (CSMIS)](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>).
 
-***Not held***. No source held shows statistics from three administrative sources, each published twice since October 2023.
+***Not found***. No source found shows statistics from three administrative sources, each published twice since October 2023.

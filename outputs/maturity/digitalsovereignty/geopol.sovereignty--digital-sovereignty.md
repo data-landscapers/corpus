@@ -123,7 +123,7 @@ Government data or a core system was hosted in the country in 2025; contract ter
 
 ### Nigeria: 4 Operating
 
-A rule on state data was in force and the identity database was hosted nationally in 2026; contract data terms are not known.
+A rule on state data was in force and the identity database was hosted nationally in 2026; no source found reports contract data terms.
 
 - Stakeholders at the GrowthX forum said the Central Bank of Nigeria's six-month deadline for full data localisation, January 2027, was too short and asked for an extension, treating the directive as issued; the article gives its own published date ([source, 2026-09-29](https://techtrends.africa/growthx-by-techeconomy-industry-leaders-identify-infrastructure-trust-as-keys-to-data-localisation/)).
 - Business AM reports the Central Bank of Nigeria's directive requires financial institutions and payment system participants (banks, mobile money operators, switching and processing companies, payment service providers) to store and manage payment transaction data generated in Nigeria on servers in the country from 1 January 2027 ([source, 2026-09-28](https://businessamlive.com/data-localisation-opens-new-investment-window-for-nigerias-data-centres/)).
@@ -295,7 +295,7 @@ Keeping state data under national control was a stated goal in 2026; a rule in f
 
 ### Tunisia: 2 Nascent
 
-Government cloud labels from 2024 make control of state data a stated goal; a rule keeping state data in the country is not known.
+Government cloud labels from 2024 make control of state data a stated goal; no source found reports a rule keeping state data in the country.
 
 - The communications ministry says G-Cloud labels, awarded in July 2024 under decree-law 2023-17 and a ministerial decision of 13 September 2023, go only to Tunisian hosting providers linked to the administration's network, as part of the 2025 digital strategy to guarantee digital sovereignty ([source, 2024-07](https://www.webmanagercenter.com/2024/07/12/527554/tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud/)).
 
@@ -307,66 +307,66 @@ A 2024 source says no rule governs where state data is held.
 
 ### Djibouti: Unplaced
 
-Nothing held since 2023 names control of state data, so no stage is set.
+Nothing found since 2023 names control of state data, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
+Not established: Nothing found since October 2023 says whether control of state data is a stated goal or a rule.
 
 ### Eritrea: Unplaced
 
-Nothing held since 2023 names control of state data, so no stage is set.
+Nothing found since 2023 names control of state data, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
+Not established: Nothing found since October 2023 says whether control of state data is a stated goal or a rule.
 
 ### Gambia: Unplaced
 
-Nothing held since 2023 names control of state data, so no stage is set.
+Nothing found since 2023 names control of state data, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
+Not established: Nothing found since October 2023 says whether control of state data is a stated goal or a rule.
 
 ### Zambia: Unplaced
 
-Nothing held since 2023 names control of state data, so no stage is set.
+Nothing found since 2023 names control of state data, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
+Not established: Nothing found since October 2023 says whether control of state data is a stated goal or a rule.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names control of state data or says there is none, so no stage is set.
+Nothing found names control of state data or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
+Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names control of state data or says there is none, so no stage is set.
+Nothing found names control of state data or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
+Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Lesotho: No evidence
 
-Nothing held names control of state data or says there is none, so no stage is set.
+Nothing found names control of state data or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
+Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Liberia: No evidence
 
-Nothing held names control of state data or says there is none, so no stage is set.
+Nothing found names control of state data or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
+Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names control of state data or says there is none, so no stage is set.
+Nothing found names control of state data or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
+Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Seychelles: No evidence
 
-Nothing held names control of state data or says there is none, so no stage is set.
+Nothing found names control of state data or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
+Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Togo: No evidence
 
-Nothing held names control of state data or says there is none, so no stage is set.
+Nothing found names control of state data or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the state keeps its data and systems under its own control.
+Not established: Nothing found says whether the state keeps its data and systems under its own control.

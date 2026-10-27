@@ -8,6 +8,6 @@
 
 **Linked to ID.** [Acting INEC chairman Rhoda Gumus said INEC, through collaboration with NIMC and its continuous voter registration portal, has systematically integrated National Identification Numbers to audit, verify and clean the national voter register](<https://thecabal.ng/inec-integrates-nin-to-clean-national-voter-register-ahead-2027-polls/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

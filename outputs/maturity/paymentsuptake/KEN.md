@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>).
 
-***Noted, not assessed***. [M-PESA](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>).
+***Also on file***. [M-PESA](<https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf>).
 
-***Not held***. No survey held since October 2023 puts adults paying digitally at 79% or more.
+***Not found***. No survey held since October 2023 puts adults paying digitally at 79% or more.

@@ -377,6 +377,6 @@ The country had a national cyber body by 2026; no incident response by a nationa
 
 ### Eritrea: Unplaced
 
-No source held says whether the country has a cybersecurity strategy or a national cyber body, so no stage is set.
+No source found says whether the country has a cybersecurity strategy or a national cyber body, so no stage is set.
 
-Not established: No source held says the country adopted a cybersecurity strategy or created a national cyber body, or that it has neither.
+Not established: No source found says the country adopted a cybersecurity strategy or created a national cyber body, or that it has neither.

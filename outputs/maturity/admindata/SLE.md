@@ -6,8 +6,8 @@
 
 **Sources published from.** [The NCRA report compiles births, deaths, marriages, divorces and adoptions registered under the 2016 National Civil Registration Act](<https://www.sierraleonemonitor.com/ncra-releases-provisional-statistics/>). [The 2024 provisional vital events report draws on events registered by the National Civil Registration Authority, with changes stated against 2023](<https://www.sierraleonemonitor.com/ncra-releases-2024-provisional-report-on-vital-statistics/>). [The Countdown to 2030 synthesis report, prepared by Statistics Sierra Leone, the Ministry of Health and APHRC, publishes RMNCAH indicators for 2019-2024 computed from routinely reported health facility data in DHIS2 (national reporting completeness 93-99 percent, annual data quality score 71-85)](<https://data.gffportal.org/sites/default/files/2025-09/SierraLeone-COUNTDOWN.pdf>).
 
-**Published regularly.** No source held states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://www.sierraleonemonitor.com/ncra-releases-provisional-statistics/>).
+**Published regularly.** No source found states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://www.sierraleonemonitor.com/ncra-releases-provisional-statistics/>).
 
-***Noted, not assessed***. [Integrated eCRVS and ID Management System](<https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf>); [Integrated CRVS and ID Management System](<https://ncra.gov.sl/sierra-leone-through-ncra-joins-other-africa-countries-to-commemorate-the-6th-africa-crvs-day/>); [EMIS](<https://mbsse.gov.sl/emis/>); [Annual School Census](<https://mbsse.gov.sl/emis/>).
+***Also on file***. [Integrated eCRVS and ID Management System](<https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf>); [Integrated CRVS and ID Management System](<https://ncra.gov.sl/sierra-leone-through-ncra-joins-other-africa-countries-to-commemorate-the-6th-africa-crvs-day/>); [EMIS](<https://mbsse.gov.sl/emis/>); [Annual School Census](<https://mbsse.gov.sl/emis/>).
 
-***Not held***. No source held shows statistics from three administrative sources, each published twice since October 2023.
+***Not found***. No source found shows statistics from three administrative sources, each published twice since October 2023.

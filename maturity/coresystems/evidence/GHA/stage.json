@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-002;GHA-003;GHA-008",
-      "gaps": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023.",
+      "gaps": "No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023.",
       "note": "Counted from the four questions by study-ladder-coresystems.py.",
       "as_at": "2026-10-17"
     }

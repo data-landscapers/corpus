@@ -8,6 +8,6 @@
 
 **Use reported.** [The Director General described the new portal by what it does for firms: business registration streamlined and transaction times reduced, alongside new regulations, a procurement manual and bidding documents](<https://foroyaa.net/procurement-drives-value-in-managing-resources-says-gppa-dg-jaiteh/>).
 
-***Noted, not assessed***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
+***Also on file***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 
-***Not held***. No source held since October 2023 says government tenders are published or bid online through a system in service.
+***Not found***. No source found since October 2023 says government tenders are published or bid online through a system in service.

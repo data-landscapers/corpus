@@ -8,6 +8,6 @@
 
 **Volumes reported.** [Youm7, citing the NTRA H1 2026 wallet report, says incoming transfers from abroad were 3% of wallet deposits by count and 10% by value](<https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929>). [Ogbalu says PAPSS transaction volume rose about 1,000 percent in 2026 and value about 120 percent, with transfer costs down by up to 95 percent and average processing time 7 seconds](<https://english.ahram.org.eg/News/576342.aspx>).
 
-***Noted, not assessed***. [InstaPay](<https://enterpriseam.com/egypt/2026/09/23/instapay-to-connect-with-pan-african-payment-system-as-six-egyptian-banks-apply-for-integration/>); [Meeza](<https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/>); [PAPSS](<https://sis.gov.eg/en/media-center/news/cbe-governor-participates-in-14th-meeting-of-pgc-papss-in-nairobi/>); [Meeza Digital](<https://gate.ahram.org.eg/News/5335311.aspx>).
+***Also on file***. [InstaPay](<https://enterpriseam.com/egypt/2026/09/23/instapay-to-connect-with-pan-african-payment-system-as-six-egyptian-banks-apply-for-integration/>); [Meeza](<https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/>); [PAPSS](<https://sis.gov.eg/en/media-center/news/cbe-governor-participates-in-14th-meeting-of-pgc-papss-in-nairobi/>); [Meeza Digital](<https://gate.ahram.org.eg/News/5335311.aspx>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

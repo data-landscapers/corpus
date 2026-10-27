@@ -6,8 +6,8 @@
 
 **Electronic payment.** [The plan says a growing number of taxpayers use direct transfer and mobile money to pay taxes, and lists e-payments among the LRA's strengths](<https://revenue.lra.gov.lr/wp-content/uploads/2026/04/LRA-CSP-2025-Final.pdf>). [In August 2025 the LRA said taxes are paid through LITAS by mobile money and through seven of the nine commercial banks connected to it, with electronic receipts](<https://revenue.lra.gov.lr/lra-trains-staff-on-new-digital-tax-payment-system/>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://revenue.lra.gov.lr/wp-content/uploads/2026/04/LRA-CSP-2025-Final.pdf>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://revenue.lra.gov.lr/wp-content/uploads/2026/04/LRA-CSP-2025-Final.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

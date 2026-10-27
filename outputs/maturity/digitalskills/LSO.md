@@ -6,8 +6,8 @@
 
 **Share measured.** [The LCA and Bureau of Statistics household survey of 2023 found that 35.1% of individuals in Lesotho had ICT skills, against 58.4% who use the internet](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
 
-**Half or more.** No source held since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
+**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
 
-***Noted, not assessed***. [Universal Service Fund](<https://lca.org.ls/wp-content/uploads/2026/07/STRATEGIC-PLAN-2026-2029.pdf>).
+***Also on file***. [Universal Service Fund](<https://lca.org.ls/wp-content/uploads/2026/07/STRATEGIC-PLAN-2026-2029.pdf>).
 
-***Not held***. No source held since October 2023 gives a measured share of half or more of adults with basic digital skills.
+***Not found***. No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.

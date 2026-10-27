@@ -6,8 +6,8 @@
 
 **Open for checking.** [The OIF's Francophonie electoral mission reports that the voters' lists were systematically posted in front of all polling stations visited for the 12 January 2025 legislative elections](<https://www.lexterieur.com/la-une/international/legislatives-aux-comores-la-declaration-preliminaire-de-la-mission-electorale-de-la-francophonie>).
 
-**Linked to ID.** No source held since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.lexterieur.com/la-une/international/legislatives-aux-comores-la-declaration-preliminaire-de-la-mission-electorale-de-la-francophonie>).
+**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.lexterieur.com/la-une/international/legislatives-aux-comores-la-declaration-preliminaire-de-la-mission-electorale-de-la-francophonie>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

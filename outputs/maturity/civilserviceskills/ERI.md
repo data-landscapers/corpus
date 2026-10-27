@@ -2,6 +2,6 @@
 
 ## Civil service digital skills
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 says whether civil servants are trained in digital skills.
+***Not found***. Nothing found since October 2023 says whether civil servants are trained in digital skills.

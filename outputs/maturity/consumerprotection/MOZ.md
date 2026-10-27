@@ -8,6 +8,6 @@
 
 **Enforcement reported.** [The bank counts 26 of those complaints against Vodafone M-Pesa and 18 against M-Mola, and says it issued directives for correction across all complaints, including the refund of MZN 73,243,072 in improperly charged fees](<https://bancomoc.mz/media/ofiltvbv/dsc_comunicado_estati-sticas-das-reclamac-o-es-recebidas-no-banco-de-moc-ambique-contra-instituic-o-es-financeiras-no-i-semestre-de-2026_v01_en.pdf>).
 
-***Noted, not assessed***. [M-Pesa](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [Adianta-La](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [M-Mola](<https://bancomoc.mz/media/ofiltvbv/dsc_comunicado_estati-sticas-das-reclamac-o-es-recebidas-no-banco-de-moc-ambique-contra-instituic-o-es-financeiras-no-i-semestre-de-2026_v01_en.pdf>).
+***Also on file***. [M-Pesa](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [Adianta-La](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [M-Mola](<https://bancomoc.mz/media/ofiltvbv/dsc_comunicado_estati-sticas-das-reclamac-o-es-recebidas-no-banco-de-moc-ambique-contra-instituic-o-es-financeiras-no-i-semestre-de-2026_v01_en.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

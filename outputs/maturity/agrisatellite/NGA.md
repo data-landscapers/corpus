@@ -6,8 +6,8 @@
 
 **Published regularly.** [UNCTAD says CropWatch work in Nigeria feeds a quarterly bulletin informing government policy, with the January to April 2024 bulletin reporting rainfall 64% below the 15-year norm](<https://unctad.org/news/harnessing-frontier-technology-food-security-nigeria>). [NASRDA shows bimonthly CropWatch bulletins for October 2025 and February 2026](<https://unctad.org/system/files/non-official-document/ecn162026_p02_tc_james_en.pdf>).
 
-**Reaching farmers.** No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://unctad.org/news/harnessing-frontier-technology-food-security-nigeria>).
+**Reaching farmers.** No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://unctad.org/news/harnessing-frontier-technology-food-security-nigeria>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts.
+***Not found***. No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts.

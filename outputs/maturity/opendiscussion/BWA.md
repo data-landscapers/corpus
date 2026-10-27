@@ -8,6 +8,6 @@
 
 **Punishment for speech, and its removal.** Nothing on punishment for speech is held. The nearest held fact is the [same dialogue, at which BOCONGO's chairperson called for more time and clear public information](<https://dailynews.gov.bw/news-detail/89903>).
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Nothing held says whether anyone in Botswana was punished for what they said or published in the last twelve months, or that no one was. No cut or block is held either.
+***Not found***. Nothing found says whether anyone in Botswana was punished for what they said or published in the last twelve months, or that no one was. No cut or block has been found either.

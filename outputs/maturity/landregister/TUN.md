@@ -8,6 +8,6 @@
 
 **Online services.** [Land conservator Wadii Rhouma said the operational digital land register lets users consult land titles remotely](<https://www.webdo.tn/fr/actualite/national/tunisie-vers-l-adoption-de-la-signature-et-du-contrat-electroniques-dans-le-registre-foncier/222152/>). [The Minister says ONPF publicity services are now delivered online, including certificates of ownership, co-ownership, non-ownership and registration, via the updated cpf.gov.tn site](<http://www.domainetat.tn/?p=14628>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

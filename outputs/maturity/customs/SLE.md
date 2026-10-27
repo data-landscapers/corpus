@@ -6,8 +6,8 @@
 
 **Single window.** [The NRA ASYCUDA Unit supervisor says ASYCUDA World connects multiple agencies through digital modules, routing information by each institution's role](<https://sierraloaded.sl/local/nra-launch-digital-customs-system-jendema/>). [The WTO summary says Sierra Leone introduced the Electronic Single Window in 2020 to streamline import procedures (2020, before the three-year window)](<https://www.wto.org/english/tratop_e/tpr_e/s470_sum_e.pdf>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://www.thesierraleonetelegraph.com/over-300-billion-leones-missing-at-sierra-leones-national-revenue-authority/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says customs exchanges data through a system open to its whole regional community.
+***Not found***. No source found since October 2023 says customs exchanges data through a system open to its whole regional community.

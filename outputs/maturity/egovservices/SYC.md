@@ -6,8 +6,8 @@
 
 **Single gateway.** [The monServis portal carries eServices from multiple providers, with individuals signing in with SeyID and organisations onboarding through Biz Auth, per the Government of Seychelles](<https://monservis.gov.sc>).
 
-**Use published.** No source held since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://monservis.gov.sc>).
+**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://monservis.gov.sc>).
 
-***Noted, not assessed***. [SeyID](<https://monservis.gov.sc>); [Biz Auth](<https://monservis.gov.sc>).
+***Also on file***. [SeyID](<https://monservis.gov.sc>); [Biz Auth](<https://monservis.gov.sc>).
 
-***Not held***. No source held since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.

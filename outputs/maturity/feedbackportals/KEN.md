@@ -6,8 +6,8 @@
 
 **Across government.** [The Commission chair said complainants can lodge complaints against public entities through CMIS from anywhere in the country (2022, before the three-year window)](<https://www.kenyanews.go.ke/office-of-the-ombudsman-launches-cmis/>).
 
-**Results published.** No source held since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://www.kenyanews.go.ke/ombudsman-set-to-revamp-complaints-filing-system/>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://www.kenyanews.go.ke/ombudsman-set-to-revamp-complaints-filing-system/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: is one in service with cases on record.
+***Not found***. No source found since October 2023 says: is one in service with cases on record.

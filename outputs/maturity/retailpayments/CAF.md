@@ -8,6 +8,6 @@
 
 **National switch.** [AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including the Central African Republic](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Noted, not assessed***. [Orange Money](<https://www.radiondekeluka.org/102930-stopatene-faux-le-ministere-de-lurbanisme-dement-une-pretendue-vente-de-parcelles-attribuee-a-lacph>); [POST CASH](<https://www.ungm.org/Public/Notice/318521>).
+***Also on file***. [Orange Money](<https://www.radiondekeluka.org/102930-stopatene-faux-le-ministere-de-lurbanisme-dement-une-pretendue-vente-de-parcelles-attribuee-a-lacph>); [POST CASH](<https://www.ungm.org/Public/Notice/318521>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COG-001;COG-002",
-      "gaps": "No source held since October 2023 says a government satellite-based farming service is in use.",
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use.",
       "note": "Rebuild 2026-10-20: FAO's GIEWS brief is not a government service, so it answers question 1 only; the planned Earth-observation satellite is preparation.",
       "as_at": "2026-10-20"
     }

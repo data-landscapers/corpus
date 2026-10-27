@@ -16,6 +16,6 @@
 
 **Last twelve months.** The policy [was adopted in 2005](<https://data.inafran.ru/files/Doc/Mali/Nacionalnaa%20strategia%20razvitia%20cifrovoj%20ekonomiki%202020%20prinata%20v%202015.pdf>), and the telecommunications declaration before it [in 2000](<https://data.inafran.ru/files/Doc/Mali/Nacionalnaa%20strategia%20razvitia%20cifrovoj%20ekonomiki%202020%20prinata%20v%202015.pdf>).
 
-***Noted, not assessed***. [Mali Numérique 2020 — Stratégie Nationale de Développement de l'Economie Numérique](<https://data.inafran.ru/files/Doc/Mali/Nacionalnaa%20strategia%20razvitia%20cifrovoj%20ekonomiki%202020%20prinata%20v%202015.pdf>).
+***Also on file***. [Mali Numérique 2020 — Stratégie Nationale de Développement de l'Economie Numérique](<https://data.inafran.ru/files/Doc/Mali/Nacionalnaa%20strategia%20razvitia%20cifrovoj%20ekonomiki%202020%20prinata%20v%202015.pdf>).
 
-***Not held***. No text of the 2005 policy is held, and no source says it is unpublished. No period, delivery plan, results report, mandated body or budget line is held for it, and nothing is dated within the last twelve months; its adoption is known only from a 2014 document.
+***Not found***. No text of the 2005 policy has been found, and no source says it is unpublished. No period, delivery plan, results report, mandated body or budget line has been found for it, and nothing is dated within the last twelve months; its adoption is known only from a 2014 document.

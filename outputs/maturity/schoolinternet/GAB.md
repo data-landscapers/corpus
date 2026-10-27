@@ -2,6 +2,6 @@
 
 ## Internet in secondary schools
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held gives secondary schools with internet for teaching.
+***Not found***. Nothing found gives secondary schools with internet for teaching.

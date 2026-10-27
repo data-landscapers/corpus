@@ -16,6 +16,6 @@
 
 **Last twelve months.** [Terms of reference of July 2026](<https://paens.sn/passation-des-marches-de-services-de-consultants/>) state that the letter has been validated; the validation workshop was [reported in February 2025](<https://aps.sn/mctn-validation-finale-de-la-lettre-de-politique-sectorielle-2025-2029/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No adoption of the letter is on record. Its text, a delivery plan, a report against it, a mandated body, a budget line and any dated event in the twelve months to 30 September 2026 are not held.
+***Not found***. No adoption of the letter is on record. Its text, a delivery plan, a report against it, a mandated body, a budget line and any dated event in the twelve months to 30 September 2026 are not held.

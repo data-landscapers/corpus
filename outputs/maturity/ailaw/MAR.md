@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** The rule covers elections and not AI across sectors. A [private member's bill on regulating the use of AI](<https://www.hespress.com/%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%D8%A9-%D8%AA%D9%87%D8%AF%D9%81-%D8%A5%D9%84%D9%89-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-1494587.html>), of 17 articles, was received by the bureau of the House of Representatives in January 2025; no source dated to September 2026 says it has been debated or passed.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a law on AI itself, applying across sectors, is in force.
+***Not found***. No source found says a law on AI itself, applying across sectors, is in force.

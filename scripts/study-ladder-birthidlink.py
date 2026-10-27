@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "birthidlink"
 SUB = "link"
-GAPS = {'4': 'No source held since October 2023 gives a figure for records exchanged between the two.', '3': 'No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.', '2': 'No source held since October 2023 says: is one link in service.', '1': 'No source held since October 2023 says: is a link under way.', '5': ''}
-EMPTY = 'Nothing held says whether the civil register and the ID system are linked.'
-UNPLACED = 'Nothing held since October 2023 says whether the civil register and the ID system are linked.'
+GAPS = {'4': 'No source found since October 2023 gives a figure for records exchanged between the two.', '3': 'No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.', '2': 'No source found since October 2023 says: is one link in service.', '1': 'No source found since October 2023 says: is a link under way.', '5': ''}
+EMPTY = 'Nothing found says whether the civil register and the ID system are linked.'
+UNPLACED = 'Nothing found since October 2023 says whether the civil register and the ID system are linked.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

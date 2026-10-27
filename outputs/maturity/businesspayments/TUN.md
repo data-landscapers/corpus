@@ -8,6 +8,6 @@
 
 **Use reported.** [They told parliament that more than 27,700 bids had been registered online, with 15,500 suppliers and 1,441 public buyers](<https://arp.tn/blog/arp-blog-1/post/8172>). [The OECD counted 3,350 procurement procedures on TUNEPS over 2014-2019 (2019, before the three-year window)](<https://institutdesfinances.gov.lb/sites/default/files/2024-06/improving-e-procurement-environment-tunisia-en.pdf>).
 
-***Noted, not assessed***. [PAPSS](<https://en.africanmanager.com/tunisian-banks-urged-to-join-pan-african-papss-system/>).
+***Also on file***. [PAPSS](<https://en.africanmanager.com/tunisian-banks-urged-to-join-pan-african-papss-system/>).
 
-***Not held***. No figure for the value or share of purchasing through TUNEPS is held.
+***Not found***. No figure for the value or share of purchasing through TUNEPS has been found.

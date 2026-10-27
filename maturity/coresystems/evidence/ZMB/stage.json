@@ -12,8 +12,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-001;ZMB-003;ZMB-002",
-      "gaps": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023. Smart Invoice, mandatory since July 2024, is an invoicing system and not the tax system itself.",
-      "note": "The IFMIS (2024), TaxOnline (2025) and the PMEC payroll (2026) are each in use by sources from 2023 or later. Nothing held says one of them went live on a new or upgraded system in the last three years, which stage 4 needs.",
+      "gaps": "No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023. Smart Invoice, mandatory since July 2024, is an invoicing system and not the tax system itself.",
+      "note": "The IFMIS (2024), TaxOnline (2025) and the PMEC payroll (2026) are each in use by sources from 2023 or later. Nothing found says one of them went live on a new or upgraded system in the last three years, which stage 4 needs.",
       "as_at": "2026-10-22"
     }
   ]

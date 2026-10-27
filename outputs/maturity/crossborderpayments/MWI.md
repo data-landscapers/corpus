@@ -6,8 +6,8 @@
 
 **Regional system.** [Malawi takes part in the COMESA Digital Retail Payments Platform, described as the first interoperable cross-border payment system of the 21-member bloc](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>).
 
-**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://mwnation.com/comesa-payment-system-connects-malawi-zambia>).
 
-***Noted, not assessed***. [Malawi Police electronic traffic fine payment](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [TNM Mpamba](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Airtel Money](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Social cash transfer programmes](<https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/>).
+***Also on file***. [Malawi Police electronic traffic fine payment](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [TNM Mpamba](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Airtel Money](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Social cash transfer programmes](<https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/>).
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

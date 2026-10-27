@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is the budget itself, the latest held and the one that sets the year's money for digital work: [for FY2026 it gives 1,074,150,124 new leones to 45 digital lines, 40 of them also held for FY2025](<https://mof.gov.sl/wp-content/uploads/2025/12/FY2026-Budget-Estimates-Detailed.pdf>).
 
-***Noted, not assessed***. [Statutory Instrument No. 8 of 2019 sets up the Universal Access Development Fund and charges service providers a levy of 0.75 per cent of gross income](<https://www.parliament.gov.sl/uploads/statutory_instruments/THE%20NATIONAL%20TELECOMMUNICATION%20(UNIVERSAL%20ACCESS%20DEVELOPMENT%20FUND)%20REG.,%202019.pdf>).
+***Also on file***. [Statutory Instrument No. 8 of 2019 sets up the Universal Access Development Fund and charges service providers a levy of 0.75 per cent of gross income](<https://www.parliament.gov.sl/uploads/statutory_instruments/THE%20NATIONAL%20TELECOMMUNICATION%20(UNIVERSAL%20ACCESS%20DEVELOPMENT%20FUND)%20REG.,%202019.pdf>).
 
-***Not held***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying in the last three years, and no government statement that digital transformation must be paid for at home.
+***Not found***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying in the last three years, and no government statement that digital transformation must be paid for at home.

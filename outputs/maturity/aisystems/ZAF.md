@@ -8,6 +8,6 @@
 
 **Shared with users.** [The CHPC's 2024 service catalogue offers its HPC and GPU cluster free to academic and public-interest users for renewable six-month periods, and says it has had over 2,000 users](<https://www.chpc.ac.za/nicis-service-catalogue/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. How many of the CHPC's users run on its GPU nodes is not known.
+***Not found***. No source found says how many of the CHPC's users run on its GPU nodes.

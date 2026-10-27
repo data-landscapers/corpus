@@ -6,8 +6,8 @@
 
 **Between providers.** [SimoCash lets funds move directly from one mobile money operator to another, Orange Money being named as one](<https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile>). [Fraternite Matin reports PI-SPI, launched by the BCEAO on 30 September 2025, lets users transfer instantly between bank accounts, mobile money wallets and microfinance accounts, with 80 institutions connected](<https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile>).
 
-***Noted, not assessed***. [Tik Tak](<https://www.linfodrome.com/societe/124130-frais-de-scolarite-par-mobile-money-la-feneplaci-passe-a-la-phase-test-dans-200-etablissements>).
+***Also on file***. [Tik Tak](<https://www.linfodrome.com/societe/124130-frais-de-scolarite-par-mobile-money-la-feneplaci-passe-a-la-phase-test-dans-200-etablissements>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

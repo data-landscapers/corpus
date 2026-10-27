@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is that promulgation. [The decree of 14 July 2011](<https://pfss-comores.org/ressources/download/19>) brought the law of 26 March 2011 into force, three and a half months after the Assembly adopted it. The decree that cites it deals with another subject and uses the statistics law as one of its legal bases, which shows the law standing among the texts the government relies on. The law's own text is held and the promulgating decree is known through that citation.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

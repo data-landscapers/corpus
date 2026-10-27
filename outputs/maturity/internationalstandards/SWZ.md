@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [launch](<https://www.linkedin.com/posts/eswatini-standards-authority_improvingtheworldwelivein-eswasa-nationaladdressing-activity-7484866707195322368-8UQ2>) was made with the ministry of housing and urban development. The standards set out how addresses are modelled, assigned and maintained. Two towns' pilots of the addressing standards, in Mbabane and Ezulwini, are listed below.
 
-***Noted, not assessed***. [Mbabane's street addressing and house numbering programme](<https://www.linkedin.com/posts/municipal-council-of-mbabane_mbabanemycity-mbabanesmartcity-activity-7485998259241594880-9ytq>); [Ezulwini's addressing pilot](<https://www.linkedin.com/posts/ezulwini-municipality-discover-happiness-0812b9250_smartezulwini-nationaladdressingstandards-activity-7484859620780466176-AWHI>).
+***Also on file***. [Mbabane's street addressing and house numbering programme](<https://www.linkedin.com/posts/municipal-council-of-mbabane_mbabanemycity-mbabanesmartcity-activity-7485998259241594880-9ytq>); [Ezulwini's addressing pilot](<https://www.linkedin.com/posts/ezulwini-municipality-discover-happiness-0812b9250_smartezulwini-nationaladdressingstandards-activity-7484859620780466176-AWHI>).
 
-***Not held***. No source held names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.

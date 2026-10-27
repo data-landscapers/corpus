@@ -8,6 +8,6 @@
 
 **Source for others.** [In the demonstration a verifier app requested the population register details linked to the minister's ID, which appeared on the official's phone after he approved sharing](<https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/>). [Banks, mobile operators and insurers verify customers' identities in real time against the National Population Register through the Online Verification System, at ZAR 10 a check since 1 July 2025](<https://weetracker.com/2026/01/27/south-africa-id-verification-fee-court-case/>).
 
-***Noted, not assessed***. [Online Verification System](<https://weetracker.com/2026/01/27/south-africa-id-verification-fee-court-case/>); [MyMzansi](<https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/>).
+***Also on file***. [Online Verification System](<https://weetracker.com/2026/01/27/south-africa-id-verification-fee-court-case/>); [MyMzansi](<https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -6,8 +6,8 @@
 
 **Single gateway.** [The national identification agency's 2026 deck describes service-public.gouv.tg as a fully integrated one-stop portal for public services, powered by the e-ID](<https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf>), with sign-in by the national identification number or an email address and a one-time password sent to the user's registered phone.
 
-**Use published.** No source held since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://www.togofirst.com/en/public-services/2909-20205-togo-adds-more-administrative-procedures-to-online-public-services-portal>).
+**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://www.togofirst.com/en/public-services/2909-20205-togo-adds-more-administrative-procedures-to-online-public-services-portal>).
 
-***Noted, not assessed***. [Gouv Check](<https://digital.gouv.tg/?lang=en>); [Smart Bridge](<https://kz.kursiv.media/en/2024-06-20/kazakhstan-wants-to-export-egov-to-africa/>); [National electronic portal of public services](<https://www.republiquetogolaise.com/securite/0901-10169-une-plateforme-en-ligne-desormais-pour-denoncer-les-abus-des-forces-de-l-ordre>).
+***Also on file***. [Gouv Check](<https://digital.gouv.tg/?lang=en>); [Smart Bridge](<https://kz.kursiv.media/en/2024-06-20/kazakhstan-wants-to-export-egov-to-africa/>); [National electronic portal of public services](<https://www.republiquetogolaise.com/securite/0901-10169-une-plateforme-en-ligne-desormais-pour-denoncer-les-abus-des-forces-de-l-ordre>).
 
-***Not held***. No source held since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.

@@ -6,6 +6,6 @@
 
 **Digital skills in the curriculum.** The curriculum is asked about only once half of secondary schools have internet for teaching, so with [the figure below that line](<https://databrowser.uis.unesco.org/>) none was looked for in this first pass.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure of 33 per cent of secondary schools or more is held.
+***Not found***. No figure of 33 per cent of secondary schools or more has been found.

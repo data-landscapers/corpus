@@ -85,7 +85,7 @@ def main(argv=None) -> int:
             cell = {r["aspect"]: r for r in prof if r["sub_indicator"] == s["key"]}
             val = lambda k: cell.get(k, {}).get("value", "")
             if not any(r["sub_indicator"] == s["key"] for r in held):
-                got, why = study_lib.NO_EVIDENCE, "nothing held"
+                got, why = study_lib.NO_EVIDENCE, "nothing found"
             else:
                 ids = set(cell.get("authorities", {}).get("sources", "").split(";"))
                 slugs = {r["source_slug"] for r in held if r["row_id"] in ids}

@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-001;MOZ-002",
-      "gaps": "No source held since October 2023 says: is an e-procurement system in service.",
-      "note": "Rebuild: the government launched an e-GP project in April 2025, to be delivered in phases (MOZ-001, MOZ-002); nothing held says it is in service.",
+      "gaps": "No source found since October 2023 says: is an e-procurement system in service.",
+      "note": "Rebuild: the government launched an e-GP project in April 2025, to be delivered in phases (MOZ-001, MOZ-002); nothing found says it is in service.",
       "as_at": "2026-10-23"
     }
   ]

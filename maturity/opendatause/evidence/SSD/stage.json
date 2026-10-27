@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SSD-002",
-   "gaps": "No source held since October 2023 names two or more public bodies publishing data.",
+   "gaps": "No source found since October 2023 names two or more public bodies publishing data.",
    "note": "Counted from the four questions by study-ladder-opendatause.py."
   }
  ]

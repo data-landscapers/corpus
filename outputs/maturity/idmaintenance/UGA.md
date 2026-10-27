@@ -8,6 +8,6 @@
 
 **Platform owned.** [NIRA has completed migration of its national ID records to the open-source MOSIP platform](<https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

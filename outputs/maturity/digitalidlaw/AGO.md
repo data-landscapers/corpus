@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** The law as amended gives each identity card [a number that acts in law as the unique citizen number](<https://lex.ao/docs/assembleia-nacional/2021/lei-n-o-3-21-de-25-de-janeiro/>), and the card carries an encrypted QR code. Since 2017 the card has also [carried a microprocessor](<https://lex.ao/docs/assembleia-nacional/2017/lei-n-o-20-17-de-31-de-agosto/>) holding the holder's tax, social security, birth-record and voter numbers, so that it can be read by public and private institutions.
 
-***Noted, not assessed***. [Bilhete de Identidade de Cidadão Nacional](<https://lex.ao/docs/assembleia-nacional/2021/lei-n-o-3-21-de-25-de-janeiro/>); [Plataforma de Gestão Integrada da Identificação Civil e Criminal](<https://novojornal.co.ao/sociedade/detalhe/chineses-apoiam-angola-na-emissao-de-bi-e-registo-de-nascimento-11757.html>).
+***Also on file***. [Bilhete de Identidade de Cidadão Nacional](<https://lex.ao/docs/assembleia-nacional/2021/lei-n-o-3-21-de-25-de-janeiro/>); [Plataforma de Gestão Integrada da Identificação Civil e Criminal](<https://novojornal.co.ao/sociedade/detalhe/chineses-apoiam-angola-na-emissao-de-bi-e-registo-de-nascimento-11757.html>).
 
-***Not held***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.

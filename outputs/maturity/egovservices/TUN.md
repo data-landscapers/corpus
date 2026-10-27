@@ -6,8 +6,8 @@
 
 **Single gateway.** [The playbook presents the citizen portal e-bawaba.tn as the access point to services and to the national citizen register, with sign-in through E-Houwiya used by services of many ministries and bodies](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>).
 
-**Use published.** No source held since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>).
+**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>).
 
-***Noted, not assessed***. [Madrassati](<http://www.echos.education.gov.tn/2023-12-20/Dvpt_Num.pdf>); [EduservPlus](<http://www.echos.education.gov.tn/2023-12-20/Dvpt_Num.pdf>); [e-bawaba](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>).
+***Also on file***. [Madrassati](<http://www.echos.education.gov.tn/2023-12-20/Dvpt_Num.pdf>); [EduservPlus](<http://www.echos.education.gov.tn/2023-12-20/Dvpt_Num.pdf>); [e-bawaba](<https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf>).
 
-***Not held***. No source held since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.

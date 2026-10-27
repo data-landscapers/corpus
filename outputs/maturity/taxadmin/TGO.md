@@ -8,6 +8,6 @@
 
 **Mostly online.** [The OTR statistics page of 20 February 2026 puts the share of VAT returns filed online at 100% in 2025 for the DGE and DME directorates, and 26% for the DCIG/DOFAN/DOFR directorates](<https://www.otr.tg/index.php/fr/impots/statistiques-performances/teledeclaration-et-telepaiement.html>).
 
-***Noted, not assessed***. [Hospi-connect and Hospi-gestion](<https://www.togofirst.com/fr/gestion-publique/2903-13745-au-togo-une-commune-lance-la-teledeclaration-des-naissances-avec-l-appui-du-pnud>).
+***Also on file***. [Hospi-connect and Hospi-gestion](<https://www.togofirst.com/fr/gestion-publique/2903-13745-au-togo-une-commune-lance-la-teledeclaration-des-naissances-avec-l-appui-du-pnud>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

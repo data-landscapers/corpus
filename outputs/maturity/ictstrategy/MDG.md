@@ -16,6 +16,6 @@
 
 **Last twelve months.** The latest account of the policy is [JICA's of March 2022](<https://openjicareport.jica.go.jp/pdf/12369203.pdf>).
 
-***Noted, not assessed***. [Digital and Energy Connectivity for Inclusion in Madagascar (DECIM)](<https://documents1.worldbank.org/curated/en/099400007122258683/pdf/P17870107f0cd60a0844c0c88696412443.pdf>).
+***Also on file***. [Digital and Energy Connectivity for Inclusion in Madagascar (DECIM)](<https://documents1.worldbank.org/curated/en/099400007122258683/pdf/P17870107f0cd60a0844c0c88696412443.pdf>).
 
-***Not held***. The policy's text, an act adopting it and a stated period are not held, so whether the 2004 policy is still open is not known. No mandated body or finance since September 2023 is held, and no event in the twelve months to 30 September 2026.
+***Not found***. The policy's text, an act adopting it and a stated period are not held, so no source found says whether the 2004 policy is still open. No mandated body or finance since September 2023 has been found, and no event in the twelve months to 30 September 2026.

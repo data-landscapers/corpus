@@ -6,6 +6,6 @@
 
 **Use of the law.** On 27 August 2026 an officer of the communications regulator ESCCOM [said](<https://eswatinipositivenews.online/esccom-warns-emaswati-cyberbullying-is-a-crime/>) that cyberbullying is a crime under the Computer Crime and Cybercrime Act of 2022 and that people can be arrested for it. The Director of Public Prosecutions said on 1 October 2026 that her office has [trained prosecutors](<https://independentnews.co.sz/49053/news/minister-savannah-launches-cybersecurity-awareness-month/>) on the Act. These are official statements on how the law applies and on preparing prosecutors to use it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

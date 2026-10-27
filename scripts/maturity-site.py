@@ -54,6 +54,7 @@ from chrome_lib import SITE_BASE, MAIN_SITE, chrome, external_links, feedback, f
 from render import family_bar  # noqa: E402
 import methodology  # noqa: E402  - the Methodology section's page bar
 import editions  # noqa: E402
+import maturity_words  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
@@ -101,9 +102,9 @@ STAGES = [
 ]
 # Not staged. Unplaced keeps the grey; No evidence is left unfilled (Bill, 2026-10-19).
 GREY = dict(label="Unplaced", color="#d4d4d4", ink="#1a1a18",
-            desc="Not staged: evidence held that meets no rung.")
+            desc=maturity_words.UNPLACED_DESC)
 BLANK = dict(label="No evidence", color="#ffffff", ink="#1a1a18",
-             desc="Not staged: nothing held states any fact the ladder tests.")
+             desc=maturity_words.BLANK_DESC)
 
 UNDER_CONSTRUCTION = ('<div class="mat-construction" role="note"><strong>Under construction.</strong> '
                       'The Maturity Assessment is being built indicator by indicator; stages shown '
@@ -212,9 +213,9 @@ def country_sections(issued: Path, iso3: str, labels: dict[str, str]) -> dict[st
 
 
 def sidebar_md(body: str) -> str:
-    """The country's section for the sidebar: the aspect paragraphs and *Not held*, without the
-    *Noted, not assessed* list, which belongs to the report."""
-    keep = [p for p in re.split(r"\n\s*\n", body) if not p.startswith("***Noted")]
+    """The country's section for the sidebar: the aspect paragraphs and *Not found*, without the
+    *Also on file* list, which belongs to the report."""
+    keep = [p for p in re.split(r"\n\s*\n", body) if not p.startswith(maturity_words.ALSO_ON_FILE_LABEL)]
     return "\n\n".join(keep)
 
 
@@ -265,7 +266,9 @@ def build_data(studies, indicators, countries) -> dict:
                 bodies[iso] = country_sections(s["issued"], iso, labels)
             n, state = stage_of(r["stage"])
             cells[iid][iso] = dict(
-                stage=n, state=state, short=r["short"].strip(),
+                # R136: an issued assessment.csv keeps the words it was cut with until its study
+                # re-issues it, so the page takes R130's words here rather than cutting an edition.
+                stage=n, state=state, short=maturity_words.rewrite(r["short"].strip()),
                 assessed=month(r["as_at"]),
                 **dict(zip(("moved", "reassessed"), last_change(s["history"], iid, iso))),
                 summary=external_links(md(sidebar_md(bodies[iso].get(iid, "")))))
@@ -370,7 +373,7 @@ def africa_geo() -> dict:
 def problems(data: dict, geo: dict, studies: list[dict], indicators: list[dict],
              published: dict | None) -> list[str]:
     """What is wrong with this build, as lines. Each of these used to build quietly: a missing
-    page printed *Not yet written*, a missing country printed *Nothing held*, and a row under an
+    page printed *Not yet written*, a missing country printed *Nothing found*, and a row under an
     unknown indicator was dropped."""
     out = []
     if not studies:
@@ -604,7 +607,7 @@ def country_page(iso3: str, name: str, data: dict, bodies: dict[str, str]) -> st
         <a href="../../#{iid}|{iso3}">On the map</a></p>
       <p class="mat-report__short">{html.escape((cell or {}).get("short", ""))}</p>
       <div class="mat-report__long">
-{md(bodies.get(iid, "*Nothing held for this country yet.*"))}
+{md(bodies.get(iid, f"*{maturity_words.NOTHING_YET}*"))}
       </div>
     </section>''')
     # **Headed as the place's other reports are** *(Bill, 2026-10-17)*: the family bar, the title
@@ -697,7 +700,7 @@ Each studied indicator places each of the 54 countries on one five-stage scale. 
 
 ## No evidence and unplaced
 
-**No evidence** means nothing held states any of the facts the ladder tests. **Unplaced** means evidence is held but it meets no rung, so no stage is set. On the map *no evidence* is left unfilled and *unplaced* is grey. Neither is stage 1: *Absent* needs a dated source that says the thing does not exist.
+**No evidence** means nothing found states any of the facts the ladder tests. **Unplaced** means evidence was found but it meets no rung, so no stage is set. On the map *no evidence* is left unfilled and *unplaced* is grey. Neither is stage 1: *Absent* needs a dated source that says the thing does not exist.
 
 ## How a stage is set
 

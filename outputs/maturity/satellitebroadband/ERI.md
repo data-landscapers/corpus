@@ -2,6 +2,6 @@
 
 ## Satellite broadband licensed and on sale
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says a satellite broadband provider is licensed, or that none is.
+***Not found***. Nothing found says a satellite broadband provider is licensed, or that none is.

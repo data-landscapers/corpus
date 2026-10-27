@@ -2,6 +2,6 @@
 
 ## STEM graduates
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates. The latest held is 21.8, for 2022.
+***Not found***. No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates. The latest held is 21.8, for 2022.

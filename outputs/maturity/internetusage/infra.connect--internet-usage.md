@@ -338,18 +338,18 @@ In 2024, 17.1 per cent of the population used the internet, by an international 
 
 ### Eritrea: Unplaced
 
-No figure for the share of the population who use the internet is held for 2024 or later, so no stage is set.
+No figure for the share of the population who use the internet has been found for 2024 or later, so no stage is set.
 
-Not established: No figure for 2024 or later is held for the share of the population who use the internet.
+Not established: No figure for 2024 or later has been found for the share of the population who use the internet.
 
 ### South Sudan: Unplaced
 
-No figure for the share of the population who use the internet is held for 2024 or later, so no stage is set.
+No figure for the share of the population who use the internet has been found for 2024 or later, so no stage is set.
 
-Not established: No figure for 2024 or later is held for the share of the population who use the internet.
+Not established: No figure for 2024 or later has been found for the share of the population who use the internet.
 
 ### Sudan: Unplaced
 
-No figure for the share of the population who use the internet is held for 2024 or later, so no stage is set.
+No figure for the share of the population who use the internet has been found for 2024 or later, so no stage is set.
 
-Not established: No figure for 2024 or later is held for the share of the population who use the internet.
+Not established: No figure for 2024 or later has been found for the share of the population who use the internet.

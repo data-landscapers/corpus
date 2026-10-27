@@ -6,8 +6,8 @@
 
 **Several sectors.** Health and education each have AI in service, in separate accounts: the [TB screening](<https://english.news.cn/africa/20250329/a143c7051c3f442db05e338cfee1f561/c.html>) and the [school's tutoring labs](<https://aitsafrika.com/education/namibias-first-ai-tutoring-labs-launched-in-lderitz-nmh018656-3014-22949-22972>), one school.
 
-**Results reported.** No measured results of a sectoral AI system are held. The [minister's account of TB screening](<https://english.news.cn/africa/20250329/a143c7051c3f442db05e338cfee1f561/c.html>) gives no count of people screened or cases found.
+**Results reported.** No measured results of a sectoral AI system have been found. The [minister's account of TB screening](<https://english.news.cn/africa/20250329/a143c7051c3f442db05e338cfee1f561/c.html>) gives no count of people screened or cases found.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No single source says AI is in service in two or more sectors, and measured results are not known.
+***Not found***. No single source found says AI is in service in two or more sectors, and no source found reports measured results.

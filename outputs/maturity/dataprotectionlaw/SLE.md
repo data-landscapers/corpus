@@ -12,6 +12,6 @@
 
 **Last twelve months.** The Bill moved from [final national validation in November 2025](<https://sierraloaded.sl/news/government-data-protection-information-bill>) to [Cabinet approval on 21 April 2026](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>).
 
-***Noted, not assessed***. The [National Data Protection Policy](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>), approved by Cabinet in April 2026.
+***Also on file***. The [National Data Protection Policy](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>), approved by Cabinet in April 2026.
 
-***Not held***. No law is enacted, and whether the Bill has been tabled in Parliament is not held. No regulations and no decisions are held, and no source says there are none.
+***Not found***. No law is enacted, and whether the Bill has been tabled in Parliament is not held. No regulations and no decisions have been found, and no source says there are none.

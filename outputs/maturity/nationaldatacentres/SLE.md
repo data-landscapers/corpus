@@ -6,8 +6,8 @@
 
 **Owned in the country.** [The data centre is operated by the Sierra Leone Ministry of Finance's own directorate, the DFMST](<https://mof.gov.sl/dfmst/>). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
 
-**The state's data hosted nationally.** Nothing held says the government hosts its own data beside [the national data centres](<https://mof.gov.sl/dfmst/>).
+**The state's data hosted nationally.** Nothing found says the government hosts its own data beside [the national data centres](<https://mof.gov.sl/dfmst/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.
+***Not found***. No source found names a second nationally owned data centre for hire at Tier III or above.

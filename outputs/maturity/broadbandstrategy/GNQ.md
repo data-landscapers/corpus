@@ -6,6 +6,6 @@
 
 **Money and results.** The nearest held fact is the same [December 2025 proposal](<https://www.guineaecuatorialpress.com/noticias/propuesta_de_colaboracion_con_el_banco_mundial_para_la_transformacion_digital>), which looks to World Bank technical assistance for the design of the plan. It states the 2030 coverage aim as a goal of the proposed plan, with no delivery figure against it. The Ministry of Transport, Telecommunications and Civil Aviation also issued a July-December 2026 half-year action plan, a national plan.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a national broadband plan is adopted and still running. Nothing held shows money committed to one.
+***Not found***. No source found says a national broadband plan is adopted and still running. Nothing found shows money committed to one.

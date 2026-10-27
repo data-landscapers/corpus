@@ -8,6 +8,6 @@
 
 **National switch.** [GIMTEL's launched interconnection links national bank apps and e-wallets in one system, with further providers in technical testing](<https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

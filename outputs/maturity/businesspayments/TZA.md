@@ -8,6 +8,6 @@
 
 **Use reported.** [PPRA says more than 219,000 tenders went through NeST over financial years 2023/24 and 2024/25](<https://www.ppra.go.tz/news/procurement-through-nest-saves-over-35bn-cuts-carbon-emissions>). [Simba said NeST had handled 130,032 tenders worth Sh14.9 trillion](<https://www.thecitizen.co.tz/tanzania/news/national/e-procurement-saves-tanzania-4-9-million-in-tender-document-costs-5038796>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

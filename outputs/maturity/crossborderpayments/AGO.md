@@ -8,6 +8,6 @@
 
 **Volumes reported.** [SADC says 2025 trade and interbank transactions between Angola and the other 14 SADC states were about US$3.77 billion across nine currencies, South Africa taking about US$2.99 billion](<https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system>).
 
-***Noted, not assessed***. [CIPS](<https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/>); [SPTR](<https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/>).
+***Also on file***. [CIPS](<https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/>); [SPTR](<https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

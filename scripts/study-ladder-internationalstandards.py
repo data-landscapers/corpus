@@ -42,9 +42,9 @@ GAPS = {
     "4": "No source from the last three years naming the standards body or a public body as "
          "a participating member, chair or secretariat of an ISO or IEC committee on "
          "information technology or data is held.",
-    "3": "No source held names a law, decree, regulation, directive or circular requiring "
+    "3": "No source found names a law, decree, regulation, directive or circular requiring "
          "public bodies to meet a named international standard on information technology or data.",
-    "2": "No source held names an international standard on information technology or data "
+    "2": "No source found names an international standard on information technology or data "
          "adopted as a national standard.",
     "1": "",
 }
@@ -95,7 +95,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     blank = {"standing": "", "use": "", "sources": []}
     if not rows:
         return {"stage": "no evidence", **blank,
-                "gaps": "Nothing held names the country's standards body as a member of ISO or "
+                "gaps": "Nothing found names the country's standards body as a member of ISO or "
                         "IEC, or says it belongs to neither."}
     if writes:
         s, src = "5", writes + required[:1] + adopted[:1]

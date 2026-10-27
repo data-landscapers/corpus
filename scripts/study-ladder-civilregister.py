@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "civilregister"
 SUB = "civil"
-GAPS = {'4': 'No source held since October 2023 puts birth registration at 90% or more.', '3': 'No source held since October 2023 says deaths are registered in the digital system.', '2': 'No source held since October 2023 says: are births registered digitally across the country.', '1': 'No source held since October 2023 says: is digital civil registration under way.', '5': ''}
-EMPTY = 'Nothing held says how births and deaths are registered.'
-UNPLACED = 'Nothing held since October 2023 says whether births are registered digitally.'
+GAPS = {'4': 'No source found since October 2023 puts birth registration at 90% or more.', '3': 'No source found since October 2023 says deaths are registered in the digital system.', '2': 'No source found since October 2023 says: are births registered digitally across the country.', '1': 'No source found since October 2023 says: is digital civil registration under way.', '5': ''}
+EMPTY = 'Nothing found says how births and deaths are registered.'
+UNPLACED = 'Nothing found since October 2023 says whether births are registered digitally.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

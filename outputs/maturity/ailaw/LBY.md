@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [a legislative vacuum on AI](<https://journals.asmarya.edu.ly/jaf/index.php/jaf/article/view/803>) in November 2025, Libya has no general AI law to apply, and no body has been given powers under one. The national AI strategy and ethics charter the country has published are policy documents, not law.
 
-***Noted, not assessed***. [National Artificial Intelligence Ethics Charter](<https://lana.gov.ly/post.php?id=358532&lang=en>); [National Artificial Intelligence Strategy 2026-2030](<https://lana.gov.ly/post.php?id=358532&lang=en>); [National Strategy for Artificial Intelligence in the State of Libya 2025-2030](<https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available>).
+***Also on file***. [National Artificial Intelligence Ethics Charter](<https://lana.gov.ly/post.php?id=358532&lang=en>); [National Artificial Intelligence Strategy 2026-2030](<https://lana.gov.ly/post.php?id=358532&lang=en>); [National Strategy for Artificial Intelligence in the State of Libya 2025-2030](<https://libyaherald.com/2025/10/general-information-authority-makes-its-national-strategy-for-artificial-intelligence-2025-2030-publicly-available>).
 
-***Not held***. No bill, draft decree or draft regulation on AI is held.
+***Not found***. No bill, draft decree or draft regulation on AI has been found.

@@ -6,6 +6,6 @@
 
 **Money and results.** The project is to build a [national broadband mapping system](<https://africabbmaps.itu.int/wp-content/uploads/2026/02/Africa-BB-Maps-Project-Zambia-National-Event-Report.pdf>) in four yearly phases from 2025 to 2028, owned by the government with ZICTA as its custodian, and to train staff in mapping, data management and policy. The report says it is meant to complement the country's digital transformation work and its existing mapping of ICT infrastructure. It states no broadband targets and no budget.
 
-***Noted, not assessed***. [National ICT Policy](<https://africabbmaps.itu.int/wp-content/uploads/2026/02/Africa-BB-Maps-Project-Zambia-National-Event-Report.pdf>); [National Digital Transformation Strategy](<https://africabbmaps.itu.int/wp-content/uploads/2026/02/Africa-BB-Maps-Project-Zambia-National-Event-Report.pdf>).
+***Also on file***. [National ICT Policy](<https://africabbmaps.itu.int/wp-content/uploads/2026/02/Africa-BB-Maps-Project-Zambia-National-Event-Report.pdf>); [National Digital Transformation Strategy](<https://africabbmaps.itu.int/wp-content/uploads/2026/02/Africa-BB-Maps-Project-Zambia-National-Event-Report.pdf>).
 
-***Not held***. Whether broadband targets sit inside other government plans is not known.
+***Not found***. No source found says whether broadband targets sit inside other government plans.

@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "MUS-001;MUS-002",
-   "gaps": "No source held since October 2023 gives a measured share of half or more of adults with basic digital skills.",
+   "gaps": "No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.",
    "note": "First pass: counted from the four questions by study-ladder-digitalskills.py."
   }
  ]

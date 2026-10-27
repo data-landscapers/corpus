@@ -40,10 +40,10 @@ import study_lib  # noqa: E402
 STUDY = "nationaldatacentres"
 GAPS = {
     "5": "",
-    "4": "No source held says the government hosts its own data in a nationally owned data "
+    "4": "No source found says the government hosts its own data in a nationally owned data "
          "centre in the country.",
-    "3": "No source held names a second nationally owned data centre for hire at Tier III or above.",
-    "2": "No source held says a nationally owned data centre for hire is Tier III or above.",
+    "3": "No source found names a second nationally owned data centre for hire at Tier III or above.",
+    "2": "No source found says a nationally owned data centre for hire is Tier III or above.",
     "1": "",
 }
 NOISE = re.compile(r"\b(data|centres?|centers?|datacenters?|datacentres?|dc|the|campus|facility|tier|"
@@ -176,7 +176,7 @@ def stage(rows: list[dict], as_at: dt.date, owned: dict[str, str], iso: str = ""
     live.sort(key=lambda p: p[0], reverse=True)
     if not rows:
         return {"stage": "no evidence", "sources": [],
-                "gaps": "Nothing held names a data centre for hire, or says there is none."}
+                "gaps": "Nothing found names a data centre for hire, or says there is none."}
     said = {}
     for _, r in live:                      # newest first: the first owner fact stands
         if r["aspect"] == "owner":
@@ -190,7 +190,7 @@ def stage(rows: list[dict], as_at: dt.date, owned: dict[str, str], iso: str = ""
         return {"stage": "1", "sources": [none[0][1]["row_id"]], "gaps": ""}
     if not service:
         return {"stage": "unplaced", "sources": [],
-                "gaps": "No source held says a data centre for hire in the country is nationally "
+                "gaps": "No source found says a data centre for hire in the country is nationally "
                         "owned, and none dated in the last three years says there is none."}
     tier = [(d, r) for d, r in service if r["value"] in ("tier3", "two")]
     seen: dict[str, str] = {}

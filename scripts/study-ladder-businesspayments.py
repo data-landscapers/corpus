@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "businesspayments"
 SUB = "business"
-GAPS = {'4': 'No source held since October 2023 gives a figure for e-procurement.', '3': 'No source held since October 2023 says e-procurement runs end to end or is required of all public bodies.', '2': 'No source held since October 2023 says: is an e-procurement system in service.', '1': 'No source held since October 2023 says: is e-procurement under way.', '5': ''}
-EMPTY = 'Nothing held names a government e-procurement system, or says there is none.'
-UNPLACED = 'Nothing held since October 2023 says whether government e-procurement is under way or in service.'
+GAPS = {'4': 'No source found since October 2023 gives a figure for e-procurement.', '3': 'No source found since October 2023 says e-procurement runs end to end or is required of all public bodies.', '2': 'No source found since October 2023 says: is an e-procurement system in service.', '1': 'No source found since October 2023 says: is e-procurement under way.', '5': ''}
+EMPTY = 'Nothing found names a government e-procurement system, or says there is none.'
+UNPLACED = 'Nothing found since October 2023 says whether government e-procurement is under way or in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

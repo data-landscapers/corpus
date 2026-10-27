@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held gives the share of adults who made or received a digital payment in the past year. The nearest held fact is [the WTO summary's account figure](<https://www.wto.org/english/tratop_e/tpr_e/s470_sum_e.pdf>), which says who holds an account and nothing of payments made or received.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The 29% figure names no survey and no year. Nothing held puts adults with an account at over half, or gives the share paying digitally.
+***Not found***. The 29% figure names no survey and no year. Nothing found puts adults with an account at over half, or gives the share paying digitally.

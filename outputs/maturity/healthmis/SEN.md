@@ -8,6 +8,6 @@
 
 **Reporting rate published.** [The share of districts with report completeness of 90% or more was 57% in 2024 for reproductive, maternal, newborn, child and adolescent health (antenatal care and delivery) in DHIS2, and gives an overall data-quality score of 63% in 2024](<https://www.countdown2030.org/wp-content/uploads/2025/09/SENEGAL-Chartbook-Report-CAM-2025.pdf-FINAL.pdf>).
 
-***Noted, not assessed***. [DHIS2 for Education](<https://education.dhis2.org/implementation/senegal/>).
+***Also on file***. [DHIS2 for Education](<https://education.dhis2.org/implementation/senegal/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

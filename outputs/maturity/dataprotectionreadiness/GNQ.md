@@ -10,6 +10,6 @@
 
 **Implementing and acting.** [Data Protection Africa (ALT Advisory) states that Law No. 1/2016 creates the Governing Body for the Protection of Personal Data as the data protection authority, but that it is not yet appointed or operational](<https://dataprotection.africa/equatorial-guinea/>).
 
-***Noted, not assessed***. [Órgano Rector de Protección de Datos Personales](<https://dataprotection.africa/equatorial-guinea/>); [Ley Núm. 1/2016, de Protección de Datos Personales](<https://blog.africadataprotection.org/wp-content/uploads/2024/10/Guinee-equatoriale-ley-1-2.016-de-proteccion-de-datos.pdf>).
+***Also on file***. [Órgano Rector de Protección de Datos Personales](<https://dataprotection.africa/equatorial-guinea/>); [Ley Núm. 1/2016, de Protección de Datos Personales](<https://blog.africadataprotection.org/wp-content/uploads/2024/10/Guinee-equatoriale-ley-1-2.016-de-proteccion-de-datos.pdf>).
 
-***Not held***. Ratification of the Malabo Convention is not held, nor is any appointment to the authority or any ruling against an organisation.
+***Not found***. Ratification of the Malabo Convention is not held, nor is any appointment to the authority or any ruling against an organisation.

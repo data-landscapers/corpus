@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BDI-001",
-      "gaps": "No source held says building has started in the last three years.",
+      "gaps": "No source found says building has started in the last three years.",
       "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
       "as_at": "2026-10-17"
     }

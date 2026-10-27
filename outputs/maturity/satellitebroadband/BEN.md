@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** [Subscribers: 2,550 at 2026-03-31, per ARCEP Benin (Starlink, in the fixed internet subscriptions table of the Observatoire de l'Internet)](<https://arcep.bj/wp-content/uploads/2026/05/Observatoire_Internet_T1_2026_TaB.pdf>). Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says services on two different satellite networks are on sale.
+***Not found***. No source found says services on two different satellite networks are on sale.

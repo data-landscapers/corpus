@@ -10,6 +10,6 @@
 
 **Implementing and acting.** [DLA Piper's guide of 17 January 2024](<https://www.dlapiperdataprotection.com/index.html?c=BI&t=law>) described only sector confidentiality provisions in Burundi, before the 2026 law was adopted, and stated that no national data protection authority existed then.
 
-***Noted, not assessed***. [Burundi personal data protection law](<https://communityvoice.bi/1489-2/>); [independent data-protection authority](<https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/>).
+***Also on file***. [Burundi personal data protection law](<https://communityvoice.bi/1489-2/>); [independent data-protection authority](<https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/>).
 
-***Not held***. Whether the law has entered into force, whether the authority has been constituted and whether it has ruled on any organisation are not established.
+***Not found***. Whether the law has entered into force, whether the authority has been constituted and whether it has ruled on any organisation are not established.

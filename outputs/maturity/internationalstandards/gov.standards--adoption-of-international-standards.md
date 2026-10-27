@@ -32,19 +32,19 @@ The African Continental Free Trade Area's annex on technical barriers to trade, 
 
 ### Rwanda: 5 Leading
 
-In October 2026 Rwanda's standards board listed participating membership of 28 ISO committees, including IT service management; national adoption of any standard is not known.
+In October 2026 Rwanda's standards board listed participating membership of 28 ISO committees, including IT service management; no source found reports national adoption of any standard.
 
 - The RSB page lists Rwanda as a participating member of ISO/IEC JTC 1/SC 40 on IT service management and IT governance, and an observer on JTC 1 and SC 27 ([source, 2026-10](https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees)).
 
 ### South Africa: 5 Leading
 
-South Africa's standards body took part in the international information technology standards committee in 2026; whether it adopts those standards nationally is not known.
+South Africa's standards body took part in the international information technology standards committee in 2026; no source found says whether it adopts those standards nationally.
 
 - ISO's membership page lists the South African Bureau of Standards as participating in ISO/IEC JTC 1 and its subcommittees on information technology, including SC 27 information security, SC 37 biometrics and SC 42 artificial intelligence ([source, 2026](https://www.iso.org/member/1485.html?t=PT&view=participation)).
 
 ### Uganda: 4 Operating
 
-Uganda's 2026 information security policy requires public bodies to comply with the international information security standard; its part in writing such standards is not known.
+Uganda's 2026 information security policy requires public bodies to comply with the international information security standard; no source found reports its part in writing such standards.
 
 - NITA-U's National Information Security Policy 2026, which says it defines mandatory policy requirements for ministries, departments, agencies and local governments, says cloud, interface, artificial intelligence and industrial control technologies must be deployed and managed in compliance with ISO/IEC 27001:2022, and that organisations must apply ISA/IEC 62443 to industrial control systems; the document gives no exact day, so NITA-U's 15 July 2026 launch date is used ([source, 2026-07-15](https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf)).
 
@@ -247,7 +247,7 @@ Niger's standards agency was a correspondent member of ISO in 2026; no internati
 
 ### Nigeria: 2 Nascent
 
-Nigeria's standards body is an ISO member body, with 109 technical committees in 2026; which standards it has adopted is not known.
+Nigeria's standards body is an ISO member body, with 109 technical committees in 2026; no source found says which standards it has adopted.
 
 - ISO's member page lists the Standards Organisation of Nigeria as Nigeria's ISO member body, participating in 109 technical committees ([source, 2026](https://www.iso.org/member/1982.html)).
 
@@ -302,60 +302,60 @@ Tunisia's standards body, INNORPI, was an ISO member body in 2026; no internatio
 
 ### Botswana: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Cape Verde: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Central African Republic: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Comoros: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Guinea: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Lesotho: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### South Sudan: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### Zambia: No evidence
 
-Nothing held names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
+Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 
-Not established: Nothing held names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
+Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.

@@ -8,6 +8,6 @@
 
 **Online services.** [The eLand platform states citizens can submit online applications for ownership transfer, lease, mortgage and parcel subdivision, search property with map integration, pay fees online and download title certificates](<https://land.et>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

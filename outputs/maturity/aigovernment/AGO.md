@@ -6,8 +6,8 @@
 
 **Several bodies.** Only INACOM is held with AI in service. In July 2025 the IMA director said [AI in public services was limited to small experimental modules](<https://revistaexecutivo.com/especialistas-debate-sobre-estrategia-da-inteligencia-artificial-no-sector-publico-e-privado/>), with no structured project yet.
 
-**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [order funding a public-sector AI platform](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>), which sets no rules.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [order funding a public-sector AI platform](<https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/>), which sets no rules.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. AI in service in a second government body, and rules or a register for the government's own use of AI, are not known.
+***Not found***. No source found reports AI in service in a second government body, and rules or a register for the government's own use of AI.

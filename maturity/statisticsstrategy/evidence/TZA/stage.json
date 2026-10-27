@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "TZA-002;TZA-001",
-   "gaps": "No source held reports an evaluation of the strategy completed in the last three years.",
+   "gaps": "No source found reports an evaluation of the strategy completed in the last three years.",
    "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
   }
  ]

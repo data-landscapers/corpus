@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GHA-001",
-   "gaps": "No source held since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
+   "gaps": "No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.",
    "note": "First pass: counted from the four questions by study-ladder-refugees.py."
   }
  ]

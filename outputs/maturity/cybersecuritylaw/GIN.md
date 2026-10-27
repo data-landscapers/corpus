@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest fact held is the [same statement of 26 July 2025](<https://aminata.com/guinee_loi-sur-la-cybersecurite-le-president-de-haute-autorite-de-la-communication-apporte-des-precisions/>). In it the regulator's president said the cybersecurity law will be applied to web media that break the rules, and that the penalty is prison for any person who breaks them, whoever that person is.
 
-***Noted, not assessed***. [ANSSI Guinée](<https://anssi.gov.gn/campagne-nationale-de-sensibilisation-et-de-formation-sur-la-cybersecurite-et-la-lutte-contre-la-cybercriminalite/>), the Agence Nationale de la Sécurité des Systèmes d'Information, under the Ministère de la Communication, de l'Économie Numérique et de l'Innovation.
+***Also on file***. [ANSSI Guinée](<https://anssi.gov.gn/campagne-nationale-de-sensibilisation-et-de-formation-sur-la-cybersecurite-et-la-lutte-contre-la-cybercriminalite/>), the Agence Nationale de la Sécurité des Systèmes d'Information, under the Ministère de la Communication, de l'Économie Numérique et de l'Innovation.
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

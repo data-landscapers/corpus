@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-003",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "Africell launched AI-EVA, a voice assistant in local languages, in Sierra Leone in June 2025. No AI computing in the country is held.",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "Africell launched AI-EVA, a voice assistant in local languages, in Sierra Leone in June 2025. No AI computing in the country has been found.",
       "as_at": "2026-10-23"
     }
   ]

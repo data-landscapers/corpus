@@ -6,6 +6,6 @@
 
 **Standards required and checked.** [The framework](<https://api.xroad.bj/documents/10/download>) was instituted by decree in 2020 and is addressed to administrations that provide a public service.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a law, decree, regulation or circular requires public bodies to use the standards. The decree that instituted the framework is not held.
+***Not found***. No source found says a law, decree, regulation or circular requires public bodies to use the standards. The decree that instituted the framework is not held.

@@ -6,6 +6,6 @@
 
 **Certification.** The international standards organisation's [member register](<https://www.iso.org/member/316519.html>) records the institute as a public body, under a statute approved in April 2021, that draws up and sells technical standards and holds correspondent membership. It records no certification against a standard on information technology or data.
 
-***Noted, not assessed***. [Gabinete de Gestão e Arquivo de Dados (GAD) / ANPG data management system](<https://lex.ao/docs/ministerio-dos-recursos-minerais-petroleo-e-gas/2025/decreto-executivo-n-o-691-25-de-29-de-agosto/>); [Sistema Nacional de Gestão de Regulamentos Técnicos (SINGERT)](<https://lex.ao/docs/presidente-da-republica/2021/decreto-presidencial-n-o-95-21-de-20-de-abril/>).
+***Also on file***. [Gabinete de Gestão e Arquivo de Dados (GAD) / ANPG data management system](<https://lex.ao/docs/ministerio-dos-recursos-minerais-petroleo-e-gas/2025/decreto-executivo-n-o-691-25-de-29-de-agosto/>); [Sistema Nacional de Gestão de Regulamentos Técnicos (SINGERT)](<https://lex.ao/docs/presidente-da-republica/2021/decreto-presidencial-n-o-95-21-de-20-de-abril/>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

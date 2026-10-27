@@ -113,98 +113,98 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 
 ### Central African Republic: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - The ANE officially published the definitive electoral list of 2,398,158 registered voters on 23 August 2025 ([source, 2025-08-23](https://french.xinhuanet.com/20250825/216678a5ca894a1d915b2f5528ff0973/c.html)).
 - The exercise verifies the details of citizens registered in 2020, and the president checked whether his name was on the electoral list ([source, 2024-11-24](https://www.biometricupdate.com/202412/central-african-republic-enrols-citizens-for-first-local-elections-in-36-years)).
 
 ### Comoros: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - The OIF's Francophonie electoral mission reports that the voters' lists were systematically posted in front of all polling stations visited for the 12 January 2025 legislative elections ([source, 2025-01-12](https://www.lexterieur.com/la-une/international/legislatives-aux-comores-la-declaration-preliminaire-de-la-mission-electorale-de-la-francophonie)).
 
 ### Congo: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - L'Horizon Africain reports that from 1 September to 30 October 2025 Congolese of voting age are called to check their names on the electoral lists at district and arrondissement town halls and register if absent, under an interior ministry order of 8 August 2025 ([source, 2025-09-01](https://www.lhorizonafricain.com/wp-content/uploads/2025/09/302.pdf)).
 
 ### Cote d'Ivoire: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - The Independent Electoral Commission says the definitive roll can be consulted from 4 June 2025 on its website and by SMS using the codes *919# or #919# on all mobile operators ([source, 2025-06-04](https://cei.ci/point-de-presse-relatif-a-larret-de-la-liste-electorale-definitive-2025/)).
 
 ### Eswatini: 4 Operating
 
-Voters could check the digital roll in 2026; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2026; no source found reports a link to the ID or civil register.
 
 - The EBC says a preliminary voter's register is sent to the chiefdoms for validation, where registered voters can verify their details and a copy of the register is kept for a specific period ([source, 2026-08-29](https://www.elections.org.sz/2023/electoral-process/)).
 
 ### Gabon: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - The Ministry of the Interior says citizens can check their registration on the electoral roll and their polling centre online at www.consultation.listelectorale.ga by entering their NIP and name ([source, 2025-09](https://www.interieur.gouv.ga/9-actualites/601-verifiez-votre-inscription-et-consultez-votre-centre-de-vote-en-quelques-clics-/)).
 
 ### Ghana: 4 Operating
 
-Voters could check the digital roll in 2026; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2026; no source found reports a link to the ID or civil register.
 
 - The EC's Director of Electoral Services said the exhibition of the voters register is a critical stage in which voters have the right to object to names on the roll ([source, 2026-08-12](https://ghananewsonline.com.gh/ec-outlines-sweeping-reforms-to-strengthen-ghanas-electoral-system/)).
 
 ### Kenya: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - The Daily Nation reports that the IEBC chairman gazetted 29 September 2025 for resuming continuous voter registration, letting Kenyans register, transfer, correct details or inspect their records at any of the 290 constituency offices ([source, 2025-08-28](https://nation.africa/kenya/news/politics/iebc-turns-to-id-data-to-meet-voter-targets-5623352)).
 
 ### Mauritius: 4 Operating
 
-Voters could check the digital roll in 2024; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2024; no source found reports a link to the ID or civil register.
 
 - The Electoral Commissioner's office says voters can check the electoral register online at electoral.govmu.org or by SMS, using their national identity card number, as well as at 43 registration centres and by phone, during the 16-30 May 2024 registration ([source, 2024-05-21](https://defimedia.info/liste-electorale-plus-que-quelques-jours-pour-verifier-et-sinscrire)).
 
 ### Morocco: 4 Operating
 
-Voters could check the digital roll in 2026; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2026; no source found reports a link to the ID or civil register.
 
 - Order 503-26 of the Ministry of the Interior says registered voters can view their own entries on the electoral lists through the website www.listeselectorales.ma, using their electronic national ID card number with surname or birth date ([source, 2026-03-13](https://adala.justice.gov.ma/api/uploads/2026/10/13/Arr%C3%AAt%C3%A9%20du%20ministre%20de%20l'int%C3%A9rieur%20n%C2%B0%20503-26%20relatif%20au%20site%20%C3%A9lectronique%20r%C3%A9serv%C3%A9%20aux%20listes%20%C3%A9lectorales%20g%C3%A9n%C3%A9rales-1791891611199.pdf)).
 
 ### Mozambique: 4 Operating
 
-Voters could check the digital roll in 2024; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2024; no source found reports a link to the ID or civil register.
 
 - The Commonwealth Observer Group says copies of the voter register are displayed where registration brigades operated so voters can scrutinise it and complain in writing, and that the final register was published on 4-9 July 2024 ([source, 2024-07](https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2025-09/mozambique-cog-report-2024.pdf)).
 
 ### Seychelles: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - The Electoral Commission of Seychelles says voters can use its new Online Voter Registration system at ecs.sc to check their registration status or register, transfer, correct, change name or object ([source, 2025-07-13](https://www.nation.sc/articles/26766/ecs-encourages-voters-to-register-online)).
 
 ### Tanzania: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - INEC Director of Elections Ramadhani Kailima said the voter register is by law made public during every stage of its update, and that it was provided to 18 political parties on 27 July 2025 ([source, 2025-07-27](https://thechanzo.com/2025/08/04/inec-tanzania-responds-to-concerns-over-voter-register-numbers/)).
 
 ### Tunisia: 4 Operating
 
-Voters could check the digital roll in 2023; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2023; no source found reports a link to the ID or civil register.
 
 - The ISIE says that from 13 November 2023 voters can check their registration at voting centres and constituencies via service 195 with the national ID card number, and by SMS, with 1.406 million Tunisians having used SMS to check their polling place ([source, 2023-11-13](https://www.leconomistemaghrebin.com/2023/11/13/isie-debut-derniere-periode-mise-jour/)).
 
 ### Uganda: 4 Operating
 
-Voters could check the digital roll in 2025; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2025; no source found reports a link to the ID or civil register.
 
 - The Electoral Commission says the National Voters Register was displayed in 2025 and urges the public to use its official website ec.or.ug/register to verify voter registration particulars and polling station ([source, 2025-12-31](https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf)).
 
 ### Zambia: 4 Operating
 
-Voters could check the digital roll in 2026; a link to the ID or civil register is not known.
+Voters could check the digital roll in 2026; no source found reports a link to the ID or civil register.
 
 - The EU mission says the ECZ's online pre-registration portal enabled registered voters to electronically inspect the Provisional Register of Voters ([source, 2026-08-15](https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf)).
 - The SADC mission says the voters' register was displayed at 201 of 277 polling stations observed (73 per cent) on polling day ([source, 2026-08-13](https://www.sadc.int/sites/default/files/2026-08/PRELIMINARY%20STATEMENT%20-%20SEOM%20ZAMBIA.pdf)).
@@ -311,54 +311,54 @@ A 2026 source says the voters' roll is compiled by hand for each poll.
 
 ### Burkina Faso: Unplaced
 
-Nothing held since 2023 names a digital voters' roll, so no stage is set.
+Nothing found since 2023 names a digital voters' roll, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the voters' roll is held digitally.
+Not established: Nothing found since October 2023 says whether the voters' roll is held digitally.
 
 ### Chad: Unplaced
 
-Nothing held since 2023 names a digital voters' roll, so no stage is set.
+Nothing found since 2023 names a digital voters' roll, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the voters' roll is held digitally.
+Not established: Nothing found since October 2023 says whether the voters' roll is held digitally.
 
 ### Djibouti: Unplaced
 
-Nothing held since 2023 names a digital voters' roll, so no stage is set.
+Nothing found since 2023 names a digital voters' roll, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the voters' roll is held digitally.
+Not established: Nothing found since October 2023 says whether the voters' roll is held digitally.
 
 ### Niger: Unplaced
 
-Nothing held since 2023 names a digital voters' roll, so no stage is set.
+Nothing found since 2023 names a digital voters' roll, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the voters' roll is held digitally.
+Not established: Nothing found since October 2023 says whether the voters' roll is held digitally.
 
 ### Sierra Leone: Unplaced
 
-Nothing held since 2023 names a digital voters' roll, so no stage is set.
+Nothing found since 2023 names a digital voters' roll, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether the voters' roll is held digitally.
+Not established: Nothing found since October 2023 says whether the voters' roll is held digitally.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a digital voters' roll or says there is none, so no stage is set.
+Nothing found names a digital voters' roll or says there is none, so no stage is set.
 
-Not established: Nothing held says how the voters' roll is held.
+Not established: Nothing found says how the voters' roll is held.
 
 ### Eritrea: No evidence
 
-Nothing held names a digital voters' roll or says there is none, so no stage is set.
+Nothing found names a digital voters' roll or says there is none, so no stage is set.
 
-Not established: Nothing held says how the voters' roll is held.
+Not established: Nothing found says how the voters' roll is held.
 
 ### Mauritania: No evidence
 
-Nothing held names a digital voters' roll or says there is none, so no stage is set.
+Nothing found names a digital voters' roll or says there is none, so no stage is set.
 
-Not established: Nothing held says how the voters' roll is held.
+Not established: Nothing found says how the voters' roll is held.
 
 ### Sudan: No evidence
 
-Nothing held names a digital voters' roll or says there is none, so no stage is set.
+Nothing found names a digital voters' roll or says there is none, so no stage is set.
 
-Not established: Nothing held says how the voters' roll is held.
+Not established: Nothing found says how the voters' roll is held.

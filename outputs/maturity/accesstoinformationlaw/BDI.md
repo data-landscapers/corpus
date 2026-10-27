@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The nearest held fact is the draft, [the bill the Senate adopted on 29 September 2026](<https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/>). A bill makes no rules and sets up no oversight body until it is passed, promulgated and in force. Once it is, what would put it to work is a decree or regulation made under it, or an information commission or commissioner appointed, and what would show it applied is a decision or penalty on a request for information, or published figures of requests.
 
-***Noted, not assessed***. [National Commission on Access to Public Information](<https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/>).
+***Also on file***. [National Commission on Access to Public Information](<https://www.burunditimes.com/burundi-adopts-right-to-information-law-with-broad-exceptions/>).
 
-***Not held***. No source held says an access to information law is in force.
+***Not found***. No source found says an access to information law is in force.

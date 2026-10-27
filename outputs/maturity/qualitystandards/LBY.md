@@ -6,6 +6,6 @@
 
 **Certification.** The [1990 law](<https://aladel.gov.ly/home/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%b1%d9%82%d9%85-5-%d9%84%d8%b3%d9%86%d8%a9-1990%d9%85-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85/>) gives the centre quality control as well as standard-setting. Neither it nor the report of the 2026 meeting names certification against a standard on information technology or data.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

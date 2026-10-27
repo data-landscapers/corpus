@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-003;GHA-002",
-      "gaps": "Two of the five main registers are on record: the civil service payroll keyed on the Ghana Card PIN (GHA-003) and GRA's revenue collection relying on NIA verification (GHA-002); NHIS is health insurance and the National Service Scheme is not the civil service payroll. No electoral, social protection or business register is held using the number, and no figure from matching a register against the ID.",
+      "gaps": "Two of the five main registers are on record: the civil service payroll keyed on the Ghana Card PIN (GHA-003) and GRA's revenue collection relying on NIA verification (GHA-002); NHIS is health insurance and the National Service Scheme is not the civil service payroll. No electoral, social protection or business register has been found using the number, and no figure from matching a register against the ID.",
       "note": "The civil service payroll requires the Ghana Card PIN for employees and pensioners from January 2024, a public register keyed on the ID. Stage 4 needs three of the five main registers, and two are held.",
       "as_at": "2026-10-27"
     }

@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "idverification"
 SUB = "use"
-GAPS = {'4': 'No source held since October 2023 gives a figure for verifications or counts the services relying on the ID.', '3': 'No source held since October 2023 shows services in two or more sectors checking against the ID.', '2': 'No source held since October 2023 says a service in use checks people against the ID.', '1': "No source held since October 2023 says another system's use of the national ID is under way.", '5': ''}
-EMPTY = "Nothing held names another system checking people against the national ID, or says there is none."
-UNPLACED = "Nothing held since October 2023 names another system checking people against the national ID."
+GAPS = {'4': 'No source found since October 2023 gives a figure for verifications or counts the services relying on the ID.', '3': 'No source found since October 2023 shows services in two or more sectors checking against the ID.', '2': 'No source found since October 2023 says a service in use checks people against the ID.', '1': "No source found since October 2023 says another system's use of the national ID is under way.", '5': ''}
+EMPTY = "Nothing found names another system checking people against the national ID, or says there is none."
+UNPLACED = "Nothing found since October 2023 names another system checking people against the national ID."
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

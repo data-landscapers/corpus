@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "landregister"
 SUB = "land"
-GAPS = {'4': 'No source held since October 2023 says land can be searched or registered online.', '3': 'No source held since October 2023 says the digital land register covers the whole country.', '2': 'No source held since October 2023 says: is a digital land register in service.', '1': 'No source held since October 2023 says: is digital land registration under way.', '5': ''}
-EMPTY = 'Nothing held says how land rights are recorded.'
-UNPLACED = 'Nothing held since October 2023 says whether land rights are registered digitally.'
+GAPS = {'4': 'No source found since October 2023 says land can be searched or registered online.', '3': 'No source found since October 2023 says the digital land register covers the whole country.', '2': 'No source found since October 2023 says: is a digital land register in service.', '1': 'No source found since October 2023 says: is digital land registration under way.', '5': ''}
+EMPTY = 'Nothing found says how land rights are recorded.'
+UNPLACED = 'Nothing found since October 2023 says whether land rights are registered digitally.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

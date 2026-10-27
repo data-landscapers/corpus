@@ -6,8 +6,8 @@
 
 **Overseeing a switch.** [AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in the Central African Republic](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-**Live on PAPSS.** Nothing held shows the country live on PAPSS. What is held is a regional payment system, which does not count: [the Central African Republic is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021](<https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac>).
+**Live on PAPSS.** Nothing found shows the country live on PAPSS. What is held is a regional payment system, which does not count: [the Central African Republic is one of six CEMAC states covered by GIMAC's interoperable QR Code standard, validated by the UMAC ministerial committee in April 2026 and launched on 29 July 2026 over GIMACPAY, in service since 2021](<https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac>).
 
-***Noted, not assessed***. [PAPSS](<https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026>); [GIMACPAY](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
+***Also on file***. [PAPSS](<https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026>); [GIMACPAY](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Not held***. No source held since October 2023 says the country is live on PAPSS.
+***Not found***. No source found since October 2023 says the country is live on PAPSS.

@@ -10,6 +10,6 @@
 
 **Implementing and acting.** On 22 January 2026 [ITWeb Africa reported](<https://itweb.africa/article/congo-brazzaville-intros-data-protection-commission/>) that Congo-Brazzaville has established the Commission, whose members were installed by ICT minister Leon Juste Ibombo, who described it as an independent body able to advise, warn and sanction.
 
-***Noted, not assessed***. [National Personal Data Protection Commission](<https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/>).
+***Also on file***. [National Personal Data Protection Commission](<https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/>).
 
-***Not held***. No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting.
+***Not found***. No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting.

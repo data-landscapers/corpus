@@ -6,8 +6,8 @@
 
 **Single window.** [UNCTAD says the first phase of the Guichet Unique du Commerce Extérieur (GUCE) has been deployed, and its programme is to extend it to more border agencies](<https://unctad.org/project/comoros-economic-integration-acceleration-programme-components-1-and-2a>). [The same programme says customs procedures are still only partly digitised](<https://unctad.org/project/comoros-economic-integration-acceleration-programme-components-1-and-2a>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<http://www.douane.gov.km/lire-actu.php?id=34&lang=fr>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<http://www.douane.gov.km/lire-actu.php?id=34&lang=fr>).
 
-***Noted, not assessed***. [SIGIT](<https://www.lagazettedescomores.com/economie/interconnexion-sigit-/-sydonia-vers-la-modernisation-et-la-s%C3%A9curisation-de-la-gestion-fiscale-.html>).
+***Also on file***. [SIGIT](<https://www.lagazettedescomores.com/economie/interconnexion-sigit-/-sydonia-vers-la-modernisation-et-la-s%C3%A9curisation-de-la-gestion-fiscale-.html>).
 
-***Not held***. No source held since October 2023 says the customs system exchanges declaration or transit data with another country's customs.
+***Not found***. No source found since October 2023 says the customs system exchanges declaration or transit data with another country's customs.

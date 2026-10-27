@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** [The four arrêtés of 9 July 2026](<https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf>) and [Décret n° 2026-101 of 31 March 2026](<https://sgg.cg/JO/2026/congo-jo-2026-28.pdf>) are the nearest held instruments. Each names the 2019 law on electronic transactions among its legal bases, and each treats it as already in force. The law is dated 12 December 2019, while the decree and the arrêtés citing it are dated March and July 2026.
 
-***Noted, not assessed***. [Système de facturation électronique certifiée (SFEC)](<https://www.finances.gouv.cg/fr/articles/lancement-officiel-de-la-campagne-nationale-de-sensibilisation-au-syst%C3%A8me-de-facturation>).
+***Also on file***. [Système de facturation électronique certifiée (SFEC)](<https://www.finances.gouv.cg/fr/articles/lancement-officiel-de-la-campagne-nationale-de-sensibilisation-au-syst%C3%A8me-de-facturation>).
 
-***Not held***. No decree, regulation or order made under the law is named in the sources held.
+***Not found***. No decree, regulation or order made under the law is named in the sources found.

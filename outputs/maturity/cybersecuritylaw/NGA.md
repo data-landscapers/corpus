@@ -6,6 +6,6 @@
 
 **Use of the law.** [In December 2024 activist Olamide Thomas was arrested and charged for allegedly insulting the President's son on Facebook](<https://www.vanguardngr.com/2025/08/how-misuse-of-cybercrime-act-cost-nigeria-n1-1trn-in-7-yrs/>). [The Department of State Services is prosecuting activist and presidential candidate Omoyele Sowore over his description of the President as a criminal](<https://punchng.com/sowore-serap-lawyer-demand-dss-withdraw-charges/>), and [its Director-General announced on 30 August 2026 that the prosecution would be suspended until after the 2027 election](<https://punchng.com/sowore-serap-lawyer-demand-dss-withdraw-charges/>). SERAP says [authorities continue to use section 24 to arrest and charge journalists, bloggers, activists and ordinary citizens](<https://blueprint.ng/cybercrimes-serap-nge-seek-reform-media-freedom-cites-ecowas-court-verdicts/>). [Reporters Without Borders reported in 2024 that at least eight journalists had been arrested, prosecuted or detained under the Act](<https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/>).
 
-***Noted, not assessed***. [Code of Practice for Interactive Computer Service Platforms](<https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/>), issued by NITDA.
+***Also on file***. [Code of Practice for Interactive Computer Service Platforms](<https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/>), issued by NITDA.
 
-***Not held***. The number of cases investigated, prosecuted or decided under the law in a period ending in the last two years.
+***Not found***. The number of cases investigated, prosecuted or decided under the law in a period ending in the last two years.

@@ -12,6 +12,6 @@
 
 **Last twelve months.** On 2 July 2026 [ARTCI launched Certinum, an online platform for compliance and processing-authorisation requests](<https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire>), with the Treasury and ONECI the first two bodies to use it. The minister said [a national register of data protection correspondents was created in 2026](<https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No named decision or sanction on a controller, and no published count of decisions, sanctions or complaints settled for a stated year. The 2022 control operations carry no count and no sanction.
+***Not found***. No named decision or sanction on a controller, and no published count of decisions, sanctions or complaints settled for a stated year. The 2022 control operations carry no count and no sanction.

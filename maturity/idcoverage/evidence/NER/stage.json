@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "NER-002",
-   "gaps": "No source held since October 2023 says: do two-thirds hold one.",
+   "gaps": "No source found since October 2023 says: do two-thirds hold one.",
    "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
   }
  ]

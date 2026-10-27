@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CMR-001",
-      "gaps": "No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
+      "gaps": "No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.",
       "note": "Counted from the four questions by study-ladder-datatransfers.py.",
       "as_at": "2026-10-17"
     }

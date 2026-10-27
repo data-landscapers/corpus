@@ -4,6 +4,6 @@
 
 **Share of people who own a mobile phone, with its year.** In 2024, [84.8 per cent of people aged 10 and over](<https://unstats.un.org/sdgs/dataportal>) in Gabon owned a mobile phone, an estimate by the International Telecommunication Union. That leaves 15.2 per cent without a phone of their own. The same series [put the share at 82.1 per cent in 2021, 84.7 per cent in 2022 and 84.7 per cent in 2023](<https://unstats.un.org/sdgs/dataportal>). Since 2021 the share rose by 2.7 points. Every figure since 2021 is an estimate, not a survey result. The share is past four in five and 10.2 points short of 95 per cent, which is nearly everyone. The figure counts a person once, whatever the number of SIM cards they hold, and counts a phone as owned where the person has it for their own use.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure of 95 per cent or more is held. No national survey or census figure for 2024 or later is held.
+***Not found***. No figure of 95 per cent or more has been found. No national survey or census figure for 2024 or later has been found.

@@ -284,7 +284,7 @@ In 2025, 5 GB of mobile data for a month cost 9.46 per cent of average monthly i
 
 ### Zimbabwe: 2 Nascent
 
-In 2024 a month of mobile data cost 5.87 per cent of average income, on the regulator's April tariff; later prices are not known.
+In 2024 a month of mobile data cost 5.87 per cent of average income, on the regulator's April tariff; no source found reports later prices.
 
 - The Herald reports that Potraz announced a mobile data tariff of ZiG 0.0928 per megabyte in April 2024, equal to ZiG 92.8 per gigabyte at 1,000 MB ([source, 2024-04](https://www.heraldonline.co.zw/debate-over-new-data-prices/)).
 
@@ -344,12 +344,12 @@ In 2025, 5 GB of mobile data for a month cost 24.23 per cent of average monthly 
 
 ### Equatorial Guinea: Unplaced
 
-No figure for what a month of mobile data costs against income is held for 2024 or later, so no stage is set.
+No figure for what a month of mobile data costs against income has been found for 2024 or later, so no stage is set.
 
-Not established: No figure for 2024 or later is held for what a month of mobile data costs against income.
+Not established: No figure for 2024 or later has been found for what a month of mobile data costs against income.
 
 ### Eritrea: No evidence
 
-No figure for what a month of mobile data costs against income is held for 2024 or later, so no stage is set.
+No figure for what a month of mobile data costs against income has been found for 2024 or later, so no stage is set.
 
-Not established: Nothing held gives what a month of mobile data costs against income.
+Not established: Nothing found gives what a month of mobile data costs against income.

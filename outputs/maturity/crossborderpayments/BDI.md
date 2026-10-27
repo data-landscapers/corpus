@@ -6,8 +6,8 @@
 
 **Regional system.** [The BRB has acceded to PAPSS, with four Burundian banks authorised to take part, says BRB's Nduwimana Libere](<https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/>).
 
-**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/>).
 
-***Noted, not assessed***. [BurundiPay](<https://www.channelafrica.co.za/channelafrica/news/burundi-integrates-comesa-payment-systems-to-boost-cross-border-trade/>); [EARDIP](<https://www.rtnb.bi/?mypost?id=529>); [PAPSS](<https://www.brb.bi/node/3303>).
+***Also on file***. [BurundiPay](<https://www.channelafrica.co.za/channelafrica/news/burundi-integrates-comesa-payment-systems-to-boost-cross-border-trade/>); [EARDIP](<https://www.rtnb.bi/?mypost?id=529>); [PAPSS](<https://www.brb.bi/node/3303>).
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

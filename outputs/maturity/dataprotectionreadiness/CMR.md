@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The Minister of Posts and Telecommunications [told the National Assembly](<https://leconomie.info/minette-libom-li-likeng-cest-en-construisant-un-numerique-au-service-de-tous-que-nous-poserons-les-fondations-dun-developpement-inclusif/>) on 8 April 2025 that Cameroon had adopted the law of 23 December 2024, setting principles, controller obligations and data subject rights.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No ratification of the Malabo Convention is held, and no source held says an authority has been appointed. Nothing is held on how the law is applied or on any ruling.
+***Not found***. No ratification of the Malabo Convention has been found, and no source found says an authority has been appointed. Nothing is held on how the law is applied or on any ruling.

@@ -11,7 +11,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MUS-005;MUS-004",
-      "gaps": "No source held says the country has designated its critical information infrastructure.",
+      "gaps": "No source found says the country has designated its critical information infrastructure.",
       "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
       "as_at": "2026-10-25"
     }

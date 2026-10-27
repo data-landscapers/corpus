@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** [Sierra Loaded reports](<https://sierraloaded.sl/news/government-activate-e-transactions-law/>) that at a government dialogue on implementing the Act on 27 and 28 July 2026, its enforcement structures were not yet fully established. These include digital certification authorities, electronic evidence procedures, dispute resolution and penalties. The law is in force, but the machinery for applying it was still being set up in July 2026.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

@@ -8,6 +8,6 @@
 
 **Results reported.** Qure.ai reports that by March 2024 its AI had [read over 6,000 scans and identified about 1,100 people with potential TB](<https://www.qure.ai/us/impact-stories/transforming-healthcare-in-lesotho-with-ai-a-case-study-on-combating-tuberculosis>) for laboratory confirmation.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

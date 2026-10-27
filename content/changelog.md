@@ -1,5 +1,6 @@
 ## 27 October 2026
 
+- The maturity pages now close on *Not found*, for what was looked for and not found, and *Also on file*, for systems found but not assessed. *Not held* and *Noted, not assessed* are retired, and the map legend reads *evidence found* and *nothing found*.
 - South Africa's status report has four Governance sections rewritten: strategies, legislation, data protection and regional collaboration. Each now opens on a dated, linked fact and follows the order of the lookups page's indicators.
 - South Africa's 2026/27 budget lines now carry the revised figures of the Adjusted Estimates of National Expenditure tabled in October, for 70 of 78 lines. Home Affairs' IT line rises from R1.09bn to R1.72bn; the eight lines the volume does not print, mostly public entities' own budgets, stay at their appropriation.
 

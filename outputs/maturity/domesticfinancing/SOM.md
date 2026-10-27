@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is the budget itself, the latest held and the one that sets the year's money for digital work: [for 2026 it gives 6,247,842 US dollars to 13 digital lines, 2 of them also held for 2025](<https://mof.gov.so/sites/default/files/Publications/Sharciga%20Miisaaniyadda%20Sanadka%202026_0.pdf>).
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying in the last three years, and no government statement that digital transformation must be paid for at home.
+***Not found***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying in the last three years, and no government statement that digital transformation must be paid for at home.

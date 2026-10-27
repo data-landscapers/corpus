@@ -6,6 +6,6 @@
 
 **ICT equipment made in the country.** A plant is asked about only once exports reach 0.5 per cent of GDP, so with [exports below that line](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>) none was looked for in this first pass.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure of 0.05 per cent of GDP or more is held.
+***Not found***. No figure of 0.05 per cent of GDP or more is held.

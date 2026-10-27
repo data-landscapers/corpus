@@ -6,8 +6,8 @@
 
 **Electronic payment.** [L'Economie reports that since 3 August 2026 taxpayers pay taxes and levies online through the Fouta national switch after declaring on E-Tax, with an electronic Treasury receipt, rollout to all taxpayers by end of 2026](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>).
 
-***Noted, not assessed***. [Fouta](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>).
+***Also on file***. [Fouta](<https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/>).
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

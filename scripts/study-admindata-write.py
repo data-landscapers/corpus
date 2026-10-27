@@ -8,7 +8,7 @@ r"""study-admindata-write.py — the admindata study's summaries, written from i
 it, on the ladder of 2026-10-19. **Nothing is composed here that a fact does not state**: each of the three paragraphs is
 the drafters' own fact sentences on that aspect, each linked whole to its evidence row's
 `url`, the rows that set the stage first, then the rest newest first while the paragraph stays
-inside its room. An aspect with nothing held says so, linked to the fact that set the stage.
+inside its room. An aspect with nothing found says so, linked to the fact that set the stage.
 
 Writes, per country, `outputs/maturity/admindata/{ISO3}.md` and
 `maturity/admindata/evidence/{ISO3}/short.json`. Run it after the ladder script.
@@ -25,6 +25,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "admindata"
@@ -41,9 +42,9 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "use": "No source held reports work under way, or a product that leaves its sources unnamed, since October 2023. The nearest held fact: {l}.",
-    "source": "No source held names the administrative records a product published since October 2023 draws on. The nearest held fact: {l}.",
-    "series": "No source held states that statistics from administrative records are published regularly. The nearest held fact: {l}.",
+    "use": "No source found reports work under way, or a product that leaves its sources unnamed, since October 2023. The nearest held fact: {l}.",
+    "source": "No source found names the administrative records a product published since October 2023 draws on. The nearest held fact: {l}.",
+    "series": "No source found states that statistics from administrative records are published regularly. The nearest held fact: {l}.",
 }
 
 
@@ -62,7 +63,7 @@ def shorten(cell: dict, y: str, top: dict) -> str:
     if s == "4":
         what = what if first else re.sub(r"\s+\d{4}(?:[-/]\d{2,4})?\b", "", what)   # the product, not one edition
         return (f"{what} {'were' if first else 'was'} published twice in three years, the latest in {y}; "
-                "three sources published twice are not known.")
+                "no source found reports three sources published twice.")
     return f"Statistics from three administrative sources or more were each published twice in three years, the latest in {y}."
 
 
@@ -154,15 +155,15 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
     elif cell["stage"] == "unplaced":
         short = "No statistics from administrative records published since 2023, or work towards them, are on record, so no stage is set."
     else:
-        short = "Nothing held says whether the country draws statistics from administrative records, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+        short = "Nothing found says whether the country draws statistics from administrative records, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

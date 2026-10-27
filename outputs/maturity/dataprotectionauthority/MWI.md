@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** In October 2025 the authority issued [guidelines on personal data breach notification](https://www.dpa.mw/download/guidelines-on-personal-data-breach-notifications-and-communications/?wpdmdl=8818) and a [guideline and checklist on compliance](https://www.dpa.mw/download/guideline-and-checklist-on-compliance/?wpdmdl=8808). In July 2026 it [consulted stakeholders on proposed registration fees](https://www.nyasatimes.com/macra-consults-stakeholders-on-proposed-data-protection-registration-fees/), and in September 2026 [GIZ was supporting its work on audits and investigations](https://techreviewafrica.com/news/7293/giz-supports-malawi-data-protection-authority-with-training-of-trainers-programme).
 
-***Noted, not assessed***. The [Data Protection Act, 2024](https://cyrilla.org/api/files/1714974153599cf41tfelimj.pdf) (Act No. 3 of 2024).
+***Also on file***. The [Data Protection Act, 2024](https://cyrilla.org/api/files/1714974153599cf41tfelimj.pdf) (Act No. 3 of 2024).
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held, and no published figures are held.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found, and no published figures have been found.

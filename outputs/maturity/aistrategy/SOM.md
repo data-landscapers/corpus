@@ -6,6 +6,6 @@
 
 **Body named and action funded.** [The same Ecofin Agency report](<https://www.ecofinagency.com/news-digital/1707-57474-somalia-launches-university-ai-center-to-tackle-local-development-challenges>) names no body to carry out a strategy and no public money set aside for one. The Somali National Artificial Intelligence Centre (SNAIC), whose launch is the subject of that report, is owned by Somali National University, formerly the Ministry of Communications and Technology.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether the strategy has been finished or adopted is not known. No body or funding for one is held.
+***Not found***. No source found says whether the strategy has been finished or adopted. No body or funding for one has been found.

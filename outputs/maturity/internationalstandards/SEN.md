@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [catalogue](<https://asn.sn/sites/default/files/ASN%20CATALOGUE%202025%20v2_0.pdf>) explains how to join one of the association's own technical committees and names no seat on an international committee. A telecommunications operator's information security certificate is listed below.
 
-***Noted, not assessed***. [Sonatel's ISO 27001 certificate](<https://sonatel.sn/groupe-sonatel/label-et-certifications/>).
+***Also on file***. [Sonatel's ISO 27001 certificate](<https://sonatel.sn/groupe-sonatel/label-et-certifications/>).
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

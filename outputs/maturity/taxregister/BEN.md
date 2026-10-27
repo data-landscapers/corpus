@@ -8,6 +8,6 @@
 
 **Tied to ID.** [ANIP says the IFU is issued from the same national civil-status database as the national identity card](<https://beninwebtv.bj/affichage-de-la-liste-electorale-provisoire-lanip-lance-la-phase-de-verification/>). [The DGI guide says the applicant enters their NPI and birth date and personal data is retrieved automatically from ANIP before the IFU is issued](<https://e-services.impots.bj/_espaces/FACILE/domain/engine/application/guides/guide-utilisateur-adhesion-et-connexion.pdf>).
 
-***Noted, not assessed***. [Registre national des personnes physiques](<https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale>); [Registre National des Personnes Physiques (RNPP)](<https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf>).
+***Also on file***. [Registre national des personnes physiques](<https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale>); [Registre National des Personnes Physiques (RNPP)](<https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf>).
 
-***Not held***. The only source saying the IFU is issued at business registration is a 2020 guide, before the three-year window.
+***Not found***. The only source saying the IFU is issued at business registration is a 2020 guide, before the three-year window.

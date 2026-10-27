@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "aisystems"
 SUB = "localai"
-GAPS = {'4': 'No source held since October 2023 says national AI computing, models or datasets are open to named users.', '3': 'No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.', '2': 'No source held since October 2023 says: is one in service.', '1': 'No source held since October 2023 says: is a national ai model, dataset or ai computing facility under way.', '5': ''}
-EMPTY = 'Nothing held says whether AI is built or hosted in the country.'
-UNPLACED = 'Nothing held since October 2023 says whether an AI model, dataset or computing facility is in service in the country.'
+GAPS = {'4': 'No source found since October 2023 says national AI computing, models or datasets are open to named users.', '3': 'No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.', '2': 'No source found since October 2023 says: is one in service.', '1': 'No source found since October 2023 says: is a national ai model, dataset or ai computing facility under way.', '5': ''}
+EMPTY = 'Nothing found says whether AI is built or hosted in the country.'
+UNPLACED = 'Nothing found since October 2023 says whether an AI model, dataset or computing facility is in service in the country.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

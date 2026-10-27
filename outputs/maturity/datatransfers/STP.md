@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact is that [the ANPDP decides adequacy and grants authorisation backed by contractual clauses](<https://www.dataguidance.com/sites/default/files/STP%20-%20Lei%20n.%C2%BA%2003_2016%20-%20Lei%20de%20Garantia%20e%20Protec%C3%A7%C3%A3o%20dos%20Dados%20Pessoais%20d....pdf>), under Articles 19 and 20 of the law. [The authority is listed as operational as of 24 June 2022](<https://dataprotection.africa/sao-tome-and-principe/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

@@ -58,7 +58,7 @@ The government committed in 2025 to train 200,000 civil servants in digital skil
 
 ### Rwanda: 4 Operating
 
-AI training became mandatory for all public servants in 2026 and nearly 200,000 completed it; the share of the civil service is not known.
+AI training became mandatory for all public servants in 2026 and nearly 200,000 completed it; no source found reports the share of the civil service.
 
 - Apolitical says Rwanda's Ministry of ICT and Innovation and Ministry of Public Service and Labour made its Government AI Campus course mandatory for their entire public service, and nearly 200,000 public servants have completed it ([source, 2026-05-19](https://apolitical.co/en/pages/gov-ai-campus-500k-milestone)).
 - The Ministry of ICT said in its 12 January 2026 communique that the AI training is compulsory for all state employees, whatever their role or starting skill level ([source, 2026-01-12](https://www.agenceecofin.com/actualites-numerique/1301-134789-numerique-le-rwanda-lance-des-formations-en-ia-pour-tous-les-fonctionnaires)).
@@ -72,7 +72,7 @@ Digital-skills training reached civil servants across government in 2026; the sh
 
 ### Tunisia: 4 Operating
 
-A digital-skills platform for all 680,000 civil servants opened in 2023; the number trained and the share are not known.
+A digital-skills platform for all 680,000 civil servants opened in 2023; no source found reports the number trained and the share.
 
 - The ministry says the Digital Learning Academy platform is for all 680,000 state civil servants ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
 - The Ministry of Communication Technologies launched the Digital Learning Academy platform on 1 December 2023 to build digital skills among the state's 680,000 civil servants, managed by Smart Tunisian Technoparks (S2T) with GIZ present ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
@@ -97,13 +97,13 @@ A digital-skills programme trained civil servants in 2026; reach across governme
 
 ### Malawi: 3 Established
 
-A six-month School of Government course had trained over 120 civil servants in digital skills by 2024; reach across government is not known.
+A six-month School of Government course had trained over 120 civil servants in digital skills by 2024; no source found reports reach across government.
 
 - MBC reports the Secretary to the President and Cabinet presented certificates on 7 November 2023 to 112 civil servants who completed a six-month digital skills training at the Malawi School of Government, organised by the Malawi Government with the Tony Blair Institute; about 180 enrolled ([source, 2023-11](https://mbc.mw/spc-for-digital-innovations/)).
 
 ### Morocco: 3 Established
 
-A digital-skills programme had trained over 6,800 civil servants by 2023 and moved online in 2024; reach across government is not known.
+A digital-skills programme had trained over 6,800 civil servants by 2023 and moved online in 2024; no source found reports reach across government.
 
 - Morocco's Digital Development Agency launched the e-TAMKEEN e-learning programme on the Academia Raqmya platform in September 2024, after it trained over 6,800 civil servants at central and local levels between 2019 and 2023 on 23 digital topics ([source, 2024-09](https://www.wearetech.africa/en/fils-uk/news/morocco-launches-online-training-to-boost-public-digital-capacity)).
 
@@ -166,7 +166,7 @@ Digital-skills training for civil servants was under way in 2024; a standing pro
 
 ### Burundi: 2 Nascent
 
-A programme to train 5,000 civil servants in basic digital skills was announced in 2026; whether it has begun is not known.
+A programme to train 5,000 civil servants in basic digital skills was announced in 2026; no source found says whether it has begun.
 
 - The PAFEN coordinator says in a LinkedIn post that PAFEN will soon launch a basic digital skills programme aiming to train 5,000 civil servants in under 12 months ([source, 2026-09](https://www.linkedin.com/feed/update/urn:li:activity:7509922575322566656)).
 
@@ -204,7 +204,7 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 ### DR Congo: 2 Nascent
 
-Digital-skills courses for state agents were held in 2025 and 2026; a standing programme with a number trained is not known.
+Digital-skills courses for state agents were held in 2025 and 2026; no source found reports a standing programme with a number trained.
 
 - ADN, with KADEA and ULB-Solvay Lifelong Learning, held the first session of an executive programme in digital transformation and AI on 28-30 September 2026 for cadres from 30 public institutions; further sessions follow ([source, 2026-09-28](https://adn.cd/fr/actualites/l-adn-en-collaboration-avec-kadea-et-ulb-solvay-lifelong-learning-a-organise-un-programme-executive-en-transformation-digitale-et-intelligence-artificielle)).
 - The Ministry of National Education and New Citizenship says it opened on 9 September 2025 a series of 15-day computing and digital-tools courses, in groups of 20, for managers and staff of its central services ([source, 2025-09-09](https://edu-nc.gouv.cd/actualites/digitalisation-de-ladministration-le-ministere-forme-ses-agents-aux-outils-numeriques-et-a-la-micro-informatique)).
@@ -276,7 +276,7 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 ### Libya: 2 Nascent
 
-Computer-skills courses for government employees were held in 2025; a standing programme with a number trained is not known.
+Computer-skills courses for government employees were held in 2025; no source found reports a standing programme with a number trained.
 
 - Libya Update, citing LANA, reports the Ministry of Civil Service launched a one-week, ten-hour computer-applications course for government employees in Benghazi on 14 September 2025, the first of a series on electronic archiving ([source, 2025-09-14](https://libyaupdate.com/the-civil-service-launches-a-specialized-training-program-in-computer-applications-in-benghazi/)).
 - Libya News Agency reports the Ministry of Labour and Rehabilitation held a several-day workshop on basic computer skills for its staff in Sirte, closing on 26 August 2025 with certificates ([source, 2025-08-26](https://www.lananews.com/ar/?p=438824)).
@@ -376,6 +376,6 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 ### Eritrea: Unplaced
 
-Nothing held since 2023 names digital-skills training for civil servants, so no stage is set.
+Nothing found since 2023 names digital-skills training for civil servants, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether civil servants are trained in digital skills.
+Not established: Nothing found since October 2023 says whether civil servants are trained in digital skills.

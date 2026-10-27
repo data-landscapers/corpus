@@ -6,8 +6,8 @@
 
 **Warnings issued.** [The Ethiopian Meteorological Institute's page carries a Rapidly Developing Thunderstorms convection warning product for nowcasting, produced with NWC-SAF software](<https://www.ethiomet.gov.et/satellite-imagery/>).
 
-**ISO 9001 certified.** No source held since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<https://www.ethiomet.gov.et/satellite-imagery/>).
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<https://www.ethiomet.gov.et/satellite-imagery/>).
 
-***Noted, not assessed***. [Urban Flash Flood Forecasting System (UFFFS)](<https://wmo.int/media/project-update/eastern-african-countries-advance-urban-flood-forecasting>).
+***Also on file***. [Urban Flash Flood Forecasting System (UFFFS)](<https://wmo.int/media/project-update/eastern-african-countries-advance-urban-flood-forecasting>).
 
-***Not held***. No source held since October 2023 says the weather service holds ISO 9001 certification.
+***Not found***. No source found since October 2023 says the weather service holds ISO 9001 certification.

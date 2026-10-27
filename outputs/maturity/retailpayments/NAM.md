@@ -6,8 +6,8 @@
 
 **Between providers.** [The Bank of Namibia's instant payments solution went live in June 2026 with Bank Windhoek, Nampost and Letshego Bank Namibia as first participants, ahead of a phased national rollout, per Deputy Governor Leonie Dunn](<https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/>).
 
-***Noted, not assessed***. [NAMQR Code](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/17/178089f9-403e-4796-907a-a97c20f39e9c.pdf>); [Open Banking Standards](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/17/178089f9-403e-4796-907a-a97c20f39e9c.pdf>).
+***Also on file***. [NAMQR Code](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/17/178089f9-403e-4796-907a-a97c20f39e9c.pdf>); [Open Banking Standards](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/17/178089f9-403e-4796-907a-a97c20f39e9c.pdf>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

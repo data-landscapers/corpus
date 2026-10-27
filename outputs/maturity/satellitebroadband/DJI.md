@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** With [no provider licensed](<https://tech-ish.com/2026/07/28/starlink-28-african-countries-kenya-freeze/>), there is nothing to count. Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

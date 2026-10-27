@@ -6,8 +6,8 @@
 
 **Given nationally.** [Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth, with birth registration at 99% after the reforms](<https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration>).
 
-**All births registered.** No source held since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration>).
+**All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 puts birth registration at all births and deaths at 80% or more.
+***Not found***. No source found since October 2023 puts birth registration at all births and deaths at 80% or more.

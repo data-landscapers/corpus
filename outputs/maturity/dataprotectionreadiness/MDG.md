@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The CMIL's [annual report of January 2026](<https://drive.google.com/file/d/11XR_I-6z6Y28qnrEjHABu3SOIbjWy6yW/view>) says no processing declaration has been registered yet, that citizens' complaints went untreated for ten years, and that the commission has no premises or staff, with 104 posts targeted in the 2026 Finance Law.
 
-***Noted, not assessed***. [Loi n° 2014-038 sur la protection des données à caractère personnel](<https://digital.gov.mg/en/2022/07/05/loi-n-2014-038-sur-la-protection-des-donnees-a-caractere-personnel/>); [Commission Malagasy de l'Informatique et des Libertés (CMIL)](<https://digital.gov.mg/en/2026/03/27/rapport-annuel-sur-la-confidentialiteet-la-protection-des-donnees-a-madagascar/>).
+***Also on file***. [Loi n° 2014-038 sur la protection des données à caractère personnel](<https://digital.gov.mg/en/2022/07/05/loi-n-2014-038-sur-la-protection-des-donnees-a-caractere-personnel/>); [Commission Malagasy de l'Informatique et des Libertés (CMIL)](<https://digital.gov.mg/en/2026/03/27/rapport-annuel-sur-la-confidentialiteet-la-protection-des-donnees-a-madagascar/>).
 
-***Not held***. No source dated in the last three years shows the authority registering organisations, taking breach reports, issuing guidance or inspecting.
+***Not found***. No source dated in the last three years shows the authority registering organisations, taking breach reports, issuing guidance or inspecting.

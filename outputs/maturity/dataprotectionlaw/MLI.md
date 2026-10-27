@@ -12,6 +12,6 @@
 
 **Last twelve months.** The APDP [opened an extraordinary session on 6 October 2025 to review about 2,000 declaration files](<https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/>) and [opened a regional office at Ségou on 4 December 2025](<https://lessor.ml/posts/autorite-de-protection-des-donnees-a-caractere-personnel-la-region-de-segou-a-son-antenne-6932a107b56bd>). Its session of 3 August 2026 [had over 1,000 files to examine](<https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The date the law came into force is not held: its text states none. The APDP's 2025 annual report is held only through a press summary, and no figure is held for sanctions issued in 2026.
+***Not found***. The date the law came into force is not held: its text states none. The APDP's 2025 annual report is held only through a press summary, and no figure has been found for sanctions issued in 2026.

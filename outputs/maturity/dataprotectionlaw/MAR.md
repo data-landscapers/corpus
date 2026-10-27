@@ -12,6 +12,6 @@
 
 **Last twelve months.** A proposed recast of Law 09-08, prepared with the Justice Ministry, [has been sent to the Secrétariat général du gouvernement](<https://fnh.ma/article/actualite-economique/protection-donnes-confiance-moteur-economique-numerique>), the CNDP president said on 4 August 2026. A draft framework law on AI, data governance and digital identity, called Digital X.0, was [under review by the same secretariat in November 2025](<https://www.wearetech.africa/en/fils-uk/news/tech/morocco-drafts-landmark-law-to-govern-ai-data-and-digital-identity>). The CNDP [signed a cooperation memorandum with Portugal's data protection authority on 8 February 2026](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decision on a named controller and no published count of decisions, sanctions or complaints is held. No regulation under Law 09-08 is held, and what a 2023 amendment to the law changed is not known.
+***Not found***. No decision on a named controller and no published count of decisions, sanctions or complaints has been found. No regulation under Law 09-08 has been found, and no source found says what a 2023 amendment to the law changed.

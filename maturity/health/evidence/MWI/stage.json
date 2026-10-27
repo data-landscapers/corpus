@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "advancing",
       "stage_sources": "MWI-022;MWI-040;MWI-042;MWI-043;MWI-048",
-      "gaps": "No count or share of health centres entering their own reports is published (MWI-040, MWI-050, MWI-061). The sources disagree on where data is keyed: the ministry's 2023 report says DHIS2 Mobile allows direct entry by all health centres (MWI-048, MWI-049), while the later-dated study (MWI-043) and the August 2023 survey (MWI-022) find paper forms keyed at the district office. The only plan on record is a 2019 finding with no period (MWI-039), so no plan is held at the as-at.",
+      "gaps": "No count or share of health centres entering their own reports is published (MWI-040, MWI-050, MWI-061). The sources disagree on where data is keyed: the ministry's 2023 report says DHIS2 Mobile allows direct entry by all health centres (MWI-048, MWI-049), while the later-dated study (MWI-043) and the August 2023 survey (MWI-022) find paper forms keyed at the district office. The only plan on record is a 2019 finding with no period (MWI-039), so no plan has been found at the as-at.",
       "note": "DHIS2 keyed at district takes the facilities' paper reports from 1,266 facilities, which meets the whole of rung 3. Rung 4 needs more than half of primary clinics entering their own reports on a share or count; the ministry states that entry is allowed, not that it is done, and the Bilira and Neno facts are one facility and one district."
     },
     {

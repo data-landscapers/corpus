@@ -6,6 +6,6 @@
 
 **Money and results.** The nearest held fact is the Authority's count of internet users, which [Eye Radio reported](<https://www.eyeradio.org/nca-reports-huge-internet-growth-in-south-sudan/>) rose from 1.3 million in 2024 to 1.9 million in 2025. The Authority tied the launch of the National Broadband Roadmap to that rise, and the report gives it as a result of the wider set of developments, not as a figure measured against a target of the plan.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.

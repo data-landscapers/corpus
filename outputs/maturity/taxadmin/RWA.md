@@ -6,8 +6,8 @@
 
 **Electronic payment.** [The Rwanda Revenue Authority's 2025 Tax Handbook says that after declaring, taxes are paid using E-Payment, Online Banking, MTN Mobile Money and Mobicash](<https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf>).
 
-***Noted, not assessed***. [Electronic Invoicing System (EIS) / EBM](<https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf>).
+***Also on file***. [Electronic Invoicing System (EIS) / EBM](<https://www.rra.gov.rw/fileadmin/Folder_for_2025/RRA_Tax_Handbook_2025_Final.pdf>).
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

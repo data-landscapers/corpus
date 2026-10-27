@@ -2,6 +2,6 @@
 
 ## Electoral register
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how the voters' roll is held.
+***Not found***. Nothing found says how the voters' roll is held.

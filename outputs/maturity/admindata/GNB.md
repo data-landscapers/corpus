@@ -6,8 +6,8 @@
 
 **Sources published from.** [The Instituto Nacional de Estatísticas yearbook of vital statistics for 2018-2022 draws on paper civil-registration records of births, marriages and deaths held by the Ministry of Justice (databases sent to INE annually in Excel), with the RapidPro birth-registration platform, and on the DHIS2 health information system for deaths and causes (2022, before the three-year window)](<https://www.stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/projecoes/Anuario%20Final_de_Estatisticas_Vitais.pdf>).
 
-**Published regularly.** No source held states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://guinea-bissau.unfpa.org/en/news/strengthening-guinea-bissaus-future-civil-registry-professionals-master-data-skills>).
+**Published regularly.** No source found states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://guinea-bissau.unfpa.org/en/news/strengthening-guinea-bissaus-future-civil-registry-professionals-master-data-skills>).
 
-***Noted, not assessed***. [Civil registration (civil registry offices)](<https://guinea-bissau.unfpa.org/en/news/strengthening-guinea-bissaus-future-civil-registry-professionals-master-data-skills>).
+***Also on file***. [Civil registration (civil registry offices)](<https://guinea-bissau.unfpa.org/en/news/strengthening-guinea-bissaus-future-civil-registry-professionals-master-data-skills>).
 
-***Not held***. No source held reports statistics from administrative records published since October 2023.
+***Not found***. No source found reports statistics from administrative records published since October 2023.

@@ -26,8 +26,8 @@
       "cap": "",
       "flags": "community integrated;advancing",
       "stage_sources": "SWZ-002;SWZ-004;SWZ-005;SWZ-035;SWZ-024",
-      "gaps": "The 73% (233 sites, 2026) and the 75% (247 of 327, March 2024, SWZ-020) are shares of all health facilities, with no count of primary clinics alone; the 2024 report gives point-of-care with the Master Patient Index not live (SWZ-022), against shared in 2026. The newest governance fact (SWZ-035, October 2026) names the ministry's HMIS programme as technical lead, after the US State Department had ownership of CMIS passing to the government in FY2026 (SWZ-034, May 2026); no current plan naming CMIS and no domestic budget line is held from an admitted source, the only plan row (SWZ-007) being from the excluded compilation.",
-      "note": "Records are shared at the point of care on a unique ID, but the 73% is a share of all health facilities, which does not settle rung 4 (Bill, 2026-10-23), and no share or count of primary clinics alone is held. Governance would cap the cell at 3 in any case, finance being donor only with no current plan.",
+      "gaps": "The 73% (233 sites, 2026) and the 75% (247 of 327, March 2024, SWZ-020) are shares of all health facilities, with no count of primary clinics alone; the 2024 report gives point-of-care with the Master Patient Index not live (SWZ-022), against shared in 2026. The newest governance fact (SWZ-035, October 2026) names the ministry's HMIS programme as technical lead, after the US State Department had ownership of CMIS passing to the government in FY2026 (SWZ-034, May 2026); no current plan naming CMIS and no domestic budget line has been found from an admitted source, the only plan row (SWZ-007) being from the excluded compilation.",
+      "note": "Records are shared at the point of care on a unique ID, but the 73% is a share of all health facilities, which does not settle rung 4 (Bill, 2026-10-23), and no share or count of primary clinics alone has been found. Governance would cap the cell at 3 in any case, finance being donor only with no current plan.",
       "as_at": "2026-10-23"
     }
   ]

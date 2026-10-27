@@ -6,8 +6,8 @@
 
 **Paid electronically.** [TASAF's handbook says PSSN III benefits are paid bimonthly through banks and mobile money operators, with payment instructions from the TASAF MIS routed via the Government electronic Payment Gateway (GePG)](<https://www.tasaf.go.tz/uploads/documents/sw-1776692069-PAYMENT%20PROCESS%20HANDBOOK.pdf>).
 
-**Several programmes.** No source held since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://www.tasaf.go.tz/uploads/documents/sw-1776692069-PAYMENT%20PROCESS%20HANDBOOK.pdf>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://www.tasaf.go.tz/uploads/documents/sw-1776692069-PAYMENT%20PROCESS%20HANDBOOK.pdf>).
 
-***Noted, not assessed***. [social registry](<https://www.worldbank.org/en/news/factsheet/2026/03/31/the-tanzania-productive-social-safety-net-iii-pssn-iii>).
+***Also on file***. [social registry](<https://www.worldbank.org/en/news/factsheet/2026/03/31/the-tanzania-productive-social-safety-net-iii-pssn-iii>).
 
-***Not held***. No source held since October 2023 says one information system serves several social programmes.
+***Not found***. No source found since October 2023 says one information system serves several social programmes.

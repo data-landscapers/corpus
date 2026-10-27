@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COG-001",
-      "gaps": "No source held reports preliminary or final results of the census published.",
-      "note": "RGPH-5 data had been collected by November 2025 and only preliminary results are held, so stage 3 and not 4. No enumeration date is held, so the count is dated by 2025.",
+      "gaps": "No source found reports preliminary or final results of the census published.",
+      "note": "RGPH-5 data had been collected by November 2025 and only preliminary results are held, so stage 3 and not 4. No enumeration date has been found, so the count is dated by 2025.",
       "as_at": "2026-10-24"
     }
   ]

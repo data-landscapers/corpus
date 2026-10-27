@@ -11,8 +11,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-008",
-      "gaps": "No source held says the national body handled an incident or issued a public alert since October 2023.",
-      "note": "Rebuild: ZMB-011 removed as ZMB-007 was, an advisory on misleading and AI-made content, not a cyber incident. The agency exists under the 2025 Act and no response by it to an incident is held.",
+      "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023.",
+      "note": "Rebuild: ZMB-011 removed as ZMB-007 was, an advisory on misleading and AI-made content, not a cyber incident. The agency exists under the 2025 Act and no response by it to an incident has been found.",
       "as_at": "2026-10-27"
     }
   ]

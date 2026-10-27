@@ -6,6 +6,6 @@
 
 **Sharing required and the law applied.** The regulation is described as one that [lets public bodies share information securely](<https://wardip.gw/governo-aprova-regulamento-nacional-de-interoperabilidade-para-acelerar-a-transformacao-digital-na-guine-bissau/>). The reports do not say that it obliges public bodies to share data, to connect to an exchange platform, or to stop asking people for what another body already holds. No order made under the regulation is recorded, and no public body is named as exchanging data because the regulation requires it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the law in force requires public bodies to share data, to connect to the government's exchange platform, or not to ask a person for what another public body already holds.
+***Not found***. No source found says the law in force requires public bodies to share data, to connect to the government's exchange platform, or not to ask a person for what another public body already holds.

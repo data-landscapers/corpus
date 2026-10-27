@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GIN-002",
-   "gaps": "No source held since October 2023 says learner records are linked to the national ID or another sector.",
+   "gaps": "No source found since October 2023 says learner records are linked to the national ID or another sector.",
    "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
   }
  ]

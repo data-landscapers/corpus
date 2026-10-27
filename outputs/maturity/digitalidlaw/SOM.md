@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** The regulation [defines the digital national identification system as the system the 2023 law established](<https://www.osagsomalia.com/media/documents/bulletins-contents/cabinet-decisions/2024/Xeer-nidaamiyaha_Sharciga_Aqoonsiga_Diiwaan-galinta_Dadwaynaha.pdf>). It [applies the law and sets rules for relying parties](<https://www.osagsomalia.com/media/documents/bulletins-contents/cabinet-decisions/2024/Xeer-nidaamiyaha_Sharciga_Aqoonsiga_Diiwaan-galinta_Dadwaynaha.pdf>), among them banks and phone companies, which check identity against the system. The regulation of June 2024 is thus both the rule made under the law and the text that says the law's system is digital. The regulation is numbered 158 and was made a little over a year after the law.
 
-***Noted, not assessed***. [Digital National Identification System (DNIS)](<https://www.osagsomalia.com/media/documents/bulletins-contents/cabinet-decisions/2024/Xeer-nidaamiyaha_Sharciga_Aqoonsiga_Diiwaan-galinta_Dadwaynaha.pdf>).
+***Also on file***. [Digital National Identification System (DNIS)](<https://www.osagsomalia.com/media/documents/bulletins-contents/cabinet-decisions/2024/Xeer-nidaamiyaha_Sharciga_Aqoonsiga_Diiwaan-galinta_Dadwaynaha.pdf>).
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

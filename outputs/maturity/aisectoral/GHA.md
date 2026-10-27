@@ -8,6 +8,6 @@
 
 **Results reported.** The Ministry of Finance said that by 30 March 2026 the customs tool had [endorsed clearing of 75.3% of declarations and flagged 24.7% as below accepted global values](<https://www.graphic.com.gh/business/business-news/freight-forwarders-importers-raise-concern-over-publican-ai-o-system-flags-only-values-lower-than-minimum-global-average-ministry-of-finance.html>). Jacaranda reports the maternal helpdesk [handles about 6,500 responses a month, 44% resolved by AI directly](<https://jacarandahealth.org/building-a-sustainable-future-for-prompts-in-ghana/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Measured results of the tax analytics, and AI disease surveillance in service, are not known.
+***Not found***. No source found reports measured results of the tax analytics, and AI disease surveillance in service.

@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** The 2025 amendment [lets a passport or a driving licence serve as identification](<https://dailynews.gov.bw/news-detail/90334>) while a defaced, lost or expired identity card is being replaced. That is the newest change to the law on record. The Act itself provides for the national register and the card, and the minister described the amendment in March 2026 as now in effect. No other change to the Act since 2017 is on record.
 
-***Noted, not assessed***. [National register and district registers of citizens (identity cards)](<https://botswanalaws.com/consolidated-statutes/principle-legislation/national-registration>); [Omang (National Identity Card)](<https://dailynews.gov.bw/news-detail/92439>); [Electronic Identification System / Digital ID project](<https://dailynews.gov.bw/news-detail/90334>); [Biometric Omang system](<https://dailynews.gov.bw/news-detail/90334>).
+***Also on file***. [National register and district registers of citizens (identity cards)](<https://botswanalaws.com/consolidated-statutes/principle-legislation/national-registration>); [Omang (National Identity Card)](<https://dailynews.gov.bw/news-detail/92439>); [Electronic Identification System / Digital ID project](<https://dailynews.gov.bw/news-detail/90334>); [Biometric Omang system](<https://dailynews.gov.bw/news-detail/90334>).
 
-***Not held***. No source held says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.
+***Not found***. No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.

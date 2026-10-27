@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SDN-002;SDN-009",
-   "gaps": "Isali collects all budgeted revenue fees and links to customs, but no source held says the main taxes are filed electronically; no figure for the electronic share is held.",
+   "gaps": "Isali collects all budgeted revenue fees and links to customs, but no source found says the main taxes are filed electronically; no figure for the electronic share has been found.",
    "note": "First pass, reassessed 2026-10-27: Isali collects public revenue electronically, but the rung asks for filing and payment of the main taxes and no filing is stated. The war has also returned some collection in RSF-held areas to cash.",
    "as_at": "2026-10-27"
   }

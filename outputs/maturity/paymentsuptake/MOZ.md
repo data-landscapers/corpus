@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.bancomoc.mz/media/nvelycjp/relatorio-inclusao-finaceira-maio031025pt-f.pdf>).
 
-***Noted, not assessed***. [M-Pesa](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [Adianta-La](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>).
+***Also on file***. [M-Pesa](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>); [Adianta-La](<https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants>).
 
-***Not held***. No source held since October 2023 says: do over half hold one.
+***Not found***. No source found since October 2023 says: do over half hold one.

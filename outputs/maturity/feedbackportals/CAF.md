@@ -2,6 +2,6 @@
 
 ## Citizen feedback channel
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether people can complain about public services online.
+***Not found***. Nothing found says whether people can complain about public services online.

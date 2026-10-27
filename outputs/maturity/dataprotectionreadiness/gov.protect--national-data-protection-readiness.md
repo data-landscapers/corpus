@@ -202,7 +202,7 @@ Law 09-08 is in force and the CNDP authority is working, issuing guidance in 202
 
 ### Rwanda: 4 Operating
 
-A data protection law has applied since 2023 and an authority registers controllers (2026); a ruling against an organisation is not known.
+A data protection law has applied since 2023 and an authority registers controllers (2026); no source found reports a ruling against an organisation.
 
 - The article states that NCSA has registered data controllers and processors (registration certificates), trained over 100 public sector Data Protection Officers and run sector workshops for pharmacists and local government entities over the last four years; it names no sanction or decision. The article gives no date for these events, so its published date of 2026-01-26 is used ([source, 2026-01-26](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors)).
 - NCSA's Data Protection and Privacy Office published template standard contractual clauses for transfers abroad under Article 49 of Law No 058/2021, which also set 72-hour breach reporting to the authority ([source, 2024-02](https://dpo.gov.rw/fileadmin/DPO/ComplianceTools/-_Standard_Contractual_Clauses_for_Transfer_Personal_Data_Outside_Rwanda_.pdf)).
@@ -350,14 +350,14 @@ A data protection law is in force from 2026; no authority is known to be working
 
 ### Burundi: 1 Absent
 
-A law was promulgated in March 2026; whether it is in force is not known, nor an appointed authority or any ruling.
+A law was promulgated in March 2026; no source found says whether it is in force, nor an appointed authority or any ruling.
 
 - Burundi's National Assembly adopted the law on the protection of personal data on 15 January 2026 and the head of state promulgated it on 10 March 2026, per Community Voice; the article does not state a commencement date ([source, 2026-03-10](https://communityvoice.bi/1489-2/)).
 - Burundi's National Assembly unanimously adopted a bill governing the collection and processing of personal data across public and private sectors on 15 January 2026; the document does not report promulgation ([source, 2026-01-15](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-lawmakers-approve-data-protection-framework-as-digitalisation-accelerates)).
 
 ### Comoros: 1 Absent
 
-A data protection law passed in 2021 is not known to be in force; no authority is appointed and no ruling is known.
+No source found reports A data protection law passed in 2021 to be in force; no authority is appointed and no ruling is known.
 
 - TechHive Advisory states the Union of Comoros enacted its Protection of Personal Data Law on 29 June 2021 as a comprehensive framework; it does not say whether the law has commenced ([source, 2021-06-29](https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law)).
 - Loi n°14-029/AU on protection of personal data (68 articles) was deliberated and adopted by the Assembly in plenary session on 26 June 2014; the text carries no promulgation date or decree ([source, 2014-06-26](https://anaden.org/uploads/media/63076edf43d1e/loi-portant-sur-la-protection-des-donnees-a-caractere-personnel-de-lunion-des-comores.pdf)).

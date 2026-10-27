@@ -6,8 +6,8 @@
 
 **Several sectors.** Weather and climate early warning is the only sector held with AI in service. The nearest held fact elsewhere is the [education pilot](<https://mtnima.gov.mr/fr/un-stand-du-mtnima-sur-lia-en-marge-de-la-conference-des-femmes-creatives-du-monde-arabe-et-dafrique/>), with an [AI crop-damage pilot](<https://sentinels.copernicus.eu/web/success-stories/-/empowering-agriculture-in-mauritania-with-sentinel-2-the-techghilagro-success-story>) under way in agriculture.
 
-**Results reported.** No measured results of a sectoral AI system are held. The [agrometeorological account](<https://ami.mr/fr/archives/287234>) counts cooperatives served, not outcomes.
+**Results reported.** No measured results of a sectoral AI system have been found. The [agrometeorological account](<https://ami.mr/fr/archives/287234>) counts cooperatives served, not outcomes.
 
-***Noted, not assessed***. [Multilingual translation for national unity pilot](<https://mtnima.gov.mr/fr/un-stand-du-mtnima-sur-lia-en-marge-de-la-conference-des-femmes-creatives-du-monde-arabe-et-dafrique/>).
+***Also on file***. [Multilingual translation for national unity pilot](<https://mtnima.gov.mr/fr/un-stand-du-mtnima-sur-lia-en-marge-de-la-conference-des-femmes-creatives-du-monde-arabe-et-dafrique/>).
 
-***Not held***. AI in service in a second sector, and measured results of a sectoral AI system, are not known.
+***Not found***. No source found reports AI in service in a second sector, and measured results of a sectoral AI system.

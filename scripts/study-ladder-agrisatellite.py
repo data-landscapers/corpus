@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "agrisatellite"
 SUB = "agrisat"
-GAPS = {'4': 'No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts.', '3': 'No source held since October 2023 says a satellite-based farming service publishes on a schedule.', '2': 'No source held since October 2023 says: is a service in use.', '1': 'No source held since October 2023 says: is satellite data being put to use in farming.', '5': ''}
-EMPTY = 'Nothing held says whether satellite data is used in farming.'
-UNPLACED = 'Nothing held since October 2023 says whether satellite data is used in farming.'
+GAPS = {'4': 'No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts.', '3': 'No source found since October 2023 says a satellite-based farming service publishes on a schedule.', '2': 'No source found since October 2023 says: is a service in use.', '1': 'No source found since October 2023 says: is satellite data being put to use in farming.', '5': ''}
+EMPTY = 'Nothing found says whether satellite data is used in farming.'
+UNPLACED = 'Nothing found since October 2023 says whether satellite data is used in farming.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-004;BEN-005",
-      "gaps": "No source held reports a census counted since October 2016.",
+      "gaps": "No source found reports a census counted since October 2016.",
       "note": "Counted from the four questions by study-ladder-censuses.py.",
       "as_at": "2026-10-17"
     }

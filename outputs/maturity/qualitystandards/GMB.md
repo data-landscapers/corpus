@@ -6,6 +6,6 @@
 
 **Certification.** The [2022 catalogue](<https://tgsb.gm/wp-content/uploads/2023/03/TGSB-STANDARDS-CATALOGUE-2022.pdf>) says the bureau provides conformity assessment services. It names no certification scheme for the information security standard, which adopts the 2005 edition of the international one, and no organisation certified against it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.

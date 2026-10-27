@@ -6,8 +6,8 @@
 
 **Deaths digital.** [NRB Secretary Mphatso Sambo said NRB had integrated electronic birth and death registration systems with the national ID system by February 2025](<https://times.mw/national-registration-bureau-targets-8000-children-in-2025/>). [EGPAF says electronic birth and death registration software is installed at 173 sites](<https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/>). [The National Registration Bureau reports 179,000 deaths recorded in its registration system and electronic death registration in 142 health facilities in 2025](<https://www.id4africa.com/2025/files/PS1-S1-5-Malawi-final.pdf>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://times.mw/national-registration-bureau-targets-8000-children-in-2025/>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://times.mw/national-registration-bureau-targets-8000-children-in-2025/>).
 
-***Noted, not assessed***. [National Registration and Identification System (NRIS)](<https://www.nrb.gov.mw>).
+***Also on file***. [National Registration and Identification System (NRIS)](<https://www.nrb.gov.mw>).
 
-***Not held***. No source held since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 puts birth registration at 90% or more.

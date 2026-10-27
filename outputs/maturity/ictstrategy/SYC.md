@@ -16,6 +16,6 @@
 
 **Last twelve months.** In September 2026 the World Bank [named the policy beside the National Development Strategy (2024-2028)](<https://openknowledge.worldbank.org/entities/publication/9264a4f5-29c4-40ff-903b-9891303c089a>) as carrying digital skills.
 
-***Noted, not assessed***. [Institutional Strategic Plan of DICT](<https://afripoli.org/what-african-countries-can-learn-from-the-continents-top-performers-in-e-government>).
+***Also on file***. [Institutional Strategic Plan of DICT](<https://afripoli.org/what-african-countries-can-learn-from-the-continents-top-performers-in-e-government>).
 
-***Not held***. No delivery plan and no report against the policy is held, and nothing on a mandated body or a budget line in the last three years. The policy document is undated: 2007 is the date it is recorded as published, and the World Bank report gives no adoption date or scope.
+***Not found***. No delivery plan and no report against the policy has been found, and nothing on a mandated body or a budget line in the last three years. The policy document is undated: 2007 is the date it is recorded as published, and the World Bank report gives no adoption date or scope.

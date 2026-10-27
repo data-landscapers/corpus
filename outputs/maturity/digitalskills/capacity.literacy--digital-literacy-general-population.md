@@ -108,7 +108,7 @@ A national digital-skills programme had trained a stated number of people by 202
 
 ### Malawi: 3 Established
 
-Malawi's national digital project had trained over 19,000 people at ten tech hubs by 2024; the share of adults with digital skills is not known.
+Malawi's national digital project had trained over 19,000 people at ten tech hubs by 2024; no source found reports the share of adults with digital skills.
 
 - The Secretary for Information and Digitalization says 10 tech hubs under the World Bank-funded Digital Malawi Project have taught digital skills to over 19,000 youths, women and elderly people ([source, 2024-08-09](https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/)).
 
@@ -132,7 +132,7 @@ A national digital-skills programme had trained a stated number of people by 202
 
 ### Nigeria: 3 Established
 
-A national digital-literacy programme had counted about 2.76 million people trained by 2026; the share of adults with basic digital skills is not known.
+A national digital-literacy programme had counted about 2.76 million people trained by 2026; no source found reports the share of adults with basic digital skills.
 
 - NITDA's National Digital Literacy Dashboard records about 2.76 million training achievements from 248 reporting organisations since January 2022, across all 36 states and the FCT, per the NITDA Director-General ([source, 2026-10-20](https://von.gov.ng/agency-unveils-dashboard-to-track-national-digital-literacy-progress/)).
 - NITDA's National Digital Literacy Dashboard records 2,769,512 reported digital-literacy training achievements from 252 reporting organisations over three years, across all 774 local government areas, per Tech Africa News ([source, 2026-10-21](https://techafricanews.com/2026/10/21/nitda-digital-literacy-dashboard-2-7-million-training-achievements/)).
@@ -158,7 +158,7 @@ A national digital-skills programme had trained a stated number of people by 202
 
 ### Uganda: 3 Established
 
-The regulator's fund trained over 13,000 women and 11,000 rural people in digital skills by 2026; the share of adults with skills is not known.
+The regulator's fund trained over 13,000 women and 11,000 rural people in digital skills by 2026; no source found reports the share of adults with skills.
 
 - UCC, through UCUSAF, reports programme records for 2020-2026 of more than 13,000 women and over 11,000 rural community participants trained in digital skills, and more than 5,000 MSMEs ([source, 2026-10-22](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)).
 
@@ -341,36 +341,36 @@ A national digital-skills programme was under way in 2026; how many it trained i
 
 ### Comoros: No evidence
 
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
+Nothing found names a national digital-skills programme or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public is taught digital skills.
+Not established: Nothing found says whether the public is taught digital skills.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
+Nothing found names a national digital-skills programme or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public is taught digital skills.
+Not established: Nothing found says whether the public is taught digital skills.
 
 ### Eritrea: No evidence
 
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
+Nothing found names a national digital-skills programme or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public is taught digital skills.
+Not established: Nothing found says whether the public is taught digital skills.
 
 ### Seychelles: No evidence
 
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
+Nothing found names a national digital-skills programme or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public is taught digital skills.
+Not established: Nothing found says whether the public is taught digital skills.
 
 ### Sudan: No evidence
 
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
+Nothing found names a national digital-skills programme or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public is taught digital skills.
+Not established: Nothing found says whether the public is taught digital skills.
 
 ### Tunisia: No evidence
 
-Nothing held names a national digital-skills programme or says there is none, so no stage is set.
+Nothing found names a national digital-skills programme or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the public is taught digital skills.
+Not established: Nothing found says whether the public is taught digital skills.

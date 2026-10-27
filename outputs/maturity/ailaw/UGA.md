@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no AI laws in place in September 2026](<https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/>), there is no general AI law to apply. The [2025 assessment](<https://www.itu.int/dms_pub/itu-d/opb/uga/D-UGA-NAAILA-2025-PDF-E.pdf>) recommends that Uganda develop a policy and a legal framework for AI. Neither source names a bill or a draft, or a rule for one sector that names AI.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No bill, draft decree or draft regulation on AI is held.
+***Not found***. No bill, draft decree or draft regulation on AI has been found.

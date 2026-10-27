@@ -6,8 +6,8 @@
 
 **Several cities.** [The three hubs named are in Mogadishu and Hargeisa, with graduation ceremonies held in both cities](<https://sonna.so/en/article/Somali-Startup-Hubs-Join-Forces-as-UNIDO-Convenes-Innovation-Forums-in-Mogadishu-and-Hargeisa>).
 
-**Technology park.** No source held since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://sonna.so/en/article/Somali-Startup-Hubs-Join-Forces-as-UNIDO-Convenes-Innovation-Forums-in-Mogadishu-and-Hargeisa>).
+**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://sonna.so/en/article/Somali-Startup-Hubs-Join-Forces-as-UNIDO-Convenes-Innovation-Forums-in-Mogadishu-and-Hargeisa>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a science or technology park is in service with tenants.
+***Not found***. No source found since October 2023 says a science or technology park is in service with tenants.

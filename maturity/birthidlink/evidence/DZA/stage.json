@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "DZA-002;DZA-003",
-      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "Rebuild: the ID issuing system is connected to the national civil register with the NIN as key (2026). Nothing held since October 2023 says deaths retire ID numbers.",
+      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: the ID issuing system is connected to the national civil register with the NIN as key (2026). Nothing found since October 2023 says deaths retire ID numbers.",
       "as_at": "2026-10-22"
     }
   ]

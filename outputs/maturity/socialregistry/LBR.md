@@ -6,8 +6,8 @@
 
 **Several programmes.** [The World Bank blog says the LHSR and the MIS are being used by three government-led social protection programmes](<https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia>).
 
-***Noted, not assessed***. [Management Information System (MIS)](<https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia>).
+***Also on file***. [Management Information System (MIS)](<https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia>).
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

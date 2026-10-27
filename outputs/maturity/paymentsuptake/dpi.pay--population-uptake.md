@@ -32,19 +32,19 @@ The World Bank's Global Findex 2025 puts account ownership at 79% of adults worl
 
 ### Kenya: 4 Operating
 
-Four in five adults or more held an account in 2024; digital payment use at that level is not known.
+Four in five adults or more held an account in 2024; no source found reports digital payment use at that level.
 
 - The Central Bank of Kenya's 2024 FinAccess Household Survey puts formal financial access (an active account in own name with a formal provider, covering banks, mobile money, SACCOs and other formal providers) at 84.8 percent of adults ([source, 2024](https://www.centralbank.go.ke/wp-content/uploads/2024/12/2024-FINACCESS-HOUSEHOLD-SURVEY-MAIN-REPORT.pdf)).
 
 ### Senegal: 4 Operating
 
-Four in five adults or more held an account in 2023; digital payment use at that level is not known.
+Four in five adults or more held an account in 2023; no source found reports digital payment use at that level.
 
 - BCEAO's national director says Senegal's financial inclusion rate, the share of adults holding a bank, postal, treasury, microfinance or e-money account, reached 83.3% in 2023 ([source, 2023](https://www.orbit.sn/le-taux-dinclusion-financiere-du-senegal-est-superieur-a-la-moyenne-de-la-zone-uemoa-selon-le-directeur-national-de-la-bceao/)).
 
 ### South Africa: 4 Operating
 
-Four in five adults or more held an account in 2025; digital payment use at that level is not known.
+Four in five adults or more held an account in 2025; no source found reports digital payment use at that level.
 
 - ASAPP, citing FinMark Trust FinScope surveys of 2024 and 2025, says 89% of South African adults have a bank account ([source, 2025](https://marketingspread.co.za/payment-challengers-move-from-consultation-to-action-with-proposals-for-sas-payments-future-2/)).
 
@@ -160,7 +160,7 @@ A quarter of adults or more held an account in 2025.
 
 ### Sierra Leone: 2 Nascent
 
-About 29% of adults held a bank or mobile money account by 2025; whether more do now is not known.
+About 29% of adults held a bank or mobile money account by 2025; no source found says whether more do now.
 
 - The WTO trade policy review summary says only about 29% of adults in Sierra Leone have an account with a formal financial institution or mobile money provider; it gives no date, so the summary's publication date is used ([source, 2025](https://www.wto.org/english/tratop_e/tpr_e/s470_sum_e.pdf)).
 
@@ -172,186 +172,186 @@ Fewer than a quarter of adults held an account in 2025.
 
 ### Angola: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: Nothing held since October 2023 gives a survey share of adults with an account.
+Not established: Nothing found since October 2023 gives a survey share of adults with an account.
 
 ### Djibouti: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: No survey share of adults with an account is held: the only figure is the central bank governor's 36% of the population with bank account access (November 2024), not attributed to a survey and not limited to adults.
+Not established: No survey share of adults with an account has been found: the only figure is the central bank governor's 36% of the population with bank account access (November 2024), not attributed to a survey and not limited to adults.
 
 ### Mauritius: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: Nothing held since October 2023 gives a survey share of adults with an account.
+Not established: Nothing found since October 2023 gives a survey share of adults with an account.
 
 ### Somalia: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: Nothing held since October 2023 gives a survey share of adults with an account.
+Not established: Nothing found since October 2023 gives a survey share of adults with an account.
 
 ### South Sudan: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: Nothing held since October 2023 gives a survey share of adults with an account.
+Not established: Nothing found since October 2023 gives a survey share of adults with an account.
 
 ### Sudan: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: Nothing held since October 2023 gives a survey share of adults with an account.
+Not established: Nothing found since October 2023 gives a survey share of adults with an account.
 
 ### Togo: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: Nothing held since October 2023 gives a survey share of adults with an account.
+Not established: Nothing found since October 2023 gives a survey share of adults with an account.
 
 ### Tunisia: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: Nothing held since October 2023 gives a survey share of adults with an account.
+Not established: Nothing found since October 2023 gives a survey share of adults with an account.
 
 ### Zimbabwe: Unplaced
 
-Nothing held since 2023 names a survey share of adults with an account, so no stage is set.
+Nothing found since 2023 names a survey share of adults with an account, so no stage is set.
 
-Not established: Nothing held since October 2023 gives a survey share of adults with an account.
+Not established: Nothing found since October 2023 gives a survey share of adults with an account.
 
 ### Algeria: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Benin: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Burkina Faso: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Burundi: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Cape Verde: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Central African Republic: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Chad: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Comoros: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Congo: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### DR Congo: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Eritrea: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Gambia: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Ghana: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Guinea: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Lesotho: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Libya: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Mali: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Mauritania: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Niger: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.
 
 ### Seychelles: No evidence
 
-Nothing held names a survey share of adults with an account or says there is none, so no stage is set.
+Nothing found names a survey share of adults with an account or says there is none, so no stage is set.
 
-Not established: Nothing held gives a survey share of adults with an account.
+Not established: Nothing found gives a survey share of adults with an account.

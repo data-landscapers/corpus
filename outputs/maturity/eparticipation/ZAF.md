@@ -6,8 +6,8 @@
 
 **Answers published.** [The SARB page links a consultation feedback note with detailed responses to comments received on the draft guidance note to Directive 1 of 2022, second round of consultation, hosted on the FIC website (2023, before the three-year window)](<https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation>).
 
-**Required.** No source held since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation>).
+**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/regulation>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: is a standing online channel in service.
+***Not found***. No source found since October 2023 says: is a standing online channel in service.

@@ -2,6 +2,6 @@
 
 ## Satellite data in agriculture
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 says whether satellite data is used in farming.
+***Not found***. Nothing found since October 2023 says whether satellite data is used in farming.

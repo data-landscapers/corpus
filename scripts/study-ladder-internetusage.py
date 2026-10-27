@@ -77,12 +77,12 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return d
     if not rows:
         return {"stage": "no evidence", "users": "", "sources": [],
-                "gaps": "Nothing held gives the share of the population who use the internet."}
+                "gaps": "Nothing found gives the share of the population who use the internet."}
     live = [(when(r), r) for r in rows if r["aspect"] == "users" and r["as_of"]
             and FROM <= when(r) <= as_at]
     if not live:
         return {"stage": "unplaced", "users": "", "sources": [],
-                "gaps": "No figure for 2024 or later is held for the share of the population who "
+                "gaps": "No figure for 2024 or later has been found for the share of the population who "
                         "use the internet."}
     surveys = [p for p in live if p[1]["value"].startswith("survey:")]
     # Where a story and the series give the same year, the series' row stands for both.

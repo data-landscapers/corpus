@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** [Government Notice 335 records the Electronic Signature Regulations under section 20, signed 27 November 2025](<https://www.lac.org.na/laws/2025/8814.pdf>). CRAN also made [regulations on accreditation of security products and services and certification service providers, published 17 December 2025](<https://www.lac.org.na/laws/2025/8808.pdf>). In the week of 3 September 2026 [CRAN accredited the Ministry of Home Affairs as Namibia's first Certification Service Provider under the Act](<https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/>), for four years. DigiNam, the national public key infrastructure, was [launched on 31 August 2026 under the Act, with CRAN as Root Certification Authority](<https://economist.com.na/government-launches-diginam-to-revolutionise-digital-security-and-streamline-public-services/>).
 
-***Noted, not assessed***. [National Root Certification Authority](<https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/>); [DigiNam National PKI](<https://observer24.com.na/government-told-to-stop-making-citizens-carry-id-copies/>).
+***Also on file***. [National Root Certification Authority](<https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/>); [DigiNam National PKI](<https://observer24.com.na/government-told-to-stop-making-citizens-carry-id-copies/>).
 
-***Not held***. No count of accredited providers beyond the first, and no date for Chapter 4.
+***Not found***. No count of accredited providers beyond the first, and no date for Chapter 4.

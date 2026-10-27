@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TZA-001;TZA-002",
-      "gaps": "No source held since October 2023 says national staff maintain the system or the foreign contract has ended.",
+      "gaps": "No source found since October 2023 says national staff maintain the system or the foreign contract has ended.",
       "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
       "as_at": "2026-10-18"
     }

@@ -12,6 +12,6 @@
 
 **Last twelve months.** In October 2025 [the Public Private Partnership Commission issued terms of reference for a consultancy to operationalise the Authority and draft regulations](<https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf>). In March 2026 [the World Bank announced renewed technical assistance to MACRA for data protection](<https://techafricanews.com/2026/03/26/malawi-secures-world-bank-backing-to-strengthen-cybersecurity-and-data-protection-frameworks/>). On 13 July 2026 [MACRA consulted stakeholders in Blantyre on draft regulations carrying annual registration fees](<https://itweb.africa/article/malawi-advances-data-protection-framework/xnklOvz14wkq4Ymz>) of [K50,000 to K7 million by turnover](<https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decision, sanction or published count of decisions under the Act is held, and no regulation in force. No commencement notice for the Act is held.
+***Not found***. No decision, sanction or published count of decisions under the Act has been found, and no regulation in force. No commencement notice for the Act has been found.

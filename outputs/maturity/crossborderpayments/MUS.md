@@ -6,8 +6,8 @@
 
 **Regional system.** [Bank of Mauritius Governor Thakoor says the bank is settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>).
 
-**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

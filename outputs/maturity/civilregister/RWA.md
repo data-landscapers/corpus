@@ -8,6 +8,6 @@
 
 **Births at 90%.** [KT Press, citing the NISR vital statistics report, says birth registration completeness reached 92.9 percent in 2025, up from 90.3 percent in 2024](<https://www.ktpress.rw/2026/04/rwanda-is-counting-everything-and-changing-in-the-process/>). [NISR says birth registration completeness against estimated live births was 92.9% in 2025, up from 90.3% in 2024](<https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025>).
 
-***Noted, not assessed***. [phone-based community death notification](<https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/>); [Imibereho Dynamic Social Registry System](<https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/>).
+***Also on file***. [phone-based community death notification](<https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/>); [Imibereho Dynamic Social Registry System](<https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

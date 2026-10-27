@@ -38,7 +38,7 @@ A backup site 200 km away serves the government's shared systems by 2026; no rec
 
 ### Sudan: 2 Nascent
 
-One public body keeps a backup site 200 km away by 2026; none held for the government's shared systems.
+One public body keeps a backup site 200 km away by 2026; none found for the government's shared systems.
 
 - Sudan's General Traffic Police director says the police restored the full vehicle database and set up backup data centres inside the states and outside the country to secure the national vehicle register; main site place not stated, backup places not stated (states inside Sudan and an unnamed foreign country) ([source, 2026-07-20](https://sudantribune.net/article/316412)).
 
@@ -50,306 +50,306 @@ A 2026 source says government systems have no off-site backup or disaster-recove
 
 ### Angola: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names or is less than 200 km from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names or is less than 200 km from the main site, and none dated in the last three years says there is none.
 
 ### Cameroon: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
 
 ### Egypt: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
 
 ### Eswatini: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
 ### Ethiopia: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
 
 ### Ghana: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
 
 ### Mali: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
 ### Mauritius: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
 ### Morocco: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
 ### Mozambique: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
 ### Namibia: Unplaced
 
-The government ran a disaster recovery centre in 2015; where it stands, and whether it still runs, is not known, so no stage is set.
+The government ran a disaster recovery centre in 2015; no source found says where it stands, and whether it still runs,, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
 ### Nigeria: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
 
 ### Rwanda: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
 
 ### Senegal: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
 ### South Africa: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is less than 200 km from the main site, and none dated in the last three years says there is none.
 
 ### Tunisia: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site; the backup site held is in no place a held source names, and none dated in the last three years says there is none.
 
 ### Zambia: Unplaced
 
-No backup site 200 km or more from the main one is held, so no stage is set.
+No backup site 200 km or more from the main one has been found, so no stage is set.
 
-Not established: No source held names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
+Not established: No source found names a backup site 200 km or more from the main site, and none dated in the last three years says there is none.
 
 ### Algeria: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Benin: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Botswana: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Burkina Faso: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Burundi: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Cape Verde: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Chad: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Comoros: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Congo: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Cote d'Ivoire: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### DR Congo: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Djibouti: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Gabon: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Gambia: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Guinea: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Kenya: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Lesotho: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Liberia: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Libya: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Madagascar: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Mauritania: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Niger: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Seychelles: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Somalia: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Tanzania: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Togo: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Uganda: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.
 
 ### Zimbabwe: No evidence
 
-Nothing held names a backup site for government systems, so no stage is set.
+Nothing found names a backup site for government systems, so no stage is set.
 
-Not established: Nothing held names a backup site for government systems, or says there is none.
+Not established: Nothing found names a backup site for government systems, or says there is none.

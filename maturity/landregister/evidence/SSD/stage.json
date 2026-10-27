@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SSD-002;SSD-004",
-   "gaps": "No source held since October 2023 says: is a digital land register in service.",
+   "gaps": "No source found since October 2023 says: is a digital land register in service.",
    "note": "First pass: counted from the four questions by study-ladder-landregister.py."
   }
  ]

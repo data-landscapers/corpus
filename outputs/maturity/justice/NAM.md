@@ -6,8 +6,8 @@
 
 **Online filing.** [The nomination says Namibia eJustice connects the Supreme Court and High Court with legal practitioners for e-filing and commencement of case files (2018, before the three-year window)](<https://nacmnet.org/wp-content/uploads/NAMIBIA_NACM-Nomination-Form-Namibia-eJustice.pdf>).
 
-**Open online.** No source held since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://www.namibian.com.na/namibia-to-implement-e-justice-system-in-supreme-court/>).
+**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://www.namibian.com.na/namibia-to-implement-e-justice-system-in-supreme-court/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: do courts manage cases electronically.
+***Not found***. No source found since October 2023 says: do courts manage cases electronically.

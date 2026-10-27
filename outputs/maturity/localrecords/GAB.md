@@ -12,6 +12,6 @@
 
 **Local governments recording.** The mayor of Libreville said on 3 July 2026 that [the city has its own operational system digitalising municipal revenue and securing collection](<https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie>). The city hall had [launched a pilot of digitised revenue collection on 29 July 2025](<https://www.gabonreview.com/libreville-enclenche-la-digitalisation-des-recettes-municipales/>).
 
-***Noted, not assessed***. Web: the Ministry of Digital Economy's [Madigipaie](<https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie>), a QR code payment platform.
+***Also on file***. Web: the Ministry of Digital Economy's [Madigipaie](<https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie>), a QR code payment platform.
 
-***Not held***. No local government outside Libreville is stated as recording, and where the record is held is not stated. Whether the system the mayor calls operational is the 2025 pilot is not held, and no plan or finance is stated.
+***Not found***. No local government outside Libreville is stated as recording, and where the record is held is not stated. Whether the system the mayor calls operational is the 2025 pilot is not held, and no plan or finance is stated.

@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The same [guideline](<https://www.veritaszim.net/sites/veritas_d/files/05%20Guideline%20on%20cross%20border%20transfer.pdf>) sets out the notification, impact assessment, consent, adequacy and agreement steps, includes a letter requesting prior authorisation from the Authority, and gives a contact address for complaints and guidance. In a report published on 26 December 2025, [POTRAZ said 24 cross-border transfers of personal data have been authorised](<https://www.connectingafrica.com/cybersecurity/zimbabwe-to-guide-southern-africa-in-data-protection-capacity-building>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The dates of the 24 authorisations, the organisations that received them and the countries data went to are not held. No list of approved destination countries or model contract terms is held.
+***Not found***. The dates of the 24 authorisations, the organisations that received them and the countries data went to are not held. No list of approved destination countries or model contract terms has been found.

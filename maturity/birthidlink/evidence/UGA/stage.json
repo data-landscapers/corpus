@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "UGA-003;UGA-004",
-      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
       "note": "Rebuild: NIRA holds both registers and issues the NIN on birth notification (2026), but says death registration is disconnected. So records do not pass both ways.",
       "as_at": "2026-10-22"
     }

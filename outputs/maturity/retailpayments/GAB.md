@@ -8,6 +8,6 @@
 
 **National switch.** [AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Gabon](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Noted, not assessed***. [Systac](<https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe>); [Sygma](<https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe>); [CNSS single-entitlement benefit payments](<https://gabonactu.com/blog/2025/12/19/paiement-des-prestations-cnss-3-010-droits-uniques-en-cours-de-reglement-a-travers-le-pays/>).
+***Also on file***. [Systac](<https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe>); [Sygma](<https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe>); [CNSS single-entitlement benefit payments](<https://gabonactu.com/blog/2025/12/19/paiement-des-prestations-cnss-3-010-droits-uniques-en-cours-de-reglement-a-travers-le-pays/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -2,6 +2,6 @@
 
 ## Revenue collection
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how taxes and fees are paid.
+***Not found***. Nothing found says how taxes and fees are paid.

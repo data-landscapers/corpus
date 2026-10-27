@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SDN-001;SDN-007",
-   "gaps": "No source held since October 2023 says payments between providers, or between wallets and banks, are in service.",
+   "gaps": "No source found since October 2023 says payments between providers, or between wallets and banks, are in service.",
    "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
   }
  ]

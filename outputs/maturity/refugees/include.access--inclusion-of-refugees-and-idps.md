@@ -291,78 +291,78 @@ A 2026 source says refugees or displaced people are not registered or are barred
 
 ### Eritrea: Unplaced
 
-Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
+Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
 
 ### Gambia: Unplaced
 
-Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
+Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
 
 ### Guinea-Bissau: Unplaced
 
-Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
+Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
 
 ### Malawi: Unplaced
 
-Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
+Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
 
 ### South Africa: Unplaced
 
-Nothing held since 2023 names registration of refugees and displaced people, so no stage is set.
+Nothing found since 2023 names registration of refugees and displaced people, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.
 
 ### Algeria: No evidence
 
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
+Nothing found names registration of refugees and displaced people or says there is none, so no stage is set.
 
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found says whether refugees or displaced people are registered or can use digital services.
 
 ### Cape Verde: No evidence
 
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
+Nothing found names registration of refugees and displaced people or says there is none, so no stage is set.
 
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found says whether refugees or displaced people are registered or can use digital services.
 
 ### Gabon: No evidence
 
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
+Nothing found names registration of refugees and displaced people or says there is none, so no stage is set.
 
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found says whether refugees or displaced people are registered or can use digital services.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
+Nothing found names registration of refugees and displaced people or says there is none, so no stage is set.
 
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found says whether refugees or displaced people are registered or can use digital services.
 
 ### Seychelles: No evidence
 
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
+Nothing found names registration of refugees and displaced people or says there is none, so no stage is set.
 
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found says whether refugees or displaced people are registered or can use digital services.
 
 ### Sierra Leone: No evidence
 
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
+Nothing found names registration of refugees and displaced people or says there is none, so no stage is set.
 
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found says whether refugees or displaced people are registered or can use digital services.
 
 ### Tunisia: No evidence
 
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
+Nothing found names registration of refugees and displaced people or says there is none, so no stage is set.
 
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found says whether refugees or displaced people are registered or can use digital services.
 
 ### Zimbabwe: No evidence
 
-Nothing held names registration of refugees and displaced people or says there is none, so no stage is set.
+Nothing found names registration of refugees and displaced people or says there is none, so no stage is set.
 
-Not established: Nothing held says whether refugees or displaced people are registered or can use digital services.
+Not established: Nothing found says whether refugees or displaced people are registered or can use digital services.

@@ -6,8 +6,8 @@
 
 **Several cities.** [The minister said the 24 innovation centres are spread across the governorates](<https://www.tafsela.net/98622>).
 
-**Technology park.** No source held since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://english.ahram.org.eg/News/577224.aspx>).
+**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://english.ahram.org.eg/News/577224.aspx>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a science or technology park is in service with tenants.
+***Not found***. No source found since October 2023 says a science or technology park is in service with tenants.

@@ -6,6 +6,6 @@
 
 **Certification.** The [Standards Act](<https://faolex.fao.org/docs/pdf/bot91763.pdf>) is the nearest text held, and it names no certification against a standard on information technology or data. Neither does the work programme of April 2026.
 
-***Noted, not assessed***. [National Quality Policy](<https://dailynews.gov.bw/news-detail/89185>).
+***Also on file***. [National Quality Policy](<https://dailynews.gov.bw/news-detail/89185>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

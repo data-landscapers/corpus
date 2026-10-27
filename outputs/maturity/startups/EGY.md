@@ -8,6 +8,6 @@
 
 **Funded.** [Egypt Ventures, the sovereign VC vehicle, has deployed investments across 22 companies to date, and that the MSMEDA Fund of Funds co-invests alongside private VCs with capital deployment ongoing](<https://itida.gov.eg/English/MediaCenter/Announcements/Documents/egypt-startup-ecosystem-report-2026.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a public fund under the startup law or strategy has financed startups.
+***Not found***. No source found since October 2023 says a public fund under the startup law or strategy has financed startups.

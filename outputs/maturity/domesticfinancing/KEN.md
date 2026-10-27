@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The Communications Authority's Universal Service Fund [funded the Digital Superhighway backbone and metro fibre procurement](<https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184>), a fund the [Communications Authority administers](<https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184>), and, in August 2026, [a skilling project for 120,000 people across 19 counties](<https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The state's digital money was lower in the latest budget than in the one before on the main figures.
+***Not found***. The state's digital money was lower in the latest budget than in the one before on the main figures.

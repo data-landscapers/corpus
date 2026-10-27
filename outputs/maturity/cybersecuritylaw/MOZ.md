@@ -6,6 +6,6 @@
 
 **Use of the law.** On 28 July 2026 the communications minister said the government [has approved the Cybersecurity Law and the Cybercrime Law](<https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/>) and that implementation is mandatory for companies operating critical infrastructure. In April 2026 Parliament [unanimously approved the Cyber Security Law](<https://clubofmozambique.com/news/mozambique-parliament-unanimously-approves-cyber-security-law/>), making INCM technical coordinator for cyberspace security and creating a Cyber Security Fund, a proposal the government had submitted the previous Thursday.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

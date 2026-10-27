@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "digitalskills"
 SUB = "publicskills"
-GAPS = {'4': 'No source held since October 2023 gives a measured share of half or more of adults with basic digital skills.', '3': 'No source held since October 2023 gives a measured share of people with basic digital skills.', '2': 'No source held since October 2023 says: is one in service and counted.', '1': 'No source held since October 2023 says: is a national digital-skills programme under way.', '5': ''}
-EMPTY = 'Nothing held says whether the public is taught digital skills.'
-UNPLACED = 'Nothing held since October 2023 says whether a national digital-skills programme is under way or in service.'
+GAPS = {'4': 'No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.', '3': 'No source found since October 2023 gives a measured share of people with basic digital skills.', '2': 'No source found since October 2023 says: is one in service and counted.', '1': 'No source found since October 2023 says: is a national digital-skills programme under way.', '5': ''}
+EMPTY = 'Nothing found says whether the public is taught digital skills.'
+UNPLACED = 'Nothing found since October 2023 says whether a national digital-skills programme is under way or in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

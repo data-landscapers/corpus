@@ -6,6 +6,6 @@
 
 **Required consultation and standing body.** The Réseau des acteurs du numérique, an industry body, [was among those the minister met on 6 August 2026](<https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/>) about the order.
 
-***Noted, not assessed***. The [fourth Youth Forum on Internet Governance](<https://acp.cd/anglais/drc-is-committed-to-support-initiatives-that-strengthen-young-peoples-digital-skills-dg-artpc/>), run by Internet Society DRC and the organisers of the national internet governance forum, with no named law or policy put to it.
+***Also on file***. The [fourth Youth Forum on Internet Governance](<https://acp.cd/anglais/drc-is-committed-to-support-initiatives-that-strengthen-young-peoples-digital-skills-dg-artpc/>), run by Internet Society DRC and the organisers of the national internet governance forum, with no named law or policy put to it.
 
-***Not held***. No published report of a consultation on a digital law or policy, no set of comments received and no written answer to them is held from the last three years. Nothing held states who took part in the 5G consultation, a rule that required a consultation, or a standing body with outside members giving a view.
+***Not found***. No published report of a consultation on a digital law or policy, no set of comments received and no written answer to them has been found from the last three years. Nothing found states who took part in the 5G consultation, a rule that required a consultation, or a standing body with outside members giving a view.

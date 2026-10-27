@@ -41,9 +41,9 @@ QS = (("inhouse", "yes", True), ("agency", "operating", True), ("built", "live",
 OWN = 3   # systems an `own` answer needs
 GAPS = {
     "5": "",
-    "4": "No sources held since October 2023 name three systems run wholly by government staff.",
-    "3": "No source held says a system built by government staff went live since October 2023.",
-    "2": "No source held from 2023 or later says a government body builds or runs systems for the "
+    "4": "No sources found since October 2023 name three systems run wholly by government staff.",
+    "3": "No source found says a system built by government staff went live since October 2023.",
+    "2": "No source found from 2023 or later says a government body builds or runs systems for the "
          "rest of government.",
     "1": "",
 }
@@ -79,7 +79,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
                   key=lambda p: p[0], reverse=True)
     if not live:
         return {"stage": "no evidence", "sources": [], "values": {},
-                "gaps": "Nothing held says who builds or runs the government's computer systems."}
+                "gaps": "Nothing found says who builds or runs the government's computer systems."}
     three = study_lib.months_back(as_at, 36)
     hit = {k: next((r for d, r in live if r["aspect"] == k and r["value"] == v
                     and (not windowed or d >= three)), None) for k, v, windowed in QS}
@@ -98,7 +98,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
             values["inhouse"] = "outsourced"
             return {"stage": "1", "sources": [out["row_id"]], "values": values, "gaps": ""}
         return {"stage": "unplaced", "sources": [], "values": values,
-                "gaps": "No source held from 2023 or later says government staff run or maintain "
+                "gaps": "No source found from 2023 or later says government staff run or maintain "
                         "any of its systems."}
     sources = ([r["row_id"] for r in own.values()][:OWN] if top == 4
                else [hit[k]["row_id"] for k, _, _ in reversed(QS[:top]) if hit[k]][:3])

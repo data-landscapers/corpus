@@ -2,6 +2,6 @@
 
 ## Cross-border functionality
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 says whether a cross-border digital payment channel is in service.
+***Not found***. Nothing found since October 2023 says whether a cross-border digital payment channel is in service.

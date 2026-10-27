@@ -6,6 +6,6 @@
 
 **Several public bodies publishing.** [The policy names the Ministry of Mines, CPDM, SOGUIPAMI, the Chambre des Mines and the BCRG as bodies each publishing revenue data on its own site (2017, before the three-year window)](<https://opendataitie-guinee.org/wp-content/uploads/2021/03/Politique-GMP-en-Matiere-de-donnees-Ouvertes.pdf>).
 
-***Noted, not assessed***. [ITIE-Guinee website (Excel and PDF publication)](<https://opendataitie-guinee.org/wp-content/uploads/2021/03/Politique-GMP-en-Matiere-de-donnees-Ouvertes.pdf>); [World Bank Microdata Library (Global Findex 2025 Guinea file, GIN_2024_FINDEX_v02_M)](<https://microdata.worldbank.org/catalog/7911>).
+***Also on file***. [ITIE-Guinee website (Excel and PDF publication)](<https://opendataitie-guinee.org/wp-content/uploads/2021/03/Politique-GMP-en-Matiere-de-donnees-Ouvertes.pdf>); [World Bank Microdata Library (Global Findex 2025 Guinea file, GIN_2024_FINDEX_v02_M)](<https://microdata.worldbank.org/catalog/7911>).
 
-***Not held***. No source held since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.
+***Not found***. No source found since October 2023 states an open licence for the data or names two or more public bodies publishing it, and none since October 2024 names or counts four or more.

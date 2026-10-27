@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** In November 2025 the Ethiopian Communications Authority's Director General [told Shega](<https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement>) the Authority had received about 10 requests to transfer data abroad and had approved them as a temporary measure; the article records no sanction and no published count of decisions. Officials previewed a forthcoming registration portal for data controllers and processors at a [workshop co-hosted with Huawei](<https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The evidence does not show a published list of countries data may go to, model contract terms or guidance on transfers. It gives no count of decisions and no refusal or penalty tied to sending data abroad.
+***Not found***. The evidence does not show a published list of countries data may go to, model contract terms or guidance on transfers. It gives no count of decisions and no refusal or penalty tied to sending data abroad.

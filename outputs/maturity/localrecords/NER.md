@@ -12,6 +12,6 @@
 
 **Local governments recording.** The platform [launched in the City of Niamey](<https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/>) in January 2025. The United Nations Development Programme named Diffa in December 2025 as [the first outside the capital to deploy it in full](<https://www.undp.org/fr/niger/actualites/diffa-numerise-limpot-local-avec-naneye-yarda>). On 21 August 2025 Niamey [received 100 electronic payment terminals](<https://www.journalduniger.com/100-terminaux-de-paiement-electronique-pour-niamey/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Where the record is held, in Niamey or in Diffa, and who pays for the system. No count of communes recording, no report of use in Diffa since it was put into service, and no statement that Niamey's 100 terminals are in use.
+***Not found***. Where the record is held, in Niamey or in Diffa, and who pays for the system. No count of communes recording, no report of use in Diffa since it was put into service, and no statement that Niamey's 100 terminals are in use.

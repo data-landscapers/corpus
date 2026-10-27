@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SEN-010;SEN-024",
-   "gaps": "No source held says the government hosts its own data in a nationally owned data centre in the country.",
+   "gaps": "No source found says the government hosts its own data in a nationally owned data centre in the country.",
    "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
   }
  ]

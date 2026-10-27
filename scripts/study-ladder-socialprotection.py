@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "socialprotection"
 SUB = "socialmis"
-GAPS = {'4': 'No source held since October 2023 says one information system serves several social programmes.', '3': "No source held since October 2023 says the programme's system pays beneficiaries electronically.", '2': 'No source held since October 2023 says: is a programme run on one.', '1': 'No source held since October 2023 says: is a programme management information system under way.', '5': ''}
-EMPTY = 'Nothing held says how social programmes are administered.'
-UNPLACED = 'Nothing held since October 2023 says whether a social programme runs on an information system.'
+GAPS = {'4': 'No source found since October 2023 says one information system serves several social programmes.', '3': "No source found since October 2023 says the programme's system pays beneficiaries electronically.", '2': 'No source found since October 2023 says: is a programme run on one.', '1': 'No source found since October 2023 says: is a programme management information system under way.', '5': ''}
+EMPTY = 'Nothing found says how social programmes are administered.'
+UNPLACED = 'Nothing found since October 2023 says whether a social programme runs on an information system.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

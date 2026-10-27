@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-002;TUN-001;TUN-003",
-      "gaps": "No source held since October 2023 gives a figure for records exchanged between the two.",
-      "note": "Rebuild: the citizen-number register is assigned at birth and initialised and updated from the civil register by API, death records included (2026), and the 2024 law deactivates the card chip on death. No figure for records exchanged is held.",
+      "gaps": "No source found since October 2023 gives a figure for records exchanged between the two.",
+      "note": "Rebuild: the citizen-number register is assigned at birth and initialised and updated from the civil register by API, death records included (2026), and the 2024 law deactivates the card chip on death. No figure for records exchanged has been found.",
       "as_at": "2026-10-22"
     }
   ]

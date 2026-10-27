@@ -8,6 +8,6 @@
 
 **Use reported.** [ZPPA said 14,732 tenders from 431 procuring entities were published on E-GP in the third quarter of 2024](<https://www.zambiamonitor.com/procurement-authority-threatens-sanctions-against-officers-who-fail-to-implement-e-gp-system/>).
 
-***Noted, not assessed***. [CIPS](<https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/>); [Government Service Bus](<https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2>); [ZamPortal](<https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2>); [ZamPay](<https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2>).
+***Also on file***. [CIPS](<https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/>); [Government Service Bus](<https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2>); [ZamPortal](<https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2>); [ZamPay](<https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

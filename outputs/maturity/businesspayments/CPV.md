@@ -8,6 +8,6 @@
 
 **Use reported.** The government note puts [the contract for the new platform at CVE 70,000,000, spread over four years, with ACIN-iCloud Solutions as the supplier](<https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says e-procurement runs end to end or is required of all public bodies, or gives the tenders, value or share of purchasing through the portal.
+***Not found***. No source found since October 2023 says e-procurement runs end to end or is required of all public bodies, or gives the tenders, value or share of purchasing through the portal.

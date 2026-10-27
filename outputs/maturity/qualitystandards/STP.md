@@ -6,6 +6,6 @@
 
 **Certification.** The institute's [site](<https://senapiq.gov.st/>) puts certification and accreditation among the fields on which it proposes policy. It names no certification scheme. A bank's quality management certificate from a certifier abroad is listed below.
 
-***Noted, not assessed***. [ISO 9001:2015 certification of BGFI Bank Sao Tome](<https://www.telanon.info/economia/2026/08/03/53828/bgfi-bank-e-o-primeiro-banco-do-pais-certificado-pela-iso-90012015/>).
+***Also on file***. [ISO 9001:2015 certification of BGFI Bank Sao Tome](<https://www.telanon.info/economia/2026/08/03/53828/bgfi-bank-e-o-primeiro-banco-do-pais-certificado-pela-iso-90012015/>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The same [study](<https://www.cardeth.org/sites/default/files/New%20Media%20Legislations%20and%20their%20Implementations%20in%20Ethiopia.pdf>) says the Ethiopian Institution of the Ombudsman was designated the organ responsible for implementing freedom of information. The study is dated 1 June 2023. It reports studies finding the Ombudsman ineffective for lack of resources to evaluate public bodies, and it gives no date for that finding.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names rules made under the proclamation, says its oversight body is set up as such, or shows requests or decisions under it.
+***Not found***. Nothing found names rules made under the proclamation, says its oversight body is set up as such, or shows requests or decisions under it.

@@ -8,6 +8,6 @@
 
 **Mostly online.** [The Mauritius Revenue Authority says all VAT returns from foreign digital-service suppliers must be submitted electronically through its systems](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>).
 
-***Noted, not assessed***. [e-Filing Service Centre](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>).
+***Also on file***. [e-Filing Service Centre](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

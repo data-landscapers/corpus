@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "MRT-001",
-   "gaps": "No source held since October 2023 says a satellite-based farming service publishes on a schedule.",
+   "gaps": "No source found since October 2023 says a satellite-based farming service publishes on a schedule.",
    "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
   }
  ]

@@ -6,8 +6,8 @@
 
 **Shared with firms or customs.** [The portal gives commerce register, tax registration and social security affiliation in one procedure at company creation](<https://ami.mr/fr/archives/268316>).
 
-**Tied to ID.** No source held since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://ami.mr/fr/archives/268316>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://ami.mr/fr/archives/268316>).
 
-***Noted, not assessed***. [Registre biométrique national (ANRPTS)](<https://procedures.gov.mr/fr/procedure/1105>); [Jibaya](<https://numericite.eu/numericite-x-mauritanie-episode-1-immersion-en-pays-maure/>).
+***Also on file***. [Registre biométrique national (ANRPTS)](<https://procedures.gov.mr/fr/procedure/1105>); [Jibaya](<https://numericite.eu/numericite-x-mauritanie-episode-1-immersion-en-pays-maure/>).
 
-***Not held***. No source held since October 2023 says the taxpayer number is tied to the national ID.
+***Not found***. No source found since October 2023 says the taxpayer number is tied to the national ID.

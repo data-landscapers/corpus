@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** The regulator, ARME, [put Starlink at 0.87% of Cabo Verde's 500,263 internet access subscriptions at the end of June 2026](<https://expressodasilhas.cv/economia/2026/10/22/assinaturas-de-internet-fixa-aumentam-147-num-ano/105202>), against [72.6% for Cabo Verde Telecom and 26.5% for Unitel](<https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total>). Starlink [carried 18% of national internet traffic in the second quarter of 2026](<https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total>), up from 6% a year earlier.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says services on two different satellite networks are on sale.
+***Not found***. No source found says services on two different satellite networks are on sale.

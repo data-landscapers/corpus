@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "aigovernment"
 SUB = "govai"
-GAPS = {'4': 'No source held since October 2023 says the government has issued rules or a register for its own use of AI.', '3': 'No source held since October 2023 says AI is in service in two or more government bodies.', '2': 'No source held since October 2023 says: is an ai system in service in administration.', '1': 'No source held since October 2023 says: is ai in administration under way.', '5': ''}
-EMPTY = 'Nothing held says whether government bodies use AI.'
-UNPLACED = 'Nothing held since October 2023 says whether a government body uses an AI system.'
+GAPS = {'4': 'No source found since October 2023 says the government has issued rules or a register for its own use of AI.', '3': 'No source found since October 2023 says AI is in service in two or more government bodies.', '2': 'No source found since October 2023 says: is an ai system in service in administration.', '1': 'No source found since October 2023 says: is ai in administration under way.', '5': ''}
+EMPTY = 'Nothing found says whether government bodies use AI.'
+UNPLACED = 'Nothing found since October 2023 says whether a government body uses an AI system.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

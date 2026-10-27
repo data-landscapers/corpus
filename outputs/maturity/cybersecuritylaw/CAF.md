@@ -6,6 +6,6 @@
 
 **Use of the law.** An [opinion piece published on 18 August 2026](<https://corbeaunews-centrafrique.org/cybercriminalite-a-saint-petersbourg-evariste-ngamana-defend-un-combat-perdu-davance-contre-les-reseaux-sociaux/>) refers to the government's cybercrime law as wielded by the prosecutor's office and police. It dates from 2026, more than two years after the Assembly vote of January 2024.
 
-***Noted, not assessed***. [Agence nationale de la cybersécurité (ANCy)](<https://www.africatopsuccess.com/un-projet-de-loi-pour-lutter-contre-la-cybercriminalite-en-centrafrique/>).
+***Also on file***. [Agence nationale de la cybersécurité (ANCy)](<https://www.africatopsuccess.com/un-projet-de-loi-pour-lutter-contre-la-cybercriminalite-en-centrafrique/>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

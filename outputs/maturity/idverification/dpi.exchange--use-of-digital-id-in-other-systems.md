@@ -106,145 +106,145 @@ Use of the national ID by other services was reported with figures in 2024.
 
 ### Kenya: 4 Operating
 
-Services in two or more sectors checked people against the national ID in 2023; volumes are not known.
+Services in two or more sectors checked people against the national ID in 2023; no source found reports volumes.
 
 - The same presentation gives SIM card registration (telecoms) and bank account opening (banking) as transactions the Maisha Card is validated for through KYC ([source, 2023-11-01](https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf)).
 
 ### Mauritania: 4 Operating
 
-Services in two or more sectors checked people against the national ID in 2026; volumes are not known.
+Services in two or more sectors checked people against the national ID in 2026; no source found reports volumes.
 
 - Tech Rek states Houwiyeti is the gateway public and private services use to verify citizens' identity, with private financial apps using the identity verification system at user registration alongside the public Khadamati services (as_of is the published date) ([source, 2026-08](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/)).
 
 ### Sierra Leone: 4 Operating
 
-Services in two or more sectors checked people against the national ID in 2025; volumes are not known.
+Services in two or more sectors checked people against the national ID in 2025; no source found reports volumes.
 
 - NCRA's Deputy Director of ICT named banking, public education and employment as requiring the NIN; no event date given, so the published date is used ([source, 2025-06-05](https://www.biometricupdate.com/202506/sierra-leone-reaches-93-percent-national-id-coverage-80-percent-services-digitized)).
 - NCRA's presentation shows the verification ecosystem linked to health care, social protection, banks, social security, payroll, drivers licence, passport, pensions, FIU/ML, education, immigration, elections, tax/revenue and SIM card registration ([source, 2024-05](https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf)).
 
 ### Tunisia: 4 Operating
 
-Services in two or more sectors checked people against the national ID in 2026; volumes are not known.
+Services in two or more sectors checked people against the national ID in 2026; no source found reports volumes.
 
 - The playbook lists E-Houwiya integration across telecoms, banking, health insurance, social security, education and public portals ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - Biometric Update says E-Houwiya serves banking KYC and onboarding and works as single sign-on for the government portals E-Bawaba and E-CNAM; it gives no date ([source, 2025-03](https://www.biometricupdate.com/202503/tunisia-drives-digitization-agenda-forward-while-navigating-risks)).
 
 ### Algeria: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - Echorouk reports CNEP-Banque, Housing Bank for Trade and Finance and Banque Nationale d'Algerie are verifying customers' identity and updating files, which can require a valid identity card; it does not say checks are made against the national ID register ([source, 2026-08-29](https://www.echoroukonline.com/توضيحات-أكبر-لـالبنوك-الجزائرية-حول)).
 - The Sports Ministry says holders of the national digital identity issued by the HCN can now access its WADHIFATI platform without creating an account, the user being identified through the unified digital identity ([source, 2026-08-12](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/)).
 
 ### Botswana: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - Business Tech Africa reports that the Bankers' Association of Botswana has launched a national eKYC project that lets banks verify customer identities against the national citizen database; the article gives no launch date ([source, 2026-09](https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier)).
 
 ### Burundi: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - Connecting Africa reports mandatory SIM and eSIM registration in Burundi began in mid-June 2026, requiring registrants to present legible, up-to-date identification documents at a registration point, with ARCT interconnecting operators and state bodies for real-time monitoring of registration and user identity ([source, 2026-06](https://www.connectingafrica.com/regulation/burundi-sim-registration-process-faces-challenges-scams-persist)).
 - Agence Ecofin reports ARCT's communique of 3 June 2026 requiring Burundian mobile subscribers to regularise SIM identification by 25 June 2026 or have lines deactivated, with only the carte nationale d'identite accepted for the operation, under a ministerial ordinance of 13 January 2026 ([source, 2026-06-03](https://www.agenceecofin.com/actualites-numerique/0506-139050-burundi-identification-des-cartes-sim-obligatoire-avant-le-25-juin)).
 
 ### Cameroon: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - Cameroon's Finance Ministry made national ID cards a mandatory requirement, with birth certificates, of its public-servant family-allowance census, whose second phase launched in June 2026 and was due to end on 15 August 2026 ([source, 2026-06](https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist)).
 
 ### Cape Verde: 3 Established
 
-A service checked people against the national ID in 2024; use in a second sector is not known.
+A service checked people against the national ID in 2024; no source found reports use in a second sector.
 
 - The Government of Cabo Verde says the Portal de Justiça, launched on 18 December 2024, is integrated with the state's Autentika platform and supports several user authentication methods for services including certificates and online renewal of the CNI ([source, 2024-12-18](https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/)).
 
 ### Eswatini: 3 Established
 
-A service checked people against the national ID in 2024; use in a second sector is not known.
+A service checked people against the national ID in 2024; no source found reports use in a second sector.
 
 - APC states that recent developments allow service providers such as commercial banks to access the civil registry for identity verification, while saying the National ID card does not yet meet the criteria for digital identification ([source, 2024-07-22](https://www.apc.org/en/news/risk-human-rights-infringement-eswatini-rushes-regulate-ict-sector)).
 
 ### Gambia: 3 Established
 
-A service checked people against the national ID in 2025; use in a second sector is not known.
+A service checked people against the national ID in 2025; no source found reports use in a second sector.
 
 - The diagnostic says the Drivers License System uses the National ID system for biometric verification of applicants to prevent identity fraud and duplication; no date is given, so the document's 2025 publication year is used ([source, 2025](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf)).
 - The World Bank ID4D diagnostic says the national ID's NIN was populated into the eCRVS to cross-verify parents' IDs when new NINs were issued after the mass enrolment ([source, 2023](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf)).
 
 ### Lesotho: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - Digital identity cards in Lesotho are listed among domestic eKYC frameworks that have financial services use cases (FinMark Trust, June 2026; no date for the use, published date used) ([source, 2026-06](https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc)).
 - Minister Lephema says legal identity has let citizens open bank accounts, access credit and use mobile money ([source, 2025-09-16](https://www.thereporter.co.ls/2025/09/16/education-sector-lags-behind-in-id-integrationlephema/)).
 
 ### Liberia: 3 Established
 
-A service checked people against the national ID in 2024; use in a second sector is not known.
+A service checked people against the national ID in 2024; no source found reports use in a second sector.
 
 - The National Identification Registry says an MoU with the Civil Service Agency (May 2024) allows national ID numbers to be used for payroll verification, helping identify ghost workers ([source, 2024-05](https://www.biometricupdate.com/202503/liberia-says-national-id-system-drives-digital-economy-facilitates-service-delivery)).
 
 ### Libya: 3 Established
 
-Some government digital services matched people's national number in 2025; use in other sectors is not known.
+Some government digital services matched people's national number in 2025; no source found reports use in other sectors.
 
 - The NESDB executive summary says some digital transactions between government departments, such as national number matching, are provided in completing some digital services for citizens ([source, 2025-02](https://nesdb.ly/wp-content/uploads/2025/02/%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9.pdf)).
 - The General Information Authority and the Central Bank of Libya reviewed linking the Level 3 biometric digital identity to banking systems for eKYC, and technical trials with the Central Bank and a number of banks had already begun as a prelude to launch and integration (the document gives no trial date, so its published date is used) ([source, 2026-04-19](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/)).
 
 ### Mali: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - Mali launched on 10 February 2026 two online platforms, for the criminal record and the nationality certificate, where citizens apply using their NINA and civil-status details (Maliweb) ([source, 2026-02-10](https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html)).
 - Civil servants who had not validated their biometric physical check in the SIGRH payroll and HR system had to produce papers including the carte Nina, under a grace period from 8 September 2025 extended to 30 January 2026 (L'Essor) ([source, 2025-09](https://lessor.ml/posts/sigrh-au-dela-du-delai-de-grace-69981e06e8d50)).
 
 ### Mauritius: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - L'Express reports that since 29 September 2026 licence holders (about 884,000) can view their digital driving licence on the KOREK! app, with MauPass providing the identification and authentication and police systems the data ([source, 2026-09-29](https://lexpress.mu/node/563226)).
 
 ### Namibia: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - OPM's Director of Architecture said government has already saved about N$16 million on social grants through electronic identity verification, including preventing payments to deceased beneficiaries ([source, 2026-07-25](https://informante.web.na/?p=398234)).
 - Namibia's Chief Registrar reports that the home affairs and social protection ministries integrated the National Population Registration System with the social protection system, which verifies beneficiaries' existence and live status against the population register and eliminated ghost beneficiaries ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf)).
 
 ### Senegal: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - IPRES, the pension institution, opened its three-month periodic proof-of-life campaign on 1 July 2026 on the Maa ngi nii platform, where Senegalese pensioners must hold their ECOWAS national identity card to complete the proof of life ([source, 2026-07-01](https://aps.sn/lipres-annonce-le-debut-de-la-campagne-periodique-de-collecte-de-preuve-de-vie-ce-mercredi/)).
 - The e-Sénégal single-window app, launched 24 March 2026 and built by SENUM SA, gives access through authentication on the NIN carried on the biometric identity card, with judicial-record, nationality-certificate and similar procedures live at launch ([source, 2026-03-24](https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html)).
 
 ### Seychelles: 3 Established
 
-A service checked people against the national ID in 2025; use in a second sector is not known.
+A service checked people against the national ID in 2025; no source found reports use in a second sector.
 
 - Seychelles Nation reports the Agency for Social Protection's ASP Connect platform, launched internally on 15 October 2025, is accessible through the SeyID portal, which hosts all government entities' systems; the free text gives no detail of what SeyID checks ([source, 2025-10-15](https://www.nation.sc/articles/27935/asp-launches-digital-system)).
 - The SeyID page says government e-services that require SeyID need a 60% validation level, which is reached by checking the holder's NIN card or passport video against the Civil Status System ([source, 2024](https://seyid.gov.sc)).
 
 ### Sudan: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - SUNA reports Omdurman National Bank became the first bank in Sudan to activate the link, so customers inside and outside Sudan update their data on its digital channels with SudaPass verifying their identity ([source, 2026-09-26](https://www.suna.sd/posts/bnk-am-drman-alotny-aol-bnk-ytyh-thdyth-byanat-alaamlaaa-rkmya-bastkhdam-sodabas)).
 - The Central Bank of Sudan issued a circular adopting the national number for opening bank accounts and requiring banks to check the number the customer gives against the Civil Registry's system ([source, 2024-12-02](https://cbos.gov.sd/ar/news/%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A)).
 
 ### Zambia: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - The Presidential Delivery Unit says the FISP e-Voucher system, a farm-input subsidy programme, uses electronic Know-Your-Customer verification to cut duplication and ghost beneficiaries, rolled out to all 116 districts with redemption closing on 15 January 2026, though the document does not name the national ID register as the thing checked ([source, 2026-01-15](https://www.pdu.gov.zm/blog/how-fisp-e-voucher-is-delivering-support-where-it-matters-most)).
 
 ### Zimbabwe: 3 Established
 
-A service checked people against the national ID in 2026; use in a second sector is not known.
+A service checked people against the national ID in 2026; no source found reports use in a second sector.
 
 - The Reserve Bank of Zimbabwe shut down ghost, fictitious and duplicate mobile money wallets after linking the Civil Registry's national database with mobile financial services subscriber records ([source, 2026-09-10](https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/)).
 - The Justice Minister said the Zimbabwe Electoral Commission was already using the Registrar-General's national population database to verify voter information and clean up the voters' roll ([source, 2026-07-23](https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/)).
@@ -314,66 +314,66 @@ Another system's use of the national ID was under way in 2024; none in service i
 
 ### Burkina Faso: Unplaced
 
-Nothing held since 2023 names another system checking people against the national ID, so no stage is set.
+Nothing found since 2023 names another system checking people against the national ID, so no stage is set.
 
-Not established: Nothing held since October 2023 names another system checking people against the national ID.
+Not established: Nothing found since October 2023 names another system checking people against the national ID.
 
 ### Comoros: Unplaced
 
-Nothing held since 2023 names another system checking people against the national ID, so no stage is set.
+Nothing found since 2023 names another system checking people against the national ID, so no stage is set.
 
-Not established: Nothing held since October 2023 names another system checking people against the national ID.
+Not established: Nothing found since October 2023 names another system checking people against the national ID.
 
 ### Central African Republic: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### Congo: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### Madagascar: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### Mozambique: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held names another system checking people against the national ID or says there is none, so no stage is set.
+Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 
-Not established: Nothing held names another system checking people against the national ID, or says there is none.
+Not established: Nothing found names another system checking people against the national ID, or says there is none.

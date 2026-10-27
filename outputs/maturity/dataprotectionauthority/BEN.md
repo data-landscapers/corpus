@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** The authority's [published 2025 report gives 907 files examined, 64 inspection missions, 20 complaints treated and 75 compliance certificates issued](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite). Its [2015 to 2020 report counts 347 decisions, 136 of them in 2020](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf). On [18 August 2016 it refused Spacetel Benin authorisation to collect biometric subscriber data](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf).
 
-***Noted, not assessed***. The [Code du numérique, as amended by loi n° 2020-35](https://fraternite.bj/protection-des-donnees-a-caractere-personnel-au-benin-ce-que-dit-la-loi-du-06-janvier-2021/), and [Loi n° 2009-09 of 22 May 2009, replaced by the 2018 Code](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf).
+***Also on file***. The [Code du numérique, as amended by loi n° 2020-35](https://fraternite.bj/protection-des-donnees-a-caractere-personnel-au-benin-ce-que-dit-la-loi-du-06-janvier-2021/), and [Loi n° 2009-09 of 22 May 2009, replaced by the 2018 Code](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf).
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

@@ -6,8 +6,8 @@
 
 **Shared number.** [The CNRC says the single registration gives the firm a common identification number, issued within three days of approval by CNRC, the tax directorate (DGI), CNAS, CASNOS and ONS](<https://sidjilcom-entreprise.cnrc.dz/acceuil>).
 
-**Beneficial owners.** No source held since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://sidjilcom-entreprise.cnrc.dz/acceuil>).
+**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://sidjilcom-entreprise.cnrc.dz/acceuil>).
 
-***Noted, not assessed***. [Tabaakoum](<https://www.wearetech.africa/en/fils-uk/news/finance/algeria-moves-business-registration-stamp-duties-online>).
+***Also on file***. [Tabaakoum](<https://www.wearetech.africa/en/fils-uk/news/finance/algeria-moves-business-registration-stamp-duties-online>).
 
-***Not held***. No source held since October 2023 says the register collects beneficial owners.
+***Not found***. No source found since October 2023 says the register collects beneficial owners.

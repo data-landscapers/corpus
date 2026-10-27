@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "healthexchange"
 SUB = "exchange"
-GAPS = {'4': 'No source held since October 2023 says patient records are linked through the national ID or a national health identifier.', '3': 'No source held since October 2023 says three or more health systems exchange data, or a national exchange is in service.', '2': 'No source held since October 2023 says two health systems exchange data in routine use.', '1': 'No source held since October 2023 says an exchange between health systems is under way.', '5': ''}
-EMPTY = "Nothing held names health systems exchanging data, or says there is none."
-UNPLACED = "Nothing held since October 2023 names health systems exchanging data."
+GAPS = {'4': 'No source found since October 2023 says patient records are linked through the national ID or a national health identifier.', '3': 'No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.', '2': 'No source found since October 2023 says two health systems exchange data in routine use.', '1': 'No source found since October 2023 says an exchange between health systems is under way.', '5': ''}
+EMPTY = "Nothing found names health systems exchanging data, or says there is none."
+UNPLACED = "Nothing found since October 2023 names health systems exchanging data."
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

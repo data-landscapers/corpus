@@ -25,7 +25,7 @@ does it**, and does it the same way for 54 countries.
 A source the study excludes (`exclude_sources` in `study.json`) gives a profile nothing: its
 rows stay in `evidence.csv`, where the ruling can be reversed, and are passed over here.
 
-- `gap`     — what is not established: nothing held, or nothing dated inside the window. A
+- `gap`     — what is not established: nothing found, or nothing dated inside the window. A
   coverage aspect's window is three years; a qualifier's is its own. **A gap is what Phase 1
   searches for**, so this column is the search list.
 
@@ -304,7 +304,7 @@ def profile_cell(aspect: dict, rows: list[dict], as_at: dt.date) -> dict:
     dated = sorted(((study_lib.parse_as_of(r["as_of"]), r) for r in rows),
                    key=lambda p: p[0], reverse=True)
     if not dated:
-        return {"value": "", "as_of": "", "sources": "", "others": "", "gap": "nothing held"}
+        return {"value": "", "as_of": "", "sources": "", "others": "", "gap": "nothing found"}
     inside = [p for p in dated if p[0] >= cutoff]
     gap = "" if inside else f"nothing dated since {cutoff.isoformat()}"
 

@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** The Act [sets up a National Biometric Identification System and a biometric card for each person](<https://citizenshiprightsafrica.org/wp-content/uploads/2021/11/Liberia-NIR-Act-2011.pdf>), enrolled with a fingerprint and a photograph. The Registry the Act creates is the body that runs that system. The Act is therefore a law for a biometric identity from its first day, and no later amendment to it is on record. No regulation or decree made under the law since September 2023 is on record.
 
-***Noted, not assessed***. [National Biometric Identification System (NBIS)](<https://citizenshiprightsafrica.org/wp-content/uploads/2021/11/Liberia-NIR-Act-2011.pdf>).
+***Also on file***. [National Biometric Identification System (NBIS)](<https://citizenshiprightsafrica.org/wp-content/uploads/2021/11/Liberia-NIR-Act-2011.pdf>).
 
-***Not held***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.

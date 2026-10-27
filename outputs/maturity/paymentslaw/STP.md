@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** [The 2018 law lets the central bank authorise and license payment service providers](<https://www.africa-laws.org/Saotome/banking%20and%20finance%20law/Law%20no%2017-2018%20%20Legal%20System%20of%20the%20National%20Payment%20System%20(in%20Portuguese).pdf>), defined as any entity providing payment services, e-money issuance included. Banks are treated apart: they need no new authorisation to provide payment services. The licence is therefore open to companies that are not banks. No licensed provider is named, and no rule is named that requires providers to connect to each other.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

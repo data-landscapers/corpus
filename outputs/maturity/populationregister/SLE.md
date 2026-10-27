@@ -2,6 +2,6 @@
 
 ## Population register
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a population register, or says there is none.
+***Not found***. Nothing found names a population register, or says there is none.

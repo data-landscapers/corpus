@@ -6,8 +6,8 @@
 
 **Several programmes.** [The GNHR site says the registry targets beneficiaries of LEAP, school feeding and national health insurance (NHIS), and that its data is used by 15 programmes and 8 organisations over 2019-2026](<https://gnhr.mogcsp.gov.gh/registry.php>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://gnhr.mogcsp.gov.gh/registry.php>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://gnhr.mogcsp.gov.gh/registry.php>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

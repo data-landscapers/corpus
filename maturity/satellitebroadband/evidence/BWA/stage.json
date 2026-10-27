@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BWA-003;BWA-005",
-      "gaps": "No source held gives a subscriber count for satellite broadband published by the regulator in the last three years.",
+      "gaps": "No source found gives a subscriber count for satellite broadband published by the regulator in the last three years.",
       "note": "Counted from the four questions by study-ladder-satellitebroadband.py.",
       "as_at": "2026-10-18"
     }

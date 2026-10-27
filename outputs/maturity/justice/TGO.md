@@ -8,6 +8,6 @@
 
 **Open online.** [The justice ministry says the new online portal of the Tribunal de Grande Instance de Lomé, launched 2 July 2026, lets litigants, lawyers and bailiffs follow the progress of procedures remotely](<https://justice.gouv.tg/les-services-du-tribunal-de-grande-instance-de-lome-passent-en-mode-paiement-numerique/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -2,6 +2,6 @@
 
 ## Authentication
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a digital authentication service, or says there is none.
+***Not found***. Nothing found names a digital authentication service, or says there is none.

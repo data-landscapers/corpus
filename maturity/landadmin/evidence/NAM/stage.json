@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-002",
-      "gaps": "No source held since October 2023 says land or property tax is assessed or paid through the land system.",
+      "gaps": "No source found since October 2023 says land or property tax is assessed or paid through the land system.",
       "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
       "as_at": "2026-10-18"
     }

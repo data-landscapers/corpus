@@ -40,9 +40,9 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No source from the last three years naming a public body, system or product tested, "
          "audited or certified against the standards is held.",
-    "3": "No source held says a law, decree, regulation or circular requires public bodies to "
+    "3": "No source found says a law, decree, regulation or circular requires public bodies to "
          "use the standards.",
-    "2": "No source held says the standards have been published.",
+    "2": "No source found says the standards have been published.",
     "1": "",
 }
 
@@ -85,7 +85,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     lifts = bool(policy) or not draft
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
-                "gaps": "Nothing held names technical standards for government systems to "
+                "gaps": "Nothing found names technical standards for government systems to "
                         "exchange data, or says there are none."}
     if applied and lifts:
         s, src = "5", applied + policy[:1]

@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** The [2015 Act](<https://bot.go.tz/Publications/Acts,%20Regulations,%20Circulars,%20Guidelines/Acts/en/2020030902433783.pdf>) puts electronic money under Bank of Tanzania licensing. It is not said that companies other than banks are licensed under it, and no rule is named that requires mobile money providers and banks to connect to each other or to a national switch. Tanzania therefore answers the first two questions only: a law in force, with its reach to non-banks and to connection between providers not stated.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.
+***Not found***. No source found says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.

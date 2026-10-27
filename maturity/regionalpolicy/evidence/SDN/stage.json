@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SDN-004;SDN-003",
-      "gaps": "No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
+      "gaps": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
       "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
       "as_at": "2026-10-17"
     }

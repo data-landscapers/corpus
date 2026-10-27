@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CAF-001;CAF-003",
-      "gaps": "No source held says the authority's head or members have been appointed.",
+      "gaps": "No source found says the authority's head or members have been appointed.",
       "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
       "as_at": "2026-10-17"
     }

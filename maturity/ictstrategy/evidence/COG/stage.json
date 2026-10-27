@@ -14,7 +14,7 @@
       "cap": "",
       "flags": "dated",
       "stage_sources": "COG-001;COG-003",
-      "gaps": "No text of the policy is held or linked from an official site, and no source says whether one was published. No source gives a date or act of adoption: a 2011 appraisal document treats the policy as existing and a 2019 Council of Ministers communique says it was drawn up in 2008-2009. No source states a period, so it is read as open from instruments.csv, which gives no end year and no replacement. Nothing is held on a delivery plan or reporting. The one governance fact (a mandated body, 2011) is outside the 36 months, and nothing is dated inside the last twelve.",
+      "gaps": "No text of the policy has been found or linked from an official site, and no source says whether one was published. No source gives a date or act of adoption: a 2011 appraisal document treats the policy as existing and a 2019 Council of Ministers communique says it was drawn up in 2008-2009. No source states a period, so it is read as open from instruments.csv, which gives no end year and no replacement. Nothing is held on a delivery plan or reporting. The one governance fact (a mandated body, 2011) is outside the 36 months, and nothing is dated inside the last twelve.",
       "note": "National ICT Policy: on record as the government's policy since 2008-2009, with no text found, and an adopted policy whose text nobody has found stops at stage 2. Stage 3 needs the text public."
     }
   ]

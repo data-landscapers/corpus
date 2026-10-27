@@ -8,6 +8,6 @@
 
 **Results reported.** [The ADII says algorithm-based targeting detected 34 million dirhams of evaded duties and taxes in 2024, against 24 million in 2023; 20 million was recovered and 14 million levied as fines](<https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html>). [In July 2026 authorities were working to bring AI into PortNet, the customs single window](<https://en.7news.ma/portnet-processes-more-nearly-200000-customs-declarations-in-june/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No single source says AI is in service in two or more sectors.
+***Not found***. No single source says AI is in service in two or more sectors.

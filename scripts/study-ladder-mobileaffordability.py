@@ -70,7 +70,7 @@ def correct(rows: list[dict], fixes: list[dict]) -> tuple[list[dict], int]:
 def stage(iso: str, rows: list[dict], as_at: dt.date) -> dict:
     if not rows:
         return {"stage": "no evidence", "cost": "", "share": "", "sources": [],
-                "gaps": "Nothing held gives what a month of mobile data costs against income."}
+                "gaps": "Nothing found gives what a month of mobile data costs against income."}
     live = []
     for r in rows:
         if r["aspect"] != "cost" or not r["as_of"]:
@@ -80,7 +80,7 @@ def stage(iso: str, rows: list[dict], as_at: dt.date) -> dict:
             live.append((when(r["as_of"]), figure, r))
     if not live:
         return {"stage": "unplaced", "cost": "", "share": "", "sources": [],
-                "gaps": "No figure for 2024 or later is held for what a month of mobile data costs "
+                "gaps": "No figure for 2024 or later has been found for what a month of mobile data costs "
                         "against income."}
     # Two figures for the same day: the dearer stands, so a stage is never set on the kinder reading.
     _, figure, best = max(live, key=lambda p: (p[0], p[1], p[2]["row_id"]))

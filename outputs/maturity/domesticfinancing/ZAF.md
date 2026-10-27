@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The Universal Service and Access Fund is paid for by operators' mandatory contributions. ICASA [collected 281.2 million rand for it in 2025/26](<https://pmg.org.za/committee-question/41023/>), and its administrator spent 1,087.9 million rand that year, leaving about 652.1 million unspent. The fund [collected 1.2 billion rand over the five years to 2025/26](<https://www.citizen.co.za/news/how-much-collected-digital-migration-last-five-years/>). It has not been abolished. The 2026 Estimates [put 146.0 million rand of 2026/27 towards the universal service and access bodies](<https://www.treasury.gov.za/documents/National%20Budget/2026/ene/Vote%2030%20Communications%20and%20Digital%20Technologies.pdf>).
 
-***Noted, not assessed***. The Starlink pledge under the equity equivalent investment programmes, [named in a BusinessDay article](<https://businessday.ng/pro/article/starlink-poaches-premium-customers-while-offshore-profits-bypass-30bn-tax-base/>).
+***Also on file***. The Starlink pledge under the equity equivalent investment programmes, [named in a BusinessDay article](<https://businessday.ng/pro/article/starlink-poaches-premium-customers-while-offshore-profits-bypass-30bn-tax-base/>).
 
-***Not held***. Nothing: all four questions are answered.
+***Not found***. Nothing: all four questions are answered.

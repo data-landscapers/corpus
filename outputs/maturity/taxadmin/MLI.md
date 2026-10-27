@@ -6,8 +6,8 @@
 
 **Electronic payment.** [The DGI director-general says telepayment, launched December 2021, is operational for all taxpayers of the computerised centres, who can pay taxes by bank transfer, with no mobile money or card payment yet](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

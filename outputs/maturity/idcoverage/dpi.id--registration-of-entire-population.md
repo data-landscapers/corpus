@@ -184,186 +184,186 @@ Fewer than a third of the population held a national ID in 2026.
 
 ### Gambia: Unplaced
 
-Nothing held since 2023 names a count of people holding a national ID, so no stage is set.
+Nothing found since 2023 names a count of people holding a national ID, so no stage is set.
 
-Not established: Nothing held since October 2023 counts the people holding a national ID.
+Not established: Nothing found since October 2023 counts the people holding a national ID.
 
 ### Senegal: Unplaced
 
-Nothing held since 2023 names a count of people holding a national ID, so no stage is set.
+Nothing found since 2023 names a count of people holding a national ID, so no stage is set.
 
-Not established: Nothing held since October 2023 counts the people holding a national ID.
+Not established: Nothing found since October 2023 counts the people holding a national ID.
 
 ### Algeria: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Botswana: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Burkina Faso: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Burundi: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Cameroon: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Cape Verde: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Central African Republic: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Chad: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Comoros: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Congo: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Djibouti: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Egypt: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Eritrea: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Eswatini: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Kenya: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Lesotho: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Libya: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Mali: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Mauritius: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Mozambique: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Namibia: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Seychelles: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### South Africa: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Sudan: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Tunisia: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.
 
 ### Zimbabwe: No evidence
 
-Nothing held names a count of people holding a national ID or says there is none, so no stage is set.
+Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 
-Not established: Nothing held counts the people holding a national ID.
+Not established: Nothing found counts the people holding a national ID.

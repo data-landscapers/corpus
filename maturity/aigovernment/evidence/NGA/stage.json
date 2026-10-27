@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-001;NGA-002",
-      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
-      "note": "Rebuild 2026-10-20: the federal GovGuide chatbot and the Lagos State agency's Ask INU chatbot are AI in service in two government bodies; no rules or register are held.",
+      "gaps": "No source found says the government has issued rules or a register for its own use of AI.",
+      "note": "Rebuild 2026-10-20: the federal GovGuide chatbot and the Lagos State agency's Ask INU chatbot are AI in service in two government bodies; no rules or register have been found.",
       "as_at": "2026-10-20"
     }
   ]

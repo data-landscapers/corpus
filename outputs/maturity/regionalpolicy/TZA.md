@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The regional regulators' organisation [reports Tanzania's One Network Area cross-border voice traffic for 2025 as 148 million inbound minutes, up 36.4 per cent, and 577.7 million outbound minutes, up 59 per cent from 363.3 million](<https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf>). The One Network Area is the East African Community's shared roaming arrangement, under which roaming tariffs between member states were cut.
 
-***Noted, not assessed***. [National Internet Data Centre (Kijitonyama)](<https://pctechmag.com/2015/06/tanzania-to-become-eac-ict-hub-sets-up-national-internet-data-centre-idc/>); [NAPA, the national addressing system](<https://www.mwananchi.co.tz/mw/habari/biashara/serikali-yaweka-mkazo-teknolojia-kuboresha-huduma-za-posta-usafirishaji-5632092>).
+***Also on file***. [National Internet Data Centre (Kijitonyama)](<https://pctechmag.com/2015/06/tanzania-to-become-eac-ict-hub-sets-up-national-internet-data-centre-idc/>); [NAPA, the national addressing system](<https://www.mwananchi.co.tz/mw/habari/biashara/serikali-yaweka-mkazo-teknolojia-kuboresha-huduma-za-posta-usafirishaji-5632092>).
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

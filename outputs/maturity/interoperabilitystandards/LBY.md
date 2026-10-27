@@ -6,6 +6,6 @@
 
 **Standards required and checked.** With no standards in place, there is nothing public bodies are required to use and nothing against which a system could be checked. [The paper](<https://cjos.histr.edu.ly/index.php/journal/en/article/view/2167>) presents its platform as a step towards a national means of exchange between government institutions, and gives the lack of unified standards and the fragmentation of systems as the state of things in which it is proposed.
 
-***Noted, not assessed***. [LYPay Instant Payment System](<https://central-bank-of-libya.gitbook.io/devportal/lypay/lypay-instant-payment-system>).
+***Also on file***. [LYPay Instant Payment System](<https://central-bank-of-libya.gitbook.io/devportal/lypay/lypay-instant-payment-system>).
 
-***Not held***. 
+***Not found***. 

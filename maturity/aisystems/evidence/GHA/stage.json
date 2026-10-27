@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-001;GHA-002",
-      "gaps": "No source held since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
+      "gaps": "No source found since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
       "note": "Cabinet has approved US$250 million for a national AI compute centre and KNUST leads a Twi model. SignTalk-Gh and Hubtel's models are developed or tested, not stated in service.",
       "as_at": "2026-10-22"
     }

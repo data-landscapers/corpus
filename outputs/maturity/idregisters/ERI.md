@@ -2,6 +2,6 @@
 
 ## Use by other systems
 
-***Noted, not assessed***. [Eritrean National ID](<https://us.embassyeritrea.org/national-id/>).
+***Also on file***. [Eritrean National ID](<https://us.embassyeritrea.org/national-id/>).
 
-***Not held***. Nothing held says whether public registers use the national ID number.
+***Not found***. Nothing found says whether public registers use the national ID number.

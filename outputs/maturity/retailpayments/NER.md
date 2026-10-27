@@ -6,8 +6,8 @@
 
 **Between providers.** [BCEAO says interoperable e-money transactions in UEMOA, which includes Niger, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>). [BCEAO says PI-SPI allows account-to-account transfers between different types of accounts in the UMOA, which had 81 e-money initiatives at the end of 2025](<https://www.lesahel.org/digitalisation-et-services-financiers-numeriques-de-la-bceao-renforcer-linclusion-financiere-la-modernisation-des-services-financiers-et-la-resilience-du-systeme-financier-de-l/>). [At 30 September 2026 the BCEAO listed 13 institutions in Niger authorised to offer PI-SPI to the public: eleven banks, Airtel Money Niger and i-FUTUR](<https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>).
 
-***Noted, not assessed***. [PI-SPI](<https://ns2.bceao.int/sites/default/files/2026-04/Communiqu%C3%A9_Connexion_%C3%A0_PI-SPI_2_avril_2026.pdf>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
+***Also on file***. [PI-SPI](<https://ns2.bceao.int/sites/default/files/2026-04/Communiqu%C3%A9_Connexion_%C3%A0_PI-SPI_2_avril_2026.pdf>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

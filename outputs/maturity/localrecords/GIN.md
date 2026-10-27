@@ -12,6 +12,6 @@
 
 **Local governments recording.** The pilot presented in March 2025 is for [Conakry's 13 urban communes, with Coyah and Kindia](<https://guineematin.com/2025/03/25/guinee-vers-une-digitalisation-des-services-communaux-de-conakry-coyah-et-kindia/>), which are to experiment with the tool.
 
-***Noted, not assessed***. [SIGIF](<https://www.anafic-gn.org/2024/12/19/recrutement-dun-expert-en-communication-et-accompagnement-du-changement-pour-le-projet-de-digitalisation-de-la-gestion-budgetaire-et-comptable-des-collectivites-locales/>), the budget and accounting software the ministry of territorial administration and decentralisation is to acquire for local authorities.
+***Also on file***. [SIGIF](<https://www.anafic-gn.org/2024/12/19/recrutement-dun-expert-en-communication-et-accompagnement-du-changement-pour-le-projet-de-digitalisation-de-la-gestion-budgetaire-et-comptable-des-collectivites-locales/>), the budget and accounting software the ministry of territorial administration and decentralisation is to acquire for local authorities.
 
-***Not held***. Whether the pilot began, what the tool records and where its record is held. No owner or plan is named, and nothing is dated after March 2025.
+***Not found***. Whether the pilot began, what the tool records and where its record is held. No owner or plan is named, and nothing is dated after March 2025.

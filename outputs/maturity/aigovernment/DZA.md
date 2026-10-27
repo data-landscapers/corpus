@@ -6,8 +6,8 @@
 
 **Several bodies.** Only the Ministry of Higher Education is held with AI in service in the administration. The legislature has gone further than transcription: the [National People's Assembly has also adopted AI-based cybersecurity solutions](<https://asgp.co/wp-content/uploads/2024/10/Wed-16-Oct-PM-Algerie-FR.pdf>), its secretary general said.
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://www.univ-khenchela.dz/en/launching-new-digital-platforms-ministry-of-higher-education-and-scientific-research/>).
+**Rules or register.** No source found since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://www.univ-khenchela.dz/en/launching-new-digital-platforms-ministry-of-higher-education-and-scientific-research/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says AI is in service in two or more government bodies.
+***Not found***. No source found since October 2023 says AI is in service in two or more government bodies.

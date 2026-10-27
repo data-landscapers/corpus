@@ -12,6 +12,6 @@
 
 **Local governments recording.** CPTA [was developed for three pilot cities in 2016](<https://logri.org/project/ethiopia-property-tax-system-review/>), and [a national scale-up is planned](<https://logri.org/project/ethiopia-property-tax-system-review/>).
 
-***Noted, not assessed***. Survey: the [Addis Ababa property-tax reform pilot](<https://birrmetrics.com/foreign-ministry-asks-diplomatic-missions-for-staff-and-property-records/>), which identifies and values properties.
+***Also on file***. Survey: the [Addis Ababa property-tax reform pilot](<https://birrmetrics.com/foreign-ministry-asks-diplomatic-missions-for-staff-and-property-records/>), which identifies and values properties.
 
-***Not held***. What the platform records and where the record is held are not held, nor whether any of the three pilot cities still uses it. No plan or finance for it is held, and nothing on it is dated within the last twelve months.
+***Not found***. What the platform records and where the record is held are not held, nor whether any of the three pilot cities still uses it. No plan or finance for it has been found, and nothing on it is dated within the last twelve months.

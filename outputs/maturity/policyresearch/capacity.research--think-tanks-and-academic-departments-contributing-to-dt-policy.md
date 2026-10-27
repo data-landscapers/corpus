@@ -39,7 +39,7 @@ Local research fed a digital policy process in 2026; a standing role is not on r
 
 ### South Africa: 4 Operating
 
-A local research institute submitted evidence on the digital ID law amendments in 2026; a standing advisory role is not known.
+A local research institute submitted evidence on the digital ID law amendments in 2026; no source found reports a standing advisory role.
 
 - Research ICT Africa submitted a response on the proposed Identification Act amendments, naming missing preconditions such as a digital identity policy and a privacy impact assessment, and is running a digital ID study in the Western Cape, Gauteng and KwaZulu-Natal ([source, 2026-10-26](https://www.businessday.co.za/opinion/2026-10-26-drew-haller-millions-risk-exclusion-as-smart-id-delays-persist/)).
 - Research ICT Africa, the Centre for Analytics and Behavioural Change and Moxii Africa launched findings of a joint national study on the governance of harmful online content in South Africa, built on legal analysis, social media monitoring and over 30 key informant interviews ([source, 2026-09-17](https://researchictafrica.net/2026/09/18/when-harm-goes-viral-multistakeholder-forum-launches-timely-report-on-south-africas-social-media-problem/)).
@@ -203,162 +203,162 @@ Research on digital policy had begun in 2025; published research by a local inst
 
 ### Cote d'Ivoire: Unplaced
 
-Nothing held since 2023 names research on digital policy, so no stage is set.
+Nothing found since 2023 names research on digital policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### Gambia: Unplaced
 
-Nothing held since 2023 names research on digital policy, so no stage is set.
+Nothing found since 2023 names research on digital policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### Malawi: Unplaced
 
-Nothing held since 2023 names research on digital policy, so no stage is set.
+Nothing found since 2023 names research on digital policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### Mauritius: Unplaced
 
-Nothing held since 2023 names research on digital policy, so no stage is set.
+Nothing found since 2023 names research on digital policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### Namibia: Unplaced
 
-Nothing held since 2023 names research on digital policy, so no stage is set.
+Nothing found since 2023 names research on digital policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### Senegal: Unplaced
 
-Nothing held since 2023 names research on digital policy, so no stage is set.
+Nothing found since 2023 names research on digital policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### South Sudan: Unplaced
 
-Nothing held since 2023 names research on digital policy, so no stage is set.
+Nothing found since 2023 names research on digital policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### Tunisia: Unplaced
 
-Nothing held since 2023 names research on digital policy, so no stage is set.
+Nothing found since 2023 names research on digital policy, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a local institution researches digital policy.
+Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### Botswana: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Cape Verde: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Central African Republic: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Comoros: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Congo: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Djibouti: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Egypt: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Eritrea: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Gabon: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Guinea: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Liberia: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Mozambique: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Niger: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Rwanda: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Seychelles: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.
 
 ### Togo: No evidence
 
-Nothing held names research on digital policy or says there is none, so no stage is set.
+Nothing found names research on digital policy or says there is none, so no stage is set.
 
-Not established: Nothing held says whether local institutions research digital policy.
+Not established: Nothing found says whether local institutions research digital policy.

@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact on application is a statement from the state. In November 2025 the Director General of Taxes cited the [law on electronic transactions as part of a solid legal framework](<https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html>) for digitalising public payments. The evidence names no decree, regulation or order made under the 2016 law, and no case of its provisions being applied to a particular seller or platform.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

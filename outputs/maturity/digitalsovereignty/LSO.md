@@ -2,6 +2,6 @@
 
 ## Control of state data
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether the state keeps its data and systems under its own control.
+***Not found***. Nothing found says whether the state keeps its data and systems under its own control.

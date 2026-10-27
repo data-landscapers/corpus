@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SWZ-001",
-      "gaps": "No source held since October 2023 says births or deaths are entered in the population register.",
+      "gaps": "No source found since October 2023 says births or deaths are entered in the population register.",
       "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
       "as_at": "2026-10-25"
     }

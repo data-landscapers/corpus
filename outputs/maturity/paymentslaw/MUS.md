@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** [Section 9(1) of the Act](<https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=&doctitle=TmF0aW9uYWwgUGF5bWVudCBTeXN0ZW1zIEFjdCAyMDE4&doctype=act>) provides that no one other than the central bank or a bank may act as a payment service provider without the Bank's licence. [The 2026 guideline requires non-bank companies](<https://www.bom.mu/sites/default/files/guideline_for_payment_aggregators_0.pdf>) that want to act as payment aggregators to obtain that licence, and gave existing ones until 31 August 2026 to apply. No rule is named that requires providers to connect to each other.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

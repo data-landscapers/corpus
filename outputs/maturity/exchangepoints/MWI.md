@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [The MACRA deck states Malawi has only one IXP, in Blantyre; no networks from abroad are mentioned](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. [Lilongwe IXP](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>); [Mzuzu IXP](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>); [LIONEX Lilongwe facility (leaf-spine EVPN-VXLAN fabric, Cloudflare CDN)](<https://www.linkedin.com/posts/lionexmw_the-first-part-of-our-new-leaf-spine-evpn-vxlan-activity-7408382789039071232-bP85>).
+***Also on file***. [Lilongwe IXP](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>); [Mzuzu IXP](<https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2023/1004/Documents/Daud%20Elvin%20Suleman.pdf>); [LIONEX Lilongwe facility (leaf-spine EVPN-VXLAN fabric, Cloudflare CDN)](<https://www.linkedin.com/posts/lionexmw_the-first-part-of-our-new-leaf-spine-evpn-vxlan-activity-7408382789039071232-bP85>).
 
-***Not held***. No source held says a global content network has a cache at the exchange or peers there.
+***Not found***. No source found says a global content network has a cache at the exchange or peers there.

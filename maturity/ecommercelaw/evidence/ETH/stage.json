@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ETH-002;ETH-001",
-   "gaps": "No source held dates an accreditation, licence, registration or penalty under the law in the last three years.",
+   "gaps": "No source found dates an accreditation, licence, registration or penalty under the law in the last three years.",
    "note": "Counted from the four questions by study-ladder-ecommercelaw.py."
   }
  ]

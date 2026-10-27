@@ -8,6 +8,6 @@
 
 **Enforced.** The nearest held fact is [the 2024 bill's proposed protection against audio and visual digital forgeries](<https://www.seychellesnewsagency.com/articles/20210/human-rights-seychelles-parliamentarians-debate-ai-and-future-tech-for-proposed-private-members-bill>), which would apply only once the National Assembly had passed it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a rule on harms from AI is in force or a body is designated by law or decree; the 2026 AI in Education Framework is a Cabinet-approved policy.
+***Not found***. No source found says a rule on harms from AI is in force or a body is designated by law or decree; the 2026 AI in Education Framework is a Cabinet-approved policy.

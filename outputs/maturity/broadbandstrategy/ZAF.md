@@ -6,6 +6,6 @@
 
 **Money and results.** The government's SA Connect target, as an [August 2026 article](<https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/>) puts it, is universal broadband access with an average user experience of 100Mbps by 2030. The article says telecoms licensees' spectrum obligations align with that target, and it gives no figure for delivery against it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.

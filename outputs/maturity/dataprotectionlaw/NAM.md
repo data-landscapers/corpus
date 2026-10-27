@@ -12,6 +12,6 @@
 
 **Last twelve months.** In August 2025 the minister said the bill, [about 12 years in preparation](<https://www.namibiansun.com/local-news/data-protection-bill-returns-to-parliament2025-08-18167195>), would be [tabled in Parliament in September 2025](<https://www.namibian.com.na/govt-to-introduce-data-protection-bill-in-september/>). In January 2026 she said it had been through consultation and drafting and was [ready for resubmission to the Cabinet Committee on Legislation](<https://neweralive.na/data-legislations-under-final-polishing/>), and in [July 2026](<https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A>) that it was being finalised.
 
-***Noted, not assessed***. [Article 13 of the Constitution (privacy)](<https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/>).
+***Also on file***. [Article 13 of the Constitution (privacy)](<https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/>).
 
-***Not held***. No source states that the bill has been tabled in Parliament, passed or enacted. Nothing dated since the 2022 draft says the supervisory authority has been set up, and no regulations or decisions are held.
+***Not found***. No source states that the bill has been tabled in Parliament, passed or enacted. Nothing dated since the 2022 draft says the supervisory authority has been set up, and no regulations or decisions have been found.

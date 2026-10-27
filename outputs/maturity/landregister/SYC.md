@@ -2,6 +2,6 @@
 
 ## Land register
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how land rights are recorded.
+***Not found***. Nothing found says how land rights are recorded.

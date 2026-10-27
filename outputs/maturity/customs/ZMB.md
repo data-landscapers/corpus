@@ -6,8 +6,8 @@
 
 **Single window.** [The Zambia Revenue Authority says the Zambian Electronic Single Window has an enhanced e-bond module and the 2025 BMTF Act mandates electronic information exchange among all participating agencies through it](<https://mag.wcoomd.org/magazine/wco-news-110-issue-2-2026/integrity-zambia/>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data through a system open to its whole regional community. The nearest held fact: [TradeMark Africa reports the Zambia Revenue Authority customs system processes export and import declarations, with the enhanced CCEDE live with the neighbouring authority since November 2025](<https://trademarkafrica.com/zambia-and-malawi-live-customs-data-exchange-to-speed-up-trade-and-strengthen-compliance/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data through a system open to its whole regional community. The nearest held fact: [TradeMark Africa reports the Zambia Revenue Authority customs system processes export and import declarations, with the enhanced CCEDE live with the neighbouring authority since November 2025](<https://trademarkafrica.com/zambia-and-malawi-live-customs-data-exchange-to-speed-up-trade-and-strengthen-compliance/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says customs exchanges data through a system open to its whole regional community.
+***Not found***. No source found since October 2023 says customs exchanges data through a system open to its whole regional community.

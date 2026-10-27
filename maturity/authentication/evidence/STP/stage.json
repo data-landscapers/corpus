@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "STP-002;STP-001",
-      "gaps": "No source held since October 2023 says an authentication service is in use. The citizen portal launched in March 2026 is built for national ID login, but the login is not shown in use.",
+      "gaps": "No source found since October 2023 says an authentication service is in use. The citizen portal launched in March 2026 is built for national ID login, but the login is not shown in use.",
       "note": "Rebuild: a MOSIP-based digital ID and e-signature service are being built (STP-002, STP-001), and the citizen portal launched in March 2026 is built for ID login. The digital ID was still being implemented, so the login is not shown in use.",
       "as_at": "2026-10-22"
     }

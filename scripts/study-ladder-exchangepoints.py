@@ -41,10 +41,10 @@ import study_lib  # noqa: E402
 STUDY = "exchangepoints"
 GAPS = {
     "5": "",
-    "4": "No source held names a second exchange in another city, or networks from other "
+    "4": "No source found names a second exchange in another city, or networks from other "
          "countries peering at the exchange.",
-    "3": "No source held gives the exchange's traffic at two dates a year apart showing growth.",
-    "2": "No source held says a global content network has a cache at the exchange or peers there.",
+    "3": "No source found gives the exchange's traffic at two dates a year apart showing growth.",
+    "2": "No source found says a global content network has a cache at the exchange or peers there.",
     "1": "",
 }
 FIGURE = re.compile(r"Traffic:\s*(?:about |around |over |more than |nearly |up to |some )?"
@@ -114,7 +114,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     three = study_lib.months_back(as_at, 36)
     if not rows:
         return {"stage": "no evidence", "sources": [],
-                "gaps": "Nothing held names an exchange point, or says there is none."}
+                "gaps": "Nothing found names an exchange point, or says there is none."}
     pick = lambda aspect, values, since=None, n=2: [  # noqa: E731
         (d, r["row_id"]) for d, r in live if r["aspect"] == aspect and r["value"] in values
         and (since is None or d >= since)][:n]
@@ -127,7 +127,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "1", "sources": ids(none), "gaps": ""}
     if not service:
         return {"stage": "unplaced", "sources": [],
-                "gaps": "No source held says networks exchange traffic at an exchange point in "
+                "gaps": "No source found says networks exchange traffic at an exchange point in "
                         "the country, and none dated in the last three years says there is none."}
     content = pick("exchange", ("content",))
     grown = ids(pick("exchange", ("growing",), three, n=1)) or growth(live, three)

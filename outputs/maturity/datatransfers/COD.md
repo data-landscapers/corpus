@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest fact held is that the decision on any transfer of personal data to a third state sits, [for now, with ARPTIC rather than with a separate data protection authority](<https://droitnumerique.cd/autorite-de-protection-des-donnees/>). That is the whole of what is held on how an exporter would comply, and on how the rule is applied in practice.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

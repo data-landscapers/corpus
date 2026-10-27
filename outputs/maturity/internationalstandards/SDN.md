@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** In January 2026 the central bank [issued a cybersecurity framework for banks and financial institutions](<https://cbos.gov.sd/sites/default/files/document.pdf>). It applies to that sector and is listed below, with the passport signing certificate Sudan lodged in the international civil aviation directory.
 
-***Noted, not assessed***. [The central bank's cybersecurity framework for banks](<https://cbos.gov.sd/sites/default/files/document.pdf>); [the passport signing certificate lodged in the civil aviation directory in February 2026](<https://sca.gov.sd/en/news>).
+***Also on file***. [The central bank's cybersecurity framework for banks](<https://cbos.gov.sd/sites/default/files/document.pdf>); [the passport signing certificate lodged in the civil aviation directory in February 2026](<https://sca.gov.sd/en/news>).
 
-***Not held***. No source held names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.

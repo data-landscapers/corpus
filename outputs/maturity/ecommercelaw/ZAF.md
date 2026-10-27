@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The Act is being applied. Under it the South African Accreditation Authority accredits providers of advanced electronic signatures, and [three hold accreditation: Altron Security, TrustFactory and Impression Signatures](<https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/>), as TechCentral reported on 11 September 2026. The report gives no date for any of the three accreditations, and it names no regulation made under the Act.
 
-***Noted, not assessed***. [MyMzansi](<https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/>).
+***Also on file***. [MyMzansi](<https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/>).
 
-***Not held***. No regulation made under the Act is held, and the dates of the three accreditations are not held.
+***Not found***. No regulation made under the Act has been found, and the dates of the three accreditations are not held.

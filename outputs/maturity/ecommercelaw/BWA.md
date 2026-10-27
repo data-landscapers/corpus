@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The one instrument held that was made under the Act is the [ministerial Order that brought it into force](<https://www.bocra.org.bw/sites/default/files/documents/Electronic-Communications-and-Transactions-Act-2014.pdf>), which the Act itself provides for. No regulation on electronic signatures, on those who certify them or on those who sell online is named in the text held, and no accreditation, licence or penalty under the Act is recorded.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation or order made under the Act, other than the commencement Order, is held.
+***Not found***. No regulation or order made under the Act, other than the commencement Order, has been found.

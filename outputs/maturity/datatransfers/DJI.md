@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact is the same law: the [Code Numérique of 18 September 2025](<https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf>) sets the conditions in articles 99 to 103 and gives the Commission nationale de protection des données the power to authorise a transfer.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

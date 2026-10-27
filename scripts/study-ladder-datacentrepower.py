@@ -37,11 +37,11 @@ import study_lib  # noqa: E402
 STUDY = "datacentrepower"
 GAPS = {
     "5": "",
-    "4": "No source held from the past three years says a data centre in service publishes its water use or cools without water.",
-    "3": "No source held from the past three years says a data centre in service states a PUE of 1.6 or less.",
-    "2": "No source held says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.",
-    "1": "No source held says a data centre in service has two grid feeds, its own substation or line, or its own power plant.",
-    "0": "No source held says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.",
+    "4": "No source found from the past three years says a data centre in service publishes its water use or cools without water.",
+    "3": "No source found from the past three years says a data centre in service states a PUE of 1.6 or less.",
+    "2": "No source found says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.",
+    "1": "No source found says a data centre in service has two grid feeds, its own substation or line, or its own power plant.",
+    "0": "No source found says a data centre in service has two grid feeds, its own substation or line, or its own power plant, and none from the past three years says one went short of power or water.",
 }
 
 
@@ -74,7 +74,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     live.sort(key=lambda p: (p[0], p[1]["row_id"]), reverse=True)
     if not rows:
         return {"stage": "no evidence", "sources": [],
-                "gaps": "Nothing held says how any data centre is supplied with power or water."}
+                "gaps": "Nothing found says how any data centre is supplied with power or water."}
     three = study_lib.months_back(as_at, 36)
     pick = lambda asp, vals, window=False: [r for d, r in live  # noqa: E731
                                             if r["aspect"] == asp and r["value"] in vals and (not window or d >= three)]

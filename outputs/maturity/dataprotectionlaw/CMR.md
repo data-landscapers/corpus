@@ -12,6 +12,6 @@
 
 **Last twelve months.** The law entered into force on 23 June 2026, which [the budget directorate reported on 6 July 2026](<https://www.dgb.cm/la-loi-sur-la-protection-des-donnees-personnelles-entre-officiellement-en-vigueur/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation, decree or order made under Loi n° 2024/017 is held, and no decision, sanction or judgment applying it. No source states that the head or members of the Autorité have been appointed.
+***Not found***. No regulation, decree or order made under Loi n° 2024/017 has been found, and no decision, sanction or judgment applying it. No source states that the head or members of the Autorité have been appointed.

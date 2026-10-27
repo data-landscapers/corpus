@@ -6,6 +6,6 @@
 
 **Certification.** On 6 March 2026 the board [signed mutual recognition arrangements](<https://www.rsb.gov.rw/updates/news-detail/rsb-signed-mutual-recognition-arrangements-with-aconoq-and-saz-to-promote-trade-as-arso-joined-to-the-certification-of-local-industries-under-the-acap-programme>) with the standards bodies of Congo and Zimbabwe. No certification against a standard on information technology or data is named.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

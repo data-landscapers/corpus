@@ -6,6 +6,6 @@
 
 **Certification.** The [2022 decree](<https://www.journalofficiel.dj/texte-juridique/decret-n2022-092-pr-mct-portant-organisation-et-fonctionnement-de-lagence-djiboutienne-des-normes-et-de-la-qualite/>) charges the agency with certifying conformity to standards and accrediting the bodies that assess it. It names no scheme for information technology or data.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

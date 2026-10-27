@@ -8,6 +8,6 @@
 
 **Volumes reported.** [The Executive Governor said cross-border transactions grew 17.7% in 2024 to $494.5 million, and PAPSS transactions reached about L$37.7 million between June and December 2024](<https://www.cbl.org.lr/media/features-articles/eg-saamoi-speaks-joint-launch-fined-papss-monrovia>).
 
-***Noted, not assessed***. [Orange Money](<https://techafricanews.com/2026/06/10/bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-service-across-eight-african-countries/>); [Lonestar Cell MTN MoMo](<https://developingtelecoms.com/telecom-technology/financial-services/17109-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services.html>).
+***Also on file***. [Orange Money](<https://techafricanews.com/2026/06/10/bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-service-across-eight-african-countries/>); [Lonestar Cell MTN MoMo](<https://developingtelecoms.com/telecom-technology/financial-services/17109-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services.html>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

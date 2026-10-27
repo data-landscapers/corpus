@@ -2,7 +2,7 @@
   "iso3": "GNB",
   "cells": [
     {"sub_indicator": "national", "stage": "3", "governance": "finance:donor", "standing": "adopted", "text": "public", "period": "to:2030", "plan": "actions", "reporting": "", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "GNB-005;GNB-009;GNB-008;GNB-006;GNB-007",
-     "gaps": "No published report against the strategy's targets is held, so stage 4 is not reached; the plan states actions with dates but no cost. No mandated body is stated. Earlier statements that no national strategy existed (2022-2023, GNB-018 to GNB-020) and the January 2025 launch and drafting rows are superseded by the gazetted decree; a conflicting 2026-04 Fintech Times line (GNB-003) is a general remark that does not outweigh the decree.",
+     "gaps": "No published report against the strategy's targets has been found, so stage 4 is not reached; the plan states actions with dates but no cost. No mandated body is stated. Earlier statements that no national strategy existed (2022-2023, GNB-018 to GNB-020) and the January 2025 launch and drafting rows are superseded by the gazetted decree; a conflicting 2026-04 Fintech Times line (GNB-003) is a general remark that does not outweigh the decree.",
      "note": "Staged on the ENTD.GW 2025-2030: adopted by Decreto 10/2025, text public as the decree annex, period to 2030. No results report on record, so it stops at 3."}
   ]
 }

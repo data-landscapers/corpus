@@ -8,6 +8,6 @@
 
 **Enforcement reported.** [On 21 November 2024 the Bank of Tanzania named 69 digital lending apps as unlicensed and in breach of the guidance note, barred them from lending and said it was working with the TCRA to block them](<https://www.bot.go.tz/Adverts/PressRelease/en/2024112512091545.pdf>).
 
-***Noted, not assessed***. [Personal Data Protection Act](<https://kemiadvocates.co.tz/2025/06/27/legal-update-key-highlights-of-the-bank-of-tanzania-financial-consumer-protection-amendment-regulations-gn-no-298-of-2025-date-23-may-2025>).
+***Also on file***. [Personal Data Protection Act](<https://kemiadvocates.co.tz/2025/06/27/legal-update-key-highlights-of-the-bank-of-tanzania-financial-consumer-protection-amendment-regulations-gn-no-298-of-2025-date-23-may-2025>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

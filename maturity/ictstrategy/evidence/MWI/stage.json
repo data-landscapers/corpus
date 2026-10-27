@@ -14,8 +14,8 @@
       "cap": "",
       "flags": "dated",
       "stage_sources": "MWI-001;MWI-002;MWI-005;MWI-008",
-      "gaps": "No source gives the adoption act or date of the National ICT Policy 2013, only its title year, and none gives it a period. No delivery plan of the policy and no report against it is held; MWI-007 is another strategy's action to update the policy, not its plan. Governance rests on a 2019 fact (MWI-006), outside the 36 months, and nothing is dated in the last twelve months. The National ICT and Digitalization Policy draft of 2022 (period to 2026) has no row showing validation or adoption.",
-      "note": "National ICT Policy 2013: the newest adopted sector policy, text public, no stated period and not replaced in instruments.csv, so it stands as an open policy. An open policy stops at stage 3, and no delivery plan or results report is held for stage 4."
+      "gaps": "No source gives the adoption act or date of the National ICT Policy 2013, only its title year, and none gives it a period. No delivery plan of the policy and no report against it has been found; MWI-007 is another strategy's action to update the policy, not its plan. Governance rests on a 2019 fact (MWI-006), outside the 36 months, and nothing is dated in the last twelve months. The National ICT and Digitalization Policy draft of 2022 (period to 2026) has no row showing validation or adoption.",
+      "note": "National ICT Policy 2013: the newest adopted sector policy, text public, no stated period and not replaced in instruments.csv, so it stands as an open policy. An open policy stops at stage 3, and no delivery plan or results report has been found for stage 4."
     }
   ]
 }

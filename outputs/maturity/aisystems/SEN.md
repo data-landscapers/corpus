@@ -8,6 +8,6 @@
 
 **Shared with users.** [In May 2025 CINERI said Taouey had had more than a hundred users, public and private, including scientists from the sub-region](<https://aps.sn/le-supercalculateur-taouey-un-outil-au-service-de-la-recherche-et-la-souverainete-numerique/>). [In 2026 it said use has been free and open to all, naming UCAD's faculty of medicine among its users](<https://letechobservateur.sn/pr-ousmane-thiare-directeur-general-de-la-cineri-le-niveau-dutilisation-est-encore-moyen-a-cause-des-dysfonctionnements-que-nous-avons-de-temps-en-temps/>). [The Kiriku Voice data and models are published openly](<https://lesoleil.sn/actualites/technologie/kiriku-voice-challenge-des-modeles-dia-developpes-pour-les-langues-nationales/>).
 
-***Noted, not assessed***. [local AI application for judicial archives](<https://www.rts.sn/actualite/detail/a-la-une/justice-le-tgi-de-pikine-guediawaye-experimente-une-ia-pour-les-archives-judiciaires>).
+***Also on file***. [local AI application for judicial archives](<https://www.rts.sn/actualite/detail/a-la-une/justice-le-tgi-de-pikine-guediawaye-experimente-une-ia-pour-les-archives-judiciaires>).
 
-***Not held***. How much of Taouey's GPU cell is in use is not known, and the named users worked on its CPU resources.
+***Not found***. No source found says how much of Taouey's GPU cell is in use, and the named users worked on its CPU resources.

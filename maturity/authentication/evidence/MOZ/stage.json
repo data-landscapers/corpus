@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-007;MOZ-006",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
       "note": "Rebuild: SCDM e-signatures are used by more than 500 public and private institutions (MOZ-007), and the mobile digital ID is still in procurement (MOZ-001). Kept at 4 on the rung as worded; an e-signature system used by several bodies may be read as one service, which is stage 3.",
       "as_at": "2026-10-22"
     }

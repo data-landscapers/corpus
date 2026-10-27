@@ -6,8 +6,8 @@
 
 **Paid electronically.** [ANIES reports that under the Nafa project it opened electronic wallet accounts for women household heads, issued phones and SIM cards, and pays them monthly through five contracted payment operators, and plans to keep this mobile-money payment arrangement for the Food Shock Window transfers](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
 
-**Several programmes.** No source held since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
 
-***Noted, not assessed***. [KoboCollect](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
+***Also on file***. [KoboCollect](<https://anies.gov.gn/wp-content/uploads/2024/03/Rapp_Activites_mai_sept2023_ANIES_GCA.pdf>).
 
-***Not held***. No source held since October 2023 says one information system serves several social programmes.
+***Not found***. No source found since October 2023 says one information system serves several social programmes.

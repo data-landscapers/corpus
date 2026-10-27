@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GNB-001",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "A Kiriol machine-translation dataset of about 40,000 sentence pairs was published in April 2025, with models trained on it. No AI computing in the country is held.",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "A Kiriol machine-translation dataset of about 40,000 sentence pairs was published in April 2025, with models trained on it. No AI computing in the country has been found.",
       "as_at": "2026-10-22"
     }
   ]

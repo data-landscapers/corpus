@@ -6,6 +6,6 @@
 
 **Sharing required and the law applied.** The bill is described as setting a model in which [any exchange of information between public agencies is authorised by the user, through consent that can be traced](<https://www.wearetech.africa/en/fils-uk/news/tech/morocco-drafts-landmark-law-to-govern-ai-data-and-digital-identity>). That is a condition on sharing and not a duty to share. The bill had not been passed by the end of September 2026. With no law in force, nothing has been made under one and no agency is named as exchanging data because a law requires it.
 
-***Noted, not assessed***. [idarati.ma](<https://www.mmsp.gov.ma/sites/default/files/publications/GuideMethodologiqueSimplifDigit_10052025.pdf>).
+***Also on file***. [idarati.ma](<https://www.mmsp.gov.ma/sites/default/files/publications/GuideMethodologiqueSimplifDigit_10052025.pdf>).
 
-***Not held***. No source held says a law, decree or regulation on public bodies sharing data is in force.
+***Not found***. No source found says a law, decree or regulation on public bodies sharing data is in force.

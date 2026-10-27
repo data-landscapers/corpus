@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** [The 2023 law lists payment service providers apart from banks](<https://www.joradp.dz/FTP/JO-FRANCAIS/2023/F2023043.pdf>), and [the 2025 regulation lets a company be licensed as one](<https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025028.pdf>) by the Governor of the Bank of Algeria once the Monetary and Banking Council has authorised it. On 23 September 2026 the Council [authorised Djezzy Payment Services](<https://www.bank-of-algeria.dz/stoodroa/2026/09/communique-23-09-2026FR.pdf>), a subsidiary of a mobile operator, to set itself up as a provider; it has twelve months to apply for the licence.
 
-***Noted, not assessed***. [Switch mobile (interbank mobile payment)](<https://www.elmoudjahid.dz/fr/economie/assia-benchabla-queiroz-directrice-du-gie-de-nombreux-obstacles-entravent-le-paiement-electronique-en-algerie-236510>); [CIB card](<https://www.elmoudjahid.dz/fr/economie/assia-benchabla-queiroz-directrice-du-gie-de-nombreux-obstacles-entravent-le-paiement-electronique-en-algerie-236510>).
+***Also on file***. [Switch mobile (interbank mobile payment)](<https://www.elmoudjahid.dz/fr/economie/assia-benchabla-queiroz-directrice-du-gie-de-nombreux-obstacles-entravent-le-paiement-electronique-en-algerie-236510>); [CIB card](<https://www.elmoudjahid.dz/fr/economie/assia-benchabla-queiroz-directrice-du-gie-de-nombreux-obstacles-entravent-le-paiement-electronique-en-algerie-236510>).
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

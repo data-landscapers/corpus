@@ -2,6 +2,6 @@
 
 ## Startup law and funding
 
-***Noted, not assessed***. [timbuktoo Ethiopia](<https://open.undp.org/projects/01003093>).
+***Also on file***. [timbuktoo Ethiopia](<https://open.undp.org/projects/01003093>).
 
-***Not held***. Nothing held says what the state does for tech startups.
+***Not found***. Nothing found says what the state does for tech startups.

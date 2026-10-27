@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The Court of Accounts audit says the [Fonds de Développement des Télécommunications et des TIC was created and is managed by the telecoms minister, and made large expenditures in 2022-2025](<https://ccomptes.mg/uploads/AUDIT-DU-MNDPT1774881345.pdf>), including part-financing of e-Fokontany, which [spent 21,541,224,988.66 ariary over 2022-2025](<https://ccomptes.mg/uploads/AUDIT-DU-MNDPT1774881345.pdf>) across five funding sources.
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. The money for digital programmes was lower in the 2026 budget than in 2025. The law creating the fund and the amount it collected are not held.
+***Not found***. The money for digital programmes was lower in the 2026 budget than in 2025. The law creating the fund and the amount it collected are not held.

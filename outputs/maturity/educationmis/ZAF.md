@@ -6,8 +6,8 @@
 
 **Learner records.** [The Minister of Basic Education's written reply says the DBE's LURITS holds data at individual learner level with ID numbers, and that LURITS data for 2020 to 2025 covering about 10.3 million public-school learners in Grades 1-11 was linked across years](<https://pmg.org.za/committee-question/35453/>).
 
-**Linked.** No source held since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://pmg.org.za/committee-question/35453/>).
+**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://pmg.org.za/committee-question/35453/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says learner records are linked to the national ID or another government system.
+***Not found***. No source found since October 2023 says learner records are linked to the national ID or another government system.

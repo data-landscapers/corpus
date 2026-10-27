@@ -32,7 +32,7 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 
 ### Benin: 4 Operating
 
-Every registered birth was given a unique ID number in 2026; complete registration is not known.
+Every registered birth was given a unique ID number in 2026; no source found reports complete registration.
 
 - ANIP's May 2026 deck says that every birth declaration since 1 April 2021 is made to the RNPP and gives the child an NPI and an entry in the national civil status file ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 - ANIP's May 2026 deck says that for every birth since 1 April 2021 the child's NPI is obtained by declaring the birth to the RNPP, with the birth certificate generated automatically ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
@@ -40,19 +40,19 @@ Every registered birth was given a unique ID number in 2026; complete registrati
 
 ### Botswana: 4 Operating
 
-Every registered birth was given a unique ID number in 2026; complete registration is not known.
+Every registered birth was given a unique ID number in 2026; no source found reports complete registration.
 
 - Statistics Botswana says the number is assigned to every citizen child at birth, with registration through 35 district offices and 17 on-site points, introduced in 2003 ([source, 2026-08](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf)).
 
 ### Cape Verde: 4 Operating
 
-Every registered birth was given a unique ID number in 2026; complete registration is not known.
+Every registered birth was given a unique ID number in 2026; no source found reports complete registration.
 
 - Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth, with birth registration at 99% after the reforms ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
 
 ### Tunisia: 4 Operating
 
-Every registered birth was given a unique ID number in 2026; complete registration is not known.
+Every registered birth was given a unique ID number in 2026; no source found reports complete registration.
 
 - The playbook says the IUC is given to any natural person entered in the civil status register at birth, with the register fed from the national civil status system Madania ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
@@ -181,186 +181,186 @@ A 2026 source says a birth creates no identity record.
 
 ### Algeria: Unplaced
 
-Nothing held since 2023 names a unique number given at birth, so no stage is set.
+Nothing found since 2023 names a unique number given at birth, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a birth is given an identity number.
+Not established: Nothing found since October 2023 says whether a birth is given an identity number.
 
 ### Gambia: Unplaced
 
-Nothing held since 2023 names a unique number given at birth, so no stage is set.
+Nothing found since 2023 names a unique number given at birth, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a birth is given an identity number.
+Not established: Nothing found since October 2023 says whether a birth is given an identity number.
 
 ### Liberia: Unplaced
 
-Nothing held since 2023 names a unique number given at birth, so no stage is set.
+Nothing found since 2023 names a unique number given at birth, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a birth is given an identity number.
+Not established: Nothing found since October 2023 says whether a birth is given an identity number.
 
 ### Burkina Faso: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Central African Republic: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Congo: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Cote d'Ivoire: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### DR Congo: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Egypt: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Eritrea: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Eswatini: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Ethiopia: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Gabon: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Guinea: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Libya: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Mauritania: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Mauritius: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Mozambique: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Namibia: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Senegal: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Seychelles: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Sierra Leone: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Somalia: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### South Africa: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### South Sudan: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Sudan: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Togo: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.
 
 ### Zimbabwe: No evidence
 
-Nothing held names a unique number given at birth or says there is none, so no stage is set.
+Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a birth is given an identity number.
+Not established: Nothing found says whether a birth is given an identity number.

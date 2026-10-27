@@ -8,6 +8,6 @@
 
 **Use reported.** [The RPPA survey reports about 200 procuring entities and over 5,000 bidders on Umucyo and an overall user satisfaction of 79.5% (2021, before the three-year window)](<https://www.rppa.gov.rw/index.php?eID=dumpFile&f=35424&t=f&token=eec54479804ff9695b9d7e0cbaea82472358c227>).
 
-***Noted, not assessed***. [eKash](<https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash>).
+***Also on file***. [eKash](<https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash>).
 
-***Not held***. No source held since October 2023 gives a figure for e-procurement.
+***Not found***. No source found since October 2023 gives a figure for e-procurement.

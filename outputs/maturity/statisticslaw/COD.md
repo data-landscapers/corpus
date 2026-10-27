@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is the ratification itself: [the Senate ratified the ordonnance-loi on 21 October 2026, unanimously, with 73 of its 109 members voting](<https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite>). The ordonnance-loi was six weeks old then, and nothing made under it is on record.
 
-***Noted, not assessed***. [Institut national de la statistique (INS)](<https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/>); [African Charter on Statistics (ratification authorised 2025)](<https://actualite.cd/2025/09/04/rdc-ua-felix-tshisekedi-autorise-la-ratification-de-la-charte-africaine-de-la>); [Stratégie nationale de l'état civil (2020)](<https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil>).
+***Also on file***. [Institut national de la statistique (INS)](<https://acp.cd/nation/le-president-tshisekedi-fixe-les-conditions-dorganisation-de-lactivite-statistique-en-rdc/>); [African Charter on Statistics (ratification authorised 2025)](<https://actualite.cd/2025/09/04/rdc-ua-felix-tshisekedi-autorise-la-ratification-de-la-charte-africaine-de-la>); [Stratégie nationale de l'état civil (2020)](<https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil>).
 
-***Not held***. No source held names a decree, regulation or order made under the law. The date the ordonnance-loi takes effect is not held.
+***Not found***. No source found names a decree, regulation or order made under the law. The date the ordonnance-loi takes effect is not held.

@@ -9,7 +9,7 @@ does it. **Nothing is composed here that a fact does not state**: each paragraph
 drafters' own fact sentences, each linked whole to its evidence row's `url`, the rows that set
 the stage first, then the rest newest first while the paragraph stays inside its room. The site
 paragraph holds the sites `sites.csv` marks `far` and statements of absence; a site nearer than
-200 km or in no named place is `other` (study file §1) and is named in *Noted, not assessed*.
+200 km or in no named place is `other` (study file §1) and is named in *Also on file*.
 
 Writes, per country, `outputs/maturity/offsitebackup/{ISO3}.md` and
 `maturity/offsitebackup/evidence/{ISO3}/short.json`. Run it after the ladder script.
@@ -26,6 +26,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "offsitebackup"
@@ -43,7 +44,7 @@ RESTS = {
     "4": "These place a backup site 200 km or more from the main one in service for the government's shared systems.",
     "3": "These place a backup site 200 km or more from the main one in service for the government's shared systems.",
     "2": "These place one public body's backup site 200 km or more from its main one in service. "
-         "No source held says such a site serves the government's shared systems.",
+         "No source found says such a site serves the government's shared systems.",
     "1": "A dated statement that government systems have no off-site backup sets the lowest stage, "
          "and nothing dated later names one.",
 }
@@ -51,7 +52,7 @@ SHORT = {
     "5": "A government backup site 200 km away by {y}, with recovery planned or tested and both sites at Tier III.",
     "4": "A government backup site 200 km away by {y}, with a recovery plan or test on record.",
     "3": "A backup site 200 km away serves the government's shared systems by {y}; no recovery plan or test held.",
-    "2": "One public body keeps a backup site 200 km away by {y}; none held for the government's shared systems.",
+    "2": "One public body keeps a backup site 200 km away by {y}; none found for the government's shared systems.",
     "1": "A {y} source says government systems have no off-site backup or disaster-recovery site.",
 }
 
@@ -120,26 +121,26 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         tier = [r for r in rows if r["aspect"] == "tier"]
         body = sentences(site, src, SITE_ROOM)
         pl = sentences(plan, [i for i in src if i in {r["row_id"] for r in plan}], PLAN_ROOM) or \
-            [f"No source held from the past three years states a recovery plan or a failover test for "
+            [f"No source found from the past three years states a recovery plan or a failover test for "
              f"{link(top['url'], 'the backup site')}."]
         ti = sentences(tier, [i for i in src if i in {r["row_id"] for r in tier}], TIER_ROOM) or \
-            [f"No source held says both the main site and {link(top['url'], 'the backup site')} are Tier III or above."]
+            [f"No source found says both the main site and {link(top['url'], 'the backup site')} are Tier III or above."]
         parts += [f"**{site_name}.** " + " ".join(body + [RESTS[cell["stage"]]]), "",
                   f"**{plan_name}.** " + " ".join(pl), "",
                   f"**{tier_name}.** " + " ".join(ti), ""]
         short = SHORT[cell["stage"]].format(y=top["as_of"][:4])
     elif cell["stage"] == "unplaced":
-        short = "No backup site 200 km or more from the main one is held, so no stage is set."
+        short = "No backup site 200 km or more from the main one has been found, so no stage is set."
     else:
-        short = "Nothing held names a backup site for government systems, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+        short = "Nothing found names a backup site for government systems, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

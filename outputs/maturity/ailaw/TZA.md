@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** The rule covers online content and not AI across sectors. A university centre wrote in September 2026 that [Tanzania lacks a dedicated AI law and that the laws used for AI are mostly data protection laws](<https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/>). No bill or draft of a law on AI itself is named, and no order or penalty under the 2025 amendment is on record.
 
-***Noted, not assessed***. [National Digital Education Guidelines for AI in Education](<https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/>).
+***Also on file***. [National Digital Education Guidelines for AI in Education](<https://cipit.strathmore.edu/artificial-intelligence-in-east-africas-public-sector-ai-adoption-and-regulatory-preparedness-within-east-africa/>).
 
-***Not held***. No source held says a law on AI itself, applying across sectors, is in force.
+***Not found***. No source found says a law on AI itself, applying across sectors, is in force.

@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The nearest held fact is the same [ISO member page](<https://www.iso.org/member/318778.html>), which shows the institution as a correspondent member in 2026. It says nothing of any seat on a committee writing standards, and it names no law or circular that requires public bodies to meet an international standard on information technology or data.
 
-***Noted, not assessed***. [Eritel, the Eritrea Telecommunication Services Corporation, which the 2022 trade profile says sets standards and ensures compliance with international standards without naming one](<https://dtri.uneca.org/v1/uploads/country-profile/eri-country-profile-en.pdf>).
+***Also on file***. [Eritel, the Eritrea Telecommunication Services Corporation, which the 2022 trade profile says sets standards and ensures compliance with international standards without naming one](<https://dtri.uneca.org/v1/uploads/country-profile/eri-country-profile-en.pdf>).
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

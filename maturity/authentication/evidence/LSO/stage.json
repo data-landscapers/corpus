@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "LSO-003",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
       "note": "Rebuild: digital ID cards are listed among eKYC frameworks with financial use cases (LSO-003). Wider use is a pilot or a work plan (LSO-001, LSO-004).",
       "as_at": "2026-10-22"
     }

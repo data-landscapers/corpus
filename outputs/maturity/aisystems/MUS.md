@@ -6,8 +6,8 @@
 
 **AI computing.** [Mauritius Telecom's CEO says its data centre in Mauritius now hosts NVIDIA H200 GPUs](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>).
 
-**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>).
 
-***Noted, not assessed***. [myt learn](<https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/>); [Mauritius AI Registry](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>); [AIRegistry.mu](<https://journaldudimanche.com/intelligence-artificielle-mauritius-telecom-devoile-airegistry-mu/>).
+***Also on file***. [myt learn](<https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/>); [Mauritius AI Registry](<https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/>); [AIRegistry.mu](<https://journaldudimanche.com/intelligence-artificielle-mauritius-telecom-devoile-airegistry-mu/>).
 
-***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named users.
+***Not found***. No source found since October 2023 says national AI computing, models or datasets are open to named users.

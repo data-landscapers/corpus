@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The nearest held fact is the draft, [the bill submitted on 9 August 2026](<https://manassa.news/en/news/33330>). A bill makes no rules and sets up no oversight body until it is passed, promulgated and in force. Once it is, what would put it to work is a decree or regulation made under it, or an information commission or commissioner appointed, and what would show it applied is a decision or penalty on a request for information, or published figures of requests.
 
-***Noted, not assessed***. [Article 68 of the Constitution (right to obtain official information)](<https://manassa.news/en/news/33330>).
+***Also on file***. [Article 68 of the Constitution (right to obtain official information)](<https://manassa.news/en/news/33330>).
 
-***Not held***. No source held says an access to information law is in force.
+***Not found***. No source found says an access to information law is in force.

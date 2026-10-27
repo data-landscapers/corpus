@@ -6,8 +6,8 @@
 
 **Several programmes.** [All National Safety Net Programme cash transfers (HSNP, OPCT, CT-OVC, PwSD-CT) use the Enhanced Single Registry, with poverty targeting for all except the OPCT, which is not poverty-targeted](<https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf>).
 
-***Noted, not assessed***. [CCTP-MIS](<https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf>).
+***Also on file***. [CCTP-MIS](<https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf>).
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

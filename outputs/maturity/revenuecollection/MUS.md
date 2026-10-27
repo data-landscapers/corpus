@@ -6,8 +6,8 @@
 
 **Main taxes and duties.** The Revenue Authority [ran its 2025 e-filing season for individual income tax returns](<https://www.mra.mu/eservices1/individual/individual-e-filing-season>), [VAT returns from foreign digital suppliers are filed and paid electronically from January 2026](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>), and [customs duties and taxes are paid electronically through TradeNet](<https://tradenetmns.mu/WEBVEHICLE/Index>), in March 2025.
 
-**Share reported.** No source held since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>).
+**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://www.mra.mu/eservices1/vat-eservices/vat-on-digital-or-electronic-services-from-foreign-suppliers>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives a figure for revenue paid electronically.
+***Not found***. No source found since October 2023 gives a figure for revenue paid electronically.

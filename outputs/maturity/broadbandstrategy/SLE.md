@@ -6,6 +6,6 @@
 
 **Money and results.** Under that agreement the Ministry of Communication, Technology and Innovation and the Ministry of Technical and Higher Education [signed with ELCOME SL](<https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/>) to bring Starlink internet to 12 public and private universities, with vocational schools to follow in a second phase. The minister said three local companies were by then providing Starlink services and that its arrival had spurred competition among providers. The report gives no cost for the agreement and no budget line or fund allocation behind the strategy, and it sets no figures against the strategy's targets.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.

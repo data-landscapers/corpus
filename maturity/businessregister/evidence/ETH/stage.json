@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ETH-001",
-   "gaps": "No source held since October 2023 says registration gives one number shared with tax or social security.",
+   "gaps": "No source found since October 2023 says registration gives one number shared with tax or social security.",
    "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
   }
  ]

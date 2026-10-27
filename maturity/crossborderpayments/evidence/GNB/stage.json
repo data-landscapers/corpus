@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GNB-002;GNB-005",
-   "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
+   "gaps": "No source found since October 2023 gives a figure for cross-border digital payments.",
    "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
   }
  ]

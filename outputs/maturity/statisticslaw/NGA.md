@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is the hearing of June 2026. [A House committee held a public hearing on the Statistics Bill, 2025 on 8 June 2026](<https://guardian.ng/featured/reps-begin-review-of-statistics-act-link-reform-to-1tn-economy-drive/>), and the report [describes the 2007 Act as the current law, eighteen years old, in place until the bill repeals it](<https://guardian.ng/featured/reps-begin-review-of-statistics-act-link-reform-to-1tn-economy-drive/>). The legislative reform office likewise [refers to the existing Act of 2007 as the one the bill would repeal](<https://naltf.gov.ng/house-of-representatives-moves-to-modernize-nigerias-statistical-system-with-new-bill/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

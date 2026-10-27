@@ -8,6 +8,6 @@
 
 **Matching reported.** The payroll link was made [to validate employees and pensioners against the NIA database](<https://nia.gov.gh/government-launches-integrated-database-for-payroll-validation-and-verification/>); no count of names removed is given.
 
-***Noted, not assessed***. [Ghana Card](<https://www.ghanaweb.com/GhanaHomePage/business/NIA-biometric-system-to-tighten-fraud-controls-2055880>); [Ghana Card / National Identification Register](<https://gna.org.gh/2024/03/dr-bawumia-launches-ghana-card-number-at-birth-to-enhance-public-services/>).
+***Also on file***. [Ghana Card](<https://www.ghanaweb.com/GhanaHomePage/business/NIA-biometric-system-to-tighten-fraud-controls-2055880>); [Ghana Card / National Identification Register](<https://gna.org.gh/2024/03/dr-bawumia-launches-ghana-card-number-at-birth-to-enhance-public-services/>).
 
-***Not held***. No electoral, social protection or business register is held using the Ghana Card number, and no figure from checking a register against the ID.
+***Not found***. No electoral, social protection or business register has been found using the Ghana Card number, and no figure from checking a register against the ID.

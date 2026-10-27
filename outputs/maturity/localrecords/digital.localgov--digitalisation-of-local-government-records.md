@@ -34,7 +34,7 @@ The norm is the African Union's Digital Transformation Strategy, with the decent
 
 ### Tanzania: 4 Operating
 
-By February 2023, 169 of 184 councils had started using a centrally hosted billing system; the share recording today is not known.
+By February 2023, 169 of 184 councils had started using a centrally hosted billing system; no source found reports the share recording today.
 
 *Centrally collected.*
 
@@ -46,7 +46,7 @@ By February 2023, 169 of 184 councils had started using a centrally hosted billi
 
 ### Angola: 3 Established
 
-A finance ministry system recording municipal payers and fees was put in all 164 municipalities by 2021; how many record in it is not known.
+A finance ministry system recording municipal payers and fees was put in all 164 municipalities by 2021; no source found says how many record in it.
 
 - The Portal do Munícipe holds the records and management of residents and their households and tracks the whole cycle of fees, licences and fines billed by local administrations; payment is by RUPE ([source, 2021-11-10](https://radionova.co.ao/ministerio-das-financas-lanca-portal-para-aumentar-nivel-de-arrecadacao-de-receitas-das-administracoes-locais/)).
 - The Ministry of Finance describes the Portal as a centralised technological solution, web-accessed, with revenue deposited in a Treasury sub-account (SUB-CUT) ([source, 2021-11-10](https://radionova.co.ao/ministerio-das-financas-lanca-portal-para-aumentar-nivel-de-arrecadacao-de-receitas-das-administracoes-locais/)).
@@ -54,7 +54,7 @@ A finance ministry system recording municipal payers and fees was put in all 164
 
 ### Burundi: 3 Established
 
-Thirty communes collect local revenue electronically by 2026, recording payments only; where the record is held and the share of communes are not known.
+Thirty communes collect local revenue electronically by 2026, recording payments only; no source found says where the record is held and the share of communes.
 
 *Advancing.*
 
@@ -65,14 +65,14 @@ Thirty communes collect local revenue electronically by 2026, recording payments
 
 ### Eswatini: 3 Established
 
-One council, Manzini, billed ratepayers by account and took payment by phone in 2024; other local governments' records are not known.
+One council, Manzini, billed ratepayers by account and took payment by phone in 2024; no source found reports other local governments' records.
 
 - Manzini Municipal Council issued 2024/2025 rates bills to individual ratepayers (by post, email and bulk SMS of the payable amount), keeps ratepayer contact and ownership details, and lets ratepayers check rates balances and pay on USSD *440#; payments carry the plot or account number ([source, 2024-04](https://manzinicity.co.sz/rates-bills-for-2024-2025-financial-year-now-available/)).
 - Only the Municipal Council of Manzini is described; the post gives no count of other Eswatini local governments ([source, 2024-04](https://manzinicity.co.sz/rates-bills-for-2024-2025-financial-year-now-available/)).
 
 ### Gambia: 3 Established
 
-One council outside the capital keeps a digital tax register, reported in 2024 and 2025; the share of councils recording is not known.
+One council outside the capital keeps a digital tax register, reported in 2024 and 2025; no source found reports the share of councils recording.
 
 *Register survey; Advancing.*
 
@@ -85,7 +85,7 @@ One council outside the capital keeps a digital tax register, reported in 2024 a
 
 ### Ghana: 3 Established
 
-Some assemblies record payers and bills in a shared national system, nine of 260 using it in 2019; how many do now is not known.
+Some assemblies record payers and bills in a shared national system, nine of 260 using it in 2019; no source found says how many do now.
 
 *Advancing.*
 
@@ -96,7 +96,7 @@ Some assemblies record payers and bills in a shared national system, nine of 260
 
 ### Kenya: 3 Established
 
-Thirty-three of 47 counties had automated revenue collection by 2020, issuing electronic receipts; whether they hold a register of payers is not known.
+Thirty-three of 47 counties had automated revenue collection by 2020, issuing electronic receipts; no source found says whether they hold a register of payers.
 
 - The paper (European Scientific Journal, September 2020) says 33 of the 47 county governments had automated their revenues, though some only partially and with structured revenue streams still manual ([source, 2020](https://eujournal.org/index.php/esj/article/view/13419/13560)).
 - Automation is described as the move from paper receipts to an electronic system for data entry, processing and reporting, with point-of-sale machines in use; counties mostly collect unstructured revenues (markets, parking, cess), and a taxpayer database linked to the national identifier is listed only as a feature of the proposed integrated system ([source, 2020](https://eujournal.org/index.php/esj/article/view/13419/13560)).
@@ -105,7 +105,7 @@ Thirty-three of 47 counties had automated revenue collection by 2020, issuing el
 
 ### Malawi: 3 Established
 
-Five of 35 local governments recorded revenue digitally by 2025, three with registers of payers; the cities' position since 2022 is not known.
+Five of 35 local governments recorded revenue digitally by 2025, three with registers of payers; no source found reports the cities' position since 2022.
 
 - The IGC study says the revenue management systems in Blantyre, Lilongwe and Mzuzu consolidated scattered Excel and Word registers of property and business owners, with their payments and liabilities, into one database per city, used to produce demand notices and business licences ([source, 2022](https://www.theigc.org/sites/default/files/2024-01/Fleck%20et%20al%20Final%20report%20August%202023.pdf)).
 - The IGC study says each of the four city councils runs its own cloud-hosted revenue system from a different vendor, with no national push or coordination, and that planned integration with the IFMIS, banks and mobile money had not been achieved in any of the four cities, so receipts were uploaded separately to both systems ([source, 2022](https://www.theigc.org/sites/default/files/2024-01/Fleck%20et%20al%20Final%20report%20August%202023.pdf)).
@@ -116,7 +116,7 @@ Five of 35 local governments recorded revenue digitally by 2025, three with regi
 
 ### Morocco: 3 Established
 
-Communes issue local tax bills in a national system, in more than 100 large municipalities in August 2025; the share recording is not known.
+Communes issue local tax bills in a national system, in more than 100 large municipalities in August 2025; no source found reports the share recording.
 
 *Centrally collected.*
 
@@ -127,7 +127,7 @@ Communes issue local tax bills in a national system, in more than 100 large muni
 
 ### Niger: 3 Established
 
-The capital registers its taxpayers digitally and one commune outside it began in December 2025; how many communes record is not known.
+The capital registers its taxpayers digitally and one commune outside it began in December 2025; no source found says how many communes record.
 
 *Advancing.*
 
@@ -138,7 +138,7 @@ The capital registers its taxpayers digitally and one commune outside it began i
 
 ### Nigeria: 3 Established
 
-Two local government areas in one state registered payers digitally from 2017; how many record across the country is not known.
+Two local government areas in one state registered payers digitally from 2017; no source found says how many record across the country.
 
 *Register survey.*
 
@@ -147,7 +147,7 @@ Two local government areas in one state registered payers digitally from 2017; h
 
 ### Somalia: 3 Established
 
-Four Puntland local governments kept a digital register of payers and payments in 2022; the share of all local governments is not known.
+Four Puntland local governments kept a digital register of payers and payments in 2022; no source found reports the share of all local governments.
 
 *Centrally collected.*
 
@@ -159,14 +159,14 @@ Four Puntland local governments kept a digital register of payers and payments i
 
 ### South Africa: 3 Established
 
-Municipalities bill property rates per property and owner from their own billing systems, as described in 2023; how many do so is not known.
+Municipalities bill property rates per property and owner from their own billing systems, as described in 2023; no source found says how many do so.
 
 - National Treasury's circular says every municipality's property-rates billing report holds, per property, market value, category, amount billed, a unique property identifier linked to the valuation roll, owner and rebate, exemption and reduction values, because all financial systems use the valuation roll as the basis; it gives no count of municipalities ([source, 2023-12-07](https://mfma.treasury.gov.za/Circulars/2024_25%20MTREF%20Budget%20Circular%20No.%20126%20-%2007%20December%202023%20%28final%29.pdf)).
 - The circular has each municipality reconcile its valuation roll (Part A register) to its own billing system and send the reconciliation, not the billing record, to National Treasury quarterly through the GoMuni upload portal, within 10 working days of quarter end ([source, 2023-12-07](https://mfma.treasury.gov.za/Circulars/2024_25%20MTREF%20Budget%20Circular%20No.%20126%20-%2007%20December%202023%20%28final%29.pdf)).
 
 ### Tunisia: 3 Established
 
-Communes entered their business-tax rolls in a system shared with the Ministry of Finance in 2022; how many communes do so is not known.
+Communes entered their business-tax rolls in a system shared with the Ministry of Finance in 2022; no source found says how many communes do so.
 
 *Centrally collected.*
 
@@ -176,7 +176,7 @@ Communes entered their business-tax rolls in a system shared with the Ministry o
 
 ### Uganda: 3 Established
 
-A revenue system was in use in nine cities in late 2024; the share of local governments recording in it is not known.
+A revenue system was in use in nine cities in late 2024; no source found reports the share of local governments recording in it.
 
 - Nansana's mayor says the system fixes assessment so that no assessor discretion enters, helps taxpayers keep records and records payments against a catalogue of fees, with an undefined 'other revenue' line open to under-recording; article of March 2024 ([source, 2024-03](https://www.independent.co.ug/shift-to-online-payment-boosts-local-revenue-by-nearly-80/)).
 - MoFPED's monitoring covered IRAS in nine cities, the tenth city, Jinja, still using e-LogRev, in the first half of FY2024/25; the report also says IRAS is being rolled out in all LGs but gives no count ([source, 2024-12](https://finance.go.ug/sites/default/files/reports/Domestic%20Revenue%20Mobilisation%20Strategy%20Semi%20Annual%20Report%20FY%202024-25.pdf)).
@@ -185,7 +185,7 @@ A revenue system was in use in nine cities in late 2024; the share of local gove
 
 ### Zimbabwe: 3 Established
 
-In 2024 about 83 of 92 local authorities used a shared digital system; whether most record revenue payers in it is not known.
+In 2024 about 83 of 92 local authorities used a shared digital system; no source found says whether most record revenue payers in it.
 
 - HIT told the Harare Commission of Inquiry that around 83 of Zimbabwe's 92 local authorities use at least one LADS module; which modules, and whether any records revenue, is not stated ([source, 2024-11-25](https://www.heraldonline.co.zw/hit-offers-affordable-erp-system-to-harare/)).
 - HIT says LADS links local authorities' services, including financials and billing, to the national public financial management system ([source, 2024-11-25](https://www.heraldonline.co.zw/hit-offers-affordable-erp-system-to-harare/)).
@@ -194,7 +194,7 @@ In 2024 about 83 of 92 local authorities used a shared digital system; whether m
 
 ### Benin: 2 Nascent
 
-Twelve of 77 communes were selected in 2019 for cash-desk software that records payments; whether they were equipped and use it is not known.
+Twelve of 77 communes were selected in 2019 for cash-desk software that records payments; no source found says whether they were equipped and use it.
 
 *Register survey; Centrally collected.*
 
@@ -204,20 +204,20 @@ Twelve of 77 communes were selected in 2019 for cash-desk software that records 
 
 ### Cameroon: 2 Nascent
 
-A platform for traders to register and pay local tax was presented in 2023 for two councils; whether any council uses it is not known.
+A platform for traders to register and pay local tax was presented in 2023 for two councils; no source found says whether any council uses it.
 
 - AIMF reports that FEICOM presented Inform'All City on 21 March 2023, a platform on which informal traders register and pay their local tax, against a site the commune assigns them, so that councils collect remotely ([source, 2023-03-21](https://www.aimf.asso.fr/actualite/au-cameroun-une-plateforme-numerique-pour-faciliter-la-collecte-des-taxes-aupres-des-commercants-informels/)).
 - AIMF reports that Inform'All City is to be deployed first in the councils of Yaoundé II and Douala III, the political and economic capitals, with no wider count given ([source, 2023-03-21](https://www.aimf.asso.fr/actualite/au-cameroun-une-plateforme-numerique-pour-faciliter-la-collecte-des-taxes-aupres-des-commercants-informels/)).
 
 ### Cape Verde: 2 Nascent
 
-Terms of reference for a municipal property tax module were issued in 2025; what municipalities record today is not known.
+Terms of reference for a municipal property tax module were issued in 2025; no source found says what municipalities record today.
 
 - The finance ministry's special projects unit issued terms of reference for developing the Territory Management modules of SIMple, a planned successor to the municipal system, covering cadastre, property assessment and property tax collection; the document gives its own date as 2025 and no month ([source, 2025](https://www.mf.gov.cv/documents/20126/0/ToR_SIMple_Territory_Management.pdf/fe03f815-0452-ffd6-e948-2b00d5623dc3)).
 
 ### Central African Republic: 2 Nascent
 
-Bangui agreed with a private firm in December 2025 to digitise its municipal revenue; whether the system is in use is not known.
+Bangui agreed with a private firm in December 2025 to digitise its municipal revenue; no source found says whether the system is in use.
 
 *Register survey; Advancing.*
 
@@ -225,7 +225,7 @@ Bangui agreed with a private firm in December 2025 to digitise its municipal rev
 
 ### Chad: 2 Nascent
 
-One commune, Mongo, began a taxpayer census for a digital tax system in April 2025; whether any commune records payments digitally is not known.
+One commune, Mongo, began a taxpayer census for a digital tax system in April 2025; no source found says whether any commune records payments digitally.
 
 *Register survey.*
 
@@ -233,7 +233,7 @@ One commune, Mongo, began a taxpayer census for a digital tax system in April 20
 
 ### Congo: 2 Nascent
 
-A state platform for local governments' revenue was validated in February 2026; whether any local government yet records on it is not known.
+A state platform for local governments' revenue was validated in February 2026; no source found says whether any local government yet records on it.
 
 *Advancing; Centrally collected.*
 
@@ -244,7 +244,7 @@ A state platform for local governments' revenue was validated in February 2026; 
 
 ### Cote d'Ivoire: 2 Nascent
 
-A ministry-built register system was in a 22-commune pilot of 201 in December 2025; whether any commune records in it is not known.
+A ministry-built register system was in a 22-commune pilot of 201 in December 2025; no source found says whether any commune records in it.
 
 *Register survey; Centrally collected.*
 
@@ -254,13 +254,13 @@ A ministry-built register system was in a 22-commune pilot of 201 in December 20
 
 ### DR Congo: 2 Nascent
 
-Tools to track revenue and register taxpayers were being assessed with 20 decentralised territorial entities in 2024; whether any uses one is not known.
+Tools to track revenue and register taxpayers were being assessed with 20 decentralised territorial entities in 2024; no source found says whether any uses one.
 
 - A USAID Good Governance Activity workshop on 23-24 July 2024 was to standardise and assess tools for tracking revenue, registering taxpayers and budgeting for decentralised territorial entities; the activity works with 20 entities in four provinces (Haut Katanga, Lualaba, Tshopo, Haut Uele), and the entity tier is not stated ([source, 2024-07](https://cd.usembassy.gov/les-etats-unis-appuient-les-efforts-visant-a-ameliorer-la-gestion-des-finances-publiques-des-entites-territoriales-decentralisees-etd/)).
 
 ### Ethiopia: 2 Nascent
 
-A property tax platform was built for three pilot cities in 2016 and never fully implemented; whether any city still uses it is not known.
+A property tax platform was built for three pilot cities in 2016 and never fully implemented; no source found says whether any city still uses it.
 
 *Register survey.*
 
@@ -268,7 +268,7 @@ A property tax platform was built for three pilot cities in 2016 and never fully
 
 ### Gabon: 2 Nascent
 
-Libreville's mayor said in July 2026 the city runs its own digital revenue system; whether any other local government records is not known.
+Libreville's mayor said in July 2026 the city runs its own digital revenue system; no source found says whether any other local government records.
 
 *Advancing.*
 
@@ -278,13 +278,13 @@ Libreville's mayor said in July 2026 the city runs its own digital revenue syste
 
 ### Guinea: 2 Nascent
 
-A revenue tool was presented in March 2025 for a pilot in communes of Conakry, Coyah and Kindia; whether the pilot began is not known.
+A revenue tool was presented in March 2025 for a pilot in communes of Conakry, Coyah and Kindia; no source found says whether the pilot began.
 
 - A revenue-management digitalisation tool proven in Benin was presented on 25 March 2025 for a pilot in Conakry's 13 urban communes plus Coyah and Kindia; the article says the communes will experiment with it, so it is announced, not live ([source, 2025-03-25](https://guineematin.com/2025/03/25/guinee-vers-une-digitalisation-des-services-communaux-de-conakry-coyah-et-kindia/)).
 
 ### Liberia: 2 Nascent
 
-A pilot revenue database was planned in June 2023 for two city corporations; whether it was built is not known.
+A pilot revenue database was planned in June 2023 for two city corporations; no source found says whether it was built.
 
 *Register survey; Centrally collected.*
 
@@ -292,14 +292,14 @@ A pilot revenue database was planned in June 2023 for two city corporations; whe
 
 ### Libya: 2 Nascent
 
-A 2024 ministry programme signed by 27 municipalities includes electronic collection; how many municipalities use its local revenue system is not known.
+A 2024 ministry programme signed by 27 municipalities includes electronic collection; no source found says how many municipalities use its local revenue system.
 
 - The Ministry of Local Government of the Government of National Unity runs the National Programme for Activating Local Revenues, under which 27 municipalities signed a sponsorship document on 10 June 2024; its projects include an electronic collection system and a database of municipal economic activities ([source, 2024-06-10](https://alwasat.ly/news/libya/441789)).
 - The programme director said it targets both municipalities where the local revenue system is already activated and those where it is not and still needs activating; no count of either group is given, and the 27 signatories are not said to be using the system ([source, 2024-06-10](https://alwasat.ly/news/libya/441789)).
 
 ### Madagascar: 2 Nascent
 
-One commune outside the capital was handed property-tax software in 2021; whether it or any other commune records payers digitally since is not known.
+One commune outside the capital was handed property-tax software in 2021; no source found says whether it or any other commune records payers digitally since.
 
 *Centrally collected.*
 
@@ -309,7 +309,7 @@ One commune outside the capital was handed property-tax software in 2021; whethe
 
 ### Mali: 2 Nascent
 
-Communes tested tax registers in 2023 and Koutiala began a pilot in March 2026; whether any uses one as routine is not known.
+Communes tested tax registers in 2023 and Koutiala began a pilot in March 2026; no source found says whether any uses one as routine.
 
 *Register survey; Centrally collected; Advancing.*
 
@@ -319,7 +319,7 @@ Communes tested tax registers in 2023 and Koutiala began a pilot in March 2026; 
 
 ### Mauritania: 2 Nascent
 
-One commune, Sebkha, kept a digital register of taxpayers in 2020 and eight were installing it; how many communes record now is not known.
+One commune, Sebkha, kept a digital register of taxpayers in 2020 and eight were installing it; no source found says how many communes record now.
 
 *Register survey.*
 
@@ -329,13 +329,13 @@ One commune, Sebkha, kept a digital register of taxpayers in 2020 and eight were
 
 ### Mozambique: 2 Nascent
 
-Only Maputo's municipality is shown keeping a taxpayer register, on a 2020 assessment; whether any other municipality records its revenue digitally is not known.
+Only Maputo's municipality is shown keeping a taxpayer register, on a 2020 assessment; no source found says whether any other municipality records its revenue digitally.
 
 - A September 2020 rapid assessment for the Ministry of Economy and Finance describes SISPGIA, a municipal property tax system in the Maputo municipality built in 2009, with modules for a taxpayer register, taxpayer queries and payment of taxes and fees ([source, 2020-09](https://www.pdul.gov.mz/content/download/513/2779/file/Avaliacao%20Rapida%20do%20SIGEF%20Municipal.pdf)).
 
 ### Namibia: 2 Nascent
 
-The capital city billed water accounts to named customers in its own system in 2024; whether any other local authority records revenue is not known.
+The capital city billed water accounts to named customers in its own system in 2024; no source found says whether any other local authority records revenue.
 
 - The Namibian reports that the City of Windhoek bills water accounts for named customers in its Solar billing system, with payments and arrears recorded against each account; a February 2024 internal memo found accounts imported from the financial system with wrong customer information, and a payment history missing from one account ([source, 2024-02](https://www.namibian.com.na/city-in-water-billing-system-cover-up/)).
 - The Namibian reports the City of Windhoek's billing system Solar runs on the city's own servers, with the vendor BCX supplying the financial management software; no reporting to a national system is stated ([source, 2024-02](https://www.namibian.com.na/city-in-water-billing-system-cover-up/)).
@@ -343,7 +343,7 @@ The capital city billed water accounts to named customers in its own system in 2
 
 ### Senegal: 2 Nascent
 
-More than 20 communes were equipped with a vendor's municipal software by November 2025; whether any records its revenue in it is not known.
+More than 20 communes were equipped with a vendor's municipal software by November 2025; no source found says whether any records its revenue in it.
 
 *Register survey; Centrally collected.*
 
@@ -352,7 +352,7 @@ More than 20 communes were equipped with a vendor's municipal software by Novemb
 
 ### Sierra Leone: 2 Nascent
 
-Three of 22 local councils had a property tax system by December 2025, with billing shown only in the capital; use elsewhere is not known.
+Three of 22 local councils had a property tax system by December 2025, with billing shown only in the capital; no source found reports use elsewhere.
 
 *Register survey; Advancing.*
 
@@ -376,7 +376,7 @@ A digital revenue system was launched for Juba City Council in September 2026; t
 
 ### Sudan: 2 Nascent
 
-One locality began electronic collection as a model site in May 2026; whether it keeps a register of payers is not known.
+One locality began electronic collection as a model site in May 2026; no source found says whether it keeps a register of payers.
 
 *Advancing.*
 
@@ -385,7 +385,7 @@ One locality began electronic collection as a model site in May 2026; whether it
 
 ### Togo: 2 Nascent
 
-One commune, Lacs 1, started a project to digitalise municipal tax registration in 2021; whether it went into use is not known.
+One commune, Lacs 1, started a project to digitalise municipal tax registration in 2021; no source found says whether it went into use.
 
 *Register survey.*
 
@@ -393,7 +393,7 @@ One commune, Lacs 1, started a project to digitalise municipal tax registration 
 
 ### Zambia: 2 Nascent
 
-A council revenue system was at proof of concept in eight councils in March 2026; whether it is live anywhere is not known.
+A council revenue system was at proof of concept in eight councils in March 2026; no source found says whether it is live anywhere.
 
 *Register survey; Advancing.*
 
@@ -403,7 +403,7 @@ A council revenue system was at proof of concept in eight councils in March 2026
 
 ### Algeria: Unplaced
 
-A 2018 audit found most communes reviewed had no current tax-base census; how communes record revenue is not known, so no stage is set.
+A 2018 audit found most communes reviewed had no current tax-base census; no source found says how communes record revenue, so no stage is set.
 
 *Register survey; Centrally collected.*
 
@@ -411,84 +411,84 @@ Not established: The one row is an audit of 22 communes over 2014-2018 finding n
 
 ### Djibouti: Unplaced
 
-In 2020 local authorities could not levy taxes and none collected its own; how records are kept is not known, so no stage is set.
+In 2020 local authorities could not levy taxes and none collected its own; no source found says how records are kept, so no stage is set.
 
 Not established: The two rows, on 2020 fiscal data, say local authorities are not empowered to levy taxes and none of the nine collects its own; that is no revenue to record, not a dated statement that records are kept on paper, and no system is said to be prepared. Nothing is dated since 2020, and no system is listed.
 
 ### Botswana: No evidence
 
-One city council has an online rates payment channel (2024); whether any council keeps a digital record is not known, so no stage is set.
+One city council has an online rates payment channel (2024); no source found says whether any council keeps a digital record, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records. What is held instead is the national tax system of the Botswana Unified Revenue Service (Lekgetho Live), which systems.csv does not say collects any council revenue, and PayRates, an online property-rates payment platform for Gaborone City Council classed as a web service. Whether any council keeps a digital revenue register or receipt record is not established.
+Not established: No evidence row has been found on local government revenue records. What is held instead is the national tax system of the Botswana Unified Revenue Service (Lekgetho Live), which systems.csv does not say collects any council revenue, and PayRates, an online property-rates payment platform for Gaborone City Council classed as a web service. Whether any council keeps a digital revenue register or receipt record is not established.
 
 ### Burkina Faso: No evidence
 
-State tax services run tax billing and collection (2021); whether any collectivité territoriale keeps a digital record is not known, so no stage is set.
+State tax services run tax billing and collection (2021); no source found says whether any collectivité territoriale keeps a digital record, so no stage is set.
 
 *Centrally collected.*
 
-Not established: No evidence row is held on local government revenue records. What is held instead is two central systems: the DGI's micro-enterprise registration and payment software, whose tax is passed back to the collectivités territoriales, and the tax-administration chain run by the State's deconcentrated tax and treasury services. Whether any collectivité keeps its own digital revenue record is not established.
+Not established: No evidence row has been found on local government revenue records. What is held instead is two central systems: the DGI's micro-enterprise registration and payment software, whose tax is passed back to the collectivités territoriales, and the tax-administration chain run by the State's deconcentrated tax and treasury services. Whether any collectivité keeps its own digital revenue record is not established.
 
 ### Comoros: No evidence
 
 Nothing is held on local governments' revenue records, digital or paper, and no system is named, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
+Not established: No evidence row has been found on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
 
 ### Egypt: No evidence
 
-A central authority collects the real estate tax, a quarter for local government (2020); local records are not known, so no stage is set.
+A central authority collects the real estate tax, a quarter for local government (2020); no source found reports local records, so no stage is set.
 
 *Register survey; Centrally collected.*
 
-Not established: No evidence row is held on local government revenue records. What is held instead is central: the Real Estate Tax Authority of the Ministry of Finance collects the real estate tax, a quarter of which is stated as going to local government, with its own app, alongside the Egyptian Tax Authority's e-invoice, e-receipt and real estate transactions systems. A national property identification system of nearly 30 million IDs is held as a survey. Whether any governorate or local unit keeps its own digital revenue record is not established.
+Not established: No evidence row has been found on local government revenue records. What is held instead is central: the Real Estate Tax Authority of the Ministry of Finance collects the real estate tax, a quarter of which is stated as going to local government, with its own app, alongside the Egyptian Tax Authority's e-invoice, e-receipt and real estate transactions systems. A national property identification system of nearly 30 million IDs is held as a survey. Whether any governorate or local unit keeps its own digital revenue record is not established.
 
 ### Equatorial Guinea: No evidence
 
-Only the finance ministry's national tax systems are named (2023 to 2026); municipalities' revenue records are not known, so no stage is set.
+Only the finance ministry's national tax systems are named (2023 to 2026); no source found reports municipalities' revenue records, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records. What is held instead is central: SIGREF, the Ministry of Finance's integrated tax revenue system, and the application for the Patente Tributario Único Anual for small taxpayers, both national. No municipal system is named, and whether any municipality keeps a digital revenue record is not established.
+Not established: No evidence row has been found on local government revenue records. What is held instead is central: SIGREF, the Ministry of Finance's integrated tax revenue system, and the application for the Patente Tributario Único Anual for small taxpayers, both national. No municipal system is named, and whether any municipality keeps a digital revenue record is not established.
 
 ### Eritrea: No evidence
 
 Nothing is held on local governments' revenue records, digital or paper, and no system is named, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
+Not established: No evidence row has been found on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
 
 ### Guinea-Bissau: No evidence
 
-Only national tax declaration and online payment systems are named (2022); local governments' revenue records are not known, so no stage is set.
+Only national tax declaration and online payment systems are named (2022); no source found reports local governments' revenue records, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records. What is held instead is two central systems: SIGEF, through which taxpayers declare to the General Directorate of Contributions and Taxes, and KONTAKTU, a piloted online tax payment platform connected to it. Neither is stated as serving a local government, and whether any keeps a digital revenue record is not established.
+Not established: No evidence row has been found on local government revenue records. What is held instead is two central systems: SIGEF, through which taxpayers declare to the General Directorate of Contributions and Taxes, and KONTAKTU, a piloted online tax payment platform connected to it. Neither is stated as serving a local government, and whether any keeps a digital revenue record is not established.
 
 ### Lesotho: No evidence
 
 Nothing is held on local governments' revenue records, digital or paper, and no system is named, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
+Not established: No evidence row has been found on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
 
 ### Mauritius: No evidence
 
-Permit and document systems run in local authorities (2024); whether any council keeps a digital revenue record is not known, so no stage is set.
+Permit and document systems run in local authorities (2024); no source found says whether any council keeps a digital revenue record, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records. What is held instead is the Mauritius Revenue Authority's national Tax Payer Portal, a central system not stated as collecting any council revenue; the National Electronic Licensing System for permits through the local authorities; I-Council, a document and project system in 12 local authorities; and a cashier system of the Judiciary. Whether any council keeps a digital revenue register or receipt record is not established.
+Not established: No evidence row has been found on local government revenue records. What is held instead is the Mauritius Revenue Authority's national Tax Payer Portal, a central system not stated as collecting any council revenue; the National Electronic Licensing System for permits through the local authorities; I-Council, a document and project system in 12 local authorities; and a cashier system of the Judiciary. Whether any council keeps a digital revenue register or receipt record is not established.
 
 ### Rwanda: No evidence
 
-The national revenue authority collects for the districts and keeps their tax register (2024); districts' own records are not known, so no stage is set.
+The national revenue authority collects for the districts and keeps their tax register (2024); no source found reports districts' own records, so no stage is set.
 
 *Centrally collected.*
 
-Not established: No evidence row is held on local government revenue records. What is held instead is central: the Rwanda Revenue Authority collects on the districts' behalf, keeping the local government tax register (1,347,846 active taxpayers in June 2024) and the automated LGT system for property tax, with a CAMA valuation model being rolled out. Land, accounts, permit and web systems are also named. Whether any district keeps a revenue record of its own is not established.
+Not established: No evidence row has been found on local government revenue records. What is held instead is central: the Rwanda Revenue Authority collects on the districts' behalf, keeping the local government tax register (1,347,846 active taxpayers in June 2024) and the automated LGT system for property tax, with a CAMA valuation model being rolled out. Land, accounts, permit and web systems are also named. Whether any district keeps a revenue record of its own is not established.
 
 ### Sao Tome and Principe: No evidence
 
 Nothing is held on local governments' revenue records, digital or paper, and no system is named, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
+Not established: No evidence row has been found on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
 
 ### Seychelles: No evidence
 
 Nothing is held on local governments' revenue records, digital or paper, and no system is named, so no stage is set.
 
-Not established: No evidence row is held on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.
+Not established: No evidence row has been found on local government revenue records, and systems.csv names no system of any class. Nothing is established either way, including absence.

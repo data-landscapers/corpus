@@ -6,6 +6,6 @@
 
 **Use of the law.** The ICT Minister [said on 19 August 2026](<https://dailynews.co.tz/tanzania-orders-operators-of-critical-ict-infrastructure-to-exercise-greater-vigilance-or-else-face-100m-fine/>) that section 29 of the Cybercrimes Act provides a fine of not less than 100m/- or three times the damage, imprisonment of at least five years, or both, for damaging critical ICT infrastructure. The Ministry of Information and Communication Technology owns the Act in that report. The minister's statement concerns owners and operators of critical ICT infrastructure, for whom the Ministry has set up a registration system.
 
-***Noted, not assessed***. [Ministry registration system for critical ICT infrastructure owners and operators](<https://dailynews.co.tz/tanzania-orders-operators-of-critical-ict-infrastructure-to-exercise-greater-vigilance-or-else-face-100m-fine/>).
+***Also on file***. [Ministry registration system for critical ICT infrastructure owners and operators](<https://dailynews.co.tz/tanzania-orders-operators-of-critical-ict-infrastructure-to-exercise-greater-vigilance-or-else-face-100m-fine/>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

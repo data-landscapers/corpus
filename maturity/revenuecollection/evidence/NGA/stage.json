@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-002",
-      "gaps": "No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
       "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
       "as_at": "2026-10-18"
     }

@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The nearest held fact is the draft, [the government bill under discussion since April 2026](<https://rsf.org/fr/mauritanie-rsf-salue-le-projet-de-loi-sur-l-acces-et-l-utilisation-de-l-information-publique>). A bill makes no rules and sets up no oversight body until it is passed, promulgated and in force. Once it is, what would put it to work is a decree or regulation made under it, or an information commission or commissioner appointed, and what would show it applied is a decision or penalty on a request for information, or published figures of requests.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says an access to information law is in force.
+***Not found***. No source found says an access to information law is in force.

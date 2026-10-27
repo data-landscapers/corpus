@@ -8,6 +8,6 @@
 
 **Linked to the ID and another sector.** [Article 8 of the joint arrete of 20 August 2024 says the registre social unique holds data drawn from the civil-status information systems and the unique identification number, among other sources](<https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf>).
 
-***Noted, not assessed***. [Registre social unique](<https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf>).
+***Also on file***. [Registre social unique](<https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

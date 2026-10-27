@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing held says whether the civil register and the ID system are linked.",
-      "note": "Rebuild: no evidence row on the link is held, so no stage is set.",
+      "gaps": "Nothing found says whether the civil register and the ID system are linked.",
+      "note": "Rebuild: no evidence row on the link has been found, so no stage is set.",
       "as_at": "2026-10-22"
     }
   ]

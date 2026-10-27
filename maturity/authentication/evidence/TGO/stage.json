@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-004;TGO-005",
-      "gaps": "No source held says a mobile ID, ID wallet or signed credential is in service; OTP login by ID number is not one.",
+      "gaps": "No source found says a mobile ID, ID wallet or signed credential is in service; OTP login by ID number is not one.",
       "note": "ANID's 2026 deck says OTP authentication on the ID number is fully deployed and used on the public services portal, and that ANID verifies identity for banks and public services (TGO-004, TGO-005). Biometric authentication is the next phase, and no wallet is named.",
       "as_at": "2026-10-23"
     }

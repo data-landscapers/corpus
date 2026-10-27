@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** Because the E-Transactions Law is still moving through the legislative process, as the [adviser writes](<https://sonna.so/en/article/Somalia%E2%80%99s-Most-Valuable-Chinese-Tech-Import-Is-Not-a-Model-It-Is-a-Megawatt>), no rules are made under it and nothing is applied. The same article names the Data Protection Act and the Cybersecurity Bill as companion measures in the same process, which places the law among three pieces of digital legislation under way in August 2026.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a law on electronic transactions or e-commerce is in force.
+***Not found***. No source found says a law on electronic transactions or e-commerce is in force.

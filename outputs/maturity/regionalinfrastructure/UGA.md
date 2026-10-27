@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** A subsidiary of that telecommunications group [completed a fibre network linking Mombasa, in Kenya, to Kampala in May 2025](<https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite>). Uganda has no coast, and the network is a route to the Kenyan port owned by a single company from end to end. [A second account](<https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal>) gives the same month and the same two cities. Neither gives the network's capacity, a figure for traffic, or the name of a Ugandan operator that buys capacity on it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

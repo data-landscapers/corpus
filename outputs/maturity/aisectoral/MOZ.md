@@ -6,8 +6,8 @@
 
 **Several sectors.** Every AI tool held is in health, and none is in service. The nearest held fact is the [malaria forecasting platform in testing](<https://dhis2.org/pt-pt/climate/country-profiles/mozambique/>).
 
-**Results reported.** No measured results of a sectoral AI system in service are held. The [three flagged outbreaks](<https://dhis2.org/pt-pt/climate/country-profiles/mozambique/>) came from testing, before the system was in service.
+**Results reported.** No measured results of a sectoral AI system in service have been found. The [three flagged outbreaks](<https://dhis2.org/pt-pt/climate/country-profiles/mozambique/>) came from testing, before the system was in service.
 
-***Noted, not assessed***. [Telegram chatbot for AdRMM](<https://macaubusiness.com/mozambique-portugal-based-firms-develop-ai-solution-for-maputo-water-company/>); [MAZA IA](<https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/>).
+***Also on file***. [Telegram chatbot for AdRMM](<https://macaubusiness.com/mozambique-portugal-based-firms-develop-ai-solution-for-maputo-water-company/>); [MAZA IA](<https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/>).
 
-***Not held***. No source says an AI tool is in service in a public sector's system.
+***Not found***. No source says an AI tool is in service in a public sector's system.

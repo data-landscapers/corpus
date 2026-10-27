@@ -12,7 +12,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GAB-004;GAB-003;GAB-001",
-   "gaps": "No source held says the government has published an enterprise architecture or an inventory of its systems.",
+   "gaps": "No source found says the government has published an enterprise architecture or an inventory of its systems.",
    "note": "Counted from the four questions by study-ladder-coresystems.py."
   }
  ]

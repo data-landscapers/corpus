@@ -30,7 +30,7 @@ mirror's `lookups/raw-url-index.csv` and `lookups/rejected-urls.csv`, and
 
 - `admitted`     — held; `slug` names the record, which joins the Phase 2 reading;
 - `rejected`     — ingest declined it; `reason` is ingest's;
-- `not-returned` — in neither. Not held, and its gap stands.
+- `not-returned` — in neither. Not found, and its gap stands.
 
 Exit: 0 written, 2 the gate is shut or a file is missing.
 """

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "UGA-001",
-      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "gaps": "No source found since October 2023 says births are registered digitally across the country.",
       "note": "NIRA built an OpenCRVS birth and death module into its ID system and lists deploying it as a next step (2026).",
       "as_at": "2026-10-24"
     }

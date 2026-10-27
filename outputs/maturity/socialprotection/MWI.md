@@ -6,8 +6,8 @@
 
 **Paid electronically.** [NLGFC confirmed that 95,520 SCTP and 195,520 CSPWP beneficiaries were enrolled on e-payments in 10 districts in 2024/25 and received payments in e-wallets through payment service providers including TNM, Airtel, FDH, Standard Bank, Kaku Pay and NBS Bank](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-**Several programmes.** No source held since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-***Noted, not assessed***. [Unified Beneficiary Registry (UBR)](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
+***Also on file***. [Unified Beneficiary Registry (UBR)](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-***Not held***. No source held since October 2023 says one information system serves several social programmes.
+***Not found***. No source found since October 2023 says one information system serves several social programmes.

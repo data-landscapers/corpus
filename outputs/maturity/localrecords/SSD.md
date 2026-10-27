@@ -12,6 +12,6 @@
 
 **Local governments recording.** [The roll-out covers Juba City Council and its blocks](<https://www.onecitizendaily.com/index.php/2022/10/21/advertisement-by-juba-city-council-jcc/>), and was announced as just started in October 2022. In October 2026 [the council was still described as moving from manual collection to a digital system](<https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/>).
 
-***Noted, not assessed***. [Payroll software](<https://csps.org.ss/new/uploads/pubrp6.pdf>), named among the tools in place at states and local government institutions.
+***Also on file***. [Payroll software](<https://csps.org.ss/new/uploads/pubrp6.pdf>), named among the tools in place at states and local government institutions.
 
-***Not held***. Where the record is held is not stated, and no local government other than Juba City Council is named. Whether the system of October 2022 stayed in use is not established, and no figure for collection on the system launched in September 2026 is held.
+***Not found***. Where the record is held is not stated, and no local government other than Juba City Council is named. Whether the system of October 2022 stayed in use is not established, and no figure for collection on the system launched in September 2026 has been found.

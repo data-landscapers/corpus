@@ -6,8 +6,8 @@
 
 **Several bodies.** Only the education ministry is held with AI in service. The nearest held fact is [EdTech Hub's account](<https://edtechhub.org/case-study/the-graduate-who-brought-ai-to-sierra-leones-ministry-of-education/>). Both tools serve the education ministries' own staff.
 
-**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is [EDITH's development](<https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/>), which states no rules.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is [EDITH's development](<https://thecalabashnewspaper.com/mbsse-develops-revolutionary-ai-platform-to-transform-education-management/>), which states no rules.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. AI in service in a second government body, and rules or a register for the government's own use of AI, are not known.
+***Not found***. No source found reports AI in service in a second government body, and rules or a register for the government's own use of AI.

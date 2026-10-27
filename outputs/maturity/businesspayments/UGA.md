@@ -8,6 +8,6 @@
 
 **Use reported.** [Turamye says the 36 entities on e-GP have done more than 38,000 contracts on it](<https://www.monitor.co.ug/uganda/news/national/govt-moves-to-fully-automate-procurement-to-cut-graft-delays-5427820>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

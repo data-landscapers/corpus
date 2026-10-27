@@ -6,8 +6,8 @@
 
 **Between providers.** [Sudan Horizon says the BBAN service lets Bede wallet users send and receive funds across all Sudanese banks](<https://sudanhorizon.com/bede-sudan-launches-bban-service-to-strengthen-banking-integration-and-expand-digital-transaction/>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/>).
 
-***Noted, not assessed***. [Baladna Bibasata](<https://alwijha24.com/83548>).
+***Also on file***. [Baladna Bibasata](<https://alwijha24.com/83548>).
 
-***Not held***. No source held since October 2023 says payments between providers, or between wallets and banks, are in service.
+***Not found***. No source found since October 2023 says payments between providers, or between wallets and banks, are in service.

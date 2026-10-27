@@ -16,6 +16,6 @@
 
 **Last twelve months.** [Levellers, reviewing on 8 June 2026](<https://www.levellers.ai/what-is/ai-regulation-eritrea>), states that Eritrea has no national digital transformation strategy.
 
-***Noted, not assessed***. [HSSDP III 2022-2026](<https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/>) and [National Policy for ICT in Education](<http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea>).
+***Also on file***. [HSSDP III 2022-2026](<https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/>) and [National Policy for ICT in Education](<http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea>).
 
-***Not held***. The only statement of absence is a third-party legal-status page, not an Eritrean government source. No instrument in preparation is on record.
+***Not found***. The only statement of absence is a third-party legal-status page, not an Eritrean government source. No instrument in preparation is on record.

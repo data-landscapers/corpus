@@ -8,6 +8,6 @@
 
 **Mostly online.** [The Direction Generale des Impots says electronic filing and payment of corporate tax, income tax and VAT become mandatory for all firms from 1 January 2017, except those on the flat-rate income tax regime (2017, before the three-year window)](<https://article19.ma/accueil/archives/35106>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

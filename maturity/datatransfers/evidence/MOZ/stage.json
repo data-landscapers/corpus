@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "MOZ-001",
-   "gaps": "No source held says a rule on sending personal data abroad is in force.",
+   "gaps": "No source found says a rule on sending personal data abroad is in force.",
    "note": "Counted from the four questions by study-ladder-datatransfers.py."
   }
  ]

@@ -6,6 +6,6 @@
 
 **Required and followed.** The agency's legal note of July 2026 [treats the framework as in place: it sets the registration, technical and contractual conditions for connecting to the national exchange platform, with a national interoperability committee supervising](<https://asin.bj/doc/142/download>). No source names a body that enforces the framework itself or counts the bodies connected under it.
 
-***Noted, not assessed***. [Xroad-BJ](<https://asin.bj/doc/142/download>); [Politique de développement et d'intégration des applications de l'État (PDAIE)](<https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation>).
+***Also on file***. [Xroad-BJ](<https://asin.bj/doc/142/download>); [Politique de développement et d'intégration des applications de l'État (PDAIE)](<https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation>).
 
-***Not held***. No source held says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.
+***Not found***. No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.

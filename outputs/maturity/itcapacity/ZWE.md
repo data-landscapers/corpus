@@ -6,10 +6,10 @@
 
 **A technology body for government.** [The Government Internet Service Provider, a government body formed in 1998, is stated to provide internet connectivity, email and web services to all government ministries, departments and parastatals, and to administer the .gov.zw domain](<http://www.gisp.gov.zw/about/>).
 
-**Built in-house.** No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<http://www.gisp.gov.zw/about/>).
+**Built in-house.** No source found says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<http://www.gisp.gov.zw/about/>).
 
-**Systems run wholly in-house.** No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<http://www.gisp.gov.zw/about/>).
+**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<http://www.gisp.gov.zw/about/>).
 
-***Noted, not assessed***. [Citizen Engagement and Scoring Platform](<https://www.hit.ac.zw/2026/06/19/president-mnangagwa-launches-citizen-engagement-and-scoring-platform-built-by-hits-lads-africa/>).
+***Also on file***. [Citizen Engagement and Scoring Platform](<https://www.hit.ac.zw/2026/06/19/president-mnangagwa-launches-citizen-engagement-and-scoring-platform-built-by-hits-lads-africa/>).
 
-***Not held***. No source held says a system built by government staff went live since October 2023.
+***Not found***. No source found says a system built by government staff went live since October 2023.

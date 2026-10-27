@@ -2,6 +2,6 @@
 
 ## Rural internet gap
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether rural areas are being connected or how far rural internet use lags urban.
+***Not found***. Nothing found says whether rural areas are being connected or how far rural internet use lags urban.

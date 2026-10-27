@@ -6,8 +6,8 @@
 
 **Gap measured.** [The 2022 KDHS fact sheet gives internet use in the past 12 months, aged 15-49, as 80.0% of urban and 40.7% of rural men and 67.7% of urban and 27.9% of rural women (2022, before the three-year window)](<https://www.ca.go.ke/sites/default/files/2024-12/ICT-KDHS%20Analytical%20Fact%20Sheet.pdf>).
 
-**Gap narrow.** No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<http://www.ca.go.ke/sites/default/files/CA/USF%20Strategy/Universal%20Service%20Fund%20Strategy%202023-2027.pdf>).
+**Gap narrow.** No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<http://www.ca.go.ke/sites/default/files/CA/USF%20Strategy/Universal%20Service%20Fund%20Strategy%202023-2027.pdf>).
 
-***Noted, not assessed***. [Universal Service Fund](<https://www.ictworks.org/fcdo-promises-to-halve-the-digital-divide-where-is-the-money/>).
+***Also on file***. [Universal Service Fund](<https://www.ictworks.org/fcdo-promises-to-halve-the-digital-divide-where-is-the-money/>).
 
-***Not held***. No source held since October 2023 says: is one delivering, with sites counted.
+***Not found***. No source found since October 2023 says: is one delivering, with sites counted.

@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The nearest held fact is the statement that there is no law, [UNESCO's contribution of December 2025](<https://upr-info.org/sites/default/files/country-document/2025-12/UNESCO_org_UPR42_GAB_F_Main.pdf>). With no law and no draft there are no rules, no information commission or commissioner and no decisions on requests to record. A bill published, put out for consultation or sent to cabinet or parliament would be the first step, and a law in force the second.
 
-***Noted, not assessed***. [Code de la Communication (loi n°019/2016 du 9 août 2016)](<https://upr-info.org/sites/default/files/country-document/2025-12/UNESCO_org_UPR42_GAB_F_Main.pdf>).
+***Also on file***. [Code de la Communication (loi n°019/2016 du 9 août 2016)](<https://upr-info.org/sites/default/files/country-document/2025-12/UNESCO_org_UPR42_GAB_F_Main.pdf>).
 
-***Not held***. Nothing further: every question is answered.
+***Not found***. Nothing further: every question is answered.

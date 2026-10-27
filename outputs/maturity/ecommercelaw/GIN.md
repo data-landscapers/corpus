@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** [Decree D/2021/092/PRG/SGG, signed on 25 March 2021](<https://anssi.gov.gn/wp-content/uploads/2025/03/DECRET-D-2021-092-PRG-SGG-Copie-2.pdf>), sets rules for electronic transactions including e-commerce, names the ARPT as regulator with sanction powers, and provides fines and penalties. The [August 2026 decree requires every electronic-certification service provider to be approved by the competent authority](<https://www.guinee360.com/19/08/2026/guinee-mamadi-doumbouya-officialise-la-signature-electronique/>), names the national digital agency ANDE as that authority for approval, control and audit, and refers technical standards to a joint order of the telecommunications and justice ministries.
 
-***Noted, not assessed***. [Décret on security audit, control and certification of information systems used in electronic transactions (read on national television 21 May 2026)](<https://guineenews.org/2026/05/21/cybersecurite-la-guinee-durcit-le-controle-des-transactions-electroniques-avec-un-nouveau-decret-presidentiel/>).
+***Also on file***. [Décret on security audit, control and certification of information systems used in electronic transactions (read on national television 21 May 2026)](<https://guineenews.org/2026/05/21/cybersecurite-la-guinee-durcit-le-controle-des-transactions-electroniques-avec-un-nouveau-decret-presidentiel/>).
 
-***Not held***. No source held dates an accreditation, licence, registration or penalty under the law in the last three years.
+***Not found***. No source found dates an accreditation, licence, registration or penalty under the law in the last three years.

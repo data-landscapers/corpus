@@ -12,6 +12,6 @@
 
 **Primary schools doing the digital input.** The letter of February 2026 says [several schools enter only their final-year examination candidates](<https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/>) and leave the other nursery and primary classes not updated.
 
-***Noted, not assessed***. The primary ministry's [emp.educmaster.bj](<https://memp.gouv.bj/communique/9/telecharger>), where primary schools and parents looked up candidates' primary-certificate marks in August 2026, and the government's examination results portal, [eresultats.bj](<https://beninrevele.bj/doc/29/download>), in service in December 2020.
+***Also on file***. The primary ministry's [emp.educmaster.bj](<https://memp.gouv.bj/communique/9/telecharger>), where primary schools and parents looked up candidates' primary-certificate marks in August 2026, and the government's examination results portal, [eresultats.bj](<https://beninrevele.bj/doc/29/download>), in service in December 2020.
 
-***Not held***. No number or share of primary schools entering data is published, and nothing shows primary schools entering attendance or results during the year. How the system is paid for is not stated, and no current plan naming it is held.
+***Not found***. No number or share of primary schools entering data is published, and nothing shows primary schools entering attendance or results during the year. How the system is paid for is not stated, and no current plan naming it has been found.

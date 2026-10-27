@@ -8,6 +8,6 @@
 
 **Linked to ID.** [The roll for the 19 July 2026 presidential election was compiled automatically from data of the civil registry directorate (DGRN) for the first time](<https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/>). [A campaign is under way to consolidate the electoral registration database using interoperability with the civil registry databases, says the PReSE coordinator](<https://jornaleconomico.sapo.pt/noticias/sao-tome-e-principe-pronto-para-um-novo-sistema-de-recenseamento-eleitoral/>).
 
-***Noted, not assessed***. [SIGA](<https://rstp.st/2025/09/02/stp-encerra-o-projeto-de-reforma-do-sistema-eleitoral-financiado-pela-uniao-europeia/>); [Bilhete de Identidade](<https://www.instituto-camoes.pt/sobre/comunicacao/noticias/sao-tome-e-principe>).
+***Also on file***. [SIGA](<https://rstp.st/2025/09/02/stp-encerra-o-projeto-de-reforma-do-sistema-eleitoral-financiado-pela-uniao-europeia/>); [Bilhete de Identidade](<https://www.instituto-camoes.pt/sobre/comunicacao/noticias/sao-tome-e-principe>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

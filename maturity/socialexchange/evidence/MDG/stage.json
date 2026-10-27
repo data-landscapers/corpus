@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "MDG-001",
-   "gaps": "No source held since October 2023 says a registry or programme exchanges data in use.",
+   "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
    "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
   }
  ]

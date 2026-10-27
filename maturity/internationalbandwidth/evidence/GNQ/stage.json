@@ -9,8 +9,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GNQ-002;GNQ-005",
-      "gaps": "No source held says two of the routes land at different stations, or run through two different neighbours. A 2026 source says the country relies primarily on ACE, without saying Ceiba-2 is out of service.",
-      "note": "Fact 2026-10-21: Ecofin says GNQ relies primarily on ACE, which leaves ACE and Ceiba-2 at adjacent Bata stations as held; no route independent of Bata is held.",
+      "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours. A 2026 source says the country relies primarily on ACE, without saying Ceiba-2 is out of service.",
+      "note": "Fact 2026-10-21: Ecofin says GNQ relies primarily on ACE, which leaves ACE and Ceiba-2 at adjacent Bata stations as held; no route independent of Bata has been found.",
       "as_at": "2026-10-22"
     }
   ]

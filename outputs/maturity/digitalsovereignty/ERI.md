@@ -2,6 +2,6 @@
 
 ## Control of state data
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 says whether control of state data is a stated goal or a rule.
+***Not found***. Nothing found since October 2023 says whether control of state data is a stated goal or a rule.

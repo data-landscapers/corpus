@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The nearest held fact is [the regulators' session of February 2026](<https://techreviewafrica.com/news/4133>), a meeting attended, and nothing Cameroon has done under its resolutions is reported. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
 
-***Noted, not assessed***. [Korea-Africa ministerial meeting / Korea digital partnership](<https://leconomie.info/cooperation-numerique-yaounde-plaide-pour-un-renforcement-du-partenariat-technologique-a-seoul/>); [World Artificial Intelligence Cooperation (WAICO)](<https://art.cm/en/article/cameroon-joins-founding-states-waico-strategic-step-toward-global-ai-governance>).
+***Also on file***. [Korea-Africa ministerial meeting / Korea digital partnership](<https://leconomie.info/cooperation-numerique-yaounde-plaide-pour-un-renforcement-du-partenariat-technologique-a-seoul/>); [World Artificial Intelligence Cooperation (WAICO)](<https://art.cm/en/article/cameroon-joins-founding-states-waico-strategic-step-toward-global-ai-governance>).
 
-***Not held***. No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.
+***Not found***. No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.

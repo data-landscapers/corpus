@@ -42,10 +42,10 @@ import study_lib  # noqa: E402
 STUDY, LAW, BODY = "dataprotectionreadiness", "dataprotectionlaw", "dataprotectionauthority"
 GAPS = {
     "5": "Nothing on the four questions.",
-    "4": "No ruling of the authority against a named organisation in the last three years is held.",
+    "4": "No ruling of the authority against a named organisation in the last three years has been found.",
     "3": "No source dated in the last three years shows an appointed authority registering "
          "organisations, taking breach reports, issuing guidance or inspecting.",
-    "2": "The country has not ratified the Malabo Convention, and no source held says an "
+    "2": "The country has not ratified the Malabo Convention, and no source found says an "
          "authority has been appointed.",
     "1": "",
 }
@@ -95,7 +95,7 @@ def stage(rows: list[dict], as_at: dt.date, law: str, body: dict) -> dict:
             "practice": ""}
     if not law:
         return {**cols, "law": "", "stage": "no evidence", "sources": [],
-                "gaps": "Nothing held says whether a data protection law is in force."}
+                "gaps": "Nothing found says whether a data protection law is in force."}
     if not in_force:
         s, src = "1", pick("law", ("not-yet", "none")) + ratified
     elif appointed and acting:

@@ -10,6 +10,6 @@
 
 **Published figures.** [The CSA presented counts of 4,938 incidents for January to September 2026 and 4,604 incidents for the whole of 2025, with GH¢209.7 million and GH¢22.5 million in reported losses](<https://www.graphic.com.gh/news/general-news/ghana-news-ghana-records-ghc209m-in-cybercrime-losses-in-nine-months.html>). [The minister reported CERT-GH responded to 3,363 incidents for January-June 2026](<https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/>).
 
-***Noted, not assessed***. [Ghana Cybersecurity Industry Forum (GCIF)](<https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/>); [Cyber Security Authority](<https://drive.google.com/file/d/1Lp9IUxpd5YPh2tUyN3JefO1kvFvlREzl/preview>); [Bank of Ghana sectoral CERT / FICSOC](<https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/>).
+***Also on file***. [Ghana Cybersecurity Industry Forum (GCIF)](<https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/>); [Cyber Security Authority](<https://drive.google.com/file/d/1Lp9IUxpd5YPh2tUyN3JefO1kvFvlREzl/preview>); [Bank of Ghana sectoral CERT / FICSOC](<https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

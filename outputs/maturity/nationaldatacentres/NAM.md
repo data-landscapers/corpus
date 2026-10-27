@@ -6,8 +6,8 @@
 
 **Owned in the country.** Nationally owned: [Armada](<https://itweb.africa/article/namibia-encouraged-by-angola-on-datacentre-establishment/JN1gPvOA8oPMjL6m>) (Paratus); [Paratus Provider Data Centre](<https://www.linkedin.com/posts/paratusnamibia_draas-baas-businesscontinuity-activity-7458410724684619776-cplT>) (Paratus Namibia); [Paratus data centre](<https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Namibia-2026.pdf>). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
 
-**The state's data hosted nationally.** Nothing held says the government hosts its own data beside [the national data centres](<https://paratus.africa/docs/Paratus-Annual-Report-2025-online.pdf>).
+**The state's data hosted nationally.** Nothing found says the government hosts its own data beside [the national data centres](<https://paratus.africa/docs/Paratus-Annual-Report-2025-online.pdf>).
 
-***Noted, not assessed***. [National Data Centre (planned)](<https://itweb.africa/article/namibia-encouraged-by-angola-on-datacentre-establishment/JN1gPvOA8oPMjL6m>); [National data centre (planned)](<https://www.thevillager.com.na/national/2026/pressure-mounting-for-namibia-to-build-own-digital-infrastructure/>); [National Data Centre](<https://neweralive.na/ai-to-boost-digital-services-theofelus/>).
+***Also on file***. [National Data Centre (planned)](<https://itweb.africa/article/namibia-encouraged-by-angola-on-datacentre-establishment/JN1gPvOA8oPMjL6m>); [National data centre (planned)](<https://www.thevillager.com.na/national/2026/pressure-mounting-for-namibia-to-build-own-digital-infrastructure/>); [National Data Centre](<https://neweralive.na/ai-to-boost-digital-services-theofelus/>).
 
-***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.
+***Not found***. No source found names a second nationally owned data centre for hire at Tier III or above.

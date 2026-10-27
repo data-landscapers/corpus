@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The [law's text](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>) vests the agency's missions in the ministry in charge of the digital economy until the agency is set up.
 
-***Noted, not assessed***. [Loi n° 24.001 portant protection des données à caractère personnel](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>); [Agence en charge de la protection des données à caractère personnel](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>), run by the digital economy ministry in the interim.
+***Also on file***. [Loi n° 24.001 portant protection des données à caractère personnel](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>); [Agence en charge de la protection des données à caractère personnel](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>), run by the digital economy ministry in the interim.
 
-***Not held***. No source held says the Malabo Convention has been signed or ratified, or that an authority has been appointed. Nothing is held on how the law is applied or on any ruling.
+***Not found***. No source found says the Malabo Convention has been signed or ratified, or that an authority has been appointed. Nothing is held on how the law is applied or on any ruling.

@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest held fact is that the ICT minister said, as [ITWeb reported in May 2026](<https://itweb.africa/article/botswana-advances-robust-digital-ecosystems/rxP3jMBEb527A2ye>), that the Act was passed in November 2025 and establishes a National Cybersecurity Authority. [Botswana Daily News reported on 25 February 2026](<https://dailynews.gov.bw/news-detail/90260>) that the Act, signed into law the year before, sets up that Authority.
 
-***Noted, not assessed***. [National Cybersecurity Authority](<https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf>); [National Computer Security Incident Response](<https://dailynews.gov.bw/news-detail/90260>).
+***Also on file***. [National Cybersecurity Authority](<https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf>); [National Computer Security Incident Response](<https://dailynews.gov.bw/news-detail/90260>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

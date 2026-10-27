@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no AI legislation introduced by August 2026](<https://techafricanews.com/2026/08/05/namibia-and-deloitte-discuss-ai-strategy-and-digital-infrastructure-development/>), there is no general AI law to apply and no draft of one is named. The readiness assessment recommended [a national framework for governing AI](<https://www.unesco.org/en/articles/namibia-launches-artificial-intelligence-readiness-assessment-report>), and the strategy the minister described is the step the government has chosen to take first.
 
-***Noted, not assessed***. [Namibia AI Strategy Framework](<https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r>).
+***Also on file***. [Namibia AI Strategy Framework](<https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r>).
 
-***Not held***. 
+***Not found***. 

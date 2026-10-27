@@ -16,6 +16,6 @@
 
 **Last twelve months.** Expressions of interest for the consultancy [were due on 29 November 2025](<https://s3.nl.geostorage.net/tottestupload3/1311122902271-YS-54-.pdf>).
 
-***Noted, not assessed***. The [Digital Transformation Strategy 2025-2030](<https://nca.gov.so/somalia-launches-national-consultation-on-the-digital-transformation-strategy-2025-2030/>), the [National Communications Law of 2017](<https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf>) and the [Ninth National Development Plan 2020-2024](<https://documents1.worldbank.org/curated/en/099045403212411797/txt/IDU105f167fa1085214f8b1919f141249b1e8fae.txt>).
+***Also on file***. The [Digital Transformation Strategy 2025-2030](<https://nca.gov.so/somalia-launches-national-consultation-on-the-digital-transformation-strategy-2025-2030/>), the [National Communications Law of 2017](<https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf>) and the [Ninth National Development Plan 2020-2024](<https://documents1.worldbank.org/curated/en/099045403212411797/txt/IDU105f167fa1085214f8b1919f141249b1e8fae.txt>).
 
-***Not held***. The text of the 2025-2029 policy, a delivery plan for it and any report against its targets. The minister's statement of July 2025 and the notice of November 2025 differ on whether the policy is approved or still to be written. No domestic budget line is stated.
+***Not found***. The text of the 2025-2029 policy, a delivery plan for it and any report against its targets. The minister's statement of July 2025 and the notice of November 2025 differ on whether the policy is approved or still to be written. No domestic budget line is stated.

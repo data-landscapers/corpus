@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held facts are those two survey entries. [The institute's entry for the 2024 Annual Agricultural Survey says the Act of 2004 guarantees the confidentiality of respondents](<https://microdata.lisgislr.org/index.php/catalog/43>), and [the entry for the nutrition survey of the same year says the same](<https://microdata.lisgislr.org/index.php/catalog/41/study-description>). They show the Act cited to respondents twenty years after it was approved. A survey carried out is not counted as the law applied, and the entries name no regulation.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

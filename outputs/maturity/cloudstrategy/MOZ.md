@@ -6,6 +6,6 @@
 
 **Named hosting and moves.** Alongside the framework the minister [said the government plans over five years to establish domestic data centres able to host cloud services securely for banks and other institutions](<https://techafricanews.com/2025/12/04/mozambique-to-build-local-data-centres-and-new-regulations-for-cloud-adoption/>). He was speaking at a bank's anniversary event in Maputo. The [law firm's account of the December 2025 decree](<https://www.dlapiperafrica.com/en/mozambique/insights/2026/Approval-of-the-Data-Centre-Regulation>) describes the licensing of providers and no rule on where public bodies host.
 
-***Noted, not assessed***. [Bubble](<https://clubofmozambique.com/news/bubble-strengthens-services-with-two-data-centers-in-mozambique/>).
+***Also on file***. [Bubble](<https://clubofmozambique.com/news/bubble-strengthens-services-with-two-data-centers-in-mozambique/>).
 
-***Not held***. No source held says a government hosting or cloud policy is adopted and in force.
+***Not found***. No source found says a government hosting or cloud policy is adopted and in force.

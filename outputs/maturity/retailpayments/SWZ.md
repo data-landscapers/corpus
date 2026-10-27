@@ -8,6 +8,6 @@
 
 **National switch.** [The Central Bank of Eswatini says the national Eswatini Payment Switch connects banks and mobile money providers in service, 24/7](<https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/>). [The Eswatini Payment Switch connects banks and non-bank payment providers, with real-time transfers between bank accounts and wallets in service](<https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/>). [Eswatini Positive News says the Eswatini Payment Switch enables real-time payments between participating banks and digital wallets](<https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/>).
 
-***Noted, not assessed***. [Social Grant Disbursement System](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>).
+***Also on file***. [Social Grant Disbursement System](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

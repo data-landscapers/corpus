@@ -27,7 +27,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "The Bahmni EMR deployed at Juba Teaching Hospital and Nimule Hospital in 2019 did not reach routine clinical use or scale and was not accepted for wider use (SSD-042, SSD-043), so no tier is held as using an EMR; its donor finance is dated 2019, outside the 36 months. SSD-005 is from the excluded source and sets nothing, so no dated statement of paper records at every tier is held either. systems.csv otherwise holds a noted class, the OpenMRS ART E-register at five sites (tracker), and an unnamed, unclassified 22.4% of facilities with facility-wide electronic systems.",
+      "gaps": "The Bahmni EMR deployed at Juba Teaching Hospital and Nimule Hospital in 2019 did not reach routine clinical use or scale and was not accepted for wider use (SSD-042, SSD-043), so no tier has been found as using an EMR; its donor finance is dated 2019, outside the 36 months. SSD-005 is from the excluded source and sets nothing, so no dated statement of paper records at every tier has been found either. systems.csv otherwise holds a noted class, the OpenMRS ART E-register at five sites (tracker), and an unnamed, unclassified 22.4% of facilities with facility-wide electronic systems.",
       "note": "Stage 2 needs records in use at some hospitals or a dated preparatory act inside 36 months; the 2019 deployment never reached routine use and is neither. Stage 1 needs a dated statement of absence that only the excluded source gives.",
       "as_at": "2026-10-13"
     }

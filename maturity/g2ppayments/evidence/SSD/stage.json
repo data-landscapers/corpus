@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SSD-001;SSD-002",
-      "gaps": "No source held since October 2023 says: does one government programme pay people digitally.",
+      "gaps": "No source found since October 2023 says: does one government programme pay people digitally.",
       "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
       "as_at": "2026-10-18"
     }

@@ -6,8 +6,8 @@
 
 **Authority.** [EuroMedAI says HACA, the audiovisual authority, adopted Decision No. 50-26 on AI-generated electoral content on radio and television, and the CNDP issued guidance in late August 2026 asking that AI-produced content be identified](<https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/>). [The CNDP stated that one of its missions is to ensure that AI processing of personal data complies with Law 09-08](<https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique-IA-et-protection-des-donnees-a-caractere-personnel-FR.pdf>).
 
-**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/>).
+**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/>).
 
-***Noted, not assessed***. [CNDP](<https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique-IA-et-protection-des-donnees-a-caractere-personnel-FR.pdf>).
+***Also on file***. [CNDP](<https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique-IA-et-protection-des-donnees-a-caractere-personnel-FR.pdf>).
 
-***Not held***. No source held since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not found***. No source found since October 2023 gives an enforcement or redress decision about a harm from AI.

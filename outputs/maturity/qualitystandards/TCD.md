@@ -6,6 +6,6 @@
 
 **Certification.** The agency's [site](<https://atnor.td/>) is the nearest text held, and it names no certification against a standard on information technology or data.
 
-***Noted, not assessed***. [Conseil National de la Qualité (CONAQ)](<https://www.atnor.td/la-loi-relative-a-la-normalisation/>); [Comité Interministériel de Règlementation (CNIR)](<https://www.atnor.td/la-loi-relative-a-la-normalisation/>).
+***Also on file***. [Conseil National de la Qualité (CONAQ)](<https://www.atnor.td/la-loi-relative-a-la-normalisation/>); [Comité Interministériel de Règlementation (CNIR)](<https://www.atnor.td/la-loi-relative-a-la-normalisation/>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

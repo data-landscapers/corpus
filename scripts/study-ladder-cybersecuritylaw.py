@@ -41,7 +41,7 @@ GAPS = {
          "ending in the last two years, is held.",
     "3": "No arrest, charge, prosecution, conviction or penalty under the law in the last three "
          "years is held.",
-    "2": "No source held says a cybercrime or cybersecurity law is in force.",
+    "2": "No source found says a cybercrime or cybersecurity law is in force.",
     "1": "",
 }
 
@@ -82,7 +82,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
-                "gaps": "Nothing held names a cybercrime or cybersecurity law or bill, or says there is none."}
+                "gaps": "Nothing found names a cybercrime or cybersecurity law or bill, or says there is none."}
     if reported:
         s, src = "5", reported + law[:1]
     elif used:

@@ -10,6 +10,6 @@
 
 **Implementing and acting.** On 12 March 2026 the CDP, after a complaint, [inspected Digicommunication International unannounced and ordered the meeting-room camera uninstalled](<https://aps.sn/plus-de-300-dossiers-traites-par-la-commission-de-protection-des-donnees-personnelles-au-premier-trimestre-2026-officiel/>). For April to June 2026 it [reported 195 files handled](<https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html>), 39 authorisations issued and one processing rejected. In 2024 it [served a formal notice on SOLID SA](<https://senego.com/la-plateforme-kay-voter-mise-en-demeure-par-la-cdp-pour-des-sms-non-sollicites-sur-le-report-de-lelection_1688747.html>), operator of the Kay Voter platform.
 
-***Noted, not assessed***. [Loi n° 2008-12 du 25 janvier 2008](<https://aps.sn/donnees-personnelles-la-legislation-senegalaise-doit-etre-modernisee-et-adaptee-aux-enjeux-de-lia-expert/>); [Commission de protection des données personnelles (CDP)](<https://www.mondaq.com/data-protection/693598/data-security-and-cybercrime-in-senegal>).
+***Also on file***. [Loi n° 2008-12 du 25 janvier 2008](<https://aps.sn/donnees-personnelles-la-legislation-senegalaise-doit-etre-modernisee-et-adaptee-aux-enjeux-de-lia-expert/>); [Commission de protection des données personnelles (CDP)](<https://www.mondaq.com/data-protection/693598/data-security-and-cybercrime-in-senegal>).
 
-***Not held***. Nothing on the four questions is outstanding.
+***Not found***. Nothing on the four questions is outstanding.

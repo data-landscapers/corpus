@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-030;SLE-043;SLE-048;SLE-050",
-      "gaps": "No fact says a primary clinic keys its own reports: the 96% of SLE-010, SLE-032 and SLE-039 is DHIS2 deployed in facilities surveyed, with tracker applications joined in, and SLE-041 puts T3 and T4 under that deployment only. The January 2023 facts disagree on where data is digitised, at the facility in hospitals (SLE-042) and at the district (SLE-043); the district stands for the clinics, on the April 2020 procedure (SLE-048), and nothing dated since says whether the 2020 plan to move entry to community health centres took effect. Finance is held only for 2022, outside the 36 months, and no event is held for the last twelve months.",
+      "gaps": "No fact says a primary clinic keys its own reports: the 96% of SLE-010, SLE-032 and SLE-039 is DHIS2 deployed in facilities surveyed, with tracker applications joined in, and SLE-041 puts T3 and T4 under that deployment only. The January 2023 facts disagree on where data is digitised, at the facility in hospitals (SLE-042) and at the district (SLE-043); the district stands for the clinics, on the April 2020 procedure (SLE-048), and nothing dated since says whether the 2020 plan to move entry to community health centres took effect. Finance is held only for 2022, outside the 36 months, and no event has been found for the last twelve months.",
       "note": "Clinics' paper forms are keyed into DHIS2 at the district and hospitals key their own, which meets the whole of stage 3. Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and the only published figures are of deployment and completeness."
     },
     {

@@ -6,8 +6,8 @@
 
 **Delivered.** [The WSIS Forum 2026 session description says HandiConnect, backed by the DRC Ministry of Telecommunications, the Ministry delegated to Persons with Disabilities and FONA, lets users access state services and G2P social-protection payments on basic feature phones via USSD](<https://www.itu.int/net4/wsis/forum/2026/Agenda/Session/220>).
 
-**Audited.** No source held since October 2023 gives the results of an accessibility audit of public websites or digital services. The nearest held fact: [the one given above](<https://www.itu.int/net4/wsis/forum/2026/Agenda/Session/220>).
+**Audited.** No source found since October 2023 gives the results of an accessibility audit of public websites or digital services. The nearest held fact: [the one given above](<https://www.itu.int/net4/wsis/forum/2026/Agenda/Session/220>).
 
-***Noted, not assessed***. [RehApp](<https://www.lilianefonds.org/news/our-year-in-research>); [DARE Index](<https://g3ict.org/country-profile/congo-democratic-republic-of>).
+***Also on file***. [RehApp](<https://www.lilianefonds.org/news/our-year-in-research>); [DARE Index](<https://g3ict.org/country-profile/congo-democratic-republic-of>).
 
-***Not held***. No source held since October 2023 gives the results of an accessibility audit of public websites or digital services.
+***Not found***. No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.

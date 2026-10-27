@@ -6,8 +6,8 @@
 
 **Share measured.** [The 2025 ZIMSTAT and POTRAZ ICT household survey found 43.7 percent of Zimbabweans have basic digital skills](<https://www.newzimbabwe.com/ai-gains-ground-as-zimbabweans-turn-to-digital-learning/>).
 
-**Half or more.** No source held since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://www.newzimbabwe.com/ai-gains-ground-as-zimbabweans-turn-to-digital-learning/>).
+**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://www.newzimbabwe.com/ai-gains-ground-as-zimbabweans-turn-to-digital-learning/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives a measured share of half or more of adults with basic digital skills.
+***Not found***. No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.

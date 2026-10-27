@@ -8,6 +8,6 @@
 
 **A household survey published.** [Statistics South Africa released the Quarterly Labour Force Survey Q2 2026 (P0211, fieldwork April to June 2026), a household-based sample survey of about 30,000 dwellings, reporting an unemployment rate of 33.6%](<https://www.statssa.gov.za/publications/P0211/P02112ndQuarter2026.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -8,6 +8,6 @@
 
 **Mostly online.** [The DGID says use of SENTAX is mandatory and paper returns are no longer accepted for Large Enterprise Directorate taxpayers from 1 September 2026, and for the Dakar medium-enterprise centres and regulated professions centre from 1 October 2026](<https://www.dgid.sn/sentax>).
 
-***Noted, not assessed***. [SENTAX](<https://www.dgid.sn/sentax>).
+***Also on file***. [SENTAX](<https://www.dgid.sn/sentax>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

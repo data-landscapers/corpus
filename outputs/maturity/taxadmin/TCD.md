@@ -6,8 +6,8 @@
 
 **Electronic payment.** [The Director General of Taxes said that through E-Tax taxpayers can pay their taxes online, with banks and mobile operators facilitating electronic payments](<https://tchadinfos.com/2025/08/29/la-direction-generale-des-impots-lance-une-campagne-nationale-de-sensibilisation-sur-le-civisme-fiscal-et-la-plateforme-e-tax/>). [The DGI says E-Tax allows taxpayers to pay online all taxes they owe, and it is interconnected with eight banks](<https://tchadinfos.com/2024/03/20/vulgarisation-de-e-tax-la-direction-des-impots-echange-avec-les-experts-comptables-et-les-conseillers-fiscaux/>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://tchadinfos.com/2025/08/29/la-direction-generale-des-impots-lance-une-campagne-nationale-de-sensibilisation-sur-le-civisme-fiscal-et-la-plateforme-e-tax/>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://tchadinfos.com/2025/08/29/la-direction-generale-des-impots-lance-une-campagne-nationale-de-sensibilisation-sur-le-civisme-fiscal-et-la-plateforme-e-tax/>).
 
-***Noted, not assessed***. [SIGFIP](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>); [Facturation electronique normalisee (FEN)](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>); [IGL Mobile](<https://dgi.td/>).
+***Also on file***. [SIGFIP](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>); [Facturation electronique normalisee (FEN)](<https://tchadinfos.com/2026/05/05/mandoul-les-autorites-administratives-et-locales-formees-au-sigfip-et-aux-outils-numeriques-fiscaux/>); [IGL Mobile](<https://dgi.td/>).
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

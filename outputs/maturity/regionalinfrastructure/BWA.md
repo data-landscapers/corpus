@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** A fibre route into Zimbabwe from the Botswana border [was live and carrying traffic on 3 July 2026](<https://paratus.africa/blog/paratus-zimbabwe-and-powertel-switch-on-new-digital-highway/>). The two companies behind it describe the section from Plumtree to Bulawayo as the first active route of its network into Zimbabwe and as linking Zimbabwe to Botswana.
 
-***Noted, not assessed***. [BoFiNet fibre network](<https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk>); [Digital Delta Data Centre](<https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk>).
+***Also on file***. [BoFiNet fibre network](<https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk>); [Digital Delta Data Centre](<https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk>).
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

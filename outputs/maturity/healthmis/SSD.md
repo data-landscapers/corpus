@@ -8,6 +8,6 @@
 
 **Reporting rate published.** [The WHO/MoH maturity assessment records the completeness rate for routine reports at 62% and for indicator data at 57%](<https://www.afro.who.int/sites/default/files/2025-03/Knowledge%20Management%20Series%20for%20Health%20Maturity%20of%20the%20Health%20Information%20System%20of%20South%20Sudan%20_%20progress%2C%20gaps%20and%20priorities%20for%20investment.pdf>).
 
-***Noted, not assessed***. [FLLOW-M dashboard](<https://dhis2.org/climate/country-profiles/south-sudan/>); [mSupply eLMIS](<https://www.undp.org/sites/g/files/zskgke326/files/2026-06/undp-ss-rsshbrief-2026.pdf>); [EiE-MIS](<https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response>).
+***Also on file***. [FLLOW-M dashboard](<https://dhis2.org/climate/country-profiles/south-sudan/>); [mSupply eLMIS](<https://www.undp.org/sites/g/files/zskgke326/files/2026-06/undp-ss-rsshbrief-2026.pdf>); [EiE-MIS](<https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

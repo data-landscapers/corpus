@@ -257,7 +257,7 @@
     var c = cell(iso), tip = $("mat-tooltip"), s = stageInfo(c);
     tip.innerHTML = '<div class="mat-tip__name">' + esc(data.countries[iso] || iso) + "</div>" +
       '<span class="mat-chip' + (s === data.blank ? " mat-chip--blank" : "") + '" style="background:' + s.color + ";color:" + s.ink + '">' + esc(stageText(c)) + "</span>" +
-      '<p class="mat-tip__short">' + esc(c.short || "Nothing held.") + "</p>" +
+      '<p class="mat-tip__short">' + esc(c.short || "Nothing found.") + "</p>" +
       '<p class="mat-tip__cta">Click for detail · double-click for the report</p>';
     tip.hidden = false;
     var pad = 14, tw = tip.offsetWidth, th = tip.offsetHeight;
@@ -326,7 +326,7 @@
       "<span><b>Stage last moved</b> " + esc(moved) + "</span></p>" +
       '<span class="mat-side__btns"><a class="mat-btn mat-btn--primary" href="countries/' + iso.toLowerCase() + "/#" +
       esc(state.indicator) + '">Country maturity report</a>' + statusLink + "</span></div></div>" +
-      '<p class="mat-side__short">' + esc(c.short || "Nothing held.") + "</p>" +
+      '<p class="mat-side__short">' + esc(c.short || "Nothing found.") + "</p>" +
       '<div class="mat-side__long">' + (c.summary || "") + "</div>";
     box.scrollTop = 0;
   }

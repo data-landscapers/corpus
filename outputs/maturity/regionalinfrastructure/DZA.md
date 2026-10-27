@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The two countries' ministers [launched the operation of the trans-Saharan fibre link at Assamaka on 6 October 2026](<https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/>), joining In-Guezzam in Algeria to the Arlit and Agadez region of Niger at 100 gigabits a second from the start, to carry data traffic between the two countries. Niger's ministry [called the link operational](<https://mcnti.gouv.ne/souverainete-et-integration-numerique-lancement-de-lexploitation-de-la-liaison-transsaharienne-en-fibre-optique-niger-algerie-a-assamaka/>) the same day, and the [national press agency](<https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/>) reported the launch.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports capacity sold or traffic carried across the border, or a user from the other country named.

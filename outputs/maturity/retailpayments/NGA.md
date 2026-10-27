@@ -8,6 +8,6 @@
 
 **National switch.** [NIBSS says the National Payment Stack is one rail connecting banks and mobile money operators, and has passed 100 million successful transactions](<https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/>).
 
-***Noted, not assessed***. [PAPSS](<https://thecondia.com/remita-launches-super-app/>); [Remita](<https://thecondia.com/remita-launches-super-app/>).
+***Also on file***. [PAPSS](<https://thecondia.com/remita-launches-super-app/>); [Remita](<https://thecondia.com/remita-launches-super-app/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

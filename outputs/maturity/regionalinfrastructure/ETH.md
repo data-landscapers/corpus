@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The three operators [presented Horizon to large cloud companies, carriers and suppliers in Addis Ababa on 7 September 2026](<https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/>), in a phase before commercial launch, to gather interest before the corridor is deployed and opened. The corridor [had no announced buyer of capacity and no date for service](<https://btw.media/ar/horizon-fiber-masar-badil-huquq-saa>) three days later.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a shared link or facility is in service.
+***Not found***. No source found says a shared link or facility is in service.

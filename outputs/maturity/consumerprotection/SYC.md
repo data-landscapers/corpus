@@ -8,6 +8,6 @@
 
 **Enforcement reported.** [The Central Bank of Seychelles reports that payment service providers received 25 complaints in 2025, 14 in the first half and 11 in the second](<https://www.cbs.sc/Downloads/ConsumerProtection/ComplaintsData/Consumer%20Complaints%20Data%20-H1%20and%20H2%202025.pdf>).
 
-***Noted, not assessed***. [Fusepay](<https://www.fusepay.app/blog-posts/fusepay-receives-final-approval-to-operate-as-a-licensed-payment-service-provider-in-seychelles>).
+***Also on file***. [Fusepay](<https://www.fusepay.app/blog-posts/fusepay-receives-final-approval-to-operate-as-a-licensed-payment-service-provider-in-seychelles>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

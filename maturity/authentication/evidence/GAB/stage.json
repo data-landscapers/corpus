@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GAB-003;GAB-004",
-      "gaps": "No source held since October 2023 says an authentication service is in use.",
+      "gaps": "No source found since October 2023 says an authentication service is in use.",
       "note": "Rebuild: the World Bank-financed Gabon Digital programme includes a national digital identity with authenticated signatures and validations (GAB-003, GAB-004). Nothing is in service.",
       "as_at": "2026-10-22"
     }

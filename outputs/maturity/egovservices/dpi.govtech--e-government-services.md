@@ -68,7 +68,7 @@ A single government gateway with shared sign-in was in service in 2026; its use 
 
 ### Ethiopia: 4 Operating
 
-A one-stop digital platform for government services with national ID sign-in ran in 2026; how many use it is not known.
+A one-stop digital platform for government services with national ID sign-in ran in 2026; no source found says how many use it.
 
 - National ID Ethiopia's deck describes Mesob as a Fayda-based digital one-stop shop for e-government services, listed with agriculture and health services ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
 
@@ -87,7 +87,7 @@ A single government gateway with shared sign-in was in service in 2025; its use 
 
 ### Togo: 4 Operating
 
-A national portal for public services with national ID sign-in ran in 2026; how many use it is not known.
+A national portal for public services with national ID sign-in ran in 2026; no source found says how many use it.
 
 - The deck describes a fully integrated one-stop portal for public services with secure access through the unique identification number; the deck is undated and is dated to May 2026, the ID4Africa 2026 meeting it was given at ([source, 2026-05](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
 - Togo First reports that the ministry's two procedures, five services of state broadcaster TVT and five of Radio Lomé, twelve in all, became available through the national public services portal from early the week of 28 September 2026 ([source, 2026-09](https://www.togofirst.com/en/public-services/2909-20205-togo-adds-more-administrative-procedures-to-online-public-services-portal)).
@@ -247,7 +247,7 @@ Government services were going online in 2026; ten or more online are not on rec
 
 ### Liberia: 2 Nascent
 
-The revenue authority put duty-free applications online in 2025; whether ten or more services can be completed online is not known.
+The revenue authority put duty-free applications online in 2025; no source found says whether ten or more services can be completed online.
 
 - The Liberia Revenue Authority says it launched an Online Duty-Free Application Platform where qualified individuals and institutions submit duty-free requests electronically ([source, 2025-07](https://revenue.lra.gov.lr/lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platform/)).
 
@@ -330,42 +330,42 @@ Government services were going online in 2026; ten or more online are not on rec
 
 ### Burundi: Unplaced
 
-Nothing held since 2023 names government services online, so no stage is set.
+Nothing found since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government services can be used online.
+Not established: Nothing found since October 2023 says whether government services can be used online.
 
 ### Cameroon: Unplaced
 
-Nothing held since 2023 names government services online, so no stage is set.
+Nothing found since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government services can be used online.
+Not established: Nothing found since October 2023 says whether government services can be used online.
 
 ### Central African Republic: Unplaced
 
-Nothing held since 2023 names government services online, so no stage is set.
+Nothing found since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government services can be used online.
+Not established: Nothing found since October 2023 says whether government services can be used online.
 
 ### Djibouti: Unplaced
 
-Nothing held since 2023 names government services online, so no stage is set.
+Nothing found since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government services can be used online.
+Not established: Nothing found since October 2023 says whether government services can be used online.
 
 ### Equatorial Guinea: Unplaced
 
-Nothing held since 2023 names government services online, so no stage is set.
+Nothing found since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government services can be used online.
+Not established: Nothing found since October 2023 says whether government services can be used online.
 
 ### Guinea-Bissau: Unplaced
 
-Nothing held since 2023 names government services online, so no stage is set.
+Nothing found since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government services can be used online.
+Not established: Nothing found since October 2023 says whether government services can be used online.
 
 ### Zimbabwe: Unplaced
 
-Nothing held since 2023 names government services online, so no stage is set.
+Nothing found since 2023 names government services online, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether government services can be used online.
+Not established: Nothing found since October 2023 says whether government services can be used online.

@@ -78,7 +78,7 @@ Satellite broadband licensed and on sale by 2026, on one satellite network.
 
 ### Cape Verde: 3 Established
 
-Satellite broadband from one network was on sale in 2026 and the regulator counts its share; a second network is not known.
+Satellite broadband from one network was on sale in 2026 and the regulator counts its share; no source found reports a second network.
 
 - A table of Starlink availability in Africa lists Cabo Verde as 'Available'; published 2026-07-17, which is used as the date ([source, 2026-07-17](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html)).
 - ARME's report for the second quarter of 2026 gives Starlink's share of internet access subscriptions in Cabo Verde as 0.87%, against 72.6% for Cabo Verde Telecom and 26.5% for Unitel ([source, 2026-06](https://www.diarioeconomico.co.mz/2026/10/24/mundo/africa/cabo-verde-starlink-triplica-quota-de-trafego-de-internet-e-ja-representa-18-do-total)).
@@ -259,7 +259,7 @@ A satellite broadband provider licensed by 2026, with no service on sale held.
 
 ### Mauritius: 2 Nascent
 
-OneWeb was authorised and operating through a local provider in 2026; whether households or businesses can buy it is not known.
+OneWeb was authorised and operating through a local provider in 2026; no source found says whether households or businesses can buy it.
 
 - ICTA's executive director told L'Express that, under the authority's decision of 22 May 2025 on non-geostationary satellite broadband, service must be provided through a licensed Mauritian internet provider with an earth-station licence for each terminal, and that OneWeb has been authorised and is operating through its local partner; he does not say who buys the service ([source, 2026-08-23](https://lexpress.mu/s/atishay-sookun-starlink-est-le-bienvenu-a-maurice-sil-respecte-nos-regles-561795)).
 
@@ -355,6 +355,6 @@ A 2026 source says satellite broadband is not licensed or is banned.
 
 ### Eritrea: No evidence
 
-Nothing held says a satellite broadband provider is licensed, or that none is, so no stage is set.
+Nothing found says a satellite broadband provider is licensed, or that none is, so no stage is set.
 
-Not established: Nothing held says a satellite broadband provider is licensed, or that none is.
+Not established: Nothing found says a satellite broadband provider is licensed, or that none is.

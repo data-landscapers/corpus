@@ -8,6 +8,6 @@
 
 **Linked to ID.** [LEAP says that in April 2026 it used the Ghana National Household Registry to identify 400,000 newly eligible households for enrolment](<http://leap.mogcsp.gov.gh/background.php>).
 
-***Noted, not assessed***. [Ghana National Household Registry](<http://leap.mogcsp.gov.gh/background.php>); [GhIPSS](<http://leap.mogcsp.gov.gh/background.php>).
+***Also on file***. [Ghana National Household Registry](<http://leap.mogcsp.gov.gh/background.php>); [GhIPSS](<http://leap.mogcsp.gov.gh/background.php>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

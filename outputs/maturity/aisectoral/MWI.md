@@ -8,6 +8,6 @@
 
 **Results reported.** The preprint reports that the [transcription error rate fell from 1.6% to 0.4% over 24 months](<https://www.medrxiv.org/content/10.64898/2026.01.08.26343708v1>), with 99.8% of mandatory data elements complete and about 94.6% of records submitted on time.
 
-***Noted, not assessed***. [Smart City Surveillance Initiative](<https://itweb.africa/article/malawi-backs-ai-crime-cameras/G98Yd7LGnmzvX2PD>).
+***Also on file***. [Smart City Surveillance Initiative](<https://itweb.africa/article/malawi-backs-ai-crime-cameras/G98Yd7LGnmzvX2PD>).
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

@@ -6,8 +6,8 @@
 
 **One registry shared by programmes.** [The FDSI director general said on 8 July 2026 that RSU data have been used by the ANIES and IMF Guichet Choc Alimentaire project, by UNICEF to follow malnourished children and by SOS Villages d'Enfants for family-strengthening, and that the RSU is the single entry point of social interventions under its decree](<https://mediaguinee.com/2026/07/guinee-le-fdsi-presente-le-rapport-danalyse-du-registre-social-unifie-qui-cartographie-977-610-menages-soit-4-860-075-individus-a-travers-le-pays/>).
 
-**Linked to the ID and another sector.** No source held since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://mediaguinee.com/2026/07/guinee-le-fdsi-presente-le-rapport-danalyse-du-registre-social-unifie-qui-cartographie-977-610-menages-soit-4-860-075-individus-a-travers-le-pays/>).
+**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://mediaguinee.com/2026/07/guinee-le-fdsi-presente-le-rapport-danalyse-du-registre-social-unifie-qui-cartographie-977-610-menages-soit-4-860-075-individus-a-travers-le-pays/>).
 
-***Noted, not assessed***. [Guichet Choc Alimentaire](<https://anies.gov.gn/guichet-choc-alimentaire-lanies-et-le-fdsi-signent-un-protocole-daccord/>).
+***Also on file***. [Guichet Choc Alimentaire](<https://anies.gov.gn/guichet-choc-alimentaire-lanies-et-le-fdsi-signent-un-protocole-daccord/>).
 
-***Not held***. No source held since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.

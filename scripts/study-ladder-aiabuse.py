@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "aiabuse"
 SUB = "aiharm"
-GAPS = {'4': 'No source held since October 2023 gives an enforcement or redress decision about a harm from AI.', '3': 'No source held since October 2023 says a body is designated with a mandate over AI.', '2': 'No source held since October 2023 says: is a rule on ai harms in force.', '1': 'No source held since October 2023 says: is a rule or authority on ai harms being drafted.', '5': ''}
-EMPTY = 'Nothing held says whether anything addresses harms from AI.'
-UNPLACED = 'Nothing held since October 2023 says whether a rule on harms from AI is drafted or in force.'
+GAPS = {'4': 'No source found since October 2023 gives an enforcement or redress decision about a harm from AI.', '3': 'No source found since October 2023 says a body is designated with a mandate over AI.', '2': 'No source found since October 2023 says: is a rule on ai harms in force.', '1': 'No source found since October 2023 says: is a rule or authority on ai harms being drafted.', '5': ''}
+EMPTY = 'Nothing found says whether anything addresses harms from AI.'
+UNPLACED = 'Nothing found since October 2023 says whether a rule on harms from AI is drafted or in force.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

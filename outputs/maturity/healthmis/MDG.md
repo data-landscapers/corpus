@@ -6,8 +6,8 @@
 
 **Linked.** [CommCare, which covers care, surveillance and reporting including COVID-19 and plague tracking, integrates its data into the national health information management system, per USAID ACCESS and Dimagi](<https://msh.org/story/mobile-app-technology-improves-health-delivery-in-rural-madagascar/>).
 
-**Reporting rate published.** No source held since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://msh.org/story/mobile-app-technology-improves-health-delivery-in-rural-madagascar/>).
+**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://msh.org/story/mobile-app-technology-improves-health-delivery-in-rural-madagascar/>).
 
-***Noted, not assessed***. [mTOMADY](<https://www.linkedin.com/posts/mtomady_digitalhealth-interoperability-dhis2-activity-7381257757754150912-s2DE>); [CommCare](<https://msh.org/story/mobile-app-technology-improves-health-delivery-in-rural-madagascar/>).
+***Also on file***. [mTOMADY](<https://www.linkedin.com/posts/mtomady_digitalhealth-interoperability-dhis2-activity-7381257757754150912-s2DE>); [CommCare](<https://msh.org/story/mobile-app-technology-improves-health-delivery-in-rural-madagascar/>).
 
-***Not held***. No source held since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.

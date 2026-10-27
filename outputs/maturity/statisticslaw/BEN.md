@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is a decree that rests on the law. [Decree 2026-002 of 21 January 2026](<https://sgg.gouv.bj/doc/decret-2026-002/download>) cites the law of 27 June 2022 among its legal bases, which shows the law in use by the government in 2026. The decree is held for that citation; what it regulates is not stated in what is held of it.
 
-***Noted, not assessed***. [Stratégie Nationale de Développement de la Statistique (SNDS-3) 2020-2023](<https://instad.bj/images/docs/cns/programme-SNDS/SNDS-3%20VF.pdf>); [African Charter on Statistics](<https://instad.bj/images/docs/cns/programme-SNDS/SNDS-3%20VF.pdf>).
+***Also on file***. [Stratégie Nationale de Développement de la Statistique (SNDS-3) 2020-2023](<https://instad.bj/images/docs/cns/programme-SNDS/SNDS-3%20VF.pdf>); [African Charter on Statistics](<https://instad.bj/images/docs/cns/programme-SNDS/SNDS-3%20VF.pdf>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

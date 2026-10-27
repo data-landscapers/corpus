@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing held names a digital authentication service, or says there is none.",
-      "note": "Rebuild: no evidence row is held on authentication.",
+      "gaps": "Nothing found names a digital authentication service, or says there is none.",
+      "note": "Rebuild: no evidence row has been found on authentication.",
       "as_at": "2026-10-22"
     }
   ]

@@ -320,36 +320,36 @@ In 2025 the power went off 21.42 times a month, as reported by firms surveyed by
 
 ### Algeria: No evidence
 
-No count of power outages for 2023 or later is held, so no stage is set.
+No count of power outages for 2023 or later has been found, so no stage is set.
 
-Not established: Nothing held gives how often the power goes off.
+Not established: Nothing found gives how often the power goes off.
 
 ### Eritrea: No evidence
 
-No count of power outages for 2023 or later is held, so no stage is set.
+No count of power outages for 2023 or later has been found, so no stage is set.
 
-Not established: Nothing held gives how often the power goes off.
+Not established: Nothing found gives how often the power goes off.
 
 ### Libya: No evidence
 
-No count of power outages for 2023 or later is held, so no stage is set.
+No count of power outages for 2023 or later has been found, so no stage is set.
 
-Not established: Nothing held gives how often the power goes off.
+Not established: Nothing found gives how often the power goes off.
 
 ### Madagascar: No evidence
 
-No count of power outages for 2023 or later is held, so no stage is set.
+No count of power outages for 2023 or later has been found, so no stage is set.
 
-Not established: No figure for 2023 or later is held for how often the power goes off.
+Not established: No figure for 2023 or later has been found for how often the power goes off.
 
 ### South Africa: No evidence
 
-No count of power outages for 2023 or later is held, so no stage is set.
+No count of power outages for 2023 or later has been found, so no stage is set.
 
-Not established: No figure for 2023 or later is held for how often the power goes off.
+Not established: No figure for 2023 or later has been found for how often the power goes off.
 
 ### Sudan: No evidence
 
-No count of power outages for 2023 or later is held, so no stage is set.
+No count of power outages for 2023 or later has been found, so no stage is set.
 
-Not established: No figure for 2023 or later is held for how often the power goes off.
+Not established: No figure for 2023 or later has been found for how often the power goes off.

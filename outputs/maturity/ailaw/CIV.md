@@ -2,6 +2,6 @@
 
 ## AI law or binding rule
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+***Not found***. Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.

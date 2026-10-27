@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The regional regulators' organisation [reports that Uganda's inbound One Network Area cross-border voice traffic fell 28 per cent in 2025, from 1,103.2 million to 794.4 million minutes](<https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf>), which it attributes to internet calling services replacing voice. [The same report](<https://admin.eaco.int/assets/e774142a-21fd-48e2-bdfd-3309d7d559d7?download=EACO%20Regional%20Communications%20Sector%20Statistics%20Report%202025.pdf>) covers the One Network Area, the East African Community's shared roaming arrangement, under which roaming tariffs between member states were cut.
 
-***Noted, not assessed***. [UJ Connect (Uganda-Japan ICT Industry Promotion Project)](<https://techreviewafrica.com/news/7522/uganda-japan-discuss-expanding-ict-cooperation-through-uj-connect>); [Partner-state-owned communications satellite feasibility study](<https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/>).
+***Also on file***. [UJ Connect (Uganda-Japan ICT Industry Promotion Project)](<https://techreviewafrica.com/news/7522/uganda-japan-discuss-expanding-ict-cooperation-through-uj-connect>); [Partner-state-owned communications satellite feasibility study](<https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/>).
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

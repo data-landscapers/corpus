@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COD-001",
-      "gaps": "No source held says the platform is in service carrying data between public bodies' systems; the third revenue agency had yet to load its data.",
+      "gaps": "No source found says the platform is in service carrying data between public bodies' systems; the third revenue agency had yet to load its data.",
       "note": "Fact 2026-09-03: a data warehouse interconnecting the three revenue agencies is in place with two loading data, a platform being built between a few systems; nothing says it is in service across them.",
       "as_at": "2026-10-22"
     }

@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** With [no exchange point in service](<https://www.peeringdb.com/ix/4450>), none reaches beyond one city. An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

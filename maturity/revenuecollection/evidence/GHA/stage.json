@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-003",
-      "gaps": "No source held since October 2023 says taxes or fees are paid electronically; GRA's Ghana.gov and ITAPS payment facts date from 2021 and 2019.",
+      "gaps": "No source found since October 2023 says taxes or fees are paid electronically; GRA's Ghana.gov and ITAPS payment facts date from 2021 and 2019.",
       "note": "The CitizenApp launched in October 2024 lists tax-return filing among its services (GHA-003), which is e-filing announced; nothing in the window says tax is paid electronically, so not stage 3.",
       "as_at": "2026-10-23"
     }

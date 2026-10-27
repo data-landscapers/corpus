@@ -6,6 +6,6 @@
 
 **Certification.** The [list of compulsory standards](<https://www.tbs.go.tz/uploads/text-editor/files/LIST%20OF%20COMPULSORY%20TANZANIA%20STANDARD_1785231917.pdf>) is the nearest text held on certification. It names no scheme for certifying an organisation against a standard on information technology or data, and no organisation the bureau has certified against any standard.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says that the bureau, or a certifier accredited in the country, certifies organisations against a national standard on information technology or data.
+***Not found***. No source found says that the bureau, or a certifier accredited in the country, certifies organisations against a national standard on information technology or data.

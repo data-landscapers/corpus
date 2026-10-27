@@ -6,6 +6,6 @@
 
 **Required and followed.** The same report says [the updated standards are to be progressed and tested in priority digital services by September 2026](<https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf>). It cites no instrument that makes the standards compulsory for departments and names no body that enforces them, and no department is reported as certified against them. [The DPSA reply](<https://pmg.org.za/committee-question/32258/>) presents the standards as guidance. Exchange systems named in the same reporting are noted below, since no source ties them to the standards.
 
-***Noted, not assessed***. [MzansiXchange](<https://mzansixchange.treasury.gov.za/pilot/>); [MyMzansi](<https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf>); [Roadmap for the Digital Transformation of Government](<https://www.gov.za/news/speeches/director-general-duncan-pieterse-mzansixchange-pilot-launch-09-oct-2025>).
+***Also on file***. [MzansiXchange](<https://mzansixchange.treasury.gov.za/pilot/>); [MyMzansi](<https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf>); [Roadmap for the Digital Transformation of Government](<https://www.gov.za/news/speeches/director-general-duncan-pieterse-mzansixchange-pilot-launch-09-oct-2025>).
 
-***Not held***. No instrument held makes the Minimum Interoperability Standards compulsory and names who enforces them, and no department is reported following them.
+***Not found***. No instrument held makes the Minimum Interoperability Standards compulsory and names who enforces them, and no department is reported following them.

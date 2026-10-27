@@ -8,6 +8,6 @@
 
 **Exchange with partners.** [ECOWAS says Burkina Faso was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024](<https://www.ecowas.int/for-better-knowledge-and-understanding-of-the-interconnected-system-for-the-management-of-goods-in-transit-sigmat/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

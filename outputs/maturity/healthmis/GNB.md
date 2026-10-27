@@ -6,8 +6,8 @@
 
 **Linked.** [The DHIS2 country profile says DHIS2 is also used in Guinea Bissau for disease surveillance and ITN campaign planning, and DHIS2 Tracker programs serve as electronic registries for maternal and child health and immunization](<https://dhis2.org/climate/country-profiles/guinea-bissau/>).
 
-**Reporting rate published.** No source held since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://dhis2.org/climate/country-profiles/guinea-bissau/>).
+**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://dhis2.org/climate/country-profiles/guinea-bissau/>).
 
-***Noted, not assessed***. [DHIS2 Tracker electronic registries](<https://dhis2.org/climate/country-profiles/guinea-bissau/>); [mWater](<https://dhis2.org/climate/country-profiles/guinea-bissau/>).
+***Also on file***. [DHIS2 Tracker electronic registries](<https://dhis2.org/climate/country-profiles/guinea-bissau/>); [mWater](<https://dhis2.org/climate/country-profiles/guinea-bissau/>).
 
-***Not held***. No source held since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.

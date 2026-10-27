@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is the engagement on the bill. [The Service announced the consultation on the Statistics Ghana Bill in July 2026](<https://www.linkedin.com/posts/ghana-statistical-service_ghana-statistics-statsbill26-activity-7487065310030630913-ZlEw>), which would replace the 2019 Act seven years after it commenced. The bill is at the stage of consultation by the Service, and the 2019 Act is the law in force.
 
-***Noted, not assessed***. [National Strategy for the Development of Statistics (NSDS III)](<https://gna.org.gh/2026/03/gss-25-mdas-sign-data-sharing-agreements/>).
+***Also on file***. [National Strategy for the Development of Statistics (NSDS III)](<https://gna.org.gh/2026/03/gss-25-mdas-sign-data-sharing-agreements/>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

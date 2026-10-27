@@ -8,6 +8,6 @@
 
 **Exchange with partners.** [TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, with scanner image sharing first implemented between Kenya and Uganda in 2024](<https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/>). [A KRA officer writing in WCO News says the EAC Single Customs Territory Centralized Platform, built for six partner states, has shared customs declarations and scanned-cargo images since July 2024, with Uganda sending over 8,000 images to Kenya](<https://mag.wcoomd.org/magazine/wco-news-106-issue-1-2025/kenya-uganda-exchanging-images-scanned-cargo/>).
 
-***Noted, not assessed***. [EFRIS](<https://ura.go.ug/en/ura-trains-customs-agents-ahead-of-export-fiscalisation-roll-out/>); [RECTS](<https://ura.go.ug/en/rects/>).
+***Also on file***. [EFRIS](<https://ura.go.ug/en/ura-trains-customs-agents-ahead-of-export-fiscalisation-roll-out/>); [RECTS](<https://ura.go.ug/en/rects/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

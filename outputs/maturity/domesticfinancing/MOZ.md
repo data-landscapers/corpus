@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The communications regulator INCM's 2024 report says each licensed operator [pays 1% of its prior-year gross revenue into the Fundo de Serviço de Acesso Universal](<https://www.incm.gov.mz/wp-content/uploads/2026/05/Relatorio-de-Regulacao-das-Comunicacoes_2024.pdf>), which in 2024 financed digital squares, school computer rooms and rural mobile network expansion. [Decree 11/2025 of 16 May 2025](<https://www.incm.gov.mz/?sdm_process_download=1&download_id=3536>) approved a new regulation for the fund, keeping the 1% levy and assigning 60% of fines under it to the fund.
 
-***Noted, not assessed***. [The 2007 ministerial diploma fixing contributions to the fund](<https://www.incm.gov.mz/?sdm_process_download=1&download_id=3528>).
+***Also on file***. [The 2007 ministerial diploma fixing contributions to the fund](<https://www.incm.gov.mz/?sdm_process_download=1&download_id=3528>).
 
-***Not held***. Nothing: all four questions are answered.
+***Not found***. Nothing: all four questions are answered.

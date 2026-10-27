@@ -6,8 +6,8 @@
 
 **Hosted nationally.** [Elilam reports the national government cloud now hosts state services under full sovereignty, as stated at the digital ministry training opening](<https://www.elilam.net/index.php/ar/node/16321>). [Ecofin Agency reports Mauritania launched its national cloud on 29 June 2026 at the National Data Center in Nouakchott to host government data and digital public services domestically](<https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty>). In July 2026 the digital minister [told the National Assembly that all government servers had been moved into a data centre the ministry built](<https://www.ami.mr/archives/263232>).
 
-**Contract terms.** No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://www.elilam.net/index.php/ar/node/16321>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://www.elilam.net/index.php/ar/node/16321>).
 
-***Noted, not assessed***. [Houwiyeti](<https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/>).
+***Also on file***. [Houwiyeti](<https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/>).
 
-***Not held***. No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.

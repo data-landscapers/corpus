@@ -12,6 +12,6 @@
 
 **Last twelve months.** The network launched in March 2026 [was reported as part of plans to establish a dedicated Data Protection Authority](<https://techafricanews.com/2026/03/17/drc-launches-data-protection-officers-network-to-strengthen-digital-governance/>). On 20 April 2026 the co-author of a book on personal data protection [said the Code's Book III replaces the embryonic provisions of the 2020 telecommunications law](<https://actualite.cd/2026/04/21/rdc-un-nouvel-ouvrage-sur-la-protection-des-donnees-personnelles-porte-sur-les-fonts>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decision, sanction or count of decisions under the Digital Code is held, and no regulation made under it. No source shows the authority constituted, or ARPTIC acting in its place.
+***Not found***. No decision, sanction or count of decisions under the Digital Code has been found, and no regulation made under it. No source shows the authority constituted, or ARPTIC acting in its place.

@@ -8,6 +8,6 @@
 
 **National switch.** [The central bank describes Komor Switch as the national payment infrastructure interconnecting all banks, financial institutions and mobile money services](<https://banque-comores.km/uploads/BCC-livret(3).pdf>). [Al-Watwan reports Komor Switch is a national platform connecting all banks and mobile money services, launched officially by the president](<https://alwatwan.net/economie/secteur-bancaire-i-les-comores-inaugurent-de-nouveaux-modes-et-syst%C3%A8mes-de-paiement.html>).
 
-***Noted, not assessed***. [KomorPay (ATS)](<https://banque-comores.km/uploads/BCC-livret(3).pdf>); [Mali Ya Wakazi](<https://banque-comores.km/uploads/BCC-livret(3).pdf>); [Decentralised digital Financial Institution licence](<https://itweb.africa/article/axian-gets-digital-first-financial-license-in-the-comoros/xA9POvNElGOqo4J8>).
+***Also on file***. [KomorPay (ATS)](<https://banque-comores.km/uploads/BCC-livret(3).pdf>); [Mali Ya Wakazi](<https://banque-comores.km/uploads/BCC-livret(3).pdf>); [Decentralised digital Financial Institution licence](<https://itweb.africa/article/axian-gets-digital-first-financial-license-in-the-comoros/xA9POvNElGOqo4J8>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

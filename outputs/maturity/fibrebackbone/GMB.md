@@ -6,6 +6,6 @@
 
 **Capacity sold to other operators.** [WBBA states the national backbone (ECOWAN, NBN, legacy fibre) is accessible to private service providers, who use lit or dark fibre or buy capacity from GAMTEL, and that all MNOs and ISPs use GAMTEL's network](<https://worldbroadbandassociation.com/wp-content/uploads/2024/05/WBBA-GAMTEL_Final.pdf>). A backbone counts as open where other operators buy or lease capacity on it, or where it runs on open-access or wholesale terms, whoever owns it.
 
-***Noted, not assessed***. [ACE submarine cable](<https://worldbroadbandassociation.com/wp-content/uploads/2024/05/WBBA-GAMTEL_Final.pdf>); [GAMTEL-SYSROAD PPP](<https://techafricanews.com/2026/01/05/gamtel-and-sysroad-sign-50-million-ppp-to-modernize-the-gambias-broadband-network/>); [NBN data centre](<https://www.dropbox.com/s/9yvhtd9i4i0vrs0/cr18197.pdf?dl=0>).
+***Also on file***. [ACE submarine cable](<https://worldbroadbandassociation.com/wp-content/uploads/2024/05/WBBA-GAMTEL_Final.pdf>); [GAMTEL-SYSROAD PPP](<https://techafricanews.com/2026/01/05/gamtel-and-sysroad-sign-50-million-ppp-to-modernize-the-gambias-broadband-network/>); [NBN data centre](<https://www.dropbox.com/s/9yvhtd9i4i0vrs0/cr18197.pdf?dl=0>).
 
-***Not held***. No source held says the backbone reaches every province or region.
+***Not found***. No source found says the backbone reaches every province or region.

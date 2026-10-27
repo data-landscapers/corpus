@@ -2,6 +2,6 @@
 
 ## Online participation in policy
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether the public takes part in making policy online.
+***Not found***. Nothing found says whether the public takes part in making policy online.

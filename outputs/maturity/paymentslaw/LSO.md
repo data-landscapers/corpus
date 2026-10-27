@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** The [bill](<https://www.lena.gov.ls/finance-minister-presents-payment-system-bill/>) would license all payment service providers, fintech companies included. The 2014 Act frames interbank payment systems and the issue and use of payment instruments. It is not said that companies other than banks can be licensed under the Act in force, and no rule is named that requires mobile money providers and banks to connect to each other or to a national switch.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.
+***Not found***. No source found says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.

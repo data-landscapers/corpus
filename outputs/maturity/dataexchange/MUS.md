@@ -2,6 +2,6 @@
 
 ## National data exchange system
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 names a government data exchange platform.
+***Not found***. Nothing found since October 2023 names a government data exchange platform.

@@ -6,8 +6,8 @@
 
 **One registry shared by programmes.** [The government commission reported 5.3 million families enrolled in the RSU, and that the RSU-registered families received the exceptional school-start aid (over 1.8 million families) and are the base for the direct social aid programme (about 4 million families)](<https://maroc.ma/fr/actualites/le-gouvernement-attache-la-mise-en-oeuvre-optimale-du-chantier-de-generalisation-de-la-protection>).
 
-**Linked to the ID and another sector.** No source held since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://maroc.ma/fr/actualites/le-gouvernement-attache-la-mise-en-oeuvre-optimale-du-chantier-de-generalisation-de-la-protection>).
+**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://maroc.ma/fr/actualites/le-gouvernement-attache-la-mise-en-oeuvre-optimale-du-chantier-de-generalisation-de-la-protection>).
 
-***Noted, not assessed***. [Registre National de la Population (RNP)](<https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems>); [Agence nationale des registres](<https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems>).
+***Also on file***. [Registre National de la Population (RNP)](<https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems>); [Agence nationale des registres](<https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems>).
 
-***Not held***. No source held since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.

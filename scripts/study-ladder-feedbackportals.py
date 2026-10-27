@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "feedbackportals"
 SUB = "feedback"
-GAPS = {'4': 'No source held since October 2023 gives resolution rates, response times or a report of the cases handled.', '3': 'No source held since October 2023 says a complaints channel reaches services across government.', '2': 'No source held since October 2023 says: is one in service with cases on record.', '1': 'No source held since October 2023 says: is a digital feedback channel under way.', '5': ''}
-EMPTY = 'Nothing held says whether people can complain about public services online.'
-UNPLACED = 'Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.'
+GAPS = {'4': 'No source found since October 2023 gives resolution rates, response times or a report of the cases handled.', '3': 'No source found since October 2023 says a complaints channel reaches services across government.', '2': 'No source found since October 2023 says: is one in service with cases on record.', '1': 'No source found since October 2023 says: is a digital feedback channel under way.', '5': ''}
+EMPTY = 'Nothing found says whether people can complain about public services online.'
+UNPLACED = 'Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

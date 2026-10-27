@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** The 2025 loan went to [Yas Comoros, an AXIAN Telecom subsidiary](<https://techafricanews.com/2025/06/20/axian-telecoms-yas-comoros-secures-e25m-loan-to-boost-digital-transformation/>), for network connectivity, and it is a private firm's loan rather than a government project.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Money raised inside Comoros, and private money brought into a public digital project, are not known. Every amount held from 2024 on was signed or started in the same year.
+***Not found***. No source found reports money raised inside Comoros, and private money brought into a public digital project. Every amount held from 2024 on was signed or started in the same year.

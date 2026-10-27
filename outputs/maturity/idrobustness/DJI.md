@@ -6,8 +6,8 @@
 
 **Biometric checks.** [Fingerprints, iris and photograph are captured and automatically compared with the database, which has detected duplicates and people using a dead person's identity, says the head of the NNI service](<https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/>).
 
-***Noted, not assessed***. [ID Mobile](<https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/>); [Mobile ID](<https://interieur.gouv.dj/forum-sur-lidentite-numerique-et-lancement-du-projet-mobile-id/>); [Smart Wallet](<https://www.biometricupdate.com/202509/djibouti-engages-visa-tech5-for-national-digital-wallet-rollout>).
+***Also on file***. [ID Mobile](<https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/>); [Mobile ID](<https://interieur.gouv.dj/forum-sur-lidentite-numerique-et-lancement-du-projet-mobile-id/>); [Smart Wallet](<https://www.biometricupdate.com/202509/djibouti-engages-visa-tech5-for-national-digital-wallet-rollout>).
 
-***Not held***. No source held since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

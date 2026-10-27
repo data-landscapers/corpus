@@ -6,8 +6,8 @@
 
 **Single window.** [The National Single Window, operational since 27 March 2026, had processed over 124,614 licences and permits, with the Nigerian Customs Service, SON, NAFDAC, Nigeria Quarantine Service and NESREA fully onboarded, per its Secretariat director and the trade minister](<https://punchng.com/fg-gives-mdas-november-deadline-to-remove-export-barriers/>). [The National Single Window, launched 27 March 2026, had issued over 100,000 licences and permits to more than 1,000 registered users per its national coordinator, though licensed customs agents dispute that it works](<https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/>). [The National Single Window Secretariat's operations director said Phase 1 went live on 27 March 2026 with Customs, SON, NAFDAC, NAQS and NESREA fully integrated, having processed 114,112 licences and permits and N11.27 billion in payments](<https://businessday.ng/news/article/phase-2-of-national-single-window-to-go-live-november-2026-with-export-processing/>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://businessday.ng/news/article/stakeholders-seek-legal-framework-to-make-nigerias-digital-port-systems-work/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://businessday.ng/news/article/stakeholders-seek-legal-framework-to-make-nigerias-digital-port-systems-work/>).
 
-***Noted, not assessed***. [Trade Information Portal](<https://tfadatabase.org/es/uploads/thematicdiscussiondocument/wto_ncs_digitalization_in_nigeria_customs_service_2025.03.12.pdf>).
+***Also on file***. [Trade Information Portal](<https://tfadatabase.org/es/uploads/thematicdiscussiondocument/wto_ncs_digitalization_in_nigeria_customs_service_2025.03.12.pdf>).
 
-***Not held***. No source held since October 2023 says customs exchanges data electronically with another country.
+***Not found***. No source found since October 2023 says customs exchanges data electronically with another country.

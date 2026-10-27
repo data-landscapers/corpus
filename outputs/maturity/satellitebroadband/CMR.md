@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** With [no provider licensed](<https://www.agenceecofin.com/actualites-numerique/3108-141168-internet-par-satellite-starlink-cible-16-nouveaux-marches-africains-d-ici-fin-2026>), there is nothing to count. Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. [Starlink](<https://techreviewafrica.com/news/4133>); [OneWeb](<https://techreviewafrica.com/news/4133>); [Amazon Kuiper](<https://techreviewafrica.com/news/4133>).
+***Also on file***. [Starlink](<https://techreviewafrica.com/news/4133>); [OneWeb](<https://techreviewafrica.com/news/4133>); [Amazon Kuiper](<https://techreviewafrica.com/news/4133>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

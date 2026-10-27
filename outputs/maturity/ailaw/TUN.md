@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** No law on AI is in force. The [proposal under review](<https://www.tunisienumerique.com/protection-des-donnees-en-tunisie-vers-une-reforme-majeure-face-aux-defis-numeriques/>), the Proposition de loi organique 095/2025, is a data protection law that includes AI use among its subjects, and not a law on AI itself. Its 132 articles in 6 chapters were heard before the Assembly's Rights and Freedoms Committee on 17 February 2026, and the chapters on personal data sit alongside the provisions that regulate AI use.
 
-***Noted, not assessed***. [stratégie nationale de l'intelligence artificielle](<https://www.webmanagercenter.com/2026/05/25/tunisie-la-strategie-nationale-de-lia-mise-sur-la-sante-lagriculture-et-la-souverainete-numerique/>).
+***Also on file***. [stratégie nationale de l'intelligence artificielle](<https://www.webmanagercenter.com/2026/05/25/tunisie-la-strategie-nationale-de-lia-mise-sur-la-sante-lagriculture-et-la-souverainete-numerique/>).
 
-***Not held***. No source held says a law, decree or regulation that sets a rule for AI is in force.
+***Not found***. No source found says a law, decree or regulation that sets a rule for AI is in force.

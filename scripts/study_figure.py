@@ -37,6 +37,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 FROM = 2023                 # a figure for this year or later sets a stage; the window, read by year
@@ -53,7 +54,7 @@ FIGURES = {
         fact="{v} per cent of secondary schools in {country} had internet for teaching in {y}, by UNESCO's SDG 4.a.1 series.",
         fig="{v} per cent of secondary schools had internet for teaching",
         unit="per cent of secondary schools", what="secondary schools with internet for teaching",
-        cond_none="No source held since October 2023 says digital literacy or computing is a compulsory subject in the national secondary curriculum.",
+        cond_none="No source found since October 2023 says digital literacy or computing is a compulsory subject in the national secondary curriculum.",
         cond_short="and digital literacy or computing is compulsory in the secondary curriculum",
         cond_low="The curriculum is asked about only once half of secondary schools have internet for teaching, so with {link} none was looked for in this first pass.",
         caveat="The figure counts schools with a connection used for teaching, not how well it serves them or what is taught."),
@@ -64,7 +65,7 @@ FIGURES = {
         fact="Graduates in science, technology, engineering and mathematics were {v} per cent of tertiary graduates in {country} in {y}, by UNESCO's series.",
         fig="STEM graduates were {v} per cent of tertiary graduates",
         unit="per cent of tertiary graduates", what="STEM graduates as a share of tertiary graduates",
-        cond_none="No source held since October 2023 says a national research and education network is in service connecting the public universities.",
+        cond_none="No source found since October 2023 says a national research and education network is in service connecting the public universities.",
         cond_short="and a research and education network connects the public universities",
         cond_low="A research and education network is asked about only once STEM graduates reach 40 per cent, so with {link} none was looked for in this first pass.",
         caveat="The figure counts graduates in science, technology, engineering and mathematics, ICT among them; it says nothing of where they find work."),
@@ -75,7 +76,7 @@ FIGURES = {
         fact="Information and communication employed {v} per cent of all workers in {country} in {y}, by ILOSTAT's labour force series.",
         fig="information and communication employed {v} per cent of all workers",
         unit="per cent of employment", what="employment in information and communication",
-        cond_none="No source held since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
+        cond_none="No source found since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
         cond_short="and youth unemployment is 14 per cent or less",
         cond_low="Youth unemployment is asked about only once information and communication employs 1 per cent of workers, so with {link} none was looked for in this first pass.",
         caveat="The figure counts all employment in publishing, broadcasting, telecommunications and IT services, not graduates alone."),
@@ -225,12 +226,12 @@ def stage(c: dict, rows: list[dict], as_at: dt.date) -> dict:
             return as_at
         return d
     if not [r for r in rows if r["aspect"] == k]:
-        return {"stage": "no evidence", **blank, "sources": [], "gaps": f"Nothing held gives {c['what']}."}
+        return {"stage": "no evidence", **blank, "sources": [], "gaps": f"Nothing found gives {c['what']}."}
     live = [(when(r), r) for r in rows if r["aspect"] == k and r["as_of"]
             and dt.date(FROM, 1, 1) <= when(r) <= as_at]
     if not live:
         return {"stage": "unplaced", **blank, "sources": [],
-                "gaps": f"No figure for {FROM} or later is held for {c['what']}."}
+                "gaps": f"No figure for {FROM} or later has been found for {c['what']}."}
     _, best = max(live, key=lambda p: (p[0], p[1]["source_slug"].startswith("ref:"), p[1]["row_id"]))
     figure = num(best["value"])
     up = sum(1 for line in lines if clears(c, figure, line))
@@ -303,7 +304,7 @@ def figure_paragraph(c: dict, name: str, rows: list[dict], best: dict) -> str:
         how = "has barely moved" if abs(moved) < 0.005 else f"{'rose' if moved > 0 else 'fell'} by {fmt(abs(moved))} points"
         out.append(f"Since {before[0]['as_of'][:4]} the figure {how}.")
     else:
-        out.append("The series gives no figure for the years just before, so whether it is rising or falling is not known.")
+        out.append("The series gives no figure for the years just before, so no source found says whether it is rising or falling.")
     ahead = [line for line in c["lines"] if not clears(c, figure, line)]
     if ahead:
         out.append(f"It is {fmt(abs(ahead[0] - figure))} points {'above' if c.get('lower') else 'short of'} {fmt(ahead[0])}, the next line.")
@@ -377,17 +378,17 @@ def write_one(sid: str, study: dict, iso: str, country: str, dry: bool) -> str:
         held = cell["gaps"]
         if old:
             held += f" The latest held is {fmt(num(old[-1]['value']))}, for {old[-1]['as_of'][:4]}."
-        short = f"No figure for {c['what']} is held for {FROM} or later, so no stage is set."
+        short = f"No figure for {c['what']} has been found for {FROM} or later, so no stage is set."
     short = short[0].upper() + short[1:]
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + held, ""]
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + held, ""]
     if not dry:
         out = study_lib.out_dir(sid)
         os.makedirs(out, exist_ok=True)
         with open(os.path.join(out, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({c["sub"]: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({c["sub"]: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

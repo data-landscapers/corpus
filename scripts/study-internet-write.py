@@ -13,7 +13,7 @@ guides to restate a number.
 Writes, per country, `outputs/maturity/internetusage/{ISO3}.md` and
 `maturity/internetusage/evidence/{ISO3}/short.json`, in the shape `writer-brief.md` sets
 and `lint-study.py` holds: one paragraph for the one aspect, every claim linked to its
-evidence row's `url`, then ***Noted, not assessed*** from `systems.csv` and ***Not held***.
+evidence row's `url`, then ***Also on file*** from `systems.csv` and ***Not found***.
 
 A fact a drafter read from a story is printed as the drafter wrote it, linked, after the
 series: newest first, each figure once, while the paragraph stays inside `ROOM` words. Run it after the ladder script, which writes the `stage.json` it reads.
@@ -28,6 +28,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "internetusage"
@@ -78,8 +79,8 @@ def paragraph(name: str, country: str, rows: list[dict], best: dict) -> str:
             how = "has not moved" if abs(moved) < 0.05 else                 f"{'rose' if moved > 0 else 'fell'} by {points(moved)}"
             out.append(f"Since {recent[0]['as_of'][:4]} the share {how}.")
     else:
-        out.append("The series gives no figure for 2021, 2022 or 2023, so whether the share is rising "
-                   "or falling is not known.")
+        out.append("The series gives no figure for 2021, 2022 or 2023, so no source found says "
+                   "whether the share is rising or falling.")
     surveys = [r for r in recent if r["value"].startswith("survey:")]
     if kind == "estimate":
         if surveys:
@@ -146,25 +147,25 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
                     "by a national survey." if best["source_slug"].startswith("ref:") else
                     "by the country's own figure."))
         ahead = [line for line, _ in LINES if figure < line]
-        held = (f"No figure of {ahead[0]:g} per cent or more is held." if ahead
+        held = (f"No figure of {ahead[0]:g} per cent or more has been found." if ahead
                 else "Nothing further is asked of this indicator.")
         if kind == "estimate":
-            held += " No national survey or census figure for 2024 or later is held."
+            held += " No national survey or census figure for 2024 or later has been found."
     else:
         old = sorted(rows, key=lambda r: r["as_of"])
         held = cell["gaps"]
         if old:
             held += f" The latest held is {num(old[-1]['value']):g} per cent, for {old[-1]['as_of'][:4]}."
-        short = ("No figure for the share of the population who use the internet is held for 2024 or "
+        short = ("No figure for the share of the population who use the internet has been found for 2024 or "
                  "later, so no stage is set.")
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + held, ""]
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + held, ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

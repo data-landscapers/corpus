@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact is the same [2025 account of the law](<https://www.village-justice.com/articles/%EF%81%9Bcentrafrique%EF%81%9D-les-huit-forces-loi-relative-protection-des-donnees,54519.html>), which describes the conditions the law sets on transfers and says nothing of a published list of countries, model terms, a permission procedure or guidance, or of the rule being applied to a named organisation.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-042;GHA-041;GHA-034",
-      "gaps": "Nothing held after October 2024 says the CitizenApp is still in use; the Ghana Card e-wallet is to be activated in phases.",
+      "gaps": "Nothing found after October 2024 says the CitizenApp is still in use; the Ghana Card e-wallet is to be activated in phases.",
       "note": "The CitizenApp (CADIS), launched on 7 October 2024, creates a digital ID from the Ghana Card and NIA data with biometric sign-on to public services (GHA-042, GHA-041), and NIA verification serves GRA, NHIS, the Passport Office and banks (GHA-034). Top rung.",
       "as_at": "2026-10-23"
     }

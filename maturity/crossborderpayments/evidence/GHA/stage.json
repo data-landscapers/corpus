@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-003;GHA-005",
-      "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
-      "note": "Rebuild: the Bank of Ghana said in October 2026 that PAPSS is in use and extended to mobile wallets on the Ghana-Nigeria corridor, so the country is in a regional system in service. No figure is held, so not 5.",
+      "gaps": "No source found since October 2023 gives a figure for cross-border digital payments.",
+      "note": "Rebuild: the Bank of Ghana said in October 2026 that PAPSS is in use and extended to mobile wallets on the Ghana-Nigeria corridor, so the country is in a regional system in service. No figure has been found, so not 5.",
       "as_at": "2026-10-26"
     }
   ]

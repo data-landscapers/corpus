@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-001;AGO-002",
-      "gaps": "No source held says the taxpayer number is shared with business registration or customs.",
+      "gaps": "No source found says the taxpayer number is shared with business registration or customs.",
       "note": "The NIF is held in a register consulted online (2026), and the ID card number serves as the NIF (2025). Nothing shows it shared with business registration or customs, so the tie to the ID no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }

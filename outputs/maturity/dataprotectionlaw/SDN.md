@@ -12,6 +12,6 @@
 
 **Last twelve months.** Both steps fall in August 2026: the Council of Ministers' [direction of further study](<https://sudantribune.net/article/317108>) on 6 August, and the Justice Ministry's [statement that the draft is in preparation](<https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1>) on 11 August.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. What the bill provides, whether it has gone to the interim parliament, and any date for a vote or commencement. No supervisory authority acting under a data protection law, no regulations and no decisions are held.
+***Not found***. What the bill provides, whether it has gone to the interim parliament, and any date for a vote or commencement. No supervisory authority acting under a data protection law, no regulations and no decisions have been found.

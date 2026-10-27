@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact is in the same law. Article 11 also covers a transfer made under contract clauses or internal rules, and for that case the [authority's decision](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>) is what allows the transfer. The law names these two routes, a finding of sufficient protection and a decision on clauses or rules, and places both with the data protection authority.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

@@ -6,8 +6,8 @@
 
 **Given nationally.** [ANIP's May 2026 deck says that every birth declaration since 1 April 2021 is made to the RNPP and gives the child an NPI and an entry in the national civil status file](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>).
 
-**All births registered.** No source held since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>).
+**All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>).
 
-***Noted, not assessed***. [CNIB](<https://beninwebtv.com/benin-la-carte-didentite-biometrique-peut-desormais-etre-renouvelee-en-ligne/>); [ANIP identity system](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>); [ANIP national ID (fID)](<https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms>).
+***Also on file***. [CNIB](<https://beninwebtv.com/benin-la-carte-didentite-biometrique-peut-desormais-etre-renouvelee-en-ligne/>); [ANIP identity system](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>); [ANIP national ID (fID)](<https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms>).
 
-***Not held***. No source held since October 2023 puts birth registration at all births and deaths at 80% or more.
+***Not found***. No source found since October 2023 puts birth registration at all births and deaths at 80% or more.

@@ -6,8 +6,8 @@
 
 **Across government.** [SERVICOM's acting National Coordinator says its Ministerial and Parastatal SERVICOM Units across MDAs let complaints be received, escalated, tracked and resolved across all tiers of government through the platform](<https://servicom.gov.ng/servicom-presidency-office-launches-the-nigeria-egm-electronic-grievance-management-platform/>).
 
-**Results published.** No source held since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://servicom.gov.ng/servicom-presidency-office-launches-the-nigeria-egm-electronic-grievance-management-platform/>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://servicom.gov.ng/servicom-presidency-office-launches-the-nigeria-egm-electronic-grievance-management-platform/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives resolution rates, response times or a report of the cases handled.
+***Not found***. No source found since October 2023 gives resolution rates, response times or a report of the cases handled.

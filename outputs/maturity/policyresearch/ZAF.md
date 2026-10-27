@@ -8,6 +8,6 @@
 
 **Standing role.** The nearest held fact is Research ICT Africa's [submission on the Identification Act amendments](<https://www.businessday.co.za/opinion/2026-10-26-drew-haller-millions-risk-exclusion-as-smart-id-delays-persist/>), a contribution to one consultation.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a local research institution holds a standing advisory role in digital policy, or that a national research agenda on digital transformation is adopted.
+***Not found***. No source found since October 2023 says a local research institution holds a standing advisory role in digital policy, or that a national research agenda on digital transformation is adopted.

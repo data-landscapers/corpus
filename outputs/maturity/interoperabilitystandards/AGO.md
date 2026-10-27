@@ -6,6 +6,6 @@
 
 **Standards required and checked.** [The terms of reference](<https://sys.portais.gov.ao/uploads/Td_R_Consultoria_para_Implementacao_da_Interoperabilidade_da_Administracao_Publica_1_13f0252ef0.pdf>) name no decree making the framework compulsory. They were issued to hire a consultant to put interoperability into effect across the public administration, on the basis of the framework and its roadmap.
 
-***Noted, not assessed***. [Interoperability Framework and roadmap (Quadro e Roteiro de Interoperabilidade)](<https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf>), an interoperability framework that no source held says sets technical standards.
+***Also on file***. [Interoperability Framework and roadmap (Quadro e Roteiro de Interoperabilidade)](<https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf>), an interoperability framework that no source found says sets technical standards.
 
-***Not held***. No source held says the standards have been published.
+***Not found***. No source found says the standards have been published.

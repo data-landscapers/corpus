@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** Zambia and Mozambique [commissioned a cross-border fibre interconnector between Chanida and Cassacatiza](<https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/>), at a ceremony reported on 23 February 2026 at which Zambia's technology minister and Mozambique's communications minister both spoke. The interconnector joins Zambia's national backbone to Mozambique's network and, through it, to the submarine cables that land on the Mozambican coast. For Zambia, which has no coast, it is a route to the sea; for Mozambique it is a link that carries a neighbour's traffic to its landings.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

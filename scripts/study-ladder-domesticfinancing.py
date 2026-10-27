@@ -17,7 +17,7 @@ three years:
 4. **What was spent is published**: a `budget` of `spent`.
 
 **Each of questions 2 and 3 is answered on its own evidence**: no later yes answers them, so
-the count stops at the first of them nothing held answers. **Question 2 is set by a source
+the count stops at the first of them nothing found answers. **Question 2 is set by a source
 that gives the digital ministry's budget for both years, where one is held for the latest
 budget; otherwise by the budget tables' lines**: a drafted `rose` or `fell` stands over the
 tables' own (a fact that opens *Budget tables:*) unless it is more than `SAME_BUDGET` days
@@ -55,11 +55,11 @@ GAPS = {
          "transformation must be paid for from the country's own resources and acting on it: "
          "no fund, levy or assigned tax is shown created, collecting or paying.",
     "3 abolished": "The fund or levy that paid for digital programmes was abolished, repealed "
-                   "or moved to the general treasury, and nothing held replaces it.",
+                   "or moved to the general treasury, and nothing found replaces it.",
     "2 no": "The money for digital transformation was lower in the latest budget than in the "
             "one before, or the same.",
-    "2": "Nothing held gives the money for digital transformation in two budget years "
-         "running, so whether it rose is not known.",
+    "2": "Nothing found gives the money for digital transformation in two budget years "
+         "running, so no source found says whether it rose.",
 }
 
 
@@ -102,7 +102,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     blank = {a: "" for a in ASPECTS} | {"sources": []}
     if not rows:
         return {"stage": "no evidence", **blank,
-                "gaps": "Nothing held says whether the state budget gives money to digital "
+                "gaps": "Nothing found says whether the state budget gives money to digital "
                         "transformation, or that a fund or levy pays for it."}
 
     # Question 2: a source giving the ministry's budget for both years, unless it is of an

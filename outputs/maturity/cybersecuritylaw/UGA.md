@@ -6,6 +6,6 @@
 
 **Use of the law.** In September 2026 Kampala Metropolitan Police [arrested and held three men](<https://nilepost.co.ug/news/368071/three-arrested-over-alleged-fake-news-personal-data-offences-on-social-media>) over alleged fake news and unlawful obtaining or disclosure of personal data on social media, in an investigation the report places under the Computer Misuse Act. The incidents date to July 2026, and charges were not disclosed.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.
+***Not found***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.

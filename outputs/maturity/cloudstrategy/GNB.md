@@ -2,6 +2,6 @@
 
 ## Government hosting and cloud policy
 
-***Noted, not assessed***. [National GovCloud](<https://cybilportal.org/projects/feasibility-study-of-guinea-bissaus-cybersecurity-landscape/>).
+***Also on file***. [National GovCloud](<https://cybilportal.org/projects/feasibility-study-of-guinea-bissaus-cybersecurity-landscape/>).
 
-***Not held***. Nothing held names a government hosting or cloud policy, or says there is none.
+***Not found***. Nothing found names a government hosting or cloud policy, or says there is none.

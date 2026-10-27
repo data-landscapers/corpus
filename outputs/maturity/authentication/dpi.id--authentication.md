@@ -46,7 +46,7 @@ People could prove who they are online with a digital ID in 2026.
 
 ### Ethiopia: 5 Leading
 
-In 2026 people opened bank accounts remotely with their national digital ID; how many use its wallet is not known.
+In 2026 people opened bank accounts remotely with their national digital ID; no source found says how many use its wallet.
 
 - ID Tech reports that the Cooperative Bank of Oromia is the first financial institution to integrate with the Fayda Wallet, opening new accounts through biometric eKYC verification without physical documents ([source, 2025-05](https://idtechwire.com/ethiopia-launches-fayda-digital-id-system-to-cover-90-million-citizens-by-2027/)).
 - Biometric Update reports Dashen Bank lets customers open accounts remotely with a mobile number and Fayda credentials, linking account opening to the national biometric identity database ([source, 2026-04-07](https://www.biometricupdate.com/202604/dashen-bank-launches-ethiopias-first-digital-id-based-accounts)).
@@ -54,7 +54,7 @@ In 2026 people opened bank accounts remotely with their national digital ID; how
 
 ### Ghana: 5 Leading
 
-A government app launched in 2024 creates a digital ID from the Ghana Card for public services; its use since is not known.
+A government app launched in 2024 creates a digital ID from the Ghana Card for public services; no source found reports its use since.
 
 - Biometric Update describes the CADIS mobile app as providing digital ID, with users verifying their identity in the app by Ghana Card scan and phone number to create a digital ID ([source, 2024-10-07](https://www.biometricupdate.com/202410/ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-services)).
 - Biometric Update reports that on 7 October 2024 Ghana launched CADIS, which verifies identity by scanning the Ghana Card and entering a phone number, with biometric single sign-on drawing on National Identification Authority data ([source, 2024-10-07](https://www.biometricupdate.com/202410/ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-services)).
@@ -93,7 +93,7 @@ People could prove who they are online with a digital ID in 2026.
 
 ### Nigeria: 5 Leading
 
-In 2026 people used an identity app to prove who they are for SIM, passport, tax and banking; how many use it is not known.
+In 2026 people used an identity app to prove who they are for SIM, passport, tax and banking; no source found says how many use it.
 
 - NIMC says individuals can use NINAuth to verify identity for SIM registration, immigration and passport processing, tax filings and financial transactions, with consent required before data is shared for KYC (published date used) ([source, 2026-09-23](https://nigeriacommunicationsweek.com.ng/2026/09/23/nimc-unveils-consent-based-nin-verification-to-authenticate-identity)).
 - Arise News reports NIMC encourages Nigerians to download the NIN Authentication (NINAuth) app for secure digital verification ([source, 2026-03-04](https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/)).
@@ -124,7 +124,7 @@ People could prove who they are online with a digital ID in 2026.
 
 ### Uganda: 5 Leading
 
-A government app verifies users of e-services, with over 10 million subscribers in 2025; independent use figures are not known.
+A government app verifies users of e-services, with over 10 million subscribers in 2025; no source found reports independent use figures.
 
 - NITA-U's slides show the UgPass app in service under UgPass 1.0, verifying users of e-services without passwords, with a Digital Credential Wallet and mobile signing listed for UgPass 2.0 ([source, 2025-05](https://www.id4africa.com/2025/files/PS3-5-NITA-DigitalTrust-FINAL.pdf)).
 - NITA-U's slides describe UgPass services in use: passwordless strong authentication for e-services, digital signature with PKI certificates, APIs and e-seal ([source, 2025-05](https://www.id4africa.com/2025/files/PS3-5-NITA-DigitalTrust-FINAL.pdf)).
@@ -133,7 +133,7 @@ A government app verifies users of e-services, with over 10 million subscribers 
 
 ### Algeria: 4 Operating
 
-Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
+Authentication was used across services in 2026; no source found reports remote proof of identity by a digital ID.
 
 - Algeria's Ministry of Interior presentation says a digital identity was launched at large scale in 2025 and integrated into the national digital services portal ([source, 2025](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf)).
 - The Sports Ministry says holders of the national digital identity issued by the HCN can now access its WADHIFATI platform without creating an account, the user being identified through the unified digital identity ([source, 2026-08-12](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/)).
@@ -141,21 +141,21 @@ Authentication was used across services in 2026; remote proof of identity by a d
 
 ### Benin: 4 Operating
 
-Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
+Authentication was used across services in 2026; no source found reports remote proof of identity by a digital ID.
 
 - The playbook names phone-number acquisition (telecoms) and public service platforms as conditioned on NPI authentication ([source, 2026-05-01](https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf)).
 - The World Bank blog names microcredit (finance) and the education system among the programmes using the QR-code authentication app for fID certificates, and lists social protection, health, education, finance and SIM providers as services the fID enables ([source, 2025-11](https://blogs.worldbank.org/en/nasikiliza/identification-system-in-benin-increasing-access-to-services)).
 
 ### Burkina Faso: 4 Operating
 
-A national e-signature platform launched in 2026 serves three government systems; remote proof of identity by a digital ID is not known.
+A national e-signature platform launched in 2026 serves three government systems; no source found reports remote proof of identity by a digital ID.
 
 - The Prime Minister launched the FasoSign national e-signature platform on 15 September 2026; ANSSI's director general says it provides formal authentication of the signer and is already operational ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
 - ANSSI's director general says FasoSign is already operational on three government systems: SIGED (official correspondence), CIMEXT (mission orders) and SYC@D (land cession orders) ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
 
 ### Cameroon: 4 Operating
 
-In 2026 secure e-signature was live in 37 of 40 administrations; proving identity online with an app or wallet is not known.
+In 2026 secure e-signature was live in 37 of 40 administrations; no source found reports proving identity online with an app or wallet.
 
 - Secure electronic signature on AIGLE is live across 37 of 40 administrations, per the summit figures ([source, 2026-10](https://leconomie.info/article/digitalisation-e-gov-africa-mise-sur-lia-pour-moderniser-les-services-publics)).
 - Secure electronic signature is operational in 37 of 40 administrations on the AIGLE platform, per figures given at the summit ([source, 2026-10](https://leconomie.info/article/digitalisation-e-gov-africa-mise-sur-lia-pour-moderniser-les-services-publics)).
@@ -172,7 +172,7 @@ Authentication was used across services in 2026; the ID app released in 2025 is 
 
 ### Egypt: 4 Operating
 
-In 2026 a national digital identity verified users of several government services; proving identity online with an app or wallet is not known.
+In 2026 a national digital identity verified users of several government services; no source found reports proving identity online with an app or wallet.
 
 - Egypt's Public Prosecution announced on 10 September 2026 that access to its electronic portal's personal-status document copy services is limited to users whose identity is verified through the Digital Egypt portal's digital identity ([source, 2026-09-10](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763)).
 - The Ministry of Social Solidarity launched on 29 August 2026 phase one of its digital foster-family services system, which the ICT ministry says is linked to the digital identity system so citizens can sign in securely ([source, 2026-08-29](https://www.youm7.com/story/2026/8/29/التضامن-تطلق-أولى-مراحل-منظومة-الخدمات-الرقمية-الخاصة-بالأسر-البديلة/7529204)).
@@ -180,42 +180,42 @@ In 2026 a national digital identity verified users of several government service
 
 ### Kenya: 4 Operating
 
-Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
+Authentication was used across services in 2026; no source found reports remote proof of identity by a digital ID.
 
 - IPRS Secretary Judith Kilobi said over 800 organisations, including banks, insurers, SACCOs, telecoms and employment agencies, are integrated for citizen verification ([source, 2026-06-26](https://www.kenyanews.go.ke/govt-enhances-registration-of-persons-through-new-technology/)).
 - The presentation says the Maisha Integrated Database has an eKYC layer through which relying agencies request validation, answered only with Boolean yes/no values, and that data goes only to whitelisted relying agencies ([source, 2024](https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf)).
 
 ### Mozambique: 4 Operating
 
-Authentication was used across services in 2025; remote proof of identity by a digital ID is not known.
+Authentication was used across services in 2025; no source found reports remote proof of identity by a digital ID.
 
 - The article says the SCDM covers public and private institutions, with the Attorney General's Office, the Ministry of Education and Culture and Eduardo Mondlane University newly joined, and more than 500 institutions signing documents through it ([source, 2025-11-13](https://www.oeconomico.com/governo-reforca-estrategia-de-digitalizacao-com-500-assinaturas-electronicas-e-expansao-da-infra-estrutura-tecnologica/)).
 - Minister Americo Muchanga said the Mozambique Digital Certification System (SCDM), launched in 2023, has 500 active digital signatures ([source, 2025-11-13](https://www.oeconomico.com/governo-reforca-estrategia-de-digitalizacao-com-500-assinaturas-electronicas-e-expansao-da-infra-estrutura-tecnologica/)).
 
 ### Rwanda: 4 Operating
 
-Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
+Authentication was used across services in 2026; no source found reports remote proof of identity by a digital ID.
 
 - Vital Strategies says Rwanda's digital system connects with hospitals, government agencies and businesses and supports access to around 200 essential services ([source, 2026-08-13](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure)).
 - Vital Strategies says Rwanda's digitised birth registration integrated with the national ID system has led to real-time identity verification across previously siloed sectors ([source, 2026-08-13](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure)).
 
 ### Seychelles: 4 Operating
 
-SeyID sign-in was used across government e-services in 2025; a state-accepted ID wallet is not known.
+SeyID sign-in was used across government e-services in 2025; no source found reports a state-accepted ID wallet.
 
 - The SeyID page says government e-services that require SeyID need a 60% validation level, which is reached by checking the holder's NIN card or passport video against the Civil Status System ([source, 2024](https://seyid.gov.sc)).
 - Seychelles Nation reports the Agency for Social Protection's ASP Connect platform, launched internally on 15 October 2025, is accessible through the SeyID portal, which hosts all government entities' systems; the free text gives no detail of what SeyID checks ([source, 2025-10-15](https://www.nation.sc/articles/27935/asp-launches-digital-system)).
 
 ### Sierra Leone: 4 Operating
 
-Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
+Authentication was used across services in 2026; no source found reports remote proof of identity by a digital ID.
 
 - The same NCRA identity verification platform is used by institutions including financial and telecommunications companies, per the Director General ([source, 2026-08-10](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/)).
 - NCRA's presentation shows the verification ecosystem linked to health care, social protection, banks, social security, payroll, drivers licence, passport, pensions, FIU/ML, education, immigration, elections, tax/revenue and SIM card registration ([source, 2024-05](https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf)).
 
 ### South Africa: 4 Operating
 
-Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
+Authentication was used across services in 2026; no source found reports remote proof of identity by a digital ID.
 
 - Home Affairs says the service supports social grant payments (SASSA), policing and justice, banking and insurance, for government and private-sector users ([source, 2025-07-01](https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost)).
 - The article names banks (TymeBank, Capitec), mobile networks (Vodacom, MTN) and insurers as users of the NPR verification check ([source, 2026-01-27](https://weetracker.com/2026/01/27/south-africa-id-verification-fee-court-case/)).
@@ -223,79 +223,79 @@ Authentication was used across services in 2026; remote proof of identity by a d
 
 ### Tanzania: 4 Operating
 
-Authentication was used across services in 2026; remote proof of identity by a digital ID is not known.
+Authentication was used across services in 2026; no source found reports remote proof of identity by a digital ID.
 
 - The 147 connected institutions comprise 66 public and 81 private institutions, per the Ministry of Home Affairs ([source, 2026-04](https://dailynews.co.tz/as-tanzania-goes-digital-who-protects-your-privacy/)).
 - The report names banks, insurance companies and social security institutions as using NIDA-connected e-KYC processes ([source, 2025](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905)).
 
 ### Togo: 4 Operating
 
-In 2026 one-time-code login on the ID number served public services and banks; remote proof by a digital ID is not known.
+In 2026 one-time-code login on the ID number served public services and banks; no source found reports remote proof by a digital ID.
 
 - The National Identification Agency's deck says OTP authentication on the unique identification number is fully deployed and actively used, including through the digital one-stop portal for public services ([source, 2026](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
 - The deck says ANID serves as identity service provider to banks and financial institutions for e-KYC and to public services, with verification by QR code, remote API, mobile app and USSD ([source, 2026](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
 
 ### Angola: 3 Established
 
-An authentication service was in use in 2026; use across services is not known.
+An authentication service was in use in 2026; no source found reports use across services.
 
 - Justice Minister Marcy Lopes says the Interior Ministry, prison services and the migration service are integrated with the ID database to confirm citizens' identity and check the validity of the Bilhete de Identidade for passport issuance ([source, 2026-07-01](https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/)).
 
 ### Botswana: 3 Established
 
-An authentication service was in use in 2026; use across services is not known.
+An authentication service was in use in 2026; no source found reports use across services.
 
 - Business Tech Africa reports that the Bankers' Association of Botswana has launched a national eKYC project that lets banks verify customer identities against the national citizen database; the article gives no launch date ([source, 2026-09](https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier)).
 
 ### Eswatini: 3 Established
 
-An authentication service was in use in 2024; use across services is not known.
+An authentication service was in use in 2024; no source found reports use across services.
 
 - APC states that recent developments allow service providers such as commercial banks to access the civil registry for identity verification, while saying the National ID card does not yet meet the criteria for digital identification ([source, 2024-07-22](https://www.apc.org/en/news/risk-human-rights-infringement-eswatini-rushes-regulate-ict-sector)).
 
 ### Gambia: 3 Established
 
-An authentication service was in use in 2025; use across services is not known.
+An authentication service was in use in 2025; no source found reports use across services.
 
 - The diagnostic says the Drivers License System uses the National ID system for biometric verification of applicants to prevent identity fraud and duplication; no date is given, so the document's 2025 publication year is used ([source, 2025](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf)).
 - The World Bank ID4D diagnostic says the national ID's NIN was populated into the eCRVS to cross-verify parents' IDs when new NINs were issued after the mass enrolment ([source, 2023](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf)).
 
 ### Lesotho: 3 Established
 
-An authentication service was in use in 2026; use across services is not known.
+An authentication service was in use in 2026; no source found reports use across services.
 
 - Digital identity cards in Lesotho are listed among domestic eKYC frameworks that have financial services use cases (FinMark Trust, June 2026; no date for the use, published date used) ([source, 2026-06](https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc)).
 
 ### Liberia: 3 Established
 
-An authentication service was in use in 2024; use across services is not known.
+An authentication service was in use in 2024; no source found reports use across services.
 
 - The Civil Service Agency uses the NIR's e-verification portal under a May 2024 MOU, per NIR media relations head Sargbe ([source, 2024-05](https://frontpageafricaonline.com/news/liberia-national-identification-registry-drives-digital-transformation-with-strategic-partnerships-and-enrollment-growth/)).
 - NIR says the NBIS includes a verification platform to authenticate card holders and an API linking other institutions' systems, which the Civil Service Agency is using for its employee headcount ([source, 2024-05-28](https://www.thenewdawnliberia.com/csa-and-nir-sign-mou-for-service-delivery/)).
 
 ### Namibia: 3 Established
 
-An authentication service was in use in 2026; use across services is not known.
+An authentication service was in use in 2026; no source found reports use across services.
 
 - Namibia launched its national public key infrastructure under the DigiNam initiative in August 2026, per Home Affairs Minister Lucia Iipumbu ([source, 2026-08](https://www.biometricupdate.com/202610/namibia-mps-press-government-on-security-access-and-reach-of-planned-digital-id)).
 - OPM's Director of Architecture said government has already saved about N$16 million on social grants through electronic identity verification, including preventing payments to deceased beneficiaries ([source, 2026-07-25](https://informante.web.na/?p=398234)).
 
 ### Senegal: 3 Established
 
-An authentication service was in use in 2026; use across services is not known.
+An authentication service was in use in 2026; no source found reports use across services.
 
 - The e-Sénégal single-window app, launched 24 March 2026 and built by SENUM SA, gives access through authentication on the NIN carried on the biometric identity card, with judicial-record, nationality-certificate and similar procedures live at launch ([source, 2026-03-24](https://www.ndarinfo.com/Comment-obtenir-ses-documents-administratifs-en-ligne-avec-la-nouvelle-appli-e-Senegal_a43744.html)).
 - ARCOP says the APPEL e-procurement platform, inaugurated on 14 October 2025, combines strong authentication, data encryption and electronic signature and timestamping ([source, 2025-10-14](https://arcop.sn/2025/10/17/appel-le-clic-de-la-transparence-le-senegal-entre-dans-lere-numerique-de-la-commande-publique/)).
 
 ### Zambia: 3 Established
 
-An authentication service was in use in 2026; use across services is not known.
+An authentication service was in use in 2026; no source found reports use across services.
 
 - The Presidential Delivery Unit says the FISP e-Voucher system, a farm-input subsidy programme, uses electronic Know-Your-Customer verification to cut duplication and ghost beneficiaries, rolled out to all 116 districts with redemption closing on 15 January 2026, though the document does not name the national ID register as the thing checked ([source, 2026-01-15](https://www.pdu.gov.zm/blog/how-fisp-e-voucher-is-delivering-support-where-it-matters-most)).
 
 ### Zimbabwe: 3 Established
 
-An authentication service was in use in 2026; use across services is not known.
+An authentication service was in use in 2026; no source found reports use across services.
 
 - The RBZ Governor said all mobile money providers have been integrated with the Civil Registry system to verify customer identity at onboarding and in ongoing KYC reviews, and all wallets were rescreened with the Civil Registry by 30 June 2026 ([source, 2026-06-30](https://www.heraldonline.co.zw/rbz-closes-loopholes-on-mobile-money-illicit-financial-flows-fraud/)).
 - The RBZ Governor said validation of national ID numbers against the Civil Registry is already in place for mobile money KYC ([source, 2026-03-10](https://www.zimbabwesituation.com/news/rbz-tightens-screws-on-mobile-money/)).
@@ -354,54 +354,54 @@ An authentication or e-signature service was under way in 2026; none in service 
 
 ### Mali: 1 Absent
 
-In 2025 the national ID had no digital authentication function; whether the 2026 online platforms check it is not known.
+In 2025 the national ID had no digital authentication function; no source found says whether the 2026 online platforms check it.
 
 - DPI Map records that NINA has no digital authentication function and no authentication through a government portal ([source, 2025-06-17](https://dpimap.org/mali/)).
 
 ### Comoros: Unplaced
 
-Nothing held since 2023 names a digital authentication service, so no stage is set.
+Nothing found since 2023 names a digital authentication service, so no stage is set.
 
-Not established: Nothing held since October 2023 names a digital authentication service.
+Not established: Nothing found since October 2023 names a digital authentication service.
 
 ### Central African Republic: No evidence
 
-Nothing held names a digital authentication service or says there is none, so no stage is set.
+Nothing found names a digital authentication service or says there is none, so no stage is set.
 
-Not established: Nothing held names a digital authentication service, or says there is none.
+Not established: Nothing found names a digital authentication service, or says there is none.
 
 ### Congo: No evidence
 
-Nothing held names a digital authentication service or says there is none, so no stage is set.
+Nothing found names a digital authentication service or says there is none, so no stage is set.
 
-Not established: Nothing held names a digital authentication service, or says there is none.
+Not established: Nothing found names a digital authentication service, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a digital authentication service or says there is none, so no stage is set.
+Nothing found names a digital authentication service or says there is none, so no stage is set.
 
-Not established: Nothing held names a digital authentication service, or says there is none.
+Not established: Nothing found names a digital authentication service, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held names a digital authentication service or says there is none, so no stage is set.
+Nothing found names a digital authentication service or says there is none, so no stage is set.
 
-Not established: Nothing held names a digital authentication service, or says there is none.
+Not established: Nothing found names a digital authentication service, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a digital authentication service or says there is none, so no stage is set.
+Nothing found names a digital authentication service or says there is none, so no stage is set.
 
-Not established: Nothing held names a digital authentication service, or says there is none.
+Not established: Nothing found names a digital authentication service, or says there is none.
 
 ### Madagascar: No evidence
 
-Nothing held names a digital authentication service or says there is none, so no stage is set.
+Nothing found names a digital authentication service or says there is none, so no stage is set.
 
-Not established: Nothing held names a digital authentication service, or says there is none.
+Not established: Nothing found names a digital authentication service, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held names a digital authentication service or says there is none, so no stage is set.
+Nothing found names a digital authentication service or says there is none, so no stage is set.
 
-Not established: Nothing held names a digital authentication service, or says there is none.
+Not established: Nothing found names a digital authentication service, or says there is none.

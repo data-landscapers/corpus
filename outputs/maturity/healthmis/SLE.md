@@ -8,6 +8,6 @@
 
 **Reporting rate published.** [The report gives national completeness of monthly facility reporting in DHIS2 as 99, 95, 95, 93, 94 and 98 percent of expected reports for 2019 to 2024](<https://data.gffportal.org/sites/default/files/2025-09/SierraLeone-COUNTDOWN.pdf>).
 
-***Noted, not assessed***. [Electronic Medical Records (EMR) system](<https://mohs.gov.sl/emr-system-to-improve-health-care-delivery-in-sierra-leone/>).
+***Also on file***. [Electronic Medical Records (EMR) system](<https://mohs.gov.sl/emr-system-to-improve-health-care-delivery-in-sierra-leone/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

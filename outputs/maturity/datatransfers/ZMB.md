@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The [Act](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>) sets out three routes. The first is the data subject's consent together with standard contracts or intragroup schemes approved by the Commissioner. The second is a transfer to a country the Minister has prescribed, on a test of an adequate level of protection. The third is a transfer the Commissioner approves where it is necessary, case by case.
 
-***Noted, not assessed***. The same [Act](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>) requires sensitive personal data to stay in the Republic, a localisation rule. No systems are held.
+***Also on file***. The same [Act](<https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf>) requires sensitive personal data to stay in the Republic, a localisation rule. No systems have been found.
 
-***Not held***. No source held says a rule on sending personal data abroad is in force.
+***Not found***. No source found says a rule on sending personal data abroad is in force.

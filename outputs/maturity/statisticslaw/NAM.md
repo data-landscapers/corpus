@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is from 2015. [Under the Act the agency and the lands ministry were charged to develop the national spatial data policy, signed on 24 February 2015](<https://www.lac.org.na/laws/2015/5684.pdf>); the policy [describes the Act as the law that establishes the spatial data infrastructure](<https://www.lac.org.na/laws/2015/5684.pdf>). That falls outside the last three years. The agency's [data collection policy of March 2014 was written to comply with the Act](<https://nsa.org.na/wp-content/uploads/2024/06/Data-Collection-Processing-and-Disemination-Policy.pdf>).
 
-***Noted, not assessed***. [National Statistics System](<https://www.lac.org.na/laws/2011/4777.pdf>); [National Spatial Data Infrastructure](<https://www.lac.org.na/laws/2011/4777.pdf>); [Committee for Spatial Data](<https://www.lac.org.na/laws/2015/5684.pdf>); [National Strategy for the Development of Statistics 2023/24-2026/27](<https://nsa.org.na/wp-content/uploads/2024/06/NSDS-Report.pdf>).
+***Also on file***. [National Statistics System](<https://www.lac.org.na/laws/2011/4777.pdf>); [National Spatial Data Infrastructure](<https://www.lac.org.na/laws/2011/4777.pdf>); [Committee for Spatial Data](<https://www.lac.org.na/laws/2015/5684.pdf>); [National Strategy for the Development of Statistics 2023/24-2026/27](<https://nsa.org.na/wp-content/uploads/2024/06/NSDS-Report.pdf>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

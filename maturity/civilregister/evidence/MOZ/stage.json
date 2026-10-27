@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-003;MOZ-001",
-      "gaps": "No source held since October 2023 says births are registered digitally across the country. The registry gives e-RCEV's coverage of all centres as proposed. UNICEF's 2024 brief says all 165 conservatories are digitised (MOZ-006), but the registry's own 2026 page, the newer source, still gives coverage of all centres as proposed.",
+      "gaps": "No source found since October 2023 says births are registered digitally across the country. The registry gives e-RCEV's coverage of all centres as proposed. UNICEF's 2024 brief says all 165 conservatories are digitised (MOZ-006), but the registry's own 2026 page, the newer source, still gives coverage of all centres as proposed.",
       "note": "Lowered: the 2023 source describes an online request portal, while the registry's own 2026 page gives coverage of all centres as proposed and real-time registration was piloted in 19 facilities in 2024.",
       "as_at": "2026-10-25"
     }

@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "electoralregister"
 SUB = "electoral"
-GAPS = {'4': 'No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.', '3': 'No source held since October 2023 says voters could check the roll.', '2': 'No source held since October 2023 says: is the roll held digitally.', '1': "No source held since October 2023 says: is a digital voters' roll under way.", '5': ''}
-EMPTY = "Nothing held says how the voters' roll is held."
-UNPLACED = "Nothing held since October 2023 says whether the voters' roll is held digitally."
+GAPS = {'4': 'No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.', '3': 'No source found since October 2023 says voters could check the roll.', '2': 'No source found since October 2023 says: is the roll held digitally.', '1': "No source found since October 2023 says: is a digital voters' roll under way.", '5': ''}
+EMPTY = "Nothing found says how the voters' roll is held."
+UNPLACED = "Nothing found since October 2023 says whether the voters' roll is held digitally."
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

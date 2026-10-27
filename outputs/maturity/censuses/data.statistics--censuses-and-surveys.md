@@ -177,7 +177,7 @@ The RGPH-4 was counted in 2026; no results of it are known to be out.
 
 ### Central African Republic: 3 Established
 
-The RGPH-4 was counted and in tabulation in October 2026; whether any results are published is not known.
+The RGPH-4 was counted and in tabulation in October 2026; no source found says whether any results are published.
 
 - ICASEES says the RGPH-4 census data has been collected and is in cleaning and tabulation at a 2-5 October 2026 retreat in Boali, after the CTIR committee reviewed first provisional results on 23-25 September 2026 ([source, 2026-10](https://www.icasees.org/index.php/actualites/425-icasees-retraite-de-travail-consacree-a-lapurement-et-a-la-tabulation-des-donnees-du-rgph-4)).
 - ICASEES held the restitution of the third phase of data cleaning of the RGPH-4, the country's first digital census, whose results are not yet final; no enumeration date is given, so the document's published date is used ([source, 2026-08-07](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement)).
@@ -367,16 +367,16 @@ Not established: No census counted since October 2016 or in preparation since Oc
 
 The last census on record was counted in 2007; none since 2016 or in preparation is known, so no stage is set.
 
-Not established: The last census on record was counted in 2007. No census counted since October 2016 or in preparation since October 2023 is held, and no source dated in the last three years says there is none.
+Not established: The last census on record was counted in 2007. No census counted since October 2016 or in preparation since October 2023 has been found, and no source dated in the last three years says there is none.
 
 ### Sudan: Unplaced
 
 The last census on record was counted in 2008; none since or in preparation is known, so no stage is set.
 
-Not established: The last census on record was counted in 2008. No census in preparation since October 2023 is held, and no source says none is being prepared.
+Not established: The last census on record was counted in 2008. No census in preparation since October 2023 has been found, and no source says none is being prepared.
 
 ### Algeria: No evidence
 
-Nothing held says whether the country has counted or is preparing a census, so no stage is set.
+Nothing found says whether the country has counted or is preparing a census, so no stage is set.
 
-Not established: Nothing held names a population census or a household survey, or says there is none.
+Not established: Nothing found names a population census or a household survey, or says there is none.

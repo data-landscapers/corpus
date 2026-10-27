@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MDG-001",
-      "gaps": "No source held since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
+      "gaps": "No source found since October 2023 says an AI model built in the country is released, a dataset made for AI is published, or AI computing is in service.",
       "note": "LIAM is developing a Malagasy language model to be served through an API. Nothing built is stated released or in service.",
       "as_at": "2026-10-22"
     }

@@ -8,6 +8,6 @@
 
 **Linked to ID.** [The DGAPE ReDiaspora page says the system interoperates with the SNIAC database and registers voters automatically when they request a passport or national ID card (CNI), using their data if not already registered](<https://dgape.cv/rediaspora/>).
 
-***Noted, not assessed***. [SNIAC](<https://dgape.cv/rediaspora/>); [Portal Consular](<https://dgape.cv/rediaspora/>).
+***Also on file***. [SNIAC](<https://dgape.cv/rediaspora/>); [Portal Consular](<https://dgape.cv/rediaspora/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

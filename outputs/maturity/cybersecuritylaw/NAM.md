@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest fact is the consultation on the bill. In February 2026 [the Ministry of Information and Communication Technology consulted stakeholders from Kavango East, Kavango West and Zambezi at Rundu](<https://www.nampa.org/text/22852343>) on the proposed cybersecurity and cybercrime bill. Namibia's computer incident response team, NAM-CSIRT, [published its 2025 cybersecurity landscape report](<https://nam-csirt.na/download/namibia-cybersecurity-landscape-report-2025/>) and, dated by its publication in April 2026, it asks the government to expedite the Cybercrime Bill alongside related regulations.
 
-***Noted, not assessed***. [NAM-CSIRT](<https://nam-csirt.na/download/namibia-cybersecurity-landscape-report-2025/>), the Namibia Cyber Security Incident Response Team, owned by CRAN.
+***Also on file***. [NAM-CSIRT](<https://nam-csirt.na/download/namibia-cybersecurity-landscape-report-2025/>), the Namibia Cyber Security Incident Response Team, owned by CRAN.
 
-***Not held***. No source held says a cybercrime or cybersecurity law is in force.
+***Not found***. No source found says a cybercrime or cybersecurity law is in force.

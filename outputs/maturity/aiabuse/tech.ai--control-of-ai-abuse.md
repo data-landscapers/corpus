@@ -94,7 +94,7 @@ A rule addressing a harm from AI was in force in 2026; a designated authority is
 
 ### Burundi: 3 Established
 
-A 2026 data protection law in force sets rules on AI in automated decisions; a designated authority is not known.
+A 2026 data protection law in force sets rules on AI in automated decisions; no source found reports a designated authority.
 
 - Levellers says Burundi's personal data protection law of 10 March 2026 requires notice where personal data are processed with AI for automated decision-making and sets safeguards, including a human re-decision, for automated decisions with important effects ([source, 2026-03-10](https://www.levellers.ai/what-is/ai-regulation-burundi)).
 
@@ -285,84 +285,84 @@ A 2025 source says nothing addresses harms from AI.
 
 ### Botswana: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Central African Republic: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Congo: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Cote d'Ivoire: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### DR Congo: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Eswatini: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Gambia: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Madagascar: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Mauritania: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Niger: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Rwanda: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Somalia: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.
 
 ### Togo: No evidence
 
-Nothing held names a rule or authority against harms from AI or says there is none, so no stage is set.
+Nothing found names a rule or authority against harms from AI or says there is none, so no stage is set.
 
-Not established: Nothing held says whether anything addresses harms from AI.
+Not established: Nothing found says whether anything addresses harms from AI.

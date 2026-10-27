@@ -12,6 +12,6 @@
 
 **Last twelve months.** Burundi [validated a National Data Governance Strategy on 7 November 2025](<https://communityvoice.bi/1489-2/>). It adopted its first personal data protection law on 15 January 2026 and [promulgated it on 10 March 2026](<https://communityvoice.bi/1489-2/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The date the law takes effect, any regulation made under it and any decision taken under it. No appointment to the authority the law names is reported.
+***Not found***. The date the law takes effect, any regulation made under it and any decision taken under it. No appointment to the authority the law names is reported.

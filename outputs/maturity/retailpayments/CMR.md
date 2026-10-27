@@ -8,6 +8,6 @@
 
 **National switch.** [AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Cameroon](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Noted, not assessed***. [MoMo Helep Pro](<https://lejour.cm/economie-numerique-momo-helep-pour-revolutionner-la-tresorerie-des-pme/>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>); [Tresor Pay](<https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-mandates-digital-payment-platform-for-non-tax-revenues>).
+***Also on file***. [MoMo Helep Pro](<https://lejour.cm/economie-numerique-momo-helep-pour-revolutionner-la-tresorerie-des-pme/>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>); [Tresor Pay](<https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-mandates-digital-payment-platform-for-non-tax-revenues>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

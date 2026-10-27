@@ -6,8 +6,8 @@
 
 **Complaints handled.** [The Competition and Consumer Protection Commission resolved 1,477 complaints in 2024, the main ICT complaint being delayed or unreversed mobile money transactions](<https://www.zambiamonitor.com/consumer-protection-commission-claims-1477-complaints-resolved-in-2024/>).
 
-**Enforcement reported.** No source held since October 2023 reports a fine, a sanction or complaint figures for digital financial services. The nearest held fact: [the one given above](<https://www.zambiamonitor.com/consumer-protection-commission-claims-1477-complaints-resolved-in-2024/>).
+**Enforcement reported.** No source found since October 2023 reports a fine, a sanction or complaint figures for digital financial services. The nearest held fact: [the one given above](<https://www.zambiamonitor.com/consumer-protection-commission-claims-1477-complaints-resolved-in-2024/>).
 
-***Noted, not assessed***. [CIPS](<https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/>).
+***Also on file***. [CIPS](<https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/>).
 
-***Not held***. No source held since October 2023 reports a fine or sanction under the e-money directives, or complaint figures for digital financial services alone.
+***Not found***. No source found since October 2023 reports a fine or sanction under the e-money directives, or complaint figures for digital financial services alone.

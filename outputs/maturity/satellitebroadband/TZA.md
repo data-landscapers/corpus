@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** With [no provider licensed](<https://doingbusiness.co.tz/tanzania-eyes-starlink-as-spacex-expands-satellite-internet-across-africa>), there is nothing to count. Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. [TanSat-1](<https://www.telecomreviewafrica.com/articles/features/29151-the-rise-of-non-terrestrial-networks-integrating-leo-satellites-into-core-telecom-strategy/>).
+***Also on file***. [TanSat-1](<https://www.telecomreviewafrica.com/articles/features/29151-the-rise-of-non-terrestrial-networks-integrating-leo-satellites-into-core-telecom-strategy/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

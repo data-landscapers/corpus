@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact concerns the replacement and not rules under the law of 2001. The statistics institute reported that [stakeholders validated the draft law at the April 2026 workshop](<https://www.icasees.org/index.php/actualites/332-icasees-atelier-pour-la-validation-du-projet-de-loi-statistique-en-republique-centrafricaine>), which is to replace the 2001 text once adopted. Until then [the 2001 law](<https://unstats.un.org/unsd/dnss/docViewer.aspx?docID=2170>) is the one in force.
 
-***Noted, not assessed***. [Stratégie nationale de développement de la statistique 2 (SNDS2), 2024-2028](<https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique>).
+***Also on file***. [Stratégie nationale de développement de la statistique 2 (SNDS2), 2024-2028](<https://www.icasees.org/index.php/actualites/428-icasees-evaluation-a-mi-parcours-de-la-deuxieme-strategie-nationale-de-developpement-de-la-statistique>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

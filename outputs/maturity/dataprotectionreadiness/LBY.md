@@ -10,6 +10,6 @@
 
 **Implementing and acting.** None: with the law [still a draft](<https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/>) and [no authority in place](<https://smex.org/libyas-new-ai-strategy-celebrates-participation-yet-was-built-without-it/>), no body registers organisations, takes breach reports, issues guidance or rules on complaints.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No data protection law in force is held, and no authority.
+***Not found***. No data protection law in force has been found, and no authority.

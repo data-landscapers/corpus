@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The published means of complying is a list of countries judged adequate. [A DIAL article of 15 June 2026](<https://dial.global/africas-digital-future-seamless-data-flows/>) says Tunisia's 2018 adequacy list of countries for data transfers identified only five African countries. The [2004 law](<https://legislation-securite.tn/latest-laws/loi-organique-n-2004-63-du-27-juillet-2004-portant-sur-la-protection-des-donnees-a-caractere-personnel/>) leaves the authorisation of each transfer to the INPDP, the authority it names as owner of the rule.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source from the last three years names a country approved to receive data, an organisation given or refused permission, or an order or penalty for sending data abroad.
+***Not found***. No source from the last three years names a country approved to receive data, an organisation given or refused permission, or an order or penalty for sending data abroad.

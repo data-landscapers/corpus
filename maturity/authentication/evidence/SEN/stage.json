@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-001;SEN-004",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
       "note": "Rebuild: the e-Sénégal app authenticates users on the NIN for its procedures (SEN-001), and APPEL e-procurement uses strong authentication and e-signature (SEN-004). Neither is shown as one service used by several bodies.",
       "as_at": "2026-10-22"
     }

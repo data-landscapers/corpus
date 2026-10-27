@@ -6,6 +6,6 @@
 
 **Certification.** The [2022 Act](<https://ghalii.org/akn/gh/act/2022/1078>) is the nearest text held; only its citation and history are held, and they name no certification scheme.
 
-***Noted, not assessed***. [ISO/IEC 27001:2022 certification of Ghana Link Kumasi Tier IV Data Centre (certifier CertiTrust)](<https://www.myjoyonline.com/ghana-link-secures-iso-iec-270012022-certification-for-new-tier-iv-data-centre-supporting-icums/>); [ISO/IEC 27001:2022 and ISO/IEC 20000:2018 certifications of Margins ID Group](<https://mobile.classfmonline.com/news/technology/Margins-ID-Group-emerges>).
+***Also on file***. [ISO/IEC 27001:2022 certification of Ghana Link Kumasi Tier IV Data Centre (certifier CertiTrust)](<https://www.myjoyonline.com/ghana-link-secures-iso-iec-270012022-certification-for-new-tier-iv-data-centre-supporting-icums/>); [ISO/IEC 27001:2022 and ISO/IEC 20000:2018 certifications of Margins ID Group](<https://mobile.classfmonline.com/news/technology/Margins-ID-Group-emerges>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

@@ -6,8 +6,8 @@
 
 **Single window.** [BURS says the CMS provides a Single Window through its Other Government Agencies module, with the Botswana Bureau of Standards enrolled and other agencies at testing stage (2022, before the three-year window)](<https://mag.wcoomd.org/magazine/wco-news-97-issue-1-2022/how-botswana-customs-is-leveraging-data-driven-technologies/>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://dailynews.gov.bw/news-detail/77665>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://dailynews.gov.bw/news-detail/77665>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a trade single window is in service.
+***Not found***. No source found since October 2023 says a trade single window is in service.

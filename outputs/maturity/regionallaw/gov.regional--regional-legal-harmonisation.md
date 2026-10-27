@@ -373,4 +373,4 @@ Zimbabwe had not signed the African Union's cyber security and data protection c
 
 Nothing is known of a shared African digital law the Central African Republic has signed or is bound by, so no stage is set.
 
-Not established: Nothing held names an African legal text on a digital matter that the country has signed or is bound by, or says it has signed none.
+Not established: Nothing found names an African legal text on a digital matter that the country has signed or is bound by, or says it has signed none.

@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ZAF-002;ZAF-001",
-   "gaps": "No source held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.",
+   "gaps": "No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.",
    "note": "Counted from the four questions by study-ladder-qualitystandards.py."
   }
  ]

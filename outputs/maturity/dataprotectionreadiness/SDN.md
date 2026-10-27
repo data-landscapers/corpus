@@ -10,6 +10,6 @@
 
 **Implementing and acting.** According to the [same Center](<https://sudancps.com/en/2026/07/19/sudans-privacy-gap-balancing-digital-transformation-and-data-laws-intro/>), citing the AI Regulation Tracker, neither of those two authorities had issued binding rules as of mid-2026.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Any ruling by an authority against an organisation, and the content of the draft bill.
+***Not found***. Any ruling by an authority against an organisation, and the content of the draft bill.

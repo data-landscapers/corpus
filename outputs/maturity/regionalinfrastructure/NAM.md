@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The [satellite pilot](<https://itweb.africa/article/namibia-angola-ink-satellite-deal-for-regional-connectivity/G98YdqLGjVoMX2PD>) is a trial, with a full commercial launch to follow it. It came after talks that began in June 2025 and [a proof of concept reported in October 2025](<https://www.connectingafrica.com/connectivity/namibia-taps-angosat-2-to-boost-connectivity>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says building has started in the last three years.
+***Not found***. No source found says building has started in the last three years.

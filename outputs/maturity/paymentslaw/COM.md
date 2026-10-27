@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** The [2017 regulation](<https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf>) sets conditions for e-money activity. It is not said whether companies that are not banks can be licensed under it, and no rule is named that requires mobile money providers and banks to connect to each other or to a national switch. The Comoros therefore answers the first two questions only: rules in force, with their reach to non-banks and to connection between providers not stated.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.
+***Not found***. No source found says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.

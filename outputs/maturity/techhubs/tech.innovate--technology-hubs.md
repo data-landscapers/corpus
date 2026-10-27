@@ -38,26 +38,26 @@ A technology park was open with tenants in 2025.
 
 ### Burundi: 4 Operating
 
-Hubs ran programmes in more than one city in 2026; a technology park with tenants is not known.
+Hubs ran programmes in more than one city in 2026; no source found reports a technology park with tenants.
 
 - BujaHub says it has offices in Bujumbura and Gitega (80 and 30 coworking places) and ran its incubation with entrepreneurs from Bujumbura, Gitega and Ngozi, including provincial sessions ([source, 2026-02-11](https://bujahub.bi/moonshot-program/)).
 
 ### Cameroon: 4 Operating
 
-Hubs ran programmes in more than one city in 2025; a technology park with tenants is not known.
+Hubs ran programmes in more than one city in 2025; no source found reports a technology park with tenants.
 
 - Hubs and incubators are named in Douala, Yaounde and Buea (ActivSpaces, SM Ventures), per TechCabal ([source, 2025-07-01](https://techcabal.com/2025/07/01/tnw-cameroon-algeria/)).
 
 ### Egypt: 4 Operating
 
-Egypt's 24 innovation centres across the governorates incubated startups in 2026; whether a technology park has tenants is not known.
+Egypt's 24 innovation centres across the governorates incubated startups in 2026; no source found says whether a technology park has tenants.
 
 - Minister Raafat Hindy says 24 innovation centres have been created, which incubate startups and train young people ([source, 2026-10-21](https://www.tafsela.net/98622)).
 - Minister Raafat Hindy says the 24 innovation centres are spread across the governorates ([source, 2026-10-21](https://www.tafsela.net/98622)).
 
 ### Somalia: 4 Operating
 
-Hubs ran programmes in more than one city in 2026; a technology park with tenants is not known.
+Hubs ran programmes in more than one city in 2026; no source found reports a technology park with tenants.
 
 - The three hubs named are in Mogadishu and Hargeisa, with graduation ceremonies held in both cities ([source, 2026-07-22](https://sonna.so/en/article/Somali-Startup-Hubs-Join-Forces-as-UNIDO-Convenes-Innovation-Forums-in-Mogadishu-and-Hargeisa)).
 
@@ -334,7 +334,7 @@ A technology hub or park was under way in 2026; none running programmes is on re
 
 ### Malawi: 2 Nascent
 
-Malawi's ten government tech hubs trained people in digital skills by 2024; a hub running a startup incubation programme is not known.
+Malawi's ten government tech hubs trained people in digital skills by 2024; no source found reports a hub running a startup incubation programme.
 
 - The Secretary for Information and Digitalization says 10 tech hubs under the Digital Malawi Project have trained over 19,000 people in digital skills and given some beneficiaries seed funding ([source, 2024-08-09](https://digmap.pppc.mw/digital-malawi-project-a-game-changer-for-malawis-digital-transformation/)).
 - TechCabal refers to mHub as an incubator in Malawi with a former CEO, with no programme or cohort described ([source, 2024-03](https://techcabal.com/2024/03/02/malawi-tech-ecosystem-feature/)).

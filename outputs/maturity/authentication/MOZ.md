@@ -6,8 +6,8 @@
 
 **Used across services.** [The SCDM covers public and private institutions, with the Attorney General's Office, the Ministry of Education and Culture and Eduardo Mondlane University newly joined, and more than 500 institutions signing documents through it](<https://www.oeconomico.com/governo-reforca-estrategia-de-digitalizacao-com-500-assinaturas-electronicas-e-expansao-da-infra-estrutura-tecnologica/>).
 
-**Remote proof of identity.** No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://www.oeconomico.com/governo-reforca-estrategia-de-digitalizacao-com-500-assinaturas-electronicas-e-expansao-da-infra-estrutura-tecnologica/>).
+**Remote proof of identity.** No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service. The nearest held fact: [the one given above](<https://www.oeconomico.com/governo-reforca-estrategia-de-digitalizacao-com-500-assinaturas-electronicas-e-expansao-da-infra-estrutura-tecnologica/>).
 
-***Noted, not assessed***. [Bilhete de Identidade (BI)](<https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/>); [National identity card (DNIC)](<https://www.biometricupdate.com/202607/mozambique-approves-new-national-id-framework-to-speed-card-issuance>); [Centro Pronto](<https://clubofmozambique.com/news/mozambique-centro-pronto-document-application-service-to-expand-to-diaspora/>).
+***Also on file***. [Bilhete de Identidade (BI)](<https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/>); [National identity card (DNIC)](<https://www.biometricupdate.com/202607/mozambique-approves-new-national-id-framework-to-speed-card-issuance>); [Centro Pronto](<https://clubofmozambique.com/news/mozambique-centro-pronto-document-application-service-to-expand-to-diaspora/>).
 
-***Not held***. No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.
+***Not found***. No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.

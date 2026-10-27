@@ -6,8 +6,8 @@
 
 **Deaths digital.** [ZCSRA says death registration, with births, marriages and divorces, is decentralised to Sheha level through the eCRVS platform in all 11 Zanzibar districts](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-tanzania_0.pdf>). [RITA says deaths are among the vital events registered on the eRITA single digital platform](<https://www.child-identity.org/wp-content/uploads/2025/06/Patricia-Tanzania-PPT-RITA-presentation.pdf>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-tanzania_0.pdf>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-tanzania_0.pdf>).
 
-***Noted, not assessed***. [Jamii Namba](<https://dailynews.co.tz/jamii-namba-children-pilot-set-for-rollout/>); [Unique Number ID](<https://www.biometricupdate.com/202505/tanzania-budgets-4-5m-for-digital-id-pilot-targeting-minors>); [NIDA Online Registration Portal](<https://iamhere.bakermckenzie.com/en/pages/tanzania>).
+***Also on file***. [Jamii Namba](<https://dailynews.co.tz/jamii-namba-children-pilot-set-for-rollout/>); [Unique Number ID](<https://www.biometricupdate.com/202505/tanzania-budgets-4-5m-for-digital-id-pilot-targeting-minors>); [NIDA Online Registration Portal](<https://iamhere.bakermckenzie.com/en/pages/tanzania>).
 
-***Not held***. No source held since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 puts birth registration at 90% or more.

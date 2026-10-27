@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact is the requirement itself: under the Act of 23 December 2024, [the data protection authority must authorise each cross-border transfer of personal data](<https://www.africanlawbusiness.com/expert-views/key-features-of-cameroons-new-data-protection-law/>), and that duty takes effect once the 18-month grace period has run.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No list of countries, model contract terms, permission procedure or guidance on sending data abroad is held from the authority. No application of the rule is held.
+***Not found***. No list of countries, model contract terms, permission procedure or guidance on sending data abroad is held from the authority. No application of the rule has been found.

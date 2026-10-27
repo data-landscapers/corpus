@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The nearest held fact is the same [October 2025 announcement of ISO correspondent membership](<https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/>). It names no law or circular that requires public bodies to meet an international standard, and no committee on information technology or data on which the authority sits. It is dated 7 October 2025, so it shows the position at that date only.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

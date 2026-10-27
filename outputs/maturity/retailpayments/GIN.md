@@ -8,6 +8,6 @@
 
 **National switch.** [AGUIDUTEN described NimbaPay as the national instant payment platform connecting banks, e-money institutions and microfinance institutions, launched with the central bank and Guineenne de Monetique](<https://focusguinee.info/2026/07/26/laguiduten-salue-le-lancement-de-nimbapay-la-plateforme-nationale-de-paiement-instantane/>). [The document describes NimbaPay as Guinea's national instant payment system connecting banks and electronic money institutions, launched on 23 July 2026](<https://www.itnewsafrica.com/2026/07/guinea-launches-nimbapay-opening-a-new-era-of-instant-and-inclusive-digital-payments/>).
 
-***Noted, not assessed***. [KS-PAY](<https://mediaguinee.com/2026/04/monnaie-electronique-bgb-solutions-s-a-lance-son-application-ks-wallet/>); [Tresor Pay](<https://www.wearetech.africa/en/fils-uk/news/finance/guinea-rolls-out-tresor-pay-as-digital-gateway-for-public-payments>).
+***Also on file***. [KS-PAY](<https://mediaguinee.com/2026/04/monnaie-electronique-bgb-solutions-s-a-lance-son-application-ks-wallet/>); [Tresor Pay](<https://www.wearetech.africa/en/fils-uk/news/finance/guinea-rolls-out-tresor-pay-as-digital-gateway-for-public-payments>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

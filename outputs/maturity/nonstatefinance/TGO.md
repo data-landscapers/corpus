@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** The lenders and investors above dealt directly with companies, not with a government body: [Togocom](<https://disclosures.ifc.org/project-detail/SII/44666/axian-togo-project>), [Gozem](<https://african.business/2026/03/innov-africa-deals/togos-quiet-rise-as-a-startup-contender>) and [Cyber Defense Africa](<https://www.gov.pl/web/cyfryzacja/wspolpraca-rozwojowa-bgk-wspiera-polska-inwestycje-technologiczna-w-afryce>).
 
-***Noted, not assessed***. [World Bank IDA $150 million development policy operation](<https://www.worldbank.org/en/news/press-release/2025/12/15/togo-world-bank-provides-150-million-to-boost-private-investment-and-promote-job-creation>), owned by the World Bank and the Government of Togo.
+***Also on file***. [World Bank IDA $150 million development policy operation](<https://www.worldbank.org/en/news/press-release/2025/12/15/togo-world-bank-provides-150-million-to-boost-private-investment-and-promote-job-creation>), owned by the World Bank and the Government of Togo.
 
-***Not held***. No amount from 2024 on is named from a bank, pension fund, insurer, investor or company of Togo itself, or raised on Togo's own market. No private money the government brought into a public digital project is shown.
+***Not found***. No amount from 2024 on is named from a bank, pension fund, insurer, investor or company of Togo itself, or raised on Togo's own market. No private money the government brought into a public digital project is shown.

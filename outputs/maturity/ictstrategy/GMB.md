@@ -16,6 +16,6 @@
 
 **Last twelve months.** The statement was [on the ministry's list of policies in 2025](<https://publicadministration.desa.un.org/sites/default/files/list-of-files/2025/1.2.1%29%20data%20governance%20-mocde.pdf>).
 
-***Noted, not assessed***. [National Digital Economy Master Plan 2024-2034](<https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf>); [ECOWAS fiber optics backbone project (Gambia)](<https://www.isdb.org/sectors/ict>).
+***Also on file***. [National Digital Economy Master Plan 2024-2034](<https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf>); [ECOWAS fiber optics backbone project (Gambia)](<https://www.isdb.org/sectors/ict>).
 
-***Not held***. No source holds, links or quotes the statement's text, and none says it is unpublished. Nothing is held on a delivery plan, reporting against targets, a mandated body or finance, and no dated event falls in the twelve months to 30 September 2026.
+***Not found***. No source holds, links or quotes the statement's text, and none says it is unpublished. Nothing is held on a delivery plan, reporting against targets, a mandated body or finance, and no dated event falls in the twelve months to 30 September 2026.

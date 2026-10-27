@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SSD-003;SSD-005",
-   "gaps": "No source held since October 2023 gives users, applications or transactions through the national portal.",
+   "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
    "note": "First pass: counted from the four questions by study-ladder-egovservices.py."
   }
  ]

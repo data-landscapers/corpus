@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "g2ppayments"
 SUB = "g2p"
-GAPS = {'4': 'No source held since October 2023 says government payments are checked against the ID or a social registry.', '3': 'No source held since October 2023 shows two or more main government payment streams paid digitally.', '2': 'No source held since October 2023 says: does one government programme pay people digitally.', '1': 'No source held since October 2023 says: is digital government payment under way.', '5': ''}
-EMPTY = 'Nothing held says how government pays people.'
-UNPLACED = 'Nothing held since October 2023 says whether government pays people digitally.'
+GAPS = {'4': 'No source found since October 2023 says government payments are checked against the ID or a social registry.', '3': 'No source found since October 2023 shows two or more main government payment streams paid digitally.', '2': 'No source found since October 2023 says: does one government programme pay people digitally.', '1': 'No source found since October 2023 says: is digital government payment under way.', '5': ''}
+EMPTY = 'Nothing found says how government pays people.'
+UNPLACED = 'Nothing found since October 2023 says whether government pays people digitally.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

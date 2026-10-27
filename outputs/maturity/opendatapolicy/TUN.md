@@ -6,6 +6,6 @@
 
 **Portal run and data published.** [A new version of the national open data portal, built to the decree's specifications, opened in early March 2023, and in April 2024 it carried datasets from 23 data producers across six themes](<https://www.opengovpartnership.org/fr/members/tunisia/commitments/TN0053/>), according to the Open Government Partnership's review. [The e-administration unit of the Presidency of the Government said in July 2024 that it had built the national public data register in application of the decree and of Circular 4 of 2024 on open public data](<http://www.ogptunisie.gov.tn/fr/index.php/2024/07/01/developpement-du-registre-national-des-donnees-publiques/>).
 
-***Noted, not assessed***. [Mizaniatouna](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>); [National Open Data Registry](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>); [Portail National des Données Ouvertes (data.gov.tn)](<https://www.opengovpartnership.org/fr/members/tunisia/commitments/TN0053/>).
+***Also on file***. [Mizaniatouna](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>); [National Open Data Registry](<https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/>); [Portail National des Données Ouvertes (data.gov.tn)](<https://www.opengovpartnership.org/fr/members/tunisia/commitments/TN0053/>).
 
-***Not held***. The national strategy written under the decree is not known to have been adopted.
+***Not found***. No source found reports the national strategy written under the decree to have been adopted.

@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** No private deal in a government digital project is reported for 2024 or later. The only private money reported is the [first-half 2026 startup total of more than USD 25 million](<https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/>), which is not tied to any public project.
 
-***Noted, not assessed***. [Bidra Innovation Ventures](<https://techtrends.africa/the-rise-of-african-corporate-venture-capital/>), the venture arm of the fertiliser group OCP; [Startup Catalytic Fund](<https://themoroccopost.com/morocco-targets-258-million-in-startup-financing-through-new-venture-capital-mechanism/>), run by the Ministry of Digital Transition and Administration Reform and managed by Tamwilcom.
+***Also on file***. [Bidra Innovation Ventures](<https://techtrends.africa/the-rise-of-african-corporate-venture-capital/>), the venture arm of the fertiliser group OCP; [Startup Catalytic Fund](<https://themoroccopost.com/morocco-targets-258-million-in-startup-financing-through-new-venture-capital-mechanism/>), run by the Ministry of Digital Transition and Administration Reform and managed by Tamwilcom.
 
-***Not held***. Only one amount is held from 2024 on, so whether private money came in more than one year is not known.
+***Not found***. Only one amount is held from 2024 on, so no source found says whether private money came in more than one year.

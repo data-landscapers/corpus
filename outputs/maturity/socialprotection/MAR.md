@@ -2,6 +2,6 @@
 
 ## Social protection
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how social programmes are administered.
+***Not found***. Nothing found says how social programmes are administered.

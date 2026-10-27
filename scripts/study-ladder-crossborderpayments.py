@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "crossborderpayments"
 SUB = "crossborder"
-GAPS = {'4': 'No source held since October 2023 gives a figure for cross-border digital payments.', '3': 'No source held since October 2023 says the country takes part in PAPSS or a regional payment system.', '2': 'No source held since October 2023 says: is a corridor in service.', '1': 'No source held since October 2023 says: is a cross-border corridor under way.', '5': ''}
-EMPTY = 'Nothing held names a cross-border digital payment channel, or says there is none.'
-UNPLACED = 'Nothing held since October 2023 says whether a cross-border digital payment channel is in service.'
+GAPS = {'4': 'No source found since October 2023 gives a figure for cross-border digital payments.', '3': 'No source found since October 2023 says the country takes part in PAPSS or a regional payment system.', '2': 'No source found since October 2023 says: is a corridor in service.', '1': 'No source found since October 2023 says: is a cross-border corridor under way.', '5': ''}
+EMPTY = 'Nothing found names a cross-border digital payment channel, or says there is none.'
+UNPLACED = 'Nothing found since October 2023 says whether a cross-border digital payment channel is in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

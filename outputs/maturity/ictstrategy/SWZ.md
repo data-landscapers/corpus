@@ -16,6 +16,6 @@
 
 **Last twelve months.** The Prime Minister [launched the policy on 3 August 2007](<https://www.gov.sz/images/stories/swd%20nici%20plan%20-%20final%203.pdf>).
 
-***Noted, not assessed***. [Eswatini Digitalisation Strategy 2024-2028](<https://www.separc.co.sz/2024/12/05/eswatini-advances-toward-digital-transformation-key-findings-from-the-digital-readiness-assessment>).
+***Also on file***. [Eswatini Digitalisation Strategy 2024-2028](<https://www.separc.co.sz/2024/12/05/eswatini-advances-toward-digital-transformation-key-findings-from-the-digital-readiness-assessment>).
 
-***Not held***. No period of the policy's own is held: the only one on record, to 2016, is the Implementation Plan's. No adopted delivery plan, no report against the policy, no body or budget in the last three years and nothing dated in the last twelve months is held.
+***Not found***. No period of the policy's own has been found: the only one on record, to 2016, is the Implementation Plan's. No adopted delivery plan, no report against the policy, no body or budget in the last three years and nothing dated in the last twelve months is held.

@@ -8,6 +8,6 @@
 
 **Linked to tax.** [The KW-IRS chairman says the KW-IRS online payment platform is integrated with the new land system, so land and related payments are made online](<https://von.gov.ng/kwara-government-launches-digital-land-administration-process/>).
 
-***Noted, not assessed***. [KW-IRS online payment platform](<https://von.gov.ng/kwara-government-launches-digital-land-administration-process/>).
+***Also on file***. [KW-IRS online payment platform](<https://von.gov.ng/kwara-government-launches-digital-land-administration-process/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

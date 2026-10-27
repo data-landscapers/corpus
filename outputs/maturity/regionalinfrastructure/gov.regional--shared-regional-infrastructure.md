@@ -32,13 +32,13 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 
 ### Togo: 5 Leading
 
-Togo's Equiano landing station carried Ghanaian operators' traffic in 2024; the Lagos-Accra route's service date is not known.
+Togo's Equiano landing station carried Ghanaian operators' traffic in 2024; no source found reports the Lagos-Accra route's service date.
 
 - CSquared's CEO says it connected its cross-border circuits from Togo into Ghana and Benin and provided capacity to MTN Ghana and Vodafone Ghana through the Equiano landing station in Lome ([source, 2024-03](https://capacityglobal.com/news/exclusive-equianos-togo-landing-station-sees-4x-increase-in-traffic/)).
 
 ### Algeria: 4 Operating
 
-Algeria and Niger opened a 100-gigabit fibre link at Assamaka in October 2026; capacity sold or users from Niger are not known.
+Algeria and Niger opened a 100-gigabit fibre link at Assamaka in October 2026; no source found reports capacity sold or users from Niger.
 
 - APS reports that on 2026-10-06 Algeria's and Niger's ministers launched operation at Assamaka of the fibre-optic trans-Saharan backbone linking In-Guezzam (Algeria) to the Arlit-Agadez region (Niger), with 100 Gbps capacity from the start, to carry data traffic between the two countries ([source, 2026-10-06](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)).
 - ANP reports that on 2026-10-06 the ministers of Niger and Algeria presided at Assamaka over the official launch of operation of the trans-Saharan fibre-optic backbone linking Niger to Algeria ([source, 2026-10-06](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)).
@@ -46,13 +46,13 @@ Algeria and Niger opened a 100-gigabit fibre link at Assamaka in October 2026; c
 
 ### Botswana: 4 Operating
 
-A fibre route from the Botswana border to Bulawayo went live in July 2026; traffic carried for another country is not known.
+A fibre route from the Botswana border to Bulawayo went live in July 2026; no source found reports traffic carried for another country.
 
 - Paratus and Powertel announce that the Plumtree to Bulawayo section is live and carrying traffic, the first active Paratus fibre route into Zimbabwe, linking it to Botswana ([source, 2026-07-03](https://paratus.africa/blog/paratus-zimbabwe-and-powertel-switch-on-new-digital-highway/)).
 
 ### Burkina Faso: 4 Operating
 
-A company's fibre cable from Morocco to Niger through Burkina Faso was completed in 2022; traffic carried for another country is not known.
+A company's fibre cable from Morocco to Niger through Burkina Faso was completed in 2022; no source found reports traffic carried for another country.
 
 - Maroc Telecom's 5,700 km terrestrial cable from Morocco to Niger via Mauritania, Mali and Burkina Faso is recorded as completed with an end year of 2022, and enables Moov Africa's landlocked subsidiary in Burkina Faso to reach international bandwidth through the Maroc Telecom network (the document gives no date for entry into service beyond 2022 and its published date of 2022-01-01) ([source, 2022](https://leseco.ma/business/maroc-telecom-plus-de-454-mmdh-investis-en-afrique.html)).
 
@@ -65,7 +65,7 @@ A fibre link to the Central African Republic has been in service since February 
 
 ### Central African Republic: 4 Operating
 
-Fibre links to Cameroon and Congo have been in service since February 2023; how much traffic they carry is not known.
+Fibre links to Cameroon and Congo have been in service since February 2023; no source found says how much traffic they carry.
 
 - The article says CAR authorities estimated in May 2026 that connecting the country to submarine cables through the terrestrial networks of coastal countries had markedly improved available speeds ([source, 2026-05](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique)).
 - The African Development Bank says the Central African Backbone project closed in September 2023 having installed a 900 km national fibre backbone, with terrestrial optical interconnections to Cameroon and Congo, funded by EUR 17m from the EU, EUR 13m from the African Development Fund and EUR 4m from the Bank's Transition Support Facility ([source, 2023-09](https://www.afdb.org/fr/news-and-events/les-jeunes-centrafricains-formes-aux-metiers-du-numerique-grace-la-fibre-optique-installee-avec-lappui-de-la-banque-africaine-de-developpement-et-de-lunion-europeenne-69893)).
@@ -73,7 +73,7 @@ Fibre links to Cameroon and Congo have been in service since February 2023; how 
 
 ### Congo: 4 Operating
 
-A fibre link to the Central African Republic has been in service since February 2023; traffic carried across it is not known.
+A fibre link to the Central African Republic has been in service since February 2023; no source found reports traffic carried across it.
 
 - Xalam Analytics' January 2026 brief states that submarine cables have been deployed across the Congo river to connect Brazzaville and Kinshasa (DRC); no date for the deployment is given, so the brief's January 2026 publication date is used ([source, 2026-01](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Congo-Republic-2026.pdf)).
 - On 6 February 2023 the Central African Republic inaugurated its national fibre backbone and its interconnection with the Republic of Congo (via Bomassa), part of the 935 km of installed and operational fibre under the AfDB and EU supported Central African Backbone project, with a Congolese telecoms ministry representative present; the release says this component completes the Cameroon and Congo components ([source, 2023-02-06](https://www.agenceecofin.com/infrastructures/0802-105283-inauguration-de-la-dorsale-optique-nationale-de-la-republique-centrafricaine-et-de-l-interconnexion-avec-le-congo)).
@@ -101,13 +101,13 @@ A sea cable has joined Djibouti to Somalia and Kenya since 2021; a land corridor
 
 ### Equatorial Guinea: 4 Operating
 
-Equatorial Guinea's fibre backbone was joined to Gabon's in November 2025; traffic carried across the border is not known.
+Equatorial Guinea's fibre backbone was joined to Gabon's in November 2025; no source found reports traffic carried across the border.
 
 - SPIN (the Gabonese backbone holder) reports that the Gabonese and Equatoguinean ministers officially inaugurated on 10 November 2025 the physical and logical interconnection of the two countries' national fibre backbones at Meyo-Kyé/Ebebeyin, with tests confirming stable traffic exchange between Bitam and Ebebeyin and between Libreville and Bata ([source, 2025-11-10](https://spin.ga/alliance-historique-numerique-gabon-guinee-equatoriale/)).
 
 ### Gabon: 4 Operating
 
-Gabon's fibre backbone was joined to Equatorial Guinea's in November 2025; traffic carried across the border is not known.
+Gabon's fibre backbone was joined to Equatorial Guinea's in November 2025; no source found reports traffic carried across the border.
 
 - Gabon's backbone company reports that the Gabonese and Equatoguinean ministers inaugurated the interconnection of the two national fibre backbones at Meyo-Kye and Ebebeyin on 10 November 2025, with tests confirming traffic exchanged ([source, 2025-11-10](https://spin.ga/alliance-historique-numerique-gabon-guinee-equatoriale/)).
 
@@ -132,38 +132,38 @@ Orange Liberia's new fibre link connects through Côte d'Ivoire and was reported
 
 ### Libya: 4 Operating
 
-A Mediterranean sea cable joining Libya to Morocco, Tunisia and Egypt was inaugurated in May 2025; traffic between them is not known.
+A Mediterranean sea cable joining Libya to Morocco, Tunisia and Egypt was inaugurated in May 2025; no source found reports traffic between them.
 
 - Libya Herald reports that Libya's state telecoms holding company LPTIC inaugurated the 8,700 km Medusa submarine cable in Misrata on 10 May 2025, a system the article says connects Libya with Mediterranean countries including Morocco, Tunisia and Egypt ([source, 2025-05-10](https://libyaherald.com/2025/05/medusa-submarine-cable-project-linking-libya-with-europe-inaugurated)).
 
 ### Malawi: 4 Operating
 
-Malawi's TNM ran its internet over fibre links to Zambia and Mozambique in 2024; traffic carried for those countries is not known.
+Malawi's TNM ran its internet over fibre links to Zambia and Mozambique in 2024; no source found reports traffic carried for those countries.
 
 - TNM says its internet runs over cross-border fibre links to Zambia (Mchinji/Chipata) and Mozambique (Muloza/Mulanje) that it restored or acquired in May 2024 ([source, 2024-05](https://malawi24.com/2024/05/21/tnm-invests-mk4-billion-restores-internet-disrupted-by-sea-cable-cuts/)).
 
 ### Mali: 4 Operating
 
-Mali and Senegal inaugurated a backbone interconnection in October 2026, and a Morocco-to-Niger cable was completed in 2022; traffic carried is not known.
+Mali and Senegal inaugurated a backbone interconnection in October 2026, and a Morocco-to-Niger cable was completed in 2022; no source found reports traffic carried.
 
 - SENUM SA (Senegal) and SMTD-SA (Mali) inaugurated the interconnection of their national fibre-optic backbones at the Kidira-Diboli border bridge on Monday 2026-10-05, described by a speaker as the putting into service of the infrastructure; no capacity or traffic figure is given ([source, 2026-10-05](https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/)).
 - Maroc Telecom's completed 5,700 km terrestrial cable runs from Morocco to Niger via Mauritania, Mali and Burkina Faso (Mali on the route, not named as an end), and lets the Moov Africa subsidiary in landlocked Mali connect to international bandwidth through the Maroc Telecom network; investment about MAD 1 billion, 2020 to 2022 ([source, 2022](https://leseco.ma/business/maroc-telecom-plus-de-454-mmdh-investis-en-afrique.html)).
 
 ### Mauritania: 4 Operating
 
-A company's fibre cable from Morocco to Niger through Mauritania was completed in 2022; traffic carried for another country is not known.
+A company's fibre cable from Morocco to Niger through Mauritania was completed in 2022; no source found reports traffic carried for another country.
 
 - Maroc Telecom's 5,700 km transafrican terrestrial fibre cable from Morocco to Niger via Mauritania, Mali and Burkina Faso, recorded as completed in 2022 (start 2020), lets its landlocked Moov Africa subsidiaries in Mauritania, Mali, Burkina Faso and Niger reach international bandwidth over the Maroc Telecom network; the source gives no month and no traffic figures ([source, 2022](https://leseco.ma/business/maroc-telecom-plus-de-454-mmdh-investis-en-afrique.html)).
 
 ### Morocco: 4 Operating
 
-A company's fibre cable from Morocco to Niger was completed in 2022; traffic carried for the countries along it is not known.
+A company's fibre cable from Morocco to Niger was completed in 2022; no source found reports traffic carried for the countries along it.
 
 - Maroc Telecom's 5,700 km terrestrial fibre cable from Morocco to Niger through Mauritania, Mali and Burkina Faso is recorded as completed in 2022 ([source, 2022](https://leseco.ma/business/maroc-telecom-plus-de-454-mmdh-investis-en-afrique.html)).
 
 ### Mozambique: 4 Operating
 
-A fibre link between Mozambique and Zambia was commissioned in February 2026; traffic carried across it is not known.
+A fibre link between Mozambique and Zambia was commissioned in February 2026; no source found reports traffic carried across it.
 
 - Zambia and Mozambique officially launched the Chanida-Cassacatiza cross-border fibre-optic interconnector, linking Zambia's national backbone to Mozambique's submarine-cable network, at a commissioning ceremony reported on 2026-02-23 (Zambia's technology minister and Mozambique's communications minister speaking); the date is the document's published date ([source, 2026-02-23](https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/)).
 
@@ -176,45 +176,45 @@ A company's fibre cable from Morocco reached Niger in 2022; Niger's own fibre to
 
 ### Nigeria: 4 Operating
 
-A fibre route from Lagos to Dakar was activated in May 2025; traffic carried across it is not known.
+A fibre route from Lagos to Dakar was activated in May 2025; no source found reports traffic carried across it.
 
 - Phase3 and Sonatel activated a 3,500 km terrestrial fibre route from Lagos, Nigeria, to Dakar, Senegal, through Benin, Togo and Ghana ([source, 2025-05-09](https://techafricanews.com/2025/05/09/west-africas-digital-backbone-phase3-and-sonatel-launch-3500km-fibre-route/)).
 
 ### Sao Tome and Principe: 4 Operating
 
-A sea cable joining São Tomé and Príncipe to Côte d'Ivoire has been in service since 2013; traffic carried is not known.
+A sea cable joining São Tomé and Príncipe to Côte d'Ivoire has been in service since 2013; no source found reports traffic carried.
 
 - The World Bank ICR states that the ACE cable was commercially launched in February 2013 after tests across the 16 countries it connects, phase 1 segments in service including Côte d'Ivoire to STP, and the STP landing station was inaugurated in October 2012 ([source, 2013-02](https://documents1.worldbank.org/curated/en/234391468190440376/txt/ICR3141-P117652-Box391488B-OUO-9.txt)).
 
 ### Senegal: 4 Operating
 
-A fibre route from Dakar to Lagos was activated in May 2025; traffic carried across it is not known.
+A fibre route from Dakar to Lagos was activated in May 2025; no source found reports traffic carried across it.
 
 - Phase3 and Sonatel activated a 3,500km terrestrial fibre route from Lagos, Nigeria, to Dakar, Senegal, through Benin, Togo and Ghana; commercial availability and service packages were still to be announced ([source, 2025-05-09](https://techafricanews.com/2025/05/09/west-africas-digital-backbone-phase3-and-sonatel-launch-3500km-fibre-route/)).
 
 ### Somalia: 4 Operating
 
-A sea cable has joined Somalia to Djibouti and Kenya since 2021; traffic carried between them is not known.
+A sea cable has joined Somalia to Djibouti and Kenya since 2021; no source found reports traffic carried between them.
 
 - Connecting Africa, citing Djibouti Telecom, reports that the DARE1 subsea cable has been operational since 2021 and connects Djibouti City with Bosaso and Mogadishu in Somalia and Mombasa in Kenya ([source, 2021](https://www.connectingafrica.com/connectivity/dare1-subsea-cable-to-link-kenya-to-south-africa)).
 
 ### Tanzania: 4 Operating
 
-A fibre link from Dar es Salaam to Mombasa has been in service since July 2025, with Kenyan companies using it; volumes are not known.
+A fibre link from Dar es Salaam to Mombasa has been in service since July 2025, with Kenyan companies using it; no source found reports volumes.
 
 - Connecting Africa reports that in July 2025 TTCL and Kenya's ICT Authority launched and implemented a terrestrial fibre link connecting Dar es Salaam in Tanzania to Mombasa in Kenya ([source, 2025-07](https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite)).
 - Connecting Africa reports that in July 2025 TTCL and Kenya's ICT Authority launched and implemented a terrestrial fibre link connecting Dar es Salaam in Tanzania to Mombasa in Kenya ([source, 2025-07](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal)).
 
 ### Uganda: 4 Operating
 
-A fibre network from Kampala to Mombasa was completed in May 2025; traffic carried across it is not known.
+A fibre network from Kampala to Mombasa was completed in May 2025; no source found reports traffic carried across it.
 
 - Bayobab completed a fibre optic network linking Mombasa in Kenya to Kampala in Uganda in May 2025, per Connecting Africa ([source, 2025-05](https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite)).
 - Connecting Africa reports that in May 2025 Bayobab completed a fibre optic network linking Mombasa in Kenya to Kampala in Uganda ([source, 2025-05](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal)).
 
 ### Zambia: 4 Operating
 
-A fibre link between Zambia and Mozambique was commissioned in February 2026; traffic carried across it is not known.
+A fibre link between Zambia and Mozambique was commissioned in February 2026; no source found reports traffic carried across it.
 
 - Zambia and Mozambique commissioned the Chanida-Cassacatiza cross-border fibre interconnector, linking Zambia's national backbone to Mozambique's submarine cable network, reported on 2026-02-23 ([source, 2026-02-23](https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/)).
 
@@ -250,25 +250,25 @@ Angola signed agreements in 2026 for Mozambique and Namibia to use its satellite
 
 ### Benin: 2 Nascent
 
-A Lagos-Accra fibre route through Benin was announced tested in May 2025; whether building began or it is in use is not known.
+A Lagos-Accra fibre route through Benin was announced tested in May 2025; no source found says whether building began or it is in use.
 
 - CSquared with Phase3 and SBIN announced a new terrestrial fibre route from Lagos to Accra through Ghana, Togo and Benin, configured, activated and tested, with the ready-for-service date not yet announced ([source, 2025-05-06](https://csquared.com/csquared-phase3-and-sbin-commission-lagos-to-accra-terrestrial-fibre-route-strengthening-west-africas-digital-resilience/)).
 
 ### Burundi: 2 Nascent
 
-Burundi's government adopted a memorandum in 2024 for a fibre link with the DRC; whether building has started is not known.
+Burundi's government adopted a memorandum in 2024 for a fibre link with the DRC; no source found says whether building has started.
 
 - Burundi's Council of Ministers of 8 May 2024 analysed and adopted the memorandum of understanding on the DRC-Burundi fibre-optic interconnection project, described as a joint initiative, per the government communique reported by ABP ([source, 2024-05-08](https://abpinfo.bi/2024/05/15/un-memorandum-dentente-du-projet-dinterconnexion-par-fibre-optique-entre-la-republique-democratique-du-congo-et-le-burundi-a-ete-adopte-au-conseil-des-ministres/)).
 
 ### Eswatini: 2 Nascent
 
-Eswatini's access fund set up a route to Maputo over a power line's fibre, reported in 2023; a link in service is not known.
+Eswatini's access fund set up a route to Maputo over a power line's fibre, reported in 2023; no source found reports a link in service.
 
 - The Universal Access and Service Fund, with national backbone operator EPTC, set up an alternative route east connecting the national backbone via Maputo, Mozambique over the MOTRACO powerline fibre links, and the Fund procured the equipment needed to connect to that fibre; the page gives no date for this, so the page's published date is used ([source, 2023-10-03](https://uasf.esccom.org.sz/programmes/connectivity-programmes/)).
 
 ### Guinea: 2 Nascent
 
-Guinea agreed in 2024 and 2025 with Sierra Leone and Mali to join fibre networks; a link in service is not known.
+Guinea agreed in 2024 and 2025 with Sierra Leone and Mali to join fibre networks; no source found reports a link in service.
 
 - Guinea's backbone manager SOGEB and Sierra Leone's Leoncom signed an interconnection agreement in Conakry to link their national fibre networks at Pamelap on the border, with initial capacity of 42.5 Gbps and 100 Gbps planned by 2026; the document gives no event date, so its published date 2025-06-23 is used ([source, 2025-06-23](https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/)).
 - Sierra Leone's regulator NatCA states that in November 2024 Guinea and Sierra Leone signed an agreement to interconnect their national internet backbone networks ([source, 2024-11](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/)).
@@ -282,7 +282,7 @@ Namibia signed agreements with Angola in June 2026 on a sea cable and a satellit
 
 ### Sierra Leone: 2 Nascent
 
-Sierra Leone and Guinea agreed in 2024 and 2025 to join their fibre networks at the border; a link in service is not known.
+Sierra Leone and Guinea agreed in 2024 and 2025 to join their fibre networks at the border; no source found reports a link in service.
 
 - SOGEB (Guinea) and Leoncom (Sierra Leone) signed an interconnection agreement in Conakry to link their national fibre networks at Pamelap on the border, with initial capacity of 42.5 Gbps and plans for 100 Gbps by 2026; the document gives no date for the signing, so its published date is used ([source, 2025-06-23](https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/)).
 - NatCA states that in November 2024 Sierra Leone and Guinea signed an agreement to interconnect their national internet backbone networks ([source, 2024-11](https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/)).
@@ -296,14 +296,14 @@ South Sudan invited bids in September 2026 for a fibre route towards Kenya; noth
 
 ### Sudan: 2 Nascent
 
-Sudan's operator signed a binding agreement in February 2026 for a fibre corridor to Ethiopia and Djibouti; building in Sudan is not known.
+Sudan's operator signed a binding agreement in February 2026 for a fibre corridor to Ethiopia and Djibouti; no source found reports building in Sudan.
 
 - Ethio telecom, Djibouti Telecom and Sudatel Group converted their December 2024 memorandum into a binding agreement on the Horizon Fiber cross-border terrestrial corridor from Djibouti through Ethiopia to Sudan; the document gives no signing day, so the published date is used ([source, 2026-02](https://www.telecomreviewafrica.com/articles/reports-and-coverage/28249-ethio-telecom-djibouti-telecom-sudatel-seal-binding-deal-on-cross-border-fiber-network/)).
 - The three operators signed a binding tripartite agreement to operationalise Horizon Fiber, a terrestrial fibre corridor from Djibouti's submarine cable gateways through Ethiopia to Sudan, signed at a ceremony in Djibouti; the document gives no day, so the published date is used ([source, 2026-02](https://itweb.africa/article/east-african-telcos-seal-cross-border-fibre-corridor-deal/xA9PO7NE16Yvo4J8)).
 
 ### Tunisia: 2 Nascent
 
-Tunisia and Algeria agreed in June 2026 to upgrade their existing terrestrial link; whether any building has started is not known.
+Tunisia and Algeria agreed in June 2026 to upgrade their existing terrestrial link; no source found says whether any building has started.
 
 - Ecofin reports the Algeria-Tunisia Joint Technical Commission delegations agreed on 6 June 2026 to upgrade the existing terrestrial link between Algeria and Tunisia ([source, 2026-06-06](https://www.ecofinagency.com/news-digital/0806-56258-algeria-tunisia-plan-new-submarine-cable-to-expand-digital-connectivity-with-europe)).
 
@@ -333,48 +333,48 @@ Not established: No shared link or facility agreed or being built in the last th
 
 ### Cape Verde: No evidence
 
-Nothing held names a digital link or facility Cape Verde shares with another African country, so no stage is set.
+Nothing found names a digital link or facility Cape Verde shares with another African country, so no stage is set.
 
-Not established: Nothing held names a digital link or facility the country shares with another African country, or says it has none.
+Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.
 
 ### Comoros: No evidence
 
-Nothing held names a digital link or facility Comoros shares with another African country, so no stage is set.
+Nothing found names a digital link or facility Comoros shares with another African country, so no stage is set.
 
-Not established: Nothing held names a digital link or facility the country shares with another African country, or says it has none.
+Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.
 
 ### Egypt: No evidence
 
-Nothing held names a digital link or facility Egypt shares with another African country, so no stage is set.
+Nothing found names a digital link or facility Egypt shares with another African country, so no stage is set.
 
-Not established: Nothing held names a digital link or facility the country shares with another African country, or says it has none.
+Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.
 
 ### Gambia: No evidence
 
-Nothing held names a digital link or facility Gambia shares with another African country, so no stage is set.
+Nothing found names a digital link or facility Gambia shares with another African country, so no stage is set.
 
-Not established: Nothing held names a digital link or facility the country shares with another African country, or says it has none.
+Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.
 
 ### Lesotho: No evidence
 
-Nothing held names a digital link or facility Lesotho shares with another African country, so no stage is set.
+Nothing found names a digital link or facility Lesotho shares with another African country, so no stage is set.
 
-Not established: Nothing held names a digital link or facility the country shares with another African country, or says it has none.
+Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.
 
 ### Mauritius: No evidence
 
-Nothing held names a digital link or facility Mauritius shares with another African country, so no stage is set.
+Nothing found names a digital link or facility Mauritius shares with another African country, so no stage is set.
 
-Not established: Nothing held names a digital link or facility the country shares with another African country, or says it has none.
+Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.
 
 ### Seychelles: No evidence
 
-Nothing held names a digital link or facility Seychelles shares with another African country, so no stage is set.
+Nothing found names a digital link or facility Seychelles shares with another African country, so no stage is set.
 
-Not established: Nothing held names a digital link or facility the country shares with another African country, or says it has none.
+Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.
 
 ### South Africa: No evidence
 
-Nothing held names a digital link or facility South Africa shares with another African country, so no stage is set.
+Nothing found names a digital link or facility South Africa shares with another African country, so no stage is set.
 
-Not established: Nothing held names a digital link or facility the country shares with another African country, or says it has none.
+Not established: Nothing found names a digital link or facility the country shares with another African country, or says it has none.

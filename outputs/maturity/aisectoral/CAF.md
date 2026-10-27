@@ -8,6 +8,6 @@
 
 **Results reported.** MSF reports that in 2025 the tool [helped detect 90 of the 203 TB cases screened in the Batangafo area](<https://www.msf.ch/nos-actualites/articles/republique-centrafricaine-lia-au-service-du-depistage-tuberculose>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source says AI is in service in a public sector other than health.
+***Not found***. No source says AI is in service in a public sector other than health.

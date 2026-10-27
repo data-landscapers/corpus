@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is the [2026 budget's 2,263,927,000 dirhams across 4 digital lines](<https://www.finances.gov.ma/Publication/db/2025/BO_7465-bis_Ar.pdf>). The ministry budget for 2024 was [2,032.4 million dirhams, of which 1,758.725 million investment and 187.840 million materials and miscellaneous](<https://www.mmsp.gov.ma/fr/budget-annuel>).
 
-***Noted, not assessed***. [GENIE school-ICT programme, financed since 2006 by the Telecommunications Universal Service Fund](<https://www.unesco.org/fr/articles/evolution-du-programme-genie-du-maroc-depuis-lattribution-du-prix-unesco-pour-lutilisation-des-tic>); [a telecommunications universal-service fund held as a special Treasury account, named in the 2026 special accounts report](<https://www.finances.gov.ma/Publication/db/2026/Rapport-CST_Fr.pdf>).
+***Also on file***. [GENIE school-ICT programme, financed since 2006 by the Telecommunications Universal Service Fund](<https://www.unesco.org/fr/articles/evolution-du-programme-genie-du-maroc-depuis-lattribution-du-prix-unesco-pour-lutilisation-des-tic>); [a telecommunications universal-service fund held as a special Treasury account, named in the 2026 special accounts report](<https://www.finances.gov.ma/Publication/db/2026/Rapport-CST_Fr.pdf>).
 
-***Not held***. The money for digital programmes was lower in the 2026 budget than in 2025. No source from the last three years shows a fund, levy or assigned tax collecting or paying for a digital programme.
+***Not found***. The money for digital programmes was lower in the 2026 budget than in 2025. No source from the last three years shows a fund, levy or assigned tax collecting or paying for a digital programme.

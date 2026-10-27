@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The courts decide requests under the Act. [On 7 August 2026 the High Court allowed the national examinations board's appeal against a magistrate's order, made on a complaint under the Act, that had compelled release of a candidate's examination script](<https://www.mmaks.co.ug/articles/2026/08/21/examination-scripts-are-personal-data-high-court-sets-aside-order-compelling>). [The judgment applies the Act's section 4 right of access](<https://www.mmaks.co.ug/articles/2026/08/21/examination-scripts-are-personal-data-high-court-sets-aside-order-compelling>). The Act has no information commission; rules made under it are not recorded.
 
-***Noted, not assessed***. [Data Protection and Privacy Act, Cap 97](<https://www.mmaks.co.ug/articles/2026/08/21/examination-scripts-are-personal-data-high-court-sets-aside-order-compelling>).
+***Also on file***. [Data Protection and Privacy Act, Cap 97](<https://www.mmaks.co.ug/articles/2026/08/21/examination-scripts-are-personal-data-high-court-sets-aside-order-compelling>).
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

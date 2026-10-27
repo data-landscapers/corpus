@@ -16,6 +16,6 @@
 
 **Last twelve months.** The nearest held statement is the [April 2026 request for proposals, which refers to the ministry's 2025 announcement of the strategy](<https://cbos.gov.sd/sites/default/files/National_Instant_Payment_ystem_%28NIPS%29_solution_for_proposals.pdf>).
 
-***Noted, not assessed***. [Central Bank of Sudan five-year strategic plan 2026-2030](<https://www.dabangasudan.org/en/all-news/article/bank-of-sudans-banking-sector-reform-strategy-faces-range-of-challenges-led-by-digital-transformation>).
+***Also on file***. [Central Bank of Sudan five-year strategic plan 2026-2030](<https://www.dabangasudan.org/en/all-news/article/bank-of-sudans-banking-sector-reform-strategy-faces-range-of-challenges-led-by-digital-transformation>).
 
-***Not held***. Whether the strategy was adopted by any act, and whether its text is public, are not known. No period, plan, reporting or governance fact is held.
+***Not found***. No source found says whether the strategy was adopted by any act, and whether its text is public,. No period, plan, reporting or governance fact has been found.

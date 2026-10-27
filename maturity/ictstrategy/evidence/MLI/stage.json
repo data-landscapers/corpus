@@ -14,7 +14,7 @@
       "cap": "",
       "flags": "dated",
       "stage_sources": "MLI-002",
-      "gaps": "No text of the 2005 policy is held, linked or quoted from an official site, and no source says it is unpublished. No period, delivery plan, report, mandated body or budget line is held for it, and nothing is dated inside the twelve months; its adoption is known only from a 2014 document. The period is read as open because instruments.csv gives no end year and no replacement year.",
+      "gaps": "No text of the 2005 policy has been found, linked or quoted from an official site, and no source says it is unpublished. No period, delivery plan, report, mandated body or budget line has been found for it, and nothing is dated inside the twelve months; its adoption is known only from a 2014 document. The period is read as open because instruments.csv gives no end year and no replacement year.",
       "note": "Politique nationale des TIC 2005: the newest adopted sector policy, placed over the 2000 telecommunications declaration. Adopted with no text found, so it stops at stage 2 rather than 3; adopted more than ten years before the as-at with no stated period, so flagged dated."
     }
   ]

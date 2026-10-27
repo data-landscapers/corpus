@@ -251,7 +251,7 @@ Djibouti's 2016 payment law is in force and the central bank has licensed two no
 
 ### Egypt: 4 Operating
 
-Egypt's central bank licenses payment companies that are not banks under 2025 rules; whether providers must connect to each other is not known.
+Egypt's central bank licenses payment companies that are not banks under 2025 rules; no source found says whether providers must connect to each other.
 
 - The Central Bank of Egypt issued licensing and registration rules for payment system operators and payment service providers on 19 June 2025 under Central Bank and Banking System Law No. 194 of 2020, giving existing payment institutions 12 months to apply for a licence ([source, 2025-06-19](https://www.cbe.org.eg/en/news-publications/news/2025/06/19/08/20/psos-and-psps-licensing-rules)).
 - The Central Bank of Egypt's rules of 19 June 2025 set licensing conditions for payment institutions, domestic and foreign-based, providing payment services or operating payment systems for customers in Egypt, with minimum capital and financial guarantee requirements ([source, 2025-06-19](https://www.cbe.org.eg/en/news-publications/news/2025/06/19/08/20/psos-and-psps-licensing-rules)).
@@ -312,7 +312,7 @@ Libya's 2022 electronic transactions law covers e-money, and the central bank li
 
 ### Malawi: 4 Operating
 
-A non-bank fintech was licensed under Malawi's payments law in 2026; whether providers must connect to a switch is not known.
+A non-bank fintech was licensed under Malawi's payments law in 2026; no source found says whether providers must connect to a switch.
 
 - Under the Payment Systems Act, 2016 the Reserve Bank of Malawi licensed local fintech PayChangu Limited as a payment service provider, per Malawi24 ([source, 2026-09-30](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)).
 - Malawi's Parliament passed an amendment to the existing Payment Systems Act on Thursday 6 August 2026, removing cheque provisions, so the Act is already law; the Finance Minister said detailed regulations would follow (report dated 2026-08-07) ([source, 2026-08-06](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/)).
@@ -396,7 +396,7 @@ Uganda's 2020 National Payment Systems Act is in force, and the central bank lic
 
 ### Comoros: 3 Established
 
-The Comoros has had central bank e-money rules since 2017, under a 2015 payments decree; whether they license non-banks is not known.
+The Comoros has had central bank e-money rules since 2017, under a 2015 payments decree; no source found says whether they license non-banks.
 
 - The Central Bank of the Comoros issued Regulation n°01/2017/BCC/DSBR setting the conditions and modalities for exercising e-money activity; the document gives only the year 2017 (published date used) ([source, 2017](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
 - The regulation cites as a legal basis decree n°15-026/PR of 3 March 2015 on payment systems, means and incidents of payment ([source, 2015-03-03](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
@@ -409,37 +409,37 @@ Lesotho's 2014 payment systems act is in force; a bill to replace it and license
 
 ### Liberia: 3 Established
 
-Liberia's central bank mobile money regulations were in force in 2024; whether they license companies that are not banks is not known.
+Liberia's central bank mobile money regulations were in force in 2024; no source found says whether they license companies that are not banks.
 
 - The Central Bank of Liberia's Mobile Money Regulations are described as the regulatory framework governing electronic money and mobile-money operators in Liberia, with more than 11 million mobile wallets operating; the document gives no date for the regulations, so its 2024 published date (a year-level proxy) is used ([source, 2024](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf)).
 
 ### Somalia: 3 Established
 
-Somalia's 2020 mobile money regulations are in force, and both houses had passed a payment system bill by January 2026; its signing is not known.
+Somalia's 2020 mobile money regulations are in force, and both houses had passed a payment system bill by January 2026; no source found reports its signing.
 
 - The Central Bank of Somalia made the Mobile Money Regulations, Amended 2020 (CBS/NBS/REG/06), under the Central Bank of Somalia Act 2012, setting out licensing, conduct of business and supervision of mobile money service providers; the document is dated 2020 and states no end date ([source, 2020](https://centralbank.gov.so/wp-content/uploads/2025/06/Mobile-Money-Regulation-2020_amended_2021.pdf)).
 
 ### Tanzania: 3 Established
 
-Tanzania's 2015 National Payment Systems Act is in force and covers electronic money; whether non-banks are licensed under it is not known.
+Tanzania's 2015 National Payment Systems Act is in force and covers electronic money; no source found says whether non-banks are licensed under it.
 
 - The National Payment Systems Act, 2015 (Act No. 4 of 2015, assented 25 April 2015, gazetted 22 May 2015) regulates payment systems, payment instruments and electronic money under Bank of Tanzania licensing, applies to Mainland Tanzania and Zanzibar, and is recorded as codified in Chapter 437, Revised Edition 2023; the commencement date is by ministerial notice and is not given in the document, so the gazette date is used ([source, 2015-05-22](https://bot.go.tz/Publications/Acts,%20Regulations,%20Circulars,%20Guidelines/Acts/en/2020030902433783.pdf)).
 
 ### Zambia: 3 Established
 
-Zambia's 2007 National Payment Systems Act is in force; whether it licenses companies that are not banks is not known.
+Zambia's 2007 National Payment Systems Act is in force; no source found says whether it licenses companies that are not banks.
 
 - The Bank of Zambia issued binding directives on 14 September 2024 on charges and fees for electronic money services, with penalties for Electronic Money Institutions that violate them, Zambia Monitor reports ([source, 2024-09-14](https://www.zambiamonitor.com/bank-of-zambia-cracks-down-on-unwarranted-charges-for-electronic-money-services/)).
 - The Bank of Zambia's 2024 e-money charges directives, issued under the National Payment Systems Act 2007 and the Bank of Zambia Act 2022 and binding on all e-money institutions, banks and financial institutions from 2 August 2024, set prohibited and capped e-money fees ([source, 2024-08-02](https://regalert.today/document/directives-on-unwarranted-charges-and-fees-on-electronic-money-services-bca3f339-2d82-4256-967c-905e4917c5f1)).
 
 ### Zimbabwe: 3 Established
 
-Zimbabwe's 2001 National Payment Systems Act is in force; whether it licenses companies that are not banks is not known.
+Zimbabwe's 2001 National Payment Systems Act is in force; no source found says whether it licenses companies that are not banks.
 
 - The National Payment Systems Act [Chapter 24:23] (Act 21 of 2001), consolidated text up to 31 December 2016, commenced on 16 November 2001 and provides for the recognition, operation, regulation and supervision of payment clearing and settlement systems, including payment instructions made by electronic means, under the Reserve Bank of Zimbabwe ([source, 2001-11-16](https://zimlii.org/akn/zw/act/2001/21/eng@2016-12-31)).
 
 ### Eritrea: No evidence
 
-Nothing held names a payments law or e-money rules for Eritrea, or says there are none, so no stage is set.
+Nothing found names a payments law or e-money rules for Eritrea, or says there are none, so no stage is set.
 
-Not established: Nothing held names a payments law, e-money rules or a draft of either, or says there is none.
+Not established: Nothing found names a payments law, e-money rules or a draft of either, or says there is none.

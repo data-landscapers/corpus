@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The nearest held fact is [the data blueprint programme](<https://lestimes.com/?p=91596>), under which a national blueprint was validated in Maseru; the blueprint is not reported as adopted. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
 
-***Noted, not assessed***. [UN AI Blueprint](<https://www.gov.ls/development/lesotho-first-country-to-implement-un-ai-blueprint/>).
+***Also on file***. [UN AI Blueprint](<https://www.gov.ls/development/lesotho-first-country-to-implement-un-ai-blueprint/>).
 
-***Not held***. No source held says a thing the country agreed has been put into effect.
+***Not found***. No source found says a thing the country agreed has been put into effect.

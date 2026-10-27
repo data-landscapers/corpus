@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-003",
-      "gaps": "No source held reports preliminary or final results of the census published.",
+      "gaps": "No source found reports preliminary or final results of the census published.",
       "note": "Counted from the four questions by study-ladder-censuses.py.",
       "as_at": "2026-10-25"
     }

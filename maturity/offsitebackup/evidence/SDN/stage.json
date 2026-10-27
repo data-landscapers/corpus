@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "SDN-001",
-   "gaps": "No source held says a backup site 200 km or more away serves the government's shared systems.",
+   "gaps": "No source found says a backup site 200 km or more away serves the government's shared systems.",
    "note": "Counted from the four questions by study-ladder-offsitebackup.py."
   }
  ]

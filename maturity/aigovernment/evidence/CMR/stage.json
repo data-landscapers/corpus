@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CMR-001;CMR-002",
-      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
-      "note": "Rebuild 2026-10-20: the CNPS answers customers with AI and CENADI's GOV-AI serves public agents on nGomna, two bodies with AI in service; no rules or register are held.",
+      "gaps": "No source found says the government has issued rules or a register for its own use of AI.",
+      "note": "Rebuild 2026-10-20: the CNPS answers customers with AI and CENADI's GOV-AI serves public agents on nGomna, two bodies with AI in service; no rules or register have been found.",
       "as_at": "2026-10-20"
     }
   ]

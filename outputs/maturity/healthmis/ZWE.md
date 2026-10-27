@@ -8,6 +8,6 @@
 
 **Reporting rate published.** [The Countdown to 2030 report says the national reporting rate for 2024 was above 92%, with only Harare and Bulawayo provinces just below the threshold](<https://www.countdown2030.org/wp-content/uploads/2025/10/Zimbabwe-Synthesis-Report.pdf>).
 
-***Noted, not assessed***. [Impilo](<https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf>); [Impilo EHR](<https://community.dhis2.org/t/integration-and-interoperability-of-impilo-electronic-health-record-ehr-system-with-dhis2/64859>).
+***Also on file***. [Impilo](<https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf>); [Impilo EHR](<https://community.dhis2.org/t/integration-and-interoperability-of-impilo-electronic-health-record-ehr-system-with-dhis2/64859>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

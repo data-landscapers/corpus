@@ -8,6 +8,6 @@
 
 **Published regularly.** [Seychelles Nation stated on 10 August 2018 that vital statistics compiled by the NBS from Civil Status records are published by the NBS on a bi-annual basis in electronic publications (2018, before the three-year window)](<https://www.nation.sc/article.html?id=259946>).
 
-***Noted, not assessed***. [End of year population 2025](<https://www.nbs.gov.sc/downloads/36-data-acquisition-census/16-population-and-vital-statistics/176-2025>); [Mid 2025 Estimated Resident Population](<https://www.nbs.gov.sc/downloads/36-data-acquisition-census/16-population-and-vital-statistics/176-2025>); [National Population Database](<https://www.nation.sc/article.html?id=259946>).
+***Also on file***. [End of year population 2025](<https://www.nbs.gov.sc/downloads/36-data-acquisition-census/16-population-and-vital-statistics/176-2025>); [Mid 2025 Estimated Resident Population](<https://www.nbs.gov.sc/downloads/36-data-acquisition-census/16-population-and-vital-statistics/176-2025>); [National Population Database](<https://www.nation.sc/article.html?id=259946>).
 
-***Not held***. No source held shows statistics from three administrative sources, each published twice since October 2023.
+***Not found***. No source found shows statistics from three administrative sources, each published twice since October 2023.

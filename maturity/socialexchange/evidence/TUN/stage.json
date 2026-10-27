@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "TUN-001;TUN-002",
-   "gaps": "No source held since October 2023 says two or more programmes share one registry.",
+   "gaps": "No source found since October 2023 says two or more programmes share one registry.",
    "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
   }
  ]

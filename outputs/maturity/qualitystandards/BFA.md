@@ -6,6 +6,6 @@
 
 **Certification.** The [2016 statutes](<https://faolex.fao.org/docs/pdf/bkf165557.pdf>) rest on a law that covers certification and accreditation as well as standardisation. They name no scheme for certifying an organisation against a standard on information technology or data.
 
-***Noted, not assessed***. [National OID registry and portal](<https://abnorm.bf/2026/02/05/signature-de-la-convention-cadre-pour-la-gestion-des-identifiants-dobjets-oid/>).
+***Also on file***. [National OID registry and portal](<https://abnorm.bf/2026/02/05/signature-de-la-convention-cadre-pour-la-gestion-des-identifiants-dobjets-oid/>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BWA-003",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
       "note": "Rebuild: banks verify customers against the national citizen database through a national eKYC (BWA-003). The wider linkages date from 2015 and the PKI is not operational (BWA-006).",
       "as_at": "2026-10-22"
     }

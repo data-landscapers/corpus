@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZWE-002;ZWE-003",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
       "note": "Rebuild: all mobile money providers verify customers against the Civil Registry (ZWE-002), one purpose. The Electoral Commission's roll clean-up checks records, not people, so use across services is not shown.",
       "as_at": "2026-10-22"
     }

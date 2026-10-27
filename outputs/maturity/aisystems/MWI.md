@@ -6,8 +6,8 @@
 
 **AI computing.** [UNDP's programme procured and deployed country-hosted GPU compute in Malawi](<https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use>).
 
-**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named users.
+***Not found***. No source found since October 2023 says national AI computing, models or datasets are open to named users.

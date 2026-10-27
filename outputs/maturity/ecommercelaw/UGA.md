@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The Minister responsible for ICT made the [Electronic Transactions Regulations, 2013 (S.I. 2013 No. 42)](<https://ict.go.ug/public/site/documents/Electronic-Transction-Regulations-SI-42-of-2013.pdf>) on 10 September 2013 under section 35 of the Act, gazetted on 30 September 2013. They cover the authenticity of data messages, disclosures by sellers and service providers, commercial communications and provider liability. They set offences with fines up to six currency points for sellers who fail to give the required information and for unsolicited commercial communications.
 
-***Noted, not assessed***. [UGPass](<https://www.nita.go.ug/services/e-government-services/digital-authentication-and-electronic-signatures-solutions-ugpass>)
+***Also on file***. [UGPass](<https://www.nita.go.ug/services/e-government-services/digital-authentication-and-electronic-signatures-solutions-ugpass>)
 
-***Not held***. No accreditation, licence, registration or penalty under the law in the last three years is held.
+***Not found***. No accreditation, licence, registration or penalty under the law in the last three years is held.

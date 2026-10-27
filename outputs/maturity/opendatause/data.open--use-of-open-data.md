@@ -316,54 +316,54 @@ Not established: No government data published for download is on record since Oc
 
 ### Chad: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.
 
 ### Egypt: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.
 
 ### Eswatini: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.
 
 ### Gabon: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.
 
 ### Sudan: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.
 
 ### Tunisia: No evidence
 
-Nothing held says whether a public body publishes data for anyone to download, so no stage is set.
+Nothing found says whether a public body publishes data for anyone to download, so no stage is set.
 
-Not established: Nothing held names government data published for download, or says there is none.
+Not established: Nothing found names government data published for download, or says there is none.

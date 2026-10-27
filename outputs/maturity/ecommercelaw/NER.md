@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The same ministry page is the nearest statement on rules made under the law: [it presents Loi 2019-03 as the governing text for electronic transactions in Niger](<https://mcnti.gouv.ne/ova_doc/loi-2019-03-du-30-avril-2019-portant-sur-les-transactions-electroniques-au-niger/>) No decree, regulation or order made under it is named, and no figure for how the law is applied is given.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decree, regulation or order made under the law is held, and no date of entry into force is held.
+***Not found***. No decree, regulation or order made under the law has been found, and no date of entry into force has been found.

@@ -6,8 +6,8 @@
 
 **One registry shared by programmes.** [The Ghana National Household Registry page describes a single national database that serves as the primary platform for identifying and targeting beneficiaries of LEAP, school feeding and national health insurance (NHIS) enrolment](<https://gnhr.mogcsp.gov.gh/registry.php>).
 
-**Linked to the ID and another sector.** No source held since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://gnhr.mogcsp.gov.gh/registry.php>).
+**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://gnhr.mogcsp.gov.gh/registry.php>).
 
-***Noted, not assessed***. [Ghana National Household Registry (GNHR)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [Livelihood Empowerment Against Poverty (LEAP)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [Social Protection Single Window Citizens Service (SWCES)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [Social Protection Monitoring and Evaluation Management Information System (SP MEMIS)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [Social Welfare Information Management System (SWIMS)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [National Identification Authority (NIA) Database](<https://www.mogcsp.gov.gh/?mdocs-file=8618>).
+***Also on file***. [Ghana National Household Registry (GNHR)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [Livelihood Empowerment Against Poverty (LEAP)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [Social Protection Single Window Citizens Service (SWCES)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [Social Protection Monitoring and Evaluation Management Information System (SP MEMIS)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [Social Welfare Information Management System (SWIMS)](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [National Identification Authority (NIA) Database](<https://www.mogcsp.gov.gh/?mdocs-file=8618>).
 
-***Not held***. No source held since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.

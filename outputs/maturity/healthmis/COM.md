@@ -6,8 +6,8 @@
 
 **Linked.** [DHIS2 says the eLMIS project, launched in 2024, links facility-level stock recording in the national DHIS2 platform with Open mSupply at central and regional warehouses, giving the Ministry end-to-end stock visibility](<https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/>).
 
-**Reporting rate published.** No source held since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/>).
+**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/>).
 
-***Noted, not assessed***. [DHIS2 Climate & Health instance](<https://dhis2.org/climate/country-profiles/comoros/>); [Open mSupply](<https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/>).
+***Also on file***. [DHIS2 Climate & Health instance](<https://dhis2.org/climate/country-profiles/comoros/>); [Open mSupply](<https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/>).
 
-***Not held***. No source held since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.

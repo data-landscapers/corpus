@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BDI-003",
-      "gaps": "No source held says services on two different satellite networks are on sale; NT Global is named as a satellite provider, but not the network it sells.",
+      "gaps": "No source found says services on two different satellite networks are on sale; NT Global is named as a satellite provider, but not the network it sells.",
       "note": "Starlink is on sale in Burundi; NT Global is a second satellite provider, but its network is not named and resellers of one network count once, so not stage 4.",
       "as_at": "2026-10-26"
     }

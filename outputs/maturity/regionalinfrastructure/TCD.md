@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The fibre route from N'Djamena to the Cameroon border [had not been started in February 2026](<https://www.connectingafrica.com/fiber-networking/chad-tells-operators-to-fast-track-fiber-link-to-cameroon>). The memorandum between two operators for it, signed in April 2025, was suspended by Chad's regulator over clauses touching sovereignty, and the government asked the operators on 9 February 2026 to reopen talks.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a shared link or facility is in service.
+***Not found***. No source found says a shared link or facility is in service.

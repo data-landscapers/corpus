@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-006;EGY-002",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
       "note": "The ministry's Karnak Arabic language model is released and underlies the Karnak Chat pilot. The sovereign AI data centres with Cassava and Vodafone are signed or breaking ground, not in service.",
       "as_at": "2026-10-22"
     }

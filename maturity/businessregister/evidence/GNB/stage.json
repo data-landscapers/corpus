@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GNB-002;GNB-001",
-      "gaps": "Validation and payment still happen at the counter, and nothing held says registration gives a firm one number shared with the tax authority or social security, or that the register collects beneficial owners.",
+      "gaps": "Validation and payment still happen at the counter, and nothing found says registration gives a firm one number shared with the tax authority or social security, or that the register collects beneficial owners.",
       "note": "The CFE platform takes company-creation files online or through an agent and counts over 7,666 firms created through it: online registration in service, rung 3. The rebuild read online registration as only planned; the agency's own platform now shows submission online.",
       "as_at": "2026-10-25"
     }

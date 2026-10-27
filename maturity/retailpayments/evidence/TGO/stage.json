@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-001;TGO-003",
-      "gaps": "No source held since October 2023 says a national switch connects wallets and bank accounts.",
+      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
       "note": "First pass: counted from the four questions by study-ladder-retailpayments.py.",
       "as_at": "2026-10-18"
     }

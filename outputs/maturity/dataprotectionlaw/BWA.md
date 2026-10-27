@@ -12,6 +12,6 @@
 
 **Last twelve months.** In February 2026 the new commissioner [vowed firmer enforcement against non-bank financial institutions](<https://www.mmegi.bw/business/new-data-commission-tightens-compliance-oversight/news>). The July 2026 notice [left an administrative fine possible if DPSM did not comply](<https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation made under the Act is held. No published count of decisions for a stated period is held.
+***Not found***. No regulation made under the Act has been found. No published count of decisions for a stated period has been found.

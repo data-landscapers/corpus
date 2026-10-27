@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no law that addresses AI in August 2026](<https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/>), there is no general AI law to apply. The article reports the readiness assessment carried out with UNESCO's support, and sets the missing law beside it as part of where the country stands on AI. The Digital Code it names is the nearest rule the country has, and it covers personal data and not AI.
 
-***Noted, not assessed***. [Code du numerique](<https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/>).
+***Also on file***. [Code du numerique](<https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/>).
 
-***Not held***. 
+***Not found***. 

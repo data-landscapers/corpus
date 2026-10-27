@@ -6,8 +6,8 @@
 
 **Single gateway.** [Biometric Update reports RDC-Pass, the national digital ID platform, gives unified access to e-government services via a single login and is described as a central gateway for service delivery across government agencies](<https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident>).
 
-**Use published.** No source held since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident>).
+**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident>).
 
-***Noted, not assessed***. [DRCPass](<https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project>); [eCitizen](<https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/>).
+***Also on file***. [DRCPass](<https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project>); [eCitizen](<https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/>).
 
-***Not held***. No source held since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.

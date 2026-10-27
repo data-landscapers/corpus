@@ -112,7 +112,7 @@ def main(argv=None) -> int:
         for s in study["sub_indicators"]:
             cell = {r["aspect"]: r for r in prof if r["sub_indicator"] == s["key"]}
             if not any(r["sub_indicator"] == s["key"] for r in held):
-                got, why = study_lib.NO_EVIDENCE, "nothing held"
+                got, why = study_lib.NO_EVIDENCE, "nothing found"
             else:
                 got, why = rung(s["key"], cell, as_at, a.as_written)
             out.append({"iso3": iso, "sub_indicator": s["key"], "rung": got,

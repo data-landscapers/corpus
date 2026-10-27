@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://marketingspread.co.za/payment-challengers-move-from-consultation-to-action-with-proposals-for-sas-payments-future-2/>).
 
-***Noted, not assessed***. [MTN MoMo](<https://techcabal.com/2026/09/04/serigne-dioums-mtn-fintech-vision-goes-beyond-mobile-money/>); [PayShap](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [QR+](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [ZARP](<https://techcabal.com/2026/09/21/is-the-use-case-for-local-stablecoins-big-enough/>); [ZARsc](<https://techcabal.com/2026/09/21/is-the-use-case-for-local-stablecoins-big-enough/>).
+***Also on file***. [MTN MoMo](<https://techcabal.com/2026/09/04/serigne-dioums-mtn-fintech-vision-goes-beyond-mobile-money/>); [PayShap](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [QR+](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [ZARP](<https://techcabal.com/2026/09/21/is-the-use-case-for-local-stablecoins-big-enough/>); [ZARsc](<https://techcabal.com/2026/09/21/is-the-use-case-for-local-stablecoins-big-enough/>).
 
-***Not held***. No survey held since October 2023 puts adults paying digitally at 79% or more.
+***Not found***. No survey held since October 2023 puts adults paying digitally at 79% or more.

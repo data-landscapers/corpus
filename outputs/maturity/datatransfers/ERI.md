@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** Eritrea's law places [no restriction on cross-border transfer of data](<https://www.levellers.ai/what-is/ai-regulation-eritrea>), according to Levellers on 8 June 2026, and the UNECA profile of 2022 [records no conditions on the flow of data](<https://dtri.uneca.org/v1/uploads/country-profile/eri-country-profile-en.pdf>). Those are the nearest held facts to a means of complying or a rule applied: in neither source is a sender asked to meet any condition before sending data abroad.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any draft rule on sending data abroad exists, and whether any sector rule applies, is not known. No published means of complying and no case of a rule applied is held.
+***Not found***. No source found says whether any draft rule on sending data abroad exists, and whether any sector rule applies,. No published means of complying and no case of a rule applied has been found.

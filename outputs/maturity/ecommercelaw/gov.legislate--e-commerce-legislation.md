@@ -32,7 +32,7 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 
 ### Ghana: 5 Leading
 
-Ghana's 2008 Electronic Transactions Act is in force; a November 2023 notice required e-commerce platforms to register, and later enforcement is not known.
+Ghana's 2008 Electronic Transactions Act is in force; no source found reports a November 2023 notice required e-commerce platforms to register, and later enforcement.
 
 - Digital Policy Alert reports that in November 2023 Ghana's Ministry of Communications and Digitalisation issued an enforcement notice under the Electronic Transactions Act requiring all e-commerce platforms and digital delivery companies to register by January 2024 ([source, 2023-11](https://digitalpolicyalert.org/digest/dpa-digital-digest-ghana)).
 - The op-ed names the Electronic Transactions Act as part of Ghana's existing legal foundation ([source, 2026-10-16](https://www.myjoyonline.com/bold-ambitions-fragile-foundations-is-ghana-ready-for-the-ai-and-data-centre-risks-it-is-inviting/)).
@@ -48,7 +48,7 @@ Morocco's 2020 trust services law is in force, with a 2023 decree and three appr
 
 ### Mozambique: 5 Leading
 
-In 2026 Mozambique's electronic transactions law is applied through 19 operator licences, with about 170 companies under evaluation; wider enforcement is not known.
+In 2026 Mozambique's electronic transactions law is applied through 19 operator licences, with about 170 companies under evaluation; no source found reports wider enforcement.
 
 - INTIC's board president said 19 licences had been issued to intermediate electronic service providers and digital platform operators out of about 170 registered companies under evaluation, at a ceremony in Maputo on 2026-06-08 ([source, 2026-06-08](https://techafricanews.com/2026/06/08/mozambique-issues-first-licenses-to-digital-operators-in-major-regulatory-milestone/)).
 - The report names a Digital Certification Regulation under which, with the Electronic Transactions Law, the Digital Certification System operates and which is meant to establish the authenticity and integrity of digital signatures; it gives no date for the regulation, so it is dated to the published date ([source, 2026-08-25](https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure)).
@@ -86,7 +86,7 @@ Benin's 2018 digital code is in force with a 2025 decree on electronic archiving
 
 ### Burkina Faso: 4 Operating
 
-Burkina Faso's 2009 law on electronic services and transactions is in force with implementing decrees; accreditations or licences under it are not known.
+Burkina Faso's 2009 law on electronic services and transactions is in force with implementing decrees; no source found reports accreditations or licences under it.
 
 - The National Assembly adopted Law n°045-2009/AN on 10 November 2009 regulating electronic services and transactions (electronic signatures, electronic formalities, e-commerce contracts, trust service providers), and it was promulgated by Decree n°2009-824/PRES on 4 December 2009; the document gives no repeal ([source, 2009-12-04](https://www.ictpolicyafrica.org/api/documents/download?_id=5eb968597c7814001bc4bcbe)).
 - The article says FasoSign, launched on 15 September 2026, gives effect to law 045-2009 and its implementing decrees, which together give a digital signature the legal value of a handwritten one; it does not name the decrees ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
@@ -132,21 +132,21 @@ Egypt's Law 15/2004 on e-signatures is in force and has executive regulations, p
 
 ### Ethiopia: 4 Operating
 
-Ethiopia's e-signature Proclamation 1072/2017 is in force and its regulation was approved by the Council of Ministers in 2025; publication and use are not known.
+Ethiopia's e-signature Proclamation 1072/2017 is in force and its regulation was approved by the Council of Ministers in 2025; no source found reports publication and use.
 
 - The Council of Ministers unanimously approved the Electronic Signature regulation under Proclamation No. 1072/2017, to take effect on publication in the Federal Negarit Gazette; the report does not say it has been published ([source, 2025-11-29](https://www.ena.et/web/eng/w/eng_7816242)).
 - ENA reported that the draft Electronic Signature regulation is a step toward fully operationalizing Proclamation No. 1072/2017 (and its amendment), the existing electronic signature law ([source, 2025-11-29](https://www.ena.et/web/eng/w/eng_7816242)).
 
 ### Gabon: 4 Operating
 
-Gabon's Law 025/2021 regulates electronic transactions, and in September 2026 ministers adopted a draft trust-services decree; use of the rules is not known.
+Gabon's Law 025/2021 regulates electronic transactions, and in September 2026 ministers adopted a draft trust-services decree; no source found reports use of the rules.
 
 - The Council of Ministers communique of 18 September 2026 records adoption of a draft decree setting how the qualified electronic signature certificate and other trust services are issued in Gabon, covering electronic signature and seal, website authentication, electronic invoice and the approval conditions and duties of providers, to secure the legal value of electronic transactions; the communique does not name the parent law ([source, 2026-09-18](https://agpgabon.ga/wp-content/uploads/2026/09/Communique-Final-du-18-septembre-2026-version-Presse-ecrite.pdf)).
 - Law No. 025/2021 of 28 December 2021, published in Journal Officiel no. 145 of 1 January 2022, regulates electronic transactions in Gabon: it gives electronic acts, writings, signatures and invoices the same probative force as paper and sets rules for e-commerce, distance contracts and consumer withdrawal; the text gives no date of entry into force, so the promulgation date is used ([source, 2021-12-28](https://journal-officiel.ga/18190-025-2021-/)).
 
 ### Guinea: 4 Operating
 
-Guinea has a 2016 transactions law, a 2021 decree and a 2026 e-signature decree; how far they are applied is not known.
+Guinea has a 2016 transactions law, a 2021 decree and a 2026 e-signature decree; no source found says how far they are applied.
 
 - The decree of 19 August 2026 requires every electronic-certification service provider to be approved by the competent authority, names the national digital agency ANDE as that authority for approval, control and audit, and refers technical standards to a joint order of the telecommunications and justice ministries; it reports no provider approved ([source, 2026-08-19](https://www.guinee360.com/19/08/2026/guinee-mamadi-doumbouya-officialise-la-signature-electronique/)).
 - ANSSI's page states that Decree D/2021/092/PRG/SGG, signed 25 March 2021 under Law L/2016/035/AN of 26 July 2016 on electronic transactions, sets rules for electronic transactions including e-commerce (secure transaction facility, .gn or .com domain, prices in francs), names the ARPT as regulator with sanction powers, and provides fines and penalties (the scan itself is image-only, so this is ANSSI's summary) ([source, 2021-03-25](https://anssi.gov.gn/wp-content/uploads/2025/03/DECRET-D-2021-092-PRG-SGG-Copie-2.pdf)).
@@ -162,7 +162,7 @@ Kenya gave electronic signatures legal effect and made certification rules by 20
 
 ### Senegal: 4 Operating
 
-Senegal's 2008 law on electronic transactions and its 2008 implementing decree are in force; any use of them since 2023 is not known.
+Senegal's 2008 law on electronic transactions and its 2008 implementing decree are in force; no source found reports any use of them since 2023.
 
 - Decree no. 2008-718 of 30 June 2008 on electronic commerce, made to apply law no. 2008-08, sets supplier information duties, contractual liability, electronic advertising and electronic contract rules in Senegal ([source, 2008-06-30](https://www.osiris.sn/Decret-no-2008-718-du-30-juin-2008.html)).
 - Law no. 2008-08 of 25 January 2008 on electronic transactions, adopted by the National Assembly on 30 November 2007, gives electronic records and signatures equivalence with paper and sets rules for electronic commerce, in Senegal ([source, 2008-01-25](https://www.vie-publique.sn/docs/e39e7d8a-b4c7-41f7-b3e5-eb3429a364d6/loi-n-2008-08-du-25-janvier-2008-sur-les-transactions-electroniques-au-senegal.pdf)).
@@ -183,14 +183,14 @@ Tunisia has had an electronic exchanges and commerce law since 2000, with certif
 
 ### Uganda: 4 Operating
 
-Uganda's 2011 Electronic Transactions Act and its 2013 regulations are in force; any application of them in the last three years is not known.
+Uganda's 2011 Electronic Transactions Act and its 2013 regulations are in force; no source found reports any application of them in the last three years.
 
 - The Minister responsible for ICT made the Electronic Transactions Regulations, 2013 (S.I. 2013 No. 42) on 10 September 2013 under section 35 of the Electronic Transactions Act, 2011, gazetted 30 September 2013, covering authenticity of data messages, seller and service provider disclosures, commercial communications and provider liability ([source, 2013-09-10](https://ict.go.ug/public/site/documents/Electronic-Transction-Regulations-SI-42-of-2013.pdf)).
 - The Daily Monitor says Uganda currently relies on a piecemeal framework including the Electronic Transactions Act ([source, 2026-10-16](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)).
 
 ### Algeria: 3 Established
 
-Algeria's e-commerce Law 18-05 and a 2026 trust-services law are in force; rules made under either are not known.
+Algeria's e-commerce Law 18-05 and a 2026 trust-services law are in force; no source found reports rules made under either.
 
 - TSA cites law 26-02 of 17 February 2026 setting general rules on trust services for electronic transactions and identification, under which the procurement portal's electronic signature operates ([source, 2026-02-17](https://www.tsa-algerie.com/lalgerie-lance-un-portail-electronique-dedie-au-marches-publics/)).
 - Echorouk quotes the head of the national consumer-guidance organisation for e-commerce as saying most online sellers in Algeria operate without the obligations that Law No. 18-05 on e-commerce lays down, which treats the law as existing and binding; the document gives no event date, so the 2026-08-04 publication date is used ([source, 2026-08-04](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6)).
@@ -222,7 +222,7 @@ The Central African Republic's regulator lists a 2022 electronic transactions la
 
 ### Chad: 3 Established
 
-Chad has a 2015 law on electronic transactions, and electronic signatures count in finance ministry correspondence from 2026; rules under the law are not known.
+Chad has a 2015 law on electronic transactions, and electronic signatures count in finance ministry correspondence from 2026; no source found reports rules under the law.
 
 - Article 53 of Loi n° 008/AN/SENAT/2025 (finance law 2026) makes electronic signature compulsory for administrative correspondence in the finance ministry from 1 January 2026 and states it has the same legal value as a handwritten signature ([source, 2026-01-01](https://ecofinances.gouv.td/wp-content/uploads/2026/06/Loi-n008-AN-SENAT-2025-Portant-loi-de-Finances-2026-LF-2026.pdf)).
 - The regulator ARCEP's register of laws lists Loi N°008/PR/2015 on electronic transactions among Chad's laws; the page gives no date of its own, so the date is the law's year, 2015 ([source, 2015](https://arcep.td/lois.html)).
@@ -268,48 +268,48 @@ Libya's 2022 electronic transactions law is in force and covers online sellers; 
 
 ### Madagascar: 3 Established
 
-Madagascar has had electronic transactions and signature laws since 2014, and a 2025 draft decree on electronic signature is not known to be adopted.
+No source found reports madagascar has had electronic transactions and signature laws since 2014, and a 2025 draft decree on electronic signature to be adopted.
 
 - Decree 2024-1911 of the President (published 2024-11-13) cites law no. 2014-024 of 10 December 2014 on electronic transactions and law no. 2014-025 of 10 December 2014 on electronic signature as the legal basis it is made under, and its Article 10 gives documents signed through a certified electronic signature device the same recognition as paper ([source, 2024-11-13](https://cnlegis.gov.mg/uploads/D2024-1911-VF.pdf)).
 - Newsmada reports that Madagascar has a 2015 law on electronic signatures, which it describes as the legal equivalent of the handwritten signature; the article's date of 2025-09-13 is used for the report, 2015 for the law ([source, 2015](https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/)).
 
 ### Malawi: 3 Established
 
-Malawi's electronic transactions act has been in force since June 2017; rules made under it and how it is applied are not known.
+Malawi's electronic transactions act has been in force since June 2017; rules made under it and no source found says how it is applied.
 
 - The Electronic Transactions and Cyber Security Act (Act 33 of 2016, Chapter 74:02), published in the Gazette on 4 November 2016, commenced on 1 June 2017 and gives legal recognition to electronic writing, electronic signatures and digital signature certificates (Part III) and defines electronic commerce and distance contracts; the MalawiLII version includes amendments published up to 31 October 2021 ([source, 2017-06-01](https://malawilii.org/akn/mw/act/2016/33/eng@2017-12-31)).
 - The Ministry of Information and Digitalization refers to the Electronic Transactions and Cyber Security Act (ETCA) of 2016 (Cap 74:02) as the Act its draft 2024 regulations on certification authority and encryption would administer; the regulations are drafts, not yet made ([source, 2016](https://digmap.pppc.mw/invitation-to-a-hybrid-public-stakeholder-consultation-meeting-on-the-electronic-transactions-and-cyber-security-act-etca-regulations-bingu-international-conference-centre-bicc-in-lilong/)).
 
 ### Mali: 3 Established
 
-Mali's 2016 law on electronic transactions regulates e-commerce and is cited by the state in 2025, but rules made under it are not known.
+Mali's 2016 law on electronic transactions regulates e-commerce and is cited by the state in 2025, but no source found reports rules made under it.
 
 - The Director General of Taxes, interviewed in L'Essor, cites the law on electronic transactions as part of a solid legal framework for digitalising public payments; the date of the law is not given, so the document's publication date is used ([source, 2025-11-26](https://www.maliweb.net/interview/hamadou-fall-dianka-dg-des-impots-le-montant-des-recettes-electroniques-a-atteint-300-milliards-de-fcfa-en-2024-3111560.html)).
 - Law n° 2016-012 of 6 May 2016 on electronic transactions, exchanges and services, published in the Journal officiel of 27 May 2016, regulates electronic commerce and gives legal effect to electronic writings, electronic signatures, electronic certificates and electronic archiving ([source, 2016-05-06](https://sgg-mali.ml/JO/2016/mali-jo-2016-22.pdf)).
 
 ### Mauritania: 3 Established
 
-A 2018 law on electronic exchanges is in force, with a draft decree reported in 2024; whether any decree was adopted is not known.
+A 2018 law on electronic exchanges is in force, with a draft decree reported in 2024; no source found says whether any decree was adopted.
 
 - Tech Rek reports the draft decree is made under law no. 2018-022 of 12 June 2018 on electronic exchanges ([source, 2018-06-12](https://techrek.info/fr/approbation-de-la-creation-dune-agence-nationale-de-cybersecurite-et-de-certification-electronique/)).
 - The minister told the Assembly that before this bill the law covered banking operations and some aspects of e-commerce under ordinance No. 2006-031 of 23 August 2006 on payment instruments and e-commerce operations, with implementing texts; AMI reports this on 2018-01-30 ([source, 2006-08-23](https://ami.mr/fr/archives/65884)).
 
 ### Mauritius: 3 Established
 
-In 2026 Mauritius enacted an electronic transactions amendment act, to start on a date set by Proclamation; rules made under it are not known.
+In 2026 Mauritius enacted an electronic transactions amendment act, to start on a date set by Proclamation; no source found reports rules made under it.
 
 - The ICT minister, speaking on 29 July 2026, referred to amendments to the Electronic Transactions Act 2006 meant to modernise digital commerce frameworks and strengthen consumer protection, which treats the 2006 Act as existing law; the document gives no date for the Act's entry into force and does not say the amendments are passed ([source, 2026-07-29](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993)).
 - Act No. 5 of 2026, the Electronic Transactions (Amendment) Act, was passed by the National Assembly on 19 May 2026 and assented to by the President on 25 May 2026; it comes into operation on a date to be fixed by Proclamation, different sections possibly on different dates, and the document gives no commencement date ([source, 2026-05-25](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/05/Act0526.pdf)).
 
 ### Niger: 3 Established
 
-Niger's 2019 electronic transactions law is presented by the ministry as governing; rules made under it and its application are not known.
+Niger's 2019 electronic transactions law is presented by the ministry as governing; no source found reports rules made under it and its application.
 
 - The ministry's page presents Loi 2019-03 of 30 April 2019 on electronic transactions in Niger as governing electronic transactions, covering electronic signatures, contracts and payments, data retention and sanctions; it does not state an entry-into-force date or any repeal ([source, 2019-04-30](https://mcnti.gouv.ne/ova_doc/loi-2019-03-du-30-avril-2019-portant-sur-les-transactions-electroniques-au-niger/)).
 
 ### Rwanda: 3 Established
 
-Rwanda's consumer law has had an e-commerce chapter in force since 4 March 2026; rules made under it are not known.
+Rwanda's consumer law has had an e-commerce chapter in force since 4 March 2026; no source found reports rules made under it.
 
 - Law 011/2026 of 26 February 2026 on competition and consumer protection carries a Chapter VI on e-commerce (Articles 41 onward: obligations of an e-commerce enterprise and of an online intermediary) and comes into force on its publication in the Official Gazette, which was on 4 March 2026 ([source, 2026-03-04](https://www.rica.gov.rw/fileadmin/user_upload/RICA/Publications/Laws/OG_n___Special_of_04.03.2026__Ihiganwa_mu_bucuruzi_no_kurengera_umuguzi__1___1___1_.pdf)).
 
@@ -321,7 +321,7 @@ São Tomé and Príncipe passed an e-signature law, reported in 2025; no rules m
 
 ### Seychelles: 3 Established
 
-Seychelles has had an electronic transactions act in force since 2001, recognising electronic records and digital signatures; rules made under it are not known.
+Seychelles has had an electronic transactions act in force since 2001, recognising electronic records and digital signatures; no source found reports rules made under it.
 
 - The Electronic Transactions Act, 2001 (Act 8 of 2001) commenced on 20 December 2001, gives legal recognition to electronic records and digital signatures, and the SeyLII consolidation shows it as amended and current to 29 March 2018 with a further amendment (S.I. 12 of 2024) outstanding ([source, 2001-12-20](https://seylii.org/akn/sc/act/2001/8/eng@2018-03-29/source)).
 
@@ -334,19 +334,19 @@ Sierra Leone's Electronic Transactions Act has been in force since 2019, but in 
 
 ### Sudan: 3 Established
 
-Sudan's Electronic Transactions Act of 2007 is the law cited in the May 2026 SudaPass terms; rules made under it are not known.
+Sudan's Electronic Transactions Act of 2007 is the law cited in the May 2026 SudaPass terms; no source found reports rules made under it.
 
 - The SudaPass terms of use (published 2026-05-21; the date is used as the as_of since the terms carry no other date) treat the Electronic Transactions Act of 2007 and its amendments as the governing law, stating that a digital signature meeting its requirements is equivalent to a handwritten signature (Article 8) and that forgery is punishable under Article 28 ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
 
 ### Tanzania: 3 Established
 
-Tanzania's Electronic Transactions Act is in force and was amended by the Finance Act of June 2026; rules made under it are not known.
+Tanzania's Electronic Transactions Act is in force and was amended by the Finance Act of June 2026; no source found reports rules made under it.
 
 - Part III of Tanzania's Finance Act, 2026 (published 30 June 2026) amends section 13 of the existing Electronic Transactions Act (Cap. 442), so that Act is in force; the document gives no date for the event beyond its own publication date ([source, 2026-06-30](https://oagmis.oag.go.tz/portal/acts/337/download)).
 
 ### Djibouti: 2 Nascent
 
-Djibouti's National Assembly passed a Digital Code covering e-commerce in June 2025; whether it is in force or has implementing rules is not known.
+Djibouti's National Assembly passed a Digital Code covering e-commerce in June 2025; no source found says whether it is in force or has implementing rules.
 
 - La Nation reports that the National Assembly adopted unanimously, on 30 June 2025, the Digital Code of nearly 800 articles, which covers regulating online commerce among other areas; the article does not say it has been promulgated or is in force ([source, 2025-06-30](https://www.lanation.dj/le-code-du-numerique-un-pas-decisif-pour-la-transformation-digitale/)).
 - TechAfrica News reports that Djibouti's first Digital Code, eight books and nearly 800 articles including Book IV E-Commerce and Book V Consumer Rights, was passed by the National Assembly and announced by the Ministry of Digital Economy and Innovation; the headline says enacted but the text gives no promulgation or entry-into-force date ([source, 2025-06-30](https://techafricanews.com/2025/07/02/a-first-for-east-africa-djibouti-enacts-comprehensive-digital-code/)).
@@ -366,14 +366,14 @@ Guinea-Bissau put a draft Electronic Transactions Law to consultation until 28 M
 
 ### Lesotho: 2 Nascent
 
-Lesotho had no electronic transactions law in 2026 and a revised bill was in draft, so when it will pass is not known.
+Lesotho had no electronic transactions law in 2026 and a revised bill was in draft, so no source found says when it will pass.
 
 - ITWeb Africa reports that Lesotho's MICSTI is introducing the Electronic Transactions and Communications Bill, 2026, a revision of the 2022 bill of the same name, after a two-day stakeholder validation workshop held with UNDP that week; the draft goes next to the Office of the Parliamentary Counsel for refinement (as_of is the article's published date, 2026-09-30, the workshop being 'this week') ([source, 2026-09-30](https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ)).
 - The Government of Lesotho (via LENA) reports that MICSTI opened a two-day validation workshop in Maseru from Monday (2026-09-28) on the Electronic Transactions and Communications Bill, 2026, to gather stakeholder views before the Bill progresses through the next legislative stages; the Bill is under UNDP supervision and sponsored by MICSTI ([source, 2026-09-28](https://www.gov.ls/development/micsti-on-electronic-transactions-communications-bill/)).
 
 ### Nigeria: 2 Nascent
 
-Nigeria's electronic-signature rules are in a bill the House approved by May 2026 and the Senate had not passed; the rules are not known.
+Nigeria's electronic-signature rules are in a bill the House approved by May 2026 and the Senate had not passed; no source found reports the rules.
 
 - TechCabal reports that the National Digital Economy and E-Governance Bill, introduced in July 2024, gives qualifying electronic signatures the same validity as handwritten ones and empowers NITDA to accredit certification authorities; it was approved by the House of Representatives by May 2026 and awaited the Senate ([source, 2026-05](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/)).
 
@@ -399,4 +399,4 @@ Not established: No law or draft is on record, and no source dated in the last t
 
 No law on electronic transactions or e-commerce, or draft of one, is known for South Sudan as at 2026, so no stage is set.
 
-Not established: Nothing held names a law on electronic transactions or e-commerce or a draft of one, or says there is none.
+Not established: Nothing found names a law on electronic transactions or e-commerce or a draft of one, or says there is none.

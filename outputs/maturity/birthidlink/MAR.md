@@ -2,6 +2,6 @@
 
 ## Interoperability of birth registration and digital id
 
-***Noted, not assessed***. [MOSIP-based national ID](<https://www.biometricupdate.com/202605/why-decentralized-digital-identity-looks-different-in-every-country>); [National ID card management system](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>).
+***Also on file***. [MOSIP-based national ID](<https://www.biometricupdate.com/202605/why-decentralized-digital-identity-looks-different-in-every-country>); [National ID card management system](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>).
 
-***Not held***. Nothing held says whether the civil register and the ID system are linked.
+***Not found***. Nothing found says whether the civil register and the ID system are linked.

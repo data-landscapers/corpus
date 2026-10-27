@@ -37,9 +37,9 @@ import study_lib  # noqa: E402
 STUDY = "offsitebackup"
 GAPS = {
     "5": "",
-    "4": "No source held says the government's main data centre and its backup site are both Tier III or above.",
-    "3": "No source held from the past three years states a recovery plan or test for the government's backup site.",
-    "2": "No source held says a backup site 200 km or more away serves the government's shared systems.",
+    "4": "No source found says the government's main data centre and its backup site are both Tier III or above.",
+    "3": "No source found from the past three years states a recovery plan or test for the government's backup site.",
+    "2": "No source found says a backup site 200 km or more away serves the government's shared systems.",
     "1": "",
 }
 
@@ -73,7 +73,7 @@ def stage(rows: list[dict], as_at: dt.date, far: dict[str, str]) -> dict:
     live.sort(key=lambda p: p[0], reverse=True)
     if not rows:
         return {"stage": "no evidence", "sources": [],
-                "gaps": "Nothing held names a backup site for government systems, or says there is none."}
+                "gaps": "Nothing found names a backup site for government systems, or says there is none."}
     three = study_lib.months_back(as_at, 36)
     sites = [(d, r) for d, r in live if r["aspect"] == "site" and r["value"] in ("service", "shared")]
     service = [(d, r) for d, r in sites if far.get(r["row_id"]) == "far"]
@@ -84,7 +84,7 @@ def stage(rows: list[dict], as_at: dt.date, far: dict[str, str]) -> dict:
         why = {"near": "is less than 200 km from the main site",
                "unnamed": "is in no place a held source names"}
         held = sorted({why[far[r["row_id"]]] for _, r in sites if far.get(r["row_id"]) in why})
-        gap = ("No source held names a backup site 200 km or more from the main site"
+        gap = ("No source found names a backup site 200 km or more from the main site"
                + (f"; the backup site held {' or '.join(held)}" if held else "")
                + ", and none dated in the last three years says there is none.")
         return {"stage": "unplaced", "sources": [], "gaps": gap}

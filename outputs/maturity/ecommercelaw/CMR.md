@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** [Decree no. 2011/1521/PM of 15 June 2011](<https://www.mincommerce.gov.cm/sites/default/files/documents/decret-n-2011-1521-pm-du-15-juin-2011-fixant-les-modalites-d-application-de-la-loi-regissant-le-commerce-electronique-au-cameroun.pdf>) fixes the modalities of application of law no. 2010/021 on electronic commerce. It defines the scope of e-commerce activity under the law. The decree was issued by the Prime Minister and is published on the Ministry of Commerce website, where the law is also published. It follows the law of 21 December 2010 that it implements, by about six months, and is the rule-making instrument for e-commerce in Cameroon.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No accreditation, licence, registration or penalty under the law in the last three years is dated in the sources held.
+***Not found***. No accreditation, licence, registration or penalty under the law in the last three years is dated in the sources found.

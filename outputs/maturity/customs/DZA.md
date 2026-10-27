@@ -6,8 +6,8 @@
 
 **Single window.** [TSA Algerie reports a customs notice of 18 August 2026 saying the electronic single window module of ALCES was put in service, with Commerce Ministry authorisations now filed through it in parallel with paper and several other bodies to be covered](<https://www.tsa-algerie.com/importations-les-douanes-algeriennes-lancent-le-guichet-electronique-unique-ce-qui-change/>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://lalgerieaujourdhui.dz/les-douanes-optent-pour-un-nouveau-systeme/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://lalgerieaujourdhui.dz/les-douanes-optent-pour-un-nouveau-systeme/>).
 
-***Noted, not assessed***. [guichet electronique unique for foreign-trade authorisations](<https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/>); [AAPI investment guichet unique](<https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/>).
+***Also on file***. [guichet electronique unique for foreign-trade authorisations](<https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/>); [AAPI investment guichet unique](<https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/>).
 
-***Not held***. No source held since October 2023 says customs exchanges data through a system open to its whole regional community.
+***Not found***. No source found since October 2023 says customs exchanges data through a system open to its whole regional community.

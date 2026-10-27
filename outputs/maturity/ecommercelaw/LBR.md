@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The law [applies at once to matters under Titles 5 and 21 of the General Business Law](<https://www.wto.org/english/thewto_e/acc_e/lbr_e/WTACCLBR15_LEG_18.pdf>). Anywhere else it applies only as regulations of the Minister of Foreign Affairs bring it into effect. That makes the Minister's regulations the route by which the law reaches the rest of the commercial code, and the nearest held fact on rules made under it is this delegation, not a regulation itself.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

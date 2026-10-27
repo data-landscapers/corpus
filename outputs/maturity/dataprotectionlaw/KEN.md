@@ -12,6 +12,6 @@
 
 **Last twelve months.** In August 2026 the office [published a draft guidance note on transfers of personal data to offshore AI providers](<https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966>). On 28 August 2026 it [gave holders of expired registration certificates until 11 September 2026 to renew](<https://www.the-star.co.ke/news/2026-08-28-odpc-gives-data-handlers-14-days-to-renew-expired-certificates>) or face enforcement.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No count of decisions or sanctions for a single stated year: the figures to March 2025 are cumulative. The date the Act commenced is not given.
+***Not found***. No count of decisions or sanctions for a single stated year: the figures to March 2025 are cumulative. The date the Act commenced is not given.

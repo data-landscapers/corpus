@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-001",
-      "gaps": "No source held since October 2023 says a government satellite-based farming service is in use. The WRSI drought trigger is described as a pilot.",
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use. The WRSI drought trigger is described as a pilot.",
       "note": "Rebuild 2026-10-20: the government's satellite-triggered drought payments are called a pilot, which the ladder places at question 1; a pilot's reach does not answer question 4.",
       "as_at": "2026-10-20"
     }

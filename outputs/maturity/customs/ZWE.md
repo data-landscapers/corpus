@@ -6,8 +6,8 @@
 
 **Single window.** [The Finance Permanent Secretary said an Electronic Single Window System integrates regulatory agencies in customs clearance, and port health, the National Ozone Unit and the Radiation Protection Authority of Zimbabwe have subscribed to it](<https://newziana.co.zw/gvt-pledges-to-modernise-customs-operations/>). [ZIMRA's Public Notice 77 of 2024 says the Zimbabwe Electronic Single Window rolled out its Port Health and Radiation Protection Authority modules on 9 October 2024 at seven border posts and two airports](<https://www.zimra.co.zw/public-notices?download=4103%3Apublic-notice-77-of-2024-zesw-roll-out>). [ZIMRA says the Zimbabwe Electronic Single Window processed well over a thousand transactions in the first quarter of 2024 at Forbes and Robert Gabriel Mugabe Airport, with Beitbridge completed in May 2024 and Plumtree due by end June 2024](<https://www.zimra.co.zw/news/2300-zimbabwe-electronic-single-window-transforming-cross-border-trade>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://newziana.co.zw/gvt-pledges-to-modernise-customs-operations/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://newziana.co.zw/gvt-pledges-to-modernise-customs-operations/>).
 
-***Noted, not assessed***. [COMESA Electronic Single Window System](<https://www.comesa.int/trade-customs-division-2/>); [COMESA Electronic Certificate of Origin (e-CO)](<https://www.comesa.int/trade-customs-division-2/>).
+***Also on file***. [COMESA Electronic Single Window System](<https://www.comesa.int/trade-customs-division-2/>); [COMESA Electronic Certificate of Origin (e-CO)](<https://www.comesa.int/trade-customs-division-2/>).
 
-***Not held***. No source held since October 2023 says customs exchanges data electronically with another country.
+***Not found***. No source found since October 2023 says customs exchanges data electronically with another country.

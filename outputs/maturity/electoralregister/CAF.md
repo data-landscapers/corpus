@@ -6,8 +6,8 @@
 
 **Open for checking.** [The ANE officially published the definitive electoral list of 2,398,158 registered voters on 23 August 2025](<https://french.xinhuanet.com/20250825/216678a5ca894a1d915b2f5528ff0973/c.html>). [The exercise verifies the details of citizens registered in 2020, and the president checked whether his name was on the electoral list](<https://www.biometricupdate.com/202412/central-african-republic-enrols-citizens-for-first-local-elections-in-36-years>).
 
-**Linked to ID.** No source held since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://french.xinhuanet.com/20250825/216678a5ca894a1d915b2f5528ff0973/c.html>).
+**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://french.xinhuanet.com/20250825/216678a5ca894a1d915b2f5528ff0973/c.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

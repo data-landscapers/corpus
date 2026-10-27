@@ -6,6 +6,6 @@
 
 **Money and results.** The nearest held fact is the National Digital Strategy's target, [stated in February 2026](<https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/>), of raising internet use from 53% to 90% by 2030, within a plan period that runs from 2025/26 to 2029/30 and had not ended when it was reported.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.

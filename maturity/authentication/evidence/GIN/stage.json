@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GIN-002",
-      "gaps": "No source held since October 2023 says an authentication service is in use.",
+      "gaps": "No source found since October 2023 says an authentication service is in use.",
       "note": "Rebuild: ANDE is developing a PKI for electronic signatures (GIN-002); the voter-file convention cited before is a data source, not authentication. Nothing is in service.",
       "as_at": "2026-10-22"
     }

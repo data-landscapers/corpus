@@ -88,7 +88,7 @@ A data centre on a secured power supply by 2026; no power set aside for data cen
 
 ### Nigeria: 2 Nascent
 
-A Lagos data centre opened in 2026 on its own grid line and hybrid power plant; power set aside for data centres is not known.
+A Lagos data centre opened in 2026 on its own grid line and hybrid power plant; no source found reports power set aside for data centres.
 
 - Kasi lists a direct TCN 132kV power connection and hybrid gas, solar and battery supply with N+1 redundancy for its Lekki campus, which it says is open for business with phased commissioning continuing ([source, 2026-05-19](https://nsia.com.ng/kasi-cloud-datacenters-commissions-west-africas-first-hyperscaleready-ai-capable-data-centre-campus-in-lagos/)).
 
@@ -102,256 +102,256 @@ A data centre on a secured power supply by 2026; no power set aside for data cen
 
 No data centre is known to have a secured power supply, so no stage is set.
 
-Not established: The national data centre and the 12 MW Kintelé solar farm built for it were both under construction in September 2026; nothing held describes the power supply of a data centre in service.
+Not established: The national data centre and the 12 MW Kintelé solar farm built for it were both under construction in September 2026; nothing found describes the power supply of a data centre in service.
 
 ### Angola: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Botswana: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Burkina Faso: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Burundi: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Cameroon: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Cape Verde: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Central African Republic: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Chad: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Comoros: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Cote d'Ivoire: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### DR Congo: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Djibouti: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Egypt: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Eritrea: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Eswatini: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Gambia: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Guinea: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Lesotho: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Liberia: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Libya: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Madagascar: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Malawi: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Mali: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Mauritania: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Morocco: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Namibia: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Niger: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Rwanda: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Senegal: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Seychelles: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Sierra Leone: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Somalia: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### South Sudan: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Sudan: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Tanzania: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Tunisia: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Uganda: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Zambia: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.
 
 ### Zimbabwe: No evidence
 
-Nothing held says how data centres get power or water, so no stage is set.
+Nothing found says how data centres get power or water, so no stage is set.
 
-Not established: Nothing held says how any data centre is supplied with power or water.
+Not established: Nothing found says how any data centre is supplied with power or water.

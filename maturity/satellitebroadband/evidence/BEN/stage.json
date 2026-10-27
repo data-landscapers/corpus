@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-002",
-      "gaps": "No source held says services on two different satellite networks are on sale.",
+      "gaps": "No source found says services on two different satellite networks are on sale.",
       "note": "Counted from the four questions by study-ladder-satellitebroadband.py.",
       "as_at": "2026-10-18"
     }

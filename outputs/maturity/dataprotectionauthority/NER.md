@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** The HAPDP president said in July 2025 that [the plenary deliberates on authorisations and sanctions](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/), and a [Le Sahel profile of September 2024](https://www.lesahel.org/la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp) gives it powers of inspection and administrative and financial sanction under articles 92-106.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing says the Justice and Interior ministries are supervising data protection since the authority was abolished.
+***Not found***. Nothing says the Justice and Interior ministries are supervising data protection since the authority was abolished.

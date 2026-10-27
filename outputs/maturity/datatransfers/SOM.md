@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest fact held is in the same [Articles 30 and 31 of the 2023 Act](<https://moct.gov.so/en/wp-content/uploads/2023/07/Somalia-Data-Protection-Act-2.pdf>), which accept a recipient bound by a law, binding corporate rules or contractual clauses that give adequate protection as a way to send data abroad. They set out the means in law; they do not show a list or model terms published by the authority.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad. No application of the rule to a transfer is known.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad. No application of the rule to a transfer is known.

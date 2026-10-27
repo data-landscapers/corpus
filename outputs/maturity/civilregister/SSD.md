@@ -2,6 +2,6 @@
 
 ## Civil register
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how births and deaths are registered.
+***Not found***. Nothing found says how births and deaths are registered.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-010;BEN-003",
-      "gaps": "No source held since October 2023 puts birth registration at 90% or more.",
+      "gaps": "No source found since October 2023 puts birth registration at 90% or more.",
       "note": "Births and deaths are recorded in ANIP's national civil status file, deaths automatically on declaration (2026). ANIP's 94% is for births declared on time, not registered, so it does not answer the coverage question.",
       "as_at": "2026-10-23"
     }

@@ -6,8 +6,8 @@
 
 **Published regularly.** [The agrometeorological working group coordinated by ANACIM publishes a bulletin at the end of every ten days, now produced in the AgData Hub app](<https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture>).
 
-**Reaching farmers.** No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [extension agents and regional teams receive the bulletins on their phones](<https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture>).
+**Reaching farmers.** No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [extension agents and regional teams receive the bulletins on their phones](<https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held counts the farmers, extension workers or districts receiving advice from the service.
+***Not found***. No source found counts the farmers, extension workers or districts receiving advice from the service.

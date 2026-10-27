@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [same member page](<https://www.iso.org/member/1978.html>) is the nearest held fact: it counts 5 committees as participating and 9 as observing, and names none of them. No law, decree or circular requiring public bodies to meet a named international standard on information technology or data is held, and no committee seat on information technology is named.
 
-***Noted, not assessed***. [The telecoms regulator INCM's public IMEI lookup, built on GSMA data](<https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/>), which is built to an industry registry and not to an ISO, IEC or ITU standard.
+***Also on file***. [The telecoms regulator INCM's public IMEI lookup, built on GSMA data](<https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/>), which is built to an industry registry and not to an ISO, IEC or ITU standard.
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

@@ -6,8 +6,8 @@
 
 **Open for checking.** [The EU mission says the ECZ's online pre-registration portal enabled registered voters to electronically inspect the Provisional Register of Voters](<https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf>). [The SADC mission says the voters' register was displayed at 201 of 277 polling stations observed (73 per cent) on polling day](<https://www.sadc.int/sites/default/files/2026-08/PRELIMINARY%20STATEMENT%20-%20SEOM%20ZAMBIA.pdf>).
 
-**Linked to ID.** No source held since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf>).
+**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

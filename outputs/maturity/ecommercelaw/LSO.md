@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** No rules exist yet, because there is no law to make them under. The nearest held fact is the bill's progress: after the workshop, which was held with the United Nations Development Programme, the [draft goes to the Office of the Parliamentary Counsel for refinement](<https://www.itweb.africa/article/lesotho-revises-electronic-transactions-bill/KA3WwMdzPLDvrydZ>). The [FinMark Trust said in June 2026](<https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc>) that Lesotho, with the Democratic Republic of the Congo and Zimbabwe, lacks comprehensive legislation on electronic transactions.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a law on electronic transactions or e-commerce is in force.
+***Not found***. No source found says a law on electronic transactions or e-commerce is in force.

@@ -6,6 +6,6 @@
 
 **Research and education network.** A research and education network is asked about only once STEM graduates reach 40 per cent, so with [the figure below that line](<https://mescti.gov.ao/media/uploads/ANUARIO_ESTATISTICO_2023_2024_5824af246e.pdf>) none was looked for.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure of 13 per cent of tertiary graduates or more is held.
+***Not found***. No figure of 13 per cent of tertiary graduates or more has been found.

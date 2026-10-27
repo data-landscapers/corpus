@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-001;NGA-004;NGA-024",
-      "gaps": "No source held since October 2023 says a government contract with a foreign provider carries terms on data jurisdiction, portability, exit or source code. The national hosting fact covers the identity database only.",
+      "gaps": "No source found since October 2023 says a government contract with a foreign provider carries terms on data jurisdiction, portability, exit or source code. The national hosting fact covers the identity database only.",
       "note": "The CBN data localisation rule is in force and NIMC states the national identity database is hosted and run in Nigeria (NGA-024), so stage 4. Stage 5 needs a contract carrying data terms, and none is held.",
       "as_at": "2026-10-18"
     }

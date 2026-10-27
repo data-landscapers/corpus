@@ -6,8 +6,8 @@
 
 **Single gateway.** [The Ministry's page describes the e-Citizen Portal as a single entry point to all digital public services, with each citizen's unique biometric-authenticated digital identifier as the gateway to all online public services](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>).
 
-**Use published.** No source held since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>).
+**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>).
 
-***Noted, not assessed***. [Identité numérique](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>); [ADEN online government services platform](<https://www.wearetech.africa/fr/fils/actualites/tech/congo-l-aden-s-associe-a-la-societe-anglaise-regalli-pour-deployer-un-portail-numerique-des-services-gouvernementaux>).
+***Also on file***. [Identité numérique](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>); [ADEN online government services platform](<https://www.wearetech.africa/fr/fils/actualites/tech/congo-l-aden-s-associe-a-la-societe-anglaise-regalli-pour-deployer-un-portail-numerique-des-services-gouvernementaux>).
 
-***Not held***. No source held since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.

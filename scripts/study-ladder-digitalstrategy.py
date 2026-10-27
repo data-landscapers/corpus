@@ -97,7 +97,7 @@ def rung(insts: dict[str, dict], absent: list[dict], as_at: dt.date) -> tuple[st
     if live:
         name, v = max(live.items(), key=lambda kv: (kv[1]["text"] == "public", kv[1]["date"]))
         if v["text"] != "public":
-            return "2", name, ["text unpublished"], "adopted, and no public text is held"
+            return "2", name, ["text unpublished"], "adopted, and no public text has been found"
         flags = []
         if v["period"] == "open" or not v["period"]:
             return "3", name, flags, "no stated period: an open strategy stops at stage 3"
@@ -127,7 +127,7 @@ def rung(insts: dict[str, dict], absent: list[dict], as_at: dt.date) -> tuple[st
     if insts:
         name = max(insts, key=lambda k: len(insts[k]["governance"]))
         return study_lib.UNPLACED, name, [], "no standing stated for it"
-    return study_lib.NO_EVIDENCE, "", [], "nothing held on a national strategy"
+    return study_lib.NO_EVIDENCE, "", [], "nothing found on a national strategy"
 
 
 def main(argv=None) -> int:

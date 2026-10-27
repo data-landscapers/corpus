@@ -2,6 +2,6 @@
 
 ## Long-distance fibre across the country
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a national fibre backbone, or says there is none.
+***Not found***. Nothing found names a national fibre backbone, or says there is none.

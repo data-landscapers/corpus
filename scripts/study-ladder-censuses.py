@@ -41,9 +41,9 @@ import study_lib  # noqa: E402
 STUDY = "censuses"
 GAPS = {
     "5": "",
-    "4": "No source held reports results of a national household survey published since October 2023.",
-    "3": "No source held reports preliminary or final results of the census published.",
-    "2": "No source held reports a census counted since October 2016.",
+    "4": "No source found reports results of a national household survey published since October 2023.",
+    "3": "No source found reports preliminary or final results of the census published.",
+    "2": "No source found reports a census counted since October 2016.",
     "1": "",
 }
 YEAR = re.compile(r"(?<!\d)((?:19|20)\d{2})(?!\d)")
@@ -99,7 +99,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("census", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "sources": [],
-                "gaps": "Nothing held names a population census or a household survey, or says there is none."}
+                "gaps": "Nothing found names a population census or a household survey, or says there is none."}
     first = final[::-1]   # the first release of final results dates them, not a later regional one
     if final and surveyed:
         s, src = "5", surveyed[:1] + first[:1]

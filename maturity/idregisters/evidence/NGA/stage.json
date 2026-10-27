@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-004;NGA-007",
-      "gaps": "No source held since October 2023 shows three or more main public registers using the national ID number.",
+      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
       "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
       "as_at": "2026-10-18"
     }

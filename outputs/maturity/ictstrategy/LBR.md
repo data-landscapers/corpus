@@ -16,6 +16,6 @@
 
 **Last twelve months.** The national digital strategy, published on 3 February 2026, says the successor policy [has been drafted and is in consultation, with approval targeted for the last quarter of 2025](<https://mopt.gov.lr/wp-content/uploads/2025/09/Liberia-National-Digital-Strategy.pdf>). A press release of 8 September 2026 [lists a draft National ICT Policy](<https://www.einpresswire.com/article/939735610/csquared-completes-commercial-broadband-programme-in-liberia-with-support-from-microsoft>).
 
-***Noted, not assessed***. [National Digital Strategy (2025-2029)](<https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf>); [Liberia Telecommunications Authority Strategic Plan 2025-2029](<https://lta.gov.lr/wp-content/uploads/2026/02/STRATEGIC-PLAN.pdf>).
+***Also on file***. [National Digital Strategy (2025-2029)](<https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf>); [Liberia Telecommunications Authority Strategic Plan 2025-2029](<https://lta.gov.lr/wp-content/uploads/2026/02/STRATEGIC-PLAN.pdf>).
 
-***Not held***. No adoption of the National ICT Policy 2025-2030 is on record. A budget line for the 2019-2024 policy is not held.
+***Not found***. No adoption of the National ICT Policy 2025-2030 is on record. A budget line for the 2019-2024 policy is not held.

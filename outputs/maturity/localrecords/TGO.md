@@ -12,6 +12,6 @@
 
 **Local governments recording.** One commune, [Lacs 1, had the tax digitalisation project in May 2021](<https://www.undp.org/fr/togo/actualites/chaque-nom-compte-la-digitalisation-des-actes-detat-civil-une-experience-du-pnud-dans-les-communes>), among the about sixty that UNDP says it equipped from 2020.
 
-***Noted, not assessed***. SIG Recettes, used for taxpayer censuses in [Bassar 1](<https://atop.tg/les-resultats-dun-recensement-des-contribuables-valides-a-bassar-1/>), with GIZ and KfW, and in [Doufelgou 1 and Sotouboua 2](<https://www.togofirst.com/fr/gouvernance-economique/1703-15943-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des-contribuables-aux-recettes-non-fiscales>), with GIZ.
+***Also on file***. SIG Recettes, used for taxpayer censuses in [Bassar 1](<https://atop.tg/les-resultats-dun-recensement-des-contribuables-valides-a-bassar-1/>), with GIZ and KfW, and in [Doufelgou 1 and Sotouboua 2](<https://www.togofirst.com/fr/gouvernance-economique/1703-15943-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des-contribuables-aux-recettes-non-fiscales>), with GIZ.
 
-***Not held***. What is recorded and where it is held are not established, and no start of use is stated for the Lacs 1 project. Nothing is dated after May 2021.
+***Not found***. What is recorded and where it is held are not established, and no start of use is stated for the Lacs 1 project. Nothing is dated after May 2021.

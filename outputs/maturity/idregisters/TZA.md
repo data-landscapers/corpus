@@ -6,8 +6,8 @@
 
 **Main registers.** [In September 2026 government spokesman Gerson Msigwa said use of the national ID number had spread to taxpayer registration, TASAF social services and business registration](<https://www.jamhurimedia.co.tz/nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako/>).
 
-**Matching reported.** No source held since October 2023 gives a figure from checking a register against the ID. The nearest held fact: [the one given above](<https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047>).
+**Matching reported.** No source found since October 2023 gives a figure from checking a register against the ID. The nearest held fact: [the one given above](<https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047>).
 
-***Noted, not assessed***. [Jamii Namba](<https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047>); [NIDA National Identification Number](<https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905>); [NIDA national ID](<https://dailynews.co.tz/nida-mulls-child-registration/>).
+***Also on file***. [Jamii Namba](<https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047>); [NIDA National Identification Number](<https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905>); [NIDA national ID](<https://dailynews.co.tz/nida-mulls-child-registration/>).
 
-***Not held***. No source held since October 2023 gives a figure from checking a register against the ID.
+***Not found***. No source found since October 2023 gives a figure from checking a register against the ID.

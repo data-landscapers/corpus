@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ZAF-003",
-   "gaps": "No source held gives the exchange's traffic at two dates a year apart showing growth.",
+   "gaps": "No source found gives the exchange's traffic at two dates a year apart showing growth.",
    "note": "Counted from the four questions by study-ladder-exchangepoints.py."
   }
  ]

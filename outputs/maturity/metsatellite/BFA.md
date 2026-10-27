@@ -6,8 +6,8 @@
 
 **Warnings issued.** [ANAM states that the 10-minute satellite data reception is decisive for tracking fast weather events and for issuing more responsive early alerts, and that the images help early detection of violent storms](<https://meteoburkina.bf/news/lanam-poursuit-la-modernisation-de-ses-infrastructures-des-stations-de-derni%C3%A8re-g%C3%A9n%C3%A9ration-pour-mieux-servir-le-burkina-faso/>).
 
-**ISO 9001 certified.** No source held since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<https://meteoburkina.bf/news/lanam-poursuit-la-modernisation-de-ses-infrastructures-des-stations-de-derni%C3%A8re-g%C3%A9n%C3%A9ration-pour-mieux-servir-le-burkina-faso/>).
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<https://meteoburkina.bf/news/lanam-poursuit-la-modernisation-de-ses-infrastructures-des-stations-de-derni%C3%A8re-g%C3%A9n%C3%A9ration-pour-mieux-servir-le-burkina-faso/>).
 
-***Noted, not assessed***. [CLIMSA station](<https://meteoburkina.bf/news/lanam-poursuit-la-modernisation-de-ses-infrastructures-des-stations-de-derni%C3%A8re-g%C3%A9n%C3%A9ration-pour-mieux-servir-le-burkina-faso/>).
+***Also on file***. [CLIMSA station](<https://meteoburkina.bf/news/lanam-poursuit-la-modernisation-de-ses-infrastructures-des-stations-de-derni%C3%A8re-g%C3%A9n%C3%A9ration-pour-mieux-servir-le-burkina-faso/>).
 
-***Not held***. No source held since October 2023 says the weather service holds ISO 9001 certification.
+***Not found***. No source found since October 2023 says the weather service holds ISO 9001 certification.

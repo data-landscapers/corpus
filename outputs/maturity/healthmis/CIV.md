@@ -6,8 +6,8 @@
 
 **Linked.** [Since 2018 the national DHIS2 has integrated vaccination, epidemiological surveillance and community data flows, and that the mHealth community platform transmits data to it via HL7 FHIR APIs](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
 
-**Reporting rate published.** No source held since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
+**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
 
-***Noted, not assessed***. [mHealth community platform](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
+***Also on file***. [mHealth community platform](<https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/>).
 
-***Not held***. No source held since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.

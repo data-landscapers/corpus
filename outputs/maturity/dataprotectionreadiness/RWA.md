@@ -10,6 +10,6 @@
 
 **Implementing and acting.** [The New Times](<https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors>) reported in January 2026 that over the last four years the Authority has registered data controllers and processors with registration certificates, trained over 100 public sector data protection officers, and run sector workshops for pharmacists and local government entities. In [February 2024 its Data Protection and Privacy Office published template standard contractual clauses](<https://dpo.gov.rw/fileadmin/DPO/ComplianceTools/-_Standard_Contractual_Clauses_for_Transfer_Personal_Data_Outside_Rwanda_.pdf>) for transfers abroad under Article 49 of Law No 058/2021, which also set 72-hour breach reporting to the authority.
 
-***Noted, not assessed***. [Data Protection Act (introduced 15 October 2021)](<https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors>); [National Cyber Security Authority (NCSA)](<https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors>).
+***Also on file***. [Data Protection Act (introduced 15 October 2021)](<https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors>); [National Cyber Security Authority (NCSA)](<https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors>).
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

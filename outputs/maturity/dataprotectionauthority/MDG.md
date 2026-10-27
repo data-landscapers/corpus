@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** The CMIL's own annual report, published January 2026, says [no processing declaration has been registered](https://drive.google.com/file/d/11XR_I-6z6Y28qnrEjHABu3SOIbjWy6yW/view), citizen complaints went untreated for ten years, and it still lacks premises and staff, with 104 posts targeted in the 2026 Finance Law and none yet recruited.
 
-***Noted, not assessed***. [Loi n° 2014-038](https://digital.gov.mg/en/2022/07/05/loi-n-2014-038-sur-la-protection-des-donnees-a-caractere-personnel/), [Décret 2023-1541](https://digital.gov.mg/wp-content/uploads/2025/12/manuel-procedures-cmil-03-dec-2025.pdf) and the [Convention de Malabo](https://drive.google.com/file/d/11XR_I-6z6Y28qnrEjHABu3SOIbjWy6yW/view).
+***Also on file***. [Loi n° 2014-038](https://digital.gov.mg/en/2022/07/05/loi-n-2014-038-sur-la-protection-des-donnees-a-caractere-personnel/), [Décret 2023-1541](https://digital.gov.mg/wp-content/uploads/2025/12/manuel-procedures-cmil-03-dec-2025.pdf) and the [Convention de Malabo](https://drive.google.com/file/d/11XR_I-6z6Y28qnrEjHABu3SOIbjWy6yW/view).
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

@@ -8,6 +8,6 @@
 
 **Enforced.** In August 2026 the AI Bill had still to reach parliament, where the ICT minister aimed to [table it before December 2026](<https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445>).
 
-***Noted, not assessed***. [National AI Strategy](<https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445>).
+***Also on file***. [National AI Strategy](<https://www.telecompaper.com/news/malawi-drafts-ai-bill--1579445>).
 
-***Not held***. No source held says a rule on harms from AI is in force or a body is designated with a mandate over AI.
+***Not found***. No source found says a rule on harms from AI is in force or a body is designated with a mandate over AI.

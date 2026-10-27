@@ -2,6 +2,6 @@
 
 ## Revenue records
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source on local government revenue records is held, and no system of any class is named. Nothing is shown either way, including absence.
+***Not found***. No source on local government revenue records has been found, and no system of any class is named. Nothing is shown either way, including absence.

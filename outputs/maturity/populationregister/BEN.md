@@ -8,6 +8,6 @@
 
 **Source for others.** [Banouto reports the ANIP eServices portal's Explorez votre identite service takes its data from the RNPP](<https://www.banouto.bj/societe/article/20260918-anip-voici-comment-decouvrir-combien-de-beninois-partagent-votre-nom-prenom-ou-date-de-naissance>). [ANIP says the RNPP is the only source for identity cards, passports and driving licences, and that phone SIM acquisition and public service platforms authenticate against the NPI](<https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf>). [It put the national public services linked to the RNPP at 19 in 2025](<https://www.id4africa.com/2025/files/PS5A-S1-2-Benin_FINAL.pdf>).
 
-***Noted, not assessed***. [Register of Beninese Abroad](<https://www.gouv.bj/article/3188/modernisation-processus-electoral-anip-devoile-plateformes-numeriques>); [Numero personnel d'identification (NPI)](<https://lanationbenin.bj/actualites/interoperabilite-avec-le-registre-national-des-personnes-physiques-des-structures-publiques-et-privees-entretenues-sur-les-avantages>).
+***Also on file***. [Register of Beninese Abroad](<https://www.gouv.bj/article/3188/modernisation-processus-electoral-anip-devoile-plateformes-numeriques>); [Numero personnel d'identification (NPI)](<https://lanationbenin.bj/actualites/interoperabilite-avec-le-registre-national-des-personnes-physiques-des-structures-publiques-et-privees-entretenues-sur-les-avantages>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

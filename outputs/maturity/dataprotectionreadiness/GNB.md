@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The professor said a [bill provides for creating a 'Data Protection Agency'](<https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/>), with independence risks in its membership and in leaving its organisation to a decree.
 
-***Noted, not assessed***. [Personal data protection bill](<https://upr-info.org/sites/default/files/country-document/2025-09/A_HRC_WG.6_49_GNB_1_F.pdf>); [Projecto de lei de protecção de dados (Agência de protecção de dados)](<https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/>); [ECOWAS Supplementary Act A/SA.1/01/10 on Personal Data Protection](<https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/>).
+***Also on file***. [Personal data protection bill](<https://upr-info.org/sites/default/files/country-document/2025-09/A_HRC_WG.6_49_GNB_1_F.pdf>); [Projecto de lei de protecção de dados (Agência de protecção de dados)](<https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/>); [ECOWAS Supplementary Act A/SA.1/01/10 on Personal Data Protection](<https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/>).
 
-***Not held***. The stage of the bill, and any ruling against an organisation.
+***Not found***. The stage of the bill, and any ruling against an organisation.

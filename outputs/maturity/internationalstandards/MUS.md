@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** In July 2026 a minister [spoke of adopting the same standard in the national cybersecurity framework](<https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993>), in an account of the postal sector's defences against attack. A [workshop in March 2026](<https://mitci.govmu.org/mitci/isms-half-day-workshop/>) took the bureau's information security scheme to the public service. An industry certification framework is listed below.
 
-***Noted, not assessed***. [An industry certification framework for artificial intelligence models, co-chaired by Mauritius Telecom](<https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/>).
+***Also on file***. [An industry certification framework for artificial intelligence models, co-chaired by Mauritius Telecom](<https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/>).
 
-***Not held***. No source held names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.

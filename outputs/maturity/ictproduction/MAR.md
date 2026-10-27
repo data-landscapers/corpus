@@ -6,6 +6,6 @@
 
 **ICT equipment made in the country.** [Digital Economy Advisors' Ben Roberts says STMicroelectronics has run a chip assembly and test plant near Casablanca for decades](<https://www.digitaleconomy.ke/post/the-fifth-layer-what-will-it-take-for-africa-to-make-its-chips>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says ICT equipment is assembled or made in the country.
+***Not found***. No source found since October 2023 says ICT equipment is assembled or made in the country.

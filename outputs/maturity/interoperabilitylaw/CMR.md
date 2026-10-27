@@ -6,6 +6,6 @@
 
 **Sharing required and the law applied.** The draft, as [the project describes it](<https://patnuc.cm/2025/11/20/services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov/>), provides that administrations must make their information systems compatible so that they can share data securely, and gives a body named GovTech Cameroun the task of steering interoperability. These are terms of a bill that has not been passed. With no law in force, nothing has been made under one and no administration is named as exchanging data because a law requires it.
 
-***Noted, not assessed***. [Plateforme nationale unifiée (single access point for digital public services)](<https://patnuc.cm/2025/11/20/services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov/>).
+***Also on file***. [Plateforme nationale unifiée (single access point for digital public services)](<https://patnuc.cm/2025/11/20/services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov/>).
 
-***Not held***. No source held says a law, decree or regulation on public bodies sharing data is in force.
+***Not found***. No source found says a law, decree or regulation on public bodies sharing data is in force.

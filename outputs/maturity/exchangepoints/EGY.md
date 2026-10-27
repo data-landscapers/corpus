@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [Two Jordanian carriers, Jordan Telecommunications (AS8697) and Al Bahrainia al Urdunia Liltaknia (AS9038), are members at EG-IX in Cairo, alongside global content networks and ICANN's L-root](<https://tech.africa/eg-ix-cairo-18-members/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. [Amazon CloudFront edge location Cairo](<https://aws.amazon.com/about-aws/whats-new/2024/05/new-edge-location-egypt>).
+***Also on file***. [Amazon CloudFront edge location Cairo](<https://aws.amazon.com/about-aws/whats-new/2024/05/new-edge-location-egypt>).
 
-***Not held***. No source held gives the exchange's traffic at two dates a year apart showing growth.
+***Not found***. No source found gives the exchange's traffic at two dates a year apart showing growth.

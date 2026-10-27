@@ -12,6 +12,6 @@
 
 **Last twelve months.** The [Commission's members were appointed by decree of 31 December 2025 and the Commission was inaugurated with its leadership elected](<https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/>), reported on 22 January 2026.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any regulation made under Law No. 29-2019 is in force, and any decision, sanction or count of complaints under the law. The date the law commenced.
+***Not found***. Whether any regulation made under Law No. 29-2019 is in force, and any decision, sanction or count of complaints under the law. The date the law commenced.

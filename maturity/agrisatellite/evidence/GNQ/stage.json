@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "",
-   "gaps": "Nothing held says whether satellite data is used in farming.",
+   "gaps": "Nothing found says whether satellite data is used in farming.",
    "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py."
   }
  ]

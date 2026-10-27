@@ -176,7 +176,7 @@ def worksheet(unit, ctx):
                         w.append("**Ibrahim Index profile** — check against the held IIAG profile record for this country if the catalogue carries one")
                     else:
                         counts["not held"] += 1
-                        w.append("**Not held** — nothing on this machine to check against; leave as written")
+                        w.append("**Not found** — nothing on this machine to check against; leave as written")
                     w.append("")
     os.makedirs(OUT, exist_ok=True)
     out = os.path.join(OUT, f"{unit}-worksheet.md")

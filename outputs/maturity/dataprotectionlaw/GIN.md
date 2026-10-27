@@ -12,6 +12,6 @@
 
 **Last twelve months.** [On 19 November 2025 Minister Rose Pola Pricemou said Guinea is strengthening its regulatory framework with a new data-protection law](<https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee>). [The ministry reported for 2025 that texts on personal data protection are in progress](<https://www.africaguinee.com/app/uploads/2026/01/Realisations_MPTEN_2025_compressed.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Any regulation made under the 2016 law, any decision applying it and the constitution of its authority. The date the law came into force. The stage and timetable of the new law announced in November 2025.
+***Not found***. Any regulation made under the 2016 law, any decision applying it and the constitution of its authority. The date the law came into force. The stage and timetable of the new law announced in November 2025.

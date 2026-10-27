@@ -42,9 +42,9 @@ GAPS = {
     "4": "No source from the last three years naming a country approved to receive data, or "
          "an organisation given or refused permission, ordered to comply or penalised for "
          "sending data abroad, is held.",
-    "3": "No source held says the authority has published a list of countries, model contract "
+    "3": "No source found says the authority has published a list of countries, model contract "
          "terms, a permission procedure or guidance on sending data abroad.",
-    "2": "No source held says a rule on sending personal data abroad is in force.",
+    "2": "No source found says a rule on sending personal data abroad is in force.",
     "1": "",
 }
 
@@ -87,7 +87,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     lifts = bool(policy) or not draft
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
-                "gaps": "Nothing held names a rule on sending personal data abroad, or says "
+                "gaps": "Nothing found names a rule on sending personal data abroad, or says "
                         "there is none."}
     if applied and lifts:
         s, src = "5", applied + policy[:1]

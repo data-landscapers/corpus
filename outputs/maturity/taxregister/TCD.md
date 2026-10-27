@@ -6,8 +6,8 @@
 
 **Shared with firms or customs.** [Chad's customs directorate says every importer, exporter and customs agent needs a valid NIF, required on every declaration, and the SYDONIA World customs system blocks a declaration made without one](<https://douanes.td/e-douane/e-paiement/>). The customs e-payment it describes is integrated with the tax directorate's E-Tax platform.
 
-**Tied to ID.** No source held since October 2023 says the taxpayer number is the national ID number or is checked against the national ID. The nearest held fact: [the NIF required on customs declarations](<https://douanes.td/e-douane/e-paiement/>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is the national ID number or is checked against the national ID. The nearest held fact: [the NIF required on customs declarations](<https://douanes.td/e-douane/e-paiement/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says the taxpayer number is the national ID number or is checked against it.
+***Not found***. Nothing found says the taxpayer number is the national ID number or is checked against it.

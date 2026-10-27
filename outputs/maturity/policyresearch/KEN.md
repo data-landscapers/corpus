@@ -6,8 +6,8 @@
 
 **Feeding policy.** [KICTANet submitted a memorandum to the Senate of Kenya on 5 May 2026 as a public comment on the Artificial Intelligence Bill, 2026, proposing a statutory AI Authority, a National Council and a ring-fenced fund](<https://www.kictanet.or.ke/wp-content/uploads/2026/05/AI-BILL-2026-Memorandum.docx.pdf>).
 
-**Standing role.** No source held since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [the one given above](<https://www.kictanet.or.ke/wp-content/uploads/2026/05/AI-BILL-2026-Memorandum.docx.pdf>).
+**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [the one given above](<https://www.kictanet.or.ke/wp-content/uploads/2026/05/AI-BILL-2026-Memorandum.docx.pdf>).
 
-***Noted, not assessed***. [CIPESA](<https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/>).
+***Also on file***. [CIPESA](<https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/>).
 
-***Not held***. No source held since October 2023 says a local research institution holds a standing advisory role in digital policy.
+***Not found***. No source found since October 2023 says a local research institution holds a standing advisory role in digital policy.

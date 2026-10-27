@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [The operator's own site says operators across Sierra Leone, Guinea and Liberia are exchanging traffic at Michcom-IX, with live points of presence in Conakry (Guilab) and Monrovia (CCL)](<https://www.michcom-ix.net/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. [SLIXP](<https://sldtp.gov.sl/2025/08/16/slixp-feasibility-study-completed-paving-the-way-for-a-faster-safer-and-more-affordable-internet-in-sierra-leone/>).
+***Also on file***. [SLIXP](<https://sldtp.gov.sl/2025/08/16/slixp-feasibility-study-completed-paving-the-way-for-a-faster-safer-and-more-affordable-internet-in-sierra-leone/>).
 
-***Not held***. No source held gives the exchange's traffic at two dates a year apart showing growth.
+***Not found***. No source found gives the exchange's traffic at two dates a year apart showing growth.

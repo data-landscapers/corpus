@@ -6,8 +6,8 @@
 
 **Single window.** [CAFI managing director Chaba Mokuku writes that the Lesotho National Single Window, run by Revenue Services Lesotho, lets traders file import, export and transit documents through one online entry point, with twelve agencies connected](<https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/>).
 
-***Noted, not assessed***. [OBFC business registration portal](<https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/>); [Business Facilitation Single Window at the OBFC](<https://lestimes.com/?p=89016>).
+***Also on file***. [OBFC business registration portal](<https://lesothotribune.co.ls/public-private-dialogue-reforms-stalled-in-nine-areas-matekane-says/>); [Business Facilitation Single Window at the OBFC](<https://lestimes.com/?p=89016>).
 
-***Not held***. No source held since October 2023 says customs exchanges data electronically with another country.
+***Not found***. No source found since October 2023 says customs exchanges data electronically with another country.

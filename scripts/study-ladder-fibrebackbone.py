@@ -39,10 +39,10 @@ import study_lib  # noqa: E402
 STUDY = "fibrebackbone"
 GAPS = {
     "5": "",
-    "4": "No source held says other operators buy capacity on the backbone, or that it runs "
+    "4": "No source found says other operators buy capacity on the backbone, or that it runs "
          "on open-access or wholesale terms.",
-    "3": "No source held says the backbone reaches every province or region.",
-    "2": "No source held says any of the backbone is in service between the capital and "
+    "3": "No source found says the backbone reaches every province or region.",
+    "2": "No source found says any of the backbone is in service between the capital and "
          "another region.",
     "1": "",
 }
@@ -79,7 +79,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     three = study_lib.months_back(as_at, 36)
     if not rows:
         return {"stage": "no evidence", "reach": "", "access": "", "sources": [],
-                "gaps": "Nothing held names a national fibre backbone, or says there is none."}
+                "gaps": "Nothing found names a national fibre backbone, or says there is none."}
     pick = lambda aspect, values, since=None, n=2: [  # noqa: E731
         (d, r["row_id"]) for d, r in live if r["aspect"] == aspect and r["value"] in values
         and (since is None or d >= since)][:n]
@@ -105,7 +105,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         s, src = "2", ids(building)
     else:
         return {"stage": "unplaced", "reach": "", "access": "", "sources": [],
-                "gaps": "No source held says a national fibre backbone is being built, or is in "
+                "gaps": "No source found says a national fibre backbone is being built, or is in "
                         "service, and none dated in the last three years says there is none."}
     return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s],
             "reach": {"5": "every-region", "4": "every-region", "3": "in-service", "2": "building"}[s],

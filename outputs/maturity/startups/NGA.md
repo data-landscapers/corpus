@@ -6,8 +6,8 @@
 
 **Labelling.** [NAN reports the Startup Consultative Forum's membership includes labelled startups, and that certified startups get access to incentives under the Act](<https://nannews.ng/nitda-inaugurates-startup-consultative-forum-assures-implementation-of-nsa/>).
 
-**Funded.** No source held since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://nannews.ng/nitda-inaugurates-startup-consultative-forum-assures-implementation-of-nsa/>).
+**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://nannews.ng/nitda-inaugurates-startup-consultative-forum-assures-implementation-of-nsa/>).
 
-***Noted, not assessed***. [Boost Africa](<https://von.gov.ng/eu-eib-highlight-boost-africas-impact-on-entrepreneurs/>); [Startup Investment Seed Fund](<https://nitda.gov.ng/wp-content/uploads/2024/03/NIGERIA-STARTUP-ACT-2022-Final-Publication.pdf>).
+***Also on file***. [Boost Africa](<https://von.gov.ng/eu-eib-highlight-boost-africas-impact-on-entrepreneurs/>); [Startup Investment Seed Fund](<https://nitda.gov.ng/wp-content/uploads/2024/03/NIGERIA-STARTUP-ACT-2022-Final-Publication.pdf>).
 
-***Not held***. No source held since October 2023 says a public fund under the startup law or strategy has financed startups.
+***Not found***. No source found since October 2023 says a public fund under the startup law or strategy has financed startups.

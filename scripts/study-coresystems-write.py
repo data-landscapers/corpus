@@ -8,7 +8,7 @@ r"""study-coresystems-write.py — the core government systems study's summaries
 it. **Nothing is composed here that a fact does not state**: each of the five paragraphs is
 the drafters' own fact sentences on that aspect, each linked whole to its evidence row's
 `url`, the rows that set the stage first, then the rest newest first while the paragraph stays
-inside its room. An aspect with nothing held says so, linked to the fact that set the stage.
+inside its room. An aspect with nothing found says so, linked to the fact that set the stage.
 
 Writes, per country, `outputs/maturity/coresystems/{ISO3}.md` and
 `maturity/coresystems/evidence/{ISO3}/short.json`. Run it after the ladder script.
@@ -25,6 +25,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "coresystems"
@@ -38,11 +39,11 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"bidding document|request for bids|ToR)"
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 EMPTY = {
-    "finance": "No source held from 2023 or later says the government's financial management system is in use; the nearest held fact is {l}.",
-    "revenue": "No source held from 2023 or later says the tax authority's system is in use; the stage rests on {l}.",
-    "payroll": "No source held from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on {l}.",
-    "renewed": "No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on {l}.",
-    "architecture": "No source held says the government has published an enterprise architecture or an inventory of its systems; the stage rests on {l}.",
+    "finance": "No source found from 2023 or later says the government's financial management system is in use; the nearest held fact is {l}.",
+    "revenue": "No source found from 2023 or later says the tax authority's system is in use; the stage rests on {l}.",
+    "payroll": "No source found from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on {l}.",
+    "renewed": "No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on {l}.",
+    "architecture": "No source found says the government has published an enterprise architecture or an inventory of its systems; the stage rests on {l}.",
 }
 def shorten(cell: dict, y: str) -> str:
     """One sentence from what the cell holds: the step that set it, then the main unknown."""
@@ -50,7 +51,7 @@ def shorten(cell: dict, y: str) -> str:
     if s == "1":
         return f"A {y} source says the government's finances are not run on a computer system."
     if s == "2":
-        tail = cell["gaps"].replace("A source held says the", "the").rstrip(".")             if cell["gaps"].startswith("A source held says") else "whether tax and payroll do too is not known"
+        tail = cell["gaps"].replace("A source found says the", "the").rstrip(".")             if cell["gaps"].startswith("A source found says") else "no source found says whether tax and payroll do too"
         return f"The government budgets and pays through a computer system by {y}; {tail}."
     if s == "3":
         return f"Finance, tax and payroll run on computer systems by {y}; none is known to have been renewed since 2023."
@@ -60,7 +61,7 @@ def shorten(cell: dict, y: str) -> str:
     lead = "Finance, tax and payroll in use, one renewed" if all3 and cell.get("renewed")         else "A core system renewed" if cell.get("renewed") else ""
     if lead:
         return f"{lead}, and a map of government systems published by {y}."
-    return f"A map of government systems published by {y}; nothing held says which core systems are in use."
+    return f"A map of government systems published by {y}; nothing found says which core systems are in use."
 
 
 
@@ -126,20 +127,20 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
                 body = [EMPTY[k].format(l=anchor)]
             parts += [f"**{a['name']}.** " + " ".join(body), ""]
         short = shorten(cell, top["as_of"][:4])
-    elif cell["stage"] == "unplaced" and cell["gaps"].startswith("A source held says"):
-        short = cell["gaps"].replace("A source held says the", "The").rstrip(".") + ", so no stage is set."
+    elif cell["stage"] == "unplaced" and cell["gaps"].startswith("A source found says"):
+        short = cell["gaps"].replace("A source found says the", "The").rstrip(".") + ", so no stage is set."
     elif cell["stage"] == "unplaced":
-        short = "No source held from 2023 or later says the government's financial system is in use, so no stage is set."
+        short = "No source found from 2023 or later says the government's financial system is in use, so no stage is set."
     else:
-        short = "Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+        short = "Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

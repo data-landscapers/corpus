@@ -8,6 +8,6 @@
 
 **Volumes reported.** [Standard Bank's Nthabiseng Sibanda says the bank has processed more than R21 billion ($1.3 billion) through CIPS since its inception](<https://techcabal.com/2026/09/10/south-africa-payments-system-changes/>).
 
-***Noted, not assessed***. [MTN MoMo](<https://techcabal.com/2026/09/04/serigne-dioums-mtn-fintech-vision-goes-beyond-mobile-money/>); [PayShap](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [QR+](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [CIPS (Cross-border Interbank Payment System)](<https://www.chinadaily.com.cn/a/202610/22/WS6ad97f1ce4b06d4aa05642ef.html>).
+***Also on file***. [MTN MoMo](<https://techcabal.com/2026/09/04/serigne-dioums-mtn-fintech-vision-goes-beyond-mobile-money/>); [PayShap](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [QR+](<https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a>); [CIPS (Cross-border Interbank Payment System)](<https://www.chinadaily.com.cn/a/202610/22/WS6ad97f1ce4b06d4aa05642ef.html>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -8,6 +8,6 @@
 
 **National switch.** [AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Equatorial Guinea](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Noted, not assessed***. [SelBa24](<https://sapo.pt/artigo/guine-equatorial-pretende-fortalecer-capacidades-digitais-de-empresas-6a845d6e2aeb6d4c8f92f1af>).
+***Also on file***. [SelBa24](<https://sapo.pt/artigo/guine-equatorial-pretende-fortalecer-capacidades-digitais-de-empresas-6a845d6e2aeb6d4c8f92f1af>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -2,6 +2,6 @@
 
 ## National data policy
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a national data policy, or says there is none.
+***Not found***. Nothing found names a national data policy, or says there is none.

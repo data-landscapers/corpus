@@ -8,6 +8,6 @@
 
 **Remote proof of identity.** The nearest held fact is a paper requirement: [Mali's civil servants who had not validated the biometric physical check of the SIGRH payroll and HR system had to produce papers including the carte Nina, the national identity card, under a grace period running from 8 September 2025, later extended to 30 January 2026](<https://lessor.ml/posts/sigrh-au-dela-du-delai-de-grace-69981e06e8d50>).
 
-***Noted, not assessed***. [SIGRH](<https://lessor.ml/posts/sigrh-au-dela-du-delai-de-grace-69981e06e8d50>); [NINA](<https://lessor.ml/posts/sigrh-au-dela-du-delai-de-grace-69981e06e8d50>); [ecasierjudiciaire.gouv.ml and enationalite.gouv.ml](<https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html>).
+***Also on file***. [SIGRH](<https://lessor.ml/posts/sigrh-au-dela-du-delai-de-grace-69981e06e8d50>); [NINA](<https://lessor.ml/posts/sigrh-au-dela-du-delai-de-grace-69981e06e8d50>); [ecasierjudiciaire.gouv.ml and enationalite.gouv.ml](<https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html>).
 
-***Not held***. Whether the 2026 online platforms check the NINA against the register is not established, and no mobile ID or wallet is held.
+***Not found***. Whether the 2026 online platforms check the NINA against the register is not established, and no mobile ID or wallet has been found.

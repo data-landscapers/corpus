@@ -100,7 +100,7 @@ Gabon has an authority and fined a bank 90 million FCFA in 2024. No published fi
 
 ### Ghana: 4 Operating
 
-Ghana's data protection commission directed named unregistered companies to report to the police in October 2026; yearly counts of its rulings are not known.
+Ghana's data protection commission directed named unregistered companies to report to the police in October 2026; no source found reports yearly counts of its rulings.
 
 - The Data Protection Commission directed named companies including Menkish Impex Ltd, Polytex Ghana Limited and JA Biney Packaging to report to the CID and the Commission and regularise their registration, for operating unregistered or with expired certificates ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
 - Ghana's Data Protection Commission, through its Director of Regulatory and Compliance Quintin Akrobotu, ran compliance checks and a week-long enforcement exercise under Section 81 of the Data Protection Act ([source, 2026-10-14](https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/)).
@@ -380,7 +380,7 @@ Mozambique has no data protection authority yet; none has ruled against an organ
 
 ### Niger: 1 Absent
 
-Niger abolished its data protection authority in June 2026 and repealed the law founding it; whether the ministries do the job is not known.
+Niger abolished its data protection authority in June 2026 and repealed the law founding it; no source found says whether the ministries do the job.
 
 - Niger's President signed a decree on 8 June 2026 abolishing the Haute Autorité de Protection des Données à Caractère Personnel (HAPDP), ending its officials' functions from signature and transferring its missions to the Ministry of Justice and the Ministry of the Interior, per the Secretariat General of Government communique ([source, 2026-06-08](https://anp.ne/niger-plusieurs-services-rattaches-ou-sous-tutelle-de-la-presidence-de-la-primature-et-du-secretariat-general-du-gouvernement-supprimes/)).
 - Africa Data Protection reports that a decree of 8 June 2026 abolished Niger's Haute Autorite de protection des donnees a caractere personnel (HAPDP), that an ordonnance of the same day repealed the 2022 law's provisions founding it, and that its tasks pass to the Justice and Interior ministries ([source, 2026-06-08](https://www.africadataprotection.org/niger-suppression-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel.html)).

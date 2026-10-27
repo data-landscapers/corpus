@@ -6,8 +6,8 @@
 
 **Deaths digital.** [The same session covered real-time entry of deaths, alongside births and marriages, on VENEEM at central and secondary registration offices, per the Agence d'Information du Burkina](<https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: are births registered digitally across the country.
+***Not found***. No source found since October 2023 says: are births registered digitally across the country.

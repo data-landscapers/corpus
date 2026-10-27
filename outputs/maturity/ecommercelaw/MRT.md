@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** Tech Rek reported on 23 April 2024 [a draft decree made under the 2018 law](<https://techrek.info/fr/approbation-de-la-creation-dune-agence-nationale-de-cybersecurite-et-de-certification-electronique/>), headed as approving a national agency for cybersecurity and electronic certification. The minister told the Assembly in 2018 that the 2006 ordinance operates [with implementing texts](<https://ami.mr/fr/archives/65884>), none of which is named.
 
-***Noted, not assessed***. [Système national de certification électronique (ICP nationale and CMS)](<https://betamr.info/media/pieces_jointes/appels_offres/AP_ICP_CMS-EID_ADDITIF_N2.pdf>).
+***Also on file***. [Système national de certification électronique (ICP nationale and CMS)](<https://betamr.info/media/pieces_jointes/appels_offres/AP_ICP_CMS-EID_ADDITIF_N2.pdf>).
 
-***Not held***. Whether the draft decree was adopted, any decree, regulation or order made under the 2018 law or the ordinance, and any use of either in the last three years.
+***Not found***. Whether the draft decree was adopted, any decree, regulation or order made under the 2018 law or the ordinance, and any use of either in the last three years.

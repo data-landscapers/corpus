@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The 2026 finance law [appropriates 1,000,000,000 francs to the special account for the universal access and service fund](<https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf>), fed by operator contributions, the same sum as [in 2025](<https://sgg.cg/JO/2024/congo-jo-2024-15-sp.pdf>) and [in 2024](<https://sgg.cg/JO/2023/congo-jo-2023-06-sp.pdf>). A tax on new SIM-card terminals, [in force since 1 June 2026, was reported operating on 16 July 2026](<https://aden.cg/2026/07/23/taxe-sur-les-nouveaux-terminaux-numeriques-a-cartes-sim-rtn-laden-fait-le-point-de-son-operationnalisation-devant-la-commission-economie-et-finances-de-lassemblee-nationale/>), with proceeds meant for connectivity, digital services and digital transformation.
 
-***Noted, not assessed***. The [Treasury digital platform](<https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf>).
+***Also on file***. The [Treasury digital platform](<https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf>).
 
-***Not held***. The amount the SIM-terminal tax has collected is not stated.
+***Not found***. The amount the SIM-terminal tax has collected is not stated.

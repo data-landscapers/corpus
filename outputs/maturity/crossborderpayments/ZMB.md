@@ -6,8 +6,8 @@
 
 **Regional system.** [IT-Online reports that the SADC TCIB scheme, live since 2021 and operated by BankservAfrica, now carries the South Africa-Zambia corridor, with SendHome and SamPay as its newest participants](<https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/>).
 
-**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/>).
 
-***Noted, not assessed***. [TCIB](<https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8>); [Airtel Money](<https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries>).
+***Also on file***. [TCIB](<https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8>); [Airtel Money](<https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries>).
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

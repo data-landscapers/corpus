@@ -12,6 +12,6 @@
 
 **Last twelve months.** The law in force is [the one dated 22 July 2016](<https://blog.africadataprotection.org/wp-content/uploads/2024/10/Guinee-equatoriale-ley-1-2.016-de-proteccion-de-datos.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether the decree creating the Órgano Rector was issued, whether any regulation was made under the law, and whether any decision or sanction has been taken under it. Nothing dated after 22 July 2016 is held.
+***Not found***. Whether the decree creating the Órgano Rector was issued, whether any regulation was made under the law, and whether any decision or sanction has been taken under it. Nothing dated after 22 July 2016 is held.

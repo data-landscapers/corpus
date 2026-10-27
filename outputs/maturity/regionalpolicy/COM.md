@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The nearest held fact is [the island economies programme](<https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies>), launched in July 2026 with digital transformation among its pillars, and nothing done under it in Comoros is reported. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
 
-***Noted, not assessed***. [Global Digital Government Twinning Initiative (Bahrain iGA - ANADEN MoU)](<https://www.bizbahrain.com/bahrain-comoros-sign-mou-to-strengthen-digital-cooperation-share-experience-in-line-with-united-nations-standards/>).
+***Also on file***. [Global Digital Government Twinning Initiative (Bahrain iGA - ANADEN MoU)](<https://www.bizbahrain.com/bahrain-comoros-sign-mou-to-strengthen-digital-cooperation-share-experience-in-line-with-united-nations-standards/>).
 
-***Not held***. No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.
+***Not found***. No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.

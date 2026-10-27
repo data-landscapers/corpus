@@ -6,8 +6,8 @@
 
 **Deaths digital.** [The Interior Ministry says the SGEC handles death declarations as well as births, marriages and divorces](<https://aujourdhui.ma/actualite/registre-national-linterieur-renforce-son-dispositif-digital-de-letat-civil>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://aujourdhui.ma/actualite/registre-national-linterieur-renforce-son-dispositif-digital-de-letat-civil>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://aujourdhui.ma/actualite/registre-national-linterieur-renforce-son-dispositif-digital-de-letat-civil>).
 
-***Noted, not assessed***. [watiqa.ma](<https://www.collectivites-territoriales.gov.ma/fr/programme-de-modernisation-de-letat-civil>).
+***Also on file***. [watiqa.ma](<https://www.collectivites-territoriales.gov.ma/fr/programme-de-modernisation-de-letat-civil>).
 
-***Not held***. No source held since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 puts birth registration at 90% or more.

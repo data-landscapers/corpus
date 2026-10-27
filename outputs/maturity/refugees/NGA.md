@@ -8,6 +8,6 @@
 
 **Inclusion counted.** [NIMC's director-general puts refugees and internally displaced persons enrolled in the national identity database at over 206,000](<https://www.vanguardngr.com/2026/05/nimc-enrolls-206000-refugees-idps-32000-inmates/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** [Subscribers: 4,489 at 2025-06, per RURA (Rwanda Utilities Regulatory Authority), Starlink subscribers for Q2 2025 as reported by TechCabal](<https://techcabal.com/2026/06/26/how-starlinks-growth-is-changing-africa-telcos-playbook/>). Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. [Paratus EduLink (Starlink-powered)](<https://techtrends.africa/starlinks-real-impact-in-rural-africa/>); [Starlink pilot, 500 schools](<https://cioafrica.co/namibia-shuts-the-door-on-starlink-twice/>); [Globalstar](<https://itweb.africa/article/amazons-9bn-satellite-deal-set-to-benefit-africa/kLgB17ezwwgM59N4>); [Starlink](<https://www.ktpress.rw/2026/03/connecting-the-remaining-812-schools-takes-centre-stage-at-edtech-mondays-dialogue/>).
+***Also on file***. [Paratus EduLink (Starlink-powered)](<https://techtrends.africa/starlinks-real-impact-in-rural-africa/>); [Starlink pilot, 500 schools](<https://cioafrica.co/namibia-shuts-the-door-on-starlink-twice/>); [Globalstar](<https://itweb.africa/article/amazons-9bn-satellite-deal-set-to-benefit-africa/kLgB17ezwwgM59N4>); [Starlink](<https://www.ktpress.rw/2026/03/connecting-the-remaining-812-schools-takes-centre-stage-at-edtech-mondays-dialogue/>).
 
-***Not held***. No source held says services on two different satellite networks are on sale.
+***Not found***. No source found says services on two different satellite networks are on sale.

@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The Commission [handled 14 cases under the Act in 2025](<https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf>): 6 on data transfers, 5 breaches, 2 refused deletion requests and 1 consultation. In 2024 it [received four data protection cases](<https://www.infocom.sc/wp-content/uploads/2025/04/Information-Commission-Annual-Report-2024.pdf>), mostly from the non-banking financial sector. In 2026 it [marked Data Protection Day with guidance to organisations and the public](<https://www.infocom.sc/data-protection-day-2026-building-trust-in-a-digital-seychelles/>).
 
-***Noted, not assessed***. [Information Commission Seychelles](<https://www.nationalassembly.sc/publications/reports/information-commission-seychelles-annual-report-2025>); [Data Protection Act, 2023](<https://www.infocom.sc/data-protection/>).
+***Also on file***. [Information Commission Seychelles](<https://www.nationalassembly.sc/publications/reports/information-commission-seychelles-annual-report-2025>); [Data Protection Act, 2023](<https://www.infocom.sc/data-protection/>).
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

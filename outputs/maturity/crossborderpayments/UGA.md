@@ -8,6 +8,6 @@
 
 **Volumes reported.** [EAPS inflows were UGX 1.3 trillion, up 17%, in FY2024/25, per the Bank of Uganda report](<https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6>). [The Bank of Uganda says 2025 remittance inflows were US$2.5 billion, 73 per cent of them through digital channels and nearly 61 per cent through mobile money, with the United States the largest sending country at US$702 million](<https://bou.or.ug/uploads/Bank_of_Uganda_and_IFAD_launch_Remittance_Dashboard_to_strengthen_transparency_and_financial_inclusion_4843a57817.pdf>).
 
-***Noted, not assessed***. [Airtel Money](<https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries>); [Bank of Uganda remittance dashboard](<https://bou.or.ug/uploads/Bank_of_Uganda_and_IFAD_launch_Remittance_Dashboard_to_strengthen_transparency_and_financial_inclusion_4843a57817.pdf>).
+***Also on file***. [Airtel Money](<https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries>); [Bank of Uganda remittance dashboard](<https://bou.or.ug/uploads/Bank_of_Uganda_and_IFAD_launch_Remittance_Dashboard_to_strengthen_transparency_and_financial_inclusion_4843a57817.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

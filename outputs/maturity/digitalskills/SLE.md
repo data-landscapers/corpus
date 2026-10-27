@@ -6,8 +6,8 @@
 
 **Share measured.** [UNCDF's national baseline survey gives adult digital literacy at 26 of 100 points, with 25% of adults able to save or delete phone contacts and 21.5% able to send text messages](<https://www.uncdf.org/article/8994/national-digital-financial-literacy-baseline-survey-sierra-leone>).
 
-**Half or more.** No source held since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://www.uncdf.org/article/8994/national-digital-financial-literacy-baseline-survey-sierra-leone>).
+**Half or more.** No source found since October 2023 gives a measured share of half or more of adults with basic digital skills. The nearest held fact: [the one given above](<https://www.uncdf.org/article/8994/national-digital-financial-literacy-baseline-survey-sierra-leone>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives a measured share of half or more of adults with basic digital skills.
+***Not found***. No source found since October 2023 gives a measured share of half or more of adults with basic digital skills.

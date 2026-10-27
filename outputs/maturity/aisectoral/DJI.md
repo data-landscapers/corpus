@@ -8,6 +8,6 @@
 
 **Results reported.** The corridor-road company says its system [made 2,174 detections across four defect types in its first processing](<https://dpcr.dj/2026/01/15/corridorvision-ai-ai-powered-road-condition-monitoring-for-djiboutis-trade-corridors/>), reported in January 2026.
 
-***Noted, not assessed***. [Djibouti Ports Community System](<https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/>); [DPCS Foresight](<https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics>).
+***Also on file***. [Djibouti Ports Community System](<https://www.lanation.dj/intelligence-artificielle-ou-en-est-reellement-djibouti/>); [DPCS Foresight](<https://www.dawan.africa/news/djibouti-unveils-ai-tools-to-modernize-ports-and-logistics>).
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

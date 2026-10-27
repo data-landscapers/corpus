@@ -6,8 +6,8 @@
 
 **Digital services.** [The Ministry of Home Affairs says refugee status permits let holders obtain personal identification numbers, national identity cards and access to government and financial services](<https://times.co.sz/40500/news/eswatini-issues-77-refugees-passports-for-global-travel/>).
 
-**Inclusion counted.** No source held since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID. The nearest held fact: [the one given above](<https://times.co.sz/40500/news/eswatini-issues-77-refugees-passports-for-global-travel/>).
+**Inclusion counted.** No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID. The nearest held fact: [the one given above](<https://times.co.sz/40500/news/eswatini-issues-77-refugees-passports-for-global-travel/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.
+***Not found***. No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.

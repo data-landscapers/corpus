@@ -8,6 +8,6 @@
 
 **Source for others.** [The playbook says the register is the pivot for sectoral identifiers and that its data are exchanged with state structures through the national interoperability platform](<https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf>).
 
-***Noted, not assessed***. [Registre national des entreprises](<https://www.tunisienumerique.com/conseil-ministeriel-restreint-consacre-au-suivi-de-lavancement-des-projets-de-transformation-numerique/>); [Registre national de l'identifiant de santé](<https://www.tunisienumerique.com/conseil-ministeriel-restreint-consacre-au-suivi-de-lavancement-des-projets-de-transformation-numerique/>); [Registre national des diplômes universitaires](<https://www.tunisienumerique.com/conseil-ministeriel-restreint-consacre-au-suivi-de-lavancement-des-projets-de-transformation-numerique/>).
+***Also on file***. [Registre national des entreprises](<https://www.tunisienumerique.com/conseil-ministeriel-restreint-consacre-au-suivi-de-lavancement-des-projets-de-transformation-numerique/>); [Registre national de l'identifiant de santé](<https://www.tunisienumerique.com/conseil-ministeriel-restreint-consacre-au-suivi-de-lavancement-des-projets-de-transformation-numerique/>); [Registre national des diplômes universitaires](<https://www.tunisienumerique.com/conseil-ministeriel-restreint-consacre-au-suivi-de-lavancement-des-projets-de-transformation-numerique/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

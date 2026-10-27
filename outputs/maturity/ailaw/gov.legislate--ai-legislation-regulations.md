@@ -90,7 +90,7 @@ A draft AI law was out for public consultation in 2026; no rule on AI is in forc
 
 ### Congo: 2 Nascent
 
-A bill adopted in April 2026 sets an ethical framework for AI in research; whether it is in force is not known.
+A bill adopted in April 2026 sets an ethical framework for AI in research; no source found says whether it is in force.
 
 - The Congolese National Assembly adopted on 8 April 2026 a bill on the orientation and development of scientific research that introduces an ethical framework for AI and institutes a national committee to oversee responsible AI use; the report does not say it is in force ([source, 2026-04-08](https://www.aci.cg/congo-recherche-scientifique-une-nouvelle-loi-pour-structurer-le-secteur-et-encadrer-lia/)).
 
@@ -135,7 +135,7 @@ A private member's draft bill covering AI was presented to Assembly members in 2
 
 ### South Sudan: 2 Nascent
 
-In 2025 a cybercrimes bill carried proposed AI provisions; whether any binding AI rule is in force is not known.
+In 2025 a cybercrimes bill carried proposed AI provisions; no source found says whether any binding AI rule is in force.
 
 - Digital Rights Frontlines says the Cybercrimes and Computer Misuse Bill 2024, not yet passed, contains proposed AI provisions ([source, 2025-10-22](https://www.digitalrights.ngo/post/striking-the-right-balance-south-sudan-s-cybercrimes-and-computer-misuse-bill)).
 
@@ -172,7 +172,7 @@ In April 2026 a minister said Chad's digital texts cannot regulate AI and set up
 
 ### DR Congo: 1 Absent
 
-No hard law on AI and no draft were named in 2024; soft law prevailed. Whether a draft exists since is not known.
+No hard law on AI and no draft were named in 2024; soft law prevailed. No source found says whether a draft exists since.
 
 - A law-faculty dean writing on droitnumerique.cd says the DRC has not yet developed its hard law on AI and that soft law still largely prevails; the article names no draft law, and no date is given for the statement so the published date 2024-08-23 is used ([source, 2024-08-23](https://droitnumerique.cd/politiques-de-lintelligence-artificielle-et-de-prise-de-decision-automatisee-en-rd-congo/)).
 
@@ -196,7 +196,7 @@ An assessment of June 2026 says The Gambia has no legislation on AI and none pro
 
 ### Guinea: 1 Absent
 
-A ministry official said in October 2025 that Guinea has no AI law or framework; whether a draft is under way is not known.
+A ministry official said in October 2025 that Guinea has no AI law or framework; no source found says whether a draft is under way.
 
 - The secretary-general of the Ministry of Posts, Telecommunications and Digital Economy said at the opening of an AI diagnostic workshop that Guinea lacks a legislative and regulatory framework on AI and has not yet adopted a specific AI law ([source, 2025-10-14](https://lepunch.net/2025/10/14/intelligence-artificielle-la-guinee-sengage-vers-une-strategie-nationale-via-un-atelier-diagnostic/)).
 
@@ -240,7 +240,7 @@ UNESCO's 2026 profile and the minister both say the country has no AI-specific l
 
 ### Senegal: 1 Absent
 
-A July 2024 diagnostic found no AI-specific legal text in Senegal; whether a draft has appeared since is not known.
+A July 2024 diagnostic found no AI-specific legal text in Senegal; no source found says whether a draft has appeared since.
 
 - An IPAR diagnostic of four West African countries says there is as yet no legal text specific to AI at continental, regional or national level, and that of the target countries only Benin has a framework suited to regulating AI; the document's published date is used as no event date is given ([source, 2024-07](https://ipar.sn/wp-content/uploads/2026/07/L7_Rapport-diagnostic-du-cadre-politique-juridique-ethique-relatif-a-lIA-technologies-emergentes_Version-Finale.pdf)).
 
@@ -253,7 +253,7 @@ The justice minister said in September 2026 that no specific AI legislation has 
 
 ### Somalia: 1 Absent
 
-A May 2026 analysis reports Somalia has no national AI law and no dedicated AI legislation; whether any draft exists is not known.
+A May 2026 analysis reports Somalia has no national AI law and no dedicated AI legislation; no source found says whether any draft exists.
 
 - Ecofin Agency, citing an analysis published in May 2026, reports Somalia has no national AI law and no dedicated AI legislation ([source, 2026-05](https://www.ecofinagency.com/news-digital/1707-57474-somalia-launches-university-ai-center-to-tackle-local-development-challenges)).
 
@@ -273,96 +273,96 @@ A review of September 2026 says Uganda has no AI laws in place; a 2025 governmen
 
 ### Zimbabwe: 1 Absent
 
-An analyst wrote in July 2026 that Zimbabwe has no AI law and no draft; whether one has been introduced since is not known.
+An analyst wrote in July 2026 that Zimbabwe has no AI law and no draft; no source found says whether one has been introduced since.
 
 - African Law Matters analyst Tashinga Magaya writes that the National AI Strategy is not a law, that the proposed regulator has no enabling Act, and that the Cyber and Data Protection Act is the law that applies to AI today, so no AI-specific rule is in force and she urges that a draft AI Act be introduced within twelve to eighteen months ([source, 2026-07-27](https://www.africanlawmatters.com/blog/strategy-without-statute-reading-zimbabwes-national-ai-strategy)).
 
 ### Botswana: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Burkina Faso: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Cameroon: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Cape Verde: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Cote d'Ivoire: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Eswatini: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Lesotho: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Madagascar: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Mali: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Mauritania: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Niger: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Togo: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.
 
 ### Zambia: No evidence
 
-Nothing held names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
+Nothing found names a law or binding rule on AI, or a draft of one, or says there is none, so no stage is set.
 
-Not established: Nothing held names a law or binding rule on AI, or a draft of one, or says there is none.
+Not established: Nothing found names a law or binding rule on AI, or a draft of one, or says there is none.

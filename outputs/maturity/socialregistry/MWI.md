@@ -6,8 +6,8 @@
 
 **Several programmes.** [The World Bank mission says five programmes use the UBR data for targeting and research as of March 2025](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-***Noted, not assessed***. [CORE-MIS](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>); [Mbwezera MIS](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
+***Also on file***. [CORE-MIS](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>); [Mbwezera MIS](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

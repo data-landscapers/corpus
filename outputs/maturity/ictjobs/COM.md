@@ -2,6 +2,6 @@
 
 ## ICT employment
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure for 2023 or later is held for employment in information and communication. The latest held is 0.44, for 2021.
+***Not found***. No figure for 2023 or later has been found for employment in information and communication. The latest held is 0.44, for 2021.

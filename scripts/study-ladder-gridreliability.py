@@ -76,12 +76,12 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return d
     if not rows:
         return {"stage": "no evidence", "outages": "", "sources": [],
-                "gaps": "Nothing held gives how often the power goes off."}
+                "gaps": "Nothing found gives how often the power goes off."}
     live = [(when(r), r) for r in rows if r["aspect"] == "outages" and r["as_of"]
             and FROM <= when(r) <= as_at]
     if not live:
         return {"stage": "no evidence", "outages": "", "sources": [],
-                "gaps": "No figure for 2023 or later is held for how often the power goes off."}
+                "gaps": "No figure for 2023 or later has been found for how often the power goes off."}
     utility = [p for p in live if p[1]["value"].startswith("utility:")]
     # Where a story and the series give the same year, the series' row stands for both.
     _, best = max(utility or live, key=lambda p: (p[0], p[1]["source_slug"].startswith("ref:"),

@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "UGA-002",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "Sunflower, a language model for 31 Ugandan languages built by a Ugandan developer, gives farmers crop guidance. No AI computing in the country is held.",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "Sunflower, a language model for 31 Ugandan languages built by a Ugandan developer, gives farmers crop guidance. No AI computing in the country has been found.",
       "as_at": "2026-10-22"
     }
   ]

@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The Council of Ministers [unanimously approved the Electronic Signature regulation](<https://www.ena.et/web/eng/w/eng_7816242>) under Proclamation No. 1072/2017 in November 2025. The regulation is to take effect on publication in the Federal Negarit Gazette. It is the rule made under the proclamation that the Ethiopian News Agency reported as the means of putting the law into operation.
 
-***Noted, not assessed***. [eLand](<https://land.et>).
+***Also on file***. [eLand](<https://land.et>).
 
-***Not held***. No accreditation, licence, registration or penalty under the law dated in the last three years is held.
+***Not found***. No accreditation, licence, registration or penalty under the law dated in the last three years is held.

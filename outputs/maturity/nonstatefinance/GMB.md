@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** [GAMTEL is the public partner in the national broadband partnership](<https://techafricanews.com/2026/01/05/gamtel-and-sysroad-sign-50-million-ppp-to-modernize-the-gambias-broadband-network/>), and the private partner finances the upgrade of the national broadband network. The US$50 million agreement was signed in December 2025.
 
-***Noted, not assessed***. [Africell Holding OPIC guarantee](<https://www.dfc.gov/sites/default/files/2019-08/9000042686.pdf>); [GAMCEL 80% share sale to YCell](<https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/>); [GAMTEL US$50 million PPP](<https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/>); [Gamtel 80% sale to Y Cell](<https://russellsouthwood.substack.com/p/waking-the-dead-slow-road-to-extinction>).
+***Also on file***. [Africell Holding OPIC guarantee](<https://www.dfc.gov/sites/default/files/2019-08/9000042686.pdf>); [GAMCEL 80% share sale to YCell](<https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/>); [GAMTEL US$50 million PPP](<https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/>); [Gamtel 80% sale to Y Cell](<https://russellsouthwood.substack.com/p/waking-the-dead-slow-road-to-extinction>).
 
-***Not held***. No bank, pension fund, insurer, investor or company of the country itself is named as putting in money since 2024, and nothing was raised on the Gambian market.
+***Not found***. No bank, pension fund, insurer, investor or company of the country itself is named as putting in money since 2024, and nothing was raised on the Gambian market.

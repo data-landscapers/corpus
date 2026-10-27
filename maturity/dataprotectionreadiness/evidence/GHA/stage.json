@@ -11,7 +11,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GHA-029;GHA-032;GHA-028",
-   "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+   "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
    "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
    "as_at": "2026-10-17"
   }

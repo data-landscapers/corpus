@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COD-004;COD-005",
-      "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system in service.",
-      "note": "Orange Money RDC opened outbound wallet transfers to five countries in June 2025, and MTN MoMo a South Africa-DRC wallet corridor in 2024, so a corridor is in service. No regional system is held, so not 4.",
+      "gaps": "No source found since October 2023 says the country takes part in PAPSS or a regional payment system in service.",
+      "note": "Orange Money RDC opened outbound wallet transfers to five countries in June 2025, and MTN MoMo a South Africa-DRC wallet corridor in 2024, so a corridor is in service. No regional system has been found, so not 4.",
       "as_at": "2026-10-27"
     }
   ]

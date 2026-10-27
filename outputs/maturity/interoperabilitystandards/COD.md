@@ -6,6 +6,6 @@
 
 **Standards required and checked.** [The report of the April 2022 adoption](<https://kt.cd/2022/04/16/adoption-du-projet-des-normes-et-standards-du-numerique-applicable-au-secteur-public/>) says legal force was still to be given to the standards by ministerial order. Until that order is made the five books bind no public body.
 
-***Noted, not assessed***. [Architecture d'Entreprise en santé numérique](<https://www.congoquotidien.com/2026/06/16/actualite-rdc-homologation-sih-rdc/>).
+***Also on file***. [Architecture d'Entreprise en santé numérique](<https://www.congoquotidien.com/2026/06/16/actualite-rdc-homologation-sih-rdc/>).
 
-***Not held***. No source held says the standards have been published.
+***Not found***. No source found says the standards have been published.

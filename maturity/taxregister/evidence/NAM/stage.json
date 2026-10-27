@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-002;NAM-001",
-      "gaps": "No source held since October 2023 says the taxpayer number is the national ID number or checked against it.",
-      "note": "NamRA's April 2026 notice has taxpayer numbers applied for online through ITAS, and the same number is mandatory on every customs declaration from April 2026. Nothing held ties it to the national ID, so stage 5 is not met.",
+      "gaps": "No source found since October 2023 says the taxpayer number is the national ID number or checked against it.",
+      "note": "NamRA's April 2026 notice has taxpayer numbers applied for online through ITAS, and the same number is mandatory on every customs declaration from April 2026. Nothing found ties it to the national ID, so stage 5 is not met.",
       "as_at": "2026-10-27"
     }
   ]

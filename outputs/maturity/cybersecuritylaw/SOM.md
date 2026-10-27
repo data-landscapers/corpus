@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest held facts concern the bills. A [news report](<https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats>) says the House approved the Cybersecurity Law on 26 January 2026 and that the government approved a draft cybercrime bill in August 2025. A [second report](<https://www.wearetech.africa/en/fils-uk/news/somalia-rolls-out-certified-cybersecurity-program-for-government-ict-staff>) says parliament approved the Cybersecurity Law in January 2026 and that a cybercrime bill passed in August 2025. A [third report](<https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-strengthens-cyber-defenses-with-launch-of-national-incident-response-center>), on the launch of the national incident response team, also says parliament approved the Cybersecurity Law in January 2026 and that a cybercrime bill was approved in August 2025.
 
-***Noted, not assessed***. [Somalia Computer Incident Response Team (SOM-CIRT)](<https://nca.gov.so/somalias-parliament-approves-the-cybersecurity-law/>), run by the National Communications Authority.
+***Also on file***. [Somalia Computer Incident Response Team (SOM-CIRT)](<https://nca.gov.so/somalias-parliament-approves-the-cybersecurity-law/>), run by the National Communications Authority.
 
-***Not held***. No source says a cybercrime or cybersecurity law is in force. No use of any such law is known.
+***Not found***. No source says a cybercrime or cybersecurity law is in force. No use of any such law is known.

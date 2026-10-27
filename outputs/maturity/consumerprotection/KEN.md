@@ -8,6 +8,6 @@
 
 **Enforcement reported.** [Business Daily reports the authority's data show borrower complaints about digital lenders rose to 355 in the year to June 2025, from 67 the year before](<https://www.businessdailyafrica.com/bd/economy/complaints-about-digital-lenders-jump-five-times--5528224>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

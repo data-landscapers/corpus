@@ -8,7 +8,7 @@ r"""study-censuses-write.py — the censuses study's summaries, written from its
 it. **Nothing is composed here that a fact does not state**: each of the three paragraphs is
 the drafters' own fact sentences on that aspect, each linked whole to its evidence row's
 `url`, the rows that set the stage first, then the rest newest first while the paragraph stays
-inside its room. An aspect with nothing held says so, linked to the fact that set the stage.
+inside its room. An aspect with nothing found says so, linked to the fact that set the stage.
 
 Writes, per country, `outputs/maturity/censuses/{ISO3}.md` and
 `maturity/censuses/evidence/{ISO3}/short.json`. Run it after the ladder script.
@@ -25,6 +25,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "censuses"
@@ -40,9 +41,9 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "census": "No source held says a population census was counted since October 2016 or is being prepared. The nearest held fact: {l}.",
-    "results": "No source held reports final results of a census counted since October 2016. The nearest held fact: {l}.",
-    "survey": "No source held reports results of a national household survey published since October 2023. The nearest held fact: {l}.",
+    "census": "No source found says a population census was counted since October 2016 or is being prepared. The nearest held fact: {l}.",
+    "results": "No source found reports final results of a census counted since October 2016. The nearest held fact: {l}.",
+    "survey": "No source found reports results of a national household survey published since October 2023. The nearest held fact: {l}.",
 }
 
 
@@ -54,7 +55,7 @@ def shorten(cell: dict, y: str, top: dict) -> str:
     if s == "2":
         return f"A population census was being prepared in {y}; none counted since 2016 is known."
     if s == "3":
-        return f"{name[:1].upper() + name[1:]} was counted in {y}; its final results are not known to be out."
+        return f"{name[:1].upper() + name[1:]} was counted in {y}; no source found reports its final results to be out."
     if s == "4":
         return f"Final results of {name} were published in {y}; no household survey published since 2023 is known."
     return f"A national household survey published results in {y}, after final census results."
@@ -146,15 +147,15 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
     elif cell["stage"] == "unplaced":
         short = "No census counted since 2016 or in preparation is on record, so no stage is set."
     else:
-        short = "Nothing held says whether the country has counted or is preparing a census, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+        short = "Nothing found says whether the country has counted or is preparing a census, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

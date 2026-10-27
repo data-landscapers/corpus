@@ -12,6 +12,6 @@
 
 **Last twelve months.** On 8 January 2026 the Minister of Communication and Information Technology [gave unregistered institutions a final three months to register and told the Commission to prepare nationwide compliance audits](<https://www.pdpc.go.tz/core/en/minister-kairuki-issues-final-three-month-ultimatum-on-personal-data-registration2026-02-02-133701/>). On 11 February the Commission [announced inspections from 9 April](<https://www.thecitizen.co.tz/tanzania/news/national/tanzania-to-begin-data-protection-inspections-in-april-5356792>), on 12 June it [gave institutions with incomplete registration seven days to finish](<https://www.mwananchi.co.tz/mw/habari/kitaifa/wananchi-waonywa-kutoa-taarifa-binafsi-kwa-taasisi-zisizosajiliwa-5494426>), and [on-site inspections began on 31 August](<https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No published count of the Commission's decisions for a stated year is held. The report of the August 2025 ruling does not name the respondent.
+***Not found***. No published count of the Commission's decisions for a stated year has been found. The report of the August 2025 ruling does not name the respondent.

@@ -6,8 +6,8 @@
 
 **Published regularly.** [ANAM issues the bulletin every ten days; the newest update listed in October 2026 covers 13 to 19 October](<https://meteoburkina.bf/produits/bulletin-agrometeologique-decadaire/>).
 
-**Reaching farmers.** No source held since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://www.snv.org/update/using-satellite-data-to-transform-agri-food-in-burkina-faso>).
+**Reaching farmers.** No source found since October 2023 counts farmers or districts reached by satellite-based advice or alerts. The nearest held fact: [the one given above](<https://www.snv.org/update/using-satellite-data-to-transform-agri-food-in-burkina-faso>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source counts farmers, extension workers or districts reached by the bulletin. GARBAL, which counts its users, is SNV's service run with the ministry and ANAM.
+***Not found***. No source counts farmers, extension workers or districts reached by the bulletin. GARBAL, which counts its users, is SNV's service run with the ministry and ANAM.

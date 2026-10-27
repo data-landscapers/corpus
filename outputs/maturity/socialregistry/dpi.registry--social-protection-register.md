@@ -58,166 +58,166 @@ The social registry was linked to the national ID in 2025.
 
 ### Burundi: 4 Operating
 
-Two or more programmes used the social registry in 2026; a link to the national ID is not known.
+Two or more programmes used the social registry in 2026; no source found reports a link to the national ID.
 
 - The World Bank says Merankabandi's Social Registry is also used by the Soleil-Nyakiriza solar energy project to reach vulnerable households, and that the systems are increasingly used across sectors and by other programmes ([source, 2026-05-01](https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises)).
 
 ### Cape Verde: 4 Operating
 
-Two or more programmes used the social registry in 2026; a link to the national ID is not known.
+Two or more programmes used the social registry in 2026; no source found reports a link to the national ID.
 
 - The Government of Cabo Verde says registered eligible households can access targeted support including cash transfers, food security support and resilience programmes through the Cadastro Social Unico ([source, 2026-06-17](https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/)).
 - The Cabo Verde minister says about 16 social programmes use the CSU to select beneficiaries, including RSI, social pension, higher-education grants and the social energy and water tariff ([source, 2024-02-20](https://www.governo.cv/governo-lanca-mecanismo-de-gestao-das-informacoes-e-reclamacoes-do-cadastro-social-unico/)).
 
 ### DR Congo: 4 Operating
 
-Two or more programmes used the social registry in 2026; a link to the national ID is not known.
+Two or more programmes used the social registry in 2026; no source found reports a link to the national ID.
 
 - MINAS says the RSU provides lists of eligible households to the different social programmes, including State ones, under data-sharing protocols ([source, 2026-07-19](https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/)).
 
 ### Egypt: 4 Operating
 
-Two or more programmes used the social registry in 2024; a link to the national ID is not known.
+Two or more programmes used the social registry in 2024; no source found reports a link to the national ID.
 
 - The World Bank says Takaful and Karama (two components) and the FORSA, Two is enough, Waii and 1,000 days cash-plus interventions are designed on, or target beneficiaries from, the TKP social registry ([source, 2024-05-28](https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs)).
 
 ### Gambia: 4 Operating
 
-Two or more programmes used the social registry in 2024; a link to the national ID is not known.
+Two or more programmes used the social registry in 2024; no source found reports a link to the national ID.
 
 - The World Bank says GamSR data underpinned the Nafa Quick COVID-19 response (78,422 households) and the Nafa cash-transfer programme (16,966 households), and is also used by the National Disaster Management Agency, the ROOTS project and the World Food Programme ([source, 2024-04-23](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building)).
 
 ### Ghana: 4 Operating
 
-Two or more programmes used the social registry in 2024; a link to the national ID is not known.
+Two or more programmes used the social registry in 2024; no source found reports a link to the national ID.
 
 - The GNHR site says the registry targets beneficiaries of LEAP, school feeding and national health insurance (NHIS), and that its data is used by 15 programmes and 8 organisations over 2019-2026 ([source, 2024](https://gnhr.mogcsp.gov.gh/registry.php)).
 
 ### Guinea: 4 Operating
 
-Two or more programmes used the social registry in 2026; a link to the national ID is not known.
+Two or more programmes used the social registry in 2026; no source found reports a link to the national ID.
 
 - The FDSI director general says RSU data has served the Guichet Choc Alimentaire project with ANIES and the IMF, UNICEF's follow-up of malnourished children, and SOS Villages d'Enfants' family strengthening project ([source, 2026-07-08](https://mediaguinee.com/2026/07/guinee-le-fdsi-presente-le-rapport-danalyse-du-registre-social-unifie-qui-cartographie-977-610-menages-soit-4-860-075-individus-a-travers-le-pays/)).
 
 ### Kenya: 4 Operating
 
-Two or more programmes used the social registry in 2025; a link to the national ID is not known.
+Two or more programmes used the social registry in 2025; no source found reports a link to the national ID.
 
 - The document says all National Safety Net Programme cash transfers (HSNP, OPCT, CT-OVC, PwSD-CT) use the Enhanced Single Registry, with poverty targeting for all except the OPCT, which is not poverty-targeted ([source, 2025-08](https://www.socialprotection.go.ke/sites/default/files/Downloads/ESMP%20Template-August%202025%20(3).pdf)).
 
 ### Liberia: 4 Operating
 
-Two or more programmes used the social registry in 2024; a link to the national ID is not known.
+Two or more programmes used the social registry in 2024; no source found reports a link to the national ID.
 
 - The World Bank blog says the LHSR and the MIS are being used by three government-led social protection programmes ([source, 2024-05-07](https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia)).
 
 ### Malawi: 4 Operating
 
-Two or more programmes used the social registry in 2025; a link to the national ID is not known.
+Two or more programmes used the social registry in 2025; no source found reports a link to the national ID.
 
 - The World Bank mission says five programmes use the UBR data for targeting and research as of March 2025 ([source, 2025-03](https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt)).
 
 ### Morocco: 4 Operating
 
-Two or more programmes used the social registry in 2026; a link to the national ID is not known.
+Two or more programmes used the social registry in 2026; no source found reports a link to the national ID.
 
 - The author says the Registre social unifié index is used in targeting beneficiaries of social programmes (plural, unnamed) ([source, 2026-10-12](https://medias24.com/chronique/droits-humains-maroc-defi-espace-numerique/)).
 - The Ministry of Interior document says the RSU is used to improve targeting of social protection programmes (plural) and that the RNP is used by social protection programmes ([source, 2024-10-23](https://aujourdhui.ma/actualite/operation-extension-de-lidentifiant-digital-civil-et-social)).
 
 ### Senegal: 4 Operating
 
-Two or more programmes used the social registry in 2023; a link to the national ID is not known.
+Two or more programmes used the social registry in 2023; no source found reports a link to the national ID.
 
 - DGPSN says RNU data lowered data-collection costs for one-time interventions (exceptional cash transfers, Covid-19 assistance) beside the PNBSF cash transfer programme it serves ([source, 2023-11](https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf)).
 
 ### Angola: 3 Established
 
-A social registry was in service in 2026; its use by two or more programmes is not known.
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
 
 - MASFAMU reports the First Lady symbolically activated the Cadastro Social Único platform on 20 July 2026, the registry instituted by Presidential Decree 136/19 of 10 May ([source, 2026-07-20](https://masfamu.gov.ao/home)).
 
 ### Botswana: 3 Established
 
-A social registry was in service in 2025; its use by two or more programmes is not known.
+A social registry was in service in 2025; no source found reports its use by two or more programmes.
 
 - The World Bank completion report says 98 percent of beneficiaries of the five main social assistance programmes targeting poor households were included in the Single Social Registry by March 2025 ([source, 2025-03](https://documents1.worldbank.org/curated/en/099121825122532143/txt/BOSIB-35f31917-1454-433b-a021-4d7246073f71.txt)).
 
 ### Burkina Faso: 3 Established
 
-A social registry was in service in 2026; its use by two or more programmes is not known.
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
 
 - The World Bank says the earlier Burkina Naong Sa Ya project helped establish a national social registry of vulnerable households, a platform for expanding and targeting social protection programs, and the new project will support its expanded coverage and use ([source, 2026-06-15](https://www.worldbank.org/en/news/press-release/2026/07/15/burkina-faso-new-world-bank-financing-to-expand-economic-opportunities-and-strengthen-social-protection-systems)).
 - The Registre Social Unique database holds 362,698 households (2,217,518 people) across 99 communes in 10 regions, per the Ministry of Humanitarian Action's representative ([source, 2025-12-30](https://www.sidwaya.info/registre-social-unique-le-burkina-faso-renforce-la-protection-sociale/)).
 
 ### Cameroon: 3 Established
 
-A social registry was in service in 2025; its use by two or more programmes is not known.
+A social registry was in service in 2025; no source found reports its use by two or more programmes.
 
 - The World Bank paper says RESUC, established under the Ministry of Social Affairs, had 198,140 households covered by July 2025 and has operational systems providing a foundation for targeting and coordination across programmes ([source, 2025-07](https://documents1.worldbank.org/curated/en/099082625105536477/pdf/BOSIB-c1db46ff-563d-4cc3-b382-1eb9e5eb6876.pdf)).
 
 ### Djibouti: 3 Established
 
-A social registry was in service in 2026; its use by two or more programmes is not known.
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
 
 - President Guelleh said a mapping of poverty and precariousness was established in particular thanks to the social registry, and that State responses were tailored using this methodology (ADDS report) ([source, 2026-01-29](https://www.adds.dj/en/president-guelleh-reiterates-his-commitment-to-dedicating-a-central-component-of-his-policy-to-the-fight-against-poverty/)).
 - President Guelleh said that for the first time a mapping of poverty and precariousness was established notably thanks to the registre social, enabling targeted public policies (Ministry of Social Affairs and Solidarity page) ([source, 2026-01-29](https://sociales.gouv.dj/Articles/DetailArticles/452)).
 
 ### Libya: 3 Established
 
-A social registry was in service in 2023; its use by two or more programmes is not known.
+A social registry was in service in 2023; no source found reports its use by two or more programmes.
 
 - UNICEF Libya announced that the Tripoli-based government, with UN agencies, has launched the Unified Social Registry to identify and target those in need for social protection programmes ([source, 2023-10-23](https://libyaherald.com/2023/10/unicef-helps-launch-libyas-unified-social-registry-for-children)).
 
 ### Madagascar: 3 Established
 
-A social registry was in service in 2026; its use by two or more programmes is not known.
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
 
 - Newsmada reports that Madagascar's Registre social unique already covers about 2.7 million households, close to 12 million people ([source, 2026-09-09](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/)).
 - L'Express reports that, per the Ministry of Population and Solidarities, over 2.6 million households are in the Registre social unique, up from 990,000 in February 2023 ([source, 2026-05](https://www.lexpress.mg/2026/05/recensement-26-millions-de-menages.html)).
 
 ### Mali: 3 Established
 
-A social registry was in service in 2025; its use by two or more programmes is not known.
+A social registry was in service in 2025; no source found reports its use by two or more programmes.
 
 - WFP says it is supporting the Commissariat a la Securite Alimentaire in a lessons-learned exercise on the 2025 use of the RSU (Unified Social Registry) for targeting within the national food insecurity response ([source, 2025](https://docs.wfp.org/api/documents/WFP-0000172581/download/)).
 
 ### Mauritania: 3 Established
 
-A social registry was in service in 2026; its use by two or more programmes is not known.
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
 
 - Taazour says the AOUN operation targets 2,057,006 citizens registered in the social registry database nationwide, who verify eligibility on its platform ([source, 2026-06](https://taazour.mr/archives/7559)).
 - The national social registry coordinator at Taazour says the AOUN operation covers all 352,000 households registered in the social registry database ([source, 2026-06-12](https://www.ami.mr/archives/261586)).
 
 ### Mauritius: 3 Established
 
-A social registry was in service in 2026; its use by two or more programmes is not known.
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
 
 - The Mauritius Revenue Authority FAQ of January 2026 refers to persons registered on the Social Register of Mauritius, who continue to receive CSG income allowances at the June 2025 rates, while those not on it get lower rates ([source, 2026-01](https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf)).
 
 ### Niger: 3 Established
 
-A social registry was in service in 2026; its use by two or more programmes is not known.
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
 
 - The Registre Social Unifié-Niger, run from the Prime Minister's office, is described as an information system holding household and individual data and delivering dashboards on social protection actions, and as the entry point for programmes ([source, 2026-10-17](https://rsu.gouv.ne/presentation)).
 - UNICEF's social policy section chief said more than 500,000 vulnerable households have been registered in Niger's Registre social unifié (RSU) and now receive adapted services, with targeting to be extended to the worst-affected zones ([source, 2025-09-08](https://www.lesahel.org/formation-des-cadres-nationaux-du-systeme-de-protection-sociale-du-niger-pour-la-mise-en-place-dun-systeme-durable-coherent-et-fonde-sur-les-droits-humains/)).
 
 ### Sao Tome and Principe: 3 Established
 
-A social registry was in service in 2026; its use by two or more programmes is not known.
+A social registry was in service in 2026; no source found reports its use by two or more programmes.
 
 - Sao Tome and Principe's Cadastro Social Unico, set up by Decreto-Lei 16/2018 and regulated by Decreto-Lei 3/2023, was expanded by a data update from 8,000 to more than 12,500 households, the prime minister said (RSTP) ([source, 2026-08-26](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/)).
 - The Direcao da Protecao Social says about 12,500 households, 25% of the population, are registered in the Cadastro Social Unico, a system built to identify and target support to vulnerable families ([source, 2026-08-03](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/)).
 
 ### Somalia: 3 Established
 
-A social registry was in service in 2025; its use by two or more programmes is not known.
+A social registry was in service in 2025; no source found reports its use by two or more programmes.
 
 - The World Bank says the BOOST-You project will strengthen adaptive delivery systems by improving the existing Unified Social Registry, alongside a National Socio-economic Survey covering 12 million people ([source, 2025-10-28](https://www.worldbank.org/en/news/press-release/2025/10/28/over-738000-somalis-to-benefit-from-world-bank-supported-initiative-for-jobs-social-protection-and-climate-resilience)).
 - Somalia's Prime Minister unveiled the Social Welfare System of the Unified Social Registry and urged aid agencies to use the government's registry to avoid duplication ([source, 2023-11-13](https://www.somalidispatch.com/latest-news/somalia-feds-to-launch-social-welfare-system-and-unified-social-registry/)).
 
 ### Togo: 3 Established
 
-A social registry was in service in 2025; its use by two or more programmes is not known.
+A social registry was in service in 2025; no source found reports its use by two or more programmes.
 
 - ANID states that it maintains the Central National Biometric Identification Database and the Social Register of Individuals and Households (RSPM) ([source, 2025](https://anid.gouv.tg/en/about-us/)).
 
@@ -314,60 +314,60 @@ A social registry was under way in 2026; none in service is on record.
 
 ### Namibia: Unplaced
 
-Nothing held since 2023 names a social registry, so no stage is set.
+Nothing found since 2023 names a social registry, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a social registry is under way or in service.
+Not established: Nothing found since October 2023 says whether a social registry is under way or in service.
 
 ### Tanzania: Unplaced
 
-Nothing held since 2023 names a social registry, so no stage is set.
+Nothing found since 2023 names a social registry, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a social registry is under way or in service.
+Not established: Nothing found since October 2023 says whether a social registry is under way or in service.
 
 ### Tunisia: Unplaced
 
-Nothing held since 2023 names a social registry, so no stage is set.
+Nothing found since 2023 names a social registry, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a social registry is under way or in service.
+Not established: Nothing found since October 2023 says whether a social registry is under way or in service.
 
 ### Algeria: No evidence
 
-Nothing held names a social registry or says there is none, so no stage is set.
+Nothing found names a social registry or says there is none, so no stage is set.
 
-Not established: Nothing held names a social registry, or says there is none.
+Not established: Nothing found names a social registry, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held names a social registry or says there is none, so no stage is set.
+Nothing found names a social registry or says there is none, so no stage is set.
 
-Not established: Nothing held names a social registry, or says there is none.
+Not established: Nothing found names a social registry, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a social registry or says there is none, so no stage is set.
+Nothing found names a social registry or says there is none, so no stage is set.
 
-Not established: Nothing held names a social registry, or says there is none.
+Not established: Nothing found names a social registry, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held names a social registry or says there is none, so no stage is set.
+Nothing found names a social registry or says there is none, so no stage is set.
 
-Not established: Nothing held names a social registry, or says there is none.
+Not established: Nothing found names a social registry, or says there is none.
 
 ### Ethiopia: No evidence
 
-Nothing held names a social registry or says there is none, so no stage is set.
+Nothing found names a social registry or says there is none, so no stage is set.
 
-Not established: Nothing held names a social registry, or says there is none.
+Not established: Nothing found names a social registry, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a social registry or says there is none, so no stage is set.
+Nothing found names a social registry or says there is none, so no stage is set.
 
-Not established: Nothing held names a social registry, or says there is none.
+Not established: Nothing found names a social registry, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held names a social registry or says there is none, so no stage is set.
+Nothing found names a social registry or says there is none, so no stage is set.
 
-Not established: Nothing held names a social registry, or says there is none.
+Not established: Nothing found names a social registry, or says there is none.

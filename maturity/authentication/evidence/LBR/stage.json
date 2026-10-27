@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "LBR-007;LBR-008",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
       "note": "Rebuild: the Civil Service Agency uses the NIR e-verification portal (LBR-007). Other bodies' use is ordered or planned, not stated as live.",
       "as_at": "2026-10-22"
     }

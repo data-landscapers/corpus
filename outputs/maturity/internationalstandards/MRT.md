@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [ISO member page](<https://www.iso.org/member/576513.html>) shows ONANOR taking part in 5 ISO technical committees and observing the work of 10 more, as of October 2026. It names none of the 15 committees. The page is the nearest held statement on this aspect: it shows the body at the committee table, and it does not show a rule that binds public bodies to a named standard.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

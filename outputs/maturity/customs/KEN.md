@@ -8,6 +8,6 @@
 
 **Exchange with partners.** [Business Daily says under the EAC single customs territory, the importing country's revenue authority submits import documents electronically and the exporting country's authority issues a road manifest against them](<https://www.businessdailyafrica.com/bd/economy/kra-in-major-customs-income-tax-systems-upgrade-after-snags-5167392>). [TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, with Kenya's ports authority also connected and scanner image sharing first implemented between Kenya and Uganda in 2024](<https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/>).
 
-***Noted, not assessed***. [RECTS](<https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system>); [Regional Electronic Cargo Tracking System (RECTS)](<https://www.kra.go.ke/news-center/public-notices/2393-approved-vendors-for-the-electronic-monitoring-and-tracking-of-goods-under-customs-control-and-transition-to-the-multi-vendor-user-owned-framework>).
+***Also on file***. [RECTS](<https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system>); [Regional Electronic Cargo Tracking System (RECTS)](<https://www.kra.go.ke/news-center/public-notices/2393-approved-vendors-for-the-electronic-monitoring-and-tracking-of-goods-under-customs-control-and-transition-to-the-multi-vendor-user-owned-framework>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -6,8 +6,8 @@
 
 **Main registers.** [The head of the Egyptian Tax Authority said in July 2026 that its payroll system calculates income tax for 12 million state employees from salary statements held by national number](<https://www.almasryalyoum.com/news/details/4306657>), and [the electoral roll is keyed on the same number](<https://www.elwatannews.com/news/details/8137356>).
 
-**Matching reported.** No source held since October 2023 gives a figure from checking a register against the ID. The nearest held fact: [the one given above](<https://gate.ahram.org.eg/News/5838334.aspx>).
+**Matching reported.** No source found since October 2023 gives a figure from checking a register against the ID. The nearest held fact: [the one given above](<https://gate.ahram.org.eg/News/5838334.aspx>).
 
-***Noted, not assessed***. [national ID](<https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case>); [National ID System (national number project)](<https://www.citc.com.eg/National%20ID%20SYSTEM.html>).
+***Also on file***. [national ID](<https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case>); [National ID System (national number project)](<https://www.citc.com.eg/National%20ID%20SYSTEM.html>).
 
-***Not held***. A third main register using the national number, beside the electoral roll and the state payroll, is not established; nor is any figure from checking a register against the ID.
+***Not found***. A third main register using the national number, beside the electoral roll and the state payroll, is not established; nor is any figure from checking a register against the ID.

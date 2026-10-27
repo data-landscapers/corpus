@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest held fact is the content of the same [2016 cybercrime law](<https://mtnima.gov.mr/sites/default/files/loi_2016_-_007_relative_la_cybercriminalite.pdf>): its 52 articles give search and interception powers, alongside the offences it defines and its provisions on international cooperation. Both chambers of the legislature adopted it before the President promulgated it, so the text that gives investigators those powers is a promulgated law and not a draft.
 
-***Noted, not assessed***. [CSIRT national](<https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf>), [SOC RIAD](<https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf>).
+***Also on file***. [CSIRT national](<https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf>), [SOC RIAD](<https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

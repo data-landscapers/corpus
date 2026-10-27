@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The same [Decree 2018-062/PR](<https://arcep.tg/wp-content/uploads/2020/11/Decret_2018_062_PR_portant_reglementation_des_transactions_services_electronique.pdf>), adopted by the Council of Ministers on 21 March 2018, has 105 articles. It regulates electronic transactions and services under the 2017 law: formalities for e-commerce sellers in Article 6, electronic signatures and qualified certificates, trust service providers and the accreditation procedure.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No accreditation, licence, registration or penalty under the law in the last three years is held.
+***Not found***. No accreditation, licence, registration or penalty under the law in the last three years is held.

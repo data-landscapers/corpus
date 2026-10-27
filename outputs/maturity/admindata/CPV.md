@@ -6,8 +6,8 @@
 
 **Sources published from.** [The Instituto Nacional de Estatistica released its fifth Estatisticas Vitais report on 1 October 2025, covering 2023 (6,760 births, 2,925 deaths, 2,435 marriages), compiled from administrative records of the Registos, Notariado e Identificacao](<https://expressodasilhas.cv/pais/2025/10/01/estatisticas-vitais-de-2023-registam-queda-na-natalidade-obitos-e-casamentos/99233>). [INE released the Estatisticas Vitais 2023 report on 1 October 2025, built on civil register administrative records and covering 2016-2023](<https://expressodasilhas.cv/pais/2025/10/01/estatisticas-vitais-de-2023-registam-queda-na-natalidade-obitos-e-casamentos/99233>).
 
-**Published regularly.** No source held states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://expressodasilhas.cv/pais/2025/10/01/estatisticas-vitais-de-2023-registam-queda-na-natalidade-obitos-e-casamentos/99233>).
+**Published regularly.** No source found states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://expressodasilhas.cv/pais/2025/10/01/estatisticas-vitais-de-2023-registam-queda-na-natalidade-obitos-e-casamentos/99233>).
 
-***Noted, not assessed***. [Civil registration computer applications](<https://data.unicef.org/crvs/cabo-verde/>).
+***Also on file***. [Civil registration computer applications](<https://data.unicef.org/crvs/cabo-verde/>).
 
-***Not held***. No source held shows statistics from one administrative source published twice since October 2023.
+***Not found***. No source found shows statistics from one administrative source published twice since October 2023.

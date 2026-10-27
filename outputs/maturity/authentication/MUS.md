@@ -8,6 +8,6 @@
 
 **Remote proof of identity.** [Biometric Update says Mauritius launched a mobile digital ID system in 2024](<https://www.biometricupdate.com/202605/theres-no-digital-id-without-data-protection-mauritius-privacy-chief>).
 
-***Noted, not assessed***. [MauPass](<https://oecd-opsi.org/innovations/maupass/>); [MoKloud digital safe](<https://oecd-opsi.org/innovations/maupass/>); [Central Population Database](<https://oecd-opsi.org/innovations/maupass/>); [Acuant Trusted Identity Platform](<https://oecd-opsi.org/innovations/maupass/>); [Central KYC system](<https://www.bom.mu/sites/default/files/opening_remarks_governor_harvesh_seegolam_signing_of_mous_15_april_2022.pdf>); [InfoHighway](<https://www.bom.mu/sites/default/files/opening_remarks_governor_harvesh_seegolam_signing_of_mous_15_april_2022.pdf>).
+***Also on file***. [MauPass](<https://oecd-opsi.org/innovations/maupass/>); [MoKloud digital safe](<https://oecd-opsi.org/innovations/maupass/>); [Central Population Database](<https://oecd-opsi.org/innovations/maupass/>); [Acuant Trusted Identity Platform](<https://oecd-opsi.org/innovations/maupass/>); [Central KYC system](<https://www.bom.mu/sites/default/files/opening_remarks_governor_harvesh_seegolam_signing_of_mous_15_april_2022.pdf>); [InfoHighway](<https://www.bom.mu/sites/default/files/opening_remarks_governor_harvesh_seegolam_signing_of_mous_15_april_2022.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

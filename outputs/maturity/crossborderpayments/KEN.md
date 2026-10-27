@@ -6,8 +6,8 @@
 
 **Regional system.** [TechReviewAfrica reports PAPSS is now available to customers of I&M Bank Kenya, who can send money across participating African markets in Kenyan shillings through branches](<https://techreviewafrica.com/news/7347/papss-goes-live-at-im-bank-kenya-to-expand-cross-border-payments>). [Kenya is on PAPSS: the central bank joined in September 2023, KCB went live in March 2025 and Pesalink plugged into PAPSS in February 2026, per tech-ish](<https://tech-ish.com/2026/09/17/papss-payments-grew-1000-in-a-year-and-kenya-is-now-on-the-network/>).
 
-**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://techreviewafrica.com/news/7347/papss-goes-live-at-im-bank-kenya-to-expand-cross-border-payments>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://techreviewafrica.com/news/7347/papss-goes-live-at-im-bank-kenya-to-expand-cross-border-payments>).
 
-***Noted, not assessed***. [Pesalink](<https://tech-ish.com/2026/09/17/papss-payments-grew-1000-in-a-year-and-kenya-is-now-on-the-network/>).
+***Also on file***. [Pesalink](<https://tech-ish.com/2026/09/17/papss-payments-grew-1000-in-a-year-and-kenya-is-now-on-the-network/>).
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

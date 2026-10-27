@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** [The 2018 regulation created payment establishments](<https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf>), licensed to provide payment services without being tied to a bank; subsidiaries of mobile operators and fintech companies can be licensed where they meet its requirements. The strategy lists six licensed across the region by July 2023: two in Cameroon, one in Chad, two in Congo and one in Gabon. None of the six was in the Central African Republic.
 
-***Noted, not assessed***. [GIMACPAY](<https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025>); [GIMAC](<https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf>).
+***Also on file***. [GIMACPAY](<https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025>); [GIMAC](<https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf>).
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

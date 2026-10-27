@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is that [ANSIE's 2026 revenue is mainly the state subvention](<https://www.presidence.dj/conseil-des-ministres/2025-12-30>).
 
-***Noted, not assessed***. [The Universal Service Fund, planned](<https://www.armd.dj/en/blog/a-feedback-meeting-of-the-final-report-regarding-the-universal-service-fund-establishment-74>); [the ARMD ICT observatory, planned for 2026](<https://www.presidence.dj/conseil-des-ministres/2025-12-30>).
+***Also on file***. [The Universal Service Fund, planned](<https://www.armd.dj/en/blog/a-feedback-meeting-of-the-final-report-regarding-the-universal-service-fund-establishment-74>); [the ARMD ICT observatory, planned for 2026](<https://www.presidence.dj/conseil-des-ministres/2025-12-30>).
 
-***Not held***. Nothing held shows the state's digital money rising in the latest budget over the one before.
+***Not found***. Nothing found shows the state's digital money rising in the latest budget over the one before.

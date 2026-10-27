@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** With [no exchange point in service](<https://pulse.internetsociety.org/en/resilience/ss/>), none reaches beyond one city. An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. [SS-IXP](<https://www.internetsociety.org/wp-content/uploads/2025/11/ISOC_Update-Presentation_Nov2025.pdf>).
+***Also on file***. [SS-IXP](<https://www.internetsociety.org/wp-content/uploads/2025/11/ISOC_Update-Presentation_Nov2025.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

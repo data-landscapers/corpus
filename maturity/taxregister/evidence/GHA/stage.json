@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GHA-002",
-   "gaps": "No source held since October 2023 says the taxpayer number is tied to the national ID.",
+   "gaps": "No source found since October 2023 says the taxpayer number is tied to the national ID.",
    "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
   }
  ]

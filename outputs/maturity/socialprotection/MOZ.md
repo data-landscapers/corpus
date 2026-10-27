@@ -6,8 +6,8 @@
 
 **Paid electronically.** [The World Bank says INAS contracts payment service providers (M-Pesa, Emola, Mkesh) centrally since 2024, about 136,000 digital accounts were opened by May 2025, and Child Grant payments started in March 2025](<https://documents1.worldbank.org/curated/en/099060625133026871/pdf/P173640-21420c54-0ced-4347-8192-6604ebd266d9.pdf>).
 
-**Several programmes.** No source held since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099060625133026871/pdf/P173640-21420c54-0ced-4347-8192-6604ebd266d9.pdf>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099060625133026871/pdf/P173640-21420c54-0ced-4347-8192-6604ebd266d9.pdf>).
 
-***Noted, not assessed***. [National Social Registry](<https://www.gtai.de/resource/blob/1999512/d5f145dad744ac85e8c8fd6d42f16a49/PRO202605201999506.pdf>); [INGD digital humanitarian beneficiary registration system](<https://www.diarioeconomico.co.mz/2026/08/10/trends/tech/ingd-vai-digitalizar-registo-de-beneficiarios-de-assistencia-humanitaria/>); [social registry](<https://documents1.worldbank.org/curated/en/099060625133026871/pdf/P173640-21420c54-0ced-4347-8192-6604ebd266d9.pdf>).
+***Also on file***. [National Social Registry](<https://www.gtai.de/resource/blob/1999512/d5f145dad744ac85e8c8fd6d42f16a49/PRO202605201999506.pdf>); [INGD digital humanitarian beneficiary registration system](<https://www.diarioeconomico.co.mz/2026/08/10/trends/tech/ingd-vai-digitalizar-registo-de-beneficiarios-de-assistencia-humanitaria/>); [social registry](<https://documents1.worldbank.org/curated/en/099060625133026871/pdf/P173640-21420c54-0ced-4347-8192-6604ebd266d9.pdf>).
 
-***Not held***. No source held since October 2023 says one information system serves several social programmes.
+***Not found***. No source found since October 2023 says one information system serves several social programmes.

@@ -6,8 +6,8 @@
 
 **Several bodies.** One government platform serves several bodies: the e-Government Authority says [Msaada AI is used by two institutions](<https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2>), as of July 2026. No third user is named.
 
-**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [e-Government Authority's account of its AI tools](<https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2>), which states no rules.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [e-Government Authority's account of its AI tools](<https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2>), which states no rules.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Rules or a register for the government's own use of AI are not known.
+***Not found***. No source found reports rules or a register for the government's own use of AI.

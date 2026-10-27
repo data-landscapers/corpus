@@ -42,9 +42,9 @@ GAPS = {
     "4": "No source from the last three years naming a public body certified against a "
          "national standard on information technology or data, by the standards body or a "
          "certifier accredited in the country, is held.",
-    "3": "No source held says the standards body or a certifier accredited in the country "
+    "3": "No source found says the standards body or a certifier accredited in the country "
          "offers certification against a national standard on information technology or data.",
-    "2": "No source held names a national standard on information technology or data.",
+    "2": "No source found names a national standard on information technology or data.",
     "1": "",
 }
 
@@ -92,7 +92,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "certification": "", "sources": [],
-                "gaps": "Nothing held names a national standards body, or says there is none."}
+                "gaps": "Nothing found names a national standards body, or says there is none."}
     if public:
         s, src = "5", public + issued[:1]
     elif offered:

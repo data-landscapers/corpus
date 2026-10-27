@@ -12,6 +12,6 @@
 
 **Last twelve months.** The position [was unchanged at 1 August 2026](<https://research.lawlab.africa/eritrea/>): no law, no regulator and no enforcement.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No bill or draft of a data protection law is on record, and whether one is in preparation is not held. Nothing is held on regulations.
+***Not found***. No bill or draft of a data protection law is on record, and whether one is in preparation is not held. Nothing is held on regulations.

@@ -8,6 +8,6 @@
 
 **Online services.** [Notaries consult land documents online through a dedicated space on the ANCFCC electronic platform, for a fee](<https://medias24.com/2024/01/17/documents-fonciers-la-consultation-en-ligne-desormais-ouverte-aux-notaires/>). [ANCFCC states 86% of its 3 million users are online, including 76% of notarial deed filings and 95% of certificates issued](<https://www.ancfcc.gov.ma/chiffrecles/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

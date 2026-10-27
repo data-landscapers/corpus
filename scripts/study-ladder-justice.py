@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "justice"
 SUB = "justice"
-GAPS = {'4': 'No source held since October 2023 says judgments are published or case status can be looked up online.', '3': 'No source held since October 2023 says cases can be filed with the courts online.', '2': 'No source held since October 2023 says: do courts manage cases electronically.', '1': 'No source held since October 2023 says: is a court case management system under way.', '5': ''}
-EMPTY = 'Nothing held says how courts manage their cases.'
-UNPLACED = 'Nothing held since October 2023 says whether courts manage cases electronically.'
+GAPS = {'4': 'No source found since October 2023 says judgments are published or case status can be looked up online.', '3': 'No source found since October 2023 says cases can be filed with the courts online.', '2': 'No source found since October 2023 says: do courts manage cases electronically.', '1': 'No source found since October 2023 says: is a court case management system under way.', '5': ''}
+EMPTY = 'Nothing found says how courts manage their cases.'
+UNPLACED = 'Nothing found since October 2023 says whether courts manage cases electronically.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

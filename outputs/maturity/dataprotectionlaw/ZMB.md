@@ -12,6 +12,6 @@
 
 **Last twelve months.** A [World Bank-financed tender opened on 10 August 2026, with expressions of interest due on 21 August, for a three-month assignment to review and develop national data protection guidelines and compliance frameworks](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461500>). The Office of the Data Protection Commissioner [joined Zambia's delegation to the ID4Africa conference in Abidjan, which ended on 15 May 2026](<https://techafricanews.com/2026/05/18/zambia-advances-digital-identity-agenda-through-multi-sectoral-engagement/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation made under the Act is on record, and the date the Act came into force is not stated. No decision, sanction or count of cases under the Act is on record; registration and training are the only application shown.
+***Not found***. No regulation made under the Act is on record, and the date the Act came into force is not stated. No decision, sanction or count of cases under the Act is on record; registration and training are the only application shown.

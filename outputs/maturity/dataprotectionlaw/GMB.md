@@ -12,6 +12,6 @@
 
 **Last twelve months.** Parliament's passage of the bill was [reported on 6 October 2025, when it awaited presidential assent](<https://thepoint.gm/africa/gambia/headlines/gambia-praised-for-passing-personal-data-protection-and-privacy-bill>), and [assent followed on 7 November 2025](<https://www.africanlawbusiness.com/expert-views/key-features-of-the-gambian-personal-data-protection-and-privacy-act/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The date the Act commenced is not stated, and no source says the Commission's members have been appointed. No decision, sanction or count of complaints under the Act is on record.
+***Not found***. The date the Act commenced is not stated, and no source says the Commission's members have been appointed. No decision, sanction or count of complaints under the Act is on record.

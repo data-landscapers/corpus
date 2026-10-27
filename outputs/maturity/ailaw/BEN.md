@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no specific binding regulation on AI outside the strategy](<https://informationdemocracy.org/wp-content/uploads/2025/04/FID_Plaquette-IA-BENIN_VDEF-1.pdf>) as of April 2025, Benin has no general AI law to apply. The national AI and big-data strategy for 2023 to 2027 is a strategy, not a law, and no rule for one sector or one use that names AI is recorded for the country.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No bill, draft decree or draft regulation on AI is held.
+***Not found***. No bill, draft decree or draft regulation on AI has been found.

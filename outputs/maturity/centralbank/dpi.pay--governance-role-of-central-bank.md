@@ -72,7 +72,7 @@ The central bank took part in a regional or continental payment system in 2025.
 
 ### Zimbabwe: 5 Leading
 
-Zimbabwe processed payments through a continental payment system in 2026; whether the central bank licenses providers is not known.
+Zimbabwe processed payments through a continental payment system in 2026; no source found says whether the central bank licenses providers.
 
 - Afreximbank says Zimbabwe is processing $5.8 million a month through PAPSS, and that most banks in Southern Africa have joined it ([source, 2026-10](https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/)).
 
@@ -99,7 +99,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Burundi: 4 Operating
 
-The central bank launched a national instant payment system in 2026; whether Burundian banks are live on a continental payment system is not known.
+The central bank launched a national instant payment system in 2026; no source found says whether Burundian banks are live on a continental payment system.
 
 - Banque de la Republique du Burundi launched the national instant payment system BurundiPay on 23 April 2026, connecting commercial banks, microfinance institutions and payment service providers and integrating with the RTGS and automated clearing houses ([source, 2026-04-23](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank)).
 - The Bank of the Republic of Burundi pilots BurundiPay, the national instant payment system, with 17 institutions live on 4 August 2026 (BRB payment systems director Nduwimana Libere) ([source, 2026-08-04](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/)).
@@ -113,7 +113,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Cape Verde: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2025; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2025; no source found reports a regional link.
 
 - The Banco de Cabo Verde says it manages SICIL, the interbank clearing system for cheques, credit transfers and payment cards operated by SISP, and oversees the payment system under its oversight policy ([source, 2025](https://www.bcv.cv/pt/SistemadePagamentos/Paginas/SistemadePagamentos.aspx)).
 - In 2024 the Banco de Cabo Verde operated the SGDL settlement system daily and followed daily the interbank clearing systems making up the SICIL, completing assessments of financial market infrastructures ([source, 2024](https://www.bcv.cv/SiteCollectionDocuments/2025/Relat%C3%B3rio%20de%20Sistema%20de%20Pagamentos%202024.pdf)).
@@ -132,7 +132,7 @@ The central bank oversaw a national payment switch in 2023; live participation i
 
 ### Comoros: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - Al-Watwan reports the Banque Centrale des Comores introduced and launched Komor Switch, a national platform connecting all banks and mobile money services for interoperability, and KomorPay, an automated interbank transfer system ([source, 2026-05-04](https://alwatwan.net/economie/secteur-bancaire-i-les-comores-inaugurent-de-nouveaux-modes-et-syst%C3%A8mes-de-paiement.html)).
 - The Banque Centrale des Comores says it is operator, supervisor and participant of KomorPay (ATS), the national interbank payment system operational since 23 April 2026 ([source, 2026-04-23](https://banque-comores.km/uploads/BCC-livret(3).pdf)).
@@ -152,7 +152,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### DR Congo: 4 Operating
 
-The central bank oversees a national payment switch in 2026 and joined PAPSS, but payments through it are not known.
+The central bank oversees a national payment switch in 2026 and joined PAPSS, but no source found reports payments through it.
 
 - Bankable reports that Switch Mosolo is the national payment switch developed under the Central Bank of Congo's oversight, with FINCA the first microfinance institution to join a pilot connecting through the Mosolo card ([source, 2026-08](https://bankable.africa/en/news/1409-3591-drc-microfinance-institutions-seek-digital-support-ahead-of-dollar-cash-ban)).
 - An agreement signed on 15 April 2026 connects microfinance institutions and savings cooperatives to the national card switch (switch monetique national) of the Banque centrale du Congo ([source, 2026-04-15](https://actualite.cd/2026/04/16/rdc-le-projet-transforme-appuie-la-digitalisation-des-imf-et-coopec)).
@@ -160,7 +160,7 @@ The central bank oversees a national payment switch in 2026 and joined PAPSS, bu
 
 ### Egypt: 4 Operating
 
-The central bank ran the national instant payment network in 2026; whether Egyptian banks are live on a continental payment system is not known.
+The central bank ran the national instant payment network in 2026; no source found says whether Egyptian banks are live on a continental payment system.
 
 - The Central Bank of Egypt launched the Instant Payment Network (IPN), the national real-time electronic payment infrastructure connecting banks in Egypt; the governor said it recorded 1.47 billion transactions worth about EGP 4.33 trillion by end of the second quarter of 2026 ([source, 2026-06](https://english.ahram.org.eg/News/577944.aspx)).
 - Ahram Online says Instapay is licensed by the Central Bank of Egypt and runs through its Instant Payment Network, the national real-time payment infrastructure ([source, 2026-09-09](https://english.ahram.org.eg/News/576342.aspx)).
@@ -173,7 +173,7 @@ The central bank oversaw a national payment switch in 2023; live participation i
 
 ### Eswatini: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - The Central Bank of Eswatini says the Eswatini Payment Switch fast payments platform is fully active, connecting banks and mobile money providers in real time, 24/7 ([source, 2026-09-21](https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/)).
 - The article says the Central Bank of Eswatini's Fast Payments system enables transactions across different account types and wallets, and the central bank describes the Eswatini Payment Switch as its payments infrastructure ([source, 2026-09-09](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/)).
@@ -187,7 +187,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Guinea: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - AGUIDUTEN congratulated the Banque Centrale de la Republique de Guinee and Guineenne de Monetique on the design and implementation of NimbaPay, the national instant payment platform whose launch it welcomed ([source, 2026-07-26](https://focusguinee.info/2026/07/26/laguiduten-salue-le-lancement-de-nimbapay-la-plateforme-nationale-de-paiement-instantane/)).
 - The document says NimbaPay, Guinea's national instant payment system, was developed under the leadership of the Central Bank of the Republic of Guinea (BCRG), implemented by Guineenne de Monetique, and launched on 23 July 2026 ([source, 2026-07-23](https://www.itnewsafrica.com/2026/07/guinea-launches-nimbapay-opening-a-new-era-of-instant-and-inclusive-digital-payments/)).
@@ -201,14 +201,14 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Lesotho: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2025; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2025; no source found reports a regional link.
 
 - The Central Bank of Lesotho, with leading banks, introduced localized POS transactions under the LeSwitch national switch from 11 May 2025, after ATM localization in October 2024, with all local card transactions handled in-country by early 2025 ([source, 2025-05-11](https://publiceyenews.com/2025/05/20/leswitch-expands-to-pos-transactions)).
 - The Lesotho Times reports the Central Bank of Lesotho, with four commercial banks, launched local POS transactions on the National Payment Switch LeSwitch on 11 May 2025, after instant payments (2022) and ATM (piloted Oct 2024 to Feb 2025) ([source, 2025-05-11](https://lestimes.com/?p=87043)).
 
 ### Libya: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - The Central Bank of Libya directed commercial banks by letter of 4 March 2026 to activate the LYPay instant payment system in their banking apps for QR-code purchases at POS devices by 8 March ([source, 2026-03-04](https://libyaherald.com/2026/03/aldabaiba-government-and-cbl-take-further-actions-to-encourage-increased-e-payments-use-cbl-reduces-new-fx-bureaux-commission)).
 - The Central Bank of Libya says it runs the LYPay and OnePay instant payment services, launched in 2024, and will raise their transfer and purchase limits ([source, 2024-12-26](https://cbl.gov.ly/en/instant-payment-services-statistics/)).
@@ -229,7 +229,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Mauritania: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2024; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2024; no source found reports a regional link.
 
 - GIMTEL launched interconnection of bank apps and e-wallets under the Central Bank of Mauritania's strategy, and its governor said oversight of payment systems had been activated ([source, 2024-10-14](https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/)).
 
@@ -241,21 +241,21 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Morocco: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - Bank Al-Maghrib's payments department says the central bank has organised interoperability and framed access to payment infrastructures, per Le Matin's report of the 11th MFC Talks ([source, 2026-09-27](https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355)).
 - Bank Al-Maghrib oversees Morocco's payment systems, including the SIMT retail clearing system, under article 10 of law 76-03 and a multilateral oversight convention signed by all infrastructure managers ([source, 2026](https://www.bkam.ma/en/Systems-and-means-of-payment/Financial-markets-infrastructure-and-monitoring/Overview)).
 
 ### Mozambique: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - Bank of Mozambique launched the Metix instant payment system on 16 March 2026, run by SIMO, and reports its volume (over 11,000 transfers a day) in its Monetary Policy Committee communiqué ([source, 2026-07-30](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/)).
 - The National Single Network (National Switch) has been operated by SIMOrede since 2023 under the supervision and control of the Bank of Mozambique ([source, 2026-06-16](https://clubofmozambique.com/news/mozambique-financial-institutions-have-60-minutes-to-report-failures/)).
 
 ### Namibia: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - The Bank of Namibia said its instant payments solution became operational in June 2026, with live transactions first processed between its Currency Management and Banking Operations Department and Bank Windhoek, Nampost and Letshego Bank Namibia ([source, 2026-06](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 - The Bank of Namibia is the parent body of Instant Payment Namibia, which operates the Instant Payment Solution; pilot testing in live production is complete and phased rollout is underway ([source, 2026-06-15](https://www.marketwatch.com.na/market-watch/fact-sheet-namibias-instant-payment-solution-ips-nmh012158-3015-14760)).
@@ -269,7 +269,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Rwanda: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - The National Bank of Rwanda says it monitors the eKash payment and transfer system, launched nationally on 14 July 2026, and works with providers to fix disruptions ([source, 2026-09-02](https://radiotv10.rw/en/rwandas-new-ekash-payment-system-wins-praise-but-users-report-lingering-transfer-glitches/)).
 - Taarifa reports that interoperability runs through the National Bank of Rwanda's eKash platform, rolled out months before July 2026 ([source, 2026-07](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/)).
@@ -283,13 +283,13 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Seychelles: 4 Operating
 
-The central bank oversees interoperable interbank payment systems by 2025; whether the country is live on PAPSS is not known.
+The central bank oversees interoperable interbank payment systems by 2025; no source found says whether the country is live on PAPSS.
 
 - Governor Caroline Abel said Seychelles has achieved full interoperability among banks on its most used payment systems, the Seychelles Electronic Funds Transfer and the Electronic Cheque Clearing systems, under an Act governing the operation and oversight of national payment systems ([source, 2025-07-30](https://www.cbs.sc/Downloads/publications/Speeches/Opening%20Remarks%20by%20Governor%20Caroline%20Abel%20-SADC%20CCBG%20PSS%20and%20PSOC%20meetings.pdf)).
 
 ### Somalia: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2026; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
 
 - Guleid Osman writes that the Central Bank of Somalia has launched the National Payment System, the Somali Payment Switch and the Somali Instant Payment System (SIPS), which the Bank states supports real-time transfers among banks, mobile wallets and points of sale ([source, 2026-09-20](https://www.hiiraan.com/op4/2026/Sep/206320/strengthening_somalias_central_bank_and_securing_the_future_of_digital_payments.aspx)).
 - TechCabal says the Central Bank of Somalia launched the Somalia Instant Payment System (SIPS) in early 2025, with a national QR standard, SOMQR ([source, 2025](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/)).
@@ -303,7 +303,7 @@ The central bank oversaw a national payment switch in 2025; live participation i
 
 ### Tanzania: 4 Operating
 
-The central bank ran or oversaw a national payment switch in 2025; a regional link is not known.
+The central bank ran or oversaw a national payment switch in 2025; no source found reports a regional link.
 
 - The Bank of Tanzania capped the maximum cost of single transactions in the Tanzania Automated Clearing House and the instant payment system at 2,000/- in 2024 and 2025, with a focus on the Tanzania Instant Payment System (TIPS) ([source, 2025](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/interoperability-costs-cut-while-113-agencies-operate-payments-systems-2026-04-28-111407)).
 
@@ -316,7 +316,7 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 ### Tunisia: 4 Operating
 
-The central bank oversaw the national interbank clearing system in 2026; whether Tunisian payments run on a continental payment system is not known.
+The central bank oversaw the national interbank clearing system in 2026; no source found says whether Tunisian payments run on a continental payment system.
 
 - The BCT states it manages and supervises the SGMT RTGS (in service since November 2006) and performs surveillance of the SIBTEL clearing system ([source, 2026-09-03](https://www.bct.gov.tn/bct/siteprod/page.jsp?id=96)).
 
@@ -328,65 +328,65 @@ The central bank oversaw a national payment switch in 2024; live participation i
 
 ### Algeria: 3 Established
 
-The central bank licensed payment providers in 2026; a national switch it oversees is not known.
+The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
 
 - The Monetary and Banking Council of the Bank of Algeria authorised Djezzy Payment Services to constitute itself as a payment service provider under regulation 25-02, with a licence application due within twelve months ([source, 2026-09-23](https://ecotimesdz.com/djezzy-payment-services-psp-banque-algerie-paiement-mobile-2026/)).
 - The Monetary and Banking Council of the Bank of Algeria authorised Djezzy Payment Services to constitute itself as a payment service provider under regulation 25-02, with a licence application due within twelve months ([source, 2026-09-23](https://leprovincial.dz/paiement-electronique-djezzy-decroche-le-ok-de-la-b-a/)).
 
 ### Botswana: 3 Established
 
-The central bank licensed payment providers in 2026; a national switch it oversees is not known.
+The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
 
 - The Bank of Botswana licenses electronic payment services: under the amended regulations in force since 2 April 2026 no one may operate one without its licence, on pain of a P1 million fine or five years in prison ([source, 2026-04-02](https://www.mmegi.bw/business/bob-electronic-money-regulations-gather-pace/news)).
 - The Bank of Botswana says the Electronic Payment Services (Amendment) Regulations, 2026, in effect since 2 April 2026, set out the entities that may be licensed to offer electronic payment services and the licensing and market-entry requirements ([source, 2026-04-02](https://www.bankofbotswana.bw/sites/default/files/press-release-files/Implementation%20of%20the%20Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf)).
 
 ### Eritrea: 3 Established
 
-The central bank licensed payment providers in 2025; a national switch it oversees is not known.
+The central bank licensed payment providers in 2025; no source found reports a national switch it oversees.
 
 - Himbol's guide says Himbol, which runs the M-Nakfa mobile wallet and remittance payout, operates under the supervision and licensing of the Bank of Eritrea ([source, 2025](https://erihimbol.com/assets/Himbol%20-%20Customers%20and%20Partners%20Guide-CrBqoCzf.pdf)).
 
 ### Ethiopia: 3 Established
 
-The central bank licensed payment providers in 2026; a national switch it oversees is not known.
+The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
 
 - The National Bank of Ethiopia licenses ETTA's ZooryaPay as a Payment System Operator, per the Capital newspaper report ([source, 2026-10](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/)).
 - Directive 1069/2025 defines payment service providers as those licensed or authorized by the National Bank of Ethiopia to issue payment instruments, and requires federal public bodies to accept payments from all of them ([source, 2025-05-26](https://www.mofed.gov.et/media/filer_public/7e/a5/7ea5bf66-de9b-447d-b34d-8ca9667ddf50/1069_2017_yamanegesete_maseriyaa_beetoce_faqaade_katasathaacawe_yakefeyaa_agalegelote_sachiwoce_kefeyaa_yamiqabalubatene.pdf)).
 
 ### Kenya: 3 Established
 
-The central bank licenses payment providers by 2026; a national switch it runs or oversees is not known.
+The central bank licenses payment providers by 2026; no source found reports a national switch it runs or oversees.
 
 - In a speech published 13 March 2026, the National Bank of Rwanda says the passporting MoU applies to payment service providers licensed by their home supervisory authority, the central bank ([source, 2026-03-13](https://www.bis.org/speeches/20260313-signing-mou-between-central-bank-kenya-and-national-bank-rwanda)).
 
 ### Madagascar: 3 Established
 
-The central bank licensed payment providers in 2026; a national switch it oversees is not known.
+The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
 
 - The CSBF, attached to the Banky foiben'i Madagasikara, holds the legal power under the e-money institutions law to grant or withdraw licences, issue regulatory instructions and audit e-money institutions, per 2424.mg ([source, 2026-06-11](https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/)).
 
 ### Sao Tome and Principe: 3 Established
 
-The central bank licensed payment providers in 2025; a national switch it oversees is not known.
+The central bank licensed payment providers in 2025; no source found reports a national switch it oversees.
 
 - The BCSTP, as regulator of the financial system, has since June 2023 been easing licensing requirements for payment institutions and bureaux de change, and eased some documentation requirements again for twelve months (communiqué of 20 January 2025) ([source, 2025-01-20](https://rstp.st/2025/01/20/comunicado-banco-central-de-sao-tome-e-principe-bcstp/)).
 
 ### South Sudan: 3 Established
 
-The central bank licensed payment providers in 2026; a national switch it oversees is not known.
+The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
 
 - The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 - The Bank of South Sudan issued a regulatory notice putting digital financial service providers, including mobile money operators, under the same licensing-linked requirements as banks, with licence suspension or cancellation as the sanction ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).
 
 ### Sudan: 3 Established
 
-The central bank licensed payment providers in 2026; a national switch it oversees is not known.
+The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
 
 - The Central Bank of Sudan says it licenses electronic payment system services providers, and it revoked Al-Asjad's licence on review by a technical and legal committee ([source, 2026-07-04](https://sudantribune.net/article/315827)).
 - The Central Bank of Sudan announced revocation of Al-Asjad's licence to provide electronic payment system services, and says licences are conditional on continuing compliance with its published standards and need its written approval for integration ([source, 2026-07-04](https://sudanhorizon.com/cbos-officially-revokes-al-asjad-companys-license-following-review/)).
 
 ### Uganda: Unplaced
 
-Nothing held since 2023 says what the central bank does over payments, so no stage is set.
+Nothing found since 2023 says what the central bank does over payments, so no stage is set.
 
-Not established: Nothing held since October 2023 says what the central bank does over payments.
+Not established: Nothing found since October 2023 says what the central bank does over payments.

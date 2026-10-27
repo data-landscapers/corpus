@@ -6,6 +6,6 @@
 
 **Certification.** The [2012 ordinance](<https://faolex.fao.org/docs/pdf/mli152386.pdf>) charges the agency with creating and managing the national conformity mark. It names no certification against a standard on information technology or data.
 
-***Noted, not assessed***. [SMTD data centre](<https://www.itu.int/dms_pub/itu-d/opb/pref/D-PREF-THEM.29-2022-PDF-F.pdf>); [AGETIC data centre](<https://www.itu.int/dms_pub/itu-d/opb/pref/D-PREF-THEM.29-2022-PDF-F.pdf>).
+***Also on file***. [SMTD data centre](<https://www.itu.int/dms_pub/itu-d/opb/pref/D-PREF-THEM.29-2022-PDF-F.pdf>); [AGETIC data centre](<https://www.itu.int/dms_pub/itu-d/opb/pref/D-PREF-THEM.29-2022-PDF-F.pdf>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

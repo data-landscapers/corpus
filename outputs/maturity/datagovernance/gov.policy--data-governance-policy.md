@@ -40,7 +40,7 @@ Algeria set up a national data governance framework by decree in December 2025 a
 
 ### Nigeria: 4 Operating
 
-Nigeria launched a national data policy in 2023 and set up a working group for its data strategy; rules issued under them are not known.
+Nigeria launched a national data policy in 2023 and set up a working group for its data strategy; no source found reports rules issued under them.
 
 - NITDA's Director-General inaugurated a Technical Working Group on 19 July 2023 for the implementation of the National Data Strategy, to recommend how regulatory agencies implement it ([source, 2023-07-19](https://leadership.ng/nitda-unveils-national-data-strategy-to-drive-nigerias-digital-economy/)).
 - The Permanent Secretary of the Federal Ministry of Communications and Digital Economy said on 19 July 2023 that the government had officially launched the National Data Strategy, built on seven pillars; the article also says it was launched in March of the previous year, so the event date used is the article's ([source, 2023-07-19](https://leadership.ng/nitda-unveils-national-data-strategy-to-drive-nigerias-digital-economy/)).
@@ -68,87 +68,87 @@ Uganda launched a national data strategy in October 2026 with a steering committ
 
 ### Cote d'Ivoire: 3 Established
 
-Côte d'Ivoire has a national data governance strategy to 2030, launched with the Prime Minister's foreword; no body named to carry it out is held.
+Côte d'Ivoire has a national data governance strategy to 2030, launched with the Prime Minister's foreword; no body named to carry it out has been found.
 
 - The Prime Minister's foreword to the National Data Governance Strategy 2024-2030 (SNGD 2030) speaks of the official launch of the strategy by the government, after a participatory process begun in April 2024 with over 200 experts; the document gives no launch date, so the year is its published date, 2024 ([source, 2024](https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf)).
 
 ### Guinea-Bissau: 3 Established
 
-Guinea-Bissau's cabinet approved a decree on a national data governance and protection policy in July 2025; no body to carry it out is held.
+Guinea-Bissau's cabinet approved a decree on a national data governance and protection policy in July 2025; no body to carry it out has been found.
 
 - Guinea-Bissau's Council of Ministers, chaired by Prime Minister Rui Duarte Barros, approved the draft decree on the National Data Governance and Protection Policy, reported by the state news agency ANG; the article has no in-body date and its published date, 2025-07-10, is a proxy for the Thursday meeting ([source, 2025-07-10](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/)).
 
 ### Lesotho: 3 Established
 
-Lesotho's minister signed the government's Data Management Policy in June 2026; no body named to carry it out is held.
+Lesotho's minister signed the government's Data Management Policy in June 2026; no body named to carry it out has been found.
 
 - The Lesotho Times reported that the Minister of Information, Communications, Science, Technology and Innovation officially signed the Data Management Policy, which sets a framework for data governance, privacy, security and ethical use, at a ceremony in Maseru 'yesterday' (11 June 2026), the day before the article ([source, 2026-06-11](https://lestimes.com/?p=90715)).
 
 ### Libya: 3 Established
 
-Libya's General Information Authority applies a national guide for government data governance, reported in April 2026; when it was issued is not known.
+Libya's General Information Authority applies a national guide for government data governance, reported in April 2026; no source found says when it was issued.
 
 - The General Information Authority reported on 2026-04-23 that it applies the National Guide for Government Data Governance as the reference framework for data management, quality and the responsibilities of entities, and pressed the Libyan Zakat Fund to align its platforms with it ([source, 2026-04-23](https://www.gia.gov.ly/en/2026/04/23/the-general-information-authority-strengthens-data-governance-at-the-libyan-zakat-fund-according-to-the-national-guide-for-government-data-governance/)).
 
 ### Mauritius: 3 Established
 
-Mauritius launched its National Data Strategy 2025-2029 in January 2026; no body named to carry it out is held.
+Mauritius launched its National Data Strategy 2025-2029 in January 2026; no body named to carry it out has been found.
 
 - Minister of Information Technology, Communication and Innovation Avinash Ramtohul spoke on 16 July 2026 of the government's commitment to digital governance through the implementation of a National Data Governance Strategy, presenting it as in implementation; the document gives no approval or launch date ([source, 2026-07-16](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/)).
 - L'Express reports that the Ministry of ICT (MITCI), with the Data Protection Office, officially launched the Mauritius National Data Strategy 2025-2029 ('A New Era of Trust') at Ebene on 28 January 2026, setting the country's long-term vision for responsible data governance and strategic use of data ([source, 2026-01-28](https://lexpress.mu/node/553938)).
 
 ### Senegal: 3 Established
 
-A July 2026 report says Senegal has adopted a National Data Strategy; when, and any body to carry it out, are not known.
+A July 2026 report says Senegal has adopted a National Data Strategy; no source found says when, and any body to carry it out,.
 
 - The article says Senegal has adopted its National Data Strategy (SND) and AI Strategy (SNIA), without giving the adoption date; the date used is the article's published date, which the file marks as an ingest-date proxy ([source, 2026-07-20](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/)).
 
 ### Sierra Leone: 3 Established
 
-Sierra Leone published its first National Data Strategy in January 2023 and was updating it in 2025; no body to carry it out is held.
+Sierra Leone published its first National Data Strategy in January 2023 and was updating it in 2025; no body to carry it out has been found.
 
 - The report says the Ministry's training of the DSTI technical team is part of its efforts to implement the National Data Strategy, which it describes as treating data as a public asset; no adoption date is given ([source, 2026-08-21](https://techreviewafrica.com/news/6855/sierra-leone-trains-government-technical-team-on-ai-and-data-protection-by-design)).
 - The Ministry of Information and Communications published the National Data Strategy, the country's first, dated January 2023 and carrying the Minister's foreword and the Permanent Secretary's preface; the document gives no end date ([source, 2023-01](https://mocti.gov.sl/wp-content/uploads/2024/12/Sierra-Leone-National-Data-Strategy_2023_v1.pdf)).
 
 ### Botswana: 2 Nascent
 
-Botswana was drafting a national data strategy in September 2026; whether the government has approved it is not known.
+Botswana was drafting a national data strategy in September 2026; no source found says whether the government has approved it.
 
 - Botswana's Ministry of Communications and Innovation held a five-day data governance training and stakeholder engagement on 7-11 September 2026 to support developing the National Data Strategy, which is being drafted with African Union Commission and EU support; the source does not say the strategy or the National Data Policy it follows has been adopted ([source, 2026-09](https://dig.watch/updates/botswana-national-data-strategy-engagement)).
 
 ### Burundi: 2 Nascent
 
-Burundi's national data governance strategy was validated at a workshop in November 2025; whether the government has approved it is not known.
+Burundi's national data governance strategy was validated at a workshop in November 2025; no source found says whether the government has approved it.
 
 - Burundi officially validated its first National Data Governance Strategy (SNGD), co-led by the UN Economic Commission for Africa, about a week before the 14 November 2025 article; the article states validation, not approval by cabinet or a launch, and says the government committed to develop a legal framework ([source, 2025-11](https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy)).
 
 ### Cape Verde: 2 Nascent
 
-Cabo Verde began work on a data strategy for public administration in April 2026; nothing held says one has been approved.
+Cabo Verde began work on a data strategy for public administration in April 2026; nothing found says one has been approved.
 
 - TechAfrica News (published 2026-05-04) reports that Cape Verde launched the development of a Data Strategy for Public Administration at a kick-off meeting of senior officials, the Secretary of State for the Digital Economy, external consultants and EU representatives, held 28 April 2026 per the note; no adoption is stated ([source, 2026-04-28](https://techafricanews.com/2026/05/04/cape-verde-launches-national-data-and-ai-strategies-to-modernize-public-administration/)).
 
 ### Chad: 2 Nascent
 
-Chad was drafting a national data governance strategy in May 2026, with UN support; nothing held to September 2026 says it was approved.
+Chad was drafting a national data governance strategy in May 2026, with UN support; nothing found to September 2026 says it was approved.
 
 - The UN Economic Commission for Africa says Chad's government, through the Ministry of Telecommunications, Digital Economy and Digitalization of Administration with ECA and GIZ, is developing a National Data Governance Strategy, with consultations on 13-15 May 2026 and a stakeholder workshop on 21 May 2026 to validate findings; the page announces these engagements and carries no publication date (its published date is a proxy for their start) ([source, 2026-05](https://www.uneca.org/eca-events/eca-supporting-chad-developing-national-data-governance-strategy-advance-au-data-policy-framework)).
 
 ### Comoros: 2 Nascent
 
-The Comoros validated a 2027-2031 national data governance strategy in August 2026 and put it to cabinet in October; approval is not known.
+The Comoros validated a 2027-2031 national data governance strategy in August 2026 and put it to cabinet in October; no source found reports approval.
 
 - AUDA-NEPAD reports that government, private-sector and civil-society representatives met in Moroni on 24-25 August 2026 at a workshop to review and validate the National Data Governance Strategy 2027-2031, whose implementation plan was also examined; it does not report approval or launch by the government ([source, 2026-08](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique)).
 
 ### Congo: 2 Nascent
 
-Congo was drafting a national data governance strategy in June 2026, with UN support; nothing held says it has been approved.
+Congo was drafting a national data governance strategy in June 2026, with UN support; nothing found says it has been approved.
 
 - The UN Economic Commission for Africa, through its Data Governance in Africa initiative, supported the Republic of the Congo in developing its National Data Governance Strategy through consultations and stakeholder engagements held in Brazzaville from 2 to 9 June 2026 ([source, 2026-06](https://techreviewafrica.com/news/5882/eca-supports-republic-of-the-congo-in-developing-national-data-governance-strategy)).
 
 ### DR Congo: 2 Nascent
 
-DR Congo's national data governance strategy was validated and handed to the government in November 2025; whether it has been approved is not known.
+DR Congo's national data governance strategy was validated and handed to the government in November 2025; no source found says whether it has been approved.
 
 - The UN Economic Commission for Africa reports that the DRC's National Data Governance Strategy (six pillars) was nationally validated at a ceremony in Kinshasa on 13 November 2025 and symbolically handed over to the government, with the workshop still discussing adopting it and integrating amendments ([source, 2025-11-13](https://www.uneca.org/stories/eca-officially-hands-over-the-national-data-governance-strategy-to-the-government-of-the-drc)).
 
@@ -166,7 +166,7 @@ Ethiopia's cabinet sent a national data governance bill to parliament in Septemb
 
 ### Gambia: 2 Nascent
 
-The Gambia's draft national data policy was endorsed at a validation workshop in July 2025; government approval is not known.
+The Gambia's draft national data policy was endorsed at a validation workshop in July 2025; no source found reports government approval.
 
 - The Ministry of Communications and Digital Economy's held document is the draft National Data Policy 2025, described as a draft reference instrument; the document gives no date beyond its 2025 published year, which is used here ([source, 2025](https://mocde.gov.gm/wp-content/uploads/2025/06/National-Data-Policy-2025-The-Gambia-draft.docx)).
 
@@ -178,7 +178,7 @@ Ghana's draft national data strategy was reviewed at a validation workshop in Ju
 
 ### Guinea: 2 Nascent
 
-Guinea began drafting a national data governance strategy in June 2026; no draft or approval is held.
+Guinea began drafting a national data governance strategy in June 2026; no draft or approval has been found.
 
 - Ecofin Agency reports that the Guinean government launched the drafting of a National Data Governance Strategy on 19 June 2026, led by the National Directorate of Information Technology and the Digital Economy (DNTIEN) ([source, 2026-06-19](https://www.ecofinagency.com/news/2606-56858-guinea-begins-work-on-national-data-governance-strategy)).
 
@@ -190,7 +190,7 @@ Kenya's national data governance policy was a final draft in May 2026 and still 
 
 ### Liberia: 2 Nascent
 
-Liberia's national data governance policy was a draft in March 2026, to be published once approved; approval is not known.
+Liberia's national data governance policy was a draft in March 2026, to be published once approved; no source found reports approval.
 
 - The Ministry of Posts and Telecommunications' National Data Governance Policy carries a cover reading draft, a Document Control version of Final dated March 2026, and a closing line that it will be published upon approval; the text records no approval or launch by the government ([source, 2026-03](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf)).
 
@@ -208,156 +208,156 @@ Mozambique's draft national data governance policy and strategy were validated i
 
 ### Sao Tome and Principe: 2 Nascent
 
-São Tomé and Príncipe had a data strategy and data governance policy in design in July 2025; nothing held says either is approved.
+São Tomé and Príncipe had a data strategy and data governance policy in design in July 2025; nothing found says either is approved.
 
 - INIC published version 1 (July 2025) of the design of the 2025-2030 data strategy and data governance policy, prepared by a consultant under a technical-assistance contract; it lists 'data governance policy approved' as a future indicator and says no data governance policy yet exists ([source, 2025-07](https://inic.gov.st/viewdoc.php?id=27)).
 
 ### Somalia: 2 Nascent
 
-Somalia validated a national data policy framework in 2026; whether the government has adopted it is not known.
+Somalia validated a national data policy framework in 2026; no source found says whether the government has adopted it.
 
 - A GIZ African Union post says Somalia validated a National Data Policy Framework, covering collection, management, sharing, classification, retention and data sovereignty, under the AU-GIZ Data Governance in Africa Initiative; it states validation only, not adoption, and does not date the validation, so the post date of 2026-03-13 is used ([source, 2026-03-13](https://www.linkedin.com/feed/update/urn:li:activity:7438141176852996097)).
 
 ### Tanzania: 2 Nascent
 
-Tanzania's electronic data governance strategy was validated at a workshop in March 2026; formal adoption is not known.
+Tanzania's electronic data governance strategy was validated at a workshop in March 2026; no source found reports formal adoption.
 
 - The UN Economic Commission for Africa reports that a national validation workshop for the Tanzania Electronic Data Governance Strategy (TZeDGS) was held in Dodoma on 12 March 2026, and that the Ministry of Communication and Information Technology's director reaffirmed commitment to advancing it toward formal adoption, so it was not yet adopted ([source, 2026-03-12](https://www.uneca.org/stories/the-blueprint-for-a-digital-sovereign-nation-tanzania-validates-its-landmark-electronic-data)).
 
 ### Tunisia: 2 Nascent
 
-Tunisia's national data strategy was a final draft in March 2026; whether the government has approved it is not known.
+Tunisia's national data strategy was a final draft in March 2026; no source found says whether the government has approved it.
 
 - The Tunisian open data portal's news lists a 27 March 2026 workshop presenting and discussing the final version of the draft national strategy for data governance, opening and valorisation ([source, 2026-03-27](https://data.gov.tn/fr/)).
 
 ### Zambia: 2 Nascent
 
-Zambia was drafting a national data policy in 2026; whether the government has adopted it is not known.
+Zambia was drafting a national data policy in 2026; no source found says whether the government has adopted it.
 
 - Research ICT Africa says it supported the drafting of the Zambian National Data Policy ([source, 2026-09](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)).
 
 ### Angola: No evidence
 
-Nothing held says Angola has a national data policy, or says it has none, so no stage is set.
+Nothing found says Angola has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Benin: No evidence
 
-A consultant was sought in November 2025 to write Benin's national data strategy; no drafting is held, so no stage is set.
+A consultant was sought in November 2025 to write Benin's national data strategy; no drafting has been found, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Burkina Faso: No evidence
 
-Nothing held says Burkina Faso has a national data policy, or says it has none, so no stage is set.
+Nothing found says Burkina Faso has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Cameroon: No evidence
 
-Nothing held says Cameroon has a national data policy, or says it has none, so no stage is set.
+Nothing found says Cameroon has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held says Central African Republic has a national data policy, or says it has none, so no stage is set.
+Nothing found says Central African Republic has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Djibouti: No evidence
 
-Nothing held says Djibouti has a national data policy, or says it has none, so no stage is set.
+Nothing found says Djibouti has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Egypt: No evidence
 
-Nothing held says Egypt has a national data policy, or says it has none, so no stage is set.
+Nothing found says Egypt has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held says Equatorial Guinea has a national data policy, or says it has none, so no stage is set.
+Nothing found says Equatorial Guinea has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held says Eritrea has a national data policy, or says it has none, so no stage is set.
+Nothing found says Eritrea has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Gabon: No evidence
 
-Nothing held says Gabon has a national data policy, or says it has none, so no stage is set.
+Nothing found says Gabon has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Madagascar: No evidence
 
-A consultant was sought in August 2025 to write Madagascar's data governance policy; no drafting is held, so no stage is set.
+A consultant was sought in August 2025 to write Madagascar's data governance policy; no drafting has been found, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Malawi: No evidence
 
-Nothing held says Malawi has a national data policy, or says it has none, so no stage is set.
+Nothing found says Malawi has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Mali: No evidence
 
-Nothing held says Mali has a national data policy, or says it has none, so no stage is set.
+Nothing found says Mali has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Mauritania: No evidence
 
-Nothing held says Mauritania has a national data policy, or says it has none, so no stage is set.
+Nothing found says Mauritania has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Namibia: No evidence
 
-Nothing held says Namibia has a national data policy, or says it has none, so no stage is set.
+Nothing found says Namibia has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Niger: No evidence
 
-Nothing held says Niger has a national data policy, or says it has none, so no stage is set.
+Nothing found says Niger has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Seychelles: No evidence
 
-Nothing held says Seychelles has a national data policy, or says it has none, so no stage is set.
+Nothing found says Seychelles has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held says South Sudan has a national data policy, or says it has none, so no stage is set.
+Nothing found says South Sudan has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Sudan: No evidence
 
-Nothing held says Sudan has a national data policy, or says it has none, so no stage is set.
+Nothing found says Sudan has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Togo: No evidence
 
-Nothing held says Togo has a national data policy, or says it has none, so no stage is set.
+Nothing found says Togo has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.
 
 ### Zimbabwe: No evidence
 
-Nothing held says Zimbabwe has a national data policy, or says it has none, so no stage is set.
+Nothing found says Zimbabwe has a national data policy, or says it has none, so no stage is set.
 
-Not established: Nothing held names a national data policy, or says there is none.
+Not established: Nothing found names a national data policy, or says there is none.

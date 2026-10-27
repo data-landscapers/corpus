@@ -6,8 +6,8 @@
 
 **Deaths digital.** [ANIP says a death declared by a health worker or a village or neighbourhood chief sets the person's status to deceased in the identification system and is registered automatically in the national civil status file](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [ANIP gives nearly 94% for births declared on time, which counts declarations, not registrations](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [ANIP gives nearly 94% for births declared on time, which counts declarations, not registrations](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>).
 
-***Noted, not assessed***. [ANIP BJ](<https://beninwebtv.com/benin-50-109-enfants-ont-obtenu-gratuitement-leur-acte-de-naissance-en-septembre/>); [Registre national des personnes physiques (RNPP)](<https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale>).
+***Also on file***. [ANIP BJ](<https://beninwebtv.com/benin-50-109-enfants-ont-obtenu-gratuitement-leur-acte-de-naissance-en-septembre/>); [Registre national des personnes physiques (RNPP)](<https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale>).
 
-***Not held***. No source held since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 puts birth registration at 90% or more.

@@ -6,8 +6,8 @@
 
 **Electronic payment.** [Eswatini Positive News reports Tax Ease provides integrated payments and simplified payment referencing for taxpayers](<https://eswatinipositivenews.com/ers-launches-tax-portal/>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://eswatinipositivenews.com/ers-launches-tax-portal/>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://eswatinipositivenews.com/ers-launches-tax-portal/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

@@ -42,9 +42,9 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No regulation or decree applying the law, and no rule made under it that others must "
          "check identity against the system, dated in the last three years, is held.",
-    "3": "No source held says the law in force provides for a biometric register, an identity "
+    "3": "No source found says the law in force provides for a biometric register, an identity "
          "number unique to each person, or an identity that can be checked electronically.",
-    "2": "No source held says a national identity law is in force.",
+    "2": "No source found says a national identity law is in force.",
     "1": "",
 }
 
@@ -85,7 +85,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "cover": "", "sources": [],
-                "gaps": "Nothing held names a national identity law or bill, or says there is none."}
+                "gaps": "Nothing found names a national identity law or bill, or says there is none."}
     if law and digital and applied:
         s, src = "5", applied + digital[:1] + law[:1]
     elif law and digital:

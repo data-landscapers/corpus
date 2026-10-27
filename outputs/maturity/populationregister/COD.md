@@ -8,6 +8,6 @@
 
 **Source for others.** [ONIP's legal expert said the FGP is the single data source for producing all secure titles and documents](<https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/>).
 
-***Noted, not assessed***. [Fichier general de la population (FGP)](<https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/>).
+***Also on file***. [Fichier general de la population (FGP)](<https://acp.cd/genre/enregistrement-a-letat-civil-le-renforcement-de-la-communication-recommande-a-la-rdc-2/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

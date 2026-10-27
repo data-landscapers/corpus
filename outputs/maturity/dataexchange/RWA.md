@@ -6,8 +6,8 @@
 
 **Many systems connected.** [DIAL reports Irembo works with key systems and registries from over 35 partners across the government through an API](<https://dial.global/modern-governments-run-on-data-exemplars/>).
 
-**Use reported.** No source held since October 2023 gives a figure for the exchanges through the platform. The nearest held fact: [the one given above](<https://dial.global/modern-governments-run-on-data-exemplars/>).
+**Use reported.** No source found since October 2023 gives a figure for the exchanges through the platform. The nearest held fact: [the one given above](<https://dial.global/modern-governments-run-on-data-exemplars/>).
 
-***Noted, not assessed***. [ESB (upgraded)](<https://www.risa.gov.rw/index.php?eID=dumpFile&f=151133&t=f&token=ea2f00488a3d4ebb4cde95d0c365c403869d9fb7>); [Smart Africa Data Exchange (SADX)](<https://techafricanews.com/2025/12/19/smart-africa-partners-ascend-digital-solutions-to-pilot-cross-border-data-exchange-platform/>).
+***Also on file***. [ESB (upgraded)](<https://www.risa.gov.rw/index.php?eID=dumpFile&f=151133&t=f&token=ea2f00488a3d4ebb4cde95d0c365c403869d9fb7>); [Smart Africa Data Exchange (SADX)](<https://techafricanews.com/2025/12/19/smart-africa-partners-ascend-digital-solutions-to-pilot-cross-border-data-exchange-platform/>).
 
-***Not held***. No source held since October 2023 gives a figure for the exchanges through the platform.
+***Not found***. No source found since October 2023 gives a figure for the exchanges through the platform.

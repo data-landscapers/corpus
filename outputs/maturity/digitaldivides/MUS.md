@@ -2,6 +2,6 @@
 
 ## Rural internet gap
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 says whether a programme to connect rural areas is under way.
+***Not found***. Nothing found since October 2023 says whether a programme to connect rural areas is under way.

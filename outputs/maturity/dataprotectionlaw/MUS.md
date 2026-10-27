@@ -12,6 +12,6 @@
 
 **Last twelve months.** The Minister [made regulations on 17 June 2026 requiring every controller to designate a data protection officer](<https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf>), to come into operation on 1 January 2027. The Commissioner [said in May 2026 that Mauritius is going for the EU adequacy assessment in 2026](<https://www.biometricupdate.com/202605/theres-no-digital-id-without-data-protection-mauritius-privacy-chief>), and [amendments to bring in administrative fines are being introduced](<https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula>). In July 2026 the ICT Minister [spoke of forthcoming amendments to the Act](<https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figures for 2025 are held. The draft bill to amend the Act for EU adequacy carries no date beyond 2024, and the 2026 regulations are not yet in operation.
+***Not found***. No figures for 2025 have been found. The draft bill to amend the Act for EU adequacy carries no date beyond 2024, and the 2026 regulations are not yet in operation.

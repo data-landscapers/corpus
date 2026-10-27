@@ -6,6 +6,6 @@
 
 **Use of the law.** The 2025 amendment, assented on 22 December 2025, [adds search and interception powers](<https://www.gazette.sc/sites/default/files/2025-12/Act%2023%202025%20-%20Cybercrimes%20and%20other%20Related%20Crimes%20%28Amendment%29%20Act%202025.pdf>) to the Act alongside the wider offences. These are powers for investigating offences under it. The amendment states no commencement date of its own. Both texts are published in the official gazette. They sit on top of the 2021 Act, which replaced the earlier Computer Misuse Act, [Cap 254](<https://www.gazette.sc/sites/default/files/2021-12/Act%2059%20-%20Cybercrimes%20and%20other%20Related%20Crimes%20Act%202021.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

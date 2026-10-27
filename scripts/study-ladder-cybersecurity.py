@@ -41,9 +41,9 @@ QS = (("foundation", ("body", "strategy"), 0), ("response", ("responded",), 36),
       ("cii", ("designated",), 0), ("figures", ("published",), 24))
 GAPS = {
     "5": "",
-    "4": "No source held says the national body published a count of incidents for a period ending since September 2024.",
-    "3": "No source held says the country has designated its critical information infrastructure.",
-    "2": "No source held says the national body handled an incident or issued a public alert since October 2023.",
+    "4": "No source found says the national body published a count of incidents for a period ending since September 2024.",
+    "3": "No source found says the country has designated its critical information infrastructure.",
+    "2": "No source found says the national body handled an incident or issued a public alert since October 2023.",
     "1": "",
 }
 PERIOD = re.compile(r"\b(20\d\d)\s*(?:-|–|to)\s*(20\d\d)\b")
@@ -87,7 +87,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
                   key=lambda p: p[0], reverse=True)
     if not live:
         return {"stage": "no evidence", "sources": [], "values": {},
-                "gaps": "Nothing held says whether the country has a cybersecurity strategy or a national cyber body."}
+                "gaps": "Nothing found says whether the country has a cybersecurity strategy or a national cyber body."}
     hit = {}
     for k, vals, months in QS:
         floor = study_lib.months_back(as_at, months) if months else dt.date.min
@@ -103,7 +103,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
             values["foundation"] = "none"
             return {"stage": "1", "sources": [none["row_id"]], "values": values, "gaps": ""}
         return {"stage": "unplaced", "sources": [], "values": values,
-                "gaps": "No source held says the country adopted a cybersecurity strategy or created a national "
+                "gaps": "No source found says the country adopted a cybersecurity strategy or created a national "
                         "cyber body, or that it has neither."}
     sources = [hit[k]["row_id"] for k, _, _ in reversed(QS[:top]) if hit[k]][:3]
     return {"stage": str(top + 1), "sources": sources, "values": values, "gaps": GAPS[str(top + 1)]}

@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "AGO-001",
-   "gaps": "No source held shows an adopted strategy whose period is still running.",
+   "gaps": "No source found shows an adopted strategy whose period is still running.",
    "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
   }
  ]

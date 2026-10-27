@@ -6,8 +6,8 @@
 
 **Several bodies.** A second body runs its own AI chatbot. On 24 February 2025 the Lagos State Domestic and Sexual Violence Agency [announced Ask INU](<https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors>), a WhatsApp chatbot that gives survivors information and referrals at once, launched beside a [self-reporting portal for domestic violence survivors](<https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors>). The Federal Ministry of Education [runs AskFME](<https://edtechhub.org/case-study/the-ai-adviser-who-supported-a-ministry-to-build-their-own-tool/>), an AI service desk on WhatsApp that resolved 97.3% of queries without a human, EdTech Hub reported in August 2026.
 
-**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [GovGuide launch](<https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/>), which states no rules for its use.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [GovGuide launch](<https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/>), which states no rules for its use.
 
-***Noted, not assessed***. [N-ATLAS language model](<https://techcabal.com/2026/10/26/government-ai-adoption-in-africa/>); [Domestic and Sexual Violence Case Management System (DSVCMS)](<https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors>).
+***Also on file***. [N-ATLAS language model](<https://techcabal.com/2026/10/26/government-ai-adoption-in-africa/>); [Domestic and Sexual Violence Case Management System (DSVCMS)](<https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-ai-chatbot-and-self-reporting-portal-for-domestic-violence-survivors>).
 
-***Not held***. Rules or a register for the government's own use of AI are not known.
+***Not found***. No source found reports rules or a register for the government's own use of AI.

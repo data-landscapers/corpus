@@ -170,186 +170,186 @@ In 2025, information and communication employed 0.25 per cent of all workers.
 
 ### Algeria: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Benin: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Burundi: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Cameroon: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Cape Verde: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Chad: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Comoros: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Cote d'Ivoire: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### DR Congo: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Ethiopia: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Guinea: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Guinea-Bissau: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Kenya: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Liberia: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Madagascar: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Mauritania: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Mozambique: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Niger: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Sao Tome and Principe: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Sierra Leone: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Somalia: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Sudan: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Togo: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Uganda: Unplaced
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for employment in information and communication.
+Not established: No figure for 2023 or later has been found for employment in information and communication.
 
 ### Central African Republic: No evidence
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives employment in information and communication.
+Not established: Nothing found gives employment in information and communication.
 
 ### Congo: No evidence
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives employment in information and communication.
+Not established: Nothing found gives employment in information and communication.
 
 ### Eritrea: No evidence
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives employment in information and communication.
+Not established: Nothing found gives employment in information and communication.
 
 ### Libya: No evidence
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives employment in information and communication.
+Not established: Nothing found gives employment in information and communication.
 
 ### Morocco: No evidence
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives employment in information and communication.
+Not established: Nothing found gives employment in information and communication.
 
 ### South Africa: No evidence
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives employment in information and communication.
+Not established: Nothing found gives employment in information and communication.
 
 ### South Sudan: No evidence
 
-No figure for employment in information and communication is held for 2023 or later, so no stage is set.
+No figure for employment in information and communication has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives employment in information and communication.
+Not established: Nothing found gives employment in information and communication.

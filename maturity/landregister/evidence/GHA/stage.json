@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-002;GHA-004",
-      "gaps": "No source held since October 2023 says the digital land register covers the whole country.",
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
       "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
       "as_at": "2026-10-23"
     }

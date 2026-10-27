@@ -8,6 +8,6 @@
 
 **Results reported.** The trade ministry's cross-checking [flagged 1,013 economic operators whose import files held identical documents](<https://www.algerie360.com/importations-suspectes-en-algerie-lia-demasque-des-documents-identiques-chez-plus-de-1000-operateurs/>), including 278 identical social security declarations and 56 files sharing one tax number.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

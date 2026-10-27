@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/>).
 
-***Noted, not assessed***. [PAPSS](<https://thecondia.com/remita-launches-super-app/>); [Remita](<https://thecondia.com/remita-launches-super-app/>).
+***Also on file***. [PAPSS](<https://thecondia.com/remita-launches-super-app/>); [Remita](<https://thecondia.com/remita-launches-super-app/>).
 
-***Not held***. No survey held since October 2023 puts adults with an account at 79% or more.
+***Not found***. No survey held since October 2023 puts adults with an account at 79% or more.

@@ -6,8 +6,8 @@
 
 **Open for checking.** [The Ministry of the Interior says citizens can check their registration on the electoral roll and their polling centre online at www.consultation.listelectorale.ga by entering their NIP and name](<https://www.interieur.gouv.ga/9-actualites/601-verifiez-votre-inscription-et-consultez-votre-centre-de-vote-en-quelques-clics-/>).
 
-**Linked to ID.** No source held since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.interieur.gouv.ga/9-actualites/601-verifiez-votre-inscription-et-consultez-votre-centre-de-vote-en-quelques-clics-/>).
+**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://www.interieur.gouv.ga/9-actualites/601-verifiez-votre-inscription-et-consultez-votre-centre-de-vote-en-quelques-clics-/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

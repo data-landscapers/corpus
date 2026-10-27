@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The nearest held fact is the same membership. [ISO's member page lists the OCC as the DRC's ISO member body](<https://www.iso.org/member/308894.html>), and the office, writing in April 2024, [places itself in the IEC affiliate country programme](<https://www.occ.cd/2024/04/25/participation-de-locc-a-la-8eme-edition-de-la-semaine-francaise-de-kinshasa/>) alongside its ISO membership.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard, a rule requiring public bodies to meet one, or a seat on an ISO or IEC committee.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard, a rule requiring public bodies to meet one, or a seat on an ISO or IEC committee.

@@ -8,6 +8,6 @@
 
 **Use reported.** [Mishra gave a figure for use: the existing e-procurement portal is used by less than 5% of public entities](<https://www.namibian.com.na/world-bank-recommends-end-to-end-e-government-procurement-system/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives the tenders, value or share of purchasing through e-procurement.
+***Not found***. No source found since October 2023 gives the tenders, value or share of purchasing through e-procurement.

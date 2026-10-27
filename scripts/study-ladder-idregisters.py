@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "idregisters"
 SUB = "registers"
-GAPS = {'4': 'No source held since October 2023 gives a figure from checking a register against the ID.', '3': 'No source held since October 2023 shows three or more main public registers using the national ID number.', '2': 'No source held since October 2023 says: is one public register keyed on it.', '1': "No source held since October 2023 says: is another register's use of the id number under way.", '5': ''}
-EMPTY = 'Nothing held says whether public registers use the national ID number.'
-UNPLACED = 'Nothing held since October 2023 says whether public registers use the national ID number.'
+GAPS = {'4': 'No source found since October 2023 gives a figure from checking a register against the ID.', '3': 'No source found since October 2023 shows three or more main public registers using the national ID number.', '2': 'No source found since October 2023 says: is one public register keyed on it.', '1': "No source found since October 2023 says: is another register's use of the id number under way.", '5': ''}
+EMPTY = 'Nothing found says whether public registers use the national ID number.'
+UNPLACED = 'Nothing found since October 2023 says whether public registers use the national ID number.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

@@ -6,8 +6,8 @@
 
 **AI computing.** [TechCabal reports Udu Technologies operates its Africa GPU Hub through the AGH Cloud platform, with deployments in Nigeria and the United States](<https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/>). On 26 October 2026 INFRAGORA Global Capital said it [plans to start building two AI-ready data centres in Nigeria in 2027 under its AFRIDATA platform](<https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/>).
 
-**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/>).
 
-***Noted, not assessed***. [AFRIDATA data centres](<https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/>).
+***Also on file***. [AFRIDATA data centres](<https://techcabal.com/2026/10/26/infragora-1-billion-data-centres/>).
 
-***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named users.
+***Not found***. No source found since October 2023 says national AI computing, models or datasets are open to named users.

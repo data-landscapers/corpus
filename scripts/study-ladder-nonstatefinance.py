@@ -50,8 +50,8 @@ GAPS = {
     "3": "No source from 2024 on names an amount put in by a bank, pension fund, insurer, "
          "investor or company of the country itself, or raised on the country's own market.",
     "2 no": "Every amount held from 2024 on was signed or started in the same year.",
-    "2": "Only one amount is held from 2024 on, so whether private money came in more than "
-         "one year is not known.",
+    "2": "Only one amount is held from 2024 on, so no source found says whether private money "
+         "came in more than one year.",
 }
 
 
@@ -93,7 +93,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     blank = {a: "" for a in ASPECTS} | {"sources": []}
     if not rows:
         return {"stage": "no evidence", **blank,
-                "gaps": "Nothing held names private money put into a digital business in the "
+                "gaps": "Nothing found names private money put into a digital business in the "
                         "country, or says there is none."}
     committed, none = of("money", "committed"), of("money", "none")
     raised, brought = of("home", "raised"), of("state", "brought")

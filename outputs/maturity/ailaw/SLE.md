@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no specific AI legislation enacted by September 2026](<https://sierraloaded.sl/news/sierra-leone-unesco-governance-saudi-arabia/>), there is no general AI law to apply. The minister set out a national position on AI to UNESCO without naming a law to carry it, and the report gives no account of what that position requires of anyone. No rule for one sector or one use that names AI is recorded.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. 
+***Not found***. 

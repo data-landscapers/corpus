@@ -8,6 +8,6 @@
 
 **Share published.** [NITDA's director general said in February 2026 that the 54,377 civil servants enrolled were nearly 79 per cent participation, and that over 40 per cent had completed](<https://nitda.gov.ng/digital-literacy-a-catalyst-for-strengthening-public-service-capacity/9342/>); [Punch puts enrolment at 65 to 75 per cent of the federal civil service workforce, with completion of 38.1 to 44.6 per cent across the four modules](<https://punchng.com/fg-trains-civil-servants-in-digital-skills/>).
 
-***Noted, not assessed***. [National Digital Literacy Framework](<https://techtrends.africa/why-the-digital-skills-gap-in-african-governments-is-now-a-national-security-issue/>).
+***Also on file***. [National Digital Literacy Framework](<https://techtrends.africa/why-the-digital-skills-gap-in-african-governments-is-now-a-national-security-issue/>).
 
-***Not held***. The shares given are for the federal civil service; nothing held gives the share for state civil services.
+***Not found***. The shares given are for the federal civil service; nothing found gives the share for state civil services.

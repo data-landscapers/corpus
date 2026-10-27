@@ -6,8 +6,8 @@
 
 **Hosted nationally.** [Al-Watwan reports the recent opening of the first data centre of the public administration, which minister Oumouri Mmadi Hassani calls an important advance for digital sovereignty](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>).
 
-**Contract terms.** No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>).
 
-***Noted, not assessed***. [Stratégie nationale de gouvernance des données](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>); [Data Center of the Public Administration](<http://web.archive.org/web/20260824175002/https://dig.watch/countries/comoros>).
+***Also on file***. [Stratégie nationale de gouvernance des données](<https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html>); [Data Center of the Public Administration](<http://web.archive.org/web/20260824175002/https://dig.watch/countries/comoros>).
 
-***Not held***. No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.

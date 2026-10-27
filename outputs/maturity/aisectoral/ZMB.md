@@ -8,6 +8,6 @@
 
 **Results reported.** The technology minister said in June 2024 that [AI raised ZRA's capacity to collect revenue by 60% in the past two years](<https://www.mots.gov.zm/?p=3787>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

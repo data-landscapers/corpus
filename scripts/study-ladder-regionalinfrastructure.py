@@ -38,11 +38,11 @@ import study_lib  # noqa: E402
 STUDY = "regionalinfrastructure"
 GAPS = {
     "5": "Nothing on the four questions.",
-    "4": "No source held reports the link or facility carrying another country's traffic in "
+    "4": "No source found reports the link or facility carrying another country's traffic in "
          "the last three years: capacity sold or traffic carried across the border, or a user "
          "from the other country named.",
-    "3": "No source held says a shared link or facility is in service.",
-    "2": "No source held says building has started in the last three years.",
+    "3": "No source found says a shared link or facility is in service.",
+    "2": "No source found says building has started in the last three years.",
     "1": "",
 }
 
@@ -87,7 +87,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         r["row_id"] for d, r in live if r["value"] == "none" and d >= three][:2]
     if not rows:
         return {"stage": "no evidence", "built": "", "service": "", "sources": [],
-                "gaps": "Nothing held names a digital link or facility the country shares with "
+                "gaps": "Nothing found names a digital link or facility the country shares with "
                         "another African country, or says it has none."}
     if in_use:
         s, src = "5", in_use + [r for r in service if r not in in_use][:1]

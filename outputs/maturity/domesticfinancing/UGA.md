@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The Uganda Communications Universal Service and Access Fund is paid by a levy of 2% of operators' gross annual revenue. In 2026 ATC Uganda [paid 20.9 billion shillings into it](<https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/>), half of which goes to the Consolidated Fund and half is kept for the fund. On 29 September 2026 the Uganda Communications Commission [sought a partner to run Phase III of the National e-Booster Programme](<https://pmldaily.com/news/2026/09/ucc-seeks-partner-to-accelerate-local-ict-innovations-under-third-e-booster-phase.html>) through the fund for 2026/27.
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Nothing: all four questions are answered.
+***Not found***. Nothing: all four questions are answered.

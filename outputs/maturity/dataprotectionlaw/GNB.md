@@ -12,6 +12,6 @@
 
 **Last twelve months.** At an ECOWAS Court conference in Dakar on 22 September 2026, the professor said the bill provides for what it calls a ["Data Protection Agency"](<https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/>), and that its membership puts its independence at risk.
 
-***Noted, not assessed***. The [Malabo Convention](<https://ang.gw/cnt-aprova-com-alteracoes-lei-contra-divulgacao-de-falsas-informacoes-nas-redes-sociais/>); the [Política Nacional de Governança e Proteção de Dados](<https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/>).
+***Also on file***. The [Malabo Convention](<https://ang.gw/cnt-aprova-com-alteracoes-lei-contra-divulgacao-de-falsas-informacoes-nas-redes-sociais/>); the [Política Nacional de Governança e Proteção de Dados](<https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/>).
 
-***Not held***. No law is enacted, and where the bill stands is not known: nothing shows it has moved since it was reported as awaiting discussion in 2025. Nothing is held on regulations or on any decision.
+***Not found***. No law is enacted, and no source found says where the bill stands: nothing shows it has moved since it was reported as awaiting discussion in 2025. Nothing is held on regulations or on any decision.

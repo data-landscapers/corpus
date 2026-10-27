@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The nearest held fact is the draft, [the Access and Receipt of Information Bill of 2000](<https://pub.sbc4d.com/2022/lesotho_full_final.pdf>). A bill makes no rules and sets up no oversight body until it is passed, promulgated and in force. Once it is, what would put it to work is a decree or regulation made under it, or an information commission or commissioner appointed, and what would show it applied is a decision or penalty on a request for information, or published figures of requests.
 
-***Noted, not assessed***. [Lesotho Open Data Initiative (LODI)](<https://pub.sbc4d.com/2022/lesotho_full_final.pdf>).
+***Also on file***. [Lesotho Open Data Initiative (LODI)](<https://pub.sbc4d.com/2022/lesotho_full_final.pdf>).
 
-***Not held***. No source held says an access to information law is in force.
+***Not found***. No source found says an access to information law is in force.

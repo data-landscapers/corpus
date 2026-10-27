@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** [Jones Day](<https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code>) reports that the Digital Code, which covers e-commerce, cryptology service providers, data protection and cybersecurity in eight volumes, is to be supplemented by regulatory decrees. The Code passed the National Assembly on 30 June 2025, and the decrees are the rules that are to follow it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether the Digital Code has been promulgated, is in force or has regulatory decrees is not held.
+***Not found***. Whether the Digital Code has been promulgated, is in force or has regulatory decrees is not held.

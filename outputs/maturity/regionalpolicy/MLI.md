@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The nearest held fact is [the convention of September 2026](<https://lefaso.net/spip.php?article149528>), which covers harmonised rules and free roaming; the council is not reported as at work in Mali. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
 
-***Noted, not assessed***. [Free roaming across the AES](<https://lefaso.net/spip.php?article149528>).
+***Also on file***. [Free roaming across the AES](<https://lefaso.net/spip.php?article149528>).
 
-***Not held***. No source held says a thing the country agreed has been put into effect.
+***Not found***. No source found says a thing the country agreed has been put into effect.

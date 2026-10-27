@@ -6,8 +6,8 @@
 
 **Several sectors.** Health is the only sector held with AI in service. The nearest held fact elsewhere is the [agriculture call-centre assistant](<https://visionmedia.rw/Rwanda-expands-use-of-AI-to-reach-millions-of-farmers-with-timely-advice.html>), still in testing in 2026, with [satellite and AI land mapping tested in four districts](<https://www.bmz-digital.global/en/digital-maps-agriculture-rwanda/>).
 
-**Results reported.** No measured results of a sectoral AI system in service are held. The [case study](<https://www.theglobalfund.org/media/spalexqj/publication_rwanda-digital-health_casestudy_en.pdf>) describes the TB tools without figures.
+**Results reported.** No measured results of a sectoral AI system in service have been found. The [case study](<https://www.theglobalfund.org/media/spalexqj/publication_rwanda-digital-health_casestudy_en.pdf>) describes the TB tools without figures.
 
-***Noted, not assessed***. [Kubaka.gov.rw](<https://www.linkedin.com/posts/ishimwe-romalice_yesterday-our-team-at-the-rwanda-ministry-activity-7391804455949676544-5skC>).
+***Also on file***. [Kubaka.gov.rw](<https://www.linkedin.com/posts/ishimwe-romalice_yesterday-our-team-at-the-rwanda-ministry-activity-7391804455949676544-5skC>).
 
-***Not held***. AI in service in a second sector, and measured results of a sectoral AI system, are not known.
+***Not found***. No source found reports AI in service in a second sector, and measured results of a sectoral AI system.

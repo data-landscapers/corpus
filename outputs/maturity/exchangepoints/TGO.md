@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [TGIX members registered outside Togo include PCH (two ASNs, United States), and GVA (Côte d'Ivoire), per ISOC Pulse/PeeringDB; 6 of 9 members are registered in Togo](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/677/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. [Lomé Data Centre](<https://lomedatacentre.tg/en/n-home-page-en/>); [IXP (WARCIP Togo)](<https://numerique.gouv.tg/actualites/discours-de-madame-le-ministre-a-loccasion-de-latelier-sur-la-politique-sectorielle-2018-2022>).
+***Also on file***. [Lomé Data Centre](<https://lomedatacentre.tg/en/n-home-page-en/>); [IXP (WARCIP Togo)](<https://numerique.gouv.tg/actualites/discours-de-madame-le-ministre-a-loccasion-de-latelier-sur-la-politique-sectorielle-2018-2022>).
 
-***Not held***. No source held says a global content network has a cache at the exchange or peers there.
+***Not found***. No source found says a global content network has a cache at the exchange or peers there.

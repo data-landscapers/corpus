@@ -12,6 +12,6 @@
 
 **Last twelve months.** For Data Privacy Week, 26 to 30 January 2026, the authority [adopted the theme "Compliance is Beyond Registration"](<https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors>). It moved from the awareness phase of 2022 to 2024 to capacity building, and [now expects controllers to prove that they comply](<https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source says whether regulations under the Act have been issued or are pending. No dated sanction or decision under the Act is on record, and no count of decisions is published.
+***Not found***. No source says whether regulations under the Act have been issued or are pending. No dated sanction or decision under the Act is on record, and no count of decisions is published.

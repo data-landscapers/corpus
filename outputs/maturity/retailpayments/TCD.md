@@ -8,6 +8,6 @@
 
 **National switch.** [AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including Chad](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Noted, not assessed***. [GIMACPAY](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>).
+***Also on file***. [GIMACPAY](<https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

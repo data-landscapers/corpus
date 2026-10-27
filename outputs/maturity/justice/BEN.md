@@ -8,6 +8,6 @@
 
 **Open online.** [La Nation reports the Cotonou commercial court platform lets the public check a case's status online and the site lets users download court decisions (2021, before the three-year window)](<http://news.acotonou.com/h/133135.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says judgments are published or case status can be looked up online.
+***Not found***. No source found since October 2023 says judgments are published or case status can be looked up online.

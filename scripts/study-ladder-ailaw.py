@@ -39,8 +39,8 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No regulation or order made under the law, and no registration, licence, decision or "
          "penalty by the body it names, dated in the last three years, is held.",
-    "3": "No source held says a law on AI itself, applying across sectors, is in force.",
-    "2": "No source held says a law, decree or regulation that sets a rule for AI is in force.",
+    "3": "No source found says a law on AI itself, applying across sectors, is in force.",
+    "2": "No source found says a law, decree or regulation that sets a rule for AI is in force.",
     "1": "",
 }
 
@@ -81,7 +81,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "reach": "", "sources": [],
-                "gaps": "Nothing held names a law or binding rule on AI, or a draft of one, or says "
+                "gaps": "Nothing found names a law or binding rule on AI, or a draft of one, or says "
                         "there is none."}
     if general and applied:
         s, src = "5", applied + general[:1]

@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "educationmis"
 SUB = "emis"
-GAPS = {'4': 'No source held since October 2023 says learner records are linked to the national ID or another government system.', '3': 'No source held since October 2023 says the system holds a record for each learner.', '2': 'No source held since October 2023 says: is the school census run through it.', '1': 'No source held since October 2023 says: is an education information system under way.', '5': ''}
-EMPTY = 'Nothing held says whether the education ministry holds its statistics in an information system.'
-UNPLACED = 'Nothing held since October 2023 says whether an education information system is under way or in service.'
+GAPS = {'4': 'No source found since October 2023 says learner records are linked to the national ID or another government system.', '3': 'No source found since October 2023 says the system holds a record for each learner.', '2': 'No source found since October 2023 says: is the school census run through it.', '1': 'No source found since October 2023 says: is an education information system under way.', '5': ''}
+EMPTY = 'Nothing found says whether the education ministry holds its statistics in an information system.'
+UNPLACED = 'Nothing found since October 2023 says whether an education information system is under way or in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** Rules followed within months. [The Minister of Information and Media made the Access to Information (General) Regulations, 2025, setting request forms, fees and procedures, signed on 20 August 2025](<https://zambialii.org/akn/zm/act/si/2025/56/eng@2025-08-29/source>). [The Human Rights Commission, which the Act names as its oversight body, issued guidelines under it on 5 December 2025](<https://hrc.org.zm/wp-content/uploads/2025/12/Access-To-Information-Guidelines_2025.pdf>). [Court rules under the Act were still being finalised in July 2026](<https://diggers.news/local/2026/07/25/were-in-the-final-stage-of-operationalising-the-ati-act-govt/>). Rules made in the last three years are counted as the law applied; a decision on a request is not recorded.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

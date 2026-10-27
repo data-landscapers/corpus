@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** A rule was made under the law in 2026. [Presidential Decree 43/26 of 10 March 2026](<https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/>) is the organic statute of the statistics institute. It sets the institute up as the central executive body of the national statistical system under the statistics law and revokes the statute of 2017.
 
-***Noted, not assessed***. [Estratégia nacional de desenvolvimento da estatística](<https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/>); [Conselho Nacional de Estatística](<https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/>).
+***Also on file***. [Estratégia nacional de desenvolvimento da estatística](<https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/>); [Conselho Nacional de Estatística](<https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/>).
 
-***Not held***. No source held shows the statistics council meeting or a penalty under the law.
+***Not found***. No source found shows the statistics council meeting or a penalty under the law.

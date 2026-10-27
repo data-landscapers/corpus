@@ -6,6 +6,6 @@
 
 **Standards required and checked.** The department's reply ties the standards to the 2023 Public Service Regulations, under which [each department's government IT officer must ensure the interoperability of its ICT systems](<https://pmg.org.za/committee-question/32258/>). [The Vulindlela report](<https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf>) says the updated standards were due to be tested in priority digital service initiatives by September 2026, a trial of the standards themselves in the services chosen to try them.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a law, decree, regulation or circular makes the standards compulsory for the systems public bodies build or buy, or that the updated edition has been issued.
+***Not found***. No source found says a law, decree, regulation or circular makes the standards compulsory for the systems public bodies build or buy, or that the updated edition has been issued.

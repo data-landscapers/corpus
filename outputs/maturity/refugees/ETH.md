@@ -8,6 +8,6 @@
 
 **Inclusion counted.** [The World Bank mission gives approximately 170,000 digital ID issuances to refugees](<https://documents1.worldbank.org/curated/en/099051826153515642/pdf/P179040-74a164c1-0bb2-49b6-8b5f-2da36395da02.pdf>). [The World Bank ISR gives 191,335 refugees with a Fayda ID at 23 March 2026](<https://documents1.worldbank.org/curated/en/099051826154014658/pdf/P179040-a6dcbb64-0dbc-48cc-9c1d-eecfc41d1d44.pdf>).
 
-***Noted, not assessed***. [Fayda](<https://documents1.worldbank.org/curated/en/099112223132535848/pdf/BOSIB0efb09b920d90858a0135df22da7d1.pdf>).
+***Also on file***. [Fayda](<https://documents1.worldbank.org/curated/en/099112223132535848/pdf/BOSIB0efb09b920d90858a0135df22da7d1.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

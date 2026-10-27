@@ -6,6 +6,6 @@
 
 **Use of the law.** The same [law](<https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/110002/152017.pdf>) is the nearest held fact on use. It gives the Polícia Judiciária a round-the-clock contact point, available twenty-four hours a day, seven days a week, for the procedural powers it creates, and the Assembleia Nacional passed the law itself. The [law](<https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/110002/152017.pdf>) was passed in June 2017 and published in October 2017, and it creates computer-crime offences and procedural powers that apply from about November 2017, when it enters into force.
 
-***Noted, not assessed***. [Ponto de contacto permanente 24/7 (Polícia Judiciária)](<https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/110002/152017.pdf>).
+***Also on file***. [Ponto de contacto permanente 24/7 (Polícia Judiciária)](<https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/110002/152017.pdf>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

@@ -6,8 +6,8 @@
 
 **Several bodies.** Two bodies are held with AI in service: the [Civil Aviation Authority](<https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876>) and [NITA-U](<https://www.newvision.co.ug/category/news/govt-to-launch-national-ai-strategy-this-year-NV_241670_102026>). Others are a step behind: the Uganda Communications Commission is [procuring an AI system to filter harmful content](<https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media>), and in September 2026 the police [demonstrated an AI chatbot for public access to police services](<https://allafrica.com/stories/202609030622.html>), not yet launched.
 
-**Rules or register.** Nothing held shows rules or a register for the government's own use of AI. The nearest held fact is the [Communications Commission procurement](<https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media>), for which no cost, vendor or date was given.
+**Rules or register.** Nothing found shows rules or a register for the government's own use of AI. The nearest held fact is the [Communications Commission procurement](<https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media>), for which no cost, vendor or date was given.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Rules or a register for the government's own use of AI are not known.
+***Not found***. No source found reports rules or a register for the government's own use of AI.

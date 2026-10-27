@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** The 2023 amendment [adds a card for non-resident citizens and new rules on disclosing card information](<https://www.gazette.sc/sites/default/files/2023-11/Act%2022%20-%202023%20-%20Miscellaneous%20Amendments%20Act%202023.pdf>). The first is a new section 4A of the identity cards Act. Those are the changes to the law on record, and neither is described as setting up a biometric register or an identity that is checked electronically. The Act is the country's identity law and has no replacement bill on record. The 2023 Act is the newest amendment to it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.
+***Not found***. No source found says the law in force provides for a biometric register, an identity number unique to each person, or an identity that can be checked electronically.

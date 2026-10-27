@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GIN-001",
-   "gaps": "No source held since October 2023 says: is the school census run through it.",
+   "gaps": "No source found since October 2023 says: is the school census run through it.",
    "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
   }
  ]

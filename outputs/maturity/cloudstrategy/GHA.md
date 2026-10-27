@@ -6,6 +6,6 @@
 
 **Named hosting and moves.** After the [workshop](<https://moc.gov.gh/2024/06/26/government-working-to-host-all-data-centres-locally/>) the minister said the government is working to have all its data held in other countries hosted in Ghana. Data produced in the country must be stored there, she said, and the large cloud operators are welcome to build data centres in Ghana; paying to host data abroad, to have it managed and to retrieve it means paying twice. She said local data centres would also create jobs.
 
-***Noted, not assessed***. [Bank of Ghana localisation of critical financial workloads](<https://www.myjoyonline.com/ghanas-ai-future-will-be-decided-by-infrastructure-not-ambition/>); [Onix data centre, Accra](<https://data-landscapers.com/2026/06/11/sovereign-infrastructure/>).
+***Also on file***. [Bank of Ghana localisation of critical financial workloads](<https://www.myjoyonline.com/ghanas-ai-future-will-be-decided-by-infrastructure-not-ambition/>); [Onix data centre, Accra](<https://data-landscapers.com/2026/06/11/sovereign-infrastructure/>).
 
-***Not held***. No source held says a government hosting or cloud policy is adopted and in force.
+***Not found***. No source found says a government hosting or cloud policy is adopted and in force.

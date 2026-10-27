@@ -8,6 +8,6 @@
 
 **Enforced.** The nearest held fact is [the penalty article 576 sets for an undisclosed montage](<https://www.lanation.bj/numerique/images-retouchees-par-lintelligence-artificielle-les-limites-a-ne-pas-franchir>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a body is designated by law or decree with a mandate over AI, or records a decision enforcing a rule against a harm from AI.
+***Not found***. No source found says a body is designated by law or decree with a mandate over AI, or records a decision enforcing a rule against a harm from AI.

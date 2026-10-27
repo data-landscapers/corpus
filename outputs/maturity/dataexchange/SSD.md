@@ -2,6 +2,6 @@
 
 ## National data exchange system
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a government data exchange platform, or says there is none.
+***Not found***. Nothing found names a government data exchange platform, or says there is none.

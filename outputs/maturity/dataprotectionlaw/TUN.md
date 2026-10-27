@@ -12,6 +12,6 @@
 
 **Last twelve months.** The Rights and Freedoms Committee [scheduled a hearing of the sponsoring deputies on 17 February 2026](<https://www.arp.tn/reunion/details/7625>) and [began examining the articles of the bill's first title that month](<https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/>), a text that [adds rules on artificial intelligence, surveillance cameras and health data](<https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/>). Tech Hive Advisory [lists Tunisia among countries moving to amend an existing law in January and February 2026](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation made under organic law no. 2004-63 is held, and no dated sanction, decision or count of decisions under it. The three-year term of the members appointed in 2021 has run out and no later appointment is held.
+***Not found***. No regulation made under organic law no. 2004-63 is held, and no dated sanction, decision or count of decisions under it. The three-year term of the members appointed in 2021 has run out and no later appointment has been found.

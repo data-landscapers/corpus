@@ -2,6 +2,6 @@
 
 ## In-house capacity
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says who builds or runs the government's computer systems.
+***Not found***. Nothing found says who builds or runs the government's computer systems.

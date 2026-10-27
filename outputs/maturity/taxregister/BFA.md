@@ -6,8 +6,8 @@
 
 **Shared with firms or customs.** [The Direction Générale des Impôts FAQ says customs clearance procedures linked to foreign trade cannot be carried out without an IFU, the single number issued to users of the financial administration](<https://dgi.bf/faq-immatriculation-des-contribuables/>).
 
-**Tied to ID.** No source held since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://dgi.bf/faq-immatriculation-des-contribuables/>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://dgi.bf/faq-immatriculation-des-contribuables/>).
 
-***Noted, not assessed***. [eSintax](<https://dgi.bf/faq-immatriculation-des-contribuables/>).
+***Also on file***. [eSintax](<https://dgi.bf/faq-immatriculation-des-contribuables/>).
 
-***Not held***. No source held since October 2023 says the taxpayer number is tied to the national ID.
+***Not found***. No source found since October 2023 says the taxpayer number is tied to the national ID.

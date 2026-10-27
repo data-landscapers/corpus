@@ -2,6 +2,6 @@
 
 ## G2P functionality
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 says whether government pays people digitally.
+***Not found***. Nothing found since October 2023 says whether government pays people digitally.

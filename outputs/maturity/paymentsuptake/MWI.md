@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://finmark.org.za/Publications/2023_FinScope_Consumer_Survey_Malawi_2023_Report.pdf>).
 
-***Noted, not assessed***. [Malawi Police electronic traffic fine payment](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [TNM Mpamba](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Airtel Money](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Social cash transfer programmes](<https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/>).
+***Also on file***. [Malawi Police electronic traffic fine payment](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [TNM Mpamba](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Airtel Money](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Social cash transfer programmes](<https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/>).
 
-***Not held***. No survey held since October 2023 puts adults with an account at 79% or more.
+***Not found***. No survey held since October 2023 puts adults with an account at 79% or more.

@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** By [deliberation n°073 of 25 April 2024](<https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf>), on a complaint of 27 November 2023, the APDPVP plenary fined Citibank Gabon S.A. 90,000,000 FCFA. It found the bank had diverted employee data from its declared purpose and processed ethnic-origin data, and it added a two-month formal notice.
 
-***Noted, not assessed***. [Loi sur la protection des données à caractère personnel](<https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse>), the country's own name for the law.
+***Also on file***. [Loi sur la protection des données à caractère personnel](<https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse>), the country's own name for the law.
 
-***Not held***. No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.
+***Not found***. No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.

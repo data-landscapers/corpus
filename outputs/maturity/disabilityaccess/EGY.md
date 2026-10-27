@@ -6,8 +6,8 @@
 
 **Delivered.** [Egypt's Ministry of Transport added a digital accessibility service to its website mot.gov.eg with text-to-speech, speech-to-text, a sign-language interpreter, dyslexia fonts, a reading mask and keyboard navigation, working with the ICT ministry and the National Academy of IT for Persons with Disabilities](<https://www.youm7.com/story/2026/9/17/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7/7549148>). [NTRA previously established a sign language complaint service via video calls on its website](<https://www.tra.gov.eg/en/ntra-issues-instructions-to-facilitate-the-use-of-mobile-e-wallet-services-for-people-of-determination/>).
 
-**Audited.** No source held since October 2023 gives the results of an accessibility audit of public websites or digital services. The nearest held fact: [the one given above](<https://www.youm7.com/story/2026/9/17/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7/7549148>).
+**Audited.** No source found since October 2023 gives the results of an accessibility audit of public websites or digital services. The nearest held fact: [the one given above](<https://www.youm7.com/story/2026/9/17/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7/7549148>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives the results of an accessibility audit of public websites or digital services.
+***Not found***. No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.

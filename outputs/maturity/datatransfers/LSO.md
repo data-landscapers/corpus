@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** As at 31 October 2025, the same firm [says the Data Protection Commission and Commissioner have not been appointed](<https://zmayetlaw.co.ls/lesothos-outdated-data-protection-act-no-commissioner-no-teeth-what-should-change-next/>), so no authority exists to approve cross-border mechanisms or issue guidance. It adds that [standard contractual clauses and binding corporate rules are not yet in place](<https://zmayetlaw.co.ls/lesothos-outdated-data-protection-act-no-commissioner-no-teeth-what-should-change-next/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

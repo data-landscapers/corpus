@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MDG-001",
-      "gaps": "The beneficial-owner register in use since 2026 is the tax directorate's RCBE, which cross-matches the trade register's data; nothing held says the business register itself collects beneficial owners, or that registration gives one number shared with tax.",
+      "gaps": "The beneficial-owner register in use since 2026 is the tax directorate's RCBE, which cross-matches the trade register's data; nothing found says the business register itself collects beneficial owners, or that registration gives one number shared with tax.",
       "note": "Reassessed in the rebuild: firms can register online through Orinasa (July 2025); the RCBE is held by the tax directorate, apart from the trade and companies register, so it does not answer the beneficial-owner question for the register.",
       "as_at": "2026-10-23"
     }

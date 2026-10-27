@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MAR-005;MAR-001",
-      "gaps": "No source held since October 2023 says the country is live on PAPSS: a regional payment system, or joining PAPSS, does not count.",
-      "note": "Bank Al-Maghrib oversees SIMT retail clearing and has organised interoperability (September 2026). No regional system in service is held; PAPSS signing is not counted.",
+      "gaps": "No source found since October 2023 says the country is live on PAPSS: a regional payment system, or joining PAPSS, does not count.",
+      "note": "Bank Al-Maghrib oversees SIMT retail clearing and has organised interoperability (September 2026). No regional system in service has been found; PAPSS signing is not counted.",
       "as_at": "2026-10-24"
     }
   ]

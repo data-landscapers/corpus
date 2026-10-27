@@ -6,8 +6,8 @@
 
 **Learner records.** [The EMIS portal says it tracks every enrolled learner with a unique identifier, from early childhood to technical and adult education](<https://www.emis-moe-lib.org/>). [In September 2026 the ministry was still seeking a digitised EMIS with a central dashboard](<https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html>).
 
-**Linked.** No source held since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html>).
+**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html>).
 
-***Noted, not assessed***. [Statutory School Record System](<https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html>).
+***Also on file***. [Statutory School Record System](<https://www.liberianobserver.com/news/moe-pushes-for-real-time-school-data-system/article_8b8f6a05-6bcd-4adb-9460-d004f8f07b16.html>).
 
-***Not held***. Whether a record for each learner is in service is not settled: the portal says so, while the ministry in September 2026 was still seeking a digitised system.
+***Not found***. Whether a record for each learner is in service is not settled: the portal says so, while the ministry in September 2026 was still seeking a digitised system.

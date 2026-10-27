@@ -8,6 +8,6 @@
 
 **Use published.** [The Director General of e-citizen said eCitizen has 11.8 million users and approximately 40,000 transactions daily](<https://www.publicservice.go.ke/psc-certifies-141-candidates-after-undergoing-a-data-protection-and-cybersecurity-capacity-building-programme/>).
 
-***Noted, not assessed***. [eTIMS](<https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546>).
+***Also on file***. [eTIMS](<https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

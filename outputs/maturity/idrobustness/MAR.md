@@ -6,8 +6,8 @@
 
 **Biometric checks.** [IDAKTO says the system uses server-side 1:N biometric matching for proofing and native device biometrics for 1:1 verification](<https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks>).
 
-***Noted, not assessed***. [biometric passport](<https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html>); [Idarati X.0](<https://www.biometricupdate.com/202602/idakto-and-shareid-to-help-build-moroccos-new-digital-wallet-super-app>).
+***Also on file***. [biometric passport](<https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html>); [Idarati X.0](<https://www.biometricupdate.com/202602/idakto-and-shareid-to-help-build-moroccos-new-digital-wallet-super-app>).
 
-***Not held***. No source held since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

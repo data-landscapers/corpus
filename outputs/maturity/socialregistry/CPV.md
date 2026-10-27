@@ -6,8 +6,8 @@
 
 **Several programmes.** [The Government of Cabo Verde says registered eligible households can access targeted support including cash transfers, food security support and resilience programmes through the Cadastro Social Unico](<https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/>). [The Cabo Verde minister says about 16 social programmes use the CSU to select beneficiaries, including RSI, social pension, higher-education grants and the social energy and water tariff](<https://www.governo.cv/governo-lanca-mecanismo-de-gestao-das-informacoes-e-reclamacoes-do-cadastro-social-unico/>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** [MIGA's 2024 guarantee of USD 373 million](<https://www.miga.org/project/orange-guinea-and-guinea-bissau>) was committed to Orange Guinee SA, a telecoms operator, and the record names no public project.
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Every amount held from 2024 on was signed or started in the same year, so nothing shows money raised inside Guinea or private money brought into a state project.
+***Not found***. Every amount held from 2024 on was signed or started in the same year, so nothing shows money raised inside Guinea or private money brought into a state project.

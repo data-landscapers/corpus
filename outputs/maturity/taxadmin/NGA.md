@@ -8,6 +8,6 @@
 
 **Mostly online.** [FIRS says that from 7 June 2021 TaxPro-Max is the channel for filing all Naira-denominated tax returns, with manual returns uploaded by FIRS staff (2021, before the three-year window)](<https://assets.kpmg.com/content/dam/kpmg/ng/pdf/tax/firs-public-notice-on-taxpro-max.pdf>).
 
-***Noted, not assessed***. [Case Management System (Office of the Tax Ombud)](<https://taxombud.gov.ng/tax-ombud-launches-website-call-centre-and-case-management-portal-to-enhance-taxpayer-services/>).
+***Also on file***. [Case Management System (Office of the Tax Ombud)](<https://taxombud.gov.ng/tax-ombud-launches-website-call-centre-and-case-management-portal-to-enhance-taxpayer-services/>).
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

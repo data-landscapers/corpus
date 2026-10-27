@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZWE-027;ZWE-028;ZWE-029",
-      "gaps": "No count or share of primary clinics entering their own reports is held: the newest clinics fact (ZWE-028, 2022) has facilities on paper, keyed at the district. ZWE-022 (2025) disagrees on where data is digitised, giving facility-level flow into DHIS2, but for Impilo facilities only and without saying how the rest report. No plan is current at the as-at (the 2021-2025 strategy has ended) and nothing is dated inside the last twelve months.",
+      "gaps": "No count or share of primary clinics entering their own reports has been found: the newest clinics fact (ZWE-028, 2022) has facilities on paper, keyed at the district. ZWE-022 (2025) disagrees on where data is digitised, giving facility-level flow into DHIS2, but for Impilo facilities only and without saying how the rest report. No plan is current at the as-at (the 2021-2025 strategy has ended) and nothing is dated inside the last twelve months.",
       "note": "All four tiers report into the ministry's DHIS2 from paper keyed at the district, which is the whole of rung 3. Rung 4 needs more than half of primary clinics entering their own reports on a figure with a denominator, and none is held."
     },
     {

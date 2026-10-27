@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The law firm Z. Mayet and Associates [states](<https://zmayetlaw.co.ls/lesothos-outdated-data-protection-act-no-commissioner-no-teeth-what-should-change-next/>) that the Act establishes a Data Protection Commission, but that the Commission and its Commissioner have not been appointed, in a document published on 31 October 2025.
 
-***Noted, not assessed***. [Data Protection Commission](<https://cenfri.org/articles/african-data-governance-reform-in-an-era-of-reform/>).
+***Also on file***. [Data Protection Commission](<https://cenfri.org/articles/african-data-governance-reform-in-an-era-of-reform/>).
 
-***Not held***. No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting.
+***Not found***. No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting.

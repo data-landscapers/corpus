@@ -6,6 +6,6 @@
 
 **Money and results.** Nothing is held on funding or results. The nearest held fact concerns the plan's targets: [Wearetech reports that ministry and territorial-development representatives met on 6 to 12 September 2026](<https://www.wearetech.africa/fr/fils/actualites/telecom/le-burkina-faso-repense-l-amenagement-numerique-de-son-territoire-a-l-horizon-2030>) to consolidate a draft revised SDAN running to 2030, which goes next to the national commission for territorial planning (CNADDT).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.

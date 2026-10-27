@@ -8,6 +8,6 @@
 
 **Used by services.** [The terms of reference describe street plates without door numbers and a strategy still to be defined](<https://expertise-france.gestmax.fr/_expertise_france/public_files/progouv-tdr-expert-amo-sig-et-adressage-v23-11-2023.pdf>), and name no service that uses the addresses.
 
-***Noted, not assessed***. [Registre national des personnes physiques](<https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/>).
+***Also on file***. [Registre national des personnes physiques](<https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/>).
 
-***Not held***. No source held since October 2023 says an address register or digital addressing system is in service.
+***Not found***. No source found since October 2023 says an address register or digital addressing system is in service.

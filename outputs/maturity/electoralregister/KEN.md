@@ -8,6 +8,6 @@
 
 **Linked to ID.** [A KPMG audit of the 2022 register, quoted in court, found 164,269 registrations with ID numbers invalid against National Registration Bureau records (2022, before the three-year window)](<https://www.standardmedia.co.ke/politics/article/2001558186/political-parties-election-observers-to-access-iebc-voter-register>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

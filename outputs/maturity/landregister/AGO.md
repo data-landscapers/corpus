@@ -6,8 +6,8 @@
 
 **Nationwide.** [Esri says GEODATA implemented the property registration system in all 22 registry offices in all 18 provinces of Angola](<https://www.esri.com/en-us/lg/industry/government/stories/angola-modernizes-land-administration-gis-cadastre-management>).
 
-**Online services.** No source held since October 2023 says land can be searched or registered online. The nearest held fact: [the one given above](<https://www.esri.com/en-us/lg/industry/government/stories/angola-modernizes-land-administration-gis-cadastre-management>).
+**Online services.** No source found since October 2023 says land can be searched or registered online. The nearest held fact: [the one given above](<https://www.esri.com/en-us/lg/industry/government/stories/angola-modernizes-land-administration-gis-cadastre-management>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says land can be searched or registered online.
+***Not found***. No source found since October 2023 says land can be searched or registered online.

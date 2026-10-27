@@ -40,82 +40,82 @@ The state supercomputer, with GPUs, was open to researchers with over a hundred 
 
 ### South Africa: 5 Leading
 
-The national computing centre's GPU cluster was open free to researchers, with over 2,000 users, in 2024; GPU use alone is not known.
+The national computing centre's GPU cluster was open free to researchers, with over 2,000 users, in 2024; no source found reports GPU use alone.
 
 - The NICIS CHPC service catalogue lists a Dell peta-scale HPC and GPU cluster with 30 Nvidia V100 GPU nodes and 4 PB of storage as a service, with use cases that include enabling machine learning insights ([source, 2024-05](https://www.chpc.ac.za/nicis-service-catalogue/)).
 - The CHPC GPU cluster is offered free for six-month renewable periods to academic and public-interest users and for a fee to commercial users, with over 2000 users and over a billion core hours used ([source, 2024-05](https://www.chpc.ac.za/nicis-service-catalogue/)).
 
 ### Tunisia: 5 Leading
 
-A technology park's GPU system served about 30 startups by 2024, and GPU cloud was offered in 2026; later use is not known.
+A technology park's GPU system served about 30 startups by 2024, and GPU cloud was offered in 2026; no source found reports later use.
 
 - Novation City in Sousse deployed Tunisia's first NVIDIA DGX system in February 2024, according to its chief innovation officer quoted by NVIDIA ([source, 2024-02](https://blogs.nvidia.com/blog/tunisia-ai-innovation-hub/)).
 - NVIDIA says the Novation City DGX system has empowered about 30 startups across the continent, and that the hub gives AI startups and researchers access to DGX infrastructure ([source, 2024-09-17](https://blogs.nvidia.com/blog/tunisia-ai-innovation-hub/)).
 
 ### Kenya: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - Atlancis Technologies says the NVIDIA GPU-powered Servernah AI factory is delivered and deployed at iXAfrica's NBOX1 data centre in Kenya, making GPUs locally accessible ([source, 2025-11-11](https://atlancis.com/atlancis-technologies-ai-infra/)).
 - iXAfrica's CEO Snehar Shah said the AI infrastructure deployment is 'now live for the market', and EverseTech demonstrated locally available GPU capacity at the 22.5 MW Nairobi data centre ([source, 2026-03-12](https://atlancis.com/servernah-cloud-launch/)).
 
 ### Malawi: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - UNDP's programme procured and deployed country-hosted GPU compute in Malawi ([source, 2026-09-17](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)).
 
 ### Mauritius: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - Mauritius Telecom's CEO says its data centre in Mauritius now hosts NVIDIA H200 GPUs ([source, 2026-07-16](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/)).
 
 ### Morocco: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - LesEco says the Sovereign Meeting Assistant was trained on Moroccan GPUs ([source, 2026-09-08](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html)).
 
 ### Nigeria: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - TechCabal reports Udu Technologies operates its Africa GPU Hub through the AGH Cloud platform, with deployments in Nigeria and the United States ([source, 2026-09-11](https://techcabal.com/2026/09/11/udutech-adds-baro-ai-to-expand-gpu-supply/)).
 
 ### Rwanda: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - UNDP's programme procured and deployed country-hosted GPU compute in Rwanda ([source, 2026-09-17](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)).
 
 ### Tanzania: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - Ghent University's IDLab-AIRO says it installed a new GPU workstation at Mzumbe University in Morogoro, from which a workshop served LLMs, image generation and speech pipelines, as the university's new Centre for AI Research and Innovation (CAIRI) was inaugurated ([source, 2026-04](https://airo.ugent.be/news/202604_workshop_at_mzumbe/)).
 
 ### Togo: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - UNDP's programme procured and deployed country-hosted GPU compute in Togo ([source, 2026-09-17](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)).
 
 ### Zambia: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - UNDP's programme procured and deployed country-hosted GPU compute in Zambia ([source, 2026-09-17](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)).
 
 ### Zimbabwe: 4 Operating
 
-AI computing was in service in the country in 2026; its use by others is not known.
+AI computing was in service in the country in 2026; no source found reports its use by others.
 
 - The Herald reports the National Information Access Centre at Zimbabwe Open University, Hatcliffe, opened with an Nvidia GPU-powered AI server that Minister Shava says enables practical AI training and advanced analytics ([source, 2026-03-20](https://www.heraldonline.co.zw/minister-shava-launches-ai-hub-at-zimbabwe-open-university/)).
 
 ### Benin: 3 Established
 
-A government chatbot built in the country has been in service since 2023; AI computing in service is not known.
+A government chatbot built in the country has been in service since 2023; no source found reports AI computing in service.
 
 - The ministry says GPT.BJ, a chatbot developed by the Benin Agency for Information Systems and Digital, was launched in 2023 during the second Digital Entrepreneurship and Artificial Intelligence Fair ([source, 2023](https://council.science/wp-content/uploads/2025/02/AI-Paper-Case-Study-Benin_V1.pdf)).
 - Levellers says ASIN built GPT BJ, a public-service chatbot trained on Benin's legal and administrative texts; it gives no date, so the document's date is used ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-benin)).
@@ -190,7 +190,7 @@ An AI model or dataset built in the country was in service in 2026; AI computing
 
 ### Eritrea: 3 Established
 
-Open Tigrinya datasets for AI were published by 2026; AI computing in the country is not known.
+Open Tigrinya datasets for AI were published by 2026; no source found reports AI computing in the country.
 
 - GeezLab's GLaRe programme lists open Tigrinya datasets, including the TiNC24 NER corpus (200K+ words) and the TiPOSC24 part-of-speech corpus (118K+ tokens), both led by students at Mai Nefhi College of Engineering ([source, 2026](https://research.geezlab.com/)).
 
@@ -253,7 +253,7 @@ An AI model or dataset built in the country was in service in 2026; AI computing
 
 ### Mozambique: 3 Established
 
-An AI learning tool built in the country was launched in 2026; AI computing in service is not known.
+An AI learning tool built in the country was launched in 2026; no source found reports AI computing in service.
 
 - MAZA IA, an AI learning solution developed in Mozambique by MOZEDUCA with Vodacom Mocambique, was launched on 22 October 2026, and the minister urged national technology solutions ([source, 2026-10-22](https://mznews.co.mz/governo-prepara-lei-para-regular-uso-da-inteligencia-artificial-na-educacao/)).
 
@@ -346,24 +346,24 @@ A national AI model, dataset or computing facility was under way in 2025; none i
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names an AI model, dataset or computing facility or says there is none, so no stage is set.
+Nothing found names an AI model, dataset or computing facility or says there is none, so no stage is set.
 
-Not established: Nothing held says whether AI is built or hosted in the country.
+Not established: Nothing found says whether AI is built or hosted in the country.
 
 ### Gabon: No evidence
 
-Nothing held names an AI model, dataset or computing facility or says there is none, so no stage is set.
+Nothing found names an AI model, dataset or computing facility or says there is none, so no stage is set.
 
-Not established: Nothing held says whether AI is built or hosted in the country.
+Not established: Nothing found says whether AI is built or hosted in the country.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names an AI model, dataset or computing facility or says there is none, so no stage is set.
+Nothing found names an AI model, dataset or computing facility or says there is none, so no stage is set.
 
-Not established: Nothing held says whether AI is built or hosted in the country.
+Not established: Nothing found says whether AI is built or hosted in the country.
 
 ### Seychelles: No evidence
 
-Nothing held names an AI model, dataset or computing facility or says there is none, so no stage is set.
+Nothing found names an AI model, dataset or computing facility or says there is none, so no stage is set.
 
-Not established: Nothing held says whether AI is built or hosted in the country.
+Not established: Nothing found says whether AI is built or hosted in the country.

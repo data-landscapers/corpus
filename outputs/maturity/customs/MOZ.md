@@ -6,8 +6,8 @@
 
 **Single window.** [Mozambique customs official Abishek Dewan says the single window, introduced in 2011 and phased in, now operates across the country as a centralised electronic trade platform, with clearance down to eight steps (2017, before the three-year window)](<https://www.freightnews.co.za/article/single-window-speeds-up-clearance-at-moz-borders>). [MCNet says commercial banks take part through the JUE in collecting USD 450 million in customs duties, and trained users include clearing agents, shipping and port company staff and bank staff (2012, before the three-year window)](<https://jue.mcnet.co.mz/mcnet/portal/news/243/link>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data through a system open to its whole regional community. The nearest held fact: [the one given above](<https://www.cipmoz.org/wp-content/uploads/2025/11/Ajuste-Directo-da-JUE-Estaria-o-Governo-a-Legitimar-Carteis-que-Lesam-o-Estado-2.pdf>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data through a system open to its whole regional community. The nearest held fact: [the one given above](<https://www.cipmoz.org/wp-content/uploads/2025/11/Ajuste-Directo-da-JUE-Estaria-o-Governo-a-Legitimar-Carteis-que-Lesam-o-Estado-2.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a trade single window is in service.
+***Not found***. No source found since October 2023 says a trade single window is in service.

@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** [Law Lab Africa](<https://research.lawlab.africa/eritrea/>) found no enforcement decisions for Eritrea and none published, in its verification pass of 1 August 2026. [Levellers](<https://www.levellers.ai/what-is/ai-regulation-eritrea>) states there is no data protection authority to register with or appeal to, so none issues rulings. A [Data Protection Africa fact sheet](<http://web.archive.org/web/20260723133551/https://dataprotection.africa/eritrea/>), last updated 24 May 2022, records no authority report and no public report.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing is held on any plan to set up an authority or pass a data protection law.
+***Not found***. Nothing is held on any plan to set up an authority or pass a data protection law.

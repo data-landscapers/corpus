@@ -36,9 +36,9 @@ import study_lib  # noqa: E402
 STUDY = "opendatause"
 GAPS = {
     "5": "",
-    "4": "No source held since October 2024 names or counts four or more public bodies publishing data.",
-    "3": "No source held since October 2023 names two or more public bodies publishing data.",
-    "2": "No source held since October 2023 states an open licence for the data.",
+    "4": "No source found since October 2024 names or counts four or more public bodies publishing data.",
+    "3": "No source found since October 2023 names two or more public bodies publishing data.",
+    "2": "No source found since October 2023 states an open licence for the data.",
     "1": "",
 }
 
@@ -83,7 +83,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("access", ("none",))
     if not rows:
         return {"stage": "no evidence", "sources": [],
-                "gaps": "Nothing held names government data published for download, or says there is none."}
+                "gaps": "Nothing found names government data published for download, or says there is none."}
     if many:
         s, src = "5", many[:2]
     elif several:

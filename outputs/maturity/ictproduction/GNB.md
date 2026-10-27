@@ -4,8 +4,8 @@
 
 **ICT service exports, as a share of GDP.** In 2024, [ICT service exports from Guinea-Bissau were 0.6814 per cent of GDP](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>), by the World Bank's series of computer and telecommunications services sold abroad. The same series [put the share at 0.5757 per cent in 2021, 0.4966 per cent in 2022 and 0.6281 per cent in 2023](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>). Since 2021 the share rose by 0.11 points. At 0.5 per cent or more, the share is past the study's highest line for exports. The figure counts computer and telecommunications services sold abroad, not equipment made or assembled at home.
 
-**ICT equipment made in the country.** No source held since October 2023 says phones, computers or other ICT equipment are assembled or made in the country; [exports alone](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>) set the stage.
+**ICT equipment made in the country.** No source found since October 2023 says phones, computers or other ICT equipment are assembled or made in the country; [exports alone](<https://data.worldbank.org/indicator/BX.GSR.CCIS.CD>) set the stage.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says ICT equipment is assembled or made in the country.
+***Not found***. No source found since October 2023 says ICT equipment is assembled or made in the country.

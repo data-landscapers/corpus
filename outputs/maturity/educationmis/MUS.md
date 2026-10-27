@@ -2,6 +2,6 @@
 
 ## Education information system
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether the education ministry holds its statistics in an information system.
+***Not found***. Nothing found says whether the education ministry holds its statistics in an information system.

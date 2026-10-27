@@ -6,8 +6,8 @@
 
 **Given nationally.** [Statistics Botswana says the number is assigned to every citizen child at birth, with registration through 35 district offices and 17 on-site points, introduced in 2003](<https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf>).
 
-**All births registered.** No source held since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf>).
+**All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf>).
 
-***Noted, not assessed***. [Omang](<https://dailynews.gov.bw/news-detail/90334>); [Public Key Infrastructure](<https://weekendpost.co.bw/p420-million-digital-bombshell/>).
+***Also on file***. [Omang](<https://dailynews.gov.bw/news-detail/90334>); [Public Key Infrastructure](<https://weekendpost.co.bw/p420-million-digital-bombshell/>).
 
-***Not held***. No source held since October 2023 puts birth registration at all births and deaths at 80% or more.
+***Not found***. No source found since October 2023 puts birth registration at all births and deaths at 80% or more.

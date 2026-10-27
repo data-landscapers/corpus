@@ -16,6 +16,6 @@
 
 **Last twelve months.** The policy of 2007 was still [the one named for Botswana](<https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/>) in the report of December 2025.
 
-***Noted, not assessed***. [SmartBots Digital Transformation Strategy (2020)](<https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/>).
+***Also on file***. [SmartBots Digital Transformation Strategy (2020)](<https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/>).
 
-***Not held***. Nothing held gives the policy an end year, a delivery plan, a report against its targets or a source of finance. Its governance bodies are known only from the 2007 text, and no dated event falls in the last twelve months.
+***Not found***. Nothing found gives the policy an end year, a delivery plan, a report against its targets or a source of finance. Its governance bodies are known only from the 2007 text, and no dated event falls in the last twelve months.

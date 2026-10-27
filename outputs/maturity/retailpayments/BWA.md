@@ -6,8 +6,8 @@
 
 **Between providers.** [Mobile money in Botswana is now interoperable with traditional bank accounts](<https://thevoicebw.com/mobile-money-madness/>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://thevoicebw.com/mobile-money-madness/>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://thevoicebw.com/mobile-money-madness/>).
 
-***Noted, not assessed***. [Google Pay](<https://weekendpost.co.bw/absa-botswanas-google-pay-bringing-contactless-payments-to-a-nation-still-reaching-for-them/>); [Absa MobiTap](<https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators>).
+***Also on file***. [Google Pay](<https://weekendpost.co.bw/absa-botswanas-google-pay-bringing-contactless-payments-to-a-nation-still-reaching-for-them/>); [Absa MobiTap](<https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

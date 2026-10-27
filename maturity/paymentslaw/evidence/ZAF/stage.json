@@ -9,8 +9,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZAF-008;ZAF-007",
-      "gaps": "No source held says a rule requires mobile money providers and banks to connect to each other or to a switch. An MTN executive said in September 2026 there is no dedicated non-bank mobile money licence (ZAF-002), while the Reserve Bank lists non-banks designated under the Act.",
-      "note": "The National Payment System Act 1998 is in force and the Reserve Bank has designated non-banks such as Yoco (2021) and Payfast (2024) as clearing system participants under it. Nothing held shows a rule requiring providers to connect, which stage 5 needs.",
+      "gaps": "No source found says a rule requires mobile money providers and banks to connect to each other or to a switch. An MTN executive said in September 2026 there is no dedicated non-bank mobile money licence (ZAF-002), while the Reserve Bank lists non-banks designated under the Act.",
+      "note": "The National Payment System Act 1998 is in force and the Reserve Bank has designated non-banks such as Yoco (2021) and Payfast (2024) as clearing system participants under it. Nothing found shows a rule requiring providers to connect, which stage 5 needs.",
       "as_at": "2026-10-18"
     }
   ]

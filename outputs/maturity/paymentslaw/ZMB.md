@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** The [2007 Act](<https://www.boz.zm/national-payment-systems-act.htm>) empowers the Bank of Zambia to regulate payment mechanisms. It is not said whether companies that are not banks can be licensed under it, and no rule is named that requires mobile money providers and banks to connect to each other or to a national switch. Zambia therefore answers the first two questions only: a law in force, with its reach to non-banks and to connection between providers not stated.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.
+***Not found***. No source found says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.

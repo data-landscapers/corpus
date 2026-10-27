@@ -6,8 +6,8 @@
 
 **One registry shared by programmes.** [The World Bank mission reports that as of March 2025 the Unified Beneficiary Registry held 4.2 million households (17 million people) in 27 of 28 rural districts, with five programmes using the data for targeting and research](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-**Linked to the ID and another sector.** No source held since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
+**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>).
 
-***Noted, not assessed***. [M'bwezera Monitoring Tool (MMT)](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>); [National ID (NRB)](<https://www.undp.org/sites/g/files/zskgke326/files/2026-01/undp_malawi_idt4m_quarterly_report_jul-sep25_web.pdf>).
+***Also on file***. [M'bwezera Monitoring Tool (MMT)](<https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt>); [National ID (NRB)](<https://www.undp.org/sites/g/files/zskgke326/files/2026-01/undp_malawi_idt4m_quarterly_report_jul-sep25_web.pdf>).
 
-***Not held***. No source held since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.

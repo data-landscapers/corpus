@@ -10,6 +10,6 @@
 
 **Implementing and acting.** In 2025 the APDP [fined a Bamako clinic 5 million FCFA](<https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/>) for obstructing a verification mission and [fined Société Aminata Konaté SARL 5 million F CFA](<https://malijet.com/les_faits_divers_au_mali/303061-sanction-pour-non-respect-des-donnees-personnelles--penalite-de-.html>) for refusing one. Sahel Tribune, summarising the 2025 annual report, [reports fines totalling 22 million FCFA](<https://saheltribune.com/donnees-personnelles-lalerte-du-regulateur-malien/>).
 
-***Noted, not assessed***. [Loi n2013-015 du 21 mai 2013 (modifiee)](<https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/>); [Autorité de Protection des Données à Caractère Personnel (APDP)](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>).
+***Also on file***. [Loi n2013-015 du 21 mai 2013 (modifiee)](<https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/>); [Autorité de Protection des Données à Caractère Personnel (APDP)](<https://primature.ml/apdp-autorite-de-protection-des-donnees-a-caractere-personnel/>).
 
-***Not held***. Nothing further on the four questions is held.
+***Not found***. Nothing further on the four questions is held.

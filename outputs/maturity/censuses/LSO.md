@@ -8,6 +8,6 @@
 
 **A household survey published.** [The Bureau of Statistics Lesotho page lists the Labour Force Survey 2024 Indicators as its latest release](<https://www.bos.gov.ls/publications.htm>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No results of the 2026 census, the one that counts, are held.
+***Not found***. No results of the 2026 census, the one that counts, have been found.

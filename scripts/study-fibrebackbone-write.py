@@ -27,6 +27,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "fibrebackbone"
@@ -61,8 +62,8 @@ OPEN = ("A backbone counts as open where other operators buy or lease capacity o
         "runs on open-access or wholesale terms, whoever owns it.")
 SHORT = {
     "5": "Backbone fibre reached every region by {y}, and other operators buy capacity on it.",
-    "4": "Backbone fibre reached every province or region by {y}; whether other operators buy capacity on it is not known.",
-    "3": "Backbone fibre linked the capital to other regions by {y}; whether it reaches every region is not known.",
+    "4": "Backbone fibre reached every province or region by {y}; no source found says whether other operators buy capacity on it.",
+    "3": "Backbone fibre linked the capital to other regions by {y}; no source found says whether it reaches every region.",
     "2": "A national fibre backbone was being built in {y}; none is known to be in service.",
     "1": "A {y} source says the country has no national fibre backbone.",
 }
@@ -126,7 +127,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         said = sentences(access, [i for i in src if i in {r["row_id"] for r in access}], ACCESS_ROOM)
         if not said:
             top = next(r for r in rows if r["row_id"] == src[0])
-            said = [f"Nothing held says other operators buy capacity on {link(top['url'], 'this fibre')}, "
+            said = [f"Nothing found says other operators buy capacity on {link(top['url'], 'this fibre')}, "
                     f"or that it runs on open-access or wholesale terms."]
         used = sum(len(s.split()) for s in said)
         body = sentences(reach, src, ROOM - used - len(RESTS[cell["stage"]].split()) - len(LENGTH.split()))
@@ -135,16 +136,16 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         top = next(r for r in rows if r["row_id"] == src[0])
         short = SHORT[cell["stage"]].format(y=top["as_of"][:4])
     else:
-        short = ("Nothing held says a national fibre backbone is being built or in service, "
+        short = ("Nothing found says a national fibre backbone is being built or in service, "
                  "so no stage is set.")
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

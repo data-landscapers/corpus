@@ -69,7 +69,7 @@ Cybercrime law in force since 2026; used in September 2026 to arrest a commentat
 
 ### Mali: 4 Operating
 
-Cybercrime provisions in the penal code since December 2024 were used against journalists in 2026, with two-year and 12-month sentences; case counts are not known.
+Cybercrime provisions in the penal code since December 2024 were used against journalists in 2026, with two-year and 12-month sentences; no source found reports case counts.
 
 - IPI reports that the trial of commentator Mohamed Youssouf Bathily (Ras Bath) began on 10 August 2026 on charges of criminal association and undermining the credibility of the state through information and communication technologies ([source, 2026-08-10](https://ipi.media/mali-military-junta-uses-cybercrime-provisions-to-target-journalists/)).
 - The Pôle national de lutte contre la cybercriminalité sentenced journalist Chahana Takiou, founder-director of the newspaper 22 septembre, to 12 months in prison with 6 suspended on 3 August 2026, for undermining the credit of the State through the judicial institution, after he was summoned by the Pôle and held on remand ([source, 2026-08-03](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac)).
@@ -168,7 +168,7 @@ A cybercrime law, Loi 24.002 of February 2024, is in force; a 2026 opinion piece
 
 ### Chad: 3 Established
 
-A cybercrime law from 2015 is listed among Chad's laws; whether it has been used is not known.
+A cybercrime law from 2015 is listed among Chad's laws; no source found says whether it has been used.
 
 - The sector regulator ARCEP's register of laws lists Loi N°009/PR/2015 on Cybersecurity and the Fight against Cybercrime among Chad's laws; the page gives no other date, so 2015 is the number's year ([source, 2015](https://arcep.td/lois.html)).
 
@@ -280,7 +280,7 @@ Cybersecurity and cybercrime laws were signed in 2026. No use of the law is know
 
 ### Rwanda: 3 Established
 
-A cybersecurity law is in force, and the Supreme Court upheld one article in June 2025. Whether it has been used is not known.
+A cybersecurity law is in force, and the Supreme Court upheld one article in June 2025. No source found says whether it has been used.
 
 - The East African Policy Observer, drawing on the Carnegie Endowment's Africa Technology Policy Tracker, says Rwanda's binding legal instruments include cybersecurity law and that all three countries reviewed, Rwanda among them, have cybersecurity laws; no date is given for the statement, so the document's published date is used ([source, 2026-07-30](https://eastafricanpolicyobserver.org/commentary/new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia-ictworks/)).
 - Rwanda's Supreme Court on 5 June 2025 upheld the constitutionality of Article 39 of the 2018 Cybercrime Law, which criminalises publishing rumours through digital platforms, per CIVICUS Monitor ([source, 2025-06-05](https://monitor.civicus.org/explore/opposition-leader-victoire-ingabire-re-arrested-court-ruling-deals-blow-to-freedom-of-expression/)).
@@ -293,7 +293,7 @@ A cybercrime law has been in force since 2017; no case under it is known.
 
 ### Senegal: 3 Established
 
-A cybercrime law has been in force since 2008 and a cybersecurity bill is before the Assembly in 2026. Its use is not known.
+A cybercrime law has been in force since 2008 and a cybersecurity bill is before the Assembly in 2026. No source found reports its use.
 
 - A 2018 practitioner Q&A states Senegal adopted the Cybercrime Law (Law 2008-10 of 25 January 2008), completing the Penal Code and Penal Procedure Code, and lists the offences and penalties of six months to 10 years; it says no separate cybersecurity act was yet adopted ([source, 2008-01-25](https://www.mondaq.com/data-protection/693598/data-security-and-cybercrime-in-senegal)).
 
@@ -396,6 +396,6 @@ Cybersecurity and cybercrime bills have moved through parliament since 2025; no 
 
 ### Guinea-Bissau: No evidence
 
-A cybercrime or cybersecurity law or bill is not known, so no stage is set.
+No source found reports A cybercrime or cybersecurity law or bill, so no stage is set.
 
-Not established: Nothing held names a cybercrime or cybersecurity law or bill, or says there is none.
+Not established: Nothing found names a cybercrime or cybersecurity law or bill, or says there is none.

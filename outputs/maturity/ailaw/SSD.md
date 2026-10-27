@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** No law on AI itself is recorded for South Sudan. The nearest held fact is the [proposed AI provisions in the Cybercrimes and Computer Misuse Bill 2024](<https://www.digitalrights.ngo/post/striking-the-right-balance-south-sudan-s-cybercrimes-and-computer-misuse-bill>), which Digital Rights Frontlines described in October 2025 while the bill had not yet passed, so there was no AI law to apply.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether a rule on AI is in force, and whether the AI provisions of the 2024 bill were kept in the law, is not held.
+***Not found***. Whether a rule on AI is in force, and whether the AI provisions of the 2024 bill were kept in the law, is not held.

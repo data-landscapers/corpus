@@ -6,8 +6,8 @@
 
 **Single window.** [SARS says its Single Window electronic inspection workflow, sharing inspection cases with the Border Management Authority, was implemented in September 2023 but is still in restricted testing with selected importers, and the full National Single Window is 'still some time away' (2023, before the three-year window)](<https://www.sars.gov.za/customs-and-excise/customs-single-window-solution/>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data through a system open to its whole regional community. The nearest held fact: [the one given above](<https://www.freightnews.co.za/article/no-completion-date-for-sas-single-window>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data through a system open to its whole regional community. The nearest held fact: [the one given above](<https://www.freightnews.co.za/article/no-completion-date-for-sas-single-window>).
 
-***Noted, not assessed***. [Vehicle Targeting System (VTS)](<https://www.itweb.co.za/article/bma-vehicle-crime-crackdown-shifts-into-digital-gear/KBpdgvpmw1b7LEew>).
+***Also on file***. [Vehicle Targeting System (VTS)](<https://www.itweb.co.za/article/bma-vehicle-crime-crackdown-shifts-into-digital-gear/KBpdgvpmw1b7LEew>).
 
-***Not held***. No source held since October 2023 says customs declarations are processed electronically.
+***Not found***. No source found since October 2023 says customs declarations are processed electronically.

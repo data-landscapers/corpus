@@ -6,8 +6,8 @@
 
 **Electronic payment.** [The Gabon DGI announced on 18 August 2025 that the e-tax portal also takes online payment of taxes](<http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots>).
 
-***Noted, not assessed***. [Digitax Gabon](<http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots>).
+***Also on file***. [Digitax Gabon](<http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots>).
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

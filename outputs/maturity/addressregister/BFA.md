@@ -6,8 +6,8 @@
 
 **Nationwide.** Addressing reaches two cities. [The 2023 pilot covered three arrondissements of Ouagadougou and Bobo-Dioulasso](<https://www.sidwaya.info/2023/10/24/communes-urbaines-des-acteurs-sapproprient-le-nouveau-plan-dadressage/>), and [Ouagadougou has since been adding arrondissements one pair at a time](<https://burkina24.com/2025/04/02/ouagadougou-modernise-son-adressage-pour-faciliter-la-localisation/>).
 
-**Used by services.** No service is held as using the addresses. The nearest held fact: [the two cities' digital address platforms were built under the 2023 pilot](<https://www.sidwaya.info/2023/10/24/communes-urbaines-des-acteurs-sapproprient-le-nouveau-plan-dadressage/>).
+**Used by services.** No service has been found as using the addresses. The nearest held fact: [the two cities' digital address platforms were built under the 2023 pilot](<https://www.sidwaya.info/2023/10/24/communes-urbaines-des-acteurs-sapproprient-le-nouveau-plan-dadressage/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the addressing system covers the whole country; the digital address platforms held serve Ouagadougou and Bobo-Dioulasso.
+***Not found***. No source found since October 2023 says the addressing system covers the whole country; the digital address platforms held serve Ouagadougou and Bobo-Dioulasso.

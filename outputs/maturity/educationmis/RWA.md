@@ -6,8 +6,8 @@
 
 **Learner records.** [A GPE blog by Educate! staff says Rwanda's School Data Management System houses the unique ID number of every teacher and all the nation's students, almost 4 million (2023, before the three-year window)](<https://www.globalpartnership.org/blog/lesson-rwanda-comprehensive-assessment-management-software-scores-highly-teachers>).
 
-**Linked.** No source held since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://www.unicef.org/rwanda/stories/harnessing-transformative-power-technology-educational-outcomes>).
+**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://www.unicef.org/rwanda/stories/harnessing-transformative-power-technology-educational-outcomes>).
 
-***Noted, not assessed***. [CA-MIS](<https://www.globalpartnership.org/blog/lesson-rwanda-comprehensive-assessment-management-software-scores-highly-teachers>).
+***Also on file***. [CA-MIS](<https://www.globalpartnership.org/blog/lesson-rwanda-comprehensive-assessment-management-software-scores-highly-teachers>).
 
-***Not held***. No source held since October 2023 says: is the school census run through it.
+***Not found***. No source found since October 2023 says: is the school census run through it.

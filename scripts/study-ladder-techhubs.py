@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "techhubs"
 SUB = "hub"
-GAPS = {'4': 'No source held since October 2023 says a science or technology park is in service with tenants.', '3': 'No source held since October 2023 says hubs with programmes are in service in two or more cities.', '2': 'No source held since October 2023 says: does a hub run programmes for startups.', '1': 'No source held since October 2023 says: is a hub or technology park under way.', '5': ''}
-EMPTY = 'Nothing held says whether technology hubs operate in the country.'
-UNPLACED = 'Nothing held since October 2023 says whether a technology hub runs programmes for startups.'
+GAPS = {'4': 'No source found since October 2023 says a science or technology park is in service with tenants.', '3': 'No source found since October 2023 says hubs with programmes are in service in two or more cities.', '2': 'No source found since October 2023 says: does a hub run programmes for startups.', '1': 'No source found since October 2023 says: is a hub or technology park under way.', '5': ''}
+EMPTY = 'Nothing found says whether technology hubs operate in the country.'
+UNPLACED = 'Nothing found since October 2023 says whether a technology hub runs programmes for startups.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

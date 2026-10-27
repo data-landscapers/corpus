@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The nearest held fact is the same [memorandum adopted on 8 May 2024](<https://abpinfo.bi/2024/05/15/un-memorandum-dentente-du-projet-dinterconnexion-par-fibre-optique-entre-la-republique-democratique-du-congo-et-le-burundi-a-ete-adopte-au-conseil-des-ministres/>) for the DRC-Burundi fibre-optic interconnection project. It is an agreement to build the link, as reported by ABP on 15 May 2024, and not a link in use.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says building has started in the last three years.
+***Not found***. No source found says building has started in the last three years.

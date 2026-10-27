@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The APD [fined Crescer Tech US$505,000 in 2026](<https://apd.ao/ao/gca/index.php?id=218&preview=1>) for failing to notify it and obtain authorisation for the international transfer of personal data to a cloud located abroad. [Valor Económico reported on 26 June 2026](<https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao>) a fine of about USD 505,000 (c. 549 million kwanzas) on the company for no notification or prior authorisation and an unauthorised international transfer to foreign cloud servers.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No published list of approved countries, model contract terms, application form or guidance on transfers is held. The dates of the deliberations behind the fines are not given.
+***Not found***. No published list of approved countries, model contract terms, application form or guidance on transfers is held. The dates of the deliberations behind the fines are not given.

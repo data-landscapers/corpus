@@ -8,6 +8,6 @@
 
 **Results reported.** The Commissioner General said URA [recovered 200 billion shillings in revenue leakages uncovered with AI in the previous year](<https://ura.go.ug/en/ura-cg-launches-university-ai-and-robotics-laboratory/>). A review of 6,000 West Nile X-ray records from 2021 to 2024 found the [AI reader identified 181 of 188 confirmed TB cases](<https://doi.org/10.37432/jieph-confpro6-00043>).
 
-***Noted, not assessed***. [ISBAT University AI and Robotics Laboratory](<https://ura.go.ug/en/ura-cg-launches-university-ai-and-robotics-laboratory/>).
+***Also on file***. [ISBAT University AI and Robotics Laboratory](<https://ura.go.ug/en/ura-cg-launches-university-ai-and-robotics-laboratory/>).
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

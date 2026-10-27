@@ -6,8 +6,8 @@
 
 **Maintained nationally.** [Linfodrome quotes ONECI's director general saying the national databases are maintained with an investment taken from ONECI's own budget](<https://www.linfodrome.com/societe/121311-id4africa-2026-l-oneci-presente-les-avancees-du-systeme-ivoirien-d-identification-numerique>).
 
-**Platform owned.** No source held since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://www.linfodrome.com/societe/121311-id4africa-2026-l-oneci-presente-les-avancees-du-systeme-ivoirien-d-identification-numerique>).
+**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://www.linfodrome.com/societe/121311-id4africa-2026-l-oneci-presente-les-avancees-du-systeme-ivoirien-d-identification-numerique>).
 
-***Noted, not assessed***. [MaPoste](<https://www.biometricupdate.com/202601/cote-divoire-digitizes-postal-services-with-mobile-app-launch>).
+***Also on file***. [MaPoste](<https://www.biometricupdate.com/202601/cote-divoire-digitizes-postal-services-with-mobile-app-launch>).
 
-***Not held***. No source held since October 2023 says the system runs on code the state owns.
+***Not found***. No source found since October 2023 says the system runs on code the state owns.

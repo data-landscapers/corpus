@@ -8,6 +8,6 @@
 
 **Results reported.** The minister reported that AI exam processing [cut processing time by 30-40% and lifted scanning from 8-10 to 80-100 papers a minute](<https://www.theeastafrican.co.ke/tea/sustainability/innovation/ai-cuts-exam-marking-time-in-congo-5161318>), in August 2025.
 
-***Noted, not assessed***. [Voyage Santé](<https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo>).
+***Also on file***. [Voyage Santé](<https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

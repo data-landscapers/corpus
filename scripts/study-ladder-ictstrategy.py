@@ -109,7 +109,7 @@ def rung(insts: dict[str, dict], absent: list[dict], as_at: dt.date, national: b
     if live:
         name, v = max(live.items(), key=lambda kv: (kv[1]["text"] == "public", kv[1]["date"]))
         if v["text"] != "public":
-            return "2", name, (["text unpublished"] if v["text"] == "unpublished" else []),                 "adopted, and no public text is held"
+            return "2", name, (["text unpublished"] if v["text"] == "unpublished" else []),                 "adopted, and no public text has been found"
         if v["period"] == "open" or not v["period"]:
             old = 1900 < v["date"].year < as_at.year - 10
             return "3", name, ([DATED] if old else []), "no stated period: an open policy stops at stage 3"
@@ -145,7 +145,7 @@ def rung(insts: dict[str, dict], absent: list[dict], as_at: dt.date, national: b
         return study_lib.UNPLACED, name, noted, "no standing stated for it"
     if in_plan:
         return study_lib.UNPLACED, "", noted, "only a chapter of a national plan is held"
-    return study_lib.NO_EVIDENCE, "", [], "nothing held on a sector policy"
+    return study_lib.NO_EVIDENCE, "", [], "nothing found on a sector policy"
 
 
 def neighbour() -> set[str]:

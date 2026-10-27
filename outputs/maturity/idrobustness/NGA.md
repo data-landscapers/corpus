@@ -6,8 +6,8 @@
 
 **Biometric checks.** [TechCabal reports that enrolment captures demographic and biometric data and that issuance follows processing, validation and deduplication against the national database, as explained by two commentators](<https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/>).
 
-***Noted, not assessed***. [CoopID / Cooperative Verification Number](<https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/>); [NINAuth](<https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/>).
+***Also on file***. [CoopID / Cooperative Verification Number](<https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/>); [NINAuth](<https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/>).
 
-***Not held***. No source held since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

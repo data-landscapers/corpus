@@ -2,6 +2,6 @@
 
 ## Interoperability of birth registration and digital id
 
-***Noted, not assessed***. [VENEEM](<https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/>); [Carte d'identité biométrique AES (CIB-AES)](<https://www.sidwaya.info/carte-didentite-biometrique-aes-au-burkina-faso-le-capitaine-ibrahim-traore-pour-commencer/>).
+***Also on file***. [VENEEM](<https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/>); [Carte d'identité biométrique AES (CIB-AES)](<https://www.sidwaya.info/carte-didentite-biometrique-aes-au-burkina-faso-le-capitaine-ibrahim-traore-pour-commencer/>).
 
-***Not held***. Nothing held says whether the civil register and the ID system are linked.
+***Not found***. Nothing found says whether the civil register and the ID system are linked.

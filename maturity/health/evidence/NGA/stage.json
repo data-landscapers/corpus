@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-027;NGA-028;NGA-030",
-      "gaps": "No share or count of primary clinics entering their own reports: NGA-028 (2025-06, valued facility) only encourages states to deploy devices for direct reporting and gives no count, and it disagrees with NGA-030, NGA-032 and NGA-033, which have paper forms keyed at the LGA office. The only clinic figure is 0 of 16 sampled facilities in 2016-2017 (NGA-025), which does not carry the country; no dated event is held for the last twelve months, and the domestic commitment in NGA-010 is not broken down to DHIS2.",
+      "gaps": "No share or count of primary clinics entering their own reports: NGA-028 (2025-06, valued facility) only encourages states to deploy devices for direct reporting and gives no count, and it disagrees with NGA-030, NGA-032 and NGA-033, which have paper forms keyed at the LGA office. The only clinic figure is 0 of 16 sampled facilities in 2016-2017 (NGA-025), which does not carry the country; no dated event has been found for the last twelve months, and the domestic commitment in NGA-010 is not broken down to DHIS2.",
       "note": "A single national DHIS2 instance takes primary, secondary and tertiary facilities' monthly reports at 91.5% in June 2025, keyed at the LGA from clinics' paper forms. Stage 4 needs more than half of primary clinics entering their own reports on a share or a count with a denominator, and none is published."
     },
     {

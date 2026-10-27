@@ -8,6 +8,6 @@
 
 **Exchange with partners.** [ECOWAS says it launched the deployment of SIGMAT, its interconnected system for goods in transit, between Cote d'Ivoire, Guinea and Liberia on 31 October 2025, the three exchanging electronic transit messages through the interconnection of their national customs systems](<https://www.ecowas.int/ecowas-strengthens-intra-regional-trade-with-the-launch-of-sigmat-between-cote-divoire-guinea-and-liberia/>).
 
-***Noted, not assessed***. [Port Community System (PCS)](<https://webbfontaine.com/news/guceg-impact-360-highlights-seven-years-of-digital-trade-transformation-in-guinea>).
+***Also on file***. [Port Community System (PCS)](<https://webbfontaine.com/news/guceg-impact-360-highlights-seven-years-of-digital-trade-transformation-in-guinea>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

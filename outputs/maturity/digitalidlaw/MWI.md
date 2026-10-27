@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** A 2025 presentation on the financial sector's use of the national identity says [the National Registration Act No. 13 of 2010 was enacted as the legal foundation for the national digital identity system](<https://www.id4africa.com/2025/files/T3-P3-S2-3-Malawi_FINAL.pdf>), with the registration bureau set up under it. The regulations of 23 July 2026 [raised registration fees](<https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/>), and the July 2026 meeting [reviewed the registration laws](<https://cajnewsafrica.com/2026/07/13/malawi-outlines-plans-to-transition-to-digital-ids/>), with no bill on record since.
 
-***Noted, not assessed***. [National ID (National Registration Bureau)](<https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/>); [Digital national ID cards (mobile-accessible)](<https://cajnewsafrica.com/2026/07/13/malawi-outlines-plans-to-transition-to-digital-ids/>).
+***Also on file***. [National ID (National Registration Bureau)](<https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/>); [Digital national ID cards (mobile-accessible)](<https://cajnewsafrica.com/2026/07/13/malawi-outlines-plans-to-transition-to-digital-ids/>).
 
-***Not held***. No regulation applying the Act, or rule that others must check identity against the system, dated in the last three years, is held; the 2026 regulations change fees.
+***Not found***. No regulation applying the Act, or rule that others must check identity against the system, dated in the last three years, is held; the 2026 regulations change fees.

@@ -6,8 +6,8 @@
 
 **Across government.** [The Fundamentals of Digital Skills Program, implemented by ICDL Arabia, targets all employees of the state's administrative apparatus](<https://mcit.gov.eg/en/Human_Capacity/MCIT/States_Administrative_Apparatus_Employees>), and [the deputy ICT minister said in November 2024 that most of its leaders and staff had been trained](<https://www.elwatannews.com/news/details/7692723>).
 
-**Share published.** No source held since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://mcit.gov.eg/en/Human_Capacity/MCIT/States_Administrative_Apparatus_Employees>).
+**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://mcit.gov.eg/en/Human_Capacity/MCIT/States_Administrative_Apparatus_Employees>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives the share of the civil service trained in digital skills.
+***Not found***. No source found since October 2023 gives the share of the civil service trained in digital skills.

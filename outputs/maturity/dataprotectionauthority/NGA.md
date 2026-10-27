@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** The Commission [issued a Final Order against Meta](https://www.premiumtimesng.com/news/top-news/913097-court-dismisses-25-million-privacy-suit-against-meta-in-imo.html) finding violations of the data rights of over 60 million Nigerians and imposing a $32.8 million fine. The fine was later set aside when the Federal High Court in Abuja adopted a settlement between the Commission and Meta. That [court-approved settlement dates from 2025](https://itweb.africa/article/meta-backs-ndpc-in-landmark-privacy-initiative/lwrKxq3Y2W27mg1o), and under it Meta funds a two-year programme. [The 58-page Final Order, from February 2025, also covered consent, minors' data and transfers abroad; the consent judgment that dropped the fine was entered on 3 November 2025](<https://technext24.com/policy-and-tech/ndpc-data-protection-meta/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No count of the authority's decisions, fines or complaints settled is held for a period ending in the last two years.
+***Not found***. No count of the authority's decisions, fines or complaints settled has been found for a period ending in the last two years.

@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest held facts concern bills, not a law in operation. The [15 July 2026 committee meeting in Benghazi](<https://alwasat.ly/news/libya/524932>) was work on preparing the cybersecurity bill. The [draft on cybercrime and digital evidence](<https://informatics.ly/en/session/cybercrime-law-session/>) was at the stage of expert feedback in 2025, and no enacted text is described in either source.
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. No source held says a cybercrime or cybersecurity law is in force.
+***Not found***. No source found says a cybercrime or cybersecurity law is in force.

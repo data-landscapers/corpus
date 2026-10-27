@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** The [2020 regulations](<https://centralbank.gov.so/wp-content/uploads/2025/06/Mobile-Money-Regulation-2020_amended_2021.pdf>) license mobile money service providers. It is not said that those providers are companies other than banks, and no rule is named that requires mobile money providers and banks to connect to each other or to a national switch. Whether the bill has been signed into law is not reported.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.
+***Not found***. No source found says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.

@@ -350,6 +350,6 @@ In 2024, 0.7 per cent of rural people had electricity.
 
 ### Libya: Unplaced
 
-No figure for the share of rural people with electricity is held for 2023 or later, so no stage is set.
+No figure for the share of rural people with electricity has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for the share of rural people with electricity.
+Not established: No figure for 2023 or later has been found for the share of rural people with electricity.

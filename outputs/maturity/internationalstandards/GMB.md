@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [register](<https://www.iso.org/member/576505.html>) shows the bureau with participating and observing seats on technical committees and does not name them. A 2025 report on the country's digital trade says the national cybersecurity strategy for 2022 to 2026 [suggests the international information security standards for government agencies](<https://dco.org/wp-content/uploads/2025/10/Gambia-Report.pdf>). The suggestion is listed below.
 
-***Noted, not assessed***. [The cybersecurity strategy's suggestion of ISO/IEC 27001 and 27002 for government agencies](<https://dco.org/wp-content/uploads/2025/10/Gambia-Report.pdf>).
+***Also on file***. [The cybersecurity strategy's suggestion of ISO/IEC 27001 and 27002 for government agencies](<https://dco.org/wp-content/uploads/2025/10/Gambia-Report.pdf>).
 
-***Not held***. No source held names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.

@@ -6,6 +6,6 @@
 
 **Use of the law.** [Paradigm Initiative, citing the African Union's preliminary report](<https://paradigmhq.org/paradigm-initiatives-statement-to-the-african-commission-on-human-and-peoples-rights-on-the-human-rights-situation-in-africa-at-the-89th-ordinary-session/>), says ZNBC journalist MacPherson Mukuka was arrested under section 10 of the cybercrime law, for recording a private conversation, during the August 2026 elections. On 5 August 2026 [Access Now and the #KeepItOn coalition urged the government](<https://www.accessnow.org/press-release/keepiton-zambia-internet-access-upcoming-elections/>) not to let the two Acts become tools to suppress expression. At a rally before 4 July 2026, [Makebi Zulu said the Act had gagged Zambians](<https://diggers.news/local/2026/07/04/well-repeal-cyber-law-makebi/>) since its enactment.
 
-***Noted, not assessed***. [Zambia Cyber Security Agency](<https://eastafricanpolicyobserver.org/commentary/new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia-ictworks/>).
+***Also on file***. [Zambia Cyber Security Agency](<https://eastafricanpolicyobserver.org/commentary/new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia-ictworks/>).
 
-***Not held***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is known.
+***Not found***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is known.

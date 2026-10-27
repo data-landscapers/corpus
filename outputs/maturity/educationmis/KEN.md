@@ -6,8 +6,8 @@
 
 **Learner records.** [The Ministry of Education KEMIS Secretariat circular says KEMIS holds learner records marked Valid or Invalid by an operational Learner Validation Engine and generates a Unique Learner Identifier (ULI) for learners in schools](<https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/>).
 
-**Linked.** No source held since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [a ministry circular says KEMIS validates learner records and generates a Unique Learner Identifier for learners in schools](<https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/>).
+**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [a ministry circular says KEMIS validates learner records and generates a Unique Learner Identifier for learners in schools](<https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/>).
 
-***Noted, not assessed***. [KNEC examination and assessment databases](<https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/>).
+***Also on file***. [KNEC examination and assessment databases](<https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/>).
 
-***Not held***. No source held since October 2023 says learner records are linked to the national ID or another government system.
+***Not found***. No source found since October 2023 says learner records are linked to the national ID or another government system.

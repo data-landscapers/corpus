@@ -6,8 +6,8 @@
 
 **Labelling.** Startups are labelled in Tunisia: [a March 2026 column put the number labelled in Tunisia at 1,450](<https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/>).
 
-**Funded.** Nothing held says a public fund set up under the Startup Act has financed startups. The nearest fact is [the count of 1,450 labelled startups that a March 2026 column gives for the country](<https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/>).
+**Funded.** Nothing found says a public fund set up under the Startup Act has financed startups. The nearest fact is [the count of 1,450 labelled startups that a March 2026 column gives for the country](<https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a public fund under the startup law or strategy has financed startups.
+***Not found***. No source found since October 2023 says a public fund under the startup law or strategy has financed startups.

@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** With [no provider licensed](<https://www.agenceecofin.com/actualites-numerique/3108-141168-internet-par-satellite-starlink-cible-16-nouveaux-marches-africains-d-ici-fin-2026>), there is nothing to count. Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. [OneWeb](<https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de>); [Starlink](<https://www.aci.cg/congo-regulation-necessite-dadapter-les-mecanismes-regulateurs-aux-realites-nationales/>).
+***Also on file***. [OneWeb](<https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de>); [Starlink](<https://www.aci.cg/congo-regulation-necessite-dadapter-les-mecanismes-regulateurs-aux-realites-nationales/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

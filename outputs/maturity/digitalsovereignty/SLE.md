@@ -6,8 +6,8 @@
 
 **Hosted nationally.** [The Minister and team walked the UN delegation through the Government Data Centre at NatCA Tower, with plans outlined for a redundancy site at State House, as reported by Sierra Loaded](<https://sierraloaded.sl/news/communication-strengthens-partnership/>).
 
-**Contract terms.** No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://sierraloaded.sl/news/communication-strengthens-partnership/>).
+**Contract terms.** No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit. The nearest held fact: [the one given above](<https://sierraloaded.sl/news/communication-strengthens-partnership/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.
+***Not found***. No source found since October 2023 says a government contract carries terms on data jurisdiction, portability or exit.

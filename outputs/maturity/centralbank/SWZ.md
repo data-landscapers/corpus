@@ -6,8 +6,8 @@
 
 **Overseeing a switch.** [The Central Bank of Eswatini says the Eswatini Payment Switch fast payments platform is fully active, connecting banks and mobile money providers in real time, 24/7](<https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/>). [The Central Bank of Eswatini's Fast Payments system enables transactions across different account types and wallets, and the central bank describes the Eswatini Payment Switch as its payments infrastructure](<https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/>).
 
-**Live on PAPSS.** No source held since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/>).
+**Live on PAPSS.** No source found since October 2023 says the country takes part in PAPSS or a regional payment system. The nearest held fact: [the one given above](<https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/>).
 
-***Noted, not assessed***. [MTN Fintech Limited](<https://www.centralbank.org.sz/national-payment-systems/>); [E-Mali (Pty) Ltd](<https://www.centralbank.org.sz/national-payment-systems/>); [Instacash Services](<https://www.centralbank.org.sz/national-payment-systems/>); [Shoprite mobile Money Services](<https://www.centralbank.org.sz/national-payment-systems/>); [DeltaPay](<https://www.centralbank.org.sz/national-payment-systems/>); [SAECH](<https://www.centralbank.org.sz/national-payment-systems/>).
+***Also on file***. [MTN Fintech Limited](<https://www.centralbank.org.sz/national-payment-systems/>); [E-Mali (Pty) Ltd](<https://www.centralbank.org.sz/national-payment-systems/>); [Instacash Services](<https://www.centralbank.org.sz/national-payment-systems/>); [Shoprite mobile Money Services](<https://www.centralbank.org.sz/national-payment-systems/>); [DeltaPay](<https://www.centralbank.org.sz/national-payment-systems/>); [SAECH](<https://www.centralbank.org.sz/national-payment-systems/>).
 
-***Not held***. No source held since October 2023 says the country takes part in PAPSS or a regional payment system.
+***Not found***. No source found since October 2023 says the country takes part in PAPSS or a regional payment system.

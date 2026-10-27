@@ -12,6 +12,6 @@
 
 **Last twelve months.** The executive regulations [were issued on 1 November 2025](<https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl>), and the Center's [guidelines followed in January and February 2026](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>). It [launched its licensing and permit portal in early October 2026](<https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No sanction, order or decision on a named controller under the law, and no published count of cases settled.
+***Not found***. No sanction, order or decision on a named controller under the law, and no published count of cases settled.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CMR-003;CMR-002;CMR-004",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
       "note": "Rebuild, raised from 3: secure e-signature is live in 37 of 40 administrations on AIGLE (CMR-003), a row the first pass counted as after its as-at. Staged on the rung as worded; read as one service, it is stage 3.",
       "as_at": "2026-10-22"
     }

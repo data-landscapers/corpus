@@ -12,6 +12,6 @@
 
 **Last twelve months.** At a workshop co-hosted with Huawei in November 2025, Authority officials [previewed a digital portal for registering data controllers and processors](<https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No sanction or order on a named controller is held, and no published count of decisions for a stated period. No directive under the proclamation is held as approved.
+***Not found***. No sanction or order on a named controller has been found, and no published count of decisions for a stated period. No directive under the proclamation has been found as approved.

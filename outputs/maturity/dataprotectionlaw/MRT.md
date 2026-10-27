@@ -12,6 +12,6 @@
 
 **Last twelve months.** On 19 November 2025 the APD [approved a control reference framework and empowered its sworn agents to take part in inspection missions](<https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-13/>). On 29 April 2026 it [approved amendments to deliberations 004/2025 and 005/2025 and discussed complaints 008-2025 and 001-2026](<https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-16/>). Its [30 June 2026 session](<https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-18/>) had authorisation requests and ministries' compliance answers on its agenda.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source gives a sanction, order or decision on a named controller, or a published count of decisions for a stated year, and the outcomes of the APD's sessions are mostly not stated. The law's commencement date, whether Mauritania has ratified the Malabo Convention and whether the law is under revision are not held.
+***Not found***. No source gives a sanction, order or decision on a named controller, or a published count of decisions for a stated year, and the outcomes of the APD's sessions are mostly not stated. The law's commencement date, whether Mauritania has ratified the Malabo Convention and whether the law is under revision are not held.

@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** The same study says the 2019 law [establishes the legal basis for the biometric digital identity](<https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/>) and that its second article describes the identity document as a secure card serving several applications. It is the one law in the country's framework that the study names as written for the digital identity itself, and it is short: five articles in all. No regulation or decree made under the law since September 2023 is on record.
 
-***Noted, not assessed***. [Registre national des personnes physiques (RNPP) / Numéro national d'identification (NNI)](<https://digitalmag.ci/identite-numerique-la-cote-divoire-pays-connecte-mais-pas-encore-pleinement-identifie/>); [MaPoste](<https://www.oneci.ci/actualites/1768657500>); [Biometric digital-ID (electronic smart card)](<https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/>).
+***Also on file***. [Registre national des personnes physiques (RNPP) / Numéro national d'identification (NNI)](<https://digitalmag.ci/identite-numerique-la-cote-divoire-pays-connecte-mais-pas-encore-pleinement-identifie/>); [MaPoste](<https://www.oneci.ci/actualites/1768657500>); [Biometric digital-ID (electronic smart card)](<https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/>).
 
-***Not held***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.

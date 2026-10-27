@@ -63,74 +63,74 @@ The land system was linked to land or property tax in 2026.
 
 ### Namibia: 4 Operating
 
-The land system joined records to survey maps or valuation in 2024; a link to tax is not known.
+The land system joined records to survey maps or valuation in 2024; no source found reports a link to tax.
 
 - The presentation says NCLAS has two components, communal deeds and communal cadastre (parcel geometries), linked via a Unique Parcel Identifier ([source, 2024-05-20](https://www.fig.net/resources/proceedings/fig_proceedings/fig2024/ppt/ts02g/TS02G_mazambani_12660_ppt.pdf)).
 
 ### Algeria: 3 Established
 
-Land transactions were processed electronically in 2024; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2024; no source found reports a link to survey maps or valuation.
 
 - Algeria's finance minister told the National People's Assembly on 12 December 2024 that digitising the land file, archives and documents in the land conservation offices has given automated, secured management of all land transactions ([source, 2024-12-12](https://elwatan.dz/conservations-foncieres-instructions-pour-la-creation-dun-guichet-unique/)).
 
 ### Benin: 3 Established
 
-Land transactions were processed electronically in 2026; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2026; no source found reports a link to survey maps or valuation.
 
 - Fraternité states that with the cadastre registration certificate a parcel can be sold legally at the mairie and that all operations are done directly in e-Foncier Bénin ([source, 2026-03-26](https://fraternite.bj/modernisation-de-landf-e-foncier-au-service-de-la-securite-des-investissements/)).
 - La Nation reports that the e-Foncier platform has been operational since 1 January 2025 with mairies, notaries and surveyors, and that nine e-Services on service-public.bj included 163 property transfer requests and mortgage registration, with 11,418 online requests from May 2022 to December 2024 (ANDF) ([source, 2025-01-01](https://lanation.bj/actualites/reforme-du-e-foncier-au-benin-plus-de-491-000-parcelles-enregistrees-dans-12-communes)).
 
 ### Burundi: 3 Established
 
-Land transactions were processed electronically in 2025; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2025; no source found reports a link to survey maps or valuation.
 
 - Mediabox announced on 17 June 2025 the commissioning of an EDRMS at the land titles directorate DTFCN, interconnected with the Building Permit System (first titles) and the Property Management System (title updates: transfers, corrections, mortgages), forming an integrated digital ecosystem ([source, 2025-06-17](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-mediabox-deploie-un-systeme-interconnecte-pour-les-services-fonciers)).
 
 ### Cote d'Ivoire: 3 Established
 
-Land transactions were processed electronically in 2026; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2026; no source found reports a link to survey maps or valuation.
 
 - AFOR reports that the Bongouanou sub-prefectural land committee examined and validated five rural land certificate files on 12 March 2026 using digital maps and geospatial data, and the certificates were signed electronically ([source, 2026-03-12](https://afor.ci/news/nos-actualites/105)).
 
 ### Egypt: 3 Established
 
-Land transactions were processed electronically in 2025; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2025; no source found reports a link to survey maps or valuation.
 
 - Ahram Online reports that the Real Estate Registry and Notarization Complex in New Alamein was inaugurated on 2025-07-17 with an integration system between the Justice and Housing ministries in 16 new-city registry offices, which register land, building and unit transactions with electronic tools for processing ([source, 2025-07-17](https://english.ahram.org.eg/NewsContent/1/2/549747/Egypt/Society/Egypt-PM-inaugurates-Real-Estate-Registry-and-Nota.aspx)).
 
 ### Eswatini: 3 Established
 
-Land transactions were processed electronically in 2026; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2026; no source found reports a link to survey maps or valuation.
 
 - The Ministry of Natural Resources and Energy says the Deeds Registry has computerised its land, debts and miscellaneous contract registers since 1995, updated daily as ownership changes hands, with scanned records on-line on a local network ([source, 2026-08-29](https://gov.sz/index.php/departments-sp-623334762/deeds)).
 
 ### Malawi: 3 Established
 
-Land transactions were processed electronically in 2024; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2024; no source found reports a link to survey maps or valuation.
 
 - ITWeb Africa reports Malawi launched its web-based Land Information Management System in February 2024, where registered users submit documents, receive notifications and pay ground rent and application fees, while some transactions remain manual ([source, 2024-02](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m)).
 
 ### Mauritania: 3 Established
 
-Land transactions were processed electronically in 2024; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2024; no source found reports a link to survey maps or valuation.
 
 - The Administration Générale des Domaines announced it has begun registering all contracts and putting final copies online after fee payment by mobile payment apps, via the Lagoud platform ([source, 2024-04-25](https://fr.madar.mr/actualites/mauritanie-procedures-pour-faciliter-lenregistrement-des-contrats-a-travers-une-plateforme-numerique/)).
 
 ### Togo: 3 Established
 
-Land transactions were processed electronically in 2024; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2024; no source found reports a link to survey maps or valuation.
 
 - Togo Officiel says the process of obtaining land titles is fully dematerialised through an online portal handling all cadastre procedures ([source, 2024-09](https://www.republiquetogolaise.tg/tic/1609-9722-services-publics-zoom-sur-les-reformes-initiees-pour-accelerer-la-digitalisation)).
 
 ### Tunisia: 3 Established
 
-Land transactions were processed electronically in 2025; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2025; no source found reports a link to survey maps or valuation.
 
 - The Minister of State Domains says the national land office (ONPF) has finished installing its comprehensive IT system for its services and rolled it out to all its regional offices ([source, 2025-05-23](http://www.domainetat.tn/?p=14628)).
 
 ### Zimbabwe: 3 Established
 
-Land transactions were processed electronically in 2025; a link to survey maps or valuation is not known.
+Land transactions were processed electronically in 2025; no source found reports a link to survey maps or valuation.
 
 - Justice Minister Ziyambi Ziyambi announced in a Government Gazette notice the launch of the Digital Land Administration Platform (DLAP), described as a computerized land administration system for online processing of documents and deeds ([source, 2025-05-30](https://newziana.co.zw/zimbabwe-launches-digital-platform-to-modernize-title-deed-processing/)).
 
@@ -235,126 +235,126 @@ A land information system was under way in 2023; none in service is on record.
 
 ### Burkina Faso: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Cape Verde: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Congo: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Eritrea: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Lesotho: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Mali: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Mauritius: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Morocco: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Mozambique: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Sao Tome and Principe: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### South Sudan: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Zambia: Unplaced
 
-Nothing held since 2023 names a land information system, so no stage is set.
+Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land transactions are processed electronically.
+Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
 
 ### Angola: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.
 
 ### Central African Republic: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.
 
 ### Comoros: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.
 
 ### Djibouti: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.
 
 ### Gabon: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.
 
 ### Somalia: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.
 
 ### Sudan: No evidence
 
-Nothing held names a land information system or says there is none, so no stage is set.
+Nothing found names a land information system or says there is none, so no stage is set.
 
-Not established: Nothing held says how land transactions are processed.
+Not established: Nothing found says how land transactions are processed.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-004;GHA-005",
-      "gaps": "No source held reports results for the tax analytics, and the health surveillance work is not shown in service.",
+      "gaps": "No source found reports results for the tax analytics, and the health surveillance work is not shown in service.",
       "note": "Review 2026-10-21: the Ministry of Finance reports measured results of Publican Trade Solution in service at the ports (75.3% of declarations cleared, 24.7% flagged), which answers rung 5 and the rungs below it; the stage does not rest on reading tax and customs as two sectors.",
       "as_at": "2026-10-21"
     }

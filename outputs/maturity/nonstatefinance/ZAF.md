@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** The Technology Innovation Agency and the Small Enterprise Development and Finance Agency joined the same [Mamor first close](<https://techcabal.com/2026/09/02/south-africa-startup-funding-recovering-founders-struggle/>), a private fund, in 2026.
 
-***Noted, not assessed***. [Mamor Capital Ventures first fund](<https://www.itweb.co.za/article/mamor-capital-raises-r300m-for-sa-tech-start-ups/KPNG878NLWgq4mwD>); [Yellow Series C](<https://www.weetracker.com/2026/08/21/yellow-series-c-funding-convergence-partners-africa/>).
+***Also on file***. [Mamor Capital Ventures first fund](<https://www.itweb.co.za/article/mamor-capital-raises-r300m-for-sa-tech-start-ups/KPNG878NLWgq4mwD>); [Yellow Series C](<https://www.weetracker.com/2026/08/21/yellow-series-c-funding-convergence-partners-africa/>).
 
-***Not held***. No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project. Nor is there a state fund that private investors have paid into.
+***Not found***. No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project. Nor is there a state fund that private investors have paid into.

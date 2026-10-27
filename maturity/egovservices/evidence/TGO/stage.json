@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-011;TGO-002;TGO-006",
-      "gaps": "No source held since October 2023 gives users, applications or transactions through the national portal.",
-      "note": "ANID's May 2026 deck describes service-public.gouv.tg as one integrated portal for public services with sign-in by the national ID number. No count of users or transactions through it is held.",
+      "gaps": "No source found since October 2023 gives users, applications or transactions through the national portal.",
+      "note": "ANID's May 2026 deck describes service-public.gouv.tg as one integrated portal for public services with sign-in by the national ID number. No count of users or transactions through it has been found.",
       "as_at": "2026-10-23"
     }
   ]

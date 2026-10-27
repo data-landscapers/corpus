@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The HAPDP president said in July 2025 that the authority [processed 139 compliance files](<https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/>) since September 2024, covering declarations, video-surveillance declarations, and processing and transfer authorisations, and ran four control missions in 2025 on mobile operators.
 
-***Noted, not assessed***. [Haute Autorité de Protection des Données à caractère Personnel (HAPDP)](<https://www.africadataprotection.org/actualites/Niger-Suppression-de-la-Haute-Autorite-de-Protection-des-Donnees-a-caractere-Personnel-et-transfert-de-ses-competences.html>).
+***Also on file***. [Haute Autorité de Protection des Données à caractère Personnel (HAPDP)](<https://www.africadataprotection.org/actualites/Niger-Suppression-de-la-Haute-Autorite-de-Protection-des-Donnees-a-caractere-Personnel-et-transfert-de-ses-competences.html>).
 
-***Not held***. No authority appointed after the decree is held, and none registering organisations, taking breach reports, issuing guidance or inspecting.
+***Not found***. No authority appointed after the decree has been found, and none registering organisations, taking breach reports, issuing guidance or inspecting.

@@ -6,6 +6,6 @@
 
 **Sharing required and the law applied.** The [same law](<https://mcnti.gouv.ne/ova_doc/loi-2019-03-du-30-avril-2019-portant-sur-les-transactions-electroniques-au-niger/>) exempts an applicant from supplying a supporting document when the administration can obtain it directly from the administration or services concerned (Art. 33), replacing it with a sworn declaration. The framework's data directories, norms and standards are those the administration must use (Art. 35). No regulation or order made under it is recorded, and no public body is named as exchanging data because it requires them to.
 
-***Noted, not assessed***. [Registre National de la Population (RNP)](<https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/>).
+***Also on file***. [Registre National de la Population (RNP)](<https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/>).
 
-***Not held***. No regulation, decree or order made under the law, and no public body named as exchanging data because it requires them to, dated in the last three years, is held.
+***Not found***. No regulation, decree or order made under the law, and no public body named as exchanging data because it requires them to, dated in the last three years, is held.

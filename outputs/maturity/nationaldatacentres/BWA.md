@@ -8,6 +8,6 @@
 
 **The state's data hosted nationally.** [Mmegi reports that critical Botswana government services have migrated to the Digital Delta Data Centre, which supports essential government functions and applications; the article quotes BoFiNeT's CEO on the migration but does not itself state who owns or runs the centre](<https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news>).
 
-***Noted, not assessed***. [BTCL Cloud Connect](<https://businessweekly.co.bw/news/btcs-fall-from-grace>).
+***Also on file***. [BTCL Cloud Connect](<https://businessweekly.co.bw/news/btcs-fall-from-grace>).
 
-***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.
+***Not found***. No source found names a second nationally owned data centre for hire at Tier III or above.

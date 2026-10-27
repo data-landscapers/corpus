@@ -6,8 +6,8 @@
 
 **Across government.** [The e-Government Authority says e-Mrejesho lets citizens reach all government institutions, transfers a misdirected complaint between institutions and allows appeal to a higher level](<https://www.ega.go.tz/news/mfumo-wa-e-mrejesho-washinda-tuzo-ya-umoja-wa-mataifa-ya-ubunifu-katika-huduma-za-umma>). [E-GA's director general says e-Mrejesho connects all government institutions, which can exchange the complaints and opinions citizens submit (2022, before the three-year window)](<https://www.ega.go.tz/news/e-mrejesho-ni-suluhisho-la-kero-za-wananchi>).
 
-**Results published.** No source held since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://www.ega.go.tz/news/mfumo-wa-e-mrejesho-washinda-tuzo-ya-umoja-wa-mataifa-ya-ubunifu-katika-huduma-za-umma>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://www.ega.go.tz/news/mfumo-wa-e-mrejesho-washinda-tuzo-ya-umoja-wa-mataifa-ya-ubunifu-katika-huduma-za-umma>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives resolution rates, response times or a report of the cases handled.
+***Not found***. No source found since October 2023 gives resolution rates, response times or a report of the cases handled.

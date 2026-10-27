@@ -8,6 +8,6 @@
 
 **National switch.** [AfricaNenda says GIMACPAY also provides domestic instant payment functionality connecting banks and mobile money wallets in each CEMAC state, including the Republic of Congo](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Noted, not assessed***. [DigiTransfer](<https://www.wearetech.africa/en/fils-uk/news/tech/belmoney-digipay-launch-instant-transfer-app-for-congo-and-drc>).
+***Also on file***. [DigiTransfer](<https://www.wearetech.africa/en/fils-uk/news/tech/belmoney-digipay-launch-instant-transfer-app-for-congo-and-drc>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

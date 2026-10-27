@@ -407,7 +407,7 @@ def ready(study: dict, study_id: str, share: str, note: str, lint: str, rebuild:
               "standing notes-for-osint 237; spent once OSINT's pull has removed `READY`."
               if rebuild else f"**Closed by:** notes-for-osint {note}"), "",
              "**Selection rule.** A fetched document is here when its body states a dated fact, on "
-             "an aspect the study had no dated fact for, that nothing held states. There is no "
+             "an aspect the study had no dated fact for, that nothing found states. There is no "
              "numeric cap. Bodies are verbatim from the fetch, copied by script.", "",
              f"**Lane asked for:** backfill; every file carries `sweep_batch: maturity-study-{study_id}-{{ISO3}}-{{date}}`.", "",
              f"**Staging lint:** {lint}", "",

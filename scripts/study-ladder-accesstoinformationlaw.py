@@ -43,10 +43,10 @@ import study_lib  # noqa: E402
 STUDY = "accesstoinformationlaw"
 GAPS = {
     "5": "Nothing on the four questions.",
-    "4": "No source held dates a decision, order or penalty on a request, published figures of "
+    "4": "No source found dates a decision, order or penalty on a request, published figures of "
          "requests, or a rule made under the law, in the last three years.",
-    "3": "No source held names rules made under the law or says its oversight body is set up.",
-    "2": "No source held says an access to information law is in force.",
+    "3": "No source found names rules made under the law or says its oversight body is set up.",
+    "2": "No source found says an access to information law is in force.",
     "1": "",
 }
 
@@ -87,7 +87,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "reach": "", "sources": [],
-                "gaps": "Nothing held names an access to information law or a draft of one, or says "
+                "gaps": "Nothing found names an access to information law or a draft of one, or says "
                         "there is none."}
     if applied:
         s, src = "5", applied + [r for r in rules if r not in applied][:1] + law[:1]

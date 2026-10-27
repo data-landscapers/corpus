@@ -32,7 +32,7 @@ The African Space Strategy asks that space-derived products be used for decision
 
 ### Burkina Faso: 4 Operating
 
-The meteorological agency publishes a ten-day satellite crop bulletin (2026); how many farmers it reaches is not known.
+The meteorological agency publishes a ten-day satellite crop bulletin (2026); no source found says how many farmers it reaches.
 
 - ANAM describes its ten-day agro-meteorological bulletin for Burkina Faso as a current product carrying NDVI and NDVI anomalies with rainfall, temperature and humidity anomalies ([source, 2026-10](https://meteoburkina.bf/produits/bulletin-agrometeologique-decadaire/)).
 - ANAM publishes the bulletin every ten days, the newest listed update covering 13-19 October 2026 ([source, 2026-10](https://meteoburkina.bf/produits/bulletin-agrometeologique-decadaire/)).
@@ -45,7 +45,7 @@ A farming service published satellite-based bulletins or maps on a schedule in 2
 
 ### Senegal: 4 Operating
 
-The met agency issued satellite-based farm bulletins every ten days in 2025; how many farmers or districts receive them is not known.
+The met agency issued satellite-based farm bulletins every ten days in 2025; no source found says how many farmers or districts receive them.
 
 - AICCRA reports that ANACIM, which fully runs the AgData Hub since late 2025, now generates crop-specific, district-scale agro-climatic bulletins combining near-real-time forecasts, satellite observations and seasonal outlooks ([source, 2025-10](https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture)).
 - AICCRA says the multidisciplinary working group coordinated by ANACIM publishes an agrometeorological bulletin at the end of each ten-day period, now produced in the AgData Hub app ([source, 2025-10](https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture)).
@@ -64,7 +64,7 @@ A farming service using satellite data was in use in 2025; regular published out
 
 ### Egypt: 3 Established
 
-A government satellite crop map was produced for the 2023-24 winter season; whether it is published on a schedule is not known.
+A government satellite crop map was produced for the 2023-24 winter season; no source found says whether it is published on a schedule.
 
 - Daily News Egypt reports NARSS and the Ministry of Agriculture and Land Reclamation presented a crop map for the 2023-24 winter season, with each governorate using remote sensing data to inventory and classify wheat, clover and sugar beet ([source, 2024-11-05](https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/)).
 
@@ -88,7 +88,7 @@ A farming service using satellite data was in use in 2025; regular published out
 
 ### Zambia: 3 Established
 
-A national satellite crop monitor was launched across all provinces in 2024; whether it publishes on a schedule is not known.
+A national satellite crop monitor was launched across all provinces in 2024; no source found says whether it publishes on a schedule.
 
 - AICCRA reports that Zambia's National Crop Monitor, a GIS-based GEOGLAM tool using MODIS, VIIRS, CHIRPS, Landsat and Sentinel 2 data, was launched at a Lusaka workshop with provincial teams from Zambia's 10 provinces ([source, 2024-08-16](https://aiccra.cgiar.org/news/zambia-launches-national-crop-monitor-enhance-agricultural-resilience-amidst-drought-crisis)).
 
@@ -326,48 +326,48 @@ Satellite data was being put to use in farming in 2025; a service in use is not 
 
 ### Gabon: Unplaced
 
-Nothing held since 2023 names satellite data put to use in farming, so no stage is set.
+Nothing found since 2023 names satellite data put to use in farming, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether satellite data is used in farming.
+Not established: Nothing found since October 2023 says whether satellite data is used in farming.
 
 ### Guinea: Unplaced
 
-Nothing held since 2023 names satellite data put to use in farming, so no stage is set.
+Nothing found since 2023 names satellite data put to use in farming, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether satellite data is used in farming.
+Not established: Nothing found since October 2023 says whether satellite data is used in farming.
 
 ### Lesotho: Unplaced
 
-Nothing held since 2023 names satellite data put to use in farming, so no stage is set.
+Nothing found since 2023 names satellite data put to use in farming, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether satellite data is used in farming.
+Not established: Nothing found since October 2023 says whether satellite data is used in farming.
 
 ### Cape Verde: No evidence
 
-Nothing held names satellite data put to use in farming or says there is none, so no stage is set.
+Nothing found names satellite data put to use in farming or says there is none, so no stage is set.
 
-Not established: Nothing held says whether satellite data is used in farming.
+Not established: Nothing found says whether satellite data is used in farming.
 
 ### Central African Republic: No evidence
 
-Nothing held names satellite data put to use in farming or says there is none, so no stage is set.
+Nothing found names satellite data put to use in farming or says there is none, so no stage is set.
 
-Not established: Nothing held says whether satellite data is used in farming.
+Not established: Nothing found says whether satellite data is used in farming.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names satellite data put to use in farming or says there is none, so no stage is set.
+Nothing found names satellite data put to use in farming or says there is none, so no stage is set.
 
-Not established: Nothing held says whether satellite data is used in farming.
+Not established: Nothing found says whether satellite data is used in farming.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names satellite data put to use in farming or says there is none, so no stage is set.
+Nothing found names satellite data put to use in farming or says there is none, so no stage is set.
 
-Not established: Nothing held says whether satellite data is used in farming.
+Not established: Nothing found says whether satellite data is used in farming.
 
 ### Seychelles: No evidence
 
-Nothing held names satellite data put to use in farming or says there is none, so no stage is set.
+Nothing found names satellite data put to use in farming or says there is none, so no stage is set.
 
-Not established: Nothing held says whether satellite data is used in farming.
+Not established: Nothing found says whether satellite data is used in farming.

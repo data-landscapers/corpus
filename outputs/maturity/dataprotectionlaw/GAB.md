@@ -12,6 +12,6 @@
 
 **Last twelve months.** On 20 January 2026 the authority [supervised the destruction of the personal data of unsuccessful 2022 bidders](<https://www.gabonreview.com/marches-publics-les-donnees-personnelles-des-soumissionnaires-de-2022-officiellement-detruites/>) held by the public procurement directorate. It [accompanied a data centre project for several months before commissioning](<https://www.gabonreview.com/hebergement-des-donnees-le-gabon-met-fin-a-sa-dependance-aux-serveurs-etrangers-avec-son-premier-datacenter/>), reported in June 2026. Its president said in September 2026 that it had [logged about 715 declarations of conformity, issued about 50 reasoned opinions and received about 30 complaints from individuals](<https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any regulations have been issued under Loi n°025/2023. The authority's counts carry no year or period, and nothing dated in the twelve months to 30 September 2026 shows the law being strengthened or weakened.
+***Not found***. Whether any regulations have been issued under Loi n°025/2023. The authority's counts carry no year or period, and nothing dated in the twelve months to 30 September 2026 shows the law being strengthened or weakened.

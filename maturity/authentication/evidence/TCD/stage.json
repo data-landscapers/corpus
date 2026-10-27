@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TCD-001",
-      "gaps": "No source held since October 2023 says an authentication service is in use.",
+      "gaps": "No source found since October 2023 says an authentication service is in use.",
       "note": "Rebuild: ANATS and Airtel signed in May 2026 for ANATS to verify subscriber data (TCD-001). No check is reported live.",
       "as_at": "2026-10-22"
     }

@@ -6,6 +6,6 @@
 
 **Standards required and checked.** [The 2002 framework](<https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf>) is at version 1.0. It was written for the government's information systems as a whole, and its standards and specifications apply to data passing between one public agency and another. The framework dates from November 2002, more than twenty years before the date of this assessment, and version 1.0 is the edition the government issued then. It names both aims together: systems that work with one another, and data that passes between agencies.
 
-***Noted, not assessed***. [Digital Service Framework](<https://gis.govmu.org/gis/?page_id=4022>).
+***Also on file***. [Digital Service Framework](<https://gis.govmu.org/gis/?page_id=4022>).
 
-***Not held***. No source held says a law, decree, regulation or circular requires public bodies to use the standards.
+***Not found***. No source found says a law, decree, regulation or circular requires public bodies to use the standards.

@@ -8,6 +8,6 @@
 
 **National switch.** [The Bank of Sierra Leone's national instant payment switch connects mobile money accounts and bank accounts, launched 13 February 2025](<https://www.wearetech.africa/en/fils-uk/news/finance/sierra-leone-launches-national-instant-payment-system>).
 
-***Noted, not assessed***. [Flot](<https://owlpress-sl.com/fintech-firm-open-hub-launches-flot-platform-boost-digital-payments-sierra-leone/>); [Instant Payment Switch](<https://sierraloaded.sl/business/afrimoney-prepaid-visa-card-launched-sierra-leone/>); [Orange Money Mastercard](<https://techafricanews.com/2026/03/31/orange-money-launches-mastercard-in-sierra-leone-with-zenith-bank-and-mastercard-partnership/>).
+***Also on file***. [Flot](<https://owlpress-sl.com/fintech-firm-open-hub-launches-flot-platform-boost-digital-payments-sierra-leone/>); [Instant Payment Switch](<https://sierraloaded.sl/business/afrimoney-prepaid-visa-card-launched-sierra-leone/>); [Orange Money Mastercard](<https://techafricanews.com/2026/03/31/orange-money-launches-mastercard-in-sierra-leone-with-zenith-bank-and-mastercard-partnership/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

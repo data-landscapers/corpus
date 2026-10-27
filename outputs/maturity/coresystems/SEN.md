@@ -12,6 +12,6 @@
 
 **A map of the systems.** The nearest held fact is the [SENTAX page](<https://www.dgid.sn/sentax>), which describes one platform and not a map of government systems.
 
-***Noted, not assessed***. [Senegalese National Interoperability Platform (PINS)](<https://techreviewafrica.com/news/6516/senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project>); [DAF biometric national ID and passport system](<https://www.connectingafrica.com/cybersecurity/senegal-s-free-internet-plan-could-pose-cybersecurity-risks>).
+***Also on file***. [Senegalese National Interoperability Platform (PINS)](<https://techreviewafrica.com/news/6516/senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project>); [DAF biometric national ID and passport system](<https://www.connectingafrica.com/cybersecurity/senegal-s-free-internet-plan-could-pose-cybersecurity-risks>).
 
-***Not held***. No source held says the government has published an enterprise architecture or an inventory of its systems, or names the financial management system or the payroll in use.
+***Not found***. No source found says the government has published an enterprise architecture or an inventory of its systems, or names the financial management system or the payroll in use.

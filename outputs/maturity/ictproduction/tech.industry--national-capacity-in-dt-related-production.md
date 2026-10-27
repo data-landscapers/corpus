@@ -291,66 +291,66 @@ ICT service exports were 0.036 per cent of GDP in 2024, by the World Bank's seri
 
 ### Congo: Unplaced
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for ICT service exports as a share of GDP.
+Not established: No figure for 2023 or later has been found for ICT service exports as a share of GDP.
 
 ### Gabon: Unplaced
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for ICT service exports as a share of GDP.
+Not established: No figure for 2023 or later has been found for ICT service exports as a share of GDP.
 
 ### South Sudan: Unplaced
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for ICT service exports as a share of GDP.
+Not established: No figure for 2023 or later has been found for ICT service exports as a share of GDP.
 
 ### Sudan: Unplaced
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for ICT service exports as a share of GDP.
+Not established: No figure for 2023 or later has been found for ICT service exports as a share of GDP.
 
 ### Togo: Unplaced
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for ICT service exports as a share of GDP.
+Not established: No figure for 2023 or later has been found for ICT service exports as a share of GDP.
 
 ### Central African Republic: No evidence
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives ICT service exports as a share of GDP.
+Not established: Nothing found gives ICT service exports as a share of GDP.
 
 ### Chad: No evidence
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives ICT service exports as a share of GDP.
+Not established: Nothing found gives ICT service exports as a share of GDP.
 
 ### Equatorial Guinea: No evidence
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives ICT service exports as a share of GDP.
+Not established: Nothing found gives ICT service exports as a share of GDP.
 
 ### Eritrea: No evidence
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives ICT service exports as a share of GDP.
+Not established: Nothing found gives ICT service exports as a share of GDP.
 
 ### Liberia: No evidence
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives ICT service exports as a share of GDP.
+Not established: Nothing found gives ICT service exports as a share of GDP.
 
 ### Somalia: No evidence
 
-No figure for ICT service exports is held for 2023 or later, so no stage is set.
+No figure for ICT service exports has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives ICT service exports as a share of GDP.
+Not established: Nothing found gives ICT service exports as a share of GDP.

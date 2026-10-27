@@ -2,6 +2,6 @@
 
 ## Digital id from birth
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether a birth is given an identity number.
+***Not found***. Nothing found says whether a birth is given an identity number.

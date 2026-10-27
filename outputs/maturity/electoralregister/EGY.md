@@ -8,6 +8,6 @@
 
 **Linked to ID.** [The National Elections Authority says the update included reviewing voter entries and linking them to the national number to prevent duplicates or errors](<https://www.elwatannews.com/news/details/8137356>). [Law 198/2017 tasks the National Election Authority with preparing the voter database based on national identification number data and keeping it updated and cleaned (2017, before the three-year window)](<https://www.elections.eg/images/pdfs/laws/NEAlaw2017-198_en.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

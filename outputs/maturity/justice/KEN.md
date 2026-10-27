@@ -6,8 +6,8 @@
 
 **Online filing.** [The Judiciary of Kenya's SOJAR 2023-24 says the e-filing system, piloted in Nairobi courts in July 2020, was rolled out to all courts nationwide in March 2024, letting court users file documents from their computers, with user accounts rising from 7,152 to 51,729](<https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf>).
 
-**Open online.** No source held since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf>).
+**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf>).
 
-***Noted, not assessed***. [Digital Occurrence Book (DOB) and Case Management System](<https://nationalpolice.go.ke/cs-murkomen-officiates-closing-ceremony-ocss-consultative-conference-npla-ngong>); [Causelist Portal](<https://judiciary.go.ke/judiciary-launches-e-filing-in-all-courts-data-tracking-dashboard-and-causelist-portal-portal/>); [Cause Lists Portal](<https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf>).
+***Also on file***. [Digital Occurrence Book (DOB) and Case Management System](<https://nationalpolice.go.ke/cs-murkomen-officiates-closing-ceremony-ocss-consultative-conference-npla-ngong>); [Causelist Portal](<https://judiciary.go.ke/judiciary-launches-e-filing-in-all-courts-data-tracking-dashboard-and-causelist-portal-portal/>); [Cause Lists Portal](<https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf>).
 
-***Not held***. No source held since October 2023 says judgments are published or case status can be looked up online.
+***Not found***. No source found since October 2023 says judgments are published or case status can be looked up online.

@@ -6,6 +6,6 @@
 
 **Taken into national law and applied across a border.** No national law, decree or regulation passed to give effect to a shared African legal text is recorded for Nigeria, and nor is a licence or signature recognised, a request between authorities answered or a ruling under one. The [African Union's register](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) lists the dates each state signed, ratified and deposited, and says nothing of national law.
 
-***Noted, not assessed***. [ENBIC](<https://www.thisdaylive.com/2026/09/18/ecowas-biometric-card-will-ease-travel-enhance-free-trade-in-member-states-say-iom-nis-ecowas/>).
+***Also on file***. [ENBIC](<https://www.thisdaylive.com/2026/09/18/ecowas-biometric-card-will-ease-travel-enhance-free-trade-in-member-states-say-iom-nis-ecowas/>).
 
-***Not held***. No source held dates a ratification or accession.
+***Not found***. No source found dates a ratification or accession.

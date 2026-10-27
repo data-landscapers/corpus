@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** CSquared [said on 11 August 2025](<https://csquared.com/8208/>) that its existing infrastructure runs from Accra to Lagos. It said that this is now integrated with a new route from Abidjan to Monrovia, which ties the Accra to Lagos fibre to a link between Côte d'Ivoire and Liberia in one West African backbone.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

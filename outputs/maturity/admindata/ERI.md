@@ -8,6 +8,6 @@
 
 **Published regularly.** [The abstract calls itself the official annual education publication of the Ministry of Education and the 26th report produced by its Department of Research and Human Resource Development](<https://www.ecss-online.com/2013/wp-content/uploads/2025/06/Basic-Education-Statistics-2023-24.pdf>). [The HMIS unit produces the Annual Health Service Activity Report annually (2022, before the three-year window)](<https://www.afro.who.int/sites/default/files/2023-02/WHO%20Annual%20Report%20-%202022.pdf>).
 
-***Noted, not assessed***. [Eritrea Population and Health Survey (EPHS 2025)](<https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey>); [National accounts 2023](<https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey>); [ASYCUDA World](<https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade>).
+***Also on file***. [Eritrea Population and Health Survey (EPHS 2025)](<https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey>); [National accounts 2023](<https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey>); [ASYCUDA World](<https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade>).
 
-***Not held***. No source held shows statistics from three administrative sources, each published twice since October 2023.
+***Not found***. No source found shows statistics from three administrative sources, each published twice since October 2023.

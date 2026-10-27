@@ -8,6 +8,6 @@
 
 **The state's data hosted nationally.** [Mali's Ministry of Communication, Digital Economy and Administration Modernisation inaugurated the Tier III National Data Centre, which the government says will provide secure hosting for the Malian state's strategic data, e-administration platforms and public digital services (stated in the future tense; inauguration reported 'over the weekend' before the 2026-02-02 article)](<https://itweb.africa/article/mali-unveils-modern-tier-iii-data-centre/>).
 
-***Noted, not assessed***. [AGETIC data centre](<https://www.itu.int/dms_pub/itu-d/opb/pref/D-PREF-THEM.29-2022-PDF-F.pdf>).
+***Also on file***. [AGETIC data centre](<https://www.itu.int/dms_pub/itu-d/opb/pref/D-PREF-THEM.29-2022-PDF-F.pdf>).
 
-***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.
+***Not found***. No source found names a second nationally owned data centre for hire at Tier III or above.

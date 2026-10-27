@@ -6,8 +6,8 @@
 
 **One registry shared by programmes.** [The World Bank report gives 5 social protection programmes (SCT, LIPW, SSB and CLAS) using the Liberia Household Social Registry at 9 June 2025, up from 4 in December 2024, against a target of 6](<https://documents1.worldbank.org/curated/en/099072825133035694/pdf/P174417-17056a8a-f1db-4adb-af5f-982e8fb95722.pdf>). [The World Bank blog says the Liberia Household Social Registry and the project MIS are used by three government-led social protection programmes](<https://blogs.worldbank.org/en/africacan/a-strong-foundation-for-adaptive-social-protection-in-liberia>).
 
-**Linked to the ID and another sector.** No source held since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099072825133035694/pdf/P174417-17056a8a-f1db-4adb-af5f-982e8fb95722.pdf>).
+**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099072825133035694/pdf/P174417-17056a8a-f1db-4adb-af5f-982e8fb95722.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.

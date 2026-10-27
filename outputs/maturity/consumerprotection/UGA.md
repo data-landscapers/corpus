@@ -6,8 +6,8 @@
 
 **Complaints handled.** [The Bank of Uganda's Financial Consumer Empowerment Mechanism takes complaints about supervised financial institutions left unresolved for 21 days, guided among others by the Mobile Money Guidelines 2013](<https://govinfohub.go.ug/index.php/2024/04/29/bou-details-redress-procedure-for-aggrieved-bank-customers/>). [In June 2024 officials of the microfinance regulator said it had received multiple complaints about licensed digital lenders still harassing borrowers](<https://www.monitor.co.ug/uganda/news/national/online-lenders-harassing-borrowers-risk-closure-4645060>).
 
-**Enforcement reported.** No source held since October 2023 reports a fine, a sanction or complaint figures for digital financial services. The nearest held fact: [the one given above](<https://www.monitor.co.ug/uganda/news/national/online-lenders-harassing-borrowers-risk-closure-4645060>).
+**Enforcement reported.** No source found since October 2023 reports a fine, a sanction or complaint figures for digital financial services. The nearest held fact: [the one given above](<https://www.monitor.co.ug/uganda/news/national/online-lenders-harassing-borrowers-risk-closure-4645060>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 reports a fine, a sanction or complaint figures for digital financial services.
+***Not found***. No source found since October 2023 reports a fine, a sanction or complaint figures for digital financial services.

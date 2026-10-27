@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** A rule was made under the law in 2024. [Decree 0314/PR/MPP of 1 August 2024 approves the statutes of the National Institute of Statistics](<https://journal-officiel.ga/21242-0314-pr-mpp-/>) and [cites the statistics law, as amended in 2022, as the basis it is taken under](<https://journal-officiel.ga/21242-0314-pr-mpp-/>). It was published in the Journal Officiel of 15 August 2024.
 
-***Noted, not assessed***. [Système statistique national](<https://agpgabon.ga/gabon-conseil-des-ministres-vers-la-revision-du-cadre-legal-du-systeme-statistique-national/>); [Institut National de la Statistique](<https://journal-officiel.ga/21242-0314-pr-mpp-/>); [Direction Générale de la Statistique (Institut National de la Statistique)](<https://economie.gouv.ga/direction-generale-de-la-statistique/>).
+***Also on file***. [Système statistique national](<https://agpgabon.ga/gabon-conseil-des-ministres-vers-la-revision-du-cadre-legal-du-systeme-statistique-national/>); [Institut National de la Statistique](<https://journal-officiel.ga/21242-0314-pr-mpp-/>); [Direction Générale de la Statistique (Institut National de la Statistique)](<https://economie.gouv.ga/direction-generale-de-la-statistique/>).
 
-***Not held***. No source held shows the statistics council meeting under the law.
+***Not found***. No source found shows the statistics council meeting under the law.

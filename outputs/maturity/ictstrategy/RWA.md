@@ -16,6 +16,6 @@
 
 **Last twelve months.** After a cabinet briefing on 24 July 2026 the ministry [set 30 June 2027 as the date 3G is switched off nationwide, as part of the plan](<https://www.cnbcafrica.com/2026/rwanda-sets-june-2027-deadline-to-retire-3g-clearing-spectrum-for-4g-and-5g>).
 
-***Noted, not assessed***. [National Strategy for Transformation (NST1 2017-2024)](<https://www.minecofin.gov.rw/index.php?eID=dumpFile&f=86845&t=f&token=09f9cf553edf3cbb6e3f576d3105b0c95aa89103>); [National Strategy for Transformation (NST2)](<https://www.minecofin.gov.rw/index.php?eID=dumpFile&f=112721&t=f&token=a45cd9603c79f2619ff07ff066661e300901aadf>).
+***Also on file***. [National Strategy for Transformation (NST1 2017-2024)](<https://www.minecofin.gov.rw/index.php?eID=dumpFile&f=86845&t=f&token=09f9cf553edf3cbb6e3f576d3105b0c95aa89103>); [National Strategy for Transformation (NST2)](<https://www.minecofin.gov.rw/index.php?eID=dumpFile&f=112721&t=f&token=a45cd9603c79f2619ff07ff066661e300901aadf>).
 
-***Not held***. No report, review or evaluation of results against the 2024-2029 plan's own targets is held. No source ties a domestic budget line to the plan, and its costing is known from the contents list only, with no figures.
+***Not found***. No report, review or evaluation of results against the 2024-2029 plan's own targets is held. No source ties a domestic budget line to the plan, and its costing is known from the contents list only, with no figures.

@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "CMR-001;CMR-003",
-   "gaps": "No source held since October 2023 says the taxpayer number is shared with business registration or customs.",
+   "gaps": "No source found since October 2023 says the taxpayer number is shared with business registration or customs.",
    "note": "First pass: counted from the four questions by study-ladder-taxregister.py."
   }
  ]

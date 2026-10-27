@@ -6,8 +6,8 @@
 
 **Shared with firms or customs.** [The CFE page states that the NIF is issued as part of company registration at the CFE, the data being sent automatically to the DGCI, so applicants need not go to the DGCI](<https://cfe.gw/numero-de-identificacao-fiscal/>).
 
-**Tied to ID.** No source held since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://kontaktu.mef.gw/instructions>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://kontaktu.mef.gw/instructions>).
 
-***Noted, not assessed***. [SIGEF](<https://kontaktu.mef.gw/instructions>); [CFE platform](<https://cfe.gw/numero-de-identificacao-fiscal/>).
+***Also on file***. [SIGEF](<https://kontaktu.mef.gw/instructions>); [CFE platform](<https://cfe.gw/numero-de-identificacao-fiscal/>).
 
-***Not held***. No source held since October 2023 says the taxpayer number is shared with business registration or customs.
+***Not found***. No source found since October 2023 says the taxpayer number is shared with business registration or customs.

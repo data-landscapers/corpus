@@ -8,6 +8,6 @@
 
 **Use reported.** [The PPDA reports MANePS had 7,417 registered suppliers, 216 of 250 targeted 2026/27 procurement plans and 562 tenders by 5 October 2026](<https://www.ppda.mw/newsdetail/89>).
 
-***Noted, not assessed***. [Malawi Police electronic traffic fine payment](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [TNM Mpamba](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Airtel Money](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Social cash transfer programmes](<https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/>).
+***Also on file***. [Malawi Police electronic traffic fine payment](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [TNM Mpamba](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Airtel Money](<https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2>); [Social cash transfer programmes](<https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

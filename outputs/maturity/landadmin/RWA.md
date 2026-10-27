@@ -8,6 +8,6 @@
 
 **Linked to tax.** [Minister Arakwiye said LAIS has been connected to other national systems including Irembo and the tax payment system](<https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/>).
 
-***Noted, not assessed***. [Cyamunara System](<https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/>); [Irembo](<https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/>); [LDMS](<https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf>).
+***Also on file***. [Cyamunara System](<https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/>); [Irembo](<https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/>); [LDMS](<https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

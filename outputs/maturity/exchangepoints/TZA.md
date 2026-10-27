@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [TISPA's member list also covers smaller exchanges in Mwanza, Dodoma and Zanzibar besides TIX in Dar es Salaam, so local traffic in those cities need not go to Dar es Salaam](<https://tech.africa/tix-tanzania-100g-core-upgrade/>). [TISPA manages six IXPs: TIX (Dar es Salaam) plus Arusha (AIXP), Dodoma (DIXP), Mbeya (MBIXP), Mwanza (MIXP) and Zanzibar (ZIXP)](<https://tispa.or.tz/chapters/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. [Raxio Tanzania data centre (planned)](<https://www.raxiogroup.com/raxio-tops-us380-million-in-committed-capital-as-roha-and-meridiam-boost-stakes-amid-sixfold-growth-surge-for-its-african-data-centres/>).
+***Also on file***. [Raxio Tanzania data centre (planned)](<https://www.raxiogroup.com/raxio-tops-us380-million-in-committed-capital-as-roha-and-meridiam-boost-stakes-amid-sixfold-growth-surge-for-its-african-data-centres/>).
 
-***Not held***. No source held says a global content network has a cache at the exchange or peers there.
+***Not found***. No source found says a global content network has a cache at the exchange or peers there.

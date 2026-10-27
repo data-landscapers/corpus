@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** [Deliberation 005/2025](<https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85-005-2025-%d8%aa%d8%aa%d8%b9%d9%84%d9%91%d9%82-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7/>) refers to a list of countries, published in deliberation 004/2025, that determines which host countries offer adequate protection. Where the host country is not on that list, [a separate foreign-transfer authorisation request](<https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85-005-2025-%d8%aa%d8%aa%d8%b9%d9%84%d9%91%d9%82-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7-%d8%a7/>) is required, in the text amended and published on 30 April 2026. The [APD's monthly meeting of 29 April 2026](<https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-16/>) listed amending both deliberations on its agenda.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.
+***Not found***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.

@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is a budget line, not a fund: the 2026-2027 Budget, as L'Express reports it, [allocates 25 million rupees to create a National AI Learning Platform with a certification and start-up incubation programme](<https://lexpress.mu/node/559426>). The budget document [gives 4,534,960,000 rupees to digital lines for 2026/27](<https://nationalbudget2026.govmu.org/documents/2026_27_PMOAll.pdf>).
 
-***Noted, not assessed***. [An investment tax credit for manufacturers investing in AI, 15% a year over three years](<https://lexpress.mu/node/559426>); [the Côte-d'Or Special Economic Zone for AI and digital technologies](<https://lexpress.mu/node/559426>).
+***Also on file***. [An investment tax credit for manufacturers investing in AI, 15% a year over three years](<https://lexpress.mu/node/559426>); [the Côte-d'Or Special Economic Zone for AI and digital technologies](<https://lexpress.mu/node/559426>).
 
-***Not held***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying, and no source has the government both saying it must pay from its own resources and acting on it.
+***Not found***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying, and no source has the government both saying it must pay from its own resources and acting on it.

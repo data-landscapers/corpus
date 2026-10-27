@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CPV-001;CPV-002",
-      "gaps": "The PEO package registers a company, obtains its NIF and enrols it with INPS in one process (2026); nothing held says registration gives one number shared with tax or social security.",
+      "gaps": "The PEO package registers a company, obtains its NIF and enrols it with INPS in one process (2026); nothing found says registration gives one number shared with tax or social security.",
       "note": "Reassessed in the rebuild: online company creation is in service (2026); one process for three registrations is not one shared number, so not stage 4.",
       "as_at": "2026-10-23"
     }

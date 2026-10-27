@@ -6,8 +6,8 @@
 
 **Open for checking.** [The Commonwealth Observer Group says copies of the voter register are displayed where registration brigades operated so voters can scrutinise it and complain in writing, and that the final register was published on 4-9 July 2024](<https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2025-09/mozambique-cog-report-2024.pdf>).
 
-**Linked to ID.** No source held since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2025-09/mozambique-cog-report-2024.pdf>).
+**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2025-09/mozambique-cog-report-2024.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

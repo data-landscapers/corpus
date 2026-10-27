@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** In February 2024 [the NCSA published standard contractual clauses for personal data transfer outside Rwanda under Article 49 of Law No 058/2021](<https://dpo.gov.rw/fileadmin/DPO/ComplianceTools/-_Standard_Contractual_Clauses_for_Transfer_Personal_Data_Outside_Rwanda_.pdf>). A controller sending personal data abroad therefore has model terms from the authority to use in meeting the rule. The clauses are the means of complying that the authority itself put out, and they are issued under the same Article that sets the condition for transfers abroad.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.
+***Not found***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.

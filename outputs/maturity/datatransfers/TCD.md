@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact is the same [2026 analysis of the law](<https://thomasd-avocats.com/transfert-international-rapport-enquete-tchad-rgpd/>), which describes the conditions that articles 29 to 32 set and the notification and authorisation steps they require. It says nothing of a published list of countries, model contract terms, a permission procedure or guidance from the authority, or of the rule being applied to a named organisation.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

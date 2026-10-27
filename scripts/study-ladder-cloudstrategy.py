@@ -44,10 +44,10 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No source from the last three years naming or counting public bodies that have moved "
          "onto the named hosting is held.",
-    "3": "No source held says the government has named where public bodies must host: a "
+    "3": "No source found says the government has named where public bodies must host: a "
          "government cloud or data centre the policy tells them to use, or a list of approved "
          "providers.",
-    "2": "No source held says a government hosting or cloud policy is adopted and in force.",
+    "2": "No source found says a government hosting or cloud policy is adopted and in force.",
     "1": "",
 }
 
@@ -93,7 +93,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     lifts = running or not (settled or draft)
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
-                "gaps": "Nothing held names a government hosting or cloud policy, or says there "
+                "gaps": "Nothing found names a government hosting or cloud policy, or says there "
                         "is none."}
     if moved and lifts:
         s, src = "5", moved + policy[:1]

@@ -338,18 +338,18 @@ In 2024, 47.4 per cent of people aged 10 and over owned a mobile phone, by an in
 
 ### South Sudan: Unplaced
 
-No figure for the share of people who own a mobile phone is held for 2024 or later, so no stage is set.
+No figure for the share of people who own a mobile phone has been found for 2024 or later, so no stage is set.
 
-Not established: No figure for 2024 or later is held for the share of people who own a mobile phone.
+Not established: No figure for 2024 or later has been found for the share of people who own a mobile phone.
 
 ### Sudan: Unplaced
 
-No figure for the share of people who own a mobile phone is held for 2024 or later, so no stage is set.
+No figure for the share of people who own a mobile phone has been found for 2024 or later, so no stage is set.
 
-Not established: No figure for 2024 or later is held for the share of people who own a mobile phone.
+Not established: No figure for 2024 or later has been found for the share of people who own a mobile phone.
 
 ### Eritrea: No evidence
 
-No figure for the share of people who own a mobile phone is held for 2024 or later, so no stage is set.
+No figure for the share of people who own a mobile phone has been found for 2024 or later, so no stage is set.
 
-Not established: Nothing held gives the share of people who own a mobile phone.
+Not established: Nothing found gives the share of people who own a mobile phone.

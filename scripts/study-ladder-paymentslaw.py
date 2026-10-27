@@ -41,9 +41,9 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No rule held requires mobile money providers and banks to connect to each other or "
          "to a national or regional switch.",
-    "3": "No source held says the law or rules in force license payment providers or e-money "
+    "3": "No source found says the law or rules in force license payment providers or e-money "
          "issuers that are not banks, or names one licensed under them.",
-    "2": "No source held says a payments law or e-money rules are in force.",
+    "2": "No source found says a payments law or e-money rules are in force.",
     "1": "",
 }
 
@@ -83,7 +83,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "reach": "", "sources": [],
-                "gaps": "Nothing held names a payments law, e-money rules or a draft of either, "
+                "gaps": "Nothing found names a payments law, e-money rules or a draft of either, "
                         "or says there is none."}
     if connect:
         s, src = "5", connect + nonbank[:1] + law[:1]

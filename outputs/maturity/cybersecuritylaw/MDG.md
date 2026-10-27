@@ -6,6 +6,6 @@
 
 **Use of the law.** The 2026 bill [would create the Upin digital police](<https://www.madagascar-tribune.com/Loi-sur-la-cybercriminalite-l-Etat-renforce-les-controles-alors-que-l-acces-a-l.html>). A digital-law specialist interviewed by Midi Madagasikara says it would [require suspicious-transaction reports on Mobile Money transfers of 10 million ariary or more](<https://midi-madagasikara.mg/legislation-numerique-fenitra-ravelomanantsoa-plaide-pour-un-equilibre-entre-securite-numerique-et-libertes-individuelles/>) and tighten SIM identification.
 
-***Noted, not assessed***. [Unité de protection et d'investigation numérique (Upin)](<https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html>), [CIRT Madagascar](<https://www.wearetech.africa/en/fils-uk/news/tech/madagascar-set-to-publish-new-cybersecurity-law-amid-rising-digital-threats>), [UN Convention against Cybercrime](<https://newsmada.com/2026/09/10/lutte-contre-la-cybercriminalite-madagascar-signe-le-traite-de-lonu/>).
+***Also on file***. [Unité de protection et d'investigation numérique (Upin)](<https://www.lexpress.mg/2026/09/session-extraordinaire-le-texte-sur-la.html>), [CIRT Madagascar](<https://www.wearetech.africa/en/fils-uk/news/tech/madagascar-set-to-publish-new-cybersecurity-law-amid-rising-digital-threats>), [UN Convention against Cybercrime](<https://newsmada.com/2026/09/10/lutte-contre-la-cybercriminalite-madagascar-signe-le-traite-de-lonu/>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is [Article 53 of the 2026 finance law](<https://ecofinances.gouv.td/wp-content/uploads/2026/06/Loi-n008-AN-SENAT-2025-Portant-loi-de-Finances-2026-LF-2026.pdf>), which sets the electronic signature in the finance ministry's administrative correspondence from 1 January 2026, and it states that this signature has the same legal value as a handwritten one.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decree, regulation or order made under the law is held.
+***Not found***. No decree, regulation or order made under the law has been found.

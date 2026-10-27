@@ -78,65 +78,65 @@ Ten or more bodies or systems were connected to the government exchange platform
 
 ### Algeria: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - The CNRC says the company-creation portal gives access to an electronic exchange platform between CNRC, the tax directorate (DGI), CNAS, CASNOS and ONS ([source, 2026-10-17](https://sidjilcom-entreprise.cnrc.dz/acceuil)).
 - El Chaab's dossier says the national interoperability system lets ministries such as health, justice and interior coordinate without duplicating data, relying on data classification and indexing references ([source, 2026-09](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/)).
 
 ### Cape Verde: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - Biometric Update says Cabo Verde launched the Autentika interoperability platform, linking its civil registration and national identity systems, within the past five years, with birth registration at 99 percent and registration of deaths in health facilities at 100 percent ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
 
 ### Cote d'Ivoire: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - The head of SNDI said at the 3 September 2026 workshop that the national interoperability platform is a reality and already improves data exchange between several administrations ([source, 2026-09-03](https://www.fratmat.info/article/2644285/economie/transformation-numerique-la-cote-divoire-priorise-les-services-publics-a-fort-impact)).
 - The digital transition minister launched the public administration interoperability platform, built on Cybernetica's UXP, in Abidjan on 25 September 2025; the pilot phase covers twelve public bodies ([source, 2025-09-25](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-d-ivoire-lance-une-plateforme-d-interoperabilite-pour-fluidifier-l-administration)).
 
 ### Libya: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - The General Information Authority, reporting a 20 April 2026 meeting with the Union of Chambers, describes the National Data Distributor as a sovereign operational platform for interoperability enabling secure exchange of data between entities, and says the Chambers Union's new electronic system is to interoperate with it; it names no connected bodies and gives no counts ([source, 2026-04-20](https://www.gia.gov.ly/en/2026/04/23/enhancing-digital-transformation-in-the-business-sector-joint-meeting-to-launch-the-electronic-system-of-the-chambers-union-and-align-it-with-national-frameworks/)).
 
 ### Madagascar: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - L'Express reports that the Rahaka national exchange system is already operational at five bodies, EDBM, CNaPS, Instat, the Ministry of Justice and the Direction generale des Impots, at the 28 April 2026 launch ([source, 2026-04](https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html)).
 
 ### Mozambique: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - MISAU's SIS-MA page describes an interoperability platform, a mediating layer centralising communication between SIS-MA and other systems, with live integrations to the medicines-logistics system of CMAM (Ferramenta Central) and to the Ministry of Justice's SIRCEV for death-certificate data ([source, 2026-08-28](https://sisma.misau.gov.mz/interoperability.html)).
 
 ### Namibia: 3 Established
 
-A government data exchange platform was in service in 2024; how many systems it connects is not known.
+A government data exchange platform was in service in 2024; no source found says how many systems it connects.
 
 - Cybernetica says an ESTDEV-funded project begun in 2024 continues scaling the Nam-X platform, developing two digital services for it, and was expected to end in March 2025; no count of connected bodies is given ([source, 2024](https://cyber.ee/resources/case-studies/namibia/)).
 - The World Bank blog says Namibia adopted the Estonian open-source X-Road software after 2011, so the National Population Register now links functional public and private sector registries, and it was used during COVID-19 to validate identity data for emergency income support ([source, 2023-10-10](https://blogs.worldbank.org/en/nasikiliza/legal-identity-all-what-can-madagascar-learn-namibia)).
 
 ### Senegal: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - A government presenter at the WSIS Forum 2026 session said the X-Road based interoperability platform PINs has had an MVP 1.0 launched with two use cases, social protection and public finance; the document gives no launch date, so its published date is used ([source, 2026-09-04](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation)).
 - The platform's own portal describes the Plateforme d'Interoperabilite du Senegal (e-Jokkoo, built on X-Road) as connecting state information systems for secure data exchange between administrations, with API Gateway, Identite Numerique and Data Exchange services listed; its counters for connected administrations, active APIs and monthly transactions show only placeholders, and the page gives no date, so its published date is used ([source, 2026-09-03](https://pins.sn/)).
 
 ### Sudan: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - The Ministry of Digital Transformation and Communications and the National Investment Authority announced the needs-disclosure service live on the Baladna platform, linking the industry, transport and agriculture bodies and passing approved items to the Customs Authority, with data moving between them electronically ([source, 2026-09-03](https://atheernews.net/222149/)).
 
 ### Tanzania: 3 Established
 
-A government data exchange platform was in service in 2026; how many systems it connects is not known.
+A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - Officials cite the Government Enterprise Service Bus (GovESB) as the backbone for secure data exchange across ministries, and the e-Government Authority's Director General urges institutions to ensure systems are connected through it; no count of connected systems or figure for its traffic is given ([source, 2026-01-26](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success)).
 - The Prime Minister ordered all public institutions to join GovESB, built by e-GA so government systems can read each other and exchange information, by 30 July 2025, saying joining is free ([source, 2025-06-23](https://www.mwananchi.co.tz/mw/habari/kitaifa/majaliwa-aagiza-taasisi-za-umma-kujiunga-na-e-ga-atoa-wiki-tano-5092568)).
@@ -163,7 +163,7 @@ A government data exchange platform was under way in 2026; none in service is on
 
 ### DR Congo: 2 Nascent
 
-A data warehouse linking the three revenue agencies was being loaded in 2026; whether it is in service across them is not known.
+A data warehouse linking the three revenue agencies was being loaded in 2026; no source found says whether it is in service across them.
 
 - DRC finance minister Doudou Fwamba said on RTNC that a data warehouse interconnecting the three revenue agencies is in place, two of the three having loaded their data and the third due within a month, with the E-Finance programme (over US$150m, structured with Huawei) funding agency interconnection ([source, 2026-09-03](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux)).
 
@@ -301,78 +301,78 @@ A 2026 source says government systems have no data exchange platform.
 
 ### Burundi: Unplaced
 
-Nothing held since 2023 names a government data exchange platform, so no stage is set.
+Nothing found since 2023 names a government data exchange platform, so no stage is set.
 
-Not established: Nothing held since October 2023 names a government data exchange platform.
+Not established: Nothing found since October 2023 names a government data exchange platform.
 
 ### Eritrea: Unplaced
 
-Nothing held since 2023 names a government data exchange platform, so no stage is set.
+Nothing found since 2023 names a government data exchange platform, so no stage is set.
 
-Not established: Nothing held since October 2023 names a government data exchange platform.
+Not established: Nothing found since October 2023 names a government data exchange platform.
 
 ### Mauritius: Unplaced
 
-Nothing held since 2023 names a government data exchange platform, so no stage is set.
+Nothing found since 2023 names a government data exchange platform, so no stage is set.
 
-Not established: Nothing held since October 2023 names a government data exchange platform.
+Not established: Nothing found since October 2023 names a government data exchange platform.
 
 ### Botswana: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### Burkina Faso: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### Chad: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### Eswatini: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### Mali: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### Mauritania: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held names a government data exchange platform or says there is none, so no stage is set.
+Nothing found names a government data exchange platform or says there is none, so no stage is set.
 
-Not established: Nothing held names a government data exchange platform, or says there is none.
+Not established: Nothing found names a government data exchange platform, or says there is none.

@@ -6,8 +6,8 @@
 
 **Across government.** [The ministry says the Digital Learning Academy is for all of the state's 680,000 civil servants](<https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/>).
 
-**Share published.** No source held since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/>).
+**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives the share of the civil service trained in digital skills. No number of civil servants trained on either platform is held.
+***Not found***. No source found since October 2023 gives the share of the civil service trained in digital skills. No number of civil servants trained on either platform has been found.

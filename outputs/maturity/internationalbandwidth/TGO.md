@@ -6,6 +6,6 @@
 
 **Capacity sold to other operators.** [Ecofin reports Liquid Intelligent Technologies acquired a fibre pair (up to 12 Tbps) on Google's Equiano cable, which landed in Togo days earlier](<https://www.ecofinagency.com/telecom/3003-43499->). Capacity counts as sold where operators other than the owner buy it at the landing station or on the cable, or where either runs on open-access or regulated wholesale terms.
 
-***Noted, not assessed***. [2Africa West](<https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/>); [WACS](<https://data-landscapers.com/lab/2026/06/03/cable-factsheet/>); [SAT-3/WASC](<https://data-landscapers.com/lab/2026/06/03/cable-factsheet/>); [ACE](<https://data-landscapers.com/lab/2026/06/03/cable-factsheet/>); [2Africa](<https://data-landscapers.com/lab/2026/06/03/cable-factsheet/>); [Lomé Data Centre](<https://lomedatacentre.tg/en/n-home-page-en/>).
+***Also on file***. [2Africa West](<https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/>); [WACS](<https://data-landscapers.com/lab/2026/06/03/cable-factsheet/>); [SAT-3/WASC](<https://data-landscapers.com/lab/2026/06/03/cable-factsheet/>); [ACE](<https://data-landscapers.com/lab/2026/06/03/cable-factsheet/>); [2Africa](<https://data-landscapers.com/lab/2026/06/03/cable-factsheet/>); [Lomé Data Centre](<https://lomedatacentre.tg/en/n-home-page-en/>).
 
-***Not held***. No source held says two of the routes land at different stations, or run through two different neighbours.
+***Not found***. No source found says two of the routes land at different stations, or run through two different neighbours.

@@ -26,7 +26,7 @@
       "cap": "",
       "flags": "advancing",
       "stage_sources": "CAF-008;CAF-009;CAF-010",
-      "gaps": "The number of e-SENI sites, the hospitals' level and any district coverage are not stated, and no clinics figure is held; owner and plan are not stated. The deployment is undated and carries its source's published date of 2026-03-18; the record synchronises to a central server but is not said to be retrievable at another facility. CAF-005 and CAF-006 are from the excluded source and set nothing.",
+      "gaps": "The number of e-SENI sites, the hospitals' level and any district coverage are not stated, and no clinics figure has been found; owner and plan are not stated. The deployment is undated and carries its source's published date of 2026-03-18; the record synchronises to a central server but is not said to be retrievable at another facility. CAF-005 and CAF-006 are from the excluded source and set nothing.",
       "note": "A phased deployment at an unstated number of hospitals and health centres is pilot facilities, the stage 2 row. Stage 3 needs most T1 and T2 hospitals or primary clinics in some districts, and the one source says records in many facilities are still on paper."
     }
   ]

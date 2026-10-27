@@ -10,6 +10,6 @@
 
 **Implementing and acting.** On 2 June 2026 the Authority [began accepting registration applications](<https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/>) from controllers and processors and said it will issue certificates only to those meeting the conditions. In February 2024 it [published guidelines](<https://blog.africadataprotection.org/en/2024/02/26/somalia-inauguration-of-the-data-protection-authority>) for implementing the law.
 
-***Noted, not assessed***. [Implementation Regulation](<https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations>); [Public Data Protection Law](<https://itweb.africa/article/somalia-adopts-data-regulatory-framework/>); [Regulatory Framework for the Public Data Protection Law](<https://itweb.africa/article/somalia-adopts-data-regulatory-framework/>).
+***Also on file***. [Implementation Regulation](<https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations>); [Public Data Protection Law](<https://itweb.africa/article/somalia-adopts-data-regulatory-framework/>); [Regulatory Framework for the Public Data Protection Law](<https://itweb.africa/article/somalia-adopts-data-regulatory-framework/>).
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

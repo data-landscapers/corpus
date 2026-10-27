@@ -6,6 +6,6 @@
 
 **Named hosting and moves.** The same [March 2026 terms of reference say public-sector data hosting is fragmented, heterogeneous and insufficiently pooled, with no coherent national framework for classification, governance and pooling](<https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf>). They add that norms on sovereign hosting remain embryonic or inoperative.
 
-***Noted, not assessed***. [Cloud souverain](<https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/>); [National datacenter, Kinshasa](<https://cio-mag.com/rdc-inauguration-du-premier-datacenter-national/>); [Wiocc data centre](<https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf>); [Raxio data centre](<https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf>).
+***Also on file***. [Cloud souverain](<https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/>); [National datacenter, Kinshasa](<https://cio-mag.com/rdc-inauguration-du-premier-datacenter-national/>); [Wiocc data centre](<https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf>); [Raxio data centre](<https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf>).
 
-***Not held***. No source held says a government hosting or cloud policy is adopted and in force.
+***Not found***. No source found says a government hosting or cloud policy is adopted and in force.

@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no law or regulation specifically governing AI](<https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria>) in April 2025, Algeria has no general AI law to apply. The rules the digest describes on personal data, the hosting of cloud services on Algerian territory and online content are general ones that do not name AI, and no body has been given powers under an AI law.
 
-***Noted, not assessed***. [Law No. 25-11](<https://techcabal.com/2026/03/19/why-data-protection-has-become-africas-default-ai-policy-tool/>).
+***Also on file***. [Law No. 25-11](<https://techcabal.com/2026/03/19/why-data-protection-has-become-africas-default-ai-policy-tool/>).
 
-***Not held***. No source held says the deputies' 2024 bill has been examined, adopted or withdrawn, or that a rule on AI is in force.
+***Not found***. No source found says the deputies' 2024 bill has been examined, adopted or withdrawn, or that a rule on AI is in force.

@@ -4,12 +4,12 @@
 
 **A strategy or a national body.** [Mali Actuel reports the Council of Ministers of 10 June 2026 adopted the texts creating, organising and operating ANSSI, to ensure national cybersecurity and coordinate response to cyberattacks](<https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/>). [The Council of Ministers communique of 10 June 2026 states the adopted texts create ANSSI, mandated for cybersecurity and coordinating the response to cyberattacks](<https://koulouba.ml/communique-du-conseil-des-ministres-du-mercredi-10-juin-2026-cm-n2026-23-sgg/>).
 
-**Responding to incidents.** No source held says the national body handled an incident or issued a public alert since October 2023, so no response to an attack is on record; the stage rests on [the source that sets it](<https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/>).
+**Responding to incidents.** No source found says the national body handled an incident or issued a public alert since October 2023, so no response to an attack is on record; the stage rests on [the source that sets it](<https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/>).
 
-**Critical infrastructure.** No source held says the country designated its critical information infrastructure or required the operators of its critical systems to report incidents to the national body; the stage rests on [the source that sets it](<https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/>).
+**Critical infrastructure.** No source found says the country designated its critical information infrastructure or required the operators of its critical systems to report incidents to the national body; the stage rests on [the source that sets it](<https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/>).
 
-**Published figures.** No source held says the national body published a count of the incidents it handled for a quarter or more ending in the last two years; the stage rests on [the source that sets it](<https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/>).
+**Published figures.** No source found says the national body published a count of the incidents it handled for a quarter or more ending in the last two years; the stage rests on [the source that sets it](<https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/>).
 
-***Noted, not assessed***. [Pole national de lutte contre la cybercriminalite](<https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029>).
+***Also on file***. [Pole national de lutte contre la cybercriminalite](<https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029>).
 
-***Not held***. No source held says the national body handled an incident or issued a public alert since October 2023.
+***Not found***. No source found says the national body handled an incident or issued a public alert since October 2023.

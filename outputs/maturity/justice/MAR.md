@@ -8,6 +8,6 @@
 
 **Open online.** [The Mahakim file-tracking service lets the public follow civil and criminal files, notifications, enforcement and recovery files, and hearing dates by entering the file number at the court](<https://mahakim.ma/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says judgments are published or case status can be looked up online.
+***Not found***. No source found since October 2023 says judgments are published or case status can be looked up online.

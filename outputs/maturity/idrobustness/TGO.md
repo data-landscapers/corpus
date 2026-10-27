@@ -6,8 +6,8 @@
 
 **Biometric checks.** [The deck says cards are printed after deduplication of the biometric enrolment](<https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

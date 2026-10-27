@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** Three electronic money institutions [authorised by the central bank](<https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/>), M-Pesa, e-Mola and M-Kesh, belong to the three mobile operators. [Article 8 of the regulation annexed to the Aviso](<https://www.bancomoc.mz/media/1bwihts1/aviso-1-gbm-2026.pdf>) makes participation in the instant payment system compulsory for electronic money institutions and for credit institutions above a set size. A [report of July 2026](<https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/>) likewise says participation by digital wallet operators in the instant payment system, which joins banks, microbanks and e-money institutions, is mandatory.
 
-***Noted, not assessed***. [METIX](<https://clubofmozambique.com/news/mozambique-national-payments-system-law-unanimously-approved-by-parliament/>); [SIMOrede](<https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/>); [Sistema de Pagamentos Instantâneos de Moçambique (SPIM)](<https://www.bancomoc.mz/media/1bwihts1/aviso-1-gbm-2026.pdf>).
+***Also on file***. [METIX](<https://clubofmozambique.com/news/mozambique-national-payments-system-law-unanimously-approved-by-parliament/>); [SIMOrede](<https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/>); [Sistema de Pagamentos Instantâneos de Moçambique (SPIM)](<https://www.bancomoc.mz/media/1bwihts1/aviso-1-gbm-2026.pdf>).
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

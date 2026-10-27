@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The EDPA has [published an application form and a procedure for authorisation to transfer personal data outside Eswatini](<https://edpa.org.sz/assets/documents/APPLICATION%20FORM_%20TRANSFER.pdf>), in 2024. An organisation that wants to send personal data abroad has a document to complete and a stated route to the regulator, set out in the same 2024 form. The form is the means of complying that the authority itself makes available to controllers and processors.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source from the last three years names a country approved to receive data. None names an organisation given or refused permission, ordered to comply or penalised for sending data abroad.
+***Not found***. No source from the last three years names a country approved to receive data. None names an organisation given or refused permission, ordered to comply or penalised for sending data abroad.

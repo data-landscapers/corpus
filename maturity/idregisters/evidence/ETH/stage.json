@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ETH-002;ETH-001",
-      "gaps": "No source held since October 2023 shows three or more main public registers using the national ID number.",
+      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
       "note": "The tax register is keyed on Fayda, with over 5 million TINs harmonised with it (2026). Only the tax register is shown, so the matching figure no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }

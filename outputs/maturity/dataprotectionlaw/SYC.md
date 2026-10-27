@@ -12,6 +12,6 @@
 
 **Last twelve months.** In January 2026 the Commission [advertised a Senior Data Protection Analyst post](<https://www.infocom.sc/data-protection-day-2026-building-trust-in-a-digital-seychelles/>). The National Assembly [lists the Commission's annual report for 2025 as published on 13 April 2026](<https://www.nationalassembly.sc/publications/reports/information-commission-seychelles-annual-report-2025>). In that report the [Chief Commissioner states that the Act remains at risk of being largely unenforced because the one budgeted technical post is unfilled](<https://www.infocom.sc/wp-content/uploads/Annual-Report-2025.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decision or sanction on a named controller and no count of cases settled is held, only cases received and handled. Whether regulations have been made under the Act is not held.
+***Not found***. No decision or sanction on a named controller and no count of cases settled has been found, only cases received and handled. Whether regulations have been made under the Act is not held.

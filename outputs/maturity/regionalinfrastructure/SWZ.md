@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The fund's [account of the Maputo route](<https://uasf.esccom.org.sz/programmes/connectivity-programmes/>) describes it as an alternative route for the national backbone, running east. Eswatini has no coast, and all its international traffic leaves through a neighbour. The fund reports the equipment bought and the route set up. It gives no date on which traffic began to run over it, no capacity, and no figure for what the route carries.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says building has started in the last three years.
+***Not found***. No source found says building has started in the last three years.

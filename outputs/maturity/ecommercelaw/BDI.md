@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** On 29 May 2026 ARCT published [national e-commerce ecosystem guidelines](<https://arct.gov.bi/2026/05/29/lignes-directrices-de-lecosysteme-national-de-commerce-electronique-du-burundi/>), drawn from the regulation in force, which set technical, operational and organisational standards for interoperability, transaction security and consumer protection. On 26 June 2026 it issued a [communiqué calling e-commerce platforms and merchant sites to declare their conformity](<https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/>), with a procedures manual, a conformity checklist and a declaration form annexed.
 
-***Noted, not assessed***. [Ecosystème National du Commerce Electronique du Burundi](<https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/>).
+***Also on file***. [Ecosystème National du Commerce Electronique du Burundi](<https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/>).
 
-***Not held***. No accreditation, licence, registration or penalty under the code is held for the last three years, and no declaration of conformity is shown to have been received.
+***Not found***. No accreditation, licence, registration or penalty under the code has been found for the last three years, and no declaration of conformity is shown to have been received.

@@ -6,8 +6,8 @@
 
 **Labelling.** [The guide says an innovative, high-growth firm can apply for the Startup label to obtain reinforced tax and social advantages](<https://entreprendre.dj/portals/g2b/guide>).
 
-**Funded.** No source held since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://entreprendre.dj/portals/g2b/guide>).
+**Funded.** No source found since October 2023 says a public fund under the startup law or strategy has financed startups. The nearest held fact: [the one given above](<https://entreprendre.dj/portals/g2b/guide>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a public fund under the startup law or strategy has financed startups.
+***Not found***. No source found since October 2023 says a public fund under the startup law or strategy has financed startups.

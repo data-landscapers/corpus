@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest fact held is the same one: the [August 2026 statement by the opposition shadow minister](<https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/>) that no rules govern cross-border transfers of data. With no rule stated to be in force, there is no published means of complying and no application of a rule to describe.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any law or draft sets a rule on sending data abroad is not shown by what is held. Nor is how any such rule would be applied.
+***Not found***. Whether any law or draft sets a rule on sending data abroad is not shown by what is held. Nor is how any such rule would be applied.

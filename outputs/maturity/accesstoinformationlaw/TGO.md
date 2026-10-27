@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** Rules have been made under the law. [Decree no. 2017-104/PR of 10 August 2017 applies it, naming the public bodies it covers and the officials responsible](<https://jo.gouv.tg/sites/default/files/JO/JOS_10_08_2017-62e%20ANNEE%20N%C2%B0%2023%20ter.pdf>). The decree is older than three years and nothing later is recorded. A decision, order or penalty on a request for information, or figures of requests published by the oversight body, dated in the last three years, is not recorded.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.
+***Not found***. No source found dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.

@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "RWA-002;RWA-003",
-      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
-      "note": "Fact 2025-11-04: MININFRA and the Rwanda Housing Authority released an AI agent on the Kubaka building-permits platform, a second body beside the National Bank's Intumwa agent. No rules or register are held, so not stage 5.",
+      "gaps": "No source found says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2025-11-04: MININFRA and the Rwanda Housing Authority released an AI agent on the Kubaka building-permits platform, a second body beside the National Bank's Intumwa agent. No rules or register have been found, so not stage 5.",
       "as_at": "2026-10-22"
     }
   ]

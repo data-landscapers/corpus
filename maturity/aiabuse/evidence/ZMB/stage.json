@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-001;ZMB-002",
-      "gaps": "No source held since October 2023 says a body is designated with a mandate over AI.",
+      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI.",
       "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
       "as_at": "2026-10-18"
     }

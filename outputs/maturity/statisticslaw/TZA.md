@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is a 2025 survey. [The Bureau's catalogue page for the 2025 Integrated Labour Force Survey says survey information is collected under the Statistics Act](<https://microdata.nbs.go.tz/index.php/catalog/65>). A survey carried out is not counted as the law applied. The commencement notice of 2015 brought the Act into force and is not a rule under it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

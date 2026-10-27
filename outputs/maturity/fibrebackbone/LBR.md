@@ -6,6 +6,6 @@
 
 **Capacity sold to other operators.** [CSquared describes the 350 km backbone as Liberia's first open-access fibre backbone, providing high-capacity long-distance transmission services to Liberian telecommunication operators](<https://csquared.com/csquared-marks-significant-milestone-in-advancing-liberias-digital-connectivity-2/>). A backbone counts as open where other operators buy or lease capacity on it, or where it runs on open-access or wholesale terms, whoever owns it.
 
-***Noted, not assessed***. [expanded fiber-optic connectivity (planned)](<https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/>); [second submarine cable landing at Buchanan (planned)](<https://www.liberianobserver.com/news/liberia-on-the-verge-of-5g-revolution/article_992b027e-4c8a-4578-bf70-baf2e2eabeeb.html>).
+***Also on file***. [expanded fiber-optic connectivity (planned)](<https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/>); [second submarine cable landing at Buchanan (planned)](<https://www.liberianobserver.com/news/liberia-on-the-verge-of-5g-revolution/article_992b027e-4c8a-4578-bf70-baf2e2eabeeb.html>).
 
-***Not held***. No source held says the backbone reaches every province or region.
+***Not found***. No source found says the backbone reaches every province or region.

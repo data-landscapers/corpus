@@ -8,6 +8,6 @@
 
 **Linked to the ID and another sector.** [The paper says the Imibereho platform is anchored in the national ID system and interoperates with more than 10 government databases, and that Smart Start targeting draws on both health MIS data and the social registry](<https://documents1.worldbank.org/curated/en/099031926174531406/pdf/BOSIB-8f413a7a-fae6-43b1-bf08-93edd39faf53.pdf>).
 
-***Noted, not assessed***. [MEIS (Monitoring and Evaluation Information System, LODA)](<https://documents1.worldbank.org/curated/en/099031926174531406/pdf/BOSIB-8f413a7a-fae6-43b1-bf08-93edd39faf53.pdf>); [PGMIS (Poverty Graduation Management Information System)](<https://documents1.worldbank.org/curated/en/099031926174531406/pdf/BOSIB-8f413a7a-fae6-43b1-bf08-93edd39faf53.pdf>).
+***Also on file***. [MEIS (Monitoring and Evaluation Information System, LODA)](<https://documents1.worldbank.org/curated/en/099031926174531406/pdf/BOSIB-8f413a7a-fae6-43b1-bf08-93edd39faf53.pdf>); [PGMIS (Poverty Graduation Management Information System)](<https://documents1.worldbank.org/curated/en/099031926174531406/pdf/BOSIB-8f413a7a-fae6-43b1-bf08-93edd39faf53.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

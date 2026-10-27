@@ -12,6 +12,6 @@
 
 **Last twelve months.** On 3 December 2025 a magistrate [fined the finance manager of Vuka Africa Ltd sh100,000 for failing to register with the office](<https://www.newvision.co.ug/category/news/kampala-data-collection-company-prosecuted-ov-NV_224311_032026>). By letter of 17 July 2026 the office [confirmed that WhatsApp LLC had implemented the corrective measures](<https://businesstimesug.com/whatsapp-updates-privacy-policies-after-uganda-data-protection-enforcement/>). In August 2026 its director said [14,697 of an estimated 50,000 entities required to register had done so](<https://www.monitor.co.ug/uganda/news/national/over-35-000-entities-unregistered-as-regulator-cracks-down-on-data-privacy-violations-5563326>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No count of decisions, sanctions or complaints settled for a stated period. The year the Act was passed and the date it commenced are not given.
+***Not found***. No count of decisions, sanctions or complaints settled for a stated period. The year the Act was passed and the date it commenced are not given.

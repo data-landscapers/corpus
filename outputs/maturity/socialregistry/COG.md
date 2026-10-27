@@ -8,6 +8,6 @@
 
 **Linked to ID.** [Article 8 of the arrete says the registre social unique holds data from the civil-status information systems and the unique identification number, among other sources](<https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf>).
 
-***Noted, not assessed***. [Registre général des bénéficiaires](<https://fr.allafrica.com/stories/202601290559.html>).
+***Also on file***. [Registre général des bénéficiaires](<https://fr.allafrica.com/stories/202601290559.html>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

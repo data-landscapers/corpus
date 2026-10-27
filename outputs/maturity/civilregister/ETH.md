@@ -6,8 +6,8 @@
 
 **Deaths digital.** [The same presentation lists death registration and certificate, with health-facility death notification, among the services of the national eCRVS system, which it says improved CRVS operations](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf>).
 
-***Noted, not assessed***. [Fayda](<https://www.biometricupdate.com/202501/school-registration-adds-up-to-expanding-use-cases-of-ethiopias-digital-id>).
+***Also on file***. [Fayda](<https://www.biometricupdate.com/202501/school-registration-adds-up-to-expanding-use-cases-of-ethiopias-digital-id>).
 
-***Not held***. No source held since October 2023 says: are births registered digitally across the country.
+***Not found***. No source found since October 2023 says: are births registered digitally across the country.

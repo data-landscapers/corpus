@@ -8,6 +8,6 @@
 
 **The state's data hosted nationally.** [In July 2026 the minister said all government servers had been moved into the data centre the ministry created](<https://www.ami.mr/archives/263232>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.
+***Not found***. No source found names a second nationally owned data centre for hire at Tier III or above.

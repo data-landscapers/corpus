@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** Tanzania's state telecommunications company and Kenya's ICT Authority [put a terrestrial fibre link from Dar es Salaam to Mombasa into operation in July 2025](<https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite>). Tanzania and Kenya [launched a redundancy route of the national fibre network at the Horohoro border post](<https://dailynews.co.tz/new-fibre-link-to-boost-east-africas-digital-resilience/>) on 20 July 2025. The state telecommunications company says it runs at 1.6 Tbps, and several Kenyan companies have started using it.
 
-***Noted, not assessed***. [Yas Fibre Zanzibar broadband network](<https://www.connectingafrica.com/partnerships/yas-zictia-to-expand-broadband-access-in-zanzibar>).
+***Also on file***. [Yas Fibre Zanzibar broadband network](<https://www.connectingafrica.com/partnerships/yas-zictia-to-expand-broadband-access-in-zanzibar>).
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

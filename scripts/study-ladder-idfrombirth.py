@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "idfrombirth"
 SUB = "frombirth"
-GAPS = {'4': 'No source held since October 2023 puts birth registration at all births and deaths at 80% or more.', '3': 'No source held since October 2023 says every registered birth across the country receives the number.', '2': 'No source held since October 2023 says: is a number given at birth in part of the country.', '1': 'No source held since October 2023 says: is a number at birth provided for or piloted.', '5': ''}
-EMPTY = 'Nothing held says whether a birth is given an identity number.'
-UNPLACED = 'Nothing held since October 2023 says whether a birth is given an identity number.'
+GAPS = {'4': 'No source found since October 2023 puts birth registration at all births and deaths at 80% or more.', '3': 'No source found since October 2023 says every registered birth across the country receives the number.', '2': 'No source found since October 2023 says: is a number given at birth in part of the country.', '1': 'No source found since October 2023 says: is a number at birth provided for or piloted.', '5': ''}
+EMPTY = 'Nothing found says whether a birth is given an identity number.'
+UNPLACED = 'Nothing found since October 2023 says whether a birth is given an identity number.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

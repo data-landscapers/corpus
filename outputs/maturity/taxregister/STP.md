@@ -2,6 +2,6 @@
 
 ## Tax register
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how taxpayers are registered.
+***Not found***. Nothing found says how taxpayers are registered.

@@ -6,6 +6,6 @@
 
 **Capacity sold to other operators.** [SCS states operators in Seychelles could, from 16 November 2022, use the PEACE system to carry their traffic, the system being owned by SCS, a public-private vehicle of the government, Cable & Wireless Seychelles and Airtel Seychelles](<https://www.nation.sc/articles/16417/seychelles-achieves-security-in-international-connectivity-peace-operational-in-seychelles>). Capacity counts as sold where operators other than the owner buy it at the landing station or on the cable, or where either runs on open-access or regulated wholesale terms.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says two of the routes land at different stations, or run through two different neighbours.
+***Not found***. No source found says two of the routes land at different stations, or run through two different neighbours.

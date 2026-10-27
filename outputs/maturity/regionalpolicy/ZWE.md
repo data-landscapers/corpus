@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The nearest held fact is [the Harare workshop on harmonising data policy](<https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/>); no harmonised rule adopted in Zimbabwe is reported. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
 
-***Noted, not assessed***. [UNESCO Data Governance Toolkit](<https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/>).
+***Also on file***. [UNESCO Data Governance Toolkit](<https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/>).
 
-***Not held***. No source held says a thing the country agreed has been put into effect.
+***Not found***. No source found says a thing the country agreed has been put into effect.

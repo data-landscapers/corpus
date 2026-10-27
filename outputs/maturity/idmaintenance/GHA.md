@@ -6,8 +6,8 @@
 
 **Maintained nationally.** [The National Identification Authority's own PKI team is carrying out updates to the Ghana Card registration system, with services expected to resume on 10 May 2026](<https://www.classfmonline.com/news/NIA-announces-temporary-nationwide-service-disruption-for-system-updates-74362>).
 
-**Platform owned.** No source held since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://www.classfmonline.com/news/NIA-announces-temporary-nationwide-service-disruption-for-system-updates-74362>).
+**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://www.classfmonline.com/news/NIA-announces-temporary-nationwide-service-disruption-for-system-updates-74362>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the system runs on code the state owns.
+***Not found***. No source found since October 2023 says the system runs on code the state owns.

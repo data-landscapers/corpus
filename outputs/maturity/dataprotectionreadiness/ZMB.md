@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The Commissioner's office [opened online registration](<https://www.itnewsafrica.com/2025/04/zambias-data-protection-commissioner-fully-operational-enforcing-privacy-compliance/>) for controllers and processors, with a 30 April 2025 deadline. [UNDP](<https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration>) lists training staff in over 145 offices across 10 provinces on the Act as a requirement of the digital ID rollout.
 
-***Noted, not assessed***. [Data Protection Act](<https://lusakastar.com/news/data-protection-act-faces-enforcement-hurdles>); [Office of the Data Protection Commissioner](<https://techafricanews.com/2026/05/18/zambia-advances-digital-identity-agenda-through-multi-sectoral-engagement/>); [Data Protection Commission of Zambia](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498>); [Cyber Security Act and Cyber Crimes Act](<https://bloggersofzambia.org/6th-state-of-digital-rights-report/>).
+***Also on file***. [Data Protection Act](<https://lusakastar.com/news/data-protection-act-faces-enforcement-hurdles>); [Office of the Data Protection Commissioner](<https://techafricanews.com/2026/05/18/zambia-advances-digital-identity-agenda-through-multi-sectoral-engagement/>); [Data Protection Commission of Zambia](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498>); [Cyber Security Act and Cyber Crimes Act](<https://bloggersofzambia.org/6th-state-of-digital-rights-report/>).
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

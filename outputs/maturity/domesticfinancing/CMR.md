@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is the 2025 finance law's [1,567,500,000 CFA francs of domestic revenue for the digital cadastre programme](<https://rfp.cm/wp-content/uploads/2024/12/Projet-de-loi-de-Finances-2025-PRC_Fr.pdf>).
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying.
+***Not found***. No fund, levy or assigned tax for digital programmes is shown created, collecting or paying.

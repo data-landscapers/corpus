@@ -8,6 +8,6 @@
 
 **Volumes reported.** [AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined (2022, before the three-year window)](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Noted, not assessed***. [BANGE MOBILE GE](<https://realequatorialguinea.com/economia/bange-lanza-bange-mobile-ge-la-nueva-app-que-facilita-pagos-y-servicios-financieros-en-guinea-ecuatorial/>).
+***Also on file***. [BANGE MOBILE GE](<https://realequatorialguinea.com/economia/bange-lanza-bange-mobile-ge-la-nueva-app-que-facilita-pagos-y-servicios-financieros-en-guinea-ecuatorial/>).
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

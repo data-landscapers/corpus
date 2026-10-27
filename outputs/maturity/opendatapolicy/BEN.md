@@ -6,6 +6,6 @@
 
 **Portal run and data published.** The same assessment said the [national open data portal](<https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf>), built on CKAN and developed by the digital agency ASIN in 2021, was being finalised and was due to be officially launched in 2023. It reported no data published on it, and said [no open data licence or law yet existed](<https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf>).
 
-***Noted, not assessed***. [Portail Open Data du Bénin hébergé par la BAD](<https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf>).
+***Also on file***. [Portail Open Data du Bénin hébergé par la BAD](<https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf>).
 
-***Not held***. No source held says an open data policy is adopted and still running.
+***Not found***. No source found says an open data policy is adopted and still running.

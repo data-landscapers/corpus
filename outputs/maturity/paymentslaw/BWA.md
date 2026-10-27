@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** [The amended regulations require anyone operating an electronic payment service](<https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20(Amendment)%20Regulations%2C%202026.pdf>), e-money issuance and money transfer included, to hold a Bank of Botswana licence and to be a company incorporated in Botswana. They do not apply to banks licensed under the Banking Act, so the licence is one for companies that are not banks. The Bank [told the public to use licensed providers](<https://www.bankofbotswana.bw/sites/default/files/press-release-files/Implementation%20of%20the%20Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

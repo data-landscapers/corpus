@@ -6,6 +6,6 @@
 
 **Certification.** The [Standards Act](<https://www.nsi.com.na/download/standards-act-18-of-2005/>) is the nearest text held, and it names no certification against a standard on information technology or data.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

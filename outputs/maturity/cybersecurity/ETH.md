@@ -10,6 +10,6 @@
 
 **Published figures.** [Hamid stated a count of more than 71,000 cyberattacks handled by Ethio-CERT for the Ethiopian year 2018 E.C](<https://techreviewafrica.com/news/7717>).
 
-***Noted, not assessed***. [Gotera Cloud (G-Cloud)](<https://www.linkedin.com/posts/information-network-security-administration_digitalethiopia2030-insa-ethiopia-activity-7446822764042293248-2bIo>); [Information Network Security Administration (INSA)](<https://www.linkedin.com/posts/information-network-security-administration_insa-digitalethiopia2030-cybersecurity-activity-7453356614822277120-hb2m>).
+***Also on file***. [Gotera Cloud (G-Cloud)](<https://www.linkedin.com/posts/information-network-security-administration_digitalethiopia2030-insa-ethiopia-activity-7446822764042293248-2bIo>); [Information Network Security Administration (INSA)](<https://www.linkedin.com/posts/information-network-security-administration_insa-digitalethiopia2030-cybersecurity-activity-7453356614822277120-hb2m>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

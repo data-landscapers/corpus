@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "retailpayments"
 SUB = "retail"
-GAPS = {'4': 'No source held since October 2023 says a national switch connects wallets and bank accounts.', '3': 'No source held since October 2023 says payments between providers, or between wallets and banks, are in service.', '2': 'No source held since October 2023 says: are people paying by mobile money or e-money.', '1': 'No source held since October 2023 says: is a mobile money service starting.', '5': ''}
-EMPTY = 'Nothing held names a mobile money service, or says there is none.'
-UNPLACED = 'Nothing held since October 2023 says whether mobile money is in service.'
+GAPS = {'4': 'No source found since October 2023 says a national switch connects wallets and bank accounts.', '3': 'No source found since October 2023 says payments between providers, or between wallets and banks, are in service.', '2': 'No source found since October 2023 says: are people paying by mobile money or e-money.', '1': 'No source found since October 2023 says: is a mobile money service starting.', '5': ''}
+EMPTY = 'Nothing found names a mobile money service, or says there is none.'
+UNPLACED = 'Nothing found since October 2023 says whether mobile money is in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

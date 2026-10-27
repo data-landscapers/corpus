@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** Rules were made under the law in 2019. The institute's page of regulatory texts [lists three decrees dated July 2019 on the attributions, organisation and operation of the National Statistics Council, of the institute and of the National Statistics Development Fund](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>). They followed the law by a month. Nothing made or done under the law in the last three years is held.
 
-***Noted, not assessed***. [Système Statistique National](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>); [INSEED](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>); [Fonds National de Développement de la Statistique](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>); [Conseil National de la Statistique](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>).
+***Also on file***. [Système Statistique National](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>); [INSEED](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>); [Fonds National de Développement de la Statistique](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>); [Conseil National de la Statistique](<https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires>).
 
-***Not held***. No source held dates an act done under the law in the last three years.
+***Not found***. No source found dates an act done under the law in the last three years.

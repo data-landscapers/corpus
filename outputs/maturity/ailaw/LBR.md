@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no guardrails on AI in place](<https://oraclenewsdaily.com/2026/03/29/liberia-tech-expert-issues-early-warning-as-ai-threatens-liberias-job-market-security/>) in March 2026, Liberia has no general AI law to apply, and no body has been given powers under one. The memorandum asks for legislation; it does not say one is being drafted.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No bill, draft decree or draft regulation on AI is held.
+***Not found***. No bill, draft decree or draft regulation on AI has been found.

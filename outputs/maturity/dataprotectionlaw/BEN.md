@@ -12,6 +12,6 @@
 
 **Last twelve months.** The [swearing-in of seventeen APDP officers on 14 September 2026](<https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection>) was done under Article 468(2) of the Code. The APDP's president [spoke at a regulators' forum in Johannesburg on 1 to 3 September 2026](<https://www.lanation.bj/numerique/ia-et-flux-transfrontaliers-en-afrique-lappel-de-lapdp-benin-a-une-gouvernance-fiable-des-donnees>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. How many regulations are in force under the Code, and the date the Code commenced, are not stated. The 2025 figures are held through a newspaper's account, not the APDP's report itself, and no ratification of the Malabo Convention is stated.
+***Not found***. How many regulations are in force under the Code, and the date the Code commenced, are not stated. The 2025 figures are held through a newspaper's account, not the APDP's report itself, and no ratification of the Malabo Convention is stated.

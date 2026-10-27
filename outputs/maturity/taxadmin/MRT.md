@@ -6,8 +6,8 @@
 
 **Electronic payment.** [The Direction Générale des Impôts says its STT system lets taxpayers pay their taxes online and add their means of payment](<https://impots.gov.mr/DGI/teleservices.html>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://impots.gov.mr/DGI/teleservices.html>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://impots.gov.mr/DGI/teleservices.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

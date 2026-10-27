@@ -6,6 +6,6 @@
 
 **Certification.** The [gazette notice of April 2026](<https://www.gov.za/sites/default/files/gcis_document/202604/54520gen3890.pdf>) is the nearest text held. It lists standards issued, revised and withdrawn. It names no scheme for certifying an organisation against the biometric standard or any other standard on information technology or data, and no organisation the bureau has certified.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.

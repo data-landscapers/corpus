@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "UGA-001;UGA-005",
-      "gaps": "No source held says the government has issued rules or a register for its own use of AI.",
-      "note": "Fact 2026-10-01: NITA-U says it uses AI on the National ID portal and e-services to detect users' patterns, a second body beside the Civil Aviation Authority's number-plate recognition. No rules or register are held, so not stage 5.",
+      "gaps": "No source found says the government has issued rules or a register for its own use of AI.",
+      "note": "Fact 2026-10-01: NITA-U says it uses AI on the National ID portal and e-services to detect users' patterns, a second body beside the Civil Aviation Authority's number-plate recognition. No rules or register have been found, so not stage 5.",
       "as_at": "2026-10-22"
     }
   ]

@@ -6,8 +6,8 @@
 
 **Paid electronically.** [The World Bank mid-term aide-memoire reports 41,703 beneficiaries receiving payments by mobile money, and says ARIEP beneficiaries hold accounts with Sanduk and are all paid by bank transfer](<https://pfss-comores.org/ressources/download/8>). [The World Bank aide-memoire says the project created a mobile-money account for every social cash transfer beneficiary household and reports 39,904 beneficiaries receiving payments by mobile money (41,203 including flood-affected households)](<https://documents1.worldbank.org/curated/en/099121724164029872/pdf/P179291-8124ca5b-87dd-4490-be73-04c5cb249a2c.pdf>).
 
-**Several programmes.** No source held since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://pfss-comores.org/ressources/download/8>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://pfss-comores.org/ressources/download/8>).
 
-***Noted, not assessed***. [Registre Social Unique (RSU)](<https://pfss-comores.org/ressources/download/8>).
+***Also on file***. [Registre Social Unique (RSU)](<https://pfss-comores.org/ressources/download/8>).
 
-***Not held***. No source held since October 2023 says one information system serves several social programmes.
+***Not found***. No source found since October 2023 says one information system serves several social programmes.

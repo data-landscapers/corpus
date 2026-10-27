@@ -8,6 +8,6 @@
 
 **Use published.** [Government Online Centre statistics, cited in the OECD OPSI case, show hits on the MoKloud digital safe rising from 2,067 in January 2022 to 12,172 in September 2022 (2022, before the three-year window)](<https://oecd-opsi.org/innovations/maupass/>).
 
-***Noted, not assessed***. [InfoHighway](<https://ih.govmu.org/assets/docs/IH_Leaflet_v12.pdf>).
+***Also on file***. [InfoHighway](<https://ih.govmu.org/assets/docs/IH_Leaflet_v12.pdf>).
 
-***Not held***. No source held since October 2023 says: are ten or more services online.
+***Not found***. No source found since October 2023 says: are ten or more services online.

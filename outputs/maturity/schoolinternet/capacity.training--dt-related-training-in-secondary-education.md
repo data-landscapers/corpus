@@ -87,7 +87,7 @@ In 2023, 99.5 per cent of secondary schools had internet for teaching.
 
 ### Uganda: 4 Operating
 
-In 2026, 63 per cent of secondary schools assessed had internet; whether digital skills are compulsory is not known.
+In 2026, 63 per cent of secondary schools assessed had internet; no source found says whether digital skills are compulsory.
 
 - The UNICEF Uganda assessment of 3,257 secondary schools (78% of those registered with ASSHU), done with the Ministry of Education and Sports, reports that schools with internet access are 63 per cent of the sample (2,055 schools), while 38 per cent have no internet at all and only 12 per cent have school-wide access ([source, 2026-02](https://www.unicef.org/uganda/media/21466/file/From%20Unplugged%20to%20ICT-Ready%20-%20A%20Digital%20Readiness%20Assessment%20of%20Secondary%20Schools%20in%20Uganda%20-%20print%20file.pdf.pdf)).
 
@@ -183,174 +183,174 @@ In 2024, 5.04 per cent of secondary schools had internet for teaching.
 
 ### Angola: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Benin: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Botswana: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Burundi: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Cape Verde: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### DR Congo: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Ethiopia: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Ghana: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Guinea: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Madagascar: Unplaced
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for secondary schools with internet for teaching.
+Not established: No figure for 2023 or later has been found for secondary schools with internet for teaching.
 
 ### Central African Republic: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Congo: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Equatorial Guinea: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Eritrea: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Gabon: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Guinea-Bissau: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Lesotho: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Liberia: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Libya: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Malawi: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Mauritania: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Mozambique: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Nigeria: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Sao Tome and Principe: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Somalia: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### South Africa: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### South Sudan: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Sudan: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.
 
 ### Tanzania: No evidence
 
-No figure for secondary schools with internet for teaching is held for 2023 or later, so no stage is set.
+No figure for secondary schools with internet for teaching has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives secondary schools with internet for teaching.
+Not established: Nothing found gives secondary schools with internet for teaching.

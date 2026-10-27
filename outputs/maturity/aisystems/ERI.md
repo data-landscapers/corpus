@@ -8,6 +8,6 @@
 
 **Shared with users.** [GeezLab says it publishes its datasets, models, code and tools openly, and lists TiNC24 and TiPOSC24 among them](<https://research.geezlab.com/>); no user of them is named or counted.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country, or that national models or datasets have named or counted users.
+***Not found***. No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country, or that national models or datasets have named or counted users.

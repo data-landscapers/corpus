@@ -8,6 +8,6 @@
 
 **Use reported.** [RTD reported that the portal lists 1,300 published contracts and 1,227 recorded awards since 2021, figures given at the second regional public-procurement colloquium in Dikhil](<https://rtd.dj/le-premier-ministre-par-interim-participe-au-deuxieme-colloque-regional/>).
 
-***Noted, not assessed***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>); [Portail électronique informationnel des Marchés Publics](<https://www.presidence.dj/conseil-des-ministres/2025-02-25>).
+***Also on file***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>); [Portail électronique informationnel des Marchés Publics](<https://www.presidence.dj/conseil-des-ministres/2025-02-25>).
 
-***Not held***. Bids are not yet submitted online, and nothing held since October 2023 says the portal is required of all public bodies.
+***Not found***. Bids are not yet submitted online, and nothing found since October 2023 says the portal is required of all public bodies.

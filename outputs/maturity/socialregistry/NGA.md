@@ -8,6 +8,6 @@
 
 **Linked to ID.** [NASSCO said 12.3 million NINs have been captured into the National Social Register and over 11.5 million validated, with NIN integration ongoing](<https://tribuneonlineng.com/77-million-nigerians-now-on-fgs-safety-net-register-nassco/>). [NSIPA says NIN and BVN are integrated into the NSR database, with 1,628,587 NINs validated by NIMC](<https://nsipa.gov.ng/programmes/nassco.html>). [Register entries are checked against NIN and BVN, and those without them are disqualified, says the minister's media aide](<https://punchng.com/cash-transfer-fg-disqualifies-nigerians-without-nin-bvn-cbn-begins-payment/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

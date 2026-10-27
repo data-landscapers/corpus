@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GNQ-001",
-   "gaps": "No source held says a data centre for hire in the country is Tier III or above.",
+   "gaps": "No source found says a data centre for hire in the country is Tier III or above.",
    "note": "Counted from the four questions by study-ladder-datacentres.py."
   }
  ]

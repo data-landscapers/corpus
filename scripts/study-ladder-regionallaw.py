@@ -39,11 +39,11 @@ import study_lib  # noqa: E402
 STUDY = "regionallaw"
 GAPS = {
     "5": "Nothing on the four questions.",
-    "4": "No source held reports the shared law applied across a border in the last three "
+    "4": "No source found reports the shared law applied across a border in the last three "
          "years: a licence or signature recognised, a request between authorities answered, "
          "a ruling, or a regional finding that the country complies.",
-    "3": "No source held says a national law or rule was passed to give effect to a shared text.",
-    "2": "No source held dates a ratification or accession.",
+    "3": "No source found says a national law or rule was passed to give effect to a shared text.",
+    "2": "No source found dates a ratification or accession.",
     "1": "",
 }
 
@@ -89,7 +89,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         if r["aspect"] == "accepted" and r["value"] == "none" and d >= three][:2]
     if not rows:
         return {"stage": "no evidence", "accepted": "", "effect": "", "sources": [],
-                "gaps": "Nothing held names an African legal text on a digital matter that the "
+                "gaps": "Nothing found names an African legal text on a digital matter that the "
                         "country has signed or is bound by, or says it has signed none."}
     if in_use:
         s, src = "5", in_use + [r for r in effect if r not in in_use][:1] + ratified[:1]

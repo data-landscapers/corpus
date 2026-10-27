@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "LBY-001",
-   "gaps": "No source held since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
+   "gaps": "No source found since October 2023 says three or more health systems exchange data, or a national exchange is in service.",
    "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
   }
  ]

@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The [IBA chapter](<https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Sao-Tome-Principe>) describes the fines and criminal sanctions the law provides and says the agency imposes fines and ancillary measures. In January 2025 its president [described working with Facebook](<https://rstp.st/2025/01/29/agencia-de-protecao-de-dados-trabalha-com-o-facebook-para-eliminar-perfis-falsos-em-stp/>) on fake profiles.
 
-***Noted, not assessed***. [Agência Nacional de Protecção de Dados Pessoais (ANPDP)](<https://www.gov.mo/pt/noticias/831008/>).
+***Also on file***. [Agência Nacional de Protecção de Dados Pessoais (ANPDP)](<https://www.gov.mo/pt/noticias/831008/>).
 
-***Not held***. No source dated in the last three years shows the authority registering organisations, taking breach reports, issuing guidance or inspecting. No ruling against an organisation is held.
+***Not found***. No source dated in the last three years shows the authority registering organisations, taking breach reports, issuing guidance or inspecting. No ruling against an organisation has been found.

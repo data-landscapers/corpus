@@ -6,8 +6,8 @@
 
 **Online filing.** [The directive requires process to be uploaded for issuing on Court Online and supporting documents uploaded once the case number is allocated, by legal practitioners and litigants](<https://www.judiciary.org.za/images/Directives/Directives_2026/KZN%20Court%20Online%20Directives%20(Final%20June%202026).pdf>). [Nel said Court Online, now live for the Eastern Cape High Court, is powered by Microsoft for e-filing and case management](<https://justice.gov.za/m_speeches/2025/20250716-CourtOnline-DMin.html>).
 
-**Open online.** No source held since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://www.judiciary.org.za/images/Directives/Directives_2026/KZN%20Court%20Online%20Directives%20(Final%20June%202026).pdf>).
+**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://www.judiciary.org.za/images/Directives/Directives_2026/KZN%20Court%20Online%20Directives%20(Final%20June%202026).pdf>).
 
-***Noted, not assessed***. [Biometric case management system (BCMS)](<https://www.biometricupdate.com/202607/south-africa-tenders-biometric-case-management-system-for-migration-enforcement>); [Masters Offices Deceased Estates Online](<https://www.itweb.co.za/article/deputy-minister-sheds-light-on-justice-in-digital-age/KA3WwqdzpBA7rydZ>).
+***Also on file***. [Biometric case management system (BCMS)](<https://www.biometricupdate.com/202607/south-africa-tenders-biometric-case-management-system-for-migration-enforcement>); [Masters Offices Deceased Estates Online](<https://www.itweb.co.za/article/deputy-minister-sheds-light-on-justice-in-digital-age/KA3WwqdzpBA7rydZ>).
 
-***Not held***. No source held since October 2023 says judgments are published or case status can be looked up online.
+***Not found***. No source found since October 2023 says judgments are published or case status can be looked up online.

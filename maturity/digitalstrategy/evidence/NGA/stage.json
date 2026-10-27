@@ -2,7 +2,7 @@
   "iso3": "NGA",
   "cells": [
     {"sub_indicator": "national", "stage": "3", "governance": "body:mandated", "standing": "adopted", "text": "public", "period": "to:2030", "plan": "actions", "reporting": "activity", "last12": "", "cap": "", "flags": "", "stage_sources": "NGA-004;NGA-013;NGA-014;NGA-019;NGA-022",
-     "gaps": "Reporting is activity only (statements of progress, no results against the strategy's targets), so stage 4 is out of reach; the plan states no cost, and no finance fact falls inside the 36 months. A 2025 repository gives the time frame as '2020 - ongoing' against the stated 2030 end, not a conflict for the rung. No other national instrument is held.",
+     "gaps": "Reporting is activity only (statements of progress, no results against the strategy's targets), so stage 4 is out of reach; the plan states no cost, and no finance fact falls inside the 36 months. A 2025 repository gives the time frame as '2020 - ongoing' against the stated 2030 end, not a conflict for the rung. No other national instrument has been found.",
      "note": "National Digital Economy Policy and Strategy 2020-2030: published by the government, called enacted by a tracker of adopted texts, text public, period to 2030. Reporting is activity only, so not stage 4."}
   ]
 }

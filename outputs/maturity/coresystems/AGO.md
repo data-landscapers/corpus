@@ -6,12 +6,12 @@
 
 **Tax.** A September 2026 paper by CIAT authors says the tax administration's [Integrated Tax Management System (SIGT) handles taxpayer registration, declarations, assessment and payment](<https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en>), and the collection and accounting of revenue into the Single Treasury Account.
 
-**Payroll.** No source held from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on [the source that sets it](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
+**Payroll.** No source found from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on [the source that sets it](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
 
-**Renewal.** No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
+**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
 
-**A map of the systems.** No source held says the government has published an enterprise architecture or an inventory of its systems; the stage rests on [the source that sets it](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
+**A map of the systems.** No source found says the government has published an enterprise architecture or an inventory of its systems; the stage rests on [the source that sets it](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
 
-***Noted, not assessed***. [AGT in-house artificial-intelligence risk-profiling system](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>); [Data Center e Cloud do Governo (Camama)](<https://angop.ao/noticias/economia/requalificacao-do-data-center-reforca-soberania-digital-ministro/>).
+***Also on file***. [AGT in-house artificial-intelligence risk-profiling system](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>); [Data Center e Cloud do Governo (Camama)](<https://angop.ao/noticias/economia/requalificacao-do-data-center-reforca-soberania-digital-ministro/>).
 
-***Not held***. No source held from 2023 or later says the civil-service payroll runs on a computer system.
+***Not found***. No source found from 2023 or later says the civil-service payroll runs on a computer system.

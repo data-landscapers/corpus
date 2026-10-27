@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** [Mobile phone money transfer operators are authorised as payment service providers](<https://www.centralbank.go.ke/national-payments-system/>) under the 2011 Act and the 2014 regulations, in categories that include e-money issuer and small money issuer. No rule is named that requires mobile money providers and banks to connect to each other or to a national switch. Rwanda's central bank says [a memorandum of March 2026 on licence passporting covers payment service providers licensed by the Central Bank of Kenya](<https://www.bis.org/speeches/20260313-signing-mou-between-central-bank-kenya-and-national-bank-rwanda>).
 
-***Noted, not assessed***. [M-Pesa](<https://www.standardmedia.co.ke/business/article/2001554316/safaricom-halves-m-pesa-merchant-fees-in-cbk-led-move>).
+***Also on file***. [M-Pesa](<https://www.standardmedia.co.ke/business/article/2001554316/safaricom-halves-m-pesa-merchant-fees-in-cbk-led-move>).
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

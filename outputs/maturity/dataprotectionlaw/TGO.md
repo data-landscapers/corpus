@@ -12,6 +12,6 @@
 
 **Last twelve months.** The IPDCP and the broadcast regulator HAAC [signed a cooperation memorandum on 10 December 2025](<https://cybersecuritymag.africa/la-haac-et-ipdcp-scellent-un-accord-de-cooperation-institutionnelle>) that gives the IPDCP access to HAAC's monitoring room. The IPDCP [opened its first evaluation and certification session for correspondents](<https://lenouveaureporter.com/togo-lipdcp-lance-la-certification-des-correspondants-a-la-protection-des-donnees/>) in Atakpamé on 30 September 2026, with 32 professionals. On 19 October 2026 the IPDCP [placed a team in the media regulator HARC's monitoring service](<https://ipdcp.tg/medias-et-protection-des-donnees-personnelles-lipdcp-et-la-harc-renforcent-leur-partenariat-2/>). It [set a first national data protection day for 29 October 2026](<https://levisionnaire.tg/jnpdp-2026-lipdcp-mobilise-les-citoyens-pour-une-meilleure-protection-des-donnees-personnelles/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation made under the law is held. No named sanction or decision under it is held, and no published count of decisions.
+***Not found***. No regulation made under the law has been found. No named sanction or decision under it has been found, and no published count of decisions.

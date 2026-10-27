@@ -8,6 +8,6 @@
 
 **Published regularly.** [The report's foreword says the 2023 edition is the eleventh in a series of annual CRVS reports produced since 2010, so that production of an annual vital statistics report is a continuous process](<https://www.knbs.or.ke/wp-content/uploads/2025/01/2023-Kenya-Vital-Statistics-Report.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held shows statistics from three administrative sources, each published twice since October 2023.
+***Not found***. No source found shows statistics from three administrative sources, each published twice since October 2023.

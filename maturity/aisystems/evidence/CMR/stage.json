@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CMR-003",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
       "note": "GOV-AI runs on CENADI's national servers in Cameroon and is available through the nGomna app. GPU Cloud Africa's Douala servers are announced, not stated in service.",
       "as_at": "2026-10-22"
     }

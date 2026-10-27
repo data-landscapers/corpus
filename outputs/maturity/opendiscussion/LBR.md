@@ -8,6 +8,6 @@
 
 **Punishment for speech, and its removal.** In September 2026 [police arrested Jerry Nyanti Wratto in Monrovia, charged him and sent him to court under the Cybercrime Act](<https://allafrica.com/stories/202609240628.html>) over Facebook and TikTok posts about the Vice President. [The Vice President asked for his release](<https://www.thenewdawnliberia.com/koung-seeks-release-of-ai-image-suspect/>), and [no court outcome is given](<https://frontpageafricaonline.com/liberias-cybercrime-law-faces-its-first-real-trial-as-vp-koung-case-exposes-liberias-widening-fault-lines/>). A 2019 law, [the KAK Act, decriminalised sedition and criminal libel against the President](<https://frontpageafricaonline.com/liberias-cybercrime-law-faces-its-first-real-trial-as-vp-koung-case-exposes-liberias-widening-fault-lines/>).
 
-***Noted, not assessed***. [The Cybercrime Act of 2025](<https://allafrica.com/stories/202609240628.html>); [the International Gateway Monitoring System](<https://smartnewsliberia.com/pressure-mounts-on-massaquoi-to-disclose-revenue/>).
+***Also on file***. [The Cybercrime Act of 2025](<https://allafrica.com/stories/202609240628.html>); [the International Gateway Monitoring System](<https://smartnewsliberia.com/pressure-mounts-on-massaquoi-to-disclose-revenue/>).
 
-***Not held***. No source held gives the outcome of the Wratto case, a cut or block of internet access, or a bar on one.
+***Not found***. No source found gives the outcome of the Wratto case, a cut or block of internet access, or a bar on one.

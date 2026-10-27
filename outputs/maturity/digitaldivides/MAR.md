@@ -6,8 +6,8 @@
 
 **Gap measured.** [HCP reported from the 2024 census that 70.2% of urban and 40.4% of rural residents aged 15 and over used the internet in the three months before the census](<https://aljarida24.ma/p/actualites/298884/>).
 
-**Gap narrow.** No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<https://aljarida24.ma/p/actualites/298884/>).
+**Gap narrow.** No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate. The nearest held fact: [the one given above](<https://aljarida24.ma/p/actualites/298884/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate.
+***Not found***. No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate.

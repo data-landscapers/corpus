@@ -6,6 +6,6 @@
 
 **Money and results.** Nothing is held on funding, spending or results delivered under the plan. The nearest held fact is what the draft itself sets out, its [coverage targets before 2031](<https://wardip.gw/wp-content/uploads/2026/05/Plano-Estrategico-do-UASF.pdf>): 99% of the population for 2G, 98% for 3G and 96% for 4G broadband.
 
-***Noted, not assessed***. [National Digital Transformation Strategy (ENTD.GW)](<https://unu.edu/egov/news/unu-egov-welcomes-delegation-guinea-bissau>).
+***Also on file***. [National Digital Transformation Strategy (ENTD.GW)](<https://unu.edu/egov/news/unu-egov-welcomes-delegation-guinea-bissau>).
 
-***Not held***. No source held says a national broadband plan is adopted and still running.
+***Not found***. No source found says a national broadband plan is adopted and still running.

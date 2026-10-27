@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "socialregistry"
 SUB = "social"
-GAPS = {'4': 'No source held since October 2023 says the social registry is linked to the national ID.', '3': 'No source held since October 2023 says two or more programmes use the social registry.', '2': 'No source held since October 2023 says: is a social registry in service.', '1': 'No source held since October 2023 says: is a social registry under way.', '5': ''}
-EMPTY = 'Nothing held names a social registry, or says there is none.'
-UNPLACED = 'Nothing held since October 2023 says whether a social registry is under way or in service.'
+GAPS = {'4': 'No source found since October 2023 says the social registry is linked to the national ID.', '3': 'No source found since October 2023 says two or more programmes use the social registry.', '2': 'No source found since October 2023 says: is a social registry in service.', '1': 'No source found since October 2023 says: is a social registry under way.', '5': ''}
+EMPTY = 'Nothing found names a social registry, or says there is none.'
+UNPLACED = 'Nothing found since October 2023 says whether a social registry is under way or in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

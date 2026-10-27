@@ -6,8 +6,8 @@
 
 **Answers published.** [The Liberia Telecommunications Authority issued a final report of 4 March 2024 setting out the inputs received on its draft QoS Regulations and its decision on each](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>).
 
-**Required.** No source held since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>).
+**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a rule requires drafts to be put online for public comment.
+***Not found***. No source found since October 2023 says a rule requires drafts to be put online for public comment.

@@ -6,8 +6,8 @@
 
 **Across government.** [The ICT ministry's 12 January 2026 communique made the AI training compulsory for all state employees in every sector](<https://www.agenceecofin.com/actualites-numerique/1301-134789-numerique-le-rwanda-lance-des-formations-en-ia-pour-tous-les-fonctionnaires>), and [the public service ministry's notice extends it to staff of education and health institutions, with disciplinary measures for non-compliance](<https://fdo.net.rw/mandatory-artificial-intelligence-ai-training-for-all-public-servants-in-rwanda-dont-miss-certificates/>).
 
-**Share published.** No source held since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [at least 76 per cent of the nearly 200,000 who completed the course are frontline workers](<https://apolitical.co/en/pages/gov-ai-campus-500k-milestone>).
+**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [at least 76 per cent of the nearly 200,000 who completed the course are frontline workers](<https://apolitical.co/en/pages/gov-ai-campus-500k-milestone>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives the share of the civil service trained in digital skills.
+***Not found***. No source found since October 2023 gives the share of the civil service trained in digital skills.

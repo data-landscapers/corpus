@@ -313,60 +313,60 @@ A programme to bring internet to rural areas was under way in 2026; sites connec
 
 ### Benin: Unplaced
 
-Nothing held since 2023 names a programme to connect rural areas, so no stage is set.
+Nothing found since 2023 names a programme to connect rural areas, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a programme to connect rural areas is under way.
+Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
 
 ### Libya: Unplaced
 
-Nothing held since 2023 names a programme to connect rural areas, so no stage is set.
+Nothing found since 2023 names a programme to connect rural areas, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a programme to connect rural areas is under way.
+Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
 
 ### Mauritius: Unplaced
 
-Nothing held since 2023 names a programme to connect rural areas, so no stage is set.
+Nothing found since 2023 names a programme to connect rural areas, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a programme to connect rural areas is under way.
+Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
 
 ### Rwanda: Unplaced
 
-Nothing held since 2023 names a programme to connect rural areas, so no stage is set.
+Nothing found since 2023 names a programme to connect rural areas, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a programme to connect rural areas is under way.
+Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
 
 ### Togo: Unplaced
 
-Nothing held since 2023 names a programme to connect rural areas, so no stage is set.
+Nothing found since 2023 names a programme to connect rural areas, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a programme to connect rural areas is under way.
+Not established: Nothing found since October 2023 says whether a programme to connect rural areas is under way.
 
 ### Comoros: No evidence
 
-Nothing held names a programme to connect rural areas or says there is none, so no stage is set.
+Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
 
-Not established: Nothing held says whether rural areas are being connected or how far rural internet use lags urban.
+Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.
 
 ### Eritrea: No evidence
 
-Nothing held names a programme to connect rural areas or says there is none, so no stage is set.
+Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
 
-Not established: Nothing held says whether rural areas are being connected or how far rural internet use lags urban.
+Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a programme to connect rural areas or says there is none, so no stage is set.
+Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
 
-Not established: Nothing held says whether rural areas are being connected or how far rural internet use lags urban.
+Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names a programme to connect rural areas or says there is none, so no stage is set.
+Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
 
-Not established: Nothing held says whether rural areas are being connected or how far rural internet use lags urban.
+Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.
 
 ### Seychelles: No evidence
 
-Nothing held names a programme to connect rural areas or says there is none, so no stage is set.
+Nothing found names a programme to connect rural areas or says there is none, so no stage is set.
 
-Not established: Nothing held says whether rural areas are being connected or how far rural internet use lags urban.
+Not established: Nothing found says whether rural areas are being connected or how far rural internet use lags urban.

@@ -6,8 +6,8 @@
 
 **Authority.** [A November 2025 decree established the Sudanese Data and Artificial Intelligence Authority and the Sudanese Cybersecurity Authority, though neither had issued binding rules as of mid-2026, per the SCPS article citing the AI Regulation Tracker](<https://sudancps.com/en/2026/07/19/sudans-privacy-gap-balancing-digital-transformation-and-data-laws-intro/>).
 
-**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://sudancps.com/en/2026/07/19/sudans-privacy-gap-balancing-digital-transformation-and-data-laws-intro/>).
+**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://sudancps.com/en/2026/07/19/sudans-privacy-gap-balancing-digital-transformation-and-data-laws-intro/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not found***. No source found since October 2023 gives an enforcement or redress decision about a harm from AI.

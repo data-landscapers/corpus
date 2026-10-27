@@ -16,6 +16,6 @@
 
 **Last twelve months.** [The JICA statement that Gabon has formulated a national ICT policy](<https://openjicareport.jica.go.jp/pdf/12369203.pdf>) dates from March 2022.
 
-***Noted, not assessed***. [Gabon Digital Development Strategy (SGDN)](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>), [Loi N° 026/2018 portant réglementation des communications électroniques](<https://journal-officiel.ga/5055-026-2018-/>), [eGabon Project](<https://documents1.worldbank.org/curated/en/248611468197395639/pdf/PAD1567-PAD-P132824-R2016-0091-1-Box394887B-OUO-9.pdf>).
+***Also on file***. [Gabon Digital Development Strategy (SGDN)](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>), [Loi N° 026/2018 portant réglementation des communications électroniques](<https://journal-officiel.ga/5055-026-2018-/>), [eGabon Project](<https://documents1.worldbank.org/curated/en/248611468197395639/pdf/PAD1567-PAD-P132824-R2016-0091-1-Box394887B-OUO-9.pdf>).
 
-***Not held***. The only statement of the policy is JICA's of March 2022, which gives no adoption date. The policy's text, period, delivery plan, reporting, mandated body and finance are not held, and nothing is dated since.
+***Not found***. The only statement of the policy is JICA's of March 2022, which gives no adoption date. The policy's text, period, delivery plan, reporting, mandated body and finance are not held, and nothing is dated since.

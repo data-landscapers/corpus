@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The Universal Communications Service Access Fund [paid 71 billion of the 126 billion shillings cost of the 758-tower rural project](<https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/>). Its chief executive said on 5 October 2026 that it [will build 250 school computer laboratories this financial year and has paid for 2,166 towers](<https://www.ucsaf.go.tz/news/ucsaf-to-construct-250-ict-laboratories-in-public-schools>).
 
-***Noted, not assessed***. [The National ICT Broadband Backbone](<https://www.tanzaniainvest.com/telecoms/ict-telecom-budget-2026-2027-speech>); [ICT startup financing via NMB Bank](<https://www.tanzaniainvest.com/telecoms/ict-telecom-budget-2026-2027-speech>); [the 758-tower project](<https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/>).
+***Also on file***. [The National ICT Broadband Backbone](<https://www.tanzaniainvest.com/telecoms/ict-telecom-budget-2026-2027-speech>); [ICT startup financing via NMB Bank](<https://www.tanzaniainvest.com/telecoms/ict-telecom-budget-2026-2027-speech>); [the 758-tower project](<https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/>).
 
-***Not held***. The ministry's own budget was lower in the latest year than the one before; nothing held shows it rose.
+***Not found***. The ministry's own budget was lower in the latest year than the one before; nothing found shows it rose.

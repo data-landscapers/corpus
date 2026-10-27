@@ -32,7 +32,7 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 ### Mauritius: 5 Leading
 
-A map of government systems published by 2025; nothing held says which core systems are in use.
+A map of government systems published by 2025; nothing found says which core systems are in use.
 
 - The Central Informatics Bureau's progress update on the Digital Government Transformation Strategy marks as implemented the recommendation to publish a catalogue of information systems and services, saying a list of operational systems by ministry and department is available on the CIB website; the document gives no date for publication, so its published date of 2025-04-25 is used ([source, 2025-04-25](https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf)).
 - The Central Information Systems Division states it handles monthly payroll processing for every Ministry and Department, on a revamped payroll system with an e-payroll module for Finance Officers ([source, 2024-05](https://cisd.govmu.org/Documents/customercharter24.pdf)).
@@ -55,14 +55,14 @@ A core system renewed, and a map of government systems published by 2026.
 
 ### Togo: 5 Leading
 
-A map of government systems published by 2026; nothing held says which core systems are in use.
+A map of government systems published by 2026; nothing found says which core systems are in use.
 
 - Agence Togo Digital publishes online the structuring elements of the Architecture d'Entreprise Gouvernementale du Togo (AEGT): a vision, twelve orientation statements and governance, general, business and functional principles for the state information system; the page carries no publication date, so the 2026-09-04 retrieval date stands as a ceiling ([source, 2026-09-04](https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/elements.html)).
 - The Ministry of Finance and Budget says budget data entry is currently done in SIGFiP and in parallel in SOLAF, with 236 regional agents trained in SOLAF on commitment, settlement, ordering and payment mandates in August-September 2024 ([source, 2024-09](https://finances.gouv.tg/formation-des-agents-ordonnateurs-regionaux-en-execution-du-budget-de-letat-dans-solaf/)).
 
 ### Uganda: 5 Leading
 
-A map of government systems published by 2026, and the payroll runs on a computer system; the finance and tax systems are not known.
+A map of government systems published by 2026, and the payroll runs on a computer system; no source found reports the finance and tax systems.
 
 - eGA reports that the Government of Uganda renewed its Government Enterprise Architecture, led by NITA-U with World Bank support, delivering a renewed architecture aligned with Vision 2040; the article is dated 2026-05-27 and gives no earlier completion date ([source, 2026-05-27](https://ega.ee/uganda-renewed-digital-government-frameworks/)).
 - Uganda's REAP strategy page refers to a current pension and payroll system, whose functional and technical challenges are to be addressed by replacing the underlying application with a Human Capital Management system ([source, 2024-08](https://reap.finance.go.ug/accountability-systems/)).
@@ -85,7 +85,7 @@ Finance, tax and payroll systems in use, one renewed in 2026; no published map o
 
 ### Guinea-Bissau: 4 Operating
 
-A new civil-service payroll platform went live in 2024; whether the finance and tax systems are in use is not known.
+A new civil-service payroll platform went live in 2024; no source found says whether the finance and tax systems are in use.
 
 - The IMF project lead says the new blockchain payroll ledger platform was launched successfully in May 2024, after four years of work with the Fund and Ernst & Young ([source, 2024-05](https://www.mef.gw/noticias/fmi-sauda-a-implementacao-da-plataforma-para-melhorar-gestao-da-folha-salarial)).
 - The IMF mission chief and project lead say Guinea-Bissau launched a blockchain public payroll platform in May 2024 under its IMF ECF programme, which could track all 26,600 civil servants and 8,100 pensioners by November 2024 ([source, 2024-05](https://www.mef.gw/noticias/fmi-sauda-a-implementacao-da-plataforma-para-melhorar-gestao-da-folha-salarial)).
@@ -131,7 +131,7 @@ Finance, tax and payroll run on computer systems by 2025; none is known to have 
 
 ### Libya: 3 Established
 
-Tax and the civil-service payroll run on computer systems by 2025; whether any replaced an older system is not known.
+Tax and the civil-service payroll run on computer systems by 2025; no source found says whether any replaced an older system.
 
 - The Libyan Tax Authority announced the official start of work on the Unified Tax System, with the Ministry of Finance saying it implements Decision No. 448 of 2025 ([source, 2025-12-13](https://lana.gov.ly/post.php?id=346934&lang=ar)).
 - Libya's finance minister Khaled Al-Mabrouk said August 2025 public sector salaries were processed on the new unified treasury account system, after basic data for around 41% of state employees was uploaded ([source, 2025-08](https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system)).
@@ -146,7 +146,7 @@ Finance, tax and payroll run on computer systems by 2025; none is known to have 
 
 ### Zambia: 3 Established
 
-Budget, tax and payroll systems were all in use by 2026; whether any was renewed or upgraded since 2023 is not known.
+Budget, tax and payroll systems were all in use by 2026; no source found says whether any was renewed or upgraded since 2023.
 
 - The catalogue line of the Auditor General's report on the 2024 accounts says the audit found the IFMIS without logs or offsite backup, which treats the system as operating in the 2024 financial year; the page holds no figures ([source, 2024](https://www.ago.gov.zm/wp-content/uploads/Auditor-General-Report-for-the-Financial-Year-2024-ONLINE-PUBLICATION.pdf)).
 - The Zambia Revenue Authority presentation shows taxpayers filing returns on its TaxOnline system, using invoices generated by Smart Invoice, which has been mandatory for VAT-registered taxpayers since 1 July 2024 ([source, 2025-05](https://ictaz.org.zm/wp-content/uploads/2025/05/ZRA-Smart-Invoice.pdf)).
@@ -154,49 +154,49 @@ Budget, tax and payroll systems were all in use by 2026; whether any was renewed
 
 ### Algeria: 2 Nascent
 
-The finance ministry launched a new budget system's first phase in 2024; whether it, tax or payroll systems are in service is not known.
+The finance ministry launched a new budget system's first phase in 2024; no source found says whether it, tax or payroll systems are in service.
 
 - Algeria's Finance Ministry announced the launch of the first phase of deployment of the integrated budget management system (SIGB), covering revenue and expenditure, in its customs, treasury and accounting, budget and tax directorates ([source, 2024-11-29](https://lasentinelle.dz/index.php/2024/12/01/systeme-integre-de-gestion-budgetaire-sigb-lancement-de-la-premiere-phase-de-deploiement/)).
 
 ### Angola: 2 Nascent
 
-The government budgets, pays and collects tax through computer systems by 2026; whether the civil-service payroll does too is not known.
+The government budgets, pays and collects tax through computer systems by 2026; no source found says whether the civil-service payroll does too.
 
 - Correio Kianda reports (11 Feb 2026, citing the AGT board chairman) that the state's Sistema Integrado de Gestao Financeira do Estado (SIGFE) will automatically check with AGT for an electronic invoice before authorising payments to state suppliers, treating SIGFE as the state's running payment system ([source, 2026-02-11](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/)).
 
 ### Botswana: 2 Nascent
 
-The government budgets and pays through a computer system by 2025; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2025; no source found says whether tax and payroll do too.
 
 - Botswana's Minister of Communications and Innovation told Parliament on 18 March 2025 that the Government Accounting and Budgeting System (GABS), after technical faults disrupted payments across all ministries, departments and agencies, was fixed in December 2024 and has since run at full capacity for over 20,000 users without user rationing ([source, 2025-03-18](https://dailynews.gov.bw/news-detail/85274)).
 
 ### Cape Verde: 2 Nascent
 
-The government budgets and pays through a computer system by 2024; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2024; no source found says whether tax and payroll do too.
 
 - The finance ministry says SIGOF centralises state public finance management across the budget cycle, including payment of suppliers and staff, and was unstable from early October 2024 ([source, 2024-10-11](https://expressodasilhas.cv/pais/2024/10/11/instabilidade-no-sigof-pode-causar-atrasos-nos-pagamentos-do-estado/93685)).
 
 ### Central African Republic: 2 Nascent
 
-The government budgets and pays through a computer system by 2025, and tax runs online; whether the payroll does too is not known.
+The government budgets and pays through a computer system by 2025, and tax runs online; no source found says whether the payroll does too.
 
 - The IMF notes the Central African authorities adopted the integrated financial information system at the treasury directorate and in line ministries ([source, 2025-06](https://ecomatin.net/le-fmi-annonce-un-nouveau-decaissement-de-334-milliards-fcfa-au-profit-de-la-centrafrique)).
 
 ### Equatorial Guinea: 2 Nascent
 
-The government budgets and pays through a computer system by 2025; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2025; no source found says whether tax and payroll do too.
 
 - The Interministerial Council on 10 February 2025 took up new directives for the CONFIN system across the whole public administration and autonomous bodies, described as an integrated public finance management system built for executing current expenditure of the state budget ([source, 2025-02-10](https://www.guineaecuatorialpress.com/noticias/primera_reunion_del_consejo_interministerial_de_2025)).
 
 ### Eswatini: 2 Nascent
 
-The government's financial system was restored in October 2026 after an outage; tax and payroll systems are not known.
+The government's financial system was restored in October 2026 after an outage; no source found reports tax and payroll systems.
 
 - Eswatini's ICT ministry said on 23 October 2026 that the Integrated Financial Management Information System (IFMIS) was among 13 services restored after disruptions ([source, 2026-10-23](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)).
 
 ### Ethiopia: 2 Nascent
 
-The government budgets and pays through a computer system by 2025; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2025; no source found says whether tax and payroll do too.
 
 - The Ministry of Finance's full-year EFY 2017 (Sene-2017) federal budget vs expenditure report is drawn from IFMIS and states that of 174 federal public sites, 118 use IFMIS and 56 use IBEX, reported separately ([source, 2025-07](https://www.mofed.gov.et/media/filer_public/c4/ed/c4ede8e5-2fc8-419e-8129-c9ddea96364f/fourth_quarter_2017_report.xlsx)).
 
@@ -208,174 +208,174 @@ The government budgets and pays through a computer system by 2026; the tax syste
 
 ### Kenya: 2 Nascent
 
-The government budgets and pays through a computer system by 2026; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2026; no source found says whether tax and payroll do too.
 
 - An opinion piece by a named policy analyst calls IFMIS a nationally governed platform to which county revenue systems are meant to connect, and reports the Auditor-General's 2025 finding that Trans Nzoia's system was not yet connected to it ([source, 2026-10-09](https://nation.africa/kenya/blogs-opinion/blogs/counties-must-rethink-costly-revenue-automation-5626512)).
 
 ### Liberia: 2 Nascent
 
-The government budgets and pays through a computer system by 2026; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2026; no source found says whether tax and payroll do too.
 
 - The ministry states it is taking measures to integrate IFMIS with LITAS, SIGTAS, ASYCUDA, the transitory accounts and the General Revenue Account, treating IFMIS as an existing system; no date of use or coverage is given ([source, 2026-05-19](https://mfdp.gov.lr/index.php/media-center/press-release/joint-press-conference-by-the-ministry-of-finance-and-development-planning-liberia-revenue-authority-and-central-bank-of-liberia-on-gac-s-compliance-audit-report-on-the-government-of-liberia-revenue-collection-and-reconciliation-processes-for-the-period-july-1-2018-to-december-31-2024)).
 
 ### Malawi: 2 Nascent
 
-The government budgets, pays and runs its payroll through computer systems by 2024; whether tax does too is not known.
+The government budgets, pays and runs its payroll through computer systems by 2024; no source found says whether tax does too.
 
 - Accountant General Henry Mphasa said the SAP-based Ifmis, rolled out to all ministries, departments and agencies a year earlier, is fully operational and producing user reports including annual financial statements, though contract management and revenue modules do not yet cover all agencies ([source, 2024-05-29](https://mwnation.com/ifmis-has-fully-stabilisedsays-accountant-general/)).
 
 ### Mozambique: 2 Nascent
 
-The government budgets and pays through a computer system by 2025; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2025; no source found says whether tax and payroll do too.
 
 - The Minister of Finance's address on the 2024 State General Account (dated November 2025) describes e-SISTAFE as operating, with its revenue collection module and SESPE linking it to commercial banks and e-money institutions to collect taxes and fees into Treasury accounts ([source, 2025-11](https://www.mef.gov.mz/index.php/imprensa/discursos/2455-cge-2024-discurso-inicial-sexcia-mf-20-11-2025/file)).
 
 ### Seychelles: 2 Nascent
 
-The government budgets and pays through a computer system by 2024; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2024; no source found says whether tax and payroll do too.
 
 - The IMF's April 2024 mission was told the finance ministry uses Visual Account Mate (VAM) and the Treasury Information System (TIS) as the government accounting software, with operational challenges and many manual interventions ([source, 2024-04](https://www.imf.org/-/media/files/publications/hls/2024/english/hlsea2024029.pdf)).
 
 ### Sierra Leone: 2 Nascent
 
-The government budgets and pays through a computer system by 2025; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2025; no source found says whether tax and payroll do too.
 
 - The World Bank terms of reference say the Ministry of Finance has launched the Integrated Financial Management Information System (IFMIS) among its core PFM systems, which operate as standalone systems; the document gives only a year, 2025 (its published date) ([source, 2025](https://wbgeprocure-rfxnow.worldbank.org/rfxnow/waffle/upload/advertisementAttachment/603116/file.html)).
 
 ### South Sudan: 2 Nascent
 
-The government budgets and pays through a computer system by 2025; whether tax and payroll do too is not known.
+The government budgets and pays through a computer system by 2025; no source found says whether tax and payroll do too.
 
 - FreeBalance's press release says South Sudan's Ministry of Finance and Planning is expanding its existing IFMIS to additional ministries, departments and agencies, under a contract signed in Juba on 4 February 2025 ([source, 2025-02-04](https://www.freebalance.com/en/press-release/south-sudan-to-expand-ifmis-and-introduce-biometricically-integrated-payroll-with-freebalance/)).
 
 ### Tanzania: 2 Nascent
 
-The government pays through a computer system by 2025; whether tax and payroll do too is not known.
+The government pays through a computer system by 2025; no source found says whether tax and payroll do too.
 
 - The Ministry of Finance says Tanzania has integrated the CS-Meridian debt system with MUSE, the Government Payment System, and Kenyan officials were trained on the operating integration ([source, 2025-02-27](https://thebizlens.co.tz/2025/02/27/tanzania-leads-africa-in-debt-management-payment-systems-integration/)).
 
 ### Burundi: Unplaced
 
-No source held from 2023 or later says the government's financial system is in use, so no stage is set.
+No source found from 2023 or later says the government's financial system is in use, so no stage is set.
 
-Not established: No source held from 2023 or later says the government's financial management system is in use.
+Not established: No source found from 2023 or later says the government's financial management system is in use.
 
 ### Cameroon: Unplaced
 
-No source held from 2023 or later says the government's financial system is in use, so no stage is set.
+No source found from 2023 or later says the government's financial system is in use, so no stage is set.
 
-Not established: No source held from 2023 or later says the government's financial management system is in use. Tax is not held either.
+Not established: No source found from 2023 or later says the government's financial management system is in use. Tax is not held either.
 
 ### Cote d'Ivoire: Unplaced
 
-No source held from 2023 or later says the government's financial system is in use, so no stage is set.
+No source found from 2023 or later says the government's financial system is in use, so no stage is set.
 
-Not established: No source held from 2023 or later says the government's financial management system is in use.
+Not established: No source found from 2023 or later says the government's financial management system is in use.
 
 ### Madagascar: Unplaced
 
-Tax runs online by 2025; whether the government budgets and pays through a computer system is not known, so no stage is set.
+Tax runs online by 2025; no source found says whether the government budgets and pays through a computer system, so no stage is set.
 
-Not established: No source held from 2023 or later says the government's financial management system is in use.
+Not established: No source found from 2023 or later says the government's financial management system is in use.
 
 ### Mali: Unplaced
 
-No source held from 2023 or later says the government's financial system is in use, so no stage is set.
+No source found from 2023 or later says the government's financial system is in use, so no stage is set.
 
-Not established: No source held from 2023 or later says the government's financial management system is in use.
+Not established: No source found from 2023 or later says the government's financial management system is in use.
 
 ### Namibia: Unplaced
 
-No source held from 2023 or later says the government's financial system is in use, so no stage is set.
+No source found from 2023 or later says the government's financial system is in use, so no stage is set.
 
-Not established: No source held from 2023 or later says the government's financial management system is in use.
+Not established: No source found from 2023 or later says the government's financial management system is in use.
 
 ### South Africa: Unplaced
 
-No source held from 2023 or later says the government's financial system is in use, so no stage is set.
+No source found from 2023 or later says the government's financial system is in use, so no stage is set.
 
-Not established: No source held from 2023 or later says the government's financial management system is in use.
+Not established: No source found from 2023 or later says the government's financial management system is in use.
 
 ### Sudan: Unplaced
 
 A civil-service records platform launched in 2026; nothing says the government's finances run on a computer system, so no stage is set.
 
-Not established: No source held from 2023 or later says the government's financial management system is in use; the Bayan civil-service records platform is held only as launched, not as in service.
+Not established: No source found from 2023 or later says the government's financial management system is in use; the Bayan civil-service records platform is held only as launched, not as in service.
 
 ### Benin: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Burkina Faso: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Comoros: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Congo: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### DR Congo: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Djibouti: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Eritrea: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Guinea: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Mauritania: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Morocco: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Niger: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.
 
 ### Tunisia: No evidence
 
-Nothing held says whether the government's finance, tax or payroll systems are in use, so no stage is set.
+Nothing found says whether the government's finance, tax or payroll systems are in use, so no stage is set.
 
-Not established: Nothing held says whether the government's finance, tax or payroll systems are in use.
+Not established: Nothing found says whether the government's finance, tax or payroll systems are in use.

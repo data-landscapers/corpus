@@ -12,6 +12,6 @@
 
 **Last twelve months.** Délibération n° 04 [treats publication on foreign-run platforms as a transfer abroad](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>). A [study day at the national police college in July 2026](<https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551>) announced a unified guide for administrative, security and judicial procedures.
 
-***Noted, not assessed***. The [National Data Governance Framework](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>), which Algeria calls the *dispositif national de gouvernance des données*.
+***Also on file***. The [National Data Governance Framework](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>), which Algeria calls the *dispositif national de gouvernance des données*.
 
-***Not held***. No decision or sanction on a named controller is held. No count of decisions, sanctions or complaints settled is published for a stated period.
+***Not found***. No decision or sanction on a named controller has been found. No count of decisions, sanctions or complaints settled is published for a stated period.

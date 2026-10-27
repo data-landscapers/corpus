@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The [Juba to Nadapal route](<https://southsudanpress.com/analysis-south-sudan-fibre-juba-nadapal-procurement.html>) is at the stage of procurement, with bids closing on 26 October 2026. The works it would pay for have not been let.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says building has started in the last three years.
+***Not found***. No source found says building has started in the last three years.

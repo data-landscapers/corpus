@@ -6,8 +6,8 @@
 
 **Between providers.** [About $88 million has been channelled into the formal banking sector through wallet-to-bank transfers over the past year, according to Vodacom Congo's CEO](<https://techreviewafrica.com/news/4723/vodacom-congo-calls-for-integrated-financial-ecosystem-to-enhance-inclusion-in-drc>). [Onafriq supported the Visa Pay launch in the DRC in Q4 2025, which it says brings interoperability between mobile money and card networks at scale](<https://www.connectingafrica.com/financial-inclusion/how-onafriq-is-growing-digital-finance-amid-uncertainty-in-drc>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://techreviewafrica.com/news/4723/vodacom-congo-calls-for-integrated-financial-ecosystem-to-enhance-inclusion-in-drc>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://techreviewafrica.com/news/4723/vodacom-congo-calls-for-integrated-financial-ecosystem-to-enhance-inclusion-in-drc>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

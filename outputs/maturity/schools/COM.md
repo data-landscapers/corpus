@@ -12,6 +12,6 @@
 
 **Primary schools doing the digital input.** The ministry's secretary general put the [rate of integration into e-Msomo at 45% of public primary schools](<https://alwatwan.net/education/bulletin-unique-i-le-minist%C3%A8re-de-l%E2%80%99%C3%A9ducation-donne-encore-une-semaine-aux-%C3%A9coles.html>) on 2 February 2026. It is a rate of schools integrated.
 
-***Noted, not assessed***. [e-Shiyo](<https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/digitalisation-de-l%E2%80%99enseignement-les-comores-passent-%C3%A0-l%E2%80%99%C3%A8re-du-num%C3%A9rique-avec-e-msomo-et-e-shiyo-.html>), an online library of approved textbooks for pre-primary and primary pupils.
+***Also on file***. [e-Shiyo](<https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/digitalisation-de-l%E2%80%99enseignement-les-comores-passent-%C3%A0-l%E2%80%99%C3%A8re-du-num%C3%A9rique-avec-e-msomo-et-e-shiyo-.html>), an online library of approved textbooks for pre-primary and primary pupils.
 
-***Not held***. The number of schools behind the 45%, the share of primary schools entering marks, and any figure for private primary schools. Whether a national plan names e-Msomo, and any domestic finance for it.
+***Not found***. The number of schools behind the 45%, the share of primary schools entering marks, and any figure for private primary schools. Whether a national plan names e-Msomo, and any domestic finance for it.

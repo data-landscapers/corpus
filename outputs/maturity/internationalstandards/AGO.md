@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [register](<https://www.iso.org/member/316519.html>) shows the institute as an observing member on the technical committees it follows, and does not name them. It also shows the institute observing on ISO's policy development committees. The central bank's move of its real-time payments system to an international message format, completed in July 2026, is listed below.
 
-***Noted, not assessed***. [The central bank's real-time payments system, moved to the ISO 20022 message format](<https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/>).
+***Also on file***. [The central bank's real-time payments system, moved to the ISO 20022 message format](<https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/>).
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

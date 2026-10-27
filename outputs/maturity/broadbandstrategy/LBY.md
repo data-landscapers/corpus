@@ -2,6 +2,6 @@
 
 ## National broadband plan
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a national broadband plan for the country, or says there is none.
+***Not found***. Nothing found names a national broadband plan for the country, or says there is none.

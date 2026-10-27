@@ -16,6 +16,6 @@
 
 **Last twelve months.** On 2 October 2025 [Malijet](<https://malijet.com/education_et_formation_au_mali/305718-le-mali-lance-la-phase-iii-du-projet--les-filles-africaines-peuv.html>) reported the African Girls Can Code Initiative phase III as anchored in the policy.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The policy's adoption is not stated, and no public text is held. Its periods differ between sources.
+***Not found***. The policy's adoption is not stated, and no public text has been found. Its periods differ between sources.

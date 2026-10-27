@@ -6,8 +6,8 @@
 
 **Progress reviewed.** [INSTAT held the 17th technical session of the annual review of the Schema Directeur de la Statistique on 13-14 August 2026 in Bamako, assessing statistical activities and the implementation of the 2025 review's recommendations](<https://instat-mali.org/fr/actualites-et-evenements/dix-septieme-session-technique-de-la-revue-annuelle-du-schema-directeur-de-la-statistique>).
 
-**Evaluated.** No source held reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: [INSTAT held the 17th technical session of the annual review of the Schema Directeur de la Statistique on 13-14 August 2026 in Bamako, assessing statistical activities and the implementation of the 2025 review's recommendations](<https://instat-mali.org/fr/actualites-et-evenements/dix-septieme-session-technique-de-la-revue-annuelle-du-schema-directeur-de-la-statistique>).
+**Evaluated.** No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: [INSTAT held the 17th technical session of the annual review of the Schema Directeur de la Statistique on 13-14 August 2026 in Bamako, assessing statistical activities and the implementation of the 2025 review's recommendations](<https://instat-mali.org/fr/actualites-et-evenements/dix-septieme-session-technique-de-la-revue-annuelle-du-schema-directeur-de-la-statistique>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports an evaluation of the strategy completed in the last three years.
+***Not found***. No source found reports an evaluation of the strategy completed in the last three years.

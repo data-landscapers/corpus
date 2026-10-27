@@ -6,8 +6,8 @@
 
 **Sources published from.** [INSEED released the revised Annuaire statistique national 2024 in August 2026 (original December 2025), covering 2020 to 2024 and drawing mainly on administrative reports and sectoral information systems of ministries, with chapters on education, health, justice, social security and more; 63 of 67 targeted structures returned data](<https://inseed.tg/download/7668/>).
 
-**Published regularly.** No source held states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://inseed.tg/download/7668/>).
+**Published regularly.** No source found states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://inseed.tg/download/7668/>).
 
-***Noted, not assessed***. [Open Data Portal (ODP 1.0 / ODP 2.0)](<https://inseed.tg/atelier-national-de-formation-sur-la-modelisation-sdmx-et-la-mise-en-place-dune-plateforme-odp2-0-au-profit-des-points-focaux-du-togo/>); [Annuaire national 2025-2026](<https://planifeducation.gouv.tg/index.php/liste-des-annuaires-nationals/>).
+***Also on file***. [Open Data Portal (ODP 1.0 / ODP 2.0)](<https://inseed.tg/atelier-national-de-formation-sur-la-modelisation-sdmx-et-la-mise-en-place-dune-plateforme-odp2-0-au-profit-des-points-focaux-du-togo/>); [Annuaire national 2025-2026](<https://planifeducation.gouv.tg/index.php/liste-des-annuaires-nationals/>).
 
-***Not held***. No source held shows statistics from one administrative source published twice since October 2023.
+***Not found***. No source found shows statistics from one administrative source published twice since October 2023.

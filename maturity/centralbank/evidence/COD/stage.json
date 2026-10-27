@@ -11,7 +11,7 @@
       "flags": "",
       "stage_sources": "COD-002;COD-003;COD-004",
       "gaps": "The BCC joined PAPSS about a month before 21 October 2026, but DRC banks and fintechs were only then invited to apply and no transaction can pass until they connect (COD-005), so the country is not live on PAPSS; joining does not count.",
-      "note": "The BCC oversees Switch Mosolo, the national card switch, which microfinance institutions began joining in April 2026. No regional system in service is held; PAPSS accession with no live participation is not counted. The BCC's map of the national payment system lists the e-money issuers and other payment providers it has approved (COD-004).",
+      "note": "The BCC oversees Switch Mosolo, the national card switch, which microfinance institutions began joining in April 2026. No regional system in service has been found; PAPSS accession with no live participation is not counted. The BCC's map of the national payment system lists the e-money issuers and other payment providers it has approved (COD-004).",
       "as_at": "2026-10-26"
     }
   ]

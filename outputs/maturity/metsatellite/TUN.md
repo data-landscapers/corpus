@@ -6,8 +6,8 @@
 
 **Warnings issued.** [The Institut National de la Meteorologie presented the role of EUMETSAT products in supporting Tunisia's flood and drought early warning systems](<https://www-cdn.eumetsat.int/files/2025-01/Report%20of%20the%2016th%20EUMETSAT%20User%20Forum%20in%20Africa%20-%20EN%20-%20FINAL_1.pdf>).
 
-**ISO 9001 certified.** No source held since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<https://www-cdn.eumetsat.int/files/2025-01/Report%20of%20the%2016th%20EUMETSAT%20User%20Forum%20in%20Africa%20-%20EN%20-%20FINAL_1.pdf>).
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<https://www-cdn.eumetsat.int/files/2025-01/Report%20of%20the%2016th%20EUMETSAT%20User%20Forum%20in%20Africa%20-%20EN%20-%20FINAL_1.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the weather service holds ISO 9001 certification.
+***Not found***. No source found since October 2023 says the weather service holds ISO 9001 certification.

@@ -39,10 +39,10 @@ import study_lib  # noqa: E402
 STUDY = "ecommercelaw"
 GAPS = {
     "5": "Nothing on the four questions.",
-    "4": "No source held dates an accreditation, licence, registration or penalty under the "
+    "4": "No source found dates an accreditation, licence, registration or penalty under the "
          "law in the last three years.",
-    "3": "No source held names a decree, regulation or order made under the law.",
-    "2": "No source held says a law on electronic transactions or e-commerce is in force.",
+    "3": "No source found names a decree, regulation or order made under the law.",
+    "2": "No source found says a law on electronic transactions or e-commerce is in force.",
     "1": "",
 }
 
@@ -83,7 +83,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "reach": "", "sources": [],
-                "gaps": "Nothing held names a law on electronic transactions or e-commerce or a "
+                "gaps": "Nothing found names a law on electronic transactions or e-commerce or a "
                         "draft of one, or says there is none."}
     if applied:
         s, src = "5", applied + [r for r in rules if r not in applied][:1] + law[:1]

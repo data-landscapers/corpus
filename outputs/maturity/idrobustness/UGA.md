@@ -6,8 +6,8 @@
 
 **Biometric checks.** [NIRA deduplicated multiple biometric databases during the migration and found about 200,000 duplicates over about seven months](<https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids>).
 
-***Noted, not assessed***. [National Security Information System (NSIS)](<https://uniph.go.ug/civil-registration-and-vital-statistics-technical-crvs-technical-working-group-convenes-to-advance-vital-statistics-and-data-integration/>).
+***Also on file***. [National Security Information System (NSIS)](<https://uniph.go.ug/civil-registration-and-vital-statistics-technical-crvs-technical-working-group-convenes-to-advance-vital-statistics-and-data-integration/>).
 
-***Not held***. No source held since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

@@ -34,9 +34,9 @@ Words inside quotation marks are the source speaking and are not charged; link l
 drafter's paraphrase and are. Sentences split on `.`, `?` and `!`, never on `;` and never inside a
 link label — the sheet's exemplar 1 counts its semicolon sentence as one of 36 words.
 
-**R130's words in maturity blocks report and do not gate until R136 lands.** The labels and the
-stock *No source held since …* lines are emitted by the `study-*-write.py` writers; R136 moves them
-to one module and substitutes the estate, and sets `R136_LANDED` here in the same commit.
+**R130's words gate in maturity blocks too** since R136: the labels live in `maturity_words.py`,
+every writer passes its page through `maturity_words.rewrite()`, and what is left in the estate
+is drafted prose that the nightly 4c pass rewrites when it revisits the cell.
 
 **The gate is on blocks written or revised this run**: `--open` at a run's start records the
 commit it opened on in `logs/.prose-open`; `--gate` compares each block, by key, against that
@@ -84,8 +84,6 @@ OPEN = os.path.join(ROOT, "logs", ".prose-open")
 FIELDS = ["date", "unit", "blocks", "failing", "words", "sentences", "mean", "longest",
           "contrast", "first", "word_hits", "mood_hits"]
 
-R136_LANDED = False
-
 MEAN_UNDER, LONGEST, CONTRAST_PER = 20, 40, 1000
 
 LINK = re.compile(r"\[([^\]]*)\]\((?:<[^>]*>|(?:[^()\s]|\([^()]*\))*)\)")
@@ -100,7 +98,7 @@ ABBREV = {"e.g", "i.e", "etc", "no", "nos", "mr", "mrs", "ms", "dr", "prof", "st
 
 WORDS = [re.compile(p) for p in (
     r"\bNot held\b", r"\bNoted, not assessed\b", r"(?i)\bis not known\b", r"(?i)\bare not known\b",
-    r"(?i)\bno\b[^.;]{0,80}?\b(?:is|are) held\b", r"(?i)\bnone held\b",
+    r"(?i)\bno\b(?:(?!\bwhere\b)[^.;]){0,80}?\b(?:is|are) held\b", r"(?i)\bnone held\b",
     r"(?i)\b(?:evidence|nothing) held\b", r"(?i)\bsources? held\b")]
 MOOD = [re.compile(p, re.I) for p in (
     r"\bplainly\b", r"\bquietly\b", r"\bfinally\b", r"\bstrikingly\b", r"\balarming(?:ly)?\b",
@@ -190,12 +188,8 @@ def check(paragraphs: list[str], kind: str) -> dict:
 
 
 def gating(kind: str, fails: list[str]) -> list[str]:
-    """The codes that gate: none for the wiki, and R130's words in maturity only after R136."""
-    if kind == "wiki":
-        return []
-    if kind == "maturity" and not R136_LANDED:
-        return [f for f in fails if f != "words"]
-    return fails
+    """The codes that gate: none for the wiki, every one elsewhere."""
+    return [] if kind == "wiki" else fails
 
 
 # --- blocks -------------------------------------------------------------------------------------

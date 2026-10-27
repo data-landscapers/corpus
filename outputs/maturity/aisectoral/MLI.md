@@ -2,6 +2,6 @@
 
 ## AI in sector systems
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether a public sector's system uses AI.
+***Not found***. Nothing found says whether a public sector's system uses AI.

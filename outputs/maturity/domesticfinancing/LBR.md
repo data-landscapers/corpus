@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The Liberia Telecommunications Authority [created the Universal Access Fund by regulation on 10 September 2015, with licensee contributions of 0.5 per cent of annual gross revenues for its first year](<https://lta.gov.lr/wp-content/uploads/2023/11/Regulations-on-the-Universal-Access-Fund-LTA-REG-0006-.pdf>). The [regulation states no collections or payments](<https://lta.gov.lr/wp-content/uploads/2023/11/Regulations-on-the-Universal-Access-Fund-LTA-REG-0006-.pdf>). The fund is [run by the Liberia Telecommunications Authority](<https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/>). On 20 October 2025 the fund [reported installing Starlink in Vahun District, Lofa County](<https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/>), a project [overseen on site by Commissioner Patrick R. Honnah](<https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/>), with no cost given.
 
-***Noted, not assessed***. [Starlink satellite internet in rural districts](<https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/>).
+***Also on file***. [Starlink satellite internet in rural districts](<https://universalaccessfund.com/starlink-installed-in-vahun-district-to-boost-internet-access-in-rural-liberia/>).
 
-***Not held***. Nothing held gives the digital money in two budget years running, so whether it rose is not known.
+***Not found***. Nothing found gives the digital money in two budget years running, so no source found says whether it rose.

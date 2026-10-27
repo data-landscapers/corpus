@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "consumerprotection"
 SUB = "protection"
-GAPS = {'4': 'No source held since October 2023 reports a fine, sanction or complaint figures.', '3': 'No source held since October 2023 says a financial ombudsman or complaints unit takes complaints.', '2': 'No source held since October 2023 says: are such rules in force.', '1': 'No source held since October 2023 says: are consumer rules for digital finance being drafted.', '5': ''}
-EMPTY = 'Nothing held says whether consumer-protection rules apply to digital finance.'
-UNPLACED = 'Nothing held since October 2023 says whether consumer-protection rules apply to digital finance.'
+GAPS = {'4': 'No source found since October 2023 reports a fine, sanction or complaint figures.', '3': 'No source found since October 2023 says a financial ombudsman or complaints unit takes complaints.', '2': 'No source found since October 2023 says: are such rules in force.', '1': 'No source found since October 2023 says: are consumer rules for digital finance being drafted.', '5': ''}
+EMPTY = 'Nothing found says whether consumer-protection rules apply to digital finance.'
+UNPLACED = 'Nothing found since October 2023 says whether consumer-protection rules apply to digital finance.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

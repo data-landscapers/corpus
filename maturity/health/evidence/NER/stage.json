@@ -26,7 +26,7 @@
       "cap": "",
       "flags": "advancing",
       "stage_sources": "NER-014;NER-015;NER-019",
-      "gaps": "No count of health centres using the computerised record and no denominator is held, and nothing says whether the record is made at the point of care or keyed afterwards; the only row on that is from the excluded source. The April 2024 row puts the system in two district hospitals only (clinics none) and the November 2024 evaluation adds health centres in three districts; the newer stands. The July 2026 OpenClinic event gives no sites or counts.",
+      "gaps": "No count of health centres using the computerised record and no denominator has been found, and nothing says whether the record is made at the point of care or keyed afterwards; the only row on that is from the excluded source. The April 2024 row puts the system in two district hospitals only (clinics none) and the November 2024 evaluation adds health centres in three districts; the newer stands. The July 2026 OpenClinic event gives no sites or counts.",
       "note": "The record is set up in the district hospitals and health centres of three project districts of 72, which is pilot sites and not routine use by primary clinics across districts. Stage 3 needs most T1 and T2 hospitals or established clinic use with a place of digitisation, and neither is evidenced."
     }
   ]

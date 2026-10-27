@@ -2,6 +2,6 @@
 
 ## ICT exports and production
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure for 2023 or later is held for ICT service exports as a share of GDP. The latest held is 0.0884 per cent, for 2021.
+***Not found***. No figure for 2023 or later has been found for ICT service exports as a share of GDP. The latest held is 0.0884 per cent, for 2021.

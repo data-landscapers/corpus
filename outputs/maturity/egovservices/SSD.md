@@ -6,8 +6,8 @@
 
 **Single gateway.** [One eServices.gov.ss account, created with an ID for citizens and residents or a passport number for foreigners, gives access to all government services online including BRS, with fees payable by mobile money, cards and online banking](<https://brs.eservices.gov.ss>).
 
-**Use published.** No source held since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://brs.eservices.gov.ss>).
+**Use published.** No source found since October 2023 gives users, applications or transactions through the national portal. The nearest held fact: [the one given above](<https://brs.eservices.gov.ss>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.

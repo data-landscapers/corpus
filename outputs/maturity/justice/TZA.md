@@ -6,8 +6,8 @@
 
 **Online filing.** [The Chief Court Administrator said in February 2026 that litigants can now file cases online from anywhere and track their progress, as the electronic case management system phases out paper files](<https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/>).
 
-**Open online.** No source held since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://dailynews.co.tz/parliamentary-budget-committee-applauds-judiciarys-ict-reforms/>).
+**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://dailynews.co.tz/parliamentary-budget-committee-applauds-judiciarys-ict-reforms/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says court decisions are published online or that the public can look up a case's status.
+***Not found***. No source found says court decisions are published online or that the public can look up a case's status.

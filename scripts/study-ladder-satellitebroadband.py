@@ -44,10 +44,10 @@ import study_lib  # noqa: E402
 STUDY = "satellitebroadband"
 GAPS = {
     "5": "",
-    "4": "No source held gives a subscriber count for satellite broadband published by the "
+    "4": "No source found gives a subscriber count for satellite broadband published by the "
          "regulator in the last three years.",
-    "3": "No source held says services on two different satellite networks are on sale.",
-    "2": "No source held says households or businesses can buy satellite broadband from a "
+    "3": "No source found says services on two different satellite networks are on sale.",
+    "2": "No source found says households or businesses can buy satellite broadband from a "
          "licensed provider.",
     "1": "",
 }
@@ -110,7 +110,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     three = study_lib.months_back(as_at, 36)
     if not rows:
         return {"stage": "no evidence", "sources": [],
-                "gaps": "Nothing held says a satellite broadband provider is licensed, or that none is."}
+                "gaps": "Nothing found says a satellite broadband provider is licensed, or that none is."}
     nones = [(d, r) for d, r in live if r["aspect"] == "service" and r["value"] == "none"]
     licensed_nets = {network(r.get("system", "")) for _, r in live
                      if r["aspect"] == "service" and r["value"] in POSITIVE}
@@ -144,7 +144,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "1", "sources": ids(none[:1]), "gaps": ""}
     if not licensed:
         return {"stage": "unplaced", "sources": [],
-                "gaps": "No source held says a satellite broadband provider is licensed, and none "
+                "gaps": "No source found says a satellite broadband provider is licensed, and none "
                         "dated in the last three years says none is."}
     sale = pick("service", ("sale", "choice"), n=99)
     choice = pick("service", ("choice",), n=1)

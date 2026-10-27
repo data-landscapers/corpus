@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The law has implementing decrees: [a report on the launch of FasoSign](<https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/>) on 15 September 2026 says the platform gives effect to law 045-2009 and its implementing decrees, which together give a digital signature the legal value of a handwritten one. The platform [already signs official mail, mission orders and land deeds](<https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/>) in three government systems. [Wearetech reports](<https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-l-administration-passe-a-la-signature-electronique>) that the law presumes reliable a secure signature based on a qualified certificate.
 
-***Noted, not assessed***. [FasoSign](<https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/>).
+***Also on file***. [FasoSign](<https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/>).
 
-***Not held***. The implementing decrees are not named, and no accreditation, licence or penalty under the law in the last three years is held.
+***Not found***. The implementing decrees are not named, and no accreditation, licence or penalty under the law in the last three years has been found.

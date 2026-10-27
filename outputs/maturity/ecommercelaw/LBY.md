@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is [Article 87, which makes the law effective from issue](<https://lawsociety.ly/legislation/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-6-%D9%84%D8%B3%D9%86%D8%A9-2022-%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%84%D9%83/>), so it applied from the date of issue. The same text sets the [return rules that online sellers must follow](<https://lawsociety.ly/legislation/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-6-%D9%84%D8%B3%D9%86%D8%A9-2022-%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%84%D9%83/>). In December 2023 Eltumi Partners [stated that the government had not yet published the executive regulation](<https://eltumipartners.com/2023/12/data-protection-under-libya-e-transactions-law/>) to the law. No regulation, order or decision made under the law is named, and none is described as applying its rules to a particular seller or platform.
 
-***Noted, not assessed***. [PTS unified digital system](<https://libyaherald.com/2026/09/tripoli-chamber-of-commerce-discusses-decision-to-regulate-imports-for-the-purpose-of-trade>).
+***Also on file***. [PTS unified digital system](<https://libyaherald.com/2026/09/tripoli-chamber-of-commerce-discusses-decision-to-regulate-imports-for-the-purpose-of-trade>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

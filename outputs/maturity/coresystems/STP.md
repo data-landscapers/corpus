@@ -2,6 +2,6 @@
 
 ## Core government systems
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether the government's finance, tax or payroll systems are in use.
+***Not found***. Nothing found says whether the government's finance, tax or payroll systems are in use.

@@ -12,6 +12,6 @@
 
 **Last twelve months.** On 1 June 2026 the ANPDP [signed a cooperation memorandum with Macau's data protection office](<https://www.gov.mo/pt/noticias/831008/>), which Macau executive orders [had authorised by 27 May](<https://macaubusiness.com/macau-to-sign-personal-data-protection-pacts-with-cape-verde-sao-tome-and-principe/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any regulation has been made under Law 03/2016, the date it came into force, and any named sanction, decision or published count under it. Nothing dated in the twelve months to 30 September 2026 bears on the law itself.
+***Not found***. Whether any regulation has been made under Law 03/2016, the date it came into force, and any named sanction, decision or published count under it. Nothing dated in the twelve months to 30 September 2026 bears on the law itself.

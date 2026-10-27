@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** NCT South Sudan and Bayobab are rolling out a [national backbone fibre network](<https://techreviewafrica.com/news/4204/nct-south-sudan-and-bayobab-collaborate-to-roll-out-national-backbone-fiber-network-project>), announced in March 2026, with no private amount given.
 
-***Noted, not assessed***. [Bayobab Infra Solutions Ltd's Project East 2 West fibre network](<https://techafricanews.com/2025/11/25/mtn-digital-infrastructure-secures-15-year-license-to-expand-fibre-network-in-south-sudan/>), held by MTN Digital Infrastructure.
+***Also on file***. [Bayobab Infra Solutions Ltd's Project East 2 West fibre network](<https://techafricanews.com/2025/11/25/mtn-digital-infrastructure-secures-15-year-license-to-expand-fibre-network-in-south-sudan/>), held by MTN Digital Infrastructure.
 
-***Not held***. No amount from a bank, pension fund, insurer, investor or company of South Sudan itself since 2024 is known, nor any raised on its own market. No private amount in the government's fibre project is known.
+***Not found***. No amount from a bank, pension fund, insurer, investor or company of South Sudan itself since 2024 is known, nor any raised on its own market. No private amount in the government's fibre project is known.

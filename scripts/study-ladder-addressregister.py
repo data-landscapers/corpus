@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "addressregister"
 SUB = "address"
-GAPS = {'4': 'No source held since October 2023 says other services use the address system.', '3': 'No source held since October 2023 says the addressing system covers the whole country.', '2': 'No source held since October 2023 says: is an address register or digital addressing system in service.', '1': 'No source held since October 2023 says: is an addressing system under way.', '5': ''}
-EMPTY = 'Nothing held names an addressing system, or says there is none.'
-UNPLACED = 'Nothing held since October 2023 says whether an addressing system is under way or in service.'
+GAPS = {'4': 'No source found since October 2023 says other services use the address system.', '3': 'No source found since October 2023 says the addressing system covers the whole country.', '2': 'No source found since October 2023 says: is an address register or digital addressing system in service.', '1': 'No source found since October 2023 says: is an addressing system under way.', '5': ''}
+EMPTY = 'Nothing found names an addressing system, or says there is none.'
+UNPLACED = 'Nothing found since October 2023 says whether an addressing system is under way or in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

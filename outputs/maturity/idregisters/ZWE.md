@@ -2,6 +2,6 @@
 
 ## Use by other systems
 
-***Noted, not assessed***. [Digital ID](<https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform>).
+***Also on file***. [Digital ID](<https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform>).
 
-***Not held***. Nothing held says whether public registers use the national ID number.
+***Not found***. Nothing found says whether public registers use the national ID number.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-004;NAM-005",
-      "gaps": "No source held puts births registered in the digital system at 90% or more: the close to 99% coverage given in March 2026 is a national rate that may include paper registration.",
+      "gaps": "No source found puts births registered in the digital system at 90% or more: the close to 99% coverage given in March 2026 is a national rate that may include paper registration.",
       "note": "Births are notified electronically nationwide and deaths in 153 facilities, so stage 4. The 99% coverage figure is not shown to be of digital registration (Bill, 2026-10-25).",
       "as_at": "2026-10-25"
     }

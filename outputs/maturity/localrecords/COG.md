@@ -12,6 +12,6 @@
 
 **Local governments recording.** The platform was validated after [workshops with the communes of Brazzaville and Pointe-Noire](<https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226>). On 24 February 2026 ACSI [was preparing its deployment](<https://acsi.cg/actualites/reunion-strategique-sur-lavancement-des-projets-curs-et-pdrcl-au-ministere-des-finances/>), and in 2026 a pilot [was to follow at the Ndjindji central market in Pointe-Noire once municipal staff had been trained](<https://www.vox.cg/lacsi-deploie-la-plateforme-de-dematerialisation-des-recettes-au-marche-central-de-ndjindji/>).
 
-***Noted, not assessed***. Central: the [*Caisse unique des recettes de service* (CURS)](<https://www.adiac-congo.com/content/systemes-dinformation-de-letat-les-differentes-plateformes-presentees-aux-deputes-171166>), for state service revenue, and [FOUTA](<https://sgg.cg/JO/2026/congo-jo-2026-24.pdf>), the Treasury's payment platform for all public revenue, that of local governments included.
+***Also on file***. Central: the [*Caisse unique des recettes de service* (CURS)](<https://www.adiac-congo.com/content/systemes-dinformation-de-letat-les-differentes-plateformes-presentees-aux-deputes-171166>), for state service revenue, and [FOUTA](<https://sgg.cg/JO/2026/congo-jo-2026-24.pdf>), the Treasury's payment platform for all public revenue, that of local governments included.
 
-***Not held***. No local government is stated as recording on the platform, in Brazzaville, Pointe-Noire or elsewhere. No plan naming the platform is held.
+***Not found***. No local government is stated as recording on the platform, in Brazzaville, Pointe-Noire or elsewhere. No plan naming the platform has been found.

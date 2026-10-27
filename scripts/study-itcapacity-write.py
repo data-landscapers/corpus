@@ -8,7 +8,7 @@ r"""study-itcapacity-write.py — the in-house capacity study's summaries, writt
 it. **Nothing is composed here that a fact does not state**: each of the four paragraphs is
 the drafters' own fact sentences on that aspect, each linked whole to its evidence row's
 `url`, the rows that set the stage first, then the rest newest first while the paragraph stays
-inside its room. An aspect with nothing held says so, linked to the fact that set the stage.
+inside its room. An aspect with nothing found says so, linked to the fact that set the stage.
 
 Writes, per country, `outputs/maturity/itcapacity/{ISO3}.md` and
 `maturity/itcapacity/evidence/{ISO3}/short.json`. Run it after the ladder script.
@@ -25,6 +25,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "itcapacity"
@@ -39,10 +40,10 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"bidding document|request for bids|ToR)"
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 EMPTY = {
-    "inhouse": "No source held from 2023 or later says a government body's own technical staff run, maintain or support one of its named systems; the stage rests on {l}.",
-    "agency": "No source held from 2023 or later says a government agency or state company builds, hosts or runs systems for ministries and the rest of government; the stage rests on {l}.",
-    "built": "No source held says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on {l}.",
-    "own": "No source held since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on {l}.",
+    "inhouse": "No source found from 2023 or later says a government body's own technical staff run, maintain or support one of its named systems; the stage rests on {l}.",
+    "agency": "No source found from 2023 or later says a government agency or state company builds, hosts or runs systems for ministries and the rest of government; the stage rests on {l}.",
+    "built": "No source found says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on {l}.",
+    "own": "No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on {l}.",
 }
 
 
@@ -124,17 +125,17 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             parts += [f"**{a['name']}.** " + " ".join(body), ""]
         short = shorten(cell, top["as_of"][:4])
     elif cell["stage"] == "unplaced":
-        short = "No source held from 2023 or later says government staff run its systems, so no stage is set."
+        short = "No source found from 2023 or later says government staff run its systems, so no stage is set."
     else:
-        short = "Nothing held says who builds or runs the government's systems, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+        short = "Nothing found says who builds or runs the government's systems, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

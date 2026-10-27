@@ -39,11 +39,11 @@ import study_lib  # noqa: E402
 STUDY = "internationalbandwidth"
 GAPS = {
     "5": "",
-    "4": "No source held says other operators buy capacity at the landing station or on the "
+    "4": "No source found says other operators buy capacity at the landing station or on the "
          "international routes, or that they run on open-access or wholesale terms.",
-    "3": "No source held says two of the routes land at different stations, or run through "
+    "3": "No source found says two of the routes land at different stations, or run through "
          "two different neighbours.",
-    "2": "No source held names a second international fibre route in service.",
+    "2": "No source found names a second international fibre route in service.",
     "1": "",
 }
 NOISE = re.compile(r"\b(submarine|subsea|undersea|cable|cables|system|fibre|fiber|optic|link|"
@@ -90,7 +90,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     three = study_lib.months_back(as_at, 36)
     if not rows:
         return {"stage": "no evidence", "routes": "", "access": "", "sources": [],
-                "gaps": "Nothing held names an international fibre route, or says there is none."}
+                "gaps": "Nothing found names an international fibre route, or says there is none."}
     pick = lambda aspect, values, since=None, n=2: [  # noqa: E731
         (d, r["row_id"]) for d, r in live if r["aspect"] == aspect and r["value"] in values
         and (since is None or d >= since)][:n]
@@ -124,7 +124,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         s, src = "2", ids(one)
     else:
         return {"stage": "unplaced", "routes": "", "access": "", "sources": [],
-                "gaps": "No source held names an international fibre route in service, and none "
+                "gaps": "No source found names an international fibre route in service, and none "
                         "dated in the last three years says there is none."}
     return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s],
             "routes": {"5": "independent", "4": "independent", "3": "two", "2": "one"}[s],

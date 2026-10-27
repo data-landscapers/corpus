@@ -6,6 +6,6 @@
 
 **Money and results.** The nearest held fact is the same [2015 report](<http://bamada.net/connectivite-et-haut-debit-large-concertation-sur-la-mise-en-oeuvre-du-large-bande>) of the launch workshop. It concerns the study that is to write the plan, so it names no budget line, fund allocation or financed programme tied to a plan, and no figures against targets. The report names the regulator AMRTP as the body that held the workshop, in Bamako, and says nothing of who would fund the study or the plan.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a national broadband plan is adopted and still running. Nothing held shows money committed to one.
+***Not found***. No source found says a national broadband plan is adopted and still running. Nothing found shows money committed to one.

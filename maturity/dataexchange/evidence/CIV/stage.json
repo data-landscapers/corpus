@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CIV-003;CIV-001",
-      "gaps": "No source held since October 2023 counts ten or more institutions or systems connected.",
+      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
       "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
       "as_at": "2026-10-18"
     }

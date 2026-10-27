@@ -2,6 +2,6 @@
 
 ## Technical standards for government systems
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names technical standards for government systems to exchange data, or says there are none.
+***Not found***. Nothing found names technical standards for government systems to exchange data, or says there are none.

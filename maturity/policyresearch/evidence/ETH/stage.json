@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ETH-001",
-      "gaps": "No source held since October 2023 says: does a local institution publish on it.",
+      "gaps": "No source found since October 2023 says: does a local institution publish on it.",
       "note": "First pass: counted from the four questions by study-ladder-policyresearch.py.",
       "as_at": "2026-10-18"
     }

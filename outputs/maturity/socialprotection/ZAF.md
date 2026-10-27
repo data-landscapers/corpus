@@ -6,8 +6,8 @@
 
 **Paid electronically.** [SASSA told the committee it uses banking checks to prevent fraudulent grant payments and that only fully FICA-compliant bank accounts are now used for grant payments](<https://pmg.org.za/committee-meeting/42085/>).
 
-**Several programmes.** No source held since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://pmg.org.za/committee-meeting/42085/>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://pmg.org.za/committee-meeting/42085/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says one information system serves several social programmes.
+***Not found***. No source found since October 2023 says one information system serves several social programmes.

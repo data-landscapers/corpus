@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TZA-005",
-      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
       "note": "Rebuild: NIDA says the Jamii number is deactivated at death over an operational CRVS-ID API (2026); issuing it at birth is still a plan. So births do not yet pass.",
       "as_at": "2026-10-22"
     }

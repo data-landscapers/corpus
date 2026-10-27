@@ -12,6 +12,6 @@
 
 **Local governments recording.** In March 2023 the platform [was to be deployed first in the councils of Yaoundé II and Douala III](<https://www.aimf.asso.fr/actualite/au-cameroun-une-plateforme-numerique-pour-faciliter-la-collecte-des-taxes-aupres-des-commercants-informels/>), in the political and economic capitals, with no wider count given.
 
-***Noted, not assessed***. [Sim-Ba, public accounting software for the communes](<https://www.revue-irs.com/index.php/home/article/download/397/261>); [Mobile Tax, the tax directorate's payment channel, named as a payment mode replacing cash for local taxes under the new local tax law](<https://minfi.gov.cm/wp-content/uploads/2025/02/DGI_EXPOSE_CONFERENCE_ANNUELLE_2025.pdf>).
+***Also on file***. [Sim-Ba, public accounting software for the communes](<https://www.revue-irs.com/index.php/home/article/download/397/261>); [Mobile Tax, the tax directorate's payment channel, named as a payment mode replacing cash for local taxes under the new local tax law](<https://minfi.gov.cm/wp-content/uploads/2025/02/DGI_EXPOSE_CONFERENCE_ANNUELLE_2025.pdf>).
 
-***Not held***. Whether the platform was deployed in the two councils or in any other, and where its record is held. Nothing dated after March 2023 shows a commune keeping a digital revenue record.
+***Not found***. Whether the platform was deployed in the two councils or in any other, and where its record is held. Nothing dated after March 2023 shows a commune keeping a digital revenue record.

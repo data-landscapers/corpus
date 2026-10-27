@@ -6,6 +6,6 @@
 
 **Enforcer named and rule applied.** No enforcer arises without a rule. The 2023 article [reports a former senior central bank official saying the bank and other government bodies work under an undeclared localisation policy](<https://advox.globalvoices.org/2023/10/21/the-ongoing-conflicts-impact-on-ict-and-digital-transformation-efforts-in-sudan/>), and adds that lookups at the time showed several government websites hosted abroad. An undeclared practice is not a rule and no body is named as enforcing it.
 
-***Noted, not assessed***. [Undeclared data localization policy of the Central Bank and other government institutions](<https://advox.globalvoices.org/2023/10/21/the-ongoing-conflicts-impact-on-ict-and-digital-transformation-efforts-in-sudan/>).
+***Also on file***. [Undeclared data localization policy of the Central Bank and other government institutions](<https://advox.globalvoices.org/2023/10/21/the-ongoing-conflicts-impact-on-ict-and-digital-transformation-efforts-in-sudan/>).
 
-***Not held***. A newer source than those cited saying a rule is being written.
+***Not found***. A newer source than those cited saying a rule is being written.

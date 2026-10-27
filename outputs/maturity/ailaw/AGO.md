@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** No law on AI is in force. The [draft under consultation](<https://consultapublica.minttics.gov.ao/>) would apply to AI across sectors and not to one sector or one use. It has not been sent to the Council of Ministers or the National Assembly in any source dated to September 2026.
 
-***Noted, not assessed***. [Revised Personal Data Protection Law (2011 law under revision)](<https://techcabal.com/2026/03/19/why-data-protection-has-become-africas-default-ai-policy-tool/>).
+***Also on file***. [Revised Personal Data Protection Law (2011 law under revision)](<https://techcabal.com/2026/03/19/why-data-protection-has-become-africas-default-ai-policy-tool/>).
 
-***Not held***. No source held says a law, decree or regulation that sets a rule for AI is in force.
+***Not found***. No source found says a law, decree or regulation that sets a rule for AI is in force.

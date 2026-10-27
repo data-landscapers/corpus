@@ -2,6 +2,6 @@
 
 ## Digital skills of the public
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether the public is taught digital skills.
+***Not found***. Nothing found says whether the public is taught digital skills.

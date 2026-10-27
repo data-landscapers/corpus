@@ -6,6 +6,6 @@
 
 **Required consultation and standing body.** The regulator and the chamber of commerce have [a three-year memorandum of understanding, reported in July 2026](<https://economist.com.na/108753/general-news/ncci-and-cran-partner-to-accelerate-digital-economy/>), with a joint steering committee that oversees the memorandum itself.
 
-***Noted, not assessed***. [A validation workshop in Windhoek for an AfCFTA-backed assessment of digital trade rules, with no law or policy put to the room](<https://techreviewafrica.com/news/7567/x>); [the regulator's memorandum and joint steering committee with the chamber of commerce](<https://economist.com.na/108753/general-news/ncci-and-cran-partner-to-accelerate-digital-economy/>).
+***Also on file***. [A validation workshop in Windhoek for an AfCFTA-backed assessment of digital trade rules, with no law or policy put to the room](<https://techreviewafrica.com/news/7567/x>); [the regulator's memorandum and joint steering committee with the chamber of commerce](<https://economist.com.na/108753/general-news/ncci-and-cran-partner-to-accelerate-digital-economy/>).
 
-***Not held***. No published report of a consultation on a digital law or policy, the comments received or a written answer to them from the last three years is held.
+***Not found***. No published report of a consultation on a digital law or policy, the comments received or a written answer to them from the last three years is held.

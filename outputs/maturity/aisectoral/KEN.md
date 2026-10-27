@@ -8,6 +8,6 @@
 
 **Results reported.** The Health Cabinet Secretary said in February 2026 that the authority's AI claims system had [flagged, rejected and left unpaid Sh12.7 billion of claims](<https://www.the-star.co.ke/news/2026-02-27-duale-ai-blocked-sh127bn-fake-claims-at-sha>), with 1,188 fraud files sent to the police and 26 suspects charged.
 
-***Noted, not assessed***. [Smart Delinquency Predictor](<https://www.theeastafrican.co.ke/tea/business-tech/predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis-5550460>).
+***Also on file***. [Smart Delinquency Predictor](<https://www.theeastafrican.co.ke/tea/business-tech/predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis-5550460>).
 
-***Not held***. How widely the means-testing and fertiliser tools are used is not known.
+***Not found***. No source found says how widely the means-testing and fertiliser tools are used.

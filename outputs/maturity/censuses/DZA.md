@@ -2,6 +2,6 @@
 
 ## Censuses and surveys
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a population census or a household survey, or says there is none.
+***Not found***. Nothing found names a population census or a household survey, or says there is none.

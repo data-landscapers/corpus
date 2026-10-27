@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The two companies [activated the route](<https://techafricanews.com/2025/05/09/west-africas-digital-backbone-phase3-and-sonatel-launch-3500km-fibre-route/>), as reported on 9 May 2025. Commercial availability and service packages were still to be announced at that date. Dakar and Lagos are its two ends, and Senegal is named at one of them. No figure for traffic on it has been published, and no operator from the countries it crosses is named as a customer.
 
-***Noted, not assessed***. [Ikasira](<https://techafricanews.com/2025/05/09/west-africas-digital-backbone-phase3-and-sonatel-launch-3500km-fibre-route/>).
+***Also on file***. [Ikasira](<https://techafricanews.com/2025/05/09/west-africas-digital-backbone-phase3-and-sonatel-launch-3500km-fibre-route/>).
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

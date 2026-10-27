@@ -8,6 +8,6 @@
 
 **Reporting rate published.** [The report gives national completeness of monthly facility reporting in DHIS2 as 99% of expected reports in 2024 (93% in 2019), with 99% of districts at or above 90% completeness in 2024](<https://data.gffportal.org/sites/default/files/2025-09/Zambia-COUNTDOWN.pdf>).
 
-***Noted, not assessed***. [SmartCare / SmartCare Pro](<https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf>); [electronic integrated disease surveillance and response system](<https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf>); [eLMIS](<https://github.com/MOH-Zambia/ZM-Core/>); [SmartCare](<https://github.com/MOH-Zambia/ZM-Core/>).
+***Also on file***. [SmartCare / SmartCare Pro](<https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf>); [electronic integrated disease surveillance and response system](<https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf>); [eLMIS](<https://github.com/MOH-Zambia/ZM-Core/>); [SmartCare](<https://github.com/MOH-Zambia/ZM-Core/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

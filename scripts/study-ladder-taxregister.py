@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "taxregister"
 SUB = "taxpayers"
-GAPS = {'4': 'No source held since October 2023 says the taxpayer number is tied to the national ID.', '3': 'No source held since October 2023 says the taxpayer number is shared with business registration or customs.', '2': 'No source held since October 2023 says: are taxpayers registered on computer.', '1': 'No source held since October 2023 says: is a computerised taxpayer register under way.', '5': ''}
-EMPTY = 'Nothing held says how taxpayers are registered.'
-UNPLACED = 'Nothing held since October 2023 says whether taxpayers are registered on computer.'
+GAPS = {'4': 'No source found since October 2023 says the taxpayer number is tied to the national ID.', '3': 'No source found since October 2023 says the taxpayer number is shared with business registration or customs.', '2': 'No source found since October 2023 says: are taxpayers registered on computer.', '1': 'No source found since October 2023 says: is a computerised taxpayer register under way.', '5': ''}
+EMPTY = 'Nothing found says how taxpayers are registered.'
+UNPLACED = 'Nothing found since October 2023 says whether taxpayers are registered on computer.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

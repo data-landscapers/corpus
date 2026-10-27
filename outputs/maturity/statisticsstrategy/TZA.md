@@ -8,6 +8,6 @@
 
 **Evaluated.** [TSMP I (2011/12 to 2017/18) was reviewed in 2019 and that its evaluation reports informed the design of TSMP II; the evaluation covers TSMP I, the predecessor strategy, and no TSMP II evaluation is reported as done (mid-term and end-term evaluations are only planned) (2019, before the three-year window)](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>).
 
-***Noted, not assessed***. [Zanzibar Strategy for the Development of Statistics (ZSDS)](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>).
+***Also on file***. [Zanzibar Strategy for the Development of Statistics (ZSDS)](<https://www.nbs.go.tz/uploads/statistics/documents/en-1734514885-TSMP_II_Strategy.pdf>).
 
-***Not held***. No source held reports an evaluation of the strategy completed in the last three years.
+***Not found***. No source found reports an evaluation of the strategy completed in the last three years.

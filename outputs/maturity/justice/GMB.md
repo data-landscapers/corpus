@@ -6,8 +6,8 @@
 
 **Online filing.** [The NHRC's 2024 report says the Judiciary's Case Management System includes e-filing](<https://foroyaa.net/government-urged-to-expand-automated-transcription-system-in-courts/>).
 
-**Open online.** No source held since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://foroyaa.net/government-urged-to-expand-automated-transcription-system-in-courts/>).
+**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://foroyaa.net/government-urged-to-expand-automated-transcription-system-in-courts/>).
 
-***Noted, not assessed***. [Digital Case Management System (UNDP-GMB-00320)](<https://moj.gov.gm/consultancy-for-feasibility-study-and-implementation-of-a-digital-case-management-system/>); [Computer-Aided Transcription System (CATS)](<https://www.ungm.org/Public/Notice/296129>); [Computer Aided Recording and Transcription System (CATS)](<https://thepoint.gm/africa/gambia/headlines/judiciary-still-faces-shortage-of-courtrooms-and-office-space>).
+***Also on file***. [Digital Case Management System (UNDP-GMB-00320)](<https://moj.gov.gm/consultancy-for-feasibility-study-and-implementation-of-a-digital-case-management-system/>); [Computer-Aided Transcription System (CATS)](<https://www.ungm.org/Public/Notice/296129>); [Computer Aided Recording and Transcription System (CATS)](<https://thepoint.gm/africa/gambia/headlines/judiciary-still-faces-shortage-of-courtrooms-and-office-space>).
 
-***Not held***. No source held since October 2023 says judgments are published or case status can be looked up online.
+***Not found***. No source found since October 2023 says judgments are published or case status can be looked up online.

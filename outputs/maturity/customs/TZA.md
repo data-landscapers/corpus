@@ -8,6 +8,6 @@
 
 **Exchange with partners.** [TradeMark Africa reports that the customs systems of Kenya, Uganda, Tanzania, Rwanda and Burundi are interconnected through the East African Community Single Customs Territory Centralised Platform, with Tanzania's ports authority also connected](<https://trademarkafrica.com/one-stop-border-posts-save-eac-over-63m-annually/>).
 
-***Noted, not assessed***. [Criminal Justice Single Window System](<https://dailynews.co.tz/tanzania-rolls-out-reforms-in-criminal-justice-system-with-a-unified-digital-platform/>); [TECTS](<https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises>); [TOS](<https://dailynews.co.tz/port-customs-system-upgrade-speed-up-cargo-clearance/>).
+***Also on file***. [Criminal Justice Single Window System](<https://dailynews.co.tz/tanzania-rolls-out-reforms-in-criminal-justice-system-with-a-unified-digital-platform/>); [TECTS](<https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises>); [TOS](<https://dailynews.co.tz/port-customs-system-upgrade-speed-up-cargo-clearance/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -6,6 +6,6 @@
 
 **Certification.** The [report of the 2025 notice](<https://times.co.sz/25189/business/eswatini-issues-19-new-national-standards-across-key-sectors/>) names no certifier for the addressing standard and no organisation certified against it. The authority's certification scheme and a quality management certificate held by the revenue service are listed below.
 
-***Noted, not assessed***. [SZNS ISO 9001 certification of the Eswatini Revenue Service](<https://www.linkedin.com/posts/eswatini-standards-authority_improvingtheworldwelivein-eswasa-certificatio-activity-7481405179674877952-uwT->); [Ingelo Certification Scheme](<https://www.linkedin.com/posts/eswatini-standards-authority_improvingtheworldwelivein-eswasa-standards-activity-7407424593725997057-sDVe>).
+***Also on file***. [SZNS ISO 9001 certification of the Eswatini Revenue Service](<https://www.linkedin.com/posts/eswatini-standards-authority_improvingtheworldwelivein-eswasa-certificatio-activity-7481405179674877952-uwT->); [Ingelo Certification Scheme](<https://www.linkedin.com/posts/eswatini-standards-authority_improvingtheworldwelivein-eswasa-standards-activity-7407424593725997057-sDVe>).
 
-***Not held***. No source held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.

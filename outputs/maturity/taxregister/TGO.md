@@ -6,8 +6,8 @@
 
 **Shared with firms or customs.** [OTR says article 7 of the tax procedures book requires one unique NIF per taxpayer, and the individual NIF is required for customs clearance of personal goods and for property registration](<https://www.otr.tg/index.php/fr/blog/otr-actu/598-magazine-otr-actu-n-18-janvier-juin-2025/file.html>).
 
-**Tied to ID.** No source held since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://www.otr.tg/index.php/fr/blog/otr-actu/598-magazine-otr-actu-n-18-janvier-juin-2025/file.html>).
+**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://www.otr.tg/index.php/fr/blog/otr-actu/598-magazine-otr-actu-n-18-janvier-juin-2025/file.html>).
 
-***Noted, not assessed***. [SIG Recettes](<https://www.togofirst.com/fr/gouvernance-economique/1703-15943-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des-contribuables-aux-recettes-non-fiscales>).
+***Also on file***. [SIG Recettes](<https://www.togofirst.com/fr/gouvernance-economique/1703-15943-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des-contribuables-aux-recettes-non-fiscales>).
 
-***Not held***. No source held since October 2023 says the taxpayer number is tied to the national ID.
+***Not found***. No source found since October 2023 says the taxpayer number is tied to the national ID.

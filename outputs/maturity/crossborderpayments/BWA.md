@@ -6,8 +6,8 @@
 
 **Regional system.** [Botswana is now a live corridor of TCIB, the cross-border scheme PayInc operates as SADC Regional Settlement Operator for the SADC region, per TechAfrica News](<https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/>).
 
-**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

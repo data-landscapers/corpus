@@ -12,6 +12,6 @@
 
 **Local governments recording.** The [agreement of 12 December 2025 covers the municipal revenue of Bangui, the capital](<https://acap-rca.com/2025/12/18/bangui-signature-dune-convention-pour-la-digitalisation-des-recettes-municipales/>), and names no other commune.
 
-***Noted, not assessed***. [Bangui town hall's census of traders and taxpayer database](<https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20201201-centrafrique-la-mairie-de-bangui-modernise-la-collecte-des-taxes-aupr%C3%A8s-des-commer%C3%A7ants>).
+***Also on file***. [Bangui town hall's census of traders and taxpayer database](<https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20201201-centrafrique-la-mairie-de-bangui-modernise-la-collecte-des-taxes-aupr%C3%A8s-des-commer%C3%A7ants>).
 
-***Not held***. What the system agreed for Bangui will record, where it will be held and whether it is in use. No commune outside the capital is named, and no plan or finance is stated.
+***Not found***. What the system agreed for Bangui will record, where it will be held and whether it is in use. No commune outside the capital is named, and no plan or finance is stated.

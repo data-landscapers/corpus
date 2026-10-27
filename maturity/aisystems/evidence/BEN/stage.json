@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-003;BEN-004",
-      "gaps": "No source held says AI computing is in service in the country, or that a national model, dataset or computing is open to named users.",
+      "gaps": "No source found says AI computing is in service in the country, or that a national model, dataset or computing is open to named users.",
       "note": "ASIN's GPT.BJ chatbot on Benin's legal codes, launched in 2023, is an AI model built in the country and in service. The Fon voice model's GPUs are named for training, not as a facility in service in Benin, so the cell stops below AI computing.",
       "as_at": "2026-10-22"
     }

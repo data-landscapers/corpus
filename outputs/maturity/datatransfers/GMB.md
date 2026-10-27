@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest held fact is the Commission's role in transfers. As described in the [February 2026 commentary](<https://www.africanlawbusiness.com/expert-views/key-features-of-the-gambian-personal-data-protection-and-privacy-act/>), the Commission is the body that assesses transfers of personal data out of the country and decides whether to attach conditions. That is a power the Act gives it, and it is the closest the held material comes to the way the rule is carried out in practice.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the Commission has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad. No source held names an approval, refusal or penalty under the rule.
+***Not found***. No source found says the Commission has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad. No source found names an approval, refusal or penalty under the rule.

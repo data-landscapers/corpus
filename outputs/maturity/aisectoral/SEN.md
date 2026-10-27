@@ -6,8 +6,8 @@
 
 **Several sectors.** Tax and health surveillance each have AI in service, in separate accounts: the [DGID's data mining](<https://www.impact.sn/SENEGAL-La-DGID-se-convertit-au-numerique-pour-des-pratiques-fiscales-plus-efficaces_a51008.html>) and the [One Health platform](<https://ai4pep.org/ai4pep-senegal-launches-plateforme-3s-one-health/>).
 
-**Results reported.** No measured results of a sectoral AI system are held. The [DGID's account](<https://www.impact.sn/SENEGAL-La-DGID-se-convertit-au-numerique-pour-des-pratiques-fiscales-plus-efficaces_a51008.html>) gives no figures for fraud detected or revenue recovered.
+**Results reported.** No measured results of a sectoral AI system have been found. The [DGID's account](<https://www.impact.sn/SENEGAL-La-DGID-se-convertit-au-numerique-pour-des-pratiques-fiscales-plus-efficaces_a51008.html>) gives no figures for fraud detected or revenue recovered.
 
-***Noted, not assessed***. [local AI application for judicial archives](<https://www.rts.sn/actualite/detail/a-la-une/justice-le-tgi-de-pikine-guediawaye-experimente-une-ia-pour-les-archives-judiciaires>); [ASREF](<https://www.impact.sn/SENEGAL-La-DGID-se-convertit-au-numerique-pour-des-pratiques-fiscales-plus-efficaces_a51008.html>).
+***Also on file***. [local AI application for judicial archives](<https://www.rts.sn/actualite/detail/a-la-une/justice-le-tgi-de-pikine-guediawaye-experimente-une-ia-pour-les-archives-judiciaires>); [ASREF](<https://www.impact.sn/SENEGAL-La-DGID-se-convertit-au-numerique-pour-des-pratiques-fiscales-plus-efficaces_a51008.html>).
 
-***Not held***. No single source says AI is in service in two or more sectors, and measured results are not known.
+***Not found***. No single source found says AI is in service in two or more sectors, and no source found reports measured results.

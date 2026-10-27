@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-003;SEN-004",
-      "gaps": "No source held counts farmers, extension workers or districts receiving advice from the service.",
-      "note": "Fact 2026-02-25: ANACIM runs the AgData Hub, whose district-scale agro-climatic bulletins combine satellite observations, and its working group publishes a bulletin every ten days; no count of farmers reached is held.",
+      "gaps": "No source found counts farmers, extension workers or districts receiving advice from the service.",
+      "note": "Fact 2026-02-25: ANACIM runs the AgData Hub, whose district-scale agro-climatic bulletins combine satellite observations, and its working group publishes a bulletin every ten days; no count of farmers reached has been found.",
       "as_at": "2026-10-22"
     }
   ]

@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SYC-001",
-      "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
+      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
       "note": "Counted from the four questions by study-ladder-coresystems.py.",
       "as_at": "2026-10-17"
     }

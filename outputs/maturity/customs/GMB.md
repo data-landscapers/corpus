@@ -6,8 +6,8 @@
 
 **Single window.** [The president of the clearing and forwarding agents association says the Gambia National Single Window has helped improve vessel turnaround and clearance time](<https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system>). [The Gambia Revenue Authority states that strides in implementing the National Single Window have improved inter-agency coordination and reduced the time and cost of doing business](<https://www.gra.gm/news/26fd4242-17b6-11f1-b086-029254d29bb1>). [The Gambia Revenue Authority lists a National Single Window for trade documentation among the digital initiatives it has implemented](<https://www.gra.gm/news/57d06877-3d50-11f0-b086-029254d29bb1>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system>).
 
-***Noted, not assessed***. [Single Window Registry](<https://easybusiness.gov.gm/>); [Duty Waiver Application System](<https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system>); [Gambia National Single Window E-Tracking System](<https://www.gra.gm/news/107bbe18-78bb-11ee-9b31-029254d29bb1>).
+***Also on file***. [Single Window Registry](<https://easybusiness.gov.gm/>); [Duty Waiver Application System](<https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system>); [Gambia National Single Window E-Tracking System](<https://www.gra.gm/news/107bbe18-78bb-11ee-9b31-029254d29bb1>).
 
-***Not held***. No source held since October 2023 says customs exchanges data electronically with another country.
+***Not found***. No source found since October 2023 says customs exchanges data electronically with another country.

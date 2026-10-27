@@ -6,8 +6,8 @@
 
 **Main taxes and duties.** The finance ministry says [Isali collects all public revenue fees approved in the state budget and is linked to the ASYCUDA customs system](<https://spokesperson-sd.com/ar/archives/39743>), in April 2026.
 
-**Share reported.** No source held since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-mtn-sudan/>).
+**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://sudanhorizon.com/finance-ministry-signs-sms-service-agreement-with-mtn-sudan/>).
 
-***Noted, not assessed***. [Bankak](<https://www.alarabiya.net/arab-and-world/sudan/2026/10/09/%D9%84%D8%A7-%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%87%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83%D9%8A-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86>).
+***Also on file***. [Bankak](<https://www.alarabiya.net/arab-and-world/sudan/2026/10/09/%D9%84%D8%A7-%D9%88%D8%B5%D9%88%D9%84-%D9%84%D9%84%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AA%D8%B9%D8%B7%D9%84-%D8%A7%D9%87%D9%85-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D9%86%D9%83%D9%8A-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86>).
 
-***Not held***. No source held since October 2023 says the main taxes are filed electronically, or gives a figure for revenue paid electronically.
+***Not found***. No source found since October 2023 says the main taxes are filed electronically, or gives a figure for revenue paid electronically.

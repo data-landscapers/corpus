@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The nearest held fact is the statement that there is no law, [UNESCO's 2025 assessment](<https://www.unesco.org/fr/articles/evaluation-du-developpement-de-linternet-en-republique-du-congo>). With no law and no draft there are no rules, no information commission or commissioner and no decisions on requests to record. A bill published, put out for consultation or sent to cabinet or parliament would be the first step, and a law in force the second.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further: every question is answered.
+***Not found***. Nothing further: every question is answered.

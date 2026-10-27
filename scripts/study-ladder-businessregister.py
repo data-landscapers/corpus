@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "businessregister"
 SUB = "business"
-GAPS = {'4': 'No source held since October 2023 says the register holds the beneficial owners of every company.', '3': 'No source held since October 2023 says registration gives one number shared with tax or social security.', '2': 'No source held since October 2023 says: can firms register online.', '1': 'No source held since October 2023 says: is a digital business register under way.', '5': ''}
-EMPTY = 'Nothing held says how firms are registered.'
-UNPLACED = 'Nothing held since October 2023 says whether firms can register online.'
+GAPS = {'4': 'No source found since October 2023 says the register holds the beneficial owners of every company.', '3': 'No source found since October 2023 says registration gives one number shared with tax or social security.', '2': 'No source found since October 2023 says: can firms register online.', '1': 'No source found since October 2023 says: is a digital business register under way.', '5': ''}
+EMPTY = 'Nothing found says how firms are registered.'
+UNPLACED = 'Nothing found since October 2023 says whether firms can register online.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

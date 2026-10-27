@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-003;TUN-012",
-      "gaps": "The RNE manages the beneficial-owner register, but nothing held says the register holds the beneficial owners of every company.",
+      "gaps": "The RNE manages the beneficial-owner register, but nothing found says the register holds the beneficial owners of every company.",
       "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): beneficial owners of every company recorded, with question 3 shown by its own evidence; the held filings fall short of every company.",
       "as_at": "2026-10-25"
     }

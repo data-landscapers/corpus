@@ -6,8 +6,8 @@
 
 **Several programmes.** [The author says the Registre social unifié index is used in targeting beneficiaries of social programmes (plural, unnamed)](<https://medias24.com/chronique/droits-humains-maroc-defi-espace-numerique/>). [The Ministry of Interior document says the RSU is used to improve targeting of social protection programmes (plural) and that the RNP is used by social protection programmes](<https://aujourdhui.ma/actualite/operation-extension-de-lidentifiant-digital-civil-et-social>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://medias24.com/chronique/droits-humains-maroc-defi-espace-numerique/>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://medias24.com/chronique/droits-humains-maroc-defi-espace-numerique/>).
 
-***Noted, not assessed***. [Registre national de la population (RNP)](<https://aujourdhui.ma/actualite/operation-extension-de-lidentifiant-digital-civil-et-social>); [Minhaty](<https://lematin.ma/enseignement/bac-2026-les-demandes-de-bourse-sur-minhaty-sont-ouvertes/356597>).
+***Also on file***. [Registre national de la population (RNP)](<https://aujourdhui.ma/actualite/operation-extension-de-lidentifiant-digital-civil-et-social>); [Minhaty](<https://lematin.ma/enseignement/bac-2026-les-demandes-de-bourse-sur-minhaty-sont-ouvertes/356597>).
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

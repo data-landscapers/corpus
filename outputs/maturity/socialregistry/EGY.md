@@ -6,8 +6,8 @@
 
 **Several programmes.** [The World Bank says Takaful and Karama (two components) and the FORSA, Two is enough, Waii and 1,000 days cash-plus interventions are designed on, or target beneficiaries from, the TKP social registry](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
 
-***Noted, not assessed***. [Unified National Registry (UNR)](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
+***Also on file***. [Unified National Registry (UNR)](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

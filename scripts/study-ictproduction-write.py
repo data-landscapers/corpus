@@ -23,6 +23,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "ictproduction"
@@ -57,8 +58,8 @@ def exports_paragraph(name: str, country: str, rows: list[dict], best: dict) -> 
         how = "has barely moved" if abs(moved) < 0.005 else f"{'rose' if moved > 0 else 'fell'} by {abs(moved):.2f} points"
         out.append(f"Since {before[0]['as_of'][:4]} the share {how}.")
     else:
-        out.append("The series gives no figure for the years just before, so whether the share is rising "
-                   "or falling is not known.")
+        out.append("The series gives no figure for the years just before, so no source found says "
+                   "whether the share is rising or falling.")
     ahead = [line for line in LINES if figure < line]
     if ahead:
         out.append(f"The share is {ahead[0] - figure:.2f} points short of {ahead[0]:g} per cent, the next line.")
@@ -75,7 +76,7 @@ def plant_paragraph(name: str, plants: list[dict], cleared: bool, url: str) -> s
         for r in plants[:4]:
             out.append(link(r["url"], r["fact"].rstrip(".")) + ".")
     elif cleared:
-        out.append(f"No source held since October 2023 says phones, computers or other ICT equipment are "
+        out.append(f"No source found since October 2023 says phones, computers or other ICT equipment are "
                    f"assembled or made in the country; {link(url, 'exports alone')} set the stage.")
     else:
         out.append(f"A plant is asked about only once exports reach 0.5 per cent of GDP, so with "
@@ -119,7 +120,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             short = f"ICT service exports were {figure:g} per cent of GDP in {year}, by the World Bank's series."
         ahead = [line for line in LINES if figure < line]
         if ahead:
-            held = f"No figure of {ahead[0]:g} per cent of GDP or more is held."
+            held = f"No figure of {ahead[0]:g} per cent of GDP or more has been found."
         elif cell["stage"] != "5":
             held = cell["gaps"]
         else:
@@ -129,15 +130,15 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         held = cell["gaps"]
         if old:
             held += f" The latest held is {num(old[-1]['value']):g} per cent, for {old[-1]['as_of'][:4]}."
-        short = "No figure for ICT service exports is held for 2023 or later, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + held, ""]
+        short = "No figure for ICT service exports has been found for 2023 or later, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + held, ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

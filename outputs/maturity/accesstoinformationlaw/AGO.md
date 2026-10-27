@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The nearest held fact is the law itself, [Law no. 11/02 of 2002](<https://angolex.com/paginas/leis/lei-de-acesso-aos-documentos-administrativos-11a-02a.html>). What would put it to work is a decree, regulation or order made under it, an information commission or commissioner appointed, or an existing body such as an ombudsman taking up its oversight. What would show it applied is a decision, order or penalty on a request for information, or figures of requests published by the body that oversees it. Neither is recorded for Angola.
 
-***Noted, not assessed***. [Lei da Protecção de Dados Pessoais](<https://angop.ao/noticias/politica/parlamento-rejeita-proposta-sobre-proteccao-de-dados-pessoais/>).
+***Also on file***. [Lei da Protecção de Dados Pessoais](<https://angop.ao/noticias/politica/parlamento-rejeita-proposta-sobre-proteccao-de-dados-pessoais/>).
 
-***Not held***. No source held names rules made under the law or says its oversight body is set up.
+***Not found***. No source found names rules made under the law or says its oversight body is set up.

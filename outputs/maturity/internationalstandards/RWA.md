@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The board's page [lists Rwanda as a participating member of ISO/IEC JTC 1/SC 40](<https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees>), the committee on IT service management and IT governance. It also [lists Rwanda as an observer on JTC 1 and on SC 27](<https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees>), the parent committee for information technology and the subcommittee on information security. The country therefore takes part in writing one international standard family on information technology and watches two others.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard, or a rule requiring public bodies to meet one.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard, or a rule requiring public bodies to meet one.

@@ -6,8 +6,8 @@
 
 **Answers published.** [ARTCI published operators' responses to the net-neutrality consultation, including Moov Africa CI's contribution, on its website in September 2026](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>).
 
-**Required.** No source held since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>).
+**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a rule requires drafts to be put online for public comment.
+***Not found***. No source found since October 2023 says a rule requires drafts to be put online for public comment.

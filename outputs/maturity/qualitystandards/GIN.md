@@ -6,6 +6,6 @@
 
 **Certification.** The [decree of January 2023](<https://guineenews.org/2023/01/07/decret-les-attributions-lorganisation-de-institut-guineen-de-normalisation-et-de-metrologie-fixes/>) is the only text held on the institute. The national conformity mark it provides for is listed below. The report names no scheme for certifying an organisation against a standard on information technology or data, and no organisation the institute has certified.
 
-***Noted, not assessed***. [National conformity mark NG](<https://guineenews.org/2023/01/07/decret-les-attributions-lorganisation-de-institut-guineen-de-normalisation-et-de-metrologie-fixes/>).
+***Also on file***. [National conformity mark NG](<https://guineenews.org/2023/01/07/decret-les-attributions-lorganisation-de-institut-guineen-de-normalisation-et-de-metrologie-fixes/>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

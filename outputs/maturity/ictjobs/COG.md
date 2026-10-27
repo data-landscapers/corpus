@@ -2,6 +2,6 @@
 
 ## ICT employment
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held gives employment in information and communication.
+***Not found***. Nothing found gives employment in information and communication.

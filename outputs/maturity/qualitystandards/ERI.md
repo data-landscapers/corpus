@@ -6,6 +6,6 @@
 
 **Certification.** The [1995 proclamation](<https://www.ecolex.org/details/legislation/proclamation-to-provide-for-the-establishment-of-the-eritrean-standards-institution-no-75-of-1995-lex-faoc203313/>) covers quality assurance as well as standardisation and measurement. The record held names no scheme for certifying an organisation against a standard on information technology or data, and no organisation the institution has certified against any standard.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

@@ -8,6 +8,6 @@
 
 **Use reported.** [The Authority's Director General says more than 597 billion birr in completed transactions went through e-GP in fiscal year 2025/26](<https://birrmetrics.com/public-procurement-authority-reports-597bn-birr-in-digital-transactions/>). [The Authority said 308.75 billion birr went through it in EFY 2017](<https://www.ena.et/web/eng/w/eng_7113934>).
 
-***Noted, not assessed***. [National Digital Payments Strategy 2.0](<https://ethiopianbusinessreview.net/ethiopia-has-157-million-mobile-money-accounts-but-less-than-15-are-active-nbe-admits/>).
+***Also on file***. [National Digital Payments Strategy 2.0](<https://ethiopianbusinessreview.net/ethiopia-has-157-million-mobile-money-accounts-but-less-than-15-are-active-nbe-admits/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

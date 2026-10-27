@@ -6,8 +6,8 @@
 
 **Authority.** [Village de la Justice says ordinance n°0013/PR/2026 gives the Haute Autorité de la Communication (HAC) express competence to regulate digital platforms, and that the HAC is given the task of auditing AI systems](<https://www.village-justice.com/articles/gabon-dote-droit-des-reseaux-sociaux-analyse-des-ordonnances-fevrier-2026,57009.html>).
 
-**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://www.village-justice.com/articles/gabon-dote-droit-des-reseaux-sociaux-analyse-des-ordonnances-fevrier-2026,57009.html>).
+**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://www.village-justice.com/articles/gabon-dote-droit-des-reseaux-sociaux-analyse-des-ordonnances-fevrier-2026,57009.html>).
 
-***Noted, not assessed***. [Comité National Technique pour l'IA (CTN-IA)](<https://www.unesco.org/ethics-ai/fr/gabon>).
+***Also on file***. [Comité National Technique pour l'IA (CTN-IA)](<https://www.unesco.org/ethics-ai/fr/gabon>).
 
-***Not held***. No source held since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not found***. No source found since October 2023 gives an enforcement or redress decision about a harm from AI.

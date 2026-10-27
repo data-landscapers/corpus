@@ -16,6 +16,6 @@
 
 **Last twelve months.** The ICT minister [launched the policy in January 2026](<https://www.namibian.com.na/ict-ministry-launches-strategic-plan-policy-to-expand-digital-access-and-strengthen-cybersecurity/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The text of the National ICT Policy 2026 is not held, and nothing held links to it or quotes it from an official site. Its period has no end year, and no delivery plan, report against it or budget line is on record.
+***Not found***. The text of the National ICT Policy 2026 is not held, and nothing found links to it or quotes it from an official site. Its period has no end year, and no delivery plan, report against it or budget line is on record.

@@ -16,6 +16,6 @@
 
 **Last twelve months.** The latest statement on the policy is the minister's, [published on 12 June 2025](<https://itweb.africa/article/south-sudan-optimistic-about-digital-prospects-despite-conflict/8OKdWqDXan4qbznQ>).
 
-***Noted, not assessed***. [South Sudan Digital Transformation Strategy](<https://itweb.africa/article/south-sudan-optimistic-about-digital-prospects-despite-conflict/8OKdWqDXan4qbznQ>); [Cybercrimes and Computer Misuse Provisional Order, 2021](<https://cipesa.org/wp-content/files/briefs/Analysis-of-the-South-Sudan-Cyber-Crimes-and-Computer-Misuse-Provisional-Order-2021.pdf>).
+***Also on file***. [South Sudan Digital Transformation Strategy](<https://itweb.africa/article/south-sudan-optimistic-about-digital-prospects-despite-conflict/8OKdWqDXan4qbznQ>); [Cybercrimes and Computer Misuse Provisional Order, 2021](<https://cipesa.org/wp-content/files/briefs/Analysis-of-the-South-Sudan-Cyber-Crimes-and-Computer-Misuse-Provisional-Order-2021.pdf>).
 
-***Not held***. The policy's period, a delivery plan, a mandated body, a budget line and any report against its own targets are not held, and nor is an adopting act: the 2012 date is the publisher's. Nothing is dated in the twelve months to 30 September 2026.
+***Not found***. The policy's period, a delivery plan, a mandated body, a budget line and any report against its own targets are not held, and nor is an adopting act: the 2012 date is the publisher's. Nothing is dated in the twelve months to 30 September 2026.

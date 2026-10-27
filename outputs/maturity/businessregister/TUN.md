@@ -8,6 +8,6 @@
 
 **Beneficial owners.** [The register also manages the register of beneficial owners](<https://www.lapresse.tn/2026/07/16/depot-immatriculation-mise-a-jour-le-registre-national-des-entreprises-digitalise-tous-ses-services/>). [A government order of 13 January 2026 sets how it makes that information available in real time to competent authorities, through its platform to firms with checking duties, and to the public on a legitimate interest](<https://home.registre-entreprises.tn/wp-content/uploads/2026/01/Arrete2026_35.pdf>).
 
-***Noted, not assessed***. [e-industrie.gov.tn](<https://www.lapresse.tn/2026/08/28/tunisie-lancement-dune-plateforme-numerique-unifiee-pour-les-services-du-ministere-de-lindustrie/>).
+***Also on file***. [e-industrie.gov.tn](<https://www.lapresse.tn/2026/08/28/tunisie-lancement-dune-plateforme-numerique-unifiee-pour-les-services-du-ministere-de-lindustrie/>).
 
-***Not held***. Nothing held says how many firms have filed their beneficial owners, so not that every company's are recorded.
+***Not found***. Nothing found says how many firms have filed their beneficial owners, so not that every company's are recorded.

@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The 2026 finance law [gives 50,000,000 francs as a transfer to the chambre du Numérique](<https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N26-003PR-du-16-jan-2026.pdf>).
 
-***Noted, not assessed***. The [consumption-tax exemption for telecommunications, 2024 (985,845,035 francs)](<https://finances.gouv.km/wp-content/uploads/2026/02/Rapport-sur-les-Depenses-Fiscales-2024-1-1-5.pdf>).
+***Also on file***. The [consumption-tax exemption for telecommunications, 2024 (985,845,035 francs)](<https://finances.gouv.km/wp-content/uploads/2026/02/Rapport-sur-les-Depenses-Fiscales-2024-1-1-5.pdf>).
 
-***Not held***. No source from the last three years shows the government saying digital transformation must be paid for from the country's own resources and acting on it. No fund, levy or assigned tax is shown created, collecting or paying.
+***Not found***. No source from the last three years shows the government saying digital transformation must be paid for from the country's own resources and acting on it. No fund, levy or assigned tax is shown created, collecting or paying.

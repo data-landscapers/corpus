@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With a [legal framework that is not AI-specific](<https://www.unesco.org/ethics-ai/en/ethiopia>) in June 2026, Ethiopia has no general AI law to apply. The [tabled draft](<https://theconversation.com/ai-regulation-in-africa-why-copying-the-european-model-wont-work-283524>) is not yet law, and no rule for one sector or one use that names AI is recorded for the country.
 
-***Noted, not assessed***. [National Artificial Intelligence Policy (Ethiopia)](<https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/>).
+***Also on file***. [National Artificial Intelligence Policy (Ethiopia)](<https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/>).
 
-***Not held***. No source held says the draft has been passed, or that a rule on AI is in force.
+***Not found***. No source found says the draft has been passed, or that a rule on AI is in force.

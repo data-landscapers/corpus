@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-002",
-      "gaps": "No source held since October 2023 says a body is designated with a mandate over AI. The Cyber Security Authority's 2025 takedowns of deepfake accounts were the platforms' own decisions, and none is dated.",
+      "gaps": "No source found since October 2023 says a body is designated with a mandate over AI. The Cyber Security Authority's 2025 takedowns of deepfake accounts were the platforms' own decisions, and none is dated.",
       "note": "First pass: counted from the four questions by study-ladder-aiabuse.py.",
       "as_at": "2026-10-23"
     }

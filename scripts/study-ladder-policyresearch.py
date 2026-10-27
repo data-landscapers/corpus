@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "policyresearch"
 SUB = "research"
-GAPS = {'4': 'No source held since October 2023 says a local research institution holds a standing advisory role in digital policy.', '3': 'No source held since October 2023 says local research fed a digital policy, law or strategy.', '2': 'No source held since October 2023 says: does a local institution publish on it.', '1': 'No source held since October 2023 says: has research on digital policy begun.', '5': ''}
-EMPTY = 'Nothing held says whether local institutions research digital policy.'
-UNPLACED = 'Nothing held since October 2023 says whether a local institution researches digital policy.'
+GAPS = {'4': 'No source found since October 2023 says a local research institution holds a standing advisory role in digital policy.', '3': 'No source found since October 2023 says local research fed a digital policy, law or strategy.', '2': 'No source found since October 2023 says: does a local institution publish on it.', '1': 'No source found since October 2023 says: has research on digital policy begun.', '5': ''}
+EMPTY = 'Nothing found says whether local institutions research digital policy.'
+UNPLACED = 'Nothing found since October 2023 says whether a local institution researches digital policy.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

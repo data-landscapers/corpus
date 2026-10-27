@@ -6,6 +6,6 @@
 
 **Capacity sold to other operators.** [The World Bank describes its IDA grant of 20 January 2011 as financing STP's participation in the ACE consortium on an open-access basis through STP-Cabo SARL, and says the project led to a second telecoms licence (UNITEL) in 2013 ending CST's monopoly](<https://documents1.worldbank.org/curated/en/234391468190440376/txt/ICR3141-P117652-Box391488B-OUO-9.txt>). Capacity counts as sold where operators other than the owner buy it at the landing station or on the cable, or where either runs on open-access or regulated wholesale terms.
 
-***Noted, not assessed***. [Principe submarine cable](<https://documents1.worldbank.org/curated/en/099041125035024996/pdf/P177158-11847402-82b3-4460-9bf4-0fe106ed4291.pdf>); [Equiano](<https://blog.google/around-the-globe/google-africa/google-for-africa/>); [Submarine cable to Príncipe](<https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf>).
+***Also on file***. [Principe submarine cable](<https://documents1.worldbank.org/curated/en/099041125035024996/pdf/P177158-11847402-82b3-4460-9bf4-0fe106ed4291.pdf>); [Equiano](<https://blog.google/around-the-globe/google-africa/google-for-africa/>); [Submarine cable to Príncipe](<https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf>).
 
-***Not held***. No source held names a second international fibre route in service.
+***Not found***. No source found names a second international fibre route in service.

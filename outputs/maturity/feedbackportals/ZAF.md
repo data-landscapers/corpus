@@ -8,6 +8,6 @@
 
 **Results published.** [DPME says 234,752 of 242,636 complaints (96.7%) were resolved as at 17 December 2024 and that quarterly, mid-year and annual hotline reports are available](<https://static.pmg.org.za/RCW727-2025-01-06.pdf>).
 
-***Noted, not assessed***. [Presidential Hotline](<https://pmg.org.za/committee-meeting/41889/>).
+***Also on file***. [Presidential Hotline](<https://pmg.org.za/committee-meeting/41889/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

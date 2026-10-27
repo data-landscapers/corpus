@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "NER-002",
-   "gaps": "No source held since October 2023 says patient records are linked through the national ID or a national health identifier.",
+   "gaps": "No source found since October 2023 says patient records are linked through the national ID or a national health identifier.",
    "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
   }
  ]

@@ -6,6 +6,6 @@
 
 **Money and results.** The second phase [is carried out with the support of the Universal Telecommunications Service Fund](<https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/>), the minister said. The ministry reported that [PNHD 1 had covered 10,620 of the 10,740 localities targeted, 98.88 per cent, at the end of March 2024](<https://mmsp.gov.ma/fr/nos-metiers/connectivit%C3%A9>), and the minister told parliament in December 2024 that [more than 10,640 rural zones were covered between 2018 and 2024](<https://www.lavieeco.com/au-royaume/plan-national-du-haut-debit-un-taux-de-realisation-de-99-pour-la-premiere-phase/>), about 99 per cent of the first phase's target.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No period beyond 2026 is held for the second phase.
+***Not found***. No period beyond 2026 has been found for the second phase.

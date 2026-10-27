@@ -12,6 +12,6 @@
 
 **Last twelve months.** The [abolition of the HAPDP and the transfer of its powers to two ministries](<https://www.africadataprotection.org/actualites/Niger-Suppression-de-la-Haute-Autorite-de-Protection-des-Donnees-a-caractere-Personnel-et-transfert-de-ses-competences.html>) was reported on 13 June 2026.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation made under the law is held, and no decision, sanction or count of complaints settled under it. The date the law came into force and the date of the decree abolishing the HAPDP are not held.
+***Not found***. No regulation made under the law has been found, and no decision, sanction or count of complaints settled under it. The date the law came into force and the date of the decree abolishing the HAPDP are not held.

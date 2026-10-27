@@ -6,8 +6,8 @@
 
 **Sources published from.** [ICASEES published on 15 November 2024 the statistical yearbook for pre-school, Fondamental 1 and non-formal basic education, covering school year 2021-2022, from the 2022 statistical campaign of all schools](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>).
 
-**Published regularly.** No source held states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>).
+**Published regularly.** No source found states that statistics from administrative records are published regularly. The nearest held fact: [the one given above](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>).
 
-***Noted, not assessed***. [Civil registration (births, marriages, deaths), paper-based, central registry DGMEC/MATDSI](<https://data.unicef.org/crvs/central-african-republic/>); [SIGE (education management information system)](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>).
+***Also on file***. [Civil registration (births, marriages, deaths), paper-based, central registry DGMEC/MATDSI](<https://data.unicef.org/crvs/central-african-republic/>); [SIGE (education management information system)](<https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022>).
 
-***Not held***. No source held shows statistics from one administrative source published twice since October 2023.
+***Not found***. No source found shows statistics from one administrative source published twice since October 2023.

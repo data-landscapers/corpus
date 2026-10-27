@@ -8,6 +8,6 @@
 
 **Tied to ID.** [GRA says that from 1 April 2021 the Ghana Card PIN issued by the National Identification Authority replaces the GRA-issued TIN for individual taxpayers (2021, before the three-year window)](<https://gra.gov.gh/tin/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the taxpayer number is tied to the national ID.
+***Not found***. No source found since October 2023 says the taxpayer number is tied to the national ID.

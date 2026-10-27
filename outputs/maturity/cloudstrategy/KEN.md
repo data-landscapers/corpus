@@ -6,6 +6,6 @@
 
 **Named hosting and moves.** As reported on 6 August 2026, [applications for accreditation as a government cloud service provider are open, to a Cloud Adoption Committee that is yet to be established](<https://www.businessdailyafrica.com/bd/corporate/technology/search-for-firm-to-host-sensitive-state-data-on-cloud-begins-5549208>). One provider is to be chosen from the accredited list to host all State data, and the list of eligible providers is yet to be published. [In August 2026 the Cabinet Secretary said the guidelines require institutions to classify their data and buy only from accredited providers](<https://gaa.go.ke/ministry-urges-public-sector-adopt-ai-cloud-computing>).
 
-***Noted, not assessed***. [Konza data centre](<https://www.businessdailyafrica.com/bd/corporate/technology/search-for-firm-to-host-sensitive-state-data-on-cloud-begins-5549208>); [e-Citizen](<https://www.businessdailyafrica.com/bd/corporate/technology/search-for-firm-to-host-sensitive-state-data-on-cloud-begins-5549208>).
+***Also on file***. [Konza data centre](<https://www.businessdailyafrica.com/bd/corporate/technology/search-for-firm-to-host-sensitive-state-data-on-cloud-begins-5549208>); [e-Citizen](<https://www.businessdailyafrica.com/bd/corporate/technology/search-for-firm-to-host-sensitive-state-data-on-cloud-begins-5549208>).
 
-***Not held***. No source held says the government has named where public bodies must host: a government cloud or data centre the policy tells them to use, or a list of approved providers.
+***Not found***. No source found says the government has named where public bodies must host: a government cloud or data centre the policy tells them to use, or a list of approved providers.

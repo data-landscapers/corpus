@@ -10,6 +10,6 @@
 
 **Implementing and acting.** [TechHive Advisory](<https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law>) states that the regime was enacted in June 2025 as part of the Digital Code, and gives no promulgation or commencement date.
 
-***Noted, not assessed***. The [Digital Code](<https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law>) and the [National Commission for the Protection of Personal Data](<https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code>).
+***Also on file***. The [Digital Code](<https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law>) and the [National Commission for the Protection of Personal Data](<https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code>).
 
-***Not held***. The date the Code was promulgated or took effect, whether the commission has been constituted, and any ruling by it.
+***Not found***. The date the Code was promulgated or took effect, whether the commission has been constituted, and any ruling by it.

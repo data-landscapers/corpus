@@ -8,6 +8,6 @@
 
 **Use reported.** [The minister reported 1,173 contracts awarded through Coleps in 2025 from 2,334 notices, against 365 awards from 458 notices in 2024](<https://ecomatin.net/cameroun-lattribution-des-marches-publics-en-ligne-bondit-de-221-a-1-173-contrats-en-un-an>). [More than 8,143 contracts worth 1,745 billion FCFA had been programmed and published on Coleps for 2025 by January 2025](<https://cameroon-tribune.cm/article.html/69967/fr.html/details_2>).
 
-***Noted, not assessed***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
+***Also on file***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

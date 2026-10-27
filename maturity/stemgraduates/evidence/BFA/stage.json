@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "BFA-003",
-   "gaps": "No source held since October 2023 says a national research and education network is in service connecting the public universities.",
+   "gaps": "No source found since October 2023 says a national research and education network is in service connecting the public universities.",
    "note": "First pass: counted from the four questions by study-figure.py stemgraduates."
   }
  ]

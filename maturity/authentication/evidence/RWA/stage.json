@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "RWA-008;RWA-007",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
       "note": "Rebuild: identity verification against the national ID serves hospitals, government agencies and businesses across about 200 services (RWA-008). The phone-held Single Digital ID is being phased in to 2027 (RWA-004).",
       "as_at": "2026-10-22"
     }

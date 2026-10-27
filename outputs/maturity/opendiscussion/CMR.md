@@ -6,8 +6,8 @@
 
 **Cuts and blocks, and a bar on them.** [Le Jour reports that on 23 October 2025, during the presidential election, internet restrictions blocked a blogger's access to Facebook and publishing](<https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/>), described as a government decision. Access Now's #KeepItOn report [counts 4 internet shutdowns in Cameroon in 2025](<https://www.accessnow.org/internet-shutdowns-2025/>), one a cross-border cut that reached the Central African Republic through the WACS cable.
 
-**Punishment for speech, and its removal.** No arrest or charge for speech is held. The nearest held fact is the [2010 cybercrime law, law n°2010/012 of 21 December 2010](<https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/>), whose provisions workshop participants said limit free expression.
+**Punishment for speech, and its removal.** No arrest or charge for speech has been found. The nearest held fact is the [2010 cybercrime law, law n°2010/012 of 21 December 2010](<https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/>), whose provisions workshop participants said limit free expression.
 
-***Noted, not assessed***. [Law n°2010/012 of 21 December 2010 on cybercrime](<https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/>).
+***Also on file***. [Law n°2010/012 of 21 December 2010 on cybercrime](<https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/>).
 
-***Not held***. Nothing held says who ordered the 2025 shutdowns or when they ended, and no source says whether a bar on such cuts exists.
+***Not found***. Nothing found says who ordered the 2025 shutdowns or when they ended, and no source says whether a bar on such cuts exists.

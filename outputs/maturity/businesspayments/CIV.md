@@ -8,6 +8,6 @@
 
 **Use reported.** [The ministry says dematerialisation cut the time to process tender documents from 9.9 to 6.5 days in 2023](<https://www.marchespublics.ci/uploads/doc/Projet_CCM_March%C3%A9s_2023.pdf>), a measure of speed rather than of tenders or value.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says SIGOMAP is required of all public bodies beyond the ministries, or runs to award or payment, and no figure for tenders or value through it is held.
+***Not found***. Nothing found says SIGOMAP is required of all public bodies beyond the ministries, or runs to award or payment, and no figure for tenders or value through it has been found.

@@ -48,7 +48,7 @@ GAPS = {
          "targets is held.",
     "3": "No budget line, universal service fund allocation or financed programme tied to the "
          "plan in the last three years is held.",
-    "2": "No source held says a national broadband plan is adopted and still running.",
+    "2": "No source found says a national broadband plan is adopted and still running.",
     "1": "",
 }
 
@@ -94,7 +94,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     lifts = running or not (settled or draft)
     if not rows:
         return {"stage": "no evidence", "standing": "", "delivery": "", "sources": [],
-                "gaps": "Nothing held names a national broadband plan, or says there is none."}
+                "gaps": "Nothing found names a national broadband plan, or says there is none."}
     if reported and funded and lifts:
         s, src = "5", reported[:1] + funded[:1] + plan[:1]
     elif funded and lifts:

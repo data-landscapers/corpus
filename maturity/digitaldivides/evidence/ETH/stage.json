@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ETH-001;ETH-002",
-   "gaps": "No source held since October 2023 says: is one delivering, with sites counted.",
+   "gaps": "No source found since October 2023 says: is one delivering, with sites counted.",
    "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py."
   }
  ]

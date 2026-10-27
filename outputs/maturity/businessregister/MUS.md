@@ -6,8 +6,8 @@
 
 **Shared number.** [CBRD says VAT registration is performed through CBRIS at the same time as company incorporation, whenever applicable, since May 2021 (2021, before the three-year window)](<https://mof.govmu.org/Documents/2026/Annual%20Report%20on%20Performance%20for%20Ministries%20and%20Department/7-5%20CBRD/Annual%20report%2024%2025.pdf>).
 
-**Beneficial owners.** No source held since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://mof.govmu.org/Documents/2026/Annual%20Report%20on%20Performance%20for%20Ministries%20and%20Department/7-5%20CBRD/Annual%20report%2024%2025.pdf>).
+**Beneficial owners.** No source found since October 2023 says the register collects beneficial owners. The nearest held fact: [the one given above](<https://mof.govmu.org/Documents/2026/Annual%20Report%20on%20Performance%20for%20Ministries%20and%20Department/7-5%20CBRD/Annual%20report%2024%2025.pdf>).
 
-***Noted, not assessed***. [Statistical Business Register](<https://statsmauritius.govmu.org/Documents/Statistics/By_Subject/Businesses/BusinessStatistics_2Qtr26_290726.pdf>).
+***Also on file***. [Statistical Business Register](<https://statsmauritius.govmu.org/Documents/Statistics/By_Subject/Businesses/BusinessStatistics_2Qtr26_290726.pdf>).
 
-***Not held***. No source held since October 2023 says registration gives one number shared with tax or social security.
+***Not found***. No source found since October 2023 says registration gives one number shared with tax or social security.

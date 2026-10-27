@@ -15,7 +15,7 @@
       "flags": "under the national strategy",
       "stage_sources": "",
       "gaps": "evidence.csv holds no row and instruments.csv names no instrument for TUN, so no ICT or telecommunications sector policy is on record as adopted or in preparation. A national digital strategy is held (digitalstrategy stages it unplaced; systems.csv logs the National Digital Strategic Plan / Digital Tunisia and Tunisie Digitale 2025 as national), and the other logged instruments are an institution-plan and a programme, none of which places the country.",
-      "note": "No sector instrument: none is named for TUN in instruments.csv and no evidence row is held. A noted class never places a country, so with a national digital strategy held and no sector policy in force the cell is unplaced and flagged under the national strategy, not stage 1 or no evidence.",
+      "note": "No sector instrument: none is named for TUN in instruments.csv and no evidence row has been found. A noted class never places a country, so with a national digital strategy held and no sector policy in force the cell is unplaced and flagged under the national strategy, not stage 1 or no evidence.",
       "as_at": "2026-10-13"
     }
   ]

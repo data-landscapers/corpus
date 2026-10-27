@@ -6,8 +6,8 @@
 
 **Electronic payment.** [MyJoyOnline reports the ITAS pilot currently covers payment of PAYE, VAT, VAT Withholding and Withholding VAT, with taxpayers able to pay electronically through portals and mobile channels](<https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/>). [The GRA says tax payments initiated through ITAS and GITMIS are processed on the Ghana.gov payment platform and were hit by intermittent faults from 14 August 2026](<https://gna.org.gh/2026/08/gra-working-to-resolve-intermittent-tax-payment-challenges-on-ghana-gov-platform/>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/>).
 
-***Noted, not assessed***. [ICUMS](<https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/>); [e-invoicing system](<https://www.myjoyonline.com/gras-itas-and-other-digital-platforms-set-to-strengthen-tax-compliance/>).
+***Also on file***. [ICUMS](<https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/>); [e-invoicing system](<https://www.myjoyonline.com/gras-itas-and-other-digital-platforms-set-to-strengthen-tax-compliance/>).
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

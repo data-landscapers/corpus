@@ -6,8 +6,8 @@
 
 **Deaths digital.** [The same official said the exercise run on INRIS covers securing death certificates as well as birth registration (Lusaka Times, 3 September 2026)](<https://www.lusakatimes.com/2026/09/03/govt-implements-digital-civil-registration/>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00412626>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00412626>).
 
-***Noted, not assessed***. [Sample Based Registration System with Vital Statistics (SRS-VS)](<https://www.zambiamonitor.com/zambia-launches-sample-based-registration-system-to-capture-silent-deaths-outside-health-facilities/>).
+***Also on file***. [Sample Based Registration System with Vital Statistics (SRS-VS)](<https://www.zambiamonitor.com/zambia-launches-sample-based-registration-system-to-capture-silent-deaths-outside-health-facilities/>).
 
-***Not held***. No source held since October 2023 says: are births registered digitally across the country.
+***Not found***. No source found since October 2023 says: are births registered digitally across the country.

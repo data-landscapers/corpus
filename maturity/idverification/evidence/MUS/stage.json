@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "MUS-004",
-   "gaps": "No source held since October 2023 shows services in two or more sectors checking against the ID.",
+   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
    "note": "First pass: counted from the four questions by study-ladder-idverification.py."
   }
  ]

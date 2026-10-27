@@ -6,8 +6,8 @@
 
 **Results published.** [INE Angola states it released the definitive results of Census 2024 (RGPH 2024) on 20 November 2025, ten months after the end of mass data collection and six months after the coverage survey](<https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf>). [INE states the definitive national results of the RGPH 2024 were published on 20 November 2025, and this Icolo e Bengo provincial report followed](<https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf>).
 
-**A household survey published.** No source held reports results of a national household survey published since October 2023. The nearest held fact: [INE Angola states it released the definitive results of Census 2024 (RGPH 2024) on 20 November 2025, ten months after the end of mass data collection and six months after the coverage survey](<https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf>).
+**A household survey published.** No source found reports results of a national household survey published since October 2023. The nearest held fact: [INE Angola states it released the definitive results of Census 2024 (RGPH 2024) on 20 November 2025, ten months after the end of mass data collection and six months after the coverage survey](<https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf>).
 
-***Noted, not assessed***. [REMPE 2019-2020](<https://estamosjuntos.co.ao/registadas-83-mil-empresas-em-angola/>); [Inquérito de Cobertura do Censo 2024](<https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf>).
+***Also on file***. [REMPE 2019-2020](<https://estamosjuntos.co.ao/registadas-83-mil-empresas-em-angola/>); [Inquérito de Cobertura do Censo 2024](<https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf>).
 
-***Not held***. No source held reports results of a national household survey published since October 2023.
+***Not found***. No source found reports results of a national household survey published since October 2023.

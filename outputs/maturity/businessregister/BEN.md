@@ -6,8 +6,8 @@
 
 **Shared number.** [APIEx's guide lists among the certificates the platform issues the RCCM extract, the attestation of registration for the IFU tax identifier and the notification of the CNSS employer number](<https://monentreprise.bj/APIEX_Guide_pratique_v2_3e1993847e.pdf>). One online procedure registers the firm with the register, the tax authority and social security, each issuing its own document.
 
-**Beneficial owners.** Nothing held says the register collects the beneficial owners of the firms it records. The nearest held fact is [the list of certificates in APIEx's guide](<https://monentreprise.bj/APIEX_Guide_pratique_v2_3e1993847e.pdf>), which includes no record of ownership.
+**Beneficial owners.** Nothing found says the register collects the beneficial owners of the firms it records. The nearest held fact is [the list of certificates in APIEx's guide](<https://monentreprise.bj/APIEX_Guide_pratique_v2_3e1993847e.pdf>), which includes no record of ownership.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says registration gives one number shared with tax or social security, or that the register collects beneficial owners.
+***Not found***. No source found since October 2023 says registration gives one number shared with tax or social security, or that the register collects beneficial owners.

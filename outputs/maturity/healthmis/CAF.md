@@ -8,6 +8,6 @@
 
 **Reporting rate published.** [The poster states report completeness rose from 52% in 2020 to over 85% in 2025](<https://community.dhis2.org/t/dhis2-pour-la-reconstruction-du-snis-cas-de-la-rca/72669>).
 
-***Noted, not assessed***. [e-SENI (HISP EMR)](<https://hisprwanda.org/hisp-emr-digitizing-hospital-care-in-the-central-african-republic/>); [DHIS2 vaccination microplanning](<https://hisprwanda.org/vaccination-de-routine-la-rca-accelere-la-digitalisation-de-la-microplanification-pour-ameliorer-la-couverture-vaccinale/>).
+***Also on file***. [e-SENI (HISP EMR)](<https://hisprwanda.org/hisp-emr-digitizing-hospital-care-in-the-central-african-republic/>); [DHIS2 vaccination microplanning](<https://hisprwanda.org/vaccination-de-routine-la-rca-accelere-la-digitalisation-de-la-microplanification-pour-ameliorer-la-couverture-vaccinale/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

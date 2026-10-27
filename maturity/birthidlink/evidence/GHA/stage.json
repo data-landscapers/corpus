@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-001",
-      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
       "note": "Rebuild: since 2024 a newborn's birth registration returns a Ghana Card number; retiring numbers on death is still planned (2026). So deaths do not yet pass.",
       "as_at": "2026-10-22"
     }

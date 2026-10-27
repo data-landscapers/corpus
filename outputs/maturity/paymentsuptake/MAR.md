@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.bkam.ma/content/download/844040/9139542/Rapport%20annuel%20sur%20l'Inclusion%20financière%202024.pdf>).
 
-***Noted, not assessed***. [M-Wallet](<https://www.bkam.ma/fr/content/download/844036/9139518/Rapport%20SNIF%202023.pdf>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
+***Also on file***. [M-Wallet](<https://www.bkam.ma/fr/content/download/844036/9139518/Rapport%20SNIF%202023.pdf>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 
-***Not held***. No survey held since October 2023 puts adults with an account at 79% or more.
+***Not found***. No survey held since October 2023 puts adults with an account at 79% or more.

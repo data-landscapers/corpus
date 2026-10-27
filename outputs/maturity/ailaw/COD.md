@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** No general AI law is described in [the same 23 August 2024 article](<https://droitnumerique.cd/politiques-de-lintelligence-artificielle-et-de-prise-de-decision-automatisee-en-rd-congo/>) on droitnumerique.cd. The dean places the country's rules on AI in soft law, which still largely prevails, and names neither a hard law on AI nor a draft of one. The article is the dean's account of how the DR Congo governs AI and automated decision-making, and it describes soft law as the instrument in use.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether a draft law exists is not known; the one source is a 2024 opinion piece.
+***Not found***. No source found says whether a draft law exists; the one source is a 2024 opinion piece.

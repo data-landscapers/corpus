@@ -2,6 +2,6 @@
 
 ## Population uptake
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held gives a survey share of adults with an account.
+***Not found***. Nothing found gives a survey share of adults with an account.

@@ -10,6 +10,6 @@
 
 **Implementing and acting.** [Law Lab Africa](<https://research.lawlab.africa/eritrea/>) states that no enforcement decisions could be found for Eritrea and none are published, as of the 1 August 2026 verification pass by that source.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Any draft data protection law, and any body with data protection duties.
+***Not found***. Any draft data protection law, and any body with data protection duties.

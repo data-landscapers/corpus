@@ -6,6 +6,6 @@
 
 **Money and results.** The Ministry's [page of 9 July 2025](<https://www.mpt.gov.dz/genaralization-of-access-to-fixed-internet/>) sets a goal of 7 million households on fixed internet by the end of 2027, with fibre to the home as the core technology. It reports 6.6 million fixed internet subscribers in the first half of 2025, up from 3.5 million in early 2020, and says the intermediate objectives were reached.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Progress against the plan is published. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. Progress against the plan is published. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.

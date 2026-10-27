@@ -2,6 +2,6 @@
 
 ## Citizen feedback channel
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+***Not found***. Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.

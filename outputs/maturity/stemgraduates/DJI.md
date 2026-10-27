@@ -2,6 +2,6 @@
 
 ## STEM graduates
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held gives STEM graduates as a share of tertiary graduates.
+***Not found***. Nothing found gives STEM graduates as a share of tertiary graduates.

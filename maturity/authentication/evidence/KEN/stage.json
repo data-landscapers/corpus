@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-009;KEN-006",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
-      "note": "Rebuild: over 800 organisations are integrated with IPRS for citizen verification (KEN-009). Nothing held says people prove who they are online with a mobile ID or wallet.",
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "note": "Rebuild: over 800 organisations are integrated with IPRS for citizen verification (KEN-009). Nothing found says people prove who they are online with a mobile ID or wallet.",
       "as_at": "2026-10-22"
     }
   ]

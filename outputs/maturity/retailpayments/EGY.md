@@ -8,6 +8,6 @@
 
 **National switch.** [The InstaPay instant payments network, launched March 2022, handles personal, commercial and account-to-wallet transfers, with over 1.1 billion operations, per banking expert Walid Adel](<https://www.elwatannews.com/news/details/8325979>).
 
-***Noted, not assessed***. [InstaPay](<https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/>); [Meeza](<https://gate.ahram.org.eg/News/5335311.aspx>); [Digital EGP](<https://enterpriseam.com/egypt/2026/09/15/the-digital-egp-wont-look-different-at-checkout-but-it-will-work-nothing-like-instapay/>).
+***Also on file***. [InstaPay](<https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/>); [Meeza](<https://gate.ahram.org.eg/News/5335311.aspx>); [Digital EGP](<https://enterpriseam.com/egypt/2026/09/15/the-digital-egp-wont-look-different-at-checkout-but-it-will-work-nothing-like-instapay/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

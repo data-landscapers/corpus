@@ -6,6 +6,6 @@
 
 **Money and results.** The strategy is [part of the Djibouti Digital Foundation project](<https://www.wearetech.africa/en/fils-uk/news/telecom/djibouti-unveils-plan-to-boost-internet-connectivity-and-affordability>), which the World Bank supports. Early results reported at the launch were 250 km of fibre laid in the north and more than 100 administrative buildings connected. The [La Nation editorial](<https://www.lanation.dj/editorial-linclusion-numerique-comme-nouvel-horizon-par-ibrahim-miyir-ali/>) says the SNHD sets two scenarios for 2027, connecting ten cities or seven.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figures published by the government against the plan's own targets are held. The plan's period is not stated.
+***Not found***. No figures published by the government against the plan's own targets have been found. The plan's period is not stated.

@@ -12,6 +12,6 @@
 
 **Last twelve months.** The [bill voted on 3 August 2026 indexes fines to turnover and bans the transfer of sensitive data abroad](<https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/>), and [requires prior consent for commercial prospecting](<https://assembleenationale.bf/830>). The [law organising ARCOD as the single authority for communications regulation and personal data protection was adopted the same day](<https://www.lobspaalga.com/2026/08/03/87181/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation under the 2021 law, no named sanction and no published count of decisions or complaints. Whether the bill voted on 3 August 2026 has been promulgated is not known.
+***Not found***. No regulation under the 2021 law, no named sanction and no published count of decisions or complaints. No source found says whether the bill voted on 3 August 2026 has been promulgated.

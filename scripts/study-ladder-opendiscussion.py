@@ -17,7 +17,7 @@ count for twelve months, every other answer for three years:
 **Stage 1 outranks a yes**: a `connection` of `cut` inside the twelve months, or a `debate`
 of `silenced` inside the three years, places a country there whatever else is held. **A
 `punished` inside the twelve months is a no to question 2 and stops the count.** A later yes
-answers an earlier question nothing held answers. A fact dated after the as-at sets nothing.
+answers an earlier question nothing found answers. A fact dated after the as-at sets nothing.
 A year or a month stands for its last day, or for the as-at where that day falls after it
 and the source was published by it. **A cut or a punishment dated only to a year that began
 before the twelve months sets nothing**: the year does not show it inside them. A `silenced`
@@ -108,7 +108,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     blank = {a: "" for a in ASPECTS} | {"sources": []}
     if not rows:
         return {"stage": "no evidence", **blank,
-                "gaps": "Nothing held says government policy is criticised in public inside the "
+                "gaps": "Nothing found says government policy is criticised in public inside the "
                         "country, that the internet was cut, or that anyone was punished for "
                         "what they said."}
     values = {"debate": "silenced" if silenced else "criticised" if criticised else "",

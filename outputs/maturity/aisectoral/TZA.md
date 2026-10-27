@@ -8,6 +8,6 @@
 
 **Results reported.** DHIS2 reports the triage tool [cut average time to triage for most alerts from 36 hours to almost instantaneous](<https://dhis2.org/ai-driven-alert-triage-tanzania/>). TRA says stamp inspections [rose to 1 million scans in 2024 from 250,000 the year before](<https://dailynews.co.tz/ai-transforms-tras-measures-to-curb-falsified-electronic-stamps/>).
 
-***Noted, not assessed***. [e-IDSR](<https://dhis2.org/ai-driven-alert-triage-tanzania/>).
+***Also on file***. [e-IDSR](<https://dhis2.org/ai-driven-alert-triage-tanzania/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

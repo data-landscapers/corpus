@@ -6,8 +6,8 @@
 
 **Several programmes.** [DGPSN says RNU data lowered data-collection costs for one-time interventions (exceptional cash transfers, Covid-19 assistance) beside the PNBSF cash transfer programme it serves](<https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf>).
 
-***Noted, not assessed***. [ERP Pass](<https://ledakarois.sn/article/intrants-agricoles-la-distribution-passe-au-numerique-avec-l-application-erp-pass>).
+***Also on file***. [ERP Pass](<https://ledakarois.sn/article/intrants-agricoles-la-distribution-passe-au-numerique-avec-l-application-erp-pass>).
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

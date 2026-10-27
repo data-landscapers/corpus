@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is [the 24 digital lines in the 2026 budget, 661,855,897 dalasi in all](<https://mofea.gov.gm/wp-content/uploads/2026/01/Final-Approved-2026-Budget-5.1.26-V2.pdf>), a budget document dated 5 January 2026 that names no fund, levy or assigned tax for them.
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Nothing held shows the government saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying.
+***Not found***. Nothing found shows the government saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying.

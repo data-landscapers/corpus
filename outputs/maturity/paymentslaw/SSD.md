@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** Under the amended regulation [non-bank e-money issuers are licensed](<https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/>): standalone payment providers must set up a separate company, seek the central bank's approval and pay a filing fee of 65 million South Sudanese pounds. The same rules [require every digital payment platform to connect to the National Payment System through a licensed switch](<https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/>), so that customers can send money between providers.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

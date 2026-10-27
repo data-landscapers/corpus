@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "",
-   "gaps": "Nothing held gives a survey share of adults with an account.",
+   "gaps": "Nothing found gives a survey share of adults with an account.",
    "note": "First pass: counted from the four questions by study-ladder-paymentsuptake.py."
   }
  ]

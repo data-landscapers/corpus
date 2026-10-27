@@ -2,6 +2,6 @@
 
 ## Data sharing law
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
+***Not found***. Nothing found names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.

@@ -8,6 +8,6 @@
 
 **Published regularly.** [ZIMSTAT's Transport and Infrastructure page says its quarterly statistics are compiled from administrative data obtained from relevant institutions; Transport Statistics Reports are listed for 2023 Q3, 2023 Q4, 2024 Q4, 2025 Q1, 2025 Q2 and 2025 Q4](<https://zimstat.co.zw/transport-and-infrastructure/>).
 
-***Noted, not assessed***. [CRVS-Health interoperability platform](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-zimbabwe.pdf>); [Zimbabwe civil registration and vital statistics system](<https://www.unicef.org/zimbabwe/press-releases/birth-registration-steadily-increases-worldwide-150-million-children-still-invisible>); [2025 Annual Gross Domestic Product figures](<https://zimstat.co.zw/zimstat-releases-2025-annual-gross-domestic-product-gdp-figures/>).
+***Also on file***. [CRVS-Health interoperability platform](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-zimbabwe.pdf>); [Zimbabwe civil registration and vital statistics system](<https://www.unicef.org/zimbabwe/press-releases/birth-registration-steadily-increases-worldwide-150-million-children-still-invisible>); [2025 Annual Gross Domestic Product figures](<https://zimstat.co.zw/zimstat-releases-2025-annual-gross-domestic-product-gdp-figures/>).
 
-***Not held***. No source held shows statistics from three administrative sources, each published twice since October 2023.
+***Not found***. No source found shows statistics from three administrative sources, each published twice since October 2023.

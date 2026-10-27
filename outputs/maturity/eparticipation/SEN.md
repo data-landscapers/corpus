@@ -6,8 +6,8 @@
 
 **Answers published.** [ARTP published on its website a synthesis report of the twenty-one contributions to the FTTx consultation, setting out points of convergence and the range of positions expressed](<https://artp.sn/partage-infrastructures/fttx>).
 
-**Required.** No source held since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://artp.sn/partage-infrastructures/fttx>).
+**Required.** No source found since October 2023 says a rule requires drafts to be put online for public comment. The nearest held fact: [the one given above](<https://artp.sn/partage-infrastructures/fttx>).
 
-***Noted, not assessed***. [Civic Hero](<https://campus.groupe-afd.fr/2026/10/14/connexions-citoyennes-2026-une-nouvelle-generation-de-jeunes-leaders-africains-mobilise-le-numerique-au-service-de-la-democratie/>).
+***Also on file***. [Civic Hero](<https://campus.groupe-afd.fr/2026/10/14/connexions-citoyennes-2026-une-nouvelle-generation-de-jeunes-leaders-africains-mobilise-le-numerique-au-service-de-la-democratie/>).
 
-***Not held***. No source held since October 2023 says a rule requires drafts to be put online for public comment.
+***Not found***. No source found since October 2023 says a rule requires drafts to be put online for public comment.

@@ -243,120 +243,120 @@ A digital channel for complaints about public services was under way in 2025; on
 
 ### Botswana: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Cameroon: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Cape Verde: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Cote d'Ivoire: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Equatorial Guinea: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Mauritius: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Niger: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Seychelles: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### South Sudan: Unplaced
 
-Nothing held since 2023 names a digital channel for complaints about public services, so no stage is set.
+Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a digital channel for complaints about public services is under way or in service.
+Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
 ### Angola: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Burundi: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Central African Republic: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Congo: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Eritrea: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Guinea: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Mali: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Sierra Leone: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.
 
 ### Uganda: No evidence
 
-Nothing held names a digital channel for complaints about public services or says there is none, so no stage is set.
+Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 
-Not established: Nothing held says whether people can complain about public services online.
+Not established: Nothing found says whether people can complain about public services online.

@@ -2,6 +2,6 @@
 
 ## Address register
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names an addressing system, or says there is none.
+***Not found***. Nothing found names an addressing system, or says there is none.

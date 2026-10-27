@@ -12,6 +12,6 @@
 
 **Primary schools doing the digital input.** In February 2019 [the system was still to be developed, over twelve months following a three-month technical document](<https://iite.unesco.org/news/mauritius-emis-support-and-monitoring-of-education-2030-agenda/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing dated since February 2019 says whether the system was built, piloted or used in any school, at which level, or how pupils' records are kept. No ownership, plan or financing dated within the last three years is held.
+***Not found***. Nothing dated since February 2019 says whether the system was built, piloted or used in any school, at which level, or how pupils' records are kept. No ownership, plan or financing dated within the last three years has been found.

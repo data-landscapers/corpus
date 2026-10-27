@@ -8,6 +8,6 @@
 
 **Enforcement reported.** [In October 2025 the Bank of Ghana, with EOCO and the Cyber Security Authority, said it had uncovered and shut down more than 400 illegal online lending operators](<https://www.graphic.com.gh/business/business-news/ghana-news-bog-eoco-crack-down-on-400-illegal-online-lenders.html>). [Its 2023 complaints report counts 23 complaints against payment systems and service providers, with digital-fraud complaints up 48% on 2022](<https://www.bog.gov.gh/wp-content/uploads/2024/07/2023-COMPLAINTS-MANAGEMENT-REPORT_Publication.pdf>).
 
-***Noted, not assessed***. [mobile money](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>); [e-cedi](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>).
+***Also on file***. [mobile money](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>); [e-cedi](<https://www.graphic.com.gh/news/general-news/ghana-news-bog-to-leverage-digital-transaction-data-to-support-smes.html>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

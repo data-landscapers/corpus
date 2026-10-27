@@ -6,6 +6,6 @@
 
 **Money and results.** The [review of the 2018 National Broadband Policy's implementation](<https://www.itu.int/hub/publication/d-uga-natbrpo-2024/>), published on 12 January 2026 by the Ministry of ICT and National Guidance and the ITU, sets out a matrix covering each of the policy's objectives and strategies. For each it lists the activities undertaken, the outcomes, the level of implementation reported by stakeholders, the challenges met and the measures proposed to mitigate them.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figures against the plan's targets are held. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. No figures against the plan's targets have been found. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.

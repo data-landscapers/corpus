@@ -11,7 +11,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "NGA-004;NGA-001;NGA-013",
-   "gaps": "No source held says the government has adopted a cadre or scheme of service for its IT staff.",
+   "gaps": "No source found says the government has adopted a cadre or scheme of service for its IT staff.",
    "note": "Counted from the four questions by study-ladder-itcapacity.py.",
    "as_at": "2026-10-17"
   }

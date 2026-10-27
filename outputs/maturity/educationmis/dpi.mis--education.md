@@ -80,7 +80,7 @@ The education information system held a record for each learner in 2025; a link 
 
 ### Angola: 3 Established
 
-Education statistics were collected through the ministry's information system in 2025; a record for each learner is not known.
+Education statistics were collected through the ministry's information system in 2025; no source found reports a record for each learner.
 
 - Angola's Ministry of Education planning office (GEPE) says SIGE is in operation and the 2022/2023 education yearbook's data were collected through it, though the platform is "not a finished product" and structured Excel sheets were used to finish verification and indicator calculation ([source, 2025](https://www.ine.gov.ao/publicacoes/detalhes/MzgzMzA%3D)).
 
@@ -98,7 +98,7 @@ The school census was run through an education information system in 2024; a rec
 
 ### Cameroon: 3 Established
 
-Education statistics were published through an online information system in 2024; a record for each learner is not known.
+Education statistics were published through an online information system in 2024; no source found reports a record for each learner.
 
 - The National Institute of Statistics says more specific education data than its 2021-2022 sectoral yearbook can be accessed via the online EMIS industry platform ([source, 2024-06-06](https://ins-cameroun.cm/en/statistique/statistical-yearbook-of-the-education-and-training-sector-in-cameroon-2021-2022/)).
 
@@ -309,60 +309,60 @@ An education information system was under way in 2024; a school census run throu
 
 ### Botswana: Unplaced
 
-Nothing held since 2023 names a national education information system, so no stage is set.
+Nothing found since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
+Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
 
 ### Central African Republic: Unplaced
 
-Nothing held since 2023 names a national education information system, so no stage is set.
+Nothing found since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
+Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
 
 ### Comoros: Unplaced
 
-Nothing held since 2023 names a national education information system, so no stage is set.
+Nothing found since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
+Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
 
 ### Niger: Unplaced
 
-Nothing held since 2023 names a national education information system, so no stage is set.
+Nothing found since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
+Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
 
 ### Senegal: Unplaced
 
-Nothing held since 2023 names a national education information system, so no stage is set.
+Nothing found since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
+Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
 
 ### South Sudan: Unplaced
 
-Nothing held since 2023 names a national education information system, so no stage is set.
+Nothing found since 2023 names a national education information system, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether an education information system is under way or in service.
+Not established: Nothing found since October 2023 says whether an education information system is under way or in service.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a national education information system or says there is none, so no stage is set.
+Nothing found names a national education information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
+Not established: Nothing found says whether the education ministry holds its statistics in an information system.
 
 ### Mauritania: No evidence
 
-Nothing held names a national education information system or says there is none, so no stage is set.
+Nothing found names a national education information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
+Not established: Nothing found says whether the education ministry holds its statistics in an information system.
 
 ### Mauritius: No evidence
 
-Nothing held names a national education information system or says there is none, so no stage is set.
+Nothing found names a national education information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
+Not established: Nothing found says whether the education ministry holds its statistics in an information system.
 
 ### Tunisia: No evidence
 
-Nothing held names a national education information system or says there is none, so no stage is set.
+Nothing found names a national education information system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the education ministry holds its statistics in an information system.
+Not established: Nothing found says whether the education ministry holds its statistics in an information system.

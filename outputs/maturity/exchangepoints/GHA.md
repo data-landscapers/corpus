@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [GVA of Cote d'Ivoire holds one of four 100 Gbps ports at Accra-IX, as seen in public routing data in August 2026, so a network from another country is a member there](<https://tech.africa/accra-three-internet-exchanges/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. [MDXi Appolonia City data centre](<https://www.appolonia.com.gh/news/mainone-data-centre-opens/>).
+***Also on file***. [MDXi Appolonia City data centre](<https://www.appolonia.com.gh/news/mainone-data-centre-opens/>).
 
-***Not held***. No source held gives the exchange's traffic at two dates a year apart showing growth.
+***Not found***. No source found gives the exchange's traffic at two dates a year apart showing growth.

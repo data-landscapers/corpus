@@ -342,18 +342,18 @@ A 2025 source says no exchange point operates in the country.
 
 ### Algeria: No evidence
 
-Nothing held names an exchange point in service, or says there is none, so no stage is set.
+Nothing found names an exchange point in service, or says there is none, so no stage is set.
 
-Not established: Nothing held names an exchange point, or says there is none.
+Not established: Nothing found names an exchange point, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held names an exchange point in service, or says there is none, so no stage is set.
+Nothing found names an exchange point in service, or says there is none, so no stage is set.
 
-Not established: Nothing held names an exchange point, or says there is none.
+Not established: Nothing found names an exchange point, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names an exchange point in service, or says there is none, so no stage is set.
+Nothing found names an exchange point in service, or says there is none, so no stage is set.
 
-Not established: Nothing held names an exchange point, or says there is none.
+Not established: Nothing found names an exchange point, or says there is none.

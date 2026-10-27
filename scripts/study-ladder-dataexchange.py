@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "dataexchange"
 SUB = "exchange"
-GAPS = {'4': 'No source held since October 2023 gives a figure for the exchanges through the platform.', '3': 'No source held since October 2023 counts ten or more institutions or systems connected.', '2': 'No source held since October 2023 says the platform is in service.', '1': 'No source held since October 2023 says a government data exchange platform is under way.', '5': ''}
-EMPTY = "Nothing held names a government data exchange platform, or says there is none."
-UNPLACED = "Nothing held since October 2023 names a government data exchange platform."
+GAPS = {'4': 'No source found since October 2023 gives a figure for the exchanges through the platform.', '3': 'No source found since October 2023 counts ten or more institutions or systems connected.', '2': 'No source found since October 2023 says the platform is in service.', '1': 'No source found since October 2023 says a government data exchange platform is under way.', '5': ''}
+EMPTY = "Nothing found names a government data exchange platform, or says there is none."
+UNPLACED = "Nothing found since October 2023 names a government data exchange platform."
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

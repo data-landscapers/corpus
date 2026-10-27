@@ -12,6 +12,6 @@
 
 **Last twelve months.** TechHive Advisory, writing on 5 November 2025, [described the regime as enacted in June 2025](<https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law>) and the commission as created by it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The date the Code was promulgated or came into force, and whether the CNDP has been constituted or its members appointed. No regulation under the law, no decision under it and no event in the twelve months to 30 September 2026 is held.
+***Not found***. The date the Code was promulgated or came into force, and whether the CNDP has been constituted or its members appointed. No regulation under the law, no decision under it and no event in the twelve months to 30 September 2026 has been found.

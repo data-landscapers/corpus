@@ -16,6 +16,6 @@
 
 **Last twelve months.** The minister's statement that the policy is being implemented [dates from September 2022](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>).
 
-***Noted, not assessed***. [Emerging Comoros Plan](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>).
+***Also on file***. [Emerging Comoros Plan](<https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/>).
 
-***Not held***. No text of the policy is held, and nothing gives its adoption date, its period, a delivery plan, a report against it, a mandated body or a budget line. Nothing on the policy is dated after September 2022.
+***Not found***. No text of the policy has been found, and nothing gives its adoption date, its period, a delivery plan, a report against it, a mandated body or a budget line. Nothing on the policy is dated after September 2022.

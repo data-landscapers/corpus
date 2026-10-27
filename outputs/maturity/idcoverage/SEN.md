@@ -2,6 +2,6 @@
 
 ## Registration of entire population
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held since October 2023 counts the people holding a national ID.
+***Not found***. Nothing found since October 2023 counts the people holding a national ID.

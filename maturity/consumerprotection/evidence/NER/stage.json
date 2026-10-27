@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-001",
-      "gaps": "No source held since October 2023 says: are consumer rules for digital finance being drafted.",
+      "gaps": "No source found since October 2023 says: are consumer rules for digital finance being drafted.",
       "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
       "as_at": "2026-10-18"
     }

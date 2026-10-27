@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "refugees"
 SUB = "displaced"
-GAPS = {'4': 'No source held since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.', '3': 'No source held since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.', '2': 'No source held since October 2023 says: are they registered and documented.', '1': 'No source held since October 2023 says: is registration or digital inclusion under way.', '5': ''}
-EMPTY = 'Nothing held says whether refugees or displaced people are registered or can use digital services.'
-UNPLACED = 'Nothing held since October 2023 says whether refugees or displaced people are registered or can use digital services.'
+GAPS = {'4': 'No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.', '3': 'No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.', '2': 'No source found since October 2023 says: are they registered and documented.', '1': 'No source found since October 2023 says: is registration or digital inclusion under way.', '5': ''}
+EMPTY = 'Nothing found says whether refugees or displaced people are registered or can use digital services.'
+UNPLACED = 'Nothing found since October 2023 says whether refugees or displaced people are registered or can use digital services.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

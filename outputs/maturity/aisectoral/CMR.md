@@ -6,8 +6,8 @@
 
 **Several sectors.** Social security and secondary education each have AI in service, in separate accounts: the [CNPS tools](<https://theguardianpostcameroon.com/post/6734/en/homeat-govt-artificial-intelligence-workshop-cnps-director-general-showcases-ai-use-in-social-security-services>) and the [school simulations](<https://www.digitalbusiness.africa/e-education-cameroun-le-minesec-valide-la-simulation-ia-avantages-et-limites/>).
 
-**Results reported.** No measured results of a sectoral AI system in service are held. The [tax model's reported gains](<https://www.businessincameroon.com/public-management/2708-16627-cameroon-built-ai-claims-97-2-precision-in-tax-fraud-detection-but-revenue-impact-remains-unclear>) come from its authors' test, not from a system in service.
+**Results reported.** No measured results of a sectoral AI system in service have been found. The [tax model's reported gains](<https://www.businessincameroon.com/public-management/2708-16627-cameroon-built-ai-claims-97-2-precision-in-tax-fraud-detection-but-revenue-impact-remains-unclear>) come from its authors' test, not from a system in service.
 
-***Noted, not assessed***. [AI Doctor](<https://www.cnps.cm/fr/post/visite-medicale-preventive-la-cnps-deploie-le-dispositif-ai-doctor.html>).
+***Also on file***. [AI Doctor](<https://www.cnps.cm/fr/post/visite-medicale-preventive-la-cnps-deploie-le-dispositif-ai-doctor.html>).
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

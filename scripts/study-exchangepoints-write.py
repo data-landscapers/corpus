@@ -27,6 +27,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "exchangepoints"
@@ -129,7 +130,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         if not said and cell["stage"] == "1":
             said = [f"With {link(top['url'], 'no exchange point in service')}, none reaches beyond one city."]
         elif not said:
-            said = [f"Nothing held names a second city or networks from other countries at "
+            said = [f"Nothing found names a second city or networks from other countries at "
                     f"{link(top['url'], 'the exchange')}."]
         used = sum(len(s.split()) for s in said)
         body = sentences(routes, src, ROOM - used - len(RESTS[cell["stage"]].split()) - len(LENGTH.split()))
@@ -138,16 +139,16 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         top = next(r for r in rows if r["row_id"] == src[0])
         short = SHORT[cell["stage"]].format(y=top["as_of"][:4])
     else:
-        short = ("Nothing held names an exchange point in service, or says there is none, "
+        short = ("Nothing found names an exchange point in service, or says there is none, "
                  "so no stage is set.")
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

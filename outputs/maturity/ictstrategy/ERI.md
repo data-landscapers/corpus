@@ -16,6 +16,6 @@
 
 **Last twelve months.** [The UNECA statement that Eritrea has no national ICT policy](<https://archive.uneca.org/sites/default/files/PublicationFiles/03_harmonization_tic-final_en.pdf>) dates from April 2009.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. The only statement that Eritrea has no ICT sector policy is UNECA's of April 2009, and nothing later confirms or contradicts it. Nothing is held on governance, finance or the last twelve months.
+***Not found***. The only statement that Eritrea has no ICT sector policy is UNECA's of April 2009, and nothing later confirms or contradicts it. Nothing is held on governance, finance or the last twelve months.

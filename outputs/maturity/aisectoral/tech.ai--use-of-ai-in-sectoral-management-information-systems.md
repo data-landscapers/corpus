@@ -90,7 +90,7 @@ Ghana uses AI in tax and, since March 2026, in customs valuation, where it clear
 
 ### Kenya: 5 Leading
 
-The health insurer's AI blocked Sh12.7 billion of claims by 2026, and AI serves education, farming and health; how widely is not known.
+The health insurer's AI blocked Sh12.7 billion of claims by 2026, and AI serves education, farming and health; no source found says how widely.
 
 - Duale said the digital gatekeeper had flagged, rejected and left unpaid Sh12.7 billion of claims by late February 2026, with 1,188 fraudulent files sent to the DCI, 26 suspects charged and 248 facilities under probe ([source, 2026-02-27](https://www.the-star.co.ke/news/2026-02-27-duale-ai-blocked-sh127bn-fake-claims-at-sha)).
 - Health CS Aden Duale said investigations had uncovered irregular payments of Sh10.6 billion, credited to new safeguards embedded in the SHA system ([source, 2025-12-04](https://www.the-star.co.ke/news/2025-12-04-ai-system-flaws-push-sha-into-chaos-mps)).
@@ -112,7 +112,7 @@ AI transcription of HIV registers cut errors to 0.4% by 2025; farming and tax AI
 
 ### Morocco: 5 Leading
 
-Customs AI targeting found 34 million dirhams of evaded duties in 2024, and AI also serves medicines licensing and education; how widely is not known.
+Customs AI targeting found 34 million dirhams of evaded duties in 2024, and AI also serves medicines licensing and education; no source found says how widely.
 
 - Morocco's customs administration (ADII) reports that in 2024 its BADR system, described as applied artificial intelligence, processed 1,540 fraud alerts and was enriched by 434 new rules and 199 updates, alongside predictive algorithms for targeting ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
 - The ADII 2024 activity report says algorithm-based targeting detected 34 MDH of evaded duties and taxes (24 MDH in 2023), of which 20 MDH was recovered and 14 MDH levied as fines ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
@@ -161,13 +161,13 @@ Measured results of AI in a public sector's system were reported in 2026.
 
 ### Benin: 3 Established
 
-Customs runs AI risk profiling, by the vendor's account in 2025; AI in a second sector and measured results are not known.
+Customs runs AI risk profiling, by the vendor's account in 2025; no source found reports AI in a second sector and measured results.
 
 - Webb Fontaine says Benin's customs system Webb Customs, equipped with AI, now bases risk management on intelligent profiling of importers and goods and automatically detects fraud patterns ([source, 2025-06-30](https://webbfontaine.com/news/webb-customs-the-new-digital-weapon-against-customs-fraud-in-benin)).
 
 ### Botswana: 3 Established
 
-The national TB programme deployed AI chest X-ray reading in 2025; AI in a second sector and measured results are not known.
+The national TB programme deployed AI chest X-ray reading in 2025; no source found reports AI in a second sector and measured results.
 
 - Vertice Mobile Healthcare, a vendor partner, says Botswana's national TB programme deployed Qure.ai's AI chest X-ray interpretation in April 2025 and trained local teams ([source, 2025-04](https://vertice.co.za/advancing-tb-screening-in-botswana-with-quire-ai-technology/)).
 
@@ -180,7 +180,7 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 ### Cape Verde: 3 Established
 
-AI-read heart and eye tests reached all islands with the health ministry in 2026; AI in a second sector and measured results are not known.
+AI-read heart and eye tests reached all islands with the health ministry in 2026; no source found reports AI in a second sector and measured results.
 
 - The Cabo Verdean American Medical Society, working with the Ministry of Health, says it has distributed cloud ECG devices across all islands that make automatic diagnoses with AI, and that AI lets nurses diagnose cataracts, glaucoma and retinopathy ([source, 2026-04](https://www.asemana.cv/index.php/atualidade/23296-missoes-medicas-do-projeto-continuidade-dos-eua-reforcam-saude-em-cabo-verde-com-tecnologia-de-ponta)).
 
@@ -199,13 +199,13 @@ Egypt has AI in service in justice and in crop mapping, reported separately; no 
 
 ### Eritrea: 3 Established
 
-The health ministry's AI chest X-ray units were deployed for TB screening in 2024; AI in a second sector and measured results are not known.
+The health ministry's AI chest X-ray units were deployed for TB screening in 2024; no source found reports AI in a second sector and measured results.
 
 - Delft Imaging says Eritrea's Ministry of Health had 2 Delft Light and 6 CAD4TB units deployed in 2024 to detect TB-related abnormalities automatically, and expanded the roll-out with 8 more CAD4TB in 2026 ([source, 2024](https://delftimaging.com/impact/eritrea/)).
 
 ### Eswatini: 3 Established
 
-Eswatini's public hospitals have screened for diabetic eye disease with AI since 2025; AI in other sectors and its results are not known.
+Eswatini's public hospitals have screened for diabetic eye disease with AI since 2025; no source found reports AI in other sectors and its results.
 
 - Swazi24 reports that an AI-powered diabetic retinopathy diagnostic system, from the Taiwan Technical Mission's NCD Project, was launched and is operational at six public hospitals and health centres (Mbabane Government, Piggs Peak, Mankayane, RFM, Dvokolwako, Emkhuzweni), officiated by the Minister of Health ([source, 2025-08-07](https://swazi24.com/20702/news/health/six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech/)).
 
@@ -218,7 +218,7 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 ### Liberia: 3 Established
 
-AI chest X-ray reading served TB screening in hospitals in 2024-25; AI in a second sector and measured results are not known.
+AI chest X-ray reading served TB screening in hospitals in 2024-25; no source found reports AI in a second sector and measured results.
 
 - Otuba Paul of PIH Liberia says AI-powered chest X-ray interpretation (qXR v3.2) was deployed to support TB screening at James Jenkins Dossen Hospital in Maryland County from March 2023 to January 2025, with the National Leprosy and Tuberculosis Control Program and the county health team, and helped identify Xpert-negative and asymptomatic patients ([source, 2025-01](https://www.linkedin.com/posts/otuba-paul-29344955_cphia2025-tb-digitalhealth-activity-7387896239935369216-fBQX)).
 - The Executive Mansion says four AI X-ray machines for TB screening, donated with Global Fund support, were dedicated and distributed to four hospitals in Montserrado and Margibi, producing TB reports in under 15 seconds ([source, 2024-08-26](https://www.emansion.gov.lr/media/press-release/first-lady-dedicates-four-ai-x-ray-machines-tb-diagnosis)).
@@ -238,7 +238,7 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 ### Namibia: 3 Established
 
-The health ministry introduced AI chest X-ray TB screening in 2025; measured results are not known.
+The health ministry introduced AI chest X-ray TB screening in 2025; no source found reports measured results.
 
 - Health Minister Esperance Luvindao said Namibia has introduced AI-powered digital chest X-ray technology for tuberculosis screening and early diagnosis, and that she was screened with it at a World TB Day event in Omusati ([source, 2025-03-28](https://english.news.cn/africa/20250329/a143c7051c3f442db05e338cfee1f561/c.html)).
 - Two AI tutoring labs were launched on 21 September 2026 at Angra Pequena Senior Secondary School, a government school in Luderitz, where all 436 learners can access personalised tutoring and the 20 teachers have teaching-assistant support; YYeni AI says the programme was already operating before the launch, funded by BW Kudu and Namport ([source, 2026-09-21](https://aitsafrika.com/education/namibias-first-ai-tutoring-labs-launched-in-lderitz-nmh018656-3014-22949-22972)).
@@ -257,7 +257,7 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 ### Rwanda: 3 Established
 
-The public health system uses AI to read chest X-rays for TB in 2026; AI in a second sector and measured results are not known.
+The public health system uses AI to read chest X-rays for TB in 2026; no source found reports AI in a second sector and measured results.
 
 - The Global Fund case study says Rwanda uses AI in its public health system, with mobile vans screening for TB using AI software, computer-aided diagnostics reading digital chest X-rays to detect TB, and AI-assisted triage for TB case finding ([source, 2026-01](https://www.theglobalfund.org/media/spalexqj/publication_rwanda-digital-health_casestudy_en.pdf)).
 - The Conversation's authors say Ethiopia and Rwanda used AI in TB and cervical cancer screening, in a regulatory vacuum ([source, 2026-06-10](https://theconversation.com/ai-regulation-in-africa-why-copying-the-european-model-wont-work-283524)).
@@ -288,7 +288,7 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 
 ### South Sudan: 3 Established
 
-AI-assisted X-ray machines for TB detection were installed at two state hospitals in 2023; measured results are not known.
+AI-assisted X-ray machines for TB detection were installed at two state hospitals in 2023; no source found reports measured results.
 
 - UNDP says the Ministry of Health, with UNDP and Global Fund support, installed two portable AI-assisted digital X-ray machines for TB case detection at Torit and Rumbek state hospitals in December 2023, with four more to follow ([source, 2023-12](https://www.undp.org/south-sudan/blog/technology-accelerates-tb-detection-south-sudan)).
 
@@ -336,48 +336,48 @@ An AI tool for a public sector's system was under way in 2024; none in service i
 
 ### Chad: No evidence
 
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
+Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a public sector's system uses AI.
+Not established: Nothing found says whether a public sector's system uses AI.
 
 ### Congo: No evidence
 
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
+Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a public sector's system uses AI.
+Not established: Nothing found says whether a public sector's system uses AI.
 
 ### Gabon: No evidence
 
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
+Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a public sector's system uses AI.
+Not established: Nothing found says whether a public sector's system uses AI.
 
 ### Guinea: No evidence
 
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
+Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a public sector's system uses AI.
+Not established: Nothing found says whether a public sector's system uses AI.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
+Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a public sector's system uses AI.
+Not established: Nothing found says whether a public sector's system uses AI.
 
 ### Mali: No evidence
 
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
+Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a public sector's system uses AI.
+Not established: Nothing found says whether a public sector's system uses AI.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
+Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a public sector's system uses AI.
+Not established: Nothing found says whether a public sector's system uses AI.
 
 ### Sudan: No evidence
 
-Nothing held names AI in a sector's public system or says there is none, so no stage is set.
+Nothing found names AI in a sector's public system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether a public sector's system uses AI.
+Not established: Nothing found says whether a public sector's system uses AI.

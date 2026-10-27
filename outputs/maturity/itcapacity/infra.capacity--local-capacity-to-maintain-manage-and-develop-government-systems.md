@@ -302,90 +302,90 @@ A 2025 source says a government body relies on outside suppliers to run its syst
 
 ### Guinea: Unplaced
 
-No source held from 2023 or later says government staff run its systems, so no stage is set.
+No source found from 2023 or later says government staff run its systems, so no stage is set.
 
-Not established: No source held from 2023 or later says government staff run or maintain any of its systems.
+Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
 
 ### Guinea-Bissau: Unplaced
 
-No source held from 2023 or later says government staff run its systems, so no stage is set.
+No source found from 2023 or later says government staff run its systems, so no stage is set.
 
-Not established: No source held from 2023 or later says government staff run or maintain any of its systems.
+Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
 
 ### South Sudan: Unplaced
 
-No source held from 2023 or later says government staff run its systems, so no stage is set.
+No source found from 2023 or later says government staff run its systems, so no stage is set.
 
-Not established: No source held from 2023 or later says government staff run or maintain any of its systems.
+Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
 
 ### Cameroon: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Central African Republic: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Comoros: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### DR Congo: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Eritrea: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Gambia: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Lesotho: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Malawi: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Morocco: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Niger: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.
 
 ### Sudan: No evidence
 
-Nothing held says who builds or runs the government's systems, so no stage is set.
+Nothing found says who builds or runs the government's systems, so no stage is set.
 
-Not established: Nothing held says who builds or runs the government's computer systems.
+Not established: Nothing found says who builds or runs the government's computer systems.

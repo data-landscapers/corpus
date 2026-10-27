@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ETH-003;ETH-001",
-   "gaps": "No source held since October 2023 says the system is linked to surveillance, supply chain or a register.",
+   "gaps": "No source found since October 2023 says the system is linked to surveillance, supply chain or a register.",
    "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
   }
  ]

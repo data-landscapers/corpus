@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** [Article 20 of the law has payment services run by a specialised payment establishment](<https://www.cmf.tn/sites/default/files/pdfs/reglementation/textes-reference/loi2016_48_fr.pdf>), which is not a bank, with minimum capital of 5 million dinars. In March 2026 [OFT Tunisie, a subsidiary of Ooredoo, received definitive authorisation](<https://www.lapresse.tn/2026/03/16/oft-tunisie-obtient-lautorisation-definitive-pour-exercer-comme-etablissement-de-paiement/>) as one. [The 2026 circular lets payment establishments open client payment accounts](<https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf>), transfer funds and issue electronic payment instruments. No rule is named that requires providers to connect to each other.
 
-***Noted, not assessed***. [TUNPAY](<https://www.bct.gov.tn/bct/siteprod/documents/Note_2026_132_fr.pdf>).
+***Also on file***. [TUNPAY](<https://www.bct.gov.tn/bct/siteprod/documents/Note_2026_132_fr.pdf>).
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

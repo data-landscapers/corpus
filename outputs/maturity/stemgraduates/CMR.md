@@ -6,6 +6,6 @@
 
 **Research and education network.** A research and education network is asked about only once STEM graduates reach 40 per cent, so with [the figure below that line](<https://databrowser.uis.unesco.org/>) none was looked for in this first pass. [Scoop Afrique, citing higher education ministry communiques, said in August 2026 that the China-backed E-National Higher Education Network has given the state universities ten digital development centres linked by fibre](<https://www.scoop-afrique.com/articles/ia-et-education-le-pari-camerounais-presente-a-pekin>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure of 40 per cent of tertiary graduates or more is held.
+***Not found***. No figure of 40 per cent of tertiary graduates or more has been found.

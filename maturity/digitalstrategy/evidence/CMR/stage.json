@@ -14,7 +14,7 @@
       "cap": "",
       "flags": "lapsed",
       "stage_sources": "CMR-005;CMR-007;CMR-006;CMR-003;CMR-001",
-      "gaps": "The plan's own text gives 2016-2020 (CMR-006) while the ITU repository gives 2016-2025 (CMR-003); both end before 2026. The update of the plan (Strategie numerique du Cameroun) is at diagnostic stage awaiting government approval, with no text or period. No reporting against the plan is held, and no finance fact falls inside the 36-month window.",
+      "gaps": "The plan's own text gives 2016-2020 (CMR-006) while the ITU repository gives 2016-2025 (CMR-003); both end before 2026. The update of the plan (Strategie numerique du Cameroun) is at diagnostic stage awaiting government approval, with no text or period. No reporting against the plan has been found, and no finance fact falls inside the 36-month window.",
       "note": "Instrument: Plan strategique Cameroun numerique 2020, adopted with public text, but its period has ended and the update is only being drafted, so the cell is stage 2, lapsed. Stage 3 needs a strategy inside its period."
     }
   ]

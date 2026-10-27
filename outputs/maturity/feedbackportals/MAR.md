@@ -8,6 +8,6 @@
 
 **Results published.** [Morocco World News reports Chikaya.ma processed 66.14% of 2025 complaints, with a 58.69% satisfaction rate, an average processing time of 16 days and more than 14,000 cases reopened](<https://www.moroccoworldnews.com/2026/01/273688/moroccan-citizens-filed-163694-complaints-against-public-administrations-in-2025/>). [Chikaya.ma statistics give 1,406,000 complaints processed (65.46%), an average processing time of 12 days and 60.94% positive feedback](<https://aujourdhui.ma/societe/chikaya-ma-plus-de-16-million-de-plaintes-deposees-jusqua-present>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -6,8 +6,8 @@
 
 **Digital services.** [Biometric Update, citing SOS Media Burundi, says refugees who have received their ID cards have been able to open bank accounts and buy SIM cards](<https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees>). [NIDA says the national digital ID registration exercise covers refugees, with camp refugees registering at camp level and urban refugees at sector or cell offices, on presenting a refugee ID or proof of registration](<https://www.newtimes.co.rw/article/33156/news/technology/digital-id-nearly-15m-enrolled-registration-reaches-kigali>).
 
-**Inclusion counted.** No source held since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees>).
+**Inclusion counted.** No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees>).
 
-***Noted, not assessed***. [National digital ID registration](<https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees>); [Electronic identity card registration for non-Rwandans](<https://www.newtimes.co.rw/article/33209/news/technology/where-can-refugees-foreigners-register-for-digital-id>); [digital ID](<https://www.newtimes.co.rw/article/33156/news/technology/digital-id-nearly-15m-enrolled-registration-reaches-kigali>).
+***Also on file***. [National digital ID registration](<https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees>); [Electronic identity card registration for non-Rwandans](<https://www.newtimes.co.rw/article/33209/news/technology/where-can-refugees-foreigners-register-for-digital-id>); [digital ID](<https://www.newtimes.co.rw/article/33156/news/technology/digital-id-nearly-15m-enrolled-registration-reaches-kigali>).
 
-***Not held***. No source held since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.
+***Not found***. No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.

@@ -44,8 +44,8 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No count of the authority's decisions, fines or complaints settled, for a period "
          "ending in the last two years, is held.",
-    "3": "No ruling of the authority against a named organisation in the last three years is held.",
-    "2": "No source held says the authority's head or members have been appointed.",
+    "3": "No ruling of the authority against a named organisation in the last three years has been found.",
+    "2": "No source found says the authority's head or members have been appointed.",
     "1": "",
 }
 # What the parent's reading adds to a cell's gaps: a fact the count cannot carry.
@@ -54,7 +54,7 @@ ADD = {
            "members are not yet appointed; the commission is counted until a source says it has gone.",
     "NER": "A report of 13 June 2026 says a decree abolished the authority and split its powers "
            "between two ministries; the decree is not held, and nothing says the ministries are doing the job.",
-    "TUN": "The members were appointed in April 2021 for three years and no renewal is held; a "
+    "TUN": "The members were appointed in April 2021 for three years and no renewal has been found; a "
            "source dated after the as-at says the authority is at a standstill.",
     "GHA": "The one decision held from the last three years is a court's, which belongs to the law row.",
     "KEN": "A count of 215 determinations runs to March 2025 with no period, and a commentator's "
@@ -109,7 +109,7 @@ def stage(rows: list[dict], as_at: dt.date, law_enacted: bool) -> dict:
     ids = lambda pairs, n=2: [r["row_id"] for _, r in pairs[:n]]  # noqa: E731
     if not rows:
         return {"stage": "no evidence", "standing": "", "rulings": "", "sources": [],
-                "gaps": "Nothing held names a data protection authority or says there is none."}
+                "gaps": "Nothing found names a data protection authority or says there is none."}
     if appointed and rep:
         s, src = "5", ids(rep) + ids(con, 1)
     elif appointed and ru:

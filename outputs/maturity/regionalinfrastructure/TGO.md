@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** CSquared's chief executive [said in March 2024](<https://capacityglobal.com/news/exclusive-equianos-togo-landing-station-sees-4x-increase-in-traffic/>) that the company had connected its cross-border circuits from Togo into Ghana and Benin. He said it had provided capacity to MTN Ghana and Vodafone Ghana through the Equiano landing station in Lomé, according to the March 2024 report in Capacity.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held gives the date the Lagos to Accra route is ready for service, or figures for capacity sold or traffic carried across Togo's borders.
+***Not found***. Nothing found gives the date the Lagos to Accra route is ready for service, or figures for capacity sold or traffic carried across Togo's borders.

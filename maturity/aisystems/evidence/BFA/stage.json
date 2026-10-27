@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BFA-004",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "L'Essentiel.bf, built by CITADEL and the Data Lab and launched on 15 October 2026, is an AI service in use that summarises and voices national news in French and Mooré. No AI computing facility in service is held, so it stops at stage 3.",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "L'Essentiel.bf, built by CITADEL and the Data Lab and launched on 15 October 2026, is an AI service in use that summarises and voices national news in French and Mooré. No AI computing facility in service has been found, so it stops at stage 3.",
       "as_at": "2026-10-20"
     }
   ]

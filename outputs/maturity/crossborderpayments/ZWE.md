@@ -8,6 +8,6 @@
 
 **Volumes reported.** [Afreximbank's Olowononi cites Zimbabwe statistics of $5.8 million a month through PAPSS](<https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/>).
 
-***Noted, not assessed***. [TCIB](<https://www.imf.org/-/media/files/publications/tar/2025/english/tarea2025093-source-pdf.pdf>); [EcoCash](<https://www.econet.co.zw/zimbabwe-econet-opens-first-free-remittance-corridors-to-zimbabwe/>).
+***Also on file***. [TCIB](<https://www.imf.org/-/media/files/publications/tar/2025/english/tarea2025093-source-pdf.pdf>); [EcoCash](<https://www.econet.co.zw/zimbabwe-econet-opens-first-free-remittance-corridors-to-zimbabwe/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

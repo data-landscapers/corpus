@@ -2,6 +2,6 @@
 
 ## Exchange points keeping traffic local
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names an exchange point, or says there is none.
+***Not found***. Nothing found names an exchange point, or says there is none.

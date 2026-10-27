@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-001;NAM-002",
-      "gaps": "No source held since October 2023 shows three or more main public registers using the national ID number; only the social grants register is shown.",
+      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number; only the social grants register is shown.",
       "note": "Social grant beneficiaries are verified against the population register (2026), one register keyed on the ID. The N$16 million saving no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }

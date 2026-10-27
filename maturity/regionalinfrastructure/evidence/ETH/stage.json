@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ETH-003;ETH-002",
-   "gaps": "No source held says a shared link or facility is in service.",
+   "gaps": "No source found says a shared link or facility is in service.",
    "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
   }
  ]

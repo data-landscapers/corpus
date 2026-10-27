@@ -6,6 +6,6 @@
 
 **Named hosting and moves.** The same February 2025 statement [names no government cloud or data centre that public bodies must use](<https://dailynews.gov.bw/news-detail/84714>), no list of approved providers and no public body moving its systems.
 
-***Noted, not assessed***. [Digital Delta Data Centre (DDDC)](<https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news>); [Delta Digital Data Centre](<https://dailynews.gov.bw/news-detail/90463>).
+***Also on file***. [Digital Delta Data Centre (DDDC)](<https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news>); [Delta Digital Data Centre](<https://dailynews.gov.bw/news-detail/90463>).
 
-***Not held***. No source held says a government hosting or cloud policy is adopted and in force.
+***Not found***. No source found says a government hosting or cloud policy is adopted and in force.

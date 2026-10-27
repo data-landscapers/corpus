@@ -8,6 +8,6 @@
 
 **The state's data hosted nationally.** [An incident at the RSTP-run National Data Centre disrupted at least 12 government digital services (Government in Your Hand app, e-Visa, company registration, government website, IFMIS, Elderly Grant payment, Deeds Registration and others), indicating state systems are hosted there; RSTP first acknowledged the outage on 2026-09-18](<https://times.co.sz/44621/news/national-data-centre-hit-by-incident/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.
+***Not found***. No source found names a second nationally owned data centre for hire at Tier III or above.

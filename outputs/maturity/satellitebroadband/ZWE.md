@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** [Subscribers: 67,057 at 2025-12 (Q4 2025), per POTRAZ, VSAT subscriptions (the category in which Starlink is classified), up from 50,949 in Q3 2025](<https://spaceinafrica.com/2026/05/06/starlink-drives-zimbabwes-vsat-subscriptions-to-a-record-67057/>). [Subscribers: 67,057 at 2025-12 (Q4 2025), per POTRAZ, in the VSAT category that includes Starlink; up from 30,907 in Q1 2025](<https://www.newsday.co.zw/theindependent/business-digest/article/200055625/over-50-of-zims-fixed-broadband-now-wireless>). [Subscribers: 23,410 at 2024-Q4, per Potraz (VSAT subscriptions, up 513.79% in the quarter)](<https://www.newsday.co.zw/theindependent/business-digest/article/200055624/measured-but-not-counted-how-starlink-broke-potrazs-bandwidth-framework>). Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. [Starlink](<https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription>); [Starlink kits donated to local authorities](<https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/>).
+***Also on file***. [Starlink](<https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription>); [Starlink kits donated to local authorities](<https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/>).
 
-***Not held***. No source held says services on two different satellite networks are on sale.
+***Not found***. No source found says services on two different satellite networks are on sale.

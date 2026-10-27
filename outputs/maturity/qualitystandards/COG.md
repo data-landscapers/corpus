@@ -6,6 +6,6 @@
 
 **Certification.** The same [member page](<https://www.iso.org/member/11493926.html>) describes an agency that manages the national standards register. It records no certification offered or granted by the agency against a standard on information technology or data, and names no organisation the agency has certified, whether in government or outside it.
 
-***Noted, not assessed***. [ISO 27001 certification of ST DIGITAL](<https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526>).
+***Also on file***. [ISO 27001 certification of ST DIGITAL](<https://st.digital/en/blog/st-digital-s-blog-1/st-digital-526>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

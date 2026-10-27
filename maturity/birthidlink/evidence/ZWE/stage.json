@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZWE-002;ZWE-003",
-      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "Rebuild: the Civil Registry Department holds both registers and has introduced synchronisation with the population register (2026). Nothing held says deaths retire ID numbers.",
+      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: the Civil Registry Department holds both registers and has introduced synchronisation with the population register (2026). Nothing found says deaths retire ID numbers.",
       "as_at": "2026-10-22"
     }
   ]

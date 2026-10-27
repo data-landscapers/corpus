@@ -6,6 +6,6 @@
 
 **Standards required and checked.** [Version 2.0](<https://nita.gov.gh/wp-content/uploads/2022/02/Ghana-eGovernment-Interoperability-Framework-eGIF-Version-2.0_v.Draft-for-Stakeholder-Review-1.pdf>) is a text for stakeholders to review. Its annexes set out the standards government systems would meet in each of the seven areas, and the text was circulated for comment before any final version. The draft updates the framework the agency issued earlier, and it is the agency's text, published on its own website for that review. The framework it updates, adopted in 2008, was the government's first.
 
-***Noted, not assessed***. [National Data Exchange Hub](<https://gna.org.gh/2026/07/govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth/>); [Ghana.gov](<https://dial.global/research/national-data-exchange-ghana-case-study/>).
+***Also on file***. [National Data Exchange Hub](<https://gna.org.gh/2026/07/govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth/>); [Ghana.gov](<https://dial.global/research/national-data-exchange-ghana-case-study/>).
 
-***Not held***. No source held says the standards have been published.
+***Not found***. No source found says the standards have been published.

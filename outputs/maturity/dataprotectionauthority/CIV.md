@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** The nearest held fact is the power the [2015 decree](<https://www.artci.ci/wp-content/uploads/2024/05/decret_2015_79.pdf>) gives ARTCI: to rule on authorisation requests within one month and to impose withdrawals and fines. In its [3 August 2026 communique](<https://artci.ci/lartci-invite-les-entreprises-a-privilegier-la-plateforme-certinum/>) ARTCI says it launched CERTINUM on 2 July 2026.
 
-***Noted, not assessed***. [CERTINUM](<https://artci.ci/lartci-invite-les-entreprises-a-privilegier-la-plateforme-certinum/>), the data authorisation platform run by ARTCI.
+***Also on file***. [CERTINUM](<https://artci.ci/lartci-invite-les-entreprises-a-privilegier-la-plateforme-certinum/>), the data authorisation platform run by ARTCI.
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held, and no published figures.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found, and no published figures.

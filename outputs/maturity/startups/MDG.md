@@ -2,6 +2,6 @@
 
 ## Startup law and funding
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says what the state does for tech startups.
+***Not found***. Nothing found says what the state does for tech startups.

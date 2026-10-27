@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MWI-003;MWI-001",
-      "gaps": "No source held shows a second main payment stream, civil service salaries or pensions, paid digitally.",
+      "gaps": "No source found shows a second main payment stream, civil service salaries or pensions, paid digitally.",
       "note": "The National Registration Bureau verifies beneficiaries of social protection payments against the national ID (2025 deck), so payments are linked to ID; a later yes answers the earlier questions, so stage 5.",
       "as_at": "2026-10-23"
     }

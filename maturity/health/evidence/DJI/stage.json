@@ -12,8 +12,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "DJI-006;DJI-009;DJI-012;DJI-007;DJI-008",
-      "gaps": "No share or count of primary clinics entering their own reports is held: the 84% (and the 69% and 35% before it) is of all facilities with no numerator or denominator, and the tier row names the primary care level only. Inside the 36 months no row gives a current plan naming the system or a domestic budget line: the only plan rows date from 2020 (DJI-016, DJI-020) and the only finance row is UNFPA's support for one integration (DJI-008). Nothing is dated inside the twelve months to the as-at (the 69% to 84% rise ends 2025-06-30); the 2020 tier rows (DJI-017 T2;T3, DJI-022 none) disagree with the 2025 one, which stands.",
-      "note": "The primary tier enters at the facility, but the 84% of June 2025 is a share of all facilities, which does not settle rung 4 (Bill, 2026-10-23), and no share or count of primary clinics is held. Governance would cap the cell at 3 in any case, holding neither a current plan nor domestic finance.",
+      "gaps": "No share or count of primary clinics entering their own reports has been found: the 84% (and the 69% and 35% before it) is of all facilities with no numerator or denominator, and the tier row names the primary care level only. Inside the 36 months no row gives a current plan naming the system or a domestic budget line: the only plan rows date from 2020 (DJI-016, DJI-020) and the only finance row is UNFPA's support for one integration (DJI-008). Nothing is dated inside the twelve months to the as-at (the 69% to 84% rise ends 2025-06-30); the 2020 tier rows (DJI-017 T2;T3, DJI-022 none) disagree with the 2025 one, which stands.",
+      "note": "The primary tier enters at the facility, but the 84% of June 2025 is a share of all facilities, which does not settle rung 4 (Bill, 2026-10-23), and no share or count of primary clinics has been found. Governance would cap the cell at 3 in any case, holding neither a current plan nor domestic finance.",
       "as_at": "2026-10-23"
     },
     {

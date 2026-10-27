@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The Personal Data Protection Commission reported in [August 2026](<https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710>) that its preliminary assessments found unlawful data transfers abroad, and listed rectification directives, warning letters and fines as remedies. The [24 August 2026 study](<https://journals.eanso.org/index.php/eajle/article/view/5617>) finds the framework on cross-border transfers progressive on paper, with gaps in institutional capacity and enforcement.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

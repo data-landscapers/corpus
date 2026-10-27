@@ -11,7 +11,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "MOZ-002;MOZ-004;MOZ-005",
-   "gaps": "No source held says a system built by government staff went live since October 2023.",
+   "gaps": "No source found says a system built by government staff went live since October 2023.",
    "note": "INAGE runs hosting and development services for public bodies, and INTIC's own staff run the state signature service used by more than ten institutions. No system built by government staff is shown going live since October 2023.",
    "as_at": "2026-10-23"
   }

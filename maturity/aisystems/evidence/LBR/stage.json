@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "LBR-001;LBR-002",
-      "gaps": "No source held since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
-      "note": "Liblaw's CJ Lewis legal assistant was launched in July 2026 and the Central Bank uses a forecasting system built by its staff. No AI computing in the country is held.",
+      "gaps": "No source found since October 2023 says a facility with GPUs or AI accelerators is in service in the country.",
+      "note": "Liblaw's CJ Lewis legal assistant was launched in July 2026 and the Central Bank uses a forecasting system built by its staff. No AI computing in the country has been found.",
       "as_at": "2026-10-22"
     }
   ]

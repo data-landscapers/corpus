@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is the budget itself, which names no fund, levy or assigned tax for digital programmes: it lists [14 digital lines for 2026, 30,511,992,244 CFA francs in all](<https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178593988623.pdf>), and the ministry's 82 billion CFA francs is [the figure the minister presented for 2026](<https://www.wearetech.africa/en/fils-uk/news/public-management/gabon-s-2026-digital-budget-soars-by-156-to-fund-tech-overhaul>).
 
-***Noted, not assessed***. [the special universal service fund for electronic communications, fed by telecom operators and run by Arcep Gabon, named in a 2024 article](<https://www.gabonreview.com/fracture-numerique-au-gabon-plus-de-117-000-habitants-nont-pas-acces-a-internet-en-2024/>).
+***Also on file***. [the special universal service fund for electronic communications, fed by telecom operators and run by Arcep Gabon, named in a 2024 article](<https://www.gabonreview.com/fracture-numerique-au-gabon-plus-de-117-000-habitants-nont-pas-acces-a-internet-en-2024/>).
 
-***Not held***. Nothing held shows the government saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying. Nothing held gives what was spent.
+***Not found***. Nothing found shows the government saying digital transformation must be paid for from the country's own resources and acting on it: no fund, levy or assigned tax is shown created, collecting or paying. Nothing found gives what was spent.

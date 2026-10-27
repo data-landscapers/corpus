@@ -8,7 +8,7 @@ r"""study-opendatause-write.py — the opendatause study's summaries, written fr
 it. **Nothing is composed here that a fact does not state**: each of the three paragraphs is
 the drafters' own fact sentences on that aspect, each linked whole to its evidence row's
 `url`, the rows that set the stage first, then the rest newest first while the paragraph stays
-inside its room. An aspect with nothing held says so, linked to the fact that set the stage.
+inside its room. An aspect with nothing found says so, linked to the fact that set the stage.
 
 Writes, per country, `outputs/maturity/opendatause/{ISO3}.md` and
 `maturity/opendatause/evidence/{ISO3}/short.json`. Run it after the ladder script.
@@ -25,6 +25,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "opendatause"
@@ -41,9 +42,9 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "access": "No source held states that the data is published under an open licence. The nearest held fact: {l}.",
-    "breadth": "No source held since October 2023 names two or more public bodies publishing data. The nearest held fact: {l}.",
-    "reuse": "No source held since October 2023 names a use of the data or a usage figure. The nearest held fact: {l}.",
+    "access": "No source found states that the data is published under an open licence. The nearest held fact: {l}.",
+    "breadth": "No source found since October 2023 names two or more public bodies publishing data. The nearest held fact: {l}.",
+    "reuse": "No source found since October 2023 names a use of the data or a usage figure. The nearest held fact: {l}.",
 }
 
 
@@ -136,7 +137,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
                 body = [EMPTY[k].format(l=anchor if not used else link(top["url"], "the one given above"))]
                 used = True
             if k == "access" and cell["stage"] in ("4", "5") and not any(r["value"] == "licensed" for r in mine):
-                body.append("No source held states an open licence; a later answer places the country above that step.")   # method §3.3
+                body.append("No source found states an open licence; a later answer places the country above that step.")   # method §3.3
             if k == "access" and len(rows) <= 5:   # few facts held: say so, as the statistics law study did
                 body.append(("It is the only fact" if len(rows) == 1 else f"{['', '', 'Two', 'Three', 'Four', 'Five'][len(rows)]} facts are")
                             + " held on the country's published government data" + ("" if len(rows) == 1 else ", all given here")
@@ -146,15 +147,15 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
     elif cell["stage"] == "unplaced":
         short = "No government data published for download since 2023 is on record, so no stage is set."
     else:
-        short = "Nothing held says whether a public body publishes data for anyone to download, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+        short = "Nothing found says whether a public body publishes data for anyone to download, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

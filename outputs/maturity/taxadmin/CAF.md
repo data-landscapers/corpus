@@ -6,8 +6,8 @@
 
 **Electronic payment.** [Agence Ecofin reports the DGID launched the e-Tax platform on 24 March 2025 for online payment of taxes](<https://www.agenceecofin.com/actualites-numerique/2503-126985-la-centrafrique-lance-officiellement-e-tax-sa-plateforme-de-paiement-d-impots-en-ligne>). [ITWeb Africa states the e-tax platform allows electronic tax payments, backed by the EU under a 24-month service contract](<https://itweb.africa/article/central-african-republic-advances-with-tax-digitalisation/rW1xL75n43RMRk6m>). [We Are Tech Africa reports the e-Tax platform introduces online payment of taxes (télépaiement), with 301 large and 325 medium firms registered](<https://www.wearetech.africa/fr/fils/actualites/tech/la-centrafrique-adopte-le-tax-pour-mieux-percevoir-les-impots>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.agenceecofin.com/actualites-numerique/2503-126985-la-centrafrique-lance-officiellement-e-tax-sa-plateforme-de-paiement-d-impots-en-ligne>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://www.agenceecofin.com/actualites-numerique/2503-126985-la-centrafrique-lance-officiellement-e-tax-sa-plateforme-de-paiement-d-impots-en-ligne>).
 
-***Noted, not assessed***. [SYSTEMIF](<http://news.abangui.com/h/88755.html>); [eTVA](<https://africa24tv.com/reportage-centrafrique-la-digitalisation-pour-stimuler-les-finances-publiques>).
+***Also on file***. [SYSTEMIF](<http://news.abangui.com/h/88755.html>); [eTVA](<https://africa24tv.com/reportage-centrafrique-la-digitalisation-pour-stimuler-les-finances-publiques>).
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

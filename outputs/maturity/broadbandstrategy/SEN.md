@@ -6,6 +6,6 @@
 
 **Money and results.** The nearest held fact is the same [2017 deck](<https://www.itu.int/dms_pub/itu-d/oth/07/0d/D070D0000040001PDFE.pdf>), whose proposed investments are put forward as part of the guidelines. It names no budget line, fund allocation or financed programme, and no figures against the plan's targets. The deck links the plan to Sénégal Numérique 2025 and gives a diagnosis of the infrastructure beside the proposed investments, with no statement of who funds them.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a national broadband plan is adopted and still running. Nothing held shows money committed to one.
+***Not found***. No source found says a national broadband plan is adopted and still running. Nothing found shows money committed to one.

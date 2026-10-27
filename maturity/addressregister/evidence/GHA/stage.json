@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-002;GHA-004",
-      "gaps": "No source held since October 2023 says other services use the address system.",
-      "note": "Reassessed in the rebuild: Ghana Post says GhanaPostGPS addresses every location in the country (2025, 2026); nothing held says another service uses it.",
+      "gaps": "No source found since October 2023 says other services use the address system.",
+      "note": "Reassessed in the rebuild: Ghana Post says GhanaPostGPS addresses every location in the country (2025, 2026); nothing found says another service uses it.",
       "as_at": "2026-10-18"
     }
   ]

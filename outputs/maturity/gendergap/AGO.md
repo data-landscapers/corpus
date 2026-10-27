@@ -2,6 +2,6 @@
 
 ## Gender gap in internet use
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure for 2023 or later is held for the gender gap in internet use. The latest held is 9.82, for 2014.
+***Not found***. No figure for 2023 or later has been found for the gender gap in internet use. The latest held is 9.82, for 2014.

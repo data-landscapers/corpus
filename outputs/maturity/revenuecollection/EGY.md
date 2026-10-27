@@ -8,6 +8,6 @@
 
 **Share reported.** [The Ministry of Finance gives EGP 2.5 trillion of e-payment and collection for July 2023 to May 2024, with electronic tax collection of EGP 613.1 billion and customs collection of EGP 284.3 billion](<https://english.ahram.org.eg/NewsContent/3/12/525882/Business/Economy/Epayment,-collection-services-in-Egypt-rise-to-EGP.aspx>). The cabinet reports the finance minister's figures for [electronic customs receipts of EGP 284.3 billion and electronic tax collection of EGP 613.1 billion in July 2023 to May 2024](<https://www.cabinet.gov.eg/News/Details/76152>).
 
-***Noted, not assessed***. [InstaPay](<https://sis.gov.eg/en/media-center/news/egypt-launches-new-tax-services-center-real-estate-transactions-app-as-part-of-tax-relief-drive/>); [Meeza](<https://gate.ahram.org.eg/News/5335311.aspx>); [Meeza Digital](<https://gate.ahram.org.eg/News/5335311.aspx>).
+***Also on file***. [InstaPay](<https://sis.gov.eg/en/media-center/news/egypt-launches-new-tax-services-center-real-estate-transactions-app-as-part-of-tax-relief-drive/>); [Meeza](<https://gate.ahram.org.eg/News/5335311.aspx>); [Meeza Digital](<https://gate.ahram.org.eg/News/5335311.aspx>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -6,8 +6,8 @@
 
 **Between providers.** [PI-SPI, the BCEAO's instant payment platform, allows instant transfers and payments between banks, e-money institutions and payment institutions, and Wave was authorised on it for Senegal on 30 September 2026](<https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement>). [Financial Afrik says PI-SPI gives instant interoperable transfers 24 hours a day between bank accounts and mobile wallets, with 19 Senegal institutions authorised](<https://www.financialafrik.com/en/2026/03/05/instant-payments-pi-spi-in-the-waemu-updated-list-of-establishments-authorized-by-the-bceao/>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement>).
 
-***Noted, not assessed***. [PI-SPI](<https://www.osiris.sn/le-vrai-gagnant-du-nouveau-reglement-bceao-n-est-pas-wave-mais-orange-money.html>); [Max it](<https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network>).
+***Also on file***. [PI-SPI](<https://www.osiris.sn/le-vrai-gagnant-du-nouveau-reglement-bceao-n-est-pas-wave-mais-orange-money.html>); [Max it](<https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

@@ -8,6 +8,6 @@
 
 **A household survey published.** [The Gambia Bureau of Statistics lists the Gambia Labour Force Survey GLFS 2026 (Q1), alongside the 2019/20 DHS, MICS6 and IHS 2020, with reports and microdata for download](<https://www.gbosdata.org/downloads>). [The Gambia Bureau of Statistics published a report comparing its labour force survey across three rounds, 2023 Q1, 2025 Q1 and 2026 Q1](<https://www.gbosdata.org/downloads-file/628-the-gambia-labour-market-progress-and-trends-2>).
 
-***Noted, not assessed***. [Annual school census (MoBSE)](<https://education.dhis2.org/gambia-modernizing-education-data-kix-knowledge-cafe/>); [GBoS Microdata Catalog](<https://microdata.gbosdata.org/index.php/home>).
+***Also on file***. [Annual school census (MoBSE)](<https://education.dhis2.org/gambia-modernizing-education-data-kix-knowledge-cafe/>); [GBoS Microdata Catalog](<https://microdata.gbosdata.org/index.php/home>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

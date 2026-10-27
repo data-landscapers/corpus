@@ -2,10 +2,10 @@
 
 ## Internet in secondary schools
 
-**Secondary schools with internet for teaching.** In 2023, [18.1 per cent of secondary schools had internet for teaching](<https://databrowser.uis.unesco.org/>), by UNESCO's SDG 4.a.1 series. The series gives no figure for the years just before, so whether it is rising or falling is not known. It is 14.9 points short of 33, the next line. The study's lines are 17, 33 and 50 per cent of secondary schools, the frame's own cuts, and the latest figure for 2023 or later sets the stage, so a fall is a fall. The figure counts schools with a connection used for teaching, not how well it serves them or what is taught.
+**Secondary schools with internet for teaching.** In 2023, [18.1 per cent of secondary schools had internet for teaching](<https://databrowser.uis.unesco.org/>), by UNESCO's SDG 4.a.1 series. The series gives no figure for the years just before, so no source found says whether it is rising or falling. It is 14.9 points short of 33, the next line. The study's lines are 17, 33 and 50 per cent of secondary schools, the frame's own cuts, and the latest figure for 2023 or later sets the stage, so a fall is a fall. The figure counts schools with a connection used for teaching, not how well it serves them or what is taught.
 
 **Digital skills in the curriculum.** The curriculum is asked about only once half of secondary schools have internet for teaching, so with [the figure below that line](<https://databrowser.uis.unesco.org/>) none was looked for in this first pass.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure of 33 per cent of secondary schools or more is held.
+***Not found***. No figure of 33 per cent of secondary schools or more has been found.

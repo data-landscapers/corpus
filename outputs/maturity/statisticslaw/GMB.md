@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is the strategy's plan for the bill. [The strategy of September 2023 commits the bureau to review the Statistics Bill of 2019 and to press for its enactment](<https://www.gbosdata.org/downloads-file/526-national-strategy-for-the-development-of-stati>). The bill was four years old when the strategy was written. No other document held on the country's statistics reports the bill tabled or passed.
 
-***Noted, not assessed***. [NSDS III 2024-28](<https://www.gbosdata.org/downloads-file/526-national-strategy-for-the-development-of-stati>); [National Statistics Council](<https://www.gbosdata.org/downloads-file/526-national-strategy-for-the-development-of-stati>).
+***Also on file***. [NSDS III 2024-28](<https://www.gbosdata.org/downloads-file/526-national-strategy-for-the-development-of-stati>); [National Statistics Council](<https://www.gbosdata.org/downloads-file/526-national-strategy-for-the-development-of-stati>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [Internet Society Pulse states Madagascar has 1 active IXP, MGIX, at one physical location in Antananarivo, present in 1 of 2 population centres over 300,000, as of February 2026; the origin of members is not stated](<https://pulse.internetsociety.org/en/ixp-tracker/country/MG/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a global content network has a cache at the exchange or peers there.
+***Not found***. No source found says a global content network has a cache at the exchange or peers there.

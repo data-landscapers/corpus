@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TZA-001;TZA-003",
-      "gaps": "No source held says the taxpayer number is shared with business registration or customs.",
+      "gaps": "No source found says the taxpayer number is shared with business registration or customs.",
       "note": "TINs are registered online through NIDA's eKYC (2025) and TRA registration is integrated with the ID (2026). Nothing shows the TIN shared with business registration or customs, so the tie to the ID no longer lifts the cell past rung 4 (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }

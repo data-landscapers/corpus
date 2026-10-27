@@ -2,6 +2,6 @@
 
 ## Interoperability of social protection systems
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names social protection systems exchanging data, or says there is none.
+***Not found***. Nothing found names social protection systems exchanging data, or says there is none.

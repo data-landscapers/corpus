@@ -8,6 +8,6 @@
 
 **Source for others.** [Namibia's Chief Registrar said all applicants for the Covid-19 Emergency Income Grant were verified against the NPRS, and social protection verifies live status against it](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf>). [The Ministry says the e-birth notification system verifies the mother's identity against the NPRS (2020, before the three-year window)](<https://mhaiss.gov.na/documents/292728/537582/HAI+Annual+Report+2019-2020+web-+23+November+2023-1.pdf/36f0e050-9a59-a5db-7c2a-13373d1502a2?download=true&t=1701160032086>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

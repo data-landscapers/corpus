@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** [The Algerian-Tunisian joint technical commission on communications and ICT cooperation held its fourth session in June 2026](<https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/>), a standing body of the two governments, and agreed joint projects. None of the projects is reported as started. Published figures of its use, a decision of a joint body or a review of what was delivered in the last three years are not recorded.
 
-***Noted, not assessed***. [Niger-Algeria trans-Saharan fibre optic link (Assamaka)](<https://mcnti.gouv.ne/souverainete-et-integration-numerique-lancement-de-lexploitation-de-la-liaison-transsaharienne-en-fibre-optique-niger-algerie-a-assamaka/>).
+***Also on file***. [Niger-Algeria trans-Saharan fibre optic link (Assamaka)](<https://mcnti.gouv.ne/souverainete-et-integration-numerique-lancement-de-lexploitation-de-la-liaison-transsaharienne-en-fibre-optique-niger-algerie-a-assamaka/>).
 
-***Not held***. No source held gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.
+***Not found***. No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.

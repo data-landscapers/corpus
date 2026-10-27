@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GMB-004;GMB-006;GMB-008",
-      "gaps": "No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
+      "gaps": "No source found dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.",
       "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
       "as_at": "2026-10-17"
     }

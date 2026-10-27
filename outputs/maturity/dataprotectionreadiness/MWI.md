@@ -10,6 +10,6 @@
 
 **Implementing and acting.** In October 2025 the Authority published [guidelines on personal data breach notifications](<https://www.dpa.mw/download/guidelines-on-personal-data-breach-notifications-and-communications/?wpdmdl=8818>), with a 72-hour notice to the Authority and to data subjects, and [a compliance guideline and checklist](<https://www.dpa.mw/download/guideline-and-checklist-on-compliance/?wpdmdl=8808>) covering the Act's duties, data subject rights and cross-border transfers. [GIZ ran a training-of-trainers programme](<https://techreviewafrica.com/news/7293/giz-supports-malawi-data-protection-authority-with-training-of-trainers-programme>) with the Authority in September 2026.
 
-***Noted, not assessed***. [Data Protection Act, 2024](<https://cyrilla.org/api/files/1714974153599cf41tfelimj.pdf>); [Data Protection Authority](<https://www.dpa.mw/download/guidelines-on-personal-data-breach-notifications-and-communications/?wpdmdl=8818>).
+***Also on file***. [Data Protection Act, 2024](<https://cyrilla.org/api/files/1714974153599cf41tfelimj.pdf>); [Data Protection Authority](<https://www.dpa.mw/download/guidelines-on-personal-data-breach-notifications-and-communications/?wpdmdl=8818>).
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

@@ -8,6 +8,6 @@
 
 **Results reported.** According to AGT's chair in July 2026, the AI found that [15,000 of the 40,000 companies that filed zero-turnover 2025 income tax returns had in fact recorded transactions](<https://expansao.co.ao/empresas/detalhe/inteligencia-artificial-da-agt-apanha-15-mil-empresas-suspeitas-de-fuga-ao-fisco-73137.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** [The regulator disclosed KCB's 22.23% stake in Pesapal](<https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/>) in September 2026.
 
-***Noted, not assessed***. [Tanzania digital-infrastructure investment envelope](<https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031>), TZS 7,000 billion to 2031; [Tanzania Instant Payment System](<https://www.gatesfoundation.org/about/committed-grants/2023/06/inv-007459>).
+***Also on file***. [Tanzania digital-infrastructure investment envelope](<https://www.agenceecofin.com/actualites-numerique/3009-142012-infrastructure-numerique-la-tanzanie-prevoit-2-6-milliards-d-investissements-d-ici-2031>), TZS 7,000 billion to 2031; [Tanzania Instant Payment System](<https://www.gatesfoundation.org/about/committed-grants/2023/06/inv-007459>).
 
-***Not held***. No amount from 2024 on is held from a bank, pension fund, insurer, investor or company of Tanzania, or raised on its own market.
+***Not found***. No amount from 2024 on has been found from a bank, pension fund, insurer, investor or company of Tanzania, or raised on its own market.

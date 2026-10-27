@@ -6,8 +6,8 @@
 
 **Owned in the country.** Nationally owned: [Cable & Wireless Seychelles Tier IV data centre](<https://www.linkedin.com/posts/cable-wireless-seychelles-ltd_a-tier-iv-data-centre-changes-more-than-technology-activity-7440719883103014913-R-zX>); [Bon Espoir Data Centre](<https://www.nation.sc/articles/24190/cable--wireless-inaugurates-state-of-the-art-data-centre>) (Cable & Wireless Seychelles). Owned in the country means by the state, a state enterprise or a company owned mostly in the country; a facility a foreign group controls is not counted.
 
-**The state's data hosted nationally.** Nothing held says the government hosts its own data beside [the national data centres](<https://www.linkedin.com/posts/cable-wireless-seychelles-ltd_a-tier-iv-data-centre-changes-more-than-technology-activity-7440719883103014913-R-zX>).
+**The state's data hosted nationally.** Nothing found says the government hosts its own data beside [the national data centres](<https://www.linkedin.com/posts/cable-wireless-seychelles-ltd_a-tier-iv-data-centre-changes-more-than-technology-activity-7440719883103014913-R-zX>).
 
-***Noted, not assessed***. [Airtel Seychelles Perseverance data centre](<https://www.sbc.sc/news/airtel-seychelles-invites-local-international-companies-to-use-new-data-centre-on-perseverance/>).
+***Also on file***. [Airtel Seychelles Perseverance data centre](<https://www.sbc.sc/news/airtel-seychelles-invites-local-international-companies-to-use-new-data-centre-on-perseverance/>).
 
-***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.
+***Not found***. No source found names a second nationally owned data centre for hire at Tier III or above.

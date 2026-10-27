@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "EGY-001;EGY-003",
-   "gaps": "No source held since October 2023 gives the results of an accessibility audit of public websites or digital services.",
+   "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
    "note": "First pass: counted from the four questions by study-ladder-disabilityaccess.py."
   }
  ]

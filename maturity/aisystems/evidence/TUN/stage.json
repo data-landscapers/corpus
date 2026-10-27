@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-010;TUN-011",
-      "gaps": "The count of users of Novation City's DGX system is NVIDIA's, from September 2024; no later count is held.",
+      "gaps": "The count of users of Novation City's DGX system is NVIDIA's, from September 2024; no later count has been found.",
       "note": "Novation City in Sousse deployed an NVIDIA DGX system in February 2024, and NVIDIA says it has served about 30 startups. DataXion's L40S GPU cloud was offered in 2026.",
       "as_at": "2026-10-23"
     }

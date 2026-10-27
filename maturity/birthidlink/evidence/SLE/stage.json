@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-006;SLE-001",
-      "gaps": "No source held since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "Rebuild: NCRA holds both civil registration and the national ID (2026), stage 3 on the wording \"one body holds both registers\". Nothing held says records pass between them by event.",
+      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
+      "note": "Rebuild: NCRA holds both civil registration and the national ID (2026), stage 3 on the wording \"one body holds both registers\". Nothing found says records pass between them by event.",
       "as_at": "2026-10-22"
     }
   ]

@@ -6,6 +6,6 @@
 
 **Sharing required and the law applied.** The draft is described by [what it would set up](<https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/>): a framework, a unit and a committee. The report does not say the decree would oblige public bodies to exchange data or to connect to a common platform. The decree had not been adopted by the end of September 2026. With nothing in force, no rule has been made under it and no public body is named as exchanging data because a decree requires it.
 
-***Noted, not assessed***. [Plateforme nationale X-Road](<https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/>).
+***Also on file***. [Plateforme nationale X-Road](<https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/>).
 
-***Not held***. No source held says a law, decree or regulation on public bodies sharing data is in force.
+***Not found***. No source found says a law, decree or regulation on public bodies sharing data is in force.

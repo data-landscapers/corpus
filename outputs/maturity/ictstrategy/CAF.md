@@ -2,6 +2,6 @@
 
 ## Sector policy
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No ICT or telecommunications sector policy is named for the country. Whether one has been adopted, is in preparation or does not exist is not known.
+***Not found***. No ICT or telecommunications sector policy is named for the country. No source found says whether one has been adopted, is in preparation or does not exist.

@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is the 2026 budget. [The Budget Annex for 2026-2027 refers to the governance, quality and confidentiality safeguards provided under the Statistics Act and says the Act will be amended](<https://govmu.org/EN/budget/Documents/2026_27_annexBudget.pdf>); the amendment followed in August. An amendment changes the law and is not a rule made under it.
 
-***Noted, not assessed***. [Strategy for Official Statistics 2020-2025](<https://statsmauritius.govmu.org/Documents/Homepage/Around_Statistics/Strategy%20for%20Official%20Statistics%202020-2025.pdf>).
+***Also on file***. [Strategy for Official Statistics 2020-2025](<https://statsmauritius.govmu.org/Documents/Homepage/Around_Statistics/Strategy%20for%20Official%20Statistics%202020-2025.pdf>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

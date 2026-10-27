@@ -6,8 +6,8 @@
 
 **Biometric checks.** [The system launched in 2020 able to deduplicate biometrics against a database of 15 million people within 10 seconds, per ChadInfos (2020, before the three-year window)](<https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive>).
 
-***Noted, not assessed***. [biometric ID cards for refugees](<https://www.biometricupdate.com/202603/chad-uses-national-biometric-registry-to-boost-govt-systems-interoperability>).
+***Also on file***. [biometric ID cards for refugees](<https://www.biometricupdate.com/202603/chad-uses-national-biometric-registry-to-boost-govt-systems-interoperability>).
 
-***Not held***. No source held since October 2023 says the system checks people by biometrics.
+***Not found***. No source found since October 2023 says the system checks people by biometrics.

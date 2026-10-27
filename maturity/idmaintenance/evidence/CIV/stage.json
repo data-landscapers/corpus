@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "CIV-003",
-   "gaps": "No source held since October 2023 says the system runs on code the state owns.",
+   "gaps": "No source found since October 2023 says the system runs on code the state owns.",
    "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
   }
  ]

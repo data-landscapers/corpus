@@ -6,8 +6,8 @@
 
 **Single window.** [GIE GAINDE 2000 marked 20 years of ORBUS, the single window for foreign-trade formalities, run with customs and clearance actors in Senegal](<https://bie.cciad.sn/2024/06/05/20-ans-de-orbus-lheure-de-chanter-les-merites-de-la-dematerialisation/>).
 
-**Exchange with partners.** No source held since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://lesoleil.sn/actualites/economie/dedouanement-le-port-de-dakar-entame-une-etape-decisive-de-sa-transformation-digitale/>).
+**Exchange with partners.** No source found since October 2023 says customs exchanges data electronically with another country. The nearest held fact: [the one given above](<https://lesoleil.sn/actualites/economie/dedouanement-le-port-de-dakar-entame-une-etape-decisive-de-sa-transformation-digitale/>).
 
-***Noted, not assessed***. [SIGMAT](<https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict>).
+***Also on file***. [SIGMAT](<https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict>).
 
-***Not held***. No source held since October 2023 says customs exchanges data through a system open to its whole regional community.
+***Not found***. No source found since October 2023 says customs exchanges data through a system open to its whole regional community.

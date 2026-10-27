@@ -6,6 +6,6 @@
 
 **Money and results.** Under the strategy the ministry [publishes terms of reference](<https://www.mtc.gov.tn/index.php?id=296>) for fibre to the home: for network studies, for civil works, for cabling the access network and for cabling buildings, with common annexes. They are meant to set one technical standard for laying fibre in Tunisia and for the studies and works of telecommunications projects. The page states no budget and no figures against the strategy.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.
+***Not found***. No budget line, universal service fund allocation or financed programme tied to the plan in the last three years is held.

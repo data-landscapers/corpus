@@ -2,6 +2,6 @@
 
 ## Interoperability of education systems
 
-***Noted, not assessed***. [EducMaster](<https://educmaster.bj/>).
+***Also on file***. [EducMaster](<https://educmaster.bj/>).
 
-***Not held***. Nothing held names education systems exchanging data, or says there is none.
+***Not found***. Nothing found names education systems exchanging data, or says there is none.

@@ -10,6 +10,6 @@
 
 **Implementing and acting.** By deliberation n°073 of 25 April 2024, the APDPVP [imposed a sanction of 90,000,000 FCFA on Citibank Gabon S.A.](<https://www.apdpvp.ga/wp-content/uploads/2024/11/SANCTION-CITIBANK-25-AVRIL-2024.pdf>) for diverting employee data from its declared purpose and processing ethnic-origin data. Its president said in September 2026 it had logged [about 715 declarations of conformity and about 30 complaints from individuals](<https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse>).
 
-***Noted, not assessed***. [Loi relative à la protection des données à caractère personnel](<https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse>).
+***Also on file***. [Loi relative à la protection des données à caractère personnel](<https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse>).
 
-***Not held***. Nothing is outstanding on the four questions.
+***Not found***. Nothing is outstanding on the four questions.

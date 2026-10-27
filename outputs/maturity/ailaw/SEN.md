@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** The same July 2024 IPAR diagnostic adds that, of the four West African countries it covers, [only Benin has a framework suited to regulating AI](<https://ipar.sn/wp-content/uploads/2026/07/L7_Rapport-diagnostic-du-cadre-politique-juridique-ethique-relatif-a-lIA-technologies-emergentes_Version-Finale.pdf>). It names no such framework for Senegal, and it finds no legal text specific to AI at national level. The diagnostic names no law, decree or regulation on AI in force in Senegal, and none for the West African region or for the continent as a whole.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any draft is under way, or the position since July 2024, is not known.
+***Not found***. No source found says whether any draft is under way, or the position since July 2024,.

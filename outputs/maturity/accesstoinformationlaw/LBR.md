@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The Act's oversight body is set up. [The Independent Information Commission, with an executive director and directors for outreach and compliance, ran a compliance campaign across public bodies from 11 August to 2 September 2026](<https://gnnliberia.com/iic-cental-step-up-transparency-anti-corruption-drive/>). A campaign is not a decision on a request. A decision, order or penalty on a request for information, or figures of requests published by the oversight body, dated in the last three years, is not recorded. In October 2026 the Press Union said the Commission, the statutory body that enforces the Act, had [publicly opposed the Civil Service Agency's new confidentiality policy](<https://liberiapublicradio.com/2026/10/24/pul-condemns-governments-assault-on-freedom-of-information-and-transparency-calls-for-immediate-withdrawal-of-confidentiality-policy-undermining-the-foi-act/>).
 
-***Noted, not assessed***. [Electronic Government Procurement (e-GP) system](<https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html>).
+***Also on file***. [Electronic Government Procurement (e-GP) system](<https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html>).
 
-***Not held***. No source held dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.
+***Not found***. No source found dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.

@@ -6,8 +6,8 @@
 
 **Several bodies.** A second body runs AI in service: [Le360, citing the expert Marouane Harmach, reports that the tax directorate uses a chatbot to assist taxpayers](<https://fr.le360.ma/economie/lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-marouane-harmach_G3KDUQCTCNCY5B6TUYNLU2LPVE/>), in September 2025. The social security fund CNSS [tendered an AI chatbot for its staff in November 2025](<https://www.lodj.ma/%E2%80%8BLa-CNSS-investit-6-millions-de-dirhams-pour-deployer-un-Chatbot-au-service-de-ses-collaborateurs_a151143.html>).
 
-**Rules or register.** No source held since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html>).
+**Rules or register.** No source found since October 2023 says the government has issued rules or a register for its own use of AI. The nearest held fact: [the one given above](<https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Rules or a register for the government's own use of AI are not known.
+***Not found***. No source found reports rules or a register for the government's own use of AI.

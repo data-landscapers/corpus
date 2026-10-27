@@ -2,6 +2,6 @@
 
 ## AI harms
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether anything addresses harms from AI.
+***Not found***. Nothing found says whether anything addresses harms from AI.

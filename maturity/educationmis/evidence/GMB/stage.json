@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GMB-008",
-   "gaps": "No source held since October 2023 says learner records are linked to the national ID or another government system.",
+   "gaps": "No source found since October 2023 says learner records are linked to the national ID or another government system.",
    "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
   }
  ]

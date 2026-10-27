@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-001;NER-003",
-      "gaps": "No source held since October 2023 says births are registered digitally across the country.",
+      "gaps": "No source found since October 2023 says births are registered digitally across the country.",
       "note": "Civil registration is computerised in 68% of communes and a digital platform runs in 100 (2026).",
       "as_at": "2026-10-24"
     }

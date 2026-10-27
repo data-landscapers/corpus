@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says: do over half hold one.
+***Not found***. No source found since October 2023 says: do over half hold one.

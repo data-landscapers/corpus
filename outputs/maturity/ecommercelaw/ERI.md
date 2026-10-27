@@ -2,6 +2,6 @@
 
 ## E-commerce law
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No law or draft is on record, and no source dated in the last three years says the country has none.
+***Not found***. No law or draft is on record, and no source dated in the last three years says the country has none.

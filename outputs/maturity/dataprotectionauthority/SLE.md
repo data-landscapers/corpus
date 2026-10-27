@@ -2,6 +2,6 @@
 
 ## Supervisory authority
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No law held names an authority, and no source from the last three years says the country has none. An authority is named only in a bill of 2025.
+***Not found***. No law held names an authority, and no source from the last three years says the country has none. An authority is named only in a bill of 2025.

@@ -8,6 +8,6 @@
 
 **Volumes reported.** [AfricaNenda says GIMACPAY processed about 10 million transactions worth $657 million in 2022 across all six states, domestic and cross-border combined (2022, before the three-year window)](<https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

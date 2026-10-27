@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** No law on AI is in force. The [preliminary draft](<https://realequatorialguinea.com/tecnologia/guinea-ecuatorial-da-los-primeros-pasos-para-disponer-de-una-ley-de-inteligencia-artificial/>) is for a law on AI itself and not for one sector or one use. No source dated to September 2026 says it has been approved by the Council of Ministers or sent to parliament, and nothing on its content beyond the drafting sessions is recorded.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a law, decree or regulation that sets a rule for AI is in force.
+***Not found***. No source found says a law, decree or regulation that sets a rule for AI is in force.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-023;SLE-006",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
       "note": "Rebuild: the NCRA verification platform is used by financial and telecoms companies among others (SLE-023, SLE-006). Verifiable credentials are only at MoU (SLE-019).",
       "as_at": "2026-10-22"
     }

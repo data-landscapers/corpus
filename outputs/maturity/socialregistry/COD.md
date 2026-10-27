@@ -6,8 +6,8 @@
 
 **Several programmes.** [MINAS says the RSU provides lists of eligible households to the different social programmes, including State ones, under data-sharing protocols](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

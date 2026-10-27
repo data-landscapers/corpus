@@ -6,8 +6,8 @@
 
 **Authority.** [CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, supervises, has sanctioning powers, and is the first regulator to reach automated decisions in Angola](<https://revista.cazosadvogados.com/pt/governacao-digital-ia>).
 
-**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://revista.cazosadvogados.com/pt/governacao-digital-ia>).
+**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://revista.cazosadvogados.com/pt/governacao-digital-ia>).
 
-***Noted, not assessed***. [Plataforma de Interoperabilidade da Administração Pública](<https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/>).
+***Also on file***. [Plataforma de Interoperabilidade da Administração Pública](<https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/>).
 
-***Not held***. No source held since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not found***. No source found since October 2023 gives an enforcement or redress decision about a harm from AI.

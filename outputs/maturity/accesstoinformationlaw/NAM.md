@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** [Regulations made under the Act were gazetted on 9 December 2024, setting the terms of the selection committee and the process for appointing the Information Commissioner](<https://www.lac.org.na/laws/2024/8530.pdf>). Regulations made in the last three years are counted as the law applied. The appointment of a commissioner, a decision on a request and published figures of requests are not recorded, so what is held shows the Act being prepared for use and not yet used.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

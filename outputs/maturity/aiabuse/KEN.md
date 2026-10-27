@@ -6,8 +6,8 @@
 
 **Authority.** No body is designated by law or decree with a mandate over AI harms. [The AI Commissioner's office](<https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai>) exists only in the bill, which the Senate committee has advised against.
 
-**Enforced.** No enforcement, audit, takedown, penalty or redress decision about a harm from AI is held. The nearest held fact is [the bill's proposed fines and sanctions](<https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai>), which no rule in force carries.
+**Enforced.** No enforcement, audit, takedown, penalty or redress decision about a harm from AI has been found. The nearest held fact is [the bill's proposed fines and sanctions](<https://www.the-star.co.ke/news/2026-10-15-senate-committee-shoots-down-nyamus-bill-on-ai>), which no rule in force carries.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No rule on AI harms in force and no body designated over AI is held.
+***Not found***. No rule on AI harms in force and no body designated over AI has been found.

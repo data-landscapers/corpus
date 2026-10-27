@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "NAM-001;NAM-002",
-   "gaps": "No source held since October 2023 says an exchange between health systems is under way.",
+   "gaps": "No source found since October 2023 says an exchange between health systems is under way.",
    "note": "First pass: counted from the four questions by study-ladder-healthexchange.py."
   }
  ]

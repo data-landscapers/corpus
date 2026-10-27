@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CMR-002;CMR-003",
-      "gaps": "No source held dates a ratification or accession.",
+      "gaps": "No source found dates a ratification or accession.",
       "note": "Counted from the four questions by study-ladder-regionallaw.py.",
       "as_at": "2026-10-17"
     }

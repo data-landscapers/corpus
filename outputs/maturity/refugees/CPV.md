@@ -2,6 +2,6 @@
 
 ## Refugees and displaced people
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether refugees or displaced people are registered or can use digital services.
+***Not found***. Nothing found says whether refugees or displaced people are registered or can use digital services.

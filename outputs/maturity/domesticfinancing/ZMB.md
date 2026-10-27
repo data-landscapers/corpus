@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The budget document linked names no fund, levy or assigned tax for digital programmes. The nearest budget fact is that [the budget for 2026 gives 1,942.9 million kwacha to 45 digital lines](<https://www.mofnp.gov.zm/?wpdmpro=2026-national-budget>).
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Whether the government has said digital transformation must be paid for from its own resources and acted on it: no fund, levy or assigned tax is shown created, collecting or paying.
+***Not found***. Whether the government has said digital transformation must be paid for from its own resources and acted on it: no fund, levy or assigned tax is shown created, collecting or paying.

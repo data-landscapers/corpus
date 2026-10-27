@@ -12,6 +12,6 @@
 
 **Last twelve months.** The Regulatory Framework was [approved after the Ministry of Communications and Technology said it had cleared constitutional, legal and technical procedures](<https://itweb.africa/article/somalia-adopts-data-regulatory-framework/>), reported on 6 February 2026. The Authority [opened registration of controllers and processors](<https://techafricanews.com/2026/06/02/somalia-data-protection-authority-enforces-nationwide-data-compliance-rules/>), reported on 2 June 2026.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No named and dated decision, sanction or order under the law, and no published count of decisions for a stated period. The date the 2023 Act came into force.
+***Not found***. No named and dated decision, sanction or order under the law, and no published count of decisions for a stated period. The date the 2023 Act came into force.

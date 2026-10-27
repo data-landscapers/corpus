@@ -6,6 +6,6 @@
 
 **Certification.** The [1998 decree](<https://www.ianor.dz/wp-content/uploads/2023/02/2-D_exe_98-69_instituant-IANOR-FR.pdf>) also charges the institute with adopting conformity marks and authorising their use. Nothing in it, or in the draft programme for 2026, names certification against a standard on information technology or data, or an organisation certified against one.
 
-***Noted, not assessed***. [GEOLAB](<https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ>).
+***Also on file***. [GEOLAB](<https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ>).
 
-***Not held***. No source held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.

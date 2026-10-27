@@ -16,6 +16,6 @@
 
 **Last twelve months.** A March 2026 article cites the policy as [setting plans for a space studies centre, expert training and communications, navigation and meteorology infrastructure](<https://www.wearetech.africa/en/fils-uk/news/tech/angola-launches-259-million-earth-observation-satellite-project>).
 
-***Noted, not assessed***. [Conecta Angola](<https://minttics.gov.ao/ao/noticias/mensagem-sobre-o-estado-da-nacao-2025/>).
+***Also on file***. [Conecta Angola](<https://minttics.gov.ao/ao/noticias/mensagem-sobre-o-estado-da-nacao-2025/>).
 
-***Not held***. Whether the text of the Livro Branco das TIC 2023-2027 is public is not known. Nothing is held on a mandated body, finance, a delivery plan or reporting against the policy, and no dated change to it falls in the twelve months to 30 September 2026.
+***Not found***. No source found says whether the text of the Livro Branco das TIC 2023-2027 is public. Nothing is held on a mandated body, finance, a delivery plan or reporting against the policy, and no dated change to it falls in the twelve months to 30 September 2026.

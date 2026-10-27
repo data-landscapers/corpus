@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-010;BEN-006",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
       "note": "Rebuild: NPI authentication conditions SIM acquisition and public service platforms (BEN-010), and the fID QR app serves finance and education (BEN-006). The ePass app serves one procedure and is not a mobile ID.",
       "as_at": "2026-10-22"
     }

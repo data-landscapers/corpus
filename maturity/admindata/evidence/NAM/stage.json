@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-001;NAM-004",
-      "gaps": "No source held shows statistics from three administrative sources, each published twice since October 2023.",
+      "gaps": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
       "note": "Counted from the four questions by study-ladder-admindata.py, on the ladder of 2026-10-19.",
       "as_at": "2026-10-19"
     }

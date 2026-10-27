@@ -6,6 +6,6 @@
 
 **Digital identity covered and rules made.** The law [authorises digital birth, marriage and death certificates and a unique personal identification number for every citizen](<https://www.biometricupdate.com/202510/cameroon-partners-with-liber-technologies-to-pursue-crvs-reforms>). The number is the part of the law that makes it an identity law as well as a civil registration one: each citizen is to hold one number, issued from the civil register, and the certificates drawn from that register may be digital. No regulation or decree made under the law since September 2023 is on record.
 
-***Noted, not assessed***. [Unique Personal Identification Number (UPIN)](<https://www.biometricupdate.com/202510/cameroon-partners-with-liber-technologies-to-pursue-crvs-reforms>); [new biometric national ID](<https://www.biometricupdate.com/202510/cameroon-partners-with-liber-technologies-to-pursue-crvs-reforms>); [national civil-status database](<https://www.lawjournal.digital/jour/article/view/507>).
+***Also on file***. [Unique Personal Identification Number (UPIN)](<https://www.biometricupdate.com/202510/cameroon-partners-with-liber-technologies-to-pursue-crvs-reforms>); [new biometric national ID](<https://www.biometricupdate.com/202510/cameroon-partners-with-liber-technologies-to-pursue-crvs-reforms>); [national civil-status database](<https://www.lawjournal.digital/jour/article/view/507>).
 
-***Not held***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.
+***Not found***. No regulation or decree applying the law, and no rule made under it that others must check identity against the system, dated in the last three years, is held.

@@ -14,7 +14,7 @@ fact is cut, and so is an opening that names the document rather than who said i
 The short summary is one sentence per stage, with the year of the fact that set it. Writes, per
 country, `outputs/maturity/nationaldatacentres/{ISO3}.md` and
 `maturity/nationaldatacentres/evidence/{ISO3}/short.json`, in the shape `lint-study.py` holds. The centre paragraph holds the nationally owned facilities only, as the ladder script reads
-them; a foreign-owned one is `other` (study file §1) and is named in *Noted, not assessed*.
+them; a foreign-owned one is `other` (study file §1) and is named in *Also on file*.
 Run it after the ladder script, which writes the `stage.json` it reads.
 
 Exit: 0 written, 2 the study cannot be read.
@@ -29,6 +29,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "nationaldatacentres"
@@ -55,7 +56,7 @@ RESTS = {
          "service, which answers the first three of the study's four questions.",
     "3": "These place a nationally owned data centre for hire at Tier III or above in service. A "
          "second at Tier III is not stated.",
-    "2": "These place a nationally owned data centre for hire in service. No source held states "
+    "2": "These place a nationally owned data centre for hire in service. No source found states "
          "one at Tier III or above: built so that power and cooling can be maintained without "
          "shutting the data centre down, as the Uptime Institute defines it.",
     "1": "A dated statement that no data centre in the country rents space or computing to "
@@ -67,7 +68,7 @@ SHORT = {
     "5": "Two nationally owned data centres for hire at Tier III or above by {y}, and the state's own data hosted with a national provider.",
     "4": "Two nationally owned data centres for hire at Tier III or above by {y}; state hosting with them not known.",
     "3": "A nationally owned data centre for hire at Tier III or above by {y}; no second one held.",
-    "2": "A nationally owned data centre for hire in service by {y}, none held at Tier III or above.",
+    "2": "A nationally owned data centre for hire in service by {y}, none found at Tier III or above.",
     "1": "A {y} source says no data centre in the country rents space or computing to others.",
 }
 
@@ -146,7 +147,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         state = [r for r in rows if r["aspect"] == "state"]
         st = sentences(state, [i for i in src if i in {r["row_id"] for r in state}], STATE_ROOM)
         if not st:
-            st = [f"Nothing held says the government hosts its own data beside "
+            st = [f"Nothing found says the government hosts its own data beside "
                   f"{link(top['url'], 'the national data centres')}."]
         ow = sentences(owner, [], OWN_ROOM)
         if not ow:
@@ -159,7 +160,7 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
                     names.append(link(r["url"], r["system"].strip())
                                  + ("" if bare.lower() in r["system"].lower() else f" ({own})"))
             ow = ["Nationally owned: " + "; ".join(names) + "."] if names else \
-                [f"No source held states who owns {link(top['url'], 'the data centre')}."]
+                [f"No source found states who owns {link(top['url'], 'the data centre')}."]
         used = sum(len(s.split()) for s in st + ow) + len(OWN.split())
         body = sentences(centre, src, ROOM - used - len(RESTS[cell["stage"]].split()))
         parts += [f"**{centre_name}.** " + " ".join(body + [RESTS[cell["stage"]]]), "",
@@ -167,19 +168,19 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
                   f"**{state_name}.** " + " ".join(st), ""]
         short = SHORT[cell["stage"]].format(y=top["as_of"][:4])
     elif cell["stage"] == "unplaced":
-        short = ("Nothing held says a data centre for hire in the country is nationally owned, "
+        short = ("Nothing found says a data centre for hire in the country is nationally owned, "
                  "so no stage is set.")
     else:
-        short = ("Nothing held says a data centre in the country rents space or computing to "
+        short = ("Nothing found says a data centre in the country rents space or computing to "
                  "others, so no stage is set.")
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

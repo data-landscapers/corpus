@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "UGA-014;UGA-003",
-      "gaps": "Firms' tax identifier is to become the URSB registration number; no source held says the TIN is now issued at business registration or used by customs.",
+      "gaps": "Firms' tax identifier is to become the URSB registration number; no source found says the TIN is now issued at business registration or used by customs.",
       "note": "URA's register held 5.7 million taxpayers in June 2026, and verification against NIRA is in service (2026). The URSB number is only to become firms' tax identifier, so rung 4 is not shown and the tie to the ID no longer lifts the cell (Bill, 2026-10-23).",
       "as_at": "2026-10-23"
     }

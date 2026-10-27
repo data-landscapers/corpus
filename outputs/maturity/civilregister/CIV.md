@@ -6,8 +6,8 @@
 
 **Deaths digital.** [AIP reports the Citiweb software deployed in all mairie and sous-préfecture civil-registry centres is for digital registration of births, marriages, deaths and other acts](<https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/>). [AIP reports the Citiweb software deployed by ONECI captures births, marriages and deaths in all mairie and sous-préfecture centres, equipped at the end of 2025](<https://www.aip.ci/cote-divoire-aip-loneci-renforce-les-capacites-en-logiciel-citiweb-des-agents-de-letat-civil-de-la-region-du-goh/>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/>).
 
-***Noted, not assessed***. [Registre national des personnes physiques (RNPP)](<https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/>).
+***Also on file***. [Registre national des personnes physiques (RNPP)](<https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/>).
 
-***Not held***. No source held since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 puts birth registration at 90% or more.

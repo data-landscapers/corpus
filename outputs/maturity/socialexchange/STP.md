@@ -6,8 +6,8 @@
 
 **One registry shared by programmes.** [The DPSSF page describes Kénon as a unified database centralising data on vulnerable families and beneficiaries of programmes such as Programa Família, and as producing reports for both PEP+ and Programa Família; it names no exchange with the ID, civil registration or other government systems](<https://dpssf.gov.st/index.php/explorar/recursos-uteis/sobre-kenon>).
 
-**Linked to the ID and another sector.** No source held since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://dpssf.gov.st/index.php/explorar/recursos-uteis/sobre-kenon>).
+**Linked to the ID and another sector.** No source found since October 2023 says the registry is linked to the national ID and to another sector. The nearest held fact: [the one given above](<https://dpssf.gov.st/index.php/explorar/recursos-uteis/sobre-kenon>).
 
-***Noted, not assessed***. [Electronic cash transfer payment system](<https://documents1.worldbank.org/curated/en/099091725161547918/txt/BOSIB-92986af7-9307-44ac-b3b9-5f75cb4949c8.txt>).
+***Also on file***. [Electronic cash transfer payment system](<https://documents1.worldbank.org/curated/en/099091725161547918/txt/BOSIB-92986af7-9307-44ac-b3b9-5f75cb4949c8.txt>).
 
-***Not held***. No source held since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.

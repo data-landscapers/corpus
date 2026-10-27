@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The nearest held fact is [the joint venture agreement of 31 August 2026](<https://www.citinewsroom.com/2026/08/afcfta-quest-ghana-sign-deal-to-establish-digital-trade-corridor/>), signed in Accra to establish the digital trade corridor; the corridor is not reported as operating. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
 
-***Noted, not assessed***. [AfCFTA Protocol on Digital Trade](<https://au.int/sites/default/files/decisions/46188-Assembly_Decisions_31_March_E.pdf>); [Smart Africa Alliance](<https://btw.media/en/smart-africa-afrinic-treaty-silence>); [Africa Declaration on Artificial Intelligence](<https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/>); [PAPSS](<https://www.citinewsroom.com/2026/08/afcfta-quest-ghana-sign-deal-to-establish-digital-trade-corridor/>).
+***Also on file***. [AfCFTA Protocol on Digital Trade](<https://au.int/sites/default/files/decisions/46188-Assembly_Decisions_31_March_E.pdf>); [Smart Africa Alliance](<https://btw.media/en/smart-africa-afrinic-treaty-silence>); [Africa Declaration on Artificial Intelligence](<https://www.africanlawbusiness.com/news/optimism-but-uncertainty-over-africas-ai-declaration/>); [PAPSS](<https://www.citinewsroom.com/2026/08/afcfta-quest-ghana-sign-deal-to-establish-digital-trade-corridor/>).
 
-***Not held***. No source held says a thing the country agreed has been put into effect.
+***Not found***. No source found says a thing the country agreed has been put into effect.

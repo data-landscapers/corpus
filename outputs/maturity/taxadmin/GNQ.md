@@ -2,6 +2,6 @@
 
 ## Tax
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how taxes are filed and paid.
+***Not found***. Nothing found says how taxes are filed and paid.

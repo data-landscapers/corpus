@@ -6,8 +6,8 @@
 
 **AI computing.** [In March 2026 the government opened a US$350,000 National Information Access Centre at Zimbabwe Open University's Hatcliffe campus, equipped with an Nvidia GPU AI server for AI training and analytics](<https://www.heraldonline.co.zw/minister-shava-launches-ai-hub-at-zimbabwe-open-university/>).
 
-**Shared with users.** No source held since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://cite.org.zw/econet-ai-nears-completion-of-ndebele-speaking-chatbot/>).
+**Shared with users.** No source found since October 2023 says national AI computing, models or datasets are open to named users. The nearest held fact: [the one given above](<https://cite.org.zw/econet-ai-nears-completion-of-ndebele-speaking-chatbot/>).
 
-***Noted, not assessed***. [High Performance Computer at the University of Zimbabwe](<https://www.techzim.co.zw/2026/04/econet-ai-is-here-and-its-more-than-those-yamurai-ads-weve-been-seeing/>).
+***Also on file***. [High Performance Computer at the University of Zimbabwe](<https://www.techzim.co.zw/2026/04/econet-ai-is-here-and-its-more-than-those-yamurai-ads-weve-been-seeing/>).
 
-***Not held***. No source held since October 2023 says national AI computing, models or datasets are open to named or counted users.
+***Not found***. No source found since October 2023 says national AI computing, models or datasets are open to named or counted users.

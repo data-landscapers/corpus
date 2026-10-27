@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "RWA-001",
-   "gaps": "No source held since October 2023 says two education systems exchange data in use.",
+   "gaps": "No source found since October 2023 says two education systems exchange data in use.",
    "note": "First pass: counted from the four questions by study-ladder-educationexchange.py."
   }
  ]

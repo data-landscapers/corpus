@@ -6,6 +6,6 @@
 
 **Certification.** A certificate of the Southern African Development Community's accreditation service, dated 14 December 2025, [accredits the bureau to certify quality management systems](<https://www.sadcas.org/sites/default/files/2026-04/CBAS%20-%20MBS%20-%20Cert%20%26%20SoA%20%28QMS%20Certification%29%20%28Issue%2001%29%20Dec%202025.pdf>) and describes it as established by the Act. The accreditation, listed below, covers quality management; the certificate names no national standard on information technology or data, and no accreditation to certify against one.
 
-***Noted, not assessed***. [Malawi Bureau of Standards, Quality Management Systems Certification (QMS-CERT-003)](<https://www.sadcas.org/sites/default/files/2026-04/CBAS%20-%20MBS%20-%20Cert%20%26%20SoA%20%28QMS%20Certification%29%20%28Issue%2001%29%20Dec%202025.pdf>).
+***Also on file***. [Malawi Bureau of Standards, Quality Management Systems Certification (QMS-CERT-003)](<https://www.sadcas.org/sites/default/files/2026-04/CBAS%20-%20MBS%20-%20Cert%20%26%20SoA%20%28QMS%20Certification%29%20%28Issue%2001%29%20Dec%202025.pdf>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

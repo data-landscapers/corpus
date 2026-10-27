@@ -6,6 +6,6 @@
 
 **Certification.** The [register entry](<https://www.eos.org.eg/en/standard/14180>) for the 2025 standard is the nearest text held, and it names no certifier and no organisation certified against the standard.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. No source found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.

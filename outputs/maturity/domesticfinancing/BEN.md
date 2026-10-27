@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The [2026 budget execution table gives the Numérique programme 12.4 billion francs in credits, part-paid by a loan tranche](<https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf>), and the [ministry's piloting and support programme 2,184,235,167 francs](<https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf>).
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. The money for digital transformation was lower in the latest budget than in the one before.
+***Not found***. The money for digital transformation was lower in the latest budget than in the one before.

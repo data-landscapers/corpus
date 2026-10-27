@@ -6,8 +6,8 @@
 
 **Paid electronically.** [The LEAP programme history says LEAP moved to electronic payments in Q3 2013 through AYA Technologies, MTN Mobile Money and GhIPSS, with biometric e-zwich payments rolled out nationwide in 2015 (2013, before the three-year window)](<http://leap.mogcsp.gov.gh/background.php>).
 
-**Several programmes.** No source held since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://www.mogcsp.gov.gh/?mdocs-file=8618>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://www.mogcsp.gov.gh/?mdocs-file=8618>).
 
-***Noted, not assessed***. [GNHR](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [SWIMS](<https://www.mogcsp.gov.gh/?mdocs-file=8618>).
+***Also on file***. [GNHR](<https://www.mogcsp.gov.gh/?mdocs-file=8618>); [SWIMS](<https://www.mogcsp.gov.gh/?mdocs-file=8618>).
 
-***Not held***. No source held since October 2023 says the programme's system pays beneficiaries electronically.
+***Not found***. No source found since October 2023 says the programme's system pays beneficiaries electronically.

@@ -6,6 +6,6 @@
 
 **Use of the law.** In an article published on 13 August 2026, the [Cyber Security Authority fined the Office of the Registrar of Companies](<https://www.graphic.com.gh/news/general-news/office-of-registrar-of-companies-and-service-provider-fined-ghc240-000-for-breaches-cybersecurity-directive-breaches.html>) GH¢240,000, being 10,000 penalty units for each of two instances of non-compliance under Section 92(2) of Act 1038. It also fined Purpleline Solutions Limited GH¢120,000 for providing cybersecurity services without a licence. Both were fined as bodies, one a state office and one a private company.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.
+***Not found***. No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.

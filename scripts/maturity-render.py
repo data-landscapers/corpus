@@ -256,7 +256,7 @@ def indicator_page(ind: dict, eds: dict, names: dict, cat: dict, natures: dict, 
                      f"| {name} | {stage_cell(j, meas)} | {stage_cell(a, meas)}{moved} | {ev} | {esc(cur.get('qualifier'))} |"))
     o += [r[2] for r in sorted(rows)]
     o += ["", "*▲ the stage moved in August on a source dated in the month. Unplaced: the "
-          "evidence held meets no stage. —: no evidence.*", ""]
+          "evidence found meets no stage. —: no evidence.*", ""]
     return "\n".join(o)
 
 

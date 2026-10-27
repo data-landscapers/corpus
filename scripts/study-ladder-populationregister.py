@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "populationregister"
 SUB = "population"
-GAPS = {'4': 'No source held since October 2023 says other systems take records from the population register.', '3': 'No source held since October 2023 says births or deaths are entered in the population register.', '2': 'No source held since October 2023 says: is a population register in service.', '1': 'No source held since October 2023 says: is a population register under way.', '5': ''}
-EMPTY = 'Nothing held names a population register, or says there is none.'
-UNPLACED = 'Nothing held since October 2023 says whether a population register is under way or in service.'
+GAPS = {'4': 'No source found since October 2023 says other systems take records from the population register.', '3': 'No source found since October 2023 says births or deaths are entered in the population register.', '2': 'No source found since October 2023 says: is a population register in service.', '1': 'No source found since October 2023 says: is a population register under way.', '5': ''}
+EMPTY = 'Nothing found names a population register, or says there is none.'
+UNPLACED = 'Nothing found since October 2023 says whether a population register is under way or in service.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

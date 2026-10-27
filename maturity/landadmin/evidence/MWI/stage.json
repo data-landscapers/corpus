@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MWI-001",
-      "gaps": "No source held since October 2023 says the land system joins records to survey maps or valuation.",
+      "gaps": "No source found since October 2023 says the land system joins records to survey maps or valuation.",
       "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
       "as_at": "2026-10-18"
     }

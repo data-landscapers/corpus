@@ -6,8 +6,8 @@
 
 **Between providers.** [Transfers from banks can credit mobile money wallets in seconds and the reverse, in real time, via PI-SPI, which the article says now connects banks and mobile money 100% in UEMOA](<https://www.lanation.bj/numerique/plateforme-interoperable-du-systeme-de-paiement-instantane-banques-et-mobile-money-desormais-interconnectes-a-100-dans-luemoa>). [BCEAO reports 80 participants connected to PI-SPI on 2 April 2026: 59 banks, 9 e-money institutions, 11 microfinance institutions and 1 payment institution, on one interoperable platform](<https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de>). [Le Grand Ouémé reported in November 2025 that Moov Money customers can send instant transfers between their wallet and bank and microfinance accounts on PI-SPI](<https://legrandoueme.bj/moov-money-et-boa-benin-adoptent-la-plateforme-pi-spi-de-la-bceao/>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.lanation.bj/numerique/plateforme-interoperable-du-systeme-de-paiement-instantane-banques-et-mobile-money-desormais-interconnectes-a-100-dans-luemoa>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.lanation.bj/numerique/plateforme-interoperable-du-systeme-de-paiement-instantane-banques-et-mobile-money-desormais-interconnectes-a-100-dans-luemoa>).
 
-***Noted, not assessed***. [PI-SPI](<https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de>).
+***Also on file***. [PI-SPI](<https://bceao.int/fr/communique-presse/connexion-la-plateforme-interoperable-du-systeme-de-paiement-instantane-pi-spi-de>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

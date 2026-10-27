@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** There is a government-backed startup programme launched in March 2026 with [Scalar International](<https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/>), which states no private amount.
 
-***Noted, not assessed***. [Scalar Botswana Innovation Program (SBIP)](<https://www.mmegi.bw/news/botswana-launches-scalar-programme-to-bridge-innovation-funding-gap/news>).
+***Also on file***. [Scalar Botswana Innovation Program (SBIP)](<https://www.mmegi.bw/news/botswana-launches-scalar-programme-to-bridge-innovation-funding-gap/news>).
 
-***Not held***. Only one amount is held from 2024 on, so whether private money came in more than one year is not known.
+***Not found***. Only one amount is held from 2024 on, so no source found says whether private money came in more than one year.

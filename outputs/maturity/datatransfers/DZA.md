@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The nearest fact held is the Authority's [Délibération n° 04 of 15 July 2026](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>), which applies the transfer rule to images published on foreign-run platforms. It is a ruling on one kind of transfer, and the law's [article 45 bis 13](<https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025048.pdf>) is the assessment it rests on. [Digital Policy Alert said in April 2025 that the ANPDP had not issued the list of adequate countries or the declarations for transfer authorisation](<https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. No source found says the authority has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

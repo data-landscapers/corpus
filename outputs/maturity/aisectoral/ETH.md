@@ -8,6 +8,6 @@
 
 **Results reported.** CGIAR reports that the fertilizer advisory [raised wheat yields by 16-25% and maize yields by 10.5-17.6% among participating farmers in 2025](<https://www.cgiar.org/news-events/news/how-ethiopia-built-national-digital-fertilizer-advisory-system>). IDinsight reports [83.3% medical accuracy for the health assistant in real-world use](<https://www.idinsight.org/project/building-an-ai-powered-clinical-advisor-to-strengthen-frontline-healthcare-in-ethiopia/>) by 2025.
 
-***Noted, not assessed***. [AI-powered survey dashboard](<https://www.ena.et/web/eng/w/eng_8870155>).
+***Also on file***. [AI-powered survey dashboard](<https://www.ena.et/web/eng/w/eng_8870155>).
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

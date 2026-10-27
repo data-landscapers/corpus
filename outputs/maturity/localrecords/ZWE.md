@@ -12,6 +12,6 @@
 
 **Local governments recording.** [Around 83 of Zimbabwe's 92 local authorities use at least one LADS module](<https://www.heraldonline.co.zw/hit-offers-affordable-erp-system-to-harare/>), the institute told the Harare Commission of Inquiry in November 2024.
 
-***Noted, not assessed***. Gweru City Council's [Business Licensing system](<https://veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf>) and the Harare Institute of Technology's [Ndarama ERP](<https://www.heraldonline.co.zw/hits-erp-systems-boost-for-councils/>).
+***Also on file***. Gweru City Council's [Business Licensing system](<https://veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf>) and the Harare Institute of Technology's [Ndarama ERP](<https://www.heraldonline.co.zw/hits-erp-systems-boost-for-councils/>).
 
-***Not held***. Which LADS modules the 83 local authorities use, and whether any of them records revenue, is not stated. No fact on governance is dated inside the last three years, and no event inside the last twelve months.
+***Not found***. Which LADS modules the 83 local authorities use, and whether any of them records revenue, is not stated. No fact on governance is dated inside the last three years, and no event inside the last twelve months.

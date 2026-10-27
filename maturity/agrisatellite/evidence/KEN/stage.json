@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-002;KEN-001",
-      "gaps": "No source held since October 2023 says: is a service in use.",
+      "gaps": "No source found since October 2023 says: is a service in use.",
       "note": "First pass: counted from the four questions by study-ladder-agrisatellite.py.",
       "as_at": "2026-10-18"
     }

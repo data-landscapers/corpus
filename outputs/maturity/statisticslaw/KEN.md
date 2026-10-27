@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is the bill. [The Statistics Bill, 2026 runs to 38 pages and is a bill, not an enacted law](<https://www.knbs.or.ke/wp-content/uploads/2026/04/The-Statistics-Bill-2026.pdf>). The Act it would repeal is held in [the consolidated revision to 31 December 2022](<https://new.kenyalaw.org/akn/ke/act/2006/4>), which lists two orders for a population census as the subsidiary legislation made under it, the later in 2018. Orders for one census are noted here and not counted as rules that put the law to work.
 
-***Noted, not assessed***. [Second Kenya Strategy for Development of Statistics (KSDS II) 2023/24-2027/28](<https://www.knbs.or.ke/the-second-kenya-strategy-for-development-of-statistics/>).
+***Also on file***. [Second Kenya Strategy for Development of Statistics (KSDS II) 2023/24-2027/28](<https://www.knbs.or.ke/the-second-kenya-strategy-for-development-of-statistics/>).
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

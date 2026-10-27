@@ -6,6 +6,6 @@
 
 **Certification.** In September 2026 the bureau [signed a technical cooperation agreement with the Rwanda Standards Board](<https://www.zambiamonitor.com/zambia-rwanda-sign-technical-cooperation-agreement-to-harmonise-standards/>) on standardisation, conformity assessment and quality assurance, at the general assembly of the African standards organisation in Mombasa. The report names no certification against a standard on information technology or data.
 
-***Noted, not assessed***. [Digital Data Protection Compliance Management System (DPCMS)](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498>).
+***Also on file***. [Digital Data Protection Compliance Management System (DPCMS)](<https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

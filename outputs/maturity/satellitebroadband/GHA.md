@@ -6,6 +6,6 @@
 
 **Subscribers counted by the regulator.** [Subscribers: 15,384 at 2025-06 (Q2 2025), per the NCA, satellite internet subscriptions in Ghana, up from 10,362 at Q4 2024 and 11,982 at Q1 2025](<https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/35/35_ITU_EGTI2025_EmanuelNeizer_SatelliteBasedInternetConnectivityStatistics_GhanaExperience.pdf>). [Subscribers: 2,666 at 2024-03 (Q1 2024), per the NCA, satellite internet subscriptions in Ghana before Starlink was licensed](<https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/35/35_ITU_EGTI2025_EmanuelNeizer_SatelliteBasedInternetConnectivityStatistics_GhanaExperience.pdf>). Only a count the regulator publishes, from the past three years, answers this question; counts given by an operator or an analyst do not.
 
-***Noted, not assessed***. [Starlink](<https://gna.org.gh/2025/09/starlink-partners-connects-30-volta-schools-to-high-speed-internet/>); [Amazon Leo](<https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion>).
+***Also on file***. [Starlink](<https://gna.org.gh/2025/09/starlink-partners-connects-30-volta-schools-to-high-speed-internet/>); [Amazon Leo](<https://www.ecofinagency.com/news-digital/2809-59286-ghana-discusses-amazon-leo-partnership-for-broadband-expansion>).
 
-***Not held***. No source held says services on two different satellite networks are on sale.
+***Not found***. No source found says services on two different satellite networks are on sale.

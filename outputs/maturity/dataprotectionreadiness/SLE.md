@@ -10,6 +10,6 @@
 
 **Implementing and acting.** [Cabinet's April 2026 decision](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>) left the Ministry of Information and Civic Education and the Attorney-General's office to finalise the Bill and table it in Parliament.
 
-***Noted, not assessed***. [Right to Access Information Commission (RAIC)](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>); [National Data Protection Policy](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>).
+***Also on file***. [Right to Access Information Commission (RAIC)](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>); [National Data Protection Policy](<https://moice.gov.sl/cabinet-approves-first-ever-data-protection-policy-paving-way-for-new-data-law/>).
 
-***Not held***. Whether any authority is constituted or acting is not held, and neither is any ruling against an organisation.
+***Not found***. Whether any authority is constituted or acting is not held, and neither is any ruling against an organisation.

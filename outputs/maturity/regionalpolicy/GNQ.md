@@ -6,6 +6,6 @@
 
 **What was agreed put into effect and in use.** The nearest held fact is [the Kigali declaration](<https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf>), a statement of shared aims on artificial intelligence, and nothing Equatorial Guinea has done under it is reported. A roaming cut, a joint body set up, a regional guideline adopted as a national rule or a shared service opened is not recorded, and neither are figures of use or a decision of a joint body.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.
+***Not found***. No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.

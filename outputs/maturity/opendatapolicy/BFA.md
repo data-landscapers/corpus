@@ -2,6 +2,6 @@
 
 ## Open data policy
 
-***Noted, not assessed***. [Burkina Open Data Initiative (BODI)](<https://lefaso.net/spip.php?article148338>).
+***Also on file***. [Burkina Open Data Initiative (BODI)](<https://lefaso.net/spip.php?article148338>).
 
-***Not held***. Nothing held names an open data policy, or says there is none.
+***Not found***. Nothing found names an open data policy, or says there is none.

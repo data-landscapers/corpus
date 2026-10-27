@@ -6,6 +6,6 @@
 
 **Certification.** [Decree 2023-113](<https://faolex.fao.org/docs/pdf/mau229551.pdf>) also gives the office the secretariat of the accreditation cell it creates, the Mauritanian accreditation committee listed below. It names no body accredited to certify, and no certification against a standard on information technology or data.
 
-***Noted, not assessed***. [Comité Mauritanien d'Accréditation](<https://faolex.fao.org/docs/pdf/mau229551.pdf>).
+***Also on file***. [Comité Mauritanien d'Accréditation](<https://faolex.fao.org/docs/pdf/mau229551.pdf>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

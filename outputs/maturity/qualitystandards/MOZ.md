@@ -6,6 +6,6 @@
 
 **Certification.** The [2022 decree](<https://faolex.fao.org/docs/pdf/moz211531.pdf>) also charges the institute with certifying management systems, products, services and people. On 16 March 2026 it [awarded a quality management certificate to the finance area of the National Institute of Health](<https://ins.gov.mz/area-financeira-do-ins-certificada-com-a-norma-iso-90012015/>); no certificate against a standard on information technology or data is named.
 
-***Noted, not assessed***. [AccUtilis](<https://www.itweb.africa/article/mozambique-telecoms-complaints-surge-44/WnxpEv4YyKl7V8XL>); [ISO 9001:2015 quality management system, INS finance area](<https://ins.gov.mz/area-financeira-do-ins-certificada-com-a-norma-iso-90012015/>); [Clarity/SAP](<https://www.incm.gov.mz/wp-content/uploads/2026/08/Relatorio-de-Defesa-do-Consumidor-dos-Servicos-de-Comunicacoes-2025.pdf>).
+***Also on file***. [AccUtilis](<https://www.itweb.africa/article/mozambique-telecoms-complaints-surge-44/WnxpEv4YyKl7V8XL>); [ISO 9001:2015 quality management system, INS finance area](<https://ins.gov.mz/area-financeira-do-ins-certificada-com-a-norma-iso-90012015/>); [Clarity/SAP](<https://www.incm.gov.mz/wp-content/uploads/2026/08/Relatorio-de-Defesa-do-Consumidor-dos-Servicos-de-Comunicacoes-2025.pdf>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

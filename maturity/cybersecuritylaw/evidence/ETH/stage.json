@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "ETH-001;ETH-002",
-   "gaps": "No source held says a cybercrime or cybersecurity law is in force.",
+   "gaps": "No source found says a cybercrime or cybersecurity law is in force.",
    "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
   }
  ]

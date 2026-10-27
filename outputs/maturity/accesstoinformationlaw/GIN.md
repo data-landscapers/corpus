@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The nearest held fact is the law itself, [Law no. 2020/0027/AN](<https://assembleeguinee.org/ndeg-20200027-portant-droit-dacces-linformation-publique-en-republique-de-guinee>). What would put it to work is a decree, regulation or order made under it, an information commission or commissioner appointed, or an existing body such as an ombudsman taking up its oversight. What would show it applied is a decision, order or penalty on a request for information, or figures of requests published by the body that oversees it. Neither is recorded for Guinea.
 
-***Noted, not assessed***. [Journal Officiel numérique](<https://mediaguinee.com/2025/06/digitalisation-le-journal-officiel-passe-au-numerique-une-innovation-du-secretariat-general-du-gouvernemente/>).
+***Also on file***. [Journal Officiel numérique](<https://mediaguinee.com/2025/06/digitalisation-le-journal-officiel-passe-au-numerique-une-innovation-du-secretariat-general-du-gouvernemente/>).
 
-***Not held***. No source held names rules made under the law or says its oversight body is set up.
+***Not found***. No source found names rules made under the law or says its oversight body is set up.

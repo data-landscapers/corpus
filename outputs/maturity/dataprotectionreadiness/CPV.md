@@ -10,6 +10,6 @@
 
 **Implementing and acting.** [The CNPD president says](<https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448>) cases have arrived involving AI and Big Data, including two generative-AI image manipulation cases, with cases that may be criminal sent to the Ministério Público; no decision or count is given. The CNPD's [2024 activity plan](<https://www.cnpd.cv/wp-content/uploads/2025/03/CNPD-Plano-de-Atividades-2024.pdf>), dated 27 December 2023, covers planned inspections, guidance and international fora.
 
-***Noted, not assessed***. [Regime Jurídico Geral de Protecção de Dados](<https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448>), [Comissão Nacional de Protecção de Dados (CNPD)](<https://www.dlapiperdataprotection.com/?c=CV&t=law>) and [Lei de Proteção de Dados (2001/2021)](<https://expressodasilhas.cv/opiniao/2025/04/07/revolucao-tecnologica/96431>).
+***Also on file***. [Regime Jurídico Geral de Protecção de Dados](<https://expressodasilhas.cv/pais/2025/02/02/a-ia-ou-o-big-data-nao-podem-por-em-causa-os-direitos-das-pessoas/95448>), [Comissão Nacional de Protecção de Dados (CNPD)](<https://www.dlapiperdataprotection.com/?c=CV&t=law>) and [Lei de Proteção de Dados (2001/2021)](<https://expressodasilhas.cv/opiniao/2025/04/07/revolucao-tecnologica/96431>).
 
-***Not held***. No ruling of the authority against a named organisation in the last three years is held.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

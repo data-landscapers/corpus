@@ -6,8 +6,8 @@
 
 **Electronic payment.** [NRA Commissioner General Jeneba Bangura said that through ITAS taxpayers can pay electronically, and that wallet money and mobile money now allow payments to be made electronically](<https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

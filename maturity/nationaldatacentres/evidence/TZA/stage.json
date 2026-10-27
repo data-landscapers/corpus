@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "TZA-016",
-   "gaps": "No source held says a nationally owned data centre for hire is Tier III or above.",
+   "gaps": "No source found says a nationally owned data centre for hire is Tier III or above.",
    "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
   }
  ]

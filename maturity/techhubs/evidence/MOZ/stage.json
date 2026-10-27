@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-001;MOZ-004",
-      "gaps": "No source held since October 2023 says hubs with programmes are in service in two or more cities.",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
       "note": "First pass: counted from the four questions by study-ladder-techhubs.py.",
       "as_at": "2026-10-18"
     }

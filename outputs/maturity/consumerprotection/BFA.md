@@ -8,6 +8,6 @@
 
 **Enforcement reported.** [Citing the BCEAO, the OQSF-BF's December 2024 study says electronic money issuers in Burkina Faso recorded 4,200 complaints in 2022 and resolved 85% of them within the deadline](<https://www.finances.gov.bf/fileadmin/user_upload/storage/Etude_diagnostique_mecanismes_de_recours_interne_des_PSF_Rapport_Final.pdf>).
 
-***Noted, not assessed***. [ANPFI](<https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/>); [Observatoire de la qualité des services financiers](<https://lefaso.net/spip.php?article148215>); [Faso Arzêka](<https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services>); [Arzêka Money](<https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services>).
+***Also on file***. [ANPFI](<https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/>); [Observatoire de la qualité des services financiers](<https://lefaso.net/spip.php?article148215>); [Faso Arzêka](<https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services>); [Arzêka Money](<https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services>).
 
-***Not held***. No source held reports a fine, a sanction or complaint figures for any year after 2022.
+***Not found***. No source found reports a fine, a sanction or complaint figures for any year after 2022.

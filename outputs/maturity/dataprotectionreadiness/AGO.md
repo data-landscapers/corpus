@@ -10,6 +10,6 @@
 
 **Implementing and acting.** On [10 August 2026](<https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b>) the authority fined Lizária, Lda., owner of Hotel Diamante, the kwanza equivalent of USD 115,000 under Deliberação n.º 006/2026. Its [register of fines](<https://apd.ao/ao/gca/index.php?id=218&preview=1>) lists 15 fines for 2022 to 2026, of US$75,000 to US$525,000 each.
 
-***Noted, not assessed***. [Lei n.º 22/11 de 17 de Junho](<https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/>); [Agência de Protecção de Dados (APD)](<https://apd.ao/ao/perguntas-frequentes/questoes-sobre-proteccao-de-dados/>); [Decreto Presidencial n.º 214/16, the APD's organic statute](<https://lex.ao/docs/presidente-da-republica/2016/decreto-presidencial-n-o-214-16-de-10-de-outubro/>); [Lei n.º 23/11 on electronic communications](<https://www.plmj.com/pt/conhecimento/notas-informativas/Angola-Dados-Pessoais-e-Ciber-seguranca-em-Angola/33477/>).
+***Also on file***. [Lei n.º 22/11 de 17 de Junho](<https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/>); [Agência de Protecção de Dados (APD)](<https://apd.ao/ao/perguntas-frequentes/questoes-sobre-proteccao-de-dados/>); [Decreto Presidencial n.º 214/16, the APD's organic statute](<https://lex.ao/docs/presidente-da-republica/2016/decreto-presidencial-n-o-214-16-de-10-de-outubro/>); [Lei n.º 23/11 on electronic communications](<https://www.plmj.com/pt/conhecimento/notas-informativas/Angola-Dados-Pessoais-e-Ciber-seguranca-em-Angola/33477/>).
 
-***Not held***. No gap is recorded against the four questions.
+***Not found***. No gap is recorded against the four questions.

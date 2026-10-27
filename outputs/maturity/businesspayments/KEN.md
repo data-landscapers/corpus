@@ -8,6 +8,6 @@
 
 **Use reported.** [K24 Digital read off the e-GP website that 402 tenders had been uploaded by 21 October 2025](<https://k24.digital/411/new-procurement-system-yet-to-award-a-single-tender-4-months-after-launch>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No figure for the value or share of government purchasing through e-GP is held.
+***Not found***. No figure for the value or share of government purchasing through e-GP has been found.

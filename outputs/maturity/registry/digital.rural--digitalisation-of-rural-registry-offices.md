@@ -34,7 +34,7 @@ The norm: the AU Digital Transformation Strategy's 99.9 per cent legal identity 
 
 ### Rwanda: 4 Operating
 
-Births and deaths are entered digitally at all categories of registration office in 2025, the statistics office says; the rural share is not known.
+Births and deaths are entered digitally at all categories of registration office in 2025, the statistics office says; no source found reports the rural share.
 
 *Identity integrated; Backlog capture; Advancing.*
 
@@ -44,7 +44,7 @@ Births and deaths are entered digitally at all categories of registration office
 
 ### Algeria: 3 Established
 
-Births are registered in a national digital register across 1,541 communes, a 2019 count; the share of local offices entering digitally is not known.
+Births are registered in a national digital register across 1,541 communes, a 2019 count; no source found reports the share of local offices entering digitally.
 
 *Identity integrated.*
 
@@ -56,7 +56,7 @@ Births are registered in a national digital register across 1,541 communes, a 20
 
 ### Angola: 3 Established
 
-Since 2023 births are entered digitally at offices in Luanda and three other cities; most offices use paper, and the digital count is not known.
+Since 2023 births are entered digitally at offices in Luanda and three other cities; no source found reports most offices use paper, and the digital count.
 
 *Rural gap; Identity integrated; Regressing.*
 
@@ -69,7 +69,7 @@ Since 2023 births are entered digitally at offices in Luanda and three other cit
 
 ### Benin: 3 Established
 
-In 2023, 174 civil-status centres in five departments were equipped for digital birth registration; the share of offices registering is not known.
+In 2023, 174 civil-status centres in five departments were equipped for digital birth registration; no source found reports the share of offices registering.
 
 *Identity integrated; Backlog capture; Advancing.*
 
@@ -83,7 +83,7 @@ In 2023, 174 civil-status centres in five departments were equipped for digital 
 
 ### Botswana: 3 Established
 
-A national system registered births and deaths in 2024; how many of the 35 district offices enter records in it is not known.
+A national system registered births and deaths in 2024; no source found says how many of the 35 district offices enter records in it.
 
 *Identity integrated; Regressing.*
 
@@ -93,7 +93,7 @@ A national system registered births and deaths in 2024; how many of the 35 distr
 
 ### Burkina Faso: 3 Established
 
-Birth-entry software was deployed in 170 civil registration centres in 2025; the total number of centres, and how many register in it, is not known.
+Birth-entry software was deployed in 170 civil registration centres in 2025; the total number of centres, and no source found says how many register in it,.
 
 *Advancing; Backlog capture.*
 
@@ -103,7 +103,7 @@ Birth-entry software was deployed in 170 civil registration centres in 2025; the
 
 ### Cameroon: 3 Established
 
-In September 2026, 60 of 432 principal civil status centres were digitised, 13.9 per cent; the share of all local offices is not known.
+In September 2026, 60 of 432 principal civil status centres were digitised, 13.9 per cent; no source found reports the share of all local offices.
 
 *Advancing; Backlog capture.*
 
@@ -115,7 +115,7 @@ In September 2026, 60 of 432 principal civil status centres were digitised, 13.9
 
 ### Cape Verde: 3 Established
 
-In 2017 offices in all 22 municipalities entered births and deaths digitally, in urban centres only; whether records reach the national register is not known.
+In 2017 offices in all 22 municipalities entered births and deaths digitally, in urban centres only; no source found says whether records reach the national register.
 
 *Rural gap; Identity integrated.*
 
@@ -125,7 +125,7 @@ In 2017 offices in all 22 municipalities entered births and deaths digitally, in
 
 ### Chad: 3 Established
 
-Births were registered digitally at 97 hospital registry points in 2025; the total of local offices is not known.
+Births were registered digitally at 97 hospital registry points in 2025; no source found reports the total of local offices.
 
 *Identity integrated; Advancing.*
 
@@ -136,7 +136,7 @@ Births were registered digitally at 97 hospital registry points in 2025; the tot
 
 ### Cote d'Ivoire: 3 Established
 
-In March 2026 the registrar said 98 per cent of civil status centres were computerised and connected; whether any registers births digitally is not known.
+In March 2026 the registrar said 98 per cent of civil status centres were computerised and connected; no source found says whether any registers births digitally.
 
 *Advancing; Backlog capture; Identity integrated.*
 
@@ -147,7 +147,7 @@ In March 2026 the registrar said 98 per cent of civil status centres were comput
 
 ### Egypt: 3 Established
 
-Births and deaths are entered digitally at 4,571 health offices, as stated in 2026; the share of all offices is not known.
+Births and deaths are entered digitally at 4,571 health offices, as stated in 2026; no source found reports the share of all offices.
 
 *Identity integrated; Advancing.*
 
@@ -159,7 +159,7 @@ Births and deaths are entered digitally at 4,571 health offices, as stated in 20
 
 ### Eritrea: 3 Established
 
-Births and deaths were handwritten at local offices and entered in regional electronic registers one level up in 2017; current practice is not known.
+Births and deaths were handwritten at local offices and entered in regional electronic registers one level up in 2017; no source found reports current practice.
 
 - The Danish National ID Centre note of 2 November 2023, citing the Dutch foreign ministry's report of 6 February 2017, states that a birth is first entered in the handwritten family register at the local kebabi office, which issues a transfer letter that the parents take to the sub-zoba office, where the data is entered into the database and the hard copies archived; a death goes the same way, by a 'death letter' from the kebabi to the sub-zoba ([source, 2017-02-06](https://fln.dk/media/ow3jujfq/erit402.pdf)).
 - Births and deaths are both registered in the sub-zoba's digital database after entry in the kebabi's handwritten register, according to the Dutch foreign ministry's report of 6 February 2017 as cited by the Danish National ID Centre; the note adds that there are no fixed or automatic routines for death registration ([source, 2017-02-06](https://fln.dk/media/ow3jujfq/erit402.pdf)).
@@ -167,7 +167,7 @@ Births and deaths were handwritten at local offices and entered in regional elec
 
 ### Eswatini: 3 Established
 
-Births and deaths were entered in the national register at 14 service centres in 2022; the total number of offices is not known.
+Births and deaths were entered in the national register at 14 service centres in 2022; no source found reports the total number of offices.
 
 *Identity integrated; Backlog capture; Advancing.*
 
@@ -179,7 +179,7 @@ Births and deaths were entered in the national register at 14 service centres in
 
 ### Gambia: 3 Established
 
-Births are registered on a central digital system, with 79 local offices holding digital registers in 2025; the total number of offices is not known.
+Births are registered on a central digital system, with 79 local offices holding digital registers in 2025; no source found reports the total number of offices.
 
 *Identity integrated; Backlog capture; Advancing.*
 
@@ -190,7 +190,7 @@ Births are registered on a central digital system, with 79 local offices holding
 
 ### Ghana: 3 Established
 
-Births were registered digitally at two Accra registry centres in 2024; how many offices do so, and how the record is made, is not known.
+Births were registered digitally at two Accra registry centres in 2024; no source found says how many offices do so, and how the record is made,.
 
 *Identity integrated.*
 
@@ -201,7 +201,7 @@ Births were registered digitally at two Accra registry centres in 2024; how many
 
 ### Guinea: 3 Established
 
-Commune offices made digital birth certificates in September 2026, when a paper shortage halted printing; how many offices do so is not known.
+Commune offices made digital birth certificates in September 2026, when a paper shortage halted printing; no source found says how many offices do so.
 
 *Backlog capture; Regressing.*
 
@@ -211,7 +211,7 @@ Commune offices made digital birth certificates in September 2026, when a paper 
 
 ### Guinea-Bissau: 3 Established
 
-One Bissau office registers births and deaths digitally in 2026, and health posts in three regions register births; the share of offices is not known.
+One Bissau office registers births and deaths digitally in 2026, and health posts in three regions register births; no source found reports the share of offices.
 
 *Advancing; Backlog capture.*
 
@@ -223,7 +223,7 @@ One Bissau office registers births and deaths digitally in 2026, and health post
 
 ### Kenya: 3 Established
 
-More than 270,000 births were registered digitally from hospitals in two months of 2026; how many offices or hospitals use the system is not known.
+More than 270,000 births were registered digitally from hospitals in two months of 2026; no source found says how many offices or hospitals use the system.
 
 *Advancing; Identity integrated; Backlog capture.*
 
@@ -232,7 +232,7 @@ More than 270,000 births were registered digitally from hospitals in two months 
 
 ### Lesotho: 3 Established
 
-Births were registered digitally at 30 health-facility stations in three districts in 2026; the total number of local offices is not known.
+Births were registered digitally at 30 health-facility stations in three districts in 2026; no source found reports the total number of local offices.
 
 *Advancing; Identity integrated.*
 
@@ -244,7 +244,7 @@ Births were registered digitally at 30 health-facility stations in three distric
 
 ### Liberia: 3 Established
 
-County teams registered births online in 2024, with deaths added to the platform; how many of the 58 centres enter them is not known.
+County teams registered births online in 2024, with deaths added to the platform; no source found says how many of the 58 centres enter them.
 
 - The Ministry of Health's report for 2024 says birth and death registration have been integrated into the DHIS2 platform, to improve monitoring and reporting of both ([source, 2024](https://moh.gov.lr/wp-content/uploads/Ministry-of-Health-Annual-Report.pdf)).
 - The Ministry of Health states that as of 2023, 93,031 birth registrations had been recorded in DHIS2, which it gives as 67 per cent of all birth registrations and certifications ([source, 2023](https://moh.gov.lr/wp-content/uploads/Ministry-of-Health-Annual-Report.pdf)).
@@ -254,7 +254,7 @@ County teams registered births online in 2024, with deaths added to the platform
 
 ### Libya: 3 Established
 
-All civil registration offices were automated and linked to one database, the health ministry said in 2022; whether events are entered there is not known.
+All civil registration offices were automated and linked to one database, the health ministry said in 2022; no source found says whether events are entered there.
 
 *Advancing; Identity integrated; Backlog capture.*
 
@@ -264,7 +264,7 @@ All civil registration offices were automated and linked to one database, the he
 
 ### Madagascar: 3 Established
 
-Communes register births digitally, 336 of them in December 2025; the share of all communes this represents is not known.
+Communes register births digitally, 336 of them in December 2025; no source found reports the share of all communes this represents.
 
 *Advancing; Identity integrated; Backlog capture.*
 
@@ -275,7 +275,7 @@ Communes register births digitally, 336 of them in December 2025; the share of a
 
 ### Malawi: 3 Established
 
-Births and deaths were entered digitally at 87 local service points in five districts in 2025; the share of local offices is not known.
+Births and deaths were entered digitally at 87 local service points in five districts in 2025; no source found reports the share of local offices.
 
 *Rural gap; Identity integrated; Advancing.*
 
@@ -288,7 +288,7 @@ Births and deaths were entered digitally at 87 local service points in five dist
 
 ### Mauritania: 3 Established
 
-By law births are recorded centrally at citizen reception centres, 153 of 168 equipped in 2021; whether centres enter births digitally is not known.
+By law births are recorded centrally at citizen reception centres, 153 of 168 equipped in 2021; no source found says whether centres enter births digitally.
 
 *Identity integrated.*
 
@@ -296,7 +296,7 @@ By law births are recorded centrally at citizen reception centres, 153 of 168 eq
 
 ### Mauritius: 3 Established
 
-Births and deaths are registered online at computerised civil status offices, 35 listed in 2019; the share of all offices is not known.
+Births and deaths are registered online at computerised civil status offices, 35 listed in 2019; no source found reports the share of all offices.
 
 *Identity integrated; Backlog capture.*
 
@@ -307,7 +307,7 @@ Births and deaths are registered online at computerised civil status offices, 35
 
 ### Morocco: 3 Established
 
-Offices enter births and deaths in a ministry system said in 2024 to reach every office; the share of offices registering digitally is not known.
+Offices enter births and deaths in a ministry system said in 2024 to reach every office; no source found reports the share of offices registering digitally.
 
 *Backlog capture.*
 
@@ -317,7 +317,7 @@ Offices enter births and deaths in a ministry system said in 2024 to reach every
 
 ### Mozambique: 3 Established
 
-Births are entered directly at district offices and all 68 conservatories were digitised by 2025; the share of local offices entering digitally is not known.
+Births are entered directly at district offices and all 68 conservatories were digitised by 2025; no source found reports the share of local offices entering digitally.
 
 *Identity integrated; Backlog capture; Advancing.*
 
@@ -329,7 +329,7 @@ Births are entered directly at district offices and all 68 conservatories were d
 
 ### Namibia: 3 Established
 
-Local offices enter births and deaths in the national register, as reported in 2024; the share of offices doing so is not known.
+Local offices enter births and deaths in the national register, as reported in 2024; no source found reports the share of offices doing so.
 
 *Rural gap; Identity integrated; Backlog capture; Advancing.*
 
@@ -339,7 +339,7 @@ Local offices enter births and deaths in the national register, as reported in 2
 
 ### Niger: 3 Established
 
-The digital register ran in 101 of 266 communes in December 2024, a share of communes; digital death registration outside Niamey is not known.
+The digital register ran in 101 of 266 communes in December 2024, a share of communes; no source found reports digital death registration outside Niamey.
 
 *Rural gap; Backlog capture; Advancing.*
 
@@ -351,7 +351,7 @@ The digital register ran in 101 of 266 communes in December 2024, a share of com
 
 ### Nigeria: 3 Established
 
-Births and deaths are entered digitally at ward and local government offices from July 2026; the share of local offices doing so is not known.
+Births and deaths are entered digitally at ward and local government offices from July 2026; no source found reports the share of local offices doing so.
 
 *Identity integrated; Advancing.*
 
@@ -365,7 +365,7 @@ Births and deaths are entered digitally at ward and local government offices fro
 
 ### Sao Tome and Principe: 3 Established
 
-Births are entered directly in the national database at maternities, as of 2026; the share of local offices doing so is not known.
+Births are entered directly in the national database at maternities, as of 2026; no source found reports the share of local offices doing so.
 
 *Identity integrated; Backlog capture; Advancing.*
 
@@ -377,7 +377,7 @@ Births are entered directly in the national database at maternities, as of 2026;
 
 ### Senegal: 3 Established
 
-In 2026 civil-status centres register births in one national system, with 77% of 629 centres digitised; the share entering data is not known.
+In 2026 civil-status centres register births in one national system, with 77% of 629 centres digitised; no source found reports the share entering data.
 
 *Advancing; Backlog capture.*
 
@@ -389,7 +389,7 @@ In 2026 civil-status centres register births in one national system, with 77% of
 
 ### Sierra Leone: 3 Established
 
-In 2023 births were entered digitally at the registration authority's hospital centres and sent to a central registry; the number of offices is not known.
+In 2023 births were entered digitally at the registration authority's hospital centres and sent to a central registry; no source found reports the number of offices.
 
 *Identity integrated; Backlog capture.*
 
@@ -401,7 +401,7 @@ In 2023 births were entered digitally at the registration authority's hospital c
 
 ### Somalia: 3 Established
 
-By January 2026 local administrations in 30 districts registered births digitally into one central database; the total of districts or offices is not known.
+By January 2026 local administrations in 30 districts registered births digitally into one central database; no source found reports the total of districts or offices.
 
 - OpenCRVS's own country page counts 28,391 completed birth registrations in the system; it names births as the vital event captured and gives no figure for deaths. The page is undated, so its published date (a proxy, to the month) is used ([source, 2026-01](https://www.opencrvs.org/about-us/country-stories/somalia)).
 - OpenCRVS's own country page states that the system operates in 30 Somali districts and is linked to 160 hospitals; it gives no total of districts or offices. The page is undated, so its published date (a proxy, to the month) is used ([source, 2026-01](https://www.opencrvs.org/about-us/country-stories/somalia)).
@@ -410,7 +410,7 @@ By January 2026 local administrations in 30 districts registered births digitall
 
 ### South Africa: 3 Established
 
-Births are registered online at 242 equipped health facilities, as of March 2026; the share of local offices registering digitally is not known.
+Births are registered online at 242 equipped health facilities, as of March 2026; no source found reports the share of local offices registering digitally.
 
 *Identity integrated; Backlog capture; Advancing.*
 
@@ -425,7 +425,7 @@ Births are registered online at 242 equipped health facilities, as of March 2026
 
 ### Sudan: 3 Established
 
-Births are registered in a national electronic registry, with one local office named in 2026; how many offices enter records, and where, is not known.
+Births are registered in a national electronic registry, with one local office named in 2026; no source found says how many offices enter records, and where,.
 
 - The civil registry centre of South Gezira locality (Al-Hosh office) announced it had issued an electronic birth certificate, drawn up at the office on 17 May 2026, for a child born in August 2023, as reported by Al-Nawrs News; the report does not say how the underlying record is made or held ([source, 2026-05-17](https://alnawrs.com/212689)).
 - One local office is named as issuing an electronic birth certificate on 17 May 2026: the Al-Hosh office of the South Gezira locality civil registry centre, serving the locality and its surrounding rural villages; no total of offices is given (Al-Nawrs News) ([source, 2026-05-17](https://alnawrs.com/212689)).
@@ -434,7 +434,7 @@ Births are registered in a national electronic registry, with one local office n
 
 ### Tanzania: 3 Established
 
-In 2024 57% of mainland registration centres were active, entering births by phone; capped because a current plan or domestic finance is not known.
+In 2024 57% of mainland registration centres were active, entering births by phone; no source found reports capped because a current plan or domestic finance.
 
 *Externally run; Advancing.*
 
@@ -447,7 +447,7 @@ In 2024 57% of mainland registration centres were active, entering births by pho
 
 ### Tunisia: 3 Established
 
-Registrars enter births and deaths into the national database after the paper register, all offices connected in 2020; how many register is not known.
+Registrars enter births and deaths into the national database after the paper register, all offices connected in 2020; no source found says how many register.
 
 *Identity integrated; Advancing.*
 
@@ -458,7 +458,7 @@ Registrars enter births and deaths into the national database after the paper re
 
 ### Uganda: 3 Established
 
-District offices enter births and deaths into the central register, in most districts in 2020; how many offices do so is not known.
+District offices enter births and deaths into the central register, in most districts in 2020; no source found says how many offices do so.
 
 *Identity integrated.*
 
@@ -469,7 +469,7 @@ District offices enter births and deaths into the central register, in most dist
 
 ### Zambia: 3 Established
 
-Births are registered in a national system deployed in eleven districts in 2026; how many local offices enter records themselves is not known.
+Births are registered in a national system deployed in eleven districts in 2026; no source found says how many local offices enter records themselves.
 
 *Backlog capture.*
 
@@ -481,7 +481,7 @@ Births are registered in a national system deployed in eleven districts in 2026;
 
 ### Zimbabwe: 3 Established
 
-Births are entered digitally at computerised offices; at least 93 of 282 offices were computerised in 2026, and how many register digitally is not known.
+Births are entered digitally at computerised offices; at least 93 of 282 offices were computerised in 2026, and no source found says how many register digitally.
 
 *Advancing.*
 
@@ -491,7 +491,7 @@ Births are entered digitally at computerised offices; at least 93 of 282 offices
 
 ### Burundi: 2 Nascent
 
-Digital civil registration runs in about twelve pilot communes in 2026, most acts still on paper; how the pilot record is made is not known.
+Digital civil registration runs in about twelve pilot communes in 2026, most acts still on paper; no source found says how the pilot record is made.
 
 *Backlog capture; Advancing.*
 
@@ -504,7 +504,7 @@ Digital civil registration runs in about twelve pilot communes in 2026, most act
 
 ### Central African Republic: 2 Nascent
 
-A civil registration application was still being developed in July 2026 and offices register on paper; the number of pilot offices is not known.
+A civil registration application was still being developed in July 2026 and offices register on paper; no source found reports the number of pilot offices.
 
 *Advancing; Backlog capture.*
 
@@ -515,7 +515,7 @@ A civil registration application was still being developed in July 2026 and offi
 
 ### Comoros: 2 Nascent
 
-In 2026 offices register on paper while a digital system is studied and costed; when its three-centre pilot starts is not known.
+In 2026 offices register on paper while a digital system is studied and costed; no source found says when its three-centre pilot starts.
 
 *Advancing.*
 
@@ -527,7 +527,7 @@ In 2026 offices register on paper while a digital system is studied and costed; 
 
 ### Congo: 2 Nascent
 
-A civil registration system was built and validated by September 2026 but no office uses it; whether older urban systems still run is not known.
+A civil registration system was built and validated by September 2026 but no office uses it; no source found says whether older urban systems still run.
 
 *Advancing.*
 
@@ -537,7 +537,7 @@ A civil registration system was built and validated by September 2026 but no off
 
 ### DR Congo: 2 Nascent
 
-In August 2025 one commune of the capital was piloting digital civil registration; whether any birth or death has been registered digitally is not known.
+In August 2025 one commune of the capital was piloting digital civil registration; no source found says whether any birth or death has been registered digitally.
 
 *Advancing.*
 
@@ -546,7 +546,7 @@ In August 2025 one commune of the capital was piloting digital civil registratio
 
 ### Djibouti: 2 Nascent
 
-Nine civil-status sites in Djibouti-Ville have entered births and deaths digitally since 2011, as stated in 2024; digital entry outside the capital is not known.
+Nine civil-status sites in Djibouti-Ville have entered births and deaths digitally since 2011, as stated in 2024; no source found reports digital entry outside the capital.
 
 *Backlog capture.*
 
@@ -558,7 +558,7 @@ Nine civil-status sites in Djibouti-Ville have entered births and deaths digital
 
 ### Equatorial Guinea: 2 Nascent
 
-A digital pilot registers births in Malabo only, since 2018, and the seven regional offices use paper in 2024; its present state is not known.
+A digital pilot registers births in Malabo only, since 2018, and the seven regional offices use paper in 2024; no source found reports its present state.
 
 *Rural gap; Backlog capture.*
 
@@ -568,7 +568,7 @@ A digital pilot registers births in Malabo only, since 2018, and the seven regio
 
 ### Ethiopia: 2 Nascent
 
-Digital registration of births and deaths is in pilot, in Addis Ababa and 1,300 of 19,202 kebeles in 2025; use beyond pilots is not known.
+Digital registration of births and deaths is in pilot, in Addis Ababa and 1,300 of 19,202 kebeles in 2025; no source found reports use beyond pilots.
 
 *Rural gap; Advancing.*
 
@@ -581,7 +581,7 @@ Digital registration of births and deaths is in pilot, in Addis Ababa and 1,300 
 
 ### Gabon: 2 Nascent
 
-No office registered births or deaths digitally in May 2026; a system is being prepared with funding to 2028; its first offices are not known.
+No office registered births or deaths digitally in May 2026; a system is being prepared with funding to 2028; no source found reports its first offices.
 
 *Advancing.*
 
@@ -593,14 +593,14 @@ No office registered births or deaths digitally in May 2026; a system is being p
 
 ### Mali: 2 Nascent
 
-Births were registered on paper in July 2026 and a digital platform had ten pilot areas named; whether any has started is not known.
+Births were registered on paper in July 2026 and a digital platform had ten pilot areas named; no source found says whether any has started.
 
 - The DNEC's head of digitalisation, presenting on 18 July 2026, describes the birth chain as paper: community health workers fill village notebooks, the declaration agent sends slip no. 2 from the declaration centre to the civil status centre, where the officer draws up the act; he calls it a paper community model, lists availability of registers among the difficulties, and names complete digitalisation of the system as a priority, the digital transformation being still incomplete ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-mali_0.pdf)).
 - UNICEF's representative writes on 16 December 2024 that the project for a platform consolidating civil status events has been approved, that it will serve as the first fully digital platform for them, and that the National Directorate of Civil Status has identified ten pilot areas taking in civil registration centres, health facilities and courts; he gives no count of centres and does not say the pilots have started ([source, 2024-12-16](https://www.unicef.org/mali/en/stories/celebration-progress-birth-registration-mali)).
 
 ### Seychelles: 2 Nascent
 
-A computerised record of vital events was kept beside the manual register in 2018; where it is entered is not known.
+A computerised record of vital events was kept beside the manual register in 2018; no source found says where it is entered.
 
 *Identity integrated.*
 
@@ -608,7 +608,7 @@ A computerised record of vital events was kept beside the manual register in 201
 
 ### South Sudan: 2 Nascent
 
-A digital civil registration system was announced in July 2026 and no birth is registered digitally; its design and start date are not known.
+A digital civil registration system was announced in July 2026 and no birth is registered digitally; no source found reports its design and start date.
 
 *Advancing.*
 
@@ -620,7 +620,7 @@ A digital civil registration system was announced in July 2026 and no birth is r
 
 ### Togo: 2 Nascent
 
-A digital birth registration platform was piloted at one town hall in 2024; whether other offices register on it is not known.
+A digital birth registration platform was piloted at one town hall in 2024; no source found says whether other offices register on it.
 
 *Advancing.*
 

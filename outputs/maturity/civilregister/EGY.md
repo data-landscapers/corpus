@@ -8,6 +8,6 @@
 
 **Births at 90%.** [Egypt's own UNSD vital statistics questionnaire (2024) reports estimated completeness of live birth registration of 96.6 per cent, referring to 2022 (2022, before the three-year window)](<https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2024/Egypt-2024-VT-Metadata.pdf>), and a national rate that may include paper registration.
 
-***Noted, not assessed***. [automated civil-registry machines](<https://blogs.realestate.gov.eg/civil-registry-machines-in-egypt>).
+***Also on file***. [automated civil-registry machines](<https://blogs.realestate.gov.eg/civil-registry-machines-in-egypt>).
 
-***Not held***. No source held since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 puts birth registration at 90% or more.

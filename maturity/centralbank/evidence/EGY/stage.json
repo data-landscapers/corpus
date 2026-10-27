@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-002;EGY-007",
-      "gaps": "No source held reports Egyptian payments running on PAPSS: the CBE joined in November 2024, and six banks were still seeking its approval to integrate in September 2026.",
-      "note": "The CBE runs the Instant Payment Network, the national real-time infrastructure behind InstaPay. It joined PAPSS in November 2024, but in September 2026 six banks were still applying to integrate, so no live participation is held.",
+      "gaps": "No source found reports Egyptian payments running on PAPSS: the CBE joined in November 2024, and six banks were still seeking its approval to integrate in September 2026.",
+      "note": "The CBE runs the Instant Payment Network, the national real-time infrastructure behind InstaPay. It joined PAPSS in November 2024, but in September 2026 six banks were still applying to integrate, so no live participation has been found.",
       "as_at": "2026-10-24"
     }
   ]

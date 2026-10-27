@@ -12,6 +12,6 @@
 
 **Local governments recording.** One council, the Municipal Council of Manzini, [billed its ratepayers for 2024/2025](<https://manzinicity.co.sz/rates-bills-for-2024-2025-financial-year-now-available/>), as it [did in April 2020](<https://manzinicity.co.sz/you-can-now-pay-rates-using-e-mali/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Where the record is held, who finances the billing, and whether any local government other than Manzini keeps such a record are not established; no total of local governments is given. Nothing is dated inside the last twelve months.
+***Not found***. Where the record is held, who finances the billing, and whether any local government other than Manzini keeps such a record are not established; no total of local governments is given. Nothing is dated inside the last twelve months.

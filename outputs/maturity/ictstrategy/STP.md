@@ -16,6 +16,6 @@
 
 **Last twelve months.** In June 2015 the strategy [was still waiting for the Council of Ministers to adopt it](<https://documents1.worldbank.org/curated/en/234391468190440376/txt/ICR3141-P117652-Box391488B-OUO-9.txt>), three years after it was prepared.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether the strategy was adopted, dropped or replaced after June 2015. No text, period, delivery plan or report on it is held, and nothing is dated within the last twelve months.
+***Not found***. Whether the strategy was adopted, dropped or replaced after June 2015. No text, period, delivery plan or report on it has been found, and nothing is dated within the last twelve months.

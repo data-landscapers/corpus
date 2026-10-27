@@ -6,8 +6,8 @@
 
 **Across government.** [The article describes the Citizens Feedback Mechanism as a national platform through which citizens' messages are channelled to the concerned Ministries, Agencies or Commissions (2023, before the three-year window)](<https://frontpageafricaonline.com/liberia-idad-rolls-out-initiative-to-get-citizens-feedback-on-public-service-delivery/>).
 
-**Results published.** No source held since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://liberianinvestigator.com/boakai-government-performance-tracking-system/>).
+**Results published.** No source found since October 2023 gives resolution rates, response times or a report of the cases handled. The nearest held fact: [the one given above](<https://liberianinvestigator.com/boakai-government-performance-tracking-system/>).
 
-***Noted, not assessed***. [Performance Management Information System](<https://liberianinvestigator.com/boakai-government-performance-tracking-system/>).
+***Also on file***. [Performance Management Information System](<https://liberianinvestigator.com/boakai-government-performance-tracking-system/>).
 
-***Not held***. No source held since October 2023 says: is one in service with cases on record.
+***Not found***. No source found since October 2023 says: is one in service with cases on record.

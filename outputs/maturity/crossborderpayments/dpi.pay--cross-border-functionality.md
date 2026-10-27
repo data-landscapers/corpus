@@ -275,20 +275,20 @@ The country took part in a regional payment system in 2024; cross-border volumes
 
 ### Comoros: 3 Established
 
-A cross-border digital payment corridor was in service in 2024; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2024; no source found reports a regional payment system link.
 
 - La Gazette des Comores reports that on 21 February 2024 Mvola Comores launched transfers from Orange Money Europe and Paysend into Mvola Comores and from Mvola Comores to Orange Senegal, adding to existing transfers with Madagascar, Tanzania and Uganda ([source, 2024-02-21](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/transfert-d%E2%80%99argent-mvola-comores-lance-de-nouveaux-services-.html)).
 
 ### DR Congo: 3 Established
 
-A cross-border digital payment corridor was in service in 2025; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2025; no source found reports a regional payment system link.
 
 - An Orange Money RDC manager announced the launch of outbound international wallet-to-wallet transfers from the DRC to Congo-Brazzaville, Tanzania, Zambia, Senegal and Cote d'Ivoire, with a USD 2,500 daily limit ([source, 2025-06-24](https://fr.linkedin.com/posts/eric-kashila-3804133a_orangemoney-transfertinternational-mobilemoney-activity-7343208213359550464-Y6YG)).
 - MTN's MoMo app opened a wallet corridor from South Africa to the Democratic Republic of Congo, so migrants in South Africa can send money home to wallets there, ITWeb reports ([source, 2024-04-15](https://itweb.africa/article/mtn-momo-increases-remittance-services-to-10-new-countries/lLn147mQr947J6Aa)).
 
 ### Ethiopia: 3 Established
 
-A cross-border digital payment corridor was in service in 2024; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2024; no source found reports a regional payment system link.
 
 - Connecting Africa reports Safaricom extended M-Pesa Global to Ethiopia in October 2024, so M-Pesa wallets in Kenya and Ethiopia can make cross-border transfers, with Ethiopian customers receiving from M-Pesa Kenya ([source, 2024-10-14](https://www.connectingafrica.com/mobile-money/safaricom-enables-m-pesa-transfers-between-kenya-ethiopia)).
 - Ethio telecom says its Visa Direct service lets Visa cardholders in over 190 countries send money to telebirr virtual card numbers, and its telebirr Remit app receives remittances from nine named countries (US, Canada, Israel, Saudi Arabia, UAE, UK, South Africa, Italy, Sweden) ([source, 2024-08-19](https://www.ethiotelecom.et/the-first-virtual-visa-card-in-ethiopia-remittance-visa-direct-telebirr-remit/)).
@@ -296,32 +296,32 @@ A cross-border digital payment corridor was in service in 2024; a regional payme
 
 ### Madagascar: 3 Established
 
-A cross-border digital payment corridor was in service in 2024; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2024; no source found reports a regional payment system link.
 
 - Madagascar Newsroom reports that since mid-January 2024 Orange Money Europe app users in Germany, Belgium, Spain, France, Italy and the Netherlands can send money to MVola accounts in Madagascar via the Thunes aggregator, received instantly in ariary ([source, 2024-01](https://www.madagascarnewsroom.com/2024/02/thunes-partenaire-remittance-mvola.html)).
 - MFS Africa went live as the first aggregator with MVola in Madagascar, carrying inbound remittances from Europe, the US and the UK and MNO-to-MNO transfers from the rest of Africa ([source, 2023-10-26](https://expression.africa/madagascar-mfs-africa-partners-with-mvola-paving-way-for-financial-inclusion/)).
 
 ### Morocco: 3 Established
 
-A cross-border digital payment corridor was in service in 2025; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2025; no source found reports a regional payment system link.
 
 - Thunes says members of its Direct Global Network can now make real-time cross-border payouts in Moroccan Dirham to bank accounts in Morocco ([source, 2025-09-09](https://www.thunes.com/news/thunes-launches-real-time-payments-into-morocco/)).
 
 ### Rwanda: 3 Established
 
-A cross-border digital payment corridor was in service in 2026; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2026; no source found reports a regional payment system link.
 
 - Bank of Kigali, per its own announcement reported by KT Press, became a direct participant in China's CIPS under an agreement signed 2026-09-08, giving direct renminbi clearing and settlement for Rwanda-China payments without several intermediary banks ([source, 2026-09-08](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/)).
 
 ### South Sudan: 3 Established
 
-A cross-border digital payment corridor was in service in 2025; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2025; no source found reports a regional payment system link.
 
 - ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia ([source, 2025-05-29](https://itweb.africa/article/mtn-momo-onafriq-partner-on-remittances-in-south-sudan/kYbe97XbmYYqAWpG)).
 
 ### Tanzania: 3 Established
 
-A cross-border digital payment corridor was in service in 2025; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2025; no source found reports a regional payment system link.
 
 - Connecting Africa reports that Airtel Money Africa and PawaPay launched inbound remittances into Tanzania on 7 August 2025, letting licensed international money transfer operators pay into Airtel Money wallets ([source, 2025-08-07](https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries)).
 - Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets ([source, 2025-08-12](https://finhive.africa/news/airtel-money-africa-expands-pawapay-partnership-to-supercharge-imto-remittances-across-seven-markets/)).
@@ -352,30 +352,30 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 
 ### Cape Verde: Unplaced
 
-Nothing held since 2023 names a cross-border digital payment channel, so no stage is set.
+Nothing found since 2023 names a cross-border digital payment channel, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a cross-border digital payment channel is in service.
+Not established: Nothing found since October 2023 says whether a cross-border digital payment channel is in service.
 
 ### Mauritania: Unplaced
 
-Nothing held since 2023 names a cross-border digital payment channel, so no stage is set.
+Nothing found since 2023 names a cross-border digital payment channel, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether a cross-border digital payment channel is in service.
+Not established: Nothing found since October 2023 says whether a cross-border digital payment channel is in service.
 
 ### Algeria: No evidence
 
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
+Nothing found names a cross-border digital payment channel or says there is none, so no stage is set.
 
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
+Not established: Nothing found names a cross-border digital payment channel, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
+Nothing found names a cross-border digital payment channel or says there is none, so no stage is set.
 
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
+Not established: Nothing found names a cross-border digital payment channel, or says there is none.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held names a cross-border digital payment channel or says there is none, so no stage is set.
+Nothing found names a cross-border digital payment channel or says there is none, so no stage is set.
 
-Not established: Nothing held names a cross-border digital payment channel, or says there is none.
+Not established: Nothing found names a cross-border digital payment channel, or says there is none.

@@ -8,6 +8,6 @@
 
 **A household survey published.** [The economy ministry, the INS and UNICEF presented the results of Tunisia's 2023 Multiple Indicator Cluster Survey (MICS), covering 11,000 households with a 90% response rate, on 12 February 2024](<https://www.unicef.org/tunisia/communiqu%C3%A9s-de-presse/publication-des-r%C3%A9sultats-de-lenqu%C3%AAte-nationale-par-grappe-%C3%A0-indicateurs>).
 
-***Noted, not assessed***. [INT national ICT usage barometer](<https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/>); [INT Internet use and digital skills survey 2026](<https://www.thd.tn/tunisie-48-des-internautes-utilisent-lia-et-37-achetent-en-ligne/>).
+***Also on file***. [INT national ICT usage barometer](<https://lechotunisien.com/usages-des-tic-en-tunisie-un-taux-dacces-de-859-une-consommation-nocturne-et-la-primaute-du-sud/>); [INT Internet use and digital skills survey 2026](<https://www.thd.tn/tunisie-48-des-internautes-utilisent-lia-et-37-achetent-en-ligne/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -6,6 +6,6 @@
 
 **Enforcer named and rule applied.** The draft [gives the job of ensuring agencies comply with its data classification to the government's principal cloud provider, GICTA, with the Gambia Information Commission](<https://policies.gov.gm/d/b007fc10-80d2-11ef-b086-029254d29bb1>), and sets up a working group to monitor compliance. None of that has effect until the policy is issued.
 
-***Noted, not assessed***. [Government Cloud (G-Cloud)](<https://policies.gov.gm/d/b007fc10-80d2-11ef-b086-029254d29bb1>); [National Identity Management System Data Centre (Abuko)](<https://www.citinewsroom.com/2026/07/margins-delivers-first-gam-id-president-barrow-is-inaugural-recipient/>); [National Data Centre (Abuko)](<https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/>); [QGroup House data centre](<https://www.datacenterdynamics.com/en/news/qgroup-launches-data-center-in-the-gambia-claims-it-is-the-countrys-first/>).
+***Also on file***. [Government Cloud (G-Cloud)](<https://policies.gov.gm/d/b007fc10-80d2-11ef-b086-029254d29bb1>); [National Identity Management System Data Centre (Abuko)](<https://www.citinewsroom.com/2026/07/margins-delivers-first-gam-id-president-barrow-is-inaugural-recipient/>); [National Data Centre (Abuko)](<https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/>); [QGroup House data centre](<https://www.datacenterdynamics.com/en/news/qgroup-launches-data-center-in-the-gambia-claims-it-is-the-countrys-first/>).
 
-***Not held***. No source held says a rule that data must be kept in the country is in force.
+***Not found***. No source found says a rule that data must be kept in the country is in force.

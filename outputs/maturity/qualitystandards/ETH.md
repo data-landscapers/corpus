@@ -6,6 +6,6 @@
 
 **Certification.** The nearest held fact is the approval in April 2026 of [mandatory cybersecurity standards and guidelines](<https://www.linkedin.com/posts/information-network-security-administration_insa-digitalethiopia2030-cybersecurity-activity-7453356614822277120-hb2m>) by the Ethiopian Standards Board. The announcement describes the standards and who drafted them. It names no organisation that has been certified against them and no certifier that offers certification.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.
+***Not found***. Nothing found says the standards body or a certifier accredited in the country offers certification against a national standard on information technology or data.

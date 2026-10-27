@@ -6,8 +6,8 @@
 
 **Biometric checks.** [The system is biometric and the NINs are described as secure and non-duplicable, per the Director-General](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

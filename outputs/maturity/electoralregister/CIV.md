@@ -6,8 +6,8 @@
 
 **Open for checking.** [The Independent Electoral Commission says the definitive roll can be consulted from 4 June 2025 on its website and by SMS using the codes *919# or #919# on all mobile operators](<https://cei.ci/point-de-presse-relatif-a-larret-de-la-liste-electorale-definitive-2025/>).
 
-**Linked to ID.** No source held since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://cei.ci/point-de-presse-relatif-a-larret-de-la-liste-electorale-definitive-2025/>).
+**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://cei.ci/point-de-presse-relatif-a-larret-de-la-liste-electorale-definitive-2025/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

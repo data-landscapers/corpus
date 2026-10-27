@@ -8,6 +8,6 @@
 
 **Punishment for speech, and its removal.** No held source reports a person punished for speech, or a punishing law removed. The nearest held fact is the same bill n°042/2026, whose [digital police unit would hold permanent access powers](<https://www.madagascar-tribune.com/Loi-sur-la-cybercriminalite-l-Etat-renforce-les-controles-alors-que-l-acces-a-l.html>).
 
-***Noted, not assessed***. [The Upin, the digital protection and investigation unit in bill n°042/2026](<https://www.madagascar-tribune.com/Loi-sur-la-cybercriminalite-l-Etat-renforce-les-controles-alors-que-l-acces-a-l.html>); [the blocking of websites carrying obscene content](<https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes>).
+***Also on file***. [The Upin, the digital protection and investigation unit in bill n°042/2026](<https://www.madagascar-tribune.com/Loi-sur-la-cybercriminalite-l-Etat-renforce-les-controles-alors-que-l-acces-a-l.html>); [the blocking of websites carrying obscene content](<https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes>).
 
-***Not held***. No source says the country went the last twelve months with no one punished for what they said or published.
+***Not found***. No source says the country went the last twelve months with no one punished for what they said or published.

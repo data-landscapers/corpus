@@ -71,12 +71,12 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return d
     if not [r for r in rows if r["aspect"] == "exports"]:
         return {"stage": "no evidence", "exports": "", "plant": "", "sources": [],
-                "gaps": "Nothing held gives ICT service exports as a share of GDP."}
+                "gaps": "Nothing found gives ICT service exports as a share of GDP."}
     live = [(when(r), r) for r in rows if r["aspect"] == "exports" and r["as_of"]
             and FROM <= when(r) <= as_at]
     if not live:
         return {"stage": "unplaced", "exports": "", "plant": "", "sources": [],
-                "gaps": "No figure for 2023 or later is held for ICT service exports as a share of GDP."}
+                "gaps": "No figure for 2023 or later has been found for ICT service exports as a share of GDP."}
     _, best = max(live, key=lambda p: (p[0], p[1]["source_slug"].startswith("ref:"), p[1]["row_id"]))
     figure = float(best["value"].split(":", 1)[1])
     cleared = sum(1 for line in LINES if figure >= line)
@@ -89,7 +89,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         gap = "All four questions are answered."
         return {"stage": "5", "exports": best["value"], "plant": plant, "sources": sources, "gaps": gap}
     if cleared == len(LINES):
-        gap = "No source held since October 2023 says ICT equipment is assembled or made in the country."
+        gap = "No source found since October 2023 says ICT equipment is assembled or made in the country."
     elif cleared == 0:
         gap = ""
     else:

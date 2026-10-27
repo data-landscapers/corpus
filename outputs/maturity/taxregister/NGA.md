@@ -8,6 +8,6 @@
 
 **Tied to ID.** [TechCabal says the Tax Identification Number, issued by the Nigeria Revenue Service and the Joint Revenue Board, is generated from the National Identification Number for individuals](<https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/>). [An individual's National Identification Number serves as the NRS identifier, giving a 13-digit Tax ID](<https://nrsportal.ng/corporate-tax-in-2026-using-cac-numbers-as-nrs-identifiers/>).
 
-***Noted, not assessed***. [National Identity Database (NIN)](<https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/>); [National Payment Stack](<https://www.thisdaylive.com/2026/02/02/how-strategic-shift-of-nibss-is-rewiring-nigerias-payments-system/>).
+***Also on file***. [National Identity Database (NIN)](<https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/>); [National Payment Stack](<https://www.thisdaylive.com/2026/02/02/how-strategic-shift-of-nibss-is-rewiring-nigerias-payments-system/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -6,8 +6,8 @@
 
 **Warnings issued.** [ANACIM's head of forecasting says MTG Lightning Imager data are critical during the rainy season for alerting communities to extreme weather](<http://www.eumetsat.int/features/forecasting-storm-speed-across-africa>).
 
-**ISO 9001 certified.** No source held since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<http://www.eumetsat.int/features/forecasting-storm-speed-across-africa>).
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<http://www.eumetsat.int/features/forecasting-storm-speed-across-africa>).
 
-***Noted, not assessed***. [RIICE](<https://www.cgiar.org/news-events/news/leveraging-satellite-technology-in-senegals-rice-regions-for-national-food-and-economic-security>).
+***Also on file***. [RIICE](<https://www.cgiar.org/news-events/news/leveraging-satellite-technology-in-senegals-rice-regions-for-national-food-and-economic-security>).
 
-***Not held***. No source held since October 2023 says the weather service holds ISO 9001 certification.
+***Not found***. No source found since October 2023 says the weather service holds ISO 9001 certification.

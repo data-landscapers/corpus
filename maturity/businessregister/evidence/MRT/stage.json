@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MRT-001",
-      "gaps": "The April 2025 launch gives a register entry, a tax registration and CNSS affiliation in one procedure; nothing held says registration gives one number shared with tax or social security.",
+      "gaps": "The April 2025 launch gives a register entry, a tax registration and CNSS affiliation in one procedure; nothing found says registration gives one number shared with tax or social security.",
       "note": "Reassessed in the rebuild: online company creation is in service (2025); one procedure for three registrations is not one shared number, so not stage 4.",
       "as_at": "2026-10-23"
     }

@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "community integrated",
       "stage_sources": "RWA-002;RWA-025;RWA-026;RWA-027",
-      "gaps": "No share or count of primary clinics entering their own reports: the 100% (RWA-027) is a rollout statement for all 1,819 facilities with no numerator, resting on 13 facility visits, and RWA-002's 520 are health centres, under a third of the 1,763 health centres and health posts it lists. The newest tier fact (RWA-024, 2024-06) names no T4, and reporting completeness is held only undated (RWA-011). No plan or finance fact falls inside the 36 months (RWA-020, plan:none, is dated 2021), so governance would cap a higher rung; nothing is held for the last twelve months.",
+      "gaps": "No share or count of primary clinics entering their own reports: the 100% (RWA-027) is a rollout statement for all 1,819 facilities with no numerator, resting on 13 facility visits, and RWA-002's 520 are health centres, under a third of the 1,763 health centres and health posts it lists. The newest tier fact (RWA-024, 2024-06) names no T4, and reporting completeness has been found only undated (RWA-011). No plan or finance fact falls inside the 36 months (RWA-020, plan:none, is dated 2021), so governance would cap a higher rung; nothing is held for the last twelve months.",
       "note": "Reports are keyed into DHIS2 at the facility (RWA-026), but the 100% is a rollout to all facilities and the 520 are health centres only, while whether the 1,250 health posts key their own reports is not shown. Rung 4 needs a share or count of primary clinics alone (Bill, 2026-10-23), so the cell takes rung 3.",
       "as_at": "2026-10-23"
     },

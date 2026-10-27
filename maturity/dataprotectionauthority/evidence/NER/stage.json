@@ -9,7 +9,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-007;NER-006",
-      "gaps": "Nothing held says the Justice and Interior ministries, which took over the authority's missions, are supervising data protection.",
+      "gaps": "Nothing found says the Justice and Interior ministries, which took over the authority's missions, are supervising data protection.",
       "note": "Stage 1 on 2026-10-21: a presidential decree of 8 June 2026 abolished the HAPDP and an ordonnance the same day repealed the 2022 law's provisions founding it, so no authority exists and none is named in law.",
       "as_at": "2026-10-21"
     }

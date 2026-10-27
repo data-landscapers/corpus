@@ -8,7 +8,7 @@ r"""study-statisticsstrategy-write.py — the national statistics strategy study
 it. **Nothing is composed here that a fact does not state**: each of the three paragraphs is
 the drafters' own fact sentences on that aspect, each linked whole to its evidence row's
 `url`, the rows that set the stage first, then the rest newest first while the paragraph stays
-inside its room. An aspect with nothing held says so, linked to the fact that set the stage.
+inside its room. An aspect with nothing found says so, linked to the fact that set the stage.
 
 Writes, per country, `outputs/maturity/statisticsstrategy/{ISO3}.md` and
 `maturity/statisticsstrategy/evidence/{ISO3}/short.json`. Run it after the ladder script.
@@ -25,6 +25,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "statisticsstrategy"
@@ -39,9 +40,9 @@ OPENER = re.compile(r"^(?:the )?(?:article|document|report|page|story|piece|text
                     r"(?: \w+)?(?: \([^)]*\))? (?:says|states|reports|notes)(?: that)? ", re.I)
 ASIDE = re.compile(r"\s*\((?=[^)]*\b(?:date|dated|as_of|inferred|publication|published)\b)[^)]*\)", re.I)
 EMPTY = {
-    "standing": "No source held says a national statistics strategy was adopted or is being prepared. The nearest held fact: {l}.",
-    "review": "No source held dates a review of progress on the strategy since October 2023, from an annual review, a progress report or a meeting of its steering body. The nearest held fact: {l}.",
-    "evaluation": "No source held reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: {l}.",
+    "standing": "No source found says a national statistics strategy was adopted or is being prepared. The nearest held fact: {l}.",
+    "review": "No source found dates a review of progress on the strategy since October 2023, from an annual review, a progress report or a meeting of its steering body. The nearest held fact: {l}.",
+    "evaluation": "No source found reports a mid-term or final evaluation of the current strategy completed since October 2023. The nearest held fact: {l}.",
 }
 
 
@@ -137,17 +138,17 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             parts += [f"**{a['name']}.** " + " ".join(body), ""]
         short = shorten(cell, top["as_of"][:4], top)
     elif cell["stage"] == "unplaced":
-        short = "No source held shows a current statistics strategy or one in preparation, so no stage is set."
+        short = "No source found shows a current statistics strategy or one in preparation, so no stage is set."
     else:
-        short = "Nothing held says whether the country has a national statistics strategy, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+        short = "Nothing found says whether the country has a national statistics strategy, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

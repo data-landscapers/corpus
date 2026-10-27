@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The [interconnection agreement](<https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/>) sets a first capacity of 42.5 gigabits a second at Pamelap and plans 100 gigabits a second by 2026. Those are the terms of the agreement between the two backbone companies. The regulator, [writing in November 2025](<https://natca.gov.sl/2025/11/17/the-republic-of-sierra-leone-signs-free-roaming-agreement-with-republic-of-guinea-to-ease-cross-border-connectivity/>), described the agreement of the year before and did not describe a link carrying traffic.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says building has started in the last three years.
+***Not found***. No source found says building has started in the last three years.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-001",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
       "note": "Rebuild: the FISP e-voucher uses eKYC verification in all 116 districts (ZMB-001), though what it checks against is not named. The PKI and ZamSign are under way (ZMB-003, ZMB-004).",
       "as_at": "2026-10-22"
     }

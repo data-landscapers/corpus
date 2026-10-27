@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "LBR-005;LBR-002",
-   "gaps": "No source held since October 2023 says the registry is linked to the national ID and to another sector.",
+   "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
    "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
   }
  ]

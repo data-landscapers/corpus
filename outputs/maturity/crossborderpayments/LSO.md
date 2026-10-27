@@ -6,8 +6,8 @@
 
 **Regional system.** [The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>).
 
-**Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>).
+**Volumes reported.** No source found since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf>).
 
-***Noted, not assessed***. [M-Pesa](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [Tsetela](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [mobile money](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
+***Also on file***. [M-Pesa](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [Tsetela](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [mobile money](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>).
 
-***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.

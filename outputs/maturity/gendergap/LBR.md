@@ -2,6 +2,6 @@
 
 ## Gender gap in internet use
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held gives the gender gap in internet use.
+***Not found***. Nothing found gives the gender gap in internet use.

@@ -2,6 +2,6 @@
 
 ## Station records
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held states whether stations record reports or cases on paper or digitally, in what system, or in how many stations.
+***Not found***. No source found states whether stations record reports or cases on paper or digitally, in what system, or in how many stations.

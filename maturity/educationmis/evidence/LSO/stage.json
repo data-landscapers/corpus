@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "LSO-001",
-   "gaps": "No source held since October 2023 says the system holds a record for each learner.",
+   "gaps": "No source found since October 2023 says the system holds a record for each learner.",
    "note": "First pass: counted from the four questions by study-ladder-educationmis.py."
   }
  ]

@@ -8,6 +8,6 @@
 
 **A household survey published.** [HCP published the first Q1 2026 results of the new national labour force survey (EMO2026), which replaces the Enquete nationale sur l'emploi and has an annual sample of 135,000 households](<https://www.hcp.ma/Situation-du-marche-du-travail-au-Maroc-au-premier-trimestre-de-2026-a-partir-de-la-nouvelle-enquete-sur-la-main-d_a4309.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

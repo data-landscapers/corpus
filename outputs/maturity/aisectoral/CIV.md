@@ -6,8 +6,8 @@
 
 **Several sectors.** Tax, health and land-cover mapping each have AI in service, in separate accounts. In March 2024 the state technical bureau BNETD [presented a land-cover map with AI recognition of forests on satellite imagery](<https://news.abidjan.net/articles/729948/cote-divoire-le-bnetd-presente-la-carte-doccupation-des-sols-2020-avec-lappui-du-programme-cacao-durable-de-lunion-europeenne>), offered as a monitoring tool for the national sustainable cocoa strategy. Customs [is deploying AI fraud-detection tools in its Douane Intelligente project, with Huawei](<https://apps.douanes.ci/info/modernisation-douaniere>).
 
-**Results reported.** No measured results of a sectoral AI system in service are held. The [minister's account of AI in tax](<https://finances.gouv.ci/actualites/65-contenu-dynamique/actualite/1126-lancement-du-rapport-sur-le-developpement-humain-rdh-2025-panel-ministeriel-de-haut-niveau-le-ministre-adama-coulibaly-releve-l-importance-de-l-intelligence-artificielle-pour-le-budget-national>) gives no figures for fraud detected or revenue recovered.
+**Results reported.** No measured results of a sectoral AI system in service have been found. The [minister's account of AI in tax](<https://finances.gouv.ci/actualites/65-contenu-dynamique/actualite/1126-lancement-du-rapport-sur-le-developpement-humain-rdh-2025-panel-ministeriel-de-haut-niveau-le-ministre-adama-coulibaly-releve-l-importance-de-l-intelligence-artificielle-pour-le-budget-national>) gives no figures for fraud detected or revenue recovered.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. A single source saying AI is in service in several sectors, and measured results of a sectoral AI system in service, are not known.
+***Not found***. No single source found says AI is in service in several sectors, and no source found reports measured results of a sectoral AI system in service.

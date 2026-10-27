@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [CAMIX lists points of presence in Yaounde (CAMPOST data centre) and in Douala (CAMTEL Bepanda and ST-Digital), per its own homepage](<https://www.camix.cm/>). [CAMIX says its interconnection infrastructure already had two operational sites, a Douala PoP at CAMTEL Bepanda and a Yaounde PoP at the CAMPOST data centre, before the third PoP at ST-DIGITAL](<https://www.camix.cm/actualite/3e-pop-camix>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held gives the exchange's traffic at two dates a year apart showing growth.
+***Not found***. No source found gives the exchange's traffic at two dates a year apart showing growth.

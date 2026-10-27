@@ -8,6 +8,6 @@
 
 **Linked to ID.** [The World Bank states Rwanda moved to a national digital platform linked to ID and administrative data](<https://www.worldbank.org/en/results/2025/11/19/social-registries-digital-platforms-inclusive-service-delivery>). [BMZ reports data in Imibereho is validated through cross-checks with other government databases including the National ID Agency (NIDA)](<https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/>).
 
-***Noted, not assessed***. [Ubudehe classification](<https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/>).
+***Also on file***. [Ubudehe classification](<https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

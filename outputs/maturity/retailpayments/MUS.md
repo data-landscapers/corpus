@@ -6,8 +6,8 @@
 
 **Between providers.** [Platform Africa reports Mauritius has made progress on payments and interoperability, and customers can move funds between their bank accounts through fintech platforms](<https://platformafrica.com/2026/09/17/pulse-of-fintech-2026-why-collaboration-is-the-key-to-unlocking-mauritius-financial-future/>). [AfricaNenda's SIIPS 2024 case study profiles MauCAS as Mauritius's national instant-payment switch for interoperable, real-time retail payments](<https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://platformafrica.com/2026/09/17/pulse-of-fintech-2026-why-collaboration-is-the-key-to-unlocking-mauritius-financial-future/>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://platformafrica.com/2026/09/17/pulse-of-fintech-2026-why-collaboration-is-the-key-to-unlocking-mauritius-financial-future/>).
 
-***Noted, not assessed***. [National Fintech Strategy 2026-2030](<https://www.wearetech.africa/en/fils-uk/news/tech/mauritius-unveils-national-fintech-strategy-to-modernize-payments>).
+***Also on file***. [National Fintech Strategy 2026-2030](<https://www.wearetech.africa/en/fils-uk/news/tech/mauritius-unveils-national-fintech-strategy-to-modernize-payments>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

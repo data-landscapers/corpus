@@ -6,6 +6,6 @@
 
 **A second city or networks from abroad.** [Internet Society Pulse, from PeeringDB data of May 2026, shows MIXP members registered abroad: 2 in the United States (PCH AS42 and AS3856), 2 in South Africa (CMC Networks, Vodacom) and 1 in Guadeloupe (Canal+ Telecom), against 14 in Mauritius](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/516/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a global content network has a cache at the exchange or peers there.
+***Not found***. No source found says a global content network has a cache at the exchange or peers there.

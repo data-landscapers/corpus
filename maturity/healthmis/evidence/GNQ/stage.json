@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "GNQ-001;GNQ-003",
-   "gaps": "No source held since October 2023 says: is a national one in service.",
+   "gaps": "No source found since October 2023 says: is a national one in service.",
    "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
   }
  ]

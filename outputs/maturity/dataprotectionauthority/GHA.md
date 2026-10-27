@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** On 7 September 2026 the Communications Minister [said the Commission's regulatory activity rose 51.5 per cent](<https://www.myjoyonline.com/data-protection-commission-records-sharp-rise-in-regulatory-activity-sam-george/>) and newly registered data controllers 98.4 per cent in the first half of 2026. On 13 October 2026 it [said it had registered 2,575 data controllers](<https://gna.org.gh/2026/10/dpc-strengthens-enforcement-after-registering-2575-data-controllers/>) in 2026 and was adding spot checks, inspections and complaint investigations. It [ran a field enforcement exercise in Accra](<https://www.graphic.com.gh/news/general-news/data-protection-commission-clamps-down-on-organisations-breaching-regulations-microfinance-firm-and-health-facility-referred-to-police-for-prosecution.html>) on 12 October 2026 under Act 843. On 14 October 2026 [it directed named companies, among them Polytex Ghana Limited, JA Biney Packaging and Menkish Impex Ltd, to report to the police and regularise their registration](<https://gna.org.gh/2026/10/dpc-flags-six-companies-for-data-protection-breaches/>) for operating unregistered or with expired certificates.
 
-***Noted, not assessed***. [Data Protection Act, 2012 (Act 843)](<https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/>).
+***Also on file***. [Data Protection Act, 2012 (Act 843)](<https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/>).
 
-***Not held***. No published yearly count of the Commission's decisions, fines or complaints settled is held.
+***Not found***. No published yearly count of the Commission's decisions, fines or complaints settled is held.

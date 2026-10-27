@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "educationexchange"
 SUB = "exchange"
-GAPS = {'4': 'No source held since October 2023 says learner records are linked to the national ID or another sector.', '3': 'No source held since October 2023 says one learner identifier is used across education systems.', '2': 'No source held since October 2023 says two education systems exchange data in use.', '1': 'No source held since October 2023 says a link between education systems is under way.', '5': ''}
-EMPTY = "Nothing held names education systems exchanging data, or says there is none."
-UNPLACED = "Nothing held since October 2023 names education systems exchanging data."
+GAPS = {'4': 'No source found since October 2023 says learner records are linked to the national ID or another sector.', '3': 'No source found since October 2023 says one learner identifier is used across education systems.', '2': 'No source found since October 2023 says two education systems exchange data in use.', '1': 'No source found since October 2023 says a link between education systems is under way.', '5': ''}
+EMPTY = "Nothing found names education systems exchanging data, or says there is none."
+UNPLACED = "Nothing found since October 2023 names education systems exchanging data."
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

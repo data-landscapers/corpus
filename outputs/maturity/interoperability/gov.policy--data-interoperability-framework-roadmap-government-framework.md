@@ -39,21 +39,21 @@ Algeria's decree of December 2025 makes a national interoperability system the o
 
 ### Mozambique: 4 Operating
 
-Mozambique's 2017 decree binds all public bodies to its interoperability framework, with the ICT regulator enforcing; which bodies comply is not known.
+Mozambique's 2017 decree binds all public bodies to its interoperability framework, with the ICT regulator enforcing; no source found says which bodies comply.
 
 - The decree applies to all public administration bodies (central, local, autarquias), obliges them to use a single interoperability platform and integrate their systems, and charges INTIC with inspecting compliance and sanctioning breaches; as_of is the publication date ([source, 2017-12-01](https://www.intic.gov.mz/wp-content/uploads/2021/04/BR_188_I_SERIE_2017.pdf)).
 - INTIC chairman Lourino Chemane said Mozambique has completed a thorough review of the Electronic Government Systems Interoperability Regulation, which sets standards for integrating and managing public information systems; the report is dated 2025-12-05 and gives no other date ([source, 2025-12-05](https://techafricanews.com/2025/12/05/mozambique-prioritizes-data-governance-as-cornerstone-of-digital-sovereignty/)).
 
 ### Benin: 3 Established
 
-Benin instituted its interoperability framework by decree in 2020; no source held names the body that enforces it.
+Benin instituted its interoperability framework by decree in 2020; no source found names the body that enforces it.
 
 - ASIN's July 2026 legal note treats Benin's interoperability framework as in place, setting registration, technical and contractual conditions for connecting to the Xroad-BJ exchange platform, with the Comité national d'interopérabilité supervising; the note's date is the published date, 2026-07-28, no event date being given ([source, 2026-07-28](https://asin.bj/doc/142/download)).
 - Benin's Cadre d'interopérabilité, published by ASIN, is instituted by décret n° 2020-209 of 18 March 2020 and sets four levels (juridical, organisational, semantic, technical) and five common infrastructure components; the document carries no publication date, so 2020-03-18 is the instituting decree's date ([source, 2020-03-18](https://api.xroad.bj/documents/10/download)).
 
 ### Burkina Faso: 3 Established
 
-Burkina Faso adopted a general interoperability framework by prime ministerial order in 2018; whether public bodies must follow it is not known.
+Burkina Faso adopted a general interoperability framework by prime ministerial order in 2018; no source found says whether public bodies must follow it.
 
 - The Referentiel general d'interoperabilite (RGI), a normative document fixing the rules for compatibility between public administrations' information systems, was adopted by arrete of the Prime Minister on 23 May 2018, as reported by Burkina 24 on 15 October 2019 ([source, 2018-05-23](https://burkina24.com/2019/10/15/burkina-un-referentiel-pour-moderniser-ladministration-publique/)).
 
@@ -65,7 +65,7 @@ Cote d'Ivoire adopted a general interoperability framework by decree in 2021 and
 
 ### Djibouti: 3 Established
 
-Djibouti's state information systems agency issued a national interoperability framework in 2022; whether public bodies must follow it is not known.
+Djibouti's state information systems agency issued a national interoperability framework in 2022; no source found says whether public bodies must follow it.
 
 - The Agence Nationale des Systèmes d'Information de l'État (ANSIE) issued the Cadre d'Interopérabilité de Djibouti (CID) as the national interoperability framework, setting principles, four interoperability layers (legal, organisational, semantic, technical) and a conceptual model for integrated public service delivery; the document shows no enactment date, so the published date (2022) is used ([source, 2022](https://thedocs.worldbank.org/en/doc/e3b093b92e0531dcb5994e53e1b0733d-0460012022/original/Cadre-d-Interop-rabilit-de-Djibouti.pdf)).
 
@@ -84,65 +84,65 @@ Ghana adopted an e-government interoperability framework in 2008; a 2022 draft u
 
 ### Guinea-Bissau: 3 Established
 
-Guinea-Bissau approved a national interoperability regulation by decree in October 2025; who enforces it is not known.
+Guinea-Bissau approved a national interoperability regulation by decree in October 2025; no source found says who enforces it.
 
 - A WARDIP Guinea-Bissau post says the government approved the national interoperability regulation (quadro nacional de interoperabilidade), tied to the World Bank-backed WARDIP programme; the post gives no event date, so the published date 2026-08-08 is used ([source, 2026-08-08](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q)).
 - WARDIP reports that the government approved the National Regulation on Interoperability of Digital Systems and Platforms of public and private services through Decree 27/2025, published in the Boletim Oficial of 31 October 2025, setting common technical standards so systems can exchange data ([source, 2025-10-31](https://wardip.gw/governo-aprova-regulamento-nacional-de-interoperabilidade-para-acelerar-a-transformacao-digital-na-guine-bissau/)).
 
 ### Madagascar: 3 Established
 
-Madagascar published its interoperability framework in 2022 and made a decree on interoperability's institutions in 2025; whether it is compulsory is not known.
+Madagascar published its interoperability framework in 2022 and made a decree on interoperability's institutions in 2025; no source found says whether it is compulsory.
 
 - A decree numbered 2025-1959 on the institutional framework of interoperability in Madagascar is listed on the OITF legal portal; the page gives only the title, no text and no adoption day, so the date is the page's published date of December 2025 ([source, 2025-12](https://observatoire-territoire.mg/lois/decret-n-2025-1959-relatif-au-cadre-institutionnel-de-linteroperabilite-a-madagascar/)).
 - The article says the Rahaka system is implemented within a legal framework reinforced by decree no. 2025-1959 on the interoperability of public information systems; the decree's year is taken from its number, the article gives no adoption date ([source, 2025](https://newsmada.com/2026/04/29/systeme-rahaka-vers-linteroperabilite-nationale-des-donnees/)).
 
 ### Mauritius: 3 Established
 
-Mauritius issued an e-government interoperability framework in 2002; whether public bodies must follow it is not known.
+Mauritius issued an e-government interoperability framework in 2002; no source found says whether public bodies must follow it.
 
 - The Government of Mauritius issued version 1.0 of the Mauritius e-Government Interoperability Framework in November 2002, setting technical standards and specifications for interoperability across government information systems and data exchange between public agencies ([source, 2002-11](https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf)).
 
 ### Nigeria: 3 Established
 
-Nigeria's IT agency took over a government enterprise architecture framework in March 2026; whether agencies must follow it is not known.
+Nigeria's IT agency took over a government enterprise architecture framework in March 2026; no source found says whether agencies must follow it.
 
 - TechAfrica News reports that on the handover from KOICA in March 2026 NITDA took over the Nigeria Government Enterprise Architecture (NGEA) framework, built over two and a half years with reference models and described as now operational and enabling data exchange across government agencies; the event is dated by the article's publication date, 2026-03-27 ([source, 2026-03-27](https://techafricanews.com/2026/03/27/nitda-takes-over-nigeria-government-enterprise-architecture-in-major-digital-governance-milestone/)).
 
 ### Rwanda: 3 Established
 
-Rwanda approved a national data sharing policy for public institutions in May 2025; whether they must follow it is not known.
+Rwanda approved a national data sharing policy for public institutions in May 2025; no source found says whether they must follow it.
 
 - The New Times reports that Rwanda approved its National Data Sharing Policy in May 2025 to provide a framework for data exchange between public institutions, with safeguards on privacy and access to restricted data ([source, 2025-05](https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister)).
 
 ### Tanzania: 3 Established
 
-Tanzania's e-government agency approved an interoperability framework in 2016; whether public institutions must follow it is not known.
+Tanzania's e-government agency approved an interoperability framework in 2016; no source found says whether public institutions must follow it.
 
 - The e-Government Agency (eGA) issued the e-Government Interoperability Framework (e-GIF), document eGA/EXT/GIF/001 version 1.0, approved by its CEO in February 2016, setting common standards and technical guidelines for Public Institutions to exchange data ([source, 2016-02](https://www.ega.go.tz/uploads/standards/sw-1574945623-inter.pdf)).
 
 ### Tunisia: 3 Established
 
-Tunisia set rules for electronic data exchange between public bodies by decree-law and decree in 2020; whether they are enforced is not known.
+Tunisia set rules for electronic data exchange between public bodies by decree-law and decree in 2020; no source found says whether they are enforced.
 
 - Government decree 2020-777 of 5 October 2020 sets the conditions and procedures for electronic data exchange between public bodies and their users and between bodies, implementing decree-law 2020-31, and defines a national interoperability operator and interoperability system ([source, 2020-10-05](https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-777-du-5-octobre-2020-fixant-les-conditions-les-modalites-et-les-procedures-dapplication-du-decret-loi-du-chef-du-gouvernement-n-2020-31-du-10-juin/)).
 - Decree-law 2020-31 of the Head of Government, published in the Official Journal no. 54 of 10 June 2020, concerns electronic data exchange between public bodies and their users and between bodies; the held passages show only the title and preamble, not the provisions ([source, 2020-06-10](https://www.marchespublics.gov.tn/fr/legislations/5923/download)).
 
 ### Uganda: 3 Established
 
-Uganda issued an e-government interoperability framework in 2021 and renewed it in 2026; whether public bodies must follow it is not known.
+Uganda issued an e-government interoperability framework in 2021 and renewed it in 2026; no source found says whether public bodies must follow it.
 
 - The e-Governance Academy reports that the Government of Uganda, through NITA-U with World Bank support, renewed the Government Enterprise Architecture and the e-Government Interoperability Framework, and that the project delivered an enhanced e-GIF for standardised data exchange across government systems; the source gives no event date, so the 2026-05-27 publication date is used ([source, 2026-05-27](https://ega.ee/uganda-renewed-digital-government-frameworks/)).
 - The Ministry of Health guidelines, dated January 2023, state that the Government of Uganda has spelled out the overall vision of how sectors exchange information in the Uganda eGovernment Interoperability Framework; the guidelines themselves are health-sector only; the source gives no adoption date for the e-GIF, so the January 2023 publication date is used ([source, 2023-01](https://library.health.go.ug/file-download/download/public/1883)).
 
 ### Zambia: 3 Established
 
-Zambia issued a public service interoperability standard in 2019; no decree or law making it compulsory is held.
+Zambia issued a public service interoperability standard in 2019; no decree or law making it compulsory has been found.
 
 - The Government of Zambia, through the Office of the President's Electronic Government Division (SMART Zambia Institute), issued the Public Service ICT Electronic Government Interoperability Standard, 1st Edition, final version dated February 2019, which the text describes as the electronic Government Interoperability Framework (eGIF) for all ministries, provinces and spending agencies ([source, 2019-02](https://policyvault.africa/wp-content/uploads/policy/ZMB588.pdf)).
 
 ### Angola: 2 Nascent
 
-Angola has an interoperability framework written and none adopted; whether public bodies will be required to follow it is not known.
+Angola has an interoperability framework written and none adopted; no source found says whether public bodies will be required to follow it.
 
 - IMA's terms of reference say a seven-month study with 25 public institutions produced the Framework and Roadmap of Interoperability, with organisational, semantic, technical and infrastructure guidelines and a phased roadmap; the document gives no adoption instrument. Dated by the document's publication date, 2026-02-09 ([source, 2026-02-09](https://sys.portais.gov.ao/uploads/Td_R_Consultoria_para_Implementacao_da_Interoperabilidade_da_Administracao_Publica_1_13f0252ef0.pdf)).
 
@@ -220,7 +220,7 @@ Sierra Leone's ICT ministry said in October 2025 it had developed a government e
 
 ### South Africa: 2 Nascent
 
-South Africa was updating its minimum interoperability standards and government-wide architecture in 2026; no source held says the current ones are in force.
+South Africa was updating its minimum interoperability standards and government-wide architecture in 2026; no source found says the current ones are in force.
 
 - The Operation Vulindlela Q1 2026/27 report (National Treasury and the Presidency) says work progressed during the quarter on updating the Minimum Interoperability Standards and the Government-Wide Enterprise Architecture, with the updated standards to be progressed and tested in priority digital services by September 2026; the quarter ended June 2026, so as_of is the quarter, not the 2026-07-31 publication ([source, 2026-06](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf)).
 
@@ -257,7 +257,7 @@ Not established: No framework or draft is on record, and no source dated in the 
 
 ### Gabon: Unplaced
 
-Nothing held says Gabon has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Gabon has a government interoperability framework, or says it has none, so no stage is set.
 
 Not established: No framework or draft is on record, and no source dated in the last three years says the government has neither.
 
@@ -269,96 +269,96 @@ Not established: No framework or draft is on record, and no source dated in the 
 
 ### Libya: Unplaced
 
-Nothing held says Libya has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Libya has a government interoperability framework, or says it has none, so no stage is set.
 
 Not established: No framework or draft is on record, and no source dated in the last three years says the government has neither.
 
 ### Burundi: No evidence
 
-Nothing held says Burundi has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Burundi has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Cape Verde: No evidence
 
-Nothing held says Cape Verde has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Cape Verde has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Central African Republic: No evidence
 
-Nothing held says Central African Republic has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Central African Republic has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Chad: No evidence
 
-Nothing held says Chad has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Chad has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Comoros: No evidence
 
-Nothing held says Comoros has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Comoros has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### DR Congo: No evidence
 
-Nothing held says DR Congo has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says DR Congo has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Egypt: No evidence
 
-Nothing held says Egypt has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Egypt has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Eswatini: No evidence
 
-Nothing held says Eswatini has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Eswatini has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Liberia: No evidence
 
-Nothing held says Liberia has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Liberia has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Mali: No evidence
 
-Nothing held says Mali has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Mali has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Morocco: No evidence
 
-Nothing held says Morocco has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Morocco has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Niger: No evidence
 
-Nothing held says Niger has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Niger has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Seychelles: No evidence
 
-Nothing held says Seychelles has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Seychelles has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### South Sudan: No evidence
 
-Nothing held says South Sudan has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says South Sudan has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.
 
 ### Sudan: No evidence
 
-Nothing held says Sudan has a government interoperability framework, or says it has none, so no stage is set.
+Nothing found says Sudan has a government interoperability framework, or says it has none, so no stage is set.
 
-Not established: Nothing held names a government interoperability framework, or says there is none.
+Not established: Nothing found names a government interoperability framework, or says there is none.

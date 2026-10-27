@@ -8,6 +8,6 @@
 
 **The state's data hosted nationally.** [L'Express reports that Mauritius Telecom's Rose-Belle data centre hosts government projects, among them e-Health, Mobile ID and the government portal, as seen on a minister's visit on 29 December 2025](<https://lexpress.mu/node/552966>).
 
-***Noted, not assessed***. [Government Online Centre (GOC), Ebene](<https://lexpress.mu/node/552966>); [My.t Cloud](<https://www.lemauricien.com/le-mauricien/communication-nouvelles-technologies-mtius-telecom-ouvre-son-data-centre-et-lance-ses-services-cloud/628948/>); [Africa50-backed 30 MW build](<https://www.mordorintelligence.com/industry-reports/mauritius-data-center-market>); [Mauritius Telecom Tier IV data centre expansion](<https://techafricanews.com/2025/12/08/mauritius-telecom-expands-fibre-ai-and-financial-services-across-region/>).
+***Also on file***. [Government Online Centre (GOC), Ebene](<https://lexpress.mu/node/552966>); [My.t Cloud](<https://www.lemauricien.com/le-mauricien/communication-nouvelles-technologies-mtius-telecom-ouvre-son-data-centre-et-lance-ses-services-cloud/628948/>); [Africa50-backed 30 MW build](<https://www.mordorintelligence.com/industry-reports/mauritius-data-center-market>); [Mauritius Telecom Tier IV data centre expansion](<https://techafricanews.com/2025/12/08/mauritius-telecom-expands-fibre-ai-and-financial-services-across-region/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

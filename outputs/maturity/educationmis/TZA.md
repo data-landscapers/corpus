@@ -6,8 +6,8 @@
 
 **Learner records.** [PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM)](<https://sis.tamisemi.go.tz/privacy-policy>). [Under PReM each student is assigned a unique identification number, with information on students and their guardians on record, for public and private primary schools (2018, before the three-year window)](<https://www.globalpartnership.org/news/tanzania-launched-electronic-student-enrollment-system>).
 
-**Linked.** No source held since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://sis.tamisemi.go.tz/privacy-policy>).
+**Linked.** No source found since October 2023 says learner records are linked to the national ID or another government system. The nearest held fact: [the one given above](<https://sis.tamisemi.go.tz/privacy-policy>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says learner records are linked to the national ID or another government system.
+***Not found***. No source found since October 2023 says learner records are linked to the national ID or another government system.

@@ -6,6 +6,6 @@
 
 **Required and followed.** The regulation followed [a feasibility study for an interoperability framework, platform and enterprise architecture, commissioned under a World Bank-backed programme](<https://wardip.gw/devemerge-global-consultancy-private-limited-plano-de-acao-para-a-digitalizacao-dos-principais-servicos-publicos/>), which in August 2026 [reported the national interoperability regulation as approved](<https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q>). No source names the body that enforces it or counts the bodies following it. The decree's own text is not held, so what it requires of each public body is not stated.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.
+***Not found***. No source found says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.

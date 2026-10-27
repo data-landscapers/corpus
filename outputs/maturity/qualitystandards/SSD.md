@@ -6,6 +6,6 @@
 
 **Certification.** The [2012 Act](<https://mojca.gov.ss/wp-content/uploads/2023/03/National-Bureau-of-Standards-Act-2012.pdf>) is the nearest text held. It names no scheme for certifying an organisation against a standard on information technology or data, and no organisation the bureau has certified.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

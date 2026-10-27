@@ -6,8 +6,8 @@
 
 **Paid electronically.** [The World Bank restructuring paper says 252 woredas use electronic payments and bank accounts are opened for 1.3 million beneficiary households](<https://documents1.worldbank.org/curated/en/099102025134040722/pdf/P172479-f2834346-c6c0-4568-a19e-46544cf006e6.pdf>).
 
-**Several programmes.** No source held since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099102025134040722/pdf/P172479-f2834346-c6c0-4568-a19e-46544cf006e6.pdf>).
+**Several programmes.** No source found since October 2023 says one information system serves several social programmes. The nearest held fact: [the one given above](<https://documents1.worldbank.org/curated/en/099102025134040722/pdf/P172479-f2834346-c6c0-4568-a19e-46544cf006e6.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says one information system serves several social programmes.
+***Not found***. No source found since October 2023 says one information system serves several social programmes.

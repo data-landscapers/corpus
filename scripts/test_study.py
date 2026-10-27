@@ -264,7 +264,7 @@ try:
     cell = profile.profile_cell(asp["last12"], [ev("KEN-1", "last12", "advancing", "2025-06")], AS_AT)
     check("a qualifier with nothing in its window is a gap", cell["gap"], "nothing dated since 2025-09-28")
     check("an aspect with no fact is a gap", profile.profile_cell(asp["tiers"], [], AS_AT)["gap"],
-          "nothing held")
+          "nothing found")
     cell = profile.profile_cell(asp["tiers"], [ev("KEN-1", "tiers", "T4", "2025"),
                                                ev("KEN-2", "tiers", "T1;T2", "2024"),
                                                ev("KEN-3", "tiers", "T3", "2019")], AS_AT)
@@ -632,7 +632,7 @@ try:
         return f"**{name}.** " + " ".join(["word"] * (n - 2)) + " [cited](https://a.org/1)."
 
     names = [a["name"] for a in STUDY["aspects"]]
-    closing = "***Noted, not assessed***: none.\n\n***Not held***: clinic shares."
+    closing = "***Also on file***: none.\n\n***Not found***: clinic shares."
     page = "# Kenya\n\n## HMIS\n\n" + "\n\n".join(para(n, 40) for n in names) + "\n\n" + closing + "\n"
     urls = {"a.org/1"}
     check("a well-formed long summary passes", lint.long_problems(STUDY, "KEN", page, {"hmis": True}, urls), [])
@@ -646,8 +646,8 @@ try:
     check("aspects out of order fail", any("the study's order is" in x for x in p), True)
     p = lint.long_problems(STUDY, "KEN", page.replace(" [cited](https://a.org/1)", "", 1), {"hmis": True}, urls)
     check("a paragraph with no link fails", any("carries no link" in x for x in p), True)
-    p = lint.long_problems(STUDY, "KEN", page.replace("***Not held***", "Not held"), {"hmis": True}, urls)
-    check("a missing closing line fails", any("no closing line ***Not held***" in x for x in p), True)
+    p = lint.long_problems(STUDY, "KEN", page.replace("***Not found***", "Not found"), {"hmis": True}, urls)
+    check("a missing closing line fails", any("no closing line ***Not found***" in x for x in p), True)
     bare = "# Kenya\n\n## HMIS\n\n" + closing
     check("a cell with no stage needs only its closing lines",
           lint.long_problems(STUDY, "KEN", bare, {"hmis": False}, urls), [])

@@ -6,6 +6,6 @@
 
 **Requirement and standard-setting.** The [same ISO page](<https://www.iso.org/member/11493926.html>) shows ACONOQ taking part in 2 ISO technical committees and 3 project committees, as of 16 October 2026. That participation sits beside its standing as an ISO member body and an IEC Affiliate Plus member.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names an international standard on information technology or data adopted as a national standard.
+***Not found***. No source found names an international standard on information technology or data adopted as a national standard.

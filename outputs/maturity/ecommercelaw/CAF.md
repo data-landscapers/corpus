@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The [regulator's index](<https://www.arcep.cf/fr/index.php/reglementation/lois-et-ordonnances>) names the law and gives its date, and it shows no decree, regulation or order made under it. No rule on electronic signatures, on those who certify them or on those who sell online is named there, and no accreditation, licence, registration or penalty under the law is recorded in the index.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decree, regulation or order made under the law is held, and the text of the law is not held.
+***Not found***. No decree, regulation or order made under the law has been found, and the text of the law is not held.

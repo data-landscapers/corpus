@@ -6,8 +6,8 @@
 
 **Results published.** [UNFPA Djibouti lists the 73-page definitive-results report of the third census (RGPH-3) as published; the site's date reads 1 January 2026 and may be a system default](<https://djibouti.unfpa.org/fr/publications/le-rapport-des-r%C3%A9sultats-d%C3%A9finitifs-du-troisi%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population>).
 
-**A household survey published.** No source held reports results of a national household survey published since October 2023. The nearest held fact: [UNFPA Djibouti lists the 73-page definitive-results report of the third census (RGPH-3) as published; the site's date reads 1 January 2026 and may be a system default](<https://djibouti.unfpa.org/fr/publications/le-rapport-des-r%C3%A9sultats-d%C3%A9finitifs-du-troisi%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population>). Named in what was read, with no results dated: [MICS-7](<https://fr.linkedin.com/posts/institut-de-la-statistique-de-djibouti_mics7-lancementofficiel-statistiques-activity-7411930519883620355-xPnK>); [EDAM5](<https://www.jointdatacenter.org/activites/displaced-populations-in-djibouti/>).
+**A household survey published.** No source found reports results of a national household survey published since October 2023. The nearest held fact: [UNFPA Djibouti lists the 73-page definitive-results report of the third census (RGPH-3) as published; the site's date reads 1 January 2026 and may be a system default](<https://djibouti.unfpa.org/fr/publications/le-rapport-des-r%C3%A9sultats-d%C3%A9finitifs-du-troisi%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population>). Named in what was read, with no results dated: [MICS-7](<https://fr.linkedin.com/posts/institut-de-la-statistique-de-djibouti_mics7-lancementofficiel-statistiques-activity-7411930519883620355-xPnK>); [EDAM5](<https://www.jointdatacenter.org/activites/displaced-populations-in-djibouti/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports results of a national household survey published since October 2023.
+***Not found***. No source found reports results of a national household survey published since October 2023.

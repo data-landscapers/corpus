@@ -12,6 +12,6 @@
 
 **Last twelve months.** By February 2026 the Authority had [launched its 2026 awareness campaign, "Take Control of Your Data"](<https://independentnews.co.sz/40549/science-technology/eswatini-launches-data-protection-campaign/>). In September 2026 it was [setting up information desks in major towns](<https://eswatinipositivenews.online/edpa-takes-data-protection-services-closer-to-emaswati/>), after its own survey found 55.2% of the public finding the Authority difficult to access.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No count of decisions, sanctions or complaints settled is published for a stated year, and the newest enforcement notice on record is from March 2025. The outcome of the investigation opened in June 2026 is not reported.
+***Not found***. No count of decisions, sanctions or complaints settled is published for a stated year, and the newest enforcement notice on record is from March 2025. The outcome of the investigation opened in June 2026 is not reported.

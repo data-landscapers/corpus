@@ -6,8 +6,8 @@
 
 **Delivered.** [On 26 June 2025 the Ministry of Employment and Social Protection formally received, under a 13 May 2025 convention with the MTN Foundation, a job-matching website for job-seekers with disabilities, multimedia rooms at the Ivorian School for the Deaf and Felix Houphouet-Boigny University, and a YouTube channel for ECIS pupils](<https://www.emploi.gouv.ci/uploads/publications/17509697364.pdf>).
 
-**Audited.** No source held since October 2023 gives the results of an accessibility audit of public websites or digital services. The nearest held fact: [the one given above](<https://www.emploi.gouv.ci/uploads/publications/17509697364.pdf>).
+**Audited.** No source found since October 2023 gives the results of an accessibility audit of public websites or digital services. The nearest held fact: [the one given above](<https://www.emploi.gouv.ci/uploads/publications/17509697364.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives the results of an accessibility audit of public websites or digital services.
+***Not found***. No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.

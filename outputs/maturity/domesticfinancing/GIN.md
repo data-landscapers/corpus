@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** A decree signed by President Doumbouya on 21 May 2026 [created the Digital Sovereignty Fund](<https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services>), to be financed mainly by revenue from a new 3 per cent Digital Compliance Fee on foreign digital services. It is to fund technology infrastructure, cybersecurity, training and innovation. Enforcement of the fee follows a six-month transition, and no money is yet reported collected or paid.
 
-***Noted, not assessed***. [the Digital Analysis and Regulation Platform](<https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services>).
+***Also on file***. [the Digital Analysis and Regulation Platform](<https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services>).
 
-***Not held***. No budget execution report, settlement law, audited accounts or fund account from the last three years gives what was actually spent.
+***Not found***. No budget execution report, settlement law, audited accounts or fund account from the last three years gives what was actually spent.

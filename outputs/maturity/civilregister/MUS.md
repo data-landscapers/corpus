@@ -6,8 +6,8 @@
 
 **Deaths digital.** [The same issue reports 6,333 deaths registered in January-June 2026 compiled from the Civil Status Division's computerised system, per Statistics Mauritius](<https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf>).
 
-**Births at 90%.** No source held since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf>).
+**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf>).
 
-***Noted, not assessed***. [Central Population Database](<https://oecd-opsi.org/innovations/maupass/>).
+***Also on file***. [Central Population Database](<https://oecd-opsi.org/innovations/maupass/>).
 
-***Not held***. No source held since October 2023 puts birth registration at 90% or more.
+***Not found***. No source found since October 2023 puts birth registration at 90% or more.

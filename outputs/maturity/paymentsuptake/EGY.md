@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.egypttoday.com/Article/3/138692/CBE-shares-new-financial-inclusion-record-74-of-eligible-Egyptians>).
 
-***Noted, not assessed***. [Meeza](<https://gate.ahram.org.eg/News/5335311.aspx>); [InstaPay](<https://gate.ahram.org.eg/News/5335311.aspx>); [Meeza Digital](<https://gate.ahram.org.eg/News/5335311.aspx>).
+***Also on file***. [Meeza](<https://gate.ahram.org.eg/News/5335311.aspx>); [InstaPay](<https://gate.ahram.org.eg/News/5335311.aspx>); [Meeza Digital](<https://gate.ahram.org.eg/News/5335311.aspx>).
 
-***Not held***. No survey held since October 2023 puts adults with an account at 79% or more.
+***Not found***. No survey held since October 2023 puts adults with an account at 79% or more.

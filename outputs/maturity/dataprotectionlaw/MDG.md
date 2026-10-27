@@ -12,6 +12,6 @@
 
 **Last twelve months.** The commission [approved its first procedures manual on 17 October 2025](<https://digital.gov.mg/wp-content/uploads/2025/12/manuel-procedures-cmil-03-dec-2025.pdf>), published on 3 December 2025. It [joined the AFAPDP on 24 November 2025 and obtained a budget line of Ariary 2,411,579,000 in the 2026 Finance Law](<https://drive.google.com/file/d/11XR_I-6z6Y28qnrEjHABu3SOIbjWy6yW/view>).
 
-***Noted, not assessed***. The African Union's [Malabo Convention, ratified by Madagascar in 2024](<https://drive.google.com/file/d/11XR_I-6z6Y28qnrEjHABu3SOIbjWy6yW/view>); [Loi n°2024-004 of 21 June 2024, authorising that ratification](<https://www.hcc.gov.mg/?p=9255>).
+***Also on file***. The African Union's [Malabo Convention, ratified by Madagascar in 2024](<https://drive.google.com/file/d/11XR_I-6z6Y28qnrEjHABu3SOIbjWy6yW/view>); [Loi n°2024-004 of 21 June 2024, authorising that ratification](<https://www.hcc.gov.mg/?p=9255>).
 
-***Not held***. No decision, sanction or count of cases under the law. The date the law came into force is not stated.
+***Not found***. No decision, sanction or count of cases under the law. The date the law came into force is not stated.

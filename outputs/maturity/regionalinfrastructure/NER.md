@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** A Moroccan telecommunications company's 5,700 km terrestrial cable from Morocco to Niger, through Mauritania, Mali and Burkina Faso, [is recorded as completed in 2022](<https://leseco.ma/business/maroc-telecom-plus-de-454-mmdh-investis-en-afrique.html>), and joins the company's subsidiary in landlocked Niger to international bandwidth. The link to Algeria [was declared operational at Assamaka on 6 October 2026](<https://mcnti.gouv.ne/souverainete-et-integration-numerique-lancement-de-lexploitation-de-la-liaison-transsaharienne-en-fibre-optique-niger-algerie-a-assamaka/>), after 30 September 2026.
 
-***Noted, not assessed***. [Datacenter Tiers 3 Niamey](<https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/>).
+***Also on file***. [Datacenter Tiers 3 Niamey](<https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/>).
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

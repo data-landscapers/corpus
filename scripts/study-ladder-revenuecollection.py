@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "revenuecollection"
 SUB = "revenue"
-GAPS = {'4': 'No source held since October 2023 gives a figure for revenue paid electronically.', '3': 'No source held since October 2023 says the main taxes and customs duties are filed and paid electronically.', '2': 'No source held since October 2023 says: can some taxes or fees be paid electronically.', '1': 'No source held since October 2023 says: is electronic payment of taxes or fees under way.', '5': ''}
-EMPTY = 'Nothing held says how taxes and fees are paid.'
-UNPLACED = 'Nothing held since October 2023 says whether taxes or fees can be paid electronically.'
+GAPS = {'4': 'No source found since October 2023 gives a figure for revenue paid electronically.', '3': 'No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.', '2': 'No source found since October 2023 says: can some taxes or fees be paid electronically.', '1': 'No source found since October 2023 says: is electronic payment of taxes or fees under way.', '5': ''}
+EMPTY = 'Nothing found says how taxes and fees are paid.'
+UNPLACED = 'Nothing found since October 2023 says whether taxes or fees can be paid electronically.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

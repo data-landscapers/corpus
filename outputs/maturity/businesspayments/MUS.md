@@ -8,6 +8,6 @@
 
 **Use reported.** [The Procurement Policy Office reports that in 2023/24 public bodies published 7,681 electronic invitations for bids, received 18,599 electronic bid submissions, and awarded 4,938 contracts above Rs 100,000 through the e-PS against 3,819 paper-based](<https://ppo.govmu.org/Documents/Annual%20Reports/Annual%20Report%202023-2024.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -12,6 +12,6 @@
 
 **Local governments recording.** One commune, [Mongo, began the census in April 2025 as the start of its digital tax system](<https://tchadvision.com/mongo-le-recensement-fiscal-se-modernise-pour-optimiser-la-gestion-des-contribuables-decouvrez-les-enjeux-cles-aujourdhui/>).
 
-***Noted, not assessed***. The [*adressage de N'Djaména*](<https://www.aimf.asso.fr/actions/ndjamena-mobilisation-des-recettes-et-modernisation-de-la-gestion-financiere/>), a street-addressing and enumeration exercise of the city with the AIMF and the European Union, 2013 to 2016; and [SIM_ba](<https://www.aimf.asso.fr/actions/ndjamena-mobilisation-des-recettes-et-modernisation-de-la-gestion-financiere/>), the AIMF's budget and accounting software.
+***Also on file***. The [*adressage de N'Djaména*](<https://www.aimf.asso.fr/actions/ndjamena-mobilisation-des-recettes-et-modernisation-de-la-gestion-financiere/>), a street-addressing and enumeration exercise of the city with the AIMF and the European Union, 2013 to 2016; and [SIM_ba](<https://www.aimf.asso.fr/actions/ndjamena-mobilisation-des-recettes-et-modernisation-de-la-gestion-financiere/>), the AIMF's budget and accounting software.
 
-***Not held***. Whether any commune records its payers or their payments in a system, and where such a record is held, is not established. No commune other than Mongo is named, and nothing is dated inside the last twelve months.
+***Not found***. Whether any commune records its payers or their payments in a system, and where such a record is held, is not established. No commune other than Mongo is named, and nothing is dated inside the last twelve months.

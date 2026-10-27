@@ -2,6 +2,6 @@
 
 ## Nationally owned data centres for hire
 
-***Noted, not assessed***. [Centre National de Données (planned under CCIS-AMINI MoU)](<https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/>).
+***Also on file***. [Centre National de Données (planned under CCIS-AMINI MoU)](<https://www.journaldebangui.com/rca-touadera-mise-sur-lia-et-les-donnees-pour-accelerer-la-transformation-numerique/>).
 
-***Not held***. Nothing held names a data centre for hire, or says there is none.
+***Not found***. Nothing found names a data centre for hire, or says there is none.

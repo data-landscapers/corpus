@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** [Hassan Allam committed USD 400 million in 2026 to a data-centre licence](<https://www.wearetech.africa/en/fils-uk/news/egypt-bets-on-data-centers-and-ai-to-drive-digital-economy-growth>), a private project.
 
-***Noted, not assessed***. [Ventures Platform Pan-African Fund II](<https://www.ebrd.com/home/news-and-events/news/2026/ebrd-backs-early-stage-african-technology-companies.html>), [Yomo digital bank](<https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/>) and [UMAMI's Learning Operating System](<https://techafricanews.com/2026/08/10/umami-launches-ai-powered-learning-operating-system-for-mena-institutions/>).
+***Also on file***. [Ventures Platform Pan-African Fund II](<https://www.ebrd.com/home/news-and-events/news/2026/ebrd-backs-early-stage-african-technology-companies.html>), [Yomo digital bank](<https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/>) and [UMAMI's Learning Operating System](<https://techafricanews.com/2026/08/10/umami-launches-ai-powered-learning-operating-system-for-mena-institutions/>).
 
-***Not held***. No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project, or a state fund that private investors have paid into.
+***Not found***. No source from 2024 on has a signed public-private partnership, concession or joint venture in which a private partner puts a named amount into a public digital project, or a state fund that private investors have paid into.

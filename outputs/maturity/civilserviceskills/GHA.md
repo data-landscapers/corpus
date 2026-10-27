@@ -6,8 +6,8 @@
 
 **Across government.** [Communication Minister Samuel Nartey George announced an initiative to train 200,000 civil servants in AI, digital governance and coding under the One Million Coders Programme](<https://ghanaiantimes.com.gh/embrace-digital-reforms-for-rapid-technological-advancement-communication-minister/>).
 
-**Share published.** No source held since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://ghanaiantimes.com.gh/embrace-digital-reforms-for-rapid-technological-advancement-communication-minister/>).
+**Share published.** No source found since October 2023 gives the share of the civil service trained in digital skills. The nearest held fact: [the one given above](<https://ghanaiantimes.com.gh/embrace-digital-reforms-for-rapid-technological-advancement-communication-minister/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 gives the share of the civil service trained in digital skills.
+***Not found***. No source found since October 2023 gives the share of the civil service trained in digital skills.

@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The [pilot with Telecom Namibia](<https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m>) is a test of the satellite on a working network, and the [memorandum with Mozambique](<https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m>) awaits its commercial agreement.
 
-***Noted, not assessed***. [WACS, SACS and MONET submarine cables](<https://www.connectingafrica.com/fiber-networking/angola-cables-uniti-partnership-to-benefit-african-enterprises>); [Paratus Angola DC3](<https://www.datacenterdynamics.com/en/news/paratus-group-to-build-third-angola-data-center/>).
+***Also on file***. [WACS, SACS and MONET submarine cables](<https://www.connectingafrica.com/fiber-networking/angola-cables-uniti-partnership-to-benefit-african-enterprises>); [Paratus Angola DC3](<https://www.datacenterdynamics.com/en/news/paratus-group-to-build-third-angola-data-center/>).
 
-***Not held***. No source held says building has started in the last three years.
+***Not found***. No source found says building has started in the last three years.

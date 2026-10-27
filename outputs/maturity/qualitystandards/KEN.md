@@ -6,6 +6,6 @@
 
 **Certification.** The [2026 release](<https://scienceforafrica.foundation/media-center/africa-raises-bar-global-grant-accountability-launch-revised-good-financial-grant>) lists certification among the bureau's services, and names no scheme for information technology or data.
 
-***Noted, not assessed***. [ARSO common certificate (One Standard, One Test, One Certificate)](<https://www.thecoast.co.ke/2026/08/28/kenya-to-permanently-host-arso-headquarters-backs-common-certificate/17/54/business-news/thecoast/18260/04/>); [Good Financial Grant Practice Standard (ARS 1651:2026)](<https://scienceforafrica.foundation/media-center/africa-raises-bar-global-grant-accountability-launch-revised-good-financial-grant>); [Government ICT Standards, Data Centre Standard ICTA.2.002:2019](<https://cms.icta.go.ke/sites/default/files/2022-05/Data%20Centre%20Standard.pdf>).
+***Also on file***. [ARSO common certificate (One Standard, One Test, One Certificate)](<https://www.thecoast.co.ke/2026/08/28/kenya-to-permanently-host-arso-headquarters-backs-common-certificate/17/54/business-news/thecoast/18260/04/>); [Good Financial Grant Practice Standard (ARS 1651:2026)](<https://scienceforafrica.foundation/media-center/africa-raises-bar-global-grant-accountability-launch-revised-good-financial-grant>); [Government ICT Standards, Data Centre Standard ICTA.2.002:2019](<https://cms.icta.go.ke/sites/default/files/2022-05/Data%20Centre%20Standard.pdf>).
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

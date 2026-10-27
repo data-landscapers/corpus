@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GMB-003;GMB-002",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
       "note": "Rebuild: the driver's licence system verifies applicants against the national ID (GMB-003). The eCRVS row describes a data link, so a service used by several bodies is not shown.",
       "as_at": "2026-10-22"
     }

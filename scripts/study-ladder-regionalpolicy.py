@@ -39,10 +39,10 @@ import study_lib  # noqa: E402
 STUDY = "regionalpolicy"
 GAPS = {
     "5": "Nothing on the four questions.",
-    "4": "No source held gives figures of use, a decision of a joint body, or a review of what "
+    "4": "No source found gives figures of use, a decision of a joint body, or a review of what "
          "an agreement has delivered, in the last three years.",
-    "3": "No source held says a thing the country agreed has been put into effect.",
-    "2": "No source held dates an agreement signed, a meeting hosted or chaired, or a seat won, "
+    "3": "No source found says a thing the country agreed has been put into effect.",
+    "2": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, "
          "in the last three years.",
     "1": "",
 }
@@ -87,7 +87,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
             if not any(e > d for e, x in live if x["value"] != "none")][:2]
     if not rows:
         return {"stage": "no evidence", "part": "", "effect": "", "sources": [],
-                "gaps": "Nothing held names the country's part in an African body that makes "
+                "gaps": "Nothing found names the country's part in an African body that makes "
                         "digital policy, or an agreement, or says it stands outside."}
     if none:
         s, src = "1", none

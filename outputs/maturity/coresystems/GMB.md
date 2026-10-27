@@ -6,12 +6,12 @@
 
 **Tax.** [The GRA Commissioner General said the current domestic tax administration system is largely manual and that the new ITAS, ahead of rollout, is to replace it](<https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/>).
 
-**Payroll.** No source held from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on [the source that sets it](<https://gambiana.com/agd-disputes-bensoudas-claim-over-ifmis-use-at-kmc/>).
+**Payroll.** No source found from 2023 or later says the civil-service payroll runs on a computer system; the stage rests on [the source that sets it](<https://gambiana.com/agd-disputes-bensoudas-claim-over-ifmis-use-at-kmc/>).
 
-**Renewal.** No source held says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://gambiana.com/agd-disputes-bensoudas-claim-over-ifmis-use-at-kmc/>).
+**Renewal.** No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023; the stage rests on [the source that sets it](<https://gambiana.com/agd-disputes-bensoudas-claim-over-ifmis-use-at-kmc/>).
 
 **A map of the systems.** [A validation and sign-off workshop supported by the ITU formally endorsed The Gambia's National Enterprise Architecture under GovStack](<https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative>).
 
-***Noted, not assessed***. [ITAS](<https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/>); [Integrated Tax Administration System (ITAS)](<https://thepoint.gm/africa/gambia/headlines/gra-signs-7-2m-with-arabsofttmi-consortium-to-boost-itas>).
+***Also on file***. [ITAS](<https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/>); [Integrated Tax Administration System (ITAS)](<https://thepoint.gm/africa/gambia/headlines/gra-signs-7-2m-with-arabsofttmi-consortium-to-boost-itas>).
 
-***Not held***. A source held says the tax system is run largely by hand.
+***Not found***. A source found says the tax system is run largely by hand.

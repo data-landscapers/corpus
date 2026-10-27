@@ -8,6 +8,6 @@
 
 **Paying digitally.** No survey held since October 2023 puts adults paying digitally at 79% or more. The nearest held fact: [the one given above](<https://www.ktpress.rw/2025/12/new-survey-reveals-consumer-digital-fraud-risks-in-rwanda/>).
 
-***Noted, not assessed***. [eKash](<https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash>).
+***Also on file***. [eKash](<https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash>).
 
-***Not held***. No survey held since October 2023 puts adults with an account at 79% or more.
+***Not found***. No survey held since October 2023 puts adults with an account at 79% or more.

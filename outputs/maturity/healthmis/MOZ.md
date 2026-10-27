@@ -6,8 +6,8 @@
 
 **Linked.** [MISAU's SISMA interoperability page says SIS-MA exchanges data with the medicines logistics platform Ferramenta Central (CMAM) and with the Ministry of Justice's SIRCEV death-certificate system](<https://sisma.misau.gov.mz/interoperability.html>).
 
-**Reporting rate published.** No source held since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://sisma.misau.gov.mz/interoperability.html>).
+**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://sisma.misau.gov.mz/interoperability.html>).
 
-***Noted, not assessed***. [Ferramenta Central](<https://sisma.misau.gov.mz/interoperability.html>); [SIRCEV](<https://sisma.misau.gov.mz/interoperability.html>).
+***Also on file***. [Ferramenta Central](<https://sisma.misau.gov.mz/interoperability.html>); [SIRCEV](<https://sisma.misau.gov.mz/interoperability.html>).
 
-***Not held***. No source held since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.

@@ -8,6 +8,6 @@
 
 **Volumes reported.** [L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at about 1.03% of the value of Niger's 480,220 million FCFA of e-money transactions in 2024](<https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/>).
 
-***Noted, not assessed***. [PI-SPI](<https://ns2.bceao.int/sites/default/files/2026-04/Communiqu%C3%A9_Connexion_%C3%A0_PI-SPI_2_avril_2026.pdf>); [WAEMU interoperable instant payment system (PI-SPI)](<https://www.theafricareport.com/359378/west-africa-five-questions-about-the-regions-new-interoperable-payment-system/>).
+***Also on file***. [PI-SPI](<https://ns2.bceao.int/sites/default/files/2026-04/Communiqu%C3%A9_Connexion_%C3%A0_PI-SPI_2_avril_2026.pdf>); [WAEMU interoperable instant payment system (PI-SPI)](<https://www.theafricareport.com/359378/west-africa-five-questions-about-the-regions-new-interoperable-payment-system/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

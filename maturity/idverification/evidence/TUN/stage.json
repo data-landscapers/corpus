@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-012;TUN-002",
-      "gaps": "No source held since October 2023 gives a figure for verifications or counts the services relying on the ID.",
+      "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on the ID.",
       "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
       "as_at": "2026-10-17"
     }

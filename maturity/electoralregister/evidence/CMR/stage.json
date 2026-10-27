@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "CMR-004;CMR-001",
-   "gaps": "No source held since October 2023 says voters could check the roll.",
+   "gaps": "No source found since October 2023 says voters could check the roll.",
    "note": "First pass: counted from the four questions by study-ladder-electoralregister.py."
   }
  ]

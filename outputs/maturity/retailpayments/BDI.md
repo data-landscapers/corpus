@@ -8,6 +8,6 @@
 
 **National switch.** [BurundiPay is described as the national instant payment system run by the BRB, live since 5 March 2026 and launched publicly on 23 April 2026](<https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/>). [BurundiPay is described as the national instant payment system connecting commercial banks, microfinance institutions and payment service providers in a single network, also reachable by USSD](<https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-003",
-      "gaps": "No source held since October 2023 says government payments are checked against the ID or a social registry.",
+      "gaps": "No source found since October 2023 says government payments are checked against the ID or a social registry.",
       "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py.",
       "as_at": "2026-10-18"
     }

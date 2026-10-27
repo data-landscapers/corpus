@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SWZ-001;SWZ-002",
-      "gaps": "No source held since October 2023 says a government satellite-based farming service is in use. The DroughtMap Hub handbook describes a platform being built.",
+      "gaps": "No source found since October 2023 says a government satellite-based farming service is in use. The DroughtMap Hub handbook describes a platform being built.",
       "note": "Rebuild 2026-10-20: the only source for a service in use is a design handbook, which shows the DroughtMap Hub built or being built, not running; the 2021 pilots predate the window.",
       "as_at": "2026-10-20"
     }

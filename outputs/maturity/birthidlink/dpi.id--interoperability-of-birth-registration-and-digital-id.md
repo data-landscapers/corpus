@@ -53,7 +53,7 @@ Births feed the ID card and registered deaths deregister the citizen, both said 
 
 ### Tunisia: 4 Operating
 
-Tunisia's citizen number is assigned from civil birth records and updated with deaths in 2026; how many records are exchanged is not known.
+Tunisia's citizen number is assigned from civil birth records and updated with deaths in 2026; no source found says how many records are exchanged.
 
 - The playbook shows the citizen identifier register initialised and updated from the national civil status system Madania by API, and holding birth-act and death-act references, the date and place of death and civil status ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - The law requires administrative services to inform the national security directorate of a cardholder's death within thirty days, whereupon the card chip is deactivated, and requires civil-status changes to be notified for the card within 90 days of entry in the civil register ([source, 2024-03-11](https://legislation-securite.tn/latest-laws/loi-organique-n-2024-22-du-11-mars-2024-modifiant-et-completant-la-loi-n-93-27-du-22-mars-1993-relative-a-la-carte-nationale-didentite/)).
@@ -107,7 +107,7 @@ The civil register and the ID system were linked one way or for one event in 202
 
 ### Egypt: 3 Established
 
-The births and deaths database shared a platform with identity management in 2026; whether deaths retire ID numbers is not known.
+The births and deaths database shared a platform with identity management in 2026; no source found says whether deaths retire ID numbers.
 
 - Egypt's CRVS presentation says a central births and deaths database operates as an interoperable platform that includes identity management ([source, 2026](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-egypt_crvs_transformation_journey.pdf)).
 
@@ -176,7 +176,7 @@ The civil register and the ID system were linked one way or for one event in 202
 
 ### Seychelles: 3 Established
 
-One division held the civil register and issued ID cards in 2026; whether records pass between them by event is not known.
+One division held the civil register and issued ID cards in 2026; no source found says whether records pass between them by event.
 
 - The Civil Status Division registers births, deaths and marriages, has custody of the National Population Database, and issues Identity Cards to all residents ([source, 2026](https://www.ics.gov.sc/about/department/civil-status-division)).
 
@@ -240,7 +240,7 @@ A link between the civil register and the ID system was under way in 2025.
 
 ### Chad: 2 Nascent
 
-One hospital desk issued ID numbers at birth registration in 2026; whether records pass beyond it is not known.
+One hospital desk issued ID numbers at birth registration in 2026; no source found says whether records pass beyond it.
 
 - The N'Djamena civil registry digitization MoU with ANATS plans to connect municipal civil-registration systems with the national identification system (SIGPTS), reported by We are Tech ([source, 2026-09-23](https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive)).
 - The ANATS director general says household enrolment teams in a six-month, twelve-province birth registration operation will collect data to be integrated into the national biometric register ([source, 2026-07-24](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/)).
@@ -287,14 +287,14 @@ A link between the civil register and the ID system was under way in 2026.
 
 ### Madagascar: 2 Nascent
 
-A 2026 law tied birth registration to ID enrolment; whether records pass between the two systems is not known.
+A 2026 law tied birth registration to ID enrolment; no source found says whether records pass between the two systems.
 
 - A law adopted on 28 May 2026 authorises mass birth registration within the national biometric enrolment operation, so that adults enrolled can obtain a birth certificate without a court procedure, says the World Bank ([source, 2026-05-28](https://www.banquemondiale.org/fr/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar)).
 - Madagascar's Digital Governance Unit ensures interoperability between the Justice Department, the Civil Registry and other public services for the new Unique Identifier Number (NUI) programme, as TechAfrica News reports ([source, 2026-01-27](https://techafricanews.com/2026/01/30/national-biometric-enrolment-begins-paving-way-for-digital-inclusion-in-madagascar/)).
 
 ### Mozambique: 2 Nascent
 
-ID cards were issued from birth registration data in one district campaign in 2025; whether records pass nationwide is not known.
+ID cards were issued from birth registration data in one district campaign in 2025; no source found says whether records pass nationwide.
 
 - Jornal Notícias reports that people registered in the Nacala birth campaign can have the Bilhete de Identidade issued on the spot from the electronic data the registrar captured, through interoperability of the two services ([source, 2025-03-28](https://jornalnoticias.co.mz/destaque/mocambique-reforca-sua-estrategia-de-expansao-do-registo-civil/)).
 
@@ -345,36 +345,36 @@ A link between the civil register and the ID system was under way in 2026.
 
 ### Libya: Unplaced
 
-Nothing held shows records passing between the civil register and the ID system; a 2025 audit comparing the two deleted 17,000 false ID numbers.
+Nothing found shows records passing between the civil register and the ID system; a 2025 audit comparing the two deleted 17,000 false ID numbers.
 
-Not established: Nothing held says records pass between the civil register and the ID system, or that a link is under way; the one figure held comes from an audit, which is not their exchange.
+Not established: Nothing found says records pass between the civil register and the ID system, or that a link is under way; the one figure held comes from an audit, which is not their exchange.
 
 ### Burkina Faso: No evidence
 
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
+Nothing found names a link between the civil register and the ID system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the civil register and the ID system are linked.
+Not established: Nothing found says whether the civil register and the ID system are linked.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
+Nothing found names a link between the civil register and the ID system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the civil register and the ID system are linked.
+Not established: Nothing found says whether the civil register and the ID system are linked.
 
 ### Eritrea: No evidence
 
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
+Nothing found names a link between the civil register and the ID system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the civil register and the ID system are linked.
+Not established: Nothing found says whether the civil register and the ID system are linked.
 
 ### Morocco: No evidence
 
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
+Nothing found names a link between the civil register and the ID system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the civil register and the ID system are linked.
+Not established: Nothing found says whether the civil register and the ID system are linked.
 
 ### Namibia: No evidence
 
-Nothing held names a link between the civil register and the ID system or says there is none, so no stage is set.
+Nothing found names a link between the civil register and the ID system or says there is none, so no stage is set.
 
-Not established: Nothing held says whether the civil register and the ID system are linked.
+Not established: Nothing found says whether the civil register and the ID system are linked.

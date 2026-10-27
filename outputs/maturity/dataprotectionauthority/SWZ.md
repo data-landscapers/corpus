@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** The authority's own [enforcement page](<https://www.edpa.org.sz/enforcement.html>) lists enforcement notices under section 41 of the Act, issued in June 2024 to MTN Eswatini and to Liberty Life Swaziland Limited, and in March 2025 to the Royal Science Technology Park. [Notice No. 3/2024](<https://edpa.org.sz/assets/documents/EDPA%20NOTICE%203%202024%20-%20ENFORCEMENT%20NOTICE-MTN%20ESWATINI%20Final%20(002).pdf>) found MTN Eswatini in breach and gave it a warning with eleven directed measures. The [registration regime for organisations](<https://independentnews.co.sz/40549/science-technology/eswatini-launches-data-protection-campaign/>) was in place by February 2026.
 
-***Noted, not assessed***. The [Data Protection Act, 2022 (No. 5 of 2022)](<https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/>).
+***Also on file***. The [Data Protection Act, 2022 (No. 5 of 2022)](<https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/>).
 
-***Not held***. No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.
+***Not found***. No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.

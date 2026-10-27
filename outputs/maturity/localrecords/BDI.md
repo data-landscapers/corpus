@@ -12,6 +12,6 @@
 
 **Local governments recording.** The Interior ministry's third-quarter execution report for 2025/26 [lists 30 communes digitalised in communal revenue](<https://finances.gov.bi/wp-content/uploads/2026/07/CANEVAS-RAPPORT_MIDCSP_2025-2026_T3.xlsx>). A UNDP mission of June 2025 [reported the E-Taxe system operational in communes such as Kayanza](<https://www.undp.org/fr/burundi/actualites/le-pnud-et-le-gouvernement-evaluent-conjointement-les-interventions-sur-terrain>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No register of payers is described in any system, and where the electronic record is held is not stated. The 30 communes carry no total, so no share of communes is given.
+***Not found***. No register of payers is described in any system, and where the electronic record is held is not stated. The 30 communes carry no total, so no share of communes is given.

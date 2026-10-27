@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** The 2025 guarantee went to [Orange Bissau S.A.](<https://www.miga.org/project/orange-guinea-and-guinea-bissau>), a telecoms operator, which is a company and not a state project; MIGA's cover for it is active and started in 2025.
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Only one amount is held from 2024 on, so whether private money came in more than one year is not known.
+***Not found***. Only one amount is held from 2024 on, so no source found says whether private money came in more than one year.

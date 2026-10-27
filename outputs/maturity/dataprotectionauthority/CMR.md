@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** The nearest held fact is what the same [law of 23 December 2024](<https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web>) gives the Autorité to do: supervision, notification and enforcement functions. These are powers written into the text of the law, which carries the date 23 December 2024, and they describe what the body may do under that law, in 2024 terms, as stated by the Presidency.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the authority's head or members have been appointed, and no ruling or published figures are held.
+***Not found***. No source found says the authority's head or members have been appointed, and no ruling or published figures have been found.

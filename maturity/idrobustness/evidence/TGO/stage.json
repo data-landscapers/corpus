@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-012;TGO-011",
-      "gaps": "No source held since October 2023 reports a certification, audit or assurance level for the system.",
-      "note": "Reassessed on arrival: the 2026 e-ID Togo deck says cards are printed only after biometric deduplication, which reaches stage 4. No certification, audit or assurance level is held for stage 5.",
+      "gaps": "No source found since October 2023 reports a certification, audit or assurance level for the system.",
+      "note": "Reassessed on arrival: the 2026 e-ID Togo deck says cards are printed only after biometric deduplication, which reaches stage 4. No certification, audit or assurance level has been found for stage 5.",
       "as_at": "2026-10-23"
     }
   ]

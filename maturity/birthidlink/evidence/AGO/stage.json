@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-001;AGO-005",
-      "gaps": "No source held since October 2023 gives a figure for records exchanged, numbers retired on death or records reconciled.",
-      "note": "The ID card is issued from birth-record data through linked systems (2026), and a registered death is sent to the database to deregister the citizen against the deceased's BI (2026). No figure for records exchanged is held.",
+      "gaps": "No source found since October 2023 gives a figure for records exchanged, numbers retired on death or records reconciled.",
+      "note": "The ID card is issued from birth-record data through linked systems (2026), and a registered death is sent to the database to deregister the citizen against the deceased's BI (2026). No figure for records exchanged has been found.",
       "as_at": "2026-10-23"
     }
   ]

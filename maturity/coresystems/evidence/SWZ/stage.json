@@ -12,8 +12,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SWZ-004",
-      "gaps": "No source held from 2023 or later says both the tax system and the payroll are in use.",
-      "note": "IFMIS was restored on 23 October 2026 after the September outage, so the government again budgets and pays through a computer system: stage 2. Nothing held on tax or payroll, so not 3.",
+      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
+      "note": "IFMIS was restored on 23 October 2026 after the September outage, so the government again budgets and pays through a computer system: stage 2. Nothing found on tax or payroll, so not 3.",
       "as_at": "2026-10-26"
     }
   ]

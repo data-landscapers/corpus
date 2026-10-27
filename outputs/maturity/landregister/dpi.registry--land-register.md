@@ -58,146 +58,146 @@ Land searches or registrations could be made online in 2025.
 
 ### Angola: 4 Operating
 
-A digital land register covered the whole country in 2024; online services are not known.
+A digital land register covered the whole country in 2024; no source found reports online services.
 
 - Esri says GEODATA implemented the property registration system in all 22 registry offices in all 18 provinces of Angola ([source, 2024](https://www.esri.com/en-us/lg/industry/government/stories/angola-modernizes-land-administration-gis-cadastre-management)).
 
 ### Benin: 3 Established
 
-A digital land register was in service for part of the country in 2026; national coverage is not known.
+A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - Matin Libre reports Parakou has full cadastral coverage with 196,474 parcels registered in the national cadastre on the e-Foncier Bénin platform, with over 11,500 registration certificates (CEC) distributed by 1 September 2026 ([source, 2026-09-01](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/)).
 - La Nation reports over 53,000 parcels registered across Porto-Novo in the e-Foncier Bénin digital cadastral database, with Cadastre registration certificates being distributed and 8,777 updates integrated ([source, 2026-04-20](https://lanation.bj/actualites/mise-en-place-du-cadastre-national-plus-de-53-000-parcelles-deja-enregistrees-a-porto-novo-les-pays-bas-satisfaits-des-resultats-obtenus)).
 
 ### Burkina Faso: 3 Established
 
-A digital land register was in service for part of the country in 2026; national coverage is not known.
+A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - ANSSI's director general says FasoSign is operational on SYC@D, the system managing the cadastre, state domain and land, for issuing signed provisional cession orders ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
 - Sidwaya reports the Direction générale des impôts officially launched SYC@D, a cloud platform integrating cadastre, domain and land processes, on 21 March 2025 in Ouagadougou, accessible at sif.bf ([source, 2025-03-21](https://www.sidwaya.info/foncier-au-burkina-sycd-pour-une-meilleure-gestion-des-terres/)).
 
 ### Burundi: 3 Established
 
-A digital land register was in service for part of the country in 2025; national coverage is not known.
+A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - We Are Tech Africa reports the land directorate DTFCN runs a Building Permit System for initial titles and a Property Management System for transfers, corrections and mortgages, joined by an EDRMS launched 17 June 2025 ([source, 2025-06-17](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-s-land-services-go-digital-with-new-integrated-platform)).
 - The article says the DTFCN uses a Property Management System that handles updates to existing titles (transfers, corrections, mortgages) and a Building Permit System that handles issuing first titles, both interconnected with the new EDRMS ([source, 2025-06-17](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-mediabox-deploie-un-systeme-interconnecte-pour-les-services-fonciers)).
 
 ### Chad: 3 Established
 
-A digital land register was in service for part of the country in 2023; national coverage is not known.
+A digital land register was in service for part of the country in 2023; no source found reports national coverage.
 
 - ATPE reports the Direction générale des Domaines put E-Conservation (SIDCF) into production on 2 October 2023, with the first 5,000 secured land deeds distributed and a database for managing land files ([source, 2023-10-02](https://atpe.td/actes-fonciers-la-conservation-electronique-est-lancee/)).
 
 ### Cote d'Ivoire: 3 Established
 
-A digital land register was in service for part of the country in 2023; national coverage is not known.
+A digital land register was in service for part of the country in 2023; no source found reports national coverage.
 
 - The finance ministry says the Livre Foncier Electronique (LIFE) is an application letting notaries consult land titles online ([source, 2023-11-02](https://finances.gouv.ci/gouvernance-et-reformes/fiscalite-interieure)).
 
 ### Egypt: 3 Established
 
-A digital land register was in service for part of the country in 2025; national coverage is not known.
+A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - Ahram Online reports the Real Estate Registration and Notarization Authority's New Alamein office, linked by a G2G digital hub to the New Urban Communities Authority, lets all text, digital, spatial and licensing data on land and units in the new communities be retrieved under Law 177 of 2022 ([source, 2025-01-01](https://english.ahram.org.eg/NewsContentMulti/549747/Multimedia.aspx)).
 
 ### Eswatini: 3 Established
 
-A digital land register was in service for part of the country in 2026; national coverage is not known.
+A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - The Ministry's Deeds Registry page says that since 1995 the Registry has done away with manual land, debts and miscellaneous contract registers because the information is computerised and retrievable within seconds, with registers updated daily ([source, 2026-08-29](https://gov.sz/index.php/departments-sp-623334762/deeds)).
 
 ### Ghana: 3 Established
 
-A digital land register was in service for part of the country in 2026; national coverage is not known.
+A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - The article says ELIS remains the backbone of the Lands Commission's online services, with manual processes coexisting, and progress is anchored largely in Accra ([source, 2026-06-08](https://labarijournal.com/ghana-has-spent-years-trying-to-digitise-its-land-registry-system-progress-is-still-underwhelming/)).
 - A digital Client Service Access Unit inaugurated at the Volta Regional Lands Commission office in Ho enabled the deployment of ELIS in the Volta Region ([source, 2026-06-03](https://www.graphic.com.gh/news/general-news/digital-client-service-access-unit-inaugurated-at-volta-regional-office-of-lands-commission.html)).
 
 ### Kenya: 3 Established
 
-A digital land register was in service for part of the country in 2026; national coverage is not known.
+A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - Kenyans.co.ke reports ArdhiSasa is the government's digital platform for land information and land services, with an outage announced on 2026-09-21 affecting land searches, transfers, title and lease registration and other transactions ([source, 2026-09-21](https://www.kenyans.co.ke/news/127225-ardhisasa-goes-down-again-users-warned-disrupted-land-services)).
 - The Law Society of Kenya says Ardhisasa has become a central platform for delivery of land administration services in Kenya, with essential land services migrated to it ([source, 2026-09-02](https://eastleighvoice.co.ke/news/396368/lsk-demands-urgent-restoration-of-ardhisasa-platform-amid-land-transaction-delays)).
 
 ### Madagascar: 3 Established
 
-A digital land register was in service for part of the country in 2025; national coverage is not known.
+A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - PRODUIR reports that after dematerialising legal-status certificates and topographic plans for Antananarivo, an automatic information kiosk entered public service on 7 July 2025 at the Tana-ville land office, issuing registration and legal-status certificates and individual plans ([source, 2025-07-07](https://www.produir-madagascar.mg/lancement-du-distributeur-automatique-dinformation-au-sein-de-la-circonscription-fonciere-de-tana-ville-et-remise-de-materiel-pour-lapipa/)).
 
 ### Malawi: 3 Established
 
-A digital land register was in service for part of the country in 2024; national coverage is not known.
+A digital land register was in service for part of the country in 2024; no source found reports national coverage.
 
 - Malawi launched LIMS in February 2024, a web-based system linking Lands, Surveys and Physical Planning where registered users can view land parcels and assets ([source, 2024-02](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m)).
 
 ### Mauritania: 3 Established
 
-A digital land register was in service for part of the country in 2026; national coverage is not known.
+A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - The land directorate said citizens can now access their secured land documents, starting in Nouakchott and then regional capitals ([source, 2026-01-23](https://www.ami.mr/archives/250018)).
 - The Administration Générale des Domaines says it registers all contracts digitally on the Lagoud platform for real estate documents, with final copies delivered by e-mail or WhatsApp ([source, 2024-04-25](https://fr.madar.mr/actualites/mauritanie-procedures-pour-faciliter-lenregistrement-des-contrats-a-travers-une-plateforme-numerique/)).
 
 ### Mozambique: 3 Established
 
-A digital land register was in service for part of the country in 2024; national coverage is not known.
+A digital land register was in service for part of the country in 2024; no source found reports national coverage.
 
 - The World Bank IEG review says the land information system SIGIT was upgraded, operational and available when the project closed, and that 1,283,171 DUATs were recorded in it ([source, 2024-03-29](https://documents1.worldbank.org/curated/en/099041025095533783/txt/P164551-e911de3f-ad72-4e08-b0e6-7bbb6c628183.txt)).
 
 ### Namibia: 3 Established
 
-A digital land register was in service for part of the country in 2024; national coverage is not known.
+A digital land register was in service for part of the country in 2024; no source found reports national coverage.
 
 - The presentation says NCLAS 1 was rolled out to all Communal Land Boards in 2008 and web-based, server-based NCLAS 2 was introduced in 2014 by the ministry, to register customary and leasehold rights in communal areas ([source, 2024-05-20](https://www.fig.net/resources/proceedings/fig_proceedings/fig2024/ppt/ts02g/TS02G_mazambani_12660_ppt.pdf)).
 
 ### Rwanda: 3 Established
 
-A digital land register was in service for part of the country in 2026; national coverage is not known.
+A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - The National Land Authority presentation lists the establishment of a National Registry system (LAIS) with a spatial database, with more than 14 systems connected to LAIS ([source, 2026-01-28](https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf)).
 
 ### Senegal: 3 Established
 
-A digital land register was in service for part of the country in 2025; national coverage is not known.
+A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - The World Bank reports 351,899 occupancy titles with NICAD recorded in the Land Information System at 21 November 2025, and zero municipal land bureaux yet equipped and operational with LIS access ([source, 2025-11-21](https://documents1.worldbank.org/curated/en/099122125122530674/pdf/P172422-ab8683a5-9e88-4886-8cab-aa59ce4e604d.pdf)).
 
 ### South Africa: 3 Established
 
-A digital land register was in service for part of the country in 2025; national coverage is not known.
+A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - The Minister's reply says 16,911,328 deeds documents have been digitised and made publicly accessible through the eDRS Information Provisioning Module, live since 1 April 2025, and all deeds registered after 2014 are in electronic format ([source, 2025-11-26](https://pmg.org.za/committee-question/34341/)).
 
 ### Tanzania: 3 Established
 
-A digital land register was in service for part of the country in 2026; national coverage is not known.
+A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - The Ministry of Lands' e-Ardhi system, covering planning, surveying, allocation, registration and valuation, is already in use in Dodoma, Arusha, Tanga, Mbeya and Mwanza regions and several municipal and district councils, per TanzaniaInvest ([source, 2026-09-20](https://www.tanzaniainvest.com/construction/e-ardhi-digital-land-system)).
 
 ### Togo: 3 Established
 
-A digital land register was in service for part of the country in 2024; national coverage is not known.
+A digital land register was in service for part of the country in 2024; no source found reports national coverage.
 
 - Togo Officiel says land title procedures are fully dematerialised, with all cadastre procedures done remotely via an online portal ([source, 2024-09](https://www.republiquetogolaise.tg/tic/1609-9722-services-publics-zoom-sur-les-reformes-initiees-pour-accelerer-la-digitalisation)).
 
 ### Uganda: 3 Established
 
-A digital land register was in service for part of the country in 2025; national coverage is not known.
+A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - The Minister of Lands, Housing and Urban Development, Judith Nabakooba, described the Uganda National Land Information System (UGNLIS) as a public portal where citizens can check land status, confirm ownership and track transactions ([source, 2025-08-29](https://media.gcic.go.ug/landowners-to-receive-freehold-titles-in-government-initiative/)).
 
 ### Zambia: 3 Established
 
-A digital land register was in service for part of the country in 2024; national coverage is not known.
+A digital land register was in service for part of the country in 2024; no source found reports national coverage.
 
 - SMART Zambia Institute says the Zambia Integrated Land Administration System (ZILAS) is deployed and 100% digital, handling land administration in Zambia ([source, 2024-09-13](https://www.szi.gov.zm/?p=3792)).
 - A Ministry of Lands ICT officer says ZILAS, deployed by the SMART Zambia Institute and hosted on the Government Service Bus, is in use and issuance of title deeds is now digitally processed ([source, 2024-09-13](https://www.szi.gov.zm/?p=3769)).
 
 ### Zimbabwe: 3 Established
 
-A digital land register was in service for part of the country in 2025; national coverage is not known.
+A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - Zimbabwe launched the Digital Land Administration Platform for electronic processing of title deeds, per a Government Gazette notice announced by Justice Minister Ziyambi Ziyambi ([source, 2025-05-30](https://newziana.co.zw/zimbabwe-launches-digital-platform-to-modernize-title-deed-processing/)).
 
@@ -296,78 +296,78 @@ Digital land registration was under way in 2026; none in service is on record.
 
 ### Eritrea: Unplaced
 
-Nothing held since 2023 names a digital land register, so no stage is set.
+Nothing found since 2023 names a digital land register, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land rights are registered digitally.
+Not established: Nothing found since October 2023 says whether land rights are registered digitally.
 
 ### Lesotho: Unplaced
 
-Nothing held since 2023 names a digital land register, so no stage is set.
+Nothing found since 2023 names a digital land register, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land rights are registered digitally.
+Not established: Nothing found since October 2023 says whether land rights are registered digitally.
 
 ### Sao Tome and Principe: Unplaced
 
-Nothing held since 2023 names a digital land register, so no stage is set.
+Nothing found since 2023 names a digital land register, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether land rights are registered digitally.
+Not established: Nothing found since October 2023 says whether land rights are registered digitally.
 
 ### Comoros: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Congo: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Djibouti: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Mali: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Mauritius: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Seychelles: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Somalia: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.
 
 ### Sudan: No evidence
 
-Nothing held names a digital land register or says there is none, so no stage is set.
+Nothing found names a digital land register or says there is none, so no stage is set.
 
-Not established: Nothing held says how land rights are recorded.
+Not established: Nothing found says how land rights are recorded.

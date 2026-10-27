@@ -6,8 +6,8 @@
 
 **Electronic payment.** [The minister said the e-Hetra system for declaring and paying taxes online has been extended nationwide](<https://kaori-media.com/posts/interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-finance-of-madagascar>).
 
-**Mostly online.** No source held since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://kaori-media.com/posts/interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-finance-of-madagascar>).
+**Mostly online.** No source found since October 2023 says online filing is mandatory or used for half or more of returns. The nearest held fact: [the one given above](<https://kaori-media.com/posts/interview-with-hon-rindra-rabarinirinarison-minister-of-economy-and-finance-of-madagascar>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.

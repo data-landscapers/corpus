@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-003;SLE-002",
-      "gaps": "No source held since October 2023 shows three or more main public registers using the national ID number.",
+      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
       "note": "The NIN is linked to government payroll (2024). The electoral roll and farmer registry links are still planned (2025, 2026).",
       "as_at": "2026-10-23"
     }

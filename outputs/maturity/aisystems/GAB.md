@@ -2,6 +2,6 @@
 
 ## AI built at home
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether AI is built or hosted in the country.
+***Not found***. Nothing found says whether AI is built or hosted in the country.

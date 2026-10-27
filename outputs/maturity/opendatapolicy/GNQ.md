@@ -2,6 +2,6 @@
 
 ## Open data policy
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names an open data policy, or says there is none.
+***Not found***. Nothing found names an open data policy, or says there is none.

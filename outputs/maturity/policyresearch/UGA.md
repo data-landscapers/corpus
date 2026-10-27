@@ -6,8 +6,8 @@
 
 **Feeding policy.** [CIPESA submitted recommendations to the national taskforce developing Uganda's AI and Emerging Technologies Strategy, in response to the Ministry of ICT and National Guidance process](<https://cipesa.org/2026/05/cipesa-urges-rights-centred-approach-to-ugandas-ai-strategy/>).
 
-**Standing role.** No source held since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [the one given above](<https://cipesa.org/2026/05/cipesa-urges-rights-centred-approach-to-ugandas-ai-strategy/>).
+**Standing role.** No source found since October 2023 says a local research institution holds a standing advisory role in digital policy. The nearest held fact: [the one given above](<https://cipesa.org/2026/05/cipesa-urges-rights-centred-approach-to-ugandas-ai-strategy/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a local research institution holds a standing advisory role in digital policy.
+***Not found***. No source found since October 2023 says a local research institution holds a standing advisory role in digital policy.

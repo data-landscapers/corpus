@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** The government of Liberia brought OeSD International into the national ID and civil registration upgrade through [a signed public-private partnership described as about US$54 million](<https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade>), reported in September 2026 and still needing parliamentary approval.
 
-***Noted, not assessed***. [National ID and civil registration system (OeSD concession)](<https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade>), [National Switch](<https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html>).
+***Also on file***. [National ID and civil registration system (OeSD concession)](<https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade>), [National Switch](<https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html>).
 
-***Not held***. No source from 2024 on names an amount put in by a bank, pension fund, insurer, investor or company of Liberia itself, or raised on the country's own market.
+***Not found***. No source from 2024 on names an amount put in by a bank, pension fund, insurer, investor or company of Liberia itself, or raised on the country's own market.

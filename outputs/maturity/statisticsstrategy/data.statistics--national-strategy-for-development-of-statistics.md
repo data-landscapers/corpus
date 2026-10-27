@@ -323,7 +323,7 @@ A national statistics strategy was being prepared in 2026; none adopted is known
 
 ### South Sudan: 2 Nascent
 
-A second national statistics strategy was being drafted in 2025, after the last one ran out; its adoption is not known.
+A second national statistics strategy was being drafted in 2025, after the last one ran out; no source found reports its adoption.
 
 - The Director General of South Sudan's National Bureau of Statistics says the second National Strategy for the Development of Statistics (NSDS II) is being developed, covering the Bureau and other producers of official statistics ([source, 2025-09-03](https://www.uneca.org/eca-events/sites/default/files/resources/documents/acs/capacity-building-workshop-data-ethics-governance-quality/presentations/2025_da.14_session_3a_south_sudan_coordinating_national_systems.pdf)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): Master Plan for Statistics Development in Southern Sudan 2021-2025 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
@@ -336,48 +336,48 @@ A national statistics strategy was being prepared in 2026; none adopted is known
 
 ### Benin: Unplaced
 
-No source held shows a current statistics strategy or one in preparation, so no stage is set.
+No source found shows a current statistics strategy or one in preparation, so no stage is set.
 
 Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
 
 ### Guinea-Bissau: Unplaced
 
-No source held shows a current statistics strategy or one in preparation, so no stage is set.
+No source found shows a current statistics strategy or one in preparation, so no stage is set.
 
 Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
 
 ### Libya: Unplaced
 
-No source held shows a current statistics strategy or one in preparation, so no stage is set.
+No source found shows a current statistics strategy or one in preparation, so no stage is set.
 
 Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
 
 ### Mauritius: Unplaced
 
-No source held shows a current statistics strategy or one in preparation, so no stage is set.
+No source found shows a current statistics strategy or one in preparation, so no stage is set.
 
 Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
 
 ### Sudan: Unplaced
 
-No source held shows a current statistics strategy or one in preparation, so no stage is set.
+No source found shows a current statistics strategy or one in preparation, so no stage is set.
 
 Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
 
 ### Togo: Unplaced
 
-No source held shows a current statistics strategy or one in preparation, so no stage is set.
+No source found shows a current statistics strategy or one in preparation, so no stage is set.
 
 Not established: No strategy current or in preparation is on record, and no source dated in the last three years says the country has none.
 
 ### DR Congo: No evidence
 
-Nothing held says whether the country has a national statistics strategy, so no stage is set.
+Nothing found says whether the country has a national statistics strategy, so no stage is set.
 
-Not established: Nothing held names a national statistics strategy, or says there is none.
+Not established: Nothing found names a national statistics strategy, or says there is none.
 
 ### Morocco: No evidence
 
-Nothing held says whether the country has a national statistics strategy, so no stage is set.
+Nothing found says whether the country has a national statistics strategy, so no stage is set.
 
-Not established: Nothing held names a national statistics strategy, or says there is none.
+Not established: Nothing found names a national statistics strategy, or says there is none.

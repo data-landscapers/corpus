@@ -8,6 +8,6 @@
 
 **Linked.** [Aggregate and individual EMIS data are connected to national identity](<https://education.dhis2.org/implementation/eswatini/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

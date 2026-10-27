@@ -78,11 +78,13 @@ check("apparatus words fail", "words" in fails(LINKED + " No strategy is held.")
 check("not held fails", "words" in fails(LINKED + " The plan is Not held here."), True)
 check("found passes", "words" in fails(LINKED + " No strategy has been found."), False)
 check("an election held passes", "words" in fails(LINKED + " Elections were held in May."), False)
+check("where data is held passes",
+      "words" in fails(LINKED + " No rule says where state data is held."), False)
 check("a mood word fails", "mood" in fails(LINKED + " The regulator plainly cannot act."), True)
 check("a quoted mood word stands",
       "mood" in fails(LINKED + ' The minister said it was "finally done".'), False)
-check("maturity words report but do not gate",
-      lp.gating("maturity", ["words", "mean"]), [] if lp.R136_LANDED else ["mean"])
+check("maturity words gate since R136",
+      lp.gating("maturity", ["words", "mean"]), ["words", "mean"])
 check("the wiki never gates", lp.gating("wiki", ["mean", "long", "words"]), [])
 
 # --- blocks ----------------------------------------------------------------------------------

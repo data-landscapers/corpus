@@ -2,7 +2,7 @@
   "iso3": "ERI",
   "cells": [
     {"sub_indicator": "general", "stage": "1", "authority": "none", "standing": "none", "regulations": "", "application": "none",
-     "last12": "no-change", "cap": "", "flags": "", "stage_sources": "ERI-001;ERI-005", "gaps": "No regulations row is held; with no law there are none to issue. No bill or draft is on record, and ERI-007 (2022) is older than the two newer absence statements.",
+     "last12": "no-change", "cap": "", "flags": "", "stage_sources": "ERI-001;ERI-005", "gaps": "No regulations row has been found; with no law there are none to issue. No bill or draft is on record, and ERI-007 (2022) is older than the two newer absence statements.",
      "note": "Law Lab Africa (1 August 2026) and the Horn of Africa Initiative update (June 2025) state there is no data protection law, and no bill or draft is on record, so stage 1 is reached. Nothing is enacted or in preparation, so stage 2 is not met."}
   ]
 }

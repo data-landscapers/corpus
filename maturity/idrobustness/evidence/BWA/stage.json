@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "BWA-008;BWA-001",
-   "gaps": "No source held since October 2023 says the system checks people by biometrics.",
+   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
    "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
   }
  ]

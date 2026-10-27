@@ -12,6 +12,6 @@
 
 **Last twelve months.** [On 28 January 2026 Data Protection Africa recorded the authority as not yet appointed](<https://dataprotection.africa/central-african-republic>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No regulation made under the law, and no decision, sanction or count of decisions, is held. The date the law came into force and any appointment to the agency are not held.
+***Not found***. No regulation made under the law, and no decision, sanction or count of decisions, has been found. The date the law came into force and any appointment to the agency are not held.

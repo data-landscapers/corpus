@@ -6,8 +6,8 @@
 
 **Biometric checks.** [Minister Schreiber said HANIS and ABIS support the integrity of the National Population Register through biometric verification and the detection of duplicate, fraudulent, cancelled, blocked or otherwise invalid identity records](<https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/>).
 
-***Noted, not assessed***. [National Population Register](<https://www.sanews.gov.za/south-africa/schreiber-welcomes-approval-revised-white-paper-citizenship>).
+***Also on file***. [National Population Register](<https://www.sanews.gov.za/south-africa/schreiber-welcomes-approval-revised-white-paper-citizenship>).
 
-***Not held***. No source held since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

@@ -8,6 +8,6 @@
 
 **Online services.** [The director general says the Fada El Djazair portal, launched May 2024, gives access to cadastral and land information and offers over 6,500 electronic services, plus electronic payment of land service fees](<https://www.lnr-dz.com/2025/03/11/un-livret-foncier-electronique-sous-forme-de-carte-electronique-en-2025/>).
 
-***Noted, not assessed***. [Système national d'information agricole](<https://www.elmoudjahid.dz/fr/actualite/le-secteur-se-dote-d-un-systeme-national-d-information-integre-l-agriculture-fait-sa-mue-numerique-254754>).
+***Also on file***. [Système national d'information agricole](<https://www.elmoudjahid.dz/fr/actualite/le-secteur-se-dote-d-un-systeme-national-d-information-integre-l-agriculture-fait-sa-mue-numerique-254754>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

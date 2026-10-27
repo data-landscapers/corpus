@@ -6,8 +6,8 @@
 
 **Open for checking.** [The Electoral Commission says the National Voters Register was displayed in 2025 and urges the public to use its official website ec.or.ug/register to verify voter registration particulars and polling station](<https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf>).
 
-**Linked to ID.** No source held since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf>).
+**Linked to ID.** No source found since October 2023 says the roll is drawn from or checked against the ID or civil register. The nearest held fact: [the one given above](<https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf>).
 
-***Noted, not assessed***. [Biometric Voter Verification Kits (BVVKs)](<https://ec.or.ug/news/guidance-verification-voters-polling-stations>); [Biometric Voter Verification Kit (BVVK)](<https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf>).
+***Also on file***. [Biometric Voter Verification Kits (BVVKs)](<https://ec.or.ug/news/guidance-verification-voters-polling-stations>); [Biometric Voter Verification Kit (BVVK)](<https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf>).
 
-***Not held***. No source held since October 2023 says the roll is drawn from or checked against the ID or civil register.
+***Not found***. No source found since October 2023 says the roll is drawn from or checked against the ID or civil register.

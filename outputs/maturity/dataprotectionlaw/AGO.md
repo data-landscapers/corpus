@@ -12,6 +12,6 @@
 
 **Last twelve months.** The law is under revision: [an APD administrator said on 17 June 2026 that the public consultation was complete](<https://angop.ao/noticias/economia/nova-lei-de-proteccao-de-dados-pode-vigorar-no-proximo-ano-legislativo/>) and the bill would go to the Assembleia Nacional in the next legislative year. On 21 April 2026 [terms of reference were issued for drafting a new organic law for the APD](<https://c2a.portais.gov.ao/uploads/Td_Rs_Consultoria_para_Elaboracao_da_Lei_Organica_da_Agencia_de_Proteccao_de_Dados_5a7f75b595.pdf>). In October 2026 the APD [warned of critical PHP flaws](<https://radionova.co.ao/agencia-de-proteccao-de-dados-alerta-para-riscos-em-plataformas-digitais/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No count of the APD's decisions for a stated period ending by 30 September 2026. The companies it sanctioned in June and July 2024 are not named.
+***Not found***. No count of the APD's decisions for a stated period ending by 30 September 2026. The companies it sanctioned in June and July 2024 are not named.

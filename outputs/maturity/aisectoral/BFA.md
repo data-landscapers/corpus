@@ -8,6 +8,6 @@
 
 **Results reported.** The coordinator reported that [from September 2024 to April 2025 the campaigns screened 1,730 people and found 61 TB cases](<https://delftimaging.com/resources/webinars/advancing-tb-screening-in-burkina-faso-with-portable-x-ray-and-cad4tb/>). The AI flagged 50 suspected cases, of which 37 were confirmed and 13 were not TB.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source says AI is in service in the public systems of two or more sectors.

@@ -2,6 +2,6 @@
 
 ## G2P functionality
 
-***Noted, not assessed***. [Faso Arzêka](<https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services>); [Arzêka Money](<https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services>).
+***Also on file***. [Faso Arzêka](<https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services>); [Arzêka Money](<https://www.wearetech.africa/en/fils-uk/solutions/burkina-faso-launches-digital-payment-platform-to-streamline-government-services>).
 
-***Not held***. Nothing held since October 2023 says whether government pays people digitally.
+***Not found***. Nothing found since October 2023 says whether government pays people digitally.

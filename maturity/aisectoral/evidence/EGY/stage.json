@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-001;EGY-003",
-      "gaps": "No single source held says AI is in service in two or more sectors; the judicial assistant and the NARSS crop map are separate sources. No measured results are reported.",
-      "note": "Review 2026-10-21: the judicial assistant and the NARSS crop inventory are each AI in service; rung 4 asks for a source saying AI is in service in two or more sectors, and no one source held says so.",
+      "gaps": "No single source found says AI is in service in two or more sectors; the judicial assistant and the NARSS crop map are separate sources. No measured results are reported.",
+      "note": "Review 2026-10-21: the judicial assistant and the NARSS crop inventory are each AI in service; rung 4 asks for a source saying AI is in service in two or more sectors, and no one source found says so.",
       "as_at": "2026-10-21"
     }
   ]

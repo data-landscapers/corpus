@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "NER-001",
-   "gaps": "No source held says a national law or rule was passed to give effect to a shared text.",
+   "gaps": "No source found says a national law or rule was passed to give effect to a shared text.",
    "note": "Counted from the four questions by study-ladder-regionallaw.py."
   }
  ]

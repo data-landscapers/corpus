@@ -6,8 +6,8 @@
 
 **Between providers.** [The Inclusive Instant Payment System lets customers of Lonestar MTN Mobile Money and Orange Money Liberia make real-time interoperable transactions across the two networks, per the Central Bank of Liberia governor](<https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html>). [The Central Bank of Liberia deputy governor says the recently launched instant and interoperable payment system enables payments across banks and mobile network operators](<https://www.liberianobserver.com/business/cbl-backs-lra-s-move-to-billion-revenue-drive/article_7ef5e649-7ccd-4187-91bc-d17d1a19505c.html>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.liberianobserver.com/business/liberia-s-instant-payment-system-crosses-5-3m-transactions/article_b75bc316-97ae-459f-840d-c2822b8e7a84.html>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

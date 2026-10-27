@@ -6,6 +6,6 @@
 
 **Standards required and checked.** [The framework](<https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/>) had not been adopted when the workshop was reported. The ministry described full adoption as the step that follows the stakeholders' comments on the technical study and on the mechanism for putting the framework into effect. The workshop ran for three days, and the report of 27 March 2026 does not give its dates.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says the standards have been published.
+***Not found***. No source found says the standards have been published.

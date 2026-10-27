@@ -6,6 +6,6 @@
 
 **Named hosting and moves.** The ICT ministry is [preparing a national data-centre strategy with other ministries and bodies, to expand data centres and their capacity inside Egypt](<https://www.youm7.com/story/2026/9/20/رئيس-الوزراء-يتابع-مستجدات-العمل-لعدد-من-مشروعات-تكنولوجيا-المعلومات/7552399>), the minister told a cabinet meeting on 20 September 2026. He said on 8 September that it [covers storage and compute needs, investment, regulation, standards, skills and digital sovereignty](<https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/>), and in July called it [a core component of digital sovereignty](<https://gate.ahram.org.eg/News/5814629.aspx>). [In May 2024 the ICT minister said a government committee hosted by his ministry was preparing a plan for state bodies to use the policy](<https://www.almasryalyoum.com/news/details/3175247>).
 
-***Noted, not assessed***. [National data centre strategy](<https://egyptian-gazette.com/egypt/ict-minister-unveils-data-centre-strategy-plans-at-fdc-summit/>).
+***Also on file***. [National data centre strategy](<https://egyptian-gazette.com/egypt/ict-minister-unveils-data-centre-strategy-plans-at-fdc-summit/>).
 
-***Not held***. No source held says the government has named where public bodies must host: a government cloud or data centre the policy tells them to use, or a list of approved providers.
+***Not found***. No source found says the government has named where public bodies must host: a government cloud or data centre the policy tells them to use, or a list of approved providers.

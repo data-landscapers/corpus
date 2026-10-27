@@ -8,6 +8,6 @@
 
 **The state's data hosted nationally.** [The government cloud portal run by ANPTIC (Ministry of Digital Transition) states that the G-Cloud infrastructure, with 4 datacenters and 8 cloud nodes, hosts 139 websites and 622 virtual machines and runs government applications (state messaging, gov.bf directory, Oracle business applications such as SIGASPE and E-conseil des ministres)](<https://www.cloud.gov.bf/>).
 
-***Noted, not assessed***. [Planned national datacenter](<https://www.sidwaya.info/souverainete-numerique-le-gouvernement-inaugure-deux-datacenters/>); [Mini data centers](<https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-4361-de-taux-de-performances-au-premier-semestre-de-lannee/>); [G-Cloud](<https://anptic.gov.bf/projets-realises/g-cloud/>).
+***Also on file***. [Planned national datacenter](<https://www.sidwaya.info/souverainete-numerique-le-gouvernement-inaugure-deux-datacenters/>); [Mini data centers](<https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-4361-de-taux-de-performances-au-premier-semestre-de-lannee/>); [G-Cloud](<https://anptic.gov.bf/projets-realises/g-cloud/>).
 
-***Not held***. No source held names a second nationally owned data centre for hire at Tier III or above.
+***Not found***. No source found names a second nationally owned data centre for hire at Tier III or above.

@@ -41,10 +41,10 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No regulation, decree or order made under it, and no public body named as exchanging "
          "data because it requires them to, dated in the last three years, is held.",
-    "3": "No source held says the law in force requires public bodies to share data, to connect "
+    "3": "No source found says the law in force requires public bodies to share data, to connect "
          "to the government's exchange platform, or not to ask a person for what another public "
          "body already holds.",
-    "2": "No source held says a law, decree or regulation on public bodies sharing data is in force.",
+    "2": "No source found says a law, decree or regulation on public bodies sharing data is in force.",
     "1": "",
 }
 
@@ -85,7 +85,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "duty": "", "sources": [],
-                "gaps": "Nothing held names a law, decree or regulation on public bodies sharing data, or a "
+                "gaps": "Nothing found names a law, decree or regulation on public bodies sharing data, or a "
                         "draft of one, or says there is none."}
     if law and required and applied:
         s, src = "5", applied + required[:1] + law[:1]

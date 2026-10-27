@@ -6,6 +6,6 @@
 
 **Required consultation and standing body.** The WARDIP-Mauritanie project, under the Ministry of Digital Transformation, [published a provisional award notice on 7 May 2026 for technical assistance to build a national platform for citizen participation](<https://mtnima.gov.mr/wp-content/uploads/2026/05/Attribution-provisoire_platforme-citoyenne.pdf>), which it calls the Plateforme de participation citoyenne. The notice is a procurement, and [names no digital law or policy put to the public](<https://mtnima.gov.mr/wp-content/uploads/2026/05/Attribution-provisoire_platforme-citoyenne.pdf>).
 
-***Noted, not assessed***. A [national platform for citizen participation, at the stage of a provisional contract award](<https://mtnima.gov.mr/wp-content/uploads/2026/05/Attribution-provisoire_platforme-citoyenne.pdf>).
+***Also on file***. A [national platform for citizen participation, at the stage of a provisional contract award](<https://mtnima.gov.mr/wp-content/uploads/2026/05/Attribution-provisoire_platforme-citoyenne.pdf>).
 
-***Not held***. No published report of a consultation on a digital law or policy is held from the last three years, nor the comments received, nor a written answer to them.
+***Not found***. No published report of a consultation on a digital law or policy has been found from the last three years, nor the comments received, nor a written answer to them.

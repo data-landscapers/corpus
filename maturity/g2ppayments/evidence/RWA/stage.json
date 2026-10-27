@@ -10,7 +10,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "RWA-001",
-   "gaps": "No source held since October 2023 shows two or more main government payment streams paid digitally.",
+   "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
    "note": "First pass: counted from the four questions by study-ladder-g2ppayments.py."
   }
  ]

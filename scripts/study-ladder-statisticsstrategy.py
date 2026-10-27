@@ -46,9 +46,9 @@ STUDY = "statisticsstrategy"
 NO_PERIOD_YEARS = 5
 GAPS = {
     "5": "",
-    "4": "No source held reports an evaluation of the strategy completed in the last three years.",
-    "3": "No source held dates a review of progress on the strategy in the last three years.",
-    "2": "No source held shows an adopted strategy whose period is still running.",
+    "4": "No source found reports an evaluation of the strategy completed in the last three years.",
+    "3": "No source found dates a review of progress on the strategy in the last three years.",
+    "2": "No source found shows an adopted strategy whose period is still running.",
     "1": "",
 }
 RANGE = re.compile(r"((?:19|20)\d{2})(?:\s*/\s*\d{2,4})?\s*(?:-|–|—|to|à|a)\s*((?:19|20)\d{2})(?:\s*/\s*(\d{2}))?")
@@ -118,7 +118,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "sources": [],
-                "gaps": "Nothing held names a national statistics strategy, or says there is none."}
+                "gaps": "Nothing found names a national statistics strategy, or says there is none."}
     if evaluated:
         s, src = "5", evaluated[:2] + current[:1]
     elif reviewed:

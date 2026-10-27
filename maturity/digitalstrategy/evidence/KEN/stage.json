@@ -2,7 +2,7 @@
   "iso3": "KEN",
   "cells": [
     {"sub_indicator": "national", "stage": "3", "governance": "", "standing": "adopted", "text": "public", "period": "to:2032", "plan": "costed", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "KEN-031;KEN-032;KEN-033;KEN-034",
-     "gaps": "No published report against the plan's targets is held, so stage 4 is not reached. Body (ICT Authority, KEN-035, 2022) and donor finance (KEN-023, 2023-03-31) are dated before the 36-month window and are not carried; no domestic budget line is stated. No dated event in the last twelve months. The Digital Economy Blueprint 2019 (open period) is the predecessor.",
+     "gaps": "No published report against the plan's targets has been found, so stage 4 is not reached. Body (ICT Authority, KEN-035, 2022) and donor finance (KEN-023, 2023-03-31) are dated before the 36-month window and are not carried; no domestic budget line is stated. No dated event in the last twelve months. The Digital Economy Blueprint 2019 (open period) is the predecessor.",
      "note": "Staged on the Kenya National Digital Master Plan 2022-2032: a published government text read as adopted, public on the ICT Authority site, costed, period to 2032. No reporting on record, so it stops at 3."}
   ]
 }

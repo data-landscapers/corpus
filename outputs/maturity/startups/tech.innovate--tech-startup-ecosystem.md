@@ -56,44 +56,44 @@ A public fund under the startup law or strategy financed startups in 2025.
 
 ### Algeria: 4 Operating
 
-Startups were labelled under the startup law or strategy in 2026; a public fund under it is not known.
+Startups were labelled under the startup law or strategy in 2026; no source found reports a public fund under it.
 
 - El Watan reports 673 startups created, 3949 patents registered and 2339 'projet innovant' labels issued between 2022 and July 2026 ([source, 2026-07](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/)).
 - Authorities reported Algeria had registered 130 start-ups and 1,175 projects labeled as innovative ([source, 2026-04-20](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-unveils-first-ai-and-cybersecurity-start-up-cluster)).
 
 ### Benin: 4 Operating
 
-Startups were labelled under the startup law or strategy in 2025; a public fund under it is not known.
+Startups were labelled under the startup law or strategy in 2025; no source found reports a public fund under it.
 
 - BIIC and ADPME launched the FAEN programme to finance start-ups holding the 'start-up' label in seed phase (under 3 years) and growth-stage SMEs ([source, 2025-10-02](https://www.biic-bank.com/fr/actualite/lancement-operationnel-du-fonds-dappui-a-lentrepreneuriat-pour-accompagner-et-financer-des-start-ups-labellisees.html)).
 
 ### Cote d'Ivoire: 4 Operating
 
-Startups were labelled under the startup law or strategy in 2025; a public fund under it is not known.
+Startups were labelled under the startup law or strategy in 2025; no source found reports a public fund under it.
 
 - Diallo says a 'levelisation' process grants certified startups access to public markets ([source, 2025-07-01](https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/)).
 
 ### Djibouti: 4 Operating
 
-Startups were labelled under the startup law or strategy in 2026; a public fund under it is not known.
+Startups were labelled under the startup law or strategy in 2026; no source found reports a public fund under it.
 
 - The guide says an innovative, high-growth firm can apply for the Startup label to obtain reinforced tax and social advantages ([source, 2026-01](https://entreprendre.dj/portals/g2b/guide)).
 
 ### Egypt: 4 Operating
 
-Startups were labelled under the startup law or strategy in 2026; a public fund under it is not known.
+Startups were labelled under the startup law or strategy in 2026; no source found reports a public fund under it.
 
 - Clyde & Co reports companies apply to MSMEDA for a Startup Classification Certificate, which gives an official Startup Label in 5 days (fast track) or 14 days (regular), qualifying them for the Charter's incentives ([source, 2026-02-18](https://www.clydeco.com/en/insights/2026/02/egypt-launches-first-national-startup-charter)).
 
 ### Nigeria: 4 Operating
 
-Startups were labelled under the startup law or strategy in 2025; a public fund under it is not known.
+Startups were labelled under the startup law or strategy in 2025; no source found reports a public fund under it.
 
 - NAN reports the Startup Consultative Forum's membership includes labelled startups, and that certified startups get access to incentives under the Act ([source, 2025-04-29](https://nannews.ng/nitda-inaugurates-startup-consultative-forum-assures-implementation-of-nsa/)).
 
 ### Tunisia: 4 Operating
 
-Startups were labelled under the startup law or strategy in 2026; a public fund under it is not known.
+Startups were labelled under the startup law or strategy in 2026; no source found reports a public fund under it.
 
 - The column cites 1,450 labelled startups in Tunisia ([source, 2026-03-13](https://www.leconomistemaghrebin.com/2026/03/13/lia-au-service-de-la-tunisie-les-conditions-dune-adoption-reussie/)).
 
@@ -262,102 +262,102 @@ A 2023 source says no startup law, strategy or public support exists.
 
 ### Burundi: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Comoros: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Eritrea: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Eswatini: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Ethiopia: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Gambia: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Lesotho: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Liberia: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Madagascar: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Mauritius: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Mozambique: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Namibia: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Niger: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Somalia: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### South Sudan: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.
 
 ### Sudan: No evidence
 
-Nothing held names a startup law or strategy or says there is none, so no stage is set.
+Nothing found names a startup law or strategy or says there is none, so no stage is set.
 
-Not established: Nothing held says what the state does for tech startups.
+Not established: Nothing found says what the state does for tech startups.

@@ -6,8 +6,8 @@
 
 **Between providers.** [BCEAO says interoperable e-money transactions in UEMOA, which includes Guinea-Bissau, go through PI-SPI, with 175 connected participants including banks, e-money issuers and payment institutions](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>). [The BCEAO list shows banks and Orange Money Guinea-Bissau, a mobile money provider, authorised on PI-SPI in Guinea-Bissau](<https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>).
 
-***Noted, not assessed***. [PI-SPI](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
+***Also on file***. [PI-SPI](<https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

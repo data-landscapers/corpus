@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SWZ-002",
-      "gaps": "No source held since October 2023 says authentication is used across services or channels.",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
       "note": "Rebuild: banks can check the civil registry to verify identity (SWZ-002). The national e-KYC was still to roll out (SWZ-001).",
       "as_at": "2026-10-22"
     }

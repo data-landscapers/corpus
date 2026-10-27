@@ -8,6 +8,6 @@
 
 **A household survey published.** [INStaD published the main indicators of the national EHCVM (2021-2022, fieldwork 2021 and 2022), representative for the 12 departments and by residence area, across 13 themes and about ten SDG indicators](<https://www.instad.bj/actualites/790-document-des-principaux-indicateurs-ehcvm2>).
 
-***Noted, not assessed***. [Recensement National de l'Agriculture (RNA)](<https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-762022>); [ENBT1-2023](<https://www.instad.bj/actualites/804-tableaux-de-synthese-de-la-premiere-edition-de-l-enquete-nationale-budget-temps-enbt1-2023>).
+***Also on file***. [Recensement National de l'Agriculture (RNA)](<https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-762022>); [ENBT1-2023](<https://www.instad.bj/actualites/804-tableaux-de-synthese-de-la-premiere-edition-de-l-enquete-nationale-budget-temps-enbt1-2023>).
 
-***Not held***. No source held reports a census counted since October 2016.
+***Not found***. No source found reports a census counted since October 2016.

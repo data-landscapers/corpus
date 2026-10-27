@@ -2,6 +2,6 @@
 
 ## AI in administration
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether a government body has tendered, piloted or uses an AI system.
+***Not found***. Nothing found says whether a government body has tendered, piloted or uses an AI system.

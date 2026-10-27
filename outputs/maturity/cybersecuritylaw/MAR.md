@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest held fact is the law's own implementation. [Loi n° 05-20 becomes operative on publication of its implementing texts](<https://www.anrt.ma/sites/default/files/2022-02/loi_05-20_cybersecurite_fr.pdf>) under article 53, and décret n° 2-24-921, which applies article 25, was in force by the Bulletin officiel of 20 February 2025. The page lists the law under the Kingdom of Morocco, with the dahir of 25 July 2020 as its promulgation and Bulletin officiel n° 6906 of 6 August 2020 as its publication, and the 2025 decree as the later implementing text it records.
 
-***Noted, not assessed***. The [DGSSI](<https://www.anrt.ma/sites/default/files/2022-02/loi_05-20_cybersecurite_fr.pdf>).
+***Also on file***. The [DGSSI](<https://www.anrt.ma/sites/default/files/2022-02/loi_05-20_cybersecurite_fr.pdf>).
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

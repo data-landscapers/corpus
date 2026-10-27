@@ -6,8 +6,8 @@
 
 **Several programmes.** [The FDSI director general says RSU data has served the Guichet Choc Alimentaire project with ANIES and the IMF, UNICEF's follow-up of malnourished children, and SOS Villages d'Enfants' family strengthening project](<https://mediaguinee.com/2026/07/guinee-le-fdsi-presente-le-rapport-danalyse-du-registre-social-unifie-qui-cartographie-977-610-menages-soit-4-860-075-individus-a-travers-le-pays/>).
 
-**Linked to ID.** No source held since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://mediaguinee.com/2026/07/guinee-le-fdsi-presente-le-rapport-danalyse-du-registre-social-unifie-qui-cartographie-977-610-menages-soit-4-860-075-individus-a-travers-le-pays/>).
+**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://mediaguinee.com/2026/07/guinee-le-fdsi-presente-le-rapport-danalyse-du-registre-social-unifie-qui-cartographie-977-610-menages-soit-4-860-075-individus-a-travers-le-pays/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source found since October 2023 says the social registry is linked to the national ID.

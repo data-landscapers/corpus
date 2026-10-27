@@ -6,8 +6,8 @@
 
 **Nationwide.** Numbering is held for Kampala only. [The Ministry of ICT's draft postcode and addressing policy of 2019 said a pilot in Entebbe had installed road signs and house labels and that the national address database was still to be established](<https://ict.go.ug/site/documents/National-Postcode-and-Addressing-System-Policy.pdf>).
 
-**Used by services.** No service is held as using the addresses. The nearest held fact: [in 2020 the ICT ministry sought UGX 92 billion to address all locations and link them to the national ID database](<https://www.independent.co.ug/ict-ministry-seeks-ugx-92-bn-to-assign-addresses-on-locations/>).
+**Used by services.** No service has been found as using the addresses. The nearest held fact: [in 2020 the ICT ministry sought UGX 92 billion to address all locations and link them to the national ID database](<https://www.independent.co.ug/ict-ministry-seeks-ugx-92-bn-to-assign-addresses-on-locations/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says an address register or digital addressing system is in service.
+***Not found***. No source found since October 2023 says an address register or digital addressing system is in service.

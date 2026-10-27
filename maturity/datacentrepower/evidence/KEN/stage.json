@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-004",
-      "gaps": "No source held says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.",
+      "gaps": "No source found says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.",
       "note": "The Konza National Data Centre has dual independent feeds from Kenya Power, a secured supply, and Konza and iXAfrica state PUEs of 1.45 and 1.25 (2026); nothing shows power set aside for data centres, so stage 2.",
       "as_at": "2026-10-27"
     }

@@ -8,6 +8,6 @@
 
 **National switch.** [Rwanda made eKash its national instant payment system in July 2026, connecting banks and mobile-money platforms through a common payment infrastructure](<https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/>). [NBR calls eKash Rwanda's national instant payment system, reached through banks and mobile money providers, launched nationwide on 14 July 2026](<https://www.bnr.rw/documents/Press_Release-_Update_on_the_Performance_of_eKash_Aug_2026.pdf>). [EKash, run through RSwitch, is Rwanda's national instant payment system linking all banks and mobile money wallets](<https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash>).
 
-***Noted, not assessed***. [MoFaya](<https://taarifa.rw/2026/08/02/bpr-bank-rwanda-and-mtn-momo-rwanda-launch-mofaya-digital-loan-and-savings-solution>).
+***Also on file***. [MoFaya](<https://taarifa.rw/2026/08/02/bpr-bank-rwanda-and-mtn-momo-rwanda-launch-mofaya-digital-loan-and-savings-solution>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

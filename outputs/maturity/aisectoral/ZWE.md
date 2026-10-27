@@ -8,6 +8,6 @@
 
 **Results reported.** Police said the traffic system had [detected over four million violations by the end of September 2026, up from 2.3 million in mid-August](<https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/>).
 
-***Noted, not assessed***. [AI Fuel Manager](<https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3>).
+***Also on file***. [AI Fuel Manager](<https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

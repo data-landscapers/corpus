@@ -8,6 +8,6 @@
 
 **Mostly online.** [AlgerieZoom reports that electronic filing is mandatory for DGE taxpayers and, under instruction 31/2026, for real-profit regime and simplified non-commercial-profession taxpayers, though 2025 returns other than series G n°50 may still be filed on paper](<https://algeriezoom.com/impots-algerie-5-changements-generalisation-jibayatic/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

@@ -1,6 +1,6 @@
 {
   "iso3": "TGO",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "activity", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "TGO-004;TGO-009", "gaps": "No regulation made under the law is on record, and no named sanction, decision or published count of decisions under law 2019-014 is held; every application fact is training, certification, awareness or a cooperation accord.", "note": "Law 2019-014 is in force (compliance periods under art. 95 ended 2021; 2026 sources treat it as applicable), but application is activity only, so stage 4 is not met. The IPDCP is constituted, so the cap does not apply."}
+    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "activity", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "TGO-004;TGO-009", "gaps": "No regulation made under the law is on record, and no named sanction, decision or published count of decisions under law 2019-014 has been found; every application fact is training, certification, awareness or a cooperation accord.", "note": "Law 2019-014 is in force (compliance periods under art. 95 ended 2021; 2026 sources treat it as applicable), but application is activity only, so stage 4 is not met. The IPDCP is constituted, so the cap does not apply."}
   ]
 }

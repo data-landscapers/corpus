@@ -6,6 +6,6 @@
 
 **General AI law and the law applied.** With [no law governing AI in August 2026](<https://www.timeslive.co.za/news/sci-tech/2026-08-28-bruce-von-maltitz-sas-ai-rules-wont-land-until-2027-waiting-is-a-choice/>), there is no general AI law to apply. Rules expected in 2027 are an intention; no bill or draft regulation on AI is named in either piece. The [research centre's paper](<https://www.globalcenter.ai/research/hypothetical-no-more-south-africa-s-legal-litmus-test-for-automating-welfare>) says so in a study of automated decisions in social grants, where existing law is the only test.
 
-***Noted, not assessed***. [Copyright Amendment Bill](<https://www.itweb.co.za/article/paperback-writer-meet-the-shredder/kYbe97XbZ35qAWpG>).
+***Also on file***. [Copyright Amendment Bill](<https://www.itweb.co.za/article/paperback-writer-meet-the-shredder/kYbe97XbZ35qAWpG>).
 
-***Not held***. No bill, draft decree or draft regulation on AI is held.
+***Not found***. No bill, draft decree or draft regulation on AI has been found.

@@ -6,8 +6,8 @@
 
 **Several sectors.** Customs is the only sector held with AI in service. The nearest held fact elsewhere is the [judicial evaluation](<https://www.wearetech.africa/en/fils-uk/news/public-management/madagascar-develops-digital-criminal-records-platform-to-modernize-justice-system>), not yet in service.
 
-**Results reported.** No measured results of a sectoral AI system are held. The [director general's account](<https://www.douanes.gov.mg/la-douane-malagasy-un-modele-regional-dans-lusage-de-la-donnee-et-de-lia/>) describes shorter clearance times without figures.
+**Results reported.** No measured results of a sectoral AI system have been found. The [director general's account](<https://www.douanes.gov.mg/la-douane-malagasy-un-modele-regional-dans-lusage-de-la-donnee-et-de-lia/>) describes shorter clearance times without figures.
 
-***Noted, not assessed***. [EC-MADA programme civil registration digitisation](<https://www.intelligentcio.com/africa/2026/05/08/ai-powered-digitisation-project-positions-madagascar-as-a-model-for-african-digital-identity-modernisation/>).
+***Also on file***. [EC-MADA programme civil registration digitisation](<https://www.intelligentcio.com/africa/2026/05/08/ai-powered-digitisation-project-positions-madagascar-as-a-model-for-african-digital-identity-modernisation/>).
 
-***Not held***. AI in service in a second sector, and measured results of a sectoral AI system, are not known.
+***Not found***. No source found reports AI in service in a second sector, and measured results of a sectoral AI system.

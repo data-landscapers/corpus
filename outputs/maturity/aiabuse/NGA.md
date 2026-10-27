@@ -6,8 +6,8 @@
 
 **Authority.** [The Nigeria Data Protection Commission issued the GAID and applies the NDPA and GAID provisions on automated decisions and AI](<https://theliberalist.org/nigeria-needs-no-ai-law-it-already-has-one/>).
 
-**Enforced.** No source held since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://theliberalist.org/nigeria-needs-no-ai-law-it-already-has-one/>).
+**Enforced.** No source found since October 2023 gives an enforcement or redress decision about a harm from AI. The nearest held fact: [the one given above](<https://theliberalist.org/nigeria-needs-no-ai-law-it-already-has-one/>).
 
-***Noted, not assessed***. [Advisory on the Safe Use of AI Platforms](<https://punchng.com/nitda-warns-nigerians-against-sharing-nin-bvn-others-with-ai-platforms/>); [NDPA 2023](<https://newtelegraphng.com/ethical-problems-in-artificial-intelligence-and-digital-legislation-in-nigeria-3/>).
+***Also on file***. [Advisory on the Safe Use of AI Platforms](<https://punchng.com/nitda-warns-nigerians-against-sharing-nin-bvn-others-with-ai-platforms/>); [NDPA 2023](<https://newtelegraphng.com/ethical-problems-in-artificial-intelligence-and-digital-legislation-in-nigeria-3/>).
 
-***Not held***. No source held since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not found***. No source found since October 2023 gives an enforcement or redress decision about a harm from AI.

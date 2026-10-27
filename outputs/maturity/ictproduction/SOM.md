@@ -2,6 +2,6 @@
 
 ## ICT exports and production
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held gives ICT service exports as a share of GDP.
+***Not found***. Nothing found gives ICT service exports as a share of GDP.

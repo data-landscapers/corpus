@@ -6,6 +6,6 @@
 
 **Use of the law.** The nearest fact held is the [same article](<https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/>) of 1 June 2025, which links the law to ANINF's SecBOM: the tool must comply with law no. 027/2023. That is a compliance requirement placed on an agency tool, stated in a news article, and it is the only application of the law described in the source.
 
-***Noted, not assessed***. [SecBOM (Security Bill of Material)](<https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/>), run by ANINF.
+***Also on file***. [SecBOM (Security Bill of Material)](<https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/>), run by ANINF.
 
-***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
+***Not found***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

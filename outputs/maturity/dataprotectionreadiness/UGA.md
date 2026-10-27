@@ -10,6 +10,6 @@
 
 **Implementing and acting.** The [PDPO's decision of 20 February 2026](<https://businesstimesug.com/whatsapp-updates-privacy-policies-after-uganda-data-protection-enforcement/>) partly upheld a complaint against WhatsApp LLC and Meta Platforms and issued corrective orders; on 17 July 2026 it confirmed WhatsApp had implemented them. On [18 July 2025 it found Google in breach](<https://pdpo.go.ug/media/2025/07/Ssekamwa-Frank-3-Ors-vs-Google-LLC-PDPO-Decision-18th-July-2024.pdf>) and ordered it to register within 30 days. In July 2026 the Office [supervised more than 13,400 registered data controllers and processors](<https://ict.go.ug/media/news/familiarisation-visit-highlights-nita-us-digital-progress>), and carried out inspections and investigations.
 
-***Noted, not assessed***. [Personal Data Protection Office (PDPO)](<https://www.newvision.co.ug/category/news/google-declared-in-breach-of-ugandas-data-pro-NV_214858_032026>).
+***Also on file***. [Personal Data Protection Office (PDPO)](<https://www.newvision.co.ug/category/news/google-declared-in-breach-of-ugandas-data-pro-NV_214858_032026>).
 
-***Not held***. The director names no case taken to court.
+***Not found***. The director names no case taken to court.

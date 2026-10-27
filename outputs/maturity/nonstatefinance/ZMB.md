@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** The nearest private money to a state-linked sector is [IFC's US$75 million senior loan to the tower operator IHS Zambia in 2021](<https://disclosures.ifc.org/project-detail/SII/44235/ihs-zambia-covid>), lent to a private company and not to a public project, and made before the period counted.
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Every amount held from 2024 on was signed or started in the same year, 2026. Whether private money came in across other years is not known.
+***Not found***. Every amount held from 2024 on was signed or started in the same year, 2026. No source found says whether private money came in across other years.

@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The [2026 finance law appropriates 1,187,169,000 francs in domestic payment credits to the electronic communications infrastructure programme](<https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf>) and [1,916,611,000 francs to the digital transformation and ecosystem programme](<https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf>).
 
-***Noted, not assessed***. [PactDigital, run by the Ministry of Digital Transition](<https://africalibertynews.info/burkina-faso-confirms-in-2026-its-resolve-to-make-digital-technology-a-pillar-of-sovereignty/>).
+***Also on file***. [PactDigital, run by the Ministry of Digital Transition](<https://africalibertynews.info/burkina-faso-confirms-in-2026-its-resolve-to-make-digital-technology-a-pillar-of-sovereignty/>).
 
-***Not held***. The money for digital transformation was lower in the latest budget than in the one before.
+***Not found***. The money for digital transformation was lower in the latest budget than in the one before.

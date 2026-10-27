@@ -16,6 +16,6 @@
 
 **Last twelve months.** Root servers [entered service in data centres in Tripoli and Benghazi in October 2025](<https://libyaherald.com/2025/10/general-authority-for-communications-and-informatics-libya-enters-digital-sovereignty-era-with-official-launch-of-root-servers-in-tripoli-and-benghazi>). On 15 February 2026 GACI [held a workshop in Tripoli on regulating data centres and cloud computing, within the national communications strategy](<https://lana.gov.ly/post.php?id=351103&lang=ar>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No text of the strategy is held, and no source says whether it is published. No adopting act or date, delivery plan, budget line or report against the strategy's own targets is held.
+***Not found***. No text of the strategy has been found, and no source says whether it is published. No adopting act or date, delivery plan, budget line or report against the strategy's own targets is held.

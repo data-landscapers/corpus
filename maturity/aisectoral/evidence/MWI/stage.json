@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MWI-007;MWI-006",
-      "gaps": "No single source held says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
       "note": "A preprint reports the error rate and completeness of AI transcription of HIV testing registers at 98% of testing facilities to September 2025, a measured result of a system in service. A later yes answers the several-sectors question.",
       "as_at": "2026-10-22"
     }

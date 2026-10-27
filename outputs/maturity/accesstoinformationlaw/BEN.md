@@ -6,6 +6,6 @@
 
 **Law put to work and applied.** The same [assessment](<https://opendatatoolkit.worldbank.org/content/dam/sites/data/odk/documents/odra-benin.pdf>) says the HAAC, the body named under Loi n° 2015-07, the Code de l'information et de la communication of 2015, does not appear to have undertaken any initiative to promote access to information. Civil society organisations found the right little known and little used, and their test letters to administrations were generally ignored.
 
-***Noted, not assessed***. [Loi n° 2015-07 du 20 mars 2015 portant Code de l'information et de la communication en République du Bénin](<https://sgg.gouv.bj/doc/loi-2015-07/download>); [APDP (Benin data protection authority)](<https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula>).
+***Also on file***. [Loi n° 2015-07 du 20 mars 2015 portant Code de l'information et de la communication en République du Bénin](<https://sgg.gouv.bj/doc/loi-2015-07/download>); [APDP (Benin data protection authority)](<https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula>).
 
-***Not held***. Nothing held says an access to information law is in force, or that any rule or oversight body exists under one.
+***Not found***. Nothing found says an access to information law is in force, or that any rule or oversight body exists under one.

@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The 2024 decree is the nearest rule held that is made under the laws, and its Article 10 on certified electronic signatures is the part that applies them. In September 2025 Newsmada reported that a [draft decree on electronic signature and interoperability was in preparation](<https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/>), and that the ministry held a validation workshop on the regulatory framework on 13 September 2025. The evidence does not say the draft decree has since been adopted.
 
-***Noted, not assessed***. [X-Road](<https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/>); [Orinasa](<https://cnlegis.gov.mg/uploads/D2024-1911-VF.pdf>).
+***Also on file***. [X-Road](<https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/>); [Orinasa](<https://cnlegis.gov.mg/uploads/D2024-1911-VF.pdf>).
 
-***Not held***. No source held names a decree, regulation or order made under the law, other than the 2024 decree, and none says the draft decree has been adopted.
+***Not found***. No source found names a decree, regulation or order made under the law, other than the 2024 decree, and none says the draft decree has been adopted.

@@ -2,6 +2,6 @@
 
 ## AI in administration
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether government bodies use AI.
+***Not found***. Nothing found says whether government bodies use AI.

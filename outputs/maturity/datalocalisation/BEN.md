@@ -6,6 +6,6 @@
 
 **Enforcer named and rule applied.** The nearest held fact is the APDP president's [call for rigorous application of the Code numérique](<https://www.agenceecofin.com/actualites-numerique/2210-142651-adex-2026-mtn-benin-plaide-pour-une-cyber-resilience-proactive-a-lere-de-la-5g>), made in a plea for the data protection authority, the cybersecurity agency and the telecoms regulator, ARCEP, to regulate together. He did not say which of them checks that critical servers stay in Benin, and named no organisation ordered to move its servers or exempted.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names the body that enforces the rule, or an organisation ordered, penalised or exempted under it.
+***Not found***. No source found names the body that enforces the rule, or an organisation ordered, penalised or exempted under it.

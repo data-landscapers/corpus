@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The Universal Access and Service Fund Trust was [established in April 2014 and is financed by a levy of up to 1% of licensed operators' annual gross turnover](<https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOTSWANA_UASF_FRAMEWORK_FINAL_VERSION.pdf>). [Two primary-school Digital Centres, each costing 1.59 million pula, were launched on 28 November 2025](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOCRA_Newsletter%2C_Issue_003_compressed.pdf>) through the fund.
 
-***Noted, not assessed***. [The Minister of Finance's October 2025 request to Parliament for 486 million pula for ICT development projects under the national development plan](<https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/>); [his request for 4.13 billion pula for the Botswana Unified Revenue Service](<https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/>).
+***Also on file***. [The Minister of Finance's October 2025 request to Parliament for 486 million pula for ICT development projects under the national development plan](<https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/>); [his request for 4.13 billion pula for the Botswana Unified Revenue Service](<https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/>).
 
-***Not held***. Nothing held shows the state's money for digital programmes higher in the latest budget than in the one before.
+***Not found***. Nothing found shows the state's money for digital programmes higher in the latest budget than in the one before.

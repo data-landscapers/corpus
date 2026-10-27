@@ -2,6 +2,6 @@
 
 ## G2P functionality
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says how government pays people.
+***Not found***. Nothing found says how government pays people.

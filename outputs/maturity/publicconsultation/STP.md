@@ -6,6 +6,6 @@
 
 **Required consultation and standing body.** AGER [convened the first Fórum de Governança da Internet de São Tomé e Príncipe on 28 to 30 July 2026](<https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp>), the country's internet governance forum, known as FGI STP. Government, the private sector, academia, civil society and the technical community took part in it. The forum was not a consultation on a named law or policy.
 
-***Noted, not assessed***. [FGI STP, the internet governance forum that AGER convened in July 2026](<https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp>).
+***Also on file***. [FGI STP, the internet governance forum that AGER convened in July 2026](<https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp>).
 
-***Not held***. No published report of a consultation on a digital law or policy, the comments received or a written answer to them from the last three years is held.
+***Not found***. No published report of a consultation on a digital law or policy, the comments received or a written answer to them from the last three years is held.

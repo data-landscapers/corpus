@@ -44,9 +44,9 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No source from the last three years naming an organisation ordered, penalised or "
          "exempted under the rule, or counting those that have moved data to comply, is held.",
-    "3": "No source held names a body that enforces the rule: a regulator, agency or ministry "
+    "3": "No source found names a body that enforces the rule: a regulator, agency or ministry "
          "unit that checks compliance or grants exemptions.",
-    "2": "No source held says a rule that data must be kept in the country is in force.",
+    "2": "No source found says a rule that data must be kept in the country is in force.",
     "1": "",
 }
 
@@ -92,7 +92,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     lifts = running or not (settled or draft)
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
-                "gaps": "Nothing held names a rule that data must be kept in the country, or "
+                "gaps": "Nothing found names a rule that data must be kept in the country, or "
                         "says there is none."}
     if moved and lifts:
         s, src = "5", moved + policy[:1]

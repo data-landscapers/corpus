@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "landadmin"
 SUB = "landmis"
-GAPS = {'4': 'No source held since October 2023 says land or property tax is assessed or paid through the land system.', '3': 'No source held since October 2023 says the land system joins records to survey maps or valuation.', '2': 'No source held since October 2023 says: are land transactions processed electronically.', '1': 'No source held since October 2023 says: is a land information system under way.', '5': ''}
-EMPTY = 'Nothing held says how land transactions are processed.'
-UNPLACED = 'Nothing held since October 2023 says whether land transactions are processed electronically.'
+GAPS = {'4': 'No source found since October 2023 says land or property tax is assessed or paid through the land system.', '3': 'No source found since October 2023 says the land system joins records to survey maps or valuation.', '2': 'No source found since October 2023 says: are land transactions processed electronically.', '1': 'No source found since October 2023 says: is a land information system under way.', '5': ''}
+EMPTY = 'Nothing found says how land transactions are processed.'
+UNPLACED = 'Nothing found since October 2023 says whether land transactions are processed electronically.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

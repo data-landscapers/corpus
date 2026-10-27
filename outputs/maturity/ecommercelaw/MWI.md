@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The Act is held in [the MalawiLII version, which includes amendments published up to 31 October 2021](<https://malawilii.org/akn/mw/act/2016/33/eng@2017-12-31>). That version is the nearest held statement on how the Act has been changed or applied since it commenced in June 2017, and it names no regulation made under the Act. In that version the Act sits as Chapter 74:02. In February 2024 the government [put draft regulations on cryptography and certification authorities under the Act to stakeholders](<https://digmap.pppc.mw/government-engages-stakeholders-on-etca-regulations/>), alongside a 2023 bill to amend it.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decree, regulation or order made under the law is held beyond drafts, and nothing shows the law applied in practice.
+***Not found***. No decree, regulation or order made under the law has been found beyond drafts, and nothing shows the law applied in practice.

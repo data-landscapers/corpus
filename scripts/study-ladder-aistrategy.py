@@ -43,9 +43,9 @@ GAPS = {
     "5": "Nothing on the four questions.",
     "4": "No source from the last three years naming public money allocated to the strategy, "
          "or an action in it started with funding named, is held.",
-    "3": "No source held names a body set up or named to carry out the strategy: a council, "
+    "3": "No source found names a body set up or named to carry out the strategy: a council, "
          "office, agency, committee or ministry unit.",
-    "2": "No source held says a national AI strategy is adopted and still running.",
+    "2": "No source found says a national AI strategy is adopted and still running.",
     "1": "",
 }
 
@@ -91,7 +91,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     lifts = running or not (settled or draft)
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
-                "gaps": "Nothing held names a national AI strategy, or says there is none."}
+                "gaps": "Nothing found names a national AI strategy, or says there is none."}
     if moved and lifts:
         s, src = "5", moved + policy[:1]
     elif named and lifts:

@@ -6,8 +6,8 @@
 
 **Shared number.** [CEPICI's reform page says the Identifiant Unique (IDU), operational since 2018, is now the one number a firm needs for all its dealings with the administrations, and that with it the firm is registered at once with the commercial register, the tax authority and the social security fund (CNPS)](<https://cepici.africa/reforme>). The number is issued at creation, so the register, the tax office and CNPS hold the firm under one identifier. [In July 2025 CEPICI launched the Annuaire IDU, a directory of registered firms keyed on that identifier](<https://news.abidjan.net/articles/743032/environnement-des-affaires-le-cepici-lance-lannuaire-idu-un-registre-des-entreprises-ivoiriennes>).
 
-**Beneficial owners.** Nothing held says the register collects the beneficial owners of the firms it records. The nearest held fact is [CEPICI's account of what the Identifiant Unique registers](<https://cepici.africa/reforme>), which names the commercial register, tax and social security and not ownership.
+**Beneficial owners.** Nothing found says the register collects the beneficial owners of the firms it records. The nearest held fact is [CEPICI's account of what the Identifiant Unique registers](<https://cepici.africa/reforme>), which names the commercial register, tax and social security and not ownership.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the register collects beneficial owners.
+***Not found***. No source found since October 2023 says the register collects beneficial owners.

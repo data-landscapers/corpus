@@ -6,6 +6,6 @@
 
 **Required consultation and standing body.** The consultation on the draft law rests on [the notice of the regulator's Board](<https://www.odemocratagb.com/?p=57171>), which set its own terms for who could respond, how and by when. After the military takeover of 26 November 2025, citizens [reported restrictions across the country on Facebook, YouTube, TikTok and Instagram](<https://mfwa.org/country-highlights/guinea-bissau-military-takeover-triggers-media-suspension-online-restrictions/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No report of a consultation on a digital law or policy, no comments received and no written answer to them is held from the last three years. Nothing held says who responded to the notice, states a rule that required a consultation, or names a standing body that gave a view.
+***Not found***. No report of a consultation on a digital law or policy, no comments received and no written answer to them has been found from the last three years. Nothing found says who responded to the notice, states a rule that required a consultation, or names a standing body that gave a view.

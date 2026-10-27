@@ -6,6 +6,6 @@
 
 **Money and results.** The FDSU signed subsidy agreements with Airtel, Orange, Vodacom and Africell, covering 10 localities each, 40 localities and about 258,000 people in all, as [the first step of the National Connectivity Strategy 2026-2035](<https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html>), reported by Developing Telecoms on 13 August 2026, with the first localities to be connected under those agreements.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a national broadband plan is adopted and still running.
+***Not found***. No source found says a national broadband plan is adopted and still running.

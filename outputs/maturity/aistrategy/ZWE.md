@@ -6,6 +6,6 @@
 
 **Body named and action funded.** [An AI Strategy Implementation Office coordinates the strategy, with a national regulatory committee setting policy](<https://spikedmedia.co.zw/the-numbers-behind-the-view-zimbabwe-makes-its-case-for-ai-driven-tourism-statistics/>); [in June 2026 the office was being set up inside the ICT ministry](<https://techbytes.africa/zimbabwe-launches-ai4i-challenge/>). [The telecommunications regulator's challenge for 2026, which carries out an action in the strategy launched in March 2026, offers selected teams grants of up to USD 80,000, and the 16 winning teams are to be considered for its incubation programme](<https://technomag.co.zw/zimbabwe-launches-2026-ai-for-impact-challenge-ai4i-to-drive-national-innovation/>). [A legal commentary of July 2026 says the strategy itself has no implementation budget](<https://www.africanlawmatters.com/blog/strategy-without-statute-reading-zimbabwes-national-ai-strategy>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing on the four questions.
+***Not found***. Nothing on the four questions.

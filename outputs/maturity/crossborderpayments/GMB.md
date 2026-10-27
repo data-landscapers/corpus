@@ -8,6 +8,6 @@
 
 **Volumes reported.** [The IFAD PRIME Africa end-of-project profile (April 2026) reports US$135 million in remittances received digitally through APS and an average APS remittance cost of 5 per cent across PRIME corridors](<https://ffremittances.org/wp-content/uploads/2026/05/2026_PF_TheGambia_APS_completion_WEB.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

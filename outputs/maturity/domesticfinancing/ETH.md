@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is that the 2026/27 federal budget [gives the Artificial Intelligence Institution its money, all from the treasury](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>).
 
-***Noted, not assessed***. [The Ethiopian Digital Foundation Project, externally financed](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>).
+***Also on file***. [The Ethiopian Digital Foundation Project, externally financed](<https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx>).
 
-***Not held***. No fund, levy or assigned tax is shown created, collecting or paying for digital programmes.
+***Not found***. No fund, levy or assigned tax is shown created, collecting or paying for digital programmes.

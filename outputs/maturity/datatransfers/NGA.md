@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** According to the National Commissioner, in [Vanguard's report of 30 April 2025](<https://www.vanguardngr.com/2025/04/nigeria-joins-global-cross-border-privacy-forum/>), the Commission approves binding corporate rules, codes and certification mechanisms as means of transferring personal data across borders under the Act. The Act's Part VIII on cross-border transfers is listed in the [Official Gazette text](<https://cert.gov.ng/ngcert/resources/Nigeria_Data_Protection_Act_2023.pdf>) as covering other bases for transfer outside Nigeria.
 
-***Noted, not assessed***. None held. Nigeria's joining of a global cross-border privacy forum is [reported by Vanguard](<https://www.vanguardngr.com/2025/04/nigeria-joins-global-cross-border-privacy-forum/>) in April 2025.
+***Also on file***. None found. Nigeria's joining of a global cross-border privacy forum is [reported by Vanguard](<https://www.vanguardngr.com/2025/04/nigeria-joins-global-cross-border-privacy-forum/>) in April 2025.
 
-***Not held***. Whether the Commission has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad is not known, and nothing held shows how the rule has been applied.
+***Not found***. No source found says whether the Commission has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad, and nothing found shows how the rule has been applied.

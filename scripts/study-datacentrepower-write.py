@@ -8,7 +8,7 @@ r"""study-datacentrepower-write.py — the data-centre power study's summaries, 
 does it. **Nothing is composed here that a fact does not state**: each paragraph is the
 drafters' own fact sentences, each linked whole to its evidence row's `url`, the rows that set
 the stage first, then the rest newest first while the paragraph stays inside its room. Systems
-named and not staged go in *Noted, not assessed*.
+named and not staged go in *Also on file*.
 
 Writes, per country, `outputs/maturity/datacentrepower/{ISO3}.md` and
 `maturity/datacentrepower/evidence/{ISO3}/short.json`. Run it after the ladder script.
@@ -25,6 +25,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import maturity_words  # noqa: E402
 import study_lib  # noqa: E402
 
 STUDY = "datacentrepower"
@@ -41,9 +42,9 @@ RESTS = {
     "5": "These place a data centre on a secured supply, with power set aside for data centres.",
     "4": "These place a data centre on a secured supply, with power set aside for data centres.",
     "3": "These place a data centre on a secured supply, with power set aside for data centres.",
-    "2": "These place a data centre on a secured supply. No source held says power is set aside for data centres.",
+    "2": "These place a data centre on a secured supply. No source found says power is set aside for data centres.",
     "1": "A dated statement that a data centre went short of power or water sets the lowest stage, "
-         "and no source held places one on a secured supply.",
+         "and no source found places one on a secured supply.",
 }
 SHORT = {
     "5": "A data centre on secured power by {y}, with a PUE of 1.6 or less and its water use published.",
@@ -111,10 +112,10 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         mine = lambda rs: [i for i in src if i in {r["row_id"] for r in rs}]  # noqa: E731
         body = sentences(of("supply"), mine(of("supply")), SUPPLY_ROOM)
         pu = sentences(of("pue"), mine(of("pue")), PUE_ROOM) or \
-            [f"No source held from the past three years states a PUE of 1.6 or less for "
+            [f"No source found from the past three years states a PUE of 1.6 or less for "
              f"{link(top['url'], top['system'].strip())} or any other data centre in service."]
         wa = sentences(of("water"), mine(of("water")), WATER_ROOM) or \
-            [f"No source held from the past three years states the water use of "
+            [f"No source found from the past three years states the water use of "
              f"{link(top['url'], top['system'].strip())} or any other data centre in service, "
              f"or cooling that uses none."]
         parts += [f"**{supply_name}.** " + " ".join(body + [RESTS[cell["stage"]]]), "",
@@ -124,15 +125,15 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
     elif cell["stage"] == "unplaced":
         short = "No data centre is known to have a secured power supply, so no stage is set."
     else:
-        short = "Nothing held says how data centres get power or water, so no stage is set."
-    parts += ["***Noted, not assessed***. " + ("; ".join(noted) + "." if noted else "None held."), "",
-              "***Not held***. " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
+        short = "Nothing found says how data centres get power or water, so no stage is set."
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+              maturity_words.NOT_FOUND_LABEL + ". " + (cell["gaps"] or "Nothing further is asked of this indicator."), ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
         with open(os.path.join(out_dir, iso + ".md"), "w", encoding="utf-8", newline="\n") as fh:
-            fh.write("\n".join(parts))
+            fh.write(maturity_words.rewrite("\n".join(parts)))
         with open(os.path.join(folder, "short.json"), "w", encoding="utf-8", newline="\n") as fh:
-            json.dump({SUB: short}, fh, ensure_ascii=False, indent=1)
+            json.dump({SUB: maturity_words.rewrite(short)}, fh, ensure_ascii=False, indent=1)
             fh.write("\n")
     return cell["stage"]
 

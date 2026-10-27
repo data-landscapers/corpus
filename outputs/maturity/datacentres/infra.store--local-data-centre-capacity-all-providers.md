@@ -275,102 +275,102 @@ A data centre for hire at Tier III or above in service by 2019; no second one he
 
 ### Benin: 2 Nascent
 
-A data centre for hire in service by 2026, none held at Tier III or above.
+A data centre for hire in service by 2026, none found at Tier III or above.
 
 - An ASIN official says Benin has several data centres, including one operated commercially by the Société béninoise des infrastructures numériques (SBIN); the article gives no opening date and is dated 2026-04-14 ([source, 2026-04](https://cio-mag.com/souverainete-et-cloud-le-benin-face-aux-enjeux-de-lhebergement-des-donnees/)).
 
 ### Burundi: 2 Nascent
 
-A data centre for hire in service by 2020, none held at Tier III or above.
+A data centre for hire in service by 2020, none found at Tier III or above.
 
 - The World Bank reports that Burundi Backbone System (BBS) has one level-3 data center, built at a cost of USD 2 million, which it uses to offer hosting to customers and which other public agencies use to back up their systems; the report gives no opening date, so as_of is the report's 2020 publication date ([source, 2020](https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf)).
 
 ### Chad: 2 Nascent
 
-A data centre for hire in service by 2016, none held at Tier III or above.
+A data centre for hire in service by 2016, none found at Tier III or above.
 
 - Millicom announced the launch of its new 126-rack data centre in N'Djamena for Tigo Chad, with close to 1 MW total power load, serving B2B customers; as_of is the article date as no opening date is given ([source, 2016-06-27](https://innovation-village.com/millicom-reveals-data-centre-plans-chad-senegal/)).
 
 ### Comoros: 2 Nascent
 
-A data centre for hire in service by 2026, none held at Tier III or above.
+A data centre for hire in service by 2026, none found at Tier III or above.
 
 - Comores Câbles states that its data centre offers secure, scalable data-management and hosting solutions to businesses of all sizes (99.9% availability, 10 Gbps data centre bandwidth); the same page says a separate neutral data centre is still under construction. Undated page, dated by proxy to 2026 ([source, 2026](https://www.comorescables.km/Technologies)).
 
 ### Equatorial Guinea: 2 Nascent
 
-A data centre for hire in service by 2025, none held at Tier III or above.
+A data centre for hire in service by 2025, none found at Tier III or above.
 
 - Data centres dataset: Sipopo Datacenter (GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)), colocation/carrier-neutral, in service; this document names it (published 2025-07-01) ([source, 2025-07-01](https://gitge.com/wp-content/uploads/2025/07/PRESENTACION-6.pdf)).
 
 ### Eritrea: 2 Nascent
 
-A data centre for hire in service by 2026, none held at Tier III or above.
+A data centre for hire in service by 2026, none found at Tier III or above.
 
 - Eritel Telecom Corporation's own service page offers paid Eritel Nextcloud private-cloud subscriptions (Silver, Gold and Platinum tiers, 100 to 500 GB, with monthly charges in nakfa and a 90% uptime SLA) that it says are completely hosted in Eritel's Datacenters, so an operator data centre in Eritrea is selling hosting to outside customers; the page names no individual facility and gives no date, so as_of is the page's published date 2026-08-31 ([source, 2026-08-31](https://eritel.com.er/contents.php?id=1046)).
 
 ### Gambia: 2 Nascent
 
-A data centre for hire in service by 2026, none held at Tier III or above.
+A data centre for hire in service by 2026, none found at Tier III or above.
 
 - GAMTEL's service page says businesses and ISPs can rent space at any of its 43 sites to co-locate servers and networking hardware, with listed monthly floor-space and energy prices ([source, 2026-10-16](https://gamtel.gm/co-location-facility-rental-services/)).
 
 ### Lesotho: 2 Nascent
 
-A data centre for hire in service by 2026, none held at Tier III or above.
+A data centre for hire in service by 2026, none found at Tier III or above.
 
 - Vodacom Lesotho's business page offers colocation in purpose-built data centres across the country and says its One Connect service is hosted in its two data centres at Maseru West and Lekokoaneng; the page gives no date, so as_of is its published date (2026-08-29) ([source, 2026-08-29](https://www.vodacom.co.ls/business/fixed-solutions/)).
 
 ### Liberia: 2 Nascent
 
-A data centre for hire in service by 2026, none held at Tier III or above.
+A data centre for hire in service by 2026, none found at Tier III or above.
 
 - Data centres dataset: LTC Mobile National Data Centre (Liberia Telecommunications Corporation (LTC Mobile)), colocation/carrier-neutral, in service; this document names it (published 2026-03-01) ([source, 2026-03-01](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf)).
 
 ### Madagascar: 2 Nascent
 
-A data centre for hire in service by 2025, none held at Tier III or above.
+A data centre for hire in service by 2025, none found at Tier III or above.
 
 - STELLARIX offers colocation (1U to full 42U racks, carrier-neutral, Smart Hands) from two data centres in Antananarivo, Galaxy Andraharo and Analakely, advertised at 99.982% availability; the page has no publication date, so as_of is the capture date 2025-12-11 ([source, 2025-12-11](https://www.stellar-ix.com/solutions/colocation/housing/)).
 
 ### Rwanda: 2 Nascent
 
-A data centre for hire in service by 2025, none held at Tier III or above.
+A data centre for hire in service by 2025, none found at Tier III or above.
 
 - Xalam Analytics estimates about 4 live commercial data centre facilities in Rwanda in 2025, with about 1MW live IT load and about 70% occupancy by third-party customers; facilities are small (20-80 racks) and mostly hybrid, leasing excess capacity to external customers; none are named ([source, 2025](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Rwanda-2026.pdf)).
 
 ### Somalia: 2 Nascent
 
-A data centre for hire in service by 2026, none held at Tier III or above.
+A data centre for hire in service by 2026, none found at Tier III or above.
 
 - Dalkom Somalia says it offers colocation hosting to business customers from its own data centres in Mogadishu and Nairobi ([source, 2026-10-16](https://www.dalkomsomalia.com/managed-national.php?id=187)).
 
 ### South Sudan: 2 Nascent
 
-A data centre for hire in service by 2026, none held at Tier III or above.
+A data centre for hire in service by 2026, none found at Tier III or above.
 
 - Trinity Technologies Limited operates a Tier 2 datacentre in Hai Malakal, Juba, offering colocation and hosting to business customers; the page is undated, so the 2026-08-29 publication date is used ([source, 2026-08-29](https://trinitytechnologies.tech/about.html)).
 
 ### Central African Republic: No evidence
 
-Nothing held says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
+Nothing found says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
 
-Not established: Nothing held names a data centre for hire, or says there is none.
+Not established: Nothing found names a data centre for hire, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
+Nothing found says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
 
-Not established: Nothing held names a data centre for hire, or says there is none.
+Not established: Nothing found names a data centre for hire, or says there is none.
 
 ### Niger: No evidence
 
-Nothing held says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
+Nothing found says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
 
-Not established: Nothing held names a data centre for hire, or says there is none.
+Not established: Nothing found names a data centre for hire, or says there is none.
 
 ### Sao Tome and Principe: No evidence
 
-Nothing held says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
+Nothing found says a data centre in the country rents space or computing to others, or that none does, so no stage is set.
 
-Not established: Nothing held names a data centre for hire, or says there is none.
+Not established: Nothing found names a data centre for hire, or says there is none.

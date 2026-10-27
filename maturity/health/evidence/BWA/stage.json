@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BWA-002;BWA-024;BWA-025",
-      "gaps": "No admitted source names the level at which facilities' paper reports are keyed: BWA-002 establishes only that entry is not at the facility, and the one row saying district (BWA-003) is from the excluded source. The 100% figure (BWA-025, 2018) counts facilities reporting through DHIS2, not clinics entering their own data, and has no numerator or denominator; tiers and that share are dated 2018-19. Inside the 36 months no plan or finance fact is held, and nothing is held for the last twelve months.",
+      "gaps": "No admitted source names the level at which facilities' paper reports are keyed: BWA-002 establishes only that entry is not at the facility, and the one row saying district (BWA-003) is from the excluded source. The 100% figure (BWA-025, 2018) counts facilities reporting through DHIS2, not clinics entering their own data, and has no numerator or denominator; tiers and that share are dated 2018-19. Inside the 36 months no plan or finance fact has been found, and nothing is held for the last twelve months.",
       "note": "DHIS2 takes reports from all public facilities, but the newest fact (2025) has facilities reporting on paper and onsite capture only recommended. Stage 4 needs entry at the facility by more than half of primary clinics, and no figure for facility entry is published."
     },
     {

@@ -6,6 +6,6 @@
 
 **Certification.** The [bureau's overview](<https://slsb.gov.sl/standards-overview/>) is the only text held on it. It describes the development and publication of standards, and names no scheme for certifying an organisation against a standard on information technology or data and no organisation the bureau has certified. It gives no date for its count of 204 standards.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a national standard on information technology or data.
+***Not found***. No source found names a national standard on information technology or data.

@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is the Act itself. [The Prime Minister placed its passage in 2022](<https://eswatinipositivenews.online/cybersecurity-key-to-national-security-and-growth-pm/>), and [APC's article of 22 July 2024](<https://www.apc.org/en/news/risk-human-rights-infringement-eswatini-rushes-regulate-ict-sector>) lists it among the laws ESCCOM oversees, the regulator named there. In April 2026, [Maziya counted the Act among the country's existing legal groundwork](<https://swazi24.com/44934/news/maziya-opens-push-for-national-data-policy/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No decree, regulation or order made under the law is held.
+***Not found***. No decree, regulation or order made under the law has been found.

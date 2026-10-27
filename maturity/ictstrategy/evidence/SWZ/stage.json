@@ -14,8 +14,8 @@
    "cap": "",
    "flags": "dated",
    "stage_sources": "SWZ-001;SWZ-002",
-   "gaps": "The only period on record (SWZ-003, to 2016) is that of the draft Implementation Plan 2012-2016, which under the step 5 ruling is not the policy's, so the policy is read as open; instruments.csv gives period_end 2016, and on that reading the cell would be unplaced and lapsed. No adopted delivery plan, no report against the policy, no body or budget within 36 months and no event in the last twelve months is held.",
-   "note": "National Information and Communication Infrastructure (NICI) Policy: adopted by Cabinet in August 2006 with its text public on gov.sz and no period of its own stated, so it is an open policy and stops at stage 3. Adopted more than ten years before the as-at, hence dated; no reporting is held for stage 4."
+   "gaps": "The only period on record (SWZ-003, to 2016) is that of the draft Implementation Plan 2012-2016, which under the step 5 ruling is not the policy's, so the policy is read as open; instruments.csv gives period_end 2016, and on that reading the cell would be unplaced and lapsed. No adopted delivery plan, no report against the policy, no body or budget within 36 months and no event in the last twelve months has been found.",
+   "note": "National Information and Communication Infrastructure (NICI) Policy: adopted by Cabinet in August 2006 with its text public on gov.sz and no period of its own stated, so it is an open policy and stops at stage 3. Adopted more than ten years before the as-at, hence dated; no reporting has been found for stage 4."
   }
  ]
 }

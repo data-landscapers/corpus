@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** The Personal Data Protection Center assesses the adequacy of the destination before it permits a transfer, as [Shura Law Firm described the procedure on 13 October 2026](<https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/>). Legal 500 describes the Centre's authorisation as [prior to any transfer of personal data out of Egypt](<https://www.legal500.com/guides/hot-topic/strategic-challenges-and-opportunities-in-cross-border-data-transfers-under-egypts-personal-data-protection-regime/?export-pdf=>). The Centre is the authority named for the permit, and the permit applies from the end of the grace period in 2026.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says the Centre has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.
+***Not found***. Nothing found says the Centre has published a list of countries, model contract terms, a permission procedure or guidance on sending data abroad.

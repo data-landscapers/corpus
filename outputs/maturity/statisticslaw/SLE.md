@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held facts are those survey entries. [The entry for the 2024 Annual Agricultural Survey says the Statistics Act of 2002 guarantees the confidentiality of respondents](<https://microdata.statistics.sl/index.php/catalog/16>), and [the 2023 entry says the same](<https://microdata.statistics.sl/index.php/catalog/14/study-description>). They show the Act cited to respondents more than twenty years after it passed. A survey carried out is not counted as the law applied, and the entries name no regulation made under the Act.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held names a decree, regulation or order made under the law.
+***Not found***. No source found names a decree, regulation or order made under the law.

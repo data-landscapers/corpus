@@ -8,6 +8,6 @@
 
 **Private money the government brought into a public digital project.** The nearest held fact is the private one: [a USD 1.5 million (TND 4.7 million) round for the startup Arcube, announced in February 2025 and co-led by 216 CAPITAL](<https://www.webmanagercenter.com/2025/02/18/541011/la-start-up-arcube-annonce-une-levee-de-fonds-de-15-million-de-dollars-co-dirigee-par-216-capital/>). No government project is named in it.
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Only one amount is held from 2024 on, so whether private money came in more than one year is not known.
+***Not found***. Only one amount is held from 2024 on, so no source found says whether private money came in more than one year.

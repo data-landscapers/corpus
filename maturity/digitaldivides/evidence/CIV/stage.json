@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CIV-006",
-      "gaps": "No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate.",
+      "gaps": "No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate.",
       "note": "First pass: counted from the four questions by study-ladder-digitaldivides.py.",
       "as_at": "2026-10-18"
     }

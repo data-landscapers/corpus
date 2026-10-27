@@ -8,6 +8,6 @@
 
 **Platform owned.** [The Ministry of the Interior says the central collection and processing systems were developed by Algerian engineers](<https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

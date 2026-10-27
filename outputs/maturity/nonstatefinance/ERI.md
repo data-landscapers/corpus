@@ -2,6 +2,6 @@
 
 ## Private money for digital businesses
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. Nothing held names private money put into a digital business in the country, or says there is none.
+***Not found***. Nothing found names private money put into a digital business in the country, or says there is none.

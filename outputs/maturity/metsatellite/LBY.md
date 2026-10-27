@@ -6,8 +6,8 @@
 
 **Warnings issued.** [The National Meteorological Centre says it issued and disseminated early warnings to public sectors and the media 48 hours and 72 hours ahead of the two August 2024 episodes, whose assessments drew on satellite images, and updated them more than once](<https://wmo.int/media/news-from-members/parts-of-libya-affected-extreme-weather-lnmc>).
 
-**ISO 9001 certified.** No source held since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<https://wmo.int/media/news-from-members/parts-of-libya-affected-extreme-weather-lnmc>).
+**ISO 9001 certified.** No source found since October 2023 says the weather service holds ISO 9001 certification. The nearest held fact: [the one given above](<https://wmo.int/media/news-from-members/parts-of-libya-affected-extreme-weather-lnmc>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the weather service holds ISO 9001 certification.
+***Not found***. No source found since October 2023 says the weather service holds ISO 9001 certification.

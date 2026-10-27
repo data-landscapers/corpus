@@ -2,6 +2,6 @@
 
 ## National standards for information technology and data
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a national standards body, or says there is none.
+***Not found***. Nothing found names a national standards body, or says there is none.

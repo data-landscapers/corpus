@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "RWA-004;RWA-001",
-      "gaps": "No source held since October 2023 says the register collects beneficial owners.",
-      "note": "Reassessed in the rebuild: the revenue authority's 2026 page says registration with RDB gives a single, unique TIN, which is one number shared with tax; nothing held says the register collects beneficial owners.",
+      "gaps": "No source found since October 2023 says the register collects beneficial owners.",
+      "note": "Reassessed in the rebuild: the revenue authority's 2026 page says registration with RDB gives a single, unique TIN, which is one number shared with tax; nothing found says the register collects beneficial owners.",
       "as_at": "2026-10-23"
     }
   ]

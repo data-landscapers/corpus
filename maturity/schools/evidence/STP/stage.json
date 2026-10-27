@@ -12,7 +12,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "STP-001",
-      "gaps": "The one coverage fact is the July 2016 launch of SIGE's first phase: no level is named, no school is said to be using it and no count is held, and marks online are given as intended. systems.csv shows SIGE later described as a census and, in January 2025, as to be relaunched in a first group of schools; none of that is an evidence row. Owner is held only from 2016, outside the 36 months; plan and finance not stated; nothing in the last twelve months.",
+      "gaps": "The one coverage fact is the July 2016 launch of SIGE's first phase: no level is named, no school is said to be using it and no count has been found, and marks online are given as intended. systems.csv shows SIGE later described as a census and, in January 2025, as to be relaunched in a first group of schools; none of that is an evidence row. Owner is held only from 2016, outside the 36 months; plan and finance not stated; nothing in the last twelve months.",
       "note": "A ministry system with a single enrolment per pupil was launched in 2016, and the source does not say it went past its first phase or name schools using it, so it is read as a pilot. Stage 3 needs it live in some primary schools.",
       "as_at": "2026-10-13"
     }

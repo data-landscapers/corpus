@@ -34,7 +34,7 @@ The norm is the African Union's Digital Transformation Strategy for Africa 2020-
 
 ### Algeria: 3 Established
 
-Algeria adopted its national digital transformation strategy for 2025 to 2030 in May 2025, but costs and results against its targets are not known.
+Algeria adopted its national digital transformation strategy for 2025 to 2030 in May 2025, but no source found reports costs and results against its targets.
 
 *Advancing.*
 
@@ -46,7 +46,7 @@ Algeria adopted its national digital transformation strategy for 2025 to 2030 in
 
 ### Comoros: 3 Established
 
-Comoros adopted a public, costed digital strategy to 2028 in 2018; results against its targets are not known.
+Comoros adopted a public, costed digital strategy to 2028 in 2018; no source found reports results against its targets.
 
 - The digital health strategy says the Government drew up the 'stratégie numérique Comores 2028' in 2018 and refers to its 'adoption' in the same year; it names no adopting act or body ([source, 2018](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/com_comoros_strategie-nationale-de-sant-numerique_2022-2026.pdf)).
 - The strategy's text is public on ANADEN's site, with a baseline year of 2018 and a roadmap running 2018-2028; it prints no publication date and ANADEN dates its drawing-up to December 2018 ([source, 2018-12](https://anaden.org/uploads/media/5e3969272d9f8/strat-comores-numerique-v2-3-compresse.pdf)).
@@ -54,7 +54,7 @@ Comoros adopted a public, costed digital strategy to 2028 in 2018; results again
 
 ### Gambia: 3 Established
 
-The Gambia's Digital Economy Master Plan 2024-2034 is published and reported adopted in 2024; its delivery plan and any progress report are not known.
+The Gambia's Digital Economy Master Plan 2024-2034 is published and reported adopted in 2024; no source found reports its delivery plan and any progress report.
 
 - The document gives the National Digital Economy Master Plan's period as 2024-2034, issued by the Ministry of Communications and Digital Economy, with the plan's PDF published on the ministry's website; no date within the period is given, so 2024 is the document's own published year (a proxy) ([source, 2024](https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf)).
 - The document gives the National Digital Economy Master Plan's period as 2024-2034, issued by the Ministry of Communications and Digital Economy, with the plan's PDF published on the ministry's website; no date within the period is given, so 2024 is the document's own published year (a proxy) ([source, 2024](https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf)).
@@ -62,7 +62,7 @@ The Gambia's Digital Economy Master Plan 2024-2034 is published and reported ado
 
 ### Ghana: 3 Established
 
-Ghana's Digital Economy Policy and Strategy was adopted in 2024 with a 2028 target; whether any progress report exists is not known.
+Ghana's Digital Economy Policy and Strategy was adopted in 2024 with a 2028 target; no source found says whether any progress report exists.
 
 - Digital Policy Alert says the Ministry of Communications and Digitalisation adopted the Digital Economy Policy in October 2024, and its introduction says the government adopted the Digital Economy Policy and Strategy; no adopting act is named ([source, 2024-10](https://digitalpolicyalert.org/digest/dpa-digital-digest-ghana)).
 - The World Bank completion report for GH eTransform Ghana says the Digital Economy Strategy and Policy was approved in April 2024, to be launched by the end of 2024; it does not name the approving body ([source, 2024-04](https://documents1.worldbank.org/curated/en/099122324145517808/txt/BOSIB1971c4e0d0a219e2b1e9f369f20cb7.txt)).
@@ -71,7 +71,7 @@ Ghana's Digital Economy Policy and Strategy was adopted in 2024 with a 2028 targ
 
 ### Guinea: 3 Established
 
-Guinea's 2023-2027 digital strategy is public and costed, with a lead ministry named, but whether any progress report exists is not known.
+Guinea's 2023-2027 digital strategy is public and costed, with a lead ministry named, but no source found says whether any progress report exists.
 
 - The foreword thanks UNDP, the African Development Bank and other partners for their role in the technical workshops and the national workshop to validate the strategy document; the version-1.2 text dated 11 June 2024 names no adopting decree or launch act, and calls itself the strategy of the Transition Government under Prime Minister Bernard Goumou ([source, 2024-06-11](https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf)).
 - The full strategy text, version 1.2 dated 11 June 2024, is published as a PDF on the site of the state digitalisation agency ANDE, issued by the Ministry of Posts, Telecommunications and Digital Economy (MPTEN) with ANDE ([source, 2024-06-11](https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf)).
@@ -79,7 +79,7 @@ Guinea's 2023-2027 digital strategy is public and costed, with a lead ministry n
 
 ### Guinea-Bissau: 3 Established
 
-Guinea-Bissau adopted a 2025-2030 digital transformation strategy by decree in March 2025, with a public text, but any report on results is not known.
+Guinea-Bissau adopted a 2025-2030 digital transformation strategy by decree in March 2025, with a public text, but no source found reports any report on results.
 
 *Advancing.*
 
@@ -91,7 +91,7 @@ Guinea-Bissau adopted a 2025-2030 digital transformation strategy by decree in M
 
 ### Kenya: 3 Established
 
-Kenya published a costed national digital master plan for 2022-2032, but any published report against its targets is not known.
+Kenya published a costed national digital master plan for 2022-2032, but no source found reports any published report against its targets.
 
 - The plan's own text, issued by the Ministry of ICT, Innovation and Youth Affairs with a Cabinet Secretary foreword, says stakeholders jointly developed it and names no adopting act or draft status; read as adopted under the study rule for a published, undrafted government text. Publication date given as 2022-01-01 by the document record ([source, 2022](https://cms.icta.go.ke/sites/default/files/2022-04/Kenya%20Digital%20Masterplan%202022-2032%20Online%20Version.pdf)).
 - The full plan text is published as a PDF on the ICT Authority's official site (cms.icta.go.ke) ([source, 2022](https://cms.icta.go.ke/sites/default/files/2022-04/Kenya%20Digital%20Masterplan%202022-2032%20Online%20Version.pdf)).
@@ -100,7 +100,7 @@ Kenya published a costed national digital master plan for 2022-2032, but any pub
 
 ### Lesotho: 3 Established
 
-Lesotho's digital transformation strategy to 2030 was approved in February 2025 and is published, but its action plan and results are not known.
+Lesotho's digital transformation strategy to 2030 was approved in February 2025 and is published, but no source found reports its action plan and results.
 
 - The finance minister told Parliament on 19 February 2025 that the National Digital Policy and the Digital Transformation Strategy had been approved, without naming an approving act or body or giving a date; the speech's date is used ([source, 2025-02-19](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf)).
 - The World Bank appraisal document of 22 December 2023 says a National Digital Transformation Strategy 'was adopted by the previous administration' to set the key interventions for the country's digital agenda, naming no act or adoption date; the document's date is used ([source, 2023-12-22](https://documents1.worldbank.org/curated/en/099012624174578070/pdf/BOSIB1128fca200361b2de12ad6f80d422e.pdf)).
@@ -109,7 +109,7 @@ Lesotho's digital transformation strategy to 2030 was approved in February 2025 
 
 ### Liberia: 3 Established
 
-Liberia has a National Digital Strategy 2025-2029, adopted per a March 2026 policy, with a costed plan, but results against its targets are not known.
+Liberia has a National Digital Strategy 2025-2029, adopted per a March 2026 policy, with a costed plan, but no source found reports results against its targets.
 
 - The Ministry of Posts and Telecommunications' National Data Governance Policy lists the National Digital Strategy (2025-2029) among the policy instruments Liberia 'has adopted', with a main focus on digital governance and cybersecurity and a Data Marketplace for economic growth; it names no adopting act or date, so the date used is the policy's own (March 2026) ([source, 2026-03](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf)).
 - The document is the strategy's own text, published on the ministry's site (mopt.gov.lr) ([source, 2026-02-03](https://mopt.gov.lr/wp-content/uploads/2025/09/Liberia-National-Digital-Strategy.pdf)).
@@ -118,7 +118,7 @@ Liberia has a National Digital Strategy 2025-2029, adopted per a March 2026 poli
 
 ### Mauritius: 3 Established
 
-Mauritius launched a national digital transformation blueprint for 2025 to 2029 in 2025, and its cost and results against targets are not known.
+No source found reports mauritius launched a national digital transformation blueprint for 2025 to 2029 in 2025, and its cost and results against targets.
 
 - L'Express reports the ministry (MITCI) 'procède aujourd'hui au lancement officiel' of the Digital Transformation Blueprint 2025-2029, a launch presided by the President of the Republic, Dharam Gokhool, with minister Avinash Ramtohul; no cabinet or other adopting act is named ([source, 2025-05-26](https://lexpress.mu/node/545641)).
 - President Dharam Gokhool recalls that 'on 26 May 2025, while launching the Blueprint on Digital transformation' he called the launch of the Digital Transformation Blueprint 2025-2029 a defining moment and a 'bold expression of our national resolve'; no adopting act or other body is named ([source, 2025-05-26](https://president.govmu.org/president/wp-content/uploads/2025/11/29-October-2025-Launch-of-AI-for-All-booklet.pdf)).
@@ -127,7 +127,7 @@ Mauritius launched a national digital transformation blueprint for 2025 to 2029 
 
 ### Mozambique: 3 Established
 
-In 2019 Mozambique approved a national information society plan running to 2028, but its delivery plan and published results are not known.
+In 2019 Mozambique approved a national information society plan running to 2028, but no source found reports its delivery plan and published results.
 
 *Advancing.*
 
@@ -137,7 +137,7 @@ In 2019 Mozambique approved a national information society plan running to 2028,
 
 ### Namibia: 3 Established
 
-Namibia launched its National Digital Strategy 2025-2029 in August 2025 with a public text; any delivery plan or progress report is not known.
+Namibia launched its National Digital Strategy 2025-2029 in August 2025 with a public text; no source found reports any delivery plan or progress report.
 
 - The Namibian reports that the Minister of Information and Communication Technology 'officially launched' the National Digital Strategy (NDS) on Tuesday (5 August 2025, the day before the 6 August report); no Cabinet or other adopting act is named. The NDS is described as a framework for Namibia's holistic digital advancement supporting socio-economic and environmental development, which the minister addressed to youth, entrepreneurs, educators, health workers, farmers and labourers ([source, 2025-08-05](https://www.namibian.com.na/govt-launches-new-digital-emergency-telecommunications-plans/)).
 - NAMPA reports that the Minister of Information and Communication Technology, Emma Theofelus, 'officially launched' the National Digital Strategy (NDS) on Tuesday (5 August 2025, the day before the 6 August report); no Cabinet or other adopting act is named. The NDS is described as a framework for Namibia's holistic digital advancement supporting socio-economic and environmental development through technological innovation ([source, 2025-08-05](https://www.nampa.org/text/22703648)).
@@ -147,7 +147,7 @@ Namibia launched its National Digital Strategy 2025-2029 in August 2025 with a p
 
 ### Nigeria: 3 Established
 
-Nigeria has a ten-year digital economy strategy unveiled in 2019, but results against its targets and its funding are not known.
+Nigeria has a ten-year digital economy strategy unveiled in 2019, but no source found reports results against its targets and its funding.
 
 - The article, citing the Africa Technology Policy Tracker (which it says indexes adopted documents only), says Nigeria has 'enacted' a 2020 National Digital Economy Policy extending through 2030; it names no act or body, and says nothing of the policy's scope beyond its name ([source, 2020](https://eastafricanpolicyobserver.org/commentary/new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia-ictworks/)).
 - The document's own caption records President Buhari 'unveiling' the National Digital Economy Policy and Strategy on 28 November 2019 and its contents list his speech 'launching' it; the President's mandate page says it was 'developed in line with the Presidential directives' and the Minister signs the foreword as a 'National document'. No gazette or Federal Executive Council act is named ([source, 2019-11-28](https://nitda.gov.ng/wp-content/uploads/2020/11/National-Digital-Economy-Policy-and-Strategy2.pdf)).
@@ -157,7 +157,7 @@ Nigeria has a ten-year digital economy strategy unveiled in 2019, but results ag
 
 ### Senegal: 3 Established
 
-Senegal launched its New Deal Technologique for 2025 to 2034 and published the text, but whether results are measured against its targets is not known.
+Senegal launched its New Deal Technologique for 2025 to 2034 and published the text, but no source found says whether results are measured against its targets.
 
 *Advancing.*
 
@@ -167,7 +167,7 @@ Senegal launched its New Deal Technologique for 2025 to 2034 and published the t
 
 ### Sierra Leone: 3 Established
 
-Sierra Leone approved its National Digital Development Policy in 2021 and publishes the text, but who approved it is not known.
+Sierra Leone approved its National Digital Development Policy in 2021 and publishes the text, but no source found says who approved it.
 
 - The article says the National Digital Development Policy (NDDP) was 'approved' in 2021 and aims to position Sierra Leone as an inclusive digital economy and society; it names no approving act or body ([source, 2021](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/)).
 - The policy text is the document hosted on the Ministry of Communication, Technology and Innovation site (mocti.gov.sl), dated 2021 on its cover ([source, 2021](https://mocti.gov.sl/wp-content/uploads/2024/10/S_L_Digital-Development-Policy.pdf)).
@@ -175,7 +175,7 @@ Sierra Leone approved its National Digital Development Policy in 2021 and publis
 
 ### Tanzania: 3 Established
 
-Tanzania's Digital Economy Strategic Framework 2024-2034 was launched in 2024 and is public; its cost and any report on its targets are not known.
+Tanzania's Digital Economy Strategic Framework 2024-2034 was launched in 2024 and is public; no source found reports its cost and any report on its targets.
 
 *Advancing.*
 
@@ -188,7 +188,7 @@ Tanzania's Digital Economy Strategic Framework 2024-2034 was launched in 2024 an
 
 ### Uganda: 3 Established
 
-Uganda published its Vision for a Digital Uganda 2040 in 2022 with a costed plan; any report on progress is not known.
+Uganda published its Vision for a Digital Uganda 2040 in 2022 with a costed plan; no source found reports any report on progress.
 
 - The Ministry of ICT and National Guidance published the Vision for a Digital Uganda 2040 in September 2022 with a foreword by President Museveni; its text says the Vision 'has been put in place' (verb: put in place; no adopting act or cabinet approval of the Vision itself is stated, though it assigns Cabinet the role of approving policies) ([source, 2022-09](https://ict.go.ug/site/documents/digital-vision-uganda-2040.pdf)).
 - The Vision sets a 2040 horizon with targets for 2025, 2030 and 2040, a mid-term evaluation in FY2028/29 and a final evaluation in FY2039/40, so it is inside its stated period; it also calls itself an 'overarching 8-year ICT development framework' and a living document. Text public: yes ([source, 2022-09](https://ict.go.ug/site/documents/digital-vision-uganda-2040.pdf)).
@@ -197,7 +197,7 @@ Uganda published its Vision for a Digital Uganda 2040 in 2022 with a costed plan
 
 ### Zambia: 3 Established
 
-Zambia adopted a public national digital transformation strategy in 2023, running to 2027, with no cost stated; progress against its targets is not known.
+Zambia adopted a public national digital transformation strategy in 2023, running to 2027, with no cost stated; no source found reports progress against its targets.
 
 - The journal study says that in 2023 the National Digital Transformation Strategy, anchored on the National Information and Communication Technology Policy of 2023, 'was adopted'; it names no adopting act or body, and cites Republic of Zambia 2023c for the strategy ([source, 2023](https://doi.org/10.51867/ajernet.7.1.89)).
 - The text is the Strategy itself, hosted on the Ministry of Technology and Science's site, and states the period 2023-2027 (five-year implementation framework, results targets for 2026), which covers its publication date of October 2023. Text public: yes ([source, 2023-10](https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf)).
@@ -214,7 +214,7 @@ Zimbabwe's Smart Zimbabwe 2030 Master Plan was launched in 2024 and runs to 2030
 
 ### Benin: 2 Nascent
 
-Benin has a digital strategy to 2031 in preparation since February 2026, but whether it will be adopted or published is not known.
+Benin has a digital strategy to 2031 in preparation since February 2026, but no source found says whether it will be adopted or published.
 
 *Advancing.*
 
@@ -226,7 +226,7 @@ Benin has a digital strategy to 2031 in preparation since February 2026, but whe
 
 ### Botswana: 2 Nascent
 
-Botswana's cabinet adopted its digital transformation strategy in February 2020, running to 2026, but whether its text is published is not known.
+Botswana's cabinet adopted its digital transformation strategy in February 2020, running to 2026, but no source found says whether its text is published.
 
 *Text unpublished.*
 
@@ -236,7 +236,7 @@ Botswana's cabinet adopted its digital transformation strategy in February 2020,
 
 ### Burkina Faso: 2 Nascent
 
-Burkina Faso adopted a digital economy strategy in 2018, running to 2027, but whether its text is published is not known.
+Burkina Faso adopted a digital economy strategy in 2018, running to 2027, but no source found says whether its text is published.
 
 *Text unpublished.*
 
@@ -246,7 +246,7 @@ Burkina Faso adopted a digital economy strategy in 2018, running to 2027, but wh
 
 ### Burundi: 2 Nascent
 
-Burundi adopted a National Digital Policy in October 2026; its text and period are not known.
+Burundi adopted a National Digital Policy in October 2026; no source found reports its text and period.
 
 *Advancing.*
 
@@ -254,7 +254,7 @@ Burundi adopted a National Digital Policy in October 2026; its text and period a
 
 ### Cameroon: 2 Nascent
 
-Cameroon has a published digital plan adopted in 2016 whose period has ended, and an update in preparation, so progress is not known.
+No source found reports cameroon has a published digital plan adopted in 2016 whose period has ended, and an update in preparation, so progress.
 
 *Lapsed.*
 
@@ -266,7 +266,7 @@ Cameroon has a published digital plan adopted in 2016 whose period has ended, an
 
 ### Cape Verde: 2 Nascent
 
-Cabo Verde approved a digital economy strategy to 2030 in 2024; its public text, plan and reporting are not known.
+Cabo Verde approved a digital economy strategy to 2030 in 2024; no source found reports its public text, plan and reporting.
 
 *Text unpublished.*
 
@@ -275,14 +275,14 @@ Cabo Verde approved a digital economy strategy to 2030 in 2024; its public text,
 
 ### Central African Republic: 2 Nascent
 
-The Central African Republic had a national digital plan in drafting in 2021, for 2020 to 2025, and whether it was adopted is not known.
+The Central African Republic had a national digital plan in drafting in 2021, for 2020 to 2025, and no source found says whether it was adopted.
 
 - A workshop on 10-11 November 2021, opened by the chief of staff of the Ministry of Digital Economy, Posts and Telecommunications, presented the studies for the Plan National Stratégique Centrafrique Digitale 2025; no adoption is stated ([source, 2021-11-10](https://oubanguimedias.com/2021/11/12/centrafrique-restitution-des-etudes-relatives-au-plan-national-strategique-centrafrique-digitale-2025-et-au-snid/)).
 - The document gives the plan's period as 2020-2025 ([source, 2021-11-10](https://oubanguimedias.com/2021/11/12/centrafrique-restitution-des-etudes-relatives-au-plan-national-strategique-centrafrique-digitale-2025-et-au-snid/)).
 
 ### Congo: 2 Nascent
 
-Congo adopted Vision Congo Digital 2025 by decree in 2019; its successor awaits approval, and its action plan and monitoring are not known.
+Congo adopted Vision Congo Digital 2025 by decree in 2019; no source found reports its successor awaits approval, and its action plan and monitoring.
 
 *Lapsed.*
 
@@ -297,7 +297,7 @@ Congo adopted Vision Congo Digital 2025 by decree in 2019; its successor awaits 
 
 ### Cote d'Ivoire: 2 Nascent
 
-Côte d'Ivoire has a published digital strategy for 2021-2025, now past its period, and a 2025 successor whose adoption is not known.
+No source found reports côte d'Ivoire has a published digital strategy for 2021-2025, now past its period, and a 2025 successor whose adoption.
 
 *Lapsed.*
 
@@ -308,7 +308,7 @@ Côte d'Ivoire has a published digital strategy for 2021-2025, now past its peri
 
 ### DR Congo: 2 Nascent
 
-DR Congo adopted a national digital plan in 2019, now past its period, and a 2026 successor whose adoption is not known.
+No source found reports DR Congo adopted a national digital plan in 2019, now past its period, and a 2026 successor whose adoption.
 
 *Lapsed; Advancing.*
 
@@ -321,13 +321,13 @@ DR Congo adopted a national digital plan in 2019, now past its period, and a 202
 
 ### Djibouti: 2 Nascent
 
-Djibouti's cabinet heard a digital economy roadmap in March 2023; whether it was adopted is not known.
+Djibouti's cabinet heard a digital economy roadmap in March 2023; no source found says whether it was adopted.
 
 - The government spokesperson's record of the fourth Council of Ministers session, chaired by President Guelleh, says the minister delegate for the digital economy gave a communication on the 'Djibouti Smart Nation: Feuille de Route pour l'Economie Numérique', built on four pillars (smart administration, digital economy, smart trades, smart civil society) with structuring projects identified; it records no adoption or approval, and the month is the document's published month (the session date is inferred, late March 2023) ([source, 2023-03](https://diplomatie.gouv.dj/Articles/DetailArticles/821)).
 
 ### Egypt: 2 Nascent
 
-Egypt's Digital Egypt strategy, running from 2016, is listed as adopted in 2025, but its text, plan and recent progress are not known.
+Egypt's Digital Egypt strategy, running from 2016, is listed as adopted in 2025, but no source found reports its text, plan and recent progress.
 
 *Text unpublished.*
 
@@ -336,7 +336,7 @@ Egypt's Digital Egypt strategy, running from 2016, is listed as adopted in 2025,
 
 ### Equatorial Guinea: 2 Nascent
 
-Equatorial Guinea's national digital economy strategy was in drafting with World Bank support in September 2026, and its adoption and published text are not known.
+No source found reports equatorial Guinea's national digital economy strategy was in drafting with World Bank support in September 2026, and its adoption and published text.
 
 *Advancing.*
 
@@ -345,7 +345,7 @@ Equatorial Guinea's national digital economy strategy was in drafting with World
 
 ### Ethiopia: 2 Nascent
 
-Ethiopia's Council of Ministers approved Digital Ethiopia 2030, running to 2030, in November 2025, but whether its text is public is not known.
+Ethiopia's Council of Ministers approved Digital Ethiopia 2030, running to 2030, in November 2025, but no source found says whether its text is public.
 
 *Text unpublished; Advancing.*
 
@@ -354,7 +354,7 @@ Ethiopia's Council of Ministers approved Digital Ethiopia 2030, running to 2030,
 
 ### Gabon: 2 Nascent
 
-Gabon's minister presented a national digitalisation strategy in April 2026 after the 2020-2025 plan ended; whether it has been adopted is not known.
+Gabon's minister presented a national digitalisation strategy in April 2026 after the 2020-2025 plan ended; no source found says whether it has been adopted.
 
 *Advancing.*
 
@@ -362,7 +362,7 @@ Gabon's minister presented a national digitalisation strategy in April 2026 afte
 
 ### Libya: 2 Nascent
 
-Libya's Prime Minister approved a government digital transformation strategy in April 2025, to 2030, but its approved text is not known.
+Libya's Prime Minister approved a government digital transformation strategy in April 2025, to 2030, but no source found reports its approved text.
 
 *Text unpublished.*
 
@@ -372,7 +372,7 @@ Libya's Prime Minister approved a government digital transformation strategy in 
 
 ### Madagascar: 2 Nascent
 
-Madagascar has the Plan Stratégique Numérique 2023-2028, presented in 2024 with a USD 800 million estimate, but its adoption and public text are not known.
+Madagascar has the Plan Stratégique Numérique 2023-2028, presented in 2024 with a USD 800 million estimate, but no source found reports its adoption and public text.
 
 *Advancing.*
 
@@ -381,7 +381,7 @@ Madagascar has the Plan Stratégique Numérique 2023-2028, presented in 2024 wit
 
 ### Malawi: 2 Nascent
 
-Malawi has a National Digitalization Policy for 2023 to 2028, approved by Cabinet, but whether its text is public is not known.
+Malawi has a National Digitalization Policy for 2023 to 2028, approved by Cabinet, but no source found says whether its text is public.
 
 *Text unpublished.*
 
@@ -393,14 +393,14 @@ Malawi has a National Digitalization Policy for 2023 to 2028, approved by Cabine
 
 ### Mali: 2 Nascent
 
-Mali has a digital economy policy validated in 2024 with an action plan to 2029, but its adoption is not known.
+Mali has a digital economy policy validated in 2024 with an action plan to 2029, but no source found reports its adoption.
 
 - Le Matin reports that the Ministry of Communication, Digital Economy and Administrative Modernisation, with the Direction nationale de l'Économie numérique, held a workshop on 24 October 2024 to validate the Politique nationale de développement de l'Économie numérique (PNDEN) and its 2025-2029 action plan; adoption is not stated ([source, 2024-10-24](https://www.maliweb.net/societe/avenir-numerique-du-mali-la-politique-nationale-de-developpement-de-leconomie-numerique-validee-3084246.html)).
 - Malijet reports that at the launch of phase III of the African Girls Can Code Initiative on 2 October 2025 the programme was described as anchored in the national policy for the development of the digital economy, whose ambition is to make Mali a digital-technology excellence in West Africa over 2021-2034 with a digitalised administration ([source, 2025-10-02](https://malijet.com/education_et_formation_au_mali/305718-le-mali-lance-la-phase-iii-du-projet--les-filles-africaines-peuv.html)).
 
 ### Mauritania: 2 Nascent
 
-Mauritania approved a costed national digital agenda for 2022 to 2025 that has now ended, and results against its targets are not known.
+No source found reports mauritania approved a costed national digital agenda for 2022 to 2025 that has now ended, and results against its targets.
 
 *Lapsed; Advancing.*
 
@@ -414,7 +414,7 @@ Mauritania approved a costed national digital agenda for 2022 to 2025 that has n
 
 ### Morocco: 2 Nascent
 
-Morocco has Maroc Digital 2030, listed as adopted in 2025, with MAD 11 billion for 2024 to 2026, but a public text is not known.
+Morocco has Maroc Digital 2030, listed as adopted in 2025, with MAD 11 billion for 2024 to 2026, but no source found reports a public text.
 
 *Text unpublished; Advancing.*
 
@@ -423,7 +423,7 @@ Morocco has Maroc Digital 2030, listed as adopted in 2025, with MAD 11 billion f
 
 ### Niger: 2 Nascent
 
-Niger's digital development policy for 2026 to 2035 was validated in March 2026 and awaits an approving decree; its text is not known.
+Niger's digital development policy for 2026 to 2035 was validated in March 2026 and awaits an approving decree; no source found reports its text.
 
 - In a 17 June 2026 television interview the Minister of Communication and New Information Technologies lists, among the coming months' prospects, 'l'adoption du décret portant approbation' of the PNDN 2026-2035 and the PSDN 2026-2030, so the policy is complete and awaiting its approving decree ([source, 2026-06-17](https://www.lesahel.org/entretien-exclusif-sur-la-rtn-le-ministre-m-adji-ali-salatou-edifie-lopinion-nationale-sur-les-actions-de-son-departement-ministeriel/)).
 - The minister names the PNDN as running 2026-2035, alongside a PSDN 2026-2030, in the interview of 17 June 2026 ([source, 2026-06-17](https://www.lesahel.org/entretien-exclusif-sur-la-rtn-le-ministre-m-adji-ali-salatou-edifie-lopinion-nationale-sur-les-actions-de-son-departement-ministeriel/)).
@@ -432,7 +432,7 @@ Niger's digital development policy for 2026 to 2035 was validated in March 2026 
 
 ### Rwanda: 2 Nascent
 
-Rwanda's Smart Rwanda plan, issued in 2015, ended in 2020, and a successor was in preparation in 2023, but its current status is not known.
+Rwanda's Smart Rwanda plan, issued in 2015, ended in 2020, and a successor was in preparation in 2023, but no source found reports its current status.
 
 *Lapsed.*
 
@@ -444,13 +444,13 @@ Rwanda's Smart Rwanda plan, issued in 2015, ended in 2020, and a successor was i
 
 ### Sao Tome and Principe: 2 Nascent
 
-The government of São Tomé and Príncipe had launched a national digital transformation strategy by March 2026; its adoption, text and period are not known.
+The government of São Tomé and Príncipe had launched a national digital transformation strategy by March 2026; no source found reports its adoption, text and period.
 
 - The World Bank program document says the government "has launched" a national digital transformation strategy to expand broadband connectivity, modernise the legal and regulatory framework and invest in digital public infrastructure such as digital IDs and data exchange platforms; it names no adopting act or body, no date and no title, so the as_of is the document's published date ([source, 2026-03-11](https://documents1.worldbank.org/curated/en/099031726142522373/pdf/BOSIB-c542db32-f347-47c2-8615-eddffe81caa8.pdf)).
 
 ### Seychelles: 2 Nascent
 
-Seychelles validated a 2026-2031 digital and AI strategy in July 2026; its adoption and text are not known.
+Seychelles validated a 2026-2031 digital and AI strategy in July 2026; no source found reports its adoption and text.
 
 *Advancing.*
 
@@ -459,7 +459,7 @@ Seychelles validated a 2026-2031 digital and AI strategy in July 2026; its adopt
 
 ### Somalia: 2 Nascent
 
-Somalia launched a Digital Transformation Strategy for 2025 to 2030 after a consultation in October 2025, but whether it was adopted is not known.
+Somalia launched a Digital Transformation Strategy for 2025 to 2030 after a consultation in October 2025, but no source found says whether it was adopted.
 
 - Hiiraan Online reports that the government 'has launched' its Digital Strategy 2025-2030, with the Communications Minister quoted; no adopting act or body (cabinet, head of state) is named, and no event date is given, so as_of is the article's published date, 2025-10-16 ([source, 2025-10-16](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx)).
 - Ecofin reports that the Ministry of Communications and Technology, with the ITU, hosted a two-day national multi-stakeholder consultation on 12-13 October 2025 'to validate' Somalia's Digital Transformation Strategy (2025-2030), reviewing and refining the 'proposed' roadmap; no adoption is reported ([source, 2025-10-12](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support)).
@@ -467,7 +467,7 @@ Somalia launched a Digital Transformation Strategy for 2025 to 2030 after a cons
 
 ### South Africa: 2 Nascent
 
-South Africa has a final draft digital masterplan dated 2021, not public, with its 2020-2025 period ended; its adoption is not known.
+South Africa has a final draft digital masterplan dated 2021, not public, with its 2020-2025 period ended; no source found reports its adoption.
 
 - Economist Impact says South Africa has published numerous draft versions of its national digital strategy, the ICT and Digital Economic Masterplan 2020-2025, but the final iteration is not available for review; the report's survey ran July-August 2022 and the report date, 2023, is used ([source, 2023](https://assets.ctfassets.net/9crgcb5vlu43/X4hhlGuvESvwRgn8tmMeO/660ad2ce4b5894c6d3df3dc953856a5a/ei_report-country_profile-south_africa.pdf)).
 - A footnote in the Economist Impact profile says the plan is not publicly available, and the evaluator marked down South Africa's score for indicator 1.1.1 for that reason ([source, 2023](https://assets.ctfassets.net/9crgcb5vlu43/X4hhlGuvESvwRgn8tmMeO/660ad2ce4b5894c6d3df3dc953856a5a/ei_report-country_profile-south_africa.pdf)).
@@ -478,19 +478,19 @@ South Africa has a final draft digital masterplan dated 2021, not public, with i
 
 ### South Sudan: 2 Nascent
 
-South Sudan was still developing its digital road map and master plan in June 2024; whether it has been adopted is not known.
+South Sudan was still developing its digital road map and master plan in June 2024; no source found says whether it has been adopted.
 
 - The World Bank aide-memoire for the mission of 3-7 June 2024 records that a consulting firm 'has been developing' the South Sudan Digital Development Road Map/Master Plan and supporting the Government to prepare its future digital development strategy, having held private-sector and public-sector consultations on draft recommendations; no adopting act or body is named, and the document does not describe the Road Map's scope, so class is left empty ([source, 2024-06](https://documents1.worldbank.org/curated/en/099082124032516953/txt/P176181189ab9907919b721aee1da24ba45.txt)).
 
 ### Sudan: 2 Nascent
 
-Sudan's digital transformation ministry announced a strategy in 2025, but whether it was adopted or its text published is not known.
+Sudan's digital transformation ministry announced a strategy in 2025, but no source found says whether it was adopted or its text published.
 
 - The Central Bank of Sudan's RFP of 7 April 2026 refers to 'the digital transformation strategy announced by the Digital transformation ministry since 2025'; the verb is 'announced', no act or adopting body is named, and the document does not describe the strategy's scope (as_of is 2025, the year given) ([source, 2025](https://cbos.gov.sd/sites/default/files/National_Instant_Payment_ystem_%28NIPS%29_solution_for_proposals.pdf)).
 
 ### Togo: 2 Nascent
 
-Togo's president said in 2022 the Togo Digital 2025 strategy was adopted, but its text and its 2025 to 2030 successor's progress are not known.
+Togo's president said in 2022 the Togo Digital 2025 strategy was adopted, but no source found reports its text and its 2025 to 2030 successor's progress.
 
 *Lapsed; Text unpublished.*
 
@@ -502,19 +502,19 @@ Togo's president said in 2022 the Togo Digital 2025 strategy was adopted, but it
 
 ### Eritrea: 1 Absent
 
-Eritrea has no national digital transformation strategy, according to a June 2026 legal-status page; whether any is in preparation is not known.
+Eritrea has no national digital transformation strategy, according to a June 2026 legal-status page; no source found says whether any is in preparation.
 
 - Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no national digital transformation strategy, alongside no published national AI strategy ([source, 2026-06-08](https://www.levellers.ai/what-is/ai-regulation-eritrea)).
 
 ### Chad: Unplaced
 
-Chad has a 2020 to 2030 digital transformation strategy, but its adoption and public text are not known, so no stage is set.
+Chad has a 2020 to 2030 digital transformation strategy, but no source found reports its adoption and public text, so no stage is set.
 
 Not established: No row on this instrument says it was approved, adopted, launched or drafted; sources only name it as existing, with period 2020-2030, and text public is not stated, so standing is not established. The World Bank (2023) both cites the strategy and says there is no comprehensive national digital strategy (TCD-003), and recommends adopting 'Chad Digital Strategy Horizon 2030' (TCD-004, drafting), which may be the same document but is a different named instrument. Tchad Connexion 2030 (national development plan and economic strategy) is also held. Needed for stage 3: a source word of adoption and a public text; no reporting row.
 
 ### Tunisia: Unplaced
 
-Tunisia's National Digital Strategy 2021-2025 ended in 2025 and no named successor is held, so no stage is set.
+Tunisia's National Digital Strategy 2021-2025 ended in 2025 and no named successor has been found, so no stage is set.
 
 *Lapsed.*
 
@@ -533,6 +533,6 @@ Not established: evidence.csv holds no row for Angola on the national strategy; 
 
 ### Eswatini: No evidence
 
-Eswatini has a 2024-2028 digital strategy named in sources, but its standing, text and plan are not known, so no stage is set.
+Eswatini has a 2024-2028 digital strategy named in sources, but no source found reports its standing, text and plan, so no stage is set.
 
 Not established: evidence.csv holds no row for this country. systems.csv names an Eswatini Digitalisation Strategy (2024-2028, 'Government in Your Hand') and a Digital Transformation Roadmap in procurement, with no evidence rows setting standing, text, period, plan or reporting.

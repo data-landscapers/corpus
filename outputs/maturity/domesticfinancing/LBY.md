@@ -6,6 +6,6 @@
 
 **A commitment to pay at home, and the act that follows it.** The nearest held fact is the [2025 budget's 1,127,365,400 dinars across 36 digital lines](<https://lawsociety.ly/legislation/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B1%D9%82%D9%85-1-%D9%84%D8%B3%D9%86%D8%A9-2025-%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D9%85/>). The Central Bank's [statement for 2025 gives the authority's line only, with no fund collections](<https://cbl.gov.ly/micifaf/2026/01/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-2025.pdf>).
 
-***Noted, not assessed***. *None held.*
+***Also on file***. *None found.*
 
-***Not held***. The money for digital programmes was no higher in the 2025 budget than in 2024. No fund, levy or assigned tax is held.
+***Not found***. The money for digital programmes was no higher in the 2025 budget than in 2024. No fund, levy or assigned tax has been found.

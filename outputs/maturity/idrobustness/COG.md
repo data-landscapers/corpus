@@ -6,8 +6,8 @@
 
 **Biometric checks.** [The NIU modernised in 2020 (order 5327) captures iris and fingerprints in physical presence, and Minister Christian Yoka frames it as curbing duplicates and fraud (2020, before the three-year window)](<https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu>).
 
-***Noted, not assessed***. [passeport biometrique / titre de voyage de refugie (decret 2020-601)](<https://www.aci.cg/congo-diplomatie-remise-des-passeports-biometriques-aux-refugies/>).
+***Also on file***. [passeport biometrique / titre de voyage de refugie (decret 2020-601)](<https://www.aci.cg/congo-diplomatie-remise-des-passeports-biometriques-aux-refugies/>).
 
-***Not held***. No source held since October 2023 says the system checks people by biometrics.
+***Not found***. No source found since October 2023 says the system checks people by biometrics.

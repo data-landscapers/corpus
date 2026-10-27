@@ -6,6 +6,6 @@
 
 **Means of complying published and rule applied.** [A DIAL expert comment states](<https://dial.global/africas-digital-future-seamless-data-flows/>) that Morocco's 2015 adequacy list, a list of countries personal data may be sent to, did not recognise a single African country. The year is the only date [the comment gives for the list](<https://dial.global/africas-digital-future-seamless-data-flows/>), so a published list of receiving countries is the means of complying that the evidence dates.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.
+***Not found***. No source from the last three years names a country approved to receive data, or an organisation given or refused permission, ordered to comply or penalised for sending data abroad.

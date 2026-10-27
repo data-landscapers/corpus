@@ -8,6 +8,6 @@
 
 **Tied to ID.** [Akech said taxpayers give fingerprint consent at a URA service point so URA devices can pull basic biodata from NIRA servers and verify identity against NIRA's records](<https://nilepost.co.ug/business/374460/linking-nins-to-tax-records-will-tackle-identity-theft-says-ura>). [Biometric Update reported on 22 October 2026 that URA had deployed 80 fingerprint scanners in Kampala and Wakiso for the switch to the NIN as the individual taxpayer number, with a rollout to other offices from 26 October 2026](<https://www.biometricupdate.com/202610/uganda-moves-to-make-national-digital-id-number-its-tax-identifier>). [Cabinet approved use of the NIN as a tax identifier on 31 August 2026, and Musasizi said the NIN and TIN must be interoperable](<https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Firms' tax identifier is to become the URSB registration number; no source held says the TIN is now issued at business registration or used by customs.
+***Not found***. Firms' tax identifier is to become the URSB registration number; no source found says the TIN is now issued at business registration or used by customs.

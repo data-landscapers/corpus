@@ -6,6 +6,6 @@
 
 **In service and carrying another country's traffic.** The DARE1 submarine cable [has been operational since 2021](<https://www.connectingafrica.com/connectivity/dare1-subsea-cable-to-link-kenya-to-south-africa>). It joins Bosaso and Mogadishu in Somalia to Djibouti City and to Mombasa in Kenya. Somalia has two landings on it, one on the northern coast and one at the capital.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.

@@ -9,7 +9,7 @@
    "cap": "",
    "flags": "",
    "stage_sources": "DJI-002",
-   "gaps": "No source held says the backbone reaches every province or region.",
+   "gaps": "No source found says the backbone reaches every province or region.",
    "note": "Counted from the four questions by study-ladder-fibrebackbone.py."
   }
  ]

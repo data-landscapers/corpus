@@ -8,6 +8,6 @@
 
 **Use reported.** [Companies were registering on Télémo in its new phase of use from September 2026, according to the ARMP](<https://armpguinee.org/commande-publique-larmp-la-dgcmp-et-la-banque-mondiale-font-le-point-sur-levolution-telemo/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says government tenders are published or bid online through Télémo, that it runs end to end or is required of all public bodies, or gives a figure for it.
+***Not found***. No source found since October 2023 says government tenders are published or bid online through Télémo, that it runs end to end or is required of all public bodies, or gives a figure for it.

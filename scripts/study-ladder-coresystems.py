@@ -41,11 +41,11 @@ CORE = ("finance", "revenue", "payroll")
 NAMES = {"finance": "financial management system", "revenue": "tax system", "payroll": "payroll"}
 GAPS = {
     "5": "",
-    "4": "No source held says the government has published an enterprise architecture or an "
+    "4": "No source found says the government has published an enterprise architecture or an "
          "inventory of its systems.",
-    "3": "No source held says the financial, tax or payroll system went live on a new or "
+    "3": "No source found says the financial, tax or payroll system went live on a new or "
          "upgraded system since October 2023.",
-    "2": "No source held from 2023 or later says both the tax system and the payroll are in use.",
+    "2": "No source found from 2023 or later says both the tax system and the payroll are in use.",
     "1": "",
 }
 
@@ -94,7 +94,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
                   key=lambda p: p[0], reverse=True)
     if not live:
         return {"stage": "no evidence", "sources": [], "values": {},
-                "gaps": "Nothing held says whether the government's finance, tax or payroll "
+                "gaps": "Nothing found says whether the government's finance, tax or payroll "
                         "systems are in use."}
     three, twelve = study_lib.months_back(as_at, 36), study_lib.months_back(as_at, 12)
     a = {k: answer(live, k, three, twelve) for k in CORE}
@@ -117,16 +117,16 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         fin = a["finance"]
         if fin[0] == "no" and said[fin[1]] == "none":
             return {"stage": "1", "sources": [fin[1]], "values": values, "gaps": ""}
-        gap = ("A source held says the government's financial system is out of action; none says it is back."
+        gap = ("A source found says the government's financial system is out of action; none says it is back."
                if fin[0] == "no" else
-               "No source held from 2023 or later says the government's financial management system is in use.")
+               "No source found from 2023 or later says the government's financial management system is in use.")
         return {"stage": "unplaced", "sources": [], "values": values, "gaps": gap}
     sources = [s for i in range(top, 0, -1) for s in src[i] if s][:3]
     gap = GAPS[str(top + 1)]
     if stop is not None and stop == top:
         k = next(k for k in CORE[top - 1:] if a[k][0] == "no")
-        gap = (f"A source held says the {NAMES[k]} is out of action; none says it is back."
-               if said[a[k][1]] == "down" else f"A source held says the {NAMES[k]} is run largely by hand.")
+        gap = (f"A source found says the {NAMES[k]} is out of action; none says it is back."
+               if said[a[k][1]] == "down" else f"A source found says the {NAMES[k]} is run largely by hand.")
     return {"stage": str(top + 1), "sources": list(dict.fromkeys(sources)), "values": values, "gaps": gap}
 
 

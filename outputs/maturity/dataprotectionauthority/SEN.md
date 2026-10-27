@@ -6,6 +6,6 @@
 
 **Rulings and published figures.** In April 2024 the CDP's plenary session [served a formal notice on SOLID SA, operator of the Kay Voter platform](<https://senego.com/la-plateforme-kay-voter-mise-en-demeure-par-la-cdp-pour-des-sms-non-sollicites-sur-le-report-de-lelection_1688747.html>), and in March 2026 it [ordered a company to uninstall a meeting-room camera](<https://aps.sn/plus-de-300-dossiers-traites-par-la-commission-de-protection-des-donnees-personnelles-au-premier-trimestre-2026-officiel/>). It publishes quarterly figures, including [317 files handled in January to March 2026](<https://aps.sn/plus-de-300-dossiers-traites-par-la-commission-de-protection-des-donnees-personnelles-au-premier-trimestre-2026-officiel/>) and [195 files handled in April to June 2026](<https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html>).
 
-***Noted, not assessed***. [Loi n° 2008-12 du 25 janvier 2008](<https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html>), the data protection law.
+***Also on file***. [Loi n° 2008-12 du 25 janvier 2008](<https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html>), the data protection law.
 
-***Not held***. Nothing further is held on the four questions.
+***Not found***. Nothing further is held on the four questions.

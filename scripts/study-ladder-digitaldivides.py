@@ -18,9 +18,9 @@ import study_first_ladder  # noqa: E402
 
 STUDY = "digitaldivides"
 SUB = "ruralaccess"
-GAPS = {'4': 'No source held since October 2023 gives rural internet use of 80 per cent or more of the urban rate.', '3': 'No source held since October 2023 gives internet use in rural and in urban areas.', '2': 'No source held since October 2023 says: is one delivering, with sites counted.', '1': 'No source held since October 2023 says: is a programme to connect rural areas under way.', '5': ''}
-EMPTY = 'Nothing held says whether rural areas are being connected or how far rural internet use lags urban.'
-UNPLACED = 'Nothing held since October 2023 says whether a programme to connect rural areas is under way.'
+GAPS = {'4': 'No source found since October 2023 gives rural internet use of 80 per cent or more of the urban rate.', '3': 'No source found since October 2023 gives internet use in rural and in urban areas.', '2': 'No source found since October 2023 says: is one delivering, with sites counted.', '1': 'No source found since October 2023 says: is a programme to connect rural areas under way.', '5': ''}
+EMPTY = 'Nothing found says whether rural areas are being connected or how far rural internet use lags urban.'
+UNPLACED = 'Nothing found since October 2023 says whether a programme to connect rural areas is under way.'
 
 if __name__ == "__main__":
     sys.exit(study_first_ladder.run(STUDY, SUB, GAPS, EMPTY, UNPLACED))

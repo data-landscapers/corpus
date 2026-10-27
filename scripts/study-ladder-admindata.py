@@ -43,9 +43,9 @@ SOURCES = ["civil-registration", "education", "health", "customs", "tax", "socia
            "police", "transport", "other"]   # study.json -> aspects, source
 GAPS = {
     "5": "",
-    "4": "No source held shows statistics from three administrative sources, each published twice since October 2023.",
-    "3": "No source held shows statistics from one administrative source published twice since October 2023.",
-    "2": "No source held reports statistics from administrative records published since October 2023.",
+    "4": "No source found shows statistics from three administrative sources, each published twice since October 2023.",
+    "3": "No source found shows statistics from one administrative source published twice since October 2023.",
+    "2": "No source found reports statistics from administrative records published since October 2023.",
     "1": "",
 }
 YEAR = re.compile(r"(?<!\d)((?:19|20)\d{2})(?!\d)")
@@ -88,7 +88,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values]
     if not rows:
         return {"stage": "no evidence", "sources": [], "source": "", "series": "",
-                "gaps": "Nothing held names statistics drawn from administrative records, or says there are none."}
+                "gaps": "Nothing found names statistics drawn from administrative records, or says there are none."}
     pubs, series = {}, {}   # source -> {publication: first row}, source -> first row
     for d, r in live:
         names = [v.strip() for v in r["value"].split(";") if v.strip()]

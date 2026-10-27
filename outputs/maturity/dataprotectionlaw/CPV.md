@@ -12,6 +12,6 @@
 
 **Last twelve months.** In March 2025 the CNPD [held an international conference on personal data protection for its tenth anniversary](<https://expressodasilhas.cv/pais/2025/03/19/presidente-da-cnpd-defende-dialogo-entre-os-ecossistemas-de-governanca-de-dados-para-equilibrar-regulacao-da-ia/96153>), opened by the Prime Minister.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Whether any regulation has been made under the law, and any dated decision, sanction or published count of decisions under it. Nothing dated in the twelve months to 30 September 2026.
+***Not found***. Whether any regulation has been made under the law, and any dated decision, sanction or published count of decisions under it. Nothing dated in the twelve months to 30 September 2026.

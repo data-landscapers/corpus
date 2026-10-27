@@ -6,6 +6,6 @@
 
 **Rules made under the law and the law applied.** The nearest held fact is that briefing. [The report of 16 September 2025 names the National Bureau of Statistics Act 2024 among the documents the Bureau put before the Vice President's office](<https://www.eyeradio.org/statistics-bureau-develops-population-data-collection-tool-ahead-of-2026-elections/>), in a briefing on population data ahead of elections. Neither source gives the date the Act was signed, and neither names a regulation made under it. The Bureau's page is the fuller of the two.
 
-***Noted, not assessed***. [National Strategy for Development of Statistics 2014-2020](<https://nbs.gov.ss/about-us/Strategic_Plan.php>).
+***Also on file***. [National Strategy for Development of Statistics 2014-2020](<https://nbs.gov.ss/about-us/Strategic_Plan.php>).
 
-***Not held***. No source held names a decree, regulation or order made under the law. The Act's own text and its date of signature are not held.
+***Not found***. No source found names a decree, regulation or order made under the law. The Act's own text and its date of signature are not held.

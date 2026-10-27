@@ -114,7 +114,7 @@ The national reporting system runs in all 35 districts (2025), but only 21.4% of
 
 ### Chad: 3 Established
 
-District offices enter health centres' monthly paper reports into the national system (Gavi audit, 2024); how many centres enter their own is not known.
+District offices enter health centres' monthly paper reports into the national system (Gavi audit, 2024); no source found says how many centres enter their own.
 
 *Advancing.*
 
@@ -125,7 +125,7 @@ District offices enter health centres' monthly paper reports into the national s
 
 ### Comoros: 3 Established
 
-The national reporting system reached all 91 public health facilities (WHO, 2025), but it is not known where their reports are entered.
+The national reporting system reached all 91 public health facilities (WHO, 2025), but no source found reports it where their reports are entered.
 
 - DHIS2 states that almost 99 percent of public health facilities already used DHIS2 for health service reporting before the eLMIS project launched in 2024; the share is of all public facilities (the document counts 74 sites), not of primary clinics alone, with no numerator given and no statement of where the reports are keyed ([source, 2024](https://dhis2.org/supply-chain-management-dhis2-open-msupply-comoros/)).
 - WHO Comoros reports DHIS2 extended to 91 public-level health structures in 2025, which it gives as 100% of public-level structures; the figure is of all public structures the system reaches, not of primary clinics alone, and the report does not say whether each structure keys its own reports ([source, 2025](https://afro.who.int/sites/default/files/2026-05/OMS%20Comores%20_%20Rapport%20annuel%20des%20r%C3%A9sultats%202025%20%20PUBLICATION.pdf)).
@@ -190,7 +190,7 @@ Reports are entered at zone and sub-zone offices (2024); no primary clinic is sh
 
 ### Ethiopia: 3 Established
 
-Hospitals and health centres enter their own reports into the national system (2024); it is not known whether health posts do.
+Hospitals and health centres enter their own reports into the national system (2024); no source found reports it whether health posts do.
 
 *Advancing.*
 
@@ -311,7 +311,7 @@ District offices enter paper reports from 1,266 facilities into the national sys
 
 ### Mali: 3 Established
 
-Community and referral health centres and hospitals had routine data in the national system in 2019; how many clinics enter their own is not known.
+Community and referral health centres and hospitals had routine data in the national system in 2019; no source found says how many clinics enter their own.
 
 *Community integrated.*
 
@@ -378,7 +378,7 @@ A 2023 ministry guide has health centres enter their monthly reports into the na
 
 ### Rwanda: 3 Established
 
-Health facilities enter their own reports (audit to 2023), but whether health posts do is not known, so it stays at stage 3.
+Health facilities enter their own reports (audit to 2023), but no source found says whether health posts do, so it stays at stage 3.
 
 *Community integrated.*
 
@@ -556,6 +556,6 @@ Not established: No row gives the tiers reporting digitally or the primary clini
 
 ### Tunisia: No evidence
 
-Nothing held describes routine health reporting; a national health information system was named in 2021 with no sign of use, so no stage is set.
+Nothing found describes routine health reporting; a national health information system was named in 2021 with no sign of use, so no stage is set.
 
-Not established: The country has no evidence row on HMIS: nothing is held on routine aggregate reporting, at any tier. systems.csv names a 'système d'information sanitaire national unifié' being put in place in 2021, unclassified and with no fact behind it.
+Not established: The country has no evidence row on HMIS: nothing has been found on routine aggregate reporting, at any tier. systems.csv names a 'système d'information sanitaire national unifié' being put in place in 2021, unclassified and with no fact behind it.

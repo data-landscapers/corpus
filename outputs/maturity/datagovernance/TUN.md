@@ -6,6 +6,6 @@
 
 **Body named and rules issued.** The strategy is at the draft stage, so the nearest held facts are the workshops themselves. [The workshop of 26 March 2026 was held with the PAGOF programme](<http://www.ogptunisie.gov.tn/?p=6651>), and [the portal lists a further workshop on the final version](<https://data.gov.tn/fr/>). Neither names a council, office or agency to carry the strategy out.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held says a national data policy is adopted and still running.
+***Not found***. No source found says a national data policy is adopted and still running.

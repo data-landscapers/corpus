@@ -8,6 +8,6 @@
 
 **Use reported.** [PPCC executive director Bodger Scott Johnson said in September 2025 that contracts worth US$12,219,000 had been awarded through e-GP](<https://www.thenewdawnliberia.com/liberian-companies-benefit-contracts-valued-over-us12-million/>). [He said in October 2025 that more than US$28 million in contracts had gone to Liberian-owned businesses through it](<https://ppcc.gov.lr/media/press-release/ppcc-and-usaid-spotlight-investment-reforms>). [PPCC reported 127 live processes on e-GP in August 2025](<https://www.ppcc.gov.lr/multimedia/photo-album/ppcc-set-onboard-50-macs-liberias-e-gp-platform>), and [132 procurement transactions in October 2025](<https://www.micat.gov.lr/office/news/newsroom/press-release/overview-public-procurement-and-concessions-commission-ppcc-0>).
 
-***Noted, not assessed***. [instant payment system](<https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1>).
+***Also on file***. [instant payment system](<https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1>).
 
-***Not held***. No figure for the share of government purchasing through e-GP is held.
+***Not found***. No figure for the share of government purchasing through e-GP has been found.

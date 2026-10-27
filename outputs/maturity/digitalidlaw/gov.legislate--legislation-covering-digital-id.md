@@ -118,7 +118,7 @@ Cabo Verde's 2013 law and 2014 decree-law set up an electronic identity card; th
 
 ### Chad: 4 Operating
 
-A 2020 ordinance, ratified by law, sets up a biometric population register and unique national number; rules made since 2023 are not known.
+A 2020 ordinance, ratified by law, sets up a biometric population register and unique national number; no source found reports rules made since 2023.
 
 - UNHCR states that under Ordinance 002/PR/2020 (article 8) the RNBP holds biographic and biometric data and the NNI of everyone on the territory, article 2 obliges every resident or visitor to register, and article 10 makes the NNI unique, unintelligible and non-sequential ([source, 2020-02-14](https://www.refworld.org/sites/default/files/2026-05/tchad_etude_de_cas_inclusion_systeme_didentite_fr_avril_2026.pdf)).
 - UNHCR states that Ordinance 002/PR/2020 of 14 February 2020 on civil status, ratified by Law 006/PR/2020 of 29 May 2020, sets up the integrated population and secure titles system (SIGPTS) run by ANATS, which issues a unique national identification number (NNI) through the national biometric population register (RNBP) ([source, 2020-05-29](https://www.refworld.org/sites/default/files/2026-05/tchad_etude_de_cas_inclusion_systeme_didentite_fr_avril_2026.pdf)).
@@ -257,47 +257,47 @@ Tunisia's organic law of March 2024 provides for a biometric identity card with 
 
 ### Botswana: 3 Established
 
-Botswana's 1986 National Registration Act, amended in 2025, is in force. Whether it provides for a digital identity is not known.
+Botswana's 1986 National Registration Act, amended in 2025, is in force. No source found says whether it provides for a digital identity.
 
 - The Minister of Labour and Home Affairs told Parliament that the National Registration (Amendment) Act, 2025, an Act of Parliament amending the law governing the national identity card (Omang), provides that a passport or driving licence is used as identification while a defaced, lost or expired identity card awaits replacement ([source, 2026-07-29](https://dailynews.gov.bw/news-detail/92439)).
 - The Minister of Labour and Home Affairs said the National Registration (Amendment) Act of 2025 now allows passports and driving licences as valid identification while identity cards (Omang) are being replaced; it is an Act of Parliament amending the national registration law ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90334)).
 
 ### Seychelles: 3 Established
 
-Seychelles' identity cards law, amended in 2023, is in force. Whether it provides for a digital identity is not known.
+Seychelles' identity cards law, amended in 2023, is in force. No source found says whether it provides for a digital identity.
 
 - The Miscellaneous Amendments Act 2023 (Act 22 of 2023, assented 8 November 2023) amends the National Identity Cards Act, Cap. 294, a statute in force, adding a card for non-resident citizens (new section 4A) and new rules on disclosing card information ([source, 2023-11-08](https://www.gazette.sc/sites/default/files/2023-11/Act%2022%20-%202023%20-%20Miscellaneous%20Amendments%20Act%202023.pdf)).
 
 ### South Africa: 3 Established
 
-South Africa's 1997 Identification Act is in force; a replacement bill is due in 2027 or 2028. Whether it covers digital identity is not known.
+South Africa's 1997 Identification Act is in force; a replacement bill is due in 2027 or 2028. No source found says whether it covers digital identity.
 
 - The Department of Transport states that the Identification Act, 1997 (Act No. 68 of 1997) designates Home Affairs as the sole authority maintaining the National Population Register and issuing identification documents, and treats it as current law (document published 2026-10-11, no other date given) ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/government-amend-regulations-prevent-traffic-documents-being-used-identification)).
 - The Citizen reports the Department of Transport saying the Identification Act, 1997 (Act No. 68 of 1997) makes Home Affairs the sole authority to maintain the National Population Register and issue identification documents, and treats it as current law (document published 2026-10-10, no other date given) ([source, 2026-10-10](https://www.citizen.co.za/news/proposed-drivers-licence-rule-changes-to-affect-south-africans-and-foreigners/)).
 
 ### Tanzania: 3 Established
 
-Tanzania's 1986 registration and identification law is in force. Whether it provides for a digital identity is not known.
+Tanzania's 1986 registration and identification law is in force. No source found says whether it provides for a digital identity.
 
 - The Registration and Identification of Persons Act (Cap. 36, originally Act No. 11 of 1986), an Act of Parliament providing for registration of persons and issue of identity cards, is recorded as still in force in the Cap. 36 R.E. 2023 edition, per the Attorney-General's e-Library catalogue record dated 2025-07-01 ([source, 2025-07-01](https://tanzanialaws.com/r/320-registration-and-identification-of-persons-act)).
 - NIDA gives its legal framework as the Registration and Identification Act 1986 (revised edition 2012), with NIDA established in 2008 under instrument GN 122/2008 ([source, 2025-05-01](https://www.id4africa.com/2025/files/PS1-S1-2-Tanzania-final.pdf)).
 
 ### Zambia: 3 Established
 
-Zambia's National Registration Act is in force, with regulations of 2019. Whether it provides for a digital identity is not known.
+Zambia's National Registration Act is in force, with regulations of 2019. No source found says whether it provides for a digital identity.
 
 - The National Registration Regulations, 2019 (Statutory Instrument No. 34 of 2019) are made under section 14 of the National Registration Act (Cap. 126), the Act that provides for the national registration card, with a Chief Registrar and registrars; the document gives no day, so its published date is used, and the Act is an in-force principal act (a statutory instrument of 2019 made under it, revoking S.I. No. 257 of 1965) ([source, 2019-01-01](https://www.zambialaws.com/Zambia2019Pdfsi/SI%2034%20of%202019.pdf)).
 
 ### Zimbabwe: 3 Established
 
-Zimbabwe's 1976 National Registration Act is in force. Whether it provides for a digital identity is not known.
+Zimbabwe's 1976 National Registration Act is in force. No source found says whether it provides for a digital identity.
 
 - Statutory Instrument 10 of 2024, gazetted 30 January 2024, was made by the Minister of Home Affairs and Cultural Heritage under section 11 of the National Registration Act [Chapter 10:17], showing the Act in force ([source, 2024-01-30](https://www.veritaszim.net/sites/veritas_d/files/SI%202024-010%20National%20Registration%20%28Fees%29%20%28Amendment%29%20Regulations%2C%202024%20%28No.%2018%29.pdf)).
 - The National Registration Act [Chapter 10:17], an Act of Parliament commenced 24 September 1976, sets up the Registrar-General of National Registration, a register of residents and identity documents, and the consolidated text is stated as up to date as at 31 December 2016 ([source, 2016-12-31](https://zimlii.org/akn/zw/act/1976/36)).
 
 ### Burkina Faso: 2 Nascent
 
-Burkina Faso's assembly adopted a unique electronic identification bill in October 2024. Whether it has been promulgated is not known.
+Burkina Faso's assembly adopted a unique electronic identification bill in October 2024. No source found says whether it has been promulgated.
 
 - At a WURI awareness workshop on 19 August 2025 the minister for digital transition said a law framing the unique electronic person identifier was adopted the previous year; the article does not say it was promulgated or in force ([source, 2025-08-19](https://www.sidwaya.info/identification-electronique-des-personnes-le-programme-wuri-sensibilise-a-bobo-dioulasso/)).
 - The transitional legislative assembly examined and adopted the bill on unique electronic identification of the natural person on 11 October 2024; the article does not mention promulgation ([source, 2024-10-11](https://burkina24.com/2024/10/11/burkina-faso-la-loi-portant-identification-unique-et-electronique-de-la-personne-physique-adoptee/)).
@@ -330,25 +330,25 @@ Kenya's digital identity system rests on a 2018 executive order and 2020 regulat
 
 ### Madagascar: 2 Nascent
 
-Madagascar's parliament passed an identification law in July 2025 and the constitutional court cleared it. Whether it has been promulgated is not known.
+Madagascar's parliament passed an identification law in July 2025 and the constitutional court cleared it. No source found says whether it has been promulgated.
 
 - The High Constitutional Court ruled on 26 August 2025 that law no. 2025-019 on the identification of natural persons, adopted by the National Assembly on 3 July and the Senate on 4 July 2025, conforms to the Constitution; the President had referred it on 28 July 2025 for review before promulgation, and the decision does not state that it was promulgated ([source, 2025-08-26](https://www.hcc.gov.mg/?p=9621)).
 
 ### Mozambique: 2 Nascent
 
-A civil identification and identity card bill passed first reading in March 2022; whether it became law is not known.
+A civil identification and identity card bill passed first reading in March 2022; no source found says whether it became law.
 
 - Mozambique's Assembly of the Republic approved in first reading, by consensus, on 16 March 2022 the Council of Ministers' bill setting the legal regime for civil identification and the national citizen identity card (Bilhete de Identidade), to replace colonial-era legislation; the item does not say the bill was later promulgated ([source, 2022-03-16](https://www.parlamento.mz/?p=1695)).
 
 ### Niger: 2 Nascent
 
-Niger's cabinet adopted a draft ordinance in April 2026 adding a unique identifier and biometrics to its registers. Whether it was signed is not known.
+Niger's cabinet adopted a draft ordinance in April 2026 adding a unique identifier and biometrics to its registers. No source found says whether it was signed.
 
 - The Council of Ministers of 22 April 2026 adopted a draft ordonnance on the civil status regime of Niger, amending Loi n° 2019-29 of 1 July 2019 to clarify the national civil status register and the national population register and to add biometric parameters and a unique identifier; it is a draft adopted by cabinet, with no promulgation stated ([source, 2026-04-22](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1143-conclusions-du-conseil-des-ministres-du-mercredi-22-avril-2026)).
 
 ### Sao Tome and Principe: 2 Nascent
 
-São Tomé and Príncipe had a new identity law in draft in September 2025. Whether it has been approved is not known.
+São Tomé and Príncipe had a new identity law in draft in September 2025. No source found says whether it has been approved.
 
 - A World Bank mission of 8-12 September 2025 flagged as urgent the review, public consultation, finalisation and approval of the new identity law (the 'aggregated identification document Law'), warning that without approval data collection could be constrained, so it is a drafted law not yet approved ([source, 2025-09](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf)).
 
@@ -360,48 +360,48 @@ Sierra Leone validated a draft civil registration and identification bill in Nov
 
 ### Central African Republic: No evidence
 
-Nothing held names a national identity law or bill for the Central African Republic, or says there is none, so no stage is set.
+Nothing found names a national identity law or bill for the Central African Republic, or says there is none, so no stage is set.
 
-Not established: Nothing held names a national identity law or bill, or says there is none.
+Not established: Nothing found names a national identity law or bill, or says there is none.
 
 ### Egypt: No evidence
 
-Nothing held names a national identity law or bill for Egypt, or says there is none, so no stage is set.
+Nothing found names a national identity law or bill for Egypt, or says there is none, so no stage is set.
 
-Not established: Nothing held names a national identity law or bill, or says there is none.
+Not established: Nothing found names a national identity law or bill, or says there is none.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names a national identity law or bill for Equatorial Guinea, or says there is none, so no stage is set.
+Nothing found names a national identity law or bill for Equatorial Guinea, or says there is none, so no stage is set.
 
-Not established: Nothing held names a national identity law or bill, or says there is none.
+Not established: Nothing found names a national identity law or bill, or says there is none.
 
 ### Eritrea: No evidence
 
-Nothing held names a national identity law or bill for Eritrea, or says there is none, so no stage is set.
+Nothing found names a national identity law or bill for Eritrea, or says there is none, so no stage is set.
 
-Not established: Nothing held names a national identity law or bill, or says there is none.
+Not established: Nothing found names a national identity law or bill, or says there is none.
 
 ### Eswatini: No evidence
 
-Nothing held names a national identity law or bill for Eswatini, or says there is none, so no stage is set.
+Nothing found names a national identity law or bill for Eswatini, or says there is none, so no stage is set.
 
-Not established: Nothing held names a national identity law or bill, or says there is none.
+Not established: Nothing found names a national identity law or bill, or says there is none.
 
 ### Gabon: No evidence
 
-Nothing held names a national identity law or bill for Gabon, or says there is none, so no stage is set.
+Nothing found names a national identity law or bill for Gabon, or says there is none, so no stage is set.
 
-Not established: Nothing held names a national identity law or bill, or says there is none.
+Not established: Nothing found names a national identity law or bill, or says there is none.
 
 ### Gambia: No evidence
 
-Nothing held names a national identity law or bill for The Gambia, or says there is none, so no stage is set.
+Nothing found names a national identity law or bill for The Gambia, or says there is none, so no stage is set.
 
-Not established: Nothing held names a national identity law or bill, or says there is none.
+Not established: Nothing found names a national identity law or bill, or says there is none.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names a national identity law or bill for Guinea-Bissau, or says there is none, so no stage is set.
+Nothing found names a national identity law or bill for Guinea-Bissau, or says there is none, so no stage is set.
 
-Not established: Nothing held names a national identity law or bill, or says there is none.
+Not established: Nothing found names a national identity law or bill, or says there is none.

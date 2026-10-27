@@ -2,6 +2,6 @@
 
 ## Digital policy research
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held says whether local institutions research digital policy.
+***Not found***. Nothing found says whether local institutions research digital policy.

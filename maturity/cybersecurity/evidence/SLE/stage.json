@@ -11,7 +11,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SLE-008;SLE-001",
-      "gaps": "No source held says the country has designated its critical information infrastructure.",
+      "gaps": "No source found says the country has designated its critical information infrastructure.",
       "note": "Rebuild: stage held. NC3's own alerts (July 2024, October 2026) set question 2, in place of a notice by the telecom regulator, which is not the national cyber body.",
       "as_at": "2026-10-27"
     }

@@ -6,8 +6,8 @@
 
 **Between providers.** [Gasy Money users can transfer money to another Gasy Money account, a bank account or Airtel Money, per Newsmada](<https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/>). [BGFIBank Madagasikara's Gasy Money app, presented on a Friday before 22 September 2026, currently allows national money transfers in partnership with the country's mobile phone operators, for bank clients, other banks' clients and people without an account](<https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/>).
 
-**National switch.** No source held since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/>).
+**National switch.** No source found since October 2023 says a national switch connects wallets and bank accounts. The nearest held fact: [the one given above](<https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/>).
 
-***Noted, not assessed***. [My Baobab](<https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/>); [MVola](<https://expression.africa/madagascar-mfs-africa-partners-with-mvola-paving-way-for-financial-inclusion/>).
+***Also on file***. [My Baobab](<https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/>); [MVola](<https://expression.africa/madagascar-mfs-africa-partners-with-mvola-paving-way-for-financial-inclusion/>).
 
-***Not held***. No source held since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.

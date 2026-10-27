@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BFA-004;BFA-005",
-      "gaps": "No source held since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
+      "gaps": "No source found since October 2023 says a mobile ID, ID wallet or signed credential is in service.",
       "note": "FasoSign, launched on 15 September 2026, authenticates signers and is operational on three government systems (BFA-004, BFA-005), staged across services on the rung as worded, as Cameroon's and Mozambique's e-signature systems are; read as one service, it is stage 3.",
       "as_at": "2026-10-23"
     }

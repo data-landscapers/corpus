@@ -153,204 +153,204 @@ In 2025, STEM graduates were 2.37 per cent of tertiary graduates.
 
 ### Benin: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Cape Verde: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Chad: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Congo: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### DR Congo: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Eritrea: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Eswatini: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Lesotho: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Malawi: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Mauritania: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Mozambique: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Namibia: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Niger: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Sudan: Unplaced
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later is held for STEM graduates as a share of tertiary graduates.
+Not established: No figure for 2023 or later has been found for STEM graduates as a share of tertiary graduates.
 
 ### Central African Republic: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Comoros: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Cote d'Ivoire: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Djibouti: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Equatorial Guinea: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Gabon: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Guinea: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Guinea-Bissau: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Liberia: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Libya: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Mali: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Nigeria: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Sao Tome and Principe: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Senegal: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Sierra Leone: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Somalia: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### South Sudan: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Togo: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Uganda: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.
 
 ### Zambia: No evidence
 
-No figure for STEM graduates as a share of tertiary graduates is held for 2023 or later, so no stage is set.
+No figure for STEM graduates as a share of tertiary graduates has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing held gives STEM graduates as a share of tertiary graduates.
+Not established: Nothing found gives STEM graduates as a share of tertiary graduates.

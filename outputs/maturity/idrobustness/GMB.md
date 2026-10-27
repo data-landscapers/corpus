@@ -6,8 +6,8 @@
 
 **Biometric checks.** [The government says the system combines a national identity register with biometric technology to reduce duplicate identities and fraud](<https://foroyaa.net/gambians-welcome-biometric-id-rollout/>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://foroyaa.net/gambians-welcome-biometric-id-rollout/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://foroyaa.net/gambians-welcome-biometric-id-rollout/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

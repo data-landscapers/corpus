@@ -8,6 +8,6 @@
 
 **National switch.** [The Point says BANTABA 2.0 is a national backbone connecting banks, mobile money operators, MFIs, fintechs and PSPs through a single interoperable switch with real-time clearing and settlement, operated by Gamswitch after a pilot](<https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system>). [BANTABA 2.0 connects banks, mobile money operators, microfinance institutions, fintechs and PSPs through a single interoperable switch, live after a pilot, with further institutions to join](<https://www.gamswitch.com/press-release/the-gambia-launches-bantaba-2-0-its-first-real-time-interoperable-payment-system>).
 
-***Noted, not assessed***. [PAPSS](<https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf>).
+***Also on file***. [PAPSS](<https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

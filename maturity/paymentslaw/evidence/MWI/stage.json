@@ -9,8 +9,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MWI-003;MWI-001;MWI-002",
-      "gaps": "No source held says a rule requires mobile money providers and banks to connect to each other or to a switch.",
-      "note": "The Payment Systems Act, 2016 is in force and the Reserve Bank licensed a non-bank fintech under it in September 2026. Nothing held shows a rule requiring providers and banks to connect, which stage 5 needs.",
+      "gaps": "No source found says a rule requires mobile money providers and banks to connect to each other or to a switch.",
+      "note": "The Payment Systems Act, 2016 is in force and the Reserve Bank licensed a non-bank fintech under it in September 2026. Nothing found shows a rule requiring providers and banks to connect, which stage 5 needs.",
       "as_at": "2026-10-18"
     }
   ]

@@ -6,6 +6,6 @@
 
 **Sharing required and the law applied.** The Act says [a public or private body shall avoid collecting information that another body already holds](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf>), and that citizens and businesses are to give the same information only once, to be shared and reused as needed. A body that does not comply with the directions of the authority the Act sets up can be fined up to P500,000. No regulation or order made under the Act is recorded.
 
-***Noted, not assessed***. [Information Gateway](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf>); [Centralised digital platform for accessing public body services](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf>).
+***Also on file***. [Information Gateway](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf>); [Centralised digital platform for accessing public body services](<http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf>).
 
-***Not held***. No regulation, decree or order made under it, and no public body named as exchanging data because it requires them to, dated in the last three years, is held.
+***Not found***. No regulation, decree or order made under it, and no public body named as exchanging data because it requires them to, dated in the last three years, is held.

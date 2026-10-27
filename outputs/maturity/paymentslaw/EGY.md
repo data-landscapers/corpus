@@ -6,6 +6,6 @@
 
 **Non-banks licensed and providers required to connect.** The [rules of 19 June 2025](<https://www.cbe.org.eg/en/news-publications/news/2025/06/19/08/20/psos-and-psps-licensing-rules>) set licensing conditions, minimum capital and financial guarantees for payment institutions, domestic and foreign-based, that provide payment services or operate payment systems for customers in Egypt. Existing payment institutions had twelve months to apply for a licence. No rule is named that requires mobile money providers and banks to connect to each other or to a national switch.
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.

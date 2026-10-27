@@ -247,114 +247,114 @@ A 2026 source says no law or policy addresses digital access for persons with di
 
 ### Botswana: Unplaced
 
-Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
+Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Burundi: Unplaced
 
-Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
+Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Chad: Unplaced
 
-Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
+Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Djibouti: Unplaced
 
-Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
+Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Ethiopia: Unplaced
 
-Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
+Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Sudan: Unplaced
 
-Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
+Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Togo: Unplaced
 
-Nothing held since 2023 names digital accessibility for persons with disabilities, so no stage is set.
+Nothing found since 2023 names digital accessibility for persons with disabilities, so no stage is set.
 
-Not established: Nothing held since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
+Not established: Nothing found since October 2023 says whether information or digital services are being made accessible to persons with disabilities.
 
 ### Angola: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Cape Verde: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Central African Republic: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Congo: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Equatorial Guinea: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Eritrea: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Gabon: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Guinea-Bissau: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Mali: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Mauritania: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Niger: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.
 
 ### Seychelles: No evidence
 
-Nothing held names digital accessibility for persons with disabilities or says there is none, so no stage is set.
+Nothing found names digital accessibility for persons with disabilities or says there is none, so no stage is set.
 
-Not established: Nothing held says whether information and digital services are made accessible to persons with disabilities.
+Not established: Nothing found says whether information and digital services are made accessible to persons with disabilities.

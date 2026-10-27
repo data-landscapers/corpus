@@ -6,8 +6,8 @@
 
 **Several cities.** [Hubs and incubators are named in Douala, Yaounde and Buea (ActivSpaces, SM Ventures), per TechCabal](<https://techcabal.com/2025/07/01/tnw-cameroon-algeria/>).
 
-**Technology park.** No source held since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://techcabal.com/2025/07/01/tnw-cameroon-algeria/>).
+**Technology park.** No source found since October 2023 says a science or technology park is in service with tenants. The nearest held fact: [the one given above](<https://techcabal.com/2025/07/01/tnw-cameroon-algeria/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says a science or technology park is in service with tenants.
+***Not found***. No source found since October 2023 says a science or technology park is in service with tenants.

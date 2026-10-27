@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-003;NGA-001",
-      "gaps": "No source held since October 2023 says every registered birth across the country receives the number.",
+      "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
       "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
       "as_at": "2026-10-18"
     }

@@ -2,6 +2,6 @@
 
 ## B2B and B2G functionality
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names a government e-procurement system, or says there is none.
+***Not found***. Nothing found names a government e-procurement system, or says there is none.

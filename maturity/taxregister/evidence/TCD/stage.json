@@ -10,8 +10,8 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TCD-002;TCD-003;TCD-005;TCD-001",
-      "gaps": "No source held since October 2023 says the taxpayer number is the national ID number or checked against it. TCD-004 (January 2025) calls eTax registration a pilot; the newer TCD-002 has the NIF verifiable online.",
-      "note": "The NIF is issued through E-Tax and, per the customs directorate in 2025, is required on every customs declaration, which SYDONIA blocks without one. Nothing held ties it to the national ID, so stage 5 is not met.",
+      "gaps": "No source found since October 2023 says the taxpayer number is the national ID number or checked against it. TCD-004 (January 2025) calls eTax registration a pilot; the newer TCD-002 has the NIF verifiable online.",
+      "note": "The NIF is issued through E-Tax and, per the customs directorate in 2025, is required on every customs declaration, which SYDONIA blocks without one. Nothing found ties it to the national ID, so stage 5 is not met.",
       "as_at": "2026-10-27"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "iso3": "COG",
   "cells": [
-    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "COG-002", "gaps": "No regulation made under Law No. 29-2019 is stated in force, and no decision, sanction or count of complaints under the law is held, so stage 4 is not reached. The in-force date is the article's publication date, not a commencement date.", "note": "Law No. 29-2019 is in force (COG-002) but no application fact is held, so the cell stays at stage 3 and not 4. The Commission was constituted in January 2026 (COG-001), so the cap does not apply; Decree 2025-538 appoints members and is not read as regulations."}
+    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "COG-002", "gaps": "No regulation made under Law No. 29-2019 is stated in force, and no decision, sanction or count of complaints under the law has been found, so stage 4 is not reached. The in-force date is the article's publication date, not a commencement date.", "note": "Law No. 29-2019 is in force (COG-002) but no application fact has been found, so the cell stays at stage 3 and not 4. The Commission was constituted in January 2026 (COG-001), so the cap does not apply; Decree 2025-538 appoints members and is not read as regulations."}
   ]
 }

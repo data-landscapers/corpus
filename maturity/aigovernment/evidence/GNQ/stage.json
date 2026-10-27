@@ -10,7 +10,7 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GNQ-001",
-      "gaps": "No source held since October 2023 says AI is in service in two or more government bodies.",
+      "gaps": "No source found since October 2023 says AI is in service in two or more government bodies.",
       "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
       "as_at": "2026-10-18"
     }

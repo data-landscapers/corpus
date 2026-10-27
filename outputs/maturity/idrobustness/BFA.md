@@ -6,8 +6,8 @@
 
 **Biometric checks.** [The ONI system checks for duplicates by fingerprint matching and, since 2009, facial biometrics, to detect identity fraud (2009, before the three-year window)](<https://www.police.gov.bf/index.php/infos-utiles/cnib>).
 
-**Security certified or audited.** No source held since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/>).
+**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held since October 2023 says the system checks people by biometrics.
+***Not found***. No source found since October 2023 says the system checks people by biometrics.

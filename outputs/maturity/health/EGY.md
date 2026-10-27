@@ -12,9 +12,9 @@
 
 **Primary clinics doing the digital input.** The same answers report [a pilot of electronic registration at health-office level in some governorates](<https://www.emro.who.int/images/stories/crvs/documents/egypt.pdf>), the level at which births and deaths are first notified.
 
-***Noted, not assessed***. Trackers: [DHIS2, as part of the national health information system](<https://dhis2.org/egypt-launches-dhis2-in-health-information-system>). Enabling: the Egypt Healthcare Authority's [telemedicine and remote diagnosis](<https://eha.gov.eg/en/news/highlights-transformation/>) and the [telemedicine and telehealth solutions](<https://www.100millionseha.eg/download/1730977238.pdf>) planned in the National Health Strategy 2024-2030.
+***Also on file***. Trackers: [DHIS2, as part of the national health information system](<https://dhis2.org/egypt-launches-dhis2-in-health-information-system>). Enabling: the Egypt Healthcare Authority's [telemedicine and remote diagnosis](<https://eha.gov.eg/en/news/highlights-transformation/>) and the [telemedicine and telehealth solutions](<https://www.100millionseha.eg/download/1730977238.pdf>) planned in the National Health Strategy 2024-2030.
 
-***Not held***. Nothing held shows clinics' routine reports of patients treated entering the system: the one source describes birth and death notifications only, and the latest year it cites is 2011. No tier, clinic share, financing or event in the last twelve months is held.
+***Not found***. Nothing found shows clinics' routine reports of patients treated entering the system: the one source describes birth and death notifications only, and the latest year it cites is 2011. No tier, clinic share, financing or event in the last twelve months has been found.
 
 ## EMR
 
@@ -28,6 +28,6 @@
 
 **Primary clinics doing the digital input.** The government's National Health Compact of 6 December 2025 [describes electronic health records in Egypt as at the stage of early pilots](<https://thedocs.worldbank.org/en/doc/0273f33ab6ee48c5d842108b9b55c789-0140022025/related/HealthCompacts-EGYPT.pdf>).
 
-***Noted, not assessed***. Trackers: [DHIS2, as part of the national health information system](<https://dhis2.org/egypt-launches-dhis2-in-health-information-system>). Enabling: the Egypt Healthcare Authority's [telemedicine and remote diagnosis](<https://eha.gov.eg/en/news/highlights-transformation/>) and the [telemedicine and telehealth solutions](<https://www.100millionseha.eg/download/1730977238.pdf>) planned in the National Health Strategy 2024-2030.
+***Also on file***. Trackers: [DHIS2, as part of the national health information system](<https://dhis2.org/egypt-launches-dhis2-in-health-information-system>). Enabling: the Egypt Healthcare Authority's [telemedicine and remote diagnosis](<https://eha.gov.eg/en/news/highlights-transformation/>) and the [telemedicine and telehealth solutions](<https://www.100millionseha.eg/download/1730977238.pdf>) planned in the National Health Strategy 2024-2030.
 
-***Not held***. No count of hospitals or clinics with a denominator is held, nor the number of governorates the Authority's record covers, and its 2024 statement is not reconciled with the compact's early pilots of 2025. No dated fact after 2019 shows where the record is entered, and the September 2026 proposal carries no timetable.
+***Not found***. No count of hospitals or clinics with a denominator has been found, nor the number of governorates the Authority's record covers, and its 2024 statement is not reconciled with the compact's early pilots of 2025. No dated fact after 2019 shows where the record is entered, and the September 2026 proposal carries no timetable.

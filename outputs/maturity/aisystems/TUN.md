@@ -8,6 +8,6 @@
 
 **Shared with users.** [NVIDIA said in September 2024 that the Novation City DGX system had served about 30 startups, and that the hub gives AI startups and researchers access to it](<https://blogs.nvidia.com/blog/tunisia-ai-innovation-hub/>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No count of users of AI computing later than September 2024 is held.
+***Not found***. No count of users of AI computing later than September 2024 has been found.

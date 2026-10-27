@@ -8,6 +8,6 @@
 
 **Inclusion counted.** [UNHCR states the number of refugees in the camp with access to financial products, including bank accounts, rose from 2,400 in 2022 to 5,600 in 2023](<https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf>).
 
-***Noted, not assessed***. [SIGE-R](<https://reliefweb.int/attachments/a6553726-0803-553f-8c28-d41f409e0d65/UNHCR%20Mauritania_Hodh%20Chargui%20Factsheet%20-%20January%202026%20%281%29.pdf>); [Social Registry](<https://www.worldbank.org/en/news/feature/2024/09/05/afw-transforming-lives-in-mauritania-through-adaptive-social-protection>); [EMIS](<https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf>); [Registre social](<https://www.worldbank.org/en/programs/sahel-adaptive-social-protection-program-trust-fund/country-work/mauritania>).
+***Also on file***. [SIGE-R](<https://reliefweb.int/attachments/a6553726-0803-553f-8c28-d41f409e0d65/UNHCR%20Mauritania_Hodh%20Chargui%20Factsheet%20-%20January%202026%20%281%29.pdf>); [Social Registry](<https://www.worldbank.org/en/news/feature/2024/09/05/afw-transforming-lives-in-mauritania-through-adaptive-social-protection>); [EMIS](<https://reliefweb.int/attachments/f7061047-915e-4e87-a705-a8682c49a725/Mauritania%20Factsheet%20-%20March%202024%20%281%29.pdf>); [Registre social](<https://www.worldbank.org/en/programs/sahel-adaptive-social-protection-program-trust-fund/country-work/mauritania>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

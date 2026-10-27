@@ -2,6 +2,6 @@
 
 ## Interoperability of education systems
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. Nothing held names education systems exchanging data, or says there is none.
+***Not found***. Nothing found names education systems exchanging data, or says there is none.

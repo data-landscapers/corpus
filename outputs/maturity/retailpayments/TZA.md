@@ -8,6 +8,6 @@
 
 **National switch.** [The Tanzania Instant Payment System, a national system, connects 47 financial service providers including for bank-to-wallet transfers, per the report](<https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905>). [In March 2025 more than 1.5 million transactions a day went through TIPS, which the Bank of Tanzania launched in 2019, with over 45 banks, mobile money providers and other institutions taking part](<https://www.codevelop.fund/insights-1/tanzanias-ministry-of-communication-and-information-technology-partners-with-idea-to-launch-jamii-wallet-supported-by-co-develop>).
 
-***Noted, not assessed***. [Zed360](<https://www.thecitizen.co.tz/tanzania/news/national/kcb-rolls-out-digital-school-fees-platform-nationwide-5599424>); [Central Electronic Ticketing System (CeTS)](<https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/>).
+***Also on file***. [Zed360](<https://www.thecitizen.co.tz/tanzania/news/national/kcb-rolls-out-digital-school-fees-platform-nationwide-5599424>); [Central Electronic Ticketing System (CeTS)](<https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/>).
 
-***Not held***. Nothing further is asked of this indicator.
+***Not found***. Nothing further is asked of this indicator.

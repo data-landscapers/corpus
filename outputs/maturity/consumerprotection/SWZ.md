@@ -6,8 +6,8 @@
 
 **Complaints handled.** [The Central Bank of Eswatini says a consumer unsatisfied with a financial institution's response to a complaint can escalate it to the CBE's Ombudsman, and that the Market Conduct and Consumer Protection Unit supervises institutions including mobile money service providers](<https://www.centralbank.org.sz/market-conduct-consumer-protection-unit/>).
 
-**Enforcement reported.** No source held reports enforcement on digital financial services. The complaint figures held cover all financial services, which does not count: [the World Bank FSAP note reports complaint figures from the ombudsman schemes' last annual reports: 40 complaints to the CBE Ombudsman and 84 to the FSRA Ombudsman, up from 59 the year before](<https://documents1.worldbank.org/curated/en/099082525170036534/pdf/P505756-da939ce0-36a3-4072-9fbb-8f90280267ab.pdf>).
+**Enforcement reported.** No source found reports enforcement on digital financial services. The complaint figures held cover all financial services, which does not count: [the World Bank FSAP note reports complaint figures from the ombudsman schemes' last annual reports: 40 complaints to the CBE Ombudsman and 84 to the FSRA Ombudsman, up from 59 the year before](<https://documents1.worldbank.org/curated/en/099082525170036534/pdf/P505756-da939ce0-36a3-4072-9fbb-8f90280267ab.pdf>).
 
-***Noted, not assessed***. None held.
+***Also on file***. None found.
 
-***Not held***. No source held reports a fine, sanction, licence withdrawal or complaint figures for digital financial services.
+***Not found***. No source found reports a fine, sanction, licence withdrawal or complaint figures for digital financial services.
