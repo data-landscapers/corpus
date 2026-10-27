@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-26-com-ceremonie-de-cloture-pagf",
+ "studies": {
+  "customs": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The finance ministry's notice of 26 June 2026 on the close of the AFD- and EU-backed PAGF says the project strengthened the interface between SYDONIA and SIGIT for smoother tax and customs data.",
+       "as_of": "2026-06-25",
+       "date_precision": "day",
+       "system": "SYDONIA",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYDONIA",
+       "country_label": "Comoros",
+       "class": "customs",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landadmin": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

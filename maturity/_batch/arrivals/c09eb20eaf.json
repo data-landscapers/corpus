@@ -1,0 +1,23 @@
+{
+ "slug": "2026-05-01-lby-libyan-customs-launches-electronic-system-to-track-vehicles-at-land-bo",
+ "studies": {
+  "customs": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "vehicle tracking system",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "",
+       "owner": "Customs Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "A vehicle registration and tracking database at land borders is announced; no declaration processing is stated."
+    }
+   }
+  }
+ }
+}

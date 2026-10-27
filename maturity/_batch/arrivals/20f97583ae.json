@@ -1,0 +1,12 @@
+{"slug": "2026-08-26-zwe-five-southern-african-customs-administrations-agree-on-a-roadmap", "studies": {
+"customs": {"countries": {
+"MOZ": {"facts": [], "systems": [], "note": "Mozambique only joined adopting a data exchange roadmap; no system or link in service is stated for it."},
+"ZMB": {"facts": [], "systems": [], "note": "Operational bilateral links with Malawi and Zimbabwe are stated, which are not a system open to a whole regional community."}}},
+"datatransfers": {"countries": {
+"MOZ": {"facts": [], "systems": [], "note": "No rule on sending personal data abroad is mentioned."},
+"ZMB": {"facts": [], "systems": [], "note": "No rule on sending personal data abroad is mentioned."},
+"ZWE": {"facts": [], "systems": [], "note": "No rule on sending personal data abroad is mentioned."}}},
+"regionalinfrastructure": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A customs data exchange roadmap is not a digital link or facility."}}},
+"regionallaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No treaty, ratification or transposing national law is mentioned."}}},
+"regionalpolicy": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The customs roadmap was adopted by customs administrations on customs data exchange, not stated as digital policy."}}}
+}}

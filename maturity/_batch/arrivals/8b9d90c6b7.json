@@ -1,0 +1,126 @@
+{
+ "slug": "2025-03-10-mus-customs-declarations-by-nta-and-registrar-general-tradenet-login-page",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The TradeNet login page of Mauritius Network Services states that personal data is collected and processed in accordance with the Data Protection Act 2017.",
+       "as_of": "2025-03-10",
+       "date_precision": "day",
+       "system": "Data Protection Act 2017",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The TradeNet portal page of Mauritius Network Services says commercial banks are linked to it, enabling electronic payment of duties and taxes, and a 10 March 2025 notice says electronic payment instructions are processed on it.",
+       "as_of": "2025-03-10",
+       "date_precision": "day",
+       "system": "TradeNet",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TradeNet",
+       "country_label": "Mauritius",
+       "class": "revenue",
+       "platform": "",
+       "owner": "Mauritius Network Services Ltd",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

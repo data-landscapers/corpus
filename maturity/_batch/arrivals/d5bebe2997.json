@@ -1,0 +1,14 @@
+{"slug":"2025-01-01-lby-trade-facilitation-and-paperless-trade-in-libya","studies":{
+"authentication":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Only a legal framework for digital authentication is stated, with no service."}}},
+"businesspayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"centralbank":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"consumerprotection":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"crossborderpayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"customs":{"countries":{"LBY":{"facts":[{"sub_indicator":"customs","aspect":"system","value":"none","fact":"The UN Global Survey 2025 records e-submission of customs declarations in Libya as not implemented, and the automated customs system and e-single window as at the planning stage.","as_of":"2025","date_precision":"year","system":"E-Submission of Customs declarations","class":"customs"}],"systems":[{"system":"Automated Customs System","country_label":"Automated Customs System (planning stage)","class":"other","platform":"","owner":"","tiers":""},{"system":"E-Single Window System","country_label":"E-Single Window System (planning stage)","class":"other","platform":"","owner":"","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"paymentsuptake":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"publicconsultation":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Only trade-regulation consultation is rated, not a named digital law or policy."}}},
+"qualitystandards":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"retailpayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"revenuecollection":{"countries":{"LBY":{"facts":[],"systems":[],"note":"E-payment of customs duties is rated do not know."}}}
+}}

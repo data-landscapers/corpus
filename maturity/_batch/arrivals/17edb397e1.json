@@ -1,0 +1,81 @@
+{
+ "slug": "2026-04-01-nam-asycudaworld-upgrade-go-live-date-extension",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Namibia Revenue Agency's notice of 1 April 2026 says the ASYCUDAWorld upgrade to version 4.4.1 has its go-live moved from 1 April to 5 May 2026 for training and stakeholder readiness.",
+       "as_of": "2026-04-01",
+       "date_precision": "day",
+       "system": "ASYCUDAWorld",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDAWorld",
+       "country_label": "Namibia",
+       "class": "customs",
+       "platform": "ASYCUDAWorld 4.4.1",
+       "owner": "Namibia Revenue Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Namibia Revenue Agency's notice of 1 April 2026 says stakeholders can apply for a Taxpayers Identification Number through its ITAS link.",
+       "as_of": "2026-04-01",
+       "date_precision": "day",
+       "system": "ITAS",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ITAS",
+       "country_label": "Namibia",
+       "class": "tax",
+       "platform": "",
+       "owner": "Namibia Revenue Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

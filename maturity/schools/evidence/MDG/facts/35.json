@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-26-mdg-wearetech-mpianatra-school-management-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MPIANATRA",
+   "country_label": "Madagascar",
+   "class": "emis",
+   "platform": "Studio MG",
+   "owner": "Ministry of Digital Development",
+   "tiers": ""
+  }
+ ],
+ "note": "MPIANATRA launched 2026-10-24 but deployment in public schools is still to be studied; no school entry or coverage stated."
+}

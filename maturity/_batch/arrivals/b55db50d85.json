@@ -1,0 +1,14 @@
+{"slug": "2025-01-01-gmb-trade-facilitation-and-paperless-trade-in-gambia", "studies": {
+"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Only a legal framework for digital authentication, rated partially implemented, is stated; no service."}}},
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."}}},
+"centralbank": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No central bank role is mentioned."}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No consumer protection rules are mentioned."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No cross-border payment channel is mentioned."}}},
+"customs": {"countries": {"GMB": {"facts": [{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The UN Global Survey on Digital and Sustainable Trade Facilitation 2025 rates Gambia's Automated Customs System, and e-submission of sea and air cargo manifests, as fully implemented, with e-submission of customs declarations partially implemented.", "as_of": "2025", "date_precision": "year", "system": "Automated Customs System", "class": "customs"}], "systems": [{"system": "Automated Customs System", "country_label": "Gambia", "class": "customs", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No account ownership survey is mentioned."}}},
+"publicconsultation": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Stakeholder consultation on draft trade regulations is rated planning stage, and the rest is not about digital law."}}},
+"qualitystandards": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Only SPS standards bodies are rated, not IT or data standards."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No retail digital payment service is mentioned."}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "E-payment of customs duties is rated not implemented, which is not a statement that duties are paid in cash only."}}}
+}}

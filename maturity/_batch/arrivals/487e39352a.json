@@ -1,0 +1,24 @@
+{"slug":"2024-11-20-xwa-for-better-knowledge-and-understanding-of-the-interconnected-system-fo","studies":{
+"customs":{"countries":{
+"BEN":{"facts":[{"sub_indicator":"customs","aspect":"exchange","value":"exchange","fact":"ECOWAS says Benin was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024.","as_of":"2024-07","date_precision":"month","system":"SIGMAT","class":"customs"}],"systems":[],"note":""},
+"BFA":{"facts":[{"sub_indicator":"customs","aspect":"exchange","value":"exchange","fact":"ECOWAS says Burkina Faso was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024.","as_of":"2024-07","date_precision":"month","system":"SIGMAT","class":"customs"}],"systems":[],"note":""},
+"CIV":{"facts":[{"sub_indicator":"customs","aspect":"exchange","value":"exchange","fact":"ECOWAS says Cote d'Ivoire was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024.","as_of":"2024-07","date_precision":"month","system":"SIGMAT","class":"customs"}],"systems":[],"note":""},
+"CPV":{"facts":[],"systems":[],"note":"Cabo Verde is only to adopt SIGMAT Mobile soon; not yet connected."},
+"GHA":{"facts":[{"sub_indicator":"customs","aspect":"exchange","value":"exchange","fact":"ECOWAS says Ghana was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024.","as_of":"2024-07","date_precision":"month","system":"SIGMAT","class":"customs"}],"systems":[],"note":""},
+"GMB":{"facts":[{"sub_indicator":"customs","aspect":"exchange","value":"exchange","fact":"ECOWAS says SIGMAT, its regional goods-in-transit data exchange system, was deployed to the Gambia's customs system in October 2024.","as_of":"2024-10","date_precision":"month","system":"SIGMAT","class":"customs"}],"systems":[],"note":""},
+"MLI":{"facts":[{"sub_indicator":"customs","aspect":"exchange","value":"exchange","fact":"ECOWAS says Mali was connected to the SIGMAT goods-in-transit data exchange system in July 2024, though it also lists Mali among states preparing to put it into operation.","as_of":"2024-07","date_precision":"month","system":"SIGMAT","class":"customs"}],"systems":[],"note":""},
+"NER":{"facts":[{"sub_indicator":"customs","aspect":"exchange","value":"exchange","fact":"ECOWAS says Niger was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024.","as_of":"2024-07","date_precision":"month","system":"SIGMAT","class":"customs"}],"systems":[],"note":""},
+"SEN":{"facts":[],"systems":[],"note":"Senegal has finished tests and is only preparing to put SIGMAT into operation."},
+"TGO":{"facts":[{"sub_indicator":"customs","aspect":"exchange","value":"exchange","fact":"ECOWAS says Togo was connected to the SIGMAT goods-in-transit data exchange system for its customs administration in July 2024.","as_of":"2024-07","date_precision":"month","system":"SIGMAT","class":"customs"}],"systems":[],"note":""}}},
+"internationalstandards":{"countries":{
+"BEN":{"facts":[],"systems":[],"note":"Not covered."},
+"BFA":{"facts":[],"systems":[],"note":"Not covered."},
+"CIV":{"facts":[],"systems":[],"note":"Not covered."},
+"CPV":{"facts":[],"systems":[],"note":"Not covered."},
+"GHA":{"facts":[],"systems":[],"note":"Not covered."},
+"GMB":{"facts":[],"systems":[],"note":"Not covered."},
+"MLI":{"facts":[],"systems":[],"note":"Not covered."},
+"NER":{"facts":[],"systems":[],"note":"Not covered."},
+"SEN":{"facts":[],"systems":[],"note":"Not covered."},
+"TGO":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

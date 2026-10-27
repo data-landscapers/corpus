@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-26-gab-fonction-publique-5-38-milliards-de-fcfa-pour-accelerer-la-modernisation-en-2027",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The 1.5bn FCFA training allocation is for tuition fees, with no digital-skills programme named."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Syst\u00e8me int\u00e9gr\u00e9 de gestion des ressources humaines (SIGRH)",
+       "country_label": "SIGRH, terms of reference drafted, deployment planned",
+       "class": "other",
+       "platform": "",
+       "owner": "Minist\u00e8re de la Fonction publique",
+       "tiers": ""
+      }
+     ],
+     "note": "The SIGRH integrated HR system has terms of reference and specifications drafted and is to be deployed; a system not in use is not a fact."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Digitising five procedures in 2027 is a target for the civil-service ministry, not a service online."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on health systems."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on health reporting."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on police records."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on school records."
+    }
+   }
+  }
+ }
+}

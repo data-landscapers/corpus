@@ -1,0 +1,22 @@
+{"slug":"2025-09-01-tcd-e-paiement","studies":{
+"authentication":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Only an online-verifiable tax number; no identity authentication service stated."}}},
+"birthidlink":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"businesspayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"centralbank":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Operators are approved by the finance ministry; no central bank role stated."}}},
+"consumerprotection":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"crossborderpayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"customs":{"countries":{"TCD":{"facts":[{"sub_indicator":"customs","aspect":"system","value":"inservice","fact":"Chad's customs directorate says its SYDONIA World system processes declarations, with e-payment of all duties and taxes linked to it since 21 February 2024.","as_of":"2025-09","date_precision":"month","system":"SYDONIA World","class":"customs"}],"systems":[{"system":"SYDONIA World","country_label":"Chad","class":"customs","platform":"SYDONIA World","owner":"DGDDI Tchad","tiers":""}],"note":""}}},
+"egovservices":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Customs agency services only, not a government-wide portal."}}},
+"g2ppayments":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idcoverage":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idfrombirth":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idmaintenance":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idregisters":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Tax number is not stated as the national ID number."}}},
+"idrobustness":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"localrecords":{"countries":{"TCD":{"facts":[],"systems":[],"note":"Not covered."}}},
+"paymentsuptake":{"countries":{"TCD":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"TCD":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"Chad's customs directorate says customs duties can be paid instantly by mobile money through Moov Money, Airtel Money and other approved operators.","as_of":"2025-09","date_precision":"month","system":"Mobile Money (Moov Money, Airtel Money)","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"TCD":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Chad's customs e-payment system, launched 21 February 2024, lets all customs duties and taxes be paid electronically by SYDONIA World tele-payment, bank transfer or mobile money, with an automatic receipt.","as_of":"2024-02-21","date_precision":"day","system":"E-paiement douanier","class":"revenue"}],"systems":[],"note":""}}},
+"taxadmin":{"countries":{"TCD":{"facts":[],"systems":[],"note":"E-Tax is named only as integrated with customs; online filing or payment of taxes not stated."}}},
+"taxregister":{"countries":{"TCD":{"facts":[{"sub_indicator":"taxpayers","aspect":"register","value":"inservice","fact":"Chad's customs directorate says every importer, exporter or agent needs a valid taxpayer number (NIF) that is verifiable online.","as_of":"2025-09","date_precision":"month","system":"NIF","class":"tax"},{"sub_indicator":"taxpayers","aspect":"shared","value":"shared","fact":"Chad's customs directorate says a valid NIF is required for every customs declaration, and SYDONIA blocks declarations without one.","as_of":"2025-09","date_precision":"month","system":"NIF","class":"tax"}],"systems":[],"note":""}}}
+}}

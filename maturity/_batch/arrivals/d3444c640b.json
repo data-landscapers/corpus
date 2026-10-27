@@ -1,0 +1,117 @@
+{
+ "slug": "2025-11-25-nga-thunes-and-momo-psb-bring-real-time-cross-border-payments-to-millions",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Thunes says in a 25 November 2025 press release that MoMo PSB customers in Nigeria can now receive instant inbound remittances from the USA, UK, Canada, France, Australia, Saudi Arabia, Israel and South Africa through Thunes' Direct Global Network.",
+       "as_of": "2025-11-25",
+       "date_precision": "day",
+       "system": "Thunes Direct Global Network (MoMo PSB)",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Thunes says MoMo PSB, MTN's fintech platform, provides millions of Nigerians with digital financial services including payments and wallets, and its users spend received funds on airtime and bill payments.",
+       "as_of": "2025-11-25",
+       "date_precision": "day",
+       "system": "MoMo PSB",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

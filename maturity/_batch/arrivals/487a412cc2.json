@@ -1,0 +1,141 @@
+{
+ "slug": "2024-08-01-uga-accountability-systems-and-compliance",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "payroll",
+       "value": "inuse",
+       "fact": "Uganda's REAP strategy page refers to a current pension and payroll system, whose functional and technical challenges are to be addressed by replacing the underlying application with a Human Capital Management system.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "pension and payroll management system",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IFMS (Oracle and FMSFM)",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "Oracle",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      },
+      {
+       "system": "Human Capital Management (HCM)",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document lists planned reform interventions and states nothing this study asks as delivered."
+    }
+   }
+  }
+ }
+}

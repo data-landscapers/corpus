@@ -1,0 +1,43 @@
+{
+ "slug": "2026-03-31-nga-tola-fakolade-national-single-window-platform-now-fully-operational",
+ "studies": {
+  "customs": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "THISDAY reports the National Single Window went live on 27 March 2026, with import licences, permits and certificates processed through one portal across agencies and cargo manifests transmitted to border systems.",
+       "as_of": "2026-03-27",
+       "date_precision": "day",
+       "system": "National Single Window",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Single Window",
+       "country_label": "Nigeria",
+       "class": "customs",
+       "platform": "",
+       "owner": "National Single Window Project",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

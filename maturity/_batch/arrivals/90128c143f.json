@@ -1,0 +1,89 @@
+{
+ "slug": "2026-03-04-mar-7-2-million-dirhams-for-updating-the-badr-system-and-enhancing-cyberse",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Express TV reports that the BADR system is the backbone of Morocco's digital customs transactions, with an audit begun in January 2025.",
+       "as_of": "2026-03-04",
+       "date_precision": "day",
+       "system": "BADR",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Morocco's customs directorate launched international tender No. 6/2026, about MAD 7.2 million, to carry out the BADR audit recommendations and move it to a cloud-native microservices architecture, with bids opening 16 April 2026.",
+       "as_of": "2026-03-04",
+       "date_precision": "day",
+       "system": "BADR",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BADR",
+       "country_label": "Morocco",
+       "class": "customs",
+       "platform": "",
+       "owner": "Directorate General of Customs and Indirect Taxes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  }
+ }
+}

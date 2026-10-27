@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-26-zaf-itweb-steyn-data-centre-inquiry-king-v",
+ "facts": [],
+ "systems": [
+  {
+   "system": "King Air Industria 170MW data centre",
+   "country_label": "Cape Town 170MW facility",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The 170MW Cape Town facility is approved but under appeal, not in service; no supply, PUE or water figure for a data centre in service."
+}

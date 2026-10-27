@@ -1,0 +1,126 @@
+{
+ "slug": "2024-08-05-lbr-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "BnB and Lonestar Cell MTN MoMo launched outbound mobile money transfers from Liberia to Ivory Coast, Ghana, Sierra Leone, Guinea, Uganda, Rwanda, Mali and Senegal, capped at US$250 per transaction.",
+       "as_of": "2024-08",
+       "date_precision": "month",
+       "system": "MTN MoMo outbound international transfer",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lonestar Cell MTN MoMo",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Lonestar Cell MTN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Lonestar Cell MTN's MoMo is described as a mobile money platform for sending and receiving money and paying bills from phones.",
+       "as_of": "2024-08-05",
+       "date_precision": "day",
+       "system": "Lonestar Cell MTN MoMo",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lonestar Cell MTN MoMo",
+       "country_label": "Liberia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Lonestar Cell MTN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

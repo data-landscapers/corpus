@@ -1,0 +1,10 @@
+{"slug":"2025-05-27-sle-afrimoney-and-bnb-connect-to-promote-cross-border-transactions","studies":{
+"businesspayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Not covered."}}},
+"centralbank":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Only praise for the Bank of Sierra Leone; no payments role stated."}}},
+"consumerprotection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Not covered."}}},
+"crossborderpayments":{"countries":{"SLE":{"facts":[{"sub_indicator":"crossborder","aspect":"corridor","value":"inservice","fact":"Afrimoney and BnB launched an 'Overseas Money' USSD service on 23 May 2025 in Freetown, letting Afrimoney users send money to over ten international destinations and receive BnB remittances into their wallets.","as_of":"2025-05-23","date_precision":"day","system":"Afrimoney Overseas Money (BnB)","class":"crossborder"}],"systems":[{"system":"Afrimoney Overseas Money","country_label":"Sierra Leone","class":"crossborder","platform":"USSD *161#","owner":"Afrimoney with BnB","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Not covered."}}},
+"paymentsuptake":{"countries":{"SLE":{"facts":[],"systems":[],"note":"No survey share stated."}}},
+"retailpayments":{"countries":{"SLE":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"This Day reports that Afrimoney, a mobile money wallet service, has users in Sierra Leone who can now send money abroad by USSD from 23 May 2025.","as_of":"2025-05-23","date_precision":"day","system":"Afrimoney","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"SLE":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

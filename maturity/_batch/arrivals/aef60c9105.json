@@ -1,0 +1,14 @@
+{"slug": "2026-09-25-cmr-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-mo", "studies": {
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on e-procurement is stated."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "BEAC rules letting payment institutions receive money from abroad are mentioned, but no licensing, switch or PAPSS fact is stated."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on consumer protection is stated."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Business in Cameroon reports that Nigerian fintech Grey, in a 7 September 2026 update, opened a corridor sending CFA francs from dollar, euro or pound balances directly to MTN Mobile Money and Orange Money wallets in Cameroon, at $1.80 a transfer and up to CFA400,000.", "as_of": "2026-09-07", "date_precision": "day", "system": "Grey corridor to MTN MoMo and Orange Money", "class": "crossborder"}],
+"systems": [{"system": "Grey corridor to MTN MoMo and Orange Money", "country_label": "Grey", "class": "crossborder", "platform": "", "owner": "Grey (Nigerian fintech)", "tiers": ""}], "note": "The CEMAC-wide 2024 inflow figures are not Cameroon's own, so no reported-figures fact is recorded."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government payments to people is stated."}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only a count of mobile money accounts (30.99 million in 2024), not a survey share of adults."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Business in Cameroon, citing the Bank of Central African States' 2024 payment services report, says Cameroon's mobile money operators had 30.99 million accounts and recorded 2.73 billion transactions worth CFA26.77 trillion in 2024.", "as_of": "2024", "date_precision": "year", "system": "MTN Mobile Money and Orange Money", "class": "retail"}],
+"systems": [{"system": "MTN Mobile Money", "country_label": "MTN MoMo", "class": "retail", "platform": "", "owner": "MTN", "tiers": ""}, {"system": "Orange Money", "country_label": "Orange Money", "class": "retail", "platform": "", "owner": "Orange", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees is stated."}}}
+}}

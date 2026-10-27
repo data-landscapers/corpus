@@ -1,0 +1,254 @@
+{
+ "slug": "2025-08-28-zaf-question-nw4571-to-the-minister-of-public-service-and-administration",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Digital ID appears only as a roadmap priority, not a service."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Integrated HRM ERP solution",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "DPSA",
+       "tiers": ""
+      }
+     ],
+     "note": "National Treasury's 19 November 2024 deviation lets DPSA implement an HRM ERP, not a system in use."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The DPSA reply says it has issued the Public Service Data Governance Framework, giving departments principles, standards and practices for data management.",
+       "as_of": "2025-08-28",
+       "date_precision": "day",
+       "system": "Public Service Data Governance Framework",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Roadmap for the Digital Transformation of Public Services",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "DPSA",
+       "tiers": ""
+      }
+     ],
+     "note": "The roadmap covers public services only, so it is not a national strategy."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "A central national digital services portal is only a roadmap priority."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "framework",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The DPSA reply says it published the Minimum Interoperability Standards (MIOS) to guide departments in achieving system interoperability.",
+       "as_of": "2025-08-28",
+       "date_precision": "day",
+       "system": "Minimum Interoperability Standards (MIOS)",
+       "class": "framework"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "published",
+       "fact": "The DPSA reply says it published the Minimum Interoperability Standards (MIOS) so departments can achieve system interoperability and data exchange.",
+       "as_of": "2025-08-28",
+       "date_precision": "day",
+       "system": "Minimum Interoperability Standards (MIOS)",
+       "class": "standards"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  }
+ }
+}

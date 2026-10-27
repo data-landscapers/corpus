@@ -1,0 +1,11 @@
+{"slug": "2026-10-25-nga-ndpc-privacy-by-design-frontier-ai-regulation", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Regulator's call for privacy-by-design in frontier AI; no AI harm rule, draft or enforcement stated."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"ailaw": {"countries": {"NGA": {"facts": [], "systems": [{"system": "AI Regulatory Sandboxing Platform", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "A planned sandbox is mentioned; no AI law or draft is stated."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"dataprotectionauthority": {"countries": {"NGA": {"facts": [{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Nigeria Data Protection Commission, headed by National Commissioner and CEO Dr Vincent Olatunji, was represented at a frontier AI consultation by an officer of its IT and Cybersecurity Department, per Tech Review Africa.", "as_of": "2026-10-25", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "authority"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Nigeria Data Protection Commission, led by National Commissioner and CEO Dr Vincent Olatunji, is acting under the Nigeria Data Protection Act, 2023, per Tech Review Africa.", "as_of": "2026-10-25", "date_precision": "day", "system": "Nigeria Data Protection Commission", "class": "general"}], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The NDPC only urged ISO/IEC 42001:2023 for a planned sandbox; no adoption, mandate or committee role stated."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Consultation was hosted by NITHUB, University of Lagos and Tech Governance Project, not the government, and names no digital law or policy put to it."}}}
+}}

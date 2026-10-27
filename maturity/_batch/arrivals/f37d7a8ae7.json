@@ -1,0 +1,11 @@
+{"slug": "2025-06-26-zaf-question-nw3686-to-the-minister-of-finance", "studies": {
+"cloudstrategy": {"countries": {"ZAF": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "The National Treasury's reply to a parliamentary question refers to government's Cloud Computing Policy, in line with which it began talks with Oracle on moving its financial system from on-premises to a cloud platform.", "as_of": "2025-06-26", "date_precision": "day", "system": "Cloud Computing Policy", "class": "policy"}], "systems": [], "note": ""}}},
+"coresystems": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Integrated Financial Management System (IFMS)", "country_label": "South Africa", "class": "other", "platform": "Oracle, on-premises", "owner": "National Treasury", "tiers": ""}], "note": "The reply only mentions talks on moving the financial system to cloud and does not state it is in use across central government."}}},
+"educationexchange": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No education system is mentioned."}}},
+"health": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No health system is mentioned."}}},
+"healthexchange": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No health system is mentioned."}}},
+"healthmis": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No health system is mentioned."}}},
+"police": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A fraud case at a police station is mentioned, but no police system."}}},
+"schools": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No school system is mentioned."}}},
+"taxadmin": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No tax administration system is mentioned."}}}
+}}

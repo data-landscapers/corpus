@@ -1,11 +1,23 @@
-{"slug": "2026-07-15-ago-governo-reforca-estrategias-para-o-uso-das-tecnologias", "studies": {
-"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated; only a general remark that regulating need not limit innovation."}}},
-"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No government use of an AI system is stated."}}},
-"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated; a company director only speaks of an opportunity."}}},
-"aistrategy": {"countries": {"AGO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "MINTTICS national director Hecdiantro Mena said at the second National AI Forum that the National Artificial Intelligence Plan is in public consultation and will be the country's main strategic guide on AI.", "as_of": "2026-07-14", "date_precision": "day", "system": "Plano Nacional de Inteligência Artificial", "class": "strategy"}], "systems": [{"system": "Plano Nacional de Inteligência Artificial", "country_label": "Angola", "class": "strategy", "platform": "", "owner": "MINTTICS", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
-"civilserviceskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No training for civil servants is stated."}}},
-"digitalskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Digital literacy is named as a challenge by a forum co-founder; no programme or measured share is stated."}}},
-"eparticipation": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The plan is in public consultation but the document does not say it is online."}}},
-"publicconsultation": {"countries": {"AGO": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "MINTTICS official Hecdiantro Mena said the National Artificial Intelligence Plan, a named AI policy, is in public consultation.", "as_of": "2026-07-14", "date_precision": "day", "system": "Plano Nacional de Inteligência Artificial", "class": "consultation"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-07-15-ago-governo-reforca-estrategias-para-o-uso-das-tecnologias",
+ "studies": {
+  "digitalstrategy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a national AI plan in public consultation, a thematic strategy outside this study."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a national AI plan in public consultation, a thematic strategy outside this study."
+    }
+   }
+  }
+ }
+}

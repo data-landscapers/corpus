@@ -1,0 +1,43 @@
+{
+ "slug": "2025-09-30-gha-trade-minister-engages-stakeholders-on-icums-challenges",
+ "studies": {
+  "customs": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Citi Newsroom reports Ghana's Integrated Customs Management System, introduced in 2020, integrates valuation, classification, risk management and payments in one system, with downtimes the Trade Minister pressed the operator to fix by November 2025.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "ICUMS",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ICUMS",
+       "country_label": "Ghana",
+       "class": "customs",
+       "platform": "",
+       "owner": "Ghana Revenue Authority; operated by Ghana Link",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "2025-07-09-moz-integracao-da-ia-na-janela-unica-eletronica-inovacao-tecnologica-na-ge",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Abstract assesses AI potential for the single window only; no tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question stated."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "The article's abstract examines how Mozambique's Janela Unica Eletronica (single window) works in customs clearance of goods.",
+       "as_of": "2025-07-09",
+       "date_precision": "day",
+       "system": "Janela Unica Eletronica (JUE)",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Janela Unica Eletronica (JUE)",
+       "country_label": "Mocambique",
+       "class": "customs",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

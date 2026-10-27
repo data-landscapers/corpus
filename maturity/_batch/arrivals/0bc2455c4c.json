@@ -1,0 +1,96 @@
+{
+ "slug": "2025-05-23-mwi-ict-projects-running-at-satcp",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "SATCP says the Malawi Revenue Authority is upgrading, testing and piloting ASYCUDA World from version 4.3.3 to 4.4.0, to complete by September 2025, with a scanner integration with ASYCUDA operational.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA World",
+       "country_label": "ASYCUDA World",
+       "class": "customs",
+       "platform": "UNCTAD ASYCUDA World",
+       "owner": "Malawi Revenue Authority",
+       "tiers": ""
+      },
+      {
+       "system": "Malawi National Single Window",
+       "country_label": "Malawi National Single Window",
+       "class": "other",
+       "platform": "Crimson Logic",
+       "owner": "Ministry of Trade and Industry",
+       "tiers": ""
+      }
+     ],
+     "note": "The single window had only a pilot launch on 19 May 2025 and is work in progress; the tripartite customs data exchange is planned from June 2025."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the Malawi Revenue Authority's own disaster recovery data centre is named, not stated as for hire."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the Malawi Revenue Authority's own disaster recovery data centre is named, not stated as for hire."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

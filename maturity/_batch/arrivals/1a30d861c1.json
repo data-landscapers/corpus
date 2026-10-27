@@ -1,0 +1,20 @@
+{"slug": "2025-07-30-syc-opening-remarks-by-ms-caroline-abel-governor-of-the-central-bank-of-se", "studies": {
+"businesspayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on e-procurement is stated."}}},
+"centralbank": {"countries": {"SYC": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "Governor Caroline Abel said Seychelles has achieved full interoperability among banks on its most used payment systems, the Seychelles Electronic Funds Transfer and the Electronic Cheque Clearing systems, under an Act governing the operation and oversight of national payment systems.", "as_of": "2025-07-30", "date_precision": "day", "system": "Seychelles Electronic Funds Transfer", "class": "oversight"},
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "regional", "fact": "Governor Abel said Seychelles processes cross-border payments through the Central Bank on the SADC-RTGS platform, with volumes too limited to bring in the commercial banks.", "as_of": "2025-07-30", "date_precision": "day", "system": "SADC-RTGS", "class": "oversight"}],
+"systems": [{"system": "Seychelles Electronic Funds Transfer", "country_label": "SEFT", "class": "oversight", "platform": "", "owner": "Central Bank of Seychelles", "tiers": ""}, {"system": "SADC-RTGS", "country_label": "SADC-RTGS", "class": "other", "platform": "", "owner": "SADC", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance is stated."}}},
+"crossborderpayments": {"countries": {"SYC": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "Governor Caroline Abel said Seychelles remains active on the SADC-RTGS platform, processing cross-border payments through the Central Bank, though volumes are limited.", "as_of": "2025-07-30", "date_precision": "day", "system": "SADC-RTGS", "class": "crossborder"}],
+"systems": [{"system": "SADC-RTGS", "country_label": "SADC-RTGS", "class": "crossborder", "platform": "", "owner": "SADC", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on government payments to people is stated."}}},
+"idverification": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Only a regional KYC framework is mentioned, not a check against the national ID."}}},
+"internationalstandards": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Only alignment with international standards in general; no standards body membership or named standard."}}},
+"paymentslaw": {"countries": {"SYC": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Governor Caroline Abel said Seychelles has enacted amendments to its main Act governing the operation and oversight of national payment systems and issued Electronic Money Regulations.", "as_of": "2025-07-30", "date_precision": "day", "system": "Electronic Money Regulations", "class": "law"}],
+"systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"SYC": {"facts": [], "systems": [], "note": "No account-holding survey figure is stated."}}},
+"retailpayments": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Interoperability is stated among banks only, and no mobile money service is named."}}},
+"revenuecollection": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees is stated."}}}
+}}

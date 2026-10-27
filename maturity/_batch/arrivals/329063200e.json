@@ -1,0 +1,76 @@
+{
+ "slug": "2026-08-23-sdn-accounts-chamber-ipsas-gifims-isali-states",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "GIFIMS",
+       "country_label": "GIFIMS",
+       "class": "core",
+       "platform": "",
+       "owner": "Accounts Chamber",
+       "tiers": ""
+      },
+      {
+       "system": "Isali",
+       "country_label": "Isali electronic collection",
+       "class": "other",
+       "platform": "",
+       "owner": "Accounts Chamber",
+       "tiers": ""
+      }
+     ],
+     "note": "Source names GIFIMS, Isali and two payroll systems submitted for adoption, none stated in use across central government; payroll computerisation is a plan."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Isali collects public revenue through banks, not stated as a tax authority filing or payment system."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "2026-05-28-gnq-tesoreria-incorpora-acciones-claves-y-nueva-linea-de-la-ventanilla-uni",
+ "studies": {
+  "customs": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Single window is only a budget line in the Treasury's 2027 draft; no system described."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  }
+ }
+}

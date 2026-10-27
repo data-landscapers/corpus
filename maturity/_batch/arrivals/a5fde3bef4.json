@@ -1,0 +1,133 @@
+{
+ "slug": "2025-01-01-com-trade-facilitation-and-paperless-trade-in-comoros",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The UN Global Survey 2025 records the Automated Customs System in Comoros as fully implemented, with e-submission of customs declarations partially implemented.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Automated Customs System",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Automated Customs System",
+       "country_label": "Comoros",
+       "class": "customs",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "No e-single window or cross-border exchange: both recorded as not implemented."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Comoros."
+    }
+   }
+  }
+ }
+}

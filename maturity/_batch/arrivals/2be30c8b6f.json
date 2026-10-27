@@ -1,0 +1,90 @@
+{
+ "slug": "2026-09-08-zaf-no-completion-date-for-sa-s-single-window",
+ "studies": {
+  "customs": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "SARS told Freight News that the National Single Window is being introduced in phases, with an electronic inspection workflow implemented in September 2023 and selected importers in phased testing, and gave no completion date.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "National Single Window",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Single Window",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "SARS said its National Single Window phased rollout lets SARS share electronically generated inspection cases with the BMA agriculture function, which returns outcomes through a secure interface, with selected plant product importers in phased testing.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "National Single Window",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Single Window",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "",
+       "owner": "SARS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no interoperability framework."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no technical standards for government systems."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on police station records."
+    }
+   }
+  }
+ }
+}

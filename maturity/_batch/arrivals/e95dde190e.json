@@ -1,0 +1,167 @@
+{
+ "slug": "2025-09-08-nam-finance-ministry-to-end-payroll-deduction-system-for-civil-servants",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Payroll Deduction Management System (PDMS)",
+       "country_label": "Namibia",
+       "class": "other",
+       "platform": "web-based",
+       "owner": "Avril Payment Solutions",
+       "tiers": ""
+      }
+     ],
+     "note": "PDMS handles voluntary payroll deductions; the document does not state the payroll system itself is in use or down."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers only the end of payroll deductions; it states nothing this study asks."
+    }
+   }
+  }
+ }
+}

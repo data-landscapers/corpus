@@ -1,0 +1,18 @@
+{"slug": "2026-10-26-rwa-connectingafrica-ncsa-airtel-mtn-cyberhub-partnerships", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"civilserviceskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Training is for CyberHub students, not civil servants."}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No consumer protection rule or body stated."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"cybersecurity": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Connecting Africa reports that Rwanda's National Cyber Security Authority (NCSA), led by CEO David Kanamugire, signed partnerships with Airtel Rwanda and an MoU with MTN Rwanda on cybersecurity capacity.", "as_of": "2026-10-26", "date_precision": "day", "system": "National Cyber Security Authority (NCSA)", "class": "response"}
+], "systems": [{"system": "National Cyber Security Authority", "country_label": "NCSA", "class": "response", "platform": "", "owner": "Government of Rwanda", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"RWA": {"facts": [], "systems": [], "note": "CyberHub is described as a centre for cybersecurity and data protection training; no data protection law stated."}}},
+"digitalskills": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Future Path Programme", "country_label": "Airtel Rwanda Future Path Programme", "class": "other", "platform": "", "owner": "Airtel Rwanda", "tiers": ""}], "note": "Skills initiative is a company programme with internships for CyberHub students, with no national public programme or numbers trained stated."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No survey of account holding stated."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Mobile money is named only as an internship department; no service status stated."}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No electronic tax or fee payment stated."}}},
+"startups": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No startup law, strategy or fund stated."}}},
+"techhubs": {"countries": {"RWA": {"facts": [], "systems": [{"system": "CyberHub", "country_label": "CyberHub, University of Rwanda College of Science and Technology", "class": "other", "platform": "", "owner": "University of Rwanda", "tiers": ""}], "note": "CyberHub is a cybersecurity academy and centre of excellence; no startup cohort programme or tenants stated."}}}
+}}

@@ -1,0 +1,18 @@
+{"slug": "2024-06-23-egy-cabinet-mof-epayment-collection-fy23-24", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Supplier payments are stated as a payment service, not an e-procurement system."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank's role."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Egypt's finance minister said electronic payment of state employees' salaries reached EGP 299.4 billion in July 2023 to May 2024, up 24% on the year before, through the Ministry of Finance's government e-payment and collection centre.", "as_of": "2024-05", "date_precision": "month", "system": "Government e-payment and collection centre", "class": "g2p"}
+], "systems": [{"system": "Government e-payment and collection centre", "country_label": "Egypt", "class": "g2p", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Egypt's Cabinet reports citizens paying government dues electronically through the banking-sector 'Citizen Payment' channel, EGP 61.4 billion in July 2023 to May 2024, up 38%.", "as_of": "2024-05", "date_precision": "month", "system": "Citizen Payment", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Egypt's finance minister said the Ministry of Finance's government e-payment and collection centre has taken government payments and collections over several electronic channels since May 2019.", "as_of": "2019-05", "date_precision": "month", "system": "Government e-payment and collection centre", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "main", "value": "main", "fact": "Egypt's finance minister said electronic customs receipts were EGP 284.3 billion and electronic tax collection EGP 613.1 billion in July 2023 to May 2024.", "as_of": "2024-05", "date_precision": "month", "system": "Government e-payment and collection centre", "class": "revenue"},
+{"sub_indicator": "revenue", "aspect": "reported", "value": "reported", "fact": "Egypt's finance minister said services of electronic payment and collection totalled EGP 2.5 trillion in the first 11 months of FY2023/24, against EGP 2.1 trillion a year earlier.", "as_of": "2024-05", "date_precision": "month", "system": "Government e-payment and collection centre", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

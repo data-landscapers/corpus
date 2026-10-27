@@ -1,0 +1,5 @@
+{"slug": "2026-01-08-sdn-cbos-circular-customer-transfer-controls", "studies": {
+"idverification": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Banks must verify customers against official documents and available databases; no national ID is named."}}},
+"paymentslaw": {"countries": {"SDN": {"facts": [], "systems": [{"system": "SIRAJ RTGS", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Central Bank of Sudan", "tiers": ""}], "note": "The circular sets AML, KYC and transfer-limit controls on existing channels; it does not say who may run payments or issue e-money."}}},
+"police": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing about police."}}}
+}}

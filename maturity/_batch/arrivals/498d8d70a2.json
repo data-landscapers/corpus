@@ -1,0 +1,123 @@
+{
+ "slug": "2026-10-26-ebanx-integrates-opay-direct-debit-for-global-subscription-p",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on e-procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on the central bank."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on consumer rules or redress."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "EBANX collects international merchants' payments in Nigeria, but no corridor or regional link is described."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on government payments to people."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Adult mobile phone penetration",
+       "country_label": "84% of adults (World Bank Global Findex, per EBANX)",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The only phone figure, 84%, is for adults and is not used."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of adults with an account is given; the Findex figure quoted is for credit cards (5%)."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "OPay's digital wallet is in service in Nigeria with 40 million monthly active users as OPay claims, and EBANX has gone live with OPay Direct Debit for recurring payments.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "OPay wallet",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OPay wallet",
+       "country_label": "OPay",
+       "class": "retail",
+       "platform": "OPay app",
+       "owner": "OPay",
+       "tiers": ""
+      },
+      {
+       "system": "OPay Direct Debit",
+       "country_label": "OPay Direct Debit",
+       "class": "retail",
+       "platform": "OPay app",
+       "owner": "OPay",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on tax or fee payment."
+    }
+   }
+  }
+ }
+}

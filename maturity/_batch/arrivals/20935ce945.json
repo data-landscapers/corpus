@@ -1,0 +1,114 @@
+{
+ "slug": "2025-02-27-tza-tanzania-leads-africa-in-debt-management-payment-systems-integration",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "finance",
+       "value": "inuse",
+       "fact": "The Ministry of Finance says Tanzania has integrated the CS-Meridian debt system with MUSE, the Government Payment System, and Kenyan officials were trained on the operating integration.",
+       "as_of": "2025-02-27",
+       "date_precision": "day",
+       "system": "MUSE",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MUSE",
+       "country_label": "Government Payment System",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      },
+      {
+       "system": "CS-Meridian",
+       "country_label": "Debt Recording and Management System",
+       "class": "other",
+       "platform": "Commonwealth Secretariat",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  }
+ }
+}

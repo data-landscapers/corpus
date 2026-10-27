@@ -1,0 +1,97 @@
+{
+ "slug": "2025-10-10-zmb-zambia-s-zamtel-to-pilot-new-comesa-system-for-instant-cross-border-mo",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "Lusaka Times reports that COMESA launched its Digital Retail Payment Platform in October 2025 with a pilot on the Zambia-Malawi corridor, with Zamtel implementing the Zambian side.",
+       "as_of": "2025-10-10",
+       "date_precision": "day",
+       "system": "COMESA Digital Retail Payment Platform (DRPP)",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "COMESA DRPP",
+       "country_label": "Zambia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "COMESA; Zamtel for Zambia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  }
+ }
+}

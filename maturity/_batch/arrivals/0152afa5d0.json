@@ -1,0 +1,50 @@
+{
+ "slug": "2025-11-26-civ-reecriture-du-systeme-de-remuneration-des-fonctionnaires-et-agents-de",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "payroll module (DSIB)",
+       "country_label": "Cote d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "DSIB, Direction Generale du Budget et des Finances",
+       "tiers": ""
+      }
+     ],
+     "note": "New payroll module only in testing 25-28 November 2025, not in use."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  }
+ }
+}

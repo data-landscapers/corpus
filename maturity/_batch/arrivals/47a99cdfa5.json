@@ -1,0 +1,42 @@
+{"slug": "2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to", "studies": {
+"businesspayments": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."},
+"ETH": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."},
+"SDN": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."}}},
+"centralbank": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No central bank role is stated for Djibouti."},
+"ETH": {"facts": [], "systems": [], "note": "The National Bank of Ethiopia is only said to be awaited for approval of a link; no licensing, switch or PAPSS role is stated."},
+"SDN": {"facts": [], "systems": [], "note": "No central bank role is stated for Sudan."}}},
+"consumerprotection": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No consumer protection is mentioned."},
+"ETH": {"facts": [], "systems": [], "note": "No consumer protection is mentioned."},
+"SDN": {"facts": [], "systems": [], "note": "No consumer protection is mentioned."}}},
+"crossborderpayments": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "Only negotiations to link telebirr with Djibouti's payment system, pending approval, are stated; that is not a pilot or licence."},
+"ETH": {"facts": [], "systems": [{"system": "telebirr", "country_label": "Ethiopia", "class": "crossborder", "platform": "mobile money", "owner": "Ethio Telecom", "tiers": ""}], "note": "Only negotiations to link telebirr with Sudan and Djibouti, awaiting National Bank of Ethiopia approval, are stated; that is not a pilot or licence."},
+"SDN": {"facts": [], "systems": [], "note": "Only negotiations to link telebirr with Sudan's payment system, pending approval, are stated; that is not a pilot or licence."}}},
+"fibrebackbone": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "Only a cross-border link is named, which is not a national backbone."},
+"ETH": {"facts": [], "systems": [], "note": "Only a cross-border link is named, which is not a national backbone."},
+"SDN": {"facts": [], "systems": [], "note": "Only a cross-border link is named, which is not a national backbone."}}},
+"g2ppayments": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."},
+"ETH": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."},
+"SDN": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"paymentsuptake": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No account ownership survey is mentioned."},
+"ETH": {"facts": [], "systems": [], "note": "Telebirr's nearly 55 million users is a provider customer count, not a survey."},
+"SDN": {"facts": [], "systems": [], "note": "No account ownership survey is mentioned."}}},
+"regionalinfrastructure": {"countries": {
+"DJI": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Birr Metrics reports that Ethiopia's Horizon Fiber Initiative is a trilateral agreement with Djibouti Telecom and Sudan's Sudatel to establish a multi-terabit terrestrial fibre link by April 2025.", "as_of": "2025-07-24", "date_precision": "day", "system": "Horizon Fiber Initiative", "class": "shared"}], "systems": [{"system": "Horizon Fiber Initiative", "country_label": "Djibouti", "class": "shared", "platform": "terrestrial fibre", "owner": "Ethio Telecom, Djibouti Telecom, Sudatel", "tiers": ""}], "note": ""},
+"ETH": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Birr Metrics reports that Ethiopia's Horizon Fiber Initiative is a trilateral agreement with Djibouti Telecom and Sudan's Sudatel to establish a multi-terabit terrestrial fibre link by April 2025.", "as_of": "2025-07-24", "date_precision": "day", "system": "Horizon Fiber Initiative", "class": "shared"}], "systems": [{"system": "Horizon Fiber Initiative", "country_label": "Ethiopia", "class": "shared", "platform": "terrestrial fibre", "owner": "Ethio Telecom, Djibouti Telecom, Sudatel", "tiers": ""}], "note": ""},
+"SDN": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Birr Metrics reports that Ethiopia's Horizon Fiber Initiative is a trilateral agreement with Djibouti Telecom and Sudan's Sudatel to establish a multi-terabit terrestrial fibre link by April 2025.", "as_of": "2025-07-24", "date_precision": "day", "system": "Horizon Fiber Initiative", "class": "shared"}], "systems": [{"system": "Horizon Fiber Initiative", "country_label": "Sudan", "class": "shared", "platform": "terrestrial fibre", "owner": "Ethio Telecom, Djibouti Telecom, Sudatel", "tiers": ""}], "note": ""}}},
+"retailpayments": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No retail payment service in Djibouti is described."},
+"ETH": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Birr Metrics reports that Ethio Telecom's mobile money platform telebirr, launched in 2021, has nearly 55 million users and processed over 2.3 trillion birr in the past year.", "as_of": "2025-07", "date_precision": "month", "system": "telebirr", "class": "retail"}], "systems": [{"system": "telebirr", "country_label": "Ethiopia", "class": "retail", "platform": "mobile money", "owner": "Ethio Telecom", "tiers": ""}], "note": ""},
+"SDN": {"facts": [], "systems": [], "note": "No retail payment service in Sudan is described."}}},
+"revenuecollection": {"countries": {
+"DJI": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."},
+"ETH": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."},
+"SDN": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."}}}
+}}

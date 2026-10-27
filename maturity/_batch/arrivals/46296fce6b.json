@@ -1,0 +1,14 @@
+{"slug": "2025-08-25-gab-le-gabon-a-enregistre-plus-de-4-milliards-de-fcfa-de-transactions-mobi", "studies": {
+"businesspayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No e-procurement is stated."}}},
+"centralbank": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No consumer protection rule is stated."}}},
+"crossborderpayments": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Business & Finance International, citing the finance ministry's DGEPF note, reports mobile money international transfers within the CEMAC zone in 2024 rose 53.8% in value and 88.8% in volume.", "as_of": "2024", "date_precision": "year", "system": "Airtel Money and Moov Money", "class": "crossborder"}
+], "systems": [], "note": "The figures are growth rates, not an absolute volume or value, so no reported fact."}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"paymentsuptake": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Transaction counts are not a survey of adults."}}},
+"retailpayments": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Business & Finance International, citing the DGEPF note, reports Airtel Money and Moov Money handled 368.3 million mobile money operations worth FCFA 4,087 billion in 2024, including FCFA 291 billion of payments for goods and services.", "as_of": "2024", "date_precision": "year", "system": "Airtel Money and Moov Money", "class": "retail"}
+], "systems": [{"system": "Airtel Money", "country_label": "Gabon", "class": "retail", "platform": "mobile money", "owner": "Airtel Gabon", "tiers": ""}, {"system": "Moov Money", "country_label": "Gabon", "class": "retail", "platform": "mobile money", "owner": "Moov Africa Gabon Telecom", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No tax or fee payment is stated."}}}
+}}

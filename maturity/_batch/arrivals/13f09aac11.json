@@ -1,0 +1,317 @@
+{
+ "slug": "2026-10-26-xca-nbc-beac-ink-mou-on-financial-cooperation-framework",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names BEAC and a planned MoU with Cambodia's central bank, not a payments fact for this country."
+    }
+   }
+  }
+ }
+}

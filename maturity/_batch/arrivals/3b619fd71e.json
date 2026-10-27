@@ -1,0 +1,6 @@
+{"slug": "2026-10-26-zaf-itweb-steyn-data-centre-inquiry-king-v", "studies": {
+"datacentrepower": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "King Air Industria 170MW data centre", "country_label": "Cape Town 170MW facility", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The 170MW Cape Town facility is approved but under appeal, not in service; no supply, PUE or water figure for a data centre in service."}}},
+"datacentres": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Africa Data Centres Midrand campus", "country_label": "Africa Data Centres Midrand", "class": "other", "platform": "", "owner": "Africa Data Centres", "tiers": ""}], "note": "The Midrand campus is named without saying it rents capacity or its Tier; the Cape Town site is not in service."}}},
+"nationaldatacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No data centre's ownership or hire is stated."}}},
+"publicconsultation": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The human rights commission inquiry and the Cape Town planning appeal concern data centres, not a named digital law or policy."}}}
+}}

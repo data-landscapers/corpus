@@ -1,0 +1,108 @@
+{
+ "slug": "2026-06-10-lbr-bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-ser",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "BnB Liberia and Orange Money Liberia launched a service letting Orange Money wallet users in Liberia send money instantly to Ghana, Sierra Leone, Guinea, Cote d Ivoire, Senegal, Mali, Uganda and Rwanda.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Orange Money Liberia",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Money",
+       "country_label": "Orange Money Liberia",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange Liberia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechAfrica News reports Orange Money wallet users in Liberia can send money, with the Orange Money mobile money platform already serving domestic transactions.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "Orange Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Liberia."
+    }
+   }
+  }
+ }
+}

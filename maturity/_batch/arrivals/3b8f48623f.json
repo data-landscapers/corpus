@@ -1,0 +1,32 @@
+{
+ "slug": "2023-11-30-eri-pfm-smart-ifmis-project-launch",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Integrated Financial Management Information System (IFMIS)",
+       "country_label": "IFMIS, launched as a project with PFM Smart, funded by the African Development Bank",
+       "class": "other",
+       "platform": "PFM Smart",
+       "owner": "Government of Eritrea",
+       "tiers": ""
+      }
+     ],
+     "note": "The document is a vendor's account of an IFMIS project launch; it does not say the system is in use across central government."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on international IT standards."
+    }
+   }
+  }
+ }
+}

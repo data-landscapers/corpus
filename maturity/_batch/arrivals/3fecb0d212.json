@@ -1,0 +1,177 @@
+{
+ "slug": "2024-03-01-zmb-cross-border-payments-now-live-between-sa-and-zambia",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "IT-Online reports that BankservAfrica opened the first instant low-value digital payment corridor between South Africa and Zambia on 1 March 2024, after SendHome and SamPay joined the TCIB scheme.",
+       "as_of": "2024-03-01",
+       "date_precision": "day",
+       "system": "TCIB South Africa-Zambia corridor",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "IT-Online reports that the SADC TCIB scheme, live since 2021 and operated by BankservAfrica, now carries the South Africa-Zambia corridor, with SendHome and SamPay as its newest participants.",
+       "as_of": "2024-03-01",
+       "date_precision": "day",
+       "system": "TCIB",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TCIB",
+       "country_label": "SADC TCIB Payment Scheme",
+       "class": "crossborder",
+       "platform": "ISO 20022 platform",
+       "owner": "SADC Committee of Central Bank Governors",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "IT-Online reports that BankservAfrica opened the first instant low-value digital payment corridor between South Africa and Zambia on 1 March 2024, after SendHome and SamPay joined the TCIB scheme.",
+       "as_of": "2024-03-01",
+       "date_precision": "day",
+       "system": "TCIB South Africa-Zambia corridor",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "IT-Online reports that the SADC TCIB scheme, live since 2021 and operated by BankservAfrica, now carries the South Africa-Zambia corridor, with SendHome and SamPay as its newest participants.",
+       "as_of": "2024-03-01",
+       "date_precision": "day",
+       "system": "TCIB",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TCIB",
+       "country_label": "SADC TCIB Payment Scheme",
+       "class": "crossborder",
+       "platform": "ISO 20022 platform",
+       "owner": "SADC Committee of Central Bank Governors",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

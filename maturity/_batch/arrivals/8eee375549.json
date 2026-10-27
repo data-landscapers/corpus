@@ -1,0 +1,41 @@
+{
+ "slug": "2025-10-08-lby-alwasat-mof-freebalance-gfmis-talks",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "GFMIS",
+       "country_label": "Libya",
+       "class": "other",
+       "platform": "FreeBalance",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": "Talks and technical assessments only; no system in use is stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the finance ministry's own digital transformation strategy is mentioned, not a national one."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on standards."
+    }
+   }
+  }
+ }
+}

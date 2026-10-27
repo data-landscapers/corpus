@@ -1,0 +1,174 @@
+{
+ "slug": "2026-06-01-uga-ask-ura-commissioner-general-19",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Uganda Revenue Authority's Q&A column says importers lodge declarations in its customs system, where controlled HS codes need prior authorisation, while air-cargo manifest data entry is still manual.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "URA customs system",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The URA says it is in advanced stages of automating and integrating systems with airlines at Entebbe for electronic submission of cargo manifests before arrival.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "Air cargo e-manifest integration",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "URA customs system",
+       "country_label": "Uganda",
+       "class": "customs",
+       "platform": "",
+       "owner": "Uganda Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "URA Digital Strategy",
+       "country_label": "Uganda",
+       "class": "other",
+       "platform": "",
+       "owner": "Uganda Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "Only the revenue authority's own strategy is named, not a national strategy."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The URA says digital payment options for tax now include EFT, RTGS, VISA, over-the-counter banking and mobile USSD *285#, and Local Excise Duty, Rental Income Tax and VAT returns moved to web-based platforms.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "URA online tax payment channels",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The URA says taxpayers log in to their TIN account on its portal with their TIN to transfer credits and apply for instalment plans.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "URA TIN account",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

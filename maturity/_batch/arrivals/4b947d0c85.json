@@ -1,0 +1,12 @@
+{"slug": "2024-04-15-lso-cbl-allays-fears-over-cross-border-eft-payments", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No e-procurement is stated."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "A Central Bank of Lesotho director explains a Common Monetary Area decision but no licensing, switch oversight or drafting is stated."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No consumer protection rule is stated."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "A Central Bank of Lesotho payments director said the regional infrastructure payment system of the Common Monetary Area already handles various payments within the area and beyond, and that low-value cross-border payments, until then routed as South African domestic payments, will move to it from September 2024.", "as_of": "2024-04-15", "date_precision": "day", "system": "Common Monetary Area regional infrastructure payment system", "class": "crossborder"}
+], "systems": [{"system": "Common Monetary Area regional infrastructure payment system", "country_label": "Lesotho", "class": "crossborder", "platform": "", "owner": "Common Monetary Area regulators", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No account ownership survey is stated."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Mobile and bank apps are named for EFTs, but no mobile money or e-money service is stated."}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No tax or fee payment is stated."}}}
+}}

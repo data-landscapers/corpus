@@ -1,0 +1,124 @@
+{
+ "slug": "2025-01-01-mli-trade-facilitation-and-paperless-trade-in-mali",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The UN Global Survey 2025 round records Mali's automated customs system as fully implemented.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Automated Customs System",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  }
+ }
+}

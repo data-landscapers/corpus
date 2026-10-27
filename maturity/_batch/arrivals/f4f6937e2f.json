@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-13-zwe-zimra-s-sap-s-4hana-upgrade-is-officially-active",
+ "studies": {
+  "taxadmin": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SAP S/4HANA",
+       "country_label": "ZIMRA SAP S/4HANA upgrade",
+       "class": "other",
+       "platform": "SAP",
+       "owner": "ZIMRA",
+       "tiers": ""
+      }
+     ],
+     "note": "Vendor post on a ZIMRA SAP S/4HANA upgrade going live; no online filing or payment stated."
+    }
+   }
+  }
+ }
+}

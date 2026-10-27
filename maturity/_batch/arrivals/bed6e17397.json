@@ -1,0 +1,16 @@
+{"slug": "2024-05-20-gha-report-of-investigation-government-of-ghana-payroll-administration-pha", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"coresystems": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "The Office of the Special Prosecutor and the Controller and Accountant General's Department report that government salaries are processed and paid through the national payroll system, with monthly validation by management units, in use in the Northern Region pilot.", "as_of": "2024-05-20", "date_precision": "day", "system": "National Payroll / Electronic Salary Payment Voucher (ESPV)", "class": "core"}
+], "systems": [{"system": "National Payroll", "country_label": "Government of Ghana payroll system", "class": "core", "platform": "", "owner": "Controller and Accountant General's Department", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Office of the Special Prosecutor and the Controller and Accountant General's Department report that government employees' salaries are paid by payroll into their bank accounts, with banks directed to withhold affected persons' salaries from January 2024.", "as_of": "2024-01", "date_precision": "month", "system": "Government of Ghana payroll", "class": "g2p"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID stated."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No operation or maintenance of the national ID system stated."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "National ID cards were checked by hand as proof of employment; payroll is not stated to be keyed on the ID number."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No statement on the national ID system itself."}}},
+"localgov": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No local government office connection stated."}}}
+}}

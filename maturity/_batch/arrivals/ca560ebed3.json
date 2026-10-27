@@ -1,21 +1,12 @@
 {
  "slug": "2026-08-31-iati-xm-dac-41301-762022-benin-agricultural-census",
  "studies": {
-  "nonstatefinance": {
+  "coresystems": {
    "countries": {
-    "RWA": {
+    "LSO": {
      "facts": [],
      "systems": [],
-     "note": "The document concerns Benin and a FAO grant to a state census team; it says nothing about Rwanda."
-    }
-   }
-  },
-  "aistrategy": {
-   "countries": {
-    "COM": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "Concerns a Benin agricultural census grant and says nothing about Lesotho."
     }
    }
   }

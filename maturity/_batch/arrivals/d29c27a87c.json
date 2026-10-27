@@ -1,0 +1,126 @@
+{
+ "slug": "2025-05-27-nga-cross-border-payments-22-nigerian-commercial-banks-join-papps-scheme",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "live",
+       "fact": "Nairametrics reports 22 Nigerian commercial banks fully onboarded on PAPSS in its May 2025 participant list, and that the Central Bank of Nigeria directed all banks to adopt PAPSS and begin originating transactions.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Nairametrics reports 22 Nigerian banks, the most of any country, are onboarded on PAPSS per its May 2025 participant list, and the CBN directed banks to originate PAPSS transactions.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "PAPSS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PAPSS",
+       "country_label": "Nigeria",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Afreximbank",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-09-18-egy-mts",
+ "studies": {
+  "customs": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Arqam reports Egypt's customs authority will run its automated classification and valuation system at all customs sites as a test environment, with mandatory use from 1 October 2025 and a link to E-Finance's database.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "Automated classification and valuation system",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Automated classification and valuation system",
+       "country_label": "Egypt",
+       "class": "customs",
+       "platform": "",
+       "owner": "Egyptian Customs Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

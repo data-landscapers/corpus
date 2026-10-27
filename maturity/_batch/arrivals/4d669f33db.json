@@ -1,0 +1,126 @@
+{
+ "slug": "2024-06-01-eth-ethiopia-increases-customs-revenue-with-webb-customs",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Webb Fontaine says its EU-funded Webb Customs eCMS automates 27 Ethiopian customs offices, replacing the old Asycuda system, with declaration processing and airport manifests handled electronically.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Webb Customs eCMS",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Webb Customs eCMS",
+       "country_label": "Webb Customs eCMS",
+       "class": "customs",
+       "platform": "Webb Fontaine eCMS",
+       "owner": "Ethiopian Customs Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Webb Fontaine says electronic payment facilities were introduced in Ethiopia's Webb Customs eCMS, reducing manual paperwork.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Webb Customs eCMS",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

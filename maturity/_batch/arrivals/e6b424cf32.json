@@ -1,0 +1,106 @@
+{
+ "slug": "2024-01-09-caf-mobile-money-en-rca-les-envois-et-retraits-d-argent-desormais-taxes-a",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Ecomatin reports that mobile money transactions in the Central African Republic have been taxed at 1% under the 2024 finance law since 1 January 2024, and that the country had about 150,000 mobile money accounts, 65,000 active monthly, at end August 2021.",
+       "as_of": "2024-01-01",
+       "date_precision": "day",
+       "system": "Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  }
+ }
+}

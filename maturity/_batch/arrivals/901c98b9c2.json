@@ -1,0 +1,16 @@
+{"slug": "2024-01-16-eth-ministry-embarks-on-e-tax-services", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Fayda integration into services is only a plan; no authentication service is stated."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No civil register link is stated."}}},
+"coresystems": {"countries": {"ETH": {"facts": [], "systems": [{"system": "e-tax system", "country_label": "Ethiopia", "class": "core", "platform": "", "owner": "Ministry of Revenues", "tiers": ""}], "note": "The brief announces an expansion of the e-tax system but does not state that tax is run on it in use across the administration."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Operation and maintenance of the ID system are not stated."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Fayda is to be integrated into government services, not a named register."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a World Bank funding boost for Fayda is stated; no build or service status."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Addis Fortune reports the Ministry of Revenues announced an expansion of the e-tax system so that late and advance payments, partial filing and audit findings are handled through the digital platform.", "as_of": "2024-01", "date_precision": "month", "system": "e-tax system", "class": "revenue"}
+], "systems": [{"system": "e-tax system", "country_label": "Ethiopia", "class": "revenue", "platform": "", "owner": "Ministry of Revenues", "tiers": ""}], "note": ""}}},
+"taxadmin": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "underway", "fact": "Addis Fortune reports the Ministry of Revenues announced an expansion of its e-tax system to digitise services across tax bureaus, including partial document filing, and gave taxpayers a month to submit employee lists and contact details.", "as_of": "2024-01", "date_precision": "month", "system": "e-tax system", "class": "taxsystem"}
+], "systems": [{"system": "e-tax system", "country_label": "Ethiopia", "class": "taxsystem", "platform": "", "owner": "Ministry of Revenues", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,68 @@
+{
+ "slug": "2025-09-10-mar-daribati-portails-data-center-la-dgi-modernise-ses-plateformes-et-renf",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the tax directorate's own modular data centre is named, not stated as for hire."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a tax directorate digitalisation strategy is mentioned, not a national one."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Local taxes are handled in the central tax directorate's system, not by local government staff."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the tax directorate's own modular data centre is named, not stated as for hire."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Systeme integre de taxation (SIT)",
+       "country_label": "Systeme integre de taxation",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Direction generale des impots",
+       "tiers": ""
+      }
+     ],
+     "note": "The Integrated Taxation System is named with tenders for new features; online filing and payment are not stated."
+    }
+   }
+  }
+ }
+}

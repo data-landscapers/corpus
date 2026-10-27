@@ -1,0 +1,16 @@
+{"slug": "2025-09-01-lby-gnu-starts-paying-public-sector-wages-through-new-treasury-system", "studies": {
+"businesspayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document says nothing on e-procurement."}}},
+"centralbank": {"countries": {"LBY": {"facts": [], "systems": [{"system": "Instant Salary", "country_label": "Instant Salary", "class": "other", "platform": "", "owner": "Central Bank of Libya", "tiers": ""}], "note": "The Central Bank of Libya operates Instant Salary, but the document does not call it a national switch or give a licensing or oversight role."}}},
+"consumerprotection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document says nothing on consumer protection."}}},
+"coresystems": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "Libya's finance minister Khaled Al-Mabrouk said August 2025 public sector salaries were processed on the new unified treasury account system, after basic data for around 41% of state employees was uploaded.", "as_of": "2025-08", "date_precision": "month", "system": "Unified treasury account system", "class": "core"}
+], "systems": [{"system": "Unified treasury account system", "country_label": "Unified treasury account", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": ""}, {"system": "Financial management information system (new)", "country_label": "new financial management information system", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "The new financial management and revenue systems are named only as part of the strategy, not as in use."}}},
+"crossborderpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The document says nothing on cross-border payments."}}},
+"digitalstrategy": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A broader digital transformation strategy is mentioned with no adoption, text or scope stated."}}},
+"g2ppayments": {"countries": {"LBY": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Libya's Government of National Unity has begun paying public sector salaries through the new unified treasury account system, with payments to go directly to bank accounts via the Central Bank of Libya's Instant Salary system, the finance minister said.", "as_of": "2025-08", "date_precision": "month", "system": "Instant Salary", "class": "g2p"}
+], "systems": [{"system": "Instant Salary", "country_label": "Instant Salary", "class": "g2p", "platform": "", "owner": "Central Bank of Libya", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No survey of account ownership is given."}}},
+"retailpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No retail mobile money or e-money service is described."}}},
+"revenuecollection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "New revenue collection systems are named only as part of a strategy, with no piloting or contract stated."}}}
+}}

@@ -1,0 +1,502 @@
+{
+ "slug": "2026-10-25-lso-southern-africa-s-women-are-online-but-the-law-protecting-them-has-yet-to-follow",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "The Lesotho Times says Lesotho's cybercrime legislation has been rejected, withdrawn and retabled more than once since 2020.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Lesotho cybercrime bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Lesotho Times, citing a SADC Parliamentary Forum and Equality Now brief, says Malawi has a cyber law requiring proof of intent to cause reasonable fear for safety.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Malawi cyber law",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Lesotho Times, citing a SADC Parliamentary Forum and Equality Now brief, says South Africa's Cybercrimes Act makes sharing intimate images without consent a crime.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Cybercrimes Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Lesotho Times, citing a SADC Parliamentary Forum and Equality Now brief, says Botswana has a data protection regulator that handles privacy complaints.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Botswana data protection regulator",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Lesotho Times, citing a SADC Parliamentary Forum and Equality Now brief, says Botswana has a data protection regulator that handles privacy complaints.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Botswana data protection regulator",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "gendergap": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

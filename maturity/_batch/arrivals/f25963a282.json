@@ -1,0 +1,115 @@
+{
+ "slug": "2025-05-11-dza-pourquoi-algerie-poste-bloque-baridimob-a-ses-usagers-a-l-etranger",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "BaridiMob",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "mobile app",
+       "owner": "Algerie Poste",
+       "tiers": ""
+      }
+     ],
+     "note": "BaridiMob is blocked from foreign IP addresses; no cross-border corridor is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ObservAlgerie, relaying Echorouk, describes BaridiMob, Algerie Poste's mobile app, as used for money transfers, bill payments and mobile credit top-ups, with hundreds of complaints when access from abroad was blocked.",
+       "as_of": "2025-05-11",
+       "date_precision": "day",
+       "system": "BaridiMob",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BaridiMob",
+       "country_label": "Algeria",
+       "class": "retail",
+       "platform": "mobile app",
+       "owner": "Algerie Poste",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

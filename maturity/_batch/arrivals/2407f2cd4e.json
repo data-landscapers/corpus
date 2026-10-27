@@ -1,0 +1,220 @@
+{
+ "slug": "2026-06-26-gmb-afrimoney-connects-the-gambia-and-sierra-leone-directly-in-historic-fi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Africell says Afrimoney Gambia and Afrimoney Sierra Leone are directly connected, so customers can send money instantly between the two countries, including by USSD.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "Afrimoney",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Afrimoney",
+       "country_label": "The Gambia",
+       "class": "crossborder",
+       "platform": "Afrimoney",
+       "owner": "Africell",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Africell says Afrimoney Gambia and Afrimoney Sierra Leone are directly connected, so customers can send money instantly between the two countries, including by USSD.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "Afrimoney",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Afrimoney",
+       "country_label": "Sierra Leone",
+       "class": "crossborder",
+       "platform": "Afrimoney",
+       "owner": "Africell",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Africell describes Afrimoney as a mobile money service operating in The Gambia, whose wallets customers use to send money, including by USSD.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "Afrimoney",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Afrimoney",
+       "country_label": "The Gambia",
+       "class": "retail",
+       "platform": "Afrimoney",
+       "owner": "Africell",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Africell describes Afrimoney as a mobile money service operating in Sierra Leone, whose wallets customers use to send money, including by USSD.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "Afrimoney",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Afrimoney",
+       "country_label": "Sierra Leone",
+       "class": "retail",
+       "platform": "Afrimoney",
+       "owner": "Africell",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a company statement on a wallet transfer link; states nothing this study asks."
+    }
+   }
+  }
+ }
+}

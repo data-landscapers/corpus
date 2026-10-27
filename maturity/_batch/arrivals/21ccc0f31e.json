@@ -1,0 +1,153 @@
+{
+ "slug": "2025-01-01-sle-wt-tpr-s-470-sierra-leone-summary",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The 2020 procurement regulations promote electronic communication but no e-procurement system is named and implementation is pending."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The 2020 Consumer Protection Act is a general consumer law with no digital financial services rule named."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The WTO summary says Sierra Leone moved from ASYCUDA++ to ASYCUDA World in January 2019, with a risk management system in place, though many shipments are still physically inspected.",
+       "as_of": "2019-01",
+       "date_precision": "month",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "The WTO summary says Sierra Leone introduced the Electronic Single Window in 2020 to streamline import procedures.",
+       "as_of": "2020",
+       "date_precision": "year",
+       "system": "Electronic Single Window",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA World",
+       "country_label": "Sierra Leone",
+       "class": "customs",
+       "platform": "ASYCUDA World",
+       "owner": "Customs",
+       "tiers": ""
+      },
+      {
+       "system": "Electronic Single Window",
+       "country_label": "Sierra Leone",
+       "class": "customs",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "uptake",
+       "aspect": "share",
+       "value": "quarter",
+       "fact": "The WTO summary says only about 29% of adults in Sierra Leone have an account with a formal financial institution or mobile money provider.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Adult account ownership",
+       "class": "survey"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only non-digital texts (ECOWAS tariff, AfCFTA) are named."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Sierra Leone."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The 16% to 36% access figure is for businesses and households, not rural people."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug": "2025-11-24-moz-ajuste-directo-da-jue-estaria-o-governo-a-legitimar-carteis-que-lesam", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Direct-award procurement of the single window concession is discussed; no e-procurement system stated."}}},
+"customs": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "customs", "aspect": "window", "value": "window", "fact": "The Centro de Integridade Pública says the current Janela Unica Electronica (electronic single window), implemented by MCNet under a concession, is in operation, though with frequent breakdowns and hybrid digital and paper procedures.", "as_of": "2025-11-24", "date_precision": "day", "system": "Janela Unica Electronica (JUE)", "class": "customs"}
+], "systems": [{"system": "Janela Unica Electronica (JUE)", "country_label": "JUE electronic single window", "class": "customs", "platform": "", "owner": "MCNet concession (state 20%, CTA 20%, Escopil and SGS 60%)", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No cybersecurity body or strategy stated."}}},
+"eparticipation": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The author recommends public consultation; no government online consultation stated."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Semlex is mentioned only as a past identity documents contract the state ended, with Semlex keeping control of the database; the document does not say who runs the national ID system now."}}},
+"nonstatefinance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Private ownership of the older JUE concession is stated with no amount and no deal from 2024."}}},
+"publicconsultation": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The document says the government held no public consultation on the JUE decision and publishes no basis; this is a civil society complaint about one decision, not a dated statement on a digital law or policy."}}}
+}}

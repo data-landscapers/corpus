@@ -1,0 +1,81 @@
+{
+ "slug": "2025-10-08-egy-eta-unified-wage-tax-platform-employee-portal",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "The Egyptian Tax Authority head says a unified platform computes wage and salary tax electronically for employers across all sectors and passes the claim electronically to the authority's comprehensive mechanisation system for payment.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "Unified wage tax platform",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified wage tax platform",
+       "country_label": "Wage and salary tax unification platform",
+       "class": "core",
+       "platform": "",
+       "owner": "Egyptian Tax Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "The platform is wage tax, not civil service payroll; no payroll fact."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The Egyptian Tax Authority head says employers compute wage tax on its unified platform, by payroll integration, Excel upload or manual entry, and the authority launched an employee portal issuing payslips.",
+       "as_of": "2025-10-08",
+       "date_precision": "day",
+       "system": "Unified wage tax platform",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified wage tax platform",
+       "country_label": "Wage and salary tax unification platform",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Egyptian Tax Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

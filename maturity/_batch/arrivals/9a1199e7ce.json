@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-22-tcd-tchad-le-systeme-sydonia-world-soumis-a-evaluation",
+ "studies": {
+  "customs": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Chad's customs directorate opened an evaluation workshop on 22 April 2025 for the SYDONIA World automated system, which it says was put in place two years earlier under the PAGESE project.",
+       "as_of": "2025-04-22",
+       "date_precision": "day",
+       "system": "SYDONIA World",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYDONIA World",
+       "country_label": "Chad",
+       "class": "customs",
+       "platform": "ASYCUDA",
+       "owner": "DGDDI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

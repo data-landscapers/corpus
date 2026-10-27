@@ -1,0 +1,16 @@
+{"slug": "2025-07-27-ken-kra-to-overhaul-customs-system-fully-automate-cargo-operations-by-2026", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The only AI named is inside the tax and customs authority's sector work, which this study does not stage."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The Kenya Revenue Authority has already started piloting artificial intelligence, machine learning and data analytics to simplify tax operations and catch dishonest traders, the outlet reports.", "as_of": "2025-07-27", "date_precision": "day", "system": "KRA AI, machine learning and data analytics pilot", "class": "sectorai"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in Kenya is stated."}}},
+"civilserviceskills": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document says nothing on civil servant training."}}},
+"coresystems": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Integrated Customs Management System (iCMS)", "country_label": "iCMS", "class": "other", "platform": "", "owner": "Kenya Revenue Authority", "tiers": ""}], "note": "Only customs is described, which this study excludes."}}},
+"customs": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "Kenya's Integrated Customs Management System lets traders submit export and import documents electronically, and requires sea manifests 48 hours before vessels dock or depart, the outlet reports.", "as_of": "2025-07-27", "date_precision": "day", "system": "Integrated Customs Management System (iCMS)", "class": "customs"},
+{"sub_indicator": "customs", "aspect": "window", "value": "window", "fact": "The outlet says the iCMS takes import and export documents electronically through a single window.", "as_of": "2025-07-27", "date_precision": "day", "system": "Integrated Customs Management System (iCMS)", "class": "customs"}
+], "systems": [{"system": "Integrated Customs Management System (iCMS)", "country_label": "iCMS", "class": "customs", "platform": "", "owner": "Kenya Revenue Authority", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No citizen-facing government online service is described."}}},
+"taxadmin": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states nothing on tax filing or payment."}}}
+}}

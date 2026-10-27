@@ -1,0 +1,52 @@
+{
+ "slug": "2024-11-27-cpv-direcao-geral-das-alfandegas-recebe-missao-da-cedeao-para-implementaca",
+ "studies": {
+  "customs": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Cabo Verde hosted an ECOWAS mission on 18-21 November 2024 to implement the SIGMAT transit system, and customs chose the SIGMAT mobile version for inter-island transit.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "SIGMAT mobile",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGMAT",
+       "country_label": "Cabo Verde",
+       "class": "customs",
+       "platform": "ECOWAS",
+       "owner": "ECOWAS Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-04-29-tcd-le-gouvernement-renforce-les-capacites-des-administrateurs-de-credits",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "finance",
+       "value": "inuse",
+       "fact": "The Ministry of Finance's deputy director general of budget said the SIGFiP, deployed since 2019, is a central tool for public financial administration and is being extended to deconcentrated and decentralised structures.",
+       "as_of": "2026-04-29",
+       "date_precision": "day",
+       "system": "SIGFiP",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGFiP",
+       "country_label": "Chad",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Chad."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Chad."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Extension of SIGFiP to decentralised structures is stated, but not that local offices work in it or how they are connected."
+    }
+   }
+  }
+ }
+}

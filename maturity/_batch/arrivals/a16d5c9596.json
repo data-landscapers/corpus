@@ -1,0 +1,81 @@
+{
+ "slug": "2025-12-01-civ-modernisation-douaniere",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "sectorai",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "Ivorian customs says its Douane Intelligente project, with Huawei as technical partner, is deploying AI and big data tools for fraud detection.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "Douane Intelligente",
+       "class": "sectorai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Douane Intelligente",
+       "country_label": "Cote d'Ivoire",
+       "class": "sectorai",
+       "platform": "Huawei",
+       "owner": "Direction Generale des Douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No fact on this question stated."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Ivorian customs describes its Douane Intelligente modernisation project, backed by Huawei, as being deployed, with a 5-14 December 2025 training mission to China.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "Douane Intelligente",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

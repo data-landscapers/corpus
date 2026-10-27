@@ -1,0 +1,117 @@
+{
+ "slug": "2026-01-21-nga-momo-psb-deepens-diaspora-remittance-on-cross-border-transfer-expansio",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "MoMo PSB, MTN Nigeria's payment service bank, sends wallet transfers from Nigeria to 16 African countries including Kenya and South Sudan and receives inbound transfers from the UK, US, Canada and Europe via Lightway Finance and Thunes.",
+       "as_of": "2026-01-21",
+       "date_precision": "day",
+       "system": "MoMo PSB cross-border transfer",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MoMo PSB wallet",
+       "country_label": "Nigeria",
+       "class": "retail",
+       "platform": "",
+       "owner": "MoMo Payment Service Bank (MTN Nigeria)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "MoMo PSB customers in Nigeria hold MoMo wallets that send and receive money, per MoMo PSB executive Usoro Usoro.",
+       "as_of": "2026-01-21",
+       "date_precision": "day",
+       "system": "MoMo PSB wallet",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MoMo PSB wallet",
+       "country_label": "Nigeria",
+       "class": "retail",
+       "platform": "",
+       "owner": "MoMo Payment Service Bank (MTN Nigeria)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

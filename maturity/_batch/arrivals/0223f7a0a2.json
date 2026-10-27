@@ -1,0 +1,34 @@
+{
+ "slug": "2024-01-01-zwe-zimbabwe-electronic-single-window-transforming-cross-border-trade",
+ "studies": {
+  "customs": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "ZIMRA says the Zimbabwe Electronic Single Window processed well over a thousand transactions in the first quarter of 2024 at Forbes and Robert Gabriel Mugabe Airport, with Beitbridge completed in May 2024 and Plumtree due by end June 2024.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Zimbabwe Electronic Single Window",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Zimbabwe Electronic Single Window",
+       "country_label": "Zimbabwe",
+       "class": "customs",
+       "platform": "",
+       "owner": "ZIMRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

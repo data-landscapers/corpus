@@ -1,0 +1,79 @@
+{
+ "slug": "2023-11-02-mli-operation-d-identification-des-agents-de-la-fonction-publique-de-l-eta",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SIGRH",
+       "country_label": "Syst\u00e8me int\u00e9gr\u00e9 de gestion des ressources humaines",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Mali",
+       "tiers": ""
+      }
+     ],
+     "note": "SIGRH is still being rolled out in phases (identification of agents, then data integration); no payroll system is stated to be in use."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "RAVEC biometrics are used to update staff files, but the document does not describe a national ID system issuing unique identities."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "own",
+       "value": "entire",
+       "fact": "Mali's SIGRH human resources software was designed and developed by computer specialists of the Malian administration and financed entirely from the national budget, with its database to be hosted in Mali; no contractor is named.",
+       "as_of": "2023-10-26",
+       "date_precision": "day",
+       "system": "SIGRH",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGRH",
+       "country_label": "Syst\u00e8me int\u00e9gr\u00e9 de gestion des ressources humaines",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Mali",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers staff of local authorities in the SIGRH project but says nothing on local government office connections."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "RAVEC biometric data is used to update staff files, but the document does not call it a population register."
+    }
+   }
+  }
+ }
+}

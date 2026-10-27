@@ -1,12 +1,12 @@
 {
  "slug": "2026-06-08-wearetech-madagascar-digital-criminal-records-platform",
  "studies": {
-  "taxadmin": {
+  "customs": {
    "countries": {
     "MDG": {
      "facts": [],
      "systems": [],
-     "note": "The document says nothing about tax filing or payment."
+     "note": "The document covers court case systems and states nothing about customs."
     }
    }
   }

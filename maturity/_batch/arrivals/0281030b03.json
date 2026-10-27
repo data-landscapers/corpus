@@ -1,0 +1,198 @@
+{
+ "slug": "2026-02-19-lby-circular-6-2026-instructions-for-regulating-direct-foreign-remittances",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "drafting",
+       "fact": "The Central Bank of Libya regulates direct foreign remittances through licensed exchange companies by Circular 6 of 2026, a circular rather than a payments law.",
+       "as_of": "2026-02-19",
+       "date_precision": "day",
+       "system": "CBL Circular CBL-I-R-M-N (6 of 2026)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "Circular 6 of 2026 of the Central Bank of Libya authorises licensed exchange companies to send direct foreign remittances for companies and small traders via a unified platform, with a USD 100,000 per-transfer and USD 300,000 annual ceiling.",
+       "as_of": "2026-02-19",
+       "date_precision": "day",
+       "system": "Direct foreign remittances via exchange companies (unified platform)",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified platform for direct foreign remittance requests",
+       "country_label": "Libya",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Central Bank of Libya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  }
+ }
+}

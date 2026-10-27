@@ -1,0 +1,11 @@
+{"slug": "2025-10-30-tcd-historique-des-douanes-tchadiennes", "studies": {
+"businesspayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"customs": {"countries": {"TCD": {"facts": [{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The Chad customs directorate (DGDDI) says SYDONIA World was officially put into service on 15 October 2022, replacing SYDONIA++ in use since 2001.", "as_of": "2022-10-15", "date_precision": "day", "system": "SYDONIA World", "class": "customs"}], "systems": [{"system": "SYDONIA World", "country_label": "SYDONIA World", "class": "customs", "platform": "ASYCUDA", "owner": "DGDDI Tchad", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"paymentsuptake": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No mobile money or retail payment service stated."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The Chad customs directorate (DGDDI) says an e-payment system for secure electronic payment of duties and taxes was launched in 2024.", "as_of": "2024", "date_precision": "year", "system": "e-paiement", "class": "revenue"}], "systems": [{"system": "e-paiement", "country_label": "e-paiement", "class": "revenue", "platform": "", "owner": "DGDDI Tchad", "tiers": ""}], "note": ""}}}
+}}

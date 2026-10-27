@@ -1,0 +1,420 @@
+{
+ "slug": "2025-04-01-lso-south-african-reserve-bank-act-directive-no-1-of-2025-execution-of-low",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive is a regulatory act on routing; no licensing, switch oversight or PAPSS stated."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive is a regulatory act on routing; no licensing, switch oversight or PAPSS stated."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive is a regulatory act on routing; no licensing, switch oversight or PAPSS stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive is a regulatory act on routing; no licensing, switch oversight or PAPSS stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive is a national payments directive, not a shared link, shared law or digital-policy agreement."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive is a national payments directive, not a shared link, shared law or digital-policy agreement."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive is a national payments directive, not a shared link, shared law or digital-policy agreement."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The South African Reserve Bank directive says low-value cross-border electronic funds transfers within the Common Monetary Area (Eswatini, Lesotho, Namibia, South Africa) are currently executed through SADC-RTGS.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SADC-RTGS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TCIB payment scheme",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The South African Reserve Bank directive says low-value cross-border electronic funds transfers within the Common Monetary Area (Eswatini, Lesotho, Namibia, South Africa) are currently executed through SADC-RTGS.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SADC-RTGS",
+       "country_label": "Namibia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TCIB payment scheme",
+       "country_label": "Namibia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The South African Reserve Bank directive says low-value cross-border electronic funds transfers within the Common Monetary Area (Eswatini, Lesotho, Namibia, South Africa) are currently executed through SADC-RTGS.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SADC-RTGS",
+       "country_label": "Eswatini",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TCIB payment scheme",
+       "country_label": "Eswatini",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The South African Reserve Bank directive says low-value cross-border electronic funds transfers within the Common Monetary Area (Eswatini, Lesotho, Namibia, South Africa) are currently executed through SADC-RTGS.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SADC-RTGS",
+       "country_label": "South Africa",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "TCIB payment scheme",
+       "country_label": "South Africa",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive binds South African settlement participants only; no law of this country is stated."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive binds South African settlement participants only; no law of this country is stated."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The directive binds South African settlement participants only; no law of this country is stated."
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The South African Reserve Bank issued Directive No. 1 of 2025 under section 12 of the National Payment System Act 78 of 1998, binding on settlement participants from 1 April 2025, with contravention an offence.",
+       "as_of": "2025-04-01",
+       "date_precision": "day",
+       "system": "SARB Directive No. 1 of 2025",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Payment System Act 78 of 1998",
+       "country_label": "South Africa",
+       "class": "law",
+       "platform": "",
+       "owner": "SARB",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

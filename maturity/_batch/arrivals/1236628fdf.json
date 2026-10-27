@@ -1,0 +1,126 @@
+{
+ "slug": "2024-08-19-eth-ethio-telecom-in-collaboration-with-visa-inc-has-launched-the-first-wa",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Ethio telecom says its Visa Direct service lets Visa cardholders in over 190 countries send money to telebirr virtual card numbers, and its telebirr Remit app receives remittances from nine named countries (US, Canada, Israel, Saudi Arabia, UAE, UK, South Africa, Italy, Sweden).",
+       "as_of": "2024-08-19",
+       "date_precision": "day",
+       "system": "telebirr Remit and Visa Direct",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "telebirr Remit / Visa Direct",
+       "country_label": "telebirr",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Ethio telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Ethio telecom says telebirr customers reached 47.55 million in the 2023/24 Ethiopian fiscal year, and it launched a wallet-based Virtual Visa Card on telebirr SuperApp.",
+       "as_of": "2024-08-19",
+       "date_precision": "day",
+       "system": "telebirr",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "telebirr",
+       "country_label": "telebirr",
+       "class": "retail",
+       "platform": "",
+       "owner": "Ethio telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

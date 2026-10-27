@@ -1,0 +1,168 @@
+{
+ "slug": "2024-11-04-cmr-cameroon-squares-up-to-its-payroll-fraud-conundrum-with-biometric-veri",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "payroll",
+       "value": "inuse",
+       "fact": "The civil service payroll and personnel systems SIGIPES (about 30 years old) and ANTILOPE were still the payroll platform in November 2024, to be fully replaced by AIGLES expected the following year, per MINFOPRA.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "SIGIPES",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGIPES",
+       "country_label": "SIGIPES",
+       "class": "core",
+       "platform": "",
+       "owner": "MINFOPRA",
+       "tiers": ""
+      },
+      {
+       "system": "AIGLES",
+       "country_label": "AIGLES (SIMAC OpenPRH; commissioning from 2024-06-19)",
+       "class": "other",
+       "platform": "OpenPRH",
+       "owner": "MINFOPRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

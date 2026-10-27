@@ -1,0 +1,6 @@
+{"slug": "2026-07-31-lbr-tfad-liberia-article-10-4-single-window", "studies": {
+"customs": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "underway", "fact": "Liberia's report to the WTO Trade Facilitation Agreement database says that under the World Bank-funded LIFT-P, led by the Ministry of Commerce and Industry, a National Single Window is being built through UNCTAD's ASYCUDA Programme, with the current phase integrating three government agencies and ASYCUDA to be upgraded.", "as_of": "2026-07-31", "date_precision": "day", "system": "National Single Window (ASYCUDA Programme)", "class": "customs"}
+], "systems": [{"system": "National Single Window", "country_label": "National Single Window under LIFT-P", "class": "customs", "platform": "ASYCUDA (UNCTAD)", "owner": "Ministry of Commerce and Industry", "tiers": ""}], "note": "The same report says full operationalisation remains to be done and the 2028 extension is shown as not approved, so no single window in service is stated."}}},
+"datacentres": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No data centre stated."}}}
+}}

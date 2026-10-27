@@ -1,0 +1,27 @@
+{"slug": "2026-10-26-zaf-smart-id-delays-exclusion", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The Home Affairs digital ID plan has recently reached a trial of the MyMzanzi app, and the digital ID has been publicly trialled, according to the Business Day opinion piece by Research ICT Africa's Drew Haller.", "as_of": "2026-10-26", "date_precision": "day", "system": "MyMzanzi app", "class": "authentication"}
+], "systems": [{"system": "MyMzanzi app", "country_label": "MyMzanzi", "class": "authentication", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing on links between the civil register and the ID system."}}},
+"dataprotectionauthority": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The Information Regulator is named only in a call for independent oversight of biometrics, with no statement of its appointment or rulings."}}},
+"dataprotectionlaw": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "A privacy impact assessment in compliance with the Protection of Personal Information Act is a legal precondition to gazetting the digital ID amendment regulations, per Research ICT Africa's submission as reported.", "as_of": "2026-10-26", "date_precision": "day", "system": "Protection of Personal Information Act", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalidlaw": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Amendments to the South Africa Identification Act were proposed in June 2026, so the Act exists and is being amended for digital ID; the article reports Research ICT Africa's submission on them.", "as_of": "2026-06", "date_precision": "month", "system": "South Africa Identification Act", "class": "law"}
+], "systems": [], "note": "Digital cover is not stated: the amendment regulations are not yet gazetted."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only about 4 million undocumented people and 341,000 unclaimed Smart IDs are given, with no share of the population holding an ID."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document does not say who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is described."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Smart ID has been issued since its launch in 2013, with 341,000 issued cards unclaimed as Home Affairs urges collection before the 4 November 2026 elections, the opinion piece says.", "as_of": "2026-10-26", "date_precision": "day", "system": "Smart ID", "class": "idsystem"}
+], "systems": [{"system": "Smart ID", "country_label": "Smart ID", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing on local government office connections."}}},
+"policyresearch": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "research", "aspect": "policy", "value": "contributed", "fact": "Research ICT Africa submitted a response on the proposed Identification Act amendments, naming missing preconditions such as a digital identity policy and a privacy impact assessment, and is running a digital ID study in the Western Cape, Gauteng and KwaZulu-Natal.", "as_of": "2026-10-26", "date_precision": "day", "system": "Research ICT Africa", "class": "research"}
+], "systems": [], "note": ""}}},
+"publicconsultation": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "Proposed amendments to the South Africa Identification Act were released in June 2026 and drew multistakeholder feedback, including a Research ICT Africa submission; the article says the participatory review is still under way.", "as_of": "2026-06", "date_precision": "month", "system": "Identification Act amendments", "class": "consultation"}
+], "systems": [], "note": ""}}}
+}}

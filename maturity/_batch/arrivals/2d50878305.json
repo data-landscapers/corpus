@@ -1,0 +1,235 @@
+{
+ "slug": "2026-10-26-xwa-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regio",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Burkina Faso signed roaming agreements with Benin, Cote d'Ivoire and Senegal on 23 October 2026 in Ouagadougou.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Ecofin Agency reports on 26 October 2026 that the Benin-Togo roaming agreement took effect on 1 January 2024, and Benin, Senegal and Togo launched roaming among themselves in April 2026.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Burkina Faso signed roaming agreements with Benin, Cote d'Ivoire and Senegal on 23 October 2026 in Ouagadougou.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Burkina Faso signed roaming agreements with Benin, Cote d'Ivoire and Senegal on 23 October 2026 in Ouagadougou.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Cote d'Ivoire's regulator says the roaming agreement with Ghana, launched 14 June 2023, cut charges for Ivorian subscribers in Ghana by as much as 90 per cent.",
+       "as_of": "2023-06-14",
+       "date_precision": "day",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Ghana and Cote d'Ivoire launched roaming under the regional initiative on 14 June 2023, and Ghana launched roaming with Benin and Togo in October 2024.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Ghana and Gambia signed a roaming agreement in November 2024.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Ghana and Gambia signed a roaming agreement in November 2024.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Liberia and Sierra Leone introduced their roaming service in August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Mali reached roaming agreements with Benin and Togo in December 2023, and Burkina Faso, Mali and Niger signed an agreement under the Confederation of Sahel States in November 2024.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Burkina Faso, Mali and Niger signed a roaming agreement under the Confederation of Sahel States in November 2024.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Burkina Faso signed roaming agreements with Benin, Cote d'Ivoire and Senegal on 23 October 2026 in Ouagadougou.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Benin, Senegal and Togo formally launched roaming among their three countries in April 2026.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Liberia and Sierra Leone introduced their roaming service in August 2025.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-effect",
+       "fact": "Ecofin Agency reports on 26 October 2026 that the Benin-Togo roaming agreement took effect on 1 January 2024, and Benin, Senegal and Togo launched roaming among themselves in April 2026.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ecofin Agency reports on 26 October 2026 that Mali reached roaming agreements with Benin and Togo in December 2023.",
+       "as_of": "2023-12",
+       "date_precision": "month",
+       "system": "West African bilateral roaming agreement",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

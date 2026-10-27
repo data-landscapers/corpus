@@ -1,0 +1,126 @@
+{
+ "slug": "2025-05-23-ssd-civil-servants-ordered-to-open-salary-accounts-amid-cash-crisis",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "An HRMIS with biometric payroll is only expected; no system in use or down is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "South Sudan's Ministry of Finance and Planning directed all public sector employees to open bank accounts by 27 May 2025 so salaries move from cash to a bank-based payment system.",
+       "as_of": "2025-05-19",
+       "date_precision": "day",
+       "system": "Bank-based civil service salary payment",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The report says South Sudan's cash crisis has affected mobile money transfer service providers as well as banks.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "Mobile money transfer services",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Sudan."
+    }
+   }
+  }
+ }
+}

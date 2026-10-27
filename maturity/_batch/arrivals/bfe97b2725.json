@@ -1,0 +1,124 @@
+{
+ "slug": "2025-05-06-ben-2-911-milliards-fcfa-de-depot-effectues-en-2024",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "ARCEP Benin's 2024 annual report, as reported by Les 4 Vérités, puts mobile financial services at 2,512 million transactions in 2024, of which 0.5% were international transfers.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Mobile financial services (MTN MoMo, Moov Money, Celtiis Cash)",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ARCEP Benin's 2024 annual report records mobile financial services from MTN Mobile Money, Moov Money and Celtiis Cash handling 2,512 million transactions in 2024, including P2P transfers and merchant payments.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "MTN Mobile Money, Moov Money, Celtiis Cash",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "MTN Mobile Money",
+       "tiers": ""
+      },
+      {
+       "system": "Moov Money",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Moov Money",
+       "tiers": ""
+      },
+      {
+       "system": "Celtiis Cash",
+       "country_label": "Benin",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Celtiis Cash",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  }
+ }
+}

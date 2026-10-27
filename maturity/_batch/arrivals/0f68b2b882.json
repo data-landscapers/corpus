@@ -1,0 +1,4 @@
+{"slug": "2024-01-26-swz-eswatini-revenue-service-commemorates-international-customs-day-2024", "studies": {
+"customs": {"countries": {"SWZ": {"facts": [{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The Eswatini Revenue Service says ASYCUDA World, a web-based customs management system, lets traders submit declarations online and file before reaching the border, and announced an upgrade so clients can declare from their own business systems.", "as_of": "2024-01-26", "date_precision": "day", "system": "ASYCUDA World", "class": "customs"}], "systems": [{"system": "ASYCUDA World", "country_label": "Eswatini", "class": "customs", "platform": "web-based", "owner": "Eswatini Revenue Service", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Only the Revenue Service's own digital transformation programme is mentioned, not a national digital strategy."}}}
+}}

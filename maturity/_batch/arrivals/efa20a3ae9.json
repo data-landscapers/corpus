@@ -1,0 +1,117 @@
+{
+ "slug": "2025-03-20-gha-notice-no-bg-gov-sec-2025-07-pilot-of-brijx-by-brij-fintech-ghana-in-t",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Bank of Ghana notice of 20 March 2025 describes Brij Fintech Ghana as a licensed payment service provider and says MobileMoney Limited is not licensed for cross-border transactions.",
+       "as_of": "2025-03-20",
+       "date_precision": "day",
+       "system": "Bank of Ghana payment service provider licensing",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The Bank of Ghana said Brij Fintech Ghana began live testing of BrijX, a cedi-naira currency swap platform, in its regulatory sandbox in February 2025.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "BrijX",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "BrijX",
+       "country_label": "Ghana",
+       "class": "crossborder",
+       "platform": "B2B currency swap platform",
+       "owner": "Brij Fintech Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for the country."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"slug": "2024-12-30-gnb-fmi-sauda-a-implementacao-da-plataforma-para-melhorar-gestao-da-folha", "studies": {
+"aiabuse": {"countries": {"GNB": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"GNB": {"facts": [], "systems": [], "note": "The document says the payroll platform is not integrated with AI models; no AI in use in administration is stated."}}},
+"aisectoral": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
+"aisystems": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built or hosted in the country is stated."}}},
+"civilserviceskills": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No digital-skills training for civil servants is stated."}}},
+"coresystems": {"countries": {"GNB": {"facts": [
+{"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "The IMF mission chief and project lead say Guinea-Bissau launched a blockchain public payroll platform in May 2024 under its IMF ECF programme, which could track all 26,600 civil servants and 8,100 pensioners by November 2024.", "as_of": "2024-05", "date_precision": "month", "system": "blockchain payroll platform", "class": "core"},
+{"sub_indicator": "core", "aspect": "renewed", "value": "live", "fact": "The IMF project lead says the new blockchain payroll ledger platform was launched successfully in May 2024, after four years of work with the Fund and Ernst & Young.", "as_of": "2024-05", "date_precision": "month", "system": "blockchain payroll platform", "class": "core"}
+], "systems": [{"system": "blockchain payroll platform", "country_label": "Guinea-Bissau", "class": "core", "platform": "blockchain ledger", "owner": "Ministry of Finance", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,457 @@
+{
+ "slug": "2025-08-12-cog-airtel-money-africa-expands-pawapay-partnership-to-supercharge-imto-re",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets.",
+       "as_of": "2025-08-12",
+       "date_precision": "day",
+       "system": "pawaPay inbound remittance on Airtel Money",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel Money Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets.",
+       "as_of": "2025-08-12",
+       "date_precision": "day",
+       "system": "pawaPay inbound remittance on Airtel Money",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel Money Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets.",
+       "as_of": "2025-08-12",
+       "date_precision": "day",
+       "system": "pawaPay inbound remittance on Airtel Money",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel Money Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets.",
+       "as_of": "2025-08-12",
+       "date_precision": "day",
+       "system": "pawaPay inbound remittance on Airtel Money",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel Money Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets.",
+       "as_of": "2025-08-12",
+       "date_precision": "day",
+       "system": "pawaPay inbound remittance on Airtel Money",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel Money Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets.",
+       "as_of": "2025-08-12",
+       "date_precision": "day",
+       "system": "pawaPay inbound remittance on Airtel Money",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel Money Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets.",
+       "as_of": "2025-08-12",
+       "date_precision": "day",
+       "system": "pawaPay inbound remittance on Airtel Money",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money",
+       "class": "crossborder",
+       "platform": "pawaPay",
+       "owner": "Airtel Money Africa",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

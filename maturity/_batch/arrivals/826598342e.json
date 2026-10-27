@@ -1,0 +1,77 @@
+{
+ "slug": "2026-10-26-moz-centro-pronto-document-application-service-to-expand-to-diaspora",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Centro Pronto",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "VFS Global partnership",
+       "owner": "ATDI",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers a document-application service centre, not this study's question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a document-application service centre, not this study's question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a document-application service centre, not this study's question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a document-application service centre, not this study's question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a document-application service centre, not this study's question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a document-application service centre, not this study's question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document covers a document-application service centre, not this study's question."
+    }
+   }
+  }
+ }
+}

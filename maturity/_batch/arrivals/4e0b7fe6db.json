@@ -1,0 +1,156 @@
+{
+ "slug": "2025-11-05-ben-moov-money-et-boa-benin-adoptent-la-plateforme-pi-spi-de-la-bceao",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Le Grand Ou\u00e9m\u00e9 reports the BCEAO recently launched PI-SPI, which Moov Money B\u00e9nin and BOA-B\u00e9nin have adopted.",
+       "as_of": "2025-11-04",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Le Grand Ou\u00e9m\u00e9 reports Moov Money B\u00e9nin and BOA-B\u00e9nin offer customers instant payments on the BCEAO's PI-SPI across the UEMOA zone, as of a 4 November 2025 ceremony.",
+       "as_of": "2025-11-04",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Le Grand Ou\u00e9m\u00e9 reports Moov Money B\u00e9nin's app now offers customers instant transfers, as the sole e-money issuer currently eligible for the service.",
+       "as_of": "2025-11-04",
+       "date_precision": "day",
+       "system": "Moov Money B\u00e9nin",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Le Grand Ou\u00e9m\u00e9 reports Moov Money customers can make instant transfers between their Moov Money account and all bank and microfinance accounts connected to PI-SPI across the UEMOA zone, and BOA-B\u00e9nin customers can send and receive instant payments to and from other connected providers.",
+       "as_of": "2025-11-04",
+       "date_precision": "day",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  }
+ }
+}

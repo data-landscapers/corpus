@@ -1,21 +1,12 @@
 {
  "slug": "2026-02-24-angop-luanda-censo-relatorio-provincial",
  "studies": {
-  "civilserviceskills": {
+  "digitaldivides": {
    "countries": {
     "AGO": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  },
-  "digitalskills": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "The census report gives no internet use or rural access programme."
     }
    }
   }

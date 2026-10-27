@@ -1,0 +1,25 @@
+{
+ "slug": "2024-10-09-zwe-public-notice-77-of-2024-zesw-roll-out",
+ "studies": {
+  "customs": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "ZIMRA's Public Notice 77 of 2024 says the Zimbabwe Electronic Single Window rolled out its Port Health and Radiation Protection Authority modules on 9 October 2024 at seven border posts and two airports.",
+       "as_of": "2024-10-09",
+       "date_precision": "day",
+       "system": "Zimbabwe Electronic Single Window (ZESW)",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

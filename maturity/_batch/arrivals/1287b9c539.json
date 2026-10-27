@@ -1,0 +1,97 @@
+{
+ "slug": "2024-10-03-mar-tranglo-launches-bank-account-transfers-in-morocco",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Tranglo says it launched real-time bank account transfers into Morocco in Moroccan dirhams, adding to its existing cash pickup corridor.",
+       "as_of": "2024-10-03",
+       "date_precision": "day",
+       "system": "Tranglo Connect",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tranglo Connect",
+       "country_label": "Tranglo",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Tranglo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Morocco."
+    }
+   }
+  }
+ }
+}

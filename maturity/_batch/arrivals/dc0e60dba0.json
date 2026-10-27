@@ -1,0 +1,32 @@
+{
+ "slug": "2025-01-01-gin-la-dematerialisation-de-l-execution-des-credits-des-services-deconcent",
+ "studies": {
+  "localgov": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SONOYAH",
+       "country_label": "Guinea",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction Generale du Budget",
+       "tiers": ""
+      }
+     ],
+     "note": "SONOYAH serves deconcentrated state services under governors and prefects, not local governments."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on schools."
+    }
+   }
+  }
+ }
+}

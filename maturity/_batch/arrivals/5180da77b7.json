@@ -1,0 +1,52 @@
+{
+ "slug": "2025-05-30-gmb-gambia-revenue-authority-delegation-participates-in-2025-afdb-annual-m",
+ "studies": {
+  "customs": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Gambia Revenue Authority's Commissioner General said on 30 May 2025 that ASYCUDA moved from version 2.7 to ASYCUDA++ and then to ASYCUDA World in 2022.",
+       "as_of": "2025-05-30",
+       "date_precision": "day",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "The Gambia Revenue Authority lists a National Single Window for trade documentation among the digital initiatives it has implemented.",
+       "as_of": "2025-05-30",
+       "date_precision": "day",
+       "system": "National Single Window",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASYCUDA World",
+       "country_label": "Gambia",
+       "class": "customs",
+       "platform": "ASYCUDA",
+       "owner": "Gambia Revenue Authority",
+       "tiers": ""
+      },
+      {
+       "system": "National Single Window",
+       "country_label": "Gambia",
+       "class": "customs",
+       "platform": "",
+       "owner": "Gambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

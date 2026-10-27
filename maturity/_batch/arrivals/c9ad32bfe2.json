@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-03-gnq-continuidad-de-los-trabajos-en-relacion-a-la-implementacion-del-sigf",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "SIGF is a civil-servant management system under implementation; no skills training or national ID system stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GNQ": {
+     "facts": [],
+     "systems": [],
+     "note": "SIGF is a civil-servant management system under implementation; no skills training or national ID system stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,367 @@
+{
+ "slug": "2026-10-22-nga-technext-meta-ndpc-secret-settlement-double-standard",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "govai",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The Federal Ministry of Communications, Innovation and Digital Economy and the National Centre for Artificial Intelligence and Robotics launched GovGuide Nigeria, a multilingual AI chatbot for government services on WhatsApp and the web, built on Meta's Llama models.",
+       "as_of": "2026-05-21",
+       "date_precision": "day",
+       "system": "GovGuide Nigeria",
+       "class": "govai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GovGuide Nigeria",
+       "country_label": "Nigeria",
+       "class": "govai",
+       "platform": "WhatsApp and web",
+       "owner": "FMCIDE and NCAIR",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "GovGuide runs on Meta's foreign Llama models; the document names no AI model, dataset or computing built or hosted in Nigeria."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The CBN data-storage circular is not licensing, switch oversight or PAPSS; nothing else on the CBN's payments role."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "rule",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Central Bank of Nigeria issued a circular ordering all banks, payment service providers, mobile money operators and fintechs to store and manage all domestic payment transaction data inside Nigeria by 1 January 2027, covering ledgers, audit logs, disaster-recovery backups and encryption keys.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "CBN circular on domestic payment transaction data",
+       "class": "rule"
+      },
+      {
+       "sub_indicator": "rule",
+       "aspect": "use",
+       "value": "enforcer",
+       "fact": "The Central Bank of Nigeria issued the circular on in-country storage of domestic payment data for the banks and payment firms it regulates, which the article says face regulatory sanctions after 1 January 2027.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "CBN circular on domestic payment transaction data",
+       "class": "rule"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Nigeria Data Protection Commission is led by National Commissioner and CEO Dr Vincent Olatunji and acts as the data protection regulator.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "The Nigeria Data Protection Commission issued a 58-page Final Order with a USD 32.8 million remedial fine and enforcement orders against Meta over consent, minors' data and cross-border transfers; the fine was dropped in a consent judgment on 3 November 2025.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Nigeria Data Protection Act 2023 is in force; its section 49 makes non-compliance with Commission orders an offence punishable by a fine or up to a year in prison.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Act 2023",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Nigeria Data Protection Commission, led by National Commissioner Dr Vincent Olatunji, enforces the Act.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "The Commission fined Meta USD 32.8 million and issued enforcement orders under the Act in a Final Order, later set aside by a consent judgment.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Nigeria Data Protection Act 2023",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "last12",
+       "value": "regressing",
+       "fact": "The Commission dropped the USD 32.8 million fine against Meta in a consent judgment entered on 3 November 2025, and the article says Meta paid no penalty.",
+       "as_of": "2025-11-03",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Act 2023",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "law",
+       "value": "in-force",
+       "fact": "The Nigeria Data Protection Act 2023 is in force and its section 49 makes non-compliance with the Commission's orders an offence.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Act 2023",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "authority",
+       "value": "appointed",
+       "fact": "The Nigeria Data Protection Commission is headed by National Commissioner and CEO Dr Vincent Olatunji.",
+       "as_of": "2026-10-22",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "system"
+      },
+      {
+       "sub_indicator": "system",
+       "aspect": "practice",
+       "value": "ruling",
+       "fact": "The Commission issued a Final Order with a USD 32.8 million remedial fine and enforcement orders against Meta, later set aside in a 3 November 2025 consent judgment.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Nigeria Data Protection Commission",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "inservice",
+       "fact": "The Central Bank of Nigeria's circular requires banks, payment providers, mobile money operators and fintechs to hold all domestic payment transaction data inside Nigeria by 1 January 2027.",
+       "as_of": "2026-06-15",
+       "date_precision": "day",
+       "system": "CBN circular on domestic payment transaction data",
+       "class": "sovereignty"
+      },
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "NITDA rolled out its National Sovereign Cloud Initiative and inaugurated a task force to certify local cloud and AI infrastructure providers.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "National Sovereign Cloud Initiative",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Nigeria."
+    }
+   }
+  }
+ }
+}

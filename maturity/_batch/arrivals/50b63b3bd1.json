@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-01-zmb-evaluating-the-usage-of-integrated-financial-management-information-sy",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "finance",
+       "value": "inuse",
+       "fact": "A 2025 East African Finance Journal study by Sikabanga and Haabazoka finds the IFMIS digital platform in use in Zambian government ministries, with regular downtimes and weak support noted.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "IFMIS",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IFMIS",
+       "country_label": "Integrated Financial Management Information System",
+       "class": "core",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "ictjobs": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

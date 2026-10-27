@@ -1,0 +1,95 @@
+{
+ "slug": "2025-09-10-tza-tanzania-to-join-pan-african-payment-system-in-october",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on e-procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Pan-African Payment and Settlement System (PAPSS)",
+       "country_label": "PAPSS",
+       "class": "other",
+       "platform": "",
+       "owner": "Afreximbank/PAPSS",
+       "tiers": ""
+      }
+     ],
+     "note": "PAPSS's chief says the Bank of Tanzania committed to connect by end-October 2025; a commitment is not a live connection."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on consumer rules or redress."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Pan-African Payment and Settlement System (PAPSS)",
+       "country_label": "PAPSS",
+       "class": "other",
+       "platform": "",
+       "owner": "Afreximbank/PAPSS",
+       "tiers": ""
+      }
+     ],
+     "note": "Tanzania's connection to PAPSS is announced for end-October 2025, a commitment and not a system in service."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on government payments to people."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey share of adults with an account is given."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on retail mobile money in Tanzania."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on tax or fee payment."
+    }
+   }
+  }
+ }
+}

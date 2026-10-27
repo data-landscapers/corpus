@@ -1,0 +1,243 @@
+{
+ "slug": "2025-11-11-tza-eac-begins-building-regional-instant-payment-network-with-rwanda-tanza",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on e-procurement."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on e-procurement."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The Bank of Tanzania's payments directorate chairs the meeting, but no licensing or switch oversight role is stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The Bank of Tanzania's payments directorate chairs the meeting, but no licensing or switch oversight role is stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on consumer protection rules or redress."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on consumer protection rules or redress."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The EAC says Rwanda and Tanzania have moved into technical implementation of a proof-of-concept pilot linking Tanzania's TIPS with Rwanda's RSwitch for cross-border transfers between bank accounts and mobile money wallets, not yet operational.",
+       "as_of": "2025-11-11",
+       "date_precision": "day",
+       "system": "TIPS-RSwitch link",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TIPS-RSwitch link",
+       "country_label": "TIPS-RSwitch proof of concept",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "EAC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The EAC says Rwanda and Tanzania have moved into technical implementation of a proof-of-concept pilot linking Tanzania's TIPS with Rwanda's RSwitch for cross-border transfers between bank accounts and mobile money wallets, not yet operational.",
+       "as_of": "2025-11-11",
+       "date_precision": "day",
+       "system": "TIPS-RSwitch link",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TIPS-RSwitch link",
+       "country_label": "TIPS-RSwitch proof of concept",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "EAC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names data protection only as a project aim, with no law."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names data protection only as a project aim, with no law."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on government payments to people."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on government payments to people."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns payment switches, not a government data-exchange framework."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document concerns payment switches, not a government data-exchange framework."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey of account ownership is given."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey of account ownership is given."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Rwanda took part in the EAC's November 2025 technical meeting in Kigali on the EAC Cross-Border Payment System Masterplan and its first pilot, linking RSwitch with Tanzania's TIPS.",
+       "as_of": "2025-11-11",
+       "date_precision": "day",
+       "system": "EAC Cross-Border Payment System Masterplan",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "A technical meeting under the EAC Cross-Border Payment System Masterplan, held 10-14 November 2025 in Kigali, was chaired by Fabian Ladislaus Kasole of the Bank of Tanzania, according to the EAC.",
+       "as_of": "2025-11-11",
+       "date_precision": "day",
+       "system": "EAC Cross-Border Payment System Masterplan",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The EAC describes Rwanda National Payment Switch (RSwitch) as the country's national retail payment switch, to be linked with the partner switch to move money between bank accounts and mobile money wallets.",
+       "as_of": "2025-11-11",
+       "date_precision": "day",
+       "system": "Rwanda National Payment Switch (RSwitch)",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "The EAC describes Tanzania Instant Payment System (TIPS) as the country's national retail payment switch, to be linked with the partner switch to move money between bank accounts and mobile money wallets.",
+       "as_of": "2025-11-11",
+       "date_precision": "day",
+       "system": "Tanzania Instant Payment System (TIPS)",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on tax or fee payment."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on tax or fee payment."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2024-09-21-dza-algerieeco-alces-apcs-serport-interconnexion",
+ "studies": {
+  "customs": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Algerian customs' new information system ALCES, launched in November 2023, handles electronic declarations and electronic clearance.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "ALCES",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ALCES",
+       "country_label": "Algeria",
+       "class": "customs",
+       "platform": "",
+       "owner": "Direction generale des Douanes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing about school internet."
+    }
+   }
+  }
+ }
+}

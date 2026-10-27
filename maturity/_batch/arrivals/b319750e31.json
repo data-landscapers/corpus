@@ -1,0 +1,32 @@
+{
+ "slug": "2025-02-21-ben-architecture-gouvernementale-pour-les-projets-numeriques-au-benin-des",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a training on a government architecture framework; no published architecture or inventory."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Framework on architecture norms is being set up, but the article does not say it sets data-exchange rules."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "ASIN staff training only; no system said to be run or built by government staff."
+    }
+   }
+  }
+ }
+}

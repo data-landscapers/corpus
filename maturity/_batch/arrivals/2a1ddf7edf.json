@@ -1,0 +1,10 @@
+{"slug": "2025-06-01-gnq-equatorial-guinea-completes-nationwide-rollout-of-asycudaworld", "studies": {
+"customs": {"countries": {"GNQ": {"facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "UNCTAD ASYCUDA reports in June 2025 that ASYCUDAWorld is fully operational in all Equatorial Guinea customs offices, with Bata live since November 2024, the Malabo port since March 2025 and the Malabo airport since 2020, enabling paperless clearance.", "as_of": "2025-06", "date_precision": "month", "system": "ASYCUDAWorld", "class": "customs"}],
+"systems": [{"system": "ASYCUDAWorld", "country_label": "ASYCUDAWorld", "class": "customs", "platform": "ASYCUDA", "owner": "Direccion General de Aduanas", "tiers": "national"}], "note": ""}}},
+"educationmis": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on education systems is stated."}}},
+"health": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on health information systems is stated."}}},
+"healthmis": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on health information systems is stated."}}},
+"internationalstandards": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Only alignment with international standards in general; no standards body membership or named standard."}}},
+"schools": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on school records is stated."}}}
+}}

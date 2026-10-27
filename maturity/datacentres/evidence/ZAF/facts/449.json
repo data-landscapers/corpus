@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-26-zaf-itweb-steyn-data-centre-inquiry-king-v",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Africa Data Centres Midrand campus",
+   "country_label": "Africa Data Centres Midrand",
+   "class": "other",
+   "platform": "",
+   "owner": "Africa Data Centres",
+   "tiers": ""
+  }
+ ],
+ "note": "The Midrand campus is named without saying it rents capacity or its Tier; the Cape Town site is not in service."
+}

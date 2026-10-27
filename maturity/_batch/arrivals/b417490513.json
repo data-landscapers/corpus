@@ -1,0 +1,4 @@
+{"slug": "2025-11-23-swz-government-embarks-on-new-era-of-budgeting-with-ifmis-rollout", "studies": {
+"coresystems": {"countries": {"SWZ": {"facts": [{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "Eswatini Positive News reports that, for the first time, all ministries, departments and agencies are entering their plans and budgets directly into the new IFMIS, with all modules and exclusive in-system payments expected by April 2026 to replace a 1992 mainframe.", "as_of": "2025-11", "date_precision": "month", "system": "IFMIS", "class": "core"}], "systems": [{"system": "IFMIS", "country_label": "Integrated Financial Management Information System", "class": "core", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": ""}}},
+"egovservices": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on online services for the public."}}}
+}}

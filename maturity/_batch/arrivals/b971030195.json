@@ -1,0 +1,20 @@
+{"slug": "2026-07-13-mar-portnet-processes-more-nearly-200-000-customs-declarations-in-june", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The only AI mention concerns customs, a sector system, not general administration."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "The 7News report says authorities are working to introduce artificial intelligence into PortNet, Morocco's customs single window, with no tool yet in service.", "as_of": "2026-07-13", "date_precision": "day", "system": "PortNet", "class": "sectorai"}], "systems": [{"system": "PortNet", "country_label": "Morocco", "class": "sectorai", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted is stated."}}},
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document does not describe e-procurement."}}},
+"centralbank": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on the central bank."}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"customs": {"countries": {"MAR": {"facts": [{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "PortNet's monthly report says it processed 191,388 Single Goods Declarations (DUM) in June 2026, 115,180 import and 76,208 export declarations.", "as_of": "2026-06", "date_precision": "month", "system": "PortNet", "class": "customs"}, {"sub_indicator": "customs", "aspect": "window", "value": "window", "fact": "The 7News report describes PortNet as Morocco's National Single Window for Foreign Trade, connecting customs, ports, banks and businesses, with 95,753 active users in June 2026.", "as_of": "2026-06", "date_precision": "month", "system": "PortNet", "class": "customs"}], "systems": [{"system": "PortNet", "country_label": "Morocco", "class": "customs", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataexchange": {"countries": {"MAR": {"facts": [], "systems": [{"system": "PortNet", "country_label": "Morocco", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "PortNet is a trade single window; the document gives no count of connected public bodies or exchange figures."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"health": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on health data."}}},
+"interoperability": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on an interoperability framework."}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No account-ownership survey figure stated."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Electronic payment of invoices is mentioned, but not of taxes, duties or fees to the state."}}},
+"schools": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on schools."}}},
+"socialexchange": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document states nothing on social protection."}}}
+}}

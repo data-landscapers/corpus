@@ -1,0 +1,18 @@
+{"slug":"2025-06-04-mdg-commerce-exterieur-gasynet-rapporte-un-delai-moyen-de-dedouanement-red","studies":{
+"businesspayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"centralbank":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"consumerprotection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"crossborderpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"customs":{"countries":{"MDG":{"facts":[{"sub_indicator":"customs","aspect":"system","value":"inservice","fact":"GasyNet's chief executive says the TradeNet electronic single window, with its Douar customs module, is in service and has cut average clearance time to three days.","as_of":"2025-06-03","date_precision":"day","system":"TradeNet","class":"customs"},{"sub_indicator":"customs","aspect":"window","value":"window","fact":"GasyNet's chief executive says TradeNet connects customs (Douar), control ministries and agencies (Midac) and shipping lines (Delivery Order) in one electronic single window.","as_of":"2025-06-03","date_precision":"day","system":"TradeNet","class":"customs"}],"systems":[{"system":"TradeNet","country_label":"Madagascar","class":"customs","platform":"","owner":"GasyNet","tiers":""}],"note":""}}},
+"educationexchange":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"educationmis":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"g2ppayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"health":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"healthmis":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"nonstatefinance":{"countries":{"MDG":{"facts":[],"systems":[],"note":"The GasyNet public-private partnership with SGS is named but no amount stated."}}},
+"paymentsuptake":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"retailpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"revenuecollection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"A payment module is named without saying which taxes or duties it takes."}}},
+"schools":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"taxadmin":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

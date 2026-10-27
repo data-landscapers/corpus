@@ -1,0 +1,126 @@
+{
+ "slug": "2025-01-30-gab-gabon-vers-une-modernisation-des-douanes-pour-faciliter-le-commerce-et",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Gabonmediatime reports the migration of Gabon's customs to SYDONIA World is being completed, a system it says analyses declarations faster and has proved itself, with a backup site for continuity.",
+       "as_of": "2025-01-23",
+       "date_precision": "day",
+       "system": "SYDONIA World",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYDONIA World",
+       "country_label": "Gabon",
+       "class": "customs",
+       "platform": "SYDONIA World",
+       "owner": "DGDDI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "A backup site for SYDONIA World is mentioned without place, distance or tier."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Gabonmediatime lists the introduction of e-payment among the DGDDI customs measures reviewed by the economy minister on 23 January 2025, saying it saves operators time and costs.",
+       "as_of": "2025-01-23",
+       "date_precision": "day",
+       "system": "e-paiement",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

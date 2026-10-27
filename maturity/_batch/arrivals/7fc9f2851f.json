@@ -1,0 +1,14 @@
+{"slug": "2025-01-01-gnq-trade-facilitation-and-paperless-trade-in-equatorial-guinea", "studies": {
+"authentication": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "The legal framework for digital authentication is answered 'do not know'."}}},
+"businesspayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on e-procurement is stated."}}},
+"centralbank": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role is stated."}}},
+"consumerprotection": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on financial consumer protection is stated."}}},
+"crossborderpayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on cross-border payments is stated."}}},
+"customs": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "The survey rates the automated customs system and e-submission of declarations at planning stage, not procured or installed, and the e-single window not implemented; exchange of declarations is 'do not know'."}}},
+"g2ppayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on government payments to people is stated."}}},
+"paymentsuptake": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "No account-holding survey figure is stated."}}},
+"publicconsultation": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Only stakeholder consultation on draft trade regulations (not implemented), which is not a digital law or policy."}}},
+"qualitystandards": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "The survey names no national standards body or IT standard; SPS standards bodies are 'do not know'."}}},
+"retailpayments": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments is stated."}}},
+"revenuecollection": {"countries": {"GNQ": {"facts": [], "systems": [], "note": "E-payment of customs duties is only at planning stage, not piloted or contracted."}}}
+}}

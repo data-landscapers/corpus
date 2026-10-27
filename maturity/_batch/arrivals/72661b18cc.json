@@ -1,0 +1,4 @@
+{"slug": "2024-06-25-nga-fg-tackles-revenue-leakage-deploys-central-disbursement-solutions", "studies": {
+"civilserviceskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil-service digital training."}}},
+"coresystems": {"countries": {"NGA": {"facts": [], "systems": [{"system": "Revenue Assurance and Central Disbursement Solutions", "country_label": "Revenue Assurance and Central Disbursement Solutions", "class": "other", "platform": "GIFMIS", "owner": "Federal Ministry of Finance", "tiers": ""}], "note": "GIFMIS is named only as a platform the new solution would use; the document does not state it in use across central government, and the new system is to be deployed."}}}
+}}

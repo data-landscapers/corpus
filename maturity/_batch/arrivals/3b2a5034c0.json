@@ -1,0 +1,165 @@
+{
+ "slug": "2025-03-01-swz-cma-eft-payments-directive-no-1-of-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Directive issued by the Bank; licensing by the Bank or a switch it oversees is not stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The directive says low-value cross-border electronic funds transfers within the Common Monetary Area are currently executed through SADC-RTGS.",
+       "as_of": "2025-03-31",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Eswatini payment service providers route low-value CMA cross-border transfers through the SADC-RTGS system and must move them to the TCIB scheme by 31 March 2027.",
+       "as_of": "2025-03-31",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SADC-RTGS",
+       "country_label": "SADC real-time gross settlement",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Central Bank of Eswatini issued the CMA EFT Payments Directive no 1 of 2025 under the National Payments System Act, 2023, binding all payment service providers from 31 March 2025.",
+       "as_of": "2025-03-31",
+       "date_precision": "day",
+       "system": "National Payments System Act, 2023",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "non-bank",
+       "fact": "The directive defines payment service providers as persons or institutions licensed under section 22 of the National Payments System Act, 2023.",
+       "as_of": "2025-03-31",
+       "date_precision": "day",
+       "system": "National Payments System Act, 2023",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "connect",
+       "fact": "The directive sets a regulator deadline of 31 March 2027 for payment service providers to migrate low-value CMA cross-border transfers from SADC-RTGS to the TCIB scheme.",
+       "as_of": "2025-03-31",
+       "date_precision": "day",
+       "system": "CMA EFT Payments Directive no 1 of 2025",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TCIB",
+       "country_label": "Transactions Cleared on an Immediate Basis",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  }
+ }
+}

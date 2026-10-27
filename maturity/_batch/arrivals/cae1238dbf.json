@@ -1,0 +1,25 @@
+{
+ "slug": "2024-10-27-dza-observalgerie-douane-systeme-information-voyageurs",
+ "studies": {
+  "customs": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Algerian customs' information director said on 26 October 2024 that the new customs information system entered service in November 2023, with the ALCES platform already launched at ports.",
+       "as_of": "2023-11",
+       "date_precision": "month",
+       "system": "ALCES (ALgerian Customs Electronic System)",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

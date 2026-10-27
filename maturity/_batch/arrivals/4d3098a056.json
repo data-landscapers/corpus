@@ -1,0 +1,9 @@
+{"slug": "2025-08-24-sen-tresor-public-vers-un-systeme-integre-de-gestion-financiere-et-comptab", "studies": {
+"coresystems": {"countries": {"SEN": {"facts": [], "systems": [{"system": "Systeme integre de gestion financiere et comptable", "country_label": "new integrated financial and accounting system, go-live targeted 2 January 2026, budget module a year later", "class": "other", "platform": "", "owner": "Direction generale de la Comptabilite publique et du Tresor", "tiers": ""}], "note": "The system is stated as a target for 2 January 2026, not as gone live; no system in use is described."}}},
+"educationmis": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No education system stated."}}},
+"health": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No health system stated."}}},
+"healthmis": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No health system stated."}}},
+"ictstrategy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No ICT sector policy stated."}}},
+"justice": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No court system stated."}}},
+"police": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No police station records stated."}}}
+}}

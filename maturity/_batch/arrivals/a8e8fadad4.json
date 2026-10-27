@@ -1,0 +1,113 @@
+{
+ "slug": "2024-11-11-ssd-government-to-digitize-payroll-system-in-2025",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "government payroll digitisation",
+       "country_label": "South Sudan",
+       "class": "other",
+       "platform": "",
+       "owner": "South Sudan e-Services board",
+       "tiers": ""
+      }
+     ],
+     "note": "Payroll digitisation is only announced for 2025, awaiting the finance ministry; not a system in use."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  }
+ }
+}

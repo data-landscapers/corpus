@@ -1,0 +1,25 @@
+{
+ "slug": "2024-03-15-moz-mozambique-state-collected-2-billion-meticais-from-kudumba-since-2006",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "Mozambique's economy and finance minister told parliament in March 2024 that MCNET is concessionaire of the single electronic system for customs clearance (Janela Unica Electronica), operating since 2010.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Janela Unica Electronica (MCNET)",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

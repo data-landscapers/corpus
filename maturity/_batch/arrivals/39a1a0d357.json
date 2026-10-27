@@ -1,0 +1,135 @@
+{
+ "slug": "2025-01-01-ago-trade-facilitation-and-paperless-trade-in-angola",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The UN Global Survey on Digital and Sustainable Trade Facilitation 2025 round reports Angola's automated customs system as fully implemented.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Automated Customs System",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The UN Global Survey 2025 round reports electronic payment of customs duties in Angola as partially implemented.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "E-Payment of Customs Duties",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

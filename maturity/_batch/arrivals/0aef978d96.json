@@ -1,0 +1,135 @@
+{
+ "slug": "2025-04-22-nam-namra-sets-four-year-target-to-fully-digitize-services",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "NamRA's Commissioner referred to the Integrated Tax Administration System and the Customs System as NamRA's existing systems that are to be fully integrated.",
+       "as_of": "2025-04-22",
+       "date_precision": "day",
+       "system": "Integrated Tax Administration System",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated Tax Administration System",
+       "country_label": "Namibia",
+       "class": "core",
+       "platform": "",
+       "owner": "Namibia Revenue Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "NamRA's digital transformation strategy is an agency plan, not the whole government's strategy."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "NamRA said its approved digital transformation strategy, with some programmes already underway and World Bank support for a digital tax ecosystem, aims to integrate the Integrated Tax Administration System and let taxpayers file online.",
+       "as_of": "2025-04-22",
+       "date_precision": "day",
+       "system": "Integrated Tax Administration System",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated Tax Administration System",
+       "country_label": "Namibia",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "Namibia Revenue Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

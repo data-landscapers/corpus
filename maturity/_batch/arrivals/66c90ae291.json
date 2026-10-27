@@ -1,0 +1,10 @@
+{"slug": "2026-09-15-lby-papss-engages-libya-s-banking-sector", "studies": {
+"businesspayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."}}},
+"centralbank": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only a PAPSS workshop with the Central Bank of Libya and an invitation to join is stated; joining is not live."}}},
+"consumerprotection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No consumer protection is mentioned."}}},
+"crossborderpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A workshop introducing PAPSS to Libyan banks is not a corridor or regional system in service."}}},
+"g2ppayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"paymentsuptake": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No account ownership survey is mentioned."}}},
+"retailpayments": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No retail payment service is mentioned."}}},
+"revenuecollection": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."}}}
+}}

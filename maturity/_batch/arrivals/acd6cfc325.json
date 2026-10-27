@@ -1,0 +1,21 @@
+{"slug":"2026-02-19-lby-cbl-circular-6-2026-direct-foreign-remittances-arabic","studies":{
+"authentication":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"birthidlink":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"businesspayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"businessregister":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"centralbank":{"countries":{"LBY":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"licensing","fact":"Central Bank of Libya Circular 6 of 2026 authorises exchange companies it has licensed to carry out direct foreign remittances for firms and small traders, up to USD 100,000 a transfer and USD 300,000 a year per firm, with banks executing the SWIFT transfer.","as_of":"2026-02-19","date_precision":"day","system":"Circular 6 of 2026 direct foreign remittances","class":"oversight"}],"systems":[],"note":""}}},
+"consumerprotection":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Commission caps only; no consumer-protection rule or complaints body stated."}}},
+"crossborderpayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Remittances via exchange companies and SWIFT are stated but no named corridor."}}},
+"g2ppayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idcoverage":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idfrombirth":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idmaintenance":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idregisters":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idrobustness":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idverification":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"internationalstandards":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"paymentsuptake":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"police":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"retailpayments":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"revenuecollection":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}}
+}}

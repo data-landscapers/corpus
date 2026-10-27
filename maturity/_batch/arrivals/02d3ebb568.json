@@ -1,0 +1,117 @@
+{
+ "slug": "2025-05-23-civ-commerce-10-ans-apres-sa-mise-en-service-le-guichet-unique-du-commerce",
+ "studies": {
+  "customs": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "The Ministry of Commerce says the GUCE-CI single window lets traders complete import, export and transit formalities entirely online and is the central digital interface between operators, public administrations and banks, with ten years of service.",
+       "as_of": "2025-05-22",
+       "date_precision": "day",
+       "system": "GUCE-CI",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GUCE-CI",
+       "country_label": "Guichet Unique du Commerce Ext\u00e9rieur de C\u00f4te d'Ivoire",
+       "class": "customs",
+       "platform": "GuceMobil app and website",
+       "owner": "GUCE-CI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "GUCE-CI is a trade single window for operators, and no platform exchanging data between government systems is described."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The GUCE-CI single window lets businesses do import, export and transit formalities online without travelling, and users track their procedures in real time on its website and the GuceMobil app, the ministry says.",
+       "as_of": "2025-05-22",
+       "date_precision": "day",
+       "system": "GUCE-CI",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": "No count of services is given."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on online participation in policy."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on a national ID system."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "GUCE-CI's ISO certificates are an institution's certificates, which place nothing."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "GUCE-CI holds ISO 22301 for business continuity, but no backup site or its place is stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document says nothing on consultation on digital laws or policies."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "GUCE-CI's ISO 9001, 27001 and 22301 certifications name no certifier in the country."
+    }
+   }
+  }
+ }
+}

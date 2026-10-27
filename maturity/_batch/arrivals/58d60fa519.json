@@ -1,0 +1,16 @@
+{"slug": "2024-12-04-swz-new-momo-product-receive-money-from-sa", "studies": {
+"businesspayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No consumer protection rule or body stated; the scam warning is MTN's own."}}},
+"crossborderpayments": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Independent News reports that MTN Eswatini launched its MoMo Cross-Border Service on 2 December 2024, letting MTN customers in South Africa send money directly to MoMo wallets in Eswatini.", "as_of": "2024-12-02", "date_precision": "day", "system": "MoMo Cross-Border Service", "class": "crossborder"}
+], "systems": [{"system": "MoMo Cross-Border Service", "country_label": "MTN Eswatini MoMo Cross-Border Service (South Africa to Eswatini)", "class": "crossborder", "platform": "MTN MoMo", "owner": "MTN Eswatini", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No survey of account holding stated."}}},
+"regionalpolicy": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A company's cross-border product; no African body or government agreement on digital policy stated."}}},
+"retailpayments": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Independent News reports that MTN Eswatini's MoMo mobile money wallet is in service for sending and receiving money, paying bills, buying groceries, airtime and data, as described by its fintech CEO at the 2 December 2024 launch.", "as_of": "2024-12-02", "date_precision": "day", "system": "MTN MoMo", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Independent News reports that MTN Eswatini's fintech CEO said MoMo customers can transfer funds to and from their bank accounts.", "as_of": "2024-12-02", "date_precision": "day", "system": "MTN MoMo", "class": "retail"}
+], "systems": [{"system": "MTN MoMo", "country_label": "MTN Eswatini MoMo", "class": "retail", "platform": "", "owner": "MTN Eswatini", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Bill payments are for utilities and services; no tax or government fee payment stated."}}}
+}}

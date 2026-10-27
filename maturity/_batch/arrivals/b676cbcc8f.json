@@ -1,0 +1,146 @@
+{
+ "slug": "2026-06-23-zaf-regulatory-approach-to-cross-border-payment-facilitators",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The South African Reserve Bank says on 23 June 2026 that its payment system and financial surveillance departments are drafting rules for cross-border payment facilitators, with a draft FinSurv circular issued in December 2025 on cross-border settlement and reporting.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "Draft FinSurv cross-border retail e-commerce circular",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The South African Reserve Bank says on 23 June 2026 that its National Payment System Department has published a draft directive on issuing and acquiring payments for offshore merchants, with comments closing 17 July 2026.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "NPSD draft directive on payments for offshore merchants",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The South African Reserve Bank says on 23 June 2026 that stakeholders are invited to comment on the National Payment System Department's draft directive until 17 July 2026, and that the FinSurv draft circular of December 2025 went out for public consultation.",
+       "as_of": "2026-06-23",
+       "date_precision": "day",
+       "system": "NPSD draft directive consultation",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for South Africa."
+    }
+   }
+  }
+ }
+}

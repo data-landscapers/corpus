@@ -1,0 +1,366 @@
+{
+ "slug": "2025-07-01-tcd-tranglo-grows-footprint-in-africa-with-5-new-countries",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Tranglo's 1 July 2025 press release says its payment hub now supports e-wallet payouts in Central African Republic, with near-instant transfers in local currency at launch.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "Tranglo",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tranglo",
+       "country_label": "Central African Republic",
+       "class": "crossborder",
+       "platform": "Tranglo payment hub",
+       "owner": "Tranglo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Tranglo's 1 July 2025 press release says its payment hub now supports e-wallet payouts in Congo Brazzaville, with near-instant transfers in local currency at launch.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "Tranglo",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tranglo",
+       "country_label": "Congo Brazzaville",
+       "class": "crossborder",
+       "platform": "Tranglo payment hub",
+       "owner": "Tranglo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Tranglo's 1 July 2025 press release says its payment hub now supports e-wallet payouts in Gabon, with near-instant transfers in local currency at launch.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "Tranglo",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tranglo",
+       "country_label": "Gabon",
+       "class": "crossborder",
+       "platform": "Tranglo payment hub",
+       "owner": "Tranglo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Tranglo's 1 July 2025 press release says its payment hub now supports e-wallet payouts in Sierra Leone, with near-instant transfers in local currency at launch.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "Tranglo",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tranglo",
+       "country_label": "Sierra Leone",
+       "class": "crossborder",
+       "platform": "Tranglo payment hub",
+       "owner": "Tranglo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Tranglo's 1 July 2025 press release says its payment hub now supports e-wallet payouts in Chad, with near-instant transfers in local currency at launch.",
+       "as_of": "2025-07-01",
+       "date_precision": "day",
+       "system": "Tranglo",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tranglo",
+       "country_label": "Chad",
+       "class": "crossborder",
+       "platform": "Tranglo payment hub",
+       "owner": "Tranglo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a payment hub press release; states nothing this study asks."
+    }
+   }
+  }
+ }
+}

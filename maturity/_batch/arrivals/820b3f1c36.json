@@ -1,0 +1,73 @@
+{
+ "slug": "2026-10-24-uga-ngo-bureau-to-automate-registration-and-service-delivery",
+ "studies": {
+  "dataprotectionauthority": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "Uganda's Personal Data Protection Office, headed by National Director Baker Birikujja, co-organised the NGO conference of 23 October 2026 and reminded organisations that protecting personal information is a fundamental obligation, New Vision reports.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "Personal Data Protection Office",
+       "class": "authority"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Personal Data Protection Office",
+       "country_label": "Personal Data Protection Office",
+       "class": "authority",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "Uganda's Personal Data Protection Office, led by a National Director, took part in the NGO compliance conference of 23 October 2026, per New Vision.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "Personal Data Protection Office",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "At the 23 October 2026 conference a law firm partner listed enforcement of data protection legislation among the obligations NGOs in Uganda must attend to, New Vision reports.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "Uganda data protection legislation",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Online NGO registration and payment at the National Bureau for NGOs is expected by the end of the financial year; resources are allocated but no portal is launched or piloted."
+    }
+   }
+  }
+ }
+}

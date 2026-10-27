@@ -1,12 +1,12 @@
 {
  "slug": "2026-05-12-nuis-national-student-id-rollout",
  "studies": {
-  "taxadmin": {
+  "customs": {
    "countries": {
     "MDG": {
      "facts": [],
      "systems": [],
-     "note": "The document says nothing about tax filing or payment."
+     "note": "Document concerns a student ID, not customs."
     }
    }
   }

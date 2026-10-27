@@ -1,0 +1,7 @@
+{"slug": "2024-12-10-moz-government-to-make-public-spending-more-transparent-through-technology", "studies": {
+"coresystems": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "360 Mozambique, relaying Noticias, reports e-SISTAFE, the state's financial management system in place since 2004, supports planning, budgeting, financial execution and payments, and extends the Single Treasury Account, as the CEDSIF chairman says.", "as_of": "2024-12", "date_precision": "month", "system": "e-SISTAFE", "class": "core"}
+], "systems": [{"system": "e-SISTAFE", "country_label": "Mozambique", "class": "core", "platform": "", "owner": "CEDSIF", "tiers": ""}], "note": "The internal-audit module is a pilot planned for early 2025, not a system gone live."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The NUIT taxpayer number is not stated to be the national ID number or keyed on it."}}},
+"taxregister": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The NUIT is mentioned only as a number that broadened the taxpayer base; no computerised register is stated."}}}
+}}

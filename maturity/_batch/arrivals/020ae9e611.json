@@ -1,0 +1,68 @@
+{
+ "slug": "2025-01-01-mrt-tfad-trade-facilitation-agreement-database-mauritania-article-10-4-sin",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ASYCUDA",
+       "country_label": "Mauritania",
+       "class": "other",
+       "platform": "",
+       "owner": "Direction Generale des Douanes",
+       "tiers": ""
+      }
+     ],
+     "note": "Single window deadline of 31 December 2024 missed and extension to 2027 requested; only assistance needs listed, no system stated in use or being installed."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  }
+ }
+}

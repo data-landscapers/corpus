@@ -1,0 +1,100 @@
+{
+ "slug": "2026-09-01-mli-cooperation-bilaterale-la-cote-d-ivoire-et-le-mali-ont-evalue-la-mise",
+ "studies": {
+  "customs": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "exchange",
+       "value": "exchange",
+       "fact": "Douanes Ivoiriennes report that Cote d Ivoire and Mali teams met on 24-25 September 2026 to assess SIGMAT in its operating phase on the Abidjan-Bamako transit corridor, sharing information between the two administrations.",
+       "as_of": "2026-09-25",
+       "date_precision": "day",
+       "system": "SIGMAT",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGMAT",
+       "country_label": "Systeme Interconnecte de Gestion des Marchandises en Transit",
+       "class": "customs",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "exchange",
+       "value": "exchange",
+       "fact": "Douanes Ivoiriennes report that Cote d Ivoire and Mali teams met on 24-25 September 2026 to assess SIGMAT in its operating phase on the Abidjan-Bamako transit corridor, sharing information between the two administrations.",
+       "as_of": "2026-09-25",
+       "date_precision": "day",
+       "system": "SIGMAT",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGMAT",
+       "country_label": "Systeme Interconnecte de Gestion des Marchandises en Transit",
+       "class": "customs",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datatransfers": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

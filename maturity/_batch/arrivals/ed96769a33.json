@@ -1,0 +1,187 @@
+{
+ "slug": "2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "business",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "FurtherAfrica says the Rwanda Cooperation Initiative introduced an e-Procurement system in Guinea, designed to digitize public procurement.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "e-Procurement",
+       "class": "procurement"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Procurement",
+       "country_label": "e-Procurement",
+       "class": "procurement",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "finance",
+       "value": "inuse",
+       "fact": "FurtherAfrica says the Rwanda Cooperation Initiative implemented the IFMIS in Chad, integrating ministries, banks, telecoms and the treasury, with over 1,400 users trained.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "IFMIS",
+       "class": "core"
+      },
+      {
+       "sub_indicator": "core",
+       "aspect": "payroll",
+       "value": "inuse",
+       "fact": "FurtherAfrica says Chad's IFMIS covers human resource management, payroll and accounting.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "IFMIS",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IFMIS",
+       "country_label": "IFMIS",
+       "class": "core",
+       "platform": "",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      },
+      {
+       "system": "eTax",
+       "country_label": "eTax (pilot)",
+       "class": "other",
+       "platform": "",
+       "owner": "DGI Tchad",
+       "tiers": ""
+      },
+      {
+       "system": "EBM",
+       "country_label": "EBM",
+       "class": "other",
+       "platform": "",
+       "owner": "DGI Tchad",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "domesticfinancing": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "underway",
+       "fact": "FurtherAfrica says Chad's eTax system covers electronic filing, with a pilot rolled out to businesses.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "eTax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "FurtherAfrica says Chad's eTax system covers taxpayer registration, with a pilot rolled out to businesses.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "eTax",
+       "class": "tax"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

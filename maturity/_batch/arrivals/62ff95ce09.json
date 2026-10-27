@@ -1,0 +1,136 @@
+{
+ "slug": "2025-06-17-cog-airtel-money-elargit-ses-services-au-dela-de-la-cemac-et-connecte-31-p",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "Agence Ecofin, carrying an Airtel Congo communique, says Airtel Money launched international transfers from the phone to 31 further African countries, including Mali, Senegal, DRC, Benin and Cote d'Ivoire, beyond the CEMAC.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The Airtel Congo communique says the Airtel Money service reaches those 31 countries over the GIMAC Pay network.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "GIMAC Pay",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The communique gives a flat fee of 3.8% excluding tax for Airtel Money transfers outside the CEMAC.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money Congo",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel Congo",
+       "tiers": ""
+      },
+      {
+       "system": "GIMAC Pay",
+       "country_label": "GIMAC Pay",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "GIMAC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Airtel Congo says Airtel Money is established in the six CEMAC countries including Congo, as a mobile money service.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

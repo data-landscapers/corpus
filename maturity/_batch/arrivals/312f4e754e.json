@@ -1,0 +1,13 @@
+{"slug":"2025-08-30-tun-panafrican-payment-and-settlement-system-papss-une-necessaire-adhesion","studies":{
+"businesspayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"centralbank":{"countries":{"TUN":{"facts":[{"sub_indicator":"centralbank","aspect":"regional","value":"joined","fact":"La Presse reports the Central Bank of Tunisia subscribed to PAPSS in February 2024, and that only two Tunisian commercial banks had subscribed by August 2025.","as_of":"2024-02","date_precision":"month","system":"PAPSS","class":"oversight"}],"systems":[],"note":""}}},
+"consumerprotection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"crossborderpayments":{"countries":{"TUN":{"facts":[{"sub_indicator":"crossborder","aspect":"regional","value":"regional","fact":"La Presse reports the Central Bank of Tunisia joined PAPSS in February 2024 and two Tunisian commercial banks had subscribed by August 2025, so Tunisian firms could not yet generally use it.","as_of":"2025-08","date_precision":"month","system":"PAPSS","class":"crossborder"}],"systems":[{"system":"PAPSS","country_label":"PAPSS","class":"crossborder","platform":"","owner":"Afreximbank","tiers":"central bank; two commercial banks"}],"note":""}}},
+"g2ppayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"idverification":{"countries":{"TUN":{"facts":[],"systems":[],"note":"The e-KYC figure is continental and names no Tunisian service."}}},
+"nonstatefinance":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"paymentsuptake":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"retailpayments":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"revenuecollection":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}},
+"startups":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Document states nothing this study asks."}}}
+}}

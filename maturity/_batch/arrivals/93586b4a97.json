@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-17-bdi-migration-du-guichet-unique-electronique-de-l-abrema-vers-une-platefor",
+ "studies": {
+  "customs": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "The Office Burundais des Recettes says the web-based ABREMA module of the electronic single window for medicine imports was presented on 17 February 2026, with the OBR, commercial banks and customs agents as partners, and use of the platform mandatory for medicine importers from 18 February 2026.",
+       "as_of": "2026-02-17",
+       "date_precision": "day",
+       "system": "ABREMA electronic single window",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ABREMA electronic single window",
+       "country_label": "ABREMA module",
+       "class": "customs",
+       "platform": "",
+       "owner": "Office Burundais des Recettes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

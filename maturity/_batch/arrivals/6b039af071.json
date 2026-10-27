@@ -1,0 +1,94 @@
+{
+ "slug": "2024-11-21-cpv-relevant-recommendations-to-ensure-the-success-of-sigmat-in-the-ecowas",
+ "studies": {
+  "customs": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "ECOWAS says SIGMAT is not yet functional in Cabo Verde; no customs value fits."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "ECOWAS says SIGMAT is not yet functional in Guinea-Bissau; no customs value fits."
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The ECOWAS meeting of 21 November 2024 in Praia noted that SIGMAT, the interconnected transit customs data system, is undergoing testing in Sierra Leone.",
+       "as_of": "2024-11-21",
+       "date_precision": "day",
+       "system": "SIGMAT",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGMAT",
+       "country_label": "Sierra Leone",
+       "class": "customs",
+       "platform": "",
+       "owner": "ECOWAS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Togo is named only as host of the SIGMAT e-Hub; its own customs system is not described."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Customs transit system, not digital links or facilities."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "SIGMAT not functional in Guinea-Bissau; no law, signature or ratification stated."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

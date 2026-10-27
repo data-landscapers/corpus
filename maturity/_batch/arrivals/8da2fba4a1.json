@@ -1,0 +1,11 @@
+{"slug": "2026-10-25-gab-permis-digitalise-apres-plus-d-un-mois-d-arret-l-enrolement-repart-sur-une-nouvelle-pl", "studies": {
+"authentication": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Driving-licence enrolment only; no authentication service stated."}}},
+"birthidlink": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No national ID enrolment count; driving licence only."}}},
+"idfrombirth": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Driving-licence platform only, not the national ID system."}}},
+"idregisters": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the national ID number."}}},
+"idrobustness": {"countries": {"GAB": {"facts": [], "systems": [], "note": "A sectoral licence, not the national identity system."}}},
+"localgov": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
+"registry": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}}
+}}

@@ -1,0 +1,10 @@
+{"slug": "2026-09-22-bdi-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-se", "studies": {
+"customs": {"countries": {
+"BDI": {"facts": [], "systems": [{"system": "Systeme de Suivi et Inspection Electronique des Cargos", "country_label": "Burundi", "class": "other", "platform": "", "owner": "Office Burundais des Recettes", "tiers": ""}], "note": "Only a cargo tracking system (since 2014) is described; no clearance system is stated."},
+"TZA": {"facts": [{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The Tanzania Revenue Authority's delegation head says Tansis is the software used in Tanzania for declaring and clearing goods, with its data shared directly to the TECTS and RECTS cargo tracking systems.", "as_of": "2026-09-22", "date_precision": "day", "system": "Tansis", "class": "customs"}], "systems": [{"system": "Tansis", "country_label": "Tanzania", "class": "customs", "platform": "", "owner": "Tanzania Revenue Authority", "tiers": ""}, {"system": "TECTS", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Tanzania Revenue Authority", "tiers": ""}], "note": ""}}},
+"dataexchange": {"countries": {
+"BDI": {"facts": [], "systems": [], "note": "The document concerns cargo tracking systems between revenue authorities, not a government data exchange platform."},
+"TZA": {"facts": [], "systems": [], "note": "The document concerns cargo tracking systems between revenue authorities, not a government data exchange platform."}}},
+"datagovernance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated on a national data policy."}}},
+"interoperability": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing stated on a government interoperability framework."}}}
+}}

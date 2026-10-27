@@ -1,0 +1,123 @@
+{
+ "slug": "2026-10-26-mdg-wearetech-mpianatra-school-management-platform",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "NUIS pupil identifier is piloted but the document names no exchange between education systems."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The article says work to modernise the education administration's information system was begun in 2023, and a 2025 Senate-adopted financing law for the TALIM programme provides for modernising the education management information system.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "education administration information system",
+       "class": "emis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MPIANATRA",
+       "country_label": "Madagascar",
+       "class": "emis",
+       "platform": "Studio MG",
+       "owner": "Ministry of Digital Development",
+       "tiers": ""
+      },
+      {
+       "system": "NUIS",
+       "country_label": "Madagascar",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of National Education",
+       "tiers": ""
+      }
+     ],
+     "note": "MPIANATRA launched 2026-10-24 but deployment in public schools is still to be studied; no school entry or coverage stated."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Madagascar."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{"slug": "2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency", "studies": {
+"businesspayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No e-procurement is stated."}}},
+"centralbank": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No consumer protection rule is stated."}}},
+"coresystems": {"countries": {"GMB": {"facts": [], "systems": [{"system": "ITAS", "country_label": "Gambia", "class": "other", "platform": "Sogema Technologies", "owner": "Gambia Revenue Authority", "tiers": ""}, {"system": "GAMTAXNET", "country_label": "Gambia", "class": "core", "platform": "", "owner": "Gambia Revenue Authority", "tiers": ""}], "note": "ITAS is a contract signed to replace GAMTAXNET, not a system in use; the document does not state GAMTAXNET's status beyond calling it current."}}},
+"crossborderpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No cross-border payment is stated."}}},
+"customs": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "The Gambia Revenue Authority Commissioner General says the Asycuda World system was launched in 2022, and the Finance Permanent Secretary says the upgrade from Asycuda ++ produced a major jump in international revenue mobilisation.", "as_of": "2022", "date_precision": "year", "system": "Asycuda World", "class": "customs"}
+], "systems": [{"system": "Asycuda World", "country_label": "Gambia", "class": "customs", "platform": "ASYCUDA", "owner": "Gambia Revenue Authority", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No government payment to people is stated."}}},
+"paymentsuptake": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No account ownership survey is stated."}}},
+"retailpayments": {"countries": {"GMB": {"facts": [], "systems": [], "note": "No mobile money or retail payment service is stated."}}},
+"revenuecollection": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "The Gambia Revenue Authority signed an MoU with Sogema Technologies for a new Integrated Tax Administration System to bring e-registration, e-filing and e-payments, funded by the World Bank, as its Commissioner General says.", "as_of": "2024-05-17", "date_precision": "day", "system": "ITAS", "class": "revenue"}
+], "systems": [{"system": "ITAS", "country_label": "Gambia", "class": "revenue", "platform": "Sogema Technologies", "owner": "Gambia Revenue Authority", "tiers": ""}], "note": ""}}},
+"taxadmin": {"countries": {"GMB": {"facts": [
+{"sub_indicator": "taxsystem", "aspect": "filing", "value": "underway", "fact": "The Gambia Revenue Authority signed an agreement with Sogema Technologies for a web-based Integrated Tax Administration System with online filing, replacing GAMTAXNET, after a tender launched in 2023 following a business process re-engineering.", "as_of": "2024-05-17", "date_precision": "day", "system": "ITAS", "class": "taxsystem"}
+], "systems": [{"system": "ITAS", "country_label": "Gambia", "class": "taxsystem", "platform": "Sogema Technologies", "owner": "Gambia Revenue Authority", "tiers": ""}], "note": ""}}}
+}}

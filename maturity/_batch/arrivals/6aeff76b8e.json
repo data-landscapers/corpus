@@ -1,0 +1,8 @@
+{"slug":"2024-06-19-cmr-fongod-edwin-nuvaga-la-reforme-de-camcis-se-poursuit-inexorablement","studies":{
+"customs":{"countries":{"CMR":{"facts":[{"sub_indicator":"customs","aspect":"system","value":"inservice","fact":"Cameroon's Director General of Customs says the CAMCIS customs information system has been in operation since April 2020, with its freight, clearance and revenue-collection modules launched.","as_of":"2020-04","date_precision":"month","system":"CAMCIS","class":"customs"}],"systems":[{"system":"CAMCIS","country_label":"Cameroon","class":"customs","platform":"","owner":"Cameroon customs","tiers":""}],"note":""}}},
+"idrobustness":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Not covered."}}},
+"internationalstandards":{"countries":{"CMR":{"facts":[],"systems":[],"note":"ISO 27001 alignment of the customs system is a system built to a standard, not a national adoption."}}},
+"nonstatefinance":{"countries":{"CMR":{"facts":[],"systems":[],"note":"A public-private partnership contract for CAMCIS is mentioned without an amount."}}},
+"offsitebackup":{"countries":{"CMR":{"facts":[],"systems":[],"note":"The customs recovery site is stated as not yet in service, with no place named."}}},
+"qualitystandards":{"countries":{"CMR":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

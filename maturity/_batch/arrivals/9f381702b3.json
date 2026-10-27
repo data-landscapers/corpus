@@ -1,0 +1,115 @@
+{
+ "slug": "2024-04-15-zaf-mtn-momo-expands-its-africa-remittance-network",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "MTN South Africa said on 15 April 2024 that MoMo added 25 outbound wallet corridors from South Africa to 10 African countries, at a 4% fee with immediate clearing.",
+       "as_of": "2024-04-15",
+       "date_precision": "day",
+       "system": "MTN MoMo",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "TechCentral reports that BankservAfrica, the South African clearing house behind PayShap, launched its Transactions Cleared on an Immediate Basis (TCIB) offering in February 2024 for remittance flows in the SADC region.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "TCIB",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN MoMo remittance",
+       "country_label": "South Africa",
+       "class": "crossborder",
+       "platform": "mobile wallets",
+       "owner": "MTN South Africa",
+       "tiers": ""
+      },
+      {
+       "system": "TCIB",
+       "country_label": "South Africa",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "BankservAfrica",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study's questions."
+    }
+   }
+  }
+ }
+}

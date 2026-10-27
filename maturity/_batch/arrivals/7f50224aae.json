@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-21-lby-libyan-export-development-authority-inaugurates-the-unified-export-win",
+ "studies": {
+  "customs": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "Libya Herald reports that the Libyan Export Development Authority inaugurated its Unified Export Window (Single Window Export System) at the Ras Ajdir crossing with Tunisia on 21 January 2026, with customs directors present, for exporters' applications and completion of export procedures.",
+       "as_of": "2026-01-21",
+       "date_precision": "day",
+       "system": "Unified Export Window",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Unified Export Window",
+       "country_label": "Unified Export Window (Ras Ajdir)",
+       "class": "customs",
+       "platform": "",
+       "owner": "Libyan Export Development Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

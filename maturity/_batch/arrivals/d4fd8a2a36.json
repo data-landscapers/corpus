@@ -1,0 +1,53 @@
+{
+ "slug": "2024-10-10-zwe-public-notice-78-of-2024-tax-and-revenue-management-system-tarms-relea",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "ZIMRA Public Notice 78 of 2024 says TaRMS Release 3 went live on 1 October 2024 and marks the full implementation of the Tax and Revenue Management System.",
+       "as_of": "2024-10-01",
+       "date_precision": "day",
+       "system": "TaRMS",
+       "class": "core"
+      },
+      {
+       "sub_indicator": "core",
+       "aspect": "renewed",
+       "value": "live",
+       "fact": "ZIMRA Public Notice 78 of 2024 says the final phase of TaRMS, Release 3 with four modules, went live on 1 October 2024.",
+       "as_of": "2024-10-01",
+       "date_precision": "day",
+       "system": "TaRMS",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TaRMS",
+       "country_label": "Zimbabwe",
+       "class": "core",
+       "platform": "",
+       "owner": "Zimbabwe Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The notice concerns the national revenue authority's system, not a local government's records."
+    }
+   }
+  }
+ }
+}

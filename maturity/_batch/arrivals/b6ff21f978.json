@@ -1,0 +1,6 @@
+{"slug":"2025-06-24-sen-world-bank-approves-115-million-to-support-senegal-s-fiscal-reforms-an","studies":{
+"businesspayments":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The World Bank programme only will support expanded use of electronic procurement tools; no system is stated as built, piloted or in service."}}},
+"coresystems":{"countries":{"SEN":{"facts":[],"systems":[{"system":"financial management system (SEN-FISCALE rollout)","country_label":"Senegal","class":"other","platform":"","owner":"Government of Senegal","tiers":""}],"note":"A financial management system rollout is only to be supported by the financing; no system in use or renewed is stated."}}},
+"digitalstrategy":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The release names a public finance reform programme, not a national digital strategy."}}},
+"revenuecollection":{"countries":{"SEN":{"facts":[],"systems":[],"note":"VAT e-invoicing is only to be supported; no electronic payment or filing of taxes is stated."}}}
+}}

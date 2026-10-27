@@ -1,0 +1,14 @@
+{"slug": "2025-10-29-tgo-thunes-and-ecobank-group-to-power-africa-s-instant-payments-for-the-ne", "studies": {
+"businesspayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on the central bank's role."}}},
+"consumerprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"coresystems": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on core government systems."}}},
+"crossborderpayments": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Ecobank and Thunes said on 29 October 2025 that Togo is the first market to start operations under their partnership, where Ecobank customers can now receive instant payments from remittance players worldwide.", "as_of": "2025-10-29", "date_precision": "day", "system": "Thunes Direct Global Network", "class": "crossborder"}
+], "systems": [{"system": "Thunes Direct Global Network (via Ecobank)", "country_label": "Togo", "class": "crossborder", "platform": "Thunes", "owner": "Ecobank", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"itcapacity": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on government IT staff."}}},
+"paymentsuptake": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Inbound remittance only; no retail mobile money service stated."}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

@@ -1,0 +1,16 @@
+{"slug": "2024-07-26-swz-common-monetary-area-countries-move-to-regularise-electronic-funds-tra", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on e-procurement is stated."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No central bank role over Lesotho's payment systems is stated."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on consumer protection is stated."}}},
+"crossborderpayments": {"countries": {
+"LSO": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "The South African Reserve Bank said that from 30 September 2024 low-value electronic funds transfers, debit and credit payments among Eswatini, Lesotho, Namibia and South Africa are treated as cross-border transactions with greater due diligence.", "as_of": "2024-09-30", "date_precision": "day", "system": "Common Monetary Area low-value EFT", "class": "crossborder"}], "systems": [], "note": ""},
+"NAM": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "The South African Reserve Bank said that from 30 September 2024 low-value electronic funds transfers, debit and credit payments among Eswatini, Lesotho, Namibia and South Africa are treated as cross-border transactions with greater due diligence.", "as_of": "2024-09-30", "date_precision": "day", "system": "Common Monetary Area low-value EFT", "class": "crossborder"}], "systems": [], "note": ""},
+"SWZ": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "The South African Reserve Bank said that from 30 September 2024 low-value electronic funds transfers, debit and credit payments among Eswatini, Lesotho, Namibia and South Africa are treated as cross-border transactions with greater due diligence.", "as_of": "2024-09-30", "date_precision": "day", "system": "Common Monetary Area low-value EFT", "class": "crossborder"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on government payments to people is stated."}}},
+"paymentslaw": {"countries": {
+"LSO": {"facts": [], "systems": [], "note": "Only due diligence requirements for cross-border treatment are stated, not a payments law or e-money rules."},
+"SWZ": {"facts": [], "systems": [], "note": "Only due diligence requirements for cross-border treatment are stated, not a payments law or e-money rules."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No account-holding survey figure is stated."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No mobile money or retail payment service is named."}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees is stated."}}}
+}}

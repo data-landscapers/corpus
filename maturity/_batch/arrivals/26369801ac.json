@@ -1,0 +1,16 @@
+{"slug": "2024-12-05-egy-cbe-instant-inbound-remittances-primary", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement is stated."}}},
+"centralbank": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Central Bank of Egypt says the national instant payments system, launched in March 2022 and sponsored by the central bank, lets customers of all banks transfer money instantly 24 hours a day.", "as_of": "2022-03", "date_precision": "month", "system": "national instant payments system (IPN)", "class": "oversight"}],
+"systems": [{"system": "national instant payments system (IPN)", "country_label": "IPN / InstaPay", "class": "oversight", "platform": "", "owner": "Central Bank of Egypt", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection is stated."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "underway", "fact": "The Central Bank of Egypt says on 5 December 2024 that it issued licences and approvals to a number of banks to credit inbound remittances from abroad instantly through the instant payments network, after a June 2024 pilot via correspondent banks and exchange houses abroad.", "as_of": "2024-12-05", "date_precision": "day", "system": "instant inbound remittances via IPN", "class": "crossborder"}],
+"systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people is stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a count of registered InstaPay customers (11.5 million), not a survey share of adults."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Central Bank of Egypt says its instant payments system, launched in March 2022, serves customers 24/7 and has more than 11.5 million customers registered on the InstaPay app.", "as_of": "2024-12-05", "date_precision": "day", "system": "InstaPay", "class": "retail"}],
+"systems": [{"system": "InstaPay", "country_label": "InstaPay", "class": "retail", "platform": "", "owner": "Central Bank of Egypt", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees is stated."}}}
+}}

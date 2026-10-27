@@ -1,0 +1,86 @@
+{
+ "slug": "2026-10-15-ago-angola-presidente-anuncia-lancamento-do-sistema-integrado-de-gestao-de",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this study's matter for Angola."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this study's matter for Angola."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SINGERH",
+       "country_label": "SINGERH",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministerio da Administracao Publica, Trabalho e Seguranca Social",
+       "tiers": ""
+      }
+     ],
+     "note": "SINGERH implementation is described as continuing; no system stated in use."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this study's matter for Angola."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this study's matter for Angola."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this study's matter for Angola."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this study's matter for Angola."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not state this study's matter for Angola."
+    }
+   }
+  }
+ }
+}

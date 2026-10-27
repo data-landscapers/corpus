@@ -1,0 +1,167 @@
+{
+ "slug": "2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "CIAT authors say AGT's Integrated Tax Management System (SIGT) covers taxpayer registration, declarations, tax settlement and payment, and revenue collection and accounting for the Single Treasury Account.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "SIGT",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGT",
+       "country_label": "Integrated Tax Management System",
+       "class": "core",
+       "platform": "",
+       "owner": "AGT",
+       "tiers": ""
+      }
+     ],
+     "note": "A USD 115 million modernisation contract with TIS is a contract, not a system in use."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "CIAT authors say Asycuda World automates the customs clearance of goods from the cargo manifest to release, and is migrating to ASY5.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "Asycuda World",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Asycuda World",
+       "country_label": "Asycuda World",
+       "class": "customs",
+       "platform": "ASYCUDA World",
+       "owner": "AGT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "CIAT authors say SIGT covers the submission of tax declarative obligations, and the Taxpayer Portal lets larger taxpayers regularise their situation online.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "SIGT",
+       "class": "taxsystem"
+      },
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "payment",
+       "value": "electronic",
+       "fact": "CIAT authors say SIGT covers the settlement and payment of taxes, and a Settlement Note/Payment Receipt tool is among AGT's technological tools.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "SIGT",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGT",
+       "country_label": "Integrated Tax Management System",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "AGT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "CIAT authors say SIGT covers taxpayer registration, and AGT offers a Tax Identification Number Lookup tool.",
+       "as_of": "2026-09-08",
+       "date_precision": "day",
+       "system": "SIGT",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SIGT",
+       "country_label": "Integrated Tax Management System",
+       "class": "tax",
+       "platform": "",
+       "owner": "AGT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

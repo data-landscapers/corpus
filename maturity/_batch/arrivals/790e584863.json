@@ -1,0 +1,17 @@
+{"slug": "2024-03-19-eth-m-pesa-onafriq-partner-to-send-remittances-to-ethiopia", "studies": {
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Onafriq's release says Safaricom M-PESA Mobile Financial Services received a Payment Instrument Issuer License from the National Bank of Ethiopia in May 2023 and went operational in August 2023, and that the Bank authorised its remittance service in July 2023.", "as_of": "2023-05", "date_precision": "month", "system": "M-PESA", "class": "oversight"}
+], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Onafriq says M-PESA Safaricom signed an International Money Transfer Agreement with it, so individuals in Ethiopia can receive remittances from abroad through M-PESA, under National Bank of Ethiopia authorisation of July 2023.", "as_of": "2024-03-19", "date_precision": "day", "system": "M-PESA / Onafriq", "class": "crossborder"}
+], "systems": [{"system": "M-PESA", "country_label": "Ethiopia", "class": "crossborder", "platform": "Onafriq network", "owner": "Safaricom Ethiopia", "tiers": ""}], "note": ""}}},
+"digitalstrategy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "'Digital Ethiopia 2025' is named by a company speaker only; no adoption, text or standing is stated."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Onafriq's release says Safaricom M-PESA Mobile Financial Services, licensed by the National Bank of Ethiopia in May 2023, went operational in August 2023 as a mobile money service needing no bank account.", "as_of": "2023-08", "date_precision": "month", "system": "M-PESA", "class": "retail"}
+], "systems": [{"system": "M-PESA", "country_label": "Ethiopia", "class": "retail", "platform": "", "owner": "Safaricom Ethiopia", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

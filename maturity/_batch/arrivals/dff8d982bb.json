@@ -1,0 +1,13 @@
+{"slug":"2025-08-01-lso-report-of-the-portfolio-committee-on-the-economic-and-development-clus","studies":{
+"businesspayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not covered."}}},
+"centralbank":{"countries":{"LSO":{"facts":[{"sub_indicator":"centralbank","aspect":"mandate","value":"drafting","fact":"The Ministry of Finance told Lesotho's parliamentary committee that the Payment Systems Bill, presented 2 May 2025, would give the Central Bank of Lesotho powers to supervise national payment systems and license non-bank payment entities.","as_of":"2025-05-02","date_precision":"day","system":"Payment Systems Bill, 2025","class":"oversight"}],"systems":[],"note":""}}},
+"consumerprotection":{"countries":{"LSO":{"facts":[{"sub_indicator":"protection","aspect":"rules","value":"draft","fact":"The Ministry told Lesotho's parliamentary committee that the Payment Systems Bill, 2025 enforces consumer protection measures for payments, and the committee amended and approved the bill.","as_of":"2025-05-02","date_precision":"day","system":"Payment Systems Bill, 2025","class":"protection"}],"systems":[],"note":""}}},
+"crossborderpayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"The bill is aligned with a SADC model law, but no corridor or regional system is stated."}}},
+"g2ppayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not covered."}}},
+"internationalstandards":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Only a supervisory alignment with the PFMIs is stated, a sector rule that places nothing."}}},
+"paymentslaw":{"countries":{"LSO":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"draft","fact":"Lesotho's Minister of Finance presented the Payment Systems Bill, 2025 to the National Assembly on 2 May 2025, and its portfolio committee approved it with ten amendments, to repeal the earlier Payment Systems Act.","as_of":"2025-05-02","date_precision":"day","system":"Payment Systems Bill, 2025","class":"law"}],"systems":[],"note":""}}},
+"paymentsuptake":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not covered."}}},
+"regionallaw":{"countries":{"LSO":{"facts":[],"systems":[],"note":"The bill is said to align with a SADC model law but is not yet passed, and no signature or ratification is stated."}}},
+"retailpayments":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Only growth in digital financial services is mentioned, with no service named."}}},
+"revenuecollection":{"countries":{"LSO":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

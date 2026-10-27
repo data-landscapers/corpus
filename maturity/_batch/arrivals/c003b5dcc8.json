@@ -1,4 +1,3 @@
 {"slug": "2026-10-22-gin-guinee-le-ministere-de-lelevage-lance-ngaynaako-son-guichet-unique-num", "studies": {
-"censuses": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No census or household survey stated; the farm count is a platform data aim."}}},
-"egovservices": {"countries": {"GIN": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "La Guinee Info reports the Ministry of Livestock officially launched Ngaynaako, a digital one-stop portal where livestock actors can make requests online with set deadlines.", "as_of": "2026-10-22", "date_precision": "day", "system": "Ngaynaako", "class": "eservices"}], "systems": [{"system": "Ngaynaako", "country_label": "Guinea", "class": "eservices", "platform": "", "owner": "Ministry of Livestock", "tiers": ""}], "note": ""}}}
+"localgov": {"countries": {"GIN": {"facts": [], "systems": [{"system": "Ngaynaako", "country_label": "Guinea", "class": "web", "platform": "", "owner": "Ministere de l'Elevage", "tiers": ""}], "note": "A national ministry's online service portal; nothing on local government offices."}}}
 }}

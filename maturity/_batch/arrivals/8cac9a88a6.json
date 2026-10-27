@@ -1,0 +1,98 @@
+{
+ "slug": "2025-03-06-tgo-avis-aux-operateurs-economiques-n-004-2025-relatif-a-l-interconnexion",
+ "studies": {
+  "customs": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Togolese Revenue Office notice requires Togo-to-Mali transit operations via Burkina Faso to be generated in SYDONIA World.",
+       "as_of": "2025-03-10",
+       "date_precision": "day",
+       "system": "SYDONIA World",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SYDONIA World",
+       "country_label": "Togo",
+       "class": "customs",
+       "platform": "ASYCUDA World",
+       "owner": "Office Togolais des Recettes",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Togolese Revenue Office announced the pilot phase of the interconnection of the Togo and Mali customs systems via Burkina Faso on the Lome-Bamako corridor, operational from 10 March 2025.",
+       "as_of": "2025-03-10",
+       "date_precision": "day",
+       "system": "Togo-Mali customs systems interconnection",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The Togolese Revenue Office announced the pilot phase of the interconnection of the Togo and Mali customs systems via Burkina Faso on the Lome-Bamako corridor, operational from 10 March 2025.",
+       "as_of": "2025-03-10",
+       "date_precision": "day",
+       "system": "Togo-Mali customs systems interconnection",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "A customs systems link is not a digital link or facility under this study."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A customs systems link is not a digital link or facility under this study."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no digital legal text or national law for Mali."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The customs interconnection under the AES protocol is not digital policy as defined here."
+    }
+   }
+  }
+ }
+}

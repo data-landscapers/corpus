@@ -1,0 +1,26 @@
+{"slug": "2024-10-14-ken-safaricom-enables-m-pesa-transfers-between-kenya-ethiopia", "studies": {
+"businesspayments": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."},
+"KEN": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."}}},
+"centralbank": {"countries": {
+"ETH": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Connecting Africa reports that Safaricom Ethiopia was given a Payment Instrument Issuer licence by the National Bank of Ethiopia, three months before M-Pesa went live in August 2023.", "as_of": "2023-05", "date_precision": "month", "system": "Payment Instrument Issuer licence", "class": "oversight"}], "systems": [], "note": ""},
+"KEN": {"facts": [], "systems": [], "note": "No Kenyan central bank role is stated."}}},
+"consumerprotection": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "No consumer protection is mentioned."},
+"KEN": {"facts": [], "systems": [], "note": "No consumer protection is mentioned."}}},
+"crossborderpayments": {"countries": {
+"ETH": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Connecting Africa reports Safaricom extended M-Pesa Global to Ethiopia in October 2024, so M-Pesa wallets in Kenya and Ethiopia can make cross-border transfers, with Ethiopian customers receiving from M-Pesa Kenya.", "as_of": "2024-10-14", "date_precision": "day", "system": "M-Pesa Global Kenya-Ethiopia", "class": "crossborder"}], "systems": [{"system": "M-Pesa Global", "country_label": "Ethiopia", "class": "crossborder", "platform": "mobile money", "owner": "Safaricom Ethiopia", "tiers": ""}], "note": ""},
+"KEN": {"facts": [{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "Connecting Africa reports Safaricom extended M-Pesa Global to Ethiopia in October 2024, so M-Pesa wallets in Kenya and Ethiopia can make cross-border transfers, and M-Pesa customers can send and receive in over 190 countries.", "as_of": "2024-10-14", "date_precision": "day", "system": "M-Pesa Global Kenya-Ethiopia", "class": "crossborder"}], "systems": [{"system": "M-Pesa Global", "country_label": "Kenya", "class": "crossborder", "platform": "mobile money", "owner": "Safaricom", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."},
+"KEN": {"facts": [], "systems": [], "note": "No government payments to people are mentioned."}}},
+"paymentsuptake": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "The 4.5 million registered M-Pesa users is a provider count, not a survey."},
+"KEN": {"facts": [], "systems": [], "note": "No account ownership survey is mentioned."}}},
+"retailpayments": {"countries": {
+"ETH": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Connecting Africa reports M-Pesa went live in Ethiopia in August 2023, with 4.5 million registered mobile money users by May 2024.", "as_of": "2023-08", "date_precision": "month", "system": "M-Pesa Ethiopia", "class": "retail"}], "systems": [{"system": "M-Pesa Ethiopia", "country_label": "Ethiopia", "class": "retail", "platform": "mobile money", "owner": "Safaricom Ethiopia", "tiers": ""}], "note": ""},
+"KEN": {"facts": [], "systems": [], "note": "Kenyan M-Pesa is named only as the sending end of the corridor."}}},
+"revenuecollection": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."},
+"KEN": {"facts": [], "systems": [], "note": "No tax or fee payment is mentioned."}}}
+}}

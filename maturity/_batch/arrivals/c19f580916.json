@@ -1,0 +1,23 @@
+{
+ "slug": "2025-10-07-safi-e-hetra-newsmada",
+ "studies": {
+  "customs": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Safi",
+       "country_label": "Madagascar",
+       "class": "other",
+       "platform": "",
+       "owner": "Minist\u00e8re de l'\u00c9conomie et des Finances",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers the domestic tax administration system, not customs."
+    }
+   }
+  }
+ }
+}

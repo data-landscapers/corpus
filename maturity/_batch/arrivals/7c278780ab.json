@@ -1,0 +1,14 @@
+{"slug": "2025-09-15-civ-cote-d-ivoire-modernisation-des-finances-de-l-etat-le-tresor-public-ac", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document states nothing on rules or authority against AI harms."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "AI is named only as a round-table topic, not a system in use."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No e-procurement is stated."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No consumer-protection rules or body are stated."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No cross-border channel is stated."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Spending-payment automation is mentioned without naming payments to people."}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a client count for Tresor Money, no survey of adults."}}},
+"retailpayments": {"countries": {"CIV": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Minister Adama Coulibaly says electronic money is distributed through Tresor Money, with FCFA 45 billion exchanged among 545,000 clients in 2024.", "as_of": "2024", "date_precision": "year", "system": "Tresor Money", "class": "retail"}], "systems": [{"system": "Tresor Money", "country_label": "Cote d'Ivoire", "class": "retail", "platform": "", "owner": "Tresor public", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "Minister Adama Coulibaly says collections via TresorPay reached FCFA 36 billion from 2.5 million transactions in 2024.", "as_of": "2024", "date_precision": "year", "system": "TresorPay", "class": "revenue"}, {"sub_indicator": "revenue", "aspect": "reported", "value": "reported", "fact": "Minister Adama Coulibaly gives collections via TresorPay as FCFA 3 billion in 2021 and FCFA 36 billion in 2024.", "as_of": "2024", "date_precision": "year", "system": "TresorPay", "class": "revenue"}], "systems": [{"system": "TresorPay", "country_label": "Cote d'Ivoire", "class": "revenue", "platform": "", "owner": "Tresor public", "tiers": ""}], "note": ""}}}
+}}

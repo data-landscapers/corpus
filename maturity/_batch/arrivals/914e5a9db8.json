@@ -1,0 +1,23 @@
+{"slug": "2025-03-31-nam-bon-psdir-10-cross-border-low-value-eft-cma-tcib", "studies": {
+"businesspayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "regional", "fact": "The Bank of Namibia's Directive PSDIR-10 of 31 March 2025 orders payment service providers to move low-value cross-border transfers within the Common Monetary Area from the SADC-RTGS arrangement to the TCIB scheme by 1 April 2027.", "as_of": "2025-03-31", "date_precision": "day", "system": "TCIB", "class": "oversight"}
+], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Directive speaks of cost-effectiveness for users but sets no consumer-protection rule."}}},
+"crossborderpayments": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "The Bank of Namibia's Directive PSDIR-10 says cross-border low-value electronic transfers within the Common Monetary Area are currently settled through a temporary SADC-RTGS arrangement, to cease by 31 March 2027 in favour of TCIB.", "as_of": "2025-03-31", "date_precision": "day", "system": "SADC-RTGS", "class": "crossborder"},
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "The Bank of Namibia's Directive PSDIR-10 requires payment service providers to execute low-value Common Monetary Area transfers through the regional TCIB scheme from 1 April 2027, after the SADC-RTGS stopgap ends on 31 March 2027.", "as_of": "2025-03-31", "date_precision": "day", "system": "TCIB", "class": "crossborder"}
+], "systems": [{"system": "SADC-RTGS", "country_label": "Namibia", "class": "crossborder", "platform": "", "owner": "", "tiers": ""}, {"system": "TCIB", "country_label": "Namibia", "class": "crossborder", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Bank of Namibia issued Directive PSDIR-10 under section 44 of the Payment System Management Act, 2023 (Act No. 14 of 2023), effective on signature on 31 March 2025, with contravention an offence.", "as_of": "2025-03-31", "date_precision": "day", "system": "Payment System Management Act, 2023", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "connect", "fact": "Directive PSDIR-10 sets the regulator's deadline of 1 April 2027 for payment service providers to execute low-value cross-border Common Monetary Area transfers through the TCIB scheme.", "as_of": "2025-03-31", "date_precision": "day", "system": "TCIB", "class": "law"}
+], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"regionallaw": {"countries": {"NAM": {"facts": [], "systems": [], "note": "A CMA oversight committee position paper is not a treaty, act or agreement of the kinds asked."}}},
+"regionalpolicy": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "effect", "value": "in-effect", "fact": "The Bank of Namibia's Directive PSDIR-10, in line with the Common Monetary Area Cross-border Payments Oversight Committee position paper of 31 July 2024, made the move of low-value CMA transfers to TCIB binding at home.", "as_of": "2025-03-31", "date_precision": "day", "system": "CMA CPOC", "class": "cooperation"}
+], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on retail mobile money or a national switch."}}},
+"revenuecollection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

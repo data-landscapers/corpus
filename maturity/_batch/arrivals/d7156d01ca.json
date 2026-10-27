@@ -1,0 +1,10 @@
+{"slug": "2024-11-26-moz-amilcar-tivane-nas-celebracoes-dos-20-anos-do-e-sistafe", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not mention AI harms rules."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "AI is named only as a future technology for e-SISTAFE modernisation, not as a system in use or piloted."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI tool in a sector system is stated."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Public procurement is only a planned component of the state-assets module; no e-procurement system is stated in service."}}},
+"coresystems": {"countries": {"MOZ": {"facts": [{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The Ministry of Economy and Finance says e-SISTAFE, the state financial administration system running since 2004, has 11 modules, all operational except the internal audit module, which is in development, with real-time transactions to the Single Treasury Account.", "as_of": "2024-11-26", "date_precision": "day", "system": "e-SISTAFE", "class": "core"}], "systems": [{"system": "e-SISTAFE", "country_label": "e-SISTAFE", "class": "core", "platform": "", "owner": "Ministry of Economy and Finance (CEDSIF)", "tiers": ""}], "note": ""}}},
+"internationalstandards": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "IPSAS adoption is an accounting standard, outside the study; no IT standards stated."}}},
+"localgov": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document does not state local government office connection."}}}
+}}

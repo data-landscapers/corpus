@@ -1,0 +1,97 @@
+{
+ "slug": "2025-05-18-egy-ahram-customs-system-development-plan-nafeza",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Egypt."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Al-Ahram reports Deputy Finance Minister Sherif El-Kilany told a cabinet meeting that electronic payment has been made available within the customs system, in a secured and documented form.",
+       "as_of": "2025-05-18",
+       "date_precision": "day",
+       "system": "Egyptian customs electronic payment",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Nafeza",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "Egyptian Customs Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-10-01-nga-gdb-accountability-gap-nigeria-colombia-brazil", "studies": {
+"accesstoinformationlaw": {"countries": {"NGA": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Global Data Barometer report lists freedom of information legislation among the transparency reforms Nigeria has adopted over the past two decades.", "as_of": "2026-10", "date_precision": "month", "system": "freedom of information legislation", "class": "law"}], "systems": [], "note": ""}}},
+"businessregister": {"countries": {"NGA": {"facts": [], "systems": [{"system": "public beneficial ownership register", "country_label": "Nigeria beneficial ownership register", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The report names a beneficial ownership register under the Companies and Allied Matters Act but does not say it holds the owners of all companies, or state online registration or a shared number."}}},
+"eparticipation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on online public participation in policy is stated."}}},
+"opendatause": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only availability scores are given; no portal, licence or publishing bodies are named."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No consultation on a named digital law or policy is described."}}}
+}}

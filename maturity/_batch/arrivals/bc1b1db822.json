@@ -1,0 +1,142 @@
+{
+ "slug": "2026-10-26-nga-techcabal-infragora-afridata-data-centres",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "INFRAGORA Global Capital said on 26 October 2026 it plans to start building two AI-ready data centres in Nigeria in Q2-Q3 2027, under its AFRIDATA platform, with a USTDA-funded feasibility study covering their capacity for AI workloads.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "AFRIDATA",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AFRIDATA data centres",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "AI-ready data centres",
+       "owner": "INFRAGORA Global Capital",
+       "tiers": "Tier III+/IV (planned)"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study: the data centres are planned, not in service, and the academy and innovation hub are only envisioned."
+    }
+   }
+  }
+ }
+}

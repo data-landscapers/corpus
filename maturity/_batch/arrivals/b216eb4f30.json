@@ -1,0 +1,25 @@
+{
+ "slug": "2024-10-18-swz-wco-workshop-empowers-eswatini-revenue-service-to-advance-customs-risk",
+ "studies": {
+  "customs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The World Customs Organization says on 18 October 2024 that the Eswatini Revenue Service runs an ASYCUDA World Risk Management Module, to be upgraded in 2025.",
+       "as_of": "2024-10-18",
+       "date_precision": "day",
+       "system": "ASYCUDA World",
+       "class": "customs"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

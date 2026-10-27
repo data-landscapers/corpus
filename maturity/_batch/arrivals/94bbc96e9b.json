@@ -1,0 +1,434 @@
+{
+ "slug": "2026-10-23-xaf-missing-links-in-africa-s-digital-health-agenda",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Endorsed AU HIE guidelines without technical infrastructure: policy, no exchange in service."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general remark of active exchange initiatives; no system, build or service stated."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Endorsed AU HIE guidelines without technical infrastructure: policy, no exchange in service."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general remark of active exchange initiatives; no system, build or service stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general remark of active exchange initiatives; no system, build or service stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Continental comment names no fact answering this study for this country."
+    }
+   }
+  }
+ }
+}

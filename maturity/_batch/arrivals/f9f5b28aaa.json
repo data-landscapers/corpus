@@ -1,0 +1,14 @@
+{"slug": "2025-07-29-dji-nouveau-envoyez-de-l-argent-a-l-etranger-avec-d-money", "studies": {
+"businesspayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No consumer protection rule or body stated."}}},
+"crossborderpayments": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "corridor", "value": "inservice", "fact": "D-Money (Djibouti Telecom) announced in a post of 29 July 2025 that its wallet now sends money abroad to 15 destinations, including Belgium, Ethiopia, Senegal, Canada and Saudi Arabia, through Herman International Exchange.", "as_of": "2025-07-29", "date_precision": "day", "system": "D-Money international transfer", "class": "crossborder"}
+], "systems": [{"system": "D-Money international transfer", "country_label": "D-Money outbound transfers via Herman International Exchange", "class": "crossborder", "platform": "D-Money", "owner": "Djibouti Telecom", "tiers": ""}], "note": ""}}},
+"g2ppayments": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No survey of account holding stated; the follower count is not a survey."}}},
+"retailpayments": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "D-Money (Djibouti Telecom) promotes its mobile wallet app as in service in a post of 29 July 2025, with customers sending money from the wallet.", "as_of": "2025-07-29", "date_precision": "day", "system": "D-Money", "class": "retail"}
+], "systems": [{"system": "D-Money", "country_label": "D-Money wallet", "class": "retail", "platform": "", "owner": "Djibouti Telecom", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"DJI": {"facts": [], "systems": [], "note": "No electronic tax or fee payment stated."}}}
+}}

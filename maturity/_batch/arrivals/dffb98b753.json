@@ -1,0 +1,106 @@
+{
+ "slug": "2026-07-16-lby-libya-china-agreement-libyan-banks-join-cips",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "underway",
+       "fact": "The Central Bank of Libya and the People's Bank of China formally agreed that Libyan banks will join China's Cross-Border Interbank Payment System (CIPS), with no start date given.",
+       "as_of": "2026-07-16",
+       "date_precision": "day",
+       "system": "CIPS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CIPS",
+       "country_label": "Libya",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "People's Bank of China",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Libya."
+    }
+   }
+  }
+ }
+}

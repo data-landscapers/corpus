@@ -1,0 +1,393 @@
+{
+ "slug": "2024-07-31-lso-position-paper-on-the-processing-of-cross-border-low-value-electronic",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "The CMA committee's paper of 31 July 2024 says the South African Reserve Bank directed banks to arrange with PASA the wind-down of the interim cross-border EFT solution, as part of the committee's oversight of CMA payment systems.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "CMA interim supplementary-file solution",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The CMA Cross-border Payments Oversight Committee's paper of 31 July 2024 says rand cross-border low-value EFTs within the Common Monetary Area, including Lesotho, run through an interim supplementary-file solution in place since 1 October 2019 and still in use.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "CMA interim supplementary-file solution",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Lesotho among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CMA interim supplementary-file solution",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Payments Association of South Africa",
+       "tiers": ""
+      },
+      {
+       "system": "SADC-RTGS",
+       "country_label": "Lesotho",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The CMA Cross-border Payments Oversight Committee's paper of 31 July 2024 says rand cross-border low-value EFTs within the Common Monetary Area, including Namibia, run through an interim supplementary-file solution in place since 1 October 2019 and still in use.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "CMA interim supplementary-file solution",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Namibia among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CMA interim supplementary-file solution",
+       "country_label": "Namibia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Payments Association of South Africa",
+       "tiers": ""
+      },
+      {
+       "system": "SADC-RTGS",
+       "country_label": "Namibia",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The CMA Cross-border Payments Oversight Committee's paper of 31 July 2024 says rand cross-border low-value EFTs within the Common Monetary Area, including Eswatini, run through an interim supplementary-file solution in place since 1 October 2019 and still in use.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "CMA interim supplementary-file solution",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Eswatini among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CMA interim supplementary-file solution",
+       "country_label": "Eswatini",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Payments Association of South Africa",
+       "tiers": ""
+      },
+      {
+       "system": "SADC-RTGS",
+       "country_label": "Eswatini",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The CMA Cross-border Payments Oversight Committee's paper of 31 July 2024 says rand cross-border low-value EFTs within the Common Monetary Area, including South Africa, run through an interim supplementary-file solution in place since 1 October 2019 and still in use.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "CMA interim supplementary-file solution",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, South Africa among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027.",
+       "as_of": "2024-07-31",
+       "date_precision": "day",
+       "system": "SADC-RTGS",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CMA interim supplementary-file solution",
+       "country_label": "South Africa",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "Payments Association of South Africa",
+       "tiers": ""
+      },
+      {
+       "system": "SADC-RTGS",
+       "country_label": "South Africa",
+       "class": "crossborder",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

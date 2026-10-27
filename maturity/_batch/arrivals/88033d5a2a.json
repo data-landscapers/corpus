@@ -1,0 +1,119 @@
+{
+ "slug": "2024-07-30-civ-innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur",
+ "studies": {
+  "customs": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "GUCE CI's director says traders have for several years submitted customs declarations and paid duties and taxes electronically through the GUCE transaction portal.",
+       "as_of": "2024-07-25",
+       "date_precision": "day",
+       "system": "GUCE CI portal",
+       "class": "customs"
+      },
+      {
+       "sub_indicator": "customs",
+       "aspect": "window",
+       "value": "window",
+       "fact": "GUCE CI, the foreign-trade single window implemented in 2013, lets traders file customs formalities, licences and declarations electronically for the administrations involved.",
+       "as_of": "2024-07-25",
+       "date_precision": "day",
+       "system": "GUCE CI portal",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GUCE CI portal",
+       "country_label": "Cote d'Ivoire",
+       "class": "customs",
+       "platform": "",
+       "owner": "GUCE CI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "GUCE CI, a state company, manages and maintains the GUCE single-window system, with technical support from the trade ministry.",
+       "as_of": "2024-07-25",
+       "date_precision": "day",
+       "system": "GUCE CI portal",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "GUCE CI, a state company (Societe d'Etat), runs the GUCE transaction platform used by ministries' technical services and traders.",
+       "as_of": "2024-07-25",
+       "date_precision": "day",
+       "system": "GUCE CI portal",
+       "class": "staff"
+      },
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "built",
+       "value": "live",
+       "fact": "GUCE Mobile, with five modules, was launched on 25 July 2024 and was developed and operated entirely by GUCE CI's own teams.",
+       "as_of": "2024-07-25",
+       "date_precision": "day",
+       "system": "GUCE Mobile",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GUCE CI portal",
+       "country_label": "Cote d'Ivoire",
+       "class": "customs",
+       "platform": "",
+       "owner": "GUCE CI",
+       "tiers": ""
+      },
+      {
+       "system": "GUCE Mobile",
+       "country_label": "Cote d'Ivoire",
+       "class": "staff",
+       "platform": "",
+       "owner": "GUCE CI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

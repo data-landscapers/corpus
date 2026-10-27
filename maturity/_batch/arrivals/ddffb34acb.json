@@ -1,0 +1,106 @@
+{
+ "slug": "2025-01-31-ben-projet-customs-webb-un-nouveau-systeme-deploye-dans-44-bureaux-de-doua",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Second data centre installed for the customs system is not stated as for hire."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Second data centre installed for the customs system is not stated as for hire."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Benin."
+    }
+   }
+  },
+  "customs": {
+   "countries": {
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "customs",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Webb Fontaine's Benin representative said at the 29 January 2025 public-finance review that Customs Webb, replacing Sydonia World, is used in 44 of 49 customs offices, with 59,000 declarations processed and over 30 billion FCFA collected.",
+       "as_of": "2025-01-29",
+       "date_precision": "day",
+       "system": "Customs Webb",
+       "class": "customs"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Customs Webb",
+       "country_label": "Benin",
+       "class": "customs",
+       "platform": "Webb Fontaine",
+       "owner": "Benin customs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

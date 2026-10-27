@@ -1,0 +1,11 @@
+{"slug": "2026-10-26-maroc-telecom-group-revenue-rises-5-1-to-mad-28-68-billion-i", "studies": {
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No consumer protection rule or body stated."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"internetusage": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Maroc Telecom active mobile internet users", "country_label": "12.2 million active mobile internet users (operator count)", "class": "other", "platform": "", "owner": "Maroc Telecom", "tiers": ""}], "note": "Only an operator's count of mobile internet users is given, not a share of the population."}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No survey of account holding stated."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Mobile money growth is stated for the Moov Africa subsidiaries, not for Morocco."}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No electronic tax or fee payment stated."}}}
+}}

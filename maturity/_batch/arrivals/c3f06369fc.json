@@ -1,0 +1,129 @@
+{
+ "slug": "2025-06-05-caf-le-fmi-annonce-un-nouveau-decaissement-de-33-4-milliards-fcfa-au-profi",
+ "studies": {
+  "nonstatefinance": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this question."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "finance",
+       "value": "inuse",
+       "fact": "The IMF notes the Central African authorities adopted the integrated financial information system at the treasury directorate and in line ministries.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Integrated financial information system (IFMIS)",
+       "class": "core"
+      },
+      {
+       "sub_indicator": "core",
+       "aspect": "revenue",
+       "value": "inuse",
+       "fact": "The tax directorate (DGID) began its official switch in April 2025 to general use of the e-Tax electronic declaration system, after customs in 2024.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "e-Tax",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Tax",
+       "country_label": "RCA",
+       "class": "core",
+       "platform": "",
+       "owner": "DGID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "taxsystem",
+       "aspect": "filing",
+       "value": "inservice",
+       "fact": "The tax directorate (DGID) began its official switch in April 2025 to general use of its e-Tax electronic declaration system.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "e-Tax",
+       "class": "taxsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Tax",
+       "country_label": "RCA",
+       "class": "taxsystem",
+       "platform": "",
+       "owner": "DGID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "The country launched about two weeks before 5 June 2025 a new data portal, the National Summary Data Page (PNRD), publishing key macroeconomic and financial data.",
+       "as_of": "2025-05",
+       "date_precision": "month",
+       "system": "National Summary Data Page (PNRD)",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Summary Data Page (PNRD)",
+       "country_label": "RCA",
+       "class": "open",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

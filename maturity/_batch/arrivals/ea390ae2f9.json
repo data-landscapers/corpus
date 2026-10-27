@@ -1,0 +1,13 @@
+{"slug": "2026-01-01-nam-manual-payroll-system-raises-cost-and-control-issues", "studies": {
+"civilserviceskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No digital-skills training for civil servants is stated."}}},
+"coresystems": {"countries": {"NAM": {"facts": [], "systems": [{"system": "PDMS", "country_label": "Payroll deduction management system", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "The document covers the payroll deduction system moving to a manual helpdesk, not the stopping of the government payroll system itself."}}},
+"educationexchange": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No education data exchange is stated."}}},
+"educationmis": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No education information system is stated."}}},
+"g2ppayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Payroll deductions to lenders are not government payments to people."}}},
+"health": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No health system is stated."}}},
+"healthmis": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No health information system is stated."}}},
+"itcapacity": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No in-house IT staff capacity is stated."}}},
+"police": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No police record system is stated."}}},
+"schools": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No school information system is stated."}}},
+"taxadmin": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No tax filing or payment system is stated."}}}
+}}

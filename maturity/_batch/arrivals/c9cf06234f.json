@@ -1,0 +1,17 @@
+{"slug": "2024-01-10-tcd-circulaire-portant-instructions-relatives-a-l-execution-du-budget-gene", "studies": {
+"authentication": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on authentication."}}},
+"birthidlink": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on civil register and ID links."}}},
+"centralbank": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on the central bank."}}},
+"coresystems": {"countries": {"TCD": {"facts": [{"sub_indicator": "core", "aspect": "finance", "value": "inuse", "fact": "The Ministry of Finance and Budget's circular of 10 January 2024 says the 2024 general state budget will be executed entirely in SIGFiP, for central and deconcentrated services alike.", "as_of": "2024-01-10", "date_precision": "day", "system": "SIGFiP", "class": "core"}], "systems": [{"system": "SIGFiP", "country_label": "Chad", "class": "core", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": ""}, {"system": "E-Tax", "country_label": "Chad", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"domesticfinancing": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document gives no digital budget line or spending figure."}}},
+"idcoverage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on ID coverage."}}},
+"idfrombirth": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on ID system operation."}}},
+"idregisters": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Tax number is mentioned for bidders but not stated as the national ID number."}}},
+"idrobustness": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on a national ID system."}}},
+"localgov": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on local government connection."}}},
+"paymentslaw": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Document states nothing on a payments law."}}},
+"revenuecollection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "Only instructions to dematerialise collection and use bank APIs; no electronic payment stated in service."}}},
+"taxadmin": {"countries": {"TCD": {"facts": [], "systems": [], "note": "E-invoicing and bank APIs are instructed; online filing or payment is not stated."}}},
+"taxregister": {"countries": {"TCD": {"facts": [{"sub_indicator": "taxpayers", "aspect": "register", "value": "inservice", "fact": "The Ministry of Finance and Budget's circular of 10 January 2024 requires each bidder's tax identification number (NIF) to be active in E-Tax before public contracts are awarded.", "as_of": "2024-01-10", "date_precision": "day", "system": "E-Tax", "class": "tax"}], "systems": [{"system": "E-Tax", "country_label": "Chad", "class": "tax", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

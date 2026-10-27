@@ -1,0 +1,109 @@
+{
+ "slug": "2026-04-01-gmb-project-profile-series-the-gambia-aps",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "The IFAD PRIME Africa end-of-project profile (April 2026) says 184,000 people in The Gambia received remittances into APS wallets from European Union corridors (France, Germany, Italy, Norway, Spain, Sweden).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "APS Wallet remittance corridors",
+       "class": "crossborder"
+      },
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "reported",
+       "value": "reported",
+       "fact": "The IFAD PRIME Africa end-of-project profile (April 2026) reports US$135 million in remittances received digitally through APS and an average APS remittance cost of 5 per cent across PRIME corridors.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "APS Wallet remittance corridors",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for The Gambia."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The IFAD PRIME Africa end-of-project profile (April 2026) describes APS Wallet as a mobile money operator in The Gambia, with 477,600 customers opening wallets during the project.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "APS Wallet",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for The Gambia."
+    }
+   }
+  }
+ }
+}
