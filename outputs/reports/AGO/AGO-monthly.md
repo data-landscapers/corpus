@@ -1,11 +1,11 @@
 ---
 title: Angola — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: AGO
-ledger_rows: 49
+ledger_rows: 50
 not_held: 6
-record: c8800599d1d4
+record: 94f3699fdcee
 ---
 
 # News, Sep – Oct 2026
@@ -657,6 +657,20 @@ Summarised under [New investments](#new-investments).
 **[João Lourenço aprova ajuste directo de quase 100 milhões USD para projecto de controlo aduaneiro](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/)** — Polígrafo África, 16 September 2026
 
 Angola's President João Lourenço authorised spending of 90.5 billion kwanzas, about $98 million, on goods and services for a customs supervision project, by Presidential Order 361/26 of 14 September 2026, Polígrafo África reported. The purchase, in two lots, is a direct award on grounds of technical aptitude, covering centralised supervision, automated inspection and data analysis; Finance Minister Vera Daves was delegated to sign the contract. No supplier is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated civil-service HR management system (SINGERH)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola: Presidente anuncia lançamento do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH)](https://www.africa-newsroom.com/press/angola-presidente-anuncia-lancamento-do-singerh?lang=pt)** — APO Group, for Ministério da Administração Pública, Trabalho e Segurança Social, 15 October 2026
+
+State is rolling out the SINGERH civil-service HR system within a paperless, interoperable administration drive.
 
 </div>
 
