@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-10-25
+compiled: 2026-10-27
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 169
+sources_cited: 170
 sections_written: 39
 not_established: 3
 acquire_lines: 39
@@ -156,7 +156,7 @@ The newest additions to the state's electronic reach are investigative powers ra
 
 Since April 2025 a Mauritanian company can be created in [a single online transaction that simultaneously enters it in the Registre de Commerce, issues its tax identification number and affiliates it to the Caisse Nationale de Sécurité Sociale](https://mtnima.gov.mr/fr/modernisation-de-ladministration-publique-digitalisation-et-mise-en-ligne-via-khidmaty-de-services-publics-destines-aux-investisseurs/), run through the Khidmaty portal and authenticated by the Houwiyeti identity app — the most substantial working exchange of data between Mauritanian administrations, and one built with no national interoperability platform underneath it.
 
-That is the pattern throughout. The population register has [offered web APIs since around 2010](https://procurement-notices.undp.org/view_file.cfm?doc_id=301323) that let the electoral commission, mobile operators and financial institutions verify identity in real time, giving partial automated exchange in the absence of a general platform (2022). The legal footing is [Décret n° 2022-009 on inter-administration electronic exchange, with a Référentiel Général d'Interopérabilité proposed rather than in place](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023). A [2024 scoping study for the digital transformation ministry](https://mtnima.gov.mr/wp-content/uploads/2024/06/Rapport-Final-de-le%CC%81tude-de-cadrage-de-sofrecom.pdf) sets out the missing piece — a General Interoperability Framework and an Interoperability Hub comprising an API gateway, identity and access management and a unified data repository — and names civil-status and identity documents among the first service families to be brought into it.
+That is the pattern throughout. The population register has [offered web APIs since around 2010](https://procurement-notices.undp.org/view_file.cfm?doc_id=301323) that let the electoral commission, mobile operators and financial institutions verify identity in real time, giving partial automated exchange in the absence of a general platform (2022). The legal footing is [Décret n° 2022-009 on inter-administration electronic exchange, with a Référentiel Général d'Interopérabilité proposed rather than in place](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023). A [2024 scoping study for the digital transformation ministry](https://mtnima.gov.mr/wp-content/uploads/2024/06/Rapport-Final-de-le%CC%81tude-de-cadrage-de-sofrecom.pdf) sets out the missing piece — a General Interoperability Framework and an Interoperability Hub comprising an API gateway, identity and access management and a unified data repository — and names civil-status and identity documents among the first service families to be brought into it. Trade has no single window either: [the 31 December 2024 date Mauritania notified to the WTO for one passed, and in February 2025 it asked to move it to the end of 2027](https://tfadatabase.org/en/members/mauritania/technical-assistance-projects/article-10-4).
 
 The [design of the planned national address register](https://mtnima.gov.mr/wp-content/uploads/2025/03/TDR-adressage.pdf) shows how far the design work runs ahead of delivery: it looks to the Agence Numérique de l'État to host the address database and build an interoperability API, and to the housing and urban planning ministry to update cartographic data so that every parcel receives a digital address, none of it yet operational (2025). Interoperability is an explicit objective of [the governing digital strategy](https://mtnima.gov.mr/wp-content/uploads/2024/03/Agenda-Numerique-2022-25-MTNIMA.pdf) and an axis of [a standalone national strategy for open and interoperable data](https://dig.watch/resource/the-national-strategy-for-open-and-interoperable-data-of-mauritania), and unified standards for digital public services were [set at a national workshop with German cooperation in March 2025](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services). The [personal data protection law of 2017 has still not been brought fully into force](https://dataprotection.africa/mauritania/), and no dedicated cross-government data-sharing law is in effect (2024).
 
