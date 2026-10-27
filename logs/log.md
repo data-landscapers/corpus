@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-27 01:31 · **BUILD** · 1h56m · catalogue 34,175; 594 sources, 56 moved, 214 minted, 61 status revised; data centres 7, 5 changed; maturity 557 facts, 61 stages moved; bulletin 20; finance 1 sitting, 0 waiting; register 10; messages 40-41 - ok
+2026-10-26 23:35 · **ANALYTICS** · unclocked · 2026-10-25 written; 25 Oct: dl.io 11 views / 0 clicks, corpus 107 views / 2 clicks
 2026-10-26 16:30 · **RENDER** · 24m · reports+home+countries+catalogue+maturity rendered (301 docs, 0 failed), deployed 8efa7de — ok
 2026-10-26 09:24 · **BUDGET-EXTRACT** · unclocked · 4 sittings from housekeeping 39 - BFA, CIV, COM, ZWE FY2024 all nil: each document prints coarser than the held grain (programme, nature, ministry or vote against activities, services or programmes); no rows changed
 2026-10-26 07:02 · **COPY** · unclocked · R2 copy: 4,246 objects, 1,474.3 MB in the bucket; pulled 2,559 (984.0 MB) to C:\Users\bill\Dropbox\CORPUS-editions; 0 fault(s)
@@ -641,39 +643,6 @@ title: Corpus process log
 2026-09-26 11:50 · **RENDER** · 8m · reports (251) + home, countries, topics, progress, catalogue, alerts, finance (1,417 deals, edition 2026-09-26), methodology, sitemap rendered, deployed — ok
 2026-09-26 11:42 · **BUILD** · unclocked · finance rebuild after notes-for-osint 176: 1,417 deals US$90.7bn; all 27,895 report citations and every ledger source resolve; notes-for-corpus 66-67 closed; notes-for-osint 177 (8 escaped titles) — ok
 2026-09-26 11:12 · **BUILD** · unclocked · finance rebuild after OSINT deal audit (notes-for-corpus 66): 1,467 deals US$97.29bn reproduced; 6 dead citations re-pointed; notes-for-osint 176; render held for OSINT's second pass — ok
-2026-09-25 23:02 · **RENDER** · 20m · 251 reports + home, countries, topics, progress, catalogue, alerts, finance, datasets rendered; R2 3,112 uploaded, 0 pruned; lints clean; deployed — ok
-2026-09-25 22:42 · **REVIEW** · 13m · GHA: status 17 sections revised, progress 8 cells, monthly 19 blocks, finance 2 rows; 3 deals queued, 1 note for OSINT (175) — ok
-2026-09-25 22:38 · **REVIEW** · 9m · GAB: status 7 sections revised, progress 10 cells, monthly 8 blocks, finance 1 row; 0 deals queued, 1 note for OSINT (174) — ok
-2026-09-25 22:28 · **BUILD** · 23m · catalogue 25,367; finance 1,493 deals; 44 units / 345 sources, 57 minted, 23 moved, 12 baselines revised; data centres 1; topics 76; bulletin 40; 31 register hits stand; check G fails only on unpublished maturity docs; notes-for-osint 173 — ok
-2026-09-25 22:04 · **ANALYTICS** · unclocked · 2026-09-23..2026-09-24 written; 24 Sep: dl.io 50 views / 0 clicks, corpus 114 views / 0 clicks
-2026-09-25 10:17 · **BUDGET-EXTRACT** · 37m · NGA FY2024-2026 completion: 2,721 lines under N250m added, NASRDA partial and OSGoF whole; share 46.6%, 39.3%, 66.6%
-2026-09-25 09:38 · **BUDGET-EXTRACT** · 5m · SWZ FY2026: 14 staged lines published against the newly catalogued 2026/27 Estimates
-2026-09-25 09:37 · **BUDGET-EXTRACT** · 31m · EGY FY2024-2026: 120 lines (8 bodies x 5 chapters) from the approved budget volumes, read from OSINT's copies in the mirror; NARSS regraded to partial
-2026-09-25 09:23 · **BUDGET-EXTRACT** · 16m · AGO FY2024: 41 lines from the enacted OGE 2024, read from OSINT's copy in the mirror (md5 match)
-2026-09-25 09:16 · **BUDGET-EXTRACT** · 1h58m · NGA FY2024-2026: 358 lines from the Appropriation Bills and Acts (Details); share 38.0%, 32.9%, 59.1%; lines under N250m not scanned
-2026-09-25 07:59 · **BUDGET-EXTRACT** · 24m · GNQ FY2024-2026: 229 lines from the enacted 2024 and 2026 laws (FY2025 from the 2026 law's LEY 2025 column); share 98.6%, 100%, 93.9%
-2026-09-25 07:54 · **BUDGET-EXTRACT** · 32m · MWI FY2024-2026: 554 lines from the approved Detailed Estimates; share 82.0%, 75.7%, 55.9%
-2026-09-25 07:54 · **BUDGET-EXTRACT** · 37m · BFA FY2024-2026: 492 lines from the finance laws, FY2024 revised from the LFR; share 56.2%, 52.0%, 39.8%
-2026-09-25 07:53 · **BUDGET-EXTRACT** · 36m · KEN FY2024-2026: 73 lines from the recurrent and development estimates; share 66.2%, 88.8% (revised), 86.7%
-2026-09-25 07:53 · **BUDGET-EXTRACT** · 35m · BDI FY2024-2026: 129 lines from the enacted finance laws; share 26.2%, 24.1%, 28.6%
-2026-09-25 07:50 · **BUDGET-EXTRACT** · 29m · MUS FY2024-2026: 172 lines; FY2024 across every vote from the Accountant-General's statement, FY2025-26 from the held chapters only
-2026-09-25 07:49 · **BUDGET-EXTRACT** · 10m · Corrections: ZAF holds all 41 Stats SA sub-programmes; SYC, MDG, NAM, CAF brought under the in-house IT rule
-2026-09-25 07:45 · **BUDGET-EXTRACT** · 14m · SOM FY2024-2026: 22 lines from the appropriation acts, 2026 programme budget and audited statements; share 13.1%, 10.4%, 15.4%
-2026-09-25 07:41 · **BUDGET-EXTRACT** · 24m · CPV FY2024-2026: 31 lines from the budget laws' Mapa VII and consigned revenues, FY2024 revised and actual from the general account; share 61.1%, 96.0%, 98.3%
-2026-09-25 07:41 · **BUDGET-EXTRACT** · 23m · BEN FY2024-2026: 35 lines; FY2024-25 at programme grain (per-ministry volumes not catalogued), FY2026 at action and project grain; share 73.7%, 63.2%, 71.8%
-2026-09-25 07:39 · **BUDGET-EXTRACT** · 22m · RWA FY2024-2026: 119 lines from the enacted finance laws; share 47.2%, 50.0%, 45.6%
-2026-09-25 07:39 · **BUDGET-EXTRACT** · 21m · AGO FY2025: 51 lines from the enacted OGE 2025 across all 67 organs; FY2024 nil (host behind a Cloudflare challenge), FY2026 nil (not catalogued)
-2026-09-25 07:39 · **BUDGET-EXTRACT** · 1m · ERI FY2024-2026: nil; Eritrea publishes no national budget, nothing catalogued (note 58)
-2026-09-25 07:39 · **BUDGET-EXTRACT** · 3m · SDN FY2024-2026: nil; nothing catalogued and mof.gov.sd publishes no budget tables (already on OSINT's acquisitions list, note 58)
-2026-09-25 07:39 · **BUDGET-EXTRACT** · 22m · BWA FY2024-2026: 155 lines from the estimates volumes across every ministry; FY2026 proposed (Act not held); FY2024 no share (mixed stages)
-2026-09-25 07:38 · **BUDGET-EXTRACT** · 21m · CIV FY2024-2026: 712 lines at activity grain from the finance laws, 2024 settlement law and 2026 bill; share 88.8%, 83.2%, 72.9%
-2026-09-25 07:38 · **BUDGET-EXTRACT** · 20m · COD FY2024-2026: 421 lines from the LF 2024, LFR 2025 and LF 2026 detail volumes; share 75.7%, 97.7% (revised), 73.0%
-2026-09-25 07:37 · **BUDGET-EXTRACT** · 19m · CMR FY2024-2026: 36 lines from the finance bills and laws, special accounts and levy ceilings; all appropriated, origin inferred
-2026-09-25 07:36 · **BUDGET-EXTRACT** · 19m · ETH FY2024-2026: 370 lines from the federal estimates workbooks and proclamation; share 86.4% (proposed), 78.4%, 79.8%
-2026-09-25 07:35 · **BUDGET-EXTRACT** · 17m · COM FY2024-2026: 37 lines from the finance laws' service annexes; FY2024 revised only, FY2026 no share (external lines held at proposed)
-2026-09-25 07:31 · **BUDGET-EXTRACT** · 4m · EGY FY2024-2026: nil; assets.mof.gov.eg refused every connection, all 12 volumes unreached
-2026-09-25 07:31 · **BUDGET-EXTRACT** · 13m · COG FY2024-2026: 10 lines from the finance laws, bills, LFR 2025 and 2025 execution report; origin inferred (no line-level financing split)
-2026-09-25 00:17 · **RENDER** · 19m · 251 documents, home, places, topics, progress, catalogue, finance, datasets (Data Centres 2026-09-25, 577) rendered; R2 4,212 uploaded; maturity docs held back; deployed — ok
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
 2026-09-20 19:05 · **SHARE-PRUNE** · unclocked · prepared/ pruned: 33 spent handovers out (5.3MB -> 12K), the rule added to the share README, and scripts/lint-prepared.py at BUILD stage 0. Three verdicts -- spent, waiting, unresolved -- so an item naming no closer is reported, not guessed.
 2026-09-20 18:26 · **REGISTER-R56** · unclocked · R56 pilot, moved to GHA FY2026: 11 lines read against the spec, money unchanged at GHS 898m, every row now carrying its scope basis and cross-foot. Four earned absences -- the biggest, GHS 273.7m, is the national broadcaster.
