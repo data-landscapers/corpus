@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-28-zaf-question-nw4571-to-the-minister-of-public-service-and-administration",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The DPSA reply says it has issued the Public Service Data Governance Framework, giving departments principles, standards and practices for data management.",
+   "as_of": "2025-08-28",
+   "date_precision": "day",
+   "system": "Public Service Data Governance Framework",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
