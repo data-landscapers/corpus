@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: MLI
-ledger_rows: 18
+ledger_rows: 19
 not_held: 2
-record: 8710c5f0b6ea
+record: 1fc13852db44
 ---
 
 # News, Sep – Oct 2026
@@ -219,8 +219,26 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs systems interconnection for goods in transit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[COOPERATION BILATERALE : La Côte d'Ivoire et le Mali ont évalué la mise en œuvre du SIGMAT](https://apps.douanes.ci/info/cooperation-bilaterale)** — Douanes Ivoiriennes, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
+
+Abidjan review of SIGMAT on the Abidjan-Bamako transit corridor, 24-25 September 2026; joint roadmap adopted.
+
+</div>
+
+</div>
 
 ### Sectoral management information systems
 
