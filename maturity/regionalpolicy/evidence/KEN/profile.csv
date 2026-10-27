@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,cooperation,part,coverage,member,2026-08-24,KEN-001;KEN-003;KEN-005;KEN-006;KEN-007,,
-KEN,cooperation,effect,coverage,in-use,2025,KEN-002,KEN-004=in-effect,
+KEN,cooperation,part,coverage,active,2026-03-13,KEN-008,KEN-003=member;KEN-001=member;KEN-005=member;KEN-006=member;KEN-007=member,
+KEN,cooperation,effect,coverage,in-use,2025,KEN-002,KEN-004=in-effect;KEN-009=in-effect,

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-31-nam-bon-psdir-10-cross-border-low-value-eft-cma-tcib",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "The Bank of Namibia's Directive PSDIR-10, in line with the Common Monetary Area Cross-border Payments Oversight Committee position paper of 31 July 2024, made the move of low-value CMA transfers to TCIB binding at home.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "CMA CPOC",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

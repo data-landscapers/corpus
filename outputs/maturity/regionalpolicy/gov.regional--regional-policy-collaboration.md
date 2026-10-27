@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 11 |
-| 3 Established | 25 |
+| 4 Operating | 13 |
+| 3 Established | 23 |
 | 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -89,6 +89,13 @@ Botswana cut roaming charges with Namibia in 2024 and applied southern Africa's 
 - Operators including Orange Botswana, Mascom Wireless and BTC have implemented the new One Network Area roaming tariffs, with cuts of 10% to 98.6% and free incoming SMS across participating countries; Botswana-Zambia data roaming fell by up to 94% ([source, 2026-03-13](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/)).
 - Botswana's Minister of Communications and Innovation and Namibia's Minister of ICT signed an ICT cooperation MoU in Kasane on 7 August 2026, covering digital transformation, cybersecurity, ICT infrastructure, connectivity, innovation, skills and emerging technologies ([source, 2026-08-07](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement)).
 
+### Cote d'Ivoire: 4 Operating
+
+Cote d'Ivoire's free roaming with Ghana, launched in 2023, cut charges for its subscribers; no figures of its use are known.
+
+- Smart Africa said its 8th CMICT on 2026-03-24 elected Cote d'Ivoire's minister Djibril Ouattara Vice Chair of the Council for a two-year term ([source, 2026-03-24](https://smartafrica.org/zimbabwe-elected-chair-of-cmict-as-smart-africa-welcomes-new-member-states/)).
+- Ecofin Agency reports on 26 October 2026 that Cote d'Ivoire's regulator says the roaming agreement with Ghana, launched 14 June 2023, cut charges for Ivorian subscribers in Ghana by as much as 90 per cent ([source, 2023-06-14](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement)).
+
 ### Gambia: 4 Operating
 
 The Gambia's free roaming with Senegal began in December 2025 and a joint steering committee met in 2026; figures of their use are not known.
@@ -132,6 +139,13 @@ Senegal's roaming arrangement took effect in April 2026 and a regional backbone 
 - The ROA-BN Interministerial Council, described as its highest political and strategic body, was reported as installed, as of the 8 October 2026 report; no installation date given ([source, 2026-10-08](https://aps.sn/lintegration-numerique-ouest-africaine-au-menu-dune-rencontre-a-dakar/)).
 - The first Steering Committee Meeting under the Senegal-Gambia MoU was held in Banjul to set an implementation roadmap; the meeting day is not given, so the published date month is used ([source, 2026-08](https://gambiaj.com/economy/policy/gambia-senegal-move-to-implement-digital-cooperation-agreement/)).
 - Ministers in charge of telecommunications and digital affairs of the ten ROA-BN members opened a two-day meeting in Dakar on 8 October 2026, hosted by Senegal, to validate a 2030 strategic vision ([source, 2026-10-08](https://aps.sn/lintegration-numerique-ouest-africaine-au-menu-dune-rencontre-a-dakar/)).
+
+### Sierra Leone: 4 Operating
+
+Sierra Leone introduced free roaming with Liberia in 2025 and signed more roaming agreements in 2025 and 2026; no figures of its use are known.
+
+- Liberia, Ghana and Sierra Leone entered the ECOWAS Free Roaming Agreement at a signing ceremony, to remove roaming charges among the three; the page carries no date, so the published date 2026-02-20 is used ([source, 2026-02-20](https://lta.gov.lr/liberia-ghana-sierra-leone-move-toward-borderless-mobile-communication/)).
+- Ecofin Agency reports on 26 October 2026 that Liberia and Sierra Leone introduced their roaming service in August 2025 ([source, 2025-08](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement)).
 
 ### Togo: 4 Operating
 
@@ -180,13 +194,6 @@ Congo won a seat on the African telecommunications union's council in July 2026;
 
 - A two-day regional workshop on a common framework for national emergency telecommunications plans opened in Brazzaville on 15 September 2026, convened by the ITU, the Assembly of Central Africa telecom regulators (ARTAC) and Congo's ARPCE, with eight ECCAS states taking part ([source, 2026-09-15](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621)).
 - Congo's media regulator CSLC and DR Congo's CSAC signed a memorandum of understanding in Kinshasa at the close of talks on 19-20 August 2026, covering technical cooperation on regulating media and digital platforms and joint action on disinformation; the signing day is not given, so the last day of talks is used ([source, 2026-08-20](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340)).
-
-### Cote d'Ivoire: 3 Established
-
-Cote d'Ivoire hosted the African telecommunications union and Africa's data protection authorities in Abidjan in 2026; nothing agreed is known to be in effect.
-
-- Abidjan hosted the African Telecommunications Union's final African preparatory meeting for the ITU Plenipotentiary Conference 2026, which concluded around 18 September 2026; the article gives no exact meeting date, so the month is used ([source, 2026-09](https://techreviewafrica.com/news/7329/space-regulation-emerges-as-key-issue-ahead-of-itu-plenipotentiary-conference-2026)).
-- The fourth and final African preparatory meeting for the ITU Plenipotentiary Conference, where the 49 proposals were agreed, was held in Abidjan, Cote d'Ivoire, 15 to 17 September 2026 ([source, 2026-09](https://techreviewafrica.com/news/7771/atu-secures-endorsements-for-49-african-proposals-ahead-of-itu-plenipotentiary-conference)).
 
 ### DR Congo: 3 Established
 
@@ -287,13 +294,6 @@ Nigeria hosted the African telecommunications union's conference in July 2026 an
 Seychelles signed a digital trade memorandum with the African free trade area's secretariat in March 2026; nothing agreed is known to be in effect.
 
 - A memorandum of understanding on digital trade was signed between the AfCFTA secretariat, Quest Ghana Limited and the government of Seychelles during the AfCFTA secretary general's visit shortly before 17 March 2026, positioning Seychelles as the AfCFTA digital trade hub; the exact signing date is not given, so the article's publication month is used ([source, 2026-03](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta)).
-
-### Sierra Leone: 3 Established
-
-Sierra Leone signed roaming agreements with Guinea, Liberia and Ghana in 2025 and 2026; none is known to be in effect.
-
-- Liberia, Ghana and Sierra Leone entered the ECOWAS Free Roaming Agreement at a signing ceremony, to remove roaming charges among the three; the page carries no date, so the published date 2026-02-20 is used ([source, 2026-02-20](https://lta.gov.lr/liberia-ghana-sierra-leone-move-toward-borderless-mobile-communication/)).
-- On day two of the mission two technical partnerships were signed, one with Nigeria's NITDA on payment corridors and digital identity alignment and one on AI research and governance with Sierra Leone's ministry and NITDA ([source, 2025-11-22](https://mocti.gov.sl/joint-communique-nigeria-sierra-leone-digital-economy-bilateral-mission/)).
 
 ### South Sudan: 3 Established
 
