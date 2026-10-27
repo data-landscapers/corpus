@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Sep – Oct 2026
-compiled: 2026-10-25
-period: 2026-09-01 to 2026-10-25
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: XWA
-ledger_rows: 34
+ledger_rows: 35
 not_held: 1
-record: a6655301008c
+record: 81a43e22da2d
 ---
 
 # News, Sep – Oct 2026
@@ -332,6 +332,28 @@ The consortium behind the 17,000 km Africa Coast to Europe submarine cable has c
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Community roaming regulation implementation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Signature des accords bilatéraux de roaming entre les États membres de l’UEMOA](https://www.uemoa.int/actualites/signature-des-accords-bilateraux-de-roaming-entre-les-etats-membres-de-luemoa)** — UEMOA Commission, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+WAEMU Commission account: Burkina Faso signs with Benin, Côte d'Ivoire and Senegal under IMPACT 2030 plan.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[West Africa Struggles to Deliver Free Roaming Nearly Nine Years After Regional Agreement - Ecofin Agency](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement)** — Ecofin Agency, 26 October 2026
+
+Burkina deals need three months' work; WATRA counted 13 bilateral agreements, nine launches by Aug 2025.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -503,6 +525,14 @@ Mobile money operator Wave Digital Finance appears on the BCEAO's list of partic
 <div class="monthly-story" markdown="1">
 
 <p class="monthly-story__name">BCEAO accession to the Pan-African Payment and Settlement System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué de presse de la session ordinaire du Conseil des Ministres de l'Union, Dakar, le 2 octobre 2026](https://www.bceao.int/sites/default/files/2026-10/Communiqu%C3%A9%20de%20presse%20-%20Conseil%20des%20Ministres%20du%202%20octobre%202026.pdf)** — UEMOA Conseil des Ministres (published by BCEAO), 2 October 2026
+
+Council's own signed communiqué: favourable opinion on BCEAO and UMOA banks joining PAPSS; procurement directive.
+
+</div>
 
 <div class="bulletin-item" markdown="1">
 
