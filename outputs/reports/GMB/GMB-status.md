@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-10-24
+compiled: 2026-10-27
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 250
+sources_cited: 251
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -198,7 +198,7 @@ The money moving through the wider fintech sector is measured quarterly: [cash-i
 <!-- derived -->
 Five Central Bank publications between December 2025 and August 2026 give four different readings of the same registered fintech-user series, two of them issued on the same day and contradicting each other, leaving the March 2026 count unresolved.
 
-Reach is uneven. [Six commercial banks are live on the Pan-African Payment and Settlement System as at April 2026, and no Gambian mobile-money operator or wallet appears on that list](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf). Government has begun paying and collecting through them: [the Nafa cash transfer has paid bi-monthly grants to more than 15,000 rural households cashlessly through Wave since January 2026](https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/), and [Yonna Wallet became the first Gambian fintech authorised to collect payments for all government services through the Accountant General's Department](https://standard.gm/govt-payments-now-digitalised-live-on-yonna-wallet-app) (March 2026).
+Reach is uneven. [Six commercial banks are live on the Pan-African Payment and Settlement System as at April 2026, and no Gambian mobile-money operator or wallet appears on that list](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf); wallets cross the border on their own links, [one operator connecting its Gambian and Sierra Leonean wallets for instant transfers in June 2026](https://www.africell.com/story/afrimoney-sierra-leone-the-gambia-connected/). Government has begun paying and collecting through them: [the Nafa cash transfer has paid bi-monthly grants to more than 15,000 rural households cashlessly through Wave since January 2026](https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/), and [Yonna Wallet became the first Gambian fintech authorised to collect payments for all government services through the Accountant General's Department](https://standard.gm/govt-payments-now-digitalised-live-on-yonna-wallet-app) (March 2026).
 
 The governing instruments lag the systems. Digital retail payments run under [the Central Bank's 2011 mobile money regulation, whose section 8.1 obliges licensed providers to use systems capable of both domestic and international interoperability](https://www.cbg.gm/downloads-file/b2064e61-f37b-11e9-876c-02e599c15748) — a duty to be capable, not a duty to interoperate. [Access to banking services is one of the country's ten worst-scoring governance indicators, at 15.4 out of 100 in 2023 and up only 1.2 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf).
 
