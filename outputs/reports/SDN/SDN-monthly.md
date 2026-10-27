@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: SDN
-ledger_rows: 34
+ledger_rows: 36
 not_held: 5
-record: 0d7f83b35009
+record: 9361d466934b
 ---
 
 # News, Sep – Oct 2026
@@ -500,6 +500,20 @@ Columnist Al-Samani Awadallah, writing in Al-Hakim News on 6 September 2026, bac
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Advance cargo declaration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الجمارك تتوسع في تطبيق الإقرار المسبق للشحنات وتستعد لتعميمه بكافة المنافذ](https://www.sudanindependent.com/news/politics/2026/09/30/%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%AA%D8%AA%D9%88%D8%B3%D8%B9-%D9%81%D9%8A-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A5%D9%82%D8%B1%D8%A7%D8%B1)** — Sudan Independent (SUNA), 30 September 2026
+
+Advance cargo declaration to extend from October 2026 beyond Port Sudan's South Port to every port and crossing.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -601,6 +615,20 @@ Summarised under [Registries](#registries).
 </nav>
 
 ### Digitalisation of sub-national government
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wafi resource-management system, Northern State</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[أمين عام حكومة الشمالية يبحث استعادة أنظمة وزارة المالية وتعزيز التحول الرقمي](https://www.suna.sd/posts/amyn-aaam-hkom-alshmaly-ybhth-astaaad-anthm-ozar-almaly-otaazyz-althol-alrkmy)** — وكالة السودان للأنباء (سونا), 5 October 2026
+
+Wafi resource system, run since 2017 and halted by war in 2023, being restored; next budget to run on it.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
