@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-10-26
+compiled: 2026-10-27
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 239
+sources_cited: 241
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -226,9 +226,9 @@ Egypt's National Social Insurance Authority says its new system [served 8,621,00
 <!-- derived -->
 Every core government transaction system the GovTech Maturity Index assesses for Egypt is recorded as in use — financial management, treasury, tax administration, customs, human resources, payroll, social insurance, debt management and e-procurement — and the national public service portal is transactional rather than informational, so front office and back office alike sit at the index's upper bands (2025).
 
-The payroll system was [live in 2,281 of 2,675 target accounting units in February 2024, calculating wage tax and insurance contributions electronically](https://cabinet.gov.eg/News/Details/75069).
+The payroll system was [live in 2,281 of 2,675 target accounting units in February 2024, calculating wage tax and insurance contributions electronically](https://cabinet.gov.eg/News/Details/75069), and the tax authority [put wage-tax calculation for employers across the economy on one platform, with an employee portal issuing electronic payslips](https://eta.gov.eg/ar/news/mnzwmt-twhyd-ass-wmayyr-ahtsab-drybt-alajwr-walmrtbat-ysahm-fy-thqyq-aldalt-aldrybyt) (October 2025).
 
-The systems themselves are mostly bought in: the [financial management information system runs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [tax administration and customs are both hybrids of custom and off-the-shelf products](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The practitioner account is less tidy: [practitioners told Al-Borsa that some tax offices still work from paper files during inspection before entering results on the system, and that historic credit balances have not been carried into it](https://www.alborsaanews.com/2026/07/29/1982823) (July 2026), though the same portal carries [the e-invoicing system mandatory since December 2022](https://eta.gov.eg/en/home).
+The systems themselves are mostly bought in: the [financial management information system runs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [tax administration and customs are both hybrids of custom and off-the-shelf products](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Customs clearance has measurably quickened: [average import release at three seaports was 8.73 days in April 2024, against 16.08 days at Alexandria in 2021](https://customs.gov.eg/PDF_Docs/General/TimeStudyEn.pdf). The practitioner account is less tidy: [practitioners told Al-Borsa that some tax offices still work from paper files during inspection before entering results on the system, and that historic credit balances have not been carried into it](https://www.alborsaanews.com/2026/07/29/1982823) (July 2026), though the same portal carries [the e-invoicing system mandatory since December 2022](https://eta.gov.eg/en/home).
 
 The health ministry [launched DHIS2 as part of its national health information system in January 2026, in support of the National Digital Health Strategic Priorities 2025-2029](https://dhis2.org/egypt-launches-dhis2-in-health-information-system). Separately, [primary healthcare centres and units in the governorates where the Universal Health Insurance System applies are fully digitised, with electronic health records and electronic prescriptions](https://eha.gov.eg/en/news/highlights-transformation/) (2024).
 
