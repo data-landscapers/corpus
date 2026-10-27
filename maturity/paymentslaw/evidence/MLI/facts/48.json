@@ -1,0 +1,54 @@
+{
+ "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "L'Oeil du Sahel reports that the BCEAO's 2 October 2026 communique, covering Mali as a UEMOA state, sets binding rules for interoperable e-money transfers from 2 November 2026.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "BCEAO communique on PI-SPI",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "L'Oeil du Sahel reports that the BCEAO communique requires interoperable e-money transfers in UEMOA, including Mali, to be routed through PI-SPI from 2 November 2026.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "BCEAO communique on PI-SPI",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "L'Oeil du Sahel cites the UMOA banking commission as listing Orange Finances Mobiles Mali and Sama Money among Mali's e-money institutions, with 162.680 billion FCFA of e-money outstanding at end 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Orange Finances Mobiles Mali; Sama Money",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money Mali",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "Orange Finances Mobiles Mali",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money Mali",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

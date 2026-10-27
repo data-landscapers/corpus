@@ -1,0 +1,54 @@
+{
+ "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "L'Oeil du Sahel reports that the BCEAO's 2 October 2026 communique, covering Niger as a UEMOA state, sets binding rules for interoperable e-money transfers from 2 November 2026.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "BCEAO communique on PI-SPI",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "L'Oeil du Sahel reports that the BCEAO communique requires interoperable e-money transfers in UEMOA, including Niger, to be routed through PI-SPI from 2 November 2026.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "BCEAO communique on PI-SPI",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "L'Oeil du Sahel cites the UMOA banking commission as recording Airtel Money Niger with 1.311 billion FCFA of capital and 4.605 billion FCFA of e-money outstanding at end 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Airtel Money Niger",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money Niger",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Money Niger S.A.",
+   "tiers": ""
+  },
+  {
+   "system": "MyNITA",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "NITA with 2ISOFT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

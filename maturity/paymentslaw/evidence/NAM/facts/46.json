@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-31-nam-bon-psdir-10-cross-border-low-value-eft-cma-tcib",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Bank of Namibia issued Directive PSDIR-10 under section 44 of the Payment System Management Act, 2023 (Act No. 14 of 2023), effective on signature on 31 March 2025, with contravention an offence.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Payment System Management Act, 2023",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "Directive PSDIR-10 sets the regulator's deadline of 1 April 2027 for payment service providers to execute low-value cross-border Common Monetary Area transfers through the TCIB scheme.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "TCIB",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

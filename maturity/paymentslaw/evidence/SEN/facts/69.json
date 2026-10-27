@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The Africa Report says Wave, a non-bank non-telecom operator, already holds an e-money issuer licence from the BCEAO in Senegal.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "BCEAO e-money issuer licensing",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

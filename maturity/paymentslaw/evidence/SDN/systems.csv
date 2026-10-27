@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 SDN,USSD mobile financial services,خدمة الرموز التفاعلية USSD,other,,"Central Bank of Sudan (regulator); banks, mobile-payment institutions and e-payment providers operate",,2026-03-31-cbos-ussd-financial-services-regulations
 SDN,central national switch,المحول القومي المركزي,other,,,,2026-03-31-cbos-ussd-financial-services-regulations
+SDN,SIRAJ RTGS,Sudan,other,,Central Bank of Sudan,,2026-01-08-sdn-cbos-circular-customer-transfer-controls

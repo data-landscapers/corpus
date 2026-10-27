@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-lso-south-african-reserve-bank-act-directive-no-1-of-2025-execution-of-low",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The South African Reserve Bank issued Directive No. 1 of 2025 under section 12 of the National Payment System Act 78 of 1998, binding on settlement participants from 1 April 2025, with contravention an offence.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "SARB Directive No. 1 of 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Payment System Act 78 of 1998",
+   "country_label": "South Africa",
+   "class": "law",
+   "platform": "",
+   "owner": "SARB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-03-01-swz-cma-eft-payments-directive-no-1-of-2025",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Central Bank of Eswatini issued the CMA EFT Payments Directive no 1 of 2025 under the National Payments System Act, 2023, binding all payment service providers from 31 March 2025.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "National Payments System Act, 2023",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "The directive defines payment service providers as persons or institutions licensed under section 22 of the National Payments System Act, 2023.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "National Payments System Act, 2023",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "The directive sets a regulator deadline of 31 March 2027 for payment service providers to migrate low-value CMA cross-border transfers from SADC-RTGS to the TCIB scheme.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "CMA EFT Payments Directive no 1 of 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TCIB",
+   "country_label": "Transactions Cleared on an Immediate Basis",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

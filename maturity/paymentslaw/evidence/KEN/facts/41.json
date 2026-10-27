@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-13-rwa-signing-of-mou-between-central-bank-of-kenya-and-national-bank-of-rwan",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "non-bank",
+   "fact": "In a speech published 13 March 2026, the National Bank of Rwanda says the passporting MoU covers payment service providers licensed by the Central Bank of Kenya as home supervisor.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Licence Passporting Framework for Payment Service Providers",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

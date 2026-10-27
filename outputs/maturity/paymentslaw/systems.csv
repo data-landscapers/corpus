@@ -30,6 +30,7 @@ BFA,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institution
 BFA,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions; 20 participants in Burkina Faso at 30 September 2026",2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 BFA,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 BFA,PI-SPI,Plateforme interopérable du Système de paiement instantané,other,,BCEAO,banks; e-money institutions; payment institutions; microfinance institutions,2026-08-18-uemoa-pi-spi-104-etablissements-autorises
+BFA,Orange Money Burkina Faso,Burkina Faso,other,,,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
 CAF,GIMACPAY,GIMACPAY,other,,GIMAC (Groupement interbancaire monétique de l'Afrique centrale),"BEAC, two public treasuries, banks, microfinance institutions, payment institutions and mobile money operators, aggregators",2026-07-30-cemac-gimacpay-transactions-2025
 CAF,GIMACPAY,GIMACPAY,other,,GIMAC,"banks, mobile money wallets, microfinance accounts",2026-07-30-cemac-gimac-norme-qr-code-interoperable
 CAF,GIMAC,GIMAC,other,,BEAC (99%),"banks, mobile operators or payment establishments, microfinance institutions (75 participants, March 2022)",2025-02-01-beac-strategie-regionale-inclusion-financiere-cemac
@@ -83,6 +84,8 @@ MDG,e-Ariary,e-Ariary,other,,Banky Foibem-pirenena Madagasikara,"commercial bank
 MLI,PI-SPI,Plateforme Interopérable du Système de Paiement Instantané,other,,BCEAO,banks; e-money institutions; payment institutions; microfinance institutions,2026-06-25-bceao-pi-spi-prolongation-delai-communique-web
 MLI,PI-SPI,Plateforme Interopérable du Système de Paiement Instantané,other,,BCEAO,banks; e-money issuers; payment institutions; microfinance institutions,2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 MLI,PI-SPI,Plateforme interopérable du Système de paiement instantané,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions; 14 authorised in Mali at 31 July 2026",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
+MLI,Orange Money Mali,Mali,other,,Orange Finances Mobiles Mali,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
+MLI,Moov Money Mali,Mali,other,,,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
 MOZ,METIX,Instant Payment System,other,,Operated and managed by the Interbank Society of Mozambique (SIMO),banks; individuals and legal entities,2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique
 MOZ,Metix,Instant Payment System,other,,Sociedade Interbancaria de Mocambique (SIMO),banks; microbanks; electronic money institutions; other payment service providers; wallet operators,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
 MOZ,SIMOrede,SIMOrede,other,,SIMO,electronic money institutions; banks; microbanks; other payment service providers,2026-07-30-mozambique-metix-instant-payments-11000-daily-transfers
@@ -96,11 +99,14 @@ NAM,Instant Payment Solution (IPS) / Instant Payment Platform (IPP),Instant Paym
 NAM,NamPay,NamPay,other,,,,2025-12-24-determination-standards-fees-charges-payment-services-psd-10
 NER,PI-SPI,Plateforme Interopérable du Système de Paiement Instantané,other,,BCEAO,"banks, e-money issuers, payment institutions, microfinance institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 NER,PI-SPI,Plateforme interopérable du Système de paiement instantané,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions; Niger has 5 authorised at 31 July 2026",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
+NER,Airtel Money Niger,Niger,other,,Airtel Money Niger S.A.,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
+NER,MyNITA,Niger,other,,NITA with 2ISOFT,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
 NGA,NIBSS Instant Payment,NIBSS Instant Payment,other,,NIBSS,banks,2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 RWA,eKash,eKash,other,,RSwitch (operator),banks and electronic money issuers,2026-07-14-migrates-retail-payments-ekash-itweb
 RWA,eKash,"eKash (Rwanda National Digital Payment System, RNDPS)",other,,RSwitch,banks and electronic money issuers,2026-07-14-rwanda-bankers-association-ekash-interoperability
 SDN,USSD mobile financial services,خدمة الرموز التفاعلية USSD,other,,"Central Bank of Sudan (regulator); banks, mobile-payment institutions and e-payment providers operate",,2026-03-31-cbos-ussd-financial-services-regulations
 SDN,central national switch,المحول القومي المركزي,other,,,,2026-03-31-cbos-ussd-financial-services-regulations
+SDN,SIRAJ RTGS,Sudan,other,,Central Bank of Sudan,,2026-01-08-sdn-cbos-circular-customer-transfer-controls
 SEN,PI-SPI,PI-SPI,other,,BCEAO,"banks, e-money institutions, microfinance institutions, payment institutions",2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,PI-SPI,PI SPI,other,,BCEAO,"banks, e-money institutions, microfinance institutions, payment institutions",2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Orange Money,Orange Money,other,,,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
@@ -120,6 +126,7 @@ SSD,South Sudan Interbank Payment and Settlement System (SSIPSS),South Sudan,oth
 STP,Sistema Nacional de Pagamentos,Sistema Nacional de Pagamentos,law,,Banco Central de São Tomé e Príncipe,,2018-09-07-sao-tome-lei-17-2018-sistema-nacional-de-pagamentos
 SWZ,Eswatini Payment Switch (EPS) fast payments,Eswatini Payment Switch,other,,Central Bank of Eswatini,banks; mobile money providers,2026-09-21-swz-observer-eswatini-payment-switch-live
 SWZ,Eswatini Payment Switch (EPS) Fast Payments,Eswatini Payment Switch,other,PayLogic,Central Bank of Eswatini,banks; non-bank payment service providers; digital wallets,2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch
+SWZ,TCIB,Transactions Cleared on an Immediate Basis,other,,,,2025-03-01-swz-cma-eft-payments-directive-no-1-of-2025
 TCD,Moov Money,Moov Money Tchad,other,,Moov Money Tchad SA (Maroc Telecom group),,2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree
 TCD,Airtel Money,Airtel Money,other,,Airtel,,2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree
 TCD,Konoom,Konoom,other,,Konoom,,2026-07-29-leconomie-tchad-moov-money-etablissement-paiement-agree
@@ -131,3 +138,4 @@ TGO,PI-SPI,Plateforme interoperable du Systeme de paiement instantane,other,,BCE
 TGO,PI-SPI (Plateforme Interopérable du Système de Paiement Instantané),PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, fintechs; microfinance institutions in time",2026-07-28-uemoa-interoperabilite-paiements-forbesafrique
 TUN,TUNPAY,TUNPAY,other,,Banque Centrale de Tunisie (label); Société Monétique Tunisie manages the mobile payment system,"banks, the Post, payment institutions",2026-05-05-bct-note-2026-132-label-national-tunpay
 ZAF,PayInc,PayInc (formerly BankservAfrica),other,,"PayInc, with a SARB shareholding",,2026-09-01-national-payment-system-bill-techcentral
+ZAF,National Payment System Act 78 of 1998,South Africa,law,,SARB,,2025-04-01-lso-south-african-reserve-bank-act-directive-no-1-of-2025-execution-of-low
