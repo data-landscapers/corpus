@@ -1,3 +1,11 @@
 iso3,n,aspect,value,action,why
 ZWE,002,switch,national,revalued: interop:interop,First pass: wallet integration on one platform and QR rolling out; not a switch joining wallets and banks
 LBY,007,interop,interop,removed,"First pass: a bank-to-bank QR instruction, not payments between wallets or with banks"
+BEN,013,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
+BFA,020,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
+CIV,014,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
+MLI,016,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
+NER,014,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
+SEN,018,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
+TGO,016,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service
+TGO,017,service,underway,removed,Stage 4c: the BCEAO instant payment system's 2024 pilot is not a mobile money service licensed or piloted with none in service

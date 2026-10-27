@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "L'Oeil du Sahel, citing BCEAO 2024 data, says Niger had 9,746,822 e-money accounts, 441,764 of them active, and 31,980,545 transactions in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "L'Oeil du Sahel says the BCEAO lists 13 participants in Niger authorised to open PI-SPI services to the public, eleven banks plus Airtel Money Niger and i-FUTUR, as of 30 September 2026.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

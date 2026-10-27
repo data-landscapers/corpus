@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Birr Metrics reports that Ethio Telecom's mobile money platform telebirr, launched in 2021, has nearly 55 million users and processed over 2.3 trillion birr in the past year.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "telebirr",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "telebirr",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

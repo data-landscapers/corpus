@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-01-tun-bct-paiements-en-chiffres-2024-bulletin-n11",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Banque Centrale de Tunisie bulletin on 2024 reports mobile payment activity through payment service provider wallets (368,595 in the 2024 column), with payments, transfers, cash-in and cash-out transactions.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Paiement Mobile",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paiement Mobile",
+   "country_label": "Paiement Mobile (PSP wallets)",
+   "class": "retail",
+   "platform": "",
+   "owner": "payment service providers",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-21-sle-sierra-leone-pushes-cash-lite-economy-as-digital-payments-surge",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Bank of Sierra Leone says its Instant Payment System has operated for under a year with seven banks and two mobile money operators, credited to Orange Money and GTBank for early growth, with about 1.4 million registered users.",
+   "as_of": "2026-01-21",
+   "date_precision": "day",
+   "system": "Instant Payment System (IPS)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Bank of Sierra Leone says its Instant Payment System enables real-time transfers between banks and mobile money platforms, with about 600,000 transactions by late 2025.",
+   "as_of": "2026-01-21",
+   "date_precision": "day",
+   "system": "Instant Payment System (IPS)",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Bank of Sierra Leone's national Instant Payment System connects banks and mobile money operators in service, while the Salon Payment Switch covers all commercial banks' ATMs.",
+   "as_of": "2026-01-21",
+   "date_precision": "day",
+   "system": "Instant Payment System (IPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instant Payment System (IPS)",
+   "country_label": "Sierra Leone",
+   "class": "retail",
+   "platform": "",
+   "owner": "Bank of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

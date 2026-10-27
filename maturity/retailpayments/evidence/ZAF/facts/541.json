@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-zaf-techcabal-sarb-non-bank-access-fintech-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports that PayShap, a shared instant-payment service used by participating banks, is in service, and that SARB Governor Kganyago said on 20 October 2026 it processed about 6% as many transactions as cards last year.",
+   "as_of": "2026-10-20",
+   "date_precision": "day",
+   "system": "PayShap",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PayShap",
+   "country_label": "PayShap",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-05-ben-moov-money-et-boa-benin-adoptent-la-plateforme-pi-spi-de-la-bceao",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Le Grand Ouémé reports Moov Money Bénin's app now offers customers instant transfers, as the sole e-money issuer currently eligible for the service.",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "Moov Money Bénin",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Le Grand Ouémé reports Moov Money customers can make instant transfers between their Moov Money account and all bank and microfinance accounts connected to PI-SPI across the UEMOA zone, and BOA-Bénin customers can send and receive instant payments to and from other connected providers.",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

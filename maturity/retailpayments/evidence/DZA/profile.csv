@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,retail,service,coverage,inservice,2026-10-21,DZA-001;DZA-003;DZA-004;DZA-006;DZA-008;DZA-009;DZA-011;DZA-013,,
+DZA,retail,service,coverage,inservice,2026-10-21,DZA-001;DZA-003;DZA-004;DZA-006;DZA-008;DZA-009;DZA-011;DZA-013;DZA-014,,
 DZA,retail,interop,coverage,interop,2026,DZA-002;DZA-005;DZA-007;DZA-010;DZA-012,,
 DZA,retail,switch,coverage,,,,,nothing held

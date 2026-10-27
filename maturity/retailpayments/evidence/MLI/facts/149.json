@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "L'Oeil du Sahel, citing BCEAO 2024 data, says Mali had 18,129,935 e-money accounts, 6,148,800 of them active, and 1,271,890,183 transactions in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

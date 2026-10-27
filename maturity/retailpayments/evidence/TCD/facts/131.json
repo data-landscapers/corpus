@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-tcd-e-paiement",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Chad's customs directorate says customs duties can be paid instantly by mobile money through Moov Money, Airtel Money and other approved operators.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Mobile Money (Moov Money, Airtel Money)",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

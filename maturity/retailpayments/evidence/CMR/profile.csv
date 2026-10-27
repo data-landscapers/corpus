@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,retail,service,coverage,inservice,2026,CMR-001;CMR-002;CMR-005;CMR-007;CMR-008;CMR-009;CMR-011;CMR-012;CMR-014;CMR-017,,
+CMR,retail,service,coverage,inservice,2026,CMR-001;CMR-002;CMR-005;CMR-007;CMR-008;CMR-009;CMR-011;CMR-012;CMR-014;CMR-017;CMR-018,,
 CMR,retail,interop,coverage,interop,2026-08-31,CMR-003;CMR-004;CMR-006;CMR-010;CMR-013;CMR-015,,
 CMR,retail,switch,coverage,national,2023-11,CMR-016,,

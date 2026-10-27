@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-08-mli-orange-finances-money-mali-et-terrapay-etablissent-un-partenariat-stra",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The press release says Orange Money wallets in Mali can be used for bill payments, supermarket purchases and person-to-person transfers, and calls Orange Finances Money Mali the country's largest mobile payment operator.",
+   "as_of": "2024-01-08",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

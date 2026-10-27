@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-gmb-project-profile-series-the-gambia-aps",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The IFAD PRIME Africa end-of-project profile (April 2026) describes APS Wallet as a mobile money operator in The Gambia, with 477,600 customers opening wallets during the project.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "APS Wallet",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

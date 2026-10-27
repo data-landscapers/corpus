@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-27-sle-afrimoney-and-bnb-connect-to-promote-cross-border-transactions",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "This Day reports that Afrimoney, a mobile money wallet service, has users in Sierra Leone who can now send money abroad by USSD from 23 May 2025.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "Afrimoney",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

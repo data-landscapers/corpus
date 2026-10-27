@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,retail,service,coverage,inservice,2026,COG-001;COG-003;COG-004;COG-006;COG-007;COG-009;COG-010;COG-012;COG-015,,
+COG,retail,service,coverage,inservice,2026,COG-001;COG-003;COG-004;COG-006;COG-007;COG-009;COG-010;COG-012;COG-015;COG-016;COG-017;COG-018,,
 COG,retail,interop,coverage,interop,2026-09-28,COG-002;COG-005;COG-008;COG-011;COG-013,,
 COG,retail,switch,coverage,national,2023-11,COG-014,,

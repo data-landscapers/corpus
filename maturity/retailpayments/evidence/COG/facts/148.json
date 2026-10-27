@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-17-cog-airtel-money-elargit-ses-services-au-dela-de-la-cemac-et-connecte-31-p",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Airtel Congo says Airtel Money is established in the six CEMAC countries including Congo, as a mobile money service.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

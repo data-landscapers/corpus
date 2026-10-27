@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-19-eth-ethio-telecom-in-collaboration-with-visa-inc-has-launched-the-first-wa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ethio telecom says telebirr customers reached 47.55 million in the 2023/24 Ethiopian fiscal year, and it launched a wallet-based Virtual Visa Card on telebirr SuperApp.",
+   "as_of": "2024-08-19",
+   "date_precision": "day",
+   "system": "telebirr",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "telebirr",
+   "country_label": "telebirr",
+   "class": "retail",
+   "platform": "",
+   "owner": "Ethio telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

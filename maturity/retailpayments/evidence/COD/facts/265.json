@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-24-cod-une-nouvelle-etape-franchie-pour-orange-money-rdc",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Orange Money RDC customers send money from their Orange Money wallet, which Orange Money RDC states is in service.",
+   "as_of": "2025-06-24",
+   "date_precision": "day",
+   "system": "Orange Money RDC",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money RDC",
+   "country_label": "DRC",
+   "class": "retail",
+   "platform": "USSD *144#",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

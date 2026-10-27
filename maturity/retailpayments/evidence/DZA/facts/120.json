@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-11-dza-pourquoi-algerie-poste-bloque-baridimob-a-ses-usagers-a-l-etranger",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ObservAlgerie, relaying Echorouk, describes BaridiMob, Algerie Poste's mobile app, as used for money transfers, bill payments and mobile credit top-ups, with hundreds of complaints when access from abroad was blocked.",
+   "as_of": "2025-05-11",
+   "date_precision": "day",
+   "system": "BaridiMob",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BaridiMob",
+   "country_label": "Algeria",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "Algerie Poste",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

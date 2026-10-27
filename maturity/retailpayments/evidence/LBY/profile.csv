@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LBY,retail,service,coverage,inservice,2026-08,LBY-001;LBY-002;LBY-003;LBY-004;LBY-005;LBY-006;LBY-008;LBY-009,,
-LBY,retail,interop,coverage,interop,2026-03-04,LBY-007,,
+LBY,retail,interop,coverage,,,,,nothing held
 LBY,retail,switch,coverage,,,,,nothing held

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-23-egy-cabinet-mof-epayment-collection-fy23-24",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Egypt's Cabinet reports citizens paying government dues electronically through the banking-sector 'Citizen Payment' channel, EGP 61.4 billion in July 2023 to May 2024, up 38%.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Citizen Payment",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

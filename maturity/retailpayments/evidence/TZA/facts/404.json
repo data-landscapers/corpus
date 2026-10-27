@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-11-tza-eac-begins-building-regional-instant-payment-network-with-rwanda-tanza",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The EAC describes Tanzania Instant Payment System (TIPS) as the country's national retail payment switch, to be linked with the partner switch to move money between bank accounts and mobile money wallets.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "Tanzania Instant Payment System (TIPS)",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

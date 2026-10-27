@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-29-cog-pawapay-q3-round-up-2-billion-transactions-new-remittance-markets-and",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Payment company pawaPay says its platform processes mobile money payments in Uganda through direct integrations with MTN MoMo and Airtel.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TUN,retail,service,coverage,inservice,2026-10,TUN-002;TUN-003;TUN-004;TUN-005;TUN-006;TUN-007;TUN-009,TUN-008=underway;TUN-001=underway,
+TUN,retail,service,coverage,inservice,2026-10,TUN-002;TUN-003;TUN-004;TUN-005;TUN-006;TUN-007;TUN-009;TUN-010,TUN-008=underway;TUN-001=underway,
 TUN,retail,interop,coverage,,,,,nothing held
 TUN,retail,switch,coverage,,,,,nothing held

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-05-egy-cbe-instant-inbound-remittances-primary",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Egypt says its instant payments system, launched in March 2022, serves customers 24/7 and has more than 11.5 million customers registered on the InstaPay app.",
+   "as_of": "2024-12-05",
+   "date_precision": "day",
+   "system": "InstaPay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "InstaPay",
+   "country_label": "InstaPay",
+   "class": "retail",
+   "platform": "",
+   "owner": "Central Bank of Egypt",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

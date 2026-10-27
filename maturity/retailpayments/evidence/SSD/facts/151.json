@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-23-ssd-civil-servants-ordered-to-open-salary-accounts-amid-cash-crisis",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The report says South Sudan's cash crisis has affected mobile money transfer service providers as well as banks.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "Mobile money transfer services",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-gmb-afrimoney-connects-the-gambia-and-sierra-leone-directly-in-historic-fi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Africell describes Afrimoney as a mobile money service operating in The Gambia, whose wallets customers use to send money, including by USSD.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Afrimoney",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afrimoney",
+   "country_label": "The Gambia",
+   "class": "retail",
+   "platform": "Afrimoney",
+   "owner": "Africell",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

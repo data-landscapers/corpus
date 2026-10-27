@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CAF,retail,service,coverage,inservice,2026,CAF-001;CAF-003;CAF-004;CAF-006;CAF-007;CAF-008;CAF-011,,
+CAF,retail,service,coverage,inservice,2026,CAF-001;CAF-003;CAF-004;CAF-006;CAF-007;CAF-008;CAF-011;CAF-012,,
 CAF,retail,interop,coverage,interop,2026-07-29,CAF-002;CAF-005;CAF-009,,
 CAF,retail,switch,coverage,national,2023-11,CAF-010,,

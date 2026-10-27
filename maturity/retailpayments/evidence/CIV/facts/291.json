@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-15-civ-cote-d-ivoire-modernisation-des-finances-de-l-etat-le-tresor-public-ac",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Adama Coulibaly says electronic money is distributed through Tresor Money, with FCFA 45 billion exchanged among 545,000 clients in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Tresor Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tresor Money",
+   "country_label": "Cote d'Ivoire",
+   "class": "retail",
+   "platform": "",
+   "owner": "Tresor public",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

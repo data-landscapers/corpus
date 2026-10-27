@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-15-mwi-mtn-momo-increases-remittance-services-to-10-new-countries",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MTN's MoMo app is in service in South Africa, offering payments, e-commerce, insurance and lending, with 200 million wallets reachable through 39 partners in 24 African countries.",
+   "as_of": "2024-04-15",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

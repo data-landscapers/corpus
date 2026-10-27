@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-07-zmb-airtel-money-pawapay-enable-remittances-for-seven-african-countries",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Connecting Africa reports that Airtel Money wallets in Congo Brazzaville receive inbound remittances from 7 August 2025, so the mobile money service is in service.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

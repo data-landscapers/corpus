@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,retail,service,coverage,inservice,2026-09,MWI-001;MWI-002;MWI-003;MWI-004;MWI-005;MWI-008;MWI-009;MWI-011;MWI-012;MWI-013;MWI-014;MWI-015;MWI-018,,
+MWI,retail,service,coverage,inservice,2026-09,MWI-001;MWI-002;MWI-003;MWI-004;MWI-005;MWI-008;MWI-009;MWI-011;MWI-012;MWI-013;MWI-014;MWI-015;MWI-018;MWI-021,,
 MWI,retail,interop,coverage,interop,2025,MWI-006;MWI-010;MWI-016;MWI-019,,
 MWI,retail,switch,coverage,national,2025,MWI-007;MWI-017;MWI-020,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-lbr-bnb-liberia-and-orange-money-launch-cross-border-mobile-remittance-ser",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechAfrica News reports Orange Money wallet users in Liberia can send money, with the Orange Money mobile money platform already serving domestic transactions.",
+   "as_of": "2026-06-10",
+   "date_precision": "day",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

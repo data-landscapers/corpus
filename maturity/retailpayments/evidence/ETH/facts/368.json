@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-14-ken-safaricom-enables-m-pesa-transfers-between-kenya-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Connecting Africa reports M-Pesa went live in Ethiopia in August 2023, with 4.5 million registered mobile money users by May 2024.",
+   "as_of": "2023-08",
+   "date_precision": "month",
+   "system": "M-Pesa Ethiopia",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa Ethiopia",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Safaricom Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

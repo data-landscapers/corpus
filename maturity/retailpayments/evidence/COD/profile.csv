@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,retail,service,coverage,inservice,2026-07,COD-001;COD-002;COD-003;COD-004;COD-006;COD-007;COD-008;COD-010,,
+COD,retail,service,coverage,inservice,2026-07,COD-001;COD-002;COD-003;COD-004;COD-006;COD-007;COD-008;COD-010;COD-012,,
 COD,retail,interop,coverage,interop,2026-04-03,COD-005;COD-009;COD-011,,
 COD,retail,switch,coverage,,,,,nothing held

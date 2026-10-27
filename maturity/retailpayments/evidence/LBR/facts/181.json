@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-05-lbr-new-partnership-aims-to-boost-liberia-s-mobile-money-transfer-services",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Lonestar Cell MTN's MoMo is described as a mobile money platform for sending and receiving money and paying bills from phones.",
+   "as_of": "2024-08-05",
+   "date_precision": "day",
+   "system": "Lonestar Cell MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lonestar Cell MTN MoMo",
+   "country_label": "Liberia",
+   "class": "retail",
+   "platform": "",
+   "owner": "Lonestar Cell MTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

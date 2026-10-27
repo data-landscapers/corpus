@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,retail,service,coverage,inservice,2026-09-18,BFA-001;BFA-003;BFA-007;BFA-008;BFA-009;BFA-011;BFA-012;BFA-013;BFA-014;BFA-015;BFA-016;BFA-018,,
+BFA,retail,service,coverage,inservice,2026-09-18,BFA-001;BFA-003;BFA-007;BFA-008;BFA-009;BFA-011;BFA-012;BFA-013;BFA-014;BFA-015;BFA-016;BFA-018;BFA-019,,
 BFA,retail,interop,coverage,interop,2026-09-18,BFA-002;BFA-004;BFA-005;BFA-006;BFA-010;BFA-017,,
 BFA,retail,switch,coverage,,,,,nothing held

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-26-ebanx-integrates-opay-direct-debit-for-global-subscription-p",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "OPay's digital wallet is in service in Nigeria with 40 million monthly active users as OPay claims, and EBANX has gone live with OPay Direct Debit for recurring payments.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "OPay wallet",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OPay wallet",
+   "country_label": "OPay",
+   "class": "retail",
+   "platform": "OPay app",
+   "owner": "OPay",
+   "tiers": ""
+  },
+  {
+   "system": "OPay Direct Debit",
+   "country_label": "OPay Direct Debit",
+   "class": "retail",
+   "platform": "OPay app",
+   "owner": "OPay",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

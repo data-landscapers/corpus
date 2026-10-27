@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-17-gab-moov-africa-gabon-telecom-lance-le-transfert-d-argent-international-av",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Moov Africa Gabon Telecom's Moov Money app lets subscribers make local and international financial operations from their phones, as reported on 17 January 2025.",
+   "as_of": "2025-01-15",
+   "date_precision": "day",
+   "system": "Moov Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money",
+   "country_label": "Moov Money",
+   "class": "retail",
+   "platform": "mobile app",
+   "owner": "Moov Africa Gabon Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

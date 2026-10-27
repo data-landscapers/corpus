@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-06-egy-almezan-cbe-wallet-remittances-inbound-only",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "A Central Bank of Egypt source and the report describe the Vodafone Cash and Etisalat Cash mobile wallets as operating, receiving international transfers for people in Egypt.",
+   "as_of": "2025-04-06",
+   "date_precision": "day",
+   "system": "Vodafone Cash and Etisalat Cash",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

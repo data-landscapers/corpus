@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-25-gab-le-gabon-a-enregistre-plus-de-4-milliards-de-fcfa-de-transactions-mobi",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Business & Finance International, citing the DGEPF note, reports Airtel Money and Moov Money handled 368.3 million mobile money operations worth FCFA 4,087 billion in 2024, including FCFA 291 billion of payments for goods and services.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Airtel Money and Moov Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Gabon",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Airtel Gabon",
+   "tiers": ""
+  },
+  {
+   "system": "Moov Money",
+   "country_label": "Gabon",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Moov Africa Gabon Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

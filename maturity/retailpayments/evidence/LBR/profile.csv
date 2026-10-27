@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,retail,service,coverage,inservice,2026-10-01,LBR-001;LBR-003;LBR-005;LBR-007;LBR-011;LBR-013;LBR-014;LBR-016;LBR-017;LBR-018;LBR-019;LBR-020,,
+LBR,retail,service,coverage,inservice,2026-10-01,LBR-001;LBR-003;LBR-005;LBR-007;LBR-011;LBR-013;LBR-014;LBR-016;LBR-017;LBR-018;LBR-019;LBR-020;LBR-021;LBR-022,,
 LBR,retail,interop,coverage,interop,2026-10-01,LBR-002;LBR-004;LBR-006;LBR-008;LBR-009;LBR-010;LBR-012;LBR-015,,
 LBR,retail,switch,coverage,,,,,nothing held

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-04-swz-new-momo-product-receive-money-from-sa",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Independent News reports that MTN Eswatini's MoMo mobile money wallet is in service for sending and receiving money, paying bills, buying groceries, airtime and data, as described by its fintech CEO at the 2 December 2024 launch.",
+   "as_of": "2024-12-02",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "Independent News reports that MTN Eswatini's fintech CEO said MoMo customers can transfer funds to and from their bank accounts.",
+   "as_of": "2024-12-02",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo",
+   "country_label": "MTN Eswatini MoMo",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-25-nga-thunes-and-momo-psb-bring-real-time-cross-border-payments-to-millions",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Thunes says MoMo PSB, MTN's fintech platform, provides millions of Nigerians with digital financial services including payments and wallets, and its users spend received funds on airtime and bill payments.",
+   "as_of": "2025-11-25",
+   "date_precision": "day",
+   "system": "MoMo PSB",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

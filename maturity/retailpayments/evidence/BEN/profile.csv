@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,retail,service,coverage,inservice,2026-08,BEN-002;BEN-004;BEN-006;BEN-007;BEN-009;BEN-010;BEN-011;BEN-012,,
-BEN,retail,interop,coverage,interop,2026-05-29,BEN-001;BEN-003;BEN-005;BEN-008,,
+BEN,retail,service,coverage,inservice,2026-08,BEN-002;BEN-004;BEN-006;BEN-007;BEN-009;BEN-010;BEN-011;BEN-012;BEN-014;BEN-016,,
+BEN,retail,interop,coverage,interop,2026-05-29,BEN-001;BEN-003;BEN-005;BEN-008;BEN-015,,
 BEN,retail,switch,coverage,,,,,nothing held

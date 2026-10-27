@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Africa Report says the BCEAO pilot of the WAEMU interoperable instant payment system, covering Niger among eight states and including e-money issuers, began in August 2024, with 25 institutions then a second cohort of 65 from 12 August 2024.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "WAEMU interoperable instant payment system",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WAEMU interoperable instant payment system (PI-SPI)",
+   "class": "retail",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "",
+   "country_label": "PI-SPI pilot"
+  }
+ ],
+ "note": ""
+}
