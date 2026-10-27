@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: COD
 ledger_rows: 69
 not_held: 7
-record: 920d03a71a0c
+record: bc0dae4ca49b
 ---
 
 # News, Sep – Oct 2026
@@ -937,6 +937,14 @@ The Democratic Republic of Congo's electoral commission, CENI, launched a progra
 **[RDC : Kinshasa accélère la mise en œuvre du visa électronique afin de moderniser le traitement des demandes via un système numérique](https://ecomine.cd/web/index.php/actualite/2026/10/14/rdc-kinshasa-accelere-la-mise-en-oeuvre-du-visa-electronique-afin-de)** — Ecomine, 14 October 2026
 
 DR Congo's foreign minister, Thérèse Kayikwamba Wagner, and digital economy minister, Augustin Kibassa Maliba, met on 14 October 2026 to advance an integrated platform for processing electronic visa applications. No technical details, rollout timetable or access conditions were given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC: le gouvernement relance le processus e-visa, l’évaluation des offres prévue début 2027](https://actualite.cd/2026/10/25/rdc-le-gouvernement-relance-le-processus-e-visa-levaluation-des-offres-prevue-debut-2027)** — ACTUALITE.CD, 25 October 2026
+
+June 2024 concession contract cancelled; new competitive tender, workshops mid-Nov 2026, bid evaluation early 2027.
 
 </div>
 
