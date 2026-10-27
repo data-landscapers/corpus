@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-28-mrt-mauritanie-unification-des-normes-de-l-architecture-numerique-de-l-eta",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ministry's communique says the national government cloud is meant to host State services while respecting digital sovereignty, among applications already engaged under the Digital-Y project.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "cloud gouvernemental national",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "cloud gouvernemental national",
+   "country_label": "Mauritania",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "Ministry of Digital Transformation and Modernisation of Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

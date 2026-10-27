@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-22-nga-technext-meta-ndpc-secret-settlement-double-standard",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "The Central Bank of Nigeria's circular requires banks, payment providers, mobile money operators and fintechs to hold all domestic payment transaction data inside Nigeria by 1 January 2027.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CBN circular on domestic payment transaction data",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "NITDA rolled out its National Sovereign Cloud Initiative and inaugurated a task force to certify local cloud and AI infrastructure providers.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National Sovereign Cloud Initiative",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
