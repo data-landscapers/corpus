@@ -107,6 +107,15 @@ outputs/titles/
 site/catalogue/names/
 site/catalogue/titles/
 
+# The catalogue as BUILD stage 2 builds it from `raw/`, every night, whole (strategic review 7,
+# R143). Never published — `site/catalogue/raw-catalogue.csv` is the download and stays
+# tracked, as §9's undated exception served from Pages — and read only on this machine, so
+# 54 MB rewritten into the history on every build bought nothing. `doc-ids.csv` and
+# `catalogue-stamp.json` stay tracked.
+outputs/catalogue/raw-catalogue.csv
+outputs/catalogue/raw-catalogue.json
+outputs/catalogue/catalogue-internal.csv
+
 # A filler run's own scratch: the slice tallies its sub-agents write back through, named
 # with a leading dot by the sessions themselves. The run CSVs beside them are the record
 # (PROGRESS-FILLER §7) and are tracked; these are working material for one run and are
