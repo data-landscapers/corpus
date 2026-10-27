@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "registers",
-   "stage": "3",
-   "register": "inservice",
-   "several": "",
-   "matching": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-002",
-   "gaps": "No source held since October 2023 shows three or more main public registers using the national ID number.",
-   "note": "First pass: counted from the four questions by study-ladder-idregisters.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "registers",
+      "stage": "3",
+      "register": "inservice",
+      "several": "",
+      "matching": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-003;GHA-002",
+      "gaps": "Two of the five main registers are on record: the civil service payroll keyed on the Ghana Card PIN (GHA-003) and GRA's revenue collection relying on NIA verification (GHA-002); NHIS is health insurance and the National Service Scheme is not the civil service payroll. No electoral, social protection or business register is held using the number, and no figure from matching a register against the ID.",
+      "note": "The civil service payroll requires the Ghana Card PIN for employees and pensioners from January 2024, a public register keyed on the ID. Stage 4 needs three of the five main registers, and two are held.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

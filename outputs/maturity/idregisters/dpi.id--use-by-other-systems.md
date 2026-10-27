@@ -92,8 +92,9 @@ A public register used the national ID number in 2024; use by three main registe
 
 ### Ghana: 3 Established
 
-A public register used the national ID number in 2025; use by three main registers is not known.
+The civil service payroll has required the national ID number since 2024, and tax collection relies on it; electoral and social registers are not known.
 
+- The National Identification Authority says the civil service payroll (the Mechanized Payroll System) now requires the Ghana Card PIN to validate recruited public sector employees and pensioners, with existing staff to submit their PIN at NIA offices, launched 10 January 2024 ([source, 2024-01-10](https://nia.gov.gh/government-launches-integrated-database-for-payroll-validation-and-verification/)).
 - Republic Online reports that GRA revenue collection and NHIS member verification depend on NIA biometric verification, with GRA owing $377 million and NHIS $58 million for it ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
 
 ### Lesotho: 3 Established

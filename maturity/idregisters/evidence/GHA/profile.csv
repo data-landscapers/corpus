@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,registers,register,coverage,inservice,2026-10-09,GHA-001;GHA-002,,
+GHA,registers,register,coverage,inservice,2026-10-09,GHA-001;GHA-002;GHA-003,,
 GHA,registers,several,coverage,,,,,nothing held
 GHA,registers,matching,coverage,,,,,nothing held

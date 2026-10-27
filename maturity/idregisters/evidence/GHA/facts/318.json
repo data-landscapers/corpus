@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The National Identification Authority says the civil service payroll (the Mechanized Payroll System) now requires the Ghana Card PIN to validate recruited public sector employees and pensioners, with existing staff to submit their PIN at NIA offices, launched 10 January 2024.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "Mechanized Payroll System",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mechanized Payroll System",
+   "country_label": "Mechanized Payroll System",
+   "class": "register",
+   "platform": "",
+   "owner": "Controller and Accountant General Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
