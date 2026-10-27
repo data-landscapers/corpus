@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-26-zaf-smart-id-delays-exclusion",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "Proposed amendments to the South Africa Identification Act were released in June 2026 and drew multistakeholder feedback, including a Research ICT Africa submission; the article says the participatory review is still under way.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Identification Act amendments",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
