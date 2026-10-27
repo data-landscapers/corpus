@@ -33,6 +33,13 @@ The budget is read from the skeleton rather than duplicated here, because the sk
 the knob: change the numbers there and this follows. If its line is reworded past the
 pattern below, this exits 2 rather than silently checking nothing.
 
+**Check A, the closing absence line** *(R151)*. In a status sub-section carrying the
+`<!-- absences -->` markers, the block must be exactly what `status_lib.absence_line()` emits
+from the maturity assessment, and no paragraph beside it may be a hand-written absence line —
+one made only of *No …* or *Nothing …* sentences ending in *found*, *held* or *published*. A
+closing absence inside a paragraph of facts stands; it is the paragraph that repeats the list.
+Unmarked sections are not read: the markers arrive with R134 and the R137 rotation.
+
 Usage:
   python scripts/report-register-check.py                 # every unit
   python scripts/report-register-check.py --unit BEN
@@ -48,6 +55,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import vault_lib  # noqa: E402
+import status_lib  # noqa: E402
 
 ROOT = vault_lib.ROOT
 REPORTS = os.path.join(ROOT, "outputs", "reports")
@@ -559,7 +567,7 @@ def main():
                   f"nothing was checked", file=sys.stderr)
             return 2
 
-    flagged = over = uncited = 0
+    flagged = over = uncited = absent = 0
     # **A country's progress prose is in `indicators.csv`, so that is what gets checked**
     # *(2026-08-26)*. The document itself carries no narrative markers any more, so reading it
     # would score every country at nought words and report 54 documents under band — a check
@@ -628,6 +636,10 @@ def main():
             print(f"    {rel}:{line}  [check H] no citation in this block: {', '.join(bare)}")
         flagged += len(hits)
         uncited += len(figs)
+        if authored:
+            for slug, fault in status_lib.absence_faults(open(path, encoding="utf-8").read(), unit):
+                print(f"    {rel}  [check A] {slug}: {fault}")
+                absent += 1
 
     cells = missing = checked = 0
     for unit in seen_units:
@@ -663,7 +675,8 @@ def main():
     if missing:
         print(f"indicator prose: {missing} country unit(s) have no indicators.csv — the mapping "
               f"pass has not run for them, so their progress prose was not checked")
-    return 1 if (flagged or over or cells) else 0
+    print(f"check A: {absent} marked sub-section(s) with a hand-written or stale absence line")
+    return 1 if (flagged or over or cells or absent) else 0
 
 
 if __name__ == "__main__":

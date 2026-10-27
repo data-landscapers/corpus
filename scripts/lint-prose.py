@@ -8,7 +8,8 @@ read by a person, at the unit review, and has no check here.
 **A block is the unit the sheet speaks of**, keyed so a run can tell whether it touched it:
 
 - **status** — a status report's sub-section, keyed by the `<!-- slug -->` under its `###`
-  heading. The `<!-- derived -->` paragraph is computed, not written, and is left out.
+  heading. The `<!-- derived -->` paragraph and the `<!-- absences -->` block are emitted, not
+  written, and are left out.
 - **maturity** — one labelled paragraph of `outputs/maturity/{id}/{ISO3}.md`, keyed by indicator,
   `##` heading and label. The bold label is the writer scripts' apparatus, not prose, and is
   stripped before any check.
@@ -202,7 +203,7 @@ def gating(kind: str, fails: list[str]) -> list[str]:
 def paragraphs(lines: list[str]) -> list[str]:
     """Prose paragraphs from a run of lines: headings, tables, quotes, comments, fences and the
     paragraph under a `<!-- derived -->` marker left out."""
-    out, buf, fenced, derived = [], [], False, False
+    out, buf, fenced, derived, absent = [], [], False, False, False
     for line in lines + [""]:
         s = line.strip()
         if s.startswith("```"):
@@ -217,6 +218,14 @@ def paragraphs(lines: list[str]) -> list[str]:
             continue
         if s.startswith("<!-- derived"):
             derived = True
+            continue
+        if s.startswith("<!-- absences"):
+            absent = True
+            continue
+        if s.startswith("<!-- /absences"):
+            absent = False
+            continue
+        if absent:
             continue
         if NOT_PROSE.match(line):
             continue

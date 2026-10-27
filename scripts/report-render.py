@@ -55,6 +55,9 @@ Modes:
   --end       YYYY-MM-DD — close the window here rather than at today. For rebuilding a
               document to a stated date rather than to now.
   --window    months in the progress window (default 12 — an annual progress report).
+  --absences  SLUGS — add the emitted absence block to these status sub-sections, or `all`.
+              Every `--render` that reaches an initialised unit's status rewrites the blocks
+              already there, from the maturity assessment (R151); nothing else in the baseline.
   --check     Checks G, I, J, L and M over every rendered document in the folder.
               G: every http(s) URL is held in `index/`. I: no status or movement value outside
               the closed vocabularies, and every ***Not held*** row present in `gaps.csv`.
@@ -2181,6 +2184,27 @@ def check_indicator_sources(unit):
           f"{'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
     return 1 if bad else 0
 
+def absences(unit, add=()):
+    """Rewrite the closing absence blocks of an initialised unit's status baseline (R151).
+
+    **The one write this renderer makes to an authored baseline**, and it is confined to the text
+    between `<!-- absences -->` markers, which no hand edits: `status_lib.refresh_absences()` emits
+    it from the maturity assessment, so the status report and the assessment state one position.
+    `add` puts the markers on sub-sections that do not carry them yet."""
+    path = os.path.join(REPORTS, unit, f"{unit}-status.md")
+    if not os.path.exists(path):
+        return
+    with open(path, encoding="utf-8", newline="") as f:
+        text = f.read()
+    new = status_lib.refresh_absences(text, unit, add)
+    if new != text:
+        with open(path, "w", encoding="utf-8", newline="") as f:
+            f.write(new)
+    marked = len(status_lib.ABSENCE_BLOCK.findall(new))
+    print(f"{unit}: absence lines {'rewritten' if new != text else 'unchanged'} "
+          f"in {marked} marked sub-section(s)")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--unit", required=True)
@@ -2195,6 +2219,10 @@ def main():
     ap.add_argument("--window", type=int, default=12, help="months in the progress window")
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--today")
+    ap.add_argument("--absences", metavar="SLUGS",
+                    help="add the emitted absence block to these status sub-sections (comma-"
+                         "separated slugs, or `all`) of an initialised unit; R134 and the R137 "
+                         "rotation pass it as they bring a section to the sheet")
     args = ap.parse_args()
     unit = args.unit.upper()
     # Slugs, URLs and the em dash below are not cp1252 — a Windows console kills the run on
@@ -2225,13 +2253,17 @@ def main():
             print(f"{unit}: no {skipped} report — {why}")
         if "status" in want and "status" in docs:
             rc |= render(unit, today)
+        if args.doc in ("status", "all") and initialised(unit):
+            absences(unit)
         if "monthly" in want and "monthly" in docs:
             rc |= render_monthly(unit, today, month, args.end)
         if "progress" in want and "progress" in docs:
             rc |= render_progress(unit, today, month, args.window, args.end)
+    if args.absences:
+        absences(unit, tuple(s.strip() for s in args.absences.split(",") if s.strip()))
     if args.check:
         rc |= check(unit)
-    if not (args.render or args.check):
+    if not (args.render or args.check or args.absences):
         ap.print_help()
     return rc
 

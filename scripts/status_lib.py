@@ -25,6 +25,7 @@ from either cwd, so the two prep CSVs are reachable without the workroot having 
 """
 
 import csv
+import glob
 import urllib.parse
 import os
 import re
@@ -60,9 +61,11 @@ ACQUIRE_CSV = os.path.join(EXCHANGE, "africa-acquire.csv")
 # both files have to be read to know whether a URL owes an acquisition.
 ACQUIRE_DONE_CSV = os.path.join(EXCHANGE, "acquire-done.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
-# The outline is split across two files to keep each under the spec cap (review 5 R92); each
-# chapter's headings live in exactly one of them, and `outline()` reads both.
-OUTLINE_PARTS = (OUTLINE, os.path.join(REPO, "documentation", "status-outline-part-2.md"))
+# The outline is split across three files to keep each under the spec cap (review 5 R92; R151
+# moved Governance out when its indicators were listed); each chapter's headings live in exactly
+# one of them, and `outline()` reads all three.
+OUTLINE_PARTS = (OUTLINE, os.path.join(REPO, "documentation", "status-outline-part-2.md"),
+                 os.path.join(REPO, "documentation", "status-outline-part-3.md"))
 REPORTS = os.path.join(REPO, "outputs", "reports")
 
 # `finance.budget` is suspended and a status report carries 39 sub-sections, not 40
@@ -396,3 +399,117 @@ def sentences(para):
 
     Splits on `. ` followed by a capital, which leaves `4.4m`, `Ltd.` and a URL's dots intact."""
     return [s.strip() for s in re.split(r"(?<=[.!?])\s+(?=[A-Z“\"'\[])", para) if s.strip()]
+
+
+# ---------------------------------------------------------------------------
+# The closing absence line (R150, R151)
+# ---------------------------------------------------------------------------
+#
+# **A status sub-section closes on the indicators nothing has been found for** *(Bill, R150)*,
+# and the line is emitted from the unit's maturity assessment, never written by hand (R151), so
+# the two layers state one position. Only *no evidence* is an absence: *unplaced* means evidence
+# was found that meets no rung. A country with no row in a studied indicator's `assessment.csv`
+# reads as no evidence, as it does on the map (`maturity-site.py` -> `stage_of`); an indicator
+# with no study yet is not assessed for anyone and is left out.
+#
+# **A sub-section takes the line once it carries the markers.** R134 adds them to ZAF's
+# Governance chapter and the R137 rotation to each section it brings to the sheet
+# (`report-render.py --absences`); every render after that keeps the block current.
+
+INDICATORS_CSV = os.path.join(REPO, "lookups", "indicators.csv")
+MATURITY = os.path.join(REPO, "outputs", "maturity")
+ABSENCE_OPEN, ABSENCE_CLOSE = "<!-- absences -->", "<!-- /absences -->"
+ABSENCE_BLOCK = re.compile(r"<!-- absences -->\r?\n(.*?)<!-- /absences -->", re.S)
+ABSENCE_LEAD = "Nothing has been found on"
+
+
+def section_indicators():
+    """{Topic L2 slug: [(indicator_id, name), ...]} for the assessed indicators, in Indicator Sort."""
+    if "indicators" not in _cache:
+        rows = [r for r in csv.DictReader(open(INDICATORS_CSV, encoding="utf-8"))
+                if r["assessed"] == "1" and not r["retired"] and not r["removed"]]
+        out = {}
+        for r in sorted(rows, key=lambda r: int(r["Indicator Sort"])):
+            out.setdefault(r["Topic L2"], []).append((r["indicator_id"], r["Progress indicator"]))
+        _cache["indicators"] = out
+    return _cache["indicators"]
+
+
+def maturity_stages():
+    """{indicator_id: {iso3: stage}} from every study's `assessment.csv`."""
+    if "stages" not in _cache:
+        out = {}
+        for path in sorted(glob.glob(os.path.join(MATURITY, "*", "assessment.csv"))):
+            for r in csv.DictReader(open(path, encoding="utf-8")):
+                out.setdefault(r["indicator_id"], {})[r["iso3"]] = (r["stage"] or "").strip().lower()
+        _cache["stages"] = out
+    return _cache["stages"]
+
+
+def reader_name(name):
+    """An indicator's name as it reads mid-sentence: `ICT strategy` stays, `Tax register` drops
+    its capital."""
+    return name[0].lower() + name[1:] if len(name) > 1 and name[1].islower() else name
+
+
+def absence_line(unit, slug):
+    """The emitted closing line for one sub-section, or '' where nothing is absent."""
+    stages = maturity_stages()
+    names = [reader_name(name) for ind, name in section_indicators().get(slug, [])
+             if ind in stages and stages[ind].get(unit, "no evidence") == "no evidence"]
+    if not names:
+        return ""
+    listed = names[0] if len(names) == 1 else ", ".join(names[:-1]) + " or " + names[-1]
+    return f"{ABSENCE_LEAD} {listed}."
+
+
+def refresh_absences(text, unit, add=()):
+    """`text` with every absence block rewritten from the assessment, and a block added at the end
+    of each sub-section named in `add` (slugs, or `all`) that has assessed indicators.
+
+    A sub-section is a `### ` heading and its `<!-- slug -->` marker, up to the next heading."""
+    nl = "\r\n" if "\r\n" in text else "\n"
+    lines = text.split(nl)
+    heads = [i for i, l in enumerate(lines) if l.startswith("## ") or l.startswith("### ")]
+    out = []
+    for n, start in enumerate(heads + [len(lines)]):
+        if n == 0:
+            out += lines[:start]
+            continue
+        head = heads[n - 1]
+        section = lines[head:start]
+        slug = next((m.group(1) for l in section[1:4]
+                     for m in [re.match(r"\s*<!-- ([a-z]+\.[a-z]+) -->\s*$", l)] if m), None)
+        body = nl.join(section)
+        if slug and lines[head].startswith("### "):
+            line = absence_line(unit, slug)
+            block = ABSENCE_OPEN + nl + (line + nl if line else "") + ABSENCE_CLOSE
+            if ABSENCE_BLOCK.search(body):
+                body = ABSENCE_BLOCK.sub(lambda m: block, body, count=1)
+            elif (("all" in add) or slug in add) and slug in section_indicators():
+                trimmed = body.rstrip(nl)
+                body = trimmed + nl + nl + block + body[len(trimmed):]
+        out.extend(body.split(nl))
+    return nl.join(out)
+
+
+def absence_faults(text, unit):
+    """[(slug, fault)] for marked sub-sections: a block that is not what the assessment emits, or
+    a hand-written absence paragraph beside it (R151)."""
+    faults = []
+    for m in re.finditer(r"^### [^\n]*\n\s*<!-- ([a-z]+\.[a-z]+) -->(.*?)(?=^##|\Z)", text, re.S | re.M):
+        slug, body = m.group(1), m.group(2)
+        block = ABSENCE_BLOCK.search(body)
+        if not block:
+            continue
+        if block.group(1).strip() != absence_line(unit, slug):
+            faults.append((slug, "the absence line is not what the assessment emits — "
+                                 "run report-render.py --render, never edit it"))
+        outside = ABSENCE_BLOCK.sub("", body)
+        for para in re.split(r"\r?\n\s*\r?\n", outside):
+            p = para.strip()
+            if p and not p.startswith("<!--") and all(
+                    re.match(r"(?:No|Nothing)\b.*\b(?:found|held|published)\b", s)
+                    for s in sentences(p)):
+                faults.append((slug, f"a hand-written absence line: {p[:70]}"))
+    return faults

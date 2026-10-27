@@ -27,7 +27,7 @@ A baseline can state a 1990 law from a source the wiki will never hold. So this 
 
 ## Inputs
 
-- `documentation/status-outline.md` and `status-outline-part-2.md` — 39 sub-sections; `finance.budget` is suspended; `[PROPOSED]` ids are out of scope.
+- `documentation/status-outline.md` and its parts 2 and 3 — 39 sub-sections; `finance.budget` is suspended; `[PROPOSED]` ids are out of scope.
 - `lookups/countries.csv`; the hub `wiki/places/{ISO3}.md` (never read whole); `wiki/intersections/*.md` selected on frontmatter **`place: {ISO3}`** — the primary input — plus the region's files for `gov.regional`.
 - `raw/{year}/...` for sources; `outputs/catalogue/catalogue-internal.csv` resolves a slug to its URL.
 - `prep/africa-dpi-data.csv` (a sourceless negative is ***Not held*** with a `gaps.csv` line, never an absence); `lookups/iiag-profiles.csv`; `outputs/non-state-finance/all-nonstate.csv` for `finance.new`.
@@ -84,6 +84,7 @@ For a URL the catalogue does not hold:
 
 - **Read the prose sheet, `C:\corpus-osint-xfer\documentation\prose-style.md`, last, just before drafting.** It sets the reader, the numbers, the paragraph rule, the words, the voice and the no-history rule.
 - **The first sentence is a dated, linked fact** (the sheet → *The paragraph*) — the best-evidenced fact, not the biggest. Never open with a definition, a restatement of the question or the oldest fact.
+- **Facts follow the indicators in the outline's order** (R150), never as sub-headings; `report-render.py` emits the closing absence line (R151).
 - **No apparatus**: no caveats, hedging, "sources indicate" or note that accounts differ.
 - **One continuous narrative per h3**, up to 350 words; no sub-headings, bullets or tables. **A thin section is short, not padded.**
 - **Every time-varying figure is dated** — "covered 4.4m people (June 2026)"; structural facts are not.

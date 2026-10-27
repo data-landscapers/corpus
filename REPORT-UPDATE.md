@@ -61,7 +61,8 @@ last_reviewed: 2026-10-03
 
 - **The superseded fact comes out.** A revision replaces; it does not append.
 - **A borderline source changes nothing** (`STATUS-INIT.md` → *When the evidence is borderline*). Where two accounts of equal tier conflict, the section stands.
-- **The first sentence may have to change**: the opening sentence carries the best-evidenced news (`STATUS-INIT.md` → *Writing*).
+- **The first sentence may have to change**: it is a dated, linked fact (`STATUS-INIT.md` → *Writing*).
+- **The facts follow the sub-section's indicators in order** (`status-outline.md`, R150), and indicators are never sub-headings. The closing absence line is the render's, between `<!-- absences -->` markers; never write or edit one.
 - **No apparatus.** Every time-varying figure dated, no changelog.
 - **No acquire line is ever written here.**
 - **Frontmatter.** Move `compiled:` to the date of the edit, only when the document changed, and update `sources_cited`. Leave `built_by`, `hub_last_reviewed` and `intersections_read` alone.

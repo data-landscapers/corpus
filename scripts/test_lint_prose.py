@@ -92,6 +92,9 @@ status = ("---\ntitle: x\n---\n## Governance\n\n### Strategies\n<!-- gov.policy 
 blocks = lp.status_blocks(status)
 check("status keyed by slug", sorted(blocks), ["gov.legislate", "gov.policy"])
 check("the derived paragraph is left out", blocks["gov.policy"], [LINKED])
+check("the emitted absence block is left out",
+      lp.paragraphs([LINKED, "", "<!-- absences -->", "Nothing has been found on ICT strategy.",
+                     "<!-- /absences -->"]), [LINKED])
 mat = "# Kenya\n\n## Tax\n\n**Online filing.** It files online. It pays online.\n\n***Not held***. None.\n"
 mb = lp.maturity_blocks(mat, "taxadmin")
 check("maturity keyed by heading and label", sorted(mb),

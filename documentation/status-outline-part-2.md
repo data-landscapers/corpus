@@ -6,7 +6,7 @@ title: Status outline — Geopolitics to Finance
 
 # Status outline — Geopolitics to Finance
 
-The questions and checklists for the last five chapters of `status-outline.md`, whose preamble governs them. `status_lib.outline()` reads the headings from both files, so each heading lives in one of them only. `[PROPOSED]` definitions are in `status-outline-proposed.md`.
+The questions and checklists for the last five chapters of `status-outline.md`, whose preamble governs them. `status_lib.outline()` reads the headings from all three parts, so each heading lives in one of them only. `[PROPOSED]` definitions are in `status-outline-proposed.md`.
 
 ---
 
@@ -72,13 +72,14 @@ Five indicators are proposed for each of the five actors, on a common frame, so 
 
 *How far does the state control its own digital estate — where its data sits and under whose law, who can run and change its core systems, and on what terms it has bound itself to outside providers and powers?*
 
-- Whether there is a rule on where state data sits, and whether it localises by category or wholesale — `ict-storage-datalocalisation`, `govtech-cloud-1.6`, `reg-cyber-cloud`, `reg-egov-cloudpolicy`
-- Whether national control of government data and protection against foreign access are written into the exchange's rules — `exchange-uptake-sovereignty`
-- Where government data is actually hosted, and under whose law — `ict-storage-govcloud`, with `ict-storage-dcpresence` and `ict-storage-cloudadoption` as weak proxies that attribute no provider
-- Whether the core systems — identity, payments, the exchange layer, government hosting — can be maintained and changed nationally: source code, skills, contracts with exit terms — answered from the wiki; no variable
-- The terms of agreements with outside providers and powers — data jurisdiction, portability, exit — answered from the wiki, from the agreements the five actor sub-sections list; no variable
-- Whether the country takes part in a regional or continental cross-border data mechanism — answered from the wiki; `gov.regional` asks the same of cross-border transfers
-- Where the state's AI models and compute sit, and whether its AI strategy addresses hosting, model ownership and access terms — answered from the wiki; no variable
+- **Digital sovereignty**
+  - Whether there is a rule on where state data sits, and whether it localises by category or wholesale — `ict-storage-datalocalisation`, `govtech-cloud-1.6`, `reg-cyber-cloud`, `reg-egov-cloudpolicy`
+  - Whether national control of government data and protection against foreign access are written into the exchange's rules — `exchange-uptake-sovereignty`
+  - Where government data is actually hosted, and under whose law — `ict-storage-govcloud`, with `ict-storage-dcpresence` and `ict-storage-cloudadoption` as weak proxies that attribute no provider
+  - Whether the core systems — identity, payments, the exchange layer, government hosting — can be maintained and changed nationally: source code, skills, contracts with exit terms — answered from the wiki; no variable
+  - The terms of agreements with outside providers and powers — data jurisdiction, portability, exit — answered from the wiki, from the agreements the five actor sub-sections list; no variable
+  - Whether the country takes part in a regional or continental cross-border data mechanism — answered from the wiki; `gov.regional` asks the same of cross-border transfers
+  - Where the state's AI models and compute sit, and whether its AI strategy addresses hosting, model ownership and access terms — answered from the wiki; no variable
 
 The drafting brief — what the section says, what it reads, what *Not established* looks like — is `status-brief-geopol-sovereignty.md`.
 
@@ -90,39 +91,48 @@ The drafting brief — what the section says, what it reads, what *Not establish
 
 *Can people read the systems they are being asked to use?*
 
-- Basic digital literacy — `ict-capacity-digitalliteracy`
-- Whether children complete school at all — `iiag-education-compeduc`, `iiag-education-educenr`
-- Whether the education they get is any good — `iiag-education-eduqqual`, `iiag-education-educres`
-- Whether it is equally distributed — `iiag-education-equeduc`
-- What the public thinks of it — `iiag-education-sateduc`
-- Whether education data is published — `odin-social-educoutcome`, `odin-social-educfacility`
-- Whether digital skills programmes reach citizens and schools — `govtech-skills-45.6`
+- **Digital literacy (civil service)** — wiki only
+- **Digital literacy (general population)**
+  - Basic digital literacy — `ict-capacity-digitalliteracy`
+  - Whether digital skills programmes reach citizens and schools — `govtech-skills-45.6`
+- *Also in this sub-section*
+  - Whether children complete school at all — `iiag-education-compeduc`, `iiag-education-educenr`
+  - Whether the education they get is any good — `iiag-education-eduqqual`, `iiag-education-educres`
+  - Whether it is equally distributed — `iiag-education-equeduc`
+  - What the public thinks of it — `iiag-education-sateduc`
+  - Whether education data is published — `odin-social-educoutcome`, `odin-social-educfacility`
 
 ### `capacity.training` — Training and skills
 
 *Is anyone being trained, and for what?*
 
-- Whether there is a digital skills strategy — `govtech-skills-45`
-- What the programme is and what it covers — `govtech-skills-45.5`, `govtech-skills-45.4`
-- How far it reaches — `govtech-skills-45.6`
-- Whether it is transparent — `govtech-skills-45.7`
-- The tertiary ICT and STEM pipeline — `ict-capacity-tertiaryict`
-- The developer community it feeds — `ict-capacity-devcommunity`
-- Whether the labour market absorbs them — `iiag-business-secemplopp`, `odin-econ-labor`
-- Whether the state runs a jobs platform that matches them — `govtech-job-25`, `govtech-job-25.2`, `govtech-job-25.3`
+- **DT-related training in secondary education** — wiki only
+- **DT-related university facilities and qualifications**
+  - The tertiary ICT and STEM pipeline — `ict-capacity-tertiaryict`
+- **Graduates entering DT ecosystem**
+  - The developer community it feeds — `ict-capacity-devcommunity`
+  - Whether the labour market absorbs them — `iiag-business-secemplopp`, `odin-econ-labor`
+- *Also in this sub-section*
+  - Whether there is a digital skills strategy — `govtech-skills-45`
+  - What the programme is and what it covers — `govtech-skills-45.5`, `govtech-skills-45.4`
+  - How far it reaches — `govtech-skills-45.6`
+  - Whether it is transparent — `govtech-skills-45.7`
+  - Whether the state runs a jobs platform that matches them — `govtech-job-25`, `govtech-job-25.2`, `govtech-job-25.3`
 
 ### `capacity.research` — Research institutions
 
 *Is knowledge produced here, or only consumed here?*
 
-- Innovation and technology hubs — `ict-innovation-techhubs`
-- The tertiary ICT and STEM base — `ict-capacity-tertiaryict`
-- Whether there is a national science and technology policy — `reg-ai-innov`
-- Whether the statistical system can support research — `iiag-pubadmin-capstatsys`, `stats-score-use`
-- University research output in computing and data — `[PROPOSED] capacity-research-output`
-- Public research and development expenditure — `[PROPOSED] capacity-research-spend`
-- Whether there is a national research and education network — `[PROPOSED] capacity-research-nren`
-- Whether domestic research is used in policymaking — `[PROPOSED] capacity-research-policyuse`
+- **Think tanks and academic departments contributing to DT policy**
+  - University research output in computing and data — `[PROPOSED] capacity-research-output`
+  - Whether domestic research is used in policymaking — `[PROPOSED] capacity-research-policyuse`
+- *Also in this sub-section*
+  - Innovation and technology hubs — `ict-innovation-techhubs`
+  - The tertiary ICT and STEM base — `ict-capacity-tertiaryict`
+  - Whether there is a national science and technology policy — `reg-ai-innov`
+  - Whether the statistical system can support research — `iiag-pubadmin-capstatsys`, `stats-score-use`
+  - Public research and development expenditure — `[PROPOSED] capacity-research-spend`
+  - Whether there is a national research and education network — `[PROPOSED] capacity-research-nren`
 
 ---
 
@@ -132,27 +142,35 @@ The drafting brief — what the section says, what it reads, what *Not establish
 
 *Does anything get captured digitally outside the capital?*
 
-- Clinics — `rural-clinic-status`
-- Schools — `rural-school-status`
-- Police stations — `rural-police-status`
-- Registry offices — `rural-registry-status`
-- Whether the connectivity and power to do it exist — `ict-connectivity-4gcoverage`, `ict-energy-urbanruraldevide`
-- Whether the exchange layer reaches rural users at all — `exchange-uptake-urbanrural`
-- Whether the rural economy is supported and connected to markets — `iiag-rural-rurecosupp`, `iiag-rural-rurmarkaccifad`
-- Agricultural and land data as the material being captured — `exchange-func-agriculture`, `odin-environ-agric`, `iiag-rural-rurlandwatacc`
+- **Digitalisation of rural health clinics**
+  - Clinics — `rural-clinic-status`
+- **Digitalisation of rural primary schools**
+  - Schools — `rural-school-status`
+- **Digitalisation of rural registry offices**
+  - Registry offices — `rural-registry-status`
+- **Digitalisation of rural police stations**
+  - Police stations — `rural-police-status`
+- *Also in this sub-section*
+  - Whether the connectivity and power to do it exist — `ict-connectivity-4gcoverage`, `ict-energy-urbanruraldevide`
+  - Whether the exchange layer reaches rural users at all — `exchange-uptake-urbanrural`
+  - Whether the rural economy is supported and connected to markets — `iiag-rural-rurecosupp`, `iiag-rural-rurmarkaccifad`
+  - Agricultural and land data as the material being captured — `exchange-func-agriculture`, `odin-environ-agric`, `iiag-rural-rurlandwatacc`
 
 ### `digital.localgov` — Digitalisation of sub-national government
 
 *Does the digital state exist below the national level?*
 
-- Whether sub-national bodies participate in the exchange layer — `exchange-uptake-subnational`
-- Whether local facilities are digitalised at all — `rural-registry-status`, `rural-clinic-status`, `rural-school-status`
-- Whether the IFMIS and the TSA reach sub-national government — `govtech-financial-5.7`, `govtech-treasury-6.5`
-- Whether the registers local government depends on exist — `reg-address-exists`, `reg-land-exists`
-- Whether sub-national e-service portals exist — `[PROPOSED] localgov-portal`
-- Whether local financial systems connect to the national one — `[PROPOSED] localgov-ifmis`
-- What share of public expenditure is executed sub-nationally — `[PROPOSED] localgov-fiscalshare`
-- Whether local government offices are connected — `[PROPOSED] localgov-connectivity`
+- **ICT infrastructure for local government**
+  - Whether sub-national bodies participate in the exchange layer — `exchange-uptake-subnational`
+  - Whether the IFMIS and the TSA reach sub-national government — `govtech-financial-5.7`, `govtech-treasury-6.5`
+  - Whether sub-national e-service portals exist — `[PROPOSED] localgov-portal`
+  - Whether local financial systems connect to the national one — `[PROPOSED] localgov-ifmis`
+  - Whether local government offices are connected — `[PROPOSED] localgov-connectivity`
+- **Digitalisation of local government records**
+  - Whether local facilities are digitalised at all — `rural-registry-status`, `rural-clinic-status`, `rural-school-status`
+  - Whether the registers local government depends on exist — `reg-address-exists`, `reg-land-exists`
+- *Also in this sub-section*
+  - What share of public expenditure is executed sub-nationally — `[PROPOSED] localgov-fiscalshare`
 
 ---
 
@@ -162,27 +180,33 @@ The drafting brief — what the section says, what it reads, what *Not establish
 
 *Can the state count what it governs?*
 
-- The Statistical Performance Indicators pillar scores — `stats-score-use`, `stats-score-service`, `stats-score-products`, `stats-score-sources`, `stats-score-infrastructure`
-- Whether the censuses have been run — `stats-census-population`, `stats-census-agriculture`, `stats-census-business`
-- Whether the survey programme is maintained — `stats-survey-household`, `stats-survey-labour`, `stats-survey-health`, `stats-survey-agriculture`, `stats-survey-business`
-- The capacity of the statistical office itself — `iiag-pubadmin-capstatsys`
-- Whether administrative data can substitute for survey data — `reg-cr-uptake`, `reg-pop-uptake`, `iiag-pubadmin-civreg`
-- Whether statistics are wired into the exchange layer — `exchange-func-planning`
-- Whether vital statistics are published — `odin-social-pop`
-- Whether the state monitors its own SDG and programme performance — `govtech-financial-5.11`, `govtech-financial-5.12`
+- **National strategy for development of statistics** — wiki only
+- **Censuses and surveys**
+  - Whether the censuses have been run — `stats-census-population`, `stats-census-agriculture`, `stats-census-business`
+  - Whether the survey programme is maintained — `stats-survey-household`, `stats-survey-labour`, `stats-survey-health`, `stats-survey-agriculture`, `stats-survey-business`
+- **Statistics from administrative data**
+  - Whether administrative data can substitute for survey data — `reg-cr-uptake`, `reg-pop-uptake`, `iiag-pubadmin-civreg`
+- *Also in this sub-section*
+  - The Statistical Performance Indicators pillar scores — `stats-score-use`, `stats-score-service`, `stats-score-products`, `stats-score-sources`, `stats-score-infrastructure`
+  - The capacity of the statistical office itself — `iiag-pubadmin-capstatsys`
+  - Whether statistics are wired into the exchange layer — `exchange-func-planning`
+  - Whether vital statistics are published — `odin-social-pop`
+  - Whether the state monitors its own SDG and programme performance — `govtech-financial-5.11`, `govtech-financial-5.12`
 
 ### `data.open` — Open data
 
 *Is public data actually public?*
 
-- Whether there is an open data policy — `reg-egov-opendata`
-- Whether the portal exists and is maintained — `govtech-opendata-29`, `govtech-opendata-29.3`, `govtech-opendata-29.2`, `govtech-opendata-29.4`
-- Social data coverage and openness — `odin-social-pop`, `odin-social-healthoutcome`, `odin-social-healthfacility`, `odin-social-educoutcome`, `odin-social-educfacility`, `odin-social-poverty`, `odin-social-gender`, `odin-social-crime`, `odin-social-food`, `odin-social-reprod`
-- Economic and financial data coverage — `odin-econ-nataccs`, `odin-econ-govfin`, `odin-econ-prices`, `odin-econ-labor`, `odin-econ-trade`, `odin-econ-balpay`, `odin-econ-bank`, `odin-econ-digital`
-- Environmental data coverage — `odin-environ-agric`, `odin-environ-energy`, `odin-environ-pollution`, `odin-environ-resource`, `odin-environ-builtenv`
-- Whether there is a right to ask for what is not published — `govtech-rti-37`, `govtech-rti-37.4`, `reg-id-rti`, `iiag-account-accpubrec`, `iiag-account-discpubrec`
-- Whether the systems themselves are transparent — `govtech-datagov-34.7`, `exchange-uptake-transparency`
-- Who governs data as an asset — `govtech-datagov-34`, `govtech-datagov-34.5`
+- **Use of open data**
+  - Whether there is an open data policy — `reg-egov-opendata`
+  - Whether the portal exists and is maintained — `govtech-opendata-29`, `govtech-opendata-29.3`, `govtech-opendata-29.2`, `govtech-opendata-29.4`
+  - Social data coverage and openness — `odin-social-pop`, `odin-social-healthoutcome`, `odin-social-healthfacility`, `odin-social-educoutcome`, `odin-social-educfacility`, `odin-social-poverty`, `odin-social-gender`, `odin-social-crime`, `odin-social-food`, `odin-social-reprod`
+  - Economic and financial data coverage — `odin-econ-nataccs`, `odin-econ-govfin`, `odin-econ-prices`, `odin-econ-labor`, `odin-econ-trade`, `odin-econ-balpay`, `odin-econ-bank`, `odin-econ-digital`
+  - Environmental data coverage — `odin-environ-agric`, `odin-environ-energy`, `odin-environ-pollution`, `odin-environ-resource`, `odin-environ-builtenv`
+- *Also in this sub-section*
+  - Whether there is a right to ask for what is not published — `govtech-rti-37`, `govtech-rti-37.4`, `reg-id-rti`, `iiag-account-accpubrec`, `iiag-account-discpubrec`
+  - Whether the systems themselves are transparent — `govtech-datagov-34.7`, `exchange-uptake-transparency`
+  - Who governs data as an asset — `govtech-datagov-34`, `govtech-datagov-34.5`
 
 ### `data.satellite` — Use of satellite data
 
@@ -190,14 +214,17 @@ The drafting brief — what the section says, what it reads, what *Not establish
 
 *Is Earth observation used, and by whom?*
 
-- Whether there is a national space or geospatial agency — `[PROPOSED] sat-agency`
-- Whether there is a ground station or receiving facility — `[PROPOSED] sat-groundstation`
-- Whether there is a space or geospatial data policy — `[PROPOSED] sat-policy`
-- Whether imagery is used in the land register and cadastre — `[PROPOSED] sat-landuse`, `reg-land-cadastral`
-- Whether it is used in agricultural monitoring and statistics — `[PROPOSED] sat-agriculture`, `odin-environ-agric`
-- Whether it is used in disaster and climate monitoring — `[PROPOSED] sat-disaster`
-- Whether the country participates in regional EO programmes — `[PROPOSED] sat-regional`
-- Whether national geospatial data is openly available — `[PROPOSED] sat-opengeo`, `odin-environ-builtenv`
+- **Agricultural use of satellite data**
+  - Whether it is used in agricultural monitoring and statistics — `[PROPOSED] sat-agriculture`, `odin-environ-agric`
+- **Meteorological use of satellite data**
+  - Whether it is used in disaster and climate monitoring — `[PROPOSED] sat-disaster`
+- *Also in this sub-section*
+  - Whether there is a national space or geospatial agency — `[PROPOSED] sat-agency`
+  - Whether there is a ground station or receiving facility — `[PROPOSED] sat-groundstation`
+  - Whether there is a space or geospatial data policy — `[PROPOSED] sat-policy`
+  - Whether imagery is used in the land register and cadastre — `[PROPOSED] sat-landuse`, `reg-land-cadastral`
+  - Whether the country participates in regional EO programmes — `[PROPOSED] sat-regional`
+  - Whether national geospatial data is openly available — `[PROPOSED] sat-opengeo`, `odin-environ-builtenv`
 
 ---
 
@@ -209,13 +236,14 @@ The drafting brief — what the section says, what it reads, what *Not establish
 
 *Who is putting money into this country's digital estate, and how much?*
 
-- Total value committed in the reporting window — `[PROPOSED] fin-new-value`
-- How many distinct commitments that is — `[PROPOSED] fin-new-count`
-- Where the money comes from — `[PROPOSED] fin-new-source`
-- On what terms — `[PROPOSED] fin-new-instrument`
-- What it is for — `[PROPOSED] fin-new-target`
-- Whether committed money has actually been disbursed — `[PROPOSED] fin-new-disbursed`
-- The single largest active commitment — `[PROPOSED] fin-new-largest`
+- **Mobilisation of non-state finance**
+  - Total value committed in the reporting window — `[PROPOSED] fin-new-value`
+  - How many distinct commitments that is — `[PROPOSED] fin-new-count`
+  - Where the money comes from — `[PROPOSED] fin-new-source`
+  - On what terms — `[PROPOSED] fin-new-instrument`
+  - What it is for — `[PROPOSED] fin-new-target`
+  - Whether committed money has actually been disbursed — `[PROPOSED] fin-new-disbursed`
+  - The single largest active commitment — `[PROPOSED] fin-new-largest`
 
 ### `finance.mou` — MoUs and other agreements
 
@@ -235,15 +263,16 @@ The drafting brief — what the section says, what it reads, what *Not establish
 
 *Does the country pay for any of this itself?*
 
-- Whether there is an IFMIS and what it does — `govtech-financial-5`, `govtech-financial-5.6`, `govtech-financial-5.7`, `govtech-financial-5.8`
-- Whether spending can be classified and tracked to programme — `govtech-financial-5.10`, `govtech-financial-5.12`
-- Whether there is a functioning treasury single account — `govtech-treasury-6`, `govtech-treasury-6.5`, `govtech-treasury-6.6`, `govtech-treasury-6.7`
-- Whether debt and investment are managed on a system — `govtech-debt-13`, `govtech-debt-14`, `govtech-debt-14.6`
-- The quality of budget and revenue management overall — `iiag-pubadmin-budgmgmt`, `iiag-pubadmin-taxrevmob`
-- Whether government finance data is published — `odin-econ-govfin`
-- Whether the wage bill runs on a system — `govtech-payroll-10`, `govtech-payroll-10.6`
-- What share of the national budget is appropriated to digital — `[PROPOSED] fin-budget-ictshare`
-- What share of that appropriation is actually executed — `[PROPOSED] fin-budget-execution`
+- **Sustainable domestic financing of digital transformation**
+  - Whether there is an IFMIS and what it does — `govtech-financial-5`, `govtech-financial-5.6`, `govtech-financial-5.7`, `govtech-financial-5.8`
+  - Whether spending can be classified and tracked to programme — `govtech-financial-5.10`, `govtech-financial-5.12`
+  - Whether there is a functioning treasury single account — `govtech-treasury-6`, `govtech-treasury-6.5`, `govtech-treasury-6.6`, `govtech-treasury-6.7`
+  - Whether debt and investment are managed on a system — `govtech-debt-13`, `govtech-debt-14`, `govtech-debt-14.6`
+  - The quality of budget and revenue management overall — `iiag-pubadmin-budgmgmt`, `iiag-pubadmin-taxrevmob`
+  - Whether government finance data is published — `odin-econ-govfin`
+  - Whether the wage bill runs on a system — `govtech-payroll-10`, `govtech-payroll-10.6`
+  - What share of the national budget is appropriated to digital — `[PROPOSED] fin-budget-ictshare`
+  - What share of that appropriation is actually executed — `[PROPOSED] fin-budget-execution`
 
 ### `finance.sustain` — Financial sustainability
 
