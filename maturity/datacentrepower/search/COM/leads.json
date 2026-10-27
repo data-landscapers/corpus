@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.comorescables.km/Info/Comores_C%C3%A2bles_un_Datacenter_public_au_service_de_toutes_les_entreprises.html",
+  "title": "Comores Câbles : un Datacenter public au service de toutes les entreprises",
+  "publisher": "Comores Câbles",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: states reinforced energy security for the data centre"
+ },
+ {
+  "url": "https://alwatwan.net/societe/journ%C3%A9e-mondiale-des-t%C3%A9l%C3%A9communications-i-une-journ%C3%A9e-pour-une-double-c%C3%A9l%C3%A9bration.html",
+  "title": "Journée mondiale des télécommunications I Une journée pour une double célébration",
+  "publisher": "Al-Watwan",
+  "published": "2025-05-20",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: public administration data centre launched"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1405-128350-comores-inauguration-du-centre-de-donnees-de-l-administration-publique-le-19-mai",
+  "title": "Comores : inauguration du centre de données de l'administration publique le 19 mai",
+  "publisher": "Agence Ecofin",
+  "published": "2025-05-14",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Tier 3 national data centre, any power detail"
+ },
+ {
+  "url": "https://datacentresafrica.com/news-details-6989/",
+  "title": "Comoros To Launch National Data Centre",
+  "publisher": "Data Centres Africa",
+  "published": "2025-05-15",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Tier 3 national data centre"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/comoros-completes-construction-of-public-administration-data-centre--1536505",
+  "title": "Comoros completes construction of public administration data centre",
+  "publisher": "Telecompaper",
+  "published": "2025-05-15",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Tier 3 national data centre"
+ },
+ {
+  "url": "https://anaden.org/realisations",
+  "title": "Réalisations - ANADEN",
+  "publisher": "ANADEN",
+  "published": "2025-05",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: data centre launch statement"
+ },
+ {
+  "url": "https://techpoint.africa/news/comoros-gets-funding-from-afdb/",
+  "title": "Comoros gets $10.5 million from AfDB to construct a new data centre",
+  "publisher": "Techpoint Africa",
+  "published": "2024-10-03",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1/Q2: data centre financing"
+ },
+ {
+  "url": "https://www.anaden.org/actualites/validation-du-rapport-de-letude-dimpact-environnemental-et-social-du-projet-padec",
+  "title": "Validation du rapport de l'Etude d'Impact Environnemental et Social du Projet PADEC",
+  "publisher": "ANADEN",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4: environmental impact study of project including data centre"
+ }
+]

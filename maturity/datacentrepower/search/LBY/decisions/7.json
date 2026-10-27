@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "سياسة الأمان المادي",
+ "publisher": "الهيئة الوطنية لأمن وسلامة المعلومات",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Undated generic policy template setting requirements (two substations, two water sources); states no fact about any data centre in service."
+}

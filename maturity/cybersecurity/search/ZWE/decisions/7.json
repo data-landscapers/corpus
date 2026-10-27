@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response;cii",
+ "fact": "Statutory Instrument 155 of 2024 names the Cyber Incident Response Team (zw-CIRT) as a national adviser and requires data controllers to report personal data breaches to the Authority within 24 hours.",
+ "title": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (S.I. 155 of 2024)",
+ "publisher": "Government of Zimbabwe (POTRAZ)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

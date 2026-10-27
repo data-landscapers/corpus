@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://ncsi.ega.ee/country/km/",
+  "title": "NCSI :: Comoros",
+  "publisher": "e-Governance Academy",
+  "published": "2025-02",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2: cybercrime offences in Law 21-012/AU Title II and procedure Ch. VII"
+ },
+ {
+  "url": "https://hal.science/hal-05046086",
+  "title": "La qualification juridique de la cybercriminalité maritime en droit pénal comorien",
+  "publisher": "HAL (Said Ali Hamidou)",
+  "published": "2024-11-25",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2: cites Law 21-012/AU of 25 June 2021 as defining cybercrime"
+ },
+ {
+  "url": "https://ancs.gouv.km/guide-1/",
+  "title": "Loi n°21-012 AU relative à la cybersécurité et la lutte contre la cyber criminalité",
+  "publisher": "Direction Nationale de Cyber Sécurité (ANADEN)",
+  "published": "2024-02-12",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2: official text page of the law"
+ },
+ {
+  "url": "https://internews.org/wp-content/uploads/2023/11/ARISA-IEA-CHAPTER-5-Comoros.pdf",
+  "title": "ARISA IEA Chapter 5: Comoros",
+  "publisher": "Internews",
+  "published": "2023-11",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2: law 21-012 promulgated 2022; overlaps Penal Code Ch. VI"
+ },
+ {
+  "url": "https://justice.gouv.km/texte/decret-n22-003-pr-promulgation-de-la-loi-n21-012-au-relative-a-la-cyber-securite-et-a-la-lutte-contre-la-cybercriminalite/",
+  "title": "Décret n°22-003/PR - promulgation de la loi n°21-012/AU",
+  "publisher": "Ministère de la Justice des Comores",
+  "published": "2022-01-18",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2: promulgation of the law"
+ },
+ {
+  "url": "https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/les-d%C3%A9put%C3%A9s-adoptent-%C3%A0-l%E2%80%99unanimit%C3%A9-la-loi-contre-la-cybercriminalit%C3%A9-.html",
+  "title": "Les députés adoptent à l'unanimité la loi contre la cybercriminalité",
+  "publisher": "La Gazette des Comores",
+  "published": "2021-06-29",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1: bill adopted by parliament"
+ }
+]

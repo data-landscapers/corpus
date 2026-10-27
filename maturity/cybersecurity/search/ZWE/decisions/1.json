@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "Zimbabwe's POTRAZ Computer Incident Response Team handled incidents in 2025, of which cyber fraud was 33%, cyberbullying 27%, hacking 17%, smishing 13% and cyber theft 10%.",
+ "title": "33% of Zimbabwe Crimes Now Cyber Related.",
+ "publisher": "TechnoMag",
+ "published": "2026-02-24",
+ "date_source": "source",
+ "why_not": ""
+}

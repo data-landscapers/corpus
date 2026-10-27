@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.vie-publique.sn/documents/14070/projet-loi-25-2026-assemblee-nationale-protection-infrastructures-information-critiques-securite-numerique",
+  "title": "Projet de loi n°25/2026 – Protection des Infrastructures d'Information critiques et sécurité numérique",
+  "publisher": "Vie-Publique.sn (République du Sénégal)",
+  "published": "2026-08-20",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1,Q3: creates national cybersecurity authority; CII classification and 24h incident notification"
+ },
+ {
+  "url": "https://stcc-ssi.sn/protection-des-infrastructures-dinformation-critiques-une-nouvelle-etape-pour-la-souverainete-et-la-resilience-numeriques-du-senegal/",
+  "title": "Protection des Infrastructures d'Information Critiques : une nouvelle étape",
+  "publisher": "DCSSI",
+  "published": "2026-08-21",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q3: identification and census of critical information infrastructure"
+ },
+ {
+  "url": "https://www.pressafrik.com/Securite-numerique-le-Senegal-durcit-sa-legislation_a311494.html",
+  "title": "Sécurité numérique : le Sénégal durcit sa législation",
+  "publisher": "PressAfrik",
+  "published": "2026-09-13",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q3: DCSSI director on CII law and 24h notification"
+ },
+ {
+  "url": "https://aps.sn/cybersecurite-un-projet-de-loi-elabore-pour-renforcer-la-protection-des-infrastructures-critiques/",
+  "title": "Cybersécurité : un projet de loi élaboré pour renforcer la protection des infrastructures critiques",
+  "publisher": "APS",
+  "published": "2026-08-13",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: national cybersecurity authority and national CERT to be created"
+ },
+ {
+  "url": "https://ledakarois.sn/cybersecurite-au-senegal-le-cert-existe-mais-reste-a-renforcer/",
+  "title": "Cybersécurité au Sénégal : le CERT existe mais reste à renforcer",
+  "publisher": "Le Dakarois",
+  "published": "2025-05-12",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1,Q2: DCSSI/CNOC hosts national CERT/CSIRT; handled recent attacks"
+ },
+ {
+  "url": "https://stcc-ssi.sn/category/bulletins-dalerte/",
+  "title": "Bulletins d'Alerte",
+  "publisher": "DCSSI",
+  "published": "2025-05-08",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2: national body publishes alert bulletins"
+ },
+ {
+  "url": "https://doi.org/10.23962/ajic.i34.17851",
+  "title": "Analysis of cyber incidents in Senegal from 2005 to 2023",
+  "publisher": "African Journal of Information and Communication (Ciré Sall)",
+  "published": "2024-12-28",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1,Q2: SNCSIRT alert bulletins from 2024; DCSSI warning May 2023"
+ },
+ {
+  "url": "https://stcc-ssi.sn/wp-content/uploads/2025/03/Arrete-CADARCA.pdf",
+  "title": "Arrêté n°640 portant création du CADARCA",
+  "publisher": "DCSSI / Présidence de la République",
+  "published": "2023-01-12",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1,Q2: creates national framework for detection, alert and response to cyberattacks"
+ }
+]

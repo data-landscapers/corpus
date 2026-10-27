@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.era.go.ug/wp-content/uploads/2026/06/The-Main-Grid-Tariff-Review-Report-for-Quarter-1-2026.pdf",
+  "title": "Main Grid Tariff Review Report for the First Quarter of 2026",
+  "publisher": "Electricity Regulatory Authority",
+  "published": "2026-03-23",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: data centres a category of UETCL sales, connected to grid"
+ },
+ {
+  "url": "https://www.itu.int/dms_pub/itu-d/opb/uga/D-UGA-NAGRDG2-2025-PDF-E.pdf",
+  "title": "Uganda national green data centre strategy and guidelines",
+  "publisher": "ITU",
+  "published": "2025",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3: PUE of operators; supply and diesel"
+ },
+ {
+  "url": "https://www.raxiogroup.com/wp-content/uploads/2025/11/RAX034-4-Data-Sheet-SITE-UG1-EN_v2.pdf",
+  "title": "Technical Specifications Site UG1",
+  "publisher": "Raxio Group",
+  "published": "2025-11",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1, Q4: 33kV supply, 2N, adiabatic cooling"
+ },
+ {
+  "url": "https://www.raxiogroup.com/data-centres/uganda/",
+  "title": "Uganda - Raxio Group",
+  "publisher": "Raxio Group",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: utility supply from substation, redundancy"
+ },
+ {
+  "url": "https://www.ceo.co.ug/raxio-data-centre-gets-key-power-equipment-from-umeme-in-readiness-for-launch-operations/",
+  "title": "Raxio Data Centre Gets Key Power Equipment From Umeme",
+  "publisher": "CEO East Africa",
+  "published": "2020-07-25",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: two substation sources"
+ },
+ {
+  "url": "https://colocationm.com/uganda/kampala-dc-1",
+  "title": "Raxio Group (Kampala DC 1)",
+  "publisher": "ColocationM",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3: PUE 1.3 stated"
+ },
+ {
+  "url": "https://www.nature.com/articles/d44148-026-00286-7",
+  "title": "Uganda's planned AI centre raises questions over water use",
+  "publisher": "Nature Africa",
+  "published": "2026-09-14",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4: planned Karuma centre WUE claim"
+ },
+ {
+  "url": "https://www.independent.co.ug/wp-content/uploads/2025/05/State-of-Data-Centres-in-Uganda-2024-1_compressed.pdf",
+  "title": "The State of Data Centres in Uganda - 2024",
+  "publisher": "The Independent",
+  "published": "2025-05",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1, Q3: power reliability, diesel dependence"
+ }
+]

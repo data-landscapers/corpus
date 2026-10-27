@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The Council of Ministers adopted the national cybersecurity strategy on 14 October 2026, providing for a national CERT/CSIRT to be set up.",
+ "title": "Burundi : Adoption officielle de la Stratégie nationale de cybersécurité",
+ "publisher": "AfriqueITNews",
+ "published": "2026-10-21",
+ "date_source": "source",
+ "why_not": ""
+}

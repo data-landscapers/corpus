@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "On 4 May 2023 the Minister replied that the DCDT established in 2016 and operationalised a national CSIRT, the Cybersecurity Hub, which delivers incident coordination, advisory services and national simulation exercises.",
+ "title": "Question NW751 to the Minister of Communications and Digital Technologies",
+ "publisher": "Parliamentary Monitoring Group (Parliament of South Africa)",
+ "published": "2023-05-04",
+ "date_source": "source",
+ "why_not": ""
+}

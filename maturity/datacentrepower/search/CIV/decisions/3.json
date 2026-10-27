@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "Raxio's CIV1 data centre in Abidjan is supplied by two independent 15kV feeders sourced directly from the CIE substation, each able to carry 100% of the load, with N+1 backup generators.",
+ "title": "Powering the CIV1 data centre in Côte d'Ivoire",
+ "publisher": "African Review",
+ "published": "2025-01-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

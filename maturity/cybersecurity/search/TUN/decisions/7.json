@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "tunCERT published 563 security advisories and declared 557,793 incidents, with 25,300 DDoS attacks detected, in the 2025 statistics.",
+ "title": "STATISTIQUES RELATIVES AU CYBERESPACE TUNISIEN - 2025",
+ "publisher": "Agence Nationale de la Cybersécurité (ANCS)",
+ "published": "2025-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

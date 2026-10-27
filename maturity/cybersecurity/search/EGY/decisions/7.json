@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii",
+ "fact": "Under the Cybercrimes Law, a service provider that owns, manages or operates critical information infrastructure must notify EG-CERT as soon as possible of unauthorised access incidents or breaches, and critical information infrastructure is legally defined.",
+ "title": "Country Comparative Guides 2026: Egypt, Data Protection & Cybersecurity",
+ "publisher": "Legal 500 (Shehata & Partners)",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

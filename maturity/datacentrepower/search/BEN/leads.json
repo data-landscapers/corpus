@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://cio-mag.com/datacenters-et-energie-lequation-de-la-transformation-numerique/",
+  "title": "Datacenters et énergie : l'équation de la transformation numérique",
+  "publisher": "CIOMAG",
+  "published": "2026-04-14",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1/Q2 Tier 3 centre on dual SBEE feed with generator backup; diesel dependence"
+ },
+ {
+  "url": "https://greenline-tech.com/news/greenline-technologies-signs-definitive-agreements-for-the-grand-parakou-project-in-benin",
+  "title": "GreenlineTechnologies Signs Definitive Agreements for the Grand Parakou Project in Benin",
+  "publisher": "Greenline Technologies",
+  "published": "2025-08-07",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3 10 MW solar plant paired with a Tier III-ready data facility"
+ },
+ {
+  "url": "https://koriactu.com/gdiz-au-benin-un-prix-preferentiel-de-fournitures-delectricite/",
+  "title": "GDIZ au Bénin : un prix préférentiel pour la fourniture de l'électricité",
+  "publisher": "KoriActu",
+  "published": "2022-08-26",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3 preferential electricity tariff for the Glo-Djigbé zone"
+ },
+ {
+  "url": "https://numerique.gouv.bj/publications/actualites/datacenter-national-demarrage-des-premiers-tests-techniques-sous-le-regard-de-la-ministre-du-numerique-et-de-la-digitalisation",
+  "title": "Datacenter national : démarrage des premiers tests techniques",
+  "publisher": "Portail du Numérique - Bénin",
+  "published": "2021-06-01",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2 national data centre secured electrical supply"
+ },
+ {
+  "url": "https://cio-mag.com/benin-premiers-tests-techniques-sur-le-datacenter-national/",
+  "title": "Bénin : premiers tests techniques sur le datacenter national",
+  "publisher": "CIOMAG",
+  "published": "2021-06-02",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2 dual SBEE feed and generator backup at national data centre"
+ },
+ {
+  "url": "https://managers.tn/2021/06/02/lentreprise-tunisienne-tmi-installe-le-datacenter-national-du-benin/",
+  "title": "L'entreprise tunisienne TMI installe le datacenter national du Bénin",
+  "publisher": "Managers",
+  "published": "2021-06-02",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2 secured electrical access at national data centre"
+ },
+ {
+  "url": "https://africadca.org/wp-content/uploads/2024/01/Title_White-Paper_African-Climate-and-Datacenter-PUE-2024.pdf",
+  "title": "White Paper African Climate & Datacenter PUE 2024",
+  "publisher": "Africa Data Centres Association",
+  "published": "2024-01",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4 PUE survey of African data centres"
+ },
+ {
+  "url": "https://comtel-group.com/en/projects/",
+  "title": "Projects",
+  "publisher": "Comtel Technologies",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2 redundant power for Benin data centres"
+ }
+]

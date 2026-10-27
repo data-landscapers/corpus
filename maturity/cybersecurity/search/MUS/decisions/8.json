@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "Section 38 of the Cybersecurity and Cybercrime Act 2021 (Act No. 16 of 2021, 24 November 2021) set up CERT-MU as the national agency for coordinating cybersecurity response.",
+ "title": "The Cybersecurity and Cybercrime Act 2021",
+ "publisher": "Government of Mauritius",
+ "published": "2021-11-24",
+ "date_source": "source",
+ "why_not": ""
+}

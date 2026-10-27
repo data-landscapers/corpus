@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ceb.mu/tariff/commercial-and-bulk",
+  "title": "Commercial & Bulk tariffs (Tariff 255, accredited Data Center Operators)",
+  "publisher": "Central Electricity Board",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: tariff in force for Tier 3+ data centre operators"
+ },
+ {
+  "url": "https://www.bhumishq.com/en/digital/data-centre.html",
+  "title": "Bhumishq Data Centre",
+  "publisher": "Bhumishq Technologies Ltd",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: two sources from two CEB grids, 2x1200 kVA transformers"
+ },
+ {
+  "url": "https://www.emtel.com/business/data-centre",
+  "title": "Emtel Business Data Centre",
+  "publisher": "Emtel",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1/Q3: dual 1MW transformers; energy efficient, EUCoC"
+ },
+ {
+  "url": "https://bramston.associates/wp-content/uploads/2025/03/The-Data-Centre-Opportunity-in-Mauritius.pdf",
+  "title": "The Data Centre Opportunity in Mauritius: A Global Industry Perspective",
+  "publisher": "Bramston Associates",
+  "published": "2025-03",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: dual grid feeds at Emtel; context on power and cooling"
+ },
+ {
+  "url": "https://www.telecomreviewafrica.com/articles/features/12397-sublime-seas-to-storage-sphere-mauritius-expands-hyperscale-data-hub/",
+  "title": "Sublime Seas to Storage Sphere: Mauritius Expands Hyperscale Data Hub",
+  "publisher": "Telecom Review Africa",
+  "published": "2025-07-16",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Rose Belle 3 MW supply"
+ },
+ {
+  "url": "https://setu.ltd/project.html",
+  "title": "Project - Setu AI Data Center, Mauritius",
+  "publisher": "Setu",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3/Q4: design PUE 1.38-1.42, WUE about 0 (planned facility)"
+ },
+ {
+  "url": "https://business-support-portal.edbmauritius.org/technopreneurs/",
+  "title": "Technopreneurs - Preferential Electricity Tariff",
+  "publisher": "Economic Development Board Mauritius",
+  "published": "2021-03-26",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: Tariff 255 for at least Tier 3 data centres"
+ },
+ {
+  "url": "https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Mauritius.pdf",
+  "title": "Data Center Market Brief: Mauritius",
+  "publisher": "Xalam Frontier Markets / D4D Hub",
+  "published": "2025-07",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1/Q2: power infrastructure constraints for data centres"
+ }
+]

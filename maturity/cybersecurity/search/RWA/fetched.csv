@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.newtimes.co.rw/article/39566/news/security/cybersecurity-rwandans-urged-to-protect-private-data/amp,fetched,,scripts/.workroot/study/cybersecurity/cache/RWA/1.txt,574,html,Cybersecurity: Rwandans urged to protect private data
+2,https://cyber.gov.rw/updates/alerts/,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+3,https://cyber.gov.rw/rw-csirt/advisories/,fetched,,scripts/.workroot/study/cybersecurity/cache/RWA/3.txt,16,html,Rwanda CERT
+4,https://cyber.gov.rw/updates/article/alert-critical-react-server-component-rcs-protocol-vulnerability/,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+5,https://ncsi.ega.ee/country/rw/,fetched,,scripts/.workroot/study/cybersecurity/cache/RWA/5.txt,11326,html,NCSI :: Rwanda
+6,https://cyber.gov.rw/index.php?eID=dumpFile&f=429&t=f&token=d58f8a5199b59af444ea59b87fdff49c4145e929,unfetchable,HTTP 403; Wayback ConnectionError,,0,,
+7,https://cyber.gov.rw/index.php?eID=dumpFile&f=398&t=f&token=7c23c01e61d23bd13d7933538052474e7e2ab8e6,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+8,https://digitalpolicyalert.org/change/12709-rwandas-national-cybersecurity-strategy-2024-2029,fetched,,scripts/.workroot/study/cybersecurity/cache/RWA/8.txt,93,html,Rwanda's National Cybersecurity Strategy 2024-2029

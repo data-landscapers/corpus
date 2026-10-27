@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ang.gw/governo-aprova-diploma-de-conclusao-dos-estudos-do-ensino-secundario/",
+  "title": "Governo aprova diploma de conclusão dos Estudos do Ensino Secundário",
+  "publisher": "Agência de Notícias da Guiné",
+  "published": "2025-09-25",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: Council of Ministers approved the National Cybersecurity Strategy"
+ },
+ {
+  "url": "https://wardip.gw/wp-content/uploads/2025/11/5.-Relatorio-de-Modelos-de-Governanca-de-CibserSeguranca-e-Protecao-de-DadosFinal-report-PT.pdf",
+  "title": "Relatório de Modelos de Governança de Cibersegurança e Proteção de Dados",
+  "publisher": "WARDIP Guiné-Bissau",
+  "published": "2025",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1-Q3: states no national CERT, no strategy yet, no critical assets assessment"
+ },
+ {
+  "url": "https://dig.watch/countries/guinea-bissau",
+  "title": "Guinea-Bissau",
+  "publisher": "Digital Watch Observatory",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: National Cybersecurity Strategy 2025-2030 proposes CSIRT, SOC, CII protection"
+ },
+ {
+  "url": "https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/",
+  "title": "Ministro dos Transportes e Economia Digital considera digitalização como um dos pilares fundamentais",
+  "publisher": "Agência de Notícias da Guiné",
+  "published": "2025-04-03",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: WARDIP foresees creation of a CSIRT"
+ },
+ {
+  "url": "https://wardip.gw/request-for-proposals/",
+  "title": "Request for Proposals",
+  "publisher": "WARDIP Guiné-Bissau",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q3: consultancy to identify preliminary list of CII operators"
+ },
+ {
+  "url": "https://rtpafrica.rtp.pt/cultura/guine-bissau/guine-bissau-ciberseguranca/",
+  "title": "Guiné-Bissau - Cibersegurança",
+  "publisher": "RTP África",
+  "published": "2025-01-23",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: government studies on cybersecurity presented"
+ },
+ {
+  "url": "https://rtpafrica.rtp.pt/noticias/guine-bissau-executivo-quer-leis-que-garantam-seguranca-dos-dados-dos-cidadao/",
+  "title": "Guiné-Bissau - Executivo quer leis que garantam segurança dos dados dos cidadão",
+  "publisher": "RTP África",
+  "published": "2025-02-21",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: calls for cybersecurity law and administrative entity"
+ },
+ {
+  "url": "https://ang.gw/policia-judiciaria-lanca-alerta-sobre-burla-cibernetica-atraves-da-eclipse-earn/",
+  "title": "Policia Judiciária lança alerta sobre Burla cibernética",
+  "publisher": "Agência de Notícias da Guiné",
+  "published": "2024-10-17",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2: public alert on cyber scam by Policia Judiciaria (not a national cyber body)"
+ }
+]

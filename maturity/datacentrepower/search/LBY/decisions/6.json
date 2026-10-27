@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Libya Data Centers: 4 Facilities & Prices",
+ "publisher": "Coloprice",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Aggregator price listing; gives no power figures, supply arrangements, PUE or water use for any Libyan facility."
+}

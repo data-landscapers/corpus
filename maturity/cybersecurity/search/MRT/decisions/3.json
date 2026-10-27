@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The Agence Nationale de Cybersécurité et de Certification Électronique (ANCCE) was created by decree in April 2024 but is not yet operational, and the national SOC-CSIRT is delayed, as of October 2025.",
+ "title": "Cybersécurité en Mauritanie : entre stratégies sur papier et urgences opérationnelles",
+ "publisher": "Cridem",
+ "published": "2025-10-15",
+ "date_source": "source",
+ "why_not": ""
+}

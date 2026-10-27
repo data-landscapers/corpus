@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "aspect": "",
+ "fact": "",
+ "title": "Microsoft and G42 data center in Kenya stalled due to lack of power capacity",
+ "publisher": "Data Center Dynamics",
+ "published": "2026-05-07",
+ "why_not": "Held already as raw/2026/2026-07-09; not fetched.",
+ "sub_indicator": "power",
+ "date_source": "source"
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.linkedin.com/posts/ahmed-osman-506b9616b_datacenter-infrastructure-dcim-activity-7325023713081327616-1pUN",
+  "title": "Powering Up a 30-Rack FM2000 Modular Data Center in Bangui, CAR",
+  "publisher": "Ahmed Osman (LinkedIn)",
+  "published": "2025-05-05",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: dual power feeds and UPS at a Bangui data centre"
+ },
+ {
+  "url": "https://africadca.org/wp-content/uploads/2026/02/DataCentresInAfrica2026-EN.pdf",
+  "title": "Data Centres in Africa 2026",
+  "publisher": "African Data Centres Association",
+  "published": "2026",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3: African PUE context; CAR coverage to check"
+ },
+ {
+  "url": "https://dl.acm.org/doi/10.1145/3715335.3735483",
+  "title": "A Water Efficiency Dataset for African Data Centers",
+  "publisher": "ACM",
+  "published": "2025-07-21",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4: modelled WUE, not operator-stated"
+ },
+ {
+  "url": "https://www.esi-africa.com/renewable-energy/central-african-republic-finding-its-place-in-the-sun/",
+  "title": "Central African Republic: Finding its place in the sun",
+  "publisher": "ESI Africa",
+  "published": "2024-05-16",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: Danzi solar plant context"
+ },
+ {
+  "url": "https://computecompute.org/law/cf",
+  "title": "Data-center law in Central African Republic",
+  "publisher": "computecompute.org",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: no data-centre-specific supply regime"
+ },
+ {
+  "url": "https://www.jobrapide.org/offres/avis-appel-offres/avis-dappel-doffre-pour-la-fourniture-formation-installation-dequipements-informatiques-reseaux-etc-et-construction-et-operationnalisation-dun-datacenter-princ/",
+  "title": "Avis d'appel d'offres : Datacenter principal et de secours, RCA",
+  "publisher": "Ministère des Postes et Télécommunications (RCA)",
+  "published": "2021-05-06",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: national data centre with energy and cooling equipment"
+ },
+ {
+  "url": "https://www.bkele.com/solutions/central-african-republic-ministry-of-mineral-resources-information-center-project-highly-reliable-anti-interference-power-supply-system.html",
+  "title": "Ministry of Mineral Resources Information Center Project - power supply",
+  "publisher": "Bkele",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: mains, generator and UPS at a national data centre"
+ },
+ {
+  "url": "https://dcdeployed.com/data-center-owner-program-requirements-initial-basis-of-design-bangui-central-african-republic-cf/",
+  "title": "Data Center Owner Program Requirements Bangui",
+  "publisher": "DC Deployed",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4: generic design page"
+ }
+]

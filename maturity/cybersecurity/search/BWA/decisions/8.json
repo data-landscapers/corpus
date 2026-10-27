@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "BOCRA's Annual Report 2022 states the CSIRT issued multiple security alerts to constituents and CNII, and registered 682,091 honeypot attacks, 620 leaked credentials, 53,484 botnet infections and four ransomware incidents.",
+ "title": "Annual Report 2022",
+ "publisher": "Botswana Communications Regulatory Authority",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

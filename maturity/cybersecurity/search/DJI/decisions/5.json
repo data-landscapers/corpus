@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The Autorité Nationale de Cybersécurité issued public alert bulletin 1413 on 5 November 2025 on critical vulnerabilities in Azure Access Technology BLU-IC2 and BLU-IC4.",
+ "title": "Multiples Vulnérabilités dans les produits Azure Access Technology",
+ "publisher": "Autorité Nationale de Cybersécurité",
+ "published": "2025-11-05",
+ "date_source": "source",
+ "why_not": ""
+}

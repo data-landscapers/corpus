@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 25 April 2025 the ARPCE and the ANSSI signed a cooperation agreement for managing national cybersecurity incidents and sharing incident information.",
+ "title": "Congo/Télécommunications : L'Arpce et l'Anssi mutualisent leurs compétences pour la protection du cyberespace national",
+ "publisher": "Agence Congolaise d'information",
+ "published": "2025-04-26",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "",
+ "why_not": "Angola section shows one ENDE substation and standby generators only; the A and B feeds belong to the Armada campus (not Angola)."
+}

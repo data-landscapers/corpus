@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Data Center Wastewater & Cooling Blowdown Treatment in Nouakchott, Mauritania",
+ "publisher": "HydropureWater",
+ "published": "2026-10-22",
+ "date_source": "source",
+ "why_not": "Vendor marketing blog on a hypothetical hyperscale site; names no data centre in service and states no operator figure."
+}

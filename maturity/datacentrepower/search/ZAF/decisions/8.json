@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply;pue;water",
+ "fact": "DCD reported in December 2022 that Vantage's JNB11 data centre in Johannesburg, completed in July 2022, has a dedicated on-site high-voltage substation, an annual PUE of 1.25 and a closed-loop chilled water system.",
+ "title": "Building a sustainable hyperscale facility in South Africa",
+ "publisher": "DatacenterDynamics",
+ "published": "2022-12-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

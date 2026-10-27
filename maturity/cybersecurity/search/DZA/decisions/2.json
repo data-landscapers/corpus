@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "On 3 March 2026 the ASSI director general presented the 2025-2029 national information systems security strategy, which aims at capacities to prevent, detect and respond to cyber incidents, and announced a draft cybersecurity bill.",
+ "title": "MDN : Le contenu de la Stratégie nationale de la sécurité des systèmes d'information 2025-2029 dévoilé",
+ "publisher": "L'express DZ",
+ "published": "2026-03-03",
+ "date_source": "source",
+ "why_not": ""
+}

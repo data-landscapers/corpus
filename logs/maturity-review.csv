@@ -23,9 +23,9 @@ consumerprotection,protection,dpi.pay--consumer-protection,2026-10-25,17,66.0,15
 coresystems,core,infra.capacity--robustness-of-government-hardware-and-software,2026-10-26,26,72.9,206
 crossborderpayments,crossborder,dpi.pay--cross-border-functionality,2026-10-26,26,72.9,197
 customs,customs,dpi.mis--customs,2026-10-26,26,73.0,235
-cybersecurity,readiness,infra.cybersec--national-cybersecurity-readiness,,,,
-cybersecuritylaw,law,gov.legislate--cybersecurity-legislation,,,,
-datacentrepower,power,infra.energy--sufficient-energy-and-water-for-data-centres,,,,
+cybersecurity,readiness,infra.cybersec--national-cybersecurity-readiness,2026-10-27,21,70.6,219
+cybersecuritylaw,law,gov.legislate--cybersecurity-legislation,2026-10-27,21,70.6,249
+datacentrepower,power,infra.energy--sufficient-energy-and-water-for-data-centres,2026-10-27,21,70.5,69
 datacentres,datacentre,infra.store--local-data-centre-capacity-all-providers,,,,
 dataexchange,exchange,dpi.exchange--national-data-exchange-system,,,,
 datagovernance,policy,gov.policy--data-governance-policy,,,,

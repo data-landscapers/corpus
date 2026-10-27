@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response;cii",
+ "fact": "BW-CSIRT's RFC 2350 version 3.0 of 19 June 2023 gives its mission as protecting Botswana's national critical information infrastructure, with public sector institutions and CII as constituency, hosted by BOCRA.",
+ "title": "RFC 2350",
+ "publisher": "BW-CSIRT, Botswana Communications Regulatory Authority",
+ "published": "2023-06-19",
+ "date_source": "source",
+ "why_not": ""
+}

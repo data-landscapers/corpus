@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Single 33kV utility supply with 2N at rack level; no dual feed, dedicated line or PUE/water figure; undated within text."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The August 2025 ESMP states the National Data Centre in Lilongwe is designed for two grid feeds from separate ESCOM substations, with one source built under DigMap and the second, a service power line from the Kamuzu Central Hospital substation, still to be built under DMAP; it has two 500kVA diesel generators giving 72 hours of backup and two UPS systems.",
+ "title": "Environmental and Social Management Plan (ESMP) for the National Data Centre, Digital Malawi Acceleration Project (DMAP P505095)",
+ "publisher": "Public Private Partnership Commission (PPPC), Government of Malawi",
+ "published": "2025-08",
+ "date_source": "source",
+ "why_not": ""
+}

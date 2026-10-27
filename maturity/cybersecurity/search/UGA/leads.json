@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.cert.ug/about-us",
+  "title": "About Us | Uganda National CERT",
+  "publisher": "CERT.UG/CC (NITA-U)",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: national CERT established"
+ },
+ {
+  "url": "https://www.nita.go.ug/sites/default/files/2026-07/Updated-National%20Information%20Security%20Framework%20(NISF).pdf",
+  "title": "National Information Security Policy (NISP/NISF)",
+  "publisher": "NITA-U",
+  "published": "2026",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1, Q3: strategy 2022-2026, CII definition, reporting to CERT-UG"
+ },
+ {
+  "url": "https://www.cert.ug/spoofing-and-remote-code-execution-chain-vulnerability",
+  "title": "Spoofing and Remote Code Execution chain vulnerability",
+  "publisher": "CERT.UG/CC",
+  "published": "2025-07-24",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2: public alert issued"
+ },
+ {
+  "url": "https://www.cert.ug/mass-it-outage-crowdstrike-update",
+  "title": "Mass IT Outage - CrowdStrike Update",
+  "publisher": "CERT.UG/CC",
+  "published": "2024-07-20",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2: public advisory"
+ },
+ {
+  "url": "https://www.ucc.co.ug/wp-content/uploads/2026/01/Communications-Sector-Cyber-Security-Posture-Report-for-FY-2024-25.pdf",
+  "title": "Communications Sector Cyber Security Posture Report FY 2024-25",
+  "publisher": "Uganda Communications Commission",
+  "published": "2026-01",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q4: published incident counts per quarter"
+ },
+ {
+  "url": "https://www.ucc.co.ug/wp-content/uploads/2024/03/CERT-Regulations-2019.pdf",
+  "title": "The Uganda Communications (Computer Emergency Response Team) Regulations, 2019",
+  "publisher": "Uganda Communications Commission",
+  "published": "2019-07-05",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1, Q3: CERT established by regulation; operator incident reporting"
+ },
+ {
+  "url": "https://ncsi.ega.ee/country/ug/?allData=1",
+  "title": "NCSI Uganda",
+  "publisher": "e-Governance Academy",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1, Q3: CERT, CII identification"
+ },
+ {
+  "url": "https://www.nita.go.ug/services/information-security/computer-emergency-response-team-cert",
+  "title": "Computer emergency response team- CERT",
+  "publisher": "NITA-U",
+  "published": "2025-06-19",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1, Q2: CERT-UG/CC functions"
+ }
+]

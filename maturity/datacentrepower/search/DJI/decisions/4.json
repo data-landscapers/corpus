@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Djibouti Data Centre: Carrier-Neutral Colocation & Connectivity",
+ "publisher": "Wingu Africa",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Undated operator page: municipal supply with UPS and generators and dual internal power paths; no two grid feeds, own substation, PUE or water figure, and no date."
+}

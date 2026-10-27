@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Ethiopia - Raxio Group",
+ "publisher": "Raxio Group",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Fetched text is one intro sentence with no power, PUE or cooling fact; the same facts are in the held ET1 data sheet."
+}

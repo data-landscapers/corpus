@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Niger's $14.3M Data Center Reaches 13% Completion, On Track for September Finish",
+ "publisher": "We are Tech",
+ "published": "2025-03-03",
+ "date_source": "source",
+ "why_not": "National data centre is under construction, not in service; Tier 3 mention is generic and gives no power, PUE or water fact."
+}

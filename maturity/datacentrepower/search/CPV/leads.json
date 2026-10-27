@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.balai.cv/noticias/atualidade/governo-afirma-que-transicao-energetica-e-condicao-para-a-soberania-digital-de-cabo-verde/",
+  "title": "Governo afirma que transição energética é condição para a soberania digital de Cabo Verde",
+  "publisher": "Balai",
+  "published": "2026-02-17",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1/Q2: photovoltaic system for the State Data Center in Praia launched, about 40% energy saving"
+ },
+ {
+  "url": "https://nosi.cv/pt/web/guest/w/lan%C3%A7amento-do-sistema-de-energia-fotovoltaico-do-data-center-da-praia",
+  "title": "Lançamento do Sistema de Energia Fotovoltaico do Data Center da Praia",
+  "publisher": "NOSi",
+  "published": "2026-02-17",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: operator announcement of on-site solar plant at the Praia data centre"
+ },
+ {
+  "url": "https://www.balai.cv/noticias/atualidade/nosi-reforca-transicao-energetica-com-sistema-fotovoltaico-no-data-center-do-estado/",
+  "title": "NOSi reforça transição energética com sistema fotovoltaico no Data Center do Estado",
+  "publisher": "Balai",
+  "published": "2026-02-17",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: NOSi administrator on energy autonomy of the data centre"
+ },
+ {
+  "url": "https://www.datacenterdynamics.com/en/news/cape-verde-receives-15-million-loan-for-two-data-centers/",
+  "title": "Cape Verde receives $15 million loan for two data centers",
+  "publisher": "DCD",
+  "published": "2023-08-01",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: technology park phase two to run on renewable energy"
+ },
+ {
+  "url": "https://www.nosi.cv/pt/web/guest/w/nosi-e-cermi-assinam-protocolo-para-o-refor%C3%A7o-de-parceria-e-implementa%C3%A7%C3%A3o-de-projetos-de-energias-renov%C3%A1veis",
+  "title": "NOSi e CERMI assinam Protocolo para implementação de projetos de energias renováveis",
+  "publisher": "NOSi",
+  "published": "2022-09-09",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: renewable energy project at the State Data Center"
+ },
+ {
+  "url": "https://www.nosi.cv/-/virtual-private-server",
+  "title": "Virtual Private Server / Housing - NOSi",
+  "publisher": "NOSi",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Housing service states multiple power-supply redundancies and power and cooling redundancy"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/environmental-and-social-assessments/cape_verde_-_technology_park_project_-_esmp_summary.pdf",
+  "title": "Cape Verde - Technology Park Project - ESMP Summary",
+  "publisher": "African Development Bank",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: technology park site served by a transformation station on the national grid, plus 1.5 MW diesel backup"
+ },
+ {
+  "url": "https://www.caboverdeexpert.com/cabo-verde-digital-data-centers/",
+  "title": "Cabo Verde Datacenters & Government Cloud",
+  "publisher": "Cabo Verde Expert",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Praia Tier III equivalent data centre and Mindelo disaster recovery site"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "In July 2025 ESCCOM, as National Cybersecurity Agency, investigated WA ransomware attacks on public entities after a threat-intelligence alert and warned organisations to be on high alert.",
+ "title": "Hacking on rise: Water services halts digital payments",
+ "publisher": "Times of Eswatini",
+ "published": "2025-07-25",
+ "date_source": "source",
+ "why_not": ""
+}

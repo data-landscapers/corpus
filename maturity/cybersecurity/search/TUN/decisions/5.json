@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "An ANCS expert said the agency has its own investigation tools to analyse incidents and systematically alerts affected institutions, with over 20,000 cyberattacks recorded between 2024 and 2025.",
+ "title": "Tunisie - ANCS : Plus de 20 000 cyberattaques recensées sur un an",
+ "publisher": "Entreprises Magazine",
+ "published": "2025-10-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

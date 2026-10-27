@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "NAM-CSIRT publicly warned of rising threats after the Paratus Namibia ransomware breach reported on 19 February 2025, classified as a Level 3 incident.",
+ "title": "Namibia's cyber security team warns of rising threats",
+ "publisher": "The Brief",
+ "published": "2025-02-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

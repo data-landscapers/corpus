@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "In 2024 the ANSSI recorded more than 12,100 cases of cybercrime in Côte d'Ivoire, and it publishes an annual threat report.",
+ "title": "Panorama des menaces - Modes opératoires et menaces",
+ "publisher": "ANSSI Côte d'Ivoire",
+ "published": "2025-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "ANTIC presented a March 2026 ransomware case at a public body that it responded to on site, at a national forum opened 29 September 2026.",
+ "title": "Lutte contre la cybercriminalité: La riposte nationale s'organise",
+ "publisher": "Cameroon Tribune",
+ "published": "2026-09-30",
+ "date_source": "source",
+ "why_not": ""
+}

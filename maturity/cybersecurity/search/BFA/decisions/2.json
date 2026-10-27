@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The minister said more than 200 alerts a month were recorded in 2023 and that the SOC and CSIRT centres are in service to coordinate incident response.",
+ "title": "Le Burkina intensifie ses efforts en faveur de la cybersécurité",
+ "publisher": "Agence Ecofin",
+ "published": "2025-07-10",
+ "date_source": "source",
+ "why_not": ""
+}

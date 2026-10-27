@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "The revised National Cybersecurity Strategy and Action Plan 2022-2026 (September 2022) names GM-CSIRT the national CSIRT and sets actions for a CII register and CII incident reporting.",
+ "title": "The National Cybersecurity Strategy and Action Plan of The Gambia 2022-2026 Revised Edition",
+ "publisher": "Government of The Gambia",
+ "published": "2022-09",
+ "date_source": "source",
+ "why_not": ""
+}

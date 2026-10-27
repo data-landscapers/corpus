@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "readiness",
+ "aspect": "",
+ "fact": "",
+ "title": "ZAMBIA CIRT",
+ "publisher": "ZmCIRT",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Describes ZmCIRT functions with no dated fact."
+}

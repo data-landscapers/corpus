@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "LTT Internet Data Center Data Center, Libya",
+ "publisher": "Data Center Catalog",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Undated directory blurb; two backup generators is not a secured supply under the ladder (no dual grid feed, substation or plant) and states no date, PUE or water fact."
+}

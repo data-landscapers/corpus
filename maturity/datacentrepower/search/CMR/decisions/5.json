@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply;pue;water",
+ "fact": "ST Digital's Douala01 data centre (1 MW critical IT load) self-assessed in 2024 with two utility feeds, a transformer and three backup gensets, a site design and annualised PUE below 1.5 (PUE available on request), and WUE not applicable (zero water requirement).",
+ "title": "OCP Ready Data Center Site Assessment ST DIGITAL DOUALA",
+ "publisher": "Open Compute Project",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

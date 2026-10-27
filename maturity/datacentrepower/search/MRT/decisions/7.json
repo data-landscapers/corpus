@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Nouakchott Data Hub",
+ "publisher": "Coloprice",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Undated third-party catalogue entry; power and PUE not published, air cooling stated without a water figure."
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lexlint.io/l/cv-lei-n-8-ix-2017-6-acesso-il-cito-de-20-de-mar",
+  "title": "Cybercrime Law, Unauthorised Access to a Computer System (Lei n.º 8/IX/2017, art. 6.º)",
+  "publisher": "LexLint",
+  "published": "2026-09",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2: Lei 8/IX/2017 in force, published 20 March 2017"
+ },
+ {
+  "url": "https://www.governo.cv/wp-content/uploads/2026/04/economiadigital.pdf",
+  "title": "Governo em Ação: Economia Digital",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2026",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2: country has a cybercrime law; Budapest accession 2018"
+ },
+ {
+  "url": "https://westafricaweekly.com/cape-verdean-police-records-unusual-increase-in-cybercrime-via-social-media/",
+  "title": "Cape Verdean Police Records 'Unusual' Increase In Cybercrime Via Social Media",
+  "publisher": "West Africa Weekly",
+  "published": "2024-07-18",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: PJ reports cybercrime complaints, some cases already in court"
+ },
+ {
+  "url": "https://www.rtc.cv/rcv/audio-details/com-julio-cesar-martins-bastonario-da-ordem-dos-advogados-de-cabo-verde-13214",
+  "title": "PJ investiga casos de burla através de redes sociais",
+  "publisher": "RTC",
+  "published": "2025-02-07",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: PJ cybercrime brigade investigating online fraud cases"
+ },
+ {
+  "url": "https://csmj.cv/wp-content/uploads/2017/09/RELATORIO-Situao-da-Justia-2023-2024.pdf",
+  "title": "Relatório sobre a situação da justiça 2023/24",
+  "publisher": "Conselho Superior da Magistratura Judicial",
+  "published": "2024",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: judicial statistics, possible cybercrime case counts"
+ },
+ {
+  "url": "https://www.ministeriopublico.cv/index.php/destaques/1653-pgr-considera-que-investigacao-em-materia-de-cibercrime-e-extremamente-dificil-e-que-a-formacao-dos-magistrados-e-a-maior-preocupacao-da-procuradoria-geral-da-republica",
+  "title": "PGR considera que investigação em matéria de cibercrime é extremamente difícil",
+  "publisher": "Ministério Público de Cabo Verde",
+  "published": "2023-06-20",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: trials relating to cyber crimes have occurred"
+ },
+ {
+  "url": "https://www.governo.cv/ministra-da-justica-preside-a-abertura-da-formacao-de-magistrados-sobre-investigacao-de-cibercrimes-e-provas-digitais/",
+  "title": "Ministra da Justiça preside a abertura da Formação de magistrados sobre investigação de cibercrimes e provas digitais",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2023-06-21",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2: 2017 cybercrime law and 2021 cybersecurity regime decree-law"
+ },
+ {
+  "url": "https://rm.coe.int/octocom-legal-profile-cabo-verde/16809e5377",
+  "title": "Octopus: Cabo Verde cybercrime legislation, domestic equivalent to the Budapest Convention",
+  "publisher": "Council of Europe, C-PROC",
+  "published": "2020-04-10",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2: Lei 8/IX/2017 mapped to the Budapest Convention articles"
+ }
+]

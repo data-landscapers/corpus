@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "Since July 2023 ngCERT, under the Office of the National Security Adviser, issued at least 33 cyberattack advisories, 22 of them in 2024 up to 12 July.",
+ "title": "Nigeria's digital boom threatened as FG issues 33 alerts",
+ "publisher": "BusinessDay",
+ "published": "2024-07-18",
+ "date_source": "source",
+ "why_not": ""
+}

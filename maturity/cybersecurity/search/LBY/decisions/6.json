@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "A NISSA official told the Libyan News Agency in January 2025 that the Authority launched the National Cybersecurity Strategy in February 2023 and has taken urgent measures against denial-of-service, phishing and ransomware attacks on Libyan institutions.",
+ "title": "الهيئة الوطنية لأمن وسلامة المعلومات: تعزيز الأمن السيبراني وحماية البنية الرقمية",
+ "publisher": "وكالة الأنباء الليبية (وال)",
+ "published": "2025-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

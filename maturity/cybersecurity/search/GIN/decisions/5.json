@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The NCSI version of 4 September 2026 credits Guinea with a valid national cybersecurity strategy 2022-2027 with action plan (3/3 each) and records ANSSI under Decree D/266/PRG/SGG/2016 as the national threat-assessment entity, while scoring national CERT, incident-reporting obligations and CII identification at 0.",
+ "title": "NCSI :: Guinea",
+ "publisher": "e-Governance Academy (NCSI)",
+ "published": "2026-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

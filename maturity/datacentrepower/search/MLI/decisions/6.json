@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "AES | L'inauguration d'un centre de données Tier III marque un tournant majeur pour la souveraineté numérique",
+ "publisher": "Mali Actu",
+ "published": "2026-02-01",
+ "date_source": "source",
+ "why_not": "Only a vague secured power supply and PUE tracking as intent; no stated feeds, PUE value or water use."
+}

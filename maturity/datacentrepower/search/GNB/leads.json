@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sextant-cpi.com/projects/datacenter-ogb/",
+  "title": "Data center ORANGE BISSAU",
+  "publisher": "Sextant CPI",
+  "published": "2025-02",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Tier 3 data centre at Nhacra with generator room, transformer substation, delivery post"
+ },
+ {
+  "url": "https://ang.gw/guine-bissau-deixou-de-usar-mas-paga-energia-de-central-flutuante-turca/",
+  "title": "Guiné-Bissau deixou de usar mas paga energia de central flutuante turca",
+  "publisher": "Agência de Notícias da Guiné",
+  "published": "2024-10-17",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1-Q2: national grid supply from OMVG; 35 MW to industrial units"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099050824170015949/txt/BOSIB13f7a850607e198901efac75563838.txt",
+  "title": "Guinea-Bissau power sector (World Bank project document)",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1-Q2: grid 100 percent HFO 2023, 25 MW peak"
+ },
+ {
+  "url": "https://www.worldbank.org/en/news/press-release/2024/06/06/world-bank-invests-in-solar-energy-to-expand-access-to-electricity-in-guinea-bissau",
+  "title": "World Bank Invests in Solar Energy to Expand Access to Electricity in Guinea-Bissau",
+  "publisher": "World Bank",
+  "published": "2024-06-06",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: solar parks and grid; no data-centre allocation expected"
+ },
+ {
+  "url": "https://computecompute.org/law/gw",
+  "title": "Data-center law in Guinea-Bissau",
+  "publisher": "computecompute.org",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: no dedicated data-centre power regime"
+ },
+ {
+  "url": "https://datacentr.net/markets/guinea-bissau/",
+  "title": "Data centers in Guinea-Bissau",
+  "publisher": "Data Center Watch",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: one listed data centre, MTN Bissau, no power data"
+ },
+ {
+  "url": "https://beninwebtv.bj/en/guinea-bissau-inaugurates-new-electrical-substation/",
+  "title": "Guinea-Bissau inaugurates new electrical substation",
+  "publisher": "Benin Web TV",
+  "published": "2025-04-26",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: OMVG substation in Bissau inaugurated; no data-centre link"
+ },
+ {
+  "url": "https://www.reuters.com/world/africa/bissau-darkness-after-turkish-power-firm-cuts-off-supply-2023-10-17/",
+  "title": "Guinea-Bissau capital in darkness after Turkish firm cuts power supply",
+  "publisher": "Reuters",
+  "published": "2023-10-17",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: grid outage; supply insecurity (stage 1 context)"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 28 September 2025 INTIC, through the national CSIRT, issued a public alert about fake social media accounts used for scam and phishing campaigns against senior officials.",
+ "title": "Comunicado sobre contas falsas nas redes sociais",
+ "publisher": "Instituto Nacional de Tecnologia de Informação e Comunicação (INTIC), CSIRT Nacional",
+ "published": "2025-09-28",
+ "date_source": "source",
+ "why_not": ""
+}

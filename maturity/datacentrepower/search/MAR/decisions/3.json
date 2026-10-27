@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "N+ONE CMN Hyperscale Data Center, Casablanca-Nouaceur",
+ "publisher": "UBIK",
+ "published": "",
+ "date_source": "source",
+ "why_not": "States redundant distribution and standby generation only; no two grid feeds, own substation or own plant, and no PUE or water figure."
+}

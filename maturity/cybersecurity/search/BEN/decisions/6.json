@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii",
+ "fact": "On 22 February 2023 the Council of Ministers approved the rules of the policy for protecting critical information infrastructures.",
+ "title": "Compte rendu du Conseil des Ministres du 22 février 2023",
+ "publisher": "Secrétariat général du Gouvernement du Bénin",
+ "published": "2023-02-22",
+ "date_source": "source",
+ "why_not": ""
+}

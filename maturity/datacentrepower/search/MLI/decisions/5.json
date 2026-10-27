@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Données publiques : une infrastructure dédiée",
+ "publisher": "Journal du Mali",
+ "published": "2026-02-02",
+ "date_source": "source",
+ "why_not": "Generic Tier III redundancy of power and cooling; no feeds, substation, plant, PUE or water stated."
+}

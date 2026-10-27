@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://gmcsirt.gm/news-eventslatest-news-events-and-advisories/",
+  "title": "Latest News, Events and Advisories",
+  "publisher": "gmCSIRT",
+  "published": "2026-10-22",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q3: national body issuing public advisories"
+ },
+ {
+  "url": "https://gmcsirt.gm/itu-concludes-knowledge-transfer-mission-to-strengthen-gmcsirts-cybersecurity-capabilities/",
+  "title": "ITU Concludes Knowledge Transfer Mission to Strengthen gmCSIRT's Cybersecurity Capabilities",
+  "publisher": "gmCSIRT",
+  "published": "2026-07-16",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2/Q3: CSIRT operations and incident handling procedures"
+ },
+ {
+  "url": "https://gmcsirt.gm/about/",
+  "title": "About Us",
+  "publisher": "gmCSIRT",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2/Q4: CSIRT established by government decision; mandate over critical information infrastructure"
+ },
+ {
+  "url": "https://gmcsirt.gm/documents/gmCSIRT-RFC-2350_V2.1.pdf",
+  "title": "gmCSIRT RFC 2350",
+  "publisher": "gmCSIRT",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q3/Q4: constituency incl. NCII and incident reporting channels"
+ },
+ {
+  "url": "https://policies.gov.gm/d/f63f142d-80d4-11ef-b086-029254d29bb1",
+  "title": "The National Cybersecurity Strategy and Action Plan of The Gambia 2022-2026 Revised Edition",
+  "publisher": "Government of The Gambia (policies.gov.gm)",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2/Q4: national strategy; CII register and incident reporting"
+ },
+ {
+  "url": "https://gmcsirt.gm/documents/Cybersecurity-Policy-2022-2026-Final.pdf",
+  "title": "The National Cybersecurity Policy of The Gambia 2022-2026",
+  "publisher": "Government of The Gambia / gmCSIRT",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2/Q4: policy, CSIRT, CII protection pillar"
+ },
+ {
+  "url": "https://pura.gm/gmcsirt/",
+  "title": "gmCSIRT",
+  "publisher": "Public Utilities Regulatory Authority",
+  "published": "2021-09-02",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2: CSIRT set up by PURA; trainings of CII holders"
+ },
+ {
+  "url": "https://gcscc.ox.ac.uk/sites/default/files/gcscc/documents/media/final_cmm_report_gambia_19apr2019.pdf",
+  "title": "Cybersecurity Capacity Review: The Gambia",
+  "publisher": "Global Cyber Security Capacity Centre, University of Oxford",
+  "published": "2019-04",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: stated absence of strategy and national response body in 2019"
+ }
+]

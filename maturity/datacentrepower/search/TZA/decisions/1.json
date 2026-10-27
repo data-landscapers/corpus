@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "pue;water;supply",
+ "fact": "The report, current to August 2026, found no facility-level data on power, water withdrawal or power usage effectiveness published by any Tanzanian authority or operator, and found no corporate power purchase agreement framework allowing a data centre to contract directly with a producer.",
+ "title": "Grounding the Cloud: The Material, Environmental and Fiscal Governance of Data Centres in Tanzania",
+ "publisher": "House of Fiscal Wisdom",
+ "published": "2026-08",
+ "date_source": "source",
+ "why_not": ""
+}

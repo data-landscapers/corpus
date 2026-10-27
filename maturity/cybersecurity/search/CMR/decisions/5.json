@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The national CIRT issued a security bulletin of vulnerability alerts covering April 2025 (CVEs dated 9-11 April 2025).",
+ "title": "Bulletin de sécurité CIRT (1 avril 2025)",
+ "publisher": "ANTIC / CIRT",
+ "published": "2025-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

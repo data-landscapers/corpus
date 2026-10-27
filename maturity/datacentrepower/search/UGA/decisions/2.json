@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Only a Raxio PUE of 1.6 to 1.8 (above 1.6, not operator-stated) and others above 2.5; no secured supply or set-aside fact."
+}

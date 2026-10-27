@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "The National Cybersecurity Agency signed an MoU with Botswana's Cybersecurity Incident Response Team and secured World Bank funding for a CSIRT action plan; ESCCOM's annual report records reported offences in 2024.",
+ "title": "ESCCOM Launches 2025 Cybersecurity Awareness Month",
+ "publisher": "Inside Biz",
+ "published": "2025-10-01",
+ "date_source": "source",
+ "why_not": ""
+}

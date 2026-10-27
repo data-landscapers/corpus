@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://punchng.com/firm-unveils-first-phase-of-100mw-data-centre/",
+  "title": "Kasi Cloud opens 100MW AI-ready Nigeria data centre campus",
+  "publisher": "Punch",
+  "published": "2026-05-19",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 dedicated 132kV substation, first phase commissioned"
+ },
+ {
+  "url": "https://naijaeyesblog.com/digital-realty-expands-in-lagos/",
+  "title": "Digital Realty Expands in Lagos with New LKK2 Data Centre",
+  "publisher": "NaijaEyes",
+  "published": "2025-08-25",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 dedicated 33kV line from Ajah substation"
+ },
+ {
+  "url": "https://datacentresafrica.com/case-study-details-6978/",
+  "title": "Achieving Tier IV Certification At Cloud Exchange Data Centre",
+  "publisher": "Data Centres Africa",
+  "published": "2025-05-13",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 grid, IPP and generators"
+ },
+ {
+  "url": "https://businessday.ng/interview/article/rack-centre-lgs2-data-centre-will-drive-west-africas-digital-expansion-and-economic-growth-lars-johannisson/",
+  "title": "Rack Centre LGS2 Data Centre will drive West Africa's digital expansion",
+  "publisher": "BusinessDay",
+  "published": "2024-11-11",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3 operator states PUE 1.35"
+ },
+ {
+  "url": "https://rack-centre.com/wp-content/uploads/2024/05/rack-centre-spec-sheet-and-QR-code.pdf",
+  "title": "Rack Centre Spec Sheet",
+  "publisher": "Rack Centre",
+  "published": "2024",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3 design PUE 1.5"
+ },
+ {
+  "url": "https://www.elektronenergy.com/projects/rack-centre-limited-rcl-ipp",
+  "title": "Rack Centre IPP",
+  "publisher": "Elektron Energy",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 on-site gas IPP operational since March 2023"
+ },
+ {
+  "url": "https://www.thisdaylive.com/2021/02/19/mdxi-to-promote-energy-efficiency-environmental-sustainability/",
+  "title": "MDXi to Promote Energy Efficiency, Environmental Sustainability",
+  "publisher": "ThisDay",
+  "published": "2021-02-19",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 direct grid connection"
+ },
+ {
+  "url": "https://dstdatacenters.com/service/sustainability/",
+  "title": "Sustainability | DST Data Centers",
+  "publisher": "DST Data Centers",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4 WUE near zero, PUE; campus may be unbuilt"
+ }
+]

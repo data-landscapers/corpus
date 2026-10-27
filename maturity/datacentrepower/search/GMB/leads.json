@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.kerrfatou.com/did-the-gambias-power-crisis-return-the-moment-nawecs-50-day-emergency-deal-expired/",
+  "title": "Did The Gambia's Power Crisis Return the Moment NAWEC's 50-Day Emergency Deal Expired?",
+  "publisher": "Kerr Fatou Online Media House",
+  "published": "2026-08-18",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: national grid load shedding, diesel emergency supply"
+ },
+ {
+  "url": "https://gambiana.com/nawec-says-emergency-diesel-power-deal-is-temporary-measure-to-curb-blackouts/",
+  "title": "NAWEC says emergency diesel power deal is temporary measure to curb blackouts",
+  "publisher": "Gambiana",
+  "published": "2026-06-25",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: grid supply constraints"
+ },
+ {
+  "url": "https://alkambatimes.com/gambia-plunged-into-major-internet-blackout-as-power-crisis-deepens/",
+  "title": "Gambia Plunged Into Major Internet Blackout as Power Crisis Deepens",
+  "publisher": "The Alkamba Times",
+  "published": "2026-06-04",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: power crisis and data centre/network vulnerability"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/nawec-blames-electricity-crisis-on-maintenance-delayed-spare-parts-and-rising-fuel",
+  "title": "Nawec blames electricity crisis on maintenance, delayed spare parts & rising fuel",
+  "publisher": "The Point",
+  "published": "2026-06-05",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: supply shortfall"
+ },
+ {
+  "url": "https://www.datacenterdynamics.com/en/news/qgroup-launches-data-center-in-the-gambia-claims-it-is-the-countrys-first/",
+  "title": "QGroup launches data center in The Gambia, claims it is the country's first",
+  "publisher": "DatacenterDynamics",
+  "published": "2026-05-05",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2-Q5: data centre in service; no power or PUE detail"
+ },
+ {
+  "url": "https://baxtel.com/data-center/qcell-banjul-gambia",
+  "title": "QCell: Banjul, Gambia Data Center",
+  "publisher": "Baxtel",
+  "published": "2026",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2-Q5: QCell data centre specs undisclosed"
+ },
+ {
+  "url": "https://datacentresafrica.com/case-study-details-7184/",
+  "title": "Containerised Modular Data Centre For The Medical Research Council, Delivered To The Gambia",
+  "publisher": "Data Centres Africa",
+  "published": "2025-09-18",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4/Q5: MRCG data centre, low-PUE and free cooling design"
+ },
+ {
+  "url": "https://inflect.com/building/kairaba-avenue-serrekunda/gamtel/datacenter/gamtel-kairaba-exchange-serrekunda",
+  "title": "Gamtel Serrekunda",
+  "publisher": "Inflect",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: Gamtel data centre redundant power sources, N+1 cooling"
+ }
+]

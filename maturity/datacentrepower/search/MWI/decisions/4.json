@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The June 2025 ESMP provides for a buried 11kV service power line of about 1.5 km from the ESCOM Kamuzu Central Hospital substation to the National Data Centre in Lilongwe, costing an estimated US$300,000 and needed for Tier 3 status.",
+ "title": "ESMP for the Construction of the Service Powerline for the National Data Centre in Lilongwe (Digital Malawi Acceleration Project)",
+ "publisher": "Public Private Partnership Commission (PPPC), Government of Malawi",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

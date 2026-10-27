@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The national CSIRT's report for April 2023 to April 2025 lists seven incidents it responded to (May 2023 to April 2025) and states 173,770 occurrences recorded in the national cyberspace from March to December 2024 and 36,330 in January to March 2025.",
+ "title": "Equipa Nacional de Resposta a Incidentes Cibernéticos",
+ "publisher": "Instituto Nacional de Tecnologias de Informação e Comunicação (INTIC)",
+ "published": "2025-05-02",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85,held,held as raw/2026/2026-08-03-itweb-tlou-energy-kala-data-centre-botswana.md,,0,,
+2,https://apis.bse.co.bw/storage/disclosures/04/2026/6767.pdf,fetched,,scripts/.workroot/study/datacentrepower/cache/BWA/2.txt,2602,pdf,
+3,https://company-announcements.afr.com/asx/tou/a7c22050-0d1c-11f1-bade-ca622cf181ba.pdf,fetched,,scripts/.workroot/study/datacentrepower/cache/BWA/3.txt,721,pdf,Tlou Energy Limited
+4,https://tlouenergy.com/wp-content/uploads/2025/03/Binding-HOA-with-Kala-Data-Final.pdf,fetched,,scripts/.workroot/study/datacentrepower/cache/BWA/4.txt,1144,pdf,Tlou Energy Limited
+5,https://infra.global/projects/orange-bih-data-centre-gaborone/,fetched,,scripts/.workroot/study/datacentrepower/cache/BWA/5.txt,419,html,"Orange BIH data centre, Gaborone"
+6,https://btc.bw/business/sentlhaga-data-center/,held,held as raw/2020/2020-11-04-btc-sentlhaga-data-center.md,,0,,
+7,https://www.bih.co.bw/bdih-data-centre/,held,held as raw/2020/2020-02-27-bdih-data-centre-guidelines.md,,0,,
+8,https://www.concor.co.za/concor-builds-world-class-data-centre-for-orange-botswana/,unfetchable,SSLError; Wayback ConnectionError,,0,,

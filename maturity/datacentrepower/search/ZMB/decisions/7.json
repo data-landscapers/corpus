@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "pue",
+ "fact": "The national data centres of the Zambia National Data Centre Limited are designed for an average PUE of 1.3.",
+ "title": "Cloud computing: From paradigm to operation, case study National data Centres in Zambia",
+ "publisher": "ITU",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

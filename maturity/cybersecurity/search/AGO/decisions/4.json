@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "Presidential Decree 263/25 created the Centro Nacional de Cibersegurança, a public body with legal personality, responsible for regulation, supervision and national alert levels and for preparing the national cybersecurity strategy.",
+ "title": "Criado Centro Nacional de Cibersegurança e o CERT",
+ "publisher": "Portal de TI",
+ "published": "2025-12-15",
+ "date_source": "source",
+ "why_not": ""
+}

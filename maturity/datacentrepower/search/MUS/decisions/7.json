@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "CEB Tariff 255, Rs 2.97 per kWh, applies to data centres of at least Tier 3, offered to ICT-BPO companies as a preferential electricity tariff.",
+ "title": "Technopreneurs - Preferential Electricity Tariff",
+ "publisher": "Economic Development Board Mauritius",
+ "published": "2021-03-26",
+ "date_source": "source",
+ "why_not": ""
+}

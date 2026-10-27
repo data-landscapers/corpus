@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf",
+  "title": "National Cybersecurity Strategy 2025-2029",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2026-02",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1 strategy adopted; Q2/Q3 incident reporting and CII plans"
+ },
+ {
+  "url": "https://liblaw.org/document/cybersecurity-regulations-lta-reg-0013-2026/",
+  "title": "Cybersecurity Regulations (LTA REG 0013-2026)",
+  "publisher": "Liberia Telecommunications Authority",
+  "published": "2026-04",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1 CERT established; Q3 CII incident notification duty"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/sites/default/files/documents/Cybercime%20Act%20of%202025.pdf",
+  "title": "Cybercrime Act of 2025",
+  "publisher": "Ministry of Foreign Affairs, Monrovia",
+  "published": "2026-07-24",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1 LNCC and LCERT created by law; Q3 CNII designation and breach reporting"
+ },
+ {
+  "url": "https://www.micat.gov.lr/news/liberia-establish-first-digital-forensic-laboratory",
+  "title": "Liberia To Establish First Digital Forensic Laboratory",
+  "publisher": "Ministry of Information, Cultural Affairs and Tourism",
+  "published": "2024-11-19",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1 CERT wing planned"
+ },
+ {
+  "url": "https://linkedin.com/posts/sheikh-sheriff-6453409b_liberia-shines-at-ecowas-cybersecurity-conference-activity-7317097944862580736-J8Av",
+  "title": "Liberia Shines at ECOWAS Cybersecurity Conference in Dakar",
+  "publisher": "LinkedIn (Sheikh Sheriff, MoPT)",
+  "published": "2025-04-13",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1/Q2 national CSIRT participation in drills"
+ },
+ {
+  "url": "https://www.micat.gov.lr/media/press-releases/government-signs-five-year-agreement-advance-digital-transformation-liberia",
+  "title": "Government signs five-year agreement to advance digital transformation in Liberia",
+  "publisher": "Ministry of Information",
+  "published": "2024-09-24",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1 SOC and CSIRT to be established"
+ },
+ {
+  "url": "https://emansion.gov.lr/media/press-release/president-boakai-opens-3-day-cybersecurity-conference-address-growing-global",
+  "title": "President Boakai Opens 3-Day Cybersecurity Conference",
+  "publisher": "The Executive Mansion",
+  "published": "2024-10-09",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1 context of national cyber effort"
+ },
+ {
+  "url": "https://ncsi.ega.ee/country/lr/",
+  "title": "Liberia - eGA NCSI",
+  "publisher": "e-Governance Academy",
+  "published": "2025-12-31",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1/Q2 index scores zero on national incident response capacity (absence)"
+ }
+]

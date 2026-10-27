@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "ELECTRICITE - Le poste AIS 225/30 kV de Diamniadio mis sous tension",
+ "publisher": "Nettali",
+ "published": "2019-11-28",
+ "date_source": "proxy",
+ "why_not": "Substation serves the whole Diamniadio urban pole and industrial zone, not built for data centres; the Senelec data centre is only a first stone."
+}

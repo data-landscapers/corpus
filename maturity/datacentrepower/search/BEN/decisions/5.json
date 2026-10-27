@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "On 1 June 2021 the national data centre at Abomey-Calavi began powered technical tests with dual SBEE feeds and generator backup; service entry was still to come.",
+ "title": "Bénin : premiers tests techniques sur le datacenter national",
+ "publisher": "CIOMAG",
+ "published": "2021-06-02",
+ "date_source": "source",
+ "why_not": ""
+}

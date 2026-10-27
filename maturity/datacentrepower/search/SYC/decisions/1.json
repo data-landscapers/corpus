@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "Seychelles launched its first Tier IV data centre in June 2026, built with multiple layers of redundancy for power, cooling and network connectivity; the text names no grid feeds, substation or PUE.",
+ "title": "Seychelles Launches Tier IV Data Centre for Regional Digital Hub",
+ "publisher": "The Seychelles Times",
+ "published": "2026-06-09",
+ "date_source": "source",
+ "why_not": ""
+}

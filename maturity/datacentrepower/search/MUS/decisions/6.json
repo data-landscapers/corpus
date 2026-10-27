@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Project - Setu AI Data Center, Mauritius",
+ "publisher": "Setu",
+ "published": "",
+ "date_source": "source",
+ "why_not": "A planned phased facility; the design PUE of 1.38 to 1.42 and WUE of about 0 are not for a data centre in service."
+}

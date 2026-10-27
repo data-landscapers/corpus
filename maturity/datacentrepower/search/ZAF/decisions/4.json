@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply;pue;water",
+ "fact": "CBN reported in February 2026 that Teraco's CT2 Cape Town data centre (50 MW IT load) is connected to a 120 MW solar PV wheeling programme, is designed for a PUE of 1.30 against the company's previous average of 1.47, and aims for a WUE of 0.05 L/kWh with closed-loop cooling.",
+ "title": "Teraco CT2 expands Cape Town Data Centre capacity now",
+ "publisher": "CBN",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

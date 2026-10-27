@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "readiness",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "One undated alert on a Check Point CVE copied from cybersecuritymag.africa; no date in the text, so no dated fact."
+}

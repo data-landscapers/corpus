@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "Econet said close to 60% of network faults came from power interruptions affecting base stations, switching centres and data centres, and is building a planned 100MW solar and battery facility for its Harare data centres.",
+ "title": "Econet turns to AI and solar power to improve network quality",
+ "publisher": "Business Times",
+ "published": "2026-09-08",
+ "date_source": "source",
+ "why_not": ""
+}

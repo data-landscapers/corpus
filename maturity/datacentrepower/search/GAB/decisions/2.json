@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply;water",
+ "fact": "The ST Digital data centre in the Nkok special economic zone, inaugurated in July 2026, has a dedicated electricity supply line and its operator states it uses no water to cool its equipment.",
+ "title": "Gabon: un premier centre de données pour héberger les données sensibles",
+ "publisher": "RFI",
+ "published": "2026-07-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

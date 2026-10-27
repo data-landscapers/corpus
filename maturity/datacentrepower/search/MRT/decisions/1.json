@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The Nouakchott Data Hub, completed and due to open on 8 May 2025, is certified Tier 3 by the Uptime Institute with full redundancy of critical components, including dual power supplies, and 99.982% availability.",
+ "title": "Mauritania Completes Construction Of Tier 3-certified Nouakchott Data Hub",
+ "publisher": "Data Centres Africa",
+ "published": "2025-05-12",
+ "date_source": "source",
+ "why_not": ""
+}

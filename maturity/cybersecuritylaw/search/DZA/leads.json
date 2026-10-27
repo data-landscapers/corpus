@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lavoiedalgerie.dz/piratage-dun-compte-postal-via-baridimob-trois-ans-de-prison-requis-contre-deux-prevenus/2026/07/00/",
+  "title": "Piratage d'un compte postal via BaridiMob : Trois ans de prison requis contre deux prévenus",
+  "publisher": "La voie d'Algérie",
+  "published": "2026-09-07",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: prosecution incl. accès frauduleux à un système informatique"
+ },
+ {
+  "url": "https://elwatan.dz/13-204-affaires-de-cybercriminalite-enregistrees-en-2025/",
+  "title": "13 204 affaires de cybercriminalité enregistrées en 2025",
+  "publisher": "El Watan",
+  "published": "2026-04-08",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q5: DGSN count of cybercrime cases 2025"
+ },
+ {
+  "url": "https://fildalgerie.dz/recrudescence-de-la-cybercriminalite-en-2025-la-cyber-escroquerie-en-tete-avec-plus-de-4-600-cas/",
+  "title": "Recrudescence de la cybercriminalité en 2025",
+  "publisher": "Fil d'Algérie",
+  "published": "2026-04-07",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q5: breakdown incl. 374 cases of atteinte aux STAD"
+ },
+ {
+  "url": "https://algerieconfluences.dz/gendarmerie-nationale-2025moins-de-crimes-plus-de-cyberattaques/",
+  "title": "Gendarmerie nationale 2025 : Moins de crimes, plus de cyberattaques",
+  "publisher": "Algérie Confluences",
+  "published": "2026-04-19",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q5: Gendarmerie count 3,064 cybercrime cases 2025"
+ },
+ {
+  "url": "https://www.expressdz.dz/2026/03/03/mdn-le-contenu-de-la-strategie-nationale-de-la-securite-des-systemes-dinformation-2025-2029-devoile/",
+  "title": "MDN : Le contenu de la Stratégie nationale de la sécurité des systèmes d'information 2025-2029 dévoilé",
+  "publisher": "L'express DZ",
+  "published": "2026-03-03",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2: announces avant-projet de loi on cybersecurity"
+ },
+ {
+  "url": "https://cms.law/en/int/expert-guides/cms-expert-guide-to-data-protection-and-cyber-security-laws/algeria2",
+  "title": "Data protection and cybersecurity laws in Algeria",
+  "publisher": "CMS",
+  "published": "2026-01-27",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q3: no particular cybersecurity law; Law 09-04 and Penal Code 394bis in force"
+ },
+ {
+  "url": "https://elwatan.dz/surete-dalger-arrestation-dun-individu-implique-dans-des-cyberattaques/",
+  "title": "Sûreté d'Alger : Arrestation d'un individu impliqué dans des cyberattaques",
+  "publisher": "El Watan (APS)",
+  "published": "2025-12-09",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: dated arrest for accès frauduleux à des STAD"
+ },
+ {
+  "url": "https://elwatan.dz/cybercriminalite-5298-cybercrimes-perpetres-et-1410-arrestations-operees-en-2024/",
+  "title": "Cybercriminalité : 5298 cybercrimes perpétrés et 1410 arrestations opérées en 2024",
+  "publisher": "El Watan",
+  "published": "2025-03-16",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4/Q5: DGSN 2024 count and arrests"
+ }
+]

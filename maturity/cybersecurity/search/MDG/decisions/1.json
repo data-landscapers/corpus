@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The article states the national Centre de réponse aux incidents informatiques (CIRT) was created in June 2026 and that a national cybersecurity strategy 2026-2030 is in preparation.",
+ "title": "Cybersécurité et souveraineté numérique à Madagascar : construire la résilience",
+ "publisher": "ODS-AOI",
+ "published": "2026-08-04",
+ "date_source": "source",
+ "why_not": ""
+}

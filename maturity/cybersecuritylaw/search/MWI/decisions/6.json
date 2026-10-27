@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing;use",
+ "fact": "OSAC's report of 13 December 2024 states the Electronic Transactions and Cyber Security Act of 2016 criminalises unauthorised data access with fines and up to five years' imprisonment, that the Malawi Police Service 2023 Annual Report shows rising cybercrime cases, and that a cybersecurity unit exists within the police to investigate and prosecute them.",
+ "title": "Malawi Country Security Report",
+ "publisher": "Overseas Security Advisory Council (OSAC), U.S. Department of State",
+ "published": "2024-12-13",
+ "date_source": "source",
+ "why_not": ""
+}

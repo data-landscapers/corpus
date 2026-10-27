@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "NAM-CSIRT was established under a policy decision of the Government of Namibia taken on 23 November 2023 and is housed at the Communications Regulatory Authority of Namibia, with critical infrastructure and critical information infrastructure institutions as its constituency.",
+ "title": "Namibia Cyber Security Incident Response Team (RFC 2350)",
+ "publisher": "NAM-CSIRT / Communications Regulatory Authority of Namibia",
+ "published": "2025-04-01",
+ "date_source": "source",
+ "why_not": ""
+}

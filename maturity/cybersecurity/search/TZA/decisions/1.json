@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "cii",
+ "fact": "The Minister's Cybercrimes (Protection of Critical Information Infrastructure) Order, 2026 (GN 147, 19 June 2026) designates 25 categories of computer systems as critical information infrastructure and requires owners to register them with the Ministry within six months.",
+ "title": "The Cybercrimes (Protection of Critical Information Infrastructure) Order, 2026",
+ "publisher": "Government of the United Republic of Tanzania (Gazette No. 24, GN 147)",
+ "published": "2026-06-19",
+ "date_source": "source",
+ "why_not": "",
+ "sub_indicator": "readiness"
+}

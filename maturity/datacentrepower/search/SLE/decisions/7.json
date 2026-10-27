@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Data Centers in Sierra Leone",
+ "publisher": "colo.exchange",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Undated directory text; generic remark on power reliability, no dated fact."
+}

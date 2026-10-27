@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "In July 2023 mwCERT, the Malawi CERT within MACRA, issued a public alert on cyber-attacks disrupting critical information infrastructure in COMESA countries, citing its threat-advisory duty under s.6(3) of the Electronic Transactions and Cyber Security Act.",
+ "title": "MACRA warns public to be on high alert against heightened cyber attacks in COMESA region",
+ "publisher": "Nyasa Times",
+ "published": "2023-07-31",
+ "date_source": "source",
+ "why_not": ""
+}

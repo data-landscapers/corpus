@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The Bhumishq Data Centre in Ebene Cyber City is powered by two sources from two CEB grids, with 2x1200 kVA transformers, backed by a generator.",
+ "title": "Bhumishq Data Centre",
+ "publisher": "Bhumishq Technologies Ltd",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "No date of its own could be established."
+}

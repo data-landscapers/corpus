@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "The NCSI version of 15 July 2025 scores Congo 0 of 3 for a national cybersecurity strategy and 0 of 3 for identification of critical information infrastructure, and 0 of 3 for a national incident response capacity, while crediting the ANSSI as national cybersecurity authority.",
+ "title": "NCSI :: Congo",
+ "publisher": "e-Governance Academy, National Cyber Security Index",
+ "published": "2025-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

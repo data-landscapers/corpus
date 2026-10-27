@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "gmCSIRT published security advisories to government institutions, businesses and individuals through October 2026, e.g. on SharePoint (1 October) and PHP (22 October).",
+ "title": "Latest News, Events and Advisories",
+ "publisher": "gmCSIRT",
+ "published": "2026-10-22",
+ "date_source": "source",
+ "why_not": ""
+}

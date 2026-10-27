@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Sudatel DC Khartoum",
+ "publisher": "PeeringDB",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Directory entry; says diverse serving substations not disclosed, no power or water fact."
+}

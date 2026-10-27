@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The 2025 ASIN vulnerabilities and incidents report, drawn from bjCSIRT data for 2021-2024, publishes counts (878 vulnerabilities, 832 password leaks, 23 malware infections, 12 website hackings, 7 botnet activations).",
+ "title": "Rapport de vulnérabilités et d'incidents 2025",
+ "publisher": "Agence des Systèmes d'Information et du Numérique (ASIN)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

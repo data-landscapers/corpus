@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 11 October 2024 INSA issued a report outlining approximately 8,854 cyber-attack attempts prevented during the 2023/24 fiscal year.",
+ "title": "Ethiopia: Information Network Security Administration issued report following investigations into several data breaches",
+ "publisher": "Digital Policy Alert",
+ "published": "2024-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

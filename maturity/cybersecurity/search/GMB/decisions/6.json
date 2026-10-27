@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "The National Cybersecurity Policy 2022-2026 (revised September 2022) designates GM-CSIRT as the national incident response command centre and sets a CII protection pillar.",
+ "title": "The National Cybersecurity Policy of The Gambia 2022-2026",
+ "publisher": "Government of The Gambia",
+ "published": "2022-09",
+ "date_source": "source",
+ "why_not": ""
+}

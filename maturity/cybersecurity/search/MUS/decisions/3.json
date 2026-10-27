@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The national audit report 2024-2025 states MAUCORS+ recorded 5 625 cases in 2024-2025 and that no KPIs exist to measure CERT-MU's interventions.",
+ "title": "Rapport de l'Audit 2024-2025 : Technologies : +79 % de Cybercrimes",
+ "publisher": "l'express",
+ "published": "2026-03-21",
+ "date_source": "source",
+ "why_not": ""
+}

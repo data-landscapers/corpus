@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Why Rwanda needs a water policy for data centres now",
+ "publisher": "The Eastleigh Voice (from The New Times)",
+ "published": "2026-03-19",
+ "date_source": "proxy",
+ "why_not": "General argument on data-centre water use; states no PUE, WUE, water figure or cooling method for a Rwandan facility in service."
+}

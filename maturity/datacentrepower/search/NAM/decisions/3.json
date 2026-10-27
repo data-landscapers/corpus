@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Paratus Namibia Data Center fact sheet",
+ "publisher": "Paratus Namibia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "A and B feeds are generator and UPS paths, not grid feeds; solar only as daylight resilience; DX cooling, no PUE or water figure."
+}

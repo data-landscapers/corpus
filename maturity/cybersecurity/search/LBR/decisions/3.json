@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "readiness",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Fetch returned the cover page only (approved 3 July 2026, printed 24 July 2026); no text on the national body or CII."
+}

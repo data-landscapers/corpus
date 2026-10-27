@@ -1,0 +1,11 @@
+{
+ "aspect": "response;cii",
+ "fact": "The National KE-CIRT/CC reports it detected over 2.6 billion cyber threat events and issued 20,258,111 advisories to critical information infrastructure sectors in July-September 2026.",
+ "title": "2026-27 Q1 Cyber Security Report - Public Version",
+ "publisher": "Communications Authority of Kenya (National KE-CIRT/CC)",
+ "published": "2026",
+ "date_source": "proxy",
+ "select": true,
+ "sub_indicator": "readiness",
+ "why_not": ""
+}

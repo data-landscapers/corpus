@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "From 11 to 22 May 2026 the ITU ran a knowledge transfer mission to gmCSIRT under the World Bank-funded WARDIP, training on incident handling (RTIR), threat intelligence and incident procedures.",
+ "title": "ITU Concludes Knowledge Transfer Mission to Strengthen gmCSIRT's Cybersecurity Capabilities",
+ "publisher": "gmCSIRT",
+ "published": "2026-07-16",
+ "date_source": "source",
+ "why_not": ""
+}

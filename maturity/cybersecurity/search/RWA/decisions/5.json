@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response;cii",
+ "fact": "NCSI version of 16 Mar 2026 credits Rwanda with the National Cybersecurity Strategy 2024-2029, a designated national CERT (Rw-CERT) with nationwide responsibilities, and a legal framework (Law 26/2017, Article 11) to identify critical information infrastructure.",
+ "title": "NCSI :: Rwanda",
+ "publisher": "e-Governance Academy Foundation (National Cyber Security Index)",
+ "published": "2026-03-16",
+ "date_source": "source",
+ "why_not": ""
+}

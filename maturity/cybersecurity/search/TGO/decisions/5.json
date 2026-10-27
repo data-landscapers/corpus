@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 3 December 2024 the ANCy issued a public communiqué warning of an online scam offering a fictitious 45,000 XOF Christmas grant in the President's name.",
+ "title": "Communiqué de l'ANCy en rapport à l'arnaque en ligne en actualité",
+ "publisher": "Agence Nationale de la Cybersécurité (ANCy)",
+ "published": "2024-12-03",
+ "date_source": "source",
+ "why_not": ""
+}

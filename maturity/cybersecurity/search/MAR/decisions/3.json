@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "In 2024 the DGSSI recorded 644 cyberattacks, 134 of which required a maCERT response, and issued 1,050 notifications and 575 security bulletins, as the minister told the Lower House.",
+ "title": "Hackers Have Launched 644 Cyberattacks Against Morocco in 2024",
+ "publisher": "Barlamantoday",
+ "published": "2024-11-15",
+ "date_source": "source",
+ "why_not": ""
+}

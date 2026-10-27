@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 24 July 2025 the Uganda National CERT and Coordination Center (CERT.UG/CC) issued an advisory on the actively exploited SharePoint 'ToolShell' vulnerability chain.",
+ "title": "Spoofing and Remote Code Execution chain vulnerability",
+ "publisher": "Uganda National Computer Emergency Response Team (CERT.UG/CC)",
+ "published": "2025-07-24",
+ "date_source": "source",
+ "why_not": ""
+}

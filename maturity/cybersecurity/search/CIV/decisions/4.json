@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The Council of Ministers of 30 October 2024 adopted the decree creating the Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI).",
+ "title": "Création de l'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI)",
+ "publisher": "Ministère de la Transition Numérique et de la Digitalisation",
+ "published": "2024-10-30",
+ "date_source": "source",
+ "why_not": ""
+}

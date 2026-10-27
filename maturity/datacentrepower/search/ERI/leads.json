@@ -1,0 +1,6 @@
+[
+{"url":"https://computecompute.org/law/er","title":"Data-center law in Eritrea","publisher":"computecompute.org","published":"","sub_indicator":"infra.energy--sufficient-energy-and-water-for-data-centres","why":"Q3 no data-centre-specific power statute or tariff; electricity permit regime"},
+{"url":"https://aictem.org/files/publications/infrastructure/ERI_infrastructure_diagnostic.pdf","title":"Eritrea infrastructure diagnostic","publisher":"AICTEM","published":"2025","sub_indicator":"infra.energy--sufficient-energy-and-water-for-data-centres","why":"Q1 national power shortfall: unserved energy, negative reserve margin"},
+{"url":"https://www.ecofinagency.com/news-industry/2602-53285-eritrea-launches-34-mw-solar-project-expected-to-benefit-306-000-people","title":"Eritrea Launches 34-MW Solar Project","publisher":"Ecofin Agency","published":"2026-02-26","sub_indicator":"infra.energy--sufficient-energy-and-water-for-data-centres","why":"Q3 context: grid supply additions, none set aside for data centres"},
+{"url":"https://arxiv.org/html/2412.03716v3","title":"A Water Efficiency Dataset for African Data Centers","publisher":"arXiv","published":"2026-06-12","sub_indicator":"infra.energy--sufficient-energy-and-water-for-data-centres","why":"Q5 modelled WUE only; no Eritrean facility publishes water use"}
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "CERT-MU reported that 6073 incidents were reported on MAUCORS+ in 2025 and that it responded to more than 5000 incidents in 2025.",
+ "title": "Cybersecurity Threat Report 2026",
+ "publisher": "CERT-MU",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

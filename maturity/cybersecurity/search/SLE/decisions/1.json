@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "On 14 January 2025 Sierra Leone launched its National Cyber Security Incident Response Team (CSIRT) and National Digital Forensics Lab at the National Cybersecurity Coordination Centre headquarters in Freetown.",
+ "title": "ECOWAS and Sierra Leone launch National Cybersecurity Incident Response Team and Digital Forensics Lab in Freetown",
+ "publisher": "ECOWAS",
+ "published": "2025-01-17",
+ "date_source": "source",
+ "why_not": ""
+}

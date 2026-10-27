@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "The National Cybersecurity Strategy (2021-2025) of the Ministry of Information and Communications sets goals to establish a National Cybersecurity Center and national CSIRT and to protect Critical National Information Infrastructure.",
+ "title": "National Cybersecurity Strategy (2021-2025)",
+ "publisher": "Ministry of Information and Communications, Government of Sierra Leone",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The National Computer Incident Response Team operates under POTRAZ and coordinates detection and mitigation of incidents for government, business and citizens.",
+ "title": "National CIRT Enhances Zimbabwe's Cyber security Resilience",
+ "publisher": "TechnoMag",
+ "published": "2025-10-20",
+ "date_source": "source",
+ "why_not": ""
+}

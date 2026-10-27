@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "The NCSI, updated 15 May 2025, credits Sierra Leone with a national CERT with nationwide responsibilities (the National Computer Security Incidence Response Coordination Centre under Part II, ss. 2-3 of the Cyber Security and Crime Act 2021) and scores its cyber incident response area 6 of 14.",
+ "title": "Sierra Leone - eGA NCSI",
+ "publisher": "e-Governance Academy (National Cyber Security Index)",
+ "published": "2025-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

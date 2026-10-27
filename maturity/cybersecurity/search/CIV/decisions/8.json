@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii;response",
+ "fact": "Article 16 of decree 2021-917 of 22 December 2021 requires every public or private body to inform ARTCI immediately of attacks, intrusions and other disruptions to its information system.",
+ "title": "Décret n° 2021-917 du 22 décembre 2021 définissant les procédures d'audit, de contrôle et de certification des systèmes d'information",
+ "publisher": "Présidence de la République de Côte d'Ivoire",
+ "published": "2021-12-22",
+ "date_source": "source",
+ "why_not": ""
+}

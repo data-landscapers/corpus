@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "law",
+ "aspect": "standing",
+ "fact": "ANSSI's page presents Law L/2016/037/AN on cybersecurity and personal data as adopted and promulgated, listing offences and penalties (unauthorised access 1 to 5 years, system interference 3 to 6 years, fraudulent interception 5 to 10 years).",
+ "title": "Loi relative a la Cybersecurite et la protection des donnees a caractere personnel",
+ "publisher": "ANSSI Guinee",
+ "published": "2025-03-13",
+ "date_source": "proxy",
+ "why_not": ""
+}

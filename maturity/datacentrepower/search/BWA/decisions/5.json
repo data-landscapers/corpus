@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "water",
+ "fact": "The Orange Botswana Innovation Hub data centre in Gaborone eliminated water use for HVAC operation, using a VRF cooling system.",
+ "title": "Orange BIH data centre, Gaborone",
+ "publisher": "Infrastructure Global",
+ "published": "2023-01-26",
+ "date_source": "proxy",
+ "why_not": ""
+}

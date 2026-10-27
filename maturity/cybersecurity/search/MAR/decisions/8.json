@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "Decree 2-21-406 of 15 July 2021, under Law 05-20, designates the DGSSI as the National Cybersecurity Authority, and the law sets a duty on entities and vital infrastructures to report incidents to it; the 2030 National Cybersecurity Strategy is held as the current strategy.",
+ "title": "NCSI :: Morocco",
+ "publisher": "e-Governance Academy",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "UNICRI reports that Sierra Leone, despite enabling legislation, has no formalized, publicly accessible cybercrime data and no centralized system capturing reported cybercrimes, and notes the NC3 CSIRT launch of January 2025.",
+ "title": "Access to Justice in the Digital Age: Empowering victims of cybercrime in Africa",
+ "publisher": "UNICRI",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

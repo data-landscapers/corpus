@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "",
+ "why_not": "Vendor case study about generator redundancy at an unnamed data centre; no grid feed, stoppage, PUE or water fact."
+}

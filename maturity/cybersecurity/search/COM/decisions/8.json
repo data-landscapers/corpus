@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "The NCSI entry updated 14 Feb 2025 credits Comoros with ANADEN as designated cybersecurity authority under Art. 6 of Law 21-012/AU, a national CERT, and incident-reporting obligations under Arts. 46, 60 and 61.",
+ "title": "NCSI :: Comoros",
+ "publisher": "e-Governance Academy",
+ "published": "2025-02-14",
+ "date_source": "source",
+ "why_not": ""
+}

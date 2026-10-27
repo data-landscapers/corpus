@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Managed Colocation product sheet",
+ "publisher": "Link Data Center (LDC)",
+ "published": "",
+ "date_source": "",
+ "why_not": "Undated product sheet giving PUE rating 1.6 for a partner (GPX) facility in New Cairo; no document date, so no dated fact."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "ITWeb reported on 31 July 2024 that a cybersecurity institute director said the government's cybersecurity strategy is still not in place and that the national CSIRT, the Cybersecurity Hub, is 'dysfunctional'.",
+ "title": "SA's sluggish approach to cyber security regulation laid bare",
+ "publisher": "ITWeb",
+ "published": "2024-07-31",
+ "date_source": "source",
+ "why_not": ""
+}

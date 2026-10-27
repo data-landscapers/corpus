@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Sovereignty on Loan: Infrastructure, Financing and Fiscal Governance of Data Centres in Dakar, Senegal",
+ "publisher": "Lyla Latif",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "States a 30,000-litre diesel reserve at Diamniadio and that no Dakar operator publishes a PUE; no secured supply, set-aside power, PUE of 1.6 or less or water figure, and no data centre stopped for want of power."
+}

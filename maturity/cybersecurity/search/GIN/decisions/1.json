@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "ANSSI Guinee's bulletin page lists seven public security alert bulletins on critical vulnerabilities (Cisco ISE, Apple, VMware, TeamViewer, FortiOS, FortiSwitch) dated 22 April 2026.",
+ "title": "BULLETIN D'INFORMATION",
+ "publisher": "ANSSI Guinee",
+ "published": "2026-04-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "The NCSI version of 31 July 2023 scores Sudan 0 for a national cyber security strategy, for identified operators of essential services and for incident-reporting responsibility, and credits Sudan CERT as the national incident response unit.",
+ "title": "Sudan - eGA NCSI",
+ "publisher": "e-Governance Academy (National Cyber Security Index)",
+ "published": "2023-07-31",
+ "date_source": "source",
+ "why_not": ""
+}

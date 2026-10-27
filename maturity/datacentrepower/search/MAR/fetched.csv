@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.mmsp.gov.ma/fr/actualites/signature-d%E2%80%99une-convention-pour-l%E2%80%99op%C3%A9rationnalisation-du-campus-datacenter-vert-%C2%AB-igoudar-num%C3%A9rique-%C2%BB-%C3%A0-dakhla,held,held as raw/2026/2026-04-14-mmsp-convention-igoudar-numerique-dakhla.md,,0,,
+2,https://dabafinance.com/en/news/morocco-data-centers-ai-energy-europe,held,held as raw/2026/2026-01-10-dabafinance-morocco-data-centre-pipeline-power-gaps.md,,0,,
+3,https://ubik.ae/projects/n-plus-one,fetched,,scripts/.workroot/study/datacentrepower/cache/MAR/3.txt,548,html,"N+ONE CMN Hyperscale Data Center, Casablanca-Nouaceur | UBIK"
+4,https://doi.org/10.1007/s11227-025-07858-8,fetched,,scripts/.workroot/study/datacentrepower/cache/MAR/4.txt,46,html,Client Challenge
+5,https://btw.media/en/none-powers-africas-it-infrastructure-with-colocation-cloud,fetched,,scripts/.workroot/study/datacentrepower/cache/MAR/5.txt,359,html,"N+ONE powers Africa’s IT infrastructure with colocation, cloud"
+6,https://aidc-expo.com/news/insights-updates/consortium-plans-500mw-of-ai-compute-in-morocco,fetched,,scripts/.workroot/study/datacentrepower/cache/MAR/6.txt,565,html,Consortium plans 500MW of AI compute in Morocco | AIDC² Expo
+7,https://nplusone.africa/morocco-datacenter/,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+8,https://atlascloudservices.com/en/our-data-center/,fetched,,scripts/.workroot/study/datacentrepower/cache/MAR/8.txt,400,html,Our Data Center

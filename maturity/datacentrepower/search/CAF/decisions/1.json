@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "LinkedIn post; the dual feeds are internal power distribution feeds, not two grid feeds or a dedicated line; undated text."
+}

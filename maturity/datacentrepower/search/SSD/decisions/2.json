@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "As of September 2025 data centres in Juba rely heavily on on-site generation and redundant power systems to manage frequent grid fluctuations, in the absence of a stable national utility.",
+ "title": "Data Centers in Juba, South Sudan",
+ "publisher": "Inflect",
+ "published": "2025-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

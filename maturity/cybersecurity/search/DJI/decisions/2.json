@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response;cii",
+ "fact": "On 16 February 2026 the ANC organised a national cyber crisis management exercise at Ayla with government institutions and critical infrastructure operators.",
+ "title": "Organisation d’un Exercice National de Gestion de Crise Cyber par l’ANC",
+ "publisher": "DJ-CERT / Autorité Nationale de Cybersécurité",
+ "published": "2026-02-16",
+ "date_source": "source",
+ "why_not": ""
+}

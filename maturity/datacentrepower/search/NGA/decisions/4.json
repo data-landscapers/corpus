@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "pue",
+ "fact": "Rack Centre states its 12 MW LGS2 data centre in Lagos has a PUE of 1.35.",
+ "title": "Rack Centre LGS2 Data Centre will drive West Africa's digital expansion and economic growth",
+ "publisher": "BusinessDay",
+ "published": "2024-11-11",
+ "date_source": "source",
+ "why_not": ""
+}

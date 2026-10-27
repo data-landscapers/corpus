@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "NUMERIQUE : La Guinee franchit un cap avec son premier data center Tier III",
+ "publisher": "Justinmorel.info",
+ "published": "2026-01-22",
+ "date_source": "proxy",
+ "why_not": "Blog says redundant power via two diesel generators; no grid feeds, substation, PUE or water use stated."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 29 April 2025 the minister said Burkina Faso recorded over 200 alerts a month in 2023, with ransomware (35%) and phishing (40%) attacks declared and handled, and that the SOC and CSIRT are in effective service.",
+ "title": "Cybersécurité : Les directeurs généraux des structures publiques de l'État sensibilisés sur la problématique",
+ "publisher": "Burkina24",
+ "published": "2025-04-29",
+ "date_source": "source",
+ "why_not": ""
+}

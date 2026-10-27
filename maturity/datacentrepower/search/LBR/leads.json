@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://africabusinessinsight.com/liberia-seeks-investors-for-national-data-centre-as-power-constraints-cloud-project/",
+  "title": "Liberia seeks investors for national data centre as power constraints cloud project",
+  "publisher": "Africa Business Insight",
+  "published": "2026-09-30",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1/Q2 power constraints for planned national data centre; stage 1 statement check"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/sarenolia_liberia-datacentre-energy-activity-7513255314755047424-bjEs",
+  "title": "Liberia's Data Centre Impasse",
+  "publisher": "LinkedIn (commentary)",
+  "published": "2026-10-06",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1/Q2 power as obstacle to national data centre"
+ },
+ {
+  "url": "https://www.datacenterdynamics.com/en/news/liberia-and-cybastion-sign-mou-for-data-center-and-subsea-cable/",
+  "title": "Liberia and Cybastion sign MoU for data center and subsea cable",
+  "publisher": "Data Center Dynamics",
+  "published": "2024-09-30",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 states Liberia has no data centres in service"
+ },
+ {
+  "url": "https://www.pytesess.com/Case-Study/liberia-cybersecurity-data-center-backup.html",
+  "title": "45kWh Battery Backup System Powers a Cybersecurity Data Center in Liberia",
+  "publisher": "Pytes",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 backup power at a Monrovia data centre (standby only)"
+ },
+ {
+  "url": "https://mfdp.gov.lr/images/Updated_EXPRESSIONS_OF_INTEREST_for_Battery_Bank_Maintenance.pdf",
+  "title": "Request for Expressions of Interest: Maintenance of Battery Bank and Inverter System for IFMIS Data Center",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 government IFMIS data centre power backup"
+ },
+ {
+  "url": "https://mfdp.gov.lr/index.php/component/edocman/installation-and-maintenance-of-the-dedicated-ifmis-dark-fiber-connectivity-network-and-data-center-co-location-and-maintenance-services-liberia-telecommunication-corporation-libtelco?Itemid=0",
+  "title": "Installation and Maintenance of the Dedicated IFMIS Dark Fiber Connectivity Network and Data Center Co-location",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "2021-11-08",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 IFMIS data centre colocation at Libtelco"
+ },
+ {
+  "url": "https://datacentr.net/markets/liberia/",
+  "title": "Data centers in Liberia",
+  "publisher": "Data Center Watch",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1-Q4 lists CLS Monrovia, power not stated"
+ },
+ {
+  "url": "https://www.afdb.org/en/documents/spn-liberia-data-centers-upgrade-main-dr-lpisup-97260",
+  "title": "SPN - Liberia - Data Centers Upgrade (Main and Dr) - LPISUP",
+  "publisher": "African Development Bank",
+  "published": "2026-10-05",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1 central bank payment data centres upgrade"
+ }
+]

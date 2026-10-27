@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply;water",
+ "fact": "Business Day reported on 8 September 2026 an S&P Global assessment that South Africa's data-centre growth is limited by power availability and that South Africa has relatively low water resilience.",
+ "title": "SA's data-centre boom risks hitting a wall over water and power",
+ "publisher": "Business Day",
+ "published": "2026-09-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

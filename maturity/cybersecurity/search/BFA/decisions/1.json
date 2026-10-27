@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "In 2025 the national CSIRT accompanied 783 actors (prevention, incident handling, technical assistance), according to the Ministry of Digital Transition.",
+ "title": "Cybersécurité : le Burkina Faso teste 205 plateformes publiques et renforce la protection de 28 organismes",
+ "publisher": "Business 360",
+ "published": "2026-08-28",
+ "date_source": "source",
+ "why_not": ""
+}

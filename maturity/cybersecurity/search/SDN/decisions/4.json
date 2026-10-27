@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "Sudan-CERT, the authority's national incident response centre, issued a high-level security warning on a new wave of ransomware attacks targeting small and medium enterprises, dated 1 November 2025.",
+ "title": "الهيئة تصدر تحذيراً عاجلاً حول برمجية فدية جديدة تستهدف قطاع الشركات الصغيرة والمتوسطة",
+ "publisher": "الهيئة الوطنية للأمن السيبراني السوداني",
+ "published": "2025-11-01",
+ "date_source": "source",
+ "why_not": ""
+}

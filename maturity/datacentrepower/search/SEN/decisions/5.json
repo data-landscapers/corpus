@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Onix CEO, Mike Nahon's Speech at Data Centre Launch in Senegal",
+ "publisher": "Onix Data Centre",
+ "published": "2023-02-24",
+ "date_source": "proxy",
+ "why_not": "Market and cable-landing speech; no power, PUE or water statement."
+}

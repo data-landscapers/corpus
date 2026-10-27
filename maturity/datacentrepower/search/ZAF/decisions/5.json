@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "pue;water",
+ "fact": "Teraco reported an average annual PUE of 1.47 in 2024 and water use of 0.05 litres per kWh in 2024 with zero-water cooling solutions.",
+ "title": "Teraco releases fourth annual Sustainability Report",
+ "publisher": "Teraco",
+ "published": "2025-09-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "pue",
+ "fact": "The Atlas Cloud Services data centre in Benguerir, with a 5 MW IT load and free cooling, states a PUE of 1.5.",
+ "title": "Atlas Cloud Services: World-Class Data Center in Morocco",
+ "publisher": "Atlas Cloud Services",
+ "published": "2024-10-17",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The national cybersecurity strategy 2022-2025 was validated by the President and presented to the Council of Ministers on 14 October 2022, with seven strategic axes.",
+ "title": "la Stratégie nationale de cybersécurité",
+ "publisher": "Présidence de la République démocratique du Congo",
+ "published": "2023-06-23",
+ "date_source": "source",
+ "why_not": ""
+}

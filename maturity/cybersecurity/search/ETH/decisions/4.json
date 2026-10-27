@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "INSA reported preventing 13,494 cyberattacks and auditing 410 institutions during the 2024/25 fiscal year, and handling 6,193 fraud and digital forensic cases.",
+ "title": "INSA Director General Highlights Key Achievements in National Cybersecurity",
+ "publisher": "Information Network Security Administration",
+ "published": "2025-08-19",
+ "date_source": "source",
+ "why_not": ""
+}

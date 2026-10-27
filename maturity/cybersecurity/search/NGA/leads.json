@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://cert.gov.ng/advisories/m0yv-malware-infection",
+  "title": "ngCERT Alerts & Advisories: M0yv malware infection",
+  "publisher": "ngCERT",
+  "published": "2025-11-28",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2 national alert"
+ },
+ {
+  "url": "https://csirt.ncc.gov.ng/index.php/resources/security-advisories/420-ngcert-security-advisory-on-escalating-cybersecurity-threats-and-ongoing-attacks-targeting-organisations-in-nigeria",
+  "title": "ngCERT: Security Advisory on Escalating Cybersecurity Threats",
+  "publisher": "NCC-CSIRT",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2 alert, mentions CNII, strategy as amended 2024"
+ },
+ {
+  "url": "https://cert.gov.ng/index.php/advisories/lumma-stealer-lummac2-significant-info-stealing-malware-threat",
+  "title": "ngCERT Alerts & Advisories: Lumma Stealer",
+  "publisher": "ngCERT",
+  "published": "2025-05-27",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2 alert"
+ },
+ {
+  "url": "https://cert.gov.ng/index.php/advisories/spread-of-nymaim-malware-infection",
+  "title": "ngCERT Alerts & Advisories: Nymaim",
+  "publisher": "ngCERT",
+  "published": "2025-01-30",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2 alert"
+ },
+ {
+  "url": "https://businessday.ng/technology/article/nigerias-digital-boom-threatened-as-fg-issues-33-alerts/",
+  "title": "Nigeria's digital boom threatened as FG issues 33 alerts",
+  "publisher": "BusinessDay",
+  "published": "2024-07-18",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2/Q4 count of advisories issued"
+ },
+ {
+  "url": "https://cert.gov.ng/ngcert/resources/cnii-gazette.pdf",
+  "title": "Designation and Protection of Critical National Information Infrastructure Order, 2024",
+  "publisher": "Federal Republic of Nigeria",
+  "published": "2024-06-25",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q3 CNII designated"
+ },
+ {
+  "url": "https://cert.gov.ng/advisories/escalation-of-ransomware-attack-in-nigeria",
+  "title": "ngCERT Alerts & Advisories: escalation of ransomware",
+  "publisher": "ngCERT",
+  "published": "2024-07-08",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2 alert and incident handling"
+ },
+ {
+  "url": "https://cert.gov.ng/index.php/rfc2350",
+  "title": "ngCERT RFC 2350 Profile",
+  "publisher": "ngCERT",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1 national CERT established under Cybercrimes Act"
+ }
+]

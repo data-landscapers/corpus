@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 26 May 2024 the Eritrean Ministry of Information announced that a massive cyber attack on Eritrea's Internet System on 24 May 2024 was foiled by defensive countermeasures with no interruption (issued by the Ministry of Information, not a named national cyber body).",
+ "title": "Massive cyber attack against Eritrea's Internet System",
+ "publisher": "Eritrea Ministry of Information (Shabait)",
+ "published": "2024-05-26",
+ "date_source": "source",
+ "why_not": ""
+}

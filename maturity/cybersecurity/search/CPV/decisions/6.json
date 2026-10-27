@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 22 March 2024 NOSi technicians and a Polícia Judiciária team were investigating the origin of a ransomware attack that had hampered the National Assembly since the previous week.",
+ "title": "Ataque cibernético está a condicionar o funcionamento da Assembleia Nacional",
+ "publisher": "RTC",
+ "published": "2024-03-22",
+ "date_source": "source",
+ "why_not": ""
+}

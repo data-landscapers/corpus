@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The CI-CERT published numbered public security alerts, including CICERT-2024/AS004 on 15 February 2024 (critical vulnerability in Zoom for Windows) and AS001 on 22 January 2024.",
+ "title": "CI-CERT – Centre national de veille, d'alerte et de réponse aux incidents de cybersécurité",
+ "publisher": "CI-CERT",
+ "published": "2024-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

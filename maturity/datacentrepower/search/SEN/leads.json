@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://nplusone.africa/",
+  "title": "N+ONE Datacenters Africa",
+  "publisher": "N+ONE Datacenters",
+  "published": "2024-06-24",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3,Q4: states PUE 1.03-1.3 and free cooling; DKR campus Dakar"
+ },
+ {
+  "url": "https://img1.wsimg.com/blobby/go/7d8e3523-0405-49a2-9172-6dc8c2c33a2f/Sovereignty%20on%20Loan%20Dakar%20Data%20Centres.pdf",
+  "title": "Sovereignty on Loan",
+  "publisher": "Lyla Latif",
+  "published": "2026",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1,Q3: Dakar data centres power, diesel reserve, no operator publishes PUE"
+ },
+ {
+  "url": "https://www.datacenterdynamics.com/en/news/paix-data-centres-breaks-ground-on-facility-in-dakar-senegal/",
+  "title": "Paix Data Centres breaks ground on facility in Dakar, Senegal",
+  "publisher": "DatacenterDynamics",
+  "published": "2025-01-23",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4: PAIX Dakar water-saving cooling commitment (not in service)"
+ },
+ {
+  "url": "https://onixdatacentres.com/o-home/senegal/infrastructure/",
+  "title": "Infrastructure – Onix Data Centre",
+  "publisher": "Onix Data Centre",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1,Q4: grid plus solar farm; groundwater reverse osmosis"
+ },
+ {
+  "url": "https://onixdatacentres.com/2023/02/24/onix-ceo-mike-nahons-speech-senegal/",
+  "title": "Onix CEO Mike Nahon's Speech at Data Centre Launch in Senegal",
+  "publisher": "Onix Data Centre",
+  "published": "2023-02-24",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Dakar launch speech"
+ },
+ {
+  "url": "https://www.socialnetlink.org/2021/06/22/zoom-sur-le-nouveau-data-center-de-diamniadio-caracteristiques-et-specificites/",
+  "title": "Zoom sur le nouveau Data Center de Diamniadio",
+  "publisher": "Socialnetlink",
+  "published": "2021-06-22",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Senelec delivery post with 3 transformers, N+1 power sources"
+ },
+ {
+  "url": "https://senelec.sn/actualites-medias/inauguration-du-data-center-tier-lll",
+  "title": "Inauguration du Data Center Tier III",
+  "publisher": "Senelec",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Senelec Tier III data centre inaugurated 20 July 2022"
+ },
+ {
+  "url": "https://www.nettali.com/2019/11/28/electricite-le-poste-ais-225-30-kv-de-diamniadio-mis-sous-tension/",
+  "title": "Le poste AIS 225/30 kV de Diamniadio mis sous tension",
+  "publisher": "Nettali",
+  "published": "2019-11-28",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: Diamniadio substation energised; Senelec datacenter foundation"
+ }
+]

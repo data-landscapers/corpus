@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "The Sudanese Information Security Center (Sudan-CERT) was officially announced on 1 January 2010, lists incident handling services as active, and reports the incidents it dealt with in 2018 by type.",
+ "title": "Telecom and Postal Regulatory Authority Sudanese Information Security Center",
+ "publisher": "Telecom and Postal Regulatory Authority (presentation at ITU Arab States event)",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

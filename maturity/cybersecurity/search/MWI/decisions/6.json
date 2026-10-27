@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii;response",
+ "fact": "MACRA's draft Cybersecurity Bill dated 11 March 2024 would have the Minister designate critical information infrastructure, require owners to register and report incidents within 24 hours, and put the Malawi CERT on a statutory footing with sectoral CERTs; it is a draft.",
+ "title": "Cybersecurity Bill, 2023 (Draft: Cybersecurity Bill, 2024)",
+ "publisher": "Malawi Communications Regulatory Authority",
+ "published": "2024-03-11",
+ "date_source": "source",
+ "why_not": ""
+}

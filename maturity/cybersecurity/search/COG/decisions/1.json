@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii",
+ "fact": "Décret n° 2025-512 du 29 décembre 2025 sets the legal regime for critical information infrastructures and operators of vital importance, whose operators must report cybersecurity incidents without delay to the ANSSI and sectoral CERT.",
+ "title": "Décret n° 2025-512 du 29 décembre 2025 fixant le régime juridique applicable aux infrastructures d'information critiques et aux opérateurs d'importance vitale (Journal officiel du 16 avril 2026)",
+ "publisher": "Journal officiel de la République du Congo",
+ "published": "2026-04-16",
+ "date_source": "source",
+ "why_not": ""
+}

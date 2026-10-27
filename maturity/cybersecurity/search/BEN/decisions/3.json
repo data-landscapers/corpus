@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "bjCSIRT is the National CSIRT of the Republic of Benin, operating 24/7, and its stated mission covers the government and Critical Information Infrastructure Operators; the declaration was last updated 14 October 2024.",
+ "title": "RFC 2350 declaration (English version)",
+ "publisher": "bjCSIRT",
+ "published": "2024-10-14",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "ANTIC's national CIRT held a five-day incident-response workshop with FIRST on 15 May 2025 and is applying to join FIRST.",
+ "title": "Strengthening Cameroon's Cyber Resilience Through Global Cooperation and Capacity Building",
+ "publisher": "ANTIC",
+ "published": "2025-05-15",
+ "date_source": "source",
+ "why_not": ""
+}

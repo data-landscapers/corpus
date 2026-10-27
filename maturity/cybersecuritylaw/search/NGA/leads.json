@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.efcc.gov.ng/news/court-jails-two-chinese-46-years-each-for-n34bn-25m-cyberterrorism-internet-fraud-in-lagos",
+  "title": "Court Jails Two Chinese 46 Years Each for cyberterrorism, internet fraud in Lagos",
+  "publisher": "EFCC",
+  "published": "2026-02-11",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3 conviction"
+ },
+ {
+  "url": "https://africacheck.org/fact-checks/meta-programme-fact-checks/no-nigeria-has-not-passed-new-cybercrimes-law-2025",
+  "title": "No, Nigeria has not passed a new cybercrimes law in 2025",
+  "publisher": "Africa Check",
+  "published": "2025-09-16",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2 2024 amendment is current law"
+ },
+ {
+  "url": "https://punchng.com/court-jails-four-filipinos-eight-nigerians-for-internet-fraud-cyber-terrorism/",
+  "title": "Cyber Fraud: 12 Jailed in Lagos Court",
+  "publisher": "Punch",
+  "published": "2025-06-13",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3 convictions under Cybercrimes Act"
+ },
+ {
+  "url": "https://naltf.gov.ng/nigerias-cybercrime-reform/",
+  "title": "Nigeria's Cybercrime Reform",
+  "publisher": "NALTF",
+  "published": "2025-05-22",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2 amendment signed 28 Feb 2024"
+ },
+ {
+  "url": "https://www.naijanews.com/2025/03/31/cybercrime-bust-asset-recovery-and-high-profile-trials-efcc-2024-in-numbers/",
+  "title": "Cybercrime Bust, Asset Recovery And High Profile Trials: EFCC 2024 In Numbers",
+  "publisher": "Naija News",
+  "published": "2025-03-31",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4 yearly figures"
+ },
+ {
+  "url": "https://www.legal500.com/intelligence/nigeria/technology/a-review-of-the-cybercrimes-prohibition-prevention-etc-amendment-act-2024-and-the-proposed-cybersecurity-levy",
+  "title": "A Review Of The Cybercrimes (Amendment) Act 2024",
+  "publisher": "Legal 500",
+  "published": "2024-05-30",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2 law assented 28 Feb 2024"
+ },
+ {
+  "url": "https://www.vanguardngr.com/2024/05/nsa-orders-enforcement-of-cybercrimes-law/",
+  "title": "NSA orders enforcement of Cybercrimes law",
+  "publisher": "Vanguard",
+  "published": "2024-05-03",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2 in force, enforcement ordered"
+ },
+ {
+  "url": "https://placng.org/i/wp-content/uploads/2024/05/Cybercrimes-Prohibition-Prevention-etc-Amendment-Act-2024.pdf",
+  "title": "Cybercrimes (Prohibition, Prevention, etc) (Amendment) Act, 2024",
+  "publisher": "National Assembly / PLAC",
+  "published": "2024",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1/Q2 text of the Act"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "CERT-MU handled over 5000 incidents submitted via MAUCORS in 2024 and published incident counts by category.",
+ "title": "Cybersecurity Trends & Predictions 2025",
+ "publisher": "CERT-MU",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

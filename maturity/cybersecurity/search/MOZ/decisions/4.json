@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "A World Bank technical note of December 2025, prepared with FIRST and INTIC, reports Mozambique's progress since the 2021 cybersecurity policy and strategy (Resolution 69/2021), with a national CSIRT and sectoral and provincial CSIRTs already operating in the national CSIRT network.",
+ "title": "Relatório do Banco Mundial Destaca Avanços Significativos na Segurança Cibernética em Moçambique",
+ "publisher": "Instituto Nacional de Tecnologias de Informação e Comunicação (INTIC)",
+ "published": "2026-01-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

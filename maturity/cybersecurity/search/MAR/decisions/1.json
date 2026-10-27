@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The DGSSI recorded 879 cyberattacks in 2025 (to September), 109 of which needed direct intervention by the maCERT monitoring and response centre, which also published 511 security bulletins, 248 of them critical.",
+ "title": "DGSSI: 879 cyberattaques recensées en 2025, 109 interventions directes",
+ "publisher": "H24info",
+ "published": "2025-11-14",
+ "date_source": "source",
+ "why_not": ""
+}

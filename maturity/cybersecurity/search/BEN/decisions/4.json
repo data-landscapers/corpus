@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "The SNSN 2023-2026 states the first strategy was approved by the Council of Ministers on 6 May 2020, that the ASIN was created in 2022, and that bjCSIRT handled 12, 17, 62 and 38 digital security incidents in 2020 to 2023.",
+ "title": "Stratégie Nationale de Sécurité Numérique 2023-2026",
+ "publisher": "Agence des Systèmes d'Information et du Numérique (ASIN)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

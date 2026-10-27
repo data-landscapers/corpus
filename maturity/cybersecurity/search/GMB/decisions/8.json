@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "In April 2019 the Oxford capacity review found no adopted national cybersecurity strategy (2016 draft not adopted), no national incident response body and no incident reporting regulation; GM-CSIRT was planned for 2019.",
+ "title": "Cybersecurity Capacity Review: The Gambia",
+ "publisher": "Global Cyber Security Capacity Centre, University of Oxford",
+ "published": "2019-04",
+ "date_source": "source",
+ "why_not": ""
+}

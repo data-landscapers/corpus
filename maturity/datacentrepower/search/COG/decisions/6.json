@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The July 2025 Xalam market briefing states Congo's power capacity and reliability are well below data centre demand requirements, with grid generation near 300 MW from a single Pointe-Noire plant.",
+ "title": "Data Center Market Brief: Congo Republic",
+ "publisher": "Xalam Analytics for D4D Hub",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

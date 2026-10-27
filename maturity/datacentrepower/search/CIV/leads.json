@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Cote-dIvoire-2026.pdf",
+  "title": "Data Center Market Brief: Côte d'Ivoire",
+  "publisher": "Xalam Frontier Markets / D4D Hub",
+  "published": "2026",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Power supply and price context for data centres (Q2-Q3)"
+ },
+ {
+  "url": "https://african.business/2025/12/technology-information/inside-the-race-to-fire-up-africas-power-hungry-data-centres",
+  "title": "Inside the race to fire up Africa's power-hungry data centres",
+  "publisher": "African Business",
+  "published": "2025-12-23",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Raxio two dedicated MV lines from substation plus diesel backup (Q2)"
+ },
+ {
+  "url": "https://africanreview.com/ict/powering-the-civ1-data-centre-in-cote-d-ivoire",
+  "title": "Powering the CIV1 data centre in Côte d'Ivoire",
+  "publisher": "African Review",
+  "published": "2025-01-03",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Two independent 15kV feeders from CIE substation (Q2)"
+ },
+ {
+  "url": "https://www.raxiogroup.com/data-centres/cote-divoire/",
+  "title": "Côte d'Ivoire – Raxio Group",
+  "publisher": "Raxio Group",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "CIV1 PUE 1.3, adiabatic cooling, 2N power (Q2, Q4, Q5)"
+ },
+ {
+  "url": "https://www.raxiogroup.com/ivory-coast-gains-significant-boost-to-digital-economy-with-launch-of-raxio-data-centre/",
+  "title": "Ivory Coast Gains Significant Boost to Digital Economy with Launch of Raxio Data Centre",
+  "publisher": "Raxio Group",
+  "published": "2024-09-24",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "CIV1 inaugurated with multiple power paths (Q2)"
+ },
+ {
+  "url": "https://cloudstore.africa/en/datacenter",
+  "title": "Our Datacenters",
+  "publisher": "Cloudstore Africa",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Dual power feed at Abidjan Tier 3 (Q2)"
+ },
+ {
+  "url": "https://orange.africa-newsroom.com/press/orange-et-butec-annoncent-la-mise-en-service-de-la-solarisation-du-groupe-orange-services-gos-afin-de-satisfaire-50-de-la-consommation-denergie-en-journee-du-principal-data-center-dorange-en-afrique",
+  "title": "Orange et Butec annoncent la mise en service de la solarisation du GOS",
+  "publisher": "Orange / APO Group",
+  "published": "2023-01-17",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Solar plant for Grand-Bassam data centre (Q3)"
+ },
+ {
+  "url": "https://newsroom.orange.com/orange-and-engie-join-forces-to-convert-the-gos-oranges-main-data-center-in-africa-to-solar-power-helping-to-reduce-the-carbon-footprint-in-cote-divoire/",
+  "title": "Orange and Engie join forces to convert the GOS to solar power",
+  "publisher": "Orange Newsroom",
+  "published": "2022-02-21",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Energy-as-a-Service contract for data centre (Q3)"
+ }
+]

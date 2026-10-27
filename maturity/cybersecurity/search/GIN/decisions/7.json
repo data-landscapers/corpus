@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "The 2022-2027 national cybersecurity policy and strategy rates Guinea's maturity at the CMM 'demarrage' stage, says strategy work began in 2019, and sets actions to create a national CERT, identify critical information infrastructure and impose binding incident reporting; none of these is yet stated as done.",
+ "title": "Politique et strategie nationales de cyber securite 2022-2027",
+ "publisher": "Republique de Guinee",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

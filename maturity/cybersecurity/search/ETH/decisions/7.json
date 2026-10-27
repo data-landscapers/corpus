@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "INSA said it thwarted 98.56 percent of 4,623 attempted cyberattacks in the first six months of the 2023/24 fiscal year (dateline 31 January 2024).",
+ "title": "INSA Thwarts Close to 99 Percent Attempted Cyberattacks in Half Year",
+ "publisher": "Ethiopian News Agency",
+ "published": "2024-01-31",
+ "date_source": "source",
+ "why_not": ""
+}

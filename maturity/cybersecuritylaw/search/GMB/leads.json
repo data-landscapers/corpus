@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://monitor.civicus.org/explore/new-criminal-law-and-draft-cybercrime-bill-in-the-gambia-threatens-press-freedom-freedom-of-expression-and-digital-rights/",
+  "title": "New criminal law and Draft Cybercrime Bill in The Gambia threatens press freedom, freedom of expression and digital rights",
+  "publisher": "CIVICUS Monitor",
+  "published": "2025-10-23",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2: Cybercrime Bill pending"
+ },
+ {
+  "url": "https://foroyaa.net/rising-cyber-threats-alarm-gambians/",
+  "title": "Rising Cyber Threats Alarm Gambians",
+  "publisher": "Foroyaa Newspaper",
+  "published": "2025-10-13",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3/Q4: convictions and police statement on laws used"
+ },
+ {
+  "url": "https://www.kerrfatou.com/gambia-police-force-secures-convictions-in-major-cybercrime-case/",
+  "title": "Gambia Police Force Secures Convictions in Major Cybercrime Case",
+  "publisher": "Kerr Fatou Online Media House",
+  "published": "2025-10-01",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: dated conviction"
+ },
+ {
+  "url": "https://www.voicegambia.com/immigration-department-to-deport-over-100-foreigners-convicted-of-cybercrimes/",
+  "title": "Immigration Department To Deport Over 100 Foreigners Convicted of Cybercrimes",
+  "publisher": "The Voice Gambia",
+  "published": "2025-09-19",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3/Q4: convictions under ICA ss.168 and 173"
+ },
+ {
+  "url": "https://foroyaa.net/sixty-chinese-vietnamese-in-court-for-cybercrime-case/",
+  "title": "Sixty Chinese & Vietnamese in Court for Cybercrime Case",
+  "publisher": "Foroyaa Newspaper",
+  "published": "2025-09-11",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: dated charges and pleas"
+ },
+ {
+  "url": "https://paradigmhq.org/londa2025/countries/gambia.html",
+  "title": "The Gambia - LONDA 2025",
+  "publisher": "Paradigm Initiative",
+  "published": "2025",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2: Communication Bill 2025 gazetted, cybersecurity provisions"
+ },
+ {
+  "url": "https://upr-info.org/sites/default/files/country-document/2025-09/A_HRC_WG.6_48_GMB_1_E.pdf",
+  "title": "UPR National report: The Gambia (A/HRC/WG.6/48/GMB/1)",
+  "publisher": "Government of The Gambia / UN Human Rights Council",
+  "published": "2025-09",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2: Cyber Crime Bill 2023 before select committee"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/police-secure-conviction-for-alleged-computer-related-extortion",
+  "title": "Police secure conviction for alleged computer-related extortion",
+  "publisher": "The Point",
+  "published": "2024-08-09",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: dated conviction"
+ }
+]

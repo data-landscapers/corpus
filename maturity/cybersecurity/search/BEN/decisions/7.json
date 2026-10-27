@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii",
+ "fact": "Decree no. 2023-060 of 22 February 2023 approves the CII protection policy, which sets the process for designating CII operators by a list adopted in Council of Ministers.",
+ "title": "Règles de politique de protection des infrastructures d'information critiques en République du Bénin (Décret N° 2023-060)",
+ "publisher": "Agence des Systèmes d'Information et du Numérique (ASIN)",
+ "published": "2023-02-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

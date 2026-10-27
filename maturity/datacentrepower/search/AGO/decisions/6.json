@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "",
+ "why_not": "Fetch returned only a 40-word intro; the PUE of 1.3 seen in search highlights is not in the fetched text."
+}

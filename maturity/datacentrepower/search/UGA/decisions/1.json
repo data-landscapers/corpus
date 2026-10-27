@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The ERA's Q1 2026 tariff review (23 March 2026) states data centres are now large customers connected to the national grid and projects UETCL sales of 400.3 GWh (4.55 percent of energy sold) to data centres in 2026.",
+ "title": "Main Grid Tariff Review Report for the First Quarter (January to March) of 2026",
+ "publisher": "Electricity Regulatory Authority (Uganda)",
+ "published": "2026-03-23",
+ "date_source": "source",
+ "why_not": ""
+}

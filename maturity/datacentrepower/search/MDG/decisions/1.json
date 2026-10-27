@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "DC2-25-IT09 Supply and installation of IT equipment",
+ "publisher": "DECIM Project Coordination Unit (via BidsFactory)",
+ "published": "2026-09-24",
+ "date_source": "source",
+ "why_not": "Tender for upgrading backup generator, UPS and cooling at JIRAMA's two data centres; no state of grid feeds, PUE or water."
+}

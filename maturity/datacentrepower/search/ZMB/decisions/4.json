@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The Paratus Zambia data centre states redundant A and B power feeds from the power utility, one dedicated generator per feed and 72 hours of fuel autonomy.",
+ "title": "Paratus Data Center Fact Sheet",
+ "publisher": "Paratus Zambia",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "No date of its own could be established."
+}

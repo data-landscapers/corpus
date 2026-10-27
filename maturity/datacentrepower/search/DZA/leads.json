@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://algeriatech.news/algeria-national-digital-services-center-tier3-active-active-resilience-2026/",
+  "title": "Algeria's Tier III Twin Data Centers Go Live",
+  "publisher": "ALGERIATECH",
+  "published": "2026-07-10",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: power feeds and Tier III at national data centres in service"
+ },
+ {
+  "url": "https://algeriatech.news/fr/algeria-sovereign-cloud-mohammedia-blida-data-centers-2026-fr/",
+  "title": "Le cloud souverain de l'Algérie : data centers de Mohammedia-Blida",
+  "publisher": "ALGERIATECH",
+  "published": "2026-03-25",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: N+1 redundant power at Mohammedia"
+ },
+ {
+  "url": "https://maghrebemergent.news/fr/le-mohammadia-datacenter-obtient-la-certification-tier-iii-design-une-premiere-en-algerie/",
+  "title": "Le Mohammadia Datacenter obtient la certification Tier III Design",
+  "publisher": "Maghreb Emergent",
+  "published": "2026-02-23",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: dual redundant power feed, Sonelgaz grid"
+ },
+ {
+  "url": "https://www.aps.dz/en/algeria/education-technology/mlyvk9g5-algeria-s-first-national-data-center-obtains-tier-iii-design-certification",
+  "title": "Algeria's First National Data Center obtains Tier III Design certification",
+  "publisher": "Algérie Presse Service",
+  "published": "2026-02-23",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: HCN statement on Mohammadia"
+ },
+ {
+  "url": "https://algeriatech.news/algeria-solar-1480mw-data-center-power-supply-2026/",
+  "title": "1.48 GW Solar: What It Means for Algeria's Data Centers",
+  "publisher": "ALGERIATECH",
+  "published": "2026-05-15",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1/Q3: diesel backup, tariff, PPA framework"
+ },
+ {
+  "url": "https://www.dztenders.com/en/archive/512115/mise-a-niveau-du-systeme-electrique-des-datacenters/",
+  "title": "Mise à niveau du système électrique des datacenters (appel d'offres 07/DCDSI-DESI/Sonelgaz-Services/2026)",
+  "publisher": "Sonelgaz-Services",
+  "published": "2026-04-22",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3: Sonelgaz tender on datacentre electrical systems"
+ },
+ {
+  "url": "https://algeriatech.news/data-center-cooling-desert-climate-algeria/",
+  "title": "Data Center Cooling in a Desert Nation: Algeria's Unique Challenge",
+  "publisher": "ALGERIATECH",
+  "published": "2026-01-22",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q4/Q5: PUE and cooling water in Algerian climate"
+ },
+ {
+  "url": "https://www.algiersbrief.com/article/algeria-s-national-data-center-in-mohammadia-achieves-tier-iii-design-certificat",
+  "title": "Algeria's National Data Center in Mohammadia Achieves Tier III Design Certification",
+  "publisher": "Algiers Brief",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: dual power feeds with N+1"
+ }
+]

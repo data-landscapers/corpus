@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The ANSSI director general said the agency has received more than 900 alerts a day to handle in recent years (Semaine du numérique, November 2025).",
+ "title": "20e édition de la Semaine du numérique : Des experts décryptent les défis de la sécurité et de l'éthique numériques",
+ "publisher": "Pravda Burkina Faso",
+ "published": "2025-11-20",
+ "date_source": "source",
+ "why_not": ""
+}

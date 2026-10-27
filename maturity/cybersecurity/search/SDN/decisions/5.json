@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The page states the National Cybersecurity Authority was established in 2025 as the sole regulatory body for cybersecurity, with a National Cyber Incident Response Center (Sudan-CERT) and a remit over critical infrastructure.",
+ "title": "About the Sudanese National Cybersecurity Authority",
+ "publisher": "Sudanese Cybersecurity Authority",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

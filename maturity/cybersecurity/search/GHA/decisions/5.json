@@ -1,0 +1,11 @@
+{
+ "aspect": "response",
+ "fact": "The CSA issued a public alert on 28 November 2025 (Ref CSA/CERT/MPA/2025-11/01) on Black Friday online shopping scams, citing 266 cases January to October 2025.",
+ "title": "Online shopping scam - Black Friday deals",
+ "publisher": "Cyber Security Authority",
+ "published": "2025-11-28",
+ "date_source": "source",
+ "select": true,
+ "sub_indicator": "readiness",
+ "why_not": ""
+}

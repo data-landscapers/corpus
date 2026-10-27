@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The Council of Ministers meeting of 14 October 2026 adopted the Stratégie nationale de la cybersécurité.",
+ "title": "Communiqué de presse N°13/2026 de la réunion du Conseil des Ministres du mercredi 14 octobre 2026",
+ "publisher": "Présidence de la République du Burundi",
+ "published": "2026-10-14",
+ "date_source": "source",
+ "why_not": ""
+}

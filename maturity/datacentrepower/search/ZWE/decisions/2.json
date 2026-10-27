@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "Econet began construction in July 2026 of the first phase of a solar and battery plant, ultimately 100MW, to supply its Harare network and data centres with the grid as backup.",
+ "title": "Econet Begins Solar Power Project to Improve Network Reliability",
+ "publisher": "TechnoMag",
+ "published": "2026-07-01",
+ "date_source": "source",
+ "why_not": ""
+}

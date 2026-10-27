@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "NAM-CSIRT's fourth-quarter report for October to December 2025 recorded 535,204 vulnerabilities and 195,661 cyber events, a 50.94 percent fall in events from the previous quarter.",
+ "title": "Namibia records a decline in cyber-threat activities",
+ "publisher": "Namibia Economist",
+ "published": "2026-03-18",
+ "date_source": "proxy",
+ "why_not": ""
+}

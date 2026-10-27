@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "Raxio DRC1 datasheet states a 33kV utility supply with future N+N redundancy, no dual feed or dedicated line in service, no PUE figure; undated."
+}

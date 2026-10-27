@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://african.business/2025/12/technology-information/inside-the-race-to-fire-up-africas-power-hungry-data-centres",
+  "title": "Inside the race to fire up Africa's power-hungry data centres",
+  "publisher": "African Business",
+  "published": "2025-12-23",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Raxio CTO says its facilities use two MV power lines direct from a substation"
+ },
+ {
+  "url": "https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/",
+  "title": "Raxio Opens Angola's Largest Data Centre in Landmark $30 Million Expansion",
+  "publisher": "Raxio Group",
+  "published": "2025-10-02",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1,Q4: two dedicated substations, 70% renewable, on-site water recycling"
+ },
+ {
+  "url": "https://www.datacenterdynamics.com/en/news/raxio-launches-data-center-in-luanda-angola/",
+  "title": "Raxio launches data center in Luanda, Angola",
+  "publisher": "DatacenterDynamics",
+  "published": "2025-10-03",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1,Q4: launch of Raxio Luanda, on-site water treatment"
+ },
+ {
+  "url": "https://www.paratus.ao/en/internet-technologies-angola-reforca-presenca-no-mercado-com-inauguracao-do-segundo-parque-energetico/",
+  "title": "Internet Technologies Angola Strengthens Its Market Presence with the Opening of Its Second Energy Park",
+  "publisher": "Paratus Angola",
+  "published": "2025-06-23",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: ITA 1.6 MW on-site power plant for data centre and cloud, 3 days autonomy"
+ },
+ {
+  "url": "https://www.raxiogroup.com/wp-content/uploads/2025/05/RAX016-4-Data-Sheet-SITE-AG1-v3.pdf",
+  "title": "Technical Specifications Site AG1 Raxio Angola",
+  "publisher": "Raxio Group",
+  "published": "2025",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: 33kV utility supply, 2N redundancy; data sheet"
+ },
+ {
+  "url": "https://www.raxiogroup.com/data-centres/angola/",
+  "title": "Angola - Raxio Group",
+  "publisher": "Raxio Group",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q3: stated PUE of 1.3, adiabatic cooling"
+ },
+ {
+  "url": "https://www.paratus.ao/en/servicos/datacenter/",
+  "title": "Data Center - High Performance and Security",
+  "publisher": "Paratus Angola",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: ENDE transformer substation with three transformers, generators"
+ },
+ {
+  "url": "https://paratus.africa/pt/services/data-center-services/",
+  "title": "Centros de dados | Nível III (por conceção)",
+  "publisher": "Grupo Paratus",
+  "published": "2025-03-31",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: power description of Paratus Angola data centres"
+ }
+]

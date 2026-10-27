@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii",
+ "fact": "NAM-CSIRT released the 2026 National Cyber Security Incident Management Guidelines for operators of critical infrastructure and critical information infrastructure, setting incident reporting mechanisms and coordination with the Authority as National CSIRT.",
+ "title": "National Cyber Security Incident Management Guidelines Released",
+ "publisher": "The Villager Newspaper",
+ "published": "2026-05-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

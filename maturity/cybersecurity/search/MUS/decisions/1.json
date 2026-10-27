@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii",
+ "fact": "Regulations in force 1 June 2026 let the National Cybersecurity Committee designate critical information infrastructure in the financial, public service, ICT, energy and water, and transport sectors, with designations notified in the Gazette.",
+ "title": "Cybersecurity and Cybercrime (Critical Information Infrastructure Designation) Regulations 2026",
+ "publisher": "Government of Mauritius, Government Gazette No. 45 (Legal Supplement 601)",
+ "published": "2026-06-20",
+ "date_source": "source",
+ "why_not": ""
+}

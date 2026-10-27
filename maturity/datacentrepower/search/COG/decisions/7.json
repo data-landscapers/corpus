@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The national data center at Bacongo is backed by three 3,000 kVA diesel generators giving 72 hours of autonomy, and a dual supply combining the national grid with solar is under study to cover power cuts.",
+ "title": "Congo : Le nouveau datacenter national livré d'ici la fin de l'année 2026",
+ "publisher": "Sika Finance",
+ "published": "2026-09-24",
+ "date_source": "source",
+ "why_not": ""
+}

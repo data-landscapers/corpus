@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia",
+  "title": "Ley por la que se regula el uso de las redes sociales, los delitos informáticos y la ciber delincuencia",
+  "publisher": "Oficina de Información y Prensa de Guinea Ecuatorial",
+  "published": "2026-07-01",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1/Q3: creates ANCIC, CERT/CSIRT coordination, critical infrastructure list"
+ },
+ {
+  "url": "https://www.undp.org/es/equatorial-guinea/noticias/guinea-ecuatorial-da-un-paso-firme-hacia-la-transformacion-digital-del-sector-publico",
+  "title": "Guinea Ecuatorial da un paso firme hacia la transformación digital del sector público",
+  "publisher": "PNUD Guinea Ecuatorial",
+  "published": "2025-08-27",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: cybersecurity capacity training; body context"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/continua_el_analisis_del_proyecto_de_ley_reguladora_del_uso_de_las_redes_sociales_y_el_ciberespacio",
+  "title": "Continúa el análisis del proyecto de ley reguladora del uso de las redes sociales y el ciberespacio",
+  "publisher": "Oficina de Información y Prensa de Guinea Ecuatorial",
+  "published": "2024-03-27",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: national cybersecurity system structure adopted in draft"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/s_e_nguema_obiang_mangue_propone_la_creacion_de_una_direccion_de_ciberseguridad_y_no_cerrar_whatsapp",
+  "title": "S. E. Nguema Obiang Mangue propone la creación de una Dirección de Ciberseguridad",
+  "publisher": "Oficina de Información y Prensa de Guinea Ecuatorial",
+  "published": "2023-01-17",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: proposal for a cybersecurity directorate"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/reports/gq/",
+  "title": "Country Report for Equatorial Guinea | ISOC Pulse",
+  "publisher": "Internet Society",
+  "published": "2024",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1-Q4: GCI 2024 score 25.4, preparedness"
+ }
+]

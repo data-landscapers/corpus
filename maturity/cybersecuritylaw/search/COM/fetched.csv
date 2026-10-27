@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ncsi.ega.ee/country/km/,fetched,,scripts/.workroot/study/cybersecuritylaw/cache/COM/1.txt,11122,html,NCSI :: Comoros
+2,https://hal.science/hal-05046086,fetched,,scripts/.workroot/study/cybersecuritylaw/cache/COM/2.txt,175,html,Making sure you're not a bot!
+3,https://ancs.gouv.km/guide-1/,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+4,https://internews.org/wp-content/uploads/2023/11/ARISA-IEA-CHAPTER-5-Comoros.pdf,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+5,https://justice.gouv.km/texte/decret-n22-003-pr-promulgation-de-la-loi-n21-012-au-relative-a-la-cyber-securite-et-a-la-lutte-contre-la-cybercriminalite/,held,held as raw/2022/2022-01-18-com-decret-22-003-pr-loi-cybersecurite-cybercriminalite.md,,0,,
+6,https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/les-d%C3%A9put%C3%A9s-adoptent-%C3%A0-l%E2%80%99unanimit%C3%A9-la-loi-contre-la-cybercriminalit%C3%A9-.html,fetched,,scripts/.workroot/study/cybersecuritylaw/cache/COM/6.txt,430,html,Les députés adoptent à l’unanimité la loi contre la cybercriminalité | La Gazette Des Comores

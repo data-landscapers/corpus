@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Vers l'indépendance numérique : le Data Center du Tchad en phase finale",
+ "publisher": "Portail de la Renaissance du Tchad",
+ "published": "2025-01-08",
+ "date_source": "source",
+ "why_not": "Hybrid grid, battery and generator supply is standby only and the data centre was still a building site; no second feed, dedicated line, PUE or water fact."
+}

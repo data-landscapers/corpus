@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The National Cybersecurity Strategy 2024-2028 covers 2024 to 2028 and states that the National Cybersecurity Agency (NCA, ANCy) was created by law 2018-026 and decree 2019-022/PR and operates the national CERT.tg through its delegate CDA.",
+ "title": "National Cybersecurity Strategy 2024-2028",
+ "publisher": "Agence Nationale de la Cybersécurité (ANCy)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

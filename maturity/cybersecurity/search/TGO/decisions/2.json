@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 28 August 2025 the national CERT.tg issued a cybersecurity alert on a forged communiqué attributed to a public authority.",
+ "title": "Alerte de cybersécurité du 28 août 2025 - Usurpation d'identité institutionnelle",
+ "publisher": "CERT.tg",
+ "published": "2025-08-28",
+ "date_source": "source",
+ "why_not": ""
+}

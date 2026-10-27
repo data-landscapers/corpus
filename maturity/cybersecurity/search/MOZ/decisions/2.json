@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "On the NatCSIRT 2026 meeting of 12-13 June 2026, INTIC stated that the newly promulgated Cybersecurity Law makes INTIC the National Cybersecurity Authority, formalises the national CSIRT and the national CSIRT network, and makes incident reporting compulsory from institutional to sectoral to national CSIRTs.",
+ "title": "INTIC Reforça Cooperação Internacional em Cibersegurança na NatCSIRT 2026",
+ "publisher": "Instituto Nacional de Tecnologias de Informação e Comunicação (INTIC)",
+ "published": "2026-06-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

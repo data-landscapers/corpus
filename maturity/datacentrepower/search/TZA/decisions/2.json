@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "",
+ "why_not": "Raxio TZ1 is not yet in service (launch scheduled 2026); the PUE of 1.3 is a target and the 33 kV connection is no contract, tariff or zone."
+}

@@ -1,0 +1,11 @@
+{
+ "aspect": "cii",
+ "fact": "The Directive for the Protection of Critical Information Infrastructure, in effect 1 October 2021, designates 14 CII sectors and requires CII owners to report incidents to the sectoral or national CERT within 24 hours.",
+ "title": "Directive for the Protection of Critical Information Infrastructure",
+ "publisher": "Cyber Security Authority",
+ "published": "2021-10",
+ "date_source": "proxy",
+ "select": true,
+ "sub_indicator": "readiness",
+ "why_not": ""
+}

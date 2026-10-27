@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "In a communiqué reported on 10 September 2026, the ANINF said its supervision systems had detected about 900,000 security alerts in two months, and that it handles supervision, investigation, analysis and assistance to administrations after a 7 September government meeting on intrusion attempts.",
+ "title": "900 000 alertes de Cybersécurité au Gabon : pourquoi ce chiffre signifie pas 900 000 attaques ?",
+ "publisher": "Gabonactu",
+ "published": "2026-09-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.eswatiniobserver.com/esccom-engages-journalists-on-cybersecurity-scams/",
+  "title": "ESCCOM engages journalists on cybersecurity, scams",
+  "publisher": "Eswatini Observer",
+  "published": "2026-10-01",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: ESCCOM designated national cybersecurity agency"
+ },
+ {
+  "url": "https://www.insidebiz.co.sz/esccom-launches-2025-cybersecurity-awareness-month/",
+  "title": "ESCCOM Launches 2025 Cybersecurity Awareness Month",
+  "publisher": "Inside Biz",
+  "published": "2025-10-01",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2/Q4: incidents reported in ESCCOM annual report"
+ },
+ {
+  "url": "https://times.co.sz/24234/news/hacking-on-rise-water-services-halts-digital-payments/",
+  "title": "Hacking on rise: Water services halts digital payments",
+  "publisher": "Times of Eswatini",
+  "published": "2025-07-25",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2: ESCCOM as National Cybersecurity Agency investigating ransomware"
+ },
+ {
+  "url": "https://esccom.org.sz/wp-content/uploads/2026/02/2024.pdf",
+  "title": "ESCCOM annual report 2024 (National Cybersecurity Agency, reported incidents)",
+  "publisher": "ESCCOM",
+  "published": "2026",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2/Q4: reported incidents and cyber risk monitoring section"
+ },
+ {
+  "url": "https://gov.sz/images/ICTDOCUMENTS/Eswatini-National-Cybersecurity-Strategy-2022-2027.pdf",
+  "title": "Eswatini National Cybersecurity Strategy 2022-2027",
+  "publisher": "Government of Eswatini, Ministry of ICT",
+  "published": "2022",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1/Q3: strategy, agency and CII register actions"
+ },
+ {
+  "url": "https://gov.sz/images/ICT/COMPUTER-CRIME--CYBERCRIME-ACT.pdf",
+  "title": "The Computer Crime and Cybercrime Act, 2022 (Act No. 6 of 2022)",
+  "publisher": "Eswatini Government Gazette",
+  "published": "2022-03-04",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1/Q3: ESCCOM powers over CII, declaration of CII by regulation"
+ },
+ {
+  "url": "https://ncsirt.org.sz/who-we-are/",
+  "title": "Who we are - Eswatini National CIRT",
+  "publisher": "SzCIRT / ESCCOM",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1/Q2: national CIRT mandate, advisories"
+ },
+ {
+  "url": "https://www.gov.sz/index.php/national-documents/civil-servants-blog/sakhile-dlamini-profile",
+  "title": "Sakhile Dlamini profile",
+  "publisher": "Government of Eswatini",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: NCIRT established under National Cybersecurity Agency at ESCCOM"
+ }
+]

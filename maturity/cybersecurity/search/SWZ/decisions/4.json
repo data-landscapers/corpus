@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "ESCCOM's annual report states 10 incidents were reported on the online incident reporting portal in 2023, over 90% more than the previous year, and over 330 cybercrime cases were reported by REPS.",
+ "title": "ESCCOM Annual Report 2024",
+ "publisher": "Eswatini Communications Commission",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

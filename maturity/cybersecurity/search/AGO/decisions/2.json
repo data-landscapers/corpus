@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii;foundation",
+ "fact": "Lei n.º 9/26 of 28 September 2026 creates the Sistema Nacional de Cibersegurança with the Centro Nacional de Cibersegurança and its CERT.ao, and requires operators of critical infrastructure and essential services to register with the Centro and notify significant incidents to CERT.ao.",
+ "title": "Lei n.º 9/26 – Lei da Cibersegurança",
+ "publisher": "Assembleia Nacional de Angola (text as reproduced by Angolex)",
+ "published": "2026-09-28",
+ "date_source": "source",
+ "why_not": ""
+}

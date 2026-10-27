@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "PURA reports it set up gmCSIRT and that at the end of 2020 it trained IT security staff of over fifty government, parastatal and private CIIs.",
+ "title": "gmCSIRT",
+ "publisher": "Public Utilities Regulatory Authority",
+ "published": "2021-09-02",
+ "date_source": "source",
+ "why_not": ""
+}

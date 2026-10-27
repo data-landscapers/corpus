@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The High Commission for Digitalization statement of 22 February 2026 says the Mohammadia national data centre has a redundant dual (N+1) power supply and is connected to the Sonelgaz national grid.",
+ "title": "Le Mohammadia Datacenter obtient la certification « Tier III Design », une première en Algérie",
+ "publisher": "Maghreb Emergent",
+ "published": "2026-02-23",
+ "date_source": "source",
+ "why_not": ""
+}

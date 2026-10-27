@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "In a 3 October 2025 government statement, the DCDT's Deputy Director for Cybersecurity Operations described the National Cybersecurity Hub as a CSIRT hosted by the department that works with SAPS on cybercrime investigations and with ISPA on fraudulent website takedowns, and the Hawks said cybersecurity matters await the forthcoming Cybersecurity Bill.",
+ "title": "Government urges vigilance against rising cyber threats",
+ "publisher": "Government Communication and Information System (GCIS)",
+ "published": "2025-10-03",
+ "date_source": "source",
+ "why_not": ""
+}

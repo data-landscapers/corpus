@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The Paratus Data Center in Lusaka runs at 1 MW with two dedicated generators and dual UPS feeds per cabinet, offered during the load-shedding announced in January 2023.",
+ "title": "Paratus Zambia To The Rescue",
+ "publisher": "Paratus Zambia",
+ "published": "2023-01-19",
+ "date_source": "source",
+ "why_not": ""
+}

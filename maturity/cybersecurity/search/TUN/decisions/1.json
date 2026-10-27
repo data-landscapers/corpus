@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "tunCERT published 336 security advisories and declared 657,540 incidents to national cyberspace stakeholders in the first half of 2026.",
+ "title": "STATISTIQUES RELATIVES AU CYBERESPACE TUNISIEN - 1er Semestre 2026",
+ "publisher": "Agence Nationale de la Cybersécurité (ANCS)",
+ "published": "2026-07-20",
+ "date_source": "source",
+ "why_not": ""
+}

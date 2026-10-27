@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Étude de l'Impact Environnemental et Social du sous projet de mise en place d'un centre de données (DATACENTER) national au PK5, Arrondissement Communal Niamey II",
+ "publisher": "Banque Africaine de Développement (AfDB) / Niger",
+ "published": "2022-08",
+ "date_source": "source",
+ "why_not": "Pre-construction impact study (August 2022): planned mains supply from NIGELEC with generator backup and an estimated 35 m3/day water need; facility not in service and no secured supply, PUE or published water use stated. Conservative: not selected."
+}

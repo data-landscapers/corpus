@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "On 3 June 2026 a World Bank-financed contract of USD 30,700 was awarded to Chesco Hi Tech General for the upgrade of the existing solar backup at the Ministry of Finance and Planning data centre.",
+ "title": "Upgrade of Existing Solar Infrastructure at MoFP Data Center",
+ "publisher": "World Bank (mirrored by BidsFactory)",
+ "published": "2026-06-25",
+ "date_source": "source",
+ "why_not": ""
+}

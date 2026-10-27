@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "The National Cybersecurity Strategy 2019-2024 sets Malawi's national cybersecurity framework and commits to expedite the establishment and operationalisation of a national CERT and to develop a national incident reporting mechanism.",
+ "title": "National Cybersecurity Strategy",
+ "publisher": "Government of Malawi, Ministry of Information, Civic Education and Communications Technology",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

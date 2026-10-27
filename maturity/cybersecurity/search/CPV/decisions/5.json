@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "In March 2024 technicians of NOSi (the state information-society agency) and the Polícia Judiciária were investigating a ransomware attack on the National Assembly's servers.",
+ "title": "Ataque informático ao parlamento cabo-verdiano atrasa salários",
+ "publisher": "Observador (Lusa)",
+ "published": "2024-03-22",
+ "date_source": "source",
+ "why_not": ""
+}

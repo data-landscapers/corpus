@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "readiness",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "ARPTC is the telecom regulator and data protection authority, not designated national cyber body; alert is on a global password leak."
+}

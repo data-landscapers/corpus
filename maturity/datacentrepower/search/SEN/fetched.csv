@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://nplusone.africa/,unfetchable,HTTP 403; Wayback ConnectionError,,0,,
+2,https://img1.wsimg.com/blobby/go/7d8e3523-0405-49a2-9172-6dc8c2c33a2f/Sovereignty%20on%20Loan%20Dakar%20Data%20Centres.pdf,fetched,,scripts/.workroot/study/datacentrepower/cache/SEN/2.txt,6219,pdf,Sovereignty on Loan
+3,https://www.datacenterdynamics.com/en/news/paix-data-centres-breaks-ground-on-facility-in-dakar-senegal/,held,held as raw/2025/2025-01-23 PAIX Data Centres breaks ground on Dakar data center.md,,0,,
+4,https://onixdatacentres.com/o-home/senegal/infrastructure/,unfetchable,HTTP 429; no usable Wayback capture,,0,,
+5,https://onixdatacentres.com/2023/02/24/onix-ceo-mike-nahons-speech-senegal/,fetched,,scripts/.workroot/study/datacentrepower/cache/SEN/5.txt,1396,html,"Onix CEO, Mike Nahon’s Speech at Data Centre Launch in Senegal"
+6,https://www.socialnetlink.org/2021/06/22/zoom-sur-le-nouveau-data-center-de-diamniadio-caracteristiques-et-specificites/,fetched,,scripts/.workroot/study/datacentrepower/cache/SEN/6.txt,582,html,Zoom sur le nouveau Data Center de Diamniadio : caractéristiques et spécificités
+7,https://senelec.sn/actualites-medias/inauguration-du-data-center-tier-lll,unfetchable,HTTP 404; Wayback ConnectionError,,0,,
+8,https://www.nettali.com/2019/11/28/electricite-le-poste-ais-225-30-kv-de-diamniadio-mis-sous-tension/,fetched,,scripts/.workroot/study/datacentrepower/cache/SEN/8.txt,512,html,ELECTRICITE - Le poste AIS 225/30 kV de Diamniadio mis sous tension

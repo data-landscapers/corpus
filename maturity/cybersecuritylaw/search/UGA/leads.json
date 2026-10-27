@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://observer.ug/news/govt-concedes-defeat-halts-enforcement-of-nullified-computer-misuse-act-provisions/",
+  "title": "Govt concedes defeat, halts enforcement of nullified Computer Misuse Act provisions",
+  "publisher": "The Observer",
+  "published": "2026-03-27",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1-3: sections annulled 17 March 2026, rest in force"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/inside-the-rise-and-fall-of-computer-misuse-act-5396012",
+  "title": "Inside the rise and fall of Computer Misuse Act",
+  "publisher": "Daily Monitor",
+  "published": "2026-03-19",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1-2: 2022 amendment passed then annulled"
+ },
+ {
+  "url": "https://www.unwantedwitness.org/wp-content/uploads/2026/03/CONSOLIDATED-CONSTITUTIONAL-PETITIONS-NO.-3437-42-OF-2022001_compressed.pdf",
+  "title": "Constitutional Petitions Nos 34, 37 & 42 of 2022 judgment",
+  "publisher": "Constitutional Court of Uganda",
+  "published": "2026-03",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1-2: Act 24 of 2022 assented 14 Oct 2022; held null"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/tiktoker-madubarah-convicted-of-hate-speech-malicious-information-5169640",
+  "title": "TikToker Madubarah convicted of hate speech, malicious information",
+  "publisher": "Daily Monitor",
+  "published": "2025-08-28",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: conviction under the Act"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/student-sentenced-to-6-months-in-prison-for-spreading-false-info-on-tiktok-5292430",
+  "title": "Student sentenced to 6 months in prison for spreading false info on TikTok",
+  "publisher": "Daily Monitor",
+  "published": "2025-12-09",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: conviction under the Act"
+ },
+ {
+  "url": "https://upf.go.ug/annual-crime-report-2025/",
+  "title": "Annual Crime Report 2025",
+  "publisher": "Uganda Police Force",
+  "published": "2026-04-02",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: yearly published crime figures"
+ },
+ {
+  "url": "https://www.theeastafrican.co.ke/tea/business-tech/rising-cybercrime-rocks-ugandan-financial-sector-5541466",
+  "title": "Rising cybercrime rocks Ugandan financial sector",
+  "publisher": "The EastAfrican",
+  "published": "2026-07-30",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: cybercrime case counts 2022-2025 from Police report"
+ },
+ {
+  "url": "https://ubc.go.ug/2026/03/31/ucc-urges-responsible-use-of-digital-platforms/",
+  "title": "UCC Urges Responsible Use of Digital Platforms",
+  "publisher": "Uganda Broadcasting Corporation",
+  "published": "2026-03-31",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2: Act partly remains in force"
+ }
+]

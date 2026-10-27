@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The Presidency / National Security Council issued the National Cybersecurity Strategy 2026-2030, prepared by a technical committee after review of the 2020-2025 strategy.",
+ "title": "الاستراتيجية الوطنية للأمن السيبرني 2026-2030 (Stratégie nationale 2026-2030)",
+ "publisher": "Présidence de la République, Conseil de sécurité nationale",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

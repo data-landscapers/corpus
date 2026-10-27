@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "INSA announced 27,773 cyberattacks against national digital infrastructure in the first six months of fiscal year 2025/26, of which 27,505 (99.03 percent) were neutralized.",
+ "title": "Ethiopia Foils Over 27,000 Cyberattacks in First Half of 2025/26 Fiscal Year",
+ "publisher": "Fana Media Corporation",
+ "published": "2026-02-08",
+ "date_source": "source",
+ "why_not": ""
+}

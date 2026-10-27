@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "A Water Efficiency Dataset for African Data Centers",
+ "publisher": "arXiv",
+ "published": "2026-06-12",
+ "date_source": "source",
+ "why_not": "Modelled national figures; STP not treated and no facility states water use."
+}

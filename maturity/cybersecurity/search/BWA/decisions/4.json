@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The national CSIRT's 16 December 2024 weekly newsletter warns of critical vulnerabilities (CVE-2024-53677, Dell Power Manager) and charts the top vulnerabilities and malware affecting organisations in Botswana.",
+ "title": "16 DECEMBER 2024 WEEKLY NEWSLETTER",
+ "publisher": "BWCirt",
+ "published": "2024-12-16",
+ "date_source": "source",
+ "why_not": ""
+}

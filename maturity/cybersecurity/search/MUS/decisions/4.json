@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "CERT-MU published dated public security alerts, including on 13 November 2023, 10 October 2024, 25 June 2025 and 1 October 2026.",
+ "title": "Security Alerts",
+ "publisher": "CERT-MU",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "No date of its own could be established."
+}

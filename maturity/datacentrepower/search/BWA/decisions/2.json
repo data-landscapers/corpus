@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "Tlou Energy's quarterly report of 24 April 2026 states the Kala Data Centre is operational, with Lesedi 4 gas supplying its generators, and the project substation is about 90% complete with grid connection pending.",
+ "title": "Quarterly Activities Report for the quarter ended 31 March 2026",
+ "publisher": "Tlou Energy Limited",
+ "published": "2026-04-24",
+ "date_source": "source",
+ "why_not": ""
+}

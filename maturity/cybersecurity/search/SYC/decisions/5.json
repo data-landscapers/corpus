@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "CERT-SC, the Computer Emergency Response Team Seychelles, is described as a national CERT operating under the Department of ICT, with a constituency of all internet users in Seychelles and a remit to record incidents and guide critical information infrastructure providers; version 1.0 of the profile was published 01/01/2025.",
+ "title": "RFC 2350 Profile",
+ "publisher": "CERT-SC (Computer Emergency Response Team Seychelles)",
+ "published": "2025-01-01",
+ "date_source": "source",
+ "why_not": ""
+}

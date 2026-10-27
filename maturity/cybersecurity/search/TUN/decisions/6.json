@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The El Khawarizmi computing centre reported that an attempted cyberattack on its infrastructure was handled in coordination with the communications ministry and the National Cybersecurity Agency, which put technical measures in place.",
+ "title": "Le centre El Khawarizmi bloque une cyberattaque ciblant les plateformes universitaires",
+ "publisher": "La Presse de Tunisie",
+ "published": "2025-07-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

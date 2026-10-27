@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "water;pue",
+ "fact": "Teraco published a water usage effectiveness of 0.10 L/kWh for 2023 and 0.04 L/kWh for 2024, with closed-loop cooling and rainwater and borehole supply, and a 2024 blended PUE target of 1.50.",
+ "title": "Water scarcity in Africa",
+ "publisher": "Teraco",
+ "published": "2025-03-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

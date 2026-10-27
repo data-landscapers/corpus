@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The ANSSI alerts page lists national alert bulletins numbered CERTBFA-2026-MEN-07 and CERTBFA-2026-MEN-008.",
+ "title": "INFOS & ALERTES & ACTUALITES",
+ "publisher": "ANSSI Burkina Faso",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

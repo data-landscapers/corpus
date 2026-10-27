@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The ANINF was created by decree n°212/PR of 27 January 2011 and its listed missions include securing critical infrastructure and drawing up and running a national cybersecurity plan covering prevention, detection, incident response and recovery.",
+ "title": "ANINF : Agence Nationale des Infrastructures Numérique et des Fréquences",
+ "publisher": "Ministère de l'Economie Numérique, de la Digitalisation et de l'Innovation",
+ "published": "2025-05-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

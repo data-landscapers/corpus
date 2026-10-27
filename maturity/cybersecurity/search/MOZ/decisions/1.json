@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "Law No. 13/2026 of 1 July 2026 (Cybersecurity Act) creates the National Cybersecurity System with the national CSIRT (nCSIRT.MZ) and obliges critical infrastructure operators and other covered entities to notify significant incidents to their sectoral CSIRT and the national CSIRT.",
+ "title": "The intro of the Nat Cybersecurity System: a significant step strengthening Mozambique's digital resilience via the approval of Law No. 13/2026, 1 July, 2026",
+ "publisher": "LexAfrica",
+ "published": "2026-07-01",
+ "date_source": "source",
+ "why_not": ""
+}

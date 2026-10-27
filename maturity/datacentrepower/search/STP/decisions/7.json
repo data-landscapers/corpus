@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Assembleia Nacional de Sao Tome e Principe - Novo Centro de Dados",
+ "publisher": "UNDP procurement notice",
+ "published": "2021-11-12",
+ "date_source": "source",
+ "why_not": "Cooling specification for a data centre room whose works were unfinished; no secured supply, PUE or water statement."
+}

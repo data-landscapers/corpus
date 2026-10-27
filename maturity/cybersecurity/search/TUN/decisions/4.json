@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The ANCS 2024 annual report states tunCERT sent 654 security advisories in 2024 against 606 in 2023, declared about 413,214 cyber incidents, and the agency handled incidents including about 97 judicial requisitions and phishing and viral cases.",
+ "title": "التقرير السنوي للوكالة الوطنية للسلامة السيبرنية 2024 (Rapport d'activité 2024)",
+ "publisher": "Agence Nationale de la Cybersécurité (ANCS)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

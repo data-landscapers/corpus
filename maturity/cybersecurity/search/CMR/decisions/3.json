@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "ANTIC reported that in 2025 its CIRT processed 32,500 judicial requisitions and since January 2024 identified 8,502 vulnerabilities and took down 6,416 fake accounts.",
+ "title": "Cameroon Strengthens National Cyber Defense with Deployment of Advanced Security Systems",
+ "publisher": "ANTIC",
+ "published": "2026-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

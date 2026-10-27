@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "At its inauguration on 22 June (2021) the Diamniadio national data centre is described with a Senelec delivery substation with three transformers and N+1 redundant power sources, beyond three standby generators; whether this is a dedicated line or second grid feed is not stated.",
+ "title": "Zoom sur le nouveau Data Center de Diamniadio",
+ "publisher": "Socialnetlink",
+ "published": "2021-06-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

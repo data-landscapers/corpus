@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Power Sub-station for Sudatel",
+ "publisher": "SYNCHRO Engineering Co. Ltd.",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Undated contractor portfolio entry; states a 2x100MVA substation for a Sudatel data centre but no date, so no dated fact."
+}

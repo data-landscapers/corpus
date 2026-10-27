@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii",
+ "fact": "Decree-law 2023-17 requires bodies including vital digital infrastructure operators to inform the national emergency-response contact point immediately of incidents (Art. 20) and provides for a decree listing vital digital infrastructure (Art. 21); NCSI version of 31 December 2025 scores Tunisia full marks on both.",
+ "title": "Tunisia - NCSI",
+ "publisher": "National Cybersecurity Index, e-Governance Academy",
+ "published": "2025-12-31",
+ "date_source": "source",
+ "why_not": ""
+}

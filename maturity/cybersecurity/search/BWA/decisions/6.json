@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "On 7 December 2023 the Minister told Parliament that the National Cybersecurity Strategy is being implemented and that the Comm CIRT, watching critical national information infrastructure 24/7, has been converted into a national CIRT, a full FIRST member since June 2023.",
+ "title": "Ministry implements cybersecurity strategy",
+ "publisher": "Daily News (BOPA)",
+ "published": "2023-12-07",
+ "date_source": "source",
+ "why_not": ""
+}

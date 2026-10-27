@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "States only a general open access regime for IPP supply above 1 MW; no power set aside for data centres and no data centre secured supply or PUE."
+}

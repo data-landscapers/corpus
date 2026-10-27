@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The DCSSI alert-bulletin page carries an alert dated 8 May 2025 on the cyberattack against South African Airways, showing the national body issuing public alerts.",
+ "title": "Bulletins d'Alerte – Direction générale du Chiffre et de la Sécurité des Systèmes d'Information",
+ "publisher": "Direction générale du Chiffre et de la Sécurité des Systèmes d'Information (DCSSI)",
+ "published": "2025-05-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

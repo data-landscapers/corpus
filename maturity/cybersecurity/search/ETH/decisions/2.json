@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii;response;foundation",
+ "fact": "Proclamation No. 1426/2026, published in Federal Negarit Gazette No. 41 of 21 July 2026, has INSA designate critical infrastructure by directive and requires owners to notify the National Computer Emergency Response Center of a cyber incident within 48 hours.",
+ "title": "Critical Infrastructure Cybersecurity Protection Proclamation No. 1426/2026",
+ "publisher": "Federal Negarit Gazette",
+ "published": "2026-07-21",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response;cii",
+ "fact": "The May 2024 feasibility study found Guinea-Bissau has no national strategy, no national CERT or equivalent and no assessment of critical assets, and no obligation for public or private entities to report security incidents.",
+ "title": "Relatório de Modelos de Governança: Estudo de viabilidade sobre Modelos de Governança de Cibersegurança e Proteção de Dados",
+ "publisher": "BS Innovations & GoSecure for WARDIP Guiné-Bissau",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

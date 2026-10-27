@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://swazi24.com/40779/news/diplomacy/eswatini-explores-green-energy-for-national-data-centre/",
+  "title": "Eswatini explores green energy for national data centre",
+  "publisher": "Swazi24",
+  "published": "2026-02-06",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: talks on dedicated power for National Data Centre"
+ },
+ {
+  "url": "https://blog.raulza.me/data-center-centralization-iv/",
+  "title": "Data Center Centralization - IV",
+  "publisher": "TechPlus+ (Raul Zambrano)",
+  "published": "2025-09-30",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: National Data Center Tier-III visit"
+ },
+ {
+  "url": "https://rstp.org.sz/national-data-centre/",
+  "title": "Data Centre - Royal Science and Technology Park",
+  "publisher": "Royal Science and Technology Park",
+  "published": "2021-05-05",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: redundant power feeds, self-cooling rows"
+ },
+ {
+  "url": "https://www.eec.co.sz/aboutus/reports/docs/EEC_IAR24.pdf",
+  "title": "EEC Integrated Annual Report 2024",
+  "publisher": "Eswatini Electricity Company",
+  "published": "2024",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q2: grid supply context"
+ },
+ {
+  "url": "https://www.mtn.co.sz/businesssolutions/co-location-hosting-services/",
+  "title": "Co-Location Hosting Services",
+  "publisher": "MTN Eswatini",
+  "published": "",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: colocation power claims"
+ },
+ {
+  "url": "https://www.easpnet.com/en/news-20221226/",
+  "title": "Professional Consultation Services and Diplomatic Soft Skills in Africa",
+  "publisher": "eASPNet",
+  "published": "2022-12-26",
+  "sub_indicator": "infra.energy--sufficient-energy-and-water-for-data-centres",
+  "why": "Q1: Eswatini data centre operation"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 25 November 2024 the minister launched DJAMA SUTURA, a national platform for reporting cyber-malicious acts, run by ANSSI Guinee and meant to protect public and private critical infrastructure.",
+ "title": "Lancement de la plateforme nationale de signalement des cybersurveillances : DJAMA SUTURA",
+ "publisher": "ANSSI Guinee",
+ "published": "2024-11-25",
+ "date_source": "source",
+ "why_not": ""
+}

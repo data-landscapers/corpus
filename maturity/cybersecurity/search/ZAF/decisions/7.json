@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "ITWeb reported on 6 June 2024 a speaker saying South Africa lacks a national cyber security strategy and that the Cyber Security Bill is still in development.",
+ "title": "Lack of national cyber security strategy puts SA at risk",
+ "publisher": "ITWeb",
+ "published": "2024-06-06",
+ "date_source": "source",
+ "why_not": ""
+}

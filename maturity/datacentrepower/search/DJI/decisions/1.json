@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The September 2026 diagnostic says Djibouti's data centre operators lack flexibility in securing energy to power their facilities, amid high electricity costs and constrained public grid capacity.",
+ "title": "Djibouti: Country Private Sector Diagnostic",
+ "publisher": "World Bank Group (IFC)",
+ "published": "2026-09",
+ "date_source": "source",
+ "why_not": ""
+}

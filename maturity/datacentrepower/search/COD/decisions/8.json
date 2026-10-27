@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "GBS describes dual power chains from generators and UPS inside the site, not two grid feeds or a dedicated line; no PUE or water figure; undated."
+}

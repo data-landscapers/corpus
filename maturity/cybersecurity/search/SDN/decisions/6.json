@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "Sudan CERT was established in January 2010 by the Telecommunication and Post Regulatory Authority, and received 821 incident reports from January to 31 August 2022 and more than 1,300 by the end of 2022.",
+ "title": "Sudan Computer Emergency Response Team (Sudan CERT)",
+ "publisher": "Telecommunication and Post Regulatory Authority (TPRA)",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

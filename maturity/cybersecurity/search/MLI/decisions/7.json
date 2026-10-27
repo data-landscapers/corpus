@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "cii",
+ "fact": "At the 30 January 2024 workshop presenting the draft national cybersecurity strategy, the minister said Mali still lacked a framework for the security of critical systems and infrastructures.",
+ "title": "CYBER-SÉCURITÉ : La stratégie nationale et son Plan d'actions",
+ "publisher": "ORTM",
+ "published": "2024-01-31",
+ "date_source": "proxy",
+ "why_not": ""
+}

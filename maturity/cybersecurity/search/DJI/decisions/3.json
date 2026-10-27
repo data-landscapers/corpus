@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "The national body's alert page lists public alert bulletins on software vulnerabilities, the latest dated 21-10-2026.",
+ "title": "DJ-CERT - Centre gouvernementale de veille, d'alertes et de réponses aux attaques informatiques (Alertes)",
+ "publisher": "DJ-CERT / Autorité Nationale de Cybersécurité",
+ "published": "2026-10-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

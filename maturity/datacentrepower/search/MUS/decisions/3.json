@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Emtel Business Data Centre",
+ "publisher": "Emtel",
+ "published": "",
+ "date_source": "source",
+ "why_not": "States dual 1MW transformers and N+1 generators, not two grid feeds or a dedicated supply; the EUCoC certification states no PUE."
+}

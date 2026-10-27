@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;response",
+ "fact": "On 15 May 2024 ANADEN presented the National Cybersecurity Portal, stating that Law 21-012/AU designates the Agence Nationale as the competent cybersecurity authority.",
+ "title": "Présentation officielle du portail national de la cybersécurité",
+ "publisher": "Direction Nationale de Cyber Sécurité (ANADEN)",
+ "published": "2024-05-15",
+ "date_source": "source",
+ "why_not": ""
+}

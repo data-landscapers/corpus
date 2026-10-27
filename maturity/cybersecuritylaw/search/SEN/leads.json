@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.vie-publique.sn/assemblee-nationale/votes/54/projet-de-loi-n-25-2026-relatif-a-la-protection-des-infrastructures-d-information-critiques-iic-et-a-la-securite-numerique",
+  "title": "Projet de loi n°25/2026 relatif à la protection des IIC et à la sécurité numérique",
+  "publisher": "Vie-Publique.sn (Assemblée nationale)",
+  "published": "2026-08-20",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1: bill adopted by National Assembly 20 August 2026"
+ },
+ {
+  "url": "https://itweb.africa/article/senegal-adopts-critical-infrastructure-law/kLgB1MezYb8q59N4",
+  "title": "Senegal adopts critical infrastructure law",
+  "publisher": "ITWeb Africa",
+  "published": "2026-08-21",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1: unanimous adoption of Bill 25/2026"
+ },
+ {
+  "url": "https://www.pressafrik.com/Securite-numerique-le-Senegal-durcit-sa-legislation_a311494.html",
+  "title": "Sécurité numérique : le Sénégal durcit sa législation",
+  "publisher": "PressAfrik",
+  "published": "2026-09-13",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1,Q2: new law presented by DCSSI director"
+ },
+ {
+  "url": "https://www.dakaractu.com/Cybercriminalite-au-Senegal-3-794-infractions-enregistrees-en-2025-257-personnes-deferees_a269979.html",
+  "title": "Cybercriminalité au Sénégal : 3 794 infractions enregistrées en 2025, 257 personnes déférées",
+  "publisher": "Dakaractu",
+  "published": "2026-03-12",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3,Q4: Police annual figures for 2025"
+ },
+ {
+  "url": "https://www.dakaractu.com/Bilan-2025-de-la-Gendarmerie-nationale-10-407-infractions-traitees-1-640-crimes-elucides-54-interpellations-pour_a269106.html",
+  "title": "Bilan 2025 de la Gendarmerie nationale : 99 cybercrimes résolus",
+  "publisher": "Dakaractu",
+  "published": "2026-02-12",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: Gendarmerie count of 99 cybercrime cases in 2025"
+ },
+ {
+  "url": "https://www.seneweb.com/fr/news/Societe/cybercriminalite-la-dsc-demantele-un-vaste-reseau-descroquerie-et-defere-deux-individus_n_474982.html",
+  "title": "CYBERCRIMINALITÉ : La DSC démantèle un vaste réseau d'escroquerie et défère deux individus",
+  "publisher": "Seneweb",
+  "published": "2025-11-20",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: arrests and referral to prosecutor, November 2025"
+ },
+ {
+  "url": "https://lesoleil.sn/actualites/societe-fait-divers/division-speciale-de-cybersecurite-police-des-reseaux-sociaux-gardien-des-moeurs/",
+  "title": "Division spéciale de cybersécurité : Police des réseaux sociaux, gardien des mœurs",
+  "publisher": "Le Soleil",
+  "published": "2025-07-19",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q2,Q3: DSC governed by 2008 law; prosecutions of commentators"
+ },
+ {
+  "url": "https://infosdujour.sn/lutte-contre-la-cybercriminalite-la-police-nationale-enregistre-3-902-plaintes-en-2024-194-personnes-defer/",
+  "title": "La Police nationale enregistre 3 902 plaintes en 2024, 194 personnes déférées",
+  "publisher": "Infos du Jour",
+  "published": "2025-04-16",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: Police annual figures for 2024"
+ }
+]

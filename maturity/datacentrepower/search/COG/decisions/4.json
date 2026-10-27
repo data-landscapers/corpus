@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "E2C : Visite du terrain des infrastructures implantées à Brazzaville",
+ "publisher": "La Brève Online",
+ "published": "2025-09-12",
+ "date_source": "proxy",
+ "why_not": "Describes an E2C data centre in service since 2022 but states nothing on its power or water."
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Data Centers in Antananarivo",
+ "publisher": "Inflect",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Aggregator city page, undated; generic remarks on multi-substation support and onsite generation, not a facility's stated supply."
+}

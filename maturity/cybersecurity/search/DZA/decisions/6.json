@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "A CARE think-tank contribution reports that Algerian authorities activated their incident response team and worked with stakeholders to limit the effects of the July 2024 global CrowdStrike outage.",
+ "title": "Après la panne informatique mondiale: Les recommandations de CARE",
+ "publisher": "Le Jeune Indépendant",
+ "published": "2024-07-29",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "In 2025 CDA, operating the national CERT.tg for the ANCy, handled 2,528 CERT incidents (1,307 true positives) and the national SOC handled 63,763 incidents, against 181,088 in 2024.",
+ "title": "Rapport d'activités ANCy 2025",
+ "publisher": "Agence Nationale de la Cybersécurité (ANCy)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

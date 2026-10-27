@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 27 April 2025 the national CERT.tg issued alert 202504/AP/09 on an active phishing campaign targeting Yas Togo and Moov Africa Togo customers.",
+ "title": "Alerte cybersécurité - Signalement d'une campagne de phishing ciblant les clients de Yas Togo et de Moov Africa Togo",
+ "publisher": "CERT.tg",
+ "published": "2025-04-27",
+ "date_source": "source",
+ "why_not": ""
+}

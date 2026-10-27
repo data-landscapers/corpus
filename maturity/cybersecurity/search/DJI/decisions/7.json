@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The government adopted a National Cybersecurity Strategy 2024-2030 in the Council of Ministers on 27 May 2025.",
+ "title": "Djibouti se dote d’une Stratégie Nationale de Cybersécurité",
+ "publisher": "Agence Djiboutienne d'Information (ADI)",
+ "published": "2025-05-27",
+ "date_source": "source",
+ "why_not": ""
+}

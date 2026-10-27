@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "ANCS said 657,540 incidents were recorded and tunCERT issued 336 security advisories in H1 2026, and a Prime Minister circular of 2 September 2026 requires public institutions to notify ANCS immediately of cyber incidents.",
+ "title": "Tunisia tightens cybersecurity rules across public sector",
+ "publisher": "Africa Business Insight",
+ "published": "2026-09-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

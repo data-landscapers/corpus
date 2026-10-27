@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "Paratus Namibia Data Center fact sheet",
+ "publisher": "Paratus Namibia",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": "Same text as the 2025 fact sheet: generator and UPS A/B paths, no grid feed, PUE or water figure."
+}

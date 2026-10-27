@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The DRC adopted a national cybersecurity strategy in October 2022, built on seven axes, and on 23 October 2026 the Council of Ministers ordered an audit of state IT infrastructure with permanent monitoring and early-warning mechanisms.",
+ "title": "RDC : vers une surveillance continue des systèmes informatiques de l'État",
+ "publisher": "We are Tech",
+ "published": "2026-10-26",
+ "date_source": "source",
+ "why_not": ""
+}

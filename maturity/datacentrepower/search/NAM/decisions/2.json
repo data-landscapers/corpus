@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "The Paratus Equiano cable landing station and edge data centre at Swakopmund, operational since November 2021, is fed from a dedicated Erongo Red substation, with 2 x 250kVA standby generators and A/B redundant UPS.",
+ "title": "Paratus Namibia Equiano CLS Swakopmund",
+ "publisher": "Paratus Namibia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

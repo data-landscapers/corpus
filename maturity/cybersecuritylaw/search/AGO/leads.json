@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.dnoticias.pt/2026/8/26/503474-extraditado-de-portugal-para-angola-alegado-membro-de-rede-de-ciberataques-a-bancos/",
+  "title": "Extraditado de Portugal para Angola alegado membro de rede de ciberataques a bancos",
+  "publisher": "DNOTICIAS.PT (Agência Lusa)",
+  "published": "2026-08-26",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: SIC arrests and extradition in a bank cyberattack case, 10 held in pre-trial detention"
+ },
+ {
+  "url": "https://www.plmj.com/en/knowledge/informative-notes/Angola-Cybersecurity-Law/34718/",
+  "title": "Angola | Cybersecurity Law",
+  "publisher": "PLMJ",
+  "published": "2026-10-08",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1,Q2: Law 9/26 of 28 September 2026 published and in force on publication, repeals Law 7/17"
+ },
+ {
+  "url": "https://www.angolex.com/paginas/leis/lei-ciberseguranca-9a-26a.html",
+  "title": "Lei n.º 9/26 – Lei da Cibersegurança em Angola",
+  "publisher": "Angolex",
+  "published": "2026-09-28",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1,Q2: text with approval 12 Aug 2026, promulgation 8 Sep 2026"
+ },
+ {
+  "url": "https://angop.ao/en/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/",
+  "title": "Angola adopts cybersecurity law",
+  "publisher": "Angop",
+  "published": "2026-08-12",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1: National Assembly approved the law 104 to 56"
+ },
+ {
+  "url": "https://angop.ao/noticias/politica/joao-lourenco-considera-cybercrime-um-dos-grandes-desafios-da-justica/",
+  "title": "João Lourenço considera cybercrime um dos grandes desafios da justiça",
+  "publisher": "Angop",
+  "published": "2026-03-03",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: 2025 investigations coordinated by PGR and SIC of attacks on bank systems"
+ },
+ {
+  "url": "https://csmj.ao/noticia/TRIBUNAL+DA++COMARCA+DE++LUANDA+IN%C3%8DCIA+JULGAMENTO+POR+CIBERCRIME+ENVOLVENDO+CIDAD%C3%83O+DE+NACIONALIDADE+CHINESA",
+  "title": "Tribunal da Comarca de Luanda inicia julgamento por cibercrime envolvendo cidadão de nacionalidade chinesa",
+  "publisher": "Conselho Superior da Magistratura Judicial",
+  "published": "2025-07-24",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q3: trial opened for illegitimate access, computer sabotage and other cyber offences"
+ },
+ {
+  "url": "https://pti.ao/conselho-de-ministros-analisa-propostas-de-lei-para-ciberseguranca-e-fake-news/",
+  "title": "Conselho de Ministros analisa propostas de lei para Cibersegurança e Fake News",
+  "publisher": "Portal de TI",
+  "published": "2025-10-28",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q1: cybersecurity bill reviewed by Council of Ministers 27 Oct 2025"
+ },
+ {
+  "url": "https://angop.ao/noticias/politica/mais-de-mil-crimes-ciberneticos-registados-em-2024/",
+  "title": "Mais de mil crimes cibernéticos registados em 2024",
+  "publisher": "Angop",
+  "published": "2024-12-17",
+  "sub_indicator": "gov.legislate--cybersecurity-legislation",
+  "why": "Q4: 1,430 cybercrimes registered by SIC in 2024, with breakdown"
+ }
+]

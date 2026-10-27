@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "response",
+ "fact": "On 20 July 2024 CERT.UG/CC published an advisory on the global CrowdStrike/Microsoft IT outage and its possible effect on Ugandan organisations.",
+ "title": "Mass IT Outage – CrowdStrike Update",
+ "publisher": "Uganda National Computer Emergency Response Team (CERT.UG/CC)",
+ "published": "2024-07-20",
+ "date_source": "source",
+ "why_not": ""
+}

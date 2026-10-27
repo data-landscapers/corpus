@@ -1,0 +1,66 @@
+[
+ {
+  "url": "http://www.ccis-rca.org/Historique",
+  "title": "Historique",
+  "publisher": "Cellule Centrafricaine de l'Internet et de la Sécurité (CCIS)",
+  "published": "2025",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: decree creating CCIS Dec 2024, organisation decree Jan 2025"
+ },
+ {
+  "url": "https://www.arcep.cf/fr/index.php/reglementation/lois-et-ordonnances",
+  "title": "Lois et Ordonnances",
+  "publisher": "ARCEP Centrafrique",
+  "published": "2024",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: Loi 24.002 of 21 Feb 2024 creating the national cybersecurity agency"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20240126-face-%C3%A0-l-explosion-des-crimes-la-centrafrique-approuve-une-loi-sur-la-cybers%C3%A9curit%C3%A9",
+  "title": "Face à l'explosion des crimes, la Centrafrique approuve une loi sur la cybersécurité",
+  "publisher": "RFI",
+  "published": "2024-01-26",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: law authorises ANCY, which handles alerts"
+ },
+ {
+  "url": "https://lexlint.io/law/cf",
+  "title": "Central African Republic: AI, privacy and software law",
+  "publisher": "LexLint",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1/Q3: art. 10 ANCy designates essential-service operators; art. 11 CERT"
+ },
+ {
+  "url": "https://paradigmhq.org/londa2025/countries/central-african-republic.html",
+  "title": "Central African Republic - LONDA 2025",
+  "publisher": "Paradigm Initiative",
+  "published": "2025",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1/Q2: ANCy not yet operational; CCIS exists"
+ },
+ {
+  "url": "http://www.ccis-rca.org/ScuritInternet",
+  "title": "Sécurité Internet en Centrafrique",
+  "publisher": "CCIS",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q2: CCIS monitors and responds to intrusions"
+ },
+ {
+  "url": "https://www.biddingsource.com/tenders/9062332",
+  "title": "AT to prepare a roadmap to intensify the country's cybersecurity preparedness",
+  "publisher": "Bidding Source (World Bank notice)",
+  "published": "2025-08-25",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q1: roadmap and operational architecture being procured"
+ },
+ {
+  "url": "http://www.ccis-rca.org/ACTIVITEGLOBAL",
+  "title": "Activités Globales",
+  "publisher": "CCIS",
+  "published": "",
+  "sub_indicator": "infra.cybersec--national-cybersecurity-readiness",
+  "why": "Q3: critical infrastructure identification, CSIRT planned"
+ }
+]

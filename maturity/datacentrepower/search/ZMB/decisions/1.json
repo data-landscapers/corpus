@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "power",
+ "aspect": "supply",
+ "fact": "Zamtel published a tender on 16 December 2025 for the connection of a dedicated three-phase power supply to its Woodlands Data Centre.",
+ "title": "Tender for the Connection of Dedicated Power Supply to the Zamtel Woodlands Data Centre",
+ "publisher": "Zambia Telecommunications Company Limited",
+ "published": "2025-12-16",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation;cii",
+ "fact": "The NCSI version of 31 July 2026 scores Libya 0 of 3 on a national cybersecurity strategy, 0 on identification of critical information infrastructure and 0 on incident reporting obligations, and 3 of 3 on a national CERT hosted by NISSA.",
+ "title": "NCSI :: Libya",
+ "publisher": "e-Governance Academy (National Cyber Security Index)",
+ "published": "2026-07",
+ "date_source": "source",
+ "why_not": ""
+}

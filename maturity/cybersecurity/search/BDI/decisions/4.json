@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The NCSI update of 29 August 2025 scores Burundi zero on national cybersecurity strategy and on a nationwide CERT.",
+ "title": "NCSI :: Burundi",
+ "publisher": "e-Governance Academy",
+ "published": "2025-08-29",
+ "date_source": "source",
+ "why_not": ""
+}

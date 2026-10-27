@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "power",
+ "aspect": "",
+ "fact": "",
+ "title": "A carrier-neutral data centre operator for Mozambique - José Inácio Almeida",
+ "publisher": "The Energy Year",
+ "published": "2024-10-08",
+ "date_source": "source",
+ "why_not": "Interview names continuous power and planned PV but states no dated supply, PUE or water fact for the Maputo site."
+}

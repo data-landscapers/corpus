@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "readiness",
+ "aspect": "foundation",
+ "fact": "The National Cybersecurity Strategy 2023-2026 sets a governance framework under the Cybersecurity and Cybercrime Act 2021 with a National Cybersecurity Committee and CERT-MU as national CERT.",
+ "title": "National Cybersecurity Strategy 2023-2026: For a more secure and resilient Mauritius",
+ "publisher": "Ministry of Information Technology, Communication and Innovation / CERT-MU",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}
