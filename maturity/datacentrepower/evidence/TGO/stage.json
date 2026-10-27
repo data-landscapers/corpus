@@ -5,14 +5,14 @@
       "sub_indicator": "power",
       "stage": "2",
       "supply": "secured",
-      "pue": "",
+      "pue": "low",
       "water": "",
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-002",
       "gaps": "No source held says power is set aside for data centres by a signed contract, a plant built for them or a tariff or zone in force.",
-      "note": "Counted from the four questions by study-ladder-datacentrepower.py.",
-      "as_at": "2026-10-17"
+      "note": "The Lomé Data Centre has dual utility feeds, a secured supply, and states a PUE of 1.4 (2025); nothing shows power set aside for data centres, and each question needs the one before, so stage 2.",
+      "as_at": "2026-10-27"
     }
   ]
 }
