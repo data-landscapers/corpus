@@ -188,6 +188,7 @@ MAR,Jumeau numérique de l'Eau (national data platform),Morocco,other,"sovereign
 MAR,Justice Ministry-DGSN electronic data exchange agreement,Morocco,other,,Ministry of Justice; DGSN,two bodies,2024-07-24-justice-ministry-dgsn-electronic-data-exchange
 MAR,Jisr,Maroc,exchange,,Agence de développement du digital (ADD),,2024-02-09-mar-lavieeco-plateforme-jisr-55-millions-operations
 MAR,plateforme nationale d'interopérabilité,National interoperability platform,exchange,,,,2025-10-15-mar-connectivite-5g-et-e-gouvernement-amal-el-fallah-seghrouchni-fait-le-b
+MAR,PortNet,Morocco,other,,,,2026-07-13-mar-portnet-processes-more-nearly-200-000-customs-declarations-in-june
 MDG,Rahaka,Madagascar,exchange,X-Road,UGD (Unite de gouvernance digitale),,2026-04-29-newsmada-rahaka-interoperability-platform-launch
 MDG,national interoperability platform,Madagascar,exchange,X-Road (or equivalent) required of bidders,"Digital Governance Unit (UGD), PRODIGY project",,2025-08-28 Madagascar seeks firm to expand digital interoperability platform
 MDG,Orinasa interoperable ecosystem,Madagascar,exchange,,Digital Governance Unit (UGD),,2022-11-14-ugd-cadre-interoperabilite
@@ -235,6 +236,7 @@ MWI,National Agricultural Data Infrastructure (NAGDI) framework,Malawi,other,pro
 MWI,National Registration and Identification System,Malawi,other,national ID,National Registration Bureau,,2025-12-05-farmer-data-interoperability-nagdi-dpi-times
 MWI,Bomalathu,Malawi,exchange,data-exchange platform,,,"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities"
 MWI,Harmonized National Management Information System (HN-MIS),Malawi,other,planning and monitoring information system,Ministry of Finance and Economic Affairs (Dept of Economic Planning and Development),,2025-01-01-establishment-harmonized-national-management-information-system
+MWI,Customs-to-Customs Electronic Data Exchange (CCEDE),Malawi,other,ASYCUDA,Malawi Revenue Authority,,2025-12-24-mwi-zambia-and-malawi-live-customs-data-exchange-to-speed-up-trade-and-str
 NAM,Nam-X,Namibia,exchange,Cybernetica Unified eXchange Platform (UXP),"Office of the Prime Minister, Department of Public Service e-Government Management",,2024-01-01-namibia-governmental-interoperability-framework-nam-x
 NAM,National Data Exchange Service Bus,Namibia,exchange,,,,2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9
 NAM,National Population Registration System (NPRS),Namibia,other,,,,2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9
@@ -359,6 +361,7 @@ TUN,UXP (Unified eXchange Platform),Tunisia,exchange,UXP,Ministry of Communicati
 TUN,Plateforme Nationale d'Interoperabilite,Plateforme Nationale d'Interoperabilite,exchange,,Centre National Informatique,,2026-05-01-tun-id4africa-iuc-country-playbook
 TUN,Plateforme Nationale d'Interopérabilité,Tunisia,exchange,X-Road model,Centre National Informatique,,2024-05-01-tun-id4africa-identifiant-unique-citoyen-use-cases
 TUN,national interoperability platform,Tunisia,other,,,,2024-07-12-tun-tunisie-3s-et-eo-data-center-recoivent-le-label-g-cloud
+TUN,Tej,Tunisia,other,,Ministere des Finances,,2024-06-01-tun-tunisie-lancement-d-une-plateforme-pour-le-transfert-et-l-echange-de-d
 TZA,GovESB (Government Enterprise Service Bus),Tanzania,exchange,,e-Government Authority,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GePG,Tanzania,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GovESB (e-GA),TZA,exchange,,e-Government Authority (e-GA),,2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb
@@ -391,6 +394,7 @@ ZAF,MzansiXchange,South Africa,exchange,X-Road,National Treasury,,2025-10-10-mza
 ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2025-09-27-mzansixchange-pilot-programme
 ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2026-01-01-operation-vulindlela-phase-ii-progress-report-q3-2025-26
 ZAF,MzansiXchange,South Africa,exchange,,National Treasury,,2026-10-21-sa-mymzansi-citizen-services-r150m
+ZAF,National Single Window,South Africa,other,,SARS,,2026-09-08-zaf-no-completion-date-for-sa-s-single-window
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2024-09-10-szi-rtsa-government-service-bus
 ZMB,Government Service Bus (Zamportal),Zambia,exchange,Zamportal / gsb.gov.zm,SMART Zambia Institute,,2026-08-10-zambia-dzap-data-protection-compliance-system
 ZMB,ZamConnect,Zambia,other,,,,2026-08-10-zambia-dzap-data-protection-compliance-system

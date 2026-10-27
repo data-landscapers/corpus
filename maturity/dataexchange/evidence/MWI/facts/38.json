@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-24-mwi-zambia-and-malawi-live-customs-data-exchange-to-speed-up-trade-and-str",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Customs-to-Customs Electronic Data Exchange (CCEDE)",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "ASYCUDA",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "CCEDE links customs of two states; a platform between states and one ministry's integration is not a government exchange platform."
+}
