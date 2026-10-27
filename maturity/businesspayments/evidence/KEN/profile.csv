@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,business,system,coverage,inservice,2026-06-11,KEN-001;KEN-003;KEN-006;KEN-009,KEN-008=underway,
+KEN,business,system,coverage,inservice,2026-06-11,KEN-001;KEN-003;KEN-006;KEN-009;KEN-011,KEN-008=underway,
 KEN,business,endtoend,coverage,endtoend,2026-06-11,KEN-002;KEN-004;KEN-005;KEN-007,,
 KEN,business,reported,coverage,reported,2025-10-21,KEN-010,,

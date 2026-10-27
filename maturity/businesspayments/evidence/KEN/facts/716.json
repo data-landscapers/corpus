@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-14-ken-imf-forces-kenya-to-implement-itax-linked-payroll-and-ifmis-linked-e-p",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Techweez reports procuring entities in Kenya continue to use the IFMIS e-Procurement module until the new end-to-end e-GP system, now piloted in twelve MDAs and counties to December 2024, is fully rolled out.",
+   "as_of": "2024-06-14",
+   "date_precision": "day",
+   "system": "IFMIS e-Procurement module",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP",
+   "country_label": "Kenya",
+   "class": "procurement",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

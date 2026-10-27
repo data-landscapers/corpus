@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-14-tcd-rwanda-leads-africa-s-digital-public-finance-transformation",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "FurtherAfrica says the Rwanda Cooperation Initiative introduced an e-Procurement system in Guinea, designed to digitize public procurement.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "e-Procurement",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Procurement",
+   "country_label": "e-Procurement",
+   "class": "procurement",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

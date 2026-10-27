@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,business,system,coverage,inservice,2026-09,GIN-001;GIN-002,,
+GIN,business,system,coverage,inservice,2026-09,GIN-001;GIN-002,GIN-003=underway,
 GIN,business,endtoend,coverage,,,,,nothing held
 GIN,business,reported,coverage,,,,,nothing held

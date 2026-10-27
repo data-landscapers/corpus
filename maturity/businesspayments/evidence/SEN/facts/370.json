@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-24-world-bank-sen-2025-sen-fiscale",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank says its approved USD 115 million SEN-FISCALE programme will support expanded use of electronic procurement tools in Senegal.",
+   "as_of": "2025-06-24",
+   "date_precision": "day",
+   "system": "Electronic procurement tools",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
