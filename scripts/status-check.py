@@ -288,9 +288,12 @@ def check_unit(unit, show_openings=False):
     # a claim carries the URL establishing it does not reach it (`STATUS-INIT.md` -> *The one hard
     # rule*). The marker is required rather than inferred, because "no link because nothing
     # establishes this" and "no link because the writer forgot" are the same paragraph otherwise.
+    # The closing absence block is emitted from the maturity assessment (R151), states what has
+    # not been found, and carries no link by construction; check A in `report-register-check.py`
+    # holds it to what the assessment says.
     unlinked, derived = [], []
     for slug, label, prose in secs:
-        paras = S.paragraphs(prose)
+        paras = S.paragraphs(S.ABSENCE_BLOCK.sub("", prose))
         if not S.links(prose) and sum(len(S.sentences(p)) for p in paras) <= 2:
             continue
         for p in paras:
