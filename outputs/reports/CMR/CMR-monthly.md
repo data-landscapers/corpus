@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-24
-period: 2026-09-01 to 2026-10-24
+compiled: 2026-10-27
+period: 2026-09-01 to 2026-10-27
 place: CMR
-ledger_rows: 39
+ledger_rows: 40
 not_held: 4
-record: e0cf521366d6
+record: 3ce8523ac62c
 ---
 
 # News, Sep – Oct 2026
@@ -549,6 +549,20 @@ Orange Cameroon has closed its Orange Money Afrique app and moved its mobile mon
 **[Cameroun : Konoom obtient son agrément et se lance sur le marché du paiement mobile](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile)** — Agence Ecofin, 17 September 2026
 
 Cameroon has licensed Konoom Cameroun as its third payment institution, after Orange Money and MTN's Mobile Money Corporation, by finance ministry order 681 of 21 July 2026, announced on 17 September. Konoom plans transfers, bill and tax payments and merchant payments by phone. It has operated in Chad since December 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Inbound international transfers to mobile wallets</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigerian Fintech Grey Opens Direct Transfers to MTN MoMo and Orange Money in Cameroon](https://www.businessincameroon.com/finance/2509-16831-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-money-in-cameroon)** — Business in Cameroon, 25 September 2026
+
+USD, EUR, GBP balances paid into Cameroon wallets in CFA francs; USD 1.80 fee, CFA 400,000 cap per transfer.
 
 </div>
 
