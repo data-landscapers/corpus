@@ -20,3 +20,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,ZMB,gov.legislate--cybersecurity-legislation,fact,3,4,ZMB-008;ZMB-002,Arrivals added ZMB-004; ZMB-005; ZMB-006; ZMB-007; ZMB-008; stage 3 -> 4.
 2026-10-17,ZWE,gov.legislate--cybersecurity-legislation,fact,3,3,ZWE-002;ZWE-001,Arrivals added ZWE-002; stage unchanged.
 2026-10-21,EGY,gov.legislate--cybersecurity-legislation,fact,3,4,EGY-004;EGY-003,Courts convicted TikTok creators under Article 25 of Law 175/2018 in November 2025 (People of Internet); 3 to 4
+2026-10-27,GNQ,gov.legislate--cybersecurity-legislation,review,4,3,GNQ-003;GNQ-001,"Four private criminal complaints lodged under Ley 7/2024 in September 2026 await the investigating court; a complaint not yet taken up is not an arrest, charge, prosecution or conviction, so 4 to 3."
+2026-10-27,NGA,gov.legislate--cybersecurity-legislation,review,4,4,NGA-005;NGA-011;NGA-013,Stage 4 holds on the DSS prosecution of Sowore (2026) and the December 2024 arrest and charge of Olamide Thomas; an undated SALC statement replaced as a stage source.
+2026-10-27,BWA,gov.legislate--cybersecurity-legislation,review,3,3,BWA-005,Stage 3 holds: the 2025 Cybersecurity Act awaits commencement and the 2018 Act it replaces stands until then; short summary corrected to say so.

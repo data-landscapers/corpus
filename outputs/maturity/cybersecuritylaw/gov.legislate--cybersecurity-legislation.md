@@ -21,8 +21,8 @@ The Malabo Convention's third chapter commits each party to legal measures again
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 12 |
-| 3 Established | 35 |
+| 4 Operating | 11 |
+| 3 Established | 36 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -51,13 +51,6 @@ A 2018 information technology crimes law is in force and courts convicted conten
 
 - People of Internet says Egyptian courts convicted a series of TikTok content creators under Article 25 of Law 175/2018 in November 2025, with sentences from six-month suspended terms to two years and a fine of EGP 100,000 each ([source, 2025-11](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
 - People of Internet calls Law No. 175 of 2018 on Anti-Cyber and Information Technology Crimes Egypt's principal cybercrime statute ([source, 2018](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
-
-### Equatorial Guinea: 4 Operating
-
-Ley 7/2024 is in force; in September 2026 the vice-president's lawyers filed four complaints under it, including against Diario Rombe.
-
-- Four criminal complaints (querellas) were lodged on 16 September 2026 at Juzgado de Instruccion Numero I de Malabo under Ley 7/2024 against Maria Luzmila Ondo, Mocache Massoko (Diario Rombe), Jose Carlos Ndong and Maria Teresa Siemfum; the case is at an initial stage awaiting the court ([source, 2026-09-16](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas)).
-- A law firm acting for vice-president Teodoro Nguema Obiang Mangue grounded complaints on articles 2, 50 and 60 of Ley 7/2024 on social networks, computer crimes and cybercrime, treated as applicable law in Equatorial Guinea ([source, 2026-09-16](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas)).
 
 ### Ghana: 4 Operating
 
@@ -94,8 +87,8 @@ A 2019 cybercrime law is in force; it was used to charge six journalists in Octo
 
 A cybercrime law is in force and was used in 2026 against activist Omoyele Sowore, and in 2024 against journalists and critics.
 
-- The Southern Africa Litigation Centre says section 24 of the Cybercrimes Act is repeatedly used to arrest journalists for their reporting, giving no dates or names ([source, 2026-10-15](https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/)).
 - The DSS is prosecuting activist and presidential candidate Omoyele Sowore under the Cybercrimes Act over his description of the President as a criminal, and its Director-General announced on 30 August 2026 that the prosecution would be suspended until after the 2027 election ([source, 2026-08-30](https://punchng.com/sowore-serap-lawyer-demand-dss-withdraw-charges/)).
+- In December 2024 Lagos nurse Olamide Thomas was arrested after livestreaming remarks critical of the President, charged with cyberbullying and held until bail days later; the document gives no day ([source, 2024-12](https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/)).
 - The Southern Africa Litigation Centre says section 24 of Nigeria's Cybercrimes Act is repeatedly used to arrest journalists for their reporting ([source, 2026-10-15](https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/)).
 
 ### Sudan: 4 Operating
@@ -135,7 +128,7 @@ Angola's new cybersecurity law and Law 7/17 of 2017 are in force as of October 2
 
 ### Botswana: 3 Established
 
-A cybersecurity law was enacted in November 2025 and replaces the 2018 cybercrime law; no use of it is known.
+A 2025 cybersecurity act awaits commencement and the 2018 cybercrime act stays in force until then; no use of either is known.
 
 - The Cybersecurity Act, 2025 (Act No. 21 of 2025) was assented to on 5 November 2025 and gazetted on 11 November 2025; its commencement is on a date the Minister appoints by Order, shown as on notice, and it repeals and replaces the Cybercrime and Computer Related Crimes Act 2018 ([source, 2025-11-05](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf)).
 
@@ -198,6 +191,13 @@ A digital code has been in force since 2023, and in August 2026 police were told
 
 - The Attorney General at the Court of Cassation told judicial police officers on 17 August 2026 to take up offences under the Digital Code on their own initiative, treating the Code as in force ([source, 2026-08-17](https://acp.cd/anglais/drc-judicial-police-officers-advised-to-prosecute-perpetrators-of-digital-offences/)).
 - ACP states that the Code du numérique, promulgated in 2023, makes non-consensual sharing of intimate content, privacy breaches and cyberharassment criminal offences in the DRC ([source, 2023](https://acp.cd/genre/violence-numerique-une-proposition-de-loi-de-protection-des-victimes-annoncee-a-kinshasa/)).
+
+### Equatorial Guinea: 3 Established
+
+Ley 7/2024 is in force; in September 2026 the vice-president's lawyers filed four complaints under it, which await the court. No charge is known.
+
+- The Government stated that Ley 7/2024 of 23 December 2024, regulating social networks, computer crimes and cybercrime, is fully in force ([source, 2026-07-01](https://www.guineaecuatorialpress.com/noticias/el_gobierno_recuerda_la_plena_vigencia_de_la_ley_que_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia)).
+- A law firm acting for vice-president Teodoro Nguema Obiang Mangue grounded complaints on articles 2, 50 and 60 of Ley 7/2024 on social networks, computer crimes and cybercrime, treated as applicable law in Equatorial Guinea ([source, 2026-09-16](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas)).
 
 ### Eritrea: 3 Established
 

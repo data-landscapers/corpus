@@ -1,16 +1,17 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "4",
-   "standing": "in-force",
-   "use": "used",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNQ-002;GNQ-001",
-   "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
-   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-003;GNQ-001",
+      "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held; four private criminal complaints lodged in September 2026 await the court.",
+      "note": "Restaged 4 to 3 on 2026-10-27: a private complaint lodged at the investigating court and not yet taken up is not an arrest, charge, prosecution or conviction. Ley 7/2024 is in force, so 3.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

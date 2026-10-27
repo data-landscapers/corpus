@@ -8,10 +8,10 @@
       "use": "used",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-014;NGA-005;NGA-013",
+      "stage_sources": "NGA-005;NGA-011;NGA-013",
       "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
-      "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py.",
-      "as_at": "2026-10-17"
+      "note": "Reassessed 2026-10-27: the DSS prosecution of Sowore in 2026 and the December 2024 arrest and charge of Olamide Thomas are dated uses of the Act. No count of cases is published, so not 5.",
+      "as_at": "2026-10-27"
     }
   ]
 }
