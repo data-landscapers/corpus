@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National Identification Authority says the Controller and Accountant General Department's Mechanized Payroll System checks employees and pensioners against the NIA database by Ghana Card PIN, launched 10 January 2024, to remove ghost names.",
+   "as_of": "2024-01-10",
+   "date_precision": "day",
+   "system": "NIA database integration with the Mechanized Payroll System",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mechanized Payroll System",
+   "country_label": "Mechanized Payroll System",
+   "class": "relying",
+   "platform": "",
+   "owner": "Controller and Accountant General Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
