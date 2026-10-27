@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-10-26
+compiled: 2026-10-27
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 245
+sources_cited: 246
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -253,7 +253,7 @@ Education and justice run their own islands. The [education management informati
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
-A Congolese citizen has no single front door to the state: the country has [no national government service portal, and none of the six portal capabilities the index tracks — including any route to registering a company online — are in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). A body to give access to administrative services online, the Guichet numérique, [was created by prime-ministerial decree, the minister said on 28 September 2026](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). The foreign and digital-economy ministers [met on 14 October 2026 on an integrated electronic-visa platform, budgeted in the 2026-2028 medium-term expenditure framework and separate from the migration directorate's existing online application portal](https://www.wearetech.africa/fr/fils/actualites/tech/la-rdc-accelere-son-projet-de-plateforme-integree-pour-les-visas-electroniques), with no timetable published. The electoral commission [launched a programme on 28 September 2026 to digitise the electoral archives produced since 2005](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/).
+A Congolese citizen has no single front door to the state: the country has [no national government service portal, and none of the six portal capabilities the index tracks — including any route to registering a company online — are in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). A body to give access to administrative services online, the Guichet numérique, [was created by prime-ministerial decree, the minister said on 28 September 2026](https://www.agenceecofin.com/actualites-numerique/3009-142019-rdc-strategies-identite-numerique-et-cybersecurite-au-bilan-d-un-an-de-reformes). The government [cancelled the June 2024 service-concession contract for electronic visas on 23 October 2026, after an evaluation found it gravely deficient legally, financially and contractually, and relaunched the selection of a provider, with bid evaluation planned for early 2027](https://actualite.cd/2026/10/25/rdc-le-gouvernement-relance-le-processus-e-visa-levaluation-des-offres-prevue-debut-2027); the integrated platform is [budgeted in the 2026-2028 medium-term expenditure framework and separate from the migration directorate's existing online application portal](https://www.wearetech.africa/fr/fils/actualites/tech/la-rdc-accelere-son-projet-de-plateforme-integree-pour-les-visas-electroniques). The electoral commission [launched a programme on 28 September 2026 to digitise the electoral archives produced since 2005](https://depeche.cd/2026/10/01/ceni-denis-kadima-lance-la-numerisation-des-archives-et-la-formation-de-762-cadres-et-agents/).
 
 <!-- derived -->
 Citizen-facing digital government is sectoral rather than unified: three of the seven public-facing channels the index tracks exist — the tax, social protection and jobs portals — while the national service portal, the open data portal, the e-participation platform and the citizen feedback platform do not (2025).
