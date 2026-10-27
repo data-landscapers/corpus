@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "research",
-   "stage": "3",
-   "research": "publishing",
-   "policy": "",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-001",
-   "gaps": "No source held since October 2023 says local research fed a digital policy, law or strategy.",
-   "note": "First pass: counted from the four questions by study-ladder-policyresearch.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "research",
+      "stage": "4",
+      "research": "publishing",
+      "policy": "contributed",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-003;ZAF-001",
+      "gaps": "No source held since October 2023 says a local research institution holds a standing advisory role in digital policy, or that a national research agenda on digital transformation is adopted.",
+      "note": "Research ICT Africa submitted a response on the proposed Identification Act amendments for digital ID in 2026 (ZAF-003), local evidence fed to a law's consultation. Stage 5 needs a standing advisory role or an adopted research agenda, and none is held.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

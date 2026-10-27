@@ -21,8 +21,8 @@ STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funde
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 2 |
-| 3 Established | 19 |
+| 4 Operating | 3 |
+| 3 Established | 18 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 8 |
@@ -36,6 +36,13 @@ Local research fed a digital policy process in 2026; a standing role is not on r
 
 - KICTANet submitted a memorandum to the Senate of Kenya on 5 May 2026 as a public comment on the Artificial Intelligence Bill, 2026, proposing a statutory AI Authority, a National Council and a ring-fenced fund ([source, 2026-05-05](https://www.kictanet.or.ke/wp-content/uploads/2026/05/AI-BILL-2026-Memorandum.docx.pdf)).
 - The CEO's letter in KICTANet's Annual Report 2024 says its evidence-based advocacy contributed to policy reforms, including reviews of ICT legislation and roundtables on digital taxation and cybersecurity ([source, 2024](https://www.kictanet.or.ke/?mdocs-file=52063)).
+
+### South Africa: 4 Operating
+
+A local research institute submitted evidence on the digital ID law amendments in 2026; a standing advisory role is not known.
+
+- Research ICT Africa submitted a response on the proposed Identification Act amendments, naming missing preconditions such as a digital identity policy and a privacy impact assessment, and is running a digital ID study in the Western Cape, Gauteng and KwaZulu-Natal ([source, 2026-10-26](https://www.businessday.co.za/opinion/2026-10-26-drew-haller-millions-risk-exclusion-as-smart-id-delays-persist/)).
+- Research ICT Africa, the Centre for Analytics and Behavioural Change and Moxii Africa launched findings of a joint national study on the governance of harmful online content in South Africa, built on legal analysis, social media monitoring and over 30 key informant interviews ([source, 2026-09-17](https://researchictafrica.net/2026/09/18/when-harm-goes-viral-multistakeholder-forum-launches-timely-report-on-south-africas-social-media-problem/)).
 
 ### Uganda: 4 Operating
 
@@ -130,12 +137,6 @@ A local institution published research on digital policy in 2026; a part in a po
 
 - SONSA published a 20-page research report on AI and digital rights in Somalia carried out by Capital University of Somalia, analysing government policies and private sector practices ([source, 2026-10-15](https://sonsaplatform.org/artificial-intelligence-and-digital-rights-in-somalia)).
 - SIDRA Institute, a Garowe-based think tank, published Policy Brief 26 on cybersecurity in Somalia by its researcher Abdi Omar Bile ([source, 2025-12](https://sidrainstitute.org/wp-content/uploads/2025/12/SIDRA-Cyberescurity-Policy-brief-1.pdf)).
-
-### South Africa: 3 Established
-
-A local institution published research on digital policy in 2026; a part in a policy process is not on record.
-
-- Research ICT Africa, the Centre for Analytics and Behavioural Change and Moxii Africa launched findings of a joint national study on the governance of harmful online content in South Africa, built on legal analysis, social media monitoring and over 30 key informant interviews ([source, 2026-09-17](https://researchictafrica.net/2026/09/18/when-harm-goes-viral-multistakeholder-forum-launches-timely-report-on-south-africas-social-media-problem/)).
 
 ### Sudan: 3 Established
 
