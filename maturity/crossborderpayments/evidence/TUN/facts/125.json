@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-30-tun-panafrican-payment-and-settlement-system-papss-une-necessaire-adhesion",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "La Presse reports the Central Bank of Tunisia joined PAPSS in February 2024 and two Tunisian commercial banks had subscribed by August 2025, so Tunisian firms could not yet generally use it.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "PAPSS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAPSS",
+   "country_label": "PAPSS",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Afreximbank",
+   "tiers": "central bank; two commercial banks"
+  }
+ ],
+ "note": ""
+}

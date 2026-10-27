@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-06-ben-2-911-milliards-fcfa-de-depot-effectues-en-2024",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "ARCEP Benin's 2024 annual report, as reported by Les 4 Vérités, puts mobile financial services at 2,512 million transactions in 2024, of which 0.5% were international transfers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile financial services (MTN MoMo, Moov Money, Celtiis Cash)",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

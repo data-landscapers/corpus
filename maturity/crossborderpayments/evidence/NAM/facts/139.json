@@ -1,0 +1,44 @@
+{
+ "slug": "2025-04-01-lso-south-african-reserve-bank-act-directive-no-1-of-2025-execution-of-low",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "The South African Reserve Bank directive says low-value cross-border electronic funds transfers within the Common Monetary Area (Eswatini, Lesotho, Namibia, South Africa) are currently executed through SADC-RTGS.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC-RTGS",
+   "country_label": "Namibia",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "TCIB payment scheme",
+   "country_label": "Namibia",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

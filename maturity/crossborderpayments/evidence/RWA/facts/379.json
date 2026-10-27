@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-13-rwa-signing-of-mou-between-central-bank-of-kenya-and-national-bank-of-rwan",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "In a speech published 13 March 2026, the National Bank of Rwanda says the Central Bank of Kenya and National Bank of Rwanda signed an MoU on a licence passporting framework letting payment service providers licensed at home operate in the other state, on a Letter of No Objection from the sending authority.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Licence Passporting Framework for Payment Service Providers",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

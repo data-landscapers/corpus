@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LBR,crossborder,corridor,coverage,,,,,nothing held
+LBR,crossborder,corridor,coverage,inservice,2026-06-10,LBR-003;LBR-004,,
 LBR,crossborder,regional,coverage,regional,2025-03-27,LBR-001,,
 LBR,crossborder,reported,coverage,reported,2024,LBR-002,,

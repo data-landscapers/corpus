@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-17-gab-moov-africa-gabon-telecom-lance-le-transfert-d-argent-international-av",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Moov Africa Gabon Telecom launched international money transfer in the Moov Money app on 15 January 2025, to CEMAC countries and about 20 countries outside it including Senegal, Kenya, Cote d'Ivoire and Nigeria.",
+   "as_of": "2025-01-15",
+   "date_precision": "day",
+   "system": "Moov Money",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "Moov Africa Gabon Telecom's director says the international transfer is charged at a standard fee of 4.5%.",
+   "as_of": "2025-01-15",
+   "date_precision": "day",
+   "system": "Moov Money",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money",
+   "country_label": "Moov Money",
+   "class": "crossborder",
+   "platform": "mobile app",
+   "owner": "Moov Africa Gabon Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

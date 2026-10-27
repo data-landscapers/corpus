@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "3",
-   "corridor": "inservice",
-   "regional": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001;ZMB-003",
-   "gaps": "No source held since October 2023 says the country takes part in PAPSS or a regional payment system.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "4",
+      "corridor": "inservice",
+      "regional": "regional",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-007;ZMB-006",
+      "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
+      "note": "The South Africa-Zambia corridor has run on the SADC TCIB scheme since March 2024, so the country is in a regional system in service. No figure is held, so not 5.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

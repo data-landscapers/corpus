@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,crossborder,corridor,coverage,underway,2026-08-29,TZA-001;TZA-002,,
+TZA,crossborder,corridor,coverage,inservice,2025-08-12,TZA-003;TZA-004,TZA-001=underway;TZA-005=underway;TZA-002=underway;TZA-006=underway,
 TZA,crossborder,regional,coverage,,,,,nothing held
 TZA,crossborder,reported,coverage,,,,,nothing held

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-11-dza-pourquoi-algerie-poste-bloque-baridimob-a-ses-usagers-a-l-etranger",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BaridiMob",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Algerie Poste",
+   "tiers": ""
+  }
+ ],
+ "note": "BaridiMob is blocked from foreign IP addresses; no cross-border corridor is stated."
+}

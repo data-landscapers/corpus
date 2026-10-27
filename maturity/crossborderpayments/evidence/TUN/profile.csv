@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 TUN,crossborder,corridor,coverage,underway,2026-06,TUN-003,,
-TUN,crossborder,regional,coverage,regional,2025-08-15,TUN-001;TUN-002;TUN-004,,
+TUN,crossborder,regional,coverage,,,,,nothing held
 TUN,crossborder,reported,coverage,,,,,nothing held

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,crossborder,corridor,coverage,inservice,2024,BEN-004,,
-BEN,crossborder,regional,coverage,regional,2026-05-29,BEN-001;BEN-002;BEN-003,,
-BEN,crossborder,reported,coverage,reported,2024,BEN-005,,
+BEN,crossborder,corridor,coverage,inservice,2024,BEN-004,BEN-006=underway,
+BEN,crossborder,regional,coverage,regional,2026-05-29,BEN-001;BEN-002;BEN-003;BEN-007,,
+BEN,crossborder,reported,coverage,reported,2024,BEN-005;BEN-008,,

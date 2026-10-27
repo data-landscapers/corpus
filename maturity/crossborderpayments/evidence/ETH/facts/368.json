@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-19-eth-m-pesa-onafriq-partner-to-send-remittances-to-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Onafriq says M-PESA Safaricom signed an International Money Transfer Agreement with it, so individuals in Ethiopia can receive remittances from abroad through M-PESA, under National Bank of Ethiopia authorisation of July 2023.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "M-PESA / Onafriq",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA",
+   "country_label": "Ethiopia",
+   "class": "crossborder",
+   "platform": "Onafriq network",
+   "owner": "Safaricom Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

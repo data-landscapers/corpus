@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-20-gha-notice-no-bg-gov-sec-2025-07-pilot-of-brijx-by-brij-fintech-ghana-in-t",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Bank of Ghana said Brij Fintech Ghana began live testing of BrijX, a cedi-naira currency swap platform, in its regulatory sandbox in February 2025.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "BrijX",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "BrijX",
+   "country_label": "Ghana",
+   "class": "crossborder",
+   "platform": "B2B currency swap platform",
+   "owner": "Brij Fintech Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

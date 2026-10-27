@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "4",
-   "corridor": "inservice",
-   "regional": "regional",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-004;MLI-005",
-   "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "5",
+      "corridor": "inservice",
+      "regional": "regional",
+      "reported": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-007;MLI-004",
+      "gaps": "",
+      "note": "BCEAO 2024 data put intra-UEMOA e-money transfers at 5.63% of the value of the country's e-money transactions, a figure for its cross-border digital payments. With PI-SPI in service, stage 5.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

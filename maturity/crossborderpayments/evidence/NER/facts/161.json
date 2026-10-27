@@ -1,0 +1,37 @@
+{
+ "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "L'Oeil du Sahel, citing BCEAO 2024 data, says intra-UEMOA e-money transfers made up about 1.03% of the value of Niger's mobile money transactions in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "intra-UEMOA e-money transfers",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at about 1.03% of the value of Niger's 480,220 million FCFA of e-money transactions in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "intra-UEMOA e-money transfers",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "L'Oeil du Sahel says the BCEAO lists 13 participants in Niger authorised to open PI-SPI services to the public, as of 30 September 2026.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,crossborder,corridor,coverage,inservice,2026-04-14,TGO-002;TGO-004,TGO-001=underway;TGO-010=underway,
+TGO,crossborder,corridor,coverage,inservice,2026-04-14,TGO-002;TGO-004;TGO-011,TGO-001=underway;TGO-010=underway;TGO-012=underway,
 TGO,crossborder,regional,coverage,regional,2026-06-24,TGO-003;TGO-005;TGO-006;TGO-007;TGO-008;TGO-009,,
 TGO,crossborder,reported,coverage,,,,,nothing held

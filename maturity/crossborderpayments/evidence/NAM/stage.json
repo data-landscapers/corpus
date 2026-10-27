@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "crossborder",
-      "stage": "2",
-      "corridor": "underway",
-      "regional": "",
+      "stage": "4",
+      "corridor": "inservice",
+      "regional": "regional",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-001;NAM-002",
-      "gaps": "No source held says TCIB or another cross-border digital corridor is in service for Namibia.",
-      "note": "Rebuild: Namclear's March 2026 agreement to join TCIB says its services will allow cross-border transfers, so the link is under way, not in service. Stage 2, not 4.",
-      "as_at": "2026-10-26"
+      "stage_sources": "NAM-009;NAM-006",
+      "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
+      "note": "The SARB's 2025 directive and the CMA committee's 2024 paper say the country's low-value cross-border transfers run through SADC-RTGS now; the TCIB link is still under way. No figure is held, so not 5.",
+      "as_at": "2026-10-27"
     }
   ]
 }

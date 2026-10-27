@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-03-mar-tranglo-launches-bank-account-transfers-in-morocco",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Tranglo says it launched real-time bank account transfers into Morocco in Moroccan dirhams, adding to its existing cash pickup corridor.",
+   "as_of": "2024-10-03",
+   "date_precision": "day",
+   "system": "Tranglo Connect",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tranglo Connect",
+   "country_label": "Tranglo",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Tranglo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

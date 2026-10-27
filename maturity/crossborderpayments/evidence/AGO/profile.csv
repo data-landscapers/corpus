@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,crossborder,corridor,coverage,inservice,2026-07-31,AGO-007,AGO-001=underway;AGO-002=underway;AGO-005=underway,
+AGO,crossborder,corridor,coverage,inservice,2026-07-31,AGO-007;AGO-008,AGO-001=underway;AGO-002=underway;AGO-005=underway,
 AGO,crossborder,regional,coverage,regional,2026-07-27,AGO-003;AGO-006,,
 AGO,crossborder,reported,coverage,reported,2025,AGO-004,,

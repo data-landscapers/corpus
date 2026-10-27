@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MLI,crossborder,corridor,coverage,inservice,2025-05-29,MLI-001,,
+MLI,crossborder,corridor,coverage,inservice,2025-05-29,MLI-001;MLI-006;MLI-008,MLI-009=underway,
 MLI,crossborder,regional,coverage,regional,2026-09,MLI-002;MLI-003;MLI-004;MLI-005,,
-MLI,crossborder,reported,coverage,,,,,nothing held
+MLI,crossborder,reported,coverage,reported,2024,MLI-007,,

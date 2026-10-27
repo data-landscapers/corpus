@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-08-mli-orange-finances-money-mali-et-terrapay-etablissent-un-partenariat-stra",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Orange Finances Money Mali and TerraPay say Orange Money Mali customers can now receive money transfers from several countries into their wallets through TerraPay's direct connection and global network.",
+   "as_of": "2024-01-08",
+   "date_precision": "day",
+   "system": "Orange Money Mali with TerraPay",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money Mali",
+   "country_label": "Mali",
+   "class": "crossborder",
+   "platform": "mobile money wallet",
+   "owner": "Orange Finances Money Mali",
+   "tiers": "inbound via TerraPay"
+  }
+ ],
+ "note": ""
+}

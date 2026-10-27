@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,crossborder,corridor,coverage,inservice,2026-09-09,ZAF-001;ZAF-002;ZAF-005,ZAF-004=underway;ZAF-003=underway,
-ZAF,crossborder,regional,coverage,regional,2026-10-20,ZAF-007;ZAF-008,,
+ZAF,crossborder,corridor,coverage,inservice,2026-09-09,ZAF-001;ZAF-002;ZAF-005;ZAF-011;ZAF-012;ZAF-014;ZAF-016;ZAF-018,ZAF-004=underway;ZAF-009=underway;ZAF-010=underway;ZAF-003=underway,
+ZAF,crossborder,regional,coverage,regional,2026-10-20,ZAF-007;ZAF-008;ZAF-013;ZAF-015;ZAF-017;ZAF-019,,
 ZAF,crossborder,reported,coverage,reported,2026-09-09,ZAF-006,,

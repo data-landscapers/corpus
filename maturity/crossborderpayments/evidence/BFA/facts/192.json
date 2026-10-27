@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "L'Oeil du Sahel, citing BCEAO 2024 data, says intra-UEMOA e-money transfers made up 7.25% of the value of Burkina Faso's mobile money transactions in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "intra-UEMOA e-money transfers",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at 7.25% of the value of Burkina Faso's 20,139,735 million FCFA of e-money transactions in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "intra-UEMOA e-money transfers",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

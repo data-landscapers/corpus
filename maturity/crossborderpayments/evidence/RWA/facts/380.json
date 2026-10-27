@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-11-tza-eac-begins-building-regional-instant-payment-network-with-rwanda-tanza",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The EAC says Rwanda and Tanzania have moved into technical implementation of a proof-of-concept pilot linking Tanzania's TIPS with Rwanda's RSwitch for cross-border transfers between bank accounts and mobile money wallets, not yet operational.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "TIPS-RSwitch link",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TIPS-RSwitch link",
+   "country_label": "TIPS-RSwitch proof of concept",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "EAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

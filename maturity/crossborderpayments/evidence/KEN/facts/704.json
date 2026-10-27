@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-14-ken-safaricom-enables-m-pesa-transfers-between-kenya-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Connecting Africa reports Safaricom extended M-Pesa Global to Ethiopia in October 2024, so M-Pesa wallets in Kenya and Ethiopia can make cross-border transfers, and M-Pesa customers can send and receive in over 190 countries.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "M-Pesa Global Kenya-Ethiopia",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa Global",
+   "country_label": "Kenya",
+   "class": "crossborder",
+   "platform": "mobile money",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

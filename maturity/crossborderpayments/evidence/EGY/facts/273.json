@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-06-egy-almezan-cbe-wallet-remittances-inbound-only",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "A Central Bank of Egypt source says international transfers through mobile wallets work for receiving money into Egypt only, not sending abroad, through Vodafone Cash and Etisalat Cash with licensed international money transfer firms.",
+   "as_of": "2025-04-06",
+   "date_precision": "day",
+   "system": "Vodafone Cash and Etisalat Cash international receipt",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Vodafone Cash",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "mobile wallet",
+   "owner": "Vodafone Egypt",
+   "tiers": "inbound only"
+  },
+  {
+   "system": "Etisalat Cash",
+   "country_label": "Egypt",
+   "class": "crossborder",
+   "platform": "mobile wallet",
+   "owner": "e& Egypt",
+   "tiers": "inbound only"
+  }
+ ],
+ "note": ""
+}

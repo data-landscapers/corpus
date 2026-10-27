@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-01-uga-bank-of-uganda-and-ifad-launch-remittance-dashboard-to-strengthen-tran",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "The Bank of Uganda says 2025 remittance inflows were US$2.5 billion, 73 per cent of them through digital channels and nearly 61 per cent through mobile money, with the United States the largest sending country at US$702 million.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Bank of Uganda remittance dashboard",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bank of Uganda remittance dashboard",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "dashboard, also on RemitSCOPe.org",
+   "owner": "Bank of Uganda with IFAD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

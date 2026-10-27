@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-15-lso-ecocash-unlocks-new-global-remittance-avenues-with-thunes-partnership",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Newsday reported that Sasai Econet Financial Services is adding inbound remittance corridors to EcoCash Lesotho through a partnership with Thunes, covering Zimbabwe, Tanzania, Europe, the UK and others, with a Botswana corridor due from October 2025.",
+   "as_of": "2025-09-15",
+   "date_precision": "day",
+   "system": "EcoCash Spache-Fono with Thunes",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EcoCash Spache-Fono",
+   "country_label": "Lesotho",
+   "class": "crossborder",
+   "platform": "mobile money",
+   "owner": "Sasai Econet Financial Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

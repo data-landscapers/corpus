@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-12-cog-airtel-money-africa-expands-pawapay-partnership-to-supercharge-imto-re",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets.",
+   "as_of": "2025-08-12",
+   "date_precision": "day",
+   "system": "pawaPay inbound remittance on Airtel Money",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Airtel Money",
+   "class": "crossborder",
+   "platform": "pawaPay",
+   "owner": "Airtel Money Africa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

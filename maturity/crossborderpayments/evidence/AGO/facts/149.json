@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-25-ago-angotic-2025-afrimoney-reforca-presenca-no-mercado-com-servico-de-reme",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Afrimoney's executive council chair told Economia e Mercado at ANGOTIC 2025 that Afrimoney lets people in Angola receive money in kwanza in real time from countries including Portugal, Brazil, DR Congo, Namibia, Mozambique and South Africa; outbound is not yet live.",
+   "as_of": "2025-06-25",
+   "date_precision": "day",
+   "system": "Afrimoney",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afrimoney",
+   "country_label": "Angola",
+   "class": "crossborder",
+   "platform": "Afrimoney",
+   "owner": "Africell",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

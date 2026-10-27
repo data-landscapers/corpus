@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-05-ben-moov-money-et-boa-benin-adoptent-la-plateforme-pi-spi-de-la-bceao",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Le Grand Ouémé reports Moov Money Bénin and BOA-Bénin offer customers instant payments on the BCEAO's PI-SPI across the UEMOA zone, as of a 4 November 2025 ceremony.",
+   "as_of": "2025-11-04",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Benin",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

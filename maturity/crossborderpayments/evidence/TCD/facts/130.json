@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-tcd-tranglo-grows-footprint-in-africa-with-5-new-countries",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Tranglo's 1 July 2025 press release says its payment hub now supports e-wallet payouts in Chad, with near-instant transfers in local currency at launch.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Tranglo",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tranglo",
+   "country_label": "Chad",
+   "class": "crossborder",
+   "platform": "Tranglo payment hub",
+   "owner": "Tranglo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

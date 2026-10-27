@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-29-dji-nouveau-envoyez-de-l-argent-a-l-etranger-avec-d-money",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "D-Money (Djibouti Telecom) announced in a post of 29 July 2025 that its wallet now sends money abroad to 15 destinations, including Belgium, Ethiopia, Senegal, Canada and Saudi Arabia, through Herman International Exchange.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "D-Money international transfer",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "D-Money international transfer",
+   "country_label": "D-Money outbound transfers via Herman International Exchange",
+   "class": "crossborder",
+   "platform": "D-Money",
+   "owner": "Djibouti Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

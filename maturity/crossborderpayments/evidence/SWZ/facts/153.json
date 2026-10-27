@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-01-swz-cma-eft-payments-directive-no-1-of-2025",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "The directive says low-value cross-border electronic funds transfers within the Common Monetary Area are currently executed through SADC-RTGS.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Eswatini payment service providers route low-value CMA cross-border transfers through the SADC-RTGS system and must move them to the TCIB scheme by 31 March 2027.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC-RTGS",
+   "country_label": "SADC real-time gross settlement",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

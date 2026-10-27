@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-05-egy-cbe-instant-inbound-remittances-primary",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Central Bank of Egypt says on 5 December 2024 that it issued licences and approvals to a number of banks to credit inbound remittances from abroad instantly through the instant payments network, after a June 2024 pilot via correspondent banks and exchange houses abroad.",
+   "as_of": "2024-12-05",
+   "date_precision": "day",
+   "system": "instant inbound remittances via IPN",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

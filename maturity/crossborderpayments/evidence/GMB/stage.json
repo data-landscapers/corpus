@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "4",
-   "corridor": "inservice",
-   "regional": "regional",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-002;GMB-001",
-   "gaps": "No source held since October 2023 gives a figure for cross-border digital payments.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "5",
+      "corridor": "inservice",
+      "regional": "regional",
+      "reported": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-005;GMB-002",
+      "gaps": "",
+      "note": "IFAD's April 2026 profile of The Gambia reports US$135 million in remittances received digitally through APS wallets, a figure for the country's corridors. With live PAPSS banks, stage 5.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

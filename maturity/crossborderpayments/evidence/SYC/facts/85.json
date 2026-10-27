@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-30-syc-opening-remarks-by-ms-caroline-abel-governor-of-the-central-bank-of-se",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Governor Caroline Abel said Seychelles remains active on the SADC-RTGS platform, processing cross-border payments through the Central Bank, though volumes are limited.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SADC-RTGS",
+   "country_label": "SADC-RTGS",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "SADC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

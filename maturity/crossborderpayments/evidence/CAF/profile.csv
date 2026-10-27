@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CAF,crossborder,corridor,coverage,inservice,2023-11,CAF-002,CAF-010=underway,
-CAF,crossborder,regional,coverage,regional,2026-07-29,CAF-001;CAF-003;CAF-005;CAF-007;CAF-008;CAF-009,,
-CAF,crossborder,reported,coverage,reported,2025,CAF-004;CAF-006,,
+CAF,crossborder,corridor,coverage,inservice,2025-07-01,CAF-002;CAF-011,CAF-007=underway;CAF-008=underway;CAF-009=underway;CAF-010=underway,
+CAF,crossborder,regional,coverage,regional,2026-07-29,CAF-001;CAF-003;CAF-005;CAF-006,,
+CAF,crossborder,reported,coverage,reported,2022,CAF-004,,nothing dated since 2023-10-27

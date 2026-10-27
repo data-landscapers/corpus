@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to",
+ "facts": [],
+ "systems": [
+  {
+   "system": "telebirr",
+   "country_label": "Ethiopia",
+   "class": "crossborder",
+   "platform": "mobile money",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "Only negotiations to link telebirr with Sudan and Djibouti, awaiting National Bank of Ethiopia approval, are stated; that is not a pilot or licence."
+}

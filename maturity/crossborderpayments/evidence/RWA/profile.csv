@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,crossborder,corridor,coverage,inservice,2026-09-08,RWA-003,RWA-005=underway;RWA-001=underway;RWA-002=underway;RWA-004=underway,
+RWA,crossborder,corridor,coverage,inservice,2026-09-08,RWA-003;RWA-006;RWA-007,RWA-005=underway;RWA-001=underway;RWA-002=underway;RWA-004=underway;RWA-008=underway;RWA-009=underway;RWA-010=underway,
 RWA,crossborder,regional,coverage,,,,,nothing held
 RWA,crossborder,reported,coverage,,,,,nothing held

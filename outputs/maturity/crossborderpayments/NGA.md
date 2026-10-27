@@ -8,6 +8,6 @@
 
 **Volumes reported.** No source held since October 2023 gives a figure for cross-border digital payments. The nearest held fact: [the one given above](<https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with>).
 
-***Noted, not assessed***. [Remita](<https://thecondia.com/remita-launches-super-app/>).
+***Noted, not assessed***. [Remita](<https://thecondia.com/remita-launches-super-app/>); [MoMo PSB wallet](<https://businessday.ng/technology/article/momo-psb-deepens-diaspora-remittance-on-cross-border-transfer-expansion/>).
 
 ***Not held***. No source held since October 2023 gives a figure for cross-border digital payments.

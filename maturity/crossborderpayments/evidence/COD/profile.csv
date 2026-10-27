@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,crossborder,corridor,coverage,underway,2026-07,COD-001;COD-002,,
-COD,crossborder,regional,coverage,regional,2026-09,COD-003,,
+COD,crossborder,corridor,coverage,inservice,2025-06-24,COD-004;COD-005,COD-002=underway;COD-001=underway,
+COD,crossborder,regional,coverage,,,,,nothing held
 COD,crossborder,reported,coverage,,,,,nothing held

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-25-gab-le-gabon-a-enregistre-plus-de-4-milliards-de-fcfa-de-transactions-mobi",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Business & Finance International, citing the finance ministry's DGEPF note, reports mobile money international transfers within the CEMAC zone in 2024 rose 53.8% in value and 88.8% in volume.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Airtel Money and Moov Money",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": "The figures are growth rates, not an absolute volume or value, so no reported fact."
+}

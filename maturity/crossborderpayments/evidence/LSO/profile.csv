@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,crossborder,corridor,coverage,inservice,2026-07-27,LSO-001;LSO-002,,
-LSO,crossborder,regional,coverage,,,,,nothing held
+LSO,crossborder,corridor,coverage,inservice,2026-07-27,LSO-001;LSO-002;LSO-004;LSO-006;LSO-008,LSO-003=underway,
+LSO,crossborder,regional,coverage,regional,2025-04-01,LSO-005;LSO-007;LSO-009,,
 LSO,crossborder,reported,coverage,,,,,nothing held

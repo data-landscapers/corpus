@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,crossborder,corridor,coverage,underway,2026-10-01,MOZ-001,,
+MOZ,crossborder,corridor,coverage,inservice,2024-04-15,MOZ-004,MOZ-001=underway,
 MOZ,crossborder,regional,coverage,regional,2026-06,MOZ-002,,
 MOZ,crossborder,reported,coverage,reported,2026-06,MOZ-003,,

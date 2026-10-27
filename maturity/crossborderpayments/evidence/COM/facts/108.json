@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-22-com-transfert-d-argent-mvola-comores-lance-de-nouveaux-services",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "La Gazette des Comores reports that on 21 February 2024 Mvola Comores launched transfers from Orange Money Europe and Paysend into Mvola Comores and from Mvola Comores to Orange Senegal, adding to existing transfers with Madagascar, Tanzania and Uganda.",
+   "as_of": "2024-02-21",
+   "date_precision": "day",
+   "system": "Mvola Comores",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mvola Comores",
+   "country_label": "Comoros",
+   "class": "crossborder",
+   "platform": "mobile money",
+   "owner": "Telma Comores",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

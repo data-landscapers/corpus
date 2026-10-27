@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-19-eth-ethio-telecom-in-collaboration-with-visa-inc-has-launched-the-first-wa",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Ethio telecom says its Visa Direct service lets Visa cardholders in over 190 countries send money to telebirr virtual card numbers, and its telebirr Remit app receives remittances from nine named countries (US, Canada, Israel, Saudi Arabia, UAE, UK, South Africa, Italy, Sweden).",
+   "as_of": "2024-08-19",
+   "date_precision": "day",
+   "system": "telebirr Remit and Visa Direct",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "telebirr Remit / Visa Direct",
+   "country_label": "telebirr",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Ethio telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

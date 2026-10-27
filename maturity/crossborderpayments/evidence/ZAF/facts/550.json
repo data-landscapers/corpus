@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-15-mwi-mtn-momo-increases-remittance-services-to-10-new-countries",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MTN South Africa's MoMo app launched 25 additional wallet corridors, letting users in South Africa send money to wallets in Mozambique, Malawi and the Democratic Republic of Congo among others, at a 4% launch fee.",
+   "as_of": "2024-04-15",
+   "date_precision": "day",
+   "system": "MTN MoMo remittance corridors",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN MoMo remittance corridors",
+   "country_label": "MTN MoMo",
+   "class": "crossborder",
+   "platform": "MoMo app",
+   "owner": "MTN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "crossborder",
-      "stage": "2",
-      "corridor": "underway",
+      "stage": "3",
+      "corridor": "inservice",
       "regional": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-002;ETH-005",
-      "gaps": "No source held says an Ethiopian institution is live on PAPSS, or that any cross-border digital corridor is in service.",
-      "note": "Rebuild: Ethiopia joined PAPSS in September 2026, but no Ethiopian bank or wallet operator was live by October, so the joining is a corridor under way. Stage 2, not 4.",
-      "as_at": "2026-10-26"
+      "stage_sources": "ETH-006;ETH-007;ETH-008",
+      "gaps": "No source held says an Ethiopian institution is live on PAPSS or another regional system.",
+      "note": "M-Pesa Global's Kenya-Ethiopia transfers (October 2024) and telebirr Remit (August 2024) put corridors in service. Ethiopia joined PAPSS in 2026 with no institution yet live, so not 4.",
+      "as_at": "2026-10-27"
     }
   ]
 }

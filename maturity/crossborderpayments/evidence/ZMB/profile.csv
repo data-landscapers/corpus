@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,crossborder,corridor,coverage,inservice,2026-09-23,ZMB-001;ZMB-003,ZMB-002=underway,
-ZMB,crossborder,regional,coverage,,,,,nothing held
+ZMB,crossborder,corridor,coverage,inservice,2026-09-23,ZMB-001;ZMB-003;ZMB-004;ZMB-005;ZMB-006,ZMB-008=underway;ZMB-009=underway;ZMB-002=underway,
+ZMB,crossborder,regional,coverage,regional,2024-03-01,ZMB-007,,
 ZMB,crossborder,reported,coverage,,,,,nothing held

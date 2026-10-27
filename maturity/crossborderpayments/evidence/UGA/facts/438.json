@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-29-cog-pawapay-q3-round-up-2-billion-transactions-new-remittance-markets-and",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Payment company pawaPay says it launched remittances as a payment flow in Uganda, fully live with MTN and Airtel.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "pawaPay remittances",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

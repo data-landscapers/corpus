@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-15-lso-cbl-allays-fears-over-cross-border-eft-payments",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "A Central Bank of Lesotho payments director said the regional infrastructure payment system of the Common Monetary Area already handles various payments within the area and beyond, and that low-value cross-border payments, until then routed as South African domestic payments, will move to it from September 2024.",
+   "as_of": "2024-04-15",
+   "date_precision": "day",
+   "system": "Common Monetary Area regional infrastructure payment system",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Common Monetary Area regional infrastructure payment system",
+   "country_label": "Lesotho",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Common Monetary Area regulators",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-26-swz-common-monetary-area-countries-move-to-regularise-electronic-funds-tra",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "The South African Reserve Bank said that from 30 September 2024 low-value electronic funds transfers, debit and credit payments among Eswatini, Lesotho, Namibia and South Africa are treated as cross-border transactions with greater due diligence.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Common Monetary Area low-value EFT",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-21-nga-momo-psb-deepens-diaspora-remittance-on-cross-border-transfer-expansio",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MoMo PSB, MTN Nigeria's payment service bank, sends wallet transfers from Nigeria to 16 African countries including Kenya and South Sudan and receives inbound transfers from the UK, US, Canada and Europe via Lightway Finance and Thunes.",
+   "as_of": "2026-01-21",
+   "date_precision": "day",
+   "system": "MoMo PSB cross-border transfer",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MoMo PSB wallet",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "MoMo Payment Service Bank (MTN Nigeria)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

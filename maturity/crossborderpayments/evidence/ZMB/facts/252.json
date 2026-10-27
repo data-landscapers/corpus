@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-10-zmb-zambia-s-zamtel-to-pilot-new-comesa-system-for-instant-cross-border-mo",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Lusaka Times reports that COMESA launched its Digital Retail Payment Platform in October 2025 with a pilot on the Zambia-Malawi corridor, with Zamtel implementing the Zambian side.",
+   "as_of": "2025-10-10",
+   "date_precision": "day",
+   "system": "COMESA Digital Retail Payment Platform (DRPP)",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "COMESA DRPP",
+   "country_label": "Zambia",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "COMESA; Zamtel for Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23-zaf-regulatory-approach-to-cross-border-payment-facilitators",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The South African Reserve Bank says on 23 June 2026 that its payment system and financial surveillance departments are drafting rules for cross-border payment facilitators, with a draft FinSurv circular issued in December 2025 on cross-border settlement and reporting.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Draft FinSurv cross-border retail e-commerce circular",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

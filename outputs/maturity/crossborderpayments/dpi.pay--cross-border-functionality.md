@@ -20,10 +20,10 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 24 |
-| 3 Established | 6 |
-| 2 Nascent | 11 |
+| 5 Leading | 12 |
+| 4 Operating | 25 |
+| 3 Established | 8 |
+| 2 Nascent | 4 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 3 |
@@ -42,11 +42,25 @@ Cross-border digital payment volumes or costs were reported in 2024.
 
 - Benin had 8 million intra-UEMOA cross-border transfer operations worth CFA 230 billion in 2024, an average of CFA 5,172, per the BCEAO ([source, 2024](https://www.lanation.bj/economie/finance-numerique-et-inclusion-plus-de-248-millions-de-comptes-momo-dans-luemoa)).
 
+### Burkina Faso: 5 Leading
+
+Cross-border digital payment volumes or costs were reported in 2024.
+
+- L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at 7.25% of the value of Burkina Faso's 20,139,735 million FCFA of e-money transactions in 2024 ([source, 2024](https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/)).
+- leFaso.net reports that the BCEAO's PI-SPI instant payment platform, launched 30 September 2025, serves the UEMOA, with 80 institutions connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
+
 ### Egypt: 5 Leading
 
 Cross-border digital payment volumes or costs were reported in 2026.
 
 - Youm7, citing the NTRA H1 2026 wallet report, says incoming transfers from abroad were 3% of wallet deposits by count and 10% by value ([source, 2026-06](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929)).
+
+### Gambia: 5 Leading
+
+Cross-border digital payment volumes or costs were reported in 2025.
+
+- The IFAD PRIME Africa end-of-project profile (April 2026) reports US$135 million in remittances received digitally through APS and an average APS remittance cost of 5 per cent across PRIME corridors ([source, 2025](https://ffremittances.org/wp-content/uploads/2026/05/2026_PF_TheGambia_APS_completion_WEB.pdf)).
+- PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
 
 ### Liberia: 5 Leading
 
@@ -54,11 +68,25 @@ Cross-border digital payment volumes or costs were reported in 2024.
 
 - The Executive Governor said cross-border transactions grew 17.7% in 2024 to $494.5 million, and PAPSS transactions reached about L$37.7 million between June and December 2024 ([source, 2024](https://www.cbl.org.lr/media/features-articles/eg-saamoi-speaks-joint-launch-fined-papss-monrovia)).
 
+### Mali: 5 Leading
+
+Cross-border digital payment volumes or costs were reported in 2024.
+
+- L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at 5.63% of the value of Mali's 18,744,827 million FCFA of e-money transactions in 2024 ([source, 2024](https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/)).
+- Mali is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025 ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
+
 ### Mozambique: 5 Leading
 
 Cross-border digital payment volumes or costs were reported in 2026.
 
 - SARB's June 2026 SADC-RTGS per-country table gives Mozambique 215 settled transactions with a value of ZAR 261.79 million ([source, 2026-06](https://www.resbank.co.za/content/dam/sarb/what-we-do/payments-and-settlements/settlement-services/sadc-rtgs/2026-stats/SADC-RTGS%20Settlement%20Statistics%20and%20Indicators%20-%20June%202026.pdf)).
+
+### Niger: 5 Leading
+
+Cross-border digital payment volumes or costs were reported in 2024.
+
+- L'Oeil du Sahel, citing BCEAO 2024 data, puts intra-UEMOA transfers at about 1.03% of the value of Niger's 480,220 million FCFA of e-money transactions in 2024 ([source, 2024](https://oeildusahel.com/pi-spi-mobile-money-impact-economique-aes/)).
+- Niger is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025 ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
 
 ### South Africa: 5 Leading
 
@@ -83,13 +111,6 @@ Cross-border digital payment volumes or costs were reported in 2026.
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
 
 - Botswana is now a live corridor of TCIB, the cross-border scheme PayInc operates as SADC Regional Settlement Operator for the SADC region, per TechAfrica News ([source, 2026-03-02](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/)).
-
-### Burkina Faso: 4 Operating
-
-The country took part in a regional payment system in 2026; cross-border volumes are not reported.
-
-- leFaso.net reports that the BCEAO's PI-SPI instant payment platform, launched 30 September 2025, serves the UEMOA, with 80 institutions connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
-- Nine institutions in Burkina Faso are authorised to offer services on the BCEAO's WAEMU-wide PI-SPI instant payment platform, as of 24 February 2026 ([source, 2026-02-24](https://lefaso.net/spip.php?article144889)).
 
 ### Burundi: 4 Operating
 
@@ -145,19 +166,19 @@ The country took part in a regional payment system in 2026; cross-border volumes
 - Equatorial Guinea is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
 - Equatorial Guinea takes part in GIMACPAY, the CEMAC regional payment platform operated by GIMAC ([source, 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)).
 
+### Eswatini: 4 Operating
+
+The country took part in a regional payment system in 2025; cross-border volumes are not reported.
+
+- Eswatini payment service providers route low-value CMA cross-border transfers through the SADC-RTGS system and must move them to the TCIB scheme by 31 March 2027 ([source, 2025-03-31](https://www.centralbank.org.sz/wp-content/uploads/2025/04/Eswatini-CMA-Retail-EFT-Payment-Directive-v1.pdf)).
+- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
+
 ### Gabon: 4 Operating
 
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
 
 - Gabon is one of six CEMAC states on GIMACPAY, the regional platform whose interoperable QR Code standard was launched on 29 July 2026 ([source, 2026-07-29](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac)).
 - BEAC launched on 29 July 2026 an interoperable QR code letting any bank or microfinance app in the CEMAC read a merchant code in any member country, with regional operations routed and cleared via GIMAC ([source, 2026-07-29](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)).
-
-### Gambia: 4 Operating
-
-The country took part in a regional payment system in 2026; cross-border volumes are not reported.
-
-- PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
-- PAPSS lists Gambia as available for transfers in April 2026, through six live commercial banks (AGIB Bank, Bloom Bank, Ecobank, First Bank, Trust Bank, Vista Bank) ([source, 2026-04](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf)).
 
 ### Ghana: 4 Operating
 
@@ -186,18 +207,18 @@ The country took part in a regional payment system in 2026; cross-border volumes
 - TechReviewAfrica reports PAPSS is now available to customers of I&M Bank Kenya, who can send money across participating African markets in Kenyan shillings through branches ([source, 2026-09-20](https://techreviewafrica.com/news/7347/papss-goes-live-at-im-bank-kenya-to-expand-cross-border-payments)).
 - Kenya is on PAPSS: the central bank joined in September 2023, KCB went live in March 2025 and Pesalink plugged into PAPSS in February 2026, per tech-ish ([source, 2026-02](https://tech-ish.com/2026/09/17/papss-payments-grew-1000-in-a-year-and-kenya-is-now-on-the-network/)).
 
+### Lesotho: 4 Operating
+
+The country took part in a regional payment system in 2025; cross-border volumes are not reported.
+
+- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
+- The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Lesotho among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027 ([source, 2024-07-31](https://www.centralbank.org.sz/wp-content/uploads/2024/07/CMA-position-paper-on-cross-border-low-value-EFT-payments-31-July-2024.pdf)).
+
 ### Malawi: 4 Operating
 
 The country took part in a regional payment system in 2025; cross-border volumes are not reported.
 
 - Malawi takes part in the COMESA Digital Retail Payments Platform, described as the first interoperable cross-border payment system of the 21-member bloc ([source, 2025-10](https://mwnation.com/comesa-payment-system-connects-malawi-zambia)).
-
-### Mali: 4 Operating
-
-The country took part in a regional payment system in 2026; cross-border volumes are not reported.
-
-- Mali is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025 ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
-- The BCEAO list places Mali in the eight-country WAEMU PI-SPI regional instant payment rail ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
 
 ### Mauritius: 4 Operating
 
@@ -205,12 +226,12 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - Bank of Mauritius Governor Thakoor says the bank is settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
 
-### Niger: 4 Operating
+### Namibia: 4 Operating
 
-The country took part in a regional payment system in 2026; cross-border volumes are not reported.
+The country took part in a regional payment system in 2025; cross-border volumes are not reported.
 
-- Niger is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025 ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
-- BCEAO says the UMOA payment infrastructure includes STAR-UMOA, SICA-UMOA and SAGETIL-UMOA and the PI-SPI instant-payment platform, regional systems of the Union that includes Niger ([source, 2026-09-15](https://www.lesahel.org/digitalisation-et-services-financiers-numeriques-de-la-bceao-renforcer-linclusion-financiere-la-modernisation-des-services-financiers-et-la-resilience-du-systeme-financier-de-l/)).
+- The South African Reserve Bank directive says Common Monetary Area low-value transfers, including this country's, run through the SADC-RTGS regional system and must move to the TCIB scheme by April 2027 ([source, 2025-04-01](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf)).
+- The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Namibia among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027 ([source, 2024-07-31](https://www.centralbank.org.sz/wp-content/uploads/2024/07/CMA-position-paper-on-cross-border-low-value-EFT-payments-31-July-2024.pdf)).
 
 ### Nigeria: 4 Operating
 
@@ -226,6 +247,12 @@ The country took part in a regional payment system in 2026; cross-border volumes
 - Senegal has 43 of the 175 participants authorised to open PI-SPI services to the public across the eight WAEMU countries, per the list the BCEAO updated on 30 September 2026 ([source, 2026-09-30](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)).
 - PI-SPI, the BCEAO regional instant payment platform covering the UMOA, has been in service since 30 September 2025, with 80 participants connected at 24 June 2026 ([source, 2026-06-24](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html)).
 
+### Seychelles: 4 Operating
+
+The country took part in a regional payment system in 2025; cross-border volumes are not reported.
+
+- Governor Caroline Abel said Seychelles remains active on the SADC-RTGS platform, processing cross-border payments through the Central Bank, though volumes are limited ([source, 2025-07-30](https://www.cbs.sc/Downloads/publications/Speeches/Opening%20Remarks%20by%20Governor%20Caroline%20Abel%20-SADC%20CCBG%20PSS%20and%20PSOC%20meetings.pdf)).
+
 ### Sierra Leone: 4 Operating
 
 The country took part in a regional payment system in 2025; cross-border volumes are not reported.
@@ -239,12 +266,33 @@ The country took part in a regional payment system in 2026; cross-border volumes
 - leFaso.net reports that the BCEAO's PI-SPI instant payment platform, launched 30 September 2025, serves the UEMOA, with 80 institutions connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
 - Togo takes part in the BCEAO's PI-SPI regional instant payment platform, in service across the eight UEMOA states ([source, 2026-04-14](https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi)).
 
-### Lesotho: 3 Established
+### Zambia: 4 Operating
 
-A cross-border digital payment corridor was in service in 2026; a regional payment system link is not known.
+The country took part in a regional payment system in 2024; cross-border volumes are not reported.
 
-- Standard Bank says it has expanded access to China's CIPS, settling cross-border payments directly in RMB, to clients in Lesotho among others ([source, 2026-07-27](https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/)).
-- TechCabal reports Lesotho migrant workers in South Africa send money home to Lesotho through the fintech Mukuru, after tighter South African banking rules ([source, 2026-06-12](https://techcabal.com/2026/06/12/south-africa-remittance-rules-migrants/)).
+- IT-Online reports that the SADC TCIB scheme, live since 2021 and operated by BankservAfrica, now carries the South Africa-Zambia corridor, with SendHome and SamPay as its newest participants ([source, 2024-03-01](https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/)).
+- IT-Online reports that BankservAfrica opened the first instant low-value digital payment corridor between South Africa and Zambia on 1 March 2024, after SendHome and SamPay joined the TCIB scheme ([source, 2024-03-01](https://it-online.co.za/2024/03/01/cross-border-payments-now-live-between-sa-and-zambia/)).
+
+### Comoros: 3 Established
+
+A cross-border digital payment corridor was in service in 2024; a regional payment system link is not known.
+
+- La Gazette des Comores reports that on 21 February 2024 Mvola Comores launched transfers from Orange Money Europe and Paysend into Mvola Comores and from Mvola Comores to Orange Senegal, adding to existing transfers with Madagascar, Tanzania and Uganda ([source, 2024-02-21](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/transfert-d%E2%80%99argent-mvola-comores-lance-de-nouveaux-services-.html)).
+
+### DR Congo: 3 Established
+
+A cross-border digital payment corridor was in service in 2025; a regional payment system link is not known.
+
+- An Orange Money RDC manager announced the launch of outbound international wallet-to-wallet transfers from the DRC to Congo-Brazzaville, Tanzania, Zambia, Senegal and Cote d'Ivoire, with a USD 2,500 daily limit ([source, 2025-06-24](https://fr.linkedin.com/posts/eric-kashila-3804133a_orangemoney-transfertinternational-mobilemoney-activity-7343208213359550464-Y6YG)).
+- MTN's MoMo app opened a wallet corridor from South Africa to the Democratic Republic of Congo, so migrants in South Africa can send money home to wallets there, ITWeb reports ([source, 2024-04-15](https://itweb.africa/article/mtn-momo-increases-remittance-services-to-10-new-countries/lLn147mQr947J6Aa)).
+
+### Ethiopia: 3 Established
+
+A cross-border digital payment corridor was in service in 2024; a regional payment system link is not known.
+
+- Connecting Africa reports Safaricom extended M-Pesa Global to Ethiopia in October 2024, so M-Pesa wallets in Kenya and Ethiopia can make cross-border transfers, with Ethiopian customers receiving from M-Pesa Kenya ([source, 2024-10-14](https://www.connectingafrica.com/mobile-money/safaricom-enables-m-pesa-transfers-between-kenya-ethiopia)).
+- Ethio telecom says its Visa Direct service lets Visa cardholders in over 190 countries send money to telebirr virtual card numbers, and its telebirr Remit app receives remittances from nine named countries (US, Canada, Israel, Saudi Arabia, UAE, UK, South Africa, Italy, Sweden) ([source, 2024-08-19](https://www.ethiotelecom.et/the-first-virtual-visa-card-in-ethiopia-remittance-visa-direct-telebirr-remit/)).
+- Onafriq says M-PESA Safaricom signed an International Money Transfer Agreement with it, so individuals in Ethiopia can receive remittances from abroad through M-PESA, under National Bank of Ethiopia authorisation of July 2023 ([source, 2024-03-19](https://onafriq.com/press/article/m-pesa-safaricom-partners-with-onafriq-enabling-the-flow-of-remittances-to-ethiopia)).
 
 ### Madagascar: 3 Established
 
@@ -271,57 +319,18 @@ A cross-border digital payment corridor was in service in 2025; a regional payme
 
 - ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia ([source, 2025-05-29](https://itweb.africa/article/mtn-momo-onafriq-partner-on-remittances-in-south-sudan/kYbe97XbmYYqAWpG)).
 
-### Zambia: 3 Established
+### Tanzania: 3 Established
 
-A cross-border digital payment corridor was in service in 2026; a regional payment system link is not known.
+A cross-border digital payment corridor was in service in 2025; a regional payment system link is not known.
 
-- Stanbic Bank Zambia launched direct renminbi settlement for Zambia-China trade over China's CIPS in Lusaka on 23 September 2026, per the commerce ministry and the bank ([source, 2026-09-23](https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/)).
-- MTN MoMo Zambia introduced direct wallet-to-bank transfers in January 2026, the first Zambian mobile money provider to let customers send funds to international bank accounts in the EU, UK and Canada, per ITWeb Africa ([source, 2026-01](https://www.itweb.africa/article/momo-fnb-launch-zambia-atm-cash-out/G98YdqLGnQ9MX2PD)).
-
-### Comoros: 2 Nascent
-
-A cross-border digital payment corridor was under way in 2024; none in service is on record.
-
-- The Banque Centrale des Comores signed a PAPSS membership agreement in July 2024 and PAPSS implementation in Comoros commenced on 23 August 2024, with commercial banks to begin integrating, per Afreximbank ([source, 2024-08-23](https://www.afreximbank.com/central-bank-of-comoros-commencement-of-activities-for-the-implementation-of-papss-in-comoros)).
-
-### DR Congo: 2 Nascent
-
-A cross-border digital payment corridor was under way in 2026; none in service is on record.
-
-- The EastAfrican reports Visa is using stablecoin settlement with Onafriq for Visa Pay in DR Congo, launched September 2025, with another planned Visa partnership awaiting regulatory approval ([source, 2026-07](https://www.theeastafrican.co.ke/tea/business-tech/visa-tests-stablecoins-in-drc-for-cross-border-payments-5515040)).
-- TechAfrica News says Visa, M-PESA Africa and Onafriq are set to pilot stablecoins for cross-border mobile money transactions, with DR Congo the initial testing ground ([source, 2026-07-06](https://techafricanews.com/2026/07/06/visa-m-pesa-africa-and-onafriq-launch-stablecoin-pilot-in-dr-congo/)).
-
-### Eswatini: 2 Nascent
-
-A cross-border digital payment corridor was under way in 2026; none in service is on record.
-
-- Low-value transactions within the Common Monetary Area (Eswatini, South Africa, Lesotho, Namibia) are migrating from domestic electronic funds transfer rails to the Transactions Cleared on an Immediate Basis payment scheme, per ITWeb Africa ([source, 2026-07-21](https://itweb.africa/article/egypt-eswatini-deepen-banking-cooperation/KWEBb7yL4wbvmRjO)).
-
-### Ethiopia: 2 Nascent
-
-A cross-border digital payment corridor was under way in 2026; none in service is on record.
-
-- FSX Business reports Ethiopia became the 31st PAPSS member country and four Ethiopian banks have begun the regulatory process to join, awaiting National Bank of Ethiopia no-objection letters, with no bank yet operational ([source, 2026-09-30](https://www.fsxbusiness.com/ethiopia-joins-papss)).
-- Afreximbank's release says Ethiopia has officially joined the PAPSS network, enabling Ethiopian financial institutions to connect and make cross-border payments with institutions across Africa ([source, 2026-10-15](https://www.afreximbank.com/ethiopia-joins-papss-network-as-national-bank-of-ethiopia-and-papss-announce-the-2nd-edition-of-cowry-in-addis-ababa/)).
+- Connecting Africa reports that Airtel Money Africa and PawaPay launched inbound remittances into Tanzania on 7 August 2025, letting licensed international money transfer operators pay into Airtel Money wallets ([source, 2025-08-07](https://www.connectingafrica.com/mobile-money/airtel-money-pawapay-enable-remittances-for-seven-african-countries)).
+- Finhive reports that Airtel Money Africa and pawaPay launched pawaPay's inbound remittance service for licensed international money transfer operators, with real-time deposits to Airtel Money wallets, in this country among seven markets ([source, 2025-08-12](https://finhive.africa/news/airtel-money-africa-expands-pawapay-partnership-to-supercharge-imto-remittances-across-seven-markets/)).
 
 ### Libya: 2 Nascent
 
 A cross-border digital payment corridor was under way in 2026; none in service is on record.
 
 - Governor Naji Issa said the project to connect Libya to China's CIPS cross-border payment system has begun, with a pilot phase targeted for early 2027 ([source, 2026-09](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
-
-### Namibia: 2 Nascent
-
-A cross-border digital payment corridor was under way in 2026; none in service is on record.
-
-- Namclear has joined the SADC TCIB network operated with PayInc, connecting Namibian banks and authorised non-bank institutions to near-instant cross-border push payments ([source, 2026-03-31](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/)).
-- Namclear says TCIB services will allow consumers and businesses to send money between Namibia, South Africa and other Common Monetary Area countries ([source, 2026-03-31](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/)).
-
-### Seychelles: 2 Nascent
-
-A cross-border digital payment corridor was under way in 2026; none in service is on record.
-
-- Mauritius Telecom's CEO announced at the AllMyT Summit the launch of cross-border payment capabilities between Mauritius and Seychelles, in partnership with Seychelles fintech Eboo, as the first of a series of Indian Ocean regional payment announcements ([source, 2026-07-16](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/)).
 
 ### Somalia: 2 Nascent
 
@@ -334,13 +343,6 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 A cross-border digital payment corridor was under way in 2026; none in service is on record.
 
 - Sudan's Finance Ministry says it is finalising an electronic payment framework connecting to mobile banking apps in Saudi Arabia, built with the Ministry of Digital Transformation and Telecommunications, to route diaspora remittances through regulated channels (State Minister Mohamed Nour Abdel Daim, Jeddah) ([source, 2026-08-29](https://africa.businessinsider.com/local/lifestyle/war-torn-sudan-plans-banking-app-to-bring-millions-in-remittances-home-from-citizens/mtdf2c9)).
-
-### Tanzania: 2 Nascent
-
-A cross-border digital payment corridor was under way in 2026; none in service is on record.
-
-- Rwanda and Tanzania are advancing a cross-border Instant Payment System proof of concept, with a technical mission in Kigali under the EU-EAC DEEP Programme working toward a joint roadmap, per techreviewafrica ([source, 2026-08-29](https://techreviewafrica.com/news/6973/rwanda-and-tanzania-advance-cybersecurity-framework-for-regional-instant-payments)).
-- Tanzanian and Rwandan experts met in Zanzibar on 7 to 11 July 2026 to advance an EAC pilot proof of concept linking Tanzania's TIPS and Rwanda's RSwitch for instant cross-border payments, per an EAC statement of 10 July 2026 ([source, 2026-07-10](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374)).
 
 ### Tunisia: 2 Nascent
 

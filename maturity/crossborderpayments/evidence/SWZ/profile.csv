@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SWZ,crossborder,corridor,coverage,underway,2026-07-21,SWZ-001,,
-SWZ,crossborder,regional,coverage,,,,,nothing held
+SWZ,crossborder,corridor,coverage,inservice,2025-04-01,SWZ-002;SWZ-004;SWZ-006;SWZ-007;SWZ-009,SWZ-001=underway,
+SWZ,crossborder,regional,coverage,regional,2025-04-01,SWZ-003;SWZ-005;SWZ-008,,
 SWZ,crossborder,reported,coverage,,,,,nothing held

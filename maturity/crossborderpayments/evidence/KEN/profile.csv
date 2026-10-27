@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,crossborder,corridor,coverage,inservice,2026-08,KEN-003;KEN-005,KEN-004=underway,
+KEN,crossborder,corridor,coverage,inservice,2026-08,KEN-003;KEN-005;KEN-006,KEN-004=underway;KEN-007=underway,
 KEN,crossborder,regional,coverage,regional,2026-09-20,KEN-001;KEN-002,,
 KEN,crossborder,reported,coverage,,,,,nothing held

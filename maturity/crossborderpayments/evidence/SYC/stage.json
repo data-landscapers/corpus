@@ -1,17 +1,18 @@
 {
- "iso3": "SYC",
- "cells": [
-  {
-   "sub_indicator": "crossborder",
-   "stage": "2",
-   "corridor": "underway",
-   "regional": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SYC-001",
-   "gaps": "No source held since October 2023 says: is a corridor in service.",
-   "note": "First pass: counted from the four questions by study-ladder-crossborderpayments.py."
-  }
- ]
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "crossborder",
+      "stage": "4",
+      "corridor": "underway",
+      "regional": "regional",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-002",
+      "gaps": "No source held names a cross-border mobile money or remittance corridor in service, or gives a figure for cross-border digital payments.",
+      "note": "The governor said in July 2025 that Seychelles remains active on SADC-RTGS, processing cross-border payments, so the country is in a regional system in service. No figure is held, so not 5.",
+      "as_at": "2026-10-27"
+    }
+  ]
 }

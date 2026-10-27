@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-29-tgo-thunes-and-ecobank-group-to-power-africa-s-instant-payments-for-the-ne",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Ecobank and Thunes said on 29 October 2025 that Togo is the first market to start operations under their partnership, where Ecobank customers can now receive instant payments from remittance players worldwide.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "Thunes Direct Global Network",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Thunes Direct Global Network (via Ecobank)",
+   "country_label": "Togo",
+   "class": "crossborder",
+   "platform": "Thunes",
+   "owner": "Ecobank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2024-07-31-lso-position-paper-on-the-processing-of-cross-border-low-value-electronic",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "The CMA Cross-border Payments Oversight Committee's paper of 31 July 2024 says rand cross-border low-value EFTs within the Common Monetary Area, including Lesotho, run through an interim supplementary-file solution in place since 1 October 2019 and still in use.",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "CMA interim supplementary-file solution",
+   "class": "crossborder"
+  },
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "The CMA committee's paper of 31 July 2024 says banks route low-value cross-border EFTs within the CMA, Lesotho among its four members, through the SADC real-time gross settlement system under the interim arrangement, to move to a designated retail system such as TCIB from 1 April 2027.",
+   "as_of": "2024-07-31",
+   "date_precision": "day",
+   "system": "SADC-RTGS",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CMA interim supplementary-file solution",
+   "country_label": "Lesotho",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Payments Association of South Africa",
+   "tiers": ""
+  },
+  {
+   "system": "SADC-RTGS",
+   "country_label": "Lesotho",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

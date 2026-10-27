@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-24-cod-une-nouvelle-etape-franchie-pour-orange-money-rdc",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "An Orange Money RDC manager announced the launch of outbound international wallet-to-wallet transfers from the DRC to Congo-Brazzaville, Tanzania, Zambia, Senegal and Cote d'Ivoire, with a USD 2,500 daily limit.",
+   "as_of": "2025-06-24",
+   "date_precision": "day",
+   "system": "Orange Money RDC international transfer",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money RDC",
+   "country_label": "DRC",
+   "class": "crossborder",
+   "platform": "USSD *144#",
+   "owner": "Orange",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

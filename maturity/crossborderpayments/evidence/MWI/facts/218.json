@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-09-mwi-reserve-bank-of-malawi-grants-flutterwave-license-to-process-internati",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "Flutterwave says the Reserve Bank of Malawi licensed it on 19 October 2023 as an international money transfer operator to process remittances into Malawi through its Send App.",
+   "as_of": "2023-10-19",
+   "date_precision": "day",
+   "system": "Flutterwave Send App",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Send App",
+   "country_label": "Flutterwave Send App",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Flutterwave",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

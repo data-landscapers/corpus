@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-25-cmr-nigerian-fintech-grey-opens-direct-transfers-to-mtn-momo-and-orange-mo",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Business in Cameroon reports that Nigerian fintech Grey, in a 7 September 2026 update, opened a corridor sending CFA francs from dollar, euro or pound balances directly to MTN Mobile Money and Orange Money wallets in Cameroon, at $1.80 a transfer and up to CFA400,000.",
+   "as_of": "2026-09-07",
+   "date_precision": "day",
+   "system": "Grey corridor to MTN MoMo and Orange Money",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Grey corridor to MTN MoMo and Orange Money",
+   "country_label": "Grey",
+   "class": "crossborder",
+   "platform": "",
+   "owner": "Grey (Nigerian fintech)",
+   "tiers": ""
+  }
+ ],
+ "note": "The CEMAC-wide 2024 inflow figures are not Cameroon's own, so no reported-figures fact is recorded."
+}

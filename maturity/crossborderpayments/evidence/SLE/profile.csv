@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,crossborder,corridor,coverage,,,,,nothing held
+SLE,crossborder,corridor,coverage,inservice,2026-06-26,SLE-002;SLE-003;SLE-004,,
 SLE,crossborder,regional,coverage,regional,2025-05,SLE-001,,
 SLE,crossborder,reported,coverage,,,,,nothing held

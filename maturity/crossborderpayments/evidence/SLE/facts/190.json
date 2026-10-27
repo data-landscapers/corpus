@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-27-sle-afrimoney-and-bnb-connect-to-promote-cross-border-transactions",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Afrimoney and BnB launched an 'Overseas Money' USSD service on 23 May 2025 in Freetown, letting Afrimoney users send money to over ten international destinations and receive BnB remittances into their wallets.",
+   "as_of": "2025-05-23",
+   "date_precision": "day",
+   "system": "Afrimoney Overseas Money (BnB)",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afrimoney Overseas Money",
+   "country_label": "Sierra Leone",
+   "class": "crossborder",
+   "platform": "USSD *161#",
+   "owner": "Afrimoney with BnB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

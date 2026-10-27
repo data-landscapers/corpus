@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,crossborder,corridor,coverage,inservice,2023-11,TCD-005,TCD-009=underway,
-TCD,crossborder,regional,coverage,regional,2026-09-04,TCD-001;TCD-002;TCD-004;TCD-006;TCD-008,,
-TCD,crossborder,reported,coverage,reported,2025,TCD-003;TCD-007,,
+TCD,crossborder,corridor,coverage,inservice,2025-07-01,TCD-005;TCD-010,TCD-009=underway;TCD-004=underway,
+TCD,crossborder,regional,coverage,regional,2026-09-04,TCD-001;TCD-002;TCD-003;TCD-006;TCD-008,,
+TCD,crossborder,reported,coverage,reported,2022,TCD-007,,nothing dated since 2023-10-27

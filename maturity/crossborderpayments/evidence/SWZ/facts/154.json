@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-04-swz-new-momo-product-receive-money-from-sa",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "Independent News reports that MTN Eswatini launched its MoMo Cross-Border Service on 2 December 2024, letting MTN customers in South Africa send money directly to MoMo wallets in Eswatini.",
+   "as_of": "2024-12-02",
+   "date_precision": "day",
+   "system": "MoMo Cross-Border Service",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MoMo Cross-Border Service",
+   "country_label": "MTN Eswatini MoMo Cross-Border Service (South Africa to Eswatini)",
+   "class": "crossborder",
+   "platform": "MTN MoMo",
+   "owner": "MTN Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

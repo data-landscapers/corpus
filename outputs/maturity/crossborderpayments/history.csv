@@ -20,3 +20,16 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-26,GAB,dpi.pay--cross-border-functionality,review,4,4,GAB-004;GAB-012,"Rebuild: BEAC's July 2026 PAPSS membership, with CEMAC institutions onboarded only by end-2026, is read as under way, not as participation; GIMACPAY keeps stage 4."
 2026-10-26,GNQ,dpi.pay--cross-border-functionality,review,4,4,GNQ-004;GNQ-005,"Rebuild: BEAC's July 2026 PAPSS membership, with CEMAC institutions onboarded only by end-2026, is read as under way, not as participation; GIMACPAY keeps stage 4."
 2026-10-26,TCD,dpi.pay--cross-border-functionality,review,4,4,TCD-008;TCD-001,"Rebuild: BEAC's July 2026 PAPSS membership, with CEMAC institutions onboarded only by end-2026, is read as under way, not as participation; GIMACPAY keeps stage 4."
+2026-10-27,BFA,dpi.pay--cross-border-functionality,fact,4,5,BFA-005;BFA-002,"BCEAO 2024 figure: intra-UEMOA transfers 7.25% of e-money value; volumes reported, 4 to 5"
+2026-10-27,MLI,dpi.pay--cross-border-functionality,fact,4,5,MLI-007;MLI-004,"BCEAO 2024 figure: intra-UEMOA transfers 5.63% of e-money value; volumes reported, 4 to 5"
+2026-10-27,NER,dpi.pay--cross-border-functionality,fact,4,5,NER-009;NER-004,"BCEAO 2024 figure: intra-UEMOA transfers about 1.03% of e-money value; volumes reported, 4 to 5"
+2026-10-27,GMB,dpi.pay--cross-border-functionality,fact,4,5,GMB-005;GMB-002,"IFAD April 2026 profile: US$135 million received digitally through APS wallets; volumes reported, 4 to 5"
+2026-10-27,COD,dpi.pay--cross-border-functionality,fact,2,3,COD-004;COD-005,Orange Money RDC outbound transfers (June 2025) and MTN MoMo SA-DRC corridor (2024) in service; 2 to 3
+2026-10-27,COM,dpi.pay--cross-border-functionality,fact,2,3,COM-002,"Mvola Comores wallet transfers with Europe, Senegal and the region in service since February 2024; 2 to 3"
+2026-10-27,ETH,dpi.pay--cross-border-functionality,fact,2,3,ETH-006;ETH-007;ETH-008,"M-Pesa Kenya-Ethiopia, telebirr Remit and M-PESA/Onafriq corridors in service in 2024; 2 to 3"
+2026-10-27,TZA,dpi.pay--cross-border-functionality,fact,2,3,TZA-004;TZA-003,Airtel Money and pawaPay inbound wallet remittances in service from August 2025; 2 to 3
+2026-10-27,LSO,dpi.pay--cross-border-functionality,fact,3,4,LSO-005;LSO-007,"SARB directive 2025 and CMA paper 2024: CMA low-value transfers run through SADC-RTGS; regional, 3 to 4"
+2026-10-27,NAM,dpi.pay--cross-border-functionality,fact,2,4,NAM-009;NAM-006,"SARB directive 2025 and CMA paper 2024: CMA low-value transfers run through SADC-RTGS now; regional, 2 to 4"
+2026-10-27,SWZ,dpi.pay--cross-border-functionality,fact,2,4,SWZ-005;SWZ-003,"Eswatini CMA directive 2025: low-value transfers run through SADC-RTGS; MoMo SA-Eswatini corridor; regional, 2 to 4"
+2026-10-27,SYC,dpi.pay--cross-border-functionality,fact,2,4,SYC-002,"Governor, July 2025: Seychelles active on SADC-RTGS processing cross-border payments; regional, 2 to 4"
+2026-10-27,ZMB,dpi.pay--cross-border-functionality,fact,3,4,ZMB-007;ZMB-006,"SA-Zambia corridor live on SADC TCIB since March 2024; regional, 3 to 4"

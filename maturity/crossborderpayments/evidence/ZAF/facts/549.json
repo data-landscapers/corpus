@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-zaf-sarb-finsurv-draft-circular-cross-border-retail-ecommerce",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The South African Reserve Bank Financial Surveillance Department issued for consultation a draft exchange control circular letting payment aggregators partner Authorised Dealers to process cross-border retail e-commerce payments by residents, up to R50 000 per transaction, after two regulatory sandbox use cases.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Cross-border retail e-commerce regulatory framework",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

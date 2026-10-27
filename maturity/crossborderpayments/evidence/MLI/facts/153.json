@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "underway",
+   "fact": "The Africa Report says the BCEAO pilot of an interoperable instant payment system covering all eight WAEMU states, including Mali, began in early August 2024, intended to allow cross-border transactions across the zone.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "WAEMU interoperable instant payment system",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WAEMU interoperable instant payment system (PI-SPI)",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": "",
+   "country_label": "PI-SPI pilot"
+  }
+ ],
+ "note": ""
+}
