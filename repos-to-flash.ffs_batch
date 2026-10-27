@@ -30,6 +30,17 @@
         <Pair>
             <Left>C:\Research</Left>
             <Right>D:\Research</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\index\</Item>
+                </Exclude>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+                <TimeSpan Type="None">0</TimeSpan>
+            </Filter>
         </Pair>
         <Pair>
             <Left>C:\CORPUS-OSINT-XFER</Left>
