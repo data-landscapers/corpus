@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: LBY
-ledger_rows: 43
+ledger_rows: 46
 not_held: 3
-record: 49ae4aed1e64
+record: 368b0f806254
 ---
 
 # News, Sep – Oct 2026
@@ -38,6 +38,8 @@ record: 49ae4aed1e64
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -79,6 +81,22 @@ Libya's economy and trade minister Suhail Bushiha issued Decision No. 449 of 202
 **[Tripoli Chamber of Commerce discusses decision to regulate imports for the purpose of trade](https://libyaherald.com/2026/09/tripoli-chamber-of-commerce-discusses-decision-to-regulate-imports-for-the-purpose-of-trade)** — Libya Herald, 15 September 2026
 
 The capital's chamber of commerce met on the economy minister's decision 449 of 2026, which from 30 September requires importers and foreign exporters to register on the unified digital trade system. Members questioned whether the date can be met and what the decision will cost them.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data-protection law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الوطني للحريات وحقوق الإنسان يستعرض مسودة قانون حماية البيانات الشخصية مع لجنة النواب](https://lana.gov.ly/post.php?id=368592&lang=ar)** — وكالة الأنباء الليبية (LANA), 26 October 2026
+
+Rights council's draft, Council of Europe-reviewed, adds AI chapter; sent to House of Representatives as first proposal.
 
 </div>
 
@@ -383,6 +401,8 @@ Libya's Government of National Unity ordered the immediate temporary shutdown an
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -581,6 +601,22 @@ The requirement bites in stages: a transitional period runs to the end of 2026, 
 **[Mandatory registration of importers and exporters in unified digital system for trade (PTS) announced by Ministry of Economy](https://libyaherald.com/2026/09/mandatory-registration-of-importers-exporters-in-unified-digital-system-for-trade-pts-announced-by-ministry-of-economy)** — Libya Herald, 15 September 2026
 
 Decree 465 of 2026 makes registration on the unified digital trade system compulsory for importers, exporters and foreign companies supplying the market through Libyan companies, issuing a registration certificate and an electronic identification number.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health sector digital transformation plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير الصحة يترأس اجتماعًا تشاوريًا لإعداد خطة التحول الرقمي بالقطاع الصحي في ليبيا 2026–2030](https://ar.libyaobserver.ly/article/39242)** — Libya Observer, 27 October 2026
+
+Consultative meeting on health-sector digitalisation plan 2026-2030; digital maturity analysis, WHO and UNDP present.
 
 </div>
 
@@ -800,6 +836,8 @@ Libya's General Authority for Information met information centres from the Prime
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
 <a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#china-activities">China activities</a>
 </nav>
 
 ### US / hyperscaler activities
@@ -813,6 +851,22 @@ Libya's General Authority for Information met information centres from the Prime
 **[Libya and the US Sign Strategic Cooperation Framework](https://lana.gov.ly/post.php?id=367155&lang=en)** — Libyan News Agency, 8 October 2026
 
 Libya's communications authority and the US State Department signed a cooperation framework in Washington covering digital infrastructure, AI, data centres, cybersecurity and satellite communications. No programme or amount was published.
+
+</div>
+
+</div>
+
+### China activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Qanwan-Huawei cooperation agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[قنوان وهواوي توقعان اتفاق تعاون لدعم التحول الرقمي في ليبيا](https://w.almustaqbal.ly/news/5894)** — وكالة أنباء المستقبل, 24 October 2026
+
+Signed at Libya's chambers federation; innovation, expertise exchange, knowledge economy; no value or project named.
 
 </div>
 
