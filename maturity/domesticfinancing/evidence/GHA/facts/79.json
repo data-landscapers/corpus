@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-why-ghana-is-mandating-4g-for-rural-telephony-before-5g-takes-over",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Ghana Investment Fund for Electronic Communications allocated GH¢30 million in its current budget, including a tranche for remedial engineering on distressed sites.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Ghana Investment Fund for Electronic Communications",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
