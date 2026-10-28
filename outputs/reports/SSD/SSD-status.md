@@ -1,12 +1,12 @@
 ---
 title: South Sudan: status report
-compiled: 2026-10-25
+compiled: 2026-10-28
 place: SSD
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 199
+sources_cited: 200
 sections_written: 39
 not_established: 3
 acquire_lines: 51
@@ -154,7 +154,7 @@ South Sudan now has a binding incident-reporting duty. The [Cybercrimes and Comp
 
 The same instrument does two jobs at once. Alongside hacking, espionage, cyberterrorism and economic sabotage it [criminalises a set of speech and identity offences — fake websites and accounts, false information, online impersonation, hate speech and gender-based harassment](https://techafricanews.com/2025/11/26/south-sudan-takes-major-step-against-cybercrime-with-new-bill/). Enforcement is split: the [Ministry of Justice interprets and enforces the law, while the ICT ministry coordinates with the National Communication Authority and law enforcement on capacity-building and public awareness](https://www.onecitizendaily.com/index.php/2026/02/20/ict-ministry-vows-to-ensure-effective-operation-of-cyber-crime-act/) (February 2026). The state's own surveillance conduct sits outside that frame: the [National Security Service was documented conducting abusive surveillance without legal safeguards](https://www.amnesty.org/en/latest/press-release/2021/02/south-sudan-abusive-surveillance-by-national-security-service-climate-of-fear/) (2021), and [no data protection authority exists](https://dataprotection.africa/south-sudan/) that could review a government system.
 
-Operational capability is newer than the law. The National Communication Authority and the Bank of South Sudan are [standing up a Digital Financial Services Security Lab with the ITU, its team given nine days of hands-on training to security-test mobile payment applications](https://www.eyeradio.org/south-sudan-boosts-mobile-payment-security-with-itu-dfs-lab-training/) (March 2026). Readiness measured before any of this scored [34.38 on the ITU Global Cybersecurity Index 2024, in the index's 'evolving' tier](https://statbase.org/data/ssd-global-cybersecurity-index/).
+The National Communication Authority [launched SS-CIRT, a computer incident response team, on 16 October 2024](https://www.onecitizendaily.com/index.php/2024/10/17/south-sudan-inaugurates-computer-incident-response-team/), though a regional World Bank project [still recorded no established national team in June 2026](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt). The authority and the Bank of South Sudan are [standing up a Digital Financial Services Security Lab with the ITU, its team given nine days of hands-on training to security-test mobile payment applications](https://www.eyeradio.org/south-sudan-boosts-mobile-payment-security-with-itu-dfs-lab-training/) (March 2026). Readiness measured before any of this scored [34.38 on the ITU Global Cybersecurity Index 2024, in the index's 'evolving' tier](https://statbase.org/data/ssd-global-cybersecurity-index/).
 
 ## DPI
 
