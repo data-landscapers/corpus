@@ -101,7 +101,7 @@ Mozambique's Information Society Policy was adopted in 2018 with no end date; no
 
 ### Nigeria: 3 Established
 
-Nigeria's telecommunications policy of 2000 is still in force and is being rewritten in 2026; no source found reports its finance and reporting against its targets.
+Nigeria's telecommunications policy of 2000 is still in force and is being rewritten in 2026; no source reports its finance and reporting against its targets.
 
 *Dated; Advancing.*
 
@@ -133,7 +133,7 @@ Seychelles has a National ICT Policy from 2007 with its text public; no source f
 
 ### South Africa: 3 Established
 
-South Africa adopted an ICT policy white paper in 2016, and no source found says whether it has a delivery plan or reports against its targets.
+South Africa adopted an ICT policy white paper in 2016, and no source says whether it has a delivery plan or reports against its targets.
 
 - The USAASA discussion document (Government Notice 7985, Gazette 55494) lists the National Integrated ICT Policy White Paper as a policy instrument issued by the Department of Telecommunications and Postal Services in Government Gazette 40325 of 3 October 2016 ([source, 2016-10-03](https://pmg.org.za/files/2601001discussionusaasa.pdf)).
 - The document's source register links the National Integrated ICT Policy White Paper (Gazette 40325, 3 October 2016) to a gov.za gazette file ([source, 2016-10-03](https://pmg.org.za/files/2601001discussionusaasa.pdf)).
@@ -237,7 +237,7 @@ An ICT strategy was in preparation in 2021, when the regulator produced a prelim
 
 ### Liberia: 2 Nascent
 
-Liberia's ICT policy, adopted in 2019, ran out in 2025 and a 2025-2030 successor is in draft; no source found says when it will be adopted.
+Liberia's ICT policy, adopted in 2019, ran out in 2025 and a 2025-2030 successor is in draft; no source says when it will be adopted.
 
 *Lapsed.*
 
@@ -260,7 +260,7 @@ Libya has a telecommunications and informatics strategy for 2023 to 2027, in use
 
 ### Madagascar: 2 Nascent
 
-A national ICT for development policy dates from 2004, with targets assessed in 2022; no source found says whether its text is public or still open.
+A national ICT for development policy dates from 2004, with targets assessed in 2022; no source says whether its text is public or still open.
 
 *Dated.*
 
@@ -330,7 +330,7 @@ Eritrea had no national ICT policy or development plan in 2009, UNECA said; no s
 
 ### Algeria: Unplaced
 
-Algeria has a post and telecommunications ministry action plan, reported in 2023; no source found says whether a sector policy exists, so no stage is set.
+Algeria has a post and telecommunications ministry action plan, reported in 2023; no source says whether a sector policy exists, so no stage is set.
 
 *Under the national strategy.*
 
@@ -363,7 +363,7 @@ Not established: The newest sector policy on record ended in 2020 and no sector 
 
 ### Burundi: Unplaced
 
-The national ICT development policy adopted in 2011 ran to 2025; no source found says whether a successor is being prepared, so no stage is set.
+The national ICT development policy adopted in 2011 ran to 2025; no source says whether a successor is being prepared, so no stage is set.
 
 *Lapsed.*
 
@@ -376,7 +376,7 @@ Not established: The policy's period ended in 2025 and no row shows a successor 
 
 ### Cameroon: Unplaced
 
-A posts, telecommunications and ICT sector strategy was finalised in 2005 with targets to 2015; no source found reports its adoption, so no stage is set.
+A posts, telecommunications and ICT sector strategy was finalised in 2005 with targets to 2015; no source reports its adoption, so no stage is set.
 
 *Under the national strategy.*
 
@@ -424,7 +424,7 @@ Not established: evidence.csv holds no row and instruments.csv names no instrume
 
 ### DR Congo: Unplaced
 
-DR Congo's 2009 telecommunications and ICT sector policy lapsed in 2014; no source found says whether a successor is being prepared, so no stage is set.
+DR Congo's 2009 telecommunications and ICT sector policy lapsed in 2014; no source says whether a successor is being prepared, so no stage is set.
 
 *Lapsed; Under the national strategy.*
 
@@ -436,7 +436,7 @@ Not established: The 2009 sector policy's five-year period ended in 2014 without
 
 ### Djibouti: Unplaced
 
-Djibouti's sector policy, adopted in 2014, ran to 2024; no source found says whether a successor is adopted or being prepared, so no stage is set.
+Djibouti's sector policy, adopted in 2014, ran to 2024; no source says whether a successor is adopted or being prepared, so no stage is set.
 
 *Lapsed; Under the national strategy.*
 
@@ -482,7 +482,7 @@ Not established: The National ICT Policy 2007-11 ended in 2011 and no row record
 
 ### Morocco: Unplaced
 
-A telecommunications sector policy note adopted in 2019 ran to 2023; no source found says whether a successor is being prepared, so no stage is set.
+A telecommunications sector policy note adopted in 2019 ran to 2023; no source says whether a successor is being prepared, so no stage is set.
 
 *Lapsed; Under the national strategy.*
 
@@ -531,7 +531,7 @@ Not established: The strategy's period ended in 2025, before the as-at, and no r
 
 ### Togo: Unplaced
 
-A digital economy sector policy declaration of 2017 ran to 2022; no source found says whether a successor is being prepared, so no stage is set.
+A digital economy sector policy declaration of 2017 ran to 2022; no source says whether a successor is being prepared, so no stage is set.
 
 *Under the national strategy; Lapsed.*
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-17-nam-cybercrime-bill-heads-to-parliament",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Windhoek Observer reports that Namibia launched its national information and communication technology policy on 29 January 2026.",
+   "as_of": "2026-01-29",
+   "date_precision": "day",
+   "system": "national information and communication technology policy",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National information and communication technology policy",
+   "country_label": "national ICT policy",
+   "class": "sector",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
