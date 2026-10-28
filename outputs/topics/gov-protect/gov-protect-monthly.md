@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: gov.protect
-places: AGO; BEN; BFA; CPV; COG; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: aef0c0521f7e
+places: AGO; BEN; BFA; CPV; COG; COD; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0b34775f6705
 ---
 
 # News, Sep – Oct 2026
@@ -20,6 +20,8 @@ record: aef0c0521f7e
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dr-congo">DR Congo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
@@ -34,9 +36,13 @@ record: aef0c0521f7e
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mali">Mali</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -170,6 +176,30 @@ Cabo Verde's prime minister delegated coordination of the intelligence service S
 **[Gouvernance : mobiliser les ressources publiques](https://www.adiac-congo.com/content/gouvernance-mobiliser-les-ressources-publiques-172020)** — Les Dépêches de Brazzaville, 17 October 2026
 
 Opening the National Assembly's budget session on 15 October 2026, its president Isidore Mvouba asked the Congolese government to make the National Commission for the Protection of Personal Data operational promptly. He linked digital sovereignty to control over health, civil-status, education, tax and social-protection data.
+
+</div>
+
+</div>
+
+## DR Congo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Prosecution of offences committed through social media</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC: la diffamation dans les réseaux sociaux, punissable par le code du numérique](https://acp.cd/affaire-judiciare-et-droits-humains/rdc-la-diffamation-dans-les-reseaux-sociaux-punissable-par-le-code-du-numerique/)** — ACP, 6 October 2026
+
+A Kinshasa lawyer spoke to the press agency on 6 October 2026. He said the 2023 digital code punishes online defamation, with no immunity for journalists or influencers. He cited the September 2026 arrest of a TikTok chronicler. The arrest followed a broadcast about a singer's private life.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : Des personnes poursuivies pour des infractions numériques détenues à Makala, annonce Guillaume Ngefa](https://lepotentiel.cd/2026/10/24/rdc-des-personnes-poursuivies-pour-des-infractions-numeriques-detenues-a-makala-annonce-guillaume-ngefa/)** — LePotentiel, 24 October 2026
+
+The justice minister spoke at a press briefing. He said several people prosecuted for social-media offences are held at Makala prison in Kinshasa. He added that some of them presented themselves as communicators for the presidency. He said nobody is exempt from prosecution on grounds of political affiliation.
 
 </div>
 
@@ -509,6 +539,22 @@ Liberia's Ministry of Gender, Children and Social Protection confirmed on 13 Sep
 
 </div>
 
+## Libya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data-protection law</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[الوطني للحريات وحقوق الإنسان يستعرض مسودة قانون حماية البيانات الشخصية مع لجنة النواب](https://lana.gov.ly/post.php?id=368592&lang=ar)** — وكالة الأنباء الليبية (LANA), 26 October 2026
+
+A committee of the House of Representatives and Libya's human rights council began a joint review of a draft personal data protection law on 26 October 2026. The council's committee wrote the draft over two and a half years. It had Council of Europe expert review. It added a chapter on artificial intelligence. It sent the draft to the House as an initial proposal.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -552,6 +598,30 @@ Anthropic reported in September 2026 that a Claude user, likely a Bamako-based c
 **[Togo, Mali Data Regulators Agree to Share Expertise](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)** — Togo First, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a>
 
 Togo's personal data protection authority (IPDCP) and Mali's APDP signed a cooperation agreement on 23 September covering information exchange, joint handling of complaints and compliance checks, and staff training. Their talks also touched on cross-border data transfers, cybersecurity and AI.
+
+</div>
+
+</div>
+
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Protection Office guidance to management companies</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Data Protection Office (Mauritius), Advice to Management Companies (MCs) - registration and Data Protection Officer obligations under the Data Protection Act 2017](https://dataprotection.govmu.org/Documents/Advice%20to%20%20MCs%20on%20Registration.pdf)** — Data Protection Office, Mauritius, 1 September 2026
+
+The Data Protection Office updated its guidance in September 2026. Every Management Company must register as a controller, and also as a processor where it handles personal data for managed entities. Each must name its own Data Protection Officer, and managed entities get no blanket exemption but may ask for a case-by-case assessment.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius Managed Entities Now Need Their Own Data Protection Registration | Acclime](https://global.acclime.com/news/managed-entities-need-own-data-protection-registration/)** — Acclime, 26 October 2026
+
+Mauritius's Data Protection Office issued updated guidance in September 2026, as described by an advisory firm. A management company must register as a controller for its own data and separately as a processor for entities it administers. Each managed entity needs its own registration and data protection officer.
 
 </div>
 
@@ -628,6 +698,14 @@ Press-freedom group MISA Mozambique said at a round table in Maputo that the for
 **[Mozambique | Parliament convenes extraordinary and ordinary sessions for October](https://clubofmozambique.com/news/mozambique-parliament-convenes-extraordinary-and-ordinary-sessions-for-october/)** — Club of Mozambique, 2 October 2026
 
 Mozambique's parliamentary Standing Commission on 1 October 2026 placed a Personal Data Protection draft law among 35 initial agenda items for the Assembly of the Republic's fourth ordinary session, opening on 28 October. The agenda also includes a framework law on public administration and revisions to the customs and tax procedure codes.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Parlamento alarga calendário de trabalhos para responder à agenda legislativa](https://aimnews.org/2026/10/26/parlamento-alarga-calendario-de-trabalhos-para-responder-a-agenda-legislativa/)** — Agência de Informação de Moçambique (AIM), 26 October 2026
+
+Mozambique's Assembly of the Republic may sit on Fridays and Saturdays during its session from 28 October to 22 December 2026. The reason is the volume of business. The plenary agenda for 6 November includes the bill on personal data protection. It also includes bills on the Highway Code and aeronautical registration.
 
 </div>
 

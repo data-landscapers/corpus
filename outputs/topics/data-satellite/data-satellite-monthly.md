@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: data.satellite
 places: COM; COG; CIV; DJI; GNB; LSO; NGA; TGO; ZMB
-record: 55a74b8e0539
+record: 848a40f58982
 ---
 
 # News, Sep – Oct 2026

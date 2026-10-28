@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GAB; GHA; GNB; KEN; LSO; LBR; MWI; MLI; MRT; MOZ; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c00158e1bd10
+record: 5ef99166b5ce
 ---
 
 # News, Sep – Oct 2026
@@ -545,6 +545,20 @@ Egypt's Financial Regulatory Authority ordered licensed consumer-finance compani
 **[Ain Sokhna's new truck yard is already linking with Nafeza](https://enterpriseam.com/egypt/2026/09/28/ain-sokhnas-new-truck-yard-is-already-linking-with-nafeza/)** — Enterprise (EnterpriseAM Egypt), 28 September 2026
 
 A digital truck yard at Ain Sokhna port, under an EGP 1bn contract for up to 1,100 trucks a day, is already linked live to Nafeza, Egypt's foreign-trade single window, so trucks are admitted only for cargo shown as cleared.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Planning, finance and National Investment Bank electronic link</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«التخطيط» تعلن تنفيذ ربط إلكتروني متكامل مع «المالية» وبنك الاستثمار لأول مرة - الوطن](https://www.elwatannews.com/news/details/8384664)** — Al-Watan, 26 October 2026
+
+The planning minister told the Senate about an integrated electronic link. It joins the planning ministry, the finance ministry and the National Investment Bank. It was activated over the past four months, a first. It is meant to tighten monitoring of public investment and the allocation of project funding.
 
 </div>
 

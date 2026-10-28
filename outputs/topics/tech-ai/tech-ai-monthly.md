@@ -1,10 +1,10 @@
 ---
 title: AI — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6c4511973436
+record: 87ed2ce5fe4d
 ---
 
 # News, Sep – Oct 2026
@@ -183,6 +183,20 @@ Version 2 of the Algerian Darja Corpus, an open dataset on Zenodo mirrored on Hu
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National high-performance computing and AI programme to 2030</p>
 
 <div class="bulletin-item" markdown="1">
@@ -214,6 +228,20 @@ Angola's President João Lourenço authorised US$6m for an AI platform for publi
 **[O pais avanca para uma Administracao Publica com Inteligencia Artificial](https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/)** — Portal de T.I (pti.ao), 8 September 2026
 
 Angola authorised US$6 million of World Bank money for an artificial-intelligence platform for the public sector under Presidential Order no. 342/26. The funding runs through the Projecto de Aceleracao Digital de Angola and sits in a sequence of recent authorisations covering public digital infrastructure, interoperability, digital skills and government cybersecurity.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 
@@ -347,6 +375,20 @@ Burkina Faso scored 1.10 out of 4 on the Africa AI Governance Index 2026, in the
 **[L’Essentiel.bf : Une nouvelle plateforme numérique pour s’informer en français et en mooré](https://lefaso.net/spip.php?article149991)** — leFaso.net, 15 October 2026
 
 Burkina Faso's AI centre of excellence, CITADEL, and its Data Lab launched L'Essentiel.bf, a free web and mobile service. It uses AI to summarise four national news outlets every 15 minutes in French and Mooré, as text and audio.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI roadmap 2026 to 2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina/Intelligence artificielle : Une feuille de route de 30 milliards de FCFA pour créer 5 000 emplois spécialisés d’ici à 2030](https://lefaso.net/?id_article=150234&page=impression)** — LeFaso.net, 25 October 2026
+
+The 2026-2030 national AI roadmap was validated on 19 June 2026 but has not been officially published. A ministry official presented it on 23 October with a projected budget of FCFA 30 billion, 23 proofs of concept, 500 experts and 5,000 specialised jobs by 2030. It targets hosting at least 80% of the data concerned inside the country.
 
 </div>
 
@@ -733,6 +775,20 @@ DR Congo's Ministry of Digital Economy announced on 22 September that Anthropic'
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National artificial intelligence strategy (SNIA)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -824,6 +880,20 @@ A draft resolution on the implications of artificial intelligence for human righ
 **[مصر تقود مبادرة لاعتماد أول قرار بمجلس حقوق الإنسان حول الذكاء الاصطناعي](https://www.youm7.com/story/2026/10/6/%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A3%D9%88%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%85%D8%AC%D9%84%D8%B3-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D8%AD%D9%88%D9%84/7570270)** — Youm7, 6 October 2026
 
 Egypt, with Bangladesh and a cross-regional group, led the UN Human Rights Council to adopt by consensus its first resolution on the implications of AI for human rights. It stresses the right to development, decent work, linguistic diversity and technology transfer to developing countries, and mandates a Council meeting and a report on AI, human rights and the capacity gap. The adoption date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 
@@ -950,6 +1020,20 @@ Eswatini scored 1.07 out of 4 on the Africa AI Governance Index 2026, in the Eme
 </div>
 
 ## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1388,6 +1472,20 @@ Kenya's President and technology envoy discussed with Cisco the Moran AI Centre 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National Assembly inquiry into AI in education, health and the public sector</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1743,6 +1841,20 @@ Morocco's digital transition ministry and Mistral released the first open-source
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -1917,6 +2029,20 @@ A Nigerian opposition movement called on the electoral commission to abandon its
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Technology agency advisory on the safe use of AI platforms</p>
 
 <div class="bulletin-item" markdown="1">
@@ -1967,6 +2093,20 @@ Rwanda's Education Minister Joseph Nsengimana opened the 15th East African Highe
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -2341,6 +2481,20 @@ South Africa's Financial Sector Conduct Authority told Parliament's finance comm
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Employees bypassing workplace AI restrictions</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2560,6 +2714,20 @@ Tunisia's customs and tax services plan to use machine learning to target high-r
 **[مشروع ميزانية 2027: استراتيجية لتعبئة الموارد ترتكز على التعويل على الذات ومكافحة التهرب الجبائي بالذكاء الاصطناعي](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155388-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A)** — Assabah News, 6 October 2026
 
 A Tunisian finance ministry document on the 2027 draft budget plans to fight tax evasion using artificial intelligence, data analysis and linked databases across public bodies, reported on 6 October 2026. It also aims to reduce external borrowing, widen the tax base and expand digital tax services. The document itself is undated and not published.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: f291b1d739e6
+record: 2c8a2789197c
 ---
 
 # News, Sep – Oct 2026
@@ -752,6 +752,20 @@ A second Kenyan cohort of the UNESCO-Oxford course on AI and Digital Transformat
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa AI Upskilling Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Varsity Joins Google-Backed Initiative to Shape Africa’s AI Future](https://sces.strathmore.edu/varsity-joins-google-backed-initiative-to-shape-africas-ai-future/)** — Strathmore University, School of Computing and Engineering Sciences, 27 October 2026
+
+Strathmore University is one of six Kenyan universities selected for the Google.org-funded Africa AI Upskilling Programme, through its School of Computing and Engineering Sciences. The programme is to reach 30 universities in four countries by 2028. An educator workshop was held on 12-16 October 2026, and Strathmore's own start is set for January 2027.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -1239,6 +1253,20 @@ Sierra Leone's Ministry of Communication, Technology and Innovation certified th
 **[National Institute of Telecommunications Launches Digital Skills Training for Government Employees](https://sonna.so/en/article/National-Institute-of-Telecommunications-Launches-Digital-Skills-Training-for-Government-Employees)** — SONNA, 17 October 2026
 
 Somalia's National Institute of Telecommunications and Technology, part of the communications ministry, launched a programme to build government employees' digital skills, opening with a workshop on data protection, information security and privacy. The ministry says it wants the institute to take the lead in training civil servants and building public institutions' capacity.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cybersecurity Academy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia Opens Fourth National Cybersecurity Forum in Mogadishu](https://sonna.so/en/article/Somalia-Opens-Fourth-National-Cybersecurity-Forum-in-Mogadishu)** — Somali National News Agency (SONNA), 27 October 2026
+
+The fourth National Cybersecurity Forum opened in Mogadishu. The National Communications Authority and Mogadishu University organised it over two days under a security-by-design theme. The Minister of Communications and Technology noted that the Somalia Computer Incident Response Team was launched in March 2026. The Minister also noted a planned National Cybersecurity Academy later this year.
 
 </div>
 

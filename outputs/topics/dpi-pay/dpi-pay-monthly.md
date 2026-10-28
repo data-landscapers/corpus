@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b18ece23367d
+record: 2ccda16e671a
 ---
 
 # News, Sep – Oct 2026
@@ -991,6 +991,20 @@ Eswatini's ICT principal secretary, Prince Mashishimba Andreas Dlamini, said on 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ShareSha digital wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ShareSha users can send money to any mobile number](https://times.co.sz/47252/news/sharesha-users-can-send-money-to-any-mobile-number/)** — Times of Eswatini, 27 October 2026
+
+Eswatini Bank trained agents and residents in Nhlangano, Shiselweni, on its ShareSha digital wallet. The wallet lets users send money to any mobile number, including recipients not registered on the platform. Sign-up is by national ID, through the app, USSD or a branch, and no bank account is needed.
+
+</div>
+
+</div>
+
 ## Ethiopia
 
 <div class="monthly-story" markdown="1">
@@ -1140,6 +1154,20 @@ ETTA Solutions and Visa signed a framework agreement to roll out 148,000 contact
 **[Banks Race to Launch International Payment Cards as Forex Reforms Open New Market](https://birrmetrics.com/banks-race-to-launch-international-payment-cards-as-forex-reforms-open-new-market/)** — Birr Metrics, 9 October 2026
 
 Ethiopia's Awash Bank, with Mastercard, and Oromia Bank, with Visa, launched eight internationally accepted payment cards between them on 8 October 2026. The launches follow the National Bank of Ethiopia's February 2026 rule change allowing banks to issue such cards to foreign-currency account holders. Awash said it processed over US$60 million in card foreign exchange last fiscal year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kacha-Mastercard card issuance agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kacha, Mastercard Ink Deal To Expand Card Issuance In Ethiopia](https://www.thereporterethiopia.com/53689/)** — The Reporter Ethiopia, 27 October 2026
+
+Kacha Digital Financial Service signed a five-year agreement with Mastercard. It is the first privately owned payment-instrument issuer licensed by Ethiopia's central bank. It will issue cards to its customers. It will also offer issuing to banks, microfinance institutions and fintechs. All of this is subject to regulatory approval.
 
 </div>
 
@@ -1499,6 +1527,20 @@ The Central Bank of Kenya licensed 29 more digital credit providers, bringing th
 **[Safaricom taps Pesapal’s 30,000 POS terminals to take M-PESA contactless](https://techcabal.com/2026/10/01/safaricom-taps-pesapals-30000-pos-terminals-to-take-m-pesa-contactless/)** — TechCabal, 1 October 2026
 
 Safaricom and Pesapal put M-PESA tap-to-pay and QR payment on Pesapal's 30,000 point-of-sale terminals in Kenya, with no extra fee. Safaricom says scan-to-pay is live at more than 60,000 merchant outlets and targets 500,000 within a year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Open finance policy and guidance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[International Bank for Reconstruction and Development Grant](https://www.gatesfoundation.org/about/committed-grants/2026/10/inv-110666)** — Gates Foundation, 1 October 2026
+
+The Gates Foundation committed US$50,000 in October 2026 to the World Bank's lending arm. The nine-month grant supports Kenya in drafting open-finance policy and guidance on data sharing, consumer protection and inclusive access to financial services.
 
 </div>
 
@@ -3050,6 +3092,20 @@ Saudi payments firm EdfaPay and Sudanese IT company GoPravo launched SDPay, an e
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BBAN account-to-account transfer service (EBS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المدير العام لشركة الخدمات المصرفية الإلكترونية EBS في حوار خاص مع "حواس"](https://hawasmagazine.com/?p=23253)** — Hawas Magazine, 25 October 2026
+
+The general manager of the national payments operator said the account-to-account transfer service has passed 376 million transactions, at about 10 million a month and up 12% in 2026. Operations moved to secured sites outside Khartoum during the war. The next project is an instant payment system with a single national QR code.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -3483,6 +3539,20 @@ Zimbabwe's central bank is negotiating with NPCI International to build a real-t
 **[CEO Africa Roundtable: Zimbabwe processes $5.8 million a month through PAPSS as local currency settlement takes hold](https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/)** — The Herald, 8 October 2026
 
 Afreximbank said Zimbabwe is processing US$5.8 million a month through the pan-African payment and settlement system. Yuan clearing is being brought onto the platform through its link to China's interbank system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Roads administration multi-currency e-wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZINARA rolls out multi-currency e-wallet platform](https://www.heraldonline.co.zw/zinara-rolls-out-multi-currency-e-wallet-platform/)** — The Herald (Zimbabwe), 24 October 2026
+
+The road authority launched a self-service e-wallet that takes toll fees, vehicle licensing, radio licences and third-party insurance payments in several currencies. It runs on iOS, Android, web and USSD, and full access requires uploading an identity document.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: befb49416568
+record: aea81389810b
 ---
 
 # News, Sep – Oct 2026
@@ -138,6 +138,14 @@ The acting director-general of Algeria's salaried workers' social insurance fund
 **[Tech By Tech disponibiliza versão de testes do AngolaID](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/)** — PTI, 9 October 2026
 
 Angolan company Tech By Tech released a test version of AngolaID, a private digital identity wallet and verification service, on Google Play and the App Store, announced on 7 October 2026. Users create a credential by video liveness check and facial recognition, and institutions can integrate it by API and SDK. The company says it does not issue or replace the state identity card.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[INFOSI certifica e aprova utilização da plataforma AngolaID](https://pti.ao/infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid/)** — Portal de T.I, 27 October 2026
+
+Angola's information society agency INFOSI certified and approved the private AngolaID identity-verification platform, built by Tech by Tech, for use nationwide. This followed an October test release. The company says the platform neither issues nor replaces the state identity card.
 
 </div>
 
@@ -1457,6 +1465,28 @@ Katsina State and Nigeria's identity commission agreed a working group to link t
 **[JAMB Moves to Rescue Graduates Stuck for Years over NIN Data Mismatch, Unveils New Service](https://www.thisdaylive.com/2026/10/18/jamb-moves-to-rescue-graduates-stuck-for-years-over-nin-data-mismatch-unveils-new-service/)** — ThisDay, 18 October 2026
 
 Nigeria's admissions board launched a service that lets candidates correct their records to match their national identity data. It is meant to help graduates who have been barred from national service for years by mismatched records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Trust Stamp tokenised identity tools for BLIP government platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Trust Stamp signs Multi-Year Agreement to provide AI-Powered Identity Solutions for government programs in Nigeria, in a Multi-Year, Multi-Million-Dollar Engagement](https://www.globenewswire.com/news-release/2026/10/26/3388143/0/en/trust-stamp-signs-multi-year-agreement-to-provide-ai-powered-identity-solutions-for-government-programs-in-nigeria-in-a-multi-year-multi-million-dollar-engagement.html)** — Trust Stamp (via GlobeNewswire), 26 October 2026
+
+Trust Stamp signed a three-year agreement with BLIP Limited, a Nigerian supplier of registration and certification platforms to government, announced on 26 October 2026. It covers tokenised biometric identity tools hosted in the customer's environment, under the Nigeria Data Protection Act 2023. Trust Stamp expects more than one million enrolments in the first year.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Trust Stamp targets Nigerian biometric ID programs with 3-year BLIP deal](https://www.biometricupdate.com/202610/trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-deal)** — Biometric Update, 27 October 2026
+
+Trust Stamp signed a three-year technology services and data sovereignty agreement with BLIP Limited, a Nigerian provider of registration platforms for government. Trust Stamp will supply tokenised biometric identity tools, with data hosted in Nigeria. The company expects more than one million enrolments in the first year.
 
 </div>
 

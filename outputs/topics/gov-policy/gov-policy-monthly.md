@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: gov.policy
-places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: 6733dddd70f4
+places: DZA; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: 207e0924f298
 ---
 
 # News, Sep – Oct 2026
@@ -52,6 +52,8 @@ record: 6733dddd70f4
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#guinea">Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea-bissau">Guinea-Bissau</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
@@ -69,6 +71,8 @@ record: 6733dddd70f4
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#niger">Niger</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -232,6 +236,20 @@ Cameroon is commissioning a national master plan to digitise its public-procurem
 **[Cameroun : Un plan directeur pour achever la digitalisation des marchés publics](https://leconomie.info/article/cameroun-un-plan-directeur-pour-achever-la-digitalisation-des-marches-publics)** — Le quotidien L'Economie, 8 September 2026
 
 The African Development Bank awarded the NC Consulting/Eyra International grouping a six-month, FCFA 241.36 million contract to draw up Cameroon's master plan for digitalising public procurement. The plan is to cover the whole procurement cycle and the gaps that limit use of COLEPS, the e-procurement platform run since 2018. No award date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Successor to the expired national digital plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon Eyes AI-Led Growth with New Digital Economy Strategy](https://www.businessincameroon.com/public-management/2610-17054-cameroon-eyes-ai-led-growth-with-new-digital-economy-strategy)** — Business in Cameroon, 26 October 2026
+
+The Minister of Posts and Telecommunications spoke at the World Bank's summit in Seoul on 19-22 October 2026. The Minister said a draft national digital-economy strategy is being finalised. It rests on national AI consultations. Its pillars are digital infrastructure, data governance, skills, research and responsible-AI rules.
 
 </div>
 
@@ -703,6 +721,22 @@ At Digital Economy Live 2026 in Accra, Ghana's communications minister urged Afr
 
 </div>
 
+## Guinea
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Communication and digital economy portfolio</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinée : Fana Soumah nommé Ministre de la Communication, de l’économie numérique et de l’Innovation (Décret)](https://agpguinee.com/guinee-fana-soumah-nomme-ministre-de-la-communication-de-leconomie-numerique-et-de-linnovation-decret/)** — AGP Guinée, 26 October 2026
+
+A presidential decree read on 26 October 2026 appointed Fana Soumah as Guinea's Minister of Communication, Digital Economy and Innovation. President Mamadi Doumbouya signed it.
+
+</div>
+
+</div>
+
 ## Guinea-Bissau
 
 <div class="monthly-story" markdown="1">
@@ -949,6 +983,20 @@ King Mohammed VI presided over the swearing-in of Morocco's new government at th
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cloud First policy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le PLF 2027 veut faire du cloud le choix par défaut des nouveaux projets numériques de l’État — L’Hybride](https://lhybride.ma/briefs/plf-2027-cloud-first-ministere-ia/)** — L'Hybride, 25 October 2026
+
+The cabinet adopted draft finance law 60-26 for 2027 on 20 October 2026. The finance minister presented it to Parliament on 23 October. Its digital section provides for a Cloud First circular making cloud the default for new public projects. It also provides for a 50 MW sovereign data centre in Rabat over 2027-2029. It remains a draft that Parliament can amend.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -1032,6 +1080,22 @@ A proposed Internet for All strategy for Mozambique, to be implemented by the co
 **[Mozambique Plans to Integrate AI into Public Finance Management Systems](https://consulting.co.mz/mozambique-plans-to-integrate-ai-into-public-finance-management-systems/)** — Consulting.co.mz, 12 October 2026
 
 Mozambique's government approved a Public Finance Management Strategy for 2026–2035 that includes a digital transformation plan for 2026–2030. It names AI, machine learning, data mining and the Internet of Things for treasury, debt and state-asset management, and puts all major processes on the e-SISTAFE system by 2035. The approval date is not stated.
+
+</div>
+
+</div>
+
+## Niger
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National e-commerce strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lancement de l'atelier sur le commerce électronique](https://www.commerce-industrie.gouv.ne/?p=3463)** — Ministère du Commerce et de l'Industrie (Niger), 27 October 2026
+
+Niger's Ministry of Commerce and Industry opened a three-day pre-validation workshop on 26 October 2026. The workshop concerns its national e-commerce strategy. The strategy aims to use digital means to support financial and social inclusion. It also aims to make Niger a major West African e-commerce actor by 2035.
 
 </div>
 

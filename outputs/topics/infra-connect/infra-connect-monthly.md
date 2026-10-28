@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 2a990526a062
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 834c1f39b319
 ---
 
 # News, Sep – Oct 2026
@@ -97,6 +97,8 @@ record: 2a990526a062
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -613,6 +615,14 @@ A fibre cut in Cameroon disrupted internet service in the Central African Republ
 **[Internet : qu’est-ce que la liaison par fibre avec la RDC peut apporter à la Centrafrique](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique)** — Agence Ecofin, 12 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 The digital-economy ministers of the Central African Republic and DR Congo agreed in Moscow on 8 October on the need to carry out a fibre interconnection between the two countries, which would give the Central African Republic a third international route, toward the submarine cable landing at Moanda. No timetable or financing was announced.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vers une diversification de la connectivité en Centrafrique](https://sunvimedia.info/vers-une-diversification-de-la-connectivite-en-centrafrique/)** — Sunvi Media, 26 October 2026
+
+The country's international connectivity rests largely on a 935 km fibre segment of the Central African Backbone. Vandalism in March 2026 partly cut telecom services. A ministry official said in late August that a route eastward via South Sudan is under study, with the path and terms still to be set.
 
 </div>
 
@@ -1190,6 +1200,14 @@ Gabon's digital economy ministry announced a Gabon Digital Week at the Palais de
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Digital Week : la 5G officiellement lancée](https://agpgabon.ga/gabon-digital-week-la-5g-officiellement-lancee/)** — Agence Gabonaise de Presse (AGP), 26 October 2026
+
+5G networks were launched in Libreville at the opening of Gabon Digital Week. The regulator had given a favourable opinion on assigning frequency bands to Airtel Gabon and Moov Africa Gabon Telecom. Masts are going up in Greater Libreville and Port-Gentil. A gradual national rollout follows.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1683,6 +1701,28 @@ The Communications Authority of Kenya published a draft Satellite Frequency Lice
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre project to link all public institutions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government targets grassroots internet connectivity to open up global digital market for youth](https://www.kenyanews.go.ke/government-targets-grassroots-internet-connectivity-to-open-up-global-digital-market-for-youth/)** — Kenya News Agency (KNA), 18 October 2026
+
+On 18 October 2026 the ICT Principal Secretary said a 17,000 km fibre project linking all public institutions is underway, run with the Communications Authority, ICT Authority and Kenya Power. A KSh13 billion private build of 27,000 km runs alongside it. The Elgeyo Marakwet governor said the county will waive all charges for companies laying fibre.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Plans 44,000km Fiber Expansion to Boost Internet Access](https://techweez.com/2026/10/27/kenya-fiber-optic-network-expansion/)** — Techweez, 27 October 2026
+
+Kenya plans a further 44,000km of fibre. One part is a 17,000km project for public institutions. The other is 27,000km of backbone, middle-mile and cross-border links. Government investment of KES 13 billion backs the plan. The plan sits within a Digital Superhighway target of 100,000km. The ICT Principal Secretary's remarks are the source. An earlier account on file describes the 17,000km as already added since 2022.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -2156,6 +2196,20 @@ Mozambique's regulator is validating a proposed national 'Internet para Todos' s
 **[Mozambique targets 95% broadband coverage by 2030](https://itweb.africa/article/mozambique-targets-95-broadband-coverage-by-2030/4r1ly7R9P99vpmda)** — ITWeb Africa, 9 October 2026
 
 Mozambique's regulator validated its Internet for All strategy, which targets 95% broadband coverage by 2030, 12 million mobile internet subscribers and at least 60% of schools connected. It cited a programme to subsidise about 280,000 internet-enabled devices.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Localities and schools connected under the ministry's programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Mozambique veut porter à 1000 le nombre d’écoles connectées à Internet d’ici 2029](https://www.wearetech.africa/fr/fils/actualites/tech/le-mozambique-veut-porter-a-1000-le-nombre-d-ecoles-connectees-a-internet-d-ici-2029)** — wearetech.africa, 27 October 2026
+
+Mozambique's Communications and Digital Transformation Minister, Américo Muchanga, gave a radio interview broadcast on 26 October 2026. He said the government aims to connect 1,000 schools to the internet by 2029, up from 418. He added that 19,454 computers have been distributed to higher-education students. He added that 20 digital spaces have been created.
 
 </div>
 
@@ -3342,6 +3396,52 @@ Helios Towers and UNICEF announced a multi-year partnership on 28 September 2026
 **[Tanzania’s TCRA Gives Telecom Providers 30 Days to Fix Infrastructure Faults](https://techafricanews.com/2026/10/14/tanzania-tcra-telecom-providers-30-days-fix-infrastructure-faults/)** — Tech Africa News, 14 October 2026
 
 Tanzania's TCRA gave telecoms providers 30 days to correct faults found in inspections, among them unsafe cabling, damaged poles and unmarked infrastructure. Some providers must file full GIS maps of their networks, and new fibre installations now need the Authority's prior approval.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Paratus point of presence, Dar es Salaam</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paratus connects Tanzania to Africa and beyond with new Dar es Salaam PoP](https://paratus.africa/blog/paratus-connects-tanzania-to-africa-and-beyond-with-new-dar-es-salaam-pop/)** — Paratus Africa, 26 October 2026
+
+Paratus Tanzania set up a point of presence at the Wingu data centre in Dar es Salaam in September 2026. It sells IP transit, Layer 2 circuits and wholesale capacity. The routes run to Nairobi, Maputo, Johannesburg, Eswatini, Europe and the US. The point of presence is part of its Kigali-Mombasa network strategy.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paratus expands its African reach with Tanzania PoP](https://www.connectingafrica.com/fiber-networking/paratus-expands-its-african-reach-with-tanzania-pop)** — Connecting Africa, 27 October 2026
+
+Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es Salaam. It links customers to Paratus network routes north to Nairobi via Mombasa and south to Maputo, Johannesburg and Eswatini. The company will offer IP transit, Layer 2 circuits and wholesale capacity to carriers, internet service providers and enterprises.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public map of home fibre networks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Dossier d'appel d'offres ouvert n° 004/ARCEP/PRMP/2026 du 25 septembre 2026 pour la mise en place d'une cartographie des réseaux FTTH](https://arcep.tg/wp-content/uploads/2026/09/AOO_CARTOGRAPHIE_FTTH_RELANCE_02_2026.pdf)** — ARCEP Togo — Autorité de Régulation des Communications Électroniques et des Postes, 25 September 2026
+
+The regulator opened a tender on 25 September 2026 for a map of fibre-to-the-home networks, as a single lot estimated at FCFA 250 million. Delivery is due within 240 days of notification, the bid bond is FCFA 7.5 million and bids open on 30 October 2026. The 141-page dossier relaunches an earlier call.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Fibre à domicile : l’ARCEP prépare une carte pour comparer les opérateurs](https://www.togofirst.com/fr/telecoms/2710-20458-fibre-a-domicile-l-arcep-prepare-une-carte-pour-comparer-les-operateurs)** — Togo First, 27 October 2026
+
+Togo's regulator ARCEP opened a tender, number 004/ARCEP/PRMP/2026 of 25 September 2026, for a public portal mapping home fibre networks. Users could compare operators' coverage, speeds and service quality by locality and report faults on the map. Bids are due 30 October 2026, the contract is estimated at FCFA 250 million, and delivery is set within 240 days.
 
 </div>
 

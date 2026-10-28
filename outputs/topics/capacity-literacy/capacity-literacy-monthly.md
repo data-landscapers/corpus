@@ -1,10 +1,10 @@
 ---
 title: Literacy — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: capacity.literacy
 places: AGO; BDI; CPV; TCD; COM; EGY; GAB; GHA; KEN; MDG; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; TZA; TGO; TUN; UGA
-record: 8725955626ac
+record: 21e193c2ea71
 ---
 
 # News, Sep – Oct 2026
@@ -462,6 +462,20 @@ Nigeria's NITDA launched a National Digital Literacy Dashboard to track training
 **[Empowering Parents in Rwanda Through Digital Literacy Training](https://www.internetsociety.org/blog/2026/09/empowering-parents-in-rwanda-through-digital-literacy-training/)** — Internet Society, 4 September 2026
 
 The Internet Society's Rwanda Chapter ran a two-day training in English and Kinyarwanda in Karongi District for 50 parents, teachers and local leaders, funded by the Internet Society Foundation. Sessions covered online scams, privacy settings and using the Irembo e-government platform by phone. No date for the training is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rwanda DigiTruck mobile classroom</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda Marks Completion of Smart Education Project Phase I and Launches the DigiTruck Initiative](https://www.mineduc.gov.rw/news-detail/rwanda-marks-completion-of-smart-education-project-phase-i-and-launches-the-digitruck-initiative)** — Ministry of Education (Rwanda), 27 October 2026
+
+The Ministry of Education, with the Ministry of ICT and Innovation and Huawei, marked the end of Phase I of the Smart Education Project. Phase I connected 1,500 schools to high-speed internet and built two data centres. The DigiTruck, a mobile solar-powered classroom, was launched to give free digital skills training to more than 5,000 people across 30 districts over three years. The page carries no date of its own.
 
 </div>
 

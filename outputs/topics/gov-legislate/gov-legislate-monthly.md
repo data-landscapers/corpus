@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f646eb1752d5
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 76bbc69fcdcf
 ---
 
 # News, Sep – Oct 2026
@@ -29,6 +29,8 @@ record: f646eb1752d5
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -480,6 +482,22 @@ Cote d'Ivoire's banking reform folds digital finance into a wider legal architec
 **[Côte d’Ivoire-AIP/ L’ARTCI mise sur l’innovation pour transformer le réseau postal en levier de développement](https://www.aip.ci/cote-divoire-aip-lartci-mise-sur-linnovation-pour-transformer-le-reseau-postal-en-levier-de-developpement/)** — Agence Ivoirienne de Presse (AIP), 9 October 2026
 
 The director general of Côte d'Ivoire's telecoms regulator, ARTCI, Lakoun Ouattara, said on World Post Day, 9 October 2026, that the postal network should adapt to e-commerce, digital addressing and last-mile delivery. He said the 2013 Postal Code, law 2013-702, is being revised to cover new uses and operators. No timetable for the revision is given.
+
+</div>
+
+</div>
+
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft organic law on finance laws (LOLF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le chef de l’Etat préside les travaux de la 12e séance du Conseil des ministres](https://www.adi.dj/article/139039)** — Agence Djiboutienne d'Information (ADI), 27 October 2026
+
+Djibouti's Council of Ministers approved a draft organic law on finance laws with a title on dematerialisation. It provides for an integrated public financial management system, electronic archiving, digital signatures and online publication of budget data.
 
 </div>
 
@@ -1335,6 +1353,14 @@ Madagascar's bill on electronic communications and digital infrastructure, submi
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[ACCÈS À INTERNET - Une nouvelle législation en faveur des investissements](https://www.lexpress.mg/2026/10/acces-internet-une-nouvelle-legislation.html)** — L'Express de Madagascar, 27 October 2026
+
+Madagascar's government filed bill 040/2026 on electronic communications and digital infrastructure on 28 August 2026. Its vote was adjourned in the previous session, and it was not yet on the National Assembly's agenda for the new session. Article 111 would guarantee operators stable legal, tax, customs and financial regimes for the term of their licence.
+
+</div>
+
 </div>
 
 ## Malawi
@@ -1350,6 +1376,21 @@ Madagascar's bill on electronic communications and digital infrastructure, submi
 A World Bank mission to the Digital Malawi Acceleration Project, from 31 August to 4 September 2026, found 32.3% of funds disbursed and 62 contracts worth USD 28.3 million signed. The 100 rural cell towers were due to go to bidders by the end of September, and the mission warned that Phase 2 funds, which the finance ministry asked to be released on 31 August, are unlikely before July 2027.
 
 </div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cyber Crimes and E-Evidence Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malawi pushes tough new laws to track, expose and jail online scammers | Nyasa Times](https://www.nyasatimes.com/malawi-pushes-tough-new-laws-to-track-expose-and-jail-online-scammers/)** — Nyasa Times, 27 October 2026
+
+Malawi's Justice Minister, Charles Mhango, said the government hopes to table a cybercrime bill in the February-April 2027 budget session. Drafted with the ICT Ministry, it is meant to trace fraudulent bank and mobile-money accounts and to address AI-linked threats. He spoke at the National Cyber Drill and Cybersecurity Conference in Lilongwe.
+
+</div>
+
 
 </div>
 
@@ -1831,6 +1872,20 @@ Nigeria's Minister of State for Health, Iziaq Adekunle Salako, told the AI in He
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Draft executive bill on cybercrime and electronic evidence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC, NITDA, AGF, National Assembly demand stronger cybersecurity measures against AI-driven threats](https://dailypost.ng/2026/10/27/ncc-nitda-agf-national-assembly-demand-stronger-cybersecurity-measures-against-ai-driven-threats/)** — Daily Post Nigeria, 27 October 2026
+
+Nigeria's Attorney-General said the Federal Ministry of Justice has advanced a draft executive bill to strengthen the cybercrime legal framework. It covers emerging technologies and the preservation and exchange of electronic evidence. NITDA said it is reviewing cybercrime legislation with the Office of the National Security Adviser and the National Assembly.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -2081,6 +2136,20 @@ South Africa's parliamentary justice committee agreed on 23 September 2026 that 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Cybercrimes Act investigations, prosecutions and convictions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Question NW4395 to the Acting Minister of Police](https://pmg.org.za/committee-question/41149/)** — Parliamentary Monitoring Group (Parliament of South Africa), 5 October 2026
+
+In a reply to a parliamentary question tabled on 5 October 2026, the police service reported eight cyber-extortion, ransomware and related cases registered over three years. One suspect was arrested, for extortion. The attack on the Weather Service remains unsolved.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">National Identification and Registration Bill</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2116,6 +2185,36 @@ South Africa's ratification of the AfCFTA Protocol on Digital Trade was presente
 **[Minister promises ‘revised’ draft of crypto assets regulation](https://www.itweb.co.za/article/minister-promises-revised-draft-of-crypto-assets-regulation/KA3WwMdzXE3vrydZ)** — ITWeb South Africa, 21 October 2026
 
 South Africa's finance minister said on 21 October 2026, presenting the Medium-Term Budget Policy Statement, that the draft Capital Flow Management Regulations, which cover cross-border crypto assets, need a different approach after Treasury received thousands of comments. Consultations will produce a revised second draft for further comment; no date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">POPIA enforcement notices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Information Regulator (South Africa), Enforcement Notice (s.95 POPIA) and Infringement Notice (s.109 POPIA) against First National Bank, 21 October 2026](https://inforegulator.org.za/wp-content/uploads/2026/10/FIRST-NATIONAL-BANK-ENFORCEMENT-NOTICE-211026_Redacted.pdf)** — Information Regulator (South Africa), 21 October 2026
+
+The Information Regulator issued an enforcement notice and an infringement notice to First National Bank. Both were signed on 21 October 2026. The infringement notice carries an R1 million administrative fine. The regulator found an offence under section 105 of the data protection act. A 2022 compromise exposed the data of 88 people to 696 unauthorised individuals. The bank must fix its privacy policy, retention and further processing. It must report within 90 days.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Information Regulator fines Central Johannesburg TVET College and First National Bank for POPIA contravention](https://inforegulator.org.za/wp-content/uploads/2026/10/MEDIA-STATEMENT-REGULATOR-FINES-CJC-AND-FNB-FOR-POPIA-CONTRAVENTION.pdf)** — Information Regulator (South Africa), 26 October 2026
+
+South Africa's Information Regulator fined Central Johannesburg TVET College R500,000 for not complying with an enforcement notice of 22 May 2026. The notice followed the sharing of three complainants' personal information with third parties. The fine was announced on 26 October 2026 together with a R1 million fine on First National Bank.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FNB issued with R1m fine for POPIA violation](https://www.itweb.co.za/article/fnb-issued-with-r1m-fine-for-popia-violation/O2rQGqAEWwBqd1ea)** — ITWeb South Africa, 27 October 2026
+
+South Africa's Information Regulator fined First National Bank R1 million after a fault in its mobile app exposed the personal data of 88 home-loan applicants to 696 unauthorised people. The regulator found the bank's safeguards inadequate and its response to repeated security incidents deficient. It issued the notices on 26 October 2026.
 
 </div>
 
@@ -2402,6 +2501,14 @@ The Uganda Communications Commission said on 20 October 2026 that commercial Wi-
 **[UCC Moves to Tighten Monitoring of Internet Data Resellers](https://nilepost.co.ug/business/380753/ucc-moves-to-tighten-monitoring-of-internet-data-resellers)** — Nile Post, 22 October 2026
 
 The Uganda Communications Commission agreed with mobile operators and licensed internet providers in ISPAU to tighten tracking of data consumption and billing, aimed at unlicensed resellers of bulk connectivity over public Wi-Fi. Eligible resellers are to be brought into licensing through onboarding guidelines, and illegal access points and routers removed; no date or design for the monitoring was given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[KACITA, UCC Agree to Form Committee on Unlicensed Internet Resellers](https://www.nilepost.co.ug/news/381731/kacita-ucc-agree-to-form-committee-on-unlicensed-internet-resellers)** — Nile Post, 26 October 2026
+
+Kampala traders and the Uganda Communications Commission agreed to form a joint committee, led by the commission, to recommend how unlicensed internet resellers are regulated. Resellers will first register for an inventory. The commission is pursuing about 4,000 unlicensed Wi-Fi resellers and puts potential tax losses at Shs148 billion a year.
 
 </div>
 

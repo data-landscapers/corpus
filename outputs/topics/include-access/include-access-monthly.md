@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: include.access
 places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 925422467aec
+record: 622f6c1d50f5
 ---
 
 # News, Sep – Oct 2026
@@ -475,6 +475,20 @@ Liberia's Independent Information Commission and the anti-corruption group CENTA
 **[PUL Condemns Government’s Assault on Freedom of Information and Transparency; Calls for Immediate Withdrawal of Confidentiality Policy Undermining the FOI Act - Liberia Public Radio](https://liberiapublicradio.com/2026/10/24/pul-condemns-governments-assault-on-freedom-of-information-and-transparency-calls-for-immediate-withdrawal-of-confidentiality-policy-undermining-the-foi-act/)** — Liberia Public Radio, 24 October 2026
 
 At a Governance Commission policy dialogue, the Press Union of Liberia called for the immediate withdrawal of a confidentiality and non-disclosure agreement the Civil Service Agency has introduced for civil servants, saying it overturns the Freedom of Information Act and strips the Independent Information Commission, which opposed it, of its authority. The union also said most agencies the commission assessed had not appointed public information officers and that Liberia lacks an enforceable data-protection framework.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Freedom of Information Act awareness, Grand Gedeh survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IIC Proposes Regional Hub -Grand Gedeh survey backs decentralized access - Analyst Liberia](https://analystliberiaonline.com/iic-proposes-regional-hub-grand-gedeh-survey-backs-decentralized-access/)** — The Analyst News, 27 October 2026
+
+A survey of 1,875 people in Grand Gedeh County on 14-17 October 2026 found that 87.6% had never heard of the Freedom of Information Act of 2010. Some 85.3% did not know how to file a request. Some 77.6% said they use the internet regularly. The Independent Information Commission recommended a feasibility assessment for a regional freedom of information hub in the county.
 
 </div>
 

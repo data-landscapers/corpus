@@ -1,10 +1,10 @@
 ---
 title: China activities — News, September – October 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: geopol.china
-places: BWA; DJI; EGY; GMB; TGO
-record: 8846d3f64c82
+places: BWA; DJI; EGY; GMB; LBY; TGO; UGA
+record: 4622200538ce
 ---
 
 # News, Sep – Oct 2026
@@ -18,7 +18,11 @@ record: 8846d3f64c82
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 </nav>
 
 ## Botswana
@@ -99,6 +103,22 @@ The Gambia's ambassador in Geneva, Muhammadou Kah, vice-chair of the UN Commissi
 
 </div>
 
+## Libya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Qanwan-Huawei cooperation agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[قنوان وهواوي توقعان اتفاق تعاون لدعم التحول الرقمي في ليبيا](https://w.almustaqbal.ly/news/5894)** — وكالة أنباء المستقبل, 24 October 2026
+
+The Qanwan investment foundation and Huawei's Libya branch signed a cooperation agreement on investment and technology at the General Union of Chambers of Commerce, Industry and Agriculture. It aims at innovation, expertise exchange and digital transformation. No value or specific project was stated.
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -118,6 +138,22 @@ Togo and China signed thirteen agreements and memoranda in Beijing on 15 October
 **[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026
 
 Togo and Huawei signed a memorandum of understanding in Shenzhen on 16 October 2026 covering energy, smart transport and smart customs systems. It includes technology transfer and local skills development, and was signed during Council President Faure Gnassingbé's visit to China from 9 to 16 October. No value was given.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Huawei-supported safe-city surveillance programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[When Smart cities turn menacing](https://www.independent.co.ug/when-smart-cities-turn-menacing/)** — The Independent (Uganda), 25 October 2026
+
+A researcher at a digital-rights organisation traces Uganda's EPSAuto traffic-fine system. It was switched on in June 2025 and suspended within days after complaints of wrong fines. On 6 October 2026 the Attorney General declared the 2021 contract for the intelligent transport monitoring system void. The author cites a report finding more than US$2 billion of surveillance spending in 11 countries. The author asks for open procurement.
 
 </div>
 

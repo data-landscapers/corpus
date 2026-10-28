@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 248245243b64
+record: 33b6c408b981
 ---
 
 # News, Sep – Oct 2026
@@ -221,6 +221,20 @@ Algeria's Ministry of National Solidarity launched a digital platform on 20 Octo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tawassol consumer reporting portal (internal trade ministry)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Plateforme Tawassol : comment signaler un commerçant qui n’affiche pas ses prix ou dépasse les plafonds ?](https://www.algerie360.com/plateforme-tawassol-signalement-commercant-prix/)** — Algérie360, 26 October 2026
+
+The Ministry of Internal Trade opened an online consumer portal at tawassol.commerce.gov.dz. Consumers can report unpriced goods, breaches of capped prices, hygiene failures and stock-outs. A mobile app is announced to follow.
+
+</div>
+
+</div>
+
 ## Angola
 
 <div class="monthly-story" markdown="1">
@@ -305,6 +319,20 @@ Benin's Republican Police moved loss certificates fully online from 1 October 20
 **[Communiqué officiel | Prix national de la simplification administrative](https://prix-simplification.gouv.bj/communique)** — Gouvernement du Bénin, 12 October 2026
 
 Benin's government launched a presidential National Administrative Simplification Prize on 12 October 2026, inviting public servants, citizens and businesses to propose simpler procedures, including digitisation and data sharing between administrations. Submissions are open from 29 October to 12 November 2026. The prize supports Benin's target of having all procedures online by 2030.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic vote for the 2027 national professional elections</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2027 Professional Elections: COSI-Benin Sets Conditions on Electronic Voting and Calls for Lowering Threshold to 10%](https://beninwebtv.bj/en/2027-professional-elections-cosi-benin-sets-conditions-on-electronic-voting-and-calls-for-lowering-threshold-to-10/)** — Benin Web TV, 26 October 2026
+
+The budget and public service ministry decided to hold the March-April 2027 professional elections by electronic vote. The COSI-Benin union confederation demanded an independent technical audit first. It cited 2023 e-elections in education and health. In those votes, third parties voted for registered voters.
 
 </div>
 
@@ -846,6 +874,20 @@ DR Congo's foreign minister, Thérèse Kayikwamba Wagner, and digital economy mi
 **[RDC: le gouvernement relance le processus e-visa, l’évaluation des offres prévue début 2027](https://actualite.cd/2026/10/25/rdc-le-gouvernement-relance-le-processus-e-visa-levaluation-des-offres-prevue-debut-2027)** — ACTUALITE.CD, 25 October 2026
 
 DR Congo relaunched its e-visa reform with a new competitive selection of a provider, after cancelling a June 2024 concession found gravely deficient. Workshops in mid-November 2026 will revise the specifications and pricing, and bids are to be evaluated in early 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Strategy and roadmap for digitalising security governance in territorial administration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : la stratégie de digitalisation de la gouvernance sécuritaire soumise à validation - Congo Inter](https://congointer.info/2026/10/27/rdc-la-strategie-de-digitalisation-de-la-gouvernance-securitaire-soumise-a-validation/)** — Congo Inter, 27 October 2026
+
+DR Congo's deputy interior minister opened a four-day national workshop in Kinshasa on 26 October 2026. The workshop is to validate a strategy and roadmap for digitalising security governance. The aim is real-time reporting of security information from village to state level. That reporting still relies largely on manual procedures.
 
 </div>
 
@@ -1438,6 +1480,20 @@ The chief executive of the Ghana Tourism Authority, Maame Efua Houadjeto, said o
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MSME Digital Gateway</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UNDP Hands Over 90 Laptops to GEA to Strengthen Digital Support for MSMEs](https://www.undp.org/ghana/press-releases/undp-hands-over-90-laptops-gea-strengthen-digital-support-msmes)** — United Nations Development Programme, 26 October 2026
+
+The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They are for the national rollout of the MSME Digital Gateway. Trained Digital Champions will use them to help small businesses reach support, financing information and markets. The work falls under a Joint SDG Fund programme with three other bodies.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1508,6 +1564,36 @@ Guinea's livestock ministry launched Ngaynaako on 22 October 2026, a one-stop on
 **[Ministère de l’Élevage : Alpha Bacar Barry présente la plateforme NGAYNAAKO pour rapprocher l’administration des acteurs du secteur](https://mediaguinee.com/2026/10/ministere-de-lelevage-alpha-bacar-barry-presente-la-plateforme-ngaynaako-pour-rapprocher-ladministration-des-acteurs-du-secteur/)** — MediaGuinee, 23 October 2026
 
 Guinea's Ministry of Livestock presented NGAYNAAKO on 22 October 2026, a platform through which farmers and other livestock-sector actors can obtain the ministry's documents, regulations and support schemes without travelling to its offices. Minister Alpha Bacar Barry said it will work in national languages with AI assistance and will count the farms operating in the country; the ministry had already moved its mail handling online.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">KONKOE integrated fisheries and maritime economy management system (SIGPEM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lancement officiel du Système intégré de gestion de la pêche et de l'économie maritime à travers la plateforme KONKÖE : la République de Guinée accélère la digitalisation du secteur de la pêche et renforce sa souveraineté sur les ressources halieutiques](https://www.simandou2040.gn/actualites/konkoe-sigpem-lancement-digitalisation-secteur-peche-guinee)** — Programme Simandou 2040, 26 October 2026
+
+Guinea's fisheries ministry launched KONKÖE, an integrated management system for fishing licences and certificates, in Conakry on 26 October 2026. The first licence was signed through it at the ceremony, which fell under the Simandou 2040 programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Pêche : la Guinée lance le SIGPEM pour simplifier les démarches administratives](https://guineenews.org/2026/10/26/peche-la-guinee-lance-le-sigpem-pour-simplifier-les-demarches-administratives/)** — Guinéenews, 26 October 2026
+
+The fisheries platform Konkoé, also called SIGPEM, was launched in Conakry on 26 October 2026 at a ceremony chaired by the presidency's chief of staff. Artisanal and industrial fishers can file applications by phone or computer and follow each step of their file. Fishing representatives asked for local-language help for users who cannot read.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djiba Diakité : ‘’Un Etat moderne se mesure à la qualité du service qu’il rend à ses citoyens’’ |](https://www.visionguinee.info/djiba-diakite-un-etat-moderne-se-mesure-a-la-qualite-du-service-quil-rend-a-ses-citoyens/)** — VisionGuinée, 27 October 2026
+
+The head of the President's cabinet launched the Integrated Fisheries and Maritime Economy Management System, named Konkoé, on 26 October 2026. The platform is to trace fishing licences, landings, vessels and revenue, and to support surveillance of territorial waters. It is presented as part of the Simandou 2040 programme.
 
 </div>
 
@@ -1747,6 +1833,20 @@ Kenya's Senate ICT committee questioned National Transport and Safety Authority 
 **[Kenya’s Technopolis Authority Launches Digital Platform to Monitor Vehicle Speed Limiters](https://techafricanews.com/2026/10/23/kenyas-technopolis-authority-launches-digital-platform-to-monitor-vehicle-speed-limiters/)** — Tech Africa News, 23 October 2026
 
 Kenya's Konza Technopolis Development Authority has put live a Digital Telematics Platform for the National Transport and Safety Authority, which registers and certifies vehicle speed limiters and lets the regulator identify non-compliant vehicles. The authority presents the project as a step toward acting as a technology supplier to government beyond its smart-city remit.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Transformation Centre II programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya and Germany Advance Digital Transformation Partnership Through DTC II](https://techafricanews.com/2026/10/27/kenya-germany-digital-transformation-dtc-ii/)** — TechAfrica News, 27 October 2026
+
+Kenya's State Department for ICT and the Digital Economy and GIZ worked on finalising the implementation agreements for the Digital Transformation Centre II programme, after feedback from National Treasury. Tax exemptions for the programme remain unresolved.
 
 </div>
 
@@ -2108,6 +2208,20 @@ Morocco's digital transition ministry launched a new version of the Idarati port
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Foreign-exchange office E-Declarations platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Office des changes: E-Déclarations platform](https://www.lesmre.com/en/actualites/foreign-assets-currency-office-digitizes-compliance-checks)** — LesMRE, 24 October 2026
+
+The Office des changes opened an international tender for an e-declarations platform. It would digitise declarations of property, assets and funds held abroad by resident Moroccans, and the statistical surveys owed by resident companies. The work runs in five phases under a steering committee, within the Office's 2025-2029 digital strategy.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -2274,6 +2388,14 @@ Mozambique's digital transformation agency ATDI opened the Centro Pronto service
 **[Altas taxas cobradas no novo Centro Pronto para BI, passaporte, carta de condução e DIRE revoltam cidadãos](https://mznews.co.mz/altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de-conducao-e-dire-revoltam-cidadaos/)** — MZNews, 19 October 2026
 
 Fees at Mozambique's new Centro Pronto document centre have drawn public anger, as the private centre adds its own fee and 16% VAT to the state fee. An adult identity-card renewal costs MZN 1,058.12 in total, of which the state fee is MZN 160. A driving-licence renewal costs MZN 5,201.84 and an express passport renewal MZN 10,725.10.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Preços de passaporte, carta de condução e bilhete de identidade continuam inalteráveis](https://aimnews.org/2026/10/25/precos-de-passaporte-carta-de-conducao-e-bilhete-de-identidade-continuam-inalteraveis/)** — Agência de Informação de Moçambique (AIM), 25 October 2026
+
+A private document-services firm said on 25 October 2026 that official fees are unchanged at the public counters. The fees cover identity cards, residence permits, passports and driving licences. Its own service is an optional paid channel. An express passport costs the state fee of MZN 7,200. It adds a MZN 3,038.89 service fee and 16% VAT on that fee. Delivery takes one working day.
 
 </div>
 
@@ -2557,6 +2679,20 @@ Rwanda's public-sector HR platform, IPPIS, offers a REST API through which appro
 **[Rwandans report lower satisfaction with public services, new scorecard shows](https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/)** — Rwanda Dispatch, 23 October 2026
 
 The Rwanda Governance Board's 13th Rwanda Governance Scorecard, published on 22 October 2026, scored service delivery at 68.48%, down from 71.73% and the lowest of its eight categories, while security and public order stood at 90.15%. Digitally delivered services scored 60.98% against 77.83% for services from public institutions, businesses and NGOs; satisfaction with the Irembo platform fell 5.60 points to 81.80% and e-court filing 13.60 points to 65.40%, and the report cited ICT ministry data that only 11% of government services were fully online in 2024.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Share of government services fully digitised end to end</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why Rwanda is Unhappy with Only 11% of Government Services Fully Digitised](https://www.ktpress.rw/2026/10/why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digitised/)** — KT Press, 27 October 2026
+
+The latest Rwanda Governance Scorecard finds that 11% of government services are fully digitised from start to finish. Cabinet reviewed the scorecard on 26 October 2026 and directed institutions to take coordinated, measurable action. The report also cites a service inventory that cuts local services from 235 to 60, a consolidation of 22 licences and 12 land services online.
 
 </div>
 

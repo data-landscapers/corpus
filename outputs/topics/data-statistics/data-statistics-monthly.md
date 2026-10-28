@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: data.statistics
 places: BWA; BFA; BDI; CMR; CAF; COG; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA
-record: 97c6e1402645
+record: 2f8debbfbde4
 ---
 
 # News, Sep – Oct 2026
@@ -276,6 +276,20 @@ Equatorial Guinea's statistics institute, INEGE, began a tour of ministries' sta
 **[INEGE presenta la novena edición del Anuario Estadístico y llama a convertir los datos en decisiones](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/)** — AHORAEG, 25 September 2026
 
 Equatorial Guinea's statistics institute INEGE presented the ninth edition of the national Statistical Yearbook in Malabo, covering the last five years. It named stronger administrative registers, digitised processes and interoperable information systems as outstanding challenges, and announced a fifth population and housing census and a first agricultural census, with no dates.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fifth population census and first agricultural census</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[INEGE avanza en la validación técnica de los documentos del Quinto Censo de Población y del Primer Censo Agropecuario](https://www.guineaecuatorialpress.com/noticias/inege_avanza_en_la_validacion_tecnica_de_los_documentos_del_quinto_censo_de_poblacion_y_del_primer_censo_agropecuario)** — Página Oficial del Gobierno de la República de Guinea Ecuatorial, 26 October 2026
+
+Equatorial Guinea's statistics institute opened a technical validation workshop on 26 October 2026 with UNDP and FAO. Participants review the methods and data-collection tools for the fifth population census and the first agricultural census. It follows a strategy workshop held on 27-29 July 2026.
 
 </div>
 
@@ -767,6 +781,20 @@ South Africa's deputy minister in the Presidency, Nonceba Mhlauli, marked 30 yea
 **[Statistical Abstract 2025](https://www.nbs.go.tz/uploads/statistics/documents/en-1790933026-Statistical%20Abstract%202025.pdf)** — National Bureau of Statistics, 1 September 2026
 
 Tanzania's National Bureau of Statistics published the Statistical Abstract 2025 in September 2026. It is an annual compendium of official tables, largely drawn from ministry administrative records.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics bureau memorandum with NM-AIST and UDSM on AI and data innovation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NBS, NM-AIST and UDSM: Turning DIRA 2050 into Action](https://nm-aist.ac.tz/nbs-nm-aist-and-udsm-turning-dira-2050-into-action/)** — Nelson Mandela African Institution of Science and Technology, 27 October 2026
+
+Tanzania's National Bureau of Statistics signed a three-party memorandum of understanding with NM-AIST and the University of Dar es Salaam on artificial intelligence, statistical modelling and data innovation. The partners will pool researchers, data and computing to support Vision 2050. The signing date is not stated.
 
 </div>
 

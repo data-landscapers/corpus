@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: tech.innovate
-places: DZA; AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; KEN; LBR; MWI; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: 8994f8a65ace
+places: DZA; AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; KEN; LBR; MWI; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; TUN; UGA; ZWE
+record: 658728941f4b
 ---
 
 # News, Sep – Oct 2026
@@ -49,6 +49,8 @@ record: 8994f8a65ace
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -316,6 +318,20 @@ About 150 delegates attended a symposium in Manzini, Eswatini, on 2 September 20
 **[FINTECH WORKING GROUP BECOMES FINTECH FORUM ESWATINI](https://eswatinipositivenews.online/fintech-working-group-becomes-fintech-forum-eswatini/)** — Eswatini Positive News, 23 September 2026
 
 The Central Bank of Eswatini's FinTech Working Group became the FinTech Forum Eswatini on 23 September 2026, Governor Phil Mnisi announced at Indaba X Eswatini, opening it to government, academia, industry, innovators and students. A memorandum of understanding to formalise the forum is the next step.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University Innovation Pod (UNIPOD) at the University of Eswatini</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E15 MILLION UNESWA UNIPOD HUB TO DRIVE YOUTH INNOVATION AND JOB CREATION](https://eswatinipositivenews.online/e15-million-uneswa-unipod-hub-to-drive-youth-innovation-and-job-creation/)** — Eswatini Positive News, 24 October 2026
+
+The University of Eswatini is building a E15 million innovation pod at its library, funded by the UN Development Programme. The vice-chancellor announced it at the 44th graduation on 24 October 2026. The pod will give students from the country's institutions space and equipment to start businesses, and the communications commission pledged US$150,000.
 
 </div>
 
@@ -738,6 +754,22 @@ Enabel, the Belgian development agency, issued tender specifications for a consu
 **[Serikali yatenga Sh5 bilioni kwa ajili ya kampuni changa za Tehama](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-yatenga-sh5-bilioni-kwa-ajili-ya-kampuni-changa-za-tehama-5617578)** — Mwananchi, 2 October 2026
 
 Tanzania's ICT minister, Angellah Kairuki, launched a TZS 5bn loan programme for youth-owned ICT start-ups in Dodoma on 2 October 2026, run with Azania Bank. Loans come in three tiers from TZS 1m to TZS 100m, and applicants register on the Jamii Hunt system.
+
+</div>
+
+</div>
+
+## Tunisia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">The Dot digital innovation hub</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le hub numérique « The Dot » : 500 startups accompagnées en cinq ans](https://www.lapresse.tn/2026/10/25/le-hub-numerique-the-dot-500-startups-accompagnees-en-cinq-ans/)** — La Presse de Tunisie, 25 October 2026
+
+The EU-funded hub marked its fifth anniversary on 23 October 2026. It reported support for more than 500 startups since 2021, 37 of them founded by diaspora Tunisians. It has incubated 140 startups from ten governorates. It has hosted over 3,000 events.
 
 </div>
 

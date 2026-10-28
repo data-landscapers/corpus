@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5426be74b6c2
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 78376876fe5c
 ---
 
 # News, Sep – Oct 2026
@@ -57,6 +57,8 @@ record: 5426be74b6c2
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -674,6 +676,20 @@ Egypt's agriculture ministry spokesman Khaled Gad said on 23 September 2026 that
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax Authority e-invoice and e-receipt case-selection platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Egypt’s Tax Authority Taps eTax to Operate Digital Platform for Electronic Invoice and Receipt Data](https://www.technotime.net/17974)** — Techno Time, 24 October 2026
+
+The Tax Authority contracted eTax to build and run a platform that analyses electronic-invoice and e-receipt data to select cases for examination. The work covers the data warehouse, integration, hosting and security.
+
+</div>
+
+</div>
+
 ## Equatorial Guinea
 
 <div class="monthly-story" markdown="1">
@@ -1187,6 +1203,22 @@ Liberia's Ministry of Gender, Children and Social Protection launched an upgrade
 
 </div>
 
+## Libya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health sector digital transformation plan 2026-2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير الصحة يترأس اجتماعًا تشاوريًا لإعداد خطة التحول الرقمي بالقطاع الصحي في ليبيا 2026–2030](https://ar.libyaobserver.ly/article/39242)** — Libya Observer, 27 October 2026
+
+Libya's Health Minister chaired a consultative meeting on a 2026-2030 plan for digitalising the health sector. The Minister of State for Digital Economy and AI and representatives of the WHO and UNDP took part. Participants reviewed the state of digital health, facility readiness, national health information systems and a preliminary digital maturity analysis. The plan is in preparation. Priorities, responsibilities and timetables were still to be set.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -1582,6 +1614,20 @@ Sierra Leone held a two-day workshop on 17 and 18 September 2026 on a shared dig
 **[Somalia Launches Digital System to Track National Transformation Plan](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan)** — Dawan Africa, 8 September 2026
 
 Somalia's Ministry of Planning launched a digital system on 8 September 2026 to monitor the National Transformation Plan across all 26 federal ministries, inaugurated by Deputy Prime Minister Salah Ahmed Jama. Planning Minister Mahmoud Abdirahman Beenebeene said every project will be assessed against performance indicators. The plan has so far reviewed 153 donor-funded projects.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital Ebola travel health pass</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia launches digital Ebola travel health pass](https://horneconomicreview.com/2026/10/25/somalia-launches-digital-ebola-travel-health-pass)** — Horn Economic Review, 25 October 2026
+
+A digital Ebola travel health pass began on 22 October 2026. Arrivals must file an online health declaration before travel. It was built by the National Institute of Health and starts at Aden Adde International Airport, with extension to other airports, seaports and land borders on no stated timeline.
 
 </div>
 
@@ -2129,6 +2175,20 @@ A US$650,000 grant from the British High Commission, routed through TradeMark Af
 **[Zambia Advances Customs System Upgrade to Improve Trade Processing](https://www.ecofinagency.com/news-services/2010-59956-zambia-advances-customs-system-upgrade-to-improve-trade-processing)** — Ecofin Agency, 20 October 2026
 
 The Zambia Revenue Authority set out on 19 October 2026 the next steps in moving its customs system from ASYCUDA World to ASY5: system assessments, pilot testing and officer training. The UNCTAD project is backed by a US$650,000 British grant through TradeMark Africa, and no go-live date has been set.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smart Invoicing System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[393 taxpayers owe ZRA K26m in smart invoicing fines - AG](https://diggers.news/business/2026/10/27/393-taxpayers-owe-zra-k26m-in-smart-invoicing-fines-ag/)** — News Diggers, 27 October 2026
+
+Zambia's Auditor General reported that the Zambia Revenue Authority fined 393 taxpayers more than K26 million for not using the Smart Invoicing System. As at 31 August 2026 it had collected none of the amount.
 
 </div>
 

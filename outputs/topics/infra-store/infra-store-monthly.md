@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 2e7e292483ea
+record: 9edd74691f45
 ---
 
 # News, Sep – Oct 2026
@@ -767,6 +767,21 @@ Morocco's digital transition minister, Amal El Fallah Seghrouchni, presented the
 **[FiveNines Group partners with Nexus Core Systems to develop 20MW data centre in Morocco](https://www.einpresswire.com/article/947923731/fivenines-group-partners-with-nexus-core-systems-to-develop-20mw-data-centre-in-morocco)** — EIN Presswire (FiveNines Group announcement), 7 October 2026
 
 The UK firm FiveNines Group was appointed to lead design management and procurement strategy for a 20MW AI data centre that Nexus Core Systems plans near Casablanca, Morocco, using Nvidia's Vera Rubin reference architecture. The announcement puts the wider Nexus AI Factory platform's target at 180MW on renewable power. No cost, permit or construction start is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sovereign data centre, Rabat</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[PLF 2027 - IA : Les données stratégiques de l’État auront leur propre datacenter](https://lopinion.ma/fr/actu-maroc/plf-2027---ia--les-donnees-strategiques-de-letat-auront-leur-propre-datacenter_a29710?articleId=1b958255-b43c-4b5e-ae46-c28f85519113)** — L'Opinion, 26 October 2026
+
+Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereignty and artificial intelligence. Earlier bills had no such component. It covers cloud services across administrations and a sovereign data centre in Rabat. It also covers AI adapted to national languages and specialised training.
 
 </div>
 

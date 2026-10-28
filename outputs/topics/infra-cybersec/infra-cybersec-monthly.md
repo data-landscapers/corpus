@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: infra.cybersec
-places: BEN; BFA; CMR; CPV; TCD; COM; CIV; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZWE
-record: f7ff40c57362
+places: BEN; BFA; CMR; CPV; TCD; COM; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f51572844e7f
 ---
 
 # News, Sep – Oct 2026
@@ -23,6 +23,8 @@ record: f7ff40c57362
 <a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -50,6 +52,8 @@ record: f7ff40c57362
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
@@ -73,6 +77,8 @@ record: f7ff40c57362
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zimbabwe">Zimbabwe</a>
 </nav>
@@ -234,6 +240,22 @@ A Russian embassy delegation visiting the Comoros took up with the telecommunica
 **[Cybersécurité : la Côte d’Ivoire organise sa première simulation nationale de crise cyber - Abidjan.net News](https://news.abidjan.net/articles/749590/cybersecurite-la-cote-divoire-organise-sa-premiere-simulation-nationale-de-crise-cyber)** — Abidjan.net, 13 October 2026
 
 Côte d'Ivoire's information-systems security agency will run a first national cyber-crisis simulation in Abidjan on 28 and 29 October 2026.
+
+</div>
+
+</div>
+
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vulnerability alerts issued by DJ-CERT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[DJ-CERT - Centre gouvernementale de veille, d'alertes et de réponses aux attaques informatiques (Alertes)](https://cert.gouv.dj/Alertes/)** — DJ-CERT / Autorité Nationale de Cybersécurité, 21 October 2026
+
+The alert page lists 511 vulnerability alerts with severity ratings, from 2 January 2023 to 21 October 2026. The newest rows, dated 21 October, rate the PHP2Shell flaws in PHP and a GitLab vulnerability as critical.
 
 </div>
 
@@ -508,6 +530,7 @@ The Communications Authority of Kenya reported a 43.7% rise in web application a
 
 </div>
 
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -561,6 +584,7 @@ Kenya's interior minister Kipchumba Murkomen appointed Lorna Omondi Ogolla and J
 </div>
 
 </div>
+
 
 <div class="monthly-story" markdown="1">
 
@@ -786,6 +810,21 @@ Mauritania's WARDIP project unit at the digital transformation ministry issued a
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Reported cyber incidents</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius and Meta strengthen cooperation on online safety and digital challenges](https://mitci.govmu.org/mitci/mauritius-and-meta-strengthen-cooperation-on-online-safety-and-digital-challenges/)** — Ministry of Information Technology, Communication and Innovation (Mauritius), 7 October 2026
+
+The government and Meta held a full-day workshop at Ebene on 7 October 2026, opened by the Acting Prime Minister, on child safety, disinformation, impersonation and AI-generated content. Cybercrime cases rose from 491 in 2024 to 702 in 2025, and sextortion cases from 178 to 223. About 85% of the population uses Meta platforms.
+
+</div>
+
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Cyber Threat Intelligence Sharing Platform</p>
 
 <div class="bulletin-item" markdown="1">
@@ -793,6 +832,22 @@ Mauritania's WARDIP project unit at the digital transformation ministry issued a
 **[Request for Proposal: Supply and Implementation of a Threat Intelligence Sharing Platform for the Banking sector](https://www.bom.mu/media/media-releases/request-proposal-supply-and-implementation-threat-intelligence-sharing-platform-banking-sector-0)** — Bank of Mauritius, 20 October 2026
 
 The Bank of Mauritius is tendering for the supply and implementation of a threat intelligence sharing platform for the banking sector. Encrypted bids close on 20 November 2026.
+
+</div>
+
+</div>
+
+## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cyber Security Index score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCSI :: Morocco](https://ncsi.ega.ee/country/ma/)** — e-Governance Academy, 11 September 2026
+
+The index version of 11 September 2026 gives Morocco full marks on critical information infrastructure (12 of 12). It also gives full marks on personal data protection (4 of 4). Cybersecurity policy scores 12 of 15. Cyber crisis management scores 2 of 9, and military cyber defence 2 of 6.
 
 </div>
 
@@ -991,6 +1046,20 @@ The national computer emergency response team issued an advisory recording a sig
 **[Escalation of Ransomware Attacks in Nigeria](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/261-escalation-of-ransomware-attacks-in-nigeria)** — ngCERT (Nigerian Communications Commission), 22 September 2026
 
 Nigeria's national CERT warned of rising Phobos ransomware attacks on cloud service providers whose clients include government agencies, banks and telecoms operators. It rates the damage critical and the probability high, and sets out mitigations.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Communications-sector incident response team (NCC-CSIRT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NCC tasks telcos on stronger defenses against AI cyberattacks](https://guardian.ng/news/ncc-tasks-telcos-on-stronger-defenses-against-ai-cyberattacks/)** — The Guardian Nigeria, 27 October 2026
+
+The Nigerian Communications Commission spoke at the second International Cybersecurity Conference in Abuja. It urged telecom operators to adopt zero-trust architecture. It also urged them to test their AI systems regularly for weaknesses. The commission said telecoms infrastructure is designated Critical National Information Infrastructure. It said it runs a computer incident response team with mandatory incident reporting.
 
 </div>
 
@@ -1290,6 +1359,20 @@ The South African Reserve Bank explains how its National Payment System Departme
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rand Mutual Assurance alleged data theft</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rand Mutual probes alleged breach of 1.68m claims](https://www.itweb.co.za/article/rand-mutual-probes-alleged-breach-of-168m-claims/G98YdqLGAgXMX2PD)** — ITWeb South Africa, 27 October 2026
+
+Rand Mutual Assurance said it is investigating a possible systems breach after an alert on 23 October 2026. A threat actor claims to hold 366GB of data, including 1,683,810 compensation claims records, and demands US$95,000 by 5 November. The insurer said no unauthorised access had yet been established.
+
+</div>
+
+</div>
+
 ## Sudan
 
 <div class="monthly-story" markdown="1">
@@ -1402,6 +1485,22 @@ Bank of Uganda's governor told Parliament's Public Accounts Committee that the c
 **[Uganda Records 6,533 Cyber and Fraud Incidents, Losses Hit Shs24bn](https://nilepost.co.ug/news/372865/uganda-records-6533-cyber-and-fraud-incidents-losses-hit-shs24bn)** — Nile Post, 23 September 2026
 
 The Uganda Bankers' Association counted 6,533 cyber and fraud incidents in the financial sector from January to August 2026, with UGX 24 billion lost and a further UGX 68 billion estimated at risk. At the same forum the Deputy Chief Justice said the judiciary is open to specialised handling of cyber and financial crime.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Computer Incident Response Team</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia : Zambia Takes First SADC Regional Cybersecurity Chair](https://www.lusakatimes.com/2026/10/27/zambia-takes-first-sadc-regional-cybersecurity-chair/)** — Lusaka Times, 27 October 2026
+
+Zambia took the first chair of the SADC Regional Computer Incident Response Team Steering Committee for 2026-2027. The Zambia Cyber Security Agency's director general, Dr Schmidt Chintu, assumed the post on 17 September 2026. The agency says the regional cybersecurity framework adopted in 2019 is now being put into operation.
 
 </div>
 

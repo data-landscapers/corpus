@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 6d20ad54c47e
+record: 120b68c14476
 ---
 
 # News, Sep – Oct 2026
@@ -311,6 +311,28 @@ The Yaoundé Declaration on E-Governance and Artificial Intelligence in Africa, 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seat of the Central African telecoms regulators' assembly (ARTAC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LEADERSHIP NUMÉRIQUE : LE CAMEROUN CHOISI POUR ABRITER LE SIÈGE DE L’ARTAC](https://www.art.cm/fr/article/leadership-num%C3%A9rique-le-cameroun-choisi-pour-abriter-le-si%C3%A8ge-de-l%E2%80%99artac)** — Agence de régulation des télécommunications (ART), Cameroun, 26 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Central African telecoms regulators set the headquarters of their regional body, ARTAC, in Cameroon at an extraordinary session in Libreville on 20-21 October 2026. Cameroon's regulator may designate the executive secretary. The session also adopted a resolution on a Central African ICT Observatory for sector data.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon to host ARTAC headquarters as Central African regulators deepen digital cooperation](https://techreviewafrica.com/news/7974/cameroon-to-host-artac-headquarters-as-central-african-regulators-deepen-digital-coo)** — Tech Review Africa, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Central African telecoms regulators chose Cameroon as the seat of their association, ARTAC. They gave Cameroon's regulatory board the task of appointing its Executive Secretary. They decided this at their fourth extraordinary session in Libreville on 20-21 October 2026. The session also adopted a resolution on running the regional ICT Observatory.
+
+</div>
+
+</div>
+
 ## Chad
 
 <div class="monthly-story" markdown="1">
@@ -529,6 +551,20 @@ Egypt's Ministry of Communications and Information Technology took part in the s
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">United Nations Convention against Cybercrime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[«وزارة الاتصالات»: مصر تنفذ أكثر من 760 عملية للدفاع السيبراني خلال 2025](https://www.fintechgate.net/253502)** — بوابة التكنولوجيا المالية, 1 October 2026
+
+Egypt's communications ministry said it carried out more than 760 cyber-defence operations across the country in 2025. It made the statement during Cybersecurity Awareness Month. The statement also describes the national CERT, a youth cybersecurity academy and an awareness drive by the telecoms regulator.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Cairo Document for Trust and African Digital Integration</p>
 
 <div class="bulletin-item" markdown="1">
@@ -656,6 +692,28 @@ Gabon's foreign minister, Marie-Édith Tassyla-Ye-Doumbeneny, signed the UN Conv
 **[Gabon Strengthens Cybersecurity Expertise at Octopus 2026 Conference](https://techafricanews.com/2026/10/16/gabon-strengthens-cybersecurity-expertise-octopus-2026/)** — Tech Africa News, 16 October 2026
 
 A delegation from Gabon's digital infrastructure agency, ANINF, attended the Council of Europe's Octopus 2026 cybercrime conference in Strasbourg on 14-16 October. ANINF says it used the meeting to build expertise on electronic evidence and to look at Gabon joining the Budapest Convention on Cybercrime.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Host-country agreement for the AU Specialised Technical Committee on Communication and ICT</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Union Opens 6th Session of Specialized Technical Committee on Communication and ICT](http://www.au.int/en/pressreleases/20261027/au-opens-6th-session-specialized-technical-committee-communication-and-ict)** — African Union Commission, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+The African Union's Specialised Technical Committee on Communication and ICT opened its 6th Ordinary Session in Libreville. It elected a bureau chaired by Ghana, with Kenya, Gabon and a North African state still to be confirmed as vice-chairs, and Lesotho as rapporteur. Its recommendations go to AU ministers for decision.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon and African Union Sign Host Country Agreement on Digital Cooperation](https://techafricanews.com/2026/10/27/gabon-african-union-host-country-agreement-digital-cooperation/)** — Tech Africa News, 27 October 2026
+
+Gabon and the African Union signed a host country agreement for the AU Specialised Technical Committee on Communication and ICT. Gabon's digital economy minister and the AU Commissioner signed it in Libreville at the opening of Digital Week. The signing date is not stated.
 
 </div>
 

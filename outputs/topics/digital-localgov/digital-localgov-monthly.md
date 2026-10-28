@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: digital.localgov
 places: BDI; CMR; TCD; COD; EGY; GAB; GHA; GNB; KEN; LBY; MWI; NAM; NGA; SEN; SOM; ZAF; SSD; SDN; TZA; TUN; UGA
-record: e8f12e7dd913
+record: 6cccd99fe1bd
 ---
 
 # News, Sep – Oct 2026
@@ -652,6 +652,14 @@ A joint meeting of Khartoum locality and two Khartoum State councils agreed that
 **[Tanzania Registers 150 Projects on e-Delivery System to Implement Vision 2050](https://www.tanzaniainvest.com/economy/e-delivery-150-projects-vision-2050)** — Tanzania Invest, 6 September 2026
 
 Tanzania's National Planning Commission has registered 150 development projects on its e-Delivery system since the platform launched on 1 July 2026, against a target of more than 500. Deputy Executive Secretary Sosthenes Kewe urged ministries in Dodoma to speed up registration, saying the system will help rank projects for the Vision 2050 plan.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania moves to e-Delivery System to ensure its development projects meet Vision 2050 goals - Daily News](https://dailynews.co.tz/tanzania-moves-to-e-delivery-system-to-ensure-its-development-projects-meet-vision-2050-goals/)** — Daily News (Tanzania), 27 October 2026
+
+Tanzania's Deputy Minister for Planning and Investment told Parliament about the e-Delivery System. About 940 public servants have been trained on it. Every ongoing development project must be registered in it. Its dashboards are to let Parliament and the public track projects against Vision 2050 targets.
 
 </div>
 

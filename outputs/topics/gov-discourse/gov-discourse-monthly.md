@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: gov.discourse
 places: CAF; TCD; GNQ; ETH; GAB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; NER; SEN; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ca145b1c4cdd
+record: fdb78fa589b4
 ---
 
 # News, Sep – Oct 2026
@@ -562,6 +562,22 @@ Togo's 12th national Internet Governance Forum was held in Lomé on 19 June 2026
 **[مقترح قانون عدد 017 / 2024 يتعلق بتنقيح واتمام المرسوم عدد 54 لسنة 2022 المتعلق بمكافحة الجرائم المتصلة بأنظمة المعلومات والاتصال](https://www.arp.tn/loi/project/4139)** — Assemblée des Représentants du Peuple (ARP), 6 September 2026
 
 Parliament's own case file for the bill amending Tunisia's 2022 cyber-offences decree-law puts dates on a revision that has been called a priority: deposited on 20 February 2024, referred to committee on 10 April 2025, carrying 38 sponsors, and still unvoted. The amendments themselves are not published on the page, so what the bill would change remains unstated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Amendement du décret-loi 54: Les peines de prison remplacées par des amendes financières](https://www.lapresse.tn/2026/09/30/amendement-du-decret-loi-54-les-peines-de-prison-remplacees-par-des-amendes-financieres/)** — La Presse de Tunisie, 30 September 2026
+
+Decree-law 2026-1 appeared in issue 96 of the official gazette on 30 September 2026. It replaces article 24 of decree-law 2022-54, so that spreading false news online is punished by a fine of 10,000 to 20,000 dinars. Prison applies only to repeat offences.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[مرسوم عدد 1 لسنة 2026 مؤرخ في 30 سبتمبر 2026 يتعلق بتنقيح المرسوم عدد 54 لسنة 2022 (Décret-loi n° 2026-1 du 30 septembre 2026 revising décret-loi n° 2022-54, article 24)](https://www.juridoc.tn/ar/document/%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%AF%D8%AF-1-%D9%84%D8%B3%D9%86%D8%A9-2026-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-30-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2026-%D9%8A%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%AA%D9%86%D9%82%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%88%D9%85-%D8%B9%D8%AF%D8%AF-54-%D9%84%D8%B3%D9%86%D8%A9-2022-%D8%A7%D9%84%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-13-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2022-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%B5%D9%84%D8%A9-%D8%A8%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84/235342)** — Présidence de la République tunisienne (text as reproduced by Juridoc), 30 September 2026
+
+Decree-law 2026-1 of 30 September 2026 repeals article 24 of decree-law 2022-54. It writes a new article in its place. Deliberately producing or spreading false news, rumours or forged documents to harm others, public security or national defence carries a fine of TND 10,000 to 20,000. A repeat offence brings six months in prison and a TND 50,000 fine. Penalties double where the target is a public official.
 
 </div>
 

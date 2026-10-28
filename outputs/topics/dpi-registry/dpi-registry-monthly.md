@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — News, September – October 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: e7530d40cd8f
+record: 108d2c420901
 ---
 
 # News, Sep – Oct 2026
@@ -467,6 +467,21 @@ Côte d'Ivoire's cadastre director, Bahi Apollinaire Boua, said at the Abidjan l
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitisation of civil-status registers</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalisation : Trois outils de modernisation de l’état civil](https://digitalmag.ci/digitalisation-trois-outils-de-modernisation-de-letat-civil/)** — Digital Mag Côte d’Ivoire, 27 October 2026
+
+Côte d'Ivoire's civil identification office has archived the registers of 505 civil-registry centres. It has begun digitising them in 14, about 3.8 million records so far. Up to 62.5% of centres in Moronou were inactive. Network coverage limits nearly 35% of centres. An online platform for requesting civil-status acts was shown to registrars on 22-24 October 2026. It has EU and World Bank backing.
+
+</div>
+
+</div>
+
 ## DR Congo
 
 <div class="monthly-story" markdown="1">
@@ -643,6 +658,34 @@ A Dentons alert explains Ethiopia's Regulation No. 592/2026, under which no busi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Business registration and licensing services delivered online</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Delivers Over 1 million Digital Business Registration, Licensing Services](https://www.ena.et/web/eng/w/eng_9819771)** — Ethiopian News Agency (ENA), 26 October 2026
+
+The trade ministry reported 1,088,787 business registration and licensing services delivered online over three months. Trade name clearance led with 579,785, and new business registrations numbered 60,409. Oromia accounted for 441,550.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital addressing system (eDAS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Prioritises National Geospatial Data Infrastructure in New Strategy](https://techafricanews.com/2026/10/27/ethiopia-national-geospatial-data-infrastructure-strategy/)** — TechAfrica News, 27 October 2026
+
+Ethiopia's Minister of Innovation and Technology told the Space Science and Geospatial Institute to build an integrated national geospatial data foundation and extend digital addressing, so far started in selected cities, nationwide. The work feeds the next five-year plan. A study of a national communications satellite has not yet been done.
+
+</div>
+
+</div>
+
 ## Gabon
 
 <div class="monthly-story" markdown="1">
@@ -732,6 +775,20 @@ A ten-day inter-ministerial workshop at Ntoum is preparing Gabon's national civi
 **[État civil : le Gabon face au défi de la modernisation](https://www.gabonreview.com/etat-civil-le-gabon-face-au-defi-de-la-modernisation/)** — GabonReview, 9 October 2026
 
 The workshop preparing Gabon's national civil-registration conferences closed with a diagnosis of badly kept archives, irregular data entry and a Civil Code dating from 1972. Its final report goes to the Interior minister, who sets the calendar.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fichier unique des participations (state holdings register)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Semaine du numérique : lancement officiel du Fichier unique des participations](https://agpgabon.ga/gabon-semaine-du-numerique-lancement-officiel-du-fichier-unique-des-participations/)** — Agence Gabonaise de Presse (AGP), 26 October 2026
+
+Gabon Digital Week opened with the launch of an online register of the companies in the state's portfolio. The register is built to centralise and secure data on public holdings. The budget minister performed the launch on 26 October 2026. The register runs at www.fup.ga.
 
 </div>
 
