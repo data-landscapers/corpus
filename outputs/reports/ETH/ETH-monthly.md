@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: ETH
-ledger_rows: 35
+ledger_rows: 38
 not_held: 5
-record: 1b46c59e706b
+record: 016c0fe5ba40
 ---
 
 # News, Sep – Oct 2026
@@ -530,6 +530,20 @@ Ethiopia's Awash Bank, with Mastercard, and Oromia Bank, with Visa, launched eig
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Kacha-Mastercard card issuance agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kacha, Mastercard Ink Deal To Expand Card Issuance In Ethiopia](https://www.thereporterethiopia.com/53689/)** — The Reporter Ethiopia, 27 October 2026
+
+Five-year deal; Kacha issues Mastercard cards and serves as issuing platform for banks, MFIs and fintechs.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -541,6 +555,34 @@ Ethiopia's Awash Bank, with Mastercard, and Oromia Bank, with Visa, launched eig
 **[No Disclosure, No Licence: Ethiopia's Beneficial Ownership Deadlines Are Here](https://www.dentons.com/en/insights/articles/2026/october/12/no-disclosure-no-licence-ethiopias-beneficial-ownership-deadlines-are-here)** — Dentons, 12 October 2026
 
 A Dentons alert explains Ethiopia's Regulation No. 592/2026, under which no business registration, licence or investment permit can be issued or renewed unless the holder's beneficial owners are recorded with the Ministry of Trade and Regional Integration. Existing entities had to identify their owners by 13 October 2026 and must file by 11 January 2027, with fines up to ETB 500,000, exclusion from public tenders and up to five years in prison for failing to keep the information.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Business registration and licensing services delivered online</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Delivers Over 1 million Digital Business Registration, Licensing Services](https://www.ena.et/web/eng/w/eng_9819771)** — Ethiopian News Agency (ENA), 26 October 2026
+
+1,088,787 online services in three months; trade name clearance 579,785; Oromia leads with 441,550.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital addressing system (eDAS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Prioritises National Geospatial Data Infrastructure in New Strategy](https://techafricanews.com/2026/10/27/ethiopia-national-geospatial-data-infrastructure-strategy/)** — TechAfrica News, 27 October 2026
+
+SSGI review ahead of next five-year plan; digital addressing to go nationwide; comsat study not yet undertaken.
 
 </div>
 
