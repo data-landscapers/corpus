@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CMR,localai,build,coverage,inservice,2025-07-02,CMR-003,CMR-004=underway;CMR-001=underway;CMR-002=underway,
-CMR,localai,compute,coverage,,,,,nothing held
-CMR,localai,shared,coverage,,,,,nothing held
+CMR,localai,compute,coverage,,,,,nothing found
+CMR,localai,shared,coverage,,,,,nothing found

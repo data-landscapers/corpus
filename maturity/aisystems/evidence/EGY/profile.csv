@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 EGY,localai,build,coverage,inservice,2026-09,EGY-002;EGY-003;EGY-005;EGY-006;EGY-008,EGY-009=underway;EGY-007=underway;EGY-001=underway;EGY-004=underway;EGY-011=underway;EGY-010=underway,
-EGY,localai,compute,coverage,,,,,nothing held
-EGY,localai,shared,coverage,,,,,nothing held
+EGY,localai,compute,coverage,,,,,nothing found
+EGY,localai,shared,coverage,,,,,nothing found

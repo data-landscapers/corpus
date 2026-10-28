@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CAF,localai,build,coverage,inservice,2026,CAF-001;CAF-003,CAF-002=underway,
-CAF,localai,compute,coverage,,,,,nothing held
-CAF,localai,shared,coverage,,,,,nothing held
+CAF,localai,compute,coverage,,,,,nothing found
+CAF,localai,shared,coverage,,,,,nothing found

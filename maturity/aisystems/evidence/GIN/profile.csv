@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GIN,localai,build,coverage,inservice,2026-09-10,GIN-003,GIN-004=underway;GIN-001=underway;GIN-002=underway,
-GIN,localai,compute,coverage,,,,,nothing held
-GIN,localai,shared,coverage,,,,,nothing held
+GIN,localai,compute,coverage,,,,,nothing found
+GIN,localai,shared,coverage,,,,,nothing found

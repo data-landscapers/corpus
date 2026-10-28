@@ -1,0 +1,34 @@
+{
+ "slug": "2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouveaux-projets-numeriq",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The draft 2027 finance bill's presentation note cites national models GemMaroc (language) and IsMa (automatic transcription) for darija, Amazigh and Arabic, linked to an R&D lab set up with Mistral AI.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "GemMaroc / IsMa",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GemMaroc",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "IsMa",
+   "country_label": "Morocco",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

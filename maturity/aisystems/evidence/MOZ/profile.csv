@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MOZ,localai,build,coverage,inservice,2026-10-22,MOZ-003,MOZ-001=underway,
-MOZ,localai,compute,coverage,,,,,nothing held
-MOZ,localai,shared,coverage,,,,,nothing held
+MOZ,localai,compute,coverage,,,,,nothing found
+MOZ,localai,shared,coverage,,,,,nothing found

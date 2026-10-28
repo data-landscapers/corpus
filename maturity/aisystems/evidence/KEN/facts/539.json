@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-24-ken-can-kenya-s-ai-ambitions-coexist-with-naivasha-s-water-needs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Microsoft-G42 data centre, Olkaria",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Microsoft and G42",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a planned data centre at design stage; no built model, dataset or AI computing stated."
+}

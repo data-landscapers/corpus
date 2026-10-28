@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BEN,localai,build,coverage,inservice,2026-06-08,BEN-003;BEN-004,BEN-001=underway;BEN-002=underway,
-BEN,localai,compute,coverage,,,,,nothing held
-BEN,localai,shared,coverage,,,,,nothing held
+BEN,localai,compute,coverage,,,,,nothing found
+BEN,localai,shared,coverage,,,,,nothing found

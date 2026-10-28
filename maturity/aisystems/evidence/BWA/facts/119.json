@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-11-bwa-agreement-for-data-centre-development-at-lesedi",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Tlou Energy says it signed a binding Heads of Agreement with Kala Data FZCO to develop a containerised high-density computational facility, for hosting servers or GPUs and AI and machine learning work, at its Lesedi project, with work to begin immediately.",
+   "as_of": "2025-03-11",
+   "date_precision": "day",
+   "system": "Lesedi high-density computational facility",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lesedi high-density computational facility",
+   "country_label": "Botswana",
+   "class": "localai",
+   "platform": "containerised computing on gas-fired power",
+   "owner": "Kala Data FZCO (operator) with Tlou Energy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

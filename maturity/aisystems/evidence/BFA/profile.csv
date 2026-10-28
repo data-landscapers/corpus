@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,localai,build,coverage,inservice,2026-10-15,BFA-004,BFA-001=underway;BFA-005=underway;BFA-003=underway;BFA-006=underway;BFA-002=underway,
-BFA,localai,compute,coverage,,,,,nothing held
-BFA,localai,shared,coverage,,,,,nothing held
+BFA,localai,build,coverage,inservice,2026-10-15,BFA-004,BFA-007=underway;BFA-001=underway;BFA-005=underway;BFA-003=underway;BFA-006=underway;BFA-002=underway,
+BFA,localai,compute,coverage,,,,,nothing found
+BFA,localai,shared,coverage,,,,,nothing found

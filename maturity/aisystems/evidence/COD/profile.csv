@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COD,localai,build,coverage,inservice,2026-06-27,COD-002;COD-003,COD-001=underway,
-COD,localai,compute,coverage,,,,,nothing held
-COD,localai,shared,coverage,,,,,nothing held
+COD,localai,compute,coverage,,,,,nothing found
+COD,localai,shared,coverage,,,,,nothing found

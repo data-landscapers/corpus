@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-28-zwe-chillmine-energywise-to-develop-solar-powered-data-centers-in-zimbabwe",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Data Center Dynamics reports that Seattle-based Chillmine signed an MoU with Energywise to develop solar-powered data centres in Zimbabwe expected to support AI Infrastructure-as-a-Service, with no sites or construction timelines disclosed.",
+   "as_of": "2025-04-28",
+   "date_precision": "day",
+   "system": "Chillmine solar-powered data centres",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chillmine solar-powered data centres (planned)",
+   "country_label": "Zimbabwe",
+   "class": "localai",
+   "platform": "AI Infrastructure-as-a-Service and cryptomining hosting",
+   "owner": "Chillmine",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

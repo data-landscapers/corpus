@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-26-stp-un-convenes-sao-tome-and-principe-s-justice-and-security-leaders-on-cy",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "UNODC points to its forthcoming AI-augmented access-to-justice platform DireitosAoPovo for Sao Tome and Principe, funded under the UN Peacebuilding Fund programme.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "DireitosAoPovo",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DireitosAoPovo",
+   "country_label": "DireitosAoPovo",
+   "class": "localai",
+   "platform": "AI-augmented access-to-justice platform",
+   "owner": "UNODC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

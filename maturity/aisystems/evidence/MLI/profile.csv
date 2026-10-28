@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MLI,localai,build,coverage,inservice,2026-10-23,MLI-001;MLI-002;MLI-005,MLI-003=underway,
-MLI,localai,compute,coverage,,,,,nothing held
-MLI,localai,shared,coverage,,,,,nothing held
+MLI,localai,compute,coverage,,,,,nothing found
+MLI,localai,shared,coverage,,,,,nothing found

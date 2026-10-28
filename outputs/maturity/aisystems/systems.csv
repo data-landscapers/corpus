@@ -12,6 +12,7 @@ BFA,LegiChat,Burkina Faso,localai,app,,,2025-11-17-bfa-contribution-by-burkina-f
 BFA,French-Mooré translation platform,Burkina Faso,localai,platform,,,2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s
 BWA,Setswana AI,Botswana,localai,,Kitso Speaks and Glen Mokoka,,2025-02-07-bwa-speaks-mokoka-the-brains-behind-setswana-artificial-intelligence
 BWA,Uhuru,Botswana,localai,"WhatsApp, SMS, USSD, web app",Orion X,free; Pro,2025-07-23-bwa-how-uhuru-sets-to-resist-digital-imperialism
+BWA,Lesedi high-density computational facility,Botswana,localai,containerised computing on gas-fired power,Kala Data FZCO (operator) with Tlou Energy,,2025-03-11-bwa-agreement-for-data-centre-development-at-lesedi
 CAF,SangoAI,Central African Republic,localai,sangoai.sbs,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CAF,MEYNG/sango-vocabulary,Central African Republic,localai,Hugging Face,MEYNG,,2026-05-13-caf-huggingface-sangoai-vocabulary-augmented-prompting
 CAF,AI centre of excellence,Central African Republic,other,,Government with Dure Technologie,,2025-06-25-caf-la-republique-centrafricaine-prepare-la-creation-d-un-centre-d-excelle
@@ -86,6 +87,7 @@ GHA,MorphoAI,Ghana,localai,AI models,University for Development Studies,,2026-10
 GHA,Ghana AI Compute Hub,Ghana,localai,"AI computing, renewable energy and liquid cooling","G42 for the Ghana-UAE hub, financed by PCFC",,2025-12-19-gha-ghana-and-uae-sign-1bn-deal-to-build-africa-s-largest-innovation-and-a
 GHA,Ghana's first national data centre,Ghana,localai,,Government,,2026-10-22-gha-phase-one-of-ghana-s-first-data-centre-to-be-ready-in-24-months-sam-ge
 GHA,GhanaChat,Ghana,localai,new AI data centre,"Ministry of Communication, Digital Technology and Innovations",,2026-10-25-gha-bright-simons-flags-computing-capacity-error-in-ghanas-ai-strategy-and-ques
+GHA,National AI computing centre,Ghana,localai,,Government of Ghana,,2026-10-26-gha-ghana-hubs-network-statement-on-the-proposed-national-ai-computing-centre
 GIN,projet de supercalculateur,Guinea,localai,,Cite des sciences et de l'innovation de Guinee,,2025-05-01-gin-lelynx-dounia-supercalculateur-ia
 GIN,Nma Xui,Guinée,localai,,,,2024-03-16-gin-le360-nma-xui-ia-langues-locales
 GIN,224 N'Lambé API,Guinea,localai,translation API,224 N'Lambé,,2026-09-10-gin-224-n-lambe-api-l-infrastructure-linguistique-pour-les-technologies-gu
@@ -102,6 +104,7 @@ KEN,Konza National Data Centre Cloud Expansion and Smart City Facilities Project
 KEN,KENGLEX,Kenya,localai,,Teknobyte Limited,,2026-10-22-ken-kenyas-language-data-holds-promise-for-ai-powered-services
 KEN,Oracle AI-powered cloud platform,Oracle cloud region Nairobi,localai,cloud,Oracle,,2026-08-01-ken-ministry-urges-public-sector-to-adopt-ai-cloud-computing
 KEN,Kenya AI & Cloud Pioneer Initiative,Kenya AI & Cloud Pioneer Initiative,localai,Huawei Cloud,MICDE with Huawei,,2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit
+KEN,"Microsoft-G42 data centre, Olkaria",Kenya,other,,Microsoft and G42,,2026-08-24-ken-can-kenya-s-ai-ambitions-coexist-with-naivasha-s-water-needs
 LBR,CJ Lewis,Liberia,localai,Liblaw,Liblaw,,2026-08-03-liblaw-cj-lewis-legal-ai-liberia
 LBY,LIBIGPT,Libya,localai,generative AI model,Smart Co for Technology Projects and Artificial Intelligence,,2025-10-28-libigpt-first-generative-ai-launched-libyaherald
 LBY,Diwan Bot,Diwan Bot,other,,Libyan Audit Bureau,,2026-06-01-lby-lana-audit-bureau-diwan-bot
@@ -120,6 +123,8 @@ MAR,Nexus AI Factory,Morocco,localai,,,,2026-08-18-mar-telquel-ai-data-centers-e
 MAR,Igoudar Digital Complex,Morocco,localai,,CDG and Mohammed VI Investment Fund (backers),,2026-08-18-mar-telquel-ai-data-centers-energy-water
 MAR,CNDP LLM platform,Morocco,localai,,CNDP,,2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua
 MAR,Atlaset,Atlaset / AlAtlas,localai,Hugging Face,AtlasIA,,2025-01-01-mar-al-atlas-moroccan-darija-pretraining
+MAR,GemMaroc,Morocco,localai,,,,2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouveaux-projets-numeriq
+MAR,IsMa,Morocco,localai,,,,2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouveaux-projets-numeriq
 MLI,Centre d'intelligence artificielle et de robotique,Mali,other,,,,2026-09-28-mli-ai-robotics-centre-sovereignty-diallo
 MLI,Centre d'Intelligence Artificielle et Robotique du Mali,Mali,other,,,,2026-07-06-mali-discours-dialogue-mondial-gouvernance-ia
 MLI,African Next Voices Bambara dataset (AFVoices) and ASR models,Mali,localai,Hugging Face,RobotsMali AI4D Lab,,2025-11-26-mli-robotsmali-african-next-voices-bambara
@@ -190,6 +195,7 @@ SOM,Natural Language Processing for Somalia,Somalia,localai,,SIMAD AI Institute,
 SOM,Himilo 7B,Somalia,localai,,Sykli Intelligence,,2025-03-13-som-himilo-7b-our-pioneering-somali-language-model
 SSD,YoGage AI,South Sudan,localai,Juba Arabic dataset for AI,Go Girl ICT Initiative,,2025-06-20-ssd-eyeradio-yogage-ai-juba-arabic-dataset
 SSD,JunubAI,South Sudan,localai,AI platform for building businesses online,,,2025-07-29-ssd-indabax-south-sudan-2025-igniting-the-future-of-ai-in-south-sudan
+STP,DireitosAoPovo,DireitosAoPovo,localai,AI-augmented access-to-justice platform,UNODC,,2026-06-26-stp-un-convenes-sao-tome-and-principe-s-justice-and-security-leaders-on-cy
 SWZ,siSwati language models and generative AI,Eswatini,localai,,Royal Science and Technology Park of Eswatini; University of Eswatini; Institute for AI of Serbia,,2024-10-19-swz-ivi-serbia-siswati-ai-mou
 TCD,LIDIA (Laboratoire InterDisciplinaire de recherche en Intelligence Artificielle),Chad,localai,,Centre National de Recherche pour le Developpement (CNRD),,2026-08-04-tchad-cree-laboratoire-interdisciplinaire-recherche-ia-lidia-cnrd
 TCD,Corpus of Chadian languages,Chad,localai,GitHub,Chad AI Network,,2025-01-08-tcd-corpus-of-chadian-languages-corpus-des-langues-tchadiennes
@@ -240,3 +246,4 @@ ZWE,Econet AI,Zimbabwe,localai,"Yamurai AI, OmniContact AI, compute accessed thr
 ZWE,High Performance Computer at the University of Zimbabwe,Zimbabwe,other,,University of Zimbabwe,,2026-04-17-econet-ai-launch-cassava-compute
 ZWE,National Information Access Centre (NIAC),Zimbabwe,localai,Nvidia GPU-powered AI server,"Zimbabwe Open University, Hatcliffe campus",,2026-03-20-zwe-minister-shava-launches-ai-hub-at-zimbabwe-open-university
 ZWE,High-performance computing facility,Zimbabwe,other,,Government,,2026-02-08-zwe-minister-mavetera-defends-zimbabwe-s-ai-drive-addresses-infrastructure
+ZWE,Chillmine solar-powered data centres (planned),Zimbabwe,localai,AI Infrastructure-as-a-Service and cryptomining hosting,Chillmine,,2025-04-28-zwe-chillmine-energywise-to-develop-solar-powered-data-centers-in-zimbabwe

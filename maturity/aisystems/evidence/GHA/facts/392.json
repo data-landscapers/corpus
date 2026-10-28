@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-gha-ghana-hubs-network-statement-on-the-proposed-national-ai-computing-centre",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Ghana Hubs Network says Cabinet has approved US$250 million for a national AI computing centre, and that the Communications Minister said Phase One is due within 24 months with procurement under way at the Public Procurement Authority.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "National AI computing centre",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National AI computing centre",
+   "country_label": "Ghana",
+   "class": "localai",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

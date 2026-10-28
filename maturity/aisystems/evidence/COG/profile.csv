@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COG,localai,build,coverage,inservice,2026-08,COG-003;COG-004,COG-002=underway;COG-001=underway;COG-005=underway,
-COG,localai,compute,coverage,,,,,nothing held
-COG,localai,shared,coverage,,,,,nothing held
+COG,localai,compute,coverage,,,,,nothing found
+COG,localai,shared,coverage,,,,,nothing found

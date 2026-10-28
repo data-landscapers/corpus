@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LBY,localai,build,coverage,inservice,2025-10-27,LBY-001,LBY-002=underway,
-LBY,localai,compute,coverage,,,,,nothing held
-LBY,localai,shared,coverage,,,,,nothing held
+LBY,localai,compute,coverage,,,,,nothing found
+LBY,localai,shared,coverage,,,,,nothing found

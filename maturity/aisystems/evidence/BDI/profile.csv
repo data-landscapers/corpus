@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BDI,localai,build,coverage,inservice,2026-09-28,BDI-001;BDI-003,BDI-002=underway,
-BDI,localai,compute,coverage,,,,,nothing held
-BDI,localai,shared,coverage,,,,,nothing held
+BDI,localai,compute,coverage,,,,,nothing found
+BDI,localai,shared,coverage,,,,,nothing found

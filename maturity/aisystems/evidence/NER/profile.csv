@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NER,localai,build,coverage,inservice,2025-08-29,NER-001,,
-NER,localai,compute,coverage,,,,,nothing held
-NER,localai,shared,coverage,,,,,nothing held
+NER,localai,compute,coverage,,,,,nothing found
+NER,localai,shared,coverage,,,,,nothing found

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BWA,localai,build,coverage,inservice,2025-07-23,BWA-001;BWA-002;BWA-003,,
-BWA,localai,compute,coverage,,,,,nothing held
-BWA,localai,shared,coverage,,,,,nothing held
+BWA,localai,build,coverage,inservice,2025-07-23,BWA-001;BWA-002;BWA-003,BWA-004=underway,
+BWA,localai,compute,coverage,,,,,nothing found
+BWA,localai,shared,coverage,,,,,nothing found

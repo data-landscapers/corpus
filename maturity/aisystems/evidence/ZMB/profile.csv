@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,localai,build,coverage,inservice,2026-09-17,ZMB-001,ZMB-004=underway;ZMB-007=underway;ZMB-003=underway;ZMB-005=underway;ZMB-006=underway,
+ZMB,localai,build,coverage,inservice,2026-09-17,ZMB-001,ZMB-004=underway;ZMB-003=underway;ZMB-005=underway;ZMB-006=underway,
 ZMB,localai,compute,coverage,compute,2026-09-17,ZMB-002,,
-ZMB,localai,shared,coverage,,,,,nothing held
+ZMB,localai,shared,coverage,,,,,nothing found

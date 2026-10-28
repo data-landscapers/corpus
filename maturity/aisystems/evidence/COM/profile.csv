@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COM,localai,build,coverage,inservice,2026,COM-001;COM-004;COM-005,COM-002=underway;COM-003=underway,
-COM,localai,compute,coverage,,,,,nothing held
-COM,localai,shared,coverage,,,,,nothing held
+COM,localai,compute,coverage,,,,,nothing found
+COM,localai,shared,coverage,,,,,nothing found

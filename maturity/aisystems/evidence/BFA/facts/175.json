@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-25-bfa-burkina-intelligence-artificielle-une-feuille-de-route-de-30-milliards",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Burkina Faso plans AI models for Moore, Dioula and Fulfulde under its AI roadmap, and Dr Yaya Traore says agreements have been signed with the national broadcaster RTB to collect the language data needed.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "National-language AI models (Moore, Dioula, Fulfulde)",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

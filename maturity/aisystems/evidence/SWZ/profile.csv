@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SWZ,localai,build,coverage,underway,2024-10-19,SWZ-001,,
-SWZ,localai,compute,coverage,,,,,nothing held
-SWZ,localai,shared,coverage,,,,,nothing held
+SWZ,localai,compute,coverage,,,,,nothing found
+SWZ,localai,shared,coverage,,,,,nothing found

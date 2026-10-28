@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GNB,localai,build,coverage,inservice,2025-04-03,GNB-001,,
-GNB,localai,compute,coverage,,,,,nothing held
-GNB,localai,shared,coverage,,,,,nothing held
+GNB,localai,compute,coverage,,,,,nothing found
+GNB,localai,shared,coverage,,,,,nothing found

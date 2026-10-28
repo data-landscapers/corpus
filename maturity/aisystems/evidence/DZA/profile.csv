@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 DZA,localai,build,coverage,underway,2026-10-20,DZA-001;DZA-002;DZA-003;DZA-004;DZA-005;DZA-006;DZA-007;DZA-008;DZA-009;DZA-010;DZA-011,,
-DZA,localai,compute,coverage,,,,,nothing held
-DZA,localai,shared,coverage,,,,,nothing held
+DZA,localai,compute,coverage,,,,,nothing found
+DZA,localai,shared,coverage,,,,,nothing found

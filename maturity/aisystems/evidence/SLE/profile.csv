@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SLE,localai,build,coverage,inservice,2025-06,SLE-003,SLE-002=underway;SLE-004=underway;SLE-001=underway,
-SLE,localai,compute,coverage,,,,,nothing held
-SLE,localai,shared,coverage,,,,,nothing held
+SLE,localai,compute,coverage,,,,,nothing found
+SLE,localai,shared,coverage,,,,,nothing found

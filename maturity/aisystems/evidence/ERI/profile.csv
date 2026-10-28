@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ERI,localai,build,coverage,inservice,2026,ERI-001,ERI-002=underway;ERI-003=underway,
-ERI,localai,compute,coverage,,,,,nothing held
-ERI,localai,shared,coverage,,,,,nothing held
+ERI,localai,compute,coverage,,,,,nothing found
+ERI,localai,shared,coverage,,,,,nothing found
