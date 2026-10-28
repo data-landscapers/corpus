@@ -82,7 +82,7 @@ Nigeria's central bank ordered in June 2026 payment data be stored in Nigeria fr
 
 ### Rwanda: 4 Operating
 
-Rwanda requires public sector data in the government data centre or approved sites, a 2025 brief says; no source found says whether that has been applied.
+Rwanda requires public sector data in the government data centre or approved sites, a 2025 brief says; no source says whether that has been applied.
 
 - The brief states that local storage of some data in Rwanda depends on certification by the National Cyber Security Authority; no date of the event is given, so the document's July 2025 publication date is used ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Rwanda.pdf)).
 - Digital Policy Alert says the Rwanda Utilities Regulatory Authority fined MTN Rwanda FRW 7.03 billion in May 2017 for hosting its IT services outside the country ([source, 2017-05](https://digitalpolicyalert.org/digest/dpa-digital-digest-rwanda)).
