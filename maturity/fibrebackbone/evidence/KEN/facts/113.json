@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-18-ken-kna-tanui-iten-17000km-public-institutions-fibre-project-underway",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "ICT Principal Secretary John Tanui said on 18 October 2026 that a 17,000-kilometre fibre connection project with the Communications Authority, ICT Authority and Kenya Power, to link all public institutions, is currently underway.",
+   "as_of": "2026-10-18",
+   "date_precision": "day",
+   "system": "17,000km public institutions fibre project",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "17,000km public institutions fibre project",
+   "country_label": "Kenya",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "State Department for ICT with CA, ICTA and Kenya Power",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
