@@ -77,6 +77,7 @@ EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-inst
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Electronic Payment and Collection Centre,Government Electronic Payment and Collection Centre,revenue,,Ministry of Finance,,2024-06-23-egy-ahram-epayment-collection-fy23-24
 EGY,Nafeza,Egypt,other,,Egyptian Customs Authority,,2025-05-18-egy-ahram-customs-system-development-plan-nafeza
+EGY,eTax case-management platform,EGY,other,,Egyptian Tax Authority,,2026-10-24-egy-egypts-tax-authority-taps-etax-to-operate-digital-platform-for-electro
 ETH,Unified Government Payment Platform (UGPP),Ethiopia,revenue,EthSwitch,EthSwitch,,2026-10-01-ethswitch-unveils-unified-government-payment-platform
 ETH,Unified Government Payment Platform,Ethiopia,revenue,EthioPay CBP,"Ministry of Finance, National Bank of Ethiopia, EthSwitch",,2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot
 ETH,M-PESA Tax Payment Mini App,Ethiopia,revenue,M-PESA Super App,M-PESA Ethiopia,,2026-07-28-m-pesa-ethiopia-launches-digital-tax-payment-service-for-amhara-region
@@ -88,6 +89,7 @@ GAB,e-tax,Gabon,revenue,e-tax.dgi.ga,Direction Générale des Impôts (DGI),,202
 GAB,Digitax Gabon,Gabon,other,,,,2025-08-18-gabon-etax-dgi-portal-launch
 GAB,Libreville municipal revenue digitalisation system,Gabon,revenue,,"Libreville city, Treasury",,2026-07-07-gabon-lunion-madigipaie-libreville
 GAB,portail unique de l'administration publique,Gabon,other,,government,,2026-05-27-gab-legabonais-doumba-100-jours-startup-act
+GAB,Gabon Connect,Gabon,revenue,gabon-connect.gouv.ga,Government of Gabon,"eTax, eEmployeur, TrésorPay, eDouanes, ePropriété",2026-10-27-gab-digitalisation-le-gouvernement-annonce-le-deploiement-progressif-de-ga
 GHA,E-VAT,Ghana,other,GRA e-invoicing platform,Ghana Revenue Authority,standalone or integrated with existing invoicing,2026-01-01-gra-e-vat-electronic-invoicing-act-1151
 GHA,Ghana.gov,Ghana,revenue,,Ghana Revenue Authority,,2021-04-21-gha-gra-cashless-policy
 GHA,ITAPS,Ghana,revenue,,Ghana Revenue Authority,,2022-11-11-gha-routledge-digitalisation-revenue-mobilisation
@@ -273,3 +275,4 @@ ZMB,Lipila toll payments,Zambia,revenue,mobile money,National Road Fund Agency,,
 ZMB,CIPS,Cross-Border Interbank Payment System,other,,China,,2026-09-23-zmb-rmb-payment-system-china-cips
 ZWE,TaRMS,Zimbabwe,revenue,,ZIMRA,,2023-10-01-zwe-zimra-tarms-single-account-payments
 ZWE,TaRMS,Zimbabwe Revenue Authority Tax and Revenue Management System,revenue,,Zimbabwe Revenue Authority,,2024-03-01-zwe-zimra-tarms-release-2-live
+ZWE,ZINARA multi-currency e-wallet platform,Zimbabwe,revenue,"iOS, Android, web, USSD",ZINARA,,2026-10-24-zwe-zinara-rolls-out-multi-currency-e-wallet-platform

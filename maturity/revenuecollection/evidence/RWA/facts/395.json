@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-rwa-why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digiti",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "KT Press says citizens can pay fees through online platforms such as Irembo, with electronic payments via Mobile Money and Airtel Money.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Irembo",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

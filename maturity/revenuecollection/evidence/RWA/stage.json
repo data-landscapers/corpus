@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "unplaced",
-      "payment": "",
+      "stage": "3",
+      "payment": "inservice",
       "main": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether taxes or fees can be paid electronically.",
+      "stage_sources": "RWA-003",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
       "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-10-28"
     }
   ]
 }

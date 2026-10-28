@@ -22,10 +22,10 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 3 |
-| 3 Established | 36 |
+| 3 Established | 37 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 2 |
 
 ## Countries
@@ -249,6 +249,12 @@ Some taxes or fees could be paid electronically in 2025; no source found reports
 
 - FIRS states all tax and levy collections must be processed through assessments raised on the TaxPro Max platform, which handles payment processing and receipts ([source, 2025-04-30](https://theeconomictimes.com.ng/2025/04/30/firs-orders-banks-to-shut-down-unauthorised-tax-collection-accounts-mandates-use-of-taxpro-max/)).
 
+### Rwanda: 3 Established
+
+Fees for public services were paid online by mobile money in 2026; whether the main taxes and customs duties are paid electronically is not known.
+
+- KT Press says citizens can pay fees through online platforms such as Irembo, with electronic payments via Mobile Money and Airtel Money ([source, 2026-10-27](https://www.ktpress.rw/2026/10/why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digitised/)).
+
 ### Sao Tome and Principe: 3 Established
 
 Some taxes or fees could be paid electronically in 2025; no source found reports the main taxes and duties.
@@ -367,12 +373,6 @@ Electronic payment of taxes or fees was under way in 2026; none in service is on
 
 - The Malawi Police Service introduced an electronic payment system for traffic fines, scheduled to become operational at Police Headquarters and the six police regions from the week of 4 September 2026, payable through commercial banks ([source, 2026-09](https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2)).
 - UNCTAD's ASYCUDA Programme says the ASYCUDAWorld 4.3.3 upgrade aims at implementing e-payment for collection of Malawi Bureau of Standards fees ([source, 2023-10-20](https://asycuda.org/en/asycudaworld-upgrade-in-malawi/)).
-
-### Rwanda: Unplaced
-
-Nothing found since 2023 names electronic payment of taxes or fees, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether taxes or fees can be paid electronically.
 
 ### Equatorial Guinea: No evidence
 

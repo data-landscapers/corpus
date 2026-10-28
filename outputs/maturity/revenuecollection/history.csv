@@ -38,3 +38,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,MUS,dpi.pay--revenue-collection,fact,3,4,MUS-001;MUS-002;MUS-004,"TradeNet e-payment of customs duties with income tax and VAT e-filing: main taxes and duties, 3 to 4"
 2026-10-27,CIV,dpi.pay--revenue-collection,fact,3,3,CIV-001;CIV-004,"TresorPay FCFA 36bn in 2024 answers the share question; main taxes not shown in window, stays 3"
 2026-10-27,SDN,dpi.pay--revenue-collection,fact,3,3,SDN-002;SDN-009,"Isali collects all budgeted fees and links to ASYCUDA; no filing of main taxes stated, stays 3"
+2026-10-28,RWA,dpi.pay--revenue-collection,fact,unplaced,3,RWA-003,"KT Press, October 2026: citizens pay fees for public services through Irembo by mobile money; electronic payment in service for some fees; unplaced -> 3"
