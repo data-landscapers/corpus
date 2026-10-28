@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: CPV
 ledger_rows: 21
-not_held: 28
-record: 4384c73b6594
+not_held: 26
+record: 7df7217c24fc
 ---
 
 # News, Sep – Oct 2026
