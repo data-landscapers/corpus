@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: SDN
-ledger_rows: 36
+ledger_rows: 37
 not_held: 5
-record: b8dea372114a
+record: 8bf4b1d9dd74
 ---
 
 # News, Sep – Oct 2026
@@ -427,6 +427,20 @@ Bede Sudan, a mobile operator's fintech arm, launched a bank account number serv
 **[EdfaPay and GoPravo Launch SDPay to Expand Digital Payments in Sudan](https://techafricanews.com/2026/10/21/edfapay-gopravo-launch-sdpay-digital-payments-sudan/)** — Tech Africa News, 21 October 2026
 
 Saudi payments firm EdfaPay and Sudanese IT company GoPravo launched SDPay, an equally owned joint venture based in Khartoum, to run payments infrastructure in Sudan. It plans merchant QR and card-terminal acceptance, wallets, card issuing, government collections, payroll and remittances, with digital ID and eKYC integration.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BBAN account-to-account transfer service (EBS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[المدير العام لشركة الخدمات المصرفية الإلكترونية EBS في حوار خاص مع "حواس"](https://hawasmagazine.com/?p=23253)** — Hawas Magazine, 25 October 2026
+
+376 million BBAN transfers, 10 million a month; wartime relocation outside Khartoum; NIPS and unified QR next.
 
 </div>
 
