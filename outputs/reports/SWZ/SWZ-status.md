@@ -1,12 +1,12 @@
 ---
 title: Eswatini: status report
-compiled: 2026-10-27
+compiled: 2026-10-28
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 215
+sources_cited: 216
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -291,7 +291,7 @@ The commercial hosting a domestic sector would build on exists in one place, the
 
 Eswatini does not appear in the international measures of innovation or of the money behind it. It is [not among the 133 economies covered by the WIPO Global Innovation Index 2024, and so carries no rank or score in that edition](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2024-en-global-innovation-index-2024.pdf), and it registers [no visible venture capital activity in Partech's 2025 Africa tech venture capital report](https://partechpartners.com/africa-reports/2025-africa-tech-venture-capital-report).
 
-What does exist is buildings and programmes. The [Royal Science and Technology Park Business Incubator is the country's AfriLabs-affiliated technology hub](https://www.afrilabs.com/hub/royal-science-and-technology-park-business-incubator-rstp/) (2025); a [government- and UNDP-backed iHub opened in Piggs Peak in 2025, with further hubs planned across all four regions](https://eswatinipositivenews.online/this-hub-belongs-to-the-youth-sedco-ceo-as-piggs-peak-ihub-opens-doors/); and MTN Eswatini and the ICT ministry [launched a Content Creator Hub in June 2026 offering skills and opportunities to the creative economy](https://techreviewafrica.com/news/5994/eswatini-rolls-out-digital-platforms-to-expand-access-to-health-agriculture-and-creative-economy).
+What does exist is buildings and programmes. The [Royal Science and Technology Park Business Incubator is the country's AfriLabs-affiliated technology hub](https://www.afrilabs.com/hub/royal-science-and-technology-park-business-incubator-rstp/) (2025); a [government- and UNDP-backed iHub opened in Piggs Peak in 2025, with further hubs planned across all four regions](https://eswatinipositivenews.online/this-hub-belongs-to-the-youth-sedco-ceo-as-piggs-peak-ihub-opens-doors/); and MTN Eswatini and the ICT ministry [launched a Content Creator Hub in June 2026 offering skills and opportunities to the creative economy](https://techreviewafrica.com/news/5994/eswatini-rolls-out-digital-platforms-to-expand-access-to-health-agriculture-and-creative-economy). The University of Eswatini [announced in October 2026 a E15 million UNDP-funded innovation hub, under construction in its library](https://eswatinipositivenews.online/e15-million-uneswa-unipod-hub-to-drive-youth-innovation-and-job-creation/).
 
 The state side is recorded as present but unnamed. A [startup and innovation framework with state startup financing is in place, and public-private partnership arrangements exist for delivering government services online, while no state programme supports small and medium enterprises in the digital sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025); the same index records [a public-sector innovation strategy, a programme and an established institution running it, covering digital skills and public-service innovation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). One route in is closed: there is [no government open source software policy and no recorded adoption of open source in the public sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), so it is not a way for local firms to supply government. The central bank governor [announced a reconstituted FinTech Forum Eswatini, widened to government, academia, industry and students, on 23 September 2026](https://eswatinipositivenews.online/fintech-working-group-becomes-fintech-forum-eswatini/). [Six entrepreneurs in a private accelerator's first cohort generated more than E1 million in combined revenue within a year, and a second cohort was launched in August 2026](https://www.eswatiniobserver.com/oracle-lab-smes-surpass-e1m-growth-mark/).
 
