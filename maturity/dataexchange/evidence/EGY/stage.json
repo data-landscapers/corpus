@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "EGY-002;EGY-004",
       "gaps": "No source found since October 2023 gives a figure for the exchanges through the platform.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-10-28: the minister counted 105 government bodies on the Government Digital Transformer in July 2026. No figure for its exchanges is held.",
+      "as_at": "2026-10-28"
     }
   ]
 }

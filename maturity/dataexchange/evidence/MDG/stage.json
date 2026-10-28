@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "platform": "inservice",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-005",
-   "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "platform": "inservice",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-005;MDG-007",
+      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
+      "note": "Rebuild 2026-10-28: Rahaka was operational at five bodies at its April 2026 launch. No count of ten is held.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "platform": "underway",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001;AGO-003",
-   "gaps": "No source found since October 2023 says the platform is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001;AGO-003",
+      "gaps": "No source found since October 2023 says the platform is in service.",
+      "note": "Rebuild 2026-10-28: a USD 13 million platform was authorised and tendered in August 2026, and the infrastructure contract started in July. Nothing says it is in service.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

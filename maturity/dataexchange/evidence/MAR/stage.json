@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-003",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "MAR-003;MAR-004",
+      "gaps": "No source found since October 2023 counts the bodies connected to Jisr.",
+      "note": "Rebuild 2026-10-28: Jisr's 55 million exchange operations to January 2024 are a use figure inside the window, and an October 2025 statement has the platform still running. The use figure answers the count of connections as well (method §3.3).",
+      "as_at": "2026-10-28"
     }
   ]
 }

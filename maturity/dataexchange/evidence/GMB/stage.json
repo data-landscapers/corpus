@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "1",
-   "platform": "none",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-001",
-   "gaps": "No source found since October 2023 says a government data exchange platform is under way.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "1",
+      "platform": "none",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001",
+      "gaps": "No source found since October 2023 says a government data exchange platform is under way.",
+      "note": "Rebuild 2026-10-28: the World Bank counted no interoperable systems among four core registries in November 2025. No platform under way is held.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

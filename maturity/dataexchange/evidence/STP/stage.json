@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "platform": "underway",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "STP-001;STP-003",
-   "gaps": "No source found since October 2023 says the platform is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "STP-001;STP-004",
+      "gaps": "No source found since October 2023 says the platform is in service.",
+      "note": "Rebuild 2026-10-28: prototypes of the DEX platform were demonstrated in September 2025 and the exchange layer is due in the programme's 2026 phase. Nothing says it is in service.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

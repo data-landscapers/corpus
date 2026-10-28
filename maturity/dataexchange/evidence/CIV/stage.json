@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-003;CIV-001",
-      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "CIV-003;CIV-006",
+      "gaps": "No source found counts ten or more bodies connected; five had joined by July 2026, of twelve planned for phase 1.",
+      "note": "Rebuild 2026-10-28: SNDI said in September 2026 that the platform already carries exchanges between several administrations, five of which had joined by July. Twelve bodies is the first phase's target, not a count connected.",
+      "as_at": "2026-10-28"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "platform": "underway",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-001;MWI-003",
-   "gaps": "No source found since October 2023 says the platform is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-001;MWI-003",
+      "gaps": "No source found since October 2023 says the platform is in service.",
+      "note": "Rebuild 2026-10-28: Boma Lathu is described as under implementation in June 2026, and the Enterprise Service Bus was not operational in 2025. Nothing says either is in service.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

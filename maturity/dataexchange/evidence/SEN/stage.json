@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "platform": "inservice",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-006;SEN-007",
-   "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-006;SEN-003",
+      "gaps": "No source found says PINS is in service beyond its two pilot use cases; the portal's counters show placeholders.",
+      "note": "Rebuild 2026-10-28, lowered from 3: PINS has a minimum viable product with two use cases, its portal's counters are placeholders, and a September 2026 call still calls the platform future. That is a pilot between a few systems, not a platform in service.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

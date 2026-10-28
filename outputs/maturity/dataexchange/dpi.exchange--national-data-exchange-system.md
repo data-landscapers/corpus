@@ -1,6 +1,6 @@
 # National data exchange system: national data exchange system
 
-*As at 2026-09-30.*
+*As at 2026-10-28.*
 
 ## The norm
 
@@ -21,10 +21,10 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 | Stage | Countries |
 |---|---|
 | 5 Leading | 3 |
-| 4 Operating | 4 |
-| 3 Established | 10 |
-| 2 Nascent | 20 |
-| 1 Absent | 4 |
+| 4 Operating | 3 |
+| 3 Established | 8 |
+| 2 Nascent | 22 |
+| 1 Absent | 5 |
 | Unplaced | 3 |
 | No evidence | 10 |
 
@@ -35,19 +35,21 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 Use of the government data exchange platform was reported in 2026.
 
 - The dashboard reports 138,174,337 total requests and 57,322,278 requests in the last 12 months, statistics updated 11 July 2026 ([source, 2026-07-11](https://statistiques.xroad.bj/)).
-- The ASIN speakers said over 70 million data exchange transactions have been completed to date ([source, 2025-06-23](https://www.biometricupdate.com/202506/benin-shares-its-x-road-inspired-dpi-interoperability-experience-in-peer-learning-webinar)).
+- The dashboard says the instance has 73 members, 176 information systems and 512 services, with ANATT, ANIP and DGI the top providers ([source, 2026-07-11](https://statistiques.xroad.bj/)).
 
 ### Morocco: 5 Leading
 
 Use of the government data exchange platform was reported in 2024.
 
 - The ADD says over 55 million data exchange operations were recorded on Jisr from February 2023 to 31 January 2024, through 46 APIs giving access to 350 types of beneficiary information ([source, 2024-01](https://www.lavieeco.com/au-royaume/plateforme-jisr-55-millions-doperations-dechange-de-donnees-enregistrees-en-une-annee/)).
+- The minister described the E-services reference as complementing the existing national interoperability platform, without naming connected bodies or any usage figure ([source, 2025-10-13](https://leseco.ma/maroc/connectivite-5g-et-e-gouvernement-amal-el-fallah-seghrouchni-fait-le-bilan-de-la-transformation-numerique.html)).
 
 ### Tunisia: 5 Leading
 
 Use of the government data exchange platform was reported in 2025.
 
 - A chart in the playbook shows exchanges of citizen register data with state structures rising from 476,052 to 900,125,547, the last of seven yearly values plotted for 2019-2025 ([source, 2025](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
+- The playbook names the Plateforme Nationale d'Interoperabilite, operated by the Centre National Informatique, carrying exchanges of citizen register data with state structures including civil status, schools, universities, vocational training and health, under decree-law 2020-31 and decree 2020-777 ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
 ### Egypt: 4 Operating
 
@@ -56,25 +58,19 @@ Ten or more bodies or systems were connected to the government exchange platform
 - Minister Hindy said 105 government bodies are connected through the Government Digital Transformer, with integration to more than 100 government databases ([source, 2026-07-27](https://almalnews.com/2126687/)).
 - The ICT minister said 105 government bodies are linked through the government digital switch project, and 100 national databases have been linked under a data integration system in development ([source, 2026-07-19](https://gate.ahram.org.eg/News/5813424.aspx)).
 
-### Rwanda: 4 Operating
-
-Ten or more bodies or systems were connected to the government exchange platform in 2025; its use is not reported.
-
-- DIAL reports Irembo works with key systems and registries from over 35 partners across the government through an API ([source, 2025-05](https://dial.global/modern-governments-run-on-data-exemplars/)).
-
 ### Uganda: 4 Operating
 
 Ten or more bodies or systems were connected to the government exchange platform in 2025; its use is not reported.
 
-- The page states UGHub is fully operational and serves over 150 entities, with others onboarding; dated by page publication 2025-06-19 ([source, 2025-06-19](https://www.nita.go.ug/services/e-government-services/integration-service-ughub)).
-- DIAL says UGHub is used by over 100 government ministries, departments and agencies as well as private entities such as banks, insurers and fintech firms ([source, 2024-06-28](https://dial.global/research/integrated-national-data-exchange-uganda-case-study)).
+- NITA-U reports 168 organisations, 70 public institutions and 98 private sector entities, exchange information through the Government interoperability platform ([source, 2026-07-02](https://ict.go.ug/media/news/familiarisation-visit-highlights-nita-us-digital-progress)).
+- The same NITA-U speaker said UGHub connects NIRA's registry with more than 150 government ministries, departments and agencies, plus banks and telecoms ([source, 2026-10-01](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)).
 
 ### Zambia: 4 Operating
 
 Ten or more bodies or systems were connected to the government exchange platform in 2026; its use is not reported.
 
 - The Accountant General's office says more than 400 government services have been onboarded onto the digital ecosystem of the Government Service Bus, ZamPortal and ZamPay, and plans a rollout to all 116 local authorities ([source, 2026-07-10](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
-- The ministry reports 29 of its services on-boarded to the Government Service Bus, administered on the Zambia Employment and Labour Management System (ZELMIS); these are services of one ministry, counted by the ministry ([source, 2025-04-23](https://www.mlss.gov.zm/?p=5144)).
+- ZamPortal says the Government Service Bus is a national platform that digitally integrates all government institutions, departments and agencies, deployed by the SMART Zambia Institute's Electronic Government Division ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
 
 ### Algeria: 3 Established
 
@@ -87,6 +83,7 @@ A government data exchange platform was in service in 2026; no source found says
 
 A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
+- NOSi's PDEX page says the platform lets data owners publish data as APIs and carries live integrations for the civil identification system (via the Portal Consular), NhaCard's traffic with the national health system, and the Treasury's DUC system, with public and private entities already consuming its citizen-validation APIs ([source, 2026](https://pdex.gov.cv/)).
 - Biometric Update says Cabo Verde launched the Autentika interoperability platform, linking its civil registration and national identity systems, within the past five years, with birth registration at 99 percent and registration of deaths in health facilities at 100 percent ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
 
 ### Cote d'Ivoire: 3 Established
@@ -94,51 +91,41 @@ A government data exchange platform was in service in 2026; no source found says
 A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - The head of SNDI said at the 3 September 2026 workshop that the national interoperability platform is a reality and already improves data exchange between several administrations ([source, 2026-09-03](https://www.fratmat.info/article/2644285/economie/transformation-numerique-la-cote-divoire-priorise-les-services-publics-a-fort-impact)).
-- The digital transition minister launched the public administration interoperability platform, built on Cybernetica's UXP, in Abidjan on 25 September 2025; the pilot phase covers twelve public bodies ([source, 2025-09-25](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-d-ivoire-lance-une-plateforme-d-interoperabilite-pour-fluidifier-l-administration)).
-
-### Libya: 3 Established
-
-A government data exchange platform was in service in 2026; no source found says how many systems it connects.
-
-- The General Information Authority, reporting a 20 April 2026 meeting with the Union of Chambers, describes the National Data Distributor as a sovereign operational platform for interoperability enabling secure exchange of data between entities, and says the Chambers Union's new electronic system is to interoperate with it; it names no connected bodies and gives no counts ([source, 2026-04-20](https://www.gia.gov.ly/en/2026/04/23/enhancing-digital-transformation-in-the-business-sector-joint-meeting-to-launch-the-electronic-system-of-the-chambers-union-and-align-it-with-national-frameworks/)).
+- Digital Mag reports that five public administrations have joined the UXP interoperability platform, to be operational before 31 July 2026, within a phase 1 meant to interconnect 12 bodies of 31 judged mature; the project began in September 2025 ([source, 2026-07](https://digitalmag.ci/cote-divoire-cinq-administrations-publiques-integrent-la-plateforme-dinteroperabilite/)).
 
 ### Madagascar: 3 Established
 
 A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - L'Express reports that the Rahaka national exchange system is already operational at five bodies, EDBM, CNaPS, Instat, the Ministry of Justice and the Direction generale des Impots, at the 28 April 2026 launch ([source, 2026-04](https://www.lexpress.mg/2026/04/administration-mise-en-place-dun.html)).
+- INSTAT reports the official launch on 28 April 2026 of national interoperability, a shared IT system for ministries and public bodies to exchange data, with the first RAHAKA usage convention signed by UGD, several ministries, private actors and INSTAT; it gives no count of connected systems ([source, 2026-04-28](https://www.instat.mg/p/lancement-officiel-de-linteroperabilite-nationale)).
 
 ### Mozambique: 3 Established
 
 A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - MISAU's SIS-MA page describes an interoperability platform, a mediating layer centralising communication between SIS-MA and other systems, with live integrations to the medicines-logistics system of CMAM (Ferramenta Central) and to the Ministry of Justice's SIRCEV for death-certificate data ([source, 2026-08-28](https://sisma.misau.gov.mz/interoperability.html)).
+- ATDI's World Bank-funded (EDGE) request for expressions of interest states that ATDI has already begun implementing an X-Road-based Interoperability Platform for secure data exchange between government institutions and service providers ([source, 2026-05-29](https://360mozambique.com/tenders/consulting-services-for-the-implementation-of-national-mobile-digital-identity-and-electronic-signature-infrastructure-for-the-republic-of-mozambique/)).
 
 ### Namibia: 3 Established
 
 A government data exchange platform was in service in 2024; no source found says how many systems it connects.
 
 - Cybernetica says an ESTDEV-funded project begun in 2024 continues scaling the Nam-X platform, developing two digital services for it, and was expected to end in March 2025; no count of connected bodies is given ([source, 2024](https://cyber.ee/resources/case-studies/namibia/)).
-- The World Bank blog says Namibia adopted the Estonian open-source X-Road software after 2011, so the National Population Register now links functional public and private sector registries, and it was used during COVID-19 to validate identity data for emergency income support ([source, 2023-10-10](https://blogs.worldbank.org/en/nasikiliza/legal-identity-all-what-can-madagascar-learn-namibia)).
-
-### Senegal: 3 Established
-
-A government data exchange platform was in service in 2026; no source found says how many systems it connects.
-
-- A government presenter at the WSIS Forum 2026 session said the X-Road based interoperability platform PINs has had an MVP 1.0 launched with two use cases, social protection and public finance; the document gives no launch date, so its published date is used ([source, 2026-09-04](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation)).
-- The platform's own portal describes the Plateforme d'Interoperabilite du Senegal (e-Jokkoo, built on X-Road) as connecting state information systems for secure data exchange between administrations, with API Gateway, Identite Numerique and Data Exchange services listed; its counters for connected administrations, active APIs and monthly transactions show only placeholders, and the page gives no date, so its published date is used ([source, 2026-09-03](https://pins.sn/)).
+- Cybernetica says that in 2014 it and the e-Governance Academy introduced an interoperability platform, known locally as Nam-X, connecting databases of different entities, and that Namibia has implemented it for secure data exchange between organisations ([source, 2014](https://cyber.ee/resources/case-studies/namibia/)).
 
 ### Sudan: 3 Established
 
 A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
 - The Ministry of Digital Transformation and Communications and the National Investment Authority announced the needs-disclosure service live on the Baladna platform, linking the industry, transport and agriculture bodies and passing approved items to the Customs Authority, with data moving between them electronically ([source, 2026-09-03](https://atheernews.net/222149/)).
+- The Ministry of Digital Transformation and Telecommunications is said to offer the UNIVERSAL SECURE (CONSOLEX) unified API gateway, which integrates government systems and enables secure data exchange among institutions; no connected-body count or volume is given ([source, 2026](https://www.sudanembassyberlin.com/index.php/de/news-tt/706-ministry-of-digital-transformation-launches-phase-two-of-the-3-3-digital-transformation-plan)).
 
 ### Tanzania: 3 Established
 
 A government data exchange platform was in service in 2026; no source found says how many systems it connects.
 
-- Officials cite the Government Enterprise Service Bus (GovESB) as the backbone for secure data exchange across ministries, and the e-Government Authority's Director General urges institutions to ensure systems are connected through it; no count of connected systems or figure for its traffic is given ([source, 2026-01-26](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success)).
+- The e-Government Authority's roadmap states that the Government Data Sharing and Exchange Platform, GovESB, was established and that public institutions use it to exchange information between them; it also says the e-Government Act 2019 requires all government systems to exchange data through it ([source, 2024-02](https://www.ega.go.tz/uploads/standarddocuments/sw-1710314957-SIGNED%20e-Government%20Technology%20Roadmap%202024%20(1).pdf)).
 - The Prime Minister ordered all public institutions to join GovESB, built by e-GA so government systems can read each other and exchange information, by 30 July 2025, saying joining is free ([source, 2025-06-23](https://www.mwananchi.co.tz/mw/habari/kitaifa/majaliwa-aagiza-taasisi-za-umma-kujiunga-na-e-ga-atoa-wiki-tano-5092568)).
 
 ### Angola: 2 Nascent
@@ -153,13 +140,7 @@ A government data exchange platform was under way in 2026; none in service is on
 A government data exchange platform was under way in 2026; none in service is on record.
 
 - ANADEN's general procurement notice of 12 March 2026 lists the setting up and operation of an interoperability and data-exchange platform under Component B of project COM-1026, financed entirely by an Islamic Development Bank loan of 5,000,000 Islamic Dinars, with its tender documents still to be prepared by a design and supervision consultant ([source, 2026-03-12](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais)).
-- The government launched the EU-funded, Expertise France-implemented e-Administration project, whose stated scope includes interoperability between ministries and institutions for secure data sharing; no platform is described as built or in service ([source, 2025-10-16](https://alwatwan.net/societe/modernisation-de-l%E2%80%99administration-publique-i-lancement-officiel-du-projet-e-administration.html)).
-
-### Congo: 2 Nascent
-
-A government data exchange platform was under way in 2026; none in service is on record.
-
-- The ministry (MPTEN) says Congo is committing to develop a national digital architecture whose interoperability layer, X-Road, is to link the information systems of the Interior, Justice, Finance, Health and Higher Education ministries, with no stated go-live or connection count; the page has no date, so 2026-09 is its published date ([source, 2026-09](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)).
+- The AfDB board approved EUR 9.51 million for the Project to Support Digitization of the Comorian Economy, which funds an interoperability and data-exchange platform among other components; no build or service status is given ([source, 2024-10-01](https://www.biometricupdate.com/202410/comoros-to-implement-digital-govt-program-with-10m-afdb-grant)).
 
 ### DR Congo: 2 Nascent
 
@@ -177,8 +158,8 @@ A government data exchange platform was under way in 2026; none in service is on
 
 A government data exchange platform was under way in 2026; none in service is on record.
 
-- An official named Anteneh said the prime minister recently established a board that approved the creation of a national data exchange platform to let government systems communicate, which the article's passages do not describe as live; the date is the article's publication date, as it gives none ([source, 2026-07-25](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/)).
 - DT Global, EU-funded adviser, says it has submitted the technical design of the EthioConnect national data exchange platform and is preparing priority datasets for its pilot project, with procurement still to come ([source, 2024-12](https://www.atalayar.com/en/articulo/politics/dt-global-has-supported-ethiopias-digital-government-strategy/20241227125859209382.html)).
+- An official named Anteneh said the prime minister recently established a board that approved the creation of a national data exchange platform to let government systems communicate, which the article's passages do not describe as live; the date is the article's publication date, as it gives none ([source, 2026-07-25](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/)).
 
 ### Gabon: 2 Nascent
 
@@ -191,15 +172,15 @@ A government data exchange platform was under way in 2026; none in service is on
 
 A government data exchange platform was under way in 2026; none in service is on record.
 
+- Communications minister Samuel Nartey George said on 2026-10-21 that the government is building a single national backbone, a national data exchange hub, to connect 48 public registries including the National Identification Authority, Ghana Statistical Service, Births and Deaths Registry and Ghana Police Service ([source, 2026-10-21](https://www.myjoyonline.com/sam-george-announces-national-data-exchange-hub-to-connect-48-public-registries/)).
 - The analyst says the Ministry of Communication, Digital Technology and Innovations and NITA, under the World Bank-backed Ghana Digital Acceleration Project, are moving to operationalise a National Data Exchange Hub, described elsewhere as soon-to-be-established ([source, 2026-10-19](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)).
-- Communications minister Sam George said the ministry is developing a national data exchange hub intended to connect 48 government data registries ([source, 2026-10-15](https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/)).
 
 ### Guinea: 2 Nascent
 
 A government data exchange platform was under way in 2026; none in service is on record.
 
-- Minister Bourouno told the prime minister on 20 August 2026 that the national interoperability portal for existing information systems had been set up (finalisation de la mise en place), run by ANDE; no systems connected or exchange figures are given ([source, 2026-08-20](https://www.visionguinee.info/transformation-numerique-le-ministre-francois-bourouno-presente-a-bah-oury-deux-plateformes-pour-moderniser-ladministration-guineenne/)).
 - On 20 August 2026 the minister presented the state of operationalisation of X-Road, the national interoperability platform piloted by ANDE and meant to enable exchange between administration information systems; no connected systems or figures are given ([source, 2026-08-20](https://www.africaguinee.com/acceleration-de-la-modernisation-de-ladministration-le-ministre-bourouno-presente-deux-outils-strategiques-au-premier-ministre/)).
+- Minister Bourouno told the prime minister on 20 August 2026 that the national interoperability portal for existing information systems had been set up (finalisation de la mise en place), run by ANDE; no systems connected or exchange figures are given ([source, 2026-08-20](https://www.visionguinee.info/transformation-numerique-le-ministre-francois-bourouno-presente-a-bah-oury-deux-plateformes-pour-moderniser-ladministration-guineenne/)).
 
 ### Kenya: 2 Nascent
 
@@ -212,14 +193,22 @@ A government data exchange platform was under way in 2026; none in service is on
 
 A government data exchange platform was under way in 2026; none in service is on record.
 
+- The Ministry of ICT (MICSTI) with UNICEF Lesotho held a workshop on 20-23 October 2026 in Berea to plan an X-Road pilot, assess ministries' readiness to join the National Data Exchange and set an implementation roadmap ([source, 2026-10-20](https://www.africa-newsroom.com/press/the-government-of-lesotho-remains-committed-to-strengthening-secure-data-exchange-across-government-institutions-and-enhancing-service-delivery-for-basotho?lang=en)).
 - A progress review at MICSTI and the National University of Lesotho received a presentation of X-Road as a system to connect government ministries and enable electronic information sharing, among systems that 'will modernize' services; no service date or connected bodies are given ([source, 2026-02-20](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/)).
 
 ### Liberia: 2 Nascent
 
 A government data exchange platform was under way in 2026; none in service is on record.
 
-- The GREAT Project procurement plan (Ministry of Finance and Development Planning, World Bank) lists a consultancy to design, install and configure a Government Service Bus prototype, the firm package marked cancelled and an individual-consultant package of US$50,000 marked pending implementation with terms of reference planned for 2026-02-25 ([source, 2026-02-13](https://documents1.worldbank.org/curated/en/099021326063510836/txt/P177478-d6a96244-44d6-44c4-855d-bbbd85a9394e.txt)).
 - The World Bank's GREAT Project status report lists a new Service Bus for data exchange via APIs among government systems and services including the National Identification Registry, with 0 systems using it at 30 September 2025 against a target of 10 by December 2030 ([source, 2025-09-30](https://documents1.worldbank.org/curated/en/099110625073415416/pdf/P177478-9397c8d1-edb6-4a96-a39d-0222e717f2c4.pdf)).
+- The GREAT Project procurement plan (Ministry of Finance and Development Planning, World Bank) lists a consultancy to design, install and configure a Government Service Bus prototype, the firm package marked cancelled and an individual-consultant package of US$50,000 marked pending implementation with terms of reference planned for 2026-02-25 ([source, 2026-02-13](https://documents1.worldbank.org/curated/en/099021326063510836/txt/P177478-d6a96244-44d6-44c4-855d-bbbd85a9394e.txt)).
+
+### Libya: 2 Nascent
+
+Libya's authority described a national data exchange platform in 2026; no source names two public bodies exchanging data through it.
+
+- The General Information Authority, reporting a 20 April 2026 meeting with the Union of Chambers, describes the National Data Distributor as a sovereign operational platform for interoperability enabling secure exchange of data between entities, and says the Chambers Union's new electronic system is to interoperate with it; it names no connected bodies and gives no counts ([source, 2026-04-20](https://www.gia.gov.ly/en/2026/04/23/enhancing-digital-transformation-in-the-business-sector-joint-meeting-to-launch-the-electronic-system-of-the-chambers-union-and-align-it-with-national-frameworks/)).
+- On 8 July 2026 the General Information Authority said its national projects, the Libyan National Data Exchange (LY-NDEX) among them, are a pillar enabling information exchange between government bodies; the story gives no go-live date, connected bodies or figures ([source, 2026-07-08](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/)).
 
 ### Malawi: 2 Nascent
 
@@ -241,12 +230,26 @@ A government data exchange platform was under way in 2026; none in service is on
 - The Government Service Portal, soft-launched with KOICA and Galaxy Backbone, is in a pilot that has run since 2025 and integrates some government institutions before nationwide rollout, with a key feature of integration with the Nigerian Digital Exchange so agencies can share data among them ([source, 2026-07-30](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services)).
 - The Nigerian government is preparing to launch the NGDX data-sharing platform between government agencies and businesses, expected operational by end 2025, as discussed at an Abuja workshop on 25 August 2025 ([source, 2025-08-25](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-to-launch-national-data-exchange-platform-to-boost-digital-econom)).
 
+### Rwanda: 2 Nascent
+
+Rwanda was procuring a government data hub and interoperability platform in 2025 and 2026; none in service is on record.
+
+- The New Times reports that, according to RISA, the Shared Government Data Hub and a Data Interoperability Platform are being worked on, with the Data Hub moving into implementation ([source, 2026-10-02](https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister)).
+- RISA held an early market engagement session on its draft RFP for the Shared Government Data Hub and Data Interoperability Platform, stating a 9-month implementation period, 12 months of post-deployment support, and a final RFP to be published before the end of 2025 ([source, 2025-11-21](https://www.risa.gov.rw/index.php?eID=dumpFile&f=151133&t=f&token=ea2f00488a3d4ebb4cde95d0c365c403869d9fb7)).
+
 ### Sao Tome and Principe: 2 Nascent
 
 A government data exchange platform was under way in 2025; none in service is on record.
 
 - The World Bank's 8-12 September 2025 mission to the STP Digital project saw live demonstrations of functional prototypes of the interoperability and data-exchange platform (DEX), being designed and implemented by the System Integrator Ooru with INIC and DGRN, with integration of the interoperability layer with the verifiable credentials infrastructure planned for March 2026 ([source, 2025-09](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf)).
-- The PReSE press release of 1 September 2025 says an interoperability platform between the civil registry databases (SIGA and Bilhete de Identidade) and the electoral roll database is being developed by the University of Aveiro, with DGRN and the national electoral commission technicians trained to maintain it, and was to be presented on 4 September 2025 ([source, 2025-09-01](https://www.telanon.info/wp-content/uploads/2025/09/NOTA-DE-IMPRENSA-1.pdf)).
+- Ooru Digital, the implementer, says a national Data Exchange Layer is introduced in Phase 2 (2026) of a programme in active implementation by DGRN and INIC, to link ministries' systems ([source, 2026](https://ooru.io/case-studies/sao-tome)).
+
+### Senegal: 2 Nascent
+
+Senegal's national interoperability platform launched a two-use-case pilot in 2026; no source says it is in service more widely.
+
+- A government presenter at the WSIS Forum 2026 session said the X-Road based interoperability platform PINs has had an MVP 1.0 launched with two use cases, social protection and public finance; the document gives no launch date, so its published date is used ([source, 2026-09-04](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation)).
+- MCTN/PAENS called on 24 September 2026 for expressions of interest, closing 7 October 2026, to study infrastructure needs of the future X-Road-based national interoperability platform PINS, financed by a World Bank IDA credit ([source, 2026-09-24](https://guindima.sn/news/article/appel-a-manifestation-dinteret-etude-des-besoins-en-infrastructure-de-la-plateforme-dinteroperabilite-nationale-pins/)).
 
 ### Sierra Leone: 2 Nascent
 
@@ -259,14 +262,15 @@ A government data exchange platform was under way in 2026; none in service is on
 
 A government data exchange platform was under way in 2026; none in service is on record.
 
-- Daily Maverick reports a Presidency Digital Services Unit official presenting a data exchange, described as X-Road, as the second DPI component being implemented, hosted by SITA, within a three-phase roll-out over 24 months ([source, 2026-09-23](https://www.dailymaverick.co.za/article/2026-09-23-estonian-echoes-sas-digital-public-infrastructure-looks-like-it-was-made-in-estonia/)).
-- The MyMzansi roadmap page refers to a data exchange pilot and sets a milestone to implement a data exchange platform for grant eligibility testing by Q4 2026 and to roll it out to at least 20 more databases by Q4 2027; date is a proxy published date ([source, 2026-08-03](https://www.mymzansi.gov.za/roadmap/initiative-2)).
+- The Q3 2025/26 Operation Vulindlela report says the MzansiXchange pilot entered implementation after its 9 October 2025 launch, with pilot infrastructure operational at the CSIR and testing under way between SASSA, NSFAS, DPSA and Home Affairs (four bodies); date is the published date, a proxy for the Q3 2025 report ([source, 2026-01](https://www.gov.za/sites/default/files/gcis_document/202601/operation-vulindlela-q3-report-2026.pdf)).
+- ITWeb reports that the MzansiXchange government data exchange is largely in its piloting phase, to enable cross-government beneficiary verification through integration with the National Population Register and SARS, per the 2026 AENE ([source, 2026-10-21](https://www.itweb.co.za/article/citizen-services-project-mymzansi-gets-r150m-boost/lLn14MmQNEYMJ6Aa)).
 
 ### Togo: 2 Nascent
 
 A government data exchange platform was under way in 2024; none in service is on record.
 
 - Togo's presentation says the RSIA federated inter-administration exchange network was in a pilot phase launched in Q4 2024, with the pilot to finish in Q2 2025 ([source, 2024-10](https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf)).
+- The deck describes an API and data-sharing platform with the RSIA secure inter-administration network based on X-Road, linking ANID to ministries, banks and hospitals, with consent, audit logs and e-ID authentication; the deck sets out the design and partners and does not say the network is live. It is undated and is dated to May 2026, the ID4Africa 2026 meeting it was given at ([source, 2026-05](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
 
 ### Zimbabwe: 2 Nascent
 
@@ -279,6 +283,12 @@ A government data exchange platform was under way in 2026; none in service is on
 A 2026 source says government systems have no data exchange platform.
 
 - Participants at the Cameroon Internet Governance Forum 2026 stressed the urgent need to establish a national interoperability infrastructure, and the posts and telecommunications minister said the country must move beyond isolated platforms ([source, 2026-08](https://www.biometricupdate.com/202608/cameroon-eyes-national-interoperability-infrastructure-to-drive-digital-govt)).
+
+### Congo: 1 Absent
+
+A 2026 source says government systems do not communicate; a planned exchange platform is not yet procured or built.
+
+- An adviser to the digital economy minister, in an op-ed, says administrations often work with systems that do not communicate with each other and that the government wants to build a data exchange platform between administrations (date is the document's published date, no event date given) ([source, 2026-07-28](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses)).
 
 ### Gambia: 1 Absent
 
@@ -303,7 +313,7 @@ A 2026 source says government systems have no data exchange platform.
 
 Nothing found since 2023 names a government data exchange platform, so no stage is set.
 
-Not established: Nothing found since October 2023 names a government data exchange platform.
+Not established: Nothing found since October 2023 names a government data exchange platform; a 2022 World Bank project was to finance one.
 
 ### Eritrea: Unplaced
 
@@ -313,9 +323,9 @@ Not established: Nothing found since October 2023 names a government data exchan
 
 ### Mauritius: Unplaced
 
-Nothing found since 2023 names a government data exchange platform, so no stage is set.
+Mauritius's InfoHighway exchange has run since 2016, but no source since 2023 says it is in service, so no stage is set.
 
-Not established: Nothing found since October 2023 names a government data exchange platform.
+Not established: No source since October 2023 dates InfoHighway's service, connections or use; its only facts carry the page's 2016 date.
 
 ### Botswana: No evidence
 

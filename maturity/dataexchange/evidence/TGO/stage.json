@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
+      "stage_sources": "TGO-001;TGO-003",
       "gaps": "No source found since October 2023 says the platform is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild 2026-10-28: the RSIA exchange network was piloted from late 2024 and is set out as design in May 2026. Nothing says it is in service; a count of 15 pilot institutions was removed (corrections.csv).",
+      "as_at": "2026-10-28"
     }
   ]
 }

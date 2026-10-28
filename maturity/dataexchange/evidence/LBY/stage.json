@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "platform": "inservice",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-003",
-   "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-003;LBY-002",
+      "gaps": "No source found names two public bodies exchanging data through the National Data Distributor or LY-NDEX.",
+      "note": "Rebuild 2026-10-28, lowered from 3: the authority calls the National Data Distributor operational but names no body whose data passes through it, and the Chambers Union system is still to join. Without data shown moving between two public bodies' systems, the platform stands as under way.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

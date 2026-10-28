@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "1",
-   "platform": "none",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001",
-   "gaps": "No source found since October 2023 says a government data exchange platform is under way.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "1",
+      "platform": "none",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-001",
+      "gaps": "No source found since October 2023 says a government data exchange platform is under way.",
+      "note": "Rebuild 2026-10-28: the minister and the forum said in August 2026 that a national interoperability infrastructure is still to be established. No platform under way is held.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

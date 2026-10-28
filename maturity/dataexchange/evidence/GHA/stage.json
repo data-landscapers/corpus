@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-004;GHA-003",
+      "stage_sources": "GHA-005;GHA-004",
       "gaps": "No source found since October 2023 says the platform is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-20"
+      "note": "Rebuild 2026-10-28: the minister said in October 2026 that the hub is being built to connect 48 registries. Nothing says it is in service.",
+      "as_at": "2026-10-28"
     }
   ]
 }

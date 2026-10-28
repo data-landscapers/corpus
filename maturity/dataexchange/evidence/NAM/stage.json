@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "platform": "inservice",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-002;NAM-005",
-   "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "platform": "inservice",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-002;NAM-001",
+      "gaps": "No source found since October 2023 counts the bodies connected; UNDP in 2025 describes NamX as being deployed.",
+      "note": "Rebuild 2026-10-28: Cybernetica describes Nam-X as implemented for exchange between organisations and still being scaled by a project begun in 2024. The World Bank's account of registries linked through it, of October 2023, now falls before the window, and no count of ten is held.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

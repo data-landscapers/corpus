@@ -2,3 +2,8 @@ iso3,n,aspect,value,action,why
 ZMB,008,usage,reported,removed,First pass: revenue collected through the bus is not a count of exchanges or transactions
 ZMB,011,usage,reported,removed,"First pass: revenue for several platforms together, not the bus's exchanges"
 TGO,002,reach,wide,removed,"Top-stage check, arrivals of 2026-10-17: 15 institutions in a pilot phase, not wide reach"
+RWA,006,platform,inservice,classed other,"Rebuild 2026-10-28: Irembo is a citizen services portal, noted and never staged (study file §1)"
+RWA,007,reach,wide,classed other,Rebuild 2026-10-28: the same Irembo fact; its 35 partners are not a count on an exchange platform
+LBY,003,platform,inservice,revalued: underway,Rebuild 2026-10-28: the platform is called operational but no body whose data passes through it is named
+SEN,006,platform,inservice,revalued: underway,Rebuild 2026-10-28: a minimum viable product with two use cases is a pilot between a few systems
+SEN,007,platform,inservice,revalued: underway,"Rebuild 2026-10-28: the portal's counters show placeholders, and a September 2026 call still calls the platform future"

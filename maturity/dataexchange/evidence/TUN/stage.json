@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-010",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TUN-010;TUN-009",
+      "gaps": "No source found since October 2023 counts the bodies connected; phase 2 extends UXP to six more bodies by 2027.",
+      "note": "Rebuild 2026-10-28: the CNI's national interoperability platform carried 900 million citizen-register exchanges in 2025, a figure for its use. That answers the count of connections as well (method §3.3).",
+      "as_at": "2026-10-28"
     }
   ]
 }

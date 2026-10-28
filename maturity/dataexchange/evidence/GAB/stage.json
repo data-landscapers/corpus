@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "platform": "underway",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001;GAB-002",
-   "gaps": "No source found since October 2023 says the platform is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001;GAB-002",
+      "gaps": "No source found since October 2023 says the platform is in service.",
+      "note": "Rebuild 2026-10-28: the platform is being developed under Digital Gabon, with no entity exchanging data at the last World Bank count. Nothing says it is in service.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

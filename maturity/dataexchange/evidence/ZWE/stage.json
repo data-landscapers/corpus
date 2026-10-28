@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "platform": "underway",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001",
-   "gaps": "No source found since October 2023 says the platform is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-001",
+      "gaps": "No source found since October 2023 says the platform is in service.",
+      "note": "Rebuild 2026-10-28: the ICT minister said in May 2026 that a Government Service Bus is being implemented. Nothing says it is live.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

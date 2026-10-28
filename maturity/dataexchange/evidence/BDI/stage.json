@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "unplaced",
-   "platform": "",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 names a government data exchange platform.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "unplaced",
+      "platform": "",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 names a government data exchange platform; a 2022 World Bank project was to finance one.",
+      "note": "Rebuild 2026-10-28: the only facts are from a 2022 World Bank appraisal, before the window. Nothing since says a platform exists or is under way.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

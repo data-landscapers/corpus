@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "platform": "inservice",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-001",
-   "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "platform": "inservice",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-002;CPV-001",
+      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
+      "note": "Rebuild 2026-10-28: PDEX carries live integrations for civil identification, the health system and the Treasury, and Autentika links civil registration with the ID system. No source counts ten or more connected.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

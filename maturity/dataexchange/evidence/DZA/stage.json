@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "DZA-008;DZA-004",
-      "gaps": "No source found since October 2023 counts ten or more institutions or systems connected.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found counts ten or more bodies connected; an August 2026 interview says sector platforms have no automatic exchange between them.",
+      "note": "Rebuild 2026-10-28: the CNRC's exchange platform links five public bodies in October 2026, a platform in service between public bodies' systems. The August 2026 interview saying sector platforms run apart is older, and no count of ten is held.",
+      "as_at": "2026-10-28"
     }
   ]
 }

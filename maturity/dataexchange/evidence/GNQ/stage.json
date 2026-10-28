@@ -1,17 +1,18 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "no evidence",
-   "platform": "",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a government data exchange platform, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "no evidence",
+      "platform": "",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found names a government data exchange platform, or says there is none.",
+      "note": "Rebuild 2026-10-28: no evidence row on the subject.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

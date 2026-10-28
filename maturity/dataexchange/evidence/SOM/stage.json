@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SOM-001;SOM-002",
       "gaps": "No source found since October 2023 says a government data exchange platform is under way.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild 2026-10-28: the 2026 PFM strategy plans a central data exchange platform and says finance systems do not interoperate, and GovStack said in 2024 that none had been developed. A plan with nothing procured or built does not meet stage 2.",
+      "as_at": "2026-10-28"
     }
   ]
 }

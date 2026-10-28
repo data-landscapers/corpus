@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-010;ZMB-004",
+      "stage_sources": "ZMB-010;ZMB-018",
       "gaps": "No source found since October 2023 gives a figure for the exchanges through the platform.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-10-28: the Accountant General counts more than 400 government services on the Government Service Bus in July 2026, a count of services the ladder accepts. Revenue collected through it is not a count of exchanges (corrections.csv), so no use figure is held.",
+      "as_at": "2026-10-28"
     }
   ]
 }

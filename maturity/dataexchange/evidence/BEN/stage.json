@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "5",
-   "platform": "inservice",
-   "reach": "wide",
-   "usage": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-004;BEN-007",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "platform": "inservice",
+      "reach": "wide",
+      "usage": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-004;BEN-003",
+      "gaps": "",
+      "note": "Rebuild 2026-10-28: the national dashboard counts 73 members and 176 systems and reports 57 million requests in the year to July 2026. Every question is answered inside the window.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

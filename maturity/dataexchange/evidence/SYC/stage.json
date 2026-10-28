@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SYC-001",
       "gaps": "No source found since October 2023 says a government data exchange platform is under way.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild 2026-10-28: the World Bank said in October 2026 that Seychelles lacks an interoperability layer. No platform under way is held.",
+      "as_at": "2026-10-28"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "platform": "inservice",
-   "reach": "wide",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-009;UGA-002",
-   "gaps": "No source found since October 2023 gives a figure for the exchanges through the platform.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "platform": "inservice",
+      "reach": "wide",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-011;UGA-005",
+      "gaps": "No source found since October 2023 gives a figure for the exchanges through the platform.",
+      "note": "Rebuild 2026-10-28: NITA-U counts 168 organisations exchanging data through UGHub in July 2026. No figure for its exchanges is held.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

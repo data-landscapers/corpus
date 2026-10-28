@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "unplaced",
-   "platform": "",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 names a government data exchange platform.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "unplaced",
+      "platform": "",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source since October 2023 dates InfoHighway's service, connections or use; its only facts carry the page's 2016 date.",
+      "note": "Rebuild 2026-10-28: InfoHighway's facts, live since 2016 with counts and query totals, carry only the page's 2016 date. Nothing since October 2023 says it is in service, so no stage is set.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

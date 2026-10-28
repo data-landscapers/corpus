@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-001;ETH-003",
+      "stage_sources": "ETH-003;ETH-001",
       "gaps": "No source found since October 2023 says the platform is in service.",
-      "note": "First pass: counted from the four questions by study-ladder-dataexchange.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild 2026-10-28: EthioConnect's design was submitted and its pilot prepared, and a board approved the national platform in 2026. Nothing says it is in service.",
+      "as_at": "2026-10-28"
     }
   ]
 }

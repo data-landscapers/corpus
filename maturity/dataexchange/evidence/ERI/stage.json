@@ -1,17 +1,18 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "unplaced",
-   "platform": "",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 names a government data exchange platform.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "unplaced",
+      "platform": "",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 names a government data exchange platform.",
+      "note": "Rebuild 2026-10-28: the only fact is a 2022 index answer, before the window.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

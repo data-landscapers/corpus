@@ -1,17 +1,18 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "platform": "underway",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-003;ZAF-004",
-   "gaps": "No source found since October 2023 says the platform is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-008;ZAF-009",
+      "gaps": "No source found since October 2023 says the platform is in service.",
+      "note": "Rebuild 2026-10-28: MzansiXchange is a pilot, testing exchanges between four bodies and still largely piloting in October 2026. SARS's single-window link to the border agency is in phased testing, so neither is in service.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

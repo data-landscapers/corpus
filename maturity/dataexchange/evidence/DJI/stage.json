@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "platform": "underway",
-   "reach": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-003",
-   "gaps": "No source found since October 2023 says the platform is in service.",
-   "note": "First pass: counted from the four questions by study-ladder-dataexchange.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "platform": "underway",
+      "reach": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-003",
+      "gaps": "No source found since October 2023 says an exchange platform is in service; the X-Road layer was last reported in 2023.",
+      "note": "Rebuild 2026-10-28: the population directorate is building an interoperability system for real-time ID checks in 2026. The X-Road layer the e-Governance Academy reported in 2021 and 2023 falls before the window, and nothing since says it is live.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }
