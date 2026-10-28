@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,eservices,services,coverage,inservice,2026,ETH-002;ETH-003;ETH-004,ETH-005=underway,
+ETH,eservices,services,coverage,inservice,2026,ETH-002;ETH-003;ETH-004;ETH-007,ETH-005=underway,
 ETH,eservices,gateway,coverage,single,2026,ETH-001;ETH-006,,
-ETH,eservices,usage,coverage,,,,,nothing held
+ETH,eservices,usage,coverage,,,,,nothing found

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-26-gin-peche-la-guinee-lance-le-sigpem-pour-simplifier-les-demarches-administrati",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The government launched Konkoe (SIGPEM) on 26 October 2026, a digital one-stop platform where artisanal and industrial fishers apply for licences and track files from phone or computer, per the fisheries minister.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Konkoé (SIGPEM)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Konkoé (SIGPEM)",
+   "country_label": "Guinea",
+   "class": "eservices",
+   "platform": "web and mobile",
+   "owner": "Ministry of Fisheries and Maritime Economy",
+   "tiers": "three rollout lots; lot 1 covers shipowners, vessel registry, licences and EEZ access"
+  }
+ ],
+ "note": ""
+}
