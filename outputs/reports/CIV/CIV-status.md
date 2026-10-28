@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-10-27
+compiled: 2026-10-28
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 259
+sources_cited: 260
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -361,7 +361,7 @@ The statistical system lags the administration around it: it [scored 44.2 out of
 
 The weakness is not in the headline exercises. [Population, agricultural and business censuses have all been run within the preceding ten years](https://www.worldbank.org/en/programs/statistical-performance-indicators), and the [enterprise and establishment census counted well over a million formal and informal economic units](https://www.fratmat.info/article/2634457/economie/recensement-general-des-entreprises-et-etablissements-14-million-dentites-recensees) (2025), far more than the [formally registered business base](https://annuaireidu.ci/). It is the foundations that give way: the country [scores above 89% on data use and 70-89% on data products, but 50-69% on data services and infrastructure and only 20-49% on data sources](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023) — the pillar covering censuses, surveys and administrative collection is the worst of the five. The [survey programme is concentrated on households and labour, against two health surveys and one each for agriculture and business](https://www.worldbank.org/en/programs/statistical-performance-indicators), leaving the productive side of the economy thinly measured (2023).
 
-Administrative records cannot yet fill the gap: [the main disease-surveillance tools depend on paper at facility level](https://publichealth.jmir.org/2024/1/e56275) (2024), and [civil registration remains largely paper-based beyond a digitisation pilot](https://www.semlex.com/en/2024/04/16/numerisation-des-registres-detat-civil/) (2024), with [on-time birth registration in decline](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression).
+Administrative records cannot yet fill the gap: [the main disease-surveillance tools depend on paper at facility level](https://publichealth.jmir.org/2024/1/e56275) (2024), and [the paper civil-status registers had been digitised in 14 centres, about 3.8 million records, by October 2026](https://digitalmag.ci/digitalisation-trois-outils-de-modernisation-de-letat-civil/), with [on-time birth registration in decline](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression).
 
 Vital statistics are published: the [annual civil-status yearbook comes from the Interior Ministry on UNICEF funding](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression) (2025). [Three decrees on the National Statistical System — the statistical visa, the tariffing of statistical services, and the communication of administrative files — were adopted in the Council of Ministers on 18 June 2025](https://www.fratmat.info/article/2634726/politique/communique-du-conseil-des-ministres-ce-mercredi-18-juin-2025), and a [labour market information system built to the SDMX exchange standard launched on 23 June 2026](https://www.koaci.com/article/2026/06/23/cote-divoire/societe/cote-divoire-le-gouvernement-lance-le-simt-une-revolution-numerique-pour-mieux-orienter-lemploi-et-la-formation_197894.html). A publication duty does not guarantee a current series: the telecoms regulator [publishes market statistics under article 82 of ordonnance 2012-293, and its Panorama, deposited with the ITU, carries 2018 market data and a household survey with 2017 fieldwork](http://itu.int/en/ITU-D/Regional-Presence/Africa/Documents/ICT%20Indicators%202019/Presentations/session-4-cote-divoire-panorama-des-telecoms-tic-fr.pdf).
 
