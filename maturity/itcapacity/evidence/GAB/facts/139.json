@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-15-gab-aninf-agence-nationale-des-infrastructures-numerique-et-des-frequences",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The ministry page says ANINF, a state agency, creates government software solutions and strategic business applications and secures critical infrastructure.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "ANINF",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

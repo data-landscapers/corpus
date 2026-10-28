@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-22-cpv-ataque-cibernetico-esta-a-condicionar-o-funcionamento-da-assembleia-na",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "RTC reports that the Assembleia Nacional's own communication and information-security department, with NOSi, is investigating a ransomware attack and has recovered servers including the salary server Primavera.",
+   "as_of": "2024-03-22",
+   "date_precision": "day",
+   "system": "Assembleia Nacional network",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

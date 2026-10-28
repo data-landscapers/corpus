@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GAB,inhouse,inhouse,coverage,yes,2026-10-02,GAB-001;GAB-003;GAB-005;GAB-008;GAB-009;GAB-012;GAB-015;GAB-019;GAB-026,GAB-021=outsourced,
-GAB,inhouse,agency,coverage,operating,2026-10-02,GAB-002;GAB-004;GAB-006;GAB-007;GAB-010;GAB-013;GAB-016;GAB-018;GAB-020;GAB-027,,
+GAB,inhouse,agency,coverage,operating,2026-10-02,GAB-002;GAB-004;GAB-006;GAB-007;GAB-010;GAB-013;GAB-016;GAB-018;GAB-020;GAB-027;GAB-028,,
 GAB,inhouse,built,coverage,live,2026-10-02,GAB-011,,
 GAB,inhouse,own,coverage,entire,2026-10-02,GAB-022;GAB-023;GAB-024;GAB-025,,

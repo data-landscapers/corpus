@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-22-cpv-ataque-informatico-ao-parlamento-cabo-verdiano-atrasa-salarios",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Lusa reports that the Assembleia Nacional's communication and security department head says its technicians isolated the infected network segment and are building a parallel infrastructure while cleaning and recovering machines.",
+   "as_of": "2024-03-22",
+   "date_precision": "day",
+   "system": "Assembleia Nacional network",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

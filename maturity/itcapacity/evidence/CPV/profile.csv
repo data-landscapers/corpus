@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CPV,inhouse,inhouse,coverage,yes,2026-05-17,CPV-001;CPV-004;CPV-005;CPV-007;CPV-009;CPV-012;CPV-022;CPV-029;CPV-031;CPV-033;CPV-034,CPV-008=outsourced,
+CPV,inhouse,inhouse,coverage,yes,2026-05-17,CPV-001;CPV-004;CPV-005;CPV-007;CPV-009;CPV-012;CPV-022;CPV-029;CPV-031;CPV-033;CPV-034;CPV-042;CPV-043,CPV-008=outsourced,
 CPV,inhouse,agency,coverage,operating,2026,CPV-003;CPV-006;CPV-010;CPV-013;CPV-015;CPV-016;CPV-017;CPV-018;CPV-019;CPV-020;CPV-021;CPV-023;CPV-024;CPV-025;CPV-027;CPV-028;CPV-032;CPV-035,,
 CPV,inhouse,built,coverage,live,2026-03-17,CPV-002;CPV-011;CPV-014;CPV-026;CPV-030,,
-CPV,inhouse,cadre,coverage,,,,,nothing held
+CPV,inhouse,own,coverage,entire,2026-05-17,CPV-036;CPV-037;CPV-038;CPV-039;CPV-040;CPV-041,,
