@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-28 04:42 · **BUILD** · 2h34m · catalogue 34,727; 595 sources, 48 moved, 163 minted, 70 status sections revised, 66 more brought to the sheet; data centres 43, 29 modified, 2 added; maturity 501 facts, 34 stages moved; bulletin 58; register 10; messages 46-49 - ok
+2026-10-28 02:08 · **ANALYTICS** · unclocked · 2026-10-25..2026-10-27 written; 27 Oct: dl.io 33 views / 0 clicks, corpus 154 views / 3 clicks
 2026-10-27 12:00 · **RENDER** · 21m · 301 reports rendered (ZAF status edition 2026-10-27-2, R134), home, countries, catalogue rebuilt, deployed 7b01359 — ok
 2026-10-27 02:30 · **RENDER** · 36m · 301 documents, home, countries, catalogue, finance, datasets, maturity rendered; 64 editions pruned; deployed ffec9af - ok
 2026-10-27 01:53 · **REBUILD** · 21m · datacentrepower power: 4 cells reassessed, 0 moved; 54 searched, 69 staged; 70.5M tokens (third of a shared window) - ok
@@ -644,12 +646,6 @@ title: Corpus process log
 2026-09-27 02:48 · **REVIEW** · 3m · GIN: status 5 sections revised, progress 2 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-09-27 02:45 · **BUILD** · 31m · catalogue 25,407; finance 1,402 deals; 40 units / 103 sources, 18 minted, 17 moved, 5 baselines revised; data centres 3; topics 76; bulletin 11; 31 register hits stand; check G fails only on unpublished maturity docs — ok
 2026-09-27 02:14 · **ANALYTICS** · unclocked · 2026-09-24..2026-09-26 written; 26 Sep: dl.io 17 views / 0 clicks, corpus 24 views / 1 clicks
-2026-09-26 16:36 · **RENDER** · 4m · Kobong out: finance 1,399 deals US$83,584m, MoU split dropped, LSO status and progress corrected, deployed — ok
-2026-09-26 14:57 · **RENDER** · 1m · finance + country + region pages dated by commitment year (1,400 deals), deployed — ok
-2026-09-26 14:35 · **RENDER** · 2m · finance + country + region pages after the 2015 cut-off (1,401 deals), deployed — ok
-2026-09-26 11:50 · **RENDER** · 8m · reports (251) + home, countries, topics, progress, catalogue, alerts, finance (1,417 deals, edition 2026-09-26), methodology, sitemap rendered, deployed — ok
-2026-09-26 11:42 · **BUILD** · unclocked · finance rebuild after notes-for-osint 176: 1,417 deals US$90.7bn; all 27,895 report citations and every ledger source resolve; notes-for-corpus 66-67 closed; notes-for-osint 177 (8 escaped titles) — ok
-2026-09-26 11:12 · **BUILD** · unclocked · finance rebuild after OSINT deal audit (notes-for-corpus 66): 1,467 deals US$97.29bn reproduced; 6 dead citations re-pointed; notes-for-osint 176; render held for OSINT's second pass — ok
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
 2026-09-20 19:05 · **SHARE-PRUNE** · unclocked · prepared/ pruned: 33 spent handovers out (5.3MB -> 12K), the rule added to the share README, and scripts/lint-prepared.py at BUILD stage 0. Three verdicts -- spent, waiting, unresolved -- so an item naming no closer is reported, not guessed.
 2026-09-20 18:26 · **REGISTER-R56** · unclocked · R56 pilot, moved to GHA FY2026: 11 lines read against the spec, money unchanged at GHS 898m, every row now carrying its scope basis and cross-foot. Four earned absences -- the biggest, GHS 273.7m, is the national broadcaster.
