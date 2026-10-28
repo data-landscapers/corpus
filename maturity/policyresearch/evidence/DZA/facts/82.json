@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-29-dza-apres-la-panne-informatique-mondiale-les-recommandations-de-care",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "publishing",
+   "fact": "Think tank CARE, through its vice-president Ali Kahlane, published a contribution on cybersecurity resilience after the July 2024 global outage.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "CARE",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
