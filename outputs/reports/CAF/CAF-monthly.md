@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: CAF
 ledger_rows: 23
 not_held: 5
-record: 02b5c80eaf48
+record: 388f38b90fad
 ---
 
 # News, Sep – Oct 2026
@@ -153,6 +153,14 @@ A fibre cut in Cameroon disrupted internet service in the Central African Republ
 **[Internet : qu’est-ce que la liaison par fibre avec la RDC peut apporter à la Centrafrique](https://www.agenceecofin.com/actualites-numerique/1210-142321-internet-qu-est-ce-que-la-liaison-par-fibre-avec-la-rdc-peut-apporter-a-la-centrafrique)** — Agence Ecofin, 12 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
 The digital-economy ministers of the Central African Republic and DR Congo agreed in Moscow on 8 October on the need to carry out a fibre interconnection between the two countries, which would give the Central African Republic a third international route, toward the submarine cable landing at Moanda. No timetable or financing was announced.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vers une diversification de la connectivité en Centrafrique](https://sunvimedia.info/vers-une-diversification-de-la-connectivite-en-centrafrique/)** — Sunvi Media, 26 October 2026
+
+Dependence on 935 km CAB fibre; eastward route via South Sudan under study after March 2026 vandalism.
 
 </div>
 
