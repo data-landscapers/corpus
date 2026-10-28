@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,civil,births,coverage,inservice,2026-03-02,CIV-007;CIV-008,CIV-001=underway;CIV-004=underway;CIV-006=underway;CIV-010=underway;CIV-002=underway;CIV-009=underway,
-CIV,civil,deaths,coverage,digital,2025-12,CIV-003;CIV-005,,
-CIV,civil,coverage,coverage,,,,,nothing held
+CIV,civil,births,coverage,inservice,2026-03-02,CIV-007;CIV-008,CIV-011=underway;CIV-001=underway;CIV-004=underway;CIV-006=underway;CIV-010=underway;CIV-002=underway;CIV-009=underway,
+CIV,civil,deaths,coverage,digital,2026-10-27,CIV-003;CIV-005;CIV-012,,
+CIV,civil,coverage,coverage,,,,,nothing found

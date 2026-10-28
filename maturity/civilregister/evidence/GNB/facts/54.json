@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-gnb-guinea-bissau-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "Digital Watch Observatory says the Integrated Civil Registry System (SIREC) now supports electronic registration of births, marriages and deaths.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIREC",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "Digital Watch Observatory says SIREC now supports electronic registration of deaths as well as births and marriages.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SIREC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Civil Registry System (SIREC)",
+   "country_label": "SIREC",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

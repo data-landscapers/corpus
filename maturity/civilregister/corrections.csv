@@ -10,3 +10,4 @@ GHA,001,coverage,target,removed,First pass: a later figure in the same source pu
 STP,004,coverage,target,removed,"First pass: a share of people holding a birth certificate, not births registered"
 EGY,003,coverage,target,revalued: coverage:general,"a national registration rate that may include paper registration, not births registered in the digital system (Bill, 2026-10-25)"
 NAM,006,coverage,target,revalued: coverage:general,"a national registration rate that may include paper registration, not births registered in the digital system (Bill, 2026-10-25)"
+GNB,009,births,inservice,revalued: births:underway,"Digital Watch says SIREC supports electronic registration, not that births are registered on it nationally; it runs in one Bissau office and hospitals of three regions"

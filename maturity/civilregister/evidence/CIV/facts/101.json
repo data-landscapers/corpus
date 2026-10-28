@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-27-civ-digitalisation-trois-outils-de-modernisation-de-letat-civil",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "ONECI's CityWeb web application, which records birth, marriage and death acts, is deployed in several regions and town halls, with 5,453 acts at Abobo in September 2026 and up to 62.5% of centres inactive in Moronou.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "CityWeb",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "CityWeb lets registrars create, process and follow birth, marriage and death acts, according to the ONECI account reported by Digital Mag.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "CityWeb",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CityWeb",
+   "country_label": "CityWeb (ONECI)",
+   "class": "civil",
+   "platform": "web application",
+   "owner": "ONECI",
+   "tiers": "communes, sub-prefectures, prefectures"
+  }
+ ],
+ "note": ""
+}
