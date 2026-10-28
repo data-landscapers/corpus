@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-cod-le-fdsu-presente-la-strategie-nationale-pour-la-connectivite-universel",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "The universal service fund FDSU presented its National Connectivity Strategy 2026-2035 on 12 February 2026, a TowerCo-led, subsidised roll-out in 5 zones and three phases to connect about 68 million rural Congolese.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "Stratégie Nationale pour la Connectivité 2026-2035",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

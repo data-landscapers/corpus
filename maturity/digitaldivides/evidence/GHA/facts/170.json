@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-why-ghana-is-mandating-4g-for-rural-telephony-before-5g-takes-over",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "Minister Samuel Nartey George says about 1,400 of the 2,016 community network sites under the Rural Telephony Project carry active subscriber traffic.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Rural Telephony Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

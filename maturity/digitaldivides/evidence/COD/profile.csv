@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,ruralaccess,programme,coverage,underway,2026-10-08,COD-001;COD-002;COD-003;COD-004;COD-005;COD-006;COD-008,COD-007=none,
-COD,ruralaccess,measured,coverage,,,,,nothing held
-COD,ruralaccess,narrow,coverage,,,,,nothing held
+COD,ruralaccess,programme,coverage,underway,2026-10-08,COD-001;COD-002;COD-003;COD-004;COD-005;COD-006;COD-008;COD-009,COD-007=none,
+COD,ruralaccess,measured,coverage,,,,,nothing found
+COD,ruralaccess,narrow,coverage,,,,,nothing found

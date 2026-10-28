@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-ken-kenya-plans-44-000km-fiber-expansion-to-boost-internet-access",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "The 2023/24 Kenya Housing Survey found 81.9% of urban households and 48.8% of rural households had an internet user.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Kenya Housing Survey 2023/24",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,ruralaccess,programme,coverage,delivering,2026-09-05,GHA-004;GHA-006;GHA-009,GHA-011=underway;GHA-010=underway;GHA-002=underway;GHA-001=underway;GHA-003=underway;GHA-005=underway;GHA-008=underway;GHA-007=underway,
-GHA,ruralaccess,measured,coverage,,,,,nothing held
-GHA,ruralaccess,narrow,coverage,,,,,nothing held
+GHA,ruralaccess,programme,coverage,delivering,2026-10-27,GHA-004;GHA-006;GHA-009;GHA-012,GHA-011=underway;GHA-010=underway;GHA-002=underway;GHA-001=underway;GHA-003=underway;GHA-005=underway;GHA-008=underway;GHA-007=underway,
+GHA,ruralaccess,measured,coverage,,,,,nothing found
+GHA,ruralaccess,narrow,coverage,,,,,nothing found
