@@ -123,6 +123,7 @@ ETH,EthSwitch,Ethiopia,oversight,,,,2026-10-01-ethswitch-unveils-unified-governm
 ETH,Unified Government Payment Platform,Ethiopia,other,EthioPay CBP,"Ministry of Finance, National Bank of Ethiopia, EthSwitch",,2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot
 ETH,PAPSS,Ethiopia,other,Pan-African Payment and Settlement System,"Afreximbank, African Union, AfCFTA Secretariat",,2026-10-16-itweb-ethiopia-cross-border-payments-papss
 ETH,PAPSS,Ethiopia,other,Pan-African Payment and Settlement System,"Afreximbank, African Union, AfCFTA Secretariat",,2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026
+ETH,EthSwitch,Ethiopia,other,national payment switch,EthSwitch,,2026-10-27-eth-kacha-mastercard-ink-deal-to-expand-card-issuance-in-ethiopia
 GAB,GIMACPAY,Gabon,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
 GAB,MaDigiPaie,Gabon,other,,,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
 GAB,CEMAC interoperable QR code,CEMAC,other,EMVCo,BEAC,,2026-07-30-gabonreview-beac-qr-code-interoperable-cemac
@@ -297,6 +298,7 @@ RWA,Licence Passporting Framework,Rwanda,other,,Bank of Ghana and National Bank 
 RWA,e-Kash,Rwanda,other,common payment platform,,"banks, SACCOs, other financial service providers",2026-10-08-rwa-umunota-saccos-join-rwandas-e-kash-payment-system
 RWA,eKash,Rwanda,oversight,national instant payment system,,,2026-09-10-rwa-ktpress-bnr-cashless-campaign-92-percent-cash
 RWA,eKash,Rwanda,other,,National Bank of Rwanda,,2026-09-02-rwandas-new-ekash-payment-system-wins-praise-but-users-repor
+RWA,eKash,Rwanda,other,RSwitch national switch,RSwitch,"banks, mobile money providers, SACCOs, microfinance institutions",2026-10-26-rwa-why-ekash-does-not-handle-same-network-transfers
 SDN,"Financial switch operators (Bright Technologies, Al-Asjad, Nahda, SudaPost)",SDN,oversight,,licensed by Central Bank of Sudan,,2026-07-04-cbos-revokes-al-asjad-payment-switch-licence
 SDN,PAPSS,Sudan,other,,,,2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030
 SDN,COMESA REPSS,Sudan,other,,,,2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030
@@ -304,6 +306,7 @@ SDN,Buna,Sudan,other,,,,2025-12-31-sudan-cbos-five-year-strategic-plan-2026-2030
 SDN,Bede wallet,Sudan,other,,Bede Sudan (Zain),,2026-10-13-sdn-sudanhorizon-bede-bban-service-launch
 SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alarabiya-bankak-app-outage-no-access-to-funds
 SDN,USSD financial services,Sudan,oversight,USSD,Central Bank of Sudan,,2026-03-31-cbos-ussd-financial-services-regulations
+SDN,national switch,Sudan,oversight,,Electronic Banking Services (EBS),,2026-10-25-sdn-ebs-general-manager-interview-hawas-payments
 SEN,PI-SPI,Senegal,oversight,instant payment,BCEAO,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments

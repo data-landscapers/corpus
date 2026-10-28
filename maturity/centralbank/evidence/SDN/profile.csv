@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SDN,centralbank,mandate,coverage,licensing,2026-10-13,SDN-001;SDN-002;SDN-003;SDN-004,,
-SDN,centralbank,switch,coverage,,,,,nothing held
-SDN,centralbank,regional,coverage,,,,,nothing held
+SDN,centralbank,switch,coverage,overseen,2026-10-25,SDN-005,,
+SDN,centralbank,regional,coverage,,,,,nothing found

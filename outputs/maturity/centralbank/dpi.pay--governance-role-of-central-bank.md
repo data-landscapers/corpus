@@ -21,8 +21,8 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 | Stage | Countries |
 |---|---|
 | 5 Leading | 7 |
-| 4 Operating | 37 |
-| 3 Established | 9 |
+| 4 Operating | 38 |
+| 3 Established | 8 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
@@ -301,6 +301,12 @@ The central bank oversaw a national payment switch in 2025; live participation i
 - TechCentral reports the South African Reserve Bank took a 50% interest in PayInc, operator of PayShap, in late 2025, and the 2026 budget speech named PayInc the shared digital payments infrastructure supporting interoperability across providers ([source, 2025-12](https://techcentral.co.za/three-years-in-payshap-pivots-to-merchants/281687/)).
 - The South African Reserve Bank bought a 50% stake in BankservAfrica in November 2025, renamed PayInc, the automated clearing house for national and pan-African retail, government, banking and corporate transactions, and says it wants PayInc to be a payment utility ([source, 2025-11](https://www.businessday.co.za/business-times/2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago/)).
 
+### Sudan: 4 Operating
+
+The central bank licensed payment providers in 2026 and supervised the national switch linking all banks; live payments through PAPSS are not known.
+
+- EBS general manager Saif Barri says EBS operates Sudan's national payments infrastructure under Central Bank of Sudan supervision, including the national switch that connects all Sudanese banks and settlement with the central bank ([source, 2026-10-25](https://hawasmagazine.com/?p=23253)).
+
 ### Tanzania: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2025; no source found reports a regional link.
@@ -377,13 +383,6 @@ The central bank licensed payment providers in 2026; no source found reports a n
 
 - The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 - The Bank of South Sudan issued a regulatory notice putting digital financial service providers, including mobile money operators, under the same licensing-linked requirements as banks, with licence suspension or cancellation as the sanction ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).
-
-### Sudan: 3 Established
-
-The central bank licensed payment providers in 2026; no source found reports a national switch it oversees.
-
-- The Central Bank of Sudan says it licenses electronic payment system services providers, and it revoked Al-Asjad's licence on review by a technical and legal committee ([source, 2026-07-04](https://sudantribune.net/article/315827)).
-- The Central Bank of Sudan announced revocation of Al-Asjad's licence to provide electronic payment system services, and says licences are conditional on continuing compliance with its published standards and need its written approval for integration ([source, 2026-07-04](https://sudanhorizon.com/cbos-officially-revokes-al-asjad-companys-license-following-review/)).
 
 ### Uganda: Unplaced
 

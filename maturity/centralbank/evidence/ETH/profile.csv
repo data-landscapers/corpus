@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,centralbank,mandate,coverage,licensing,2026-10,ETH-001;ETH-002;ETH-005;ETH-006;ETH-007,,
-ETH,centralbank,switch,coverage,,,,,nothing held
+ETH,centralbank,mandate,coverage,licensing,2026-10,ETH-001;ETH-002;ETH-005;ETH-006;ETH-007;ETH-008,,
+ETH,centralbank,switch,coverage,,,,,nothing found
 ETH,centralbank,regional,coverage,joined,2026-10-15,ETH-003;ETH-004,,

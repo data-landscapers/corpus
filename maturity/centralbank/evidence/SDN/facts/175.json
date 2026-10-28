@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-25-sdn-ebs-general-manager-interview-hawas-payments",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "EBS general manager Saif Barri says EBS operates Sudan's national payments infrastructure under Central Bank of Sudan supervision, including the national switch that connects all Sudanese banks and settlement with the central bank.",
+   "as_of": "2026-10-25",
+   "date_precision": "day",
+   "system": "national switch (EBS)",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national switch",
+   "country_label": "Sudan",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Electronic Banking Services (EBS)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

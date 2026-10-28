@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "3",
+      "stage": "4",
       "mandate": "licensing",
-      "switch": "",
+      "switch": "overseen",
       "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-001;SDN-003",
-      "gaps": "No source found since October 2023 says the central bank runs or oversees a national switch.",
-      "note": "The Central Bank of Sudan licenses electronic payment service providers and revoked one licence in July 2026. No switch has been found.",
-      "as_at": "2026-10-24"
+      "stage_sources": "SDN-005",
+      "gaps": "No source found since October 2023 says the country is live on PAPSS.",
+      "note": "The Central Bank of Sudan licenses electronic payment providers, and EBS runs the national switch connecting all banks under its supervision (October 2026), so stage 4. No live PAPSS participation has been found.",
+      "as_at": "2026-10-28"
     }
   ]
 }

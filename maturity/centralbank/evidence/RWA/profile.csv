@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 RWA,centralbank,mandate,coverage,licensing,2026-03-13,RWA-007;RWA-008,,
-RWA,centralbank,switch,coverage,overseen,2026-10-08,RWA-001;RWA-002;RWA-003;RWA-004;RWA-005;RWA-006,,
-RWA,centralbank,regional,coverage,,,,,nothing held
+RWA,centralbank,switch,coverage,overseen,2026-10,RWA-001;RWA-002;RWA-003;RWA-004;RWA-005;RWA-006;RWA-009,,
+RWA,centralbank,regional,coverage,,,,,nothing found
