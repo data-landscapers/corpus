@@ -1,12 +1,12 @@
 ---
 title: Eritrea: status report
-compiled: 2026-10-23
+compiled: 2026-10-28
 place: ERI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 24
-sources_cited: 115
+sources_cited: 116
 sections_written: 39
 not_established: 4
 acquire_lines: 19
@@ -146,7 +146,7 @@ What capability exists has been built survey by survey and ministry by ministry.
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-Eritrea sits in [the lowest tier, Building, of the ITU Global Cybersecurity Index 2024, the tier for scores of 0 to 20](https://www.itu.int/pub/D-HDB-GCI.01-2024). No [national cybersecurity strategy has been published](https://dig.watch/countries/eritrea) (2024).
+Eritrea sits in [the lowest tier, Building, of the ITU Global Cybersecurity Index 2024, the tier for scores of 0 to 20](https://www.itu.int/pub/D-HDB-GCI.01-2024). No [national cybersecurity strategy has been published](https://dig.watch/countries/eritrea) (2024). [The information ministry reported a large cyberattack on the national internet system on 24 May 2024, which it said defensive measures stopped without interrupting service](https://shabait.com/2024/05/26/massive-cyber-attack-against-eritreas-internet-system/); it named no attacker.
 
 The [2015 Penal Code was drafted to provide for computer crimes](https://www.unodc.org/cld/uploads/res/document/penal-code_html/PENAL_CODE_ERITREA.pdf) but [had not been enacted as at April 2026](https://reporting.acerwc.africa/sites/default/files/2026-07/503.26_Eritrea%20Concluding%20Observations%2022.07.2026.pdf). Eritrea is also [outside the Eastern Africa Regional Digital Integration Project, IGAD's programme on data governance, cybersecurity and cross-border data flows](https://igad.int/eardip/) (January 2026).
 
