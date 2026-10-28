@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The May 2026 draft National Data Governance Policy states Kenya has no consolidated national data repository or exchange platform for government datasets, leaving assets scattered across agencies.",
+ "title": "Draft Final National Data Governance Policy",
+ "publisher": "Ministry of Information, Communications and the Digital Economy, Republic of Kenya",
+ "published": "2026-05",
+ "date_source": "source",
+ "why_not": ""
+}

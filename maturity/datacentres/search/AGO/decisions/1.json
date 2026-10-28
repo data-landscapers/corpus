@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "As of 31 May 2026 the Uptime Institute database lists five Tier III-registered data centres in Luanda (MSTelcom, BMA CFIN Atlântico, EMIS CIS I and CIS II, Raxio AG1), three with constructed-facility certification.",
+ "title": "Data centers em Angola: quais têm certificação internacional?",
+ "publisher": "Menos Fios",
+ "published": "2026-05-31",
+ "date_source": "source",
+ "why_not": ""
+}

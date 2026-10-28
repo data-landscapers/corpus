@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "cloud",
+ "fact": "In February 2024 Oracle announced plans for a Nairobi cloud region with no timeline, and Microsoft, Google and Amazon had no public cloud regions in Kenya.",
+ "title": "Oracle plans cloud region in Nairobi, Kenya",
+ "publisher": "DatacenterDynamics",
+ "published": "2024-02-01",
+ "date_source": "source",
+ "why_not": ""
+}

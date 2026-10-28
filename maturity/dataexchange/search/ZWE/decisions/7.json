@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The G2G system is in development; most government platforms were created separately, are not linked and enable no interoperability or interconnectivity.",
+ "title": "E-Governance in Zimbabwe 2024",
+ "publisher": "E-Governance Knowledge Hub",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

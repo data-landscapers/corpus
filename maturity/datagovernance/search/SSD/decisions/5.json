@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "The July 2025 SUDESA strategic framework for South Sudan's digital transformation has a Compliance and Data Governance chapter setting data sovereignty and hosting aims and calling for data-sharing protocols between ministries and a National Digital Architecture Council to oversee data governance; it is a proposal, with no adoption by the government stated.",
+ "title": "SUDESA: A strategic Framework",
+ "publisher": "SUDESA / EUSL",
+ "published": "2025-07-25",
+ "date_source": "source",
+ "why_not": ""
+}

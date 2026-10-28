@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "policy",
+ "aspect": "",
+ "fact": "",
+ "title": "Stratégies et politiques",
+ "publisher": "MTNIMA",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: undated list of strategy titles, no dated fact"
+}

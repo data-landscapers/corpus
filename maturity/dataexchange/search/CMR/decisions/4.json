@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "On 21 August 2026 Cameroon Tribune reported that Cameroonian government platforms such as Aigles and the DGSN identity database run in isolation and are not interoperable, e.g. Customs and Sûreté nationale data cannot be exchanged.",
+ "title": "Echange de données numériques: Il faut faire plus",
+ "publisher": "Cameroon Tribune",
+ "published": "2026-08-21",
+ "date_source": "source",
+ "why_not": ""
+}

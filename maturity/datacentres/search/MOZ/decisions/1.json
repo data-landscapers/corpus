@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "As of June 2026 Mozambique has two commercial data centres, Raxio MZ1 (opened 28 May 2024, carrier-neutral, Uptime Tier III) and Digital Realty/iColo MPM1 in Maputo.",
+ "title": "Moçambique já tem data centers de classe mundial",
+ "publisher": "Kabum Digital",
+ "published": "2026-06-17",
+ "date_source": "source",
+ "why_not": ""
+}

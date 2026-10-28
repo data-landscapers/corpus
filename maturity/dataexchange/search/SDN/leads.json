@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://baldna.gov.sd/",
+  "title": "منصة بلدنا",
+  "publisher": "Ministry of Digital Transformation and Communications",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Platform dashboard: 41+ government institutions, transactions completed (counts)"
+ },
+ {
+  "url": "https://sudan.gov.sd/en/",
+  "title": "Republic of the Sudan",
+  "publisher": "Government of Sudan portal",
+  "published": "",
+  "sub_indicator": "exchange",
+  "why": "Reports 52 government institutions linked and 66 thousand electronic transactions on the national platform"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/0302-52531-sudan-expands-digital-administration-with-28-new-online-services",
+  "title": "Sudan expands digital administration with 28 new online services",
+  "publisher": "Ecofin Agency",
+  "published": "2026-02-03",
+  "sub_indicator": "exchange",
+  "why": "Baladna platform in service, data sharing between bodies"
+ },
+ {
+  "url": "https://allafrica.com/stories/202602020893.html",
+  "title": "Sudan: Ministry of Digital Transformation Launches 28 Digital Services Under 'Baldna' Project",
+  "publisher": "allAfrica (SUNA)",
+  "published": "2026-02-01",
+  "sub_indicator": "exchange",
+  "why": "Platform progress"
+ },
+ {
+  "url": "https://sudan.gov.sd/%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0-%d8%a7%d9%84%d9%81%d8%b9%d9%84%d9%8a-%d9%84%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1-%d8%a5%d9%84/",
+  "title": "بدء التنفيذ الفعلي لمعاملات الصادر إلكترونياً عبر منصة «بلدنا»",
+  "publisher": "Republic of the Sudan portal",
+  "published": "2025-12-27",
+  "sub_indicator": "exchange",
+  "why": "In service: first export contract exchanged between central bank, trade, customs and other bodies"
+ },
+ {
+  "url": "https://allafrica.com/stories/202512290216.html",
+  "title": "Sudan: CBOS Launches Electronic Integration of Import and Export Transactions Via Baldna Platform",
+  "publisher": "allAfrica (SUNA)",
+  "published": "2025-12-28",
+  "sub_indicator": "exchange",
+  "why": "In service between government entities"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/0812-51203-sudan-begins-rolls-out-of-baldna-platform-to-digitize-government-operations",
+  "title": "Sudan Begins Rolls Out of Baldna Platform to Digitize Government Operations",
+  "publisher": "Ecofin Agency",
+  "published": "2025-12-08",
+  "sub_indicator": "exchange",
+  "why": "Rollout of data exchange platform"
+ },
+ {
+  "url": "https://www.sudanakhbar.com/1692654",
+  "title": "وزارة التحول الرقمي والاتصالات تطلق خطة 3×3 للتحول الرقمي في السودان",
+  "publisher": "Sudan News Agency (SONA)",
+  "published": "2025-09-11",
+  "sub_indicator": "exchange",
+  "why": "Platform with 19 institutions, 30 services; planned unified data exchange platform"
+ }
+]

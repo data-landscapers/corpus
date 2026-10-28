@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "In its October 2025 Phase 1 progress report JICA states that in April 2025 the project committee requested delivery of a minimum viable product (MVP 1.0) of the data exchange infrastructure by December 2025, with the pilot platform on X-Road to be built in phase 2.",
+ "title": "Projet pour mise en oeuvre d'une plateforme interministérielle et interopérable d'échange de données - Rapport sur l'état d'avancement des activités - Phase 1",
+ "publisher": "Agence japonaise de coopération internationale (JICA)",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

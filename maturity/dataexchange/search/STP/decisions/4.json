@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "AFAP, under the World Bank-financed STP Digital project, announced a public call for technical assistance to implement the interoperability of the digital platform.",
+ "title": "AFAP - Contratação de Assistência Técnica para implementação da interoperabilidade da plataforma",
+ "publisher": "Téla Nón",
+ "published": "2023-09-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform;reach",
+ "fact": "Benin's data exchange framework supports over 550 digitised services across 67 government institutions and private sector bodies.",
+ "title": "Strengthening trusted data sharing in Benin to drive positive impact for people",
+ "publisher": "Digital Impact Alliance",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

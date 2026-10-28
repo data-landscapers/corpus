@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "In the 2023 activity report the Ministry of State Modernisation states that NOSI manages the PDEX platform, which guarantees the interoperability of the systems in force in the public administration, while the interoperability regulation was still being drafted.",
+ "title": "Relatório de Atividades: Setor da Modernização do Estado e da Administração Pública",
+ "publisher": "MMEAP / DNME",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

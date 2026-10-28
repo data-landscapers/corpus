@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "The constructed data center facilities of Airtel Seychelles Limited at Perseverance were certified ANSI/TIA-942-B Rated-3, initial certification 7 November 2022, valid to 6 November 2025.",
+ "title": "Rated-3 - Certificate of Conformance, Constructed Facility, AIRTEL Seychelles Limited",
+ "publisher": "EPI Certification Pte Ltd (TIA-942)",
+ "published": "2022-11-07",
+ "date_source": "source",
+ "why_not": ""
+}

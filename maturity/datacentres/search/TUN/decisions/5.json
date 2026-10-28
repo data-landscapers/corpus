@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "ANCS list of 20 November 2025 shows Tunisie Télécom, DataXion and Ooredoo Tunisie hold the N-Cloud label for colocation space.",
+ "title": "قائمة مزودي خدمات الحوسبة السحابية المتحصلين على العالمة",
+ "publisher": "ANCS",
+ "published": "2025-11-20",
+ "date_source": "source",
+ "why_not": ""
+}

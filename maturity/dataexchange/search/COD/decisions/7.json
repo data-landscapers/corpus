@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The assessment states that most DRC government applications do not communicate with each other and data exchanges are not automated, while the government is building a revenue-collection gateway linking tax, customs, commercial banks and the central bank over a dedicated fibre network (C2D) as a first interoperability step.",
+ "title": "Democratic Republic of Congo Digital Economy Assessment",
+ "publisher": "World Bank",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

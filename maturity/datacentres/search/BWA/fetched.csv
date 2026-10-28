@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://businessweekly.co.bw/news/bofinet-pushes-for-local-data-hosting-to-strengthen-security,held,held as raw/2026/2026-04-29-bwa-bofinet-pushes-for-local-data-hosting-to-strengthen-security.md,,0,,
+2,https://www.datacenterdynamics.com/en/news/botswana-launches-first-national-data-center/,held,held as raw/2025/2025-12-03-dcd-botswana-first-national-data-center.md,,0,,
+3,https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news,held,held as raw/2025/2025-11-25-govt-moves-to-in-house-local-data.md,,0,,
+4,https://dailynews.gov.bw/news-detail/89235,held,held as raw/2025/2025-11-25-bwa-digital-delta-data-centre-launch.md,,0,,
+5,https://theexecutivebw.com/bofinets-digital-facility-receives-international-certification/,fetched,,scripts/.workroot/study/datacentres/cache/BWA/5.txt,475,html,Bofinet’s Digital Facility Receives International Certification
+6,https://www.bofinet.co.bw/index.php/news/article/bofinets-digital-delta-data-centre-achieves-tier-iii-certification-from-uptime-institute,fetched,,scripts/.workroot/study/datacentres/cache/BWA/6.txt,371,html,BOTSWANA FIBRE NETWORK
+7,https://uptimeinstitute.com/uptime-institute-awards/country/id/BW,fetched,,scripts/.workroot/study/datacentres/cache/BWA/7.txt,190,html,Uptime Institute Awards
+8,https://www.bih.co.bw/bdih-data-centre/,held,held as raw/2020/2020-02-27-bdih-data-centre-guidelines.md,,0,,

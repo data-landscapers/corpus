@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The December 2019 strategy states the interoperability framework and platform are at an early stage of development with no approved rollout plans.",
+ "title": "ICT for Governance Cluster Strategy 2020-2024",
+ "publisher": "Ministry of ICT and Innovation",
+ "published": "2019-12-06",
+ "date_source": "source",
+ "why_not": ""
+}

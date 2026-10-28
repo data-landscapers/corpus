@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "Senegal's national data centre at Diamniadio, 1.4 MW, has a 250 m2 room reserved for the national and international private sector.",
+ "title": "Le Sénégal inaugure son datacenter d'Etat",
+ "publisher": "DCmag",
+ "published": "2021-06-28",
+ "date_source": "source",
+ "why_not": ""
+}

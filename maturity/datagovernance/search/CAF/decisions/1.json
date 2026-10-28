@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "A contract award notification was issued on 2025-12-18 to Groupement LIBRE-TIC & CYBER-TECHS for four months of technical assistance to design and implement the public sector data governance framework under the World Bank-financed Public Sector Digital Governance Project (P174620).",
+ "title": "AT pour la conception et la mise en oeuvre du cadre de gouvernance des donnees pour le secteur public (tous ensemble)",
+ "publisher": "World Bank (award notice, republished by BidsFactory)",
+ "published": "2025-12-18",
+ "date_source": "proxy",
+ "why_not": ""
+}

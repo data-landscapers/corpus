@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "In its September 2024 appraisal report the African Development Bank states that the state's information systems are not interoperable and that adoption of digital services stays low for lack of a coherent platform for exchange between public entities, and sets a target of one interoperability and data exchange platform against a baseline of zero.",
+ "title": "Rapport d'évaluation de projet - Projet d'appui à la digitalisation de l'économie comorienne (PADEC)",
+ "publisher": "Groupe de la Banque africaine de développement",
+ "published": "2024-09",
+ "date_source": "source",
+ "why_not": ""
+}

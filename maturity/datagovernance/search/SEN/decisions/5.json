@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "standing;use",
+ "fact": "The National Data Strategy 2023-2028, drawn up January to July 2023 under the digital ministry, has 4 orientations and 59 key measures, and plans (measure 1.2) to set up a data governance authority.",
+ "title": "Stratégie Nationale des Données du Sénégal 2023-2028",
+ "publisher": "Ministère de la Communication, des Télécommunications et de l’Économie Numérique (Sénégal)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "policy"
+}

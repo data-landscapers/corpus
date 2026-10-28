@@ -1,0 +1,10 @@
+[
+{"url":"https://afriqueitnews.com/cybersecurite/le-burundi-se-tourne-vers-la-coree-pour-structurer-son-socle-numerique/","title":"Le Burundi se tourne vers la Corée pour structurer son socle numérique","publisher":"AfriqueITNews","published":"2026-10-26","sub_indicator":"datacentre","why":"Q1-2: plans for sovereign data centres"},
+{"url":"https://pulse.internetsociety.org/fr/reports/bi/","title":"Country Report for Burundi","publisher":"Internet Society Pulse","published":"2026","sub_indicator":"datacentre","why":"Q2: 2 operational data centres in 2026"},
+{"url":"https://inflect.com/datacenters/emea/burundi/bujumbura","title":"Data Centers in Bujumbura, Burundi","publisher":"Inflect","published":"2025-09","sub_indicator":"datacentre","why":"Q2 and Q5: facilities and no cloud on-ramps"},
+{"url":"https://setic.gov.bi/?pages%2F10253095=","title":"Le SETIC","publisher":"SETIC","published":"","sub_indicator":"datacentre","why":"Q2: government hosting of national platforms"},
+{"url":"https://bbs.bi/pages/services/colocation-serveurs.php","title":"Colocation des serveurs","publisher":"Burundi Backbone System","published":"","sub_indicator":"datacentre","why":"Q2: colocation offered to others"},
+{"url":"https://www.nrdcompanies.com/case-studies/central-bank-data-centre-infrastructure-modernisation-and-maintenance/","title":"Central Bank Data Centre Infrastructure Modernisation and Maintenance","publisher":"NRD Companies","published":"2022-09","sub_indicator":"datacentre","why":"Q2: central bank data centre"},
+{"url":"https://hostdir.net/datacenters/lacell-su-smart-burundi","title":"Smart Burundi Colocation Data Center by Lacell SU","publisher":"HostDir (PeeringDB)","published":"","sub_indicator":"datacentre","why":"Q2: retail colocation facility"},
+{"url":"https://kubana.cloud/burundi","title":"Cloud and web hosting in Burundi","publisher":"Kubana Cloud","published":"","sub_indicator":"datacentre","why":"Q2: servers in Bujumbura for hire"}
+]

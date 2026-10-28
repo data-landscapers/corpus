@@ -1,0 +1,1 @@
+{"select": true, "sub_indicator": "datacentre", "aspect": "cloud", "fact": "Cotonou has no direct cloud on-ramps and access to 0 cloud regions as of September 2025, with Lagos the nearest cloud hub.", "title": "Data Centers in Cotonou", "publisher": "Inflect", "published": "2025-09", "date_source": "proxy", "why_not": ""}

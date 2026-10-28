@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.menosfios.com/data-centers-em-angola-quais-tem-certificacao-internacional/",
+  "title": "Data centers em Angola: quais têm certificação internacional?",
+  "publisher": "Menos Fios",
+  "published": "2026-05-31",
+  "sub_indicator": "datacentre",
+  "why": "Tier III count"
+ },
+ {
+  "url": "https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/",
+  "title": "Presidente da República inaugura novo Centro de Dados do Governo",
+  "publisher": "Angop",
+  "published": "2026-04-28",
+  "sub_indicator": "datacentre",
+  "why": "government DC Tier III design; hosts public and private platforms"
+ },
+ {
+  "url": "https://emis.ao/noticias-eventos/certificacao-tier-iii-de-instalacao-construida/",
+  "title": "Certificação Tier III de Instalação Construída",
+  "publisher": "EMIS",
+  "published": "2025-11-19",
+  "sub_indicator": "datacentre",
+  "why": "Tier III built-facility certificate"
+ },
+ {
+  "url": "https://pti.ao/raxio-angola-inaugura-data-center-tier-iii-em-luanda/",
+  "title": "Raxio Angola inaugura data center tier III em Luanda",
+  "publisher": "PTI",
+  "published": "2025-10-02",
+  "sub_indicator": "datacentre",
+  "why": "Raxio colocation Tier III opened"
+ },
+ {
+  "url": "https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/",
+  "title": "Raxio Opens Angola's Largest Data Centre",
+  "publisher": "Raxio Group",
+  "published": "2025-10-02",
+  "sub_indicator": "datacentre",
+  "why": "Raxio colocation opened"
+ },
+ {
+  "url": "https://www.paratus.ao/en/servicos/datacenter/",
+  "title": "Data Center - High Performance and Security",
+  "publisher": "Paratus Angola",
+  "published": "2025-05-22",
+  "sub_indicator": "datacentre",
+  "why": "two Tier III DCs for hire"
+ },
+ {
+  "url": "https://uptimeinstitute.com/uptime-institute-awards/country/id/AO",
+  "title": "Uptime Institute Awards in Angola",
+  "publisher": "Uptime Institute",
+  "published": "",
+  "sub_indicator": "datacentre",
+  "why": "Tier awards list"
+ },
+ {
+  "url": "https://digitalangola.com/infrastructure/cloud-infrastructure-pipeline/",
+  "title": "Angola Cloud Infrastructure Sovereign Cloud Hyperscaler Pipeline",
+  "publisher": "Digital Angola",
+  "published": "2026-02-27",
+  "sub_indicator": "datacentre",
+  "why": "no hyperscaler region"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "The Minister for the Public Service and Administration approved the Public Service Data Governance Framework on 2 April 2025, requiring departments to set up data governance committees, offices and chief data officers.",
+ "title": "Public Service Data Governance Framework (Annexure A)",
+ "publisher": "Department of Public Service and Administration",
+ "published": "2025-04-02",
+ "date_source": "source",
+ "why_not": ""
+}

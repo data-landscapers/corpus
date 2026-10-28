@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform;reach",
+ "fact": "The World Bank ISR of September 2022 states the ADD national interoperability platform is operational with four priority social-sector use cases integrated, against a target of 12.",
+ "title": "Implementation Status and Key Decisions",
+ "publisher": "World Bank",
+ "published": "2022-09",
+ "date_source": "source",
+ "why_not": ""
+}

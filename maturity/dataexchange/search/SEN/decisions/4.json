@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The JICA-backed X-Road interministerial data exchange platform is in its pilot phase, interconnecting the RNU, the SIGICMU system, civil registry databases and the national ID card to enrol PNBSF beneficiaries in community health insurance.",
+ "title": "Plateforme interministérielle et interopérable d'échange de données du Sénégal",
+ "publisher": "Direction de la Communication MCTN (PINS)",
+ "published": "2026-01-16",
+ "date_source": "proxy",
+ "why_not": ""
+}

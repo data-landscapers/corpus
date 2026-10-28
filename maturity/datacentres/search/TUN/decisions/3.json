@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "DataXion states it is the only data centre in Tunisia certified Tier IV by the Uptime Institute and holds the N-Cloud label.",
+ "title": "Nos certifications",
+ "publisher": "DataXion",
+ "published": "2024-05-31",
+ "date_source": "proxy",
+ "why_not": ""
+}

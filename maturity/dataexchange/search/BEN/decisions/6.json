@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform;reach",
+ "fact": "National Interoperability Platform XROAD BJ has integrated more than 120 systems, including the public services portal, the natural persons registry (ANIP) and e-Tax.",
+ "title": "The Beninese experience with data sharing platforms",
+ "publisher": "ID4Africa (Benin presentation)",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

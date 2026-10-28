@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.lineserve.net/blog/cloud-providers-in-nigeria",
+  "title": "Which Cloud Providers Have Infrastructure in Nigeria? (2026)",
+  "publisher": "Lineserve",
+  "published": "2026-10-20",
+  "sub_indicator": "datacentre",
+  "why": "Q5 cloud region: none in Nigeria, AWS Local Zone only"
+ },
+ {
+  "url": "https://www.lineserve.net/blog/datacenters-in-nigeria",
+  "title": "Data Centres in Nigeria: The Complete Verified List (2026)",
+  "publisher": "Lineserve",
+  "published": "2026-07-29",
+  "sub_indicator": "datacentre",
+  "why": "Q2-4 Uptime-certified facilities list"
+ },
+ {
+  "url": "https://www.vanguardngr.com/2025/12/nigerias-digital-public-infrastructure-hampered-by-data-centre-shortage/",
+  "title": "Nigeria's digital public infrastructure hampered by data centre shortage",
+  "publisher": "Vanguard",
+  "published": "2025-12-24",
+  "sub_indicator": "datacentre",
+  "why": "Q2 about 21 operational data centres"
+ },
+ {
+  "url": "https://techpoint.africa/insight/hyperscalers-data-centre-in-nigeria/",
+  "title": "AWS, Microsoft, may never build data centres in Nigeria",
+  "publisher": "Techpoint Africa",
+  "published": "2025-12-10",
+  "sub_indicator": "datacentre",
+  "why": "Q5 no hyperscaler region"
+ },
+ {
+  "url": "https://punchng.com/mtn-data-centre-earns-certification/",
+  "title": "MTN data centre achieves Tier III certification",
+  "publisher": "Punch",
+  "published": "2025-10-01",
+  "sub_indicator": "datacentre",
+  "why": "Q3 Dabengwa Tier III constructed facility"
+ },
+ {
+  "url": "https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf",
+  "title": "West Africa Data Center Markets",
+  "publisher": "D4D Hub",
+  "published": "2025-06-27",
+  "sub_indicator": "datacentre",
+  "why": "Q3-4 about 10 Tier III colocation facilities in Nigeria"
+ },
+ {
+  "url": "https://galaxybackbone.com.ng/galaxy-backbone-limited-national-shared-service-dc1-ph1-abuja-achieves-uptime-institute-tier-iii-certification-of-constructed-facility/",
+  "title": "Galaxy Backbone NSSC DC1 Ph1 Abuja achieves Uptime Institute Tier III Certification of Constructed Facility",
+  "publisher": "Galaxy Backbone",
+  "published": "2025-01-29",
+  "sub_indicator": "datacentre",
+  "why": "Q3 Tier III constructed facility"
+ },
+ {
+  "url": "https://uptimeinstitute.com/uptime-institute-awards/country/id/NG",
+  "title": "Uptime Institute Awards - Nigeria",
+  "publisher": "Uptime Institute",
+  "published": "",
+  "sub_indicator": "datacentre",
+  "why": "Q3-4 certified Nigerian facilities"
+ }
+]

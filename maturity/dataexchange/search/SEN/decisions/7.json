@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "exchange",
+ "aspect": "",
+ "fact": "",
+ "title": "Gouvernance de l'interopérabilité",
+ "publisher": "PINS / MCTN",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated governance description with no dated fact"
+}

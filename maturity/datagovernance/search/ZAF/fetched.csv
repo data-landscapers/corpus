@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf,held,held as raw/2024/2024-05-31-national-policy-on-data-and-cloud.md,,0,,
+2,https://www.dpsa.gov.za/dpsa2g/documents/km/2025/Determination%20and%20Directive%20on%20the%20Implementation%20of%20Data%20Governance%20in%20the%20Public%20Service.pdf,held,held as raw/2025/2025-04-02-zaf-dpsa-data-governance-directive.md,,0,,
+3,https://www.dpsa.gov.za/dpsa2g/documents/km/2025/Public%20Service%20Data%20Governance%20Framework.pdf,fetched,,scripts/.workroot/study/datagovernance/cache/ZAF/3.txt,9320,pdf,Public Service Data Governance Framework.pdf
+4,https://www.itweb.co.za/article/sa-publishes-final-national-cloud-and-data-policy/mYZRXM9g98xvOgA8,fetched,,scripts/.workroot/study/datagovernance/cache/ZAF/4.txt,840,html,SA publishes final National Cloud and Data Policy
+5,https://www.mymzansi.gov.za/roadmap/delivery-mechanisms,fetched,,scripts/.workroot/study/datagovernance/cache/ZAF/5.txt,820,html,MyMzansi

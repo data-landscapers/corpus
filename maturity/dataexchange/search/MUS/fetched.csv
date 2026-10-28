@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dataprotection.govmu.org/Documents/NDS_final.pdf,held,held as raw/2026/2026-01-28-mauritius-national-data-strategy.md,,0,,
+2,https://cib.govmu.org/Documents/Reports/EnterpriseArchitectureMauritius.pdf,held,held as raw/2025/2025-04-01-mus-enterprise-architecture.md,,0,,
+3,https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/Annual-Report-2023-2024.pdf,held,held as raw/2025/2025-05-01-mus-mitci-annual-report-2023-2024.md,,0,,
+4,https://www.bom.mu/media/media-releases/bank-mauritius-signs-memoranda-understanding-facilitate-establishment-central-kyc-system,fetched,,scripts/.workroot/study/dataexchange/cache/MUS/4.txt,143,html,The Bank of Mauritius signs Memoranda of Understanding to facilitate the establishment of the Central KYC System
+5,https://ionnews.mu/infohighway-integrera-bientot-le-blockchain-dans-son-systeme-270919/,fetched,,scripts/.workroot/study/dataexchange/cache/MUS/5.txt,96,html,[Vidéo] InfoHighway intégrera bientôt le blockchain dans son système
+6,https://ih.govmu.org/assets/docs/InfoHighway-Workshop_v1.0.pdf,fetched,,scripts/.workroot/study/dataexchange/cache/MUS/6.txt,753,pdf,InfoHighway

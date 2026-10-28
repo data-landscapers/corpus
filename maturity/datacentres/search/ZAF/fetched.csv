@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-South-Africa.pdf,fetched,,scripts/.workroot/study/datacentres/cache/ZAF/1.txt,1995,pdf,SlideModel PowerPoint Wide
+2,https://www.dpa.host/company-overview/,held,held as raw/2025/2025-07-29-digital-parks-africa-company-overview.md,,0,,
+3,https://mybroadband.co.za/news/cloud-hosting/586231-biggest-data-centres-in-south-africa.html,unfetchable,HTTP 403; Wayback ConnectionError,,0,,
+4,https://www.openaccessdc.net/news/open-access-data-centres-isando-achieves-tier-iii-design-certification-by-the-uptime-institute,fetched,,scripts/.workroot/study/datacentres/cache/ZAF/4.txt,441,html,Open Access Data Centres Isando Achieves Tier-III Design Certification by the Uptime Institute
+5,https://cloud.google.com/blog/products/infrastructure/heita-south-africa-new-cloud-region/,held,held as raw/2024/2024-01-31 Heita South Africa! The new Google Cloud region is now open in Johannesburg.md,,0,,
+6,https://uptimeinstitute.com/uptime-institute-awards/country/id/ZA,fetched,,scripts/.workroot/study/datacentres/cache/ZAF/6.txt,471,html,Uptime Institute Awards
+7,https://techcentral.co.za/amazon-web-services-launches-cape-town-data-centre-region/175818/,fetched,,scripts/.workroot/study/datacentres/cache/ZAF/7.txt,448,html,Amazon launches data centre operations in South Africa
+8,https://azure.microsoft.com/en-us/blog/microsoft-opens-first-datacenters-in-africa-with-general-availability-of-microsoft-azure/,held,held as raw/2019/2019-03-06 Microsoft opens first datacenters in Africa with general availability of Microsoft Azure.md,,0,,

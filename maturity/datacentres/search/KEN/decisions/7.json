@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "Africa Data Centres announced in November 2020 that Uptime Institute renewed Tier III Certification of Design Documents for its NBO1.1, NBO1.2 and NBO1.3 Phase 1 Nairobi facilities.",
+ "title": "Africa Data Centres Tier III Certification Renewed",
+ "publisher": "Africa Data Centres",
+ "published": "2020-11-18",
+ "date_source": "source",
+ "why_not": ""
+}

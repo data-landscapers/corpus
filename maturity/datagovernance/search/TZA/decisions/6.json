@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing",
+ "fact": "In August 2023 the Ministry circulated a drafted National ICT Policy 2023 for stakeholder input, with a Data Governance section (3.2) setting policy statements on data standards, data sharing and a data governance collaboration framework; the data part of a larger policy, so a weak Q1 yes.",
+ "title": "Drafted National ICT Policy, 2023",
+ "publisher": "Ministry of Information, Communication and Information Technology (United Republic of Tanzania)",
+ "published": "2023-08",
+ "date_source": "source",
+ "why_not": ""
+}

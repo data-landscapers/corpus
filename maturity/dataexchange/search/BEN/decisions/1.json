@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform;reach;usage",
+ "fact": "XROAD BJ counters as of 17 Sept 2026: 75 members, 193 integrated information systems, 542 active services, 205 million secure requests, 26.6 million in the last 30 days.",
+ "title": "Bénin's National Interoperability Platform achieves 205M secure requests",
+ "publisher": "Ékagnon Cédric Medegan Fagla (LinkedIn)",
+ "published": "2026-09-17",
+ "date_source": "source",
+ "why_not": ""
+}

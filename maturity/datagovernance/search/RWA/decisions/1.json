@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "NISR's Data Governance page lists the National Data Governance Framework and national guidelines on data classification and access, metadata management, data quality and standards, and data incident management, all for Government of Rwanda institutions.",
+ "title": "Data Governance",
+ "publisher": "National Institute of Statistics of Rwanda",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": ""
+}

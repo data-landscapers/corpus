@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "standing",
+ "fact": "INTIC's article states the National Data Governance Policy and Strategy is in the process of being finalised, with a data governance diagnostic completed.",
+ "title": "Governação de Dados em Moçambique: Diagnóstico e Caminhos Estratégicos para a Transformação Digital",
+ "publisher": "INTIC",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "policy"
+}

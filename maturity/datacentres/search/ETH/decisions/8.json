@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "Raxio ET1 in Addis Ababa received Uptime Institute Tier III Certification on 21 October 2022, the first Tier III-certified independent data centre in Ethiopia.",
+ "title": "Raxio Data Centre in Ethiopia (\"ET1\") Receives Tier III Certification from Uptime Institute",
+ "publisher": "Raxio Group",
+ "published": "2022-11-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "SNDI chose the UXP platform under a EUR 387,350 contract covering the platform core, five priority services and skills transfer.",
+ "title": "Clarifications du sujet de mise place de la plateforme d'interopérabilité des systèmes d'information de l'administration publique",
+ "publisher": "SNDI",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

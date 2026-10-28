@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "In March 2026 RISA issued a World Bank-financed RFP to hire a firm to implement the Shared Government Data Hub and the Data Interoperability Platform.",
+ "title": "Request for Proposal: Hiring a firm to implement the Shared Government Data Hub and the Data Interoperability Platform",
+ "publisher": "Rwanda Information Society Authority (RISA)",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

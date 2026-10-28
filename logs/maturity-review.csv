@@ -26,9 +26,9 @@ customs,customs,dpi.mis--customs,2026-10-26,26,73.0,235
 cybersecurity,readiness,infra.cybersec--national-cybersecurity-readiness,2026-10-27,21,70.6,219
 cybersecuritylaw,law,gov.legislate--cybersecurity-legislation,2026-10-27,21,70.6,249
 datacentrepower,power,infra.energy--sufficient-energy-and-water-for-data-centres,2026-10-27,21,70.5,69
-datacentres,datacentre,infra.store--local-data-centre-capacity-all-providers,,,,
-dataexchange,exchange,dpi.exchange--national-data-exchange-system,,,,
-datagovernance,policy,gov.policy--data-governance-policy,,,,
+datacentres,datacentre,infra.store--local-data-centre-capacity-all-providers,2026-10-28,28,55.6,83
+dataexchange,exchange,dpi.exchange--national-data-exchange-system,2026-10-28,28,55.6,95
+datagovernance,policy,gov.policy--data-governance-policy,2026-10-28,28,55.6,29
 datalocalisation,rule,gov.policy--data-localisation-policies,,,,
 dataprotectionauthority,body,gov.protect--data-protection-authority,,,,
 dataprotectionlaw,general,gov.legislate--data-protection-legislation,,,,

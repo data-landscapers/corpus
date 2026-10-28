@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "Senelec's Tier III certified data centre at Diamniadio was inaugurated on 20 July 2022, the third in Senegal with a Tier III certificate.",
+ "title": "Inauguration du Data center Tier III",
+ "publisher": "Senelec",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

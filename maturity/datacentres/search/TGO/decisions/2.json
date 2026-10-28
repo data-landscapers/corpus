@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "SIN and ST DIGITAL launched private-cloud services on 26 May 2026 at the Lomé Data Centre, which SIN operates and which is certified Tier III by the Uptime Institute with a 99.982% availability rate.",
+ "title": "Togo : la SIN et ST DIGITAL s’allient pour une offre de services de cloud privé au Lomé Data Centre",
+ "publisher": "Togo First",
+ "published": "2026-05-28",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "cloud",
+ "fact": "On 2026-07-22 Business in Cameroon reports Camtel and AWS are only exploring cloud cooperation, with no agreement, investment or timetable, so no AWS region is announced in Cameroon.",
+ "title": "Camtel Could Soon Offer Amazon Cloud and AI Services in Cameroon",
+ "publisher": "Business in Cameroon",
+ "published": "2026-07-22",
+ "date_source": "source",
+ "why_not": ""
+}

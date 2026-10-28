@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "centre",
+ "fact": "NOSi sells Housing (colocation) of customers' servers at the Data Center of the State of Cape Verde, with power and cooling redundancy.",
+ "title": "Provider - NOSi",
+ "publisher": "NOSi - Nucleo Operacional para a Sociedade de Informacao",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": ""
+}

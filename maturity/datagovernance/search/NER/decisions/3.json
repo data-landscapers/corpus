@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "policy",
+ "aspect": "",
+ "fact": "",
+ "title": "Le Niger entend se doter d'une Politique nationale de Développement du Numérique 2026-2035",
+ "publisher": "Agence Nigérienne de Presse",
+ "published": "2026-03-11",
+ "date_source": "source",
+ "why_not": "already-held: story is in the raw/ corpus (2026-03-11-anp-pndn-2026-2035-validation); also a digital policy, not a data policy"
+}

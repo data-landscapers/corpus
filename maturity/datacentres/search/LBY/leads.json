@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
+  "title": "New Libyan telecom firm to launch data center in 2027",
+  "publisher": "DCD",
+  "published": "2026-10-15",
+  "sub_indicator": "datacentre",
+  "why": "O3 Tier III data centre under construction in Benghazi, due March 2027"
+ },
+ {
+  "url": "https://doi.org/10.54361/ajmas.2583103",
+  "title": "The Reality of Big Data in Libya and Its Readiness to Support Artificial Intelligence Applications",
+  "publisher": "Academic Journal of Modern Applied Sciences",
+  "published": "2025-09-17",
+  "sub_indicator": "datacentre",
+  "why": "Few operational data centres, no national cloud"
+ },
+ {
+  "url": "https://alsabaah.ly/%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA/",
+  "title": "الشركة الدولية للاتصالات تحصل على شهادة معتمدة من معهد أمريكي",
+  "publisher": "منصة الصباح",
+  "published": "2024-08-09",
+  "sub_indicator": "datacentre",
+  "why": "LITC data centres Tier III certificate from Uptime Institute"
+ },
+ {
+  "url": "https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=",
+  "title": "KM-4 Data Center",
+  "publisher": "Uptime Institute",
+  "published": "",
+  "sub_indicator": "datacentre",
+  "why": "Tier certification record for KM-4, Tripoli"
+ },
+ {
+  "url": "https://uptimeinstitute.com/uptime-institute-awards/list/datacenter/beng-o3-data-center-1/2406",
+  "title": "BENG O3 Data Center 1",
+  "publisher": "Uptime Institute",
+  "published": "",
+  "sub_indicator": "datacentre",
+  "why": "Tier award record for O3 Benghazi"
+ },
+ {
+  "url": "https://libyaherald.com/2021/10/libyan-international-telecommunication-company-in-partnership-with-microsoft-launches-azure-expressroute-service-in-libya",
+  "title": "LITC, in partnership with Microsoft, launches Azure ExpressRoute service in Libya",
+  "publisher": "Libya Herald",
+  "published": "2021-10-01",
+  "sub_indicator": "datacentre",
+  "why": "Cloud link into Libya; not a local cloud region"
+ },
+ {
+  "url": "https://libyaherald.com/2019/10/advanced-tier-3-data-centre-to-be-established-in-libya-by-trans-saharan-and-tatweer",
+  "title": "Trans-Saharan and Tatweer to Establish TIER 3 Data Centre in Libya",
+  "publisher": "Libya Herald",
+  "published": "2019-10-09",
+  "sub_indicator": "datacentre",
+  "why": "Planned Tier 3 data centre"
+ },
+ {
+  "url": "https://colocationm.com/libya/tripoli-dc-1",
+  "title": "Trans Sahara Tripoli DC 1",
+  "publisher": "ColocationM",
+  "published": "",
+  "sub_indicator": "datacentre",
+  "why": "Operating multi-tenant colocation data centre in Tripoli since 2020"
+ }
+]

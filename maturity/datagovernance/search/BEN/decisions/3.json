@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "policy",
+ "aspect": "",
+ "fact": "",
+ "title": "Stratégie nationale d'IA et des mégadonnées (SNIAM)",
+ "publisher": "ASIN",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": "off-topic: AI strategy; no national data policy fact found in the text"
+}

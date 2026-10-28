@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/Data-Center-Market-Briefs-Ghana-2026.pdf,held,held as raw/2026/2026-01-01-xalam-ghana-data-center-market-briefing.md,,0,,
+2,https://itweb.africa/article/digital-realty-opens-datacentre-in-ghana/DZQ587V8DXBqzXy2,fetched,,scripts/.workroot/study/datacentres/cache/GHA/2.txt,339,html,Digital Realty opens datacentre in Ghana
+3,https://www.graphic.com.gh/news/general-news/digital-realty-opens-ghanas-largest-data-center-in-accra.html,held,held as raw/2025/2025-10-31-digital-realty-opens-accra-data-center-graphic.md,,0,,
+4,https://www.datacenterdynamics.com/en/news/paix-data-centres-upgrades-accra-ghana-facility-to-12mw/,fetched,,scripts/.workroot/study/datacentres/cache/GHA/4.txt,429,html,"PAIX Data Centres upgrades Accra, Ghana, facility to 1.2MW"
+5,https://itweb.africa/article/mainones-mdxi-ghana-gains-competitive-advantage-with-tccf-certification/o1Jr5MxPrBoMKdWL,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+6,https://www.datacenterdynamics.com/en/news/ghanas-vice-president-opens-onix-tier-iv-data-center/,held,held as raw/2022/2022-06-24-dcd-onix-accra-tier-iv-opened-bawumia.md,,0,,
+7,https://uptimeinstitute.com/uptime-institute-awards/country/id/GH,fetched,,scripts/.workroot/study/datacentres/cache/GHA/7.txt,205,html,Uptime Institute Awards
+8,https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf,held,held as raw/2025/2025-05-01-west-africa-data-center-markets-brief.md,,0,,

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform;reach",
+ "fact": "ATDI ran a 6-9 October 2026 training on Mozambique's national data exchange system, based on X-Road, for 25 technicians from nine public bodies including DNIC, SENAMI, AT, INAS, MDN, DNRN and BAU.",
+ "title": "ATDI capacita instituições públicas para a troca integrada e segura de dados através do X-Road",
+ "publisher": "Agência de Transformação Digital e Inovação, IP (ATDI)",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

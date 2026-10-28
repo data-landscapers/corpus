@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "standing;use",
+ "fact": "The EDGS summary, version October 2025, sets out Ethiopia's National Data Governance Strategy in four pillars and proposes an independent data regulator and governance body under MInT.",
+ "title": "Ethiopia National Data Governance Strategy (EDGS) —Summary",
+ "publisher": "Digital Impact Alliance",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": ""
+}

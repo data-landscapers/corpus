@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The Government ICT Specifications Standards Version 2 (May 2025) says uncoordinated ICT procurement has produced fragmented digital silos and system incompatibilities, and sets interoperability and once-only principles via the Enterprise Architecture Framework.",
+ "title": "Government ICT Specifications Standards (Version 2)",
+ "publisher": "Office of the President and Cabinet, E-Government Technology Unit",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

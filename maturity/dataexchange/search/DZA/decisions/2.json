@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "Ecofin reports that President Tebboune on 12 July 2026 gave public administrations 30 days to connect their systems to the National Data Center so institutions can exchange data automatically, and that the authorities now aim to make full interoperability between government institutions operational.",
+ "title": "Algeria Orders Public Services to Connect to National Data Center Within 30 Days",
+ "publisher": "Ecofin Agency",
+ "published": "2026-07-17",
+ "date_source": "source",
+ "why_not": ""
+}

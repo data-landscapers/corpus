@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "datacentre",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: states a NOSi Data Centre exists in Praia but not that it rents space or computing to others"
+}

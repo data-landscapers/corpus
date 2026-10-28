@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "An interconnection platform entered service in 2019 exchanging data between the transport SSDT, customs SYDONIA and tax FISCALIS systems of three administrations.",
+ "title": "Cameroun : Les systèmes d'information des Douanes, des Transports et des Impôts désormais interconnectés",
+ "publisher": "Digital Business Africa",
+ "published": "2019-08-01",
+ "date_source": "source",
+ "why_not": ""
+}

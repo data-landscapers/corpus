@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "Jamii X-Change is operational, with Zan X-Change in testing and Revenue X-Change under implementation, per the 2025 NIDA presentation.",
+ "title": "Jamii X-Change",
+ "publisher": "National Identification Authority (NIDA), ID4Africa 2025",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

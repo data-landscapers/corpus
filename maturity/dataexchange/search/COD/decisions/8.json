@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The September 2019 plan lists a finance data warehouse and exchange platform (Plateforme d'entrepôt et échange des données des finances) intended to centralise financial data and ease information sharing between the revenue agencies and other finance ministry bodies.",
+ "title": "Plan National du Numérique - Horizon 2025",
+ "publisher": "Présidence de la République démocratique du Congo",
+ "published": "2019-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://statistics.gov.rw/documents/strategies-and-policies/data-governance,fetched,,scripts/.workroot/study/datagovernance/cache/RWA/1.txt,464,html,Data Governance
+2,https://statistics.gov.rw/sites/default/files/documents/2025-11/National%20Data%20Governance%20Framework.pdf,held,held as raw/2025/2025-11-28-rwanda-national-data-governance-framework-2025.md,,0,,
+3,https://statistics.gov.rw/sites/default/files/documents/2025-10/National%20Data%20Classification%20and%20Access%20Guideline.%20final.pdf,fetched,,scripts/.workroot/study/datagovernance/cache/RWA/3.txt,6048,pdf,
+4,https://cenfri.org/articles/introduction-to-the-rwanda-national-data-sharing-policy-2/,held,held as raw/2025/2025-10-27 Introduction to the Rwanda National Data Sharing Policy.md,,0,,
+5,https://www.ktpress.rw/2025/05/what-to-expect-in-the-data-sharing-policy-approved-by-cabinet/,fetched,,scripts/.workroot/study/datagovernance/cache/RWA/5.txt,1098,html,What to Expect in the Data Sharing Policy Approved by Cabinet - KT PRESS
+6,https://www.risa.gov.rw/news-detail/national-data-sharing-policy-approved,held,held as raw/2025/2025-05-26-national-data-sharing-policy-approved.md,,0,,
+7,https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Policies/The_National_Data_Sharing_Policy_-_Final.pdf,rejected,rejected 2026-09-02: duplicate-raw,,0,,

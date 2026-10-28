@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform;reach;usage",
+ "fact": "As of 2024, more than 50 government institutions exchange data digitally for over 270 services, with more than 3 million monthly exchanges.",
+ "title": "UXP-based public services in Benin",
+ "publisher": "Cybernetica",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

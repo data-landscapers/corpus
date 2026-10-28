@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform;reach",
+ "fact": "The interoperability platform of the public administration was officially launched on 25 September 2025, with twelve pilot structures in its first phase.",
+ "title": "Lancement officiel de la Plateforme d'Interopérabilité de l'Administration",
+ "publisher": "Ministère de la Transition Numérique et de l'Innovation Technologique",
+ "published": "2025-09-25",
+ "date_source": "source",
+ "why_not": ""
+}

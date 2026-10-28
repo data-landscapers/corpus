@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "datacentre",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: MTN Dabengwa and Equinix LG1/LG2 facts are in evidence.csv from Techpoint's own stories; hyperscaler remarks are opinion, no dated region fact"
+}

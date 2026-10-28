@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "cloud;centre",
+ "fact": "On 27 January 2026 iXAfrica announced it will host Oracle's OCI public cloud region in Nairobi as its colocation partner, with construction and power still in advanced deployment.",
+ "title": "iXAfrica Data Centres Collaborates with Oracle to Deliver Kenya's First Public Cloud Region",
+ "publisher": "iXAfrica Data Centres",
+ "published": "2026-01-27",
+ "date_source": "source",
+ "why_not": ""
+}

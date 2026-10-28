@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The GovTech Maturity Index data for 2022 records a government service bus platform in use in Seychelles, the E-Service Gateway launched in 2012, shared across central and local government and partially used.",
+ "title": "Seychelles (SYC) - GovTech Maturity Index, Core Government Systems",
+ "publisher": "Global Digital Identity Index (World Bank GTMI data)",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

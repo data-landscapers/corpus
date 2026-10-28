@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "The annex states RISA has implemented a Government Enterprise Services Bus (GESB), on which the national data sharing platform may be based.",
+ "title": "Annex 7 to the National Data Sharing Policy: Key functional requirements for the technology platform used for data sharing",
+ "publisher": "Ministry of ICT and Innovation",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

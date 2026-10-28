@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform",
+ "fact": "By 11 July 2023 Central African Republic and Cameroon customs had been exchanging electronic transit data via SYDONIAWorld since June 2023, and the project included data exchange with other government agencies.",
+ "title": "SYDONIA - La Douane centrafricaine migre vers SYDONIAWorld",
+ "publisher": "Programme SYDONIA (CNUCED)",
+ "published": "2023-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

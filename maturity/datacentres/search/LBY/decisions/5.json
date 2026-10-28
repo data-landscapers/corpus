@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "datacentre",
+ "aspect": "",
+ "fact": "",
+ "title": "Uptime Institute Awards",
+ "publisher": "Uptime Institute",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: lists name and location only, no date or tier"
+}

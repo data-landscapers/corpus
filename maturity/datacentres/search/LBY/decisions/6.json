@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "datacentre",
+ "aspect": "cloud",
+ "fact": "On 29 September 2021 LITC launched Azure ExpressRoute in Tripoli with Microsoft, a private link to Microsoft cloud services.",
+ "title": "Libya Telecom Company Partners with Microsoft for Azure ExpressRoute Launch",
+ "publisher": "Libya Herald",
+ "published": "2021-10-01",
+ "date_source": "source",
+ "why_not": ""
+}

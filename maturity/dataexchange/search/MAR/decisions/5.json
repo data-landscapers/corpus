@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "exchange",
+ "aspect": "platform;usage",
+ "fact": "Minister Ghita Mezzour told parliament on 15 January 2024 that, per platform usage statistics to August 2023, about 170,000 RSU operations and 307,000 mandatory health insurance operations are recorded daily on the common interconnection platform.",
+ "title": "Administration numérique : 170.000 opérations RSU sont enregistrées quotidiennement",
+ "publisher": "La Vie éco / MAP",
+ "published": "2024-01-16",
+ "date_source": "source",
+ "why_not": ""
+}

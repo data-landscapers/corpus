@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "policy",
+ "aspect": "use",
+ "fact": "NITDA's Strategic Roadmap and Action Plan 2024-2027 (SRAP 2.0) lists the National Data Strategy among the seven policies NITDA is at the forefront of executing.",
+ "title": "NITDA Strategic Roadmap and Action Plan, 2024-2027 (SRAP 2.0)",
+ "publisher": "National Information Technology Development Agency (NITDA)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}
