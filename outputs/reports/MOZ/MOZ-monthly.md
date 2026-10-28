@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: MOZ
-ledger_rows: 53
+ledger_rows: 54
 not_held: 18
-record: b072ca359c6b
+record: 5df225025999
 ---
 
 # News, Sep – Oct 2026
@@ -262,6 +262,14 @@ Mozambique's parliamentary Standing Commission on 1 October 2026 placed a Person
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Parlamento alarga calendário de trabalhos para responder à agenda legislativa](https://aimnews.org/2026/10/26/parlamento-alarga-calendario-de-trabalhos-para-responder-a-agenda-legislativa/)** — Agência de Informação de Moçambique (AIM), 26 October 2026
+
+Personal data protection bill on plenary agenda for 6 Nov 2026; session runs 28 Oct to 22 Dec 2026.
+
+</div>
+
 </div>
 
 ### Regional collaboration
@@ -479,6 +487,20 @@ Mozambique's regulator is validating a proposed national 'Internet para Todos' s
 **[Mozambique targets 95% broadband coverage by 2030](https://itweb.africa/article/mozambique-targets-95-broadband-coverage-by-2030/4r1ly7R9P99vpmda)** — ITWeb Africa, 9 October 2026
 
 Mozambique's regulator validated its Internet for All strategy, which targets 95% broadband coverage by 2030, 12 million mobile internet subscribers and at least 60% of schools connected. It cited a programme to subsidise about 280,000 internet-enabled devices.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Localities and schools connected under the ministry's programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le Mozambique veut porter à 1000 le nombre d’écoles connectées à Internet d’ici 2029](https://www.wearetech.africa/fr/fils/actualites/tech/le-mozambique-veut-porter-a-1000-le-nombre-d-ecoles-connectees-a-internet-d-ici-2029)** — wearetech.africa, 27 October 2026
+
+1,000 connected schools by 2029 against 418 now; 19,454 computers to students, 20 digital spaces.
 
 </div>
 
@@ -901,6 +923,14 @@ Mozambique's digital transformation agency ATDI opened the Centro Pronto service
 **[Altas taxas cobradas no novo Centro Pronto para BI, passaporte, carta de condução e DIRE revoltam cidadãos](https://mznews.co.mz/altas-taxas-cobradas-no-novo-centro-pronto-para-bi-passaporte-carta-de-conducao-e-dire-revoltam-cidadaos/)** — MZNews, 19 October 2026
 
 Fees at Mozambique's new Centro Pronto document centre have drawn public anger, as the private centre adds its own fee and 16% VAT to the state fee. An adult identity-card renewal costs MZN 1,058.12 in total, of which the state fee is MZN 160. A driving-licence renewal costs MZN 5,201.84 and an express passport renewal MZN 10,725.10.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Preços de passaporte, carta de condução e bilhete de identidade continuam inalteráveis](https://aimnews.org/2026/10/25/precos-de-passaporte-carta-de-conducao-e-bilhete-de-identidade-continuam-inalteraveis/)** — Agência de Informação de Moçambique (AIM), 25 October 2026
+
+Public counters keep official fees; premium adds MZN 3,038.89 plus VAT to a MZN 7,200 express passport.
 
 </div>
 
