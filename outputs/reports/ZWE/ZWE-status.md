@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-10-26
+compiled: 2026-10-28
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 196
+sources_cited: 197
 sections_written: 39
 not_established: 1
 acquire_lines: 37
@@ -154,7 +154,7 @@ Running shared national infrastructure is a thinner record than building it. [Al
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-Zimbabwe sits in the ['Evolving' tier of the ITU Global Cybersecurity Index 2024, the band scoring 20 to 55 out of 100](https://www.itu.int/pub/D-HDB-GCI.01-2024) — the second-lowest of that index's five tiers, on a measure of published commitments rather than of defended systems. The strategy behind that score cannot be pinned down. The ICT ministry [announced on 15 October 2025 that the National Cybersecurity Strategy had been completed](https://www.heraldonline.co.zw/new-cybersecurity-strategy-to-boost-zimbabwes-digital-resilience/), and the same minister said on 2 July 2026 that the ministry [is finalising a National Cybersecurity Strategy for 2026-2030, anchored on a proposed National Cybersecurity Authority to coordinate incident response and protect critical information infrastructure](https://gemnation.co.zw/zimbabwe-to-establish-national-cybersecurity-authority/). No strategy document is on the record at either date, and no authority has been constituted. The institution behind it, the Cyber Security Centre, [is established by the Cyber and Data Protection Act, which puts the national cybersecurity body and the data protection regime in a single statute](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20%26%20Data%20Protection%20Act%20Cap1207%20No%205%20of%202021%20gaz%202022-03-11.pdf).
+Zimbabwe sits in the ['Evolving' tier of the ITU Global Cybersecurity Index 2024, the band scoring 20 to 55 out of 100](https://www.itu.int/pub/D-HDB-GCI.01-2024) — the second-lowest of that index's five tiers, on a measure of published commitments rather than of defended systems. The strategy behind that score cannot be pinned down. The ICT ministry [announced on 15 October 2025 that the National Cybersecurity Strategy had been completed](https://www.heraldonline.co.zw/new-cybersecurity-strategy-to-boost-zimbabwes-digital-resilience/), and the same minister said on 2 July 2026 that the ministry [is finalising a National Cybersecurity Strategy for 2026-2030, anchored on a proposed National Cybersecurity Authority to coordinate incident response and protect critical information infrastructure](https://gemnation.co.zw/zimbabwe-to-establish-national-cybersecurity-authority/). No strategy document is on the record at either date, and no authority has been constituted. The telecoms regulator runs its own response team, which [published a breakdown of the incidents reported to it in 2025, with fraud the largest share at 33%](https://technomag.co.zw/33-of-zimbabwe-crimes-now-cyber-related/). The institution behind it, the Cyber Security Centre, [is established by the Cyber and Data Protection Act, which puts the national cybersecurity body and the data protection regime in a single statute](https://www.veritaszim.net/sites/veritas_d/files/Cyber%20%26%20Data%20Protection%20Act%20Cap1207%20No%205%20of%202021%20gaz%202022-03-11.pdf).
 
 Breach duties are short and run to the regulator first: [controllers must report a breach to POTRAZ within 24 hours and notify affected data subjects within 72 hours where high risk applies](https://zimlii.org/akn/zw/act/2021/5/eng@2022-03-11).
 
