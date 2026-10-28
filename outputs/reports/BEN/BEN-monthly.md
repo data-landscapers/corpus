@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: BEN
-ledger_rows: 40
+ledger_rows: 42
 not_held: 4
-record: 8a0f5ed144f9
+record: cbcc64ddcf12
 ---
 
 # News, Sep – Oct 2026
@@ -24,6 +24,8 @@ record: 8a0f5ed144f9
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -602,6 +604,20 @@ Benin's government launched a presidential National Administrative Simplificatio
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic vote for the 2027 national professional elections</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[2027 Professional Elections: COSI-Benin Sets Conditions on Electronic Voting and Calls for Lowering Threshold to 10%](https://beninwebtv.bj/en/2027-professional-elections-cosi-benin-sets-conditions-on-electronic-voting-and-calls-for-lowering-threshold-to-10/)** — Benin Web TV, 26 October 2026
+
+Union wants independent audit of e-voting after 2023 proxy-voting flaws; threshold cut from 20% to 10% sought.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -733,6 +749,28 @@ UNICEF handed Benin's Ministry of Secondary Education 628 items of computer equi
 **[Politique d'identification et d'inclusion: 1 422 cartes d'égalité des chances aux personnes handicapées](https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees)** — La Nation (Bénin), 23 September 2026
 
 Benin's identification agency ANIP handed 1,422 equal-opportunity cards for persons with disabilities to the Ministry of Family and Social Action in Cotonou on 18 September 2026. The cards, provided for under a 2017 law, give access to rights in health, education, employment and transport. ANIP issued 4,718 cards in 2024 and 2025 and has about 4,000 applications for 2026.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#gulfuae-activities">Gulf/UAE activities</a>
+</nav>
+
+### Gulf/UAE activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">UAE letter of intent on data hosting and information systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[À Abou Dhabi, Romuald Wadagni engage le Bénin dans une nouvelle phase de coopération commerciale - LA MARINA BJ](https://lamarina.bj/2026/10/26/a-abou-dhabi-romuald-wadagni-engage-le-benin-dans-une-nouvelle-phase-de-cooperation-commerciale/)** — La Marina BJ, 26 October 2026
+
+Benin-UAE CEPA exchanged 25 Oct 2026 with seven instruments; letter of intent on data hosting, no amounts.
 
 </div>
 
