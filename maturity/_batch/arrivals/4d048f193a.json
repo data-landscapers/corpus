@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-27-bfa-semaine-nationale-de-lutte-contre-la-cybercriminalite-prevention-colle",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Names deepfakes as a threat but states no AI rule or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI system stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives losses recorded by the BCLCC, but no dated arrest, prosecution or case count under a law."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "An awareness week; no criticism, cut or punishment stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,341 @@
+{
+ "slug": "2026-10-27-civ-digitalisation-trois-outils-de-modernisation-de-letat-civil",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "admindata": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "ONECI's CityWeb web application, which records birth, marriage and death acts, is deployed in several regions and town halls, with 5,453 acts at Abobo in September 2026 and up to 62.5% of centres inactive in Moronou.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "CityWeb",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "deaths",
+       "value": "digital",
+       "fact": "CityWeb lets registrars create, process and follow birth, marriage and death acts, according to the ONECI account reported by Digital Mag.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "CityWeb",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CityWeb",
+       "country_label": "CityWeb (ONECI)",
+       "class": "civil",
+       "platform": "web application",
+       "owner": "ONECI",
+       "tiers": "communes, sub-prefectures, prefectures"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B;D",
+       "fact": "CityWeb records births, marriages and deaths for ONECI, deployed in several regions and town halls, with about 35% of civil-status centres facing network coverage constraints.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "CityWeb",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CityWeb",
+       "country_label": "CityWeb (ONECI)",
+       "class": "civil",
+       "platform": "web application",
+       "owner": "ONECI",
+       "tiers": "communes, sub-prefectures, prefectures"
+      },
+      {
+       "system": "Numerisation des registres d'etat civil",
+       "country_label": "ONECI register digitisation",
+       "class": "other",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": "communes, sub-prefectures, prefectures"
+      },
+      {
+       "system": "Plateforme de demande et d'obtention en ligne des actes d'etat civil",
+       "country_label": "online civil-status act request platform",
+       "class": "other",
+       "platform": "web",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cote d'Ivoire."
+    }
+   }
+  }
+ }
+}

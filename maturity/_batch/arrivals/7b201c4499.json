@@ -1,0 +1,41 @@
+{
+ "slug": "2026-10-26-dza-plateforme-tawassol-comment-signaler-un-commercant-qui-naffiche-pas-se",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Tawassol",
+       "country_label": "Tawassol - La voix du consommateur",
+       "class": "other",
+       "platform": "web portal",
+       "owner": "Ministry of Internal Trade",
+       "tiers": ""
+      }
+     ],
+     "note": "Tawassol takes trade complaints on prices, hygiene and stock-outs, not digital financial services."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Tawassol is a complaints and information channel, not a service completed online."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document does not mention refugees or displaced people."
+    }
+   }
+  }
+ }
+}

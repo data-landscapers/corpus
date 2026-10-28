@@ -1,0 +1,59 @@
+{
+ "slug": "2026-09-27-orange-egy-ai-startups-2026-orange-group-eur25m-ai-advanced-tech-startups",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no AI rule or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no government use of AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no AI in a public sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no AI model, dataset or computing built or hosted in Egypt."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Orange's EUR 25m is a private company allocation, not a public scheme or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no hub, incubator or park."
+    }
+   }
+  }
+ }
+}

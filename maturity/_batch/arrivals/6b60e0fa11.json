@@ -1,0 +1,68 @@
+{
+ "slug": "2026-10-27-le-mozambique-veut-porter-1000-le-nombre-d-coles-connect-es-internet-d",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document names no civil-servant digital-skills training."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Teacher-skills protocol with UNICEF and computers for students are not a public digital-skills programme."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of population using the internet is stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No private amount for a digital business is stated."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Instant Network Schools is school equipment, not registration or digital access."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural electricity access figure is stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "418 connected schools is a count, not a share of secondary schools; no compulsory curriculum stated."
+    }
+   }
+  }
+ }
+}

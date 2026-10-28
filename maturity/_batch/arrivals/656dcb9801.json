@@ -1,0 +1,25 @@
+{
+ "slug": "2024-11-06-hrw-mozambique-post-election-internet-restrictions",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "Human Rights Watch reports mobile and internet access was restricted from 25 October 2024 after post-election protests, with social media blocked, and operators confirmed restoration on 18 November 2024.",
+       "as_of": "2024-10-25",
+       "date_precision": "day",
+       "system": "",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

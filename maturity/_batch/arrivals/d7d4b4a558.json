@@ -1,0 +1,34 @@
+{
+ "slug": "2025-04-16-sen-lutte-contre-la-cybercriminalite-la-police-nationale-enregistre-3-902",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "reported",
+       "fact": "Infos du Jour reports the national police said on 16 April 2025 that it recorded 3,902 cybercrime complaints in 2024, cleared 223 and referred 194 people to prosecutors.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Police nationale cybercrime report",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Cybercrime counts only; no station record system stated."
+    }
+   }
+  }
+ }
+}

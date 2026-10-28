@@ -1,0 +1,22 @@
+{
+  "slug": "2026-10-26-lby-national-council-for-human-rights-reviews-draft-personal-data-protection-l",
+  "studies": {
+    "aiabuse": {"countries": {"LBY": {"facts": [
+      {"sub_indicator": "aiharm", "aspect": "rule", "value": "draft",
+       "fact": "Libya's National Council for Public Freedoms and Human Rights says its draft personal data protection law, referred to the House of Representatives as an initial proposal, includes a chapter on artificial intelligence covering personal data in training and running AI systems, privacy, transparency, accountability and limiting discrimination.",
+       "as_of": "2026-10-26", "date_precision": "day", "system": "Draft national personal data protection law (AI chapter)", "class": "aiharm"}
+    ], "systems": [], "note": ""}}},
+    "aigovernment": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on government use of AI systems."}}},
+    "aisectoral": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on AI in a sector's public system."}}},
+    "aisystems": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on AI models, datasets or computing built in Libya."}}},
+    "datalocalisation": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on a rule that data be kept in the country."}}},
+    "dataprotectionauthority": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document names no supervisory authority."}}},
+    "dataprotectionlaw": {"countries": {"LBY": {"facts": [
+      {"sub_indicator": "general", "aspect": "standing", "value": "drafting",
+       "fact": "Libya's National Council for Public Freedoms and Human Rights and a House of Representatives committee began a joint review on 26 October 2026 of a draft personal data protection law, prepared by the council's national committee over more than two and a half years with a Council of Europe-appointed expert's review and referred to the House as an initial proposal.",
+       "as_of": "2026-10-26", "date_precision": "day", "system": "Draft national personal data protection law", "class": "general"}
+    ], "systems": [], "note": ""}}},
+    "datatransfers": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on conditions for sending data abroad."}}},
+    "internationalstandards": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Document states nothing on standards body membership or adopted IT standards."}}}
+  }
+}

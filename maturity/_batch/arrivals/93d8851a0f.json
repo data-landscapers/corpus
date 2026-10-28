@@ -1,0 +1,97 @@
+{
+ "slug": "2026-10-26-nam-health-data-will-power-namibia-s-ai-future-who-will-govern-it",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Namibia."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "announced",
+       "fact": "Columnist Dr Tuwilika Nafuka writes that Namibia's data protection law is 'still forthcoming', with no draft or bill described.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "data protection law",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

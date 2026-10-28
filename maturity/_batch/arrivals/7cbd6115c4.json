@@ -1,0 +1,11 @@
+{"slug": "2026-10-27-gab-digitalisation-le-gouvernement-annonce-le-deploiement-progressif-de-ga", "studies": {
+"businesspayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No consumer-protection rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No cross-border payment stated."}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"landregister": {"countries": {"GAB": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "GabonMediaTime reports the government's Gabon Connect calendar expects ePropriété, the land-book service, in September 2027, with full rollout announced for December 2027.", "as_of": "2026-10-27", "date_precision": "day", "system": "ePropriété", "class": "land"}], "systems": [{"system": "ePropriété", "country_label": "Gabon", "class": "land", "platform": "Gabon Connect", "owner": "Government of Gabon", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No adult account survey figure stated."}}},
+"retailpayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Mobile Money named only as a payment option for government services; no retail service status stated."}}},
+"revenuecollection": {"countries": {"GAB": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "GabonMediaTime reports that from October 2026 eTax is integrated into Gabon Connect and TrésorPay opens certain non-tax revenues, with payment by mobile money, card or transfer and a secure receipt.", "as_of": "2026-10", "date_precision": "month", "system": "Gabon Connect (eTax, TrésorPay)", "class": "revenue"}], "systems": [{"system": "Gabon Connect", "country_label": "Gabon", "class": "revenue", "platform": "gabon-connect.gouv.ga", "owner": "Government of Gabon", "tiers": "eTax, eEmployeur, TrésorPay, eDouanes, ePropriété"}], "note": ""}}}
+}}

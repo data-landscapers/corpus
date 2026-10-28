@@ -1,0 +1,52 @@
+{
+ "slug": "2024-01-26-caf-face-a-l-explosion-des-crimes-la-centrafrique-approuve-une-loi-sur-la",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANCy",
+       "country_label": "Agence nationale de la cybersécurité",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The law only authorises the creation of ANCy and was not yet promulgated; no body created."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "RFI reports Central African deputies voted by acclamation on 25 January 2024 a cybersecurity and cybercrime law, to be promulgated in the following days.",
+       "as_of": "2024-01-25",
+       "date_precision": "day",
+       "system": "Cybersecurity and cybercrime law",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a passing mention that a personal data protection law was adopted two weeks earlier, with no detail."
+    }
+   }
+  }
+ }
+}

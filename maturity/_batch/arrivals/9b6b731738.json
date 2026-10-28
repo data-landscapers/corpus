@@ -1,0 +1,72 @@
+{
+ "slug": "2025-05-15-gab-aninf-agence-nationale-des-infrastructures-numerique-et-des-frequences",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The ministry page says ANINF was created by Decree 212/PR of 27 January 2011 and has the mission of drawing up and running a national cybersecurity plan covering prevention, detection, incident response and recovery.",
+       "as_of": "2011-01-27",
+       "date_precision": "day",
+       "system": "ANINF",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANINF",
+       "country_label": "Agence Nationale des Infrastructures Numérique et des Fréquences",
+       "class": "response",
+       "platform": "",
+       "owner": "Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a general digital inclusion mission is stated; no rural programme or figures."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "agency",
+       "value": "operating",
+       "fact": "The ministry page says ANINF, a state agency, creates government software solutions and strategic business applications and secures critical infrastructure.",
+       "as_of": "2025-05-15",
+       "date_precision": "day",
+       "system": "ANINF",
+       "class": "staff"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated."
+    }
+   }
+  }
+ }
+}

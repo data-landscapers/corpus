@@ -1,0 +1,35 @@
+{
+ "slug": "2025-12-16-gha-agradaa-fined-ghs12k-ordered-to-pay-ghs50k-compensation-for-showing-pa",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "MyJoyOnline reports the Accra High Court on 16 December 2025 convicted Nana Agradaa under the Cybersecurity Act, 2020 (Act 1038) on a plea bargain, fining her GHS12,000 and ordering GHS50,000 compensation.",
+       "as_of": "2025-12-16",
+       "date_precision": "day",
+       "system": "Cybersecurity Act, 2020 (Act 1038)",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "MyJoyOnline reports the Accra High Court on 16 December 2025 convicted Nana Agradaa under the Cybersecurity Act, 2020 (Act 1038) on a plea bargain, fining her GHS12,000 and ordering GHS50,000 compensation.",
+       "as_of": "2025-12-16",
+       "date_precision": "day",
+       "system": "Cybersecurity Act, 2020 (Act 1038)",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "slug": "2025-03-12-zaf-water-scarcity-in-africa",
+ "studies": {
+  "datacentrepower": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "water",
+       "value": "published",
+       "fact": "Teraco states its data centres' water usage effectiveness was 0.10 L/kWh in 2023 and 0.04 L/kWh in 2024, with closed-loop cooling and no direct reliance on water replenishment.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Teraco data centres",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Teraco data centres",
+       "country_label": "South Africa",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Teraco",
+       "tiers": ""
+      }
+     ],
+     "note": "Design PUE 1.30 and a 1.50 target are for new or fleet-wide builds without a named facility in service; no pue fact."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Teraco describes itself as a third-party data centre provider whose facilities host clients' IT workloads.",
+       "as_of": "2025-03-12",
+       "date_precision": "day",
+       "system": "Teraco data centres",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Teraco data centres",
+       "country_label": "South Africa",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Teraco",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government connection."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Teraco data centres",
+       "country_label": "South Africa",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Teraco",
+       "tiers": ""
+      }
+     ],
+     "note": "Teraco's ownership is not stated in the document."
+    }
+   }
+  }
+ }
+}

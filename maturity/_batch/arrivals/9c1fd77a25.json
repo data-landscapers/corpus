@@ -1,0 +1,32 @@
+{
+ "slug": "2024-11-25-gin-lancement-de-la-plateforme-nationale-de-signalement-des-cybersurveilla",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "DJAMA SUTURA",
+       "country_label": "ANSSI Guinée",
+       "class": "other",
+       "platform": "national reporting platform",
+       "owner": "ANSSI Guinée",
+       "tiers": ""
+      }
+     ],
+     "note": "Reporting platform launch is not creation of the body by law nor an incident handled or alert issued."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No law or bill stated."
+    }
+   }
+  }
+ }
+}

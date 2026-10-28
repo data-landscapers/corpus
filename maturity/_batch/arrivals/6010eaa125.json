@@ -1,0 +1,63 @@
+{
+ "slug": "2026-09-08-mdg-postponement-of-vote-on-cybercrime-and-digital-communications-bills-wh",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a proposed Digital Investigation Unit in a bill; no strategy, body, incident or figures stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Eu SEE (Hivos) reports the National Assembly postponed the plenary vote on the cybercrime bill PL-042/2026, tabled 28 August 2026, with adoption of its 96 articles shelved indefinitely.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "PL-042/2026 cybercrime bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Eu SEE (Hivos) says draft Bill 40 (PL-040/2026) defines digital sovereignty as state surveillance and control of critical data and infrastructure; the vote was postponed.",
+       "as_of": "2026-09-04",
+       "date_precision": "day",
+       "system": "PL-040/2026 electronic communications bill",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Criticism is unattributed and no cut or punishment is stated; suspension power is only in a draft bill."
+    }
+   }
+  }
+ }
+}

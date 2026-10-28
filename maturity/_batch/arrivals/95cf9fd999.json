@@ -1,0 +1,8 @@
+{"slug": "2025-05-28-dji-le-chef-de-letat-preside-la-10eme-seance-du-conseil-des-ministres", "studies": {
+"cybersecurity": {"countries": {"DJI": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "Djibouti's Council of Ministers of 27 May 2025 examined and approved a draft decree adopting the National Cybersecurity Strategy 2024-2030, with five axes and progress overseen by the HCSENI.", "as_of": "2025-05-27", "date_precision": "day", "system": "Stratégie Nationale de Cybersécurité (SNC) 2024-2030", "class": "response"}], "systems": [{"system": "Stratégie Nationale de Cybersécurité (SNC) 2024-2030", "country_label": "Stratégie Nationale de Cybersécurité", "class": "response", "platform": "", "owner": "Ministère délégué chargé de l'Economie Numérique et de l'Innovation", "tiers": ""}], "note": ""}}},
+"cybersecuritylaw": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Only a cybersecurity strategy is stated, no cybercrime or cybersecurity law or bill."}}},
+"digitalsovereignty": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Sovereignty mentioned only in general terms in the cybersecurity strategy, no state data rule or hosting."}}},
+"ictjobs": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on ICT employment or youth unemployment."}}},
+"landregister": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Land parcel expropriation decrees only, no digital land register stated."}}},
+"localgov": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Nothing stated on local government office connection."}}}
+}}

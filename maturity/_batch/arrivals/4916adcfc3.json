@@ -1,51 +1,84 @@
 {
  "slug": "2026-10-12-dza-capdz-oran-1-5-million-official-geolocated-addresses",
  "studies": {
-  "addressregister": {
-   "countries": {
-    "DZA": {
-     "facts": [
-      {
-       "sub_indicator": "address",
-       "aspect": "addressing",
-       "value": "inservice",
-       "fact": "Interior ministry director general Amal Djouama said 1.5 million official unified geolocatable addresses have been counted, with the national address reference rollout reaching 12 wilayas.",
-       "as_of": "2026-10-12",
-       "date_precision": "day",
-       "system": "المرجع الوطني للعنونة (national address reference)",
-       "class": "address"
-      },
-      {
-       "sub_indicator": "address",
-       "aspect": "addressing",
-       "value": "underway",
-       "fact": "The ministry presented a national plan to extend the unified geographic addressing system to all 69 wilayas by 2030, with 13 more wilayas included in the state budget.",
-       "as_of": "2026-10-12",
-       "date_precision": "day",
-       "system": "المرجع الوطني للعنونة (national address reference)",
-       "class": "address"
-      }
-     ],
-     "systems": [
-      {
-       "system": "المرجع الوطني للعنونة (national address reference)",
-       "country_label": "Algérie",
-       "class": "address",
-       "platform": "",
-       "owner": "Ministry of Interior, Local Authorities and Transport",
-       "tiers": "12 wilayas; 13 funded; 69 by 2030"
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "localgov": {
+  "businessregister": {
    "countries": {
     "DZA": {
      "facts": [],
      "systems": [],
-     "note": "Nothing stated on this."
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states only a national addressing reference (geolocated addresses); it states nothing on this study's questions."
     }
    }
   }

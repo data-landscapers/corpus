@@ -1,0 +1,8 @@
+{"slug": "2024-11-06-ago-angola-trabalha-na-implementacao-do-centro-de-resposta-de-incidentes-i", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document is about a planned cyber incident response centre; says nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document does not mention government use of AI."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document does not mention AI in any public sector system."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document does not mention AI models, datasets or AI computing built in Angola."}}},
+"cybersecurity": {"countries": {"AGO": {"facts": [], "systems": [{"system": "centro de estudos, resposta e tratamento de incidentes informáticos", "country_label": "Angola", "class": "other", "platform": "", "owner": "Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social", "tiers": ""}], "note": "Only a plan to set up a national incident response centre, not a created body; it does not state whether a strategy exists."}}},
+"dataprotectionlaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document does not mention data protection law."}}}
+}}

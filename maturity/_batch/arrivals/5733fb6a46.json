@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-25-tun-cpj-condemns-tunisia-s-judicial-harassment-of-sonia-dahmani-after-fres",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "CPJ reports lawyer and commentator Sonia Dahmani was convicted on 25 May 2026 under Decree-Law 54 of spreading false news likely to harm a public official over 2023 comments criticising prison conditions, and sentenced to two years, free pending appeal.",
+       "as_of": "2026-05-25",
+       "date_precision": "day",
+       "system": "Decree-Law 54",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "CPJ says journalist Ghassen Ben Khelifa was sentenced to two years in prison in March 2026.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Decree-Law 54",
+       "class": "discussion"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Decree-Law 54",
+       "country_label": "Tunisia",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

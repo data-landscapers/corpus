@@ -1,0 +1,44 @@
+{
+ "slug": "2025-09-29-ken-national-assembly-passes-two-bills",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Parliament of Kenya refers to the existing Computer Misuse and Cybercrimes Act, whose provisions the amendment bill tidies up.",
+       "as_of": "2025-09-29",
+       "date_precision": "day",
+       "system": "Computer Misuse and Cybercrimes Act",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Parliament of Kenya says the National Assembly passed the Computer Misuse and Cybercrimes (Amendment) Bill, 2024, with amendments.",
+       "as_of": "2025-09-29",
+       "date_precision": "day",
+       "system": "Computer Misuse and Cybercrimes (Amendment) Bill, 2024",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Police bill concerns officer wellness; no station records."
+    }
+   }
+  }
+ }
+}

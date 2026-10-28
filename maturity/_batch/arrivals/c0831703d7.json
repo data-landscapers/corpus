@@ -1,0 +1,16 @@
+{"slug": "2026-03-17-nam-cybercrime-bill-heads-to-parliament", "studies": {
+"cybersecuritylaw": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Windhoek Observer, citing the Ministry of Finance's 2026/27 budget estimates, reports that drafting of Namibia's Cybercrime Bill is complete and it is expected to go to Parliament in March 2026 after a validation workshop.", "as_of": "2026-03", "date_precision": "month", "system": "Cybercrime Bill", "class": "law"}
+], "systems": [{"system": "Cybercrime Bill", "country_label": "Cybercrime Bill", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The Windhoek Observer, citing the Ministry of Finance's 2026/27 budget estimates, reports the Data Protection Bill has been approved by the cabinet committee on legislation and forwarded to the Ministry of Justice and Labour Relations for further review.", "as_of": "2026-03", "date_precision": "month", "system": "Data Protection Bill", "class": "general"}
+], "systems": [{"system": "Data Protection Bill", "country_label": "Data Protection Bill", "class": "general", "platform": "", "owner": "Ministry of Justice and Labour Relations", "tiers": ""}], "note": ""}}},
+"ictstrategy": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Windhoek Observer reports that Namibia launched its national information and communication technology policy on 29 January 2026.", "as_of": "2026-01-29", "date_precision": "day", "system": "national information and communication technology policy", "class": "sector"}
+], "systems": [{"system": "National information and communication technology policy", "country_label": "national ICT policy", "class": "sector", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"NAM": {"facts": [], "systems": [{"system": "Budget estimates internet users count", "country_label": "1.72 million internet users, 66% internet penetration (2023), budget report count", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "Figures are a budget-report count of internet users and penetration rate, not a share of people from ITU or a survey."}}},
+"mobilepenetration": {"countries": {"NAM": {"facts": [], "systems": [{"system": "Budget estimates mobile subscribers", "country_label": "71.35 subscribers per 100 people (2023)", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "Only subscribers per 100 people, a subscription count, not phone ownership."}}},
+"publicconsultation": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Windhoek Observer reports that consultations with industry stakeholders on the review of the national broadband framework have been completed, per the 2026/27 budget estimates.", "as_of": "2026-03", "date_precision": "month", "system": "National broadband framework review", "class": "consultation"}
+], "systems": [], "note": ""}}}
+}}

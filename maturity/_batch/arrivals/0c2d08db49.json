@@ -1,0 +1,44 @@
+{
+ "slug": "2024-01-31-eth-insa-thwarts-close-to-99-percent-attempted-cyberattacks-in-half-year",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "INSA said it thwarted 98.56 percent of 4,623 attempted cyberattacks on government and private institutions in the past six months of the Ethiopian fiscal year.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "INSA",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "figures",
+       "value": "published",
+       "fact": "INSA director-general reported 4,623 attempted cyberattacks in the half year, up 115 percent on the same period a year earlier.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "INSA",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Information Network Security Administration",
+       "country_label": "INSA",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Ethiopia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

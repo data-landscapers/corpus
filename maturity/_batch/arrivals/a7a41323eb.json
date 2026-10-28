@@ -1,0 +1,73 @@
+{
+ "slug": "2024-06-10-zaf-calls-for-finalisation-of-cyber-security-bill",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a call for a critical-infrastructure directive; no body, strategy, designation or figures stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "ITWeb says the Cyber Crimes Act, signed into law in May 2021, came into partial operation on 1 December 2021.",
+       "as_of": "2021-12-01",
+       "date_precision": "day",
+       "system": "Cybercrimes Act",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "ITWeb says the Cyber Security Bill is still in development, with experts including Jacqueline Fick drafting it.",
+       "as_of": "2024-06-10",
+       "date_precision": "day",
+       "system": "Cyber Security Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Consultation mentioned is not stated to be online."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "ITWeb says that after public consultation on the Cyber Crimes and Cyber Security Bill, the cyber security aspects were removed to make a standalone Cyber Crimes Act.",
+       "as_of": "2024-06-10",
+       "date_precision": "day",
+       "system": "Cyber Crimes and Cyber Security Bill",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": "Consultation date not given; publication date used."
+    }
+   }
+  }
+ }
+}

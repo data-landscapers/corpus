@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-12-sen-cybercriminalite-au-senegal-3-794-infractions-enregistrees-en-2025-257",
+ "facts": [],
+ "systems": [
+  {
+   "system": "plateforme de signalement des infractions liees a la cybercriminalite",
+   "country_label": "Senegal",
+   "class": "public",
+   "platform": "online platform",
+   "owner": "Police nationale",
+   "tiers": ""
+  }
+ ],
+ "note": "Only an online public reporting platform and annual crime statistics; no station-level digital record stated."
+}

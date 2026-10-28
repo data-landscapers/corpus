@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-25-uga-can-uganda-build-a-legal-public-wi-fi-revolution",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions consumer protection only in regard to unlicensed Wi-Fi resellers; no digital financial services rule."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MYUG sites are in Kampala, Wakiso and Entebbe and dated 2016-2022; no rural programme or rural/urban survey figures."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "NITA-U's MYUG Wi-Fi is described as 2016-2022 history; no 2023-or-later statement of staff running a system."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "UCC met the Kampala City Traders Association and Wi-Fi hotspot operators on 20 October 2026 and announced a multi-stakeholder committee on licensing for resellers.",
+       "as_of": "2026-10-20",
+       "date_precision": "day",
+       "system": "UCC public Wi-Fi licensing committee",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

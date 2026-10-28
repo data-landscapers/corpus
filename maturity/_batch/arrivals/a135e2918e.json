@@ -1,0 +1,169 @@
+{
+ "slug": "2024-09-20-ner-lutte-contre-la-cybercriminalite-la-police-judiciaire-face-aux-nouvell",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Le Sahel reports Niger's law no. 2019-33 of 3 July 2019 on the repression of cybercrime, significantly amended on 12 June 2024 to set penalties for online defamation, insults and harmful data.",
+       "as_of": "2024-06-12",
+       "date_precision": "day",
+       "system": "Loi n°2019-33 portant répression de la cybercriminalité",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Niger."
+    }
+   }
+  }
+ }
+}

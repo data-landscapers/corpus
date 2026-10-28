@@ -1,0 +1,482 @@
+{
+ "slug": "2025-01-01-gnb-guinea-bissau-digital-watch-observatory",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Digital Watch Observatory states Guinea-Bissau has no confirmed comprehensive AI law.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "none",
+       "fact": "Digital Watch Observatory states Guinea-Bissau has no confirmed standalone AI strategy.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "inservice",
+       "fact": "Digital Watch Observatory says the Integrated Civil Registry System (SIREC) now supports electronic registration of births, marriages and deaths.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "SIREC",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "deaths",
+       "value": "digital",
+       "fact": "Digital Watch Observatory says SIREC now supports electronic registration of deaths as well as births and marriages.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "SIREC",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Integrated Civil Registry System (SIREC)",
+       "country_label": "SIREC",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "payroll",
+       "value": "inuse",
+       "fact": "Digital Watch Observatory says Guinea-Bissau has applied blockchain to public administration through a tamper-evident government payroll platform.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "government payroll platform",
+       "class": "core"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "The National Cybersecurity Strategy 2025-2030 is only described as proposing a CSIRT and SOC; no adoption or body created is stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Digital Watch Observatory says Decree No. 10/2025, in force 28 March 2025, approved the National Digital Transformation Strategy 2025-2030 (ENTD.GW).",
+       "as_of": "2025-03-28",
+       "date_precision": "day",
+       "system": "ENTD.GW",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "Digital Watch Observatory gives the National Digital Transformation Strategy (ENTD.GW) as running 2025-2030.",
+       "as_of": "2025-03-28",
+       "date_precision": "day",
+       "system": "ENTD.GW",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Digital Transformation Strategy 2025-2030",
+       "country_label": "ENTD.GW",
+       "class": "national",
+       "platform": "",
+       "owner": "Government of Guinea-Bissau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "WARDIP is said to be financing an exchange point; none stated in service."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "WARDIP is said to be financing a national fibre backbone; no contract or works stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "gendergap": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Digital Watch Observatory says the infrastructure linking Guinea-Bissau to the ACE submarine cable was inaugurated in March 2023.",
+       "as_of": "2023-03",
+       "date_precision": "month",
+       "system": "ACE submarine cable",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an ITU figure of 31.57% with no year given (page says 2018-2023), so not shown to be 2024 or later."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a GSMA index ownership figure of 31.58% of total population, not ITU or survey for ages 10 and over."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "SIREC is stated to support electronic registration but not where the record is made or in how many offices."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Digital Watch Observatory, citing BCEAO, reports 4.82 million electronic money accounts (3.28 million active) and 83.5 million transactions worth CFA 689.1 billion in Guinea-Bissau in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "electronic money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "GNB": {
+     "facts": [
+      {
+       "sub_indicator": "satellite",
+       "aspect": "service",
+       "value": "licensed",
+       "fact": "Digital Watch Observatory says Starlink received regulatory approval in Guinea-Bissau in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Starlink",
+       "class": "satellite"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Starlink",
+       "country_label": "Starlink",
+       "class": "satellite",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Guinea-Bissau."
+    }
+   }
+  }
+ }
+}

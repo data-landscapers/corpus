@@ -1,0 +1,33 @@
+{
+ "slug": "2026-10-27-ken-ictworks-ifc-sama-impact-sourcing-critique",
+ "studies": {
+  "ictjobs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No ICT employment share or national survey youth unemployment figure stated."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No ICT employment share or youth unemployment figure stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No signed 2024-or-later private investment amount stated."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed IFC investment of 2022 reportedly never made; no signed amount stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,187 @@
+{
+ "slug": "2024-10-01-gha-csa-national-cybersecurity-policy-and-strategy",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "The Cyber Security Authority and the Ministry of Communications and Digitalisation issue 'National Cybersecurity Policy and Strategy: A Secure and Resilient Digital Ghana (revised, 2024)', with a President's and Minister's foreword and strategic initiatives under it.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "National Cybersecurity Policy and Strategy (revised, 2024)",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a front-matter excerpt (titles, institution names, figure captions); it states nothing this study asks."
+    }
+   }
+  }
+ }
+}

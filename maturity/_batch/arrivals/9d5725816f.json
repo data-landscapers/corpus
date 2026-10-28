@@ -1,0 +1,34 @@
+{
+ "slug": "2024-12-03-tgo-communique-de-l-ancy-en-rapport-a-l-arnaque-en-ligne-en-actualite",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "The Agence Nationale de la Cybersecurite (ANCy) issued a public alert on 3 December 2024 warning of a fake 45,000 XOF Christmas subsidy scam, and offers CERT.tg incident assistance.",
+       "as_of": "2024-12-03",
+       "date_precision": "day",
+       "system": "ANCy / CERT.tg",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CERT.tg",
+       "country_label": "ANCy",
+       "class": "response",
+       "platform": "",
+       "owner": "Agence Nationale de la Cybersecurite",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

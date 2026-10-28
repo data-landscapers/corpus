@@ -1,0 +1,45 @@
+{
+ "slug": "2026-04-09-ssd-south-sudan-s-new-cybercrime-law-ramps-up-threat-of-jail-for-journalis",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "CPJ reports President Salva Kiir signed the Cybercrimes and Computer Misuse Act, 2026 into law on 18 February, replacing the 2021 Provisional Order.",
+       "as_of": "2026-02-18",
+       "date_precision": "day",
+       "system": "Cybercrimes and Computer Misuse Act, 2026",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": "No dated arrest or prosecution under the Act is stated."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "CPJ says that in 2025 authorities suspended social media to block news from neighbouring Sudan.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "social media",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": "Hot in Juba suspension is for unspecified complaints, not placed."
+    }
+   }
+  }
+ }
+}

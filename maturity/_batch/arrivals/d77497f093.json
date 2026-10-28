@@ -1,0 +1,178 @@
+{
+  "slug": "2026-09-12-cmr-suivi-des-recommandations-du-forum-national-sur-la-cybersecurite-et-la",
+  "studies": {
+    "cybersecurity": {
+      "countries": {
+        "CMR": {
+          "facts": [
+            {
+              "sub_indicator": "readiness",
+              "aspect": "foundation",
+              "value": "body",
+              "fact": "The OBS-CC observatory states that Cameroon's national CIRT, operated by ANTIC, handles watch and receipt of reports and predates the national cybersecurity forums.",
+              "as_of": "2026-09-12",
+              "date_precision": "day",
+              "system": "CIRT national (ANTIC)",
+              "class": "response"
+            }
+          ],
+          "systems": [
+            {
+              "system": "CIRT national",
+              "country_label": "ANTIC",
+              "class": "response",
+              "platform": "",
+              "owner": "ANTIC",
+              "tiers": ""
+            }
+          ],
+          "note": ""
+        }
+      }
+    },
+    "cybersecuritylaw": {
+      "countries": {
+        "CMR": {
+          "facts": [
+            {
+              "sub_indicator": "law",
+              "aspect": "standing",
+              "value": "in-force",
+              "fact": "The OBS-CC observatory states that Cameroon's 2010 cyber law (five titles, 97 articles) remains the applicable law, with no new text promulgated.",
+              "as_of": "2026-09-12",
+              "date_precision": "day",
+              "system": "2010 cyber law",
+              "class": "law"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "datacentres": {
+      "countries": {
+        "CMR": {
+          "facts": [],
+          "systems": [
+            {
+              "system": "Zamengoue data center",
+              "country_label": "Zamengoue Tier III data center",
+              "class": "other",
+              "platform": "",
+              "owner": "CAMTEL",
+              "tiers": "Tier III"
+            }
+          ],
+          "note": "Zamengoue Tier III centre is named but the document does not say it rents to outside organisations."
+        }
+      }
+    },
+    "dataprotectionauthority": {
+      "countries": {
+        "CMR": {
+          "facts": [
+            {
+              "sub_indicator": "body",
+              "aspect": "standing",
+              "value": "provided",
+              "fact": "The OBS-CC observatory states that law no. 2024/017 of 23 December 2024 institutes the Personal Data Protection Authority (APDP).",
+              "as_of": "2024-12-23",
+              "date_precision": "day",
+              "system": "APDP",
+              "class": "authority"
+            },
+            {
+              "sub_indicator": "body",
+              "aspect": "standing",
+              "value": "provided",
+              "fact": "The OBS-CC observatory states that the APDP is not yet installed and that the implementing decree under article 53 has not been taken.",
+              "as_of": "2026-09-12",
+              "date_precision": "day",
+              "system": "APDP",
+              "class": "authority"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "dataprotectionlaw": {
+      "countries": {
+        "CMR": {
+          "facts": [
+            {
+              "sub_indicator": "general",
+              "aspect": "standing",
+              "value": "in-force",
+              "fact": "The OBS-CC observatory states that law no. 2024/017 of 23 December 2024 opened an 18-month transition and that its obligations, including breach notification, have been enforceable since 23 June 2026.",
+              "as_of": "2026-06-23",
+              "date_precision": "day",
+              "system": "Loi n 2024/017",
+              "class": "general"
+            },
+            {
+              "sub_indicator": "general",
+              "aspect": "authority",
+              "value": "provided",
+              "fact": "The OBS-CC observatory states that the APDP created by the law is not yet installed.",
+              "as_of": "2026-09-12",
+              "date_precision": "day",
+              "system": "APDP",
+              "class": "general"
+            },
+            {
+              "sub_indicator": "general",
+              "aspect": "regulations",
+              "value": "none",
+              "fact": "The OBS-CC observatory states that the implementing decree provided by article 53 of the law has not been taken.",
+              "as_of": "2026-09-12",
+              "date_precision": "day",
+              "system": "Loi n 2024/017",
+              "class": "general"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "idverification": {
+      "countries": {
+        "CMR": {
+          "facts": [],
+          "systems": [],
+          "note": "Document states no system checking people against the national ID; SIM identification is mentioned without a link to the national ID."
+        }
+      }
+    },
+    "nationaldatacentres": {
+      "countries": {
+        "CMR": {
+          "facts": [],
+          "systems": [
+            {
+              "system": "Zamengoue data center",
+              "country_label": "Zamengoue Tier III data center",
+              "class": "other",
+              "platform": "",
+              "owner": "CAMTEL",
+              "tiers": "Tier III"
+            }
+          ],
+          "note": "Zamengoue centre is named but the document does not say it is for hire or state CAMTEL's ownership."
+        }
+      }
+    },
+    "police": {
+      "countries": {
+        "CMR": {
+          "facts": [],
+          "systems": [],
+          "note": "Document states nothing on police station records."
+        }
+      }
+    }
+  }
+}

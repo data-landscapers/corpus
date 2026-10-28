@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-12-mus-cybercriminalite-837-cas-signales-en-deux-ans-mais-aucune-condamnation",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MAUCORS+",
+   "country_label": "Mauritian Cybercrime Online Reporting System",
+   "class": "public",
+   "platform": "online portal",
+   "owner": "CERT-MU",
+   "tiers": ""
+  }
+ ],
+ "note": "Says cybercrime reports may be made at any police station; no station record system described."
+}

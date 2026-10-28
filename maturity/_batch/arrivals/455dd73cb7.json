@@ -1,0 +1,90 @@
+{
+ "slug": "2026-10-27-ken-kenya-plans-44-000km-fiber-expansion-to-boost-internet-access",
+ "studies": {
+  "broadbandstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "plan",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Techweez says the National Broadband Strategy 2025-2030 puts Kenya's current fibre at 40,000km and sets a 100,000km target.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "National Broadband Strategy 2025-2030",
+       "class": "plan"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "ruralaccess",
+       "aspect": "measured",
+       "value": "measured",
+       "fact": "The 2023/24 Kenya Housing Survey found 81.9% of urban households and 48.8% of rural households had an internet user.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Kenya Housing Survey 2023/24",
+       "class": "ruralaccess"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Names only the Digital Superhighway programme and a 2022 Digital Master Plan fibre figure; no strategy standing, text, period or reporting stated."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government online service or portal stated."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only planned fibre and a total network length; no contract, works, or capital-to-region service stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only households with an internet user (61.6%) and mobile data subscriptions; no share of people."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Rural household electricity of 49.2% is from a housing survey, not the World Bank series."
+    }
+   }
+  }
+ }
+}

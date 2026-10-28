@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-27-zmb-393-taxpayers-owe-zra-k26m-in-smart-invoicing-fines-ag",
+ "studies": {
+  "revenuecollection": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "E-invoicing fines; no electronic payment stated."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Smart Invoicing System",
+       "country_label": "ZMB",
+       "class": "other",
+       "platform": "",
+       "owner": "Zambia Revenue Authority",
+       "tiers": ""
+      }
+     ],
+     "note": "Smart Invoicing is e-invoicing with no filing or payment stated."
+    }
+   }
+  }
+ }
+}

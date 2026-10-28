@@ -1,0 +1,142 @@
+{
+ "slug": "2026-10-27-cog-crise-du-carburant-les-reseaux-telecoms-a-bout-de-souffle",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "datacentrepower": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "none",
+       "fact": "ARPCE's 27 October 2026 communiqué says nationwide power cuts and scarce diesel strongly disrupt technical sites, core networks and data centres in Congo.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "data centres (unnamed)",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": "No data centre is named; grid-hours and tower diesel figures are not a data centre fact."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ARPCE verification of operators",
+       "country_label": "grid supply averages 9 hours a day",
+       "class": "other",
+       "platform": "",
+       "owner": "ARPCE",
+       "tiers": ""
+      }
+     ],
+     "note": "Nine hours a day of grid supply is not an outage count."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Congo."
+    }
+   }
+  }
+ }
+}

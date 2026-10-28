@@ -1,0 +1,11 @@
+{"slug": "2025-01-03-civ-powering-the-civ1-data-centre-in-cote-d-ivoire", "studies": {
+"datacentrepower": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "power", "aspect": "supply", "value": "secured", "fact": "Raxio Group's CTO says the CIV1 data centre in Abidjan, inaugurated September 2024, is fed by two independent (N+N) 15kV feeders sourced directly from the CIE substation, each able to carry 100% of the load.", "as_of": "2024-09", "date_precision": "month", "system": "CIV1 data centre (Raxio)", "class": "datacentre"}
+], "systems": [{"system": "CIV1 data centre", "country_label": "Cote d'Ivoire", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III"}], "note": "No PUE figure or water use is stated; power set aside for data centres generally is not stated."}}},
+"datacentres": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "African Review reports that Raxio Group's CIV1 in Abidjan, inaugurated September 2024, is the country's first Tier III certified carrier-neutral and cloud-neutral data centre.", "as_of": "2024-09", "date_precision": "month", "system": "CIV1 data centre (Raxio)", "class": "datacentre"}
+], "systems": [{"system": "CIV1 data centre", "country_label": "Cote d'Ivoire", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III"}], "note": "Only one Tier III facility is named; no cloud region is stated."}}},
+"exchangepoints": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document says CIV1 'will also serve as host' to CIVIX, which states no networks exchanging traffic in service."}}},
+"localgov": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document says nothing about local government."}}},
+"nationaldatacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "The document does not state who owns CIV1 beyond naming Raxio Group as operator, so no national ownership is stated."}}}
+}}

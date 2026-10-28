@@ -1,0 +1,73 @@
+{
+ "slug": "2025-04-29-bfa-cybersecurite-les-directeurs-generaux-des-structures-publiques-de-l-et",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The minister for digital transition says the ANSSI national information systems security agency exists and its CSIRT and SOC are in service.",
+       "as_of": "2025-04-29",
+       "date_precision": "day",
+       "system": "ANSSI",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "The minister says Burkina Faso recorded over 200 alerts a month in 2023, with declared attacks handled, ransomware 35% and phishing 40%.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "ANSSI",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSSI",
+       "country_label": "Agence nationale de sécurité des systèmes d'information",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The minister cites a law on information systems security adopted on 9 July 2024.",
+       "as_of": "2024-07-09",
+       "date_precision": "day",
+       "system": "Loi portant sécurité des systèmes d'information",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Data protection is named only as an institutional mission; no law stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2025-07-03-zwe-digital-solutions-to-power-economic-transformation-cyber-threats-rife", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document states no government body using AI."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document states no AI tool in a public sector system."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "ICT Minister Tatenda Mavetera, at the Evolve ICT Summit, cited the implementation of the National Artificial Intelligence Strategy among the sector's policy frameworks.", "as_of": "2025-07-02", "date_precision": "day", "system": "National Artificial Intelligence Strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document states no AI model, dataset or AI computing built or hosted."}}},
+"cybersecurity": {"countries": {"ZWE": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "ICT Minister Tatenda Mavetera cited the implementation of the Cybersecurity Strategy among the sector's key policy frameworks.", "as_of": "2025-07-02", "date_precision": "day", "system": "Cybersecurity Strategy", "class": "response"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Document only says data protection matters to POTRAZ; no law, authority or application stated."}}},
+"satellitebroadband": {"countries": {"ZWE": {"facts": [{"sub_indicator": "satellite", "aspect": "service", "value": "licensed", "fact": "ICT Minister Tatenda Mavetera listed the licensing of low-earth orbit satellite connectivity among the ICT sector's milestones over the past year.", "as_of": "2025-07-03", "date_precision": "day", "system": "low-earth orbit satellite connectivity", "class": "satellite"}], "systems": [], "note": ""}}}
+}}

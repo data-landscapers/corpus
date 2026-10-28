@@ -1,0 +1,223 @@
+{
+ "slug": "2025-10-01-swz-esccom-launches-2025-cybersecurity-awareness-month",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Eswatini's National Cybersecurity Agency enrolled 486 citizens, including 100 civil servants, in free online cybersecurity courses in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "NCA free online cybersecurity courses",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The document names Eswatini's National Cybersecurity Agency (NCA) as running a 2024 awareness campaign; it does not state how the agency was created.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "National Cybersecurity Agency",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Cybersecurity Agency",
+       "country_label": "National Cybersecurity Agency (NCA)",
+       "class": "response",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The Eswatini Data Protection Authority issued guidance notes in 2024 to help businesses comply with the Data Protection Act.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Eswatini Data Protection Authority",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The Eswatini Data Protection Authority was acting in 2024, issuing guidance notes under the Data Protection Act.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Data Protection Act",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "activity",
+       "fact": "The Eswatini Data Protection Authority issued guidance notes in 2024 on personal data processing, surveillance technologies and internal privacy compliance under the Data Protection Act.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Data Protection Act",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Eswatini's National Cybersecurity Agency ran the 'Asiphepheni, Secure Our World' campaign in 2024, reaching over 3,700 pupils and enrolling 486 citizens in free online cybersecurity courses.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Asiphepheni, Secure Our World",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

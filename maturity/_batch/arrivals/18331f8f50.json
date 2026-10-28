@@ -1,0 +1,43 @@
+{
+ "slug": "2025-07-10-tun-le-centre-el-khawarizmi-bloque-une-cyberattaque-ciblant-les-plateforme",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "The Agence nationale de cybersécurité, with the communications ministry, handled an attempted attack on the university data centre, per El Khawarizmi's communiqué.",
+       "as_of": "2025-07-10",
+       "date_precision": "day",
+       "system": "Agence nationale de cybersécurité",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "The university data centre is not stated to rent to outside organisations."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No hire or ownership of a data centre for hire is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "2025-01-09-zaf-specialist-police-investigate-cyber-fraud-prosecutions-remain-low",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The NPA had 37 cybercrime cases on court rolls involving 88 charges under the Cyber Crimes Act of 2020, per the Justice Minister's reply.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "Cyber Crimes Act 2020",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "The NPA had 37 cases on court rolls nationally with 88 charges under the Cyber Crimes Act of 2020, per a parliamentary reply of 29 November 2024.",
+       "as_of": "2024-11-29",
+       "date_precision": "day",
+       "system": "Cyber Crimes Act 2020",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "reported",
+       "fact": "Police Minister Mchunu told Parliament 2,679 cybercrime cases were reported in 2022/23 and 2023/24, with 33 and 50 NPA referrals in the two years.",
+       "as_of": "2024-11",
+       "date_precision": "month",
+       "system": "Cyber Crimes Act 2020",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the prosecuting authority's case system is named, not a court system."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on discussion, cuts or punishment for speech."
+    }
+   }
+  }
+ }
+}

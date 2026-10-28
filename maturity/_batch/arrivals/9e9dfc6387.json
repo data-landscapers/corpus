@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-16-sdn-moj-informatics-crimes-law-penalties-joint-unit",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Sudan's justice minister said amendments passed to the informatics crimes law tighten penalties for deterrence, and that a joint informatics-crimes unit is being formed among the competent bodies.",
+       "as_of": "2026-04-16",
+       "date_precision": "day",
+       "system": "Informatics Crimes Law (amended)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Informatics crimes unit",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice and competent bodies",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

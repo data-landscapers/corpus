@@ -1,0 +1,64 @@
+{
+ "slug": "2025-01-30-sle-sierra-leone-authorities-must-release-and-guarantee-fair-trial-for-haw",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Amnesty International names the Cyber Security and Crime Act 2021 as the law under which Hawa Hunt is prosecuted.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Cyber Security and Crime Act 2021",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Hawa Hunt was arrested on 22 December 2024 and charged with two counts of transmitting insulting messages via a computer system under the Cybersecurity and Crime Act 2021.",
+       "as_of": "2024-12-22",
+       "date_precision": "day",
+       "system": "Cyber Security and Crime Act 2021",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for this country."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "TV personality Hawa Hunt was arrested on 22 December 2024 and held over a month, charged with insulting the President and First Lady in a social media video, per Amnesty International.",
+       "as_of": "2024-12-22",
+       "date_precision": "day",
+       "system": "Cyber Security and Crime Act 2021",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

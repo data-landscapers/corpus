@@ -1,0 +1,623 @@
+{
+ "slug": "2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for this country."
+    }
+   }
+  },
+  "datacentrepower": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "Raxio CTO Rob Saunders says Raxio invests in medium-voltage lines direct from the substation to its facility in each market and always uses two independently sufficient power lines, plus diesel generators.",
+       "as_of": "2025-12-23",
+       "date_precision": "day",
+       "system": "Raxio data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "Raxio CTO Rob Saunders says Raxio invests in medium-voltage lines direct from the substation to its facility in each market and always uses two independently sufficient power lines, plus diesel generators.",
+       "as_of": "2025-12-23",
+       "date_precision": "day",
+       "system": "Raxio data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "Raxio CTO Rob Saunders says Raxio invests in medium-voltage lines direct from the substation to its facility in each market and always uses two independently sufficient power lines, plus diesel generators.",
+       "as_of": "2025-12-23",
+       "date_precision": "day",
+       "system": "Raxio data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No supply fact for a data centre in service."
+    },
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "Raxio CTO Rob Saunders says Raxio invests in medium-voltage lines direct from the substation to its facility in each market and always uses two independently sufficient power lines, plus diesel generators.",
+       "as_of": "2025-12-23",
+       "date_precision": "day",
+       "system": "Raxio data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No supply fact for a data centre in service."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No supply fact for a data centre in service."
+    },
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "Raxio CTO Rob Saunders says Raxio invests in medium-voltage lines direct from the substation to its facility in each market and always uses two independently sufficient power lines, plus diesel generators.",
+       "as_of": "2025-12-23",
+       "date_precision": "day",
+       "system": "Raxio data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No supply fact for a data centre in service."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No supply fact for a data centre in service."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No supply fact for a data centre in service."
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "supply",
+       "value": "secured",
+       "fact": "Raxio CTO Rob Saunders says Raxio invests in medium-voltage lines direct from the substation to its facility in each market and always uses two independently sufficient power lines, plus diesel generators.",
+       "as_of": "2025-12-23",
+       "date_precision": "day",
+       "system": "Raxio data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No supply fact for a data centre in service."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Article says Raxio operates data centres here but does not state they rent space or computing to others."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No outage frequency stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No ownership of a data centre for hire stated for this country."
+    }
+   }
+  }
+ }
+}

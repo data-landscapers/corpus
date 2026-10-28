@@ -1,0 +1,142 @@
+{
+ "slug": "2025-05-27-mli-souverainete-numerique-et-cybersecurite-au-mali-strategie-nationale",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "Sahel Tribune reports that Mali launched its national cybersecurity strategy, with an action plan, at a validation workshop on 30 January 2024.",
+       "as_of": "2024-01-30",
+       "date_precision": "day",
+       "system": "Stratégie nationale de cybersécurité",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ML-CERT",
+       "country_label": "Centre de Réponse aux Incidents (ML-CERT), run through AMRTP",
+       "class": "response",
+       "platform": "",
+       "owner": "AMRTP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mali."
+    }
+   }
+  }
+ }
+}

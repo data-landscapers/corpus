@@ -1,0 +1,53 @@
+{
+ "slug": "2026-02-08-eth-ethiopia-foils-over-27-000-cyberattacks-in-first-half-of-2025-26-fisca",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "INSA announced that of 27,773 cyberattacks on national digital infrastructure in the first six months of the 2025/26 fiscal year, 27,505 (99.03%) were neutralised.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "INSA",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "figures",
+       "value": "published",
+       "fact": "INSA's mid-year review published a count of 27,773 attacks and 27,505 neutralised for the first half of fiscal 2025/26.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "INSA",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "INSA",
+       "country_label": "Information Network Security Administration",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Ethiopia",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Only electronic invoicing at the Ministry of Revenue is mentioned; no electronic payment of taxes or fees stated."
+    }
+   }
+  }
+ }
+}

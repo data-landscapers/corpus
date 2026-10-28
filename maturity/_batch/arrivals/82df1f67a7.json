@@ -1,0 +1,161 @@
+{
+ "slug": "2025-10-15-mrt-cybersecurite-en-mauritanie-entre-strategies-sur-papier-et-urgences-op",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Analyst Ibrahima Bass writes that the Agence Nationale de Cybersécurité et de Certification Électronique (ANCCE) was created by decree in April 2024 but is not yet operational.",
+       "as_of": "2024-04",
+       "date_precision": "month",
+       "system": "Agence Nationale de Cybersécurité et de Certification Électronique (ANCCE)",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "Analyst Ibrahima Bass writes that Mauritania adopted its Stratégie nationale de sécurité numérique 2022-2025 in February 2022.",
+       "as_of": "2022-02",
+       "date_precision": "month",
+       "system": "Stratégie nationale de sécurité numérique 2022-2025",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Agence Nationale de Cybersécurité et de Certification Électronique (ANCCE)",
+       "country_label": "ANCCE",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Mauritania",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritania."
+    }
+   }
+  }
+ }
+}

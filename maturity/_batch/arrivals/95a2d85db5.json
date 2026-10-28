@@ -1,0 +1,14 @@
+{"slug": "2026-10-26-gha-ghana-hubs-network-statement-on-the-proposed-national-ai-computing-centre", "studies": {
+"aistrategy": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Ghana Hubs Network statement refers to the National AI Strategy (2025-2035) as the strategy whose implementation the President has committed funds to.", "as_of": "2026-10-26", "date_precision": "day", "system": "National AI Strategy (2025-2035)", "class": "strategy"},
+{"sub_indicator": "strategy", "aspect": "use", "value": "funded", "fact": "The Ghana Hubs Network says the President has committed US$20 million to the short- to medium-term implementation of the National AI Strategy (2025-2035).", "as_of": "2026-10-26", "date_precision": "day", "system": "National AI Strategy (2025-2035)", "class": "strategy"}
+], "systems": [{"system": "National AI Strategy (2025-2035)", "country_label": "Ghana", "class": "strategy", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Ghana Hubs Network says Cabinet has approved US$250 million for a national AI computing centre, and that the Communications Minister said Phase One is due within 24 months with procurement under way at the Public Procurement Authority.", "as_of": "2026-10-26", "date_precision": "day", "system": "National AI computing centre", "class": "localai"}
+], "systems": [{"system": "National AI computing centre", "country_label": "Ghana", "class": "localai", "platform": "", "owner": "Government of Ghana", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document states no data centre for hire in service; the national AI computing centre is planned."}}},
+"nationaldatacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire in service is stated; the planned AI computing centre is not in service."}}},
+"publicconsultation": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The network asks for consultation on the AI computing centre; it does not state that the government consulted anyone."}}},
+"startups": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No startup law, label or fund is stated; startup access to the planned centre is only requested."}}},
+"techhubs": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The document names no hub, programme, city or park in service."}}}
+}}

@@ -1,0 +1,10 @@
+{"slug":"2026-10-27-ben-apdp-cooperation-cybersecurity-digital-sovereignty","studies":{
+"datacentres":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Only advocates national data centres; names no data centre for hire or cloud region."}}},
+"dataprotectionauthority":{"countries":{"BEN":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"The article identifies Luciano Hounkponou as President of Benin's Personal Data Protection Authority (APDP), speaking for it at the 15th One Africa Digital Forum in Cotonou.","as_of":"2026-10-27","date_precision":"day","system":"APDP","class":"authority"}],"systems":[{"system":"APDP","country_label":"Benin","class":"authority","platform":"","owner":"state","tiers":""}],"note":""}}},
+"dataprotectionlaw":{"countries":{"BEN":{"facts":[{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"The article identifies Luciano Hounkponou as President of Benin's Personal Data Protection Authority (APDP), which sits on a regulators' panel.","as_of":"2026-10-27","date_precision":"day","system":"APDP","class":"general"}],"systems":[],"note":""}}},
+"digitalsovereignty":{"countries":{"BEN":{"facts":[],"systems":[],"note":"The APDP president advocates national data centres and less offshore hosting; no government strategy, rule, hosting or contract is stated."}}},
+"nationaldatacentres":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Names no nationally owned data centre for hire."}}},
+"policyresearch":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No local research institution is named."}}},
+"startups":{"countries":{"BEN":{"facts":[],"systems":[],"note":"Only mentions regulatory experimentation for start-ups as a stated aim; no law, strategy or fund."}}},
+"techhubs":{"countries":{"BEN":{"facts":[],"systems":[],"note":"No hub, incubator or park is named."}}}
+}}

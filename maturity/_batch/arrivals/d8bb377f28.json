@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-11-eth-ethiopia-strengthens-digital-defenses-with-new-cybersecurity-legislati",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "figures",
+       "value": "published",
+       "fact": "INSA recorded 27,773 cyberattacks against national digital infrastructure in the first half of fiscal year 2025/2026, per Ecofin Agency.",
+       "as_of": "2026-06-11",
+       "date_precision": "day",
+       "system": "INSA",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "INSA said it neutralized 99% of the 27,773 cyberattacks recorded in the first half of fiscal year 2025/2026.",
+       "as_of": "2026-06-11",
+       "date_precision": "day",
+       "system": "INSA",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "INSA",
+       "country_label": "Information Network Security Administration",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

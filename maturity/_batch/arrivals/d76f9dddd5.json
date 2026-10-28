@@ -1,0 +1,12 @@
+{"slug": "2026-10-26-zaf-information-regulator-fines-central-johannesburg-tvet-college-and-firs", "studies": {
+"accesstoinformationlaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The statement concerns POPIA only and says nothing of the access to information law."}}},
+"dataprotectionauthority": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Information Regulator issued a media statement over its chairperson Adv. FDP Tlakula and named full-time and part-time members and a chief executive officer.", "as_of": "2026-10-26", "date_precision": "day", "system": "Information Regulator", "class": "authority"},
+{"sub_indicator": "body", "aspect": "rulings", "value": "ruled", "fact": "The Information Regulator says it imposed administrative fines of R500,000 on Central Johannesburg TVET College for failing to comply with its 22 May 2026 enforcement notice, and R1 million on First National Bank for a section 105 offence under POPIA.", "as_of": "2026-10-26", "date_precision": "day", "system": "Information Regulator", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Information Regulator, chaired by Adv. FDP Tlakula, issued enforcement and infringement notices under POPIA.", "as_of": "2026-10-26", "date_precision": "day", "system": "Information Regulator", "class": "general"},
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Information Regulator imposed fines and issued enforcement notices under the Protection of Personal Information Act (POPIA), including a 22 May 2026 enforcement notice.", "as_of": "2026-10-26", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The Information Regulator fined Central Johannesburg TVET College R500,000 for non-compliance with its 22 May 2026 POPIA enforcement notice and First National Bank R1 million for a section 105 offence over section 19 security safeguards.", "as_of": "2026-10-26", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"}
+], "systems": [], "note": ""}}}
+}}

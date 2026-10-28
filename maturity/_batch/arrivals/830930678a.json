@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-06-tgo-communique-de-presse-relatif-a-l-atelier-de-presentation-de-la-strateg",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "Togo's national cybersecurity agency ANCy presented the National Cybersecurity Strategy 2024-2028, with four pillars, to some 300 stakeholders in Lome.",
+       "as_of": "2024-10-04",
+       "date_precision": "day",
+       "system": "ANCy",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Agence Nationale de la Cybers\u00e9curit\u00e9 (ANCy)",
+       "country_label": "ANCy",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Togo",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

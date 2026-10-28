@@ -1,0 +1,153 @@
+{
+ "slug": "2026-09-02-mus-financial-sector-urged-to-strengthen-cyber-resilience-amid-evolving-th",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Minister Ramtohul announced that the Cybersecurity and Cybercrime Act 2021 is being reviewed to revise definitions and add social media aspects, with a three-month sensitisation campaign before the revised law comes into force.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "Cybersecurity and Cybercrime Act 2021",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Minister Ramtohul said the National Data Strategy (2025-2029) guides Government, people and businesses on how to handle and process data.",
+       "as_of": "2026-09-02",
+       "date_precision": "day",
+       "system": "National Data Strategy (2025-2029)",
+       "class": "policy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Mauritius."
+    }
+   }
+  }
+ }
+}

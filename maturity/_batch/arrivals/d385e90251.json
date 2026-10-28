@@ -1,0 +1,10 @@
+{"slug": "2026-10-27-som-somalia-opens-fourth-national-cybersecurity-forum-in-mogadishu", "studies": {
+"aiabuse": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing on AI in government administration."}}},
+"aisectoral": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The document says nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"SOM": {"facts": [], "systems": [], "note": "A university specialization in Cybersecurity and AI is a course, not AI built or hosted."}}},
+"cybersecurity": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Minister of Communications and Technology highlighted the launch of the Somalia Computer Incident Response Team (SOMCIRT) in March 2026, run by the National Communications Authority.", "as_of": "2026-03", "date_precision": "month", "system": "SOMCIRT", "class": "response"}
+], "systems": [{"system": "SOMCIRT", "country_label": "Somalia Computer Incident Response Team (SOMCIRT)", "class": "response", "platform": "", "owner": "National Communications Authority", "tiers": ""}], "note": ""}}},
+"stemgraduates": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No STEM graduate share or research and education network stated; the university specialization is a programme and the Cybersecurity Academy is planned."}}}
+}}

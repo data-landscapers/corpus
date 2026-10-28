@@ -1,0 +1,126 @@
+{
+ "slug": "2026-09-02-cmr-prosper-pagou-antic-en-2025-nous-avons-enregistre-17-500-plaintes-pour",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The document names a Computer Incident Response Team (CIRT) within ANTIC, Cameroon's agency, which records complaints and acts against cybercrime, and says the law requires companies to report cybercrime to ANTIC.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ANTIC CIRT",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "ANTIC says it detected and blocked 33 fraudulent loan apps, suspended 111 harassers' phone numbers and closed 4,110 of 5,533 detected fake Facebook accounts in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ANTIC CIRT",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "figures",
+       "value": "published",
+       "fact": "ANTIC states that in 2025 it recorded 17,500 complaints with total losses of 5.8 billion FCFA, and that 21,280 machines in Cameroon were in botnets.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ANTIC CIRT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANTIC CIRT",
+       "country_label": "ANTIC (Computer Incident Response Team)",
+       "class": "response",
+       "platform": "",
+       "owner": "ANTIC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only 'close to 50%' penetration, no exact figure or source."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Cameroon."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "slug": "2026-03-03-dza-mdn-le-contenu-de-la-strategie-nationale-de-la-securite-des-systemes-d",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "ASSI, under the defence ministry, unveiled the first National Information Systems Security Strategy 2025-2029, approved by President Tebboune.",
+       "as_of": "2026-03-03",
+       "date_precision": "day",
+       "system": "National Information Systems Security Strategy 2025-2029",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ASSI",
+       "country_label": "Agence de la sécurité des systèmes d'information",
+       "class": "response",
+       "platform": "",
+       "owner": "Ministry of National Defence",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "ASSI's director general announced a draft cybersecurity bill (avant-projet de loi) to make security measures mandatory for institutions.",
+       "as_of": "2026-03-03",
+       "date_precision": "day",
+       "system": "Draft cybersecurity bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Sovereignty named only as a principle of a cybersecurity strategy; no state-data rule or hosting stated."
+    }
+   }
+  }
+ }
+}

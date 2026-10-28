@@ -1,0 +1,72 @@
+{
+ "slug": "2026-05-13-mrt-mauritania-trains-judges-lawyers-on-cybercrime-targeting-minors",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the Malabo ratification is stated; no general law, authority or application."
+    }
+   }
+  },
+  "dataprotectionreadiness": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "system",
+       "aspect": "treaty",
+       "value": "ratified",
+       "fact": "Ecofin, citing the document, says Mauritania approved ratification of the African Union Convention on Cyber Security and Personal Data Protection in January 2023.",
+       "as_of": "2023-01",
+       "date_precision": "month",
+       "system": "Malabo Convention",
+       "class": "system"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a DataReportal figure, which is noted and never used."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Cybercrime unit and workshop only; no station records system stated."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "harmonisation",
+       "aspect": "accepted",
+       "value": "ratified",
+       "fact": "Ecofin, citing the document, says Mauritania approved ratification of the African Union Convention on Cyber Security and Personal Data Protection in January 2023.",
+       "as_of": "2023-01",
+       "date_precision": "month",
+       "system": "Malabo Convention",
+       "class": "harmonisation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

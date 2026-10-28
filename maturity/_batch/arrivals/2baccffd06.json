@@ -1,0 +1,11 @@
+{"slug": "2026-10-27-lbr-iic-proposes-regional-hub-grand-gedeh-survey-backs-decentralized-access", "studies": {
+"accesstoinformationlaw": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Analyst reports that Liberia enacted its Freedom of Information Act in 2010 and that the Independent Information Commission surveyed awareness of it in Grand Gedeh County in October 2026.", "as_of": "2026-10", "date_precision": "month", "system": "Freedom of Information Act of 2010", "class": "law"},
+{"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The Independent Information Commission, led by Information Commissioner Joash T. Hodges with compliance and outreach directors, is reported at work running a knowledge survey in Grand Gedeh County on 14-17 October 2026.", "as_of": "2026-10-17", "date_precision": "day", "system": "Independent Information Commission", "class": "law"}
+], "systems": [{"system": "Freedom of Information Act of 2010", "country_label": "Liberia", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"datagovernance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on a national data policy."}}},
+"internetusage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The 77.6% regular internet use is a Grand Gedeh County survey sample, not a national population share."}}},
+"opendatapolicy": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document states nothing on an open data policy."}}},
+"opendatause": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The document names no data published for download."}}},
+"publicconsultation": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The survey concerns awareness of the FOI Act, not consultation on a named digital law or policy."}}}
+}}

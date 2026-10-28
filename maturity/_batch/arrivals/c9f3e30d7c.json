@@ -1,0 +1,15 @@
+{"slug": "2026-07-15-lby-cabinet-decision-358-2026-cybersecurity-digital-sovereignty-authority", "studies": {
+"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision states nothing this study asks."}}},
+"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision states nothing this study asks."}}},
+"cybersecurity": {"countries": {"LBY": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Cabinet Decision 358 of 2026, signed by Prime Minister Dbeibah, creates the National Authority for Cybersecurity and Digital Sovereignty as a public body under the Council of Ministers, with duties including threat monitoring, early warning and incident response.", "as_of": "2026-07-15", "date_precision": "day", "system": "National Authority for Cybersecurity and Digital Sovereignty", "class": "response"}], "systems": [{"system": "National Authority for Cybersecurity and Digital Sovereignty", "country_label": "الهيئة الوطنية للأمن السيبراني والسيادة الرقمية", "class": "response", "platform": "", "owner": "Council of Ministers, Government of National Unity", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision sets no data protection law; it only tasks the authority with data protection guides."}}},
+"digitalsovereignty": {"countries": {"LBY": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Cabinet Decision 358 of 2026 charges the new authority with preparing national digital sovereignty policies, classifying national data, regulating hosting of national data and government cloud, setting controls on transferring data abroad, and supporting a sovereign government cloud.", "as_of": "2026-07-15", "date_precision": "day", "system": "National Authority for Cybersecurity and Digital Sovereignty", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision states nothing this study asks."}}},
+"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision states nothing this study asks."}}},
+"idmaintenance": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision states nothing this study asks."}}},
+"idregisters": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision states nothing this study asks."}}},
+"idrobustness": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision only lists protecting the national digital identity among the authority's duties; no system is described."}}},
+"metsatellite": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision states nothing this study asks."}}},
+"nationaldatacentres": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision names no data centre or owner."}}},
+"police": {"countries": {"LBY": {"facts": [], "systems": [], "note": "The decision states nothing this study asks."}}}
+}}

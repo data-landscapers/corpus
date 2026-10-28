@@ -1,0 +1,10 @@
+{"slug": "2026-10-27-eth-kacha-mastercard-ink-deal-to-expand-card-issuance-in-ethiopia", "studies": {
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ETH": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "The Reporter says Kacha Digital Financial Service is Ethiopia's first privately owned payment instrument issuer licensed by the National Bank of Ethiopia.", "as_of": "2026-10-27", "date_precision": "day", "system": "Kacha Digital Financial Service", "class": "oversight"}], "systems": [{"system": "EthSwitch", "country_label": "Ethiopia", "class": "other", "platform": "national payment switch", "owner": "EthSwitch", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Mastercard cards for cross-border access name no corridor."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "EthSwitch gateway is described only generally; no wallet-bank switch or mobile money service stated."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

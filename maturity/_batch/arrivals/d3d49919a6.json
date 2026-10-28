@@ -1,0 +1,54 @@
+{
+ "slug": "2024-11-28-mwi-macra-submits-bills-on-cyber-crime-to-justice-ministry",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Malawi's MACRA Director General Daudi Suleman said the cyber crimes and cyber security bills had been submitted to the Ministry of Justice awaiting parliamentary review.",
+       "as_of": "2024-11-28",
+       "date_precision": "day",
+       "system": "Cyber crimes and cyber security bills",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "eparticipation": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The bills passed a public stakeholders stage but the document does not say it was online."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "The cyber crimes, cyber security, e-evidence and e-transaction bills are reported to have passed the public stakeholders stage before going to the Ministry of Justice.",
+       "as_of": "2024-11-28",
+       "date_precision": "day",
+       "system": "Cyber crimes and cyber security bills",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

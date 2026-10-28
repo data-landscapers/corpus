@@ -1,0 +1,65 @@
+{
+ "slug": "2026-08-04-mli-journalist-in-mali-sentenced-to-a-year-in-prison",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Human Rights Watch reports Mali has cybercrime legislation under which a national cybercrime court in Bamako operates.",
+       "as_of": "2026-08-03",
+       "date_precision": "day",
+       "system": "Mali cybercrime legislation",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Human Rights Watch reports the national cybercrime court in Bamako sentenced editor Chahana Takiou to one year in prison on 3 August 2026 under the cybercrime law, after his arrest on 8 June.",
+       "as_of": "2026-08-03",
+       "date_precision": "day",
+       "system": "Mali cybercrime legislation",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Human Rights Watch reports journalist Chahana Takiou was convicted and sentenced to one year in prison on 3 August 2026 for criticising the prosecution of a fellow journalist; Abdramane Keita was also arrested on 9 June 2026 after comments on television.",
+       "as_of": "2026-08-03",
+       "date_precision": "day",
+       "system": "Mali cybercrime legislation",
+       "class": "discussion"
+      },
+      {
+       "sub_indicator": "discussion",
+       "aspect": "debate",
+       "value": "criticised",
+       "fact": "Human Rights Watch reports Chahana Takiou, editor of the biweekly 22 Septembre, publicly criticised the authorities for prosecuting journalist Youssouf Sissoko under the cybercrime law rather than the press laws.",
+       "as_of": "2026-06-08",
+       "date_precision": "day",
+       "system": "22 Septembre",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

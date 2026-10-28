@@ -1,0 +1,70 @@
+{
+ "slug": "2026-04-28-mus-key-initiatives-are-underway-to-strengthen-the-capacity-of-the-cybercr",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CERT-MU",
+       "country_label": "CERT-MU",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "CERT-MU is named only as collaborating on a forensic laboratory; no creation, alert or designation is stated; CII audit amendments are planned."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Mauritius Prime Minister told the National Assembly that the Ministry of IT is preparing amendments to the existing Cybersecurity and Cybercrime Act.",
+       "as_of": "2026-04-28",
+       "date_precision": "day",
+       "system": "Cybersecurity and Cybercrime Act",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": "Arrests are not stated to be under the Act."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The Data Protection Office is named only as collaborating on a forensic laboratory."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a police Cybercrime Unit and forensic support are described; no station records."
+    }
+   }
+  }
+ }
+}

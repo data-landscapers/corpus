@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-03-fccpc-quitting-nigeria-does-not-absolve-meta",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Concerns Meta/WhatsApp privacy and consumer practices, not digital financial services."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "The FCCPC says it found Meta and WhatsApp in repeated breach of the Nigeria Data Protection Regulation, including unauthorised transfer of user data, and the Tribunal affirmed its order.",
+       "as_of": "2025-05-03",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Regulation",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

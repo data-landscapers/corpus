@@ -1,0 +1,52 @@
+{
+ "slug": "2026-10-24-swz-e15-million-uneswa-unipod-hub-to-drive-youth-innovation-and-job-creati",
+ "studies": {
+  "ictjobs": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No ICT employment share or youth unemployment figure stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, strategy, labelling or public startup fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "The University of Eswatini's Vice-Chancellor announced a UNDP-funded E15 million University Innovation Pod (UNIPOD) hub under construction at the university library, to give students space and equipment to start businesses.",
+       "as_of": "2026-10-24",
+       "date_precision": "day",
+       "system": "UNIPOD",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "UNIPOD",
+       "country_label": "Eswatini",
+       "class": "hub",
+       "platform": "",
+       "owner": "University of Eswatini",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-27-nga-meta-google-microsoft-support-inec-false-claims-2027",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Company pledges to support INEC; no rule, authority or enforcement stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "GovGuide Nigeria",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "chatbot",
+       "owner": "not stated",
+       "tiers": ""
+      }
+     ],
+     "note": "GovGuide cited by Meta; no government body is said to use it."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector system using AI stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only foreign company tools and a hackathon launch; no local build stated."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on cuts, criticism or punishment."
+    }
+   }
+  }
+ }
+}

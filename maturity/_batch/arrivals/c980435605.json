@@ -1,21 +1,12 @@
 {
  "slug": "2026-07-06-cmr-la-loi-sur-la-protection-des-donnees-personnelles-entre-officiellement",
  "studies": {
-  "dataprotectionauthority": {
+  "cybersecuritylaw": {
    "countries": {
     "CMR": {
      "facts": [],
      "systems": [],
-     "note": "Mentions only an unnamed 'autorité de régulation'; no authority named or appointed."
-    }
-   }
-  },
-  "localgov": {
-   "countries": {
-    "CMR": {
-     "facts": [],
-     "systems": [],
-     "note": "Law applies to local authorities; nothing on office connection."
+     "note": "About the data protection law; no cybercrime or cybersecurity law stated."
     }
    }
   }

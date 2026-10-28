@@ -1,0 +1,45 @@
+{
+ "slug": "2026-06-20-mus-cybersecurity-and-cybercrime-critical-information-infrastructure-desig",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The gazetted regulations refer to the National Cybersecurity Committee established under section 3 of the Cybersecurity and Cybercrime Act 2021, which may designate critical information infrastructure.",
+       "as_of": "2026-06-01",
+       "date_precision": "day",
+       "system": "National Cybersecurity Committee",
+       "class": "response"
+      }
+     ],
+     "systems": [],
+     "note": "Regulations set the designation mechanism for five sectors; no system is stated as designated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Government Gazette publishes the Critical Information Infrastructure Designation Regulations 2026 under the Cybersecurity and Cybercrime Act 2021, in operation from 1 June 2026.",
+       "as_of": "2026-06-01",
+       "date_precision": "day",
+       "system": "Cybersecurity and Cybercrime Act 2021",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

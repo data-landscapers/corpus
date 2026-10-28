@@ -1,0 +1,9 @@
+{"slug": "2025-09-05-zaf-teraco-releases-fourth-annual-sustainability-report", "studies": {
+"datacentrepower": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "power", "aspect": "pue", "value": "low", "fact": "Teraco states it achieved an average annual Power Usage Effectiveness (PUE) of 1.47 in 2024 across its data centres.", "as_of": "2024", "date_precision": "year", "system": "Teraco data centres", "class": "datacentre"},
+{"sub_indicator": "power", "aspect": "water", "value": "published", "fact": "Teraco states its data centres used just 0.05 litres of water per kWh in 2024 and that it uses zero-water cooling solutions.", "as_of": "2024", "date_precision": "year", "system": "Teraco data centres", "class": "datacentre"}
+], "systems": [{"system": "Teraco data centres", "country_label": "South Africa", "class": "datacentre", "platform": "", "owner": "Teraco", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Teraco is called a data centre operator, but the document does not state that it rents space, power or computing, nor any Tier or cloud region."}}},
+"digitaldivides": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a Teraco education and digital inclusion spend; no rural access programme or rural/urban survey figures."}}},
+"nationaldatacentres": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document states no ownership, Tier or government hosting."}}}
+}}

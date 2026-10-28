@@ -1,0 +1,278 @@
+{
+ "slug": "2026-10-27-ago-infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "AngolaID",
+       "class": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "INFOSI, Angola's information-society agency, certified and approved Tech by Tech's AngolaID identity verification and authentication platform for use nationwide, available as a free app."
+      },
+      {
+       "sub_indicator": "authentication",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "AngolaID",
+       "class": "authentication",
+       "aspect": "remote",
+       "value": "wallet",
+       "fact": "After face-match verification and proof of life, AngolaID users get a digital identity wallet with authentication and QR-code verification, which INFOSI certified for nationwide use."
+      }
+     ],
+     "systems": [
+      {
+       "system": "AngolaID",
+       "country_label": "Angola",
+       "class": "authentication",
+       "platform": "mobile app (Google Play, App Store)",
+       "owner": "Tech by Tech (private)",
+       "tiers": "certified by INFOSI"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the document states answers this study."
+    }
+   }
+  }
+ }
+}

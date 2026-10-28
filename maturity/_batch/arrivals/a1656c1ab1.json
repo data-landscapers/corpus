@@ -1,0 +1,68 @@
+{
+ "slug": "2026-10-26-tun-tunisie-12-millions-de-mots-de-passe-exposes-aux-risques-du-dark-web",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Article does not mention AI harms rules."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI system stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No local AI build stated."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Expert only praises the national agency's speed in general; no dated incident or alert stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure stated."
+    }
+   }
+  }
+ }
+}

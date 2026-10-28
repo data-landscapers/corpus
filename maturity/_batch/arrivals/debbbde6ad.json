@@ -1,0 +1,92 @@
+{
+ "slug": "2025-07-19-sen-division-speciale-de-cybersecurite-police-des-reseaux-sociaux-gardien",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Le Soleil says Senegal's cybercrime law was promulgated on 25 January 2008 and governs the police Division speciale de cybersecurite.",
+       "as_of": "2008-01-25",
+       "date_precision": "day",
+       "system": "Loi sur la cybercriminalite 2008",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Le Soleil reports Moustapha Diakhate was tried and sentenced on 28 November 2024 to two months in prison after a hearing at the Division speciale de cybersecurite for an insult committed through a computer system.",
+       "as_of": "2024-11-28",
+       "date_precision": "day",
+       "system": "Loi sur la cybercriminalite 2008",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "reported",
+       "fact": "Le Soleil, citing the police 2024 annual report, says 3,902 of 18,951 offences were cybercrime complaints, of which 223 were cleared.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Loi sur la cybercriminalite 2008",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "penalty",
+       "value": "punished",
+       "fact": "Le Soleil reports journalist Bachir Fofana was held from 25 June 2025, placed under committal and tried on 2 July 2025 for spreading false news, and commentator Badara Gadiaga was jailed from 14 July 2025 over remarks about Ousmane Sonko.",
+       "as_of": "2025-07-14",
+       "date_precision": "day",
+       "system": "Division speciale de cybersecurite",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Division speciale de cybersecurite",
+       "country_label": "Senegal",
+       "class": "other",
+       "platform": "",
+       "owner": "Police nationale",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a cybercrime police unit and complaint counts, not a station record system."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

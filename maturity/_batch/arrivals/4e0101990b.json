@@ -1,0 +1,23 @@
+{
+ "slug": "2026-04-19-dza-gendarmerie-nationale-2025-moins-de-crimes-plus-de-cyberattaques",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Gendarmerie cybercrime case counts only; no national cyber body or alert stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Annual crime statistics only; no station record system stated."
+    }
+   }
+  }
+ }
+}

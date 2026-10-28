@@ -1,0 +1,25 @@
+{
+ "slug": "2024-05-03-nga-nsa-orders-enforcement-of-cybercrimes-law",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The National Security Adviser directed agencies and regulators to put in place mechanisms for full implementation and enforcement of the Cybercrimes (Prohibition, Prevention, Etc) Amendment Act 2024, saying all impediments to its operationalisation were addressed.",
+       "as_of": "2024-05-03",
+       "date_precision": "day",
+       "system": "Cybercrimes (Prohibition, Prevention, Etc) Amendment Act 2024",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

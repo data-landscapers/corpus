@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-19-tza-the-cybercrimes-protection-of-critical-information-infrastructure-orde",
+  "studies": {
+    "cybersecurity": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "readiness", "aspect": "cii", "value": "designated", "fact": "Government Notice No. 147 of 19 June 2026, made by the Minister for Communication and Information Technology under section 28 of the Cybercrimes Act (Cap. 443), designates 25 categories of computer systems as critical information infrastructure and requires owners to register them with the Ministry and submit quarterly risk assessments.", "as_of": "2026-06-19", "date_precision": "day", "system": "The Cybercrimes (Protection of Critical Information Infrastructure) Order, 2026", "class": "response"}
+    ], "systems": [], "note": ""}}},
+    "cybersecuritylaw": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Government Notice No. 147, published 19 June 2026, is an Order made under section 28 of the Cybercrimes Act (Cap. 443) that sets duties on owners of designated critical information infrastructure, showing the Act is in force.", "as_of": "2026-06-19", "date_precision": "day", "system": "Cybercrimes Act (Cap. 443); Cybercrimes (Protection of Critical Information Infrastructure) Order, 2026", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "datacentres": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Data centres are only named as a designated category of critical infrastructure; none is stated as renting to others."}}},
+    "datalocalisation": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "Paragraph 8 of the Cybercrimes (Protection of Critical Information Infrastructure) Order, 2026 (GN 147, 19 June 2026) requires owners of critical information infrastructure to host all related data within the United Republic, and to seek the Minister's approval to host primary or secondary data outside it.", "as_of": "2026-06-19", "date_precision": "day", "system": "Cybercrimes (Protection of Critical Information Infrastructure) Order, 2026", "class": "rule"},
+      {"sub_indicator": "rule", "aspect": "use", "value": "enforcer", "fact": "The Order makes the Minister the approver of offshore hosting of critical infrastructure data and has the Ministry responsible for ICT keep the register, receive reports and audit and inspect the infrastructure at least annually.", "as_of": "2026-06-19", "date_precision": "day", "system": "Cybercrimes (Protection of Critical Information Infrastructure) Order, 2026", "class": "rule"}
+    ], "systems": [], "note": ""}}},
+    "dataprotectionlaw": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Names the Personal Data Protection Act only in a checklist; states nothing on its standing or application."}}},
+    "egovservices": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on online government services."}}},
+    "exchangepoints": {"countries": {"TZA": {"facts": [], "systems": [], "note": "National Internet Exchange Points are only a designated category; no exchange is stated in service."}}},
+    "internationalbandwidth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Submarine cable landing stations are only a designated category; no route is stated."}}},
+    "interoperabilitylaw": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Says nothing on public bodies sharing data."}}},
+    "nationaldatacentres": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on the ownership of any data centre for hire."}}},
+    "offsitebackup": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Requires owners to keep functional disaster recovery sites but names no site, place or distance."}}}
+  }
+}

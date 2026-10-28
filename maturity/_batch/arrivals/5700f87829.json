@@ -1,0 +1,123 @@
+{
+  "slug": "2026-02-18-nam-cybercrime-bill-in-the-pipeline-for-namibia",
+  "studies": {
+    "accesstoinformationlaw": {
+      "countries": {
+        "NAM": {
+          "facts": [
+            {
+              "sub_indicator": "law",
+              "aspect": "standing",
+              "value": "in-force",
+              "fact": "The Villager lists the access to information act among the laws Namibia has in place, besides the cybercrime bill, in its report on the MICT stakeholder engagement.",
+              "as_of": "2026-02-18",
+              "date_precision": "day",
+              "system": "access to information act",
+              "class": "law"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "cybersecuritylaw": {
+      "countries": {
+        "NAM": {
+          "facts": [
+            {
+              "sub_indicator": "law",
+              "aspect": "standing",
+              "value": "bill",
+              "fact": "A draft Cybercrime Bill was presented at a MICT public stakeholders' engagement in Windhoek, and the article says Namibia has no legislation yet directly governing cyber criminal behaviour.",
+              "as_of": "2026-02-18",
+              "date_precision": "day",
+              "system": "Cybercrime Bill",
+              "class": "law"
+            }
+          ],
+          "systems": [
+            {
+              "system": "Cybercrime Bill",
+              "country_label": "Namibia",
+              "class": "law",
+              "platform": "",
+              "owner": "Ministry of Information and Communication Technology",
+              "tiers": ""
+            }
+          ],
+          "note": ""
+        }
+      }
+    },
+    "dataprotectionlaw": {
+      "countries": {
+        "NAM": {
+          "facts": [
+            {
+              "sub_indicator": "general",
+              "aspect": "standing",
+              "value": "drafting",
+              "fact": "The article refers to a separate data protection bill, which with the cybercrime bill was withdrawn from the National Assembly for further development, with the last such presentation before 2020.",
+              "as_of": "2026-02-18",
+              "date_precision": "day",
+              "system": "data protection bill",
+              "class": "general"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "ecommercelaw": {
+      "countries": {
+        "NAM": {
+          "facts": [
+            {
+              "sub_indicator": "law",
+              "aspect": "standing",
+              "value": "in-force",
+              "fact": "The Villager lists the electronic transactions act among the laws Namibia has in place, besides the cybercrime bill, in its report on the MICT stakeholder engagement.",
+              "as_of": "2026-02-18",
+              "date_precision": "day",
+              "system": "electronic transactions act",
+              "class": "law"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "publicconsultation": {
+      "countries": {
+        "NAM": {
+          "facts": [
+            {
+              "sub_indicator": "consultation",
+              "aspect": "hearing",
+              "value": "held",
+              "fact": "The Ministry of Information and Communication Technology held a public stakeholders' engagement in Windhoek on the draft Cybercrime Bill, which drew members of the public.",
+              "as_of": "2026-02-18",
+              "date_precision": "day",
+              "system": "Cybercrime Bill stakeholder engagement",
+              "class": "consultation"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "qualitystandards": {
+      "countries": {
+        "NAM": {
+          "facts": [],
+          "systems": [],
+          "note": "Only says Namibia Standards Institute and ITU guidelines could be integrated into cybercrime law; no standard, body status or certification stated."
+        }
+      }
+    }
+  }
+}

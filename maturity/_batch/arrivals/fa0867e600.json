@@ -1,0 +1,32 @@
+{
+ "slug": "2025-03-15-cmr-complexe-orange-de-makepe-une-realisation-d-enracinement-perenne-et-du",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Orange Cameroun data centre, Makepe",
+       "country_label": "Cameroon",
+       "class": "other",
+       "platform": "",
+       "owner": "Orange Cameroun",
+       "tiers": ""
+      }
+     ],
+     "note": "Orange Cameroun data centre is not stated to rent space or computing to others."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Orange Cameroun data centre is not stated to rent space or computing to others."
+    }
+   }
+  }
+ }
+}

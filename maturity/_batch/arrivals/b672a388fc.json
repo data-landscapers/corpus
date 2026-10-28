@@ -1,0 +1,90 @@
+{
+ "slug": "2026-10-26-mar-plf-2027-ia-les-donnees-strategiques-de-letat-auront-leur-propre-datacenter",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Standfirst only: announced plans, nothing in service or stated for this study."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Standfirst only: announced plans, nothing in service or stated for this study."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Standfirst only: announced plans, nothing in service or stated for this study."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "L'Opinion reports the draft 2027 finance bill's MAD 1.34 billion digital sovereignty and AI envelope includes development of AI adapted to the national languages.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "AI adapted to national languages",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The sovereign Rabat data centre is announced, not in service."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "L'Opinion reports Morocco's draft 2027 finance bill announces, within a MAD 1.34 billion envelope, cloud generalisation across administrations and a sovereign data centre in Rabat for the state's strategic data.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "sovereign data centre, Rabat",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Sovereign Rabat data centre is announced, not in service."
+    }
+   }
+  }
+ }
+}

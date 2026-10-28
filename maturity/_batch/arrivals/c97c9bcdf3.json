@@ -1,0 +1,11 @@
+{"slug": "2026-01-16-mli-mali-communique-du-conseil-des-ministres-du-vendredi-16-janvier-2026-c", "studies": {
+"businesspayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Mentions only a WAEMU ministers' session on usury rates; no central bank payments role stated."}}},
+"consumerprotection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No consumer-protection rules for digital finance stated."}}},
+"crossborderpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No cross-border payment channel stated."}}},
+"cybersecurity": {"countries": {"MLI": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "The Council of Ministers adopted on 16 January 2026 a draft decree approving Mali's National Cybersecurity Strategy and its 2026-2030 action plan, which it had noted in writing on 3 December 2025.", "as_of": "2026-01-16", "date_precision": "day", "system": "Stratégie nationale de Cybersécurité du Mali 2026-2030", "class": "response"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No government payments to people by digital means stated."}}},
+"paymentsuptake": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"retailpayments": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No mobile money or retail payment service stated."}}},
+"revenuecollection": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No electronic tax or fee payment stated."}}}
+}}

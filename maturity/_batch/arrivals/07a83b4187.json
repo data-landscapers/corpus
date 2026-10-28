@@ -1,0 +1,14 @@
+{"slug": "2026-10-26-rwa-why-ekash-does-not-handle-same-network-transfers", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Article concerns person-to-person switching, not e-procurement."}}},
+"centralbank": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The article says eKash, the national instant payment system run by switch operator RSwitch, has operated for four months, with rollout starting in July 2026 under a directive by the National Bank of Rwanda that requires interoperable transfers between licensed institutions.", "as_of": "2026-10", "date_precision": "month", "system": "eKash", "class": "oversight"}
+], "systems": [{"system": "eKash", "country_label": "Rwanda", "class": "retail", "platform": "RSwitch national switch", "owner": "RSwitch", "tiers": "banks, mobile money providers, SACCOs, microfinance institutions"}], "note": ""}}},
+"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The Rwf20 fee cap is a transfer pricing term, not a stated consumer-protection rule or complaints body."}}},
+"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Domestic transfers only; no cross-border channel stated."}}},
+"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No survey account-ownership figure stated."}}},
+"retailpayments": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The New Times reports eKash, in operation for four months from July 2026, connects banks, mobile money providers, SACCOs and microfinance institutions through a single national payment infrastructure for account-to-account, account-to-wallet, wallet-to-account and wallet-to-wallet transfers between institutions.", "as_of": "2026-10", "date_precision": "month", "system": "eKash", "class": "retail"}
+], "systems": [{"system": "eKash", "country_label": "Rwanda", "class": "retail", "platform": "RSwitch national switch", "owner": "RSwitch", "tiers": "banks, mobile money providers, SACCOs, microfinance institutions"}], "note": ""}}},
+"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

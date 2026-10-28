@@ -1,0 +1,32 @@
+{
+ "slug": "2025-06-05-mctn-mctn-meta-lancent-llama-impact-startups-ia",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Mentions agriculture only as a startup category; no satellite data use stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Ministry-Meta accelerator call is a programme, not a startup law, label or public fund under an act."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A call for applications to a time-limited accelerator programme; no hub or cohort in service is stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-22-gmb-gmcsirt-rfc-2350",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on authentication."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "gmCSIRT describes itself as the national focal point for cyber incident response in The Gambia, operating under PURA oversight.",
+       "as_of": "2026-04-22",
+       "date_precision": "day",
+       "system": "gmCSIRT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "gmCSIRT",
+       "country_label": "The Gambia Computer Security Incident Response Team",
+       "class": "response",
+       "platform": "",
+       "owner": "Public Utilities Regulatory Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No law is named."
+    }
+   }
+  }
+ }
+}

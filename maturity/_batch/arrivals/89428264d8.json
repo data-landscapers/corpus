@@ -1,0 +1,13 @@
+{"slug": "2026-06-11-mli-bamako-structure-sa-reponse-aux-menaces-numeriques", "studies": {
+"cybersecurity": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "Mali's National Cybersecurity Strategy and its 2026-2030 Action Plan were adopted by decree on 25 February 2026, per the APAnews account of the 10 June 2026 Council of Ministers.", "as_of": "2026-02-25", "date_precision": "day", "system": "Stratégie nationale de cybersécurité du Mali", "class": "response"}
+], "systems": [{"system": "ANSSI (Agence nationale de la sécurité des systèmes d'information)", "country_label": "Agence nationale de la sécurité des systèmes d'information", "class": "response", "platform": "", "owner": "Government of Mali", "tiers": ""}], "note": "The Council of Ministers on 10 June 2026 adopted draft texts (projets de textes) creating ANSSI, not stated as a decree issued; no incident handled, designation or figures by a national body."}}},
+"cybersecuritylaw": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document says Mali already has a specific legal framework in the 2019 law on the repression of cybercrime, which sets the offences and prosecution rules.", "as_of": "2019", "date_precision": "year", "system": "Loi de 2019 portant répression de la cybercriminalité", "class": "law"},
+{"sub_indicator": "law", "aspect": "use", "value": "reported", "fact": "Mali's Pôle national de lutte contre la cybercriminalité handled 1,338 files in 2025, of which 1,130 were complaints and 208 self-referrals, with 834 procedures under investigation.", "as_of": "2025", "date_precision": "year", "system": "Pôle national de lutte contre la cybercriminalité", "class": "law"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The document states nothing on a data protection law."}}},
+"internetusage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The 35.1% (8.91 million) end-2025 internet user figure is given with no source, so it is not an ITU, survey or government figure."}}},
+"startups": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only a mention of a Digital Week promoting startups; no startup law, labelling or fund."}}},
+"techhubs": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No hub, incubator or park is stated."}}}
+}}

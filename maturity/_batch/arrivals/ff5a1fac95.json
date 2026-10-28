@@ -1,0 +1,6 @@
+{"slug": "2026-10-26-mrt-education-and-digital-transformation-ministers-exam-digitisation", "studies": {
+"aiabuse": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Exam digitisation meeting; nothing on AI harms."}}},
+"aigovernment": {"countries": {"MRT": {"facts": [], "systems": [{"system": "Education legislation archive platform", "country_label": "MRT", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": ""}], "note": "AI search in a planned education-law archive is only a plan discussed at a meeting, not tested or in service."}}},
+"aisectoral": {"countries": {"MRT": {"facts": [], "systems": [], "note": "AI search for a planned legal-text archive is a plan and a document tool, not a sector system output."}}},
+"aisystems": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country is stated."}}}
+}}

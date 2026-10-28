@@ -1,0 +1,35 @@
+{
+ "slug": "2025-08-05-swz-whatsapp-insult-lands-woman-in-jail",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Swazi24 reports a Mbabane woman was convicted by the Magistrates Court under the Cyber Crime and Computer Crimes Act of 2022 over a WhatsApp message and sentenced to three years or a E3,000 fine.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "Computer Crime and Cyber Crime Act 2022",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Swazi24 reports a conviction under the Cyber Crime and Computer Crimes Act of 2022.",
+       "as_of": "2025-08-05",
+       "date_precision": "day",
+       "system": "Computer Crime and Cyber Crime Act 2022",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

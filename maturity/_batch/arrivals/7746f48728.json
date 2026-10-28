@@ -1,0 +1,53 @@
+{
+ "slug": "2025-11-28-egy-om-mekka-economic-court-reasoning-law-175-2018",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Court reasoning on a blogger case; no national cyber body or strategy stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Economic Court's reasoning applies Law 175 of 2018 on combating information technology crimes and its executive regulations (PM Decree 1699 of 2020).",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "Law 175 of 2018",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "The Economic Court tried a blogger on a charge under article 27 of Law 175 of 2018 (running a site to commit a crime) and acquitted her on it, while sentencing her on two other counts.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "Law 175 of 2018",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Law 175 of 2018",
+       "country_label": "Egypt",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

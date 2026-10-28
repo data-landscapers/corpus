@@ -1,0 +1,21 @@
+{"slug": "2023-12-07-bwa-ministry-implements-cybersecurity-strategy", "studies": {
+"cybersecurity": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "Minister Thulagano Segokgo told Parliament Botswana has developed a National Cybersecurity Strategy that is currently being implemented.", "as_of": "2023-12-07", "date_precision": "day", "system": "National Cybersecurity Strategy", "class": "response"},
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Minister said the Communications Computer Incident Response Team (Comm CIRT), which watches threats to critical national information infrastructure 24/7, had been converted into a national team.", "as_of": "2023-12-07", "date_precision": "day", "system": "Comm CIRT", "class": "response"}
+], "systems": [{"system": "Comm CIRT", "country_label": "Communications Computer Incident Response Team (Comm CIRT)", "class": "response", "platform": "", "owner": "Ministry of Communications, Knowledge and Technology", "tiers": ""}], "note": ""}}},
+"cybersecuritylaw": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Only a Cybersecurity Bill still at the stage of drafting instructions, to be tabled next year; no bill drafted or law stated."}}},
+"dataprotectionauthority": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Minister said the information and data protection commission was established through the data protection act and became operational in October 2021, and the commissioner was appointed in March 2022.", "as_of": "2022-03", "date_precision": "month", "system": "Information and Data Protection Commission", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Minister said the information and data protection commission set up under the data protection act became operational in October 2021 and its commissioner was appointed in March 2022.", "as_of": "2022-03", "date_precision": "month", "system": "Information and Data Protection Commission", "class": "general"}
+], "systems": [], "note": ""}}},
+"dataprotectionreadiness": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The Minister said the information and data protection commissioner was appointed in March 2022 after the commission became operational in October 2021.", "as_of": "2022-03", "date_precision": "month", "system": "Information and Data Protection Commission", "class": "system"},
+{"sub_indicator": "system", "aspect": "treaty", "value": "none", "fact": "The Minister said Botswana had not yet ratified or domesticated the Malabo Convention and the ministry had asked government for permission to do so.", "as_of": "2023-12-07", "date_precision": "day", "system": "Malabo Convention", "class": "system"}
+], "systems": [], "note": ""}}},
+"police": {"countries": {"BWA": {"facts": [], "systems": [], "note": "Only a police digital forensic lab is named, which is identification, not station records."}}},
+"regionallaw": {"countries": {"BWA": {"facts": [
+{"sub_indicator": "harmonisation", "aspect": "accepted", "value": "none", "fact": "The Minister told Parliament Botswana had not yet ratified and domesticated the African Union Malabo Convention, and the ministry had requested government permission to do so.", "as_of": "2023-12-07", "date_precision": "day", "system": "Malabo Convention", "class": "harmonisation"}
+], "systems": [], "note": ""}}}
+}}

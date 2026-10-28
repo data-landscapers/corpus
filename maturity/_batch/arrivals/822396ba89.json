@@ -1,0 +1,135 @@
+{
+ "slug": "2026-10-26-cmr-cameroon-eyes-ai-led-growth-with-new-digital-economy-strategy",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule, draft or authority on AI harms stated; only an intention to set rules."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No government use of AI stated."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an announced intention to regulate AI; no draft text named."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No local AI model, dataset or computing stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil-service training stated."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Data governance is named only as a pillar of the digital-economy strategy; no data policy stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No public digital-skills programme stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Minister Minette Libom Li Likeng said the government is developing an AI development strategy, with national AI consultations held (Business in Cameroon, relaying Cameroon Tribune).",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "national AI development strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national AI development strategy",
+       "country_label": "Cameroon",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Posts and Telecommunications",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "The minister said the draft national strategy for developing Cameroon's digital economy, built on the AI consultations, is being finalised, with pillars of infrastructure, data governance, skills, research and responsible AI.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "draft national strategy for the development of Cameroon's digital economy",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "draft national strategy for the development of Cameroon's digital economy",
+       "country_label": "Cameroon",
+       "class": "national",
+       "platform": "",
+       "owner": "Ministry of Posts and Telecommunications",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

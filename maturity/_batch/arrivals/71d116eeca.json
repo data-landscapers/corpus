@@ -1,0 +1,152 @@
+{
+ "slug": "2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouveaux-projets-numeriq",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Responsible-AI framework only planned; no draft or rule stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions for MAR."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions for MAR."
+    }
+   }
+  },
+  "cloudstrategy": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Cloud First circular announced in the draft 2027 finance bill note with no drafting begun and no date; an intention is not a yes."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions for MAR."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Jazari-Root is planned for 2027-2029, not in service."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions for MAR."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Jazari-Root is planned, not in service."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing that answers this study's questions for MAR."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The draft 2027 finance bill's presentation note cites national models GemMaroc (language) and IsMa (automatic transcription) for darija, Amazigh and Arabic, linked to an R&D lab set up with Mistral AI.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "GemMaroc / IsMa",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "GemMaroc",
+       "country_label": "Morocco",
+       "class": "localai",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "IsMa",
+       "country_label": "Morocco",
+       "class": "localai",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "The draft 2027 finance bill's presentation note, presented to Parliament on 2026-10-23, provides for a Cloud First circular, the Jazari-Root sovereign data centre in Rabat (50 MW, 2027-2029) for the state's strategic data, and a national sovereign cloud for Moroccans' data.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "Jazari-Root",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jazari-Root",
+       "country_label": "Morocco",
+       "class": "other",
+       "platform": "",
+       "owner": "state",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

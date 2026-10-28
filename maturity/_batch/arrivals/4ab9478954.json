@@ -1,0 +1,136 @@
+{
+ "slug": "2026-02-24-zwe-33-of-zimbabwe-crimes-now-cyber-related",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zimbabwe."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zimbabwe."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zimbabwe."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zimbabwe."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "POTRAZ's Computer Incident Response Team, described as the national hub for detecting and coordinating responses to cyber incidents, handled incident reports in 2025, broken down as fraud 33%, cyberbullying 27%, hacking 17%, smishing 13% and theft 10%, per its Data Protection Officer.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Computer Incident Response Team (CIRT), POTRAZ",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Computer Incident Response Team (CIRT)",
+       "country_label": "POTRAZ CIRT",
+       "class": "response",
+       "platform": "",
+       "owner": "POTRAZ",
+       "tiers": ""
+      }
+     ],
+     "note": "Figures are shares only, no count of incidents or alerts, so not recorded as published figures."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "enacted",
+       "fact": "The document says Zimbabwe's Data Protection Act was enacted in 2021 and sets legal standards for handling personal data, with breach notification to POTRAZ within 24 hours.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Data Protection Act",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "POTRAZ is described as the body overseeing compliance under the Act, with powers to investigate breaches, issue enforcement notices and impose penalties, and as acting through its Data Protection Officer.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "POTRAZ",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zimbabwe."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zimbabwe."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zimbabwe."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Zimbabwe."
+    }
+   }
+  }
+ }
+}

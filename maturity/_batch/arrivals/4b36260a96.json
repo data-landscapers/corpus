@@ -1,0 +1,17 @@
+{
+  "slug": "2025-11-05-lbr-liberia-senate-passes-cybercrime-act-to-combat-it-fraud-others",
+  "studies": {
+    "cybersecurity": {"countries": {"LBR": {"facts": [], "systems": [{"system": "Liberia Computer Emergency Response Team (LCERT)", "country_label": "LCERT", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "LCERT is named as a council member and as the body a bill would fund and give duties, but the document states no creation by law, no incident handled and no designation."}}},
+    "cybersecuritylaw": {"countries": {"LBR": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Liberian Senate passed the Cybercrime Act of 2025, described as a proposed Act, with amendments on 4 November 2025, after a joint committee report; the document does not say it was promulgated.", "as_of": "2025-11-04", "date_precision": "day", "system": "Cybercrime Act of 2025", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "dataprotectionlaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The Act is a cybercrime bill with a data-breach reporting section; it is not a general data protection law and states no standing for one."}}},
+    "dataprotectionreadiness": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing stated on a data protection law in force, ratification, an authority or its practice."}}},
+    "internationalstandards": {"countries": {"LBR": {"facts": [], "systems": [], "note": "ISO/IEC 27001 is named only in a proposed Act's standards clause; no membership, adoption or binding requirement is stated."}}},
+    "publicconsultation": {"countries": {"LBR": {"facts": [
+      {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Senate joint committee on Post and Telecommunications, Judiciary and Claims and Petition said its review of the draft Cybercrime Act was guided by a public hearing.", "as_of": "2025-11-05", "date_precision": "day", "system": "Cybercrime Act of 2025", "class": "consultation"}
+    ], "systems": [], "note": ""}}},
+    "qualitystandards": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No national standards body or issued national standard is stated."}}},
+    "regionallaw": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The bill only calls for Liberia to accede to the Malabo and Budapest Conventions and was benchmarked on ECOWAS and AU texts; no signature, ratification or giving effect is stated."}}}
+  }
+}

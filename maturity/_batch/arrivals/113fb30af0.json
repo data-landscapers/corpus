@@ -1,0 +1,116 @@
+{
+ "slug": "2025-10-16-swz-facata-suspect-facing-190-charges-denied-bail",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Eswatini Observer reports an accused faces counts under the Computer Crime and Cybercrime Act (2022), so the Act is in force.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Computer Crime and Cybercrime Act (2022)",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Eswatini Observer reports a woman arrested in July 2025 by the Royal Eswatini Police Service faces counts under the Computer Crime and Cybercrime Act (2022) and was denied bail by the High Court.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Computer Crime and Cybercrime Act (2022)",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  }
+ }
+}

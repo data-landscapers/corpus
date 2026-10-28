@@ -1,0 +1,10 @@
+{"slug": "2026-04-30-bbc-meta-row-workers-smart-glasses-lose-jobs", "studies": {
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Article concerns Meta's private AI training contractor, not AI in a public sector system."}}},
+"dataprotectionauthority": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "BBC reports the Office of the Data Protection Commissioner in Kenya announced it was commencing an investigation into privacy concerns raised by Meta's smart glasses.", "as_of": "2026-04-30", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "authority"}
+], "systems": [{"system": "Office of the Data Protection Commissioner", "country_label": "Kenya", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": "Investigation opened only; no ruling stated."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "BBC reports the Office of the Data Protection Commissioner in Kenya announced it was commencing an investigation into privacy concerns raised by Meta's smart glasses.", "as_of": "2026-04-30", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "BBC reports Kenya's data protection office announced an investigation into Meta's smart glasses, with no decision stated.", "as_of": "2026-04-30", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "general"}
+], "systems": [], "note": ""}}}
+}}

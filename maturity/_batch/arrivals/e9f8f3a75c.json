@@ -1,0 +1,25 @@
+{
+ "slug": "2024-08-19-lso-mp-s-stakeholders-on-cyber-security-bill",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "A National Assembly committee held deliberations with stakeholders on the draft Computer Crime and Cyber Security Bill, 2024.",
+       "as_of": "2024-08-19",
+       "date_precision": "day",
+       "system": "Computer Crime and Cyber Security Bill, 2024",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

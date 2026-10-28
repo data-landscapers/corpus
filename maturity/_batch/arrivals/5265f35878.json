@@ -1,0 +1,32 @@
+{
+ "slug": "2026-10-06-egy-cairomubasher-alamein-data-centre-power-substation",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Heka Data Alamein data centre",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "US alliance led by Heka Data",
+       "tiers": ""
+      }
+     ],
+     "note": "Alamein data centre is planned, not in service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Planned centre led by a US alliance; nothing in service or nationally owned."
+    }
+   }
+  }
+ }
+}

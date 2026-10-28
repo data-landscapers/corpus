@@ -1,0 +1,8 @@
+{"slug": "2026-10-26-uga-kacita-ucc-agree-to-form-committee-on-unlicensed-internet-resellers", "studies": {
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Only UCC's warning of consumer risks from unlicensed resellers; no consumer rule for digital finance stated."}}},
+"cybersecuritylaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Cybersecurity is named only as a UCC concern; no cybercrime law or bill stated."}}},
+"digitalidlaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on identity law."}}},
+"ecommercelaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on electronic transactions or e-commerce law."}}},
+"mobileaffordability": {"countries": {"UGA": {"facts": [{"sub_indicator": "price", "aspect": "cost", "value": "price:UGX:2000:1", "fact": "UCC says licensed operators charge about Shs2,000 per gigabyte of internet data, against about Shs1,000 from unlicensed Wi-Fi resellers.", "as_of": "2026-10-26", "date_precision": "day", "system": "licensed internet operators", "class": "price"}], "systems": [], "note": ""}}},
+"paymentslaw": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on payments law."}}}
+}}

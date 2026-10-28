@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-17-sle-ecowas-and-sierra-leone-launch-national-cybersecurity-incident-respons",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "ECOWAS reports the National Cyber Security Incident Response Team (CSIRT) was officially launched in Freetown on 14 January 2025 at the NC3 headquarters.",
+       "as_of": "2025-01-14",
+       "date_precision": "day",
+       "system": "National CSIRT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National CSIRT",
+       "country_label": "National CSIRT, NC3",
+       "class": "response",
+       "platform": "",
+       "owner": "National Cybersecurity Coordination Centre",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

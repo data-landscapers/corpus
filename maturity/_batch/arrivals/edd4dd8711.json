@@ -1,0 +1,86 @@
+{
+ "slug": "2026-10-17-rwa-seven-on-trial-over-alleged-260-000-fraud-at-bpr-bank-rwanda",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Court report on card fraud at one bank; states nothing the study asks (3D/2D card authentication is a payment login, not national authentication)."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-11-dji-le-dj-cert-renforce-son-engagement-international-participation-au-cybe",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "DJ-CERT states the Djibouti CERT was inaugurated on 21 September 2023.",
+       "as_of": "2023-09-21",
+       "date_precision": "day",
+       "system": "DJ-CERT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DJ-CERT",
+       "country_label": "DJ-CERT",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

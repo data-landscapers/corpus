@@ -1,0 +1,50 @@
+{
+ "slug": "2026-05-06-ken-energy-shortfall-problem-scuppers-kenya-s-1b-microsoft-data-center",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Microsoft-G42 centre stalled and unbuilt; Nxtra Tatu City centre under construction."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No nationally owned centre in service stated."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Microsoft-G42 $1B pledge stalled, no signed amount."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on startup law or funds."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on hubs."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "slug": "2026-10-27-civ-cybercriminalite-en-cote-divoire-plus-de-14-700-plaintes-et-23-milliar",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Cote d'Ivoire's national information systems security agency (ANSSI) is cited by the digital minister as the source of 2025 cybercrime complaint data, and the government names it as the national agency in its Cybersecurity Month statement.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "ANSSI",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Agence nationale de la securite des systemes d'information (ANSSI)",
+       "country_label": "ANSSI",
+       "class": "response",
+       "platform": "",
+       "owner": "government",
+       "tiers": ""
+      }
+     ],
+     "note": "Complaint counts (14,700 in 2025) are not incidents handled or alerts issued; CYBER.EX is an exercise."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The 2026-2028 digital acceleration roadmap is mentioned without any adoption, text, period or reporting stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about CIV."
+    }
+   }
+  }
+ }
+}

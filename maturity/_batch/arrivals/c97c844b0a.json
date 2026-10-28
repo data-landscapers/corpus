@@ -1,0 +1,82 @@
+{
+ "slug": "2024-10-17-mar-atlas-cloud-services-world-class-data-center-in-morocco",
+ "studies": {
+  "datacentrepower": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "power",
+       "aspect": "pue",
+       "value": "low",
+       "fact": "Atlas Cloud Services states a PUE of 1.5 for its Benguerir data center, cooled by free cooling.",
+       "as_of": "2024-10-17",
+       "date_precision": "day",
+       "system": "Atlas Cloud Services Benguerir Data Center",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": "Date is the page's proxy date."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Atlas Cloud Services offers its Benguerir data center to institutions and businesses, with 2,000 m2 of white space and 5MW IT load.",
+       "as_of": "2024-10-17",
+       "date_precision": "day",
+       "system": "Atlas Cloud Services Benguerir Data Center",
+       "class": "datacentre"
+      },
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Atlas Cloud Services says its Benguerir data center is certified Tier III and Tier IV by the Uptime Institute.",
+       "as_of": "2024-10-17",
+       "date_precision": "day",
+       "system": "Atlas Cloud Services Benguerir Data Center",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": "Only one facility; no cloud region stated."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "A data centre's Uptime certificate places nothing."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Page does not state the operator's ownership."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Page calls the site ideal for disaster recovery but names no government backup arrangement."
+    }
+   }
+  }
+ }
+}

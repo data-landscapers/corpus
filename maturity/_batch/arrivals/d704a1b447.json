@@ -1,0 +1,25 @@
+{
+ "slug": "2025-02-18-ooni-mozambique-blocked-facebook-instagram-whatsapp",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "discussion",
+       "aspect": "connection",
+       "value": "cut",
+       "fact": "OONI measurements show ISPs in Mozambique blocked Facebook, Instagram and WhatsApp from 29 October to 14 November 2024 amid post-election protests, after the communications institute (INCM) announced internet restrictions.",
+       "as_of": "2024-10-29",
+       "date_precision": "day",
+       "system": "Facebook, Instagram and WhatsApp blocking",
+       "class": "discussion"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

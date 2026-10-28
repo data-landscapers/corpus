@@ -1,0 +1,53 @@
+{
+ "slug": "2025-11-25-sle-councillor-charged-to-court-for-alleged-cyberbullying-of-member-of-par",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns a cyberbullying prosecution; no national body or strategy stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The report says a Freetown councillor was charged under sections 44(1)(b) and 44(2)(b) of the Cybersecurity and Crime Act 2021.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "Cybersecurity and Crime Act 2021",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Sierraloaded reports a Freetown councillor charged with cyberstalking and cyberbullying under the Cybersecurity and Crime Act 2021, prosecuted at Pademba Road Court, pleading not guilty on a first appearance with bail granted.",
+       "as_of": "2025-11-25",
+       "date_precision": "day",
+       "system": "Cybersecurity and Crime Act 2021",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cybersecurity and Crime Act 2021",
+       "country_label": "Sierra Leone",
+       "class": "law",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

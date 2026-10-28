@@ -1,0 +1,9 @@
+{"slug": "2026-08-24-ken-can-kenya-s-ai-ambitions-coexist-with-naivasha-s-water-needs", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Article states nothing on rules or authority against AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Article states no government use of AI."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Article states no sectoral AI tool."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Microsoft-G42 data centre, Olkaria", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Microsoft and G42", "tiers": ""}], "note": "Only a planned data centre at design stage; no built model, dataset or AI computing stated."}}},
+"datacentrepower": {"countries": {"KEN": {"facts": [{"sub_indicator": "power", "aspect": "supply", "value": "none", "fact": "Al Jazeera reports that plans for the Microsoft-G42 data centre at Olkaria stalled in May 2026 over concerns about available power capacity.", "as_of": "2026-05", "date_precision": "month", "system": "Microsoft-G42 Olkaria data centre", "class": "datacentre"}], "systems": [], "note": "No PUE or water figure stated; project water use undisclosed."}}},
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Microsoft-G42 data centre, Olkaria", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Microsoft and G42", "tiers": ""}], "note": "Only a planned, stalled data centre; none in service stated."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire in service stated."}}}
+}}

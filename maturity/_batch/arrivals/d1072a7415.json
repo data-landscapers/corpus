@@ -1,0 +1,59 @@
+{
+ "slug": "2026-10-27-lby-health-minister-chairs-consultative-meeting-on-2026-2030-health-digital-tr",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI harms rules or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI in public administration."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI tools in a sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on AI models, datasets or computing."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Sector health digitalisation plan 2026-2030 is a ministry plan in preparation, not the national strategy class."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "Meeting reviewed national health information systems but states no system under way, in service, linked or with published reporting rate."
+    }
+   }
+  }
+ }
+}

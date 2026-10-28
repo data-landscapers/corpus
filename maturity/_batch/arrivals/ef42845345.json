@@ -1,0 +1,64 @@
+{
+ "slug": "2024-06-10-lso-big-brother-is-watching-you-bill-raises-dust",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Communications minister Nthati Moorosi tabled the Computer Crimes and Cyber Security Bill, 2024 in the National Assembly on 22 May 2024; no law is in force.",
+       "as_of": "2024-05-22",
+       "date_precision": "day",
+       "system": "Computer Crimes and Cyber Security Bill, 2024",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "Public Eye reports a meeting convened in Maseru in June 2023 where media representatives and civic groups gave views on the Computer Crimes and Cyber Security Bill.",
+       "as_of": "2023-06",
+       "date_precision": "month",
+       "system": "Computer Crimes and Cyber Security Bill",
+       "class": "consultation"
+      },
+      {
+       "sub_indicator": "consultation",
+       "aspect": "hearing",
+       "value": "held",
+       "fact": "MISA Lesotho says Minister Moorosi met it about three times and took written submissions on the Computer Crimes and Cyber Security Bill, and that none of its recommendations were taken up.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "Computer Crimes and Cyber Security Bill",
+       "class": "consultation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

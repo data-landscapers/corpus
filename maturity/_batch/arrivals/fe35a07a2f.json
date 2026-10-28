@@ -1,0 +1,265 @@
+{
+ "slug": "2026-10-27-xaf-au-opens-6th-session-stc-cict",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about this country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Gabon was elected Third Vice-Chair of the bureau of the AU's Specialized Technical Committee on Communication and ICT at its 6th Ordinary Session, held in Libreville, as reported by the African Union Commission.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "AU Specialized Technical Committee on Communication and ICT (STC-CICT)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Ghana was elected Chair of the bureau of the AU's Specialized Technical Committee on Communication and ICT at its 6th Ordinary Session in Libreville, as reported by the African Union Commission.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "AU Specialized Technical Committee on Communication and ICT (STC-CICT)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Kenya was elected First Vice-Chair of the bureau of the AU's Specialized Technical Committee on Communication and ICT at its 6th Ordinary Session in Libreville, as reported by the African Union Commission.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "AU Specialized Technical Committee on Communication and ICT (STC-CICT)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Lesotho was elected Rapporteur of the bureau of the AU's Specialized Technical Committee on Communication and ICT at its 6th Ordinary Session in Libreville, as reported by the African Union Commission (it was also the outgoing Chair).",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "AU Specialized Technical Committee on Communication and ICT (STC-CICT)",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

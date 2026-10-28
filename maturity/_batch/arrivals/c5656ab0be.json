@@ -1,0 +1,106 @@
+{
+ "slug": "2025-04-27-tgo-alerte-cybersecurite-signalement-d-une-campagne-de-phishing-ciblant-le",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a phishing alert and states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a phishing alert and states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a phishing alert and states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a phishing alert and states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "CERT.tg, the Centre National de Réponse aux Incidents de Cybersécurité, issued public alert 202504/AP/09 on 27 April 2025 about a phishing campaign using a fake free-data offer in the names of Yas Togo and Moov Africa Togo.",
+       "as_of": "2025-04-27",
+       "date_precision": "day",
+       "system": "CERT.tg",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CERT.tg",
+       "country_label": "Centre National de Réponse aux Incidents de Cybersécurité (CERT.tg)",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a phishing alert and states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a phishing alert and states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a phishing alert and states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document is a phishing alert and states nothing this study asks."
+    }
+   }
+  }
+ }
+}

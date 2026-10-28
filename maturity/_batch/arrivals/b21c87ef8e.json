@@ -1,0 +1,161 @@
+{
+ "slug": "2026-09-03-gha-online-fraud-makes-up-47-of-ghana-s-cyber-incidents-csa-boss",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "fact": "CERT-GH, the national computer emergency response team, compiled 3,876 cybersecurity incidents recorded in Ghana from January to July 2026, 1,818 of them online fraud, as announced by Cyber Security Authority Director-General Divine Selase Agbeti.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "CERT-GH",
+       "class": "response",
+       "aspect": "response",
+       "value": "responded"
+      },
+      {
+       "sub_indicator": "readiness",
+       "fact": "CERT-GH, the national computer emergency response team, compiled 3,876 cybersecurity incidents recorded in Ghana from January to July 2026, 1,818 of them online fraud, as announced by Cyber Security Authority Director-General Divine Selase Agbeti.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "CERT-GH",
+       "class": "response",
+       "aspect": "figures",
+       "value": "published"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CERT-GH",
+       "country_label": "Ghana",
+       "class": "response",
+       "platform": "",
+       "owner": "Cyber Security Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ghana."
+    }
+   }
+  }
+ }
+}

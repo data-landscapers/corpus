@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-16-syc-national-assembly-16-december-2025-cybercrime-and-other-related-crimes",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about a cybercrime bill; no national body or strategy stated."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Seychelles Nation reports the National Assembly unanimously approved the Cybercrime and other Related Crimes (Amendment) Bill 2025 after a third reading; the text does not say it is in force.",
+       "as_of": "2025-12-15",
+       "date_precision": "day",
+       "system": "Cybercrime and other Related Crimes (Amendment) Bill 2025",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-24-zwe-zinara-rolls-out-multi-currency-e-wallet-platform",
+ "studies": {
+  "idverification": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "KYC is document upload to the platform, not a check against the national ID."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "ZINARA introduced a multi-currency e-wallet platform (iOS, Android, web, USSD) on which motorists pay toll fees, vehicle licensing, ZBC radio licences and third-party insurance, per ZINARA's emailed response.",
+       "as_of": "2026-10-24",
+       "date_precision": "day",
+       "system": "ZINARA multi-currency e-wallet platform",
+       "class": "revenue"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ZINARA multi-currency e-wallet platform",
+       "country_label": "Zimbabwe",
+       "class": "revenue",
+       "platform": "iOS, Android, web, USSD",
+       "owner": "ZINARA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

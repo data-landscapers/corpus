@@ -1,0 +1,54 @@
+{
+ "slug": "2026-04-26-egy-senate-legislative-committee-impact-studies-cybercrime-law",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Senate legislative committee is reviewing two impact studies on the effectiveness of Law 175 of 2018 on combating information technology crimes, as an existing law.",
+       "as_of": "2026-04-26",
+       "date_precision": "day",
+       "system": "Law 175 of 2018 on combating information technology crimes",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The Senate legislative committee is reviewing an impact study on how effective the existing personal data protection law is, with the penal and cybercrime laws, against new crimes; no law number or dates are given.",
+       "as_of": "2026-04-26",
+       "date_precision": "day",
+       "system": "Personal data protection law",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for this country."
+    }
+   }
+  }
+ }
+}

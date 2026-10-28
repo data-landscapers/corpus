@@ -1,0 +1,116 @@
+{
+ "slug": "2025-09-03-swz-two-alleged-facata-scammers-arrested-for-defrauding-victims-over-e80-0",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "fact": "Eswatini Daily News reports two accused appeared in Manzini Magistrates Court facing 30 fraud charges including under the Computer Crime and Cybercrime Act 6 of 2022.",
+       "as_of": "2025-09-02",
+       "date_precision": "day",
+       "system": "Computer Crime and Cybercrime Act 6 of 2022",
+       "class": "law",
+       "aspect": "standing",
+       "value": "in-force"
+      },
+      {
+       "sub_indicator": "law",
+       "fact": "Eswatini Daily News reports two accused appeared in Manzini Magistrates Court facing 30 fraud charges including under the Computer Crime and Cybercrime Act 6 of 2022.",
+       "as_of": "2025-09-02",
+       "date_precision": "day",
+       "system": "Computer Crime and Cybercrime Act 6 of 2022",
+       "class": "law",
+       "aspect": "use",
+       "value": "used"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Eswatini."
+    }
+   }
+  }
+ }
+}

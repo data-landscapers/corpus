@@ -1,0 +1,13 @@
+{"slug": "2025-04-29-moz-mocambique-regista-centenas-de-burlas-de-pagamentos-eletronicos", "studies": {
+"businesspayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on digital financial consumer rules or redress."}}},
+"coresystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on core government systems."}}},
+"crossborderpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"cybersecurity": {"countries": {"MOZ": {"facts": [{"sub_indicator": "readiness", "aspect": "response", "value": "responded", "fact": "Mozambique's Prosecutor-General Americo Letela said the national C-Sirt logged 182,031 incidents in 2024, some causing temporary operational stoppages.", "as_of": "2024", "date_precision": "year", "system": "C-Sirt Nacional", "class": "response"}], "systems": [{"system": "C-Sirt Nacional", "country_label": "Equipa Nacional de Resposta a Incidentes de Seguranca Cibernetica", "class": "response", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "none", "fact": "Prosecutor-General Americo Letela cited the lack of specific laws on personal data protection, cybersecurity and cybercrime in Mozambique as fostering impunity.", "as_of": "2025-04-29", "date_precision": "day", "system": "", "class": "general"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document gives no account-ownership survey share."}}},
+"retailpayments": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document counts electronic payment fraud cases only, not services in operation."}}},
+"revenuecollection": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+}}

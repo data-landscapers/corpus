@@ -1,0 +1,195 @@
+{
+ "slug": "2026-10-26-cmr-leadership-numerique-le-cameroun-choisi-pour-abriter-le-siege-de-larta",
+ "studies": {
+  "digitalsovereignty": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The regulator of CAF took part in the 4th extraordinary session of ARTAC in Libreville on 20-21 October 2026, per ART Cameroon.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "Cameroon's telecoms regulator took part in the 4th extraordinary session of ARTAC, the Central African regulators' assembly, in Libreville on 20-21 October 2026, per ART Cameroon.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Central African telecoms regulators fixed ARTAC's headquarters in Cameroon and gave Cameroon's regulator the right to appoint the executive secretary, at the 20-21 October 2026 Libreville session, per ART Cameroon.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The regulator of COD took part in the 4th extraordinary session of ARTAC in Libreville on 20-21 October 2026, per ART Cameroon.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The regulator of COG took part in the 4th extraordinary session of ARTAC in Libreville on 20-21 October 2026, per ART Cameroon.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "member",
+       "fact": "The regulator of GAB took part in the 4th extraordinary session of ARTAC in Libreville on 20-21 October 2026, per ART Cameroon.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "ARTAC",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

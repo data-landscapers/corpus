@@ -1,0 +1,134 @@
+{
+ "slug": "2026-10-27-paratus-expands-its-african-reach-with-tanzania-pop",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Paratus Tanzania says its new Dar es Salaam PoP gives Tanzania access to Paratus-owned network routes north to Nairobi via Mombasa and south to Maputo, with direct international connectivity to Europe and the US.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Paratus Tanzania Dar es Salaam PoP",
+       "class": "route"
+      },
+      {
+       "sub_indicator": "routes",
+       "aspect": "access",
+       "value": "open",
+       "fact": "Paratus Tanzania says the PoP lets it provide IP transit, Layer 2 circuits and wholesale network capacity to local carriers, ISPs and enterprises.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Paratus Tanzania Dar es Salaam PoP",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Paratus Tanzania Dar es Salaam PoP",
+       "country_label": "Tanzania",
+       "class": "route",
+       "platform": "Wingu Data Centre",
+       "owner": "Paratus",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Tanzania."
+    }
+   }
+  }
+ }
+}

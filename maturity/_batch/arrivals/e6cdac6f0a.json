@@ -1,0 +1,54 @@
+{
+ "slug": "2025-09-01-nam-paratus-namibia-equiano-cls-swakopmund",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "Paratus's Swakopmund Equiano CLS edge data centre is carrier neutral, hosting various local carriers, operational as of Nov 2021; no Tier stated.",
+       "as_of": "2021-11",
+       "date_precision": "month",
+       "system": "Paratus Equiano CLS Swakopmund",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Paratus's factsheet describes the Swakopmund Equiano cable landing station as operational since Nov 2021, with 2 diverse fibre entry points.",
+       "as_of": "2021-11",
+       "date_precision": "month",
+       "system": "Equiano",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Ownership of the facility is not stated as national."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-25-tun-le-hub-numerique-the-dot-500-startups-accompagnees-en-cinq-ans",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on business registration."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "EU funding of The Dot is named with no amount; no private money stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, labelling or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "The Dot, a digital innovation hub in Tunisia, says it has supported over 500 startups since 2021 and incubated 140 startups from ten governorates.",
+       "as_of": "2026-10-23",
+       "date_precision": "day",
+       "system": "The Dot",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "The Dot",
+       "country_label": "Tunisia",
+       "class": "hub",
+       "platform": "",
+       "owner": "public-private partnership with EU funding",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{"slug": "2026-02-26-ken-kenya-court-due-to-rule-on-cybercrimes-law-as-another-journalist-faces", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The only AI item is a student charged under the general false-publication offence for an AI-generated image; the document does not say a rule on AI harms applies."}}},
+"cybersecuritylaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "CPJ says Kenya's 2018 Computer Misuse and Cybercrimes Act took effect after a 2020 High Court ruling, with October amendments giving a national cybercrime committee power to ban sites and apps.", "as_of": "2026-02-26", "date_precision": "day", "system": "Computer Misuse and Cybercrimes Act 2018", "class": "law"},
+{"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "Journalist Peter Mwita was charged in a Mombasa court under the cybercrimes law over a WhatsApp message and pleaded not guilty; CPJ lists other bloggers and journalists arrested under it.", "as_of": "2026-02-25", "date_precision": "day", "system": "Computer Misuse and Cybercrimes Act 2018", "class": "law"}
+], "systems": [{"system": "Computer Misuse and Cybercrimes Act 2018", "country_label": "Kenya", "class": "law", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The document states nothing about a data protection law."}}},
+"opendiscussion": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "discussion", "aspect": "penalty", "value": "punished", "fact": "CPJ says journalist Peter Mwita was detained seven days from 31 December and charged on 25 February 2026 over a WhatsApp message alleging links between a Mombasa politician and a gang.", "as_of": "2026-02-25", "date_precision": "day", "system": "Computer Misuse and Cybercrimes Act 2018", "class": "discussion"},
+{"sub_indicator": "discussion", "aspect": "debate", "value": "criticised", "fact": "The Blogger Association of Kenya argues in a constitutional appeal that the 2018 cybercrimes law violates freedom of expression, with a ruling due 27 February 2026.", "as_of": "2026-02-26", "date_precision": "day", "system": "Computer Misuse and Cybercrimes Act 2018", "class": "discussion"}
+], "systems": [], "note": ""}}}
+}}

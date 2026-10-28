@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-01-syc-rfc-2350-profile",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "SYC": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "CERT-SC's own RFC 2350 profile v1.0 describes it as a national CERT under the Department of Information and Communication Technology, with all Internet users in Seychelles as constituency.",
+       "as_of": "2025-01-01",
+       "date_precision": "day",
+       "system": "CERT-SC",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CERT-SC",
+       "country_label": "CERT-SC",
+       "class": "response",
+       "platform": "",
+       "owner": "Department of Information and Communication Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that the study asks."
+    }
+   }
+  }
+ }
+}

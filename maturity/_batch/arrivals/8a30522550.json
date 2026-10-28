@@ -1,0 +1,64 @@
+{
+ "slug": "2025-05-03-france24-meta-fighting-nigerian-fines-shut-facebook",
+ "studies": {
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Concerns Meta/WhatsApp privacy and consumer practices, not digital financial services."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "rulings",
+       "value": "ruled",
+       "fact": "Meta's spokesperson told AFP it disagrees with the NDPC's decision against it on Facebook and Instagram and has appealed.",
+       "as_of": "2025-05-03",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      },
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "AFP reports the FCCPC investigated Meta jointly with the NDPC between May 2021 and December 2023.",
+       "as_of": "2025-05-03",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "application",
+       "value": "applied",
+       "fact": "AFP reports an NDPC decision against Meta over Facebook and Instagram user data, which Meta has appealed.",
+       "as_of": "2025-05-03",
+       "date_precision": "day",
+       "system": "Nigeria Data Protection Commission decision",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

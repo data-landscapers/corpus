@@ -1,0 +1,43 @@
+{
+ "slug": "2024-12-06-som-top-internet-provider-to-somalia-eyes-green-data-centers-for-ai",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Hormuud's data centres are not stated to rent to others."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Bloomberg reports four submarine cables land on Somalia's coast, two co-financed by Hormuud; landing stations and independence not stated.",
+       "as_of": "2024-12-06",
+       "date_precision": "day",
+       "system": "Submarine cables landing in Somalia",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Hormuud's data centres are not stated to be for hire."
+    }
+   }
+  }
+ }
+}

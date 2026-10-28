@@ -1,0 +1,35 @@
+{
+ "slug": "2025-12-03-eth-ethiopian-high-court-frees-tiktok-streaming-passenger-and-co-defendant",
+ "studies": {
+  "cybersecuritylaw": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Birr Metrics reports Yohanis Daniel faced an additional charge under Ethiopia's computer-crime law for recording and live-streaming an August 2024 flight incident on TikTok.",
+       "as_of": "2025-12-03",
+       "date_precision": "day",
+       "system": "Ethiopia's computer-crime law",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Birr Metrics reports Yohanis Daniel faced an additional charge under Ethiopia's computer-crime law for recording and live-streaming an August 2024 flight incident on TikTok.",
+       "as_of": "2025-12-03",
+       "date_precision": "day",
+       "system": "Ethiopia's computer-crime law",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

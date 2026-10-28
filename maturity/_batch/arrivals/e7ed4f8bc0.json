@@ -1,0 +1,142 @@
+{
+ "slug": "2026-10-27-mwi-malawi-pushes-tough-new-laws-to-track-expose-and-jail-online-scammers-nyasa-time",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a mention of AI-linked threats in a planned cybercrime bill, not a published draft rule on AI harms."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Justice Minister Charles Mhango said the government hopes to table a proposed cybercrime Bill, drafted with the ICT Ministry, in Parliament in the February-April 2027 budget session.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Cybercrime Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks about Malawi."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "slug": "2026-10-24-tun-tunisie-bct-steg-atct-plusieurs-sites-institutionnels-suspendus-detail",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "Managers reports that the national cybersecurity agency ANCS published an alert on 21 October 2026 (bulletin tunCERT/Vuln.2026-657) on two critical PHP vulnerabilities, urging patching.",
+       "as_of": "2026-10-21",
+       "date_precision": "day",
+       "system": "ANCS",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANCS",
+       "country_label": "Agence nationale de la cybersécurité",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a temporary site suspension of the land office is reported; no register stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing the study asks is stated."
+    }
+   }
+  }
+ }
+}

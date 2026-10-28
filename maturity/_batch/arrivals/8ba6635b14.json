@@ -1,0 +1,10 @@
+{"slug": "2026-10-07-mitci-mauritius-meta-online-safety-cooperation", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Minister only says AI-linked legal issues are being considered; no draft, rule or authority stated."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No government use of AI stated."}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country stated."}}},
+"cybersecurity": {"countries": {"MUS": {"facts": [{"sub_indicator": "readiness", "aspect": "figures", "value": "published", "fact": "The Acting Prime Minister cited figures published by the Mauritius Digital Promotion Agency, based on data from the ICT Authority and CERT-MU, showing reported security incidents rose from 5,221 in 2024 to 6,073 in 2025.", "as_of": "2025", "date_precision": "year", "system": "CERT-MU", "class": "response"}], "systems": [{"system": "CERT-MU", "country_label": "CERT-MU", "class": "response", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"cybersecuritylaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Cybercrime case counts are reported cases, not use of a law; the law is only said to be under review."}}},
+"internetusage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The 82.5 per cent is the minister's 'internet penetration', not stated as a share of people using the internet."}}},
+"opendiscussion": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No cut, punishment or public criticism of a government policy stated."}}}
+}}

@@ -1,0 +1,181 @@
+{
+ "slug": "2025-05-23-mus-highlights-of-cabinet-meeting-friday-23-may-2025",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mobile ID is only a planned element of a blueprint, not delivered."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "bill",
+       "fact": "Cabinet agreed on 23 May 2025 to amendments to the Cybersecurity and Cybercrime Act 2021 through the introduction of a new Bill addressing hate speech, trolling, cyber bullying and disinformation on social media.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "Cybersecurity and Cybercrime Act 2021 (amendment Bill)",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Unified data centres are only planned."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "announced",
+       "fact": "Cabinet noted on 23 May 2025 that the Ministry of Information Technology, Communication and Innovation would launch a Digital Transformation Blueprint 2025-2029 digitalising G2B, G2C and G2G services.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "Digital Transformation Blueprint 2025-2029",
+       "class": "national"
+      },
+      {
+       "sub_indicator": "national",
+       "aspect": "period",
+       "value": "to:2029",
+       "fact": "The Digital Transformation Blueprint is stated as covering 2025-2029.",
+       "as_of": "2025-05-23",
+       "date_precision": "day",
+       "system": "Digital Transformation Blueprint 2025-2029",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Transformation Blueprint 2025-2029",
+       "country_label": "Mauritius",
+       "class": "national",
+       "platform": "",
+       "owner": "Ministry of Information Technology, Communication and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks about Mauritius."
+    }
+   }
+  }
+ }
+}

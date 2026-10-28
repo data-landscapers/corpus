@@ -1,0 +1,133 @@
+{
+ "slug": "2026-10-25-sdn-ebs-general-manager-interview-hawas-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No e-procurement stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No consumer protection rule or body stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only SWIFT regional office and an unplanned regional aim; no corridor or regional system in service."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Alternate data centres are EBS's own, not stated as for hire."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government online service stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government payments to people stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No nationally owned data centre for hire stated."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Alternate sites outside the capital are named without place or distance."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No survey figure stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "BBAN is bank-to-bank; no mobile money or wallet link stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "No tax or fee payment stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "EBS general manager Saif Barri says EBS operates Sudan's national payments infrastructure under Central Bank of Sudan supervision, including the national switch that connects all Sudanese banks and settlement with the central bank.",
+       "as_of": "2026-10-25",
+       "date_precision": "day",
+       "system": "national switch (EBS)",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national switch",
+       "country_label": "Sudan",
+       "class": "oversight",
+       "platform": "",
+       "owner": "Electronic Banking Services (EBS)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

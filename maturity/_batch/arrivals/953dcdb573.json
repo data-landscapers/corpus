@@ -1,0 +1,12 @@
+{"slug":"2025-10-31-civ-cybercriminalite-un-marabout-arrete-pour-arnaque-et-chantage-sur-son-a","studies":{
+"businesspayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Fraud arrest story; states nothing on e-procurement."}}},
+"centralbank":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Mobile money mentioned only as victim of fraud; no central bank role stated."}}},
+"consumerprotection":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No consumer-protection rule or complaints body for digital finance stated."}}},
+"crossborderpayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No cross-border payment stated."}}},
+"cybersecurity":{"countries":{"CIV":{"facts":[],"systems":[{"system":"Agence nationale de la sécurité des systèmes d'information (ANSSI)","country_label":"ANSSI","class":"other","platform":"","owner":"","tiers":""},{"system":"Plateforme de lutte contre la cybercriminalité (PLCC)","country_label":"PLCC","class":"other","platform":"","owner":"ANSSI","tiers":""}],"note":"PLCC investigated and arrested a fraudster; a criminal investigation, not an incident handled or alert issued, and no creation of ANSSI by law stated."}}},
+"cybersecuritylaw":{"countries":{"CIV":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"AIP reports the suspect was prosecuted in October 2025 under loi n°2013-451 of 19 June 2013 on cybercrime, so the law is in force.","as_of":"2025-10-31","date_precision":"day","system":"Loi n°2013-451 du 19 juin 2013 relative à la cybercriminalité","class":"law"},{"sub_indicator":"law","aspect":"use","value":"used","fact":"AIP reports the PLCC arrested a marabout, who was presented to the prosecutor and prosecuted for threatening to spread sexual images and e-wallet fraud under loi n°2013-451 and the Penal Code.","as_of":"2025-10-31","date_precision":"day","system":"Loi n°2013-451 du 19 juin 2013 relative à la cybercriminalité","class":"law"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No government payment to people stated."}}},
+"paymentsuptake":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No survey share of account holders stated."}}},
+"retailpayments":{"countries":{"CIV":{"facts":[],"systems":[],"note":"A Mobile Money account is emptied by fraud; no service status, interoperability or switch stated."}}},
+"revenuecollection":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No tax or fee payment stated."}}}
+}}

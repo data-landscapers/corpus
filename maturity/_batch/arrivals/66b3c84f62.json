@@ -1,0 +1,13 @@
+{"slug": "2026-10-27-fnb-issued-with-r1m-fine-for-popia-violation", "studies": {
+"accesstoinformationlaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The article concerns POPIA only and says nothing of the access to information law."}}},
+"dataprotectionauthority": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "ITWeb describes the Information Regulator, chaired by Pansy Tlakula, as South Africa's data privacy enforcer issuing enforcement and infringement notices.", "as_of": "2026-10-26", "date_precision": "day", "system": "Information Regulator", "class": "authority"},
+{"sub_indicator": "body", "aspect": "rulings", "value": "ruled", "fact": "ITWeb reports the Information Regulator issued First National Bank an infringement notice and a R1 million administrative fine for a POPIA section 105 offence over section 19 safeguards.", "as_of": "2026-10-26", "date_precision": "day", "system": "Information Regulator", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ITWeb describes the Information Regulator as South Africa's data privacy enforcer issuing notices under POPIA.", "as_of": "2026-10-26", "date_precision": "day", "system": "Information Regulator", "class": "general"},
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ITWeb reports POPIA being enforced by fines, with penalties of up to R10 million and 10 years in jail provided for.", "as_of": "2026-10-27", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "ITWeb reports the Information Regulator issued First National Bank an infringement notice and a R1 million fine under POPIA after 88 home loan applicants' data was exposed to 696 unauthorised individuals.", "as_of": "2026-10-26", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"}
+], "systems": [], "note": ""}}},
+"police": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The article says the police service was fined under POPIA and states nothing on station records."}}}
+}}

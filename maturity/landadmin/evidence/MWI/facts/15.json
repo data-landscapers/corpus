@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-27-mwi-minister-chipungu-reveals-hackers-targeted-malawis-land-database-nyasa-times",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Land Information Management System",
+   "country_label": "Malawi",
+   "class": "landmis",
+   "platform": "",
+   "owner": "Ministry of Lands",
+   "tiers": ""
+  }
+ ],
+ "note": "Breach story; does not say transactions are processed in the system."
+}

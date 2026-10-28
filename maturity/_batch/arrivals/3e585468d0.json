@@ -1,0 +1,11 @@
+{"slug": "2024-05-06-nga-cbn-circular-national-cybersecurity-levy-implementation", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Levy circular; states nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Circular directs institutions to deduct a levy; it states no licensing, switch oversight or PAPSS role."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Levy circular; no consumer-protection rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Levy circular; no cross-border channel stated."}}},
+"cybersecuritylaw": {"countries": {"NGA": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Central Bank of Nigeria circular of 6 May 2024 says the Cybercrimes (Prohibition, Prevention, Etc) (Amendment) Act 2024 has been enacted and directs banks and payment providers to apply its section 44 cybersecurity levy, with deductions starting within two weeks.", "as_of": "2024-05-06", "date_precision": "day", "system": "Cybercrimes (Prohibition, Prevention, Etc) (Amendment) Act 2024", "class": "law"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Pension payments appear only as a levy exemption; no digital payment stated."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey of account holding."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Mobile money operators are addressed by the levy; no service or interoperability stated."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Levy remitted to a fund; not a tax or fee paid electronically by users to the state in the study's sense."}}}
+}}

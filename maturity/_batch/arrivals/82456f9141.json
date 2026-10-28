@@ -1,0 +1,14 @@
+{
+ "slug": "2026-10-25-som-somalia-launches-digital-ebola-travel-health-pass",
+ "studies": {
+  "healthmis": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Document describes an Ebola travel health declaration at borders, not the national health management information system."
+    }
+   }
+  }
+ }
+}

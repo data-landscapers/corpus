@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-17-cog-congo-telecommunications-des-orientations-pour-permettre-a-l-anssi-d-a",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "ACI states the Agence nationale de la sécurité des systèmes d'information (ANSSI) was created by law n°30-2019 of 10 October 2019, with a mission to manage security incidents and issue alerts.",
+       "as_of": "2019-10-10",
+       "date_precision": "day",
+       "system": "ANSSI",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSSI",
+       "country_label": "Agence nationale de la sécurité des systèmes d'information",
+       "class": "response",
+       "platform": "",
+       "owner": "Presidency of the Republic (tutelle)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

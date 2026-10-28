@@ -1,0 +1,78 @@
+{
+  "slug": "2026-10-25-bfa-burkina-intelligence-artificielle-une-feuille-de-route-de-30-milliards",
+  "studies": {
+    "aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Deepfake and hate-content detection tools are only proposed proofs of concept; no rule or authority stated."}}},
+    "aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Government AI applications are envisaged proofs of concept, none stated as piloted or in service."}}},
+    "ailaw": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No law, draft or binding rule on AI stated; regulatory sandboxes are only envisaged."}}},
+    "aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Health, education and agriculture AI tools are planned proofs of concept, none stated as piloted or built."}}},
+    "aistrategy": {
+      "countries": {
+        "BFA": {
+          "facts": [
+            {
+              "sub_indicator": "strategy",
+              "aspect": "standing",
+              "value": "draft",
+              "fact": "Burkina Faso's national AI roadmap 2026-2030 was validated on 19 June 2026 after ten months of work, and its official publication is still awaited, according to Dr Yaya Traore of the digital-transition ministry.",
+              "as_of": "2026-06-19",
+              "date_precision": "day",
+              "system": "Feuille de route nationale de l'IA 2026-2030",
+              "class": "strategy"
+            }
+          ],
+          "systems": [
+            {"system": "Feuille de route nationale de l'IA 2026-2030", "country_label": "Feuille de route nationale de l'IA 2026-2030", "class": "strategy", "platform": "", "owner": "Ministry in charge of digital transition", "tiers": ""}
+          ],
+          "note": "No body named for carrying it out (an AI Council is only envisaged) and the FCFA 30 billion budget is projected, not allocated."
+        }
+      }
+    },
+    "aisystems": {
+      "countries": {
+        "BFA": {
+          "facts": [
+            {
+              "sub_indicator": "localai",
+              "aspect": "build",
+              "value": "underway",
+              "fact": "Burkina Faso plans AI models for Moore, Dioula and Fulfulde under its AI roadmap, and Dr Yaya Traore says agreements have been signed with the national broadcaster RTB to collect the language data needed.",
+              "as_of": "2026-10-23",
+              "date_precision": "day",
+              "system": "National-language AI models (Moore, Dioula, Fulfulde)",
+              "class": "localai"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "cloudstrategy": {"countries": {"BFA": {"facts": [], "systems": [], "note": "An 80% national hosting target belongs to the AI roadmap; no hosting or cloud policy for public bodies is stated."}}},
+    "cybersecurity": {"countries": {"BFA": {"facts": [], "systems": [], "note": "ANSSI is mentioned only as strengthening cybersecurity; no response, designation or figures stated."}}},
+    "datacentres": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Data centres are planned only; none stated in service."}}},
+    "dataprotectionlaw": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Personal data protection is mentioned as a principle only; no law stated."}}},
+    "digitalsovereignty": {
+      "countries": {
+        "BFA": {
+          "facts": [
+            {
+              "sub_indicator": "sovereignty",
+              "aspect": "rule",
+              "value": "underway",
+              "fact": "Burkina Faso's AI roadmap 2026-2030 aims for national hosting of at least 80% of the data concerned and for its data and models to stay under state control and ownership, Dr Yaya Traore said.",
+              "as_of": "2026-10-23",
+              "date_precision": "day",
+              "system": "Feuille de route nationale de l'IA 2026-2030",
+              "class": "sovereignty"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "itcapacity": {"countries": {"BFA": {"facts": [], "systems": [], "note": "ANPTIC is named only for strengthening infrastructure; no statement of who runs which systems."}}},
+    "nationaldatacentres": {"countries": {"BFA": {"facts": [], "systems": [], "note": "National data centres are planned only; none stated in service."}}},
+    "publicconsultation": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Ten months of consultations are mentioned without naming anyone outside government, apart from diaspora experts contributing."}}}
+  }
+}

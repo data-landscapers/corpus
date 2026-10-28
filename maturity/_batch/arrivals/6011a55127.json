@@ -1,0 +1,53 @@
+{
+ "slug": "2025-12-17-mar-cybercriminalite-au-maroc-13-643-affaires-liees-aux-technologies-moder",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Only the police (DGSN) cybercrime figures are stated, not a national cyber body."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "The DGSN says 415 people were arrested and referred to court for technology-related and online blackmail crimes in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "DGSN cybercrime enforcement",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "reported",
+       "fact": "The DGSN's annual report, presented 17 December 2025, counts 13,643 cybercrime cases handled in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "DGSN annual report",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

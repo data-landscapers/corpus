@@ -1,0 +1,185 @@
+{
+ "slug": "2026-10-27-trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-de",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "IT2 tokenised biometric identity platform (Trust Stamp/BLIP)",
+       "country_label": "Nigeria",
+       "class": "other",
+       "platform": "Trust Stamp IT2",
+       "owner": "BLIP Limited (deployer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Document is a company vendor deal for ID tools and states nothing that settles this study for NGA."
+    }
+   }
+  }
+ }
+}

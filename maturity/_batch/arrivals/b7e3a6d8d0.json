@@ -1,0 +1,12 @@
+{"slug":"2026-10-25-mar-plf-2027-au-maroc-cloud-souverain-et-formation-en-ia","studies":{
+"aiabuse":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Document states nothing on rules or an authority against AI harms."}}},
+"aigovernment":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Only AI training for 5,000 supervisors is stated; no government AI system."}}},
+"aisectoral":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No sectoral AI tool is stated."}}},
+"aisystems":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No AI model, dataset or AI computing is stated."}}},
+"datacentres":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No data centre for hire is named; the sovereign cloud is a commitment only."}}},
+"digitalsovereignty":{"countries":{"MAR":{"facts":[{"sub_indicator":"sovereignty","aspect":"rule","value":"underway","fact":"The PLF 2027 presentation note, published by the Ministry of Economy and Finance, commits the government to store Moroccans' data in a sovereign national cloud in 2027, with the scope of data and timetable still to be set.","as_of":"2026-10-20","date_precision":"day","system":"cloud national souverain","class":"sovereignty"}],"systems":[{"system":"cloud national souverain","country_label":"MAR","class":"sovereignty","platform":"","owner":"government","tiers":""}],"note":""}}},
+"itcapacity":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing on government technical staff running systems; AI training is other."}}},
+"nationaldatacentres":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No nationally owned data centre for hire is stated."}}},
+"startups":{"countries":{"MAR":{"facts":[],"systems":[],"note":"MAD 1.2 billion for startups is cited with no startup act, labelling or named fund."}}},
+"techhubs":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No hub, incubator or park is stated."}}}
+}}

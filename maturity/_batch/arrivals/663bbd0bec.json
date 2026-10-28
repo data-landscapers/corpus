@@ -1,0 +1,106 @@
+{
+ "slug": "2025-11-28-gha-online-shopping-scam-black-friday-deals",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cybersecurity scam advisory and states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cybersecurity scam advisory and states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cybersecurity scam advisory and states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cybersecurity scam advisory and states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "Ghana's Cyber Security Authority issued a public advisory (ref CSA/CERT/MPA/2025-11/01) warning of Black Friday online shopping scams, citing 266 fraud cases recorded January to October 2025.",
+       "as_of": "2025-11-28",
+       "date_precision": "day",
+       "system": "Cyber Security Authority",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cyber Security Authority (CERT-GH)",
+       "country_label": "Cyber Security Authority",
+       "class": "response",
+       "platform": "",
+       "owner": "Cyber Security Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cybersecurity scam advisory and states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cybersecurity scam advisory and states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cybersecurity scam advisory and states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cybersecurity scam advisory and states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "2024-07-29-dza-apres-la-panne-informatique-mondiale-les-recommandations-de-care",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Think tank CARE describes the ASSI, CNOSSI and CNSSI as Algeria's key information-security bodies.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "Agence de la Sécurité des Systèmes d'Information (ASSI)",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "CARE says Algerian authorities activated their incident response team during the July 2024 CrowdStrike outage.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "incident response team",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CNOSSI",
+       "country_label": "Centre National Opérationnel de Sécurité des Systèmes d'Information",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "Think tank CARE, through its vice-president Ali Kahlane, published a contribution on cybersecurity resilience after the July 2024 global outage.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "CARE",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on schools."
+    }
+   }
+  }
+ }
+}

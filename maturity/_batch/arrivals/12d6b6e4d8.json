@@ -1,0 +1,53 @@
+{
+ "slug": "2026-01-09-moz-relatorio-do-banco-mundial-destaca-avancos-significativos-na-seguranca",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "INTIC says Mozambique approved its Cybersecurity Policy and Implementation Strategy (PENSC) by Resolution 69/2021.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "PENSC",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "INTIC says a National CSIRT, coordinated by Sérgio Guivala, is operational within a national CSIRT network of about a dozen teams.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "National CSIRT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CSIRT Nacional",
+       "country_label": "CSIRT Nacional",
+       "class": "response",
+       "platform": "",
+       "owner": "INTIC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated."
+    }
+   }
+  }
+ }
+}

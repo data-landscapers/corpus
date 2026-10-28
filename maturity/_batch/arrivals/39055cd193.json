@@ -1,0 +1,151 @@
+{
+ "slug": "2026-09-24-cog-congo-le-nouveau-datacenter-national-livre-d-ici-la-fin-de-l-annee-202",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Names the CAB fibre programme only as funding the data centre; no cross-border link agreed, built or in service is stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "datacentrepower": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Congo national data centre (Brazzaville, Bacongo)",
+       "country_label": "Congo",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "State of Congo; contractor Sumec",
+       "tiers": "Tier III-equivalent design target, not in service"
+      }
+     ],
+     "note": "Data centre not yet in service; generators alone and a studied grid-solar supply set nothing."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Congo national data centre (Brazzaville, Bacongo)",
+       "country_label": "Congo",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "State of Congo; contractor Sumec",
+       "tiers": "Tier III-equivalent design target, not in service"
+      }
+     ],
+     "note": "Data centre not in service (due end 2026); nothing stated that sets a value."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Congo national data centre (Brazzaville, Bacongo)",
+       "country_label": "Congo",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "State of Congo; contractor Sumec",
+       "tiers": "Tier III-equivalent design target, not in service"
+      }
+     ],
+     "note": "State data centre not in service (due end 2026); no for-hire service or hosting stated as in place."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Sika Finance reports the state's new national data centre in Brazzaville, due by end 2026, is meant to let Congo host, process and secure all its public and civil data on its own territory.",
+       "as_of": "2026-09-23",
+       "date_precision": "day",
+       "system": "Congo national data centre",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Congo national data centre (Brazzaville, Bacongo)",
+       "country_label": "Congo",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "State of Congo; contractor Sumec",
+       "tiers": "Tier III-equivalent design target, not in service"
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

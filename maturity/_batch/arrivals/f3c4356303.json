@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-26-nga-yobe-tts-nigeria-train-2500-female-youths-digital-skills",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training is for young women, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Yobe State Government, with Mastercard Foundation and Tech for Development, is set to train 2,500 young women and girls in vocational and digital skills under the Technology Talent Services project, one of 12 participating states.",
+       "as_of": "2026-10-26",
+       "date_precision": "day",
+       "system": "Technology Talent Services (TTS)",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a steering committee seat for disability organisations; nothing on accessible information or services."
+    }
+   }
+  }
+ }
+}

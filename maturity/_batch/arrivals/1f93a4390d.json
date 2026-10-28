@@ -1,0 +1,175 @@
+{
+ "slug": "2026-10-27-rwa-why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digiti",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this question for Rwanda."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The KT Press report on the Rwanda Governance Scorecard says citizens can apply for documents, pay fees and access public services through online platforms such as Irembo, and that 12 land services are online.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Irembo",
+       "class": "eservices"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "land",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The scorecard, as reported by KT Press, says the Land Administration Information System has been linked to IFMIS, the Rwanda Revenue Authority and Irembo, bringing 12 land services online.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Land Administration Information System",
+       "class": "land"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The scorecard reports 76.5% citizen satisfaction with electronic payments through Mobile Money and Airtel Money, which have reduced reliance on cash.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Mobile Money and Airtel Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "revenue",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "KT Press says citizens can pay fees through online platforms such as Irembo, with electronic payments via Mobile Money and Airtel Money.",
+       "as_of": "2026-10-27",
+       "date_precision": "day",
+       "system": "Irembo",
+       "class": "revenue"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

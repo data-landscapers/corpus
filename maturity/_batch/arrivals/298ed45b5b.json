@@ -1,0 +1,50 @@
+{
+ "slug": "2025-11-01-eth-phoenix-group-brings-30mw-bitcoin-mining-hub-in-ethiopia-online",
+ "studies": {
+  "datacentrepower": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Phoenix Group Bole Lemi mining facility",
+       "country_label": "Ethiopia",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Phoenix Group",
+       "tiers": ""
+      }
+     ],
+     "note": "30 MW mining site in partnership with state utility EEP, about 90% GERD power; no supply contract, dedicated line or PUE/water figure stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Bitcoin mining facility, not stated to rent space or computing to others."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Mining facility owned by Phoenix Group, not stated as for hire."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No rural access figure stated."
+    }
+   }
+  }
+ }
+}

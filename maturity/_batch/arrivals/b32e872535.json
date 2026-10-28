@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-01-sdn-about-the-sudanese-national-cybersecurity-authority",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The Sudanese Cybersecurity Authority states it protects the national cyberspace and runs a National Cyber Incident Response Center (Sudan-CERT).",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Sudan-CERT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Sudan-CERT",
+       "country_label": "Sudanese Cybersecurity Authority",
+       "class": "response",
+       "platform": "",
+       "owner": "Sudanese Cybersecurity Authority",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

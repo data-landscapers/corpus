@@ -1,0 +1,106 @@
+{
+ "slug": "2025-08-01-civ-panorama-des-menaces-modes-operatoires-et-menaces",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cyber threat overview and states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cyber threat overview and states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "figures",
+       "value": "published",
+       "fact": "ANSSI Cote d'Ivoire states it recorded more than 12,100 cybercrime cases in 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "ANSSI Côte d'Ivoire",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ANSSI",
+       "country_label": "ANSSI Côte d'Ivoire",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cyber threat overview and states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cyber threat overview and states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cyber threat overview and states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cyber threat overview and states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cyber threat overview and states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document is a cyber threat overview and states nothing this study asks."
+    }
+   }
+  }
+ }
+}

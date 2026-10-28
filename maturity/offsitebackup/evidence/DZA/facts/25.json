@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-23-dza-le-mohammadia-datacenter-obtient-la-certification-tier-iii-design-une",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Blida data centre",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Haut-commissariat a la numerisation",
+   "tiers": "Tier III Design in preparation"
+  }
+ ],
+ "note": "Blida is planned as a geographic backup site, not in service, and no distance is given."
+}

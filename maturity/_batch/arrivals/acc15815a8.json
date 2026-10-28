@@ -1,0 +1,97 @@
+{
+ "slug": "2026-10-08-ner-cybercriminalite-au-niger-faux-entrepreneur-billets-multiplies-credits",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Niger."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Niger."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Niger."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Niger."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Niger."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Niger."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Niger."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study's questions for Niger."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "NER": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "used",
+       "fact": "Niger's judicial police cybercrime division arrested suspects in three September 2026 cases of electronic fraud, blackmail and illegal access to Niger Telecom accounts, all referred to the prosecutor between 1 and 24 September 2026.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "DPJ cybercrime division",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

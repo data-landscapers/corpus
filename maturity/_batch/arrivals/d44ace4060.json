@@ -1,0 +1,43 @@
+{
+ "slug": "2025-06-12-mrt-ami-cybersecurity-general-framework-workshop-wardip",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A general cybersecurity framework is completed and a CSIRT and SOC are only planned; no adopted strategy or created body stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "AMI reports the head of the personal data protection authority attended a national cybersecurity workshop in Nouakchott on 12 June 2025.",
+       "as_of": "2025-06-12",
+       "date_precision": "day",
+       "system": "Personal data protection authority",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on weather satellite data."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "slug": "2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Eswatini."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Eswatini."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Eswatini."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Eswatini."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing the study asks for Eswatini."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "response",
+       "value": "responded",
+       "fact": "ESCCOM, which its chief executive calls the National Cybersecurity Agency, launched investigations into ransomware attacks on public entities including the Eswatini Water Services Corporation, after an alert from its threat intelligence tools.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "ESCCOM",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ESCCOM",
+       "country_label": "Eswatini Communications Commission (National Cybersecurity Agency)",
+       "class": "response",
+       "platform": "",
+       "owner": "ESCCOM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "provided",
+       "fact": "ESCCOM's chief executive says organisations must report breaches involving personal data to the Eswatini Data Protection Authority under Section 17 of the Data Protection Act, 2022.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Eswatini Data Protection Authority",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "ESCCOM's chief executive says organisations must report breaches involving personal data to the Eswatini Data Protection Authority under Section 17 of the Data Protection Act, 2022.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Data Protection Act, 2022",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Eswatini Water Services Corporation customers paid bills through e-Mali, Mobile Money, Cash Plus and Unayo until the corporation suspended these channels after a ransomware listing.",
+       "as_of": "2025-07",
+       "date_precision": "month",
+       "system": "Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Mali",
+       "country_label": "e-Mali",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Mobile Money",
+       "country_label": "Mobile Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Cash Plus",
+       "country_label": "Cash Plus",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "Unayo",
+       "country_label": "Unayo",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

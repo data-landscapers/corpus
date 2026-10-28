@@ -1,0 +1,7 @@
+{"slug": "2026-10-27-tgo-fibre-a-domicile-larcep-prepare-une-carte-pour-comparer-les-operateurs", "studies": {
+"fibrebackbone": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Article is about home fibre (FTTH) and a coverage map, not a national backbone."}}},
+"internationalbandwidth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No international route stated."}}},
+"internetusage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No share of population using the internet is stated."}}},
+"localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on local government office connections."}}},
+"mobileaffordability": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only fixed home-fibre speeds and latency are stated; no mobile data price."}}}
+}}
