@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-10-27
+compiled: 2026-10-28
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 201
+sources_cited: 202
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -371,7 +371,7 @@ No data category in that assessment scores above 5.0 out of 10.
 
 No open data policy governs any of this: the Ministry of Posts and Telecommunications' [draft National Data Governance Policy remains unenacted](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf) (2026), geospatial information is [collected institution by institution with no coordinated national spatial data infrastructure](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) (August 2026), and digital government and data-exchange activity is [disclosed only through periodic strategy publications and press briefings, with no public dashboard](https://africafintechnetwork.com/liberia-unveils-5-year-digital-liberia-strategy-to-boost-sovereignty-and-innovation/) (2026). The systems that run publish little about themselves: the rules of the national instant payment system [sit in agreements between the central bank, the switch operator and the mobile money operators rather than in a published rulebook](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf) (2025), and the electronic procurement platform [releases no award, tender or contract-value data](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html) (August 2026). The [digital beneficial ownership register under the Liberia Business Registry](https://eiti.org/news/liberia-launches-new-digital-beneficial-ownership-register) (2023) is the exception.
 
-The right to ask rests on the Freedom of Information Act 2010, whose [Independent Information Commission also takes the data-protection mandate rather than a new authority being created](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf), under [a data-protection Act in force since March 2026](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). That right does not reach far: the [Cybercrime Act's speech-adjacent offences sit at sections 15 to 20](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf), and the Press Union of Liberia has [challenged a new Civil Service Agency staff confidentiality agreement as a reintroduction of secrecy in government](https://www.liberianobserver.com/news/csa-launches-monthly-e-newsletter-to-boost-transparency-public-engagement/article_3f277f5c-da8f-43c6-91b4-405f0c91c464.html) (August 2026).
+The right to ask rests on the Freedom of Information Act 2010, whose [Independent Information Commission also takes the data-protection mandate rather than a new authority being created](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf), under [a data-protection Act in force since March 2026](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). That right does not reach far: the [Cybercrime Act's speech-adjacent offences sit at sections 15 to 20](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf), and the Press Union of Liberia has [challenged a new Civil Service Agency staff confidentiality agreement as a reintroduction of secrecy in government](https://www.liberianobserver.com/news/csa-launches-monthly-e-newsletter-to-boost-transparency-public-engagement/article_3f277f5c-da8f-43c6-91b4-405f0c91c464.html) (August 2026). Few know the right exists: the commission's October 2026 survey in Grand Gedeh County [found 87.6% of 1,875 respondents had never heard of the 2010 Act and 85.3% did not know how to file a request](https://analystliberiaonline.com/iic-proposes-regional-hub-grand-gedeh-survey-backs-decentralized-access/).
 
 ### Use of satellite data
 <!-- data.satellite -->
