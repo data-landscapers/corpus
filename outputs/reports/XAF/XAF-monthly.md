@@ -3,9 +3,9 @@ title: Africa — News, Sep – Oct 2026
 compiled: 2026-10-28
 period: 2026-09-01 to 2026-10-28
 place: XAF
-ledger_rows: 125
+ledger_rows: 127
 not_held: 3
-record: 2ef39d6819a0
+record: 4e49b2367821
 ---
 
 # News, Sep – Oct 2026
@@ -969,6 +969,20 @@ The World Bank Group launched its first digital strategy in Seoul on 20 October 
 **[African governments become customers for local AI](https://investdesk.africa/2026/10/22/african-governments-become-customers-for-local-ai/)** — Investdesk Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a>
 
 African public agencies are starting to buy locally built AI tools for welfare, health and procurement, partly to keep public data under local control, though tight budgets and limited data access hold startups back. Togo's AI laboratory, which grew out of using phone and satellite data to target Novissi pandemic cash transfers, now works with more than ten agencies on over 70 projects, and Kenya and Rwanda are also looking for local applications. A UN-backed call run with the ITU and Research ICT Africa, which closed on 2 October, is selecting African AI products to present to officials in Accra.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Optimizing African Revenue Authorities for Responsible AI Adoption project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Unblocking Domestic Resource Mobilization through AI Tools: Introducing the Optimizing African Revenue Authorities for Responsible AI Adoption Project](https://developmentgateway.org/blog/unblocking-domestic-resource-mobilization-through-ai-tools-introducing-the-optimizing-african-revenue-authorities-for-responsible-ai-adoption-project/)** — Development Gateway, 28 October 2026
+
+12-month Hewlett-backed project; AI-readiness benchmark across 45 ATAF members, roadmaps for three authorities.
 
 </div>
 
@@ -2259,6 +2273,20 @@ At a press conference alongside the African Development Bank's president in Seou
 **[UNGA81: ATU calls for stronger protection of Africa's critical digital infrastructure](https://www.techreviewafrica.com/news/7388/unga81-atu-calls-for-stronger-protection-of-africas-critical-digital-infrastructure)** — Tech Review Africa, 22 September 2026
 
 The African Telecommunications Union's secretary general, John Omo, called for stronger protection of critical civilian digital infrastructure at a UN Office for Digital and Emerging Technologies roundtable during the 81st UN General Assembly in New York. He cited domestic data centres, cross-border fibre and internet exchange points, and a July 2026 partnership with the UN office on digital public infrastructure and AI.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AU Commission-Russian Federation Action Plan 2027-2029</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AUC Chairperson & H.E. Sergey Lavrov signed the AU Commission–Russian Federation Action Plan 2027–2029](https://www.au.int/en/pressreleases/20261028/signature-au-commission-russian-federation-action-plan-2027-2029)** — African Union Commission, 28 October 2026
+
+Signed 28 Oct 2026 in Moscow; 19 areas incl. AI, digital transformation, cybersecurity; non-binding.
 
 </div>
 
