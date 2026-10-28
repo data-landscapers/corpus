@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: BFA
-ledger_rows: 52
+ledger_rows: 53
 not_held: 7
-record: a0fbdda6ee5f
+record: 25be7a5e77d1
 ---
 
 # News, Sep – Oct 2026
@@ -787,6 +787,20 @@ Burkina Faso scored 1.10 out of 4 on the Africa AI Governance Index 2026, in the
 **[L’Essentiel.bf : Une nouvelle plateforme numérique pour s’informer en français et en mooré](https://lefaso.net/spip.php?article149991)** — leFaso.net, 15 October 2026
 
 Burkina Faso's AI centre of excellence, CITADEL, and its Data Lab launched L'Essentiel.bf, a free web and mobile service. It uses AI to summarise four national news outlets every 15 minutes in French and Mooré, as text and audio.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI roadmap 2026 to 2030</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina/Intelligence artificielle : Une feuille de route de 30 milliards de FCFA pour créer 5 000 emplois spécialisés d’ici à 2030](https://lefaso.net/?id_article=150234&page=impression)** — LeFaso.net, 25 October 2026
+
+FCFA 30bn to 2030; 23 AI pilots, 80% national data hosting, Moore, Dioula, Fulfulde models; publication still pending.
 
 </div>
 
