@@ -23,9 +23,9 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 | 5 Leading | 0 |
 | 4 Operating | 5 |
 | 3 Established | 7 |
-| 2 Nascent | 21 |
+| 2 Nascent | 20 |
 | 1 Absent | 0 |
-| Unplaced | 0 |
+| Unplaced | 1 |
 | No evidence | 21 |
 
 ## Countries
@@ -99,7 +99,7 @@ Mauritius launched its National Data Strategy 2025-2029 in January 2026; no body
 
 ### Senegal: 3 Established
 
-A July 2026 report says Senegal has adopted a National Data Strategy; no source found says when, and any body to carry it out,.
+A July 2026 report says Senegal has adopted a national data strategy; when it was adopted and who carries it out are not known.
 
 - The article says Senegal has adopted its National Data Strategy (SND) and AI Strategy (SNIA), without giving the adoption date; the date used is the article's published date, which the file marks as an ingest-date proxy ([source, 2026-07-20](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/)).
 
@@ -194,12 +194,6 @@ Liberia's national data governance policy was a draft in March 2026, to be publi
 
 - The Ministry of Posts and Telecommunications' National Data Governance Policy carries a cover reading draft, a Document Control version of Final dated March 2026, and a closing line that it will be published upon approval; the text records no approval or launch by the government ([source, 2026-03](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf)).
 
-### Morocco: 2 Nascent
-
-Morocco committed to a national data policy in 2018 to 2020; a 2024 article says none is formalised and no data committee exists.
-
-- Morocco's Open Government Partnership commitment page, undated and filed at 2020 by inference, lists setting up a national data policy as part of an August 2018 to August 2020 commitment, with drafting of the public-data strategy and regulation (May to October 2019) shown as in progress at 90%; as_of is the last milestone, March 2020 ([source, 2020-03](https://www.gouvernement-ouvert.ma/engagements.php?engagement=4&lang=fr)).
-
 ### Mozambique: 2 Nascent
 
 Mozambique's draft national data governance policy and strategy were validated in December 2025; the minister said in July 2026 they were not yet approved.
@@ -235,6 +229,12 @@ Tunisia's national data strategy was a final draft in March 2026; no source foun
 Zambia was drafting a national data policy in 2026; no source found says whether the government has adopted it.
 
 - Research ICT Africa says it supported the drafting of the Zambian National Data Policy ([source, 2026-09](https://researchictafrica.net/project/datacipation-shaping-harmonised-and-inclusive-digital-and-data-policies-in-africa/)).
+
+### Morocco: Unplaced
+
+Morocco committed to a national data policy in 2018 to 2020; a 2024 article says none has been formalised, so no stage is set.
+
+Not established: Nothing since March 2020 shows a national data policy being written. A December 2024 article says none has been formalised, but not that none is being written.
 
 ### Angola: No evidence
 

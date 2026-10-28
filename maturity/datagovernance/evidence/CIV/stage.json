@@ -1,16 +1,17 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-004",
-   "gaps": "No source found names a body set up or named to carry out the policy: a council, office, agency, committee, chief data officer or ministry unit.",
-   "note": "Counted from the four questions by study-ladder-datagovernance.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-004",
+      "gaps": "No source found names a body set up to carry out the strategy. A March 2025 report says it was awaiting adoption, and its launch date is not given.",
+      "note": "The strategy's own text carries the Prime Minister's foreword on its official launch by the government, so it is adopted, though a March 2025 report calls it awaiting adoption and the launch is undated. No body named to carry it out is held, so stage 4 is not met.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

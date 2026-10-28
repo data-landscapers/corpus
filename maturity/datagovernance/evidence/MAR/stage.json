@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "policy",
-      "stage": "2",
-      "standing": "draft",
-      "use": "",
+      "stage": "unplaced",
+      "standing": "none",
+      "use": "none",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-001",
-      "gaps": "No source found says a national data policy is adopted and still running.",
-      "note": "Counted from the four questions by study-ladder-datagovernance.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "",
+      "gaps": "Nothing since March 2020 shows a national data policy being written. A December 2024 article says none has been formalised, but not that none is being written.",
+      "note": "The only drafting held is a March 2020 milestone of an open-data commitment, too old to show a policy is being written now, and a 2024 article finds none formalised, so the cell is lowered from 2 on age. That article does not say none is being written, so stage 1 is not met either.",
+      "as_at": "2026-10-28"
     }
   ]
 }

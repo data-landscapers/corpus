@@ -1,16 +1,17 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "policy",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-002",
-   "gaps": "No source found names a body set up or named to carry out the policy: a council, office, agency, committee, chief data officer or ministry unit.",
-   "note": "Counted from the four questions by study-ladder-datagovernance.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "policy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-002",
+      "gaps": "No source found names a body set up to carry out the strategy. The date it was adopted is not given.",
+      "note": "A July 2026 report says the National Data Strategy is adopted, which meets stage 3; the data blueprint validated in September 2026 is a separate draft. No body named to carry out the strategy is held, so stage 4 is not met.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }
