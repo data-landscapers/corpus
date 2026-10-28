@@ -169,7 +169,7 @@ MTN Group committed over USD 215 million in 2025, but no money raised inside Ben
 
 ### Botswana: 2 Nascent
 
-Private money of GBP 10 million was committed to a Botswana tech fund in April 2026; no source found says whether more came in other years.
+Private money of GBP 10 million was committed to a Botswana tech fund in April 2026; no source says whether more came in other years.
 
 - Pula Investments, the family office of UK financier Stephen Lansdown, anchors Botswana Tech Fund, which TechCabal says has GBP 10 million (USD 13.5 million) in committed capital with a first close of GBP 5 million (USD 6.7 million); the fund is run from Botswana with Launch Africa; no signing date is given, so the 2026-04-27 publication date is used ([source, 2026-04](https://techcabal.com/2026/04/27/botswana-tech-fund/)).
 
@@ -193,7 +193,7 @@ Development finance institutions put money into two Ivorian firms in 2024; no so
 
 ### DR Congo: 2 Nascent
 
-A fund lent USD 32.8 million and Helios Towers committed over USD 100 million to towers in 2026; no source found says where it was raised.
+A fund lent USD 32.8 million and Helios Towers committed over USD 100 million to towers in 2026; no source says where it was raised.
 
 - Finance tables: Helios Towers committed USD 100 million (Self Funded, Approved) to a private digital beneficiary, starting 2026: Helios Towers — DRC telecom tower infrastructure investment, 2026 ([source, 2026](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios)).
 
@@ -235,7 +235,7 @@ Catalyst Fund put $200,000 into one Bamako insurtech in 2025; no source found sa
 
 ### Mauritius: 2 Nascent
 
-One private amount is held for Mauritius, USD 7.5 million raised by a fintech in 2025; no source found says whether money came in other years.
+One private amount is held for Mauritius, USD 7.5 million raised by a fintech in 2025; no source says whether money came in other years.
 
 - ImpactAlpha reports that Mauritius-based fintech Kuunda raised a USD 7.5 million pre-Series A round backed by Seedstars Africa Ventures, Accion Ventures, Nedbank, E4E Africa, 4Di Capital and Portugal Gateway Fund ([source, 2025-10-16](https://impactalpha.com/kuunda-lands-7-5-million-to-provide-short-term-financing-for-small-businesses/)).
 
@@ -277,7 +277,7 @@ A Tunisian startup raised USD 1.5 million in one round, co-led by a Tunis fund, 
 
 ### Uganda: 2 Nascent
 
-Four private deals of USD 15 million, 12 million, 1.6 million and 420,000 came in during 2024, but no source found reports money raised inside Uganda.
+Four private deals of USD 15 million, 12 million, 1.6 million and 420,000 came in during 2024, but no source reports money raised inside Uganda.
 
 - Ugandan e-bike start-up Gogo Electric raised USD 1.6m from the EU-backed Electrification Financing Initiative (ElectriFI); the document lists it among 2024 raises and gives no month ([source, 2024](https://www.ceo.co.ug/ugandan-startups-raise-usd-19m-in-2024/)).
 
@@ -319,7 +319,7 @@ Not established: Nothing found names private money put into a digital business i
 
 ### Chad: No evidence
 
-No private money put into a digital business in Chad has been found, and no source found says whether any exists, so no stage is set.
+No private money put into a digital business in Chad has been found, and no source says whether any exists, so no stage is set.
 
 Not established: Nothing found names private money put into a digital business in the country, or says there is none.
 
@@ -343,7 +343,7 @@ Not established: Nothing found names private money put into a digital business i
 
 ### Eswatini: No evidence
 
-No private money put into a digital business in Eswatini has been found, and no source found says whether any exists, so no stage is set.
+No private money put into a digital business in Eswatini has been found, and no source says whether any exists, so no stage is set.
 
 Not established: Nothing found names private money put into a digital business in the country, or says there is none.
 
@@ -373,6 +373,6 @@ Not established: Nothing found names private money put into a digital business i
 
 ### Sudan: No evidence
 
-No source found reports no private money put into a digital business in Sudan is named, and it whether any exists, so no stage is set.
+No private money put into a digital business in Sudan is named, and no source found says whether any exists, so no stage is set.
 
 Not established: Nothing found names private money put into a digital business in the country, or says there is none.
