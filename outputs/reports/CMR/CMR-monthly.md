@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: CMR
-ledger_rows: 40
+ledger_rows: 42
 not_held: 4
-record: bbd5ba92d2b8
+record: 2c6b96b973f9
 ---
 
 # News, Sep – Oct 2026
@@ -59,6 +59,20 @@ Cameroon is commissioning a national master plan to digitise its public-procurem
 **[Cameroun : Un plan directeur pour achever la digitalisation des marchés publics](https://leconomie.info/article/cameroun-un-plan-directeur-pour-achever-la-digitalisation-des-marches-publics)** — Le quotidien L'Economie, 8 September 2026
 
 The African Development Bank awarded the NC Consulting/Eyra International grouping a six-month, FCFA 241.36 million contract to draw up Cameroon's master plan for digitalising public procurement. The plan is to cover the whole procurement cycle and the gaps that limit use of COLEPS, the e-procurement platform run since 2018. No award date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Successor to the expired national digital plan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon Eyes AI-Led Growth with New Digital Economy Strategy](https://www.businessincameroon.com/public-management/2610-17054-cameroon-eyes-ai-led-growth-with-new-digital-economy-strategy)** — Business in Cameroon, 26 October 2026
+
+Draft strategy being finalised; pillars infrastructure, data governance, skills, research, responsible AI.
 
 </div>
 
@@ -143,6 +157,28 @@ A second account of the Yaoundé Declaration, adding its call for interoperable 
 **[Yaoundé Declaration Targets 100% Local Hosting of Critical Government Data by 2030](https://www.businessincameroon.com/public-management/2310-17029-yaounde-declaration-targets-100-local-hosting-of-critical-government-data-by-2030)** — Business in Cameroon, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The Yaoundé Declaration on E-Governance and Artificial Intelligence in Africa, adopted when the E-Gov'A conference closed on 17 October 2026, asks African governments to host all classified critical or sovereign public data inside their own borders by 2030, and where domestic capacity is lacking to prefer another African country over providers off the continent. The organisers, Smart Click Africa and Digital Business Africa, are to run an African Observatory for E-Government and AI; the hosting target is a recommendation and binds no government.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seat of the Central African telecoms regulators' assembly (ARTAC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LEADERSHIP NUMÉRIQUE : LE CAMEROUN CHOISI POUR ABRITER LE SIÈGE DE L’ARTAC](https://www.art.cm/fr/article/leadership-num%C3%A9rique-le-cameroun-choisi-pour-abriter-le-si%C3%A8ge-de-l%E2%80%99artac)** — Agence de régulation des télécommunications (ART), Cameroun, 26 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Libreville session 20-21 Oct 2026; ART Cameroon designates executive secretary; ICT Observatory resolution.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroon to host ARTAC headquarters as Central African regulators deepen digital cooperation](https://techreviewafrica.com/news/7974/cameroon-to-host-artac-headquarters-as-central-african-regulators-deepen-digital-coo)** — Tech Review Africa, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
+
+Libreville session 20-21 Oct 2026; TRB to name Executive Secretary; Central African ICT Observatory resolution.
 
 </div>
 
