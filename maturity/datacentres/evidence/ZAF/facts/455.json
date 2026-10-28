@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-27-zaf-teraco-unveils-r2bn-solar-backup-plan-for-sa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Business Day reports Teraco Data Environments is Africa's largest data centre provider, with Amazon, Google and Microsoft among its clients.",
+   "as_of": "2024-02-27",
+   "date_precision": "day",
+   "system": "Teraco",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty (majority)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-12-zaf-water-scarcity-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Teraco describes itself as a third-party data centre provider whose facilities host clients' IT workloads.",
+   "as_of": "2025-03-12",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

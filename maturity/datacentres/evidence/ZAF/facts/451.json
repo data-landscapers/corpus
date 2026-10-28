@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-01-zaf-teraco-ct2-expands-cape-town-data-centre-capacity-now",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": "Article does not state that CT2 rents space or computing, and gives no Tier or cloud region."
+}

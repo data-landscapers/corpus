@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-13-nga-achieving-tier-iv-certification-at-cloud-exchange-data-centre",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Data Centres Africa's Cummins case study says Cloud Exchange's colocation data centre in Ikoyi, Lagos achieved Tier IV certification and opened on schedule.",
+   "as_of": "2025-05-13",
+   "date_precision": "day",
+   "system": "Cloud Exchange data centre, Ikoyi",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cloud Exchange data centre, Ikoyi",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "colocation",
+   "owner": "Cloud Exchange",
+   "tiers": "Tier IV"
+  }
+ ],
+ "note": ""
+}

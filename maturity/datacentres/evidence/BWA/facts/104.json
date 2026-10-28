@@ -1,0 +1,15 @@
+{
+ "slug": "2025-03-11-bwa-agreement-for-data-centre-development-at-lesedi",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lesedi high-density computational facility",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Kala Data FZCO with Tlou Energy",
+   "tiers": ""
+  }
+ ],
+ "note": "The facility is proposed, not in service; no Tier or cloud region stated."
+}

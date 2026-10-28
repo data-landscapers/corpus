@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-12-cmr-suivi-des-recommandations-du-forum-national-sur-la-cybersecurite-et-la",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Zamengoue data center",
+   "country_label": "Zamengoue Tier III data center",
+   "class": "other",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "Zamengoue Tier III centre is named but the document does not say it rents to outside organisations."
+}

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COG,datacentre,centre,coverage,tier3,2026-03-03,COG-002;COG-005;COG-007;COG-008,COG-001=service;COG-003=service;COG-004=service;COG-006=service,
-COG,datacentre,cloud,coverage,,,,,nothing held
+COG,datacentre,cloud,coverage,,,,,nothing found

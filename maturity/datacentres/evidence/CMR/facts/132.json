@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-cmr-ocp-ready-data-center-site-assessment-st-digital-douala",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "The OCP Ready self-assessment lists Douala01 in Bonanjo, Douala as a 'multi-tenant capacity available' site with 1MW critical IT power and eight network providers.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ST Digital Douala01",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "No Tier rating or cloud region stated."
+}
