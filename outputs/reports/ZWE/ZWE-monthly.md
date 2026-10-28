@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Sep – Oct 2026
-compiled: 2026-10-26
-period: 2026-09-01 to 2026-10-26
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: ZWE
-ledger_rows: 47
+ledger_rows: 48
 not_held: 6
-record: 8ca58b680bf9
+record: 74349cbe81f2
 ---
 
 # News, Sep – Oct 2026
@@ -533,6 +533,20 @@ Zimbabwe's central bank is negotiating with NPCI International to build a real-t
 **[CEO Africa Roundtable: Zimbabwe processes $5.8 million a month through PAPSS as local currency settlement takes hold](https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/)** — The Herald, 8 October 2026
 
 Afreximbank said Zimbabwe is processing US$5.8 million a month through the pan-African payment and settlement system. Yuan clearing is being brought onto the platform through its link to China's interbank system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Roads administration multi-currency e-wallet</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZINARA rolls out multi-currency e-wallet platform](https://www.heraldonline.co.zw/zinara-rolls-out-multi-currency-e-wallet-platform/)** — The Herald (Zimbabwe), 24 October 2026
+
+Tolls, vehicle and ZBC licences, third-party insurance in one wallet; iOS, Android, web, USSD; KYC upload required.
 
 </div>
 
