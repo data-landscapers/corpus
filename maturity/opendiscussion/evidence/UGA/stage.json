@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "discussion",
-   "stage": "1",
-   "debate": "criticised",
-   "connection": "cut",
-   "penalty": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-008;UGA-013",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-opendiscussion.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "discussion",
+      "stage": "1",
+      "debate": "criticised",
+      "connection": "cut",
+      "penalty": "punished",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-008;UGA-013",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-opendiscussion.py.",
+      "as_at": "2026-10-28"
+    }
+  ]
 }

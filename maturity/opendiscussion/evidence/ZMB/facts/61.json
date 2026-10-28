@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-20-zmb-zambian-journalist-detained-for-audio-leak-under-cyber-laws-weeks-befo",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CPJ reports journalist MacPherson Mukuka was detained from 17 July 2026 for publishing an audio recording said to show public servants in a Presidential Campaign Team committee discussing how to work with polling station staff.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Cyber Crimes Act 2025",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "CPJ reports the Law Association of Zambia and the Chapter One Foundation petitioned the court to challenge the constitutionality of several provisions of the Cyber Security Act and Cyber Crimes Act, with judgment due 20 October 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Cyber Security Act and Cyber Crimes Act",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

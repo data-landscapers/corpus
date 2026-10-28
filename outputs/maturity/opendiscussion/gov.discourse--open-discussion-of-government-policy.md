@@ -21,9 +21,9 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 3 |
+| 4 Operating | 2 |
 | 3 Established | 0 |
-| 2 Nascent | 25 |
+| 2 Nascent | 26 |
 | 1 Absent | 12 |
 | Unplaced | 8 |
 | No evidence | 6 |
@@ -35,13 +35,6 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 In May 2026 the Gambia Press Union criticised new laws, and courts struck down criminal defamation; no source found reports cuts and punishments.
 
 - The Gambia Press Union said criminal defamation and false publication online had previously been struck down by the Supreme Court, giving no date ([source, 2026-05-14](https://gambiaj.com/society/human-rights/gpu-warns-press-freedom-gains-mask-growing-threats-against-journalists-in-the-gambia/)).
-
-### Kenya: 4 Operating
-
-The Court of Appeal struck down false-publication offences in March 2026 and the National Assembly appealed; who ordered the 2025 Telegram block is unknown.
-
-- Kenya's Court of Appeal invalidated sections 22 and 23 of the 2018 Computer Misuse and Cybercrimes Act, which made publishing false or misleading data and knowingly spreading false information offences with fines up to KSh 5 million and up to ten years in prison; the ruling's date is not given, so the article's publication date is used, and the National Assembly has appealed to the Supreme Court ([source, 2026-08-31](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne)).
-- Two sections of Kenya's Computer Misuse and Cybercrimes Act that criminalised false publication, with fines up to five million shillings or two years in prison, were struck down as unconstitutional by the Court of Appeal in a case brought by the Bloggers Association of Kenya; the ruling's date is not given, so the article's publication date is used ([source, 2026-07-28](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/)).
 
 ### Lesotho: 4 Operating
 
@@ -58,13 +51,13 @@ In 2026 journalists, the opposition and the bar association criticised Angola's 
 
 ### Botswana: 2 Nascent
 
-In February 2026 a civil society chairperson called for fuller consultation on a court process; no source found reports any cut, block or punishment for speech.
+In February 2026 a civil society chairperson called for fuller consultation on a court process; no source reports any cut, block or punishment for speech.
 
 - BOCONGO's board chairperson told the minister at a dialogue with civil society that the Constitutional Court process must rest on meaningful, structured, inclusive participation, that consultations must go beyond mere formality, and called for clear public information and more time; the document gives the date as the Monday before its 10 Feb 2026 report ([source, 2026-02-09](https://dailynews.gov.bw/news-detail/89903)).
 
 ### Burkina Faso: 2 Nascent
 
-In 2026 a student union criticised the government and was suspended, and TV5 Monde was suspended; no source found says whether anyone was jailed for speech.
+In 2026 a student union criticised the government and was suspended, and TV5 Monde was suspended; no source says whether anyone was jailed for speech.
 
 - CIVICUS Monitor reports the General Student Union of Burkina Faso (UGEB) issued a statement criticising the government's security record and the military authorities' failure to restore security ([source, 2026-05](https://monitor.civicus.org/explore/military-authorities-continue-to-suspend-csos-including-largest-student-union/)).
 - The MFWA report, as relayed by The Nation, cites the suspension of international broadcasters in Burkina Faso (with Mali and Niger) over alleged bias; no date or outlet named, and the report spans six years, so as_of is the document's published date ([source, 2026-08-14](https://thenationonlineng.net/mfwa-sahel-juntas-weaponising-cybercrime-laws-to-silence-journalists/)).
@@ -85,7 +78,7 @@ Police arrested a journalist over a Facebook post in November 2025; no source fo
 
 ### Congo: 2 Nascent
 
-In May 2026 police arrested a rights defender after a passport campaign and held him in pre-trial detention; no source found says how his case ends.
+In May 2026 police arrested a rights defender after a passport campaign and held him in pre-trial detention; no source says how his case ends.
 
 - The Congolese civil-society platform Congo Droit et Justice pour Tous et par Tous ran a campaign, including through members' social media, denouncing the difficulty citizens have in obtaining a passport, and announced a press conference for 29 May 2026 on the causes of the passport problem ([source, 2026-05-29](https://www.fidh.org/fr/themes/defenseurs-des-droits-humains/congo-poursuite-du-harcelement-judiciaire-et-ouverture-du-proces-de-m-33088)).
 - Police in plain clothes arrested human rights defender Ghislain Ondele Kanga of the platform Congo Droit et Justice pour Tous et par Tous at his home on 30 May 2026 and took him to the intelligence service (CID) in Brazzaville; he was referred to the prosecutor 56 days later, charged reportedly with false dissemination and declaration of an unauthorised demonstration under ordonnance 62-3 of 1962 and law 19/60 on associations, and held in pre-trial detention in Brazzaville after a campaign on social media denouncing difficulty in getting a passport ([source, 2026-05-30](https://www.fidh.org/fr/themes/defenseurs-des-droits-humains/congo-poursuite-du-harcelement-judiciaire-et-ouverture-du-proces-de-m-33088)).
@@ -111,11 +104,18 @@ In April 2026 an outlet published an investigation holding the ICT ministry to a
 
 ### Ghana: 2 Nascent
 
-In September 2026 a nursing officer was arrested and charged over alleged false-news videos; no source found says whether anyone else was punished or access cut.
+In September 2026 a nursing officer was arrested and charged over alleged false-news videos; no source says whether anyone else was punished or access cut.
 
 - Democracy Hub, a Ghanaian civil-society group, through its adviser Oliver Barker-Vormawor, criticised on JoyNews on 19 September 2026 the police detention, the denial of bail and the evidence-gathering in the prosecution of Salomey Awiti Bafoh, and said the Ghana Bar Association had also raised concerns about arrests connected to communications ([source, 2026-09-19](https://www.myjoyonline.com/barker-vormawor-urges-courts-to-scrutinise-rights-violations-in-ghana-jollof-case/)).
 - Senior nursing officer Salomey Awiti Baffoe was arrested and remanded over alleged links to UK-based TikTok user 'Ghana Jollof', accused by the CID of circulating false information (Section 208, Criminal and Other Offences Act); the document gives no arrest date, so as_of is its published date, and does not quote what she posted ([source, 2026-09-19](https://www.myjoyonline.com/ghana-jollof-case-does-section-208-of-criminal-code-only-apply-to-npp-ntim-fordjour-questions/)).
 - Senior nursing officer Salomey Awiti Bafoh was arrested on 13 September 2026 at Hansua near Techiman and charged at the Adentan Circuit Court with abetment of publishing and circulating false news under sections 20(1) and 208 of the Criminal Offences Act, 1960 (Act 29), for allegedly helping redistribute videos from the UK-based 'Ghana Jollof' TikTok account; she pleaded not guilty, was denied bail and remanded to 30 September, and the allegations are not proven ([source, 2026-09-13](https://www.myjoyonline.com/barker-vormawor-urges-courts-to-scrutinise-rights-violations-in-ghana-jollof-case/)).
+
+### Kenya: 2 Nascent
+
+A journalist was charged over a WhatsApp message in February 2026; courts struck down false-publication offences in March; a bar on cuts is not known.
+
+- The Consumer Federation of Kenya (COFEK), a civil-society group, challenged in the High Court the award of the Digital Superhighway tenders to Nightigale (EA) Limited over alleged conflict of interest, and on 2026-09-04 won an order quashing the Attorney-General's advisory opinion of 1 October 2024 clearing the procurement; it lost its bid to void the contracts ([source, 2026-09-04](https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184)).
+- CPJ says journalist Peter Mwita was detained seven days from 31 December and charged on 25 February 2026 over a WhatsApp message alleging links between a Mombasa politician and a gang ([source, 2026-02-25](https://cpj.org/2026/02/kenya-court-due-to-rule-on-cybercrimes-law-as-another-journalist-faces-jail/)).
 
 ### Liberia: 2 Nascent
 
@@ -147,7 +147,7 @@ Civil society criticised budget and surveillance plans in 2026; no source found 
 
 ### Mali: 2 Nascent
 
-In 2026 Mali's press bodies criticised journalists' arrests while two journalists were sentenced and a radio programme suspended; no source found says whether any cut occurred.
+In 2026 Mali's press bodies criticised journalists' arrests while two journalists were sentenced and a radio programme suspended; no source says whether any cut occurred.
 
 - RSF says the Maison de la Presse sharply criticised the detention of the two journalists in June 2026, saying the judiciary had fallen short of creating a space of peace and understanding ([source, 2026-06](https://rsf.org/en/broadcast-suspension-and-arrests-journalists-mali-nearly-six-years-transition-marked-repression)).
 - The Southern Africa Litigation Centre says a journalist in Mali was imprisoned "last month" for criticising the authorities ([source, 2026-09](https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/)).
@@ -162,7 +162,7 @@ Social media was suspended for a day in November 2024 amid public outcry; whethe
 
 ### Morocco: 2 Nascent
 
-Nationwide protests criticised policy from September 2025 and a man was jailed in October 2025 for posts; no source found says whether the internet was cut.
+Nationwide protests criticised policy from September 2025 and a man was jailed in October 2025 for posts; no source says whether the internet was cut.
 
 - Human Rights Watch says the youth movement GenZ212 called nationwide protests from 27 September 2025 criticising public spending on mega-sporting events and demanding more for health care and education ([source, 2025-09-27](https://www.hrw.org/news/2025/10/15/morocco-protests-met-with-repression-violence)).
 
@@ -195,13 +195,13 @@ Police shut Risaala Media and arrested five journalists in March 2025; Amnesty r
 
 ### South Sudan: 2 Nascent
 
-A media body criticised the January 2025 social media block publicly; no source found says whether anyone was punished for speech in the last twelve months.
+A media body criticised the January 2025 social media block publicly; no source says whether anyone was punished for speech in the last twelve months.
 
 - AMDISS, a South Sudanese media body, publicly criticised the Facebook and TikTok blockage as restraining press freedom and public discourse ([source, 2025-01-28](https://www.africafex.org/digital-rights/amdiss-welcomes-lifting-of-the-ban-on-facebook-and-tiktok-and-calls-on-the-authorities-to-keep-the-platforms-accessible)).
 
 ### Tunisia: 2 Nascent
 
-Journalists were sentenced to prison in 2026 over what they wrote and said; no source found says whether any twelve months pass without such a case.
+Journalists were sentenced to prison in 2026 over what they wrote and said; no source says whether any twelve months pass without such a case.
 
 - The National Union of Tunisian Journalists (SNJT), with Human Rights Watch, Amnesty International and RSF, denounced Decree-Law 2022-54 as a tool of repression, and the SNJT called for the annulment of the El Mekki judgment; the SNJT is inside the country; the criticism is reported in the document dated 2026-07-16 ([source, 2026-07-16](https://nawaat.org/2026/07/16/liberte-dexpression-en-tunisie-recul-alarmant-sous-le-joug-du-decret-54-et-de-larticle-86/)).
 - Journalists Borhen Bsaies and Mourad Zeghidi were sentenced to one year in prison, reduced to eight months, for statements under Decree-Law 54; the document gives no date for the sentence, so the document's publication date 2026-07-16 is used ([source, 2026-07-16](https://nawaat.org/2026/07/16/liberte-dexpression-en-tunisie-recul-alarmant-sous-le-joug-du-decret-54-et-de-larticle-86/)).
@@ -237,14 +237,14 @@ Internet access in Lac province has been cut since October 2024 and was still li
 
 ### Djibouti: 1 Absent
 
-In 2024 to 2026 Djibouti's state media stayed uncritical, opposition sites were blocked and journalists were arrested; no source found says whether anyone criticises policy publicly.
+In 2024 to 2026 Djibouti's state media stayed uncritical, opposition sites were blocked and journalists were arrested; no source says whether anyone criticises policy publicly.
 
 - Exiled journalist Zineb Haddaji tells CIVICUS Lens that opposition and exiled media websites are blocked in Djibouti and social media access is restricted at times of political tension ([source, 2026-07-03](https://lens.civicus.org/interview/djibouti-silence-is-the-mechanism-that-makes-authoritarianism-possible/)).
 - The US State Department says the government owned the only radio and television stations and the newspaper La Nation held a monopoly on authorized print media, with official media generally not criticising government policy ([source, 2024](https://dj.usembassy.gov/wp-content/uploads/sites/165/2025/08/624521_DJIBOUTI-2024-HUMAN-RIGHTS-REPORT-1.pdf)).
 
 ### Egypt: 1 Absent
 
-In February 2026 Egypt was still blocking independent news sites, at least 630 websites; no source found says whether the journalists arrested since 2025 were charged.
+In February 2026 Egypt was still blocking independent news sites, at least 630 websites; no source says whether the journalists arrested since 2025 were charged.
 
 - Access Now and co-signatories say Egyptian authorities continue to block independent media sites, with at least 630 websites currently blocked ([source, 2026-02-12](https://www.accessnow.org/press-release/human-rights-abuses-facilitated-by-applogic-networks-in-egypt/)).
 
@@ -296,7 +296,7 @@ The internet was cut nationwide around the 29 October 2025 election; no source f
 
 ### Uganda: 1 Absent
 
-The government cut the internet for four days around the January 2026 election and kept social media blocked; no source found says when those blocks ended.
+The government cut the internet for four days around the January 2026 election and kept social media blocked; no source says when those blocks ended.
 
 - Access Now's #KeepItOn report describes Uganda's January 2026 blackout as a cut of internet and social media ([source, 2026-01](https://www.accessnow.org/internet-shutdowns-2025/)).
 - A nationwide internet shutdown in January 2026 ahead of the general elections lasted nearly 100 hours; authorities said it was to prevent misinformation and electoral violence ([source, 2026-01](https://www.newvision.co.ug/category/health/csos-raise-alarm-over-digital-violations-affe-NV_229061_092026)).
@@ -357,7 +357,7 @@ Not established: Nothing found says government policy is criticised in public in
 
 ### Central African Republic: No evidence
 
-The government set up a communications monitoring unit in 2026; no source found says whether criticism, cuts or speech punishments occurred, so no stage is set.
+The government set up a communications monitoring unit in 2026; no source says whether criticism, cuts or speech punishments occurred, so no stage is set.
 
 Not established: Nothing found says government policy is criticised in public inside the country, that the internet was cut, or that anyone was punished for what they said.
 

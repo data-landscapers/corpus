@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,discussion,debate,coverage,,,,,nothing held
-SLE,discussion,connection,coverage,,,,,nothing held
-SLE,discussion,penalty,coverage,repealed,2020-06-25,SLE-001,,nothing dated since 2023-10-18
+SLE,discussion,debate,coverage,,,,,nothing found
+SLE,discussion,connection,coverage,,,,,nothing found
+SLE,discussion,penalty,coverage,punished,2024-12-22,SLE-002,SLE-001=repealed,

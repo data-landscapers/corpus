@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SSD,discussion,debate,coverage,criticised,2025-10-22,SSD-002;SSD-004,,
-SSD,discussion,connection,coverage,cut,2025-01,SSD-001;SSD-003,,
-SSD,discussion,penalty,coverage,,,,,nothing held
+SSD,discussion,connection,coverage,cut,2025,SSD-001;SSD-003;SSD-005,,
+SSD,discussion,penalty,coverage,,,,,nothing found

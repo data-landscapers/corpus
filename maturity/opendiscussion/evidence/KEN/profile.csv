@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,discussion,debate,coverage,criticised,2026-09-04,KEN-004;KEN-008;KEN-009;KEN-010;KEN-011,,
+KEN,discussion,debate,coverage,criticised,2026-09-04,KEN-004;KEN-008;KEN-009;KEN-010;KEN-011;KEN-014,,
 KEN,discussion,connection,coverage,cut,2025,KEN-005;KEN-006;KEN-007,,
-KEN,discussion,penalty,coverage,repealed,2026-08-31,KEN-001;KEN-002;KEN-012,,
+KEN,discussion,penalty,coverage,punished,2026-02-25,KEN-013,KEN-001=repealed;KEN-002=repealed;KEN-012=repealed,

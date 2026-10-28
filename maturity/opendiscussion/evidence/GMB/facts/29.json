@@ -1,0 +1,37 @@
+{
+ "slug": "2025-10-23-gmb-new-criminal-law-and-draft-cybercrime-bill-in-the-gambia-threatens-pre",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The Gambia Press Union and the Edward Francis Small Center for Rights and Justice criticised the Criminal Offence and Procedure Bill 2025, passed 24 March 2025, over its Section 49 power to ban publications and the reintroduced offence of false publication and broadcasting.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Criminal Offence and Procedure Bill 2025",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Police arrested The Voice editor Musa Sheriff and reporter Momodou Justice Darboe on 26 September 2024 over an article on the president's successor, and the High Court charged them with false publication and broadcasting on 8 October 2024, releasing them on bail.",
+   "as_of": "2024-10-08",
+   "date_precision": "day",
+   "system": "False publication and broadcasting offence",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "repealed",
+   "fact": "The National Assembly passed the Criminal Offence and Procedure Bill 2025 on 24 March 2025, which replaced colonial-era laws and eliminated provisions criminalising defamation and sedition, per CIVICUS Monitor.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Criminal Offence and Procedure Bill 2025",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

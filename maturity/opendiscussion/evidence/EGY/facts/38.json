@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-egy-egypt-escalates-its-war-on-digital-freedom-of-expression",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "LDSF reports content creators were arrested and sentenced in 2025, including Mohamed Abdel Aaty to two years on 29 November 2025, for charges of harming family values and misusing social media.",
+   "as_of": "2025-11-29",
+   "date_precision": "day",
+   "system": "Anti-Cybercrime Law No. 175 of 2018",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

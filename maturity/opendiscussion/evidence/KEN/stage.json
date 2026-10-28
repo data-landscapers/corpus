@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "discussion",
-      "stage": "4",
+      "stage": "2",
       "debate": "criticised",
       "connection": "",
-      "penalty": "repealed",
+      "penalty": "punished",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001;KEN-002",
-      "gaps": "No law, ruling of the country's own court or undertaking given in court in the last three years bars the government from cutting the internet.",
+      "stage_sources": "KEN-009;KEN-013",
+      "gaps": "A person was arrested, charged or jailed, or an outlet suspended or closed, for what was said or published, inside the last twelve months.",
       "note": "Counted from the four questions by study-ladder-opendiscussion.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-10-28"
     }
   ]
 }

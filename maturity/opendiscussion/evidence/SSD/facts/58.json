@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-09-ssd-south-sudan-s-new-cybercrime-law-ramps-up-threat-of-jail-for-journalis",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "CPJ says that in 2025 authorities suspended social media to block news from neighbouring Sudan.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "social media",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "Hot in Juba suspension is for unspecified complaints, not placed."
+}

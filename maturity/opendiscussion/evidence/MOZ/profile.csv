@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MOZ,discussion,debate,coverage,criticised,2026-03-13,MOZ-002,,
-MOZ,discussion,connection,coverage,,,,,nothing held
-MOZ,discussion,penalty,coverage,,,,,nothing held
+MOZ,discussion,connection,coverage,cut,2024-10-29,MOZ-003;MOZ-004,,
+MOZ,discussion,penalty,coverage,,,,,nothing found

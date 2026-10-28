@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-26-ken-kenya-court-due-to-rule-on-cybercrimes-law-as-another-journalist-faces",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "CPJ says journalist Peter Mwita was detained seven days from 31 December and charged on 25 February 2026 over a WhatsApp message alleging links between a Mombasa politician and a gang.",
+   "as_of": "2026-02-25",
+   "date_precision": "day",
+   "system": "Computer Misuse and Cybercrimes Act 2018",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The Blogger Association of Kenya argues in a constitutional appeal that the 2018 cybercrimes law violates freedom of expression, with a ruling due 27 February 2026.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "Computer Misuse and Cybercrimes Act 2018",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

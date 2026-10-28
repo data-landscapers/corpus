@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-02-tun-tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "penalty",
+   "value": "punished",
+   "fact": "Lawyer and columnist Sonia Dahmani was sentenced to two years in May 2026 for criticising prison conditions in a radio interview, charged under Decree 54, per Al Jazeera.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Decree 54",
+   "class": "discussion"
+  },
+  {
+   "sub_indicator": "discussion",
+   "aspect": "debate",
+   "value": "criticised",
+   "fact": "The journalists' union SNJT and civil society groups demanded Decree 54 be scrapped altogether, per Al Jazeera.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "Decree 54",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
