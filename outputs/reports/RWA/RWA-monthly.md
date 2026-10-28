@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Sep – Oct 2026
-compiled: 2026-10-27
-period: 2026-09-01 to 2026-10-27
+compiled: 2026-10-28
+period: 2026-09-01 to 2026-10-28
 place: RWA
-ledger_rows: 51
+ledger_rows: 54
 not_held: 7
-record: cff6fce096f5
+record: ba1175cffa55
 ---
 
 # News, Sep – Oct 2026
@@ -644,6 +644,20 @@ The Rwanda Governance Board's 13th Rwanda Governance Scorecard, published on 22 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Share of government services fully digitised end to end</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why Rwanda is Unhappy with Only 11% of Government Services Fully Digitised](https://www.ktpress.rw/2026/10/why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digitised/)** — KT Press, 27 October 2026
+
+Cabinet reviewed scorecard 26 Oct 2026; RS 600:2025 inventory cuts local services 235 to 60; 12 land services online.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -786,6 +800,20 @@ The Internet Society's Rwanda Chapter ran a two-day training in English and Kiny
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rwanda DigiTruck mobile classroom</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Rwanda Marks Completion of Smart Education Project Phase I and Launches the DigiTruck Initiative](https://www.mineduc.gov.rw/news-detail/rwanda-marks-completion-of-smart-education-project-phase-i-and-launches-the-digitruck-initiative)** — Ministry of Education (Rwanda), 27 October 2026
+
+1,500 schools connected and two data centres built in Phase I; Huawei DigiTruck to train 5,000 across 30 districts.
+
+</div>
+
+</div>
+
 ### Training and skills
 
 <div class="monthly-story" markdown="1">
@@ -825,6 +853,20 @@ MTN Rwanda signed a memorandum of understanding with the National Cyber Security
 **[Rwanda cyber authority boosts security with Airtel, MTN](https://www.connectingafrica.com/cybersecurity/rwanda-cyber-authority-boosts-security-with-airtel-mtn)** — Connecting Africa, 26 October 2026
 
 Rwanda's National Cyber Security Authority partnered with Airtel Rwanda to support the University of Rwanda's CyberHub with student internships, alongside an MoU with MTN Rwanda. No value or term was stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Rwanda Smart Education Project</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Rwanda Marks Completion of Smart Education Project Phase I and Launches the DigiTruck Initiative](https://www.mineduc.gov.rw/news-detail/rwanda-marks-completion-of-smart-education-project-phase-i-and-launches-the-digitruck-initiative)** — Ministry of Education (Rwanda), 27 October 2026
+
+Summarised under [Literacy](#literacy).
 
 </div>
 
