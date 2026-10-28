@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,retail,service,coverage,inservice,2026-09,RWA-001;RWA-003;RWA-005;RWA-007;RWA-008;RWA-011;RWA-012;RWA-015;RWA-016;RWA-019;RWA-023;RWA-024;RWA-025;RWA-026;RWA-027;RWA-029,,
+RWA,retail,service,coverage,inservice,2026-10-27,RWA-001;RWA-003;RWA-005;RWA-007;RWA-008;RWA-011;RWA-012;RWA-015;RWA-016;RWA-019;RWA-023;RWA-024;RWA-025;RWA-026;RWA-027;RWA-029;RWA-030,,
 RWA,retail,interop,coverage,interop,2026-10-08,RWA-002;RWA-004;RWA-006;RWA-009;RWA-013;RWA-017;RWA-020;RWA-021,,
-RWA,retail,switch,coverage,national,2026-07,RWA-010;RWA-014;RWA-018;RWA-022;RWA-028,,
+RWA,retail,switch,coverage,national,2026-10,RWA-010;RWA-014;RWA-018;RWA-022;RWA-028;RWA-031,,

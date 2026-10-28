@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-rwa-why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digiti",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The scorecard reports 76.5% citizen satisfaction with electronic payments through Mobile Money and Airtel Money, which have reduced reliance on cash.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "Mobile Money and Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

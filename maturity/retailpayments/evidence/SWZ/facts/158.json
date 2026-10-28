@@ -1,0 +1,50 @@
+{
+ "slug": "2025-07-25-swz-hacking-on-rise-water-services-halts-digital-payments",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Eswatini Water Services Corporation customers paid bills through e-Mali, Mobile Money, Cash Plus and Unayo until the corporation suspended these channels after a ransomware listing.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Mali",
+   "country_label": "e-Mali",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Mobile Money",
+   "country_label": "Mobile Money",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Cash Plus",
+   "country_label": "Cash Plus",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Unayo",
+   "country_label": "Unayo",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-gnb-guinea-bissau-digital-watch-observatory",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Digital Watch Observatory, citing BCEAO, reports 4.82 million electronic money accounts (3.28 million active) and 83.5 million transactions worth CFA 689.1 billion in Guinea-Bissau in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "electronic money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
