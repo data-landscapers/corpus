@@ -153,7 +153,7 @@ Sierra Leone has a National Broadband Strategy for 2023-2028, reported adopted i
 
 ### South Africa: 3 Established
 
-South Africa's SA Connect broadband policy, adopted in 2013, is cited as current in 2026; no source found says whether any money is committed to it.
+South Africa's SA Connect broadband policy, adopted in 2013, is cited as current in 2026; whether money is committed to it is not known.
 
 - The article says telecoms licensees' spectrum obligations align with the government's SA Connect target of universal broadband access with an average user experience of 100Mbps by 2030, a period not ended; the document gives no event date, so its published date 2026-08-03 is used ([source, 2026-08-03](https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/)).
 - ICASA says its IMT Roadmap supports national broadband objectives as outlined in the SA Connect Broadband Policy, which it treats as in force and cites for broadband access; the document gives no period for the policy and no event date, so its published date 2026-07-28 is used ([source, 2026-07-28](https://www.itweb.co.za/article/icasa-unveils-roadmap-for-south-africas-6g-future/JBwEr7n3WXOM6Db2)).
@@ -208,7 +208,7 @@ In 2016 the ministry launched a broadband study to prepare a national strategy; 
 
 ### Gambia: 2 Nascent
 
-A national broadband policy and strategy ran 2020 to 2024 with coverage targets; no source found reports no successor is named and delivery against the targets.
+A national broadband policy and strategy ran 2020 to 2024 with coverage targets; no successor or report on its targets is known.
 
 - The Gambia National Broadband Strategy 2020-2024, commissioned by the Ministry of Information and Communication Infrastructure in June 2020, covers 2020 to 2024 and sets targets of broadband coverage to more than 90% of the population by 2024, at least 75% of homes with affordable 5 Mbps download and upload speeds by 2022 and 4G coverage of at least 85% of the population by 2024; the document names no successor plan, and its own text refers to a review for the next five-year cycle ([source, 2024](https://mocde.gov.gm/wp-content/uploads/2023/10/BROADBAND-STRATEGY-2024.pdf)).
 - The Ministry of Information and Communication Infrastructure issued the National Broadband Policy 2020-2024 (BP-2024) in June 2020 for a five-year period ending in 2024, setting a 5 Mbps minimum for every user, 75% of homes with affordable 5 Mbps by 2022, near-100% by 2023 and 4G coverage of at least 85% of the population by 2024; the document names no successor ([source, 2020-06](https://policies.gov.gm/d/caa6d521-5bad-11ec-9b31-029254d29bb1)).
