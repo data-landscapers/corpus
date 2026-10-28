@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-10-26
+compiled: 2026-10-28
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 188
+sources_cited: 191
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -163,7 +163,7 @@ Two state systems were breached within a fortnight: the communications ministry 
 
 The government's principal instrument against the 2026 wave of mobile-money fraud is an identity control rather than a security one: [in a ministerial statement in August 2026 it named the linking of SIM cards to national identification numbers as its main enforcement lever, while conceding that not all subscribers have yet linked a SIM to a verified number](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
 
-Measured readiness is middling and institutional. [Sierra Leone sits in the "establishing" tier of the ITU's Global Cybersecurity Index 2024, the band for overall scores of at least 55 out of 100](https://www.itu.int/pub/D-HDB-GCI.01-2024). [A National Cybersecurity Coordination Centre works alongside the communications ministry and the science and technology directorate on whole-of-government cyber and emerging-technology capacity](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/), and senior officials across ministries, departments and agencies [have been put through cybersecurity and emerging-technology training](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/).
+Measured readiness is middling and institutional. [Sierra Leone sits in the "establishing" tier of the ITU's Global Cybersecurity Index 2024, the band for overall scores of at least 55 out of 100](https://www.itu.int/pub/D-HDB-GCI.01-2024). [A National Cybersecurity Coordination Centre works alongside the communications ministry and the science and technology directorate on whole-of-government cyber and emerging-technology capacity](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/), and senior officials across ministries, departments and agencies [have been put through cybersecurity and emerging-technology training](https://mocti.gov.sl/mocti-and-partners-train-civil-servants-on-cybersecurity-artificial-intelligence-and-emerging-technologies/). The ministry and ECOWAS [launched a national incident response team and digital forensics laboratory in Freetown in January 2025](https://www.ecowas.int/ecowas-and-sierra-leone-launch-national-cybersecurity-incident-response-team-and-digital-forensics-lab-in-freetown/). An Estonian index [scored fighting cybercrime 14 of 16 and incident response 6 of 14 in May 2025, with protection of personal data and crisis management at zero](https://ncsi.ega.ee/country/sl/). The [National Cybersecurity Strategy ran from 2021 to 2025](https://mocti.gov.sl/wp-content/uploads/2024/12/Sierra-Leone-CYBERSECURITY-STRATEGY.pdf), and no successor has been found.
 
 The regional obligation is dormant by its own terms. [The ECOWAS directive on cyber and ICT confidence-building measures, adopted alongside the bloc's Digital Sector Development Strategy in October 2024, urges member states to implement it "without delay upon its publication"](https://www.ecowas.int/the-19th-meeting-of-ecowas-ministers-in-charge-of-telecommunications-ict-and-digitalization-adopts-the-ecowas-digital-sector-development-strategy-for-the-period-2024-2029/) — a duty that begins when a text appears, not when ministers adopted it.
 
