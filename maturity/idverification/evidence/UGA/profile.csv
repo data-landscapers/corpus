@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,use,use,coverage,inservice,2026-10-19,UGA-002;UGA-004;UGA-007;UGA-017;UGA-023;UGA-024;UGA-026,UGA-022=underway;UGA-010=underway;UGA-011=underway;UGA-014=underway;UGA-012=underway;UGA-003=underway;UGA-009=underway;UGA-013=underway;UGA-001=underway;UGA-015=underway;UGA-016=underway;UGA-019=underway;UGA-020=underway;UGA-021=underway,
+UGA,use,use,coverage,inservice,2026-10-19,UGA-002;UGA-004;UGA-007;UGA-017;UGA-023;UGA-024;UGA-026,UGA-027=underway;UGA-022=underway;UGA-010=underway;UGA-011=underway;UGA-014=underway;UGA-012=underway;UGA-003=underway;UGA-009=underway;UGA-013=underway;UGA-001=underway;UGA-015=underway;UGA-016=underway;UGA-019=underway;UGA-020=underway;UGA-021=underway,
 UGA,use,sectors,coverage,several,2026-09-07,UGA-005;UGA-008;UGA-018,,
 UGA,use,usage,coverage,reported,2024-06,UGA-006;UGA-025,,

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-27-uga-new-national-ids-to-be-activated-soon-minister-baryomunsi",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NIRA is synchronising with the Uganda Communications Commission to authenticate new national ID cards, after an MP said his bank refused his new ID and required a NIRA letter to verify it.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "NIRA-UCC synchronisation",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
