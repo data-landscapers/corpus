@@ -3,9 +3,9 @@ title: Nigeria — News, Sep – Oct 2026
 compiled: 2026-10-28
 period: 2026-09-01 to 2026-10-28
 place: NGA
-ledger_rows: 175
+ledger_rows: 176
 not_held: 9
-record: 53859cd7e5b6
+record: 51bcfa8b1872
 ---
 
 # News, Sep – Oct 2026
@@ -2543,6 +2543,20 @@ Nigeria's electoral commission INEC said it has begun using AI tools in its resu
 **[Obidients Want INEC To Abandon AI Results Verification Plan](https://kapitalfm.gov.ng/2026/10/07/obidients-want-inec-to-abandon-ai-results-verification-plan)** — KapitalFM 92.9 Abuja, 7 October 2026
 
 A Nigerian opposition movement called on the electoral commission to abandon its planned use of AI to verify the 2027 election results until the governance framework is published. It demands independent verification, traceability from polling unit to final collation and publication of the result forms.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Maturity Matrix archetype</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MAR/MAR-monthly.html" title="MAR">Morocco</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
+
+Over 75 economies on 33 indicators; Nigeria moves up a readiness archetype; 11 African economies rated.
 
 </div>
 
